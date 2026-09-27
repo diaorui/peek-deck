@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "ETH news: Ethereum may not be \u2018just a blockchain\u2019 in 2030, Vitalik Buterin says",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXdsa0haTGJZSGJUN3ZlTlQ0Z2NyUmZVQzhHWUhZMTcyZkI5VVEtZzNlWlJnQV9pdm12TGZKSml5cHlFX28yVmxHZmhoYmpCUVRtSzB4SVhOY1JLTm1RLWJPQmI0QXdBSnU2azJycG1QN1JNbk1aVS1KT3BxWWYxdnZpOGgtM0FwMzBfbjhTdUVEaTRTOWZyNzN3Q2JrQmt3TmNVcXE2WjVfN2VOYkZnUlI3ZjNHR0lUTjEzdi1Yaw?oc=5",
+      "pub_date": 1790519353.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations."
+    },
+    {
       "headline": "A Former BlackRock Executive Calls Bitcoin an \u201cExit Asset\u201d and Ethereum \u201cthe New Rails.\u201d Bitwise Says the Opposite.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -13,6 +23,16 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html",
       "image": "https://s.yimg.com/lo/mysterio/api/871684492fb21623d3b0138bec220323bb15a8766a2c2bf823fc0211125611c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b099bf884daa9e57357a9aaa184e6b0.jpg",
       "description": "A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call."
+    },
+    {
+      "headline": "1 Popular Cryptocurrency to Buy Before It Soars by 9,159%, According to Bitmine's Tom Lee",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFJCVmQ2cUJURlhPUXlRVXJ2Q3p5Rk9BbzJFNWt0ZFhSWlhuNmRLMjRqbnBwWDZiVHJkbWNKRTBOV3NyaVplblc1bnRhRS1FckNxbGZPM2FPRXc4dTBGWllzTllGMXdua0tveGFvRTllZlRrem5Gd180NUg0M0E5NnpySk4yb0N4VW1LdGpHcDFNcUlwNWc?oc=5",
+      "pub_date": 1790509800.0,
+      "article_url": "https://www.fool.com/investing/2026/09/27/1-cryptocurrency-buy-soars-9159-bitmines-tom-lee/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888811%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
+      "description": "Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency."
     },
     {
       "headline": "Tom Lee Says \u2018Stay Tuned\u2019 As Bitmine Nears 5% Ethereum Goal, Hints At What\u2019s Next",
@@ -25,34 +45,24 @@
       "description": "Bitmine Immersion Technologies (BMNR) Chairman Tom Lee said that the company was close to owning 5% of all Ethereum (ETH) and told investors to \"stay tuned\" for what comes next, stopping short of naming a new target.Speaking on the\u00a0Coinage podcast on Thursday, Lee explained that the 5% goal had arr\u2026"
     },
     {
-      "headline": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+      "headline": "Bitcoin Eyes $100K, Ethereum's Evolution and Crypto Market Rally: This Week in Crypto",
+      "source": "benzinga.com",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVDVSejRwREVKY3NtOXdJTDBWblpfbFh2d3ZZdUJKcjJqNGFlandpSWNQV3ctVHcyeG1LTndvZHBhVE1lSVdVbExkR0JHY3lDWnRoUC1MendIeUZ2ZlpUTGRrMXROUTVVNmxjWVBYS0dad3NFQTg2NDRwSjJlcGZQaERDV0syeGRjckt3dTZFM05FR3N2Rko3RGlLY1p0d3Q5SEZfZk5yeFZ6VHJET1hSNHRjOXNsLWVaSFVWS1JaYWxnY2lrUFRjUHd6bHBKbk5xdXczS3B3bEZIX28?oc=5",
+      "pub_date": 1790510424.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/62012010/bitcoin-eyes-100k-ethereums-evolution-and-crypto-market-rally-this-week-in-crypto",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/27/Bitcoin-Seeks-New-Role.jpg",
+      "description": "Bitcoin neared $100,000 as crypto markets rallied, Ethereum expanded its network ambitions, and Kalshi faced scrutiny over trading activity."
+    },
+    {
+      "headline": "Ethereum is not instant, but collateral could make it feel that way",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmVBVnNiZmJ2eDFfRm9EeGEzbnYyZjdwbHV2TFVidlNTelZaUEM0UlF5RXZiUDl0RmZfRDJCVnpyOXlQcXFtbVloMjc3aDAySnhXZkdfc1BEaVhjSWw2eVphOUtqOVF5bmFOcjN2cnFiUlAzTmw4TW5Ha05vN2loa2N2ZlJXNTNMRnZfaFhBcVVJcVVQbFMxYmtGbjRkSk00TzRvcWNhRC1CTTVIWVcxaFpRUDc?oc=5",
-      "pub_date": 1790407829.0,
-      "article_url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg",
-      "description": "ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market."
-    },
-    {
-      "headline": "Ethereum Exchange Supply Hits Record Low as ETH Gains 10% \u2014 Is a Correction Next?",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOGh5a3JDUFJxVXBCbllOUjhXUzkxRlhSMGpLRWlTYm4wcWhQM3E1OWV0ZkkyY2NQMHRURERpWGVFYS1JTmtldHRPU2VMNjhkZERrbmhDem9oUXhGU0lVSEJISzJyd3JLOEUySmVBcW5oeVB4eUR0eHZwcDBmTUl5a2hQUGpMdlNWbEJpU3RTR0poR21hRmVvX2RidUpCWGtjSERSQzhJbXlGRnVNWDJZVkxtXzZtcThaeThPVFh4MXVTY1I2WFZDeVlzaFZHLUQ3cmZ3R2ln?oc=5",
-      "pub_date": 1790347995.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61998408/ethereum-exchange-supply-hits-record-low-as-eth-gains-10-is-a-correction-next",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/25/Digital-3d-Illustration-Of-An-Ethereum-C.jpg",
-      "description": "Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally."
-    },
-    {
-      "headline": "1 Popular Cryptocurrency to Buy Before It Soars by 9,159%, According to Bitmine's Tom Lee",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFJCVmQ2cUJURlhPUXlRVXJ2Q3p5Rk9BbzJFNWt0ZFhSWlhuNmRLMjRqbnBwWDZiVHJkbWNKRTBOV3NyaVplblc1bnRhRS1FckNxbGZPM2FPRXc4dTBGWllzTllGMXdua0tveGFvRTllZlRrem5Gd180NUg0M0E5NnpySk4yb0N4VW1LdGpHcDFNcUlwNWc?oc=5",
-      "pub_date": 1790507453.0,
-      "article_url": "https://www.fool.com/investing/2026/09/27/1-cryptocurrency-buy-soars-9159-bitmines-tom-lee/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888811%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
-      "description": "Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency."
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHQzTVBFaVpkN05uMnNCZWlTSU1yT1V4M3FMZ3FhbXFxcHU0Vndza1hTX2EtcEFuTk81RVp0WW1jN0NZUTRldkY3dUdkbm5LMnFnYlhLQVlsd0l4VEg5YnViMVFfcjFhb09hNExCdVVDdHBsS3JuZTJVZTdUMk5pMWE1cmF3VDhxU29ZUXhJUHJUd3M?oc=5",
+      "pub_date": 1790514050.0,
+      "article_url": "https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-finality-bridge.webp",
+      "description": "Puffer and Google Cloud want to make Ethereum feel instant by financially backing transaction results before final settlement."
     },
     {
       "headline": "Current price of Ethereum for September 25, 2026",
@@ -75,16 +85,6 @@
       "description": "NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to..."
     },
     {
-      "headline": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDg4TXJRVXVWeFI3a1A1YkZrY3NtZUNrdnRVa09TZlNNZW1kS2hUczF4OGVzZHZhQTdxVmM4a29wa0VLeTNWUTl0cy1iMmVnRDRvZmZsUGpRVFVPbGdLVTczQ0d0TE4xR2lhdmk2QkRwSVlGMnlqQjZmWGxzLW5qUmw4bTdkMmZHNnU0TEdOQ3VYQzhlWldOclVSV2dCeTZReXpNMzdKQUNuN1E4RXk4MzZ0akdpamxLNF8zaEFLVUNjZlRjS1FDREswZlZuMmRuMFRVcg?oc=5",
-      "pub_date": 1790258523.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains."
-    },
-    {
       "headline": "Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -95,16 +95,16 @@
       "description": "Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET."
     },
     {
-      "headline": "Bitcoin Eyes $150K, Ethereum To Top $3K? Tom Lee Says Crypto\u2019s Biggest Bull Market May Be Underway",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWVHdnl4RFdPRGJpUnd1WDdvZ0d0V1JxOTNrQWowNTRtVjVubzNlZVAySmNvRFE0WnhGUHVVT1BoYUZwNEdlWS1yaDBGVHZvWGNEc3FiMzk4Njc3eTR6M3VwM2R4ejBmLVI5OWVjSThIOHE5OF9sSlhlUV9vNThlT0NMYXZLWjVqdTZvNm1ldkplMEZRTl8tSldmY3BLY29xem9sYWg2TEl1Q0xSMlVWTTFqZF9Ddmg0Wkd3Wm1GMVctaXd3X0dEa0dXUG5XZWZpV0hPVjFnWFBoc2Nxa1Npc2NFb05BVFJE?oc=5",
-      "pub_date": 1790337837.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:a6b5a950a094b:0-bitcoin-eyes-150k-ethereum-to-top-3k-tom-lee-says-crypto-s-biggest-bull-market-may-be-underway/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Fundstrat\u2019s Tom Lee expects Bitcoin CRYPTO:BTCUSD to maintain a $150,000 target while arguing Ethereum CRYPTO:ETHUSD could eventually reach $60,000 as tokenization, Wall Street adoption and AI bring a much larger pool of investors into digital assets.Why Lee Calls It Bigger Bull MarketIn a \"Money T\u2026"
+      "headline": "Ethereum Exchange Supply Hits Record Low as ETH Gains 10% \u2014 Is a Correction Next?",
+      "source": "benzinga.com",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOGh5a3JDUFJxVXBCbllOUjhXUzkxRlhSMGpLRWlTYm4wcWhQM3E1OWV0ZkkyY2NQMHRURERpWGVFYS1JTmtldHRPU2VMNjhkZERrbmhDem9oUXhGU0lVSEJISzJyd3JLOEUySmVBcW5oeVB4eUR0eHZwcDBmTUl5a2hQUGpMdlNWbEJpU3RTR0poR21hRmVvX2RidUpCWGtjSERSQzhJbXlGRnVNWDJZVkxtXzZtcThaeThPVFh4MXVTY1I2WFZDeVlzaFZHLUQ3cmZ3R2ln?oc=5",
+      "pub_date": 1790347995.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61998408/ethereum-exchange-supply-hits-record-low-as-eth-gains-10-is-a-correction-next",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/25/Digital-3d-Illustration-Of-An-Ethereum-C.jpg",
+      "description": "Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T12:19:16.106763+00:00"
+  "fetched_at": "2026-09-27T17:09:47.166872+00:00"
 }

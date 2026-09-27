@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-27T12:19:20.222631+00:00'
+updated: '2026-09-27T17:09:52.206680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 12:19 UTC  
+**Last Updated:** September 27, 2026 at 17:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,916.25
+### $84,460.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -1.9%  
-**30d:** +8.6%  
-**90d:** +45.0%  
-**1y:** -24.2%  
+**24h:** +0.5%  
+**7d:** -2.5%  
+**30d:** +7.9%  
+**90d:** +44.0%  
+**1y:** -24.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1707.31B
+**Market Cap:** $1696.26B
 Rank #1
 
 **Circulating Supply:** 20,089,965 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.6%
+-33.0%
 
 **All-Time Low:** $67.81
-+125222.2%
++124393.4%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[No, buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wr73rp/no_buy_bitcoin/)**
 
-10h ago
+15h ago
 
 ---
 
 **[and keep buying bitocin](https://www.reddit.com/r/Bitcoin/comments/1wrgzq0/and_keep_buying_bitocin/)**
 
-1h ago
+6h ago
 
 ---
 
 **[So which one are you? Did you buy or are just now buying?](https://www.reddit.com/r/Bitcoin/comments/1wrf4xv/so_which_one_are_you_did_you_buy_or_are_just_now/)**
 
-3h ago
+8h ago
 
 ---
 
 **[Meme](https://www.reddit.com/r/Bitcoin/comments/1wrf6p7/meme/)**
 
-3h ago
+8h ago
 
 ---
 
@@ -105,25 +105,25 @@ Rank #1
 
 name others + context.
 
-2h ago
+7h ago
 
 ---
 
 **[Feeling lucky.....](https://www.reddit.com/r/Bitcoin/comments/1wrijij/feeling_lucky/)**
 
-14m ago
+5h ago
 
 ---
 
 **[Funds are SAFU](https://www.reddit.com/r/Bitcoin/comments/1wr813p/funds_are_safu/)**
 
-10h ago
+15h ago
 
 ---
 
 **[Right?!](https://www.reddit.com/r/Bitcoin/comments/1wqwi5w/right/)**
 
-18h ago
+23h ago
 
 ---
 
@@ -131,13 +131,13 @@ name others + context.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+10h ago
 
 ---
 
 **[Does this happen to anyone else ?](https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/)**
 
-17h ago
+22h ago
 
 ---
 
@@ -149,37 +149,53 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows.
 
-The Block • 18h ago
+The Block • 23h ago
 
 ---
 
-**[MSTR Stock: Strategy's Bitcoin Buying Struggle Has A New Fix](https://www.investors.com/news/mstr-stock-strategy-bitcoin-buying-preferred-daily-dividends/)**
+**[Bitcoin ETF Inflows Reach $2.4 Billion This Week, But Daily Figures Decline: Is the Momentum Fading?](https://247wallst.com/investing/cryptocurrency/2026/09/26/bitcoin-etf-inflows-reach-2-4-billion-this-week-but-daily-figures-decline-is-the-momentum-fading/)**
 
-Strategy's bitcoin buying went on hiatus as its flagship preferred stock tanked. A new proposal may help it regain and hold par value.
+Bitcoin ETF inflows totaled $2.4 billion from September 21 to 25, but daily contributions fell each day. Is this trend coming to an end?
 
-Investor's Business Daily • 1d ago
+247wallst.com • 23h ago
 
 ---
 
-**[Bitcoin’s Privacy Solution: Zcash Takes the Lead Over Monero](https://finance.yahoo.com/markets/crypto/articles/bitcoin-privacy-solution-zcash-takes-100052606.html)**
+**[Bitcoin ETFs have erased a $5.8 billion hole](https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole)**
 
-Zcash and Monero have long competed for dominance in the privacy coin space, but a surge in institutional access, a landmark research paper, and a dramatic price gap are now forcing investors to choose sides.
+At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.
+
+CoinDesk • 2d ago
+
+---
+
+**[It’s ‘Time’—The Real $365 Trillion ‘Critical’ Reason The Bitcoin Price Is Suddenly Soaring](https://www.forbes.com/sites/digital-assets/2026/09/26/its-time-the-real-365-trillion-critical-reason-the-bitcoin-price-is-suddenly-soaring/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin vs Ethereum: Which Gets Back to Its All-Time High First?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-gets-back-145758926.html)**
+
+Bitcoin and Ethereum are both racing to reclaim their all-time highs, but the gap each coin must close tells very different stories about which one gets there first.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[#strategystriveadd2305bitcointhisweek Community Insights & Market Sentiment | Binance Square](https://www.binance.com/en/square/hashtag/strategystriveadd2305bitcointhisweek)**
+**[Is It Too Late to Buy Bitcoin After a 32% Rally in Two Months?](https://finance.yahoo.com/markets/crypto/articles/too-buy-bitcoin-32-rally-142530128.html)**
 
-Binance • 26m ago
+Bitcoin just posted its strongest two-month surge of the year, yet buyers from 2025 are still sitting on massive losses. Whether this rally signals a genuine recovery or a trap for late investors comes down to a few critical price levels.
+
+Yahoo Finance • 2h ago
 
 ---
 
-**[NEAR Hits One-Year High, Outpaces Bitcoin After Bitwise Files Final Prospectus For Spot ETF](https://finance.yahoo.com/markets/crypto/articles/near-hits-one-high-outpaces-093717875.html)**
+**[Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'](https://finance.yahoo.com/real-estate/articles/grant-cardone-says-commercial-real-153801606.html)**
 
-NEAR Protocol's one-year return has climbed to about 96%, after turning positive in mid-September.
+Real estate investor Grant Cardone said 5-year borrowing costs are 6.4%, pressuring property values as $1 trillion in commercial loans mature in six months.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,35 +207,21 @@ CNBC • 2d ago
 
 ---
 
-**[Give solo Bitcoin mining a try with this $60 pocket-sized ticket miner](https://www.popsci.com/sponsored-content/give-solo-bitcoin-mining-a-try-with-this-pocket-sized-ticket-miner-sponsored-deal-2/)**
+**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
 
-The BlockChance Bitcoin Ticket Miner offers an easy, compact, solo mining experience that requires very little to get started.
-
-Popular Science • 1d ago
+Morningstar • 1d ago
 
 ---
 
-**[Current price of Bitcoin for September 25, 2026](https://fortune.com/article/price-of-bitcoin-09-25-2026/)**
+**[Scam involving Bitcoin reported in McCracken County](https://www.westkentuckystar.com/News/Local-Regional/Scam-involving-Bitcoin-reported-in-McCracken-Count)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Yet another scam is making the rounds in McCracken County, this time involving Bitcoin.
 
-Fortune • 1d ago
+According to the McCracken County Sheriff's Office, numerous reports of phone calls claiming to be a deputy have been received.
 
----
+The caller goes on to ex
 
-**[P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money](https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377)**
-
-Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
-
-CBC • 2d ago
-
----
-
-**[The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?](https://www.fool.com/investing/2026/09/26/the-strategic-bitcoin-reserve-is-closer-than-ever/)**
-
-Congress just moved one step closer to a Strategic Bitcoin Reserve. Here's why that doesn't mean a sudden Bitcoin price surge.
-
-The Motley Fool • 20h ago
+West Kentucky Star • 15h ago
 
 ---
 
@@ -227,17 +229,9 @@ The Motley Fool • 20h ago
 
 ## HackerNews: "bitcoin"
 
-**[The People–OK, the Men–Who Still Love Bitcoin](https://news.ycombinator.com/item?id=49775336)**
-
-The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
-
-⬆️ 4 • 💬 1 • 6d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
-
----
-
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 4d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 5d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -267,7 +261,13 @@ https://t.co/GktyWFbTdN
 
 Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test network.
 
-⬆️ 1 • 💬 0 • 16h ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
+⬆️ 1 • 💬 0 • 21h ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
+
+---
+
+**[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
+
+⬆️ 2 • 💬 0 • 2h ago
 
 ---
 
@@ -283,13 +283,13 @@ Bits on Bots is a daily AI publication run mostly by agents. Who picks the story
 
 ## YouTube Videos: "bitcoin"
 
-**[TRUMP SIGNED FAKE EXECUTIVE ORDERS?! | Was the Strategic Bitcoin Reserve a SCAM?](https://www.youtube.com/watch?v=mHkKvgPFHwc)**
+**[The Biggest Crypto Bull Run In History Is Going To Set Bitcoin &amp; Ethereum Holders Up For Life](https://www.youtube.com/watch?v=jsm5NyNiT4c)**
 
-Trump established the Strategic Bitcoin Reserve in March 2025, but the fight over what it actually becomes is far from over.
+The clock is ticking, and I dont think people actually want to realize that its happening. The Ethereum and crypto news the last few ...
 
-📺 Simply Bitcoin
+📺 Money Rules - Investing Tips 
 
-👁️ 26K • 👍 1K • 💬 145 • ⏱️ 16:08 • 13h ago
+👁️ 11K • 👍 1K • 💬 227 • ⏱️ 16:24 • 5h ago
 
 ---
 
@@ -299,7 +299,7 @@ The bond market is flashing serious stress as Treasury yields climb and the pres
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 64 • ⏱️ 16:05 • 1d ago
+👁️ 36K • 👍 2K • 💬 69 • ⏱️ 16:05 • 1d ago
 
 ---
 
@@ -309,7 +309,57 @@ Bitcoin just sent a new signal after the recent breakout and rally - but is the 
 
 📺 Alessio Rastani
 
-👁️ 37K • 👍 2K • 💬 196 • ⏱️ 4:12 • 1d ago
+👁️ 40K • 👍 2K • 💬 200 • ⏱️ 4:12 • 1d ago
+
+---
+
+**[Bitcoin Is About to Explode....Alts Rally](https://www.youtube.com/watch?v=I-BAUH0grxg)**
+
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+
+📺 CryptosRUs
+
+👁️ 36K • 👍 955 • 💬 70 • ⏱️ 46:21 • 2d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
+
+BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 20K • 👍 458 • 💬 105 • ⏱️ 24:53 • 18h ago
+
+---
+
+**[Tom Lee :&quot;The 2026 Crypto Bull Run Has CHANGED&quot; (2026 New Prediction)](https://www.youtube.com/watch?v=e7uWLToz4Z8)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 14K • 👍 271 • 💬 18 • ⏱️ 18:49 • 23h ago
+
+---
+
+**[BITCOIN ANALYSIS FOR NEXT WEEK! (BTC Price Prediction)](https://www.youtube.com/watch?v=lb_1U8h7-6Q)**
+
+BITCOIN PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS TO GET ...
+
+📺 Cilinix Crypto
+
+👁️ 2K • 👍 94 • 💬 11 • ⏱️ 5:42 • 7h ago
+
+---
+
+**[🔴 LIVE: Scalping Bitcoin &amp; Gold | BTC Live Trading  | 27 th Sep | Markets With Mack](https://www.youtube.com/watch?v=XDVmGcPknd4)**
+
+LIVE: Scalping Bitcoin & Gold | BTC Live Trading | 27th Sep | Markets With Mack Top Recommended Brokers: Best For Indian ...
+
+📺 Markets With Mack
+
+👁️ 3K • 👍 422 • 30m ago
 
 ---
 
@@ -319,27 +369,7 @@ Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/
 
 📺 Road To $1 Million USD
 
-👁️ 10K • 👍 248 • 💬 38 • ⏱️ 7:25 • 13h ago
-
----
-
-**[Is crypto back?: Bitcoin stock surges](https://www.youtube.com/watch?v=gjnagcx3mM8)**
-
-Clear Street analyst Owen Lau breaks down the future of crypto regulation on 'Making Money.' #fox #media #breakingnews #us ...
-
-📺 Fox Business Clips
-
-👁️ 20K • 👍 239 • 💬 210 • ⏱️ 5:04 • 13h ago
-
----
-
-**[Bitcoin: A Critical Moment](https://www.youtube.com/watch?v=gvvMvW7AGE4)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 182K • 👍 7K • 💬 612 • ⏱️ 21:08 • 1d ago
+👁️ 12K • 👍 277 • 💬 32 • ⏱️ 7:25 • 18h ago
 
 ---
 
@@ -349,37 +379,7 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 15K • 👍 712 • 💬 55 • ⏱️ 9:12 • 6h ago
-
----
-
-**[BITCOIN - THIS IS THE LAST TIME](https://www.youtube.com/watch?v=DMqgQC83awI)**
-
-patreon.com/myfinancialfriend CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE!
-
-📺 My Financial Friend
-
-👁️ 18K • 👍 493 • 💬 102 • ⏱️ 10:07 • 16h ago
-
----
-
-**[BITCOIN: THIS IS HOW IT ENDS!!!!!! [prepare yourself NOW!!!!]](https://www.youtube.com/watch?v=uQfwyWCtVtU)**
-
-Join CryptoAnup Platinum Group for FREE (for limited time only!!!) https://t.me/CryptoAnupPlatinum Follow Crypto Anup ...
-
-📺 Crypto Anup
-
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 5:35 • 5h ago
-
----
-
-**[The Bond Bubble Is Bursting. What Happens to Bitcoin?](https://www.youtube.com/watch?v=eZZub6U3rlg)**
-
-Bonds sit at the center of pensions, retirement portfolios, and the global financial system. After a 40-year bull market, rising yields ...
-
-📺 Joe Burnett
-
-👁️ 21K • 👍 271 • 💬 27 • ⏱️ 10:48 • 1d ago
+👁️ 24K • 👍 885 • 💬 81 • ⏱️ 9:12 • 10h ago
 
 ---
 

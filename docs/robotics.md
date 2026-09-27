@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-27T12:19:20.232064+00:00'
+updated: '2026-09-27T17:09:52.215788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 27, 2026 at 12:19 UTC  
+**Last Updated:** September 27, 2026 at 17:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A duck project built with an Uno Q and Feetech servos—what do you guys think?](https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 **[Free Livestream for ROSCon Global 2026 in Toronto](https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/)**
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 2d ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 3d ago
 
 ---
 
@@ -80,7 +80,7 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-arstechnica.com • 1d ago
+Ars Technica • 1d ago
 
 ---
 
@@ -120,31 +120,23 @@ arstechnica.com • 1d ago
 
 The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 22h ago
 
 ---
 
-**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
+**[Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)](https://www.engadget.com/2266933/humanoid-robot-cries-on-command/)**
 
-Your weekly selection of awesome robot videos
+Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
 
-IEEE Spectrum • 1d ago
-
----
-
-**[I Loved Laughing at Videos of Robots Falling on Their Faces. Then I Realized That’s Exactly What They Want.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
-
-The World Humanoid Games were actually a social experiment in the making.
-
-Slate Magazine • 2h ago
+engadget.com • 3h ago
 
 ---
 
-**[The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)**
+**[Ex-defense minister Fedorov announces new 'Army of Robots' initiative in latest move since leaving office](https://kyivindependent.com/ex-defense-minister-fedorov-announces-new-army-of-robots-initiative-in-latest-move-since-leaving-office/)**
 
-Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
+According to Fedorov, the initiative will be not one company, but an "ecosystem," combining investment, native production, and R&D.
 
-techcrunch.com • 1d ago
+The Kyiv Independent • 1d ago
 
 ---
 
@@ -152,21 +144,39 @@ techcrunch.com • 1d ago
 
 Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
 
-WSB-TV • 11h ago
+WSB-TV • 16h ago
 
 ---
 
-**[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
+**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
 
-Breaking Defense • 2d ago
+The World Humanoid Games were actually a social experiment in the making.
+
+Slate Magazine • 7h ago
 
 ---
 
-**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
+**[The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)**
 
-The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
+Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
 
-CNBC • 3d ago
+TechCrunch • 1d ago
+
+---
+
+**[Ukraine’s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say](https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9)**
+
+Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems.
+
+Business Insider • 2d ago
+
+---
+
+**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 4h ago
 
 ---
 
@@ -178,95 +188,17 @@ Designboom • 2d ago
 
 ---
 
-**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
-
-The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
-
-IFR International Federation of Robotics • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
+**[A robot rolls off assembly line every 2.5 minutes](https://www.youtube.com/watch?v=PwI4n58b7z0)**
 
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
+Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: the Q1 and the T1. Take a look at the ...
 
-📺 World Best Talent
+📺 New China TV
 
-👁️ 282K • 👍 1K • 💬 89 • ⏱️ 25:31 • 1d ago
-
----
-
-**[How Robots Went From Giant Arms to Humanoids](https://www.youtube.com/watch?v=2q0pOBi7eRQ)**
-
-From Unimate to Atlas, robots have evolved from simple programmable machines into increasingly mobile, sensor-equipped and ...
-
-📺 Unlocked Timekeeper
-
-👁️ 612 • 👍 33 • 💬 1 • ⏱️ 2:41 • 1d ago
-
----
-
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
-
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
-
-📺 America's Got Talent
-
-👁️ 729K • 👍 6K • 💬 696 • ⏱️ 4:18 • 4d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 600K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
-
----
-
-**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
-
-IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
-
-📺 Evolving AI
-
-👁️ 22K • 👍 142 • 💬 18 • ⏱️ 12:11 • 5d ago
-
----
-
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
-
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
-
-📺 NBC News
-
-👁️ 354K • 👍 531 • 💬 69 • ⏱️ 0:59 • 4d ago
-
----
-
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
-
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
-
-📺 RoboFrontier
-
-👁️ 62K • 👍 234 • 💬 66 • ⏱️ 4:15 • 5d ago
-
----
-
-**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
-
-📺 South China Morning Post
-
-👁️ 206K • 👍 1K • 💬 245 • ⏱️ 2:40 • 6d ago
+👁️ 67K • 👍 35 • 💬 7 • ⏱️ 0:24 • 4d ago
 
 ---
 
@@ -276,17 +208,87 @@ He got REK-ed. After besting us in everything from track-and-field to medicine, 
 
 📺 New York Post
 
-👁️ 33K • 👍 332 • 💬 211 • ⏱️ 1:17 • 22h ago
+👁️ 36K • 👍 355 • 💬 229 • ⏱️ 1:17 • 1d ago
 
 ---
 
-**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+**[How Robots Went From Giant Arms to Humanoids](https://www.youtube.com/watch?v=2q0pOBi7eRQ)**
 
-Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+From Unimate to Atlas, robots have evolved from simple programmable machines into increasingly mobile, sensor-equipped and ...
+
+📺 Unlocked Timekeeper
+
+👁️ 1K • 👍 51 • 💬 2 • ⏱️ 2:41 • 1d ago
+
+---
+
+**[Hide Your Job?🤯 AI Robots Just Stopped Dancing and Started Working 🤖📦](https://www.youtube.com/watch?v=8nNkgf3bAMA)**
+
+We've watched robots dance, flip, box and run. But this may be the part of the robotics revolution that matters more. Chinese ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 1K • 👍 6 • 💬 2 • ⏱️ 0:26 • 9h ago
+
+---
+
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+
+📺 America's Got Talent
+
+👁️ 733K • 👍 6K • 💬 697 • ⏱️ 4:18 • 4d ago
+
+---
+
+**[ITKAN x SWYFT BIOBUZZ Ri3D Elevator Analysis #ftc #biobuzz #robotics #first #swyft #itkan #ri3d](https://www.youtube.com/watch?v=_r3dA2yeGiw)**
+
+ITKAN x SWYFT BIOBUZZ Ri3D Elevator Analysis #ftc #biobuzz #robotics #first #swyft #itkan #ri3d.
+
+📺 SWYFT Robotics
+
+👁️ 2K • 👍 28 • 💬 1 • ⏱️ 0:23 • 1d ago
+
+---
+
+**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
+
+Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
 
 📺 ejunky66
 
-👁️ 82K • 👍 1K • 💬 152 • ⏱️ 1:00 • 6d ago
+👁️ 281K • 👍 3K • 💬 300 • ⏱️ 1:00 • 3d ago
+
+---
+
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
+
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
+
+📺 Aman Jain
+
+👁️ 36K • 👍 558 • 💬 55 • ⏱️ 0:16 • 6d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 604K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
+
+---
+
+**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+
+Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+
+📺 NBC News
+
+👁️ 355K • 👍 536 • 💬 70 • ⏱️ 0:59 • 4d ago
 
 ---
 
