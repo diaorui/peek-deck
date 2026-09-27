@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVg5MUZTSE1JSFBIR0hkYi1IcUJUWTA5SFVQcVB0SFNiVHNIMEFLNENfQUp5aTY5Rk1OWS1pOWRjR0dLYm5pMGxzTHVMMHoydXhURkRfdjVRSlVkam81RUxyYVlfLWFwMFpNdzNPTDRkUzIzREpRMG5jSEh4eWFGTU9LSEhoa0J3bDd4UXJFS1RUOFNlQWdtUlU4aktuN3FSRDJXSnRxOTBiX0JZanRwcFNfM1BCT3NxZGt5SHFnU1Y1RlpCSVFYUDR4SEplaXI0TDdVdG8zUUhzamNMcllvd25LSQ?oc=5",
+      "pub_date": 1790443452.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
+      "description": "U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows."
+    },
+    {
       "headline": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -15,14 +25,34 @@
       "description": "Bitcoin ETFs have drawn nearly $3 billion over seven straight days, erasing post-Clarity Act losses and pushing 2026 flows back into the green."
     },
     {
-      "headline": "It\u2019s \u2018Time\u2019\u2014The Real $365 Trillion \u2018Critical\u2019 Reason The Bitcoin Price Is Suddenly Soaring",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRFVpTFJaa040NFNfZzNCaENjY1Nob1ZDUXF5azZYc1VlVmUyM0NYWVhUSU5BNnc1SDVNdXlZbU1HN096ZG1ySzhUMUhLRjY1WDN3Yjd5Rk1mNDY2M0VyWXVzTFhwbHRwRWFWSUk4YmI5ZHctUnRBb3JWU0ZpVzMzRkYzUzVyNTJnZnhDT1JoQmx6MVlCNlQwUEQydzMzdDFXNUtaR0h1WkNidnlqVE14Y3E3ajhPdUd0cG5lTkNoS0hodnV0UkZqbEs4eXdfZmppSktwS2tJZw?oc=5",
-      "pub_date": 1790422220.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/26/its-time-the-real-365-trillion-critical-reason-the-bitcoin-price-is-suddenly-soaring/",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin ETFs have erased a $5.8 billion hole",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXJuNXBfT1RyMC1nZ2hVUVVCd3lJZjRqZG5oV2Z4OUdIYktqT0dJNEF4NHo5emVOckx3c0duM25BV2ttaXJxM3BBT0FONlc1VGFES2hCbGxnVDA5Ql9lR3pvcHg0TlQ1REZCc3YyNG1BTHVpb05GbjNxeDRlaDdZV1pVSG5iYkxZNjNaTHJxY1BEeHRp?oc=5",
+      "pub_date": 1790339893.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/133ec4662458f7c7fc72023fa8f6ed9686c5ee4f-1600x1125.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that\u2019s turned into $800 million in net inflows."
+    },
+    {
+      "headline": "MSTR Stock: Strategy's Bitcoin Buying Struggle Has A New Fix",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEVEaVV0eWpXNW5sQUg2UWNqeDVBTUxwc1dTQWFrNmZoLUhZc29JOGlsMnNLejhpdjlXNWNXcTJ0VGlHUjNPY2lzYW1JRTVEUnBQTzFDeTNsMkY3ZmVlZldHZjVZelJ1RnBja09fdmZyR0paNFJGeXNQZmJ0R3E3RzVLb1U1aTcyTHVJZm12NXRZWlZCV0FZ?oc=5",
+      "pub_date": 1790367780.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-buying-preferred-daily-dividends/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/08/Stock-BitcoinGold-stand-shut.jpg",
+      "description": "Strategy's bitcoin buying went on hiatus as its flagship preferred stock tanked. A new proposal may help it regain and hold par value."
+    },
+    {
+      "headline": "\"Find a different place\": Garage sale fuels fight against Morgan County bitcoin mining facility",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVW5Md0tqdWtaR2FnbTBOUzgxT2s5SW94WWZVWE5JeUhGcERRT1EtTUI2T0pOMDNNN29yVXFPMjFNYkNLd1dfVEFDaDd4TE5jX2R4T1UwczZCMGUwLU1ZdXZKUHlfX2NkWFpPRTdVaHU0ekNrZlVBRXhmNmJ5d1RDTERuelczd3lWenZKcQ?oc=5",
+      "pub_date": 1790479440.0,
+      "article_url": "https://www.yahoo.com/news/articles/different-place-garage-sale-fuels-032400108.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b23f4ca85326bbeb6208d6e7d8eca35caeae4bf83a7236404629f811f79674b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwzdx_tegna_articles_620%2F0da7c9770d9e50f86b54d6b5689d7013.jpg",
+      "description": "The sale was organized by Say No to Data Centers Morgan County, a group that formed to oppose a proposed bitcoin mining facility near residents' homes.  What started as a request for donations on Face..."
     },
     {
       "headline": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
@@ -36,7 +66,7 @@
     },
     {
       "headline": "Why Is Bitcoin Soaring Again?",
-      "source": "Morningstar",
+      "source": "global.morningstar.com",
       "source_url": "https://global.morningstar.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43S3kxUWVBYllhaDF2eEx1UUlxdkNZajcwLTM3RzJQZlBtbDBZbVRJbmRCVkl2VUY4OTBobHFwYkRMTG81Q1dxX2ItaWJQaTdlQ2FZeVZ3cmNOUC1lS1gzSXpyMjVtUmRBZ281eEswMnlqSEJQakFNQnBhY3UwQQ?oc=5",
       "pub_date": 1790367267.0,
@@ -65,46 +95,16 @@
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVElNeFptdmZTaUdTcnY3WHc2Uzg4YzE5M0pXUkpoM0FoUTJDb3NIVXlWaFNlOThUazROcm9MUXZnVkZnbXRvQWdzM0lrS2l3LUptR0hiM1JMXzRoTFdmZDU1eTFuUENWT2NfSlQxMFJ5RmxUaFJxOWZ5YkdSeFliWEVzdm1TajZVTmtBVWdnVUp6S05GWEhIcA?oc=5",
-      "pub_date": 1790401800.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-now-accounts-less-60-055000293.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6439e806d5eb84b25a682fc7326d756395f272bac95e71075503ed22f29a02a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F333138281b7ded69a689500125c1e1e1.jpg",
-      "description": "Altcoin season could be coming soon, according to this key Bitcoin metric."
-    },
-    {
-      "headline": "P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money",
-      "source": "cbc.ca",
-      "source_url": "https://www.cbc.ca",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDFKall3SmtYNEFWOWgwMlEydG9zNUVNYjJiZWpPWEJPSWFfNTQtVXBkTUVfa0Vfd1l3eXlJa1RRcTA1b3RSZHV1Z2FUZTdNOG9OSVU2eS1KRjJic2loelBjNV82Vl9CQy0xNHdKZVczV3ZoZjZRVzZ0YnZKaFJhUEdwbmd5ZTdFNHNfNmRlbw?oc=5",
-      "pub_date": 1790326800.0,
-      "article_url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377",
-      "image": "https://i.cbc.ca/ais/219148f6-c9b7-46b4-844e-906e87b458d3,1790280678236/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "description": "Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call."
-    },
-    {
-      "headline": "Can Bitcoin\u2019s rally last?",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGhEZUhoYzhVbWpheEQ4QzFhcV92RnRmQTUtRkhVQzBGTkh1VHRsVk1vMkFrR3gxMTJiTmVIaG41VWpyVGUyTFJpb3kzRk03dG5uOHdMaVBKNmFPLTE1cGZGdVZPcEdQRkFOQ05mQmRKb25YN0xjUW5XMDJ4Wm1KbjBOc1VYTFB5SmZMdjNBSE9TNlpJdkVV?oc=5",
-      "pub_date": 1790294400.0,
-      "article_url": "https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ29SYVlkYk0ycy1YR2tPWnpqaDlwOW5IOWNtMC1qMHF4YTFVek90emVmUXE5NXFuLVNLVkhJSVNVOGhzSG9xQkZlN0RuMnZfc2FvWVgtbXZ6S3c4V0hPX0VhOFdWdXhhOWVFdWFQaFBtX2ZlMzlhS2JBRGs5bXR5UC1faUM5UzZ5a0daZ2NTMnB1MGIybER6WHJFR3hwZURhbU56bVpZNEpDdDJuRzRqNXdKMGpGSGg5Skpv?oc=5",
-      "pub_date": 1790450279.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again."
+      "headline": "The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFNyenNHbHpKR3BuWjM0SFliMGhvb2NzWnRfZnN1dG9LSEpPM3JZTGxtRGRzTWpHaDhJTG1xcHBWQ2hiaGVac1Y3Z1RRT29aR3RLMkl1eDBKRjBNRXI2MHJrb3FfQ2RTREY0WDVSX2ZMRl9qcmU1UUdkbVZaOGVvV21DVFBOUlUzdGtkWndZRTdROFowZDdn?oc=5",
+      "pub_date": 1790439060.0,
+      "article_url": "https://www.fool.com/investing/2026/09/26/the-strategic-bitcoin-reserve-is-closer-than-ever/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887800%2Fbitcoin-symbol-and-gavel-to-regulate-cryptocurrencies-market-getty-images.jpg&w=1200&op=resize",
+      "description": "Congress just moved one step closer to a Strategic Bitcoin Reserve. Here's why that doesn't mean a sudden Bitcoin price surge."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T00:47:15.535909+00:00"
+  "fetched_at": "2026-09-27T06:20:01.361458+00:00"
 }

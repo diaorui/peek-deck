@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-27T00:47:33.627993+00:00'
+updated: '2026-09-27T06:20:15.726304+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 00:47 UTC  
+**Last Updated:** September 27, 2026 at 06:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,404.59
+### $84,588.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -2.6%  
-**30d:** +7.8%  
-**90d:** +43.9%  
-**1y:** -24.7%  
+**24h:** +0.6%  
+**7d:** -2.3%  
+**30d:** +8.1%  
+**90d:** +44.3%  
+**1y:** -24.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1694.20B
+**Market Cap:** $1699.08B
 Rank #1
 
-**Circulating Supply:** 20,089,834 BTC
+**Circulating Supply:** 20,089,918 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.1%
+-32.9%
 
 **All-Time Low:** $67.81
-+124263.7%
++124608.7%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Right?!](https://www.reddit.com/r/Bitcoin/comments/1wqwi5w/right/)**
 
-7h ago
+12h ago
 
 ---
 
 **[Does this happen to anyone else ?](https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/)**
 
-5h ago
+11h ago
 
 ---
 
 **[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wqhxkz/buy_bitcoin/)**
 
-19h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks. Edit: I'm making this post mostly to warn people to double-check and triple-check the destination address even in a replace-by-fee transaction, because the address can be altered during this phase too according to the Bitcoin protocol. I hope this helps someone avoid falling for the same SCAM I did. The more we learn from our mistakes, the less we get hurt. Thanks, everyone.
 
-12h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ I think I was the victim of a malware on Electrum 4.7.1. I looked for informatio
 
 Hello, Always, i was wondering who's buying and who's selling bitcoin when the price goes up or down. Then I create my own stats, directly red from the btc blockchain. Feel free to send me feedbacks :) Sincerely btc
 
-12h ago
+18h ago
 
 ---
 
@@ -121,13 +121,13 @@ Hello, Always, i was wondering who's buying and who's selling bitcoin when the p
 
 Been thinking about this after reading through a few threads on lost coins. Estimates put lost BTC somewhere around 3-4 million coins already — permanently gone, not because of hacks, but because the person who held the keys died (or lost access) and nobody else could get in. The part that gets glossed over: even if your family legally inherits your Bitcoin (will, probate, whatever), that's completely separate from whether they can actually access it. A grant of probate doesn't unlock a hardware wallet. It doesn't pass 2FA. If nobody documented where the seed phrase is or which exchanges you used, "inheriting" the BTC just means inheriting a wallet address they can see on a block explorer and can't do anything with. A few things worth actually sitting down and answering honestly: If something happened to you today, would your spouse/family even know which exchanges or wallets to look for? If your 2FA is tied to your phone and only your phone, what happens when the phone is locked and nobody has the PIN? Is your seed phrase written somewhere your family could plausibly find — but a random person going through your stuff couldn't? Not trying to be morbid, just think this is one of those things that's genuinely easy to put off indefinitely because it forces you to think about your own death, but the cost of not doing it is total and permanent for the people you'd actually want to inherit it. Curious if anyone here has actually been on the "family member died, tried to access their BTC" side of this. Did it work? Did anything get lost?
 
-3h ago
+8h ago
 
 ---
 
 **[River Financial has sued Blockstream Services Canada, alleging breach of contract over a termination agreement requiring Blockstream to pay River roughly $6.7 million.](https://www.reddit.com/r/Bitcoin/comments/1wqw51x/river_financial_has_sued_blockstream_services/)**
 
-7h ago
+12h ago
 
 ---
 
@@ -135,7 +135,7 @@ Been thinking about this after reading through a few threads on lost coins. Esti
 
 Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER app to move into L-BTC and then somehow swap into BTC addres.. or smth..?
 
-🔗 [breez.technology](https://breez.technology/misty/) • 15h ago
+🔗 [breez.technology](https://breez.technology/misty/) • 20h ago
 
 ---
 
@@ -143,7 +143,7 @@ Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER
 
 how do I top up my Bisq wallet to buy BTC in bisq? Can anyone let me know a website or something that can top up your bisq wallet without any form of KYC? if anyone knows, please leave a reply below. Cheers!
 
-6h ago
+12h ago
 
 ---
 
@@ -151,17 +151,43 @@ how do I top up my Bisq wallet to buy BTC in bisq? Can anyone let me know a webs
 
 ## Google News: "bitcoin"
 
+**[Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October](https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944)**
+
+U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows.
+
+The Block • 12h ago
+
+---
+
 **[Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green](https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green)**
 
 Bitcoin ETFs have drawn nearly $3 billion over seven straight days, erasing post-Clarity Act losses and pushing 2026 flows back into the green.
 
-Decrypt • 7h ago
+Decrypt • 13h ago
 
 ---
 
-**[It’s ‘Time’—The Real $365 Trillion ‘Critical’ Reason The Bitcoin Price Is Suddenly Soaring](https://www.forbes.com/sites/digital-assets/2026/09/26/its-time-the-real-365-trillion-critical-reason-the-bitcoin-price-is-suddenly-soaring/)**
+**[Bitcoin ETFs have erased a $5.8 billion hole](https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole)**
 
-Forbes • 13h ago
+At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.
+
+CoinDesk • 1d ago
+
+---
+
+**[MSTR Stock: Strategy's Bitcoin Buying Struggle Has A New Fix](https://www.investors.com/news/mstr-stock-strategy-bitcoin-buying-preferred-daily-dividends/)**
+
+Strategy's bitcoin buying went on hiatus as its flagship preferred stock tanked. A new proposal may help it regain and hold par value.
+
+Investor's Business Daily • 1d ago
+
+---
+
+**["Find a different place": Garage sale fuels fight against Morgan County bitcoin mining facility](https://www.yahoo.com/news/articles/different-place-garage-sale-fuels-032400108.html)**
+
+The sale was organized by Say No to Data Centers Morgan County, a group that formed to oppose a proposed bitcoin mining facility near residents' homes.  What started as a request for donations on Face...
+
+Yahoo • 2h ago
 
 ---
 
@@ -175,7 +201,7 @@ CNBC • 2d ago
 
 **[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
 
-Morningstar • 1d ago
+global.morningstar.com • 1d ago
 
 ---
 
@@ -183,7 +209,7 @@ Morningstar • 1d ago
 
 The BlockChance Bitcoin Ticket Miner offers an easy, compact, solo mining experience that requires very little to get started.
 
-Popular Science • 12h ago
+Popular Science • 18h ago
 
 ---
 
@@ -195,33 +221,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-now-accounts-less-60-055000293.html)**
+**[The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?](https://www.fool.com/investing/2026/09/26/the-strategic-bitcoin-reserve-is-closer-than-ever/)**
 
-Altcoin season could be coming soon, according to this key Bitcoin metric.
+Congress just moved one step closer to a Strategic Bitcoin Reserve. Here's why that doesn't mean a sudden Bitcoin price surge.
 
-Yahoo Finance • 18h ago
-
----
-
-**[P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money](https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377)**
-
-Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
-
-cbc.ca • 1d ago
-
----
-
-**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
-
-The Economist • 2d ago
-
----
-
-**[Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech](https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules)**
-
-Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.
-
-CoinDesk • 5h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -269,7 +273,7 @@ https://t.co/GktyWFbTdN
 
 Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test network.
 
-⬆️ 1 • 💬 0 • 5h ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
+⬆️ 1 • 💬 0 • 10h ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
 
 ---
 
@@ -285,23 +289,13 @@ Bits on Bots is a daily AI publication run mostly by agents. Who picks the story
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN - THIS IS THE LAST TIME](https://www.youtube.com/watch?v=DMqgQC83awI)**
+**[TRUMP SIGNED FAKE EXECUTIVE ORDERS?! | Was the Strategic Bitcoin Reserve a SCAM?](https://www.youtube.com/watch?v=mHkKvgPFHwc)**
 
-patreon.com/myfinancialfriend CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE!
+Trump established the Strategic Bitcoin Reserve in March 2025, but the fight over what it actually becomes is far from over.
 
-📺 My Financial Friend
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 361 • 💬 89 • ⏱️ 10:07 • 5h ago
-
----
-
-**[Is crypto back?: Bitcoin stock surges](https://www.youtube.com/watch?v=gjnagcx3mM8)**
-
-Clear Street analyst Owen Lau breaks down the future of crypto regulation on 'Making Money.' #fox #media #breakingnews #us ...
-
-📺 Fox Business Clips
-
-👁️ 1K • 👍 64 • 💬 73 • ⏱️ 5:04 • 2h ago
+👁️ 18K • 👍 1K • 💬 135 • ⏱️ 16:08 • 7h ago
 
 ---
 
@@ -311,17 +305,37 @@ Bitcoin just sent a new signal after the recent breakout and rally - but is the 
 
 📺 Alessio Rastani
 
-👁️ 29K • 👍 1K • 💬 173 • ⏱️ 4:12 • 12h ago
+👁️ 33K • 👍 2K • 💬 187 • ⏱️ 4:12 • 18h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
+**[BITCOIN: WEEKEND SQUEEZE!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=Q155nUHXvqY)**
 
-BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
 
-📺 Crypto World
+📺 Road To $1 Million USD
 
-👁️ 2K • 👍 169 • 💬 22 • ⏱️ 24:53 • 2h ago
+👁️ 6K • 👍 205 • 💬 28 • ⏱️ 7:25 • 7h ago
+
+---
+
+**[Is crypto back?: Bitcoin stock surges](https://www.youtube.com/watch?v=gjnagcx3mM8)**
+
+Clear Street analyst Owen Lau breaks down the future of crypto regulation on 'Making Money.' #fox #media #breakingnews #us ...
+
+📺 Fox Business Clips
+
+👁️ 12K • 👍 162 • 💬 124 • ⏱️ 5:04 • 7h ago
+
+---
+
+**[BITCOIN - THIS IS THE LAST TIME](https://www.youtube.com/watch?v=DMqgQC83awI)**
+
+patreon.com/myfinancialfriend CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE!
+
+📺 My Financial Friend
+
+👁️ 15K • 👍 456 • 💬 109 • ⏱️ 10:07 • 10h ago
 
 ---
 
@@ -331,17 +345,27 @@ The bond market is flashing serious stress as Treasury yields climb and the pres
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 63 • ⏱️ 16:05 • 1d ago
+👁️ 34K • 👍 2K • 💬 64 • ⏱️ 16:05 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s iPhone Moment Will Trigger Wall Street FOMO](https://www.youtube.com/watch?v=WYnl2vRfwDc)**
+**[What Really Happened With Bitcoin’s $16 Billion Options Expiry](https://www.youtube.com/watch?v=WekU7SW9UjU)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Join Our Private Intelligence Network Here: https://join.altcoinpro.com/32630122 Attend the Altcoin Pro Summit LIVE - October ...
 
-📺 Anthony Pompliano
+📺 BULLRUNNERS
 
-👁️ 112K • 👍 3K • 💬 149 • ⏱️ 48:43 • 11h ago
+👁️ 1K • 👍 37 • 💬 12 • ⏱️ 10:15 • 6h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
+
+BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 343 • 💬 56 • ⏱️ 24:53 • 7h ago
 
 ---
 
@@ -351,17 +375,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 158K • 👍 6K • 💬 569 • ⏱️ 21:08 • 20h ago
-
----
-
-**[1 Million Bitcoin RESERVE BILL - America Just Moved To Buy More](https://www.youtube.com/watch?v=HlGLs00Zpog)**
-
-America just moved another step toward turning the Strategic Bitcoin Reserve into federal law, as House committee legislation ...
-
-📺 Bitcoin News Alerts
-
-👁️ 13K • 👍 388 • 💬 105 • ⏱️ 15:55 • 1d ago
+👁️ 171K • 👍 7K • 💬 597 • ⏱️ 21:08 • 1d ago
 
 ---
 
@@ -371,17 +385,7 @@ All Things Markets is back after a short hiatus, but we are here to stay. We hav
 
 📺 Anthony Scaramucci
 
-👁️ 27K • 👍 600 • 💬 69 • ⏱️ 27:42 • 8h ago
-
----
-
-**[BITCOIN: BIG, BIG WARNING!!!!!!!!!](https://www.youtube.com/watch?v=dXJdOGSM3nk)**
-
-Bitcoin what now.
-
-📺 MMCrypto
-
-👁️ 47K • 👍 2K • 💬 239 • ⏱️ 3:12 • 18h ago
+👁️ 42K • 👍 746 • 💬 91 • ⏱️ 27:42 • 14h ago
 
 ---
 
