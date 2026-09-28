@@ -25,24 +25,54 @@
       "description": "Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation."
     },
     {
-      "headline": "Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUJwTE94d0xIanJVSmZ3bm84dnVuWWQ5enFZelVEd2t0bEplWXJ1dVg2MHNZZG5pbFpreHB6Wi1MTjBOaGdtaVBhSXRKM3czUkxSeXo0UEE4MHQzbWJKNmNGQ2Y4NmEydG91bXl4RVVpTHFjWmVtV2FudWozMUYyUWFEYl9vbDhxWEpyQ2VWbDRPQlE?oc=5",
-      "pub_date": 1790426340.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/tesla-optimus.jpg",
-      "description": "Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain."
+      "headline": "Reliable Robots: Meet Johnson\u2019s Dexterous Robotics Team",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVFXTVdSdktmMU13T1djZVRmSTZDdTdadGMzVnQ2ZDM4VUhKNHZFa1B4LW5pTnZVdlA4VWFtTWFBSUZ1UU5TZkJTZGxkTEhFdm9qVlRmal92am5sczNGUDhmYTJFRnFjdUtMa1NucDVVbWUyREF2SVlBeVpOYnZFdE0zT2F0aVphemJWMzVMQWlUeTZzMExpN0VsVlNVTDZCVUlQX29NT2hUUQ?oc=5",
+      "pub_date": 1790589600.0,
+      "article_url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/sa-and-valkyrie.png",
+      "description": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions"
+    },
+    {
+      "headline": "Driverless Trucks Show How to Keep AI Robots From Killing Us",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHI4eGVuUzItbEJGV2EzY0UzUTNOSEk0ZS1tdmZHX1prMC03RWczd3RHZ0tMc1FBb2VhTTBiR1JoSE0xd2hhSmpVck9uZzJVb2ZsX2VBdmFRbDQxY1N1QVdXQk5ZaHFaSV8taFBkZ3ZGd2VVZU5yc19ldnJiZlVXT1otNDYzaUJIQTZ6dE9Pa21paFB6Xy1aczN0LXctN1REWkU0RXkxcW56NTExeWd3RXY1aEE?oc=5",
+      "pub_date": 1790587815.0,
+      "article_url": "https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Wind-up elastic robot jumps forever when fed infrared light",
-      "source": "New Atlas",
+      "source": "newatlas.com",
       "source_url": "https://newatlas.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ObFRjc01OZkJCYVpRR1lMcFh1Nmt0UU04bjV4aWU3elpsQVZTcFZ4ZTE3Y0EycFpfN1RFckRpMlN6Qlctb0pDR3gyUm8zak9PTktGcmdCcFUtV1l2U3Q3QXZUSjA3VWt1cV9rRG1hNDFuUQ?oc=5",
       "pub_date": 1790564189.0,
       "article_url": "https://newatlas.com/robotics/elastic-robot-jump-infrared-light/",
       "image": "https://assets.newatlas.com/dims4/default/c2a1db8/2147483647/strip/true/crop/2133x1120+0+132/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fec%2F99%2F1ecc813b4a74bb5d39ec065857ae%2Fjie-yin-jumping-ring-header-full.jpg&na.image_optimisation=0",
       "description": "Robots \u2013 that is, self-guided mechanisms interacting with or changing their environments \u2013 exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that\u2026"
+    },
+    {
+      "headline": "China's exoskeleton robots muscle into the consumer mainstream",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFZuWC1QRE9tT3VmRi0tbzVNNDd5SjFsTmQtNk9wZHlMNEg3Q09WX2VTOEF3eDRaN0EwVDVkR3lRd0toNDVIenZ6RUpUcGxVYlpTYVdVQTNHSkNrMVdJdzVJdUVmQTBfV0ZRVWU3aEk5WXlSU0I4b0Jpc1k1QmhFbk5BaHZtd2FqZVV3S3NnRWVCSWEySXBtdi1Mc1pvcVNhMFRvQUJMSmRUQQ?oc=5",
+      "pub_date": 1790484360.0,
+      "article_url": "https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F0%2F7%2F13157011-1-eng-GB%2F4b50166383c0-photo_SXM2026081900010186.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "Appliance makers and startups race into a nascent market as devices move beyond medical usage"
+    },
+    {
+      "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSjBPQmZwMXpSVHdMRlAyb0NhOGtUYWYtdGg5VWdkZ1dja0lZU3ZfeVYyT2xrbXJjeWRDYmk2am9GRmZDYXdGY1lock1WSEppdExQdWE4dXVWTjFRVGxJQkI5Q3hSX1BhblV2U1VR?oc=5",
+      "pub_date": 1790352004.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67853191&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "description": "Your weekly selection of awesome robot videos"
     },
     {
       "headline": "I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.",
@@ -55,56 +85,26 @@
       "description": "The World Humanoid Games were actually a social experiment in the making."
     },
     {
-      "headline": "Teen robotics team wows metro Atlanta city, to represent state",
-      "source": "WSB-TV",
-      "source_url": "https://www.wsbtv.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeExPNGxRdEY0eGxzNHR3a3BQOGR0eFRiZjRlQTZIQkd2TzRMRGF6RXpOS2JNVjFMQ1F6ZktuaE5tMXh2N05UV25rYXlqeUJpbnhsa1FuV2FSWkg1QnhEQnFFa3RGMV9OakgteGdpUmY0YzVfS2N1Q0YtTWtSRHlTbWN3eENiNHhRUHZWLTBraEhYNHY2X0E3ZHUwTjZWSzk0V0t0WFJFdThuMU5OYzZ4QzJTaGpIckhyZXVB0gHPAUFVX3lxTE90dFZNUjRXWkJ4eUc5SWNvNmdta3JPVjNDYnNTR25qU3pTNzVHMnhYY2hXN1JrTUdPZGpvMWVPVXV0M3FIYUw2SUZkMnBhRHBCblpvcHZJSWllRk14RTRBVXBMTmZURnBUNmhwUzl1WlowRldqU1hSMmRUQ1ZBTF8yTXQzYmhPZHFOT096YVVJOUt5djB2MlBNRlJ3TWtHeWVMS2JXMW9jbWItbEh1cFRyZDlTZjdaYW5XS0tOdHp5YUtxc0FCWHowTk5FTjVJYw?oc=5",
-      "pub_date": 1790469240.0,
-      "article_url": "https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/",
-      "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBE2OFBNPEZFUZPE2Y52TX7BFEY.jpg?auth=cb6a38cb4d77c03a590b1369ca947db6bf7e042ea20bcfbfc6b441a203f99db3&width=1200&height=630&smart=true",
-      "description": "Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving."
+      "headline": "Fast-improving AI, robotics could make 'dark' auto factories a reality",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa21sRmhISWtCaXp4M0g0U2h5cHBQWU9KU3NmNk5qOFJYV1M0Njl1c2ZnMmk1ZVk3VmxWTnpZWGllVGxyMk01UjdONzNyVkUwZTVteFdKUkRUZHcwOTNvYkFEZkg1ZE1BMnozSmU2aDYzeUFzRkNGMnNvdHh1OVRsVnhzMzhBcnlHQ3dOOWhuS25ZVUpCczRFeVRYQWh4ZWRzaGV0blhUSlRiNnBhVlRoTzdXaVZIM2pGZmlacVZfNElNQUNrTkJtbFR5UFIwbXJoaFh3VUYzYjZDUQ?oc=5",
+      "pub_date": 1790568420.0,
+      "article_url": "https://www.detroitnews.com/story/business/autos/2026/09/28/automakers-are-investing-big-in-ai-and-robots-are-dark-factories-next/91891670007/",
+      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/08/15/PDTN/74809598007-chinaecon-2-essrvb-36-fbm-3-aa-52-jrkofoiaa.jpg?crop=3999,2250,x0,y133&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "Automakers and suppliers are increasingly studying how to eke out more efficiency inside their plants \u2014 even in complex areas like final assembly."
     },
     {
-      "headline": "China's exoskeleton robots muscle into the consumer mainstream",
-      "source": "asia.nikkei.com",
-      "source_url": "https://asia.nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFZuWC1QRE9tT3VmRi0tbzVNNDd5SjFsTmQtNk9wZHlMNEg3Q09WX2VTOEF3eDRaN0EwVDVkR3lRd0toNDVIenZ6RUpUcGxVYlpTYVdVQTNHSkNrMVdJdzVJdUVmQTBfV0ZRVWU3aEk5WXlSU0I4b0Jpc1k1QmhFbk5BaHZtd2FqZVV3S3NnRWVCSWEySXBtdi1Mc1pvcVNhMFRvQUJMSmRUQQ?oc=5",
-      "pub_date": 1790484360.0,
-      "article_url": "https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F0%2F7%2F13157011-1-eng-GB%2F4b50166383c0-photo_SXM2026081900010186.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-      "description": "Appliance makers and startups race into a nascent market as devices move beyond medical usage"
-    },
-    {
-      "headline": "The Aeropod automates soil aeration without robotics \u2014 see it at TechCrunch Disrupt",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmtWUmYzUV9lVDg3YnNBYjhRakItNUs2cGpCSjQxRmxrN2xkZFllLVpwZGRqYnBSaXR1R2ptMFNDWVlhY2Z0Z0tPelNlWnNFZG9DeTBva0o1X0dSbjZ3MzNoYk45UTBVdzUxNHFqd3Qzd1gwUDJmUHVBTHMtUHBXRXJsdWEzM2dtNXEtVHhTbTh3ekxQV0hCQV9oNGtaWTBiUFdYajVrc1N5QWp6TVplSFExREVtSHM?oc=5",
-      "pub_date": 1790357400.0,
-      "article_url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
-      "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields."
-    },
-    {
-      "headline": "US ally plans army of humanoid robots to conduct risky operations with drones, boost high-tech warfare",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmFwT3c2SDdrRFBPWHB6WnppUkxIbkl3SUptdWs2V0MtcmY5UUZiRkl3NUI5c3RZMUwwMkM1ZFkyOVh3MUIwTWlEaW9sQ1JTT3pMOFZ0VXZ4QmFhempDcVE3NHozaXVPYUdBZGE5U0pHazc4ZUJ0Mm11N2g5VWJZczFNRUEtR0paWUZBRw?oc=5",
-      "pub_date": 1790447511.0,
-      "article_url": "https://www.yahoo.com/news/world/articles/us-ally-plans-army-humanoid-183151825.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d9bde4ebdc131efd6c1cc15ed667285a32a8f552ce8423945d70c9d76bcf3935/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finteresting_engineering_646%2Fc48bb99a767605fd7b47e927970acafc.png",
-      "description": "The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat."
-    },
-    {
-      "headline": "US Air Force receives first \u2018robot wingmen\u2019 drones to begin autonomous warfare trials",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWVFGVW5ERUYxYld1aFh6VloxSWxoM2NjVXlxU1pvVlBFUFpYeEY0X3ZWMEhWcWstcTIxeVk1VkFVY0xXVE03MEJ0ZGlMVGdyanNuWktZTWdsVFgtRFhuUjFhbEhhUjNsN21zSXVScmlCYVV3NXhjU1g1Rk8zc05xdF9yYnlrUHdPcGp4cDh3?oc=5",
-      "pub_date": 1790511480.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/us-receives-first-robot-wingmen-drones",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/usaf-loyal-wingman.jpg",
-      "description": "The US Air Force has received its first two CCAs for testing alongside crewed fighters at its Creech base in Nevada."
+      "headline": "Tesla vs. Nvidia: Which Physical AI Stock Has the Bigger Robotics Payoff by 2030?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEQ1RFV6c2NLeXMzR2llZnVtenBNQlpTc0tMTHBpOGJ0Q21JYmFKUl8yTEo5ZDNqZTNnZ2VEUlZJcDFtd0dYQWRjbENzaUZ1dTJTWnZ4TFZhUVlXTFB1ZjNXbTZhOUtmczJTVnFORnVTSnZMS1E3Y1V1b09EX2p5X1UzdWg3cVhmNDhJSU5mQnRpaFU3aWc?oc=5",
+      "pub_date": 1790343660.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/tesla-vs-nvidia-physical-ai-134100837.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fb29904af680e5ae0764728081a6be4d58494637b98c4492524e753dda470a0b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F91428013e60c0afdac0a263217d3a148.jpg",
+      "description": "Nvidia doesn't need to build the winning robot if it becomes the company powering all of them."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-28T08:19:07.755117+00:00"
+  "fetched_at": "2026-09-28T16:54:54.155576+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-28T08:19:17.286524+00:00'
+updated: '2026-09-28T16:55:05.298319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 28, 2026 at 08:19 UTC  
+**Last Updated:** September 28, 2026 at 16:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A duck project built with an Uno Q and Feetech servos—what do you guys think?](https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed → on-device AI inference → real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!
 
-3d ago
+4d ago
 
 ---
 
@@ -50,7 +50,7 @@ I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision proj
 
 We’ve been playing hide and seek with Éloi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn’t simply tracking a target. It’s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we’re currently spending a lot of time on. Animotion Robotics
 
-3d ago
+4d ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 **[Free Livestream for ROSCon Global 2026 in Toronto](https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/)**
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 3d ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 4d ago
 
 ---
 
@@ -80,7 +80,7 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-3d ago
+4d ago
 
 ---
 
@@ -100,7 +100,7 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!
 
-3d ago
+4d ago
 
 ---
 
@@ -120,15 +120,21 @@ Ars Technica • 2d ago
 
 Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
 
-Engadget • 19h ago
+Engadget • 1d ago
 
 ---
 
-**[Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks](https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week)**
+**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
 
-Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain.
+The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
 
-Interesting Engineering • 1d ago
+NASA (.gov) • 6h ago
+
+---
+
+**[Driverless Trucks Show How to Keep AI Robots From Killing Us](https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us)**
+
+Bloomberg.com • 7h ago
 
 ---
 
@@ -136,23 +142,7 @@ Interesting Engineering • 1d ago
 
 Robots – that is, self-guided mechanisms interacting with or changing their environments – exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that…
 
-New Atlas • 5h ago
-
----
-
-**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
-
-The World Humanoid Games were actually a social experiment in the making.
-
-Slate Magazine • 22h ago
-
----
-
-**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
-
-Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
-
-WSB-TV • 1d ago
+newatlas.com • 13h ago
 
 ---
 
@@ -160,31 +150,39 @@ WSB-TV • 1d ago
 
 Appliance makers and startups race into a nascent market as devices move beyond medical usage
 
-asia.nikkei.com • 1d ago
+Nikkei Asia • 1d ago
 
 ---
 
-**[The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)**
+**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
 
-Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
+Your weekly selection of awesome robot videos
 
-TechCrunch • 2d ago
-
----
-
-**[US ally plans army of humanoid robots to conduct risky operations with drones, boost high-tech warfare](https://www.yahoo.com/news/world/articles/us-ally-plans-army-humanoid-183151825.html)**
-
-The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
-
-Yahoo • 1d ago
+IEEE Spectrum • 3d ago
 
 ---
 
-**[US Air Force receives first ‘robot wingmen’ drones to begin autonomous warfare trials](https://interestingengineering.com/ai-robotics/us-receives-first-robot-wingmen-drones)**
+**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
 
-The US Air Force has received its first two CCAs for testing alongside crewed fighters at its Creech base in Nevada.
+The World Humanoid Games were actually a social experiment in the making.
 
-Interesting Engineering • 20h ago
+Slate Magazine • 1d ago
+
+---
+
+**[Fast-improving AI, robotics could make 'dark' auto factories a reality](https://www.detroitnews.com/story/business/autos/2026/09/28/automakers-are-investing-big-in-ai-and-robots-are-dark-factories-next/91891670007/)**
+
+Automakers and suppliers are increasingly studying how to eke out more efficiency inside their plants — even in complex areas like final assembly.
+
+The Detroit News • 12h ago
+
+---
+
+**[Tesla vs. Nvidia: Which Physical AI Stock Has the Bigger Robotics Payoff by 2030?](https://finance.yahoo.com/technology/ai/articles/tesla-vs-nvidia-physical-ai-134100837.html)**
+
+Nvidia doesn't need to build the winning robot if it becomes the company powering all of them.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -202,53 +200,13 @@ Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: t
 
 ---
 
-**[UBTECH Starts Delivering Its Humanlike U1 Robots](https://www.youtube.com/watch?v=avuSunUZSM8)**
+**[Human vs 6-Foot Terminator Robot](https://www.youtube.com/watch?v=mT6o_kNVZMc)**
 
-The first UWORLD U1 Series Ultra Bionic Humanoid Robots are now being delivered, bringing a technology that once looked like ...
+A human just went head-to-head with a 6-foot robot that looks straight out of Terminator Frankie landed some punches, but ...
 
-📺 DPCcars
+📺 Shorts_of_Crimson
 
-👁️ 2K • 👍 26 • 💬 1 • ⏱️ 2:26 • 11h ago
-
----
-
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
-
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
-
-📺 America's Got Talent
-
-👁️ 742K • 👍 6K • 💬 703 • ⏱️ 4:18 • 5d ago
-
----
-
-**[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
-
-He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
-
-📺 New York Post
-
-👁️ 48K • 👍 444 • 💬 297 • ⏱️ 1:17 • 1d ago
-
----
-
-**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
-
-Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
-
-📺 ejunky66
-
-👁️ 50K • 👍 713 • 💬 55 • ⏱️ 1:00 • 19h ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 613K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
+👁️ 5K • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -258,7 +216,37 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 📺 Evolving AI
 
-👁️ 23K • 👍 144 • 💬 18 • ⏱️ 12:11 • 6d ago
+👁️ 23K • 👍 145 • 💬 18 • ⏱️ 12:11 • 6d ago
+
+---
+
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+
+📺 America's Got Talent
+
+👁️ 748K • 👍 6K • 💬 706 • ⏱️ 4:18 • 5d ago
+
+---
+
+**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+
+Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+
+📺 NBC News
+
+👁️ 355K • 👍 556 • 💬 70 • ⏱️ 0:59 • 5d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 616K • 👍 18K • 💬 5K • ⏱️ 19:23 • 5d ago
 
 ---
 
@@ -268,7 +256,17 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 85K • 👍 3K • 💬 276 • ⏱️ 13:48 • 3d ago
+👁️ 86K • 👍 3K • 💬 280 • ⏱️ 13:48 • 4d ago
+
+---
+
+**[Elon Musk’s BILLION Humanoid Robot Future — Curse or Blessing?](https://www.youtube.com/watch?v=Zk6yK6bFaEk)**
+
+Elon Musk believes the future could have BILLIONS of humanoid robots — but how close are we really? Tesla's Optimus is being ...
+
+📺 ejunky66
+
+👁️ 67K • 👍 1K • 💬 163 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -278,17 +276,17 @@ A human just stepped into a fighting cage against a humanoid robot. At a recent 
 
 📺 RoboFrontier
 
-👁️ 67K • 👍 257 • 💬 72 • ⏱️ 4:15 • 6d ago
+👁️ 69K • 👍 260 • 💬 72 • ⏱️ 4:15 • 6d ago
 
 ---
 
-**[This Robot Doesn’t Just Play a Voice — It Physically Creates Sound 🤖🔊](https://www.youtube.com/watch?v=DpycpmP9x5Q)**
+**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
 
-WATCH THIS ROBOT MAKE A VOICE IN A VERY UNUSUAL WAY. Most robots that speak use electronic voice synthesis and a ...
+China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
 
-📺 ScenicMotionsBeyondVerse
+📺 Kalil 4.0
 
-👁️ 45K • 💬 11 • ⏱️ 0:04 • 20h ago
+👁️ 83K • 👍 1K • 💬 146 • ⏱️ 1:16 • 6d ago
 
 ---
 

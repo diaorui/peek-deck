@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-28T16:55:04.563758+00:00",
+  "data": "MiMo-V2.6-Flash-RL is a native omnimodal (text, image, video, audio) generative model with a 1M token context length, excelling at long-horizon tasks and agentic self-improvement through scaled reinforcement learning. It's designed for complex agentic tasks across coding, general intelligence, and cybersecurity, leveraging a sparse MoE architecture for efficiency.",
+  "model_id": "XiaomiMiMo/MiMo-V2.6-Flash-RL"
+}
