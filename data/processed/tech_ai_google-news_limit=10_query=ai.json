@@ -5,8 +5,18 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Did Anthropic\u2019s A.I. Really Make a Scientific Discovery on Its Own?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
+      "pub_date": 1790542664.0,
+      "article_url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
       "pub_date": 1790519602.0,
@@ -15,14 +25,14 @@
       "description": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?"
     },
     {
-      "headline": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWVZSNnJHbGFENnhFOExMZHlEdndHMW1TeXU4RUo0V2p1QmZmcnlUSGJ1akcxUU5NdlJBaWZTTEdiWGdLRlIwLVF5dFBaamVLRDBVd0VMT0hwZnAzMEdySEFkSTBiZUNKUG5KeTZqal9Ua3JsMTJmOHVwTE5PS2VFcGpHcUNkQ09WSW9tNHVOUnRYbmg5Y20wRmU0RU5HNHhmS2h3U2dCdnFLVGxzc2FpbWVzNnAyVXVWa2Z0OGlabFdwOXRpb3V6NUtmOA?oc=5",
-      "pub_date": 1790514694.0,
-      "article_url": "https://finance.yahoo.com/markets/article/out-of-nowhere-came-muse-wall-street-weighs-in-on-metas-ai-catch-up-moment-131134524.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/963dd6da896db94415f4a9e6861c97134cf316594b8d415589b21da5454f3b0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fe81be4f5-1553-437a-ad87-ed5676fc065c",
-      "description": "Meta went from an AI laggard to a leader in the course of a week."
+      "headline": "Meta\u2019s Muse Moment",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5",
+      "pub_date": 1790520900.0,
+      "article_url": "https://www.wsj.com/tech/ai/metas-muse-moment-4c49ac0e",
+      "image": null,
+      "description": null
     },
     {
       "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
@@ -31,6 +41,16 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
       "pub_date": 1790092503.0,
       "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bill Gates says an AI \u2018kill switch\u2019 isn\u2019t enough",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkx2MFZsUm1zS3p2OVktN210cV9PMHdubGRDcHNaWEFfVjhQRWlvQVZnY3UzeGQyTXVLVTV4blRjVUNVVTk1cW1USFFjOVhSX044a0J3WC1adW50aUZneXhvVHRpUFMwcVpjZWd1RG1QOUN5TVo5Zm50bWJ3RzZ4ZA?oc=5",
+      "pub_date": 1790530500.0,
+      "article_url": "https://www.politico.com/news/2026/09/27/bill-gates-ai-kill-switch-01094236",
       "image": null,
       "description": null
     },
@@ -45,48 +65,28 @@
       "description": null
     },
     {
-      "headline": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcHN3SEFWbHJOVGVWRktRZnZubEh5TzhxZFJRUkFweXRFNEVpTXByVExnS2lRMlZNcUZVN1FvQUxocGNLWEt5Z2FYSVpybUEzNFFmVUgxeUZXQkZOTDhudGNwM281cy03YWk2dFlwNHNzUmNLRTRneTZrMEl5VkFXcllGaEljM1N6QlE0RnNBUjNKa3dSNlHSAZsBQVVfeXFMUEZYWGpHRk40NG52am1hLVhfLUVaN1h2cGNhUkJubUtDWWhqTE5GTTNObG5YMlZ2M2VvSlNVcGFDeGNoeWd1Tm1fb2tOT3lla3VMcFhCNUdxOVQ3ZFBrY3FXSHNZdDVSSU1QX0RTcEhhbXA1R3V0Zm11ZlVXa1YtYmx5ZlBhX1ZPUm8yVXFXcG5uSDA0dElTYm1sbFk?oc=5",
-      "pub_date": 1790434801.0,
-      "article_url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108075021-1734011164475-gettyimages-1456167226-gitech84.jpeg?v=1790355675&w=1920&h=1080",
-      "description": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy."
-    },
-    {
-      "headline": "Tremors From AI to Oil Boost Popular Hedge Fund Dispersion Trade",
-      "source": "Bloomberg.com",
+      "headline": "AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSy1HT1dyTEV2QTlQTzRvUmI1WHpNeHBFcjV6YWlwOEZDTXVDY1M0ekJQRk9Xcl8xNFRZdUotNjQ0UjBVNktjSlVpZXBNTFMwbWVXcmcxUmpnYkdQdHRMR0pGa1dscnZfVEVkTVdpRFptNWNiUkd0cFR6ZDZUZVVVYTA0ZWhmd2NIUWp4cU1UZVlnU3EtZ2U4U1RqMDhqaWRxaGdmWWR2Wl9vLUJDSGp3YzJrWVNHQQ?oc=5",
-      "pub_date": 1790517600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/tremors-from-ai-to-oil-boost-popular-hedge-fund-dispersion-trade",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjhKd2FaWmFDNGx6VVBvd1AxMkp4MmQwek85Nzl4bWlrOEFaWmo4U190dW5zb0dOQnVXakYtWi1CTHJyZWo4T3lqRnYwVGszOEJ3M3NHMFlMU3pxSkM5WkljTkxLVU5VakNUTkhhZUFBMzQ4bHVBQldaV3k0T1JsMER3X3hzZkhvZmkzR05rSXJGWXBtdWo2OG9oN3hzVHdqU2hyQ3lvZ25BSUtuaE9qaVJhSnA1QQ?oc=5",
+      "pub_date": 1790514007.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed",
       "image": null,
       "description": null
     },
     {
-      "headline": "Major record labels sue Cambridge-based AI platform, again",
-      "source": "Boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemduTzF5T282Rk54RWRmUWNXNnd1M1ZXa2NPVWNMZS1ZSmZxbm1LM0ktXzQ5dHBkUVpTMko3VW92cFV5Zm5HekVzOVY4ejZlT3VUZ0ZSU2tsTG0wMlRYNXM0Q3Z1TERVbjlFdUo5WFhBa2pNaUFiSktrWWM4MVhHbmtIYTd6Qml0dTJBVGtYblNFeC1hazdDV1BXUXNRMkNjQkQyOUlvMzZob01m?oc=5",
-      "pub_date": 1790547600.0,
-      "article_url": "https://www.boston.com/news/local-news/2026/09/27/major-record-labels-sue-cambridge-based-ai-platform-again/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/NVFHXLK5YI4TASU5IQVP2CAK7A-6a59104e20d60-768x432.jpg",
-      "description": "Universal Music and Sony Music allege Suno used an \u201cenormous\u201d amount of their copyrighted music to train its AI model."
-    },
-    {
-      "headline": "Did Anthropic\u2019s A.I. Really Make a Scientific Discovery on Its Own?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
-      "pub_date": 1790542664.0,
-      "article_url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
-      "image": null,
-      "description": null
+      "headline": "Nebius Is Raising the Price of Its AI Compute on Oct. 1. Here's What That Says About the Shortage.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZTNyVm1OOWF4aDFXd2dURE4tYTBrcThLOG5UbTFlQkJpS1VDTDdDLXMwZ0dSTGhudktIM0hlNlE0djFteHk5djRRMldrN0lQSlc2QnVGYUpqMU5wVEhvcFpuNUVqWVlqTkNzMWZpUEN2TUhaWUxlS2wtc0tLbkpyN29rUU03Vkxvb3hWcm9zYmkzbXFWMEJVdTFVYTFRUldNbVZHdkxwdWRGX0lPN0N3YUpsS1JMYXY3TTV3NmdGZ3k1SFNPTTRrcDRuOWs0MEIwSkFvcg?oc=5",
+      "pub_date": 1790552411.0,
+      "article_url": "https://www.fool.com/investing/2026/09/27/nebius-is-raising-the-price-of-its-ai-compute-on-oct-1-here-s-what-that-says-about-the-shortage/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd93aae07bc9e7f4566a9aa39fd147abcac628588-3840x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+      "description": "Why would a cloud company in the middle of a huge build-out charge more for the chips anybody can rent by the hour?"
     },
     {
       "headline": "An \u2018SNL\u2019 Exchange That Captures the AI Disconnect",
-      "source": "theatlantic.com",
+      "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2FzZjB2dms5M3Jya2JUbG00S1RnRmZuandBMnJSbHY3ZFNnb2tLZ19KMFdPaVl0dU5ZMVJRaE9hQXJnVzg4dTdtMXB3WTBBYzFzMEI4YklRdGlzTXdsWU8tYjkxcEtnY2xFMGJDMGNZTnVqeF9hVXh4dS0zcDY0b1NlTXhrMk1fY1RjaFBDTWJWd2ZzSTJzaFBuZXdCSDlZeTBFY0t3?oc=5",
       "pub_date": 1790531723.0,
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDhqMDlUa1RkUzlCNUl2RkFMUmJlUV9TbmFQZjk0ajlZZ3BubG9pa1J5VVpSeXlPOGVJYnFLSTRTTEJpdkxZcjFIZnJxU3ljWkNhS0R3MWJ2Ui03bmtGVTdaU2dMaXNEQmNCZTJPZUotN0J5b3kyQk5SMUFyZkxSdDlkTUlSU1E3bHYzeFJ5amswSVdIQ1NPRzF6cEFtSjhm?oc=5",
-      "pub_date": 1790541719.0,
-      "article_url": "https://www.foxnews.com/live-news/trump-ai-development-data-centers-super-intelligence-september-27",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3de9b577fa657f4cd2dd166d733bbb69.jpg",
-      "description": "Trump has made expanding data centers and accelerating artificial intelligence a cornerstone of his agenda, arguing the United States cannot afford to lose the AI race to China and warning that opposition to data centers only benefits Beijing."
+      "headline": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JXcVRMWWc5ajJLNTNIdzdYeTNPellCdm5Pd3FKTjhUdTRGcmRMY1ZlOUZGM3RrcUxJdEFKeFRiaWRSYnVPWVVBbmdOY0U5OVdXNHppMEZ2QkY0T0ZhX3dBOUxyMnp0R0Y0VmZJVkNCTHQtd1lNRUJ1MUpITkVHUkVfUXEwbUEzSmJMVk96bkVSNnJ4djRCNTdvRTFTcW90VkI3bjd2X2otdTM3WTFMaWxiNA?oc=5",
+      "pub_date": 1790551652.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T23:16:53.285988+00:00"
+  "fetched_at": "2026-09-28T01:53:11.862370+00:00"
 }

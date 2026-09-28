@@ -16,7 +16,7 @@
     },
     {
       "headline": "'It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030",
-      "source": "The Block",
+      "source": "theblock.co",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGZrM1VESWdlby1QcXp1enJXbmwyX1l5RG9oT3d6YmVCN3JxVHprS1dOSW9SdVQyWUZvbUp2N2QyLXRqZVF6UFJxZ0R6UjhldFhnSm85bWxXYlJvN0JZcFRBUDkySlBiM3JnU2JRcTQ5MHJBU0xJZ3JFeWMyUTAtclRIR3JLeFNyY3ltQXlIVldpdWtlbG1WR3hNd1JXVTdzOXRnaEx1UkRBS3NRNFN2M2k1TG5yaDNwbmtRV1pYV2djQ192NzdETm5BTEZ1MURSejh3ZjEycWd0dw?oc=5",
       "pub_date": 1790519753.0,
@@ -75,14 +75,14 @@
       "description": "Puffer and Google Cloud want to make Ethereum feel instant by financially backing transaction results before final settlement."
     },
     {
-      "headline": "Current price of Ethereum for September 25, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02VDZpSWpzOWRrdlRJMXkxMzBLYkdyYlpPUDFFX1ZCSzBPeHVaYVNyVjE4bmhPdC1GOVZPSHdiRGczZ29QVE5PblVXOFJVVjlweUJsUGllSV9fNXlwRVBxWHRnVXVJVUJW?oc=5",
-      "pub_date": 1790341200.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-25-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-25.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Ethereum: Pennant Apex Passed Without Breakout",
+      "source": "blockchain.news",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXp6SmdRekdOVkM2NXZCM2dPZ2lFOWFYV3o3RXc2RkJJQ0t2ODVOQnlPWENna3ZYLTZGamc3MWRRalQyb1VwTzZ5SFVhcV9tN1VfQTNiQUhkTXJobmxCaTRLQVo5WFRuQmZMNzlLeVZoR2JFY1RmWmI1MkdKQ0dPYlJ5RERpZw?oc=5",
+      "pub_date": 1790457360.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-pennant-apex-passed-without-breakout",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "Ethereum at $2686.16 tests pennant apex with no breakout. EMA50 support at $2668.88 and MACD death cross shape next move."
     },
     {
       "headline": "Ethereum Exchange Supply Hits Record Low as ETH Gains 10% \u2014 Is a Correction Next?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T23:16:46.446046+00:00"
+  "fetched_at": "2026-09-28T01:53:03.098041+00:00"
 }

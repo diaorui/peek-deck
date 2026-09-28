@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-28T01:53:13.147470+00:00",
+  "data": "TeleOCR is a lightweight Vision-Language Model for unified document parsing of both digital and camera-captured documents, achieving state-of-the-art performance on benchmarks like OmniDocBench with capabilities in handling complex layouts and geometric distortions.",
+  "model_id": "XingChen-AGI/TeleOCR"
+}
