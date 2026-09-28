@@ -19,6 +19,20 @@
       "site_name": "satsie.dev"
     },
     {
+      "title": "Bitcoin trading model, published in full \u2013 wins and failures",
+      "url": "https://www.bitcoinai.pro/",
+      "hn_url": "https://news.ycombinator.com/item?id=49884283",
+      "author": "bitcoinaipro",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-09-28T21:02:00Z",
+      "object_id": "49884283",
+      "image": "https://www.bitcoinai.pro/wp-content/uploads/2024/12/cropped-faviconbitcoinai.jpg",
+      "description": "A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.",
+      "favicon": "https://www.bitcoinai.pro/wp-content/uploads/2024/12/cropped-faviconbitcoinai-180x180.jpg",
+      "site_name": "BitcoinAI.Pro"
+    },
+    {
       "title": "Show HN: I built a Bitcoin full node from scratch in Rust",
       "url": "https://github.com/realtonypark/mini-bitcoin",
       "hn_url": "https://news.ycombinator.com/item?id=49821264",
@@ -31,20 +45,6 @@
       "description": "A Bitcoin-style full node and proof-of-work mining simulator written in Rust. - realtonypark/mini-bitcoin",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
-    },
-    {
-      "title": "Bitcoin decentralized usernames are now available",
-      "url": "https://twitter.com/robin_linus/status/2102109957718151641",
-      "hn_url": "https://news.ycombinator.com/item?id=49793186",
-      "author": "ca98am79",
-      "points": 1,
-      "num_comments": 2,
-      "created_at": "2026-09-21T20:48:38Z",
-      "object_id": "49793186",
-      "image": "https://pbs.twimg.com/card_img/2100397404423864320/4Q7H2BgI?format=webp&name=medium",
-      "description": "Imagine paying robin@bitcoin\n\nThat\u2019s it. The wallet picks the rail: onchain, Lightning, Silent Payments, Ark, Glass Coins,...\n\nAll behind one handle.\n\nhttps://t.co/GktyWFbTdN",
-      "favicon": "https://twitter.com/apple-touch-icon.png",
-      "site_name": "X (formerly Twitter)"
     },
     {
       "title": "Show HN: Shielded Bitcoin \u2013 private payments on Bitcoin, proven in the browser",
@@ -91,5 +91,5 @@
   ],
   "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-09-28T16:54:25.967683+00:00"
+  "fetched_at": "2026-09-28T22:25:30.617941+00:00"
 }
