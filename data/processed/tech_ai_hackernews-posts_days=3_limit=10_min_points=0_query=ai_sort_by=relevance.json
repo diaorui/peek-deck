@@ -9,8 +9,8 @@
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "hn_url": "https://news.ycombinator.com/item?id=49868083",
       "author": "zzzeek",
-      "points": 318,
-      "num_comments": 235,
+      "points": 336,
+      "num_comments": 246,
       "created_at": "2026-09-27T16:19:46Z",
       "object_id": "49868083",
       "image": null,
@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49855018",
       "author": "saibotk",
       "points": 179,
-      "num_comments": 224,
+      "num_comments": 225,
       "created_at": "2026-09-26T10:08:21Z",
       "object_id": "49855018",
       "image": null,
@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49844896",
       "author": "sbulaev",
       "points": 154,
-      "num_comments": 147,
+      "num_comments": 148,
       "created_at": "2026-09-25T14:07:08Z",
       "object_id": "49844896",
       "image": null,
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49839567",
       "author": "pjm331",
       "points": 135,
-      "num_comments": 93,
+      "num_comments": 96,
       "created_at": "2026-09-25T02:34:39Z",
       "object_id": "49839567",
       "image": null,
@@ -89,6 +89,20 @@
       "site_name": "TAI-DR"
     },
     {
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49867775",
+      "author": "hp6",
+      "points": 99,
+      "num_comments": 40,
+      "created_at": "2026-09-27T15:51:28Z",
+      "object_id": "49867775",
+      "image": null,
+      "description": null,
+      "favicon": "https://tinyaiarena.com/favicon.png",
+      "site_name": "tinyaiarena.com"
+    },
+    {
       "title": "CEO of Mistral: AI is software. It can be controlled",
       "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
       "hn_url": "https://news.ycombinator.com/item?id=49856034",
@@ -101,20 +115,6 @@
       "description": "Mistral AI's co-founder believes the sector's American giants are manipulating the discourse around the technology's risks. He also defended his strategy, as critics are accusing his company of falling behind US and Chinese rivals.",
       "favicon": "https://www.lemonde.fr/bucket/resources/front/static/img/logos/pwa-180.png",
       "site_name": "Le Monde.fr"
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49867775",
-      "author": "hp6",
-      "points": 93,
-      "num_comments": 40,
-      "created_at": "2026-09-27T15:51:28Z",
-      "object_id": "49867775",
-      "image": null,
-      "description": null,
-      "favicon": "https://tinyaiarena.com/favicon.png",
-      "site_name": "tinyaiarena.com"
     },
     {
       "title": "An airport cooled by natural ventilation",
@@ -135,7 +135,7 @@
       "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
       "hn_url": "https://news.ycombinator.com/item?id=49850999",
       "author": "usernomdeguerre",
-      "points": 67,
+      "points": 69,
       "num_comments": 21,
       "created_at": "2026-09-25T22:49:41Z",
       "object_id": "49850999",
@@ -145,7 +145,7 @@
       "site_name": "reuters.com"
     }
   ],
-  "total_hits": 469,
+  "total_hits": 481,
   "has_metadata": true,
-  "fetched_at": "2026-09-27T23:16:27.121728+00:00"
+  "fetched_at": "2026-09-28T01:52:45.443354+00:00"
 }

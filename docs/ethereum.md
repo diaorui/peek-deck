@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-27T23:16:54.730147+00:00'
+updated: '2026-09-28T01:53:14.221397+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 23:16 UTC  
+**Last Updated:** September 28, 2026 at 01:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,690.61
+### $2,665.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -3.6%  
-**30d:** +8.8%  
-**90d:** +70.2%  
-**1y:** -35.3%  
+**24h:** -1.4%  
+**7d:** -3.4%  
+**30d:** +10.0%  
+**90d:** +65.2%  
+**1y:** -37.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $326.81B
+**Market Cap:** $324.29B
 Rank #2
 
-**Circulating Supply:** 122,084,678 ETH
+**Circulating Supply:** 122,084,526 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.9%
+-46.2%
 
 **All-Time Low:** $0.43
-+618327.2%
++614073.0%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.
 
-CoinDesk • 8h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 8h ago
 
 The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
 
-The Block • 8h ago
+theblock.co • 11h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Motley Fool • 11h ago
 
 This week was a rollercoaster ride for the cryptocurrency market. Bitcoin CRYPTO:BTCUSD surged to a multi-month high, Ethereum CRYPTO:ETHUSD is evolving beyond a blockchain and the crypto market rallied despite legislative setbacks.Here’s a quick recap of the top stories.Bitcoin’s Bullish RunBitcoi…
 
-TradingView • 11h ago
+TradingView • 13h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 11h ago
 
 MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -204,15 +204,15 @@ markets.businessinsider.com • 4h ago
 
 Puffer and Google Cloud want to make Ethereum feel instant by financially backing transaction results before final settlement.
 
-CryptoSlate • 10h ago
+CryptoSlate • 12h ago
 
 ---
 
-**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
+**[Ethereum: Pennant Apex Passed Without Breakout](https://blockchain.news/flashnews/ethereum-pennant-apex-passed-without-breakout)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum at $2686.16 tests pennant apex with no breakout. EMA50 support at $2668.88 and MACD death cross shape next move.
 
-Fortune • 2d ago
+blockchain.news • 1d ago
 
 ---
 
@@ -242,7 +242,17 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 12K • 👍 479 • 💬 33 • ⏱️ 12:21 • 7h ago
+👁️ 17K • 👍 539 • 💬 37 • ⏱️ 12:21 • 9h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO WARNING: Trading Signal Flipped!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUmSsn8wJCQ)**
+
+BITCOIN & CRYPTO WARNING: Trading Signal Flipped!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 672 • 👍 80 • 💬 31 • ⏱️ 22:55 • 32m ago
 
 ---
 
@@ -252,7 +262,7 @@ The clock is ticking, and I dont think people actually want to realize that its 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 23K • 👍 1K • 💬 298 • ⏱️ 16:24 • 11h ago
+👁️ 26K • 👍 1K • 💬 305 • ⏱️ 16:24 • 14h ago
 
 ---
 
@@ -262,7 +272,7 @@ Ethereum has been consolidating for five years. What happens next? On Fundstrat'
 
 📺 Fundstrat
 
-👁️ 4K • 👍 112 • 💬 6 • ⏱️ 0:36 • 8h ago
+👁️ 5K • 👍 127 • 💬 11 • ⏱️ 0:36 • 10h ago
 
 ---
 
@@ -272,37 +282,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 3K • 👍 64 • 💬 111 • ⏱️ 13:09 • 10h ago
-
----
-
-**[TOM LEE&#39;S SHOCKING ETHEREUM PREDICTION](https://www.youtube.com/watch?v=eRhJpssWsoI)**
-
-1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Tom Lee is calling for 60000 dollar Ethereum within a ...
-
-📺 Lark Davis
-
-👁️ 29K • 👍 603 • 💬 83 • ⏱️ 7:46 • 1d ago
-
----
-
-**[🔥 Big Money Is Buying Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=B6oVX688zaw)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 7K • 👍 85 • 💬 8 • ⏱️ 8:46 • 1d ago
-
----
-
-**[Ethereum: Tonight&#39;s Weekly Close Decides EVERYTHING!!](https://www.youtube.com/watch?v=0N-t7-O5mho)**
-
-Ethereum (ETH) closed just under 2707 four nights in a row, each night a little higher, then broke through this morning. Tonight's ...
-
-📺 Marzell Crypto
-
-👁️ 972 • 👍 18 • 💬 38 • ⏱️ 4:40 • 10h ago
+👁️ 4K • 👍 67 • 💬 111 • ⏱️ 13:09 • 12h ago
 
 ---
 
@@ -312,7 +292,27 @@ Put Your XRP To Work Here: https://join.altcoinpro.com/03ecefcc Attend the Altco
 
 📺 BULLRUNNERS
 
-👁️ 9K • 👍 235 • 💬 21 • ⏱️ 9:58 • 9h ago
+👁️ 10K • 👍 241 • 💬 23 • ⏱️ 9:58 • 11h ago
+
+---
+
+**[TOM LEE&#39;S SHOCKING ETHEREUM PREDICTION](https://www.youtube.com/watch?v=eRhJpssWsoI)**
+
+1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Tom Lee is calling for 60000 dollar Ethereum within a ...
+
+📺 Lark Davis
+
+👁️ 30K • 👍 615 • 💬 89 • ⏱️ 7:46 • 1d ago
+
+---
+
+**[🔥 Big Money Is Buying Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=B6oVX688zaw)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 7K • 👍 86 • 💬 8 • ⏱️ 8:46 • 1d ago
 
 ---
 
@@ -322,17 +322,17 @@ CCV Risk Models & Intelligence System — Start your free trial: https://app.cry
 
 📺 Crypto Capital Venture
 
-👁️ 31K • 👍 749 • 💬 149 • ⏱️ 14:43 • 1d ago
+👁️ 32K • 👍 756 • 💬 150 • ⏱️ 14:43 • 1d ago
 
 ---
 
-**[🚀 Get In Early - The Pumpfun Of Ethereum](https://www.youtube.com/watch?v=us4X2xZaqY8)**
+**[Ethereum: Tonight&#39;s Weekly Close Decides EVERYTHING!!](https://www.youtube.com/watch?v=0N-t7-O5mho)**
 
-Tokenized stock launchpads are the best performing coins in crypto right now. We just saw launchpads on Solana and Robinhood ...
+Ethereum (ETH) closed just under 2707 four nights in a row, each night a little higher, then broke through this morning. Tonight's ...
 
-📺 Beanstock - Crypto & Stocks
+📺 Marzell Crypto
 
-👁️ 4K • 👍 76 • 💬 8 • ⏱️ 10:17 • 1d ago
+👁️ 1K • 👍 19 • 💬 38 • ⏱️ 4:40 • 12h ago
 
 ---
 
