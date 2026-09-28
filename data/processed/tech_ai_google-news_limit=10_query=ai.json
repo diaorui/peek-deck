@@ -5,12 +5,32 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Did Anthropic\u2019s A.I. Really Make a Scientific Discovery on Its Own?",
+      "headline": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNRNTdyaGdENWhHUlEzVFpTVnRndmtXcDBfZlVmTVZpWWF2SEF6M1FwXzBtbFZRdWJWOGNKc2JfYll1aEZxamJYYTJwZ2pXMUZ0NW1wWjEyQXRObnRJa29BbzhrLWxXOTFmSVZlRlkyS1Z3endodzAyYm9Sc0NOYlE5REhwbnZQbERfdWc2Mi1LbWVyaGpiOGtjZ1dVWGQ2cTJib1FVM1ZJYkVZbmRJWA?oc=5",
+      "pub_date": 1790523960.0,
+      "article_url": "https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Dario Amodei of Anthropic to Dine With Trump at White House",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
-      "pub_date": 1790542664.0,
-      "article_url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUVEUkVPXzdxVUc2VXA2LW1nS3hRWVM4U3hwWmptYnRQdEZJbWZjeXZEczJ2NFpmWWMyNDNOSHl0Y0thUTFJd05aZTRRTDRqNFUzSTZMNnFYU08yMzh3Q3JMNF80SlVjR0FnRFJfcFRNN0tTdE1kamFYc2xrd0FVWmZObHdDdmFldnU3MmJBaERob045a190QmNkN1JyZXc?oc=5",
+      "pub_date": 1790547144.0,
+      "article_url": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "An \u2018SNL\u2019 Exchange That Captures the AI Disconnect",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2FzZjB2dms5M3Jya2JUbG00S1RnRmZuandBMnJSbHY3ZFNnb2tLZ19KMFdPaVl0dU5ZMVJRaE9hQXJnVzg4dTdtMXB3WTBBYzFzMEI4YklRdGlzTXdsWU8tYjkxcEtnY2xFMGJDMGNZTnVqeF9hVXh4dS0zcDY0b1NlTXhrMk1fY1RjaFBDTWJWd2ZzSTJzaFBuZXdCSDlZeTBFY0t3?oc=5",
+      "pub_date": 1790531723.0,
+      "article_url": "https://www.theatlantic.com/culture/2026/09/saturday-night-live-season-52-premiere-dario-amodei/688803/",
       "image": null,
       "description": null
     },
@@ -25,36 +45,6 @@
       "description": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?"
     },
     {
-      "headline": "Meta\u2019s Muse Moment",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5",
-      "pub_date": 1790520900.0,
-      "article_url": "https://www.wsj.com/tech/ai/metas-muse-moment-4c49ac0e",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "pub_date": 1790092503.0,
-      "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bill Gates says an AI \u2018kill switch\u2019 isn\u2019t enough",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkx2MFZsUm1zS3p2OVktN210cV9PMHdubGRDcHNaWEFfVjhQRWlvQVZnY3UzeGQyTXVLVTV4blRjVUNVVTk1cW1USFFjOVhSX044a0J3WC1adW50aUZneXhvVHRpUFMwcVpjZWd1RG1QOUN5TVo5Zm50bWJ3RzZ4ZA?oc=5",
-      "pub_date": 1790530500.0,
-      "article_url": "https://www.politico.com/news/2026/09/27/bill-gates-ai-kill-switch-01094236",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "How to Know When the AI Boom Is About to Go Bust",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -65,46 +55,56 @@
       "description": null
     },
     {
-      "headline": "AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjhKd2FaWmFDNGx6VVBvd1AxMkp4MmQwek85Nzl4bWlrOEFaWmo4U190dW5zb0dOQnVXakYtWi1CTHJyZWo4T3lqRnYwVGszOEJ3M3NHMFlMU3pxSkM5WkljTkxLVU5VakNUTkhhZUFBMzQ4bHVBQldaV3k0T1JsMER3X3hzZkhvZmkzR05rSXJGWXBtdWo2OG9oN3hzVHdqU2hyQ3lvZ25BSUtuaE9qaVJhSnA1QQ?oc=5",
-      "pub_date": 1790514007.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed",
-      "image": null,
-      "description": null
+      "headline": "AI hyperscalers are transforming debt",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFB2ZC0tQzM5QllZMExaN0FBZUZWeU1fZE95OTVpSnBmOG12a09rVHFlcTRxWEpGRmlWbFJiUl9waktTNURPbEZVcnlLVnpPN0M0Q2kyRTBVZjRSWVM2YnNoMl81Y041bzdKNVZVUHpOUGY4RVVlR0lZMzFBN1djWkJGSUc?oc=5",
+      "pub_date": 1790568089.0,
+      "article_url": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d835f5c-ee3b-4456-8ba8-87338bba69aa.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "The sector\u2019s huge capital needs are forcing companies and countries to rethink how they borrow money"
     },
     {
-      "headline": "Nebius Is Raising the Price of Its AI Compute on Oct. 1. Here's What That Says About the Shortage.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZTNyVm1OOWF4aDFXd2dURE4tYTBrcThLOG5UbTFlQkJpS1VDTDdDLXMwZ0dSTGhudktIM0hlNlE0djFteHk5djRRMldrN0lQSlc2QnVGYUpqMU5wVEhvcFpuNUVqWVlqTkNzMWZpUEN2TUhaWUxlS2wtc0tLbkpyN29rUU03Vkxvb3hWcm9zYmkzbXFWMEJVdTFVYTFRUldNbVZHdkxwdWRGX0lPN0N3YUpsS1JMYXY3TTV3NmdGZ3k1SFNPTTRrcDRuOWs0MEIwSkFvcg?oc=5",
-      "pub_date": 1790552411.0,
-      "article_url": "https://www.fool.com/investing/2026/09/27/nebius-is-raising-the-price-of-its-ai-compute-on-oct-1-here-s-what-that-says-about-the-shortage/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd93aae07bc9e7f4566a9aa39fd147abcac628588-3840x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-      "description": "Why would a cloud company in the middle of a huge build-out charge more for the chips anybody can rent by the hour?"
+      "headline": "Your 401(k) is funding the AI boom. Here\u2019s what that means for your retirement",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUdXR1JaVlJRY0hxYy1ORFN3NERoZlZMSDhyYmFLbHYwNk96RWlkT3R6emNtN1dwcXJlMU15REVyeTF2ODBpZm1HVC1KLWhsUzZpYmFBaVRiZ1VWNkFRcVNtWHM4d1ExTUpvdUdSZlBGWnlKbEluN3lhNVIyNXpVbkwxM1lmczV5OWY0amU2VUFySWNRQ3dOWEtST3VxTmctOTcyX1ZRakFiR3M?oc=5",
+      "pub_date": 1790578800.0,
+      "article_url": "https://fortune.com/2026/09/28/how-ai-stock-market-concentration-could-put-401k-retirement-savings-at-risk/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Moscoso_Fortune_AI401K_ALT_Web-e1789761902141.jpg?resize=1200,600",
+      "description": "The passive-investing revolution was supposed to spread risk. Instead, it has tied millions of workers\u2019 nest eggs ever more tightly to the fortunes of Big Tech."
     },
     {
-      "headline": "An \u2018SNL\u2019 Exchange That Captures the AI Disconnect",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2FzZjB2dms5M3Jya2JUbG00S1RnRmZuandBMnJSbHY3ZFNnb2tLZ19KMFdPaVl0dU5ZMVJRaE9hQXJnVzg4dTdtMXB3WTBBYzFzMEI4YklRdGlzTXdsWU8tYjkxcEtnY2xFMGJDMGNZTnVqeF9hVXh4dS0zcDY0b1NlTXhrMk1fY1RjaFBDTWJWd2ZzSTJzaFBuZXdCSDlZeTBFY0t3?oc=5",
-      "pub_date": 1790531723.0,
-      "article_url": "https://www.theatlantic.com/culture/2026/09/saturday-night-live-season-52-premiere-dario-amodei/688803/",
-      "image": null,
-      "description": null
+      "headline": "I left my job as Five Below's top lawyer. AI training has been a great addition to my private practice.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2xuRlVzMEtOdFROWWtTZF9ZUkFFVmlka3E4UV9TUThBZ1FsSVJZT2NoQ3dzNWgwRVZ4SEdheTF5YzhMZ3k4cThQU3FLaFJNSmV0d3BNcU4yMWx6aTVacExHNl9CODRfWkYxS3ZOd1Y4LVEwcDVWRk1qR2Z5VkR5dUhxWTc4bFkweFA0aEczLURwelFDQXlqUzU5RFU2cEo0c3gxOTdUcw?oc=5",
+      "pub_date": 1790582782.0,
+      "article_url": "https://www.businessinsider.com/lawyer-ai-training-left-corporate-micro1-revenue-private-practice-2026-9",
+      "image": "https://i.insider.com/6ab714c6265e3f8e338f7671?width=1200&format=jpeg",
+      "description": "Ron Masciantonio left his job at Five Below and started his own legal practice. He says AI training is great for filling in the gaps between clients."
     },
     {
-      "headline": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JXcVRMWWc5ajJLNTNIdzdYeTNPellCdm5Pd3FKTjhUdTRGcmRMY1ZlOUZGM3RrcUxJdEFKeFRiaWRSYnVPWVVBbmdOY0U5OVdXNHppMEZ2QkY0T0ZhX3dBOUxyMnp0R0Y0VmZJVkNCTHQtd1lNRUJ1MUpITkVHUkVfUXEwbUEzSmJMVk96bkVSNnJ4djRCNTdvRTFTcW90VkI3bjd2X2otdTM3WTFMaWxiNA?oc=5",
-      "pub_date": 1790551652.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+      "headline": "Stocktwits Tech Watch: Micron\u2019s Q4 Report, OpenAI Developer Conference Keep AI Trade In Focus This Week",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMklfeXBTSWhaWXFRSXVTUjZHTWEwSkVrMXBKeV9mZURqSnItcGtrOGZ4b2xMd21oUjhHUGlON1NZYy13SlNqWFlKcmg2S0hRX2RlZko5dUtaZ3FxcWNrYk5xVFc5aVpfVnMtNjVTUW8xZ0lMRjBmclFkMWNFTjB0MFJBYTVrWHdHYmVzWWtLSXZRaGcwMHNSSVAxWQ?oc=5",
+      "pub_date": 1790578850.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/stocktwits-tech-watch-micron-q4-070050209.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cc9fb3c927b6947595ca76a8c8c60dafd4d34f871b9b11c031bf7c23b1037ea0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fb60cb8d2147266d4676653426f7f5ecc.jpg",
+      "description": "AI momentum faces a fresh test as earnings, product launches and IPOs put tech investors back on alert."
+    },
+    {
+      "headline": "Bill Gates says he draws the line at AI in his personal relationships",
+      "source": "WCNC",
+      "source_url": "https://www.wcnc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkRVajFmTk9BZlRKTUtNYTAxczc4X292VElySXRPTk15aS1ieFpIUkV6U213bmRGMHU5ZzdtY1ZWd1JUWFhlRmxkOXl4aGt2VG9TSVhpVzlHTmNvamgwSG81cDRBbmZhM2pSZ3NONm1Hd09ZVmRyWkdiVEljVFhHWFpoZVpMSkY5TlVZWmo3U3RSTFViVG9wNnZ6ZFp6V3NOMkY4?oc=5",
+      "pub_date": 1790534700.0,
+      "article_url": "https://www.wcnc.com/article/news/nation-world/bill-gates-ai/507-f5292bcc-1396-40de-89d8-b113b43ca843",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-28T01:53:11.862370+00:00"
+  "fetched_at": "2026-09-28T08:19:16.162236+00:00"
 }
