@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-28T01:53:14.221397+00:00'
+updated: '2026-09-28T08:19:17.284664+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 28, 2026 at 01:53 UTC  
+**Last Updated:** September 28, 2026 at 08:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,665.00
+### $2,650.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -3.4%  
-**30d:** +10.0%  
-**90d:** +65.2%  
-**1y:** -37.0%  
+**24h:** -2.4%  
+**7d:** -3.7%  
+**30d:** +9.6%  
+**90d:** +64.7%  
+**1y:** -37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $324.29B
+**Market Cap:** $323.48B
 Rank #2
 
-**Circulating Supply:** 122,084,526 ETH
+**Circulating Supply:** 122,087,474 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.2%
+-46.4%
 
 **All-Time Low:** $0.43
-+614073.0%
++611867.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -96,7 +96,7 @@ Hegotá upgrade frames-devnet-0 live, Nethermind 2.0.0, Daisugi post quantum tes
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9d ago
+10d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.
 
-CoinDesk • 11h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -164,15 +164,13 @@ CoinDesk • 11h ago
 
 The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
 
-theblock.co • 11h ago
+theblock.co • 17h ago
 
 ---
 
-**[A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.](https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html)**
+**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
 
-A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call.
-
-Yahoo Finance • 1d ago
+Vitalik Buterin's website • 22h ago
 
 ---
 
@@ -180,47 +178,7 @@ Yahoo Finance • 1d ago
 
 Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency.
 
-The Motley Fool • 14h ago
-
----
-
-**[Bitcoin Eyes $100K, Ethereum's Evolution and Crypto Market Rally: This Week in Crypto](https://www.tradingview.com/news/benzinga:b7d28b4f8094b:0-bitcoin-eyes-100k-ethereum-s-evolution-and-crypto-market-rally-this-week-in-crypto/)**
-
-This week was a rollercoaster ride for the cryptocurrency market. Bitcoin CRYPTO:BTCUSD surged to a multi-month high, Ethereum CRYPTO:ETHUSD is evolving beyond a blockchain and the crypto market rallied despite legislative setbacks.Here’s a quick recap of the top stories.Bitcoin’s Bullish RunBitcoi…
-
-TradingView • 13h ago
-
----
-
-**[New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-releases-rtx-launch-date-as-ethereum-price-prediction-targets-18k-and-whale-buying-grows-1036576438)**
-
-MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft...
-
-markets.businessinsider.com • 7h ago
-
----
-
-**[Ethereum is not instant, but collateral could make it feel that way](https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/)**
-
-Puffer and Google Cloud want to make Ethereum feel instant by financially backing transaction results before final settlement.
-
-CryptoSlate • 12h ago
-
----
-
-**[Ethereum: Pennant Apex Passed Without Breakout](https://blockchain.news/flashnews/ethereum-pennant-apex-passed-without-breakout)**
-
-Ethereum at $2686.16 tests pennant apex with no breakout. EMA50 support at $2668.88 and MACD death cross shape next move.
-
-blockchain.news • 1d ago
-
----
-
-**[Ethereum Exchange Supply Hits Record Low as ETH Gains 10% — Is a Correction Next?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61998408/ethereum-exchange-supply-hits-record-low-as-eth-gains-10-is-a-correction-next)**
-
-Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally.
-
-Benzinga • 2d ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -229,6 +187,46 @@ Benzinga • 2d ago
 Tom Lee-backed Bitmine now holds 4.9% of the supply of all the Ethereum in circulation.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Eyes $100K, Ethereum's Evolution and Crypto Market Rally: This Week in Crypto](https://www.tradingview.com/news/benzinga:b7d28b4f8094b:0-bitcoin-eyes-100k-ethereum-s-evolution-and-crypto-market-rally-this-week-in-crypto/)**
+
+This week was a rollercoaster ride for the cryptocurrency market. Bitcoin CRYPTO:BTCUSD surged to a multi-month high, Ethereum CRYPTO:ETHUSD is evolving beyond a blockchain and the crypto market rallied despite legislative setbacks.Here’s a quick recap of the top stories.Bitcoin’s Bullish RunBitcoi…
+
+TradingView • 20h ago
+
+---
+
+**[New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-releases-rtx-launch-date-as-ethereum-price-prediction-targets-18k-and-whale-buying-grows-1036576438)**
+
+MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft...
+
+markets.businessinsider.com • 13h ago
+
+---
+
+**[Ethereum is not instant, but collateral could make it feel that way](https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/)**
+
+Puffer and Google Cloud want to make Ethereum feel instant by financially backing transaction results before final settlement.
+
+CryptoSlate • 19h ago
+
+---
+
+**[SEC Clarifies Ethereum Staking Rules: 1.68 Million ETH in Queue](https://247wallst.com/investing/cryptocurrency/2026/09/26/sec-clarifies-ethereum-staking-rules-1-68-million-eth-in-queue/)**
+
+The SEC clarifies that Ethereum staking services do not constitute a security, while 1.68 million ETH awaits staking.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Ethereum: Pennant Apex Passed Without Breakout](https://blockchain.news/flashnews/ethereum-pennant-apex-passed-without-breakout)**
+
+Ethereum at $2686.16 tests pennant apex with no breakout. EMA50 support at $2668.88 and MACD death cross shape next move.
+
+blockchain.news • 1d ago
 
 ---
 
@@ -242,17 +240,7 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 17K • 👍 539 • 💬 37 • ⏱️ 12:21 • 9h ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING: Trading Signal Flipped!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUmSsn8wJCQ)**
-
-BITCOIN & CRYPTO WARNING: Trading Signal Flipped!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 672 • 👍 80 • 💬 31 • ⏱️ 22:55 • 32m ago
+👁️ 21K • 👍 638 • 💬 39 • ⏱️ 12:21 • 16h ago
 
 ---
 
@@ -262,17 +250,7 @@ The clock is ticking, and I dont think people actually want to realize that its 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 26K • 👍 1K • 💬 305 • ⏱️ 16:24 • 14h ago
-
----
-
-**[Is Ethereum about to explode?](https://www.youtube.com/watch?v=Obz42zCh4-Y)**
-
-Ethereum has been consolidating for five years. What happens next? On Fundstrat's macro update webinar, Tom Lee and Mark ...
-
-📺 Fundstrat
-
-👁️ 5K • 👍 127 • 💬 11 • ⏱️ 0:36 • 10h ago
+👁️ 30K • 👍 2K • 💬 345 • ⏱️ 16:24 • 20h ago
 
 ---
 
@@ -282,17 +260,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 4K • 👍 67 • 💬 111 • ⏱️ 13:09 • 12h ago
-
----
-
-**[XRP Just Took #1 On A Major Exchange?! (BITCOIN AND ETHEREUM COMBINED COULDN&#39;T MATCH IT)](https://www.youtube.com/watch?v=npfquVMMjjM)**
-
-Put Your XRP To Work Here: https://join.altcoinpro.com/03ecefcc Attend the Altcoin Pro Summit LIVE - October 2-4! Get your ...
-
-📺 BULLRUNNERS
-
-👁️ 10K • 👍 241 • 💬 23 • ⏱️ 9:58 • 11h ago
+👁️ 5K • 👍 76 • 💬 112 • ⏱️ 13:09 • 19h ago
 
 ---
 
@@ -302,7 +270,7 @@ Put Your XRP To Work Here: https://join.altcoinpro.com/03ecefcc Attend the Altco
 
 📺 Lark Davis
 
-👁️ 30K • 👍 615 • 💬 89 • ⏱️ 7:46 • 1d ago
+👁️ 33K • 👍 633 • 💬 91 • ⏱️ 7:46 • 1d ago
 
 ---
 
@@ -312,7 +280,37 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 7K • 👍 86 • 💬 8 • ⏱️ 8:46 • 1d ago
+👁️ 7K • 👍 87 • 💬 8 • ⏱️ 8:46 • 1d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO WARNING: Trading Signal Flipped!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUmSsn8wJCQ)**
+
+BITCOIN & CRYPTO WARNING: Trading Signal Flipped!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 358 • 💬 78 • ⏱️ 22:55 • 6h ago
+
+---
+
+**[🚀 Get In Early - The Pumpfun Of Ethereum](https://www.youtube.com/watch?v=us4X2xZaqY8)**
+
+Tokenized stock launchpads are the best performing coins in crypto right now. We just saw launchpads on Solana and Robinhood ...
+
+📺 Beanstock - Crypto & Stocks
+
+👁️ 4K • 👍 79 • 💬 8 • ⏱️ 10:17 • 1d ago
+
+---
+
+**[XRP Just Took #1 On A Major Exchange?! (BITCOIN AND ETHEREUM COMBINED COULDN&#39;T MATCH IT)](https://www.youtube.com/watch?v=npfquVMMjjM)**
+
+Put Your XRP To Work Here: https://join.altcoinpro.com/03ecefcc Attend the Altcoin Pro Summit LIVE - October 2-4! Get your ...
+
+📺 BULLRUNNERS
+
+👁️ 11K • 👍 255 • 💬 23 • ⏱️ 9:58 • 18h ago
 
 ---
 
@@ -322,17 +320,17 @@ CCV Risk Models & Intelligence System — Start your free trial: https://app.cry
 
 📺 Crypto Capital Venture
 
-👁️ 32K • 👍 756 • 💬 150 • ⏱️ 14:43 • 1d ago
+👁️ 33K • 👍 765 • 💬 149 • ⏱️ 14:43 • 1d ago
 
 ---
 
-**[Ethereum: Tonight&#39;s Weekly Close Decides EVERYTHING!!](https://www.youtube.com/watch?v=0N-t7-O5mho)**
+**[Meta Muse A.I. Agents Need ETH 🤖 SharpLink CEO Interview](https://www.youtube.com/watch?v=cIcg9GvxiCs)**
 
-Ethereum (ETH) closed just under 2707 four nights in a row, each night a little higher, then broke through this morning. Tonight's ...
+SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement layer for the A.I. agent economy after Meta ...
 
-📺 Marzell Crypto
+📺 Paul Barron Network
 
-👁️ 1K • 👍 19 • 💬 38 • ⏱️ 4:40 • 12h ago
+👁️ 68K • 👍 1K • 💬 140 • ⏱️ 38:35 • 2d ago
 
 ---
 

@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-02-09T19:00:00.000Z",
       "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-      "github_stars": 4922,
+      "github_stars": 4972,
       "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
     },
     {
@@ -35,8 +35,27 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 108861,
+      "github_stars": 108928,
       "project_page": null
+    },
+    {
+      "id": "2609.24984",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu et al. (11 authors)",
+      "organization_name": "TencentARC",
+      "organization_fullname": "ARC Lab, Tencent",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
+      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.24984",
+      "arxiv_url": "https://arxiv.org/abs/2609.24984",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
+      "upvotes": 156,
+      "num_comments": 4,
+      "published_at": "2026-09-20T20:00:00.000Z",
+      "github_repo": "https://github.com/TencentARC/WorldCrafter",
+      "github_stars": 390,
+      "project_page": "https://drexubery.github.io/WorldCrafter"
     },
     {
       "id": "2503.11576",
@@ -54,27 +73,8 @@
       "num_comments": 19,
       "published_at": "2025-03-14T12:44:14.000Z",
       "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 68054,
+      "github_stars": 68092,
       "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
-    },
-    {
-      "id": "2609.24984",
-      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-      "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu et al. (11 authors)",
-      "organization_name": "TencentARC",
-      "organization_fullname": "ARC Lab, Tencent",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
-      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24984",
-      "arxiv_url": "https://arxiv.org/abs/2609.24984",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 155,
-      "num_comments": 4,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/TencentARC/WorldCrafter",
-      "github_stars": 390,
-      "project_page": "https://drexubery.github.io/WorldCrafter"
     },
     {
       "id": "2407.16741",
@@ -92,7 +92,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89296,
+      "github_stars": 89331,
       "project_page": null
     },
     {
@@ -113,6 +113,25 @@
       "github_repo": "https://github.com/vllm-project/vllm",
       "github_stars": 86094,
       "project_page": null
+    },
+    {
+      "id": "2503.08638",
+      "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
+      "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "We tackle the task of long-form music generation--particularly the\nchallenging lyrics-to-song problem--by introducing YuE, a family of\nopen foundation models based on the LLaMA2 architecture. Specifically, YuE\nscales to trillions of tokens and generates up to five minutes of music while\nmaintaining lyrical alignment, coherent musical structure, and engaging vocal\nmelodies with appropriate accompaniment. It achieves this through (1)\ntrack-decoupled next-token prediction to overcome dense mixture signals, (2)\nstructural progressive conditioning for long-context lyrical alignment, and (3)\na multitask, multiphase pre-training recipe to converge and generalize. In\naddition, we redesign the in-context learning technique for music generation,\nenabling versatile style transfer (e.g., converting Japanese city pop into an\nEnglish rap while preserving the original accompaniment) and bidirectional\ngeneration. Through extensive evaluation, we demonstrate that YuE matches or\neven surpasses some of the proprietary systems in musicality and vocal agility.\nIn addition, fine-tuning YuE enables additional controls and enhanced support\nfor tail languages. Furthermore, beyond generation, we show that YuE's learned\nrepresentations can perform well on music understanding tasks, where the\nresults of YuE match or exceed state-of-the-art methods on the MARBLE\nbenchmark. Keywords: lyrics2song, song generation, long-form, foundation model,\nmusic generation",
+      "ai_summary": "YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.",
+      "hf_url": "https://huggingface.co/papers/2503.08638",
+      "arxiv_url": "https://arxiv.org/abs/2503.08638",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.08638.png",
+      "upvotes": 78,
+      "num_comments": 3,
+      "published_at": "2025-03-11T13:26:50.000Z",
+      "github_repo": "https://github.com/multimodal-art-projection/YuE",
+      "github_stars": 10464,
+      "project_page": "https://map-yue.github.io/"
     },
     {
       "id": "2310.10688",
@@ -145,31 +164,12 @@
       "hf_url": "https://huggingface.co/papers/2609.24981",
       "arxiv_url": "https://arxiv.org/abs/2609.24981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
-      "upvotes": 68,
+      "upvotes": 69,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
       "github_stars": 379,
       "project_page": "https://jiah-cloud.github.io/GAE.github.io/"
-    },
-    {
-      "id": "2503.08638",
-      "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
-      "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We tackle the task of long-form music generation--particularly the\nchallenging lyrics-to-song problem--by introducing YuE, a family of\nopen foundation models based on the LLaMA2 architecture. Specifically, YuE\nscales to trillions of tokens and generates up to five minutes of music while\nmaintaining lyrical alignment, coherent musical structure, and engaging vocal\nmelodies with appropriate accompaniment. It achieves this through (1)\ntrack-decoupled next-token prediction to overcome dense mixture signals, (2)\nstructural progressive conditioning for long-context lyrical alignment, and (3)\na multitask, multiphase pre-training recipe to converge and generalize. In\naddition, we redesign the in-context learning technique for music generation,\nenabling versatile style transfer (e.g., converting Japanese city pop into an\nEnglish rap while preserving the original accompaniment) and bidirectional\ngeneration. Through extensive evaluation, we demonstrate that YuE matches or\neven surpasses some of the proprietary systems in musicality and vocal agility.\nIn addition, fine-tuning YuE enables additional controls and enhanced support\nfor tail languages. Furthermore, beyond generation, we show that YuE's learned\nrepresentations can perform well on music understanding tasks, where the\nresults of YuE match or exceed state-of-the-art methods on the MARBLE\nbenchmark. Keywords: lyrics2song, song generation, long-form, foundation model,\nmusic generation",
-      "ai_summary": "YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.",
-      "hf_url": "https://huggingface.co/papers/2503.08638",
-      "arxiv_url": "https://arxiv.org/abs/2503.08638",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.08638.png",
-      "upvotes": 78,
-      "num_comments": 3,
-      "published_at": "2025-03-11T13:26:50.000Z",
-      "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 10386,
-      "project_page": "https://map-yue.github.io/"
     },
     {
       "id": "2606.23050",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-28T01:52:56.808033+00:00"
+  "fetched_at": "2026-09-28T08:18:55.939544+00:00"
 }
