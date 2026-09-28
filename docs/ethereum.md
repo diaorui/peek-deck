@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-28T16:55:05.296068+00:00'
+updated: '2026-09-28T22:26:01.298666+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 28, 2026 at 16:55 UTC  
+**Last Updated:** September 28, 2026 at 22:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,677.60
+### $2,674.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.4%  
-**30d:** +11.0%  
-**90d:** +66.8%  
-**1y:** -36.4%  
+**24h:** -0.5%  
+**7d:** -2.8%  
+**30d:** +10.6%  
+**90d:** +66.1%  
+**1y:** -36.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $327.25B
+**Market Cap:** $326.39B
 Rank #2
 
 **Circulating Supply:** 122,087,474 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.8%
+-46.0%
 
 **All-Time Low:** $0.43
-+619013.2%
++617195.5%
 
 ---
 
@@ -160,6 +160,12 @@ CoinDesk • 1d ago
 
 ---
 
+**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
+
+Vitalik Buterin's website • 1d ago
+
+---
+
 **['It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030](https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953)**
 
 The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
@@ -168,19 +174,11 @@ The Block • 1d ago
 
 ---
 
-**[Will Ethereum Hit $4,000 Before the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-4-000-end-160027391.html)**
+**[Will Ethereum Hit $4,000 Before the End of 2026?](https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/)**
 
-Ethereum just posted a stunning 72% quarterly surge, but the clock is ticking and a wall of frustrated sellers waits ahead. Whether ETH can hit the $4,000 milestone before 2027 depends on one critical monthly close.
+Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?
 
-Yahoo Finance • 54m ago
-
----
-
-**[Bitcoin Eyes $100K, Ethereum's Evolution and Crypto Market Rally: This Week in Crypto](https://www.tradingview.com/news/benzinga:b7d28b4f8094b:0-bitcoin-eyes-100k-ethereum-s-evolution-and-crypto-market-rally-this-week-in-crypto/)**
-
-This week was a rollercoaster ride for the cryptocurrency market. Bitcoin CRYPTO:BTCUSD surged to a multi-month high, Ethereum CRYPTO:ETHUSD is evolving beyond a blockchain and the crypto market rallied despite legislative setbacks.Here’s a quick recap of the top stories.Bitcoin’s Bullish RunBitcoi…
-
-TradingView • 1d ago
+24/7 Wall St. • 6h ago
 
 ---
 
@@ -188,29 +186,15 @@ TradingView • 1d ago
 
 A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Crypto Is Rallying Again – But the Biggest Winner Isn't Bitcoin, Ethereum or XRP](https://finance.yahoo.com/markets/crypto/articles/crypto-rallying-again-biggest-winner-144215736.html)**
+**[Bitcoin vs Ethereum: Which Gets Back to Its All-Time High First?](https://247wallst.com/investing/cryptocurrency/2026/09/27/bitcoin-vs-ethereum-which-gets-back-to-its-all-time-high-first/)**
 
-Quant’s QNT has exploded from around $67 a week ago to above $280, dramatically outperforming Bitcoin, Ethereum and XRP. The immediate catalyst is The Clearing ...
+Bitcoin needs a 49% gain to hit $126,080, while Ethereum needs 83% to reach $4,950. Bitcoin vs Ethereum, who will get there first?
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitmine’s Ethereum Holdings Surpass Six Million Tokens](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-surpass-six-140400641.html)**
-
-Bitmine Immersion Technologies’ (NYSE: $BMNR) now owns more than six million Ethereum (CRYPTO: $ETH) tokens.&...
-
-Yahoo Finance • 2h ago
-
----
-
-**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
-
-vitalik.eth.limo • 1d ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -230,97 +214,33 @@ The Motley Fool • 1d ago
 
 ---
 
+**[BitMine’s Ethereum Stack Crosses 6M, While Strategy Taps MSTR Sales To Buy BTC And STRC](https://www.tradingview.com/news/stocktwits:94610716f094b:0-bitmine-s-ethereum-stack-crosses-6m-while-strategy-taps-mstr-sales-to-buy-btc-and-strc/)**
+
+Crypto treasury companies continued to expand their digital-asset holdings last week, with BitMine Immersion Technologies (BMNR) crossing 6 million Ethereum (ETH) while Strategy (MSTR) and Strive (ASST) added to their Bitcoin (BTC) holdings.BitMine’s Ethereum Stack Crosses 6 MillionBitMine said Mon…
+
+TradingView • 7h ago
+
+---
+
+**[This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?](https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/)**
+
+NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz.
+
+The Motley Fool • 3h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Altcoins Haven&#39;t Had A Bull Market In 6 Years... This Ethereum Chart Says It&#39;s About To Start](https://www.youtube.com/watch?v=mPSeKc-arqg)**
+**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
 
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
-
-📺 Crypto Capital Venture
-
-👁️ 34K • 👍 775 • 💬 149 • ⏱️ 14:43 • 1d ago
-
----
-
-**[🔥 Big Money Is Buying Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=B6oVX688zaw)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 7K • 👍 97 • 💬 10 • ⏱️ 8:46 • 1d ago
-
----
-
-**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
-
-BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 23K • 👍 487 • 💬 104 • ⏱️ 24:53 • 1d ago
-
----
-
-**[BE READY FOR THESE ETH MOVES! (Ethereum Update)](https://www.youtube.com/watch?v=PwLXpuhlsWM)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 1K • 👍 31 • 💬 10 • ⏱️ 4:48 • 1d ago
-
----
-
-**[Ethereum: Nobody Is READY For September 30th!!](https://www.youtube.com/watch?v=fqKofUiEqK8)**
-
-WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
-
-📺 Marzell Crypto
-
-👁️ 3K • 👍 44 • 💬 37 • ⏱️ 4:56 • 2d ago
-
----
-
-**[🚨LIVE: ETHEREUM is STRONG! Zcash Is Bitcoin&#39;s Missing Privacy Layer! Kalshi Drama Debate!](https://www.youtube.com/watch?v=GNU9Q-p3Luk)**
-
-Happy Friday, live from South Florida. The market is holding its ground to close the week! The board's been mostly green and ...
-
-📺 The Rollup
-
-👁️ 2K • 👍 38 • 💬 4 • ⏱️ 2:34:00 • 2d ago
-
----
-
-**[1,300% Shorts On ETH Despite Vitalik’s Bullish Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
-
-ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
-
-📺 Altcoin Buzz
-
-👁️ 276 • 👍 32 • 💬 12 • ⏱️ 10:22 • 2h ago
-
----
-
-**[Ethereum: First Time in 35 Weeks!](https://www.youtube.com/watch?v=0N-t7-O5mho)**
-
-Ethereum (ETH) closed just under 2707 four nights in a row, each night a little higher, then broke through this morning. Tonight's ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 21 • 💬 39 • ⏱️ 4:40 • 1d ago
-
----
-
-**[The Biggest Crypto Bull Run In History Is Going To Set Bitcoin &amp; Ethereum Holders Up For Life](https://www.youtube.com/watch?v=jsm5NyNiT4c)**
-
-The clock is ticking, and I dont think people actually want to realize that its happening. The Ethereum and crypto news the last few ...
+Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 32K • 👍 2K • 💬 374 • ⏱️ 16:24 • 1d ago
+👁️ 22K • 👍 1K • 💬 309 • ⏱️ 12:51 • 11h ago
 
 ---
 
@@ -330,7 +250,87 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 24K • 👍 728 • 💬 43 • ⏱️ 12:21 • 1d ago
+👁️ 25K • 👍 749 • 💬 42 • ⏱️ 12:21 • 1d ago
+
+---
+
+**[Why This CEO Won&#39;t Touch Ethereum](https://www.youtube.com/watch?v=vZgUsND3Vzc)**
+
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Matt Cole runs ...
+
+📺 Lark Davis
+
+👁️ 619 • 👍 55 • 💬 6 • ⏱️ 13:09 • 1h ago
+
+---
+
+**[1,300% Shorts On ETH Despite Vitalik’s Bullish Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
+
+ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
+
+📺 Altcoin Buzz
+
+👁️ 2K • 👍 49 • 💬 7 • ⏱️ 10:22 • 7h ago
+
+---
+
+**[The “Fast Ethereum” Plan That Could Supercharge ETH](https://www.youtube.com/watch?v=62vE4TlShFg)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 6K • 👍 80 • 💬 112 • ⏱️ 13:09 • 1d ago
+
+---
+
+**[ICP&#39;s Biggest Opportunity Just Came From Vitalik | Internet Computer](https://www.youtube.com/watch?v=leP_QGxtnco)**
+
+Vitalik Buterin just published "The Cryptographic World Computer," an essay that explains what all of Ethereum's planned ...
+
+📺 BasedGiant
+
+👁️ 3K • 👍 113 • 💬 10 • ⏱️ 9:23 • 16h ago
+
+---
+
+**[TOM LEE&#39;S SHOCKING ETHEREUM PREDICTION](https://www.youtube.com/watch?v=eRhJpssWsoI)**
+
+1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Tom Lee is calling for 60000 dollar Ethereum within a ...
+
+📺 Lark Davis
+
+👁️ 36K • 👍 659 • 💬 91 • ⏱️ 7:46 • 2d ago
+
+---
+
+**[Altcoins Haven&#39;t Had A Bull Market In 6 Years... This Ethereum Chart Says It&#39;s About To Start](https://www.youtube.com/watch?v=mPSeKc-arqg)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+
+📺 Crypto Capital Venture
+
+👁️ 35K • 👍 779 • 💬 153 • ⏱️ 14:43 • 2d ago
+
+---
+
+**[🔥 Big Money Is Buying Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=B6oVX688zaw)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 8K • 👍 99 • 💬 10 • ⏱️ 8:46 • 2d ago
+
+---
+
+**[Is Ethereum about to explode?](https://www.youtube.com/watch?v=Obz42zCh4-Y)**
+
+Ethereum has been consolidating for five years. What happens next? On Fundstrat's macro update webinar, Tom Lee and Mark ...
+
+📺 Fundstrat
+
+👁️ 13K • 👍 236 • 💬 16 • ⏱️ 0:36 • 1d ago
 
 ---
 
