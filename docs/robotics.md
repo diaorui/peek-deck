@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-28T01:53:14.224893+00:00'
+updated: '2026-09-28T08:19:17.286524+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 28, 2026 at 01:53 UTC  
+**Last Updated:** September 28, 2026 at 08:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,13 +86,13 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 **[News: Google Instrinsic Physical ai/Robotics OS being released publicly](https://www.reddit.com/r/robotics/comments/1wovxgh/news_google_instrinsic_physical_airobotics_os/)**
 
-3d ago
+4d ago
 
 ---
 
 **[Tendon-Driven Robot Hand"High degree of freedom and fast operation](https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -120,23 +120,23 @@ Ars Technica • 2d ago
 
 Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
 
-Engadget • 12h ago
+Engadget • 19h ago
 
 ---
 
-**[Tesla ramps Optimus to hundreds a week, but the robots can’t generalize](https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/)**
+**[Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks](https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week)**
 
-Tesla now builds several hundred Optimus robots a week, but a new report says the hands break, suppliers can't keep up, and the AI can't generalize.
-
-Electrek • 2d ago
-
----
-
-**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
-
-The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
+Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain.
 
 Interesting Engineering • 1d ago
+
+---
+
+**[Wind-up elastic robot jumps forever when fed infrared light](https://newatlas.com/robotics/elastic-robot-jump-infrared-light/)**
+
+Robots – that is, self-guided mechanisms interacting with or changing their environments – exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that…
+
+New Atlas • 5h ago
 
 ---
 
@@ -144,7 +144,7 @@ Interesting Engineering • 1d ago
 
 The World Humanoid Games were actually a social experiment in the making.
 
-slate.com • 16h ago
+Slate Magazine • 22h ago
 
 ---
 
@@ -160,7 +160,7 @@ WSB-TV • 1d ago
 
 Appliance makers and startups race into a nascent market as devices move beyond medical usage
 
-Nikkei Asia • 21h ago
+asia.nikkei.com • 1d ago
 
 ---
 
@@ -172,19 +172,19 @@ TechCrunch • 2d ago
 
 ---
 
-**[Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.](https://finance.yahoo.com/technology/ai/articles/prediction-robotics-biggest-opportunity-within-153500117.html)**
+**[US ally plans army of humanoid robots to conduct risky operations with drones, boost high-tech warfare](https://www.yahoo.com/news/world/articles/us-ally-plans-army-humanoid-183151825.html)**
 
-Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate.
+The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
 
-Yahoo Finance • 1d ago
+Yahoo • 1d ago
 
 ---
 
-**[Lord Have Mercy as Researchers Create Walking Disembodied Hand Like That Little Guy From "The Addams Family"](https://futurism.com/robots-and-machines/disembodied-walking-robot-hand-addams-family)**
+**[US Air Force receives first ‘robot wingmen’ drones to begin autonomous warfare trials](https://interestingengineering.com/ai-robotics/us-receives-first-robot-wingmen-drones)**
 
-Researches have created a autonomous robotic hand that can walk around and support its own weight all by itself.
+The US Air Force has received its first two CCAs for testing alongside crewed fighters at its Creech base in Nevada.
 
-Futurism • 14h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -198,7 +198,7 @@ Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: t
 
 📺 New China TV
 
-👁️ 67K • 👍 35 • 💬 7 • ⏱️ 0:24 • 4d ago
+👁️ 67K • 👍 36 • 💬 8 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -208,7 +208,7 @@ The first UWORLD U1 Series Ultra Bionic Humanoid Robots are now being delivered,
 
 📺 DPCcars
 
-👁️ 617 • 👍 19 • 💬 1 • ⏱️ 2:26 • 5h ago
+👁️ 2K • 👍 26 • 💬 1 • ⏱️ 2:26 • 11h ago
 
 ---
 
@@ -218,7 +218,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 739K • 👍 6K • 💬 698 • ⏱️ 4:18 • 4d ago
+👁️ 742K • 👍 6K • 💬 703 • ⏱️ 4:18 • 5d ago
 
 ---
 
@@ -228,7 +228,27 @@ He got REK-ed. After besting us in everything from track-and-field to medicine, 
 
 📺 New York Post
 
-👁️ 44K • 👍 430 • 💬 287 • ⏱️ 1:17 • 1d ago
+👁️ 48K • 👍 444 • 💬 297 • ⏱️ 1:17 • 1d ago
+
+---
+
+**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
+
+Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
+
+📺 ejunky66
+
+👁️ 50K • 👍 713 • 💬 55 • ⏱️ 1:00 • 19h ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 613K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
 
 ---
 
@@ -242,53 +262,33 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 ---
 
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 610K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
-
----
-
 **[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
 AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
 
 📺 MindSeeded
 
-👁️ 84K • 👍 3K • 💬 275 • ⏱️ 13:48 • 3d ago
+👁️ 85K • 👍 3K • 💬 276 • ⏱️ 13:48 • 3d ago
 
 ---
 
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
 
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
 
-📺 NBC News
+📺 RoboFrontier
 
-👁️ 356K • 👍 543 • 💬 70 • ⏱️ 0:59 • 5d ago
-
----
-
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 36K • 👍 559 • 💬 55 • ⏱️ 0:16 • 6d ago
+👁️ 67K • 👍 257 • 💬 72 • ⏱️ 4:15 • 6d ago
 
 ---
 
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
+**[This Robot Doesn’t Just Play a Voice — It Physically Creates Sound 🤖🔊](https://www.youtube.com/watch?v=DpycpmP9x5Q)**
 
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
+WATCH THIS ROBOT MAKE A VOICE IN A VERY UNUSUAL WAY. Most robots that speak use electronic voice synthesis and a ...
 
-📺 ejunky66
+📺 ScenicMotionsBeyondVerse
 
-👁️ 362K • 👍 4K • 💬 331 • ⏱️ 1:00 • 3d ago
+👁️ 45K • 💬 11 • ⏱️ 0:04 • 20h ago
 
 ---
 
