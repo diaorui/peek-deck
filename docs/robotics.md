@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-27T23:16:54.732838+00:00'
+updated: '2026-09-28T01:53:14.224893+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 27, 2026 at 23:16 UTC  
+**Last Updated:** September 28, 2026 at 01:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We’ve been playing hide and seek with Éloi. When it sees you, the eyes and ne
 
 I’m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It’ll be a 1-hour session, and we’ll have WATO joining us to share their experience designing and building humanoid robots. There’ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e
 
-3d ago
+4d ago
 
 ---
 
@@ -120,7 +120,7 @@ Ars Technica • 2d ago
 
 Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
 
-Engadget • 10h ago
+Engadget • 12h ago
 
 ---
 
@@ -144,7 +144,7 @@ Interesting Engineering • 1d ago
 
 The World Humanoid Games were actually a social experiment in the making.
 
-Slate Magazine • 13h ago
+slate.com • 16h ago
 
 ---
 
@@ -152,7 +152,15 @@ Slate Magazine • 13h ago
 
 Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
 
-WSB-TV • 22h ago
+WSB-TV • 1d ago
+
+---
+
+**[China's exoskeleton robots muscle into the consumer mainstream](https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream)**
+
+Appliance makers and startups race into a nascent market as devices move beyond medical usage
+
+Nikkei Asia • 21h ago
 
 ---
 
@@ -164,27 +172,19 @@ TechCrunch • 2d ago
 
 ---
 
+**[Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.](https://finance.yahoo.com/technology/ai/articles/prediction-robotics-biggest-opportunity-within-153500117.html)**
+
+Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Lord Have Mercy as Researchers Create Walking Disembodied Hand Like That Little Guy From "The Addams Family"](https://futurism.com/robots-and-machines/disembodied-walking-robot-hand-addams-family)**
 
 Researches have created a autonomous robotic hand that can walk around and support its own weight all by itself.
 
-Futurism • 12h ago
-
----
-
-**[Ukraine’s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say](https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9)**
-
-Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems.
-
-Business Insider • 2d ago
-
----
-
-**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 2d ago
+Futurism • 14h ago
 
 ---
 
@@ -208,27 +208,7 @@ The first UWORLD U1 Series Ultra Bionic Humanoid Robots are now being delivered,
 
 📺 DPCcars
 
-👁️ 243 • 👍 17 • 💬 1 • ⏱️ 2:26 • 2h ago
-
----
-
-**[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
-
-He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
-
-📺 New York Post
-
-👁️ 41K • 👍 403 • 💬 275 • ⏱️ 1:17 • 1d ago
-
----
-
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 36K • 👍 559 • 💬 55 • ⏱️ 0:16 • 6d ago
+👁️ 617 • 👍 19 • 💬 1 • ⏱️ 2:26 • 5h ago
 
 ---
 
@@ -238,7 +218,17 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 737K • 👍 6K • 💬 698 • ⏱️ 4:18 • 4d ago
+👁️ 739K • 👍 6K • 💬 698 • ⏱️ 4:18 • 4d ago
+
+---
+
+**[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
+
+He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
+
+📺 New York Post
+
+👁️ 44K • 👍 430 • 💬 287 • ⏱️ 1:17 • 1d ago
 
 ---
 
@@ -258,17 +248,7 @@ Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A 
 
 📺 Mark Dice
 
-👁️ 608K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
-
----
-
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
-
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
-
-📺 NBC News
-
-👁️ 356K • 👍 542 • 💬 70 • ⏱️ 0:59 • 5d ago
+👁️ 610K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
 
 ---
 
@@ -278,7 +258,27 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 83K • 👍 3K • 💬 273 • ⏱️ 13:48 • 3d ago
+👁️ 84K • 👍 3K • 💬 275 • ⏱️ 13:48 • 3d ago
+
+---
+
+**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+
+Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+
+📺 NBC News
+
+👁️ 356K • 👍 543 • 💬 70 • ⏱️ 0:59 • 5d ago
+
+---
+
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
+
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
+
+📺 Aman Jain
+
+👁️ 36K • 👍 559 • 💬 55 • ⏱️ 0:16 • 6d ago
 
 ---
 
@@ -288,7 +288,7 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 339K • 👍 4K • 💬 329 • ⏱️ 1:00 • 3d ago
+👁️ 362K • 👍 4K • 💬 331 • ⏱️ 1:00 • 3d ago
 
 ---
 
