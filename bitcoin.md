@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-27T23:16:54.724783+00:00'
+updated: '2026-09-28T01:53:14.214809+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 23:16 UTC  
+**Last Updated:** September 28, 2026 at 01:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,199.47
+### $83,936.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** -0.8%  
 **7d:** -2.8%  
-**30d:** +7.6%  
-**90d:** +43.6%  
-**1y:** -24.9%  
+**30d:** +7.8%  
+**90d:** +39.5%  
+**1y:** -26.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1692.24B
+**Market Cap:** $1682.62B
 Rank #1
 
 **Circulating Supply:** 20,090,284 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.2%
+-33.6%
 
 **All-Time Low:** $67.81
-+124156.0%
++123370.0%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[No, buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wr73rp/no_buy_bitcoin/)**
 
-21h ago
+1d ago
 
 ---
 
 **[and keep buying bitocin](https://www.reddit.com/r/Bitcoin/comments/1wrgzq0/and_keep_buying_bitocin/)**
 
-12h ago
+15h ago
 
 ---
 
 **[So which one are you? Did you buy or are just now buying?](https://www.reddit.com/r/Bitcoin/comments/1wrf4xv/so_which_one_are_you_did_you_buy_or_are_just_now/)**
 
-14h ago
+17h ago
 
 ---
 
 **[Meme](https://www.reddit.com/r/Bitcoin/comments/1wrf6p7/meme/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 name others + context.
 
-13h ago
+16h ago
 
 ---
 
 **[Feeling lucky.....](https://www.reddit.com/r/Bitcoin/comments/1wrijij/feeling_lucky/)**
 
-11h ago
+13h ago
 
 ---
 
 **[Funds are SAFU](https://www.reddit.com/r/Bitcoin/comments/1wr813p/funds_are_safu/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ name others + context.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+18h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows.
 
-The Block • 1d ago
+theblock.co • 1d ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 2d ago
 
 Three developments this week show a field moving from theory to logistics, even as "Q-Day" for Bitcoin remains hypothetical for now.
 
-Decrypt • 8h ago
+Decrypt • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ Decrypt • 8h ago
 
 Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
 
-cnbc.com • 3d ago
+CNBC • 3d ago
 
 ---
 
@@ -191,11 +191,11 @@ Morningstar • 2d ago
 
 ---
 
-**[Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'](https://finance.yahoo.com/real-estate/articles/grant-cardone-says-commercial-real-153801606.html)**
+**[In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin](https://finance.yahoo.com/markets/crypto/articles/5-years-one-cryptocurrencies-could-120500015.html)**
 
-Real estate investor Grant Cardone said 5-year borrowing costs are 6.4%, pressuring property values as $1 trillion in commercial loans mature in six months.
+Several fast-growing cryptocurrencies have the potential to overtake Bitcoin. But can they maintain their momentum over the long haul?
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -215,15 +215,11 @@ CBC • 2d ago
 
 ---
 
-**[Scam involving Bitcoin reported in McCracken County](https://www.westkentuckystar.com/News/Local-Regional/Scam-involving-Bitcoin-reported-in-McCracken-Count)**
+**[Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'](https://www.tradingview.com/news/stocktwits:bc012dd45094b:0-grant-cardone-says-commercial-real-estate-faces-historic-crash-sees-bitcoin-as-a-complementary-asset/)**
 
-Yet another scam is making the rounds in McCracken County, this time involving Bitcoin.
+Veteran real estate investor Grant Cardone said commercial real estate was heading into "almost Armageddon conditions," and that his answer was to put Bitcoin (BTC) on the balance sheet of every building he buys, what he called a "complementary asset.""Complete reset across the board of commercial…
 
-According to the McCracken County Sheriff's Office, numerous reports of phone calls claiming to be a deputy have been received.
-
-The caller goes on to ex
-
-West Kentucky Star • 21h ago
+TradingView • 10h ago
 
 ---
 
@@ -269,7 +265,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 **[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
 
-⬆️ 2 • 💬 0 • 9h ago
+⬆️ 2 • 💬 0 • 11h ago
 
 ---
 
@@ -277,33 +273,33 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ## YouTube Videos: "bitcoin"
 
+**[3 Reasons Why Bitcoin Could Hit $10M!](https://www.youtube.com/watch?v=R-aY4OAyI1I)**
+
+Bitcoin is stuck around $80000, but three long term theses suggest the real move could still be ahead. One argument sees Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 664 • 💬 43 • ⏱️ 13:40 • 3h ago
+
+---
+
+**[Bitcoin: It’s Riding On This](https://www.youtube.com/watch?v=bO88AeBojf8)**
+
+TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-checkout ➡ NEW SUBSTACK VIDEO REPORTS ...
+
+📺 Jason Pizzino
+
+👁️ 1K • 👍 139 • 💬 6 • ⏱️ 24:44 • 54m ago
+
+---
+
 **[Did You Fall For This Bitcoin LIE?](https://www.youtube.com/watch?v=DGewUIiwbU4)**
 
 FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
 
 📺 Crypto Tips
 
-👁️ 7K • 👍 388 • 💬 32 • ⏱️ 12:10 • 7h ago
-
----
-
-**[The Biggest Crypto Bull Run In History Is Going To Set Bitcoin &amp; Ethereum Holders Up For Life](https://www.youtube.com/watch?v=jsm5NyNiT4c)**
-
-The clock is ticking, and I dont think people actually want to realize that its happening. The Ethereum and crypto news the last few ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 23K • 👍 1K • 💬 298 • ⏱️ 16:24 • 11h ago
-
----
-
-**[TRUMP SIGNED FAKE EXECUTIVE ORDERS?! | Was the Strategic Bitcoin Reserve a SCAM?](https://www.youtube.com/watch?v=mHkKvgPFHwc)**
-
-Trump established the Strategic Bitcoin Reserve in March 2025, but the fight over what it actually becomes is far from over.
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 2K • 💬 233 • ⏱️ 16:08 • 1d ago
+👁️ 11K • 👍 454 • 💬 34 • ⏱️ 12:10 • 9h ago
 
 ---
 
@@ -313,37 +309,37 @@ The Crypto Market Is About To Go F**king Crazy (altcoin supercycle) ⭐ Follow A
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 836 • 💬 60 • ⏱️ 10:55 • 2h ago
+👁️ 24K • 👍 1K • 💬 88 • ⏱️ 10:55 • 5h ago
 
 ---
 
-**[Cathie Wood &amp; Matt Hougan :&quot;Why Bitcoin Will Hit $1.3 Million in 2027&quot; | Bold Prediction](https://www.youtube.com/watch?v=HpZVc4HJd_U)**
+**[NEW Wall Street Report CONFIRMS That Bitcoin is About To EXPLODE!](https://www.youtube.com/watch?v=A128P28jCV0)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+NEW Wall Street Report CONFIRMS That Bitcoin is About To EXPLODE! You can borrow against your Bitcoin with Ledn and ...
 
-📺 Crypto Nutshell
+📺 Luke Mikic
 
-👁️ 6K • 👍 134 • 💬 25 • ⏱️ 20:02 • 7h ago
-
----
-
-**[Why Bitcoin Could Surge to 97,000: Technical Analysis](https://www.youtube.com/watch?v=Hj8H_E6SKRE)**
-
-Bitcoin Elliott Wave analysis for 27 September 2026: $83000 acts as a critical trigger for the current setup. We examine the current ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 225 • 💬 14 • ⏱️ 12:09 • 2h ago
+👁️ 1K • 👍 141 • 💬 4 • ⏱️ 32:05 • 1h ago
 
 ---
 
-**[Bitcoin: A Critical Moment](https://www.youtube.com/watch?v=gvvMvW7AGE4)**
+**[TRUMP SIGNED FAKE EXECUTIVE ORDERS?! | Was the Strategic Bitcoin Reserve a SCAM?](https://www.youtube.com/watch?v=mHkKvgPFHwc)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Trump established the Strategic Bitcoin Reserve in March 2025, but the fight over what it actually becomes is far from over.
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 203K • 👍 7K • 💬 663 • ⏱️ 21:08 • 1d ago
+👁️ 37K • 👍 2K • 💬 240 • ⏱️ 16:08 • 1d ago
+
+---
+
+**[Top 8 Crypto Coins To Go ALL IN October 2026](https://www.youtube.com/watch?v=yhLZH0rbcEY)**
+
+I Got Rich Off Solana. These 8 Cryptos Will Be Even Bigger. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 93K • 👍 4K • 💬 250 • ⏱️ 12:35 • 2d ago
 
 ---
 
@@ -353,27 +349,27 @@ The bond market is flashing serious stress as Treasury yields climb and the pres
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 72 • ⏱️ 16:05 • 1d ago
+👁️ 38K • 👍 2K • 💬 73 • ⏱️ 16:05 • 2d ago
 
 ---
 
-**[Bitcoin LIVE: Huge Week Ahead! (probably red) - BTC, ETH, XRP Price Prediction](https://www.youtube.com/watch?v=SlGaNCXRGFQ)**
+**[Bitcoin: A Critical Moment](https://www.youtube.com/watch?v=gvvMvW7AGE4)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 BitcoinHyper
+📺 Benjamin Cowen
 
-👁️ 5K • 👍 332 • 💬 11 • ⏱️ 1:01:43 • 2h ago
+👁️ 208K • 👍 7K • 💬 677 • ⏱️ 21:08 • 1d ago
 
 ---
 
-**[BITCOIN IS ABOUT TO EXPLODE...](https://www.youtube.com/watch?v=fypk3yDmahs)**
+**[The Biggest Crypto Bull Run In History Is Going To Set Bitcoin &amp; Ethereum Holders Up For Life](https://www.youtube.com/watch?v=jsm5NyNiT4c)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+The clock is ticking, and I dont think people actually want to realize that its happening. The Ethereum and crypto news the last few ...
 
-📺 Crypto Rover
+📺 Money Rules - Investing Tips 
 
-👁️ 29K • 👍 952 • 💬 65 • ⏱️ 9:12 • 17h ago
+👁️ 26K • 👍 1K • 💬 305 • ⏱️ 16:24 • 14h ago
 
 ---
 
