@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-28T16:55:05.298319+00:00'
+updated: '2026-09-28T22:26:01.301824+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 28, 2026 at 16:55 UTC  
+**Last Updated:** September 28, 2026 at 22:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-3d ago
+4d ago
 
 ---
 
@@ -112,15 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 2d ago
-
----
-
-**[Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)](https://www.engadget.com/2266933/humanoid-robot-cries-on-command/)**
-
-Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
-
-Engadget • 1d ago
+Ars Technica • 3d ago
 
 ---
 
@@ -128,37 +120,7 @@ Engadget • 1d ago
 
 The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
 
-NASA (.gov) • 6h ago
-
----
-
-**[Driverless Trucks Show How to Keep AI Robots From Killing Us](https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us)**
-
-Bloomberg.com • 7h ago
-
----
-
-**[Wind-up elastic robot jumps forever when fed infrared light](https://newatlas.com/robotics/elastic-robot-jump-infrared-light/)**
-
-Robots – that is, self-guided mechanisms interacting with or changing their environments – exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that…
-
-newatlas.com • 13h ago
-
----
-
-**[China's exoskeleton robots muscle into the consumer mainstream](https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream)**
-
-Appliance makers and startups race into a nascent market as devices move beyond medical usage
-
-Nikkei Asia • 1d ago
-
----
-
-**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 3d ago
+NASA (.gov) • 12h ago
 
 ---
 
@@ -170,19 +132,55 @@ Slate Magazine • 1d ago
 
 ---
 
-**[Fast-improving AI, robotics could make 'dark' auto factories a reality](https://www.detroitnews.com/story/business/autos/2026/09/28/automakers-are-investing-big-in-ai-and-robots-are-dark-factories-next/91891670007/)**
+**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
 
-Automakers and suppliers are increasingly studying how to eke out more efficiency inside their plants — even in complex areas like final assembly.
+Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
 
-The Detroit News • 12h ago
+The Information • 8h ago
 
 ---
 
-**[Tesla vs. Nvidia: Which Physical AI Stock Has the Bigger Robotics Payoff by 2030?](https://finance.yahoo.com/technology/ai/articles/tesla-vs-nvidia-physical-ai-134100837.html)**
+**[Gecko Robotics & Nvidia team up to put guardrails on AI](https://www.cnn.com/2026/09/28/business/video/nvidia-gecko-robotics-ai-safety-loosararian-live-092804pseg2-cnni-business-fast)**
 
-Nvidia doesn't need to build the winning robot if it becomes the company powering all of them.
+Gecko Robotics CEO Jake Loosararian explains what the partnership aims to achieve.
 
-Yahoo Finance • 3d ago
+CNN • 57m ago
+
+---
+
+**[Driverless Trucks Show How to Keep AI Robots From Killing Us](https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us)**
+
+Bloomberg.com • 12h ago
+
+---
+
+**[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
+
+Barchart.com • 9h ago
+
+---
+
+**[How a character from ‘The Addams Family’ is shaping the future of robotics](https://www.fastcompany.com/91611631/eth-zurich-soft-robotocs-lab-robotic-hand)**
+
+Researchers from ETH Zurich designed a walking robotic hand.
+
+Fast Company • 12h ago
+
+---
+
+**[A robot business reports 552 cumulative device sales and shipments and about $1.52 million in revenue](https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-upgrade-into-robotaxi-and-eai-rinc4asmcb7u.html)**
+
+The proposed deal remains subject to definitive agreements and regulatory approvals. Management projects positive operating cash flow for the robotics business in Q3 2028.
+
+stocktitan.net • 1h ago
+
+---
+
+**[Wind-up elastic robot jumps forever when fed infrared light](https://newatlas.com/robotics/elastic-robot-jump-infrared-light/)**
+
+Robots – that is, self-guided mechanisms interacting with or changing their environments – exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that…
+
+New Atlas • 19h ago
 
 ---
 
@@ -206,37 +204,27 @@ A human just went head-to-head with a 6-foot robot that looks straight out of Te
 
 📺 Shorts_of_Crimson
 
-👁️ 5K • ⏱️ 0:24 • 5d ago
+👁️ 6K • ⏱️ 0:24 • 6d ago
 
 ---
 
-**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
+**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
 
-IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
+Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
 
-📺 Evolving AI
+📺 ejunky66
 
-👁️ 23K • 👍 145 • 💬 18 • ⏱️ 12:11 • 6d ago
-
----
-
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
-
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
-
-📺 America's Got Talent
-
-👁️ 748K • 👍 6K • 💬 706 • ⏱️ 4:18 • 5d ago
+👁️ 90K • 👍 1K • 💬 101 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+**[China&#39;s Massive ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
 
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
 
-📺 NBC News
+📺 Prime Insights
 
-👁️ 355K • 👍 556 • 💬 70 • ⏱️ 0:59 • 5d ago
+👁️ 472K • 👍 4K • 💬 261 • ⏱️ 26:57 • 4d ago
 
 ---
 
@@ -246,7 +234,7 @@ Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A 
 
 📺 Mark Dice
 
-👁️ 616K • 👍 18K • 💬 5K • ⏱️ 19:23 • 5d ago
+👁️ 618K • 👍 18K • 💬 5K • ⏱️ 19:23 • 5d ago
 
 ---
 
@@ -256,7 +244,17 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 86K • 👍 3K • 💬 280 • ⏱️ 13:48 • 4d ago
+👁️ 87K • 👍 3K • 💬 285 • ⏱️ 13:48 • 4d ago
+
+---
+
+**[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
+
+He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
+
+📺 New York Post
+
+👁️ 52K • 👍 462 • 💬 309 • ⏱️ 1:17 • 2d ago
 
 ---
 
@@ -266,27 +264,27 @@ Elon Musk believes the future could have BILLIONS of humanoid robots — but how
 
 📺 ejunky66
 
-👁️ 67K • 👍 1K • 💬 163 • ⏱️ 1:00 • 6d ago
+👁️ 68K • 👍 1K • 💬 165 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
 
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
 
-📺 RoboFrontier
+📺 America's Got Talent
 
-👁️ 69K • 👍 260 • 💬 72 • ⏱️ 4:15 • 6d ago
+👁️ 753K • 👍 6K • 💬 707 • ⏱️ 4:18 • 5d ago
 
 ---
 
-**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
+**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
 
-China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
+Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
 
-📺 Kalil 4.0
+📺 ejunky66
 
-👁️ 83K • 👍 1K • 💬 146 • ⏱️ 1:16 • 6d ago
+👁️ 579K • 👍 6K • 💬 515 • ⏱️ 1:00 • 4d ago
 
 ---
 
