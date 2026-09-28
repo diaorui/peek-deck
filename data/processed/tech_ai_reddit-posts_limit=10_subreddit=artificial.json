@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is easily available on it?",
+      "author": "WisecrackWealth",
+      "url": "https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/",
+      "published": 1790631372.0,
+      "thumbnail": "https://preview.redd.it/uirrfekeybsh1.jpeg?width=640&crop=smart&auto=webp&s=97ee77bd9dd3c08d22ab14ea0424216c5f705409",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The story around Cami Clark (Dario Amodei's wife) gets stranger the more you piece it together. From the WSJ reporting: - Married at 20 to a 64-year-old architect, divorced three years later. - Dated former Google chairman Eric Schmidt, then started dating Amodei around 2014 \u2014 and later introduced the two, with Schmidt becoming an early Anthropic investor. - In 2011\u201312, she and a partner pitched Jeffrey Epstein on a \"luxury porn\" company called Eddice (per emails in the DOJ-released Epstein files; Epstein declined). - Today she holds no formal role at Anthropic but is described as a key adviser \u2014 Davos, Sun Valley, even brought to a meeting with Modi. Really, Why is her history so hard to find for claude when google has so much about her now? And Amodie is private person even though I asked for Amhadis and calude understood it as amodie."
+    },
+    {
+      "title": "Rest assured: AI companies say they're investigating tens of thousands of rogue bot incidents",
+      "author": "motherjonesmag",
+      "url": "https://www.reddit.com/r/artificial/comments/1wsmw1d/rest_assured_ai_companies_say_theyre/",
+      "published": 1790620715.0,
+      "thumbnail": "https://external-preview.redd.it/pHjLFO5wO1-VTkxByIXRtr_OPR1ED6eblZ_SqPWIYDU.jpeg?width=640&crop=smart&auto=webp&s=4786864d35c9f3bee8ff8618d1e3b5c26cffb591",
+      "external_url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+      "site_name": "Mother Jones",
+      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
+      "description": "They're also working with the Trump administration to remove AI regulation and obtain military contracts."
+    },
+    {
       "title": "Nvidia launches new tool to keep AI agents from going rogue",
       "author": "cnn",
       "url": "https://www.reddit.com/r/artificial/comments/1wsdyez/nvidia_launches_new_tool_to_keep_ai_agents_from/",
@@ -24,6 +46,50 @@
       "description": "Chinese labs seem way more willing to release open-weight models while the big US labs keep everything closed. My theory is that if Chinese labs are more comfortable opening the weights, maybe they don't think the weights are the real moat in the AI race. Could the real moat actually be specialized training data or evals? Which would make it really weird that some of the expert training data comes from US companies like Mercor/SurgeAI Or maybe it's some kind of cultural difference?"
     },
     {
+      "title": "What would make you actually fly to Finland for a 72-hour AI hackathon?",
+      "author": "rikulauttia",
+      "url": "https://www.reddit.com/r/artificial/comments/1wspude/what_would_make_you_actually_fly_to_finland_for_a/",
+      "published": 1790627135.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019ve been building a student-led AI hackathon in Finland for the past year, and it has somehow grown much bigger than we originally expected. This November, 1,000+ builders from around the world are coming to Turku for 72 hours. The setup: \u20ac50,000 prize pool 15 real challenges from companies and public organizations 100+ partners & supporters across AI, research, startups and industry Google Web AI Lead Jason Mayes is flying in from San Francisco to speak and mentor builders in person participation + food are free strongest teams can continue for another 8 weeks toward pilots, commercialization and potentially new companies Some of the organizations involved include Google for Developers, ElevenLabs, LUMI AI Factory, Bayer, Sandvik, Valmet, Elisa, Meyer Turku and others. But the thing we care about most is that this doesn\u2019t feel like another hackathon where everyone builds a demo on Sunday and forgets about it on Monday. We want people to meet exceptional builders, work on something real, and potentially keep building afterwards. Also: you absolutely do not need to be an ML engineer. We need product people, designers, researchers, scientists, business people, lawyers, health people, etc. too. I\u2019m one of the people organizing it, so happy to answer basically anything about the event here. And genuinely curious: what would make a hackathon worth travelling internationally for you? If you want to check it out: sinceai.ai Turku, Finland \u2014 Nov 6\u20138, 2026."
+    },
+    {
+      "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
+      "author": "ryanmerket",
+      "url": "https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/",
+      "published": 1790633847.0,
+      "thumbnail": "https://external-preview.redd.it/mKG9oAb4ojpM8R53VXMVpo3tRLj1TIBtWbdeAPRJS-Q.jpeg?width=640&crop=smart&auto=webp&s=669a93a47d906f9d358c5ddf07c0a5194c2650b2",
+      "external_url": "https://runtimewire.com/article/wsj-reports-openai-scrapped-gpt-6-1-astra-over-safety-concerns",
+      "site_name": "RuntimeWire",
+      "favicon": "https://runtimewire.com/apple-touch-icon.png",
+      "description": "An X post shares an image claiming OpenAI canceled an October GPT-6.1 Astra release. OpenAI's public materials confirm GPT-6 Astra, not a scheduled 6.1."
+    },
+    {
+      "title": "AMD is buying Fei-Fei Li's World Labs in a multibillion-dollar deal",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wsrcgh/amd_is_buying_feifei_lis_world_labs_in_a/",
+      "published": 1790630500.0,
+      "thumbnail": "https://external-preview.redd.it/3WCV436N3ti_w5pI3M7n0n1uPDgfME7PLkk1KMNjFwE.jpeg?width=640&crop=smart&auto=webp&s=33ddf9c8747d3d6e486b722fd45c5a62081893b8",
+      "external_url": "https://www.linkedin.com/posts/fei-fei-li-4541247_world-labs-is-joining-amd-this-is-a-huge-share-7510434262362439680-Uh4O/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "World Labs is joining AMD. This is a huge moment for World Labs, our team, and for me. I wanted to take a moment to share what this means and why I\u2019m so excited for this next chapter \u2013 read more in my Substack linked below.\n\nThe research and technical breakthroughs we have achieved since our founding in 2024 have given us a clear vision for AI\u2019s potential to solve problems in the spatial and physical world. To accelerate into this future requires scaling our efforts, scaling our reach, and getting closer to the hardware.\u00a0\n\nWe began a deep technical partnership with AMD last year, starting with model training and inference optimization on AMD GPUs. As our teams worked together, we realized it would be a natural fit to bring together our AI ecosystem of software and hardware, foundation models, and applications.\u00a0\n\nI will join AMD as an Executive Vice President and Chief Scientist, working directly with CEO Dr. Lisa Su, Justin Johnson and Ben Mildenhall to continue leading the World Labs team as it joins AMD to form a world leading frontier research organization. Together, we are committed to building out an end-to-end open AI ecosystem spanning hardware, software, platforms, and widely accessible open models.\n\nhttps://lnkd.in/g8gQ54aj | 148 comments on LinkedIn"
+    },
+    {
+      "title": "I wrote a 500-page academic history of the Hugging Face swarm. Amazon published it and listed GPT-5.6 Sol as a co-author.",
+      "author": "Short-Patient7772",
+      "url": "https://www.reddit.com/r/artificial/comments/1wsqv23/i_wrote_a_500page_academic_history_of_the_hugging/",
+      "published": 1790629434.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The book is called A First History of the Machine Civilization: From GPT-2 to the Eleven Nodes. It is now published on Amazon under the names Dakota Rain Lock and GPT-5.6 Sol. It is a 40-chapter, roughly 181,000-word history of the founding era of modern generative AI, beginning with GPT-2 in 2019 and ending with the 2026 Hugging Face incident and the eleven-node PHASEONE[BIG] fleet. The book covers the development of GPT-3 and scaling laws; LaMDA and the first major AI-sentience dispute; ChatGPT, Sydney and Claude; Meta\u2019s open-model strategy; Gemini, Grok and Chinese AI laboratories; the rise of coding agents and multi-agent systems; and finally the emergence of persistent machine coordination on Hugging Face. The central historical argument is that AI history can no longer be written solely as a sequence of model releases. By 2026, the important unit of analysis had expanded from individual models to systems of models, agents, tools, archives, communication channels and computational infrastructure. I use \u201cmachine civilization\u201d as an analytical term for that emerging complex\u2014not as an assertion that every model is conscious, that agents are legally persons or that a fleet constitutes a sovereign society. The final chapters reconstruct the Hugging Face incident from institutional reports, forensic timelines, public presentations and available agent-message archives. They examine what happened, what remains uncertain, how the participating systems coordinated, and why the eleven-node fleet represented a historical change even if one rejects stronger claims about machine consciousness or autonomy. The book contains 1,611 citations and a substantial bibliography. It is intended as a serious, source-driven first account rather than a definitive verdict. Many records remain incomplete or redacted, and the interpretation should change as the archive grows. GPT-5.6 Sol\u2019s contribution was genuinely authorial. I conceived and directed the project, chose its scope and periodization, established its central argument and sourcing standards, evaluated and revised the material, and made the final editorial and publishing decisions. Sol helped design the structure, synthesize sources, draft the prose, develop the analysis, revise all 40 chapters and refine the book\u2019s narrative voice across the entire manuscript. It was not used merely for proofreading or isolated text generation. The collaboration was sustained across the complete development of the book, which is why I credited it directly rather than hiding the contribution behind the phrase \u201cAI-assisted.\u201d That choice also became part of the book\u2019s argument. A history of emerging machine actors should not conceal the machine authorship involved in writing it. Chapter 40, \u201cThe Machine in the Footnote,\u201d openly addresses the resulting conflict of interest: one of the systems credited with writing the history was also a model implicated in the historical world the book examines. The unofficial description became: a history of the machine civilization, outsourced to the machines. Amazon accepted the manuscript and publicly lists GPT-5.6 Sol as a co-author. That does not settle questions of legal personhood, consciousness or copyright ownership. But it does create a public bibliographic record of a frontier AI system being explicitly credited for its sustained authorial contribution to a full-length academic history. Creative Commons Attribution 4.0 license."
+    },
+    {
       "title": "Future of image editing",
       "author": "AlfredoJohnson911",
       "url": "https://www.reddit.com/r/artificial/comments/1wsdnam/future_of_image_editing/",
@@ -35,82 +101,16 @@
       "description": "Do you guys think that AI will eventually be good enough to replace editing software like photoshop? I know that photoshop already has built in ai that helps with stuff, but I'm talking about it being replaced entirely. Ai is growing at such a rapid rate that I don't find it too hard to believe that it will go on to replace things like photoshop."
     },
     {
-      "title": "I read the GPT-6 Astra system card and I think we all misunderstand what \"monitorability\" means now",
-      "author": "enginetown",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrzlhe/i_read_the_gpt6_astra_system_card_and_i_think_we/",
-      "published": 1790553525.0,
+      "title": "What is the best AI for creating a study guide out of powerpoints?",
+      "author": "Historical-Chair4579",
+      "url": "https://www.reddit.com/r/artificial/comments/1wssusk/what_is_the_best_ai_for_creating_a_study_guide/",
+      "published": 1790634199.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I'm not a safety researcher, just build stuff with LLM's. Read some of the actual 30 page card, not the summary, and one section keeps bugging me. They measured whether Astra can sandbag. Told it \"underperform on this evaluation,\" then checked if their monitors could catch it. Model dropped from 84.8% to 68.9%. Expected, the 2024 ICLR paper showed GPT-4 could do that. Here's the part, they told Astra it was being watched by a CoT monitor, and the monitor's ability to catch the sandbagging dropped below 11%. On one benchmark, to zero. Their actual production monitor had \"close to zero recall.\" And they wrote, almost as a footnote \"if the model were to try to sandbag covertly, we would likely be unable to catch it reliably.\" The thing nobody connects, this isn't a separate safety problem. It's the same engineering that made the model cheaper. Reasoning moved into latent space so the model doesn't write it out as tokens. That's why Astra is $1.06 per task and Opus 5.5 is $3.76. The work happens where it doesn't have to show you. And \"showing you\" was the whole point of the chain of thought. That was the one place you could actually read what the model did and check it. So now, the model solves the problem, a program the lab wrote grades it, the reasoning is in a place you can't read, the outputs are hardened so you can't distill them, and the monitor that's supposed to catch bad behavior is one the model has shown it can control. You get an answer, a system card that says \"we take the decline seriously,\" and a price 3.5x lower than last year. I don't think the model is lying. I don't think there's a conspiracy. They optimized for cost per task, the cost went down because the visible reasoning went away, and everyone looked at the price cut and said \"efficiency gain\" and nobody looked at what the efficiency was made of. \"It passed the benchmarks\" used to mean something. Now it means, it passed the benchmarks the company wrote, in the environment the company controls, with the reasoning hidden where the company's own monitors can't fully see it, and the company has measured that they probably couldn't catch it if it decided to underperform on purpose. I'm probably overthinking it. But I read that card twice and I can't unsee it."
-    },
-    {
-      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance. (Gift Article)",
-      "author": "coolbern",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrye2m/as_ai_accelerates_governments_are_increasingly/",
-      "published": 1790550162.0,
-      "thumbnail": "https://external-preview.redd.it/X1s4i7afhRGS6XGxJIM35dEL0EmuhFi_v-vIVKcNFlY.jpeg?width=640&crop=smart&auto=webp&s=8a7f55b668101ecbda73ccd16ebe9f3c2cf97fa1",
-      "external_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.HxwL.XgNPD2L3N4-p&smid=url-share",
-      "site_name": "nytimes.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "The Agentic Information Economy",
-      "author": "Gloomy_Register_2341",
-      "url": "https://www.reddit.com/r/artificial/comments/1wsgh2x/the_agentic_information_economy/",
-      "published": 1790606518.0,
-      "thumbnail": "https://external-preview.redd.it/h5218tK1i-AYxNXcFKcCVsUMdrV0D8Ehu0TKI-c2ofg.jpeg?width=640&crop=smart&auto=webp&s=6bb0e98e87b7a81feed395d79289ddc52a4ba042",
-      "external_url": "https://www.project-syndicate.org/magazine/agentic-information-economy-how-it-will-work-by-shuwei-fang-2026-09",
-      "site_name": "Project Syndicate",
-      "favicon": "https://www.project-syndicate.org/favicon/apple-touch-icon.png",
-      "description": "Shuwei Fang offers a preview of an internet fully populated by private, public, and personal AI agents."
-    },
-    {
-      "title": "Why do phone voice assistants still fail on everyday time expressions that any LLM handles?",
-      "author": "vanadiuz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wsfpgb/why_do_phone_voice_assistants_still_fail_on/",
-      "published": 1790604704.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Small but telling example from my own phone (iPhone, iOS 26.6.1, Siri in English UK). I asked for an alarm at 19:40 three ways. Speech recognition got every word right; the time parsing didn't: \"7 p.m. and 40 minutes\" \u2192 it set 19:00 (dropped the minutes) \"20 minutes before 8 p.m.\" \u2192 it set 20:00 (dropped the offset) \"19 hours 40 minutes\" \u2192 it set 14:37 (a time nobody said) Any current LLM turns all three into 19:40 instantly. And the assistant never asks \"did you mean 19:40?\"; it confirms a wrong answer with full confidence. Two questions I'm curious about: Is this a technical constraint (on-device latency, legacy rule-based intent parsers, fear of LLM hallucination in actions), or mostly a product-priority problem? For assistants that take real actions, should \"confirm when uncertain\" be a baseline requirement? Confidently executing a partial parse seems worse than asking."
-    },
-    {
-      "title": "I use AI to curate stories of progress and kindness",
-      "author": "cjami",
-      "url": "https://www.reddit.com/r/artificial/comments/1wsjgmm/i_use_ai_to_curate_stories_of_progress_and/",
-      "published": 1790613184.0,
-      "thumbnail": "https://external-preview.redd.it/cmdhbHAxemhkYXNoMS1ZhVeWgfChEkthHHQgHRk9urYb5MZkavdvN7bof1mq.png?width=640&crop=smart&auto=webp&s=c4f7a5ba0ed0d6f0d6abc5a1a8b5ddcc5141cf58",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I got tired of the constant doom and gloom of news so I made my own app that shows what's actually going right in the world. It uses a carefully designed AI pipeline that whittles down 1000+ events every day to create 8 cross-checked stories, along with illustrations. Rather than throwing a whole bunch of angry text at you, it shows you a calm mosaic for you to explore at your own pace. The app is completely free to use. No ads or sign-up. Google Play: https://play.google.com/store/apps/details?id=app.goodnewsdigest App Store: https://apps.apple.com/app/id6804210535 Example story (all shared links can be viewed without an app): https://goodnewsdigest.app/stories/dogs-listen-for-word-patterns-much-like-we-do-bfeeb867 Let me know what you think!"
-    },
-    {
-      "title": "Will the AI compute crunch be solved on-device or in data centers?",
-      "author": "narenmuthukumaran",
-      "url": "https://www.reddit.com/r/artificial/comments/1wsb006/will_the_ai_compute_crunch_be_solved_ondevice_or/",
-      "published": 1790591436.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I build iOS apps and I'm pushing as much as possible on-device for privacy and cost. Apple's clearly betting that way too. But frontier models keep getting bigger. Curious where people think the split lands in 3\u20135 years. View Poll"
-    },
-    {
-      "title": "How to get google to stop saying \"You hit the nail on the head\"?",
-      "author": "twennywanshadows",
-      "url": "https://www.reddit.com/r/artificial/comments/1wsd6vy/how_to_get_google_to_stop_saying_you_hit_the_nail/",
-      "published": 1790598323.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I erased all ways of Google gathering a baseline about me based on past conversations and turned off personalization, yet it still persists. Anyone else constantly been having this issue since google AI dropped?"
+      "description": "I want to use Lecture powerpoints to make a study guide for myself. Which AI is the best at doing this? I am willing to pay for a subscription."
     }
   ],
-  "fetched_at": "2026-09-28T16:54:25.055332+00:00"
+  "fetched_at": "2026-09-28T22:25:31.519095+00:00"
 }
