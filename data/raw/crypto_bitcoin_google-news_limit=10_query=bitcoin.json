@@ -5,8 +5,18 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Why Is XRP Still Down 17% for 2026 When Bitcoin and Solana Are Almost Even?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVTJ3Q25EQjA5RUx0R01NQUV2Ukk1d2hDYm9HQkwxZU5lVmVld2lyeHkwWnRUTzlYeE1McWg3MDh1MXJrU3hRenR1eFdZUVRyaUZYS3oyekZocU44REhxVVJoanRDTzc0NXVkMXU2ZEQ2QzVKdm0wRXEzaHkyMzRHSjIwQzBGU0hOVU55RVZOYkFxaVBwQTNudVRSaHhKRXlCMjBsTWY2RzRtSmNWSk9lQWtzcjY5WE5rX2hDQ0VibFBPVkozMnNYWHNmWS0?oc=5",
+      "pub_date": 1790581260.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/28/why-is-xrp-still-down-17-for-2026-when-bitcoin-and-solana-are-almost-even/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1146106721-huge-licensed-scaled.jpg",
+      "description": "Bitcoin and Solana have nearly clawed back everything they lost in 2026, yet XRP keeps getting left behind despite outpacing both coins during the recent rally. The reason comes down to a mathematical trap that punishes coins with steeper drops far more than most traders realize."
+    },
+    {
       "headline": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
-      "source": "theblock.co",
+      "source": "The Block",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVg5MUZTSE1JSFBIR0hkYi1IcUJUWTA5SFVQcVB0SFNiVHNIMEFLNENfQUp5aTY5Rk1OWS1pOWRjR0dLYm5pMGxzTHVMMHoydXhURkRfdjVRSlVkam81RUxyYVlfLWFwMFpNdzNPTDRkUzIzREpRMG5jSEh4eWFGTU9LSEhoa0J3bDd4UXJFS1RUOFNlQWdtUlU4aktuN3FSRDJXSnRxOTBiX0JZanRwcFNfM1BCT3NxZGt5SHFnU1Y1RlpCSVFYUDR4SEplaXI0TDdVdG8zUUhzamNMcllvd25LSQ?oc=5",
       "pub_date": 1790443452.0,
@@ -15,96 +25,86 @@
       "description": "U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows."
     },
     {
-      "headline": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb28xWUlIaGlnOTl5MS1hLUZIMF9MeklEdDVrTFR5NnVuQ2diVnA1QVdqRVlval8wT1NqdjBVTmdvT1dSTnh4T1RVNDNoaFBkX3NhYm1yOHJJUTd5dGpybzNybkotTEY1Y25sTWZRY0c3RkpFODU2SDhmSS02aW16SzV6c08yT0I0UXpKRk1FS0huMjdHNjJSdEtR?oc=5",
-      "pub_date": 1790521263.0,
-      "article_url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png",
-      "description": "Three developments this week show a field moving from theory to logistics, even as \"Q-Day\" for Bitcoin remains hypothetical for now."
+      "headline": "Michael Saylor's Strategy buys $143M worth of bitcoin",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanZkMlhwRUpGTmgwZk1PRnRiX0hucWQ4TnNDRW5ON3IwMUp0VzhFaVhiNXd1SGpFNDFyaFlSU0FZVnhmeVQxMTl3NEZoNWc1Z1VFNkR4eUNHYzJjQjg1eGxXMjE4Uk10cEhYVTZRb2gzUVBCMVQ4MmFQbXJVNGRnX3pZMDRybXJy?oc=5",
+      "pub_date": 1790611200.0,
+      "article_url": "https://finance.yahoo.com/video/michael-saylors-strategy-buys-143m-160000908.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0c89ce60577ef61ae3b672e239e3441d0e7385453a3e7a6d684bd41619fe82d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1790609747080_6887.jpg",
+      "description": "Strategy (MSTR) bought more bitcoin (BTC-USD) this week. Scott Melker outlines the details in the video above."
     },
     {
-      "headline": "Historical data indicates the potential trajectory of Bitcoin in 2027.",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjFKZ0E0Tm54cDFRSlQzZmJGdWFPc0xjOE4tb3BWcmgzMmFjNG1NdF82MDJmS2hIdGtWLVNLbHIxSFQ3WlU0NGNXblNYMVB4eXNNbTJva1QwLVhfaU9RRE5UaUc2Y3Zhc2FYaTlJRjJPcUJobnU2ZnNxRDctM09WOWdwbUxjNFd5bmJ0WmdzeEpGbnl2OUV2aGsxZW95UGVhdkZ1R253WllXSTlvaUZyME9zWQ?oc=5",
-      "pub_date": 1790577542.0,
-      "article_url": "https://www.moomoo.com/news/post/1000277747/historical-data-indicates-the-potential-trajectory-of-bitcoin-in-2027",
+      "headline": "Strategy buys $142.7M worth of bitcoin",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44VFRDQ01pWHhHT1lHMllHbUdGYzhoNF94Z2otTVhSVVhrOS15V08wcWtaaEtoR0RHem5LczdLSWRoOUd0dGZ4MlJZbnJBQlZQLXlJQTJ4bUN6Y1I5ZzA2Ym4ycWF0ZTF5UmV0bVM4QVhBU0NpN1RWNHp2VmRrQQ?oc=5",
+      "pub_date": 1790611509.0,
+      "article_url": "https://finance.yahoo.com/video/strategy-buys-142-7m-worth-160509834.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d7de87adbebcd1baa2cbad5e0b1a5fc1142176c305e77b558bb97a769dd28a46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-0928_2653.png",
+      "description": "Scott Melker discusses Strategy (MSTR) buying more bitcoin (BTC-USD) this week, bitcoin ETFs recording $2.4 billion in net inflows last week, the strongest demand for ETFs since October 2025, and Bitget becoming the last victim of a hack where $350 million disappeared from users' wallets.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
+    },
+    {
+      "headline": "Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWpvSDVtc1BwQ3ZFV05fNGg5d1JnckFiOERIX3dWUzFJRFZpVnlhekFWOVJoa2ZSSU5pQWVta19fTDVpUlk4LU4yZVQ0Y2tkdmhxeGFzcVJPa284WEV6bzhkcDBPM0MxYzdnUnJIUHAyNTBTVWN5WXNPMlpNbHRPWEp5MkwydElpWmRDdHd4LXVJd1FCOTZsRjNhRHN5OVc1TDFaUkRBb09obXl3V1E?oc=5",
+      "pub_date": 1790609890.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand",
       "image": null,
       "description": null
     },
     {
-      "headline": "Quantum Blockchain Technologies Advances Bitcoin Mining Tests and Receives US Patent Allowance",
-      "source": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSldlaVJ6MFlDdW51ajBkY19iNGhGMjRkbmNTZUZVZV80bnNINzlrQmt0bkEteGF0dmpDLVp5aXZ0ajNCVFNDM2UtTjRjc3I5MGF1Qlg0MFpCeXRTZmt6QjdXY2NiY1hQV2NXUDhvSm9BMHBmQThLVWlqX1QxdUFCTmlCZzJRRVRVZDZYSks3VG42dmlyYTJBNTZGcmk5dw?oc=5",
-      "pub_date": 1790579738.0,
-      "article_url": "https://uk.finance.yahoo.com/news/quantum-blockchain-technologies-advances-bitcoin-071538302.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f8414f86d13eacdfa018793abe1d4cee7df99fedfd7981feebebe4d1d44234e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fadvfn_uk_848%2F342b32a8c6e63e0615e5221c6a98e391.png",
-      "description": "Quantum Blockchain Technologies (LSE:QBT) reported progress in the testing and development of its Bitcoin mining technologies during the six months ended 30 June 2026, alongside developments in its intellectual property portfolio and financing position. The company progressed Method C, its artificial intelligence-based Oracle technology, using datasets provided by an ASIC industry partner."
-    },
-    {
-      "headline": "Bitcoin Falls as Geopolitical Concerns, U.S. Rate-Rise Prospects Weigh -- Market Talk",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3ZHUHB4NmY4ME5nR3BpWWNnX2xBVklwTHYzQndkVlo3eXE0T3pVNV80RnZOUkZZbjlkcEI0aElLdzg5UjRWbW5vM0EwNThkSVl1d2F3TjdOQWs2WGFNQ2I2MDdoVGNFOGtQTWppOXdvZ0pjZXJwbGlTZV9oVXN5U2NNbzhwWUtPYVRBWldXZkVLbFV3T2traTd4YnJ6UVZMUGVCSGc5cE1qVHVaaEw2bA?oc=5",
-      "pub_date": 1790578755.0,
-      "article_url": "https://www.moomoo.com/news/post/1000278394/bitcoin-falls-as-geopolitical-concerns-us-rate-rise-prospects-weigh",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin, Nasdaq futures decline as Trump won\u2019t rule out more Iran strikes",
+      "headline": "Live updates: Bitcoin slips back to $83,000 as bond yields surge to new cycle highs",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2xYbTdCMmYycWJ1MlpwbWg0djFrZlRleGdaZTU4d3NZYS1PODVzYnFDaWFkekNPMGo5dVYtVFNtNzhBNF9sZklaM0dPLXFXWlNCbEcxUm9BYUtncE5kbjVtQ3pLYkd4U0tPYWZSeUNzQnhOUkV3dkFXN2Z0SkM0T1FBRlBoZ0JBamhGNzhaT21EQWlJUVBSeEdWalg5TFlzMFliY29PemhXM290T09PYjBnSUIzUVBEbS1QZA?oc=5",
-      "pub_date": 1790567880.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c76047d96bfdc52edf0fb1572c41862de3f9f133-2183x1153.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Trump on Sunday didn\u2019t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon. Bitcoin and Nasdaq futures wilt."
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTJ0ZGRsczd1SmlrLVVJcjUwVFFJSTQzbFdlQklrMnh1X2NadGQ0dUhBV1Z3MmVNT1JON2ZHZ1RqU3NnNnhuZ2FtUWNyaHNsMkF4VktvTGIwVC00b2taN2JyQkZGU1Y0RHE3VjItSFhWLTdrQ0s5d2phRTk1bjJEcUFaRGFIcXJpMkgzUFNoUHJJX2RoN3dVUThUMnhKejlBR2t5VWNVWTBCOGtTSEYxdkxZSkZpMC1wMHJUX3M4aw?oc=5",
+      "pub_date": 1790606724.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce4744fdedbd09f37ca71dcf7ba3798cd88e1c99-1920x1000.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The U.S. 10-year Treasury yield is sharply higher again, rising above 5.25% as oil jumps 3%"
     },
     {
-      "headline": "Georgia prison scam ring suspect arrested after Florida woman loses $15K in Bitcoin",
-      "source": "WSB-TV",
-      "source_url": "https://www.wsbtv.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZUFOLWpXQmdyNGhmREpvOU13VWwzUkdtcnRia25oMllYLUtGNmloSmtoeFIwdXJHRUMtczZkRjA4Ym0zUzMwWlNTQ3pkRmk1ZTR4WVlrak14bVYwV1NPUEVQUU1fV3p2aWpjVGlJUWFkUjI5M1pHYU91NGEwWkFxOGNlQTF0eFhvSFQyaVZtUkdMRHdXQjEweE11eTFsYzZyblczQWpVS3pTdmtCMm40aXFqVFU4SkdOMTBQaVFfS3cxZ2hOeW1VUTFLcEM2Q1J4dmRpTGQzWdIB6wFBVV95cUxPNGt6ODdUeGdYRXdRQ2NIMFlZSzRQb0Z1MkQ1OUFoT3d3Vy0zSHB3TW93QlozTF9LT0tNMTlWU2R6RW80TzIxamlGWWpMdkExY3BpMjNfMXJyX2s5MUtSWm5nRXhGS203VFRIZUk0dlpUTFQ0Um1malkyTnN1aEZSaFgxUVlPV1FPbmUtaGR2MF94N0Zjcktjb3BVSVNJWlBDNVJvZDB4cDdINDAtaGZIU1R4QnZjckQ1RzVWV2lsLXBMQWQzMFhUZzNpUkRqRFpLenhfVkRUajZVM013SHNwWXJsVXJlajlaT21B?oc=5",
-      "pub_date": 1790551266.0,
-      "article_url": "https://www.wsbtv.com/news/local/georgia-prison-scam-ring-suspect-arrested-after-florida-woman-loses-15k-bitcoin/MCWBAZC7Q5CJ3EJ4Z7KBL4X4FQ/",
-      "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F09-27-2026%2Ft_5de4cb3b09ce41378c15cd7594ea0d76_name_file_1920x1080_5400_v4_.jpg?auth=b68bd22ce9228cd444c4cb4fdee38c625adfe4c3e9eed9ecdd39b9466c8b04ea&width=1200&height=630&smart=true",
-      "description": "The scam works by fraudulently telling people they have missed jury duty and owe money."
-    },
-    {
-      "headline": "Why Is Bitcoin Soaring Again?",
-      "source": "Morningstar",
-      "source_url": "https://global.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43S3kxUWVBYllhaDF2eEx1UUlxdkNZajcwLTM3RzJQZlBtbDBZbVRJbmRCVkl2VUY4OTBobHFwYkRMTG81Q1dxX2ItaWJQaTdlQ2FZeVZ3cmNOUC1lS1gzSXpyMjVtUmRBZ281eEswMnlqSEJQakFNQnBhY3UwQQ?oc=5",
-      "pub_date": 1790367267.0,
-      "article_url": "https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again",
+      "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5",
+      "pub_date": 1790604660.0,
+      "article_url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64",
       "image": null,
       "description": null
     },
     {
-      "headline": "P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money",
-      "source": "CBC",
-      "source_url": "https://www.cbc.ca",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDFKall3SmtYNEFWOWgwMlEydG9zNUVNYjJiZWpPWEJPSWFfNTQtVXBkTUVfa0Vfd1l3eXlJa1RRcTA1b3RSZHV1Z2FUZTdNOG9OSVU2eS1KRjJic2loelBjNV82Vl9CQy0xNHdKZVczV3ZoZjZRVzZ0YnZKaFJhUEdwbmd5ZTdFNHNfNmRlbw?oc=5",
-      "pub_date": 1790326800.0,
-      "article_url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377",
-      "image": "https://i.cbc.ca/ais/219148f6-c9b7-46b4-844e-906e87b458d3,1790280678236/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "description": "Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call."
+      "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTThaX05vYVJyNDRWSzRabkd1Q01oQXdvZDJua1hfRGJkMXlBV0h2SDF5WERfZDYwSGhHajZPSXMxcTEzSElab3hoUFozMjNWam1jdzhOSHhPV3NsRnkzNkY5a2xfalByN0Z6SkNtekphTFR2MkhYQlZ5SFkzWUdQZjgxSHFGajdKVUlDQW1FNVZsemVJeW9Z?oc=5",
+      "pub_date": 1790594100.0,
+      "article_url": "https://www.fool.com/investing/2026/09/28/in-5-years-one-of-these-cryptocurrencies-could-be/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888116%2Fbitcoin-cryptocurrency-computer-display.jpg&w=1200&op=resize",
+      "description": "Although Bitcoin probably isn't going away, within five years it will be vulnerable to significant disruption."
     },
     {
-      "headline": "Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVzEwcVYwVjZEbnkyQzdZbnViZ0hSUjFFVEV2ODdjRHRGRUxSQjZ0ZjJBc010dl9jMnNjcWNwUzdkT2lVdU5DalV2bmcyRFd0Y0VHMlg2MXF4WEx2SVlQam5WYWRyU2NRMHdqUXdZYkxTVHNSSnFlNHZvVkZEWnFSX19HelJ5Q3VQZzctX3ZlemNXSUlDOWhOOG91TkRGUVRzbWJ2ODRrZkxkQ29rUWx4b3RxejNwS05oeldoNkhseVIxTlI3dzRUSWRoUUZPczFnU2JfZXdtT2t2S3VqcVlXbVZheHBqT3pyMVJCSGpDT0E1LTA?oc=5",
-      "pub_date": 1790523481.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:bc012dd45094b:0-grant-cardone-says-commercial-real-estate-faces-historic-crash-sees-bitcoin-as-a-complementary-asset/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Veteran real estate investor Grant Cardone said commercial real estate was heading into \"almost Armageddon conditions,\" and that his answer was to put Bitcoin (BTC) on the balance sheet of every building he buys, what he called a \"complementary asset.\"\"Complete reset across the board of commercial\u2026"
+      "headline": "Current price of Bitcoin for Sept. 28, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10TUZGTV9PZWFjUUFTTUwwLTJRZGllSjJEbk5zLVVaTnJSOUd1LUw2OGN3bWl4azRQcDd5VDBuenoxYm93UDdlNS1GWk84Vk5yR3lmYVpma09tOHI4M2NNWGhwYVIwWUU?oc=5",
+      "pub_date": 1790611140.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-28-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-28.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin: The Beginning Of The Next Bull Market (Cryptocurrency:BTC-USD)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVl3T1lxWlA0dEl5TUN3aWw3eU9DMEhtRldtaVZQTHpVOGd6aE5aOHVzdTRQYzhCUXpOZEF1STlVOG1HZFl3cGxVVU1mWmx4Rng0SE5pc2MxYVJuZUVmZ1NWSGs4eEtGOUlEeVpGTmNCQXBYRWtQNjM2NF81MGdJbXQ1Z1hrdEtNV3JvYUpkdw?oc=5",
+      "pub_date": 1790614088.0,
+      "article_url": "https://seekingalpha.com/article/4950318-bitcoin-the-beginning-of-the-next-bull-market",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241710794/image_2241710794.jpg?io=getty-c-w1536",
+      "description": "Bitcoin may be in a new bull market: $83K weekly close, MVRV crossover & key risks. Read the full analysis here."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-28T08:19:05.530936+00:00"
+  "fetched_at": "2026-09-28T16:54:56.198577+00:00"
 }
