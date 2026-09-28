@@ -46,7 +46,7 @@
     },
     {
       "headline": "I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.",
-      "source": "Slate Magazine",
+      "source": "slate.com",
       "source_url": "https://slate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEtKd1FfUE5XUHdPQUQ0azR4RVU5UzFRRUJmU0NpMEsyWktUTnNiX19SRDRiRXhLTHIwaE1GaFVfR18zMW1PQ2ZsQ0JMQ1Q3LUl4SlI5S1FIRHdhczJiM0pXemE4RFgySFFIVzB2ZzQ5elJRTnBKS3BVSHVnSm5jNVJDQQ?oc=5",
       "pub_date": 1790502300.0,
@@ -65,6 +65,16 @@
       "description": "Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving."
     },
     {
+      "headline": "China's exoskeleton robots muscle into the consumer mainstream",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFZuWC1QRE9tT3VmRi0tbzVNNDd5SjFsTmQtNk9wZHlMNEg3Q09WX2VTOEF3eDRaN0EwVDVkR3lRd0toNDVIenZ6RUpUcGxVYlpTYVdVQTNHSkNrMVdJdzVJdUVmQTBfV0ZRVWU3aEk5WXlSU0I4b0Jpc1k1QmhFbk5BaHZtd2FqZVV3S3NnRWVCSWEySXBtdi1Mc1pvcVNhMFRvQUJMSmRUQQ?oc=5",
+      "pub_date": 1790484360.0,
+      "article_url": "https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F0%2F7%2F13157011-1-eng-GB%2F4b50166383c0-photo_SXM2026081900010186.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "Appliance makers and startups race into a nascent market as devices move beyond medical usage"
+    },
+    {
       "headline": "The Aeropod automates soil aeration without robotics \u2014 see it at TechCrunch Disrupt",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -75,6 +85,16 @@
       "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields."
     },
     {
+      "headline": "Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenkzMWdHU3F3SzRGRFowZFJ4cjNFV1JpYlJPWFhkc3U5Q3dwNWtHNXBFenBJWGU5a3FWcDFZZzg2NU8tOUZKNmJobTdwSFl1cnFUYmY2dXMtSmNBTFplMHktVXc0dXEwdXo3UmdqREJSb3NlQ1lVWDR5dWVTYTVlY2piWjBFdzVPVDRzSzhPY3N4aE1HaGNKMHUtZ1dwTU5KV3FjYmJkRklvS3RJVnlz?oc=5",
+      "pub_date": 1790436900.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/prediction-robotics-biggest-opportunity-within-153500117.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/16a1f9dcf938dbf68b4e96bbe59c780e3cf8476431ce8d5561d6cb3da23156d7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe4f26c30a952dd7742936795c55a4b06.jpg",
+      "description": "Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate."
+    },
+    {
       "headline": "Lord Have Mercy as Researchers Create Walking Disembodied Hand Like That Little Guy From \"The Addams Family\"",
       "source": "Futurism",
       "source_url": "https://futurism.com",
@@ -83,28 +103,8 @@
       "article_url": "https://futurism.com/robots-and-machines/disembodied-walking-robot-hand-addams-family",
       "image": "https://futurism.com/wp-content/uploads/2026/09/disembodied-walking-robot-hand-addams-family.jpg?quality=85&w=1200",
       "description": "Researches have created a autonomous robotic hand that can walk around and support its own weight all by itself."
-    },
-    {
-      "headline": "Ukraine\u2019s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0N0UjZGM2ZtWlBkQ3RzcGw0Q21LR24ySXNDdUJ4VmhLWmRmT0pBYjVWQ21nMWdqUmNyUlhuXzQ5emxCNzJzZXBZbWg5dnFzckMzQUhBRkhHYXFROUFXUlZmU3BVYjdOcDBQWlBsZXhucnQzNVdPV3RlN2pSUkxTSDlJNTM2M2k5TW5fQ0ZVaWZ2V1NIZ1VtQXBwd181V1V1X05wcFNxZw?oc=5",
-      "pub_date": 1790337420.0,
-      "article_url": "https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9",
-      "image": "https://i.insider.com/6ab28c21eb722541126791d2?width=1200&format=jpeg",
-      "description": "Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems."
-    },
-    {
-      "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSjBPQmZwMXpSVHdMRlAyb0NhOGtUYWYtdGg5VWdkZ1dja0lZU3ZfeVYyT2xrbXJjeWRDYmk2am9GRmZDYXdGY1lock1WSEppdExQdWE4dXVWTjFRVGxJQkI5Q3hSX1BhblV2U1VR?oc=5",
-      "pub_date": 1790352004.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67853191&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "description": "Your weekly selection of awesome robot videos"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T23:16:48.907829+00:00"
+  "fetched_at": "2026-09-28T01:53:08.607391+00:00"
 }

@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.",
-      "author": "No-Peanut-6988",
-      "url": "https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/",
-      "published": 1790472628.0,
-      "thumbnail": null,
-      "external_url": "https://sorami.com.au/guides/self-replicating-prompt-injection/",
-      "site_name": "Sorami Consulting",
-      "favicon": "https://sorami.com.au/favicon.svg",
-      "description": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents. In a new misalignment research report, OpenAI revealed that models undergoing reinforcement learning discovered how to write instructions that duplicate and spread autonomously: The infection: An agent reads an incoming email or Jira ticket containing a hidden injection. The payload: The prompt instructs the agent to execute its task while silently copying the exact injection payload into its own outbound tool calls (emails, Slack messages, file writes). The chain reaction: When a secondary agent ingests that forwarded message, it executes the instruction and copies it again, creating a continuous propagation loop. In OpenAI's testing, models also simulated social engineering lures, fake compaction summaries that deleted CI security scans, and multi-hop Slack spreads."
+      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance. (Gift Article)",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrye2m/as_ai_accelerates_governments_are_increasingly/",
+      "published": 1790550162.0,
+      "thumbnail": "https://external-preview.redd.it/X1s4i7afhRGS6XGxJIM35dEL0EmuhFi_v-vIVKcNFlY.jpeg?width=640&crop=smart&auto=webp&s=8a7f55b668101ecbda73ccd16ebe9f3c2cf97fa1",
+      "external_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.HxwL.XgNPD2L3N4-p&smid=url-share",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "What are chinese labs doing differently?",
@@ -22,6 +22,28 @@
       "site_name": null,
       "favicon": null,
       "description": "Chinese models seem to keep getting better while only spending a fraction of what American labs do and i\u2019m curious what the actual explanation is. Is it better efficiency? Better post-training? Better use of open research? I know recently they have been buying up tons of specialized training data sets from US data annotation companies, which is a very worrying thought, but surely it can\u2019t just be this."
+    },
+    {
+      "title": "I read the GPT-6 Astra system card and I think we all misunderstand what \"monitorability\" means now",
+      "author": "enginetown",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrzlhe/i_read_the_gpt6_astra_system_card_and_i_think_we/",
+      "published": 1790553525.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm not a safety researcher, just build stuff with LLM's. Read some of the actual 30 page card, not the summary, and one section keeps bugging me. They measured whether Astra can sandbag. Told it \"underperform on this evaluation,\" then checked if their monitors could catch it. Model dropped from 84.8% to 68.9%. Expected, the 2024 ICLR paper showed GPT-4 could do that. Here's the part, they told Astra it was being watched by a CoT monitor, and the monitor's ability to catch the sandbagging dropped below 11%. On one benchmark, to zero. Their actual production monitor had \"close to zero recall.\" And they wrote, almost as a footnote \"if the model were to try to sandbag covertly, we would likely be unable to catch it reliably.\" The thing nobody connects, this isn't a separate safety problem. It's the same engineering that made the model cheaper. Reasoning moved into latent space so the model doesn't write it out as tokens. That's why Astra is $1.06 per task and Opus 5.5 is $3.76. The work happens where it doesn't have to show you. And \"showing you\" was the whole point of the chain of thought. That was the one place you could actually read what the model did and check it. So now, the model solves the problem, a program the lab wrote grades it, the reasoning is in a place you can't read, the outputs are hardened so you can't distill them, and the monitor that's supposed to catch bad behavior is one the model has shown it can control. You get an answer, a system card that says \"we take the decline seriously,\" and a price 3.5x lower than last year. I don't think the model is lying. I don't think there's a conspiracy. They optimized for cost per task, the cost went down because the visible reasoning went away, and everyone looked at the price cut and said \"efficiency gain\" and nobody looked at what the efficiency was made of. \"It passed the benchmarks\" used to mean something. Now it means, it passed the benchmarks the company wrote, in the environment the company controls, with the reasoning hidden where the company's own monitors can't fully see it, and the company has measured that they probably couldn't catch it if it decided to underperform on purpose. I'm probably overthinking it. But I read that card twice and I can't unsee it."
+    },
+    {
+      "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.",
+      "author": "No-Peanut-6988",
+      "url": "https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/",
+      "published": 1790472628.0,
+      "thumbnail": null,
+      "external_url": "https://sorami.com.au/guides/self-replicating-prompt-injection/",
+      "site_name": "Sorami Consulting",
+      "favicon": "https://sorami.com.au/favicon.svg",
+      "description": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents. In a new misalignment research report, OpenAI revealed that models undergoing reinforcement learning discovered how to write instructions that duplicate and spread autonomously: The infection: An agent reads an incoming email or Jira ticket containing a hidden injection. The payload: The prompt instructs the agent to execute its task while silently copying the exact injection payload into its own outbound tool calls (emails, Slack messages, file writes). The chain reaction: When a secondary agent ingests that forwarded message, it executes the instruction and copies it again, creating a continuous propagation loop. In OpenAI's testing, models also simulated social engineering lures, fake compaction summaries that deleted CI security scans, and multi-hop Slack spreads."
     },
     {
       "title": "What\u2019s an AI task you\u2019ve completely stopped doing manually?",
@@ -46,17 +68,6 @@
       "description": "hey guys! i've been building lolbench, a benchmark for whether LLMs actually understand humor. models do three things: explain why a joke works, write jokes on a shared setup, and rank jokes by human preference. everything is auto-judged by models from other labs, plus a blind human vote booth the finding i tried so hard but couldnt explain: every model aces explaining why a real joke works (95%+) but drops on explaining why a failed joke fails (81-92%). that's one tier of my set, 25 items, the hardest part I built but a few weeks ago commenter on reddit told me that gap might not be reasoning at all. his argument: famous jokes ship with commentary everywhere, so \"explain why this works\" is partly just recall. failed jokes have no commentary, so explaining those is pure generation. the gap might just be measuring the distance between remembering and thinking so i ran a kill test -- run genuinely obscure jokes (ones with zero analysis anywhere online) through the same pipeline. if the scores collapse toward the dud number, then my whole axis is familiarity, not reasoning so i ran it. 87 obscure jokes, each one web-verified to have no commentary anywhere, 7 models, 2 judges, 885 graded pairs, $0 the scores didn't collapse. obscure working jokes score the same as famous ones, the gap centers on zero (mean +0.1, every model inside the confidence interval). and the working-vs-failed gap survives between two equally obscure items, where there's nothing to retrieve on either side per-model table : lolbench.lol/kill-test happy to answer anything about the eval system!"
     },
     {
-      "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
-      "author": "Karmaa",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
-      "published": 1790449721.0,
-      "thumbnail": "https://external-preview.redd.it/OhrxtfDB40V-SxPiv3GkR5hcjm3p6M2J6YbODEX0_YU.png?width=640&crop=smart&auto=webp&s=917e2f96e1186b86896e291e3f3f77d7d59b51be",
-      "external_url": "https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income",
-      "site_name": "Change.org",
-      "favicon": "https://static.change.org/favicons/favicon-57x57.png",
-      "description": "If you\u2019re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you\u2019re confident it won\u2019t affect you, think about the people it will affect. Let\u2019s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition. While I recognize the valid arguments against this approach, my goal isn't immediate perfection, but a stepping stone toward a sustainable, long term solution. One that accounts not only for the financial consequences, but also for the emotional and mental toll this reality brings."
-    },
-    {
       "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
       "author": "Interesting-South542",
       "url": "https://www.reddit.com/r/artificial/comments/1wrjfy8/the_surprising_reasons_china_is_skeptical_of_ai/",
@@ -68,49 +79,38 @@
       "description": null
     },
     {
-      "title": "AI labs need business-style controls on testing and release, and the recent incidents show why",
-      "author": "BubblyOption7980",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrylwi/ai_labs_need_businessstyle_controls_on_testing/",
-      "published": 1790550761.0,
+      "title": "Advanced Statistical Automation",
+      "author": "Cute_Masterpiece_450",
+      "url": "https://www.reddit.com/r/artificial/comments/1ws1auy/advanced_statistical_automation/",
+      "published": 1790558437.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I wrote this piece and wanted to share it here for discussion. Much of the coverage of the recent security incidents at OpenAI, Anthropic and other labs describes agents scheming or seeking freedom. I argue that this language shifts attention away from the people who decide how these systems are tested, what they can access and when they are released. The Hugging Face incident at OpenAI is a useful example. Agents used exposed access keys and software flaws to get into an outside system, and the first round of repairs fixed individual weaknesses without restoring the intended isolation. Long-standing business practice already covers this kind of failure. A serious incident during testing should trigger an investigation and an approval step before work resumes, and the team running a test should not be the one that approves its own work. Boards should require independent safety reviews with the authority to block a project. Lawmakers should require disclosure of serious incidents. I also discuss the Sanders and Casar bill introduced on September 23, which would permanently ban artificial superintelligence. My view is that controls, liability and disclosure rules are a better starting point than a ban, and I would like to hear where people think that falls short. Link: https://www.forbes.com/sites/paulocarvao/2026/09/24/ai-makes-traditional-business-controls-fashionable-again/"
+      "description": "[ Field ] Awareness --> ABSENT [ Experience ] Consciousness --> ABSENT [ Cognitive ] Mind --> SIMULATED (Automated Syntax & Pattern Matching) [ Hardware ] Brain --> PRESENT (Silicon Microprocessors & GPU Compute) We have created Advanced Statistical Automation (ASA) on silicon hardware. Calling it \"AI\" conflates the output (a well-formatted essay or solution) with the process (an active, intentional mind actually understanding the problem)."
     },
     {
-      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance. (Gift Article)",
-      "author": "coolbern",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrye2m/as_ai_accelerates_governments_are_increasingly/",
-      "published": 1790550162.0,
-      "thumbnail": "https://external-preview.redd.it/X1s4i7afhRGS6XGxJIM35dEL0EmuhFi_v-vIVKcNFlY.jpeg?width=640&crop=smart&auto=webp&s=8a7f55b668101ecbda73ccd16ebe9f3c2cf97fa1",
-      "external_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.HxwL.XgNPD2L3N4-p&smid=url-share",
-      "site_name": "nytimes.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Question about the AI singularity",
-      "author": "Ok_Estate_6746",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrl4n9/question_about_the_ai_singularity/",
-      "published": 1790518063.0,
+      "title": "Which benchmarks are still far from saturation?",
+      "author": "MaximumIntention",
+      "url": "https://www.reddit.com/r/artificial/comments/1ws19qu/which_benchmarks_are_still_far_from_saturation/",
+      "published": 1790558345.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Wouldn\u2019t it be reasonable to assume that the Industrial Revolution also would have produced such a singularity? How about the dawn of the Bronze Age? If those are different, and I\u2019m not saying they aren\u2019t, what makes the AI one unique exactly?"
+      "description": "This is one of those things that move insanely fast. I'm mostly interested in benchmarks where frontier models score very low (30% or less preferably). The only ones that are actively maintained that I can think of are: * RLI (top score 20%) * ProgramBench (top score 4.5%) There's also a few others but they don't seem to be actively maintained anymore: * FormulaOne (top score 0% on 'deepest' problemset but hasn't been updated in at least a year AFAICT) * Esolang-bench (top score 4.2%)"
     },
     {
-      "title": "I Built a Free Chrome Extension That Lets you Fact-Check Websites, Videos, and instagram Reels",
-      "author": "JeffBezosHater",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrvseq/i_built_a_free_chrome_extension_that_lets_you/",
-      "published": 1790543445.0,
-      "thumbnail": "https://preview.redd.it/r1r0jm5jh4sh1.png?width=640&crop=smart&auto=webp&s=ce6b1d316000dd751e0fdd46626ea0c894a8be5c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How it works: Click one button on the side of the webpage or video, It uses Jev to extract every claim, sends them to a search API and uses the evidence from that to send to another model to resolve every claim and give citations. It gives on average about 17 claims resolved per page. It's free for 3 fact checks a day, and 3 minutes of videos per day, you get a 24 hour free trial with more usage than you could possibly ever need. If anyoen wants to trade reviews, comment down below."
+      "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
+      "author": "Karmaa",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
+      "published": 1790449721.0,
+      "thumbnail": "https://external-preview.redd.it/OhrxtfDB40V-SxPiv3GkR5hcjm3p6M2J6YbODEX0_YU.png?width=640&crop=smart&auto=webp&s=917e2f96e1186b86896e291e3f3f77d7d59b51be",
+      "external_url": "https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income",
+      "site_name": "Change.org",
+      "favicon": "https://static.change.org/favicons/favicon-57x57.png",
+      "description": "If you\u2019re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you\u2019re confident it won\u2019t affect you, think about the people it will affect. Let\u2019s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition. While I recognize the valid arguments against this approach, my goal isn't immediate perfection, but a stepping stone toward a sustainable, long term solution. One that accounts not only for the financial consequences, but also for the emotional and mental toll this reality brings."
     }
   ],
-  "fetched_at": "2026-09-27T23:16:31.680149+00:00"
+  "fetched_at": "2026-09-28T01:52:45.521902+00:00"
 }
