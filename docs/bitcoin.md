@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-28T08:19:17.280993+00:00'
+updated: '2026-09-28T16:55:05.291447+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 28, 2026 at 08:19 UTC  
+**Last Updated:** September 28, 2026 at 16:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,983.09
+### $83,985.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -3.6%  
-**30d:** +6.8%  
-**90d:** +38.3%  
-**1y:** -27.4%  
+**24h:** -1.1%  
+**7d:** -2.9%  
+**30d:** +7.7%  
+**90d:** +39.3%  
+**1y:** -26.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1667.34B
+**Market Cap:** $1679.15B
 Rank #1
 
-**Circulating Supply:** 20,090,387 BTC
+**Circulating Supply:** 20,090,481 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.2%
+-33.7%
 
 **All-Time Low:** $67.81
-+122278.7%
++123159.1%
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[and keep buying bitocin](https://www.reddit.com/r/Bitcoin/comments/1wrgzq0/and_keep_buying_bitocin/)**
 
-21h ago
+1d ago
 
 ---
 
 **[So which one are you? Did you buy or are just now buying?](https://www.reddit.com/r/Bitcoin/comments/1wrf4xv/so_which_one_are_you_did_you_buy_or_are_just_now/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Meme](https://www.reddit.com/r/Bitcoin/comments/1wrf6p7/meme/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 name others + context.
 
-22h ago
+1d ago
 
 ---
 
 **[Feeling lucky.....](https://www.reddit.com/r/Bitcoin/comments/1wrijij/feeling_lucky/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -145,77 +145,83 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
+**[Why Is XRP Still Down 17% for 2026 When Bitcoin and Solana Are Almost Even?](https://247wallst.com/investing/cryptocurrency/2026/09/28/why-is-xrp-still-down-17-for-2026-when-bitcoin-and-solana-are-almost-even/)**
+
+Bitcoin and Solana have nearly clawed back everything they lost in 2026, yet XRP keeps getting left behind despite outpacing both coins during the recent rally. The reason comes down to a mathematical trap that punishes coins with steeper drops far more than most traders realize.
+
+24/7 Wall St. • 9h ago
+
+---
+
 **[Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October](https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944)**
 
 U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows.
 
-theblock.co • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It](https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it)**
+**[Michael Saylor's Strategy buys $143M worth of bitcoin](https://finance.yahoo.com/video/michael-saylors-strategy-buys-143m-160000908.html)**
 
-Three developments this week show a field moving from theory to logistics, even as "Q-Day" for Bitcoin remains hypothetical for now.
+Strategy (MSTR) bought more bitcoin (BTC-USD) this week. Scott Melker outlines the details in the video above.
 
-Decrypt • 17h ago
-
----
-
-**[Historical data indicates the potential trajectory of Bitcoin in 2027.](https://www.moomoo.com/news/post/1000277747/historical-data-indicates-the-potential-trajectory-of-bitcoin-in-2027)**
-
-Moomoo • 1h ago
+Yahoo Finance • 55m ago
 
 ---
 
-**[Quantum Blockchain Technologies Advances Bitcoin Mining Tests and Receives US Patent Allowance](https://uk.finance.yahoo.com/news/quantum-blockchain-technologies-advances-bitcoin-071538302.html)**
+**[Strategy buys $142.7M worth of bitcoin](https://finance.yahoo.com/video/strategy-buys-142-7m-worth-160509834.html)**
 
-Quantum Blockchain Technologies (LSE:QBT) reported progress in the testing and development of its Bitcoin mining technologies during the six months ended 30 June 2026, alongside developments in its intellectual property portfolio and financing position. The company progressed Method C, its artificial intelligence-based Oracle technology, using datasets provided by an ASIC industry partner.
+Scott Melker discusses Strategy (MSTR) buying more bitcoin (BTC-USD) this week, bitcoin ETFs recording $2.4 billion in net inflows last week, the strongest demand for ETFs since October 2025, and Bitget becoming the last victim of a hack where $350 million disappeared from users' wallets.
 
-Yahoo Finance UK • 1h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-**[Bitcoin Falls as Geopolitical Concerns, U.S. Rate-Rise Prospects Weigh -- Market Talk](https://www.moomoo.com/news/post/1000278394/bitcoin-falls-as-geopolitical-concerns-us-rate-rise-prospects-weigh)**
-
-Moomoo • 1h ago
+Yahoo Finance • 49m ago
 
 ---
 
-**[Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes](https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes)**
+**[Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand](https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand)**
 
-Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon. Bitcoin and Nasdaq futures wilt.
-
-CoinDesk • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Georgia prison scam ring suspect arrested after Florida woman loses $15K in Bitcoin](https://www.wsbtv.com/news/local/georgia-prison-scam-ring-suspect-arrested-after-florida-woman-loses-15k-bitcoin/MCWBAZC7Q5CJ3EJ4Z7KBL4X4FQ/)**
+**[Live updates: Bitcoin slips back to $83,000 as bond yields surge to new cycle highs](https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs)**
 
-The scam works by fraudulently telling people they have missed jury duty and owe money.
+The U.S. 10-year Treasury yield is sharply higher again, rising above 5.25% as oil jumps 3%
 
-WSB-TV • 8h ago
-
----
-
-**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
-
-Morningstar • 2d ago
+CoinDesk • 2h ago
 
 ---
 
-**[P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money](https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377)**
+**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
 
-Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
-
-CBC • 2d ago
+MarketWatch • 2h ago
 
 ---
 
-**[Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'](https://www.tradingview.com/news/stocktwits:bc012dd45094b:0-grant-cardone-says-commercial-real-estate-faces-historic-crash-sees-bitcoin-as-a-complementary-asset/)**
+**[In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin](https://www.fool.com/investing/2026/09/28/in-5-years-one-of-these-cryptocurrencies-could-be/)**
 
-Veteran real estate investor Grant Cardone said commercial real estate was heading into "almost Armageddon conditions," and that his answer was to put Bitcoin (BTC) on the balance sheet of every building he buys, what he called a "complementary asset.""Complete reset across the board of commercial…
+Although Bitcoin probably isn't going away, within five years it will be vulnerable to significant disruption.
 
-TradingView • 16h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Current price of Bitcoin for Sept. 28, 2026](https://fortune.com/article/price-of-bitcoin-09-28-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 56m ago
+
+---
+
+**[Bitcoin: The Beginning Of The Next Bull Market (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4950318-bitcoin-the-beginning-of-the-next-bull-market)**
+
+Bitcoin may be in a new bull market: $83K weekly close, MVRV crossover & key risks. Read the full analysis here.
+
+Seeking Alpha • 6m ago
 
 ---
 
@@ -225,7 +231,7 @@ TradingView • 16h ago
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 5d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 6d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -261,7 +267,15 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 **[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
 
-⬆️ 2 • 💬 0 • 18h ago
+⬆️ 2 • 💬 0 • 1d ago
+
+---
+
+**[Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472)**
+
+An expressive Unix-pipeable CLI for System One models like Jev - frodi-karlsson/onesie
+
+⬆️ 3 • 💬 0 • 5h ago • [GitHub](https://github.com/frodi-karlsson/onesie)
 
 ---
 
@@ -269,23 +283,73 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ## YouTube Videos: "bitcoin"
 
-**[3 Reasons Why Bitcoin Could Hit $10M!](https://www.youtube.com/watch?v=R-aY4OAyI1I)**
+**[Bitcoin Faces a Sudden Oil Shock..](https://www.youtube.com/watch?v=o2y_qLzulp0)**
 
-Bitcoin is stuck around $80000, but three long term theses suggest the real move could still be ahead. One argument sees Bitcoin ...
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 69 • ⏱️ 13:40 • 9h ago
+👁️ 8K • 👍 539 • 💬 61 • ⏱️ 42:13 • 2h ago
 
 ---
 
-**[BITCOIN IS SETTING THE PERFECT TRAP…](https://www.youtube.com/watch?v=UQ7x2mp1PAE)**
+**[BITCOIN: Time To Pay Attention. Seriously. (you&#39;ll see why) - BTC Price Prediction Today](https://www.youtube.com/watch?v=F9lb8AhSdFY)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Crypto Rover
+📺 BitcoinHyper
 
-👁️ 5K • 👍 529 • 💬 33 • ⏱️ 9:13 • 3h ago
+👁️ 4K • 👍 363 • 💬 31 • ⏱️ 13:24 • 4h ago
+
+---
+
+**[Bitcoin Holds Slightly Above the May High](https://www.youtube.com/watch?v=2C70_Ms3V9A)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 121K • 👍 5K • 💬 295 • ⏱️ 17:07 • 11h ago
+
+---
+
+**[Bitcoin Broke the Bear Case. What Happens Next?](https://www.youtube.com/watch?v=gYyhed2KEV8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ben Cowen is back on Bankless ...
+
+📺 Bankless
+
+👁️ 9K • 👍 231 • 💬 42 • ⏱️ 57:33 • 6h ago
+
+---
+
+**[DISASTER FOR BITCOIN !!!!!!](https://www.youtube.com/watch?v=aFS_BYUsncI)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Up to ...
+
+📺 The Moon Show
+
+👁️ 7K • 👍 506 • 💬 78 • ⏱️ 7:46 • 4h ago
+
+---
+
+**[BITCOIN: THIS TIME IS DIFFERENT.](https://www.youtube.com/watch?v=mqezUphMWZs)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 5K • 👍 348 • 💬 54 • ⏱️ 15:10 • 7h ago
+
+---
+
+**[Is crypto back?: Bitcoin stock surges](https://www.youtube.com/watch?v=gjnagcx3mM8)**
+
+Clear Street analyst Owen Lau breaks down the future of crypto regulation on 'Making Money.' #fox #media #breakingnews #us ...
+
+📺 Fox Business Clips
+
+👁️ 39K • 👍 341 • 💬 306 • ⏱️ 5:04 • 1d ago
 
 ---
 
@@ -295,47 +359,7 @@ LIFETIME ACCESS ENDS 1 OCTOBER. APPLY TODAY. https://form.typeform.com/to/lQ6mtw
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 3K • 👍 346 • 💬 48 • ⏱️ 29:44 • 3h ago
-
----
-
-**[Ripple XRP 260% Price Rally Prediction Bitcoin Is Going To $1 Million As The US Dollar Falls](https://www.youtube.com/watch?v=HIK6DlaCq8A)**
-
-This is not only going to be the biggest bull run in history, its also going to be the most shocking to people both in and out of the ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 821 • 💬 309 • ⏱️ 35:25 • 23h ago
-
----
-
-**[Bitcoin: It’s Riding On This](https://www.youtube.com/watch?v=bO88AeBojf8)**
-
-TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-checkout ➡ NEW SUBSTACK VIDEO REPORTS ...
-
-📺 Jason Pizzino
-
-👁️ 18K • 👍 686 • 💬 35 • ⏱️ 24:44 • 7h ago
-
----
-
-**[Did You Fall For This Bitcoin LIE?](https://www.youtube.com/watch?v=DGewUIiwbU4)**
-
-FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
-
-📺 Crypto Tips
-
-👁️ 13K • 👍 515 • 💬 36 • ⏱️ 12:10 • 16h ago
-
----
-
-**[TRUMP SIGNED FAKE EXECUTIVE ORDERS?! | Was the Strategic Bitcoin Reserve a SCAM?](https://www.youtube.com/watch?v=mHkKvgPFHwc)**
-
-Trump established the Strategic Bitcoin Reserve in March 2025, but the fight over what it actually becomes is far from over.
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 2K • 💬 243 • ⏱️ 16:08 • 1d ago
+👁️ 15K • 👍 706 • 💬 108 • ⏱️ 29:44 • 12h ago
 
 ---
 
@@ -345,27 +369,17 @@ I Got Rich Off Solana. These 8 Cryptos Will Be Even Bigger. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 95K • 👍 4K • 💬 250 • ⏱️ 12:35 • 2d ago
+👁️ 98K • 👍 4K • 💬 256 • ⏱️ 12:35 • 2d ago
 
 ---
 
-**[IMP : BITCOIN || MAJOR ANNOUNCEMENT TONIGHT](https://www.youtube.com/watch?v=UyHBgRiI5sA)**
+**[SEC&#39;S HUGE CRYPTO RULEMAKING! BITCOIN BULLISH WEEKLY CLOSE, QUANT QNT PUMP, X MONEY PAID MEMECOIN!](https://www.youtube.com/watch?v=jcGjssJlM_o)**
 
-Learn about Crypto Basics for Free ...
+Crypto News: Bitcoin just closed above $84000 for its highest weekly close in 8 months. Quant QNT altcoin has a massive pump.
 
-📺 Crypto India I क्रिप्टो इंडिया
+📺 Thinking Crypto
 
-👁️ 2K • 👍 285 • 💬 26 • ⏱️ 7:54 • 2h ago
-
----
-
-**[Could the Bondpocalypse Launch Bitcoin Straight to $250K?](https://www.youtube.com/watch?v=OVrojTOjveg)**
-
-The bond market is flashing serious stress as Treasury yields climb and the pressure on the financial system intensifies.
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 2K • 💬 73 • ⏱️ 16:05 • 2d ago
+👁️ 23K • 👍 767 • 💬 125 • ⏱️ 22:43 • 12h ago
 
 ---
 
