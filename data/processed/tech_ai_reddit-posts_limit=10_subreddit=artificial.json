@@ -46,17 +46,6 @@
       "description": "Pope Leo had identified AI as one of the biggest challenges to humanity within days of his election and took the unusual step of personally launching his own encyclical alongside one of Anthropic\u2019s co-founders at a Vatican event in May."
     },
     {
-      "title": "Are the call for AI slowdown because progress is slowing?",
-      "author": "Comfortable_Key_1346",
-      "url": "https://www.reddit.com/r/artificial/comments/1wt8t0e/are_the_call_for_ai_slowdown_because_progress_is/",
-      "published": 1790684958.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "More or less as the title says, I work in AI research although not with LLM's so have some context for research but not really LLMs etc. I have seen projects slow down before and there are times when slow progress is attributed to different factors when really they are pushing against fundamentally hard problems that are not budging. I can't help but wonder if all the noise about the calls to slow down are not because they need to slow down but because the research itself has already slowed down and they are struggling to improve on the immense progress already made, so it is easier to keep a valuation if your technology is too powerful to be made available than if you are struggling to progress its capabilities further as promised. It seems odd for example for anthropic to be warning of existential threats in an IPO document and also calling to slow down, but I am not too familiar with IPOs and what you would expect in those documents just curious if people have had thoughts on this?"
-    },
-    {
       "title": "OpenAI Ignored Employees Who Warned It Wasn\u2019t Doing Enough About Security",
       "author": "Ordinary_Horror_6356",
       "url": "https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/",
@@ -68,6 +57,50 @@
       "description": null
     },
     {
+      "title": "Why Does This 2022 Anime Feel Like an AI Prophecy?",
+      "author": "Timoel",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtnzt1/why_does_this_2022_anime_feel_like_an_ai_prophecy/",
+      "published": 1790720436.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Has anyone here watched The Orbital Children? It came out in early 2022, before ChatGPT was released, and watching it now honestly feels like an AI prophecy. I mean, how could they have gotten so much of this right back then? The story revolves around Seven, an AI that becomes so intelligent that humans can no longer fully understand or control it. Society then introduces intelligence limiters to stop AI from ever reaching that level again. Without spoiling much, the series goes surprisingly deep into AGI/ASI, alignment, loss of control, and the idea that a superintelligence might see humanity and its future completely differently than we do. What blows my mind is the timeline: this happens around 2034. A few years ago that sounded like distant sci-fi. With how insanely fast AI is progressing now, another 8 years suddenly doesn\u2019t sound unrealistic at all. I also find it crazy that this series hasn\u2019t been brought up everywhere during the AI boom. Critics called it pretty mid, but right now parts of it feel like some 200 IQ shit that arrived a few years too early. Anyone else see the parallel?"
+    },
+    {
+      "title": "Are the call for AI slowdown because progress is slowing?",
+      "author": "Comfortable_Key_1346",
+      "url": "https://www.reddit.com/r/artificial/comments/1wt8t0e/are_the_call_for_ai_slowdown_because_progress_is/",
+      "published": 1790684958.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "More or less as the title says, I work in AI research although not with LLM's so have some context for research but not really LLMs etc. I have seen projects slow down before and there are times when slow progress is attributed to different factors when really they are pushing against fundamentally hard problems that are not budging. I can't help but wonder if all the noise about the calls to slow down are not because they need to slow down but because the research itself has already slowed down and they are struggling to improve on the immense progress already made, so it is easier to keep a valuation if your technology is too powerful to be made available than if you are struggling to progress its capabilities further as promised. It seems odd for example for anthropic to be warning of existential threats in an IPO document and also calling to slow down, but I am not too familiar with IPOs and what you would expect in those documents just curious if people have had thoughts on this?"
+    },
+    {
+      "title": "What\u2019s something humans are still much better at than AI that you think people overlook?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtp4mq/whats_something_humans_are_still_much_better_at/",
+      "published": 1790723474.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Not because AI can't technically attempt it. Something where the human advantage actually matters in practice. What comes to mind?"
+    },
+    {
+      "title": "AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtp3sn/amd_boosting_aillm_performance_for_radeon_igpus/",
+      "published": 1790723412.0,
+      "thumbnail": "https://external-preview.redd.it/5151JRT8ilv9JlYJ_RksPkhj26IlLTZjj87tsLAZQho.jpeg?width=640&crop=smart&auto=webp&s=b2ae4f95bb9b74cd70bebb682ebd93a6778f2ee8",
+      "external_url": "https://www.phoronix.com/review/amd-perfopt",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "If you have an AMD Ryzen laptop/desktop and looking to leverage AI/LLM capabilities with the integrated graphics, Linux 7.4 is going to be a real treat especially for lower-end hardware."
+    },
+    {
       "title": "In what ways have you seen AI positively impact your daily life?",
       "author": "Competitive_Pie9583",
       "url": "https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "In what ways have you seen AI positively impact your daily life?"
-    },
-    {
-      "title": "Why \"AI will kill us all\" gets more attention than \"AI saved thousands of lives\"",
-      "author": "Tricky_Hope_6746",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtdlya/why_ai_will_kill_us_all_gets_more_attention_than/",
-      "published": 1790696682.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As a brand designer and brand strategist, I really want to jump into the AI discussion and explain why all those \"AI will kill us all\" headlines are bs, and how they manipulate you. Let's start with basics. Imagine 2 headlines: AI improved early disease detection and saved thousands of lives this year AI will kill us all Guess which one gets 80% of our attention? The second one. Every single time. French sociologist G\u00e9rald Bronner explains this perfectly in his book Apocalypse Cognitive. Our brain evolved for survival, so it's wired to lock onto anything threatening. That ancient mechanism is now in the hands of the media. And here's what brands and those headlines have in common. It doesn't matter if the feeling is good or bad, it stays in your brain. Only a small part of us actually processes the facts and draws real conclusions. The rest gets filled with alarm. In media and in branding, the more people think about your product, good or bad, the more valuable it becomes. Bronner gives a great example about nuclear waste in French waters. The panic spread so fast that it was everywhere before specialists could even publish the docs proving it was fake. So look at who's selling you the AI apocalypse. The owners of those AI companies. The same people getting richer every time you panic. Our map of fear rarely matches our map of real risks."
-    },
-    {
-      "title": "Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is easily available on it?",
-      "author": "WisecrackWealth",
-      "url": "https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/",
-      "published": 1790631372.0,
-      "thumbnail": "https://preview.redd.it/uirrfekeybsh1.jpeg?width=640&crop=smart&auto=webp&s=97ee77bd9dd3c08d22ab14ea0424216c5f705409",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The story around Cami Clark (Dario Amodei's wife) gets stranger the more you piece it together. From the WSJ reporting: - Married at 20 to a 64-year-old architect, divorced three years later. - Dated former Google chairman Eric Schmidt, then started dating Amodei around 2014 \u2014 and later introduced the two, with Schmidt becoming an early Anthropic investor. - In 2011\u201312, she and a partner pitched Jeffrey Epstein on a \"luxury porn\" company called Eddice (per emails in the DOJ-released Epstein files; Epstein declined). - Today she holds no formal role at Anthropic but is described as a key adviser \u2014 Davos, Sun Valley, even brought to a meeting with Modi. Really, Why is her history so hard to find for claude when google has so much about her now? And Amodie is private person even though I asked for Amhadis and calude understood it as amodie."
-    },
-    {
-      "title": "Should AI writing disclosure be about degree of use rather than a yes/no question?",
-      "author": "shdw_0x0",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtgz80/should_ai_writing_disclosure_be_about_degree_of/",
-      "published": 1790704219.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There\u2019s an interesting argument in this Fortune piece that the question \u201cDid you use AI?\u201d is becoming too simplistic for writing. There\u2019s obviously a big difference between using AI to brainstorm or fact-check, asking it to polish something you already wrote, having it rewrite sections, and giving it a prompt to generate the entire article. Treating all of those as simply \u201cAI-written\u201d makes the disclosure pretty meaningless. The author proposes a self-reported scale ranging from completely human-written to AI-generated with minimal editing. I actually think this is a more useful way to think about AI-assisted writing because the important question isn't necessarily whether AI was involved, but how much of the actual writing came from it. Would a standardized disclosure like this make AI use in writing more transparent, or would it just create another labeling system that people ignore? Fortune: Stop asking writers if they used AI. Just ask them how much"
     }
   ],
-  "fetched_at": "2026-09-29T20:08:15.868200+00:00"
+  "fetched_at": "2026-09-29T23:53:16.548601+00:00"
 }

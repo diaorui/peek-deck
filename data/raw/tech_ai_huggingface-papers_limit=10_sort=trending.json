@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2609.24972",
       "arxiv_url": "https://arxiv.org/abs/2609.24972",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 214,
+      "upvotes": 216,
       "num_comments": 2,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 758,
+      "github_stars": 904,
       "project_page": "https://regularized-rsi.com/"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 2,
       "published_at": "2025-04-27T21:46:35.000Z",
       "github_repo": "https://github.com/mem0ai/mem0",
-      "github_stars": 66291,
+      "github_stars": 66323,
       "project_page": "https://mem0.ai/research"
     },
     {
@@ -153,6 +153,25 @@
       "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
     },
     {
+      "id": "2609.28654",
+      "title": "Training Object Permanence in World Models",
+      "authors": "Haotian Zhang, Fengyuan Yu, Dezhi Luo et al. (31 authors)",
+      "organization_name": "CarnegieMellonU",
+      "organization_fullname": "Carnegie Mellon University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png",
+      "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We build Blender generators that randomize speed, lighting, camera angle, and other nuisance parameters while preserving each task's cognitive structure, yielding 10,000+ samples per task. We release a 1.5M-sample training corpus and a 300-question exam. On this exam we evaluate 14 video models: 3 reference-to-video, 7 edit, and 4 continuation, among which PWM-WROP, our 16B world model. In a blind pairwise Elo study, PWM-WROP ranks first among continuation models and third overall, behind only a statistical tie between two reference-to-video models. We release the data, exam, model answers, scores, weights, and PWM, our native-PyTorch training stack on AWS Trainium2.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.28654",
+      "arxiv_url": "https://arxiv.org/abs/2609.28654",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28654.png",
+      "upvotes": 234,
+      "num_comments": 2,
+      "published_at": "2026-09-22T20:00:00.000Z",
+      "github_repo": "https://github.com/hokindeng/object-permanence",
+      "github_stars": 394,
+      "project_page": "https://www.object-permanence.world/"
+    },
+    {
       "id": "2310.10688",
       "title": "A decoder-only foundation model for time-series forecasting",
       "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
@@ -168,30 +187,11 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 33962,
+      "github_stars": 33982,
       "project_page": null
-    },
-    {
-      "id": "2609.08183",
-      "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
-      "authors": "NeoHorse Team, Guoliang Cao, Guohao Dai et al. (37 authors)",
-      "organization_name": "TokenRhythm",
-      "organization_fullname": "TokenRhythm",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a27a70ec151fa93b00a6eed/ETg9yUkTJ7XauYMd3XqSH.jpeg",
-      "summary": "Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a family of agent-native models developed to explore this path through agentic post-training. Our system combines a heterogeneous model pool with intelligent routing, recording the predicted capability demand, selected service tier, and subsequent interaction for each user turn. These records are converted into training examples that preserve interleaved reasoning, tool calls, and harness context, and are admitted through structural validation, six-dimensional semantic evaluation, and subscene-level labeling. Routing signals organize supervised fine-tuning into a three-stage curriculum and extend to routing-guided on-policy distillation, where a teacher supervises student-generated responses under the same progression. Capability-guided allocation then converts evaluation feedback into the next training mixture, closing an evaluation-selection-update loop in which what the system learns to do shapes what it learns from next. Across eleven benchmarks covering harness-based agents, tool use, coding, and instruction following, post-training raises the macro-average from 58.94 to 64.87 at 4B and from 65.60 to 69.04 at 9B, substantially narrowing the aggregate gap between the post-trained 4B model and the 9B base model. NeoHorse-1 provides an initial prototype of this feedback-driven process and a path toward harness-mediated RSI across successive iterations.",
-      "ai_summary": "NeoHorse-1 uses agentic post-training with intelligent routing, structured feedback loops, and curriculum-based distillation to improve model capabilities across agent benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2609.08183",
-      "arxiv_url": "https://arxiv.org/abs/2609.08183",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08183.png",
-      "upvotes": 326,
-      "num_comments": 8,
-      "published_at": "2026-09-07T20:00:00.000Z",
-      "github_repo": "https://github.com/TokenRhythm/NeoHorse",
-      "github_stars": 1250,
-      "project_page": "https://huggingface.co/collections/TokenRhythm/neohorse-1"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-29T20:08:23.200750+00:00"
+  "fetched_at": "2026-09-29T23:53:27.019967+00:00"
 }

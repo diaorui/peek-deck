@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-29T20:08:48.469911+00:00'
+updated: '2026-09-29T23:53:40.512775+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 29, 2026 at 20:08 UTC  
+**Last Updated:** September 29, 2026 at 23:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,682.12
+### $2,676.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +0.3%  
-**30d:** +9.1%  
-**90d:** +58.3%  
-**1y:** -35.0%  
+**24h:** -0.1%  
+**7d:** -0.2%  
+**30d:** +8.6%  
+**90d:** +57.5%  
+**1y:** -35.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.16B
+**Market Cap:** $326.97B
 Rank #2
 
 **Circulating Supply:** 122,090,191 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.6%
+-45.9%
 
 **All-Time Low:** $0.43
-+620766.1%
++618470.4%
 
 ---
 
@@ -160,27 +160,11 @@ Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reac
 
 ---
 
-**[Current price of Ethereum for Sept. 29, 2026](https://fortune.com/article/price-of-ethereum-09-29-2026/)**
+**[Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?](https://finance.yahoo.com/markets/crypto/articles/cardano-vs-ethereum-smart-contract-221018289.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Cardano has surged faster than Ethereum recently, yet Ethereum dwarfs it by nearly every measure that matters for long-term growth. One of these platforms looks far stronger heading into 2030, and the reasoning may surprise crypto bulls on both sides.
 
-Fortune • 55m ago
-
----
-
-**[Bitmine Continues to Load Up on Ethereum, Now Owns 4.9% of all ETH in Circulation. Is BMNR Stock a Buy?](https://currently.att.yahoo.com/att/bitmine-continues-load-ethereum-now-172001755.html)**
-
-Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world.
-
-Currently.com • 2h ago
-
----
-
-**[Ethereum users get another way to pay privately as zk.money returns after three years](https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years)**
-
-The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.
-
-CoinDesk • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +172,15 @@ CoinDesk • 4h ago
 
 For good reason, Bitcoin and Ethereum have become the first two cryptocurrencies in the portfolios of many institutional investors.
 
-The Motley Fool • 9h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Ethereum users get another way to pay privately as zk.money returns after three years](https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years)**
+
+The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -202,15 +194,15 @@ Vitalik Buterin's website • 2d ago
 
 Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and...
 
-ethereum.org • 20h ago
+blog.ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Solana, and XRP spot ETFs all post net inflows on Sept. 28](https://www.tradingview.com/news/cryptobriefing:4afb32594094b:0-bitcoin-ethereum-solana-and-xrp-spot-etfs-all-post-net-inflows-on-sept-28/)**
+**[Current price of Ethereum for Sept. 29, 2026](https://fortune.com/article/price-of-ethereum-09-29-2026/)**
 
-Every major crypto spot ETF had a good day on September 28. Bitcoin, Ethereum, Solana, and XRP products each recorded net inflows simultaneously, according to data from SoSoValue, bringing the day's combined total to roughly $65 million.Bitcoin ETFs led on the day with $31.07 million in net inflows…
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-tradingview.com • 12h ago
+Fortune • 4h ago
 
 ---
 
@@ -218,15 +210,23 @@ tradingview.com • 12h ago
 
 The wallet returns three years after its shutdown, now running on Aztec Network with private balances and transactions.
 
-The Block • 4h ago
+The Block • 7h ago
 
 ---
 
-**[Crypto News: Pepeto Announces DeFi Tools Built to Fix Ethereum's Costs While the Ethereum Price Prediction Targets $6,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-tools-built-to-fix-ethereum-s-costs-while-the-ethereum-price-prediction-targets-6-000-1036580288)**
+**[Bitcoin, Ethereum, Solana, and XRP spot ETFs all post net inflows on Sept. 28](https://www.tradingview.com/news/cryptobriefing:4afb32594094b:0-bitcoin-ethereum-solana-and-xrp-spot-etfs-all-post-net-inflows-on-sept-28/)**
 
-DUBAI, United Arab Emirates, Sept.  29, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its DeFi tools are nearing launch, a zero-fee exchange, a l...
+Every major crypto spot ETF had a good day on September 28. Bitcoin, Ethereum, Solana, and XRP products each recorded net inflows simultaneously, according to data from SoSoValue, bringing the day's combined total to roughly $65 million.Bitcoin ETFs led on the day with $31.07 million in net inflows…
 
-markets.businessinsider.com • 12h ago
+TradingView • 16h ago
+
+---
+
+**[Tom Lee's Bitmine Buys Another $46 Million in Ethereum](https://finance.yahoo.com/video/tom-lees-bitmine-buys-another-211700887.html)**
+
+Bitmine is closing in on its goal to obtain 5% of all outstanding Ethereum.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -240,17 +240,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 114 • 💬 22 • ⏱️ 17:08 • 3h ago
+👁️ 5K • 👍 187 • 💬 31 • ⏱️ 17:08 • 7h ago
 
 ---
 
-**[How Aztec Network Could Make Ethereum Privacy&#39;s Biggest Winner](https://www.youtube.com/watch?v=icsFCBbLkiQ)**
+**[$10k ETH will cause Alt Season](https://www.youtube.com/watch?v=CUDFg3otido)**
 
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+Join Discord Group https://whop.com/checkout/plan_lyc1AoLEUzNVD X https://twitter.com/PainofCrypt0 Instagram ...
 
-📺 Milk Road
+📺 Pain of Crypto
 
-👁️ 188 • 👍 9 • 💬 23 • ⏱️ 40:57 • 1h ago
+👁️ 518 • 👍 59 • 💬 4 • ⏱️ 6:17 • 2h ago
 
 ---
 
@@ -260,7 +260,17 @@ Bitcoin and crypto are holding on! However the rest of the markets are telling u
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 1K • 💬 34 • ⏱️ 13:28 • 10h ago
+👁️ 19K • 👍 1K • 💬 34 • ⏱️ 13:28 • 13h ago
+
+---
+
+**[Raoul Pal: Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x](https://www.youtube.com/watch?v=lkki8XmPoj8)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 350 • 💬 35 • ⏱️ 21:29 • 1d ago
 
 ---
 
@@ -274,33 +284,13 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 ---
 
-**[Raoul Pal: Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x](https://www.youtube.com/watch?v=lkki8XmPoj8)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 15K • 👍 342 • 💬 36 • ⏱️ 21:29 • 1d ago
-
----
-
-**[ICP&#39;s Biggest Opportunity Just Came From Vitalik | Internet Computer](https://www.youtube.com/watch?v=leP_QGxtnco)**
-
-Vitalik Buterin just published "The Cryptographic World Computer," an essay that explains what all of Ethereum's planned ...
-
-📺 BasedGiant
-
-👁️ 4K • 👍 143 • 💬 19 • ⏱️ 9:23 • 1d ago
-
----
-
-**[Ethereum to $10K? The Setup Is Finally Starting to Make Sense](https://www.youtube.com/watch?v=UrIWhi__Gdo)**
+**[How Aztec Network Could Make Ethereum Privacy&#39;s Biggest Winner](https://www.youtube.com/watch?v=icsFCBbLkiQ)**
 
 Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
 📺 Milk Road
 
-👁️ 14K • 👍 341 • 💬 173 • ⏱️ 39:58 • 1d ago
+👁️ 942 • 👍 33 • 💬 50 • ⏱️ 40:57 • 5h ago
 
 ---
 
@@ -310,7 +300,17 @@ Joseph Chalom says Larry Fink's line that Ethereum is the toll road to tokenizat
 
 📺 The Rollup
 
-👁️ 23K • 👍 365 • 💬 23 • ⏱️ 31:51 • 19h ago
+👁️ 25K • 👍 374 • 💬 31 • ⏱️ 31:51 • 23h ago
+
+---
+
+**[ETH BULL RUN READY! Vitalik’s Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
+
+ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
+
+📺 Altcoin Buzz
+
+👁️ 4K • 👍 64 • 💬 9 • ⏱️ 10:22 • 1d ago
 
 ---
 
@@ -320,17 +320,17 @@ Just a few days away everyone. Literally at this point every single analyst with
 
 📺 Money Rules - Investing Tips 
 
-👁️ 28K • 👍 2K • 💬 370 • ⏱️ 12:51 • 1d ago
+👁️ 29K • 👍 2K • 💬 340 • ⏱️ 12:51 • 1d ago
 
 ---
 
-**[Is Ethereum about to explode?](https://www.youtube.com/watch?v=Obz42zCh4-Y)**
+**[Ethereum to $10K? The Setup Is Finally Starting to Make Sense](https://www.youtube.com/watch?v=UrIWhi__Gdo)**
 
-Ethereum has been consolidating for five years. What happens next? On Fundstrat's macro update webinar, Tom Lee and Mark ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Fundstrat
+📺 Milk Road
 
-👁️ 18K • 👍 300 • 💬 18 • ⏱️ 0:36 • 2d ago
+👁️ 15K • 👍 349 • 💬 171 • ⏱️ 39:58 • 1d ago
 
 ---
 
