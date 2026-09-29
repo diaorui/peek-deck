@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-28T22:26:01.301824+00:00'
+updated: '2026-09-29T02:11:42.423915+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 28, 2026 at 22:26 UTC  
+**Last Updated:** September 29, 2026 at 02:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We’ve been playing hide and seek with Éloi. When it sees you, the eyes and ne
 
 I’m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It’ll be a 1-hour session, and we’ll have WATO joining us to share their experience designing and building humanoid robots. There’ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e
 
-4d ago
+5d ago
 
 ---
 
@@ -108,11 +108,27 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 ## Google News: "robotics"
 
-**[Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/)**
+**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
 
-Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
+Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
 
-Ars Technica • 3d ago
+The Information • 12h ago
+
+---
+
+**[Tesla Reportedly Can’t Get the Hands to Work on Its Optimus Robot](https://futurism.com/advanced-transport/tesla-cant-get-hands-work-optimus-robot)**
+
+Tesla is targeting building 20,000 Optimus robots a week. According to The Information's latest reporting, it has a lot of catching up to do.
+
+futurism.com • 9h ago
+
+---
+
+**[Boston Dynamics Begins Robotics Testing at Hyundai Metaplant](https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant)**
+
+ELLABELL, GA—Boston Dynamics has opened a new robotics center at Hyundai Motor Group’s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker’s operations.
+
+Assembly Magazine • 1d ago
 
 ---
 
@@ -120,23 +136,7 @@ Ars Technica • 3d ago
 
 The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
 
-NASA (.gov) • 12h ago
-
----
-
-**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
-
-The World Humanoid Games were actually a social experiment in the making.
-
-Slate Magazine • 1d ago
-
----
-
-**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
-
-Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
-
-The Information • 8h ago
+nasa.gov • 16h ago
 
 ---
 
@@ -144,35 +144,35 @@ The Information • 8h ago
 
 Gecko Robotics CEO Jake Loosararian explains what the partnership aims to achieve.
 
-CNN • 57m ago
-
----
-
-**[Driverless Trucks Show How to Keep AI Robots From Killing Us](https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us)**
-
-Bloomberg.com • 12h ago
+CNN • 4h ago
 
 ---
 
 **[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
 
-Barchart.com • 9h ago
+Barchart.com • 13h ago
 
 ---
 
-**[How a character from ‘The Addams Family’ is shaping the future of robotics](https://www.fastcompany.com/91611631/eth-zurich-soft-robotocs-lab-robotic-hand)**
+**[Driverless Trucks Show How to Keep AI Robots From Killing Us](https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us)**
 
-Researchers from ETH Zurich designed a walking robotic hand.
-
-Fast Company • 12h ago
+Bloomberg.com • 16h ago
 
 ---
 
-**[A robot business reports 552 cumulative device sales and shipments and about $1.52 million in revenue](https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-upgrade-into-robotaxi-and-eai-rinc4asmcb7u.html)**
+**[One of AI's most influential researchers is joining AMD in an $8 billion deal](https://www.businessinsider.com/ai-pioneer-fei-fei-li-joining-amd-8-billion-deal-2026-9)**
 
-The proposed deal remains subject to definitive agreements and regulatory approvals. Management projects positive operating cash flow for the robotics business in Q3 2028.
+AMD is betting big on "world models" that could power robots, factories, and other physical AI systems. It's acquiring Fei-Fei Li's World Labs.
 
-stocktitan.net • 1h ago
+Business Insider • 4h ago
+
+---
+
+**[Pittsburgh firms involved in Nvidia effort to corral rogue AI agents](https://www.post-gazette.com/business/tech-news/2026/09/28/nvidia-skild-ai-gecko-robotic-open-ai-hugging-face-ai-horizons/stories/202609280034)**
+
+In response to global anxiety over rogue AI agents, Nvidia, the world’s leading chipmaker powering artificial intelligence, announced an effort...
+
+Pittsburgh Post-Gazette • 3m ago
 
 ---
 
@@ -180,7 +180,7 @@ stocktitan.net • 1h ago
 
 Robots – that is, self-guided mechanisms interacting with or changing their environments – exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that…
 
-New Atlas • 19h ago
+New Atlas • 23h ago
 
 ---
 
@@ -188,23 +188,13 @@ New Atlas • 19h ago
 
 ## YouTube Videos: "robotics"
 
-**[A robot rolls off assembly line every 2.5 minutes](https://www.youtube.com/watch?v=PwI4n58b7z0)**
+**[Real Steel Is Finally Here…in China 🇨🇳](https://www.youtube.com/watch?v=GTSXcCs-SJE)**
 
-Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: the Q1 and the T1. Take a look at the ...
+BUSINESS / COLLABORATIONS travisprice09@gmail.com Robot cage fighting is officially real. I went to China to ...
 
-📺 New China TV
+📺 Travis Leon
 
-👁️ 67K • 👍 36 • 💬 8 • ⏱️ 0:24 • 5d ago
-
----
-
-**[Human vs 6-Foot Terminator Robot](https://www.youtube.com/watch?v=mT6o_kNVZMc)**
-
-A human just went head-to-head with a 6-foot robot that looks straight out of Terminator Frankie landed some punches, but ...
-
-📺 Shorts_of_Crimson
-
-👁️ 6K • ⏱️ 0:24 • 6d ago
+👁️ 46K • 👍 695 • 💬 118 • ⏱️ 12:12 • 1d ago
 
 ---
 
@@ -214,7 +204,7 @@ Elon Musk says more than 1 billion humanoid robots could exist within the next 1
 
 📺 ejunky66
 
-👁️ 90K • 👍 1K • 💬 101 • ⏱️ 1:00 • 1d ago
+👁️ 95K • 👍 1K • 💬 103 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -224,17 +214,7 @@ Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the seco
 
 📺 Prime Insights
 
-👁️ 472K • 👍 4K • 💬 261 • ⏱️ 26:57 • 4d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 618K • 👍 18K • 💬 5K • ⏱️ 19:23 • 5d ago
+👁️ 479K • 👍 4K • 💬 261 • ⏱️ 26:57 • 4d ago
 
 ---
 
@@ -244,7 +224,7 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 87K • 👍 3K • 💬 285 • ⏱️ 13:48 • 4d ago
+👁️ 88K • 👍 3K • 💬 286 • ⏱️ 13:48 • 4d ago
 
 ---
 
@@ -254,27 +234,17 @@ He got REK-ed. After besting us in everything from track-and-field to medicine, 
 
 📺 New York Post
 
-👁️ 52K • 👍 462 • 💬 309 • ⏱️ 1:17 • 2d ago
+👁️ 54K • 👍 470 • 💬 312 • ⏱️ 1:17 • 2d ago
 
 ---
 
-**[Elon Musk’s BILLION Humanoid Robot Future — Curse or Blessing?](https://www.youtube.com/watch?v=Zk6yK6bFaEk)**
+**[I Upgraded My Son&#39;s LEGO Combiner Robot (3/3):Transformation and Combination](https://www.youtube.com/watch?v=vBpzEt_ANVY)**
 
-Elon Musk believes the future could have BILLIONS of humanoid robots — but how close are we really? Tesla's Optimus is being ...
+LEGO #legomoc #mech #ninjago ☆X(Twitter) https://twitter.com/mishima_prod ☆Instagram ...
 
-📺 ejunky66
+📺 Mishima Productions
 
-👁️ 68K • 👍 1K • 💬 165 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
-
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
-
-📺 America's Got Talent
-
-👁️ 753K • 👍 6K • 💬 707 • ⏱️ 4:18 • 5d ago
+👁️ 31K • 👍 814 • 💬 35 • ⏱️ 8:09 • 2d ago
 
 ---
 
@@ -284,7 +254,37 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 579K • 👍 6K • 💬 515 • ⏱️ 1:00 • 4d ago
+👁️ 624K • 👍 6K • 💬 530 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[The Police Robot Car Is Missing Its Siren🚔🚨Robot Car Song | Kids Songs &amp; Nursery Rhymes | Happy Song](https://www.youtube.com/watch?v=EU1IALLmGPM)**
+
+kidssongs #nurseryrhymes #babysongs #forkids #kidsvideos The Police Robot Car Is Missing Its Siren     Robot Car Song | Kids ...
+
+📺 Happy Songs
+
+👁️ 144K • 👍 509 • ⏱️ 16:51 • 3d ago
+
+---
+
+**[He Built a Robot to Play Air Hockey Against Him #shorts](https://www.youtube.com/watch?v=NuGZO_zrbrk)**
+
+Credit: from_scratch_yt on IG This isn't a normal air-hockey table. It's a DIY air-hockey robot designed to track the puck and move ...
+
+📺 GHOSTFACE COUNTRY
+
+👁️ 2K • 👍 18 • ⏱️ 0:07 • 3h ago
+
+---
+
+**[This 1-Gram Robot Can Control Every Jump 🤖 #robotics #tecj #innovation #shorts](https://www.youtube.com/watch?v=PO26dXX3oWc)**
+
+A 1-Gram Robot Can Now Choose Exactly How High It Jumps Meet DirectHop, a tiny hopping robot developed by engineers at ...
+
+📺 EcoZora
+
+👁️ 33K • 👍 166 • 💬 4 • ⏱️ 0:07 • 1d ago
 
 ---
 

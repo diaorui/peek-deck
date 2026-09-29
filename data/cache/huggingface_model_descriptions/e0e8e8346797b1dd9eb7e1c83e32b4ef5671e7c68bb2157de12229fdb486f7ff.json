@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-29T02:11:40.976518+00:00",
+  "data": "CLM-v0.1-8B is a text-ranking model based on Qwen3-8B, utilizing contrastive learning for state-action connection. It excels in zero-shot performance for agentic tasks with low latency and achieves state-of-the-art results when fine-tuned as a verifier for benchmarks like DeepSWE and Terminal-Bench.",
+  "model_id": "Contrastive-LM/CLM-v0.1-8B"
+}
