@@ -16,7 +16,7 @@
     },
     {
       "headline": "The cryptographic world computer",
-      "source": "Vitalik Buterin's website",
+      "source": "vitalik.eth.limo",
       "source_url": "https://vitalik.eth.limo",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXR3U2UzUUUwamRRM2x1azU5aTdpbFFMVGNMVDVhZi1jbG1SWlY5eWZNbjJDelZuM2l2SU5TY0dXQVVHbC1wd0hxTkJiTVZzTlMyWW9YYlhxVmVRcGxkbmZKYjdlX3RKa3NXcWV1ZTMweUxjaXR3Y3FEbU1MbldxSzR4b2dkNDE0?oc=5",
       "pub_date": 1790501985.0,
@@ -35,34 +35,14 @@
       "description": "The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over."
     },
     {
-      "headline": "Will Ethereum Hit $4,000 Before the End of 2026?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2tjc0dmR0tPUms2bXg1R1NETHVEc21kQW1ZSFo0U0t0OXFfREt5SjIyVnpjNWN4UDN4bHo3QlJ0SDVDaDRjU1BvZTZ5TzBSTEJNazdZZ0VFSzZFMTl1bUswamRzVUxJN0V0LUNDdmd0bU13NUJKYVFBODMxaTlHUmpuMVlYOXk4VU9pYkNuWmx0WnFYaF9xM3BzbmxRQU03ZVNQcVlGRQ?oc=5",
-      "pub_date": 1790611200.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-1977165767-huge-licensed-scaled.jpg",
-      "description": "Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?"
-    },
-    {
-      "headline": "A Former BlackRock Executive Calls Bitcoin an \u201cExit Asset\u201d and Ethereum \u201cthe New Rails.\u201d Bitwise Says the Opposite.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFF2Umc1T0pYZ0swWWVZcjRXdFNiZS1sdVNZS1VtMjc2MUs0cG9jZUYtaTZsNm1tdkx4SzQ2QXptWTV1T3BlX3ZYQVNONzVGY3hYd2NOWGVNS1k2TzhDTUJra0NzQWNTUWlfX2UxREVvMkVJc3ZPUkdIMkVBemdSaU9BdnNBWHlYWGFMTVU0QTVKekhSUFE0dk9uQmo3VTd3NmE3YkpDSWQ?oc=5",
-      "pub_date": 1790444994.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/871684492fb21623d3b0138bec220323bb15a8766a2c2bf823fc0211125611c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b099bf884daa9e57357a9aaa184e6b0.jpg",
-      "description": "A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call."
-    },
-    {
-      "headline": "Bitcoin vs Ethereum: Which Gets Back to Its All-Time High First?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXJOZ2djaUliRzRfSDhEalVfUnlYX2otN1ZEZzluaDF4WW90TEJwYzVhbWtFMmdwRG95MTRNTV96U1RWSlktNEZoY3ZiUkpaN1J0b3JFUU1QVU1OWU41WU9oWGlNcGpoYXhuX1lsUG9sOXZpRDFaa3dqVDVLM2x3V0lFWUUzY3pNVDFYMUpLYklXdGp0NmpoYVBWeEFfLVNtOGhJdVlETVJka21HQjNIWldDOG5Jdm5naXZQVzhR?oc=5",
-      "pub_date": 1790521020.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/bitcoin-vs-ethereum-which-gets-back-to-its-all-time-high-first/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/11/shutterstock-2054766317-medium-licensed.jpg",
-      "description": "Bitcoin needs a 49% gain to hit $126,080, while Ethereum needs 83% to reach $4,950. Bitcoin vs Ethereum, who will get there first?"
+      "headline": "This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZk9VWmR3cDZod05pajBjVFBMWktpaHFPMGE3YVpQZFp6SnFaVWZRLWppTFZJbXZfV0x1d0k1MHBrb056RHVNNmpTYndjMlNTZklWRFBudFpYTlNQOS11cHJjbWo4eFZCNjUwbUsyRXFjYVdhUjE1WlJvVmoxQWJNNzc1a3E0Z0k2NjdZQTJDVng?oc=5",
+      "pub_date": 1790624100.0,
+      "article_url": "https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888708%2Fa-visualization-of-a-blockchain.jpg&w=1200&op=resize",
+      "description": "NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz."
     },
     {
       "headline": "Tom Lee Says \u2018Stay Tuned\u2019 As Bitmine Nears 5% Ethereum Goal, Hints At What\u2019s Next",
@@ -95,16 +75,36 @@
       "description": "Crypto treasury companies continued to expand their digital-asset holdings last week, with BitMine Immersion Technologies (BMNR) crossing 6 million Ethereum (ETH) while Strategy (MSTR) and Strive (ASST) added to their Bitcoin (BTC) holdings.BitMine\u2019s Ethereum Stack Crosses 6 MillionBitMine said Mon\u2026"
     },
     {
-      "headline": "This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZk9VWmR3cDZod05pajBjVFBMWktpaHFPMGE3YVpQZFp6SnFaVWZRLWppTFZJbXZfV0x1d0k1MHBrb056RHVNNmpTYndjMlNTZklWRFBudFpYTlNQOS11cHJjbWo4eFZCNjUwbUsyRXFjYVdhUjE1WlJvVmoxQWJNNzc1a3E0Z0k2NjdZQTJDVng?oc=5",
-      "pub_date": 1790621097.0,
-      "article_url": "https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888708%2Fa-visualization-of-a-blockchain.jpg&w=1200&op=resize",
-      "description": "NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz."
+      "headline": "Will Ethereum Hit $4,000 Before the End of 2026?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2tjc0dmR0tPUms2bXg1R1NETHVEc21kQW1ZSFo0U0t0OXFfREt5SjIyVnpjNWN4UDN4bHo3QlJ0SDVDaDRjU1BvZTZ5TzBSTEJNazdZZ0VFSzZFMTl1bUswamRzVUxJN0V0LUNDdmd0bU13NUJKYVFBODMxaTlHUmpuMVlYOXk4VU9pYkNuWmx0WnFYaF9xM3BzbmxRQU03ZVNQcVlGRQ?oc=5",
+      "pub_date": 1790611200.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-1977165767-huge-licensed-scaled.jpg",
+      "description": "Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?"
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Slide While Dogecoin Gains as Trump Rejects Iran's Hormuz Proposal: Analyst Sees BTC Marching to $90,000 Levels if This Happens",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPYTA3ZGtnb19RNS1CVnkybjVZcmF5WFlQaFlKNFJKSUh1ZmRoTEEwcWpzNzRITEFxLVhRUzI0djVKVkJPbkhJa2cwZkM5SVNtSjBzbUVEWFpLbXBpV2pUc21hM1lZZzRyczRJVmJ0V290SDBWUWFGbkhBX19WcEFpZ3B5X1BBSUM1Q1lOYnFfUDdpMVVYenpZdUZiVnFvNERCdGFqOFAwdlM3YXZlbjYxS0paRUtNdXZIQS1zZXVtbHIwLTlQaWNUbXVvRG5Ta1R4VTREcUFjR0c4Zjd2MURaQmZWRl91dGRiZDhPTHZCZWhCenhyT0k0RG1uSEJ5T0w5eWwxUjhGX1JhY2FQSE8wWHpldDRoeGNqMU1BX1p1RzZvYWY0dXhyN1ZZZ21tUQ?oc=5",
+      "pub_date": 1790561340.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:b257c6473094b:0-bitcoin-ethereum-xrp-slide-while-dogecoin-gains-as-trump-rejects-iran-s-hormuz-proposal-analyst-sees-btc-marching-to-90-000-levels-if-this-happens/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies stagnated on Sunday as investors weighed ongoing U.S.-Iran negotiations alongside a series of anticipated macroeconomic data.Crypto Rally HaltsBitcoin slipped below $84,000 Sunday evening after briefly topping $85,000 earlier in the day. Ethereum wobbled between $2,667 and\u2026"
+    },
+    {
+      "headline": "New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNm52X3hZcWpkanBBa0hkenczVUR2blR6U1p1empBLWQzVzNkdXZRLUpZQUFFak5GdGJsMXl6NHppQ1Yza1JzR3JTaWV6OVQwdWJuLW1ZdVlGNFd3eVp0NzZYVVhXR19PeThWbTR0LURfNVZyVUVoYTE1Y3RyczExWDBoV082X0padlc1amMwOVRadm91TVFQU25qX0dvNHpiTi1VSEY0OFVuYXh3VVJFUmxwWUxOR3hqLTZHZmtKdUhnVlNtTDBZaGRQYmlGZFFWS3lPOTI2aUdoWTNfTmYxMS0yWXY5LTZwcVRDUXVtdU5NbzdGcklvaUlqdw?oc=5",
+      "pub_date": 1790534024.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-releases-rtx-launch-date-as-ethereum-price-prediction-targets-18k-and-whale-buying-grows-1036576438",
+      "image": "https://ml.globenewswire.com/Resource/Download/310648e0-af50-4db8-997d-c26cdadc21f1/remittix.png",
+      "description": "MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-28T22:25:51.831095+00:00"
+  "fetched_at": "2026-09-29T02:11:18.457907+00:00"
 }
