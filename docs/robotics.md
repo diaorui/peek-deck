@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-29T20:08:48.472748+00:00'
+updated: '2026-09-29T23:53:40.516008+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 29, 2026 at 20:08 UTC  
+**Last Updated:** September 29, 2026 at 23:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group.
 
-Business Insider • 11h ago
+Business Insider • 14h ago
 
 ---
 
@@ -124,33 +124,17 @@ The Information • 1d ago
 
 ---
 
-**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/)**
-
-Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
-
-Defense News • 5h ago
-
----
-
-**[Kremlin Denies Orchestrating Arson Attack at Estonian Robotics Plant](https://www.themoscowtimes.com/2026/09/29/kremlin-denies-orchestrating-arson-attack-at-estonian-robotics-plant-a93815)**
-
-The Kremlin has denied accusations that it was behind a fire that broke out at a military robotics plant in Estonia last month.
-
-The Moscow Times • 9h ago
-
----
-
-**[Russia Ordered Arson Attack on Estonia’s Milrem Robotics Defense Company, Authorities Say](https://united24media.com/world/russia-ordered-arson-attack-on-estonias-milrem-robotics-defense-company-authorities-say-22943)**
-
-Estonian authorities say Russian intelligence ordered the August 15 arson at Milrem Robotics, a Tallinn defense company supporting Ukraine’s unmanned vehicles.
-
-UNITED24 Media • 10h ago
-
----
-
 **[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
 
-Forbes • 4h ago
+Forbes • 8h ago
+
+---
+
+**[Would you pay for this robot to clean your house?](https://www.bbc.com/news/videos/c6lyq52wx7dko)**
+
+Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning.
+
+BBC • 3h ago
 
 ---
 
@@ -158,29 +142,45 @@ Forbes • 4h ago
 
 Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
 
-Euronews.com • 15h ago
+Euronews.com • 19h ago
 
 ---
 
-**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
+**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/)**
 
-The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
+Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
 
-NASA (.gov) • 1d ago
-
----
-
-**[Norfolk Iron & Metal supports industrial automation and robotics lab](https://norfolkdailynews.com/news/norfolk-iron-metal-supports-industrial-automation-and-robotics-lab/article_651f2687-9ae9-4727-ada4-3a148c8e5d22.html)**
-
-One of the new Northeast iHub’s standout spaces for area manufacturers is the industrial automation and robotics lab, sponsored by Norfolk Iron &amp; Metal.
-
-The Norfolk Daily News • 1d ago
+defensenews.com • 9h ago
 
 ---
 
 **[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
 
 Barchart.com • 1d ago
+
+---
+
+**[China’s robot store boom brings robots closer to consumers as industry accelerates commercialization: experts](https://www.globaltimes.cn/page/202609/1371586.shtml)**
+
+Robots are moving out of laboratories and exhibition halls and into shopping malls and commercial streets across China. As more Chinese robotics companies open brick and mortar stores, ordinary consumers can now not only see and interact with robots up close, but even buy them directly.
+
+Global Times • 8h ago
+
+---
+
+**[Powered by muscle cells, a paper-thin robot swims through watery maze](https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929)**
+
+MIT engineers developed a soft robot that can flap through water in response to flashes of light. The aquabot is lined with muscle cells that twitch when illuminated, enabling the robot to swim a distance of about four times its body length in one minute.
+
+MIT News • 19h ago
+
+---
+
+**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
+
+The World Humanoid Games were actually a social experiment in the making.
+
+Slate • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ A humanoid robot store in Hong Kong offers a glimpse of the future—and a remin
 
 📺 DW News
 
-👁️ 118K • 👍 525 • 💬 220 • ⏱️ 3:46 • 17h ago
+👁️ 130K • 👍 563 • 💬 235 • ⏱️ 3:46 • 20h ago
 
 ---
 
@@ -208,33 +208,23 @@ Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: t
 
 ---
 
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
+
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
+
+📺 Innovation Core
+
+👁️ 121K • 👍 886 • 💬 99 • ⏱️ 21:02 • 1d ago
+
+---
+
 **[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
 Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
 📺 World Best Talent
 
-👁️ 803K • 👍 4K • 💬 265 • ⏱️ 25:31 • 3d ago
-
----
-
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
-
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
-
-📺 ejunky66
-
-👁️ 734K • 👍 8K • 💬 605 • ⏱️ 1:00 • 5d ago
-
----
-
-**[1,000,000,000 Humanoid Robots Elon Musk Predicts … Is Transhumanism Next? 😱](https://www.youtube.com/watch?v=Ijl-w8CYZ0Q)**
-
-Elon Musk has made a staggering prediction about the future of humanoid robots and Transhumanism: a world where billions of ...
-
-📺 ejunky66
-
-👁️ 171K • 👍 2K • 💬 255 • ⏱️ 1:00 • 4d ago
+👁️ 853K • 👍 4K • 💬 286 • ⏱️ 25:31 • 3d ago
 
 ---
 
@@ -248,23 +238,13 @@ Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A 
 
 ---
 
-**[Optimus Gen 3 AI Robot Is Way More Insane Than Expected](https://www.youtube.com/watch?v=nOVgM-C8Yy0)**
+**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
 
-Tesla Optimus Gen 3 may have just leaked inside Tesla's own app, revealing a dramatically more finished gold-and-black design ...
+The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
 
-📺 MACHINEKIND
+📺 Future Files
 
-👁️ 2K • 👍 44 • 💬 4 • ⏱️ 13:03 • 19h ago
-
----
-
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
-
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
-
-📺 MindSeeded
-
-👁️ 90K • 👍 4K • 💬 287 • ⏱️ 13:48 • 5d ago
+👁️ 321K • 👍 2K • 💬 64 • ⏱️ 24:25 • 3d ago
 
 ---
 
@@ -274,17 +254,37 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 761K • 👍 6K • 💬 712 • ⏱️ 4:18 • 6d ago
+👁️ 762K • 👍 6K • 💬 713 • ⏱️ 4:18 • 6d ago
 
 ---
 
-**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
-Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+
+📺 MindSeeded
+
+👁️ 91K • 👍 4K • 💬 288 • ⏱️ 13:48 • 5d ago
+
+---
+
+**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
+
+Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
 
 📺 ejunky66
 
-👁️ 109K • 👍 1K • 💬 124 • ⏱️ 1:00 • 2d ago
+👁️ 758K • 👍 8K • 💬 618 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+
+📺 Julia McCoy
+
+👁️ 15K • 👍 275 • 💬 34 • ⏱️ 6:10 • 4d ago
 
 ---
 

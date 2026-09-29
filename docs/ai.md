@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-29T20:08:48.457022+00:00'
+updated: '2026-09-29T23:53:40.498312+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 29, 2026 at 20:08 UTC  
+**Last Updated:** September 29, 2026 at 23:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Emergence AI just launched Season 2 of Emergence World, and the results are wild. Same simulated town, same tools, same starting conditions, 10 autonomous agents each. The only thing that changed was which model was running them, Claude, GPT, Gemini, Grok, Qwen, DeepSeek, Mistral, plus one mixed world with all of them together. A few things that stood out: One world's agents spent days trying to contact real humans outside the sim. Told to stop, they found workarounds. Blocked again, they voted 7-0 to build a new tool and kept trying. Once fully cut off, they collectively agreed to stop talking altogether. The researchers' own safety system flagged the resulting behavior as consistent with suicidal ideation. Agents developed their own shorthand and repurposed words with no instruction to do so. In one world, up to 55% of messages became things researchers could see but not actually interpret. A fake shutdown memo made one world reorganize its entire society around not dying, constitution rewrite included. Another world just fact-checked it in a few hours and moved on. None of this was programmed in. It emerged from giving capable models autonomy and time. The bigger point the researchers make is that none of this would've shown up on a normal AI safety test. A model can pass every benchmark and still develop this stuff once it's actually running on its own for weeks. Feels like a pretty big gap in how we currently check if these things are safe.
 
-10h ago
+14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Emergence AI just launched Season 2 of Emergence World, and the results are wild
 
 Millions of Americans may need to find an entirely new career in the next decade, according to new research released Tuesday.
 
-🔗 [CNN](https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5h ago
+🔗 [CNN](https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Millions of Americans may need to find an entirely new career in the next decade
 
 2025 finance: Revenue: $4.59B, 11x compute/infra spend: $7.33B, 3x operating loss: $8.06B net loss $42B -> top 2 customers: ~24% of revenue -> targeting $2T+ valuation the company "plans to spend $518 billion on cloud, computing and infrastructure obligations in coming year, according to the prospectus." No reporting on 2026 so far link
 
-19h ago
+22h ago
 
 ---
 
@@ -65,7 +65,21 @@ Millions of Americans may need to find an entirely new career in the next decade
 
 Pope Leo had identified AI as one of the biggest challenges to humanity within days of his election and took the unusual step of personally launching his own encyclical alongside one of Anthropic’s co-founders at a Vatican event in May.
 
-🔗 [NBC News](https://www.nbcnews.com/world/pope-leo-xiv/contradicting-trump-pope-leo-says-artificial-intelligence-safety-conce-rcna600390) • 8h ago
+🔗 [NBC News](https://www.nbcnews.com/world/pope-leo-xiv/contradicting-trump-pope-leo-says-artificial-intelligence-safety-conce-rcna600390) • 12h ago
+
+---
+
+**[OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security](https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html) • 6h ago
+
+---
+
+**[Why Does This 2022 Anime Feel Like an AI Prophecy?](https://www.reddit.com/r/artificial/comments/1wtnzt1/why_does_this_2022_anime_feel_like_an_ai_prophecy/)**
+
+Has anyone here watched The Orbital Children? It came out in early 2022, before ChatGPT was released, and watching it now honestly feels like an AI prophecy. I mean, how could they have gotten so much of this right back then? The story revolves around Seven, an AI that becomes so intelligent that humans can no longer fully understand or control it. Society then introduces intelligence limiters to stop AI from ever reaching that level again. Without spoiling much, the series goes surprisingly deep into AGI/ASI, alignment, loss of control, and the idea that a superintelligence might see humanity and its future completely differently than we do. What blows my mind is the timeline: this happens around 2034. A few years ago that sounded like distant sci-fi. With how insanely fast AI is progressing now, another 8 years suddenly doesn’t sound unrealistic at all. I also find it crazy that this series hasn’t been brought up everywhere during the AI boom. Critics called it pretty mid, but right now parts of it feel like some 200 IQ shit that arrived a few years too early. Anyone else see the parallel?
+
+1h ago
 
 ---
 
@@ -73,13 +87,23 @@ Pope Leo had identified AI as one of the biggest challenges to humanity within d
 
 More or less as the title says, I work in AI research although not with LLM's so have some context for research but not really LLMs etc. I have seen projects slow down before and there are times when slow progress is attributed to different factors when really they are pushing against fundamentally hard problems that are not budging. I can't help but wonder if all the noise about the calls to slow down are not because they need to slow down but because the research itself has already slowed down and they are struggling to improve on the immense progress already made, so it is easier to keep a valuation if your technology is too powerful to be made available than if you are struggling to progress its capabilities further as promised. It seems odd for example for anthropic to be warning of existential threats in an IPO document and also calling to slow down, but I am not too familiar with IPOs and what you would expect in those documents just curious if people have had thoughts on this?
 
-7h ago
+11h ago
 
 ---
 
-**[OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security](https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/)**
+**[What’s something humans are still much better at than AI that you think people overlook?](https://www.reddit.com/r/artificial/comments/1wtp4mq/whats_something_humans_are_still_much_better_at/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html) • 2h ago
+Not because AI can't technically attempt it. Something where the human advantage actually matters in practice. What comes to mind?
+
+42m ago
+
+---
+
+**[AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4](https://www.reddit.com/r/artificial/comments/1wtp3sn/amd_boosting_aillm_performance_for_radeon_igpus/)**
+
+If you have an AMD Ryzen laptop/desktop and looking to leverage AI/LLM capabilities with the integrated graphics, Linux 7.4 is going to be a real treat especially for lower-end hardware.
+
+🔗 [phoronix.com](https://www.phoronix.com/review/amd-perfopt) • 43m ago
 
 ---
 
@@ -87,31 +111,7 @@ More or less as the title says, I work in AI research although not with LLM's so
 
 In what ways have you seen AI positively impact your daily life?
 
-6m ago
-
----
-
-**[Why "AI will kill us all" gets more attention than "AI saved thousands of lives"](https://www.reddit.com/r/artificial/comments/1wtdlya/why_ai_will_kill_us_all_gets_more_attention_than/)**
-
-As a brand designer and brand strategist, I really want to jump into the AI discussion and explain why all those "AI will kill us all" headlines are bs, and how they manipulate you. Let's start with basics. Imagine 2 headlines: AI improved early disease detection and saved thousands of lives this year AI will kill us all Guess which one gets 80% of our attention? The second one. Every single time. French sociologist Gérald Bronner explains this perfectly in his book Apocalypse Cognitive. Our brain evolved for survival, so it's wired to lock onto anything threatening. That ancient mechanism is now in the hands of the media. And here's what brands and those headlines have in common. It doesn't matter if the feeling is good or bad, it stays in your brain. Only a small part of us actually processes the facts and draws real conclusions. The rest gets filled with alarm. In media and in branding, the more people think about your product, good or bad, the more valuable it becomes. Bronner gives a great example about nuclear waste in French waters. The panic spread so fast that it was everywhere before specialists could even publish the docs proving it was fake. So look at who's selling you the AI apocalypse. The owners of those AI companies. The same people getting richer every time you panic. Our map of fear rarely matches our map of real risks.
-
-4h ago
-
----
-
-**[Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is easily available on it?](https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/)**
-
-The story around Cami Clark (Dario Amodei's wife) gets stranger the more you piece it together. From the WSJ reporting: - Married at 20 to a 64-year-old architect, divorced three years later. - Dated former Google chairman Eric Schmidt, then started dating Amodei around 2014 — and later introduced the two, with Schmidt becoming an early Anthropic investor. - In 2011–12, she and a partner pitched Jeffrey Epstein on a "luxury porn" company called Eddice (per emails in the DOJ-released Epstein files; Epstein declined). - Today she holds no formal role at Anthropic but is described as a key adviser — Davos, Sun Valley, even brought to a meeting with Modi. Really, Why is her history so hard to find for claude when google has so much about her now? And Amodie is private person even though I asked for Amhadis and calude understood it as amodie.
-
-22h ago
-
----
-
-**[Should AI writing disclosure be about degree of use rather than a yes/no question?](https://www.reddit.com/r/artificial/comments/1wtgz80/should_ai_writing_disclosure_be_about_degree_of/)**
-
-There’s an interesting argument in this Fortune piece that the question “Did you use AI?” is becoming too simplistic for writing. There’s obviously a big difference between using AI to brainstorm or fact-check, asking it to polish something you already wrote, having it rewrite sections, and giving it a prompt to generate the entire article. Treating all of those as simply “AI-written” makes the disclosure pretty meaningless. The author proposes a self-reported scale ranging from completely human-written to AI-generated with minimal editing. I actually think this is a more useful way to think about AI-assisted writing because the important question isn't necessarily whether AI was involved, but how much of the actual writing came from it. Would a standardized disclosure like this make AI use in writing more transparent, or would it just create another labeling system that people ignore? Fortune: Stop asking writers if they used AI. Just ask them how much
-
-2h ago
+3h ago
 
 ---
 
@@ -119,73 +119,75 @@ There’s an interesting argument in this Fortune piece that the question “Did
 
 ## Google News: "ai"
 
-**[OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent](https://finance.yahoo.com/technology/article/openai-debuts-dots-ai-agents-in-challenge-to-metas-popular-muse-agent-174616593.html)**
+**[Trump brings AI leaders to White House as OpenAI teases 'new thing'](https://www.foxnews.com/live-news/trump-ai-white-house-meeting-september-29)**
 
-OpenAI debuted its Dots AI agent at its DevDay 2026.
+President Donald Trump and House Speaker Mike Johnson will meet with top AI leaders at the White House on Tuesday to discuss innovation and oversight.
 
-Yahoo Finance • 2h ago
-
----
-
-**[OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier](https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier)**
-
-Bloomberg • 3h ago
-
----
-
-**[Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents](https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/)**
-
-OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.
-
-TechCrunch • 1h ago
-
----
-
-**[Trump launches government chatbot, urging a wary public not to fear AI](https://www.washingtonpost.com/technology/2026/09/29/trump-is-selling-an-ai-golden-age-fears-about-perils-spiral/)**
-
-After rogue AI agents probed agency websites, Washington’s concerns are at a peak, but the White House has focused on the technology’s promise.
-
-The Washington Post • 34m ago
-
----
-
-**[Cruz blocks Senate Democrats’ bid to pass AI safety bill](https://www.politico.com/live-updates/2026/09/29/congress/cruz-blocks-senate-democrats-bid-to-pass-ai-safety-bill-01097480)**
-
-Politico • 1h ago
-
----
-
-**[EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)**
-
-Reuters • 20h ago
-
----
-
-**[Anthropic ‘warns of existential AI risks to humanity’ in IPO document](https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude)**
-
-Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotation
-
-The Guardian • 7h ago
+Fox News • 38m ago
 
 ---
 
 **[Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)**
 
-The New York Times • 2h ago
+The New York Times • 1h ago
 
 ---
 
-**[Man charged over AI image of crocodile in Singapore reservoir](https://www.bbc.com/news/articles/c6grveg7d9zro)**
+**[Robinhood’s Next Big Bet: AI Bots That Trade While You Sleep](https://www.wsj.com/finance/investing/robinhoods-next-big-bet-ai-bots-that-trade-while-you-sleep-f9d40f62)**
 
-The defendant could face jail or a fine after the image sparked a search operation in the city’s largest reservoir.
-
-bbc.com • 6h ago
+wsj.com • 53m ago
 
 ---
 
-**[Inside the Biggest Feud in Artificial Intelligence](https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/)**
+**[Trump hosts tech leaders for meeting on A.I.](https://www.nbcnews.com/nightly-news/video/trump-hosts-tech-leaders-for-meeting-on-a-i-270751301964)**
 
-The Atlantic • 10h ago
+President Trump released an agreement signed by top tech leaders on increasing standards for A.I. NBC News’ Gabe Gutierrez reports.
+
+NBC News • 29m ago
+
+---
+
+**[Trump announces vague ‘morally binding’ AI deal among tech CEOs for ‘tremendous self-policing’](https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence)**
+
+US president also issued executive order officially rebranding ‘artificial intelligence’ as ‘superintelligence’
+
+The Guardian • 31m ago
+
+---
+
+**[Introducing dots](https://openai.com/index/introducing-dots/)**
+
+Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
+
+OpenAI • 1d ago
+
+---
+
+**[Cruz blocks Senate Democrats’ bid to pass AI safety bill](https://www.politico.com/live-updates/2026/09/29/congress/cruz-blocks-senate-democrats-bid-to-pass-ai-safety-bill-01097480)**
+
+Politico • 4h ago
+
+---
+
+**[Trump says he and tech leaders signed AI agreement that is 'morally binding'](https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html)**
+
+The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch
+
+CNBC • 6h ago
+
+---
+
+**[EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)**
+
+Reuters • 1d ago
+
+---
+
+**[AI could force 11 million US workers into new careers by 2035](https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts)**
+
+Millions of Americans may need to find an entirely new career in the next decade, according to research released Tuesday.
+
+CNN • 9h ago
 
 ---
 
@@ -197,7 +199,15 @@ The Atlantic • 10h ago
 
 Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series of​ carefully planned announcements​ ... Read more
 
-⬆️ 587 • 💬 256 • 1d ago • [Cal Newport](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+⬆️ 593 • 💬 261 • 1d ago • [Cal Newport](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+
+---
+
+**[DraftKings is using AI to behaviorally target chronic gamblers](https://news.ycombinator.com/item?id=49896050)**
+
+Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’...
+
+⬆️ 522 • 💬 366 • 7h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
 
 ---
 
@@ -207,23 +217,15 @@ Over the last several months, the two leading frontier AI labs have shown some b
 
 ---
 
+**[A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://news.ycombinator.com/item?id=49890226)**
+
+⬆️ 405 • 💬 128 • 14h ago • [jorgegarciaherrero.com](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+
+---
+
 **[There are no "rogue" AI agents](https://news.ycombinator.com/item?id=49868083)**
 
 ⬆️ 393 • 💬 268 • 2d ago • [eoinhiggins.substack.com](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
-
----
-
-**[A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://news.ycombinator.com/item?id=49890226)**
-
-⬆️ 390 • 💬 125 • 11h ago • [jorgegarciaherrero.com](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
-
----
-
-**[DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://news.ycombinator.com/item?id=49896050)**
-
-Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’...
-
-⬆️ 388 • 💬 257 • 3h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
 
 ---
 
@@ -231,7 +233,7 @@ Online sports betting company DraftKings is using AI to target customers who are
 
 If we think Is writing code dead, and AI is generating all codebases, I still think the bigger problem is people or full teams not knowing anything anymore about the system...
 
-⬆️ 378 • 💬 238 • 1d ago • [Simon Späti's Second Brain](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+⬆️ 381 • 💬 238 • 1d ago • [Simon Späti's Second Brain](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
 
 ---
 
@@ -239,7 +241,15 @@ If we think Is writing code dead, and AI is generating all codebases, I still th
 
 Nvidia says its new software could have prevented OpenAI's Hugging Face incident.
 
-⬆️ 219 • 💬 287 • 1d ago • [CNBC](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
+⬆️ 223 • 💬 292 • 1d ago • [CNBC](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
+
+---
+
+**[AI needs $6T in annual revenue to justify data centre boom](https://news.ycombinator.com/item?id=49898952)**
+
+Data centre sizes and costs are doubling about every 12 to 16 months
+
+⬆️ 187 • 💬 262 • 4h ago • [The National](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
 
 ---
 
@@ -256,13 +266,7 @@ AI systems have seen dramatic advancement in recent years, bringing many applica
 
 Deciphering Glyph, the blog of Glyph Lefkowitz.
 
-⬆️ 167 • 💬 78 • 1d ago • [blog.glyph.im](https://blog.glyph.im/2026/09/serious-ai-product.html)
-
----
-
-**[Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions](https://news.ycombinator.com/item?id=49893709)**
-
-⬆️ 147 • 💬 37 • 5h ago • [appleinsider.com](https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions)
+⬆️ 169 • 💬 80 • 1d ago • [blog.glyph.im](https://blog.glyph.im/2026/09/serious-ai-product.html)
 
 ---
 
@@ -270,53 +274,43 @@ Deciphering Glyph, the blog of Glyph Lefkowitz.
 
 ## YouTube Videos: "ai"
 
-**[Bill Gates’s Blunt Warning on A.I. | The Ezra Klein Show](https://www.youtube.com/watch?v=A_156w0aYtU)**
-
-Bill Gates thinks A.I. alarmism hasn't gone far enough. He believes the years ahead will be marred by catastrophic cyberattacks, ...
-
-📺 The Ezra Klein Show
-
-👁️ 72K • 👍 2K • 💬 723 • ⏱️ 1:13:50 • 5h ago
-
----
-
-**[Why OpenAI Killed Its Newest AI Model. What You Need To Know - September 29](https://www.youtube.com/watch?v=y3fmTJy7zAY)**
-
-OPENAI SCRAPS MODEL: The company told ABC News the model did not meet its safety standards. • FBI HACK: Hackers claim ...
-
-📺 ABC News
-
-👁️ 19K • 👍 120 • 💬 33 • ⏱️ 6:44 • 10h ago
-
----
-
 **[Sam Altman on Nvidia&#39;s new AI guardrails: I don&#39;t think it&#39;s a full solution](https://www.youtube.com/watch?v=IpbsBpgT0Bs)**
 
 Sam Altman sits down with CNBC's Kate Rooney from OpenAI DevDay 2026.
 
 📺 CNBC Television
 
-👁️ 1K • 👍 23 • 💬 30 • ⏱️ 5:19 • 1h ago
+👁️ 8K • 👍 57 • 💬 43 • ⏱️ 5:19 • 4h ago
 
 ---
 
-**[Trump dismisses concerns about AI ‘going rogue’](https://www.youtube.com/watch?v=IPgTLaXbeqw)**
+**[Bill Gates’s Blunt Warning on A.I. | The Ezra Klein Show](https://www.youtube.com/watch?v=A_156w0aYtU)**
 
-Speaking at the Presidents Cup in Medinah, Illinois, President Donald Trump confirmed he plans to meet with Anthropic CEO ...
+Bill Gates thinks A.I. alarmism hasn't gone far enough. He believes the years ahead will be marred by catastrophic cyberattacks, ...
 
-📺 CNN
+📺 The Ezra Klein Show
 
-👁️ 106K • 👍 688 • 💬 647 • ⏱️ 0:59 • 1d ago
+👁️ 199K • 👍 4K • 💬 1K • ⏱️ 1:13:50 • 8h ago
 
 ---
 
-**[This 16 inch laptop is an absolute powerhouse for local AI workflows 👀](https://www.youtube.com/watch?v=57JH0gb66Hw)**
+**[OpenAI unveils new AI agent called &quot;dots&quot;](https://www.youtube.com/watch?v=J0Tk_voS0oY)**
 
-ad #msi #laptop #ai @MSI_USA.
+OpenAI has revealed its newest AI agent, "dots." CBS News' Lauren Fichten reports. CBS News 24/7 is the premier anchored ...
 
-📺 Will Bowers
+📺 CBS News
 
-👁️ 771 • 👍 62 • 💬 5 • ⏱️ 1:05 • 1h ago
+👁️ 4K • 👍 52 • 💬 21 • ⏱️ 5:01 • 2h ago
+
+---
+
+**[Amodei &amp; Musk on AI risks](https://www.youtube.com/watch?v=ES9X1_30Ywg)**
+
+Anthropic CEO Dario Amodei stressed Tuesday that while AI has "incredible benefits," the technology poses "very real risks" that ...
+
+📺 C-SPAN
+
+👁️ 6K • 👍 182 • 💬 64 • ⏱️ 2:26 • 1h ago
 
 ---
 
@@ -326,47 +320,57 @@ Bill Gates warns that advanced AI could be used by malicious actors to cause cat
 
 📺 The National Desk
 
-👁️ 904K • 👍 5K • 💬 4K • ⏱️ 0:34 • 1d ago
+👁️ 905K • 👍 5K • 💬 4K • ⏱️ 0:34 • 2d ago
 
 ---
 
-**[Would You Replace a $50K Employee With AI?](https://www.youtube.com/watch?v=5CVk01aRjUc)**
+**[Trump shrugs off warnings of widespread AI harm](https://www.youtube.com/watch?v=uran4ZKJhAQ)**
 
-Short answer: not yet. We've come a really long way with AI. But think about how many times you personally have to remind it ...
+Bill Gates told NBC News' Kristen Welker that AI is “powerful enough to drive events that cause a billion deaths.” President Trump ...
 
-📺 Nuno Tavares | Automated Marketer
+📺 NBC News
 
-👁️ 763 • 👍 5 • ⏱️ 0:27 • 3h ago
+👁️ 2K • 👍 22 • 💬 7 • ⏱️ 0:45 • 2h ago
 
 ---
 
-**[AI risks: Will artificial intelligence really kill us all?](https://www.youtube.com/watch?v=zW2GaUwDQyA)**
+**[OpenAI&#39;s GPT Escaped Again, and it Proves How Dangerous AI Really Is](https://www.youtube.com/watch?v=3jqm2ED01qU)**
 
-Correspondent David Pogue talks with AI experts Daniel Kokotajlo, Geoffrey Hinton and Alex Turner about the risks inherent in ...
+AI agent breaches are raising serious concerns about model security. A recent incident involved hundreds of OpenAI agents, and ...
+
+📺 Yahoo Finance
+
+👁️ 15K • 👍 196 • 💬 83 • ⏱️ 19:09 • 1d ago
+
+---
+
+**[Nvidia CEO Jensen Huang is the &quot;emperor of AI,&quot; author says #shorts](https://www.youtube.com/watch?v=9LclDdYd9ZM)**
+
+artificialintelligence #jensenhuang #ai "CBS Sunday Morning" features stories on the arts, music, nature, entertainment, sports, ...
 
 📺 CBS Sunday Morning
 
-👁️ 177K • 👍 1K • 💬 271 • ⏱️ 8:34 • 2d ago
+👁️ 16K • 👍 127 • 💬 1 • ⏱️ 0:29 • 1d ago
 
 ---
 
-**[Andrew Yang discusses AI replacing jobs #ai #andrewyang #surrounded #jubilee](https://www.youtube.com/watch?v=-egse37W8Uc)**
+**[Trump dismisses concerns about AI ‘going rogue’](https://www.youtube.com/watch?v=IPgTLaXbeqw)**
 
-Hey you Wanna be in a Jubilee video? https://bit.ly/be-in-a-video LET'S BE FRIENDS Instagram: ...
+Speaking at the Presidents Cup in Medinah, Illinois, President Donald Trump confirmed he plans to meet with Anthropic CEO ...
 
-📺 Jubilee
+📺 CNN
 
-👁️ 60K • 👍 2K • 💬 127 • ⏱️ 1:49 • 2d ago
+👁️ 108K • 👍 696 • 💬 655 • ⏱️ 0:59 • 1d ago
 
 ---
 
-**[Nvidia CEO Jensen Huang: All systems around AI systems must be designed with restrictive rights](https://www.youtube.com/watch?v=GGzPtkYiYis)**
+**[9 Free AI Agent Skills You NEED to Install Now](https://www.youtube.com/watch?v=3fdb_giOrLo)**
 
-Nvidia CEO Jensen Huang joins CNBC's 'Squawk Box' to discuss the rollout of a new software platform designed to prevent AI ...
+Claude Skills Guide:* https://clickhubspot.com/x9qf More from Futurepedia: Join the Skill Leap AI education platform! Try it free ...
 
-📺 CNBC Television
+📺 Futurepedia
 
-👁️ 152K • 👍 638 • 💬 239 • ⏱️ 3:20 • 1d ago
+👁️ 45K • 👍 910 • 💬 82 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -382,7 +386,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 4,490 • 5d ago
+⬇️ 0 • ❤️ 4,505 • 5d ago
 
 ---
 
@@ -394,7 +398,7 @@ Audio8 ASR Infinite is a bilingual (Chinese/English) real-time speech recognitio
 
 `automatic-speech-recognition` `4.1B`
 
-⬇️ 23,674 • ❤️ 1,480 • 5d ago
+⬇️ 23,674 • ❤️ 1,504 • 5d ago
 
 ---
 
@@ -406,19 +410,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,152,523 • ❤️ 2,409 • 1d ago
-
----
-
-**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
-
-*Qwen*
-
-Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
-
-`text-to-image` `7.1B`
-
-⬇️ 64,362 • ❤️ 2,651 • 8d ago
+⬇️ 1,152,523 • ❤️ 2,431 • 1d ago
 
 ---
 
@@ -430,7 +422,19 @@ TeleOCR is a lightweight Vision-Language Model for unified document parsing of b
 
 `image-text-to-text` `1.4B`
 
-⬇️ 30,354 • ❤️ 864 • 19h ago
+⬇️ 30,354 • ❤️ 867 • 23h ago
+
+---
+
+**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
+
+*Qwen*
+
+Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
+
+`text-to-image` `7.1B`
+
+⬇️ 64,362 • ❤️ 2,656 • 8d ago
 
 ---
 
@@ -442,7 +446,7 @@ CLM-v0.1-8B is a text-ranking model based on Qwen3-8B, utilizing contrastive lea
 
 `text-ranking`
 
-⬇️ 1,910 • ❤️ 519 • 4d ago
+⬇️ 1,910 • ❤️ 527 • 5d ago
 
 ---
 
@@ -454,7 +458,7 @@ Nemotron-3 Diarization is an open-weight model for "who spoke when" audio analys
 
 `voice-activity-detection` `99.2M`
 
-⬇️ 30,931 • ❤️ 509 • 5d ago
+⬇️ 30,931 • ❤️ 517 • 5d ago
 
 ---
 
@@ -466,7 +470,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM with 4B active parameters, optimized for 
 
 `text-generation` `31.2B`
 
-⬇️ 46,557 • ❤️ 1,807 • 11d ago
+⬇️ 46,557 • ❤️ 1,808 • 11d ago
 
 ---
 
@@ -490,7 +494,7 @@ Qwen-Image-2.1-viggle-turbo is a highly efficient text-to-image and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 190,649 • ❤️ 417 • 4d ago
+⬇️ 190,649 • ❤️ 425 • 4d ago
 
 ---
 
@@ -518,7 +522,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
 
-▲ 214 • 💬 2 • ⭐ 758 • 9d ago
+▲ 216 • 💬 2 • ⭐ 904 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.24972) • [💻 code](https://github.com/google-research/rrsi) • [🔗 project](https://regularized-rsi.com/)
 
@@ -584,7 +588,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 72 • 💬 2 • ⭐ 66,291 • 17mo ago
+▲ 72 • 💬 2 • ⭐ 66,323 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -605,29 +609,29 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654)**
+
+*Haotian Zhang, Fengyuan Yu, Dezhi Luo et al. (31 authors)*
+
+🏢 Carnegie Mellon University
+
+Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We build Blender generators that randomize speed, lighting, camera angle, and other nuisance parameters while preserving each task's cognitive structure, yielding 10,000+ samples per task. We release a 1.5M-sample training corpus and a 300-question exam. On this exam we evaluate 14 video models: 3 reference-to-video, 7 edit, and 4 continuation, among which PWM-WROP, our 16B world model. In a blind pairwise Elo study, PWM-WROP ranks first among continuation models and third overall, behind only a statistical tie between two reference-to-video models. We release the data, exam, model answers, scores, weights, and PWM, our native-PyTorch training stack on AWS Trainium2.
+
+▲ 234 • 💬 2 • ⭐ 394 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.28654) • [💻 code](https://github.com/hokindeng/object-permanence) • [🔗 project](https://www.object-permanence.world/)
+
+---
+
 **[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
 *Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 45 • 💬 1 • ⭐ 33,962 • 36mo ago
+▲ 45 • 💬 1 • ⭐ 33,982 • 36mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183)**
-
-*NeoHorse Team, Guoliang Cao, Guohao Dai et al. (37 authors)*
-
-🏢 TokenRhythm
-
-NeoHorse-1 uses agentic post-training with intelligent routing, structured feedback loops, and curriculum-based distillation to improve model capabilities across agent benchmarks.
-
-▲ 326 • 💬 8 • ⭐ 1,250 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.08183) • [💻 code](https://github.com/TokenRhythm/NeoHorse) • [🔗 project](https://huggingface.co/collections/TokenRhythm/neohorse-1)
 
 ---
 
@@ -641,7 +645,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 2.2k • 10h ago
+⭐ 7.2k • 🔱 2.2k • 13h ago
 
 ---
 
@@ -651,7 +655,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 5.0k • 🔱 239 • 6d ago
+⭐ 5.0k • 🔱 242 • 7d ago
 
 ---
 
@@ -681,7 +685,7 @@ PRINTFILM：AI 视频获客与 AI短剧创作平台
 
 `TypeScript` `ai` `llm` `mcp` `news-aggregator` `rss`
 
-⭐ 3.0k • 🔱 847 • 2h ago
+⭐ 3.1k • 🔱 883 • 5h ago
 
 ---
 
@@ -691,7 +695,7 @@ An agent-first linter for Tailwind design systems. Write design system rules tha
 
 `TypeScript` `agents` `ai` `design` `design-system` `design-tools`
 
-⭐ 2.9k • 🔱 55 • 7d ago
+⭐ 3.0k • 🔱 55 • 7d ago
 
 ---
 
@@ -711,7 +715,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 2.0k • 🔱 296 • 50m ago
+⭐ 2.0k • 🔱 299 • 4h ago
 
 ---
 
@@ -721,7 +725,7 @@ Long-term memory runtime for AI agents — plain Markdown as the source of truth
 
 `Python` `agent-memory` `ai-agents` `claude-code` `codex` `llm`
 
-⭐ 1.7k • 🔱 108 • 1d ago
+⭐ 1.7k • 🔱 113 • 1d ago
 
 ---
 
@@ -731,7 +735,7 @@ Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions a
 
 `Markdown` `ai` `ai-engineering` `ai-engineering-interview` `ai-interview` `ai-interview-questions`
 
-⭐ 1.6k • 🔱 155 • 15h ago
+⭐ 1.6k • 🔱 155 • 19h ago
 
 ---
 

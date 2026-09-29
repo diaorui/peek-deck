@@ -73,23 +73,9 @@
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "Show HN: onesie \u2013 An expressive Unix-pipeable CLI for System One models like Jev",
-      "url": "https://github.com/frodi-karlsson/onesie",
-      "hn_url": "https://news.ycombinator.com/item?id=49876472",
-      "author": "frodikarlsson",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-09-28T11:37:25Z",
-      "object_id": "49876472",
-      "image": "https://opengraph.githubassets.com/c7fa7407ad954330b2aa5e724d777886f39f16e102070f2bc960ea8ef5c01c75/frodi-karlsson/onesie",
-      "description": "An expressive Unix-pipeable CLI for System One models like Jev - frodi-karlsson/onesie",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-09-29T20:08:12.971729+00:00"
+  "fetched_at": "2026-09-29T23:53:16.993817+00:00"
 }
