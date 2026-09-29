@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-29T08:53:36.167000+00:00'
+updated: '2026-09-29T15:25:16.126834+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 29, 2026 at 08:53 UTC  
+**Last Updated:** September 29, 2026 at 15:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A duck project built with an Uno Q and Feetech servos—what do you guys think?](https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed → on-device AI inference → real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!
 
-4d ago
+5d ago
 
 ---
 
@@ -50,7 +50,7 @@ I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision proj
 
 We’ve been playing hide and seek with Éloi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn’t simply tracking a target. It’s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we’re currently spending a lot of time on. Animotion Robotics
 
-4d ago
+5d ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 **[Free Livestream for ROSCon Global 2026 in Toronto](https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/)**
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 4d ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 5d ago
 
 ---
 
@@ -108,49 +108,71 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 ## Google News: "robotics"
 
-**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
-
-Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
-
-The Information • 18h ago
-
----
-
-**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
-
-The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
-
-NASA (.gov) • 22h ago
-
----
-
-**[Tesla Reportedly Can’t Get the Hands to Work on Its Optimus Robot](https://futurism.com/advanced-transport/tesla-cant-get-hands-work-optimus-robot)**
-
-Tesla is targeting building 20,000 Optimus robots a week. According to The Information's latest reporting, it has a lot of catching up to do.
-
-Futurism • 15h ago
-
----
-
 **[Five million robots now work in factories as humanoid hype is tested](https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check)**
 
 Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
 
-Euronews.com • 4h ago
+Euronews.com • 10h ago
+
+---
+
+**[World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers](https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/)**
+
+While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of
+
+TribLIVE.com • 18h ago
+
+---
+
+**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
+
+Forbes • 8m ago
+
+---
+
+**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
+
+Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
+
+The Information • 1d ago
 
 ---
 
 **[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
 
-Barchart.com • 19h ago
+Barchart.com • 1d ago
 
 ---
 
-**[Boston Dynamics Begins Robotics Testing at Hyundai Metaplant](https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant)**
+**[Kremlin Denies Orchestrating Arson Attack at Estonian Robotics Plant](https://www.themoscowtimes.com/2026/09/29/kremlin-denies-orchestrating-arson-attack-at-estonian-robotics-plant-a93815)**
 
-ELLABELL, GA—Boston Dynamics has opened a new robotics center at Hyundai Motor Group’s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker’s operations.
+The Kremlin has denied accusations that it was behind a fire that broke out at a military robotics plant in Estonia last month.
 
-Assembly Magazine • 1d ago
+themoscowtimes.com • 4h ago
+
+---
+
+**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.yahoo.com/news/world/articles/estonia-blames-russia-arson-attack-145240116.html)**
+
+Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
+
+Yahoo • 32m ago
+
+---
+
+**[Russia Ordered Arson Attack on Estonia’s Milrem Robotics Defense Company, Authorities Say](https://united24media.com/world/russia-ordered-arson-attack-on-estonias-milrem-robotics-defense-company-authorities-say-22943)**
+
+Estonian authorities say Russian intelligence ordered the August 15 arson at Milrem Robotics, a Tallinn defense company supporting Ukraine’s unmanned vehicles.
+
+united24media.com • 5h ago
+
+---
+
+**[Norfolk Iron & Metal supports industrial automation and robotics lab](https://norfolkdailynews.com/news/norfolk-iron-metal-supports-industrial-automation-and-robotics-lab/article_651f2687-9ae9-4727-ada4-3a148c8e5d22.html)**
+
+One of the new Northeast iHub’s standout spaces for area manufacturers is the industrial automation and robotics lab, sponsored by Norfolk Iron &amp; Metal.
+
+The Norfolk Daily News • 1d ago
 
 ---
 
@@ -158,31 +180,7 @@ Assembly Magazine • 1d ago
 
 AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model experts to AMD, strengthening its ability to develop AI...
 
-TechPowerUp • 11h ago
-
----
-
-**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
-
-The World Humanoid Games were actually a social experiment in the making.
-
-Slate Magazine • 1d ago
-
----
-
-**[How a character from ‘The Addams Family’ is shaping the future of robotics](https://www.fastcompany.com/91611631/eth-zurich-soft-robotocs-lab-robotic-hand)**
-
-Researchers from ETH Zurich designed a walking robotic hand.
-
-Fast Company • 22h ago
-
----
-
-**[A robot business reports 552 cumulative device sales and shipments and about $1.52 million in revenue](https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-upgrade-into-robotaxi-and-eai-rinc4asmcb7u.html)**
-
-The proposed deal remains subject to definitive agreements and regulatory approvals. Management projects positive operating cash flow for the robotics business in Q3 2028.
-
-Stock Titan • 11h ago
+TechPowerUp • 18h ago
 
 ---
 
@@ -200,13 +198,23 @@ Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: t
 
 ---
 
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
+**[Optimus Gen 3 AI Robot Is Way More Insane Than Expected](https://www.youtube.com/watch?v=nOVgM-C8Yy0)**
 
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
+Tesla Optimus Gen 3 may have just leaked inside Tesla's own app, revealing a dramatically more finished gold-and-black design ...
 
-📺 ejunky66
+📺 MACHINEKIND
 
-👁️ 672K • 👍 7K • 💬 554 • ⏱️ 1:00 • 4d ago
+👁️ 1K • 👍 36 • 💬 2 • ⏱️ 13:03 • 14h ago
+
+---
+
+**[Human vs 6-Foot Terminator Robot](https://www.youtube.com/watch?v=mT6o_kNVZMc)**
+
+A human just went head-to-head with a 6-foot robot that looks straight out of Terminator Frankie landed some punches, but ...
+
+📺 Shorts_of_Crimson
+
+👁️ 6K • ⏱️ 0:24 • 6d ago
 
 ---
 
@@ -216,27 +224,27 @@ Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A 
 
 📺 Mark Dice
 
-👁️ 621K • 👍 18K • 💬 5K • ⏱️ 19:23 • 5d ago
+👁️ 622K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
 
 ---
 
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
-📺 MindSeeded
+📺 World Best Talent
 
-👁️ 89K • 👍 4K • 💬 284 • ⏱️ 13:48 • 4d ago
+👁️ 747K • 👍 4K • 💬 240 • ⏱️ 25:31 • 3d ago
 
 ---
 
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+**[Can a robot clean your house better than a human?](https://www.youtube.com/watch?v=pFLMNqeAoj0)**
 
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+A San Francisco-based robotics company is betting that humanoid robots can succeed where automation has previously ...
 
-📺 America's Got Talent
+📺 Reuters
 
-👁️ 757K • 👍 6K • 💬 708 • ⏱️ 4:18 • 6d ago
+👁️ 433 • 👍 26 • 💬 5 • ⏱️ 0:57 • 2h ago
 
 ---
 
@@ -246,7 +254,7 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 356K • 👍 567 • 💬 70 • ⏱️ 0:59 • 6d ago
+👁️ 356K • 👍 569 • 💬 70 • ⏱️ 0:59 • 6d ago
 
 ---
 
@@ -256,37 +264,27 @@ Elon Musk says more than 1 billion humanoid robots could exist within the next 1
 
 📺 ejunky66
 
-👁️ 100K • 👍 1K • 💬 109 • ⏱️ 1:00 • 1d ago
+👁️ 102K • 👍 1K • 💬 122 • ⏱️ 1:00 • 2d ago
 
 ---
 
-**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
 
-📺 Julia McCoy
+📺 MindSeeded
 
-👁️ 14K • 👍 273 • 💬 33 • ⏱️ 6:10 • 3d ago
-
----
-
-**[The World&#39;s Largest-Scale Full-Size Humanoid Robot Real-Time Livestream Performance](https://www.youtube.com/watch?v=bYkyz9QwqCw)**
-
-At the Opening Ceremony of WorldSkills Shanghai 2026 on September 22, 19 Unitree humanoid robots performed alongside 120 ...
-
-📺 Unitree Robotics
-
-👁️ 738K • 👍 794 • 💬 168 • ⏱️ 0:49 • 5d ago
+👁️ 90K • 👍 4K • 💬 286 • ⏱️ 13:48 • 4d ago
 
 ---
 
-**[China&#39;s Massive ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
+**[Manni FINALLY gets the GRAND PRIZE in War Robots...](https://www.youtube.com/watch?v=9J0hu2oyGKI)**
 
-Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
+War Robots Gameplay: Manni gets the Ultimate Raven & Atomizer in WR My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Prime Insights
+📺 Manni-Gaming
 
-👁️ 488K • 👍 4K • 💬 263 • ⏱️ 26:57 • 4d ago
+👁️ 3K • 👍 282 • 💬 109 • ⏱️ 30:18 • 3h ago
 
 ---
 
