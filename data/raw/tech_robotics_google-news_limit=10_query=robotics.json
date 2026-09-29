@@ -5,36 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVF1Vkg2bkgyOWsweXlDcHhvLXotR09vYXJ1bTI1Yjdja0hKeU9QQmlWalJGWDFwbE1kb2FkaUVtTW1zSWNVS2tvZlBtQzdXT002bjh2YUlBSHZ4UEFlM0JkbVo1TnJRWDdhVG5FbmVvTHhSZUNLOGVkY0p0eGFZT2ZlemdzX0ZMaUZBVHJ5VTJiMUs5ak82OUV1ZG5rTmtrNUJaRS14RzFPaVRmVVN5Wk1VUDI?oc=5",
-      "pub_date": 1790604060.0,
-      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla",
-      "image": "https://tii.imgix.net/production/articles/17899/07f21118-0b98-4937-9ad7-49350c6463fc-IA8v84.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a \u201cChatGPT moment\u201d in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.\u201cI would say more ..."
-    },
-    {
-      "headline": "Reliable Robots: Meet Johnson\u2019s Dexterous Robotics Team",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVFXTVdSdktmMU13T1djZVRmSTZDdTdadGMzVnQ2ZDM4VUhKNHZFa1B4LW5pTnZVdlA4VWFtTWFBSUZ1UU5TZkJTZGxkTEhFdm9qVlRmal92am5sczNGUDhmYTJFRnFjdUtMa1NucDVVbWUyREF2SVlBeVpOYnZFdE0zT2F0aVphemJWMzVMQWlUeTZzMExpN0VsVlNVTDZCVUlQX29NT2hUUQ?oc=5",
-      "pub_date": 1790589600.0,
-      "article_url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/sa-and-valkyrie.png",
-      "description": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions"
-    },
-    {
-      "headline": "Tesla Reportedly Can\u2019t Get the Hands to Work on Its Optimus Robot",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFpKZUYyMjc4NnVFUEdYcUgwYklDaEdKb1R0RUNXdU8wT1BqcTB2eDlsNUY5TnY3S3FCc0hjdG9TUDZZaGlYYkx4ZnE2OG1ibzkzVXlEcC1hMVk1Szl6QzVtQkUwQlVSeTMwOUxZR3BmVzQ1VTR1QS1sTXJPTFJmT2tKdGFYQQ?oc=5",
-      "pub_date": 1790614837.0,
-      "article_url": "https://futurism.com/advanced-transport/tesla-cant-get-hands-work-optimus-robot",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/tesla-cant-get-hands-work-optimus-robot.jpg?w=1200",
-      "description": "Tesla is targeting building 20,000 Optimus robots a week. According to The Information's latest reporting, it has a lot of catching up to do."
-    },
-    {
       "headline": "Five million robots now work in factories as humanoid hype is tested",
       "source": "Euronews.com",
       "source_url": "https://www.euronews.com",
@@ -43,6 +13,36 @@
       "article_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
       "image": "https://images.euronews.com/articles/stories/09/92/64/18/1200x675_cmsv2_a8bd4c1a-4d9c-54ff-9e05-fc14d79ca5bb-9926418.jpg",
       "description": "Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines."
+    },
+    {
+      "headline": "World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers",
+      "source": "TribLIVE.com",
+      "source_url": "https://triblive.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUV9ndVoyTTItbDVnYnNFOU5CQ3duOE00d2x2M1BlQU9lQ1MyQ0hFNDBpMUxqQ21NUVliY2o1Vm8yOVZZcm9aTTVXYndqa3I2b3JNR3FKR2wwSnMyMW9nU2FoZnJTNWgwcEpxaHBSTGFnX1l0VVRyRzE5RlMxOE5Xdmw3cWJIMEJEUGFvLWJrblBIZmVBSXZYWWpFTWNHU2RzVlJhM0FUeGpYMVdPaERFMzk3WVBEbnJKSWZXYmFVSmlqV19yMGlTd0ZmdGVielJSdDZENGpB?oc=5",
+      "pub_date": 1790629081.0,
+      "article_url": "https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/",
+      "image": "https://assets-varnish.triblive.com/2026/09/9985692_web1_ptr-CMURobotConf1.jpg",
+      "description": "While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of"
+    },
+    {
+      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
+      "pub_date": 1790694988.0,
+      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVF1Vkg2bkgyOWsweXlDcHhvLXotR09vYXJ1bTI1Yjdja0hKeU9QQmlWalJGWDFwbE1kb2FkaUVtTW1zSWNVS2tvZlBtQzdXT002bjh2YUlBSHZ4UEFlM0JkbVo1TnJRWDdhVG5FbmVvTHhSZUNLOGVkY0p0eGFZT2ZlemdzX0ZMaUZBVHJ5VTJiMUs5ak82OUV1ZG5rTmtrNUJaRS14RzFPaVRmVVN5Wk1VUDI?oc=5",
+      "pub_date": 1790604060.0,
+      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla",
+      "image": "https://tii.imgix.net/production/articles/17899/07f21118-0b98-4937-9ad7-49350c6463fc-IA8v84.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a \u201cChatGPT moment\u201d in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.\u201cI would say more ..."
     },
     {
       "headline": "Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.",
@@ -55,14 +55,44 @@
       "description": null
     },
     {
-      "headline": "Boston Dynamics Begins Robotics Testing at Hyundai Metaplant",
-      "source": "Assembly Magazine",
-      "source_url": "https://www.assemblymag.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm05OVJ4M0xocnVIeC05c2VUT0NUYWlyTWFieVNsZEJ3bWNsMk5fZVJRMGtOeXhrZ2hZWWxxNWZCeDc0UUNRbGNfWVRsQXM2aUpDUHJ5Ni1pc2JKdGpfTHdGb3JscVU2M3FwRHRYU1BXVlNIeDdZUW9nTFozRUt3aVJYMmdfMkwtbENtYlE4S2hDdmxKb3VJRm9RMjZuVzRzV2s4UEhmZw?oc=5",
-      "pub_date": 1790514000.0,
-      "article_url": "https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant",
-      "image": "https://www.assemblymag.com/ext/resources/images/Boston-Dynamics-TRI_hero.png?height=635&t=1767808082&width=1200",
-      "description": "ELLABELL, GA\u2014Boston Dynamics has opened a new robotics center at Hyundai Motor Group\u2019s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker\u2019s operations."
+      "headline": "Kremlin Denies Orchestrating Arson Attack at Estonian Robotics Plant",
+      "source": "themoscowtimes.com",
+      "source_url": "https://www.themoscowtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWFIMVY2R2o1NTVxRTA4cGhhSXBhdldUa2F1NDIyb2hVcFR4WjhnSzJkYmhHVmZIZU0zMmdSTDRUSTlQY3FRYl9QQ1hPOUFMQzM5NlM0VmlBeXZVand2S21SNUtJU1hFeXZScEs2dmFTYkx5OV9ncHVlSkg5MHE5alk3akk3RXFNazBPSDJEY01kM2FTRktnMDNQNFM5aE82cDVjYlZISEc3WkgtQ24tQ3hYWHR5cHA1?oc=5",
+      "pub_date": 1790679099.0,
+      "article_url": "https://www.themoscowtimes.com/2026/09/29/kremlin-denies-orchestrating-arson-attack-at-estonian-robotics-plant-a93815",
+      "image": "https://static.themoscowtimes.com/image/og/27/93815__27b6f7613db8fd8a364b6919407e79dc.jpg",
+      "description": "The Kremlin has denied accusations that it was behind a fire that broke out at a military robotics plant in Estonia last month."
+    },
+    {
+      "headline": "Estonia blames Russia in arson attack on military robotics firm Milrem",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGEyamI0ZjZLMnc4aHVGVjBab2Z0a3dPTkpabExSZlRpdWFoQ0FUdU9la1h0Z2hYMS1lVjd1T2hkTU9lMXM0cnNRSllFZUxDSENkS3pNcHZPWDlTaTM3djJKWHl2OXlraUZRcnU2VTE4M09DU0VWc1BkTVY1eHdUbVR5Sk85TmtsNjhkbHkwM1piVXJfYUE?oc=5",
+      "pub_date": 1790693560.0,
+      "article_url": "https://www.yahoo.com/news/world/articles/estonia-blames-russia-arson-attack-145240116.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b52f242d2f007aeff8632e2de96d6cf0dfa47287c4927201efdc8bb3881b5c6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdefense_news_499%2F77778fd3d9617af33ac2cba479fab85c.jpg",
+      "description": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said."
+    },
+    {
+      "headline": "Russia Ordered Arson Attack on Estonia\u2019s Milrem Robotics Defense Company, Authorities Say",
+      "source": "united24media.com",
+      "source_url": "https://united24media.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUtFMzhXSEVtRU1naFJPTWNCR0gyUXZCZ3JYNHJ0NEdGZ0pGZ0N4ZktWOHRodmxRMUVzdW5ULXMwejNiaHBqVjVsZl9kbGx1dFVKYnJlSk50ZFhRb2lQamc3X2NNTUxOSi1oM0NhdlNIVS1CajVtQkpmbVlNSVdrOWtCdmNGNC1aczZ4SFdvZmwwZ1BFaERSTUZMSU9uc0pSYzJzOGZZR0JZenAwMmFUaVFNa3lObG9xU3ctNEZJeWs5RlE?oc=5",
+      "pub_date": 1790675606.0,
+      "article_url": "https://united24media.com/world/russia-ordered-arson-attack-on-estonias-milrem-robotics-defense-company-authorities-say-22943",
+      "image": "https://storage.united24media.com/og/d/43/adcf9ab3b57bb6a7ff8f8c7e70b3043d.jpg",
+      "description": "Estonian authorities say Russian intelligence ordered the August 15 arson at Milrem Robotics, a Tallinn defense company supporting Ukraine\u2019s unmanned vehicles."
+    },
+    {
+      "headline": "Norfolk Iron & Metal supports industrial automation and robotics lab",
+      "source": "The Norfolk Daily News",
+      "source_url": "https://norfolkdailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWkx0eFlxWFBTbXBXZjdJWHV4c0FqY1NOUGhsTXZyaDloTnp1RExjQjFBc2hRWjBfYzBXczQ2X21odU5wdms0T1QtcWhSRXpZTEwxTjFzeEYydTdQMER1MWc4aThEeFJqRjF1ZUtWNC1jcFV3ZDY2X0hjT2QteXNXMlJqcWhQUThYamVPQWh1WjBSTDJtTHdUdlg1RnYwbDdrX2NkNHZJam1YS0w0RUczd2l6cHBhbmpzd01hSDlUeWx1RUlvX2tOT3NWQXpPNmF6MTZkNlE3aTZYX0NqV1lqNnlKaGo?oc=5",
+      "pub_date": 1790604000.0,
+      "article_url": "https://norfolkdailynews.com/news/norfolk-iron-metal-supports-industrial-automation-and-robotics-lab/article_651f2687-9ae9-4727-ada4-3a148c8e5d22.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/c/40/c40f2f83-459b-48d0-adfb-27ea1f3eb2dc/6aba7e2f47222.image.jpg?crop=700%2C368%2C0%2C22",
+      "description": "One of the new Northeast iHub\u2019s standout spaces for area manufacturers is the industrial automation and robotics lab, sponsored by Norfolk Iron &amp; Metal."
     },
     {
       "headline": "AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy",
@@ -73,38 +103,8 @@
       "article_url": "https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy",
       "image": "https://www.techpowerup.com/img/BDEGyA1GZCdLvEMO.jpg",
       "description": "AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model experts to AMD, strengthening its ability to develop AI..."
-    },
-    {
-      "headline": "I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.",
-      "source": "Slate Magazine",
-      "source_url": "https://slate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEtKd1FfUE5XUHdPQUQ0azR4RVU5UzFRRUJmU0NpMEsyWktUTnNiX19SRDRiRXhLTHIwaE1GaFVfR18zMW1PQ2ZsQ0JMQ1Q3LUl4SlI5S1FIRHdhczJiM0pXemE4RFgySFFIVzB2ZzQ5elJRTnBKS3BVSHVnSm5jNVJDQQ?oc=5",
-      "pub_date": 1790502300.0,
-      "article_url": "https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html",
-      "image": "https://compote.slate.com/images/d1688b60-2be1-4f4f-abae-82a080bb9f92.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "description": "The World Humanoid Games were actually a social experiment in the making."
-    },
-    {
-      "headline": "How a character from \u2018The Addams Family\u2019 is shaping the future of robotics",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHlLNkxKUEZZbF9IMmpSN1V1cDhqSUI1eDZPR2xnWDRzOHdDSlprcVJrNllULURQcE5iNU1HQk4wbU83Tl9zSWVmT2ljZVYtdFpQTFRzbTJDR3dHMS12d1QtMWNhU0l4MlhONVJ2V2pNcVpQM3c0UWl5M0VGUEJjMGdBWks?oc=5",
-      "pub_date": 1790590339.0,
-      "article_url": "https://www.fastcompany.com/91611631/eth-zurich-soft-robotocs-lab-robotic-hand",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/p-91611631-soft-robotics-lab.jpg",
-      "description": "Researchers from ETH Zurich designed a walking robotic hand."
-    },
-    {
-      "headline": "A robot business reports 552 cumulative device sales and shipments and about $1.52 million in revenue",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeE5yRU9hNHVmTXFpZWF1TDZuQ2Fra24xa1ZmWWJKbUllREh0dE1BdEd6aHZIeENKeUVCUWU3N1VMampVR2RIdF9sbmhJMlJFeVZjMndMUGlVSDF5MEV6cElpYmk0M2ZqYkRXNFRPNFNDRVVvMVVldE9DSDBGaW1jNjZ0VjNXdzgxUGtBQ05IcVJNeVd0OUJ6dFpUZ3BKb3YtYjlSZHV0RkZ1dkZyQVVyTmp4aV9DZ2dHNVhZ?oc=5",
-      "pub_date": 1790629200.0,
-      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-upgrade-into-robotaxi-and-eai-rinc4asmcb7u.html",
-      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Announces_Strategic_Upgrade_into_Robotaxi_and_EAI_Cabin_Technology_Operator_and_Physi_1509543.webp",
-      "description": "The proposed deal remains subject to definitive agreements and regulatory approvals. Management projects positive operating cash flow for the robotics business in Q3 2028."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T08:53:29.808801+00:00"
+  "fetched_at": "2026-09-29T15:25:11.602136+00:00"
 }
