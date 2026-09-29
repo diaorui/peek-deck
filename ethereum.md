@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-29T02:11:42.420756+00:00'
+updated: '2026-09-29T08:53:36.163219+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 29, 2026 at 02:11 UTC  
+**Last Updated:** September 29, 2026 at 08:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -1.0%  
-**30d:** +7.7%  
-**90d:** +56.3%  
-**1y:** -35.8%  
+**24h:** +2.6%  
+**7d:** +0.8%  
+**30d:** +9.8%  
+**90d:** +59.2%  
+**1y:** -34.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $324.94B
+**Market Cap:** $330.87B
 Rank #2
 
-**Circulating Supply:** 122,087,474 ETH
+**Circulating Supply:** 122,090,191 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.2%
+-45.2%
 
 **All-Time Low:** $0.43
-+614421.7%
++625844.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -96,7 +96,7 @@ Hegotá upgrade frames-devnet-0 live, Nethermind 2.0.0, Daisugi post quantum tes
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9d ago
+10d ago
 
 ---
 
@@ -144,13 +144,35 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10d ago
+11d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
+
+**[This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?](https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/)**
+
+NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz.
+
+fool.com • 13h ago
+
+---
+
+**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
+
+Vitalik Buterin's website • 1d ago
+
+---
+
+**[Vitalik Buterin Says Ethereum May Barely Be a Blockchain by 2030 — Could ETH Still Hit $40K?](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-says-ethereum-may-135215026.html)**
+
+Vitalik Buterin says Ethereum’s 2027 Hegotá upgrade could be its final “normal” fork before the network undergoes a more radical transformation. His vision combines blockchain ...
+
+Yahoo Finance • 19h ago
+
+---
 
 **[ETH news: Ethereum may not be ‘just a blockchain’ in 2030, Vitalik Buterin says](https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision)**
 
@@ -160,25 +182,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
+**[Ethereum’s Next Upgrade Could Change the Network Forever: What Vitalik Is Planning for 2030](https://bitcoinfoundation.org/news/blockchain-news/ethereums-next-upgrade-could-change-the-network-forever/)**
 
-vitalik.eth.limo • 1d ago
+What is special about Ethereum’s next upgrade? How likely is it to move ETH price up? Here's what Vitalik Buterin has in stock.
 
----
-
-**['It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030](https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953)**
-
-The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
-
-The Block • 1d ago
+Bitcoin Foundation • 1h ago
 
 ---
 
-**[This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?](https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/)**
+**[Will Ethereum Hit $4,000 Before the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-4-000-end-160027391.html)**
 
-NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz.
+Ethereum just posted a stunning 72% quarterly surge, but the clock is ticking and a wall of frustrated sellers waits ahead. Whether ETH can hit the $4,000 milestone before 2027 depends on one critical monthly close.
 
-The Motley Fool • 6h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide as Treasury Yields Push Higher: Analyst Flags BTC 'Buying Opportunity' Before the Rally Resumes](https://www.tradingview.com/news/benzinga:f141fadd9094b:0-bitcoin-ethereum-xrp-dogecoin-slide-as-treasury-yields-push-higher-analyst-flags-btc-buying-opportunity-before-the-rally-resumes/)**
+
+Leading cryptocurrencies declined further on Monday as investors reacted to rising bond yields and growing expectations of interest rate hikes.Crypto Market Drops FurtherBitcoin pushed for a breakout above $84,000 but met strong resistance and fell back toward the $82,000 area.Similarly, Ethereum h…
+
+TradingView • 7h ago
 
 ---
 
@@ -190,11 +214,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[1 Popular Cryptocurrency to Buy Before It Soars by 9,159%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/09/27/1-cryptocurrency-buy-soars-9159-bitmines-tom-lee/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach over 6 Million Tokens with Total Crypto, Cash & Marketable Securities Holdings of $17.2 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-over-6-million-tokens-with-total-crypto-cash--marketable-securities-holdings-of-17-2-billion-302891056.html)**
 
-Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency.
+Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
 
-The Motley Fool • 1d ago
+PR Newswire • 20h ago
 
 ---
 
@@ -202,31 +226,7 @@ The Motley Fool • 1d ago
 
 Crypto treasury companies continued to expand their digital-asset holdings last week, with BitMine Immersion Technologies (BMNR) crossing 6 million Ethereum (ETH) while Strategy (MSTR) and Strive (ASST) added to their Bitcoin (BTC) holdings.BitMine’s Ethereum Stack Crosses 6 MillionBitMine said Mon…
 
-TradingView • 10h ago
-
----
-
-**[Will Ethereum Hit $4,000 Before the End of 2026?](https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/)**
-
-Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?
-
-24/7 Wall St. • 10h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Slide While Dogecoin Gains as Trump Rejects Iran's Hormuz Proposal: Analyst Sees BTC Marching to $90,000 Levels if This Happens](https://www.tradingview.com/news/benzinga:b257c6473094b:0-bitcoin-ethereum-xrp-slide-while-dogecoin-gains-as-trump-rejects-iran-s-hormuz-proposal-analyst-sees-btc-marching-to-90-000-levels-if-this-happens/)**
-
-Leading cryptocurrencies stagnated on Sunday as investors weighed ongoing U.S.-Iran negotiations alongside a series of anticipated macroeconomic data.Crypto Rally HaltsBitcoin slipped below $84,000 Sunday evening after briefly topping $85,000 earlier in the day. Ethereum wobbled between $2,667 and…
-
-TradingView • 1d ago
-
----
-
-**[New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-releases-rtx-launch-date-as-ethereum-price-prediction-targets-18k-and-whale-buying-grows-1036576438)**
-
-MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft...
-
-markets.businessinsider.com • 1d ago
+TradingView • 17h ago
 
 ---
 
@@ -234,13 +234,13 @@ markets.businessinsider.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum to $10K? The Setup Is Finally Starting to Make Sense](https://www.youtube.com/watch?v=UrIWhi__Gdo)**
+**[Raoul Pal: Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x](https://www.youtube.com/watch?v=lkki8XmPoj8)**
 
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Milk Road
+📺 Crypto Nutshell
 
-👁️ 4K • 👍 158 • 💬 83 • ⏱️ 39:58 • 6h ago
+👁️ 11K • 👍 273 • 💬 49 • ⏱️ 21:29 • 16h ago
 
 ---
 
@@ -250,37 +250,17 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 26K • 👍 753 • 💬 42 • ⏱️ 12:21 • 1d ago
+👁️ 27K • 👍 763 • 💬 42 • ⏱️ 12:21 • 1d ago
 
 ---
 
-**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
+**[Ethereum to $10K? The Setup Is Finally Starting to Make Sense](https://www.youtube.com/watch?v=UrIWhi__Gdo)**
 
-Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Money Rules - Investing Tips 
+📺 Milk Road
 
-👁️ 25K • 👍 1K • 💬 361 • ⏱️ 12:51 • 15h ago
-
----
-
-**[ETH BULL RUN READY! Vitalik’s Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
-
-ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
-
-📺 Altcoin Buzz
-
-👁️ 3K • 👍 56 • 💬 7 • ⏱️ 10:22 • 11h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=66v2ePtGjQo)**
-
-BITCOIN & CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 692 • 👍 81 • 💬 8 • ⏱️ 23:15 • 39m ago
+👁️ 8K • 👍 248 • 💬 128 • ⏱️ 39:58 • 12h ago
 
 ---
 
@@ -290,37 +270,17 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 4K • 👍 118 • 💬 12 • ⏱️ 13:09 • 5h ago
+👁️ 8K • 👍 162 • 💬 20 • ⏱️ 13:09 • 11h ago
 
 ---
 
-**[ICP&#39;s Biggest Opportunity Just Came From Vitalik | Internet Computer](https://www.youtube.com/watch?v=leP_QGxtnco)**
+**[BITCOIN &amp; CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=66v2ePtGjQo)**
 
-Vitalik Buterin just published "The Cryptographic World Computer," an essay that explains what all of Ethereum's planned ...
+BITCOIN & CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 BasedGiant
+📺 Crypto World
 
-👁️ 3K • 👍 119 • 💬 11 • ⏱️ 9:23 • 20h ago
-
----
-
-**[The “Fast Ethereum” Plan That Could Supercharge ETH](https://www.youtube.com/watch?v=62vE4TlShFg)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 82 • 💬 111 • ⏱️ 13:09 • 1d ago
-
----
-
-**[🔥 Big Money Is Buying Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=B6oVX688zaw)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 8K • 👍 99 • 💬 10 • ⏱️ 8:46 • 2d ago
+👁️ 8K • 👍 353 • 💬 27 • ⏱️ 23:15 • 7h ago
 
 ---
 
@@ -330,7 +290,47 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Lark Davis
 
-👁️ 36K • 👍 663 • 💬 91 • ⏱️ 7:46 • 2d ago
+👁️ 37K • 👍 669 • 💬 91 • ⏱️ 7:46 • 2d ago
+
+---
+
+**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
+
+Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 27K • 👍 1K • 💬 356 • ⏱️ 12:51 • 21h ago
+
+---
+
+**[ETH BULL RUN READY! Vitalik’s Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
+
+ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
+
+📺 Altcoin Buzz
+
+👁️ 3K • 👍 59 • 💬 9 • ⏱️ 10:22 • 18h ago
+
+---
+
+**[ICP&#39;s Biggest Opportunity Just Came From Vitalik | Internet Computer](https://www.youtube.com/watch?v=leP_QGxtnco)**
+
+Vitalik Buterin just published "The Cryptographic World Computer," an essay that explains what all of Ethereum's planned ...
+
+📺 BasedGiant
+
+👁️ 3K • 👍 135 • 💬 19 • ⏱️ 9:23 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum, das sieht nach grösserer Korrektur aus! Dieser Chart hat es gesehen!](https://www.youtube.com/watch?v=HbSUHbsH5lI)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 473 • 💬 97 • ⏱️ 10:58 • 4h ago
 
 ---
 

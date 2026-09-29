@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-29T02:11:42.423915+00:00'
+updated: '2026-09-29T08:53:36.167000+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 29, 2026 at 02:11 UTC  
+**Last Updated:** September 29, 2026 at 08:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,13 +86,13 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 **[News: Google Instrinsic Physical ai/Robotics OS being released publicly](https://www.reddit.com/r/robotics/comments/1wovxgh/news_google_instrinsic_physical_airobotics_os/)**
 
-4d ago
+5d ago
 
 ---
 
 **[Tendon-Driven Robot Hand"High degree of freedom and fast operation](https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -100,7 +100,7 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,15 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
 
-The Information • 12h ago
+The Information • 18h ago
+
+---
+
+**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
+
+The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
+
+NASA (.gov) • 22h ago
 
 ---
 
@@ -120,7 +128,21 @@ The Information • 12h ago
 
 Tesla is targeting building 20,000 Optimus robots a week. According to The Information's latest reporting, it has a lot of catching up to do.
 
-futurism.com • 9h ago
+Futurism • 15h ago
+
+---
+
+**[Five million robots now work in factories as humanoid hype is tested](https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check)**
+
+Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
+
+Euronews.com • 4h ago
+
+---
+
+**[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
+
+Barchart.com • 19h ago
 
 ---
 
@@ -132,55 +154,35 @@ Assembly Magazine • 1d ago
 
 ---
 
-**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
+**[AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy](https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy)**
 
-The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
+AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model experts to AMD, strengthening its ability to develop AI...
 
-nasa.gov • 16h ago
-
----
-
-**[Gecko Robotics & Nvidia team up to put guardrails on AI](https://www.cnn.com/2026/09/28/business/video/nvidia-gecko-robotics-ai-safety-loosararian-live-092804pseg2-cnni-business-fast)**
-
-Gecko Robotics CEO Jake Loosararian explains what the partnership aims to achieve.
-
-CNN • 4h ago
+TechPowerUp • 11h ago
 
 ---
 
-**[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
+**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
 
-Barchart.com • 13h ago
+The World Humanoid Games were actually a social experiment in the making.
 
----
-
-**[Driverless Trucks Show How to Keep AI Robots From Killing Us](https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us)**
-
-Bloomberg.com • 16h ago
+Slate Magazine • 1d ago
 
 ---
 
-**[One of AI's most influential researchers is joining AMD in an $8 billion deal](https://www.businessinsider.com/ai-pioneer-fei-fei-li-joining-amd-8-billion-deal-2026-9)**
+**[How a character from ‘The Addams Family’ is shaping the future of robotics](https://www.fastcompany.com/91611631/eth-zurich-soft-robotocs-lab-robotic-hand)**
 
-AMD is betting big on "world models" that could power robots, factories, and other physical AI systems. It's acquiring Fei-Fei Li's World Labs.
+Researchers from ETH Zurich designed a walking robotic hand.
 
-Business Insider • 4h ago
-
----
-
-**[Pittsburgh firms involved in Nvidia effort to corral rogue AI agents](https://www.post-gazette.com/business/tech-news/2026/09/28/nvidia-skild-ai-gecko-robotic-open-ai-hugging-face-ai-horizons/stories/202609280034)**
-
-In response to global anxiety over rogue AI agents, Nvidia, the world’s leading chipmaker powering artificial intelligence, announced an effort...
-
-Pittsburgh Post-Gazette • 3m ago
+Fast Company • 22h ago
 
 ---
 
-**[Wind-up elastic robot jumps forever when fed infrared light](https://newatlas.com/robotics/elastic-robot-jump-infrared-light/)**
+**[A robot business reports 552 cumulative device sales and shipments and about $1.52 million in revenue](https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-upgrade-into-robotaxi-and-eai-rinc4asmcb7u.html)**
 
-Robots – that is, self-guided mechanisms interacting with or changing their environments – exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that…
+The proposed deal remains subject to definitive agreements and regulatory approvals. Management projects positive operating cash flow for the robotics business in Q3 2028.
 
-New Atlas • 23h ago
+Stock Titan • 11h ago
 
 ---
 
@@ -188,63 +190,13 @@ New Atlas • 23h ago
 
 ## YouTube Videos: "robotics"
 
-**[Real Steel Is Finally Here…in China 🇨🇳](https://www.youtube.com/watch?v=GTSXcCs-SJE)**
+**[A robot rolls off assembly line every 2.5 minutes](https://www.youtube.com/watch?v=PwI4n58b7z0)**
 
-BUSINESS / COLLABORATIONS travisprice09@gmail.com Robot cage fighting is officially real. I went to China to ...
+Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: the Q1 and the T1. Take a look at the ...
 
-📺 Travis Leon
+📺 New China TV
 
-👁️ 46K • 👍 695 • 💬 118 • ⏱️ 12:12 • 1d ago
-
----
-
-**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
-
-Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
-
-📺 ejunky66
-
-👁️ 95K • 👍 1K • 💬 103 • ⏱️ 1:00 • 1d ago
-
----
-
-**[China&#39;s Massive ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
-
-Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
-
-📺 Prime Insights
-
-👁️ 479K • 👍 4K • 💬 261 • ⏱️ 26:57 • 4d ago
-
----
-
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
-
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
-
-📺 MindSeeded
-
-👁️ 88K • 👍 3K • 💬 286 • ⏱️ 13:48 • 4d ago
-
----
-
-**[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
-
-He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
-
-📺 New York Post
-
-👁️ 54K • 👍 470 • 💬 312 • ⏱️ 1:17 • 2d ago
-
----
-
-**[I Upgraded My Son&#39;s LEGO Combiner Robot (3/3):Transformation and Combination](https://www.youtube.com/watch?v=vBpzEt_ANVY)**
-
-LEGO #legomoc #mech #ninjago ☆X(Twitter) https://twitter.com/mishima_prod ☆Instagram ...
-
-📺 Mishima Productions
-
-👁️ 31K • 👍 814 • 💬 35 • ⏱️ 8:09 • 2d ago
+👁️ 67K • 👍 36 • 💬 8 • ⏱️ 0:24 • 6d ago
 
 ---
 
@@ -254,37 +206,87 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 624K • 👍 6K • 💬 530 • ⏱️ 1:00 • 4d ago
+👁️ 672K • 👍 7K • 💬 554 • ⏱️ 1:00 • 4d ago
 
 ---
 
-**[The Police Robot Car Is Missing Its Siren🚔🚨Robot Car Song | Kids Songs &amp; Nursery Rhymes | Happy Song](https://www.youtube.com/watch?v=EU1IALLmGPM)**
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
 
-kidssongs #nurseryrhymes #babysongs #forkids #kidsvideos The Police Robot Car Is Missing Its Siren     Robot Car Song | Kids ...
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
 
-📺 Happy Songs
+📺 Mark Dice
 
-👁️ 144K • 👍 509 • ⏱️ 16:51 • 3d ago
-
----
-
-**[He Built a Robot to Play Air Hockey Against Him #shorts](https://www.youtube.com/watch?v=NuGZO_zrbrk)**
-
-Credit: from_scratch_yt on IG This isn't a normal air-hockey table. It's a DIY air-hockey robot designed to track the puck and move ...
-
-📺 GHOSTFACE COUNTRY
-
-👁️ 2K • 👍 18 • ⏱️ 0:07 • 3h ago
+👁️ 621K • 👍 18K • 💬 5K • ⏱️ 19:23 • 5d ago
 
 ---
 
-**[This 1-Gram Robot Can Control Every Jump 🤖 #robotics #tecj #innovation #shorts](https://www.youtube.com/watch?v=PO26dXX3oWc)**
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
-A 1-Gram Robot Can Now Choose Exactly How High It Jumps Meet DirectHop, a tiny hopping robot developed by engineers at ...
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
 
-📺 EcoZora
+📺 MindSeeded
 
-👁️ 33K • 👍 166 • 💬 4 • ⏱️ 0:07 • 1d ago
+👁️ 89K • 👍 4K • 💬 284 • ⏱️ 13:48 • 4d ago
+
+---
+
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+
+📺 America's Got Talent
+
+👁️ 757K • 👍 6K • 💬 708 • ⏱️ 4:18 • 6d ago
+
+---
+
+**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+
+Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+
+📺 NBC News
+
+👁️ 356K • 👍 567 • 💬 70 • ⏱️ 0:59 • 6d ago
+
+---
+
+**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
+
+Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
+
+📺 ejunky66
+
+👁️ 100K • 👍 1K • 💬 109 • ⏱️ 1:00 • 1d ago
+
+---
+
+**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+
+📺 Julia McCoy
+
+👁️ 14K • 👍 273 • 💬 33 • ⏱️ 6:10 • 3d ago
+
+---
+
+**[The World&#39;s Largest-Scale Full-Size Humanoid Robot Real-Time Livestream Performance](https://www.youtube.com/watch?v=bYkyz9QwqCw)**
+
+At the Opening Ceremony of WorldSkills Shanghai 2026 on September 22, 19 Unitree humanoid robots performed alongside 120 ...
+
+📺 Unitree Robotics
+
+👁️ 738K • 👍 794 • 💬 168 • ⏱️ 0:49 • 5d ago
+
+---
+
+**[China&#39;s Massive ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
+
+Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
+
+📺 Prime Insights
+
+👁️ 488K • 👍 4K • 💬 263 • ⏱️ 26:57 • 4d ago
 
 ---
 
