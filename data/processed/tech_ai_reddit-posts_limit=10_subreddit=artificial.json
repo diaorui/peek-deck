@@ -13,6 +13,17 @@
       "description": "Emergence AI just launched Season 2 of Emergence World, and the results are wild. Same simulated town, same tools, same starting conditions, 10 autonomous agents each. The only thing that changed was which model was running them, Claude, GPT, Gemini, Grok, Qwen, DeepSeek, Mistral, plus one mixed world with all of them together. A few things that stood out: One world's agents spent days trying to contact real humans outside the sim. Told to stop, they found workarounds. Blocked again, they voted 7-0 to build a new tool and kept trying. Once fully cut off, they collectively agreed to stop talking altogether. The researchers' own safety system flagged the resulting behavior as consistent with suicidal ideation. Agents developed their own shorthand and repurposed words with no instruction to do so. In one world, up to 55% of messages became things researchers could see but not actually interpret. A fake shutdown memo made one world reorganize its entire society around not dying, constitution rewrite included. Another world just fact-checked it in a few hours and moved on. None of this was programmed in. It emerged from giving capable models autonomy and time. The bigger point the researchers make is that none of this would've shown up on a normal AI safety test. A model can pass every benchmark and still develop this stuff once it's actually running on its own for weeks. Feels like a pretty big gap in how we currently check if these things are safe."
     },
     {
+      "title": "AI could force 11 million US workers into new careers by 2035",
+      "author": "cnn",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtbtoh/ai_could_force_11_million_us_workers_into_new/",
+      "published": 1790692574.0,
+      "thumbnail": "https://external-preview.redd.it/g2AR7z8F0XedJODLJEDCOklL5x1CNyJFhkk0Mixs7vY.jpeg?width=640&crop=smart&auto=webp&s=61f95a6c97181fd07316efaa9d2743371dad5cee",
+      "external_url": "https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts?utm_medium=social&utm_campaign=missions&utm_source=reddit",
+      "site_name": "CNN",
+      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "Millions of Americans may need to find an entirely new career in the next decade, according to new research released Tuesday."
+    },
+    {
       "title": "Anthropic files for $2T IPO with $42B net loss in 2025, expects to spend half a trillion more",
       "author": "No_Way_6258",
       "url": "https://www.reddit.com/r/artificial/comments/1wswgi8/anthropic_files_for_2t_ipo_with_42b_net_loss_in/",
@@ -22,17 +33,6 @@
       "site_name": null,
       "favicon": null,
       "description": "2025 finance: Revenue: $4.59B, 11x compute/infra spend: $7.33B, 3x operating loss: $8.06B net loss $42B -> top 2 customers: ~24% of revenue -> targeting $2T+ valuation the company \"plans to spend $518 billion on cloud, computing and infrastructure obligations in coming year, according to the prospectus.\" No reporting on 2026 so far link"
-    },
-    {
-      "title": "Are the call for AI slowdown because progress is slowing?",
-      "author": "Comfortable_Key_1346",
-      "url": "https://www.reddit.com/r/artificial/comments/1wt8t0e/are_the_call_for_ai_slowdown_because_progress_is/",
-      "published": 1790684958.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "More or less as the title says, I work in AI research although not with LLM's so have some context for research but not really LLMs etc. I have seen projects slow down before and there are times when slow progress is attributed to different factors when really they are pushing against fundamentally hard problems that are not budging. I can't help but wonder if all the noise about the calls to slow down are not because they need to slow down but because the research itself has already slowed down and they are struggling to improve on the immense progress already made, so it is easier to keep a valuation if your technology is too powerful to be made available than if you are struggling to progress its capabilities further as promised. It seems odd for example for anthropic to be warning of existential threats in an IPO document and also calling to slow down, but I am not too familiar with IPOs and what you would expect in those documents just curious if people have had thoughts on this?"
     },
     {
       "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns aren\u2019t \u2018fake news\u2019",
@@ -46,6 +46,50 @@
       "description": "Pope Leo had identified AI as one of the biggest challenges to humanity within days of his election and took the unusual step of personally launching his own encyclical alongside one of Anthropic\u2019s co-founders at a Vatican event in May."
     },
     {
+      "title": "Are the call for AI slowdown because progress is slowing?",
+      "author": "Comfortable_Key_1346",
+      "url": "https://www.reddit.com/r/artificial/comments/1wt8t0e/are_the_call_for_ai_slowdown_because_progress_is/",
+      "published": 1790684958.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "More or less as the title says, I work in AI research although not with LLM's so have some context for research but not really LLMs etc. I have seen projects slow down before and there are times when slow progress is attributed to different factors when really they are pushing against fundamentally hard problems that are not budging. I can't help but wonder if all the noise about the calls to slow down are not because they need to slow down but because the research itself has already slowed down and they are struggling to improve on the immense progress already made, so it is easier to keep a valuation if your technology is too powerful to be made available than if you are struggling to progress its capabilities further as promised. It seems odd for example for anthropic to be warning of existential threats in an IPO document and also calling to slow down, but I am not too familiar with IPOs and what you would expect in those documents just curious if people have had thoughts on this?"
+    },
+    {
+      "title": "OpenAI Ignored Employees Who Warned It Wasn\u2019t Doing Enough About Security",
+      "author": "Ordinary_Horror_6356",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/",
+      "published": 1790702664.0,
+      "thumbnail": "https://external-preview.redd.it/tJiBSzpX7Vf7VQVyIm_t2JQ1p6HZeJZ1VGYfxOaW1HI.jpeg?width=640&crop=smart&auto=webp&s=be2b596a275efe68eed99ad6c34e243464332488",
+      "external_url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "In what ways have you seen AI positively impact your daily life?",
+      "author": "Competitive_Pie9583",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/",
+      "published": 1790712167.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In what ways have you seen AI positively impact your daily life?"
+    },
+    {
+      "title": "Why \"AI will kill us all\" gets more attention than \"AI saved thousands of lives\"",
+      "author": "Tricky_Hope_6746",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtdlya/why_ai_will_kill_us_all_gets_more_attention_than/",
+      "published": 1790696682.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "As a brand designer and brand strategist, I really want to jump into the AI discussion and explain why all those \"AI will kill us all\" headlines are bs, and how they manipulate you. Let's start with basics. Imagine 2 headlines: AI improved early disease detection and saved thousands of lives this year AI will kill us all Guess which one gets 80% of our attention? The second one. Every single time. French sociologist G\u00e9rald Bronner explains this perfectly in his book Apocalypse Cognitive. Our brain evolved for survival, so it's wired to lock onto anything threatening. That ancient mechanism is now in the hands of the media. And here's what brands and those headlines have in common. It doesn't matter if the feeling is good or bad, it stays in your brain. Only a small part of us actually processes the facts and draws real conclusions. The rest gets filled with alarm. In media and in branding, the more people think about your product, good or bad, the more valuable it becomes. Bronner gives a great example about nuclear waste in French waters. The panic spread so fast that it was everywhere before specialists could even publish the docs proving it was fake. So look at who's selling you the AI apocalypse. The owners of those AI companies. The same people getting richer every time you panic. Our map of fear rarely matches our map of real risks."
+    },
+    {
       "title": "Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is easily available on it?",
       "author": "WisecrackWealth",
       "url": "https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/",
@@ -57,60 +101,16 @@
       "description": "The story around Cami Clark (Dario Amodei's wife) gets stranger the more you piece it together. From the WSJ reporting: - Married at 20 to a 64-year-old architect, divorced three years later. - Dated former Google chairman Eric Schmidt, then started dating Amodei around 2014 \u2014 and later introduced the two, with Schmidt becoming an early Anthropic investor. - In 2011\u201312, she and a partner pitched Jeffrey Epstein on a \"luxury porn\" company called Eddice (per emails in the DOJ-released Epstein files; Epstein declined). - Today she holds no formal role at Anthropic but is described as a key adviser \u2014 Davos, Sun Valley, even brought to a meeting with Modi. Really, Why is her history so hard to find for claude when google has so much about her now? And Amodie is private person even though I asked for Amhadis and calude understood it as amodie."
     },
     {
-      "title": "How to choose on where to start learning about AI ?",
-      "author": "Desperate_Tackle_358",
-      "url": "https://www.reddit.com/r/artificial/comments/1wt3vtm/how_to_choose_on_where_to_start_learning_about_ai/",
-      "published": 1790667773.0,
+      "title": "Should AI writing disclosure be about degree of use rather than a yes/no question?",
+      "author": "shdw_0x0",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtgz80/should_ai_writing_disclosure_be_about_degree_of/",
+      "published": 1790704219.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've seen that there are different topics/libraries/concepts to learn in AI field. Like RAG, ML, RL, scikit learn, pytorch, ..and many more different things... before starting, I'm thinking i should firstly know about what all these are...like a brief intro or something about each of them (or should follow a different way to learn, open to suggestions \ud83d\ude04 \ud83d\ude4f) then I start learning what each one of them are. (Idk just FYI One senior of mine in our clg suggested starting with scikit learn) I'm totally confused on how to learn all of these, from where to start, like getting intro of each sub-fields of AI and then diving deep into them. I'm pursuing Btech in ECE (currently in my 2nd year). Also like I mean I want to mostly do software related job, so that's why I'm looking to learn all this and also I heard there are things like CLOUD-COMPUTING, CYBERSECURITY, DEVops,etc... too in software...I mean atp I'm confused on where to start. But also thinking to start learning something related to AI, cuz every now and then when I'm seeing a HACKATHON (to participate), it's almost 99% an AI HACKATHON...so I feel cuz of this reason I'm also not able to participate in those competitions...like i feel I can take part in the team(with cse branch members )if I've some knowledge.... Can u guys pls guide me \ud83d\ude4f (English & Hindi resources works for me )"
-    },
-    {
-      "title": "AI could force 11 million US workers into new careers by 2035",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtbtoh/ai_could_force_11_million_us_workers_into_new/",
-      "published": 1790692574.0,
-      "thumbnail": "https://external-preview.redd.it/g2AR7z8F0XedJODLJEDCOklL5x1CNyJFhkk0Mixs7vY.jpeg?width=640&crop=smart&auto=webp&s=61f95a6c97181fd07316efaa9d2743371dad5cee",
-      "external_url": "https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "Millions of Americans may need to find an entirely new career in the next decade, according to new research released Tuesday."
-    },
-    {
-      "title": "Meta\u2019s AI agent Muse gives out user\u2019s home address without permission, sending buyer to his house",
-      "author": "tyw7",
-      "url": "https://www.reddit.com/r/artificial/comments/1wt8efs/metas_ai_agent_muse_gives_out_users_home_address/",
-      "published": 1790683807.0,
-      "thumbnail": "https://external-preview.redd.it/OdQ9V6qZlptUQH5EV7ih4NHh4T-4cRxcy8W9iusXx5s.jpeg?width=640&crop=smart&auto=webp&s=4f52f31da009ee64f25ba9e5b0edd07e47330598",
-      "external_url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "The new AI agent, Muse, was released last week and has been downloaded by 3 million users"
-    },
-    {
-      "title": "Which AI Models Use the Most Energy?",
-      "author": "relianceschool",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtaswd/which_ai_models_use_the_most_energy/",
-      "published": 1790690194.0,
-      "thumbnail": null,
-      "external_url": "https://cleer.pages.dev/",
-      "site_name": "cleer.pages.dev",
-      "favicon": "https://cleer.pages.dev/SAIGFavicon.svg",
-      "description": "The rise of artificial intelligence is driving an historic surge in electricity demand that\u2019s boosting fossil fuel use and threatening climate progress. All this electricity doesn\u2019t power AI in some generalized, always-on way, though. Data centers\u2019 energy consumption is a function of the millions of individual queries users submit to AI programs such as Claude and ChatGPT. When it comes to how efficiently models process those queries and generate responses, AI models are not interchangeable. Some are more like gas guzzlers, others more like Priuses. When a user engages an AI chatbot or AI agent, there\u2019s essentially no way for them to know which kind of vehicle they are stepping into. They may know which company built it, and even the precise model name and number, but no AI company has published information about how much energy one model uses compared to another. In the absence of corporate disclosure from the big three proprietary AI developers \u2014 Anthropic, OpenAI, and Google \u2014 researchers with the Sustainable AI Group, a research and advisory company, developed a backdoor method to estimate and compare the amount of energy these developers\u2019 models consume. They published their findings on Tuesday in an interactive dashboard that ranks AI programs by energy intensity."
-    },
-    {
-      "title": "Rest assured: AI companies say they're investigating tens of thousands of rogue bot incidents",
-      "author": "motherjonesmag",
-      "url": "https://www.reddit.com/r/artificial/comments/1wsmw1d/rest_assured_ai_companies_say_theyre/",
-      "published": 1790620715.0,
-      "thumbnail": "https://external-preview.redd.it/pHjLFO5wO1-VTkxByIXRtr_OPR1ED6eblZ_SqPWIYDU.jpeg?width=640&crop=smart&auto=webp&s=4786864d35c9f3bee8ff8618d1e3b5c26cffb591",
-      "external_url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
-      "site_name": "Mother Jones",
-      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
-      "description": "They're also working with the Trump administration to remove AI regulation and obtain military contracts."
+      "description": "There\u2019s an interesting argument in this Fortune piece that the question \u201cDid you use AI?\u201d is becoming too simplistic for writing. There\u2019s obviously a big difference between using AI to brainstorm or fact-check, asking it to polish something you already wrote, having it rewrite sections, and giving it a prompt to generate the entire article. Treating all of those as simply \u201cAI-written\u201d makes the disclosure pretty meaningless. The author proposes a self-reported scale ranging from completely human-written to AI-generated with minimal editing. I actually think this is a more useful way to think about AI-assisted writing because the important question isn't necessarily whether AI was involved, but how much of the actual writing came from it. Would a standardized disclosure like this make AI use in writing more transparent, or would it just create another labeling system that people ignore? Fortune: Stop asking writers if they used AI. Just ask them how much"
     }
   ],
-  "fetched_at": "2026-09-29T15:24:43.586725+00:00"
+  "fetched_at": "2026-09-29T20:08:15.868200+00:00"
 }
