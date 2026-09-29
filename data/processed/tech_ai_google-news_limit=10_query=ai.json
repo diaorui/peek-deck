@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5",
-      "pub_date": 1790641182.0,
-      "article_url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI scraps rollout of new model over safety concerns",
-      "source": "bbc.com",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5",
-      "pub_date": 1790673253.0,
-      "article_url": "https://www.bbc.com/news/articles/cm5y5nynl75ko",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
-      "description": "The firm also issued an update on incidents in which its models accessed Australian government systems."
-    },
-    {
-      "headline": "OpenAI shelves new AI model release over safety concerns",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
-      "pub_date": 1790634840.0,
-      "article_url": "https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+      "headline": "OpenAI debuts Dots AI agents in challenge to Meta\u2019s popular Muse agent",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTm9sbmN1ZXFheXNuUUN4a1Yzci1uUnFsQjl5dVpJdzJQQk95SHc0UENOaXJyUkdNTjFSV0ZzVkJvM1RmZWFlSG44bFNvZzBIUjBfcExvci1DaXVFN2k1MDJTVXNGMjRld0R4U0lqUWpHdG5KcGl4dVhIS3FXZXRNdGRYNU0xR0JVMTk3QXNJY1dNUkliNnJZWElYZWQ2SXZQV0lIS0VrZlE?oc=5",
-      "pub_date": 1790686557.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-anthropics-ipo-prospectus-shows-231722972.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/693a8ca5db6c9dbbc81c0153fb230bee46a1ba6e18200a3b695fd64bf262e4de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5b14cc8165024c0560e9dd59381304c9.jpg",
-      "description": "By Echo Wang Sept 28 (Reuters) - Anthropic is making a massive bet that AI will transform the global economy more profoundly than industrialization, electricity and the internet, according to its IPO"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3U4WmgtZ1JKNnRYTlJZUVdnNW5lWU5lTGF0UkhHSnJBOHFmSG9YeGx6ZWxqOVAxOUlHcXJWY0d0N1hKQ1JBVTlUeGp1NVFzODl5OHNxUFZtUTRDaU5DOS1MOUk4NDFLNlpxR1NhZV8yLV9Ic2J5N2FNR3NjeWxtazJYRkdVQXZVY3JPbTMxMlJlUWJsTzc0emE5Sk13Q0FRYVJtUUllWHRyU0Z4emNJMndoajhURW1NXzg0Z3MyZVNubFpYNmE0aA?oc=5",
+      "pub_date": 1790704208.0,
+      "article_url": "https://finance.yahoo.com/technology/article/openai-debuts-dots-ai-agents-in-challenge-to-metas-popular-muse-agent-174616593.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/da55e21a19b5d66ed1a2857c2563db414249db7e26487ec50a3491db3f36c849/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-09-29-at-14305-pm_1222.png",
+      "description": "OpenAI debuted its Dots AI agent at its DevDay 2026."
     },
     {
-      "headline": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5",
-      "pub_date": 1790641020.0,
-      "article_url": "https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/",
+      "headline": "OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkdWY0tGVFAtWVplbzRxRmNxdzJaQ0JVSVFTbXBEZHVvZnJRRUtGNUF4Q05kU1ZyNGNUYjgwWld3WWltZWpmSUNuX3ZFX3czSDlhbFh6S1psUU1rTkRSdjlCYUlNak53b3dCZDRqcmZFMVNOMk1NWEFSNkJCTGR2enBRckM0STVVd3I2VmMtOUxnQVJCS1dZa0tNRmhwam9wYThHcUoteWU3NUU?oc=5",
+      "pub_date": 1790701683.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic says its AI models pose \u2018existential risk to humanity\u2019 in leaked IPO filing: report",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yVVotNUw0akJjUWNDU3NsREozUjVfbDRWSGVwaHlrei10a0xzSk85ZGcwUDVES20tYVFweTdfNjY4akRkMW1Mb28zMUgzOERiQ0VSWUFJdU5UbGpQQmRkMkxUQlM0dmNzMGRvTVBEVQ?oc=5",
-      "pub_date": 1790692654.0,
-      "article_url": "https://www.cnn.com/2026/09/29/tech/anthropic-ipo-details-leak",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2278736775.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Anthropic says its AI models could pose a \u201ccatastrophic or existential risk to humanity\u201d and can \u201cresist shutdown,\u201d according to an initial public offering prospectus obtained by Reuters."
+      "headline": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGJFaDNyanYxRUViYmszWXFtV0tSV3h0SmJjN0ZZdUExb1ZjRGM4eVR2UkVuc2JMM0pPVm9oOVlaU21HMktwU0VmdWhwN0NubTBISFFLYkZOMFR3aU9saEluQmNzd0tmNTVmdUt5N25FRXIyNVBVZU1LZDlVeEx6cWVwOVVGbnQ4VEszNENMTlJsVnRMWUYtQVF1UHYzOWtQYnN6d3BaYXRrRldHNVlyRjY5d24yaTFuU0E?oc=5",
+      "pub_date": 1790706900.0,
+      "article_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
     },
     {
-      "headline": "Mike Johnson backs voluntary regulation to \u2018calm the nerves\u2019 on AI safety",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc19ISWQ5Yy03b0RIcTZyNm94dWs5cFIzYjlXbVIzYXVYZjQ3U0J0a0llQkNoZVBiWjdTZklBd043a0pPcTNyVUZneURxbDRCODlCalZKTGttZWV2dUNJVW52M0JKWXl2WVpnYmNLQklvcGdLc1VaSzVibGpUUXB6WUlfT0dnQ0o2TmFDdTJVM3VWaFJHYmduWHRpRnQ3STNUN19IUA?oc=5",
-      "pub_date": 1790693098.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/29/congress/mike-johnson-ai-voluntary-oversight-01096666",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI DevDay live updates: Altman faces safety questions, Meta AI chief pokes fun at rival",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5idERPZWJyRmd3emJFdjh2SkNZank1Wnc0aVlJYi1ENFlxbS1vLTc3SEVOWkRvSEZkSEtMdFE5MmJYOEVEdmdzbEJDLWxwa0N1ZTZzSDUza2lKNGpNNmRUaUw0TVFKT1lvcEs1ZXN3bUJJM2kzaW5v0gF8QVVfeXFMTXRqSjVPc2kteE1lTjI4YjJ5QWZKV3plRlliV3FqZ05sRWZfR3hVZkFLUHdPaWxRZmltNDEzM2lHRk02RWJCbTAtYUJmYU5CUm5NS2p5T3lYaC0tM0FTZDhjdXZWalV6OUNYR0hEblN1dEhCNU1kb1U3U3E5Ng?oc=5",
-      "pub_date": 1790693640.0,
-      "article_url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108317329-1780663279355-gettyimages-2279132083-BLOOMBERG_TECH.jpeg?v=1780663408&w=1920&h=1080",
-      "description": "Follow CNBC\u2019s live coverage of OpenAI DevDay 2026, including Sam Altman\u2019s 12 p.m. ET interview, keynote and developer announcements."
-    },
-    {
-      "headline": "Trump will pitch an AI \u2018golden age\u2019 to a wary nation, flanked by industry leaders",
+      "headline": "Trump launches government chatbot, urging a wary public not to fear AI",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3RubTFVMl8zTXl3UHFxNnoxOU5BSTVCSHFxSkZINzNJNExKbmo1RmVoSS1yeVBqeXk5ODQtc1EzOFo1S042NzZGX2hocDcxUlcyRl95b1dnWUNtTWU4eF90cXdNeUJEdGVfbmxzWjkwd0NtNl9SREJRSlpGWWsxQWdtNENRcmNURFBCRWl4RGxLcVJPM0lydWxiajl0bk9KT0YwMEs0TU1iMVpkcUxJLXVibw?oc=5",
-      "pub_date": 1790694267.0,
+      "pub_date": 1790710467.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/09/29/trump-is-selling-an-ai-golden-age-fears-about-perils-spiral/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/R2RR5TB524IKSYKLXJZAZRE2KU.jpg&w=1440",
       "description": "After rogue AI agents probed agency websites, Washington\u2019s concerns are at a peak, but the White House has focused on the technology\u2019s promise."
     },
     {
-      "headline": "Exclusive: Full list of attendees at White House AI lunch",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SQ1ZEQ1BwZWFXQ2RFT1RlMmVaSkxwN1RtU3FmTFB0WjJEZFhNWlp4dHdjN1VocjFFMGc5T1BZMF9TcTlJazlzUmxMVmx4cGRHRUwxTnNpc1Y5ZlFoR2ZVTkJ4WHVlQ0tmTTFJV21VcEI1bWJBcVE?oc=5",
-      "pub_date": 1790689310.0,
-      "article_url": "https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson",
+      "headline": "Cruz blocks Senate Democrats\u2019 bid to pass AI safety bill",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWxPN3BfV1JtdGw5cW9JUjJVMkgxVHl4WEJpQm1vcmNNZ1Z3QlFyaWh6eFZQeFZGbVNmYVVZT0lHVnpFODI5Rk5paXNZclJPbFR6RGdmdEtVWXlOMkhIX1lfQ0czYVp0ZndnWGZTZGdId0JRZGlLUmRHTkNnR0tBblpQTFYwRlNYN09sYXdma2F4eXBTSGJMMUM2el94cE5wTUN5NW14dHllQ3FiQ1JldjRMMGQtTk01Mk9VSXpwaw?oc=5",
+      "pub_date": 1790708119.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/29/congress/cruz-blocks-senate-democrats-bid-to-pass-ai-safety-bill-01097480",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
+      "pub_date": 1790637420.0,
+      "article_url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic \u2018warns of existential AI risks to humanity\u2019 in IPO document",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDd1U3B6WHhqcExpRHVEam1nY3VUZ1lnbmlOXzcya212aExJWDl1R0hiZnZFeTNONzhBNjRQWWo5OXkxTk0zQkI5OE9uekQzbDFkc1VpYmE0NF9SQ19kNnhJZWI2SFhfTFlxejgzRXZ3ZDRfS3FWejRsS0tBejBlT0hZb0c1c2c1cjkwdVJtZ20wdDVfNVFLYmN0eDZ0aFY1XzF5RGR5S0RMeXB0MjRpcVdZR25HMnc?oc=5",
+      "pub_date": 1790684160.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
+      "image": "https://i.guim.co.uk/img/media/8d923f6c4bc1f85ed36638ae242779b53f685b0a/76_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=826b332153ce712434d319433d9665db",
+      "description": "Reported admission to investors of AI\u2019s \u2018self-preserving behaviours\u2019 comes as company prepares for a potential $2tn flotation"
+    },
+    {
+      "headline": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
+      "pub_date": 1790705161.0,
+      "article_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Man charged over AI image of crocodile in Singapore reservoir",
+      "source": "bbc.com",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JTVBrRzk1OHE1MmZacEIxc3NOdGhWdy1Gbkk3YkM1b0RiMnJQWE1pRVBudzlYaDRqVzlMc2RnTFJ5bDY3VGJiZ2VuMldWcnhBdGxGdXJvMjdkQms?oc=5",
+      "pub_date": 1790687335.0,
+      "article_url": "https://www.bbc.com/news/articles/c6grveg7d9zro",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bee8/live/73545b90-bc06-11f1-90b9-913e4354ed35.png",
+      "description": "The defendant could face jail or a fine after the image sparked a search operation in the city\u2019s largest reservoir."
+    },
+    {
+      "headline": "Inside the Biggest Feud in Artificial Intelligence",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVaQ3hxSkFIeXJrTHA4WGp0Um1ST3Vvd0JTbWh6SjZ2UnJ3WE56aDFseGNkT2wta3ljVVdFMEhBeXIyeGl4NkxJdUlPdW1tNVRDVGl3T3hPNl96WWpQb3hoRXRybFBlc2QzUlRaYVJ0cmVMZ3ptR09iMHl2bnhXSGpJMGFwVWljdEE5Qm9WcHNaWVlIWWZ1WHYtN2dIWVdqXzJN?oc=5",
+      "pub_date": 1790676000.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T15:25:14.420094+00:00"
+  "fetched_at": "2026-09-29T20:08:46.847955+00:00"
 }

@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Satsie's Pocket Guide to Op_cat (Bitcoin)",
-      "url": "https://satsie.dev/zines/opcat.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49803638",
-      "author": "EthanHeilman",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-09-22T16:11:53Z",
-      "object_id": "49803638",
-      "image": null,
-      "description": null,
-      "favicon": "https://satsie.dev/favicon.ico",
-      "site_name": "satsie.dev"
-    },
-    {
       "title": "Bitcoin trading model, published in full \u2013 wins and failures",
       "url": "https://www.bitcoinai.pro/",
       "hn_url": "https://news.ycombinator.com/item?id=49884283",
@@ -103,7 +89,7 @@
       "site_name": "GitHub"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-09-29T15:24:41.577098+00:00"
+  "fetched_at": "2026-09-29T20:08:12.971729+00:00"
 }
