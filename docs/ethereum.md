@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-29T08:53:36.163219+00:00'
+updated: '2026-09-29T15:25:16.125152+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 29, 2026 at 08:53 UTC  
+**Last Updated:** September 29, 2026 at 15:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,674.28
+### $2,732.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +0.8%  
-**30d:** +9.8%  
-**90d:** +59.2%  
-**1y:** -34.6%  
+**24h:** -0.4%  
+**7d:** -0.3%  
+**30d:** +8.5%  
+**90d:** +57.4%  
+**1y:** -35.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.87B
+**Market Cap:** $328.13B
 Rank #2
 
 **Circulating Supply:** 122,090,191 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.2%
+-45.7%
 
 **All-Time Low:** $0.43
-+625844.9%
++620461.3%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegotá upgrade frames-devnet-0 live, Nethermind 2.0.0, Daisugi post quantum testnet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-2/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-2/) • 4d ago
 
 ---
 
@@ -156,21 +156,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz.
 
-fool.com • 13h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
+**[Will Ethereum Hit $4,000 Before the End of 2026?](https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/)**
 
-Vitalik Buterin's website • 1d ago
+Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?
+
+24/7 Wall St. • 23h ago
 
 ---
 
-**[Vitalik Buterin Says Ethereum May Barely Be a Blockchain by 2030 — Could ETH Still Hit $40K?](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-says-ethereum-may-135215026.html)**
+**[LINK Hits 2026 High: Chainlink Rally Outpaces Bitcoin, Ethereum And XRP](https://finance.yahoo.com/markets/crypto/articles/hits-2026-high-chainlink-rally-120332944.html)**
 
-Vitalik Buterin says Ethereum’s 2027 Hegotá upgrade could be its final “normal” fork before the network undergoes a more radical transformation. His vision combines blockchain ...
+Chainlink highlighted institutions and crypto platforms including SWIFT, DTCC, Euroclear, UBS and Aave in connection with its CCIP ecosystem.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -178,39 +180,29 @@ Yahoo Finance • 19h ago
 
 Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Ethereum’s Next Upgrade Could Change the Network Forever: What Vitalik Is Planning for 2030](https://bitcoinfoundation.org/news/blockchain-news/ethereums-next-upgrade-could-change-the-network-forever/)**
+**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
 
-What is special about Ethereum’s next upgrade? How likely is it to move ETH price up? Here's what Vitalik Buterin has in stock.
-
-Bitcoin Foundation • 1h ago
+Vitalik Buterin's website • 2d ago
 
 ---
 
-**[Will Ethereum Hit $4,000 Before the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-4-000-end-160027391.html)**
+**[Vitalik Buterin Says Ethereum May Barely Be a Blockchain by 2030 — Could ETH Still Hit $40K?](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-says-ethereum-may-135215026.html)**
 
-Ethereum just posted a stunning 72% quarterly surge, but the clock is ticking and a wall of frustrated sellers waits ahead. Whether ETH can hit the $4,000 milestone before 2027 depends on one critical monthly close.
+Vitalik Buterin says Ethereum’s 2027 Hegotá upgrade could be its final “normal” fork before the network undergoes a more radical transformation. His vision combines blockchain ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide as Treasury Yields Push Higher: Analyst Flags BTC 'Buying Opportunity' Before the Rally Resumes](https://www.tradingview.com/news/benzinga:f141fadd9094b:0-bitcoin-ethereum-xrp-dogecoin-slide-as-treasury-yields-push-higher-analyst-flags-btc-buying-opportunity-before-the-rally-resumes/)**
+**[Bitcoin, Ethereum, Solana, and XRP spot ETFs all post net inflows on Sept. 28](https://www.tradingview.com/news/cryptobriefing:4afb32594094b:0-bitcoin-ethereum-solana-and-xrp-spot-etfs-all-post-net-inflows-on-sept-28/)**
 
-Leading cryptocurrencies declined further on Monday as investors reacted to rising bond yields and growing expectations of interest rate hikes.Crypto Market Drops FurtherBitcoin pushed for a breakout above $84,000 but met strong resistance and fell back toward the $82,000 area.Similarly, Ethereum h…
+Every major crypto spot ETF had a good day on September 28. Bitcoin, Ethereum, Solana, and XRP products each recorded net inflows simultaneously, according to data from SoSoValue, bringing the day's combined total to roughly $65 million.Bitcoin ETFs led on the day with $31.07 million in net inflows…
 
 TradingView • 7h ago
-
----
-
-**[Tom Lee Says ‘Stay Tuned’ As Bitmine Nears 5% Ethereum Goal, Hints At What’s Next](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-stay-tuned-123720932.html)**
-
-Tom Lee-backed Bitmine now holds 4.9% of the supply of all the Ethereum in circulation.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -218,15 +210,23 @@ Yahoo Finance • 2d ago
 
 Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
 
-PR Newswire • 20h ago
+PR Newswire • 1d ago
 
 ---
 
-**[BitMine’s Ethereum Stack Crosses 6M, While Strategy Taps MSTR Sales To Buy BTC And STRC](https://www.tradingview.com/news/stocktwits:94610716f094b:0-bitmine-s-ethereum-stack-crosses-6m-while-strategy-taps-mstr-sales-to-buy-btc-and-strc/)**
+**[Glamsterdam Testnet Announcement](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement)**
 
-Crypto treasury companies continued to expand their digital-asset holdings last week, with BitMine Immersion Technologies (BMNR) crossing 6 million Ethereum (ETH) while Strategy (MSTR) and Strive (ASST) added to their Bitcoin (BTC) holdings.BitMine’s Ethereum Stack Crosses 6 MillionBitMine said Mon…
+Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and...
 
-TradingView • 17h ago
+ethereum.org • 15h ago
+
+---
+
+**[Crypto News: Pepeto Announces DeFi Tools Built to Fix Ethereum's Costs While the Ethereum Price Prediction Targets $6,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-tools-built-to-fix-ethereum-s-costs-while-the-ethereum-price-prediction-targets-6-000-1036580288)**
+
+DUBAI, United Arab Emirates, Sept.  29, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its DeFi tools are nearing launch, a zero-fee exchange, a l...
+
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -234,13 +234,23 @@ TradingView • 17h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 BTC &amp; ETH: ITS ALL FALLING APART BEFORE OUR EYES!!!!! (URGENT UPDATE!)](https://www.youtube.com/watch?v=KOrx6WBRN3w)**
+
+Bitcoin and crypto are holding on! However the rest of the markets are telling us a completely different story! Here is what you ...
+
+📺 Thomas Kralow
+
+👁️ 6K • 👍 1K • 💬 29 • ⏱️ 13:28 • 5h ago
+
+---
+
 **[Raoul Pal: Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x](https://www.youtube.com/watch?v=lkki8XmPoj8)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 273 • 💬 49 • ⏱️ 21:29 • 16h ago
+👁️ 14K • 👍 331 • 💬 37 • ⏱️ 21:29 • 23h ago
 
 ---
 
@@ -250,7 +260,7 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 27K • 👍 763 • 💬 42 • ⏱️ 12:21 • 1d ago
+👁️ 27K • 👍 774 • 💬 42 • ⏱️ 12:21 • 1d ago
 
 ---
 
@@ -260,17 +270,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 8K • 👍 248 • 💬 128 • ⏱️ 39:58 • 12h ago
+👁️ 12K • 👍 321 • 💬 175 • ⏱️ 39:58 • 19h ago
 
 ---
 
-**[Why This CEO Won&#39;t Touch Ethereum](https://www.youtube.com/watch?v=vZgUsND3Vzc)**
+**[Joseph Chalom: Ethereum Is The Toll Road To Everything (Larry Fink&#39;s Words)](https://www.youtube.com/watch?v=s-Gu-S-VM6Y)**
 
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Matt Cole runs ...
+Joseph Chalom says Larry Fink's line that Ethereum is the toll road to tokenization is exactly the right way to think about the asset, ...
 
-📺 Lark Davis
+📺 The Rollup
 
-👁️ 8K • 👍 162 • 💬 20 • ⏱️ 13:09 • 11h ago
+👁️ 20K • 👍 335 • 💬 58 • ⏱️ 31:51 • 14h ago
 
 ---
 
@@ -280,27 +290,17 @@ BITCOIN & CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 8K • 👍 353 • 💬 27 • ⏱️ 23:15 • 7h ago
+👁️ 14K • 👍 441 • 💬 51 • ⏱️ 23:15 • 13h ago
 
 ---
 
-**[TOM LEE&#39;S SHOCKING ETHEREUM PREDICTION](https://www.youtube.com/watch?v=eRhJpssWsoI)**
+**[Why This CEO Won&#39;t Touch Ethereum](https://www.youtube.com/watch?v=vZgUsND3Vzc)**
 
-1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Tom Lee is calling for 60000 dollar Ethereum within a ...
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Matt Cole runs ...
 
 📺 Lark Davis
 
-👁️ 37K • 👍 669 • 💬 91 • ⏱️ 7:46 • 2d ago
-
----
-
-**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
-
-Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 27K • 👍 1K • 💬 356 • ⏱️ 12:51 • 21h ago
+👁️ 11K • 👍 199 • 💬 24 • ⏱️ 13:09 • 18h ago
 
 ---
 
@@ -310,7 +310,17 @@ ETH is still in a bull market structure after an 86% rebound from the mid-year l
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 59 • 💬 9 • ⏱️ 10:22 • 18h ago
+👁️ 4K • 👍 63 • 💬 9 • ⏱️ 10:22 • 1d ago
+
+---
+
+**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
+
+Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 28K • 👍 2K • 💬 363 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -320,17 +330,7 @@ Vitalik Buterin just published "The Cryptographic World Computer," an essay that
 
 📺 BasedGiant
 
-👁️ 3K • 👍 135 • 💬 19 • ⏱️ 9:23 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum, das sieht nach grösserer Korrektur aus! Dieser Chart hat es gesehen!](https://www.youtube.com/watch?v=HbSUHbsH5lI)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 473 • 💬 97 • ⏱️ 10:58 • 4h ago
+👁️ 4K • 👍 137 • 💬 19 • ⏱️ 9:23 • 1d ago
 
 ---
 

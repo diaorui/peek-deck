@@ -9,14 +9,14 @@
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5",
-      "pub_date": 1790634900.0,
+      "pub_date": 1790676900.0,
       "article_url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64",
       "image": null,
       "description": null
     },
     {
       "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTThaX05vYVJyNDRWSzRabkd1Q01oQXdvZDJua1hfRGJkMXlBV0h2SDF5WERfZDYwSGhHajZPSXMxcTEzSElab3hoUFozMjNWam1jdzhOSHhPV3NsRnkzNkY5a2xfalByN0Z6SkNtekphTFR2MkhYQlZ5SFkzWUdQZjgxSHFGajdKVUlDQW1FNVZsemVJeW9Z?oc=5",
       "pub_date": 1790594100.0,
@@ -25,14 +25,34 @@
       "description": "Although Bitcoin probably isn't going away, within five years it will be vulnerable to significant disruption."
     },
     {
-      "headline": "Binance Research Found One Number That Separates Strong Bitcoin Rallies From Weak Ones",
+      "headline": "El Salvador Shifts to Stablecoins as Bitcoin Payments Wane",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXoycVROUVRIUzZJN3o3aFBxTVRsNE45T1pQTnNfaHNDaTctVDlERDBZcDhoNjV6RS1kU1hDZU83OUlybERlSzF5OU9fb3RBVjBkbkNFVlMwTl9LUS1sdjdtaVAtS2UxblNKNGkzaUlhMGc1LW0teWxDVzNvUTVGWXh6VE9uaVZHNGZpQ0JHamluNVR3VmtQbE5QM2EtcXFnem01bA?oc=5",
+      "pub_date": 1790691841.0,
+      "article_url": "https://www.pymnts.com/cryptocurrency/2026/el-salvador-shifts-to-stablecoins-as-bitcoin-payments-wane/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2026/09/El-Salvador-stablecoins-bitcoin.jpeg",
+      "description": "Five years ago, the government of El Salvador made bitcoin legal tender in the country. Now, the country\u2019s government is shifting to another form of"
+    },
+    {
+      "headline": "Crypto Stocks Rise With Bitcoin Above $84K \u2013 Analysts Raise Riot, Robinhood Price Targets",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkxYZHZBSDdvaVU0SHZRSWNTdmR4cGVQNUhZM0JlTEthN0Zza3ZBek9hYXVNb3V2QkgxSVZwRTNWYUZFbDRxUXBIUHlfZmljZ1VGNUVnYXBIeEFSM2ZTT0d4NkdzV0YtWDNiNEdYM2JsVmpVQ3lrRDZ1d0dJcFh5a1VmV0xINk5zNERHNk51WFdOUm9OZGpKUGJtS1JRUTQ?oc=5",
-      "pub_date": 1790664697.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/binance-research-found-one-number-065137585.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/037d3eaee3c53ef2fc2bc34d77c704660168a75e01a66bcd8ff22659d01402d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fdb3aba55efc03063481175b09ca7d85a.jpg",
-      "description": "Bitcoin's golden cross follows 293 days below the 200-day MA, a setup Binance links to past peaks of 100% to 600%."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakVJXzNoRkxLSjFjLUpCc1lsNHlnSFUydVFhbGgyRTJoaWR6Xy1ZUzdnYTVla1Y2LWNyVWVhaXlySlNRcjB2SjNWR0VoRFZ3MFZFWHJTQ0RLUldCUmFTbWhHanFnaFlCRFpZVXJld214LTdoTklva1dmUk1Vb3RYMW03cjc1SVZZUVFNRjQ1Y09HN2U0OEJ3MC1LMnh4dw?oc=5",
+      "pub_date": 1790691145.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-rise-bitcoin-above-141225285.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fe1f8fcaf673ad87d583ca8012c1d6c5fd505f08b258b92939e86ce701e562a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F14ecfd3814c70fbd6491089988c03021.jpg",
+      "description": "Wall Street raised targets for Riot Platforms and Robinhood but cut forecasts for IREN, Bullish, and Gemini."
+    },
+    {
+      "headline": "Is Bitcoin a Good Investment for Retirement? What Experts Recommend",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWhmRnBkb1BqWXZEcnc2Rm11dmdZVFRzOC1rTTU1MEJScmpLX3MwaF9lamc4NklXRTVXZXpSSXhFdmVSRW9LSTlnQ24zdENmNVc2Y0dXNFFQTTRDcFdmUEp1Q0RmbGx6eWg5VThUYVRNYnhiOFJHTERTVEt4TkU1cnAtQkkzZ0VkWk9Zay1lVDhGSkFrS3FoOUhFaXJrbE1ISWN2Si1RdTRyYUU?oc=5",
+      "pub_date": 1790688607.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-good-investment-retirement-experts-133007817.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5651a2a9ad50711011edee6906bb6e7421f61812b093175abfe79ae7f1a07da5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F5926c5f91d58a3e88c5a23d5e020431a.jpg",
+      "description": "Suze Orman, Clark Howard, and Dave Ramsey all have opinions on whether retirees should hold Bitcoin, and they do not fully agree. The answer depends on one factor most retirees overlook when they first consider adding crypto to their portfolio."
     },
     {
       "headline": "Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)",
@@ -45,14 +65,34 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand",
-      "source": "Bloomberg.com",
+      "headline": "Bukele Turns to Stablecoins as Bitcoin Payments Fail to Catch On",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWpvSDVtc1BwQ3ZFV05fNGg5d1JnckFiOERIX3dWUzFJRFZpVnlhekFWOVJoa2ZSSU5pQWVta19fTDVpUlk4LU4yZVQ0Y2tkdmhxeGFzcVJPa284WEV6bzhkcDBPM0MxYzdnUnJIUHAyNTBTVWN5WXNPMlpNbHRPWEp5MkwydElpWmRDdHd4LXVJd1FCOTZsRjNhRHN5OVc1TDFaUkRBb09obXl3V1E?oc=5",
-      "pub_date": 1790628007.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnlZaEZoalQ4eGNab0N0QUJLRkZ5a1JhbTlFMUUzZkN5Y09WQjREd0FiVDNSaHpPUS1ZRHJYT3I4VVAxelcxNXJ4M0RxSC1lWWZyMjRCeXVFSXFpaWctdGd4eWgxUlB2TE0td1hIWnR4M29LR2h1SmxraVpQeF9GRUNCUWpwNlFVSFNKcXV1ZFN3M1hQRWp1SEozcWJrOWNmTFB2QlJpOHFaWEZ0eEo4QVJlaDVBdw?oc=5",
+      "pub_date": 1790676000.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/bukele-turns-to-stablecoins-as-bitcoin-payments-fail-to-catch-on",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "HANetf Launches First Euro-Hedged Bitcoin Fund",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXy0yUEwzSFVrMFFWU2NyVTdEeHQ0R29zOG4wZkNWcndPU3dhcnFBTnN6d1pOUW5oTWs5QVk1aDh6a0FIVkpRS20wSUF5Uk9XUDA0bEFJamlBLWtORUpZdndTdUpxTnl2dXVESGMyNFVtVFhacWVScnN2VUluLTdTbWxPRDRBNmgyX3g0aXBGOEhCNHQ2T3JCQzBR?oc=5",
+      "pub_date": 1790692200.0,
+      "article_url": "https://www.wsj.com/finance/currencies/hanetf-launches-first-euro-hedged-bitcoin-fund-0f057d2e",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin beats gold, surge to $100,000 in play: Crypto Daily",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaW13WURaZzRmZG1BTGV0MC1LSGxlZ2diTmp3UG1KLUpTRjBxcWNWSmNiNG1wdWVlVXJ2UTY2cVRsVWdFY1kyU3dkZTdzZElaX3Roazhoam91UXBrbGtMcThLT0tQZDRMMENMb253Y2F6U0k1ODNUdHRPUHprLWgyY3FPdTlGdUhfQUlrNFVDTWd0VE8yRnRRY3M2bEM?oc=5",
+      "pub_date": 1790681791.0,
+      "article_url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Your day-ahead look for Sept. 29, 2026"
     },
     {
       "headline": "UK Chancellor of the Exchequer Blasts Nigel Farage\u2019s \u2018Bitcoin Account\u2019",
@@ -63,48 +103,8 @@
       "article_url": "https://bitcoinmagazine.com/news/uk-finance-ministe-nigel-farage-bitcoin",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Credit.jpg",
       "description": "The UK\u2019s finance minister has criticized the pro-Bitcoin leader of Reform UK, Nigel Farage."
-    },
-    {
-      "headline": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEdaZUthdVM5QXdhODg1SFZTQkM4b3BKZUtQdXlQclJablo5MUZxbGlJSnBnTk81MGxFT3NfNjdMQUlFb05wT2ttUXktUnN1bmNKVU5CdlBtZ0U3R3NlMXVQME9YUlZ0aWtLRExXajdISGhrRWRlYUhfS0NlUkVhcURldlhlZ193VTE0U1RuTVUzM3AyMFZmTU5xWWsyR3lxcVp5amxmbU92bWNxUks3bHZlWjFLb19wYk5jME44Q1JQTEF0OS00ZnE5aw?oc=5",
-      "pub_date": 1790611233.0,
-      "article_url": "https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/01/20240111_Bitcoin_News_3.jpg",
-      "description": "SATA supplied 85% of the week\u2019s capital as Strive moved closer to MARA and continued pursuing its year-end second-place goal."
-    },
-    {
-      "headline": "Bitcoin Holders Are Selling, But This Time It\u2019s Different: What You Need to Know",
-      "source": "247wallst.com",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1pjQzFadG5wOXBrS3lYNVppbjF2eVp3WTBCN0xWa04yWU9jSDZVYkhNRnM2aXg1cFdRZ0FHQVIyRUhfUUNCTHYtaFhjdENNTzJ3ZEJJSVIwMFB0SEZ1RXdYSWdZejFoY0oxbTJlZjBoNWZtMTR2VHFmOEMySnpOMGMxT1NVWXNQOEhoN3pYRjZTQ29VS1NfbDlubTc0b1MzLVcyQTdSYjJGNlBYTVROem9wNUNMSXRhNVJXV3NaWlZfdUdZbHYzTTdjWEgxVFJsM3c?oc=5",
-      "pub_date": 1790506800.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/bitcoin-holders-are-selling-but-this-time-its-different-what-you-need-to-know/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Current price of Bitcoin for Sept. 28, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10TUZGTV9PZWFjUUFTTUwwLTJRZGllSjJEbk5zLVVaTnJSOUd1LUw2OGN3bWl4azRQcDd5VDBuenoxYm93UDdlNS1GWk84Vk5yR3lmYVpma09tOHI4M2NNWGhwYVIwWUU?oc=5",
-      "pub_date": 1790611140.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-09-28-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-28.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Hunter Biden Predicts Bitcoin Will Hit $220,000 by 2028, Calls Elizabeth Warren's Crypto Criticism 'So Wrong'",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXA1ZUlMandzbWkzLVhEdTM3bGZSU2Y3bVpVYnF2Y1l4aldTS2xVN2dodzE3SzlPUElhamM1YWhTOS1GWGdIN0Q4VXlsUUx6WHZmejRoM01mTng0UXJPRTNqc1BybXBKdVhGZkZFeHIzWl9MNDR2eW5RRFZINm10cmZZbEpTakxLRk9oaFpEU0ZRdmlVelhiaEwwZ2dlVDdfNDZWNjRjQ1NXU3Z1dF9vRlUxNnZ4bnlKYTlrZWRhRTZwNnRha05v?oc=5",
-      "pub_date": 1790651106.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/62038273/hunter-biden-bitcoin-220000-2028-elizabeth-warren-crypto-criticism",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/29/Hunter-Biden-Addressed-The-Media-On-Dece.jpg",
-      "description": "Hunter Biden expressed strong optimism about Bitcoin and pushed back against critics of the cryptocurrency sector on Monday, September 28."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T08:53:30.921396+00:00"
+  "fetched_at": "2026-09-29T15:25:09.557525+00:00"
 }
