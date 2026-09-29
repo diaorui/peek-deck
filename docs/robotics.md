@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-29T15:25:16.126834+00:00'
+updated: '2026-09-29T20:08:48.472748+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 29, 2026 at 15:25 UTC  
+**Last Updated:** September 29, 2026 at 20:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-4d ago
+5d ago
 
 ---
 
@@ -80,7 +80,7 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-4d ago
+5d ago
 
 ---
 
@@ -108,25 +108,11 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 ## Google News: "robotics"
 
-**[Five million robots now work in factories as humanoid hype is tested](https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check)**
+**[Robotics startups are courting university researchers. Microagi just hired eight.](https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9)**
 
-Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
+Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group.
 
-Euronews.com • 10h ago
-
----
-
-**[World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers](https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/)**
-
-While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of
-
-TribLIVE.com • 18h ago
-
----
-
-**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
-
-Forbes • 8m ago
+Business Insider • 11h ago
 
 ---
 
@@ -138,9 +124,11 @@ The Information • 1d ago
 
 ---
 
-**[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
+**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/)**
 
-Barchart.com • 1d ago
+Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
+
+Defense News • 5h ago
 
 ---
 
@@ -148,15 +136,7 @@ Barchart.com • 1d ago
 
 The Kremlin has denied accusations that it was behind a fire that broke out at a military robotics plant in Estonia last month.
 
-themoscowtimes.com • 4h ago
-
----
-
-**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.yahoo.com/news/world/articles/estonia-blames-russia-arson-attack-145240116.html)**
-
-Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
-
-Yahoo • 32m ago
+The Moscow Times • 9h ago
 
 ---
 
@@ -164,7 +144,29 @@ Yahoo • 32m ago
 
 Estonian authorities say Russian intelligence ordered the August 15 arson at Milrem Robotics, a Tallinn defense company supporting Ukraine’s unmanned vehicles.
 
-united24media.com • 5h ago
+UNITED24 Media • 10h ago
+
+---
+
+**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
+
+Forbes • 4h ago
+
+---
+
+**[Five million robots now work in factories as humanoid hype is tested](https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check)**
+
+Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
+
+Euronews.com • 15h ago
+
+---
+
+**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
+
+The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
+
+NASA (.gov) • 1d ago
 
 ---
 
@@ -176,17 +178,25 @@ The Norfolk Daily News • 1d ago
 
 ---
 
-**[AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy](https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy)**
+**[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
 
-AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model experts to AMD, strengthening its ability to develop AI...
-
-TechPowerUp • 18h ago
+Barchart.com • 1d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
+
+A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
+
+📺 DW News
+
+👁️ 118K • 👍 525 • 💬 220 • ⏱️ 3:46 • 17h ago
+
+---
 
 **[A robot rolls off assembly line every 2.5 minutes](https://www.youtube.com/watch?v=PwI4n58b7z0)**
 
@@ -198,23 +208,33 @@ Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: t
 
 ---
 
-**[Optimus Gen 3 AI Robot Is Way More Insane Than Expected](https://www.youtube.com/watch?v=nOVgM-C8Yy0)**
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
-Tesla Optimus Gen 3 may have just leaked inside Tesla's own app, revealing a dramatically more finished gold-and-black design ...
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
-📺 MACHINEKIND
+📺 World Best Talent
 
-👁️ 1K • 👍 36 • 💬 2 • ⏱️ 13:03 • 14h ago
+👁️ 803K • 👍 4K • 💬 265 • ⏱️ 25:31 • 3d ago
 
 ---
 
-**[Human vs 6-Foot Terminator Robot](https://www.youtube.com/watch?v=mT6o_kNVZMc)**
+**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
 
-A human just went head-to-head with a 6-foot robot that looks straight out of Terminator Frankie landed some punches, but ...
+Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
 
-📺 Shorts_of_Crimson
+📺 ejunky66
 
-👁️ 6K • ⏱️ 0:24 • 6d ago
+👁️ 734K • 👍 8K • 💬 605 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[1,000,000,000 Humanoid Robots Elon Musk Predicts … Is Transhumanism Next? 😱](https://www.youtube.com/watch?v=Ijl-w8CYZ0Q)**
+
+Elon Musk has made a staggering prediction about the future of humanoid robots and Transhumanism: a world where billions of ...
+
+📺 ejunky66
+
+👁️ 171K • 👍 2K • 💬 255 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -224,47 +244,17 @@ Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A 
 
 📺 Mark Dice
 
-👁️ 622K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
+👁️ 624K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
 
 ---
 
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
+**[Optimus Gen 3 AI Robot Is Way More Insane Than Expected](https://www.youtube.com/watch?v=nOVgM-C8Yy0)**
 
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
+Tesla Optimus Gen 3 may have just leaked inside Tesla's own app, revealing a dramatically more finished gold-and-black design ...
 
-📺 World Best Talent
+📺 MACHINEKIND
 
-👁️ 747K • 👍 4K • 💬 240 • ⏱️ 25:31 • 3d ago
-
----
-
-**[Can a robot clean your house better than a human?](https://www.youtube.com/watch?v=pFLMNqeAoj0)**
-
-A San Francisco-based robotics company is betting that humanoid robots can succeed where automation has previously ...
-
-📺 Reuters
-
-👁️ 433 • 👍 26 • 💬 5 • ⏱️ 0:57 • 2h ago
-
----
-
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
-
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
-
-📺 NBC News
-
-👁️ 356K • 👍 569 • 💬 70 • ⏱️ 0:59 • 6d ago
-
----
-
-**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
-
-Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
-
-📺 ejunky66
-
-👁️ 102K • 👍 1K • 💬 122 • ⏱️ 1:00 • 2d ago
+👁️ 2K • 👍 44 • 💬 4 • ⏱️ 13:03 • 19h ago
 
 ---
 
@@ -274,17 +264,27 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 90K • 👍 4K • 💬 286 • ⏱️ 13:48 • 4d ago
+👁️ 90K • 👍 4K • 💬 287 • ⏱️ 13:48 • 5d ago
 
 ---
 
-**[Manni FINALLY gets the GRAND PRIZE in War Robots...](https://www.youtube.com/watch?v=9J0hu2oyGKI)**
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
 
-War Robots Gameplay: Manni gets the Ultimate Raven & Atomizer in WR My War Robots Creator Link: https://wr.my.games/manni ...
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
 
-📺 Manni-Gaming
+📺 America's Got Talent
 
-👁️ 3K • 👍 282 • 💬 109 • ⏱️ 30:18 • 3h ago
+👁️ 761K • 👍 6K • 💬 712 • ⏱️ 4:18 • 6d ago
+
+---
+
+**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
+
+Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
+
+📺 ejunky66
+
+👁️ 109K • 👍 1K • 💬 124 • ⏱️ 1:00 • 2d ago
 
 ---
 

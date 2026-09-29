@@ -5,34 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Five million robots now work in factories as humanoid hype is tested",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1NVLXRiWnBTX09tcmgwVVc4VDZRd3h6bm0zazEwNk13SUF1bEtLVzNYVEs1SzV2UjBMLTlDQjF4amd6akNMT0pzeG5wdFREOS1renRsS1QtS1FoZlZJREpDRXZidFBmbjhYNlhLWHZ1eXRBd200R0pXU200X2REaUZwWVUwVHZyeGxZY3ZTWXNnd0E5dEdxWTFTVE5DWWtiTS1oLWRyRVFoRVM0UllvSkkwV0E?oc=5",
-      "pub_date": 1790657217.0,
-      "article_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
-      "image": "https://images.euronews.com/articles/stories/09/92/64/18/1200x675_cmsv2_a8bd4c1a-4d9c-54ff-9e05-fc14d79ca5bb-9926418.jpg",
-      "description": "Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines."
-    },
-    {
-      "headline": "World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers",
-      "source": "TribLIVE.com",
-      "source_url": "https://triblive.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUV9ndVoyTTItbDVnYnNFOU5CQ3duOE00d2x2M1BlQU9lQ1MyQ0hFNDBpMUxqQ21NUVliY2o1Vm8yOVZZcm9aTTVXYndqa3I2b3JNR3FKR2wwSnMyMW9nU2FoZnJTNWgwcEpxaHBSTGFnX1l0VVRyRzE5RlMxOE5Xdmw3cWJIMEJEUGFvLWJrblBIZmVBSXZYWWpFTWNHU2RzVlJhM0FUeGpYMVdPaERFMzk3WVBEbnJKSWZXYmFVSmlqV19yMGlTd0ZmdGVielJSdDZENGpB?oc=5",
-      "pub_date": 1790629081.0,
-      "article_url": "https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/",
-      "image": "https://assets-varnish.triblive.com/2026/09/9985692_web1_ptr-CMURobotConf1.jpg",
-      "description": "While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of"
-    },
-    {
-      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
-      "pub_date": 1790694988.0,
-      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
-      "image": null,
-      "description": null
+      "headline": "Robotics startups are courting university researchers. Microagi just hired eight.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXVRcnI3QUxWM3VDaFZwZWdLY2dwOUNXdDFLNjlFVHY2S1ctQ2VXcFBiOFRKNmpqVUg5ZjcwU2RqT3NFRHpIY3hSLTVBS014eHZ0bm5LQUNfcDQ5UUQyTU40WXZGX2xVcXc5WjJNaFJ3aDFCaE1oaDNBV2duZmJZTDFvRXM3VUNNQUEweWJxNEFRSU5XNFVrLWNuUV93cEhfdGZVZmt3?oc=5",
+      "pub_date": 1790672400.0,
+      "article_url": "https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9",
+      "image": "https://i.insider.com/6abaee20265e3f8e338f811c?width=701&format=jpeg",
+      "description": "Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group."
     },
     {
       "headline": "Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla",
@@ -45,18 +25,18 @@
       "description": "Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a \u201cChatGPT moment\u201d in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.\u201cI would say more ..."
     },
     {
-      "headline": "Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd0lQZVFRQVEwRUNZdnR0d0tKc1pTRTVYY0V1NEZfaVFPeFQzTVJwZ3dFTDMwa1pENWtPMDBmVHNCYWNtM1JOYkJHdnpqZWdHM3RCRVF0QjlhcVVtd1lHZ3FINUhoVFVIR2ltcTZzV2ZuaGVLVmpQaFpYLVVZakQ4dXo0VnB3UHh0T1RjSHRMNGFTa2FIYllSSzQwRW1PZjI4REpIRWR3WGZVZGRoWVFDUDJZUTUxVUtnd0x6M2t1TVRMb1VQcC16RFE0TDJnSExISXc?oc=5",
-      "pub_date": 1790600402.0,
-      "article_url": "https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now",
-      "image": null,
-      "description": null
+      "headline": "Estonia blames Russia in arson attack on military robotics firm Milrem",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOW04b3VBRmlkdTBLZUNpUXNJUktBV0RVUVdvdUVCZkdJZmpka05qRHRxeFhIV3JvTDFfT3JPOUg0X0hVd29QX1hzN01MWXNiNWN2OXFkSTRCa1JHQ1RtTVNnUjFFcm5vSHl3RTBaeTVpVUNwWVZZdWtQZ3RxNGM5blpsUjhaX0V5aGRITXZxa0YxY1piVUxzRHpyWWN1M09XdlZfbnNPUjd6SFpodmtmNFRFU1RZbnJhSS1zc0hiOGYzdw?oc=5",
+      "pub_date": 1790693560.0,
+      "article_url": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/YDOXTUX33VA7XJRF5NC6MTTFHY.jpg?width=1200&auth=40d27de9e7861dad775bdaf458b7450d434e9cf71cde110b368daa6f93fe72d0",
+      "description": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said."
     },
     {
       "headline": "Kremlin Denies Orchestrating Arson Attack at Estonian Robotics Plant",
-      "source": "themoscowtimes.com",
+      "source": "The Moscow Times",
       "source_url": "https://www.themoscowtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWFIMVY2R2o1NTVxRTA4cGhhSXBhdldUa2F1NDIyb2hVcFR4WjhnSzJkYmhHVmZIZU0zMmdSTDRUSTlQY3FRYl9QQ1hPOUFMQzM5NlM0VmlBeXZVand2S21SNUtJU1hFeXZScEs2dmFTYkx5OV9ncHVlSkg5MHE5alk3akk3RXFNazBPSDJEY01kM2FTRktnMDNQNFM5aE82cDVjYlZISEc3WkgtQ24tQ3hYWHR5cHA1?oc=5",
       "pub_date": 1790679099.0,
@@ -65,24 +45,44 @@
       "description": "The Kremlin has denied accusations that it was behind a fire that broke out at a military robotics plant in Estonia last month."
     },
     {
-      "headline": "Estonia blames Russia in arson attack on military robotics firm Milrem",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGEyamI0ZjZLMnc4aHVGVjBab2Z0a3dPTkpabExSZlRpdWFoQ0FUdU9la1h0Z2hYMS1lVjd1T2hkTU9lMXM0cnNRSllFZUxDSENkS3pNcHZPWDlTaTM3djJKWHl2OXlraUZRcnU2VTE4M09DU0VWc1BkTVY1eHdUbVR5Sk85TmtsNjhkbHkwM1piVXJfYUE?oc=5",
-      "pub_date": 1790693560.0,
-      "article_url": "https://www.yahoo.com/news/world/articles/estonia-blames-russia-arson-attack-145240116.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b52f242d2f007aeff8632e2de96d6cf0dfa47287c4927201efdc8bb3881b5c6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdefense_news_499%2F77778fd3d9617af33ac2cba479fab85c.jpg",
-      "description": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said."
-    },
-    {
       "headline": "Russia Ordered Arson Attack on Estonia\u2019s Milrem Robotics Defense Company, Authorities Say",
-      "source": "united24media.com",
+      "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUtFMzhXSEVtRU1naFJPTWNCR0gyUXZCZ3JYNHJ0NEdGZ0pGZ0N4ZktWOHRodmxRMUVzdW5ULXMwejNiaHBqVjVsZl9kbGx1dFVKYnJlSk50ZFhRb2lQamc3X2NNTUxOSi1oM0NhdlNIVS1CajVtQkpmbVlNSVdrOWtCdmNGNC1aczZ4SFdvZmwwZ1BFaERSTUZMSU9uc0pSYzJzOGZZR0JZenAwMmFUaVFNa3lObG9xU3ctNEZJeWs5RlE?oc=5",
       "pub_date": 1790675606.0,
       "article_url": "https://united24media.com/world/russia-ordered-arson-attack-on-estonias-milrem-robotics-defense-company-authorities-say-22943",
       "image": "https://storage.united24media.com/og/d/43/adcf9ab3b57bb6a7ff8f8c7e70b3043d.jpg",
       "description": "Estonian authorities say Russian intelligence ordered the August 15 arson at Milrem Robotics, a Tallinn defense company supporting Ukraine\u2019s unmanned vehicles."
+    },
+    {
+      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
+      "pub_date": 1790694988.0,
+      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Five million robots now work in factories as humanoid hype is tested",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1NVLXRiWnBTX09tcmgwVVc4VDZRd3h6bm0zazEwNk13SUF1bEtLVzNYVEs1SzV2UjBMLTlDQjF4amd6akNMT0pzeG5wdFREOS1renRsS1QtS1FoZlZJREpDRXZidFBmbjhYNlhLWHZ1eXRBd200R0pXU200X2REaUZwWVUwVHZyeGxZY3ZTWXNnd0E5dEdxWTFTVE5DWWtiTS1oLWRyRVFoRVM0UllvSkkwV0E?oc=5",
+      "pub_date": 1790657217.0,
+      "article_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
+      "image": "https://images.euronews.com/articles/stories/09/92/64/18/1200x675_cmsv2_a8bd4c1a-4d9c-54ff-9e05-fc14d79ca5bb-9926418.jpg",
+      "description": "Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines."
+    },
+    {
+      "headline": "Reliable Robots: Meet Johnson\u2019s Dexterous Robotics Team",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVFXTVdSdktmMU13T1djZVRmSTZDdTdadGMzVnQ2ZDM4VUhKNHZFa1B4LW5pTnZVdlA4VWFtTWFBSUZ1UU5TZkJTZGxkTEhFdm9qVlRmal92am5sczNGUDhmYTJFRnFjdUtMa1NucDVVbWUyREF2SVlBeVpOYnZFdE0zT2F0aVphemJWMzVMQWlUeTZzMExpN0VsVlNVTDZCVUlQX29NT2hUUQ?oc=5",
+      "pub_date": 1790589600.0,
+      "article_url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/sa-and-valkyrie.png",
+      "description": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions"
     },
     {
       "headline": "Norfolk Iron & Metal supports industrial automation and robotics lab",
@@ -95,16 +95,16 @@
       "description": "One of the new Northeast iHub\u2019s standout spaces for area manufacturers is the industrial automation and robotics lab, sponsored by Norfolk Iron &amp; Metal."
     },
     {
-      "headline": "AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy",
-      "source": "TechPowerUp",
-      "source_url": "https://www.techpowerup.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1VYdkpGZXpZb1IyYWhrRnU4QVdwU1doQVZhNW8tRkZiMnk5aS1yVjcxSVc5UGxjQVpEWllBX19VcHZwU0lBMXJMYmN0ZWpBLXRINkF0Y3hMRllnb0pZWHkwYnNseWk0NW5Lb3Rzd3dnbGNmQXdTTVA5b2hrbkc4aFhmX1BiaUpwNnduMWVINFNZWHktanJZUzFDX0VPUkVXdFo5VDJSRkJYWVZqY2ZxRGJzRUFwRGM2X2VNM3VB0gHDAUFVX3lxTE1UdHBKekNPanNzYXFyV2tpcnJuOUlvY3ZmMF9Cb1pnOGNfczBHcFpZc2djTXJDdS13SGotbHdRT0RNQjJ1U1pqc2g3dTVpY2Vmdm9lUTFwb29uNFR6azhsczROVTRYNnA3dWRSVkxybjZIQ0hKaTNyR1Y2LVI1YUJFQ2ZmM19mdzVSUzBJVGt2S3hkTjkxS3BmcDBBNnhhNzlmWjBYNmliRXNaQURNSmliYWtGNVpTMkRDbVgxR3FwMVBJYw?oc=5",
-      "pub_date": 1790629403.0,
-      "article_url": "https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy",
-      "image": "https://www.techpowerup.com/img/BDEGyA1GZCdLvEMO.jpg",
-      "description": "AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model experts to AMD, strengthening its ability to develop AI..."
+      "headline": "Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd0lQZVFRQVEwRUNZdnR0d0tKc1pTRTVYY0V1NEZfaVFPeFQzTVJwZ3dFTDMwa1pENWtPMDBmVHNCYWNtM1JOYkJHdnpqZWdHM3RCRVF0QjlhcVVtd1lHZ3FINUhoVFVIR2ltcTZzV2ZuaGVLVmpQaFpYLVVZakQ4dXo0VnB3UHh0T1RjSHRMNGFTa2FIYllSSzQwRW1PZjI4REpIRWR3WGZVZGRoWVFDUDJZUTUxVUtnd0x6M2t1TVRMb1VQcC16RFE0TDJnSExISXc?oc=5",
+      "pub_date": 1790600402.0,
+      "article_url": "https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T15:25:11.602136+00:00"
+  "fetched_at": "2026-09-29T20:08:35.253722+00:00"
 }
