@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-29T20:08:48.464590+00:00'
+updated: '2026-09-29T23:53:40.506718+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 29, 2026 at 20:08 UTC  
+**Last Updated:** September 29, 2026 at 23:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,662.31
+### $83,671.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -1.0%  
-**30d:** +6.4%  
-**90d:** +35.8%  
-**1y:** -26.8%  
+**24h:** +0.6%  
+**7d:** -0.8%  
+**30d:** +6.5%  
+**90d:** +36.0%  
+**1y:** -26.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1678.21B
+**Market Cap:** $1681.25B
 Rank #1
 
 **Circulating Supply:** 20,090,909 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.7%
+-33.6%
 
 **All-Time Low:** $67.81
-+123083.9%
++123311.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The embodiment of minding your own business and doing your part to heal the world utilizing the skills you have. GFY. Stack sats. Get your security right. Hodl. All the best!
 
-23h ago
+1d ago
 
 ---
 
@@ -99,13 +99,13 @@ The embodiment of minding your own business and doing your part to heal the worl
 
 **[40K guy be like: wait 40K october](https://www.reddit.com/r/Bitcoin/comments/1wswxfz/40k_guy_be_like_wait_40k_october/)**
 
-18h ago
+22h ago
 
 ---
 
 **[Had a blast at the Midwest Summit, but meeting Bitcoiners IRL is weird.](https://www.reddit.com/r/Bitcoin/comments/1wsu04s/had_a_blast_at_the_midwest_summit_but_meeting/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -153,9 +153,15 @@ Sasquatch music festival 2009. One guy starts dancing alone.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Pioneer Adam Back’s Empire Beset by Hack, Lawsuits](https://www.bloomberg.com/news/articles/2026-09-29/bitcoin-pioneer-adam-back-s-empire-beset-by-hack-lawsuits)**
+**[Bukele Turns to Stablecoins as Bitcoin Payments Fail to Catch On](https://www.bloomberg.com/news/articles/2026-09-29/bukele-turns-to-stablecoins-as-bitcoin-payments-fail-to-catch-on)**
 
-Bloomberg • 8h ago
+Bloomberg.com • 13h ago
+
+---
+
+**[Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand](https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -163,19 +169,29 @@ Bloomberg • 8h ago
 
 The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions.
 
-CoinDesk • 33m ago
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin tests long-term holder supply cluster as leverage clears, analysts say](https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162)**
+
+Glassnode shows bitcoin's largest long-term holder cost-basis cluster at $84,000 to $85,000, while open interest is at its lowest since March.
+
+The Block • 8h ago
+
+---
+
+**[Legendary trader who nailed Bitcoin's 2018 crash makes bold new call](https://finance.yahoo.com/markets/crypto/articles/legendary-trader-nailed-bitcoins-2018-220837100.html)**
+
+Peter Brandt turns bullish on Bitcoin in the long run.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)](https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys)**
 
-Seeking Alpha • 22h ago
-
----
-
-**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
-
-MarketWatch • 5h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -183,37 +199,19 @@ MarketWatch • 5h ago
 
 The operation was built without the county’s full knowledge, and neighbors say it’s generating noise and causing power outages that interfere with their quality of life.
 
-thegazette.com • 22h ago
+thegazette.com • 1d ago
 
 ---
 
-**[AI Predicts Bitcoin Path as Strategy Moves 3,568 Coins](https://finance.yahoo.com/markets/crypto/articles/ai-predicts-bitcoin-path-strategy-114237022.html)**
+**[Bitcoin on Pace for Best Quarter in Nearly Two Years](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2)**
 
-Two warning lights came on at once this week, and neither is conclusive on its own. Strategy moved 3,568 BTC worth roughly $297 million out of its wallets over nine hours, according to Lookonchain. At the same time, Glassnode data shows spot traders rotating into altcoins at the fastest pace ...
-
-Yahoo Finance • 8h ago
+wsj.com • 4h ago
 
 ---
 
-**[These Cryptocurrencies Have Become Wall Street Favorites and Deserve a Place in Your Portfolio](https://www.fool.com/investing/2026/09/29/these-cryptocurrencies-have-become-wall-street-fav/)**
+**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
 
-For good reason, Bitcoin and Ethereum have become the first two cryptocurrencies in the portfolios of many institutional investors.
-
-The Motley Fool • 9h ago
-
----
-
-**[HANetf Launches First Euro-Hedged Bitcoin Fund](https://www.wsj.com/finance/currencies/hanetf-launches-first-euro-hedged-bitcoin-fund-0f057d2e)**
-
-WSJ • 5h ago
-
----
-
-**[Strategy Moved 3,568 Bitcoin Worth $297 Million. Is Michael Saylor Selling Again?](https://247wallst.com/investing/cryptocurrency/2026/09/29/strategy-moved-3568-bitcoin-worth-297-million-is-michael-saylor-selling-again/)**
-
-Strategy's wallets moved 3,568 Bitcoin worth $297 million in nine hours. Is Saylor selling Bitcoin again, or was it a custody reshuffle?
-
-24/7 Wall St. • 7h ago
+marketwatch.com • 3h ago
 
 ---
 
@@ -221,7 +219,7 @@ Strategy's wallets moved 3,568 Bitcoin worth $297 million in nine hours. Is Sayl
 
 The UK’s finance minister has criticized the pro-Bitcoin leader of Reform UK, Nigel Farage.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -233,7 +231,7 @@ Bitcoin Magazine • 23h ago
 
 A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
 
-⬆️ 2 • 💬 1 • 23h ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 2 • 💬 1 • 1d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
 
 ---
 
@@ -247,7 +245,7 @@ A Bitcoin-style full node and proof-of-work mining simulator written in Rust. - 
 
 **[How to Recover Scammed USDT / Bitcoin / ETH / Cryptocurrency](https://news.ycombinator.com/item?id=49891038)**
 
-⬆️ 1 • 💬 1 • 9h ago
+⬆️ 1 • 💬 1 • 13h ago
 
 ---
 
@@ -265,17 +263,39 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ---
 
-**[Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472)**
-
-An expressive Unix-pipeable CLI for System One models like Jev - frodi-karlsson/onesie
-
-⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/frodi-karlsson/onesie)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[BITCOIN - THIS IS THE MOST IMPORTANT TIME OF THE NEXT 4 YEARS!](https://www.youtube.com/watch?v=mpmKRCuhRYA)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 2K • 👍 129 • 💬 37 • ⏱️ 7:15 • 3h ago
+
+---
+
+**[Bitcoin Price Prediction: $200,000+ This Cycle](https://www.youtube.com/watch?v=LQIugkawClg)**
+
+The base case is $200000 or higher this cycle. That is not the ceiling. An 82% higher high on the $126000 top is still about ...
+
+📺 Crypto Jebb
+
+👁️ 3K • 👍 173 • 💬 16 • ⏱️ 8:34 • 5h ago
+
+---
+
+**[Yields Hit a 20-Year High, Mortgages Break 7%, and Bitcoin Held Anyway | News Block](https://www.youtube.com/watch?v=7r6OFqKcv-4)**
+
+The government hasn't paid this much to borrow since 2007, and mortgages just broke 7 percent. Bitcoin held anyway. Meanwhile ...
+
+📺 Natalie Brunell
+
+👁️ 5K • 👍 318 • 💬 30 • ⏱️ 7:31 • 3h ago
+
+---
 
 **[Banks Defeated The Crypto Clarity Act. NOW They Did THIS...](https://www.youtube.com/watch?v=H_xRmXTRB2g)**
 
@@ -283,17 +303,7 @@ The big banks helped kill the CLARITY Act — and now Citi just plugged its bigg
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 248 • 💬 5 • ⏱️ 15:15 • 4h ago
-
----
-
-**[BITCOIN - THE GENERATIONAL MOMENT REVEALS ITSELF IN 24 HOURS!](https://www.youtube.com/watch?v=kKbkYl0R6c8)**
-
-Get yield just for holding long positions on BYDFI! https://www.bydfi.com/register?
-
-📺 My Financial Friend
-
-👁️ 2K • 👍 210 • 💬 38 • ⏱️ 11:50 • 3h ago
+👁️ 11K • 👍 344 • 💬 11 • ⏱️ 15:15 • 8h ago
 
 ---
 
@@ -303,7 +313,7 @@ Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨As
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 722 • 💬 54 • ⏱️ 49:41 • 5h ago
+👁️ 21K • 👍 790 • 💬 100 • ⏱️ 49:41 • 8h ago
 
 ---
 
@@ -313,17 +323,7 @@ Bitcoin and crypto are holding on! However the rest of the markets are telling u
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 1K • 💬 34 • ⏱️ 13:28 • 10h ago
-
----
-
-**[Bitcoin vs. Gold: The Exact Chart Confirming a Massive Breakout](https://www.youtube.com/watch?v=fHgqmRuHxW0)**
-
-Bitcoin is testing a massive resistance wall against gold, and the chart is looking great for Bitcoin holders. Trade alongside the ...
-
-📺 Verified Investing
-
-👁️ 3K • 👍 375 • 💬 11 • ⏱️ 16:50 • 2h ago
+👁️ 19K • 👍 1K • 💬 34 • ⏱️ 13:28 • 13h ago
 
 ---
 
@@ -333,17 +333,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 114 • 💬 22 • ⏱️ 17:08 • 3h ago
-
----
-
-**[🚨 BITCOIN DID EXACTLY WHAT WE WANTED!!!! [but there’s one small catch...]](https://www.youtube.com/watch?v=PA1NSxXa8aY)**
-
-Bitcoin has officially entered a bull market! But before we get too excited, we still have one small issue to resolve. BTCC ...
-
-📺 Crypto Zombie
-
-👁️ 18K • 👍 1K • 💬 148 • ⏱️ 31:01 • 1d ago
+👁️ 5K • 👍 187 • 💬 31 • ⏱️ 17:08 • 7h ago
 
 ---
 
@@ -353,27 +343,27 @@ Big Things Are Happening in Cryptocurrency in October WEEX AI Wars ($600K prize 
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 325 • 💬 3 • ⏱️ 1:20 • 4h ago
+👁️ 15K • 👍 493 • 💬 12 • ⏱️ 1:20 • 7h ago
 
 ---
 
-**[BITCOIN: TRADING PATTERN REVEALED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=gMTY7Hz2RDI)**
+**[BITCOIN - THE GENERATIONAL MOMENT REVEALS ITSELF IN 24 HOURS!](https://www.youtube.com/watch?v=kKbkYl0R6c8)**
 
-Free Trading Signals https://rt1m.com/signals Sign-up on BloFin: https://partner.blofin.com/d/RT1M Get Up To A $3000 ...
+Get yield just for holding long positions on BYDFI! https://www.bydfi.com/register?
 
-📺 Road To $1 Million USD
+📺 My Financial Friend
 
-👁️ 9K • 👍 283 • 💬 24 • ⏱️ 8:50 • 21h ago
+👁️ 8K • 👍 284 • 💬 46 • ⏱️ 11:50 • 6h ago
 
 ---
 
-**[$145 Trillion Bitcoin FLOODGATES - Wall Street Is Coming For BTC](https://www.youtube.com/watch?v=104yfs6LpCY)**
+**[BITCOIN COULD GO 2 WAYS... I&#39;M READY FOR BOTH](https://www.youtube.com/watch?v=AJvl_KbRQBU)**
 
-Wall Street is talking dramatically larger Bitcoin and crypto allocations as corporate Bitcoin buying accelerates. Strategy has ...
+TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
 
-📺 Bitcoin News Alerts
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 8K • 👍 337 • 💬 85 • ⏱️ 15:00 • 21h ago
+👁️ 12K • 👍 451 • 💬 65 • ⏱️ 25:14 • 8h ago
 
 ---
 

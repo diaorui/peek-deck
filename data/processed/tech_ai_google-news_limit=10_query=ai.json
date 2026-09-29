@@ -5,44 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI debuts Dots AI agents in challenge to Meta\u2019s popular Muse agent",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3U4WmgtZ1JKNnRYTlJZUVdnNW5lWU5lTGF0UkhHSnJBOHFmSG9YeGx6ZWxqOVAxOUlHcXJWY0d0N1hKQ1JBVTlUeGp1NVFzODl5OHNxUFZtUTRDaU5DOS1MOUk4NDFLNlpxR1NhZV8yLV9Ic2J5N2FNR3NjeWxtazJYRkdVQXZVY3JPbTMxMlJlUWJsTzc0emE5Sk13Q0FRYVJtUUllWHRyU0Z4emNJMndoajhURW1NXzg0Z3MyZVNubFpYNmE0aA?oc=5",
-      "pub_date": 1790704208.0,
-      "article_url": "https://finance.yahoo.com/technology/article/openai-debuts-dots-ai-agents-in-challenge-to-metas-popular-muse-agent-174616593.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/da55e21a19b5d66ed1a2857c2563db414249db7e26487ec50a3491db3f36c849/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-09-29-at-14305-pm_1222.png",
-      "description": "OpenAI debuted its Dots AI agent at its DevDay 2026."
+      "headline": "Trump brings AI leaders to White House as OpenAI teases 'new thing'",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXdxR09ZS3NsWW5xRWZoWmNWRkxDTmRvc20tOVA4YjQ5TXRxdUQ1dVBtZ0FQS3lvc21sbE5jZE92N1ljc1JMOTJjR0MtVzVrZFl0TGNCUEd3T3pRX2c5LXBUX0VrYnlHcHNVRUowa2RqSVFjLU80Vk9vT0g5dHNUaA?oc=5",
+      "pub_date": 1790723723.0,
+      "article_url": "https://www.foxnews.com/live-news/trump-ai-white-house-meeting-september-29",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/e65ea5265a5ed11140e7764ba6151e62.jpg",
+      "description": "President Donald Trump and House Speaker Mike Johnson will meet with top AI leaders at the White House on Tuesday to discuss innovation and oversight."
     },
     {
-      "headline": "OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkdWY0tGVFAtWVplbzRxRmNxdzJaQ0JVSVFTbXBEZHVvZnJRRUtGNUF4Q05kU1ZyNGNUYjgwWld3WWltZWpmSUNuX3ZFX3czSDlhbFh6S1psUU1rTkRSdjlCYUlNak53b3dCZDRqcmZFMVNOMk1NWEFSNkJCTGR2enBRckM0STVVd3I2VmMtOUxnQVJCS1dZa0tNRmhwam9wYThHcUoteWU3NUU?oc=5",
-      "pub_date": 1790701683.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier",
+      "headline": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
+      "pub_date": 1790720595.0,
+      "article_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGJFaDNyanYxRUViYmszWXFtV0tSV3h0SmJjN0ZZdUExb1ZjRGM4eVR2UkVuc2JMM0pPVm9oOVlaU21HMktwU0VmdWhwN0NubTBISFFLYkZOMFR3aU9saEluQmNzd0tmNTVmdUt5N25FRXIyNVBVZU1LZDlVeEx6cWVwOVVGbnQ4VEszNENMTlJsVnRMWUYtQVF1UHYzOWtQYnN6d3BaYXRrRldHNVlyRjY5d24yaTFuU0E?oc=5",
-      "pub_date": 1790706900.0,
-      "article_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-      "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+      "headline": "Robinhood\u2019s Next Big Bet: AI Bots That Trade While You Sleep",
+      "source": "wsj.com",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUG5Zb3pfVVZKb2x2TFR5OGJ3dzhGZDhBMUVXZ0NmUkI5WnNLWjVPRFdNcTFYU09nWU9lZGZhOEsxRlE5V0dvcTM1UUdwd1FpczdGNm41MHBuY3V1VDBXSVVHQVhTeHFhcl9FdWhIaXRkc2xtS0FjbFJ5Q3lXYVFTa2hDT3JISk5fc0Y2V0djYVZ3UXk1QTl1dnktVm5RU0lTTFo3dTJiTGs?oc=5",
+      "pub_date": 1790722800.0,
+      "article_url": "https://www.wsj.com/finance/investing/robinhoods-next-big-bet-ai-bots-that-trade-while-you-sleep-f9d40f62",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Trump launches government chatbot, urging a wary public not to fear AI",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3RubTFVMl8zTXl3UHFxNnoxOU5BSTVCSHFxSkZINzNJNExKbmo1RmVoSS1yeVBqeXk5ODQtc1EzOFo1S042NzZGX2hocDcxUlcyRl95b1dnWUNtTWU4eF90cXdNeUJEdGVfbmxzWjkwd0NtNl9SREJRSlpGWWsxQWdtNENRcmNURFBCRWl4RGxLcVJPM0lydWxiajl0bk9KT0YwMEs0TU1iMVpkcUxJLXVibw?oc=5",
-      "pub_date": 1790710467.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/29/trump-is-selling-an-ai-golden-age-fears-about-perils-spiral/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/R2RR5TB524IKSYKLXJZAZRE2KU.jpg&w=1440",
-      "description": "After rogue AI agents probed agency websites, Washington\u2019s concerns are at a peak, but the White House has focused on the technology\u2019s promise."
+      "headline": "Trump hosts tech leaders for meeting on A.I.",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTh3TkFXWDZXem5MYzNJb0lHdkFGZV9zSlNmczRQWXVjMWFqbnd0Z1JwRHpFNHY1cFhxOXZYUmZ1UEhTejJId0k0UEJFSEM4YU1EZFl4TlZYcVRoazVDWmNxVDBFM1FYUFFCT01lcVZuaU1qRHRRUTl2dmxOYWdOLU1IZWJtTnpSV2dqVnVvOEt0cGwzMnJ1RWlwZkp6andD?oc=5",
+      "pub_date": 1790724235.0,
+      "article_url": "https://www.nbcnews.com/nightly-news/video/trump-hosts-tech-leaders-for-meeting-on-a-i-270751301964",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1790723778731_nn_ggu_ai_summit_at_white_house_260929_S3_1920x1080-kep5dy.jpg",
+      "description": "President Trump released an agreement signed by top tech leaders on increasing standards for A.I. NBC News\u2019 Gabe Gutierrez reports."
+    },
+    {
+      "headline": "Trump announces vague \u2018morally binding\u2019 AI deal among tech CEOs for \u2018tremendous self-policing\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFVZQVZWMk1XVVREWXRWcVZaWGZrb0dGSURLVkl4MUg0ZHFoTHNWckY5WU9hWXJuOXhnU21xY1NHM0hMM2FiQkRKdUtmWlpRcHdGbEg1MmphUXFWaEE1VC1YSGgwTlJIVlhwX0tOcl9HV2F1UnhMOHZPV3hQMkEwdWI3c2N6TGxYOWVJS052Q3E3UmM?oc=5",
+      "pub_date": 1790724120.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+      "image": "https://i.guim.co.uk/img/media/90ffb94a420a7ff6645ad1fa994970299a59ed92/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27ac61c630f3aa934ffaec98fadb4707",
+      "description": "US president also issued executive order officially rebranding \u2018artificial intelligence\u2019 as \u2018superintelligence\u2019"
+    },
+    {
+      "headline": "Introducing dots",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+      "pub_date": 1790634237.0,
+      "article_url": "https://openai.com/index/introducing-dots/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&h=900&fit=fill",
+      "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
     },
     {
       "headline": "Cruz blocks Senate Democrats\u2019 bid to pass AI safety bill",
@@ -55,6 +75,16 @@
       "description": null
     },
     {
+      "headline": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZUtiZGlERGZmYTdrbWdNUEFvYnR2WTdTVnRlYTNkR0J1Z09pQ3BqUzA2bE5XdFBvdTByeTQ3SVZHOUtkRVVGSlF5YzJYYi1CcHA1TExxSzF5bEt2NGVaV241dGhmOEhnVzRBRVB2RGZnOXdhOW1N0gF8QVVfeXFMTmZ4WTA5cFd2Tk9Zbk1xcXVlcEtPcjFYS1pVMFBOSU5sNlphd056Z3NzclNGNWR1eDd3NG5ZM2lodnVjMC1yVENpYXZPMnVGM3I0b3FuUmszNnBZSWQ5V21OMjhzY1Q4VG9FNkdIRUFOUFZ6QUsyajFuOHEyTA?oc=5",
+      "pub_date": 1790701720.0,
+      "article_url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&w=1920&h=1080",
+      "description": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch"
+    },
+    {
       "headline": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -65,46 +95,16 @@
       "description": null
     },
     {
-      "headline": "Anthropic \u2018warns of existential AI risks to humanity\u2019 in IPO document",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDd1U3B6WHhqcExpRHVEam1nY3VUZ1lnbmlOXzcya212aExJWDl1R0hiZnZFeTNONzhBNjRQWWo5OXkxTk0zQkI5OE9uekQzbDFkc1VpYmE0NF9SQ19kNnhJZWI2SFhfTFlxejgzRXZ3ZDRfS3FWejRsS0tBejBlT0hZb0c1c2c1cjkwdVJtZ20wdDVfNVFLYmN0eDZ0aFY1XzF5RGR5S0RMeXB0MjRpcVdZR25HMnc?oc=5",
-      "pub_date": 1790684160.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
-      "image": "https://i.guim.co.uk/img/media/8d923f6c4bc1f85ed36638ae242779b53f685b0a/76_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=826b332153ce712434d319433d9665db",
-      "description": "Reported admission to investors of AI\u2019s \u2018self-preserving behaviours\u2019 comes as company prepares for a potential $2tn flotation"
-    },
-    {
-      "headline": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
-      "pub_date": 1790705161.0,
-      "article_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Man charged over AI image of crocodile in Singapore reservoir",
-      "source": "bbc.com",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JTVBrRzk1OHE1MmZacEIxc3NOdGhWdy1Gbkk3YkM1b0RiMnJQWE1pRVBudzlYaDRqVzlMc2RnTFJ5bDY3VGJiZ2VuMldWcnhBdGxGdXJvMjdkQms?oc=5",
-      "pub_date": 1790687335.0,
-      "article_url": "https://www.bbc.com/news/articles/c6grveg7d9zro",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bee8/live/73545b90-bc06-11f1-90b9-913e4354ed35.png",
-      "description": "The defendant could face jail or a fine after the image sparked a search operation in the city\u2019s largest reservoir."
-    },
-    {
-      "headline": "Inside the Biggest Feud in Artificial Intelligence",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVaQ3hxSkFIeXJrTHA4WGp0Um1ST3Vvd0JTbWh6SjZ2UnJ3WE56aDFseGNkT2wta3ljVVdFMEhBeXIyeGl4NkxJdUlPdW1tNVRDVGl3T3hPNl96WWpQb3hoRXRybFBlc2QzUlRaYVJ0cmVMZ3ptR09iMHl2bnhXSGpJMGFwVWljdEE5Qm9WcHNaWVlIWWZ1WHYtN2dIWVdqXzJN?oc=5",
-      "pub_date": 1790676000.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
-      "image": null,
-      "description": null
+      "headline": "AI could force 11 million US workers into new careers by 2035",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3hVNm1TSnZOWmZ6d2RZX0J3a19LR1NibWwzd0tXRUo4WkNDczV4TERmMFluajQ5MmpxS3hOdHNnVHN4OVBubU5DV2VQbXFKQUdKSjY0WGh6RTBFdlR1am54YVR4UGlWdTNqanBWUG9OWVAwcHRyUFY5S05ZYnpiejNSS1hxQWZtOXdV?oc=5",
+      "pub_date": 1790691957.0,
+      "article_url": "https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297112294.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Millions of Americans may need to find an entirely new career in the next decade, according to research released Tuesday."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T20:08:46.847955+00:00"
+  "fetched_at": "2026-09-29T23:53:38.819519+00:00"
 }

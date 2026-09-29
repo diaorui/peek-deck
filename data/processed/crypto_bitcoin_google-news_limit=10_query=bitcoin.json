@@ -5,12 +5,22 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Pioneer Adam Back\u2019s Empire Beset by Hack, Lawsuits",
-      "source": "Bloomberg",
+      "headline": "Bukele Turns to Stablecoins as Bitcoin Payments Fail to Catch On",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVM1ZWxueEdGYi1PQk4ydjZWZnBXMWNXLUFZMnlxbzNEcjd0WXk0Qmp2RVFuQnZWZGU1ZlBaaXZXOHpwLWZCMEpDZ2hkRG9oRlZsczlVZWk4LTI1aTU3bmdUQnFKcVkySjZpR3BrdFBnWUx5MWJ2TEVpOEsyeUp2SC1OM0RZV21zcDlqam81em9FLURwNGYtaU52WHcycTFWSFF2Z3A3S0s2Zll1?oc=5",
-      "pub_date": 1790683200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/bitcoin-pioneer-adam-back-s-empire-beset-by-hack-lawsuits",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnlZaEZoalQ4eGNab0N0QUJLRkZ5a1JhbTlFMUUzZkN5Y09WQjREd0FiVDNSaHpPUS1ZRHJYT3I4VVAxelcxNXJ4M0RxSC1lWWZyMjRCeXVFSXFpaWctdGd4eWgxUlB2TE0td1hIWnR4M29LR2h1SmxraVpQeF9GRUNCUWpwNlFVSFNKcXV1ZFN3M1hQRWp1SEozcWJrOWNmTFB2QlJpOHFaWEZ0eEo4QVJlaDVBdw?oc=5",
+      "pub_date": 1790676000.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/bukele-turns-to-stablecoins-as-bitcoin-payments-fail-to-catch-on",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWpvSDVtc1BwQ3ZFV05fNGg5d1JnckFiOERIX3dWUzFJRFZpVnlhekFWOVJoa2ZSSU5pQWVta19fTDVpUlk4LU4yZVQ0Y2tkdmhxeGFzcVJPa284WEV6bzhkcDBPM0MxYzdnUnJIUHAyNTBTVWN5WXNPMlpNbHRPWEp5MkwydElpWmRDdHd4LXVJd1FCOTZsRjNhRHN5OVc1TDFaUkRBb09obXl3V1E?oc=5",
+      "pub_date": 1790628007.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand",
       "image": null,
       "description": null
     },
@@ -19,10 +29,30 @@
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSG5mdS1SeElrQnlOcHFUMHpUWGlrc2g2UFRUUlVFaVUyY2hGSkczRlp5NG9ScVZVa09USVJhc0ljV2lfZXFjdERQbzNrSzJVYkV1bVFwQ0VCNDV4amFlV2gtWmswb21KR05PSzVTWmFMX0gybmZSWnlmek53cTFhWm1qUXRRODN2dTcxSGtMMnhHYk5maEdpN1dzbDdJcjhKWENlYi1KeW5XZ0ZGdFRKSnFKOE44UQ?oc=5",
-      "pub_date": 1790710538.0,
+      "pub_date": 1790708510.0,
       "article_url": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce5759e7ee6af1f56331f5bb5458cc5252851d9b-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "description": "The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions."
+    },
+    {
+      "headline": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1ZZQW9aRHd6OXQxTUJLYmdENjFwZzdZLUg4c0l3NlNQdGpkNDBsVFhPQ0F5YUkzXzV2OXNZTUF3WkJtTTN4bXZXTGktYjJYLWNjZDR6aGJTTXNYTzRpem4xOVRWOTdUX0UxZENwUFl2SzZmWmY5SWFMelFGb012bnVDQmpKOHpRUmxLdG1qU1dhajNmUjN5R19QaWptdElyeUE5UXpZeV9DcTc1cjhGUElRa21kRWl5NVdOMjBaUzItQkZ5UFZjOQ?oc=5",
+      "pub_date": 1790694586.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/bitcoin-article-16x9-1.png",
+      "description": "Glassnode shows bitcoin's largest long-term holder cost-basis cluster at $84,000 to $85,000, while open interest is at its lowest since March."
+    },
+    {
+      "headline": "Legendary trader who nailed Bitcoin's 2018 crash makes bold new call",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q0cGFfVVM1b19YaF91WWpUZTFlZlNhc2JXQXNUai1sbUlaajkzOVJ4Y3FXY1lUSnN3VmJHRDBaZHlFZVBXYndyeXY3S28xR25vdWNYc2hFUHBURHd6WnlOb0x0WFg3N1hVZmxqNkxFU1d1N0ppTllCNmZTVE9FM05weHRWekg4RGFzd0ZvaXJGV25NYkIyZko5c09XWTRLeVprQw?oc=5",
+      "pub_date": 1790719717.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/legendary-trader-nailed-bitcoins-2018-220837100.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1aa60bd2a4e4ae6cb76ecfb23c1e8e9fbc44cd617150732cd1860ee56095164e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F7617f3574074aac9debd348050fab56b.jpg",
+      "description": "Peter Brandt turns bullish on Bitcoin in the long run."
     },
     {
       "headline": "Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)",
@@ -31,16 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHc3ZkFkZVB3ZzBBTXNLYVBfblowUnVIa2kwa3dBaVkyLVpUalFTZFRiVXg5Z1JiOVJDV1RkOWlYQWx5Y1l1dGlnc2NiS0t2c3ZlWGFUX2RSZmdWUmxTZ1d6aHdvWXhNNTNtc0d2RHhad0kyWnhvZ2R2b3UzeE0zQmU3TEFPbXROM0VKQ3hmd2gxZw?oc=5",
       "pub_date": 1790631786.0,
       "article_url": "https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5",
-      "pub_date": 1790694000.0,
-      "article_url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64",
       "image": null,
       "description": null
     },
@@ -55,44 +75,24 @@
       "description": "The operation was built without the county\u2019s full knowledge, and neighbors say it\u2019s generating noise and causing power outages that interfere with their quality of life."
     },
     {
-      "headline": "AI Predicts Bitcoin Path as Strategy Moves 3,568 Coins",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUROeVd1XzJvdGpnTjJ3VHl4WEJ5bjB0V2l6TXBISWNIelUxZXdMM1EtaGJXVWw2dGc1N0xWSzhTdjVHWTRjTlFjenIyWEdaMmlCdnFrWGgxdkJJLTZKRU5MSUUzVHhoSWhEQXVDZmxZSlJLQUVtREZ5aWJuSHk5YnFGYkFkazNvXzZic05nMktKbWhOejFySmFnRVV0clk?oc=5",
-      "pub_date": 1790682157.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ai-predicts-bitcoin-path-strategy-114237022.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5ccb33525c763462d5af35c5d12ac9b52fe40425f34e728268c605f93a4ec369/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoinspeaker_us_106%2F4a30e2572ef0ccc67f7cd6ccce1a97a7",
-      "description": "Two warning lights came on at once this week, and neither is conclusive on its own. Strategy moved 3,568 BTC worth roughly $297 million out of its wallets over nine hours, according to Lookonchain. At the same time, Glassnode data shows spot traders rotating into altcoins at the fastest pace ..."
-    },
-    {
-      "headline": "These Cryptocurrencies Have Become Wall Street Favorites and Deserve a Place in Your Portfolio",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVg5ZEJzZTEyejl5Q1JXSjBlSGhuNTFab1ZOcVZfVE9lNm1obWdQSFNfZDhEMkhRallRd3VGRjZzZHVpOTdKZC1ZODNUd2tTVlVFMWd5WHZSVWlsU2FqdXJGQUR4bXFhQ0lSdEM4Y2dYaFhaU1Z6MTFpdEdaNDN1SUpXdWhtYVdDRjdOUkV0eUN5LUlsZ01hbg?oc=5",
-      "pub_date": 1790677800.0,
-      "article_url": "https://www.fool.com/investing/2026/09/29/these-cryptocurrencies-have-become-wall-street-fav/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888090%2Ftrader-with-laptop-on-wall-street.jpg&w=1200&op=resize",
-      "description": "For good reason, Bitcoin and Ethereum have become the first two cryptocurrencies in the portfolios of many institutional investors."
-    },
-    {
-      "headline": "HANetf Launches First Euro-Hedged Bitcoin Fund",
-      "source": "WSJ",
+      "headline": "Bitcoin on Pace for Best Quarter in Nearly Two Years",
+      "source": "wsj.com",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXy0yUEwzSFVrMFFWU2NyVTdEeHQ0R29zOG4wZkNWcndPU3dhcnFBTnN6d1pOUW5oTWs5QVk1aDh6a0FIVkpRS20wSUF5Uk9XUDA0bEFJamlBLWtORUpZdndTdUpxTnl2dXVESGMyNFVtVFhacWVScnN2VUluLTdTbWxPRDRBNmgyX3g0aXBGOEhCNHQ2T3JCQzBR?oc=5",
-      "pub_date": 1790692200.0,
-      "article_url": "https://www.wsj.com/finance/currencies/hanetf-launches-first-euro-hedged-bitcoin-fund-0f057d2e",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS3RaaXRaQTc3cHYwWFhaWmI5RUZ2bnhNa005YlRkaTZVbkY5SHZTNWptY0RPZmJSYlBuZnFFaldsekZEWnJzMEZ3NVZ1bUNZWjBEUEVja1paVTQ0UlI4N1pFT1d0YnZRTTdXX3hBUmNBZVVYcXA5WTM5Q1hmb01EX3FTQ00wc2prc05mYWQzTHp2VURkYlFqSzVTdnUxN1Q3bUlfd2lwYVo2RU0tRWZmdnJsWTJzZTR4bGtCclJ5cE1mVTNfTWFmdWpINWN1bkhjMlNKMkQ2WkJoVmFBUDdsSkVlQlF2Y3A0aXR1b1htbTE?oc=5",
+      "pub_date": 1790710946.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2",
       "image": null,
       "description": null
     },
     {
-      "headline": "Strategy Moved 3,568 Bitcoin Worth $297 Million. Is Michael Saylor Selling Again?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb2IxVkFpdGlWbjlFak5KN1lCbzNZdDBONHhEdlVxaHYzcnl2ZktUNHgxUTgyd0tCano4SUJXYk9odTM3RS1ROHMwT0R4U1VGZ2pqNC1kOVg5aC1pWXhNZWNjYnlDUG5BbDN2QlNXaVpUc0Ewbmx0T2NnSDIyTHhDTXJhVlcyeTI0bFFYNGxHQVI0MDFSX1g0SUpHVlZGYXhQc21kWFNiTXd5LUxNb3N5MnY0a2dvTTllcU1iaTJvTjRRQVVETkttNFNYNTkwTnZYVlE?oc=5",
-      "pub_date": 1790685000.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/29/strategy-moved-3568-bitcoin-worth-297-million-is-michael-saylor-selling-again/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/07/54346958538_fcf80d63dd_b.jpg",
-      "description": "Strategy's wallets moved 3,568 Bitcoin worth $297 million in nine hours. Is Saylor selling Bitcoin again, or was it a custody reshuffle?"
+      "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5",
+      "pub_date": 1790712000.0,
+      "article_url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64",
+      "image": null,
+      "description": null
     },
     {
       "headline": "UK Chancellor of the Exchequer Blasts Nigel Farage\u2019s \u2018Bitcoin Account\u2019",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T20:08:40.947163+00:00"
+  "fetched_at": "2026-09-29T23:53:36.545980+00:00"
 }
