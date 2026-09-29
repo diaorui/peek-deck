@@ -5,6 +5,36 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZk9VWmR3cDZod05pajBjVFBMWktpaHFPMGE3YVpQZFp6SnFaVWZRLWppTFZJbXZfV0x1d0k1MHBrb056RHVNNmpTYndjMlNTZklWRFBudFpYTlNQOS11cHJjbWo4eFZCNjUwbUsyRXFjYVdhUjE1WlJvVmoxQWJNNzc1a3E0Z0k2NjdZQTJDVng?oc=5",
+      "pub_date": 1790624100.0,
+      "article_url": "https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888708%2Fa-visualization-of-a-blockchain.jpg&w=1200&op=resize",
+      "description": "NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz."
+    },
+    {
+      "headline": "The cryptographic world computer",
+      "source": "Vitalik Buterin's website",
+      "source_url": "https://vitalik.eth.limo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXR3U2UzUUUwamRRM2x1azU5aTdpbFFMVGNMVDVhZi1jbG1SWlY5eWZNbjJDelZuM2l2SU5TY0dXQVVHbC1wd0hxTkJiTVZzTlMyWW9YYlhxVmVRcGxkbmZKYjdlX3RKa3NXcWV1ZTMweUxjaXR3Y3FEbU1MbldxSzR4b2dkNDE0?oc=5",
+      "pub_date": 1790501985.0,
+      "article_url": "https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html",
+      "image": "http://vitalik.ca/images/icon.png",
+      "description": null
+    },
+    {
+      "headline": "Vitalik Buterin Says Ethereum May Barely Be a Blockchain by 2030 \u2014 Could ETH Still Hit $40K?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1o5QjFCYzluNk5iQWpDeEJ5STZ3YlNEal92azlSbGNvY1d4UjM0X3hBQjJROVpYdGl4YW9JQW1yZUZrQXdSQmtCNE1MVzVyTnAwWWZmSnJnMThRUHJQclNpS1pINEg4b0ZZQjVqeG1SelIwb3R6OWpRNTJtNk1zMWZFdlUybnZpVTd3TldmaXBGbTFzUGh4ZlJKcjEwZG8?oc=5",
+      "pub_date": 1790603535.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-says-ethereum-may-135215026.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/72242d2843a435f9ee744396a2efb8781e6c4e4df50f2be068d85db91173870a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F66113a5273e00b6d764ead8b47208eda",
+      "description": "Vitalik Buterin says Ethereum\u2019s 2027 Hegot\u00e1 upgrade could be its final \u201cnormal\u201d fork before the network undergoes a more radical transformation. His vision combines blockchain ..."
+    },
+    {
       "headline": "ETH news: Ethereum may not be \u2018just a blockchain\u2019 in 2030, Vitalik Buterin says",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -15,34 +45,34 @@
       "description": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations."
     },
     {
-      "headline": "The cryptographic world computer",
-      "source": "vitalik.eth.limo",
-      "source_url": "https://vitalik.eth.limo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXR3U2UzUUUwamRRM2x1azU5aTdpbFFMVGNMVDVhZi1jbG1SWlY5eWZNbjJDelZuM2l2SU5TY0dXQVVHbC1wd0hxTkJiTVZzTlMyWW9YYlhxVmVRcGxkbmZKYjdlX3RKa3NXcWV1ZTMweUxjaXR3Y3FEbU1MbldxSzR4b2dkNDE0?oc=5",
-      "pub_date": 1790501985.0,
-      "article_url": "https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html",
-      "image": "http://vitalik.ca/images/icon.png",
-      "description": null
+      "headline": "Ethereum\u2019s Next Upgrade Could Change the Network Forever: What Vitalik Is Planning for 2030",
+      "source": "Bitcoin Foundation",
+      "source_url": "https://bitcoinfoundation.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalNkRW4zZmlMaExUa0RPZFQ5WDFsbkZ2WHdIQmd3a1BIa0p5WV9pbnBjZ1pmTlJWYVVad2Z6VGhSTXU5eWVOUTRFc2FoQ25Ya2w0RkloZ2NqUkxBdzVlcHlJS21iWnFZVl9uZHZaUzEtbHVvUW9SOHlOa3hxWGxfeDMtdEFhVFI4WFBZQUNQelluZi1VaGFvZ3VnTlQ5eE92X01adUxQckxMWXc?oc=5",
+      "pub_date": 1790665569.0,
+      "article_url": "https://bitcoinfoundation.org/news/blockchain-news/ethereums-next-upgrade-could-change-the-network-forever/",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/heg-1.webp",
+      "description": "What is special about Ethereum\u2019s next upgrade? How likely is it to move ETH price up? Here's what Vitalik Buterin has in stock."
     },
     {
-      "headline": "'It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGZrM1VESWdlby1QcXp1enJXbmwyX1l5RG9oT3d6YmVCN3JxVHprS1dOSW9SdVQyWUZvbUp2N2QyLXRqZVF6UFJxZ0R6UjhldFhnSm85bWxXYlJvN0JZcFRBUDkySlBiM3JnU2JRcTQ5MHJBU0xJZ3JFeWMyUTAtclRIR3JLeFNyY3ltQXlIVldpdWtlbG1WR3hNd1JXVTdzOXRnaEx1UkRBS3NRNFN2M2k1TG5yaDNwbmtRV1pYV2djQ192NzdETm5BTEZ1MURSejh3ZjEycWd0dw?oc=5",
-      "pub_date": 1790519753.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News_2.jpg",
-      "description": "The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over."
+      "headline": "Will Ethereum Hit $4,000 Before the End of 2026?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakdHSWdCeEFHNWtXU29YZWRVLU5XaV9BNTlEVDl5VWh5YkdfQjNJR3U4RzJzMGp1cld3NXNkcWZlZ2FTTFFBRnY0UExBR1JBWE9TR0lqRGx1R2lJMGxvdHN2QnFBSURSWWpGaGQ4QmpPNmFBUVJvQXZBVUhVVDZTUjdCUDFTc2dfU3I0UnJJVHY?oc=5",
+      "pub_date": 1790611227.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-4-000-end-160027391.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1baf673f8f4c90e3e8685157273344297242a81f1bec616381c1ec3411916941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9ba1fa41994408b573d416faebbd09ea.jpg",
+      "description": "Ethereum just posted a stunning 72% quarterly surge, but the clock is ticking and a wall of frustrated sellers waits ahead. Whether ETH can hit the $4,000 milestone before 2027 depends on one critical monthly close."
     },
     {
-      "headline": "This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZk9VWmR3cDZod05pajBjVFBMWktpaHFPMGE3YVpQZFp6SnFaVWZRLWppTFZJbXZfV0x1d0k1MHBrb056RHVNNmpTYndjMlNTZklWRFBudFpYTlNQOS11cHJjbWo4eFZCNjUwbUsyRXFjYVdhUjE1WlJvVmoxQWJNNzc1a3E0Z0k2NjdZQTJDVng?oc=5",
-      "pub_date": 1790624100.0,
-      "article_url": "https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888708%2Fa-visualization-of-a-blockchain.jpg&w=1200&op=resize",
-      "description": "NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz."
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Slide as Treasury Yields Push Higher: Analyst Flags BTC 'Buying Opportunity' Before the Rally Resumes",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORW5GUUljdFl1WXh5M1ROX2FUVkpRV2ZuSjN1clczd1B3U1V2RUJJM3dQUndzZC1MZ1ZTT1JBbUxXbEcyWWFJWDBDN2FpeW82a0VmOXpFQWRzOHIxazg4Y3lvRTYzVjdpRWh6eDQ5TmlRNVZ5ay1uVXZvZXR6dzhLbjV5Qm9QUHRtcWNoY25UTHFyb210NnlheUVUbUpkOERPX3BqdUpKYXIwb296VHBKTDNySEpTc2lwYTgtTVpjWVAydkpSNnhOVmFUdVVkcVV4T0xHYUU4dl83S192UWIyNGg2Ujk0V0FiSTR6a18xOFAtVHd4c3NiUlhNbm9Ha2wyV3hTSHdyYjhIUkZRbllGSDJDTi1qZw?oc=5",
+      "pub_date": 1790646600.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:f141fadd9094b:0-bitcoin-ethereum-xrp-dogecoin-slide-as-treasury-yields-push-higher-analyst-flags-btc-buying-opportunity-before-the-rally-resumes/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies declined further on Monday as investors reacted to rising bond yields and growing expectations of interest rate hikes.Crypto Market Drops FurtherBitcoin pushed for a breakout above $84,000 but met strong resistance and fell back toward the $82,000 area.Similarly, Ethereum h\u2026"
     },
     {
       "headline": "Tom Lee Says \u2018Stay Tuned\u2019 As Bitmine Nears 5% Ethereum Goal, Hints At What\u2019s Next",
@@ -55,14 +85,14 @@
       "description": "Tom Lee-backed Bitmine now holds 4.9% of the supply of all the Ethereum in circulation."
     },
     {
-      "headline": "1 Popular Cryptocurrency to Buy Before It Soars by 9,159%, According to Bitmine's Tom Lee",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFJCVmQ2cUJURlhPUXlRVXJ2Q3p5Rk9BbzJFNWt0ZFhSWlhuNmRLMjRqbnBwWDZiVHJkbWNKRTBOV3NyaVplblc1bnRhRS1FckNxbGZPM2FPRXc4dTBGWllzTllGMXdua0tveGFvRTllZlRrem5Gd180NUg0M0E5NnpySk4yb0N4VW1LdGpHcDFNcUlwNWc?oc=5",
-      "pub_date": 1790509800.0,
-      "article_url": "https://www.fool.com/investing/2026/09/27/1-cryptocurrency-buy-soars-9159-bitmines-tom-lee/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888811%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
-      "description": "Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency."
+      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach over 6 Million Tokens with Total Crypto, Cash & Marketable Securities Holdings of $17.2 Billion",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQcXpzNTJJTzJjYUYwMkRHNW9UMWgyZDNNVFlUbm5XakVhSWk0elY0anl4SkdGWE1wMFJaMV9ubzh6cHBHMVhRem1CLUM0alZndW1GNmRJSEplSUh6bTZHT1Rma3g2X2xieTRrU01MMWJsQVFqaVRCRXJmeGZRZmxkMFFScTYtSG1PMk16VURhZEloZDR1YUVtTUF6YUMtQ0YtQ2YteE1CaDVRQmZJT0N3ZTFKYXVSWVEzV2pxM0RnTG42RTYzUV9zcTNYMzRhMGJhbXRkZUhZUXNOSlJBMllkZHlYS0FPUTBXV0FyRWFJdzlYQUNkeTBJTmsxR0JIRmxQanNFR3QxNm1iNldQeGNPX21hWnVUZ0diNVhJNWU2YmtXaEs2d1NHeWVUS0tlTmFJcW1IRm9PSm8?oc=5",
+      "pub_date": 1790598600.0,
+      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-over-6-million-tokens-with-total-crypto-cash--marketable-securities-holdings-of-17-2-billion-302891056.html",
+      "image": "https://mmx.prnewswire.com/media/MS1997054/1.jpg?id=OA2972673&p=facebook",
+      "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing..."
     },
     {
       "headline": "BitMine\u2019s Ethereum Stack Crosses 6M, While Strategy Taps MSTR Sales To Buy BTC And STRC",
@@ -73,38 +103,8 @@
       "article_url": "https://www.tradingview.com/news/stocktwits:94610716f094b:0-bitmine-s-ethereum-stack-crosses-6m-while-strategy-taps-mstr-sales-to-buy-btc-and-strc/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Crypto treasury companies continued to expand their digital-asset holdings last week, with BitMine Immersion Technologies (BMNR) crossing 6 million Ethereum (ETH) while Strategy (MSTR) and Strive (ASST) added to their Bitcoin (BTC) holdings.BitMine\u2019s Ethereum Stack Crosses 6 MillionBitMine said Mon\u2026"
-    },
-    {
-      "headline": "Will Ethereum Hit $4,000 Before the End of 2026?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2tjc0dmR0tPUms2bXg1R1NETHVEc21kQW1ZSFo0U0t0OXFfREt5SjIyVnpjNWN4UDN4bHo3QlJ0SDVDaDRjU1BvZTZ5TzBSTEJNazdZZ0VFSzZFMTl1bUswamRzVUxJN0V0LUNDdmd0bU13NUJKYVFBODMxaTlHUmpuMVlYOXk4VU9pYkNuWmx0WnFYaF9xM3BzbmxRQU03ZVNQcVlGRQ?oc=5",
-      "pub_date": 1790611200.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-1977165767-huge-licensed-scaled.jpg",
-      "description": "Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?"
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Slide While Dogecoin Gains as Trump Rejects Iran's Hormuz Proposal: Analyst Sees BTC Marching to $90,000 Levels if This Happens",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPYTA3ZGtnb19RNS1CVnkybjVZcmF5WFlQaFlKNFJKSUh1ZmRoTEEwcWpzNzRITEFxLVhRUzI0djVKVkJPbkhJa2cwZkM5SVNtSjBzbUVEWFpLbXBpV2pUc21hM1lZZzRyczRJVmJ0V290SDBWUWFGbkhBX19WcEFpZ3B5X1BBSUM1Q1lOYnFfUDdpMVVYenpZdUZiVnFvNERCdGFqOFAwdlM3YXZlbjYxS0paRUtNdXZIQS1zZXVtbHIwLTlQaWNUbXVvRG5Ta1R4VTREcUFjR0c4Zjd2MURaQmZWRl91dGRiZDhPTHZCZWhCenhyT0k0RG1uSEJ5T0w5eWwxUjhGX1JhY2FQSE8wWHpldDRoeGNqMU1BX1p1RzZvYWY0dXhyN1ZZZ21tUQ?oc=5",
-      "pub_date": 1790561340.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:b257c6473094b:0-bitcoin-ethereum-xrp-slide-while-dogecoin-gains-as-trump-rejects-iran-s-hormuz-proposal-analyst-sees-btc-marching-to-90-000-levels-if-this-happens/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies stagnated on Sunday as investors weighed ongoing U.S.-Iran negotiations alongside a series of anticipated macroeconomic data.Crypto Rally HaltsBitcoin slipped below $84,000 Sunday evening after briefly topping $85,000 earlier in the day. Ethereum wobbled between $2,667 and\u2026"
-    },
-    {
-      "headline": "New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNm52X3hZcWpkanBBa0hkenczVUR2blR6U1p1empBLWQzVzNkdXZRLUpZQUFFak5GdGJsMXl6NHppQ1Yza1JzR3JTaWV6OVQwdWJuLW1ZdVlGNFd3eVp0NzZYVVhXR19PeThWbTR0LURfNVZyVUVoYTE1Y3RyczExWDBoV082X0padlc1amMwOVRadm91TVFQU25qX0dvNHpiTi1VSEY0OFVuYXh3VVJFUmxwWUxOR3hqLTZHZmtKdUhnVlNtTDBZaGRQYmlGZFFWS3lPOTI2aUdoWTNfTmYxMS0yWXY5LTZwcVRDUXVtdU5NbzdGcklvaUlqdw?oc=5",
-      "pub_date": 1790534024.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-releases-rtx-launch-date-as-ethereum-price-prediction-targets-18k-and-whale-buying-grows-1036576438",
-      "image": "https://ml.globenewswire.com/Resource/Download/310648e0-af50-4db8-997d-c26cdadc21f1/remittix.png",
-      "description": "MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T02:11:18.457907+00:00"
+  "fetched_at": "2026-09-29T08:53:30.473293+00:00"
 }

@@ -15,28 +15,28 @@
       "description": null
     },
     {
-      "headline": "OpenAI cancels new AI launch, citing safety issues",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaS1OamRFUFBDMjRRdVp6cWl6RDE3WHVZSFcyVUhzcFNKT2tXcXpMTWtvY3g5TU8yZjdDYjR0cUJYWEdMQ2NhVHBNNmg2RmIwZVBqSG9IYnZnWHhYWW8xZGJOTDdiLXBJUVB5emVPMUtFdFhmaXJ6aThMMldubkV1dmwwUGlydW8xMjBuby05MklnMGh6OVJlTkVibjVPemVWNU11cUsxbGRYT3lNdDdzOEM3Rzcwc2c?oc=5",
-      "pub_date": 1790646274.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/28/chatgpt-maker-openai-scraps-release-astra-61-model-over-safety/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3GLQNJ5KYJYGUAZD3FWTPQ6KDU.JPG&w=1440",
-      "description": "The cancellation of the new release comes days after OpenAI said it stopped training powerful new AI after safety incidents."
+      "headline": "OpenAI scraps rollout of new model over safety concerns",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5",
+      "pub_date": 1790656213.0,
+      "article_url": "https://www.bbc.com/news/articles/cm5y5nynl75ko",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+      "description": "The firm also issued an update on incidents in which its models accessed Australian government systems."
     },
     {
-      "headline": "OpenAI scraps release of latest AI model over safety concerns",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5",
-      "pub_date": 1790646075.0,
-      "article_url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-28T223038Z_1656552687_RC29LNAECGOF_RTRMADP_3_AI-SAFETY-OPENAI-1790641403_cd656d-1790642721.jpg?resize=1200%2C630&quality=80",
-      "description": "AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing."
+      "headline": "OpenAI Holds Version of AI Model",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2FmUzJhcC1Ed21MZU1fZFRZeFdZUEYySExzTTlqQ29sU3ZNQU9GLVNKUTdkbWtENmo0NUVDQ2JIR3JlTXVMSy1UdTQwWWJ2T1FBVVlfbE9TbVJ1OGlqMzEwdjRDTUN2ZDNfUHdHTEI0TnFERjBJMk50NmxfZGhVZ1cxYlRQSjFDWWxjdmQwdw?oc=5",
+      "pub_date": 1790665020.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-29/openai-holds-version-of-ai-model",
+      "image": null,
+      "description": null
     },
     {
       "headline": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
-      "source": "reuters.com",
+      "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
       "pub_date": 1790637420.0,
@@ -45,66 +45,66 @@
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5",
-      "pub_date": 1790641020.0,
-      "article_url": "https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/",
-      "image": null,
-      "description": null
+      "headline": "Anthropic warns of \u2018existential risks to humanity\u2019 from AI; AstraZeneca makes $2bn cancer drug tie-up \u2013 business live",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdkFSZ3NDcVVwV2lMc2hXSjJSNFQwT01NYlBrSHp5bHlqMEFPTnk1YlBlOGVpYnhHVTVpdmRhVjgtQ2ZWdnB6S1RsV0pjdkZ1OS10bjdYVF9pRHFFVmpaV0tQaDJPdTd5TFZzQl9IZ2N2eGRYdlF1eWk0ZFlrS2kyTDVmUld0UkszQXNmTmRjcGhDM3duYkJZQ2pGbTdINzRhN05YNWtQZ25OU293RXdaSEdKY0VwMGZfcjlaRTYxX1JsUGZUSmxCZGtnX0I3X3BZRFo2ZUhYT1RkN0w2b1JuSmIzVVRvaXJTUGRQSkllTEFLcm1GdVMwdlh0NXVOMHZhQnUwMXd6dmhMV21tYVQ1WlFoQy0?oc=5",
+      "pub_date": 1790664060.0,
+      "article_url": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+      "image": "https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64e5bae88f945ee4691a8e26eeb39945",
+      "description": "Rolling coverage of the latest economic and financial news"
     },
     {
-      "headline": "Anthropic leaders to control AI lab to promote public good over market forces: Reuters",
+      "headline": "Anthropic's Own IPO Filing Warns AI Could Threaten Humanity",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWG43bWpkV2tmbGhaZ1dvbFZoM3I2dWdseEc1LXd0bXJIWXR1Q0lZTGlyX0lVSm5CS0ZBYnppVGVrV0czSGc4TjdxT21ka3EzRXhDT3J6Z2tkcDlzckY3YVdfRDRqRUd3OEpSSzZjU3Z4WXNhQWRuMW9FSDVaS2RBVVg4VHVmdkkzU3RjVGZEbm5ZRFJpT2VuZS1PZw?oc=5",
+      "pub_date": 1790667661.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/anthropics-own-ipo-filing-warns-074101950.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/380688e6eac66ed5bcc06dbbbf136bd60438e65f15d6da1ada7ca0d1873ed701/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F07984580890bc86638addaae8f20e1d3.png",
+      "description": "Anthropic's IPO prospectus warns AI could pose existential risks as losses mount ahead of a $2 trillion listing."
+    },
+    {
+      "headline": "Mistral CEO says U.S. AI safety debate masks competitors\u2019 'negligence'",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUZxT0I3RXFuOWpySEotYkx2SHpoOUt0MWtsNjllSWNyVU92bkM3bnUyN0lTaF9iVlVHNkFsSkp6OEhoc2dwVVFZUmtvX0dVUFJ6Nzl6endxU1lyZUZlZ2U1MDVySG0tN1VLZV9NWFlLQ2NjZmxqMEpKMTlhenZ4cVNXRVd5eGVHVUxQdVFEcV9iMmNXRGxkdktoc081bzR0bURybmV4YmI1akhuak9CLWRpSkNoeGRtSG93VXpFTdIBxAFBVV95cUxQbU9hc3Y3RG8walh3WE5lOHNRUzNiWEJFVUYycXNreGFoc1FXQWJTc21nTzVuRlNuTmFuei1FYWctd0VxR1VWSUVtUnB1TWdmZUM3VXpETmZydVFieEZTdHE2ZTluYXFNRUU1RS1zWUJBVENCWXBLR05kLU8wSVh4YS1sbU5hMkNuck82am1JRDh0VGFkbzdLUnJrd2Utay1UUHM0dTlOMTczVjJZX3ZCV3R3QnZFR09nTUlyX21TaUcxRXJz?oc=5",
-      "pub_date": 1790646420.0,
-      "article_url": "https://www.cnbc.com/2026/09/29/anthropic-leaders-to-control-ai-lab-to-promote-public-good-over-market-forces-reuters.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&w=1920&h=1080",
-      "description": "Anthropic's IPO filing shows how it is creating a new \"Founder LLC\" vehicle aimed at serving the common good, while insulating its leaders from market forces."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Xa3REXzgwTUluYVRBSnczZk9mdWl1MmszYzBYNHRPbDJicXI4RVJibFkzaEZoVy14Z05yQkx3RUtIOWNWTERMMXpMVTNTYW43Z1NsTC1EY2pRQmhLUDhEdjJnR09pelJKSm1vQ2RVbnhBWndkVTF4RFVwRdIBgAFBVV95cUxOWlUzejBYN3NvR19GanJ3M2xQalBvRUFzRWNLMFMxVlpJSTF0LUV6cDNhSEJQeUZRaEJxYkJibjBSMFlEWjlVelEyMG1FZXZaTFlXbGhjQ1dNRjlWcjBHRXhzaWY0azJXNGZPakcwTGJoNzJPOHp2ZU9kR3BOUnQ3Rg?oc=5",
+      "pub_date": 1790670004.0,
+      "article_url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
+      "description": "Mistral CEO Arthur Mensch criticized rivals\u2019 AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions."
     },
     {
-      "headline": "Pope rejects AI \"fake news\" claims after Trump calls fears a \"hoax\"",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzSkpHWmlMSFgyME5vOWg0TVlsU29oWlFyRFRYMG80VmNGcVA0c2lVemdLRE1kdkVoMVo5dVF3R0hLdU9LUlRZRm92U0xqVWNLV2hnYmd2MEl5V0xJZnhUYWlzRENaUDlTUlc2c294dzU3dElr?oc=5",
-      "pub_date": 1790631351.0,
-      "article_url": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump",
+      "headline": "How an AI accusation engulfed a rising literary star",
+      "source": "CNN",
+      "source_url": "https://edition.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWt0djdUQzVnZFlYRGZ3d01PZHlqeEE4bGJEYjdMQTFrcWFyUWpjSTh2TWx6alhScVFTM0dBWWwtVkc1VjJkVEdTN0dIaklkRjVQWlhkNkJaMHpEZzNXN2VQZG5GODNzdmVDTGM0YmEzeU84ekhndTkwd05EZmZMaEk3dW5GMUxnX3pGdWp4RzZiM0pyOGR5VA?oc=5",
+      "pub_date": 1790668020.0,
+      "article_url": "https://edition.cnn.com/2026/09/29/world/video/thelyson-oreliens-ai-accusation-ldn-divid-vrtc",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/french-ai-author-thumbnail-3.jpg?c=16x9&q=w_800,c_fill",
+      "description": "France\u2019s Goncourt Prize dropped Haitian-Canadian novelist Th\u00e9lyson Or\u00e9lien\u2019s debut over accusations he used AI and plagiarized earlier work, claims he denies. Supporters call the backlash racially charged, critics call that a distraction, and his Canadian publisher has since paused the book\u2019s promotional tour, citing concerns for his wellbeing. CNN\u2019s Saskya Vandoorne explains."
+    },
+    {
+      "headline": "Nvidia, AMD want Trump to keep their chips flowing to China",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXdheVlVR0FPX2tsOThwNUNleXVHTUNza3F0bnpBLWE5OVdEOE9sVmpIM3Vac1IxTUVoMXdRUmxXQU1zaXZyX2pQTUc2YWsyYlQ2UGIxX0tMSmFQSkFhakU2a0RkVmNnZkg2cGFUX2FtUUhoMEh6VDZ3ZkVBYUZabEpad3pYcHNk?oc=5",
+      "pub_date": 1790671500.0,
+      "article_url": "https://www.politico.com/news/2026/09/29/nvidia-amd-trump-chips-china-ai-01096445",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not \u2018fake news\u2019",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhKYktPd0xYRGF2UF9KZW85Uk9SZWtnclVZMHJxdFRMdWpMUlU1ZmVlbGJLb2ZsVFAwcExqbHhiY2ZfdGF4c1ItUG4yenFDSkloZDBnbnVQalU1OUtOMVpreVBQaDZtUzVWNWp1TW01dkR1LXRfU0h6bGdPa2dwLUtMTkZ6X1RvNUp3TVM0U3hmMHd1TmVzQmpTVHQwLVhnMEQ0YXlraw?oc=5",
-      "pub_date": 1790646960.0,
-      "article_url": "https://apnews.com/article/pope-trump-artificial-intelligence-anthropic-0790f258461d114c920ec6158c2a1921",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Pope Leo criticises Nvidia\u2019s Jensen Huang over AI safety",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGJaQTBSQ0s5R3JwT2JrZWU0TGJJbGFCaHVDNFpheUJEaEVDTGFBZi1vMzlONEFKRkV3RGJUb3pCT2tlYzl6UnlfbGNKOXBFNkU5dHZoT2liNjRWWHJXZmhKR01DZ1lYelIwUlVvWU0zNW1VWXlKMmllY1lEVDB6aFcwSDQ?oc=5",
-      "pub_date": 1790639474.0,
-      "article_url": "https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F783aa0e4-1b22-4fb9-ac29-8acf6cec8ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Rare intervention from head of Catholic Church comes as top executives are due to meet at White House on Tuesday"
     },
     {
       "headline": "AMD just spent $8.2 billion to enlist the 'Godmother of AI'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXlWUW5ycmtzTVhGNmRrRXBCTG9pbUtxSW9BS1RYcHVjaVNUeGo4Z3Fvc0hOV1dIVXJpbVNFSXVaTEQwU2NmV09LcXlCc21RdklCbV95UVBrRklhZVg1UWd5NVY2MExCT2JnV1dMV2hlc0xNMlhDMXNBcThsUzd6aFZINWZtaFM1bW5fczkzMjRtOW1uWmpyR1ZId0JjS2lKeGo5RXVIblpodUtOanFqX3ZpaDZHdw?oc=5",
-      "pub_date": 1790636794.0,
+      "pub_date": 1790669783.0,
       "article_url": "https://finance.yahoo.com/technology/article/amd-just-spent-82-billion-to-enlist-the-godmother-of-ai-230634166.html",
       "image": "https://s.yimg.com/lo/mysterio/api/44878e247222cc0f875ef35e5b17bdc5890f9189e55c807532f8412ffd9f6ac2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fimage_0435.jpg",
       "description": "In spending $8.2 billion to scoop up World Labs, AMD CEO Lisa Su has gained the \"Godmother of AI\" and possible successor for when the time comes."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T02:11:39.669012+00:00"
+  "fetched_at": "2026-09-29T08:53:34.609053+00:00"
 }

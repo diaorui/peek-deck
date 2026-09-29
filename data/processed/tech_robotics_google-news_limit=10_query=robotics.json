@@ -15,28 +15,8 @@
       "description": "Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a \u201cChatGPT moment\u201d in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.\u201cI would say more ..."
     },
     {
-      "headline": "Tesla Reportedly Can\u2019t Get the Hands to Work on Its Optimus Robot",
-      "source": "futurism.com",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFpKZUYyMjc4NnVFUEdYcUgwYklDaEdKb1R0RUNXdU8wT1BqcTB2eDlsNUY5TnY3S3FCc0hjdG9TUDZZaGlYYkx4ZnE2OG1ibzkzVXlEcC1hMVk1Szl6QzVtQkUwQlVSeTMwOUxZR3BmVzQ1VTR1QS1sTXJPTFJmT2tKdGFYQQ?oc=5",
-      "pub_date": 1790614837.0,
-      "article_url": "https://futurism.com/advanced-transport/tesla-cant-get-hands-work-optimus-robot",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/tesla-cant-get-hands-work-optimus-robot.jpg?w=1200",
-      "description": "Tesla is targeting building 20,000 Optimus robots a week. According to The Information's latest reporting, it has a lot of catching up to do."
-    },
-    {
-      "headline": "Boston Dynamics Begins Robotics Testing at Hyundai Metaplant",
-      "source": "Assembly Magazine",
-      "source_url": "https://www.assemblymag.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm05OVJ4M0xocnVIeC05c2VUT0NUYWlyTWFieVNsZEJ3bWNsMk5fZVJRMGtOeXhrZ2hZWWxxNWZCeDc0UUNRbGNfWVRsQXM2aUpDUHJ5Ni1pc2JKdGpfTHdGb3JscVU2M3FwRHRYU1BXVlNIeDdZUW9nTFozRUt3aVJYMmdfMkwtbENtYlE4S2hDdmxKb3VJRm9RMjZuVzRzV2s4UEhmZw?oc=5",
-      "pub_date": 1790514000.0,
-      "article_url": "https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant",
-      "image": "https://www.assemblymag.com/ext/resources/images/Boston-Dynamics-TRI_hero.png?height=635&t=1767808082&width=1200",
-      "description": "ELLABELL, GA\u2014Boston Dynamics has opened a new robotics center at Hyundai Motor Group\u2019s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker\u2019s operations."
-    },
-    {
       "headline": "Reliable Robots: Meet Johnson\u2019s Dexterous Robotics Team",
-      "source": "nasa.gov",
+      "source": "NASA (.gov)",
       "source_url": "https://www.nasa.gov",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVFXTVdSdktmMU13T1djZVRmSTZDdTdadGMzVnQ2ZDM4VUhKNHZFa1B4LW5pTnZVdlA4VWFtTWFBSUZ1UU5TZkJTZGxkTEhFdm9qVlRmal92am5sczNGUDhmYTJFRnFjdUtMa1NucDVVbWUyREF2SVlBeVpOYnZFdE0zT2F0aVphemJWMzVMQWlUeTZzMExpN0VsVlNVTDZCVUlQX29NT2hUUQ?oc=5",
       "pub_date": 1790589600.0,
@@ -45,14 +25,24 @@
       "description": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions"
     },
     {
-      "headline": "Gecko Robotics & Nvidia team up to put guardrails on AI",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVczb0xwMEd2dW9OaFhENERxX2VtT3lxbHphaHkyVEQ5Y0VLMEpNWGN1dkdzRFJoa0pUZm1kb1ZNSnE5TlFDOW5VYmswNWw5Wkt2VkFIR2tGalozMS1jMV9LbkV6TW1XQjFJMk9STHZjUDJScFpBMm5GR2JjM0lYODlRNTd4bEVwV0phTFBiZHhLQ00wYndYdVdFX1ZhSmdWSjZCWVpoZC10bTYtTHJWQnQxdGs3VFBTZFJxa3dReDk3aFE?oc=5",
-      "pub_date": 1790630928.0,
-      "article_url": "https://www.cnn.com/2026/09/28/business/video/nvidia-gecko-robotics-ai-safety-loosararian-live-092804pseg2-cnni-business-fast",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-23022183-1481803-0559999999-still.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Gecko Robotics CEO Jake Loosararian explains what the partnership aims to achieve."
+      "headline": "Tesla Reportedly Can\u2019t Get the Hands to Work on Its Optimus Robot",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFpKZUYyMjc4NnVFUEdYcUgwYklDaEdKb1R0RUNXdU8wT1BqcTB2eDlsNUY5TnY3S3FCc0hjdG9TUDZZaGlYYkx4ZnE2OG1ibzkzVXlEcC1hMVk1Szl6QzVtQkUwQlVSeTMwOUxZR3BmVzQ1VTR1QS1sTXJPTFJmT2tKdGFYQQ?oc=5",
+      "pub_date": 1790614837.0,
+      "article_url": "https://futurism.com/advanced-transport/tesla-cant-get-hands-work-optimus-robot",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/tesla-cant-get-hands-work-optimus-robot.jpg?w=1200",
+      "description": "Tesla is targeting building 20,000 Optimus robots a week. According to The Information's latest reporting, it has a lot of catching up to do."
+    },
+    {
+      "headline": "Five million robots now work in factories as humanoid hype is tested",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1NVLXRiWnBTX09tcmgwVVc4VDZRd3h6bm0zazEwNk13SUF1bEtLVzNYVEs1SzV2UjBMLTlDQjF4amd6akNMT0pzeG5wdFREOS1renRsS1QtS1FoZlZJREpDRXZidFBmbjhYNlhLWHZ1eXRBd200R0pXU200X2REaUZwWVUwVHZyeGxZY3ZTWXNnd0E5dEdxWTFTVE5DWWtiTS1oLWRyRVFoRVM0UllvSkkwV0E?oc=5",
+      "pub_date": 1790657217.0,
+      "article_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
+      "image": "https://images.euronews.com/articles/stories/09/92/64/18/1200x675_cmsv2_a8bd4c1a-4d9c-54ff-9e05-fc14d79ca5bb-9926418.jpg",
+      "description": "Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines."
     },
     {
       "headline": "Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.",
@@ -65,46 +55,56 @@
       "description": null
     },
     {
-      "headline": "Driverless Trucks Show How to Keep AI Robots From Killing Us",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHI4eGVuUzItbEJGV2EzY0UzUTNOSEk0ZS1tdmZHX1prMC03RWczd3RHZ0tMc1FBb2VhTTBiR1JoSE0xd2hhSmpVck9uZzJVb2ZsX2VBdmFRbDQxY1N1QVdXQk5ZaHFaSV8taFBkZ3ZGd2VVZU5yc19ldnJiZlVXT1otNDYzaUJIQTZ6dE9Pa21paFB6Xy1aczN0LXctN1REWkU0RXkxcW56NTExeWd3RXY1aEE?oc=5",
-      "pub_date": 1790587815.0,
-      "article_url": "https://www.bloomberg.com/opinion/articles/2026-09-28/driverless-trucks-show-how-to-keep-ai-robots-from-killing-us",
-      "image": null,
-      "description": null
+      "headline": "Boston Dynamics Begins Robotics Testing at Hyundai Metaplant",
+      "source": "Assembly Magazine",
+      "source_url": "https://www.assemblymag.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm05OVJ4M0xocnVIeC05c2VUT0NUYWlyTWFieVNsZEJ3bWNsMk5fZVJRMGtOeXhrZ2hZWWxxNWZCeDc0UUNRbGNfWVRsQXM2aUpDUHJ5Ni1pc2JKdGpfTHdGb3JscVU2M3FwRHRYU1BXVlNIeDdZUW9nTFozRUt3aVJYMmdfMkwtbENtYlE4S2hDdmxKb3VJRm9RMjZuVzRzV2s4UEhmZw?oc=5",
+      "pub_date": 1790514000.0,
+      "article_url": "https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant",
+      "image": "https://www.assemblymag.com/ext/resources/images/Boston-Dynamics-TRI_hero.png?height=635&t=1767808082&width=1200",
+      "description": "ELLABELL, GA\u2014Boston Dynamics has opened a new robotics center at Hyundai Motor Group\u2019s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker\u2019s operations."
     },
     {
-      "headline": "One of AI's most influential researchers is joining AMD in an $8 billion deal",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQczdMU0NRdWdpWEpuMU04OHBJWU5Qb2tnMy1Zd1psRkxmb1VrbnNCNGwzOTV6dHpDbmYtd1RXY0Q5N1R2N3dOUlVNTGNCU3otTTN4YVViS0Zab1NzMy1OR19aOUVlT0FBYWN4dERqQ25iSHVkUjJvLXpSM0Q5S2U2ZkZpLXJDU3V2emo5VHR2QWY?oc=5",
-      "pub_date": 1790631480.0,
-      "article_url": "https://www.businessinsider.com/ai-pioneer-fei-fei-li-joining-amd-8-billion-deal-2026-9",
-      "image": "https://i.insider.com/6abad8f0eb7225411267b938?width=1200&format=jpeg",
-      "description": "AMD is betting big on \"world models\" that could power robots, factories, and other physical AI systems. It's acquiring Fei-Fei Li's World Labs."
+      "headline": "AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy",
+      "source": "TechPowerUp",
+      "source_url": "https://www.techpowerup.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1VYdkpGZXpZb1IyYWhrRnU4QVdwU1doQVZhNW8tRkZiMnk5aS1yVjcxSVc5UGxjQVpEWllBX19VcHZwU0lBMXJMYmN0ZWpBLXRINkF0Y3hMRllnb0pZWHkwYnNseWk0NW5Lb3Rzd3dnbGNmQXdTTVA5b2hrbkc4aFhmX1BiaUpwNnduMWVINFNZWHktanJZUzFDX0VPUkVXdFo5VDJSRkJYWVZqY2ZxRGJzRUFwRGM2X2VNM3VB0gHDAUFVX3lxTE1UdHBKekNPanNzYXFyV2tpcnJuOUlvY3ZmMF9Cb1pnOGNfczBHcFpZc2djTXJDdS13SGotbHdRT0RNQjJ1U1pqc2g3dTVpY2Vmdm9lUTFwb29uNFR6azhsczROVTRYNnA3dWRSVkxybjZIQ0hKaTNyR1Y2LVI1YUJFQ2ZmM19mdzVSUzBJVGt2S3hkTjkxS3BmcDBBNnhhNzlmWjBYNmliRXNaQURNSmliYWtGNVpTMkRDbVgxR3FwMVBJYw?oc=5",
+      "pub_date": 1790629403.0,
+      "article_url": "https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy",
+      "image": "https://www.techpowerup.com/img/BDEGyA1GZCdLvEMO.jpg",
+      "description": "AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model experts to AMD, strengthening its ability to develop AI..."
     },
     {
-      "headline": "Pittsburgh firms involved in Nvidia effort to corral rogue AI agents",
-      "source": "Pittsburgh Post-Gazette",
-      "source_url": "https://www.post-gazette.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdFJyN0hNZU5JLXFVTW5oS05hZkxJRklKQ1dwT1Q4cnB5ak00SndCV0M4YmFDSFVqaE1nX1R0bVpPaW5TX0t2cjh1UUZPWldhTjZ1TDZjSkdfMUtLajZBZzB4WV80Zk1vaElKMXZBWk9uSDRrZVZrb3NxYzY0QW9hVFZfVE5yQTcyanlfMXFlT3NWVXlpVnBYMVNlS0NQWm85SWRxVTVxRHBib2RrUUZ2SlNuRXctTnpnT19RNm9vVlNjRzR4ZGpOWWpFSmtab2tGWVo3cHplM2txUQ?oc=5",
-      "pub_date": 1790647707.0,
-      "article_url": "https://www.post-gazette.com/business/tech-news/2026/09/28/nvidia-skild-ai-gecko-robotic-open-ai-hugging-face-ai-horizons/stories/202609280034",
-      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609280034/1140x_a10-7_cTC/GECKO092826_1790609848.jpg",
-      "description": "In response to global anxiety\u00a0over rogue AI agents, Nvidia, the world\u2019s leading chipmaker powering artificial intelligence, announced an effort..."
+      "headline": "I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.",
+      "source": "Slate Magazine",
+      "source_url": "https://slate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEtKd1FfUE5XUHdPQUQ0azR4RVU5UzFRRUJmU0NpMEsyWktUTnNiX19SRDRiRXhLTHIwaE1GaFVfR18zMW1PQ2ZsQ0JMQ1Q3LUl4SlI5S1FIRHdhczJiM0pXemE4RFgySFFIVzB2ZzQ5elJRTnBKS3BVSHVnSm5jNVJDQQ?oc=5",
+      "pub_date": 1790502300.0,
+      "article_url": "https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html",
+      "image": "https://compote.slate.com/images/d1688b60-2be1-4f4f-abae-82a080bb9f92.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "description": "The World Humanoid Games were actually a social experiment in the making."
     },
     {
-      "headline": "Wind-up elastic robot jumps forever when fed infrared light",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ObFRjc01OZkJCYVpRR1lMcFh1Nmt0UU04bjV4aWU3elpsQVZTcFZ4ZTE3Y0EycFpfN1RFckRpMlN6Qlctb0pDR3gyUm8zak9PTktGcmdCcFUtV1l2U3Q3QXZUSjA3VWt1cV9rRG1hNDFuUQ?oc=5",
-      "pub_date": 1790564189.0,
-      "article_url": "https://newatlas.com/robotics/elastic-robot-jump-infrared-light/",
-      "image": "https://assets.newatlas.com/dims4/default/c2a1db8/2147483647/strip/true/crop/2133x1120+0+132/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fec%2F99%2F1ecc813b4a74bb5d39ec065857ae%2Fjie-yin-jumping-ring-header-full.jpg&na.image_optimisation=0",
-      "description": "Robots \u2013 that is, self-guided mechanisms interacting with or changing their environments \u2013 exist in the popular imagination as large, blocky, metallic beings like R2D2 or TARS from Interstellar. But the field of soft robotics offers a vast array of robotic limbs, sensors, and body types that\u2026"
+      "headline": "How a character from \u2018The Addams Family\u2019 is shaping the future of robotics",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHlLNkxKUEZZbF9IMmpSN1V1cDhqSUI1eDZPR2xnWDRzOHdDSlprcVJrNllULURQcE5iNU1HQk4wbU83Tl9zSWVmT2ljZVYtdFpQTFRzbTJDR3dHMS12d1QtMWNhU0l4MlhONVJ2V2pNcVpQM3c0UWl5M0VGUEJjMGdBWks?oc=5",
+      "pub_date": 1790590339.0,
+      "article_url": "https://www.fastcompany.com/91611631/eth-zurich-soft-robotocs-lab-robotic-hand",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/p-91611631-soft-robotics-lab.jpg",
+      "description": "Researchers from ETH Zurich designed a walking robotic hand."
+    },
+    {
+      "headline": "A robot business reports 552 cumulative device sales and shipments and about $1.52 million in revenue",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeE5yRU9hNHVmTXFpZWF1TDZuQ2Fra24xa1ZmWWJKbUllREh0dE1BdEd6aHZIeENKeUVCUWU3N1VMampVR2RIdF9sbmhJMlJFeVZjMndMUGlVSDF5MEV6cElpYmk0M2ZqYkRXNFRPNFNDRVVvMVVldE9DSDBGaW1jNjZ0VjNXdzgxUGtBQ05IcVJNeVd0OUJ6dFpUZ3BKb3YtYjlSZHV0RkZ1dkZyQVVyTmp4aV9DZ2dHNVhZ?oc=5",
+      "pub_date": 1790629200.0,
+      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-upgrade-into-robotaxi-and-eai-rinc4asmcb7u.html",
+      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Announces_Strategic_Upgrade_into_Robotaxi_and_EAI_Cabin_Technology_Operator_and_Physi_1509543.webp",
+      "description": "The proposed deal remains subject to definitive agreements and regulatory approvals. Management projects positive operating cash flow for the robotics business in Q3 2028."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T02:11:25.280596+00:00"
+  "fetched_at": "2026-09-29T08:53:29.808801+00:00"
 }
