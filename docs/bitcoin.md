@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-28T22:26:01.292589+00:00'
+updated: '2026-09-29T02:11:42.414583+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 28, 2026 at 22:26 UTC  
+**Last Updated:** September 29, 2026 at 02:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,106 +38,114 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,470.68
+### $82,934.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -3.4%  
-**30d:** +7.1%  
-**90d:** +38.6%  
-**1y:** -27.2%  
+**24h:** -0.4%  
+**7d:** -1.7%  
+**30d:** +5.6%  
+**90d:** +34.7%  
+**1y:** -27.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1671.33B
+**Market Cap:** $1667.79B
 Rank #1
 
-**Circulating Supply:** 20,090,481 BTC
+**Circulating Supply:** 20,090,790 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.0%
+-34.2%
 
 **All-Time Low:** $67.81
-+122586.9%
++122309.7%
 
 ---
 
 ## Fear & Greed Index
 
-### 74
+### 73
 **GREED**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[No, buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wr73rp/no_buy_bitcoin/)**
+**[OG](https://www.reddit.com/r/Bitcoin/comments/1wsq19e/og/)**
+
+The embodiment of minding your own business and doing your part to heal the world utilizing the skills you have. GFY. Stack sats. Get your security right. Hodl. All the best!
+
+5h ago
+
+---
+
+**[If the bitcoin bear market is over, it would be the shortest and shallowest on record since 2013.](https://www.reddit.com/r/Bitcoin/comments/1wsfk3m/if_the_bitcoin_bear_market_is_over_it_would_be/)**
+
+12h ago
+
+---
+
+**[It's done. No one i know understands enough to celebrate with me. Nothing changes, keep stacking i guess.](https://www.reddit.com/r/Bitcoin/comments/1ws1vch/its_done_no_one_i_know_understands_enough_to/)**
 
 1d ago
 
 ---
 
-**[and keep buying bitocin](https://www.reddit.com/r/Bitcoin/comments/1wrgzq0/and_keep_buying_bitocin/)**
+**[40K guy be like: wait 40K october](https://www.reddit.com/r/Bitcoin/comments/1wswxfz/40k_guy_be_like_wait_40k_october/)**
 
-1d ago
-
----
-
-**[So which one are you? Did you buy or are just now buying?](https://www.reddit.com/r/Bitcoin/comments/1wrf4xv/so_which_one_are_you_did_you_buy_or_are_just_now/)**
-
-1d ago
+43m ago
 
 ---
 
-**[Meme](https://www.reddit.com/r/Bitcoin/comments/1wrf6p7/meme/)**
+**[Had a blast at the Midwest Summit, but meeting Bitcoiners IRL is weird.](https://www.reddit.com/r/Bitcoin/comments/1wsu04s/had_a_blast_at_the_midwest_summit_but_meeting/)**
 
-1d ago
-
----
-
-**[Heroes](https://www.reddit.com/r/Bitcoin/comments/1wrftaa/heroes/)**
-
-name others + context.
-
-1d ago
+2h ago
 
 ---
 
-**[Feeling lucky.....](https://www.reddit.com/r/Bitcoin/comments/1wrijij/feeling_lucky/)**
+**[The genius of Satoshi was understanding Incentives + Human Nature](https://www.reddit.com/r/Bitcoin/comments/1wsk8t8/the_genius_of_satoshi_was_understanding/)**
 
-1d ago
+Cory explains the "six great games of Bitcoin" aka miners, pools, block space, rules, adoption, and nation-states. Incentives => Outcomes Reminds me of Trace Mayer's 7 network effects that occur in the Bitcoin ecosystem: - Speculation - Merchant Adoption - Consumer Adoption - Security - Developer Mindshare - Financialization - Adoption as a World Reserve Currency
 
----
-
-**[Funds are SAFU](https://www.reddit.com/r/Bitcoin/comments/1wr813p/funds_are_safu/)**
-
-1d ago
+9h ago
 
 ---
 
-**[Right?!](https://www.reddit.com/r/Bitcoin/comments/1wqwi5w/right/)**
+**[EMM secures return of $1.725 million in Bitcoin from ColdCard Vulnerability, through ethical hackers](https://www.reddit.com/r/Bitcoin/comments/1wsjrum/emm_secures_return_of_1725_million_in_bitcoin/)**
 
-2d ago
+EMM secures the recovery of $1.725m Bitcoin involving ethical hackers, blockchain tracing and cryptographic proof.
 
----
-
-**[Daily Discussion, September 27, 2026](https://www.reddit.com/r/Bitcoin/comments/1wrddmc/daily_discussion_september_27_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-1d ago
+🔗 [Edmonds Marshall McMahon](https://www.emmlegal.com/news/emm-secures-1-725-million-bitcoin-recovery/) • 9h ago
 
 ---
 
-**[Does this happen to anyone else ?](https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/)**
+**[bitcoin is in the midst of an aggressive uptrend when priced in gold, its only true competitor](https://www.reddit.com/r/Bitcoin/comments/1wsdbj5/bitcoin_is_in_the_midst_of_an_aggressive_uptrend/)**
 
-2d ago
+we reached a peak of 41 ounces of gold per bitcoin at the height of the previous bull market, a repeat would mean $170,000 BTC
+
+13h ago
+
+---
+
+**[My cats are sleeping on Bitcoin. I'm not 😄](https://www.reddit.com/r/Bitcoin/comments/1wsdu1y/my_cats_are_sleeping_on_bitcoin_im_not/)**
+
+Bullish sentiment. Energy building. ARE YOU READY
+
+13h ago
+
+---
+
+**[How I imagine Bitcoin adoption](https://www.reddit.com/r/Bitcoin/comments/1wskynv/how_i_imagine_bitcoin_adoption/)**
+
+Sasquatch music festival 2009. One guy starts dancing alone.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=GA8z7f7a2Pk) • 8h ago
 
 ---
 
@@ -147,53 +155,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
 
-marketwatch.com • 4h ago
-
----
-
-**[Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes](https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes)**
-
-Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon. Bitcoin and Nasdaq futures wilt.
-
-CoinDesk • 18h ago
-
----
-
-**[Bitcoin traders chase shorts as rising Treasury yields weigh over gold](https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows)**
-
-Overall demand for leveraged exposure remains weak, marked by sliding futures open interest. The capital that's still in the market appears skewed toward bearish positions.
-
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-wobbles-macro-risks-101148578.html)**
-
-Bitcoin continued to lose momentum on Monday, cooling after a blistering rally in recent weeks, as a fresh bout of macro uncertainty weighed on risk assets.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Strategy Buys $143 Million Of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-buys-143-million-bitcoin-133300967.html)**
-
-Strategy (NASDAQ: $MSTR) continues to purchase Bitcoin (CRYPTO: $BTC), buying $143 million U.S. worth of the crypto...
-
-Yahoo Finance • 8h ago
-
----
-
-**[Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)](https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys)**
-
-Seeking Alpha • 42m ago
-
----
-
-**['Even more orange': Strategy buys 1,665 bitcoin for $143 million as total holdings reach 847,666 BTC](https://www.theblock.co/news/business/2026-09-28-even-more-orange-michael-saylor-strategy-bitcoin-416976)**
-
-Strategy has purchased another 1,665 BTC for approximately $142.7 million at an average price of $85,681 per bitcoin.
-
-The Block • 10h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -201,15 +163,43 @@ The Block • 10h ago
 
 Although Bitcoin probably isn't going away, within five years it will be vulnerable to significant disruption.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Bitcoin: The Beginning Of The Next Bull Market (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4950318-bitcoin-the-beginning-of-the-next-bull-market)**
+**[Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)](https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys)**
 
-Bitcoin may be in a new bull market: $83K weekly close, MVRV crossover & key risks. Read the full analysis here.
+Seeking Alpha • 4h ago
 
-Seeking Alpha • 5h ago
+---
+
+**[Why Does the Price of Bitcoin Keep Going Up? The Answer Might Surprise You.](https://finance.yahoo.com/markets/crypto/articles/why-does-price-bitcoin-keep-185700414.html)**
+
+It's easy to explain Bitcoin's upward ascent in terms of ETF inflows and interest rates. But that doesn't tell the full story.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand](https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes](https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes)**
+
+Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon. Bitcoin and Nasdaq futures wilt.
+
+CoinDesk • 22h ago
+
+---
+
+**[Grant Cardone: Real Estate "Armageddon" Is Here – Why BITCOIN Is The Hedge](https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge)**
+
+Grant Cardone explains how a massive shift in commercial real estate created the perfect opportunity to aggressively accumulate and store wealth in Bitcoin.
+
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -217,7 +207,23 @@ Seeking Alpha • 5h ago
 
 Polymarket launched its "Bitcoin Up or Down" markets on its US app on September 22, 2026, at 12:00 PM ET. The product lets users wager on whether Bitcoin's price will finish above or below a reference price at the close of each 15-minute window. Markets run continuously, 24 hours a day, seven days…
 
-TradingView • 6h ago
+TradingView • 9h ago
+
+---
+
+**[Why Is XRP Still Down 17% for 2026 When Bitcoin and Solana Are Almost Even?](https://247wallst.com/investing/cryptocurrency/2026/09/28/why-is-xrp-still-down-17-for-2026-when-bitcoin-and-solana-are-almost-even/)**
+
+Bitcoin and Solana have nearly clawed back everything they lost in 2026, yet XRP keeps getting left behind despite outpacing both coins during the recent rally. The reason comes down to a mathematical trap that punishes coins with steeper drops far more than most traders realize.
+
+24/7 Wall St. • 18h ago
+
+---
+
+**[Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October](https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944)**
+
+U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows.
+
+The Block • 2d ago
 
 ---
 
@@ -235,7 +241,7 @@ TradingView • 6h ago
 
 A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
 
-⬆️ 2 • 💬 0 • 1h ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 2 • 💬 0 • 5h ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
 
 ---
 
@@ -265,7 +271,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 An expressive Unix-pipeable CLI for System One models like Jev - frodi-karlsson/onesie
 
-⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/frodi-karlsson/onesie)
+⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/frodi-karlsson/onesie)
 
 ---
 
@@ -273,13 +279,33 @@ An expressive Unix-pipeable CLI for System One models like Jev - frodi-karlsson/
 
 ## YouTube Videos: "bitcoin"
 
+**[Strategy bought Bitcoin again. It spent more on its own stock.](https://www.youtube.com/watch?v=1TCdjmf0d84)**
+
+Strategy bought Bitcoin again. It spent more on its own stock. Strategy sold 1.47 million shares last week to raise $246.2 million, ...
+
+📺 Yahoo Finance
+
+👁️ 24K • 👍 365 • 💬 192 • ⏱️ 14:59 • 9h ago
+
+---
+
 **[Is Bitcoin About To REPEAT History?](https://www.youtube.com/watch?v=Q-Vz5VHCo0o)**
 
 FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
 
 📺 Crypto Tips
 
-👁️ 7K • 👍 416 • 💬 10 • ⏱️ 11:50 • 6h ago
+👁️ 11K • 👍 521 • 💬 16 • ⏱️ 11:50 • 10h ago
+
+---
+
+**[Bitcoin Falls To $82K After ETFs Just Bought $2.4 BILLION](https://www.youtube.com/watch?v=8eLihCFdP7M)**
+
+Bitcoin #Crypto #finance Bitcoin falls back toward $83K despite a massive $2.4B week for ETF inflows, as oil spikes above $100 ...
+
+📺 The Wolf Of All Streets
+
+👁️ 29K • 👍 816 • 💬 371 • ⏱️ 1:02:31 • 11h ago
 
 ---
 
@@ -289,7 +315,7 @@ Register for my investing Workshop & get Market Briefs as a bonus: ...
 
 📺 Minority Mindset
 
-👁️ 52K • 👍 1K • 💬 259 • ⏱️ 26:37 • 10h ago
+👁️ 59K • 👍 1K • 💬 311 • ⏱️ 26:37 • 14h ago
 
 ---
 
@@ -299,17 +325,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 155K • 👍 5K • 💬 318 • ⏱️ 17:07 • 17h ago
+👁️ 167K • 👍 6K • 💬 322 • ⏱️ 17:07 • 20h ago
 
 ---
 
-**[Bitcoin Faces a Sudden Oil Shock..](https://www.youtube.com/watch?v=o2y_qLzulp0)**
+**[Bitcoin is Falling: The Exact Support Levels You Need to Watch](https://www.youtube.com/watch?v=lBJg0dLGNyE)**
 
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+Bitcoin is falling, and the only question that matters is where the floor is. Trade alongside the Verified Pro Traders in the Apex ...
 
-📺 CryptosRUs
+📺 Verified Investing
 
-👁️ 20K • 👍 721 • 💬 53 • ⏱️ 42:13 • 7h ago
+👁️ 11K • 👍 487 • 💬 55 • ⏱️ 20:46 • 8h ago
 
 ---
 
@@ -319,57 +345,37 @@ Just a few days away everyone. Literally at this point every single analyst with
 
 📺 Money Rules - Investing Tips 
 
-👁️ 22K • 👍 1K • 💬 309 • ⏱️ 12:51 • 11h ago
+👁️ 25K • 👍 1K • 💬 361 • ⏱️ 12:51 • 15h ago
 
 ---
 
-**[BITCOIN: Time To Pay Attention. Seriously. (you&#39;ll see why) - BTC Price Prediction Today](https://www.youtube.com/watch?v=F9lb8AhSdFY)**
+**[Bitcoin Faces a Sudden Oil Shock..](https://www.youtube.com/watch?v=o2y_qLzulp0)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 BitcoinHyper
+📺 CryptosRUs
 
-👁️ 10K • 👍 450 • 💬 36 • ⏱️ 13:24 • 10h ago
-
----
-
-**[THE BITCOIN BEAR MARKET IS OVER BUT…](https://www.youtube.com/watch?v=3BqYdyKkg_A)**
-
-LIFETIME ACCESS ENDS 1 OCTOBER. APPLY TODAY. https://form.typeform.com/to/lQ6mtwju?utm_source=youtube Free ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 18K • 👍 773 • 💬 89 • ⏱️ 29:44 • 17h ago
+👁️ 23K • 👍 768 • 💬 51 • ⏱️ 42:13 • 11h ago
 
 ---
 
-**[BITCOIN: THIS TIME IS DIFFERENT.](https://www.youtube.com/watch?v=mqezUphMWZs)**
+**[Insane Bitcoin Bull Cycle XRP 700% Price Jump This Market Cycle Is Going To Change Lives](https://www.youtube.com/watch?v=6ip_Q_OzDjw)**
 
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+Get ready everyone, this one is going to be a photo finish. The crypto bull cycle has only just (unofficially) begun and already ...
 
-📺 Crypto Kid
+📺 The Modern Investor
 
-👁️ 7K • 👍 385 • 💬 36 • ⏱️ 15:10 • 12h ago
-
----
-
-**[DISASTER FOR BITCOIN !!!!!!](https://www.youtube.com/watch?v=aFS_BYUsncI)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Up to ...
-
-📺 The Moon Show
-
-👁️ 15K • 👍 653 • 💬 81 • ⏱️ 7:46 • 10h ago
+👁️ 10K • 👍 709 • 💬 336 • ⏱️ 32:12 • 17h ago
 
 ---
 
-**[Bitcoin: A Critical Moment](https://www.youtube.com/watch?v=gvvMvW7AGE4)**
+**[This Crypto Market Is Worrying Me Right Now](https://www.youtube.com/watch?v=iERJgx9wgQ8)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Where I Trade: https://aaronbtc.com/low ...
 
-📺 Benjamin Cowen
+📺 Aaron Bennett
 
-👁️ 221K • 👍 8K • 💬 696 • ⏱️ 21:08 • 2d ago
+👁️ 13K • 👍 463 • 💬 114 • ⏱️ 10:16 • 18h ago
 
 ---
 

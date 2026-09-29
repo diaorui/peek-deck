@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-28T22:26:01.298666+00:00'
+updated: '2026-09-29T02:11:42.420756+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 28, 2026 at 22:26 UTC  
+**Last Updated:** September 29, 2026 at 02:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -2.8%  
-**30d:** +10.6%  
-**90d:** +66.1%  
-**1y:** -36.6%  
+**24h:** +0.2%  
+**7d:** -1.0%  
+**30d:** +7.7%  
+**90d:** +56.3%  
+**1y:** -35.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $326.39B
+**Market Cap:** $324.94B
 Rank #2
 
 **Circulating Supply:** 122,087,474 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.0%
+-46.2%
 
 **All-Time Low:** $0.43
-+617195.5%
++614421.7%
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1d ago
 
 **[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
 
-Vitalik Buterin's website • 1d ago
+vitalik.eth.limo • 1d ago
 
 ---
 
@@ -174,27 +174,11 @@ The Block • 1d ago
 
 ---
 
-**[Will Ethereum Hit $4,000 Before the End of 2026?](https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/)**
+**[This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?](https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/)**
 
-Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?
+NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz.
 
-24/7 Wall St. • 6h ago
-
----
-
-**[A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.](https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html)**
-
-A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin vs Ethereum: Which Gets Back to Its All-Time High First?](https://247wallst.com/investing/cryptocurrency/2026/09/27/bitcoin-vs-ethereum-which-gets-back-to-its-all-time-high-first/)**
-
-Bitcoin needs a 49% gain to hit $126,080, while Ethereum needs 83% to reach $4,950. Bitcoin vs Ethereum, who will get there first?
-
-24/7 Wall St. • 1d ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -218,15 +202,31 @@ The Motley Fool • 1d ago
 
 Crypto treasury companies continued to expand their digital-asset holdings last week, with BitMine Immersion Technologies (BMNR) crossing 6 million Ethereum (ETH) while Strategy (MSTR) and Strive (ASST) added to their Bitcoin (BTC) holdings.BitMine’s Ethereum Stack Crosses 6 MillionBitMine said Mon…
 
-TradingView • 7h ago
+TradingView • 10h ago
 
 ---
 
-**[This Top Ethereum Rival Has More Than Doubled in Two Weeks. But Is It a Buy?](https://www.fool.com/investing/2026/09/28/this-top-ethereum-rival-doubled-in-two-weeks/)**
+**[Will Ethereum Hit $4,000 Before the End of 2026?](https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/)**
 
-NEAR's focus on AI agents and its upcoming ETF are generating a lot of buzz.
+Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?
 
-The Motley Fool • 3h ago
+24/7 Wall St. • 10h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Slide While Dogecoin Gains as Trump Rejects Iran's Hormuz Proposal: Analyst Sees BTC Marching to $90,000 Levels if This Happens](https://www.tradingview.com/news/benzinga:b257c6473094b:0-bitcoin-ethereum-xrp-slide-while-dogecoin-gains-as-trump-rejects-iran-s-hormuz-proposal-analyst-sees-btc-marching-to-90-000-levels-if-this-happens/)**
+
+Leading cryptocurrencies stagnated on Sunday as investors weighed ongoing U.S.-Iran negotiations alongside a series of anticipated macroeconomic data.Crypto Rally HaltsBitcoin slipped below $84,000 Sunday evening after briefly topping $85,000 earlier in the day. Ethereum wobbled between $2,667 and…
+
+TradingView • 1d ago
+
+---
+
+**[New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-releases-rtx-launch-date-as-ethereum-price-prediction-targets-18k-and-whale-buying-grows-1036576438)**
+
+MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft...
+
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -234,13 +234,13 @@ The Motley Fool • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
+**[Ethereum to $10K? The Setup Is Finally Starting to Make Sense](https://www.youtube.com/watch?v=UrIWhi__Gdo)**
 
-Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Money Rules - Investing Tips 
+📺 Milk Road
 
-👁️ 22K • 👍 1K • 💬 309 • ⏱️ 12:51 • 11h ago
+👁️ 4K • 👍 158 • 💬 83 • ⏱️ 39:58 • 6h ago
 
 ---
 
@@ -250,7 +250,37 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 25K • 👍 749 • 💬 42 • ⏱️ 12:21 • 1d ago
+👁️ 26K • 👍 753 • 💬 42 • ⏱️ 12:21 • 1d ago
+
+---
+
+**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
+
+Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 25K • 👍 1K • 💬 361 • ⏱️ 12:51 • 15h ago
+
+---
+
+**[ETH BULL RUN READY! Vitalik’s Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
+
+ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
+
+📺 Altcoin Buzz
+
+👁️ 3K • 👍 56 • 💬 7 • ⏱️ 10:22 • 11h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=66v2ePtGjQo)**
+
+BITCOIN & CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 692 • 👍 81 • 💬 8 • ⏱️ 23:15 • 39m ago
 
 ---
 
@@ -260,27 +290,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 619 • 👍 55 • 💬 6 • ⏱️ 13:09 • 1h ago
-
----
-
-**[1,300% Shorts On ETH Despite Vitalik’s Bullish Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
-
-ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
-
-📺 Altcoin Buzz
-
-👁️ 2K • 👍 49 • 💬 7 • ⏱️ 10:22 • 7h ago
-
----
-
-**[The “Fast Ethereum” Plan That Could Supercharge ETH](https://www.youtube.com/watch?v=62vE4TlShFg)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 80 • 💬 112 • ⏱️ 13:09 • 1d ago
+👁️ 4K • 👍 118 • 💬 12 • ⏱️ 13:09 • 5h ago
 
 ---
 
@@ -290,27 +300,17 @@ Vitalik Buterin just published "The Cryptographic World Computer," an essay that
 
 📺 BasedGiant
 
-👁️ 3K • 👍 113 • 💬 10 • ⏱️ 9:23 • 16h ago
+👁️ 3K • 👍 119 • 💬 11 • ⏱️ 9:23 • 20h ago
 
 ---
 
-**[TOM LEE&#39;S SHOCKING ETHEREUM PREDICTION](https://www.youtube.com/watch?v=eRhJpssWsoI)**
+**[The “Fast Ethereum” Plan That Could Supercharge ETH](https://www.youtube.com/watch?v=62vE4TlShFg)**
 
-1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Tom Lee is calling for 60000 dollar Ethereum within a ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Lark Davis
+📺 Milk Road
 
-👁️ 36K • 👍 659 • 💬 91 • ⏱️ 7:46 • 2d ago
-
----
-
-**[Altcoins Haven&#39;t Had A Bull Market In 6 Years... This Ethereum Chart Says It&#39;s About To Start](https://www.youtube.com/watch?v=mPSeKc-arqg)**
-
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
-
-📺 Crypto Capital Venture
-
-👁️ 35K • 👍 779 • 💬 153 • ⏱️ 14:43 • 2d ago
+👁️ 6K • 👍 82 • 💬 111 • ⏱️ 13:09 • 1d ago
 
 ---
 
@@ -324,13 +324,13 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 ---
 
-**[Is Ethereum about to explode?](https://www.youtube.com/watch?v=Obz42zCh4-Y)**
+**[TOM LEE&#39;S SHOCKING ETHEREUM PREDICTION](https://www.youtube.com/watch?v=eRhJpssWsoI)**
 
-Ethereum has been consolidating for five years. What happens next? On Fundstrat's macro update webinar, Tom Lee and Mark ...
+1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Tom Lee is calling for 60000 dollar Ethereum within a ...
 
-📺 Fundstrat
+📺 Lark Davis
 
-👁️ 13K • 👍 236 • 💬 16 • ⏱️ 0:36 • 1d ago
+👁️ 36K • 👍 663 • 💬 91 • ⏱️ 7:46 • 2d ago
 
 ---
 

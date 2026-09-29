@@ -6,11 +6,51 @@
   "articles": [
     {
       "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5",
-      "pub_date": 1790616600.0,
+      "pub_date": 1790634900.0,
       "article_url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTThaX05vYVJyNDRWSzRabkd1Q01oQXdvZDJua1hfRGJkMXlBV0h2SDF5WERfZDYwSGhHajZPSXMxcTEzSElab3hoUFozMjNWam1jdzhOSHhPV3NsRnkzNkY5a2xfalByN0Z6SkNtekphTFR2MkhYQlZ5SFkzWUdQZjgxSHFGajdKVUlDQW1FNVZsemVJeW9Z?oc=5",
+      "pub_date": 1790594100.0,
+      "article_url": "https://www.fool.com/investing/2026/09/28/in-5-years-one-of-these-cryptocurrencies-could-be/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888116%2Fbitcoin-cryptocurrency-computer-display.jpg&w=1200&op=resize",
+      "description": "Although Bitcoin probably isn't going away, within five years it will be vulnerable to significant disruption."
+    },
+    {
+      "headline": "Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHc3ZkFkZVB3ZzBBTXNLYVBfblowUnVIa2kwa3dBaVkyLVpUalFTZFRiVXg5Z1JiOVJDV1RkOWlYQWx5Y1l1dGlnc2NiS0t2c3ZlWGFUX2RSZmdWUmxTZ1d6aHdvWXhNNTNtc0d2RHhad0kyWnhvZ2R2b3UzeE0zQmU3TEFPbXROM0VKQ3hmd2gxZw?oc=5",
+      "pub_date": 1790631786.0,
+      "article_url": "https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why Does the Price of Bitcoin Keep Going Up? The Answer Might Surprise You.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXFPX1RUOFV1b3dnb1Vobks1RXNfSkJ6Q2tPWUZ0MEJEclpTZTk0Q09fLUFhdDFtN2RUZkEzenpNei1oYWUyM0xOX25Xci04UHFwWGxaMTV3bHhKRml5ZTBTVzUzVnRmYTBjdEdyeVJ2Ylp6dEhmSUhFS3JIcmZfZHhQMGNuSm1oOE4zOFA0aWFjOE1nTkRn?oc=5",
+      "pub_date": 1790621820.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-does-price-bitcoin-keep-185700414.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/eda10d542b755f7ba540c783fe838ea3c51886c30fe8ece01db8cad78f04fe9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F5808308a78d998e9dd3d0f554f8d9c89.jpg",
+      "description": "It's easy to explain Bitcoin's upward ascent in terms of ETF inflows and interest rates. But that doesn't tell the full story."
+    },
+    {
+      "headline": "Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWpvSDVtc1BwQ3ZFV05fNGg5d1JnckFiOERIX3dWUzFJRFZpVnlhekFWOVJoa2ZSSU5pQWVta19fTDVpUlk4LU4yZVQ0Y2tkdmhxeGFzcVJPa284WEV6bzhkcDBPM0MxYzdnUnJIUHAyNTBTVWN5WXNPMlpNbHRPWEp5MkwydElpWmRDdHd4LXVJd1FCOTZsRjNhRHN5OVc1TDFaUkRBb09obXl3V1E?oc=5",
+      "pub_date": 1790628007.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand",
       "image": null,
       "description": null
     },
@@ -25,74 +65,14 @@
       "description": "Trump on Sunday didn\u2019t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon. Bitcoin and Nasdaq futures wilt."
     },
     {
-      "headline": "Bitcoin traders chase shorts as rising Treasury yields weigh over gold",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVo3emdmeGRTNUJ4b0NuXzcwaW44S1k2bVZTSEJMNTZLWnY3Y1llX3R3bXAyY0NxSE4tamJ1ZkwwYWxVQnFIS0xIel9ERHlnemJUdEx1ZFNWZ24tWjlmc0NENzBjV2RYbEFBSGI5LXo3cFpvUnZkaDlqNVhpZ3dRZmtQalVkb2FyLUFBQm85T1FzbEhLNTItTnB6bEx3bzRiNlBhMEhLQTFpckFoZ3ZHZTJWal9wVWttOGl0eDBBUk9PNWp6?oc=5",
-      "pub_date": 1790608116.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/babb8de4595496b1a7326290dc7d02a14313e72b-3200x1800.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Overall demand for leveraged exposure remains weak, marked by sliding futures open interest. The capital that's still in the market appears skewed toward bearish positions."
-    },
-    {
-      "headline": "Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEZWWXV2Wi1QbThINUpvMVZZTkRFa3A1QlpvWnpKclVaYl9sMmY0dXItUF8tc1dXZXlMQ1NpUTIzbTByQ3FIMmlDUExjZ3had3BzbW9waFBwVUVNTUpMdnZ2aENvdHBmaGJURHlCNGt6TWVGVE5na2N2RE9DZ243aW54d0ZCckJMa3FNTVJaSUc3dDVYRmNod0hsOHJLY2M?oc=5",
-      "pub_date": 1790590308.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-wobbles-macro-risks-101148578.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/20f854d87e04a45477a5dc446ac157ae56bb9dcbeba3db72cb7f9f818be885f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F922489ad32fdf4e9d440220d2e0dab70.jpg",
-      "description": "Bitcoin continued to lose momentum on Monday, cooling after a blistering rally in recent weeks, as a fresh bout of macro uncertainty weighed on risk assets."
-    },
-    {
-      "headline": "Strategy Buys $143 Million Of Bitcoin",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0d3ZlhoX3E1OUktU2x2WWN3U0wxU0hxTGdXSGdOOVV2NzdQSDBkRXlvMHYwX2kycURLOGViM1VTenFjaEpJNzhvbnlpTnc2UHhXSXBZc002eGRFTlBWRWc2N0NCX2lwdXZ5TS00d09yajN5MHFDWlhyV3hqS2JOdUVaOEYwX29vS3pOalVUck1VRVhYel9PZmFXX01GTmc?oc=5",
-      "pub_date": 1790602380.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-buys-143-million-bitcoin-133300967.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6818e78b6b7650fbcb4f60bda4b6ccbe422dabe7d8f06faf09b17bb5f9848e23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F315aa47d9c1a2f66812c18b1f4660f13.jpg",
-      "description": "Strategy (NASDAQ: $MSTR) continues to purchase Bitcoin (CRYPTO: $BTC), buying $143 million U.S. worth of the crypto..."
-    },
-    {
-      "headline": "Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHc3ZkFkZVB3ZzBBTXNLYVBfblowUnVIa2kwa3dBaVkyLVpUalFTZFRiVXg5Z1JiOVJDV1RkOWlYQWx5Y1l1dGlnc2NiS0t2c3ZlWGFUX2RSZmdWUmxTZ1d6aHdvWXhNNTNtc0d2RHhad0kyWnhvZ2R2b3UzeE0zQmU3TEFPbXROM0VKQ3hmd2gxZw?oc=5",
-      "pub_date": 1790631786.0,
-      "article_url": "https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Even more orange': Strategy buys 1,665 bitcoin for $143 million as total holdings reach 847,666 BTC",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUpKY092bHZhTHpKYVczZ0ptbDZQNlhUT210MlhhMk1Na1dscDdqUVNRaUU0VW5pWXduNDU5RUFDNlB3VXNDV0RjY29yNzJac3dDMUM5ZGxtZzlzeFdoTEoxaE9tQUhPYlpXVzlNUm9yUmxzb09LcXp5S2g3RFNUNDhTbXQ2MGRvblAxZWNNLWE3MlMyTUdSTW1Rbk5tenhXUkwtT2MxZw?oc=5",
-      "pub_date": 1790597471.0,
-      "article_url": "https://www.theblock.co/news/business/2026-09-28-even-more-orange-michael-saylor-strategy-bitcoin-416976",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/strategy-btc-buy-16x9-1.png",
-      "description": "Strategy has purchased another 1,665 BTC for approximately $142.7 million at an average price of $85,681 per bitcoin."
-    },
-    {
-      "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTThaX05vYVJyNDRWSzRabkd1Q01oQXdvZDJua1hfRGJkMXlBV0h2SDF5WERfZDYwSGhHajZPSXMxcTEzSElab3hoUFozMjNWam1jdzhOSHhPV3NsRnkzNkY5a2xfalByN0Z6SkNtekphTFR2MkhYQlZ5SFkzWUdQZjgxSHFGajdKVUlDQW1FNVZsemVJeW9Z?oc=5",
-      "pub_date": 1790594100.0,
-      "article_url": "https://www.fool.com/investing/2026/09/28/in-5-years-one-of-these-cryptocurrencies-could-be/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888116%2Fbitcoin-cryptocurrency-computer-display.jpg&w=1200&op=resize",
-      "description": "Although Bitcoin probably isn't going away, within five years it will be vulnerable to significant disruption."
-    },
-    {
-      "headline": "Bitcoin: The Beginning Of The Next Bull Market (Cryptocurrency:BTC-USD)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVl3T1lxWlA0dEl5TUN3aWw3eU9DMEhtRldtaVZQTHpVOGd6aE5aOHVzdTRQYzhCUXpOZEF1STlVOG1HZFl3cGxVVU1mWmx4Rng0SE5pc2MxYVJuZUVmZ1NWSGs4eEtGOUlEeVpGTmNCQXBYRWtQNjM2NF81MGdJbXQ1Z1hrdEtNV3JvYUpkdw?oc=5",
-      "pub_date": 1790614088.0,
-      "article_url": "https://seekingalpha.com/article/4950318-bitcoin-the-beginning-of-the-next-bull-market",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241710794/image_2241710794.jpg?io=getty-c-w1536",
-      "description": "Bitcoin may be in a new bull market: $83K weekly close, MVRV crossover & key risks. Read the full analysis here."
+      "headline": "Grant Cardone: Real Estate \"Armageddon\" Is Here \u2013 Why BITCOIN Is The Hedge",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOW9ocEZqSG84MkNkak4wMmlWLWFYczM1eUlJZnlxd3JsSmg2bExrdGlSZ3FOS1JsVk0tQlpFeFFIRGhaeE9ONm40NDN6elppMzloUjJEQ2xBYWs4QlF6Snl4VFZCMF9NX1NnTmFhRzI5MzdFR3BYOUtoblJVaEp2QUN4aFVsWkRJcVJxbXJGSUcwbC1vc2laY19mUk5LUWprdFJJMw?oc=5",
+      "pub_date": 1790436206.0,
+      "article_url": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Grant-Cardone-Real-Estate-22Armageddon22-Is-Here-\u2013-Why-BITCOIN-is-the-Hedge-.jpg",
+      "description": "Grant Cardone explains how a massive shift in commercial real estate created the perfect opportunity to aggressively accumulate and store wealth in Bitcoin."
     },
     {
       "headline": "Polymarket launches 15-minute Bitcoin price markets on US app",
@@ -103,8 +83,28 @@
       "article_url": "https://www.tradingview.com/news/cryptobriefing:ac19b6d05094b:0-polymarket-launches-15-minute-bitcoin-price-markets-on-us-app/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Polymarket launched its \"Bitcoin Up or Down\" markets on its US app on September 22, 2026, at 12:00 PM ET. The product lets users wager on whether Bitcoin's price will finish above or below a reference price at the close of each 15-minute window. Markets run continuously, 24 hours a day, seven days\u2026"
+    },
+    {
+      "headline": "Why Is XRP Still Down 17% for 2026 When Bitcoin and Solana Are Almost Even?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVTJ3Q25EQjA5RUx0R01NQUV2Ukk1d2hDYm9HQkwxZU5lVmVld2lyeHkwWnRUTzlYeE1McWg3MDh1MXJrU3hRenR1eFdZUVRyaUZYS3oyekZocU44REhxVVJoanRDTzc0NXVkMXU2ZEQ2QzVKdm0wRXEzaHkyMzRHSjIwQzBGU0hOVU55RVZOYkFxaVBwQTNudVRSaHhKRXlCMjBsTWY2RzRtSmNWSk9lQWtzcjY5WE5rX2hDQ0VibFBPVkozMnNYWHNmWS0?oc=5",
+      "pub_date": 1790581260.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/28/why-is-xrp-still-down-17-for-2026-when-bitcoin-and-solana-are-almost-even/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1146106721-huge-licensed-scaled.jpg",
+      "description": "Bitcoin and Solana have nearly clawed back everything they lost in 2026, yet XRP keeps getting left behind despite outpacing both coins during the recent rally. The reason comes down to a mathematical trap that punishes coins with steeper drops far more than most traders realize."
+    },
+    {
+      "headline": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVg5MUZTSE1JSFBIR0hkYi1IcUJUWTA5SFVQcVB0SFNiVHNIMEFLNENfQUp5aTY5Rk1OWS1pOWRjR0dLYm5pMGxzTHVMMHoydXhURkRfdjVRSlVkam81RUxyYVlfLWFwMFpNdzNPTDRkUzIzREpRMG5jSEh4eWFGTU9LSEhoa0J3bDd4UXJFS1RUOFNlQWdtUlU4aktuN3FSRDJXSnRxOTBiX0JZanRwcFNfM1BCT3NxZGt5SHFnU1Y1RlpCSVFYUDR4SEplaXI0TDdVdG8zUUhzamNMcllvd25LSQ?oc=5",
+      "pub_date": 1790443452.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
+      "description": "U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-28T22:25:54.084563+00:00"
+  "fetched_at": "2026-09-29T02:11:16.401658+00:00"
 }
