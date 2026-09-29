@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-29T02:11:42.414583+00:00'
+updated: '2026-09-29T08:53:36.157166+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 29, 2026 at 02:11 UTC  
+**Last Updated:** September 29, 2026 at 08:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,934.11
+### $83,853.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -1.7%  
-**30d:** +5.6%  
-**90d:** +34.7%  
-**1y:** -27.3%  
+**24h:** +1.5%  
+**7d:** -0.7%  
+**30d:** +6.7%  
+**90d:** +36.1%  
+**1y:** -26.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1667.79B
+**Market Cap:** $1684.13B
 Rank #1
 
-**Circulating Supply:** 20,090,790 BTC
+**Circulating Supply:** 20,090,896 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.2%
+-33.5%
 
 **All-Time Low:** $67.81
-+122309.7%
++123517.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The embodiment of minding your own business and doing your part to heal the world utilizing the skills you have. GFY. Stack sats. Get your security right. Hodl. All the best!
 
-5h ago
+12h ago
 
 ---
 
 **[If the bitcoin bear market is over, it would be the shortest and shallowest on record since 2013.](https://www.reddit.com/r/Bitcoin/comments/1wsfk3m/if_the_bitcoin_bear_market_is_over_it_would_be/)**
 
-12h ago
+18h ago
 
 ---
 
@@ -99,13 +99,13 @@ The embodiment of minding your own business and doing your part to heal the worl
 
 **[40K guy be like: wait 40K october](https://www.reddit.com/r/Bitcoin/comments/1wswxfz/40k_guy_be_like_wait_40k_october/)**
 
-43m ago
+7h ago
 
 ---
 
 **[Had a blast at the Midwest Summit, but meeting Bitcoiners IRL is weird.](https://www.reddit.com/r/Bitcoin/comments/1wsu04s/had_a_blast_at_the_midwest_summit_but_meeting/)**
 
-2h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ The embodiment of minding your own business and doing your part to heal the worl
 
 Cory explains the "six great games of Bitcoin" aka miners, pools, block space, rules, adoption, and nation-states. Incentives => Outcomes Reminds me of Trace Mayer's 7 network effects that occur in the Bitcoin ecosystem: - Speculation - Merchant Adoption - Consumer Adoption - Security - Developer Mindshare - Financialization - Adoption as a World Reserve Currency
 
-9h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Cory explains the "six great games of Bitcoin" aka miners, pools, block space, r
 
 EMM secures the recovery of $1.725m Bitcoin involving ethical hackers, blockchain tracing and cryptographic proof.
 
-🔗 [Edmonds Marshall McMahon](https://www.emmlegal.com/news/emm-secures-1-725-million-bitcoin-recovery/) • 9h ago
+🔗 [Edmonds Marshall McMahon](https://www.emmlegal.com/news/emm-secures-1-725-million-bitcoin-recovery/) • 16h ago
 
 ---
 
@@ -129,7 +129,7 @@ EMM secures the recovery of $1.725m Bitcoin involving ethical hackers, blockchai
 
 we reached a peak of 41 ounces of gold per bitcoin at the height of the previous bull market, a repeat would mean $170,000 BTC
 
-13h ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ we reached a peak of 41 ounces of gold per bitcoin at the height of the previous
 
 Bullish sentiment. Energy building. ARE YOU READY
 
-13h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bullish sentiment. Energy building. ARE YOU READY
 
 Sasquatch music festival 2009. One guy starts dancing alone.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GA8z7f7a2Pk) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GA8z7f7a2Pk) • 15h ago
 
 ---
 
@@ -155,7 +155,7 @@ Sasquatch music festival 2009. One guy starts dancing alone.
 
 **[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
 
-MarketWatch • 3h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -163,67 +163,65 @@ MarketWatch • 3h ago
 
 Although Bitcoin probably isn't going away, within five years it will be vulnerable to significant disruption.
 
-The Motley Fool • 14h ago
+fool.com • 21h ago
+
+---
+
+**[Binance Research Found One Number That Separates Strong Bitcoin Rallies From Weak Ones](https://finance.yahoo.com/markets/crypto/articles/binance-research-found-one-number-065137585.html)**
+
+Bitcoin's golden cross follows 293 days below the 200-day MA, a setup Binance links to past peaks of 100% to 600%.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)](https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys)**
 
-Seeking Alpha • 4h ago
-
----
-
-**[Why Does the Price of Bitcoin Keep Going Up? The Answer Might Surprise You.](https://finance.yahoo.com/markets/crypto/articles/why-does-price-bitcoin-keep-185700414.html)**
-
-It's easy to explain Bitcoin's upward ascent in terms of ETF inflows and interest rates. But that doesn't tell the full story.
-
-Yahoo Finance • 7h ago
+Seeking Alpha • 11h ago
 
 ---
 
 **[Bitcoin Rally Wobbles as Macro Risks Overshadow ETF Demand](https://www.bloomberg.com/news/articles/2026-09-28/bitcoin-rally-wobbles-as-macro-risks-overshadow-etf-demand)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes](https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes)**
+**[UK Chancellor of the Exchequer Blasts Nigel Farage’s ‘Bitcoin Account’](https://bitcoinmagazine.com/news/uk-finance-ministe-nigel-farage-bitcoin)**
 
-Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon. Bitcoin and Nasdaq futures wilt.
+The UK’s finance minister has criticized the pro-Bitcoin leader of Reform UK, Nigel Farage.
 
-CoinDesk • 22h ago
-
----
-
-**[Grant Cardone: Real Estate "Armageddon" Is Here – Why BITCOIN Is The Hedge](https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge)**
-
-Grant Cardone explains how a massive shift in commercial real estate created the perfect opportunity to aggressively accumulate and store wealth in Bitcoin.
-
-Bitcoin Magazine • 2d ago
+Bitcoin Magazine • 12h ago
 
 ---
 
-**[Polymarket launches 15-minute Bitcoin price markets on US app](https://www.tradingview.com/news/cryptobriefing:ac19b6d05094b:0-polymarket-launches-15-minute-bitcoin-price-markets-on-us-app/)**
+**[Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase](https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035)**
 
-Polymarket launched its "Bitcoin Up or Down" markets on its US app on September 22, 2026, at 12:00 PM ET. The product lets users wager on whether Bitcoin's price will finish above or below a reference price at the close of each 15-minute window. Markets run continuously, 24 hours a day, seven days…
+SATA supplied 85% of the week’s capital as Strive moved closer to MARA and continued pursuing its year-end second-place goal.
 
-TradingView • 9h ago
-
----
-
-**[Why Is XRP Still Down 17% for 2026 When Bitcoin and Solana Are Almost Even?](https://247wallst.com/investing/cryptocurrency/2026/09/28/why-is-xrp-still-down-17-for-2026-when-bitcoin-and-solana-are-almost-even/)**
-
-Bitcoin and Solana have nearly clawed back everything they lost in 2026, yet XRP keeps getting left behind despite outpacing both coins during the recent rally. The reason comes down to a mathematical trap that punishes coins with steeper drops far more than most traders realize.
-
-24/7 Wall St. • 18h ago
+The Block • 16h ago
 
 ---
 
-**[Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October](https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944)**
+**[Bitcoin Holders Are Selling, But This Time It’s Different: What You Need to Know](https://247wallst.com/investing/cryptocurrency/2026/09/27/bitcoin-holders-are-selling-but-this-time-its-different-what-you-need-to-know/)**
 
-U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows.
+247wallst.com • 1d ago
 
-The Block • 2d ago
+---
+
+**[Current price of Bitcoin for Sept. 28, 2026](https://fortune.com/article/price-of-bitcoin-09-28-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 16h ago
+
+---
+
+**[Hunter Biden Predicts Bitcoin Will Hit $220,000 by 2028, Calls Elizabeth Warren's Crypto Criticism 'So Wrong'](https://www.benzinga.com/crypto/cryptocurrency/26/09/62038273/hunter-biden-bitcoin-220000-2028-elizabeth-warren-crypto-criticism)**
+
+Hunter Biden expressed strong optimism about Bitcoin and pushed back against critics of the cryptocurrency sector on Monday, September 28.
+
+Benzinga • 5h ago
 
 ---
 
@@ -241,7 +239,7 @@ The Block • 2d ago
 
 A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
 
-⬆️ 2 • 💬 0 • 5h ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 2 • 💬 1 • 11h ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
 
 ---
 
@@ -271,7 +269,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 An expressive Unix-pipeable CLI for System One models like Jev - frodi-karlsson/onesie
 
-⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/frodi-karlsson/onesie)
+⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/frodi-karlsson/onesie)
 
 ---
 
@@ -279,53 +277,13 @@ An expressive Unix-pipeable CLI for System One models like Jev - frodi-karlsson/
 
 ## YouTube Videos: "bitcoin"
 
-**[Strategy bought Bitcoin again. It spent more on its own stock.](https://www.youtube.com/watch?v=1TCdjmf0d84)**
+**[&quot;Start Preparing Yourself&quot; - Michael Saylor](https://www.youtube.com/watch?v=JbJ4QSHjz6Y)**
 
-Strategy bought Bitcoin again. It spent more on its own stock. Strategy sold 1.47 million shares last week to raise $246.2 million, ...
+Big Things Are Happening in Cryptocurrency in October WEEX AI Wars ($600K prize pool): ...
 
-📺 Yahoo Finance
+📺 Altcoin Daily
 
-👁️ 24K • 👍 365 • 💬 192 • ⏱️ 14:59 • 9h ago
-
----
-
-**[Is Bitcoin About To REPEAT History?](https://www.youtube.com/watch?v=Q-Vz5VHCo0o)**
-
-FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
-
-📺 Crypto Tips
-
-👁️ 11K • 👍 521 • 💬 16 • ⏱️ 11:50 • 10h ago
-
----
-
-**[Bitcoin Falls To $82K After ETFs Just Bought $2.4 BILLION](https://www.youtube.com/watch?v=8eLihCFdP7M)**
-
-Bitcoin #Crypto #finance Bitcoin falls back toward $83K despite a massive $2.4B week for ETF inflows, as oil spikes above $100 ...
-
-📺 The Wolf Of All Streets
-
-👁️ 29K • 👍 816 • 💬 371 • ⏱️ 1:02:31 • 11h ago
-
----
-
-**[Why The Fed Wants Bitcoin To Explode](https://www.youtube.com/watch?v=lCTZmQqLbqY)**
-
-Register for my investing Workshop & get Market Briefs as a bonus: ...
-
-📺 Minority Mindset
-
-👁️ 59K • 👍 1K • 💬 311 • ⏱️ 26:37 • 14h ago
-
----
-
-**[Bitcoin Holds Slightly Above the May High](https://www.youtube.com/watch?v=2C70_Ms3V9A)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 167K • 👍 6K • 💬 322 • ⏱️ 17:07 • 20h ago
+👁️ 57K • 👍 2K • 💬 87 • ⏱️ 10:39 • 13h ago
 
 ---
 
@@ -335,47 +293,87 @@ Bitcoin is falling, and the only question that matters is where the floor is. Tr
 
 📺 Verified Investing
 
-👁️ 11K • 👍 487 • 💬 55 • ⏱️ 20:46 • 8h ago
+👁️ 12K • 👍 542 • 💬 37 • ⏱️ 20:46 • 14h ago
 
 ---
 
-**[Crypto &quot;Bull Market Confirmed&quot; Bitcoin XRP &amp; Ethereum Are Aiming To Go MUCH Higher In Price](https://www.youtube.com/watch?v=nRN4fPRLq1I)**
+**[Crypto Just Got The Signal It Hasn&#39;t Had Since 2020! (Altcoins Still Early)](https://www.youtube.com/watch?v=K_cIJSXPc5I)**
 
-Just a few days away everyone. Literally at this point every single analyst within the cryptocurrency market has said the exact ...
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
 
-📺 Money Rules - Investing Tips 
+📺 Crypto Capital Venture
 
-👁️ 25K • 👍 1K • 💬 361 • ⏱️ 12:51 • 15h ago
-
----
-
-**[Bitcoin Faces a Sudden Oil Shock..](https://www.youtube.com/watch?v=o2y_qLzulp0)**
-
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 768 • 💬 51 • ⏱️ 42:13 • 11h ago
+👁️ 16K • 👍 656 • 💬 168 • ⏱️ 12:33 • 9h ago
 
 ---
 
-**[Insane Bitcoin Bull Cycle XRP 700% Price Jump This Market Cycle Is Going To Change Lives](https://www.youtube.com/watch?v=6ip_Q_OzDjw)**
+**[Bitcoin Live Trading: Is BTC Losing Momentum?! Altcoins About to Make Their Move? EP2138](https://www.youtube.com/watch?v=y-_44n1r6Tk)**
 
-Get ready everyone, this one is going to be a photo finish. The crypto bull cycle has only just (unofficially) begun and already ...
+WEEX EVENT: https://www.weex.com/events/trading-challenge/trade-to-win-apple?vipCode=8six&qrType=activity WEEX: ...
 
-📺 The Modern Investor
+📺 Crypto Lifer
 
-👁️ 10K • 👍 709 • 💬 336 • ⏱️ 32:12 • 17h ago
+👁️ 11K • 👍 466 • 💬 13 • ⏱️ 2:07:00 • 15h ago
 
 ---
 
-**[This Crypto Market Is Worrying Me Right Now](https://www.youtube.com/watch?v=iERJgx9wgQ8)**
+**[Bitcoin Holds Slightly Above the May High](https://www.youtube.com/watch?v=2C70_Ms3V9A)**
 
-Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Where I Trade: https://aaronbtc.com/low ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Aaron Bennett
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 463 • 💬 114 • ⏱️ 10:16 • 18h ago
+👁️ 179K • 👍 6K • 💬 332 • ⏱️ 17:07 • 1d ago
+
+---
+
+**[THIS BITCOIN MOVE IS ABOUT TO HAPPEN…](https://www.youtube.com/watch?v=xXAiyHG9Sm0)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 4K • 👍 448 • 💬 16 • ⏱️ 10:06 • 2h ago
+
+---
+
+**[Strategy bought Bitcoin again. It spent more on its own stock.](https://www.youtube.com/watch?v=1TCdjmf0d84)**
+
+Strategy bought Bitcoin again. It spent more on its own stock. Strategy sold 1.47 million shares last week to raise $246.2 million, ...
+
+📺 Yahoo Finance
+
+👁️ 30K • 👍 409 • 💬 235 • ⏱️ 14:59 • 15h ago
+
+---
+
+**[Why The Fed Wants Bitcoin To Explode](https://www.youtube.com/watch?v=lCTZmQqLbqY)**
+
+Register for my investing Workshop & get Market Briefs as a bonus: ...
+
+📺 Minority Mindset
+
+👁️ 66K • 👍 1K • 💬 312 • ⏱️ 26:37 • 21h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=66v2ePtGjQo)**
+
+BITCOIN & CRYPTO: TRADING SIGNAL FLASHING NOW (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 353 • 💬 27 • ⏱️ 23:15 • 7h ago
+
+---
+
+**[Is Bitcoin About To REPEAT History?](https://www.youtube.com/watch?v=Q-Vz5VHCo0o)**
+
+FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
+
+📺 Crypto Tips
+
+👁️ 15K • 👍 596 • 💬 24 • ⏱️ 11:50 • 16h ago
 
 ---
 
