@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlh2cHpGd1lZSFk0RkdhdTlRQ0xWREFSWllhSGZxczZ2M2tkemo1LTFGN2RXX0p6UWpXZkFRbkxZcS1ROFNDR2NWU1AzSWpMczZmbjRVSVlFSTJ3RFFtcERoR1kxRkJ6eUM1UFNrLTZmWER0NTJoVy1sNVhyakhYOVBTWGJ4RC1YdGIzZEVybGYzS3pDcHE2Q2pJd2JHZGIxd2NEMjJFYw?oc=5",
+      "pub_date": 1790784000.0,
+      "article_url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
+      "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    },
+    {
       "headline": "Would you pay for this robot to clean your house?",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -25,16 +35,6 @@
       "description": "The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations."
     },
     {
-      "headline": "NASA wants to send humanoid robots to the moon",
-      "source": "Popular Science",
-      "source_url": "https://www.popsci.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ENm1zbXI1ZGlMVWdmWEZiQTJwM2piT0NuWjJoYkpDZlVIOFdfNGJSUEFsT1h2ZEJIU2gwSUJDOTNlMHdxcjJVUGVWNHhabEF1cktFV1FucHQ5blhjTThtSGh3dDJBVWhP?oc=5",
-      "pub_date": 1790784060.0,
-      "article_url": "https://www.popsci.com/science/nasa-humanoid-robots-moon/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/09/NASA-Biped-Robot.png?quality=85&w=1200",
-      "description": "Don't worry. Actual astronauts aren't out of a job."
-    },
-    {
       "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -45,66 +45,66 @@
       "description": null
     },
     {
-      "headline": "Five million robots now work in factories as humanoid hype is tested",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1NVLXRiWnBTX09tcmgwVVc4VDZRd3h6bm0zazEwNk13SUF1bEtLVzNYVEs1SzV2UjBMLTlDQjF4amd6akNMT0pzeG5wdFREOS1renRsS1QtS1FoZlZJREpDRXZidFBmbjhYNlhLWHZ1eXRBd200R0pXU200X2REaUZwWVUwVHZyeGxZY3ZTWXNnd0E5dEdxWTFTVE5DWWtiTS1oLWRyRVFoRVM0UllvSkkwV0E?oc=5",
-      "pub_date": 1790657217.0,
-      "article_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
-      "image": "https://images.euronews.com/articles/stories/09/92/64/18/1200x675_cmsv2_a8bd4c1a-4d9c-54ff-9e05-fc14d79ca5bb-9926418.jpg",
-      "description": "Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines."
+      "headline": "Can we predict the jobs robots will do?",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "pub_date": 1790784060.0,
+      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
     },
     {
-      "headline": "Hundreds of robots are roaming this Chinese theme park. It's only the beginning of our humanoid future",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUhHSWEzc0hnNk9Ic2ZUeF9WMDV3a2ZMLVVJUDNTaEh2YzBIUmRzZFpsTnA4RzZ0MEMtUG93WHRUcmdId2RPR2NqYnFUV3o1bmoyMkY3Wk9wcHFXUnQtajBpWmgxZEdoY0c0QzRVTW9aaldWRjE2NXRPZlZ4VUtIUmdfUQ?oc=5",
-      "pub_date": 1790676157.0,
-      "article_url": "https://www.fastcompany.com/91613399/agibot-robot-china-theme-park-attraction",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/3-91613399-agibot-robots-in-parks.jpg",
-      "description": "At Chimelong Spaceship Park in Zhuhai, more than 300 AgiBot robots play table tennis, perform martial arts, give directions, and greet hotel guests."
+      "headline": "Estonia blames Russia in arson attack on military robotics firm Milrem",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOW04b3VBRmlkdTBLZUNpUXNJUktBV0RVUVdvdUVCZkdJZmpka05qRHRxeFhIV3JvTDFfT3JPOUg0X0hVd29QX1hzN01MWXNiNWN2OXFkSTRCa1JHQ1RtTVNnUjFFcm5vSHl3RTBaeTVpVUNwWVZZdWtQZ3RxNGM5blpsUjhaX0V5aGRITXZxa0YxY1piVUxzRHpyWWN1M09XdlZfbnNPUjd6SFpodmtmNFRFU1RZbnJhSS1zc0hiOGYzdw?oc=5",
+      "pub_date": 1790693560.0,
+      "article_url": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/YDOXTUX33VA7XJRF5NC6MTTFHY.jpg?width=1200&auth=40d27de9e7861dad775bdaf458b7450d434e9cf71cde110b368daa6f93fe72d0",
+      "description": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said."
     },
     {
-      "headline": "Soccer-playing humanoid robots score a major robotics goal for coordination",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1dhX0JxTXU4NmI3ajE3S3hSMG54M0d2ek4yN1o0TGdILTBNVmtTQnR2VmxlM28zUVM4aFo2VVpHdVYyM0stb1VfWkhwX09YdEFDejc4ZlVMa2pOQV96QlRueEYzZ3o4dThsZF9teURvWXRKTlpUalhENUQ3MHN2TExZRQ?oc=5",
-      "pub_date": 1790775002.0,
-      "article_url": "https://techxplore.com/news/2026-09-soccer-playing-humanoid-robots-score.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Reliable Robots: Meet Johnson\u2019s Dexterous Robotics Team",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVFXTVdSdktmMU13T1djZVRmSTZDdTdadGMzVnQ2ZDM4VUhKNHZFa1B4LW5pTnZVdlA4VWFtTWFBSUZ1UU5TZkJTZGxkTEhFdm9qVlRmal92am5sczNGUDhmYTJFRnFjdUtMa1NucDVVbWUyREF2SVlBeVpOYnZFdE0zT2F0aVphemJWMzVMQWlUeTZzMExpN0VsVlNVTDZCVUlQX29NT2hUUQ?oc=5",
-      "pub_date": 1790589600.0,
-      "article_url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/sa-and-valkyrie.png",
-      "description": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions"
-    },
-    {
-      "headline": "Elon Musk Wants To Build 20,000 Optimus Robots A Week. There's Just One Problem, Tesla Still Can't Get The Hands To Work",
-      "source": "247wallst.com",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSXBNV2NQdDczVGk1R29xN2ZyQ2k5WTRTWHlFc2lEWHYwUWJWLTJ4RkhrX24wbVRCQi1UcEM5ZklyZVhTMl80U2d3Nk16WXpUVGFVXzdyU3c1RkV5SlRiWTVTZkxwaUtaYkd6YWFtM2psMWdZR3R4a0dWZzE0STdHMU1UR0pVaXQ5Y0V0WWhJSzNKNHZFYnZONzNNRng4NW5nR1p5Zm5OemhkZmNkMjRFNkhxYmxvcm8xa214a3Q3SUV1bkZ5WVRFUV9xVk9lM1hhQ2RId0xVOXNya0QtSjdGT2VhVWhvaW1XWDlmTkU2VWg?oc=5",
-      "pub_date": 1790695200.0,
-      "article_url": "https://247wallst.com/investing/2026/09/29/elon-musk-wants-to-build-20000-optimus-robots-a-week-theres-just-one-problem-tesla-still-cant-get-the-hands-to-work/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2691337679.jpg",
-      "description": "Tesla is racing toward a production goal that sounds like science fiction, but a single component smaller than your palm is quietly derailing the entire timeline. The gap between Elon Musk's ambitions and what the factory floor can actually deliver has never been wider."
-    },
-    {
-      "headline": "Robotics startups are courting university researchers. Microagi just hired eight.",
+      "headline": "Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXVRcnI3QUxWM3VDaFZwZWdLY2dwOUNXdDFLNjlFVHY2S1ctQ2VXcFBiOFRKNmpqVUg5ZjcwU2RqT3NFRHpIY3hSLTVBS014eHZ0bm5LQUNfcDQ5UUQyTU40WXZGX2xVcXc5WjJNaFJ3aDFCaE1oaDNBV2duZmJZTDFvRXM3VUNNQUEweWJxNEFRSU5XNFVrLWNuUV93cEhfdGZVZmt3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5",
       "pub_date": 1790672400.0,
-      "article_url": "https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9",
-      "image": "https://i.insider.com/6abaee20265e3f8e338f811c?width=701&format=jpeg",
-      "description": "Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group."
+      "article_url": "https://www.businessinsider.com/nvidia-alumni-fueling-new-wave-robotics-ai-startups-2026-9",
+      "image": "https://i.insider.com/6ab69bb1265e3f8e338f721c?width=1200&format=jpeg",
+      "description": "Nvidia robotics alums are launching AI startups as venture capital fuels a boom. The chip giant stands to benefit from their success."
+    },
+    {
+      "headline": "Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVF1Vkg2bkgyOWsweXlDcHhvLXotR09vYXJ1bTI1Yjdja0hKeU9QQmlWalJGWDFwbE1kb2FkaUVtTW1zSWNVS2tvZlBtQzdXT002bjh2YUlBSHZ4UEFlM0JkbVo1TnJRWDdhVG5FbmVvTHhSZUNLOGVkY0p0eGFZT2ZlemdzX0ZMaUZBVHJ5VTJiMUs5ak82OUV1ZG5rTmtrNUJaRS14RzFPaVRmVVN5Wk1VUDI?oc=5",
+      "pub_date": 1790604060.0,
+      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla",
+      "image": "https://tii.imgix.net/production/articles/17899/07f21118-0b98-4937-9ad7-49350c6463fc-IA8v84.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a \u201cChatGPT moment\u201d in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.\u201cI would say more ..."
+    },
+    {
+      "headline": "A new robot is targeted to roll off a U.S. production line in Q1 2027",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHVkRnROZTFjNHdFRTFxY1V6TUZhYVB1VkpsX01pdHctVUF4ekNZbjRxb2xfS3RxY1dDVUtCZ0NsU2F4ZmZ6YU1JWkxGVGg2NUFnWUpsRDB3Nzc1MHN4WVZ3QUVnalBVUU50UUtya1JLNFd3YnJxNU1qU3dEV191MG1KOHQ1T042N2I5b1diQXpvcWVOTGIzRWVsVzUwMkpIbW9CTUFObkE2ZE1mNE1tQVlsTWxEQQ?oc=5",
+      "pub_date": 1790732317.0,
+      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-unveils-more-execution-plans-for-built-in-usa-nn5if9u837x2.html",
+      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Unveils_More_Execution_Plans_for_Built_In_USA_Acceleration_Program_and_Initiates_th_1510279.webp",
+      "description": "FF\u2019s robotics business shipped 552 units by August; Q2 2026 cumulative revenue was about $1.52M. The proposed deal remains subject to due diligence and approvals."
+    },
+    {
+      "headline": "Human In Motion Robotics\u2019 XoMotion Exoskeleton",
+      "source": "Adafruit",
+      "source_url": "https://blog.adafruit.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2s5ZzdIeFQ0bXBSdFFrZVJRckVmdTM3VDNWWkpWUERxYVc2Z0F1eUF1Rl9mRTU4c2oxeU9wYlBSMlFMeW9EekN5cl9rUVNBLXNXbHdyakdFNzBtd0ctQkIzRHNuSE5jZUVRMlhKWFVPaTRPeGxhQXpkTzBTd3ZIWG8xZnhXTzJDdmVTb2ZmZnFhdXNlSDFmQUhfdkQ4OEVxM1VV?oc=5",
+      "pub_date": 1790797744.0,
+      "article_url": "https://blog.adafruit.com/2026/09/30/human-in-motion-robotics-intelligent-innovation-in-human-motion/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-30T16:41:35.229547+00:00"
+  "fetched_at": "2026-09-30T21:15:23.514937+00:00"
 }

@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7241,
+      "stars": 7249,
       "stars_display": "7.2k",
-      "forks": 2196,
+      "forks": 2201,
       "forks_display": "2.2k",
       "language": "TypeScript",
       "topics": [],
@@ -24,13 +24,13 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 5144,
-      "stars_display": "5.1k",
-      "forks": 254,
-      "forks_display": "254",
+      "stars": 5184,
+      "stars_display": "5.2k",
+      "forks": 264,
+      "forks_display": "264",
       "language": "Swift",
       "topics": [],
-      "updated_at": "2026-09-30T08:03:32Z"
+      "updated_at": "2026-09-30T18:03:53Z"
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
@@ -40,7 +40,7 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 4864,
+      "stars": 4865,
       "stars_display": "4.9k",
       "forks": 308,
       "forks_display": "308",
@@ -56,10 +56,10 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 4002,
+      "stars": 4046,
       "stars_display": "4.0k",
-      "forks": 1137,
-      "forks_display": "1.1k",
+      "forks": 1156,
+      "forks_display": "1.2k",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -94,7 +94,7 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "url": "https://github.com/shadcn-ui/lint",
       "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2962,
+      "stars": 2971,
       "stars_display": "3.0k",
       "forks": 56,
       "forks_display": "56",
@@ -116,10 +116,10 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2701,
+      "stars": 2708,
       "stars_display": "2.7k",
-      "forks": 508,
-      "forks_display": "508",
+      "forks": 509,
+      "forks_display": "509",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-17T02:48:22Z"
@@ -132,7 +132,7 @@
       "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
       "url": "https://github.com/yibie/awesome-jev",
       "preview_image": "https://opengraph.githubassets.com/a43c1377e0572afde6496312274b4b4c589a114d0664c492979061837aa54686/yibie/awesome-jev",
-      "stars": 2019,
+      "stars": 2025,
       "stars_display": "2.0k",
       "forks": 302,
       "forks_display": "302",
@@ -143,7 +143,29 @@
         "jev",
         "llm"
       ],
-      "updated_at": "2026-09-30T07:32:23Z"
+      "updated_at": "2026-09-30T19:19:59Z"
+    },
+    {
+      "full_name": "feder-cr/dots",
+      "name": "dots",
+      "owner": "feder-cr",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "preview_image": "https://opengraph.githubassets.com/746b308199cdd66eeea2e84890b1c3b6ee55b5e0c55a262bba224baad364e37f/feder-cr/dots",
+      "stars": 1930,
+      "stars_display": "1.9k",
+      "forks": 320,
+      "forks_display": "320",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-browser",
+        "anti-detect-browser",
+        "browser-agent"
+      ],
+      "updated_at": "2026-09-29T23:24:01Z"
     },
     {
       "full_name": "tigerless-labs/agent-memory",
@@ -153,7 +175,7 @@
       "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
       "url": "https://github.com/tigerless-labs/agent-memory",
       "preview_image": "https://opengraph.githubassets.com/e2e77686d0105c1ea1c15b34062a55c2637b58296f0d97d4e2f1b7101c446ef2/tigerless-labs/agent-memory",
-      "stars": 1889,
+      "stars": 1896,
       "stars_display": "1.9k",
       "forks": 121,
       "forks_display": "121",
@@ -166,34 +188,12 @@
         "llm"
       ],
       "updated_at": "2026-09-30T16:36:36Z"
-    },
-    {
-      "full_name": "feder-cr/dots",
-      "name": "dots",
-      "owner": "feder-cr",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "url": "https://github.com/feder-cr/dots",
-      "preview_image": "https://opengraph.githubassets.com/746b308199cdd66eeea2e84890b1c3b6ee55b5e0c55a262bba224baad364e37f/feder-cr/dots",
-      "stars": 1775,
-      "stars_display": "1.8k",
-      "forks": 278,
-      "forks_display": "278",
-      "language": "Python",
-      "topics": [
-        "ai-agent",
-        "ai-agents",
-        "ai-browser",
-        "anti-detect-browser",
-        "browser-agent"
-      ],
-      "updated_at": "2026-09-29T23:24:01Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-08-31",
   "days": 30,
   "limit": 10,
-  "total_count": 483881,
-  "fetched_at": "2026-09-30T16:41:10.359385+00:00"
+  "total_count": 487240,
+  "fetched_at": "2026-09-30T21:14:53.941316+00:00"
 }
