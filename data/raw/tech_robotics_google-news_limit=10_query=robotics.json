@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics startups are courting university researchers. Microagi just hired eight.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXVRcnI3QUxWM3VDaFZwZWdLY2dwOUNXdDFLNjlFVHY2S1ctQ2VXcFBiOFRKNmpqVUg5ZjcwU2RqT3NFRHpIY3hSLTVBS014eHZ0bm5LQUNfcDQ5UUQyTU40WXZGX2xVcXc5WjJNaFJ3aDFCaE1oaDNBV2duZmJZTDFvRXM3VUNNQUEweWJxNEFRSU5XNFVrLWNuUV93cEhfdGZVZmt3?oc=5",
-      "pub_date": 1790672400.0,
-      "article_url": "https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9",
-      "image": "https://i.insider.com/6abaee20265e3f8e338f811c?width=701&format=jpeg",
-      "description": "Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group."
-    },
-    {
-      "headline": "Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVF1Vkg2bkgyOWsweXlDcHhvLXotR09vYXJ1bTI1Yjdja0hKeU9QQmlWalJGWDFwbE1kb2FkaUVtTW1zSWNVS2tvZlBtQzdXT002bjh2YUlBSHZ4UEFlM0JkbVo1TnJRWDdhVG5FbmVvTHhSZUNLOGVkY0p0eGFZT2ZlemdzX0ZMaUZBVHJ5VTJiMUs5ak82OUV1ZG5rTmtrNUJaRS14RzFPaVRmVVN5Wk1VUDI?oc=5",
-      "pub_date": 1790604060.0,
-      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla",
-      "image": "https://tii.imgix.net/production/articles/17899/07f21118-0b98-4937-9ad7-49350c6463fc-IA8v84.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a \u201cChatGPT moment\u201d in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.\u201cI would say more ..."
-    },
-    {
       "headline": "Would you pay for this robot to clean your house?",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -33,6 +13,16 @@
       "article_url": "https://www.bbc.com/news/videos/c6lyq52wx7dko",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b3ab/live/170a31c0-bc47-11f1-a76b-c53c7866f2b5.png",
       "description": "Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning."
+    },
+    {
+      "headline": "Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities",
+      "source": "U.S. Department of War (.gov)",
+      "source_url": "https://www.war.gov",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjN3U05LMkpVQjVTU0lyWTgwRDRjbUg3MWhDcmdWRlotVXlKdW5YLTFCMmhKc250dHhBQ0VCTFM2bHlmTktmVlgxd3VfVWVfQXpnTXd4Z2REREhXVXRFaTdIU3N3anU2eFBkTDlzTGNadk1kc21kX1V6bGxHS20xN2hVX3FhOHM1WUozbUFQVGpFTVV4Vnc2am15Q2tzYXF5WG45R3NpYkpiVWFBWEZxeVVyUHdUQU1zenlCOVR0M3c3R3F5MzI5VlBJQkJvYXVaM2FkaWVJdzVYQQ?oc=5",
+      "pub_date": 1790708536.0,
+      "article_url": "https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/",
+      "image": "https://media.defense.gov/2026/Sep/29/2004008445/1280/1280/0/260909-M-WB553-1040.JPG",
+      "description": "The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations."
     },
     {
       "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
@@ -55,56 +45,66 @@
       "description": "Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation."
     },
     {
-      "headline": "Estonia blames Russia in arson attack on military robotics firm Milrem",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOW04b3VBRmlkdTBLZUNpUXNJUktBV0RVUVdvdUVCZkdJZmpka05qRHRxeFhIV3JvTDFfT3JPOUg0X0hVd29QX1hzN01MWXNiNWN2OXFkSTRCa1JHQ1RtTVNnUjFFcm5vSHl3RTBaeTVpVUNwWVZZdWtQZ3RxNGM5blpsUjhaX0V5aGRITXZxa0YxY1piVUxzRHpyWWN1M09XdlZfbnNPUjd6SFpodmtmNFRFU1RZbnJhSS1zc0hiOGYzdw?oc=5",
-      "pub_date": 1790693560.0,
-      "article_url": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/",
-      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/YDOXTUX33VA7XJRF5NC6MTTFHY.jpg?width=1200&auth=40d27de9e7861dad775bdaf458b7450d434e9cf71cde110b368daa6f93fe72d0",
-      "description": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said."
+      "headline": "Five million robots now work in factories as humanoid hype is tested",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1NVLXRiWnBTX09tcmgwVVc4VDZRd3h6bm0zazEwNk13SUF1bEtLVzNYVEs1SzV2UjBMLTlDQjF4amd6akNMT0pzeG5wdFREOS1renRsS1QtS1FoZlZJREpDRXZidFBmbjhYNlhLWHZ1eXRBd200R0pXU200X2REaUZwWVUwVHZyeGxZY3ZTWXNnd0E5dEdxWTFTVE5DWWtiTS1oLWRyRVFoRVM0UllvSkkwV0E?oc=5",
+      "pub_date": 1790657217.0,
+      "article_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
+      "image": "https://images.euronews.com/articles/stories/09/92/64/18/1200x675_cmsv2_a8bd4c1a-4d9c-54ff-9e05-fc14d79ca5bb-9926418.jpg",
+      "description": "Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines."
     },
     {
-      "headline": "Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd0lQZVFRQVEwRUNZdnR0d0tKc1pTRTVYY0V1NEZfaVFPeFQzTVJwZ3dFTDMwa1pENWtPMDBmVHNCYWNtM1JOYkJHdnpqZWdHM3RCRVF0QjlhcVVtd1lHZ3FINUhoVFVIR2ltcTZzV2ZuaGVLVmpQaFpYLVVZakQ4dXo0VnB3UHh0T1RjSHRMNGFTa2FIYllSSzQwRW1PZjI4REpIRWR3WGZVZGRoWVFDUDJZUTUxVUtnd0x6M2t1TVRMb1VQcC16RFE0TDJnSExISXc?oc=5",
-      "pub_date": 1790600402.0,
-      "article_url": "https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now",
-      "image": null,
-      "description": null
+      "headline": "Hundreds of robots are roaming this Chinese theme park. It's only the beginning of our humanoid future",
+      "source": "fastcompany.com",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUhHSWEzc0hnNk9Ic2ZUeF9WMDV3a2ZMLVVJUDNTaEh2YzBIUmRzZFpsTnA4RzZ0MEMtUG93WHRUcmdId2RPR2NqYnFUV3o1bmoyMkY3Wk9wcHFXUnQtajBpWmgxZEdoY0c0QzRVTW9aaldWRjE2NXRPZlZ4VUtIUmdfUQ?oc=5",
+      "pub_date": 1790676157.0,
+      "article_url": "https://www.fastcompany.com/91613399/agibot-robot-china-theme-park-attraction",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/3-91613399-agibot-robots-in-parks.jpg",
+      "description": "At Chimelong Spaceship Park in Zhuhai, more than 300 AgiBot robots play table tennis, perform martial arts, give directions, and greet hotel guests."
     },
     {
-      "headline": "China\u2019s robot store boom brings robots closer to consumers as industry accelerates commercialization: experts",
-      "source": "Global Times",
-      "source_url": "https://www.globaltimes.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DWXpCVUxrVy1keFVtQ1NwWFVyM2JNc1AzbndVSkN4VmRqakYwVkQtMHZHRllQV1VYS0lYeGhmRjNlYjJqSVJoYTlST2preGhKZmVHWXdfUWRwV2Q4dXJZQ2dR?oc=5",
-      "pub_date": 1790694840.0,
-      "article_url": "https://www.globaltimes.cn/page/202609/1371586.shtml",
-      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-09-29/c9e1b623-5a81-46bf-aa40-c3970f10297b.jpeg",
-      "description": "Robots are moving out of laboratories and exhibition halls and into shopping malls and commercial streets across China. As more Chinese robotics companies open brick and mortar stores, ordinary consumers can now not only see and interact with robots up close, but even buy them directly."
+      "headline": "World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers",
+      "source": "TribLIVE.com",
+      "source_url": "https://triblive.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUV9ndVoyTTItbDVnYnNFOU5CQ3duOE00d2x2M1BlQU9lQ1MyQ0hFNDBpMUxqQ21NUVliY2o1Vm8yOVZZcm9aTTVXYndqa3I2b3JNR3FKR2wwSnMyMW9nU2FoZnJTNWgwcEpxaHBSTGFnX1l0VVRyRzE5RlMxOE5Xdmw3cWJIMEJEUGFvLWJrblBIZmVBSXZYWWpFTWNHU2RzVlJhM0FUeGpYMVdPaERFMzk3WVBEbnJKSWZXYmFVSmlqV19yMGlTd0ZmdGVielJSdDZENGpB?oc=5",
+      "pub_date": 1790628994.0,
+      "article_url": "https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/",
+      "image": "https://assets-varnish.triblive.com/2026/09/9985692_web1_ptr-CMURobotConf1.jpg",
+      "description": "While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of"
     },
     {
-      "headline": "Powered by muscle cells, a paper-thin robot swims through watery maze",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjRobEg4Sl9GcG5iQmMwekVKWV8yT0xmenFKam90S2dPRkw4OHY4ckpJeVdVeW5ZZGN4NV81XzdoYy1nelRuMnNQdkM1TG82WnVuNEZ2UTdndU5JOW10V0oxOVlNTldxQUVtaVhKQlRvb0g2WWUwWk9WZTgxYXFKUnU0TEJCWjQ0dE8wdkUxbUJ1Q3lvb2RGbnIzWVItZw?oc=5",
-      "pub_date": 1790654400.0,
-      "article_url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
-      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-RoboMuscle-01-press.jpg",
-      "description": "MIT engineers developed a soft robot that can flap through water in response to flashes of light. The aquabot is lined with muscle cells that twitch when illuminated, enabling the robot to swim a distance of about four times its body length in one minute."
+      "headline": "Boston Dynamics Begins Robotics Testing at Hyundai Metaplant",
+      "source": "Assembly Magazine",
+      "source_url": "https://www.assemblymag.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm05OVJ4M0xocnVIeC05c2VUT0NUYWlyTWFieVNsZEJ3bWNsMk5fZVJRMGtOeXhrZ2hZWWxxNWZCeDc0UUNRbGNfWVRsQXM2aUpDUHJ5Ni1pc2JKdGpfTHdGb3JscVU2M3FwRHRYU1BXVlNIeDdZUW9nTFozRUt3aVJYMmdfMkwtbENtYlE4S2hDdmxKb3VJRm9RMjZuVzRzV2s4UEhmZw?oc=5",
+      "pub_date": 1790514000.0,
+      "article_url": "https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant",
+      "image": "https://www.assemblymag.com/ext/resources/images/Boston-Dynamics-TRI_hero.png?height=635&t=1767808082&width=1200",
+      "description": "ELLABELL, GA\u2014Boston Dynamics has opened a new robotics center at Hyundai Motor Group\u2019s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker\u2019s operations."
     },
     {
-      "headline": "I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.",
-      "source": "Slate",
-      "source_url": "https://slate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEtKd1FfUE5XUHdPQUQ0azR4RVU5UzFRRUJmU0NpMEsyWktUTnNiX19SRDRiRXhLTHIwaE1GaFVfR18zMW1PQ2ZsQ0JMQ1Q3LUl4SlI5S1FIRHdhczJiM0pXemE4RFgySFFIVzB2ZzQ5elJRTnBKS3BVSHVnSm5jNVJDQQ?oc=5",
-      "pub_date": 1790502300.0,
-      "article_url": "https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html",
-      "image": "https://compote.slate.com/images/d1688b60-2be1-4f4f-abae-82a080bb9f92.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "description": "The World Humanoid Games were actually a social experiment in the making."
+      "headline": "Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtNGdJMGxkbUx5cXZSNVk0djVRX19HMGtKa3QxWTRXV0ZJVnFyY3lwai1qVzI0ZG1zakJUUHpJZVpaV2FkR3REZ2Z6RG1GbnF4U2NhNjJYcUJMRmVLdnd2Yk9PZTRqVHQyNVY3NnFLNHNGems?oc=5",
+      "pub_date": 1790514900.0,
+      "article_url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
+      "image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
+      "description": "Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation."
+    },
+    {
+      "headline": "Robotics startups are courting university researchers. Microagi just hired eight.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXVRcnI3QUxWM3VDaFZwZWdLY2dwOUNXdDFLNjlFVHY2S1ctQ2VXcFBiOFRKNmpqVUg5ZjcwU2RqT3NFRHpIY3hSLTVBS014eHZ0bm5LQUNfcDQ5UUQyTU40WXZGX2xVcXc5WjJNaFJ3aDFCaE1oaDNBV2duZmJZTDFvRXM3VUNNQUEweWJxNEFRSU5XNFVrLWNuUV93cEhfdGZVZmt3?oc=5",
+      "pub_date": 1790672400.0,
+      "article_url": "https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9",
+      "image": "https://i.insider.com/6abaee20265e3f8e338f811c?width=701&format=jpeg",
+      "description": "Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-30T04:21:24.340612+00:00"
+  "fetched_at": "2026-09-30T10:39:43.087974+00:00"
 }

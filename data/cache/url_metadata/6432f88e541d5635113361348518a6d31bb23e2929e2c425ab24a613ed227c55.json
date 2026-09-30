@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-30T10:39:48.978556+00:00",
+  "data": {
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+    "description": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-2.jpg",
+    "favicon": "https://www.microsoft.com/favicon.ico",
+    "site_name": "Microsoft Research",
+    "author": "alyssa",
+    "keywords": null
+  }
+}
