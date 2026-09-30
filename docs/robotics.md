@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-30T04:21:36.378059+00:00'
+updated: '2026-09-30T10:39:54.634417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 30, 2026 at 04:21 UTC  
+**Last Updated:** September 30, 2026 at 10:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed → on-device AI inference → real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!
 
-5d ago
+6d ago
 
 ---
 
@@ -50,7 +50,7 @@ I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision proj
 
 We’ve been playing hide and seek with Éloi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn’t simply tracking a target. It’s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we’re currently spending a lot of time on. Animotion Robotics
 
-5d ago
+6d ago
 
 ---
 
@@ -86,13 +86,13 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 **[News: Google Instrinsic Physical ai/Robotics OS being released publicly](https://www.reddit.com/r/robotics/comments/1wovxgh/news_google_instrinsic_physical_airobotics_os/)**
 
-5d ago
+6d ago
 
 ---
 
 **[Tendon-Driven Robot Hand"High degree of freedom and fast operation](https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/)**
 
-6d ago
+7d ago
 
 ---
 
@@ -100,7 +100,7 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!
 
-5d ago
+6d ago
 
 ---
 
@@ -108,33 +108,25 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 ## Google News: "robotics"
 
-**[Robotics startups are courting university researchers. Microagi just hired eight.](https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9)**
-
-Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group.
-
-Business Insider • 19h ago
-
----
-
-**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
-
-Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
-
-The Information • 1d ago
-
----
-
 **[Would you pay for this robot to clean your house?](https://www.bbc.com/news/videos/c6lyq52wx7dko)**
 
 Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning.
 
-BBC • 7h ago
+BBC • 13h ago
+
+---
+
+**[Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities](https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/)**
+
+The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations.
+
+U.S. Department of War (.gov) • 15h ago
 
 ---
 
 **[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
 
-Forbes • 13h ago
+Forbes • 19h ago
 
 ---
 
@@ -142,45 +134,55 @@ Forbes • 13h ago
 
 Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation.
 
-The Robot Report • 14h ago
+The Robot Report • 20h ago
 
 ---
 
-**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/)**
+**[Five million robots now work in factories as humanoid hype is tested](https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check)**
 
-Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
+Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
 
-Defense News • 13h ago
-
----
-
-**[Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.](https://www.barchart.com/story/news/4832550/qualcomm-just-agreed-to-acquire-robotics-software-firm-picknik-how-to-approach-the-stock-now)**
-
-Barchart.com • 1d ago
+Euronews.com • 1d ago
 
 ---
 
-**[China’s robot store boom brings robots closer to consumers as industry accelerates commercialization: experts](https://www.globaltimes.cn/page/202609/1371586.shtml)**
+**[Hundreds of robots are roaming this Chinese theme park. It's only the beginning of our humanoid future](https://www.fastcompany.com/91613399/agibot-robot-china-theme-park-attraction)**
 
-Robots are moving out of laboratories and exhibition halls and into shopping malls and commercial streets across China. As more Chinese robotics companies open brick and mortar stores, ordinary consumers can now not only see and interact with robots up close, but even buy them directly.
+At Chimelong Spaceship Park in Zhuhai, more than 300 AgiBot robots play table tennis, perform martial arts, give directions, and greet hotel guests.
 
-Global Times • 13h ago
-
----
-
-**[Powered by muscle cells, a paper-thin robot swims through watery maze](https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929)**
-
-MIT engineers developed a soft robot that can flap through water in response to flashes of light. The aquabot is lined with muscle cells that twitch when illuminated, enabling the robot to swim a distance of about four times its body length in one minute.
-
-MIT News • 1d ago
+fastcompany.com • 1d ago
 
 ---
 
-**[I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
+**[World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers](https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/)**
 
-The World Humanoid Games were actually a social experiment in the making.
+While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of
 
-Slate • 2d ago
+TribLIVE.com • 1d ago
+
+---
+
+**[Boston Dynamics Begins Robotics Testing at Hyundai Metaplant](https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant)**
+
+ELLABELL, GA—Boston Dynamics has opened a new robotics center at Hyundai Motor Group’s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker’s operations.
+
+Assembly Magazine • 2d ago
+
+---
+
+**[Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)](https://www.engadget.com/2266933/humanoid-robot-cries-on-command/)**
+
+Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
+
+Engadget • 2d ago
+
+---
+
+**[Robotics startups are courting university researchers. Microagi just hired eight.](https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9)**
+
+Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group.
+
+Business Insider • 1d ago
 
 ---
 
@@ -194,27 +196,7 @@ A humanoid robot store in Hong Kong offers a glimpse of the future—and a remin
 
 📺 DW News
 
-👁️ 137K • 👍 587 • 💬 228 • ⏱️ 3:46 • 1d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 625K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
-
----
-
-**[China&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
-
-Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
-
-📺 Prime Insights
-
-👁️ 500K • 👍 4K • 💬 265 • ⏱️ 26:57 • 5d ago
+👁️ 142K • 👍 603 • 💬 233 • ⏱️ 3:46 • 1d ago
 
 ---
 
@@ -224,7 +206,17 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 927K • 👍 5K • 💬 297 • ⏱️ 25:31 • 4d ago
+👁️ 1.0M • 👍 5K • 💬 327 • ⏱️ 25:31 • 4d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 626K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
 
 ---
 
@@ -234,27 +226,7 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 91K • 👍 4K • 💬 289 • ⏱️ 13:48 • 5d ago
-
----
-
-**[Manned Mech Humanoid Robot Restoration | ASMR Rebuild](https://www.youtube.com/watch?v=Wk1zOA9ALGw)**
-
-An abandoned, heavily damaged manned mech humanoid robot is brought back to life through a complete restoration process.
-
-📺 ASMR Vehicle Restoration Hub
-
-👁️ 79K • 👍 249 • 💬 14 • ⏱️ 11:46 • 5d ago
-
----
-
-**[Optimus Gen 3 AI Robot Is Way More Insane Than Expected](https://www.youtube.com/watch?v=nOVgM-C8Yy0)**
-
-Tesla Optimus Gen 3 may have just leaked inside Tesla's own app, revealing a dramatically more finished gold-and-black design ...
-
-📺 MACHINEKIND
-
-👁️ 5K • 👍 56 • 💬 4 • ⏱️ 13:03 • 1d ago
+👁️ 92K • 👍 4K • 💬 290 • ⏱️ 13:48 • 5d ago
 
 ---
 
@@ -264,7 +236,27 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 776K • 👍 8K • 💬 629 • ⏱️ 1:00 • 5d ago
+👁️ 800K • 👍 8K • 💬 648 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[1,000,000,000 Humanoid Robots Elon Musk Predicts … Is Transhumanism Next? 😱](https://www.youtube.com/watch?v=Ijl-w8CYZ0Q)**
+
+Elon Musk has made a staggering prediction about the future of humanoid robots and Transhumanism: a world where billions of ...
+
+📺 ejunky66
+
+👁️ 190K • 👍 3K • 💬 269 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[LEGO Combiner Mech: Combining Every Sprunki Character into a Robot! | Bricks UP](https://www.youtube.com/watch?v=ZWJvuuSzOkc)**
+
+LEGO Combiner Mech: Combining Every Sprunki Character into a Robot! Get ready for an epic musical-horror mechanical ...
+
+📺 Bricks UP
+
+👁️ 200K • 👍 3K • 💬 6 • ⏱️ 1:03:47 • 4d ago
 
 ---
 
@@ -274,17 +266,27 @@ Elon Musk says more than 1 billion humanoid robots could exist within the next 1
 
 📺 ejunky66
 
-👁️ 123K • 👍 1K • 💬 127 • ⏱️ 1:00 • 2d ago
+👁️ 129K • 👍 1K • 💬 133 • ⏱️ 1:00 • 2d ago
 
 ---
 
-**[Building a Robot to avoid getting a real Job](https://www.youtube.com/watch?v=wsSH07eY9OQ)**
+**[Robot jumps into ATTACK MODE after being pushed by customer #shorts #foxnews #world](https://www.youtube.com/watch?v=6DKp4fwYuqk)**
 
-Download Opera: https://opr.as/Opera-browser-tazerengineering Extra videos on Patreon: ...
+WATCH: A store robot appears ready to throw hands after a customer gives it a shove in Russia. Security video from the store ...
 
-📺 Tazer
+📺 Fox News
 
-👁️ 253K • 👍 6K • 💬 285 • ⏱️ 24:10 • 6d ago
+👁️ 406K • 👍 7K • 💬 2K • ⏱️ 0:27 • 6d ago
+
+---
+
+**[Manned Mech Humanoid Robot Restoration | ASMR Rebuild](https://www.youtube.com/watch?v=Wk1zOA9ALGw)**
+
+An abandoned, heavily damaged manned mech humanoid robot is brought back to life through a complete restoration process.
+
+📺 ASMR Vehicle Restoration Hub
+
+👁️ 84K • 👍 255 • 💬 14 • ⏱️ 11:46 • 5d ago
 
 ---
 
