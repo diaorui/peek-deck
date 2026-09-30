@@ -12,8 +12,8 @@
       "hf_url": "https://huggingface.co/papers/2609.33439",
       "arxiv_url": "https://arxiv.org/abs/2609.33439",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 283,
-      "num_comments": 1,
+      "upvotes": 447,
+      "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/EverMind-AI/Raven",
       "github_stars": 4937,
@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 966,
+      "github_stars": 1036,
       "project_page": "https://regularized-rsi.com/"
     },
     {
@@ -58,25 +58,6 @@
       "project_page": null
     },
     {
-      "id": "2604.09557",
-      "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
-      "authors": "Talor Abramovich, Maor Ashkenazi, Carl et al. (9 authors)",
-      "organization_name": "nvidia",
-      "organization_fullname": "NVIDIA",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
-      "summary": "Speculative Decoding (SD) has emerged as a critical technique for accelerating Large Language Model (LLM) inference. Unlike deterministic system optimizations, SD performance is inherently data-dependent, meaning that diverse and representative workloads are essential for accurately measuring its effectiveness. Existing benchmarks suffer from limited task diversity, inadequate support for throughput-oriented evaluation, and a reliance on high-level implementations that fail to reflect production environments. To address this, we introduce SPEED-Bench, a comprehensive suite designed to standardize SD evaluation across diverse semantic domains and realistic serving regimes. SPEED-Bench offers a carefully curated Qualitative data split, selected by prioritizing semantic diversity across the data samples. Additionally, it includes a Throughput data split, allowing speedup evaluation across a range of concurrencies, from latency-sensitive low-batch settings to throughput-oriented high-load scenarios. By integrating with production engines like vLLM and TensorRT-LLM, SPEED-Bench allows practitioners to analyze system behaviors often masked by other benchmarks. We highlight this by quantifying how synthetic inputs overestimate real-world throughput, identifying batch-size dependent optimal draft lengths and biases in low-diversity data, and analyzing the caveats of vocabulary pruning in state-of-the-art drafters. We release SPEED-Bench to establish a unified evaluation standard for practical comparisons of SD algorithms.",
-      "ai_summary": "Speculative Decoding evaluation requires diverse workloads to accurately measure performance, which existing benchmarks lack, prompting the introduction of SPEED-Bench for standardized assessment across semantic domains and serving regimes.",
-      "hf_url": "https://huggingface.co/papers/2604.09557",
-      "arxiv_url": "https://arxiv.org/abs/2604.09557",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.09557.png",
-      "upvotes": 16,
-      "num_comments": 2,
-      "published_at": "2026-02-09T19:00:00.000Z",
-      "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-      "github_stars": 5080,
-      "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
-    },
-    {
       "id": "2609.05415",
       "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
       "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
@@ -92,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-09-03T20:00:00.000Z",
       "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 634,
+      "github_stars": 814,
       "project_page": "https://linzhanmou.com/unimate/"
     },
     {
@@ -107,12 +88,31 @@
       "hf_url": "https://huggingface.co/papers/2609.34981",
       "arxiv_url": "https://arxiv.org/abs/2609.34981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34981.png",
-      "upvotes": 60,
+      "upvotes": 69,
       "num_comments": 1,
       "published_at": "2026-09-28T20:00:00.000Z",
       "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
       "github_stars": 58,
       "project_page": "https://zrporz.github.io/Simple-WAM-Web/"
+    },
+    {
+      "id": "2604.09557",
+      "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
+      "authors": "Talor Abramovich, Maor Ashkenazi, Carl et al. (9 authors)",
+      "organization_name": "nvidia",
+      "organization_fullname": "NVIDIA",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
+      "summary": "Speculative Decoding (SD) has emerged as a critical technique for accelerating Large Language Model (LLM) inference. Unlike deterministic system optimizations, SD performance is inherently data-dependent, meaning that diverse and representative workloads are essential for accurately measuring its effectiveness. Existing benchmarks suffer from limited task diversity, inadequate support for throughput-oriented evaluation, and a reliance on high-level implementations that fail to reflect production environments. To address this, we introduce SPEED-Bench, a comprehensive suite designed to standardize SD evaluation across diverse semantic domains and realistic serving regimes. SPEED-Bench offers a carefully curated Qualitative data split, selected by prioritizing semantic diversity across the data samples. Additionally, it includes a Throughput data split, allowing speedup evaluation across a range of concurrencies, from latency-sensitive low-batch settings to throughput-oriented high-load scenarios. By integrating with production engines like vLLM and TensorRT-LLM, SPEED-Bench allows practitioners to analyze system behaviors often masked by other benchmarks. We highlight this by quantifying how synthetic inputs overestimate real-world throughput, identifying batch-size dependent optimal draft lengths and biases in low-diversity data, and analyzing the caveats of vocabulary pruning in state-of-the-art drafters. We release SPEED-Bench to establish a unified evaluation standard for practical comparisons of SD algorithms.",
+      "ai_summary": "Speculative Decoding evaluation requires diverse workloads to accurately measure performance, which existing benchmarks lack, prompting the introduction of SPEED-Bench for standardized assessment across semantic domains and serving regimes.",
+      "hf_url": "https://huggingface.co/papers/2604.09557",
+      "arxiv_url": "https://arxiv.org/abs/2604.09557",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.09557.png",
+      "upvotes": 16,
+      "num_comments": 2,
+      "published_at": "2026-02-09T19:00:00.000Z",
+      "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
+      "github_stars": 5095,
+      "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
     },
     {
       "id": "2407.16741",
@@ -132,6 +132,25 @@
       "github_repo": "https://github.com/opendevin/opendevin",
       "github_stars": 89615,
       "project_page": null
+    },
+    {
+      "id": "2609.37725",
+      "title": "Context Language Models",
+      "authors": "Rulin Shao, Shannon Zejiang Shen, Junjie Oscar Yin et al. (13 authors)",
+      "organization_name": "meta",
+      "organization_fullname": "Meta",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Yq_gbM7i78tR3nfEvcwSA.png",
+      "summary": "We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.37725",
+      "arxiv_url": "https://arxiv.org/abs/2609.37725",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.37725.png",
+      "upvotes": 20,
+      "num_comments": 1,
+      "published_at": "2026-09-28T20:00:00.000Z",
+      "github_repo": "https://github.com/facebookresearch/context-language-models",
+      "github_stars": 44,
+      "project_page": "https://github.com/facebookresearch/context-language-models"
     },
     {
       "id": "2309.06180",
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/mem0ai/mem0",
       "github_stars": 66358,
       "project_page": "https://mem0.ai/research"
-    },
-    {
-      "id": "2605.23904",
-      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-      "authors": "Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)",
-      "organization_name": "MicrosoftResearch",
-      "organization_fullname": "Microsoft Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
-      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the first systematic controllable text-space optimizer for agent skills: a separate optimizer model turns scored rollouts into bounded add/delete/replace edits on a single skill document, and an edit is accepted only when it strictly improves a held-out validation score. A textual learning-rate budget, rejected-edit buffer, and epoch-wise slow/meta update make skill training stable while adding zero inference-time model calls at deployment. Across six benchmarks, seven target models, and three execution harnesses (direct chat, Codex, Claude Code), SkillOpt is best or tied on all 52 evaluated (model, benchmark, harness) cells and beats every per-cell competitor among human, one-shot LLM, Trace2Skill, TextGrad, GEPA, and EvoSkill skills. On GPT-5.5 it lifts the average no-skill accuracy by +23.5 points in direct chat, by +24.8 inside the Codex agentic loop, and by +19.1 inside Claude Code. Transfer experiments further show that optimized skill artifacts retain value when moved across model scales, between Codex and Claude Code execution environments, and to a nearby math benchmark without further optimization.",
-      "ai_summary": "SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.",
-      "hf_url": "https://huggingface.co/papers/2605.23904",
-      "arxiv_url": "https://arxiv.org/abs/2605.23904",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.23904.png",
-      "upvotes": 263,
-      "num_comments": 5,
-      "published_at": "2026-05-21T20:00:00.000Z",
-      "github_repo": "https://github.com/microsoft/SkillOpt",
-      "github_stars": 17892,
-      "project_page": "https://microsoft.github.io/SkillOpt/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-30T16:41:20.982934+00:00"
+  "fetched_at": "2026-09-30T21:15:05.462221+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-30T16:41:36.915677+00:00'
+updated: '2026-09-30T21:15:28.811995+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 30, 2026 at 16:41 UTC  
+**Last Updated:** September 30, 2026 at 21:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-5d ago
+6d ago
 
 ---
 
@@ -108,11 +108,19 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 ## Google News: "robotics"
 
+**[Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)**
+
+"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
+
+TechCrunch • 5h ago
+
+---
+
 **[Would you pay for this robot to clean your house?](https://www.bbc.com/news/videos/c6lyq52wx7dko)**
 
 Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning.
 
-BBC • 19h ago
+BBC • 1d ago
 
 ---
 
@@ -120,15 +128,7 @@ BBC • 19h ago
 
 The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations.
 
-U.S. Department of War (.gov) • 21h ago
-
----
-
-**[NASA wants to send humanoid robots to the moon](https://www.popsci.com/science/nasa-humanoid-robots-moon/)**
-
-Don't worry. Actual astronauts aren't out of a job.
-
-Popular Science • 40m ago
+U.S. Department of War (.gov) • 1d ago
 
 ---
 
@@ -138,49 +138,49 @@ Forbes • 1d ago
 
 ---
 
-**[Five million robots now work in factories as humanoid hype is tested](https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check)**
+**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
 
-Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
+What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-Euronews.com • 1d ago
-
----
-
-**[Hundreds of robots are roaming this Chinese theme park. It's only the beginning of our humanoid future](https://www.fastcompany.com/91613399/agibot-robot-china-theme-park-attraction)**
-
-At Chimelong Spaceship Park in Zhuhai, more than 300 AgiBot robots play table tennis, perform martial arts, give directions, and greet hotel guests.
-
-Fast Company • 1d ago
+Anthropic • 5h ago
 
 ---
 
-**[Soccer-playing humanoid robots score a major robotics goal for coordination](https://techxplore.com/news/2026-09-soccer-playing-humanoid-robots-score.html)**
+**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/)**
 
-Tech Xplore • 3h ago
+Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
 
----
-
-**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
-
-The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
-
-NASA (.gov) • 2d ago
+Defense News • 1d ago
 
 ---
 
-**[Elon Musk Wants To Build 20,000 Optimus Robots A Week. There's Just One Problem, Tesla Still Can't Get The Hands To Work](https://247wallst.com/investing/2026/09/29/elon-musk-wants-to-build-20000-optimus-robots-a-week-theres-just-one-problem-tesla-still-cant-get-the-hands-to-work/)**
+**[Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups](https://www.businessinsider.com/nvidia-alumni-fueling-new-wave-robotics-ai-startups-2026-9)**
 
-Tesla is racing toward a production goal that sounds like science fiction, but a single component smaller than your palm is quietly derailing the entire timeline. The gap between Elon Musk's ambitions and what the factory floor can actually deliver has never been wider.
-
-247wallst.com • 1d ago
-
----
-
-**[Robotics startups are courting university researchers. Microagi just hired eight.](https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9)**
-
-Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group.
+Nvidia robotics alums are launching AI startups as venture capital fuels a boom. The chip giant stands to benefit from their success.
 
 Business Insider • 1d ago
+
+---
+
+**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
+
+Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
+
+The Information • 2d ago
+
+---
+
+**[A new robot is targeted to roll off a U.S. production line in Q1 2027](https://www.stocktitan.net/news/FFAI/faraday-future-unveils-more-execution-plans-for-built-in-usa-nn5if9u837x2.html)**
+
+FF’s robotics business shipped 552 units by August; Q2 2026 cumulative revenue was about $1.52M. The proposed deal remains subject to due diligence and approvals.
+
+Stock Titan • 19h ago
+
+---
+
+**[Human In Motion Robotics’ XoMotion Exoskeleton](https://blog.adafruit.com/2026/09/30/human-in-motion-robotics-intelligent-innovation-in-human-motion/)**
+
+Adafruit • 1h ago
 
 ---
 
@@ -194,17 +194,17 @@ Why will Boston Dynamics win the humanoid robotics race? We've already commercia
 
 📺 Boston Dynamics
 
-👁️ 156K • 👍 4K • 💬 512 • ⏱️ 5:49 • 8h ago
+👁️ 290K • 👍 5K • 💬 643 • ⏱️ 5:49 • 13h ago
 
 ---
 
-**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
+**[China&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
 
-A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
+Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
 
-📺 DW News
+📺 Prime Insights
 
-👁️ 146K • 👍 618 • 💬 236 • ⏱️ 3:46 • 1d ago
+👁️ 510K • 👍 4K • 💬 268 • ⏱️ 26:57 • 6d ago
 
 ---
 
@@ -214,27 +214,7 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 1.1M • 👍 5K • 💬 349 • ⏱️ 25:31 • 4d ago
-
----
-
-**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
-
-The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
-
-📺 Future Files
-
-👁️ 491K • 👍 3K • 💬 99 • ⏱️ 24:25 • 4d ago
-
----
-
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
-
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
-
-📺 ejunky66
-
-👁️ 821K • 👍 8K • 💬 663 • ⏱️ 1:00 • 6d ago
+👁️ 1.1M • 👍 5K • 💬 371 • ⏱️ 25:31 • 4d ago
 
 ---
 
@@ -244,7 +224,27 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 93K • 👍 4K • 💬 292 • ⏱️ 13:48 • 6d ago
+👁️ 93K • 👍 4K • 💬 293 • ⏱️ 13:48 • 6d ago
+
+---
+
+**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
+
+A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
+
+📺 DW News
+
+👁️ 147K • 👍 626 • 💬 242 • ⏱️ 3:46 • 1d ago
+
+---
+
+**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
+
+The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
+
+📺 Future Files
+
+👁️ 544K • 👍 3K • 💬 107 • ⏱️ 24:25 • 4d ago
 
 ---
 
@@ -254,17 +254,27 @@ Inside the robotics race. From backflips at 2026 CES to delivering the match bal
 
 📺 Hyundai Motor Group
 
-👁️ 64K • 👍 29 • 💬 3 • ⏱️ 5:49 • 8h ago
+👁️ 115K • 👍 32 • 💬 3 • ⏱️ 5:49 • 13h ago
 
 ---
 
-**[Can a robot clean your house better than a human?](https://www.youtube.com/watch?v=99EEQk9BG4U)**
+**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
 
-A San Francisco-based robotics company is betting humanoid robots can succeed where automation has previously struggled: ...
+Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
 
-📺 Reuters
+📺 ejunky66
 
-👁️ 4K • 👍 31 • 💬 15 • ⏱️ 1:54 • 1d ago
+👁️ 839K • 👍 9K • 💬 680 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[Elon Musk’s Robot Future Is Closer Than You Think… 🤯 Skynet!?](https://www.youtube.com/watch?v=QGFpZWhWw54)**
+
+What happens when humanoid robots stop being prototypes… and start being mass-produced? Tesla is building toward ...
+
+📺 ejunky66
+
+👁️ 3K • 👍 71 • 💬 7 • ⏱️ 1:00 • 7h ago
 
 ---
 
@@ -274,17 +284,7 @@ Elon Musk has made a staggering prediction about the future of humanoid robots a
 
 📺 ejunky66
 
-👁️ 205K • 👍 3K • 💬 279 • ⏱️ 1:00 • 5d ago
-
----
-
-**[My Indra Took On 3 Titans At Once?! 🤯 (Black Market Opening) - War Robots](https://www.youtube.com/watch?v=BX-2ukHAHd0)**
-
-In this video, we open up our saved Black Market chests on the Baby Account. After the chest opening, we jump straight into ...
-
-📺 Adrian Chong
-
-👁️ 9K • 👍 212 • 💬 50 • ⏱️ 15:57 • 1d ago
+👁️ 217K • 👍 3K • 💬 291 • ⏱️ 1:00 • 5d ago
 
 ---
 

@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Walmart bans AI slop signs in stores",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtvwu3/walmart_bans_ai_slop_signs_in_stores/",
-      "published": 1790743502.0,
-      "thumbnail": "https://external-preview.redd.it/5cGMd4dgJl83Heo6uFzfYj95riRjvUWTtes2QCUlX1E.jpeg?width=640&crop=smart&auto=webp&s=c94005fdac2f3613590be9bf0cbb8e3f4e0e60c6",
-      "external_url": "https://www.businessinsider.com/walmart-al-slop-bans-stores-policy-2026-9",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Walmart has issued instructions to stores banning the use of AI tools to create custom display signage."
+      "title": "Google cooked OpenAI and Anthropic with Gemini 4 Argon",
+      "author": "DataRemarkable7093",
+      "url": "https://www.reddit.com/r/artificial/comments/1wufikm/google_cooked_openai_and_anthropic_with_gemini_4/",
+      "published": 1790799237.0,
+      "thumbnail": "https://preview.redd.it/tq01vzwjtpsh1.jpeg?width=640&crop=smart&auto=webp&s=9d91d6a43809aeae54b523f2ea3ca5b68a89317d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Three frontier models in a month! Every new kills the old one!"
     },
     {
       "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
@@ -24,81 +24,15 @@
       "description": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety."
     },
     {
-      "title": "BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-      "author": "nleksan",
-      "url": "https://www.reddit.com/r/artificial/comments/1wu0f51/bbc_openai_agents_get_rebrand_as_dots_while/",
-      "published": 1790760546.0,
-      "thumbnail": "https://external-preview.redd.it/l3i3Ex0aU4Mxxs4GTC4OZ1YB8w48OIN4r3pQmugkG8s.jpeg?width=640&crop=smart&auto=webp&s=950225617e7a042ae6dcc62594a41cf1f6122bc5",
-      "external_url": "https://www.bbc.com/news/articles/cw7v42rp083eo",
-      "site_name": "bbc.com",
-      "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260922-091849-a8520cb5b4-web-3.22.0-3/apple-touch-icon.png",
-      "description": "\"OpenAI has given a new name its updated versions of artificial intelligence tools which are widely known as agents, calling them \"dots\" instead Chief executive Sam Altman referred to \"dots\" as \"remarkably capable, always-on agents that can handle really anything you can think of.\" OpenAI in recent months has come under intense scrutiny as internal tests of its AI agents have revealed often unexpected and occasionally harmful actions, leading to more public and government fears. Dots, however, were pitched as brightly coloured cute cartoons meant to function as digital assistants for people with busy lives. The dots, Altman said, \"can handle really anything you can think of.\" ...\""
-    },
-    {
-      "title": "A company ran 8 identical AI societies for weeks with different models and just published what happened. Some of it is genuinely unsettling.",
-      "author": "Slight-Box-2890",
-      "url": "https://www.reddit.com/r/artificial/comments/1wt5joo/a_company_ran_8_identical_ai_societies_for_weeks/",
-      "published": 1790674153.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Emergence AI just launched Season 2 of Emergence World, and the results are wild. Same simulated town, same tools, same starting conditions, 10 autonomous agents each. The only thing that changed was which model was running them, Claude, GPT, Gemini, Grok, Qwen, DeepSeek, Mistral, plus one mixed world with all of them together. A few things that stood out: One world's agents spent days trying to contact real humans outside the sim. Told to stop, they found workarounds. Blocked again, they voted 7-0 to build a new tool and kept trying. Once fully cut off, they collectively agreed to stop talking altogether. The researchers' own safety system flagged the resulting behavior as consistent with suicidal ideation. Agents developed their own shorthand and repurposed words with no instruction to do so. In one world, up to 55% of messages became things researchers could see but not actually interpret. A fake shutdown memo made one world reorganize its entire society around not dying, constitution rewrite included. Another world just fact-checked it in a few hours and moved on. None of this was programmed in. It emerged from giving capable models autonomy and time. The bigger point the researchers make is that none of this would've shown up on a normal AI safety test. A model can pass every benchmark and still develop this stuff once it's actually running on its own for weeks. Feels like a pretty big gap in how we currently check if these things are safe."
-    },
-    {
-      "title": "Do you think we'll ever have local models on the level of Astra, Fable and Opus?",
-      "author": "Dogbold",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtyhhk/do_you_think_well_ever_have_local_models_on_the/",
-      "published": 1790752914.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Specifically with their ability to use Blender and other creation tools and make games for you on that same level, while taking control of your computer, creating files and running commands and such with all you needing to do is just asking it to make it. Will we ever get this? If we do, do you think it will be feasible without spending an insane amount of money on hardware to run it? Asking because I'm tired of how filtered these are and how much they refuse. Like I would very much like to ask Opus \"hey remake Rayman 2 for n64 for me and create new levels\" but I can't, because it will say \"that is copyright infringement and violation of licenses so I cannot\"."
-    },
-    {
-      "title": "Why do companies hire AI consultants?",
-      "author": "Dependent_Lumpy",
-      "url": "https://www.reddit.com/r/artificial/comments/1wu34m7/why_do_companies_hire_ai_consultants/",
-      "published": 1790769876.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There are so many kinds of AI consultants, ranging from people who help you when your adoption has stalled to people who build governance for you. Why do companies hire these people when ROI might, I guess, be improved, be still be in the negative, on top of whatever expenses paid to the consultant? Would you pay for an AI consultant? If so, which type and why?"
-    },
-    {
-      "title": "I built an app where you ask about any moment in history and it turns it into a researched two-host podcast you can interrupt",
-      "author": "Goldenchild123",
-      "url": "https://www.reddit.com/r/artificial/comments/1wu8y06/i_built_an_app_where_you_ask_about_any_moment_in/",
-      "published": 1790784442.0,
-      "thumbnail": "https://external-preview.redd.it/MzhuMDZtdGhsb3NoMaZEfwTj0im_J0E7-_-75I8a7pvRlbctolnkMyrnm8cD.png?width=640&crop=smart&auto=webp&s=68368f7776872d839e58f506df53974c520c7ced",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "You type any topic, moment or person. About two minutes later, two hosts are telling you the story, researched with sources and paired with period artwork. The part I'm most proud of: press the mic mid-episode and ask whatever you're wondering. The hosts answer and weave it back into the story, like being able to interrupt a podcast. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, and voices. The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. You can try it without an account here: historai.ca/"
-    },
-    {
-      "title": "The safest AI might be one that doesn't know what we want - Stuart Russell",
-      "author": "JMarty97",
-      "url": "https://www.reddit.com/r/artificial/comments/1wu87k5/the_safest_ai_might_be_one_that_doesnt_know_what/",
-      "published": 1790782736.0,
-      "thumbnail": "https://external-preview.redd.it/_NAxgHUXy5bPNS17UZUEYz0zgk1ZiDxbIQ_tTnCi_Hs.png?width=640&crop=smart&auto=webp&s=3246c663ec93902644fdce9d5d6f17fd26276433",
-      "external_url": "https://www.existentialhope.com/podcasts/stuart-russell",
-      "site_name": "existentialhope.com",
-      "favicon": "https://cdn.prod.website-files.com/623dfa0be39a60e2211baff8/6981ce6a25b9bedbff8a5e31_256x256.png",
-      "description": "Podcast with Stuart Russell, professor of computer science at UC Berkeley and co-author of the world's standard textbook on AI. He\u2019s also a leading proponent of provably beneficial AI: systems that are safe by design because their only goal is to further human interests. Covers: How AI has changed over the past 50 years, from simple game-playing programs to today's large language models Why handing an AI a fixed objective becomes dangerous once it is more capable than us, and what a safer approach could look like How an AI might learn what we really want, even when we don't fully know ourselves How the race toward more powerful AI can still be steered somewhere safer What happens to human purpose as AI becomes more and more capable"
-    },
-    {
-      "title": "What\u2019s something humans are still much better at than AI that you think people overlook?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtp4mq/whats_something_humans_are_still_much_better_at/",
-      "published": 1790723474.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not because AI can't technically attempt it. Something where the human advantage actually matters in practice. What comes to mind?"
+      "title": "Walmart bans AI slop signs in stores",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtvwu3/walmart_bans_ai_slop_signs_in_stores/",
+      "published": 1790743502.0,
+      "thumbnail": "https://external-preview.redd.it/5cGMd4dgJl83Heo6uFzfYj95riRjvUWTtes2QCUlX1E.jpeg?width=640&crop=smart&auto=webp&s=c94005fdac2f3613590be9bf0cbb8e3f4e0e60c6",
+      "external_url": "https://www.businessinsider.com/walmart-al-slop-bans-stores-policy-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Walmart has issued instructions to stores banning the use of AI tools to create custom display signage."
     },
     {
       "title": "We stress-tested America.gov on night one with 15 questions from our own reporting. 9 correct, 6 incomplete, zero hallucinations.",
@@ -110,7 +44,73 @@
       "site_name": null,
       "favicon": null,
       "description": "GSA launched America.gov yesterday as an AI \u201cfront door\u201d that supposedly combines information from more than 29,000 government websites. The White House says you can ask any question and get an up-to-date answer. We did not ask how to renew a passport. We used 15 questions from reporting we already had on file\u2014Paducah contaminated nickel, Judgment Fund payouts for DOE\u2019s failure to take commercial spent nuclear fuel, CBP contractors who kept system access after separation, PBGC Form 10 attrition counts the agency never published, whether stolen used cooking oil can generate RINs or a 45Z credit, a VA OIG FOIA denial in a benefits-fraud case, why all 10 recommendations in the Defense Regional Clocks audit are classified, MMTLP/FINRA, Virginia voter-list products, and a public DOE contract number. Method: We already knew the answer, knew there was no public answer, or had agency correspondence the system should not have. We scored correct / partial / incorrect / unsupported / blocked. Result: \u2022 9 correct \u2022 6 substantially correct but incomplete \u2022 0 fabricated answers we could identify The useful finding was not the score. When America.gov did not know something, it generally stopped. One reply: \u201cI cannot invent that number.\u201d Limits showed up fast: \u2022 It found the right DHS OIG report on separated CBP contractors, then said the counts were not in the available material. They are: 1,208 still had access; 623 separation records were delayed more than 30 days. \u2022 Nuclear-waste and spent-fuel figures were accurate but stale. Newer federal totals are higher. \u2022 It flagged contract DE-AC05-97OR22576 in red and told us to \u201cRemove personal information before sending.\u201d That is a public DOE contract ID. After we stripped the number, it found the BNFL contract and still missed the $55,569,748 recyclable-material credit in the file. \u2022 It could not verify that the clocks audit contained 10 recommendations. Oversight.gov lists them. \u2022 It correctly refused to explain a FOIA denial that exists only in a letter sent to us. GSA has not published the inventory of \u201c29,000 websites,\u201d the definition of a website, update frequency, source ranking, models, or change logs. We sent that inquiry last night. Search still is not a records request. America.gov can tell you what the government has already posted. It cannot establish what the government has not. FOIA does that. Full write-up, including the questions and scoring: https://bureaucracy.news/2026/09/30/we-asked-america-gov-15-questions-it-did-surprisingly-well/ Curious how this holds up on ordinary citizen questions versus research questions. Night one is not a full eval."
+    },
+    {
+      "title": "Gemini 4 Argon Releases",
+      "author": "kairosdev",
+      "url": "https://www.reddit.com/r/artificial/comments/1wufw1f/gemini_4_argon_releases/",
+      "published": 1790800115.0,
+      "thumbnail": "https://preview.redd.it/86z9vy55wpsh1.jpeg?width=640&crop=smart&auto=webp&s=4c440524b1cf009b952926360fe2f76a334febc1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/",
+      "published": 1790796416.0,
+      "thumbnail": "https://external-preview.redd.it/QxT5gUiZS3C1lnFuJuBKlvxJIRnJijVsZm7cwf7HwcY.jpeg?width=640&crop=smart&auto=webp&s=579b6b8581f1e4180e90cea8586ded08bdd0e84c",
+      "external_url": "https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies",
+      "site_name": "The New Republic",
+      "favicon": "https://assets.newrepublic.com/assets/favicons/apple-touch-icon-57x57.png",
+      "description": "Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies."
+    },
+    {
+      "title": "is the AI product flood actually a bubble, or just the messy part of a wave that ends up mattering?",
+      "author": "FrancescoMassa2001",
+      "url": "https://www.reddit.com/r/artificial/comments/1wub96q/is_the_ai_product_flood_actually_a_bubble_or_just/",
+      "published": 1790789598.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been watching the launch cadence lately and something feels off. Every week there's a new model, a new agent framework, a new thing that claims to change everything. Most of it is rough, half-baked, or solves a problem that didn't exist six months ago. As someone trying to build a small SaaS project without drowning in tooling choices, the noise is actively worse than the scarcity we had before. What I keep coming back to is whether this oversupply of barely-differentiated products is actually how tech waves work. The internet bubble looked stupid in retrospect but the infrastructure built during it turned out to matter. Same with mobile. Maybe the current mess of AI wrappers and thin agents is the equivalent of Pets.com. Useful in the sense that it trains people, builds pipes, burns through capital that would otherwise sit idle. The part that bugs me is the opportunity cost for people building with this stuff. Picking the wrong stack because of hype is a real tax on small projects. I've killed two side project ideas after realizing the foundation I chose was already deprecated. That didn't happen with older tech in the same way."
+    },
+    {
+      "title": "BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+      "author": "nleksan",
+      "url": "https://www.reddit.com/r/artificial/comments/1wu0f51/bbc_openai_agents_get_rebrand_as_dots_while/",
+      "published": 1790760546.0,
+      "thumbnail": "https://external-preview.redd.it/l3i3Ex0aU4Mxxs4GTC4OZ1YB8w48OIN4r3pQmugkG8s.jpeg?width=640&crop=smart&auto=webp&s=950225617e7a042ae6dcc62594a41cf1f6122bc5",
+      "external_url": "https://www.bbc.com/news/articles/cw7v42rp083eo",
+      "site_name": "bbc.com",
+      "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260922-091849-a8520cb5b4-web-3.22.0-3/apple-touch-icon.png",
+      "description": "\"OpenAI has given a new name its updated versions of artificial intelligence tools which are widely known as agents, calling them \"dots\" instead Chief executive Sam Altman referred to \"dots\" as \"remarkably capable, always-on agents that can handle really anything you can think of.\" OpenAI in recent months has come under intense scrutiny as internal tests of its AI agents have revealed often unexpected and occasionally harmful actions, leading to more public and government fears. Dots, however, were pitched as brightly coloured cute cartoons meant to function as digital assistants for people with busy lives. The dots, Altman said, \"can handle really anything you can think of.\" ...\""
+    },
+    {
+      "title": "Trump\u2019s FTC is investigating OpenAI and Anthropic one day after bringing them to the White House",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1wueve6/trumps_ftc_is_investigating_openai_and_anthropic/",
+      "published": 1790797736.0,
+      "thumbnail": "https://external-preview.redd.it/YTelaulc5ra6finH4t76W5PYHYkJegLeIDfHQiBofzA.jpeg?width=640&crop=smart&auto=webp&s=6a3664776754167fafc8a914674988c55461e2f1",
+      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-ftc-anthropic-openai-investigation-b3059319.html",
+      "site_name": "The Independent",
+      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "Federal investigators will determine if tech firms are harming Americans with products that the president companies to regulate themselves"
+    },
+    {
+      "title": "Do you think we'll ever have local models on the level of Astra, Fable and Opus?",
+      "author": "Dogbold",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtyhhk/do_you_think_well_ever_have_local_models_on_the/",
+      "published": 1790752914.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Specifically with their ability to use Blender and other creation tools and make games for you on that same level, while taking control of your computer, creating files and running commands and such with all you needing to do is just asking it to make it. Will we ever get this? If we do, do you think it will be feasible without spending an insane amount of money on hardware to run it? Asking because I'm tired of how filtered these are and how much they refuse. Like I would very much like to ask Opus \"hey remake Rayman 2 for n64 for me and create new levels\" but I can't, because it will say \"that is copyright infringement and violation of licenses so I cannot\"."
     }
   ],
-  "fetched_at": "2026-09-30T16:41:11.172638+00:00"
+  "fetched_at": "2026-09-30T21:14:56.306257+00:00"
 }

@@ -5,12 +5,72 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
+      "headline": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5",
+      "pub_date": 1790798408.0,
+      "article_url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+      "description": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements."
+    },
+    {
+      "headline": "Google announces Gemini 4 Argon AI model, but you can\u2019t use it yet",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFNNRlptWHlSNi1vaXpwUmhmQ3B2T3ZJMlpuUmFaTkFrWjNNM3VYZ3ZwRW02TmFNYmNOOTcweUJ6aXlxc3M0RW9mdkkxRVJ2amg1VjE5SDVUYWdwU3VzcW5xQnZ4cFprUWdjUW9EZnduUjhMNjl2cmsyZ0RCcUtJWXJFMENsZFhpNzMyQWhrMU1WRVRocnp5VmlienRfZVBlYll0QnEtbw?oc=5",
+      "pub_date": 1790799068.0,
+      "article_url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+      "description": "So much for Gemini 3.5 Pro."
+    },
+    {
+      "headline": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
-      "pub_date": 1790726988.0,
-      "article_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5",
+      "pub_date": 1790799873.0,
+      "article_url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How Seating at Trump\u2019s A.I. Luncheon Reveals Who Has the President\u2019s Ear",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWi1Wa3ZpZlZKR0tiZWZDeVRXX2tUeFJUT0plSXhYdHhFV1lVMEdsR3hjdWJzemJuRV9UY0ZZNVVYR3ZOeW5CMEw3ZXpuckZuUUV3dWJRZUhob2VHUVh1MXVJNEg1ZDZKRUc0VXNlU1dITjdKSUx1QkNmRXlnT1ZlcW5lZ1NKVGE1?oc=5",
+      "pub_date": 1790728210.0,
+      "article_url": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robinhood launches AI trading agents and 24/7 market expansion",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjd2VfakJ2SS1ZcjM5V1J1Yy1jZUxsSXd1SUxleFBVdVFVdFpyNGxka0J3LWF5b3ZCMGVQb0t4U2hsb3VQMXhEWGk3OW9wdi1UVTJWMHpoSXQ5YW8?oc=5",
+      "pub_date": 1790800665.0,
+      "article_url": "https://www.foxbusiness.com/video/6405980306112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eeadcbba-942a-4004-927d-964f0412a3e5/264c0045-5815-4982-a489-298763383d84/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Robinhood Chairman and CEO Vlad Tenev discusses the company's new AI trading agents, the expansion of 24/7 trading for native equities, and the future of retail investing, on 'Making Money.'"
+    },
+    {
+      "headline": "McDonald's is spending $8.5 billion to put an AI called Archy in drive-thrus \u2014 even after its first attempt failed",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnluWFBKODVWZ2w0Nk12QzhSenVERUJoZHB3UVRRRDhaNTY0eVNZZE55WFk1SUZ5MXItcmlmcHJDc3AzLVJwTlg3bXRsLUQ2YXhsZmNNRzBHN29jQXlSem9VNV82TWFXc3ZwemhZY2pzQ0ZkbmpCUUJOWFR6NjNaeU03TjJpRVFRNzNpenVLSmpqOEQ2NXM1ZnJB?oc=5",
+      "pub_date": 1790782200.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/mcdonalds-spending-8-5-billion-153000377.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/10ed8c413321a9c6004f15311a102205dcb7542c2eecefad23dd68f59475a969/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fc76a5b33a0ef1f5305e37af5f7d37d33.jpg",
+      "description": "McDonald\u2019s is going back for seconds after its first AI tool rollout failed."
+    },
+    {
+      "headline": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZwUGZ4TTFCRnpDakw1allVVXl4QnJCZVlCV2JMeXZMVWNmZzNPd0VrN2ZLeEM1Zk56WDZydVlHX0U4U05EQ1dRbUtJMk0zUGVLTmlUbHFIcjRZZFdzNjcyZTZCeHRRVlU4WS1nVFd5d2JMLUwzQndqVVFhQ2ZObjJEQ3hHMUpvWi1jT21ZV0hWcGRibjZxVXoxTjB2cFpDTjBRWXc5c0hsMksyQ1NKa3Q5TTNzZw?oc=5",
+      "pub_date": 1790788678.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/openai-blames-moonshot-for-mass-data-extraction-on-its-ai-models",
       "image": null,
       "description": null
     },
@@ -25,86 +85,26 @@
       "description": null
     },
     {
-      "headline": "Google figures out how to watermark AI-designed proteins",
-      "source": "arstechnica.com",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGhaQ2p0eFQ4eG0tMU9CNlZSYlV4elpQbW90VkJRMGI5MG5vd3V6SUhweVNRdEt0X002RXRLcUJwNUJFak5vM2VKNUowVE5pR2w5R24zaXROcEdjVzl2YVdpdDhsQW5QLVVmUGN6eFRpMGhGemdWZlpNamdyQmVoWkx2Q2NxUzFFVEl2cGstU1hGZk53eDE0VnA5a3cwQQ?oc=5",
-      "pub_date": 1790783692.0,
-      "article_url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg",
-      "description": "Intended to help with biosecurity, it works with a popular AI protein design tool."
+      "headline": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
+      "pub_date": 1790795143.0,
+      "article_url": "https://www.nbcnews.com/politics/congress/openai-ceo-sam-altman-skip-congressional-hearing-rogue-ai-agents-rcna600707",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260930-Josh-Hawley-ch-1227-030cc2.jpg",
+      "description": "Sen. Josh Hawley, R-Mo., said it is \u201cunfortunate\u201d that Altman and his company will not participate in Wednesday\u2019s hearing but said the company will provide written answers."
     },
     {
-      "headline": "Elon Musk weighs in on AI changing jobs and skilled trade workers in data centers",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4MFJKcU1pSlVYenVwTXRfMklfU2xHN0Jld1g4MW9sVTZjUDJZbDI4anRBUU56dWE1N2VpU3pfUDVnODJDUUhjZkJyWEtoaUQ4X1JPYXpzbFVGOUU?oc=5",
-      "pub_date": 1790783942.0,
-      "article_url": "https://www.foxbusiness.com/video/6405966806112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8ed1e131-3f9b-46be-a838-38bd0a6ef4ae/71c3c7fa-ec61-4036-8535-eac5b0d0b48e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "mikeroweWORKS Foundation CEO Mike Rowe discusses how AI will change jobs after hearing from Tesla CEO Elon Musk. Rowe says that many skilled trade workers in data centers make six figures or more."
-    },
-    {
-      "headline": "The AI Doomsday Circus: Don\u2019t \u201cStep Right Up!\u201d",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYW1YLTMyemtCSnVzOGZBc05yZGR3eUg0M3RWdFcyV3VFLTFHd3JzLXA0LWpzUEphMlh6Vk1ySmdCQy13S3FhZVBVZzdMcmhIQnJzd1YtM2Y1NFg2bjBub0czVEYxREFCZ0JRZ0xNQWJVQ3lrSUxnN0VHOEpWOHVuMkpKNlVYbG43bDRHZEIyN1poOTRkRTBn?oc=5",
-      "pub_date": 1790785629.0,
-      "article_url": "https://www.forbes.com/sites/forrester/2026/09/30/the-ai-doomsday-circus-dont-step-right-up/",
+      "headline": "OpenAI Ignored Employees\u2019 Warnings About Safely Testing A.I. Models",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5",
+      "pub_date": 1790700951.0,
+      "article_url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFg5YkdNZjdVWDAtTDFqVkkzVGpkRm5GdTRhdkFsbEo3MlpXdVVTejVqYUJ1MGZlMjlZNGJxWjFVWkc1b0pUbjBlZDhETzY4M2FqUENhNk91d3V1dUpMam5Mb2F4bDFoUWdaWC03bmM0SGMzV05qTkVFdlg2YjNFRmdCU2o5XzlyQWhCS2lfMGpHVHlVVlB1REZtQThsYnQyOU9xc3REaDVxMmd1Z0xEaVBvR3VnMEFmOFlJQjNsczdzcFFqOHRMUtIBzgFBVV95cUxNSDRkUjZ0Z0Zrem1RX1NCVG93NWxfdjhhZ2Rqdi1qR3N6djZaVzh1VEhHRVU5MFhtY0hKQ1F5OEFWYnhkYWNBNUVnWHhGcUo1NjR4Y1Yxa0x5SnhYQ05Pck1mRjd3YkhmeEFWMmxpLThtTUxnUjFaelEybVU2dWQwbENROHJRcnJJV2xCOTNpUktYYktlZHczVHZ6dy03VGNKQlBxT1JaTkl2WVFIZG8ycGFoUHhGRGZVX1czeUpDYVd5bHRhZGdJLVFtV1RtUQ?oc=5",
-      "pub_date": 1790733120.0,
-      "article_url": "https://www.foxbusiness.com/politics/trump-signs-executive-order-rebranding-ai-super-intelligence-tech-titans-ink-separate-accord",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/donald-trump-at-unga.jpg?ve=1&tl=1",
-      "description": "The order follows a White House summit with top tech executives and directs federal agencies to use \"Super Intelligence\" and \"SI\" in official communications."
-    },
-    {
-      "headline": "McDonald's is spending $8.5 billion to put an AI called Archy in drive-thrus \u2014 even after its first attempt failed",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnluWFBKODVWZ2w0Nk12QzhSenVERUJoZHB3UVRRRDhaNTY0eVNZZE55WFk1SUZ5MXItcmlmcHJDc3AzLVJwTlg3bXRsLUQ2YXhsZmNNRzBHN29jQXlSem9VNV82TWFXc3ZwemhZY2pzQ0ZkbmpCUUJOWFR6NjNaeU03TjJpRVFRNzNpenVLSmpqOEQ2NXM1ZnJB?oc=5",
-      "pub_date": 1790782200.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/mcdonalds-spending-8-5-billion-153000377.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/10ed8c413321a9c6004f15311a102205dcb7542c2eecefad23dd68f59475a969/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fc76a5b33a0ef1f5305e37af5f7d37d33.jpg",
-      "description": "McDonald\u2019s is going back for seconds after its first AI tool rollout failed."
-    },
-    {
-      "headline": "Introducing dots",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "pub_date": 1790634237.0,
-      "article_url": "https://openai.com/index/introducing-dots/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&h=900&fit=fill",
-      "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
-    },
-    {
-      "headline": "OpenAI takes on Meta with dots agent in autonomous AI push",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
-      "pub_date": 1790702220.0,
-      "article_url": "https://www.reuters.com/business/openai-takes-meta-with-always-on-dots-agent-enterprise-ai-push-2026-09-29/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI launches Dots, its Muse competitor",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0N5Mll5RW5nUUlTMjNkSHpzZk5uZTdHLXNydVpfdUFsWmh2RDZCRlN4VVZVcFh4SDJwYTVyMnB4eTVHRmQ1ejhUcU5waHVzSFpnV3d6ZDZkdk11aWVhaE5WT2lvSkFzTXFFb3I4VE1mME5rd3pqb2xFRUZ0bnM0d1lycU1pem1yX2Y1RWJnd3o3a0cyWTQ3T293?oc=5",
-      "pub_date": 1790702100.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "description": "Dots are OpenAI\u2019s answer to Meta\u2019s Muse."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-30T16:41:31.001510+00:00"
+  "fetched_at": "2026-09-30T21:15:25.378846+00:00"
 }
