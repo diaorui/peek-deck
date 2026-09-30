@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-30T10:39:54.634417+00:00'
+updated: '2026-09-30T16:41:36.915677+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 30, 2026 at 10:39 UTC  
+**Last Updated:** September 30, 2026 at 16:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A duck project built with an Uno Q and Feetech servos—what do you guys think?](https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 **[Free Livestream for ROSCon Global 2026 in Toronto](https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/)**
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 5d ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 6d ago
 
 ---
 
@@ -80,7 +80,7 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-5d ago
+6d ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning.
 
-BBC • 13h ago
+BBC • 19h ago
 
 ---
 
@@ -120,21 +120,21 @@ BBC • 13h ago
 
 The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations.
 
-U.S. Department of War (.gov) • 15h ago
+U.S. Department of War (.gov) • 21h ago
+
+---
+
+**[NASA wants to send humanoid robots to the moon](https://www.popsci.com/science/nasa-humanoid-robots-moon/)**
+
+Don't worry. Actual astronauts aren't out of a job.
+
+Popular Science • 40m ago
 
 ---
 
 **[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
 
-Forbes • 19h ago
-
----
-
-**[Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents](https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/)**
-
-Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation.
-
-The Robot Report • 20h ago
+Forbes • 1d ago
 
 ---
 
@@ -150,31 +150,29 @@ Euronews.com • 1d ago
 
 At Chimelong Spaceship Park in Zhuhai, more than 300 AgiBot robots play table tennis, perform martial arts, give directions, and greet hotel guests.
 
-fastcompany.com • 1d ago
+Fast Company • 1d ago
 
 ---
 
-**[World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers](https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/)**
+**[Soccer-playing humanoid robots score a major robotics goal for coordination](https://techxplore.com/news/2026-09-soccer-playing-humanoid-robots-score.html)**
 
-While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of
-
-TribLIVE.com • 1d ago
+Tech Xplore • 3h ago
 
 ---
 
-**[Boston Dynamics Begins Robotics Testing at Hyundai Metaplant](https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant)**
+**[Reliable Robots: Meet Johnson’s Dexterous Robotics Team](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)**
 
-ELLABELL, GA—Boston Dynamics has opened a new robotics center at Hyundai Motor Group’s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker’s operations.
+The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions
 
-Assembly Magazine • 2d ago
+NASA (.gov) • 2d ago
 
 ---
 
-**[Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)](https://www.engadget.com/2266933/humanoid-robot-cries-on-command/)**
+**[Elon Musk Wants To Build 20,000 Optimus Robots A Week. There's Just One Problem, Tesla Still Can't Get The Hands To Work](https://247wallst.com/investing/2026/09/29/elon-musk-wants-to-build-20000-optimus-robots-a-week-theres-just-one-problem-tesla-still-cant-get-the-hands-to-work/)**
 
-Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
+Tesla is racing toward a production goal that sounds like science fiction, but a single component smaller than your palm is quietly derailing the entire timeline. The gap between Elon Musk's ambitions and what the factory floor can actually deliver has never been wider.
 
-Engadget • 2d ago
+247wallst.com • 1d ago
 
 ---
 
@@ -190,13 +188,23 @@ Business Insider • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+
+📺 Boston Dynamics
+
+👁️ 156K • 👍 4K • 💬 512 • ⏱️ 5:49 • 8h ago
+
+---
+
 **[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
 
 A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
 
 📺 DW News
 
-👁️ 142K • 👍 603 • 💬 233 • ⏱️ 3:46 • 1d ago
+👁️ 146K • 👍 618 • 💬 236 • ⏱️ 3:46 • 1d ago
 
 ---
 
@@ -206,27 +214,17 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 1.0M • 👍 5K • 💬 327 • ⏱️ 25:31 • 4d ago
+👁️ 1.1M • 👍 5K • 💬 349 • ⏱️ 25:31 • 4d ago
 
 ---
 
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
 
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
 
-📺 Mark Dice
+📺 Future Files
 
-👁️ 626K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
-
----
-
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
-
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
-
-📺 MindSeeded
-
-👁️ 92K • 👍 4K • 💬 290 • ⏱️ 13:48 • 5d ago
+👁️ 491K • 👍 3K • 💬 99 • ⏱️ 24:25 • 4d ago
 
 ---
 
@@ -236,7 +234,37 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 800K • 👍 8K • 💬 648 • ⏱️ 1:00 • 5d ago
+👁️ 821K • 👍 8K • 💬 663 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+
+📺 MindSeeded
+
+👁️ 93K • 👍 4K • 💬 292 • ⏱️ 13:48 • 6d ago
+
+---
+
+**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+
+Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+
+📺 Hyundai Motor Group
+
+👁️ 64K • 👍 29 • 💬 3 • ⏱️ 5:49 • 8h ago
+
+---
+
+**[Can a robot clean your house better than a human?](https://www.youtube.com/watch?v=99EEQk9BG4U)**
+
+A San Francisco-based robotics company is betting humanoid robots can succeed where automation has previously struggled: ...
+
+📺 Reuters
+
+👁️ 4K • 👍 31 • 💬 15 • ⏱️ 1:54 • 1d ago
 
 ---
 
@@ -246,47 +274,17 @@ Elon Musk has made a staggering prediction about the future of humanoid robots a
 
 📺 ejunky66
 
-👁️ 190K • 👍 3K • 💬 269 • ⏱️ 1:00 • 4d ago
+👁️ 205K • 👍 3K • 💬 279 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[LEGO Combiner Mech: Combining Every Sprunki Character into a Robot! | Bricks UP](https://www.youtube.com/watch?v=ZWJvuuSzOkc)**
+**[My Indra Took On 3 Titans At Once?! 🤯 (Black Market Opening) - War Robots](https://www.youtube.com/watch?v=BX-2ukHAHd0)**
 
-LEGO Combiner Mech: Combining Every Sprunki Character into a Robot! Get ready for an epic musical-horror mechanical ...
+In this video, we open up our saved Black Market chests on the Baby Account. After the chest opening, we jump straight into ...
 
-📺 Bricks UP
+📺 Adrian Chong
 
-👁️ 200K • 👍 3K • 💬 6 • ⏱️ 1:03:47 • 4d ago
-
----
-
-**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
-
-Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
-
-📺 ejunky66
-
-👁️ 129K • 👍 1K • 💬 133 • ⏱️ 1:00 • 2d ago
-
----
-
-**[Robot jumps into ATTACK MODE after being pushed by customer #shorts #foxnews #world](https://www.youtube.com/watch?v=6DKp4fwYuqk)**
-
-WATCH: A store robot appears ready to throw hands after a customer gives it a shove in Russia. Security video from the store ...
-
-📺 Fox News
-
-👁️ 406K • 👍 7K • 💬 2K • ⏱️ 0:27 • 6d ago
-
----
-
-**[Manned Mech Humanoid Robot Restoration | ASMR Rebuild](https://www.youtube.com/watch?v=Wk1zOA9ALGw)**
-
-An abandoned, heavily damaged manned mech humanoid robot is brought back to life through a complete restoration process.
-
-📺 ASMR Vehicle Restoration Hub
-
-👁️ 84K • 👍 255 • 💬 14 • ⏱️ 11:46 • 5d ago
+👁️ 9K • 👍 212 • 💬 50 • ⏱️ 15:57 • 1d ago
 
 ---
 
