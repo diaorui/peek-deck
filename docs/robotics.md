@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-29T23:53:40.516008+00:00'
+updated: '2026-09-30T04:21:36.378059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 29, 2026 at 23:53 UTC  
+**Last Updated:** September 30, 2026 at 04:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We’ve been playing hide and seek with Éloi. When it sees you, the eyes and ne
 
 I’m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It’ll be a 1-hour session, and we’ll have WATO joining us to share their experience designing and building humanoid robots. There’ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e
 
-5d ago
+6d ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Georgia Tech professor Animesh Garg is joining German robotics startup Microagi with seven members of his research group.
 
-Business Insider • 14h ago
+Business Insider • 19h ago
 
 ---
 
@@ -124,25 +124,25 @@ The Information • 1d ago
 
 ---
 
-**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
-
-Forbes • 8h ago
-
----
-
 **[Would you pay for this robot to clean your house?](https://www.bbc.com/news/videos/c6lyq52wx7dko)**
 
 Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning.
 
-BBC • 3h ago
+BBC • 7h ago
 
 ---
 
-**[Five million robots now work in factories as humanoid hype is tested](https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check)**
+**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
 
-Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines.
+Forbes • 13h ago
 
-Euronews.com • 19h ago
+---
+
+**[Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents](https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/)**
+
+Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation.
+
+The Robot Report • 14h ago
 
 ---
 
@@ -150,7 +150,7 @@ Euronews.com • 19h ago
 
 Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
 
-defensenews.com • 9h ago
+Defense News • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Barchart.com • 1d ago
 
 Robots are moving out of laboratories and exhibition halls and into shopping malls and commercial streets across China. As more Chinese robotics companies open brick and mortar stores, ordinary consumers can now not only see and interact with robots up close, but even buy them directly.
 
-Global Times • 8h ago
+Global Times • 13h ago
 
 ---
 
@@ -172,7 +172,7 @@ Global Times • 8h ago
 
 MIT engineers developed a soft robot that can flap through water in response to flashes of light. The aquabot is lined with muscle cells that twitch when illuminated, enabling the robot to swim a distance of about four times its body length in one minute.
 
-MIT News • 19h ago
+MIT News • 1d ago
 
 ---
 
@@ -194,37 +194,7 @@ A humanoid robot store in Hong Kong offers a glimpse of the future—and a remin
 
 📺 DW News
 
-👁️ 130K • 👍 563 • 💬 235 • ⏱️ 3:46 • 20h ago
-
----
-
-**[A robot rolls off assembly line every 2.5 minutes](https://www.youtube.com/watch?v=PwI4n58b7z0)**
-
-Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: the Q1 and the T1. Take a look at the ...
-
-📺 New China TV
-
-👁️ 67K • 👍 36 • 💬 8 • ⏱️ 0:24 • 6d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
-
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
-
-📺 Innovation Core
-
-👁️ 121K • 👍 886 • 💬 99 • ⏱️ 21:02 • 1d ago
-
----
-
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
-
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
-
-📺 World Best Talent
-
-👁️ 853K • 👍 4K • 💬 286 • ⏱️ 25:31 • 3d ago
+👁️ 137K • 👍 587 • 💬 228 • ⏱️ 3:46 • 1d ago
 
 ---
 
@@ -234,27 +204,27 @@ Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A 
 
 📺 Mark Dice
 
-👁️ 624K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
+👁️ 625K • 👍 18K • 💬 5K • ⏱️ 19:23 • 6d ago
 
 ---
 
-**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
+**[China&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
 
-The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
+Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
 
-📺 Future Files
+📺 Prime Insights
 
-👁️ 321K • 👍 2K • 💬 64 • ⏱️ 24:25 • 3d ago
+👁️ 500K • 👍 4K • 💬 265 • ⏱️ 26:57 • 5d ago
 
 ---
 
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
-📺 America's Got Talent
+📺 World Best Talent
 
-👁️ 762K • 👍 6K • 💬 713 • ⏱️ 4:18 • 6d ago
+👁️ 927K • 👍 5K • 💬 297 • ⏱️ 25:31 • 4d ago
 
 ---
 
@@ -264,7 +234,27 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 91K • 👍 4K • 💬 288 • ⏱️ 13:48 • 5d ago
+👁️ 91K • 👍 4K • 💬 289 • ⏱️ 13:48 • 5d ago
+
+---
+
+**[Manned Mech Humanoid Robot Restoration | ASMR Rebuild](https://www.youtube.com/watch?v=Wk1zOA9ALGw)**
+
+An abandoned, heavily damaged manned mech humanoid robot is brought back to life through a complete restoration process.
+
+📺 ASMR Vehicle Restoration Hub
+
+👁️ 79K • 👍 249 • 💬 14 • ⏱️ 11:46 • 5d ago
+
+---
+
+**[Optimus Gen 3 AI Robot Is Way More Insane Than Expected](https://www.youtube.com/watch?v=nOVgM-C8Yy0)**
+
+Tesla Optimus Gen 3 may have just leaked inside Tesla's own app, revealing a dramatically more finished gold-and-black design ...
+
+📺 MACHINEKIND
+
+👁️ 5K • 👍 56 • 💬 4 • ⏱️ 13:03 • 1d ago
 
 ---
 
@@ -274,17 +264,27 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 758K • 👍 8K • 💬 618 • ⏱️ 1:00 • 5d ago
+👁️ 776K • 👍 8K • 💬 629 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
 
-📺 Julia McCoy
+📺 ejunky66
 
-👁️ 15K • 👍 275 • 💬 34 • ⏱️ 6:10 • 4d ago
+👁️ 123K • 👍 1K • 💬 127 • ⏱️ 1:00 • 2d ago
+
+---
+
+**[Building a Robot to avoid getting a real Job](https://www.youtube.com/watch?v=wsSH07eY9OQ)**
+
+Download Opera: https://opr.as/Opera-browser-tazerengineering Extra videos on Patreon: ...
+
+📺 Tazer
+
+👁️ 253K • 👍 6K • 💬 285 • ⏱️ 24:10 • 6d ago
 
 ---
 

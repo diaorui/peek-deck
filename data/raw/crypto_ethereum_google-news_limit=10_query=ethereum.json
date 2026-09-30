@@ -5,24 +5,54 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Will Ethereum Hit $4,000 Before the End of 2026?",
+      "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2tjc0dmR0tPUms2bXg1R1NETHVEc21kQW1ZSFo0U0t0OXFfREt5SjIyVnpjNWN4UDN4bHo3QlJ0SDVDaDRjU1BvZTZ5TzBSTEJNazdZZ0VFSzZFMTl1bUswamRzVUxJN0V0LUNDdmd0bU13NUJKYVFBODMxaTlHUmpuMVlYOXk4VU9pYkNuWmx0WnFYaF9xM3BzbmxRQU03ZVNQcVlGRQ?oc=5",
-      "pub_date": 1790611200.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/28/will-ethereum-hit-4000-before-the-end-of-2026/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-1977165767-huge-licensed-scaled.jpg",
-      "description": "Ethereum needs a 48% rise in about three months to hit $4,000. Can Ethereum reach $4,000 before 2026 ends, or is the rally slowing?"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjZzemhVaUlTeHlnaVNPNHh4X1FWQVJTWF9ncENJSEhTTWF2U0xSY0gzSWxXaGJZTzZwSlRHWjlJWl84S3pKaDZzanJMQkZ3SHZfN19SSjRXV2F1WW1UdVZPVk1QQXk0UFU5d3VaRjUzejF0NGdGTlRYS2NNcVZ6ZFBVMXg2OHN0S0MyRnhIQ3BTcnFqalVSeWhuZFdUYURidWJmQTZmZG1SbVZmUzlNeW91QkZ4NWFXc2FzMzJn?oc=5",
+      "pub_date": 1790719800.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/",
+      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1406692748-huge-licensed-scaled.jpg",
+      "description": "Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?"
     },
     {
-      "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUVwZ1VLRDlFeGFkTW0wRmFlZnF4VVl2dzlNbGdqQXJ2Z29oRWo5YVRmbHJuMl9LYi02NjJ0V3dyUFE0RUR1cnNhZ2h4dkhfYm1TZTUxNTlnYzRPbWN2S1VUS0ZnN2dvVVdDMHl1UlpuS180ZHdYeTR6RnYyckZLeW5ZVnlKRGEya0hXUHZhU3I3R2dNazJvMWNCMHhiaW5j?oc=5",
-      "pub_date": 1790719818.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cardano-vs-ethereum-smart-contract-221018289.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6e1229c492a38cb6413ebf394714958cf4ca6a4552d2b1ec1e83ed8bd6b4d099/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F862706fa806a63d032fe8330ce15d145.jpg",
-      "description": "Cardano has surged faster than Ethereum recently, yet Ethereum dwarfs it by nearly every measure that matters for long-term growth. One of these platforms looks far stronger heading into 2030, and the reasoning may surprise crypto bulls on both sides."
+      "headline": "Glamsterdam Testnet Announcement",
+      "source": "blog.ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HZzBYRkgtUGJSMnFGTUM1S21jazdWdk9aQzhKRl9TVTVRMElVNzVrWGZaWkQ3WFZkOXRxaXhHZlRsaXRpSTNvSDFPNkh4dmpuckdyM3A0VzFOOS1uSElLSWYtSnJTdTl3MmtvUG5qbHZ2Q1ZCdnJORw?oc=5",
+      "pub_date": 1790639109.0,
+      "article_url": "https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement",
+      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+      "description": "Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and..."
+    },
+    {
+      "headline": "1 Popular Cryptocurrency to Buy Before It Soars by 9,159%, According to Bitmine's Tom Lee",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFJCVmQ2cUJURlhPUXlRVXJ2Q3p5Rk9BbzJFNWt0ZFhSWlhuNmRLMjRqbnBwWDZiVHJkbWNKRTBOV3NyaVplblc1bnRhRS1FckNxbGZPM2FPRXc4dTBGWllzTllGMXdua0tveGFvRTllZlRrem5Gd180NUg0M0E5NnpySk4yb0N4VW1LdGpHcDFNcUlwNWc?oc=5",
+      "pub_date": 1790509800.0,
+      "article_url": "https://www.fool.com/investing/2026/09/27/1-cryptocurrency-buy-soars-9159-bitmines-tom-lee/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888811%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
+      "description": "Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency."
+    },
+    {
+      "headline": "Bitmine Continues to Load Up on Ethereum, Now Owns 4.9% of all ETH in Circulation. Is BMNR Stock a Buy?",
+      "source": "Currently.com",
+      "source_url": "https://currently.att.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVURFWW1BeEdFaURvQWhId1Ytb0hobmE4YWJGbkZ5NXBhRFd5U1BCeFNEOGZtY0xIbmlUZ2lFbmFGRjRGQlhxc3laRWxZQUM3dHBDdVVUeWpBdE9IYmZHalNfM3Vxd0dsZ3ZoUzZzVWtYN0wweTBsbWNkXzRBekNEYVlybl9BVE1TWkJjQTlKOA?oc=5",
+      "pub_date": 1790702401.0,
+      "article_url": "https://currently.att.yahoo.com/att/bitmine-continues-load-ethereum-now-172001755.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/119905be300e81cf774a8a635c8b04df7dce5af5fb0feeee328d0ff824200174/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6fe08409ab84b6e60d96b1e8d5adbc16.jpg",
+      "description": "Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world."
+    },
+    {
+      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach over 6 Million Tokens with Total Crypto, Cash & Marketable Securities Holdings of $17.2 Billion",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQcXpzNTJJTzJjYUYwMkRHNW9UMWgyZDNNVFlUbm5XakVhSWk0elY0anl4SkdGWE1wMFJaMV9ubzh6cHBHMVhRem1CLUM0alZndW1GNmRJSEplSUh6bTZHT1Rma3g2X2xieTRrU01MMWJsQVFqaVRCRXJmeGZRZmxkMFFScTYtSG1PMk16VURhZEloZDR1YUVtTUF6YUMtQ0YtQ2YteE1CaDVRQmZJT0N3ZTFKYXVSWVEzV2pxM0RnTG42RTYzUV9zcTNYMzRhMGJhbXRkZUhZUXNOSlJBMllkZHlYS0FPUTBXV0FyRWFJdzlYQUNkeTBJTmsxR0JIRmxQanNFR3QxNm1iNldQeGNPX21hWnVUZ0diNVhJNWU2YmtXaEs2d1NHeWVUS0tlTmFJcW1IRm9PSm8?oc=5",
+      "pub_date": 1790598600.0,
+      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-over-6-million-tokens-with-total-crypto-cash--marketable-securities-holdings-of-17-2-billion-302891056.html",
+      "image": "https://mmx.prnewswire.com/media/MS1997054/1.jpg?id=OA2972673&p=facebook",
+      "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing..."
     },
     {
       "headline": "These Cryptocurrencies Have Become Wall Street Favorites and Deserve a Place in Your Portfolio",
@@ -45,6 +75,16 @@
       "description": "The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible."
     },
     {
+      "headline": "'It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGZrM1VESWdlby1QcXp1enJXbmwyX1l5RG9oT3d6YmVCN3JxVHprS1dOSW9SdVQyWUZvbUp2N2QyLXRqZVF6UFJxZ0R6UjhldFhnSm85bWxXYlJvN0JZcFRBUDkySlBiM3JnU2JRcTQ5MHJBU0xJZ3JFeWMyUTAtclRIR3JLeFNyY3ltQXlIVldpdWtlbG1WR3hNd1JXVTdzOXRnaEx1UkRBS3NRNFN2M2k1TG5yaDNwbmtRV1pYV2djQ192NzdETm5BTEZ1MURSejh3ZjEycWd0dw?oc=5",
+      "pub_date": 1790519753.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News_2.jpg",
+      "description": "The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over."
+    },
+    {
       "headline": "The cryptographic world computer",
       "source": "Vitalik Buterin's website",
       "source_url": "https://vitalik.eth.limo",
@@ -55,56 +95,16 @@
       "description": null
     },
     {
-      "headline": "Glamsterdam Testnet Announcement",
-      "source": "blog.ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HZzBYRkgtUGJSMnFGTUM1S21jazdWdk9aQzhKRl9TVTVRMElVNzVrWGZaWkQ3WFZkOXRxaXhHZlRsaXRpSTNvSDFPNkh4dmpuckdyM3A0VzFOOS1uSElLSWYtSnJTdTl3MmtvUG5qbHZ2Q1ZCdnJORw?oc=5",
-      "pub_date": 1790639109.0,
-      "article_url": "https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and..."
-    },
-    {
-      "headline": "Current price of Ethereum for Sept. 29, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hX0lOTVk2N1daeXZrd2ExdmJrbGVFMGdNRjc2RG9tRDM5NHNvTWRtd3prXzRTNEh5S1FfY1p2RW1vZnc4ZGxvZDluQXJlS3hUVERoV1NjazV5Sml6M1VoTHlnNHRTNGJ6?oc=5",
-      "pub_date": 1790709180.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-29-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-29.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVg4dDhZUU56MmdmOXVfSTM1REkwOXBpR1l4c00wNGNzWEVldnpZTTN4djBlU1pIYml4dHVfemZjaWtaRkk1NFZmQVl1RHdPNF9jVlZSSDJHODVzUGh3UEtLYlRUUTZUTTNwYU81emlCdTNGenFMWFJobXF0TXIzTkt3aVN1MWtqY2NUWlM5MUlQaDdiWDJ3cHRDZzl5d3M?oc=5",
-      "pub_date": 1790697600.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-      "description": "The wallet returns three years after its shutdown, now running on Aztec Network with private balances and transactions."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, Solana, and XRP spot ETFs all post net inflows on Sept. 28",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcTY3TmVEUXZheDJFdTRybEdfZGN5SlUyS0tVUk1yd1RqbEJHMnhScnJrVUp0Rm9VV1NnQXBGZXlkbEp5RE43TjRlQlIyMVM2QTM2RVB3Tmo0b3NMSmFrc2Q5V0xXemlaYjhqSjhGbTdBV2RPejdZdDZ5OUF2cjBCcUhjUTlEekREY005N210SlJKa2JYNjVyb3kxZjJ6VFNVZ0h3dGNUYzFhalhmSUtQVlYta0Q3TC1UVE12VzRQam5rai1NYnZvQUQ0MU93dVJWNGtSZA?oc=5",
-      "pub_date": 1790667388.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:4afb32594094b:0-bitcoin-ethereum-solana-and-xrp-spot-etfs-all-post-net-inflows-on-sept-28/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Every major crypto spot ETF had a good day on September 28. Bitcoin, Ethereum, Solana, and XRP products each recorded net inflows simultaneously, according to data from SoSoValue, bringing the day's combined total to roughly $65 million.Bitcoin ETFs led on the day with $31.07 million in net inflows\u2026"
-    },
-    {
-      "headline": "Tom Lee's Bitmine Buys Another $46 Million in Ethereum",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFdzSHBSN2k3NmNCazl3NFpWb202NFMxWEFMUWcteVVfenRORmM4SzRhVHRybGNsaDJBZ212NV84YUstRElCcEpSNUowb0JlcTY4UXlnTEJKM2NzOWxDT08xYVJ1RUMyaF9nMTNUQWZXMGJnc2YwaUpYdVdMRHJma3B3?oc=5",
-      "pub_date": 1790630220.0,
-      "article_url": "https://finance.yahoo.com/video/tom-lees-bitmine-buys-another-211700887.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bd800f01d304287a07a2bf0e88686cf948c5036302acc39fb0b9893653690e0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoinage_coop_399%2F4a91ed747ea292958c4db3a25f4bbae0.png",
-      "description": "Bitmine is closing in on its goal to obtain 5% of all outstanding Ethereum."
+      "headline": "ETH news: Ethereum may not be \u2018just a blockchain\u2019 in 2030, Vitalik Buterin says",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXdsa0haTGJZSGJUN3ZlTlQ0Z2NyUmZVQzhHWUhZMTcyZkI5VVEtZzNlWlJnQV9pdm12TGZKSml5cHlFX28yVmxHZmhoYmpCUVRtSzB4SVhOY1JLTm1RLWJPQmI0QXdBSnU2azJycG1QN1JNbk1aVS1KT3BxWWYxdnZpOGgtM0FwMzBfbjhTdUVEaTRTOWZyNzN3Q2JrQmt3TmNVcXE2WjVfN2VOYkZnUlI3ZjNHR0lUTjEzdi1Yaw?oc=5",
+      "pub_date": 1790519353.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T23:53:34.077606+00:00"
+  "fetched_at": "2026-09-30T04:21:18.012066+00:00"
 }
