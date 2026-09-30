@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 109209,
+      "github_stars": 109269,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89518,
+      "github_stars": 89560,
       "project_page": null
     },
     {
@@ -96,25 +96,6 @@
       "project_page": null
     },
     {
-      "id": "2605.23904",
-      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-      "authors": "Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)",
-      "organization_name": "MicrosoftResearch",
-      "organization_fullname": "Microsoft Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
-      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the first systematic controllable text-space optimizer for agent skills: a separate optimizer model turns scored rollouts into bounded add/delete/replace edits on a single skill document, and an edit is accepted only when it strictly improves a held-out validation score. A textual learning-rate budget, rejected-edit buffer, and epoch-wise slow/meta update make skill training stable while adding zero inference-time model calls at deployment. Across six benchmarks, seven target models, and three execution harnesses (direct chat, Codex, Claude Code), SkillOpt is best or tied on all 52 evaluated (model, benchmark, harness) cells and beats every per-cell competitor among human, one-shot LLM, Trace2Skill, TextGrad, GEPA, and EvoSkill skills. On GPT-5.5 it lifts the average no-skill accuracy by +23.5 points in direct chat, by +24.8 inside the Codex agentic loop, and by +19.1 inside Claude Code. Transfer experiments further show that optimized skill artifacts retain value when moved across model scales, between Codex and Claude Code execution environments, and to a nearby math benchmark without further optimization.",
-      "ai_summary": "SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.",
-      "hf_url": "https://huggingface.co/papers/2605.23904",
-      "arxiv_url": "https://arxiv.org/abs/2605.23904",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.23904.png",
-      "upvotes": 263,
-      "num_comments": 5,
-      "published_at": "2026-05-21T20:00:00.000Z",
-      "github_repo": "https://github.com/microsoft/SkillOpt",
-      "github_stars": 17847,
-      "project_page": "https://microsoft.github.io/SkillOpt/"
-    },
-    {
       "id": "2504.19413",
       "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
       "authors": "Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)",
@@ -134,6 +115,44 @@
       "project_page": "https://mem0.ai/research"
     },
     {
+      "id": "2605.23904",
+      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "authors": "Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)",
+      "organization_name": "MicrosoftResearch",
+      "organization_fullname": "Microsoft Research",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
+      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the first systematic controllable text-space optimizer for agent skills: a separate optimizer model turns scored rollouts into bounded add/delete/replace edits on a single skill document, and an edit is accepted only when it strictly improves a held-out validation score. A textual learning-rate budget, rejected-edit buffer, and epoch-wise slow/meta update make skill training stable while adding zero inference-time model calls at deployment. Across six benchmarks, seven target models, and three execution harnesses (direct chat, Codex, Claude Code), SkillOpt is best or tied on all 52 evaluated (model, benchmark, harness) cells and beats every per-cell competitor among human, one-shot LLM, Trace2Skill, TextGrad, GEPA, and EvoSkill skills. On GPT-5.5 it lifts the average no-skill accuracy by +23.5 points in direct chat, by +24.8 inside the Codex agentic loop, and by +19.1 inside Claude Code. Transfer experiments further show that optimized skill artifacts retain value when moved across model scales, between Codex and Claude Code execution environments, and to a nearby math benchmark without further optimization.",
+      "ai_summary": "SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.",
+      "hf_url": "https://huggingface.co/papers/2605.23904",
+      "arxiv_url": "https://arxiv.org/abs/2605.23904",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.23904.png",
+      "upvotes": 263,
+      "num_comments": 5,
+      "published_at": "2026-05-21T20:00:00.000Z",
+      "github_repo": "https://github.com/microsoft/SkillOpt",
+      "github_stars": 17875,
+      "project_page": "https://microsoft.github.io/SkillOpt/"
+    },
+    {
+      "id": "2609.28654",
+      "title": "Training Object Permanence in World Models",
+      "authors": "Haotian Zhang, Fengyuan Yu, Dezhi Luo et al. (31 authors)",
+      "organization_name": "CarnegieMellonU",
+      "organization_fullname": "Carnegie Mellon University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png",
+      "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We build Blender generators that randomize speed, lighting, camera angle, and other nuisance parameters while preserving each task's cognitive structure, yielding 10,000+ samples per task. We release a 1.5M-sample training corpus and a 300-question exam. On this exam we evaluate 14 video models: 3 reference-to-video, 7 edit, and 4 continuation, among which PWM-WROP, our 16B world model. In a blind pairwise Elo study, PWM-WROP ranks first among continuation models and third overall, behind only a statistical tie between two reference-to-video models. We release the data, exam, model answers, scores, weights, and PWM, our native-PyTorch training stack on AWS Trainium2.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.28654",
+      "arxiv_url": "https://arxiv.org/abs/2609.28654",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28654.png",
+      "upvotes": 237,
+      "num_comments": 2,
+      "published_at": "2026-09-22T20:00:00.000Z",
+      "github_repo": "https://github.com/hokindeng/object-permanence",
+      "github_stars": 394,
+      "project_page": "https://www.object-permanence.world/"
+    },
+    {
       "id": "2503.11576",
       "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
       "authors": "Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)",
@@ -149,27 +168,8 @@
       "num_comments": 19,
       "published_at": "2025-03-14T12:44:14.000Z",
       "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 68176,
+      "github_stars": 68198,
       "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
-    },
-    {
-      "id": "2609.28654",
-      "title": "Training Object Permanence in World Models",
-      "authors": "Haotian Zhang, Fengyuan Yu, Dezhi Luo et al. (31 authors)",
-      "organization_name": "CarnegieMellonU",
-      "organization_fullname": "Carnegie Mellon University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png",
-      "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We build Blender generators that randomize speed, lighting, camera angle, and other nuisance parameters while preserving each task's cognitive structure, yielding 10,000+ samples per task. We release a 1.5M-sample training corpus and a 300-question exam. On this exam we evaluate 14 video models: 3 reference-to-video, 7 edit, and 4 continuation, among which PWM-WROP, our 16B world model. In a blind pairwise Elo study, PWM-WROP ranks first among continuation models and third overall, behind only a statistical tie between two reference-to-video models. We release the data, exam, model answers, scores, weights, and PWM, our native-PyTorch training stack on AWS Trainium2.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.28654",
-      "arxiv_url": "https://arxiv.org/abs/2609.28654",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28654.png",
-      "upvotes": 234,
-      "num_comments": 2,
-      "published_at": "2026-09-22T20:00:00.000Z",
-      "github_repo": "https://github.com/hokindeng/object-permanence",
-      "github_stars": 394,
-      "project_page": "https://www.object-permanence.world/"
     },
     {
       "id": "2310.10688",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-29T23:53:27.019967+00:00"
+  "fetched_at": "2026-09-30T04:21:09.323678+00:00"
 }
