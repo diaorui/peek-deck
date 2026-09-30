@@ -25,16 +25,6 @@
       "description": "Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a \u201cChatGPT moment\u201d in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.\u201cI would say more ..."
     },
     {
-      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
-      "pub_date": 1790694988.0,
-      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Would you pay for this robot to clean your house?",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -45,18 +35,28 @@
       "description": "Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning."
     },
     {
-      "headline": "Five million robots now work in factories as humanoid hype is tested",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1NVLXRiWnBTX09tcmgwVVc4VDZRd3h6bm0zazEwNk13SUF1bEtLVzNYVEs1SzV2UjBMLTlDQjF4amd6akNMT0pzeG5wdFREOS1renRsS1QtS1FoZlZJREpDRXZidFBmbjhYNlhLWHZ1eXRBd200R0pXU200X2REaUZwWVUwVHZyeGxZY3ZTWXNnd0E5dEdxWTFTVE5DWWtiTS1oLWRyRVFoRVM0UllvSkkwV0E?oc=5",
-      "pub_date": 1790657217.0,
-      "article_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
-      "image": "https://images.euronews.com/articles/stories/09/92/64/18/1200x675_cmsv2_a8bd4c1a-4d9c-54ff-9e05-fc14d79ca5bb-9926418.jpg",
-      "description": "Over five million industrial robots now work in factories worldwide, the highest total ever recorded, even as Boston Dynamics shelves a stock listing and Chinese regulators slow a rush of humanoid IPOs, showing a widening gap between practical machines and the humanoids capturing headlines."
+      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
+      "pub_date": 1790694988.0,
+      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmVydlFxSVJ3aDN2T0YwYk04RjVsX00tX2JNeHU5Y2xTSnR0NFZseVVIQmJuVDVEZ24wZ3RDQWhld1cyb0Z2SHJsOXZQa21zQjdMY1JKTUpGeDBXYzZpU0ZUc1NmdTc3anhobEFVeXNBVFdPUDdUaVlKZER4R3YwbVNBejdETHlrclRaU3poaUdoWkw0Zk9QM2JsVmFXTXM?oc=5",
+      "pub_date": 1790691358.0,
+      "article_url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/flourish-featured.jpg",
+      "description": "Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation."
     },
     {
       "headline": "Estonia blames Russia in arson attack on military robotics firm Milrem",
-      "source": "defensenews.com",
+      "source": "Defense News",
       "source_url": "https://www.defensenews.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOW04b3VBRmlkdTBLZUNpUXNJUktBV0RVUVdvdUVCZkdJZmpka05qRHRxeFhIV3JvTDFfT3JPOUg0X0hVd29QX1hzN01MWXNiNWN2OXFkSTRCa1JHQ1RtTVNnUjFFcm5vSHl3RTBaeTVpVUNwWVZZdWtQZ3RxNGM5blpsUjhaX0V5aGRITXZxa0YxY1piVUxzRHpyWWN1M09XdlZfbnNPUjd6SFpodmtmNFRFU1RZbnJhSS1zc0hiOGYzdw?oc=5",
       "pub_date": 1790693560.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T23:53:38.249729+00:00"
+  "fetched_at": "2026-09-30T04:21:24.340612+00:00"
 }

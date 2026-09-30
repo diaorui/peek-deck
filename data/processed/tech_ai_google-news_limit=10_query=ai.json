@@ -5,64 +5,94 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trump brings AI leaders to White House as OpenAI teases 'new thing'",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXdxR09ZS3NsWW5xRWZoWmNWRkxDTmRvc20tOVA4YjQ5TXRxdUQ1dVBtZ0FQS3lvc21sbE5jZE92N1ljc1JMOTJjR0MtVzVrZFl0TGNCUEd3T3pRX2c5LXBUX0VrYnlHcHNVRUowa2RqSVFjLU80Vk9vT0g5dHNUaA?oc=5",
-      "pub_date": 1790723723.0,
-      "article_url": "https://www.foxnews.com/live-news/trump-ai-white-house-meeting-september-29",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/e65ea5265a5ed11140e7764ba6151e62.jpg",
-      "description": "President Donald Trump and House Speaker Mike Johnson will meet with top AI leaders at the White House on Tuesday to discuss innovation and oversight."
-    },
-    {
       "headline": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
-      "pub_date": 1790720595.0,
+      "pub_date": 1790726988.0,
       "article_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Robinhood\u2019s Next Big Bet: AI Bots That Trade While You Sleep",
-      "source": "wsj.com",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUG5Zb3pfVVZKb2x2TFR5OGJ3dzhGZDhBMUVXZ0NmUkI5WnNLWjVPRFdNcTFYU09nWU9lZGZhOEsxRlE5V0dvcTM1UUdwd1FpczdGNm41MHBuY3V1VDBXSVVHQVhTeHFhcl9FdWhIaXRkc2xtS0FjbFJ5Q3lXYVFTa2hDT3JISk5fc0Y2V0djYVZ3UXk1QTl1dnktVm5RU0lTTFo3dTJiTGs?oc=5",
-      "pub_date": 1790722800.0,
-      "article_url": "https://www.wsj.com/finance/investing/robinhoods-next-big-bet-ai-bots-that-trade-while-you-sleep-f9d40f62",
+      "headline": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNXFhZTZhVFdfYnJGdFJmOVlfSl9Na21BY2ItZDFQa0FvY05xUWx1NzU5dlc5U0ZMeGxDRXQycHgtelNGbWVtZEExTzBlcHBQMzNZdWg4VnZNbDFQNnluYjNOOTlPQnUxSGpMSkpidzRZZ9IBd0FVX3lxTE9UaTd0ZFJWSEd3WE91WUFiM0h5UWVEOWxvQk9iZmJHMTVhRk1GQm5vRjVIZEJ0Y09wNG55bndieDk3MFpoZl9ucHN6MWRLa3hYRzQzRm0wYWRsYkE2Y2hwam52eEpDejV4MFVQY0dhaG40Y3UySWtB?oc=5",
+      "pub_date": 1790716040.0,
+      "article_url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369843-1790714143425-gettyimages-2297772865-kbd15194_ma2yjhl4.jpeg?v=1790714187&w=1920&h=1080",
+      "description": "Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election."
+    },
+    {
+      "headline": "Slow is beautiful: China launches war against AI drama, goes beyond algorithms",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckd1ZGwzdzZfNlVSLWdhMVB0SHhac3pKSTdCOUVMVmNrNHlEZjFURm5kYVo3bkRsN0hCVDd5am4tdk1GS2w2T015ZXJBblFVcjdsUlFBRkRZSDVPR0tjOUNTS3BndU1fVWRRY0lEZUZpN3dPbC1Iak1QWVo4NlVXQkptQjJ5bEkzb0tiSnJmYXB4NFp4VjdNWWNzYzdFZTcxTU5oekJCa1RoUEFKUXJTaXp6MmpUWTNsMU8wRGI0UWl3T3Y3OG1MakJ6VWlsU1pzMFdFYU5FY1NWUQ?oc=5",
+      "pub_date": 1790740808.0,
+      "article_url": "https://www.scmp.com/news/china/politics/article/3369183/slow-beautiful-china-launches-war-against-ai-drama-goes-beyond-algorithms?pgtype=live",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/29/a63b47d5-8fb3-4348-9a98-c238fdd81247_3cbf4655.jpg?itok=Bpoq3O6t&v=1790669939",
+      "description": "Rapid expansion in production has intensified concerns over copyright and the mounting pressure on human creators."
+    },
+    {
+      "headline": "Ohio State, Google partner in AI space",
+      "source": "NBC4 WCMH-TV",
+      "source_url": "https://www.nbc4i.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWWFETFV3Vm1SR082Yl9zRGYtNnBsZlFrOWNIVjVLbGt3cjRibWY4V2ZoQzUzd2g0eURXampvQ0RfNjhMWTQ4blZyalluQzR3dVV5MU44a2psRExjb2tlYzB6SnJDX0hnOXBWTFd6cTVpWG9zMGh2Ynd6MzlyMHFxcVVhT0sxdWhsMTlBQmxHNFU3V19aUGI0RDJZbno5YTDSAaQBQVVfeXFMTktvOVYwYTQ5NkEzMVZvX1ZGSVZES3pBUDF4dTRpR0tOZzlYYTVuYnlYTF94ZzBDUG5XcEV6dW9rdXFnZTdtSm1XSk9abEc3dVNCeG1GdE9oajdxamNrSEhZcUo0VFlXZklJdXdWa1dJUFdvNTg0Y3FzdkNQTUFkWmhVWUNnQVYxOEQtN1hRMjUtQlFGYUtpTGxoY042ZGg0WG5kWTM?oc=5",
+      "pub_date": 1790739073.0,
+      "article_url": "https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-google-partner-in-ai-space/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump hosts tech leaders for meeting on A.I.",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTh3TkFXWDZXem5MYzNJb0lHdkFGZV9zSlNmczRQWXVjMWFqbnd0Z1JwRHpFNHY1cFhxOXZYUmZ1UEhTejJId0k0UEJFSEM4YU1EZFl4TlZYcVRoazVDWmNxVDBFM1FYUFFCT01lcVZuaU1qRHRRUTl2dmxOYWdOLU1IZWJtTnpSV2dqVnVvOEt0cGwzMnJ1RWlwZkp6andD?oc=5",
-      "pub_date": 1790724235.0,
-      "article_url": "https://www.nbcnews.com/nightly-news/video/trump-hosts-tech-leaders-for-meeting-on-a-i-270751301964",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1790723778731_nn_ggu_ai_summit_at_white_house_260929_S3_1920x1080-kep5dy.jpg",
-      "description": "President Trump released an agreement signed by top tech leaders on increasing standards for A.I. NBC News\u2019 Gabe Gutierrez reports."
+      "headline": "OpenAI takes on Meta with dots agent in autonomous AI push",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
+      "pub_date": 1790702220.0,
+      "article_url": "https://www.reuters.com/business/openai-takes-meta-with-always-on-dots-agent-enterprise-ai-push-2026-09-29/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Trump announces vague \u2018morally binding\u2019 AI deal among tech CEOs for \u2018tremendous self-policing\u2019",
+      "headline": "OpenAI announces \u2018dots\u2019 agent after scrapping launch of new AI model over safety concerns",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFVZQVZWMk1XVVREWXRWcVZaWGZrb0dGSURLVkl4MUg0ZHFoTHNWckY5WU9hWXJuOXhnU21xY1NHM0hMM2FiQkRKdUtmWlpRcHdGbEg1MmphUXFWaEE1VC1YSGgwTlJIVlhwX0tOcl9HV2F1UnhMOHZPV3hQMkEwdWI3c2N6TGxYOWVJS052Q3E3UmM?oc=5",
-      "pub_date": 1790724120.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
-      "image": "https://i.guim.co.uk/img/media/90ffb94a420a7ff6645ad1fa994970299a59ed92/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27ac61c630f3aa934ffaec98fadb4707",
-      "description": "US president also issued executive order officially rebranding \u2018artificial intelligence\u2019 as \u2018superintelligence\u2019"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5",
+      "pub_date": 1790733180.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
+      "image": "https://i.guim.co.uk/img/media/574125f5ec0bf8c27cdf6cdc227a4cf62416512a/583_0_5827_4663/master/5827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23a506ee953561d380378a65d6eb5849",
+      "description": "Company\u2019s product comes weeks after Meta introduced its own artificially intelligent agent Muse"
     },
     {
-      "headline": "Introducing dots",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "pub_date": 1790634237.0,
-      "article_url": "https://openai.com/index/introducing-dots/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&h=900&fit=fill",
-      "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+      "headline": "No OpenAI IPO Until the AI Stops Going Rogue, CEO Sam Altman Says",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZF8xaEYzcUU5cG0welBPeHF1QnNWV0Rvb2Rid0lnZktSWms5T3YyeVZvbHNyS3pZYzQ1RXBjM2pHZGU2dHhnSzFzS19WWnVBclhzX3lzRFhfX0tmTXczVHN6VWFNTU14bGI5cGlJbUFVVm5rY216YjlFZzFFYkl3eEp6cUx2UnU5clE4SlRERkFWYnhpbVNYUDU0RQ?oc=5",
+      "pub_date": 1790741656.0,
+      "article_url": "https://gizmodo.com/no-openai-ipo-until-the-ai-stops-going-rogue-ceo-sam-altman-says-2000819194",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What Do You Want from AI?",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5",
+      "pub_date": 1790699940.0,
+      "article_url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "headline": "Inside McDonald\u2019s push to have AI price your Big Mac",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTUwSDRkVzM5OHNmYzN0ekFqdUMwTVVzQmtnc1A5ZXJvNHZENzJ0bHhVWE53aDdYc2Rnams0RjJ6Q0hOYU9zblpUYmk1LVRodW54U1dienZYMEg4em1pdXhJcmI1RGxRMjVjTGdKSV9IVEtFb2tLcjJaRFBXR0c4VTQ4Y0ZieVpEcnFnTGk4YVhiSU1zb3ZCTA?oc=5",
+      "pub_date": 1790716090.0,
+      "article_url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Cruz blocks Senate Democrats\u2019 bid to pass AI safety bill",
@@ -73,38 +103,8 @@
       "article_url": "https://www.politico.com/live-updates/2026/09/29/congress/cruz-blocks-senate-democrats-bid-to-pass-ai-safety-bill-01097480",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZUtiZGlERGZmYTdrbWdNUEFvYnR2WTdTVnRlYTNkR0J1Z09pQ3BqUzA2bE5XdFBvdTByeTQ3SVZHOUtkRVVGSlF5YzJYYi1CcHA1TExxSzF5bEt2NGVaV241dGhmOEhnVzRBRVB2RGZnOXdhOW1N0gF8QVVfeXFMTmZ4WTA5cFd2Tk9Zbk1xcXVlcEtPcjFYS1pVMFBOSU5sNlphd056Z3NzclNGNWR1eDd3NG5ZM2lodnVjMC1yVENpYXZPMnVGM3I0b3FuUmszNnBZSWQ5V21OMjhzY1Q4VG9FNkdIRUFOUFZ6QUsyajFuOHEyTA?oc=5",
-      "pub_date": 1790701720.0,
-      "article_url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&w=1920&h=1080",
-      "description": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch"
-    },
-    {
-      "headline": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
-      "pub_date": 1790637420.0,
-      "article_url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI could force 11 million US workers into new careers by 2035",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3hVNm1TSnZOWmZ6d2RZX0J3a19LR1NibWwzd0tXRUo4WkNDczV4TERmMFluajQ5MmpxS3hOdHNnVHN4OVBubU5DV2VQbXFKQUdKSjY0WGh6RTBFdlR1am54YVR4UGlWdTNqanBWUG9OWVAwcHRyUFY5S05ZYnpiejNSS1hxQWZtOXdV?oc=5",
-      "pub_date": 1790691957.0,
-      "article_url": "https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297112294.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Millions of Americans may need to find an entirely new career in the next decade, according to research released Tuesday."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-29T23:53:38.819519+00:00"
+  "fetched_at": "2026-09-30T04:21:34.814031+00:00"
 }
