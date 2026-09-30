@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-30T10:39:54.631636+00:00'
+updated: '2026-09-30T16:41:36.912351+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 30, 2026 at 10:39 UTC  
+**Last Updated:** September 30, 2026 at 16:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +0.4%  
-**30d:** +11.5%  
-**90d:** +53.4%  
-**1y:** -37.7%  
+**24h:** +0.6%  
+**7d:** -0.0%  
+**30d:** +11.1%  
+**90d:** +52.8%  
+**1y:** -38.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $329.07B
+**Market Cap:** $327.83B
 Rank #2
 
 **Circulating Supply:** 122,092,941 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.5%
+-45.7%
 
 **All-Time Low:** $0.43
-+622459.1%
++620066.3%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegotá upgrade frames-devnet-0 live, Nethermind 2.0.0, Daisugi post quantum testnet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-2/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-2/) • 5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The wallet returns three years after its shutdown, now running on Aztec Network with private balances and transactions.
 
-The Block • 18h ago
+The Block • 1d ago
 
 ---
 
@@ -164,47 +164,39 @@ The Block • 18h ago
 
 Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?
 
-247wallst.com • 12h ago
+247wallst.com • 18h ago
 
 ---
 
-**[Tom Lee Says the Biggest Crypto Bull Run Ever Is Starting. Here's Why](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-biggest-crypto-101410168.html)**
+**[Current price of Ethereum for Sept. 30, 2026](https://fortune.com/article/price-of-ethereum-09-30-2026/)**
 
-Tom Lee says crypto is entering its biggest bull cycle ever as BitMine ramps up its Ethereum (ETH) buying.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 25m ago
-
----
-
-**[Bitmine Continues to Load Up on Ethereum, Now Owns 4.9% of all ETH in Circulation. Is BMNR Stock a Buy?](https://www.fool.com/investing/2026/09/29/bitmine-continues-to-load-up-on-ethereum-now-owns-4-9-of-all-eth-in-circulation-is-bmnr-stock-a-buy/)**
-
-Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world.
-
-The Motley Fool • 16h ago
+fortune.com • 1h ago
 
 ---
 
-**[Tom Lee's Bitmine Buys Another $46 Million in Ethereum](https://finance.yahoo.com/video/tom-lees-bitmine-buys-another-211700887.html)**
+**[Can Ethereum 10x From Here? Walking Through the Math](https://finance.yahoo.com/markets/crypto/articles/ethereum-10x-walking-math-140017795.html)**
 
-Bitmine is closing in on its goal to obtain 5% of all outstanding Ethereum.
+Ethereum just posted a 71% quarterly gain, and the tenfold return chatter is back. But the math behind hitting $26,600 per coin reveals a gauntlet of milestones that most bulls are glossing over.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply](https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply)**
-
-Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.
-
-Decrypt News • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Dips, While Ethereum, XRP, Dogecoin Gain: Bull Market 'Intact,' but Rally 'Showing Cracks,' Says Analyst](https://www.tradingview.com/news/benzinga:931a8d2c5094b:0-bitcoin-dips-while-ethereum-xrp-dogecoin-gain-bull-market-intact-but-rally-showing-cracks-says-analyst/)**
+**[Standard Chartered Is More Bullish On Ethena Than Bitcoin, Ethereum: Sees 7-Fold Jump By 2028](https://finance.yahoo.com/markets/crypto/articles/standard-chartered-more-bullish-ethena-131708241.html)**
 
-Leading cryptocurrencies stayed resilient on Tuesday while rising government bond yields weighed on stock markets.Crypto Market Holds SteadyBitcoin held on to support in the mid-$82,000 region, while bulls attempted a break above $85,000. Ethereum oscillated between $2,650 and $2,740, while XRP and…
+Standard Chartered said Ethena's buyback program and shrinking token supply could support its long-term upside.
 
-TradingView • 8h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump](https://www.tradingview.com/news/seekingalpha:a48a8a69d094b:0-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump/)**
+
+Bitcoin BITSTAMP:BTCUSD price prediction faces a $1M target by 2030, while its strongest rally may come in late 2027 or early 2028, according to Maelstrom CIO Arthur Hayes, as reported by Walter Bloomberg on X.Hayes told Coindesk in an interview that an AI investment bubble could trigger the next m…
+
+TradingView • 3h ago
 
 ---
 
@@ -212,7 +204,15 @@ TradingView • 8h ago
 
 The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.
 
-CoinDesk • 18h ago
+CoinDesk • 1d ago
+
+---
+
+**[These Cryptocurrencies Have Become Wall Street Favorites and Deserve a Place in Your Portfolio](https://www.fool.com/investing/2026/09/29/these-cryptocurrencies-have-become-wall-street-fav/)**
+
+For good reason, Bitcoin and Ethereum have become the first two cryptocurrencies in the portfolios of many institutional investors.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -222,11 +222,11 @@ Vitalik Buterin's website • 3d ago
 
 ---
 
-**[Glamsterdam Testnet Announcement](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement)**
+**[Bitmine Continues to Load Up on Ethereum, Now Owns 4.9% of all ETH in Circulation. Is BMNR Stock a Buy?](https://currently.att.yahoo.com/att/bitmine-continues-load-ethereum-now-172001755.html)**
 
-Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and...
+Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world.
 
-ethereum.org • 1d ago
+Currently.com • 23h ago
 
 ---
 
@@ -234,33 +234,23 @@ ethereum.org • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Massive XRP Purchase Cardano ADA MIGHT Get More Support Ethereum Announces NEW Upgrade](https://www.youtube.com/watch?v=mTlBOW4lpAE)**
+**[Why I Think Ethereum Can Reach $16K This Bull Run](https://www.youtube.com/watch?v=PlLT0t3MQbk)**
 
-Not a day goes by in the cryptocurrency market where we dont get some kind of intense news. Companies have upped their ...
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v46 ______ I ...
 
-📺 The Modern Investor
+📺 Crypto Archie
 
-👁️ 993 • 👍 251 • 💬 39 • ⏱️ 33:16 • 1h ago
-
----
-
-**[$10k ETH will cause Alt Season](https://www.youtube.com/watch?v=CUDFg3otido)**
-
-Join Discord Group https://whop.com/checkout/plan_lyc1AoLEUzNVD X https://twitter.com/PainofCrypt0 Instagram ...
-
-📺 Pain of Crypto
-
-👁️ 5K • 👍 158 • 💬 19 • ⏱️ 6:17 • 13h ago
+👁️ 212 • 👍 23 • 💬 1 • ⏱️ 5:39 • 2h ago
 
 ---
 
-**[Jack Mallers :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=yLqfrDPHyxA)**
+**[Live Crypto Trading | ETH and BTC Breakout Soon | Xauusd Live Trade](https://www.youtube.com/watch?v=sFdr-gIaJq4)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
 
-📺 Crypto Nutshell
+📺 Invest For Wealth
 
-👁️ 11K • 👍 251 • 💬 31 • ⏱️ 17:08 • 18h ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -270,7 +260,27 @@ Bitcoin and crypto are holding on! However the rest of the markets are telling u
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 1K • 💬 33 • ⏱️ 13:28 • 1d ago
+👁️ 22K • 👍 1K • 💬 32 • ⏱️ 13:28 • 1d ago
+
+---
+
+**[Jack Mallers :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=yLqfrDPHyxA)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 13K • 👍 274 • 💬 31 • ⏱️ 17:08 • 1d ago
+
+---
+
+**[$10k ETH will cause Alt Season](https://www.youtube.com/watch?v=CUDFg3otido)**
+
+Join Discord Group https://whop.com/checkout/plan_lyc1AoLEUzNVD X https://twitter.com/PainofCrypt0 Instagram ...
+
+📺 Pain of Crypto
+
+👁️ 8K • 👍 177 • 💬 21 • ⏱️ 6:17 • 19h ago
 
 ---
 
@@ -280,27 +290,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 371 • 💬 32 • ⏱️ 21:29 • 1d ago
+👁️ 18K • 👍 381 • 💬 33 • ⏱️ 21:29 • 2d ago
 
 ---
 
-**[I Haven’t Been THIS Bullish on Ethereum Since 2020](https://www.youtube.com/watch?v=U6aJYZe9ZLY)**
+**[ETH: The Most Bullish Quarter in 5 Years!!! #ethereum](https://www.youtube.com/watch?v=C2lLeZwFOpQ)**
 
-Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish on ETH again, and we'll take a look at the latest ...
+FeeDrip - up to (67%) of your trading fees back, paid daily ...
 
-📺 EllioTrades
+📺 Marzell Crypto
 
-👁️ 28K • 👍 789 • 💬 43 • ⏱️ 12:21 • 2d ago
+👁️ 256 • 👍 13 • 💬 1 • ⏱️ 3:20 • 6h ago
 
 ---
 
-**[Joseph Chalom: Ethereum Is The Toll Road To Everything (Larry Fink&#39;s Words)](https://www.youtube.com/watch?v=s-Gu-S-VM6Y)**
+**[Massive XRP Purchase Cardano ADA MIGHT Get More Support Ethereum Announces NEW Upgrade](https://www.youtube.com/watch?v=mTlBOW4lpAE)**
 
-Joseph Chalom says Larry Fink's line that Ethereum is the toll road to tokenization is exactly the right way to think about the asset, ...
+Not a day goes by in the cryptocurrency market where we dont get some kind of intense news. Companies have upped their ...
 
-📺 The Rollup
+📺 The Modern Investor
 
-👁️ 26K • 👍 390 • 💬 20 • ⏱️ 31:51 • 1d ago
+👁️ 8K • 👍 694 • 💬 268 • ⏱️ 33:16 • 7h ago
+
+---
+
+**[ETHEREUM’S NEXT MASSIVE UPGRADE IS ALMOST HERE( A.I. AGENTS COMING TO THE DIGITAL EURO)](https://www.youtube.com/watch?v=Ld5w7gQsNcY)**
+
+Ethereum's Glamsterdam upgrade is moving toward its October 6 activation on the Sepolia testnet as developers prepare major ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 24K • 👍 340 • 💬 41 • ⏱️ 12:02 • 1d ago
 
 ---
 
@@ -310,27 +330,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 16K • 👍 364 • 💬 193 • ⏱️ 39:58 • 1d ago
-
----
-
-**[ETH BULL RUN READY! Vitalik’s Ethereum Updates!](https://www.youtube.com/watch?v=oeV6zUPaAKw)**
-
-ETH is still in a bull market structure after an 86% rebound from the mid-year low near $1506, even while price dips today around ...
-
-📺 Altcoin Buzz
-
-👁️ 5K • 👍 67 • 💬 9 • ⏱️ 10:22 • 1d ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING: MY NEXT TRADE REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=O9QpI4c-vYM)**
-
-BITCOIN & CRYPTO WARNING: MY NEXT TRADE REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 318 • 💬 68 • ⏱️ 24:43 • 7h ago
+👁️ 17K • 👍 382 • 💬 181 • ⏱️ 39:58 • 1d ago
 
 ---
 
