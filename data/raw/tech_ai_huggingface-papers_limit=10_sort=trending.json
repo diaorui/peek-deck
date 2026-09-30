@@ -1,23 +1,23 @@
 {
   "papers": [
     {
-      "id": "2412.20138",
-      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
-      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
-      "hf_url": "https://huggingface.co/papers/2412.20138",
-      "arxiv_url": "https://arxiv.org/abs/2412.20138",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 148,
-      "num_comments": 6,
-      "published_at": "2024-12-28T07:54:06.000Z",
-      "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 109269,
-      "project_page": null
+      "id": "2609.33439",
+      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+      "authors": "EverMind AI",
+      "organization_name": "EverMindAI",
+      "organization_fullname": "EverMind",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68c0e2432d6dd107416d3f37/xkxLPRUJRIboDe1mClCqX.png",
+      "summary": "As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.33439",
+      "arxiv_url": "https://arxiv.org/abs/2609.33439",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
+      "upvotes": 283,
+      "num_comments": 1,
+      "published_at": "2026-09-26T20:00:00.000Z",
+      "github_repo": "https://github.com/EverMind-AI/Raven",
+      "github_stars": 4937,
+      "project_page": "https://raven.evermind.ai/"
     },
     {
       "id": "2609.24972",
@@ -37,6 +37,25 @@
       "github_repo": "https://github.com/google-research/rrsi",
       "github_stars": 966,
       "project_page": "https://regularized-rsi.com/"
+    },
+    {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 148,
+      "num_comments": 6,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 109322,
+      "project_page": null
     },
     {
       "id": "2604.09557",
@@ -77,6 +96,25 @@
       "project_page": "https://linzhanmou.com/unimate/"
     },
     {
+      "id": "2609.34981",
+      "title": "What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling",
+      "authors": "Renping Zhou, Zanlin Ni, Zihao Fan et al. (11 authors)",
+      "organization_name": "Tsinghua-LeapLab",
+      "organization_fullname": "Tsinghua-LeapLab",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63987ffb2ceb55aabe0852f3/hflTWNTGxeJx83xNkYrDB.png",
+      "summary": "World action models (WAMs) predict the future alongside actions during training. Due to the heavy computation cost of video denoising, whether the future must still be generated during inference is disputed: Explicit WAMs denoise it into clean frames along with every action chunk, whereas Latent WAMs discard it entirely for acceleration. We find that latent WAMs, despite matching explicit ones on in-distribution tasks, fail to retain the generalization benefits that originally motivated WAMs. To demonstrate this, we evaluate generalization along three axes: environmental perturbation, data efficiency, and task generalization. Controlled comparisons with a matched backbone, training data, and budget reveal consistent degradation across all three axes when the action expert no longer conditions on future representations. Further analysis shows that the gap arises almost entirely from the first denoising step: the benefit comes from preparing the future, not generating it. We therefore propose Simple-WAM, which simplifies future modeling into a single forward pass of fully noised video tokens and adapts the training-time noise schedule to this inference behavior. Across simulation and real-world tasks, Simple-WAM achieves the best of both worlds, leading explicit WAMs in generalization performance with efficiency comparable to Latent WAMs. Project Page: https://zrporz.github.io/Simple-WAM-Web/",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.34981",
+      "arxiv_url": "https://arxiv.org/abs/2609.34981",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34981.png",
+      "upvotes": 60,
+      "num_comments": 1,
+      "published_at": "2026-09-28T20:00:00.000Z",
+      "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
+      "github_stars": 58,
+      "project_page": "https://zrporz.github.io/Simple-WAM-Web/"
+    },
+    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -92,7 +130,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89560,
+      "github_stars": 89615,
       "project_page": null
     },
     {
@@ -130,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2025-04-27T21:46:35.000Z",
       "github_repo": "https://github.com/mem0ai/mem0",
-      "github_stars": 66323,
+      "github_stars": 66358,
       "project_page": "https://mem0.ai/research"
     },
     {
@@ -149,49 +187,11 @@
       "num_comments": 5,
       "published_at": "2026-05-21T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/SkillOpt",
-      "github_stars": 17875,
+      "github_stars": 17892,
       "project_page": "https://microsoft.github.io/SkillOpt/"
-    },
-    {
-      "id": "2503.11576",
-      "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
-      "authors": "Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)",
-      "organization_name": "ibm-granite",
-      "organization_fullname": "IBM Granite",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/639bcaa2445b133a4e942436/CEW-OjXkRkDNmTxSu8Egh.png",
-      "summary": "We introduce SmolDocling, an ultra-compact vision-language model targeting\nend-to-end document conversion. Our model comprehensively processes entire\npages by generating DocTags, a new universal markup format that captures all\npage elements in their full context with location. Unlike existing approaches\nthat rely on large foundational models, or ensemble solutions that rely on\nhandcrafted pipelines of multiple specialized models, SmolDocling offers an\nend-to-end conversion for accurately capturing content, structure and spatial\nlocation of document elements in a 256M parameters vision-language model.\nSmolDocling exhibits robust performance in correctly reproducing document\nfeatures such as code listings, tables, equations, charts, lists, and more\nacross a diverse range of document types including business documents, academic\npapers, technical reports, patents, and forms -- significantly extending beyond\nthe commonly observed focus on scientific papers. Additionally, we contribute\nnovel publicly sourced datasets for charts, tables, equations, and code\nrecognition. Experimental results demonstrate that SmolDocling competes with\nother Vision Language Models that are up to 27 times larger in size, while\nreducing computational requirements substantially. The model is currently\navailable, datasets will be publicly available soon.",
-      "ai_summary": "SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.",
-      "hf_url": "https://huggingface.co/papers/2503.11576",
-      "arxiv_url": "https://arxiv.org/abs/2503.11576",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.11576.png",
-      "upvotes": 177,
-      "num_comments": 19,
-      "published_at": "2025-03-14T12:44:14.000Z",
-      "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 68198,
-      "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
-    },
-    {
-      "id": "2609.28654",
-      "title": "Training Object Permanence in World Models",
-      "authors": "Haotian Zhang, Fengyuan Yu, Dezhi Luo et al. (31 authors)",
-      "organization_name": "CarnegieMellonU",
-      "organization_fullname": "Carnegie Mellon University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png",
-      "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building human-like physical intelligence. Do video models have emerged object permanence in them? If not, could we train them with a core-cognition inspired dataset? We introduce WROP (World Reasoning with Object Permanence), a data infrastructure of 150 hand-designed cognitive science inspired tasks, divided into six cognitive categories. We build Blender generators that randomize speed, lighting, camera angle, and other nuisance parameters while preserving each task's cognitive structure, yielding 10,000+ samples per task. We release a 1.5M-sample training corpus and a 300-question exam. On this exam we evaluate 14 video models: 3 reference-to-video, 7 edit, and 4 continuation, among which PWM-WROP, our 16B world model. In a blind pairwise Elo study, PWM-WROP ranks first among continuation models and third overall, behind only a statistical tie between two reference-to-video models. We release the data, exam, model answers, scores, weights, and PWM, our native-PyTorch training stack on AWS Trainium2.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.28654",
-      "arxiv_url": "https://arxiv.org/abs/2609.28654",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28654.png",
-      "upvotes": 237,
-      "num_comments": 2,
-      "published_at": "2026-09-22T20:00:00.000Z",
-      "github_repo": "https://github.com/hokindeng/object-permanence",
-      "github_stars": 416,
-      "project_page": "https://www.object-permanence.world/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-30T10:39:31.381441+00:00"
+  "fetched_at": "2026-09-30T16:41:20.982934+00:00"
 }
