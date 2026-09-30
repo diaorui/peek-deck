@@ -25,6 +25,16 @@
       "description": "The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations."
     },
     {
+      "headline": "NASA wants to send humanoid robots to the moon",
+      "source": "Popular Science",
+      "source_url": "https://www.popsci.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ENm1zbXI1ZGlMVWdmWEZiQTJwM2piT0NuWjJoYkpDZlVIOFdfNGJSUEFsT1h2ZEJIU2gwSUJDOTNlMHdxcjJVUGVWNHhabEF1cktFV1FucHQ5blhjTThtSGh3dDJBVWhP?oc=5",
+      "pub_date": 1790784060.0,
+      "article_url": "https://www.popsci.com/science/nasa-humanoid-robots-moon/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/09/NASA-Biped-Robot.png?quality=85&w=1200",
+      "description": "Don't worry. Actual astronauts aren't out of a job."
+    },
+    {
       "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -33,16 +43,6 @@
       "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmVydlFxSVJ3aDN2T0YwYk04RjVsX00tX2JNeHU5Y2xTSnR0NFZseVVIQmJuVDVEZ24wZ3RDQWhld1cyb0Z2SHJsOXZQa21zQjdMY1JKTUpGeDBXYzZpU0ZUc1NmdTc3anhobEFVeXNBVFdPUDdUaVlKZER4R3YwbVNBejdETHlrclRaU3poaUdoWkw0Zk9QM2JsVmFXTXM?oc=5",
-      "pub_date": 1790691358.0,
-      "article_url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/flourish-featured.jpg",
-      "description": "Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation."
     },
     {
       "headline": "Five million robots now work in factories as humanoid hype is tested",
@@ -56,7 +56,7 @@
     },
     {
       "headline": "Hundreds of robots are roaming this Chinese theme park. It's only the beginning of our humanoid future",
-      "source": "fastcompany.com",
+      "source": "Fast Company",
       "source_url": "https://www.fastcompany.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUhHSWEzc0hnNk9Ic2ZUeF9WMDV3a2ZMLVVJUDNTaEh2YzBIUmRzZFpsTnA4RzZ0MEMtUG93WHRUcmdId2RPR2NqYnFUV3o1bmoyMkY3Wk9wcHFXUnQtajBpWmgxZEdoY0c0QzRVTW9aaldWRjE2NXRPZlZ4VUtIUmdfUQ?oc=5",
       "pub_date": 1790676157.0,
@@ -65,34 +65,34 @@
       "description": "At Chimelong Spaceship Park in Zhuhai, more than 300 AgiBot robots play table tennis, perform martial arts, give directions, and greet hotel guests."
     },
     {
-      "headline": "World robotics conference, held in Pittsburgh, boasts everything from robot dogs to humanoid boxers",
-      "source": "TribLIVE.com",
-      "source_url": "https://triblive.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUV9ndVoyTTItbDVnYnNFOU5CQ3duOE00d2x2M1BlQU9lQ1MyQ0hFNDBpMUxqQ21NUVliY2o1Vm8yOVZZcm9aTTVXYndqa3I2b3JNR3FKR2wwSnMyMW9nU2FoZnJTNWgwcEpxaHBSTGFnX1l0VVRyRzE5RlMxOE5Xdmw3cWJIMEJEUGFvLWJrblBIZmVBSXZYWWpFTWNHU2RzVlJhM0FUeGpYMVdPaERFMzk3WVBEbnJKSWZXYmFVSmlqV19yMGlTd0ZmdGVielJSdDZENGpB?oc=5",
-      "pub_date": 1790628994.0,
-      "article_url": "https://triblive.com/business/technology/world-robotics-conference-held-in-pittsburgh-boasts-everything-from-robot-dogs-to-humanoid-boxers/",
-      "image": "https://assets-varnish.triblive.com/2026/09/9985692_web1_ptr-CMURobotConf1.jpg",
-      "description": "While robotics is known as a hot and trending field, some of its real-world applications as lesser known, said Wenshan Wang, a systems scientist at Carnegie Mellon University&rsquo;s Robotics Institute. &ldquo;We are still waiting to see if robotics can make life easier,&rdquo; said Wang. &ldquo;We haven&rsquo;t seen a lot of"
+      "headline": "Soccer-playing humanoid robots score a major robotics goal for coordination",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1dhX0JxTXU4NmI3ajE3S3hSMG54M0d2ek4yN1o0TGdILTBNVmtTQnR2VmxlM28zUVM4aFo2VVpHdVYyM0stb1VfWkhwX09YdEFDejc4ZlVMa2pOQV96QlRueEYzZ3o4dThsZF9teURvWXRKTlpUalhENUQ3MHN2TExZRQ?oc=5",
+      "pub_date": 1790775002.0,
+      "article_url": "https://techxplore.com/news/2026-09-soccer-playing-humanoid-robots-score.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Boston Dynamics Begins Robotics Testing at Hyundai Metaplant",
-      "source": "Assembly Magazine",
-      "source_url": "https://www.assemblymag.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm05OVJ4M0xocnVIeC05c2VUT0NUYWlyTWFieVNsZEJ3bWNsMk5fZVJRMGtOeXhrZ2hZWWxxNWZCeDc0UUNRbGNfWVRsQXM2aUpDUHJ5Ni1pc2JKdGpfTHdGb3JscVU2M3FwRHRYU1BXVlNIeDdZUW9nTFozRUt3aVJYMmdfMkwtbENtYlE4S2hDdmxKb3VJRm9RMjZuVzRzV2s4UEhmZw?oc=5",
-      "pub_date": 1790514000.0,
-      "article_url": "https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant",
-      "image": "https://www.assemblymag.com/ext/resources/images/Boston-Dynamics-TRI_hero.png?height=635&t=1767808082&width=1200",
-      "description": "ELLABELL, GA\u2014Boston Dynamics has opened a new robotics center at Hyundai Motor Group\u2019s Metaplant America here, marking the next step on its journey to deploy humanoids and other robots across the automaker\u2019s operations."
+      "headline": "Reliable Robots: Meet Johnson\u2019s Dexterous Robotics Team",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVFXTVdSdktmMU13T1djZVRmSTZDdTdadGMzVnQ2ZDM4VUhKNHZFa1B4LW5pTnZVdlA4VWFtTWFBSUZ1UU5TZkJTZGxkTEhFdm9qVlRmal92am5sczNGUDhmYTJFRnFjdUtMa1NucDVVbWUyREF2SVlBeVpOYnZFdE0zT2F0aVphemJWMzVMQWlUeTZzMExpN0VsVlNVTDZCVUlQX29NT2hUUQ?oc=5",
+      "pub_date": 1790589600.0,
+      "article_url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/sa-and-valkyrie.png",
+      "description": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions"
     },
     {
-      "headline": "Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtNGdJMGxkbUx5cXZSNVk0djVRX19HMGtKa3QxWTRXV0ZJVnFyY3lwai1qVzI0ZG1zakJUUHpJZVpaV2FkR3REZ2Z6RG1GbnF4U2NhNjJYcUJMRmVLdnd2Yk9PZTRqVHQyNVY3NnFLNHNGems?oc=5",
-      "pub_date": 1790514900.0,
-      "article_url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
-      "image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
-      "description": "Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation."
+      "headline": "Elon Musk Wants To Build 20,000 Optimus Robots A Week. There's Just One Problem, Tesla Still Can't Get The Hands To Work",
+      "source": "247wallst.com",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSXBNV2NQdDczVGk1R29xN2ZyQ2k5WTRTWHlFc2lEWHYwUWJWLTJ4RkhrX24wbVRCQi1UcEM5ZklyZVhTMl80U2d3Nk16WXpUVGFVXzdyU3c1RkV5SlRiWTVTZkxwaUtaYkd6YWFtM2psMWdZR3R4a0dWZzE0STdHMU1UR0pVaXQ5Y0V0WWhJSzNKNHZFYnZONzNNRng4NW5nR1p5Zm5OemhkZmNkMjRFNkhxYmxvcm8xa214a3Q3SUV1bkZ5WVRFUV9xVk9lM1hhQ2RId0xVOXNya0QtSjdGT2VhVWhvaW1XWDlmTkU2VWg?oc=5",
+      "pub_date": 1790695200.0,
+      "article_url": "https://247wallst.com/investing/2026/09/29/elon-musk-wants-to-build-20000-optimus-robots-a-week-theres-just-one-problem-tesla-still-cant-get-the-hands-to-work/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2691337679.jpg",
+      "description": "Tesla is racing toward a production goal that sounds like science fiction, but a single component smaller than your palm is quietly derailing the entire timeline. The gap between Elon Musk's ambitions and what the factory floor can actually deliver has never been wider."
     },
     {
       "headline": "Robotics startups are courting university researchers. Microagi just hired eight.",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-30T10:39:43.087974+00:00"
+  "fetched_at": "2026-09-30T16:41:35.229547+00:00"
 }
