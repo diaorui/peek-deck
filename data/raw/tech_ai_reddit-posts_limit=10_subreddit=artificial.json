@@ -24,6 +24,17 @@
       "description": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety."
     },
     {
+      "title": "Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/",
+      "published": 1790796416.0,
+      "thumbnail": "https://external-preview.redd.it/QxT5gUiZS3C1lnFuJuBKlvxJIRnJijVsZm7cwf7HwcY.jpeg?width=640&crop=smart&auto=webp&s=579b6b8581f1e4180e90cea8586ded08bdd0e84c",
+      "external_url": "https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies",
+      "site_name": "The New Republic",
+      "favicon": "https://assets.newrepublic.com/assets/favicons/apple-touch-icon-57x57.png",
+      "description": "Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies."
+    },
+    {
       "title": "Walmart bans AI slop signs in stores",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wtvwu3/walmart_bans_ai_slop_signs_in_stores/",
@@ -33,17 +44,6 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Walmart has issued instructions to stores banning the use of AI tools to create custom display signage."
-    },
-    {
-      "title": "We stress-tested America.gov on night one with 15 questions from our own reporting. 9 correct, 6 incomplete, zero hallucinations.",
-      "author": "hannotek",
-      "url": "https://www.reddit.com/r/artificial/comments/1wu7f9w/we_stresstested_americagov_on_night_one_with_15/",
-      "published": 1790780893.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "GSA launched America.gov yesterday as an AI \u201cfront door\u201d that supposedly combines information from more than 29,000 government websites. The White House says you can ask any question and get an up-to-date answer. We did not ask how to renew a passport. We used 15 questions from reporting we already had on file\u2014Paducah contaminated nickel, Judgment Fund payouts for DOE\u2019s failure to take commercial spent nuclear fuel, CBP contractors who kept system access after separation, PBGC Form 10 attrition counts the agency never published, whether stolen used cooking oil can generate RINs or a 45Z credit, a VA OIG FOIA denial in a benefits-fraud case, why all 10 recommendations in the Defense Regional Clocks audit are classified, MMTLP/FINRA, Virginia voter-list products, and a public DOE contract number. Method: We already knew the answer, knew there was no public answer, or had agency correspondence the system should not have. We scored correct / partial / incorrect / unsupported / blocked. Result: \u2022 9 correct \u2022 6 substantially correct but incomplete \u2022 0 fabricated answers we could identify The useful finding was not the score. When America.gov did not know something, it generally stopped. One reply: \u201cI cannot invent that number.\u201d Limits showed up fast: \u2022 It found the right DHS OIG report on separated CBP contractors, then said the counts were not in the available material. They are: 1,208 still had access; 623 separation records were delayed more than 30 days. \u2022 Nuclear-waste and spent-fuel figures were accurate but stale. Newer federal totals are higher. \u2022 It flagged contract DE-AC05-97OR22576 in red and told us to \u201cRemove personal information before sending.\u201d That is a public DOE contract ID. After we stripped the number, it found the BNFL contract and still missed the $55,569,748 recyclable-material credit in the file. \u2022 It could not verify that the clocks audit contained 10 recommendations. Oversight.gov lists them. \u2022 It correctly refused to explain a FOIA denial that exists only in a letter sent to us. GSA has not published the inventory of \u201c29,000 websites,\u201d the definition of a website, update frequency, source ranking, models, or change logs. We sent that inquiry last night. Search still is not a records request. America.gov can tell you what the government has already posted. It cannot establish what the government has not. FOIA does that. Full write-up, including the questions and scoring: https://bureaucracy.news/2026/09/30/we-asked-america-gov-15-questions-it-did-surprisingly-well/ Curious how this holds up on ordinary citizen questions versus research questions. Night one is not a full eval."
     },
     {
       "title": "Gemini 4 Argon Releases",
@@ -57,15 +57,15 @@
       "description": null
     },
     {
-      "title": "Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/",
-      "published": 1790796416.0,
-      "thumbnail": "https://external-preview.redd.it/QxT5gUiZS3C1lnFuJuBKlvxJIRnJijVsZm7cwf7HwcY.jpeg?width=640&crop=smart&auto=webp&s=579b6b8581f1e4180e90cea8586ded08bdd0e84c",
-      "external_url": "https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies",
-      "site_name": "The New Republic",
-      "favicon": "https://assets.newrepublic.com/assets/favicons/apple-touch-icon-57x57.png",
-      "description": "Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies."
+      "title": "We stress-tested America.gov on night one with 15 questions from our own reporting. 9 correct, 6 incomplete, zero hallucinations.",
+      "author": "hannotek",
+      "url": "https://www.reddit.com/r/artificial/comments/1wu7f9w/we_stresstested_americagov_on_night_one_with_15/",
+      "published": 1790780893.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "GSA launched America.gov yesterday as an AI \u201cfront door\u201d that supposedly combines information from more than 29,000 government websites. The White House says you can ask any question and get an up-to-date answer. We did not ask how to renew a passport. We used 15 questions from reporting we already had on file\u2014Paducah contaminated nickel, Judgment Fund payouts for DOE\u2019s failure to take commercial spent nuclear fuel, CBP contractors who kept system access after separation, PBGC Form 10 attrition counts the agency never published, whether stolen used cooking oil can generate RINs or a 45Z credit, a VA OIG FOIA denial in a benefits-fraud case, why all 10 recommendations in the Defense Regional Clocks audit are classified, MMTLP/FINRA, Virginia voter-list products, and a public DOE contract number. Method: We already knew the answer, knew there was no public answer, or had agency correspondence the system should not have. We scored correct / partial / incorrect / unsupported / blocked. Result: \u2022 9 correct \u2022 6 substantially correct but incomplete \u2022 0 fabricated answers we could identify The useful finding was not the score. When America.gov did not know something, it generally stopped. One reply: \u201cI cannot invent that number.\u201d Limits showed up fast: \u2022 It found the right DHS OIG report on separated CBP contractors, then said the counts were not in the available material. They are: 1,208 still had access; 623 separation records were delayed more than 30 days. \u2022 Nuclear-waste and spent-fuel figures were accurate but stale. Newer federal totals are higher. \u2022 It flagged contract DE-AC05-97OR22576 in red and told us to \u201cRemove personal information before sending.\u201d That is a public DOE contract ID. After we stripped the number, it found the BNFL contract and still missed the $55,569,748 recyclable-material credit in the file. \u2022 It could not verify that the clocks audit contained 10 recommendations. Oversight.gov lists them. \u2022 It correctly refused to explain a FOIA denial that exists only in a letter sent to us. GSA has not published the inventory of \u201c29,000 websites,\u201d the definition of a website, update frequency, source ranking, models, or change logs. We sent that inquiry last night. Search still is not a records request. America.gov can tell you what the government has already posted. It cannot establish what the government has not. FOIA does that. Full write-up, including the questions and scoring: https://bureaucracy.news/2026/09/30/we-asked-america-gov-15-questions-it-did-surprisingly-well/ Curious how this holds up on ordinary citizen questions versus research questions. Night one is not a full eval."
     },
     {
       "title": "is the AI product flood actually a bubble, or just the messy part of a wave that ends up mattering?",
@@ -79,38 +79,38 @@
       "description": "Been watching the launch cadence lately and something feels off. Every week there's a new model, a new agent framework, a new thing that claims to change everything. Most of it is rough, half-baked, or solves a problem that didn't exist six months ago. As someone trying to build a small SaaS project without drowning in tooling choices, the noise is actively worse than the scarcity we had before. What I keep coming back to is whether this oversupply of barely-differentiated products is actually how tech waves work. The internet bubble looked stupid in retrospect but the infrastructure built during it turned out to matter. Same with mobile. Maybe the current mess of AI wrappers and thin agents is the equivalent of Pets.com. Useful in the sense that it trains people, builds pipes, burns through capital that would otherwise sit idle. The part that bugs me is the opportunity cost for people building with this stuff. Picking the wrong stack because of hype is a real tax on small projects. I've killed two side project ideas after realizing the foundation I chose was already deprecated. That didn't happen with older tech in the same way."
     },
     {
-      "title": "BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-      "author": "nleksan",
-      "url": "https://www.reddit.com/r/artificial/comments/1wu0f51/bbc_openai_agents_get_rebrand_as_dots_while/",
-      "published": 1790760546.0,
-      "thumbnail": "https://external-preview.redd.it/l3i3Ex0aU4Mxxs4GTC4OZ1YB8w48OIN4r3pQmugkG8s.jpeg?width=640&crop=smart&auto=webp&s=950225617e7a042ae6dcc62594a41cf1f6122bc5",
-      "external_url": "https://www.bbc.com/news/articles/cw7v42rp083eo",
-      "site_name": "bbc.com",
-      "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260922-091849-a8520cb5b4-web-3.22.0-3/apple-touch-icon.png",
-      "description": "\"OpenAI has given a new name its updated versions of artificial intelligence tools which are widely known as agents, calling them \"dots\" instead Chief executive Sam Altman referred to \"dots\" as \"remarkably capable, always-on agents that can handle really anything you can think of.\" OpenAI in recent months has come under intense scrutiny as internal tests of its AI agents have revealed often unexpected and occasionally harmful actions, leading to more public and government fears. Dots, however, were pitched as brightly coloured cute cartoons meant to function as digital assistants for people with busy lives. The dots, Altman said, \"can handle really anything you can think of.\" ...\""
-    },
-    {
-      "title": "Trump\u2019s FTC is investigating OpenAI and Anthropic one day after bringing them to the White House",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1wueve6/trumps_ftc_is_investigating_openai_and_anthropic/",
-      "published": 1790797736.0,
-      "thumbnail": "https://external-preview.redd.it/YTelaulc5ra6finH4t76W5PYHYkJegLeIDfHQiBofzA.jpeg?width=640&crop=smart&auto=webp&s=6a3664776754167fafc8a914674988c55461e2f1",
-      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-ftc-anthropic-openai-investigation-b3059319.html",
-      "site_name": "The Independent",
-      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "Federal investigators will determine if tech firms are harming Americans with products that the president companies to regulate themselves"
-    },
-    {
-      "title": "Do you think we'll ever have local models on the level of Astra, Fable and Opus?",
-      "author": "Dogbold",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtyhhk/do_you_think_well_ever_have_local_models_on_the/",
-      "published": 1790752914.0,
+      "title": "What\u2019s an AI limitation that you only notice after using AI a lot?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1wully6/whats_an_ai_limitation_that_you_only_notice_after/",
+      "published": 1790815145.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Specifically with their ability to use Blender and other creation tools and make games for you on that same level, while taking control of your computer, creating files and running commands and such with all you needing to do is just asking it to make it. Will we ever get this? If we do, do you think it will be feasible without spending an insane amount of money on hardware to run it? Asking because I'm tired of how filtered these are and how much they refuse. Like I would very much like to ask Opus \"hey remake Rayman 2 for n64 for me and create new levels\" but I can't, because it will say \"that is copyright infringement and violation of licenses so I cannot\"."
+      "description": "Not the usual \u201cAI hallucinates\u201d answer. Something subtle that becomes obvious once you've used these systems enough a workflow problem, reasoning issue, context problem, or something else. What have you noticed?"
+    },
+    {
+      "title": "recomendaciones de IA?",
+      "author": "chanblock",
+      "url": "https://www.reddit.com/r/artificial/comments/1wuljqz/recomendaciones_de_ia/",
+      "published": 1790814963.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Se que hay varias ia para diferentes cosas, ejmplo gamma es para presentaciones, pero la verdad es que claude desing hace muy buenas cosas, mi pregunta es, cual IA recomiendan dependiendo la actividad que se haga, o con pro de alguna ya se tiene m\u00e1s que suficiente?"
+    },
+    {
+      "title": "porque gemini es tan malo?",
+      "author": "chanblock",
+      "url": "https://www.reddit.com/r/artificial/comments/1wulicl/porque_gemini_es_tan_malo/",
+      "published": 1790814851.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "tengo el plan pro y aun asi no responde igual que los planes pro de otros modelos"
     }
   ],
-  "fetched_at": "2026-09-30T21:14:56.306257+00:00"
+  "fetched_at": "2026-10-01T00:41:53.717246+00:00"
 }
