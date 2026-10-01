@@ -5,27 +5,17 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trump renames AI to 'Super Intelligence' as AI leaders sign landmark safety agreement",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS25JeWF6N2RwMHFIaXBEeW5PTndEN3I4NXV6ODNUZ053dC1jem9QX2tybzkxX2FMM2ZzaG5zRld3ZVp0Mkxudm9YU1IxdFFYMXpQaFVNb3JJYW5iTDZlM0NXV0xZb3NMaGtObnFmNDIyR2h5dzdBY2NTYXZsY0lKLUhONHU3Q1ll?oc=5",
-      "pub_date": 1790806911.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-meeting-google-executive-order",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/ebb3ab359317f73587c75b8c38beae3d.jpg",
-      "description": "I leaders from Google, Meta, ChatGPT maker OpenAI and others attend White House summit, sign landmark safety agreement to employ robust internal controls as Trump renames AI to \"Super Intelligence\""
+      "headline": "Forget \u2018superintelligence\u2019: error-prone AI nearly sparked world war three this month | Timnit Gebru and Emily M Bender",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFZCSFFiVG9DajFGU0JRbWZ3ZTJZVlA4Mmc3Rk5jbXAtbzQzRHJydXhMdEhmVmFZeGpnQS1Id2hLLWtkS0xBRmpSYkRrTTZpd3EyUEloVEYxU1dXUlNiSWhody1aZld5M1VTbm5xV0Mwd20xeHA1ay1wR1lkSmtlalJwaWduWXh3VktsM1pseTdZNGFqMWo0YTRFc2ZGQU1wa25xRmNseEZJOXRrQ0hxSDEydHV6VGFSYmFfZXNTTGlnZEVjNnJBd3JNNWYxdw?oc=5",
+      "pub_date": 1790845200.0,
+      "article_url": "https://www.theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
+      "image": "https://i.guim.co.uk/img/media/0d73ce3f33e41d2cc83104a798beda3a6a56487f/344_0_3409_2726/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f3d48b66daf058937af16616ee0be4d8",
+      "description": "The risks of AI aren\u2019t what we think they are, as a recent security incident between China and the United States reveals"
     },
     {
-      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWhaVGlFMFhRaGhGX1prSlFKVGNQY0hHTjhYa25PcERoaE5zU3FNOHh6MUN0S1ZXdDJlakozMnFfcnZvbW9YdTR0NmhZNGVTRDZTalNwSmFOaVF1VWppRlJ1Wlh1SWRIbU9jSk1GN3VheS0zUnZOeEw4MDg2ZG5nT3JoWkRkZEXSAYwBQVVfeXFMT1B5NV9RSGxQdGlKYXdDNUVDdlFMODVUMjRHazlVRTRpQ21EQWVJLUVzTUUyOTBINHRKVzVuYnZlYzhPUUI4Y1RDOHQxZkJLbUFEUnBNeTBwSU1Tb0trODRfVnJmZ0ExQ2o0SDRiV0FPWmJzc2htTW84RDBLR0lJZjlmeEJwakpJYlQxRGw?oc=5",
-      "pub_date": 1790820420.0,
-      "article_url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108370732-1790807387267-gettyimages-2297778788-kbd15563_jub3fg6t.jpeg?v=1790807538&w=1920&h=1080",
-      "description": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests."
-    },
-    {
-      "headline": "Late Night is Skeptical of A.I. Leaders Self-Regulating",
+      "headline": "Late Night Is Skeptical of A.I. Leaders Self-Regulating",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHlLampuNUVHR0xqZTVRelRvb1lSdVNGbXFkNExjS0lJV21DdE13dzA1X0djMWlzWXlNcG5mMGtGTV8wYUJ1RlpWRlB1U3B6Wnd2Z3VPaHFFc1NFMGVOdU9iUmVPYUdzUGJSUGNXdGZlUEpzclNTRTJMazloQ3llYV9qbm1vRnhMdWxuQm8tWEptUnQ0LUxlLWZB?oc=5",
@@ -35,8 +25,28 @@
       "description": null
     },
     {
+      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWhaVGlFMFhRaGhGX1prSlFKVGNQY0hHTjhYa25PcERoaE5zU3FNOHh6MUN0S1ZXdDJlakozMnFfcnZvbW9YdTR0NmhZNGVTRDZTalNwSmFOaVF1VWppRlJ1Wlh1SWRIbU9jSk1GN3VheS0zUnZOeEw4MDg2ZG5nT3JoWkRkZEXSAYwBQVVfeXFMT1B5NV9RSGxQdGlKYXdDNUVDdlFMODVUMjRHazlVRTRpQ21EQWVJLUVzTUUyOTBINHRKVzVuYnZlYzhPUUI4Y1RDOHQxZkJLbUFEUnBNeTBwSU1Tb0trODRfVnJmZ0ExQ2o0SDRiV0FPWmJzc2htTW84RDBLR0lJZjlmeEJwakpJYlQxRGw?oc=5",
+      "pub_date": 1790820420.0,
+      "article_url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108370732-1790807387267-gettyimages-2297778788-kbd15563_jub3fg6t.jpeg?v=1790807538&w=1920&h=1080",
+      "description": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests."
+    },
+    {
+      "headline": "We tested America.gov, Trump\u2019s new AI \u2018concierge.\u2019 Here\u2019s what it can do.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW1OcFFhc0VIWTNMVUVacEdtMHp3QjYxSVpjemJhZ18xTU8xYlRFZnRuYmt5cFc1T1ljQlJFdTV5WUpHLUthUVpwMWpKczRvXzNpR2JLcjBhVzRTbDBleHNQVmVyZmxCckJOZG9sOXlGWnUtMmVqd0NQZWJnakVWMFpqY2lLUlFSbER0cjFzVXUzTXQwcWV0M0tseGREWndweVBucnRPUmFrSHRjR3ZVVGZheGp1blRMeVFTMGR3?oc=5",
+      "pub_date": 1790861567.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/10/01/governments-new-chatbot-wont-talk-politics-it-will-fact-check-trump/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ISCE5TUAKRFCNOSJFMPYLKRDSQ.png&w=1440",
+      "description": "The chatbot promises to help users with passports, Medicare and more. It can provide information, but it can\u2019t take actions for you yet."
+    },
+    {
       "headline": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5",
       "pub_date": 1790798408.0,
@@ -45,14 +55,14 @@
       "description": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements."
     },
     {
-      "headline": "Google announces Gemini 4 flagship AI model after months of delays",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5",
-      "pub_date": 1790806586.0,
-      "article_url": "https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/",
-      "image": null,
-      "description": null
+      "headline": "Google\u2019s latest launch puts its AI ambitions to the test",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEN0QjRJTXp3clpIOG1Hbmh1V0dWeEpPNGR5dVUtT2xNSzdXZElfY0ZiTnZDS3pBV21vRjZXSHFVZ1hPbUduel8xbUxlM29jOG1PSXhvNkdYbnpLUGtGMWpJVWUtRVBWNGR5UDF5bnZwWDExd1hYNDlINlVuY0dSNTBBd1VFRHFxTmdlalI2cmVwbXhhMklJMm5XTTJoVUVhR3BF?oc=5",
+      "pub_date": 1790863933.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-01/googles-latest-launch-puts-its-ai-ambitions-to-test",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/315bb89/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2F49%2Ffb42f34f436c9d332728fb133cfa%2Fgoogle-30417.jpg",
+      "description": "Alphabet Inc.\u2019s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model, but the company is grappling with internal skepticism over how well it performs in key areas, such as coding."
     },
     {
       "headline": "Gemini 4 Argon: our next era of frontier intelligence",
@@ -65,46 +75,36 @@
       "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon."
     },
     {
-      "headline": "Apollo to Support $15 Billion AI Infrastructure Project in Japan",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXYzVnJQelZ0MHBFS2dYaWxSaVpJSUZmWWJrMm8yQU9Wc3FjdV9vWDVvbkk2TlBGdmRqVGk0WTJOLWtXbkQ1Zm9tUVBCczJqdENtYTNmRnRVN18tNTJ5ejhYVmV3bjNDM0NoclYtRlBva3o5LWJ0M3J3MEN1NjA1Z1lBUzRvWkhPMl9reTBicHhFMHdUN2JqWGdhUFhBalRlTkI1LU1yM3dmeGVManFLOXVYOGtGRE9aUVZMNDdxbl9teERKT2gyZw?oc=5",
-      "pub_date": 1790836200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-01/apollo-to-support-15-billion-ai-infrastructure-project-in-japan?srnd=phx-india",
+      "headline": "Accenture stock surges as record bookings dispel AI fears",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd05rdW1GOFduSjlqaEFZdU5ST2M0Y3NRcm5uNG1Odm9UQkRsZEF2UFpPdlFJS0pvZEhfdXZCZWNhMllzOTlXbE1XYm9IcFNXemxqUmxlTllzamsyTktwN21vc21YeG03cUM4MDFkb1F0WDhXVjI3dXd2NktKOHZTSFVDYXRXZF9HUS1obE80LXcyeXBLOEc2bDd2RDRzTjU4TzgxZmtYTFRJZWVocmptSlhCUGw?oc=5",
+      "pub_date": 1790862104.0,
+      "article_url": "https://finance.yahoo.com/markets/article/accenture-stock-surges-as-record-bookings-dispel-ai-fears-133857510.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ea41da732c3a6d5044b8b1f6e3e44b3b876698a1485e2c7797f42b26832378b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F80d9a678-f348-4efc-a044-e929b6c84eb7",
+      "description": "Accenture stock jumped on Thursday on top- and bottom-line growth and record bookings in its fiscal Q4, indicating that AI has not squashed demand for traditional consulting and IT services."
+    },
+    {
+      "headline": "Vinod Khosla talks Seahawks, AI and agents",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xMjZnSTcyaERTbGxRMzdVMVJfOEI2NXFyZUxrdmRqZmNrYmtLY05ocUtDRTgwRUhodk9zM01OM080Wld3TjUzeFM4Y2oxUmxFNVhxMW0yc3NUUkNRbFE1TDU0YUVuWW5wS0g4MVBNcUlMQQ?oc=5",
+      "pub_date": 1790861992.0,
+      "article_url": "https://www.axios.com/2026/10/01/vinod-khosla-seahawks-ai-agents",
       "image": null,
       "description": null
     },
     {
-      "headline": "'AI glasses give me independence as a blind farmer'",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkxmSjJ0TjJ1MG1XWjQzSFU0NFg4cHBzM0hvQktkQnF1SUw1blJMLXRKMWV4Y09sbV9OUGswY2FJeEJENWJsR0RvcXlWYkJRTXcybXpZNWpJSGFUUk1lTzFOUG9HeWZNZHg3QmpqNjVYYUNneTl2NEU5RWZyLUM0Smd6bjFhbVlxbm5SaW1wUWNiVVRjTDdv?oc=5",
-      "pub_date": 1790832480.0,
-      "article_url": "https://www.yahoo.com/lifestyle/articles/ai-glasses-independence-blind-farmer-052828634.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/58f9bb413ce06def9f6c75e5b922ccf09111968fbba1412ce05eef3841f6e2ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd26af4907a13662cb39a6507625a0589.jpg",
-      "description": "Dave Cragg, who began to lose his sight at the age of 10, can even read books using the technology."
-    },
-    {
-      "headline": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdk41N0VqNHNwaWpqMzluNkEyem1uZmlrYmk4SE5BRUpRQ1Y1SVVsZ0w2dDVCZWVRYVBXTHc3dGd5SThSSGh2MXRRRUNlWXlfQWYyVnhVY29sS2c?oc=5",
-      "pub_date": 1790810723.0,
-      "article_url": "https://www.bbc.com/news/articles/cm4gjy9lr551o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/035f/live/4e878500-bcdb-11f1-babe-4199b0e7ccea.jpg",
-      "description": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do."
-    },
-    {
-      "headline": "Introducing dots",
-      "source": "openai.com",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "pub_date": 1790729220.0,
-      "article_url": "https://openai.com/index/introducing-dots/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&h=900&fit=fill",
-      "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+      "headline": "For African AI, Open Source Is Often The Only Option \u2014 Not A Virtue.",
+      "source": "forbes.com",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWRsQ09uV0tVc3FsXzByZEstMW5DT01YWGFFcjJnWVgydXlCWnc0V091ZkpzeXhnUkNBeWxJT20yNkJEdjlkeUdhQUt6UHhKVE4xb2ZWeU4yZGhGR1dTME5HbXh0ZXBFdTFENkZPVHdjZWRBeU9GTzdlOGNPcEpKbzJZVE5YZWRBM0RDQVBxNkV0NWN6QXN0S3NfSWkzQUhpMzZMb01HNVhTb2k4amQwelRmYTI?oc=5",
+      "pub_date": 1790862124.0,
+      "article_url": "https://www.forbes.com/sites/ashoka/2026/10/01/for-african-ai-open-source-is-often-the-only-option---not-a-virtue/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T06:55:33.200288+00:00"
+  "fetched_at": "2026-10-01T14:16:11.412194+00:00"
 }

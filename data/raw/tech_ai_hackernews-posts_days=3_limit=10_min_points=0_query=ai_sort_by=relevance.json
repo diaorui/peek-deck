@@ -9,8 +9,8 @@
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "hn_url": "https://news.ycombinator.com/item?id=49883471",
       "author": "ibobev",
-      "points": 620,
-      "num_comments": 276,
+      "points": 621,
+      "num_comments": 277,
       "created_at": "2026-09-28T19:53:35Z",
       "object_id": "49883471",
       "image": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp",
@@ -23,8 +23,8 @@
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "hn_url": "https://news.ycombinator.com/item?id=49896050",
       "author": "paimapi",
-      "points": 562,
-      "num_comments": 426,
+      "points": 565,
+      "num_comments": 427,
       "created_at": "2026-09-29T16:30:48Z",
       "object_id": "49896050",
       "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
@@ -33,32 +33,32 @@
       "site_name": "Electronic Frontier Foundation"
     },
     {
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "hn_url": "https://news.ycombinator.com/item?id=49875148",
-      "author": "ljewalsh",
-      "points": 440,
-      "num_comments": 395,
-      "created_at": "2026-09-28T08:35:40Z",
-      "object_id": "49875148",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "thecivilian.co.nz"
-    },
-    {
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "hn_url": "https://news.ycombinator.com/item?id=49890226",
       "author": "damaru2",
       "points": 422,
-      "num_comments": 137,
+      "num_comments": 138,
       "created_at": "2026-09-29T09:03:41Z",
       "object_id": "49890226",
       "image": null,
       "description": null,
       "favicon": "https://jorgegarciaherrero.com/favicon.ico",
       "site_name": "jorgegarciaherrero.com"
+    },
+    {
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "hn_url": "https://news.ycombinator.com/item?id=49910553",
+      "author": "allisdust",
+      "points": 394,
+      "num_comments": 439,
+      "created_at": "2026-09-30T15:50:11Z",
+      "object_id": "49910553",
+      "image": "https://insufferable.dev/insufferable-og.png",
+      "description": "Funny how quiet everyone got.",
+      "favicon": "https://insufferable.dev/favicon.svg",
+      "site_name": "insufferable.dev"
     },
     {
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
@@ -73,20 +73,6 @@
       "description": "If we think Is writing code dead, and AI is generating all codebases, I still think the bigger problem is people or full teams not knowing anything anymore about the system...",
       "favicon": "https://www.ssp.sh/brain/icon.png",
       "site_name": "Simon Sp\u00e4ti's Second Brain"
-    },
-    {
-      "title": "The AI Race Just Got Awkward",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-      "hn_url": "https://news.ycombinator.com/item?id=49910553",
-      "author": "allisdust",
-      "points": 383,
-      "num_comments": 422,
-      "created_at": "2026-09-30T15:50:11Z",
-      "object_id": "49910553",
-      "image": "https://insufferable.dev/insufferable-og.png",
-      "description": "Funny how quiet everyone got.",
-      "favicon": "https://insufferable.dev/favicon.svg",
-      "site_name": "insufferable.dev"
     },
     {
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
@@ -107,7 +93,7 @@
       "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
       "hn_url": "https://news.ycombinator.com/item?id=49898952",
       "author": "Betelbuddy",
-      "points": 219,
+      "points": 220,
       "num_comments": 327,
       "created_at": "2026-09-29T19:21:25Z",
       "object_id": "49898952",
@@ -115,20 +101,6 @@
       "description": "Data centre sizes and costs are doubling about every 12 to 16 months",
       "favicon": "https://www.thenationalnews.com/pf/resources/favicon.jpeg?d=1161",
       "site_name": "The National"
-    },
-    {
-      "title": "What would a serious AI product look like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49876148",
-      "author": "lumpa",
-      "points": 174,
-      "num_comments": 83,
-      "created_at": "2026-09-28T11:02:12Z",
-      "object_id": "49876148",
-      "image": null,
-      "description": "Deciphering Glyph, the blog of Glyph Lefkowitz.",
-      "favicon": "https://blog.glyph.im/images/favicon.ico",
-      "site_name": "blog.glyph.im"
     },
     {
       "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
@@ -143,9 +115,37 @@
       "description": null,
       "favicon": null,
       "site_name": "appleinsider.com"
+    },
+    {
+      "title": "Sustainable energy without the hot air (2008)",
+      "url": "https://www.withouthotair.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49892175",
+      "author": "0sake_rs",
+      "points": 149,
+      "num_comments": 91,
+      "created_at": "2026-09-29T12:38:18Z",
+      "object_id": "49892175",
+      "image": null,
+      "description": null,
+      "favicon": "https://www.withouthotair.com/favicon.ico",
+      "site_name": "withouthotair.com"
+    },
+    {
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "hn_url": "https://news.ycombinator.com/item?id=49886005",
+      "author": "6thbit",
+      "points": 139,
+      "num_comments": 146,
+      "created_at": "2026-09-28T23:40:59Z",
+      "object_id": "49886005",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "reuters.com"
     }
   ],
-  "total_hits": 787,
+  "total_hits": 786,
   "has_metadata": true,
-  "fetched_at": "2026-10-01T06:55:01.752704+00:00"
+  "fetched_at": "2026-10-01T14:15:47.180507+00:00"
 }
