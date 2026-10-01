@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-01T00:42:24.685168+00:00'
+updated: '2026-10-01T06:55:35.111560+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 01, 2026 at 00:42 UTC  
+**Last Updated:** October 01, 2026 at 06:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,682.40
+### $2,713.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -0.3%  
-**30d:** +12.3%  
-**90d:** +50.7%  
-**1y:** -40.1%  
+**24h:** +1.4%  
+**7d:** +0.9%  
+**30d:** +13.6%  
+**90d:** +52.5%  
+**1y:** -39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $327.44B
+**Market Cap:** $331.53B
 Rank #2
 
-**Circulating Supply:** 122,092,941 ETH
+**Circulating Supply:** 122,095,846 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.8%
+-45.1%
 
 **All-Time Low:** $0.43
-+619403.5%
++627069.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-19h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 a global government I would support system based on existing technological solutions. the expulsion of incompetence, lies and manipulation to choose our own destiny. voting is done over the phone. each person 1 vote. biometric fingerprint. decentralized. using advanced cryptography. transparency. for global issues, all locals vote for local ones. formation of global expert councils. their role is to provide an analysis and evaluation of the proposal. members are chosen exclusively on the basis of expertise and competence in given professions. basic 4 branches: Society Ethical-legal group Psychological-sociological group Cultural and educational group Resources Ecological-climatic group Economic and resource group Logistic-operational group Technology Technical and engineering group Digital-cybernetic group Science Logical-mathematical group Medical-biological group the council's role is to adopt, give, and formulate clear and transparent proposals for solving problems or situations every decision they make is transparent. with minutes for the archive. presenting a problem or proposing a solution is available to all residents. cognitive ability test before submitting a proposal each proposal must pass the acceptance threshold. ethical, logical, mathematical. technical let's say we have 10 valid suggestions for a solution.. the global advice gives a score of 1 or 0 each of those 10 groups. the ethics council gives the final assessment in the event that several proposals have the same number of positives. the proposal with the most positives goes to a global referendum every voter, i.e. individual or group, has the right of veto. they are obliged to present a valid counter-argument in the shortest possible time. any veto attempt that is driven by ego vanity or the desire for power is automatically rejected. algorithmic assessment. open source. mandatory system calibration, ethical, logical, mathematical. plus a decentralized network of jurors chosen on the basis of expertise. randomly selected. a valid argument is voted against the proposal of the council. in case of adoption of the argument, the proposal is rejected. if the vote is 50-50%, both sides have 24 hours to present new insights the vote is repeated. voting is optional. the possibility of voting is. it is not a problem for me that people wiser than me decide about our fate and social vector. as long as they ask all of us, because ultimately it concerns all of us I support expertise and objectivity as well as the diversity of the local community.
 
-8h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ a global government I would support system based on existing technological solut
 
 spent an hour moving eth around mainnet gas is still insane for simple swaps, and then you bridge to an L2 and the liquidity is half what you expect its a mess i love ethereum but its becoming a chore to actually use. ngl i still keep some eth on gemini just to have a clean way to stake and trade without thinking about gas or which rollup im on. centralization sucks but my sanity is worth something. back to staring at etherscan
 
-5h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ About 2 years ago RISC-V hardware got powerful enough to do initial tests for ru
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement) • 1d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement) • 2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The cryptographic world computer | Vitalik](https://www.reddit.com/r/ethereum/comments/1ws2z7z/the_cryptographic_world_computer_vitalik/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html) • 2d ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html) • 3d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The wallet returns three years after its shutdown, now running on Aztec Network with private balances and transactions.
 
-The Block • 1d ago
+theblock.co • 1d ago
 
 ---
 
@@ -164,11 +164,19 @@ Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 3
 
 ---
 
+**[MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)**
+
+MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat.
+
+The Hacker News • 1h ago
+
+---
+
 **[Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs](https://finance.yahoo.com/markets/crypto/articles/major-cryptocurrency-most-potential-growth-110049314.html)**
 
 Bitcoin, Ethereum, XRP, and Solana all crashed from their 2025 peaks, but one of them stands out as having a uniquely powerful combination of factors that could fuel a sharper recovery than the others.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -176,7 +184,7 @@ Yahoo Finance • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 15h ago
 
 ---
 
@@ -184,23 +192,15 @@ Fortune • 9h ago
 
 Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 17h ago
 
 ---
 
-**[Ethereum users get another way to pay privately as zk.money returns after three years](https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years)**
+**[DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins](https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps)**
 
-The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.
+DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Dips, While Ethereum, XRP, Dogecoin Gain: Bull Market 'Intact,' but Rally 'Showing Cracks,' Says Analyst](https://www.tradingview.com/news/benzinga:931a8d2c5094b:0-bitcoin-dips-while-ethereum-xrp-dogecoin-gain-bull-market-intact-but-rally-showing-cracks-says-analyst/)**
-
-Leading cryptocurrencies stayed resilient on Tuesday while rising government bond yields weighed on stock markets.Crypto Market Holds SteadyBitcoin held on to support in the mid-$82,000 region, while bulls attempted a break above $85,000. Ethereum oscillated between $2,650 and $2,740, while XRP and…
-
-TradingView • 22h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -212,6 +212,14 @@ ethereum.org • 2d ago
 
 ---
 
+**[Bitcoin Dips, While Ethereum, XRP, Dogecoin Gain: Bull Market 'Intact,' but Rally 'Showing Cracks,' Says Analyst](https://www.tradingview.com/news/benzinga:931a8d2c5094b:0-bitcoin-dips-while-ethereum-xrp-dogecoin-gain-bull-market-intact-but-rally-showing-cracks-says-analyst/)**
+
+Leading cryptocurrencies stayed resilient on Tuesday while rising government bond yields weighed on stock markets.Crypto Market Holds SteadyBitcoin held on to support in the mid-$82,000 region, while bulls attempted a break above $85,000. Ethereum oscillated between $2,650 and $2,740, while XRP and…
+
+TradingView • 1d ago
+
+---
+
 **[Bitmine Continues to Load Up on Ethereum, Now Owns 4.9% of all ETH in Circulation. Is BMNR Stock a Buy?](https://currently.att.yahoo.com/att/bitmine-continues-load-ethereum-now-172001755.html)**
 
 Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world.
@@ -220,27 +228,9 @@ Currently.com • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply](https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply)**
-
-Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.
-
-Decrypt News • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[BREAKING WALL STREET IS COMING! $10,000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY](https://www.youtube.com/watch?v=BAJpGVA8inA)**
-
-BREAKING WALL STREET IS COMING! $10000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY Claim ...
-
-📺 CryptoWendyO
-
-👁️ 12K • 👍 468 • 💬 14 • ⏱️ 30:38 • 6h ago
-
----
 
 **[Why I Think Ethereum Can Reach $16K This Bull Run](https://www.youtube.com/watch?v=PlLT0t3MQbk)**
 
@@ -248,27 +238,27 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 38 • 💬 1 • ⏱️ 5:39 • 10h ago
+👁️ 2K • 👍 44 • 💬 8 • ⏱️ 5:39 • 16h ago
 
 ---
 
-**[Jack Mallers :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=yLqfrDPHyxA)**
+**[BREAKING WALL STREET IS COMING! $10,000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY](https://www.youtube.com/watch?v=BAJpGVA8inA)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BREAKING WALL STREET IS COMING! $10000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY Claim ...
 
-📺 Crypto Nutshell
+📺 CryptoWendyO
 
-👁️ 13K • 👍 283 • 💬 21 • ⏱️ 17:08 • 1d ago
+👁️ 16K • 👍 522 • 💬 14 • ⏱️ 30:38 • 12h ago
 
 ---
 
-**[Massive XRP Purchase Cardano ADA MIGHT Get More Support Ethereum Announces NEW Upgrade](https://www.youtube.com/watch?v=mTlBOW4lpAE)**
+**[BITCOIN &amp; CRYPTO BEARISH SIGNAL (Trading Strategy)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2Sic4qKbYhY)**
 
-Not a day goes by in the cryptocurrency market where we dont get some kind of intense news. Companies have upped their ...
+BITCOIN & CRYPTO BEARISH SIGNAL (Trading Strategy)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Modern Investor
+📺 Crypto World
 
-👁️ 11K • 👍 817 • 💬 333 • ⏱️ 33:16 • 15h ago
+👁️ 5K • 👍 254 • 💬 42 • ⏱️ 24:29 • 5h ago
 
 ---
 
@@ -278,27 +268,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 390 • 💬 34 • ⏱️ 21:29 • 2d ago
+👁️ 20K • 👍 400 • 💬 34 • ⏱️ 21:29 • 2d ago
 
 ---
 
-**[ETH Could Shock Everyone!](https://www.youtube.com/watch?v=A8YcphcuZ3U)**
+**[Jack Mallers :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=yLqfrDPHyxA)**
 
-Ethereum could have a massive move ahead if it breaks the $5000 level. The speaker argues that ETH may not stop at the 1.618 ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto Archie Plus
+📺 Crypto Nutshell
 
-👁️ 13 • 👍 2 • ⏱️ 0:38 • 2h ago
-
----
-
-**[Joseph Chalom: Ethereum Is The Toll Road To Everything (Larry Fink&#39;s Words)](https://www.youtube.com/watch?v=s-Gu-S-VM6Y)**
-
-Joseph Chalom says Larry Fink's line that Ethereum is the toll road to tokenization is exactly the right way to think about the asset, ...
-
-📺 The Rollup
-
-👁️ 28K • 👍 407 • 💬 19 • ⏱️ 31:51 • 2d ago
+👁️ 14K • 👍 289 • 💬 21 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -308,17 +288,7 @@ Join Discord Group https://whop.com/checkout/plan_lyc1AoLEUzNVD X https://twitte
 
 📺 Pain of Crypto
 
-👁️ 10K • 👍 197 • 💬 24 • ⏱️ 6:17 • 1d ago
-
----
-
-**[XRP TO $200 Bitcoin To 1 Million Ethereum To 10K After Trump Devalues The Dollar!](https://www.youtube.com/watch?v=zAxTrrxztYE)**
-
-CASH APP= $CRYPTOTEACHER https://www.patreon.com/deathofcashbtc XRP TO $200 Bitcoin To 1 Million Ethereum To 10K ...
-
-📺 Cryptoteacher
-
-👁️ 842 • 👍 84 • 💬 2 • ⏱️ 29:31 • 4h ago
+👁️ 10K • 👍 199 • 💬 24 • ⏱️ 6:17 • 1d ago
 
 ---
 
@@ -328,7 +298,37 @@ FeeDrip - up to (67%) of your trading fees back, paid daily ...
 
 📺 Marzell Crypto
 
-👁️ 972 • 👍 20 • 💬 1 • ⏱️ 3:20 • 14h ago
+👁️ 1K • 👍 22 • 💬 1 • ⏱️ 3:20 • 20h ago
+
+---
+
+**[Massive XRP Purchase Cardano ADA MIGHT Get More Support Ethereum Announces NEW Upgrade](https://www.youtube.com/watch?v=mTlBOW4lpAE)**
+
+Not a day goes by in the cryptocurrency market where we dont get some kind of intense news. Companies have upped their ...
+
+📺 The Modern Investor
+
+👁️ 12K • 👍 833 • 💬 362 • ⏱️ 33:16 • 21h ago
+
+---
+
+**[ETHEREUM’S NEXT MASSIVE UPGRADE IS ALMOST HERE( A.I. AGENTS COMING TO THE DIGITAL EURO)](https://www.youtube.com/watch?v=Ld5w7gQsNcY)**
+
+Ethereum's Glamsterdam upgrade is moving toward its October 6 activation on the Sepolia testnet as developers prepare major ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 24K • 👍 341 • 💬 32 • ⏱️ 12:02 • 1d ago
+
+---
+
+**[Ethereum to $10K? The Setup Is Finally Starting to Make Sense](https://www.youtube.com/watch?v=UrIWhi__Gdo)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 17K • 👍 388 • 💬 175 • ⏱️ 39:58 • 2d ago
 
 ---
 
