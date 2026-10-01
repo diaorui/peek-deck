@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-01T06:55:35.107446+00:00'
+updated: '2026-10-01T14:16:14.832424+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 01, 2026 at 06:55 UTC  
+**Last Updated:** October 01, 2026 at 14:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,189.75
+### $83,957.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.1%  
-**30d:** +9.1%  
-**90d:** +33.2%  
-**1y:** -30.2%  
+**24h:** -0.3%  
+**7d:** -0.3%  
+**30d:** +8.7%  
+**90d:** +32.7%  
+**1y:** -30.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1690.33B
+**Market Cap:** $1684.46B
 Rank #1
 
 **Circulating Supply:** 20,090,909 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.3%
+-33.5%
 
 **All-Time Low:** $67.81
-+123976.1%
++123502.7%
 
 ---
 
@@ -87,7 +87,7 @@ don't be sheep
 
 **[I turned the Bitcoin price into a live battlefield. Order books deploy armies, price moves the front line, whale trades shift momentum, and liquidations trigger explosions.](https://www.reddit.com/r/Bitcoin/comments/1wt7vyv/i_turned_the_bitcoin_price_into_a_live/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin is the biggest honeypot on the internet, yet attackers are unable to cra
 
 September 28, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1665-btc-and-repurchases-152-million-of-strc_09-28-2026) • 1d ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1665-btc-and-repurchases-152-million-of-strc_09-28-2026) • 2d ago
 
 ---
 
@@ -119,7 +119,7 @@ September 28, 2026
 
 always sceptical but THIS IS GOOOOOOD
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/300k-bitcoin-by-2029-fidelity-strategists-bull-call-collides-with-2007-high-yields/) • 1d ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/300k-bitcoin-by-2029-fidelity-strategists-bull-call-collides-with-2007-high-yields/) • 2d ago
 
 ---
 
@@ -155,9 +155,53 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 ## Google News: "bitcoin"
 
+**[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
+
+Reuters • 5h ago
+
+---
+
+**[Bitcoin just landed a surprising new bull](https://finance.yahoo.com/markets/crypto/article/bitcoin-just-landed-a-surprising-new-bull-104334737.html)**
+
+Citi analyst Alex Saunders on Thursday raised his base case price forecast on bitcoin (BTC-USD) to $113,000 from $82,000.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume](https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume)**
+
+Citi also raised its 12-month target for ether from from $2,240 to $3,028.
+
+CoinDesk • 2h ago
+
+---
+
 **[Bitcoin Pioneer Adam Back’s Empire Beset by Hack, Lawsuits](https://www.bloomberg.com/news/articles/2026-09-29/bitcoin-pioneer-adam-back-s-empire-beset-by-hack-lawsuits)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
+
+TribLIVE.com • 3h ago
+
+---
+
+**[Bitcoin kicks off new quarter in the old $82,000-$85,000 price range](https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range)**
+
+Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help.
+
+CoinDesk • 3h ago
+
+---
+
+**[Current price of Bitcoin for Sept. 29, 2026](https://fortune.com/article/price-of-bitcoin-09-29-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
@@ -165,65 +209,21 @@ Bloomberg.com • 1d ago
 
 Paul Chowles from Bristol took cryptocurrency seized in an investigation into a dark website.
 
-BBC • 18h ago
+BBC • 1d ago
 
 ---
 
-**[BTC price: Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall](https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall)**
+**[Bitcoin ETFs' 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds](https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384)**
 
-A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away.
+The nine-day streak had marked one of the most positive runs for the bitcoin funds this year, taking cumulative flows back into positive territory.
 
-CoinDesk • 2h ago
-
----
-
-**[Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs](https://finance.yahoo.com/markets/crypto/articles/major-cryptocurrency-most-potential-growth-110049314.html)**
-
-Bitcoin, Ethereum, XRP, and Solana all crashed from their 2025 peaks, but one of them stands out as having a uniquely powerful combination of factors that could fuel a sharper recovery than the others.
-
-Yahoo Finance • 19h ago
-
----
-
-**[Delaware County bitcoin mining facility raises questions](https://www.telegraphherald.com/news/tri-state/article_ca837341-7585-5f83-b3e8-5515ffc78f36.html)**
-
-The operation was built without the county’s full knowledge, and neighbors say it’s generating noise and causing power outages that interfere with their quality of life.
-
-TelegraphHerald.com • 1d ago
-
----
-
-**[Bitcoin on Pace for Best Quarter in Nearly Two Years](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2)**
-
-WSJ • 1d ago
+The Block • 1h ago
 
 ---
 
 **[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
 
-MarketWatch • 17h ago
-
----
-
-**[Current price of Bitcoin for Sept. 30, 2026](https://fortune.com/article/price-of-bitcoin-09-30-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 16h ago
-
----
-
-**[Strategy’s Michael Saylor Says We’re In A Bitcoin ‘Gold Rush’](https://finance.yahoo.com/markets/crypto/articles/strategy-michael-saylor-says-bitcoin-135500984.html)**
-
-Michael Saylor, the executive chairman of serial Bitcoin (CRYPTO: $BTC) acquirer Strategy (NASDAQ: $MSTR), says tha...
-
-Yahoo Finance • 17h ago
-
----
-
-**[Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)](https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys)**
-
-Seeking Alpha • 2d ago
+MarketWatch • 13h ago
 
 ---
 
@@ -233,7 +233,7 @@ Seeking Alpha • 2d ago
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 13h ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
+⬆️ 3 • 💬 0 • 21h ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -255,7 +255,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 **[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
 
-⬆️ 2 • 💬 0 • 3d ago
+⬆️ 2 • 💬 0 • 4d ago
 
 ---
 
@@ -271,23 +271,43 @@ Satnam Singh’s personal website
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin To $113K? Citi Just Raised Its Target By 38% | Matthew Sigel](https://www.youtube.com/watch?v=tvHxYE7C8jk)**
+
+Bitcoin #Crypto #finance Citi raises its Bitcoin target to $113K as institutional demand returns, even as Treasury yields hit 24-year ...
+
+📺 The Wolf Of All Streets
+
+👁️ 2K • 👍 185 • 💬 20 • ⏱️ 48:52 • 23m ago
+
+---
+
+**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
+
+Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 5K • 👍 872 • 💬 122 • ⏱️ 19:06 • 3h ago
+
+---
+
 **[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=OuNjnmsqg4M)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 2K • 💬 129 • ⏱️ 27:09 • 4h ago
+👁️ 96K • 👍 4K • 💬 245 • ⏱️ 27:09 • 11h ago
 
 ---
 
-**[Seriously What The FU*K just happened to BITCOIN](https://www.youtube.com/watch?v=S_wB2KkZFOM)**
+**[THE BITCOIN RALLY ISN&#39;T OVER... BUT THERE IS A PROBLEM...](https://www.youtube.com/watch?v=GVhqsFVt5AM)**
 
-Blofin https://ckenny.com/BlOFinMain ($3000000) ⚠️ DISCLAIMER – READ FIRST This video is not financial advice. It is for ...
+FIRST TIME IN THE US: TRADE PERPS ON KALSHI! The only place to trade perps on a U.S.-licensed ...
 
-📺 Conor Kenny
+📺 100XClub
 
-👁️ 2K • 👍 175 • 💬 22 • ⏱️ 10:22 • 3h ago
+👁️ 9K • 👍 686 • 💬 141 • ⏱️ 12:10 • 8h ago
 
 ---
 
@@ -297,37 +317,17 @@ Bitcoin just delivered its strongest Q3 in nine years, gaining roughly 43% as mo
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 251 • 💬 69 • ⏱️ 16:04 • 8h ago
+👁️ 5K • 👍 290 • 💬 64 • ⏱️ 16:04 • 16h ago
 
 ---
 
-**[Bitcoin Dominance Warning? Alts About To Collapse? Deep Dive Into Crypto](https://www.youtube.com/watch?v=HPrw2RZYLMA)**
+**[Seriously What The FU*K just happened to BITCOIN](https://www.youtube.com/watch?v=S_wB2KkZFOM)**
 
-Bitcoin dominance is flashing a warning signal that could spell major trouble for altcoins, and it could pull Bitcoin back toward ...
+Blofin https://ckenny.com/BlOFinMain ($3000000) ⚠️ DISCLAIMER – READ FIRST This video is not financial advice. It is for ...
 
-📺 Gareth Soloway
+📺 Conor Kenny
 
-👁️ 79K • 👍 3K • 💬 350 • ⏱️ 9:56 • 12h ago
-
----
-
-**[💣💣💣 BTC Update: TICK, TICK, TICK,.... Bitcoin Will Likely Begin to Collapse in the Coming Days Ahead](https://www.youtube.com/watch?v=TfpDTT6rKgE)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 10K • 👍 411 • ⏱️ 28:38 • 11h ago
-
----
-
-**[Discover Crypto, Bitcoin &amp; Altcoin News](https://www.youtube.com/watch?v=tuZYLnV4Mkc)**
-
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 108 • 💬 37 • ⏱️ 4:18 • 7h ago
+👁️ 12K • 👍 356 • 💬 50 • ⏱️ 10:22 • 10h ago
 
 ---
 
@@ -337,37 +337,37 @@ The Fed just raised rates, yet Bitcoin keeps climbing. Mark Moss, host of the Ma
 
 📺 Bitcoin Magazine
 
-👁️ 25K • 👍 434 • 💬 26 • ⏱️ 29:02 • 13h ago
+👁️ 34K • 👍 543 • 💬 27 • ⏱️ 29:02 • 20h ago
 
 ---
 
-**[&quot;Why Bitcoin Is Going To $1.5 Million Per Coin, 0.1 BTC Will Be Huge!&quot;: Cathie Wood (New Upate 2026)](https://www.youtube.com/watch?v=NEX_LWjJq7g)**
+**[SHOCKING Q4 BITCOIN PRICE TARGETS REVEALED...](https://www.youtube.com/watch?v=zPkQOJwTShE)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Crypto Nutshell
+📺 Crypto Rover
 
-👁️ 9K • 👍 174 • 💬 13 • ⏱️ 25:02 • 14h ago
-
----
-
-**[Bitcoin (BTC): History Says One LAST MASSIVE CRASH Is Coming... Should We Listen? (WATCH ASAP)](https://www.youtube.com/watch?v=3i1q44fEzxo)**
-
-Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Excluding Australian Viewers) 15% off ...
-
-📺 MegaWhale Crypto
-
-👁️ 4K • 👍 336 • 💬 66 • ⏱️ 20:56 • 5h ago
+👁️ 10K • 👍 628 • 💬 20 • ⏱️ 11:15 • 5h ago
 
 ---
 
-**[BITCOIN - THE SWITCH IS ABOUT TO FLIP!](https://www.youtube.com/watch?v=4796ni0v5kk)**
+**[THIS BITCOIN SIGNAL HAS NEVER FAILED...[Flashing NOW]](https://www.youtube.com/watch?v=x3bja5MWT8s)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+My Private Group: (closed for now) My Trading Strategy Tutorial: Strategy tutorial : https://youtu.be/QltnRKhXi3A My Strategies ...
 
-📺 My Financial Friend
+📺 Satoshi Stacker
 
-👁️ 12K • 👍 352 • 💬 73 • ⏱️ 12:18 • 15h ago
+👁️ 7K • 👍 341 • 💬 10 • ⏱️ 20:33 • 6h ago
+
+---
+
+**[Bitcoin Dominance Warning? Alts About To Collapse? Deep Dive Into Crypto](https://www.youtube.com/watch?v=HPrw2RZYLMA)**
+
+Bitcoin dominance is flashing a warning signal that could spell major trouble for altcoins, and it could pull Bitcoin back toward ...
+
+📺 Gareth Soloway
+
+👁️ 95K • 👍 4K • 💬 288 • ⏱️ 9:56 • 20h ago
 
 ---
 

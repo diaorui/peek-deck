@@ -12,12 +12,31 @@
       "hf_url": "https://huggingface.co/papers/2609.33439",
       "arxiv_url": "https://arxiv.org/abs/2609.33439",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 468,
+      "upvotes": 494,
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/EverMind-AI/Raven",
-      "github_stars": 4987,
+      "github_stars": 5033,
       "project_page": "https://raven.evermind.ai/"
+    },
+    {
+      "id": "2609.05415",
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
+      "organization_name": "princetonu",
+      "organization_fullname": "Princeton University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/b3xXusq8Zz3ej8Z6fRTSZ.png",
+      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to arbitrary kinematic trees via the graph Laplacian; and (3) a global topological conditioner attention-pooled from the rest-pose skeleton. We also curate UniML3D, 13,006 motion sequences spanning bipedal, quadrupedal, avian, marine, insectoid, serpentine, and articulated rigid objects with unified canonicalization and text pairing. Trained on this dataset, UniMate outperforms state-of-the-art baselines in quality, generalization, and efficiency, and supports zero-shot cross-topology transfer, in-betweening, expansion, and text-guided editing. Our project page is available at https://linzhanmou.com/unimate/.",
+      "ai_summary": "UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.",
+      "hf_url": "https://huggingface.co/papers/2609.05415",
+      "arxiv_url": "https://arxiv.org/abs/2609.05415",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
+      "upvotes": 17,
+      "num_comments": 2,
+      "published_at": "2026-09-03T20:00:00.000Z",
+      "github_repo": "https://github.com/Friedrich-M/UniMate",
+      "github_stars": 901,
+      "project_page": "https://linzhanmou.com/unimate/"
     },
     {
       "id": "2609.24972",
@@ -35,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 1036,
+      "github_stars": 1086,
       "project_page": "https://regularized-rsi.com/"
     },
     {
@@ -54,27 +73,8 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 109380,
+      "github_stars": 109428,
       "project_page": null
-    },
-    {
-      "id": "2609.05415",
-      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-      "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
-      "organization_name": "princetonu",
-      "organization_fullname": "Princeton University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/b3xXusq8Zz3ej8Z6fRTSZ.png",
-      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to arbitrary kinematic trees via the graph Laplacian; and (3) a global topological conditioner attention-pooled from the rest-pose skeleton. We also curate UniML3D, 13,006 motion sequences spanning bipedal, quadrupedal, avian, marine, insectoid, serpentine, and articulated rigid objects with unified canonicalization and text pairing. Trained on this dataset, UniMate outperforms state-of-the-art baselines in quality, generalization, and efficiency, and supports zero-shot cross-topology transfer, in-betweening, expansion, and text-guided editing. Our project page is available at https://linzhanmou.com/unimate/.",
-      "ai_summary": "UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.",
-      "hf_url": "https://huggingface.co/papers/2609.05415",
-      "arxiv_url": "https://arxiv.org/abs/2609.05415",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
-      "upvotes": 16,
-      "num_comments": 2,
-      "published_at": "2026-09-03T20:00:00.000Z",
-      "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 814,
-      "project_page": "https://linzhanmou.com/unimate/"
     },
     {
       "id": "2609.37725",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.37725",
       "arxiv_url": "https://arxiv.org/abs/2609.37725",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.37725.png",
-      "upvotes": 26,
+      "upvotes": 27,
       "num_comments": 2,
       "published_at": "2026-09-28T20:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/context-language-models",
@@ -134,25 +134,6 @@
       "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
     },
     {
-      "id": "2609.34981",
-      "title": "What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling",
-      "authors": "Renping Zhou, Zanlin Ni, Zihao Fan et al. (11 authors)",
-      "organization_name": "Tsinghua-LeapLab",
-      "organization_fullname": "Tsinghua-LeapLab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63987ffb2ceb55aabe0852f3/hflTWNTGxeJx83xNkYrDB.png",
-      "summary": "World action models (WAMs) predict the future alongside actions during training. Due to the heavy computation cost of video denoising, whether the future must still be generated during inference is disputed: Explicit WAMs denoise it into clean frames along with every action chunk, whereas Latent WAMs discard it entirely for acceleration. We find that latent WAMs, despite matching explicit ones on in-distribution tasks, fail to retain the generalization benefits that originally motivated WAMs. To demonstrate this, we evaluate generalization along three axes: environmental perturbation, data efficiency, and task generalization. Controlled comparisons with a matched backbone, training data, and budget reveal consistent degradation across all three axes when the action expert no longer conditions on future representations. Further analysis shows that the gap arises almost entirely from the first denoising step: the benefit comes from preparing the future, not generating it. We therefore propose Simple-WAM, which simplifies future modeling into a single forward pass of fully noised video tokens and adapts the training-time noise schedule to this inference behavior. Across simulation and real-world tasks, Simple-WAM achieves the best of both worlds, leading explicit WAMs in generalization performance with efficiency comparable to Latent WAMs. Project Page: https://zrporz.github.io/Simple-WAM-Web/",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.34981",
-      "arxiv_url": "https://arxiv.org/abs/2609.34981",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34981.png",
-      "upvotes": 106,
-      "num_comments": 2,
-      "published_at": "2026-09-28T20:00:00.000Z",
-      "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
-      "github_stars": 59,
-      "project_page": "https://zrporz.github.io/Simple-WAM-Web/"
-    },
-    {
       "id": "2309.06180",
       "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
       "authors": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)",
@@ -172,6 +153,25 @@
       "project_page": null
     },
     {
+      "id": "2609.34981",
+      "title": "What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling",
+      "authors": "Renping Zhou, Zanlin Ni, Zihao Fan et al. (11 authors)",
+      "organization_name": "Tsinghua-LeapLab",
+      "organization_fullname": "Tsinghua-LeapLab",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63987ffb2ceb55aabe0852f3/hflTWNTGxeJx83xNkYrDB.png",
+      "summary": "World action models (WAMs) predict the future alongside actions during training. Due to the heavy computation cost of video denoising, whether the future must still be generated during inference is disputed: Explicit WAMs denoise it into clean frames along with every action chunk, whereas Latent WAMs discard it entirely for acceleration. We find that latent WAMs, despite matching explicit ones on in-distribution tasks, fail to retain the generalization benefits that originally motivated WAMs. To demonstrate this, we evaluate generalization along three axes: environmental perturbation, data efficiency, and task generalization. Controlled comparisons with a matched backbone, training data, and budget reveal consistent degradation across all three axes when the action expert no longer conditions on future representations. Further analysis shows that the gap arises almost entirely from the first denoising step: the benefit comes from preparing the future, not generating it. We therefore propose Simple-WAM, which simplifies future modeling into a single forward pass of fully noised video tokens and adapts the training-time noise schedule to this inference behavior. Across simulation and real-world tasks, Simple-WAM achieves the best of both worlds, leading explicit WAMs in generalization performance with efficiency comparable to Latent WAMs. Project Page: https://zrporz.github.io/Simple-WAM-Web/",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.34981",
+      "arxiv_url": "https://arxiv.org/abs/2609.34981",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34981.png",
+      "upvotes": 107,
+      "num_comments": 2,
+      "published_at": "2026-09-28T20:00:00.000Z",
+      "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
+      "github_stars": 61,
+      "project_page": "https://zrporz.github.io/Simple-WAM-Web/"
+    },
+    {
       "id": "2504.19413",
       "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
       "authors": "Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)",
@@ -187,11 +187,11 @@
       "num_comments": 2,
       "published_at": "2025-04-27T21:46:35.000Z",
       "github_repo": "https://github.com/mem0ai/mem0",
-      "github_stars": 66383,
+      "github_stars": 66406,
       "project_page": "https://mem0.ai/research"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-01T06:55:13.448839+00:00"
+  "fetched_at": "2026-10-01T14:15:57.793192+00:00"
 }
