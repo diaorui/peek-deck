@@ -5,34 +5,54 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Can we predict the jobs robots will do?",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
-      "pub_date": 1790784060.0,
-      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
+      "headline": "Grant program helps students develop robotics skills",
+      "source": "Channel 3000",
+      "source_url": "https://www.channel3000.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVdyTkgzWElTb2RCNGZUNWE3MmpZdWpzSU9IZ0ZKV05PWXhxOTZhUkExc0doMDEwUmdzdm1yUWxEcGxHaG5JZTVOMlhrWW41WmhWbGdnUjcyX2d6V1RRcmRKdnlieTZWaXFkRl9OcHlqSzJ6eW1nR2ZCRTVpMElMOFo3Y1REdW10RmwxMXZxNENtZTlCRHZvRmwzYUJfd00xUk9oaFg5LURJU3JzM2NYb1JpRENDdE0taDNFbzBIMllPY09NaFZYamtIcFpkZ1U?oc=5",
+      "pub_date": 1790892840.0,
+      "article_url": "https://www.channel3000.com/video/grant-program-helps-students-develop-robotics-skills/video_554b67bc-3dcf-51d5-ac33-488b0999773c.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/5/54/554b67bc-3dcf-51d5-ac33-488b0999773c/6abedbae49cff.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "description": null
     },
     {
-      "headline": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlh2cHpGd1lZSFk0RkdhdTlRQ0xWREFSWllhSGZxczZ2M2tkemo1LTFGN2RXX0p6UWpXZkFRbkxZcS1ROFNDR2NWU1AzSWpMczZmbjRVSVlFSTJ3RFFtcERoR1kxRkJ6eUM1UFNrLTZmWER0NTJoVy1sNVhyakhYOVBTWGJ4RC1YdGIzZEVybGYzS3pDcHE2Q2pJd2JHZGIxd2NEMjJFYw?oc=5",
-      "pub_date": 1790784000.0,
-      "article_url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
-      "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+      "headline": "How Atlas\u2019 Four Finger Robot Hand Gets Superhuman Grip and Control",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Q1packtQcnp5cGxORkFDVGRSb3hmQlZIcVVueVhkLWR1RjZaUWs1YkJiZG8wTC1zcklkd0h2dTdiRzZ2bVZWSHZab05taExXbUx3dW9B?oc=5",
+      "pub_date": 1790751600.0,
+      "article_url": "https://spectrum.ieee.org/robust-robot-hand",
+      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-robotic-hand-with-three-fingers-and-a-thumb-making-a-gesture-similar-to-the-sign-of-the-horns.jpg?id=67879402&width=1200&height=600&coordinates=0%2C173%2C0%2C660",
+      "description": "Making a hand that\u2019s capable, reliable, and manufacturable is a very hard problem"
     },
     {
-      "headline": "ICE settles contract to buy Boston Dynamics robots for $1.3 million",
-      "source": "boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzYyczNsT29aQTJ3MExHaEZXOTBNblB4ZUMtSWhVcHJ3VUZJelpwTFc2bHFLaUFiTlF3VkZ6elBRNTNwTTBhZ1lvcHV4dWZBZlRoNHJ2clNnV2tFc3hMWXlXRDh0dFR3NjE4eHZTMDNuOE8xdk1INkhoS1c2T1E2WEpaWWlONGQyWURNeGZNeEF1MUdNRm16Y1JWcXpRSTlFaW9jTUl4c1FRMWxBdlJSTGJDNE96bVdz?oc=5",
-      "pub_date": 1790808240.0,
-      "article_url": "https://www.boston.com/news/local-news/2026/09/30/ice-settles-contract-to-buy-boston-dynamics-robots-for-1-3-million/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanrobots2biz-6abd844ad1f3c-768x432.jpg",
-      "description": "ICE settles its contract to buy four Boston Dynamics robots for $1.3 million."
+      "headline": "Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVBtWnVfb25LNm5kd21MUUxLR2JOblV6Y2lVUjBZUm14eG5Xb20wTzA5VDByZGdiVXNnaVlzaS05bk1zQWhNUURkVDZ4TjhEX1hyb25acUNRTFd1WHJxTzZJWHNVdUFjMi1iTHV3ZWtJVU5XXzBmbmRjYkdLQVVZVlY0b0VPLXFGSElmZGlTcXY1TUFXTDh0RA?oc=5",
+      "pub_date": 1790878920.0,
+      "article_url": "https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888977%2Ftesla-cybercab.jpg&w=1200&op=resize",
+      "description": "Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect."
+    },
+    {
+      "headline": "In Robotics, Google Goes Android to Tesla\u2019s Apple",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVlHMWJKMEdEOW1mQ2x2MzBNMnYxOWtuWWlzN1hpRG84czBDN3RsdFVZdWZMWkh2U3ljcEtHUkt1X1NyZ0FkU1U3blJrN0xTb2tVQktoWkRHLWRRUTM5dkg5cTFXLXEzVzZRMGZqSUxQQ0tSN2VLNmMwZVg3OXdRUmdwRENFQ1k3YXItYWV3R01sWDJUOHV5YU12dw?oc=5",
+      "pub_date": 1790891400.0,
+      "article_url": "https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple",
+      "image": "https://tii.imgix.net/production/articles/17921/ac3b0183-2a4f-48fa-98ec-123565f26eea-cc8NvU.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "While interviewing Google\u2019s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ..."
+    },
+    {
+      "headline": "Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities",
+      "source": "U.S. Department of War (.gov)",
+      "source_url": "https://www.war.gov",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjN3U05LMkpVQjVTU0lyWTgwRDRjbUg3MWhDcmdWRlotVXlKdW5YLTFCMmhKc250dHhBQ0VCTFM2bHlmTktmVlgxd3VfVWVfQXpnTXd4Z2REREhXVXRFaTdIU3N3anU2eFBkTDlzTGNadk1kc21kX1V6bGxHS20xN2hVX3FhOHM1WUozbUFQVGpFTVV4Vnc2am15Q2tzYXF5WG45R3NpYkpiVWFBWEZxeVVyUHdUQU1zenlCOVR0M3c3R3F5MzI5VlBJQkJvYXVaM2FkaWVJdzVYQQ?oc=5",
+      "pub_date": 1790708536.0,
+      "article_url": "https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/",
+      "image": "https://media.defense.gov/2026/Sep/29/2004008445/1280/1280/0/260909-M-WB553-1040.JPG",
+      "description": "The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations."
     },
     {
       "headline": "Humanoid robot fleet decommissioned in wild Terminator-style leap into molten steel",
@@ -45,66 +65,46 @@
       "description": "Figure decommissioned its F.02 humanoid fleet by training the robots to leap into molten steel in Finland."
     },
     {
-      "headline": "AI humanoid robots to be deployed with Home Team officers by 2028: Edwin Tong",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdU4wQ0QwSmZLNnhkbGdzbGV3VFJPa1laeWZOa2tsVzBNUW1oMlUtS2NtWkxsS2NqTkUyQ1JOUWhaT2ZLdmdVRmpHeDVwdnZxZnlMOW9XSmJ3Slc0b1Z0UDJuRFhzc21QWkNnWGtSSm04eFkxcU1zTXVQYWt1REpSNWRGTGVmM1cyaDRRUjIwX0ZBUXRNYTJWZHdHVDdTVV9LekttbzFRSXJKOXQ2WmJ5Q2hSN0RmUQ?oc=5",
-      "pub_date": 1790759040.0,
-      "article_url": "https://www.straitstimes.com/singapore/ai-humanoid-robots-to-be-deployed-with-home-team-officers-by-2028-edwin-tong",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6d73e0f014d4ba22d674dbd8ffecf992831958084c502fefedddca372cf7e933",
-      "description": "AI-powered humanoid robots will assist Home Team officers in hazardous tasks by 2028, enhancing public safety while preserving human judgement and empathy. Read more at straitstimes.com."
+      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
+      "pub_date": 1790694988.0,
+      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "A Glossary of Robotics: 38 Terms to Help You Understand How Robots Work",
-      "source": "CNET",
-      "source_url": "https://www.cnet.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVzJSZlpiQnR5T0h1Qy0xM0hMUjBHSFZHcG5rVDVfRjFzX1g4QzRUZWxaWFFvNV9fNkdGSVFJdjNvT0hkMml0Vkx4OGpUelBveVFhTkltQUxTWUgxTmtiSWxONjRXS3JrMnZScA?oc=5",
-      "pub_date": 1790854210.0,
-      "article_url": "https://www.cnet.com/tech/computing/robot-robotics-glossary/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/robotics-glossary.jpg",
-      "description": "Update your wetware with our list of key words and phrases about robots."
+      "headline": "FF EAI Robotics Ecosystem Inc. (Nasdaq: FFR) and Faraday Future Intelligent Electric Inc. (FFAI) Jointly Address Key Investor Questions Regarding the Proposed Acquisition of FFAI's Robotics Business",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQQVlGeEZYZW1EWG12OV9VOHZzU2N1a2NkX0dEVk5aYUZpdUlNbnVTczdXU1JpeEVncUR4MHlYQkJubUlVbWVHZ0pWamxxV1NROE9TNlF3NmtKZ2oyLTFkVzdZLUk2bFBlSk83TlphM0FsRXUydFNQR1MwbkNCUWJ3Xzd3d3NxMXRWRWpEeDRlMDYxYTBGRTRTakVSR2dUdUhhb0tMbDFqT1R3cXRfV3pHYVFoNFpLNTlYczVadmFEZDZDRWp4bUM5MEZQb0NrLW56RmlqdTREbk94MWN0R1BwSnNTQUJKVk1hcHE1WGxjLUVsVlEwVGpVRldHUjY4dWNSbi1JZ3NabkpHUVAwTldwWlRha2RyWnJuWjBydms1a1ZtSkMyVUdMdW5pNV9GUms1Z2dKYXdHd1Q0TFJNdGVXYzFyVkFwVG10MWRtYnZFNGZrTmhidUdHd09CV3RyRmZmUjZlbzBXa1dIQ00?oc=5",
+      "pub_date": 1790861460.0,
+      "article_url": "https://www.morningstar.com/news/pr-newswire/20261001cn61612/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-and-faraday-future-intelligent-electric-inc-ffai-jointly-address-key-investor-questions-regarding-the-proposed-acquisition-of-ffais-robotics-business",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "description": null
     },
     {
-      "headline": "Global Sales of Professional Service Robots Surge 24%",
-      "source": "ifr.org",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMnJmSVZNMU44Z3UyaXNKeU92eGRHVG9GRWd2Znp6Rk9JMEw2dlRLcWxlZm5QZGtCcURITWxja3VJclc5NXFEbHV1Smc0NlRlMHFXRFVQX3VNUk5ONEh3MFg4SHRRdjFWd0xFVHFKOGZMVVoxeW00dGZ4dFVJeWsxZVJnaW9ERFQtTnhVbWVvN01nclNVSnFhTGYza1RES3NlTFE?oc=5",
-      "pub_date": 1790743082.0,
-      "article_url": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent",
-      "image": "https://ifr.org/downloads/press_docs/Graph_Service_Robots_share_2025_1600x900.jpg",
-      "description": "Global shipments of professional service robots increased by 24% to almost 250,000 units in 2025, highlighting a successful shift to commercial automation. These findings are presented in the World Robotics 2026 Service Robots report by the IFR."
+      "headline": "Robotics manufacturer names new CEO amid West Michigan expansion",
+      "source": "MLive.com",
+      "source_url": "https://www.mlive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRndueDVDNzR1cWtlSGVJcTJNYmNpeTFaRFBhbWk2bWExdmFHdDNkNlFkU3NhOEYyNEk5NVRaZ1BFdGJibjBwa2xQNzRySTY5MkdkYXVBR250dkhBRjZuZTlQdVMxQXhZVm5JanJ2WktRNlNIYWp2dXFZN0phalFXWUdiYXc0bnM0UHZnVW50ajN6cUJ4S1hLMno3OUJLeWQwV21nWVpULUxIM1NKMFZvODBXWTZjdXhK?oc=5",
+      "pub_date": 1790872320.0,
+      "article_url": "https://www.mlive.com/news/grand-rapids/2026/10/robotics-manufacturer-names-new-ceo-amid-west-michigan-expansion.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Ukraine\u2019s former defense minister launches \u2018Manhattan Project\u2019 for killer robots",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORWNINnZKVHQ0ZzVoMWpTVHFod0dBcEg3U0tYWUxlZVhrblowXzExZ3ZLY09yUWlOOGlDTUxOSXZkWXI5d0g1Uk5JRXZROTFSYW1qSTF2UGJBdXcxdkRnbTY3N2pOaFZBWHRQRm9YRG8wZnVsOV81VTdoZFZZaXdYVW5CRnNHQktYa1pkYmt0eE11YTJKSEppSVlPQ0ROTmJ4T0N0ZlcwaGozbU1WRjhseW1wSjhQTk8tclk0SVdLOVpBRHgz?oc=5",
-      "pub_date": 1790756997.0,
-      "article_url": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots/",
-      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F09-30-2026%2Ft_531496c2ea894297b795ce6b4914023e_name_Army_of_Robots_1.jpg?width=1200&auth=dd143c15d0bd927ae1f6e446510214bd661dc3aa50016a31a49a60c85fcaafe8",
-      "description": "Mykhailo Fedorov told Defense News he wants humanoid-like robots on the battlefield within six months and an assault without infantry within a year."
-    },
-    {
-      "headline": "Pittsburgh hosts International Conference on Intelligent Robots and Systems",
-      "source": "wtae.com",
-      "source_url": "https://www.wtae.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVFQdWppM3hTSjU4bXN0OHZkY1h6aUVjdkRrdDJRQnB1RVRaSU9pNDktRjhxYV9YeV95d3FvNUZVUkZ2Y3EwMVFLY19oSzMxNHFtUEotY0hnc2p6NENyLVZHQzBxUndLNXU1bG9QdzJqYVNlajhTUUNKcFpoOUdGWlg3cnBPVFRHMGRsZ1l3?oc=5",
-      "pub_date": 1790823420.0,
-      "article_url": "https://www.wtae.com/article/pittsburgh-robots-iros-international-conference/73968273",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/8f555194-ffa1-4664-a71b-495c288caeb1.jpg?crop=0.769xw%3A0.769xh%3B0.151xw%2C0.0607xh&resize=1200%3A*",
-      "description": "The robots showcased at IROS range from those capable of performing dangerous tasks to assisting with delicate surgeries and everyday activities."
-    },
-    {
-      "headline": "Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVBtWnVfb25LNm5kd21MUUxLR2JOblV6Y2lVUjBZUm14eG5Xb20wTzA5VDByZGdiVXNnaVlzaS05bk1zQWhNUURkVDZ4TjhEX1hyb25acUNRTFd1WHJxTzZJWHNVdUFjMi1iTHV3ZWtJVU5XXzBmbmRjYkdLQVVZVlY0b0VPLXFGSElmZGlTcXY1TUFXTDh0RA?oc=5",
-      "pub_date": 1790875693.0,
-      "article_url": "https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888977%2Ftesla-cybercab.jpg&w=1200&op=resize",
-      "description": "Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect."
+      "headline": "Top 10 robotics stories of September 2026",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GNlZuX0d5bWo3SzdxM0hOUzZHcGFZWTdmM0h1a3d2YTJXWWRMRXAyZkJPWHpGNkIyMGxHYXlUWXIzWk15WjNyWVhpQ1NzWDlSLWpQeXBybHc1TU9KS0pMdFVkOGNxTi15NVVCeVN0WUFsVkN2bmliSkxmUm9yUQ?oc=5",
+      "pub_date": 1790887593.0,
+      "article_url": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/trrtop10-sept26-featured.jpg",
+      "description": "In September 2026, live events, like IMTS, ROSCon, iROS, and more, brought a flood of robotics developments."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T19:42:33.404663+00:00"
+  "fetched_at": "2026-10-01T23:43:25.040400+00:00"
 }

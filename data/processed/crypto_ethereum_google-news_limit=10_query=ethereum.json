@@ -5,36 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "MetaMask exits Ethereum validators after attacker diverts staking rewards",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWJna0VPYzgtRHlEU0hBSlFZMkhDS2N6SHBuenR5NE9ia2VrcUhJZ0JMejNJcHNfYzJHT05zT0VXQk10YUs5cXJiVlNENWt4TV82aUJzWkNIamU2WXZQN2pYbndnRkZab3JzUFdrdXpMV2lVS2gtdWN1bGFKZEdjcVdFNk8zS0RyWTRYczhnMVJVNzhsR19IdEZtdEwxQzdOUHlQdU9jWmZ0WmJ6RWZFcnNRSUNWd053R18ySnJrX21QajQyb0kwR2VwMA?oc=5",
-      "pub_date": 1790839843.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH."
-    },
-    {
-      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNak5yWm93NTZDX3FweGk3N0h3TWU4SnpmYkpvWE42V2xQSnI0cHhCeUVRLTlVUFVmdFJabGtZbTUxOGhNTzYwTjJuaEtZSVBsU25HSDl6Wk9RUnBnZzBmWk43b1JORURzTWt6NTUtV0RIMjJHX0JZNnNPSldHZVlqWFZZRDJ6aDJsdDBv?oc=5",
-      "pub_date": 1790857395.0,
-      "article_url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-02-gID_7.png",
-      "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
-    },
-    {
-      "headline": "Ethereum: A 57% Rise Last Quarter. Can It Reach $3,000 Again?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORmRqc2Q5YUlvUjB6YV9SazdaNDVlSUkzZUFNNnNNN2VMNWp4ZjNHd3pGNzZvNmZaS1BoR3NvX2lHcG9QYk9pQVJuV0kzRWFEOVd6SklfUndKLTBnOVRDS2x3dzliSTZvbjJ4Y3FMRkFsYko3WXBRMHN4X2VLeE9tc2xWZG9wZ3VzMVNaazFOQXE4aGloaGstYXd3?oc=5",
-      "pub_date": 1790875822.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-57-rise-last-quarter-173022948.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1baf673f8f4c90e3e8685157273344297242a81f1bec616381c1ec3411916941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9ba1fa41994408b573d416faebbd09ea.jpg",
-      "description": "Ethereum just posted its strongest quarter among major cryptocurrencies, but a stubborn ceiling keeps blocking its path to a psychologically critical price target. Two specific triggers could either open the door or delay the breakout until 2027."
-    },
-    {
       "headline": "Introducing zkAPI: private usage credits for any API",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -45,14 +15,34 @@
       "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
     },
     {
-      "headline": "Best Crypto to Buy in October 2026: Bitcoin, Ethereum, XRP, Solana, and High-Potential Alternatives",
-      "source": "Yahoo Finance",
+      "headline": "MetaMask exits Ethereum validators after attacker diverts staking rewards",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWJna0VPYzgtRHlEU0hBSlFZMkhDS2N6SHBuenR5NE9ia2VrcUhJZ0JMejNJcHNfYzJHT05zT0VXQk10YUs5cXJiVlNENWt4TV82aUJzWkNIamU2WXZQN2pYbndnRkZab3JzUFdrdXpMV2lVS2gtdWN1bGFKZEdjcVdFNk8zS0RyWTRYczhnMVJVNzhsR19IdEZtdEwxQzdOUHlQdU9jWmZ0WmJ6RWZFcnNRSUNWd053R18ySnJrX21QajQyb0kwR2VwMA?oc=5",
+      "pub_date": 1790839843.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH."
+    },
+    {
+      "headline": "BMNR Stock Forms Golden Cross For First Time Since Bitmine\u2019s Ethereum Pivot Rally",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHZxZDBIaDNxM1c4azdLTG1LbkVkSEFPc2NWeWtLZDc1VThocWhaZHBlZDhJS01lcUoyeVQwSmxTaWZoQmM3QmxDYVhoRGl1NWFMZ1VVVngzeGNJZHFUaHMwT2Z3ZTA3LXJubGpONGdaazJrWThGd0lLanBwMTVlZUFYRWYzS3I1XzFITm5qZ2NUNzZubEVFeQ?oc=5",
-      "pub_date": 1790879415.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/best-crypto-buy-october-2026-183015659.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3df5c2c20d288bc1e3f9c4b94785a8710c49117edd82b354a87cbede4cf3beb5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F201dd0a38c51662d24c8bbda533414d0",
-      "description": "Ethereum, Solana, XRP, and Bitcoin each tell a different story heading into October, but a 64% chance of a Fed rate hike and a 5% Treasury yield could scramble the rankings before the month even begins."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON05EM1IweXVtTzEySDJpMk1naFhHNUlZeTlPeG5BYV8xMlZ2Z1BkS19aLWUzWTJpWE9FSFdqcWxJSVk3OGlIYXd5ZlBWSE5EOTdyR3prS09xU1dtUnI4Q01ITjBkU1djYXJ5NXlTMVZXMmxrbVNGZjQzRmdhT0xrTVlxNEVKZ0QwQkJDdncwbmw0WjZzYWxBb2lR?oc=5",
+      "pub_date": 1790787885.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/bmnr-stock-forms-golden-cross-170445383.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2f18883d9eea041c4d77d8ccf115a9948b014b377be82ada178be6f9e47b41d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fe9d62a97e8a785dd489e1a0118225f7c",
+      "description": "The last time the 50-day line crossed above the 200-day was more than a year ago, when the company pivoted to buying Ethereum."
+    },
+    {
+      "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGt0bVFseEw2SmZwX0hhUmRyREtVLXVlc3hRTElfd05BaTlJZk5JQmZPLTJBeVZkcWhabFAzTzR0anIzTlZEMmNlSUtHV0FJVjVQMC16ekFhZjlEUU5ubGt2N1BwOVZtNVFDTkJFdEZUeEx4R014MExzcEFsOFVVdTlRdXJwZHpPRTBmaFlhQkg2MndFdkNqdTJ6OUNpM0JiLVZ1WFg3dVdYVllLMC05dFEzemE1RDFwX2ppWjJnd3ZNWTJP?oc=5",
+      "pub_date": 1790871443.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
+      "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
     },
     {
       "headline": "Current price of Ethereum for Sept. 30, 2026",
@@ -65,14 +55,14 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNQR3hCWUVVc2tzREJiMDMxOWlubDRMd0V6ZE4wV0toUEFhbnJ6cjgxTm5iYlFJU09JWWJ1NTVsdUpfcGpoTk16QWFRekwweTJtM0ZWU1dTNXRqSWx1dnR2bGs1NjVleW01aTZTcTdXb1pXOVdSdlc1Z05EZXBrMzlKUVBaWWVsRTJ3OUFOR01ZU0s2ZEN5MFQ5RGdDM2hhajFCTXFvQQ?oc=5",
-      "pub_date": 1790774919.0,
-      "article_url": "https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409006442/image_1409006442.jpg?io=getty-c-w630",
-      "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
+      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNak5yWm93NTZDX3FweGk3N0h3TWU4SnpmYkpvWE42V2xQSnI0cHhCeUVRLTlVUFVmdFJabGtZbTUxOGhNTzYwTjJuaEtZSVBsU25HSDl6Wk9RUnBnZzBmWk43b1JORURzTWt6NTUtV0RIMjJHX0JZNnNPSldHZVlqWFZZRDJ6aDJsdDBv?oc=5",
+      "pub_date": 1790857395.0,
+      "article_url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-02-gID_7.png",
+      "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
     },
     {
       "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
@@ -85,18 +75,28 @@
       "description": "Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?"
     },
     {
-      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
-      "pub_date": 1790831400.0,
-      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
-      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
+      "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNQR3hCWUVVc2tzREJiMDMxOWlubDRMd0V6ZE4wV0toUEFhbnJ6cjgxTm5iYlFJU09JWWJ1NTVsdUpfcGpoTk16QWFRekwweTJtM0ZWU1dTNXRqSWx1dnR2bGs1NjVleW01aTZTcTdXb1pXOVdSdlc1Z05EZXBrMzlKUVBaWWVsRTJ3OUFOR01ZU0s2ZEN5MFQ5RGdDM2hhajFCTXFvQQ?oc=5",
+      "pub_date": 1790774919.0,
+      "article_url": "https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409006442/image_1409006442.jpg?io=getty-c-w630",
+      "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
+    },
+    {
+      "headline": "Smart Contracts Without Ethereum Exist - And They Can Be Easier",
+      "source": "HackerNoon",
+      "source_url": "https://hackernoon.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTi03cUJFV2ZZUjNNSWR1M1JsMHRsSS1oclh1RE9lN1hUSXhOZUQ4LXo0VE5ZS1hRdkV1a2pWZ3pQZnpHYlJqSkVrenh1SjZJT0NJX3NZZEFWOTBkaWdyOGh2cmVtb0RHei1ZLXZONEVJWDM4VnZFZzNZR3Noa2RnaXBobkd0SEw5MERXZQ?oc=5",
+      "pub_date": 1790886835.0,
+      "article_url": "https://hackernoon.com/smart-contracts-without-ethereum-exist-and-they-can-be-easier",
+      "image": "https://hackernoon.imgix.net/images/AO3i53agltRgq8NH0cq0AaViIh42-95b38rv.png",
+      "description": "Curious about smart contracts without Ethereum? Discover simpler alternatives for automated agreements and decentralized apps."
     },
     {
       "headline": "Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered",
-      "source": "benzinga.com",
+      "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1RkaTJXQkhteXJwamVxTXoxeF9wUDhxN3YzNnA3bkd1Z1NLNmdWb2xCWm9nNkFncmxXTFBYekJWS01oNXhWOVY1aHJBU2loNUNqbU96dEI3OE9XdHN2RXZ6bTZPVm5Ib2hRTHhka3E1NjlKZmhPQ1A3VC1WSUJHMWRXaktpZ3Zrem05MFFsWlhmNjl0LU1BWWwzR0RNLTBIbWxxTFlMT1pHVWRiS190dGhld1h3cmJRNEpVdFNVVVZpdFpQX1RiNjhVaUJ5UQ?oc=5",
       "pub_date": 1790788174.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T19:42:32.854182+00:00"
+  "fetched_at": "2026-10-01T23:43:13.066688+00:00"
 }
