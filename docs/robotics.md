@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-01T14:16:14.837624+00:00'
+updated: '2026-10-01T19:42:35.127890+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 01, 2026 at 14:16 UTC  
+**Last Updated:** October 01, 2026 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-6d ago
+7d ago
 
 ---
 
@@ -80,7 +80,7 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-6d ago
+7d ago
 
 ---
 
@@ -112,15 +112,23 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-Anthropic • 22h ago
+Anthropic • 1d ago
 
 ---
 
-**[DYNA Robotics Launches DYNA 2.1 Physical Agent, a Semi-humanoid Robot that Completes Full Workflows such as a Commercial Laundry Shift](https://www.prnewswire.com/news-releases/dyna-robotics-launches-dyna-2-1-physical-agent-a-semi-humanoid-robot-that-completes-full-workflows-such-as-a-commercial-laundry-shift-302892411.html)**
+**[Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)**
 
-/PRNewswire/ -- Today, DYNA Robotics launched the DYNA 2.1 physical agent, a semi-humanoid robot powered by DYNA's proprietary model that can autonomously...
+"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
 
-PR Newswire • 2d ago
+TechCrunch • 1d ago
+
+---
+
+**[ICE settles contract to buy Boston Dynamics robots for $1.3 million](https://www.boston.com/news/local-news/2026/09/30/ice-settles-contract-to-buy-boston-dynamics-robots-for-1-3-million/)**
+
+ICE settles its contract to buy four Boston Dynamics robots for $1.3 million.
+
+boston.com • 20h ago
 
 ---
 
@@ -128,19 +136,23 @@ PR Newswire • 2d ago
 
 Figure decommissioned its F.02 humanoid fleet by training the robots to leap into molten steel in Finland.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 21h ago
 
 ---
 
-**[Soccer-playing humanoid robots score a major robotics goal for coordination](https://techxplore.com/news/2026-09-soccer-playing-humanoid-robots-score.html)**
+**[AI humanoid robots to be deployed with Home Team officers by 2028: Edwin Tong](https://www.straitstimes.com/singapore/ai-humanoid-robots-to-be-deployed-with-home-team-officers-by-2028-edwin-tong)**
 
-Tech Xplore • 1d ago
+AI-powered humanoid robots will assist Home Team officers in hazardous tasks by 2028, enhancing public safety while preserving human judgement and empathy. Read more at straitstimes.com.
+
+The Straits Times • 1d ago
 
 ---
 
-**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
+**[A Glossary of Robotics: 38 Terms to Help You Understand How Robots Work](https://www.cnet.com/tech/computing/robot-robotics-glossary/)**
 
-The New York Times • 7h ago
+Update your wetware with our list of key words and phrases about robots.
+
+CNET • 8h ago
 
 ---
 
@@ -148,7 +160,7 @@ The New York Times • 7h ago
 
 Global shipments of professional service robots increased by 24% to almost 250,000 units in 2025, highlighting a successful shift to commercial automation. These findings are presented in the World Robotics 2026 Service Robots report by the IFR.
 
-IFR International Federation of Robotics • 1d ago
+ifr.org • 1d ago
 
 ---
 
@@ -160,27 +172,19 @@ Defense News • 1d ago
 
 ---
 
-**[Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)**
+**[Pittsburgh hosts International Conference on Intelligent Robots and Systems](https://www.wtae.com/article/pittsburgh-robots-iros-international-conference/73968273)**
 
-"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
+The robots showcased at IROS range from those capable of performing dangerous tasks to assisting with delicate surgeries and everyday activities.
 
-TechCrunch • 22h ago
-
----
-
-**[ICE settles contract to buy Boston Dynamics robots for $1.3 million](https://www.boston.com/news/local-news/2026/09/30/ice-settles-contract-to-buy-boston-dynamics-robots-for-1-3-million/)**
-
-ICE settles its contract to buy four Boston Dynamics robots for $1.3 million.
-
-Boston.com • 15h ago
+wtae.com • 16h ago
 
 ---
 
-**[Armed robots are now battling on Ukraine’s front line. What comes next is even stranger](https://www.sciencefocus.com/future-technology/ukraine-armed-robots-warfare)**
+**[Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.](https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/)**
 
-Unmanned ground and air vehicles are changing warfare as we know it
+Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect.
 
-BBC Science Focus Magazine • 23h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -188,23 +192,13 @@ BBC Science Focus Magazine • 23h ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
-
-Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
-
-📺 Prime Insights
-
-👁️ 518K • 👍 4K • 💬 270 • ⏱️ 26:57 • 6d ago
-
----
-
 **[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
 Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
 📺 World Best Talent
 
-👁️ 1.3M • 👍 6K • 💬 417 • ⏱️ 25:31 • 5d ago
+👁️ 1.4M • 👍 7K • 💬 460 • ⏱️ 25:31 • 5d ago
 
 ---
 
@@ -214,27 +208,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 Future Files
 
-👁️ 792K • 👍 4K • 💬 154 • ⏱️ 24:25 • 4d ago
-
----
-
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
-
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
-
-📺 MindSeeded
-
-👁️ 96K • 👍 4K • 💬 297 • ⏱️ 13:48 • 6d ago
-
----
-
-**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
-
-A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
-
-📺 DW News
-
-👁️ 152K • 👍 635 • 💬 254 • ⏱️ 3:46 • 2d ago
+👁️ 855K • 👍 5K • 💬 168 • ⏱️ 24:25 • 5d ago
 
 ---
 
@@ -244,7 +218,37 @@ Why will Boston Dynamics win the humanoid robotics race? We've already commercia
 
 📺 Boston Dynamics
 
-👁️ 495K • 👍 7K • 💬 825 • ⏱️ 5:49 • 1d ago
+👁️ 555K • 👍 7K • 💬 892 • ⏱️ 5:49 • 1d ago
+
+---
+
+**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+
+📺 Julia McCoy
+
+👁️ 15K • 👍 280 • 💬 34 • ⏱️ 6:10 • 6d ago
+
+---
+
+**[LEGO Combiner Mech: Combining Every Sprunki Character into a Robot! | Bricks UP](https://www.youtube.com/watch?v=ZWJvuuSzOkc)**
+
+LEGO Combiner Mech: Combining Every Sprunki Character into a Robot! Get ready for an epic musical-horror mechanical ...
+
+📺 Bricks UP
+
+👁️ 216K • 👍 4K • 💬 6 • ⏱️ 1:03:47 • 6d ago
+
+---
+
+**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
+
+A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
+
+📺 DW News
+
+👁️ 153K • 👍 636 • 💬 255 • ⏱️ 3:46 • 2d ago
 
 ---
 
@@ -254,37 +258,37 @@ Download PolyBuzz here: https://polybuzz.onelink.me/GQGs/bm9n0ob0 Search my code
 
 📺 ElephantDogCat
 
-👁️ 10K • 👍 260 • 💬 82 • ⏱️ 11:01 • 23h ago
+👁️ 11K • 👍 280 • 💬 88 • ⏱️ 11:01 • 1d ago
 
 ---
 
-**[Putin’s Army Vs Ukraine’s Robot Army: Is This The Future Of War? | The Palki Sharma Show | IGR](https://www.youtube.com/watch?v=0mQmHKCZXuA)**
+**[1,000,000,000 Humanoid Robots Elon Musk Predicts … Is Transhumanism Next? 😱](https://www.youtube.com/watch?v=Ijl-w8CYZ0Q)**
 
-Putin is expanding Russia's army by another 15000 troops. Ukraine, meanwhile, is building something very different - an army of ...
-
-📺 India Global Review
-
-👁️ 151K • 👍 946 • 💬 254 • ⏱️ 5:50 • 1d ago
-
----
-
-**[China’s T800 Robot Just Fought a Human (Real-Life Terminator)](https://www.youtube.com/watch?v=L2Me7pzDmhg)**
-
-China's EngineAI T800 kicked stunt creator Frankie LaPenna across the ring in San Francisco. But one hidden detail changes ...
-
-📺 The AI Nexus
-
-👁️ 25K • 👍 209 • 💬 26 • ⏱️ 23:38 • 5d ago
-
----
-
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
-
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
+Elon Musk has made a staggering prediction about the future of humanoid robots and Transhumanism: a world where billions of ...
 
 📺 ejunky66
 
-👁️ 895K • 👍 9K • 💬 739 • ⏱️ 1:00 • 6d ago
+👁️ 264K • 👍 3K • 💬 332 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+
+Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+
+📺 Hyundai Motor Group
+
+👁️ 227K • 👍 50 • 💬 4 • ⏱️ 5:49 • 1d ago
+
+---
+
+**[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
+
+He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
+
+📺 New York Post
+
+👁️ 61K • 👍 505 • 💬 324 • ⏱️ 1:17 • 5d ago
 
 ---
 
