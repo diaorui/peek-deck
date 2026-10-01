@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-01T19:42:35.118672+00:00'
+updated: '2026-10-01T23:43:26.706030+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 01, 2026 at 19:42 UTC  
+**Last Updated:** October 01, 2026 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,658.97
+### $84,766.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.7%  
-**30d:** +9.8%  
-**90d:** +34.1%  
-**1y:** -29.8%  
+**24h:** +1.5%  
+**7d:** +0.8%  
+**30d:** +9.9%  
+**90d:** +34.2%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1699.95B
+**Market Cap:** $1703.85B
 Rank #1
 
-**Circulating Supply:** 20,092,053 BTC
+**Circulating Supply:** 20,092,153 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.9%
+-32.7%
 
 **All-Time Low:** $67.81
-+124676.6%
++124955.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 don't be sheep
 
-1d ago
+2d ago
 
 ---
 
@@ -95,7 +95,7 @@ don't be sheep
 
 The popular argument is that AI agents will need money, Bitcoin is money for the internet, so agents will drive Bitcoin demand. The problem: an agent working for a company that holds dollars, paying a company that wants dollars, has no reason to route through Bitcoin. And huge transaction counts don't mean huge value. A billion payments of a tenth of a cent is $1 million. Permissionless isn't the same as decentralized. An agent can hold tokenized dollars without a bank account, and for three cents of compute it likely doesn't care that the issuer can freeze funds. Lightning can move stablecoins, and those payments can still require Bitcoin liquidity, but that is too small to build an adoption thesis on. The part that holds up is saving. The Bitcoin Policy Institute ran 36 AI models through 28 monetary scenarios more than 9,000 times. For payments, the models preferred stablecoins. For storing value, nearly four out of five responses chose Bitcoin. If agents ever earn and keep real wealth, what they save in matters, and it fits how Bitcoin monetizes: people save in it first, and payments come later. There is one more mechanism. AI makes surveillance and financial enforcement cheaper and more automatic, which makes an asset with no issuer more valuable to anyone holding their own keys, even if no agent ever spends a sat.
 
-1d ago
+2d ago
 
 ---
 
@@ -103,7 +103,7 @@ The popular argument is that AI agents will need money, Bitcoin is money for the
 
 Bitcoin is the biggest honeypot on the internet, yet attackers are unable to crack this in the mathematical space. Researchers and Economists are are simping the existing monetary imperialists without accepting that this is a 'novel technology' (US Teasury Secretary actually said that it is a pure technological innovation and the approach is novel). Thieves are trying to steal your bitcoin by creating shitcoins and marketing them as 'projects' better than the real thing, while pre-mining 70% of the supply for themselves. We cant deny that malicious hackers are using various other attacks to steal from plebs. Bitcoin protocol does not have a marketing team, and don't forget, the bitcoin software was not successfully pwned yet given the thoughtful architectural approach Satoshi took when designing the thing. We must be responsible not to break it. Don't be a shitcoiner. Be a bitcoiner.
 
-1d ago
+2d ago
 
 ---
 
@@ -127,7 +127,7 @@ always sceptical but THIS IS GOOOOOOD
 
 These are my top 3 YouTube channels right now: AdamLivingstonBTC SimplyBitcoin 1MarkMoss
 
-1d ago
+2d ago
 
 ---
 
@@ -157,7 +157,7 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 **[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
 
-Reuters • 10h ago
+Reuters • 14h ago
 
 ---
 
@@ -167,33 +167,31 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin could repeat a 400% rally, analyst spots familiar cycle pattern](https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-repeat-400-rally-185624964.html)**
+**[China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?](https://finance.yahoo.com/energy/articles/china-russia-just-tightened-fuel-215409610.html)**
 
-CappThesis founder Frank Cappelleri says Bitcoin’s chart structure resembles the setup that preceded its last major breakout.
+China and Russia hold back fuel as traders cut Fed hike bets. Here is how the squeeze could reach Bitcoin price.
 
-Yahoo Finance • 46m ago
-
----
-
-**[XRP Surpasses Bitcoin in 90-Day Gains But Remains Far Off Its All-Time High](https://finance.yahoo.com/markets/crypto/articles/xrp-surpasses-bitcoin-90-day-190002149.html)**
-
-XRP just topped Bitcoin in 90-day gains, yet the token sits nearly 60% below its peak with a staggering gap that neither ETF inflows nor corporate buyers can realistically close on their own.
-
-Yahoo Finance • 42m ago
+finance.yahoo.com • 1h ago
 
 ---
 
-**[Treasury's major decision made this risk asset beat gold by 10-to-1](https://finance.yahoo.com/markets/crypto/articles/treasurys-major-decision-made-risk-193120207.html)**
+**[IMF Approves El Salvador Funds After Waiver for Bitcoin Breach](https://www.bloomberg.com/news/articles/2026-10-01/imf-approves-el-salvador-funds-after-waiver-for-bitcoin-breach?srnd=all)**
 
-This risk asset gets outdone by its closest rival.
+Bloomberg.com • 1h ago
 
-Yahoo Finance • 11m ago
+---
+
+**[Three reasons why bitcoin's recent bounce could be the start of a bigger bullish move](https://www.cnbc.com/2026/10/01/three-reasons-why-bitcoins-recent-bounce-could-be-the-start-of-a-bigger-bullish-move.html)**
+
+Frank Cappelleri takes you through multiple charts on the cryptocurrency's recent move.
+
+CNBC • 2h ago
 
 ---
 
 **[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
 
-TribLIVE.com • 4h ago
+TribLIVE.com • 8h ago
 
 ---
 
@@ -201,7 +199,15 @@ TribLIVE.com • 4h ago
 
 After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report.
 
-CoinDesk • 1h ago
+coindesk.com • 5h ago
+
+---
+
+**[Frank Holmes: They Will Print $100 Trillion - Why To Buy Bitcoin & Gold](https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold)**
+
+Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom.
+
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -219,14 +225,6 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin ETFs' 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds](https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384)**
-
-The nine-day streak had marked one of the most positive runs for the bitcoin funds this year, taking cumulative flows back into positive territory.
-
-The Block • 7h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -241,7 +239,7 @@ The Block • 7h ago
 
 A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
 
-⬆️ 2 • 💬 1 • 2d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 2 • 💬 1 • 3d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
 
 ---
 
@@ -259,65 +257,57 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ---
 
-**[Batcher's Bitonic Merger Sort](https://news.ycombinator.com/item?id=49903096)**
-
-Satnam Singh’s personal website
-
-⬆️ 2 • 💬 0 • 1d ago • [Satnam Singh](https://raintown.org/lava/sorter/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=OuNjnmsqg4M)**
+**[Mark Moss: The Bitcoin Endgame - BTC to $1 Million by 2030](https://www.youtube.com/watch?v=e8GZZe4v2AM)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+The Fed just raised rates, yet Bitcoin keeps climbing. Mark Moss, host of the Market Disruptors podcast, explains why he thinks ...
 
-📺 Benjamin Cowen
+📺 Bitcoin Magazine
 
-👁️ 126K • 👍 5K • 💬 277 • ⏱️ 27:09 • 16h ago
-
----
-
-**[Bitcoin Just Had a MONSTER 43% Quarter](https://www.youtube.com/watch?v=qtcgiRdgTO4)**
-
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 669 • 💬 41 • ⏱️ 49:16 • 5h ago
+👁️ 41K • 👍 597 • 💬 29 • ⏱️ 29:02 • 1d ago
 
 ---
 
-**[Don’t Trust Bitcoin’s Uptober Yet! [WARNING]](https://www.youtube.com/watch?v=Hu01uGCbs8g)**
+**[You Need To SIT DOWN Before Watching This Crypto Video... [Bitcoin and Altcoins WILL MAKE MILLIONS]](https://www.youtube.com/watch?v=k_LEFBwmfZM)**
 
-Green September for Bitcoin is officially in the books and that has only happened 5 times since 2013. When it did, Bitcoin October ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
 
-📺 Crypto Banter
+📺 Tyler S
 
-👁️ 20K • 👍 806 • 💬 28 • ⏱️ 35:12 • 5h ago
-
----
-
-**[Bitcoin Dominance Warning? Alts About To Collapse? Deep Dive Into Crypto](https://www.youtube.com/watch?v=HPrw2RZYLMA)**
-
-Bitcoin dominance is flashing a warning signal that could spell major trouble for altcoins, and it could pull Bitcoin back toward ...
-
-📺 Gareth Soloway
-
-👁️ 104K • 👍 4K • 💬 293 • ⏱️ 9:56 • 1d ago
+👁️ 4K • 👍 352 • 💬 46 • ⏱️ 10:55 • 2h ago
 
 ---
 
-**[How Low Can Bitcoin Go? $76K Is the Worst Case](https://www.youtube.com/watch?v=rHMO89SM_Dk)**
+**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
 
-How low can Bitcoin go? Bitcoin just closed its best third quarter since 2017, and I think the worst case from here is $76K, right ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 VirtualBacon
+📺 Crypto Nutshell
 
-👁️ 15K • 👍 316 • 💬 53 • ⏱️ 1:57:20 • 2h ago
+👁️ 3K • 👍 131 • 💬 14 • ⏱️ 19:58 • 7h ago
+
+---
+
+**[WARNING: This Could Be The Last Chance To Buy Crypto Before The Biggest Boom Since The 90s](https://www.youtube.com/watch?v=5shTGb3s8dw)**
+
+Thanks Coinbase for sponsoring this video Coinbase: Get up to $250 in USDC rewards when you sign up with my link: ...
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 528 • 💬 127 • ⏱️ 15:50 • 8h ago
+
+---
+
+**[Rising Yields Can’t Stop Bitcoin: Here’s Why](https://www.youtube.com/watch?v=wfPQ4Smzme0)**
+
+The bond market had its worst quarter since 1994. Bitcoin had its best. The ten-year Treasury yield rose 87 basis points over the ...
+
+📺 Yahoo Finance
+
+👁️ 14K • 👍 300 • 💬 144 • ⏱️ 14:53 • 6h ago
 
 ---
 
@@ -327,47 +317,47 @@ BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref
 
 📺 Jayson Casper
 
-👁️ 1K • 👍 151 • 52m ago
+👁️ 6K • 👍 221 • 💬 46 • ⏱️ 47:15 • 3h ago
 
 ---
 
-**[Bitcoin &amp; Solana ETFs BOOM: Record Inflows and CRAZY Market Surge!](https://www.youtube.com/watch?v=22eG_DVVriE)**
+**[Don’t Trust Bitcoin’s Uptober Yet! [WARNING]](https://www.youtube.com/watch?v=Hu01uGCbs8g)**
 
-Solana ETFs are seeing absolutely massive demand. With billions flowing into the market, Wall Street's appetite for SOL exposure ...
+Green September for Bitcoin is officially in the books and that has only happened 5 times since 2013. When it did, Bitcoin October ...
 
-📺 Lark Davis
+📺 Crypto Banter
 
-👁️ 2K • 👍 51 • 💬 1 • ⏱️ 0:41 • 2d ago
-
----
-
-**[Michael Saylor&#39;s MASSIVE 2027 Crypto Prediction](https://www.youtube.com/watch?v=2qZSOPaNJEU)**
-
-Big Things Are Happening in Cryptocurrency in October WEEX AI Wars ($600K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 907 • 💬 6 • ⏱️ 1:20 • 2d ago
+👁️ 28K • 👍 926 • 💬 30 • ⏱️ 35:12 • 9h ago
 
 ---
 
-**[BITCOIN BREAKOUT COMING SOON!🚨 (BTC Price Prediction)](https://www.youtube.com/watch?v=nWC4VJI3FyU)**
+**[THE BITCOIN RALLY ISN&#39;T OVER... BUT THERE IS A PROBLEM...](https://www.youtube.com/watch?v=GVhqsFVt5AM)**
 
-BITCOIN PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS TO GET ...
+FIRST TIME IN THE US: TRADE PERPS ON KALSHI! The only place to trade perps on a U.S.-licensed ...
 
-📺 Cilinix Crypto
+📺 100XClub
 
-👁️ 2K • 👍 61 • 💬 4 • ⏱️ 5:07 • 10h ago
+👁️ 11K • 👍 785 • 💬 207 • ⏱️ 12:10 • 18h ago
 
 ---
 
-**[Agencies Back Bitcoin with Guardrails Amid Bull Run After Clarity Act Fails](https://www.youtube.com/watch?v=j6C0APcsd6w)**
+**[When I&#39;m Selling My Bitcoin This Bull Run](https://www.youtube.com/watch?v=dhPAtH7zZF8)**
 
-Joe Sticco says regulators are "picking up the ball and running" to create new guardrails on crypto following the failed Clarity Act ...
+Can you call the Bitcoin cycle top before the big reversal? No, and nobody reliably has. You get two honest choices. Sell early ...
 
-📺 Schwab Network
+📺 VirtualBacon
 
-👁️ 8K • 👍 62 • 💬 4 • ⏱️ 5:59 • 1d ago
+👁️ 7K • 👍 205 • 💬 52 • ⏱️ 5:33 • 3h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=OuNjnmsqg4M)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 139K • 👍 5K • 💬 284 • ⏱️ 27:09 • 20h ago
 
 ---
 
