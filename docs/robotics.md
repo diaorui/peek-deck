@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-30T21:15:28.811995+00:00'
+updated: '2026-10-01T00:42:24.687991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 30, 2026 at 21:15 UTC  
+**Last Updated:** October 01, 2026 at 00:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,15 +112,15 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 "One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
 
-TechCrunch • 5h ago
+TechCrunch • 8h ago
 
 ---
 
-**[Would you pay for this robot to clean your house?](https://www.bbc.com/news/videos/c6lyq52wx7dko)**
+**[DYNA Robotics Launches DYNA 2.1 Physical Agent, a Semi-humanoid Robot that Completes Full Workflows such as a Commercial Laundry Shift](https://www.prnewswire.com/news-releases/dyna-robotics-launches-dyna-2-1-physical-agent-a-semi-humanoid-robot-that-completes-full-workflows-such-as-a-commercial-laundry-shift-302892411.html)**
 
-Tau Robotics humanoids are remotely controlled by humans, and cost $30 per hour for house cleaning.
+/PRNewswire/ -- Today, DYNA Robotics launched the DYNA 2.1 physical agent, a semi-humanoid robot powered by DYNA's proprietary model that can autonomously...
 
-BBC • 1d ago
+PR Newswire • 1d ago
 
 ---
 
@@ -138,11 +138,35 @@ Forbes • 1d ago
 
 ---
 
+**[ICE settles contract to buy Boston Dynamics robots for $1.3 million](https://www.boston.com/news/local-news/2026/09/30/ice-settles-contract-to-buy-boston-dynamics-robots-for-1-3-million/)**
+
+ICE settles its contract to buy four Boston Dynamics robots for $1.3 million.
+
+Boston.com • 1h ago
+
+---
+
 **[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
 
 What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-Anthropic • 5h ago
+Anthropic • 8h ago
+
+---
+
+**[Armed robots are now battling on Ukraine’s front line. What comes next is even stranger](https://www.sciencefocus.com/future-technology/ukraine-armed-robots-warfare)**
+
+Unmanned ground and air vehicles are changing warfare as we know it
+
+BBC Science Focus Magazine • 10h ago
+
+---
+
+**[Praxis-1](https://runway.com/research/introducing-praxis-1)**
+
+An open-weight world action model that turns Runway's video pretraining into control for real robots.
+
+runway.com • 4h ago
 
 ---
 
@@ -162,28 +186,6 @@ Business Insider • 1d ago
 
 ---
 
-**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
-
-Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
-
-The Information • 2d ago
-
----
-
-**[A new robot is targeted to roll off a U.S. production line in Q1 2027](https://www.stocktitan.net/news/FFAI/faraday-future-unveils-more-execution-plans-for-built-in-usa-nn5if9u837x2.html)**
-
-FF’s robotics business shipped 552 units by August; Q2 2026 cumulative revenue was about $1.52M. The proposed deal remains subject to due diligence and approvals.
-
-Stock Titan • 19h ago
-
----
-
-**[Human In Motion Robotics’ XoMotion Exoskeleton](https://blog.adafruit.com/2026/09/30/human-in-motion-robotics-intelligent-innovation-in-human-motion/)**
-
-Adafruit • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,37 +196,17 @@ Why will Boston Dynamics win the humanoid robotics race? We've already commercia
 
 📺 Boston Dynamics
 
-👁️ 290K • 👍 5K • 💬 643 • ⏱️ 5:49 • 13h ago
+👁️ 364K • 👍 5K • 💬 685 • ⏱️ 5:49 • 16h ago
 
 ---
 
-**[China&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
+**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
 
-Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
 
-📺 Prime Insights
+📺 Julia McCoy
 
-👁️ 510K • 👍 4K • 💬 268 • ⏱️ 26:57 • 6d ago
-
----
-
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
-
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
-
-📺 World Best Talent
-
-👁️ 1.1M • 👍 5K • 💬 371 • ⏱️ 25:31 • 4d ago
-
----
-
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
-
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
-
-📺 MindSeeded
-
-👁️ 93K • 👍 4K • 💬 293 • ⏱️ 13:48 • 6d ago
+👁️ 15K • 👍 279 • 💬 34 • ⏱️ 6:10 • 5d ago
 
 ---
 
@@ -234,7 +216,17 @@ A humanoid robot store in Hong Kong offers a glimpse of the future—and a remin
 
 📺 DW News
 
-👁️ 147K • 👍 626 • 💬 242 • ⏱️ 3:46 • 1d ago
+👁️ 149K • 👍 632 • 💬 253 • ⏱️ 3:46 • 1d ago
+
+---
+
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
+
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
+
+📺 World Best Talent
+
+👁️ 1.2M • 👍 6K • 💬 385 • ⏱️ 25:31 • 4d ago
 
 ---
 
@@ -244,17 +236,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 Future Files
 
-👁️ 544K • 👍 3K • 💬 107 • ⏱️ 24:25 • 4d ago
-
----
-
-**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
-
-Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
-
-📺 Hyundai Motor Group
-
-👁️ 115K • 👍 32 • 💬 3 • ⏱️ 5:49 • 13h ago
+👁️ 616K • 👍 4K • 💬 120 • ⏱️ 24:25 • 4d ago
 
 ---
 
@@ -264,17 +246,27 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 839K • 👍 9K • 💬 680 • ⏱️ 1:00 • 6d ago
+👁️ 855K • 👍 9K • 💬 685 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[Elon Musk’s Robot Future Is Closer Than You Think… 🤯 Skynet!?](https://www.youtube.com/watch?v=QGFpZWhWw54)**
+**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
 
-What happens when humanoid robots stop being prototypes… and start being mass-produced? Tesla is building toward ...
+Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
 
-📺 ejunky66
+📺 Hyundai Motor Group
 
-👁️ 3K • 👍 71 • 💬 7 • ⏱️ 1:00 • 7h ago
+👁️ 122K • 👍 35 • 💬 3 • ⏱️ 5:49 • 16h ago
+
+---
+
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+
+📺 MindSeeded
+
+👁️ 94K • 👍 4K • 💬 293 • ⏱️ 13:48 • 6d ago
 
 ---
 
@@ -284,7 +276,17 @@ Elon Musk has made a staggering prediction about the future of humanoid robots a
 
 📺 ejunky66
 
-👁️ 217K • 👍 3K • 💬 291 • ⏱️ 1:00 • 5d ago
+👁️ 225K • 👍 3K • 💬 294 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[Should You BUY The Newest Robot In The Most Pay To Win Game? (War Robots)](https://www.youtube.com/watch?v=L0QwfDyt2oA)**
+
+Download PolyBuzz here: https://polybuzz.onelink.me/GQGs/bm9n0ob0 Search my code【EDC77】to unlock premium features！
+
+📺 ElephantDogCat
+
+👁️ 6K • 👍 189 • 💬 74 • ⏱️ 11:01 • 9h ago
 
 ---
 
