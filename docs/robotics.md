@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-01T00:42:24.687991+00:00'
+updated: '2026-10-01T06:55:35.113737+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 01, 2026 at 00:42 UTC  
+**Last Updated:** October 01, 2026 at 06:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We’ve been playing hide and seek with Éloi. When it sees you, the eyes and ne
 
 I’m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It’ll be a 1-hour session, and we’ll have WATO joining us to share their experience designing and building humanoid robots. There’ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e
 
-6d ago
+7d ago
 
 ---
 
@@ -112,15 +112,13 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 "One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
 
-TechCrunch • 8h ago
+TechCrunch • 14h ago
 
 ---
 
-**[DYNA Robotics Launches DYNA 2.1 Physical Agent, a Semi-humanoid Robot that Completes Full Workflows such as a Commercial Laundry Shift](https://www.prnewswire.com/news-releases/dyna-robotics-launches-dyna-2-1-physical-agent-a-semi-humanoid-robot-that-completes-full-workflows-such-as-a-commercial-laundry-shift-302892411.html)**
+**[Soccer-playing humanoid robots score a major robotics goal for coordination](https://techxplore.com/news/2026-09-soccer-playing-humanoid-robots-score.html)**
 
-/PRNewswire/ -- Today, DYNA Robotics launched the DYNA 2.1 physical agent, a semi-humanoid robot powered by DYNA's proprietary model that can autonomously...
-
-PR Newswire • 1d ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -138,11 +136,11 @@ Forbes • 1d ago
 
 ---
 
-**[ICE settles contract to buy Boston Dynamics robots for $1.3 million](https://www.boston.com/news/local-news/2026/09/30/ice-settles-contract-to-buy-boston-dynamics-robots-for-1-3-million/)**
+**[F.02 Decommission](https://www.figure.ai/news/f-02-decommission)**
 
-ICE settles its contract to buy four Boston Dynamics robots for $1.3 million.
+We love Figure 02. It is an incredible robot.
 
-Boston.com • 1h ago
+Figure • 23h ago
 
 ---
 
@@ -150,15 +148,7 @@ Boston.com • 1h ago
 
 What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-Anthropic • 8h ago
-
----
-
-**[Armed robots are now battling on Ukraine’s front line. What comes next is even stranger](https://www.sciencefocus.com/future-technology/ukraine-armed-robots-warfare)**
-
-Unmanned ground and air vehicles are changing warfare as we know it
-
-BBC Science Focus Magazine • 10h ago
+Anthropic • 14h ago
 
 ---
 
@@ -166,15 +156,15 @@ BBC Science Focus Magazine • 10h ago
 
 An open-weight world action model that turns Runway's video pretraining into control for real robots.
 
-runway.com • 4h ago
+Runway • 10h ago
 
 ---
 
-**[Estonia blames Russia in arson attack on military robotics firm Milrem](https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/)**
+**[Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots](https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots/)**
 
-Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.
+Mykhailo Fedorov told Defense News he wants humanoid-like robots on the battlefield within six months and an assault without infantry within a year.
 
-Defense News • 1d ago
+Defense News • 22h ago
 
 ---
 
@@ -186,47 +176,25 @@ Business Insider • 1d ago
 
 ---
 
+**[Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla](https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla)**
+
+Vinod Khosla has been one of the most optimistic investors in robotics, predicting the field will have a “ChatGPT moment” in the next two years. But he is also warning that too much investment and lofty valuations in the hottest robotics startups mean a big shake-out is coming.“I would say more ...
+
+The Information • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
 
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
 
-📺 Boston Dynamics
+📺 Canada 2050
 
-👁️ 364K • 👍 5K • 💬 685 • ⏱️ 5:49 • 16h ago
-
----
-
-**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
-
-📺 Julia McCoy
-
-👁️ 15K • 👍 279 • 💬 34 • ⏱️ 6:10 • 5d ago
-
----
-
-**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
-
-A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
-
-📺 DW News
-
-👁️ 149K • 👍 632 • 💬 253 • ⏱️ 3:46 • 1d ago
-
----
-
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
-
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
-
-📺 World Best Talent
-
-👁️ 1.2M • 👍 6K • 💬 385 • ⏱️ 25:31 • 4d ago
+👁️ 9K • 👍 276 • 💬 11 • ⏱️ 18:22 • 12h ago
 
 ---
 
@@ -236,27 +204,37 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 Future Files
 
-👁️ 616K • 👍 4K • 💬 120 • ⏱️ 24:25 • 4d ago
+👁️ 724K • 👍 4K • 💬 138 • ⏱️ 24:25 • 4d ago
 
 ---
 
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
-📺 ejunky66
+📺 World Best Talent
 
-👁️ 855K • 👍 9K • 💬 685 • ⏱️ 1:00 • 6d ago
+👁️ 1.2M • 👍 6K • 💬 404 • ⏱️ 25:31 • 5d ago
 
 ---
 
-**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
 
-Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
 
-📺 Hyundai Motor Group
+📺 Boston Dynamics
 
-👁️ 122K • 👍 35 • 💬 3 • ⏱️ 5:49 • 16h ago
+👁️ 428K • 👍 6K • 💬 747 • ⏱️ 5:49 • 22h ago
+
+---
+
+**[China&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
+
+Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
+
+📺 Prime Insights
+
+👁️ 514K • 👍 4K • 💬 269 • ⏱️ 26:57 • 6d ago
 
 ---
 
@@ -266,17 +244,17 @@ AI Warning - robots are fighting HUMANS now and they're strong. A man named Fran
 
 📺 MindSeeded
 
-👁️ 94K • 👍 4K • 💬 293 • ⏱️ 13:48 • 6d ago
+👁️ 95K • 👍 4K • 💬 295 • ⏱️ 13:48 • 6d ago
 
 ---
 
-**[1,000,000,000 Humanoid Robots Elon Musk Predicts … Is Transhumanism Next? 😱](https://www.youtube.com/watch?v=Ijl-w8CYZ0Q)**
+**[These New Female Robots Just Unlocked NEW ABILITIES](https://www.youtube.com/watch?v=Lne4k8uPUuI)**
 
-Elon Musk has made a staggering prediction about the future of humanoid robots and Transhumanism: a world where billions of ...
+Something shifted this year. The demos stopped being about walking without falling over. Now it's fine motor control, reading a ...
 
-📺 ejunky66
+📺 AI Exposed
 
-👁️ 225K • 👍 3K • 💬 294 • ⏱️ 1:00 • 5d ago
+👁️ 48K • 👍 315 • 💬 23 • ⏱️ 16:27 • 4d ago
 
 ---
 
@@ -286,7 +264,27 @@ Download PolyBuzz here: https://polybuzz.onelink.me/GQGs/bm9n0ob0 Search my code
 
 📺 ElephantDogCat
 
-👁️ 6K • 👍 189 • 💬 74 • ⏱️ 11:01 • 9h ago
+👁️ 8K • 👍 235 • 💬 79 • ⏱️ 11:01 • 15h ago
+
+---
+
+**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
+
+A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
+
+📺 DW News
+
+👁️ 151K • 👍 634 • 💬 253 • ⏱️ 3:46 • 2d ago
+
+---
+
+**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+
+Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+
+📺 Hyundai Motor Group
+
+👁️ 149K • 👍 37 • 💬 3 • ⏱️ 5:49 • 22h ago
 
 ---
 

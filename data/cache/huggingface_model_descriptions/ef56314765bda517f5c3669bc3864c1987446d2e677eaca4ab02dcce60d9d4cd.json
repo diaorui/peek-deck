@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-01T06:55:34.424964+00:00",
+  "data": "Julia 1 is a 144.3M parameter multilingual text classification model based on mmBERT-small, designed for making clear decisions from context by classifying, routing, or scoring provided options. It excels at tasks requiring grounded choices and explicit answer selection, serving as a specialized decision-making engine.",
+  "model_id": "SupersonicLabs/Julia-1"
+}
