@@ -5,44 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Forget \u2018superintelligence\u2019: error-prone AI nearly sparked world war three this month | Timnit Gebru and Emily M Bender",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFZCSFFiVG9DajFGU0JRbWZ3ZTJZVlA4Mmc3Rk5jbXAtbzQzRHJydXhMdEhmVmFZeGpnQS1Id2hLLWtkS0xBRmpSYkRrTTZpd3EyUEloVEYxU1dXUlNiSWhody1aZld5M1VTbm5xV0Mwd20xeHA1ay1wR1lkSmtlalJwaWduWXh3VktsM1pseTdZNGFqMWo0YTRFc2ZGQU1wa25xRmNseEZJOXRrQ0hxSDEydHV6VGFSYmFfZXNTTGlnZEVjNnJBd3JNNWYxdw?oc=5",
-      "pub_date": 1790845200.0,
-      "article_url": "https://www.theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
-      "image": "https://i.guim.co.uk/img/media/0d73ce3f33e41d2cc83104a798beda3a6a56487f/344_0_3409_2726/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f3d48b66daf058937af16616ee0be4d8",
-      "description": "The risks of AI aren\u2019t what we think they are, as a recent security incident between China and the United States reveals"
+      "headline": "AI liability fight reaches Senate as Google releases powerful new model",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3FLeXhoUkNGZll5QUlXTkpZdEU4WnJNNHVoeUNnS1ByZjlGMndVWXk3cEFRM0hHTmhGdkoxdTlhMi14V0xIaGQwZkFxenA2d295QUlKcHc3Nnk3bFAyeXpNU2wxMC1EVTR1SlJndnotclVselVaNzdJeGxzT2FHOUk5Vlplb1lGT2hPSTctZmdXUzRtWVI4?oc=5",
+      "pub_date": 1790872718.0,
+      "article_url": "https://www.foxnews.com/live-news/gop-senator-hawley-ai-google-gemini-frontier-model-10-1-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/da9cad496e2faf8fbd6478948474d31e.jpg",
+      "description": "Republican Sen. Josh Hawley and Democratic Sen. Chris Murphy are set to introduce bipartisan legislation that would hold AI companies legally liable for hacking incidents, as Google unveils its latest frontier model."
     },
     {
-      "headline": "Late Night Is Skeptical of A.I. Leaders Self-Regulating",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHlLampuNUVHR0xqZTVRelRvb1lSdVNGbXFkNExjS0lJV21DdE13dzA1X0djMWlzWXlNcG5mMGtGTV8wYUJ1RlpWRlB1U3B6Wnd2Z3VPaHFFc1NFMGVOdU9iUmVPYUdzUGJSUGNXdGZlUEpzclNTRTJMazloQ3llYV9qbm1vRnhMdWxuQm8tWEptUnQ0LUxlLWZB?oc=5",
-      "pub_date": 1790835175.0,
-      "article_url": "https://www.nytimes.com/2026/10/01/arts/television/late-night-trump-ai-leaders-regulation.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWhaVGlFMFhRaGhGX1prSlFKVGNQY0hHTjhYa25PcERoaE5zU3FNOHh6MUN0S1ZXdDJlakozMnFfcnZvbW9YdTR0NmhZNGVTRDZTalNwSmFOaVF1VWppRlJ1Wlh1SWRIbU9jSk1GN3VheS0zUnZOeEw4MDg2ZG5nT3JoWkRkZEXSAYwBQVVfeXFMT1B5NV9RSGxQdGlKYXdDNUVDdlFMODVUMjRHazlVRTRpQ21EQWVJLUVzTUUyOTBINHRKVzVuYnZlYzhPUUI4Y1RDOHQxZkJLbUFEUnBNeTBwSU1Tb0trODRfVnJmZ0ExQ2o0SDRiV0FPWmJzc2htTW84RDBLR0lJZjlmeEJwakpJYlQxRGw?oc=5",
-      "pub_date": 1790820420.0,
-      "article_url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108370732-1790807387267-gettyimages-2297778788-kbd15563_jub3fg6t.jpeg?v=1790807538&w=1920&h=1080",
-      "description": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests."
-    },
-    {
-      "headline": "We tested America.gov, Trump\u2019s new AI \u2018concierge.\u2019 Here\u2019s what it can do.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW1OcFFhc0VIWTNMVUVacEdtMHp3QjYxSVpjemJhZ18xTU8xYlRFZnRuYmt5cFc1T1ljQlJFdTV5WUpHLUthUVpwMWpKczRvXzNpR2JLcjBhVzRTbDBleHNQVmVyZmxCckJOZG9sOXlGWnUtMmVqd0NQZWJnakVWMFpqY2lLUlFSbER0cjFzVXUzTXQwcWV0M0tseGREWndweVBucnRPUmFrSHRjR3ZVVGZheGp1blRMeVFTMGR3?oc=5",
-      "pub_date": 1790861567.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/01/governments-new-chatbot-wont-talk-politics-it-will-fact-check-trump/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ISCE5TUAKRFCNOSJFMPYLKRDSQ.png&w=1440",
-      "description": "The chatbot promises to help users with passports, Medicare and more. It can provide information, but it can\u2019t take actions for you yet."
+      "headline": "Mike Rowe warns US workforce facing \u2018problem of the decade\u2019",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkxLd09CbUJZTUVOTWQ3aVVmcHRHbmdJVlcwRHpsN3lUbG0zUjVuYTFHUktudmZuX3VIeXlfdDJ6TldObjgza1BvTkhaRm15ZnFyY19VMmcxVnFqLVVqZmViZmtPa1BXbm93bllkbFVqY3hHb0NWY1N1WGN0d3F2aDRMR19ZNzlsNm5ZetIBkgFBVV95cUxNWDNZalVsLTFDNV9VX3JiX05JRU1TdHRCTmNCTkM3WVZDWjZ2Qlg1RC11VmtWc25JSG9wcTZSSlpiUzY4SktSM0lZdVlUX0tmTEZaUldzakhuazNlTGhYekFKNGI4bkd4TEt1ODVCWVF2YmpQbUVmT2V6VDE2SU1KZUlRV1E3anFNajRMQURaRG9PZw?oc=5",
+      "pub_date": 1790852220.0,
+      "article_url": "https://www.foxbusiness.com/media/mike-rowe-warns-us-workforce-facing-problem-decade",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/mike-rowe.png?ve=1&tl=1",
+      "description": "Mike Rowe says CEOs are \"freaking out\" over the skilled labor shortage, calling the workforce crisis the \"problem of the decade\" with no easy fix."
     },
     {
       "headline": "Google rolls out Gemini 4 Argon, its most advanced AI model",
@@ -55,14 +35,14 @@
       "description": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements."
     },
     {
-      "headline": "Google\u2019s latest launch puts its AI ambitions to the test",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEN0QjRJTXp3clpIOG1Hbmh1V0dWeEpPNGR5dVUtT2xNSzdXZElfY0ZiTnZDS3pBV21vRjZXSHFVZ1hPbUduel8xbUxlM29jOG1PSXhvNkdYbnpLUGtGMWpJVWUtRVBWNGR5UDF5bnZwWDExd1hYNDlINlVuY0dSNTBBd1VFRHFxTmdlalI2cmVwbXhhMklJMm5XTTJoVUVhR3BF?oc=5",
-      "pub_date": 1790863933.0,
-      "article_url": "https://www.latimes.com/business/story/2026-10-01/googles-latest-launch-puts-its-ai-ambitions-to-test",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/315bb89/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2F49%2Ffb42f34f436c9d332728fb133cfa%2Fgoogle-30417.jpg",
-      "description": "Alphabet Inc.\u2019s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model, but the company is grappling with internal skepticism over how well it performs in key areas, such as coding."
+      "headline": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5",
+      "pub_date": 1790799873.0,
+      "article_url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Gemini 4 Argon: our next era of frontier intelligence",
@@ -75,36 +55,56 @@
       "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon."
     },
     {
-      "headline": "Accenture stock surges as record bookings dispel AI fears",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd05rdW1GOFduSjlqaEFZdU5ST2M0Y3NRcm5uNG1Odm9UQkRsZEF2UFpPdlFJS0pvZEhfdXZCZWNhMllzOTlXbE1XYm9IcFNXemxqUmxlTllzamsyTktwN21vc21YeG03cUM4MDFkb1F0WDhXVjI3dXd2NktKOHZTSFVDYXRXZF9HUS1obE80LXcyeXBLOEc2bDd2RDRzTjU4TzgxZmtYTFRJZWVocmptSlhCUGw?oc=5",
-      "pub_date": 1790862104.0,
-      "article_url": "https://finance.yahoo.com/markets/article/accenture-stock-surges-as-record-bookings-dispel-ai-fears-133857510.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ea41da732c3a6d5044b8b1f6e3e44b3b876698a1485e2c7797f42b26832378b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F80d9a678-f348-4efc-a044-e929b6c84eb7",
-      "description": "Accenture stock jumped on Thursday on top- and bottom-line growth and record bookings in its fiscal Q4, indicating that AI has not squashed demand for traditional consulting and IT services."
+      "headline": "Michael Burry likens Nvidia's AI boom to 1960s computer leasing bubble (NVDA:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0YwNU5CcFRzT0xIanZaOXBQSFlZNTVBX3ZKdTZTeG1kaUZZTFZvZWFxSTJNV3JPSjFRdmRRSjYyNExZMktZaDZmZG9jbWpxTmt5Z3BwU1lOdjJIVklscEt6WEZpaDVkUTBLRjZ6TU5mV0N3YzFvRjFvZW9xaTlWOUxwa1o1VjEwZ0dIN28tX2dfUVRxdDlzaTVyOEdaa3V1RG0waHZ2clhJSWs?oc=5",
+      "pub_date": 1790880732.0,
+      "article_url": "https://seekingalpha.com/news/4649446-michael-burry-likens-nvidias-ai-boom-to-1960s-computer-leasing-bubble",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/498541178/image_498541178.jpg?io=getty-c-w630",
+      "description": "Michael Burry compares Nvidia GPU valuation hype to the 1960s computer leasing bubble, warning Big Tech AI spend may trigger write-offs."
     },
     {
-      "headline": "Vinod Khosla talks Seahawks, AI and agents",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xMjZnSTcyaERTbGxRMzdVMVJfOEI2NXFyZUxrdmRqZmNrYmtLY05ocUtDRTgwRUhodk9zM01OM080Wld3TjUzeFM4Y2oxUmxFNVhxMW0yc3NUUkNRbFE1TDU0YUVuWW5wS0g4MVBNcUlMQQ?oc=5",
-      "pub_date": 1790861992.0,
-      "article_url": "https://www.axios.com/2026/10/01/vinod-khosla-seahawks-ai-agents",
-      "image": null,
-      "description": null
+      "headline": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHpoSkZMSUJMOGtZbVVtY3RWVmdBVExLSkNSSjlqRmdvRnByRHhuSVhYbVhPS3RYcF9oUTY2aHVZY3FUb1o5YnVScFlmX3Z1a3ZuZHk2NmZJcmNNWmlxS09JZjh6RE0wVGI4YWFpeTZuVjM5QVdmZmpXeWl4VElrWkJxbjFBcVNSa0lXdUJ2cmpvdm8tdlE?oc=5",
+      "pub_date": 1790880067.0,
+      "article_url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+290/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F8f%2F371cc0fe493fbe02541d94335b9a%2Fsuncatcher-planet-labs-pbc.JPG",
+      "description": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy."
     },
     {
-      "headline": "For African AI, Open Source Is Often The Only Option \u2014 Not A Virtue.",
-      "source": "forbes.com",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWRsQ09uV0tVc3FsXzByZEstMW5DT01YWGFFcjJnWVgydXlCWnc0V091ZkpzeXhnUkNBeWxJT20yNkJEdjlkeUdhQUt6UHhKVE4xb2ZWeU4yZGhGR1dTME5HbXh0ZXBFdTFENkZPVHdjZWRBeU9GTzdlOGNPcEpKbzJZVE5YZWRBM0RDQVBxNkV0NWN6QXN0S3NfSWkzQUhpMzZMb01HNVhTb2k4amQwelRmYTI?oc=5",
-      "pub_date": 1790862124.0,
-      "article_url": "https://www.forbes.com/sites/ashoka/2026/10/01/for-african-ai-open-source-is-often-the-only-option---not-a-virtue/",
-      "image": null,
-      "description": null
+      "headline": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkdhZGNReVpJcWxxUzVmZjljcURHdm5oc3ZjMzFWZ3lTd08zUUVISno0QU5LUklld1JSVGc2LVprclc2REVPZW1LN1hveWNpNXhncTlJZjgwMUtvRlJCWHBRUXFLWGVjcXNnNl9mQ0k3VTh0SnBiTmowOFVVZEhseVZLbzM3dkdjaWJNaTZ2aFY2ZmlrTHhscEN6WEpZUlUyVVctWXh5d3hQd9IBrwFBVV95cUxQYVJadHZIVjJjd1dIQUR3cHZiWTZUNzhSMkxVdzV4czFEWDVCajdVNEFPR1ExaERiZE5UbERZNFlwOEoxQkRnMVpfOU1TbTFHcUpGQjNyZHljdWd4aTJTX0lMelRZdUJFSkhYLWlYdk9BdjVfZ21WYzlGN1lYNWJ5Wk1Ud3dFYVRsZ0dGWlVlcW9fckhVcG5teG5JU0RHYzVGNE5NSEkxOHFCT2NlNmFj?oc=5",
+      "pub_date": 1790853615.0,
+      "article_url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+      "description": "Google's tensor processing units were launched into orbit on Planet Labs satellites."
+    },
+    {
+      "headline": "Google\u2019s Project Suncatcher AI data center test has officially launched to space aboard SpaceX rocket",
+      "source": "Scientific American",
+      "source_url": "https://www.scientificamerican.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMk9tdW43a2RZc3dkUDVsSjZ0OVRiclZSUzlFTmx0WHlGY3J4aXI4d2xkREV1YlE4aDVsM3h5VzBhVVM0bjJrQXl5SEZjcGxCM0FVZm16S29UOENmeTZyUmVHRTYzQ0JsQk9jWXVlWDdYS3dVNjdkT1ZBa05NRnlad0sxbEV5eUZiQnRUeE5nZ1lqLUh2RjczZ0xKSUVpY3hpaXVEajhQNFF4dVo5VEFnY2trYkFfdHppZEs1c21IVVpOY2tPRnhEd3p2cHVsMUZBOEJIbk9rZjRfYmVC?oc=5",
+      "pub_date": 1790881200.0,
+      "article_url": "https://www.scientificamerican.com/article/googles-project-suncatcher-ai-data-center-test-has-officially-launched-to-space-aboard-spacex-rocket/",
+      "image": "https://static.scientificamerican.com/dam/asset/82bd28ed-88ca-4bcb-8a84-4ec4390581c6/Project-Suncatcher.jpg?m=1790882073.4&w=1200",
+      "description": "Project Suncatcher is aimed at testing Google's AI chips in the harsh environment of space"
+    },
+    {
+      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWhaVGlFMFhRaGhGX1prSlFKVGNQY0hHTjhYa25PcERoaE5zU3FNOHh6MUN0S1ZXdDJlakozMnFfcnZvbW9YdTR0NmhZNGVTRDZTalNwSmFOaVF1VWppRlJ1Wlh1SWRIbU9jSk1GN3VheS0zUnZOeEw4MDg2ZG5nT3JoWkRkZEXSAYwBQVVfeXFMT1B5NV9RSGxQdGlKYXdDNUVDdlFMODVUMjRHazlVRTRpQ21EQWVJLUVzTUUyOTBINHRKVzVuYnZlYzhPUUI4Y1RDOHQxZkJLbUFEUnBNeTBwSU1Tb0trODRfVnJmZ0ExQ2o0SDRiV0FPWmJzc2htTW84RDBLR0lJZjlmeEJwakpJYlQxRGw?oc=5",
+      "pub_date": 1790820420.0,
+      "article_url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108370732-1790807387267-gettyimages-2297778788-kbd15563_jub3fg6t.jpeg?v=1790807538&w=1920&h=1080",
+      "description": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T14:16:11.412194+00:00"
+  "fetched_at": "2026-10-01T19:42:28.803975+00:00"
 }

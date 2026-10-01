@@ -5,36 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Current price of Ethereum for Oct. 1, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTWxnekt3ZVRid3l0OXdlUDBKYUJEVDQzZ0I4UExtS2tCVXRvNmo2SzZhRFhVNmNCeHF1Yy14QmFEYkROLUh1SjN4WXYzb2o5ZEF2aUNlNUl6VGdBNjFuZGRzNlk4U1ZW?oc=5",
-      "pub_date": 1790862420.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-01-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-1.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWgxVWpzVEtBd1V3TEE1U0M3LTl0bm9UTzdTTWhkZ3VXRFpUQTkwNlhOaHNnbjBwbU16akx6elhXc2QzMEhXQkdTcEt2OUVzY2hONnJLNE80bTF4ZlZ0MnhtNms0RjFTQTE4YmZyYS1KYUZuOGoxb3RTWG9STU81QTlFUUdqNXd1ZlIzVU5KVFUwcWw4cjk4?oc=5",
-      "pub_date": 1790857395.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/citi-lifts-12-month-bitcoin-122315808.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7d4f75760838cfb554f08dfa7b26730cb4e8b6bc6f8066e0a65f80dbc0dc047e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F505e0b8c3e85334df83e66ac68ab2659.png",
-      "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
-    },
-    {
-      "headline": "BTC Price Target: Citi Raises Bitcoin Forecast To $113K, Ethereum Target To $3,028 As ETF Inflows Return",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWJ2ZDRyNWpQcmJIc3FnUlgya0lLZUtzNjBHekhaUHQ0WkdOQjB0N0J3SVBWdmlDV2V6X2VUVEQ2RlZidHZVSEg2VVFsYUV5N19NN1RCNFQyRWJRdGxMR05tUGFpcVhvRjlvUkctUURwNldkeFQ0SWdtWnAxWWpYZzhGZElZWDNPbVJ1dVFMcWdyejRxNVlENQ?oc=5",
-      "pub_date": 1790852560.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/btc-price-target-citi-raises-110240550.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/425fe4ad5cb2aad84e2f128dc273fcc79dba877b13e77746a1bea2469be10d14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2c997bef5deed6ac65cf482b846d499d",
-      "description": "The firm expects roughly $5 billion of crypto ETF inflows over the next 12 months, driven by gradually higher allocations from advisers and brokerages."
-    },
-    {
       "headline": "MetaMask exits Ethereum validators after attacker diverts staking rewards",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -43,6 +13,56 @@
       "article_url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "description": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH."
+    },
+    {
+      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNak5yWm93NTZDX3FweGk3N0h3TWU4SnpmYkpvWE42V2xQSnI0cHhCeUVRLTlVUFVmdFJabGtZbTUxOGhNTzYwTjJuaEtZSVBsU25HSDl6Wk9RUnBnZzBmWk43b1JORURzTWt6NTUtV0RIMjJHX0JZNnNPSldHZVlqWFZZRDJ6aDJsdDBv?oc=5",
+      "pub_date": 1790857395.0,
+      "article_url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-02-gID_7.png",
+      "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
+    },
+    {
+      "headline": "Ethereum: A 57% Rise Last Quarter. Can It Reach $3,000 Again?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORmRqc2Q5YUlvUjB6YV9SazdaNDVlSUkzZUFNNnNNN2VMNWp4ZjNHd3pGNzZvNmZaS1BoR3NvX2lHcG9QYk9pQVJuV0kzRWFEOVd6SklfUndKLTBnOVRDS2x3dzliSTZvbjJ4Y3FMRkFsYko3WXBRMHN4X2VLeE9tc2xWZG9wZ3VzMVNaazFOQXE4aGloaGstYXd3?oc=5",
+      "pub_date": 1790875822.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-57-rise-last-quarter-173022948.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1baf673f8f4c90e3e8685157273344297242a81f1bec616381c1ec3411916941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9ba1fa41994408b573d416faebbd09ea.jpg",
+      "description": "Ethereum just posted its strongest quarter among major cryptocurrencies, but a stubborn ceiling keeps blocking its path to a psychologically critical price target. Two specific triggers could either open the door or delay the breakout until 2027."
+    },
+    {
+      "headline": "Introducing zkAPI: private usage credits for any API",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLWVNZZmpmWG9BbG9JQ0JNWXFLNWk5SGdNelEzUmRTdXBUeXo3M19pbDVvZ191bWxrcGlqYWplcFNyaDlnQy0zXzV4LVNKbUNYOExxM01FamVyRU50NzNURk5ycDQ?oc=5",
+      "pub_date": 1790881376.0,
+      "article_url": "https://blog.ethereum.org/2026/10/01/introducing-zkapi",
+      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer.png",
+      "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
+    },
+    {
+      "headline": "Best Crypto to Buy in October 2026: Bitcoin, Ethereum, XRP, Solana, and High-Potential Alternatives",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHZxZDBIaDNxM1c4azdLTG1LbkVkSEFPc2NWeWtLZDc1VThocWhaZHBlZDhJS01lcUoyeVQwSmxTaWZoQmM3QmxDYVhoRGl1NWFMZ1VVVngzeGNJZHFUaHMwT2Z3ZTA3LXJubGpONGdaazJrWThGd0lLanBwMTVlZUFYRWYzS3I1XzFITm5qZ2NUNzZubEVFeQ?oc=5",
+      "pub_date": 1790879415.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/best-crypto-buy-october-2026-183015659.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3df5c2c20d288bc1e3f9c4b94785a8710c49117edd82b354a87cbede4cf3beb5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F201dd0a38c51662d24c8bbda533414d0",
+      "description": "Ethereum, Solana, XRP, and Bitcoin each tell a different story heading into October, but a 64% chance of a Fed rate hike and a 5% Treasury yield could scramble the rankings before the month even begins."
+    },
+    {
+      "headline": "Current price of Ethereum for Sept. 30, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RLVk1dkxXYnlHZ3dzbUtKVFczWm5GbVVlTWRyaEd3QVlyUFdLQ3pUNE5JeF96VkpLR1dzRHRuSHJ1Mkkydl9lUGRtdm91dEUweHlBVXUwSTIyZjU4Znd4VmtpalVVeWtK?oc=5",
+      "pub_date": 1790782440.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-30.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
@@ -75,36 +95,16 @@
       "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
     },
     {
-      "headline": "Glamsterdam Testnet Announcement",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HZzBYRkgtUGJSMnFGTUM1S21jazdWdk9aQzhKRl9TVTVRMElVNzVrWGZaWkQ3WFZkOXRxaXhHZlRsaXRpSTNvSDFPNkh4dmpuckdyM3A0VzFOOS1uSElLSWYtSnJTdTl3MmtvUG5qbHZ2Q1ZCdnJORw?oc=5",
-      "pub_date": 1790639109.0,
-      "article_url": "https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and..."
-    },
-    {
-      "headline": "Ethereum Price Forecast: Leverage capital cools to lowest level since March amid consolidation",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMk5naWt3U2RKRUFKdE1KZV9VWmwwSGxic2FwRHNBT0d4WGVDcTRqS2d0LVh0TzI4amtmT2VadHZINm90bVh6YVNGdXBPMVcxNzViQTZQaTdQTkxyQ2lHektuNlpLMHFneU15SkYxclFTZjIzb25wX1JPanFEeXBERjRCNjJWLWFydFVjNUdtQU1acFF5QjNKLVVuWXRLcnZTcDRVRDdmaHU1ZVMzMmRRRmJ0NG9wMm96M05DUnNraXQ4c3Q3U3BLUlhVWUw4cHhCZ2VyeG5OSGlTQTY2cmk5bVNTbGFFUm1H?oc=5",
-      "pub_date": 1790811702.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-leverage-capital-cools-to-lowest-level-since-march-amid-consolidation-202609302341",
-      "image": "https://editorial.fxsstatic.com/images/i/ETH-neutral-line_Medium.png",
-      "description": "Ethereum (ETH) remains range-bound on Wednesday, with leverage capital continuing to dwindle despite lower-than-expected inflation data."
-    },
-    {
-      "headline": "Authors Pull Ethereum Staking Reward Burn From Hegot\u00e1",
-      "source": "thedefiant.io",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGdzZUZEVGJCRVg0RXphMG5mTDJpcWxJQ182Ukt0enl4RDdPWWlmQmhKRFlRVmV4ekI0ZDVPUW5MbEhoZ0F5U1hyczhXbU5MejdiWXB6eTY3ak9rbVBFdDkxX0VaMGFMWUhMMUJ2VU1kdnlPZk9YRlNSM1dCOTZpcTR3MVZUZ2t0Z3NvR3JwQ2hsa0tPS1E?oc=5",
-      "pub_date": 1790830197.0,
-      "article_url": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/1ce94767eeac1a8dfcbd652507bc3e7b3548d1a9-2048x1152.png",
-      "description": "EIP-8363's authors withdrew the staking reward burn from Hegot\u00e1 consideration and pledged a separate process for Ethereum issuance policy."
+      "headline": "Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered",
+      "source": "benzinga.com",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1RkaTJXQkhteXJwamVxTXoxeF9wUDhxN3YzNnA3bkd1Z1NLNmdWb2xCWm9nNkFncmxXTFBYekJWS01oNXhWOVY1aHJBU2loNUNqbU96dEI3OE9XdHN2RXZ6bTZPVm5Ib2hRTHhka3E1NjlKZmhPQ1A3VC1WSUJHMWRXaktpZ3Zrem05MFFsWlhmNjl0LU1BWWwzR0RNLTBIbWxxTFlMT1pHVWRiS190dGhld1h3cmJRNEpVdFNVVVZpdFpQX1RiNjhVaUJ5UQ?oc=5",
+      "pub_date": 1790788174.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/62087026/ethereum-based-stablecoin-issuer-ena-could-surge-600-standard-chartered",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/30/Eth-Coin-With-Blurred-Candlestick-Chart-.jpg",
+      "description": "Standard Chartered sees Ethena\u2019s ENA reaching $2 by 2028, implying 614% upside and gains ahead of Bitcoin and Ethereum."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T14:16:13.556581+00:00"
+  "fetched_at": "2026-10-01T19:42:32.854182+00:00"
 }

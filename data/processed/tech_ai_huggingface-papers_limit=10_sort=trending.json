@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2609.33439",
       "arxiv_url": "https://arxiv.org/abs/2609.33439",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 494,
+      "upvotes": 495,
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/EverMind-AI/Raven",
@@ -31,31 +31,12 @@
       "hf_url": "https://huggingface.co/papers/2609.05415",
       "arxiv_url": "https://arxiv.org/abs/2609.05415",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
-      "upvotes": 17,
+      "upvotes": 18,
       "num_comments": 2,
       "published_at": "2026-09-03T20:00:00.000Z",
       "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 901,
+      "github_stars": 1019,
       "project_page": "https://linzhanmou.com/unimate/"
-    },
-    {
-      "id": "2609.24972",
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-      "authors": "Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)",
-      "organization_name": "google",
-      "organization_fullname": "Google",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
-      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24972",
-      "arxiv_url": "https://arxiv.org/abs/2609.24972",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 218,
-      "num_comments": 2,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 1086,
-      "project_page": "https://regularized-rsi.com/"
     },
     {
       "id": "2412.20138",
@@ -77,6 +58,25 @@
       "project_page": null
     },
     {
+      "id": "2609.24972",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "authors": "Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)",
+      "organization_name": "google",
+      "organization_fullname": "Google",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
+      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.24972",
+      "arxiv_url": "https://arxiv.org/abs/2609.24972",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
+      "upvotes": 218,
+      "num_comments": 2,
+      "published_at": "2026-09-20T20:00:00.000Z",
+      "github_repo": "https://github.com/google-research/rrsi",
+      "github_stars": 1126,
+      "project_page": "https://regularized-rsi.com/"
+    },
+    {
       "id": "2609.37725",
       "title": "Context Language Models",
       "authors": "Rulin Shao, Shannon Zejiang Shen, Junjie Oscar Yin et al. (13 authors)",
@@ -92,8 +92,27 @@
       "num_comments": 2,
       "published_at": "2026-09-28T20:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/context-language-models",
-      "github_stars": 161,
+      "github_stars": 277,
       "project_page": "https://github.com/facebookresearch/context-language-models"
+    },
+    {
+      "id": "2609.33325",
+      "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
+      "authors": "Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)",
+      "organization_name": "Mininglamp-2718",
+      "organization_fullname": "Mininglamp Technology",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/69c656d25cf6c8ac26073013/sJ_pUHr_6G89GHJK5qPm7.png",
+      "summary": "Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.33325",
+      "arxiv_url": "https://arxiv.org/abs/2609.33325",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33325.png",
+      "upvotes": 308,
+      "num_comments": 2,
+      "published_at": "2026-09-26T20:00:00.000Z",
+      "github_repo": "https://github.com/PSRben/VisionHOPE",
+      "github_stars": 391,
+      "project_page": null
     },
     {
       "id": "2407.16741",
@@ -111,7 +130,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89667,
+      "github_stars": 89706,
       "project_page": null
     },
     {
@@ -130,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2026-02-09T19:00:00.000Z",
       "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-      "github_stars": 5110,
+      "github_stars": 5135,
       "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
     },
     {
@@ -164,34 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2609.34981",
       "arxiv_url": "https://arxiv.org/abs/2609.34981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34981.png",
-      "upvotes": 107,
+      "upvotes": 109,
       "num_comments": 2,
       "published_at": "2026-09-28T20:00:00.000Z",
       "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
       "github_stars": 61,
       "project_page": "https://zrporz.github.io/Simple-WAM-Web/"
-    },
-    {
-      "id": "2504.19413",
-      "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
-      "authors": "Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Large Language Models (LLMs) have demonstrated remarkable prowess in\ngenerating contextually coherent responses, yet their fixed context windows\npose fundamental challenges for maintaining consistency over prolonged\nmulti-session dialogues. We introduce Mem0, a scalable memory-centric\narchitecture that addresses this issue by dynamically extracting,\nconsolidating, and retrieving salient information from ongoing conversations.\nBuilding on this foundation, we further propose an enhanced variant that\nleverages graph-based memory representations to capture complex relational\nstructures among conversational elements. Through comprehensive evaluations on\nLOCOMO benchmark, we systematically compare our approaches against six baseline\ncategories: (i) established memory-augmented systems, (ii) retrieval-augmented\ngeneration (RAG) with varying chunk sizes and k-values, (iii) a full-context\napproach that processes the entire conversation history, (iv) an open-source\nmemory solution, (v) a proprietary model system, and (vi) a dedicated memory\nmanagement platform. Empirical results show that our methods consistently\noutperform all existing memory systems across four question categories:\nsingle-hop, temporal, multi-hop, and open-domain. Notably, Mem0 achieves 26%\nrelative improvements in the LLM-as-a-Judge metric over OpenAI, while Mem0 with\ngraph memory achieves around 2% higher overall score than the base\nconfiguration. Beyond accuracy gains, we also markedly reduce computational\noverhead compared to full-context method. In particular, Mem0 attains a 91%\nlower p95 latency and saves more than 90% token cost, offering a compelling\nbalance between advanced reasoning capabilities and practical deployment\nconstraints. Our findings highlight critical role of structured, persistent\nmemory mechanisms for long-term conversational coherence, paving the way for\nmore reliable and efficient LLM-driven AI agents.",
-      "ai_summary": "Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.",
-      "hf_url": "https://huggingface.co/papers/2504.19413",
-      "arxiv_url": "https://arxiv.org/abs/2504.19413",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2504.19413.png",
-      "upvotes": 72,
-      "num_comments": 2,
-      "published_at": "2025-04-27T21:46:35.000Z",
-      "github_repo": "https://github.com/mem0ai/mem0",
-      "github_stars": 66406,
-      "project_page": "https://mem0.ai/research"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-01T14:15:57.793192+00:00"
+  "fetched_at": "2026-10-01T19:42:17.634322+00:00"
 }

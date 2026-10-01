@@ -2,6 +2,39 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "The AI industry has discovered intellectual property",
+      "author": "Haunting_Ganache_850",
+      "url": "https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/",
+      "published": 1790864149.0,
+      "thumbnail": "https://external-preview.redd.it/KfN6eTUA58UkYW-Uto3cWl8KZR8kRcIAOT7-M41yCnc.png?width=640&crop=smart&auto=webp&s=1f5b5fcf7601d5d934ef7ebd76dc1f08192ee121",
+      "external_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
+      "site_name": "OpenAI",
+      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+      "description": "OpenAI says Moonshot-linked operators used thousands of accounts to extract protected reasoning from its models for adversarial distillation. No encryption broken. No database compromised. Just systematic querying designed to make one model teach another. OpenAI says this is dangerous because competitors can reproduce capabilities without making the same investment in safety. Which is a serious security issue. But you have to appreciate the timing: after years of \u201cwe learned from the internet,\u201d the frontier-model industry has reached the \u201cplease stop learning from us\u201d phase."
+    },
+    {
+      "title": "The neuroscience case for never delegating judgment to AI",
+      "author": "thewhyman007",
+      "url": "https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/",
+      "published": 1790878226.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep asking people a simple question: how many times has your gut been right \u2014 not the times you wish you had listened, the times you actually had the feeling and later found out whether it was correct? The answer comes back north of ninety per cent for almost everyone I ask. That is not a hunch. If a model gave me ninety per cent on a hard classification task, I would ship it. So I went looking for why, and ended up somewhere I did not expect. A gut feeling is not the absence of reasoning \u2014 it is reasoning you never got the transcript of. Your senses pick up far more than reaches conscious awareness (the birds stopping, the smell that was not there ninety seconds ago), and something nonconscious pattern-matches all of it against a lifetime of context and returns a single bit: right or wrong. Damasio's somatic marker hypothesis is the actual mechanism here, not mysticism, a documented one, backed by the Iowa Gambling Task. Which is the argument for a rule I think more people should take seriously: delegate the search, the draft, the first ten wrong answers to AI. Never delegate the deciding. The reason is not sentimentality \u2014 a model can be given everything you know how to say, but not the thing you lived through and never wrote down, and that is where the ninety per cent actually lives. Curious whether others here have noticed the same gap between what they can explain and what they can just tell."
+    },
+    {
+      "title": "new system 1.5 model beats jev by a long shot on all 4 baselines and is #1 on image jev bench (yes its multi modal)",
+      "author": "boneMechBoy69420",
+      "url": "https://www.reddit.com/r/artificial/comments/1wv71c9/new_system_15_model_beats_jev_by_a_long_shot_on/",
+      "published": 1790878855.0,
+      "thumbnail": "https://external-preview.redd.it/NTEzY2NmejZld3NoMRA5DflYftyA9n2FcBHVp7TeI_kcPkUHz_4Bu6AOjK3Q.png?width=640&crop=smart&auto=webp&s=9d24ecc1b0b56803138c75aa41ad25bc41dd4980",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "wity-1 a reasoning decision model , unlike a decison model like jev that doesnt reason and unlike a normal llm that reasons fully we sit in between we reason just enough till the probabilities in the internals of the llm show that the answer is achieved"
+    },
+    {
       "title": "Google cooked OpenAI and Anthropic with Gemini 4 Argon",
       "author": "DataRemarkable7093",
       "url": "https://www.reddit.com/r/artificial/comments/1wufikm/google_cooked_openai_and_anthropic_with_gemini_4/",
@@ -24,70 +57,26 @@
       "description": "Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies."
     },
     {
-      "title": "Sonnet 5.5 coded this motion graphics video from one prompt. Cost me $0",
-      "author": "Bladerunner_7_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wuy6yl/sonnet_55_coded_this_motion_graphics_video_from/",
-      "published": 1790857878.0,
-      "thumbnail": "https://external-preview.redd.it/aG9wbm0zbGNudXNoMVkugvQW3xKs-52SIGeaJfFqlAUuHy4Dbyk4Z62jegz7.png?width=640&crop=smart&auto=webp&s=1246c6ac28092dfe894002bb7451576a0cf8c04d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "made the attached video with Sonnet 5.5 from a single prompt. gave it the concept and visual direction, and it generated the code for the motion graphics. this attempt cost me $0. wanted to see how well it could turn a brief into something worth watching. how's the result? would you change anything before posting it?"
-    },
-    {
-      "title": "The most trustworthy AI answer might be the one that slows down",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1wuunei/the_most_trustworthy_ai_answer_might_be_the_one/",
-      "published": 1790845833.0,
+      "title": "Why do benchmark results go up every release, always?",
+      "author": "doomadah",
+      "url": "https://www.reddit.com/r/artificial/comments/1wuz7aj/why_do_benchmark_results_go_up_every_release/",
+      "published": 1790860652.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I\u2019ve started noticing that I trust AI more when it pauses and tells me what it cannot tell from the information I gave it. A confident answer is convenient, but a useful answer should also show where the uncertainty is. Sometimes the difference between \u201cthis is probably true\u201d and \u201cthis is definitely true\u201d matters more than the answer itself. I wonder whether future AI systems will be judged by how well they communicate uncertainty, rather than how often they sound certain. Would you prefer an AI that gives fewer answers but labels its confidence honestly?"
+      "description": "A lot of releases are clearly improvements, such as the initial fable release but for some the consensus seems to be that not much improved, or even in some cases the release was worse. Examples of this are Opus 5 (initial release) benching above Fable. Or GPT Sol 6.1 over Astra or 5.6. Is this just a case of misplaced perception? Or do these providers have a way of iterating on benchmark results without necessarily actually improving the real-world performance? Keeping in mind that some benchmarks are proprietary and closed source. If someone has some insight into what the loop is, would love to hear it."
     },
     {
-      "title": "How would you explain to someone who only uses AI chat what the world will look like in 20 years?",
-      "author": "Valuable_Finding7",
-      "url": "https://www.reddit.com/r/artificial/comments/1wuzfqo/how_would_you_explain_to_someone_who_only_uses_ai/",
-      "published": 1790861268.0,
-      "thumbnail": null,
+      "title": "New AI models used to arrive every 10 weeks, now it\u2019s every 21 days, so much for slowing down.",
+      "author": "DependentCodd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wv3cl3/new_ai_models_used_to_arrive_every_10_weeks_now/",
+      "published": 1790870548.0,
+      "thumbnail": "https://preview.redd.it/ny0kb1xqqvsh1.png?width=140&height=63&auto=webp&s=662373ab2dd17d093fcef91547b984e4f2e8f12b",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "How would you describe AI to a person who knows nothing about it, except for searching on an AI chat? I see a lot of people saying the world is going to change, so how would you explain to someone with zero knowledge what changes we are going to see in the world 20 years from now?"
-    },
-    {
-      "title": "Anthropic\u2019s confidential S-1 prospectus reveals a $42 billion financing facility from Broadcom to help fund a $125.2 billion TPU compute lease",
-      "author": "roll0ver",
-      "url": "https://www.reddit.com/r/artificial/comments/1wuzeyg/anthropics_confidential_s1_prospectus_reveals_a/",
-      "published": 1790861207.0,
-      "thumbnail": "https://preview.redd.it/05025zvnxush1.png?width=640&crop=smart&auto=webp&s=4e4ad82fa5976438ec4788b5b41a59ace44dcee7",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Broadcom is not just supplying chips. The filing shows it acting simultaneously as the supplier, the lessor, and the lender, with the debt convertible into Anthropic equity. The prospectus explicitly flags this triple-role as a potential conflict of interest. The structural risk is entirely circular. If Anthropic defaults, it doesn't just lose the $42 billion credit line. The default accelerates the massive lease payments it owes right back to its lender. This is not a standard vendor contract. It is a closed-loop financing structure where the supplier holds the hardware, the debt, and the equity."
-    },
-    {
-      "title": "What\u2019s an AI limitation that you only notice after using AI a lot?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wully6/whats_an_ai_limitation_that_you_only_notice_after/",
-      "published": 1790815145.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not the usual \u201cAI hallucinates\u201d answer. Something subtle that becomes obvious once you've used these systems enough a workflow problem, reasoning issue, context problem, or something else. What have you noticed?"
-    },
-    {
-      "title": "Watch Nvidia (NVDA) Rolls Out New Tools to Keep AI Agents in Line",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1wv09av/watch_nvidia_nvda_rolls_out_new_tools_to_keep_ai/",
-      "published": 1790863335.0,
-      "thumbnail": "https://external-preview.redd.it/o_ygU60VyTTy72RCv-Ey3hr8KTBYgInfhhW3CvGhbek.jpeg?width=320&crop=smart&auto=webp&s=13b934f4d5cdfe9d4897d02fa40c3889caaef61c",
-      "external_url": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video",
-      "site_name": "bloomberg.com",
-      "favicon": null,
-      "description": null
+      "description": "https://preview.redd.it/ny0kb1xqqvsh1.png?width=1285&format=png&auto=webp&s=d26d9ac7c3940147a33f8629843bc1aa77a618e2 New AI models used to arrive every 10 weeks, now it\u2019s every 21 days"
     },
     {
       "title": "Greg Brockman: How to build AI software that doesn't die when the next model ships",
@@ -101,16 +90,27 @@
       "description": "TL;DR: Greg Brockman just named the exact test that kills most AI startups before they scale. The word \u201cTrust\u201d in this context, I think, is taking too much centre stage, without being properly defined on what it is. But after some thought, if we equate it with another word, \u201cclarity\u201d, then it made sense. When I said, \u201cI trust you.\u201d, I\u2019m actually saying, I trust your clarity in your role, your experience, your profession, your judgement, etc. \u2013 I trust you know what you\u2019re doing. You have good intentions, good motives. You\u2019re clear in what you want to do \u2013 for my benefit. And therefore, I place my trust in you. That\u2019s the word \u2013 clarity. I\u2019m reminded of \u201cThe Sea\u201d. Don\u2019t know what it is? It\u2019s a name being given to this large bronze basin, placed in the Temple courtyard, for the priests\u2019 ceremonial washing. King Solomon commissioned a half-Israelite from the tribe of Dan to come fabricate it. His name was Hiram. Hiram was brilliant in his craftsmanship, so much so that his reputation precedes him. He can craft anything with his hands. That\u2019s why Solomon brought him in. You might ask, \u201cWhat? For building a stupid bronze basin?\u201d Oh, not at all. Though The Sea by itself is impressive \u2013 it can hold over 10,000 gallons of water \u2013 that\u2019s not all there is. It\u2019s sitting on 12 bronze oxen underneath it. It was arranged that 3 Oxen face North, 3 face South, 3 face East and 3 face West. It was both lovely and amazing. It became one of the centrepieces in the Temple courtyards \u2013 besides other extraordinary artifacts there. The oxen signify servanthood. And when the clarity of its role of a servant was made clear \u2013 everything fall into place. It helps the people to return their worship right back to where it belongs. It\u2019s also a stark contrast to what Jeroboam did \u2013 he placed 2 golden calf idols: 1 in Bethel and 1 in Dan to draw the people away from the Lord. You can even say the bronze Oxen sends a strong \u201cF- You\u201d statement to the golden calves. Who can truly design THE SEA \u2013 but someone who\u2019s truly inspired, someone with strong conviction and clarity? Now \u2013 let\u2019s say if we use any of the modern AI LLMs to design it from scratch\u2026 Given the guardrails, given its sycophancy characteristics, and given that it\u2019s trained to observe a wide variety of sensitivities, will it come up with such a \u201cF- you\u201d piece, or something much watered down? Food for thought, isn\u2019t it? That\u2019s where the difference lies. Full critic and feasibility study in the comments."
     },
     {
-      "title": "Why do benchmark results go up every release, always?",
-      "author": "doomadah",
-      "url": "https://www.reddit.com/r/artificial/comments/1wuz7aj/why_do_benchmark_results_go_up_every_release/",
-      "published": 1790860652.0,
+      "title": "The most trustworthy AI answer might be the one that slows down",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1wuunei/the_most_trustworthy_ai_answer_might_be_the_one/",
+      "published": 1790845833.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A lot of releases are clearly improvements, such as the initial fable release but for some the consensus seems to be that not much improved, or even in some cases the release was worse. Examples of this are Opus 5 (initial release) benching above Fable. Or GPT Sol 6.1 over Astra or 5.6. Is this just a case of misplaced perception? Or do these providers have a way of iterating on benchmark results without necessarily actually improving the real-world performance? Keeping in mind that some benchmarks are proprietary and closed source. If someone has some insight into what the loop is, would love to hear it."
+      "description": "I\u2019ve started noticing that I trust AI more when it pauses and tells me what it cannot tell from the information I gave it. A confident answer is convenient, but a useful answer should also show where the uncertainty is. Sometimes the difference between \u201cthis is probably true\u201d and \u201cthis is definitely true\u201d matters more than the answer itself. I wonder whether future AI systems will be judged by how well they communicate uncertainty, rather than how often they sound certain. Would you prefer an AI that gives fewer answers but labels its confidence honestly?"
+    },
+    {
+      "title": "Behold the Paragons of Rank Incompetence",
+      "author": "ScubadooX",
+      "url": "https://www.reddit.com/r/artificial/comments/1wv0z1d/behold_the_paragons_of_rank_incompetence/",
+      "published": 1790865060.0,
+      "thumbnail": "https://external-preview.redd.it/Lu3ULPszpCrJsvDDNsXlR9wvXyP75tVQjViCYaPOmBc.jpeg?width=640&crop=smart&auto=webp&s=2859ff552c66da76a1d9aa0334ffe015d8d55071",
+      "external_url": "https://www.nytimes.com/2026/10/01/opinion/ai-huang-gates-superintelligence.html?unlocked_article_code=1.FVE.S6CI.ffSNxGg7ByaP&smid=url-share",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2026-10-01T14:15:50.065252+00:00"
+  "fetched_at": "2026-10-01T19:42:11.906367+00:00"
 }
