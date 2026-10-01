@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-01T14:16:14.832424+00:00'
+updated: '2026-10-01T19:42:35.118672+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 01, 2026 at 14:16 UTC  
+**Last Updated:** October 01, 2026 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,957.05
+### $84,658.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -0.3%  
-**30d:** +8.7%  
-**90d:** +32.7%  
-**1y:** -30.4%  
+**24h:** +1.2%  
+**7d:** +0.7%  
+**30d:** +9.8%  
+**90d:** +34.1%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1684.46B
+**Market Cap:** $1699.95B
 Rank #1
 
-**Circulating Supply:** 20,090,909 BTC
+**Circulating Supply:** 20,092,053 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.5%
+-32.9%
 
 **All-Time Low:** $67.81
-+123502.7%
++124676.6%
 
 ---
 
@@ -147,7 +147,7 @@ These are my top 3 YouTube channels right now: AdamLivingstonBTC SimplyBitcoin 1
 
 We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chapter is a cousin of the Bitcoin obituaries list, but instead of counting the times it was declared dead, it collects the labels. Every thing Bitcoin was confidently called, who said it, when, and what happened next. One entry per claim, each with a dated source. Here is what we have so far. Tell us what we missed. "It's dead." The obituaries list at 99bitcoins has been running since 2010 and stands at 477. The four worth actually reading (Forbes 2011, Wired 2011, Krugman 2013, Mike Hearn 2016) are here: https://www.learnbitcoin.com/glossary/bitcoin-obituaries "It's a Ponzi scheme." A Ponzi needs an operator who pays old investors with money from new ones and promises a return. Bitcoin has no operator, promises nothing, and keeps its books in public. The actual Ponzis in this industry (Bitcoin Savings and Trust, Bitconnect, PlusToken, Quadriga) all took bitcoin as the deposit, which is a different thing: https://www.learnbitcoin.com/glossary/ponzi-scheme "It's tulip mania." Jamie Dimon, September 2017: a fraud, worse than tulip bulbs. Tulips crashed once in 1637 and stayed down. Bitcoin has lost three quarters or more of its value four separate times and set a new high after each one. His bank now lets clients buy it. The 1637 episode was also a lot smaller than the legend: https://www.learnbitcoin.com/glossary/tulip-mania "It's only for buying drugs." Silk Road was seized in October 2013. The public ledger then convicted two of the federal agents on the case and, nine years later, the guy who'd stolen 50,000 BTC from the site in 2012: https://www.learnbitcoin.com/glossary/silk-road "It has no intrinsic value." Greenspan, December 2013. True, and true of the dollar since 1971 and of gold's price too. Economics dropped the concept in the 1870s: https://www.learnbitcoin.com/glossary/intrinsic-value "It's for money laundering." Chainalysis sells to law enforcement and has every reason to find crime. Their count for 2024 was about 0.14 percent of on-chain volume. The rest of the story, including where Bitcoin's privacy actually is weak, is here: https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy "It's for terrorists." Hamas's military wing announced in April 2023 that it was no longer taking bitcoin donations, because donors kept getting caught. "The blockchain is full of illegal images." The 2018 headlines. A research paper had found text and links stuffed into a few hundred transactions out of hundreds of millions. "It will boil the oceans." Newsweek, December 2017: on track to consume all of the world's energy by 2020. It is 2026. Our energy chapter has the actual numbers: https://www.learnbitcoin.com/rabbit-hole/energy "Governments will just ban it." China has banned it something like sixteen times. "Rat poison squared." Warren Buffett, May 2018. Three years later Berkshire put half a billion dollars into Nubank, a Brazilian bank that sells bitcoin to its customers. "Bitcoin is evil." Paul Krugman, New York Times, December 2013. "Quantum computers will break it." Not wrong forever, but wrong on every date given so far. We keep a live count of how many coins are actually exposed: https://www.learnbitcoin.com/rabbit-hole/quantum-and-bitcoin "You'll never buy a coffee with it." Lightning exists. https://www.learnbitcoin.com/rabbit-hole/lightning-routing What we want from you: Claims we missed. Especially the old ones. "It's only for nerds," "the government will seize it all," "the 21 million cap will get changed," "it's too slow to ever matter," whatever you were told at Thanksgiving in 2014. Who said it and when, with a link if you have one. A claim with a name and a date is worth ten without. The ones that were partly right. Exchanges really do collapse. Privacy really is worse than most people think. Mining really did concentrate for a while. Those go in too, with the part that was right stated plainly. We are not writing a victory lap. If you give us a source we'll credit you by handle in the chapter, unless you'd rather we didn't. The chapter goes up next Thursday and we'll drop the link in this thread. All 18 chapters so far: https://www.learnbitcoin.com/rabbit-holes
 
-1d ago
+2d ago
 
 ---
 
@@ -157,43 +157,51 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 **[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
 
-Reuters • 5h ago
-
----
-
-**[Bitcoin just landed a surprising new bull](https://finance.yahoo.com/markets/crypto/article/bitcoin-just-landed-a-surprising-new-bull-104334737.html)**
-
-Citi analyst Alex Saunders on Thursday raised his base case price forecast on bitcoin (BTC-USD) to $113,000 from $82,000.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume](https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume)**
-
-Citi also raised its 12-month target for ether from from $2,240 to $3,028.
-
-CoinDesk • 2h ago
+Reuters • 10h ago
 
 ---
 
 **[Bitcoin Pioneer Adam Back’s Empire Beset by Hack, Lawsuits](https://www.bloomberg.com/news/articles/2026-09-29/bitcoin-pioneer-adam-back-s-empire-beset-by-hack-lawsuits)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin could repeat a 400% rally, analyst spots familiar cycle pattern](https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-repeat-400-rally-185624964.html)**
+
+CappThesis founder Frank Cappelleri says Bitcoin’s chart structure resembles the setup that preceded its last major breakout.
+
+Yahoo Finance • 46m ago
+
+---
+
+**[XRP Surpasses Bitcoin in 90-Day Gains But Remains Far Off Its All-Time High](https://finance.yahoo.com/markets/crypto/articles/xrp-surpasses-bitcoin-90-day-190002149.html)**
+
+XRP just topped Bitcoin in 90-day gains, yet the token sits nearly 60% below its peak with a staggering gap that neither ETF inflows nor corporate buyers can realistically close on their own.
+
+Yahoo Finance • 42m ago
+
+---
+
+**[Treasury's major decision made this risk asset beat gold by 10-to-1](https://finance.yahoo.com/markets/crypto/articles/treasurys-major-decision-made-risk-193120207.html)**
+
+This risk asset gets outdone by its closest rival.
+
+Yahoo Finance • 11m ago
 
 ---
 
 **[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
 
-TribLIVE.com • 3h ago
+TribLIVE.com • 4h ago
 
 ---
 
-**[Bitcoin kicks off new quarter in the old $82,000-$85,000 price range](https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range)**
+**[Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report](https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024)**
 
-Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help.
+After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -201,15 +209,13 @@ CoinDesk • 3h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
-**[Ex-NCA officer must repay £1.8m of Bitcoin stolen from criminals](https://www.bbc.com/news/articles/cm17j4jvl004o)**
+**[Bitcoin Suddenly Rockets On $100,000 Fidelity Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/09/30/bitcoin-suddenly-rockets-on-100000-fidelity-price-game-changer/)**
 
-Paul Chowles from Bristol took cryptocurrency seized in an investigation into a dark website.
-
-BBC • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -217,13 +223,7 @@ BBC • 1d ago
 
 The nine-day streak had marked one of the most positive runs for the bitcoin funds this year, taking cumulative flows back into positive territory.
 
-The Block • 1h ago
-
----
-
-**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
-
-MarketWatch • 13h ago
+The Block • 7h ago
 
 ---
 
@@ -233,7 +233,7 @@ MarketWatch • 13h ago
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 21h ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
+⬆️ 3 • 💬 0 • 1d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -249,7 +249,7 @@ A machine learning bitcoin model published in full: every trade, the method behi
 
 Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test network.
 
-⬆️ 1 • 💬 0 • 4d ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
+⬆️ 1 • 💬 0 • 5d ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
 
 ---
 
@@ -271,93 +271,33 @@ Satnam Singh’s personal website
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin To $113K? Citi Just Raised Its Target By 38% | Matthew Sigel](https://www.youtube.com/watch?v=tvHxYE7C8jk)**
-
-Bitcoin #Crypto #finance Citi raises its Bitcoin target to $113K as institutional demand returns, even as Treasury yields hit 24-year ...
-
-📺 The Wolf Of All Streets
-
-👁️ 2K • 👍 185 • 💬 20 • ⏱️ 48:52 • 23m ago
-
----
-
-**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
-
-Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 5K • 👍 872 • 💬 122 • ⏱️ 19:06 • 3h ago
-
----
-
 **[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=OuNjnmsqg4M)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 96K • 👍 4K • 💬 245 • ⏱️ 27:09 • 11h ago
+👁️ 126K • 👍 5K • 💬 277 • ⏱️ 27:09 • 16h ago
 
 ---
 
-**[THE BITCOIN RALLY ISN&#39;T OVER... BUT THERE IS A PROBLEM...](https://www.youtube.com/watch?v=GVhqsFVt5AM)**
+**[Bitcoin Just Had a MONSTER 43% Quarter](https://www.youtube.com/watch?v=qtcgiRdgTO4)**
 
-FIRST TIME IN THE US: TRADE PERPS ON KALSHI! The only place to trade perps on a U.S.-licensed ...
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 100XClub
+📺 CryptosRUs
 
-👁️ 9K • 👍 686 • 💬 141 • ⏱️ 12:10 • 8h ago
-
----
-
-**[$1 Million Bitcoin BULL RUN - Every Major Signal Just Flipped](https://www.youtube.com/watch?v=f7jU_VdmLig)**
-
-Bitcoin just delivered its strongest Q3 in nine years, gaining roughly 43% as more than 80% of Bitcoin addresses moved into profit.
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 290 • 💬 64 • ⏱️ 16:04 • 16h ago
+👁️ 17K • 👍 669 • 💬 41 • ⏱️ 49:16 • 5h ago
 
 ---
 
-**[Seriously What The FU*K just happened to BITCOIN](https://www.youtube.com/watch?v=S_wB2KkZFOM)**
+**[Don’t Trust Bitcoin’s Uptober Yet! [WARNING]](https://www.youtube.com/watch?v=Hu01uGCbs8g)**
 
-Blofin https://ckenny.com/BlOFinMain ($3000000) ⚠️ DISCLAIMER – READ FIRST This video is not financial advice. It is for ...
+Green September for Bitcoin is officially in the books and that has only happened 5 times since 2013. When it did, Bitcoin October ...
 
-📺 Conor Kenny
+📺 Crypto Banter
 
-👁️ 12K • 👍 356 • 💬 50 • ⏱️ 10:22 • 10h ago
-
----
-
-**[Mark Moss: The Bitcoin Endgame - BTC to $1 Million by 2030](https://www.youtube.com/watch?v=e8GZZe4v2AM)**
-
-The Fed just raised rates, yet Bitcoin keeps climbing. Mark Moss, host of the Market Disruptors podcast, explains why he thinks ...
-
-📺 Bitcoin Magazine
-
-👁️ 34K • 👍 543 • 💬 27 • ⏱️ 29:02 • 20h ago
-
----
-
-**[SHOCKING Q4 BITCOIN PRICE TARGETS REVEALED...](https://www.youtube.com/watch?v=zPkQOJwTShE)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 10K • 👍 628 • 💬 20 • ⏱️ 11:15 • 5h ago
-
----
-
-**[THIS BITCOIN SIGNAL HAS NEVER FAILED...[Flashing NOW]](https://www.youtube.com/watch?v=x3bja5MWT8s)**
-
-My Private Group: (closed for now) My Trading Strategy Tutorial: Strategy tutorial : https://youtu.be/QltnRKhXi3A My Strategies ...
-
-📺 Satoshi Stacker
-
-👁️ 7K • 👍 341 • 💬 10 • ⏱️ 20:33 • 6h ago
+👁️ 20K • 👍 806 • 💬 28 • ⏱️ 35:12 • 5h ago
 
 ---
 
@@ -367,7 +307,67 @@ Bitcoin dominance is flashing a warning signal that could spell major trouble fo
 
 📺 Gareth Soloway
 
-👁️ 95K • 👍 4K • 💬 288 • ⏱️ 9:56 • 20h ago
+👁️ 104K • 👍 4K • 💬 293 • ⏱️ 9:56 • 1d ago
+
+---
+
+**[How Low Can Bitcoin Go? $76K Is the Worst Case](https://www.youtube.com/watch?v=rHMO89SM_Dk)**
+
+How low can Bitcoin go? Bitcoin just closed its best third quarter since 2017, and I think the worst case from here is $76K, right ...
+
+📺 VirtualBacon
+
+👁️ 15K • 👍 316 • 💬 53 • ⏱️ 1:57:20 • 2h ago
+
+---
+
+**[BITCOIN IS ABOUT TO MAKE A MASSIVE MOVE… TRADE THIS! 🚨 (LIVE)](https://www.youtube.com/watch?v=ilkh--V2ZOg)**
+
+BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+
+📺 Jayson Casper
+
+👁️ 1K • 👍 151 • 52m ago
+
+---
+
+**[Bitcoin &amp; Solana ETFs BOOM: Record Inflows and CRAZY Market Surge!](https://www.youtube.com/watch?v=22eG_DVVriE)**
+
+Solana ETFs are seeing absolutely massive demand. With billions flowing into the market, Wall Street's appetite for SOL exposure ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 51 • 💬 1 • ⏱️ 0:41 • 2d ago
+
+---
+
+**[Michael Saylor&#39;s MASSIVE 2027 Crypto Prediction](https://www.youtube.com/watch?v=2qZSOPaNJEU)**
+
+Big Things Are Happening in Cryptocurrency in October WEEX AI Wars ($600K prize pool): ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 907 • 💬 6 • ⏱️ 1:20 • 2d ago
+
+---
+
+**[BITCOIN BREAKOUT COMING SOON!🚨 (BTC Price Prediction)](https://www.youtube.com/watch?v=nWC4VJI3FyU)**
+
+BITCOIN PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS TO GET ...
+
+📺 Cilinix Crypto
+
+👁️ 2K • 👍 61 • 💬 4 • ⏱️ 5:07 • 10h ago
+
+---
+
+**[Agencies Back Bitcoin with Guardrails Amid Bull Run After Clarity Act Fails](https://www.youtube.com/watch?v=j6C0APcsd6w)**
+
+Joe Sticco says regulators are "picking up the ball and running" to create new guardrails on crypto following the failed Clarity Act ...
+
+📺 Schwab Network
+
+👁️ 8K • 👍 62 • 💬 4 • ⏱️ 5:59 • 1d ago
 
 ---
 
