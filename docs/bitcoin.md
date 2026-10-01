@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-01T00:42:24.679867+00:00'
+updated: '2026-10-01T06:55:35.107446+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 01, 2026 at 00:42 UTC  
+**Last Updated:** October 01, 2026 at 06:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,465.49
+### $84,189.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.7%  
-**30d:** +8.3%  
-**90d:** +32.3%  
-**1y:** -30.7%  
+**24h:** +1.0%  
+**7d:** +0.1%  
+**30d:** +9.1%  
+**90d:** +33.2%  
+**1y:** -30.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1676.50B
+**Market Cap:** $1690.33B
 Rank #1
 
 **Circulating Supply:** 20,090,909 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.8%
+-33.3%
 
 **All-Time Low:** $67.81
-+122958.5%
++123976.1%
 
 ---
 
@@ -133,13 +133,13 @@ These are my top 3 YouTube channels right now: AdamLivingstonBTC SimplyBitcoin 1
 
 **[Memes from 10 years ago is even more relevant today](https://www.reddit.com/r/Bitcoin/comments/1wt2pj1/memes_from_10_years_ago_is_even_more_relevant/)**
 
-1d ago
+2d ago
 
 ---
 
 **[40K guy be like: wait 40K october](https://www.reddit.com/r/Bitcoin/comments/1wswxfz/40k_guy_be_like_wait_40k_october/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -155,45 +155,41 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 ## Google News: "bitcoin"
 
-**[Ex-NCA officer must repay £1.8m of Bitcoin stolen from criminals](https://www.bbc.com/news/articles/cm17j4jvl004o)**
-
-Paul Chowles from Bristol took cryptocurrency seized in an investigation into a dark website.
-
-BBC • 11h ago
-
----
-
 **[Bitcoin Pioneer Adam Back’s Empire Beset by Hack, Lawsuits](https://www.bloomberg.com/news/articles/2026-09-29/bitcoin-pioneer-adam-back-s-empire-beset-by-hack-lawsuits)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin posts strongest Q3 since 2017](https://au.finance.yahoo.com/news/bitcoin-posts-strongest-q3-since-230716614.html)**
+**[Ex-NCA officer must repay £1.8m of Bitcoin stolen from criminals](https://www.bbc.com/news/articles/cm17j4jvl004o)**
 
-Bitcoin is closing the third quarter up 43%, its best Q3 since 2017, even after pulling back from eight-month highs in the final weeks of September.
+Paul Chowles from Bristol took cryptocurrency seized in an investigation into a dark website.
 
-Yahoo Finance Australia • 1h ago
-
----
-
-**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
-
-MarketWatch • 11h ago
+BBC • 18h ago
 
 ---
 
-**[Bitcoin Suddenly Rockets On $100,000 Fidelity Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/09/30/bitcoin-suddenly-rockets-on-100000-fidelity-price-game-changer/)**
+**[BTC price: Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall](https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall)**
 
-Forbes • 11h ago
+A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away.
+
+CoinDesk • 2h ago
 
 ---
 
-**[Current price of Bitcoin for Sept. 29, 2026](https://fortune.com/article/price-of-bitcoin-09-29-2026/)**
+**[Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs](https://finance.yahoo.com/markets/crypto/articles/major-cryptocurrency-most-potential-growth-110049314.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin, Ethereum, XRP, and Solana all crashed from their 2025 peaks, but one of them stands out as having a uniquely powerful combination of factors that could fuel a sharper recovery than the others.
 
-Fortune • 1d ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Delaware County bitcoin mining facility raises questions](https://www.telegraphherald.com/news/tri-state/article_ca837341-7585-5f83-b3e8-5515ffc78f36.html)**
+
+The operation was built without the county’s full knowledge, and neighbors say it’s generating noise and causing power outages that interfere with their quality of life.
+
+TelegraphHerald.com • 1d ago
 
 ---
 
@@ -203,25 +199,31 @@ WSJ • 1d ago
 
 ---
 
-**[Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump](https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump)**
+**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
 
-Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K.
-
-Seeking Alpha • 11h ago
+MarketWatch • 17h ago
 
 ---
 
-**[Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down](https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down)**
+**[Current price of Bitcoin for Sept. 30, 2026](https://fortune.com/article/price-of-bitcoin-09-30-2026/)**
 
-Bloomberg.com • 9h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 16h ago
 
 ---
 
-**[Bitcoin steadies as soft PCE cools October Fed rate hike bets](https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335)**
+**[Strategy’s Michael Saylor Says We’re In A Bitcoin ‘Gold Rush’](https://finance.yahoo.com/markets/crypto/articles/strategy-michael-saylor-says-bitcoin-135500984.html)**
 
-The crypto market remains supported by expanding institutional access, including ETFs and tokenized Treasuries, although elevated yields and persistent inflation means the backdrop remains uncertain.
+Michael Saylor, the executive chairman of serial Bitcoin (CRYPTO: $BTC) acquirer Strategy (NASDAQ: $MSTR), says tha...
 
-The Block • 8h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)](https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys)**
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -231,7 +233,7 @@ The Block • 8h ago
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 7h ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
+⬆️ 3 • 💬 0 • 13h ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -261,7 +263,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 Satnam Singh’s personal website
 
-⬆️ 2 • 💬 0 • 23h ago • [Satnam Singh](https://raintown.org/lava/sorter/)
+⬆️ 2 • 💬 0 • 1d ago • [Satnam Singh](https://raintown.org/lava/sorter/)
 
 ---
 
@@ -269,23 +271,33 @@ Satnam Singh’s personal website
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=OuNjnmsqg4M)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 24K • 👍 2K • 💬 129 • ⏱️ 27:09 • 4h ago
+
+---
+
+**[Seriously What The FU*K just happened to BITCOIN](https://www.youtube.com/watch?v=S_wB2KkZFOM)**
+
+Blofin https://ckenny.com/BlOFinMain ($3000000) ⚠️ DISCLAIMER – READ FIRST This video is not financial advice. It is for ...
+
+📺 Conor Kenny
+
+👁️ 2K • 👍 175 • 💬 22 • ⏱️ 10:22 • 3h ago
+
+---
+
 **[$1 Million Bitcoin BULL RUN - Every Major Signal Just Flipped](https://www.youtube.com/watch?v=f7jU_VdmLig)**
 
 Bitcoin just delivered its strongest Q3 in nine years, gaining roughly 43% as more than 80% of Bitcoin addresses moved into profit.
 
 📺 Bitcoin News Alerts
 
-👁️ 941 • 👍 141 • 💬 51 • ⏱️ 16:04 • 2h ago
-
----
-
-**[The AI Wealth Shift That Could Reprice Bitcoin | Jordi Visser](https://www.youtube.com/watch?v=g_CD71CIqlw)**
-
-I think everyone is underestimating the speed of AI.” Jordi Visser joins the show to discuss why he believes AI could trigger a ...
-
-📺 What Bitcoin Did
-
-👁️ 9K • 👍 385 • 💬 110 • ⏱️ 1:19:42 • 5h ago
+👁️ 4K • 👍 251 • 💬 69 • ⏱️ 16:04 • 8h ago
 
 ---
 
@@ -295,7 +307,7 @@ Bitcoin dominance is flashing a warning signal that could spell major trouble fo
 
 📺 Gareth Soloway
 
-👁️ 53K • 👍 3K • 💬 294 • ⏱️ 9:56 • 6h ago
+👁️ 79K • 👍 3K • 💬 350 • ⏱️ 9:56 • 12h ago
 
 ---
 
@@ -305,27 +317,17 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 6K • 👍 322 • ⏱️ 28:38 • 5h ago
+👁️ 10K • 👍 411 • ⏱️ 28:38 • 11h ago
 
 ---
 
-**[BITCOIN - THE SWITCH IS ABOUT TO FLIP!](https://www.youtube.com/watch?v=4796ni0v5kk)**
+**[Discover Crypto, Bitcoin &amp; Altcoin News](https://www.youtube.com/watch?v=tuZYLnV4Mkc)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
 
-📺 My Financial Friend
+📺 Discover Crypto
 
-👁️ 10K • 👍 328 • 💬 66 • ⏱️ 12:18 • 8h ago
-
----
-
-**[Bitcoin Holders: Here&#39;s Why The Bear Market Is Officially Over (My Plan)](https://www.youtube.com/watch?v=3T-bJZ6PYec)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
-
-📺 Aaron Bennett
-
-👁️ 12K • 👍 418 • 💬 88 • ⏱️ 12:56 • 14h ago
+👁️ 3K • 👍 108 • 💬 37 • ⏱️ 4:18 • 7h ago
 
 ---
 
@@ -335,37 +337,37 @@ The Fed just raised rates, yet Bitcoin keeps climbing. Mark Moss, host of the Ma
 
 📺 Bitcoin Magazine
 
-👁️ 16K • 👍 338 • 💬 21 • ⏱️ 29:02 • 7h ago
+👁️ 25K • 👍 434 • 💬 26 • ⏱️ 29:02 • 13h ago
 
 ---
 
-**[🚨 Attention Crypto Holders! MOST People Miss This!](https://www.youtube.com/watch?v=N43Uw5hVnA4)**
+**[&quot;Why Bitcoin Is Going To $1.5 Million Per Coin, 0.1 BTC Will Be Huge!&quot;: Cathie Wood (New Upate 2026)](https://www.youtube.com/watch?v=NEX_LWjJq7g)**
 
-Most People Have ZERO Idea What Comes NEXT? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Altcoin Daily
+📺 Crypto Nutshell
 
-👁️ 67K • 👍 3K • 💬 99 • ⏱️ 12:47 • 1d ago
-
----
-
-**[PCE Inflation: The Number Bitcoin Needed Just Dropped](https://www.youtube.com/watch?v=PXpfG6a7nz0)**
-
-Today's PCE inflation data is the single most important macro trigger for Bitcoin and the entire crypto market right now. Before you ...
-
-📺 Crypto Banter
-
-👁️ 40K • 👍 1K • 💬 24 • ⏱️ 37:57 • 10h ago
+👁️ 9K • 👍 174 • 💬 13 • ⏱️ 25:02 • 14h ago
 
 ---
 
-**[What Happens If Bitcoin BREAKS $80K](https://www.youtube.com/watch?v=BzV2O1vqLss)**
+**[Bitcoin (BTC): History Says One LAST MASSIVE CRASH Is Coming... Should We Listen? (WATCH ASAP)](https://www.youtube.com/watch?v=3i1q44fEzxo)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Excluding Australian Viewers) 15% off ...
 
-📺 Coin Bureau
+📺 MegaWhale Crypto
 
-👁️ 34K • 👍 660 • 💬 37 • ⏱️ 11:17 • 10h ago
+👁️ 4K • 👍 336 • 💬 66 • ⏱️ 20:56 • 5h ago
+
+---
+
+**[BITCOIN - THE SWITCH IS ABOUT TO FLIP!](https://www.youtube.com/watch?v=4796ni0v5kk)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 12K • 👍 352 • 💬 73 • ⏱️ 12:18 • 15h ago
 
 ---
 
