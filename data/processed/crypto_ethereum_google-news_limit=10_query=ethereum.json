@@ -5,14 +5,54 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVg4dDhZUU56MmdmOXVfSTM1REkwOXBpR1l4c00wNGNzWEVldnpZTTN4djBlU1pIYml4dHVfemZjaWtaRkk1NFZmQVl1RHdPNF9jVlZSSDJHODVzUGh3UEtLYlRUUTZUTTNwYU81emlCdTNGenFMWFJobXF0TXIzTkt3aVN1MWtqY2NUWlM5MUlQaDdiWDJ3cHRDZzl5d3M?oc=5",
-      "pub_date": 1790697600.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-      "description": "The wallet returns three years after its shutdown, now running on Aztec Network with private balances and transactions."
+      "headline": "Current price of Ethereum for Oct. 1, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTWxnekt3ZVRid3l0OXdlUDBKYUJEVDQzZ0I4UExtS2tCVXRvNmo2SzZhRFhVNmNCeHF1Yy14QmFEYkROLUh1SjN4WXYzb2o5ZEF2aUNlNUl6VGdBNjFuZGRzNlk4U1ZW?oc=5",
+      "pub_date": 1790862420.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-01-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-1.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWgxVWpzVEtBd1V3TEE1U0M3LTl0bm9UTzdTTWhkZ3VXRFpUQTkwNlhOaHNnbjBwbU16akx6elhXc2QzMEhXQkdTcEt2OUVzY2hONnJLNE80bTF4ZlZ0MnhtNms0RjFTQTE4YmZyYS1KYUZuOGoxb3RTWG9STU81QTlFUUdqNXd1ZlIzVU5KVFUwcWw4cjk4?oc=5",
+      "pub_date": 1790857395.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/citi-lifts-12-month-bitcoin-122315808.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7d4f75760838cfb554f08dfa7b26730cb4e8b6bc6f8066e0a65f80dbc0dc047e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F505e0b8c3e85334df83e66ac68ab2659.png",
+      "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
+    },
+    {
+      "headline": "BTC Price Target: Citi Raises Bitcoin Forecast To $113K, Ethereum Target To $3,028 As ETF Inflows Return",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWJ2ZDRyNWpQcmJIc3FnUlgya0lLZUtzNjBHekhaUHQ0WkdOQjB0N0J3SVBWdmlDV2V6X2VUVEQ2RlZidHZVSEg2VVFsYUV5N19NN1RCNFQyRWJRdGxMR05tUGFpcVhvRjlvUkctUURwNldkeFQ0SWdtWnAxWWpYZzhGZElZWDNPbVJ1dVFMcWdyejRxNVlENQ?oc=5",
+      "pub_date": 1790852560.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/btc-price-target-citi-raises-110240550.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/425fe4ad5cb2aad84e2f128dc273fcc79dba877b13e77746a1bea2469be10d14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2c997bef5deed6ac65cf482b846d499d",
+      "description": "The firm expects roughly $5 billion of crypto ETF inflows over the next 12 months, driven by gradually higher allocations from advisers and brokerages."
+    },
+    {
+      "headline": "MetaMask exits Ethereum validators after attacker diverts staking rewards",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWJna0VPYzgtRHlEU0hBSlFZMkhDS2N6SHBuenR5NE9ia2VrcUhJZ0JMejNJcHNfYzJHT05zT0VXQk10YUs5cXJiVlNENWt4TV82aUJzWkNIamU2WXZQN2pYbndnRkZab3JzUFdrdXpMV2lVS2gtdWN1bGFKZEdjcVdFNk8zS0RyWTRYczhnMVJVNzhsR19IdEZtdEwxQzdOUHlQdU9jWmZ0WmJ6RWZFcnNRSUNWd053R18ySnJrX21QajQyb0kwR2VwMA?oc=5",
+      "pub_date": 1790839843.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH."
+    },
+    {
+      "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNQR3hCWUVVc2tzREJiMDMxOWlubDRMd0V6ZE4wV0toUEFhbnJ6cjgxTm5iYlFJU09JWWJ1NTVsdUpfcGpoTk16QWFRekwweTJtM0ZWU1dTNXRqSWx1dnR2bGs1NjVleW01aTZTcTdXb1pXOVdSdlc1Z05EZXBrMzlKUVBaWWVsRTJ3OUFOR01ZU0s2ZEN5MFQ5RGdDM2hhajFCTXFvQQ?oc=5",
+      "pub_date": 1790774919.0,
+      "article_url": "https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409006442/image_1409006442.jpg?io=getty-c-w630",
+      "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
     },
     {
       "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
@@ -35,46 +75,6 @@
       "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
     },
     {
-      "headline": "Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzV6dG50TEhXNGtuemcwTVdNSGt5bHZTdEQtZ0xMY0w1SVRfcjJ2NnZhRWs5ZlFrWVVpcTdwZEN3eDB2OUVtaU1ndEVQMmxLVjJUeHZIOFJDSFZoRU8yY0NLSENQT0xNMXhWMnk1Rml2Yjh0dVVSSTl6U0Nvdl9QcHZBczZGRC1Nc0g5Z1RKaVBiV2ZXY3JLXzFQaUs4SlpxTkJ0LXVzbUxHSEk?oc=5",
-      "pub_date": 1790766049.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/major-cryptocurrency-most-potential-growth-110049314.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4fd63a18937f2c669e387311446d7bf911a136fcd333195f987ee0c67090b077/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6e1c357342fa574cb191cfe185d13d5d.jpg",
-      "description": "Bitcoin, Ethereum, XRP, and Solana all crashed from their 2025 peaks, but one of them stands out as having a uniquely powerful combination of factors that could fuel a sharper recovery than the others."
-    },
-    {
-      "headline": "Current price of Ethereum for Sept. 30, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RLVk1dkxXYnlHZ3dzbUtKVFczWm5GbVVlTWRyaEd3QVlyUFdLQ3pUNE5JeF96VkpLR1dzRHRuSHJ1Mkkydl9lUGRtdm91dEUweHlBVXUwSTIyZjU4Znd4VmtpalVVeWtK?oc=5",
-      "pub_date": 1790782440.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-30-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-30.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNQR3hCWUVVc2tzREJiMDMxOWlubDRMd0V6ZE4wV0toUEFhbnJ6cjgxTm5iYlFJU09JWWJ1NTVsdUpfcGpoTk16QWFRekwweTJtM0ZWU1dTNXRqSWx1dnR2bGs1NjVleW01aTZTcTdXb1pXOVdSdlc1Z05EZXBrMzlKUVBaWWVsRTJ3OUFOR01ZU0s2ZEN5MFQ5RGdDM2hhajFCTXFvQQ?oc=5",
-      "pub_date": 1790774919.0,
-      "article_url": "https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409006442/image_1409006442.jpg?io=getty-c-w630",
-      "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
-    },
-    {
-      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
-      "pub_date": 1790830732.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
-      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
-    },
-    {
       "headline": "Glamsterdam Testnet Announcement",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -85,26 +85,26 @@
       "description": "Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and..."
     },
     {
-      "headline": "Bitcoin Dips, While Ethereum, XRP, Dogecoin Gain: Bull Market 'Intact,' but Rally 'Showing Cracks,' Says Analyst",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnpic3JnZnJ4QVp3Q2w4SUR4dXF5SEMtTVVWZGM4V0xUTHVMSjdxNExDdzJHM1dJN2R5LTN6QXg4Unl2aEJHWGxEVGM4RTNNa1RrNFA5dzBXTWRxVEdGbTFlc3Q2b2xFck5IdEtuV2pVN08wX0t1T3pxeHRiUm1ua1dLU2U4Q3kzZmpvMm8xaHJHVW9MbGt0QnVzNDI2UGNfeHFiWllmV3dCMGU4dUJzMEdaTzVUcmc3NF9aNWRLWWJ3VmtncUZVLTc3dlItNllpYVlIQXk3RkpaMjlmOXFwUE9oZGhSem1TcjJRVkRVb044X1U?oc=5",
-      "pub_date": 1790734560.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:931a8d2c5094b:0-bitcoin-dips-while-ethereum-xrp-dogecoin-gain-bull-market-intact-but-rally-showing-cracks-says-analyst/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies stayed resilient on Tuesday while rising government bond yields weighed on stock markets.Crypto Market Holds SteadyBitcoin held on to support in the mid-$82,000 region, while bulls attempted a break above $85,000. Ethereum oscillated between $2,650 and $2,740, while XRP and\u2026"
+      "headline": "Ethereum Price Forecast: Leverage capital cools to lowest level since March amid consolidation",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMk5naWt3U2RKRUFKdE1KZV9VWmwwSGxic2FwRHNBT0d4WGVDcTRqS2d0LVh0TzI4amtmT2VadHZINm90bVh6YVNGdXBPMVcxNzViQTZQaTdQTkxyQ2lHektuNlpLMHFneU15SkYxclFTZjIzb25wX1JPanFEeXBERjRCNjJWLWFydFVjNUdtQU1acFF5QjNKLVVuWXRLcnZTcDRVRDdmaHU1ZVMzMmRRRmJ0NG9wMm96M05DUnNraXQ4c3Q3U3BLUlhVWUw4cHhCZ2VyeG5OSGlTQTY2cmk5bVNTbGFFUm1H?oc=5",
+      "pub_date": 1790811702.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-leverage-capital-cools-to-lowest-level-since-march-amid-consolidation-202609302341",
+      "image": "https://editorial.fxsstatic.com/images/i/ETH-neutral-line_Medium.png",
+      "description": "Ethereum (ETH) remains range-bound on Wednesday, with leverage capital continuing to dwindle despite lower-than-expected inflation data."
     },
     {
-      "headline": "Bitmine Continues to Load Up on Ethereum, Now Owns 4.9% of all ETH in Circulation. Is BMNR Stock a Buy?",
-      "source": "Currently.com",
-      "source_url": "https://currently.att.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVURFWW1BeEdFaURvQWhId1Ytb0hobmE4YWJGbkZ5NXBhRFd5U1BCeFNEOGZtY0xIbmlUZ2lFbmFGRjRGQlhxc3laRWxZQUM3dHBDdVVUeWpBdE9IYmZHalNfM3Vxd0dsZ3ZoUzZzVWtYN0wweTBsbWNkXzRBekNEYVlybl9BVE1TWkJjQTlKOA?oc=5",
-      "pub_date": 1790702401.0,
-      "article_url": "https://currently.att.yahoo.com/att/bitmine-continues-load-ethereum-now-172001755.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/119905be300e81cf774a8a635c8b04df7dce5af5fb0feeee328d0ff824200174/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6fe08409ab84b6e60d96b1e8d5adbc16.jpg",
-      "description": "Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world."
+      "headline": "Authors Pull Ethereum Staking Reward Burn From Hegot\u00e1",
+      "source": "thedefiant.io",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGdzZUZEVGJCRVg0RXphMG5mTDJpcWxJQ182Ukt0enl4RDdPWWlmQmhKRFlRVmV4ekI0ZDVPUW5MbEhoZ0F5U1hyczhXbU5MejdiWXB6eTY3ak9rbVBFdDkxX0VaMGFMWUhMMUJ2VU1kdnlPZk9YRlNSM1dCOTZpcTR3MVZUZ2t0Z3NvR3JwQ2hsa0tPS1E?oc=5",
+      "pub_date": 1790830197.0,
+      "article_url": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
+      "image": "https://cdn.sanity.io/images/6oftkxoa/production/1ce94767eeac1a8dfcbd652507bc3e7b3548d1a9-2048x1152.png",
+      "description": "EIP-8363's authors withdrew the staking reward burn from Hegot\u00e1 consideration and pledged a separate process for Ethereum issuance policy."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T06:55:22.307032+00:00"
+  "fetched_at": "2026-10-01T14:16:13.556581+00:00"
 }
