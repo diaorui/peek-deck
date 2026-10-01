@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
-      "source": "The Block",
+      "source": "theblock.co",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVg4dDhZUU56MmdmOXVfSTM1REkwOXBpR1l4c00wNGNzWEVldnpZTTN4djBlU1pIYml4dHVfemZjaWtaRkk1NFZmQVl1RHdPNF9jVlZSSDJHODVzUGh3UEtLYlRUUTZUTTNwYU81emlCdTNGenFMWFJobXF0TXIzTkt3aVN1MWtqY2NUWlM5MUlQaDdiWDJ3cHRDZzl5d3M?oc=5",
       "pub_date": 1790697600.0,
@@ -23,6 +23,16 @@
       "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/",
       "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1406692748-huge-licensed-scaled.jpg",
       "description": "Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?"
+    },
+    {
+      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
+      "pub_date": 1790831400.0,
+      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
+      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
     },
     {
       "headline": "Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs",
@@ -55,24 +65,14 @@
       "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
     },
     {
-      "headline": "Ethereum users get another way to pay privately as zk.money returns after three years",
+      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEMxZ3hXdTdMMDFSM21QbUdiZ2VCVS1MWXJEYkk4Q3lxa2dsdko5OGtQb0ZGVGhGakpEd3J2VHd2V2R6RHB3b09FOWEtUktMTWNhUTh6SXR5Q080U2lDR1R6azNrMTE1WHFSYTNTUWJWSHhGMWFSR29CY0htUldNaktzblBqdW5TdU5hQ2Q2NXFuLUMweDNmM0RjNE9GOWRVNTRGd0s0alNSVDM2TkpvT05HN29wb015aHFTRXFLRDA4Y0JBdE1XX0hFM3VFZ2k0ZDc3bGVWcw?oc=5",
-      "pub_date": 1790697600.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible."
-    },
-    {
-      "headline": "Bitcoin Dips, While Ethereum, XRP, Dogecoin Gain: Bull Market 'Intact,' but Rally 'Showing Cracks,' Says Analyst",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnpic3JnZnJ4QVp3Q2w4SUR4dXF5SEMtTVVWZGM4V0xUTHVMSjdxNExDdzJHM1dJN2R5LTN6QXg4Unl2aEJHWGxEVGM4RTNNa1RrNFA5dzBXTWRxVEdGbTFlc3Q2b2xFck5IdEtuV2pVN08wX0t1T3pxeHRiUm1ua1dLU2U4Q3kzZmpvMm8xaHJHVW9MbGt0QnVzNDI2UGNfeHFiWllmV3dCMGU4dUJzMEdaTzVUcmc3NF9aNWRLWWJ3VmtncUZVLTc3dlItNllpYVlIQXk3RkpaMjlmOXFwUE9oZGhSem1TcjJRVkRVb044X1U?oc=5",
-      "pub_date": 1790734560.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:931a8d2c5094b:0-bitcoin-dips-while-ethereum-xrp-dogecoin-gain-bull-market-intact-but-rally-showing-cracks-says-analyst/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies stayed resilient on Tuesday while rising government bond yields weighed on stock markets.Crypto Market Holds SteadyBitcoin held on to support in the mid-$82,000 region, while bulls attempted a break above $85,000. Ethereum oscillated between $2,650 and $2,740, while XRP and\u2026"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
+      "pub_date": 1790830732.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
+      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
     },
     {
       "headline": "Glamsterdam Testnet Announcement",
@@ -85,6 +85,16 @@
       "description": "Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and..."
     },
     {
+      "headline": "Bitcoin Dips, While Ethereum, XRP, Dogecoin Gain: Bull Market 'Intact,' but Rally 'Showing Cracks,' Says Analyst",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnpic3JnZnJ4QVp3Q2w4SUR4dXF5SEMtTVVWZGM4V0xUTHVMSjdxNExDdzJHM1dJN2R5LTN6QXg4Unl2aEJHWGxEVGM4RTNNa1RrNFA5dzBXTWRxVEdGbTFlc3Q2b2xFck5IdEtuV2pVN08wX0t1T3pxeHRiUm1ua1dLU2U4Q3kzZmpvMm8xaHJHVW9MbGt0QnVzNDI2UGNfeHFiWllmV3dCMGU4dUJzMEdaTzVUcmc3NF9aNWRLWWJ3VmtncUZVLTc3dlItNllpYVlIQXk3RkpaMjlmOXFwUE9oZGhSem1TcjJRVkRVb044X1U?oc=5",
+      "pub_date": 1790734560.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:931a8d2c5094b:0-bitcoin-dips-while-ethereum-xrp-dogecoin-gain-bull-market-intact-but-rally-showing-cracks-says-analyst/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies stayed resilient on Tuesday while rising government bond yields weighed on stock markets.Crypto Market Holds SteadyBitcoin held on to support in the mid-$82,000 region, while bulls attempted a break above $85,000. Ethereum oscillated between $2,650 and $2,740, while XRP and\u2026"
+    },
+    {
       "headline": "Bitmine Continues to Load Up on Ethereum, Now Owns 4.9% of all ETH in Circulation. Is BMNR Stock a Buy?",
       "source": "Currently.com",
       "source_url": "https://currently.att.yahoo.com",
@@ -93,18 +103,8 @@
       "article_url": "https://currently.att.yahoo.com/att/bitmine-continues-load-ethereum-now-172001755.html",
       "image": "https://s.yimg.com/lo/mysterio/api/119905be300e81cf774a8a635c8b04df7dce5af5fb0feeee328d0ff824200174/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6fe08409ab84b6e60d96b1e8d5adbc16.jpg",
       "description": "Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world."
-    },
-    {
-      "headline": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNldyMGdxRERrYUhPdVNKYzhGY3gzQkR4Nml5YmRmM1pDNF9heDhCRDFjQm9aN0pGa0l4RWJZakFUZWx1dEpHU1BFbXd3NXZ5bmNld3FMZV9lcUFOaVBQdmRFX2w1MlJleTVHNkFEWW1VMmRldFlxY0Nqa0lvUXY2ZTZFY1ZrNk10U0ctQUFVM3A5T0NEbE1TT2hLdjZJdmRoYzRocQ?oc=5",
-      "pub_date": 1790602060.0,
-      "article_url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-      "description": "Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T00:42:12.363019+00:00"
+  "fetched_at": "2026-10-01T06:55:22.307032+00:00"
 }

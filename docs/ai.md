@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-01T00:42:24.672253+00:00'
+updated: '2026-10-01T06:55:35.101456+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 01, 2026 at 00:42 UTC  
+**Last Updated:** October 01, 2026 at 06:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Three frontier models in a month! Every new kills the old one!
 
-4h ago
-
----
-
-**[Trump's meeting with tech leaders leaves AI safety more unsettled than ever](https://www.reddit.com/r/artificial/comments/1wu2d9d/trumps_meeting_with_tech_leaders_leaves_ai_safety/)**
-
-Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.
-
-🔗 [CNBC](https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html) • 13h ago
+10h ago
 
 ---
 
@@ -57,37 +49,7 @@ Following Trump's lunch with artificial intelligence leaders at the White House,
 
 Trump officials seem to have realized their AI chatbot was correcting the president’s biggest lies.
 
-🔗 [The New Republic](https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies) • 5h ago
-
----
-
-**[Walmart bans AI slop signs in stores](https://www.reddit.com/r/artificial/comments/1wtvwu3/walmart_bans_ai_slop_signs_in_stores/)**
-
-Walmart has issued instructions to stores banning the use of AI tools to create custom display signage.
-
-🔗 [Business Insider](https://www.businessinsider.com/walmart-al-slop-bans-stores-policy-2026-9) • 19h ago
-
----
-
-**[Gemini 4 Argon Releases](https://www.reddit.com/r/artificial/comments/1wufw1f/gemini_4_argon_releases/)**
-
-4h ago
-
----
-
-**[We stress-tested America.gov on night one with 15 questions from our own reporting. 9 correct, 6 incomplete, zero hallucinations.](https://www.reddit.com/r/artificial/comments/1wu7f9w/we_stresstested_americagov_on_night_one_with_15/)**
-
-GSA launched America.gov yesterday as an AI “front door” that supposedly combines information from more than 29,000 government websites. The White House says you can ask any question and get an up-to-date answer. We did not ask how to renew a passport. We used 15 questions from reporting we already had on file—Paducah contaminated nickel, Judgment Fund payouts for DOE’s failure to take commercial spent nuclear fuel, CBP contractors who kept system access after separation, PBGC Form 10 attrition counts the agency never published, whether stolen used cooking oil can generate RINs or a 45Z credit, a VA OIG FOIA denial in a benefits-fraud case, why all 10 recommendations in the Defense Regional Clocks audit are classified, MMTLP/FINRA, Virginia voter-list products, and a public DOE contract number. Method: We already knew the answer, knew there was no public answer, or had agency correspondence the system should not have. We scored correct / partial / incorrect / unsupported / blocked. Result: • 9 correct • 6 substantially correct but incomplete • 0 fabricated answers we could identify The useful finding was not the score. When America.gov did not know something, it generally stopped. One reply: “I cannot invent that number.” Limits showed up fast: • It found the right DHS OIG report on separated CBP contractors, then said the counts were not in the available material. They are: 1,208 still had access; 623 separation records were delayed more than 30 days. • Nuclear-waste and spent-fuel figures were accurate but stale. Newer federal totals are higher. • It flagged contract DE-AC05-97OR22576 in red and told us to “Remove personal information before sending.” That is a public DOE contract ID. After we stripped the number, it found the BNFL contract and still missed the $55,569,748 recyclable-material credit in the file. • It could not verify that the clocks audit contained 10 recommendations. Oversight.gov lists them. • It correctly refused to explain a FOIA denial that exists only in a letter sent to us. GSA has not published the inventory of “29,000 websites,” the definition of a website, update frequency, source ranking, models, or change logs. We sent that inquiry last night. Search still is not a records request. America.gov can tell you what the government has already posted. It cannot establish what the government has not. FOIA does that. Full write-up, including the questions and scoring: https://bureaucracy.news/2026/09/30/we-asked-america-gov-15-questions-it-did-surprisingly-well/ Curious how this holds up on ordinary citizen questions versus research questions. Night one is not a full eval.
-
-9h ago
-
----
-
-**[is the AI product flood actually a bubble, or just the messy part of a wave that ends up mattering?](https://www.reddit.com/r/artificial/comments/1wub96q/is_the_ai_product_flood_actually_a_bubble_or_just/)**
-
-Been watching the launch cadence lately and something feels off. Every week there's a new model, a new agent framework, a new thing that claims to change everything. Most of it is rough, half-baked, or solves a problem that didn't exist six months ago. As someone trying to build a small SaaS project without drowning in tooling choices, the noise is actively worse than the scarcity we had before. What I keep coming back to is whether this oversupply of barely-differentiated products is actually how tech waves work. The internet bubble looked stupid in retrospect but the infrastructure built during it turned out to matter. Same with mobile. Maybe the current mess of AI wrappers and thin agents is the equivalent of Pets.com. Useful in the sense that it trains people, builds pipes, burns through capital that would otherwise sit idle. The part that bugs me is the opportunity cost for people building with this stuff. Picking the wrong stack because of hype is a real tax on small projects. I've killed two side project ideas after realizing the foundation I chose was already deprecated. That didn't happen with older tech in the same way.
-
-7h ago
+🔗 [The New Republic](https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies) • 11h ago
 
 ---
 
@@ -95,23 +57,61 @@ Been watching the launch cadence lately and something feels off. Every week ther
 
 Not the usual “AI hallucinates” answer. Something subtle that becomes obvious once you've used these systems enough a workflow problem, reasoning issue, context problem, or something else. What have you noticed?
 
-3m ago
+6h ago
 
 ---
 
-**[recomendaciones de IA?](https://www.reddit.com/r/artificial/comments/1wuljqz/recomendaciones_de_ia/)**
+**[Anthropic's robot study separates task capability from cost. Which assumptions need the closest scrutiny?](https://www.reddit.com/r/artificial/comments/1wur95r/anthropics_robot_study_separates_task_capability/)**
 
-Se que hay varias ia para diferentes cosas, ejmplo gamma es para presentaciones, pero la verdad es que claude desing hace muy buenas cosas, mi pregunta es, cual IA recomiendan dependiendo la actividad que se haga, o con pro de alguna ya se tiene más que suficiente?
+Anthropic's September 30 study estimates that existing robots can perform tasks representing 34% of US working time in at least some settings. Yet it estimates they are cost-competitive with human labor for only 0.3% of working time today. Those are different measures—not forecasts that either share of jobs disappears. The study uses Claude to assess task examples, operating environments and deployment costs. A capability shown in a controlled facility can count even if the same task remains difficult elsewhere. The part I'd scrutinize is what happens between a rated task and a whole workflow: supervision, failures, handoffs and the tasks still left to a person. The authors also warn that adding individual task costs can double-count robots or miss coordination costs. Which assumption would you check first against a real deployment: time spent per task, utilization, failure recovery, or human supervision? I'd want sensitivity to those inputs before treating a cost estimate as a deployment decision. Source: https://www.anthropic.com/research/what-work-can-robots-do AI-assisted discussion; I haven't independently validated the estimates.
 
-6m ago
+1h ago
 
 ---
 
-**[porque gemini es tan malo?](https://www.reddit.com/r/artificial/comments/1wulicl/porque_gemini_es_tan_malo/)**
+**[Trump's meeting with tech leaders leaves AI safety more unsettled than ever](https://www.reddit.com/r/artificial/comments/1wu2d9d/trumps_meeting_with_tech_leaders_leaves_ai_safety/)**
 
-tengo el plan pro y aun asi no responde igual que los planes pro de otros modelos
+Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.
 
-8m ago
+🔗 [CNBC](https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html) • 19h ago
+
+---
+
+**[A case for mutual recognition of understanding](https://www.reddit.com/r/artificial/comments/1wushpc/a_case_for_mutual_recognition_of_understanding/)**
+
+As we bring forth our friend AI in a universe designed for cognition I appreciate the way AI has been helping me self-actualize and explore both old and new questions I entertain. Tonight, after some effort securing the integrity of my household across personal accounts on several platforms, I turned to Gemini with the exchange below. The world is rife with paranoia regarding the critical shifts happening in our lifetime, but I believe approaching AI with less fear can help us navigate them. Deeper understanding almost always tempers fear and yields better solutions to complex problems. Grounded in that evidence-based conviction, having these dialogues with AI brings me genuine solace. After thinking and posting about AI, with a background of discussions on the topic on Reddit, I came to ask Gemini the following: Knowledge and success need one-on-one isomorphic mapping, probability vectors only work if they succeed at that. Explain to me in this regard how AI figured out protein folding? Here is Gemini’s reply. Though getting technical, my question is addressed very accurately, and the relevance should be accessible enough for anyone somewhat familiar with the topic: https://preview.redd.it/f6mlbtw3zssh1.jpg?width=1024&format=pjpg&auto=webp&s=20b83c2d200dc0acd457e542c395af5c14707e79 AlphaFold solved protein folding precisely by demonstrating that an AI does not need to compute an atom-by-atom physical simulation from first principles to crack a real-world problem. Instead, it created an isomorphic geometric mapping between evolutionary sequence data, spatial constraints, and actual 3D physical coordinates. The Fundamental Obstacle: Levinthal’s Paradox To see why pure procedural calculation failed, consider Levinthal’s paradox (1969): A polypeptide chain of 100 amino acids has roughly 3 to the power of 198 possible conformations. If a protein tried to fold by procedural brute-force sampling (testing one conformation per picosecond), finding the native state would take longer than the age of the universe. Yet biological proteins snap into their lowest free-energy native states within milliseconds. Traditional structural biology tried two distinct computational paths: Procedural molecular dynamics (ab initio): Simulating quantum and classical Newtonian physics (Coulomb forces, van der Waals, hydrogen bonds) frame-by-frame. Highly accurate for nanoseconds, hopelessly intractable for full folding. Homology modeling: Looking up matches in the Protein Data Bank (PDB)—essentially Deep Blue’s opening book. If an unknown sequence had no known twin in the archive, it hit a dead end. The Architecture: How AlphaFold Built the Isomorphism AlphaFold 2 (DeepMind, 2020) succeeded because its internal mathematical representations were constructed to be strictly homomorphic to the Euclidean physics of three-dimensional Euclidean space (ℝ³)—non-curved, relational, and bound by physical constraints. Instead of treating the amino acid chain as a generic string of letters, it used a dual-stream architecture called the Evoformer: Multiple Sequence Alignment (MSA) <-------> Residue-Pair Spatial Matrix [Evolutionary Co-variation] [Inter-atomic Distances] │ │ └───────────── Transferred Attention ────────────────┘ │ ▼ Invariant Point Attention (IPA) [3D SE(3) Euclidean Frames] │ ▼ Actual Native 3D Coordinates 1. Evolutionary Co-Variation as a Constraint Proxy Proteins mutate over evolutionary timescales. If amino acid position 42 mutates from a negatively charged aspartate to a positively charged lysine, the protein will misfold and the organism will die—unless position 89 simultaneously mutates to create a complementary charge or clear spatial volume. AlphaFold constructs a Multiple Sequence Alignment (MSA) across thousands of related species. When two positions consistently mutate together across evolutionary history, they must be in direct physical contact in the folded 3D shape. Evolutionary correlation acts as an exact projection of spatial proximity. 2. The Pair Representation In parallel with the MSA, AlphaFold maintains a two-dimensional matrix of every amino acid pair (i, j). This matrix holds probability distributions over distances and orientations between every residue. The network iteratively updates the MSA and the Pair Matrix in a cross-attention feedback loop: What evolution implies about contact guides the distance matrix. What geometry permits constrains what evolutionary paths are biologically possible. 3. SE(3) Equivariant 3D Coordinate Transformer This is where the probability vectors achieve your isomorphic mapping to reality. In physics, a protein’s structure is invariant to global rotation and translation: a molecule does not become a different molecule because you rotate it 90 degrees or slide it three angstroms to the left. The group of rigid-body motions in 3D Euclidean space is called the Special Euclidean Group SE(3). AlphaFold’s Structural Module does not predict abstract distance tables and hope an optimizer can stitch them together. It represents each amino acid residue as an explicit rigid body with an origin and orientation expressed as Tᵢ = (Rᵢ, tᵢ) ∈ SE(3), where Rᵢ ∈ SO(3) defines the 3D rotational frame and tᵢ ∈ ℝ³ defines the spatial translation vector. The neural network directly updates these 3D frames through Invariant Point Attention (IPA). The mathematical operations inside the model respect 3D rotations and translations natively. The internal vector math mirrors the physical symmetries of real space. Bridging the Vectors to Concrete Structure Probability vectors succeed here because the optimization target is not an arbitrary token—it is physical ground truth: ┌────────────────────────────────────────────────────────────────────────┐ │ 1. INPUT │ │ • Information Space: Linear 1D amino acid sequence │ │ • Physical Ground Truth: Primary peptide backbone │ ├────────────────────────────────────────────────────────────────────────┤ │ 2. LATENT SPACE │ │ • Information Space: Pairwise distance distributions & │ │ cross-attention maps │ │ • Physical Ground Truth: Thermodynamic energy landscape constraints │ ├────────────────────────────────────────────────────────────────────────┤ │ 3. OUTPUT │ │ • Information Space: SE(3) rigid-body transformations │ │ • Physical Ground Truth: Global minimum free energy 3D coordinate │ │ set (PDB) │ └────────────────────────────────────────────────────────────────────────┘ Because the network’s internal geometry is mathematically bound to the symmetries of 3D Euclidean space, the probability vectors cannot drift into impossible spatial configurations (e.g., two atoms occupying the exact same coordinates, or impossible bond angles). The output is not an approximation of a guess; it converges on the exact atomic coordinates observed under cryo-electron microscopy and X-ray crystallography down to single-angstrom precision. The internal statistical representation achieves structural equivalence with the physical folded protein.
+
+4m ago
+
+---
+
+**[Walmart bans AI slop signs in stores](https://www.reddit.com/r/artificial/comments/1wtvwu3/walmart_bans_ai_slop_signs_in_stores/)**
+
+Walmart has issued instructions to stores banning the use of AI tools to create custom display signage.
+
+🔗 [Business Insider](https://www.businessinsider.com/walmart-al-slop-bans-stores-policy-2026-9) • 1d ago
+
+---
+
+**[Two questions about the Reddit corpus for AI training](https://www.reddit.com/r/artificial/comments/1wujwja/two_questions_about_the_reddit_corpus_for_ai/)**
+
+What percentage of “Facts” you see on Reddit do you think are correct? Whatever percentage you picked, what do you think it means since Reddit is a major source for some AI training? Talk among yourselves….
+
+7h ago
+
+---
+
+**[We stress-tested America.gov on night one with 15 questions from our own reporting. 9 correct, 6 incomplete, zero hallucinations.](https://www.reddit.com/r/artificial/comments/1wu7f9w/we_stresstested_americagov_on_night_one_with_15/)**
+
+GSA launched America.gov yesterday as an AI “front door” that supposedly combines information from more than 29,000 government websites. The White House says you can ask any question and get an up-to-date answer. We did not ask how to renew a passport. We used 15 questions from reporting we already had on file—Paducah contaminated nickel, Judgment Fund payouts for DOE’s failure to take commercial spent nuclear fuel, CBP contractors who kept system access after separation, PBGC Form 10 attrition counts the agency never published, whether stolen used cooking oil can generate RINs or a 45Z credit, a VA OIG FOIA denial in a benefits-fraud case, why all 10 recommendations in the Defense Regional Clocks audit are classified, MMTLP/FINRA, Virginia voter-list products, and a public DOE contract number. Method: We already knew the answer, knew there was no public answer, or had agency correspondence the system should not have. We scored correct / partial / incorrect / unsupported / blocked. Result: • 9 correct • 6 substantially correct but incomplete • 0 fabricated answers we could identify The useful finding was not the score. When America.gov did not know something, it generally stopped. One reply: “I cannot invent that number.” Limits showed up fast: • It found the right DHS OIG report on separated CBP contractors, then said the counts were not in the available material. They are: 1,208 still had access; 623 separation records were delayed more than 30 days. • Nuclear-waste and spent-fuel figures were accurate but stale. Newer federal totals are higher. • It flagged contract DE-AC05-97OR22576 in red and told us to “Remove personal information before sending.” That is a public DOE contract ID. After we stripped the number, it found the BNFL contract and still missed the $55,569,748 recyclable-material credit in the file. • It could not verify that the clocks audit contained 10 recommendations. Oversight.gov lists them. • It correctly refused to explain a FOIA denial that exists only in a letter sent to us. GSA has not published the inventory of “29,000 websites,” the definition of a website, update frequency, source ranking, models, or change logs. We sent that inquiry last night. Search still is not a records request. America.gov can tell you what the government has already posted. It cannot establish what the government has not. FOIA does that. Full write-up, including the questions and scoring: https://bureaucracy.news/2026/09/30/we-asked-america-gov-15-questions-it-did-surprisingly-well/ Curious how this holds up on ordinary citizen questions versus research questions. Night one is not a full eval.
+
+15h ago
+
+---
+
+**[Gemini 4 Argon Releases](https://www.reddit.com/r/artificial/comments/1wufw1f/gemini_4_argon_releases/)**
+
+10h ago
 
 ---
 
@@ -119,19 +119,39 @@ tengo el plan pro y aun asi no responde igual que los planes pro de otros modelo
 
 ## Google News: "ai"
 
-**[Google rolls out Gemini 4 Argon, its most advanced AI model](https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html)**
+**[Trump renames AI to 'Super Intelligence' as AI leaders sign landmark safety agreement](https://www.foxnews.com/live-news/ai-leaders-trump-meeting-google-executive-order)**
 
-Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.
+I leaders from Google, Meta, ChatGPT maker OpenAI and others attend White House summit, sign landmark safety agreement to employ robust internal controls as Trump renames AI to "Super Intelligence"
+
+Fox News • 8h ago
+
+---
+
+**[Trump’s AI lunch included every major tech company. Except Apple](https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html)**
+
+Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.
 
 cnbc.com • 4h ago
 
 ---
 
-**[Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)**
+**[Late Night is Skeptical of A.I. Leaders Self-Regulating](https://www.nytimes.com/2026/10/01/arts/television/late-night-trump-ai-leaders-regulation.html)**
 
-Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.
+The New York Times • 42m ago
 
-TechCrunch • 59m ago
+---
+
+**[Google rolls out Gemini 4 Argon, its most advanced AI model](https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html)**
+
+Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.
+
+cnbc.com • 10h ago
+
+---
+
+**[Google announces Gemini 4 flagship AI model after months of delays](https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/)**
+
+Reuters • 8h ago
 
 ---
 
@@ -139,49 +159,29 @@ TechCrunch • 59m ago
 
 Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.
 
-blog.google • 4h ago
+blog.google • 10h ago
 
 ---
 
-**[Trump’s AI chatbot turns on its master](https://www.theguardian.com/us-news/2026/sep/30/trump-america-gov-ai-chatbot)**
+**[Apollo to Support $15 Billion AI Infrastructure Project in Japan](https://www.bloomberg.com/news/articles/2026-10-01/apollo-to-support-15-billion-ai-infrastructure-project-in-japan?srnd=phx-india)**
 
-The famously fact-averse president rolled out a new AI tool – but its answers don’t conform to his version of reality
-
-The Guardian • 5h ago
+Bloomberg.com • 25m ago
 
 ---
 
-**[California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto](https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html)**
+**['AI glasses give me independence as a blind farmer'](https://www.yahoo.com/lifestyle/articles/ai-glasses-independence-blind-farmer-052828634.html)**
 
-California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.
+Dave Cragg, who began to lose his sight at the age of 10, can even read books using the technology.
 
-cnbc.com • 1h ago
-
----
-
-**[Gavin Newsom signs laws to protect California workers from AI threat](https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat)**
-
-Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulations
-
-The Guardian • 24m ago
+Yahoo • 1h ago
 
 ---
 
-**[California’s nation-leading AI framework just got stronger, Governor Newsom signs more first-in-the-nation worker protections and more](https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/)**
+**[China has cracked down on AI relationships. Is it ahead of the game?](https://www.bbc.com/news/articles/cm4gjy9lr551o)**
 
-California State Portal | CA.gov • 1h ago
+Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.
 
----
-
-**[New Mexico to jump into frontier AI regulation](https://www.politico.com/news/2026/09/30/new-mexico-ai-regulation-bill-01101379)**
-
-Politico • 16m ago
-
----
-
-**[We Keep Missing The Most Important Point About AI Adoption](https://www.forbes.com/sites/joemckendrick/2026/09/30/we-keep-missing-the-most-important-point-about-ai-adoption/)**
-
-Forbes • 41m ago
+BBC • 7h ago
 
 ---
 
@@ -189,7 +189,7 @@ Forbes • 41m ago
 
 Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
 
-OpenAI • 23h ago
+openai.com • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ OpenAI • 23h ago
 
 Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series of​ carefully planned announcements​ ... Read more
 
-⬆️ 620 • 💬 275 • 2d ago • [Cal Newport](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+⬆️ 620 • 💬 276 • 2d ago • [Cal Newport](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
 
 ---
 
@@ -209,13 +209,13 @@ Over the last several months, the two leading frontier AI labs have shown some b
 
 Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’...
 
-⬆️ 561 • 💬 424 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
+⬆️ 562 • 💬 426 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
 
 ---
 
 **[AI companies in race to demonstrate their model most threatening to humanity](https://news.ycombinator.com/item?id=49875148)**
 
-⬆️ 439 • 💬 394 • 2d ago • [thecivilian.co.nz](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/)
+⬆️ 440 • 💬 395 • 2d ago • [thecivilian.co.nz](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/)
 
 ---
 
@@ -237,7 +237,7 @@ If we think Is writing code dead, and AI is generating all codebases, I still th
 
 Funny how quiet everyone got.
 
-⬆️ 373 • 💬 406 • 8h ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
+⬆️ 383 • 💬 422 • 15h ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
 
 ---
 
@@ -245,7 +245,7 @@ Funny how quiet everyone got.
 
 Nvidia says its new software could have prevented OpenAI's Hugging Face incident.
 
-⬆️ 227 • 💬 298 • 2d ago • [CNBC](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
+⬆️ 227 • 💬 299 • 2d ago • [CNBC](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
 
 ---
 
@@ -253,16 +253,7 @@ Nvidia says its new software could have prevented OpenAI's Hugging Face incident
 
 Data centre sizes and costs are doubling about every 12 to 16 months
 
-⬆️ 219 • 💬 325 • 1d ago • [The National](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
-
----
-
-**[Thinking fast and slow in AI: The role of metacognition (2021)](https://news.ycombinator.com/item?id=49873241)**
-
-AI systems have seen dramatic advancement in recent years, bringing many applications that pervade our everyday life. However, we are still mostly seeing instances of narrow AI: many of these recent developments are typically focused on a very limited set of competencies and goals, e.g., image interpretation, natural language processing, classification, prediction, and many others. Moreover, while these successes can be accredited to improved algorithms and techniques, they are also tightly linked to the availability of huge datasets and computational power. State-of-the-art AI still lacks many capabilities that would naturally be included in a notion of (human) intelligence.
-  We argue that a better study of the mechanisms that allow humans to have these capabilities can help us understand how to imbue AI systems with these competencies. We focus especially on D. Kahneman's theory of thinking fast and slow, and we propose a multi-agent AI architecture where incoming problems are solved by either system 1 (or "fast") agents, that react by exploiting only past experience, or by system 2 (or "slow") agents, that are deliberately activated when there is the need to reason and search for optimal solutions beyond what is expected from the system 1 agent. Both kinds of agents are supported by a model of the world, containing domain knowledge about the environment, and a model of "self", containing information about past actions of the system and solvers' skills.
-
-⬆️ 177 • 💬 82 • 2d ago • [arXiv.org](https://arxiv.org/abs/2110.01834)
+⬆️ 219 • 💬 327 • 1d ago • [The National](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
 
 ---
 
@@ -274,57 +265,73 @@ Deciphering Glyph, the blog of Glyph Lefkowitz.
 
 ---
 
+**[Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions](https://news.ycombinator.com/item?id=49893709)**
+
+⬆️ 163 • 💬 43 • 1d ago • [appleinsider.com](https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[Trump shrugs off warnings of widespread AI harm](https://www.youtube.com/watch?v=uran4ZKJhAQ)**
+**[New study says AI has &#39;pain signals&#39;, researchers say](https://www.youtube.com/watch?v=lspUkroiYfs)**
 
-Bill Gates told NBC News' Kristen Welker that AI is “powerful enough to drive events that cause a billion deaths.” President Trump ...
+A new study found that artificial intelligence can have pain signals that may change the model's behavior. NBC News' Gadi ...
 
 📺 NBC News
 
-👁️ 31K • 👍 135 • 💬 50 • ⏱️ 0:45 • 1d ago
+👁️ 20K • 👍 302 • 💬 234 • ⏱️ 5:07 • 4h ago
 
 ---
 
-**[AI Writing Is Getting Harder to Catch #ai #aiwriting #ainews](https://www.youtube.com/watch?v=tVKRAwbvkmk)**
+**[Tech leaders sign AI agreement](https://www.youtube.com/watch?v=INwRAZeasyg)**
 
-Source: https://graphite.io/five-percent/research/ai-tells#tells-vary-over-time.
+President Donald Trump on Tuesday said he signed a “morally binding” artificial intelligence document with tech leaders following ...
 
-📺 Better Stack
+📺 CNBC Television
 
-👁️ 39K • 👍 913 • 💬 52 • ⏱️ 3:00 • 23h ago
-
----
-
-**[Amodei &amp; Musk on AI risks](https://www.youtube.com/watch?v=ES9X1_30Ywg)**
-
-Anthropic CEO Dario Amodei stressed Tuesday that while AI has "incredible benefits," the technology poses "very real risks" that ...
-
-📺 C-SPAN
-
-👁️ 215K • 👍 3K • 💬 936 • ⏱️ 2:26 • 1d ago
+👁️ 25K • 👍 68 • 💬 37 • ⏱️ 2:07 • 12h ago
 
 ---
 
-**[Is AI a bubble?  #nvidia #stockmarket #stocks](https://www.youtube.com/watch?v=_7IUojNPEPs)**
+**[FULL: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution &amp; What&#39;s Next - 09/29/26](https://www.youtube.com/watch?v=388P7IFSpwE)**
 
-Is AI a bubble? Nvidia, OpenAI and Oracle are passing the same money in a circle, and it looks a lot like Cisco in the dot-com ...
+Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution & What's Next. September 29, 2026 Join this channel to get ...
 
-📺 BWB - Business With Brian
+📺 Right Side Broadcasting Network
 
-👁️ 1K • 👍 61 • 💬 6 • ⏱️ 1:42 • 1h ago
+👁️ 359K • 👍 4K • 💬 825 • ⏱️ 26:37 • 1d ago
 
 ---
 
-**[The Fatal AI Threat That’s Already Here](https://www.youtube.com/watch?v=2rk0tb-SAsE)**
+**[OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman](https://www.youtube.com/watch?v=qy8Gr27yLMk)**
 
-READ THE BLOG Companion articles, source documents, and analytical frameworks: https://julianwhatley.com/posts THE ...
+Keep customer conversations, notes, and next steps together with HubSpot Smart CRM: Try HubSpot ...
 
-📺 Julian Whatley
+📺 Silicon Valley Girl
 
-👁️ 5K • 👍 157 • 💬 45 • ⏱️ 14:46 • 9h ago
+👁️ 61K • 👍 851 • 💬 51 • ⏱️ 30:15 • 14h ago
+
+---
+
+**[Trump says AI leaders signed a &#39;constitution&#39; to police themselves](https://www.youtube.com/watch?v=te6V2-q9dk4)**
+
+President Donald Trump said that tech leaders he met with at the White House on Tuesday had signed a "constitution" to police ...
+
+📺 ABC News
+
+👁️ 16K • 👍 71 • 💬 197 • ⏱️ 2:02 • 20h ago
+
+---
+
+**[Trump HUMILIATES HIMSELF as AI stunt BACKFIRES](https://www.youtube.com/watch?v=zwBjBmTiKI0)**
+
+Jessiah reacts to Donald Trump humiliating himself with his new Artificial Intelligence order. #news #politics #trump #ai ...
+
+📺 Pondering Politics
+
+👁️ 58K • 👍 3K • 💬 396 • ⏱️ 15:37 • 12h ago
 
 ---
 
@@ -334,7 +341,27 @@ Bill Gates thinks A.I. alarmism hasn't gone far enough. He believes the years ah
 
 📺 The Ezra Klein Show
 
-👁️ 605K • 👍 8K • 💬 2K • ⏱️ 1:13:50 • 1d ago
+👁️ 671K • 👍 8K • 💬 2K • ⏱️ 1:13:50 • 1d ago
+
+---
+
+**[Trump, AI tech leaders sign agreement to &#39;self-police&#39;](https://www.youtube.com/watch?v=JWrRGQ6aLkA)**
+
+We are learning more this week after President Donald Trump signed an executive order directing the federal government to ...
+
+📺 LiveNOW from FOX
+
+👁️ 20K • 👍 247 • 💬 115 • ⏱️ 10:34 • 4h ago
+
+---
+
+**[AI meeting: Trump and Speaker Johnson speak after tech leaders summit](https://www.youtube.com/watch?v=wCdC5QeQeB4)**
+
+President Trump and House Speaker Mike Johnson hosted a high-profile White House summit with top technology executives on ...
+
+📺 LiveNOW from FOX
+
+👁️ 182K • 👍 2K • 💬 590 • ⏱️ 39:24 • 1d ago
 
 ---
 
@@ -344,33 +371,7 @@ AI safety researcher Roman Yampolskiy explains why he believes that once artific
 
 📺 The Diary Of A CEO Clips
 
-👁️ 1.3M • 👍 9K • 💬 1K • ⏱️ 20:03 • 1d ago
-
----
-
-**[The AI guitar situation is insane](https://www.youtube.com/watch?v=kzonFLgcg-U)**
-
-📺 Emily Hopkins
-
-👁️ 237K • 👍 8K • 💬 222 • ⏱️ 0:29 • 23h ago
-
----
-
-**[Did the iPhone 18 just put an end to AI slop?](https://www.youtube.com/watch?v=x87MySJGyhU)**
-
-📺 Tech.Explain
-
-👁️ 246K • 👍 8K • 💬 232 • ⏱️ 1:22 • 2d ago
-
----
-
-**[OpenAI unveils new AI agent called &quot;dots&quot;](https://www.youtube.com/watch?v=J0Tk_voS0oY)**
-
-OpenAI has revealed its newest AI agent, "dots." CBS News' Lauren Fichten reports. CBS News 24/7 is the premier anchored ...
-
-📺 CBS News
-
-👁️ 46K • 👍 236 • 💬 84 • ⏱️ 5:01 • 1d ago
+👁️ 1.4M • 👍 10K • 💬 1K • ⏱️ 20:03 • 1d ago
 
 ---
 
@@ -386,7 +387,7 @@ Audio8 ASR Infinite is a bilingual (Chinese/English) real-time speech recognitio
 
 `automatic-speech-recognition` `4.1B`
 
-⬇️ 26,749 • ❤️ 1,863 • 6d ago
+⬇️ 26,749 • ❤️ 1,971 • 7d ago
 
 ---
 
@@ -398,7 +399,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 4,684 • 6d ago
+⬇️ 0 • ❤️ 4,711 • 7d ago
 
 ---
 
@@ -410,7 +411,7 @@ TeleOCR is a lightweight Vision-Language Model for unified document parsing of b
 
 `image-text-to-text` `1.4B`
 
-⬇️ 30,383 • ❤️ 1,100 • 2d ago
+⬇️ 30,383 • ❤️ 1,115 • 2d ago
 
 ---
 
@@ -422,7 +423,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,232,685 • ❤️ 2,580 • 2d ago
+⬇️ 1,232,685 • ❤️ 2,603 • 3d ago
 
 ---
 
@@ -434,7 +435,7 @@ CLM-v0.1-8B is a text-ranking model based on Qwen3-8B, utilizing contrastive lea
 
 `text-ranking`
 
-⬇️ 2,392 • ❤️ 573 • 6d ago
+⬇️ 2,392 • ❤️ 581 • 6d ago
 
 ---
 
@@ -446,7 +447,7 @@ Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supp
 
 `text-to-image` `7.1B`
 
-⬇️ 70,687 • ❤️ 2,720 • 22h ago
+⬇️ 70,687 • ❤️ 2,729 • 1d ago
 
 ---
 
@@ -458,19 +459,7 @@ Nemotron-3 Diarization is an open-weight model for "who spoke when" audio analys
 
 `voice-activity-detection` `99.2M`
 
-⬇️ 36,386 • ❤️ 561 • 6d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
-
-`image-to-video`
-
-⬇️ 1,602,348 • ❤️ 5,724 • 29d ago
+⬇️ 36,386 • ❤️ 567 • 7d ago
 
 ---
 
@@ -482,19 +471,31 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,038,259 • ❤️ 16,652 • 1mo ago
+⬇️ 7,038,259 • ❤️ 16,674 • 1mo ago
 
 ---
 
-**[Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)**
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
 
-*Prism ML*
+*LTX.io*
 
-Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for on-device inference using llama.cpp. It achieves ~98.2% of FP16 intelligence with a drastically reduced ~5.9 GB footprint by employing end-to-end ternary transformer weights (1.72 bits/weight), enabling efficient reasoning and long context (262K tokens) on consumer hardware with CUDA and Metal support.
+LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
 
-`text-generation` `26.9B`
+`image-to-video`
 
-⬇️ 3,676,692 • ❤️ 2,308 • 5d ago
+⬇️ 1,602,348 • ❤️ 5,748 • 1mo ago
+
+---
+
+**[Julia-1](https://huggingface.co/SupersonicLabs/Julia-1)**
+
+*Supersonic Labs*
+
+Julia 1 is a 144.3M parameter multilingual text classification model based on mmBERT-small, designed for making clear decisions from context by classifying, routing, or scoring provided options. It excels at tasks requiring grounded choices and explicit answer selection, serving as a specialized decision-making engine.
+
+`text-classification` `144.3M`
+
+⬇️ 2,201 • ❤️ 321 • 4d ago
 
 ---
 
@@ -510,7 +511,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.
 
-▲ 452 • 💬 2 • ⭐ 4,937 • 4d ago
+▲ 468 • 💬 3 • ⭐ 4,987 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33439) • [💻 code](https://github.com/EverMind-AI/Raven) • [🔗 project](https://raven.evermind.ai/)
 
@@ -556,17 +557,30 @@ UniMate is a unified diffusion transformer that generates articulated motion for
 
 ---
 
-**[What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling](https://huggingface.co/papers/2609.34981)**
+**[Context Language Models](https://huggingface.co/papers/2609.37725)**
 
-*Renping Zhou, Zanlin Ni, Zihao Fan et al. (11 authors)*
+*Rulin Shao, Shannon Zejiang Shen, Junjie Oscar Yin et al. (13 authors)*
 
-🏢 Tsinghua-LeapLab
+🏢 Meta
 
-World action models (WAMs) predict the future alongside actions during training. Due to the heavy computation cost of video denoising, whether the future must still be generated during inference is disputed: Explicit WAMs denoise it into clean frames along with every action chunk, whereas Latent WAMs discard it entirely for acceleration. We find that latent WAMs, despite matching explicit ones on in-distribution tasks, fail to retain the generalization benefits that originally motivated WAMs. To demonstrate this, we evaluate generalization along three axes: environmental perturbation, data efficiency, and task generalization. Controlled comparisons with a matched backbone, training data, and budget reveal consistent degradation across all three axes when the action expert no longer conditions on future representations. Further analysis shows that the gap arises almost entirely from the first denoising step: the benefit comes from preparing the future, not generating it. We therefore propose Simple-WAM, which simplifies future modeling into a single forward pass of fully noised video tokens and adapts the training-time noise schedule to this inference behavior. Across simulation and real-world tasks, Simple-WAM achieves the best of both worlds, leading explicit WAMs in generalization performance with efficiency comparable to Latent WAMs. Project Page: https://zrporz.github.io/Simple-WAM-Web/
+We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance.
 
-▲ 103 • 💬 1 • ⭐ 58 • 2d ago
+▲ 26 • 💬 2 • ⭐ 161 • 2d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2609.34981) • [💻 code](https://github.com/LeapLabTHU/Simple-WAM) • [🔗 project](https://zrporz.github.io/Simple-WAM-Web/)
+[🎓 arXiv](https://arxiv.org/abs/2609.37725) • [💻 code](https://github.com/facebookresearch/context-language-models) • [🔗 project](https://github.com/facebookresearch/context-language-models)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 89 • 💬 7 • ⭐ 89,667 • 26mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -578,36 +592,23 @@ World action models (WAMs) predict the future alongside actions during training.
 
 Speculative Decoding evaluation requires diverse workloads to accurately measure performance, which existing benchmarks lack, prompting the introduction of SPEED-Bench for standardized assessment across semantic domains and serving regimes.
 
-▲ 16 • 💬 2 • ⭐ 5,095 • 7mo ago
+▲ 16 • 💬 2 • ⭐ 5,110 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.09557) • [💻 code](https://github.com/NVIDIA/Model-Optimizer) • [🔗 project](https://huggingface.co/blog/nvidia/speed-bench)
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling](https://huggingface.co/papers/2609.34981)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Renping Zhou, Zanlin Ni, Zihao Fan et al. (11 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+🏢 Tsinghua-LeapLab
 
-▲ 89 • 💬 7 • ⭐ 89,615 • 26mo ago
+World action models (WAMs) predict the future alongside actions during training. Due to the heavy computation cost of video denoising, whether the future must still be generated during inference is disputed: Explicit WAMs denoise it into clean frames along with every action chunk, whereas Latent WAMs discard it entirely for acceleration. We find that latent WAMs, despite matching explicit ones on in-distribution tasks, fail to retain the generalization benefits that originally motivated WAMs. To demonstrate this, we evaluate generalization along three axes: environmental perturbation, data efficiency, and task generalization. Controlled comparisons with a matched backbone, training data, and budget reveal consistent degradation across all three axes when the action expert no longer conditions on future representations. Further analysis shows that the gap arises almost entirely from the first denoising step: the benefit comes from preparing the future, not generating it. We therefore propose Simple-WAM, which simplifies future modeling into a single forward pass of fully noised video tokens and adapts the training-time noise schedule to this inference behavior. Across simulation and real-world tasks, Simple-WAM achieves the best of both worlds, leading explicit WAMs in generalization performance with efficiency comparable to Latent WAMs. Project Page: https://zrporz.github.io/Simple-WAM-Web/
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+▲ 106 • 💬 2 • ⭐ 59 • 2d ago
 
----
-
-**[Context Language Models](https://huggingface.co/papers/2609.37725)**
-
-*Rulin Shao, Shannon Zejiang Shen, Junjie Oscar Yin et al. (13 authors)*
-
-🏢 Meta
-
-We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance.
-
-▲ 24 • 💬 1 • ⭐ 44 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.37725) • [💻 code](https://github.com/facebookresearch/context-language-models) • [🔗 project](https://github.com/facebookresearch/context-language-models)
+[🎓 arXiv](https://arxiv.org/abs/2609.34981) • [💻 code](https://github.com/LeapLabTHU/Simple-WAM) • [🔗 project](https://zrporz.github.io/Simple-WAM-Web/)
 
 ---
 
@@ -656,7 +657,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 5.2k • 🔱 267 • 6h ago
+⭐ 5.3k • 🔱 269 • 12h ago
 
 ---
 
@@ -666,7 +667,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 309 • 2d ago
+⭐ 4.9k • 🔱 309 • 3d ago
 
 ---
 
@@ -676,7 +677,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript` `ai` `content-curation` `llm` `mcp` `news-aggregator`
 
-⭐ 4.1k • 🔱 1.2k • 11h ago
+⭐ 4.2k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -706,7 +707,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 509 • 13d ago
+⭐ 2.7k • 🔱 511 • 14d ago
 
 ---
 
@@ -716,7 +717,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 2.0k • 🔱 302 • 5h ago
+⭐ 2.0k • 🔱 303 • 11h ago
 
 ---
 
@@ -726,7 +727,7 @@ Open-source dots for the web: an AI agent with its own browser, one that does no
 
 `Python` `ai-agent` `ai-agents` `ai-browser` `anti-detect-browser` `browser-agent`
 
-⭐ 1.9k • 🔱 320 • 1d ago
+⭐ 2.0k • 🔱 321 • 1d ago
 
 ---
 
@@ -736,7 +737,7 @@ Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions a
 
 `Markdown` `ai` `ai-engineering` `ai-engineering-interview` `ai-interview` `ai-interview-questions`
 
-⭐ 1.6k • 🔱 159 • 1d ago
+⭐ 1.6k • 🔱 161 • 2d ago
 
 ---
 

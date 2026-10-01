@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Ex-NCA officer must repay \u00a31.8m of Bitcoin stolen from criminals",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRkxvaHJtSjNDZDlfcmFjUEswQ3VPQm1ZUjZvMjlxSzNmY1ZfQXNBQ1VZeUE5VDJzend6ZmJucWU2RV9YbVlLRmtMcHh5LWdVUU92bm9NdFJHUkU?oc=5",
-      "pub_date": 1790772516.0,
-      "article_url": "https://www.bbc.com/news/articles/cm17j4jvl004o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e741/live/609ea760-6263-11f0-b986-3166a974b17d.jpg",
-      "description": "Paul Chowles from Bristol took cryptocurrency seized in an investigation into a dark website."
-    },
-    {
       "headline": "Bitcoin Pioneer Adam Back\u2019s Empire Beset by Hack, Lawsuits",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -25,14 +15,54 @@
       "description": null
     },
     {
-      "headline": "Bitcoin posts strongest Q3 since 2017",
-      "source": "Yahoo Finance Australia",
-      "source_url": "https://au.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejV5dWNvcmUyZGh4aGU4UmJuTE9LR1FZV1F2MnRHTHItMTFGMFhWaVg4UUlFbGtDY05vZ2xBRENvd3IwXzZvYW5kZTE4UnhZWWNfcUdGa3JScDVEMEQzN3AwcVRhLXFOX0YwdG1ZZW05WGpwZlhlblZ3enlfUHdSS0VHS3B6Y29z?oc=5",
-      "pub_date": 1790809636.0,
-      "article_url": "https://au.finance.yahoo.com/news/bitcoin-posts-strongest-q3-since-230716614.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b691fde6fccd5e4ff35a7b677f26153bd02fe5a02dae97a175eaee77b6cf395c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F90249d976aabd4713f9aa5345f02eef9.jpg",
-      "description": "Bitcoin is closing the third quarter up 43%, its best Q3 since 2017, even after pulling back from eight-month highs in the final weeks of September."
+      "headline": "Ex-NCA officer must repay \u00a31.8m of Bitcoin stolen from criminals",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRkxvaHJtSjNDZDlfcmFjUEswQ3VPQm1ZUjZvMjlxSzNmY1ZfQXNBQ1VZeUE5VDJzend6ZmJucWU2RV9YbVlLRmtMcHh5LWdVUU92bm9NdFJHUkU?oc=5",
+      "pub_date": 1790772516.0,
+      "article_url": "https://www.bbc.com/news/articles/cm17j4jvl004o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e741/live/609ea760-6263-11f0-b986-3166a974b17d.jpg",
+      "description": "Paul Chowles from Bristol took cryptocurrency seized in an investigation into a dark website."
+    },
+    {
+      "headline": "BTC price: Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDFnTTZwNGZFcjVSbmxjRGdrQm9PWndad3FpRG51bjhfTXJqLVNMRVJfY3FKUWpaRWFUNTBjYkFIb2c2VDhLRDZndnRZODE2UHFEQjBEWnpVXzF4Z290amR2aWpDSGY5dTlDd1BUYkpFSUtZd24zdDczeDZxOGFobGxOVFJvZUt4Z0VGdnVLRDNBYjM4a1daSnJST25SeFViTS1SYkdsa0RoSkZyNERQMEhxbnlRdmNlOXVnWEZn?oc=5",
+      "pub_date": 1790828120.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/94f48d276e428bad0dfea5c268db4eb0eb1b6b27-1508x866.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away."
+    },
+    {
+      "headline": "Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzV6dG50TEhXNGtuemcwTVdNSGt5bHZTdEQtZ0xMY0w1SVRfcjJ2NnZhRWs5ZlFrWVVpcTdwZEN3eDB2OUVtaU1ndEVQMmxLVjJUeHZIOFJDSFZoRU8yY0NLSENQT0xNMXhWMnk1Rml2Yjh0dVVSSTl6U0Nvdl9QcHZBczZGRC1Nc0g5Z1RKaVBiV2ZXY3JLXzFQaUs4SlpxTkJ0LXVzbUxHSEk?oc=5",
+      "pub_date": 1790766049.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/major-cryptocurrency-most-potential-growth-110049314.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4fd63a18937f2c669e387311446d7bf911a136fcd333195f987ee0c67090b077/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6e1c357342fa574cb191cfe185d13d5d.jpg",
+      "description": "Bitcoin, Ethereum, XRP, and Solana all crashed from their 2025 peaks, but one of them stands out as having a uniquely powerful combination of factors that could fuel a sharper recovery than the others."
+    },
+    {
+      "headline": "Delaware County bitcoin mining facility raises questions",
+      "source": "TelegraphHerald.com",
+      "source_url": "https://www.telegraphherald.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFZwbVVHX3l5MWd6c2s3YWQ5Vl9vODZnTzdidjE2SWNkcnFIUEhqZzdkNklISWpjRlZJMTlWWkVWa3plYXR2UnE5RDdmcmxmcmdSQU1XUzNobFp3NjVvbEM5eWx3clZiT3UzbTRxT2dQcGZMR2tMcW0xMjRCUmctRDFaVVVIMFRrVEdmNEp0aHhuM2dUcnB1Z2x1ZnY?oc=5",
+      "pub_date": 1790748000.0,
+      "article_url": "https://www.telegraphherald.com/news/tri-state/article_ca837341-7585-5f83-b3e8-5515ffc78f36.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/c/a8/ca837341-7585-5f83-b3e8-5515ffc78f36/6abc16a434bc6.social.jpg?resize=1500%2C1000",
+      "description": "The operation was built without the county\u2019s full knowledge, and neighbors say it\u2019s generating noise and causing power outages that interfere with their quality of life."
+    },
+    {
+      "headline": "Bitcoin on Pace for Best Quarter in Nearly Two Years",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS3RaaXRaQTc3cHYwWFhaWmI5RUZ2bnhNa005YlRkaTZVbkY5SHZTNWptY0RPZmJSYlBuZnFFaldsekZEWnJzMEZ3NVZ1bUNZWjBEUEVja1paVTQ0UlI4N1pFT1d0YnZRTTdXX3hBUmNBZVVYcXA5WTM5Q1hmb01EX3FTQ00wc2prc05mYWQzTHp2VURkYlFqSzVTdnUxN1Q3bUlfd2lwYVo2RU0tRWZmdnJsWTJzZTR4bGtCclJ5cE1mVTNfTWFmdWpINWN1bkhjMlNKMkQ2WkJoVmFBUDdsSkVlQlF2Y3A0aXR1b1htbTE?oc=5",
+      "pub_date": 1790727480.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2",
+      "image": null,
+      "description": null
     },
     {
       "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
@@ -45,66 +75,36 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Suddenly Rockets On $100,000 Fidelity Price Game-Changer",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWlEZS1ZRTdHRmhPcmRYaWZwSV9PYm0wSmdqcDFLaVhrTlY2MjRadHNpWkNDakRySjNkanZsZFgzYVBQRHNwNzRweC1CZFVGQXBlcnU2VFdHR2M5N3RsTnpYOC1uWE01MlJPbU9oN2F4ckl2R0x5NFN3MHIyTkZKNjJOR3BpNWpWR0hFM0xnbnNkRFhwdm1LcFJ2MWFtQWtRRURQdXNmc1FKdE1fV3ZIX2tsTFR4UEpaaFE?oc=5",
-      "pub_date": 1790774022.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/30/bitcoin-suddenly-rockets-on-100000-fidelity-price-game-changer/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Current price of Bitcoin for Sept. 29, 2026",
+      "headline": "Current price of Bitcoin for Sept. 30, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MNlo2RGJ3amxUUjZ4dVF3dmdVSmJqdVJOcUhmaXc1TUpaNGlwRmRKc1FaUGsyQ1dtc3VwZFlITVhFdnRpOFhBRnZNRzJMdHlmc2pRWnBJNWJESXZaS1YyT1hzV2xjSzg?oc=5",
-      "pub_date": 1790708880.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-09-29-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-29.jpg?resize=1200,600",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQXpZbjZITHh1RHkxSC1SSkhTb2NieVAxenlLVldqSVVZN0g3a1gtM0FSY25iWlpZU2ZpVFRreldLOHJieHhGZnVFUWRfOWVDOEhrNndQZjVQZzlSS3JUNDN5Z3A4MzA?oc=5",
+      "pub_date": 1790776920.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-30.jpg?resize=1200,600",
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Bitcoin on Pace for Best Quarter in Nearly Two Years",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS3RaaXRaQTc3cHYwWFhaWmI5RUZ2bnhNa005YlRkaTZVbkY5SHZTNWptY0RPZmJSYlBuZnFFaldsekZEWnJzMEZ3NVZ1bUNZWjBEUEVja1paVTQ0UlI4N1pFT1d0YnZRTTdXX3hBUmNBZVVYcXA5WTM5Q1hmb01EX3FTQ00wc2prc05mYWQzTHp2VURkYlFqSzVTdnUxN1Q3bUlfd2lwYVo2RU0tRWZmdnJsWTJzZTR4bGtCclJ5cE1mVTNfTWFmdWpINWN1bkhjMlNKMkQ2WkJoVmFBUDdsSkVlQlF2Y3A0aXR1b1htbTE?oc=5",
-      "pub_date": 1790670360.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2",
-      "image": null,
-      "description": null
+      "headline": "Strategy\u2019s Michael Saylor Says We\u2019re In A Bitcoin \u2018Gold Rush\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEFwSjRMNUVsdmwyS2NneWtVM0NhREk1RVliSTU4ZkRIYWtBYTFTMzdxUC02TzZpM3B0NWtPaWh4VFNROFktTmVHTm1LS1EwblhLazJNbnBiQVRRVmJJTUFYOU1TdFg5Y1pRSTBqSUFBWGJfUWZwNjBrWjhCclJEZE51ZTJNLVVXbWFFbTdVRkRLNVNCUE03bmQ3X0ZoSHRtb0JR?oc=5",
+      "pub_date": 1790776500.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-michael-saylor-says-bitcoin-135500984.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b28f34f383f98206bd5a431b0a1bdccebcdee69f90a534b9cf8cc969eabaf10d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F946c3927d76ef2caf41f5841eced9575.jpg",
+      "description": "Michael Saylor, the executive chairman of serial Bitcoin (CRYPTO: $BTC) acquirer Strategy (NASDAQ: $MSTR), says tha..."
     },
     {
-      "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
+      "headline": "Bitcoin's Days Are Numbered, And So Are Strategy's (NASDAQ:MSTR)",
       "source": "Seeking Alpha",
       "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNQR3hCWUVVc2tzREJiMDMxOWlubDRMd0V6ZE4wV0toUEFhbnJ6cjgxTm5iYlFJU09JWWJ1NTVsdUpfcGpoTk16QWFRekwweTJtM0ZWU1dTNXRqSWx1dnR2bGs1NjVleW01aTZTcTdXb1pXOVdSdlc1Z05EZXBrMzlKUVBaWWVsRTJ3OUFOR01ZU0s2ZEN5MFQ5RGdDM2hhajFCTXFvQQ?oc=5",
-      "pub_date": 1790774919.0,
-      "article_url": "https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409006442/image_1409006442.jpg?io=getty-c-w630",
-      "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
-    },
-    {
-      "headline": "Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT01RenFrSEhZd3MxajdOSDhjeUFSYjI5aTctTTdvUG02Y1pSUFl3Qkdod05uRmhrYXdfM1dXUXpITjRBME1GdjdFX2E0d0o1NTN5UzVncE5XMEhwQWQzTGJ2b29XVFV2aVA1TVIzTE9WMDJkOGVZREt1aXZSMXJLZjBvZUFNblVEWG4tREtieHJoSVlfYmFWYjREeGRqSS1Cb3ZZbC1PRHkwdVU1RWZfQldCTUh4Zw?oc=5",
-      "pub_date": 1790781463.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHc3ZkFkZVB3ZzBBTXNLYVBfblowUnVIa2kwa3dBaVkyLVpUalFTZFRiVXg5Z1JiOVJDV1RkOWlYQWx5Y1l1dGlnc2NiS0t2c3ZlWGFUX2RSZmdWUmxTZ1d6aHdvWXhNNTNtc0d2RHhad0kyWnhvZ2R2b3UzeE0zQmU3TEFPbXROM0VKQ3hmd2gxZw?oc=5",
+      "pub_date": 1790631786.0,
+      "article_url": "https://seekingalpha.com/article/4950399-bitcoins-days-are-numbered-and-so-are-strategys",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin steadies as soft PCE cools October Fed rate hike bets",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3pPa3R5NXZyeGNMeVZmRE5hSE5MZnFLUjRPdUthcWNGazA1TEdDcG5uVzI5THNuUzY1N1N5MlAtVDMyOUtMaExiMGJxY1NsVlQ0UG1kelVmZzhVWU4zY3VFVjJId2ZOSmtWQUgtTDQzRXpuLVIwMGZCX1BySzRuVHBockdNeUNlQU52cDdBbnBOazdfa01CUzNB?oc=5",
-      "pub_date": 1790784636.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250312_Markets_Category.jpg",
-      "description": "The crypto market remains supported by expanding institutional access, including ETFs and tokenized Treasuries, although elevated yields and persistent inflation means the backdrop remains uncertain."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T00:42:10.097594+00:00"
+  "fetched_at": "2026-10-01T06:55:20.497308+00:00"
 }
