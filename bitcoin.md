@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-30T21:15:28.806173+00:00'
+updated: '2026-10-01T00:42:24.679867+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 30, 2026 at 21:15 UTC  
+**Last Updated:** October 01, 2026 at 00:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,677.62
+### $83,465.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.1%  
 **7d:** -0.7%  
-**30d:** +8.2%  
-**90d:** +33.8%  
-**1y:** -29.3%  
+**30d:** +8.3%  
+**90d:** +32.3%  
+**1y:** -30.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1681.86B
+**Market Cap:** $1676.50B
 Rank #1
 
 **Circulating Supply:** 20,090,909 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.6%
+-33.8%
 
 **All-Time Low:** $67.81
-+123356.7%
++122958.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 71
+### 74
 **GREED**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 don't be sheep
 
-22h ago
+1d ago
 
 ---
 
@@ -95,7 +95,7 @@ don't be sheep
 
 The popular argument is that AI agents will need money, Bitcoin is money for the internet, so agents will drive Bitcoin demand. The problem: an agent working for a company that holds dollars, paying a company that wants dollars, has no reason to route through Bitcoin. And huge transaction counts don't mean huge value. A billion payments of a tenth of a cent is $1 million. Permissionless isn't the same as decentralized. An agent can hold tokenized dollars without a bank account, and for three cents of compute it likely doesn't care that the issuer can freeze funds. Lightning can move stablecoins, and those payments can still require Bitcoin liquidity, but that is too small to build an adoption thesis on. The part that holds up is saving. The Bitcoin Policy Institute ran 36 AI models through 28 monetary scenarios more than 9,000 times. For payments, the models preferred stablecoins. For storing value, nearly four out of five responses chose Bitcoin. If agents ever earn and keep real wealth, what they save in matters, and it fits how Bitcoin monetizes: people save in it first, and payments come later. There is one more mechanism. AI makes surveillance and financial enforcement cheaper and more automatic, which makes an asset with no issuer more valuable to anyone holding their own keys, even if no agent ever spends a sat.
 
-23h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ The popular argument is that AI agents will need money, Bitcoin is money for the
 
 Bitcoin is the biggest honeypot on the internet, yet attackers are unable to crack this in the mathematical space. Researchers and Economists are are simping the existing monetary imperialists without accepting that this is a 'novel technology' (US Teasury Secretary actually said that it is a pure technological innovation and the approach is novel). Thieves are trying to steal your bitcoin by creating shitcoins and marketing them as 'projects' better than the real thing, while pre-mining 70% of the supply for themselves. We cant deny that malicious hackers are using various other attacks to steal from plebs. Bitcoin protocol does not have a marketing team, and don't forget, the bitcoin software was not successfully pwned yet given the thoughtful architectural approach Satoshi took when designing the thing. We must be responsible not to break it. Don't be a shitcoiner. Be a bitcoiner.
 
-23h ago
+1d ago
 
 ---
 
@@ -127,7 +127,7 @@ always sceptical but THIS IS GOOOOOOD
 
 These are my top 3 YouTube channels right now: AdamLivingstonBTC SimplyBitcoin 1MarkMoss
 
-23h ago
+1d ago
 
 ---
 
@@ -159,7 +159,7 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 Paul Chowles from Bristol took cryptocurrency seized in an investigation into a dark website.
 
-BBC • 8h ago
+BBC • 11h ago
 
 ---
 
@@ -169,11 +169,23 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy’s Michael Saylor Says We’re In A Bitcoin ‘Gold Rush’](https://finance.yahoo.com/markets/crypto/articles/strategy-michael-saylor-says-bitcoin-135500984.html)**
+**[Bitcoin posts strongest Q3 since 2017](https://au.finance.yahoo.com/news/bitcoin-posts-strongest-q3-since-230716614.html)**
 
-Michael Saylor, the executive chairman of serial Bitcoin (CRYPTO: $BTC) acquirer Strategy (NASDAQ: $MSTR), says tha...
+Bitcoin is closing the third quarter up 43%, its best Q3 since 2017, even after pulling back from eight-month highs in the final weeks of September.
 
-finance.yahoo.com • 7h ago
+Yahoo Finance Australia • 1h ago
+
+---
+
+**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
+
+MarketWatch • 11h ago
+
+---
+
+**[Bitcoin Suddenly Rockets On $100,000 Fidelity Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/09/30/bitcoin-suddenly-rockets-on-100000-fidelity-price-game-changer/)**
+
+Forbes • 11h ago
 
 ---
 
@@ -185,35 +197,23 @@ Fortune • 1d ago
 
 ---
 
-**[‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64)**
-
-MarketWatch • 7h ago
-
----
-
-**[Bitcoin Suddenly Rockets On $100,000 Fidelity Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/09/30/bitcoin-suddenly-rockets-on-100000-fidelity-price-game-changer/)**
-
-Forbes • 8h ago
-
----
-
-**[HANetf Launches First Euro-Hedged Bitcoin Fund](https://www.wsj.com/finance/currencies/hanetf-launches-first-euro-hedged-bitcoin-fund-0f057d2e)**
+**[Bitcoin on Pace for Best Quarter in Nearly Two Years](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2)**
 
 WSJ • 1d ago
 
 ---
 
-**[Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down](https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down)**
+**[Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump](https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump)**
 
-Bloomberg.com • 5h ago
+Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K.
+
+Seeking Alpha • 11h ago
 
 ---
 
-**[Bitcoin edges lower as yields climb and Robinhood targets perps traders](https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan)**
+**[Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down](https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down)**
 
-Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.
-
-coindesk.com • 11h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -221,7 +221,7 @@ coindesk.com • 11h ago
 
 The crypto market remains supported by expanding institutional access, including ETFs and tokenized Treasuries, although elevated yields and persistent inflation means the backdrop remains uncertain.
 
-The Block • 5h ago
+The Block • 8h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Block • 5h ago
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 4h ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
+⬆️ 3 • 💬 0 • 7h ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -261,7 +261,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 Satnam Singh’s personal website
 
-⬆️ 2 • 💬 0 • 20h ago • [Satnam Singh](https://raintown.org/lava/sorter/)
+⬆️ 2 • 💬 0 • 23h ago • [Satnam Singh](https://raintown.org/lava/sorter/)
 
 ---
 
@@ -269,13 +269,23 @@ Satnam Singh’s personal website
 
 ## YouTube Videos: "bitcoin"
 
-**[💣💣💣 BTC Update: TICK, TICK, TICK,.... Bitcoin Will Likely Begin to Collapse in the Coming Days Ahead](https://www.youtube.com/watch?v=TfpDTT6rKgE)**
+**[$1 Million Bitcoin BULL RUN - Every Major Signal Just Flipped](https://www.youtube.com/watch?v=f7jU_VdmLig)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Bitcoin just delivered its strongest Q3 in nine years, gaining roughly 43% as more than 80% of Bitcoin addresses moved into profit.
 
-📺 Doctor of Pump & Dump
+📺 Bitcoin News Alerts
 
-👁️ 1K • 👍 168 • ⏱️ 28:38 • 1h ago
+👁️ 941 • 👍 141 • 💬 51 • ⏱️ 16:04 • 2h ago
+
+---
+
+**[The AI Wealth Shift That Could Reprice Bitcoin | Jordi Visser](https://www.youtube.com/watch?v=g_CD71CIqlw)**
+
+I think everyone is underestimating the speed of AI.” Jordi Visser joins the show to discuss why he believes AI could trigger a ...
+
+📺 What Bitcoin Did
+
+👁️ 9K • 👍 385 • 💬 110 • ⏱️ 1:19:42 • 5h ago
 
 ---
 
@@ -285,7 +295,17 @@ Bitcoin dominance is flashing a warning signal that could spell major trouble fo
 
 📺 Gareth Soloway
 
-👁️ 16K • 👍 2K • 💬 220 • ⏱️ 9:56 • 3h ago
+👁️ 53K • 👍 3K • 💬 294 • ⏱️ 9:56 • 6h ago
+
+---
+
+**[💣💣💣 BTC Update: TICK, TICK, TICK,.... Bitcoin Will Likely Begin to Collapse in the Coming Days Ahead](https://www.youtube.com/watch?v=TfpDTT6rKgE)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 6K • 👍 322 • ⏱️ 28:38 • 5h ago
 
 ---
 
@@ -295,7 +315,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 270 • 💬 34 • ⏱️ 12:18 • 5h ago
+👁️ 10K • 👍 328 • 💬 66 • ⏱️ 12:18 • 8h ago
 
 ---
 
@@ -305,7 +325,7 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 378 • 💬 59 • ⏱️ 12:56 • 10h ago
+👁️ 12K • 👍 418 • 💬 88 • ⏱️ 12:56 • 14h ago
 
 ---
 
@@ -315,7 +335,7 @@ The Fed just raised rates, yet Bitcoin keeps climbing. Mark Moss, host of the Ma
 
 📺 Bitcoin Magazine
 
-👁️ 4K • 👍 218 • 💬 19 • ⏱️ 29:02 • 3h ago
+👁️ 16K • 👍 338 • 💬 21 • ⏱️ 29:02 • 7h ago
 
 ---
 
@@ -325,47 +345,27 @@ Most People Have ZERO Idea What Comes NEXT? ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 2K • 💬 99 • ⏱️ 12:47 • 22h ago
+👁️ 67K • 👍 3K • 💬 99 • ⏱️ 12:47 • 1d ago
 
 ---
 
-**[QUANT Crypto Just EXPLODED Again! Here&#39;s Why It&#39;s Happening!](https://www.youtube.com/watch?v=-SQEKs-EuEE)**
+**[PCE Inflation: The Number Bitcoin Needed Just Dropped](https://www.youtube.com/watch?v=PXpfG6a7nz0)**
 
-QUANT just hit another major milestone - The QUANT crypto price is soaring again and here is exactly why its happening!
+Today's PCE inflation data is the single most important macro trigger for Bitcoin and the entire crypto market right now. Before you ...
 
-📺 Zach Humphries
+📺 Crypto Banter
 
-👁️ 5K • 👍 247 • 💬 31 • ⏱️ 8:34 • 7h ago
-
----
-
-**[BITCOIN: This Pattern Is About To Break! (almost time) - BTC Price Prediction Today](https://www.youtube.com/watch?v=kPsvNlAJJ4s)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 13K • 👍 455 • 💬 43 • ⏱️ 13:00 • 10h ago
+👁️ 40K • 👍 1K • 💬 24 • ⏱️ 37:57 • 10h ago
 
 ---
 
-**[This Is What&#39;s Coming For All Of Us!!! SEC Confirms New Crypto Era! Peter Thiel Knew This Was Coming](https://www.youtube.com/watch?v=BRgjXaLlXtY)**
+**[What Happens If Bitcoin BREAKS $80K](https://www.youtube.com/watch?v=BzV2O1vqLss)**
 
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
-📺 AllinCrypto
+📺 Coin Bureau
 
-👁️ 22K • 👍 1K • 💬 165 • ⏱️ 15:19 • 9h ago
-
----
-
-**[BITCOIN IS FLASHING A MAJOR WARNING !!!!!!!!](https://www.youtube.com/watch?v=HtSKFvqxswk)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Up to ...
-
-📺 The Moon Show
-
-👁️ 16K • 👍 851 • 💬 53 • ⏱️ 12:36 • 10h ago
+👁️ 34K • 👍 660 • 💬 37 • ⏱️ 11:17 • 10h ago
 
 ---
 
