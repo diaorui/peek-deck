@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-30T21:15:28.809905+00:00'
+updated: '2026-10-01T00:42:24.685168+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 30, 2026 at 21:15 UTC  
+**Last Updated:** October 01, 2026 at 00:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,674.00
+### $2,682.40
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -0.1%  
-**30d:** +11.0%  
-**90d:** +52.7%  
-**1y:** -38.0%  
+**24h:** +0.5%  
+**7d:** -0.3%  
+**30d:** +12.3%  
+**90d:** +50.7%  
+**1y:** -40.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $327.63B
+**Market Cap:** $327.44B
 Rank #2
 
 **Circulating Supply:** 122,092,941 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.7%
+-45.8%
 
 **All-Time Low:** $0.43
-+619662.2%
++619403.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 a global government I would support system based on existing technological solutions. the expulsion of incompetence, lies and manipulation to choose our own destiny. voting is done over the phone. each person 1 vote. biometric fingerprint. decentralized. using advanced cryptography. transparency. for global issues, all locals vote for local ones. formation of global expert councils. their role is to provide an analysis and evaluation of the proposal. members are chosen exclusively on the basis of expertise and competence in given professions. basic 4 branches: Society Ethical-legal group Psychological-sociological group Cultural and educational group Resources Ecological-climatic group Economic and resource group Logistic-operational group Technology Technical and engineering group Digital-cybernetic group Science Logical-mathematical group Medical-biological group the council's role is to adopt, give, and formulate clear and transparent proposals for solving problems or situations every decision they make is transparent. with minutes for the archive. presenting a problem or proposing a solution is available to all residents. cognitive ability test before submitting a proposal each proposal must pass the acceptance threshold. ethical, logical, mathematical. technical let's say we have 10 valid suggestions for a solution.. the global advice gives a score of 1 or 0 each of those 10 groups. the ethics council gives the final assessment in the event that several proposals have the same number of positives. the proposal with the most positives goes to a global referendum every voter, i.e. individual or group, has the right of veto. they are obliged to present a valid counter-argument in the shortest possible time. any veto attempt that is driven by ego vanity or the desire for power is automatically rejected. algorithmic assessment. open source. mandatory system calibration, ethical, logical, mathematical. plus a decentralized network of jurors chosen on the basis of expertise. randomly selected. a valid argument is voted against the proposal of the council. in case of adoption of the argument, the proposal is rejected. if the vote is 50-50%, both sides have 24 hours to present new insights the vote is repeated. voting is optional. the possibility of voting is. it is not a problem for me that people wiser than me decide about our fate and social vector. as long as they ask all of us, because ultimately it concerns all of us I support expertise and objectivity as well as the diversity of the local community.
 
-4h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ a global government I would support system based on existing technological solut
 
 spent an hour moving eth around mainnet gas is still insane for simple swaps, and then you bridge to an L2 and the liquidity is half what you expect its a mess i love ethereum but its becoming a chore to actually use. ngl i still keep some eth on gemini just to have a clean way to stake and trade without thinking about gas or which rollup im on. centralization sucks but my sanity is worth something. back to staring at etherscan
 
-2h ago
+5h ago
 
 ---
 
@@ -160,29 +160,15 @@ The Block • 1d ago
 
 Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?
 
-24/7 Wall St. • 23h ago
+24/7 Wall St. • 1d ago
 
 ---
 
-**[BMNR Stock Forms Golden Cross For First Time Since Bitmine’s Ethereum Pivot Rally](https://finance.yahoo.com/markets/stocks/articles/bmnr-stock-forms-golden-cross-170445383.html)**
+**[Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs](https://finance.yahoo.com/markets/crypto/articles/major-cryptocurrency-most-potential-growth-110049314.html)**
 
-The last time the 50-day line crossed above the 200-day was more than a year ago, when the company pivoted to buying Ethereum.
+Bitcoin, Ethereum, XRP, and Solana all crashed from their 2025 peaks, but one of them stands out as having a uniquely powerful combination of factors that could fuel a sharper recovery than the others.
 
-finance.yahoo.com • 4h ago
-
----
-
-**[Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump](https://www.tradingview.com/news/seekingalpha:a48a8a69d094b:0-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump/)**
-
-Bitcoin BITSTAMP:BTCUSD price prediction faces a $1M target by 2030, while its strongest rally may come in late 2027 or early 2028, according to Maelstrom CIO Arthur Hayes, as reported by Walter Bloomberg on X.Hayes told Coindesk in an interview that an AI investment bubble could trigger the next m…
-
-TradingView • 7h ago
-
----
-
-**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
-
-vitalik.eth.limo • 3d ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -190,7 +176,15 @@ vitalik.eth.limo • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 9h ago
+
+---
+
+**[Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump](https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump)**
+
+Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K.
+
+Seeking Alpha • 11h ago
 
 ---
 
@@ -198,7 +192,15 @@ Fortune • 5h ago
 
 The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Dips, While Ethereum, XRP, Dogecoin Gain: Bull Market 'Intact,' but Rally 'Showing Cracks,' Says Analyst](https://www.tradingview.com/news/benzinga:931a8d2c5094b:0-bitcoin-dips-while-ethereum-xrp-dogecoin-gain-bull-market-intact-but-rally-showing-cracks-says-analyst/)**
+
+Leading cryptocurrencies stayed resilient on Tuesday while rising government bond yields weighed on stock markets.Crypto Market Holds SteadyBitcoin held on to support in the mid-$82,000 region, while bulls attempted a break above $85,000. Ethereum oscillated between $2,650 and $2,740, while XRP and…
+
+TradingView • 22h ago
 
 ---
 
@@ -206,15 +208,7 @@ coindesk.com • 1d ago
 
 Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and...
 
-ethereum.org • 1d ago
-
----
-
-**[These Cryptocurrencies Have Become Wall Street Favorites and Deserve a Place in Your Portfolio](https://www.fool.com/investing/2026/09/29/these-cryptocurrencies-have-become-wall-street-fav/)**
-
-For good reason, Bitcoin and Ethereum have become the first two cryptocurrencies in the portfolios of many institutional investors.
-
-The Motley Fool • 1d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -223,6 +217,14 @@ The Motley Fool • 1d ago
 Bitmine has gone all in on Ethereum, the second-largest cryptocurrency in the world.
 
 Currently.com • 1d ago
+
+---
+
+**[Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply](https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply)**
+
+Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.
+
+Decrypt News • 2d ago
 
 ---
 
@@ -236,7 +238,7 @@ BREAKING WALL STREET IS COMING! $10000 ETHEREUM CALL?! XRP MILESTONE COULD SEND 
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 338 • 💬 4 • ⏱️ 30:38 • 2h ago
+👁️ 12K • 👍 468 • 💬 14 • ⏱️ 30:38 • 6h ago
 
 ---
 
@@ -246,17 +248,7 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 📺 Crypto Archie
 
-👁️ 786 • 👍 36 • 💬 1 • ⏱️ 5:39 • 7h ago
-
----
-
-**[🚨 BTC &amp; ETH: ITS ALL FALLING APART BEFORE OUR EYES!!!!! (URGENT UPDATE!)](https://www.youtube.com/watch?v=KOrx6WBRN3w)**
-
-Bitcoin and crypto are holding on! However the rest of the markets are telling us a completely different story! Here is what you ...
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 1K • 💬 28 • ⏱️ 13:28 • 1d ago
+👁️ 1K • 👍 38 • 💬 1 • ⏱️ 5:39 • 10h ago
 
 ---
 
@@ -266,27 +258,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 282 • 💬 21 • ⏱️ 17:08 • 1d ago
-
----
-
-**[$10k ETH will cause Alt Season](https://www.youtube.com/watch?v=CUDFg3otido)**
-
-Join Discord Group https://whop.com/checkout/plan_lyc1AoLEUzNVD X https://twitter.com/PainofCrypt0 Instagram ...
-
-📺 Pain of Crypto
-
-👁️ 9K • 👍 192 • 💬 24 • ⏱️ 6:17 • 1d ago
-
----
-
-**[Raoul Pal: Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x](https://www.youtube.com/watch?v=lkki8XmPoj8)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 386 • 💬 34 • ⏱️ 21:29 • 2d ago
+👁️ 13K • 👍 283 • 💬 21 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -296,17 +268,27 @@ Not a day goes by in the cryptocurrency market where we dont get some kind of in
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 788 • 💬 329 • ⏱️ 33:16 • 12h ago
+👁️ 11K • 👍 817 • 💬 333 • ⏱️ 33:16 • 15h ago
 
 ---
 
-**[This Is What&#39;s Coming For All Of Us!!! SEC Confirms New Crypto Era! Peter Thiel Knew This Was Coming](https://www.youtube.com/watch?v=BRgjXaLlXtY)**
+**[Raoul Pal: Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x](https://www.youtube.com/watch?v=lkki8XmPoj8)**
 
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 AllinCrypto
+📺 Crypto Nutshell
 
-👁️ 22K • 👍 1K • 💬 165 • ⏱️ 15:19 • 9h ago
+👁️ 19K • 👍 390 • 💬 34 • ⏱️ 21:29 • 2d ago
+
+---
+
+**[ETH Could Shock Everyone!](https://www.youtube.com/watch?v=A8YcphcuZ3U)**
+
+Ethereum could have a massive move ahead if it breaks the $5000 level. The speaker argues that ETH may not stop at the 1.618 ...
+
+📺 Crypto Archie Plus
+
+👁️ 13 • 👍 2 • ⏱️ 0:38 • 2h ago
 
 ---
 
@@ -316,7 +298,27 @@ Joseph Chalom says Larry Fink's line that Ethereum is the toll road to tokenizat
 
 📺 The Rollup
 
-👁️ 27K • 👍 404 • 💬 20 • ⏱️ 31:51 • 1d ago
+👁️ 28K • 👍 407 • 💬 19 • ⏱️ 31:51 • 2d ago
+
+---
+
+**[$10k ETH will cause Alt Season](https://www.youtube.com/watch?v=CUDFg3otido)**
+
+Join Discord Group https://whop.com/checkout/plan_lyc1AoLEUzNVD X https://twitter.com/PainofCrypt0 Instagram ...
+
+📺 Pain of Crypto
+
+👁️ 10K • 👍 197 • 💬 24 • ⏱️ 6:17 • 1d ago
+
+---
+
+**[XRP TO $200 Bitcoin To 1 Million Ethereum To 10K After Trump Devalues The Dollar!](https://www.youtube.com/watch?v=zAxTrrxztYE)**
+
+CASH APP= $CRYPTOTEACHER https://www.patreon.com/deathofcashbtc XRP TO $200 Bitcoin To 1 Million Ethereum To 10K ...
+
+📺 Cryptoteacher
+
+👁️ 842 • 👍 84 • 💬 2 • ⏱️ 29:31 • 4h ago
 
 ---
 
@@ -326,7 +328,7 @@ FeeDrip - up to (67%) of your trading fees back, paid daily ...
 
 📺 Marzell Crypto
 
-👁️ 692 • 👍 18 • 💬 1 • ⏱️ 3:20 • 10h ago
+👁️ 972 • 👍 20 • 💬 1 • ⏱️ 3:20 • 14h ago
 
 ---
 

@@ -25,24 +25,14 @@
       "description": null
     },
     {
-      "headline": "Strategy\u2019s Michael Saylor Says We\u2019re In A Bitcoin \u2018Gold Rush\u2019",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEFwSjRMNUVsdmwyS2NneWtVM0NhREk1RVliSTU4ZkRIYWtBYTFTMzdxUC02TzZpM3B0NWtPaWh4VFNROFktTmVHTm1LS1EwblhLazJNbnBiQVRRVmJJTUFYOU1TdFg5Y1pRSTBqSUFBWGJfUWZwNjBrWjhCclJEZE51ZTJNLVVXbWFFbTdVRkRLNVNCUE03bmQ3X0ZoSHRtb0JR?oc=5",
-      "pub_date": 1790776500.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-michael-saylor-says-bitcoin-135500984.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b28f34f383f98206bd5a431b0a1bdccebcdee69f90a534b9cf8cc969eabaf10d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F946c3927d76ef2caf41f5841eced9575.jpg",
-      "description": "Michael Saylor, the executive chairman of serial Bitcoin (CRYPTO: $BTC) acquirer Strategy (NASDAQ: $MSTR), says tha..."
-    },
-    {
-      "headline": "Current price of Bitcoin for Sept. 29, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MNlo2RGJ3amxUUjZ4dVF3dmdVSmJqdVJOcUhmaXc1TUpaNGlwRmRKc1FaUGsyQ1dtc3VwZFlITVhFdnRpOFhBRnZNRzJMdHlmc2pRWnBJNWJESXZaS1YyT1hzV2xjSzg?oc=5",
-      "pub_date": 1790708880.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-09-29-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-29.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+      "headline": "Bitcoin posts strongest Q3 since 2017",
+      "source": "Yahoo Finance Australia",
+      "source_url": "https://au.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejV5dWNvcmUyZGh4aGU4UmJuTE9LR1FZV1F2MnRHTHItMTFGMFhWaVg4UUlFbGtDY05vZ2xBRENvd3IwXzZvYW5kZTE4UnhZWWNfcUdGa3JScDVEMEQzN3AwcVRhLXFOX0YwdG1ZZW05WGpwZlhlblZ3enlfUHdSS0VHS3B6Y29z?oc=5",
+      "pub_date": 1790809636.0,
+      "article_url": "https://au.finance.yahoo.com/news/bitcoin-posts-strongest-q3-since-230716614.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b691fde6fccd5e4ff35a7b677f26153bd02fe5a02dae97a175eaee77b6cf395c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F90249d976aabd4713f9aa5345f02eef9.jpg",
+      "description": "Bitcoin is closing the third quarter up 43%, its best Q3 since 2017, even after pulling back from eight-month highs in the final weeks of September."
     },
     {
       "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
@@ -65,14 +55,34 @@
       "description": null
     },
     {
-      "headline": "HANetf Launches First Euro-Hedged Bitcoin Fund",
+      "headline": "Current price of Bitcoin for Sept. 29, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MNlo2RGJ3amxUUjZ4dVF3dmdVSmJqdVJOcUhmaXc1TUpaNGlwRmRKc1FaUGsyQ1dtc3VwZFlITVhFdnRpOFhBRnZNRzJMdHlmc2pRWnBJNWJESXZaS1YyT1hzV2xjSzg?oc=5",
+      "pub_date": 1790708880.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-29-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-29.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin on Pace for Best Quarter in Nearly Two Years",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXy0yUEwzSFVrMFFWU2NyVTdEeHQ0R29zOG4wZkNWcndPU3dhcnFBTnN6d1pOUW5oTWs5QVk1aDh6a0FIVkpRS20wSUF5Uk9XUDA0bEFJamlBLWtORUpZdndTdUpxTnl2dXVESGMyNFVtVFhacWVScnN2VUluLTdTbWxPRDRBNmgyX3g0aXBGOEhCNHQ2T3JCQzBR?oc=5",
-      "pub_date": 1790692200.0,
-      "article_url": "https://www.wsj.com/finance/currencies/hanetf-launches-first-euro-hedged-bitcoin-fund-0f057d2e",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS3RaaXRaQTc3cHYwWFhaWmI5RUZ2bnhNa005YlRkaTZVbkY5SHZTNWptY0RPZmJSYlBuZnFFaldsekZEWnJzMEZ3NVZ1bUNZWjBEUEVja1paVTQ0UlI4N1pFT1d0YnZRTTdXX3hBUmNBZVVYcXA5WTM5Q1hmb01EX3FTQ00wc2prc05mYWQzTHp2VURkYlFqSzVTdnUxN1Q3bUlfd2lwYVo2RU0tRWZmdnJsWTJzZTR4bGtCclJ5cE1mVTNfTWFmdWpINWN1bkhjMlNKMkQ2WkJoVmFBUDdsSkVlQlF2Y3A0aXR1b1htbTE?oc=5",
+      "pub_date": 1790670360.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNQR3hCWUVVc2tzREJiMDMxOWlubDRMd0V6ZE4wV0toUEFhbnJ6cjgxTm5iYlFJU09JWWJ1NTVsdUpfcGpoTk16QWFRekwweTJtM0ZWU1dTNXRqSWx1dnR2bGs1NjVleW01aTZTcTdXb1pXOVdSdlc1Z05EZXBrMzlKUVBaWWVsRTJ3OUFOR01ZU0s2ZEN5MFQ5RGdDM2hhajFCTXFvQQ?oc=5",
+      "pub_date": 1790774919.0,
+      "article_url": "https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409006442/image_1409006442.jpg?io=getty-c-w630",
+      "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
     },
     {
       "headline": "Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down",
@@ -83,16 +93,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin edges lower as yields climb and Robinhood targets perps traders",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVks3VkhOaHpmTk9Cb1lZdEFFQ2liTUtOQjNMRTFLYlk1MlloZENxM3JoeHl0ajN5VHJKcXRLTmEwbnV4bldiMFh0VS1BcTZydzVkUWluenhuNUZnTjh1MDZlQUN1emlfcXFTelk2RXV6WE9iN0NILTNDNzRHQ012R0k3Rk9udDZpTHBVbTRDNkwzMm5UZDhHRDk1QUpDVWl6SkNBSlVIUU5mM2NXWmVWR29nQ3dDNVctMDg2Uw?oc=5",
-      "pub_date": 1790763096.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
-      "description": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps."
     },
     {
       "headline": "Bitcoin steadies as soft PCE cools October Fed rate hike bets",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-30T21:15:15.624054+00:00"
+  "fetched_at": "2026-10-01T00:42:10.097594+00:00"
 }
