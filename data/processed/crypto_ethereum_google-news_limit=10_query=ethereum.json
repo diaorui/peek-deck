@@ -16,7 +16,7 @@
     },
     {
       "headline": "MetaMask exits Ethereum validators after attacker diverts staking rewards",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWJna0VPYzgtRHlEU0hBSlFZMkhDS2N6SHBuenR5NE9ia2VrcUhJZ0JMejNJcHNfYzJHT05zT0VXQk10YUs5cXJiVlNENWt4TV82aUJzWkNIamU2WXZQN2pYbndnRkZab3JzUFdrdXpMV2lVS2gtdWN1bGFKZEdjcVdFNk8zS0RyWTRYczhnMVJVNzhsR19IdEZtdEwxQzdOUHlQdU9jWmZ0WmJ6RWZFcnNRSUNWd053R18ySnJrX21QajQyb0kwR2VwMA?oc=5",
       "pub_date": 1790839843.0,
@@ -26,7 +26,7 @@
     },
     {
       "headline": "BMNR Stock Forms Golden Cross For First Time Since Bitmine\u2019s Ethereum Pivot Rally",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON05EM1IweXVtTzEySDJpMk1naFhHNUlZeTlPeG5BYV8xMlZ2Z1BkS19aLWUzWTJpWE9FSFdqcWxJSVk3OGlIYXd5ZlBWSE5EOTdyR3prS09xU1dtUnI4Q01ITjBkU1djYXJ5NXlTMVZXMmxrbVNGZjQzRmdhT0xrTVlxNEVKZ0QwQkJDdncwbmw0WjZzYWxBb2lR?oc=5",
       "pub_date": 1790787885.0,
@@ -36,13 +36,23 @@
     },
     {
       "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
-      "source": "theblock.co",
+      "source": "The Block",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGt0bVFseEw2SmZwX0hhUmRyREtVLXVlc3hRTElfd05BaTlJZk5JQmZPLTJBeVZkcWhabFAzTzR0anIzTlZEMmNlSUtHV0FJVjVQMC16ekFhZjlEUU5ubGt2N1BwOVZtNVFDTkJFdEZUeEx4R014MExzcEFsOFVVdTlRdXJwZHpPRTBmaFlhQkg2MndFdkNqdTJ6OUNpM0JiLVZ1WFg3dVdYVllLMC05dFEzemE1RDFwX2ppWjJnd3ZNWTJP?oc=5",
       "pub_date": 1790871443.0,
       "article_url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
       "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
+    },
+    {
+      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
+      "pub_date": 1790831400.0,
+      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
+      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
     },
     {
       "headline": "Current price of Ethereum for Sept. 30, 2026",
@@ -66,7 +76,7 @@
     },
     {
       "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
-      "source": "24/7 Wall St.",
+      "source": "247wallst.com",
       "source_url": "https://247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjZzemhVaUlTeHlnaVNPNHh4X1FWQVJTWF9ncENJSEhTTWF2U0xSY0gzSWxXaGJZTzZwSlRHWjlJWl84S3pKaDZzanJMQkZ3SHZfN19SSjRXV2F1WW1UdVZPVk1QQXk0UFU5d3VaRjUzejF0NGdGTlRYS2NNcVZ6ZFBVMXg2OHN0S0MyRnhIQ3BTcnFqalVSeWhuZFdUYURidWJmQTZmZG1SbVZmUzlNeW91QkZ4NWFXc2FzMzJn?oc=5",
       "pub_date": 1790719800.0,
@@ -85,18 +95,8 @@
       "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
     },
     {
-      "headline": "Smart Contracts Without Ethereum Exist - And They Can Be Easier",
-      "source": "HackerNoon",
-      "source_url": "https://hackernoon.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTi03cUJFV2ZZUjNNSWR1M1JsMHRsSS1oclh1RE9lN1hUSXhOZUQ4LXo0VE5ZS1hRdkV1a2pWZ3pQZnpHYlJqSkVrenh1SjZJT0NJX3NZZEFWOTBkaWdyOGh2cmVtb0RHei1ZLXZONEVJWDM4VnZFZzNZR3Noa2RnaXBobkd0SEw5MERXZQ?oc=5",
-      "pub_date": 1790886835.0,
-      "article_url": "https://hackernoon.com/smart-contracts-without-ethereum-exist-and-they-can-be-easier",
-      "image": "https://hackernoon.imgix.net/images/AO3i53agltRgq8NH0cq0AaViIh42-95b38rv.png",
-      "description": "Curious about smart contracts without Ethereum? Discover simpler alternatives for automated agreements and decentralized apps."
-    },
-    {
       "headline": "Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered",
-      "source": "Benzinga",
+      "source": "benzinga.com",
       "source_url": "https://www.benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1RkaTJXQkhteXJwamVxTXoxeF9wUDhxN3YzNnA3bkd1Z1NLNmdWb2xCWm9nNkFncmxXTFBYekJWS01oNXhWOVY1aHJBU2loNUNqbU96dEI3OE9XdHN2RXZ6bTZPVm5Ib2hRTHhka3E1NjlKZmhPQ1A3VC1WSUJHMWRXaktpZ3Zrem05MFFsWlhmNjl0LU1BWWwzR0RNLTBIbWxxTFlMT1pHVWRiS190dGhld1h3cmJRNEpVdFNVVVZpdFpQX1RiNjhVaUJ5UQ?oc=5",
       "pub_date": 1790788174.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-01T23:43:13.066688+00:00"
+  "fetched_at": "2026-10-02T04:25:29.332126+00:00"
 }
