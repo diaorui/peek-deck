@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7293,
+      "stars": 7305,
       "stars_display": "7.3k",
-      "forks": 2218,
+      "forks": 2222,
       "forks_display": "2.2k",
       "language": "TypeScript",
       "topics": [],
@@ -24,10 +24,10 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 5551,
+      "stars": 5582,
       "stars_display": "5.6k",
-      "forks": 291,
-      "forks_display": "291",
+      "forks": 295,
+      "forks_display": "295",
       "language": "Swift",
       "topics": [],
       "updated_at": "2026-10-01T23:28:54Z"
@@ -56,9 +56,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 4637,
-      "stars_display": "4.6k",
-      "forks": 1287,
+      "stars": 4720,
+      "stars_display": "4.7k",
+      "forks": 1303,
       "forks_display": "1.3k",
       "language": "TypeScript",
       "topics": [
@@ -87,28 +87,6 @@
       "updated_at": "2026-09-24T11:10:32Z"
     },
     {
-      "full_name": "shadcn-ui/lint",
-      "name": "lint",
-      "owner": "shadcn-ui",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
-      "url": "https://github.com/shadcn-ui/lint",
-      "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2993,
-      "stars_display": "3.0k",
-      "forks": 59,
-      "forks_display": "59",
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "ai",
-        "design",
-        "design-system",
-        "design-tools"
-      ],
-      "updated_at": "2026-09-22T11:30:38Z"
-    },
-    {
       "full_name": "jarrodwatts/jev-trader",
       "name": "jev-trader",
       "owner": "jarrodwatts",
@@ -116,10 +94,10 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2730,
+      "stars": 2732,
       "stars_display": "2.7k",
-      "forks": 516,
-      "forks_display": "516",
+      "forks": 517,
+      "forks_display": "517",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-17T02:48:22Z"
@@ -132,10 +110,10 @@
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "url": "https://github.com/feder-cr/dots",
       "preview_image": "https://opengraph.githubassets.com/746b308199cdd66eeea2e84890b1c3b6ee55b5e0c55a262bba224baad364e37f/feder-cr/dots",
-      "stars": 2371,
+      "stars": 2400,
       "stars_display": "2.4k",
-      "forks": 416,
-      "forks_display": "416",
+      "forks": 419,
+      "forks_display": "419",
       "language": "Python",
       "topics": [
         "ai-agent",
@@ -154,10 +132,10 @@
       "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
       "url": "https://github.com/yibie/awesome-jev",
       "preview_image": "https://opengraph.githubassets.com/a43c1377e0572afde6496312274b4b4c589a114d0664c492979061837aa54686/yibie/awesome-jev",
-      "stars": 2062,
+      "stars": 2068,
       "stars_display": "2.1k",
-      "forks": 309,
-      "forks_display": "309",
+      "forks": 312,
+      "forks_display": "312",
       "language": "Python",
       "topics": [
         "awesome",
@@ -165,7 +143,7 @@
         "jev",
         "llm"
       ],
-      "updated_at": "2026-10-01T19:18:16Z"
+      "updated_at": "2026-10-01T23:58:53Z"
     },
     {
       "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
@@ -188,12 +166,28 @@
         "ai-interview-questions"
       ],
       "updated_at": "2026-09-29T04:42:47Z"
+    },
+    {
+      "full_name": "hydra-db/open-glean",
+      "name": "open-glean",
+      "owner": "hydra-db",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/244433600?v=4",
+      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "url": "https://github.com/hydra-db/open-glean",
+      "preview_image": "https://opengraph.githubassets.com/5398a1821a416e01902363c45b57b30bfdb4e5b4be051fcb8c619e5d1dbc2fc3/hydra-db/open-glean",
+      "stars": 1553,
+      "stars_display": "1.6k",
+      "forks": 514,
+      "forks_display": "514",
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-10-01T04:42:59Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2026-09-01",
+  "search_query": "ai created:>2026-09-02",
   "days": 30,
   "limit": 10,
-  "total_count": 488778,
-  "fetched_at": "2026-10-01T23:42:49.975748+00:00"
+  "total_count": 474419,
+  "fetched_at": "2026-10-02T04:25:10.734610+00:00"
 }
