@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-01T23:43:26.712047+00:00'
+updated: '2026-10-02T04:25:39.116010+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 01, 2026 at 23:43 UTC  
+**Last Updated:** October 02, 2026 at 04:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +0.5%  
-**30d:** +13.2%  
-**90d:** +52.0%  
-**1y:** -39.7%  
+**24h:** +0.6%  
+**7d:** +1.4%  
+**30d:** +9.1%  
+**90d:** +53.3%  
+**1y:** -39.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.33B
+**Market Cap:** $333.46B
 Rank #2
 
-**Circulating Supply:** 122,095,846 ETH
+**Circulating Supply:** 122,098,690 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.3%
+-44.8%
 
 **All-Time Low:** $0.43
-+624789.4%
++630457.1%
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The cryptographic world computer | Vitalik](https://www.reddit.com/r/ethereum/comments/1ws2z7z/the_cryptographic_world_computer_vitalik/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html) • 3d ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html) • 4d ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge...
 
-ethereum.org • 4h ago
+ethereum.org • 9h ago
 
 ---
 
@@ -160,7 +160,7 @@ ethereum.org • 4h ago
 
 An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.
 
-coindesk.com • 16h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ coindesk.com • 16h ago
 
 The last time the 50-day line crossed above the 200-day was more than a year ago, when the company pivoted to buying Ethereum.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -176,7 +176,15 @@ finance.yahoo.com • 1d ago
 
 Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
 
-theblock.co • 7h ago
+The Block • 12h ago
+
+---
+
+**[MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)**
+
+MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat.
+
+The Hacker News • 23h ago
 
 ---
 
@@ -192,7 +200,7 @@ Fortune • 1d ago
 
 The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
 
-Decrypt News • 11h ago
+Decrypt News • 16h ago
 
 ---
 
@@ -200,7 +208,7 @@ Decrypt News • 11h ago
 
 Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?
 
-24/7 Wall St. • 2d ago
+247wallst.com • 2d ago
 
 ---
 
@@ -212,19 +220,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Smart Contracts Without Ethereum Exist - And They Can Be Easier](https://hackernoon.com/smart-contracts-without-ethereum-exist-and-they-can-be-easier)**
-
-Curious about smart contracts without Ethereum? Discover simpler alternatives for automated agreements and decentralized apps.
-
-HackerNoon • 3h ago
-
----
-
 **[Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered](https://www.benzinga.com/crypto/cryptocurrency/26/09/62087026/ethereum-based-stablecoin-issuer-ena-could-surge-600-standard-chartered)**
 
 Standard Chartered sees Ethena’s ENA reaching $2 by 2028, implying 614% upside and gains ahead of Bitcoin and Ethereum.
 
-Benzinga • 1d ago
+benzinga.com • 1d ago
 
 ---
 
@@ -238,37 +238,17 @@ Tom Lee says the bull run is officially on and Uptober is here, with a path to $
 
 📺 Paul Barron Network
 
-👁️ 46K • 👍 1K • 💬 165 • ⏱️ 12:18 • 5h ago
+👁️ 74K • 👍 2K • 💬 178 • ⏱️ 12:18 • 10h ago
 
 ---
 
-**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
+**[BITCOIN &amp; CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VcJqDJqq8AU)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BITCOIN & CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 3K • 👍 131 • 💬 14 • ⏱️ 19:58 • 7h ago
-
----
-
-**[🔥 Ethereum Is Waking Up - ETH Crypto Analysis](https://www.youtube.com/watch?v=pfdpDbYgAnM)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 752 • 👍 21 • 💬 13 • ⏱️ 10:17 • 3h ago
-
----
-
-**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
-
-Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 26K • 👍 2K • 💬 431 • ⏱️ 19:06 • 12h ago
+👁️ 2K • 👍 154 • 💬 39 • ⏱️ 23:33 • 3h ago
 
 ---
 
@@ -278,7 +258,47 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 📺 Crypto Archie
 
-👁️ 3K • 👍 49 • 💬 8 • ⏱️ 5:39 • 1d ago
+👁️ 3K • 👍 51 • 💬 8 • ⏱️ 5:39 • 1d ago
+
+---
+
+**[🔥 Ethereum Is Waking Up - ETH Crypto Analysis](https://www.youtube.com/watch?v=pfdpDbYgAnM)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 2K • 👍 61 • 💬 9 • ⏱️ 10:17 • 8h ago
+
+---
+
+**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
+
+Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 28K • 👍 2K • 💬 446 • ⏱️ 19:06 • 17h ago
+
+---
+
+**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 167 • 💬 12 • ⏱️ 19:58 • 12h ago
+
+---
+
+**[Ethereum: I Sold at a LOSS.. Then Bought It Back!!](https://www.youtube.com/watch?v=yAjokNP-Qpg)**
+
+FeeDrip (this video's sponsor) - part of your trading fees back, paid daily in USDT, no API keys https://marzell.org/feedrip ...
+
+📺 Marzell Crypto
+
+👁️ 234 • 👍 6 • 💬 1 • ⏱️ 3:13 • 6h ago
 
 ---
 
@@ -288,7 +308,7 @@ BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watc
 
 📺 McNallie Money
 
-👁️ 1K • 👍 60 • 💬 19 • ⏱️ 18:53 • 3h ago
+👁️ 1K • 👍 102 • 💬 12 • ⏱️ 18:53 • 8h ago
 
 ---
 
@@ -298,17 +318,7 @@ FeeDrip (this video's sponsor) - part of your trading fees back, paid daily in U
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 14 • 💬 4 • ⏱️ 3:18 • 10h ago
-
----
-
-**[Ethereum Breaks $5K, Then $16K?](https://www.youtube.com/watch?v=zsEd9g5ou2A)**
-
-Once Ethereum breaks $5K, I think the FOMO is going to be unlike anything we've seen. $5K is the level that matters. It's a big ...
-
-📺 Crypto Archie
-
-👁️ 332 • 👍 18 • ⏱️ 1:01 • 3h ago
+👁️ 1K • 👍 15 • 💬 4 • ⏱️ 3:18 • 15h ago
 
 ---
 
@@ -318,17 +328,7 @@ BREAKING WALL STREET IS COMING! $10000 ETHEREUM CALL?! XRP MILESTONE COULD SEND 
 
 📺 CryptoWendyO
 
-👁️ 18K • 👍 561 • 💬 22 • ⏱️ 30:38 • 1d ago
-
----
-
-**[POV: You Tried To Live Off Your Ethereum For One Day](https://www.youtube.com/watch?v=LbbQyv0KqnM)**
-
-POV: you tried to live off your Ethereum for one day. Tap the link in my bio to see how we actually use crypto, for a dollar a month.
-
-📺 Alexander Lorenzo
-
-👁️ 1K • 👍 56 • 💬 15 • ⏱️ 0:34 • 4h ago
+👁️ 18K • 👍 563 • 💬 22 • ⏱️ 30:38 • 1d ago
 
 ---
 
