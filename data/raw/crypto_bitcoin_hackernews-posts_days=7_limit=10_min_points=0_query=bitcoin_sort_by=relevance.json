@@ -33,6 +33,20 @@
       "site_name": "BitcoinAI.Pro"
     },
     {
+      "title": "Best Bitcoin Commercial",
+      "url": "https://twitter.com/bramk/status/2105780416141738076",
+      "hn_url": "https://news.ycombinator.com/item?id=49928600",
+      "author": "cft",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-02T00:34:23Z",
+      "object_id": "49928600",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2105693960203030528/img/e0yYPcsaGW6czRPD?format=webp&name=large",
+      "description": "Best Bitcoin commercial I\u2019ve recently seen",
+      "favicon": "https://twitter.com/apple-touch-icon.png",
+      "site_name": "X (formerly Twitter)"
+    },
+    {
       "title": "Show HN: Shielded Bitcoin \u2013 private payments on Bitcoin, proven in the browser",
       "url": "https://shielded.bitcoin.pe/",
       "hn_url": "https://news.ycombinator.com/item?id=49859702",
@@ -61,7 +75,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 4,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-01T23:42:52.056217+00:00"
+  "fetched_at": "2026-10-02T04:25:15.013035+00:00"
 }
