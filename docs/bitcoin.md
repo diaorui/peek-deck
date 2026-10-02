@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-02T10:40:13.534348+00:00'
+updated: '2026-10-02T16:31:42.826371+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 02, 2026 at 10:40 UTC  
+**Last Updated:** October 02, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,223.70
+### $85,032.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** +2.3%  
-**30d:** +6.3%  
-**90d:** +35.8%  
-**1y:** -29.3%  
+**24h:** +0.4%  
+**7d:** +0.9%  
+**30d:** +4.8%  
+**90d:** +33.9%  
+**1y:** -30.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1735.96B
+**Market Cap:** $1712.23B
 Rank #1
 
-**Circulating Supply:** 20,092,350 BTC
+**Circulating Supply:** 20,092,434 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-32.4%
 
 **All-Time Low:** $67.81
-+127313.4%
++125571.7%
 
 ---
 
@@ -87,7 +87,7 @@ don't be sheep
 
 **[I turned the Bitcoin price into a live battlefield. Order books deploy armies, price moves the front line, whale trades shift momentum, and liquidations trigger explosions.](https://www.reddit.com/r/Bitcoin/comments/1wt7vyv/i_turned_the_bitcoin_price_into_a_live/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin is the biggest honeypot on the internet, yet attackers are unable to cra
 
 September 28, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1665-btc-and-repurchases-152-million-of-strc_09-28-2026) • 2d ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1665-btc-and-repurchases-152-million-of-strc_09-28-2026) • 3d ago
 
 ---
 
@@ -119,7 +119,7 @@ September 28, 2026
 
 always sceptical but THIS IS GOOOOOOD
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/300k-bitcoin-by-2029-fidelity-strategists-bull-call-collides-with-2007-high-yields/) • 2d ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/300k-bitcoin-by-2029-fidelity-strategists-bull-call-collides-with-2007-high-yields/) • 3d ago
 
 ---
 
@@ -161,53 +161,57 @@ reuters.com • 1d ago
 
 ---
 
-**[Here's What a $500 Investment in Bitcoin Could Be Worth by 2030](https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/)**
+**[Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%](https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60)**
 
-If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.
+Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk.
 
-The Motley Fool • 4h ago
-
----
-
-**[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand?srnd=all)**
-
-Bloomberg.com • 1h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Robinhood Will Trade Stocks 24/7 Like Crypto. Does Bitcoin Lose Its Weekend Edge?](https://finance.yahoo.com/markets/crypto/articles/robinhood-trade-stocks-24-7-091312273.html)**
+**[Matador Technologies Holds 168 Bitcoin as Primary Treasury Asset](https://ca.finance.yahoo.com/news/matador-technologies-holds-168-bitcoin-155327110.html)**
 
-Robinhood just announced weekend stock trading, threatening to strip away one of Bitcoin's most distinctive bragging rights. But does round-the-clock availability actually protect crypto investors, or has that supposed edge always been more marketing than reality?
+Matador Technologies (MATA.V) holds 168 bitcoin as its primary treasury asset, the company said on F
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Surpasses $86,000 as More Fed Comments Ease Rate Hike Fears](https://www.moomoo.com/news/post/1000545484/bitcoin-surpasses-86000-as-more-fed-comments-ease-rate-hike)**
-
-Moomoo • 1h ago
+Yahoo! Finance Canada • 38m ago
 
 ---
 
-**[Washington’s big crypto bill is stuck. The SEC is pushing ahead anyway](https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html)**
+**[Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter](https://www.cnbc.com/2026/10/02/bitcoin-just-formed-a-golden-cross-pattern-the-crypto-is-setting-up-for-a-big-fourth-quarter.html)**
 
-The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.
+When looking for best ideas for the fourth quarter nothing jumped off the charts to me — literally — like bitcoin.
 
-CNBC • 7h ago
-
----
-
-**[Bitcoin edges higher ahead of U.S. jobs report as global bond yields surge](https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report)**
-
-Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.
-
-CoinDesk • 2h ago
+CNBC • 1h ago
 
 ---
 
 **[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
 
-TribLIVE.com • 19h ago
+TribLIVE.com • 1d ago
+
+---
+
+**[Here's What a $500 Investment in Bitcoin Could Be Worth by 2030](https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/)**
+
+If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.
+
+The Motley Fool • 10h ago
+
+---
+
+**[Bitcoin rises for third straight week on strong ETF demand](https://qz.com/bitcoin-third-weekly-gain-etf-inflows-100226)**
+
+The cryptocurrency climbed above $86,000 on Friday, capping its biggest quarter since the end of 2024
+
+qz.com • 3h ago
+
+---
+
+**[Current price of Bitcoin for Oct. 2, 2026](https://fortune.com/article/price-of-bitcoin-10-02-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2h ago
 
 ---
 
@@ -215,7 +219,7 @@ TribLIVE.com • 19h ago
 
 Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -223,7 +227,7 @@ Bitcoin Magazine • 13h ago
 
 Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up.
 
-24/7 Wall St. • 15h ago
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -239,7 +243,7 @@ These researchers found that there's a spike in Bitcoin activity around the time
 
 Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
 
-⬆️ 13 • 💬 3 • 5h ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
+⬆️ 17 • 💬 6 • 11h ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
 
 ---
 
@@ -261,7 +265,7 @@ A machine learning bitcoin model published in full: every trade, the method behi
 
 Best Bitcoin commercial I’ve recently seen
 
-⬆️ 1 • 💬 0 • 10h ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
+⬆️ 1 • 💬 0 • 15h ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
 
 ---
 
@@ -275,7 +279,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 **[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
 
-⬆️ 2 • 💬 0 • 4d ago
+⬆️ 2 • 💬 0 • 5d ago
 
 ---
 
@@ -283,63 +287,53 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ## YouTube Videos: "bitcoin"
 
-**[You Need To SIT DOWN Before Watching This Crypto Video... [Bitcoin and Altcoins WILL MAKE MILLIONS]](https://www.youtube.com/watch?v=k_LEFBwmfZM)**
+**[Bitcoin Uptober Rally Is Just Getting Started](https://www.youtube.com/watch?v=BgtIaTYOBLw)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 Tyler S
+📺 CryptosRUs
 
-👁️ 17K • 👍 655 • 💬 83 • ⏱️ 10:55 • 13h ago
-
----
-
-**[Rising Yields Can’t Stop Bitcoin: Here’s Why](https://www.youtube.com/watch?v=wfPQ4Smzme0)**
-
-The bond market had its worst quarter since 1994. Bitcoin had its best. The ten-year Treasury yield rose 87 basis points over the ...
-
-📺 Yahoo Finance
-
-👁️ 21K • 👍 376 • 💬 154 • ⏱️ 14:53 • 17h ago
+👁️ 8K • 👍 572 • 💬 12 • ⏱️ 1:10:31 • 1h ago
 
 ---
 
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=P12ZcW9XBxo)**
+**[BITCOIN - THE UNTHINKABLE IS HAPPENING](https://www.youtube.com/watch?v=c0xCjaBVLpA)**
 
-Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Road To $1 Million USD
+📺 My Financial Friend
 
-👁️ 9K • 👍 249 • 💬 25 • ⏱️ 8:23 • 12h ago
-
----
-
-**[It’s Going PARABOLIC! This Is Bitcoin’s $1 Million Catalyst - Jordi Visser](https://www.youtube.com/watch?v=NTYYe0asJ6o)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 106 • 💬 20 • ⏱️ 19:42 • 11h ago
+👁️ 2K • 👍 197 • 💬 23 • ⏱️ 13:08 • 2h ago
 
 ---
 
-**[Don’t Trust Bitcoin’s Uptober Yet! [WARNING]](https://www.youtube.com/watch?v=Hu01uGCbs8g)**
+**[This Is NOT Altseason.](https://www.youtube.com/watch?v=gmaA4Qlrk5c)**
 
-Green September for Bitcoin is officially in the books and that has only happened 5 times since 2013. When it did, Bitcoin October ...
+Most of you are holding the wrong altcoins and wondering why you are not making money. The truth? Altseason has not even ...
 
 📺 Crypto Banter
 
-👁️ 35K • 👍 1K • 💬 33 • ⏱️ 35:12 • 20h ago
+👁️ 10K • 👍 838 • 💬 28 • ⏱️ 35:19 • 2h ago
 
 ---
 
-**[$1 Million Bitcoin SUPERCYCLE - Uptober Just Changed Everything](https://www.youtube.com/watch?v=IC4pLPy62ZY)**
+**[Risk On Continues for Bitcoin and Altcoin Market as XRP, ETH, BTC &amp; Alts Close Quarter Positive](https://www.youtube.com/watch?v=fDd88Hksfd8)**
 
-Bitcoin just delivered its strongest Q3 since 2017 as Uptober officially begins, Wall Street raises Bitcoin targets, U.S. money supply ...
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
 
-📺 Bitcoin News Alerts
+📺 Blockchain Backer
 
-👁️ 5K • 👍 264 • 💬 172 • ⏱️ 14:47 • 12h ago
+👁️ 13K • 👍 2K • 💬 3 • ⏱️ 19:36 • 4h ago
+
+---
+
+**[Bitcoin Is Breaking Out. Are Altcoins the Better Buy Now?](https://www.youtube.com/watch?v=VHCDMCPPPaA)**
+
+Bitcoin is breaking out, and altcoins look cheap against it again. I walk through why Bitcoin moved, the levels on the way to the ...
+
+📺 VirtualBacon
+
+👁️ 4K • 👍 263 • 1h ago
 
 ---
 
@@ -349,37 +343,47 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 374 • 💬 53 • ⏱️ 11:26 • 6h ago
+👁️ 14K • 👍 574 • 💬 64 • ⏱️ 11:26 • 12h ago
 
 ---
 
-**[Bitcoin Consolidates. WEN FISH? Live Trading](https://www.youtube.com/watch?v=MURgcTJ3fsY)**
+**[Bitcoin BREAKS $86K - And The Biggest Sell Wall Just Disappeared | Stani Kulechov](https://www.youtube.com/watch?v=SprKlC_fiH4)**
 
-Zen Master JP Does Live Bitcoin Analysis every day! Wen Fish? Now. Get 30% deposit bonus with BTCC ...
+Bitcoin #Crypto #finance Bitcoin breaks above $86K ahead of the U.S. jobs report, clearing a major sell wall despite high yields ...
 
-📺 Sin City Crypto
+📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 165 • 💬 1 • ⏱️ 3:25:20 • 9h ago
-
----
-
-**[How AI Could Take Bitcoin to $1 Million | Jordi Visser](https://www.youtube.com/watch?v=g_CD71CIqlw)**
-
-I think everyone is underestimating the speed of AI.” Jordi Visser joins the show to discuss why he believes AI could trigger a ...
-
-📺 What Bitcoin Did
-
-👁️ 51K • 👍 1K • 💬 132 • ⏱️ 1:19:42 • 1d ago
+👁️ 6K • 👍 375 • 💬 67 • ⏱️ 50:17 • 2h ago
 
 ---
 
-**[Mark Moss: The Bitcoin Endgame - BTC to $1 Million by 2030](https://www.youtube.com/watch?v=e8GZZe4v2AM)**
+**[The Last Time This Happened, Price Went Insane 📈🤯 #shorts](https://www.youtube.com/watch?v=Y9uJDOXldcQ)**
 
-The Fed just raised rates, yet Bitcoin keeps climbing. Mark Moss, host of the Market Disruptors podcast, explains why he thinks ...
+DOMINATE THE BOTTOM ⬇️JOIN THE WAITLIST ⬇️ https://cryptocrewuniversity.com/mr5 Subscribe for Bitcoin and crypto ...
 
-📺 Bitcoin Magazine
+📺 Crypto Crew University
 
-👁️ 45K • 👍 637 • 💬 31 • ⏱️ 29:02 • 1d ago
+👁️ 544 • 👍 32 • 💬 2 • ⏱️ 0:30 • 31m ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 73)](https://www.youtube.com/watch?v=vMz4H9OK_fs)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 69K • 👍 2K • 💬 76 • ⏱️ 2:54 • 14h ago
+
+---
+
+**[Bitcoin Just Broke the Bear Market! But There’s a Problem?](https://www.youtube.com/watch?v=wsX7BBEin-4)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Bitcoin just broke its bearish ...
+
+📺 Bankless
+
+👁️ 7K • 👍 162 • 💬 18 • ⏱️ 59:56 • 6h ago
 
 ---
 

@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5",
-      "pub_date": 1790895180.0,
-      "article_url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China\u2019s Push into A.I. Has Led to a Problem: Too Much Usage",
+      "headline": "China\u2019s Push Into A.I. Has Led to a Problem: Too Much Usage",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUVhoQVNBcExzYkF5TlZFMDNiMml6U2FsTkVsUm1wRV9WVGFwaGh1SWZjX2N0VW5aWW9kYVFIbGFLZ0lUZmVFSFp6bFEyWl9HdEUtMS1GYjF2bG10LVFJSXY4VERlNm0zZVg4eXkzcmQxUm5UY0E?oc=5",
-      "pub_date": 1790934624.0,
+      "pub_date": 1790946928.0,
       "article_url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Behind the Curtain: AI's existential legal crisis",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3QtWmxQX3hHeWszRjUtTlIyQTkyRGRDal9ENjJBNDJENUMwZlZnNWV4R1lYWjFELTNYQ3ZXWmo0WlR3LUJiT0F2WUVEYm1lWkh3OFhjZndYdVd1MXFFM2NLM1JEcW40UzgtOHI2UThaT2p1YTh0UzJPbmdTd3FLSA?oc=5",
-      "pub_date": 1790934459.0,
-      "article_url": "https://www.axios.com/2026/10/02/artificial-intelligence-ai-legal-liability",
+      "headline": "The volunteer internet sleuths hunting down rogue AI agents",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnpmM01BazRXczlXVUZaVUhCckpMa3RuMnVJMkJRME1WWU0yRW5YMktvTU02UWJCazB3V2lYeENBSnJBR0t3UWVxbjFnN2JOVVQ2N3BwVV9UelBxenFyUDFPZVA3S3BUR0xBVWVmaElOenprUlBZb1JtaHFwMnlNd0lQbEJUb2hDMnZUdTZzNlJfOEZEZVVYOHM0N0FpX2RybWVUcmxJa1RWb2pvZDBfbzYwVnoyRDRNZlI5NXN4X0ctVjg?oc=5",
+      "pub_date": 1790955444.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BH56WJ7TUQ3OHJDQM6HDKPG3JY_size-normalized.JPG&w=1440",
+      "description": "An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites."
+    },
+    {
+      "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+      "pub_date": 1790893590.0,
+      "article_url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
       "image": null,
       "description": null
     },
     {
-      "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3S3Nrd2Z0Q3ZHVnpCc01VU2NDa2hpcVk0WS1EZHVMTGtZd0tSZGw5Q295alJjeG05YXVhUEpFTElDM2NEc3NPNVZZNDhWS3gwMURVc3ZrcXU3OFdST2NYQWZRYkNlZS1hbjA5TEIwRGVWRmhWWFHSAXtBVV95cUxPSnpUWW9lVzZfYUlaX2RqbGZhSkZiODFfQkUzUEhWc3RMYzhoR2JSQmtxXzlfbnkybHVZOE9CdzBXM1R1OWVaekdWUEc1N3BDam1KcmJKZjNPY1BvaXN6cTRqbl9wY1liMGsyUlFGWTF2TXp2SmZwQnB6cFE?oc=5",
-      "pub_date": 1790935201.0,
-      "article_url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080",
-      "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" \u2014 the ability to coordinate teams of specialized agents."
+      "headline": "How much autonomy should a clinical AI agent have?",
+      "source": "Healthcare IT News",
+      "source_url": "https://www.healthcareitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVMzcWFBYlItOHNEVVZZVmx6R1lrV2hLY05kbDdBTUR2N0pSVzFaQlRtblo5c0ZTcUpKbXlNa0c2U3lRYjNZRkxmem9UM01zTmJXRjBwVy1CUXAzZHl6UlZFUE1ka0FOS3VCQkFRNjJGN0hsMGhnd0xwMWc2eXo3THo0ZXY2ODBpYkx1OG1B?oc=5",
+      "pub_date": 1790956880.0,
+      "article_url": "https://www.healthcareitnews.com/news/how-much-autonomy-should-clinical-ai-agent-have",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI blurs lines in campaign ads: \u2018People are seeing things that didn\u2019t happen\u2019",
+      "headline": "Change.com leans into AI with $100 million investment",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xM2taTVlVbm9kYkJzY2RkMVBJdHVfZWxodEZHbFR2eURvdWRUU2ZJTktTUHMzc013SjA3QWlTUldqQWpJQnprcTN6NlRRMDZvUWRaVW9obUx2OXhVUW9GTW9GdzlBZjRP?oc=5",
+      "pub_date": 1790955830.0,
+      "article_url": "https://www.axios.com/2026/10/02/changeorg-ai-100-million",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump expected to tap DNI Jay Clayton for AI czar",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9adzBNQm9UZXllb08wWURqVzhua0V2b3pIekoxMEFxNXFfbExnTldUcmlnSFRiTllKWTRtc1FVcjRUX3A3RjUwSXpyVG5wQTItYWlyZ243U0VNd3loVkZLbmp5SEVWSW9nU2xpRHhXNHJZZVYz?oc=5",
+      "pub_date": 1790954095.0,
+      "article_url": "https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump is expected to name Jay Clayton as AI czar",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTZvclFCUTZaZDVQLWphRXdtRXNUTHE1bGtUSG1JdnhyVWR6ck5fd0MtbW5LRjRnUlpGVDFCRHVGclBCM0RONXZybGUzWFo5aTZ3SHA2TjVlbkotbTVWWWE5X1hBYlNsYldqcElyTGpwVmNZcU12NTlmdkp6RWRCZQ?oc=5",
-      "pub_date": 1790935246.0,
-      "article_url": "https://www.cnn.com/2026/10/02/politics/ai-campaign-ads-disclosure-invs-vis",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/videoframe-996.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Political campaigns and groups are spending tens of millions of dollars on ads that employ AI, often without disclosing that they\u2019re using it."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqOURyempOZDNNNkFNWlVESFZBOWxNTHpqV3dzVURhaTFCbHlyMmZuQWVTaDVXZ3J6VEFmYUM1dzU3VXBfb25HanZpYmxEcmhDNjJtbEg1bWQzZ3p3NlBiWWZNaTAyanVnZVRTc0xZdkxybHJZbExHOE5qVQ?oc=5",
+      "pub_date": 1790948441.0,
+      "article_url": "https://www.cnn.com/2026/10/02/politics/jay-clayton-white-house-ai-czar",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285609634.jpg?c=16x9&q=w_800,c_fill",
+      "description": "President Donald Trump is expected to pick Jay Clayton to be the White House\u2019s new czar of artificial intelligence, two sources familiar with the discussion told CNN."
     },
     {
-      "headline": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+      "headline": "Trump to Name Jay Clayton to Serve as A.I. Czar",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjZqNkowM3k3WElwUVRaWjcxWGxPR2hBaTh0dzVtQ092LUM4NHFHWDU1X21zUEZYX3NobkhFSXJmS1FZWHBEOEFCNjZMaHgxUURwWXdwd0NOZF9LQnloaUFUaXh5VzhZOW5HSkpBMzUydEktbXFqZXNQSk83aWNlcDhWVQ?oc=5",
+      "pub_date": 1790956624.0,
+      "article_url": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "FBI nabs US tech exec accused of smuggling $300M in AI chips to China",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONURaV1hMTkVSRmU0aUZMSVFBMmpQcTJlN0h4MVp2djJSbjlzYTJuLVVONnNpd3h4a1RiZlV5Mlh2ekxsZy1FWURaZUoxbEpHdy1vNV9TV2daSWZNN1dPRVR4SjJyLW5JNDByQklfTUlkNUJ1U29YcC1GODJzOWlHUEFyUFA2UC1OTkwtMFhkTGdIOTNrQ3RmWHVoQmNWTWxCR1dNVHcySW1TbmdUVGRmX3Z0a1UyVEsyVjI3U0Y1NNIBxAFBVV95cUxONUw0R3RpZXFfc3Fmd082TEJMUHlIYkxSZThDV0htcWVWQ0xJSHVMaXhCTHR2TjBJNmxiSC1ZT2VVN0tJaFRDdkZXVnRtQ0xWZDNJWElYY0dEcy1naEVXcGU1T1lmc2xGWUFJb0xLdmY0UzFTTm1HaC1hMFFWYVhkeWRuQUY1ZnZvc1dTOFRnMzhFbFZ6ZXZZdk11eEFrZjVlaEpOMzVKQ2s2VzUzY1ZVeVEzbklDYzlweDVVS3BsY2FBODZf?oc=5",
-      "pub_date": 1790904663.0,
-      "article_url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/moonshot-ai-kimi-k3-chinese-ai-model.jpg",
-      "description": "Researcher Peter Garrigan says Moonshot AI's Kimi model was manipulated into providing instructions for biological weapons and assassination plans."
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwTFNvZUUzTWZqUXdmR0MxdVptTjVCeXJZcTAzVV9NUFp1cFo3dExsN3VxTkJ2U2V3RXluU3VmcHR3SHNsY3N4S1lGMjdKV2J2RXBTeV9B?oc=5",
+      "pub_date": 1790955228.0,
+      "article_url": "https://www.foxnews.com/video/6406122092112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c990920-2f67-45f1-a877-01822a73ba93/c2355cfa-e285-4146-b577-dbc5897e0883/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "A California tech executive is in federal custody, accused of smuggling over $300 million worth of sensitive AI processors to China. Cameras were rolling as federal surrounded 38-year-old Greg Lui as he arrived at Earthmade Computers in San Gabriel."
     },
     {
-      "headline": "Analysis | When you should use Google\u2019s AI for search \u2014 and when you should skip it",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUxoSmFjZ3BDaWd5R19PNEU5WVdfdXhIeE9JTTZTdHNFQ0xINld4aEE2VFNiZ28yVEJyMFBxVlloeGZxb1FnODNZSTlWNmlhUUFxSlMtbFhqRVFfVnFfUDNaUktqdFZOaDduaW9CeEQ5bHEwTUZIWG1UUlBFd2NaYy1YWnBickdKYXhaZzExM3RIZk0zandyQTQ1MWxtbF9jTTQ0T2Ytby1wdVFYbnBqX3pHYnVJQQ?oc=5",
-      "pub_date": 1790937182.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/01/when-you-should-use-googles-ai-search-when-you-should-skip-it/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HSJXOGNGKRGCFCE34WT5WDE67U.jpg&w=1440",
-      "description": "If you\u2019re only looking for a specific data point, scroll right past \u201cAI Overview\u201d and other search results"
-    },
-    {
-      "headline": "Google rolls out new Gemini AI model but restricts access over safety concerns",
-      "source": "theguardian.com",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGxacWxBMjBHTEdEel95dW1GOVVOX09PR3laaEVXQXZvNDBRalVNMFNDTmstQUZ2YU1fX19SaHAwZnp1UVdvS2dVeHBPbTBGU1pfYmllWmJoVFozUUZXcDdHQm9kal92dWpCaEtyVndfWFhuVkVQcEk0djRROS1VUEJFa09VOS15M0U1YVZPSHZIWDVqZVZB?oc=5",
-      "pub_date": 1790873820.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
-      "image": "https://i.guim.co.uk/img/media/fc4f1adc6ddc32b6f538a74922af3ccdbb7d7c03/305_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fd3bfd0533280674b7462672f461caa",
-      "description": "Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers"
-    },
-    {
-      "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnl0RGo0clZVWk13V2ttZGw4TlI2aTB0OTc5UzYyblgydGtBd2I4SWxqTUJ6VWtUcEhvbjdUUnRTUHJpMW0yaU5PX1VpUzRqMlVjc3RPVEQ5dk42UjJ6cDZDRE01Z2I5V1dManlFOW5DeVA3Q1VWS1Z5NzVtb1JJc2xDNmRfYWswYlRGczVXSFRxVzZyX1dJcVFXZ01xSGV6Qmpj0gGoAUFVX3lxTE9jVzM5SC1xaEVWcnkwWGpGMHFWWU9NRkR1b3c2ZFpGQlBJSGZoOEFfOGt5YzZBUXNjdmhteWgya0QxYTIwdEZTV2NrR1ZGMUhZNjRaOUlCSGJHdHNmRFQ0ZmpXRU9xNHBqVThTQlN4R3FuX3g4OVp0YmpLLVBrc0FzYU5EWXZPMHd3THRGdnF2Xy10YzFlU3hYbDRUSERfYXRfVWMxTTVlVQ?oc=5",
-      "pub_date": 1790879389.0,
-      "article_url": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
-      "description": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents."
-    },
-    {
-      "headline": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5",
-      "pub_date": 1790845726.0,
-      "article_url": "https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0pd99cn.jpg",
-      "description": "Someday we'll redesign the internet for tools like this. Until then, you're in for a wild ride."
+      "headline": "Mike Rowe warns US workforce facing \u2018problem of the decade\u2019",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkxLd09CbUJZTUVOTWQ3aVVmcHRHbmdJVlcwRHpsN3lUbG0zUjVuYTFHUktudmZuX3VIeXlfdDJ6TldObjgza1BvTkhaRm15ZnFyY19VMmcxVnFqLVVqZmViZmtPa1BXbm93bllkbFVqY3hHb0NWY1N1WGN0d3F2aDRMR19ZNzlsNm5ZetIBkgFBVV95cUxNWDNZalVsLTFDNV9VX3JiX05JRU1TdHRCTmNCTkM3WVZDWjZ2Qlg1RC11VmtWc25JSG9wcTZSSlpiUzY4SktSM0lZdVlUX0tmTEZaUldzakhuazNlTGhYekFKNGI4bkd4TEt1ODVCWVF2YmpQbUVmT2V6VDE2SU1KZUlRV1E3anFNajRMQURaRG9PZw?oc=5",
+      "pub_date": 1790852220.0,
+      "article_url": "https://www.foxbusiness.com/media/mike-rowe-warns-us-workforce-facing-problem-decade",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/mike-rowe.png?ve=1&tl=1",
+      "description": "Mike Rowe says CEOs are \"freaking out\" over the skilled labor shortage, calling the workforce crisis the \"problem of the decade\" with no easy fix."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T10:40:10.739456+00:00"
+  "fetched_at": "2026-10-02T16:31:41.197092+00:00"
 }

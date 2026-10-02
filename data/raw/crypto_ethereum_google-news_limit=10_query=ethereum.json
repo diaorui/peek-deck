@@ -15,54 +15,14 @@
       "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
     },
     {
-      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
-      "pub_date": 1790831796.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
-      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
-    },
-    {
-      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
-      "pub_date": 1790831400.0,
-      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
-      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
-    },
-    {
-      "headline": "BMNR Stock Forms Golden Cross For First Time Since Bitmine\u2019s Ethereum Pivot Rally",
+      "headline": "Bitcoin and ethereum prices today, Thursday, October 1, 2026: Not much price movement this morning, but Citigroup says that will change",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON05EM1IweXVtTzEySDJpMk1naFhHNUlZeTlPeG5BYV8xMlZ2Z1BkS19aLWUzWTJpWE9FSFdqcWxJSVk3OGlIYXd5ZlBWSE5EOTdyR3prS09xU1dtUnI4Q01ITjBkU1djYXJ5NXlTMVZXMmxrbVNGZjQzRmdhT0xrTVlxNEVKZ0QwQkJDdncwbmw0WjZzYWxBb2lR?oc=5",
-      "pub_date": 1790787885.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/bmnr-stock-forms-golden-cross-170445383.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2f18883d9eea041c4d77d8ccf115a9948b014b377be82ada178be6f9e47b41d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fe9d62a97e8a785dd489e1a0118225f7c",
-      "description": "The last time the 50-day line crossed above the 200-day was more than a year ago, when the company pivoted to buying Ethereum."
-    },
-    {
-      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGlsRXNfYm00UlRDQ19sWGtxTTdpczZWcHVMcWR3UWhDczM0ellRSjB5NkRLY01VLU5PdHlGRTF5amlzX3FuaV9UZWY3Vk4ycGZGNHFkMVFwOTA1QmZOaFhSY2hoWWNPVzNZV1I2WC1LVEt5TlZ0bWxTZzM5R1Nyb05PMFlOSWNvT2Vjcng5aw?oc=5",
-      "pub_date": 1790900520.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-      "description": "The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February."
-    },
-    {
-      "headline": "Current price of Ethereum for Sept. 30, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RLVk1dkxXYnlHZ3dzbUtKVFczWm5GbVVlTWRyaEd3QVlyUFdLQ3pUNE5JeF96VkpLR1dzRHRuSHJ1Mkkydl9lUGRtdm91dEUweHlBVXUwSTIyZjU4Znd4VmtpalVVeWtK?oc=5",
-      "pub_date": 1790782440.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-30-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-30.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVk5RQnpncFltRVhHLWduMDd5TEZheDRPZ01xSWV6NVJDc1pfc2lYb1F0YzlGVWlWeG9QQnp0SWw4UnpTNzk1MmFnSE9fb0lybjAwbzl5MXgtMzRlVk9pUnVyM3NyYTJXREREUWNLVEpNdXlOeFVMRGNFbFNzNGxvdUd5azdBWkJvcXd2di1VUlF5OE5ET1FweEZMQm8wNWZYbklNeTNJUEpUSFVQcXVXclZ2ZVdLTjlBVW1jd1d6blplSUlxNWZDVFB0dHdXWXozaTdsZFJ0UlRtUlo5V0J4b0kwcGN6NXJMMDR0OVRBM21iYWxXWTZsY0Z0UmtvdzRxcGJSMUJGbUp6OGdpSWJUN3ZoSmFRaEoxdEZzVjBJMHlTQ3JBTk5taXVqY1AwY1k?oc=5",
+      "pub_date": 1790854393.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-1-2026-not-much-price-movement-this-morning-but-citigroup-says-that-will-change-113313201.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg",
+      "description": "Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET."
     },
     {
       "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
@@ -75,36 +35,76 @@
       "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
     },
     {
-      "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNQR3hCWUVVc2tzREJiMDMxOWlubDRMd0V6ZE4wV0toUEFhbnJ6cjgxTm5iYlFJU09JWWJ1NTVsdUpfcGpoTk16QWFRekwweTJtM0ZWU1dTNXRqSWx1dnR2bGs1NjVleW01aTZTcTdXb1pXOVdSdlc1Z05EZXBrMzlKUVBaWWVsRTJ3OUFOR01ZU0s2ZEN5MFQ5RGdDM2hhajFCTXFvQQ?oc=5",
-      "pub_date": 1790774919.0,
-      "article_url": "https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409006442/image_1409006442.jpg?io=getty-c-w630",
-      "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
+      "headline": "BTC Price Target: Citi Raises Bitcoin Forecast To $113K, Ethereum Target To $3,028 As ETF Inflows Return",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ1hyTjY1RFRLZlpGeGVSLW1jRldUcVBpcHUtZEpyQTlpWFhVNlR4d3RDTTF6am52Ym9qY0k5OGpNeXFXR3RnSjRDQ3RCQzFkVTBibXJ4aXJuNDJOV2RkUjBJWmVOOXNfYUoyR1VKVGpUTjhzYVF3ZnVEYWR3OUhaTkFHWGNrT3c4Y2l2Nm5UQm92SjNrR2dVcC1TY19qLWFjampxRzZnSWczQlpKN0wxVDBXX1Y2aXhZR3RwYnlCeGJEWl9pOWRmVFQwVzU1N0VfQjZxQU1BaWxxdkVhSkYweVllNllMZE9iNFo5VnNRYlU5b2s?oc=5",
+      "pub_date": 1790852560.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:35c4c52d4094b:0-btc-price-target-citi-raises-bitcoin-forecast-to-113k-ethereum-target-to-3-028-as-etf-inflows-return/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin (BTC) and Ethereum (ETH) edged higher in early morning trade on Thursday, with Citigroup raising its 12-month price targets for both leading cryptocurrencies, pointing to stronger crypto market activity, a more supportive macroeconomic backdrop and a resumption of exchange-traded fund inflo\u2026"
     },
     {
-      "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjZzemhVaUlTeHlnaVNPNHh4X1FWQVJTWF9ncENJSEhTTWF2U0xSY0gzSWxXaGJZTzZwSlRHWjlJWl84S3pKaDZzanJMQkZ3SHZfN19SSjRXV2F1WW1UdVZPVk1QQXk0UFU5d3VaRjUzejF0NGdGTlRYS2NNcVZ6ZFBVMXg2OHN0S0MyRnhIQ3BTcnFqalVSeWhuZFdUYURidWJmQTZmZG1SbVZmUzlNeW91QkZ4NWFXc2FzMzJn?oc=5",
-      "pub_date": 1790719800.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/",
-      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1406692748-huge-licensed-scaled.jpg",
-      "description": "Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?"
+      "headline": "Bitcoin and ethereum prices today, Friday, October 2, 2026: Crypto prices surging ahead of September jobs report",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOejBBeFlic2k3SVRqMEVudVdfa3pZSVp1UnNyd05Qc3hvdUdpWmd0azhBTVNQNENqdTJWVmNaV1luUHJKMGZzR3VvRS03Q0xXMmVGMlNlb2NPSEJNSGQ2Ym5vbHVCSlNrUVRjNlNHNG5tWW1HQ0NCNTVyQ2Y1Y0E5ZFBjeFlGX3QzaWRnREltVlVSdVdQU1dtNWlRQlVYbmxOT3JLWTlYYlJfRnd4SXhadnNmTkxudFNGUVdjSUF3dmZKWDRmajQycWM5eVprQ2JFTFF5Qkd2c1cwb2x5ZFNfOEEzTXczVXN2SHNVUkZVQ1ptQW01UnNJWFJiWlR6OE9pcnBmdUp0UjBTc0NfZ3BrdENn?oc=5",
+      "pub_date": 1790940599.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-october-2-2026-crypto-prices-surging-ahead-of-september-jobs-report-112959413.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
+      "description": "Bitcoin opened at $84,849.93 on Friday, October 2, 2026, up 1.6% from Thursday's open. As of 7:25 a.m. ET this morning, the price of bitcoin jumped to $86,459.67. Ethereum opened at $2,705.58 today, up 0.8% from Thursday's opening price. The price of ethereum moved up to $2,747.05 as of 7:25 a.m. ET."
     },
     {
-      "headline": "New Crypto: Remittix Sets Final Presale Price at $0.46 as Ethereum Price Prediction Explores $5,000 and Bittensor Details V461 Upgrade",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYnpCdUJ3aXRjOHhGZG9kS0RxVmN3bFMwUWVvSkhzdXRNcGdoZXhfOGFkZDN5T1R3aWF6VGczM2puMG5fUWNKV18wV2txa3VYMFhId0dJU2tqMHBXUGxsTmdBTmRHQ2FnU1pBSTFMUnZiY3N1QXoweVdkNldleHVXbG1sRzZGcGQ3UE4wSHduekJtN1k5eTRGN2gwQlRFc1pOdUlsWjdMVzVUZmI0WTdlNi05VlBqaUkyV0EzMXpoWERZUWt1Y185Y21vOGtkSkt4TFdnLUk1TThyVVpvWmNVV0FtV1ZjSGlsUURTRFFCYkttTjExZUNoTXU5VlFyX1BKM3ZMWHI3a0czWk95Sm5CM1owemY0VVV4dlE?oc=5",
-      "pub_date": 1790867628.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-sets-final-presale-price-at-0-46-as-ethereum-price-prediction-explores-5-000-and-bittensor-details-v461-upgrade-1036589937",
-      "image": "https://ml.globenewswire.com/Resource/Download/930e0371-72d1-4958-b91f-e79ada9a43e7/remittix.png",
-      "description": "MAJURO, Marshall Islands, Oct.  01, 2026  (GLOBE NEWSWIRE) -- Remittix has set $0.46 as the price of its final RTX presale stage ahead of the toke..."
+      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
+      "pub_date": 1790831400.0,
+      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
+      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
+    },
+    {
+      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
+      "pub_date": 1790831796.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
+      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
+    },
+    {
+      "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGt0bVFseEw2SmZwX0hhUmRyREtVLXVlc3hRTElfd05BaTlJZk5JQmZPLTJBeVZkcWhabFAzTzR0anIzTlZEMmNlSUtHV0FJVjVQMC16ekFhZjlEUU5ubGt2N1BwOVZtNVFDTkJFdEZUeEx4R014MExzcEFsOFVVdTlRdXJwZHpPRTBmaFlhQkg2MndFdkNqdTJ6OUNpM0JiLVZ1WFg3dVdYVllLMC05dFEzemE1RDFwX2ppWjJnd3ZNWTJP?oc=5",
+      "pub_date": 1790871443.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
+      "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
+    },
+    {
+      "headline": "Current price of Ethereum for Oct. 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MmJaUGJBRTVJR0pVaXAyWUFZZ2VPSFhUVWxqN1Vudnh6MGhwTFhZOVMxQUhEQjlxaHZXQ0J4NmhQaVM0SHRLdHZYeEdfaGx0bjlEVjlvWF85SlBTWTJKSzBTNGcwU3h3?oc=5",
+      "pub_date": 1790948160.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Oct-2.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTdTb1FkOXVDak1keW5QVUxNdzRFVTlEczVtVjNBSHFLOVdfUVhReU55UzFnSnh2THJZN2RuVFA5eVAwSENSNGc1bTNxT3N5ZnZYUUJUN0hIaC1lYjB0dUNNbXpkSTdoSlZ3QW01cnNuUXBhWWYyZjl0aWRMWHgtazcxTnl3TmhOTXotWG9uSzdROUp1Mm51bnJOTUk3SU93RTM2SHFReGVNeGJsUV82SUpOTQ?oc=5",
+      "pub_date": 1790853617.0,
+      "article_url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/glamsterdam-validator-upgrade-prysm.webp",
+      "description": "Ethereum's Oct. 6 Glamsterdam test will show whether validators coordinate around a target more than three times today\u2019s 60 million default."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T10:40:07.018629+00:00"
+  "fetched_at": "2026-10-02T16:31:33.270982+00:00"
 }

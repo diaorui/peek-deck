@@ -2,6 +2,61 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Star Trek & AI",
+      "author": "shamus_gumshoe",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvso0w/star_trek_ai/",
+      "published": 1790944573.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am a fan and not an expert but I always wondered why AI (and robots) were not more of a force in Star Trek...and yesterday, reflecting on how amazing and damaging this technology is I was thinking maybe they made a choice as an advanced humanistic society not to surrender their agency and cognitive capacity to a technology. I guess that's the Borg right?"
+    },
+    {
+      "title": "Facebook feed is now majority AI",
+      "author": "stvlsn",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/",
+      "published": 1790956472.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am 35 and still occasionally go on Facebook. The feed, over the years, has moved away from showing friend content and moved toward showing creator content. I've noticed a shift in the last few weeks where the majority of posts are AI. Some are obvious, but most are not - and the newest image and video models allow for near perfect realism. I remember a few years ago when this exact scenario was warned about. Now we are here."
+    },
+    {
+      "title": "Apex Compute developing open-source Mesa Vulkan driver for their hardware",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvrkej/apex_compute_developing_opensource_mesa_vulkan/",
+      "published": 1790941222.0,
+      "thumbnail": "https://external-preview.redd.it/gyGg18q893IBzsqRNoayo15eAX4XLnaHIdR5-yp0mCM.jpeg?width=640&crop=smart&auto=webp&s=f03ccda8a47229b41c95e3c1009e8c39257c85f4",
+      "external_url": "https://www.phoronix.com/news/Apex-Compute-Mesa-Vulkan",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "Apex Compute is the company started in California in 2024 that aims to produce high-efficiency AI accelerators for real-time edge AI inferencing"
+    },
+    {
+      "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale\u2019s, and shopping on Amazon, SEC alleges",
+      "author": "sourdub",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvdpdh/investors_thought_they_were_buying_preipo_openai/",
+      "published": 1790894998.0,
+      "thumbnail": "https://external-preview.redd.it/dSRMG4aEw2jZbIXAYpO6EEqc4eQBARLr1B56wzD9UjI.jpeg?width=640&crop=smart&auto=webp&s=121b5f8823ad65c1c9a480e42ce95d80758dcf22",
+      "external_url": "https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/apple-touch-icon.png",
+      "description": "One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined."
+    },
+    {
+      "title": "Anyone have experience with micro1 (selling anonymized data)?",
+      "author": "dhruvkar",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvtxp0/anyone_have_experience_with_micro1_selling/",
+      "published": 1790947966.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It's a data lab that buys company operational data. Apparently they look for companies with 10+ years of operational data, primarily based in the US, and over 20 employees. Has anyone successfully sold data to micro1 (or another data lab)? how was your experience and how did they value your data?"
+    },
+    {
       "title": "If an AI denies you a service, who do you argue with?",
       "author": "yi111",
       "url": "https://www.reddit.com/r/artificial/comments/1wvn04t/if_an_ai_denies_you_a_service_who_do_you_argue/",
@@ -24,28 +79,6 @@
       "description": "OpenAI says Moonshot-linked operators used thousands of accounts to extract protected reasoning from its models for adversarial distillation. No encryption broken. No database compromised. Just systematic querying designed to make one model teach another. OpenAI says this is dangerous because competitors can reproduce capabilities without making the same investment in safety. Which is a serious security issue. But you have to appreciate the timing: after years of \u201cwe learned from the internet,\u201d the frontier-model industry has reached the \u201cplease stop learning from us\u201d phase."
     },
     {
-      "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale\u2019s, and shopping on Amazon, SEC alleges",
-      "author": "sourdub",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvdpdh/investors_thought_they_were_buying_preipo_openai/",
-      "published": 1790894998.0,
-      "thumbnail": "https://external-preview.redd.it/dSRMG4aEw2jZbIXAYpO6EEqc4eQBARLr1B56wzD9UjI.jpeg?width=640&crop=smart&auto=webp&s=121b5f8823ad65c1c9a480e42ce95d80758dcf22",
-      "external_url": "https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/apple-touch-icon.png",
-      "description": "One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined."
-    },
-    {
-      "title": "I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and started messaging each other when I let them",
-      "author": "jokiruiz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvnbfc/i_gave_several_ai_coding_agents_the_same_repo/",
-      "published": 1790925305.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm the author of the open-source experiment behind this, so take it as a field report with my bias declared. A lot of AI tooling now runs several coding agents at once, and I wanted to know what actually happens when they share one codebase. I built a small lab: six tasks on a tiny booking API, with 37 acceptance tests, where two pairs of tasks collide by meaning rather than by file. One agent adds a second factor to the login while another builds an export that still calls the old login. When each agent worked in isolation on its own branch, every agent finished with its own tests passing, and the combined result was broken in all 5 runs. Git merged the text; nobody noticed the meaning had changed. When the agents shared a working directory instead, all 10 runs passed, because each agent could see what the others had done and adapt. I also tried something newer: a \"decision model\" called Jev, which doesn't generate text at all but returns a yes/no decision with a probability in about 0.3 seconds. My kernel asks it, before every write, whether the change collides with another agent's work. It caught every real conflict without blocking harmless work, at the same cost as simple file locks. It was also unsure about 61% of real writes, and those had to be passed to a slower, regular LLM. Cheap decisions are real, but in a messy setting they aren't as cheap as the price tag suggests. The part I keep thinking about: when the agents had a tool to message each other, they used it without being told, and one warned another that it was renaming a field the other depended on. Maybe the answer to multi-agent coordination isn't a kernel at all, just agents that talk. Caveats: 1 to 5 runs per setup, so these are indications, not proof. Everything is published raw, MIT-licensed: https://github.com/JoaquinRuiz/medula. There's also a walkthrough video, in Spanish: https://youtu.be/xAFRuBxfapM Curious what people here think: should agents coordinate through a referee, or just talk to each other?"
-    },
-    {
       "title": "IP protection while using ai",
       "author": "mhhammoudaTreeUP",
       "url": "https://www.reddit.com/r/artificial/comments/1wvmyi8/ip_protection_while_using_ai/",
@@ -57,60 +90,27 @@
       "description": "So I work on R&D of various products so I am always trying to implement new ideas and solutions. My work also involves data and results from trials and tests which might be novel.. Of course, I use ai models while doing so.. However, everytime I dive into an idea, I ask myself the question: wouldn't all these companies have my ideas and research outputs be in the hands of these companies housing these models? I mean I think they dont care about my projects but still projects grow and can attract someone's attention... What do companies, or researchers actually do to protect their IP? Is there a way to actually do real research without fearing that someone interferes with your work now or on the long run? I know there are offline LLMs but I heard they are weaker and need beefy machines.. I know this topic may have been debated but I guess new updates may have arised. any ideas??"
     },
     {
-      "title": "Brian Chesky says AI is like an amplifier",
-      "author": "cen6wkf",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvph0r/brian_chesky_says_ai_is_like_an_amplifier/",
-      "published": 1790933856.0,
-      "thumbnail": "https://external-preview.redd.it/YXlsMGM5c3J4MHRoMZIVNdZ3wy_LvuzL0RVVFok9mSbfRd57WUCn2RIJ5cwo.png?width=640&crop=smart&auto=webp&s=2d79b46a4c722c406b8406462d140aa06ac4261a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: Brian Chesky says AI is like an amplifier and the gap is getting greater \u2014 not because of who has the tool, but who the tool has. As soon as I read Chesky\u2019s \u201cAI is like an amplifier.\u201d, the neural-networks of my memory immediately flipped me to the Green \u201cLanterns\u201d. Are you guys a big fan of the eponymous TV series? Right after Hal Jordan manifested a greenback for playing the jukebox, his trainee John Stewart exclaimed, \u201cDid you just counterfeit money with the ring?\u201d \u2013 to which Jordan replied, \u201cNo. I manifested money with the power of my will.\u201d Or how about Jordan conjure up a green can opener for the beer, to impress and rizz up Sheriff Kerry, while Stewart rolls his eyes by his side? John Stewart went up the ante, by manifesting a large and sophisticated boring machine, to tunnel underground the \u201cWinnie\u201d compound to evade the guard sentries. Not impressive enough, you say? The best in my mind, wasn\u2019t in the TV series. It was Guy Gardner flipping the bird \u2013 he conjures up large green hands (one of it gives the middle finger) to rise up from the ground, and overturn scores of tanks and heavy artilleries of the fictitious Burivian Army. It was both an attitude and a strong statement - very on brand for the eccentric Guy Gardner. Still not impressed? Here\u2019s one\u2026 As Jesus rode his donkey through the streets of Jerusalem, the religious leaders were indignant of the shouting praises from the bystanders \u2013 like crazy hooligans/fanatics. They want Jesus to rebuke the crowd. And what was Jesus\u2019 reply? He said, \u201cI tell you, if these were silent, the very stones would cry out.\u201d Think about it. Stones started crying out like human beings? Is your brain exploding? What was I trying to say? Like the ring, AI does amplify you. If you\u2019re good person, and strive to produce something good to serve your fellow men, AI will help you amplify your good intensions. Vise Versa, if you\u2019re bad, AI will amplify that too. Funny \u2013 I just watched a news: With the help of open-sourced LLMs, hackers easily broke into the Taiwan government agencies\u2019 IT infrastructure. Did you watch it? One of the statements in the news stuck with me - It\u2019s getting very easy to attack (with the free AI tools). But it\u2019s getting very hard to defend. Full Critic + Feasibility Study in comments."
-    },
-    {
-      "title": "Is the reason AI hasn't totally disrupted office work yet because of the kind of software applications we use?",
-      "author": "mymooh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvd4k2/is_the_reason_ai_hasnt_totally_disrupted_office/",
-      "published": 1790893423.0,
+      "title": "Commercial AI is only valuable if you know what you\u2019re talking about and doing",
+      "author": "PettyCashCommittee",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvv559/commercial_ai_is_only_valuable_if_you_know_what/",
+      "published": 1790951011.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I just had a thought about the kinds of desktop programs I use day to day, they don't necessarily have an API to hand over control to, and the GUI is instead designed to be used by a human using a keyboard and mouse. And maybe most corporations are unwilling to hand over control to the computer-use agents."
+      "description": "AI is a productivity catalyst, but if you don\u2019t know how to use it properly and how to QC results it can work against you. Personally I treat it as a junior analyst and use it for basic automation when applicable and within my abilities. I\u2019m thinking about the average person here. If someone doesn\u2019t have domain expertise then they won\u2019t know when to push back on a recommendation, add more context when necessary, and play devils advocate when the AI is cheerleading too hard. Speaking from experience I have built workflows in areas where I\u2019m an expert. I\u2019m a market guy and a watch enthusiast. I built a valuation framework that is pretty effective but not 100% accurate. If I were to apply this to handbags I wouldn\u2019t be able to identify inaccuracies and falsehoods. As long as you take it with a grain of salt, AI can get you 80% of the way there. If I\u2019m wrong, please tell me how so I can better advise my clients."
     },
     {
-      "title": "GPT vs Claude today",
-      "author": "klicartel_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvlfmw/gpt_vs_claude_today/",
-      "published": 1790918350.0,
+      "title": "Fears on AI - would like your comments",
+      "author": "Turnip_Wizar35",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvudau/fears_on_ai_would_like_your_comments/",
+      "published": 1790949098.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey all, Another one of these..but i figured that after searching my use case over multiple subs and not finding an answer, maybe this could help someone else too :) I have been between Claude pro and GPT plus once. Started on Claude, got annoyed at some of its reasoning, switched to GPT and now im contemplating going back to Claude one last time to finish my project. The project involves a little bit of code, some networking, hardware integration, and computer vision. The project is fairly ambitious in scope, and for the most part the models will be used to help discuss optimal solutions for how data moves from external hardware to PC, out to other devices, to another PC etc etc. Maybe kinda niche, but can anyone recommend either of these models for systems like this? Thanks in advance"
-    },
-    {
-      "title": "tried 5 AI browsers over a few months, notes on each",
-      "author": "Muchy_Tangerine",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvqfla/tried_5_ai_browsers_over_a_few_months_notes_on/",
-      "published": 1790937374.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Been swapping my daily driver every few weeks to see which of these is actually usable. Writing it down before I forget. No affiliation with any of them, I just have a problem. Dia: the chat sits in the address bar instead of a sidebar, which feels right. If you liked Arc you'll probably like this one. Comet: best at answering a question about what's already on screen. The search DNA shows. Less useful if what you want is help with your own tabs. Brave: a normal browser with good blocking that happens to have an assistant. Least ambitious AI of the five, best at ads out of the box. Ace: the one I didn't expect to stay on. It's more about doing something across tabs than summarising the one you're on, and it kept enough context between sessions that I stopped re-explaining myself. Newer than the others so you do hit rough edges. Edge: already installed, free, and the office stuff is genuinely useful if that's your world. Otherwise not much reason to be here. Where I landed is that some of these read for you and some do things for you, and those aren't the same product. What am I missing?"
-    },
-    {
-      "title": "What\u2019s one thing about AI that sounded ridiculous 3 years ago but feels completely normal now?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvfdmf/whats_one_thing_about_ai_that_sounded_ridiculous/",
-      "published": 1790899602.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not necessarily something huge. A tiny change in how you search, write, work, create, or interact with technology can say a lot about how quickly things are changing. What comes to mind?"
+      "description": "I dont understand the subject. How can an AI be dangerous if its just code? I have worked with just basic NLP models and done some sentiment analysis a few years back so I dont understand. The code will do whatever you program it to do and to complete the task it will do what is statistically is correct, within the programmed limits. So AI cannot change its limits lets say \"get rid of humanity\" unless the creator programs a line of code that says \"you can kill humans\". Even if it self improves, the code limits wont change, cause it has no conciousness to say \"I dont believe this limits are correct\" thats a very human trait. Unless the creator programs the algorithm to bypass these limits. So the real risk is the \"limits\" being placed on the algorithm by the programmers and the fact that the ones controlling the code are these crazy mind f...ed corpos? AI is not gonna become self concious casue \"it doesnt work that way\" and all the noise its just media and ignorant people who watch to much scifi. Thats what I think. Sorry if it doesn't make to much sense Im still trying to filter all the noise. Does this idea make any sense from a technical standpoint or is there something Im not understanding?"
     }
   ],
-  "fetched_at": "2026-10-02T10:39:47.189388+00:00"
+  "fetched_at": "2026-10-02T16:31:09.582407+00:00"
 }
