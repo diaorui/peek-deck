@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Citi raises bitcoin, ether forecasts on strong crypto activity",
-      "source": "Reuters",
+      "source": "reuters.com",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5",
       "pub_date": 1790844776.0,
@@ -15,17 +15,47 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Pioneer Adam Back\u2019s Empire Beset by Hack, Lawsuits",
+      "headline": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NZd1VreThJTktZRzdSdWt3Y01Ha3VyNzlJSGkteHd1MXZXVllPek40bU9mbnZiZ0huR0ItVkZ4NGdsd0piVURwUTU1bnVVamJ6SEcxQklzSnBBTkNFTmo5eWJVNUx3VEd4ck12bUdmQV9QN0VNS1JnOFI2SmRmNVRuRjlTdFZLUDYzOTRORkxvbUNsNi1iNA?oc=5",
+      "pub_date": 1790920800.0,
+      "article_url": "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889127%2Fsurprised-investor-with-phone.jpg&w=1200&op=resize",
+      "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000."
+    },
+    {
+      "headline": "Bitcoin Rises for Third Straight Week on Strong ETF Demand",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVM1ZWxueEdGYi1PQk4ydjZWZnBXMWNXLUFZMnlxbzNEcjd0WXk0Qmp2RVFuQnZWZGU1ZlBaaXZXOHpwLWZCMEpDZ2hkRG9oRlZsczlVZWk4LTI1aTU3bmdUQnFKcVkySjZpR3BrdFBnWUx5MWJ2TEVpOEsyeUp2SC1OM0RZV21zcDlqam81em9FLURwNGYtaU52WHcycTFWSFF2Z3A3S0s2Zll1?oc=5",
-      "pub_date": 1790694571.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/bitcoin-pioneer-adam-back-s-empire-beset-by-hack-lawsuits",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjEyeS1oMXB6QUtYRkcyaDJyYUdUOTRaWW1SdHBmb2J0d3FUZ080U0p4SHIzOFlUaDRMWUZWbHZoQjEzX3VaUDJlR1pYcXFZUTVqMlNKY2xubzN1TFZydVpsMjE4eC1mTmM5SDhPRWNYTTJlWVhyZ1dkVTBVeFZIZGpwNGdqeDFINHhNZ2liOWJ4TjZkWUFpUXFRU2ZfWHJOQ1VxOW5oYWprOFU4dDhyOGEwQUhDamZGNEE?oc=5",
+      "pub_date": 1790933457.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand?srnd=all",
       "image": null,
       "description": null
     },
     {
-      "headline": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
+      "headline": "Robinhood Will Trade Stocks 24/7 Like Crypto. Does Bitcoin Lose Its Weekend Edge?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMEMxWkFBMnZKdk9PT29SMUc3Q0RkbUxrVHptQ20tMDB5cjRkdnJSTHJnSHo0b0k5NDFkVnNZa2h3T05mN0tvZU9HVGRtUEJyRG0xWkdpeXRrMk1hQUVRcmFnSzNYQ0Z5R3I1enIwMmJXTnRxQkNpZkp2b01zTUwxN0NwSU5HUHBFVWRxOXMwa0xTaTktM25F?oc=5",
+      "pub_date": 1790932392.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-trade-stocks-24-7-091312273.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/01dc43004baf82fa94ec5a4e01eef619b169f2d66165db47e1ecb4ae922a68d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F51d1025e7d38912d43ba30a6f6ada81c.jpg",
+      "description": "Robinhood just announced weekend stock trading, threatening to strip away one of Bitcoin's most distinctive bragging rights. But does round-the-clock availability actually protect crypto investors, or has that supposed edge always been more marketing than reality?"
+    },
+    {
+      "headline": "Bitcoin Surpasses $86,000 as More Fed Comments Ease Rate Hike Fears",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTFHREJmRk5tcFM2Q3hsMVlQWEJCWmFmNUNxeVRDV1h4eDU2UC1SSHBxUl9qa2VKYW9CQ2Fqb0I2RDgtUHFrb2VWTWE1R3BOdUsybDdkbXdiTlpMMlVFXy1jZW1RZEFpaTZPOXB0TTBKLWtuU1VaN0d0c3c3Q3htYVpWX0JSRkdpc3FtbVhELTRXeGFGNTBIV3FSZEo2NzdHRHhPWHRB?oc=5",
+      "pub_date": 1790930978.0,
+      "article_url": "https://www.moomoo.com/news/post/1000545484/bitcoin-surpasses-86000-as-more-fed-comments-ease-rate-hike",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Washington\u2019s big crypto bill is stuck. The SEC is pushing ahead anyway",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWnhXc2UzZlhDcmRhTEtLWWhHNWNSNlREX1FDakR5alZZc1pzUGFobUt6WWI2ZjNJVjB3SmZMWEo0QmoyQkxWZXY1ejZtcXVrS2w5NlNqN01WTlhXREYxSk9TeDdjZEhRLXBRb1VRYWRad9IBd0FVX3lxTFBaQ0lXTmJEZ1VaR0FCUUg5YTRoUUhlMkNsZWRfWWw1aWo1SFZiNEtHdHVvSWs2N1FEZDlRVF9UYTZVUlJFYmpyWVlvYmY0MVUzQ1o2OEJRNHNSZ0xMUWw5MWE0c0dJc0pLQnRmcDBEZDBiYWZoZDlJ?oc=5",
@@ -35,14 +65,14 @@
       "description": "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients."
     },
     {
-      "headline": "Bitcoin just landed a surprising new bull",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHptNHNLakpPOUltUERnSnQxeFZ4S0JtMmN2NDhabU1UTEU3SzN2RFJPMkxIZ0tjbkFsNHFrQmFhQXhiSXJmV0FybzFkcTM1TWgwTTJqTUplVEhWMVhPb3lPbExCTHlManRFODdaT1RkekFVTTVLYlVtaEo4Nk84SGFJejZncWdVd1ZrMi1nMnM1Z19KeTR5VFdvNENQdjVwanJ3SFZZUmk?oc=5",
-      "pub_date": 1790851414.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/article/bitcoin-just-landed-a-surprising-new-bull-104334737.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/393326e91db40474cfc400eae152eec66e1c7d70465f355f0b19c3f6aefa18f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Faa2838c4-abbe-45e3-8ec0-b40c4cf424c2",
-      "description": "Citi analyst Alex Saunders on Thursday raised his base case price forecast on bitcoin (BTC-USD) to $113,000 from $82,000."
+      "headline": "Bitcoin edges higher ahead of U.S. jobs report as global bond yields surge",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0ZoRmJ0eGl0LUYwODFZVTktTF9HQTBSdmV3d2g5OEpKWEwxeTNrY3FOYnVYOU1RX1lySjFDVFJack1IYlYtNVlybnlNdUZRV2h6eVN2emdKUWRyLWhBdk1wZFVrVW9MLUNxRFpHM1JjNEZCa1dKSlN1TDIxSjB0SlI1RTFQU3NpVldOeFdxc3NQY212T2c?oc=5",
+      "pub_date": 1790928714.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/705735639a0b6346c5f13b5330dd574c2aaf87d2-1200x760.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Bitcoin is up roughly 3% in October as traders await September\u2019s jobs data, while rising bond yields, a stronger dollar weigh on broader markets."
     },
     {
       "headline": "\u2018Pure insanity\u2019: West Deer grapples with Bitcoin mining company\u2019s pollution and erratic coal trucks",
@@ -65,46 +95,16 @@
       "description": "Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom."
     },
     {
-      "headline": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWYtZWRITUNXZWktbHM2WGdwTTBmWlpaSFJYZ0Nzd2ZPUlFaWkpiLXQycU42M1VzUDR4YmdXb2tRd1hhWkdMbVZpTFNFdmUyNUVvUEU1UDhCZEhRbzN1UVBWTVUtTFowT0NobEpheWZLbnJ5NS1fWl8yTTBaVUU2aDROcFdnOXRfbFhDaDRENUVHdXNfQXhGQUJaQnNIWFZNWGFRMkhJZkU3dTkwUFczRA?oc=5",
-      "pub_date": 1790876785.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ae8ca3aef18f4e1e70cd0b60827f8a6cef47da1-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report."
-    },
-    {
-      "headline": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2FydjljdE9Dc3VNUEJ3TEJUN0xSRUdTTTI2OERHT01tTTlpc0ZiZ0pjT2VWblhZTVlwOTZYUXMwb295WmxpUWNZcXV4c1BDNUlEaUVweHFma0R2MDNZZXRycHlPUm5OQndIYV96OEd4b3VhOEtMSVBOT1ZUN2FITzFOMmdSbTRwc3U1Ty1sU2VEM2hXZUhPRmtlSnJwVDM4SnVVcklnbHlWOGliOXV1d1l1dFhqTDBycC1TMm51bnlUNmJDQ3M0ZE5yVEpqdw?oc=5",
-      "pub_date": 1790880153.0,
-      "article_url": "https://www.tradingview.com/news/chainwire:b85c9322e094b:0-lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Las Vegas, NV, October 1st, 2026, ChainwireLowest Fee Bitcoin ATMs announced the launch of more than 400 cryptocurrency ATMs across the United States. The machines allow customers to purchase Bitcoin, Ethereum, USDT and USDC with cash at a stated flat 5% fee. Customers can also pre-register online\u2026"
-    },
-    {
-      "headline": "Bitcoin Suddenly Rockets On $100,000 Fidelity Price Game-Changer",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWlEZS1ZRTdHRmhPcmRYaWZwSV9PYm0wSmdqcDFLaVhrTlY2MjRadHNpWkNDakRySjNkanZsZFgzYVBQRHNwNzRweC1CZFVGQXBlcnU2VFdHR2M5N3RsTnpYOC1uWE01MlJPbU9oN2F4ckl2R0x5NFN3MHIyTkZKNjJOR3BpNWpWR0hFM0xnbnNkRFhwdm1LcFJ2MWFtQWtRRURQdXNmc1FKdE1fV3ZIX2tsTFR4UEpaaFE?oc=5",
-      "pub_date": 1790774022.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/30/bitcoin-suddenly-rockets-on-100000-fidelity-price-game-changer/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHNDQ2ZKWjJHN0dsbmQ4Wmt5Ti1mOS1GdXE4VHdCTURrMFZaS3h1LXZJYkpSYnRTZDE4M21ScVRlUVM3ZXFfeWthYVZuZHVncW9BMW01T2FsaHE0RGFCR0NGaGNxOXQyODJBUzFuekJuSkhBY0pwRXdlaUwwZ0J1U1FzNzJVdDBpNjZ2cGNFS0NhNTFMZURGUVVJLUx6VmpTQkJxNEZJSzZISUtmdjNFRXVic0NqRVNhd0ozS0lPNkc?oc=5",
-      "pub_date": 1790901099.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Doesn\u2019t Pay Dividends, So How Is This ETF Yielding 25%?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXBtTmQyVVZpNVNvU2FJRVNvNlNJU3dQS2F1UGFlNTA3WTlGTVh1QUF3LU9nem41SjhwZXE4Q2ZyQUN6NGpWaVR2RlhtMmZCdm4ycUZqcWNTMUFuWEQ3UzRLRjByLUkyWnF0YloyLVBOVXpjdVFPSnFHbDNpZ1JOWWhIQ1BIX2VlaWFYSlJ4U01FdHA5REhCSnAyT2x3M0xjaUkwaHZPSkxLRm8?oc=5",
+      "pub_date": 1790882640.0,
+      "article_url": "https://247wallst.com/investing/etf/2026/10/01/bitcoin-doesnt-pay-dividends-so-how-is-this-etf-yielding-25/",
+      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1888907947-huge-licensed-scaled.jpg",
+      "description": "Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T04:25:31.974847+00:00"
+  "fetched_at": "2026-10-02T10:40:11.984156+00:00"
 }

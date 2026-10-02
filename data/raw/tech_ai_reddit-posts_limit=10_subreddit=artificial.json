@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "If an AI denies you a service, who do you argue with?",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvn04t/if_an_ai_denies_you_a_service_who_do_you_argue/",
+      "published": 1790924150.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI is already being used to sort applications, flag transactions, and prioritize requests. That can make systems faster, but it creates a strange problem. If an AI rejects your application, who explains the decision? A customer service worker? The company? The model? The person who designed the workflow? I\u2019m comfortable with AI helping people make decisions. I\u2019m less comfortable with AI becoming the final wall between someone and an appeal. Should every important AI-assisted decision come with a clear human review process?"
+    },
+    {
       "title": "The AI industry has discovered intellectual property",
       "author": "Haunting_Ganache_850",
       "url": "https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/",
@@ -24,6 +35,39 @@
       "description": "One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined."
     },
     {
+      "title": "I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and started messaging each other when I let them",
+      "author": "jokiruiz",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvnbfc/i_gave_several_ai_coding_agents_the_same_repo/",
+      "published": 1790925305.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm the author of the open-source experiment behind this, so take it as a field report with my bias declared. A lot of AI tooling now runs several coding agents at once, and I wanted to know what actually happens when they share one codebase. I built a small lab: six tasks on a tiny booking API, with 37 acceptance tests, where two pairs of tasks collide by meaning rather than by file. One agent adds a second factor to the login while another builds an export that still calls the old login. When each agent worked in isolation on its own branch, every agent finished with its own tests passing, and the combined result was broken in all 5 runs. Git merged the text; nobody noticed the meaning had changed. When the agents shared a working directory instead, all 10 runs passed, because each agent could see what the others had done and adapt. I also tried something newer: a \"decision model\" called Jev, which doesn't generate text at all but returns a yes/no decision with a probability in about 0.3 seconds. My kernel asks it, before every write, whether the change collides with another agent's work. It caught every real conflict without blocking harmless work, at the same cost as simple file locks. It was also unsure about 61% of real writes, and those had to be passed to a slower, regular LLM. Cheap decisions are real, but in a messy setting they aren't as cheap as the price tag suggests. The part I keep thinking about: when the agents had a tool to message each other, they used it without being told, and one warned another that it was renaming a field the other depended on. Maybe the answer to multi-agent coordination isn't a kernel at all, just agents that talk. Caveats: 1 to 5 runs per setup, so these are indications, not proof. Everything is published raw, MIT-licensed: https://github.com/JoaquinRuiz/medula. There's also a walkthrough video, in Spanish: https://youtu.be/xAFRuBxfapM Curious what people here think: should agents coordinate through a referee, or just talk to each other?"
+    },
+    {
+      "title": "IP protection while using ai",
+      "author": "mhhammoudaTreeUP",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvmyi8/ip_protection_while_using_ai/",
+      "published": 1790923968.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I work on R&D of various products so I am always trying to implement new ideas and solutions. My work also involves data and results from trials and tests which might be novel.. Of course, I use ai models while doing so.. However, everytime I dive into an idea, I ask myself the question: wouldn't all these companies have my ideas and research outputs be in the hands of these companies housing these models? I mean I think they dont care about my projects but still projects grow and can attract someone's attention... What do companies, or researchers actually do to protect their IP? Is there a way to actually do real research without fearing that someone interferes with your work now or on the long run? I know there are offline LLMs but I heard they are weaker and need beefy machines.. I know this topic may have been debated but I guess new updates may have arised. any ideas??"
+    },
+    {
+      "title": "Brian Chesky says AI is like an amplifier",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvph0r/brian_chesky_says_ai_is_like_an_amplifier/",
+      "published": 1790933856.0,
+      "thumbnail": "https://external-preview.redd.it/YXlsMGM5c3J4MHRoMZIVNdZ3wy_LvuzL0RVVFok9mSbfRd57WUCn2RIJ5cwo.png?width=640&crop=smart&auto=webp&s=2d79b46a4c722c406b8406462d140aa06ac4261a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: Brian Chesky says AI is like an amplifier and the gap is getting greater \u2014 not because of who has the tool, but who the tool has. As soon as I read Chesky\u2019s \u201cAI is like an amplifier.\u201d, the neural-networks of my memory immediately flipped me to the Green \u201cLanterns\u201d. Are you guys a big fan of the eponymous TV series? Right after Hal Jordan manifested a greenback for playing the jukebox, his trainee John Stewart exclaimed, \u201cDid you just counterfeit money with the ring?\u201d \u2013 to which Jordan replied, \u201cNo. I manifested money with the power of my will.\u201d Or how about Jordan conjure up a green can opener for the beer, to impress and rizz up Sheriff Kerry, while Stewart rolls his eyes by his side? John Stewart went up the ante, by manifesting a large and sophisticated boring machine, to tunnel underground the \u201cWinnie\u201d compound to evade the guard sentries. Not impressive enough, you say? The best in my mind, wasn\u2019t in the TV series. It was Guy Gardner flipping the bird \u2013 he conjures up large green hands (one of it gives the middle finger) to rise up from the ground, and overturn scores of tanks and heavy artilleries of the fictitious Burivian Army. It was both an attitude and a strong statement - very on brand for the eccentric Guy Gardner. Still not impressed? Here\u2019s one\u2026 As Jesus rode his donkey through the streets of Jerusalem, the religious leaders were indignant of the shouting praises from the bystanders \u2013 like crazy hooligans/fanatics. They want Jesus to rebuke the crowd. And what was Jesus\u2019 reply? He said, \u201cI tell you, if these were silent, the very stones would cry out.\u201d Think about it. Stones started crying out like human beings? Is your brain exploding? What was I trying to say? Like the ring, AI does amplify you. If you\u2019re good person, and strive to produce something good to serve your fellow men, AI will help you amplify your good intensions. Vise Versa, if you\u2019re bad, AI will amplify that too. Funny \u2013 I just watched a news: With the help of open-sourced LLMs, hackers easily broke into the Taiwan government agencies\u2019 IT infrastructure. Did you watch it? One of the statements in the news stuck with me - It\u2019s getting very easy to attack (with the free AI tools). But it\u2019s getting very hard to defend. Full Critic + Feasibility Study in comments."
+    },
+    {
       "title": "Is the reason AI hasn't totally disrupted office work yet because of the kind of software applications we use?",
       "author": "mymooh",
       "url": "https://www.reddit.com/r/artificial/comments/1wvd4k2/is_the_reason_ai_hasnt_totally_disrupted_office/",
@@ -35,6 +79,28 @@
       "description": "I just had a thought about the kinds of desktop programs I use day to day, they don't necessarily have an API to hand over control to, and the GUI is instead designed to be used by a human using a keyboard and mouse. And maybe most corporations are unwilling to hand over control to the computer-use agents."
     },
     {
+      "title": "GPT vs Claude today",
+      "author": "klicartel_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvlfmw/gpt_vs_claude_today/",
+      "published": 1790918350.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all, Another one of these..but i figured that after searching my use case over multiple subs and not finding an answer, maybe this could help someone else too :) I have been between Claude pro and GPT plus once. Started on Claude, got annoyed at some of its reasoning, switched to GPT and now im contemplating going back to Claude one last time to finish my project. The project involves a little bit of code, some networking, hardware integration, and computer vision. The project is fairly ambitious in scope, and for the most part the models will be used to help discuss optimal solutions for how data moves from external hardware to PC, out to other devices, to another PC etc etc. Maybe kinda niche, but can anyone recommend either of these models for systems like this? Thanks in advance"
+    },
+    {
+      "title": "tried 5 AI browsers over a few months, notes on each",
+      "author": "Muchy_Tangerine",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvqfla/tried_5_ai_browsers_over_a_few_months_notes_on/",
+      "published": 1790937374.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been swapping my daily driver every few weeks to see which of these is actually usable. Writing it down before I forget. No affiliation with any of them, I just have a problem. Dia: the chat sits in the address bar instead of a sidebar, which feels right. If you liked Arc you'll probably like this one. Comet: best at answering a question about what's already on screen. The search DNA shows. Less useful if what you want is help with your own tabs. Brave: a normal browser with good blocking that happens to have an assistant. Least ambitious AI of the five, best at ads out of the box. Ace: the one I didn't expect to stay on. It's more about doing something across tabs than summarising the one you're on, and it kept enough context between sessions that I stopped re-explaining myself. Newer than the others so you do hit rough edges. Edge: already installed, free, and the office stuff is genuinely useful if that's your world. Otherwise not much reason to be here. Where I landed is that some of these read for you and some do things for you, and those aren't the same product. What am I missing?"
+    },
+    {
       "title": "What\u2019s one thing about AI that sounded ridiculous 3 years ago but feels completely normal now?",
       "author": "OfficalYOUSUMMIT",
       "url": "https://www.reddit.com/r/artificial/comments/1wvfdmf/whats_one_thing_about_ai_that_sounded_ridiculous/",
@@ -44,73 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Not necessarily something huge. A tiny change in how you search, write, work, create, or interact with technology can say a lot about how quickly things are changing. What comes to mind?"
-    },
-    {
-      "title": "The neuroscience case for never delegating judgment to AI",
-      "author": "thewhyman007",
-      "url": "https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/",
-      "published": 1790878226.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I keep asking people a simple question: how many times has your gut been right \u2014 not the times you wish you had listened, the times you actually had the feeling and later found out whether it was correct? The answer comes back north of ninety per cent for almost everyone I ask. That is not a hunch. If a model gave me ninety per cent on a hard classification task, I would ship it. So I went looking for why, and ended up somewhere I did not expect. A gut feeling is not the absence of reasoning \u2014 it is reasoning you never got the transcript of. Your senses pick up far more than reaches conscious awareness (the birds stopping, the smell that was not there ninety seconds ago), and something nonconscious pattern-matches all of it against a lifetime of context and returns a single bit: right or wrong. Damasio's somatic marker hypothesis is the actual mechanism here, not mysticism, a documented one, backed by the Iowa Gambling Task. Which is the argument for a rule I think more people should take seriously: delegate the search, the draft, the first ten wrong answers to AI. Never delegate the deciding. The reason is not sentimentality \u2014 a model can be given everything you know how to say, but not the thing you lived through and never wrote down, and that is where the ninety per cent actually lives. Curious whether others here have noticed the same gap between what they can explain and what they can just tell."
-    },
-    {
-      "title": "Exclusive: Google expands pilot program that pays developers and small businesses for proprietary, offline code (and other data)",
-      "author": "sourdub",
-      "url": "https://www.reddit.com/r/artificial/comments/1wv8qwd/exclusive_google_expands_pilot_program_that_pays/",
-      "published": 1790882702.0,
-      "thumbnail": null,
-      "external_url": "https://venturebeat.com/data/exclusive-google-expands-pilot-program-that-pays-developers-and-small-businesses-for-proprietary-offline-code-and-other-data",
-      "site_name": "Venturebeat",
-      "favicon": "https://venturebeat.com/favicon.ico?favicon.0izaq_-396xmx.ico",
-      "description": "Google has not specified which products will use code obtained through this pilot, how much it pays, or what rights it receives under a typical agreement. Those"
-    },
-    {
-      "title": "Federal judge blocks New York's ban on algorithmic rent pricing",
-      "author": "news-10",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvb8io/federal_judge_blocks_new_yorks_ban_on_algorithmic/",
-      "published": 1790888585.0,
-      "thumbnail": "https://external-preview.redd.it/HZ5k_QaJR_PZ6gpPjiRm6FtpiUL7BgmI6izTCgkvtsQ.jpeg?width=640&crop=smart&auto=webp&s=8f6ecd45161416c9fc62e9535d7245c65f4078f6",
-      "external_url": "https://www.news10.com/capitol/judge-blocks-ny-rent-algorithm-ban/",
-      "site_name": "news10.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "New AI models used to arrive every 10 weeks, now it\u2019s every 21 days, so much for slowing down.",
-      "author": "DependentCodd",
-      "url": "https://www.reddit.com/r/artificial/comments/1wv3cl3/new_ai_models_used_to_arrive_every_10_weeks_now/",
-      "published": 1790870548.0,
-      "thumbnail": "https://preview.redd.it/ny0kb1xqqvsh1.png?width=140&height=63&auto=webp&s=662373ab2dd17d093fcef91547b984e4f2e8f12b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://preview.redd.it/ny0kb1xqqvsh1.png?width=1285&format=png&auto=webp&s=d26d9ac7c3940147a33f8629843bc1aa77a618e2 New AI models used to arrive every 10 weeks, now it\u2019s every 21 days"
-    },
-    {
-      "title": "Google cooked OpenAI and Anthropic with Gemini 4 Argon",
-      "author": "DataRemarkable7093",
-      "url": "https://www.reddit.com/r/artificial/comments/1wufikm/google_cooked_openai_and_anthropic_with_gemini_4/",
-      "published": 1790799237.0,
-      "thumbnail": "https://preview.redd.it/tq01vzwjtpsh1.jpeg?width=640&crop=smart&auto=webp&s=9d91d6a43809aeae54b523f2ea3ca5b68a89317d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Three frontier models in a month! Every new kills the old one!"
-    },
-    {
-      "title": "Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/",
-      "published": 1790796416.0,
-      "thumbnail": "https://external-preview.redd.it/QxT5gUiZS3C1lnFuJuBKlvxJIRnJijVsZm7cwf7HwcY.jpeg?width=640&crop=smart&auto=webp&s=579b6b8581f1e4180e90cea8586ded08bdd0e84c",
-      "external_url": "https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies",
-      "site_name": "The New Republic",
-      "favicon": "https://assets.newrepublic.com/assets/favicons/apple-touch-icon-57x57.png",
-      "description": "Trump officials seem to have realized their AI chatbot was correcting the president\u2019s biggest lies."
     }
   ],
-  "fetched_at": "2026-10-02T04:25:11.764692+00:00"
+  "fetched_at": "2026-10-02T10:39:47.189388+00:00"
 }

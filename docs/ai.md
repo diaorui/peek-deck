@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-02T04:25:39.105886+00:00'
+updated: '2026-10-02T10:40:13.526574+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 02, 2026 at 04:25 UTC  
+**Last Updated:** October 02, 2026 at 10:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[If an AI denies you a service, who do you argue with?](https://www.reddit.com/r/artificial/comments/1wvn04t/if_an_ai_denies_you_a_service_who_do_you_argue/)**
+
+AI is already being used to sort applications, flag transactions, and prioritize requests. That can make systems faster, but it creates a strange problem. If an AI rejects your application, who explains the decision? A customer service worker? The company? The model? The person who designed the workflow? I’m comfortable with AI helping people make decisions. I’m less comfortable with AI becoming the final wall between someone and an appeal. Should every important AI-assisted decision come with a clear human review process?
+
+3h ago
+
+---
+
 **[The AI industry has discovered intellectual property](https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/)**
 
 OpenAI says Moonshot-linked operators used thousands of accounts to extract protected reasoning from its models for adversarial distillation. No encryption broken. No database compromised. Just systematic querying designed to make one model teach another. OpenAI says this is dangerous because competitors can reproduce capabilities without making the same investment in safety. Which is a serious security issue. But you have to appreciate the timing: after years of “we learned from the internet,” the frontier-model industry has reached the “please stop learning from us” phase.
 
-🔗 [OpenAI](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/) • 14h ago
+🔗 [OpenAI](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/) • 20h ago
 
 ---
 
@@ -49,7 +57,31 @@ OpenAI says Moonshot-linked operators used thousands of accounts to extract prot
 
 One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined.
 
-🔗 [Fortune](https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/) • 5h ago
+🔗 [Fortune](https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/) • 11h ago
+
+---
+
+**[I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and started messaging each other when I let them](https://www.reddit.com/r/artificial/comments/1wvnbfc/i_gave_several_ai_coding_agents_the_same_repo/)**
+
+I'm the author of the open-source experiment behind this, so take it as a field report with my bias declared. A lot of AI tooling now runs several coding agents at once, and I wanted to know what actually happens when they share one codebase. I built a small lab: six tasks on a tiny booking API, with 37 acceptance tests, where two pairs of tasks collide by meaning rather than by file. One agent adds a second factor to the login while another builds an export that still calls the old login. When each agent worked in isolation on its own branch, every agent finished with its own tests passing, and the combined result was broken in all 5 runs. Git merged the text; nobody noticed the meaning had changed. When the agents shared a working directory instead, all 10 runs passed, because each agent could see what the others had done and adapt. I also tried something newer: a "decision model" called Jev, which doesn't generate text at all but returns a yes/no decision with a probability in about 0.3 seconds. My kernel asks it, before every write, whether the change collides with another agent's work. It caught every real conflict without blocking harmless work, at the same cost as simple file locks. It was also unsure about 61% of real writes, and those had to be passed to a slower, regular LLM. Cheap decisions are real, but in a messy setting they aren't as cheap as the price tag suggests. The part I keep thinking about: when the agents had a tool to message each other, they used it without being told, and one warned another that it was renaming a field the other depended on. Maybe the answer to multi-agent coordination isn't a kernel at all, just agents that talk. Caveats: 1 to 5 runs per setup, so these are indications, not proof. Everything is published raw, MIT-licensed: https://github.com/JoaquinRuiz/medula. There's also a walkthrough video, in Spanish: https://youtu.be/xAFRuBxfapM Curious what people here think: should agents coordinate through a referee, or just talk to each other?
+
+3h ago
+
+---
+
+**[IP protection while using ai](https://www.reddit.com/r/artificial/comments/1wvmyi8/ip_protection_while_using_ai/)**
+
+So I work on R&D of various products so I am always trying to implement new ideas and solutions. My work also involves data and results from trials and tests which might be novel.. Of course, I use ai models while doing so.. However, everytime I dive into an idea, I ask myself the question: wouldn't all these companies have my ideas and research outputs be in the hands of these companies housing these models? I mean I think they dont care about my projects but still projects grow and can attract someone's attention... What do companies, or researchers actually do to protect their IP? Is there a way to actually do real research without fearing that someone interferes with your work now or on the long run? I know there are offline LLMs but I heard they are weaker and need beefy machines.. I know this topic may have been debated but I guess new updates may have arised. any ideas??
+
+3h ago
+
+---
+
+**[Brian Chesky says AI is like an amplifier](https://www.reddit.com/r/artificial/comments/1wvph0r/brian_chesky_says_ai_is_like_an_amplifier/)**
+
+TL;DR: Brian Chesky says AI is like an amplifier and the gap is getting greater — not because of who has the tool, but who the tool has. As soon as I read Chesky’s “AI is like an amplifier.”, the neural-networks of my memory immediately flipped me to the Green “Lanterns”. Are you guys a big fan of the eponymous TV series? Right after Hal Jordan manifested a greenback for playing the jukebox, his trainee John Stewart exclaimed, “Did you just counterfeit money with the ring?” – to which Jordan replied, “No. I manifested money with the power of my will.” Or how about Jordan conjure up a green can opener for the beer, to impress and rizz up Sheriff Kerry, while Stewart rolls his eyes by his side? John Stewart went up the ante, by manifesting a large and sophisticated boring machine, to tunnel underground the “Winnie” compound to evade the guard sentries. Not impressive enough, you say? The best in my mind, wasn’t in the TV series. It was Guy Gardner flipping the bird – he conjures up large green hands (one of it gives the middle finger) to rise up from the ground, and overturn scores of tanks and heavy artilleries of the fictitious Burivian Army. It was both an attitude and a strong statement - very on brand for the eccentric Guy Gardner. Still not impressed? Here’s one… As Jesus rode his donkey through the streets of Jerusalem, the religious leaders were indignant of the shouting praises from the bystanders – like crazy hooligans/fanatics. They want Jesus to rebuke the crowd. And what was Jesus’ reply? He said, “I tell you, if these were silent, the very stones would cry out.” Think about it. Stones started crying out like human beings? Is your brain exploding? What was I trying to say? Like the ring, AI does amplify you. If you’re good person, and strive to produce something good to serve your fellow men, AI will help you amplify your good intensions. Vise Versa, if you’re bad, AI will amplify that too. Funny – I just watched a news: With the help of open-sourced LLMs, hackers easily broke into the Taiwan government agencies’ IT infrastructure. Did you watch it? One of the statements in the news stuck with me - It’s getting very easy to attack (with the free AI tools). But it’s getting very hard to defend. Full Critic + Feasibility Study in comments.
+
+1h ago
 
 ---
 
@@ -57,7 +89,23 @@ One fund manager allegedly paid his 4 a.m. strip club bill from fund capital aft
 
 I just had a thought about the kinds of desktop programs I use day to day, they don't necessarily have an API to hand over control to, and the GUI is instead designed to be used by a human using a keyboard and mouse. And maybe most corporations are unwilling to hand over control to the computer-use agents.
 
-6h ago
+12h ago
+
+---
+
+**[GPT vs Claude today](https://www.reddit.com/r/artificial/comments/1wvlfmw/gpt_vs_claude_today/)**
+
+Hey all, Another one of these..but i figured that after searching my use case over multiple subs and not finding an answer, maybe this could help someone else too :) I have been between Claude pro and GPT plus once. Started on Claude, got annoyed at some of its reasoning, switched to GPT and now im contemplating going back to Claude one last time to finish my project. The project involves a little bit of code, some networking, hardware integration, and computer vision. The project is fairly ambitious in scope, and for the most part the models will be used to help discuss optimal solutions for how data moves from external hardware to PC, out to other devices, to another PC etc etc. Maybe kinda niche, but can anyone recommend either of these models for systems like this? Thanks in advance
+
+5h ago
+
+---
+
+**[tried 5 AI browsers over a few months, notes on each](https://www.reddit.com/r/artificial/comments/1wvqfla/tried_5_ai_browsers_over_a_few_months_notes_on/)**
+
+Been swapping my daily driver every few weeks to see which of these is actually usable. Writing it down before I forget. No affiliation with any of them, I just have a problem. Dia: the chat sits in the address bar instead of a sidebar, which feels right. If you liked Arc you'll probably like this one. Comet: best at answering a question about what's already on screen. The search DNA shows. Less useful if what you want is help with your own tabs. Brave: a normal browser with good blocking that happens to have an assistant. Least ambitious AI of the five, best at ads out of the box. Ace: the one I didn't expect to stay on. It's more about doing something across tabs than summarising the one you're on, and it kept enough context between sessions that I stopped re-explaining myself. Newer than the others so you do hit rough edges. Edge: already installed, free, and the office stuff is genuinely useful if that's your world. Otherwise not much reason to be here. Where I landed is that some of these read for you and some do things for you, and those aren't the same product. What am I missing?
+
+3m ago
 
 ---
 
@@ -65,53 +113,7 @@ I just had a thought about the kinds of desktop programs I use day to day, they 
 
 Not necessarily something huge. A tiny change in how you search, write, work, create, or interact with technology can say a lot about how quickly things are changing. What comes to mind?
 
-4h ago
-
----
-
-**[The neuroscience case for never delegating judgment to AI](https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/)**
-
-I keep asking people a simple question: how many times has your gut been right — not the times you wish you had listened, the times you actually had the feeling and later found out whether it was correct? The answer comes back north of ninety per cent for almost everyone I ask. That is not a hunch. If a model gave me ninety per cent on a hard classification task, I would ship it. So I went looking for why, and ended up somewhere I did not expect. A gut feeling is not the absence of reasoning — it is reasoning you never got the transcript of. Your senses pick up far more than reaches conscious awareness (the birds stopping, the smell that was not there ninety seconds ago), and something nonconscious pattern-matches all of it against a lifetime of context and returns a single bit: right or wrong. Damasio's somatic marker hypothesis is the actual mechanism here, not mysticism, a documented one, backed by the Iowa Gambling Task. Which is the argument for a rule I think more people should take seriously: delegate the search, the draft, the first ten wrong answers to AI. Never delegate the deciding. The reason is not sentimentality — a model can be given everything you know how to say, but not the thing you lived through and never wrote down, and that is where the ninety per cent actually lives. Curious whether others here have noticed the same gap between what they can explain and what they can just tell.
-
 10h ago
-
----
-
-**[Exclusive: Google expands pilot program that pays developers and small businesses for proprietary, offline code (and other data)](https://www.reddit.com/r/artificial/comments/1wv8qwd/exclusive_google_expands_pilot_program_that_pays/)**
-
-Google has not specified which products will use code obtained through this pilot, how much it pays, or what rights it receives under a typical agreement. Those
-
-🔗 [Venturebeat](https://venturebeat.com/data/exclusive-google-expands-pilot-program-that-pays-developers-and-small-businesses-for-proprietary-offline-code-and-other-data) • 9h ago
-
----
-
-**[Federal judge blocks New York's ban on algorithmic rent pricing](https://www.reddit.com/r/artificial/comments/1wvb8io/federal_judge_blocks_new_yorks_ban_on_algorithmic/)**
-
-🔗 [news10.com](https://www.news10.com/capitol/judge-blocks-ny-rent-algorithm-ban/) • 7h ago
-
----
-
-**[New AI models used to arrive every 10 weeks, now it’s every 21 days, so much for slowing down.](https://www.reddit.com/r/artificial/comments/1wv3cl3/new_ai_models_used_to_arrive_every_10_weeks_now/)**
-
-https://preview.redd.it/ny0kb1xqqvsh1.png?width=1285&format=png&auto=webp&s=d26d9ac7c3940147a33f8629843bc1aa77a618e2 New AI models used to arrive every 10 weeks, now it’s every 21 days
-
-12h ago
-
----
-
-**[Google cooked OpenAI and Anthropic with Gemini 4 Argon](https://www.reddit.com/r/artificial/comments/1wufikm/google_cooked_openai_and_anthropic_with_gemini_4/)**
-
-Three frontier models in a month! Every new kills the old one!
-
-1d ago
-
----
-
-**[Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president’s biggest lies.](https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/)**
-
-Trump officials seem to have realized their AI chatbot was correcting the president’s biggest lies.
-
-🔗 [The New Republic](https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies) • 1d ago
 
 ---
 
@@ -121,75 +123,75 @@ Trump officials seem to have realized their AI chatbot was correcting the presid
 
 **[Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528)**
 
-WSJ • 5h ago
-
----
-
-**[OpenAI fires three workers over mishandling 'sensitive information'](https://www.bbc.com/news/articles/c6y9z9r4ejzwo)**
-
-The former employees were investigated for sharing data with an outside AI evaluation group.
-
-BBC • 3h ago
-
----
-
-**[OpenAI executive calls for national AI safety standards amid industry scrutiny](https://www.cnn.com/2026/10/01/science/video/cnn-sitroom-pamela-brown-openai-chris-lehane-regulation-oversight-artificial-intelligence)**
-
-OpenAI Chief Global Affairs Officer Chris Lehane tells CNN’s Pamela Brown that AI companies must earn the public’s trust and supports national standards to guide the technology’s development.
-
-CNN • 12h ago
-
----
-
-**[Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate](https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html)**
-
-The New York Times • 1d ago
-
----
-
-**[AI liability fight reaches Senate as Google releases powerful new model](https://www.foxnews.com/live-news/gop-senator-hawley-ai-google-gemini-frontier-model-10-1-26)**
-
-Republican Sen. Josh Hawley and Democratic Sen. Chris Murphy are set to introduce bipartisan legislation that would hold AI companies legally liable for hacking incidents, as Google unveils its latest frontier model.
-
-Fox News • 3h ago
-
----
-
-**[Gemini 4 Argon: our next era of frontier intelligence](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)**
-
-Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.
-
-blog.google • 1d ago
-
----
-
-**[SPUR publishes AI content tracking standard, pitches OpenAI and Google to join](https://digiday.com/media/spur-publishes-ai-content-tracking-standard-pitches-openai-and-google-to-join/)**
-
-Publishers are pushing for AI transparency with a new SPUR standard to track how AI tools use content, and inviting frontier AI labs to help.
-
-Digiday • 22m ago
-
----
-
-**[Ben Affleck Explains His Approach to Using AI Ethically on New Movie](https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-approach-ai-ethically-animals-replacing-1236720613/)**
-
-"I wouldn't use something that trains on or has learned from any work that is copywritten, or that is an intelligence created by a peer of mine or somebody that I look up to," the actor-director emphasized.
-
-The Hollywood Reporter • 50m ago
+WSJ • 11h ago
 
 ---
 
 **[China’s Push into A.I. Has Led to a Problem: Too Much Usage](https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html)**
 
-The New York Times • 24m ago
+The New York Times • 49m ago
 
 ---
 
-**[Mike Rowe warns US workforce facing ‘problem of the decade’](https://www.foxbusiness.com/media/mike-rowe-warns-us-workforce-facing-problem-decade)**
+**[Behind the Curtain: AI's existential legal crisis](https://www.axios.com/2026/10/02/artificial-intelligence-ai-legal-liability)**
 
-Mike Rowe says CEOs are "freaking out" over the skilled labor shortage, calling the workforce crisis the "problem of the decade" with no easy fix.
+Axios • 52m ago
 
-Fox Business • 17h ago
+---
+
+**[How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%](https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html)**
+
+Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.
+
+CNBC • 40m ago
+
+---
+
+**[AI blurs lines in campaign ads: ‘People are seeing things that didn’t happen’](https://www.cnn.com/2026/10/02/politics/ai-campaign-ads-disclosure-invs-vis)**
+
+Political campaigns and groups are spending tens of millions of dollars on ads that employ AI, often without disclosing that they’re using it.
+
+CNN • 39m ago
+
+---
+
+**[Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations](https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations)**
+
+Researcher Peter Garrigan says Moonshot AI's Kimi model was manipulated into providing instructions for biological weapons and assassination plans.
+
+Fox News • 9h ago
+
+---
+
+**[Analysis | When you should use Google’s AI for search — and when you should skip it](https://www.washingtonpost.com/technology/2026/10/01/when-you-should-use-googles-ai-search-when-you-should-skip-it/)**
+
+If you’re only looking for a specific data point, scroll right past “AI Overview” and other search results
+
+The Washington Post • 7m ago
+
+---
+
+**[Google rolls out new Gemini AI model but restricts access over safety concerns](https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions)**
+
+Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers
+
+theguardian.com • 17h ago
+
+---
+
+**[Google unveils latest AI model, but Wall Street wants a breakout personal agent](https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html)**
+
+Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.
+
+CNBC • 16h ago
+
+---
+
+**['Things may get ugly': Meta's new AI Muse is about to make the internet more annoying](https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet)**
+
+Someday we'll redesign the internet for tools like this. Until then, you're in for a wild ride.
+
+BBC • 1d ago
 
 ---
 
@@ -205,17 +207,11 @@ Online sports betting company DraftKings is using AI to target customers who are
 
 ---
 
-**[A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://news.ycombinator.com/item?id=49890226)**
-
-⬆️ 423 • 💬 139 • 2d ago • [jorgegarciaherrero.com](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
-
----
-
 **[The AI Race Just Got Awkward](https://news.ycombinator.com/item?id=49910553)**
 
 Funny how quiet everyone got.
 
-⬆️ 409 • 💬 455 • 1d ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
+⬆️ 410 • 💬 456 • 1d ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
 
 ---
 
@@ -231,7 +227,7 @@ Data centre sizes and costs are doubling about every 12 to 16 months
 
 The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.
 
-⬆️ 200 • 💬 151 • 15h ago • [CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
+⬆️ 204 • 💬 153 • 21h ago • [CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
 
 ---
 
@@ -247,9 +243,15 @@ The probe adds to the mounting scrutiny that OpenAI and Anthropic have been faci
 
 ---
 
+**[Vote on which of Hacker News' challenges for AI have been met](https://news.ycombinator.com/item?id=49924618)**
+
+⬆️ 146 • 💬 175 • 17h ago • [stoppels.ch](https://stoppels.ch/goalposts/)
+
+---
+
 **[Responsible Release of AI-Generated Mathematics](https://news.ycombinator.com/item?id=49903713)**
 
-⬆️ 118 • 💬 174 • 2d ago • [agmai.org](https://agmai.org/general-sep29/)
+⬆️ 119 • 💬 177 • 2d ago • [agmai.org](https://agmai.org/general-sep29/)
 
 ---
 
@@ -257,13 +259,15 @@ The probe adds to the mounting scrutiny that OpenAI and Anthropic have been faci
 
 Jeff Turkstra's personal website. Contains photographs, memoirs, TI-86 & TI-89 programs/games, quotes, MIDI's, SeaQuest images, links, and more!
 
-⬆️ 116 • 💬 103 • 1d ago • [turkeyland.net](https://turkeyland.net/thoughts/ai.php)
+⬆️ 117 • 💬 104 • 1d ago • [turkeyland.net](https://turkeyland.net/thoughts/ai.php)
 
 ---
 
-**[Vote on which of Hacker News' challenges for AI have been met](https://news.ycombinator.com/item?id=49924618)**
+**[An AI sovereign wealth fund isn't progressive – it's techno-imperialism](https://news.ycombinator.com/item?id=49921051)**
 
-⬆️ 110 • 💬 121 • 10h ago • [stoppels.ch](https://stoppels.ch/goalposts/)
+Accruing income at home from land and power abroad has an old name: empire
+
+⬆️ 89 • 💬 63 • 21h ago • [ft.com](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243)
 
 ---
 
@@ -271,63 +275,13 @@ Jeff Turkstra's personal website. Contains photographs, memoirs, TI-86 & TI-89 p
 
 ## YouTube Videos: "ai"
 
-**[Bill Gates CLOWNS Ezra Klein For Saying AI Can Self Regulate](https://www.youtube.com/watch?v=Qn2ZGMFp_VA)**
-
-Ryan and Saagar discuss Bill Gates and Ezra Klein on AI. Sign Up For 30 Day Free BP Trial: https://breakingpoints.supercast.com/ ...
-
-📺 Breaking Points
-
-👁️ 135K • 👍 2K • 💬 669 • ⏱️ 15:21 • 10h ago
-
----
-
-**[White House AI chatbot EXPOSES Trump’s false claims](https://www.youtube.com/watch?v=xRGguD-ldsc)**
-
-Jen Psaki tests out America.gov and finds the White House's new AI chatbot contradicting Trump on some of his favorite ...
-
-📺 MS NOW
-
-👁️ 15K • 👍 1K • 💬 40 • ⏱️ 3:00 • 3h ago
-
----
-
 **[48 Hours After Zuckerberg Said AI Is Safe, This Happened](https://www.youtube.com/watch?v=gv1E8YgGumE)**
 
 FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Two days after Zuckerberg argued ...
 
 📺 Julia McCoy
 
-👁️ 21K • 👍 661 • 💬 76 • ⏱️ 8:58 • 13h ago
-
----
-
-**[THIS is What Happens When AI Gets Smarter Than Humans](https://www.youtube.com/watch?v=WsdcF7EEvhM)**
-
-OpusClip: Go to https://clip.opus.pro/dashboard?coupon_code=NEWIMPACT to try Opus Clip for free today and get 50% off your ...
-
-📺 Tom Bilyeu
-
-👁️ 100K • 👍 2K • 💬 550 • ⏱️ 1:44:54 • 15h ago
-
----
-
-**[AI Leaders Sign Trump&#39;s &quot;Self-Policing&quot; Pact &amp; Eric Schmitt&#39;s Ambush Backfires | The Daily Show](https://www.youtube.com/watch?v=Rb0KxHkguOo)**
-
-Jordan Klepper breaks down the headlines, including an AI summit in Washington that left us with exactly the same amount of ...
-
-📺 The Daily Show
-
-👁️ 2.4M • 👍 45K • 💬 3K • ⏱️ 12:12 • 1d ago
-
----
-
-**[Trump called his new AI chatbot ‘damn good.’ Then it fact-checked him](https://www.youtube.com/watch?v=J9n1plL7040)**
-
-President Donald Trump launched a new artificial intelligence chatbot on Tuesday, calling it “damn good.” Turns out that one of ...
-
-📺 CNN
-
-👁️ 266K • 👍 2K • 💬 733 • ⏱️ 9:09 • 12h ago
+👁️ 25K • 👍 734 • 💬 82 • ⏱️ 8:58 • 19h ago
 
 ---
 
@@ -337,17 +291,17 @@ What would it actually look like if artificial intelligence became an existentia
 
 📺 The Infographics Show
 
-👁️ 166K • 👍 2K • 💬 503 • ⏱️ 19:15 • 8h ago
+👁️ 262K • 👍 3K • 💬 681 • ⏱️ 19:15 • 14h ago
 
 ---
 
-**[Googles New Gemini 4 Argon is Now The Worlds Smartest AI](https://www.youtube.com/watch?v=FfAYjDA35gY)**
+**[THIS is What Happens When AI Gets Smarter Than Humans](https://www.youtube.com/watch?v=WsdcF7EEvhM)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+OpusClip: Go to https://clip.opus.pro/dashboard?coupon_code=NEWIMPACT to try Opus Clip for free today and get 50% off your ...
 
-📺 TheAIGRID
+📺 Tom Bilyeu
 
-👁️ 83K • 👍 745 • 💬 89 • ⏱️ 11:01 • 20h ago
+👁️ 122K • 👍 2K • 💬 619 • ⏱️ 1:44:54 • 21h ago
 
 ---
 
@@ -357,17 +311,67 @@ Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution & What's Next. Sept
 
 📺 Right Side Broadcasting Network
 
-👁️ 444K • 👍 5K • 💬 981 • ⏱️ 26:37 • 2d ago
+👁️ 456K • 👍 5K • 💬 996 • ⏱️ 26:37 • 2d ago
 
 ---
 
-**[Rich people are scared of this AI.](https://www.youtube.com/watch?v=bK2lFUeG2yc)**
+**[AI Expert WARNS: &quot;You&#39;re Not Ready For 2027&quot;](https://www.youtube.com/watch?v=m94OMx1eBy0)**
 
-The future is bright for all. @nasagents Thank you for watching Nas Daily! Our content has only one mission: to bring people ...
+AI safety researcher Roman Yampolskiy explains why he believes that once artificial intelligence starts building the next ...
 
-📺 Nas Daily
+📺 The Diary Of A CEO Clips
 
-👁️ 28K • 👍 2K • 💬 39 • ⏱️ 1:39 • 11h ago
+👁️ 1.9M • 👍 13K • 💬 2K • ⏱️ 20:03 • 2d ago
+
+---
+
+**[Bill Gates: A.I. ‘Makes Nuclear Weapons Look Like Nothing’ | The Ezra Klein Show](https://www.youtube.com/watch?v=A_156w0aYtU)**
+
+Bill Gates thinks A.I. alarmism hasn't gone far enough. He believes the years ahead will be marred by catastrophic cyberattacks, ...
+
+📺 The Ezra Klein Show
+
+👁️ 851K • 👍 10K • 💬 3K • ⏱️ 1:13:50 • 2d ago
+
+---
+
+**[The AI Industry is a Complete Mess](https://www.youtube.com/watch?v=e2zjpCqTmyo)**
+
+Get 22% off on PLAUD products by using code: COLDFUSION22. Website: https://bit.ly/4yTHCg0 Amazon: ...
+
+📺 ColdFusion
+
+👁️ 637K • 👍 16K • 💬 2K • ⏱️ 21:24 • 16h ago
+
+---
+
+**[Trump Created AI America.Gov BACKFIRES SPECTACULARLY | The Kyle Kulinski Show](https://www.youtube.com/watch?v=GW0y6fXkDeQ)**
+
+Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
+
+📺 Secular Talk
+
+👁️ 104K • 👍 5K • 💬 284 • ⏱️ 7:29 • 1d ago
+
+---
+
+**[Googles New Gemini 4 Argon is Now The Worlds Smartest AI](https://www.youtube.com/watch?v=FfAYjDA35gY)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 90K • 👍 772 • 💬 91 • ⏱️ 11:01 • 1d ago
+
+---
+
+**[What Is Jev? The AI Model That Doesn&#39;t Generate Text](https://www.youtube.com/watch?v=YGgNBcIgI4s)**
+
+Learn more about New Frontier AI Models here → https://ibm.biz/~rGiO8LVz1 What if an AI model didn't need to generate text?
+
+📺 IBM Technology
+
+👁️ 153K • 👍 2K • 💬 211 • ⏱️ 15:03 • 23h ago
 
 ---
 
@@ -383,7 +387,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 4,869 • 7d ago
+⬇️ 0 • ❤️ 4,895 • 8d ago
 
 ---
 
@@ -395,7 +399,7 @@ TeleOCR is a lightweight Vision-Language Model for unified document parsing of b
 
 `image-text-to-text` `1.4B`
 
-⬇️ 31,584 • ❤️ 1,234 • 3d ago
+⬇️ 32,675 • ❤️ 1,243 • 3d ago
 
 ---
 
@@ -407,31 +411,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,303,476 • ❤️ 2,719 • 3d ago
-
----
-
-**[CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B)**
-
-*CLM*
-
-CLM-v0.1-8B is a text-ranking model based on Qwen3-8B, utilizing contrastive learning for state-action connection. It excels in zero-shot performance for agentic tasks with low latency and achieves state-of-the-art results when fine-tuned as a verifier for benchmarks like DeepSWE and Terminal-Bench.
-
-`text-ranking`
-
-⬇️ 2,720 • ❤️ 628 • 7d ago
-
----
-
-**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
-
-*Qwen*
-
-Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
-
-`text-to-image` `7.1B`
-
-⬇️ 76,938 • ❤️ 2,793 • 2d ago
+⬇️ 1,376,248 • ❤️ 2,751 • 4d ago
 
 ---
 
@@ -443,7 +423,31 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 18 • ❤️ 381 • 13h ago
+⬇️ 824 • ❤️ 507 • 19h ago
+
+---
+
+**[CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B)**
+
+*CLM*
+
+CLM-v0.1-8B is a text-ranking model based on Qwen3-8B, utilizing contrastive learning for state-action connection. It excels in zero-shot performance for agentic tasks with low latency and achieves state-of-the-art results when fine-tuned as a verifier for benchmarks like DeepSWE and Terminal-Bench.
+
+`text-ranking`
+
+⬇️ 2,951 • ❤️ 633 • 7d ago
+
+---
+
+**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
+
+*Qwen*
+
+Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
+
+`text-to-image` `7.1B`
+
+⬇️ 81,738 • ❤️ 2,808 • 2d ago
 
 ---
 
@@ -455,7 +459,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,588,619 • ❤️ 5,871 • 1mo ago
+⬇️ 1,584,129 • ❤️ 5,896 • 1mo ago
 
 ---
 
@@ -467,7 +471,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,950,834 • ❤️ 16,734 • 1mo ago
+⬇️ 6,934,867 • ❤️ 16,748 • 1mo ago
 
 ---
 
@@ -479,7 +483,7 @@ Julia 1 is a 144.3M parameter multilingual text classification model based on mm
 
 `text-classification` `144.3M`
 
-⬇️ 2,556 • ❤️ 345 • 5d ago
+⬇️ 2,909 • ❤️ 349 • 5d ago
 
 ---
 
@@ -491,27 +495,13 @@ Qwen-Image-2.1-viggle-turbo is a highly efficient text-to-image and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 217,638 • ❤️ 504 • 1d ago
+⬇️ 240,660 • ❤️ 514 • 1d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)**
-
-*EverMind AI*
-
-🏢 EverMind
-
-As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.
-
-▲ 501 • 💬 3 • ⭐ 5,051 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.33439) • [💻 code](https://github.com/EverMind-AI/Raven) • [🔗 project](https://raven.evermind.ai/)
-
----
 
 **[UniMate: One Unified Model to Animate Diverse Skeletons](https://huggingface.co/papers/2609.05415)**
 
@@ -521,9 +511,23 @@ As large language models advance, AI agents are moving beyond isolated, domain-s
 
 UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.
 
-▲ 18 • 💬 2 • ⭐ 1,019 • 28d ago
+▲ 18 • 💬 2 • ⭐ 1,137 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.05415) • [💻 code](https://github.com/Friedrich-M/UniMate) • [🔗 project](https://linzhanmou.com/unimate/)
+
+---
+
+**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)**
+
+*EverMind AI*
+
+🏢 EverMind
+
+As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.
+
+▲ 505 • 💬 3 • ⭐ 5,051 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.33439) • [💻 code](https://github.com/EverMind-AI/Raven) • [🔗 project](https://raven.evermind.ai/)
 
 ---
 
@@ -535,23 +539,9 @@ UniMate is a unified diffusion transformer that generates articulated motion for
 
 We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance.
 
-▲ 27 • 💬 2 • ⭐ 363 • 3d ago
+▲ 30 • 💬 2 • ⭐ 363 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.37725) • [💻 code](https://github.com/facebookresearch/context-language-models) • [🔗 project](https://github.com/facebookresearch/context-language-models)
-
----
-
-**[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972)**
-
-*Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)*
-
-🏢 Google
-
-An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
-
-▲ 219 • 💬 2 • ⭐ 1,126 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.24972) • [💻 code](https://github.com/google-research/rrsi) • [🔗 project](https://regularized-rsi.com/)
 
 ---
 
@@ -564,6 +554,20 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 148 • 💬 6 • ⭐ 109,465 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972)**
+
+*Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)*
+
+🏢 Google
+
+An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
+
+▲ 220 • 💬 2 • ⭐ 1,162 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.24972) • [💻 code](https://github.com/google-research/rrsi) • [🔗 project](https://regularized-rsi.com/)
 
 ---
 
@@ -629,7 +633,7 @@ Speculative Decoding evaluation requires diverse workloads to accurately measure
 
 World action models (WAMs) predict the future alongside actions during training. Due to the heavy computation cost of video denoising, whether the future must still be generated during inference is disputed: Explicit WAMs denoise it into clean frames along with every action chunk, whereas Latent WAMs discard it entirely for acceleration. We find that latent WAMs, despite matching explicit ones on in-distribution tasks, fail to retain the generalization benefits that originally motivated WAMs. To demonstrate this, we evaluate generalization along three axes: environmental perturbation, data efficiency, and task generalization. Controlled comparisons with a matched backbone, training data, and budget reveal consistent degradation across all three axes when the action expert no longer conditions on future representations. Further analysis shows that the gap arises almost entirely from the first denoising step: the benefit comes from preparing the future, not generating it. We therefore propose Simple-WAM, which simplifies future modeling into a single forward pass of fully noised video tokens and adapts the training-time noise schedule to this inference behavior. Across simulation and real-world tasks, Simple-WAM achieves the best of both worlds, leading explicit WAMs in generalization performance with efficiency comparable to Latent WAMs. Project Page: https://zrporz.github.io/Simple-WAM-Web/
 
-▲ 113 • 💬 2 • ⭐ 62 • 3d ago
+▲ 116 • 💬 2 • ⭐ 62 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.34981) • [💻 code](https://github.com/LeapLabTHU/Simple-WAM) • [🔗 project](https://zrporz.github.io/Simple-WAM-Web/)
 
@@ -645,7 +649,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 2.2k • 2d ago
+⭐ 7.3k • 🔱 2.2k • 3d ago
 
 ---
 
@@ -655,7 +659,17 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 5.6k • 🔱 295 • 4h ago
+⭐ 5.7k • 🔱 304 • 11h ago
+
+---
+
+**[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)**
+
+一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+
+`TypeScript` `ai` `content-curation` `llm` `mcp` `news-aggregator`
+
+⭐ 4.9k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -666,16 +680,6 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 `TypeScript`
 
 ⭐ 4.9k • 🔱 308 • 4d ago
-
----
-
-**[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)**
-
-一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-
-`TypeScript` `ai` `content-curation` `llm` `mcp` `news-aggregator`
-
-⭐ 4.7k • 🔱 1.3k • 10h ago
 
 ---
 
@@ -695,7 +699,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 517 • 15d ago
+⭐ 2.7k • 🔱 521 • 15d ago
 
 ---
 
@@ -705,7 +709,7 @@ Open-source dots for the web: an AI agent with its own browser, one that does no
 
 `Python` `ai-agent` `ai-agents` `ai-browser` `anti-detect-browser` `browser-agent`
 
-⭐ 2.4k • 🔱 419 • 2d ago
+⭐ 2.4k • 🔱 421 • 2d ago
 
 ---
 
@@ -715,7 +719,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 2.1k • 🔱 312 • 4h ago
+⭐ 2.1k • 🔱 315 • 10h ago
 
 ---
 
@@ -725,7 +729,7 @@ Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions a
 
 `Markdown` `ai` `ai-engineering` `ai-engineering-interview` `ai-interview` `ai-interview-questions`
 
-⭐ 1.6k • 🔱 162 • 2d ago
+⭐ 1.6k • 🔱 162 • 3d ago
 
 ---
 
@@ -735,7 +739,7 @@ An open-source AI platform for knowledge work. Connect your apps, find answers, 
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 514 • 23h ago
+⭐ 1.6k • 🔱 510 • 4h ago
 
 ---
 
