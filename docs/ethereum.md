@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-02T04:25:39.116010+00:00'
+updated: '2026-10-02T10:40:13.539644+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 02, 2026 at 04:25 UTC  
+**Last Updated:** October 02, 2026 at 10:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,686.16
+### $2,735.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.4%  
-**30d:** +9.1%  
-**90d:** +53.3%  
-**1y:** -39.3%  
+**24h:** +1.6%  
+**7d:** +2.0%  
+**30d:** +9.7%  
+**90d:** +54.1%  
+**1y:** -39.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $333.46B
+**Market Cap:** $335.40B
 Rank #2
 
 **Circulating Supply:** 122,098,690 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--44.8%
+-44.5%
 
 **All-Time Low:** $0.43
-+630457.1%
++634311.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ About 2 years ago RISC-V hardware got powerful enough to do initial tests for ru
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement) • 3d ago
 
 ---
 
@@ -120,7 +120,7 @@ Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,15 +152,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge...
 
-ethereum.org • 9h ago
+ethereum.org • 15h ago
 
 ---
 
-**[MetaMask exits Ethereum validators after attacker diverts staking rewards](https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards)**
+**[DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins](https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps)**
 
-An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.
+DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
 
-CoinDesk • 20h ago
+CoinDesk • 1d ago
+
+---
+
+**[MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)**
+
+MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat.
+
+The Hacker News • 1d ago
 
 ---
 
@@ -172,19 +180,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
+**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
 
-Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
+The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
 
-The Block • 12h ago
-
----
-
-**[MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)**
-
-MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat.
-
-The Hacker News • 23h ago
+theblock.co • 10h ago
 
 ---
 
@@ -200,15 +200,7 @@ Fortune • 1d ago
 
 The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
 
-Decrypt News • 16h ago
-
----
-
-**[Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?](https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/)**
-
-Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?
-
-247wallst.com • 2d ago
+Decrypt News • 22h ago
 
 ---
 
@@ -220,11 +212,19 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered](https://www.benzinga.com/crypto/cryptocurrency/26/09/62087026/ethereum-based-stablecoin-issuer-ena-could-surge-600-standard-chartered)**
+**[Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?](https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/)**
 
-Standard Chartered sees Ethena’s ENA reaching $2 by 2028, implying 614% upside and gains ahead of Bitcoin and Ethereum.
+Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?
 
-benzinga.com • 1d ago
+24/7 Wall St. • 2d ago
+
+---
+
+**[New Crypto: Remittix Sets Final Presale Price at $0.46 as Ethereum Price Prediction Explores $5,000 and Bittensor Details V461 Upgrade](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-sets-final-presale-price-at-0-46-as-ethereum-price-prediction-explores-5-000-and-bittensor-details-v461-upgrade-1036589937)**
+
+MAJURO, Marshall Islands, Oct.  01, 2026  (GLOBE NEWSWIRE) -- Remittix has set $0.46 as the price of its final RTX presale stage ahead of the toke...
+
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -238,17 +238,7 @@ Tom Lee says the bull run is officially on and Uptober is here, with a path to $
 
 📺 Paul Barron Network
 
-👁️ 74K • 👍 2K • 💬 178 • ⏱️ 12:18 • 10h ago
-
----
-
-**[BITCOIN &amp; CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VcJqDJqq8AU)**
-
-BITCOIN & CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 154 • 💬 39 • ⏱️ 23:33 • 3h ago
+👁️ 88K • 👍 2K • 💬 215 • ⏱️ 12:18 • 16h ago
 
 ---
 
@@ -258,7 +248,7 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 📺 Crypto Archie
 
-👁️ 3K • 👍 51 • 💬 8 • ⏱️ 5:39 • 1d ago
+👁️ 4K • 👍 54 • 💬 9 • ⏱️ 5:39 • 1d ago
 
 ---
 
@@ -268,37 +258,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 2K • 👍 61 • 💬 9 • ⏱️ 10:17 • 8h ago
-
----
-
-**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
-
-Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 28K • 👍 2K • 💬 446 • ⏱️ 19:06 • 17h ago
-
----
-
-**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 167 • 💬 12 • ⏱️ 19:58 • 12h ago
-
----
-
-**[Ethereum: I Sold at a LOSS.. Then Bought It Back!!](https://www.youtube.com/watch?v=yAjokNP-Qpg)**
-
-FeeDrip (this video's sponsor) - part of your trading fees back, paid daily in USDT, no API keys https://marzell.org/feedrip ...
-
-📺 Marzell Crypto
-
-👁️ 234 • 👍 6 • 💬 1 • ⏱️ 3:13 • 6h ago
+👁️ 6K • 👍 80 • 💬 11 • ⏱️ 10:17 • 14h ago
 
 ---
 
@@ -308,7 +268,27 @@ BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watc
 
 📺 McNallie Money
 
-👁️ 1K • 👍 102 • 💬 12 • ⏱️ 18:53 • 8h ago
+👁️ 1K • 👍 97 • 💬 14 • ⏱️ 18:53 • 14h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VcJqDJqq8AU)**
+
+BITCOIN & CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 268 • 💬 55 • ⏱️ 23:33 • 9h ago
+
+---
+
+**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 180 • 💬 12 • ⏱️ 19:58 • 18h ago
 
 ---
 
@@ -318,7 +298,17 @@ FeeDrip (this video's sponsor) - part of your trading fees back, paid daily in U
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 15 • 💬 4 • ⏱️ 3:18 • 15h ago
+👁️ 2K • 👍 16 • 💬 4 • ⏱️ 3:18 • 21h ago
+
+---
+
+**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
+
+Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 31K • 👍 2K • 💬 453 • ⏱️ 19:06 • 23h ago
 
 ---
 
@@ -328,7 +318,17 @@ BREAKING WALL STREET IS COMING! $10000 ETHEREUM CALL?! XRP MILESTONE COULD SEND 
 
 📺 CryptoWendyO
 
-👁️ 18K • 👍 563 • 💬 22 • ⏱️ 30:38 • 1d ago
+👁️ 18K • 👍 570 • 💬 25 • ⏱️ 30:38 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum, Jetzt kann es ganz schnell gehen! Machen wir heute ein neues Hoch?!?](https://www.youtube.com/watch?v=cFulsFucgoo)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 428 • 💬 102 • ⏱️ 10:39 • 5h ago
 
 ---
 
