@@ -15,14 +15,24 @@
       "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
     },
     {
-      "headline": "MetaMask exits Ethereum validators after attacker diverts staking rewards",
+      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWJna0VPYzgtRHlEU0hBSlFZMkhDS2N6SHBuenR5NE9ia2VrcUhJZ0JMejNJcHNfYzJHT05zT0VXQk10YUs5cXJiVlNENWt4TV82aUJzWkNIamU2WXZQN2pYbndnRkZab3JzUFdrdXpMV2lVS2gtdWN1bGFKZEdjcVdFNk8zS0RyWTRYczhnMVJVNzhsR19IdEZtdEwxQzdOUHlQdU9jWmZ0WmJ6RWZFcnNRSUNWd053R18ySnJrX21QajQyb0kwR2VwMA?oc=5",
-      "pub_date": 1790839843.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH."
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
+      "pub_date": 1790831796.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
+      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
+    },
+    {
+      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
+      "pub_date": 1790831400.0,
+      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
+      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
     },
     {
       "headline": "BMNR Stock Forms Golden Cross For First Time Since Bitmine\u2019s Ethereum Pivot Rally",
@@ -35,24 +45,14 @@
       "description": "The last time the 50-day line crossed above the 200-day was more than a year ago, when the company pivoted to buying Ethereum."
     },
     {
-      "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
-      "source": "The Block",
+      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "source": "theblock.co",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGt0bVFseEw2SmZwX0hhUmRyREtVLXVlc3hRTElfd05BaTlJZk5JQmZPLTJBeVZkcWhabFAzTzR0anIzTlZEMmNlSUtHV0FJVjVQMC16ekFhZjlEUU5ubGt2N1BwOVZtNVFDTkJFdEZUeEx4R014MExzcEFsOFVVdTlRdXJwZHpPRTBmaFlhQkg2MndFdkNqdTJ6OUNpM0JiLVZ1WFg3dVdYVllLMC05dFEzemE1RDFwX2ppWjJnd3ZNWTJP?oc=5",
-      "pub_date": 1790871443.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-      "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
-    },
-    {
-      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
-      "pub_date": 1790831400.0,
-      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
-      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGlsRXNfYm00UlRDQ19sWGtxTTdpczZWcHVMcWR3UWhDczM0ellRSjB5NkRLY01VLU5PdHlGRTF5amlzX3FuaV9UZWY3Vk4ycGZGNHFkMVFwOTA1QmZOaFhSY2hoWWNPVzNZV1I2WC1LVEt5TlZ0bWxTZzM5R1Nyb05PMFlOSWNvT2Vjcng5aw?oc=5",
+      "pub_date": 1790900520.0,
+      "article_url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
+      "description": "The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February."
     },
     {
       "headline": "Current price of Ethereum for Sept. 30, 2026",
@@ -75,16 +75,6 @@
       "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
     },
     {
-      "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
-      "source": "247wallst.com",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjZzemhVaUlTeHlnaVNPNHh4X1FWQVJTWF9ncENJSEhTTWF2U0xSY0gzSWxXaGJZTzZwSlRHWjlJWl84S3pKaDZzanJMQkZ3SHZfN19SSjRXV2F1WW1UdVZPVk1QQXk0UFU5d3VaRjUzejF0NGdGTlRYS2NNcVZ6ZFBVMXg2OHN0S0MyRnhIQ3BTcnFqalVSeWhuZFdUYURidWJmQTZmZG1SbVZmUzlNeW91QkZ4NWFXc2FzMzJn?oc=5",
-      "pub_date": 1790719800.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/",
-      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1406692748-huge-licensed-scaled.jpg",
-      "description": "Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?"
-    },
-    {
       "headline": "Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump",
       "source": "Seeking Alpha",
       "source_url": "https://seekingalpha.com",
@@ -95,16 +85,26 @@
       "description": "Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K."
     },
     {
-      "headline": "Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered",
-      "source": "benzinga.com",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1RkaTJXQkhteXJwamVxTXoxeF9wUDhxN3YzNnA3bkd1Z1NLNmdWb2xCWm9nNkFncmxXTFBYekJWS01oNXhWOVY1aHJBU2loNUNqbU96dEI3OE9XdHN2RXZ6bTZPVm5Ib2hRTHhka3E1NjlKZmhPQ1A3VC1WSUJHMWRXaktpZ3Zrem05MFFsWlhmNjl0LU1BWWwzR0RNLTBIbWxxTFlMT1pHVWRiS190dGhld1h3cmJRNEpVdFNVVVZpdFpQX1RiNjhVaUJ5UQ?oc=5",
-      "pub_date": 1790788174.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/62087026/ethereum-based-stablecoin-issuer-ena-could-surge-600-standard-chartered",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/30/Eth-Coin-With-Blurred-Candlestick-Chart-.jpg",
-      "description": "Standard Chartered sees Ethena\u2019s ENA reaching $2 by 2028, implying 614% upside and gains ahead of Bitcoin and Ethereum."
+      "headline": "Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjZzemhVaUlTeHlnaVNPNHh4X1FWQVJTWF9ncENJSEhTTWF2U0xSY0gzSWxXaGJZTzZwSlRHWjlJWl84S3pKaDZzanJMQkZ3SHZfN19SSjRXV2F1WW1UdVZPVk1QQXk0UFU5d3VaRjUzejF0NGdGTlRYS2NNcVZ6ZFBVMXg2OHN0S0MyRnhIQ3BTcnFqalVSeWhuZFdUYURidWJmQTZmZG1SbVZmUzlNeW91QkZ4NWFXc2FzMzJn?oc=5",
+      "pub_date": 1790719800.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/",
+      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1406692748-huge-licensed-scaled.jpg",
+      "description": "Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?"
+    },
+    {
+      "headline": "New Crypto: Remittix Sets Final Presale Price at $0.46 as Ethereum Price Prediction Explores $5,000 and Bittensor Details V461 Upgrade",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYnpCdUJ3aXRjOHhGZG9kS0RxVmN3bFMwUWVvSkhzdXRNcGdoZXhfOGFkZDN5T1R3aWF6VGczM2puMG5fUWNKV18wV2txa3VYMFhId0dJU2tqMHBXUGxsTmdBTmRHQ2FnU1pBSTFMUnZiY3N1QXoweVdkNldleHVXbG1sRzZGcGQ3UE4wSHduekJtN1k5eTRGN2gwQlRFc1pOdUlsWjdMVzVUZmI0WTdlNi05VlBqaUkyV0EzMXpoWERZUWt1Y185Y21vOGtkSkt4TFdnLUk1TThyVVpvWmNVV0FtV1ZjSGlsUURTRFFCYkttTjExZUNoTXU5VlFyX1BKM3ZMWHI3a0czWk95Sm5CM1owemY0VVV4dlE?oc=5",
+      "pub_date": 1790867628.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-sets-final-presale-price-at-0-46-as-ethereum-price-prediction-explores-5-000-and-bittensor-details-v461-upgrade-1036589937",
+      "image": "https://ml.globenewswire.com/Resource/Download/930e0371-72d1-4958-b91f-e79ada9a43e7/remittix.png",
+      "description": "MAJURO, Marshall Islands, Oct.  01, 2026  (GLOBE NEWSWIRE) -- Remittix has set $0.46 as the price of its final RTX presale stage ahead of the toke..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T04:25:29.332126+00:00"
+  "fetched_at": "2026-10-02T10:40:07.018629+00:00"
 }

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-02T04:25:39.111488+00:00'
+updated: '2026-10-02T10:40:13.534348+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 02, 2026 at 04:25 UTC  
+**Last Updated:** October 02, 2026 at 10:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,394.41
+### $86,223.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
-**7d:** +2.4%  
-**30d:** +6.4%  
-**90d:** +35.9%  
+**24h:** +3.0%  
+**7d:** +2.3%  
+**30d:** +6.3%  
+**90d:** +35.8%  
 **1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1733.12B
+**Market Cap:** $1735.96B
 Rank #1
 
-**Circulating Supply:** 20,092,228 BTC
+**Circulating Supply:** 20,092,350 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-31.5%
 
 **All-Time Low:** $67.81
-+127046.4%
++127313.4%
 
 ---
 
 ## Fear & Greed Index
 
-### 74
+### 72
 **GREED**
 
 ---
@@ -133,7 +133,7 @@ These are my top 3 YouTube channels right now: AdamLivingstonBTC SimplyBitcoin 1
 
 **[Memes from 10 years ago is even more relevant today](https://www.reddit.com/r/Bitcoin/comments/1wt2pj1/memes_from_10_years_ago_is_even_more_relevant/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -157,35 +157,57 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 **[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
 
-Reuters • 19h ago
+reuters.com • 1d ago
 
 ---
 
-**[Bitcoin Pioneer Adam Back’s Empire Beset by Hack, Lawsuits](https://www.bloomberg.com/news/articles/2026-09-29/bitcoin-pioneer-adam-back-s-empire-beset-by-hack-lawsuits)**
+**[Here's What a $500 Investment in Bitcoin Could Be Worth by 2030](https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/)**
 
-Bloomberg.com • 2d ago
+If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.
+
+The Motley Fool • 4h ago
 
 ---
 
-**[U.S. market regulator seeks to make it easier for funds, advisers to hold crypto](https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html)**
+**[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand?srnd=all)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Robinhood Will Trade Stocks 24/7 Like Crypto. Does Bitcoin Lose Its Weekend Edge?](https://finance.yahoo.com/markets/crypto/articles/robinhood-trade-stocks-24-7-091312273.html)**
+
+Robinhood just announced weekend stock trading, threatening to strip away one of Bitcoin's most distinctive bragging rights. But does round-the-clock availability actually protect crypto investors, or has that supposed edge always been more marketing than reality?
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Surpasses $86,000 as More Fed Comments Ease Rate Hike Fears](https://www.moomoo.com/news/post/1000545484/bitcoin-surpasses-86000-as-more-fed-comments-ease-rate-hike)**
+
+Moomoo • 1h ago
+
+---
+
+**[Washington’s big crypto bill is stuck. The SEC is pushing ahead anyway](https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html)**
 
 The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.
 
-CNBC • 1h ago
+CNBC • 7h ago
 
 ---
 
-**[Bitcoin just landed a surprising new bull](https://finance.yahoo.com/markets/crypto/article/bitcoin-just-landed-a-surprising-new-bull-104334737.html)**
+**[Bitcoin edges higher ahead of U.S. jobs report as global bond yields surge](https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report)**
 
-Citi analyst Alex Saunders on Thursday raised his base case price forecast on bitcoin (BTC-USD) to $113,000 from $82,000.
+Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.
 
-Yahoo Finance • 17h ago
+CoinDesk • 2h ago
 
 ---
 
 **[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
 
-TribLIVE.com • 12h ago
+TribLIVE.com • 19h ago
 
 ---
 
@@ -193,41 +215,33 @@ TribLIVE.com • 12h ago
 
 Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
-**[Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report](https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024)**
+**[Bitcoin Doesn’t Pay Dividends, So How Is This ETF Yielding 25%?](https://247wallst.com/investing/etf/2026/10/01/bitcoin-doesnt-pay-dividends-so-how-is-this-etf-yielding-25/)**
 
-After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report.
+Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up.
 
-CoinDesk • 10h ago
-
----
-
-**[Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide](https://www.tradingview.com/news/chainwire:b85c9322e094b:0-lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide/)**
-
-Las Vegas, NV, October 1st, 2026, ChainwireLowest Fee Bitcoin ATMs announced the launch of more than 400 cryptocurrency ATMs across the United States. The machines allow customers to purchase Bitcoin, Ethereum, USDT and USDC with cash at a stated flat 5% fee. Customers can also pre-register online…
-
-TradingView • 9h ago
-
----
-
-**[Bitcoin Suddenly Rockets On $100,000 Fidelity Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/09/30/bitcoin-suddenly-rockets-on-100000-fidelity-price-game-changer/)**
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370)**
-
-Investing.com • 3h ago
+24/7 Wall St. • 15h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[There's a spike in Bitcoin activity around the time foreign aid money goes out](https://news.ycombinator.com/item?id=49930061)**
+
+Amazing.
+
+These researchers found that there's a spike in Bitcoin activity around the time foreign aid money goes out.
+
+Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
+
+⬆️ 13 • 💬 3 • 5h ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
+
+---
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
@@ -247,7 +261,7 @@ A machine learning bitcoin model published in full: every trade, the method behi
 
 Best Bitcoin commercial I’ve recently seen
 
-⬆️ 1 • 💬 0 • 3h ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
+⬆️ 1 • 💬 0 • 10h ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
 
 ---
 
@@ -275,27 +289,17 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Ka
 
 📺 Tyler S
 
-👁️ 12K • 👍 558 • 💬 78 • ⏱️ 10:55 • 7h ago
+👁️ 17K • 👍 655 • 💬 83 • ⏱️ 10:55 • 13h ago
 
 ---
 
-**[BIG NEWS! SEC CRYPTO CUSTODY RULES! BANKS LAUNCH COIN ON SOLANA! XRP TREASURY ON NASDAQ SOON!](https://www.youtube.com/watch?v=V_Ql6C2Z98w)**
+**[Rising Yields Can’t Stop Bitcoin: Here’s Why](https://www.youtube.com/watch?v=wfPQ4Smzme0)**
 
-Crypto News: SEC proposes new crypto custody rules for investment advisers and funds. Fiserv launches its digital asset platform ...
+The bond market had its worst quarter since 1994. Bitcoin had its best. The ten-year Treasury yield rose 87 basis points over the ...
 
-📺 Thinking Crypto
+📺 Yahoo Finance
 
-👁️ 2K • 👍 249 • 💬 10 • ⏱️ 13:41 • 1h ago
-
----
-
-**[WARNING: This Could Be The Last Chance To Buy Crypto Before The Biggest Boom Since The 90s](https://www.youtube.com/watch?v=5shTGb3s8dw)**
-
-Thanks Coinbase for sponsoring this video Coinbase: Get up to $250 in USDC rewards when you sign up with my link: ...
-
-📺 Crypto Capital Venture
-
-👁️ 16K • 👍 597 • 💬 143 • ⏱️ 15:50 • 12h ago
+👁️ 21K • 👍 376 • 💬 154 • ⏱️ 14:53 • 17h ago
 
 ---
 
@@ -305,47 +309,17 @@ Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 202 • 💬 19 • ⏱️ 8:23 • 6h ago
+👁️ 9K • 👍 249 • 💬 25 • ⏱️ 8:23 • 12h ago
 
 ---
 
-**[🚨 BITCOIN: THIS HAS NEVER HAPPENED BEFORE!!!! [should we be worried...?]](https://www.youtube.com/watch?v=_IVovPFoNN8)**
+**[It’s Going PARABOLIC! This Is Bitcoin’s $1 Million Catalyst - Jordi Visser](https://www.youtube.com/watch?v=NTYYe0asJ6o)**
 
-Bitcoin has never closed all Q3 months positive! Does this mean UPtober is cancelled? Here's what to watch! BTCC ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Crypto Zombie
+📺 Savvy Finance
 
-👁️ 14K • 👍 972 • 💬 146 • ⏱️ 24:12 • 11h ago
-
----
-
-**[Bitcoin has 100% CONFIRMED the bull market - Next leg up starting now](https://www.youtube.com/watch?v=pLwYJKQ5RUs)**
-
-Bitcoin 4 year cycle Private service: https://whop.com/dreamcrypto/products/dreamcrypto/ Share this video with a friend who will ...
-
-📺 Dream Crypto 
-
-👁️ 2K • 👍 121 • 💬 49 • ⏱️ 9:58 • 6h ago
-
----
-
-**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 167 • 💬 12 • ⏱️ 19:58 • 12h ago
-
----
-
-**[When I&#39;m Selling My Bitcoin This Bull Run](https://www.youtube.com/watch?v=dhPAtH7zZF8)**
-
-Can you call the Bitcoin cycle top before the big reversal? No, and nobody reliably has. You get two honest choices. Sell early ...
-
-📺 VirtualBacon
-
-👁️ 15K • 👍 342 • 💬 83 • ⏱️ 5:33 • 8h ago
+👁️ 5K • 👍 106 • 💬 20 • ⏱️ 19:42 • 11h ago
 
 ---
 
@@ -355,17 +329,57 @@ Green September for Bitcoin is officially in the books and that has only happene
 
 📺 Crypto Banter
 
-👁️ 32K • 👍 1K • 💬 30 • ⏱️ 35:12 • 14h ago
+👁️ 35K • 👍 1K • 💬 33 • ⏱️ 35:12 • 20h ago
 
 ---
 
-**[Bitcoin (BTC): The 62.09 On The RSI Is WARNING Us An IMPORTANT Move Is Coming! (WATCH ASAP)](https://www.youtube.com/watch?v=5qf-1VIgQoM)**
+**[$1 Million Bitcoin SUPERCYCLE - Uptober Just Changed Everything](https://www.youtube.com/watch?v=IC4pLPy62ZY)**
 
-Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Excluding Australian Viewers) 15% off ...
+Bitcoin just delivered its strongest Q3 since 2017 as Uptober officially begins, Wall Street raises Bitcoin targets, U.S. money supply ...
 
-📺 MegaWhale Crypto
+📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 212 • 💬 85 • ⏱️ 24:12 • 3h ago
+👁️ 5K • 👍 264 • 💬 172 • ⏱️ 14:47 • 12h ago
+
+---
+
+**[Crypto Holders: The SEC Just Unlocked $176 Trillion (Huge Inflows)](https://www.youtube.com/watch?v=JHt8bYB9FKE)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trezor: ...
+
+📺 Aaron Bennett
+
+👁️ 7K • 👍 374 • 💬 53 • ⏱️ 11:26 • 6h ago
+
+---
+
+**[Bitcoin Consolidates. WEN FISH? Live Trading](https://www.youtube.com/watch?v=MURgcTJ3fsY)**
+
+Zen Master JP Does Live Bitcoin Analysis every day! Wen Fish? Now. Get 30% deposit bonus with BTCC ...
+
+📺 Sin City Crypto
+
+👁️ 6K • 👍 165 • 💬 1 • ⏱️ 3:25:20 • 9h ago
+
+---
+
+**[How AI Could Take Bitcoin to $1 Million | Jordi Visser](https://www.youtube.com/watch?v=g_CD71CIqlw)**
+
+I think everyone is underestimating the speed of AI.” Jordi Visser joins the show to discuss why he believes AI could trigger a ...
+
+📺 What Bitcoin Did
+
+👁️ 51K • 👍 1K • 💬 132 • ⏱️ 1:19:42 • 1d ago
+
+---
+
+**[Mark Moss: The Bitcoin Endgame - BTC to $1 Million by 2030](https://www.youtube.com/watch?v=e8GZZe4v2AM)**
+
+The Fed just raised rates, yet Bitcoin keeps climbing. Mark Moss, host of the Market Disruptors podcast, explains why he thinks ...
+
+📺 Bitcoin Magazine
+
+👁️ 45K • 👍 637 • 💬 31 • ⏱️ 29:02 • 1d ago
 
 ---
 
