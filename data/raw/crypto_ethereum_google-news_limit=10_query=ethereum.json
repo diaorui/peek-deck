@@ -15,34 +15,24 @@
       "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
     },
     {
-      "headline": "Bitcoin and ethereum prices today, Thursday, October 1, 2026: Not much price movement this morning, but Citigroup says that will change",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVk5RQnpncFltRVhHLWduMDd5TEZheDRPZ01xSWV6NVJDc1pfc2lYb1F0YzlGVWlWeG9QQnp0SWw4UnpTNzk1MmFnSE9fb0lybjAwbzl5MXgtMzRlVk9pUnVyM3NyYTJXREREUWNLVEpNdXlOeFVMRGNFbFNzNGxvdUd5azdBWkJvcXd2di1VUlF5OE5ET1FweEZMQm8wNWZYbklNeTNJUEpUSFVQcXVXclZ2ZVdLTjlBVW1jd1d6blplSUlxNWZDVFB0dHdXWXozaTdsZFJ0UlRtUlo5V0J4b0kwcGN6NXJMMDR0OVRBM21iYWxXWTZsY0Z0UmtvdzRxcGJSMUJGbUp6OGdpSWJUN3ZoSmFRaEoxdEZzVjBJMHlTQ3JBTk5taXVqY1AwY1k?oc=5",
-      "pub_date": 1790854393.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-1-2026-not-much-price-movement-this-morning-but-citigroup-says-that-will-change-113313201.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg",
-      "description": "Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET."
+      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGlsRXNfYm00UlRDQ19sWGtxTTdpczZWcHVMcWR3UWhDczM0ellRSjB5NkRLY01VLU5PdHlGRTF5amlzX3FuaV9UZWY3Vk4ycGZGNHFkMVFwOTA1QmZOaFhSY2hoWWNPVzNZV1I2WC1LVEt5TlZ0bWxTZzM5R1Nyb05PMFlOSWNvT2Vjcng5aw?oc=5",
+      "pub_date": 1790900520.0,
+      "article_url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
+      "description": "The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February."
     },
     {
-      "headline": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNak5yWm93NTZDX3FweGk3N0h3TWU4SnpmYkpvWE42V2xQSnI0cHhCeUVRLTlVUFVmdFJabGtZbTUxOGhNTzYwTjJuaEtZSVBsU25HSDl6Wk9RUnBnZzBmWk43b1JORURzTWt6NTUtV0RIMjJHX0JZNnNPSldHZVlqWFZZRDJ6aDJsdDBv?oc=5",
-      "pub_date": 1790857395.0,
-      "article_url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-02-gID_7.png",
-      "description": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record."
-    },
-    {
-      "headline": "BTC Price Target: Citi Raises Bitcoin Forecast To $113K, Ethereum Target To $3,028 As ETF Inflows Return",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ1hyTjY1RFRLZlpGeGVSLW1jRldUcVBpcHUtZEpyQTlpWFhVNlR4d3RDTTF6am52Ym9qY0k5OGpNeXFXR3RnSjRDQ3RCQzFkVTBibXJ4aXJuNDJOV2RkUjBJWmVOOXNfYUoyR1VKVGpUTjhzYVF3ZnVEYWR3OUhaTkFHWGNrT3c4Y2l2Nm5UQm92SjNrR2dVcC1TY19qLWFjampxRzZnSWczQlpKN0wxVDBXX1Y2aXhZR3RwYnlCeGJEWl9pOWRmVFQwVzU1N0VfQjZxQU1BaWxxdkVhSkYweVllNllMZE9iNFo5VnNRYlU5b2s?oc=5",
-      "pub_date": 1790852560.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:35c4c52d4094b:0-btc-price-target-citi-raises-bitcoin-forecast-to-113k-ethereum-target-to-3-028-as-etf-inflows-return/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) and Ethereum (ETH) edged higher in early morning trade on Thursday, with Citigroup raising its 12-month price targets for both leading cryptocurrencies, pointing to stronger crypto market activity, a more supportive macroeconomic backdrop and a resumption of exchange-traded fund inflo\u2026"
+      "headline": "Ethereum Crypto Presale Pepeto Announces Its Final Stages Before Binance While Cardano Price Prediction Targets $3.25",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcV9uZmRaZ3VnVnFNVG1Sdm9FUnlabk5YLTJPc0xlc01qbzYzTWhUNk1vZ1V1d012YmZCTVNMWVZqTkpTNXdQOWlhYmRNbHg4U2RMTXdJcGJvZ3BWTXVtVXpCSE5Ka21CSnFtTV9MRzBwRWo0QU52ei1kb3JqdE5fNkxaZ1VlRnRFdWFxY0YyY1ViRUg4U3Z1dnA4WlZ6TWFFLTU1dG5oeFBjUnZieGdJWGJ2bHM4MG81UEFqZXgyYWxqWEVTVWdpRTZteGZDWURkTl83emJ1TW9YV2xzT0hDSXRGTkNLaG9OeHNUNzV4Z1RDWEFUeEF0dEg1cTA2YTFUaEkzOVZB?oc=5",
+      "pub_date": 1790971456.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603",
+      "image": "https://ml.globenewswire.com/Resource/Download/a4279050-40a2-476d-803a-81d970034f5c/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25.jpg",
+      "description": "DUBAI, United Arab Emirates, Oct.  02, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto has announced its crypto presale is entering its fi..."
     },
     {
       "headline": "Bitcoin and ethereum prices today, Friday, October 2, 2026: Crypto prices surging ahead of September jobs report",
@@ -75,23 +65,33 @@
       "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
     },
     {
-      "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGt0bVFseEw2SmZwX0hhUmRyREtVLXVlc3hRTElfd05BaTlJZk5JQmZPLTJBeVZkcWhabFAzTzR0anIzTlZEMmNlSUtHV0FJVjVQMC16ekFhZjlEUU5ubGt2N1BwOVZtNVFDTkJFdEZUeEx4R014MExzcEFsOFVVdTlRdXJwZHpPRTBmaFlhQkg2MndFdkNqdTJ6OUNpM0JiLVZ1WFg3dVdYVllLMC05dFEzemE1RDFwX2ppWjJnd3ZNWTJP?oc=5",
-      "pub_date": 1790871443.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-      "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
+      "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1ZYMVphb2FWSWtpbjlUTFI4dG92eGVkcFdtQnJEMjNMZ3lnamF5TzdiTmx0U2RMQldmNnp3TENfa0JKZlJuNEtidVRTVXd1MDhoYTFzSkhQWFcyeGszeG1xMDBxOVBhUDRLVVR0MEFkejRBN1pfYXA5NUhtS05YWEhlVl9hcGw2ZGtJbUk5VDJDYVF2SVRPc2k3ZTJ6VThMUGVITWk0NXd6RFZ6cTBqdWpqTWpFMTF0bHJfSklWSWhMVk9m?oc=5",
+      "pub_date": 1790963586.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:c06a50342094b:0-bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin CRYPTO:BTCUSD has pared gains from Friday morning trading, selling off $84,600 after a rally to $86,500 into a weaker-than-expected jobs numbers report.Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD followed the reversal, with social sentiment flipping sharply negative, according to data prov\u2026"
     },
     {
-      "headline": "Current price of Ethereum for Oct. 2, 2026",
+      "headline": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsdV9JeC1lS3BSeEFPOGNIeUtnbmlBUEJLdUl5bjVScFlIODlQLWdyNmowZElCSVRFVFRfOEI1TVdWSHhzZ21tUXN0YTg0TEtQbXppdXhSZHhrSmhOOEtBcXdEVmNsOWFDWnNhVVFzUQ?oc=5",
+      "pub_date": 1790963226.0,
+      "article_url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
+      "description": "Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet."
+    },
+    {
+      "headline": "Current price of Ethereum for Sept. 30, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MmJaUGJBRTVJR0pVaXAyWUFZZ2VPSFhUVWxqN1Vudnh6MGhwTFhZOVMxQUhEQjlxaHZXQ0J4NmhQaVM0SHRLdHZYeEdfaGx0bjlEVjlvWF85SlBTWTJKSzBTNGcwU3h3?oc=5",
-      "pub_date": 1790948160.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-02-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Oct-2.jpg?resize=1200,600",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RLVk1dkxXYnlHZ3dzbUtKVFczWm5GbVVlTWRyaEd3QVlyUFdLQ3pUNE5JeF96VkpLR1dzRHRuSHJ1Mkkydl9lUGRtdm91dEUweHlBVXUwSTIyZjU4Znd4VmtpalVVeWtK?oc=5",
+      "pub_date": 1790782440.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-30.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T16:31:33.270982+00:00"
+  "fetched_at": "2026-10-02T21:11:27.841351+00:00"
 }
