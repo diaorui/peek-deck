@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-02T10:40:13.539644+00:00'
+updated: '2026-10-02T16:31:42.832807+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 02, 2026 at 10:40 UTC  
+**Last Updated:** October 02, 2026 at 16:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +2.0%  
-**30d:** +9.7%  
-**90d:** +54.1%  
-**1y:** -39.0%  
+**24h:** -0.2%  
+**7d:** -0.1%  
+**30d:** +7.5%  
+**90d:** +51.0%  
+**1y:** -40.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $335.40B
+**Market Cap:** $328.82B
 Rank #2
 
 **Circulating Supply:** 122,098,690 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--44.5%
+-45.6%
 
 **All-Time Low:** $0.43
-+634311.8%
++621893.2%
 
 ---
 
@@ -96,7 +96,7 @@ spent an hour moving eth around mainnet gas is still insane for simple swaps, an
 
 About 2 years ago RISC-V hardware got powerful enough to do initial tests for running an Ethereum node on such hardware. As expected, the speed wasn't quite there yet, but we started getting some clients ready, submitted PRs, got a Devcon talk and even got some core devs interested in it. There were steady improvements in the last 2 years. We were able to run nodes for larger test networks until we managed to sync mainnet about a year ago. But only barely so. Technically it stayed in sync, but practically it was always 1-2 slots behind. This changed this summer with the newest hardware iteration. I managed to run a fully synced Ethereum node on a RISC-V single board computer (Spacemit K3 CoM260). The validator running through that node attested flawlessly and correctly attested head votes, even right after epoch boundaries. The node still is a bit slower than my usual NUCs, but that is not surprising as the board has about the power of a Raspberry Pi 5. In my impression the bottleneck still is the consensus workload. Reducing the number of individual validators helped here quite a bit. The execution client has some spare power to be able to handle gas limit increases and thanks to ePBS it should get more time per slot to do its duties anyway. So I hope my node can handle the workload for 1 or 2 more years. Currently 2 Consensus clients run out of the box (Nimbus and Lighthouse). On the execution side, geth has always just worked. Now, Ethrex is also running, even though the initial sync is a bit more involved because the board has a 'only' 32 GB of RAM. But when Ethrex works it works perfectly and is very resource efficient. It is great to see that a second execution client now runs on RISC-V hardware. Grandine builds, but fails to run. I did not have the time yet to investigate as to why. Eth-docker also works, but does not support all client pairs just yet. As RISC-V is an open standard, I see these CPUs to be able to capture a junk of the consumer market in the long run. It already happens with a lot of lower cost applications, where RISC-V CPUs replace more expensive ARM and other chips. There are also well funded companies building servers and consumer PCs using RISC-V CPUs There are also a some who specialize on building accelerator cards using the RISC-V standard. We will have to see if RISC-V CPUs manage to capture large parts of the market. If it it happens it will take years (~ a decade). With the direction Ethereum is taking with zk proving the network, I definitely see a possibility that smaller nodes will run on low cost hardware. RISC-V CPUs have a clear advantage here. Currently with the resource usage of an Ethereum node, combined with the RAM and SSD prices, the price advantage a RISC-V CPU can have does not really matter. I expect it will in the long run though. For people wanting to know more about the progress, here are some reddit posts in chronological order: First post in 2024: https://www.reddit.com/r/ethfinance/comments/1ewn8dw/daily_general_discussion_august_20_2024/lj2anr4/ Announcement of the Devcon talk we gave in Bangkok in 2024: https://www.reddit.com/r/ethfinance/comments/1gn3k7p/daily_general_discussion_november_9_2024/lw85ry2/ First person to run execution and consensus client simultaneously on RISC-V hardware (two boards) in 2025 for Ethereum mainnet. They later improved Lighthouse to support RISC-V out of the box: https://www.reddit.com/r/RISCV/comments/1j5uqrs/ethereum_node_on_riscv_yes_its_possible/ Summary of the progress in 2025/2026 with first node running on one board: https://old.reddit.com/r/ethereum/comments/1t9tdqb/daily_general_discussion_may_11_2026/ol54wr4/
 
-2d ago
+3d ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Compute and Consensus](https://www.reddit.com/r/ethereum/comments/1wsig29/compute_and_consensus/)**
 
-🔗 [akeysfamoffice.substack.com](https://akeysfamoffice.substack.com/p/compute-and-consensus?r=95seez&utm_campaign=post-expanded-share&utm_medium=web) • 3d ago
+🔗 [akeysfamoffice.substack.com](https://akeysfamoffice.substack.com/p/compute-and-consensus?r=95seez&utm_campaign=post-expanded-share&utm_medium=web) • 4d ago
 
 ---
 
@@ -152,15 +152,39 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge...
 
-ethereum.org • 15h ago
+ethereum.org • 21h ago
 
 ---
 
-**[DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins](https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps)**
+**[Bitcoin and ethereum prices today, Thursday, October 1, 2026: Not much price movement this morning, but Citigroup says that will change](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-1-2026-not-much-price-movement-this-morning-but-citigroup-says-that-will-change-113313201.html)**
 
-DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
+Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET.
 
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K](https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k)**
+
+The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
+
+Decrypt News • 1d ago
+
+---
+
+**[BTC Price Target: Citi Raises Bitcoin Forecast To $113K, Ethereum Target To $3,028 As ETF Inflows Return](https://www.tradingview.com/news/stocktwits:35c4c52d4094b:0-btc-price-target-citi-raises-bitcoin-forecast-to-113k-ethereum-target-to-3-028-as-etf-inflows-return/)**
+
+Bitcoin (BTC) and Ethereum (ETH) edged higher in early morning trade on Thursday, with Citigroup raising its 12-month price targets for both leading cryptocurrencies, pointing to stronger crypto market activity, a more supportive macroeconomic backdrop and a resumption of exchange-traded fund inflo…
+
+TradingView • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, October 2, 2026: Crypto prices surging ahead of September jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-october-2-2026-crypto-prices-surging-ahead-of-september-jobs-report-112959413.html)**
+
+Bitcoin opened at $84,849.93 on Friday, October 2, 2026, up 1.6% from Thursday's open. As of 7:25 a.m. ET this morning, the price of bitcoin jumped to $86,459.67. Ethereum opened at $2,705.58 today, up 0.8% from Thursday's opening price. The price of ethereum moved up to $2,747.05 as of 7:25 a.m. ET.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -172,59 +196,35 @@ The Hacker News • 1d ago
 
 ---
 
-**[BMNR Stock Forms Golden Cross For First Time Since Bitmine’s Ethereum Pivot Rally](https://finance.yahoo.com/markets/stocks/articles/bmnr-stock-forms-golden-cross-170445383.html)**
+**[DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins](https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps)**
 
-The last time the 50-day line crossed above the 200-day was more than a year ago, when the company pivoted to buying Ethereum.
+DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
-
-The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
-
-theblock.co • 10h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for Sept. 30, 2026](https://fortune.com/article/price-of-ethereum-09-30-2026/)**
+**[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
+
+Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
+
+The Block • 1d ago
+
+---
+
+**[Current price of Ethereum for Oct. 2, 2026](https://fortune.com/article/price-of-ethereum-10-02-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1d ago
+Fortune • 2h ago
 
 ---
 
-**[Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K](https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k)**
+**[Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates](https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/)**
 
-The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
+Ethereum's Oct. 6 Glamsterdam test will show whether validators coordinate around a target more than three times today’s 60 million default.
 
-Decrypt News • 22h ago
-
----
-
-**[Hayes sets bullish Bitcoin, Ethereum predictions; crypto stocks jump](https://seekingalpha.com/news/4648479-hayes-sets-bullish-bitcoin-ethereum-predictions-crypto-stocks-jump)**
-
-Arthur Hayes predicts Bitcoin could hit $1M by 2030 as an AI bubble drives liquidity, with ETH eyeing $10K.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Cardano vs Ethereum: Which Smart Contract Platform Wins by 2030?](https://247wallst.com/investing/cryptocurrency/2026/09/29/cardano-vs-ethereum-which-smart-contract-platform-wins-by-2030/)**
-
-Cardano has outperformed Ethereum over 90 days, yet Ethereum's market value is 35 times larger. Who wins Cardano vs. Ethereum by 2030?
-
-24/7 Wall St. • 2d ago
-
----
-
-**[New Crypto: Remittix Sets Final Presale Price at $0.46 as Ethereum Price Prediction Explores $5,000 and Bittensor Details V461 Upgrade](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-sets-final-presale-price-at-0-46-as-ethereum-price-prediction-explores-5-000-and-bittensor-details-v461-upgrade-1036589937)**
-
-MAJURO, Marshall Islands, Oct.  01, 2026  (GLOBE NEWSWIRE) -- Remittix has set $0.46 as the price of its final RTX presale stage ahead of the toke...
-
-markets.businessinsider.com • 19h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -238,7 +238,17 @@ Tom Lee says the bull run is officially on and Uptober is here, with a path to $
 
 📺 Paul Barron Network
 
-👁️ 88K • 👍 2K • 💬 215 • ⏱️ 12:18 • 16h ago
+👁️ 97K • 👍 2K • 💬 232 • ⏱️ 12:18 • 22h ago
+
+---
+
+**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
+
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
+
+📺 Crypto Archie
+
+👁️ 322 • 👍 38 • ⏱️ 10:16 • 2h ago
 
 ---
 
@@ -248,7 +258,7 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 📺 Crypto Archie
 
-👁️ 4K • 👍 54 • 💬 9 • ⏱️ 5:39 • 1d ago
+👁️ 4K • 👍 55 • 💬 9 • ⏱️ 5:39 • 2d ago
 
 ---
 
@@ -258,27 +268,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 6K • 👍 80 • 💬 11 • ⏱️ 10:17 • 14h ago
-
----
-
-**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
-
-BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
-
-📺 McNallie Money
-
-👁️ 1K • 👍 97 • 💬 14 • ⏱️ 18:53 • 14h ago
-
----
-
-**[BITCOIN &amp; CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VcJqDJqq8AU)**
-
-BITCOIN & CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 268 • 💬 55 • ⏱️ 23:33 • 9h ago
+👁️ 7K • 👍 90 • 💬 13 • ⏱️ 10:17 • 20h ago
 
 ---
 
@@ -288,7 +278,47 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 180 • 💬 12 • ⏱️ 19:58 • 18h ago
+👁️ 9K • 👍 186 • 💬 12 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
+
+BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
+
+📺 McNallie Money
+
+👁️ 2K • 👍 100 • 💬 17 • ⏱️ 18:53 • 20h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VcJqDJqq8AU)**
+
+BITCOIN & CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 314 • 💬 92 • ⏱️ 23:33 • 15h ago
+
+---
+
+**[🚨 XRP Is About To Explode Like Ethereum! #xrp #crypto #prediction](https://www.youtube.com/watch?v=7IX0nAIxXW0)**
+
+Watch the full video. https://youtu.be/nDqXO3UxVZ0 Can the 2017 Ethereum bull run provide a blueprint for your XRP price ...
+
+📺 Digital Perspectives
+
+👁️ 739 • 👍 55 • 💬 3 • ⏱️ 0:55 • 1h ago
+
+---
+
+**[Risk On Continues for Bitcoin and Altcoin Market as XRP, ETH, BTC &amp; Alts Close Quarter Positive](https://www.youtube.com/watch?v=fDd88Hksfd8)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 13K • 👍 2K • 💬 3 • ⏱️ 19:36 • 4h ago
 
 ---
 
@@ -298,37 +328,7 @@ FeeDrip (this video's sponsor) - part of your trading fees back, paid daily in U
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 16 • 💬 4 • ⏱️ 3:18 • 21h ago
-
----
-
-**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
-
-Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 31K • 👍 2K • 💬 453 • ⏱️ 19:06 • 23h ago
-
----
-
-**[BREAKING WALL STREET IS COMING! $10,000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY](https://www.youtube.com/watch?v=BAJpGVA8inA)**
-
-BREAKING WALL STREET IS COMING! $10000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY Claim ...
-
-📺 CryptoWendyO
-
-👁️ 18K • 👍 570 • 💬 25 • ⏱️ 30:38 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum, Jetzt kann es ganz schnell gehen! Machen wir heute ein neues Hoch?!?](https://www.youtube.com/watch?v=cFulsFucgoo)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 428 • 💬 102 • ⏱️ 10:39 • 5h ago
+👁️ 2K • 👍 16 • 💬 6 • ⏱️ 3:18 • 1d ago
 
 ---
 

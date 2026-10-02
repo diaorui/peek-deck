@@ -15,64 +15,34 @@
       "description": null
     },
     {
-      "headline": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NZd1VreThJTktZRzdSdWt3Y01Ha3VyNzlJSGkteHd1MXZXVllPek40bU9mbnZiZ0huR0ItVkZ4NGdsd0piVURwUTU1bnVVamJ6SEcxQklzSnBBTkNFTmo5eWJVNUx3VEd4ck12bUdmQV9QN0VNS1JnOFI2SmRmNVRuRjlTdFZLUDYzOTRORkxvbUNsNi1iNA?oc=5",
-      "pub_date": 1790920800.0,
-      "article_url": "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889127%2Fsurprised-investor-with-phone.jpg&w=1200&op=resize",
-      "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000."
-    },
-    {
-      "headline": "Bitcoin Rises for Third Straight Week on Strong ETF Demand",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjEyeS1oMXB6QUtYRkcyaDJyYUdUOTRaWW1SdHBmb2J0d3FUZ080U0p4SHIzOFlUaDRMWUZWbHZoQjEzX3VaUDJlR1pYcXFZUTVqMlNKY2xubzN1TFZydVpsMjE4eC1mTmM5SDhPRWNYTTJlWVhyZ1dkVTBVeFZIZGpwNGdqeDFINHhNZ2liOWJ4TjZkWUFpUXFRU2ZfWHJOQ1VxOW5oYWprOFU4dDhyOGEwQUhDamZGNEE?oc=5",
-      "pub_date": 1790933457.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand?srnd=all",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Robinhood Will Trade Stocks 24/7 Like Crypto. Does Bitcoin Lose Its Weekend Edge?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMEMxWkFBMnZKdk9PT29SMUc3Q0RkbUxrVHptQ20tMDB5cjRkdnJSTHJnSHo0b0k5NDFkVnNZa2h3T05mN0tvZU9HVGRtUEJyRG0xWkdpeXRrMk1hQUVRcmFnSzNYQ0Z5R3I1enIwMmJXTnRxQkNpZkp2b01zTUwxN0NwSU5HUHBFVWRxOXMwa0xTaTktM25F?oc=5",
-      "pub_date": 1790932392.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-trade-stocks-24-7-091312273.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/01dc43004baf82fa94ec5a4e01eef619b169f2d66165db47e1ecb4ae922a68d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F51d1025e7d38912d43ba30a6f6ada81c.jpg",
-      "description": "Robinhood just announced weekend stock trading, threatening to strip away one of Bitcoin's most distinctive bragging rights. But does round-the-clock availability actually protect crypto investors, or has that supposed edge always been more marketing than reality?"
-    },
-    {
-      "headline": "Bitcoin Surpasses $86,000 as More Fed Comments Ease Rate Hike Fears",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTFHREJmRk5tcFM2Q3hsMVlQWEJCWmFmNUNxeVRDV1h4eDU2UC1SSHBxUl9qa2VKYW9CQ2Fqb0I2RDgtUHFrb2VWTWE1R3BOdUsybDdkbXdiTlpMMlVFXy1jZW1RZEFpaTZPOXB0TTBKLWtuU1VaN0d0c3c3Q3htYVpWX0JSRkdpc3FtbVhELTRXeGFGNTBIV3FSZEo2NzdHRHhPWHRB?oc=5",
-      "pub_date": 1790930978.0,
-      "article_url": "https://www.moomoo.com/news/post/1000545484/bitcoin-surpasses-86000-as-more-fed-comments-ease-rate-hike",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Washington\u2019s big crypto bill is stuck. The SEC is pushing ahead anyway",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWnhXc2UzZlhDcmRhTEtLWWhHNWNSNlREX1FDakR5alZZc1pzUGFobUt6WWI2ZjNJVjB3SmZMWEo0QmoyQkxWZXY1ejZtcXVrS2w5NlNqN01WTlhXREYxSk9TeDdjZEhRLXBRb1VRYWRad9IBd0FVX3lxTFBaQ0lXTmJEZ1VaR0FCUUg5YTRoUUhlMkNsZWRfWWw1aWo1SFZiNEtHdHVvSWs2N1FEZDlRVF9UYTZVUlJFYmpyWVlvYmY0MVUzQ1o2OEJRNHNSZ0xMUWw5MWE0c0dJc0pLQnRmcDBEZDBiYWZoZDlJ?oc=5",
-      "pub_date": 1790910660.0,
-      "article_url": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108083200-1736275092619-gettyimages-2192180326-porzycki-ripplean250106_npPos.jpeg?v=1736275262&w=1920&h=1080",
-      "description": "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients."
-    },
-    {
-      "headline": "Bitcoin edges higher ahead of U.S. jobs report as global bond yields surge",
+      "headline": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0ZoRmJ0eGl0LUYwODFZVTktTF9HQTBSdmV3d2g5OEpKWEwxeTNrY3FOYnVYOU1RX1lySjFDVFJack1IYlYtNVlybnlNdUZRV2h6eVN2emdKUWRyLWhBdk1wZFVrVW9MLUNxRFpHM1JjNEZCa1dKSlN1TDIxSjB0SlI1RTFQU3NpVldOeFdxc3NQY212T2c?oc=5",
-      "pub_date": 1790928714.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/705735639a0b6346c5f13b5330dd574c2aaf87d2-1200x760.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Bitcoin is up roughly 3% in October as traders await September\u2019s jobs data, while rising bond yields, a stronger dollar weigh on broader markets."
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGE3Vl9KS2FUUHFmbUFyelBNY3k4ZElkME1DMzNQSnZPQWlLZ211b0Y4eUlTaDVRWFh4VVplWE82Um1QLVptbXBFdmV3Z1RldTBHN1lTUTUyZHB3S04xU1pJOGJfLXZMZldZR2kyWThWMVRVTld3R1p3NzlCYWNTRkJ1N1FaZmxRd2c2Sy0xb1Y3R2tlRk54aG9mcDkyeDR0azRETXRaY1JROW5ET0hQWWNySlNvT0gyeEE?oc=5",
+      "pub_date": 1790937076.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f7db8efec882b601432e8971478c5f4bf5e2436-1864x1022.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk."
+    },
+    {
+      "headline": "Matador Technologies Holds 168 Bitcoin as Primary Treasury Asset",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlNNc1ZIUlhwRU80MXFJdDNOWVUwc2ZmY3ViNzRCUVQtdWI2TERsYzBQX19KTUdZZEl6aHFQbGV5WTBJV29Vc195akhZNGVpWFZuY0xFZXhlU2lEUUFwZzhfcDFWZnJkRzRWc0ZybTNHX2tQSkNTNV90RDNXc2NkTEUzOXdUVUtzNnpPc3lBaXQ?oc=5",
+      "pub_date": 1790956407.0,
+      "article_url": "https://ca.finance.yahoo.com/news/matador-technologies-holds-168-bitcoin-155327110.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Matador Technologies (MATA.V) holds 168 bitcoin as its primary treasury asset, the company said on F"
+    },
+    {
+      "headline": "Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2tHTjZ1aGt2ajdtamg0MGhuaW9mXzZaWUNYQkE3ZU5Gb3pIemdkN1Jaa0VfUkdZbHg0Wi1WNlhZR29BWF9hRFl0eTQ5RFVGMC1ZVWJycmtZQlhnTjd4VjI4M091VU5KVWpVRUU0WFVYOWZibEIydWl1ZktzeDk1Q2c2QVFYTEpyclpodXpoQnp3VjFqQkx3Q0tpbFd2Rlc4S3FRU2p3amQ5U1pVWnU3UUJyQ2F5YzBhVzFXNGlqQ29nZ1BKMDQ1MQ?oc=5",
+      "pub_date": 1790953046.0,
+      "article_url": "https://www.cnbc.com/2026/10/02/bitcoin-just-formed-a-golden-cross-pattern-the-crypto-is-setting-up-for-a-big-fourth-quarter.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108346110-1786034894698-gettyimages-1366240594-dsc01744.jpeg?v=1786035046&w=1920&h=1080",
+      "description": "When looking for best ideas for the fourth quarter nothing jumped off the charts to me \u2014 literally \u2014 like bitcoin."
     },
     {
       "headline": "\u2018Pure insanity\u2019: West Deer grapples with Bitcoin mining company\u2019s pollution and erratic coal trucks",
@@ -83,6 +53,36 @@
       "article_url": "https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NZd1VreThJTktZRzdSdWt3Y01Ha3VyNzlJSGkteHd1MXZXVllPek40bU9mbnZiZ0huR0ItVkZ4NGdsd0piVURwUTU1bnVVamJ6SEcxQklzSnBBTkNFTmo5eWJVNUx3VEd4ck12bUdmQV9QN0VNS1JnOFI2SmRmNVRuRjlTdFZLUDYzOTRORkxvbUNsNi1iNA?oc=5",
+      "pub_date": 1790920800.0,
+      "article_url": "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889127%2Fsurprised-investor-with-phone.jpg&w=1200&op=resize",
+      "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000."
+    },
+    {
+      "headline": "Bitcoin rises for third straight week on strong ETF demand",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94QVk5Z0M5bHNWeEN3WnBBX1MtdS1QcU0yRWkwRW1WaXBFZWNsZUVTZ3NkQm5fNG9CMHQ0eVlmSUpEdFRuYU1SX0xvdHhxYko3ZWhiZ282YmVhZE1LcTktaUJVWWxJeU05bUFZ?oc=5",
+      "pub_date": 1790947246.0,
+      "article_url": "https://qz.com/bitcoin-third-weekly-gain-etf-inflows-100226",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239689526-300x200.jpg",
+      "description": "The cryptocurrency climbed above $86,000 on Friday, capping its biggest quarter since the end of 2024"
+    },
+    {
+      "headline": "Current price of Bitcoin for Oct. 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYks3Z0VUVnMwUl95d1ZLQUdSR3ZKelg3NlZtQ0pMMlJSN3VvSnc5MzhXQTJPTWd6Y1BEeTkyME1tTWVja3lfQ0NhZk5jcXVlYmtTSFR1ZlNWSE53QjlQX21vX0dSQlk?oc=5",
+      "pub_date": 1790949825.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Oct-2.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "Frank Holmes: They Will Print $100 Trillion - Why To Buy Bitcoin & Gold",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T10:40:11.984156+00:00"
+  "fetched_at": "2026-10-02T16:31:29.293653+00:00"
 }

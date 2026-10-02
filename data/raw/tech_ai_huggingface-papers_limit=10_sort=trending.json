@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2609.33439",
       "arxiv_url": "https://arxiv.org/abs/2609.33439",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 505,
+      "upvotes": 509,
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/EverMind-AI/Raven",
-      "github_stars": 5051,
+      "github_stars": 5067,
       "project_page": "https://raven.evermind.ai/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2026-09-28T20:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/context-language-models",
-      "github_stars": 363,
+      "github_stars": 425,
       "project_page": "https://github.com/facebookresearch/context-language-models"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 109465,
+      "github_stars": 109518,
       "project_page": null
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89759,
+      "github_stars": 89796,
       "project_page": null
     },
     {
@@ -130,8 +130,27 @@
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
-      "github_stars": 415,
+      "github_stars": 438,
       "project_page": null
+    },
+    {
+      "id": "2610.02193",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "authors": "Hui Ren, Zihan Li, Chang Liu et al. (5 authors)",
+      "organization_name": "UIUC-CS",
+      "organization_fullname": "University of Illinois at Urbana-Champaign",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65448b21fcb96b8b48733729/ycqcXFayMTTD_KpE37067.jpeg",
+      "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.02193",
+      "arxiv_url": "https://arxiv.org/abs/2610.02193",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02193.png",
+      "upvotes": 54,
+      "num_comments": 1,
+      "published_at": "2026-09-30T20:00:00.000Z",
+      "github_repo": "https://github.com/rhfeiyang/HC-DLM",
+      "github_stars": 43,
+      "project_page": "https://hc-dlm.github.io/"
     },
     {
       "id": "2309.06180",
@@ -153,45 +172,26 @@
       "project_page": null
     },
     {
-      "id": "2604.09557",
-      "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
-      "authors": "Talor Abramovich, Maor Ashkenazi, Carl et al. (9 authors)",
+      "id": "2609.38597",
+      "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation",
+      "authors": "Cong Wei, Xuanchi Ren, Bryan Chu et al. (11 authors)",
       "organization_name": "nvidia",
       "organization_fullname": "NVIDIA",
       "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
-      "summary": "Speculative Decoding (SD) has emerged as a critical technique for accelerating Large Language Model (LLM) inference. Unlike deterministic system optimizations, SD performance is inherently data-dependent, meaning that diverse and representative workloads are essential for accurately measuring its effectiveness. Existing benchmarks suffer from limited task diversity, inadequate support for throughput-oriented evaluation, and a reliance on high-level implementations that fail to reflect production environments. To address this, we introduce SPEED-Bench, a comprehensive suite designed to standardize SD evaluation across diverse semantic domains and realistic serving regimes. SPEED-Bench offers a carefully curated Qualitative data split, selected by prioritizing semantic diversity across the data samples. Additionally, it includes a Throughput data split, allowing speedup evaluation across a range of concurrencies, from latency-sensitive low-batch settings to throughput-oriented high-load scenarios. By integrating with production engines like vLLM and TensorRT-LLM, SPEED-Bench allows practitioners to analyze system behaviors often masked by other benchmarks. We highlight this by quantifying how synthetic inputs overestimate real-world throughput, identifying batch-size dependent optimal draft lengths and biases in low-diversity data, and analyzing the caveats of vocabulary pruning in state-of-the-art drafters. We release SPEED-Bench to establish a unified evaluation standard for practical comparisons of SD algorithms.",
-      "ai_summary": "Speculative Decoding evaluation requires diverse workloads to accurately measure performance, which existing benchmarks lack, prompting the introduction of SPEED-Bench for standardized assessment across semantic domains and serving regimes.",
-      "hf_url": "https://huggingface.co/papers/2604.09557",
-      "arxiv_url": "https://arxiv.org/abs/2604.09557",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.09557.png",
-      "upvotes": 16,
-      "num_comments": 2,
-      "published_at": "2026-02-09T19:00:00.000Z",
-      "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-      "github_stars": 5153,
-      "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
-    },
-    {
-      "id": "2609.34981",
-      "title": "What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling",
-      "authors": "Renping Zhou, Zanlin Ni, Zihao Fan et al. (11 authors)",
-      "organization_name": "Tsinghua-LeapLab",
-      "organization_fullname": "Tsinghua-LeapLab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63987ffb2ceb55aabe0852f3/hflTWNTGxeJx83xNkYrDB.png",
-      "summary": "World action models (WAMs) predict the future alongside actions during training. Due to the heavy computation cost of video denoising, whether the future must still be generated during inference is disputed: Explicit WAMs denoise it into clean frames along with every action chunk, whereas Latent WAMs discard it entirely for acceleration. We find that latent WAMs, despite matching explicit ones on in-distribution tasks, fail to retain the generalization benefits that originally motivated WAMs. To demonstrate this, we evaluate generalization along three axes: environmental perturbation, data efficiency, and task generalization. Controlled comparisons with a matched backbone, training data, and budget reveal consistent degradation across all three axes when the action expert no longer conditions on future representations. Further analysis shows that the gap arises almost entirely from the first denoising step: the benefit comes from preparing the future, not generating it. We therefore propose Simple-WAM, which simplifies future modeling into a single forward pass of fully noised video tokens and adapts the training-time noise schedule to this inference behavior. Across simulation and real-world tasks, Simple-WAM achieves the best of both worlds, leading explicit WAMs in generalization performance with efficiency comparable to Latent WAMs. Project Page: https://zrporz.github.io/Simple-WAM-Web/",
+      "summary": "Unified Multimodal Models (UMMs) often rely on separate visual representations for understanding and generation, increasing visual context length and complicating integration with established vision-language pretraining pipelines. Recent advances in pixel-space modeling offer an encoder-free alternative, but extending this paradigm from images to videos is non-trivial: video understanding and generation adopt different temporal representations, leaving the design of a unified visual interface an open question. We present PixelUMM, an encoder-free model for unified image and video understanding and generation directly in pixel space. PixelUMM represents images as spatial patches and videos as spatiotemporal tubelets, connecting raw pixels to a shared multimodal backbone through single-layer linear projections. Its Mixture-of-Transformers architecture combines shared attention with task-specific parameters and extends clean-pixel prediction to video generation, jointly supporting autoregressive text prediction and pixel-space flow matching. Experiments show that PixelUMM achieves competitive performance across image and video understanding and generation tasks. We further conduct empirical studies of key design choices, including decoder design and spatial-temporal patch size, providing insights for future pixel-space unified multimodal models.",
       "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.34981",
-      "arxiv_url": "https://arxiv.org/abs/2609.34981",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34981.png",
-      "upvotes": 116,
-      "num_comments": 2,
+      "hf_url": "https://huggingface.co/papers/2609.38597",
+      "arxiv_url": "https://arxiv.org/abs/2609.38597",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38597.png",
+      "upvotes": 11,
+      "num_comments": 1,
       "published_at": "2026-09-28T20:00:00.000Z",
-      "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
-      "github_stars": 62,
-      "project_page": "https://zrporz.github.io/Simple-WAM-Web/"
+      "github_repo": "https://github.com/nv-tlabs/PixelUMM",
+      "github_stars": 42,
+      "project_page": "https://nv-tlabs.github.io/PixelUMM/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-02T10:39:58.431896+00:00"
+  "fetched_at": "2026-10-02T16:31:20.103194+00:00"
 }
