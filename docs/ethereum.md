@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-02T16:31:42.832807+00:00'
+updated: '2026-10-02T21:11:45.860302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 02, 2026 at 16:31 UTC  
+**Last Updated:** October 02, 2026 at 21:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,735.24
+### $2,667.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -0.1%  
-**30d:** +7.5%  
-**90d:** +51.0%  
-**1y:** -40.3%  
+**24h:** -1.5%  
+**7d:** -1.2%  
+**30d:** +6.3%  
+**90d:** +49.3%  
+**1y:** -40.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.82B
+**Market Cap:** $325.24B
 Rank #2
 
 **Circulating Supply:** 122,098,690 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.6%
+-46.1%
 
 **All-Time Low:** $0.43
-+621893.2%
++615084.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 a global government I would support system based on existing technological solutions. the expulsion of incompetence, lies and manipulation to choose our own destiny. voting is done over the phone. each person 1 vote. biometric fingerprint. decentralized. using advanced cryptography. transparency. for global issues, all locals vote for local ones. formation of global expert councils. their role is to provide an analysis and evaluation of the proposal. members are chosen exclusively on the basis of expertise and competence in given professions. basic 4 branches: Society Ethical-legal group Psychological-sociological group Cultural and educational group Resources Ecological-climatic group Economic and resource group Logistic-operational group Technology Technical and engineering group Digital-cybernetic group Science Logical-mathematical group Medical-biological group the council's role is to adopt, give, and formulate clear and transparent proposals for solving problems or situations every decision they make is transparent. with minutes for the archive. presenting a problem or proposing a solution is available to all residents. cognitive ability test before submitting a proposal each proposal must pass the acceptance threshold. ethical, logical, mathematical. technical let's say we have 10 valid suggestions for a solution.. the global advice gives a score of 1 or 0 each of those 10 groups. the ethics council gives the final assessment in the event that several proposals have the same number of positives. the proposal with the most positives goes to a global referendum every voter, i.e. individual or group, has the right of veto. they are obliged to present a valid counter-argument in the shortest possible time. any veto attempt that is driven by ego vanity or the desire for power is automatically rejected. algorithmic assessment. open source. mandatory system calibration, ethical, logical, mathematical. plus a decentralized network of jurors chosen on the basis of expertise. randomly selected. a valid argument is voted against the proposal of the council. in case of adoption of the argument, the proposal is rejected. if the vote is 50-50%, both sides have 24 hours to present new insights the vote is repeated. voting is optional. the possibility of voting is. it is not a problem for me that people wiser than me decide about our fate and social vector. as long as they ask all of us, because ultimately it concerns all of us I support expertise and objectivity as well as the diversity of the local community.
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ a global government I would support system based on existing technological solut
 
 spent an hour moving eth around mainnet gas is still insane for simple swaps, and then you bridge to an L2 and the liquidity is half what you expect its a mess i love ethereum but its becoming a chore to actually use. ngl i still keep some eth on gemini just to have a clean way to stake and trade without thinking about gas or which rollup im on. centralization sucks but my sanity is worth something. back to staring at etherscan
 
-1d ago
+2d ago
 
 ---
 
@@ -152,31 +152,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge...
 
-ethereum.org • 21h ago
+ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, October 1, 2026: Not much price movement this morning, but Citigroup says that will change](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-1-2026-not-much-price-movement-this-morning-but-citigroup-says-that-will-change-113313201.html)**
+**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
 
-Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET.
+The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K](https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k)**
-
-The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
-
-Decrypt News • 1d ago
+The Block • 20h ago
 
 ---
 
-**[BTC Price Target: Citi Raises Bitcoin Forecast To $113K, Ethereum Target To $3,028 As ETF Inflows Return](https://www.tradingview.com/news/stocktwits:35c4c52d4094b:0-btc-price-target-citi-raises-bitcoin-forecast-to-113k-ethereum-target-to-3-028-as-etf-inflows-return/)**
+**[Ethereum Crypto Presale Pepeto Announces Its Final Stages Before Binance While Cardano Price Prediction Targets $3.25](https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603)**
 
-Bitcoin (BTC) and Ethereum (ETH) edged higher in early morning trade on Thursday, with Citigroup raising its 12-month price targets for both leading cryptocurrencies, pointing to stronger crypto market activity, a more supportive macroeconomic backdrop and a resumption of exchange-traded fund inflo…
+DUBAI, United Arab Emirates, Oct.  02, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto has announced its crypto presale is entering its fi...
 
-TradingView • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -184,7 +176,7 @@ TradingView • 1d ago
 
 Bitcoin opened at $84,849.93 on Friday, October 2, 2026, up 1.6% from Thursday's open. As of 7:25 a.m. ET this morning, the price of bitcoin jumped to $86,459.67. Ethereum opened at $2,705.58 today, up 0.8% from Thursday's opening price. The price of ethereum moved up to $2,747.05 as of 7:25 a.m. ET.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -204,19 +196,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
+**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.tradingview.com/news/benzinga:c06a50342094b:0-bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative/)**
 
-Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
+Bitcoin CRYPTO:BTCUSD has pared gains from Friday morning trading, selling off $84,600 after a rally to $86,500 into a weaker-than-expected jobs numbers report.Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD followed the reversal, with social sentiment flipping sharply negative, according to data prov…
 
-The Block • 1d ago
+TradingView • 3h ago
 
 ---
 
-**[Current price of Ethereum for Oct. 2, 2026](https://fortune.com/article/price-of-ethereum-10-02-2026/)**
+**[Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down](https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down)**
+
+Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet.
+
+Decrypt News • 3h ago
+
+---
+
+**[Current price of Ethereum for Sept. 30, 2026](https://fortune.com/article/price-of-ethereum-09-30-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 2d ago
 
 ---
 
@@ -232,33 +232,63 @@ CryptoSlate • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
-
-Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
-
-📺 Paul Barron Network
-
-👁️ 97K • 👍 2K • 💬 232 • ⏱️ 12:18 • 22h ago
-
----
-
-**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
-
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
-
-📺 Crypto Archie
-
-👁️ 322 • 👍 38 • ⏱️ 10:16 • 2h ago
-
----
-
 **[Why I Think Ethereum Can Reach $16K This Bull Run](https://www.youtube.com/watch?v=PlLT0t3MQbk)**
 
 Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v46 ______ I ...
 
 📺 Crypto Archie
 
-👁️ 4K • 👍 55 • 💬 9 • ⏱️ 5:39 • 2d ago
+👁️ 4K • 👍 58 • 💬 9 • ⏱️ 5:39 • 2d ago
+
+---
+
+**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
+
+Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
+
+📺 Paul Barron Network
+
+👁️ 102K • 👍 2K • 💬 220 • ⏱️ 12:18 • 1d ago
+
+---
+
+**[Ethereum Breaks Bear Pattern: Juicy Investment Opportunity!](https://www.youtube.com/watch?v=ppKb5RCnrB0)**
+
+Ethereum has broken its weekly bear pattern, outperforming Bitcoin. We've been watching it break highs for weeks. This is a prime ...
+
+📺 Crypto School - Brian Longest
+
+👁️ 68 • 👍 1 • ⏱️ 0:30 • 49m ago
+
+---
+
+**[Live Trading Bitcoin, Ethereum, XRP &amp; Altcoins, Fast Scalps](https://www.youtube.com/watch?v=Xr9cJrotLQk)**
+
+Pedro is live at the charts, scalping Bitcoin, Ethereum, XRP, and select altcoins on the 15-minute timeframe. No hype, no ...
+
+📺 Crypto Banter
+
+👁️ 11K • 👍 165 • 💬 4 • ⏱️ 48:42 • 10h ago
+
+---
+
+**[Ethereum Just BROKE OUT.. I Moved My Stop!!](https://www.youtube.com/watch?v=FQMnlrMqoyA)**
+
+FeeDrip - Get up to 67% Back, Daily on Your Trading Fees https://marzell.org/feedrip Ethereum (ETH) just broke out of the ...
+
+📺 Marzell Crypto
+
+👁️ 267 • 👍 15 • 💬 5 • ⏱️ 3:08 • 6h ago
+
+---
+
+**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
+
+Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 33K • 👍 2K • 💬 510 • ⏱️ 19:06 • 1d ago
 
 ---
 
@@ -268,7 +298,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 7K • 👍 90 • 💬 13 • ⏱️ 10:17 • 20h ago
+👁️ 7K • 👍 101 • 💬 14 • ⏱️ 10:17 • 1d ago
+
+---
+
+**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
+
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
+
+📺 Crypto Archie
+
+👁️ 1K • 👍 62 • ⏱️ 10:16 • 7h ago
 
 ---
 
@@ -278,7 +318,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 186 • 💬 12 • ⏱️ 19:58 • 1d ago
+👁️ 9K • 👍 189 • 💬 13 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -288,47 +328,7 @@ BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watc
 
 📺 McNallie Money
 
-👁️ 2K • 👍 100 • 💬 17 • ⏱️ 18:53 • 20h ago
-
----
-
-**[BITCOIN &amp; CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VcJqDJqq8AU)**
-
-BITCOIN & CRYPTO TRADING STRATEGY (Taking Profits Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 314 • 💬 92 • ⏱️ 23:33 • 15h ago
-
----
-
-**[🚨 XRP Is About To Explode Like Ethereum! #xrp #crypto #prediction](https://www.youtube.com/watch?v=7IX0nAIxXW0)**
-
-Watch the full video. https://youtu.be/nDqXO3UxVZ0 Can the 2017 Ethereum bull run provide a blueprint for your XRP price ...
-
-📺 Digital Perspectives
-
-👁️ 739 • 👍 55 • 💬 3 • ⏱️ 0:55 • 1h ago
-
----
-
-**[Risk On Continues for Bitcoin and Altcoin Market as XRP, ETH, BTC &amp; Alts Close Quarter Positive](https://www.youtube.com/watch?v=fDd88Hksfd8)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 13K • 👍 2K • 💬 3 • ⏱️ 19:36 • 4h ago
-
----
-
-**[Ethereum UPTOBER Is Here.. And I&#39;m Moving My Long!!](https://www.youtube.com/watch?v=KtyiGA7mlek)**
-
-FeeDrip (this video's sponsor) - part of your trading fees back, paid daily in USDT, no API keys https://marzell.org/feedrip ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 16 • 💬 6 • ⏱️ 3:18 • 1d ago
+👁️ 2K • 👍 100 • 💬 14 • ⏱️ 18:53 • 1d ago
 
 ---
 

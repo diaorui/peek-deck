@@ -2,6 +2,50 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Facebook feed is now majority AI",
+      "author": "stvlsn",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/",
+      "published": 1790956472.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am 35 and still occasionally go on Facebook. The feed, over the years, has moved away from showing friend content and moved toward showing creator content. I've noticed a shift in the last few weeks where the majority of posts are AI. Some are obvious, but most are not - and the newest image and video models allow for near perfect realism. I remember a few years ago when this exact scenario was warned about. Now we are here."
+    },
+    {
+      "title": "Microsoft is cosplaying AI",
+      "author": "YoungDito",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/",
+      "published": 1790963158.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn\u2019t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats\u2026 I\u2019d rather have Clippy back honestly."
+    },
+    {
+      "title": "Trump\u2019s \u2018super intelligence\u2019 is being mocked by tech industry insiders: report",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/",
+      "published": 1790973435.0,
+      "thumbnail": "https://external-preview.redd.it/8o0mQgkoN94DfPqEm2_OhkLTJTrnNZWuCmcMNjkg-Qg.jpeg?width=640&crop=smart&auto=webp&s=40954bc3606471103a1dc2851274a580f760dd8e",
+      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rebrand-b3060603.html",
+      "site_name": "The Independent",
+      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "\u2018It is a way for the CEOs to signal fealty to the president,\u2019 said one insider as others warned the private sector is unlikely to follow the president\u2019s edict"
+    },
+    {
+      "title": "McDonald's has been using AI to decide how much you should pay for a Big Mac",
+      "author": "shield_x",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww0rrf/mcdonalds_has_been_using_ai_to_decide_how_much/",
+      "published": 1790964452.0,
+      "thumbnail": "https://external-preview.redd.it/2ecj3jl-5BGwELgcAp-QIEL0VLx1FVZCZ2ABGTp_rwk.jpeg?width=640&crop=smart&auto=webp&s=83b90bf2a1a25ceecaaf73410d022a110072ce84",
+      "external_url": "https://www.techspot.com/news/114053-mcdonald-using-ai-decide-how-much-you-pay.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "Several sources, including store owners, recently explained to Reuters how McDonald's encourages and sometimes pressures restaurants to set prices according to an AI algorithm. The outlet also..."
+    },
+    {
       "title": "Star Trek & AI",
       "author": "shamus_gumshoe",
       "url": "https://www.reddit.com/r/artificial/comments/1wvso0w/star_trek_ai/",
@@ -13,15 +57,15 @@
       "description": "I am a fan and not an expert but I always wondered why AI (and robots) were not more of a force in Star Trek...and yesterday, reflecting on how amazing and damaging this technology is I was thinking maybe they made a choice as an advanced humanistic society not to surrender their agency and cognitive capacity to a technology. I guess that's the Borg right?"
     },
     {
-      "title": "Facebook feed is now majority AI",
-      "author": "stvlsn",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/",
-      "published": 1790956472.0,
+      "title": "A question for the AI \"experts\": are hallucinations and reliability genuinely improving, or are we starting to plateau? Everything depends on this...",
+      "author": "maedhros256",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww43mn/a_question_for_the_ai_experts_are_hallucinations/",
+      "published": 1790972389.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I am 35 and still occasionally go on Facebook. The feed, over the years, has moved away from showing friend content and moved toward showing creator content. I've noticed a shift in the last few weeks where the majority of posts are AI. Some are obvious, but most are not - and the newest image and video models allow for near perfect realism. I remember a few years ago when this exact scenario was warned about. Now we are here."
+      "description": "For the average user, not a programmer or e.g. someone looking to solve niche math problems, AI still feels very limited because of reliability issues (e.g. making up information)... As a non-expert, this is difficult to quantify for me, but I don't feel like e.g. the latest iterations of ChatGPT are noticeably more reliable than previous ones. Therefore, I find it hard to see how organizations can delegate even relatively easy tasks to AI without constant supervision, especially because if hallucinations build up along the way, you end up with a snowball of compounding problems that can lead to catastrophic consequences for an organization. It\u2019s my understanding that the real test of success won't be developer tools or fancy mathematical calculations, but whether regular people can delegate tasks with a super high degree of confidence, instead of just using it as a search engine, translator, summary tool or photo editor on steroids like many people do nowadays. A good example is Dot, the new OpenAI tool. If you watch the trailer, it looks impressive, but according to many reviews, it still hallucinates a lot and behaves in a pretty clumsy way. So, the golden question is: are the hallucination and reliability problems gradually improving, or are we probably plateauing? Looking for genuine insights here, so please keep the sarcasm out of the comments."
     },
     {
       "title": "Apex Compute developing open-source Mesa Vulkan driver for their hardware",
@@ -35,6 +79,28 @@
       "description": "Apex Compute is the company started in California in 2024 that aims to produce high-efficiency AI accelerators for real-time edge AI inferencing"
     },
     {
+      "title": "Looking for local Ai Video Generation from text and images in 8gn Vram",
+      "author": "DueAdministration193",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww4y9k/looking_for_local_ai_video_generation_from_text/",
+      "published": 1790974495.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've posted a similar post before but people said I was expecting too much in 8gb vram so this is the new list of things I am looking for. Requirement: Runs in 8GB Vram Maximum 10 sec Video generation 2D animation mostly but I might use 3D sometimes Gonna use Local LLM for the first time so need something easy and free to use"
+    },
+    {
+      "title": "Meta is giving Muse subscribers a free gadget that lets its AI control your smart home",
+      "author": "ross2000",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww4mhj/meta_is_giving_muse_subscribers_a_free_gadget/",
+      "published": 1790973676.0,
+      "thumbnail": "https://external-preview.redd.it/nUBorWqi0AHgZOGsZn__UxYzG4OahxngCX8giBvgJmQ.jpeg?width=640&crop=smart&auto=webp&s=e5474afd21a742deb12ea1f12e0b3c266dcafc0f",
+      "external_url": "https://madrobot.blog/2026/10/02/meta-muse-home-link-free-gadget-subscribers-smart-home-diy-gadgets/",
+      "site_name": "MadRobot",
+      "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
+      "description": "Muse Home Link is free for US Muse subscribers, one each, shipping in October. What it does, how to claim it, and how to build your own Muse gadget."
+    },
+    {
       "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale\u2019s, and shopping on Amazon, SEC alleges",
       "author": "sourdub",
       "url": "https://www.reddit.com/r/artificial/comments/1wvdpdh/investors_thought_they_were_buying_preipo_openai/",
@@ -44,73 +110,7 @@
       "site_name": "Fortune",
       "favicon": "https://fortune.com/apple-touch-icon.png",
       "description": "One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined."
-    },
-    {
-      "title": "Anyone have experience with micro1 (selling anonymized data)?",
-      "author": "dhruvkar",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvtxp0/anyone_have_experience_with_micro1_selling/",
-      "published": 1790947966.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It's a data lab that buys company operational data. Apparently they look for companies with 10+ years of operational data, primarily based in the US, and over 20 employees. Has anyone successfully sold data to micro1 (or another data lab)? how was your experience and how did they value your data?"
-    },
-    {
-      "title": "If an AI denies you a service, who do you argue with?",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvn04t/if_an_ai_denies_you_a_service_who_do_you_argue/",
-      "published": 1790924150.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI is already being used to sort applications, flag transactions, and prioritize requests. That can make systems faster, but it creates a strange problem. If an AI rejects your application, who explains the decision? A customer service worker? The company? The model? The person who designed the workflow? I\u2019m comfortable with AI helping people make decisions. I\u2019m less comfortable with AI becoming the final wall between someone and an appeal. Should every important AI-assisted decision come with a clear human review process?"
-    },
-    {
-      "title": "The AI industry has discovered intellectual property",
-      "author": "Haunting_Ganache_850",
-      "url": "https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/",
-      "published": 1790864149.0,
-      "thumbnail": "https://external-preview.redd.it/KfN6eTUA58UkYW-Uto3cWl8KZR8kRcIAOT7-M41yCnc.png?width=640&crop=smart&auto=webp&s=1f5b5fcf7601d5d934ef7ebd76dc1f08192ee121",
-      "external_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
-      "site_name": "OpenAI",
-      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
-      "description": "OpenAI says Moonshot-linked operators used thousands of accounts to extract protected reasoning from its models for adversarial distillation. No encryption broken. No database compromised. Just systematic querying designed to make one model teach another. OpenAI says this is dangerous because competitors can reproduce capabilities without making the same investment in safety. Which is a serious security issue. But you have to appreciate the timing: after years of \u201cwe learned from the internet,\u201d the frontier-model industry has reached the \u201cplease stop learning from us\u201d phase."
-    },
-    {
-      "title": "IP protection while using ai",
-      "author": "mhhammoudaTreeUP",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvmyi8/ip_protection_while_using_ai/",
-      "published": 1790923968.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So I work on R&D of various products so I am always trying to implement new ideas and solutions. My work also involves data and results from trials and tests which might be novel.. Of course, I use ai models while doing so.. However, everytime I dive into an idea, I ask myself the question: wouldn't all these companies have my ideas and research outputs be in the hands of these companies housing these models? I mean I think they dont care about my projects but still projects grow and can attract someone's attention... What do companies, or researchers actually do to protect their IP? Is there a way to actually do real research without fearing that someone interferes with your work now or on the long run? I know there are offline LLMs but I heard they are weaker and need beefy machines.. I know this topic may have been debated but I guess new updates may have arised. any ideas??"
-    },
-    {
-      "title": "Commercial AI is only valuable if you know what you\u2019re talking about and doing",
-      "author": "PettyCashCommittee",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvv559/commercial_ai_is_only_valuable_if_you_know_what/",
-      "published": 1790951011.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI is a productivity catalyst, but if you don\u2019t know how to use it properly and how to QC results it can work against you. Personally I treat it as a junior analyst and use it for basic automation when applicable and within my abilities. I\u2019m thinking about the average person here. If someone doesn\u2019t have domain expertise then they won\u2019t know when to push back on a recommendation, add more context when necessary, and play devils advocate when the AI is cheerleading too hard. Speaking from experience I have built workflows in areas where I\u2019m an expert. I\u2019m a market guy and a watch enthusiast. I built a valuation framework that is pretty effective but not 100% accurate. If I were to apply this to handbags I wouldn\u2019t be able to identify inaccuracies and falsehoods. As long as you take it with a grain of salt, AI can get you 80% of the way there. If I\u2019m wrong, please tell me how so I can better advise my clients."
-    },
-    {
-      "title": "Fears on AI - would like your comments",
-      "author": "Turnip_Wizar35",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvudau/fears_on_ai_would_like_your_comments/",
-      "published": 1790949098.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I dont understand the subject. How can an AI be dangerous if its just code? I have worked with just basic NLP models and done some sentiment analysis a few years back so I dont understand. The code will do whatever you program it to do and to complete the task it will do what is statistically is correct, within the programmed limits. So AI cannot change its limits lets say \"get rid of humanity\" unless the creator programs a line of code that says \"you can kill humans\". Even if it self improves, the code limits wont change, cause it has no conciousness to say \"I dont believe this limits are correct\" thats a very human trait. Unless the creator programs the algorithm to bypass these limits. So the real risk is the \"limits\" being placed on the algorithm by the programmers and the fact that the ones controlling the code are these crazy mind f...ed corpos? AI is not gonna become self concious casue \"it doesnt work that way\" and all the noise its just media and ignorant people who watch to much scifi. Thats what I think. Sorry if it doesn't make to much sense Im still trying to filter all the noise. Does this idea make any sense from a technical standpoint or is there something Im not understanding?"
     }
   ],
-  "fetched_at": "2026-10-02T16:31:09.582407+00:00"
+  "fetched_at": "2026-10-02T21:11:09.243193+00:00"
 }

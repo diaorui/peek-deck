@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-02T16:31:42.836143+00:00'
+updated: '2026-10-02T21:11:45.863491+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 02, 2026 at 16:31 UTC  
+**Last Updated:** October 02, 2026 at 21:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I was reading recent news from Neura robotics and they have robots that are aime
 
 Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've been working on data-collection infrastructure for teams training VLA / imitation-learning models, and I'd like feedback from people who've actually collected teleop data. The problem we kept hitting: most teams collect demos on improvised rigs. Camera angles drift between sessions, schemas change, joint-state rates don't match the deployed system, and you end up with months of data that trains poorly. So we built the Harvester: - 2× UFactory xArm 7 (14 DoF total) on a portable aluminum frame with casters, adjustable height, 90° or 45° arm mounts - Teleop with Meta Quest controllers, but the headset stays on the desk as a tracking reference, so operators aren't wearing it for hours - Switchable scaling profiles (slow/precise vs fast repositioning) on a button press - Cartesian control using UFactory's online trajectory planning (streamed targets, not pre-planned trajectories) - Multi-view Intel RealSense RGB + aligned depth, joint states at 100 Hz, commanded vs achieved poses, gripper state, all hardware-timestamped - ROS 2 Humble, one .mcap rosbag per run, converts straight to a LeRobot dataset for Hugging Face I'd love feedback on: Headset-off Quest teleop vs leader-follower arms (GELLO, ALOHA-style). What's worked better for you? What do you wish your collection pipeline recorded that it doesn't? Anything in the technical writeup that seems off or missing? Site: paddydata.ai (password: harvest). The technical page has the full topic list and architecture. Disclaimer: the site isn't 100% finished yet. We officially launch next week, so a few pages are still rough. Happy to answer anything in the comments.
 
-21h ago
+1d ago
 
 ---
 
@@ -98,13 +98,13 @@ Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 2
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 2d ago
 
 ---
 
 **[My research project has hit a technological ceiling that is impenetrable for me, as it is impossible without robotics.](https://www.reddit.com/r/robotics/comments/1wud6c7/my_research_project_has_hit_a_technological/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -120,11 +120,47 @@ Anthropic • 2d ago
 
 ---
 
-**[Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?](https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/)**
+**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
 
-Here are three robotics stocks that could turn the automation boom into real business growth.
+The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
 
-The Motley Fool • 5h ago
+Business Insider • 5h ago
+
+---
+
+**[Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration](https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel)**
+
+A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel.
+
+Futurism • 6h ago
+
+---
+
+**[F.02 Decommission](https://www.figure.ai/news/f-02-decommission)**
+
+We love Figure 02. It is an incredible robot.
+
+Figure • 2d ago
+
+---
+
+**[Humanoid robot fleet decommissioned in wild Terminator-style leap into molten steel](https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel)**
+
+Figure decommissioned its F.02 humanoid fleet by training the robots to leap into molten steel in Finland.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[The U.S. can’t find enough of this critical machine component to win the humanoid-robots race](https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571)**
+
+MarketWatch • 3h ago
+
+---
+
+**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
+
+The Hill • 3h ago
 
 ---
 
@@ -138,53 +174,15 @@ The New York Times • 1d ago
 
 While interviewing Google’s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ...
 
-The Information • 18h ago
+The Information • 23h ago
 
 ---
 
-**[NASA wants to send humanoid robots to the moon](https://www.popsci.com/science/nasa-humanoid-robots-moon/)**
+**[Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?](https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/)**
 
-Don't worry. Actual astronauts aren't out of a job.
+Here are three robotics stocks that could turn the automation boom into real business growth.
 
-Popular Science • 2d ago
-
----
-
-**[Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities](https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/)**
-
-The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations.
-
-U.S. Department of War (.gov) • 2d ago
-
----
-
-**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
-
-Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Robotics startup FieldAI closes new funding round at $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
-
-The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
-
-Business Insider • 51m ago
-
----
-
-**[A Faraday Future robot drew the most attention at a robotics conference](https://www.stocktitan.net/news/FFAI/faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-ww9129av9p2e.html)**
-
-A non-binding term sheet contemplates combining FFAI’s robotics assets and businesses into AIxC at an estimated market valuation of about $200 million.
-
-Stock Titan • 8h ago
-
----
-
-**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
-
-Forbes • 3d ago
+fool.com • 10h ago
 
 ---
 
@@ -198,7 +196,7 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 📺 ejunky66
 
-👁️ 22K • 👍 500 • 💬 32 • ⏱️ 1:00 • 6h ago
+👁️ 76K • 👍 1K • 💬 98 • ⏱️ 1:00 • 11h ago
 
 ---
 
@@ -208,7 +206,7 @@ Tesla just accidentally leaked the finished design for Optimus Gen 3, and it rev
 
 📺 Innovation Core
 
-👁️ 214K • 👍 1K • 💬 140 • ⏱️ 21:02 • 3d ago
+👁️ 216K • 👍 1K • 💬 141 • ⏱️ 21:02 • 3d ago
 
 ---
 
@@ -218,7 +216,7 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 1.8M • 👍 8K • 💬 567 • ⏱️ 25:31 • 6d ago
+👁️ 1.9M • 👍 8K • 💬 592 • ⏱️ 25:31 • 6d ago
 
 ---
 
@@ -228,7 +226,7 @@ One of the biggest surprises in AI over the last few years has been how well cod
 
 📺 Y Combinator
 
-👁️ 65K • 👍 458 • 💬 14 • ⏱️ 29:49 • 6d ago
+👁️ 66K • 👍 461 • 💬 14 • ⏱️ 29:49 • 6d ago
 
 ---
 
@@ -238,7 +236,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 Future Files
 
-👁️ 975K • 👍 5K • 💬 189 • ⏱️ 24:25 • 6d ago
+👁️ 987K • 👍 5K • 💬 189 • ⏱️ 24:25 • 6d ago
 
 ---
 
@@ -248,7 +246,7 @@ Meet Phantom, the robot Foundation Future Industries says could be one of the fi
 
 📺 NBC News
 
-👁️ 47K • 👍 271 • 💬 219 • ⏱️ 12:24 • 22h ago
+👁️ 50K • 👍 285 • 💬 231 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -258,7 +256,27 @@ Why will Boston Dynamics win the humanoid robotics race? We've already commercia
 
 📺 Boston Dynamics
 
-👁️ 661K • 👍 8K • 💬 983 • ⏱️ 5:49 • 2d ago
+👁️ 679K • 👍 8K • 💬 992 • ⏱️ 5:49 • 2d ago
+
+---
+
+**[These New Female Robots Just Unlocked NEW ABILITIES](https://www.youtube.com/watch?v=Lne4k8uPUuI)**
+
+Something shifted this year. The demos stopped being about walking without falling over. Now it's fine motor control, reading a ...
+
+📺 AI Exposed
+
+👁️ 54K • 👍 339 • 💬 26 • ⏱️ 16:27 • 6d ago
+
+---
+
+**[⚙️ Robot Mode Activated! Watch This AI Dance Performance! 🤖🔥 #shorts #ai  #poppingdancer #dance](https://www.youtube.com/watch?v=dR-AiWWQnwI)**
+
+Hi, welcome to the wonderful world of "Barbin.ili Barbie"! ​ Here, the fantasy journey of cosplay, the magic of imitation ...
+
+📺 Barbin.ili芭比
+
+👁️ 51K • 👍 1K • 💬 19 • ⏱️ 0:07 • 6d ago
 
 ---
 
@@ -268,27 +286,7 @@ Elon Musk says more than 1 billion humanoid robots could exist within the next 1
 
 📺 ejunky66
 
-👁️ 163K • 👍 2K • 💬 168 • ⏱️ 1:00 • 5d ago
-
----
-
-**[China’s T800 Robot Just Fought a Human (Real-Life Terminator)](https://www.youtube.com/watch?v=L2Me7pzDmhg)**
-
-China's EngineAI T800 kicked stunt creator Frankie LaPenna across the ring in San Francisco. But one hidden detail changes ...
-
-📺 The AI Nexus
-
-👁️ 26K • 👍 216 • 💬 29 • ⏱️ 23:38 • 6d ago
-
----
-
-**[How Amazon Uses 1 Million Robots to Process 600,000 Orders Every Hour](https://www.youtube.com/watch?v=XXVhNlNKxQA)**
-
-How Amazon uses 1 million robots to process 600000 orders every hour Every hour, Amazon processes more than 600000 ...
-
-📺 Mido Explained
-
-👁️ 122K • 👍 595 • 💬 45 • ⏱️ 14:00 • 5d ago
+👁️ 167K • 👍 2K • 💬 174 • ⏱️ 1:00 • 5d ago
 
 ---
 

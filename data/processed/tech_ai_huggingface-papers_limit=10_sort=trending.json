@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-09-03T20:00:00.000Z",
       "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 1137,
+      "github_stars": 1194,
       "project_page": "https://linzhanmou.com/unimate/"
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2609.33439",
       "arxiv_url": "https://arxiv.org/abs/2609.33439",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 509,
+      "upvotes": 513,
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/EverMind-AI/Raven",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2609.37725",
       "arxiv_url": "https://arxiv.org/abs/2609.37725",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.37725.png",
-      "upvotes": 30,
+      "upvotes": 31,
       "num_comments": 2,
       "published_at": "2026-09-28T20:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/context-language-models",
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 1162,
+      "github_stars": 1191,
       "project_page": "https://regularized-rsi.com/"
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2610.02193",
       "arxiv_url": "https://arxiv.org/abs/2610.02193",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02193.png",
-      "upvotes": 54,
+      "upvotes": 63,
       "num_comments": 1,
       "published_at": "2026-09-30T20:00:00.000Z",
       "github_repo": "https://github.com/rhfeiyang/HC-DLM",
@@ -172,26 +172,26 @@
       "project_page": null
     },
     {
-      "id": "2609.38597",
-      "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation",
-      "authors": "Cong Wei, Xuanchi Ren, Bryan Chu et al. (11 authors)",
-      "organization_name": "nvidia",
-      "organization_fullname": "NVIDIA",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
-      "summary": "Unified Multimodal Models (UMMs) often rely on separate visual representations for understanding and generation, increasing visual context length and complicating integration with established vision-language pretraining pipelines. Recent advances in pixel-space modeling offer an encoder-free alternative, but extending this paradigm from images to videos is non-trivial: video understanding and generation adopt different temporal representations, leaving the design of a unified visual interface an open question. We present PixelUMM, an encoder-free model for unified image and video understanding and generation directly in pixel space. PixelUMM represents images as spatial patches and videos as spatiotemporal tubelets, connecting raw pixels to a shared multimodal backbone through single-layer linear projections. Its Mixture-of-Transformers architecture combines shared attention with task-specific parameters and extends clean-pixel prediction to video generation, jointly supporting autoregressive text prediction and pixel-space flow matching. Experiments show that PixelUMM achieves competitive performance across image and video understanding and generation tasks. We further conduct empirical studies of key design choices, including decoder design and spatial-temporal patch size, providing insights for future pixel-space unified multimodal models.",
+      "id": "2610.01762",
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "authors": "Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang et al. (24 authors)",
+      "organization_name": "NJU",
+      "organization_fullname": "Nanjing University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1662276136108-6314518e5f47a1896274d080.jpeg",
+      "summary": "Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independent evidence recording and task response through a shared proactive generation process. Its Proactive Hierarchical Caption Memory (PHCM) produces time-grounded local-detail captions and summaries of completed events. Streaming caption targets supervise the interpretation of observed video prefixes during training. At inference, model-generated records complement a recent visual window, providing reusable factual context without revisiting historical visual features. Proactive State Transition Learning (PSTL) reduces the dominance of repeated waiting states by preserving supervision at all output anchors and selecting representative state-change and state-persistence tokens. We further develop a streaming data synthesis pipeline that aligns output content and timing with available evidence. Combining the resulting streaming captions and QA with cleaned open-source data yields OneStreamer-1M, a broad-coverage streaming video interaction dataset with over one million records spanning diverse tasks. Our 4B model achieves the best results among the compared methods across all eight evaluated streaming video understanding benchmarks. Ablations show that retaining generated captions improves historical QA without degrading real-time perception. PSTL also outperforms dense state supervision while supervising only 27.5% of annotated state tokens. Together, these results support proactive generation as a shared learning interface connecting perception, memory formation, and timely response in streaming video interaction.",
       "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.38597",
-      "arxiv_url": "https://arxiv.org/abs/2609.38597",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38597.png",
-      "upvotes": 11,
+      "hf_url": "https://huggingface.co/papers/2610.01762",
+      "arxiv_url": "https://arxiv.org/abs/2610.01762",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.01762.png",
+      "upvotes": 145,
       "num_comments": 1,
-      "published_at": "2026-09-28T20:00:00.000Z",
-      "github_repo": "https://github.com/nv-tlabs/PixelUMM",
-      "github_stars": 42,
-      "project_page": "https://nv-tlabs.github.io/PixelUMM/"
+      "published_at": "2026-09-30T20:00:00.000Z",
+      "github_repo": "https://github.com/MCG-NJU/OneStreamer",
+      "github_stars": 45,
+      "project_page": "https://mcg-nju.github.io/OneStreamer"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-02T16:31:20.103194+00:00"
+  "fetched_at": "2026-10-02T21:11:17.311686+00:00"
 }

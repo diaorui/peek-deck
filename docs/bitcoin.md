@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-02T16:31:42.826371+00:00'
+updated: '2026-10-02T21:11:45.854265+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 02, 2026 at 16:31 UTC  
+**Last Updated:** October 02, 2026 at 21:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,032.51
+### $83,951.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.9%  
-**30d:** +4.8%  
-**90d:** +33.9%  
-**1y:** -30.3%  
+**24h:** -0.3%  
+**7d:** +0.0%  
+**30d:** +3.9%  
+**90d:** +32.8%  
+**1y:** -30.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1712.23B
+**Market Cap:** $1697.60B
 Rank #1
 
-**Circulating Supply:** 20,092,434 BTC
+**Circulating Supply:** 20,092,559 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.4%
+-33.0%
 
 **All-Time Low:** $67.81
-+125571.7%
++124492.2%
 
 ---
 
@@ -147,7 +147,7 @@ These are my top 3 YouTube channels right now: AdamLivingstonBTC SimplyBitcoin 1
 
 We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chapter is a cousin of the Bitcoin obituaries list, but instead of counting the times it was declared dead, it collects the labels. Every thing Bitcoin was confidently called, who said it, when, and what happened next. One entry per claim, each with a dated source. Here is what we have so far. Tell us what we missed. "It's dead." The obituaries list at 99bitcoins has been running since 2010 and stands at 477. The four worth actually reading (Forbes 2011, Wired 2011, Krugman 2013, Mike Hearn 2016) are here: https://www.learnbitcoin.com/glossary/bitcoin-obituaries "It's a Ponzi scheme." A Ponzi needs an operator who pays old investors with money from new ones and promises a return. Bitcoin has no operator, promises nothing, and keeps its books in public. The actual Ponzis in this industry (Bitcoin Savings and Trust, Bitconnect, PlusToken, Quadriga) all took bitcoin as the deposit, which is a different thing: https://www.learnbitcoin.com/glossary/ponzi-scheme "It's tulip mania." Jamie Dimon, September 2017: a fraud, worse than tulip bulbs. Tulips crashed once in 1637 and stayed down. Bitcoin has lost three quarters or more of its value four separate times and set a new high after each one. His bank now lets clients buy it. The 1637 episode was also a lot smaller than the legend: https://www.learnbitcoin.com/glossary/tulip-mania "It's only for buying drugs." Silk Road was seized in October 2013. The public ledger then convicted two of the federal agents on the case and, nine years later, the guy who'd stolen 50,000 BTC from the site in 2012: https://www.learnbitcoin.com/glossary/silk-road "It has no intrinsic value." Greenspan, December 2013. True, and true of the dollar since 1971 and of gold's price too. Economics dropped the concept in the 1870s: https://www.learnbitcoin.com/glossary/intrinsic-value "It's for money laundering." Chainalysis sells to law enforcement and has every reason to find crime. Their count for 2024 was about 0.14 percent of on-chain volume. The rest of the story, including where Bitcoin's privacy actually is weak, is here: https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy "It's for terrorists." Hamas's military wing announced in April 2023 that it was no longer taking bitcoin donations, because donors kept getting caught. "The blockchain is full of illegal images." The 2018 headlines. A research paper had found text and links stuffed into a few hundred transactions out of hundreds of millions. "It will boil the oceans." Newsweek, December 2017: on track to consume all of the world's energy by 2020. It is 2026. Our energy chapter has the actual numbers: https://www.learnbitcoin.com/rabbit-hole/energy "Governments will just ban it." China has banned it something like sixteen times. "Rat poison squared." Warren Buffett, May 2018. Three years later Berkshire put half a billion dollars into Nubank, a Brazilian bank that sells bitcoin to its customers. "Bitcoin is evil." Paul Krugman, New York Times, December 2013. "Quantum computers will break it." Not wrong forever, but wrong on every date given so far. We keep a live count of how many coins are actually exposed: https://www.learnbitcoin.com/rabbit-hole/quantum-and-bitcoin "You'll never buy a coffee with it." Lightning exists. https://www.learnbitcoin.com/rabbit-hole/lightning-routing What we want from you: Claims we missed. Especially the old ones. "It's only for nerds," "the government will seize it all," "the 21 million cap will get changed," "it's too slow to ever matter," whatever you were told at Thanksgiving in 2014. Who said it and when, with a link if you have one. A claim with a name and a date is worth ten without. The ones that were partly right. Exchanges really do collapse. Privacy really is worse than most people think. Mining really did concentrate for a while. Those go in too, with the part that was right stated plainly. We are not writing a victory lap. If you give us a source we'll credit you by handle in the chapter, unless you'd rather we didn't. The chapter goes up next Thursday and we'll drop the link in this thread. All 18 chapters so far: https://www.learnbitcoin.com/rabbit-holes
 
-2d ago
+3d ago
 
 ---
 
@@ -155,33 +155,63 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 ## Google News: "bitcoin"
 
-**[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
+**[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
 
-reuters.com • 1d ago
-
----
-
-**[Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%](https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60)**
-
-Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk.
-
-CoinDesk • 6h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Matador Technologies Holds 168 Bitcoin as Primary Treasury Asset](https://ca.finance.yahoo.com/news/matador-technologies-holds-168-bitcoin-155327110.html)**
+**[Bitcoin edges higher ahead of U.S. jobs report as global bond yields surge](https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report)**
 
-Matador Technologies (MATA.V) holds 168 bitcoin as its primary treasury asset, the company said on F
+Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.
 
-Yahoo! Finance Canada • 38m ago
+CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter](https://www.cnbc.com/2026/10/02/bitcoin-just-formed-a-golden-cross-pattern-the-crypto-is-setting-up-for-a-big-fourth-quarter.html)**
+**[Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-heads-higher-macro-moves-164552302.html)**
 
-When looking for best ideas for the fourth quarter nothing jumped off the charts to me — literally — like bitcoin.
+A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Here's What a $500 Investment in Bitcoin Could Be Worth by 2030](https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/)**
+
+If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.
+
+fool.com • 15h ago
+
+---
+
+**[Why bitcoin may be at an inflection point](https://www.cnbc.com/video/2026/10/02/why-bitcoin-may-be-at-an-inflection-point.html)**
+
+CNBC's Tanaya Macheel joins 'Closing Bell' to discuss why bitcoin may be at an inflection point.
 
 CNBC • 1h ago
+
+---
+
+**[Bitcoin Doesn’t Pay Dividends, So How Is This ETF Yielding 25%?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-doesn-t-pay-dividends-192430953.html)**
+
+Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Block Launches Its First Ever Bitcoin Consumer Advertising Campaign, Making the Case for Bitcoin as Everyday, Usable Money](https://block.xyz/inside/block-launches-its-first-ever-bitcoin-consumer-advertising-campaign-making-the-case-for-bitcoin-as-everyday-usable-money)**
+
+Campaign spotlights how Cash App, Square, and Bitkey make bitcoin use simple and seamless.
+
+Block • 1d ago
+
+---
+
+**[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -191,43 +221,11 @@ TribLIVE.com • 1d ago
 
 ---
 
-**[Here's What a $500 Investment in Bitcoin Could Be Worth by 2030](https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/)**
+**[Bitcoin jumps 42.9% in Q3 2026, leaving gold and stocks behind](https://www.tradingview.com/news/cryptobriefing:6c750f1d4094b:0-bitcoin-jumps-42-9-in-q3-2026-leaving-gold-and-stocks-behind/)**
 
-If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.
+Bitcoin gained 42.9% in the third quarter of 2026. Gold, stocks and nearly everything else spent the same stretch looking on from a distance.The rally ended a three-quarter losing streak. It also gave Bitcoin its best third quarter since 2017, which is a long time to wait for a summer worth remembe…
 
-The Motley Fool • 10h ago
-
----
-
-**[Bitcoin rises for third straight week on strong ETF demand](https://qz.com/bitcoin-third-weekly-gain-etf-inflows-100226)**
-
-The cryptocurrency climbed above $86,000 on Friday, capping its biggest quarter since the end of 2024
-
-qz.com • 3h ago
-
----
-
-**[Current price of Bitcoin for Oct. 2, 2026](https://fortune.com/article/price-of-bitcoin-10-02-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2h ago
-
----
-
-**[Frank Holmes: They Will Print $100 Trillion - Why To Buy Bitcoin & Gold](https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold)**
-
-Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom.
-
-Bitcoin Magazine • 18h ago
-
----
-
-**[Bitcoin Doesn’t Pay Dividends, So How Is This ETF Yielding 25%?](https://247wallst.com/investing/etf/2026/10/01/bitcoin-doesnt-pay-dividends-so-how-is-this-etf-yielding-25/)**
-
-Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up.
-
-24/7 Wall St. • 21h ago
+TradingView • 2h ago
 
 ---
 
@@ -243,13 +241,13 @@ These researchers found that there's a spike in Bitcoin activity around the time
 
 Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
 
-⬆️ 17 • 💬 6 • 11h ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
+⬆️ 17 • 💬 6 • 15h ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
 
 ---
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 1d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
+⬆️ 3 • 💬 0 • 2d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -257,7 +255,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
 
-⬆️ 2 • 💬 1 • 3d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 2 • 💬 1 • 4d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
 
 ---
 
@@ -265,7 +263,7 @@ A machine learning bitcoin model published in full: every trade, the method behi
 
 Best Bitcoin commercial I’ve recently seen
 
-⬆️ 1 • 💬 0 • 15h ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
+⬆️ 1 • 💬 0 • 20h ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
 
 ---
 
@@ -273,7 +271,7 @@ Best Bitcoin commercial I’ve recently seen
 
 Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test network.
 
-⬆️ 1 • 💬 0 • 5d ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
+⬆️ 1 • 💬 0 • 6d ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
 
 ---
 
@@ -287,13 +285,33 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ## YouTube Videos: "bitcoin"
 
+**[CRYPTO *MEGA TRAP*... I&#39;m Doing THIS Right Now... [Bitcoin and Altcoin Warning]](https://www.youtube.com/watch?v=sWipSoxusGs)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 2K • 👍 325 • 💬 60 • ⏱️ 15:16 • 1h ago
+
+---
+
+**[Are Exchanges Bad For Bitcoin?](https://www.youtube.com/watch?v=8_VpRqae81M)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss whether or not exchanges are bad ...
+
+📺 Bitcoin University
+
+👁️ 878 • 👍 205 • 💬 68 • ⏱️ 5:48 • 2h ago
+
+---
+
 **[Bitcoin Uptober Rally Is Just Getting Started](https://www.youtube.com/watch?v=BgtIaTYOBLw)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 572 • 💬 12 • ⏱️ 1:10:31 • 1h ago
+👁️ 20K • 👍 729 • 💬 30 • ⏱️ 1:10:31 • 6h ago
 
 ---
 
@@ -303,17 +321,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 2K • 👍 197 • 💬 23 • ⏱️ 13:08 • 2h ago
+👁️ 9K • 👍 355 • 💬 40 • ⏱️ 13:08 • 6h ago
 
 ---
 
-**[This Is NOT Altseason.](https://www.youtube.com/watch?v=gmaA4Qlrk5c)**
+**[Jobs Report Misses: Why This Is Actually Bullish for Bitcoin](https://www.youtube.com/watch?v=ca3v2_ymGwY)**
 
-Most of you are holding the wrong altcoins and wondering why you are not making money. The truth? Altseason has not even ...
+The SEC wants your financial advisor holding actual crypto. The SEC proposed a framework this week that would let registered ...
 
-📺 Crypto Banter
+📺 Yahoo Finance
 
-👁️ 10K • 👍 838 • 💬 28 • ⏱️ 35:19 • 2h ago
+👁️ 7K • 👍 214 • 💬 119 • ⏱️ 14:58 • 4h ago
+
+---
+
+**[Is Bitcoin&#39;s Pump a FAKEOUT? Confirmation Signal REVEALED](https://www.youtube.com/watch?v=Mqr473JfYdE)**
+
+Bitcoin just pumped. Is it the real move, or a fakeout? Trade alongside the Verified Pro Traders in the Apex Live Day Trading ...
+
+📺 Verified Investing
+
+👁️ 6K • 👍 481 • 💬 15 • ⏱️ 23:17 • 3h ago
 
 ---
 
@@ -323,37 +351,17 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 13K • 👍 2K • 💬 3 • ⏱️ 19:36 • 4h ago
+👁️ 30K • 👍 2K • 💬 3 • ⏱️ 19:36 • 8h ago
 
 ---
 
-**[Bitcoin Is Breaking Out. Are Altcoins the Better Buy Now?](https://www.youtube.com/watch?v=VHCDMCPPPaA)**
+**[This Is NOT Altseason.](https://www.youtube.com/watch?v=gmaA4Qlrk5c)**
 
-Bitcoin is breaking out, and altcoins look cheap against it again. I walk through why Bitcoin moved, the levels on the way to the ...
+Most of you are holding the wrong altcoins and wondering why you are not making money. The truth? Altseason has not even ...
 
-📺 VirtualBacon
+📺 Crypto Banter
 
-👁️ 4K • 👍 263 • 1h ago
-
----
-
-**[Crypto Holders: The SEC Just Unlocked $176 Trillion (Huge Inflows)](https://www.youtube.com/watch?v=JHt8bYB9FKE)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trezor: ...
-
-📺 Aaron Bennett
-
-👁️ 14K • 👍 574 • 💬 64 • ⏱️ 11:26 • 12h ago
-
----
-
-**[Bitcoin BREAKS $86K - And The Biggest Sell Wall Just Disappeared | Stani Kulechov](https://www.youtube.com/watch?v=SprKlC_fiH4)**
-
-Bitcoin #Crypto #finance Bitcoin breaks above $86K ahead of the U.S. jobs report, clearing a major sell wall despite high yields ...
-
-📺 The Wolf Of All Streets
-
-👁️ 6K • 👍 375 • 💬 67 • ⏱️ 50:17 • 2h ago
+👁️ 30K • 👍 1K • 💬 47 • ⏱️ 35:19 • 7h ago
 
 ---
 
@@ -363,27 +371,17 @@ DOMINATE THE BOTTOM ⬇️JOIN THE WAITLIST ⬇️ https://cryptocrewuniversity.
 
 📺 Crypto Crew University
 
-👁️ 544 • 👍 32 • 💬 2 • ⏱️ 0:30 • 31m ago
+👁️ 3K • 👍 117 • 💬 4 • ⏱️ 0:30 • 5h ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 73)](https://www.youtube.com/watch?v=vMz4H9OK_fs)**
+**[Bitcoin Live Trading: WE KNEW IT! BTC Is On The Move… What Happens Next?! EP2142](https://www.youtube.com/watch?v=JK_hzcc85Qk)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+WEEX EVENT: https://www.weex.com/events/trading-challenge/trade-to-win-apple?vipCode=8six&qrType=activity WEEX: ...
 
-📺 Benjamin Cowen
+📺 Crypto Lifer
 
-👁️ 69K • 👍 2K • 💬 76 • ⏱️ 2:54 • 14h ago
-
----
-
-**[Bitcoin Just Broke the Bear Market! But There’s a Problem?](https://www.youtube.com/watch?v=wsX7BBEin-4)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Bitcoin just broke its bearish ...
-
-📺 Bankless
-
-👁️ 7K • 👍 162 • 💬 18 • ⏱️ 59:56 • 6h ago
+👁️ 9K • 👍 425 • 💬 6 • ⏱️ 1:54:23 • 3h ago
 
 ---
 

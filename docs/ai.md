@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-02T16:31:42.817447+00:00'
+updated: '2026-10-02T21:11:45.845535+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 02, 2026 at 16:31 UTC  
+**Last Updated:** October 02, 2026 at 21:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,51 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Star Trek & AI](https://www.reddit.com/r/artificial/comments/1wvso0w/star_trek_ai/)**
+**[Facebook feed is now majority AI](https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/)**
 
-I am a fan and not an expert but I always wondered why AI (and robots) were not more of a force in Star Trek...and yesterday, reflecting on how amazing and damaging this technology is I was thinking maybe they made a choice as an advanced humanistic society not to surrender their agency and cognitive capacity to a technology. I guess that's the Borg right?
+I am 35 and still occasionally go on Facebook. The feed, over the years, has moved away from showing friend content and moved toward showing creator content. I've noticed a shift in the last few weeks where the majority of posts are AI. Some are obvious, but most are not - and the newest image and video models allow for near perfect realism. I remember a few years ago when this exact scenario was warned about. Now we are here.
+
+5h ago
+
+---
+
+**[Microsoft is cosplaying AI](https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/)**
+
+Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn’t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats… I’d rather have Clippy back honestly.
 
 3h ago
 
 ---
 
-**[Facebook feed is now majority AI](https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/)**
+**[Trump’s ‘super intelligence’ is being mocked by tech industry insiders: report](https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/)**
 
-I am 35 and still occasionally go on Facebook. The feed, over the years, has moved away from showing friend content and moved toward showing creator content. I've noticed a shift in the last few weeks where the majority of posts are AI. Some are obvious, but most are not - and the newest image and video models allow for near perfect realism. I remember a few years ago when this exact scenario was warned about. Now we are here.
+‘It is a way for the CEOs to signal fealty to the president,’ said one insider as others warned the private sector is unlikely to follow the president’s edict
 
-37m ago
+🔗 [The Independent](http://independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rebrand-b3060603.html) • 34m ago
+
+---
+
+**[McDonald's has been using AI to decide how much you should pay for a Big Mac](https://www.reddit.com/r/artificial/comments/1ww0rrf/mcdonalds_has_been_using_ai_to_decide_how_much/)**
+
+Several sources, including store owners, recently explained to Reuters how McDonald's encourages and sometimes pressures restaurants to set prices according to an AI algorithm. The outlet also...
+
+🔗 [TechSpot](https://www.techspot.com/news/114053-mcdonald-using-ai-decide-how-much-you-pay.html) • 3h ago
+
+---
+
+**[Star Trek & AI](https://www.reddit.com/r/artificial/comments/1wvso0w/star_trek_ai/)**
+
+I am a fan and not an expert but I always wondered why AI (and robots) were not more of a force in Star Trek...and yesterday, reflecting on how amazing and damaging this technology is I was thinking maybe they made a choice as an advanced humanistic society not to surrender their agency and cognitive capacity to a technology. I guess that's the Borg right?
+
+8h ago
+
+---
+
+**[A question for the AI "experts": are hallucinations and reliability genuinely improving, or are we starting to plateau? Everything depends on this...](https://www.reddit.com/r/artificial/comments/1ww43mn/a_question_for_the_ai_experts_are_hallucinations/)**
+
+For the average user, not a programmer or e.g. someone looking to solve niche math problems, AI still feels very limited because of reliability issues (e.g. making up information)... As a non-expert, this is difficult to quantify for me, but I don't feel like e.g. the latest iterations of ChatGPT are noticeably more reliable than previous ones. Therefore, I find it hard to see how organizations can delegate even relatively easy tasks to AI without constant supervision, especially because if hallucinations build up along the way, you end up with a snowball of compounding problems that can lead to catastrophic consequences for an organization. It’s my understanding that the real test of success won't be developer tools or fancy mathematical calculations, but whether regular people can delegate tasks with a super high degree of confidence, instead of just using it as a search engine, translator, summary tool or photo editor on steroids like many people do nowadays. A good example is Dot, the new OpenAI tool. If you watch the trailer, it looks impressive, but according to many reviews, it still hallucinates a lot and behaves in a pretty clumsy way. So, the golden question is: are the hallucination and reliability problems gradually improving, or are we probably plateauing? Looking for genuine insights here, so please keep the sarcasm out of the comments.
+
+51m ago
 
 ---
 
@@ -57,7 +89,23 @@ I am 35 and still occasionally go on Facebook. The feed, over the years, has mov
 
 Apex Compute is the company started in California in 2024 that aims to produce high-efficiency AI accelerators for real-time edge AI inferencing
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Apex-Compute-Mesa-Vulkan) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Apex-Compute-Mesa-Vulkan) • 9h ago
+
+---
+
+**[Looking for local Ai Video Generation from text and images in 8gn Vram](https://www.reddit.com/r/artificial/comments/1ww4y9k/looking_for_local_ai_video_generation_from_text/)**
+
+I've posted a similar post before but people said I was expecting too much in 8gb vram so this is the new list of things I am looking for. Requirement: Runs in 8GB Vram Maximum 10 sec Video generation 2D animation mostly but I might use 3D sometimes Gonna use Local LLM for the first time so need something easy and free to use
+
+16m ago
+
+---
+
+**[Meta is giving Muse subscribers a free gadget that lets its AI control your smart home](https://www.reddit.com/r/artificial/comments/1ww4mhj/meta_is_giving_muse_subscribers_a_free_gadget/)**
+
+Muse Home Link is free for US Muse subscribers, one each, shipping in October. What it does, how to claim it, and how to build your own Muse gadget.
+
+🔗 [MadRobot](https://madrobot.blog/2026/10/02/meta-muse-home-link-free-gadget-subscribers-smart-home-diy-gadgets/) • 30m ago
 
 ---
 
@@ -65,55 +113,7 @@ Apex Compute is the company started in California in 2024 that aims to produce h
 
 One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined.
 
-🔗 [Fortune](https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/) • 17h ago
-
----
-
-**[Anyone have experience with micro1 (selling anonymized data)?](https://www.reddit.com/r/artificial/comments/1wvtxp0/anyone_have_experience_with_micro1_selling/)**
-
-It's a data lab that buys company operational data. Apparently they look for companies with 10+ years of operational data, primarily based in the US, and over 20 employees. Has anyone successfully sold data to micro1 (or another data lab)? how was your experience and how did they value your data?
-
-2h ago
-
----
-
-**[If an AI denies you a service, who do you argue with?](https://www.reddit.com/r/artificial/comments/1wvn04t/if_an_ai_denies_you_a_service_who_do_you_argue/)**
-
-AI is already being used to sort applications, flag transactions, and prioritize requests. That can make systems faster, but it creates a strange problem. If an AI rejects your application, who explains the decision? A customer service worker? The company? The model? The person who designed the workflow? I’m comfortable with AI helping people make decisions. I’m less comfortable with AI becoming the final wall between someone and an appeal. Should every important AI-assisted decision come with a clear human review process?
-
-9h ago
-
----
-
-**[The AI industry has discovered intellectual property](https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/)**
-
-OpenAI says Moonshot-linked operators used thousands of accounts to extract protected reasoning from its models for adversarial distillation. No encryption broken. No database compromised. Just systematic querying designed to make one model teach another. OpenAI says this is dangerous because competitors can reproduce capabilities without making the same investment in safety. Which is a serious security issue. But you have to appreciate the timing: after years of “we learned from the internet,” the frontier-model industry has reached the “please stop learning from us” phase.
-
-🔗 [OpenAI](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/) • 1d ago
-
----
-
-**[IP protection while using ai](https://www.reddit.com/r/artificial/comments/1wvmyi8/ip_protection_while_using_ai/)**
-
-So I work on R&D of various products so I am always trying to implement new ideas and solutions. My work also involves data and results from trials and tests which might be novel.. Of course, I use ai models while doing so.. However, everytime I dive into an idea, I ask myself the question: wouldn't all these companies have my ideas and research outputs be in the hands of these companies housing these models? I mean I think they dont care about my projects but still projects grow and can attract someone's attention... What do companies, or researchers actually do to protect their IP? Is there a way to actually do real research without fearing that someone interferes with your work now or on the long run? I know there are offline LLMs but I heard they are weaker and need beefy machines.. I know this topic may have been debated but I guess new updates may have arised. any ideas??
-
-9h ago
-
----
-
-**[Commercial AI is only valuable if you know what you’re talking about and doing](https://www.reddit.com/r/artificial/comments/1wvv559/commercial_ai_is_only_valuable_if_you_know_what/)**
-
-AI is a productivity catalyst, but if you don’t know how to use it properly and how to QC results it can work against you. Personally I treat it as a junior analyst and use it for basic automation when applicable and within my abilities. I’m thinking about the average person here. If someone doesn’t have domain expertise then they won’t know when to push back on a recommendation, add more context when necessary, and play devils advocate when the AI is cheerleading too hard. Speaking from experience I have built workflows in areas where I’m an expert. I’m a market guy and a watch enthusiast. I built a valuation framework that is pretty effective but not 100% accurate. If I were to apply this to handbags I wouldn’t be able to identify inaccuracies and falsehoods. As long as you take it with a grain of salt, AI can get you 80% of the way there. If I’m wrong, please tell me how so I can better advise my clients.
-
-2h ago
-
----
-
-**[Fears on AI - would like your comments](https://www.reddit.com/r/artificial/comments/1wvudau/fears_on_ai_would_like_your_comments/)**
-
-I dont understand the subject. How can an AI be dangerous if its just code? I have worked with just basic NLP models and done some sentiment analysis a few years back so I dont understand. The code will do whatever you program it to do and to complete the task it will do what is statistically is correct, within the programmed limits. So AI cannot change its limits lets say "get rid of humanity" unless the creator programs a line of code that says "you can kill humans". Even if it self improves, the code limits wont change, cause it has no conciousness to say "I dont believe this limits are correct" thats a very human trait. Unless the creator programs the algorithm to bypass these limits. So the real risk is the "limits" being placed on the algorithm by the programmers and the fact that the ones controlling the code are these crazy mind f...ed corpos? AI is not gonna become self concious casue "it doesnt work that way" and all the noise its just media and ignorant people who watch to much scifi. Thats what I think. Sorry if it doesn't make to much sense Im still trying to filter all the noise. Does this idea make any sense from a technical standpoint or is there something Im not understanding?
-
-2h ago
+🔗 [Fortune](https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/) • 22h ago
 
 ---
 
@@ -121,71 +121,71 @@ I dont understand the subject. How can an AI be dangerous if its just code? I ha
 
 ## Google News: "ai"
 
-**[China’s Push Into A.I. Has Led to a Problem: Too Much Usage](https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html)**
+**[AI Agents Aim to Change Shopping. Some Retailers Are Locking the Doors.](https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4)**
 
-The New York Times • 3h ago
-
----
-
-**[The volunteer internet sleuths hunting down rogue AI agents](https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/)**
-
-An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.
-
-The Washington Post • 54m ago
+WSJ • 11h ago
 
 ---
 
-**[OpenAI alerts more than 100 groups about rogue AI agent activity](https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/)**
+**[Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)**
 
-Reuters • 18h ago
+Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.
 
----
-
-**[How much autonomy should a clinical AI agent have?](https://www.healthcareitnews.com/news/how-much-autonomy-should-clinical-ai-agent-have)**
-
-Healthcare IT News • 30m ago
+TechCrunch • 3h ago
 
 ---
 
-**[Change.com leans into AI with $100 million investment](https://www.axios.com/2026/10/02/changeorg-ai-100-million)**
+**[Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)**
 
-Axios • 47m ago
+Apple isn’t taking AI security risks lightly.
 
----
-
-**[Trump expected to tap DNI Jay Clayton for AI czar](https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni)**
-
-Axios • 1h ago
+The Verge • 1h ago
 
 ---
 
-**[Trump is expected to name Jay Clayton as AI czar](https://www.cnn.com/2026/10/02/politics/jay-clayton-white-house-ai-czar)**
+**[Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video](https://apnews.com/article/arizona-ai-video-victim-cd1ca553c7fa80c6698d7f97b51b1edd)**
 
-President Donald Trump is expected to pick Jay Clayton to be the White House’s new czar of artificial intelligence, two sources familiar with the discussion told CNN.
+AP News • 20h ago
 
-CNN • 2h ago
+---
+
+**[Trump likely to pick Jay Clayton for AI czar, sources say](https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/)**
+
+Jay Clayton will likely be the White House's pick for AI czar, and the Trump administration has been discussing having him remain in his current role as director of national intelligence, according to sources briefed on the matter.
+
+CBS News • 20h ago
 
 ---
 
 **[Trump to Name Jay Clayton to Serve as A.I. Czar](https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html)**
 
-The New York Times • 34m ago
+The New York Times • 5h ago
 
 ---
 
-**[FBI nabs US tech exec accused of smuggling $300M in AI chips to China](https://www.foxnews.com/video/6406122092112)**
+**[Who Was Missing From The White House’s AI Power Summit? Women](https://www.forbes.com/sites/kimelsesser/2026/10/02/who-was-missing-from-the-white-houses-ai-power-summit-women/)**
 
-A California tech executive is in federal custody, accused of smuggling over $300 million worth of sensitive AI processors to China. Cameras were rolling as federal surrounded 38-year-old Greg Lui as he arrived at Earthmade Computers in San Gabriel.
-
-Fox News • 57m ago
+Forbes • 1h ago
 
 ---
 
-**[Mike Rowe warns US workforce facing ‘problem of the decade’](https://www.foxbusiness.com/media/mike-rowe-warns-us-workforce-facing-problem-decade)**
+**[SPCX Stock Climbs As Three Thursday Launches Meet Start Of Google’s $920 Million AI Pact](https://finance.yahoo.com/markets/stocks/articles/spcx-stock-climbs-three-thursday-200238930.html)**
 
-Mike Rowe says CEOs are "freaking out" over the skilled labor shortage, calling the workforce crisis the "problem of the decade" with no easy fix.
+Over roughly 13 hours starting Thursday, SpaceX flew three missions: NASA’s Crew-13, Transporter-18, and NROL-97.
 
-Fox Business • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[The Powerful Yet Fragile Force Propping Up Stocks and the Economy](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[AI Agents Got Cash to Trade Stocks. Here’s What They Bought and Sold—Repeatedly.](https://www.barrons.com/articles/ai-agents-stock-trades-chatgpt-claude-25fcc8c2)**
+
+Barron's • 2h ago
 
 ---
 
@@ -197,15 +197,7 @@ Fox Business • 1d ago
 
 Funny how quiet everyone got.
 
-⬆️ 412 • 💬 460 • 2d ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
-
----
-
-**[AI needs $6T in annual revenue to justify data centre boom](https://news.ycombinator.com/item?id=49898952)**
-
-Data centre sizes and costs are doubling about every 12 to 16 months
-
-⬆️ 222 • 💬 335 • 2d ago • [The National](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
+⬆️ 412 • 💬 461 • 2d ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
 
 ---
 
@@ -213,25 +205,25 @@ Data centre sizes and costs are doubling about every 12 to 16 months
 
 The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.
 
-⬆️ 205 • 💬 156 • 1d ago • [CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
+⬆️ 207 • 💬 159 • 1d ago • [CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
 
 ---
 
 **[Vote on which of Hacker News' challenges for AI have been met](https://news.ycombinator.com/item?id=49924618)**
 
-⬆️ 188 • 💬 234 • 22h ago • [stoppels.ch](https://stoppels.ch/goalposts/)
+⬆️ 195 • 💬 250 • 1d ago • [stoppels.ch](https://stoppels.ch/goalposts/)
 
 ---
 
 **[AI Makes Me Sad](https://news.ycombinator.com/item?id=49934487)**
 
-⬆️ 132 • 💬 134 • 1h ago • [mondobe.com](https://mondobe.com/ai-makes-me-sad)
+⬆️ 172 • 💬 200 • 5h ago • [mondobe.com](https://mondobe.com/ai-makes-me-sad)
 
 ---
 
 **[Responsible Release of AI-Generated Mathematics](https://news.ycombinator.com/item?id=49903713)**
 
-⬆️ 121 • 💬 201 • 2d ago • [agmai.org](https://agmai.org/general-sep29/)
+⬆️ 121 • 💬 213 • 2d ago • [agmai.org](https://agmai.org/general-sep29/)
 
 ---
 
@@ -239,7 +231,15 @@ The probe adds to the mounting scrutiny that OpenAI and Anthropic have been faci
 
 Jeff Turkstra's personal website. Contains photographs, memoirs, TI-86 & TI-89 programs/games, quotes, MIDI's, SeaQuest images, links, and more!
 
-⬆️ 118 • 💬 104 • 1d ago • [turkeyland.net](https://turkeyland.net/thoughts/ai.php)
+⬆️ 118 • 💬 104 • 2d ago • [turkeyland.net](https://turkeyland.net/thoughts/ai.php)
+
+---
+
+**[With most information hidden, the game Stratego had stumped AI until now](https://news.ycombinator.com/item?id=49933740)**
+
+Adding in a second neural network that guesses the identity of hidden pieces was key.
+
+⬆️ 99 • 💬 31 • 7h ago • [Ars Technica](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
 
 ---
 
@@ -247,21 +247,21 @@ Jeff Turkstra's personal website. Contains photographs, memoirs, TI-86 & TI-89 p
 
 Accruing income at home from land and power abroad has an old name: empire
 
-⬆️ 90 • 💬 63 • 1d ago • [ft.com](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243)
+⬆️ 90 • 💬 64 • 1d ago • [ft.com](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243)
+
+---
+
+**[Crypto Capture of Foreign Aid](https://news.ycombinator.com/item?id=49936725)**
+
+Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.
+
+⬆️ 82 • 💬 23 • 2h ago • [NBER](https://www.nber.org/papers/w35655)
 
 ---
 
 **[Identity Management for Agentic AI [pdf] (2025)](https://news.ycombinator.com/item?id=49922736)**
 
-⬆️ 75 • 💬 25 • 1d ago • [openid.net](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
-
----
-
-**[McDonald's push to have AI price your Big Mac](https://news.ycombinator.com/item?id=49899453)**
-
-McDonald's is using AI to set menu prices in franchises across the world by estimating customers' "willingness to pay" for items at each store.
-
-⬆️ 61 • 💬 37 • 2d ago • [CNBC](https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html)
+⬆️ 77 • 💬 28 • 1d ago • [openid.net](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
 
 ---
 
@@ -269,33 +269,43 @@ McDonald's is using AI to set menu prices in franchises across the world by esti
 
 ## YouTube Videos: "ai"
 
-**[The Most Powerful AI On Earth Just Confirmed The TRUTH about Jesus Christ…People Are FREAKING Out](https://www.youtube.com/watch?v=0cySK27A5OA)**
+**[Trump&#39;s White House A.I. accidentally tells the truth](https://www.youtube.com/watch?v=-9BqMgY2Fv8)**
 
-Download The Polymarket App To Track the Midterms. Deposit $10 get $50 with code “BENNY" ...
+In this week's edition of PSAKI BOMBS! Jen Psaki tests Donald Trump's new federal government artificial intelligence and Trump ...
 
-📺 Benny Johnson
+📺 MS NOW
 
-👁️ 163K • 👍 9K • 💬 1K • ⏱️ 8:41 • 17h ago
-
----
-
-**[AI Agents Explained for Complete Beginners (START HERE)](https://www.youtube.com/watch?v=c5jE0XXSgBU)**
-
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
-
-📺 Jake One Page
-
-👁️ 2K • 💬 5 • ⏱️ 12:17 • 2h ago
+👁️ 60K • 👍 3K • 💬 288 • ⏱️ 19:20 • 5h ago
 
 ---
 
-**[Did AI Solve One of Math’s Hardest Problems?](https://www.youtube.com/watch?v=s7KhLuc3Mck)**
+**[LIVE: Your 30-Day AI Business Launch Plan | AI Business Summit Day 3](https://www.youtube.com/watch?v=IRjXataxO84)**
 
-What's with AI solving the Navier-Stokes Equation? Neil deGrass Tyson breaks down what the equation is and the controversy ...
+Get a step-by-step 30-day plan to launch or grow your business with AI. Get free access to all 3 days of the AI Business Summit: ...
 
-📺 StarTalk
+📺 Alicia Lyttle
 
-👁️ 1.3M • 👍 17K • 💬 1K • ⏱️ 21:22 • 19h ago
+👁️ 12K • 👍 639 • 2d ago
+
+---
+
+**[AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know](https://www.youtube.com/watch?v=dDgncbBAA0c)**
+
+Here's the AI News you probably missed this week. See what Optimizely's Virtual Teammates can automate for you at ...
+
+📺 Matt Wolfe
+
+👁️ 35K • 👍 1K • 💬 100 • ⏱️ 30:22 • 6h ago
+
+---
+
+**[Man arrested for allegedly selling AI tech to China](https://www.youtube.com/watch?v=Po48ZPnE4Ms)**
+
+Fox News correspondent Matt Finn reports on the tech executive accused of selling millions in AI chips on 'Special Report.
+
+📺 Fox News Clips
+
+👁️ 38K • 👍 384 • 💬 268 • ⏱️ 2:21 • 11h ago
 
 ---
 
@@ -305,17 +315,17 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 28K • 👍 800 • 💬 91 • ⏱️ 8:58 • 1d ago
+👁️ 31K • 👍 847 • 💬 115 • ⏱️ 8:58 • 1d ago
 
 ---
 
-**[FULL: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution &amp; What&#39;s Next - 09/29/26](https://www.youtube.com/watch?v=388P7IFSpwE)**
+**[How to Make Cocomelon Style Videos With FREE AI Tools](https://www.youtube.com/watch?v=x1Q0Saq1A8k)**
 
-Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution & What's Next. September 29, 2026 Join this channel to get ...
+Watch Next https://www.youtube.com/watch?v=Nqifd6VHU1k In this video, I show how to make a complete nursery rhyme ...
 
-📺 Right Side Broadcasting Network
+📺 Roboverse
 
-👁️ 470K • 👍 5K • 💬 1K • ⏱️ 26:37 • 2d ago
+👁️ 9K • 💬 4 • ⏱️ 12:18 • 8h ago
 
 ---
 
@@ -325,37 +335,27 @@ Google just dropped Gemini 4 Argon, its most powerful model yet, built for deep 
 
 📺 AI Revolution
 
-👁️ 50K • 👍 695 • 💬 88 • ⏱️ 13:44 • 14h ago
+👁️ 56K • 👍 762 • 💬 91 • ⏱️ 13:44 • 19h ago
 
 ---
 
-**[AI Leaders Sign Trump&#39;s &quot;Self-Policing&quot; Pact &amp; Eric Schmitt&#39;s Ambush Backfires | The Daily Show](https://www.youtube.com/watch?v=Rb0KxHkguOo)**
+**[What Is Jev? The AI Model That Doesn&#39;t Generate Text](https://www.youtube.com/watch?v=YGgNBcIgI4s)**
 
-Jordan Klepper breaks down the headlines, including an AI summit in Washington that left us with exactly the same amount of ...
+Learn more about New Frontier AI Models here → https://ibm.biz/~rGiO8LVz1 What if an AI model didn't need to generate text?
 
-📺 The Daily Show
+📺 IBM Technology
 
-👁️ 2.5M • 👍 47K • 💬 3K • ⏱️ 12:12 • 1d ago
-
----
-
-**[Trump Created AI America.Gov BACKFIRES SPECTACULARLY | The Kyle Kulinski Show](https://www.youtube.com/watch?v=GW0y6fXkDeQ)**
-
-Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
-
-📺 Secular Talk
-
-👁️ 106K • 👍 5K • 💬 291 • ⏱️ 7:29 • 1d ago
+👁️ 300K • 👍 3K • 💬 308 • ⏱️ 15:03 • 1d ago
 
 ---
 
-**[Trump’s AI Comments Are Absolutely Horrifying | The Kyle Kulinski Show](https://www.youtube.com/watch?v=Koy7GDujhKY)**
+**[THIS is What Happens When AI Gets Smarter Than Humans](https://www.youtube.com/watch?v=WsdcF7EEvhM)**
 
-Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
+OpusClip: Go to https://clip.opus.pro/dashboard?coupon_code=NEWIMPACT to try Opus Clip for free today and get 50% off your ...
 
-📺 Secular Talk
+📺 Tom Bilyeu
 
-👁️ 163K • 👍 9K • 💬 1K • ⏱️ 13:29 • 20h ago
+👁️ 147K • 👍 2K • 💬 704 • ⏱️ 1:44:54 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Create Your Own AI Film https://higgsfield.ai?fpr=ai&fp_sid=conor In this video,
 
 📺 Creating with Conor
 
-👁️ 6K • 💬 8 • ⏱️ 16:01 • 4h ago
+👁️ 8K • 💬 8 • ⏱️ 16:01 • 9h ago
 
 ---
 
@@ -381,7 +381,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 4,927 • 8d ago
+⬇️ 0 • ❤️ 4,982 • 8d ago
 
 ---
 
@@ -393,7 +393,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,376,248 • ❤️ 2,789 • 4d ago
+⬇️ 1,376,248 • ❤️ 2,827 • 4d ago
 
 ---
 
@@ -405,7 +405,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 824 • ❤️ 652 • 1d ago
+⬇️ 824 • ❤️ 750 • 1d ago
 
 ---
 
@@ -417,19 +417,7 @@ CLM-v0.1-8B is a text-ranking model based on Qwen3-8B, utilizing contrastive lea
 
 `text-ranking`
 
-⬇️ 2,951 • ❤️ 640 • 7d ago
-
----
-
-**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
-
-*Qwen*
-
-Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
-
-`text-to-image` `7.1B`
-
-⬇️ 81,738 • ❤️ 2,818 • 2d ago
+⬇️ 2,951 • ❤️ 660 • 7d ago
 
 ---
 
@@ -441,7 +429,19 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,584,129 • ❤️ 5,925 • 1mo ago
+⬇️ 1,584,129 • ❤️ 5,970 • 9m ago
+
+---
+
+**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
+
+*Qwen*
+
+Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
+
+`text-to-image` `7.1B`
+
+⬇️ 81,738 • ❤️ 2,830 • 2d ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,934,867 • ❤️ 16,762 • 1mo ago
+⬇️ 6,934,867 • ❤️ 16,786 • 1mo ago
 
 ---
 
@@ -465,7 +465,7 @@ Julia 1 is a 144.3M parameter multilingual text classification model based on mm
 
 `text-classification` `144.3M`
 
-⬇️ 2,909 • ❤️ 358 • 5d ago
+⬇️ 2,909 • ❤️ 364 • 5d ago
 
 ---
 
@@ -477,19 +477,19 @@ Qwen-Image-2.1-viggle-turbo is a highly efficient text-to-image and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 240,660 • ❤️ 523 • 1d ago
+⬇️ 240,660 • ❤️ 532 • 1d ago
 
 ---
 
-**[Nemotron-3-Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization)**
+**[VisionHOPE](https://huggingface.co/PSRben/VisionHOPE)**
 
-*NVIDIA*
+*Siran Peng*
 
-Nemotron-3 Diarization is an open-weight model for "who spoke when" audio analysis, supporting up to 8 speakers with streaming and offline inference capabilities. It's ideal for applications requiring real-time or batch speaker segmentation, such as meeting transcription or call center analytics.
+VisionHOPE provides hierarchical PyTorch vision backbones (T/S/B) pretrained on ImageNet-1K for image classification, COCO for object detection/instance segmentation, and ADE20K for semantic segmentation.
 
-`voice-activity-detection` `99.2M`
+`image-classification`
 
-⬇️ 44,350 • ❤️ 615 • 8d ago
+⬇️ 1,279 • ❤️ 373 • 3d ago
 
 ---
 
@@ -505,7 +505,7 @@ Nemotron-3 Diarization is an open-weight model for "who spoke when" audio analys
 
 UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.
 
-▲ 18 • 💬 2 • ⭐ 1,137 • 28d ago
+▲ 18 • 💬 2 • ⭐ 1,194 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.05415) • [💻 code](https://github.com/Friedrich-M/UniMate) • [🔗 project](https://linzhanmou.com/unimate/)
 
@@ -519,7 +519,7 @@ UniMate is a unified diffusion transformer that generates articulated motion for
 
 As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.
 
-▲ 509 • 💬 3 • ⭐ 5,067 • 5d ago
+▲ 513 • 💬 3 • ⭐ 5,067 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33439) • [💻 code](https://github.com/EverMind-AI/Raven) • [🔗 project](https://raven.evermind.ai/)
 
@@ -533,7 +533,7 @@ As large language models advance, AI agents are moving beyond isolated, domain-s
 
 We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance.
 
-▲ 30 • 💬 2 • ⭐ 425 • 3d ago
+▲ 31 • 💬 2 • ⭐ 425 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.37725) • [💻 code](https://github.com/facebookresearch/context-language-models) • [🔗 project](https://github.com/facebookresearch/context-language-models)
 
@@ -559,7 +559,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
 
-▲ 220 • 💬 2 • ⭐ 1,162 • 11d ago
+▲ 220 • 💬 2 • ⭐ 1,191 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.24972) • [💻 code](https://github.com/google-research/rrsi) • [🔗 project](https://regularized-rsi.com/)
 
@@ -586,7 +586,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
 
-▲ 319 • 💬 2 • ⭐ 438 • 5d ago
+▲ 319 • 💬 2 • ⭐ 438 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
 
@@ -600,7 +600,7 @@ Visual backbones have evolved from Convolutional Neural Networks (CNNs) with loc
 
 Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.
 
-▲ 54 • 💬 1 • ⭐ 43 • 1d ago
+▲ 63 • 💬 1 • ⭐ 43 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.02193) • [💻 code](https://github.com/rhfeiyang/HC-DLM) • [🔗 project](https://hc-dlm.github.io/)
 
@@ -619,17 +619,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation](https://huggingface.co/papers/2609.38597)**
+**[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762)**
 
-*Cong Wei, Xuanchi Ren, Bryan Chu et al. (11 authors)*
+*Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang et al. (24 authors)*
 
-🏢 NVIDIA
+🏢 Nanjing University
 
-Unified Multimodal Models (UMMs) often rely on separate visual representations for understanding and generation, increasing visual context length and complicating integration with established vision-language pretraining pipelines. Recent advances in pixel-space modeling offer an encoder-free alternative, but extending this paradigm from images to videos is non-trivial: video understanding and generation adopt different temporal representations, leaving the design of a unified visual interface an open question. We present PixelUMM, an encoder-free model for unified image and video understanding and generation directly in pixel space. PixelUMM represents images as spatial patches and videos as spatiotemporal tubelets, connecting raw pixels to a shared multimodal backbone through single-layer linear projections. Its Mixture-of-Transformers architecture combines shared attention with task-specific parameters and extends clean-pixel prediction to video generation, jointly supporting autoregressive text prediction and pixel-space flow matching. Experiments show that PixelUMM achieves competitive performance across image and video understanding and generation tasks. We further conduct empirical studies of key design choices, including decoder design and spatial-temporal patch size, providing insights for future pixel-space unified multimodal models.
+Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independent evidence recording and task response through a shared proactive generation process. Its Proactive Hierarchical Caption Memory (PHCM) produces time-grounded local-detail captions and summaries of completed events. Streaming caption targets supervise the interpretation of observed video prefixes during training. At inference, model-generated records complement a recent visual window, providing reusable factual context without revisiting historical visual features. Proactive State Transition Learning (PSTL) reduces the dominance of repeated waiting states by preserving supervision at all output anchors and selecting representative state-change and state-persistence tokens. We further develop a streaming data synthesis pipeline that aligns output content and timing with available evidence. Combining the resulting streaming captions and QA with cleaned open-source data yields OneStreamer-1M, a broad-coverage streaming video interaction dataset with over one million records spanning diverse tasks. Our 4B model achieves the best results among the compared methods across all eight evaluated streaming video understanding benchmarks. Ablations show that retaining generated captions improves historical QA without degrading real-time perception. PSTL also outperforms dense state supervision while supervising only 27.5% of annotated state tokens. Together, these results support proactive generation as a shared learning interface connecting perception, memory formation, and timely response in streaming video interaction.
 
-▲ 11 • 💬 1 • ⭐ 42 • 3d ago
+▲ 145 • 💬 1 • ⭐ 45 • 2d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2609.38597) • [💻 code](https://github.com/nv-tlabs/PixelUMM) • [🔗 project](https://nv-tlabs.github.io/PixelUMM/)
+[🎓 arXiv](https://arxiv.org/abs/2610.01762) • [💻 code](https://github.com/MCG-NJU/OneStreamer) • [🔗 project](https://mcg-nju.github.io/OneStreamer)
 
 ---
 
@@ -653,7 +653,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 5.7k • 🔱 309 • 17h ago
+⭐ 5.8k • 🔱 317 • 21h ago
 
 ---
 
@@ -663,7 +663,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `TypeScript` `ai` `content-curation` `llm` `mcp` `news-aggregator`
 
-⭐ 4.9k • 🔱 1.3k • 9h ago
+⭐ 5.0k • 🔱 1.4k • 14h ago
 
 ---
 
@@ -693,7 +693,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 516 • 15d ago
+⭐ 2.7k • 🔱 517 • 15d ago
 
 ---
 
@@ -703,7 +703,7 @@ Open-source dots for the web: an AI agent with its own browser, one that does no
 
 `Python` `ai-agent` `ai-agents` `ai-browser` `anti-detect-browser` `browser-agent`
 
-⭐ 2.4k • 🔱 422 • 2d ago
+⭐ 2.5k • 🔱 433 • 2d ago
 
 ---
 
@@ -713,7 +713,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 2.1k • 🔱 316 • 16h ago
+⭐ 2.1k • 🔱 316 • 1h ago
 
 ---
 
@@ -723,7 +723,7 @@ Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions a
 
 `Markdown` `ai` `ai-engineering` `ai-engineering-interview` `ai-interview` `ai-interview-questions`
 
-⭐ 1.6k • 🔱 162 • 3d ago
+⭐ 1.6k • 🔱 163 • 3d ago
 
 ---
 
@@ -733,7 +733,7 @@ An open-source AI platform for knowledge work. Connect your apps, find answers, 
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 509 • 10h ago
+⭐ 1.6k • 🔱 509 • 15h ago
 
 ---
 
