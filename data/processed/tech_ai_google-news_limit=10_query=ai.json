@@ -5,74 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "China\u2019s Push Into A.I. Has Led to a Problem: Too Much Usage",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUVhoQVNBcExzYkF5TlZFMDNiMml6U2FsTkVsUm1wRV9WVGFwaGh1SWZjX2N0VW5aWW9kYVFIbGFLZ0lUZmVFSFp6bFEyWl9HdEUtMS1GYjF2bG10LVFJSXY4VERlNm0zZVg4eXkzcmQxUm5UY0E?oc=5",
-      "pub_date": 1790946928.0,
-      "article_url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
+      "headline": "AI Agents Aim to Change Shopping. Some Retailers Are Locking the Doors.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1hYWC1UbWx5b2wtdnAtOE9ZS25TLVNaWUFUdElpUExGMFBrbnh4cklQRTF2a3pmVjdfemFRTkM5dzZvRzVwX0w2WGd4dmZLZnlVaVhOYnUtVVljc21ZT0JkUFVhWVpKRGZvS1JZRHM2VGo2YTRnYW9RVkg2U3dGb3U4bnlDRWtvZ05PTExXcjNMS2d0M3ZVbjhlemZENXNmVHloVjZBT1k0WndS?oc=5",
+      "pub_date": 1790935200.0,
+      "article_url": "https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4",
       "image": null,
       "description": null
     },
     {
-      "headline": "The volunteer internet sleuths hunting down rogue AI agents",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnpmM01BazRXczlXVUZaVUhCckpMa3RuMnVJMkJRME1WWU0yRW5YMktvTU02UWJCazB3V2lYeENBSnJBR0t3UWVxbjFnN2JOVVQ2N3BwVV9UelBxenFyUDFPZVA3S3BUR0xBVWVmaElOenprUlBZb1JtaHFwMnlNd0lQbEJUb2hDMnZUdTZzNlJfOEZEZVVYOHM0N0FpX2RybWVUcmxJa1RWb2pvZDBfbzYwVnoyRDRNZlI5NXN4X0ctVjg?oc=5",
-      "pub_date": 1790955444.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BH56WJ7TUQ3OHJDQM6HDKPG3JY_size-normalized.JPG&w=1440",
-      "description": "An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites."
+      "headline": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWdpcHY3TXVWN1hVNlg2SVIzaVV6ME5tRnh6dS1LU0pUU0J6Z2k1UkNLSDktVzFvWTVIM0lwQ1FNRTR2VzViZ1dLWk5YdUlTWWQ4YWpSdWItN2pRR3R3dHlPbkpZVWZOMUlYZVNUaXI3XzI1bVpsUndMMTRPN1ZndndaT2FDenI0Wm8yRXhVYlhfdTBTVFM4YzZGcUpDWnZEZi11S3VmZHlLRGViOVpQczJaT05kRG0xSXExbV9SVFhpQQ?oc=5",
+      "pub_date": 1790964687.0,
+      "article_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+      "description": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier."
     },
     {
-      "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
-      "pub_date": 1790893590.0,
-      "article_url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
+      "headline": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEpCUDhoOXZGM2Rpc2tIdHZTMWNBTW1lSjJScno2dmhVMjhseXdNbFV0NlNmSUN0blRoUE5YamtKUkpmN1NWaXFRazkwWUhOckE3Y1lTRllPZUhmZ3R2a3lUeVNLTmRfRzVIQmZOb2VhQl9ITXdVcUdoc2xPZlJENA?oc=5",
+      "pub_date": 1790971720.0,
+      "article_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Apple isn\u2019t taking AI security risks lightly."
+    },
+    {
+      "headline": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMi16cTNZMjkxTF9idnl4aWhCSFExUG1uRm9INEJQT2JVM3h0bGRJUk9NaUtWRl9ZMHBmTl9QOE55OTN4NzRGNXd3dUJEbzA5UThHTXg2X2Z5aTE1UXN6QjdCUkN5VWdWQlpIeG1FV01lcUljU0lzYUdmUFUybWJMV0VaTUh0SndaOXdV?oc=5",
+      "pub_date": 1790900100.0,
+      "article_url": "https://apnews.com/article/arizona-ai-video-victim-cd1ca553c7fa80c6698d7f97b51b1edd",
       "image": null,
       "description": null
     },
     {
-      "headline": "How much autonomy should a clinical AI agent have?",
-      "source": "Healthcare IT News",
-      "source_url": "https://www.healthcareitnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVMzcWFBYlItOHNEVVZZVmx6R1lrV2hLY05kbDdBTUR2N0pSVzFaQlRtblo5c0ZTcUpKbXlNa0c2U3lRYjNZRkxmem9UM01zTmJXRjBwVy1CUXAzZHl6UlZFUE1ka0FOS3VCQkFRNjJGN0hsMGhnd0xwMWc2eXo3THo0ZXY2ODBpYkx1OG1B?oc=5",
-      "pub_date": 1790956880.0,
-      "article_url": "https://www.healthcareitnews.com/news/how-much-autonomy-should-clinical-ai-agent-have",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Change.com leans into AI with $100 million investment",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xM2taTVlVbm9kYkJzY2RkMVBJdHVfZWxodEZHbFR2eURvdWRUU2ZJTktTUHMzc013SjA3QWlTUldqQWpJQnprcTN6NlRRMDZvUWRaVW9obUx2OXhVUW9GTW9GdzlBZjRP?oc=5",
-      "pub_date": 1790955830.0,
-      "article_url": "https://www.axios.com/2026/10/02/changeorg-ai-100-million",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump expected to tap DNI Jay Clayton for AI czar",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9adzBNQm9UZXllb08wWURqVzhua0V2b3pIekoxMEFxNXFfbExnTldUcmlnSFRiTllKWTRtc1FVcjRUX3A3RjUwSXpyVG5wQTItYWlyZ243U0VNd3loVkZLbmp5SEVWSW9nU2xpRHhXNHJZZVYz?oc=5",
-      "pub_date": 1790954095.0,
-      "article_url": "https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump is expected to name Jay Clayton as AI czar",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqOURyempOZDNNNkFNWlVESFZBOWxNTHpqV3dzVURhaTFCbHlyMmZuQWVTaDVXZ3J6VEFmYUM1dzU3VXBfb25HanZpYmxEcmhDNjJtbEg1bWQzZ3p3NlBiWWZNaTAyanVnZVRTc0xZdkxybHJZbExHOE5qVQ?oc=5",
-      "pub_date": 1790948441.0,
-      "article_url": "https://www.cnn.com/2026/10/02/politics/jay-clayton-white-house-ai-czar",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285609634.jpg?c=16x9&q=w_800,c_fill",
-      "description": "President Donald Trump is expected to pick Jay Clayton to be the White House\u2019s new czar of artificial intelligence, two sources familiar with the discussion told CNN."
+      "headline": "Trump likely to pick Jay Clayton for AI czar, sources say",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15RnVWdmszU0I4c3VVYzROSTQ2bEpoZ3RpRlBPTkZ3UUVMaDNpRUctOU9rTVNDUXNzT2l4b0xMdXlZRDdOM2lHTEJUaTBCUzdkdl9TSlMyMEVEZmRLTnl6NTJhZTFqT3NtYV9KNWotVTQ2X2VDUndIYlp3ZHBKZVk?oc=5",
+      "pub_date": 1790903220.0,
+      "article_url": "https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg",
+      "description": "Jay Clayton will likely be the White House's pick for AI czar, and the Trump administration has been discussing having him remain in his current role as director of national intelligence, according to sources briefed on the matter."
     },
     {
       "headline": "Trump to Name Jay Clayton to Serve as A.I. Czar",
@@ -85,26 +65,46 @@
       "description": null
     },
     {
-      "headline": "FBI nabs US tech exec accused of smuggling $300M in AI chips to China",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwTFNvZUUzTWZqUXdmR0MxdVptTjVCeXJZcTAzVV9NUFp1cFo3dExsN3VxTkJ2U2V3RXluU3VmcHR3SHNsY3N4S1lGMjdKV2J2RXBTeV9B?oc=5",
-      "pub_date": 1790955228.0,
-      "article_url": "https://www.foxnews.com/video/6406122092112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c990920-2f67-45f1-a877-01822a73ba93/c2355cfa-e285-4146-b577-dbc5897e0883/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "A California tech executive is in federal custody, accused of smuggling over $300 million worth of sensitive AI processors to China. Cameras were rolling as federal surrounded 38-year-old Greg Lui as he arrived at Earthmade Computers in San Gabriel."
+      "headline": "Who Was Missing From The White House\u2019s AI Power Summit? Women",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWJla3RLOXpmeVM5WC14djVLY0xXZmt2Q3ZNSEpJTXZwcjRyVWtHdDBYeF9aVGVnYk9xRHlxRURTS0VrQVYyd3VVdnAwY1o2X1hXbDMyREtaWkhBNENmV2FJTXMzY0JSUm9aZWc5R3dXT0hhLVBPZktwWWJZbVpMSUt5RFZCR2J4enBUcldyNENKRnV1QWJqY2F3SVJ3eWJ0b3g3ZjFHb09Wb1Q0TGFhZXZB?oc=5",
+      "pub_date": 1790970026.0,
+      "article_url": "https://www.forbes.com/sites/kimelsesser/2026/10/02/who-was-missing-from-the-white-houses-ai-power-summit-women/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Mike Rowe warns US workforce facing \u2018problem of the decade\u2019",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkxLd09CbUJZTUVOTWQ3aVVmcHRHbmdJVlcwRHpsN3lUbG0zUjVuYTFHUktudmZuX3VIeXlfdDJ6TldObjgza1BvTkhaRm15ZnFyY19VMmcxVnFqLVVqZmViZmtPa1BXbm93bllkbFVqY3hHb0NWY1N1WGN0d3F2aDRMR19ZNzlsNm5ZetIBkgFBVV95cUxNWDNZalVsLTFDNV9VX3JiX05JRU1TdHRCTmNCTkM3WVZDWjZ2Qlg1RC11VmtWc25JSG9wcTZSSlpiUzY4SktSM0lZdVlUX0tmTEZaUldzakhuazNlTGhYekFKNGI4bkd4TEt1ODVCWVF2YmpQbUVmT2V6VDE2SU1KZUlRV1E3anFNajRMQURaRG9PZw?oc=5",
-      "pub_date": 1790852220.0,
-      "article_url": "https://www.foxbusiness.com/media/mike-rowe-warns-us-workforce-facing-problem-decade",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/mike-rowe.png?ve=1&tl=1",
-      "description": "Mike Rowe says CEOs are \"freaking out\" over the skilled labor shortage, calling the workforce crisis the \"problem of the decade\" with no easy fix."
+      "headline": "SPCX Stock Climbs As Three Thursday Launches Meet Start Of Google\u2019s $920 Million AI Pact",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0YzRl9SbDgyWFFrWHpGZEk1RTFWY1lsZmt2U0Jmc3ZaUVVnUHdVQzN2b3VmVmZrN0pzLVNpQkwyQVNreUVYc00zNzBhTW12b0RTdk1XSHY3SnREMGtXNTA5NzkyckpFeE1fSEZHVkFEQzB5VEgwZFdsdkMyMjJYQnFRbkxNY0lkaHhBM0lmcXBjb3hZa01TSDZSYUpIdw?oc=5",
+      "pub_date": 1790971358.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-climbs-three-thursday-200238930.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a14f6f4a5d206ffdbc04ad297bcd9c10ffe0f74249d60a9d485f69973c562b96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F69cdd4a186a4af341f77bf26fecf22bd.jpg",
+      "description": "Over roughly 13 hours starting Thursday, SpaceX flew three missions: NASA\u2019s Crew-13, Transporter-18, and NROL-97."
+    },
+    {
+      "headline": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5",
+      "pub_date": 1790931823.0,
+      "article_url": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Agents Got Cash to Trade Stocks. Here\u2019s What They Bought and Sold\u2014Repeatedly.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRENKMEhaeHRrd0RNVXdCT3d6Qlhwb3RqTmdwbndjaVdBU1NNWVl4RWFmY05BNUVEWUhTMHA1SzBCOXJUMTF1NFR1U2RzVVhVai15eDI0eEVaSWZkaHBtT1ItZElHQU96b3Y2Q1J6RGw4dlRuNUZHOVFLNkJja1NfeFZEc21pUQ?oc=5",
+      "pub_date": 1790967900.0,
+      "article_url": "https://www.barrons.com/articles/ai-agents-stock-trades-chatgpt-claude-25fcc8c2",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T16:31:41.197092+00:00"
+  "fetched_at": "2026-10-02T21:11:43.638056+00:00"
 }
