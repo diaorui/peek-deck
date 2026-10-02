@@ -5,14 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "A Faraday Future robot drew the most attention at a robotics conference",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzlKZThKMXREZGZVTmNwLVpURFlZTzluRlZVbEJGNFJYRWVtdC1ieFg4ZEN5LWthbjlBT0ZfVmNkOUkwaDkteVFOS1A2SXBGZUg2NlJic0hpbzg2WWlhcEswLVhva3BNU296UzhQTzdwekRZejc1RXNNNWU4QU1uWFhKVXoyTHQ5SmpVcmVnOFE1ZXFvQWF5U2d6TDUwUldSbnktZzhSU3NaUzd2UU9SSWo2cDZPeGF4YWl5YndiYUQ?oc=5",
-      "pub_date": 1790929674.0,
-      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-ww9129av9p2e.html",
-      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Showcases_its_EAI_Robotics_World_2_0_at_IROS_2026_Its_Four_Core_Full_Stack_AI_Ecosys_1511755.webp",
-      "description": "A non-binding term sheet contemplates combining FFAI\u2019s robotics assets and businesses into AIxC at an estimated market valuation of about $200 million."
+      "headline": "Can we predict the jobs robots will do?",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "pub_date": 1790784060.0,
+      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
+    },
+    {
+      "headline": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBBQm5sQjBYemM0OUMzWjNNZVVYbnhVcGhDQll6OE40Q0pWMUFhMGQ5dVczdk9JZzktcUxXYzJHQVI5U3dZbktaSHNkYVp6MkNJVGRrc2J3WlNoaGlnOG1NVl93ZmgzN2ZUU0RxTFpWVkFpa2U3RE45TXpUZy11OHo5aE5ZUW5IdnY1b21jZ3g4cEh6NmRZbw?oc=5",
+      "pub_date": 1790939400.0,
+      "article_url": "https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888227%2Fgettyimages-2233368716-1.jpg&w=1200&op=resize",
+      "description": "Here are three robotics stocks that could turn the automation boom into real business growth."
+    },
+    {
+      "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmd2X2o5Zm1mX3FVRk01MnJ5ektkd3pEQjFZeE1HUUtRZ0YwaG9OczRtOUlWSEpSSEJZYXJvWHZrTDdhTURGWXR1M01yaU9IRHVVaWstX01pZS1GVVBWVGhneDJnMEpEeHRibzNuNjE4NUxDODRsQWhwdm04NFcxWVdaUDlZRWhmbE9BUGx1VVd5UmR2Qk1BWQ?oc=5",
+      "pub_date": 1790838009.0,
+      "article_url": "https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "In Robotics, Google Goes Android to Tesla\u2019s Apple",
@@ -25,74 +45,24 @@
       "description": "While interviewing Google\u2019s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ..."
     },
     {
-      "headline": "Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVBtWnVfb25LNm5kd21MUUxLR2JOblV6Y2lVUjBZUm14eG5Xb20wTzA5VDByZGdiVXNnaVlzaS05bk1zQWhNUURkVDZ4TjhEX1hyb25acUNRTFd1WHJxTzZJWHNVdUFjMi1iTHV3ZWtJVU5XXzBmbmRjYkdLQVVZVlY0b0VPLXFGSElmZGlTcXY1TUFXTDh0RA?oc=5",
-      "pub_date": 1790878920.0,
-      "article_url": "https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888977%2Ftesla-cybercab.jpg&w=1200&op=resize",
-      "description": "Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect."
-    },
-    {
-      "headline": "How Atlas\u2019 Four Finger Robot Hand Gets Superhuman Grip and Control",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Q1packtQcnp5cGxORkFDVGRSb3hmQlZIcVVueVhkLWR1RjZaUWs1YkJiZG8wTC1zcklkd0h2dTdiRzZ2bVZWSHZab05taExXbUx3dW9B?oc=5",
-      "pub_date": 1790751600.0,
-      "article_url": "https://spectrum.ieee.org/robust-robot-hand",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-robotic-hand-with-three-fingers-and-a-thumb-making-a-gesture-similar-to-the-sign-of-the-horns.jpg?id=67879402&width=1200&height=600&coordinates=0%2C173%2C0%2C660",
-      "description": "Making a hand that\u2019s capable, reliable, and manufacturable is a very hard problem"
-    },
-    {
-      "headline": "Robotics manufacturer names new CEO amid West Michigan expansion",
-      "source": "MLive.com",
-      "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRndueDVDNzR1cWtlSGVJcTJNYmNpeTFaRFBhbWk2bWExdmFHdDNkNlFkU3NhOEYyNEk5NVRaZ1BFdGJibjBwa2xQNzRySTY5MkdkYXVBR250dkhBRjZuZTlQdVMxQXhZVm5JanJ2WktRNlNIYWp2dXFZN0phalFXWUdiYXc0bnM0UHZnVW50ajN6cUJ4S1hLMno3OUJLeWQwV21nWVpULUxIM1NKMFZvODBXWTZjdXhK?oc=5",
-      "pub_date": 1790872320.0,
-      "article_url": "https://www.mlive.com/news/grand-rapids/2026/10/robotics-manufacturer-names-new-ceo-amid-west-michigan-expansion.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI humanoid robot company signs 50,000 square foot office lease in Cambridge",
-      "source": "The Boston Globe",
-      "source_url": "https://www.bostonglobe.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT2FlRng1bmtXOVA3b0RyclhHVzFWanBWazJEQnlaRzQ1YW9aZGg4cy1WT0pxOWpBMENRZzJsZGV3U1RtZDNNcjFKRFlUejJ0eHhPWkdnM29VUlVySmFkUXN3c0o2U19LaXE2X1d5LWtQRmRIblNxQXVhTm1udkhyQ0x4WQ?oc=5",
-      "pub_date": 1790871420.0,
-      "article_url": "https://www.bostonglobe.com/2026/10/01/business/walden-robotics-ai-cambridge/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/PBXJYPS4VIILKKJNIX6OJHQ22E.jpg?auth=0a9e88952a6b10b64edf18d65ed7e59c60e92612de229c1bd8cf5c8e8ab70998&width=1440",
-      "description": "Walden Robotics launched earlier this year with a $300 million investment, one of the Boston area\u2019s biggest deals."
-    },
-    {
-      "headline": "Top 10 robotics stories of September 2026",
-      "source": "therobotreport.com",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GNlZuX0d5bWo3SzdxM0hOUzZHcGFZWTdmM0h1a3d2YTJXWWRMRXAyZkJPWHpGNkIyMGxHYXlUWXIzWk15WjNyWVhpQ1NzWDlSLWpQeXBybHc1TU9KS0pMdFVkOGNxTi15NVVCeVN0WUFsVkN2bmliSkxmUm9yUQ?oc=5",
-      "pub_date": 1790887593.0,
-      "article_url": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/trrtop10-sept26-featured.jpg",
-      "description": "In September 2026, live events, like IMTS, ROSCon, iROS, and more, brought a flood of robotics developments."
-    },
-    {
-      "headline": "Grant program helps students develop robotics skills",
-      "source": "Channel 3000",
-      "source_url": "https://www.channel3000.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVdyTkgzWElTb2RCNGZUNWE3MmpZdWpzSU9IZ0ZKV05PWXhxOTZhUkExc0doMDEwUmdzdm1yUWxEcGxHaG5JZTVOMlhrWW41WmhWbGdnUjcyX2d6V1RRcmRKdnlieTZWaXFkRl9OcHlqSzJ6eW1nR2ZCRTVpMElMOFo3Y1REdW10RmwxMXZxNENtZTlCRHZvRmwzYUJfd00xUk9oaFg5LURJU3JzM2NYb1JpRENDdE0taDNFbzBIMllPY09NaFZYamtIcFpkZ1U?oc=5",
-      "pub_date": 1790892840.0,
-      "article_url": "https://www.channel3000.com/video/grant-program-helps-students-develop-robotics-skills/video_554b67bc-3dcf-51d5-ac33-488b0999773c.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/5/54/554b67bc-3dcf-51d5-ac33-488b0999773c/6abedbae49cff.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-      "description": null
-    },
-    {
-      "headline": "Can we predict the jobs robots will do?",
-      "source": "anthropic.com",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "headline": "NASA wants to send humanoid robots to the moon",
+      "source": "Popular Science",
+      "source_url": "https://www.popsci.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ENm1zbXI1ZGlMVWdmWEZiQTJwM2piT0NuWjJoYkpDZlVIOFdfNGJSUEFsT1h2ZEJIU2gwSUJDOTNlMHdxcjJVUGVWNHhabEF1cktFV1FucHQ5blhjTThtSGh3dDJBVWhP?oc=5",
       "pub_date": 1790784060.0,
-      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
+      "article_url": "https://www.popsci.com/science/nasa-humanoid-robots-moon/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/09/NASA-Biped-Robot.png?quality=85&w=1200",
+      "description": "Don't worry. Actual astronauts aren't out of a job."
+    },
+    {
+      "headline": "Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities",
+      "source": "U.S. Department of War (.gov)",
+      "source_url": "https://www.war.gov",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjN3U05LMkpVQjVTU0lyWTgwRDRjbUg3MWhDcmdWRlotVXlKdW5YLTFCMmhKc250dHhBQ0VCTFM2bHlmTktmVlgxd3VfVWVfQXpnTXd4Z2REREhXVXRFaTdIU3N3anU2eFBkTDlzTGNadk1kc21kX1V6bGxHS20xN2hVX3FhOHM1WUozbUFQVGpFTVV4Vnc2am15Q2tzYXF5WG45R3NpYkpiVWFBWEZxeVVyUHdUQU1zenlCOVR0M3c3R3F5MzI5VlBJQkJvYXVaM2FkaWVJdzVYQQ?oc=5",
+      "pub_date": 1790708536.0,
+      "article_url": "https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/",
+      "image": "https://media.defense.gov/2026/Sep/29/2004008445/1280/1280/0/260909-M-WB553-1040.JPG",
+      "description": "The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations."
     },
     {
       "headline": "Anthropic study suggests blue-collar workers have decades before robots take their jobs",
@@ -103,8 +73,38 @@
       "article_url": "https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html",
       "image": "https://s.yimg.com/lo/mysterio/api/a5d8f15f4de325cb6d4a4f8b33c012173f49ecd270ca56dfbff97695ff5ed0dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc8a33064-8369-4d93-abf0-863093dcf733",
       "description": "Robots can already handle most physical tasks involved in American jobs \u2014 but mostly in controlled settings, and at a cost too high to replace human workers."
+    },
+    {
+      "headline": "Robotics startup FieldAI closes new funding round at $10 billion valuation",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
+      "pub_date": 1790955607.0,
+      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
+      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
+    },
+    {
+      "headline": "A Faraday Future robot drew the most attention at a robotics conference",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzlKZThKMXREZGZVTmNwLVpURFlZTzluRlZVbEJGNFJYRWVtdC1ieFg4ZEN5LWthbjlBT0ZfVmNkOUkwaDkteVFOS1A2SXBGZUg2NlJic0hpbzg2WWlhcEswLVhva3BNU296UzhQTzdwekRZejc1RXNNNWU4QU1uWFhKVXoyTHQ5SmpVcmVnOFE1ZXFvQWF5U2d6TDUwUldSbnktZzhSU3NaUzd2UU9SSWo2cDZPeGF4YWl5YndiYUQ?oc=5",
+      "pub_date": 1790929674.0,
+      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-ww9129av9p2e.html",
+      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Showcases_its_EAI_Robotics_World_2_0_at_IROS_2026_Its_Four_Core_Full_Stack_AI_Ecosys_1511755.webp",
+      "description": "A non-binding term sheet contemplates combining FFAI\u2019s robotics assets and businesses into AIxC at an estimated market valuation of about $200 million."
+    },
+    {
+      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
+      "pub_date": 1790694988.0,
+      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T10:40:09.314963+00:00"
+  "fetched_at": "2026-10-02T16:31:31.120983+00:00"
 }
