@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-03T06:05:25.966791+00:00'
+updated: '2026-10-03T11:54:21.961585+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 03, 2026 at 06:05 UTC  
+**Last Updated:** October 03, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,15 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
 
-Mashable • 11h ago
-
----
-
-**[Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration](https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel)**
-
-A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel.
-
-Futurism • 15h ago
+Mashable • 16h ago
 
 ---
 
@@ -132,7 +124,15 @@ Futurism • 15h ago
 
 The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose
 
-The Independent • 13h ago
+The Independent • 19h ago
+
+---
+
+**[Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration](https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel)**
+
+A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel.
+
+Futurism • 21h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Independent • 13h ago
 
 The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
 
-Business Insider • 14h ago
+Business Insider • 20h ago
 
 ---
 
@@ -148,19 +148,7 @@ Business Insider • 14h ago
 
 What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-Anthropic • 2d ago
-
----
-
-**[NASA’s dexterous humanoid robots built to assist humans on the Moon](https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/)**
-
-NewsNation • 23h ago
-
----
-
-**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
-
-The New York Times • 1d ago
+anthropic.com • 2d ago
 
 ---
 
@@ -168,21 +156,33 @@ The New York Times • 1d ago
 
 Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 19h ago
+
+---
+
+**[Micron sees future opportunities in humanoid robots, self-driving cars](https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html)**
+
+Micron says physical AI could drive "significant" demand for memory chips by the end of the decade.
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[NASA’s dexterous humanoid robots built to assist humans on the Moon](https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/)**
+
+newsnationnow.com • 1d ago
 
 ---
 
 **[The U.S. can’t find enough of this critical machine component to win the humanoid-robots race](https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571)**
 
-MarketWatch • 12h ago
-
----
-
-**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
-
-Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
-
-Yahoo Finance • 1d ago
+MarketWatch • 18h ago
 
 ---
 
@@ -190,33 +190,63 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
+
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
+
+📺 Innovation Core
+
+👁️ 221K • 👍 1K • 💬 145 • ⏱️ 21:02 • 4d ago
+
+---
+
 **[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
 
 Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
 
 📺 ejunky66
 
-👁️ 138K • 👍 2K • 💬 129 • ⏱️ 1:00 • 20h ago
+👁️ 214K • 👍 4K • 💬 193 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
 
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
 
-📺 AI Revolution
+📺 The Geo Network
 
-👁️ 11K • 👍 317 • 💬 33 • ⏱️ 13:23 • 7h ago
+👁️ 173K • 👍 2K • 💬 129 • ⏱️ 20:27 • 3d ago
 
 ---
 
-**[Shakira Danced the Robot With an Actual Robot, and Fans Saw Barbie and Ken #Shakira](https://www.youtube.com/watch?v=H9xB5ENvYcY)**
+**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
 
-After Shakira danced the robot alongside an actual robot, many fans joked that the scene was the perfect real-life version of ...
+The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
 
-📺 ToonsFan
+📺 Future Files
 
-👁️ 309K • 👍 3K • 💬 10 • ⏱️ 0:05 • 1d ago
+👁️ 1.0M • 👍 6K • 💬 202 • ⏱️ 24:25 • 6d ago
+
+---
+
+**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
+
+Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
+
+📺 Fist To Face
+
+👁️ 7K • 👍 94 • 💬 5 • ⏱️ 0:11 • 7h ago
+
+---
+
+**[This Robot Fighter Has a Human Pilot #Shorts](https://www.youtube.com/watch?v=8sNUbyz9xEE)**
+
+This robot fights a human—but a human pilot is controlling the robot. REK development partner Reflex Arc says the robots are ...
+
+📺 OddlyUsefulDude
+
+👁️ 3K • 👍 50 • 💬 1 • ⏱️ 0:44 • 12h ago
 
 ---
 
@@ -226,67 +256,37 @@ Why will Boston Dynamics win the humanoid robotics race? We've already commercia
 
 📺 Boston Dynamics
 
-👁️ 700K • 👍 8K • 💬 996 • ⏱️ 5:49 • 2d ago
+👁️ 710K • 👍 8K • 💬 998 • ⏱️ 5:49 • 3d ago
 
 ---
 
-**[Could humanoid robot soldiers be on the horizon?](https://www.youtube.com/watch?v=1osaik87wH4)**
+**[Robot-Use Agents: Why General-Purpose Models May Win in Robotics](https://www.youtube.com/watch?v=Jv5B5CEaPJI)**
 
-Meet Phantom, the robot Foundation Future Industries says could be one of the first humanoid robot soldiers. The Eric ...
+One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software.
 
-📺 NBC News
+📺 Y Combinator
 
-👁️ 55K • 👍 323 • 💬 252 • ⏱️ 12:24 • 1d ago
-
----
-
-**[Unitree G1 kicked a Hopcopter out of it&#39;s path.](https://www.youtube.com/watch?v=za_d8V6PY3E)**
-
-During a recent demonstration at IROS 2026, a Unitree Robotics G1 humanoid robot encountered a Hopcopter in its path. Rather ...
-
-📺 Cybernews
-
-👁️ 240K • 👍 778 • 💬 21 • ⏱️ 0:07 • 1d ago
+👁️ 67K • 👍 472 • 💬 14 • ⏱️ 29:49 • 6d ago
 
 ---
 
-**[Why Did This AI Robot Jump Into Liquid Metal? 🤔](https://www.youtube.com/watch?v=OS6KKKgtw_c)**
+**[These New Female Robots Just Unlocked NEW ABILITIES](https://www.youtube.com/watch?v=Lne4k8uPUuI)**
 
-Original video credit: IG/@lincoln_robotics_space. The video captures the final autonomous jump of the Figure 02 humanoid robot ...
+Something shifted this year. The demos stopped being about walking without falling over. Now it's fine motor control, reading a ...
 
-📺 History Seeker
+📺 AI Exposed
 
-👁️ 242K • 👍 1K • 💬 97 • ⏱️ 0:08 • 5h ago
-
----
-
-**[What Can a Robot See Inside a Pipeline?  #inspectionrobot #robotics #cctv](https://www.youtube.com/watch?v=1oGsFQLv64k)**
-
-This CCTV pipeline inspection robot provides real-time HD video while operating inside the pipe, with inspection recording and ...
-
-📺 DANNABO | Special Robots
-
-👁️ 41K • 👍 144 • ⏱️ 0:08 • 2d ago
+👁️ 56K • 👍 353 • 💬 27 • ⏱️ 16:27 • 6d ago
 
 ---
 
-**[Joe Rogan &amp; Elon Musk Predict When Human-Like Robots Are Coming 🤖😳](https://www.youtube.com/watch?v=TxIEq_ZQlbM)**
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
 
-Joe Rogan and Elon Musk dive into one of the wildest questions about the future of AI and robotics How long until we have a ...
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
 
-📺 Clip Storm
+📺 Canada 2050
 
-👁️ 216K • 👍 3K • 💬 413 • ⏱️ 0:13 • 2d ago
-
----
-
-**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
-
-Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
-
-📺 Hyundai Motor Group
-
-👁️ 511K • 👍 70 • 💬 4 • ⏱️ 5:49 • 2d ago
+👁️ 30K • 👍 752 • 💬 23 • ⏱️ 18:22 • 2d ago
 
 ---
 
