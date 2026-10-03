@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-03T15:50:06.134760+00:00",
+  "data": {
+    "url": "https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/",
+    "title": "The Double-Spend Problem in Identity",
+    "description": "A rotating public-key identity has a hidden double-spend problem. Signatures can prove that a key authorized a transition, but without a trusted order or finality mechanism they cannot tell a new peer which of several valid histories is canonical. This matters most for organizations, where former stakeholders retain historical authority by default.",
+    "image": "https://jthor.eth.link/_files/.artifacts/ensAvatar.png",
+    "favicon": "https://jthor.eth.link/_files/.artifacts/ensAvatar.png",
+    "site_name": "jthor.eth",
+    "author": null,
+    "keywords": null
+  }
+}
