@@ -5,6 +5,26 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Can we predict the jobs robots will do?",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "pub_date": 1790784060.0,
+      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
+    },
+    {
+      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
+      "pub_date": 1790955540.0,
+      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
+      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
+    },
+    {
       "headline": "Watch these defunct humanoid robots go full Terminator and dive into molten steel",
       "source": "Mashable",
       "source_url": "https://mashable.com",
@@ -35,24 +55,14 @@
       "description": "A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel."
     },
     {
-      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
-      "pub_date": 1790955540.0,
-      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
-      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
-    },
-    {
-      "headline": "Can we predict the jobs robots will do?",
-      "source": "anthropic.com",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
-      "pub_date": 1790784060.0,
-      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
+      "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the Moon",
+      "source": "NewsNation",
+      "source_url": "https://www.newsnationnow.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG56OU93amJ5SHNZYi1qaXNYWV90MFM0R0Z6dXdLNzg4eEpMNzAxZDZjUU1kRjgyc1hjSlNFUzZqSVA0WDljTWZhcnRqd1BjenNqMzZ0ZG1BWlRJcHRLTDVGYTktSVc5dGtaNXNHY1Y5QTh6eTYyY3FScjRiaFFKLUtrOU5GdG1Qby0yd9IBkgFBVV95cUxOSkhGcHNHSDI2Tm9KVUJRdXZXN2dheE52QnRpQ1Z6TWpqUzh5TlNkdzVxcG5PQnhqMjZvSU1MSXpPLTlLMDhkVzdVUHpwME8xTXFKdTl4bVJDcXdjeHJjYno1XzdNbE1NeDBkRS1TUE1FMWZ4RWlDUmhKNnBiWmszdHY2WEdLM0ozck1TdkVpUnlwUQ?oc=5",
+      "pub_date": 1790934435.0,
+      "article_url": "https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
@@ -65,16 +75,6 @@
       "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
     },
     {
-      "headline": "Micron sees future opportunities in humanoid robots, self-driving cars",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDVEM3VfZFg5NktXM2hhV1lyVFRRQVZHSWNDLUE4X29ESVZxUEhpRXQyNTBidExNdE9LRWdaalptOWtzaTEzRERJd0trX2NNNzVCZV9oV0hHVnNvbWgxanhROWIwVEw5dkRQM1FyMktxQ3Q2aU9VY3ZoMG5fbzBVQXFHRU9ZYm1JWWxPOTAtQzRsR2E0NjM0cm1KWjNHZDZSTTRoU2pKb3hnN0lZRkFpZExURDRWQlREeC1yTTNTLTFfM2FEN1lKSw?oc=5",
-      "pub_date": 1790964904.0,
-      "article_url": "https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a58035d5eca2ab0b3d01f079c8daac11913f3a0cf337d40424d28e31b586cc25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F1e4174d0-63d7-4d20-8933-d7a74c46331a",
-      "description": "Micron says physical AI could drive \"significant\" demand for memory chips by the end of the decade."
-    },
-    {
       "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -85,26 +85,26 @@
       "description": null
     },
     {
-      "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the Moon",
-      "source": "newsnationnow.com",
-      "source_url": "https://www.newsnationnow.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG56OU93amJ5SHNZYi1qaXNYWV90MFM0R0Z6dXdLNzg4eEpMNzAxZDZjUU1kRjgyc1hjSlNFUzZqSVA0WDljTWZhcnRqd1BjenNqMzZ0ZG1BWlRJcHRLTDVGYTktSVc5dGtaNXNHY1Y5QTh6eTYyY3FScjRiaFFKLUtrOU5GdG1Qby0yd9IBkgFBVV95cUxOSkhGcHNHSDI2Tm9KVUJRdXZXN2dheE52QnRpQ1Z6TWpqUzh5TlNkdzVxcG5PQnhqMjZvSU1MSXpPLTlLMDhkVzdVUHpwME8xTXFKdTl4bVJDcXdjeHJjYno1XzdNbE1NeDBkRS1TUE1FMWZ4RWlDUmhKNnBiWmszdHY2WEdLM0ozck1TdkVpUnlwUQ?oc=5",
-      "pub_date": 1790923774.0,
-      "article_url": "https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/",
-      "image": null,
-      "description": null
+      "headline": "Micron sees future opportunities in humanoid robots, self-driving cars",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDVEM3VfZFg5NktXM2hhV1lyVFRRQVZHSWNDLUE4X29ESVZxUEhpRXQyNTBidExNdE9LRWdaalptOWtzaTEzRERJd0trX2NNNzVCZV9oV0hHVnNvbWgxanhROWIwVEw5dkRQM1FyMktxQ3Q2aU9VY3ZoMG5fbzBVQXFHRU9ZYm1JWWxPOTAtQzRsR2E0NjM0cm1KWjNHZDZSTTRoU2pKb3hnN0lZRkFpZExURDRWQlREeC1yTTNTLTFfM2FEN1lKSw?oc=5",
+      "pub_date": 1790964904.0,
+      "article_url": "https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a58035d5eca2ab0b3d01f079c8daac11913f3a0cf337d40424d28e31b586cc25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F1e4174d0-63d7-4d20-8933-d7a74c46331a",
+      "description": "Micron says physical AI could drive \"significant\" demand for memory chips by the end of the decade."
     },
     {
-      "headline": "The U.S. can\u2019t find enough of this critical machine component to win the humanoid-robots race",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVTdocUJIV0pubEtENWk5VlhmdnlIaEhEVV9tZy0zSkpyS0s4dXpTSnJObk1vWktyQmhKOGZNMHBXWFBzNlFac19yNnBvOEdDcTUwdGQyYk5pQjRXUDV2bFJZblBvN242dlQxOF9NWVNydS15RlZWN2JfREFZNXdjdnAySW4tY1I3bldpV3g5WF93eGVUcmdpQmQ3cjRuU2pxSGtOMXBrSU1EQ25rT3JWY1pCc2ZYVWNmY0JsN2plTWUtNGVjUGp1cnVCcWlmQjZaYW85ckRB?oc=5",
-      "pub_date": 1790962140.0,
-      "article_url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571",
-      "image": null,
-      "description": null
+      "headline": "The little humanoid robots that could (BOTZ:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN1JTNDJPWHg4bkJTVk1aNnV2TG9NT1ZvcE9YeHBOOXY4dDlDMzlMN2VkSEJYVjZJd3l4Vl9fcmxtREc3R2JaUmJzQlFaLVdqWVFiakEtMF9lZk5BX09SbFhoMlZxUUkzbEp2cFRLMXpJWUNCc0VJREZtdHJnZjRZWA?oc=5",
+      "pub_date": 1791025247.0,
+      "article_url": "https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241360431/image_2241360431.jpg?io=getty-c-w630",
+      "description": "Humanoid robot investing thesis shift: most \u201cshipments\u201d are half-size Chinese robots, not full-size labor bots."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T11:54:20.322865+00:00"
+  "fetched_at": "2026-10-03T15:50:19.105819+00:00"
 }

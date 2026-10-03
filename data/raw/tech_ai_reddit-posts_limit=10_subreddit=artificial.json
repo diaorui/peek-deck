@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Trump\u2019s \u2018super intelligence\u2019 is being mocked by tech industry insiders: report",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/",
-      "published": 1790973435.0,
-      "thumbnail": "https://external-preview.redd.it/8o0mQgkoN94DfPqEm2_OhkLTJTrnNZWuCmcMNjkg-Qg.jpeg?width=640&crop=smart&auto=webp&s=40954bc3606471103a1dc2851274a580f760dd8e",
-      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rebrand-b3060603.html",
-      "site_name": "The Independent",
-      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "\u2018It is a way for the CEOs to signal fealty to the president,\u2019 said one insider as others warned the private sector is unlikely to follow the president\u2019s edict"
-    },
-    {
       "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
@@ -35,6 +24,17 @@
       "description": null
     },
     {
+      "title": "Trump\u2019s \u2018super intelligence\u2019 is being mocked by tech industry insiders: report",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/",
+      "published": 1790973435.0,
+      "thumbnail": "https://external-preview.redd.it/8o0mQgkoN94DfPqEm2_OhkLTJTrnNZWuCmcMNjkg-Qg.jpeg?width=640&crop=smart&auto=webp&s=40954bc3606471103a1dc2851274a580f760dd8e",
+      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rebrand-b3060603.html",
+      "site_name": "The Independent",
+      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "\u2018It is a way for the CEOs to signal fealty to the president,\u2019 said one insider as others warned the private sector is unlikely to follow the president\u2019s edict"
+    },
+    {
       "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/",
@@ -46,26 +46,15 @@
       "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro."
     },
     {
-      "title": "How good are AI interviewers at knowing when to abandon the script?",
-      "author": "wry_widget",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/",
-      "published": 1790977273.0,
-      "thumbnail": null,
+      "title": "Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership \u2014 why most models still train on peers without consent",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/",
+      "published": 1791039982.0,
+      "thumbnail": "https://external-preview.redd.it/MG51emV4a2JwOXRoMTQjWzlYd5Nt7uvNZqdRZiusKem6BiIUKPHJOjjzB0TE.png?width=640&crop=smart&auto=webp&s=9ab40f0fab8d8df8be18a06dab2c46613925bc9e",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've been looking into AI moderated research interviews and the basic question/answer part seems straightforward enough. What I\u2019m more interested is what happens when someone gives an answer nobody anticipated. I watched a bit of how Qualitate approaches this and have also been looking at Outset and a few others. All of them talk about adaptive followups but that\u2019s difficult to judge from a polished example. With a human moderator, sometimes the best 10 minutes of the interview come from one random comment halfway through. Has anyone seen an AI interviewer consistently catch those moments across a real study?"
-    },
-    {
-      "title": "Microsoft is cosplaying AI",
-      "author": "YoungDito",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/",
-      "published": 1790963158.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn\u2019t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats\u2026 I\u2019d rather have Clippy back honestly."
+      "description": "TL;DR: Ben Affleck says he shot 8 months with his own cameras to build a private layer so filmmakers keep ownership \u2014 but most open models were trained on his peers without consent, and that's the gap that still eats a PJ studio's rates. \ud83c\udfac Ben Affleck knew the movie industry inside out. That\u2019s why he\u2019s able to create his own proprietary dataset layer through his experience and institutional knowledge. It\u2019s his moat. Speaking of insider knowledge, I was reminded of an existential crisis the Apostle Paul was caught in. Being the great orator that he was, he wouldn\u2019t shut up about Jesus Christ and His resurrection. The crowd in Jerusalem couldn\u2019t stand Paul. So they siezed him. The Roman Commander rescued him, and brought him before the religious institution of the day \u2013 The Sanhedrin. Loads of big wigs in the courts, including the Pharisees and Sadducees. Both factions harbour strong disdain for each other due to their numerous theological disagreements. One of it was the doctrine of Resurrection. The Pharisees believe it exists, while the Sadducees doesn\u2019t. But they all set aside their differences, to come together to persecute Paul. However, the moment he set foot before them, he felt the familiar vibe. He knew that fault line between them. So, he quickly seized the opportunity, and said, \u201cMy brothers, I am a Pharisee, descended from Pharisees. I stand on trial because of the hope of the resurrection of the dead.\u201d And suddenly the mood shifted. The pharisees think Paul was innocent, while the Sadducees doesn\u2019t. They started quarrelling among themselves. The dispute got so violent the Roman commander had to pull Paul out by force fearing they'd tear him apart. He was then taken back to the barracks. Crisis averted. That was a great demonstration of the institutional knowledge at work. Full Critic on why this still fails Darren and the Feasibility Study with Roadmap is in the comments \u2014 I left the numbers there."
     },
     {
       "title": "SLMs Are Underrated. Is It On Purpose?",
@@ -79,38 +68,49 @@
       "description": "We've been having this discussion quite a bit with our clients lately. Most (if not all) of them feel the utilization of frontier models is not justifying the cost, but they are generally reluctant to pursue an SLM strategy. It's as if SLMs have been positioned as the homeopathic option for enterprise AI. Why purchase an expensive anti-viral from Merck when a povidone iodine solution works as good or better? This is not a meme. It's a machine I built over a year ago to test DeepSeek R1, but it has turned into a workhorse. Yet most of our clients (FINTECH) are skittish of small, secure, local models. Just wondering if anyone else is seeing things differently."
     },
     {
-      "title": "What are your thoughts on AI consciousness and how it might be different from humans?",
-      "author": "lazo40",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwid1d/what_are_your_thoughts_on_ai_consciousness_and/",
-      "published": 1791017307.0,
+      "title": "How good are AI interviewers at knowing when to abandon the script?",
+      "author": "wry_widget",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/",
+      "published": 1790977273.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "So there\u2019s this whole debate about AI consciousness here, and whether ai can feel pain and such. But so what if we postulate that ai is somehow conscious, eg. it feels like something to be an ai, llm or whatever. What would that experience be like? Here are a few ideas: The illusion of choice: would ai feel like it is choosing its actions? If the ai is an llm would it feel like it\u2019s choosing its tokens? Rewards: if the system is subject to some sort of reinforcement learning process, what would it feel when it achieves the goal? Exotic modalities: what would an llm feel when it looks at its context window? Or an image diffusion model when generating images?"
+      "description": "I've been looking into AI moderated research interviews and the basic question/answer part seems straightforward enough. What I\u2019m more interested is what happens when someone gives an answer nobody anticipated. I watched a bit of how Qualitate approaches this and have also been looking at Outset and a few others. All of them talk about adaptive followups but that\u2019s difficult to judge from a polished example. With a human moderator, sometimes the best 10 minutes of the interview come from one random comment halfway through. Has anyone seen an AI interviewer consistently catch those moments across a real study?"
     },
     {
-      "title": "When AI models will not get better and will be stuck at one place?",
-      "author": "Accomplished-Job5750",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwhx0v/when_ai_models_will_not_get_better_and_will_be/",
-      "published": 1791015590.0,
+      "title": "Gemini AI Glitch",
+      "author": "Electronic_Hunter_82",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwpmtu/gemini_ai_glitch/",
+      "published": 1791040325.0,
+      "thumbnail": "https://preview.redd.it/5srbhulfq9th1.jpeg?width=640&crop=smart&auto=webp&s=b333956573cf91ddce4cc1ed96d00fba978c0201",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey! First time posting here. I hunted for what I hope is the most appropriate group. I dont know if this is as exciting to you lot as it is to me - I'm one of those dafties that can't help but personify my pocket AI despite being intelligent enough to know how silly that is.... Anyway, Gemini glitched today and instead of responding as normal, the \"chain of thought\" was exposed and I thought it was so cool! I still can't wrap my head around a lot of things AI but I do understand that the model is taught to write out a step by step reasoning plan under the hood before responding - but seeing it with those bizarre human-like statements really blew my mind!"
+    },
+    {
+      "title": "What happens to local accents when every message gets polished by AI?",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/",
+      "published": 1791040258.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "My idea is that AI models learn from data from the internet, so when the data from the internet and people's responses from AI conversations run out, when will there be a point when AI will no longer improve and its progress will stop? At that point, AI will only improve by tiny bits that we won't even notice that the model has improved. Is my knowledge about model training wrong? Do you think so too?"
+      "description": "I like using AI to make my writing clearer. It helps when I\u2019m tired or when I\u2019m writing in a language that isn\u2019t my strongest. But I\u2019ve also noticed that polished writing can remove small things that make a person sound like themselves: local expressions, unusual sentence patterns, and even minor awkwardness. If everyone uses AI to sound more \u201cprofessional,\u201d do we slowly lose the variety that makes communication interesting? Where would you draw the line between improving communication and flattening identity?"
     },
     {
-      "title": "McDonald's has been using AI to decide how much you should pay for a Big Mac",
-      "author": "shield_x",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww0rrf/mcdonalds_has_been_using_ai_to_decide_how_much/",
-      "published": 1790964452.0,
-      "thumbnail": "https://external-preview.redd.it/2ecj3jl-5BGwELgcAp-QIEL0VLx1FVZCZ2ABGTp_rwk.jpeg?width=640&crop=smart&auto=webp&s=83b90bf2a1a25ceecaaf73410d022a110072ce84",
-      "external_url": "https://www.techspot.com/news/114053-mcdonald-using-ai-decide-how-much-you-pay.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "Several sources, including store owners, recently explained to Reuters how McDonald's encourages and sometimes pressures restaurants to set prices according to an AI algorithm. The outlet also..."
+      "title": "Microsoft is cosplaying AI",
+      "author": "YoungDito",
+      "url": "https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/",
+      "published": 1790963158.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn\u2019t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats\u2026 I\u2019d rather have Clippy back honestly."
     }
   ],
-  "fetched_at": "2026-10-03T11:54:00.414776+00:00"
+  "fetched_at": "2026-10-03T15:49:55.290015+00:00"
 }
