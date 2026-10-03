@@ -13,6 +13,39 @@
       "description": "\u2018It is a way for the CEOs to signal fealty to the president,\u2019 said one insider as others warned the private sector is unlikely to follow the president\u2019s edict"
     },
     {
+      "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
+      "published": 1790995947.0,
+      "thumbnail": "https://external-preview.redd.it/BLCoaPXC8u7YCea1dopWdPilT_E1VT_vH-3Zqwf_oaU.png?width=640&crop=smart&auto=webp&s=dfd0a6d5ef2a3fc1092acb4ae74d3758e097c247",
+      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1769329/apple-touch-icon.png",
+      "description": "The YouTuber\u2019s account was deactivated over \u201cdistillation\u201d during his model research."
+    },
+    {
+      "title": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
+      "author": "m3nt3_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/",
+      "published": 1791012080.0,
+      "thumbnail": "https://preview.redd.it/sxjwis0ge7th1.jpeg?width=640&crop=smart&auto=webp&s=6b7dc59d9b33d192e44aa23a57cc9e59f592e04e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/",
+      "published": 1791006597.0,
+      "thumbnail": "https://external-preview.redd.it/B4j-eq5-qWcDZ5QcZ17aG9AP-3ebkE0jP9n5G5VtHqU.jpeg?width=640&crop=smart&auto=webp&s=1c37dba81f5f77cc268c9c4f7c928e7991529604",
+      "external_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro."
+    },
+    {
       "title": "How good are AI interviewers at knowing when to abandon the script?",
       "author": "wry_widget",
       "url": "https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/",
@@ -35,17 +68,6 @@
       "description": "Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn\u2019t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats\u2026 I\u2019d rather have Clippy back honestly."
     },
     {
-      "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
-      "published": 1790995947.0,
-      "thumbnail": "https://external-preview.redd.it/BLCoaPXC8u7YCea1dopWdPilT_E1VT_vH-3Zqwf_oaU.png?width=640&crop=smart&auto=webp&s=dfd0a6d5ef2a3fc1092acb4ae74d3758e097c247",
-      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1769329/apple-touch-icon.png",
-      "description": "The YouTuber\u2019s account was deactivated over \u201cdistillation\u201d during his model research."
-    },
-    {
       "title": "SLMs Are Underrated. Is It On Purpose?",
       "author": "BaronVonLongfellow",
       "url": "https://www.reddit.com/r/artificial/comments/1ww86dg/slms_are_underrated_is_it_on_purpose/",
@@ -57,15 +79,26 @@
       "description": "We've been having this discussion quite a bit with our clients lately. Most (if not all) of them feel the utilization of frontier models is not justifying the cost, but they are generally reluctant to pursue an SLM strategy. It's as if SLMs have been positioned as the homeopathic option for enterprise AI. Why purchase an expensive anti-viral from Merck when a povidone iodine solution works as good or better? This is not a meme. It's a machine I built over a year ago to test DeepSeek R1, but it has turned into a workhorse. Yet most of our clients (FINTECH) are skittish of small, secure, local models. Just wondering if anyone else is seeing things differently."
     },
     {
-      "title": "Facebook feed is now majority AI",
-      "author": "stvlsn",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/",
-      "published": 1790956472.0,
+      "title": "What are your thoughts on AI consciousness and how it might be different from humans?",
+      "author": "lazo40",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwid1d/what_are_your_thoughts_on_ai_consciousness_and/",
+      "published": 1791017307.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I am 35 and still occasionally go on Facebook. The feed, over the years, has moved away from showing friend content and moved toward showing creator content. I've noticed a shift in the last few weeks where the majority of posts are AI. Some are obvious, but most are not - and the newest image and video models allow for near perfect realism. I remember a few years ago when this exact scenario was warned about. Now we are here."
+      "description": "So there\u2019s this whole debate about AI consciousness here, and whether ai can feel pain and such. But so what if we postulate that ai is somehow conscious, eg. it feels like something to be an ai, llm or whatever. What would that experience be like? Here are a few ideas: The illusion of choice: would ai feel like it is choosing its actions? If the ai is an llm would it feel like it\u2019s choosing its tokens? Rewards: if the system is subject to some sort of reinforcement learning process, what would it feel when it achieves the goal? Exotic modalities: what would an llm feel when it looks at its context window? Or an image diffusion model when generating images?"
+    },
+    {
+      "title": "When AI models will not get better and will be stuck at one place?",
+      "author": "Accomplished-Job5750",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwhx0v/when_ai_models_will_not_get_better_and_will_be/",
+      "published": 1791015590.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "My idea is that AI models learn from data from the internet, so when the data from the internet and people's responses from AI conversations run out, when will there be a point when AI will no longer improve and its progress will stop? At that point, AI will only improve by tiny bits that we won't even notice that the model has improved. Is my knowledge about model training wrong? Do you think so too?"
     },
     {
       "title": "McDonald's has been using AI to decide how much you should pay for a Big Mac",
@@ -77,40 +110,7 @@
       "site_name": "TechSpot",
       "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
       "description": "Several sources, including store owners, recently explained to Reuters how McDonald's encourages and sometimes pressures restaurants to set prices according to an AI algorithm. The outlet also..."
-    },
-    {
-      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
-      "author": "ai-edition",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww5zwo/this_lightpowered_ai_can_spot_deepfakes_with/",
-      "published": 1790977119.0,
-      "thumbnail": "https://external-preview.redd.it/5JVRxKhkcy_5-KdpYGyAr4lHrA0j4Dl9lsNt1VsgnFM.jpeg?width=640&crop=smart&auto=webp&s=13b0ee40561394ecd830db90d8c814b69954430f",
-      "external_url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
-      "site_name": "ScienceDaily",
-      "favicon": "https://www.sciencedaily.com/favicon.ico",
-      "description": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video."
-    },
-    {
-      "title": "'AI Doomsday': Why Big Tech Wants You Scared",
-      "author": "Nexusyak",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww90sy/ai_doomsday_why_big_tech_wants_you_scared/",
-      "published": 1790985534.0,
-      "thumbnail": "https://external-preview.redd.it/B0GsKb2_zEzjqpn0Ha26p7WFH3PGn-KLmzNlc88GiZo.jpeg?width=640&crop=smart&auto=webp&s=123c45a1eb0e6d1102ec912cf599315c00392968",
-      "external_url": "https://www.androidheadlines.com/2026/10/ai-doomerism-doomsday-hype-rogue-agents-political-distraction.html",
-      "site_name": "Android Headlines",
-      "favicon": "https://www.androidheadlines.com/apple-touch-icon.png",
-      "description": "AI doomsday warnings are a smoke screen. Discover how politicians & lagging tech giants use hype to hide real failures."
-    },
-    {
-      "title": "Scientists build an AI that can propose experiments, run them and learn from the results",
-      "author": "Brighter-Side-News",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww5ozf/scientists_build_an_ai_that_can_propose/",
-      "published": 1790976364.0,
-      "thumbnail": "https://external-preview.redd.it/Wl_Rg63FIT36FtoIeIptGxcc6M8AYfLEYLexAAg73SE.jpeg?width=640&crop=smart&auto=webp&s=eb31d44c04625a78d9b9edc1eaccbce0cfb398bc",
-      "external_url": "http://thebrighterside.news/post/scientists-build-an-ai-that-can-propose-experiments-run-them-and-learn-from-the-results",
-      "site_name": "The Brighter Side of News",
-      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
-      "description": "Artificial intelligence is moving beyond analyzing scientific data and proposing ideas. In a laboratory in Sweden, it has begun putting some of those ideas to the test itself. Researchers at Chalmers University of Technology developed a closed-loop system that can generate biological hypotheses, decide how to test them, translate those plans into machine-readable instructions, analyze experimental results and use the findings to refine later questions. Laboratory robots then perform much of the physical work. The system was tested on Saccharomyces cerevisiae, the yeast used in brewing and baking and one of biology's most extensively studied organisms. Yet even this familiar microbe contains far more genetic, metabolic and physiological information than a person could systematically explore. Published in the Journal of the Royal Society Interface, the study brings large language models together with formal logic, biological databases, machine learning, automated cell cultivation and mass spectrometry."
     }
   ],
-  "fetched_at": "2026-10-03T06:04:59.221014+00:00"
+  "fetched_at": "2026-10-03T11:54:00.414776+00:00"
 }

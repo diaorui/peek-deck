@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-03T06:05:25.963504+00:00'
+updated: '2026-10-03T11:54:21.958242+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 03, 2026 at 06:05 UTC  
+**Last Updated:** October 03, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,680.53
+### $2,682.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -0.4%  
-**30d:** +9.1%  
-**90d:** +48.9%  
-**1y:** -40.3%  
+**24h:** -2.5%  
+**7d:** -0.1%  
+**30d:** +9.4%  
+**90d:** +49.3%  
+**1y:** -40.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $327.05B
+**Market Cap:** $327.87B
 Rank #2
 
 **Circulating Supply:** 122,101,617 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.8%
+-45.7%
 
 **All-Time Low:** $0.43
-+618523.5%
++620064.0%
 
 ---
 
@@ -160,7 +160,7 @@ ethereum.org • 1d ago
 
 Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet.
 
-Decrypt News • 12h ago
+Decrypt News • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt News • 12h ago
 
 Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin CRYPTO:BTCUSD has pared gains from Friday morning trading, selling off $84,600 after a rally to $86,500 into a weaker-than-expected jobs numbers report.Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD followed the reversal, with social sentiment flipping sharply negative, according to data prov…
 
-TradingView • 12h ago
+TradingView • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Block • 1d ago
 
 Dubai, UAE, Oct.  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto announces fresh presale numbers this week: funding past $11.16 million, holders ...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -216,15 +216,15 @@ markets.businessinsider.com • 13h ago
 
 Ethereum's Oct. 6 Glamsterdam test will show whether validators coordinate around a target more than three times today’s 60 million default.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
 
 ---
 
-**[Current price of Ethereum for Sept. 30, 2026](https://fortune.com/article/price-of-ethereum-09-30-2026/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC heading to $85,000, ETH awaits breakout, XRP holds $1.50](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-heading-to-85-000-eth-awaits-breakout-xrp-holds-150-202610020328)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin (BTC) approaches the key resistance zone near $85,000 on Friday after posting modest gains so far this week. Ethereum (ETH) consolidates around $2,700 as traders await its next directional move. Meanwhile, Ripple (XRP) steadies around $1.500 after recovering losses from earlier this week.
 
-Fortune • 2d ago
+FXStreet • 1d ago
 
 ---
 
@@ -232,13 +232,13 @@ Fortune • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LfIbptPM1KM)**
+**[🔥 Ethereum Is Waking Up - ETH Crypto Analysis](https://www.youtube.com/watch?v=pfdpDbYgAnM)**
 
-BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/TrwlgKbB Ask Gerhard AI: mybtcguy.com My Chart Software: ...
 
-📺 Crypto World
+📺 Bitcoin Strategy
 
-👁️ 5K • 👍 276 • 💬 44 • ⏱️ 26:47 • 6h ago
+👁️ 8K • 👍 111 • 💬 16 • ⏱️ 10:17 • 1d ago
 
 ---
 
@@ -252,51 +252,33 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 ---
 
-**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
+**[Live Trading Bitcoin, Ethereum, XRP &amp; Altcoins, Fast Scalps](https://www.youtube.com/watch?v=Xr9cJrotLQk)**
 
-Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
+Pedro is live at the charts, scalping Bitcoin, Ethereum, XRP, and select altcoins on the 15-minute timeframe. No hype, no ...
 
-📺 Paul Barron Network
+📺 Crypto Banter
 
-👁️ 107K • 👍 2K • 💬 217 • ⏱️ 12:18 • 1d ago
-
----
-
-**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 192 • 💬 4 • ⏱️ 19:58 • 1d ago
+👁️ 13K • 👍 167 • 💬 4 • ⏱️ 48:42 • 1d ago
 
 ---
 
-**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
+**[Ethereum: Where the Next Pullback Could End](https://www.youtube.com/watch?v=T7EsGi4KHq4)**
 
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
+Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target and consolidates while the $2615 to $2659 ...
 
-📺 Crypto Archie
+📺 More Crypto Online
 
-👁️ 3K • 👍 78 • ⏱️ 10:16 • 16h ago
-
----
-
-**[🔥 Ethereum Is Waking Up - ETH Crypto Analysis](https://www.youtube.com/watch?v=pfdpDbYgAnM)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 8K • 👍 107 • 💬 15 • ⏱️ 10:17 • 1d ago
+👁️ 879 • 👍 80 • 💬 4 • ⏱️ 9:53 • 2h ago
 
 ---
 
-**[XRP AND ETH SENTIMENT CRASHES! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=9p2Y9LFqzJg)**
+**[Ethereum (ETH) Price, Last 3 Days: +1.1%](https://www.youtube.com/watch?v=iVPnZSXrmbc)**
 
-📺 CryptoWendyO
+Shorts Ethereum (ETH) price over the last 3 days, drawn from 30m candles. 3 days of Ethereum, in 30 seconds. △ Change: +1.1% ...
 
-👁️ 3K • 👍 225 • 💬 3 • ⏱️ 1:58 • 5h ago
+📺 Sort Finance
+
+👁️ 121 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -306,27 +288,47 @@ FeeDrip - Get up to 67% Back, Daily on Your Trading Fees https://marzell.org/fee
 
 📺 Marzell Crypto
 
-👁️ 516 • 👍 17 • 💬 7 • ⏱️ 3:08 • 15h ago
+👁️ 632 • 👍 16 • 💬 8 • ⏱️ 3:08 • 21h ago
 
 ---
 
-**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
+**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
 
-Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
 
-📺 Money Rules - Investing Tips 
+📺 Crypto Archie
 
-👁️ 34K • 👍 2K • 💬 491 • ⏱️ 19:06 • 1d ago
+👁️ 4K • 👍 88 • 💬 1 • ⏱️ 10:16 • 21h ago
 
 ---
 
-**[Ethereum Breaks Bear Pattern: Juicy Investment Opportunity!](https://www.youtube.com/watch?v=ppKb5RCnrB0)**
+**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
 
-Ethereum has broken its weekly bear pattern, outperforming Bitcoin. We've been watching it break highs for weeks. This is a prime ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto School - Brian Longest
+📺 Crypto Nutshell
 
-👁️ 266 • 👍 3 • ⏱️ 0:30 • 9h ago
+👁️ 10K • 👍 193 • 💬 5 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[BREAKING WALL STREET IS COMING! $10,000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY](https://www.youtube.com/watch?v=BAJpGVA8inA)**
+
+BREAKING WALL STREET IS COMING! $10000 ETHEREUM CALL?! XRP MILESTONE COULD SEND ALTCOINS CRAZY Claim ...
+
+📺 CryptoWendyO
+
+👁️ 20K • 👍 585 • 💬 27 • ⏱️ 30:38 • 2d ago
+
+---
+
+**[ETH market update — October 2](https://www.youtube.com/watch?v=kaUZOtvtj1M)**
+
+Short snapshot of Ethereum (ETH) near-term price forecasts. The full video compares multiple forecasts using percentages and ...
+
+📺 ETH Daily Forecasts
+
+👁️ 11 • ⏱️ 0:13 • 1d ago
 
 ---
 
