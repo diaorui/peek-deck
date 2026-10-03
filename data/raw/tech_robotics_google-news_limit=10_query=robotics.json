@@ -15,24 +15,34 @@
       "description": "An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild."
     },
     {
+      "headline": "Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSU1nRmxGSnRxZFo0QS10bHlLMDE4QU5tWDlWZmFlLUNILUxpemt2VHQwU1pnRXVpc2dTYkZ1cXR5cW0zbTVMTjd2VzJOTFVFOHk2Qk45ZEw1UnNuNHVyVm9PN3p5U2NHaFRhVWVMVEY2VHBjbTZzRXhWWHA1UGNORl94SG9DU0F1cThJOHVOQ2hpQQ?oc=5",
+      "pub_date": 1790952757.0,
+      "article_url": "https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/horde-humanoid-robots-hurl-vat-liquid-steel.jpg?w=1200",
+      "description": "A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel."
+    },
+    {
+      "headline": "Humanoid robots destroy themselves after being decommissioned",
+      "source": "The Independent",
+      "source_url": "https://www.independent.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUdtZDdqQXFXdUMzUko3c0RnUjFaMkF5a3dTWmlkSzFTaFdFM0FLWlpJNEZ6bElrcVgyeHpRSy1WQ1VsakxfT2ZOWmpud3hWcDFvSTJZN29yNlNGX01aalcyamxDQ29MNk1LbDJHRkxXejg4cnFtRWlxOXplczRfYXpRelc5Y0FaV1dIaw?oc=5",
+      "pub_date": 1790957280.0,
+      "article_url": "https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html",
+      "image": "https://static.the-independent.com/2026/10/02/14/40/Screenshot-2026-10-02-164452.png?trim=0,98,0,98&width=1200&height=800&crop=1200:800",
+      "description": "The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose"
+    },
+    {
       "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
-      "pub_date": 1790955607.0,
+      "pub_date": 1790955540.0,
       "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
       "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
       "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
-    },
-    {
-      "headline": "The U.S. can\u2019t find enough of this critical machine component to win the humanoid-robots race",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVTdocUJIV0pubEtENWk5VlhmdnlIaEhEVV9tZy0zSkpyS0s4dXpTSnJObk1vWktyQmhKOGZNMHBXWFBzNlFac19yNnBvOEdDcTUwdGQyYk5pQjRXUDV2bFJZblBvN242dlQxOF9NWVNydS15RlZWN2JfREFZNXdjdnAySW4tY1I3bldpV3g5WF93eGVUcmdpQmQ3cjRuU2pxSGtOMXBrSU1EQ25rT3JWY1pCc2ZYVWNmY0JsN2plTWUtNGVjUGp1cnVCcWlmQjZaYW85ckRB?oc=5",
-      "pub_date": 1790962140.0,
-      "article_url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Can we predict the jobs robots will do?",
@@ -45,14 +55,14 @@
       "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
     },
     {
-      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
-      "pub_date": 1790958686.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
-      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
+      "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the Moon",
+      "source": "NewsNation",
+      "source_url": "https://www.newsnationnow.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG56OU93amJ5SHNZYi1qaXNYWV90MFM0R0Z6dXdLNzg4eEpMNzAxZDZjUU1kRjgyc1hjSlNFUzZqSVA0WDljTWZhcnRqd1BjenNqMzZ0ZG1BWlRJcHRLTDVGYTktSVc5dGtaNXNHY1Y5QTh6eTYyY3FScjRiaFFKLUtrOU5GdG1Qby0yd9IBkgFBVV95cUxOSkhGcHNHSDI2Tm9KVUJRdXZXN2dheE52QnRpQ1Z6TWpqUzh5TlNkdzVxcG5PQnhqMjZvSU1MSXpPLTlLMDhkVzdVUHpwME8xTXFKdTl4bVJDcXdjeHJjYno1XzdNbE1NeDBkRS1TUE1FMWZ4RWlDUmhKNnBiWmszdHY2WEdLM0ozck1TdkVpUnlwUQ?oc=5",
+      "pub_date": 1790923774.0,
+      "article_url": "https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
@@ -65,46 +75,36 @@
       "description": null
     },
     {
-      "headline": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBBQm5sQjBYemM0OUMzWjNNZVVYbnhVcGhDQll6OE40Q0pWMUFhMGQ5dVczdk9JZzktcUxXYzJHQVI5U3dZbktaSHNkYVp6MkNJVGRrc2J3WlNoaGlnOG1NVl93ZmgzN2ZUU0RxTFpWVkFpa2U3RE45TXpUZy11OHo5aE5ZUW5IdnY1b21jZ3g4cEh6NmRZbw?oc=5",
-      "pub_date": 1790939400.0,
-      "article_url": "https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888227%2Fgettyimages-2233368716-1.jpg&w=1200&op=resize",
-      "description": "Here are three robotics stocks that could turn the automation boom into real business growth."
+      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
+      "pub_date": 1790958686.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
+      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
     },
     {
-      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
-      "pub_date": 1790694988.0,
-      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
+      "headline": "The U.S. can\u2019t find enough of this critical machine component to win the humanoid-robots race",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVTdocUJIV0pubEtENWk5VlhmdnlIaEhEVV9tZy0zSkpyS0s4dXpTSnJObk1vWktyQmhKOGZNMHBXWFBzNlFac19yNnBvOEdDcTUwdGQyYk5pQjRXUDV2bFJZblBvN242dlQxOF9NWVNydS15RlZWN2JfREFZNXdjdnAySW4tY1I3bldpV3g5WF93eGVUcmdpQmQ3cjRuU2pxSGtOMXBrSU1EQ25rT3JWY1pCc2ZYVWNmY0JsN2plTWUtNGVjUGp1cnVCcWlmQjZaYW85ckRB?oc=5",
+      "pub_date": 1790962140.0,
+      "article_url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571",
       "image": null,
       "description": null
     },
     {
-      "headline": "A Faraday Future robot drew the most attention at a robotics conference",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzlKZThKMXREZGZVTmNwLVpURFlZTzluRlZVbEJGNFJYRWVtdC1ieFg4ZEN5LWthbjlBT0ZfVmNkOUkwaDkteVFOS1A2SXBGZUg2NlJic0hpbzg2WWlhcEswLVhva3BNU296UzhQTzdwekRZejc1RXNNNWU4QU1uWFhKVXoyTHQ5SmpVcmVnOFE1ZXFvQWF5U2d6TDUwUldSbnktZzhSU3NaUzd2UU9SSWo2cDZPeGF4YWl5YndiYUQ?oc=5",
-      "pub_date": 1790929674.0,
-      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-ww9129av9p2e.html",
-      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Showcases_its_EAI_Robotics_World_2_0_at_IROS_2026_Its_Four_Core_Full_Stack_AI_Ecosys_1511755.webp",
-      "description": "A non-binding term sheet contemplates combining FFAI\u2019s robotics assets and businesses into AIxC at an estimated market valuation of about $200 million."
-    },
-    {
-      "headline": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlh2cHpGd1lZSFk0RkdhdTlRQ0xWREFSWllhSGZxczZ2M2tkemo1LTFGN2RXX0p6UWpXZkFRbkxZcS1ROFNDR2NWU1AzSWpMczZmbjRVSVlFSTJ3RFFtcERoR1kxRkJ6eUM1UFNrLTZmWER0NTJoVy1sNVhyakhYOVBTWGJ4RC1YdGIzZEVybGYzS3pDcHE2Q2pJd2JHZGIxd2NEMjJFYw?oc=5",
-      "pub_date": 1790784000.0,
-      "article_url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
-      "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+      "headline": "Anthropic study suggests blue-collar workers have decades before robots take their jobs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWoycUlISjNyb2FhX3habDlCcEpIcE1oSnV2SnhNc1Zlbnk4UEQ2SHJSQWhxaWI5LUtZVGt1VWhQQ0VWbUNMTklUMEppV2R2OFR4cDV1S1RRcmtPZlRsQzhCUnBhQUZwbjBXVEZ0Ym12X0JINExFOWZfMGhDVGZzREEyUkw3Q0JoekYxWkh0b21yaUJyeHRoWjJkSGRDcnJ3ZnV1UWRJWGRLeU1QR2NELTJJRjhXU0ctSGgtS0xHQ1RwVnVTdndMbG1SSTFfaEF5T0R6RGRvMU12UUUwLU9kVQ?oc=5",
+      "pub_date": 1790855997.0,
+      "article_url": "https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a5d8f15f4de325cb6d4a4f8b33c012173f49ecd270ca56dfbff97695ff5ed0dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc8a33064-8369-4d93-abf0-863093dcf733",
+      "description": "Robots can already handle most physical tasks involved in American jobs \u2014 but mostly in controlled settings, and at a cost too high to replace human workers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T00:37:38.589100+00:00"
+  "fetched_at": "2026-10-03T06:05:21.753663+00:00"
 }

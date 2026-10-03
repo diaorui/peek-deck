@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-03T00:37:42.936270+00:00'
+updated: '2026-10-03T06:05:25.966791+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 03, 2026 at 00:37 UTC  
+**Last Updated:** October 03, 2026 at 06:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
 
-Mashable • 5h ago
+Mashable • 11h ago
+
+---
+
+**[Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration](https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel)**
+
+A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel.
+
+Futurism • 15h ago
+
+---
+
+**[Humanoid robots destroy themselves after being decommissioned](https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html)**
+
+The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose
+
+The Independent • 13h ago
 
 ---
 
@@ -124,13 +140,7 @@ Mashable • 5h ago
 
 The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
 
-Business Insider • 8h ago
-
----
-
-**[The U.S. can’t find enough of this critical machine component to win the humanoid-robots race](https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571)**
-
-MarketWatch • 7h ago
+Business Insider • 14h ago
 
 ---
 
@@ -142,11 +152,9 @@ Anthropic • 2d ago
 
 ---
 
-**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
+**[NASA’s dexterous humanoid robots built to assist humans on the Moon](https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/)**
 
-Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
-
-IEEE Spectrum • 8h ago
+NewsNation • 23h ago
 
 ---
 
@@ -156,33 +164,25 @@ The New York Times • 1d ago
 
 ---
 
-**[Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?](https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/)**
+**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
 
-Here are three robotics stocks that could turn the automation boom into real business growth.
+Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
 
-The Motley Fool • 13h ago
-
----
-
-**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
-
-Forbes • 3d ago
+IEEE Spectrum • 13h ago
 
 ---
 
-**[A Faraday Future robot drew the most attention at a robotics conference](https://www.stocktitan.net/news/FFAI/faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-ww9129av9p2e.html)**
+**[The U.S. can’t find enough of this critical machine component to win the humanoid-robots race](https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571)**
 
-A non-binding term sheet contemplates combining FFAI’s robotics assets and businesses into AIxC at an estimated market valuation of about $200 million.
-
-Stock Titan • 16h ago
+MarketWatch • 12h ago
 
 ---
 
-**[Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)**
+**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
 
-"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
+Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
 
-TechCrunch • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -190,63 +190,33 @@ TechCrunch • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 2K • 👍 145 • 💬 18 • ⏱️ 13:23 • 1h ago
-
----
-
 **[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
 
 Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
 
 📺 ejunky66
 
-👁️ 121K • 👍 2K • 💬 103 • ⏱️ 1:00 • 15h ago
+👁️ 138K • 👍 2K • 💬 129 • ⏱️ 1:00 • 20h ago
 
 ---
 
-**[Could humanoid robot soldiers be on the horizon?](https://www.youtube.com/watch?v=1osaik87wH4)**
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
 
-Meet Phantom, the robot Foundation Future Industries says could be one of the first humanoid robot soldiers. The Eric ...
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
 
-📺 NBC News
+📺 AI Revolution
 
-👁️ 51K • 👍 298 • 💬 239 • ⏱️ 12:24 • 1d ago
-
----
-
-**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
-
-The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
-
-📺 Future Files
-
-👁️ 997K • 👍 5K • 💬 189 • ⏱️ 24:25 • 6d ago
+👁️ 11K • 👍 317 • 💬 33 • ⏱️ 13:23 • 7h ago
 
 ---
 
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
+**[Shakira Danced the Robot With an Actual Robot, and Fans Saw Barbie and Ken #Shakira](https://www.youtube.com/watch?v=H9xB5ENvYcY)**
 
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
+After Shakira danced the robot alongside an actual robot, many fans joked that the scene was the perfect real-life version of ...
 
-📺 World Best Talent
+📺 ToonsFan
 
-👁️ 1.9M • 👍 9K • 💬 615 • ⏱️ 25:31 • 6d ago
-
----
-
-**[⚙️ Robot Mode Activated! Watch This AI Dance Performance! 🤖🔥 #shorts #ai  #poppingdancer #dance](https://www.youtube.com/watch?v=dR-AiWWQnwI)**
-
-Hi, welcome to the wonderful world of "Barbin.ili Barbie"! ​ Here, the fantasy journey of cosplay, the magic of imitation ...
-
-📺 Barbin.ili芭比
-
-👁️ 51K • 👍 1K • 💬 19 • ⏱️ 0:07 • 6d ago
+👁️ 309K • 👍 3K • 💬 10 • ⏱️ 0:05 • 1d ago
 
 ---
 
@@ -256,37 +226,67 @@ Why will Boston Dynamics win the humanoid robotics race? We've already commercia
 
 📺 Boston Dynamics
 
-👁️ 689K • 👍 8K • 💬 993 • ⏱️ 5:49 • 2d ago
+👁️ 700K • 👍 8K • 💬 996 • ⏱️ 5:49 • 2d ago
 
 ---
 
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
+**[Could humanoid robot soldiers be on the horizon?](https://www.youtube.com/watch?v=1osaik87wH4)**
 
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
+Meet Phantom, the robot Foundation Future Industries says could be one of the first humanoid robot soldiers. The Eric ...
 
-📺 Innovation Core
+📺 NBC News
 
-👁️ 217K • 👍 1K • 💬 141 • ⏱️ 21:02 • 4d ago
-
----
-
-**[These New Female Robots Just Unlocked NEW ABILITIES](https://www.youtube.com/watch?v=Lne4k8uPUuI)**
-
-Something shifted this year. The demos stopped being about walking without falling over. Now it's fine motor control, reading a ...
-
-📺 AI Exposed
-
-👁️ 55K • 👍 342 • 💬 26 • ⏱️ 16:27 • 6d ago
+👁️ 55K • 👍 323 • 💬 252 • ⏱️ 12:24 • 1d ago
 
 ---
 
-**[Robot-Use Agents: Why General-Purpose Models May Win in Robotics](https://www.youtube.com/watch?v=Jv5B5CEaPJI)**
+**[Unitree G1 kicked a Hopcopter out of it&#39;s path.](https://www.youtube.com/watch?v=za_d8V6PY3E)**
 
-One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software.
+During a recent demonstration at IROS 2026, a Unitree Robotics G1 humanoid robot encountered a Hopcopter in its path. Rather ...
 
-📺 Y Combinator
+📺 Cybernews
 
-👁️ 66K • 👍 464 • 💬 14 • ⏱️ 29:49 • 6d ago
+👁️ 240K • 👍 778 • 💬 21 • ⏱️ 0:07 • 1d ago
+
+---
+
+**[Why Did This AI Robot Jump Into Liquid Metal? 🤔](https://www.youtube.com/watch?v=OS6KKKgtw_c)**
+
+Original video credit: IG/@lincoln_robotics_space. The video captures the final autonomous jump of the Figure 02 humanoid robot ...
+
+📺 History Seeker
+
+👁️ 242K • 👍 1K • 💬 97 • ⏱️ 0:08 • 5h ago
+
+---
+
+**[What Can a Robot See Inside a Pipeline?  #inspectionrobot #robotics #cctv](https://www.youtube.com/watch?v=1oGsFQLv64k)**
+
+This CCTV pipeline inspection robot provides real-time HD video while operating inside the pipe, with inspection recording and ...
+
+📺 DANNABO | Special Robots
+
+👁️ 41K • 👍 144 • ⏱️ 0:08 • 2d ago
+
+---
+
+**[Joe Rogan &amp; Elon Musk Predict When Human-Like Robots Are Coming 🤖😳](https://www.youtube.com/watch?v=TxIEq_ZQlbM)**
+
+Joe Rogan and Elon Musk dive into one of the wildest questions about the future of AI and robotics How long until we have a ...
+
+📺 Clip Storm
+
+👁️ 216K • 👍 3K • 💬 413 • ⏱️ 0:13 • 2d ago
+
+---
+
+**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+
+Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+
+📺 Hyundai Motor Group
+
+👁️ 511K • 👍 70 • 💬 4 • ⏱️ 5:49 • 2d ago
 
 ---
 

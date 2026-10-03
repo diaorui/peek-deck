@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-03T06:05:24.966374+00:00",
+  "data": "Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts text, JSON, image, or video inputs into structured, typed decisions based on a provided schema. It excels at classification and structured output tasks, returning probabilities for predefined options without free-form text generation.",
+  "model_id": "Cloudflare/clef-flash"
+}

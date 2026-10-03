@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-03T00:37:42.932990+00:00'
+updated: '2026-10-03T06:05:25.963504+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 03, 2026 at 00:37 UTC  
+**Last Updated:** October 03, 2026 at 06:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,666.26
+### $2,680.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -0.5%  
-**30d:** +9.0%  
+**24h:** -2.1%  
+**7d:** -0.4%  
+**30d:** +9.1%  
 **90d:** +48.9%  
 **1y:** -40.3%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $326.55B
+**Market Cap:** $327.05B
 Rank #2
 
-**Circulating Supply:** 122,098,690 ETH
+**Circulating Supply:** 122,101,617 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.9%
+-45.8%
 
 **All-Time Low:** $0.43
-+617724.4%
++618523.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ About 2 years ago RISC-V hardware got powerful enough to do initial tests for ru
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement) • 3d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement) • 4d ago
 
 ---
 
@@ -120,7 +120,7 @@ Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The cryptographic world computer | Vitalik](https://www.reddit.com/r/ethereum/comments/1ws2z7z/the_cryptographic_world_computer_vitalik/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html) • 4d ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html) • 5d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -160,7 +160,7 @@ ethereum.org • 1d ago
 
 Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet.
 
-Decrypt News • 6h ago
+Decrypt News • 12h ago
 
 ---
 
@@ -172,19 +172,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)**
-
-MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat.
-
-The Hacker News • 1d ago
-
----
-
 **[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.tradingview.com/news/benzinga:c06a50342094b:0-bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative/)**
 
 Bitcoin CRYPTO:BTCUSD has pared gains from Friday morning trading, selling off $84,600 after a rally to $86,500 into a weaker-than-expected jobs numbers report.Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD followed the reversal, with social sentiment flipping sharply negative, according to data prov…
 
-TradingView • 6h ago
+TradingView • 12h ago
 
 ---
 
@@ -192,13 +184,21 @@ TradingView • 6h ago
 
 DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
 
-CoinDesk • 1d ago
+coindesk.com • 2d ago
 
 ---
 
-**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
+**[MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)**
 
-The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
+MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat.
+
+The Hacker News • 2d ago
+
+---
+
+**[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
+
+Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
 
 The Block • 1d ago
 
@@ -208,7 +208,7 @@ The Block • 1d ago
 
 Dubai, UAE, Oct.  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto announces fresh presale numbers this week: funding past $11.16 million, holders ...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -238,27 +238,7 @@ BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 543 • 👍 55 • 💬 11 • ⏱️ 26:47 • 40m ago
-
----
-
-**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
-
-Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
-
-📺 Paul Barron Network
-
-👁️ 104K • 👍 2K • 💬 216 • ⏱️ 12:18 • 1d ago
-
----
-
-**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
-
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
-
-📺 Crypto Archie
-
-👁️ 2K • 👍 69 • ⏱️ 10:16 • 10h ago
+👁️ 5K • 👍 276 • 💬 44 • ⏱️ 26:47 • 6h ago
 
 ---
 
@@ -272,33 +252,33 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 ---
 
+**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
+
+Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
+
+📺 Paul Barron Network
+
+👁️ 107K • 👍 2K • 💬 217 • ⏱️ 12:18 • 1d ago
+
+---
+
 **[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 191 • 💬 3 • ⏱️ 19:58 • 1d ago
+👁️ 9K • 👍 192 • 💬 4 • ⏱️ 19:58 • 1d ago
 
 ---
 
-**[Ethereum Just BROKE OUT.. I Moved My Stop!!](https://www.youtube.com/watch?v=FQMnlrMqoyA)**
+**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
 
-FeeDrip - Get up to 67% Back, Daily on Your Trading Fees https://marzell.org/feedrip Ethereum (ETH) just broke out of the ...
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
 
-📺 Marzell Crypto
+📺 Crypto Archie
 
-👁️ 357 • 👍 17 • 💬 6 • ⏱️ 3:08 • 10h ago
-
----
-
-**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
-
-Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 33K • 👍 2K • 💬 490 • ⏱️ 19:06 • 1d ago
+👁️ 3K • 👍 78 • ⏱️ 10:16 • 16h ago
 
 ---
 
@@ -308,27 +288,45 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 7K • 👍 104 • 💬 15 • ⏱️ 10:17 • 1d ago
+👁️ 8K • 👍 107 • 💬 15 • ⏱️ 10:17 • 1d ago
 
 ---
 
-**[I Checked an Ethereum Tool That AI Built (Full Night)](https://www.youtube.com/watch?v=fJxTNOuIAvk)**
+**[XRP AND ETH SENTIMENT CRASHES! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=9p2Y9LFqzJg)**
 
-Can you earn Ethereum on a phone in 2026 with a tool AI built? A client showed me an assistant that AI put together and asked for ...
+📺 CryptoWendyO
 
-📺 Ohio Gmod
-
-👁️ 1K • 👍 540 • 💬 34 • ⏱️ 5:47 • 5h ago
+👁️ 3K • 👍 225 • 💬 3 • ⏱️ 1:58 • 5h ago
 
 ---
 
-**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
+**[Ethereum Just BROKE OUT.. I Moved My Stop!!](https://www.youtube.com/watch?v=FQMnlrMqoyA)**
 
-BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
+FeeDrip - Get up to 67% Back, Daily on Your Trading Fees https://marzell.org/feedrip Ethereum (ETH) just broke out of the ...
 
-📺 McNallie Money
+📺 Marzell Crypto
 
-👁️ 2K • 👍 100 • 💬 11 • ⏱️ 18:53 • 1d ago
+👁️ 516 • 👍 17 • 💬 7 • ⏱️ 3:08 • 15h ago
+
+---
+
+**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
+
+Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 34K • 👍 2K • 💬 491 • ⏱️ 19:06 • 1d ago
+
+---
+
+**[Ethereum Breaks Bear Pattern: Juicy Investment Opportunity!](https://www.youtube.com/watch?v=ppKb5RCnrB0)**
+
+Ethereum has broken its weekly bear pattern, outperforming Bitcoin. We've been watching it break highs for weeks. This is a prime ...
+
+📺 Crypto School - Brian Longest
+
+👁️ 266 • 👍 3 • ⏱️ 0:30 • 9h ago
 
 ---
 
