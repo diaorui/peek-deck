@@ -87,9 +87,23 @@
       "description": null,
       "favicon": null,
       "site_name": null
+    },
+    {
+      "title": "GitHub mutuals on AI in life sciences or bioinformatics",
+      "url": "https://news.ycombinator.com/item?id=49940260",
+      "hn_url": "https://news.ycombinator.com/item?id=49940260",
+      "author": "arli_ap",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-03T00:30:28Z",
+      "object_id": "49940260",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
-  "total_hits": 6,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-10-02T21:11:07.745406+00:00"
+  "fetched_at": "2026-10-03T00:37:18.405746+00:00"
 }

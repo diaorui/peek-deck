@@ -5,38 +5,18 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Rises for Third Straight Week on Strong ETF Demand",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1lPMTdTY2JpRzhkQlhWT1RzN0JfU0tHWEJfaVJndUtyc3gyWEtiVm0zLTZXRVZ4UmRZSXBvV0J1UVppbkpJMmd0b2ttTDVSaUF2dFVJOE5DVFE1Ykx2MFhWcGtYU2Q1LWVwWXRqWFl4dVZVcDNGN1ptVVVOWEJ1T3lEb3FJdzhzS2JQeTRTdUdtVGMxZjgtazk3S3N1X28ySGZIZGF2M2FNNUhTbHc?oc=5",
-      "pub_date": 1790940806.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin edges higher ahead of U.S. jobs report as global bond yields surge",
+      "headline": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0ZoRmJ0eGl0LUYwODFZVTktTF9HQTBSdmV3d2g5OEpKWEwxeTNrY3FOYnVYOU1RX1lySjFDVFJack1IYlYtNVlybnlNdUZRV2h6eVN2emdKUWRyLWhBdk1wZFVrVW9MLUNxRFpHM1JjNEZCa1dKSlN1TDIxSjB0SlI1RTFQU3NpVldOeFdxc3NQY212T2c?oc=5",
-      "pub_date": 1790928714.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/705735639a0b6346c5f13b5330dd574c2aaf87d2-1200x760.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Bitcoin is up roughly 3% in October as traders await September\u2019s jobs data, while rising bond yields, a stronger dollar weigh on broader markets."
-    },
-    {
-      "headline": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUThTZGJqQ3ktY3RLV1Y4NUJxenZVZU9rTldUV2VZX2E2ZXdydm9fTUV3ZXRybk15czd1VVVyTHBNZkt0d09ZcGNtR05nUmF0SXBSeHNOeDY3TTFFeTY2MFFNNk5vM0tKYTZjY2dJdzlzZDJjYzJaRWtHNnBVa0tyemd6S1EzQnk3OXJrNFhBcE16Y0MwY3VsalpGcnY4QQ?oc=5",
-      "pub_date": 1790959552.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-heads-higher-macro-moves-164552302.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bf2d158ca812d0fa0d0d8c3930e74ac7572365d665fa8c07c3d89b2cb2b3885c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F4adfd173a178c316e61f3655b13a54ba.png",
-      "description": "A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling."
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGE3Vl9KS2FUUHFmbUFyelBNY3k4ZElkME1DMzNQSnZPQWlLZ211b0Y4eUlTaDVRWFh4VVplWE82Um1QLVptbXBFdmV3Z1RldTBHN1lTUTUyZHB3S04xU1pJOGJfLXZMZldZR2kyWThWMVRVTld3R1p3NzlCYWNTRkJ1N1FaZmxRd2c2Sy0xb1Y3R2tlRk54aG9mcDkyeDR0azRETXRaY1JROW5ET0hQWWNySlNvT0gyeEE?oc=5",
+      "pub_date": 1790937076.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f7db8efec882b601432e8971478c5f4bf5e2436-1864x1022.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk."
     },
     {
       "headline": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NZd1VreThJTktZRzdSdWt3Y01Ha3VyNzlJSGkteHd1MXZXVllPek40bU9mbnZiZ0huR0ItVkZ4NGdsd0piVURwUTU1bnVVamJ6SEcxQklzSnBBTkNFTmo5eWJVNUx3VEd4ck12bUdmQV9QN0VNS1JnOFI2SmRmNVRuRjlTdFZLUDYzOTRORkxvbUNsNi1iNA?oc=5",
       "pub_date": 1790920800.0,
@@ -45,24 +25,34 @@
       "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000."
     },
     {
-      "headline": "Why bitcoin may be at an inflection point",
-      "source": "CNBC",
+      "headline": "Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter",
+      "source": "cnbc.com",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFFObXY0dURFS3NYN0JqdVh5OW5FQnJIX1JiWk1QUXpYdGl4eHRmUEZZZFVORHRzdzBqNndpR2l2bEZNTlNITVhwQ2pWOWVPVXVqZVBSX25PQThUS3BUdUd2NkJ5cERhT3V6MEtzTmVQczNnTHV1N1BvRHRsNTVYTVdxdTJ2M19jTHpxZg?oc=5",
-      "pub_date": 1790971750.0,
-      "article_url": "https://www.cnbc.com/video/2026/10/02/why-bitcoin-may-be-at-an-inflection-point.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108372112-17909715721790971570-48750450205-1080pnbcnews.jpg?v=1790971571&w=1920&h=1080",
-      "description": "CNBC's Tanaya Macheel joins 'Closing Bell' to discuss why bitcoin may be at an inflection point."
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2tHTjZ1aGt2ajdtamg0MGhuaW9mXzZaWUNYQkE3ZU5Gb3pIemdkN1Jaa0VfUkdZbHg0Wi1WNlhZR29BWF9hRFl0eTQ5RFVGMC1ZVWJycmtZQlhnTjd4VjI4M091VU5KVWpVRUU0WFVYOWZibEIydWl1ZktzeDk1Q2c2QVFYTEpyclpodXpoQnp3VjFqQkx3Q0tpbFd2Rlc4S3FRU2p3amQ5U1pVWnU3UUJyQ2F5YzBhVzFXNGlqQ29nZ1BKMDQ1MQ?oc=5",
+      "pub_date": 1790953046.0,
+      "article_url": "https://www.cnbc.com/2026/10/02/bitcoin-just-formed-a-golden-cross-pattern-the-crypto-is-setting-up-for-a-big-fourth-quarter.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108346110-1786034894698-gettyimages-1366240594-dsc01744.jpeg?v=1786035046&w=1920&h=1080",
+      "description": "When looking for best ideas for the fourth quarter nothing jumped off the charts to me \u2014 literally \u2014 like bitcoin."
     },
     {
-      "headline": "Bitcoin Doesn\u2019t Pay Dividends, So How Is This ETF Yielding 25%?",
+      "headline": "Community banks sue US regulator over crypto firm charters",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3M1NUpPd3A1WnBjS3FSeDhuQ3d6aC1BdUZNNml4U1JLX1RaWkJ3Y0xhRHhwb01TNUhOTjlxZlhWWXN2MG5EbkpZbXNZR2haU0F1MVJXR0o4cnhHNnpiOUNnY296aXRUOHI5a3l5MXIyYXMxb2RZOENNdTdveVJTRldXYUw3Um5kTGswMl9XNFFMTzNRMGZzaDE3dDlvdkNuYnc?oc=5",
+      "pub_date": 1790976502.0,
+      "article_url": "https://www.reuters.com/world/community-banks-sue-us-regulator-over-crypto-firm-charters-2026-10-02/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "USDT Is Returning to Bitcoin After 10 Years. Should Users Care?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXlMRURMZVVMVkNVNXNnbUhSWjA3MzRvUFAtQXlFelVaOXZod09GRVVIX3hPckhrZk5JX3Y5RXBlY2lwYW9CN2VIMDdPRGZWZloyOS11VGY5eWJzejVkQ2JsYWExVGN0aEdKLXl2c3lCRk93c1hzcFFxZ2VLTVZuN2tYX0VYTk5ZMlRRNE16VWEwYkNYalZ1YVR3?oc=5",
-      "pub_date": 1790882670.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-doesn-t-pay-dividends-192430953.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3c2e1075029c922222095133b1d806f7245f8f868ff1fcd42095c0dffe1f66a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F74af18c0fc0dbe40a286a9f7e4c510a1.jpg",
-      "description": "Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWZrQ1VFbWF4am04OUZYWDRJc2tkLVlUemZVWUNJUmxUZXhlamluWl9hVXVvVzhONjdsNTBPV0xHR21JQlkxTFc1Yjdyc3hjXzlXUVowa0RWZzVybXU4R1JsY0lmRkRoN3FjTmk0WDYyQXNvZmlCUDhGMzZzbC1SSEd6TDJyUmR1QkhmMEZiVmo5cVVhd1hmLWZ4MGo?oc=5",
+      "pub_date": 1790947559.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/usdt-returning-bitcoin-10-years-132559354.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/78ec65ffce457f8e99f33c4dcef5eee9f238fe127ed195ff77b1861685910f43/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F1e6616c8775a8b3b0a8d25bbe3acd563.png",
+      "description": "USDT is returning to Bitcoin with private payments. Here is what changes for users, and whether Tether can still freeze it."
     },
     {
       "headline": "Block Launches Its First Ever Bitcoin Consumer Advertising Campaign, Making the Case for Bitcoin as Everyday, Usable Money",
@@ -75,12 +65,12 @@
       "description": "Campaign spotlights how Cash App, Square, and Bitkey make bitcoin use simple and seamless."
     },
     {
-      "headline": "Citi raises bitcoin, ether forecasts on strong crypto activity",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5",
-      "pub_date": 1790844776.0,
-      "article_url": "https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/",
+      "headline": "Bitcoin Rises for Third Straight Week on Strong ETF Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1lPMTdTY2JpRzhkQlhWT1RzN0JfU0tHWEJfaVJndUtyc3gyWEtiVm0zLTZXRVZ4UmRZSXBvV0J1UVppbkpJMmd0b2ttTDVSaUF2dFVJOE5DVFE1Ykx2MFhWcGtYU2Q1LWVwWXRqWFl4dVZVcDNGN1ptVVVOWEJ1T3lEb3FJdzhzS2JQeTRTdUdtVGMxZjgtazk3S3N1X28ySGZIZGF2M2FNNUhTbHc?oc=5",
+      "pub_date": 1790940806.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand",
       "image": null,
       "description": null
     },
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Bitcoin jumps 42.9% in Q3 2026, leaving gold and stocks behind",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjBNbjEzSjNCRThlWmlSeUg2UDRNRWFYZ0JST1JDYkNaMEJoQWFsTFMwY0k4aVpqbVBYUTU5bXhKV09HOFN5b2ItZ1NYQ0RQYnQ1dHc1bkw1bWVieDhJTndQcjZaRWpZb0wteE1VdlBvbUlaY09sb2t4T2RLUHJxTV9Ic0trX2t6NExoZnowMHRpWUNXTGp5SzREMFhxNHMtOEFNRnlYQW50V2wtcE5mSnduRVNzRGZpdms5UW9wVmdKbWM?oc=5",
-      "pub_date": 1790965545.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:6c750f1d4094b:0-bitcoin-jumps-42-9-in-q3-2026-leaving-gold-and-stocks-behind/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin gained 42.9% in the third quarter of 2026. Gold, stocks and nearly everything else spent the same stretch looking on from a distance.The rally ended a three-quarter losing streak. It also gave Bitcoin its best third quarter since 2017, which is a long time to wait for a summer worth remembe\u2026"
+      "headline": "A Wall Street Giant Just Flipped On Bitcoin\u2014Issues Huge 2027 Price Prediction",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWsyTDZCOEF5cDNXblhTTzl6WHRZazBVRTAzX252ZEVvOEhSNVh2WHF0eElaT0hMYTJDWFYtWHNzOC00eVhQU0RaWXEtMEhmdkFFRXFhQVBpU296S1hGYXBjQzZYLXNQaE10NkJmY2Jra25CYU5yQTJPWHpIaHpaaDVMbzBnNG1RaklkSjdiTUlYZUdETDZCSW1mcDFOcGd1cTFZbnF1M0hRVXlzUHhjZVFudm9xZ1pYWHRfY0ltSTBld2RESmc?oc=5",
+      "pub_date": 1790941073.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/02/a-wall-street-giant-just-flipped-on-bitcoin-issues-huge-2027-prediction/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXVyV1hLMWtBRjJxRV94bGU3UnlGR0syU0lUYUhkTXhxOUdQTExXbU1TcE1pcVprRXNXTms0TUJHenh2T2UtY3J1QWJmcWFjMGFacTdQLTNpZVNDVXQxc3RDakctNTY2ejU5Z29YTlMwS3RYMkRvbTk2X2tMaVh5Y0hOaHZ1aDYwd0JLRlltYUNaeFhQV0pYQ00yQV9TVU95dlN6UjBKamh3NWViVWN3WTkzWWt4TWRqZUF6ZmQ5YXZMUzdiOFZKNA?oc=5",
+      "pub_date": 1790963586.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/02/Ethereum-Eth-amp-Ripple-Xrp-Coins-With-C.jpg",
+      "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T21:11:30.282443+00:00"
+  "fetched_at": "2026-10-03T00:37:41.299612+00:00"
 }
