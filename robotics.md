@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-02T21:11:45.863491+00:00'
+updated: '2026-10-03T00:37:42.936270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 02, 2026 at 21:11 UTC  
+**Last Updated:** October 03, 2026 at 00:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Continuing to move from using the model directly to having the model write reliable control code. The goal here is to pick a small part from a random pile, with the right side up and with precision. Once we have this skill, the next use becomes much faster. Model can adapt it for another part or for screws/nuts. A box with defined mounts and consistent lighting helps computer vision work reliably.
 
-1d ago
+2d ago
 
 ---
 
@@ -82,7 +82,7 @@ What is the difference between building in functional safety early on vs waiting
 
 **[Testing the arm joints of my MK humanoid robot! 🤖⚙️ Another step in the development of the MK Robot. More upgrades and testing in going](https://www.reddit.com/r/robotics/comments/1wul97j/testing_the_arm_joints_of_my_mk_humanoid_robot/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -112,6 +112,28 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
+**[Watch these defunct humanoid robots go full Terminator and dive into molten steel](https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal)**
+
+An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
+
+Mashable • 5h ago
+
+---
+
+**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
+
+The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+
+Business Insider • 8h ago
+
+---
+
+**[The U.S. can’t find enough of this critical machine component to win the humanoid-robots race](https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571)**
+
+MarketWatch • 7h ago
+
+---
+
 **[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
 
 What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
@@ -120,47 +142,11 @@ Anthropic • 2d ago
 
 ---
 
-**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
+**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
 
-The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
 
-Business Insider • 5h ago
-
----
-
-**[Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration](https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel)**
-
-A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel.
-
-Futurism • 6h ago
-
----
-
-**[F.02 Decommission](https://www.figure.ai/news/f-02-decommission)**
-
-We love Figure 02. It is an incredible robot.
-
-Figure • 2d ago
-
----
-
-**[Humanoid robot fleet decommissioned in wild Terminator-style leap into molten steel](https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel)**
-
-Figure decommissioned its F.02 humanoid fleet by training the robots to leap into molten steel in Finland.
-
-Interesting Engineering • 1d ago
-
----
-
-**[The U.S. can’t find enough of this critical machine component to win the humanoid-robots race](https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571)**
-
-MarketWatch • 3h ago
-
----
-
-**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
-
-The Hill • 3h ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -170,19 +156,33 @@ The New York Times • 1d ago
 
 ---
 
-**[In Robotics, Google Goes Android to Tesla’s Apple](https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple)**
-
-While interviewing Google’s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ...
-
-The Information • 23h ago
-
----
-
 **[Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?](https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/)**
 
 Here are three robotics stocks that could turn the automation boom into real business growth.
 
-fool.com • 10h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’](https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/)**
+
+Forbes • 3d ago
+
+---
+
+**[A Faraday Future robot drew the most attention at a robotics conference](https://www.stocktitan.net/news/FFAI/faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-ww9129av9p2e.html)**
+
+A non-binding term sheet contemplates combining FFAI’s robotics assets and businesses into AIxC at an estimated market valuation of about $200 million.
+
+Stock Titan • 16h ago
+
+---
+
+**[Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)**
+
+"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
+
+TechCrunch • 2d ago
 
 ---
 
@@ -190,53 +190,23 @@ fool.com • 10h ago
 
 ## YouTube Videos: "robotics"
 
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+
+📺 AI Revolution
+
+👁️ 2K • 👍 145 • 💬 18 • ⏱️ 13:23 • 1h ago
+
+---
+
 **[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
 
 Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
 
 📺 ejunky66
 
-👁️ 76K • 👍 1K • 💬 98 • ⏱️ 1:00 • 11h ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
-
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
-
-📺 Innovation Core
-
-👁️ 216K • 👍 1K • 💬 141 • ⏱️ 21:02 • 3d ago
-
----
-
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
-
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
-
-📺 World Best Talent
-
-👁️ 1.9M • 👍 8K • 💬 592 • ⏱️ 25:31 • 6d ago
-
----
-
-**[Robot-Use Agents: Why General-Purpose Models May Win in Robotics](https://www.youtube.com/watch?v=Jv5B5CEaPJI)**
-
-One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software.
-
-📺 Y Combinator
-
-👁️ 66K • 👍 461 • 💬 14 • ⏱️ 29:49 • 6d ago
-
----
-
-**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
-
-The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
-
-📺 Future Files
-
-👁️ 987K • 👍 5K • 💬 189 • ⏱️ 24:25 • 6d ago
+👁️ 121K • 👍 2K • 💬 103 • ⏱️ 1:00 • 15h ago
 
 ---
 
@@ -246,27 +216,27 @@ Meet Phantom, the robot Foundation Future Industries says could be one of the fi
 
 📺 NBC News
 
-👁️ 50K • 👍 285 • 💬 231 • ⏱️ 12:24 • 1d ago
+👁️ 51K • 👍 298 • 💬 239 • ⏱️ 12:24 • 1d ago
 
 ---
 
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+**[America&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=KbXCK1NIjdw)**
 
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+The United States has quietly become the center of a humanoid robot revolution, and most people have no idea how far it has ...
 
-📺 Boston Dynamics
+📺 Future Files
 
-👁️ 679K • 👍 8K • 💬 992 • ⏱️ 5:49 • 2d ago
+👁️ 997K • 👍 5K • 💬 189 • ⏱️ 24:25 • 6d ago
 
 ---
 
-**[These New Female Robots Just Unlocked NEW ABILITIES](https://www.youtube.com/watch?v=Lne4k8uPUuI)**
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
-Something shifted this year. The demos stopped being about walking without falling over. Now it's fine motor control, reading a ...
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
-📺 AI Exposed
+📺 World Best Talent
 
-👁️ 54K • 👍 339 • 💬 26 • ⏱️ 16:27 • 6d ago
+👁️ 1.9M • 👍 9K • 💬 615 • ⏱️ 25:31 • 6d ago
 
 ---
 
@@ -280,13 +250,43 @@ Hi, welcome to the wonderful world of "Barbin.ili Barbie"! ​ Here, the fantasy
 
 ---
 
-**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
 
-Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
 
-📺 ejunky66
+📺 Boston Dynamics
 
-👁️ 167K • 👍 2K • 💬 174 • ⏱️ 1:00 • 5d ago
+👁️ 689K • 👍 8K • 💬 993 • ⏱️ 5:49 • 2d ago
+
+---
+
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
+
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
+
+📺 Innovation Core
+
+👁️ 217K • 👍 1K • 💬 141 • ⏱️ 21:02 • 4d ago
+
+---
+
+**[These New Female Robots Just Unlocked NEW ABILITIES](https://www.youtube.com/watch?v=Lne4k8uPUuI)**
+
+Something shifted this year. The demos stopped being about walking without falling over. Now it's fine motor control, reading a ...
+
+📺 AI Exposed
+
+👁️ 55K • 👍 342 • 💬 26 • ⏱️ 16:27 • 6d ago
+
+---
+
+**[Robot-Use Agents: Why General-Purpose Models May Win in Robotics](https://www.youtube.com/watch?v=Jv5B5CEaPJI)**
+
+One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software.
+
+📺 Y Combinator
+
+👁️ 66K • 👍 464 • 💬 14 • ⏱️ 29:49 • 6d ago
 
 ---
 
