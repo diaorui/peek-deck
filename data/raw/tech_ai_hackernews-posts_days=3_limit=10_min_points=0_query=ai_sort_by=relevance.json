@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49924618",
       "author": "stabbles",
       "points": 195,
-      "num_comments": 250,
+      "num_comments": 256,
       "created_at": "2026-10-01T17:32:43Z",
       "object_id": "49924618",
       "image": null,
@@ -51,8 +51,8 @@
       "url": "https://mondobe.com/ai-makes-me-sad",
       "hn_url": "https://news.ycombinator.com/item?id=49934487",
       "author": "mondobe",
-      "points": 172,
-      "num_comments": 200,
+      "points": 179,
+      "num_comments": 214,
       "created_at": "2026-10-02T15:18:00Z",
       "object_id": "49934487",
       "image": null,
@@ -61,12 +61,26 @@
       "site_name": "mondobe.com"
     },
     {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "hn_url": "https://news.ycombinator.com/item?id=49933740",
+      "author": "PaulHoule",
+      "points": 164,
+      "num_comments": 80,
+      "created_at": "2026-10-02T14:11:24Z",
+      "object_id": "49933740",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+      "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "site_name": "Ars Technica"
+    },
+    {
       "title": "Responsible Release of AI-Generated Mathematics",
       "url": "https://agmai.org/general-sep29/",
       "hn_url": "https://news.ycombinator.com/item?id=49903713",
       "author": "aureianimus",
       "points": 121,
-      "num_comments": 213,
+      "num_comments": 228,
       "created_at": "2026-09-30T02:36:12Z",
       "object_id": "49903713",
       "image": null,
@@ -89,20 +103,6 @@
       "site_name": "turkeyland.net"
     },
     {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "hn_url": "https://news.ycombinator.com/item?id=49933740",
-      "author": "PaulHoule",
-      "points": 99,
-      "num_comments": 31,
-      "created_at": "2026-10-02T14:11:24Z",
-      "object_id": "49933740",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
-      "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "site_name": "Ars Technica"
-    },
-    {
       "title": "An AI sovereign wealth fund isn't progressive \u2013 it's techno-imperialism",
       "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
       "hn_url": "https://news.ycombinator.com/item?id=49921051",
@@ -121,8 +121,8 @@
       "url": "https://www.nber.org/papers/w35655",
       "hn_url": "https://news.ycombinator.com/item?id=49936725",
       "author": "bko",
-      "points": 82,
-      "num_comments": 23,
+      "points": 85,
+      "num_comments": 30,
       "created_at": "2026-10-02T18:14:29Z",
       "object_id": "49936725",
       "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
@@ -135,7 +135,7 @@
       "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=49922736",
       "author": "cgeier",
-      "points": 77,
+      "points": 78,
       "num_comments": 28,
       "created_at": "2026-10-01T15:11:10Z",
       "object_id": "49922736",
@@ -145,7 +145,7 @@
       "site_name": "openid.net"
     }
   ],
-  "total_hits": 751,
+  "total_hits": 739,
   "has_metadata": true,
-  "fetched_at": "2026-10-02T21:11:08.378750+00:00"
+  "fetched_at": "2026-10-03T00:37:17.122394+00:00"
 }
