@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI Agents Aim to Change Shopping. Some Retailers Are Locking the Doors.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1hYWC1UbWx5b2wtdnAtOE9ZS25TLVNaWUFUdElpUExGMFBrbnh4cklQRTF2a3pmVjdfemFRTkM5dzZvRzVwX0w2WGd4dmZLZnlVaVhOYnUtVVljc21ZT0JkUFVhWVpKRGZvS1JZRHM2VGo2YTRnYW9RVkg2U3dGb3U4bnlDRWtvZ05PTExXcjNMS2d0M3ZVbjhlemZENXNmVHloVjZBT1k0WndS?oc=5",
-      "pub_date": 1790935200.0,
-      "article_url": "https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4",
-      "image": null,
-      "description": null
+      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHNCbTdmU3c0TXd5dm9oeTZiV1FFR1U3NVdacUdyN0JVRzJvSmpWSTBnNzA1Rnpad0NyVGZJNEZGRU4ybGZSX3hwcVhuQmEyMEpKNG1wVG5xTUtXMlY5ZUViaFQ3bUVGZUdwejJYMFp2Rko3eUxpdUJ4dVh5bFZ0RlNXZi0xU1h4MFZSSG01R05BbW05SGFzT2diaVNaM2p6UjB5ejRNa2laTHJmbDdNXzVCMA?oc=5",
+      "pub_date": 1790982196.0,
+      "article_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
     },
     {
       "headline": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
@@ -25,86 +25,86 @@
       "description": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier."
     },
     {
-      "headline": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEpCUDhoOXZGM2Rpc2tIdHZTMWNBTW1lSjJScno2dmhVMjhseXdNbFV0NlNmSUN0blRoUE5YamtKUkpmN1NWaXFRazkwWUhOckE3Y1lTRllPZUhmZ3R2a3lUeVNLTmRfRzVIQmZOb2VhQl9ITXdVcUdoc2xPZlJENA?oc=5",
-      "pub_date": 1790971720.0,
-      "article_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Apple isn\u2019t taking AI security risks lightly."
+      "headline": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkxQOVRxbnlsdHQ1RGM0TVNZLUF1bGVqQ2xlUnpGZHJFQ3dZR05tMjZOVGRmTm9XblhYdXg0U0pFTTF0UXNWb0pGTGdRY0hPd2tadk9vSmdRdkFCNWJjLXFhZDFJSzBOdTc2UkVXeTFTUl84cmVvVUdib0lWMS1uc3huRzdEdGdjeV8xbA?oc=5",
+      "pub_date": 1790983243.0,
+      "article_url": "https://www.foxnews.com/live-news/openai-rogue-ai-warning-hugging-face-hack-10-02-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/37865b163fcdd54503acbab5870d98d8.jpg",
+      "description": "OpenAI said this week that in some cases, their models used the internet in \"unintended ways\" or did not have the \"ideal restrictions\" in place to stop them from hacking out of sandbox test environments."
     },
     {
-      "headline": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMi16cTNZMjkxTF9idnl4aWhCSFExUG1uRm9INEJQT2JVM3h0bGRJUk9NaUtWRl9ZMHBmTl9QOE55OTN4NzRGNXd3dUJEbzA5UThHTXg2X2Z5aTE1UXN6QjdCUkN5VWdWQlpIeG1FV01lcUljU0lzYUdmUFUybWJMV0VaTUh0SndaOXdV?oc=5",
-      "pub_date": 1790900100.0,
-      "article_url": "https://apnews.com/article/arizona-ai-video-victim-cd1ca553c7fa80c6698d7f97b51b1edd",
+      "headline": "Analysis | When you should use Google\u2019s AI for search \u2014 and when you should skip it",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUxoSmFjZ3BDaWd5R19PNEU5WVdfdXhIeE9JTTZTdHNFQ0xINld4aEE2VFNiZ28yVEJyMFBxVlloeGZxb1FnODNZSTlWNmlhUUFxSlMtbFhqRVFfVnFfUDNaUktqdFZOaDduaW9CeEQ5bHEwTUZIWG1UUlBFd2NaYy1YWnBickdKYXhaZzExM3RIZk0zandyQTQ1MWxtbF9jTTQ0T2Ytby1wdVFYbnBqX3pHYnVJQQ?oc=5",
+      "pub_date": 1790956800.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/10/01/when-you-should-use-googles-ai-search-when-you-should-skip-it/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HSJXOGNGKRGCFCE34WT5WDE67U.jpg&w=1440",
+      "description": "If you\u2019re only looking for a specific data point, scroll right past \u201cAI Overview\u201d and other search results"
+    },
+    {
+      "headline": "Watch Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHlLSDJhdmsyYmYwMFJrSXhtTHh3aGpyR2U2RkYzLVdqMzc3Sm1rYUtHRlhMU0w1S3FBZF95dU5UbDY4MGhtM3pKbkNOS3NnRFpVTXd4X3FIOVIybUpXNmZyZmRnRUJZUXo3T1ozUi1FQVFRZklPOWxDVVMzcHVsaktqSEpUY2Q0Y3U3MGtmRlhjc3Z6emZGS21Td1MzUUJzMVd3RGVQTQ?oc=5",
+      "pub_date": 1790984500.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump likely to pick Jay Clayton for AI czar, sources say",
+      "headline": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaldseExIVE9TcngwcklZeGpVckV4XzhfSzhNRE9FVlFnQWt0dVp6b3pLRXVqQmE4T21KbW5sTVdoejVyRlF6bXlzbTZveUhGejlLZ3g2VzNGd3hwaGQzU2pfc3p6ZFEtUWl0Y2hnS19raVkyNzhrQlEzd1RwS0haQUI1QQ?oc=5",
+      "pub_date": 1790758848.0,
+      "article_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Video: Google Tests Plan for A.I. Data Centers in Space",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZxZnZYRWlscGFYTWktWVRiM0cyWmJVWjU1ckJMT3dVN3VhMmZ4cHdlRF9aSngzUUZHdXRyNTg0bWxDX0hSNWY3RHhsaklVZi1Nb2RlMG81aUY1XzRmVmNvNnJQdWR5ZDcwSmFlczFaTzdtaTVvbGVIc2ZOSHdzRFQwTER4RjlkZGRQYVEwVFZUeEt0U2s0dmZ3dWVjUWpjRGR5OS1Jd0xTX3ZSaWNsa2lXbHpTR0U?oc=5",
+      "pub_date": 1790984827.0,
+      "article_url": "https://www.nytimes.com/video/podcasts/the-daily/100000011191505/google-tests-plan-for-ai-data-centers-in-space.html",
+      "image": "https://static01.nyt.com/images/2026/10/02/podcasts/the-daily/Clean-Thumb-2/Clean-Thumb-2-facebookJumbo.jpg?play-overlay",
+      "description": "The Times\u2019s technology reporter Kate Conger joins host Natalie Kitroeff on \u201cThe Call\u201d to watch the launch of a SpaceX rocket carrying a Google satellite designed to test space-based A.I. data centers."
+    },
+    {
+      "headline": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15RnVWdmszU0I4c3VVYzROSTQ2bEpoZ3RpRlBPTkZ3UUVMaDNpRUctOU9rTVNDUXNzT2l4b0xMdXlZRDdOM2lHTEJUaTBCUzdkdl9TSlMyMEVEZmRLTnl6NTJhZTFqT3NtYV9KNWotVTQ2X2VDUndIYlp3ZHBKZVk?oc=5",
-      "pub_date": 1790903220.0,
-      "article_url": "https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg",
-      "description": "Jay Clayton will likely be the White House's pick for AI czar, and the Trump administration has been discussing having him remain in his current role as director of national intelligence, according to sources briefed on the matter."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
+      "pub_date": 1790962930.0,
+      "article_url": "https://www.cbsnews.com/news/amazon-1-billion-data-center-investment-ai/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/5bbcf404-e4ed-4e39-8266-504fa36541a0/thumbnail/1200x630/58f86c5105f3d5daa4868a7987a3f9ce/gettyimages-2278507800.jpg",
+      "description": "Amazon said it will invest $1 billion over five years to support job education, energy affordability and other priorities in communities where its data centers are located."
     },
     {
-      "headline": "Trump to Name Jay Clayton to Serve as A.I. Czar",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjZqNkowM3k3WElwUVRaWjcxWGxPR2hBaTh0dzVtQ092LUM4NHFHWDU1X21zUEZYX3NobkhFSXJmS1FZWHBEOEFCNjZMaHgxUURwWXdwd0NOZF9LQnloaUFUaXh5VzhZOW5HSkpBMzUydEktbXFqZXNQSk83aWNlcDhWVQ?oc=5",
-      "pub_date": 1790956624.0,
-      "article_url": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html",
+      "headline": "Inside the U.S.-China battle to lead the AI revolution",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnVHNjdnNU56OUtldEM0THRXUXBYRGhZazJidE5DYjVweWdZNmxiVHJDWVcyNjhXaXpLbl8xclZfT2p1eXhYQXFFUVZ3LXZobFhHRGd0UDB6dGFBdnh1OTRmSVVWU05iMk1CcGNEMVd5R0RmaU9rZXJ4Q090eHhfdkdKMFVmZ3lJM3ZfTFZLOXNHMW1CbHlWdXRrRE9CbGVfTTg3cHowU2g3ZW9mNWRYeA?oc=5",
+      "pub_date": 1790983807.0,
+      "article_url": "https://www.pbs.org/newshour/video/compass-points/2026/10/inside-the-u-s-china-battle-to-lead-the-ai-revolution",
       "image": null,
       "description": null
     },
     {
-      "headline": "Who Was Missing From The White House\u2019s AI Power Summit? Women",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWJla3RLOXpmeVM5WC14djVLY0xXZmt2Q3ZNSEpJTXZwcjRyVWtHdDBYeF9aVGVnYk9xRHlxRURTS0VrQVYyd3VVdnAwY1o2X1hXbDMyREtaWkhBNENmV2FJTXMzY0JSUm9aZWc5R3dXT0hhLVBPZktwWWJZbVpMSUt5RFZCR2J4enBUcldyNENKRnV1QWJqY2F3SVJ3eWJ0b3g3ZjFHb09Wb1Q0TGFhZXZB?oc=5",
-      "pub_date": 1790970026.0,
-      "article_url": "https://www.forbes.com/sites/kimelsesser/2026/10/02/who-was-missing-from-the-white-houses-ai-power-summit-women/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SPCX Stock Climbs As Three Thursday Launches Meet Start Of Google\u2019s $920 Million AI Pact",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0YzRl9SbDgyWFFrWHpGZEk1RTFWY1lsZmt2U0Jmc3ZaUVVnUHdVQzN2b3VmVmZrN0pzLVNpQkwyQVNreUVYc00zNzBhTW12b0RTdk1XSHY3SnREMGtXNTA5NzkyckpFeE1fSEZHVkFEQzB5VEgwZFdsdkMyMjJYQnFRbkxNY0lkaHhBM0lmcXBjb3hZa01TSDZSYUpIdw?oc=5",
-      "pub_date": 1790971358.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-climbs-three-thursday-200238930.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a14f6f4a5d206ffdbc04ad297bcd9c10ffe0f74249d60a9d485f69973c562b96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F69cdd4a186a4af341f77bf26fecf22bd.jpg",
-      "description": "Over roughly 13 hours starting Thursday, SpaceX flew three missions: NASA\u2019s Crew-13, Transporter-18, and NROL-97."
-    },
-    {
-      "headline": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5",
-      "pub_date": 1790931823.0,
-      "article_url": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Agents Got Cash to Trade Stocks. Here\u2019s What They Bought and Sold\u2014Repeatedly.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRENKMEhaeHRrd0RNVXdCT3d6Qlhwb3RqTmdwbndjaVdBU1NNWVl4RWFmY05BNUVEWUhTMHA1SzBCOXJUMTF1NFR1U2RzVVhVai15eDI0eEVaSWZkaHBtT1ItZElHQU96b3Y2Q1J6RGw4dlRuNUZHOVFLNkJja1NfeFZEc21pUQ?oc=5",
-      "pub_date": 1790967900.0,
-      "article_url": "https://www.barrons.com/articles/ai-agents-stock-trades-chatgpt-claude-25fcc8c2",
-      "image": null,
-      "description": null
+      "headline": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+      "pub_date": 1790982060.0,
+      "article_url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&backgroundColor=heather",
+      "description": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic\u2019s own \u2014 a $100 million commitment to train 10,000 by the end of 2027."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T21:11:43.638056+00:00"
+  "fetched_at": "2026-10-03T00:37:41.299290+00:00"
 }
