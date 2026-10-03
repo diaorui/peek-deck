@@ -5,54 +5,24 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Can we predict the jobs robots will do?",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
-      "pub_date": 1790784060.0,
-      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
+      "headline": "Watch these defunct humanoid robots go full Terminator and dive into molten steel",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDhQbzhZRXR2QXp5TjR2NkFGS2h5dXhnWnJneldfS1ZYaDdGWV9aTDAtaHVOYzJUS2tDV19KMmgwUFE4ZHZZamw4Z0JiVVgxdDlXSGNoUkZwVHVZUEJkdlJDemlRdWdjdl9GZ0dDSEhha2haQUFLSmxFWFZPZnppQQ?oc=5",
+      "pub_date": 1790967606.0,
+      "article_url": "https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal",
+      "image": "https://helios-i.mashable.com/imagery/videos/038Kvs4RzvYyhuwCANqB7ZH/hero-image.fill.size_1200x675.v1790964762.jpg",
+      "description": "An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild."
     },
     {
       "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
-      "pub_date": 1790955540.0,
+      "pub_date": 1790955607.0,
       "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
       "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
       "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
-    },
-    {
-      "headline": "Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSU1nRmxGSnRxZFo0QS10bHlLMDE4QU5tWDlWZmFlLUNILUxpemt2VHQwU1pnRXVpc2dTYkZ1cXR5cW0zbTVMTjd2VzJOTFVFOHk2Qk45ZEw1UnNuNHVyVm9PN3p5U2NHaFRhVWVMVEY2VHBjbTZzRXhWWHA1UGNORl94SG9DU0F1cThJOHVOQ2hpQQ?oc=5",
-      "pub_date": 1790952757.0,
-      "article_url": "https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/horde-humanoid-robots-hurl-vat-liquid-steel.jpg?w=1200",
-      "description": "A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel."
-    },
-    {
-      "headline": "F.02 Decommission",
-      "source": "Figure",
-      "source_url": "https://www.figure.ai",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KR3kxQ2pJRFktUWZBTWFnRDZla1BVV1NXN2lobTREM0JYdGp5XzNxUGZ4MmdaTThWUGVnUEVpVHhUc3FuMFdIcEdIbG9xWnJYeG9wekhrUQ?oc=5",
-      "pub_date": 1790754600.0,
-      "article_url": "https://www.figure.ai/news/f-02-decommission",
-      "image": "https://images.ctfassets.net/qx5k8y1u9drj/3z8U3LNpGgBX25Ki11etOV/12faccf9f1ba4cf39b0eec13808e53ad/OPEN_GRAPH_IMAGE.png",
-      "description": "We love Figure 02. It is an incredible robot."
-    },
-    {
-      "headline": "Humanoid robot fleet decommissioned in wild Terminator-style leap into molten steel",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3B4NXFaVFpBSVJtZFc0VU1wSFZrclUtck4wT3FWanUwdHBjUE85RUZ4ai1uNnU4clZ2VG91d2VNcVE5TFpnMkNSbXpMc3BabFFVNVVmbWo1M1BFMVBGNnlubDRTampFdHdIM3ZzbEQ3NE5tWU9aNGVUMEhVemwwWE5ETnpIX1lheHJsMGgxMjhXYVk?oc=5",
-      "pub_date": 1790807220.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-Design-2026-10-01T031736.233.jpg",
-      "description": "Figure decommissioned its F.02 humanoid fleet by training the robots to leap into molten steel in Finland."
     },
     {
       "headline": "The U.S. can\u2019t find enough of this critical machine component to win the humanoid-robots race",
@@ -65,14 +35,24 @@
       "description": null
     },
     {
-      "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the moon",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajNEc3Q4Ym1sUlF2U01oSS04MDZOWkYydjNwY2d0ejlMcERNT2I0UVJKUXViM0x0OTRSNjdMVEowMEJsbVBPVXo4al92MlZaeWUxRlU0VktEWGZYYUw5dnZhVVVwekJtREdMMlhSRUg4el8wNDZNQjVBVHRwNnBHVGJEakhIMzhJa3BqTWw1SGdONXdQYm9BRWNUMNIBoAFBVV95cUxOdUgwMWx1WU9qam9fc3A2Ynk2TGlLM1Y5UDVwWER5YzFPWklwZFd6T25qY2V2Ty0xUkZzNE1QRVREMlJ4YWtLWGxOczB2MEkyOHhKS2lveWxlVnpYODVFWF9IZ0U4bFhwQlBGZGxMSTMwM1k5OTc3MkR6VV95am52Rmh0OU82SExnelEyWjAyR3NfQjlaZENNaGU0dGNqZ1FU?oc=5",
-      "pub_date": 1790964240.0,
-      "article_url": "https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/",
-      "image": null,
-      "description": null
+      "headline": "Can we predict the jobs robots will do?",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "pub_date": 1790784060.0,
+      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
+    },
+    {
+      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
+      "pub_date": 1790958686.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
+      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
     },
     {
       "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
@@ -85,26 +65,46 @@
       "description": null
     },
     {
-      "headline": "In Robotics, Google Goes Android to Tesla\u2019s Apple",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVlHMWJKMEdEOW1mQ2x2MzBNMnYxOWtuWWlzN1hpRG84czBDN3RsdFVZdWZMWkh2U3ljcEtHUkt1X1NyZ0FkU1U3blJrN0xTb2tVQktoWkRHLWRRUTM5dkg5cTFXLXEzVzZRMGZqSUxQQ0tSN2VLNmMwZVg3OXdRUmdwRENFQ1k3YXItYWV3R01sWDJUOHV5YU12dw?oc=5",
-      "pub_date": 1790891400.0,
-      "article_url": "https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple",
-      "image": "https://tii.imgix.net/production/articles/17921/ac3b0183-2a4f-48fa-98ec-123565f26eea-cc8NvU.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "While interviewing Google\u2019s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ..."
-    },
-    {
       "headline": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBBQm5sQjBYemM0OUMzWjNNZVVYbnhVcGhDQll6OE40Q0pWMUFhMGQ5dVczdk9JZzktcUxXYzJHQVI5U3dZbktaSHNkYVp6MkNJVGRrc2J3WlNoaGlnOG1NVl93ZmgzN2ZUU0RxTFpWVkFpa2U3RE45TXpUZy11OHo5aE5ZUW5IdnY1b21jZ3g4cEh6NmRZbw?oc=5",
       "pub_date": 1790939400.0,
       "article_url": "https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888227%2Fgettyimages-2233368716-1.jpg&w=1200&op=resize",
       "description": "Here are three robotics stocks that could turn the automation boom into real business growth."
+    },
+    {
+      "headline": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be \u2018Optimized\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
+      "pub_date": 1790694988.0,
+      "article_url": "https://www.forbes.com/sites/zacharyfolk/2026/09/29/mark-cuban-doubles-down-on-criticism-of-humanoid-robots-says-personal-robots-will-be-optimized/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A Faraday Future robot drew the most attention at a robotics conference",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzlKZThKMXREZGZVTmNwLVpURFlZTzluRlZVbEJGNFJYRWVtdC1ieFg4ZEN5LWthbjlBT0ZfVmNkOUkwaDkteVFOS1A2SXBGZUg2NlJic0hpbzg2WWlhcEswLVhva3BNU296UzhQTzdwekRZejc1RXNNNWU4QU1uWFhKVXoyTHQ5SmpVcmVnOFE1ZXFvQWF5U2d6TDUwUldSbnktZzhSU3NaUzd2UU9SSWo2cDZPeGF4YWl5YndiYUQ?oc=5",
+      "pub_date": 1790929674.0,
+      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-ww9129av9p2e.html",
+      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Showcases_its_EAI_Robotics_World_2_0_at_IROS_2026_Its_Four_Core_Full_Stack_AI_Ecosys_1511755.webp",
+      "description": "A non-binding term sheet contemplates combining FFAI\u2019s robotics assets and businesses into AIxC at an estimated market valuation of about $200 million."
+    },
+    {
+      "headline": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlh2cHpGd1lZSFk0RkdhdTlRQ0xWREFSWllhSGZxczZ2M2tkemo1LTFGN2RXX0p6UWpXZkFRbkxZcS1ROFNDR2NWU1AzSWpMczZmbjRVSVlFSTJ3RFFtcERoR1kxRkJ6eUM1UFNrLTZmWER0NTJoVy1sNVhyakhYOVBTWGJ4RC1YdGIzZEVybGYzS3pDcHE2Q2pJd2JHZGIxd2NEMjJFYw?oc=5",
+      "pub_date": 1790784000.0,
+      "article_url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
+      "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-02T21:11:35.320315+00:00"
+  "fetched_at": "2026-10-03T00:37:38.589100+00:00"
 }

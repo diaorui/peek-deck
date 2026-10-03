@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-02T21:11:45.860302+00:00'
+updated: '2026-10-03T00:37:42.932990+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 02, 2026 at 21:11 UTC  
+**Last Updated:** October 03, 2026 at 00:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,667.39
+### $2,666.26
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -1.5%  
-**7d:** -1.2%  
-**30d:** +6.3%  
-**90d:** +49.3%  
-**1y:** -40.9%  
+**7d:** -0.5%  
+**30d:** +9.0%  
+**90d:** +48.9%  
+**1y:** -40.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $325.24B
+**Market Cap:** $326.55B
 Rank #2
 
 **Circulating Supply:** 122,098,690 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.1%
+-45.9%
 
 **All-Time Low:** $0.43
-+615084.6%
++617724.4%
 
 ---
 
@@ -156,27 +156,19 @@ ethereum.org • 1d ago
 
 ---
 
-**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
+**[Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down](https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down)**
 
-The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
+Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet.
 
-The Block • 20h ago
-
----
-
-**[Ethereum Crypto Presale Pepeto Announces Its Final Stages Before Binance While Cardano Price Prediction Targets $3.25](https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603)**
-
-DUBAI, United Arab Emirates, Oct.  02, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto has announced its crypto presale is entering its fi...
-
-markets.businessinsider.com • 1h ago
+Decrypt News • 6h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, October 2, 2026: Crypto prices surging ahead of September jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-october-2-2026-crypto-prices-surging-ahead-of-september-jobs-report-112959413.html)**
+**[Bitcoin and ethereum prices today, Thursday, October 1, 2026: Not much price movement this morning, but Citigroup says that will change](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-1-2026-not-much-price-movement-this-morning-but-citigroup-says-that-will-change-113313201.html)**
 
-Bitcoin opened at $84,849.93 on Friday, October 2, 2026, up 1.6% from Thursday's open. As of 7:25 a.m. ET this morning, the price of bitcoin jumped to $86,459.67. Ethereum opened at $2,705.58 today, up 0.8% from Thursday's opening price. The price of ethereum moved up to $2,747.05 as of 7:25 a.m. ET.
+Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,6 +180,14 @@ The Hacker News • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.tradingview.com/news/benzinga:c06a50342094b:0-bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative/)**
+
+Bitcoin CRYPTO:BTCUSD has pared gains from Friday morning trading, selling off $84,600 after a rally to $86,500 into a weaker-than-expected jobs numbers report.Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD followed the reversal, with social sentiment flipping sharply negative, according to data prov…
+
+TradingView • 6h ago
+
+---
+
 **[DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins](https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps)**
 
 DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
@@ -196,27 +196,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.tradingview.com/news/benzinga:c06a50342094b:0-bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative/)**
+**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
 
-Bitcoin CRYPTO:BTCUSD has pared gains from Friday morning trading, selling off $84,600 after a rally to $86,500 into a weaker-than-expected jobs numbers report.Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD followed the reversal, with social sentiment flipping sharply negative, according to data prov…
+The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
 
-TradingView • 3h ago
-
----
-
-**[Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down](https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down)**
-
-Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet.
-
-Decrypt News • 3h ago
+The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for Sept. 30, 2026](https://fortune.com/article/price-of-ethereum-09-30-2026/)**
+**[New Crypto: Pepeto Announces $11.16 While Ethereum Price Prediction Points to $6,000 and Traders Hunt the Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-11-16-while-ethereum-price-prediction-points-to-6-000-and-traders-hunt-the-next-dogecoin-1036593848)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Dubai, UAE, Oct.  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto announces fresh presale numbers this week: funding past $11.16 million, holders ...
 
-Fortune • 2d ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -228,9 +220,47 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Current price of Ethereum for Sept. 30, 2026](https://fortune.com/article/price-of-ethereum-09-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LfIbptPM1KM)**
+
+BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 543 • 👍 55 • 💬 11 • ⏱️ 26:47 • 40m ago
+
+---
+
+**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
+
+Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
+
+📺 Paul Barron Network
+
+👁️ 104K • 👍 2K • 💬 216 • ⏱️ 12:18 • 1d ago
+
+---
+
+**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
+
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
+
+📺 Crypto Archie
+
+👁️ 2K • 👍 69 • ⏱️ 10:16 • 10h ago
+
+---
 
 **[Why I Think Ethereum Can Reach $16K This Bull Run](https://www.youtube.com/watch?v=PlLT0t3MQbk)**
 
@@ -242,33 +272,13 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 ---
 
-**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
+**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
 
-Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Paul Barron Network
+📺 Crypto Nutshell
 
-👁️ 102K • 👍 2K • 💬 220 • ⏱️ 12:18 • 1d ago
-
----
-
-**[Ethereum Breaks Bear Pattern: Juicy Investment Opportunity!](https://www.youtube.com/watch?v=ppKb5RCnrB0)**
-
-Ethereum has broken its weekly bear pattern, outperforming Bitcoin. We've been watching it break highs for weeks. This is a prime ...
-
-📺 Crypto School - Brian Longest
-
-👁️ 68 • 👍 1 • ⏱️ 0:30 • 49m ago
-
----
-
-**[Live Trading Bitcoin, Ethereum, XRP &amp; Altcoins, Fast Scalps](https://www.youtube.com/watch?v=Xr9cJrotLQk)**
-
-Pedro is live at the charts, scalping Bitcoin, Ethereum, XRP, and select altcoins on the 15-minute timeframe. No hype, no ...
-
-📺 Crypto Banter
-
-👁️ 11K • 👍 165 • 💬 4 • ⏱️ 48:42 • 10h ago
+👁️ 9K • 👍 191 • 💬 3 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -278,7 +288,7 @@ FeeDrip - Get up to 67% Back, Daily on Your Trading Fees https://marzell.org/fee
 
 📺 Marzell Crypto
 
-👁️ 267 • 👍 15 • 💬 5 • ⏱️ 3:08 • 6h ago
+👁️ 357 • 👍 17 • 💬 6 • ⏱️ 3:08 • 10h ago
 
 ---
 
@@ -288,7 +298,7 @@ Its estimated that by the year 2040 corporate landlords will own most, if not al
 
 📺 Money Rules - Investing Tips 
 
-👁️ 33K • 👍 2K • 💬 510 • ⏱️ 19:06 • 1d ago
+👁️ 33K • 👍 2K • 💬 490 • ⏱️ 19:06 • 1d ago
 
 ---
 
@@ -298,27 +308,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 7K • 👍 101 • 💬 14 • ⏱️ 10:17 • 1d ago
+👁️ 7K • 👍 104 • 💬 15 • ⏱️ 10:17 • 1d ago
 
 ---
 
-**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
+**[I Checked an Ethereum Tool That AI Built (Full Night)](https://www.youtube.com/watch?v=fJxTNOuIAvk)**
 
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
+Can you earn Ethereum on a phone in 2026 with a tool AI built? A client showed me an assistant that AI put together and asked for ...
 
-📺 Crypto Archie
+📺 Ohio Gmod
 
-👁️ 1K • 👍 62 • ⏱️ 10:16 • 7h ago
-
----
-
-**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 189 • 💬 13 • ⏱️ 19:58 • 1d ago
+👁️ 1K • 👍 540 • 💬 34 • ⏱️ 5:47 • 5h ago
 
 ---
 
@@ -328,7 +328,7 @@ BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watc
 
 📺 McNallie Money
 
-👁️ 2K • 👍 100 • 💬 14 • ⏱️ 18:53 • 1d ago
+👁️ 2K • 👍 100 • 💬 11 • ⏱️ 18:53 • 1d ago
 
 ---
 
