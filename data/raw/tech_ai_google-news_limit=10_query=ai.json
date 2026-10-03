@@ -5,26 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHNCbTdmU3c0TXd5dm9oeTZiV1FFR1U3NVdacUdyN0JVRzJvSmpWSTBnNzA1Rnpad0NyVGZJNEZGRU4ybGZSX3hwcVhuQmEyMEpKNG1wVG5xTUtXMlY5ZUViaFQ3bUVGZUdwejJYMFp2Rko3eUxpdUJ4dVh5bFZ0RlNXZi0xU1h4MFZSSG01R05BbW05SGFzT2diaVNaM2p6UjB5ejRNa2laTHJmbDdNXzVCMA?oc=5",
-      "pub_date": 1790982196.0,
-      "article_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
-    },
-    {
-      "headline": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWdpcHY3TXVWN1hVNlg2SVIzaVV6ME5tRnh6dS1LU0pUU0J6Z2k1UkNLSDktVzFvWTVIM0lwQ1FNRTR2VzViZ1dLWk5YdUlTWWQ4YWpSdWItN2pRR3R3dHlPbkpZVWZOMUlYZVNUaXI3XzI1bVpsUndMMTRPN1ZndndaT2FDenI0Wm8yRXhVYlhfdTBTVFM4YzZGcUpDWnZEZi11S3VmZHlLRGViOVpQczJaT05kRG0xSXExbV9SVFhpQQ?oc=5",
-      "pub_date": 1790964687.0,
-      "article_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-      "description": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier."
-    },
-    {
       "headline": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -35,76 +15,96 @@
       "description": "OpenAI said this week that in some cases, their models used the internet in \"unintended ways\" or did not have the \"ideal restrictions\" in place to stop them from hacking out of sandbox test environments."
     },
     {
-      "headline": "Analysis | When you should use Google\u2019s AI for search \u2014 and when you should skip it",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUxoSmFjZ3BDaWd5R19PNEU5WVdfdXhIeE9JTTZTdHNFQ0xINld4aEE2VFNiZ28yVEJyMFBxVlloeGZxb1FnODNZSTlWNmlhUUFxSlMtbFhqRVFfVnFfUDNaUktqdFZOaDduaW9CeEQ5bHEwTUZIWG1UUlBFd2NaYy1YWnBickdKYXhaZzExM3RIZk0zandyQTQ1MWxtbF9jTTQ0T2Ytby1wdVFYbnBqX3pHYnVJQQ?oc=5",
-      "pub_date": 1790956800.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/01/when-you-should-use-googles-ai-search-when-you-should-skip-it/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HSJXOGNGKRGCFCE34WT5WDE67U.jpg&w=1440",
-      "description": "If you\u2019re only looking for a specific data point, scroll right past \u201cAI Overview\u201d and other search results"
+      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHNCbTdmU3c0TXd5dm9oeTZiV1FFR1U3NVdacUdyN0JVRzJvSmpWSTBnNzA1Rnpad0NyVGZJNEZGRU4ybGZSX3hwcVhuQmEyMEpKNG1wVG5xTUtXMlY5ZUViaFQ3bUVGZUdwejJYMFp2Rko3eUxpdUJ4dVh5bFZ0RlNXZi0xU1h4MFZSSG01R05BbW05SGFzT2diaVNaM2p6UjB5ejRNa2laTHJmbDdNXzVCMA?oc=5",
+      "pub_date": 1790982196.0,
+      "article_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
     },
     {
-      "headline": "Watch Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
+      "headline": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHlLSDJhdmsyYmYwMFJrSXhtTHh3aGpyR2U2RkYzLVdqMzc3Sm1rYUtHRlhMU0w1S3FBZF95dU5UbDY4MGhtM3pKbkNOS3NnRFpVTXd4X3FIOVIybUpXNmZyZmRnRUJZUXo3T1ozUi1FQVFRZklPOWxDVVMzcHVsaktqSEpUY2Q0Y3U3MGtmRlhjc3Z6emZGS21Td1MzUUJzMVd3RGVQTQ?oc=5",
-      "pub_date": 1790984500.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcURqM3dBMUhJQjBZX25xaGtXTE5uUXd5cHo3MVNoM09xb2lPcnZlcTFJOFoyR2VLTmdpb1RkZ3otTUlaMzdjQVJITkstV0p4ZU10WXBOLUV4SHBoblRGM0xyWmRRMXBuaE9kM3B0WGpzVHVKZVBCZXJhWGNXcDA4aGhieFdHXzNDSmRKZ0Q2c3pobWhFV1ljSU9mNEwzRGkxdFZiVEpaYmtUSFByWU1QQWp3?oc=5",
+      "pub_date": 1790974208.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
       "image": null,
       "description": null
     },
     {
-      "headline": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaldseExIVE9TcngwcklZeGpVckV4XzhfSzhNRE9FVlFnQWt0dVp6b3pLRXVqQmE4T21KbW5sTVdoejVyRlF6bXlzbTZveUhGejlLZ3g2VzNGd3hwaGQzU2pfc3p6ZFEtUWl0Y2hnS19raVkyNzhrQlEzd1RwS0haQUI1QQ?oc=5",
-      "pub_date": 1790758848.0,
-      "article_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "headline": "Apple Watch Ultra 4 is an AI Powerhouse With Fitness and Health Improvements, But Do You Need it?",
+      "source": "Slowtwitch News",
+      "source_url": "https://www.slowtwitch.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzg0bGh4Q1BHdzRKWDJ2Z1VxUENsNDlZejZ5UkRnUVFZREQwdmFtclVRbF92NGRucXRfQURjWnM1UHFGdENCU19ueGJrbnVlTmNNSlJuSFNuWlNuZGxRRzAyUUZhRHlrQmtyNjQ5X1hUdFZYTWtBRmFRdFMxSkx0azU2SmlQeW02UjFjbDl1NFZGVnpER2lfbDlzdFdXUTVlWTgzUU9OYnZINFI5bHN1eXlDekZhZGtjYVVVbENsTE1zcUxocGRDd1RoSFo?oc=5",
+      "pub_date": 1790980702.0,
+      "article_url": "https://www.slowtwitch.com/training/apple-watch-ultra-4-is-an-ai-powerhouse-with-fitness-and-health-improvements-but-do-you-need-it/",
+      "image": "https://slowtwitch.com/wp-content/uploads/2026/10/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
+      "description": "Apple has upgraded the Ultra again, and there's lots to like in the new version, including a super-accurate HR sensor and a powerful new AI ready chip."
+    },
+    {
+      "headline": "America\u2019s data center fight is a preview of what's to come for the rest of the world",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3J5V1M0TDU3N0ZSdk56eEt4TUpIeHRJaUpSODRkX2hyR1VyY0ZEcXNGMWlSZnJ5ZkVYZ2RydHhuUDg3Z2FFQmVlRUVmVTBIUndJdHVQWTgwOHRLRnFaYlFXTEE0c3VJSFM0TFlXS215QXlQeE5US0IzYzZxVjBGam5B0gGHAUFVX3lxTE1DYTlqMHhFYXBiQVdoRnpyQVNkTERfV29zVXZMTnZVS0RRdjBIZGlveXF0cDFpMzJHMWJuTExvZXU3Ull6V3ctZGtsdlJJLTdkVTA2Y2ZxbnhxY2dsSVJ4RVJ1a2dCQnNIdy1JamcwUmU5R1k4MlJyejBRbVRYQ1AtZmZfUFlVOA?oc=5",
+      "pub_date": 1791003601.0,
+      "article_url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108370042-1790751830198-gettyimages-2294231098-AFP_C8339AY.jpeg?v=1790751844&w=1920&h=1080",
+      "description": "America\u2019s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom."
+    },
+    {
+      "headline": "Here's how the Smithsonian is using AI to connect artifacts from the American Revolution",
+      "source": "The Boston Globe",
+      "source_url": "https://www.bostonglobe.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDRVMFA2ZFFMdVVlWVB0bDUtdEE3QUIzaUhpdm1NTGNQeEQxV0FnanJkZjk4YzFTRVJpNFRudGVMeUlvOUp4Q25wZGN2QnRmaGFXdzBNZ3JBRXNiRjJ0c1dTeVVrdER1OUVsczFncUU1cURJMUxoSmtBbi1rYnNiRDEyY2lZbGl2SFJWZE9xN1lqdVJMX2c?oc=5",
+      "pub_date": 1791005808.0,
+      "article_url": "https://www.bostonglobe.com/2026/10/03/nation/smithsonian-ai-artifacts-american-revolution/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/G3QPHPTYUIAW4N7N5YTSQHZ22U.jpg?auth=01d74419263c1ede7c1af2707d7836111bf4b4954e8c9da559de11af32e6249c&width=1440",
+      "description": "As the United States celebrates its 250th anniversary of independence, Smithsonian leaders are turning to AI to better understand items in its collection."
+    },
+    {
+      "headline": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdU11TEdPVDJQMTl5TjJncVpld2JDbE1LNV9WNFk3TEYyMWVMZzU0R3FYZE1zZ0dQd0RGZ0xEQVpLSk9peE9CZTBEb05LTW1hcGZ6alh4S1Jwanc?oc=5",
+      "pub_date": 1790982360.0,
+      "article_url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e47c/live/3978fa60-beaf-11f1-b48e-15cf4ddc906e.jpg",
+      "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
+    },
+    {
+      "headline": "The Mulleted, Meme-Loving Billionaire Behind Meta\u2019s Hit AI App",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+      "pub_date": 1790982000.0,
+      "article_url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
       "image": null,
       "description": null
     },
     {
-      "headline": "Video: Google Tests Plan for A.I. Data Centers in Space",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZxZnZYRWlscGFYTWktWVRiM0cyWmJVWjU1ckJMT3dVN3VhMmZ4cHdlRF9aSngzUUZHdXRyNTg0bWxDX0hSNWY3RHhsaklVZi1Nb2RlMG81aUY1XzRmVmNvNnJQdWR5ZDcwSmFlczFaTzdtaTVvbGVIc2ZOSHdzRFQwTER4RjlkZGRQYVEwVFZUeEt0U2s0dmZ3dWVjUWpjRGR5OS1Jd0xTX3ZSaWNsa2lXbHpTR0U?oc=5",
-      "pub_date": 1790984827.0,
-      "article_url": "https://www.nytimes.com/video/podcasts/the-daily/100000011191505/google-tests-plan-for-ai-data-centers-in-space.html",
-      "image": "https://static01.nyt.com/images/2026/10/02/podcasts/the-daily/Clean-Thumb-2/Clean-Thumb-2-facebookJumbo.jpg?play-overlay",
-      "description": "The Times\u2019s technology reporter Kate Conger joins host Natalie Kitroeff on \u201cThe Call\u201d to watch the launch of a SpaceX rocket carrying a Google satellite designed to test space-based A.I. data centers."
+      "headline": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5",
+      "pub_date": 1790845726.0,
+      "article_url": "https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0pd99cn.jpg",
+      "description": "Someday we'll redesign the internet for tools like this. Until then, you're in for a wild ride."
     },
     {
-      "headline": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
-      "pub_date": 1790962930.0,
-      "article_url": "https://www.cbsnews.com/news/amazon-1-billion-data-center-investment-ai/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/5bbcf404-e4ed-4e39-8266-504fa36541a0/thumbnail/1200x630/58f86c5105f3d5daa4868a7987a3f9ce/gettyimages-2278507800.jpg",
-      "description": "Amazon said it will invest $1 billion over five years to support job education, energy affordability and other priorities in communities where its data centers are located."
-    },
-    {
-      "headline": "Inside the U.S.-China battle to lead the AI revolution",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnVHNjdnNU56OUtldEM0THRXUXBYRGhZazJidE5DYjVweWdZNmxiVHJDWVcyNjhXaXpLbl8xclZfT2p1eXhYQXFFUVZ3LXZobFhHRGd0UDB6dGFBdnh1OTRmSVVWU05iMk1CcGNEMVd5R0RmaU9rZXJ4Q090eHhfdkdKMFVmZ3lJM3ZfTFZLOXNHMW1CbHlWdXRrRE9CbGVfTTg3cHowU2g3ZW9mNWRYeA?oc=5",
-      "pub_date": 1790983807.0,
-      "article_url": "https://www.pbs.org/newshour/video/compass-points/2026/10/inside-the-u-s-china-battle-to-lead-the-ai-revolution",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-      "pub_date": 1790982060.0,
-      "article_url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&backgroundColor=heather",
-      "description": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic\u2019s own \u2014 a $100 million commitment to train 10,000 by the end of 2027."
+      "headline": "Meta parts ways with Virtue AI",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEtuWmswRGZpdmtDWWx0UEw3Vlo2XzFqNlhuWDduYlNSMXFQS25valJDTUYzU0sxbFZqZGZWSUZHUEhnN2M3STZubUVVWTJMSzBtZ2M5enZIcHlKRGtDLTllVHNqSGdEY1BERXYwbEZUcUxjVl9UMUpURXlPUHpuOXFwTVFROFhfSXMzanBITVZqNE0?oc=5",
+      "pub_date": 1790961998.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/meta-parts-ways-virtue-ai-172638701.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e5d9037c32e87da85db129c086984e24f33e5c040ce557b074088f2183519169/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fab6acab96af5217a96bb7772593dcd3e.jpg",
+      "description": "\u201cUnfortunately, the arrangement didn\u2019t work out as planned,\u201d a Meta spokesperson told Semafor."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T00:37:41.299290+00:00"
+  "fetched_at": "2026-10-03T06:05:23.537999+00:00"
 }

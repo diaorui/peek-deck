@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2609.33439",
       "arxiv_url": "https://arxiv.org/abs/2609.33439",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 513,
+      "upvotes": 515,
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/EverMind-AI/Raven",
-      "github_stars": 5067,
+      "github_stars": 5077,
       "project_page": "https://raven.evermind.ai/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2026-09-28T20:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/context-language-models",
-      "github_stars": 425,
+      "github_stars": 449,
       "project_page": "https://github.com/facebookresearch/context-language-models"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89796,
+      "github_stars": 89826,
       "project_page": null
     },
     {
@@ -130,27 +130,8 @@
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
-      "github_stars": 438,
+      "github_stars": 464,
       "project_page": null
-    },
-    {
-      "id": "2610.02193",
-      "title": "Hierarchical Continuous Diffusion Language Models",
-      "authors": "Hui Ren, Zihan Li, Chang Liu et al. (5 authors)",
-      "organization_name": "UIUC-CS",
-      "organization_fullname": "University of Illinois at Urbana-Champaign",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65448b21fcb96b8b48733729/ycqcXFayMTTD_KpE37067.jpeg",
-      "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.02193",
-      "arxiv_url": "https://arxiv.org/abs/2610.02193",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02193.png",
-      "upvotes": 69,
-      "num_comments": 1,
-      "published_at": "2026-09-30T20:00:00.000Z",
-      "github_repo": "https://github.com/rhfeiyang/HC-DLM",
-      "github_stars": 43,
-      "project_page": "https://hc-dlm.github.io/"
     },
     {
       "id": "2309.06180",
@@ -183,15 +164,34 @@
       "hf_url": "https://huggingface.co/papers/2610.01762",
       "arxiv_url": "https://arxiv.org/abs/2610.01762",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.01762.png",
-      "upvotes": 146,
+      "upvotes": 150,
       "num_comments": 1,
       "published_at": "2026-09-30T20:00:00.000Z",
       "github_repo": "https://github.com/MCG-NJU/OneStreamer",
       "github_stars": 45,
       "project_page": "https://mcg-nju.github.io/OneStreamer"
+    },
+    {
+      "id": "2610.02193",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "authors": "Hui Ren, Zihan Li, Chang Liu et al. (5 authors)",
+      "organization_name": "UIUC-CS",
+      "organization_fullname": "University of Illinois at Urbana-Champaign",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65448b21fcb96b8b48733729/ycqcXFayMTTD_KpE37067.jpeg",
+      "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.02193",
+      "arxiv_url": "https://arxiv.org/abs/2610.02193",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02193.png",
+      "upvotes": 69,
+      "num_comments": 2,
+      "published_at": "2026-09-30T20:00:00.000Z",
+      "github_repo": "https://github.com/rhfeiyang/HC-DLM",
+      "github_stars": 52,
+      "project_page": "https://hc-dlm.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-03T00:37:28.130246+00:00"
+  "fetched_at": "2026-10-03T06:05:07.499666+00:00"
 }

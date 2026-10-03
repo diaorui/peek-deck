@@ -23,7 +23,7 @@
       "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "hn_url": "https://news.ycombinator.com/item?id=49921050",
       "author": "dgellow",
-      "points": 207,
+      "points": 209,
       "num_comments": 159,
       "created_at": "2026-10-01T13:00:55Z",
       "object_id": "49921050",
@@ -33,12 +33,26 @@
       "site_name": "CNBC"
     },
     {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "hn_url": "https://news.ycombinator.com/item?id=49933740",
+      "author": "PaulHoule",
+      "points": 204,
+      "num_comments": 97,
+      "created_at": "2026-10-02T14:11:24Z",
+      "object_id": "49933740",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+      "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "site_name": "Ars Technica"
+    },
+    {
       "title": "Vote on which of Hacker News' challenges for AI have been met",
       "url": "https://stoppels.ch/goalposts/",
       "hn_url": "https://news.ycombinator.com/item?id=49924618",
       "author": "stabbles",
-      "points": 195,
-      "num_comments": 256,
+      "points": 196,
+      "num_comments": 259,
       "created_at": "2026-10-01T17:32:43Z",
       "object_id": "49924618",
       "image": null,
@@ -51,42 +65,14 @@
       "url": "https://mondobe.com/ai-makes-me-sad",
       "hn_url": "https://news.ycombinator.com/item?id=49934487",
       "author": "mondobe",
-      "points": 179,
-      "num_comments": 214,
+      "points": 181,
+      "num_comments": 220,
       "created_at": "2026-10-02T15:18:00Z",
       "object_id": "49934487",
       "image": null,
       "description": null,
       "favicon": "https://mondobe.com/Mondobe.ico",
       "site_name": "mondobe.com"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "hn_url": "https://news.ycombinator.com/item?id=49933740",
-      "author": "PaulHoule",
-      "points": 164,
-      "num_comments": 80,
-      "created_at": "2026-10-02T14:11:24Z",
-      "object_id": "49933740",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
-      "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "site_name": "Ars Technica"
-    },
-    {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "hn_url": "https://news.ycombinator.com/item?id=49903713",
-      "author": "aureianimus",
-      "points": 121,
-      "num_comments": 228,
-      "created_at": "2026-09-30T02:36:12Z",
-      "object_id": "49903713",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "agmai.org"
     },
     {
       "title": "CS240 AI Cheating Retrospective",
@@ -103,6 +89,34 @@
       "site_name": "turkeyland.net"
     },
     {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "hn_url": "https://news.ycombinator.com/item?id=49937916",
+      "author": "antelocnova",
+      "points": 94,
+      "num_comments": 44,
+      "created_at": "2026-10-02T20:00:15Z",
+      "object_id": "49937916",
+      "image": "https://opengraph.githubassets.com/5e02966ead3d6ad2b626d40d6b4247dc17b05f69b7f8f3919daaac78167e191f/anteloc/ldraw-nova",
+      "description": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev - anteloc/ldraw-nova",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
+      "title": "Crypto Capture of Foreign Aid",
+      "url": "https://www.nber.org/papers/w35655",
+      "hn_url": "https://news.ycombinator.com/item?id=49936725",
+      "author": "bko",
+      "points": 91,
+      "num_comments": 35,
+      "created_at": "2026-10-02T18:14:29Z",
+      "object_id": "49936725",
+      "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
+      "description": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
+      "favicon": "https://www.nber.org/themes/custom/nber/favicon.ico",
+      "site_name": "NBER"
+    },
+    {
       "title": "An AI sovereign wealth fund isn't progressive \u2013 it's techno-imperialism",
       "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
       "hn_url": "https://news.ycombinator.com/item?id=49921051",
@@ -115,20 +129,6 @@
       "description": "Accruing income at home from land and power abroad has an old name: empire",
       "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
       "site_name": "ft.com"
-    },
-    {
-      "title": "Crypto Capture of Foreign Aid",
-      "url": "https://www.nber.org/papers/w35655",
-      "hn_url": "https://news.ycombinator.com/item?id=49936725",
-      "author": "bko",
-      "points": 85,
-      "num_comments": 30,
-      "created_at": "2026-10-02T18:14:29Z",
-      "object_id": "49936725",
-      "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
-      "description": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
-      "favicon": "https://www.nber.org/themes/custom/nber/favicon.ico",
-      "site_name": "NBER"
     },
     {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
@@ -145,7 +145,7 @@
       "site_name": "openid.net"
     }
   ],
-  "total_hits": 739,
+  "total_hits": 734,
   "has_metadata": true,
-  "fetched_at": "2026-10-03T00:37:17.122394+00:00"
+  "fetched_at": "2026-10-03T06:04:57.783989+00:00"
 }

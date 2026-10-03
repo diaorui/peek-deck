@@ -5,28 +5,28 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "source": "CoinDesk",
+      "headline": "Tether\u2019s $190 billion USDT stablecoin is coming back to the Bitcoin network this month",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGE3Vl9KS2FUUHFmbUFyelBNY3k4ZElkME1DMzNQSnZPQWlLZ211b0Y4eUlTaDVRWFh4VVplWE82Um1QLVptbXBFdmV3Z1RldTBHN1lTUTUyZHB3S04xU1pJOGJfLXZMZldZR2kyWThWMVRVTld3R1p3NzlCYWNTRkJ1N1FaZmxRd2c2Sy0xb1Y3R2tlRk54aG9mcDkyeDR0azRETXRaY1JROW5ET0hQWWNySlNvT0gyeEE?oc=5",
-      "pub_date": 1790937076.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f7db8efec882b601432e8971478c5f4bf5e2436-1864x1022.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk."
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmtNSGxsZWtWTHV4UG5wUTlEb05KN0JrMVhsbVEtcjhTMF9MbFUxLVRIa0I0akxDbTJEUFhpX3ZTSDFXV2pQV2xhUEVzWVM0a0V0STlLZUVqYmNTTF9HcGZEMGozMUo4dlhMcUp5NlYtTnhaemZoM0JJd1Eyd19odU1mTGZxak15OGUyQ0V2Y2h3NjNoMFl2djBORmpZd2U1UW0wcGJDVEluUHdjM2FXVlEzbGdPbVE?oc=5",
+      "pub_date": 1790929699.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e07c69590f7f7f2e9e623b9982bee1c60be69440-1636x1122.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin\u2019s public ledger."
     },
     {
-      "headline": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NZd1VreThJTktZRzdSdWt3Y01Ha3VyNzlJSGkteHd1MXZXVllPek40bU9mbnZiZ0huR0ItVkZ4NGdsd0piVURwUTU1bnVVamJ6SEcxQklzSnBBTkNFTmo5eWJVNUx3VEd4ck12bUdmQV9QN0VNS1JnOFI2SmRmNVRuRjlTdFZLUDYzOTRORkxvbUNsNi1iNA?oc=5",
-      "pub_date": 1790920800.0,
-      "article_url": "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889127%2Fsurprised-investor-with-phone.jpg&w=1200&op=resize",
-      "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000."
+      "headline": "Bitcoin Doesn\u2019t Pay Dividends, So How Is This ETF Yielding 25%?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXBtTmQyVVZpNVNvU2FJRVNvNlNJU3dQS2F1UGFlNTA3WTlGTVh1QUF3LU9nem41SjhwZXE4Q2ZyQUN6NGpWaVR2RlhtMmZCdm4ycUZqcWNTMUFuWEQ3UzRLRjByLUkyWnF0YloyLVBOVXpjdVFPSnFHbDNpZ1JOWWhIQ1BIX2VlaWFYSlJ4U01FdHA5REhCSnAyT2x3M0xjaUkwaHZPSkxLRm8?oc=5",
+      "pub_date": 1790882640.0,
+      "article_url": "https://247wallst.com/investing/etf/2026/10/01/bitcoin-doesnt-pay-dividends-so-how-is-this-etf-yielding-25/",
+      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1888907947-huge-licensed-scaled.jpg",
+      "description": "Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up."
     },
     {
       "headline": "Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2tHTjZ1aGt2ajdtamg0MGhuaW9mXzZaWUNYQkE3ZU5Gb3pIemdkN1Jaa0VfUkdZbHg0Wi1WNlhZR29BWF9hRFl0eTQ5RFVGMC1ZVWJycmtZQlhnTjd4VjI4M091VU5KVWpVRUU0WFVYOWZibEIydWl1ZktzeDk1Q2c2QVFYTEpyclpodXpoQnp3VjFqQkx3Q0tpbFd2Rlc4S3FRU2p3amQ5U1pVWnU3UUJyQ2F5YzBhVzFXNGlqQ29nZ1BKMDQ1MQ?oc=5",
       "pub_date": 1790953046.0,
@@ -35,24 +35,14 @@
       "description": "When looking for best ideas for the fourth quarter nothing jumped off the charts to me \u2014 literally \u2014 like bitcoin."
     },
     {
-      "headline": "Community banks sue US regulator over crypto firm charters",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3M1NUpPd3A1WnBjS3FSeDhuQ3d6aC1BdUZNNml4U1JLX1RaWkJ3Y0xhRHhwb01TNUhOTjlxZlhWWXN2MG5EbkpZbXNZR2haU0F1MVJXR0o4cnhHNnpiOUNnY296aXRUOHI5a3l5MXIyYXMxb2RZOENNdTdveVJTRldXYUw3Um5kTGswMl9XNFFMTzNRMGZzaDE3dDlvdkNuYnc?oc=5",
-      "pub_date": 1790976502.0,
-      "article_url": "https://www.reuters.com/world/community-banks-sue-us-regulator-over-crypto-firm-charters-2026-10-02/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "USDT Is Returning to Bitcoin After 10 Years. Should Users Care?",
+      "headline": "Strategy Stock is Riding Bitcoin\u2019s Climb",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWZrQ1VFbWF4am04OUZYWDRJc2tkLVlUemZVWUNJUmxUZXhlamluWl9hVXVvVzhONjdsNTBPV0xHR21JQlkxTFc1Yjdyc3hjXzlXUVowa0RWZzVybXU4R1JsY0lmRkRoN3FjTmk0WDYyQXNvZmlCUDhGMzZzbC1SSEd6TDJyUmR1QkhmMEZiVmo5cVVhd1hmLWZ4MGo?oc=5",
-      "pub_date": 1790947559.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/usdt-returning-bitcoin-10-years-132559354.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/78ec65ffce457f8e99f33c4dcef5eee9f238fe127ed195ff77b1861685910f43/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F1e6616c8775a8b3b0a8d25bbe3acd563.png",
-      "description": "USDT is returning to Bitcoin with private payments. Here is what changes for users, and whether Tether can still freeze it."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWg1TlpWcFVDX1QwVXFfUUZ2QVU0QTNfNEEzckhVTThET2lkWjNqOHlsWU0yalhQMGdoc1FzekFqaXhwLVpRZmUtbHdfMHhOUFJRTjR6WDFPc1JQRE1UdERXR0JpRkVfUmJlMkUxMC03THRfTEwwRE1rQnVKRW5faDl2dy1Ha2pWRXBVT19UR3dzODYzYmdFQzF6R3dvM0N0Z0E?oc=5",
+      "pub_date": 1790958450.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-stock-riding-bitcoin-climb-162730550.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/72ce0fa1d2bc0f1c413c82c1e018addb843d096a4c3a62f00ce494c3d7c39e66/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestopedia_245%2F9597726b89f83e9e28bd0933561cba38.jpg",
+      "description": "Crypto markets are springing back to life. And one bitcoin-linked stock has reaped big benefits."
     },
     {
       "headline": "Block Launches Its First Ever Bitcoin Consumer Advertising Campaign, Making the Case for Bitcoin as Everyday, Usable Money",
@@ -75,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Citi raises bitcoin, ether forecasts on strong crypto activity",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5",
+      "pub_date": 1790844776.0,
+      "article_url": "https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "\u2018Pure insanity\u2019: West Deer grapples with Bitcoin mining company\u2019s pollution and erratic coal trucks",
       "source": "TribLIVE.com",
       "source_url": "https://triblive.com",
@@ -85,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NZd1VreThJTktZRzdSdWt3Y01Ha3VyNzlJSGkteHd1MXZXVllPek40bU9mbnZiZ0huR0ItVkZ4NGdsd0piVURwUTU1bnVVamJ6SEcxQklzSnBBTkNFTmo5eWJVNUx3VEd4ck12bUdmQV9QN0VNS1JnOFI2SmRmNVRuRjlTdFZLUDYzOTRORkxvbUNsNi1iNA?oc=5",
+      "pub_date": 1790920800.0,
+      "article_url": "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889127%2Fsurprised-investor-with-phone.jpg&w=1200&op=resize",
+      "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000."
+    },
+    {
       "headline": "A Wall Street Giant Just Flipped On Bitcoin\u2014Issues Huge 2027 Price Prediction",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/02/a-wall-street-giant-just-flipped-on-bitcoin-issues-huge-2027-prediction/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXVyV1hLMWtBRjJxRV94bGU3UnlGR0syU0lUYUhkTXhxOUdQTExXbU1TcE1pcVprRXNXTms0TUJHenh2T2UtY3J1QWJmcWFjMGFacTdQLTNpZVNDVXQxc3RDakctNTY2ejU5Z29YTlMwS3RYMkRvbTk2X2tMaVh5Y0hOaHZ1aDYwd0JLRlltYUNaeFhQV0pYQ00yQV9TVU95dlN6UjBKamh3NWViVWN3WTkzWWt4TWRqZUF6ZmQ5YXZMUzdiOFZKNA?oc=5",
-      "pub_date": 1790963586.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/02/Ethereum-Eth-amp-Ripple-Xrp-Coins-With-C.jpg",
-      "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T00:37:41.299612+00:00"
+  "fetched_at": "2026-10-03T06:05:13.435889+00:00"
 }
