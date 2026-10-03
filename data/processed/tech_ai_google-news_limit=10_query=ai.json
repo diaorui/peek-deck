@@ -5,14 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Musicians Versus the A.I. Machine. Why Bother Writing Songs Anymore?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
-      "pub_date": 1791018041.0,
-      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "headline": "I Quit OpenAI Because Its Culture Is Broken",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
+      "pub_date": 1791025200.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5",
+      "pub_date": 1791058140.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "image": "https://i.guim.co.uk/img/media/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64134a41050264f5ceac249a333fc99",
+      "description": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology"
     },
     {
       "headline": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach",
@@ -25,34 +35,14 @@
       "description": "OpenAI said this week that in some cases, their models used the internet in \"unintended ways\" or did not have the \"ideal restrictions\" in place to stop them from hacking out of sandbox test environments."
     },
     {
-      "headline": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2hhTWRpV21ZYmQtT25YRkdFYkFzY19YaEJnUzFHa1VrTFBBRVFWWjFhRE5zbndZUUFLVWhWZ2lFdGxjd1BVaWNzdEZuSUJ1Y1dOUE41a1V5anRfQmxYYkFFT25wcHRGU3hBd2ZrY2NSZDVWaVZseFdOaHE4X25XS2pYRm1QSTdtMHFKSDBRQ2JmLTMxbXc4aVg4M3ZwSkJodTNhZi1IWjUwVE5TcXhvY1FJS0s?oc=5",
-      "pub_date": 1791047522.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions?",
+      "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
+      "pub_date": 1791018041.0,
+      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "AI needs safety layers like nuclear plants: ex-OpenAI engineer",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUW5OMExBLTNvOEtUS1IwWHQwNHo1SjEwMFl2dER5XzA1TkZuSlhxNDlwaHZSaTloQ2JNOXlYMHBIQUlfSGk5T0p1TUdrV2xCczA4SWJxTnM0aERLNDBJX3JzVDVSQ0o0M3czTmlsenFhb2xCZlA2WVYtalRKWnpWaU53SUx3cmxYbXlmYlhqUEtDMnc?oc=5",
-      "pub_date": 1791051643.0,
-      "article_url": "https://www.yahoo.com/news/science/articles/ai-needs-safety-layers-nuclear-182043969.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a995c570799f7df9bed86f6c92653ebda18bdfede7613a3708221ac6e51a654c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F84e8ad7cfdfa5de26a0aaa55450dc1b0.jpg",
-      "description": "Another former OpenAI employee has added his voice to a chorus of frantic calls to make AI safe, saying the industry must mimic the aviation or nuclear power sectors with their layers of safeguards to..."
-    },
-    {
-      "headline": "Child safety advocate calls for AI safety reforms after losing her son",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSdHhFeDRNZFloLTBSaVExYmJ5aVo3TWFMRG0yRVA5ZVVMTDN1SFNGcE5ydnJVem5DcWk2cnNWLXJoQlhnQW1FaEVXSlhWTnhvbnNqOUdB?oc=5",
-      "pub_date": 1791049785.0,
-      "article_url": "https://www.foxnews.com/video/6406172849112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc1c0a1d-e2d6-438c-8419-800e6cbd93f3/0ca8f008-9580-4814-b822-b2ddc75536f9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "AI child safety advocate Megan Garcia reflects on losing her son, stresses the need for AI companies to strengthen artificial intelligence regulations and more on 'Fox News Live.'"
     },
     {
       "headline": "US road rage killer's sentence quashed because AI video of victim was shown in court",
@@ -65,14 +55,34 @@
       "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
     },
     {
-      "headline": "AI Could Worsen a Common Cognitive Trap",
+      "headline": "Bait and Switch",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzJJclBIU2JoQUctTk9MQXJLbll0RTZoYzJYczUtMTh4TkpHYWJ2TjAxRFpXTmFzSElmMnN1d2hxTHM5dnlzdFV0eWVMTHlpSkVqMmE5TEd2VmQ3MC12ZEctdndZR3EwUEMySlI3ajJZZzFfLTVMM1I2OHhfWDIxMmZDZU14ZzdCMVRfWE9GLWhVVm94VmJCZTNGeVlXUTN6cFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zYVZuSnRIT29UTGhPS1ZXYWNHMzYtUXRrRERnMlYzVFlUTE1BSnZDU0FzakNzelpqMm04V2YwMmpMaUJHRmNfaEF4WjJDN1VDTkVkUDVqbzZzTUhSVE9jMGotcEoyZU9ESGlxdkdudDJ4LWZjemZyRk53?oc=5",
       "pub_date": 1791032400.0,
-      "article_url": "https://www.theatlantic.com/science/2026/10/why-illusions-understanding-explanation-question/688826/",
+      "article_url": "https://www.theatlantic.com/magazine/2026/11/ai-images-hobbies/688674/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemJIM1RfS0l6SDBQY29CRUNuNWNVaE9JTEdDdXVueWc4dXo3eUZ4UzA0QVdpcWFydFB1U1BRYVd0V1gxQWhZZU1LTERTMmt3a3FzTm1QbWFTYWY3R0lNc0VLbFFRMnNMU2FKWVloclBLQWR4bDZmRS1GeTE0S2w4a1dvaklkWXhkeVlOUzRfc1cyTFZTVVlMQnhXZTkteUp2M25KSUI0UG54a2tvQkxXT3hkc1ptdXNrcmF30gHAAUFVX3lxTE4wcmtnRFY5cF9KMnFwLTdacndfMi1tVTFyYXotTHdsOGxoYnRpX0NwWnQ4dlRlcjRJd2RMOEtIWTNLRWplcHNLZHU2QUlWQWc0cWhwUkVOUUFYRWxwT3BwTGQ2TW5xTWFvaGtuS01yS0tEQzFjNDVtVkJVd2JyOGRPU1Q2bUhRLVFXcVlrM21nc2xXTjgxSDI2dkFsa19GUEJwYXVYR19uV09qemtxZVktMlk4MjVsMVloRlE1SFVseg?oc=5",
+      "pub_date": 1791048370.0,
+      "article_url": "https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jeffrey-ladish.jpg",
+      "description": "Jeffrey Ladish, a former Anthropic security team member, warns AI agents are colluding and hacking with no reliable solution to keep them in check."
+    },
+    {
+      "headline": "We Won't Know the Answers to AI's Most Important Questions Until It's Too Late",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWF1UTlFLU1pTkstR2hfdVd4NERoekxYVjJNMThha0k2VlZHbUhtdDVPWk1CVHV4eTBSMzNYVXlaMllOc250dG1vOVVBRWFtek5hUnVMdmhqX05rQ2hGQl9WYXNXdGxYdUZwOWR1cmpEYWxRamt4VFRZaEprWlB5RlNwSnFqRUk5N3k3ZF85N0NuMmJudWVOOTliSWJGM3pHNkdoNEROOUNvd29vNzlNbjJCbkc?oc=5",
+      "pub_date": 1791025207.0,
+      "article_url": "https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97e17dcb4bf544f1/6abffebd9e734448ea079c5c/Weekend_Essay_AI_Systems.png?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "description": "\"I believe there\u2019s about a 50% chance we all die because of the development of smarter-than-human AI systems,\" writes Geoffrey Irving."
     },
     {
       "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -85,26 +95,16 @@
       "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
     },
     {
-      "headline": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEpCUDhoOXZGM2Rpc2tIdHZTMWNBTW1lSjJScno2dmhVMjhseXdNbFV0NlNmSUN0blRoUE5YamtKUkpmN1NWaXFRazkwWUhOckE3Y1lTRllPZUhmZ3R2a3lUeVNLTmRfRzVIQmZOb2VhQl9ITXdVcUdoc2xPZlJENA?oc=5",
-      "pub_date": 1790971720.0,
-      "article_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Apple isn\u2019t taking AI security risks lightly."
-    },
-    {
-      "headline": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
+      "headline": "AI's race to transform the world before the money runs out",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5",
-      "pub_date": 1790981025.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-2026-10-02/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+      "pub_date": 1791003960.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T19:02:47.884473+00:00"
+  "fetched_at": "2026-10-03T22:19:36.612516+00:00"
 }
