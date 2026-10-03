@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-03T00:37:42.926827+00:00'
+updated: '2026-10-03T06:05:25.957335+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 03, 2026 at 00:37 UTC  
+**Last Updated:** October 03, 2026 at 06:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,480.77
+### $84,684.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -1.6%  
 **7d:** +0.2%  
 **30d:** +6.3%  
 **90d:** +32.2%  
@@ -54,100 +54,98 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1699.95B
+**Market Cap:** $1700.78B
 Rank #1
 
-**Circulating Supply:** 20,092,587 BTC
+**Circulating Supply:** 20,092,700 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -32.9%
 
 **All-Time Low:** $67.81
-+124684.0%
++124731.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 72
+### 67
 **GREED**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Don't buy the iphone duo, buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wtoik5/dont_buy_the_iphone_duo_buy_bitcoin/)**
+**[Bitcoin is going to be $250,000 within twelve months](https://www.reddit.com/r/Bitcoin/comments/1wvz9xr/bitcoin_is_going_to_be_250000_within_twelve_months/)**
 
-don't be sheep
+We're at Feb 2023 cycle stage. We're going to $125k in six months and $250k by Summer 2027.
 
-3d ago
-
----
-
-**[I turned the Bitcoin price into a live battlefield. Order books deploy armies, price moves the front line, whale trades shift momentum, and liquidations trigger explosions.](https://www.reddit.com/r/Bitcoin/comments/1wt7vyv/i_turned_the_bitcoin_price_into_a_live/)**
-
-3d ago
+12h ago
 
 ---
 
-**[AI agent payments won't drive Bitcoin adoption. In a 36-model study, AI preferred stablecoins to pay and Bitcoin to save.](https://www.reddit.com/r/Bitcoin/comments/1wtn5p9/ai_agent_payments_wont_drive_bitcoin_adoption_in/)**
+**[Buy more bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ww99iy/buy_more_bitcoin/)**
 
-The popular argument is that AI agents will need money, Bitcoin is money for the internet, so agents will drive Bitcoin demand. The problem: an agent working for a company that holds dollars, paying a company that wants dollars, has no reason to route through Bitcoin. And huge transaction counts don't mean huge value. A billion payments of a tenth of a cent is $1 million. Permissionless isn't the same as decentralized. An agent can hold tokenized dollars without a bank account, and for three cents of compute it likely doesn't care that the issuer can freeze funds. Lightning can move stablecoins, and those payments can still require Bitcoin liquidity, but that is too small to build an adoption thesis on. The part that holds up is saving. The Bitcoin Policy Institute ran 36 AI models through 28 monetary scenarios more than 9,000 times. For payments, the models preferred stablecoins. For storing value, nearly four out of five responses chose Bitcoin. If agents ever earn and keep real wealth, what they save in matters, and it fits how Bitcoin monetizes: people save in it first, and payments come later. There is one more mechanism. AI makes surveillance and financial enforcement cheaper and more automatic, which makes an asset with no issuer more valuable to anyone holding their own keys, even if no agent ever spends a sat.
-
-3d ago
+5h ago
 
 ---
 
-**[Bitcoin not crypto](https://www.reddit.com/r/Bitcoin/comments/1wtmnjw/bitcoin_not_crypto/)**
+**[Do I quit my job and travel for a year or keep stacking corn?](https://www.reddit.com/r/Bitcoin/comments/1ww7zpr/do_i_quit_my_job_and_travel_for_a_year_or_keep/)**
 
-Bitcoin is the biggest honeypot on the internet, yet attackers are unable to crack this in the mathematical space. Researchers and Economists are are simping the existing monetary imperialists without accepting that this is a 'novel technology' (US Teasury Secretary actually said that it is a pure technological innovation and the approach is novel). Thieves are trying to steal your bitcoin by creating shitcoins and marketing them as 'projects' better than the real thing, while pre-mining 70% of the supply for themselves. We cant deny that malicious hackers are using various other attacks to steal from plebs. Bitcoin protocol does not have a marketing team, and don't forget, the bitcoin software was not successfully pwned yet given the thoughtful architectural approach Satoshi took when designing the thing. We must be responsible not to break it. Don't be a shitcoiner. Be a bitcoiner.
+Pretty simple question I have been wrestling for a while. Background: I am in my late 20s and am not in my forever job. I have been investing since I was a teenager and went all in on bitcoin in ‘21. I have surpassed what my younger self thought I could acquire in btc terms. I really want to travel central/South America for a year and learn Spanish. I have more than enough in cold storage/retirement accounts that as long as I don’t touch anything I will have multi millions in USD terms at retirement age using a 10% ROI (horribly low I know… but being super conservative). I have worked my ass off and want to take a year off, but feel like it is stupid relative to my age, my current salary ($150k+ per year), and how low btc still is in USD terms. My lease ends this summer. What would you do?
 
-3d ago
-
----
-
-**[Strategy Acquires 1,665 BTC and Repurchases $152 Million of STRC](https://www.reddit.com/r/Bitcoin/comments/1wt91tl/strategy_acquires_1665_btc_and_repurchases_152/)**
-
-September 28, 2026
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1665-btc-and-repurchases-152-million-of-strc_09-28-2026) • 3d ago
+6h ago
 
 ---
 
-**[$300K Bitcoin by 2029? Fidelity Strategist’s Bull Call Collides With 2007-High Yields](https://www.reddit.com/r/Bitcoin/comments/1wt7xw2/300k_bitcoin_by_2029_fidelity_strategists_bull/)**
+**[Holy smokes!](https://www.reddit.com/r/Bitcoin/comments/1wvkh4n/holy_smokes/)**
 
-always sceptical but THIS IS GOOOOOOD
+God Candle Loading…
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/300k-bitcoin-by-2029-fidelity-strategists-bull-call-collides-with-2007-high-yields/) • 3d ago
-
----
-
-**[What channels do you guys follow to stay informed about Bitcoin and everything happening around it ?](https://www.reddit.com/r/Bitcoin/comments/1wtmxfu/what_channels_do_you_guys_follow_to_stay_informed/)**
-
-These are my top 3 YouTube channels right now: AdamLivingstonBTC SimplyBitcoin 1MarkMoss
-
-3d ago
+1d ago
 
 ---
 
-**[Memes from 10 years ago is even more relevant today](https://www.reddit.com/r/Bitcoin/comments/1wt2pj1/memes_from_10_years_ago_is_even_more_relevant/)**
+**[Buckle up boys, rocket ship incoming!!! (I sold)](https://www.reddit.com/r/Bitcoin/comments/1wvu7sn/buckle_up_boys_rocket_ship_incoming_i_sold/)**
 
-3d ago
+I sold 25% of my BTC holdings for dry powder in case this october/november "bloodbath" actually does come. My average buy was 64K so i essentially just sold my profit, however I firmly believe that my sell will initiate the biggest bull candle we have yet to see. Good luck, gentlemen!!!
 
----
-
-**[40K guy be like: wait 40K october](https://www.reddit.com/r/Bitcoin/comments/1wswxfz/40k_guy_be_like_wait_40k_october/)**
-
-3d ago
+16h ago
 
 ---
 
-**[Next week we're publishing the list of everything Bitcoin has been "called" that turned out wrong (Ponzi, tulips, only for drugs, boils the oceans). What are we missing?](https://www.reddit.com/r/Bitcoin/comments/1wtf560/next_week_were_publishing_the_list_of_everything/)**
+**[BTC market taking no prisoners today](https://www.reddit.com/r/Bitcoin/comments/1wvvr3j/btc_market_taking_no_prisoners_today/)**
 
-We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chapter is a cousin of the Bitcoin obituaries list, but instead of counting the times it was declared dead, it collects the labels. Every thing Bitcoin was confidently called, who said it, when, and what happened next. One entry per claim, each with a dated source. Here is what we have so far. Tell us what we missed. "It's dead." The obituaries list at 99bitcoins has been running since 2010 and stands at 477. The four worth actually reading (Forbes 2011, Wired 2011, Krugman 2013, Mike Hearn 2016) are here: https://www.learnbitcoin.com/glossary/bitcoin-obituaries "It's a Ponzi scheme." A Ponzi needs an operator who pays old investors with money from new ones and promises a return. Bitcoin has no operator, promises nothing, and keeps its books in public. The actual Ponzis in this industry (Bitcoin Savings and Trust, Bitconnect, PlusToken, Quadriga) all took bitcoin as the deposit, which is a different thing: https://www.learnbitcoin.com/glossary/ponzi-scheme "It's tulip mania." Jamie Dimon, September 2017: a fraud, worse than tulip bulbs. Tulips crashed once in 1637 and stayed down. Bitcoin has lost three quarters or more of its value four separate times and set a new high after each one. His bank now lets clients buy it. The 1637 episode was also a lot smaller than the legend: https://www.learnbitcoin.com/glossary/tulip-mania "It's only for buying drugs." Silk Road was seized in October 2013. The public ledger then convicted two of the federal agents on the case and, nine years later, the guy who'd stolen 50,000 BTC from the site in 2012: https://www.learnbitcoin.com/glossary/silk-road "It has no intrinsic value." Greenspan, December 2013. True, and true of the dollar since 1971 and of gold's price too. Economics dropped the concept in the 1870s: https://www.learnbitcoin.com/glossary/intrinsic-value "It's for money laundering." Chainalysis sells to law enforcement and has every reason to find crime. Their count for 2024 was about 0.14 percent of on-chain volume. The rest of the story, including where Bitcoin's privacy actually is weak, is here: https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy "It's for terrorists." Hamas's military wing announced in April 2023 that it was no longer taking bitcoin donations, because donors kept getting caught. "The blockchain is full of illegal images." The 2018 headlines. A research paper had found text and links stuffed into a few hundred transactions out of hundreds of millions. "It will boil the oceans." Newsweek, December 2017: on track to consume all of the world's energy by 2020. It is 2026. Our energy chapter has the actual numbers: https://www.learnbitcoin.com/rabbit-hole/energy "Governments will just ban it." China has banned it something like sixteen times. "Rat poison squared." Warren Buffett, May 2018. Three years later Berkshire put half a billion dollars into Nubank, a Brazilian bank that sells bitcoin to its customers. "Bitcoin is evil." Paul Krugman, New York Times, December 2013. "Quantum computers will break it." Not wrong forever, but wrong on every date given so far. We keep a live count of how many coins are actually exposed: https://www.learnbitcoin.com/rabbit-hole/quantum-and-bitcoin "You'll never buy a coffee with it." Lightning exists. https://www.learnbitcoin.com/rabbit-hole/lightning-routing What we want from you: Claims we missed. Especially the old ones. "It's only for nerds," "the government will seize it all," "the 21 million cap will get changed," "it's too slow to ever matter," whatever you were told at Thanksgiving in 2014. Who said it and when, with a link if you have one. A claim with a name and a date is worth ten without. The ones that were partly right. Exchanges really do collapse. Privacy really is worse than most people think. Mining really did concentrate for a while. Those go in too, with the part that was right stated plainly. We are not writing a victory lap. If you give us a source we'll credit you by handle in the chapter, unless you'd rather we didn't. The chapter goes up next Thursday and we'll drop the link in this thread. All 18 chapters so far: https://www.learnbitcoin.com/rabbit-holes
+15h ago
 
-3d ago
+---
+
+**[This is how locked in you have to be.](https://www.reddit.com/r/Bitcoin/comments/1wvs8ia/this_is_how_locked_in_you_have_to_be/)**
+
+17h ago
+
+---
+
+**[Absa Becomes First African Bank To Custody Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ww56t4/absa_becomes_first_african_bank_to_custody_bitcoin/)**
+
+South African bank Absa has become the first African lender to custody bitcoin, according to reports.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin) • 9h ago
+
+---
+
+**[40K guy:](https://www.reddit.com/r/Bitcoin/comments/1wvlih5/40k_guy/)**
+
+1d ago
+
+---
+
+**[just bought my first ever bitcoin share!](https://www.reddit.com/r/Bitcoin/comments/1ww2bpm/just_bought_my_first_ever_bitcoin_share/)**
+
+$10 worth but excited nonetheless... gotta start somewhere #collegefreshman
+
+10h ago
 
 ---
 
@@ -155,19 +153,19 @@ We run LearnBitcoin.com, a free, no-ads, no-affiliate site. Next Thursday's chap
 
 ## Google News: "bitcoin"
 
-**[Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%](https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60)**
+**[Tether’s $190 billion USDT stablecoin is coming back to the Bitcoin network this month](https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade)**
 
-Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk.
+A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.
 
-CoinDesk • 14h ago
+coindesk.com • 21h ago
 
 ---
 
-**[Here's What a $500 Investment in Bitcoin Could Be Worth by 2030](https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/)**
+**[Bitcoin Doesn’t Pay Dividends, So How Is This ETF Yielding 25%?](https://247wallst.com/investing/etf/2026/10/01/bitcoin-doesnt-pay-dividends-so-how-is-this-etf-yielding-25/)**
 
-If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.
+Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up.
 
-The Motley Fool • 18h ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -175,21 +173,15 @@ The Motley Fool • 18h ago
 
 When looking for best ideas for the fourth quarter nothing jumped off the charts to me — literally — like bitcoin.
 
-cnbc.com • 9h ago
+CNBC • 15h ago
 
 ---
 
-**[Community banks sue US regulator over crypto firm charters](https://www.reuters.com/world/community-banks-sue-us-regulator-over-crypto-firm-charters-2026-10-02/)**
+**[Strategy Stock is Riding Bitcoin’s Climb](https://finance.yahoo.com/markets/crypto/articles/strategy-stock-riding-bitcoin-climb-162730550.html)**
 
-Reuters • 3h ago
+Crypto markets are springing back to life. And one bitcoin-linked stock has reaped big benefits.
 
----
-
-**[USDT Is Returning to Bitcoin After 10 Years. Should Users Care?](https://finance.yahoo.com/markets/crypto/articles/usdt-returning-bitcoin-10-years-132559354.html)**
-
-USDT is returning to Bitcoin with private payments. Here is what changes for users, and whether Tether can still freeze it.
-
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -203,7 +195,13 @@ Block • 1d ago
 
 **[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 18h ago
+
+---
+
+**[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -213,17 +211,17 @@ TribLIVE.com • 1d ago
 
 ---
 
-**[A Wall Street Giant Just Flipped On Bitcoin—Issues Huge 2027 Price Prediction](https://www.forbes.com/sites/digital-assets/2026/10/02/a-wall-street-giant-just-flipped-on-bitcoin-issues-huge-2027-prediction/)**
+**[Here's What a $500 Investment in Bitcoin Could Be Worth by 2030](https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/)**
 
-Forbes • 12h ago
+If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.
+
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative)**
+**[A Wall Street Giant Just Flipped On Bitcoin—Issues Huge 2027 Price Prediction](https://www.forbes.com/sites/digital-assets/2026/10/02/a-wall-street-giant-just-flipped-on-bitcoin-issues-huge-2027-prediction/)**
 
-Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
-
-Benzinga • 6h ago
+Forbes • 18h ago
 
 ---
 
@@ -239,7 +237,7 @@ These researchers found that there's a spike in Bitcoin activity around the time
 
 Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
 
-⬆️ 17 • 💬 6 • 19h ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
+⬆️ 17 • 💬 6 • 1d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
 
 ---
 
@@ -281,7 +279,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 **[GitHub mutuals on AI in life sciences or bioinformatics](https://news.ycombinator.com/item?id=49940260)**
 
-⬆️ 2 • 💬 0 • 7m ago
+⬆️ 5 • 💬 0 • 5h ago
 
 ---
 
@@ -289,13 +287,13 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ## YouTube Videos: "bitcoin"
 
-**[CRYPTO *MEGA TRAP*... I&#39;m Doing THIS Right Now... [Bitcoin and Altcoin Warning]](https://www.youtube.com/watch?v=sWipSoxusGs)**
+**[STILL EARLY! Buying Crypto Today Will Make Trillionaires (5 coins)](https://www.youtube.com/watch?v=5Ky_d1gBKrU)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
-📺 Tyler S
+📺 Altcoin Daily
 
-👁️ 11K • 👍 547 • 💬 134 • ⏱️ 15:16 • 5h ago
+👁️ 28K • 👍 1K • 💬 49 • ⏱️ 12:27 • 6h ago
 
 ---
 
@@ -305,7 +303,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 252 • 👍 26 • 💬 15 • ⏱️ 17:42 • 1h ago
+👁️ 3K • 👍 78 • 💬 25 • ⏱️ 17:42 • 7h ago
 
 ---
 
@@ -315,17 +313,7 @@ What if Bitcoin's October 2025 top was just A top, and not THE top? In this vide
 
 📺 Coinsider
 
-👁️ 4K • 👍 137 • 💬 33 • ⏱️ 10:21 • 6h ago
-
----
-
-**[BITCOIN TREASURY COMPANY DISASTER](https://www.youtube.com/watch?v=QoV9sp28ITk)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 3K • 👍 295 • 💬 23 • ⏱️ 13:20 • 4h ago
+👁️ 13K • 👍 255 • 💬 60 • ⏱️ 10:21 • 12h ago
 
 ---
 
@@ -335,17 +323,27 @@ Disclaimer: none of this is financial advice. True North does not intend for any
 
 📺 Adam Livingston
 
-👁️ 6K • 👍 521 • 💬 110 • ⏱️ 16:27 • 5h ago
+👁️ 11K • 👍 706 • 💬 181 • ⏱️ 16:27 • 11h ago
 
 ---
 
-**[Risk On Continues for Bitcoin and Altcoin Market as XRP, ETH, BTC &amp; Alts Close Quarter Positive](https://www.youtube.com/watch?v=fDd88Hksfd8)**
+**[🚨 BITCOIN TREASURY COMPANY DISASTER..?!?!?!?! ](https://www.youtube.com/watch?v=QoV9sp28ITk)**
 
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
 
-📺 Blockchain Backer
+📺 BRITISH HODL
 
-👁️ 35K • 👍 3K • 💬 3 • ⏱️ 19:36 • 12h ago
+👁️ 7K • 👍 403 • 💬 35 • ⏱️ 13:20 • 9h ago
+
+---
+
+**[CRYPTO *MEGA TRAP*... I&#39;m Doing THIS Right Now... [Bitcoin and Altcoin Warning]](https://www.youtube.com/watch?v=sWipSoxusGs)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 17K • 👍 652 • 💬 169 • ⏱️ 15:16 • 10h ago
 
 ---
 
@@ -355,7 +353,7 @@ Bitcoin just scored another massive adoption breakthrough as Tether announces US
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 216 • 💬 110 • ⏱️ 15:21 • 5h ago
+👁️ 6K • 👍 286 • 💬 148 • ⏱️ 15:21 • 11h ago
 
 ---
 
@@ -365,17 +363,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 379 • 💬 39 • ⏱️ 13:08 • 10h ago
-
----
-
-**[LIVE: Donald Trump &amp; Brad Garlinghouse on XRP Price Prediction 2026](https://www.youtube.com/watch?v=EHm6qp9XlRk)**
-
-Welcome to our LIVE XRP broadcast! Today we're discussing the latest developments surrounding Ripple, XRP, and the ...
-
-📺 InterstateKyle
-
-👁️ 5K • 👍 2K • 2h ago
+👁️ 13K • 👍 395 • 💬 39 • ⏱️ 13:08 • 15h ago
 
 ---
 
@@ -385,7 +373,17 @@ Bitcoin just pumped. Is it the real move, or a fakeout? Trade alongside the Veri
 
 📺 Verified Investing
 
-👁️ 14K • 👍 650 • 💬 25 • ⏱️ 23:17 • 6h ago
+👁️ 18K • 👍 712 • 💬 26 • ⏱️ 23:17 • 12h ago
+
+---
+
+**[Matt Hougan :&quot;Why Bitcoin Is Going To $1.5 Million Per Coin&quot; - 0.1 BTC Will Be Huge!](https://www.youtube.com/watch?v=iAyqL7pqqZE)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 64 • 💬 11 • ⏱️ 21:18 • 12h ago
 
 ---
 
