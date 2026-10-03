@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-03T15:50:32.119988+00:00'
+updated: '2026-10-03T19:02:49.078645+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 03, 2026 at 15:50 UTC  
+**Last Updated:** October 03, 2026 at 19:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I was reading recent news from Neura robotics and they have robots that are aime
 
 Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've been working on data-collection infrastructure for teams training VLA / imitation-learning models, and I'd like feedback from people who've actually collected teleop data. The problem we kept hitting: most teams collect demos on improvised rigs. Camera angles drift between sessions, schemas change, joint-state rates don't match the deployed system, and you end up with months of data that trains poorly. So we built the Harvester: - 2× UFactory xArm 7 (14 DoF total) on a portable aluminum frame with casters, adjustable height, 90° or 45° arm mounts - Teleop with Meta Quest controllers, but the headset stays on the desk as a tracking reference, so operators aren't wearing it for hours - Switchable scaling profiles (slow/precise vs fast repositioning) on a button press - Cartesian control using UFactory's online trajectory planning (streamed targets, not pre-planned trajectories) - Multi-view Intel RealSense RGB + aligned depth, joint states at 100 Hz, commanded vs achieved poses, gripper state, all hardware-timestamped - ROS 2 Humble, one .mcap rosbag per run, converts straight to a LeRobot dataset for Hugging Face I'd love feedback on: Headset-off Quest teleop vs leader-follower arms (GELLO, ALOHA-style). What's worked better for you? What do you wish your collection pipeline recorded that it doesn't? Anything in the technical writeup that seems off or missing? Site: paddydata.ai (password: harvest). The technical page has the full topic list and architecture. Disclaimer: the site isn't 100% finished yet. We officially launch next week, so a few pages are still rough. Happy to answer anything in the comments.
 
-1d ago
+2d ago
 
 ---
 
@@ -98,27 +98,19 @@ Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 2
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 2d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 3d ago
 
 ---
 
 **[My research project has hit a technological ceiling that is impenetrable for me, as it is impossible without robotics.](https://www.reddit.com/r/robotics/comments/1wud6c7/my_research_project_has_hit_a_technological/)**
 
-2d ago
+3d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
-
-What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
-
-Anthropic • 2d ago
-
----
 
 **[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
 
@@ -132,23 +124,7 @@ Business Insider • 1d ago
 
 An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
 
-Mashable • 20h ago
-
----
-
-**[Humanoid robots destroy themselves after being decommissioned](https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html)**
-
-The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose
-
-The Independent • 23h ago
-
----
-
-**[Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration](https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel)**
-
-A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel.
-
-Futurism • 1d ago
+Mashable • 1d ago
 
 ---
 
@@ -158,11 +134,19 @@ NewsNation • 1d ago
 
 ---
 
-**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
+**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
 
-Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
+Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
 
-IEEE Spectrum • 23h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing](https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators/)**
+
+Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology.
+
+DefenseScoop • 20h ago
 
 ---
 
@@ -172,19 +156,35 @@ The New York Times • 2d ago
 
 ---
 
-**[Micron sees future opportunities in humanoid robots, self-driving cars](https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html)**
+**[In Robotics, Google Goes Android to Tesla’s Apple](https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple)**
 
-Micron says physical AI could drive "significant" demand for memory chips by the end of the decade.
+While interviewing Google’s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ...
 
-Yahoo Finance • 21h ago
+The Information • 1d ago
 
 ---
 
-**[The little humanoid robots that could (BOTZ:NASDAQ)](https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could)**
+**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
 
-Humanoid robot investing thesis shift: most “shipments” are half-size Chinese robots, not full-size labor bots.
+What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-Seeking Alpha • 4h ago
+Anthropic • 3d ago
+
+---
+
+**[Architects of Autonomy: Army activates 390A Robotics Technician MOS to forge battlefield overmatch](https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch)**
+
+FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec...
+
+army.mil • 1d ago
+
+---
+
+**[Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?](https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/)**
+
+Here are three robotics stocks that could turn the automation boom into real business growth.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -192,63 +192,43 @@ Seeking Alpha • 4h ago
 
 ## YouTube Videos: "robotics"
 
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 480 • 💬 59 • ⏱️ 13:23 • 17h ago
-
----
-
 **[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
 
 Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
 
 📺 ejunky66
 
-👁️ 304K • 👍 6K • 💬 275 • ⏱️ 1:00 • 1d ago
+👁️ 414K • 👍 7K • 💬 364 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[This Robot Fighter Has a Human Pilot #Shorts](https://www.youtube.com/watch?v=8sNUbyz9xEE)**
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
 
-This robot fights a human—but a human pilot is controlling the robot. REK development partner Reflex Arc says the robots are ...
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
 
-📺 OddlyUsefulDude
+📺 AI Revolution
 
-👁️ 3K • 👍 53 • 💬 1 • ⏱️ 0:44 • 16h ago
-
----
-
-**[Robot-human cage fights sent cease-and-desist in California](https://www.youtube.com/watch?v=sHi3bu41_tA)**
-
-Robot-human cage fights sent cease-and-desist in California. For more context and news coverage of the most important stories ...
-
-📺 NBC News
-
-👁️ 92K • 👍 906 • 💬 142 • ⏱️ 0:19 • 1d ago
+👁️ 26K • 👍 528 • 💬 61 • ⏱️ 13:23 • 20h ago
 
 ---
 
-**[Turn QD001 Into a Tank Robot 🤖 | Tracked Robot Upgrade #Shorts](https://www.youtube.com/watch?v=a40u-QOs9VY)**
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
 
-What happens when you swap the wheels for tracks? In this quick robotics project, we upgrade the ACEBOTT QD001 robot car ...
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
 
-📺 ACEBOTT
+📺 Canada 2050
 
-👁️ 876 • 👍 6 • ⏱️ 0:26 • 16h ago
+👁️ 31K • 👍 771 • 💬 25 • ⏱️ 18:22 • 3d ago
 
 ---
 
-**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
 
-Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
 
-📺 Fist To Face
+📺 Innovation Core
 
-👁️ 20K • 👍 308 • 💬 20 • ⏱️ 0:11 • 11h ago
+👁️ 223K • 👍 2K • 💬 147 • ⏱️ 21:02 • 4d ago
 
 ---
 
@@ -258,7 +238,47 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 174K • 👍 2K • 💬 130 • ⏱️ 20:27 • 3d ago
+👁️ 177K • 👍 2K • 💬 131 • ⏱️ 20:27 • 3d ago
+
+---
+
+**[This Robot Fighter Has a Human Pilot #Shorts](https://www.youtube.com/watch?v=8sNUbyz9xEE)**
+
+This robot fights a human—but a human pilot is controlling the robot. REK development partner Reflex Arc says the robots are ...
+
+📺 OddlyUsefulDude
+
+👁️ 3K • 👍 56 • 💬 1 • ⏱️ 0:44 • 19h ago
+
+---
+
+**[How Amazon Uses 1 Million Robots to Process 600,000 Orders Every Hour](https://www.youtube.com/watch?v=XXVhNlNKxQA)**
+
+How Amazon uses 1 million robots to process 600000 orders every hour Every hour, Amazon processes more than 600000 ...
+
+📺 Mido Explained
+
+👁️ 154K • 👍 695 • 💬 47 • ⏱️ 14:00 • 6d ago
+
+---
+
+**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
+
+Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
+
+📺 Fist To Face
+
+👁️ 43K • 👍 334 • 💬 25 • ⏱️ 0:11 • 14h ago
+
+---
+
+**[Robot-human cage fights sent cease-and-desist in California](https://www.youtube.com/watch?v=sHi3bu41_tA)**
+
+Robot-human cage fights sent cease-and-desist in California. For more context and news coverage of the most important stories ...
+
+📺 NBC News
+
+👁️ 97K • 👍 984 • 💬 159 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -268,27 +288,7 @@ LEGO #legomoc #mech #ninjago ☆X(Twitter) https://twitter.com/mishima_prod ☆I
 
 📺 Mishima Productions
 
-👁️ 11K • 👍 239 • 💬 11 • ⏱️ 13:00 • 10h ago
-
----
-
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
-
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
-
-📺 Boston Dynamics
-
-👁️ 717K • 👍 8K • 💬 999 • ⏱️ 5:49 • 3d ago
-
----
-
-**[Which AI Model Refused This Robotic Arm Command?](https://www.youtube.com/watch?v=yhACUfNQU24)**
-
-AI safety matters, even if you're not a doomsayer. Robocurve gave 3 AI systems control of the same robot arms and tested 5 ...
-
-📺 Sabrina Ramonov 🍄
-
-👁️ 533 • 👍 19 • ⏱️ 0:40 • 49m ago
+👁️ 14K • 👍 274 • 💬 12 • ⏱️ 13:00 • 13h ago
 
 ---
 
