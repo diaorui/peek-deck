@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Tether\u2019s $190 billion USDT stablecoin is coming back to the Bitcoin network this month",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmtNSGxsZWtWTHV4UG5wUTlEb05KN0JrMVhsbVEtcjhTMF9MbFUxLVRIa0I0akxDbTJEUFhpX3ZTSDFXV2pQV2xhUEVzWVM0a0V0STlLZUVqYmNTTF9HcGZEMGozMUo4dlhMcUp5NlYtTnhaemZoM0JJd1Eyd19odU1mTGZxak15OGUyQ0V2Y2h3NjNoMFl2djBORmpZd2U1UW0wcGJDVEluUHdjM2FXVlEzbGdPbVE?oc=5",
       "pub_date": 1790929699.0,
@@ -15,34 +15,44 @@
       "description": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin\u2019s public ledger."
     },
     {
-      "headline": "Bitcoin Doesn\u2019t Pay Dividends, So How Is This ETF Yielding 25%?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXBtTmQyVVZpNVNvU2FJRVNvNlNJU3dQS2F1UGFlNTA3WTlGTVh1QUF3LU9nem41SjhwZXE4Q2ZyQUN6NGpWaVR2RlhtMmZCdm4ycUZqcWNTMUFuWEQ3UzRLRjByLUkyWnF0YloyLVBOVXpjdVFPSnFHbDNpZ1JOWWhIQ1BIX2VlaWFYSlJ4U01FdHA5REhCSnAyT2x3M0xjaUkwaHZPSkxLRm8?oc=5",
-      "pub_date": 1790882640.0,
-      "article_url": "https://247wallst.com/investing/etf/2026/10/01/bitcoin-doesnt-pay-dividends-so-how-is-this-etf-yielding-25/",
-      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1888907947-huge-licensed-scaled.jpg",
-      "description": "Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up."
+      "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXVyV1hLMWtBRjJxRV94bGU3UnlGR0syU0lUYUhkTXhxOUdQTExXbU1TcE1pcVprRXNXTms0TUJHenh2T2UtY3J1QWJmcWFjMGFacTdQLTNpZVNDVXQxc3RDakctNTY2ejU5Z29YTlMwS3RYMkRvbTk2X2tMaVh5Y0hOaHZ1aDYwd0JLRlltYUNaeFhQV0pYQ00yQV9TVU95dlN6UjBKamh3NWViVWN3WTkzWWt4TWRqZUF6ZmQ5YXZMUzdiOFZKNA?oc=5",
+      "pub_date": 1790963586.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/02/Ethereum-Eth-amp-Ripple-Xrp-Coins-With-C.jpg",
+      "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
     },
     {
-      "headline": "Crypto News | CryptoQuant CEO Expects Bitcoin to Rise 3\u20135x This Cycle, Followed by Milder Bear Market",
-      "source": "Binance",
-      "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zb2VpWk5RWTlGMmR5YkNZTnhjc3VENnhJZklfcGMtTXpUczZEQnBrVFNlakh0ek5oaHJTSGh4d2g4STc3OTZxZ0xweTRTOGlwenA2RUVLYzM3NlZpWVJmZjZLT0w?oc=5",
-      "pub_date": 1791024852.0,
-      "article_url": "https://www.binance.com/en/square/post/373283441823523",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin to $1.3M? Sovereign Fund Sells Gold for Crypto as Matt Hougan Eyes Major Gains",
+      "headline": "Bitcoin Investors Who Bought Last Year's Rally Are Selling As Price Nears Their Break-Even, Glassnode Says",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmo4cWcyZ0dKNm1rdWFPQjh2VWk0NlpaVlBzRnkwTzI2SmR2UlZLQ1NvUXh2ODVtVG5kbmNFYThNdUUxaXVaVTlWR2xvSC1oUUxjY1k4anJFSWhsdGhlM2RBblE0RGVZUnRwdm5GY1Q1Mi1qdFdlWHFIMFNyYl9McUttb1hTZTN2MGo0WXdHQkoxLTFaRkJ3?oc=5",
-      "pub_date": 1791022981.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-1-3m-sovereign-fund-102301845.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/49a5b6185b55a4c3697bd54960ad8d10c92bf988f9bb56e639a9949e6f42793c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F376aa2bbcd36ee0e5d24f7fd0c74e119",
-      "description": "Bitwise says an unnamed sovereign wealth fund is selling gold and foreign exchange to fund part of its crypto allocation. The finding provides context for ..."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPamVMYVZFSmI1TmhSMktuakh5Zkw1OVJzaW13NVByaEpQYWs1UjF3eFZSUXdsTm5iTTk5YmtXNXFMSVhsd25URkhIaHBQN1BrVHl2eFBZaGpGYkl4YkNBWE9TaGgwd3NCR0NVbEJSZFNlN3ZOc1cwaDh0amREN3BPZGRXWmlMcW1nMWRfUnQxWVh6MUU4eFNfSlVmVEtGRWpmUGc?oc=5",
+      "pub_date": 1791034641.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-investors-bought-last-years-133721327.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3ba6e1ef1312cc1b4065bc8a982f6a846b33cf9945b70a895ccabdcbb913afdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F37fb542413d5ae45ad967d8ed130273a.jpg",
+      "description": "Analyst Ted Pillows said Bitcoin needed a weekly close above $87,500 for a strong rally, and risks a drop below $80,000 without one."
+    },
+    {
+      "headline": "Bitget Hack Update: XRP, Bitcoin, and North Korean Link",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEJUdUJ4Y0Nxc3NoVV9sQURaeDRvS3hpeHJmcmlaeElYUFo3OGlFZWI2NzQ4ekxyRjktUVVnQkl2azFQU1pmdTlpeTNkdXExMGd4RjdDUUdDZ1ZlM3JZdldZTGZJTDQ5RndWZnpkTC1RejE4a1BpVnphZm5UT0dXMnZoZVZacnNYdVZRNUZ0QmxVQzFGZ0dHZEZ3?oc=5",
+      "pub_date": 1791032400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitget-hack-xrp-bitcoin-north-130000092.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d2827ebe5abba63ee991ec392c74911a12154b3ca925566bf90973904a1e6fdd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F3cb92a81b841532b2269865973700ca0.jpg",
+      "description": "Chainalysis ties the $387 million Bitget hack to North Korea, lifting its 2026 crypto thefts past the $1 billion mark."
+    },
+    {
+      "headline": "Worldcoin Rallies As World Chain Value Locked Climbs As Bitcoin Slides Below $85K",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN2VBQ2hONUs4XzVBS0JhZDk1dUtFODBYM3hhUGZrcWxESmVTX01TVExrTEJuTlJ0TUdOLW5QNzFjaUFJaVpGRkQ2emI4U1BUQ2l2RktkVkJBYi1RRTRobGNmS3Rvb01xY0dqbHY0Z0lkX1ozSm81RlRTbkZUMmo5ZllGUXQ1VTVMaXJRUEZaYjdkNTlZa2JteHZWZkRNUktpcGc?oc=5",
+      "pub_date": 1791040971.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/worldcoin-rallies-world-chain-value-152251675.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c71394cc94da39b40f64c10e40869dca4b0d3227d149e23b7bc0a0954cd38ae3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F4deca8fb904d7cbbe91d0029408516cc",
+      "description": "CoinGlass data showed that traders betting against WLD were hit hardest, with about $241,590 in positions wiped out over the past hour."
     },
     {
       "headline": "Why bitcoin may be at an inflection point",
@@ -65,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Block Launches Its First Ever Bitcoin Consumer Advertising Campaign, Making the Case for Bitcoin as Everyday, Usable Money",
-      "source": "Block",
-      "source_url": "https://block.xyz",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbC0xRDF4RGhCS1Q4ZE5wdWlybTYtVHZkQWNlNjhfSDVQMG52VU02YkdXSlRfOVJpS240QXdFZGF4UmllbG5ENzZGc0o3SzI2RTc4ZFdrbENUMzEwTUFFdXlLcVplQTlDbEY5UlVHY0ZlV0tMMF9La1VjRk5xS3duTmJFOGNjODd1ZkphdHRUWWZET0lTZVRnNjY2XzVWR3U3UXZMSk8tZXpYYVlTNzY5VUkxSnAxUHdWeFJnQVIxSTdsMGJ5LWNHNmZGWXptSFY4YlM1aFZfX05yakl1WFE?oc=5",
-      "pub_date": 1790870862.0,
-      "article_url": "https://block.xyz/inside/block-launches-its-first-ever-bitcoin-consumer-advertising-campaign-making-the-case-for-bitcoin-as-everyday-usable-money",
-      "image": "https://cdn.sanity.io/images/8m3angk4/production/dbbf710ac1870289a92d0cc958dd095b792265a6-2992x1934.png?auto=format",
-      "description": "Campaign spotlights how Cash App, Square, and Bitkey make bitcoin use simple and seamless."
+      "headline": "Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeks5X3FubmFaSnBxb1RhaWdpZDdXdllrSGJVd3lUaE4wSGh5cWhNMDRRa1lTUWZrY3o3OUJJNXFQMmlGMllEd0dUMUVIU2g0dGtGanlmTERpV1NsM3FQc2gzYkRSQ2YxS3pTRlZxNXZMMmRLaWctWE1CWXRDWGtBak1Idi1Pa29oSzBkbDRHWTNGLUZKMlhKalEyMi1PTWp6SkxYR0FITGlfMjczam50RkNOTy1uYnpmbEFrb2xWRlBCdXFKTExHaDVxQUMyTG9lWVNZ?oc=5",
+      "pub_date": 1791027002.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/03/trump-just-gave-everyone-a-shocking-40-trillion-reason-to-buy-bitcoin-and-quickly/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin Rises for Third Straight Week on Strong ETF Demand",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "A Wall Street Giant Just Flipped On Bitcoin\u2014Issues Huge 2027 Price Prediction",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWsyTDZCOEF5cDNXblhTTzl6WHRZazBVRTAzX252ZEVvOEhSNVh2WHF0eElaT0hMYTJDWFYtWHNzOC00eVhQU0RaWXEtMEhmdkFFRXFhQVBpU296S1hGYXBjQzZYLXNQaE10NkJmY2Jra25CYU5yQTJPWHpIaHpaaDVMbzBnNG1RaklkSjdiTUlYZUdETDZCSW1mcDFOcGd1cTFZbnF1M0hRVXlzUHhjZVFudm9xZ1pYWHRfY0ltSTBld2RESmc?oc=5",
-      "pub_date": 1790941073.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/02/a-wall-street-giant-just-flipped-on-bitcoin-issues-huge-2027-prediction/",
+      "headline": "\u2018Pure insanity\u2019: West Deer grapples with Bitcoin mining company\u2019s pollution and erratic coal trucks",
+      "source": "TribLIVE.com",
+      "source_url": "https://triblive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOck9XaFNuRkNDN3Y1Q2hiUGFBMEhjUHl4YVY4TWxWNk1FNnpSMWdGUC1uYUFKZFFWRmlvYm1MOHlUZzhWMHljNUVYbU44NTE4cW5vOE9CazJKbXlNZERZNEVzcXZTZGdUMGNFRDBwSmV4YklDVlZENjFIRTdUREszdjdBWHN2ODJQWTBZbHF4b0ctaGFVcnFFN1dTQXNGODBQQmxKQUcxeDNLTGRKQy1fN0kyVUF2R2xxZXU5Q2JQeHdwVnEtYXVKMFZMejJTTDBPSDRBb2l5TVVMNm5v?oc=5",
+      "pub_date": 1790868464.0,
+      "article_url": "https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Current price of Bitcoin for Oct. 2, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYks3Z0VUVnMwUl95d1ZLQUdSR3ZKelg3NlZtQ0pMMlJSN3VvSnc5MzhXQTJPTWd6Y1BEeTkyME1tTWVja3lfQ0NhZk5jcXVlYmtTSFR1ZlNWSE53QjlQX21vX0dSQlk?oc=5",
-      "pub_date": 1790947800.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-02-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Oct-2.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T11:54:15.262792+00:00"
+  "fetched_at": "2026-10-03T15:50:19.241681+00:00"
 }
