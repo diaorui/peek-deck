@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Introducing zkAPI: private usage credits for any API",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLWVNZZmpmWG9BbG9JQ0JNWXFLNWk5SGdNelEzUmRTdXBUeXo3M19pbDVvZ191bWxrcGlqYWplcFNyaDlnQy0zXzV4LVNKbUNYOExxM01FamVyRU50NzNURk5ycDQ?oc=5",
-      "pub_date": 1790881376.0,
-      "article_url": "https://blog.ethereum.org/2026/10/01/introducing-zkapi",
-      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer.png",
-      "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
-    },
-    {
       "headline": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
       "source": "Decrypt News",
       "source_url": "https://decrypt.co",
@@ -25,34 +15,44 @@
       "description": "Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet."
     },
     {
-      "headline": "Bitcoin and ethereum prices today, Thursday, October 1, 2026: Not much price movement this morning, but Citigroup says that will change",
+      "headline": "Introducing zkAPI: private usage credits for any API",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLWVNZZmpmWG9BbG9JQ0JNWXFLNWk5SGdNelEzUmRTdXBUeXo3M19pbDVvZ191bWxrcGlqYWplcFNyaDlnQy0zXzV4LVNKbUNYOExxM01FamVyRU50NzNURk5ycDQ?oc=5",
+      "pub_date": 1790881376.0,
+      "article_url": "https://blog.ethereum.org/2026/10/01/introducing-zkapi",
+      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer.png",
+      "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
+    },
+    {
+      "headline": "Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVk5RQnpncFltRVhHLWduMDd5TEZheDRPZ01xSWV6NVJDc1pfc2lYb1F0YzlGVWlWeG9QQnp0SWw4UnpTNzk1MmFnSE9fb0lybjAwbzl5MXgtMzRlVk9pUnVyM3NyYTJXREREUWNLVEpNdXlOeFVMRGNFbFNzNGxvdUd5azdBWkJvcXd2di1VUlF5OE5ET1FweEZMQm8wNWZYbklNeTNJUEpUSFVQcXVXclZ2ZVdLTjlBVW1jd1d6blplSUlxNWZDVFB0dHdXWXozaTdsZFJ0UlRtUlo5V0J4b0kwcGN6NXJMMDR0OVRBM21iYWxXWTZsY0Z0UmtvdzRxcGJSMUJGbUp6OGdpSWJUN3ZoSmFRaEoxdEZzVjBJMHlTQ3JBTk5taXVqY1AwY1k?oc=5",
-      "pub_date": 1790854393.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-1-2026-not-much-price-movement-this-morning-but-citigroup-says-that-will-change-113313201.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg",
-      "description": "Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFdFbnV0ZGp2cEZtaHhRenB5SzVaWklzQ2FqeU04b3NxMDB4MW1uQkhNSG83aEtCLTFEUWhxb0hHZ2hLSjZwRVdmU1U0cmUtUk82eEI5M3pJQV9rS2ZnRXlVTDRLX2pWZEM1VThhWXMzT3BtOHRQOWNjbDVYdzJQVFJiUWxDU3NfYjhxdkljaWEtdXVObWtkNTJ3?oc=5",
+      "pub_date": 1790991060.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f948f41b6cf6ac5c7cfa03fc0e45172fc8bb1475212b04316a1f99628e0746b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0dbcc436be3c2827b498b2f47ec3d832.jpg",
+      "description": "Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get."
+    },
+    {
+      "headline": "Ethereum Price Faces $2,800 Wall Again \u2014 Are Whales Selling or Accumulating ETH?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcFVxUmxQU2E1cUpxbl9aa3ZLSk9CYnBzNElMNVRaTE90TWNlY3pPNmV0TEpHbGlPUGZ0UmxTRk8wY1dtYmtrMGFUeG1KOUNKM1RLcjF0YkhBOWw5THg2NXpxbEZMZlNmRV9tUzkzWFJYcUxKdXZSZXY2SWs0VUJkOVJCMmQwdE1XQTU5OEt2bzlhTWlWd0wxSEFDalZQYm1UdmJ6aDJNTk1hSUJ4QzF0UzNfZHY2N19meDh6WHlCQURFd0ZfeEtFcFAwQXdWWWhseHc?oc=5",
+      "pub_date": 1791004740.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:3e242a83c094b:0-ethereum-price-faces-2-800-wall-again-are-whales-selling-or-accumulating-eth/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum price is hitting the same $2,800 hurdle again, but the latest on-chain signals suggest the battle is getting more intense beneath the surface. Large ETH transactions have surged, older coins are moving again, while exchange-held supply continues to trend lower. At the same time, holder pro\u2026"
     },
     {
       "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1ZYMVphb2FWSWtpbjlUTFI4dG92eGVkcFdtQnJEMjNMZ3lnamF5TzdiTmx0U2RMQldmNnp3TENfa0JKZlJuNEtidVRTVXd1MDhoYTFzSkhQWFcyeGszeG1xMDBxOVBhUDRLVVR0MEFkejRBN1pfYXA5NUhtS05YWEhlVl9hcGw2ZGtJbUk5VDJDYVF2SVRPc2k3ZTJ6VThMUGVITWk0NXd6RFZ6cTBqdWpqTWpFMTF0bHJfSklWSWhMVk9m?oc=5",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXVyV1hLMWtBRjJxRV94bGU3UnlGR0syU0lUYUhkTXhxOUdQTExXbU1TcE1pcVprRXNXTms0TUJHenh2T2UtY3J1QWJmcWFjMGFacTdQLTNpZVNDVXQxc3RDakctNTY2ejU5Z29YTlMwS3RYMkRvbTk2X2tMaVh5Y0hOaHZ1aDYwd0JLRlltYUNaeFhQV0pYQ00yQV9TVU95dlN6UjBKamh3NWViVWN3WTkzWWt4TWRqZUF6ZmQ5YXZMUzdiOFZKNA?oc=5",
       "pub_date": 1790963586.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:c06a50342094b:0-bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD has pared gains from Friday morning trading, selling off $84,600 after a rally to $86,500 into a weaker-than-expected jobs numbers report.Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD followed the reversal, with social sentiment flipping sharply negative, according to data prov\u2026"
-    },
-    {
-      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
-      "pub_date": 1790831796.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
-      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/02/Ethereum-Eth-amp-Ripple-Xrp-Coins-With-C.jpg",
+      "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
     },
     {
       "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
@@ -63,6 +63,16 @@
       "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
       "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
+    },
+    {
+      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
+      "pub_date": 1790831796.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
+      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
     },
     {
       "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
@@ -85,26 +95,16 @@
       "description": "Dubai, UAE, Oct.  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto announces fresh presale numbers this week: funding past $11.16 million, holders ..."
     },
     {
-      "headline": "Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTdTb1FkOXVDak1keW5QVUxNdzRFVTlEczVtVjNBSHFLOVdfUVhReU55UzFnSnh2THJZN2RuVFA5eVAwSENSNGc1bTNxT3N5ZnZYUUJUN0hIaC1lYjB0dUNNbXpkSTdoSlZ3QW01cnNuUXBhWWYyZjl0aWRMWHgtazcxTnl3TmhOTXotWG9uSzdROUp1Mm51bnJOTUk3SU93RTM2SHFReGVNeGJsUV82SUpOTQ?oc=5",
-      "pub_date": 1790853617.0,
-      "article_url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/glamsterdam-validator-upgrade-prysm.webp",
-      "description": "Ethereum's Oct. 6 Glamsterdam test will show whether validators coordinate around a target more than three times today\u2019s 60 million default."
-    },
-    {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC heading to $85,000, ETH awaits breakout, XRP holds $1.50",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQU5nTGgtV1dXWVdwbkhNUHg5cUNReVMtamJGMVEtVHROZGgyNmYzVk90U3RsVW5IQVozcFNUbG4zZDZiWWZBd2lleUw2eUhiS0VPUzh6bVhiZXFjM0tqWU81cVZORElyRXNFSkJsRlQzbHJHTzZfdXlFMEo4dVZaOW9EZU56c1BUbV9SaHl4MWh3bjNoWngyQVVtNEhlNVF5X0pKTE1RbE92MmFWX0NOWlBFRmRBR2hSbm9uVTBJNUhiUXZBTUR2dWRmRVY2R0JXeDRGN0ZIOUVwMFVTdTJFVnE0R0QwTGZ1SGNIYTRwZ05FaWVG?oc=5",
-      "pub_date": 1790911731.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-heading-to-85-000-eth-awaits-breakout-xrp-holds-150-202610020328",
-      "image": "https://editorial.fxsstatic.com/images/i/Discover-f-61_Medium.jpg",
-      "description": "Bitcoin (BTC) approaches the key resistance zone near $85,000 on Friday after posting modest gains so far this week. Ethereum (ETH) consolidates around $2,700 as traders await its next directional move. Meanwhile, Ripple (XRP) steadies around $1.500 after recovering losses from earlier this week."
+      "headline": "Current price of Ethereum for Sept. 30, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RLVk1dkxXYnlHZ3dzbUtKVFczWm5GbVVlTWRyaEd3QVlyUFdLQ3pUNE5JeF96VkpLR1dzRHRuSHJ1Mkkydl9lUGRtdm91dEUweHlBVXUwSTIyZjU4Znd4VmtpalVVeWtK?oc=5",
+      "pub_date": 1790782440.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-30.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T11:54:17.272409+00:00"
+  "fetched_at": "2026-10-03T15:50:17.710853+00:00"
 }
