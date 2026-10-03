@@ -25,6 +25,16 @@
       "description": "Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet."
     },
     {
+      "headline": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalBXSHBodWpOUTBEWmNNUnZQY25HVzI1dWpGQk8zZFVUQndldXVkRTdwTUVDRzgxdFdteWpfVzg0dlZRUWlNSUU4Y2Flb256UWt4eTZ0bG1pQXpRUFBFSXhtYm5ST0I4aTVMdTVfTUx6QUl4ZkgyQ2E2ZnF1Zy01OW5ETVFndXJoZ19QbDJpZGFmeGo3LVFlN3ozdUFSU3YweTlfT1J5MEtaekhsbFhKTENYT3RDcV9PNmRlRg?oc=5",
+      "pub_date": 1791043200.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0bd7d25adab19bae569a11ac843bb6b058835c49-1920x1080.jpg?auto=format&q=75",
+      "description": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills."
+    },
+    {
       "headline": "Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -36,7 +46,7 @@
     },
     {
       "headline": "Ethereum Price Faces $2,800 Wall Again \u2014 Are Whales Selling or Accumulating ETH?",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcFVxUmxQU2E1cUpxbl9aa3ZLSk9CYnBzNElMNVRaTE90TWNlY3pPNmV0TEpHbGlPUGZ0UmxTRk8wY1dtYmtrMGFUeG1KOUNKM1RLcjF0YkhBOWw5THg2NXpxbEZMZlNmRV9tUzkzWFJYcUxKdXZSZXY2SWs0VUJkOVJCMmQwdE1XQTU5OEt2bzlhTWlWd0wxSEFDalZQYm1UdmJ6aDJNTk1hSUJ4QzF0UzNfZHY2N19meDh6WHlCQURFd0ZfeEtFcFAwQXdWWWhseHc?oc=5",
       "pub_date": 1791004740.0,
@@ -65,16 +75,6 @@
       "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
     },
     {
-      "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
-      "pub_date": 1790831796.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
-      "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
-    },
-    {
       "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -85,14 +85,14 @@
       "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
     },
     {
-      "headline": "New Crypto: Pepeto Announces $11.16 While Ethereum Price Prediction Points to $6,000 and Traders Hunt the Next Dogecoin",
+      "headline": "Ethereum Crypto Presale Pepeto Announces Its Final Stages Before Binance While Cardano Price Prediction Targets $3.25",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMEpoSFZZZ3FnUGFQUU1ISW1XZmZVdnluazVRa0RBR1ZVUUhUYzF4Q2FOeXBMNmhwRFJoR0Y0VS1BLTB4eml1TjdZdTZGMUpzRExQaWlNeWItekdEX2xFQUlvRjZNbGF2X0dIZk5QSWN3Wm1OeFk3dExDd29QM2V3Qk15MGtoUUtiYmFKUFBKdVAxX0FWUGlJdmRoV20wb1VHaDdCLTJlN0hvNXlDalQyYk45aE5mcllsY1NYZnh3OGRXRHY4VEFwSHNjSEdaR3hhM29jRG1rLWRzeldBemx0YU1zX0ZUQ0g3enduSVNDdkUyblZ1V29ZT3hzVTRJQlp3TnN6eG53?oc=5",
-      "pub_date": 1790959613.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-11-16-while-ethereum-price-prediction-points-to-6-000-and-traders-hunt-the-next-dogecoin-1036593848",
-      "image": "https://ml.globenewswire.com/Resource/Download/3d468443-91b5-406d-9681-6b0cbc098886/photo-2026-10-02-19-28-38.jpg",
-      "description": "Dubai, UAE, Oct.  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto announces fresh presale numbers this week: funding past $11.16 million, holders ..."
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcV9uZmRaZ3VnVnFNVG1Sdm9FUnlabk5YLTJPc0xlc01qbzYzTWhUNk1vZ1V1d012YmZCTVNMWVZqTkpTNXdQOWlhYmRNbHg4U2RMTXdJcGJvZ3BWTXVtVXpCSE5Ka21CSnFtTV9MRzBwRWo0QU52ei1kb3JqdE5fNkxaZ1VlRnRFdWFxY0YyY1ViRUg4U3Z1dnA4WlZ6TWFFLTU1dG5oeFBjUnZieGdJWGJ2bHM4MG81UEFqZXgyYWxqWEVTVWdpRTZteGZDWURkTl83emJ1TW9YV2xzT0hDSXRGTkNLaG9OeHNUNzV4Z1RDWEFUeEF0dEg1cTA2YTFUaEkzOVZB?oc=5",
+      "pub_date": 1790971456.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603",
+      "image": "https://ml.globenewswire.com/Resource/Download/a4279050-40a2-476d-803a-81d970034f5c/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25.jpg",
+      "description": "DUBAI, United Arab Emirates, Oct.  02, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto has announced its crypto presale is entering its fi..."
     },
     {
       "headline": "Current price of Ethereum for Sept. 30, 2026",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T19:02:35.355793+00:00"
+  "fetched_at": "2026-10-03T22:19:33.217131+00:00"
 }

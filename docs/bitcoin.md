@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-03T19:02:49.072348+00:00'
+updated: '2026-10-03T22:19:38.277133+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 03, 2026 at 19:02 UTC  
+**Last Updated:** October 03, 2026 at 22:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,003.62
+### $84,694.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +0.6%  
-**30d:** +6.6%  
-**90d:** +32.7%  
-**1y:** -30.6%  
+**24h:** +0.3%  
+**7d:** +0.4%  
+**30d:** +6.4%  
+**90d:** +32.4%  
+**1y:** -30.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1706.61B
+**Market Cap:** $1702.79B
 Rank #1
 
-**Circulating Supply:** 20,092,943 BTC
+**Circulating Supply:** 20,092,975 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.6%
+-32.8%
 
 **All-Time Low:** $67.81
-+125155.9%
++124877.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[I mean what else to do?](https://www.reddit.com/r/Bitcoin/comments/1wwk89c/i_mean_what_else_to_do/)**
 
-8h ago
+11h ago
 
 ---
 
 **[today is tomorrow's yesterday](https://www.reddit.com/r/Bitcoin/comments/1wwg5z5/today_is_tomorrows_yesterday/)**
 
-12h ago
+15h ago
 
 ---
 
@@ -101,13 +101,13 @@ We're at Feb 2023 cycle stage. We're going to $125k in six months and $250k by S
 
 Most people right now. Just buy and hodl.
 
-12h ago
+15h ago
 
 ---
 
 **[Buy more bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ww99iy/buy_more_bitcoin/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -115,7 +115,7 @@ Most people right now. Just buy and hodl.
 
 Pretty simple question I have been wrestling for a while. Background: I am in my late 20s and am not in my forever job. I have been investing since I was a teenager and went all in on bitcoin in ‘21. I have surpassed what my younger self thought I could acquire in btc terms. I really want to travel central/South America for a year and learn Spanish. I have more than enough in cold storage/retirement accounts that as long as I don’t touch anything I will have multi millions in USD terms at retirement age using a 10% ROI (horribly low I know… but being super conservative). I have worked my ass off and want to take a year off, but feel like it is stupid relative to my age, my current salary ($150k+ per year), and how low btc still is in USD terms. My lease ends this summer. What would you do?
 
-19h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ Pretty simple question I have been wrestling for a while. Background: I am in my
 
 How much do you buy daily/weekly/monthly?
 
-9h ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ I sold 25% of my BTC holdings for dry powder in case this october/november "bloo
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+15h ago
 
 ---
 
@@ -155,11 +155,9 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Tether’s $190 billion USDT stablecoin is coming back to the Bitcoin network this month](https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade)**
+**[Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2026/10/03/trump-just-gave-everyone-a-shocking-40-trillion-reason-to-buy-bitcoin-and-quickly/)**
 
-A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.
-
-CoinDesk • 1d ago
+Forbes • 10h ago
 
 ---
 
@@ -167,39 +165,39 @@ CoinDesk • 1d ago
 
 Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash to investors at a rate that rivals high-yield bonds and dividend stocks combined. The mechanism behind it reveals something uncomfortable about what income investors might actually be giving up.
 
-24/7 Wall St. • 1d ago
+24/7 Wall St. • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, and Solana ETFs All Saw Outflows on the Last Day of the Quarter. What Happened?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-solana-etfs-saw-163559644.html)**
+**[Robinhood Introduces 10x Leverage on Bitcoin and Ether – What Does It Mean for a Market That Just Suffered $478 Million in Liquidations?](https://finance.yahoo.com/markets/crypto/articles/robinhood-introduces-10x-leverage-bitcoin-214018102.html)**
 
-Billions poured into Bitcoin funds throughout September, then something shifted on the very last trading day of the quarter. The answer reveals a hidden pattern that repeats every three months across crypto markets.
+Robinhood just handed US traders the ability to control 10 times their money in Bitcoin and Ether, and the timing could not be more loaded. With hundreds of millions already wiped out in a single day of crypto liquidations, the question is whether this move stabilizes the market or lights a fuse.
+
+Yahoo Finance • 39m ago
+
+---
+
+**[Bitcoin Is Up 33% in 90 Days but Still Down 30% From Last Year: Who’s Still Facing Losses?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-33-90-days-still-203353629.html)**
+
+Bitcoin has staged an impressive quarterly comeback, but millions of buyers are still watching their portfolios bleed red. Whether you break even depends entirely on one number: the price you paid.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Funds Took In $2.5 Billion as the 10-Year Yield Hit 5.31%. Is Bitcoin Ignoring the Bond Market?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-funds-took-2-5-195849554.html)**
+
+Bitcoin just posted its best September in over a decade while government bonds hit yields unseen since 2002, a combination that defies almost every rule of how investors are supposed to behave. Something has to give.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.](https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-180300143.html)**
+**[Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter](https://www.cnbc.com/2026/10/02/bitcoin-just-formed-a-golden-cross-pattern-the-crypto-is-setting-up-for-a-big-fourth-quarter.html)**
 
-Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues.
+When looking for best ideas for the fourth quarter nothing jumped off the charts to me — literally — like bitcoin.
 
-Yahoo Finance • 59m ago
-
----
-
-**[BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs](https://finance.yahoo.com/markets/crypto/articles/blackrocks-ibit-etf-flashes-golden-165956722.html)**
-
-The SEC approved a Cboe rule change on Friday that allows six triple-leveraged products to list, including funds tied to Bitcoin and Ethereum.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Why bitcoin may be at an inflection point](https://www.cnbc.com/video/2026/10/02/why-bitcoin-may-be-at-an-inflection-point.html)**
-
-CNBC's Tanaya Macheel joins 'Closing Bell' to discuss why bitcoin may be at an inflection point.
-
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
@@ -209,21 +207,25 @@ Reuters • 2d ago
 
 ---
 
-**[Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2026/10/03/trump-just-gave-everyone-a-shocking-40-trillion-reason-to-buy-bitcoin-and-quickly/)**
+**[Tether’s $190 billion USDT stablecoin is coming back to the Bitcoin network this month](https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade)**
 
-Forbes • 7h ago
+A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.
 
----
-
-**[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
-
-Bloomberg.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
 **[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
 
 TribLIVE.com • 2d ago
+
+---
+
+**[Bitcoin Investors Who Bought Last Year's Rally Are Selling As Price Nears Their Break-Even, Glassnode Says](https://www.tradingview.com/news/stocktwits:517fdf221094b:0-bitcoin-investors-who-bought-last-year-s-rally-are-selling-as-price-nears-their-break-even-glassnode-says/)**
+
+As Bitcoin struggled to break past $85,000 on Saturday, investors who bought into the apex cryptocurrency during last year's rally were selling more coins per day than at any other point this year, according to on-chain analytics firm Glassnode.On X, Glassnode grouped holders by when they bought an…
+
+tradingview.com • 8h ago
 
 ---
 
@@ -253,7 +255,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
 
-⬆️ 2 • 💬 1 • 4d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 2 • 💬 1 • 5d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
 
 ---
 
@@ -265,23 +267,9 @@ Best Bitcoin commercial I’ve recently seen
 
 ---
 
-**[Show HN: Shielded Bitcoin – private payments on Bitcoin, proven in the browser](https://news.ycombinator.com/item?id=49859702)**
-
-Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test network.
-
-⬆️ 1 • 💬 0 • 6d ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
-
----
-
 **[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
 
 ⬆️ 2 • 💬 0 • 6d ago
-
----
-
-**[GitHub mutuals on AI in life sciences or bioinformatics](https://news.ycombinator.com/item?id=49940260)**
-
-⬆️ 5 • 💬 0 • 18h ago
 
 ---
 
@@ -289,13 +277,33 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 ## YouTube Videos: "bitcoin"
 
+**[It&#39;s Official: Bitcoin Has Won the Iran War!](https://www.youtube.com/watch?v=dnY5lD3njuc)**
+
+Bitcoin is outperforming through geopolitical chaos while the bond market flashes signs of serious stress. Trump is openly talking ...
+
+📺 Simply Bitcoin
+
+👁️ 2K • 👍 258 • 💬 10 • ⏱️ 16:08 • 43m ago
+
+---
+
 **[Is Bitcoin About to Shock Everyone in Q4?](https://www.youtube.com/watch?v=OklHv0Lsblo)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 89 • ⏱️ 49:05 • 6h ago
+👁️ 96K • 👍 3K • 💬 151 • ⏱️ 49:05 • 9h ago
+
+---
+
+**[Most people are NOT ready for what Bitcoin will do in 2027](https://www.youtube.com/watch?v=9wjYBYYOid0)**
+
+Will the rally in bitcoin move to new highs in 2027? It seems most people are not ready for what bitcoin will do next year in 2027.
+
+📺 Alessio Rastani
+
+👁️ 32K • 👍 1K • 💬 146 • ⏱️ 16:20 • 11h ago
 
 ---
 
@@ -305,17 +313,7 @@ Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncryp
 
 📺 Aaron Bennett
 
-👁️ 11K • 👍 468 • 💬 122 • ⏱️ 11:34 • 10h ago
-
----
-
-**[Will the Rally in Bitcoin Move to New Highs in 2027?](https://www.youtube.com/watch?v=9wjYBYYOid0)**
-
-Will the rally in bitcoin move to new highs in 2027? It seems most people are not ready for what bitcoin will do next year in 2027.
-
-📺 Alessio Rastani
-
-👁️ 20K • 👍 987 • 💬 158 • ⏱️ 16:20 • 7h ago
+👁️ 13K • 👍 502 • 💬 115 • ⏱️ 11:34 • 13h ago
 
 ---
 
@@ -325,37 +323,17 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 10K • 👍 531 • 💬 45 • ⏱️ 13:20 • 22h ago
+👁️ 11K • 👍 545 • 💬 42 • ⏱️ 13:20 • 1d ago
 
 ---
 
-**[This Hasn’t Happened in 25 years, your Bitcoin bags are not ready](https://www.youtube.com/watch?v=8Rtb-OYlFX8)**
+**[Why Bitcoin&#39;s First Supercycle Could Be Starting Right Now!](https://www.youtube.com/watch?v=BFcETjdIIHQ)**
 
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+Bitcoin's first real supercycle may be starting as Uptober collides with a worsening global bond market crisis. With Treasury yields ...
 
-📺 Lark Davis
+📺 Simply Bitcoin
 
-👁️ 14K • 👍 433 • 💬 22 • ⏱️ 11:36 • 7h ago
-
----
-
-**[STILL EARLY! Buying Crypto Today Will Make Trillionaires (5 coins)](https://www.youtube.com/watch?v=5Ky_d1gBKrU)**
-
-Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 71K • 👍 2K • 💬 96 • ⏱️ 12:27 • 18h ago
-
----
-
-**[Bitcoin XRP &amp; Solana Buying Is Going SKY HIGH And It&#39;s Going To Change The Crypto Market Forever](https://www.youtube.com/watch?v=YBIO23yVPxg)**
-
-They're making it super obvious at this point and Im shocked other people havent caught on. Amidst all the news of stock market ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 16K • 👍 1K • 💬 229 • ⏱️ 13:30 • 7h ago
+👁️ 39K • 👍 2K • 💬 81 • ⏱️ 15:10 • 2d ago
 
 ---
 
@@ -365,7 +343,27 @@ Disclaimer: none of this is financial advice. True North does not intend for any
 
 📺 Adam Livingston
 
-👁️ 15K • 👍 910 • 💬 185 • ⏱️ 16:27 • 1d ago
+👁️ 16K • 👍 931 • 💬 155 • ⏱️ 16:27 • 1d ago
+
+---
+
+**[STILL EARLY! Buying Crypto Today Will Make Trillionaires (5 coins)](https://www.youtube.com/watch?v=5Ky_d1gBKrU)**
+
+Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 78K • 👍 2K • 💬 95 • ⏱️ 12:27 • 22h ago
+
+---
+
+**[Bitcoin XRP &amp; Solana Buying Is Going SKY HIGH And It&#39;s Going To Change The Crypto Market Forever](https://www.youtube.com/watch?v=YBIO23yVPxg)**
+
+They're making it super obvious at this point and Im shocked other people havent caught on. Amidst all the news of stock market ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 23K • 👍 1K • 💬 218 • ⏱️ 13:30 • 11h ago
 
 ---
 
@@ -375,17 +373,7 @@ What if Bitcoin's October 2025 top was just A top, and not THE top? In this vide
 
 📺 Coinsider
 
-👁️ 27K • 👍 461 • 💬 99 • ⏱️ 10:21 • 1d ago
-
----
-
-**[MASSIVE October Bitcoin Signal! (Fed Reserve SURRENDER?)](https://www.youtube.com/watch?v=6R3ML_mbRfU)**
-
-Join - https://www.skool.com/discovercrypto/about Massive Bitcoin signal for October could have major implications for crypto ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 515 • 💬 79 • ⏱️ 1:04:21 • 1d ago
+👁️ 30K • 👍 497 • 💬 103 • ⏱️ 10:21 • 1d ago
 
 ---
 
