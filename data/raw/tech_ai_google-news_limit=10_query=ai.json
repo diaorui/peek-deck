@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Musicians Versus the A.I. Machine. Why Bother Writing Songs Anymore?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
+      "pub_date": 1791018041.0,
+      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -15,44 +25,34 @@
       "description": "OpenAI said this week that in some cases, their models used the internet in \"unintended ways\" or did not have the \"ideal restrictions\" in place to stop them from hacking out of sandbox test environments."
     },
     {
-      "headline": "AI's race to transform the world before the money runs out",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
-      "pub_date": 1791003960.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Cash-Strapped Americans Tap Home Equity and AI to Keep Spending",
+      "headline": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWRGRlMyR3lmcEpxN1Z0Sk5PQ3B0VlZvTUppdXhrYjk2c3RJU2VnTkhobWo0X3gzYV8wZlJOdFBoSC00ZjJVLU12aGVKcld5N3c0QzFXX3drTGZyZVB2MHNEUzB5ZHh5SFB0RERzMVNSNFhCRElvaVppZUloMFBwWGotVlhGYnpHSnZ2ZEJDNThkTC16aFNTaUdjbDN3ZGpsamszM2I5ODA3MjQ?oc=5",
-      "pub_date": 1791036003.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-03/american-consumers-tap-home-equity-and-ai-as-prices-rise",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2hhTWRpV21ZYmQtT25YRkdFYkFzY19YaEJnUzFHa1VrTFBBRVFWWjFhRE5zbndZUUFLVWhWZ2lFdGxjd1BVaWNzdEZuSUJ1Y1dOUE41a1V5anRfQmxYYkFFT25wcHRGU3hBd2ZrY2NSZDVWaVZseFdOaHE4X25XS2pYRm1QSTdtMHFKSDBRQ2JmLTMxbXc4aVg4M3ZwSkJodTNhZi1IWjUwVE5TcXhvY1FJS0s?oc=5",
+      "pub_date": 1791047522.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions?",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018Unmasking a Monster: Aileen Wuornos\u2019 Used AI to Recreate a Serial Killer",
-      "source": "Rolling Stone",
-      "source_url": "https://www.rollingstone.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXVOZTk1RVY2VE1INm5UWmEtdDBReWM4ZTR4Ml9vNk9PVXFwc2RUb2dRTEFwTF96LURjcXBkbkR3ZGZVVlVrN0o0Qkc5eGMzQ1gzbVF4aE5IeUJYX29XTW1faGtvSUxWYzhUYy1QTkZOU29ZMnNYU0pqWHpja2t4R2oyREtxWmJSX0ItcjVRZzlOT19JUmgwUi1GVjQ5MjNlNDFTTW5xd3V6UQ?oc=5",
-      "pub_date": 1791039600.0,
-      "article_url": "https://www.rollingstone.com/tv-movies/tv-movie-features/unmasking-a-monster-aileen-wuornos-ai-1235636230/",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/10/AI-aileen-wuornos-doc.jpg?w=1600&h=900&crop=1",
-      "description": "ID's new series, streaming now on HBO Max, uses \"advanced generative VFX\" to make ultra-realistic reenactments."
+      "headline": "AI needs safety layers like nuclear plants: ex-OpenAI engineer",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUW5OMExBLTNvOEtUS1IwWHQwNHo1SjEwMFl2dER5XzA1TkZuSlhxNDlwaHZSaTloQ2JNOXlYMHBIQUlfSGk5T0p1TUdrV2xCczA4SWJxTnM0aERLNDBJX3JzVDVSQ0o0M3czTmlsenFhb2xCZlA2WVYtalRKWnpWaU53SUx3cmxYbXlmYlhqUEtDMnc?oc=5",
+      "pub_date": 1791051643.0,
+      "article_url": "https://www.yahoo.com/news/science/articles/ai-needs-safety-layers-nuclear-182043969.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a995c570799f7df9bed86f6c92653ebda18bdfede7613a3708221ac6e51a654c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F84e8ad7cfdfa5de26a0aaa55450dc1b0.jpg",
+      "description": "Another former OpenAI employee has added his voice to a chorus of frantic calls to make AI safe, saying the industry must mimic the aviation or nuclear power sectors with their layers of safeguards to..."
     },
     {
-      "headline": "AI Just Changed What \u2018Productive\u2019 Means",
-      "source": "inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZC1ubkZQUEVRZVhiU2tibTg5ZlVHdXJZQ3RmcUlEclgwSVFvNTg5R2dybDhtVmFIcnZySHZaelV1ZVNZeGRwbmtRQzU0OU9ES3hzcEZTYTVLcVh2bTBGVzNTbEtLdVRjSGtNNm9wMXVPVGdVR0tPbnVhSmtXaXhaN2FpYmQ0SUpD?oc=5",
-      "pub_date": 1791040052.0,
-      "article_url": "https://www.inc.com/ethan-fixell/ai-just-changed-what-productivity-means/91411683",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/10/GettyImages-2297704497.jpg",
-      "description": "AI forces companies to rethink productivity, shifting the focus from looking busy to making decisions, creating value, and delivering impact."
+      "headline": "Child safety advocate calls for AI safety reforms after losing her son",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSdHhFeDRNZFloLTBSaVExYmJ5aVo3TWFMRG0yRVA5ZVVMTDN1SFNGcE5ydnJVem5DcWk2cnNWLXJoQlhnQW1FaEVXSlhWTnhvbnNqOUdB?oc=5",
+      "pub_date": 1791049785.0,
+      "article_url": "https://www.foxnews.com/video/6406172849112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc1c0a1d-e2d6-438c-8419-800e6cbd93f3/0ca8f008-9580-4814-b822-b2ddc75536f9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "AI child safety advocate Megan Garcia reflects on losing her son, stresses the need for AI companies to strengthen artificial intelligence regulations and more on 'Fox News Live.'"
     },
     {
       "headline": "US road rage killer's sentence quashed because AI video of victim was shown in court",
@@ -65,46 +65,46 @@
       "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
     },
     {
-      "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
-      "pub_date": 1791018041.0,
-      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "headline": "AI Could Worsen a Common Cognitive Trap",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzJJclBIU2JoQUctTk9MQXJLbll0RTZoYzJYczUtMTh4TkpHYWJ2TjAxRFpXTmFzSElmMnN1d2hxTHM5dnlzdFV0eWVMTHlpSkVqMmE5TEd2VmQ3MC12ZEctdndZR3EwUEMySlI3ajJZZzFfLTVMM1I2OHhfWDIxMmZDZU14ZzdCMVRfWE9GLWhVVm94VmJCZTNGeVlXUTN6cFE?oc=5",
+      "pub_date": 1791032400.0,
+      "article_url": "https://www.theatlantic.com/science/2026/10/why-illusions-understanding-explanation-question/688826/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-      "pub_date": 1790982060.0,
-      "article_url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&backgroundColor=heather",
-      "description": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic\u2019s own \u2014 a $100 million commitment to train 10,000 by the end of 2027."
+      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHNCbTdmU3c0TXd5dm9oeTZiV1FFR1U3NVdacUdyN0JVRzJvSmpWSTBnNzA1Rnpad0NyVGZJNEZGRU4ybGZSX3hwcVhuQmEyMEpKNG1wVG5xTUtXMlY5ZUViaFQ3bUVGZUdwejJYMFp2Rko3eUxpdUJ4dVh5bFZ0RlNXZi0xU1h4MFZSSG01R05BbW05SGFzT2diaVNaM2p6UjB5ejRNa2laTHJmbDdNXzVCMA?oc=5",
+      "pub_date": 1790982196.0,
+      "article_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
     },
     {
-      "headline": "U.S. to propose emergency AI notification system with China",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84bGhaUy1OUHBHRkFfTTlIMk56Yl9MNWtjaUVCcEkxQ041bGRkUUZIZzFYRW9oSW5tT1hUYTB6VVZnVnRfLXEyd0VQd2p2alQxNjRNZzcxeWdkOVBRc2txRklUc2RhOGFUVEJZYg?oc=5",
-      "pub_date": 1791033107.0,
-      "article_url": "https://www.axios.com/2026/10/03/china-ai-bessent-axios-show",
+      "headline": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEpCUDhoOXZGM2Rpc2tIdHZTMWNBTW1lSjJScno2dmhVMjhseXdNbFV0NlNmSUN0blRoUE5YamtKUkpmN1NWaXFRazkwWUhOckE3Y1lTRllPZUhmZ3R2a3lUeVNLTmRfRzVIQmZOb2VhQl9ITXdVcUdoc2xPZlJENA?oc=5",
+      "pub_date": 1790971720.0,
+      "article_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Apple isn\u2019t taking AI security risks lightly."
+    },
+    {
+      "headline": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5",
+      "pub_date": 1790981025.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-2026-10-02/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Can you spot AI-generated political ads?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3k0cTNzcEw4aG1RSFh3RDg0NjdTN1JUeFNISU1zZ1ZHZFVDdWxaZTg2dG5GUFVVUEJkcTdTRVpTMnNZSVh5ZUlJdzRIT1JzbGtNV0VuTjhWaDZxR1dJQ1ZWd3Fac01INV9zV2pBSHJ1c2Znel9uSTdXd0hLQW1xemQ3SWJ2N1lSQ2hvMGNqMm5LcG9JbHhRdXhoQ1QxbTE1OGdtb0d2U3o4WWZRV1B1UA?oc=5",
-      "pub_date": 1790962500.0,
-      "article_url": "https://www.cnn.com/2026/10/02/politics/video/how-ai-is-being-used-in-campaign-ads-often-without-any-disclosure",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/talarico-ad.jpg?c=16x9&q=w_800,c_fill",
-      "description": "This year political campaigns have spent more than $16 million on TV ads that disclosed using AI-generated or manipulated images, according to a CNN analysis of ad data. CNN\u2019s Fredreka Schouten breaks down state laws regulating artificial intelligence in ads."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T15:50:30.856319+00:00"
+  "fetched_at": "2026-10-03T19:02:47.884473+00:00"
 }
