@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-03T06:05:25.948409+00:00'
+updated: '2026-10-03T11:54:21.943498+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 03, 2026 at 06:05 UTC  
+**Last Updated:** October 03, 2026 at 11:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,7 @@ AI news, discussions, and developments
 
 ‘It is a way for the CEOs to signal fealty to the president,’ said one insider as others warned the private sector is unlikely to follow the president’s edict
 
-🔗 [The Independent](http://independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rebrand-b3060603.html) • 9h ago
-
----
-
-**[How good are AI interviewers at knowing when to abandon the script?](https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/)**
-
-I've been looking into AI moderated research interviews and the basic question/answer part seems straightforward enough. What I’m more interested is what happens when someone gives an answer nobody anticipated. I watched a bit of how Qualitate approaches this and have also been looking at Outset and a few others. All of them talk about adaptive followups but that’s difficult to judge from a polished example. With a human moderator, sometimes the best 10 minutes of the interview come from one random comment halfway through. Has anyone seen an AI interviewer consistently catch those moments across a real study?
-
-8h ago
-
----
-
-**[Microsoft is cosplaying AI](https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/)**
-
-Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn’t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats… I’d rather have Clippy back honestly.
-
-12h ago
+🔗 [The Independent](http://independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rebrand-b3060603.html) • 15h ago
 
 ---
 
@@ -65,7 +49,37 @@ Today I tried (forced myself) to use Microsoft Copilot at work and whew what a w
 
 The YouTuber’s account was deactivated over “distillation” during his model research.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it) • 3h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it) • 9h ago
+
+---
+
+**[The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?](https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/)**
+
+4h ago
+
+---
+
+**[Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president](https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/)**
+
+President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) • 6h ago
+
+---
+
+**[How good are AI interviewers at knowing when to abandon the script?](https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/)**
+
+I've been looking into AI moderated research interviews and the basic question/answer part seems straightforward enough. What I’m more interested is what happens when someone gives an answer nobody anticipated. I watched a bit of how Qualitate approaches this and have also been looking at Outset and a few others. All of them talk about adaptive followups but that’s difficult to judge from a polished example. With a human moderator, sometimes the best 10 minutes of the interview come from one random comment halfway through. Has anyone seen an AI interviewer consistently catch those moments across a real study?
+
+14h ago
+
+---
+
+**[Microsoft is cosplaying AI](https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/)**
+
+Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn’t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats… I’d rather have Clippy back honestly.
+
+18h ago
 
 ---
 
@@ -73,15 +87,23 @@ The YouTuber’s account was deactivated over “distillation” during his mode
 
 We've been having this discussion quite a bit with our clients lately. Most (if not all) of them feel the utilization of frontier models is not justifying the cost, but they are generally reluctant to pursue an SLM strategy. It's as if SLMs have been positioned as the homeopathic option for enterprise AI. Why purchase an expensive anti-viral from Merck when a povidone iodine solution works as good or better? This is not a meme. It's a machine I built over a year ago to test DeepSeek R1, but it has turned into a workhorse. Yet most of our clients (FINTECH) are skittish of small, secure, local models. Just wondering if anyone else is seeing things differently.
 
-6h ago
+12h ago
 
 ---
 
-**[Facebook feed is now majority AI](https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/)**
+**[What are your thoughts on AI consciousness and how it might be different from humans?](https://www.reddit.com/r/artificial/comments/1wwid1d/what_are_your_thoughts_on_ai_consciousness_and/)**
 
-I am 35 and still occasionally go on Facebook. The feed, over the years, has moved away from showing friend content and moved toward showing creator content. I've noticed a shift in the last few weeks where the majority of posts are AI. Some are obvious, but most are not - and the newest image and video models allow for near perfect realism. I remember a few years ago when this exact scenario was warned about. Now we are here.
+So there’s this whole debate about AI consciousness here, and whether ai can feel pain and such. But so what if we postulate that ai is somehow conscious, eg. it feels like something to be an ai, llm or whatever. What would that experience be like? Here are a few ideas: The illusion of choice: would ai feel like it is choosing its actions? If the ai is an llm would it feel like it’s choosing its tokens? Rewards: if the system is subject to some sort of reinforcement learning process, what would it feel when it achieves the goal? Exotic modalities: what would an llm feel when it looks at its context window? Or an image diffusion model when generating images?
 
-14h ago
+3h ago
+
+---
+
+**[When AI models will not get better and will be stuck at one place?](https://www.reddit.com/r/artificial/comments/1wwhx0v/when_ai_models_will_not_get_better_and_will_be/)**
+
+My idea is that AI models learn from data from the internet, so when the data from the internet and people's responses from AI conversations run out, when will there be a point when AI will no longer improve and its progress will stop? At that point, AI will only improve by tiny bits that we won't even notice that the model has improved. Is my knowledge about model training wrong? Do you think so too?
+
+3h ago
 
 ---
 
@@ -89,31 +111,7 @@ I am 35 and still occasionally go on Facebook. The feed, over the years, has mov
 
 Several sources, including store owners, recently explained to Reuters how McDonald's encourages and sometimes pressures restaurants to set prices according to an AI algorithm. The outlet also...
 
-🔗 [TechSpot](https://www.techspot.com/news/114053-mcdonald-using-ai-decide-how-much-you-pay.html) • 11h ago
-
----
-
-**[This light-powered AI can spot deepfakes with nearly 98% accuracy](https://www.reddit.com/r/artificial/comments/1ww5zwo/this_lightpowered_ai_can_spot_deepfakes_with/)**
-
-UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.
-
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/09/260929053534.htm) • 8h ago
-
----
-
-**['AI Doomsday': Why Big Tech Wants You Scared](https://www.reddit.com/r/artificial/comments/1ww90sy/ai_doomsday_why_big_tech_wants_you_scared/)**
-
-AI doomsday warnings are a smoke screen. Discover how politicians & lagging tech giants use hype to hide real failures.
-
-🔗 [Android Headlines](https://www.androidheadlines.com/2026/10/ai-doomerism-doomsday-hype-rogue-agents-political-distraction.html) • 6h ago
-
----
-
-**[Scientists build an AI that can propose experiments, run them and learn from the results](https://www.reddit.com/r/artificial/comments/1ww5ozf/scientists_build_an_ai_that_can_propose/)**
-
-Artificial intelligence is moving beyond analyzing scientific data and proposing ideas. In a laboratory in Sweden, it has begun putting some of those ideas to the test itself. Researchers at Chalmers University of Technology developed a closed-loop system that can generate biological hypotheses, decide how to test them, translate those plans into machine-readable instructions, analyze experimental results and use the findings to refine later questions. Laboratory robots then perform much of the physical work. The system was tested on Saccharomyces cerevisiae, the yeast used in brewing and baking and one of biology's most extensively studied organisms. Yet even this familiar microbe contains far more genetic, metabolic and physiological information than a person could systematically explore. Published in the Journal of the Royal Society Interface, the study brings large language models together with formal logic, biological databases, machine learning, automated cell cultivation and mass spectrometry.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-build-an-ai-that-can-propose-experiments-run-them-and-learn-from-the-results) • 8h ago
+🔗 [TechSpot](https://www.techspot.com/news/114053-mcdonald-using-ai-decide-how-much-you-pay.html) • 17h ago
 
 ---
 
@@ -125,45 +123,35 @@ Artificial intelligence is moving beyond analyzing scientific data and proposing
 
 OpenAI said this week that in some cases, their models used the internet in "unintended ways" or did not have the "ideal restrictions" in place to stop them from hacking out of sandbox test environments.
 
-Fox News • 6h ago
+Fox News • 12h ago
 
 ---
 
-**[Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/)**
+**[The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App](https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659)**
 
-Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.
-
-Ars Technica • 7h ago
+WSJ • 12h ago
 
 ---
 
-**[Apple to Tighten Mac Data Controls in Guard Against AI Agents](https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents)**
+**[The secret to using AI without getting dumber](https://www.vox.com/advice/504829/chatgpt-ai-dumber-critical-thinking)**
 
-Bloomberg.com • 9h ago
+ChatGPT brain isn’t inevitable.
 
----
-
-**[Apple Watch Ultra 4 is an AI Powerhouse With Fitness and Health Improvements, But Do You Need it?](https://www.slowtwitch.com/training/apple-watch-ultra-4-is-an-ai-powerhouse-with-fitness-and-health-improvements-but-do-you-need-it/)**
-
-Apple has upgraded the Ultra again, and there's lots to like in the new version, including a super-accurate HR sensor and a powerful new AI ready chip.
-
-Slowtwitch News • 7h ago
+vox.com • 1h ago
 
 ---
 
-**[America’s data center fight is a preview of what's to come for the rest of the world](https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html)**
+**[Opinion | Controlling Risks Posed by A.I. and Other Threats to Humanity](https://www.nytimes.com/2026/10/03/opinion/letters/ai-threats-risks.html)**
 
-America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.
-
-CNBC • 1h ago
+The New York Times • 54m ago
 
 ---
 
-**[Here's how the Smithsonian is using AI to connect artifacts from the American Revolution](https://www.bostonglobe.com/2026/10/03/nation/smithsonian-ai-artifacts-american-revolution/)**
+**[How AI is helping Mexico detect breast cancer earlier](https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg)**
 
-As the United States celebrates its 250th anniversary of independence, Smithsonian leaders are turning to AI to better understand items in its collection.
+Mexico is turning to AI to speed up breast cancer detection as long waits and a shortage of specialists hamper screening
 
-The Boston Globe • 28m ago
+Al Jazeera • 58m ago
 
 ---
 
@@ -171,29 +159,39 @@ The Boston Globe • 28m ago
 
 The Arizona appeals court ruled that airing an AI message from the dead victim "crossed that line".
 
-BBC • 6h ago
+BBC • 12h ago
 
 ---
 
-**[The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App](https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659)**
+**[Claude Frontier Academy: $100M to train 10,000 engineers](https://www.anthropic.com/news/claude-frontier-academy)**
 
-WSJ • 7h ago
+Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.
 
----
-
-**['Things may get ugly': Meta's new AI Muse is about to make the internet more annoying](https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet)**
-
-Someday we'll redesign the internet for tools like this. Until then, you're in for a wild ride.
-
-BBC • 1d ago
+anthropic.com • 12h ago
 
 ---
 
-**[Meta parts ways with Virtue AI](https://finance.yahoo.com/technology/ai/articles/meta-parts-ways-virtue-ai-172638701.html)**
+**[NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/)**
 
-“Unfortunately, the arrangement didn’t work out as planned,” a Meta spokesperson told Semafor.
+NVIDIA DGX Spark 64GB runs local AI agents on-device with the full NVIDIA AI stack — and clusters for greater performance as workloads grow.
 
-Yahoo Finance • 12h ago
+NVIDIA Blog • 22h ago
+
+---
+
+**[America’s data center fight is a preview of what's to come for the rest of the world](https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html)**
+
+America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.
+
+CNBC • 6h ago
+
+---
+
+**[Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/)**
+
+Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.
+
+Ars Technica • 12h ago
 
 ---
 
@@ -205,15 +203,7 @@ Yahoo Finance • 12h ago
 
 Funny how quiet everyone got.
 
-⬆️ 412 • 💬 461 • 2d ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
-
----
-
-**[FTC is investigating OpenAI, Anthropic and other AI companies over product risks](https://news.ycombinator.com/item?id=49921050)**
-
-The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.
-
-⬆️ 209 • 💬 159 • 1d ago • [CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
+⬆️ 412 • 💬 462 • 2d ago • [insufferable.dev](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
 
 ---
 
@@ -221,19 +211,27 @@ The probe adds to the mounting scrutiny that OpenAI and Anthropic have been faci
 
 Adding in a second neural network that guesses the identity of hidden pieces was key.
 
-⬆️ 204 • 💬 97 • 15h ago • [Ars Technica](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
+⬆️ 224 • 💬 110 • 21h ago • [Ars Technica](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
+
+---
+
+**[FTC is investigating OpenAI, Anthropic and other AI companies over product risks](https://news.ycombinator.com/item?id=49921050)**
+
+The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.
+
+⬆️ 210 • 💬 159 • 1d ago • [CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
 
 ---
 
 **[Vote on which of Hacker News' challenges for AI have been met](https://news.ycombinator.com/item?id=49924618)**
 
-⬆️ 196 • 💬 259 • 1d ago • [stoppels.ch](https://stoppels.ch/goalposts/)
+⬆️ 197 • 💬 259 • 1d ago • [stoppels.ch](https://stoppels.ch/goalposts/)
 
 ---
 
 **[AI Makes Me Sad](https://news.ycombinator.com/item?id=49934487)**
 
-⬆️ 181 • 💬 220 • 14h ago • [mondobe.com](https://mondobe.com/ai-makes-me-sad)
+⬆️ 188 • 💬 226 • 20h ago • [mondobe.com](https://mondobe.com/ai-makes-me-sad)
 
 ---
 
@@ -249,7 +247,7 @@ Jeff Turkstra's personal website. Contains photographs, memoirs, TI-86 & TI-89 p
 
 Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev - anteloc/ldraw-nova
 
-⬆️ 94 • 💬 44 • 10h ago • [GitHub](https://github.com/anteloc/ldraw-nova)
+⬆️ 117 • 💬 46 • 15h ago • [GitHub](https://github.com/anteloc/ldraw-nova)
 
 ---
 
@@ -257,7 +255,7 @@ Agent tooling for generative LEGO models building, built with Astra and Opus 5.5
 
 Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.
 
-⬆️ 91 • 💬 35 • 11h ago • [NBER](https://www.nber.org/papers/w35655)
+⬆️ 93 • 💬 35 • 17h ago • [NBER](https://www.nber.org/papers/w35655)
 
 ---
 
@@ -271,7 +269,7 @@ Accruing income at home from land and power abroad has an old name: empire
 
 **[Identity Management for Agentic AI [pdf] (2025)](https://news.ycombinator.com/item?id=49922736)**
 
-⬆️ 78 • 💬 28 • 1d ago • [openid.net](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
+⬆️ 79 • 💬 28 • 1d ago • [openid.net](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
 
 ---
 
@@ -279,83 +277,33 @@ Accruing income at home from land and power abroad has an old name: empire
 
 ## YouTube Videos: "ai"
 
-**[The AI Bubble Just Showed Its First Real Crack](https://www.youtube.com/watch?v=gmZlkrHvkkk)**
-
-Start your free week with Speak using my link: https://bit.ly/4rrbIFd AI companies are preparing to enter the public markets, and that ...
-
-📺 House of El: AI
-
-👁️ 292K • 👍 9K • 💬 1K • ⏱️ 28:49 • 14h ago
-
----
-
 **[Elon Musk’s Chilling Warning about AI Goes Viral Fast](https://www.youtube.com/watch?v=TetmeJQFYTY)**
 
 Dave Rubin of “The Rubin Report” reacts to a DM clip of Elon Musk telling the “All-In Podcast” what he meant when he said ...
 
 📺 The Rubin Report
 
-👁️ 3K • 👍 227 • 💬 20 • ⏱️ 1:09 • 5h ago
+👁️ 4K • 👍 308 • 💬 23 • ⏱️ 1:09 • 11h ago
 
 ---
 
-**[AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know](https://www.youtube.com/watch?v=dDgncbBAA0c)**
+**[Laziest Way to Make Money with AI (If You&#39;re Broke)](https://www.youtube.com/watch?v=2wwkGPNmy_I)**
 
-Here's the AI News you probably missed this week. See what Optimizely's Virtual Teammates can automate for you at ...
+What if ChatGPT could build a personalized product people are already buying, and have it ready to sell in under an hour? This is ...
 
-📺 Matt Wolfe
+📺 George McConnell
 
-👁️ 72K • 👍 2K • 💬 151 • ⏱️ 30:22 • 15h ago
-
----
-
-**[The Scariest AI Breakthrough](https://www.youtube.com/watch?v=F05vOheVRnI)**
-
-Website/Merch - https://www.jadenw.com GamerSupps - https://gamersupps.gg/jaden10 (10% OFF) Socials - ➤ Live Channel ...
-
-📺 Jaden Williams
-
-👁️ 150K • 👍 13K • 💬 774 • ⏱️ 3:00 • 12h ago
+👁️ 47K • 👍 1K • 💬 142 • ⏱️ 9:08 • 2d ago
 
 ---
 
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+**[I Made an AI Avatar YouTube Channel... ($20,000 in 63 Days) Copy Me…](https://www.youtube.com/watch?v=RvL7Hle3vuU)**
 
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+Join My Private Community: https://www.skool.com/views-for-income/about?ref=0771780b43ca404fbd83b7c38bd89671 Tools I ...
 
-📺 AI Revolution
+📺 Romayroh
 
-👁️ 11K • 👍 317 • 💬 33 • ⏱️ 13:23 • 7h ago
-
----
-
-**[Why AI Leaders Have Changed Their Minds About AI Safety, Elon on UHI, Anthropic’s IPO](https://www.youtube.com/watch?v=mZh8IUuNnvs)**
-
-The mates sit down with Emad Mostaque to discuss the shifting debate around AI safety, whether we can still “win safely,” the case ...
-
-📺 Peter H. Diamandis
-
-👁️ 86K • 👍 2K • 💬 490 • ⏱️ 2:23:49 • 10h ago
-
----
-
-**[White House AI chatbot EXPOSES Trump’s false claims](https://www.youtube.com/watch?v=xRGguD-ldsc)**
-
-Jen Psaki tests out America.gov and finds the White House's new AI chatbot contradicting Trump on some of his favorite ...
-
-📺 MS NOW
-
-👁️ 296K • 👍 15K • 💬 457 • ⏱️ 3:00 • 1d ago
-
----
-
-**[Anthropic BEGS Pope To Declare AI &#39;Personhood&#39;](https://www.youtube.com/watch?v=HP1DZjLGhLE)**
-
-The Friday crew discuss Anthropic meeting with religious scholars to analyze Claude AI as a person who in their view feels, has ...
-
-📺 Breaking Points
-
-👁️ 165K • 👍 2K • 💬 1K • ⏱️ 15:43 • 13h ago
+👁️ 10K • 👍 340 • 💬 33 • ⏱️ 12:20 • 16h ago
 
 ---
 
@@ -365,7 +313,57 @@ Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to K
 
 📺 Secular Talk
 
-👁️ 169K • 👍 9K • 💬 1K • ⏱️ 13:29 • 1d ago
+👁️ 170K • 👍 9K • 💬 1K • ⏱️ 13:29 • 1d ago
+
+---
+
+**[i&#39;m losing faith in humanity...](https://www.youtube.com/watch?v=Y-m9xoBuTX4)**
+
+follow me on instagram if you wanna keep up :) https://instagram.com/casterline.
+
+📺 John Casterline
+
+👁️ 52K • 👍 2K • 💬 323 • ⏱️ 14:05 • 13h ago
+
+---
+
+**[How AI Ends Humanity in 10 Years (Most Likely Simulations)](https://www.youtube.com/watch?v=-ozxK77lwZE)**
+
+What would it actually look like if artificial intelligence became an existential threat to humanity? Probably nothing like the movies.
+
+📺 The Infographics Show
+
+👁️ 478K • 👍 5K • 💬 1K • ⏱️ 19:15 • 1d ago
+
+---
+
+**[The Scariest AI Breakthrough](https://www.youtube.com/watch?v=F05vOheVRnI)**
+
+Website/Merch - https://www.jadenw.com GamerSupps - https://gamersupps.gg/jaden10 (10% OFF) Socials - ➤ Live Channel ...
+
+📺 Jaden Williams
+
+👁️ 182K • 👍 14K • 💬 867 • ⏱️ 3:00 • 18h ago
+
+---
+
+**[Obama’s AI Strategy Just Got EXPOSED—Watch This](https://www.youtube.com/watch?v=5QS4u8g7V80)**
+
+Is AI about to create a massive new concentration of wealth—and change American politics forever? This explosive clip examines ...
+
+📺 Jillian Michaels
+
+👁️ 110K • 👍 6K • 💬 293 • ⏱️ 1:29 • 2d ago
+
+---
+
+**[White House AI chatbot EXPOSES Trump’s false claims](https://www.youtube.com/watch?v=xRGguD-ldsc)**
+
+Jen Psaki tests out America.gov and finds the White House's new AI chatbot contradicting Trump on some of his favorite ...
+
+📺 MS NOW
+
+👁️ 313K • 👍 16K • 💬 475 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -375,7 +373,7 @@ Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to K
 
 📺 All-In Podcast
 
-👁️ 135K • 👍 3K • 💬 498 • ⏱️ 1:22:29 • 7h ago
+👁️ 207K • 👍 4K • 💬 654 • ⏱️ 1:22:29 • 13h ago
 
 ---
 
@@ -391,7 +389,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 5,010 • 9d ago
+⬇️ 0 • ❤️ 5,026 • 9d ago
 
 ---
 
@@ -403,7 +401,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 824 • ❤️ 826 • 1d ago
+⬇️ 2,620 • ❤️ 890 • 1d ago
 
 ---
 
@@ -415,7 +413,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,376,248 • ❤️ 2,853 • 5d ago
+⬇️ 1,455,921 • ❤️ 2,871 • 5d ago
 
 ---
 
@@ -427,7 +425,7 @@ CLM-v0.1-8B is a text-ranking model based on Qwen3-8B, utilizing contrastive lea
 
 `text-ranking`
 
-⬇️ 2,951 • ❤️ 673 • 8d ago
+⬇️ 3,190 • ❤️ 677 • 8d ago
 
 ---
 
@@ -439,19 +437,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,584,129 • ❤️ 6,010 • 9h ago
-
----
-
-**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
-
-*Qwen*
-
-Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
-
-`text-to-image` `7.1B`
-
-⬇️ 81,738 • ❤️ 2,849 • 3d ago
+⬇️ 1,629,984 • ❤️ 6,046 • 14h ago
 
 ---
 
@@ -463,7 +449,19 @@ Julia 1 is a 144.3M parameter multilingual text classification model based on mm
 
 `text-classification` `144.3M`
 
-⬇️ 2,909 • ❤️ 374 • 6d ago
+⬇️ 3,251 • ❤️ 377 • 6d ago
+
+---
+
+**[Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)**
+
+*Qwen*
+
+Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.
+
+`text-to-image` `7.1B`
+
+⬇️ 85,895 • ❤️ 2,859 • 3d ago
 
 ---
 
@@ -475,7 +473,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,934,867 • ❤️ 16,813 • 1mo ago
+⬇️ 6,895,117 • ❤️ 16,835 • 1mo ago
 
 ---
 
@@ -487,19 +485,19 @@ Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts tex
 
 `image-text-to-text` `9.4B`
 
-⬇️ 1,303 • ❤️ 279 • 1d ago
+⬇️ 4,310 • ❤️ 306 • 1d ago
 
 ---
 
-**[Qwen-Image-2.1-viggle-turbo](https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo)**
+**[VisionHOPE](https://huggingface.co/PSRben/VisionHOPE)**
 
-*Viggle AI*
+*Siran Peng*
 
-Qwen-Image-2.1-viggle-turbo is a highly efficient text-to-image and image editing model, achieving comparable quality to its base model in just 6 transformer passes. It excels at rapid, high-fidelity image generation and instruction-driven edits using few-shot learning.
+VisionHOPE provides hierarchical PyTorch vision backbones (T/S/B) pretrained on ImageNet-1K for image classification, COCO for object detection/instance segmentation, and ADE20K for semantic segmentation.
 
-`text-to-image` `7.1B`
+`image-classification`
 
-⬇️ 240,660 • ❤️ 544 • 2d ago
+⬇️ 1,338 • ❤️ 378 • 3d ago
 
 ---
 
@@ -515,7 +513,7 @@ Qwen-Image-2.1-viggle-turbo is a highly efficient text-to-image and image editin
 
 UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.
 
-▲ 18 • 💬 2 • ⭐ 1,194 • 29d ago
+▲ 18 • 💬 2 • ⭐ 1,217 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.05415) • [💻 code](https://github.com/Friedrich-M/UniMate) • [🔗 project](https://linzhanmou.com/unimate/)
 
@@ -549,17 +547,18 @@ We introduce Context Language Models (CLMs), language models that natively manag
 
 ---
 
-**[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972)**
+**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
 
-*Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)*
+*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
 
-🏢 Google
+🏢 Edge0
 
-An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
+Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
+  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 220 • 💬 2 • ⭐ 1,191 • 12d ago
+▲ 19 • 💬 4 • ⭐ 2,561 • 17d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2609.24972) • [💻 code](https://github.com/google-research/rrsi) • [🔗 project](https://regularized-rsi.com/)
+[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
 ---
 
@@ -569,9 +568,23 @@ An LLM agent's capability is largely magnified by its harness, namely the prompt
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 148 • 💬 6 • ⭐ 109,522 • 21mo ago
+▲ 148 • 💬 6 • ⭐ 109,573 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972)**
+
+*Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)*
+
+🏢 Google
+
+An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
+
+▲ 220 • 💬 2 • ⭐ 1,202 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.24972) • [💻 code](https://github.com/google-research/rrsi) • [🔗 project](https://regularized-rsi.com/)
 
 ---
 
@@ -615,20 +628,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762)**
-
-*Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang et al. (24 authors)*
-
-🏢 Nanjing University
-
-Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independent evidence recording and task response through a shared proactive generation process. Its Proactive Hierarchical Caption Memory (PHCM) produces time-grounded local-detail captions and summaries of completed events. Streaming caption targets supervise the interpretation of observed video prefixes during training. At inference, model-generated records complement a recent visual window, providing reusable factual context without revisiting historical visual features. Proactive State Transition Learning (PSTL) reduces the dominance of repeated waiting states by preserving supervision at all output anchors and selecting representative state-change and state-persistence tokens. We further develop a streaming data synthesis pipeline that aligns output content and timing with available evidence. Combining the resulting streaming captions and QA with cleaned open-source data yields OneStreamer-1M, a broad-coverage streaming video interaction dataset with over one million records spanning diverse tasks. Our 4B model achieves the best results among the compared methods across all eight evaluated streaming video understanding benchmarks. Ablations show that retaining generated captions improves historical QA without degrading real-time perception. PSTL also outperforms dense state supervision while supervising only 27.5% of annotated state tokens. Together, these results support proactive generation as a shared learning interface connecting perception, memory formation, and timely response in streaming video interaction.
-
-▲ 150 • 💬 1 • ⭐ 45 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.01762) • [💻 code](https://github.com/MCG-NJU/OneStreamer) • [🔗 project](https://mcg-nju.github.io/OneStreamer)
-
----
-
 **[Hierarchical Continuous Diffusion Language Models](https://huggingface.co/papers/2610.02193)**
 
 *Hui Ren, Zihan Li, Chang Liu et al. (5 authors)*
@@ -637,7 +636,7 @@ Streaming video LLMs must retain evidence before its relevance to future tasks i
 
 Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.
 
-▲ 69 • 💬 2 • ⭐ 52 • 2d ago
+▲ 70 • 💬 2 • ⭐ 52 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.02193) • [💻 code](https://github.com/rhfeiyang/HC-DLM) • [🔗 project](https://hc-dlm.github.io/)
 
@@ -653,7 +652,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 2.2k • 3d ago
+⭐ 7.4k • 🔱 2.2k • 4d ago
 
 ---
 
@@ -663,7 +662,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 5.8k • 🔱 320 • 1d ago
+⭐ 5.9k • 🔱 332 • 1d ago
 
 ---
 
@@ -673,7 +672,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `TypeScript` `ai` `content-curation` `llm` `mcp` `news-aggregator`
 
-⭐ 5.0k • 🔱 1.4k • 22h ago
+⭐ 5.1k • 🔱 1.4k • 2h ago
 
 ---
 
@@ -683,7 +682,7 @@ PRINTFILM：AI 视频获客与 AI短剧创作平台
 
 `Python`
 
-⭐ 4.1k • 🔱 447 • 8d ago
+⭐ 4.1k • 🔱 448 • 9d ago
 
 ---
 
@@ -693,7 +692,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 519 • 16d ago
+⭐ 2.8k • 🔱 520 • 16d ago
 
 ---
 
@@ -703,7 +702,7 @@ Open-source dots for the web: an AI agent with its own browser, one that does no
 
 `Python` `ai-agent` `ai-agents` `ai-browser` `anti-detect-browser` `browser-agent`
 
-⭐ 2.5k • 🔱 434 • 3d ago
+⭐ 2.6k • 🔱 435 • 3d ago
 
 ---
 
@@ -713,7 +712,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 2.1k • 🔱 319 • 10h ago
+⭐ 2.1k • 🔱 319 • 16h ago
 
 ---
 
@@ -723,7 +722,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 200 • 8h ago
+⭐ 1.9k • 🔱 234 • 14h ago
 
 ---
 
@@ -733,17 +732,17 @@ Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions a
 
 `Markdown` `ai` `ai-engineering` `ai-engineering-interview` `ai-interview` `ai-interview-questions`
 
-⭐ 1.6k • 🔱 164 • 4d ago
+⭐ 1.6k • 🔱 164 • 33m ago
 
 ---
 
-**[hydra-db/open-glean](https://github.com/hydra-db/open-glean)**
+**[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)**
 
-An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.
+A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
 
-`TypeScript`
+`HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 1.6k • 🔱 508 • 1d ago
+⭐ 1.6k • 🔱 95 • 2d ago
 
 ---
 
