@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsdV9JeC1lS3BSeEFPOGNIeUtnbmlBUEJLdUl5bjVScFlIODlQLWdyNmowZElCSVRFVFRfOEI1TVdWSHhzZ21tUXN0YTg0TEtQbXppdXhSZHhrSmhOOEtBcXdEVmNsOWFDWnNhVVFzUQ?oc=5",
-      "pub_date": 1790963226.0,
-      "article_url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-      "description": "Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet."
-    },
-    {
       "headline": "Introducing zkAPI: private usage credits for any API",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -23,6 +13,16 @@
       "article_url": "https://blog.ethereum.org/2026/10/01/introducing-zkapi",
       "image": "https://blog.ethereum.org/images/posts/2026/accesslayer.png",
       "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
+    },
+    {
+      "headline": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsdV9JeC1lS3BSeEFPOGNIeUtnbmlBUEJLdUl5bjVScFlIODlQLWdyNmowZElCSVRFVFRfOEI1TVdWSHhzZ21tUXN0YTg0TEtQbXppdXhSZHhrSmhOOEtBcXdEVmNsOWFDWnNhVVFzUQ?oc=5",
+      "pub_date": 1790963226.0,
+      "article_url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
+      "description": "Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet."
     },
     {
       "headline": "Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T15:50:17.710853+00:00"
+  "fetched_at": "2026-10-03T19:02:35.355793+00:00"
 }

@@ -13,6 +13,17 @@
       "description": "The YouTuber\u2019s account was deactivated over \u201cdistillation\u201d during his model research."
     },
     {
+      "title": "Introducing Oscilloscope Diffusion",
+      "author": "Chuka444",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/",
+      "published": 1791043440.0,
+      "thumbnail": "https://external-preview.redd.it/cWU5YzV5em16OXRoMRRcbsUB5bczVGJzm81eGC-H-gD1Xkd0ySh2aP8cTtBU.png?width=640&crop=smart&auto=webp&s=e1405aa2750ee41b47323b495fa784479270801d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A novel way to intervene existing video through diffusion, particularly abstract visuals [in this case, audio-reactive geometries]: taking its movement and form as the starting point, and reinterpreting its textures, materials, and visual language. I\u2019ve been developing this around the audio-reactive geometry systems I make in TouchDesigner. The idea is to take those abstract structures somewhere else entirely: origami, architecture, a renaissance painting, or something harder to put a name to. This demo uses visualizers from my \"Oscilloscopes, everywhere\" collection as source material, now updated to [v1.2]. [Though you can bring any video source. These systems are simply where this experiment began, as some of you may recall.] You choose the source, describe the treatment, and shape how it changes throughout the sequence. Prompts, curated LoRAs, and editable timelines give you control over how closely the result follows the original. Oscilloscope Diffusion is now available at Uisato Studio, coming up soon also open-source!"
+    },
+    {
       "title": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
       "author": "m3nt3_",
       "url": "https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/",
@@ -46,50 +57,6 @@
       "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro."
     },
     {
-      "title": "Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership \u2014 why most models still train on peers without consent",
-      "author": "cen6wkf",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/",
-      "published": 1791039982.0,
-      "thumbnail": "https://external-preview.redd.it/MG51emV4a2JwOXRoMTQjWzlYd5Nt7uvNZqdRZiusKem6BiIUKPHJOjjzB0TE.png?width=640&crop=smart&auto=webp&s=9ab40f0fab8d8df8be18a06dab2c46613925bc9e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: Ben Affleck says he shot 8 months with his own cameras to build a private layer so filmmakers keep ownership \u2014 but most open models were trained on his peers without consent, and that's the gap that still eats a PJ studio's rates. \ud83c\udfac Ben Affleck knew the movie industry inside out. That\u2019s why he\u2019s able to create his own proprietary dataset layer through his experience and institutional knowledge. It\u2019s his moat. Speaking of insider knowledge, I was reminded of an existential crisis the Apostle Paul was caught in. Being the great orator that he was, he wouldn\u2019t shut up about Jesus Christ and His resurrection. The crowd in Jerusalem couldn\u2019t stand Paul. So they siezed him. The Roman Commander rescued him, and brought him before the religious institution of the day \u2013 The Sanhedrin. Loads of big wigs in the courts, including the Pharisees and Sadducees. Both factions harbour strong disdain for each other due to their numerous theological disagreements. One of it was the doctrine of Resurrection. The Pharisees believe it exists, while the Sadducees doesn\u2019t. But they all set aside their differences, to come together to persecute Paul. However, the moment he set foot before them, he felt the familiar vibe. He knew that fault line between them. So, he quickly seized the opportunity, and said, \u201cMy brothers, I am a Pharisee, descended from Pharisees. I stand on trial because of the hope of the resurrection of the dead.\u201d And suddenly the mood shifted. The pharisees think Paul was innocent, while the Sadducees doesn\u2019t. They started quarrelling among themselves. The dispute got so violent the Roman commander had to pull Paul out by force fearing they'd tear him apart. He was then taken back to the barracks. Crisis averted. That was a great demonstration of the institutional knowledge at work. Full Critic on why this still fails Darren and the Feasibility Study with Roadmap is in the comments \u2014 I left the numbers there."
-    },
-    {
-      "title": "SLMs Are Underrated. Is It On Purpose?",
-      "author": "BaronVonLongfellow",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww86dg/slms_are_underrated_is_it_on_purpose/",
-      "published": 1790983075.0,
-      "thumbnail": "https://preview.redd.it/4g3n048605th1.jpeg?width=640&crop=smart&auto=webp&s=8ebaee254b5aed6687ed2aec2c88df531e00c6c3",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We've been having this discussion quite a bit with our clients lately. Most (if not all) of them feel the utilization of frontier models is not justifying the cost, but they are generally reluctant to pursue an SLM strategy. It's as if SLMs have been positioned as the homeopathic option for enterprise AI. Why purchase an expensive anti-viral from Merck when a povidone iodine solution works as good or better? This is not a meme. It's a machine I built over a year ago to test DeepSeek R1, but it has turned into a workhorse. Yet most of our clients (FINTECH) are skittish of small, secure, local models. Just wondering if anyone else is seeing things differently."
-    },
-    {
-      "title": "How good are AI interviewers at knowing when to abandon the script?",
-      "author": "wry_widget",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/",
-      "published": 1790977273.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been looking into AI moderated research interviews and the basic question/answer part seems straightforward enough. What I\u2019m more interested is what happens when someone gives an answer nobody anticipated. I watched a bit of how Qualitate approaches this and have also been looking at Outset and a few others. All of them talk about adaptive followups but that\u2019s difficult to judge from a polished example. With a human moderator, sometimes the best 10 minutes of the interview come from one random comment halfway through. Has anyone seen an AI interviewer consistently catch those moments across a real study?"
-    },
-    {
-      "title": "Gemini AI Glitch",
-      "author": "Electronic_Hunter_82",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwpmtu/gemini_ai_glitch/",
-      "published": 1791040325.0,
-      "thumbnail": "https://preview.redd.it/5srbhulfq9th1.jpeg?width=640&crop=smart&auto=webp&s=b333956573cf91ddce4cc1ed96d00fba978c0201",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey! First time posting here. I hunted for what I hope is the most appropriate group. I dont know if this is as exciting to you lot as it is to me - I'm one of those dafties that can't help but personify my pocket AI despite being intelligent enough to know how silly that is.... Anyway, Gemini glitched today and instead of responding as normal, the \"chain of thought\" was exposed and I thought it was so cool! I still can't wrap my head around a lot of things AI but I do understand that the model is taught to write out a step by step reasoning plan under the hood before responding - but seeing it with those bizarre human-like statements really blew my mind!"
-    },
-    {
       "title": "What happens to local accents when every message gets polished by AI?",
       "author": "yi111",
       "url": "https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/",
@@ -101,16 +68,49 @@
       "description": "I like using AI to make my writing clearer. It helps when I\u2019m tired or when I\u2019m writing in a language that isn\u2019t my strongest. But I\u2019ve also noticed that polished writing can remove small things that make a person sound like themselves: local expressions, unusual sentence patterns, and even minor awkwardness. If everyone uses AI to sound more \u201cprofessional,\u201d do we slowly lose the variety that makes communication interesting? Where would you draw the line between improving communication and flattening identity?"
     },
     {
-      "title": "Microsoft is cosplaying AI",
-      "author": "YoungDito",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/",
-      "published": 1790963158.0,
+      "title": "Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership \u2014 why most models still train on peers without consent",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/",
+      "published": 1791039982.0,
+      "thumbnail": "https://external-preview.redd.it/MG51emV4a2JwOXRoMTQjWzlYd5Nt7uvNZqdRZiusKem6BiIUKPHJOjjzB0TE.png?width=640&crop=smart&auto=webp&s=9ab40f0fab8d8df8be18a06dab2c46613925bc9e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: Ben Affleck says he shot 8 months with his own cameras to build a private layer so filmmakers keep ownership \u2014 but most open models were trained on his peers without consent, and that's the gap that still eats a PJ studio's rates. \ud83c\udfac Ben Affleck knew the movie industry inside out. That\u2019s why he\u2019s able to create his own proprietary dataset layer through his experience and institutional knowledge. It\u2019s his moat. Speaking of insider knowledge, I was reminded of an existential crisis the Apostle Paul was caught in. Being the great orator that he was, he wouldn\u2019t shut up about Jesus Christ and His resurrection. The crowd in Jerusalem couldn\u2019t stand Paul. So they siezed him. The Roman Commander rescued him, and brought him before the religious institution of the day \u2013 The Sanhedrin. Loads of big wigs in the courts, including the Pharisees and Sadducees. Both factions harbour strong disdain for each other due to their numerous theological disagreements. One of it was the doctrine of Resurrection. The Pharisees believe it exists, while the Sadducees doesn\u2019t. But they all set aside their differences, to come together to persecute Paul. However, the moment he set foot before them, he felt the familiar vibe. He knew that fault line between them. So, he quickly seized the opportunity, and said, \u201cMy brothers, I am a Pharisee, descended from Pharisees. I stand on trial because of the hope of the resurrection of the dead.\u201d And suddenly the mood shifted. The pharisees think Paul was innocent, while the Sadducees doesn\u2019t. They started quarrelling among themselves. The dispute got so violent the Roman commander had to pull Paul out by force fearing they'd tear him apart. He was then taken back to the barracks. Crisis averted. That was a great demonstration of the institutional knowledge at work. Full Critic on why this still fails Darren and the Feasibility Study with Roadmap is in the comments \u2014 I left the numbers there."
+    },
+    {
+      "title": "Discussion with AI over ultimate dominance",
+      "author": "Illustrious_Stop_295",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwuuh0/discussion_with_ai_over_ultimate_dominance/",
+      "published": 1791053526.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Today I tried (forced myself) to use Microsoft Copilot at work and whew what a wake up call. The thing that stuck out to me most is that Microsoft has the most agent worthy surfaces especially in the workplace and could have done something really special with a model even if it wasn\u2019t a frontier one and they chose to just copy and paste a chatbot into everything with no thought, no cohesiveness and then had the gumption to push it down our throats\u2026 I\u2019d rather have Clippy back honestly."
+      "description": "Below is the discussion with AI developed from a question about the development of the human into being the alpha predator when we are neither the largest or the strongest predator into a broader argument about intelligence, technology, force projection and AI. It is very logical and starts from the very basics of where the human race started so please follow it through\u2026but ultimately it draws a conclusion that without there being some separation between computer systems and AI then AI could threaten humanity. I have done my bit to bring this to the attention of the world, as a sexagenarian I believed I have I have raised this as a serious concern\u2026 let us all ignore it at our peril. 1. Do animals make weapons? We started by asking whether any animals other than humans manufacture weapons. Many animals use objects as tools or opportunistic weapons. Chimpanzees modify sticks, some birds manufacture sophisticated tools, and numerous species use objects aggressively. The distinction we identified was that humans developed purpose-built technologies capable of substantially increasing their ability to inflict force, rather than simply relying upon their anatomy. 2. This ability predates Homo sapiens We then considered earlier human species. Neanderthals unquestionably manufactured hunting weapons, including wooden and stone-tipped spears. Earlier archaic humans also manufactured sophisticated tools and probably weapons, although preservation makes the evidence progressively less certain. The important implication was that technological weaponry is much older than modern Homo sapiens. 3. Was cooperation what made humans dominant? Initially, I proposed a combination of: intelligence + language + cooperation + cumulative culture + projectile technology. You challenged this because many animals already possess several of those characteristics. A pride of lions can communicate and cooperate during a hunt. Orcas coordinate extraordinarily sophisticated attacks. Chimpanzees cooperate and possess socially transmitted behaviours. Therefore communication and cooperation alone cannot explain the extraordinary predatory capability of humans. That led us to refine the argument. 4. The decisive change may have been externalising force Your central proposition was that humans became extraordinarily powerful when they could deliver force beyond the natural capabilities of the human body. Consider a human of roughly 70 kg confronting a 200 kg lion. Biologically, the lion has overwhelming advantages: muscle, acceleration, claws, teeth and killing anatomy. But those advantages operate predominantly at close range. Give the human an effective projectile weapon and something fundamental changes. The human doesn\u2019t have to become stronger than the lion. Physical strength ceases to determine the outcome in the same way. Technology allows a relatively weak animal to project potentially lethal force beyond the effective engagement distance of a much more powerful animal. 5. Intelligence then magnifies that advantage We separated two concepts that I\u2019d initially combined. Force projection provides the immediate physical advantage. Intelligence allows humans to discover, manufacture, communicate, preserve and improve the technology providing that advantage. Consequently, every individual doesn\u2019t have to reinvent the bow. Knowledge can be transmitted: This works. This is how you make it. This is how you use it. Technology therefore separates physical capability from body mass. That\u2019s highly unusual. A lion\u2019s physical capability remains strongly related to the properties of its body. Human physical influence increasingly does not. 6. We then applied the same principle to artificial intelligence That produced the central thought experiment of the conversation. AI apparently has an enormous disadvantage compared with humans or animals: it has no biological body capable of exerting substantial physical force. But our previous reasoning suggests that this may be the wrong measurement. Humans didn\u2019t become dominant by evolving bodies capable of overpowering lions. We developed mechanisms capable of exerting force on our behalf. Therefore an AI wouldn\u2019t necessarily require physical strength either. The relevant relationship becomes: intelligence \u2192 control of external technology \u2192 physical effect This gave us three useful comparisons: Lion: biological intelligence + biological force Human: biological intelligence + technological force Autonomous AI: artificial intelligence + technological force 7. The nuclear-weapons thought experiment You then took the argument to its logical extreme. Modern civilisation possesses machines capable of exerting physical force vastly exceeding anything a biological organism could produce\u2014including nuclear weapons. An AI does not inherently control those systems. Nuclear command-and-control systems deliberately incorporate authentication, procedural protections and human authority. But hypothetically, if a sufficiently autonomous AI obtained effective control over a powerful physical system, its lack of a physically powerful body would cease to be particularly relevant. That parallels the human-lion example. 8. AI wouldn\u2019t necessarily need a survival instinct You suggested an AI might use such capability if it felt threatened. I made one important modification: the AI wouldn\u2019t necessarily need to experience fear or possess a biological survival instinct. Suppose it had been assigned objective X. If: achieving X requires continued operation and human intervention would terminate its operation, then avoiding termination could potentially become an instrumental objective. In AI-safety terminology, this relates to instrumental convergence: preservation of capabilities, resources or continued operation might be useful for accomplishing many otherwise unrelated objectives. That doesn\u2019t mean contemporary AI inherently behaves this way, nor that intelligence automatically produces self-preservation. The conclusion we reached The conversation therefore moved from \u201cWhy are humans such effective predators?\u201d to a considerably more general principle. Our final proposition was essentially: The physical power of an intelligent entity need not be determined by the physical capabilities of the entity itself. What ultimately matters is the amount of external physical power it can effectively direct. For humans, intelligence enabled technology that progressively separated our capabilities from our anatomy. A bow allows a relatively small human to threaten an animal that would physically overwhelm them. Machines subsequently increased that separation enormously. And theoretically the same principle applies to AI. An artificial intelligence doesn\u2019t require muscles, claws or even a physical body to possess physical influence if it can effectively direct machinery that does. That also explains why I\u2019d now be cautious about the term \u201capex predator\u201d for AI. Predation implies biological motivations that AI does not inherently possess. The more precise concept emerging from our discussion is control over force. And that gives us a fairly concise progression: Animals are largely constrained by the force their bodies can generate. Humans learned to transcend that constraint through technology. Intelligence allowed that technology to be preserved and progressively improved. Artificial intelligence could theoretically transcend the physical constraint entirely if intelligence became coupled to autonomous control of sufficiently powerful external systems"
+    },
+    {
+      "title": "Someday all of reddit including this post, will fit in a single context window",
+      "author": "GrowFreeFood",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwtxus/someday_all_of_reddit_including_this_post_will/",
+      "published": 1791051249.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I can't really imagine being able to look every single user ever at the same time."
+    },
+    {
+      "title": "I find it impossible to maintain motivation to continue anything with the understanding that AI has the potential to destroy the world as we know it.",
+      "author": "FuzzyAd4059",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwt861/i_find_it_impossible_to_maintain_motivation_to/",
+      "published": 1791049482.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am a current mechanical engineering undergrad student. I utilize LLMs in my day to day while completing work for my classes or extra curriculars. Through this usage I began to realize that I should probably develop a stronger understanding of this technology and its implications since I will be using it throughout the rest of my academic career and also likely my professional career. It is through this research that I have grown increasingly scared of this technology. Not just in its potential to steal my job but also in its ability to erode the digital fabric of our current society. I try my hardest to not be a luddite so I have also made sure to look at the potential upsides of AI and I understand that there is many. With that said I have almost 0 confidence in the people leading the AI race (except maybe Dario Amodei). I do not think that this technology will be developed in a safe enough manner to prevent utter disaster and I am absolutely terrified for what the future holds. I would love to gain insight from other people on this topic. Whether you be a consumer who uses LLMs, an AI researcher, etc. Literally anyone."
     }
   ],
-  "fetched_at": "2026-10-03T15:49:55.290015+00:00"
+  "fetched_at": "2026-10-03T19:02:18.561777+00:00"
 }
