@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7370,
+      "stars": 7372,
       "stars_display": "7.4k",
-      "forks": 2247,
+      "forks": 2248,
       "forks_display": "2.2k",
       "language": "TypeScript",
       "topics": [],
@@ -24,10 +24,10 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 5916,
+      "stars": 5933,
       "stars_display": "5.9k",
-      "forks": 338,
-      "forks_display": "338",
+      "forks": 342,
+      "forks_display": "342",
       "language": "Swift",
       "topics": [],
       "updated_at": "2026-10-01T23:28:54Z"
@@ -40,9 +40,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 5362,
+      "stars": 5386,
       "stars_display": "5.4k",
-      "forks": 1415,
+      "forks": 1422,
       "forks_display": "1.4k",
       "language": "TypeScript",
       "topics": [
@@ -52,7 +52,7 @@
         "mcp",
         "news-aggregator"
       ],
-      "updated_at": "2026-10-03T15:35:30Z"
+      "updated_at": "2026-10-03T22:17:56Z"
     },
     {
       "full_name": "yi1108/printfilm",
@@ -78,7 +78,7 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2764,
+      "stars": 2767,
       "stars_display": "2.8k",
       "forks": 520,
       "forks_display": "520",
@@ -94,10 +94,10 @@
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "url": "https://github.com/feder-cr/dots",
       "preview_image": "https://opengraph.githubassets.com/746b308199cdd66eeea2e84890b1c3b6ee55b5e0c55a262bba224baad364e37f/feder-cr/dots",
-      "stars": 2572,
+      "stars": 2573,
       "stars_display": "2.6k",
-      "forks": 435,
-      "forks_display": "435",
+      "forks": 436,
+      "forks_display": "436",
       "language": "Python",
       "topics": [
         "ai-agent",
@@ -116,10 +116,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 2242,
-      "stars_display": "2.2k",
-      "forks": 283,
-      "forks_display": "283",
+      "stars": 2418,
+      "stars_display": "2.4k",
+      "forks": 303,
+      "forks_display": "303",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-02T21:16:45Z"
@@ -132,7 +132,7 @@
       "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
       "url": "https://github.com/yibie/awesome-jev",
       "preview_image": "https://opengraph.githubassets.com/a43c1377e0572afde6496312274b4b4c589a114d0664c492979061837aa54686/yibie/awesome-jev",
-      "stars": 2108,
+      "stars": 2109,
       "stars_display": "2.1k",
       "forks": 319,
       "forks_display": "319",
@@ -143,7 +143,7 @@
         "jev",
         "llm"
       ],
-      "updated_at": "2026-10-02T19:20:00Z"
+      "updated_at": "2026-10-03T21:13:05Z"
     },
     {
       "full_name": "kaankiziltug/logo-design-skill",
@@ -153,10 +153,10 @@
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "preview_image": "https://repository-images.githubusercontent.com/1388867993/cb41b962-88da-4adb-be7e-17ee8a1073aa",
-      "stars": 1673,
+      "stars": 1692,
       "stars_display": "1.7k",
-      "forks": 98,
-      "forks_display": "98",
+      "forks": 100,
+      "forks_display": "100",
       "language": "HTML",
       "topics": [
         "agent-skills",
@@ -194,6 +194,6 @@
   "search_query": "ai created:>2026-09-03",
   "days": 30,
   "limit": 10,
-  "total_count": 485007,
-  "fetched_at": "2026-10-03T19:02:18.640175+00:00"
+  "total_count": 486253,
+  "fetched_at": "2026-10-03T22:19:10.829916+00:00"
 }
