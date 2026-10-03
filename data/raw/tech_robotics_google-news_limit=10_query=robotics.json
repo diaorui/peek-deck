@@ -15,16 +15,6 @@
       "description": "An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild."
     },
     {
-      "headline": "Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSU1nRmxGSnRxZFo0QS10bHlLMDE4QU5tWDlWZmFlLUNILUxpemt2VHQwU1pnRXVpc2dTYkZ1cXR5cW0zbTVMTjd2VzJOTFVFOHk2Qk45ZEw1UnNuNHVyVm9PN3p5U2NHaFRhVWVMVEY2VHBjbTZzRXhWWHA1UGNORl94SG9DU0F1cThJOHVOQ2hpQQ?oc=5",
-      "pub_date": 1790952757.0,
-      "article_url": "https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/horde-humanoid-robots-hurl-vat-liquid-steel.jpg?w=1200",
-      "description": "A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel."
-    },
-    {
       "headline": "Humanoid robots destroy themselves after being decommissioned",
       "source": "The Independent",
       "source_url": "https://www.independent.co.uk",
@@ -33,6 +23,16 @@
       "article_url": "https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html",
       "image": "https://static.the-independent.com/2026/10/02/14/40/Screenshot-2026-10-02-164452.png?trim=0,98,0,98&width=1200&height=800&crop=1200:800",
       "description": "The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose"
+    },
+    {
+      "headline": "Horde of Obsolete Humanoid Robots Made to Hurl Themselves Into Vat of Liquid Steel for Total Obliteration",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSU1nRmxGSnRxZFo0QS10bHlLMDE4QU5tWDlWZmFlLUNILUxpemt2VHQwU1pnRXVpc2dTYkZ1cXR5cW0zbTVMTjd2VzJOTFVFOHk2Qk45ZEw1UnNuNHVyVm9PN3p5U2NHaFRhVWVMVEY2VHBjbTZzRXhWWHA1UGNORl94SG9DU0F1cThJOHVOQ2hpQQ?oc=5",
+      "pub_date": 1790952757.0,
+      "article_url": "https://futurism.com/future-society/horde-obsolete-humanoid-robots-jump-vat-liquid-steel",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/horde-humanoid-robots-hurl-vat-liquid-steel.jpg?w=1200",
+      "description": "A company's promo features humanoid robots programmed to jump off an industrial catwalk straight into a vat of molten steel."
     },
     {
       "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
@@ -46,33 +46,13 @@
     },
     {
       "headline": "Can we predict the jobs robots will do?",
-      "source": "Anthropic",
+      "source": "anthropic.com",
       "source_url": "https://www.anthropic.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
       "pub_date": 1790784060.0,
       "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
       "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
-    },
-    {
-      "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the Moon",
-      "source": "NewsNation",
-      "source_url": "https://www.newsnationnow.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG56OU93amJ5SHNZYi1qaXNYWV90MFM0R0Z6dXdLNzg4eEpMNzAxZDZjUU1kRjgyc1hjSlNFUzZqSVA0WDljTWZhcnRqd1BjenNqMzZ0ZG1BWlRJcHRLTDVGYTktSVc5dGtaNXNHY1Y5QTh6eTYyY3FScjRiaFFKLUtrOU5GdG1Qby0yd9IBkgFBVV95cUxOSkhGcHNHSDI2Tm9KVUJRdXZXN2dheE52QnRpQ1Z6TWpqUzh5TlNkdzVxcG5PQnhqMjZvSU1MSXpPLTlLMDhkVzdVUHpwME8xTXFKdTl4bVJDcXdjeHJjYno1XzdNbE1NeDBkRS1TUE1FMWZ4RWlDUmhKNnBiWmszdHY2WEdLM0ozck1TdkVpUnlwUQ?oc=5",
-      "pub_date": 1790923774.0,
-      "article_url": "https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmd2X2o5Zm1mX3FVRk01MnJ5ektkd3pEQjFZeE1HUUtRZ0YwaG9OczRtOUlWSEpSSEJZYXJvWHZrTDdhTURGWXR1M01yaU9IRHVVaWstX01pZS1GVVBWVGhneDJnMEpEeHRibzNuNjE4NUxDODRsQWhwdm04NFcxWVdaUDlZRWhmbE9BUGx1VVd5UmR2Qk1BWQ?oc=5",
-      "pub_date": 1790838009.0,
-      "article_url": "https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
@@ -85,6 +65,36 @@
       "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
     },
     {
+      "headline": "Micron sees future opportunities in humanoid robots, self-driving cars",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDVEM3VfZFg5NktXM2hhV1lyVFRRQVZHSWNDLUE4X29ESVZxUEhpRXQyNTBidExNdE9LRWdaalptOWtzaTEzRERJd0trX2NNNzVCZV9oV0hHVnNvbWgxanhROWIwVEw5dkRQM1FyMktxQ3Q2aU9VY3ZoMG5fbzBVQXFHRU9ZYm1JWWxPOTAtQzRsR2E0NjM0cm1KWjNHZDZSTTRoU2pKb3hnN0lZRkFpZExURDRWQlREeC1yTTNTLTFfM2FEN1lKSw?oc=5",
+      "pub_date": 1790964904.0,
+      "article_url": "https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a58035d5eca2ab0b3d01f079c8daac11913f3a0cf337d40424d28e31b586cc25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F1e4174d0-63d7-4d20-8933-d7a74c46331a",
+      "description": "Micron says physical AI could drive \"significant\" demand for memory chips by the end of the decade."
+    },
+    {
+      "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmd2X2o5Zm1mX3FVRk01MnJ5ektkd3pEQjFZeE1HUUtRZ0YwaG9OczRtOUlWSEpSSEJZYXJvWHZrTDdhTURGWXR1M01yaU9IRHVVaWstX01pZS1GVVBWVGhneDJnMEpEeHRibzNuNjE4NUxDODRsQWhwdm04NFcxWVdaUDlZRWhmbE9BUGx1VVd5UmR2Qk1BWQ?oc=5",
+      "pub_date": 1790838009.0,
+      "article_url": "https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the Moon",
+      "source": "newsnationnow.com",
+      "source_url": "https://www.newsnationnow.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG56OU93amJ5SHNZYi1qaXNYWV90MFM0R0Z6dXdLNzg4eEpMNzAxZDZjUU1kRjgyc1hjSlNFUzZqSVA0WDljTWZhcnRqd1BjenNqMzZ0ZG1BWlRJcHRLTDVGYTktSVc5dGtaNXNHY1Y5QTh6eTYyY3FScjRiaFFKLUtrOU5GdG1Qby0yd9IBkgFBVV95cUxOSkhGcHNHSDI2Tm9KVUJRdXZXN2dheE52QnRpQ1Z6TWpqUzh5TlNkdzVxcG5PQnhqMjZvSU1MSXpPLTlLMDhkVzdVUHpwME8xTXFKdTl4bVJDcXdjeHJjYno1XzdNbE1NeDBkRS1TUE1FMWZ4RWlDUmhKNnBiWmszdHY2WEdLM0ozck1TdkVpUnlwUQ?oc=5",
+      "pub_date": 1790923774.0,
+      "article_url": "https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "The U.S. can\u2019t find enough of this critical machine component to win the humanoid-robots race",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Anthropic study suggests blue-collar workers have decades before robots take their jobs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWoycUlISjNyb2FhX3habDlCcEpIcE1oSnV2SnhNc1Zlbnk4UEQ2SHJSQWhxaWI5LUtZVGt1VWhQQ0VWbUNMTklUMEppV2R2OFR4cDV1S1RRcmtPZlRsQzhCUnBhQUZwbjBXVEZ0Ym12X0JINExFOWZfMGhDVGZzREEyUkw3Q0JoekYxWkh0b21yaUJyeHRoWjJkSGRDcnJ3ZnV1UWRJWGRLeU1QR2NELTJJRjhXU0ctSGgtS0xHQ1RwVnVTdndMbG1SSTFfaEF5T0R6RGRvMU12UUUwLU9kVQ?oc=5",
-      "pub_date": 1790855997.0,
-      "article_url": "https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a5d8f15f4de325cb6d4a4f8b33c012173f49ecd270ca56dfbff97695ff5ed0dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc8a33064-8369-4d93-abf0-863093dcf733",
-      "description": "Robots can already handle most physical tasks involved in American jobs \u2014 but mostly in controlled settings, and at a cost too high to replace human workers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T06:05:21.753663+00:00"
+  "fetched_at": "2026-10-03T11:54:20.322865+00:00"
 }

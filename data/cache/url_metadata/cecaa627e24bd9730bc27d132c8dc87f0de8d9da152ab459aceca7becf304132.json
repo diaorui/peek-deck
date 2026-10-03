@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-03T11:54:19.302772+00:00",
+  "data": {
+    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "description": "NVIDIA DGX Spark 64GB runs local AI agents on-device with the full NVIDIA AI stack \u2014 and clusters for greater performance as workloads grow.",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg",
+    "favicon": "https://blogs.nvidia.com/favicon.ico",
+    "site_name": "NVIDIA Blog",
+    "author": "Allen Bourgoyne",
+    "keywords": null
+  }
+}
