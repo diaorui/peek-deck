@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-03T19:02:49.078645+00:00'
+updated: '2026-10-03T22:19:38.286733+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 03, 2026 at 19:02 UTC  
+**Last Updated:** October 03, 2026 at 22:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,33 +112,33 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
+**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
 
-The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-Business Insider • 1d ago
-
----
-
-**[Watch these defunct humanoid robots go full Terminator and dive into molten steel](https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal)**
-
-An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
-
-Mashable • 1d ago
+Anthropic • 3d ago
 
 ---
 
-**[NASA’s dexterous humanoid robots built to assist humans on the Moon](https://www.newsnationnow.com/space/nasas-dexterous-humanoid-robots-moon-mars-space/)**
+**[Humanoid robots destroy themselves after being decommissioned](https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html)**
 
-NewsNation • 1d ago
+The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose
+
+The Independent • 1d ago
 
 ---
 
-**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
+**[Micron sees future opportunities in humanoid robots, self-driving cars](https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html)**
 
-Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
+Micron says physical AI could drive "significant" demand for memory chips by the end of the decade.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
+
+The Hill • 1d ago
 
 ---
 
@@ -146,13 +146,13 @@ Yahoo Finance • 2d ago
 
 Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology.
 
-DefenseScoop • 20h ago
+DefenseScoop • 1d ago
 
 ---
 
 **[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
 
-The New York Times • 2d ago
+nytimes.com • 2d ago
 
 ---
 
@@ -160,15 +160,7 @@ The New York Times • 2d ago
 
 While interviewing Google’s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ...
 
-The Information • 1d ago
-
----
-
-**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
-
-What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
-
-Anthropic • 3d ago
+The Information • 2d ago
 
 ---
 
@@ -180,11 +172,17 @@ army.mil • 1d ago
 
 ---
 
-**[Should You Forget Tesla and Buy These 3 Robotics Stocks Instead?](https://www.fool.com/investing/2026/10/02/should-you-forget-tesla-and-buy-these-3-robotics-s/)**
+**[Robotics manufacturer names new CEO amid West Michigan expansion](https://www.mlive.com/news/grand-rapids/2026/10/robotics-manufacturer-names-new-ceo-amid-west-michigan-expansion.html)**
 
-Here are three robotics stocks that could turn the automation boom into real business growth.
+MLive.com • 2d ago
 
-The Motley Fool • 1d ago
+---
+
+**[Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.](https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/)**
+
+Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -198,7 +196,7 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 📺 ejunky66
 
-👁️ 414K • 👍 7K • 💬 364 • ⏱️ 1:00 • 1d ago
+👁️ 560K • 👍 9K • 💬 404 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ Figure just destroyed almost its entire Figure 02 fleet by training the humanoid
 
 📺 AI Revolution
 
-👁️ 26K • 👍 528 • 💬 61 • ⏱️ 13:23 • 20h ago
+👁️ 31K • 👍 555 • 💬 67 • ⏱️ 13:23 • 23h ago
 
 ---
 
@@ -218,17 +216,7 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 📺 Canada 2050
 
-👁️ 31K • 👍 771 • 💬 25 • ⏱️ 18:22 • 3d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
-
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
-
-📺 Innovation Core
-
-👁️ 223K • 👍 2K • 💬 147 • ⏱️ 21:02 • 4d ago
+👁️ 32K • 👍 787 • 💬 26 • ⏱️ 18:22 • 3d ago
 
 ---
 
@@ -238,7 +226,17 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 177K • 👍 2K • 💬 131 • ⏱️ 20:27 • 3d ago
+👁️ 180K • 👍 2K • 💬 131 • ⏱️ 20:27 • 4d ago
+
+---
+
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
+
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
+
+📺 Innovation Core
+
+👁️ 224K • 👍 2K • 💬 149 • ⏱️ 21:02 • 5d ago
 
 ---
 
@@ -248,27 +246,7 @@ This robot fights a human—but a human pilot is controlling the robot. REK deve
 
 📺 OddlyUsefulDude
 
-👁️ 3K • 👍 56 • 💬 1 • ⏱️ 0:44 • 19h ago
-
----
-
-**[How Amazon Uses 1 Million Robots to Process 600,000 Orders Every Hour](https://www.youtube.com/watch?v=XXVhNlNKxQA)**
-
-How Amazon uses 1 million robots to process 600000 orders every hour Every hour, Amazon processes more than 600000 ...
-
-📺 Mido Explained
-
-👁️ 154K • 👍 695 • 💬 47 • ⏱️ 14:00 • 6d ago
-
----
-
-**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
-
-Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
-
-📺 Fist To Face
-
-👁️ 43K • 👍 334 • 💬 25 • ⏱️ 0:11 • 14h ago
+👁️ 3K • 👍 57 • 💬 1 • ⏱️ 0:44 • 22h ago
 
 ---
 
@@ -278,7 +256,27 @@ Robot-human cage fights sent cease-and-desist in California. For more context an
 
 📺 NBC News
 
-👁️ 97K • 👍 984 • 💬 159 • ⏱️ 0:19 • 1d ago
+👁️ 103K • 👍 1K • 💬 167 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[What’s in a number: 5 figures showing how robotics is transforming automation](https://www.youtube.com/watch?v=874PlkI-SV4)**
+
+Robotics applications are helping shape the future of automation and productivity. Designed to work alongside people, these ...
+
+📺 Hanwha Group
+
+👁️ 71K • ⏱️ 2:39 • 4d ago
+
+---
+
+**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
+
+Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
+
+📺 ejunky66
+
+👁️ 207K • 👍 2K • 💬 188 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -288,7 +286,7 @@ LEGO #legomoc #mech #ninjago ☆X(Twitter) https://twitter.com/mishima_prod ☆I
 
 📺 Mishima Productions
 
-👁️ 14K • 👍 274 • 💬 12 • ⏱️ 13:00 • 13h ago
+👁️ 16K • 👍 299 • 💬 13 • ⏱️ 13:00 • 17h ago
 
 ---
 
