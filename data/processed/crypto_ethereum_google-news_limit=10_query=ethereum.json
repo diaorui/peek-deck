@@ -35,16 +35,6 @@
       "description": "Bitcoin opened at $83,566.34 on Thursday, October 1, 2026, down 0.1% from Wednesday's open. As of 7:20 a.m. ET this morning, bitcoin moved up to $83,805.02. Ethereum opened at $2,684.27 today, up 0.3% from Wednesday's opening price. The price of ethereum moved up further to $2,695.01 as of 7:20 a.m. ET."
     },
     {
-      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
-      "pub_date": 1790831400.0,
-      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
-      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
-    },
-    {
       "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -56,7 +46,7 @@
     },
     {
       "headline": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
       "pub_date": 1790831796.0,
@@ -65,14 +55,24 @@
       "description": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners."
     },
     {
-      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVlMXBtdW1FWmxURjZ5OEprSHdvMmJPUU1zSlVtSnJEQndIS3ZValdJUnV5UDFhTlVfdHhLVmxSSXlMaVVyNnZHTm9TbGZmLWV1N003T1o1eVNtSEZ0aFg2RFNsbTE3TU5FTmVyd19RUDI3czVkZ2t3Y3BraHZ0dlp0Ylg?oc=5",
+      "pub_date": 1790831400.0,
+      "article_url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1700-nu-rw-lo-l85-e365/metamask-main.jpg",
+      "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
+    },
+    {
+      "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGlsRXNfYm00UlRDQ19sWGtxTTdpczZWcHVMcWR3UWhDczM0ellRSjB5NkRLY01VLU5PdHlGRTF5amlzX3FuaV9UZWY3Vk4ycGZGNHFkMVFwOTA1QmZOaFhSY2hoWWNPVzNZV1I2WC1LVEt5TlZ0bWxTZzM5R1Nyb05PMFlOSWNvT2Vjcng5aw?oc=5",
-      "pub_date": 1790900520.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-      "description": "The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February."
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGt0bVFseEw2SmZwX0hhUmRyREtVLXVlc3hRTElfd05BaTlJZk5JQmZPLTJBeVZkcWhabFAzTzR0anIzTlZEMmNlSUtHV0FJVjVQMC16ekFhZjlEUU5ubGt2N1BwOVZtNVFDTkJFdEZUeEx4R014MExzcEFsOFVVdTlRdXJwZHpPRTBmaFlhQkg2MndFdkNqdTJ6OUNpM0JiLVZ1WFg3dVdYVllLMC05dFEzemE1RDFwX2ppWjJnd3ZNWTJP?oc=5",
+      "pub_date": 1790871443.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
+      "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
     },
     {
       "headline": "New Crypto: Pepeto Announces $11.16 While Ethereum Price Prediction Points to $6,000 and Traders Hunt the Next Dogecoin",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T00:37:35.110582+00:00"
+  "fetched_at": "2026-10-03T06:05:13.485153+00:00"
 }
