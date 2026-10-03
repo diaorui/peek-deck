@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-03T19:02:49.076454+00:00'
+updated: '2026-10-03T22:19:38.283495+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 03, 2026 at 19:02 UTC  
+**Last Updated:** October 03, 2026 at 22:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -0.1%  
-**30d:** +9.3%  
-**90d:** +49.3%  
-**1y:** -40.2%  
+**24h:** +0.7%  
+**7d:** +0.0%  
+**30d:** +9.5%  
+**90d:** +49.5%  
+**1y:** -40.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $327.79B
+**Market Cap:** $328.20B
 Rank #2
 
 **Circulating Supply:** 122,101,617 ETH
@@ -62,7 +62,7 @@ No max supply
 -45.7%
 
 **All-Time Low:** $0.43
-+619943.9%
++620689.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't been following up with eth for a while. Can anyone let me know whats and when the next upgrade to the protocol?
 
-22h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ Glamsterdam upgrade on Sepolia testnet October 6, Vitalik: the cryptographic wor
 
 **[I built a private AI chat on the EF's zkAPI where even the deposit can't be traced back to you (open source)](https://www.reddit.com/r/ethereum/comments/1ww5kbk/i_built_a_private_ai_chat_on_the_efs_zkapi_where/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ a global government I would support system based on existing technological solut
 
 tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge...
 
-ethereum.org • 1d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -166,11 +166,19 @@ Decrypt News • 1d ago
 
 ---
 
+**[Crypto job postings triple to over 1,200 in September, but applications fall](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)**
+
+Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.
+
+CoinDesk • 6h ago
+
+---
+
 **[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
 
 Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -178,7 +186,7 @@ Yahoo Finance • 17h ago
 
 Ethereum price is hitting the same $2,800 hurdle again, but the latest on-chain signals suggest the battle is getting more intense beneath the surface. Large ETH transactions have surged, older coins are moving again, while exchange-held supply continues to trend lower. At the same time, holder pro…
 
-TradingView • 13h ago
+tradingview.com • 17h ago
 
 ---
 
@@ -198,14 +206,6 @@ The Hacker News • 2d ago
 
 ---
 
-**[DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins](https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps)**
-
-DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
-
-CoinDesk • 2d ago
-
----
-
 **[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
 
 Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
@@ -214,9 +214,9 @@ The Block • 2d ago
 
 ---
 
-**[New Crypto: Pepeto Announces $11.16 While Ethereum Price Prediction Points to $6,000 and Traders Hunt the Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-11-16-while-ethereum-price-prediction-points-to-6-000-and-traders-hunt-the-next-dogecoin-1036593848)**
+**[Ethereum Crypto Presale Pepeto Announces Its Final Stages Before Binance While Cardano Price Prediction Targets $3.25](https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603)**
 
-Dubai, UAE, Oct.  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto announces fresh presale numbers this week: funding past $11.16 million, holders ...
+DUBAI, United Arab Emirates, Oct.  02, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto has announced its crypto presale is entering its fi...
 
 markets.businessinsider.com • 1d ago
 
@@ -240,7 +240,7 @@ Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target 
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 170 • 💬 8 • ⏱️ 9:53 • 10h ago
+👁️ 8K • 👍 183 • 💬 9 • ⏱️ 9:53 • 13h ago
 
 ---
 
@@ -250,15 +250,7 @@ Tom Lee says the bull run is officially on and Uptober is here, with a path to $
 
 📺 Paul Barron Network
 
-👁️ 112K • 👍 2K • 💬 224 • ⏱️ 12:18 • 2d ago
-
----
-
-**[XRP AND ETH SENTIMENT CRASHES! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=9p2Y9LFqzJg)**
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 395 • 💬 8 • ⏱️ 1:58 • 18h ago
+👁️ 114K • 👍 2K • 💬 222 • ⏱️ 12:18 • 2d ago
 
 ---
 
@@ -268,27 +260,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 196 • 💬 6 • ⏱️ 19:58 • 2d ago
+👁️ 10K • 👍 198 • 💬 6 • ⏱️ 19:58 • 2d ago
 
 ---
 
-**[BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LfIbptPM1KM)**
+**[Ethereum vs Solana vs Sui: The Framework for the Next Crypto Cycle](https://www.youtube.com/watch?v=rBOz5JaVLWs)**
 
-BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Crypto World
+📺 Milk Road
 
-👁️ 13K • 👍 433 • 💬 137 • ⏱️ 26:47 • 19h ago
-
----
-
-**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
-
-BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
-
-📺 McNallie Money
-
-👁️ 2K • 👍 101 • 💬 10 • ⏱️ 18:53 • 1d ago
+👁️ 6K • 👍 173 • 💬 135 • ⏱️ 21:51 • 9h ago
 
 ---
 
@@ -298,7 +280,45 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 📺 Crypto Archie
 
-👁️ 4K • 👍 101 • 💬 1 • ⏱️ 10:16 • 1d ago
+👁️ 4K • 👍 103 • 💬 1 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[BITCOIN IS BREAKING OUT? XRP AND ETH FLASH MASSIVE SIGNAL: CRYPTO SENTIMENT COLLAPSES!](https://www.youtube.com/watch?v=D0u5u8iEuB0)**
+
+BITCOIN IS BREAKING OUT? XRP AND ETH FLASH MASSIVE SIGNAL: CRYPTO SENTIMENT COLLAPSES! In today's show I'm ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 265 • 💬 5 • ⏱️ 30:10 • 16h ago
+
+---
+
+**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
+
+BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
+
+📺 McNallie Money
+
+👁️ 2K • 👍 101 • 💬 10 • ⏱️ 18:53 • 2d ago
+
+---
+
+**[BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LfIbptPM1KM)**
+
+BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 14K • 👍 446 • 💬 112 • ⏱️ 26:47 • 22h ago
+
+---
+
+**[XRP AND ETH SENTIMENT CRASHES! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=9p2Y9LFqzJg)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 424 • 💬 8 • ⏱️ 1:58 • 21h ago
 
 ---
 
@@ -308,27 +328,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/TrwlgKbB Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 8K • 👍 115 • 💬 16 • ⏱️ 10:17 • 1d ago
-
----
-
-**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
-
-Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 34K • 👍 2K • 💬 491 • ⏱️ 19:06 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=jcsixbIYZe0)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 975 • 👍 71 • 💬 1 • ⏱️ 6:52 • 6h ago
+👁️ 8K • 👍 115 • 💬 16 • ⏱️ 10:17 • 2d ago
 
 ---
 
