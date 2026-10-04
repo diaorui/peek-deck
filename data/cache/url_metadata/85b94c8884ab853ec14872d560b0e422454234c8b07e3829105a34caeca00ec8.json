@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-06T12:15:33.713512+00:00",
+  "data": {
+    "url": "https://pluang.com/en/news-feed/vitalik-buterin-ungkap-redesain-transaksi-ethereum",
+    "title": "Ethereum proposes new transaction model to spee... | Pluang",
+    "description": "Ethereum co-founder Vitalik Buterin proposed a new transaction model, outlined in draft EIP-8141, that separates transaction actions from dependencies to enable parallel processing of validation tasks. This model could allow Ethereum to verify signatures and other static checks once at the mempool level, compressing them into recursive STARK proofs to reduce repeated work by validators. The proposal aims to improve scalability without sacrificing Ethereum's flexible execution environment, potentially lowering gas costs for predictable transactions while maintaining support for complex contract calls. However, EIP-8141 is still under developer review and has not been approved or scheduled for deployment, with further testing and consensus needed before it could become part of Ethereum's mainnet upgrades.",
+    "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
+    "favicon": "https://image-cdn.pluang.com/web/icons/180.png",
+    "site_name": null,
+    "author": "Crypto news",
+    "keywords": null
+  }
+}

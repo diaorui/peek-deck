@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-04T16:46:05.484355+00:00",
+  "data": "This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.",
+  "model_id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"
+}

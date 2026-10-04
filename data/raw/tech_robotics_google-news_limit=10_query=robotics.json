@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "robotics",
+  "site": null,
+  "search_query": "robotics",
+  "articles": [
+    {
+      "headline": "Agility\u2019s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeno1MVk4NGVOUGxwM2pKMXVHejJFRnQyRGo5VjRBQUp3VmlveTQ4SUtNVDZXaEFOV2d3VHV4TTZEWHJwZUhSNVowX3ZLZlVCeTJxVDVUdkJyMXBRb21ld1hmcXRTU2R1UU9aRVJsTHBub1JwTmdMZUJUejVobUM5T3ZiVEtoU2VKOE9Tdll3Q1J5MEhybEZqRkZoS18zZHl5SG1OOTdvbmdZUjhBUnNtRzZn?oc=5",
+      "pub_date": 1789497182.0,
+      "article_url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-2560x1440.png",
+      "description": "Robots can start working outside physical cages and without safety barriers."
+    },
+    {
+      "headline": "Agility\u2019s Digit 5 humanoid has new legs, batteries, and safety upgrades",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVVMM3FzenI0Z0NyYnBWeExHRWZxckJGLWtJNGFqRzQ4MW5scUJmOXpGVjRCZDlCTWx2cThxN2hKMWk5M3pscnBEbE14TjRuWmVoNjM0WndvZWI0Vnl2eVUtdDZndEZnLXdUZ0dTWVIyRURUUWJRNWNKcTZOaEhKSks2V0ZKMVJCZkF1QkZ4V2Y2NGFNNkYwaDB5Skw?oc=5",
+      "pub_date": 1789470651.0,
+      "article_url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Agility_Digit5_06-featured.jpg",
+      "description": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture."
+    },
+    {
+      "headline": "Digit 5 May Be the First Humanoid Robot Worker That\u2019s Truly Safe",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rY1dfSDVTNzBEQmdaNzFLMFREZEZuYW4weTRnbWNGaEhEdF9FZGk5eFd5eGJCejRfNzJEZ1AwUGV4S0I1TUxYMk5CR2JYejYzOEVoczJxRUpSSTA?oc=5",
+      "pub_date": 1789369200.0,
+      "article_url": "https://spectrum.ieee.org/humanoid-robot-safety",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67776761&width=1200&height=600&coordinates=0%2C19%2C0%2C81",
+      "description": "Agility Robotics\u2019 latest is big enough, and safe enough, to do useful work"
+    },
+    {
+      "headline": "Oregon robotics company says its newest humanoid can work safely with people",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
+      "pub_date": 1789491060.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
+      "pub_date": 1789470017.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Agility's new humanoid is supposed to stop before it gets too close to humans",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkxtS0p6cDBjVnBNWGJMRGxvOHVnZzVwdDZmYVhYemZ2Y18tcWxRa3RhYW9hbjRPaHotZDFvWEVhcTlmcHBQZDJfYmJOb0xERk1XcVhqRFhJejl0cUJXUlgxSVRTY1VnZXhjZ3VjWjdWT0ZGb1dEeE5wWHNVeTJNczhRX0x1RTRCanNtSXIwZ0xHeEhrWU9EQlhIQzJ4VDllUGc?oc=5",
+      "pub_date": 1789479480.0,
+      "article_url": "https://www.businessinsider.com/agility-robotics-reveals-early-look-at-digit-5-humanoid-robot-2026-9",
+      "image": "https://i.insider.com/6aa880ca9b8974787b1cc0e3?width=1200&format=jpeg",
+      "description": "Agility Robotics gave Business Insider a first look at renderings of Digit 5, its next humanoid."
+    },
+    {
+      "headline": "Meet Digit 5: Agility Robotics\u2019 humanoid built to work with people",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXRPNDktejJsVll5WGU0Zzg1RGpiN2NrZW1OaU5KMTg2QkxLS1hTamVpcnFpXzFNSm02STk0eFBqWm84eTgxR0JCel95OTBiNXlXZWRVNzFnVTMzUTZDcVJtbi03X3RXb2N5T1BvRFNIb0JsMnJTd1RRRHZIbkJoWWZ5cnlGQjJFSUpPalRRemVyeHJvSzA5T3otVGE2MGRPX1d5cUc0TEZxdw?oc=5",
+      "pub_date": 1789557044.0,
+      "article_url": "https://interestingengineering.com/videos/meet-digit-5-agility-robotics-humanoid-built-to-work-with-people",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IEX-Horizontal.jpg",
+      "description": "Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required by earlier models."
+    },
+    {
+      "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXSTNFSXA4T2NzVjN2RWJBamdyeXpOdUNicHZZaUtFYUxZNmVNUjhBTHhNdHYwV29LVGpvRm0xOXdhdEdRaHRvX2VMbXBVbkhlTTh2S3VqVTJjc2NjVWdVYnhkbEZLTkhMX1RlVzB2NVczcmltTFQ2NDdmMkt1V3k1c2xKUlZLQ0NkcW0xeklYZjdjaGFv?oc=5",
+      "pub_date": 1789392900.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Copy-of-whitebar-Kopyasi-1.jpg",
+      "description": "MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids."
+    },
+    {
+      "headline": "Wonder debuts its robotic bowl maker",
+      "source": "Nation\u2019s Restaurant News",
+      "source_url": "https://www.nrn.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGJITGswZHc5R0ozbDl2Z0JIWml6TVJIX0VJNy12SGExWHdKRnFGclRnUHBTa3BEa1o0dXZtYjltdG05NjgxLTZRTXNLTXVtVEtKMVIzcWh1bjZ2a3R2VmVnTGNTSHdka201UHo0SkJmQkhvMXR2dklHdmF2bEhFZk10MlY?oc=5",
+      "pub_date": 1789411951.0,
+      "article_url": "https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker",
+      "image": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt928ce88cffe00b77/6aa840a626147b4e798350d2/WONDER_MAKELINE_042.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "description": "The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain\u2019s plans to automate more of its operations."
+    },
+    {
+      "headline": "XPeng Shares Fall to Lowest Since October 2024 Despite Robotics Push",
+      "source": "eletric-vehicles.com",
+      "source_url": "https://eletric-vehicles.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUZyaVhqdUN2ejRaX1NnajQ2RC1uRmhIaGoxRUZxcFpDWm9MN0g4X2RZYXJCMnB1clFwVy1QX1doU3NVd3RLTEpVU2VfR2ZZU2llOUNzZy1PSmRxblhPdmtuQllzWHMxRXdPMFRraGJaTzhGaXhzSGd1S0Q3eXhwYklWUkJ6cFNGY3k2cXJlQ2tfdmphcGN5NXBxOUJjV2Zqbm4zd0hUcw?oc=5",
+      "pub_date": 1789491651.0,
+      "article_url": "https://eletric-vehicles.com/xpeng/xpeng-shares-fall-to-lowest-since-october-2024-despite-robotics-push/",
+      "image": "https://eletric-vehicles.com/wp-content/uploads/2026/09/XPeng_HeXiaopeng_07.webp",
+      "description": "XPeng's US-listed shares fell to their lowest level since October 2024 on Tuesday, two days before the Chinese carmaker launches the second of its two flagship SUVs and three weeks after investors valued its robotics arm at more than $6.3 billion."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-09-16T12:43:50.634113+00:00"
+}

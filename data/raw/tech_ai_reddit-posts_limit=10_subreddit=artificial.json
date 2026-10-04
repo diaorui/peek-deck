@@ -1,0 +1,116 @@
+{
+  "subreddit": "artificial",
+  "posts": [
+    {
+      "title": "British workers spending nearly \u00a31bn a year of their own money on AI tools they use for work.",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1whtutw/british_workers_spending_nearly_1bn_a_year_of/",
+      "published": 1789556010.0,
+      "thumbnail": "https://external-preview.redd.it/W4vialUB0EzHI1lhihaf7f-O5QiqzOsdcMv-DzDC2Fs.jpeg?width=640&crop=smart&auto=webp&s=0a50d9169a0956ffd0419e7d9fc0b7c606f4ef46",
+      "external_url": "https://www.linkedin.com/feed/update/urn:li:activity:7505890165584990208/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "British workers are spending nearly \u00a31 billion a year of their own money on AI tools they use for work!\n  \nThat\u2019s just one of the standout findings from Deloitte UK\u2019s GenAI Workforce Survey \u2013 the largest survey of workplace AI use ever conducted in a single country, based on the views of 25,000 UK workers. \n \nThis tells us something really important and reflects something I've been seeing in my conversations with employers\u2026\n  \nPeople aren't waiting for AI strategies or policies to arrive. They're already experimenting and finding ways to make these tools part of their day-to-day work. In fact, almost a third of GenAI users told us they're using AI without their employer's knowledge. \n  \nSo the appetite is definitely there. \ud83d\udcc8\n\nThe challenge for organisations is to harness that enthusiasm in a way that's secure, responsible and genuinely useful, while giving people the confidence and skills to get the most from these technologies. \n  \nThe question for leaders isn't whether AI is being used. It's whether their organisations are keeping up.\n  \n\ud83d\udd17 Explore the findings here: https://lnkd.in/e88eZcWh\n  \n#DeloitteUK #DeloitteGenAIWorkforceSurvey"
+    },
+    {
+      "title": "Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs",
+      "author": "Fair-Swimming-4419",
+      "url": "https://www.reddit.com/r/artificial/comments/1whfbhr/oracle_cfo_says_doing_more_with_less_isnt_the/",
+      "published": 1789512066.0,
+      "thumbnail": "https://external-preview.redd.it/q8eIwzOT3_sjquEhh9Eryefomdf_G33KjyW_r7J5cxM.jpeg?width=640&crop=smart&auto=webp&s=f80b8704c2a1db30f22528fd799f2e1d190659a4",
+      "external_url": "https://www.businessinsider.com/oracle-cfo-more-with-less-isnt-the-answer-after-layoffs-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "The remarks came a day after Oracle began a new round of layoffs, following cuts earlier this year."
+    },
+    {
+      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized",
+      "author": "Feeling-Attention664",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
+      "published": 1789482535.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am not even that pro AI but the furor over the past few days seems suspicious to me."
+    },
+    {
+      "title": "Am I the only one who thinks recent AI \"doomsday\" news is just a disguised pitch for more funding?",
+      "author": "jar00st",
+      "url": "https://www.reddit.com/r/artificial/comments/1whhygo/am_i_the_only_one_who_thinks_recent_ai_doomsday/",
+      "published": 1789518764.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recently, my feed has been flooded with alarmist AI news: AI choosing nuclear genocide in war games, AI blackmailing engineers to avoid being shut down, and the usual \"Skynet is here\" comments. I\u2019m just trying to make sense of it, but the more you look into these \"experiments,\" the more they lack basic technical context. As a systems architect working with multi-agent pipelines, part of my job is to restrict models, enforce separation of concerns, and build critical error flows. We all know that not every model is efficient for every process. Any engineer building real systems isolates critical decisions using orchestrators, semantic memory (like Qdrant or similar vector DBs), and small, specialized nodes. Yet, these experiments sound like someone fed a massive, monolithic 5,000-token prompt to a single LLM just to see what happens. It reads less like science and more like a script kiddie making a YouTube video. It\u2019s like handing a loaded AK-47 to a monkey, taking off the safety, and then publishing a paper concluding that \"monkeys are inherently evil murderers.\" The nuclear war simulation and the blackmailing Claude experiment are so vaguely designed and devoid of architectural safeguards that they shouldn't even be treated as serious benchmarks. It\u2019s child\u2019s play. Don't get me wrong, I know AI is a powerful tool that requires guardrails. But these specific examples feel like a massive PR stunt: \"Give us billions for AI Safety, or the AI goes rogue.\" We all know these major AI labs are burning through cash and desperately need to justify their massive budgets and regulatory moats. Am I missing something here, or are we just witnessing the monetization of fear?"
+    },
+    {
+      "title": "Testing Qwen 3.8 27B running locally on a single 5090",
+      "author": "Acceptable-Object390",
+      "url": "https://www.reddit.com/r/artificial/comments/1whtww8/testing_qwen_38_27b_running_locally_on_a_single/",
+      "published": 1789556203.0,
+      "thumbnail": "https://external-preview.redd.it/cDZkbG90bmI1dnBoMb0K1HcLak6vTnudcTw6EClmUPnEmnaBGaQtH_ZzRt-4.png?width=640&crop=smart&auto=webp&s=2a5383402c69ab18233e85cd0c2cce48ade3c48e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I wanted to test what Qwen 3.8 27B running locally on a single 5090 could do in Row-Bot. I gave it just one prompt: \"I want you to create an animation showing what the current local model can do. Testing it to the extreme. Do not use image generation or video generation. Use whatever else you can. Make it as visually rich as you can. Show me what the model is capable of.\" This is what it produced. It also automatically loaded the frontend design skill using the new progressive loading of skills feature. Local models can already do a lot more than people think they can. All you need is a well built harness like Row-Bot to run them. I was genuinely impressed by the results: \"It's open in your browser now, sir. Eight scenes, ~105 seconds of autonomous animation, then a replay button at the end: Cold boot \u2014 terminal log + scramble-decode title Language synthesis \u2014 a passage streamed word-by-word with a live token ticker, drafting log, and a real-time words/sec sparkline Live mathematics \u2014 e^{i\u03b8} drawn on the complex plane as \u03b8 sweeps to \u03c0, landing on e^{i\u03c0} + 1 = 0; alongside, the Leibniz series converging to \u03c0 with ~4,200 terms and a live error/matching-digit readout Fractal computation \u2014 a Mandelbrot zoom into the seahorse valley, recomputed pixel-by-pixel in the page (57,600 points/frame) with live zoom/iteration/render-time telemetry Knowledge graph \u2014 a live network of your 612 local entities with auto-drawn relations and a highlighted query path Tool orchestration \u2014 plan \u2192 search \u2192 read \u2192 synth \u2192 write \u2192 verify, with terminal log plus a fan-out \u00d72 parallel agent progress demo Physics sandbox \u2014 1,500 particles through three fields (gravity, vortex, flow) \u2014 move your cursor through it to perturb the field; color encodes velocity, with live FPS Verdict \u2014 the scorecard ticks 0\u21928, closing on \"Written, computed, rendered \u2014 entirely on this machine.\" Controls: click or \u2192 to advance, \u2190 to go back, space to pause. The HUD shows live FPS, the clock, and the current scene.\""
+    },
+    {
+      "title": "Fine Tuned and Niche Ai Models vs Ai Detectors",
+      "author": "Dr_WhoDo",
+      "url": "https://www.reddit.com/r/artificial/comments/1wht3io/fine_tuned_and_niche_ai_models_vs_ai_detectors/",
+      "published": 1789553476.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "While everyone over at Pangram and their customers are giving each other high fives for being able to declare that they have near perfect detection ratios and almost no false positives, it\u2019s important for us to look behind the curtain and not take everything the wizard says at face value. I did a little digging and discovered commercially available models that can be fine tuned to the writing style of authors you choose. I can only imagine how intoxicating it would feel to prompt one of these models and turn your wire frame idea into something worthy of Conrad or Faulkner, but I\u2019m not going to criticize the users. What I want to do is focus on the way in which large corporations are masking the glaring holes in their solutions by assuming you\u2019re not going to look deeper into their assertions. So let\u2019s look at some numbers. Pangram can boast of 97% accuracy and GPTZero 91% against your average LLM\u2019s prompted to write in a specific style. Now remember, these are Ai detectors. Their purpose is to detect Ai. Thankfully, under normal circumstances, they do this with very low false positives, (essentially zero) assuming we don\u2019t throw some English learners and people on the spectrum into the mix, but we won\u2019t go there right now. BUT, against fine tuned models, models trained to mimic specific authors or bodies of work, Pangram, the golden child of detectors, falks to 3% accuracy and GPTZero to 0%. I could post the links to fine tuned models, but I don\u2019t want to give them more business. Suffice it to say, Houston we have a problem. Readers Prefer Outputs of Ai Trained on Copyrighted Books over Expert Human Writers Chakrabarty, Ginsburg and Dhillon Stony Brook University, Columbia Law, MIT The attached image is evidence of the original and human composition of this post."
+    },
+    {
+      "title": "There\u2019s a weird middle ground where something can\u2019t look bad, but also isn\u2019t worth hiring a designer for",
+      "author": "priscilalimaaaaa",
+      "url": "https://www.reddit.com/r/artificial/comments/1whip52/theres_a_weird_middle_ground_where_something_cant/",
+      "published": 1789520761.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep running into this with small work stuff, like a landing page, a one-off visual for a presentation. It matters that I don\u2019t want it to look thrown together, but not enough to turn it into a whole design project. That\u2019s where I\u2019ve started thinking AI design tools actually make the most sense. Not replacing designers. More like filling that awkward gap between \u201cI\u2019ll just make something ugly myself\u201d and \u201cthis needs a real design process.\u201d Curious what people are actually using AI design for right now. Mostly quick one-off stuff, or are you trusting it with bigger projects too?"
+    },
+    {
+      "title": "Do you own the products generated by AI(Vibecoding)?",
+      "author": "lokkythegamer",
+      "url": "https://www.reddit.com/r/artificial/comments/1whvk63/do_you_own_the_products_generated_by_aivibecoding/",
+      "published": 1789560962.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I was wondering whether you own the product you develop entirely by vibecoding?"
+    },
+    {
+      "title": "Models are commoditizing fast \u2014 the edge is shifting to context and workflow, not the model itself",
+      "author": "and_pf",
+      "url": "https://www.reddit.com/r/artificial/comments/1whvasl/models_are_commoditizing_fast_the_edge_is/",
+      "published": 1789560247.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "People keep asking some version of this: if there are dozens of models that all do roughly the same thing, why would the model itself be the thing that matters? I think the honest answer is that it mostly isn't anymore, and the shift shows in how the costs and the competitive picture are moving. TechPolicy.press's essay \"Taking AI Commoditization Seriously\" by Trent Kannegieter, from March 2025, makes the core point: similar capabilities from a host of vendors increase competition and decrease prices. Once that happens, value moves up and down the stack instead of sitting in the model layer, into the applications built on top and into the hardware and tooling underneath. The model stops being the differentiated asset. The other half is context. There's a thread from a developer who built a workspace tool because his starting frustration wasn't that models were weak, but that the knowledge needed to do useful work was scattered across a dozen apps. Sequoia Capital put a name on the direction in their \"Act Two\" essay: the moat they originally predicted, more usage leading to a better model, turned out to be shaky, and what actually holds is the workflow and the user network around the model. Access to a good model becomes table stakes. Accumulated context becomes the compound interest. That matches what I see running models locally. The marginal difference between one decent open model and the next is narrowing a lot faster than the difference between having your data and workflow wired into a system and not having it. The frustrating part of using AI day to day is rarely the model now. It's that it can't see what you're actually working on. Where I'd push back on the strong version: commoditization isn't settled yet at the frontier tier. Kannegieter is explicit that it's a possibility on the way, not a finished event, and he frames the whole piece as preparation for a world that hasn't fully arrived. A commoditized model layer also has a downside nobody's solved: it disempowers the safety teams at today's big labs, because a lab's constraints only bind when everyone actually runs its model. What does start to sound right is that the model is becoming the least interesting part of the stack for most people. Do you agree, or is there still a capability gap you rely on?"
+    },
+    {
+      "title": "PBS has a new documentary on AI.",
+      "author": "Cucaio90",
+      "url": "https://www.reddit.com/r/artificial/comments/1wgqnhy/pbs_has_a_new_documentary_on_ai/",
+      "published": 1789447851.0,
+      "thumbnail": "https://preview.redd.it/wtzltyv67mph1.jpeg?width=640&crop=smart&auto=webp&s=db867d6d381b91f5804c73097c11bfe03a7846be",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    }
+  ],
+  "fetched_at": "2026-09-16T12:43:28.922180+00:00"
+}

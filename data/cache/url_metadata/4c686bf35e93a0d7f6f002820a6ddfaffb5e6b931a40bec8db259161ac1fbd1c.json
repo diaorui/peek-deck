@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-21T06:46:42.947222+00:00",
+  "data": {
+    "url": "https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives",
+    "title": "The Tragedy Of The Commons In Open Source Software, Explained Through Bitcoin Wallets",
+    "description": "Bitcoin Core demonstrates pure open-source functioning at scale: public pull requests, formal ACK language, multi-year consensus, and no privileged caste. The contrast with restricted licensing reveals what incentives actually produce verification.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp",
+    "favicon": "https://cdn-ileamcn.nitrocdn.com/BngESKHdyFjXuZbvyAhEMmtQtwLKSKkU/assets/images/optimized/rev-a8f02c0/bitcoinmagazine.com/wp-content/uploads/2024/09/cropped-Bitcoin-Magazine-glyph-black-01-180x180.png",
+    "site_name": "Bitcoin Magazine",
+    "author": "Juan Galt",
+    "keywords": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-27T14:32:04.869619+00:00",
+  "data": {
+    "url": "https://acceptmarkdown.com/",
+    "title": "Serve Markdown to AI Agents with Accept Headers",
+    "description": "Serve Markdown to AI agents and LLMs via the Accept: text/markdown header. Browsers get HTML, agents get clean Markdown.",
+    "image": "https://acceptmarkdown.com/open-graph/home.png",
+    "favicon": "https://acceptmarkdown.com/apple-touch-icon.svg",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

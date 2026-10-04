@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-24T19:56:48.200647+00:00",
+  "data": {
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "title": "I Built an AI Companion That Actually Plays With You",
+    "description": "How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.",
+    "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
+    "favicon": "https://pantel.is/favicon.ico",
+    "site_name": "Pantelis Kalogiros",
+    "author": "Pantelis Kalogiros",
+    "keywords": null
+  }
+}

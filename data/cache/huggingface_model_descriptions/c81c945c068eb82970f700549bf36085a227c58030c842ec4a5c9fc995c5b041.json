@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-12T08:06:22.461592+00:00",
+  "data": "Minimax-h3_Singularity is a fine-tuned multimodal video generation model supporting Text-to-Video, Image-to-Video, Reference-to-Video, and Video-to-Video workflows in ComfyUI, optimized for HDR quality, reduced motion blur, and enhanced dynamic action sequences.",
+  "model_id": "WarmBloodAban/Minimax-h3_Singularity"
+}

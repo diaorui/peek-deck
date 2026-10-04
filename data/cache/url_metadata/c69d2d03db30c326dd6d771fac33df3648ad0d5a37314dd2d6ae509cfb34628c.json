@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-15T17:11:52.942494+00:00",
+  "data": {
+    "url": "https://bonafider.com/blog/the-embodiment-gap-in-robotics-and-the-race-to-close-it",
+    "title": "The Embodiment Gap in Robotics and the Race to Close It",
+    "description": "Robots vary widely. An industrial arm with a parallel gripper differs radically from a multi fingered humanoid hand, a mobile manipulator, or a quadruped. Joint ranges, link lengths, camera viewpoints, force sensing, and contact physics all diverge. Human video, an abundant source of demonstrations, adds another layer of mismatch: five fingered compliant hands versus rigid grippers, head mounted cameras versus robot mounted sensors, and human scale dynamics versus robot scale ones.",
+    "image": "https://bonafider.com/bonafider-logo.png",
+    "favicon": "https://bonafider.com/favicon.png",
+    "site_name": null,
+    "author": "Bonafide Robotics",
+    "keywords": "robotics as a service blog, RaaS economics, warehouse automation telemetry, robot fleet case studies, industrial robotics guides"
+  }
+}
