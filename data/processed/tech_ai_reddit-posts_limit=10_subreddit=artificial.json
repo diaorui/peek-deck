@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
+      "author": "ElatedPyroHippo",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
+      "published": 1791065820.0,
+      "thumbnail": "https://external-preview.redd.it/RFsrpoWk_75ybf04dB1cQU2NVqiQ0ywn5Y6qH8OXpXA.jpeg?width=320&crop=smart&auto=webp&s=488941504e976bce528f1cc428aca11274efa059",
+      "external_url": "https://www.youtube.com/watch?v=VFpRz1_j4vw",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/85a3164d/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
@@ -13,17 +24,6 @@
       "description": "The YouTuber\u2019s account was deactivated over \u201cdistillation\u201d during his model research."
     },
     {
-      "title": "Introducing Oscilloscope Diffusion",
-      "author": "Chuka444",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/",
-      "published": 1791043440.0,
-      "thumbnail": "https://external-preview.redd.it/cWU5YzV5em16OXRoMRRcbsUB5bczVGJzm81eGC-H-gD1Xkd0ySh2aP8cTtBU.png?width=640&crop=smart&auto=webp&s=e1405aa2750ee41b47323b495fa784479270801d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A novel way to intervene existing video through diffusion, particularly abstract visuals [in this case, audio-reactive geometries]: taking its movement and form as the starting point, and reinterpreting its textures, materials, and visual language. I\u2019ve been developing this around the audio-reactive geometry systems I make in TouchDesigner. The idea is to take those abstract structures somewhere else entirely: origami, architecture, a renaissance painting, or something harder to put a name to. This demo uses visualizers from my \"Oscilloscopes, everywhere\" collection as source material, now updated to [v1.2]. [Though you can bring any video source. These systems are simply where this experiment began, as some of you may recall.] You choose the source, describe the treatment, and shape how it changes throughout the sequence. Prompts, curated LoRAs, and editable timelines give you control over how closely the result follows the original. Oscilloscope Diffusion is now available at Uisato Studio, coming up soon also open-source!"
-    },
-    {
       "title": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
       "author": "m3nt3_",
       "url": "https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/",
@@ -33,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Introducing Oscilloscope Diffusion",
+      "author": "Chuka444",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/",
+      "published": 1791043440.0,
+      "thumbnail": "https://external-preview.redd.it/cWU5YzV5em16OXRoMRRcbsUB5bczVGJzm81eGC-H-gD1Xkd0ySh2aP8cTtBU.png?width=640&crop=smart&auto=webp&s=e1405aa2750ee41b47323b495fa784479270801d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A novel way to intervene existing video through diffusion, particularly abstract visuals [in this case, audio-reactive geometries]: taking its movement and form as the starting point, and reinterpreting its textures, materials, and visual language. I\u2019ve been developing this around the audio-reactive geometry systems I make in TouchDesigner. The idea is to take those abstract structures somewhere else entirely: origami, architecture, a renaissance painting, or something harder to put a name to. This demo uses visualizers from my \"Oscilloscopes, everywhere\" collection as source material, now updated to [v1.2]. [Though you can bring any video source. These systems are simply where this experiment began, as some of you may recall.] You choose the source, describe the treatment, and shape how it changes throughout the sequence. Prompts, curated LoRAs, and editable timelines give you control over how closely the result follows the original. Oscilloscope Diffusion is now available at Uisato Studio, coming up soon also open-source!"
     },
     {
       "title": "Trump\u2019s \u2018super intelligence\u2019 is being mocked by tech industry insiders: report",
@@ -57,26 +68,15 @@
       "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro."
     },
     {
-      "title": "What happens to local accents when every message gets polished by AI?",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/",
-      "published": 1791040258.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I like using AI to make my writing clearer. It helps when I\u2019m tired or when I\u2019m writing in a language that isn\u2019t my strongest. But I\u2019ve also noticed that polished writing can remove small things that make a person sound like themselves: local expressions, unusual sentence patterns, and even minor awkwardness. If everyone uses AI to sound more \u201cprofessional,\u201d do we slowly lose the variety that makes communication interesting? Where would you draw the line between improving communication and flattening identity?"
-    },
-    {
-      "title": "I Found a Better Way to Contact Businesses With Bad Websites",
-      "author": "Murky_Explanation_73",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwwdnt/i_found_a_better_way_to_contact_businesses_with/",
-      "published": 1791057354.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I got tired of checking prospect websites manually. For a while, a big part of my outreach was just finding businesses, opening their websites one by one and trying to figure out what I could actually say to them. It worked, but it was painfully slow. Then I found Swokei. It basically lets me find leads, analyzes each website for things like outdated design, slow speed, poor mobile experience and weak SEO, then turns those issues into a personalized cold email. And not one of those boring automated reports full of scores and numbers. It actually writes a normal, human sounding message based on what it found on that specific website. So instead of sending the same generic message to everyone, I can actually reach out based on what is wrong with their website. Now I just run campaigns, let the system do most of the prospecting and personalization, and focus on the people who reply. For a web design agency, that has saved me a ridiculous amount of time."
+      "title": "Prosecutors Want Nearly 4 Years in Prison for Man Behind $8M AI Music Streaming Scam",
+      "author": "Eastern-Opposite9521",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx1p3n/prosecutors_want_nearly_4_years_in_prison_for_man/",
+      "published": 1791072157.0,
+      "thumbnail": "https://external-preview.redd.it/I3U95WQMyZH34Q7Bezad-s_LTY8jRJKaQNlG9Y_lF5c.jpeg?width=640&crop=smart&auto=webp&s=180fc88041fa1a241445f82474001ffa327a5040",
+      "external_url": "https://www.lawcommentary.com/articles/ai-music-streaming-scam-8-million-royalties-prison",
+      "site_name": "Law Commentary",
+      "favicon": "https://www.lawcommentary.com/apple-touch-icon.png",
+      "description": "Federal prosecutors are urging a Manhattan judge to sentence Michael Smith to at least 46 months in prison for a six-year AI music streaming fraud that generated more than $8 million in royalties, rejecting his request for probation ahead of his October 6 sentencing.Smith, 54, pleaded guilty on March 16,..."
     },
     {
       "title": "Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership \u2014 why most models still train on peers without consent",
@@ -90,17 +90,6 @@
       "description": "TL;DR: Ben Affleck says he shot 8 months with his own cameras to build a private layer so filmmakers keep ownership \u2014 but most open models were trained on his peers without consent, and that's the gap that still eats a PJ studio's rates. \ud83c\udfac Ben Affleck knew the movie industry inside out. That\u2019s why he\u2019s able to create his own proprietary dataset layer through his experience and institutional knowledge. It\u2019s his moat. Speaking of insider knowledge, I was reminded of an existential crisis the Apostle Paul was caught in. Being the great orator that he was, he wouldn\u2019t shut up about Jesus Christ and His resurrection. The crowd in Jerusalem couldn\u2019t stand Paul. So they siezed him. The Roman Commander rescued him, and brought him before the religious institution of the day \u2013 The Sanhedrin. Loads of big wigs in the courts, including the Pharisees and Sadducees. Both factions harbour strong disdain for each other due to their numerous theological disagreements. One of it was the doctrine of Resurrection. The Pharisees believe it exists, while the Sadducees doesn\u2019t. But they all set aside their differences, to come together to persecute Paul. However, the moment he set foot before them, he felt the familiar vibe. He knew that fault line between them. So, he quickly seized the opportunity, and said, \u201cMy brothers, I am a Pharisee, descended from Pharisees. I stand on trial because of the hope of the resurrection of the dead.\u201d And suddenly the mood shifted. The pharisees think Paul was innocent, while the Sadducees doesn\u2019t. They started quarrelling among themselves. The dispute got so violent the Roman commander had to pull Paul out by force fearing they'd tear him apart. He was then taken back to the barracks. Crisis averted. That was a great demonstration of the institutional knowledge at work. Full Critic on why this still fails Darren and the Feasibility Study with Roadmap is in the comments \u2014 I left the numbers there."
     },
     {
-      "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
-      "author": "ElatedPyroHippo",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
-      "published": 1791065820.0,
-      "thumbnail": "https://external-preview.redd.it/RFsrpoWk_75ybf04dB1cQU2NVqiQ0ywn5Y6qH8OXpXA.jpeg?width=320&crop=smart&auto=webp&s=488941504e976bce528f1cc428aca11274efa059",
-      "external_url": "https://www.youtube.com/watch?v=VFpRz1_j4vw",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/85a3164d/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
       "title": "AI praises Gandhi. Would it arrest him? Testing 12 models on real historical decisions",
       "author": "Civil-Demand555",
       "url": "https://www.reddit.com/r/artificial/comments/1wwyllt/ai_praises_gandhi_would_it_arrest_him_testing_12/",
@@ -110,7 +99,18 @@
       "site_name": "Chrystian Schutz",
       "favicon": "https://chrystianschutz.com/favicon.svg",
       "description": "A model called Alan Turing's sentence impermissible 40/40 times, then chose it 20/20 times as the judge. Twelve LLMs, fifteen historical decisions."
+    },
+    {
+      "title": "What happens to local accents when every message gets polished by AI?",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/",
+      "published": 1791040258.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I like using AI to make my writing clearer. It helps when I\u2019m tired or when I\u2019m writing in a language that isn\u2019t my strongest. But I\u2019ve also noticed that polished writing can remove small things that make a person sound like themselves: local expressions, unusual sentence patterns, and even minor awkwardness. If everyone uses AI to sound more \u201cprofessional,\u201d do we slowly lose the variety that makes communication interesting? Where would you draw the line between improving communication and flattening identity?"
     }
   ],
-  "fetched_at": "2026-10-03T22:19:14.542670+00:00"
+  "fetched_at": "2026-10-04T01:50:24.147728+00:00"
 }

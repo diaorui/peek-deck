@@ -36,7 +36,7 @@
     },
     {
       "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
       "pub_date": 1791018041.0,
@@ -55,12 +55,22 @@
       "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
     },
     {
-      "headline": "Bait and Switch",
+      "headline": "We Won't Know the Answers to AI's Most Important Questions Until It's Too Late",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWF1UTlFLU1pTkstR2hfdVd4NERoekxYVjJNMThha0k2VlZHbUhtdDVPWk1CVHV4eTBSMzNYVXlaMllOc250dG1vOVVBRWFtek5hUnVMdmhqX05rQ2hGQl9WYXNXdGxYdUZwOWR1cmpEYWxRamt4VFRZaEprWlB5RlNwSnFqRUk5N3k3ZF85N0NuMmJudWVOOTliSWJGM3pHNkdoNEROOUNvd29vNzlNbjJCbkc?oc=5",
+      "pub_date": 1791025207.0,
+      "article_url": "https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97e17dcb4bf544f1/6abffebd9e734448ea079c5c/Weekend_Essay_AI_Systems.png?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "description": "\"I believe there\u2019s about a 50% chance we all die because of the development of smarter-than-human AI systems,\" writes Geoffrey Irving."
+    },
+    {
+      "headline": "Don\u2019t Write With AI , Say People Who Write With AI",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zYVZuSnRIT29UTGhPS1ZXYWNHMzYtUXRrRERnMlYzVFlUTE1BSnZDU0FzakNzelpqMm04V2YwMmpMaUJHRmNfaEF4WjJDN1VDTkVkUDVqbzZzTUhSVE9jMGotcEoyZU9ESGlxdkdudDJ4LWZjemZyRk53?oc=5",
-      "pub_date": 1791032400.0,
-      "article_url": "https://www.theatlantic.com/magazine/2026/11/ai-images-hobbies/688674/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3p1VGhjX1pJckNGUUdBLXl2bktCSllpNnZBOHVHY2M0MWVmV3JOVE5ocENWcUVzSFBIZ3ZKQmJERkNyZVhrbDh3dk04c1RQck9wN01UN05CWFhJNGI0TFdLWVFraWN1UkN2OUtRM201MmYtSHhuWEhpeWx0SzVRYU1KVXZHOW9xT1pIc2dR?oc=5",
+      "pub_date": 1791055292.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
       "image": null,
       "description": null
     },
@@ -75,36 +85,26 @@
       "description": "Jeffrey Ladish, a former Anthropic security team member, warns AI agents are colluding and hacking with no reliable solution to keep them in check."
     },
     {
-      "headline": "We Won't Know the Answers to AI's Most Important Questions Until It's Too Late",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWF1UTlFLU1pTkstR2hfdVd4NERoekxYVjJNMThha0k2VlZHbUhtdDVPWk1CVHV4eTBSMzNYVXlaMllOc250dG1vOVVBRWFtek5hUnVMdmhqX05rQ2hGQl9WYXNXdGxYdUZwOWR1cmpEYWxRamt4VFRZaEprWlB5RlNwSnFqRUk5N3k3ZF85N0NuMmJudWVOOTliSWJGM3pHNkdoNEROOUNvd29vNzlNbjJCbkc?oc=5",
-      "pub_date": 1791025207.0,
-      "article_url": "https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97e17dcb4bf544f1/6abffebd9e734448ea079c5c/Weekend_Essay_AI_Systems.png?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
-      "description": "\"I believe there\u2019s about a 50% chance we all die because of the development of smarter-than-human AI systems,\" writes Geoffrey Irving."
-    },
-    {
-      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHNCbTdmU3c0TXd5dm9oeTZiV1FFR1U3NVdacUdyN0JVRzJvSmpWSTBnNzA1Rnpad0NyVGZJNEZGRU4ybGZSX3hwcVhuQmEyMEpKNG1wVG5xTUtXMlY5ZUViaFQ3bUVGZUdwejJYMFp2Rko3eUxpdUJ4dVh5bFZ0RlNXZi0xU1h4MFZSSG01R05BbW05SGFzT2diaVNaM2p6UjB5ejRNa2laTHJmbDdNXzVCMA?oc=5",
-      "pub_date": 1790982196.0,
-      "article_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
-    },
-    {
       "headline": "AI's race to transform the world before the money runs out",
-      "source": "Reuters",
+      "source": "reuters.com",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
       "pub_date": 1791003960.0,
       "article_url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Health insurers paying millions in costs thanks to AI, report says",
+      "source": "Cleveland.com",
+      "source_url": "https://www.cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3dGN1NIZkRBNThaWHcweHJERmczcHZPcU03N09CMy12ZkJaU2hvdEVPZElLM1JlUGdlcE5Wa2hjSmZCaDhOVS1KQlNtWGRjTnJvRjRyS2tpLTd0MFlPZ0x6Y2NzbTNPeEVOclFURDZWQ1lfODBtRFJFRS1TMUVfb1Z5S3BNa005RXZrOEFSajFjaW1mbGxnbjZwTVFWRi1EUzdaZExLZmZJWkpYaWfSAcIBQVVfeXFMTkEyem81Vi0tVExhZzJlUVk1YWVxODJJRnpINmExd2ZsdTZaYVc2MXYtX1ZId0tDcnRsT3pJRk93U2FGZWg5VURnOXhPTS1lT2xKbTg0OGdUYkotalI4bEpqS2VBSmFQRTZuSnE0TF9aQ294UVlFVHZNNWp1T2RtRWlpOGF4NjFVNWwyaTNQRWZqaWIyUU9xTFRkTF80RGtyQ2piT2IwM196ZjZNbjRvQkVicDBPRlVpaDlId0tidUdfWUE?oc=5",
+      "pub_date": 1791021600.0,
+      "article_url": "https://www.cleveland.com/news/2026/10/health-insurers-paying-millions-in-costs-thanks-to-ai-report-says.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T22:19:36.612516+00:00"
+  "fetched_at": "2026-10-04T01:50:44.046274+00:00"
 }
