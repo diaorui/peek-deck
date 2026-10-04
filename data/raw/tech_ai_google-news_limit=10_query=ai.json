@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5",
-      "pub_date": 1791056460.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "image": "https://i.guim.co.uk/img/media/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64134a41050264f5ceac249a333fc99",
-      "description": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology"
-    },
-    {
       "headline": "Trump announces leadership of AI task force",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -25,54 +15,84 @@
       "description": "President Donald Trump on Sunday announced the leadership and duties of a \u201cSuper Intelligence Force,\u201d which he said will \u201censure that America continues to lead the world\u201d when it comes to artificial intelligence."
     },
     {
-      "headline": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
-      "source": "DW.com",
-      "source_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRmdkdHFFV09tWERfUW9MYlIxN3NRS0NLdkxwdklTUUtzenZZMXNuT012dTU3Z2hFUXpLUFhxMV8zSkhkdllYdnM2bEtTd3c2UzBJRXFJYlJqSGtXTDdmbmkwY2pKX2pZVklMR0pDQ0JBLTRWR2hxZ3V4QVFEaTZLeUJjQ04zbzVQQlk2Y3pzUkdjNmVhUXpqNjFsWU11ejdJbnBfT2RkektIQzVHejlVaTl5SDF6VVUwa29LUHZRQXpLTTNVUmllaGQwTTJUQdIBzgFBVV95cUxOazlNYnZxZmdrTTV4TGdjQUJtLXlzY0M3bm8xWFRwdGhYTDBKR2tQT1NEWlpoeEZJUGI4TTRJakpBc0liSDQtZTNEZmZUZV9kUHNYMmIzM0xsbU9FaERadjFtRDNxVGdOb2Z6M1pmNkZxcUppNzlyMFNpNFdOc0dMQUF0MHR2bTNqYXM2Rk84cVdTdGk5RHY0cXVvX0tObC0tZjdGTm9DNDhEdlFuek03X0pramxKM0YwSnRCUFBxZzVQTG9ucjJYR1NuV1hSUQ?oc=5",
-      "pub_date": 1791134314.0,
-      "article_url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947",
-      "image": "https://static.dw.com/image/77779441_6.jpg",
-      "description": "A new report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations have been made about propaganda in Democratic Republic of the Congo, Kenya, Sudan and Mali."
-    },
-    {
-      "headline": "AI policy coming to University of Alaska as student misuse increases",
-      "source": "Anchorage Daily News",
-      "source_url": "https://www.adn.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BrTXRqZTZnMnZ5X3plWl9fSEZGNlRXOVFRS2lDQl92MVI0MzEyZW5BU1lMWm5XZWdhV25wdlI2WWRrZ1NRb2t6U3pnM25nLVdSREdUYk50YzgtUHh6di1Wc19RdXRLeU90alZtWUg4SE9tNV9mcXphaHV1c1A3MHR3Rm40bWdmWVVacUpwSW44VGJnb1FndjgyS3Z0NnI3SWp3MEFPaloxejgxd2NFSGtZem9GbERzaDd1WmVONA?oc=5",
-      "pub_date": 1791133978.0,
-      "article_url": "https://www.adn.com/alaska-news/education/2026/10/04/ai-policy-coming-to-university-of-alaska-as-student-misuse-increases/",
-      "image": "https://www.adn.com/resizer/v2/AFJ4GRSGVRAIDPWZGYYWFIDWGI.JPG?smart=true&auth=7692fcb8f3979543c6c37ad19b05df942608787180e03488f66a3ba527531961&width=1200&height=630",
-      "description": "Student use of artificial intelligence tools to cheat is a \u201csteeply growing trend,\u201d according to a report on generative AI use among UAA students."
-    },
-    {
-      "headline": "AI models could harm young people's body image, warn experts",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02dTZNZ3pqWnFpcjhabDBiaTJSUE9KR1RsNWI5Rk1mNGYxb1pVR2xvUFF4M1g3cG81NGNYSjhyajRpSnRSaFNZaGVBSFo4T01sSzhKaHh0Q2gxZw?oc=5",
-      "pub_date": 1791094100.0,
-      "article_url": "https://www.bbc.com/news/articles/ckgw8yq4kyzo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c70/live/7101a300-bf69-11f1-8dde-c5daf8e396f5.jpg",
-      "description": "Could the rise of AI models in advertising and on social media harm young people's body confidence?"
-    },
-    {
-      "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
-      "pub_date": 1791018041.0,
-      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUx1aTFnUHltcTFXRmNIWVhPbW9Nd0lZMXdQVlRuVFVNMW5xRG1QaFpnanA4YnpicU9VTnMwQlZuNzJ4M0lYV0haWnNsZjZGZzFnRkNfZkItbkg2a3BCZ1FEbHdqbEZHc0E?oc=5",
-      "pub_date": 1791119225.0,
+      "pub_date": 1791119243.0,
       "article_url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Sentence Tossed After A.I. Video of Victim \u2018Forgiving\u2019 His Killer Is Played",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1Ia3ZTSnVXbXFnNEp6TnBlbDJUOVI5cUNvNDlXRm1NRjc5dXFkTC1CVDI2SXFkaVhlZkUzcE9Vb19pbWwzcDVWZlg0N1ROSzRrME9FWDdMVFRfdURtcFpkWWNuV2Y5SkwzN2RTeVcyVVZMS1kzcUpFcTNlODR6Q2FkcEllWlVDQzMtNVBaY3c3Y2NyaEJSUm82RHU?oc=5",
+      "pub_date": 1791145911.0,
+      "article_url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlAxb0NIQ0VSdkZGTGRPS1NCMTl4ZGd5ajNHR3dsMnZRMFg1cVNUbFlLR1dWTkhReGVuYkp6QV96QXplNndCallRdkFGUmN0b0Fnejd0MkFtLUF4aTg0cklZa1RsX1NSVUFic1p2RlFFNVMzdG90VENiWDd3VHhZa1dWaGdwbmpMTEF3S3k2VDJ0UzJyZ253WEdUVlgzTHN2RHY3dko5R0tWcTg2NEVWOUYzaENIX2t2aTVvRkNR?oc=5",
+      "pub_date": 1791147780.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says?srnd=all",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Sam Altman to Decoded: \u2018The world should accept some bad things happening\u2019 for the benefits of AI",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
+      "pub_date": 1791147300.0,
+      "article_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology",
+      "source": "foxbusiness.com",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnN5eW5kNW1la3RKMkY0ak1LQlB3dWZ0a1d0YloyOXFnLU1Id1dSRjdjVGhoU1pQOTVsXzB6VFhFejAzT1dEcE1odkFWVElFTEV3LVZseHNuLWlYOUZITGR4WlFSTXFqejFlMXVXTXFLNjJZMjZOT3lVQjJ4UVVtNXdRWUxFWTB1X0pUUjF3TUpvdnhDNng3b0NEV3BlbE9EaWUwUkQ2Mnp0SkVP0gGyAUFVX3lxTE9iS2lFdUJQVFBKTS12dUN0bzhNcWZwQmdxUHBuOWRTNVQzRjNyOURNRTI0RGZ4RFV2Y1k0ZE9hRXRBMTUxSWswRDBlYVlSRGFxR25TbURzQm1BSXlqaW15bnpRcVVibXJxa2NMeEUwSlNTZHBjMUt3Qk5aQnk3TWJ4aDM2VXVKNVdXOXdwaGlDSUhxODRBVlYzRnVNazBQZkxLelVNV1V2anh2VjRYWXFwcnc?oc=5",
+      "pub_date": 1791129120.0,
+      "article_url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/chick-fil-a-drive-thru-worker-hands-order.jpg?ve=1&tl=1",
+      "description": "Chick-fil-A is rejecting AI for drive-thru ordering, with CEO Andrew Cathy saying human interaction remains central to the fast-food chain's hospitality."
+    },
+    {
+      "headline": "Federal appeals court pauses Minnesota's AI \"nudification\" ban",
+      "source": "cbsnews.com",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMENON2hETU83NHA5NHk3S2tlXzA3OGg3QkV1MjdZaG1seXZGZDlhM19McGJUZGxBNmlNT3BNYVM5M0h3MjZkSXU5SFlFQVB0Z2tiY2k4NFJ3dm1wRlNGRTZvd2dHZUZqUDF4clNaUDAzT3B1OGYwOHp3NHlET3JNS0xDNzAzcmM1b2J3bThUWUg4WHNlNzhqLVJCNThuTXZY?oc=5",
+      "pub_date": 1791139597.0,
+      "article_url": "https://www.cbsnews.com/minnesota/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/02/c3b26059-0a4f-48a8-8aad-d2267a316546/thumbnail/1200x630/797e3623fcf3a1c599775adf9fae1370/gettyimages-2213179432.jpg",
+      "description": "Minnesota's law banning AI \"nudification\" images has been put on hold after a federal appeals court sided with Elon Musk's artificial intelligence company."
+    },
+    {
+      "headline": "I Quit OpenAI Because Its Culture Is Broken",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
+      "pub_date": 1791025200.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The AI industry is booming. Women are getting left behind",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5",
+      "pub_date": 1791118920.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+      "image": "https://i.guim.co.uk/img/media/887a4a342690f7c675f7ae9e721933650383125d/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=060263602fa1d9f43531fdab27dd7730",
+      "description": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption"
     },
     {
       "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
@@ -83,28 +103,8 @@
       "article_url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
       "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables."
-    },
-    {
-      "headline": "AI\u2019s Real Gift to Science",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5",
-      "pub_date": 1791129388.0,
-      "article_url": "https://www.theatlantic.com/science/2026/10/anthropic-artificial-intelligence-science-biology/688878/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | AI can resurrect the dead. Ask my chatbot mom.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGZYYVEyMU90NlZlSWJSaDV0RmUtSDNPd3pEbWZOMms5bmlDRVAtSkdjLXphdEFXNHFqOUE5S3R5aTNld1BIS1ZKdzFRZnJtWXM3alZzcl9zSXZ2b0pBUG1tMzRLeGUxNzRVdjl5bFRQVTYzcGxCN0xwNXo1SERadENzaXRwOXA1T3hwU00zSG11WHlEcDhn?oc=5",
-      "pub_date": 1791134343.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/10/04/using-ai-grief-tech-is-playing-with-fire/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NIVNDZZRN5FNFLICDSBOTUGI5I.jpg&w=1440",
-      "description": "Grief and technology is a classic combination. But it\u2019s also playing with fire."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T18:00:19.703431+00:00"
+  "fetched_at": "2026-10-04T21:15:32.774130+00:00"
 }

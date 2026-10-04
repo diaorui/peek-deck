@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2609.18063",
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 20,
+      "upvotes": 21,
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 2784,
+      "github_stars": 2868,
       "project_page": null
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2609.05415",
       "arxiv_url": "https://arxiv.org/abs/2609.05415",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
-      "upvotes": 20,
+      "upvotes": 21,
       "num_comments": 2,
       "published_at": "2026-09-03T20:00:00.000Z",
       "github_repo": "https://github.com/Friedrich-M/UniMate",
@@ -73,7 +73,7 @@
       "num_comments": 5,
       "published_at": "2025-10-25T03:41:02.000Z",
       "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 8865,
+      "github_stars": 8935,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.33439",
       "arxiv_url": "https://arxiv.org/abs/2609.33439",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 556,
+      "upvotes": 558,
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/EverMind-AI/Raven",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-04T18:00:09.923343+00:00"
+  "fetched_at": "2026-10-04T21:15:04.058162+00:00"
 }

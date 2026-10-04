@@ -73,9 +73,23 @@
       "description": "In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.",
       "favicon": "https://instapath.ai/apple-icon?f524f38a6e291b72",
       "site_name": "instapath.ai"
+    },
+    {
+      "title": "Florida weighs ditching property taxes and sticking Canadians with the bill",
+      "url": "https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814",
+      "hn_url": "https://news.ycombinator.com/item?id=49954499",
+      "author": "throw0101a",
+      "points": 27,
+      "num_comments": 26,
+      "created_at": "2026-10-04T15:02:25Z",
+      "object_id": "49954499",
+      "image": "https://i.cbc.ca/ais/b84e3e16-4ee2-409c-8b2f-268048bb178c,1790972450434/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C3000%2C1687%29%3BResize%3D620",
+      "description": "Florida voters are weighing whether to scrap residential property taxes and the state's governor has a solution to that potentially huge revenue loss: tax Canadians more.",
+      "favicon": "https://www.cbc.ca/a/apple-touch-icon.png",
+      "site_name": "CBC"
     }
   ],
-  "total_hits": 5,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-10-04T18:00:02.674639+00:00"
+  "fetched_at": "2026-10-04T21:15:06.939225+00:00"
 }
