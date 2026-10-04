@@ -2,22 +2,22 @@
   "coin_id": "ethereum",
   "name": "Ethereum",
   "symbol": "ETH",
-  "current_price": 2702.11,
-  "market_cap": 329914049008,
+  "current_price": 2707.76,
+  "market_cap": 330629676350,
   "total_supply": 122104582.2639211,
   "circulating_supply": 122104582.26392111,
   "max_supply": null,
   "ath": {
     "price": 4946.05,
     "date": "2025-08-24T11:21:03.000Z",
-    "change_percent": -45.36832421831563
+    "change_percent": -45.25409164889154
   },
   "atl": {
     "price": 0.432979,
     "date": "2015-10-19T16:00:00.000Z",
-    "change_percent": 623974.1467831003
+    "change_percent": 625279.0599544089
   },
-  "price_change_24h_percent": 0.51768,
+  "price_change_24h_percent": 0.79592,
   "market_cap_rank": 2,
-  "fetched_at": "2026-10-04T18:00:03.061498+00:00"
+  "fetched_at": "2026-10-04T21:15:07.534367+00:00"
 }

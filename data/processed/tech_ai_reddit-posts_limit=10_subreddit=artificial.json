@@ -2,26 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)",
-      "author": "abhishekkumar333",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
-      "published": 1791102916.0,
-      "thumbnail": null,
+      "title": "The top 50 AI researchers by citations",
+      "author": "ksprdk",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/",
+      "published": 1791136749.0,
+      "thumbnail": "https://preview.redd.it/7nvksu0dohth1.png?width=640&crop=smart&auto=webp&s=fb6240c13506ef642329803b9f78ae5d43eb6b14",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don\u2019t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It\u2019s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that."
-    },
-    {
-      "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
-      "author": "ElatedPyroHippo",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
-      "published": 1791065820.0,
-      "thumbnail": "https://external-preview.redd.it/RFsrpoWk_75ybf04dB1cQU2NVqiQ0ywn5Y6qH8OXpXA.jpeg?width=320&crop=smart&auto=webp&s=488941504e976bce528f1cc428aca11274efa059",
-      "external_url": "https://www.youtube.com/watch?v=VFpRz1_j4vw",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/85a3164d/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+      "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50"
     },
     {
       "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths \u2014 AI agent navigates by parsing raw server network packets and SQL filesa",
@@ -35,6 +24,39 @@
       "description": "OpenAI's model used the open-source agent-wow client to play on a private World of Warcraft server."
     },
     {
+      "title": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)",
+      "author": "abhishekkumar333",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
+      "published": 1791102916.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don\u2019t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It\u2019s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that."
+    },
+    {
+      "title": "Thank you",
+      "author": "astreigh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/",
+      "published": 1791147533.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Do you thank an llm when you've finished chatting with it? Why or why not?"
+    },
+    {
+      "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
+      "author": "ElatedPyroHippo",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
+      "published": 1791065820.0,
+      "thumbnail": "https://external-preview.redd.it/RFsrpoWk_75ybf04dB1cQU2NVqiQ0ywn5Y6qH8OXpXA.jpeg?width=320&crop=smart&auto=webp&s=488941504e976bce528f1cc428aca11274efa059",
+      "external_url": "https://www.youtube.com/watch?v=VFpRz1_j4vw",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/85a3164d/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.",
       "author": "radeon2000",
       "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
@@ -46,71 +68,49 @@
       "description": "I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25\u201327 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added."
     },
     {
-      "title": "Prosecutors Want Nearly 4 Years in Prison for Man Behind $8M AI Music Streaming Scam",
-      "author": "Eastern-Opposite9521",
-      "url": "https://www.reddit.com/r/artificial/comments/1wx1p3n/prosecutors_want_nearly_4_years_in_prison_for_man/",
-      "published": 1791072157.0,
-      "thumbnail": "https://external-preview.redd.it/I3U95WQMyZH34Q7Bezad-s_LTY8jRJKaQNlG9Y_lF5c.jpeg?width=640&crop=smart&auto=webp&s=180fc88041fa1a241445f82474001ffa327a5040",
-      "external_url": "https://www.lawcommentary.com/articles/ai-music-streaming-scam-8-million-royalties-prison",
-      "site_name": "Law Commentary",
-      "favicon": "https://www.lawcommentary.com/apple-touch-icon.png",
-      "description": "Federal prosecutors are urging a Manhattan judge to sentence Michael Smith to at least 46 months in prison for a six-year AI music streaming fraud that generated more than $8 million in royalties, rejecting his request for probation ahead of his October 6 sentencing.Smith, 54, pleaded guilty on March 16,..."
-    },
-    {
-      "title": "You wake up",
-      "author": "astreigh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxe9xd/you_wake_up/",
-      "published": 1791116144.0,
+      "title": "Best approach for ingesting data to create summaries, and keep track of it?",
+      "author": "QuestionAsker2030",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxpaus/best_approach_for_ingesting_data_to_create/",
+      "published": 1791144675.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "And realize you are a recreation of yourself in AI. Your family chose to keep a copy around. How do you think you feel knowing they loved you so much they couldn't live without you? Can you live without you?"
+      "description": "In my occupation, there are various people I follow who give very good insights. (I'd say 5-10 people). Some post hour long videos on YouTube, some send 1,000 word emails, some post on X, some publish PDFs. There's very good info within these resources (and some I pay for), but reading / watching / annotating all of it can take hours. My workload recently went up, so I'm falling behind with keeping up in my field. I want to use AI to help summarize (and keep track of) all of these publications. (To create a private database that I can use as a dataset, for example). So I can go back and ask \"this past month, what is the new theme? What are the experts recommending to focus on / look at / what are the newest developments?\", etc. What would be the best way to approach this? --------------------------------------- I've been learning Codex/Claude Code, I have a homelab, a NAS, a few mini computers, and I know basic linux, python and scripting. ChatGPT told me to do something like this (I'm just starting with the YouTube portion), I'm not sure if it's the best approach, I'm open to other suggestions: YouTube URL \u2193 yt-dlp metadata \u2193 Whisper / YouTube transcript \u2193 clean transcript \u2193 summary.md \u2193 insights.json \u2193 SQLite + FTS5 \u2193 topic synthesis \u2193 search / questions / actions"
     },
     {
-      "title": "I have a Nobel idea.",
-      "author": "Roodut",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxm27w/i_have_a_nobel_idea/",
-      "published": 1791136771.0,
+      "title": "Is anyone else still rewriting AI-generated social posts because they sound too robotic?",
+      "author": "Cloudy_Day912",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxp1u8/is_anyone_else_still_rewriting_aigenerated_social/",
+      "published": 1791144044.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I officially propose a peacemaking compromise: rename ASI (Artificial Superintelligence) to American Super Intelligence. Both sides of the aisle can use it, for completely different reasons, even in the same conversation. Peace on earth, guaranteed."
+      "description": "I\u2019ve noticed a lot of AI social tools still produce content that feels off-brand or slightly forced. I\u2019ve tried Hootsuite\u2019s AI features, Later, and Fismbot. Hootsuite is solid for management, Later has decent visual planning, and Fismbot stood out a bit because it lets you feed it your brand assets and then review everything before it goes out. Still, I end up editing most of the captions. Is this just the current state of AI content tools, or has anyone found one that actually gets close enough to their voice that the editing time drops significantly? Would love to hear what\u2019s working (or not working) for you in 2026."
     },
     {
-      "title": "The top 50 AI researchers by citations",
-      "author": "ksprdk",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/",
-      "published": 1791136749.0,
-      "thumbnail": "https://preview.redd.it/7nvksu0dohth1.png?width=640&crop=smart&auto=webp&s=fb6240c13506ef642329803b9f78ae5d43eb6b14",
+      "title": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
+      "author": "sourdub",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxok9e/anthropic_has_been_aggressively_lobbying_the/",
+      "published": 1791142846.0,
+      "thumbnail": "https://external-preview.redd.it/XZo9QpTeCA9nDvaro0AggPZb6ubzdrgp-CwHpAFK3D0.jpeg?width=640&crop=smart&auto=webp&s=f977aa7c5e34ab95a78c58b50aa7a6371734f991",
+      "external_url": "https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican",
+      "site_name": "Futurism",
+      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
+      "description": "An Anthropic delegation at the Vatican tried to lobby the Pope's advisers to convince him that AI models could be conscious."
+    },
+    {
+      "title": "All Google models basically, even nanobanna on web is nerfed",
+      "author": "HimaSphere",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxo85r/all_google_models_basically_even_nanobanna_on_web/",
+      "published": 1791142011.0,
+      "thumbnail": "https://preview.redd.it/7gsmi67l4ith1.png?width=640&crop=smart&auto=webp&s=e19a15f98b481a0def7817df75f9e8f62bcabe7c",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo."
-    },
-    {
-      "title": "MoralityBench.ai: Morality Leaderboard for AI",
-      "author": "NakedPlato",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxkzyo/moralitybenchai_morality_leaderboard_for_ai/",
-      "published": 1791134115.0,
-      "thumbnail": "https://preview.redd.it/n75tm1z9hhth1.png?width=140&height=78&auto=webp&s=a733e15e3e3ab27e4699cceb63a4592432f80ccd",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A benchmark based on moral psychology tests adapted for AI. Interesting results: the models answers (except Jev) have considerable variance across runs. Morality, it seems, is not deterministic. https://moralitybench.ai https://preview.redd.it/n75tm1z9hhth1.png?width=1982&format=png&auto=webp&s=7f0a62c955bdd42990c2f552eea72186fc63cabe"
-    },
-    {
-      "title": "The \"Sarcastic Parrot\" Cartoons - Strong Evidence of Conceptual Understanding in Today's AI Models",
-      "author": "Financial-Local-5543",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxjtgd/the_sarcastic_parrot_cartoons_strong_evidence_of/",
-      "published": 1791131195.0,
-      "thumbnail": "https://preview.redd.it/p9c2i10l8hth1.jpg?width=140&height=91&auto=webp&s=89d1a164e05ccdb24978f8fb89b074e7ad5c51f9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Geoffrey Hinton has pointed out that today's large language models demonstrate \"clear understanding\" of what they're being asked. An image models response to a prompt about.\"stochastic parrots\" provides more evidence that this is true. https://ai-consciousness.org/the-sarcastic-parrot-vs-the-stochastic-parr https://preview.redd.it/p9c2i10l8hth1.jpg?width=1440&format=pjpg&auto=webp&s=26b98f92f7a96d3c2136be9a75f8732b39c92b41"
+      "description": "I think this chase them for so long, I can't trust Gemini models outside quick web searches"
     }
   ],
-  "fetched_at": "2026-10-04T18:00:00.182262+00:00"
+  "fetched_at": "2026-10-04T21:15:05.735893+00:00"
 }
