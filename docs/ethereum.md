@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-03T22:19:38.283495+00:00'
+updated: '2026-10-04T01:50:47.133382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 03, 2026 at 22:19 UTC  
+**Last Updated:** October 04, 2026 at 01:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,682.20
+### $2,692.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.4%  
 **7d:** +0.0%  
-**30d:** +9.5%  
-**90d:** +49.5%  
-**1y:** -40.1%  
+**30d:** +8.5%  
+**90d:** +52.0%  
+**1y:** -40.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.20B
+**Market Cap:** $328.67B
 Rank #2
 
 **Circulating Supply:** 122,101,617 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.7%
+-45.6%
 
 **All-Time Low:** $0.43
-+620689.9%
++621590.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -166,27 +166,27 @@ Decrypt News • 1d ago
 
 ---
 
+**[Ethereum ETFs Saw Outflows Three Days Running After a $690 Million Week. Is Fund Demand Drying Up?](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-saw-outflows-three-000703151.html)**
+
+Ethereum ETFs pulled in $690 million one week, then sent investors rushing for the exits the next. Whether that reversal signals a deeper shift in appetite or just routine quarter-end shuffling could reshape how crypto funds compete heading into Q4.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Crypto job postings triple to over 1,200 in September, but applications fall](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)**
 
 Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.
 
-CoinDesk • 6h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
+**[BlackRock Bitcoin ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs](https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-bitcoin-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/)**
 
-Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
+BlackRock’s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT’s 50-day simple moving average…
 
-Yahoo Finance • 20h ago
-
----
-
-**[Ethereum Price Faces $2,800 Wall Again — Are Whales Selling or Accumulating ETH?](https://www.tradingview.com/news/coinpedia:3e242a83c094b:0-ethereum-price-faces-2-800-wall-again-are-whales-selling-or-accumulating-eth/)**
-
-Ethereum price is hitting the same $2,800 hurdle again, but the latest on-chain signals suggest the battle is getting more intense beneath the surface. Large ETH transactions have surged, older coins are moving again, while exchange-held supply continues to trend lower. At the same time, holder pro…
-
-tradingview.com • 17h ago
+TradingView • 8h ago
 
 ---
 
@@ -206,19 +206,19 @@ The Hacker News • 2d ago
 
 ---
 
-**[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
-
-Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
-
-The Block • 2d ago
-
----
-
 **[Ethereum Crypto Presale Pepeto Announces Its Final Stages Before Binance While Cardano Price Prediction Targets $3.25](https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603)**
 
 DUBAI, United Arab Emirates, Oct.  02, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto has announced its crypto presale is entering its fi...
 
 markets.businessinsider.com • 1d ago
+
+---
+
+**[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
+
+Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
+
+The Block • 2d ago
 
 ---
 
@@ -234,13 +234,23 @@ Fortune • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum vs Solana vs Sui: The Framework for the Next Crypto Cycle](https://www.youtube.com/watch?v=rBOz5JaVLWs)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 8K • 👍 218 • 💬 177 • ⏱️ 21:51 • 12h ago
+
+---
+
 **[Ethereum: Where the Next Pullback Could End](https://www.youtube.com/watch?v=T7EsGi4KHq4)**
 
 Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target and consolidates while the $2615 to $2659 ...
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 183 • 💬 9 • ⏱️ 9:53 • 13h ago
+👁️ 9K • 👍 191 • 💬 9 • ⏱️ 9:53 • 16h ago
 
 ---
 
@@ -250,7 +260,7 @@ Tom Lee says the bull run is officially on and Uptober is here, with a path to $
 
 📺 Paul Barron Network
 
-👁️ 114K • 👍 2K • 💬 222 • ⏱️ 12:18 • 2d ago
+👁️ 115K • 👍 2K • 💬 222 • ⏱️ 12:18 • 2d ago
 
 ---
 
@@ -260,37 +270,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 198 • 💬 6 • ⏱️ 19:58 • 2d ago
-
----
-
-**[Ethereum vs Solana vs Sui: The Framework for the Next Crypto Cycle](https://www.youtube.com/watch?v=rBOz5JaVLWs)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 173 • 💬 135 • ⏱️ 21:51 • 9h ago
-
----
-
-**[#1 Altcoin Right Now | Bitcoin &amp; Ethereum Bull Run Update](https://www.youtube.com/watch?v=OBnxZ7vDR5I)**
-
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v47 ______ ...
-
-📺 Crypto Archie
-
-👁️ 4K • 👍 103 • 💬 1 • ⏱️ 10:16 • 1d ago
-
----
-
-**[BITCOIN IS BREAKING OUT? XRP AND ETH FLASH MASSIVE SIGNAL: CRYPTO SENTIMENT COLLAPSES!](https://www.youtube.com/watch?v=D0u5u8iEuB0)**
-
-BITCOIN IS BREAKING OUT? XRP AND ETH FLASH MASSIVE SIGNAL: CRYPTO SENTIMENT COLLAPSES! In today's show I'm ...
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 265 • 💬 5 • ⏱️ 30:10 • 16h ago
+👁️ 10K • 👍 199 • 💬 6 • ⏱️ 19:58 • 2d ago
 
 ---
 
@@ -304,13 +284,13 @@ BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watc
 
 ---
 
-**[BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LfIbptPM1KM)**
+**[Ethereum&#39;s $2800 Secret: Bull Market or Bust?](https://www.youtube.com/watch?v=5QVQsSElPbs)**
 
-BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum is approaching a critical $2800 price zone. Some traders view this level as major resistance, with a breakout ...
 
-📺 Crypto World
+📺 Lark Davis
 
-👁️ 14K • 👍 446 • 💬 112 • ⏱️ 26:47 • 22h ago
+👁️ 960 • 👍 26 • 💬 1 • ⏱️ 0:35 • 9h ago
 
 ---
 
@@ -318,17 +298,37 @@ BITCOIN DUMP: Exact Trading Strategy Exposed (WARNING)!!! - Bitcoin News Today, 
 
 📺 CryptoWendyO
 
-👁️ 10K • 👍 424 • 💬 8 • ⏱️ 1:58 • 21h ago
+👁️ 10K • 👍 443 • 💬 9 • ⏱️ 1:58 • 1d ago
 
 ---
 
-**[🔥 Ethereum Is Waking Up - ETH Crypto Analysis](https://www.youtube.com/watch?v=pfdpDbYgAnM)**
+**[Bitcoin, XRP &amp; Ethereum Are Part Of The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=8q8z7iZikUo)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/TrwlgKbB Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+Its estimated that by the year 2040 corporate landlords will own most, if not all of single family homes and apartments around the ...
 
-📺 Bitcoin Strategy
+📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 115 • 💬 16 • ⏱️ 10:17 • 2d ago
+👁️ 35K • 👍 2K • 💬 471 • ⏱️ 19:06 • 2d ago
+
+---
+
+**[Ethereum Price Prediction for the 2027-28 Bull Run](https://www.youtube.com/watch?v=bDNbyGn9fxk)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCrqGnnM-JjpnQFWM9ICjRuw/join Sign up for Bitunix ...
+
+📺 World War Bitcoin
+
+👁️ 2K • 👍 41 • 💬 5 • ⏱️ 11:46 • 1d ago
+
+---
+
+**[BMNR Stock Just Exploded 8% — Is Ethereum Starting a New Rally? ? 🚀 #bmnr  #bmnrstock](https://www.youtube.com/watch?v=3y29vPhKLhk)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...
+
+📺 TRADING  NEWS
+
+👁️ 192 • 👍 10 • 💬 8 • ⏱️ 10:56 • 1d ago
 
 ---
 
