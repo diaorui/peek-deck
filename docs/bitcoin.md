@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-04T13:45:01.166441+00:00'
+updated: '2026-10-04T18:00:21.297711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 04, 2026 at 13:45 UTC  
+**Last Updated:** October 04, 2026 at 18:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,265.62
+### $85,356.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.0%  
-**30d:** +6.8%  
-**90d:** +34.6%  
-**1y:** -30.9%  
+**24h:** +0.4%  
+**7d:** +2.1%  
+**30d:** +6.9%  
+**90d:** +34.7%  
+**1y:** -30.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1712.33B
+**Market Cap:** $1714.47B
 Rank #1
 
-**Circulating Supply:** 20,093,184 BTC
+**Circulating Supply:** 20,093,321 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.4%
+-32.3%
 
 **All-Time Low:** $67.81
-+125567.3%
++125732.5%
 
 ---
 
@@ -77,77 +77,71 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I mean what else to do?](https://www.reddit.com/r/Bitcoin/comments/1wwk89c/i_mean_what_else_to_do/)**
+**[₿ears Anonymous](https://www.reddit.com/r/Bitcoin/comments/1wxf2i8/ears_anonymous/)**
+
+5h ago
+
+---
+
+**[The true and much more important Bitcoin cycle](https://www.reddit.com/r/Bitcoin/comments/1wxgy29/the_true_and_much_more_important_bitcoin_cycle/)**
+
+3h ago
+
+---
+
+**[Yes, but this doesn’t mean to gamble on leverage](https://www.reddit.com/r/Bitcoin/comments/1wx6ura/yes_but_this_doesnt_mean_to_gamble_on_leverage/)**
+
+13h ago
+
+---
+
+**[Don’t Worry! Buying The Dip On Bitcoin Will Pay Off‼️💯🚀](https://www.reddit.com/r/Bitcoin/comments/1wx4a0x/dont_worry_buying_the_dip_on_bitcoin_will_pay_off/)**
+
+15h ago
+
+---
+
+**[Me going to work after refreshing the charts for 48 hours over the weekend](https://www.reddit.com/r/Bitcoin/comments/1wx989q/me_going_to_work_after_refreshing_the_charts_for/)**
+
+10h ago
+
+---
+
+**[Life 10 years after the big bitcoin rally](https://www.reddit.com/r/Bitcoin/comments/1wx3ioh/life_10_years_after_the_big_bitcoin_rally/)**
+
+I thought I'd share my journey and thoughts. I was into bitcoin relatively early (2012) and was fortunate enough to have been a hodler into the 2017 rally and exited at the top. I've been lucky enough to make good investments from bitcoin into real estate and some startups and stocks. Life almost 10 years later has been comfortable and all but a dream. Reconstructing what brought me here, I think it would be harder now than before despite it "looking" more attainable. Cryptocurrency which is more popular than ever now has become this dragon investor's chase. Away from the milieu of scams and scammers, earnest investors are hoping for the next big rally but I don't see anyone really planning beyond their imagined gains in personal and public interactions. As a true believer in the concept of Bitcoin I never sold even after the first few rallies to $1,000 even though I was up almost 80x when that first happened. I regularly bought the dips on occasion up until 2015, because I had conviction in blockchain and bitcoin, not because I just wanted to get rich. Getting rich was the consequence of the conviction. I was a paper millionaire and still going to work in 2016. When I sold the majority of my bitcoin, I still went to work. I didn't make any major lifestyle changes and instead did research on real estate, taxes, stocks and where to invest fiat. When I did quit a few months later it was non-climatic. I held my stance and stayed away from the ICOs and exchange explosion and just kept watching from the distance. I wasn't tempted by any of it because I already made a plan in my last months at work and chose to stick to it. I'm certain that saved me because some of my friends who were also believers lost it all in the ruckus by chasing the dragon and thinking they'd go from millionaire to billionaire in the same way. Sometimes, most times, it just happens once and it's best to call it luck and get out. So make a plan for the one time and stick to it.
+
+16h ago
+
+---
+
+**[bought bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wxa62j/bought_bitcoin/)**
+
+https://preview.redd.it/a9s2duavqeth1.png?width=1144&format=png&auto=webp&s=1a85b7ec227ad549c7ca594229610ec91909b655 hey so i just bought my first sum of bitcoin, can yall help me on what i should do?
+
+9h ago
+
+---
+
+**[Is my friend scamming me, or is his explanation about Bitcoin and Bybit legitimate?](https://www.reddit.com/r/Bitcoin/comments/1wx1ikp/is_my_friend_scamming_me_or_is_his_explanation/)**
+
+Around 10–11 months ago, I gave a friend approximately $3,600 to invest in Bitcoin when it was at $86K. Ever since, whenever I’ve asked for my money back, he’s made excuses, saying Bitcoin crashed and he couldn’t return it. Now that Bitcoin is back around $86K, I asked him again. This is what he told me: I used Bybit. And it’s not as simple as just waiting for Bitcoin to stay above $86K. Since the money has been stuck for so long, the app keeps charging fees and adding them up. If I withdraw the money now, those fees will be deducted from the original $3,600, so I won’t be able to return the full amount. That’s why I want Bitcoin to stay above $86K for a few days or a week, so I can recover those fees and return the full $3,600.” I’m genuinely very concerned. I don’t know much about crypto, and I don’t understand how any of this works. Does Bybit actually charge ongoing fees for holding Bitcoin? Does his explanation make any sense, or is he just making excuses to keep my money? I’m starting to worry that he’s taking advantage of me because I’m a girl and assumes I don’t know any better. Please, if anyone has experience with Bybit or crypto, I’d really appreciate your advice. I’m genuinely worried about losing my money. this is all i have!!
+
+18h ago
+
+---
+
+**[The MIT Media Lab's snack machine now accepts Bitcoin payments via the Lightning Network](https://www.reddit.com/r/Bitcoin/comments/1wwt5ey/the_mit_media_labs_snack_machine_now_accepts/)**
 
 1d ago
 
 ---
 
-**[today is tomorrow's yesterday](https://www.reddit.com/r/Bitcoin/comments/1wwg5z5/today_is_tomorrows_yesterday/)**
+**[Cantillionaires be like](https://www.reddit.com/r/Bitcoin/comments/1wwvkvg/cantillionaires_be_like/)**
 
-1d ago
+Recommended reading: "A History of Central Banking and the Enslavement of Mankind" by Stephen Mitford Goodson
 
----
-
-**[Bitcoin is going to be $250,000 within twelve months](https://www.reddit.com/r/Bitcoin/comments/1wvz9xr/bitcoin_is_going_to_be_250000_within_twelve_months/)**
-
-We're at Feb 2023 cycle stage. We're going to $125k in six months and $250k by Summer 2027.
-
-1d ago
-
----
-
-**[Smoking long bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wwgo8h/smoking_long_bitcoin/)**
-
-Most people right now. Just buy and hodl.
-
-1d ago
-
----
-
-**[Buy more bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ww99iy/buy_more_bitcoin/)**
-
-1d ago
-
----
-
-**[Do I quit my job and travel for a year or keep stacking corn?](https://www.reddit.com/r/Bitcoin/comments/1ww7zpr/do_i_quit_my_job_and_travel_for_a_year_or_keep/)**
-
-Pretty simple question I have been wrestling for a while. Background: I am in my late 20s and am not in my forever job. I have been investing since I was a teenager and went all in on bitcoin in ‘21. I have surpassed what my younger self thought I could acquire in btc terms. I really want to travel central/South America for a year and learn Spanish. I have more than enough in cold storage/retirement accounts that as long as I don’t touch anything I will have multi millions in USD terms at retirement age using a 10% ROI (horribly low I know… but being super conservative). I have worked my ass off and want to take a year off, but feel like it is stupid relative to my age, my current salary ($150k+ per year), and how low btc still is in USD terms. My lease ends this summer. What would you do?
-
-1d ago
-
----
-
-**[To those people who DCA](https://www.reddit.com/r/Bitcoin/comments/1wwizei/to_those_people_who_dca/)**
-
-How much do you buy daily/weekly/monthly?
-
-1d ago
-
----
-
-**[Holy smokes!](https://www.reddit.com/r/Bitcoin/comments/1wvkh4n/holy_smokes/)**
-
-God Candle Loading…
-
-2d ago
-
----
-
-**[Buckle up boys, rocket ship incoming!!! (I sold)](https://www.reddit.com/r/Bitcoin/comments/1wvu7sn/buckle_up_boys_rocket_ship_incoming_i_sold/)**
-
-I sold 25% of my BTC holdings for dry powder in case this october/november "bloodbath" actually does come. My average buy was 64K so i essentially just sold my profit, however I firmly believe that my sell will initiate the biggest bull candle we have yet to see. Good luck, gentlemen!!!
-
-1d ago
-
----
-
-**[Daily Discussion, October 03, 2026](https://www.reddit.com/r/Bitcoin/comments/1wwgnrx/daily_discussion_october_03_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-1d ago
+22h ago
 
 ---
 
@@ -159,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 In Q3, crypto ETFs brought in $10.2 billion, with Bitcoin funds receiving $6.3 billion, but Solana funds grew fastest at 42%.
 
-247wallst.com • 15h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -167,23 +161,15 @@ In Q3, crypto ETFs brought in $10.2 billion, with Bitcoin funds receiving $6.3 b
 
 From The Quantum Issue: Brandon Black considers all of the issues that might prevent a viable quantum computer from ever being built.
 
-Bitcoin Magazine • 2d ago
+Bitcoin Magazine • 3d ago
 
 ---
 
-**[Tether Brings Its $184 Billion Stablecoin Back to Bitcoin: Will BTC Regain Its Role as a Payments Network?](https://finance.yahoo.com/markets/crypto/articles/tether-brings-184-billion-stablecoin-130029648.html)**
+**[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
 
-Tether is bringing its $184 billion stablecoin back to Bitcoin for the first time in over a decade, but the technology powering this comeback raises serious questions about whether Bitcoin holders and miners stand to gain anything at all.
+Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
 
-Yahoo Finance • 44m ago
-
----
-
-**[Ethereum ETFs Outpace Bitcoin ETFs in 2026 Inflows](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-outpace-bitcoin-etfs-105251031.html)**
-
-Ethereum ETFs pulled in more new money than Bitcoin ETFs so far in 2026, yet Bitcoin funds remain six times larger. Understanding why reveals a surprising gap that could take decades to close.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -191,21 +177,15 @@ Yahoo Finance • 2h ago
 
 When looking for best ideas for the fourth quarter nothing jumped off the charts to me — literally — like bitcoin.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
-**[Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906)**
+**[Bitcoin’s Weekly Chart Flips Bullish As 40-Week Trend Turns Higher — Analyst Says ‘Super Cycle’ Is Here](https://www.tradingview.com/news/stocktwits:78c8eccc5094b:0-bitcoin-s-weekly-chart-flips-bullish-as-40-week-trend-turns-higher-analyst-says-super-cycle-is-here/)**
 
-Investing.com • 48m ago
+Bitcoin (BTC) is bullish on the weekly chart, according to Wellington-Altus Chief Market Strategist James E. Thorne. He said two major moving averages have turned upwards. He referred to the setup as a “Super Cycle.”Bitcoin’s weekly chart is one of the best-looking setups in the market, Thorne said…
 
----
-
-**[Cathie Wood Says Bitcoin's ‘Turn Is In’ Against Gold As BTC Reclaims The Upper Hand](https://www.tradingview.com/news/stocktwits:3aacdea5c094b:0-cathie-wood-says-bitcoin-s-turn-is-in-against-gold-as-btc-reclaims-the-upper-hand/)**
-
-Bitcoin (BTC) has outpaced gold since August, and ARK Invest Chief Executive Officer (CEO) Cathie Wood said that the “turn is in” for the apex cryptocurrency against the metal.In the recent episode of In the Know published on Friday, Wood said, "We do think the turn is in here for Bitcoin." She cal…
-
-TradingView • 3h ago
+TradingView • 5h ago
 
 ---
 
@@ -215,17 +195,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[1 Unstoppable Cryptocurrency to Buy Before It Soars Over 250%, According to Wall Street Analysts](https://www.fool.com/investing/2026/10/03/1-unstoppable-cryptocurrency-to-buy-before-it-soar/)**
+**[Tether’s $190 billion USDT stablecoin is coming back to the Bitcoin network this month](https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade)**
 
-As investors look for ways to diversify, Bitcoin could soar to new highs.
+A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.
 
-The Motley Fool • 10h ago
+CoinDesk • 2d ago
 
 ---
 
 **[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
 
 Reuters • 3d ago
+
+---
+
+**[Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.](https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/)**
+
+Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues.
+
+The Motley Fool • 23h ago
+
+---
+
+**[Current price of Bitcoin for Oct. 2, 2026](https://fortune.com/article/price-of-bitcoin-10-02-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
 
 ---
 
@@ -247,7 +243,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 3d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
+⬆️ 3 • 💬 0 • 4d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -267,9 +263,11 @@ Best Bitcoin commercial I’ve recently seen
 
 ---
 
-**[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
+**[Show HN: The first ever competition of AI personal agents on the internet](https://news.ycombinator.com/item?id=49954394)**
 
-⬆️ 2 • 💬 0 • 6d ago
+In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.
+
+⬆️ 1 • 💬 0 • 3h ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
 
 ---
 
@@ -277,23 +275,23 @@ Best Bitcoin commercial I’ve recently seen
 
 ## YouTube Videos: "bitcoin"
 
-**[MAJOR PUMP COMING FOR BITCOIN &amp; ALTCOINS NEXT WEEK!? BNY BANK SECRET CRYPTO PLANS!](https://www.youtube.com/watch?v=3BoaEO6zPaE)**
+**[Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?](https://www.youtube.com/watch?v=US01akVg4es)**
 
-Crypto News: Bitcoin's chart looks bullish and a potential move to $92000 may come next week and altcoins will follow. BNY in ...
+No B.S. Just Charts. Bitcoin heads into a make-or-break week, and Gareth Soloway shows the exact bull flag level that decides ...
 
-📺 Thinking Crypto
+📺 Gareth Soloway
 
-👁️ 18K • 👍 711 • 💬 98 • ⏱️ 19:36 • 11h ago
+👁️ 6K • 👍 868 • 💬 65 • ⏱️ 15:03 • 1h ago
 
 ---
 
-**[It&#39;s Official: Bitcoin Has Won the Iran War!](https://www.youtube.com/watch?v=dnY5lD3njuc)**
+**[Ben Cowen: Bitcoin Just Changed the Entire Setup | with Kris Bullock](https://www.youtube.com/watch?v=S5DYK-fUwIE)**
 
-Bitcoin is outperforming through geopolitical chaos while the bond market flashes signs of serious stress. Trump is openly talking ...
+Kris Bullock sits down with Ben Cowen to reassess the Bitcoin market after a breakout that caught both of them by surprise.
 
-📺 Simply Bitcoin
+📺 Real Vision
 
-👁️ 30K • 👍 2K • 💬 84 • ⏱️ 16:08 • 16h ago
+👁️ 4K • 👍 278 • 💬 30 • ⏱️ 19:02 • 4h ago
 
 ---
 
@@ -303,17 +301,67 @@ Bitcoin could be heading toward a massive supply shock as Samson Mow predicts Mi
 
 📺 Bitcoin News Alerts
 
-👁️ 16K • 👍 388 • 💬 201 • ⏱️ 15:02 • 15h ago
+👁️ 18K • 👍 413 • 💬 225 • ⏱️ 15:02 • 20h ago
 
 ---
 
-**[Uptober Is Here! | Is Bitcoin’s Next Big Rally Just Getting Started?](https://www.youtube.com/watch?v=6Rj1NZcmVtE)**
+**[It&#39;s Official: Bitcoin Has Won the Iran War!](https://www.youtube.com/watch?v=dnY5lD3njuc)**
 
-Bitcoin just jumped from $83K to $86.5K as October kicked off, the month Bitcoiners call Uptober, historically the start of an ...
+Bitcoin is outperforming through geopolitical chaos while the bond market flashes signs of serious stress. Trump is openly talking ...
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 75 • ⏱️ 15:28 • 1d ago
+👁️ 35K • 👍 2K • 💬 96 • ⏱️ 16:08 • 20h ago
+
+---
+
+**[Bitcoin Is WAY Ahead Of The 4-Year Cycle. Go All In ?](https://www.youtube.com/watch?v=xQvMRh-0AEo)**
+
+Four years ago Bitcoin was down 70% from its all-time high. Today it's only down 32%. We are WAY ahead of schedule, and a lot ...
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 330 • 💬 22 • ⏱️ 46:36 • 3h ago
+
+---
+
+**[MAJOR PUMP COMING FOR BITCOIN &amp; ALTCOINS NEXT WEEK!? BNY BANK SECRET CRYPTO PLANS!](https://www.youtube.com/watch?v=3BoaEO6zPaE)**
+
+Crypto News: Bitcoin's chart looks bullish and a potential move to $92000 may come next week and altcoins will follow. BNY in ...
+
+📺 Thinking Crypto
+
+👁️ 22K • 👍 778 • 💬 107 • ⏱️ 19:36 • 15h ago
+
+---
+
+**[Why Bitcoin&#39;s First Supercycle Could Be Starting Right Now!](https://www.youtube.com/watch?v=BFcETjdIIHQ)**
+
+Bitcoin's first real supercycle may be starting as Uptober collides with a worsening global bond market crisis. With Treasury yields ...
+
+📺 Simply Bitcoin
+
+👁️ 45K • 👍 2K • 💬 87 • ⏱️ 15:10 • 2d ago
+
+---
+
+**[Bitcoin Crashed. 15 Major Investors Were Asked If They Sold. Not One Did](https://www.youtube.com/watch?v=ENKJY-1dnD0)**
+
+Bitcoin #Crypto #finance Hunter Horsley breaks down why institutional crypto adoption is becoming increasingly irreversible, with ...
+
+📺 The Wolf Of All Streets
+
+👁️ 10K • 👍 315 • 💬 93 • ⏱️ 48:50 • 5h ago
+
+---
+
+**[BITCOIN &amp; STOCKS...DO NOT MAKE THIS HUGE MISTAKE](https://www.youtube.com/watch?v=E2EKilKipp8)**
+
+My Private Group: (closed for now) My Trading Strategy Tutorial: Strategy tutorial : https://youtu.be/QltnRKhXi3A My Strategies ...
+
+📺 Satoshi Stacker
+
+👁️ 11K • 👍 341 • 💬 19 • ⏱️ 13:59 • 9h ago
 
 ---
 
@@ -323,57 +371,7 @@ Will the rally in bitcoin move to new highs in 2027? It seems most people are no
 
 📺 Alessio Rastani
 
-👁️ 48K • 👍 1K • 💬 254 • ⏱️ 16:20 • 1d ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=w1K45pdvCGI)**
-
-BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 375 • 💬 55 • ⏱️ 19:40 • 10h ago
-
----
-
-**[BITCOIN: THEY ARE LYING TO YOU! (shocking finding)](https://www.youtube.com/watch?v=O-DvmWrVuHY)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 9K • 👍 420 • 💬 52 • ⏱️ 4:35 • 9h ago
-
----
-
-**[Weekly Technical Analysis: Bitcoin Is Waking Up! BTC, Altcoins &amp; The Levels That Matter](https://www.youtube.com/watch?v=1jBa6ssMweo)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
-
-📺 Crypto Lifer
-
-👁️ 2K • 👍 88 • 💬 10 • ⏱️ 10:05 • 1d ago
-
----
-
-**[Bitcoin Has Never Done This Before… And It Won’t Start Now](https://www.youtube.com/watch?v=dFELTlUjZfI)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 339 • 💬 32 • ⏱️ 9:43 • 16h ago
-
----
-
-**[Bitcoin Uptober Rally Is Just Getting Started](https://www.youtube.com/watch?v=BgtIaTYOBLw)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 27K • 👍 852 • 💬 95 • ⏱️ 1:10:31 • 1d ago
+👁️ 51K • 👍 2K • 💬 260 • ⏱️ 16:20 • 1d ago
 
 ---
 

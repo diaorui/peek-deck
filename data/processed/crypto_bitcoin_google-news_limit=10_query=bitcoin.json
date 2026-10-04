@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Crypto ETFs Attract $10 Billion in Q3: Bitcoin Leads, But Solana\u2019s Growth Soars",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5",
       "pub_date": 1791066900.0,
@@ -25,24 +25,14 @@
       "description": "From The Quantum Issue: Brandon Black considers all of the issues that might prevent a viable quantum computer from ever being built."
     },
     {
-      "headline": "Tether Brings Its $184 Billion Stablecoin Back to Bitcoin: Will BTC Regain Its Role as a Payments Network?",
+      "headline": "Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1FUZm1aUnBibFczZ3FJUk5ybE8wSzgwY1pMSHlCZkNzbTJNM3dWSDFXendnNEp3Vm1oU0lMelg1WGRiWjNUWkVrVlhBSmpRS1duMWFlTHlLX0xNaDk0UXp2MWVjcVN0N1g2MjVVTzBOM28zaHdac280WGUyVEpIZWZMaWo3ckdfbDR5eTZlQ05oUTQ3NDBmbTNVajRUSHA2ZUpZ?oc=5",
-      "pub_date": 1791118829.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tether-brings-184-billion-stablecoin-130029648.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4e9b67856d0f2d36c76119524b1ea513536b3e31f4919f7a8cbf08ae3533a5b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9d07364e1def2d4b661550ed14112419.jpg",
-      "description": "Tether is bringing its $184 billion stablecoin back to Bitcoin for the first time in over a decade, but the technology powering this comeback raises serious questions about whether Bitcoin holders and miners stand to gain anything at all."
-    },
-    {
-      "headline": "Ethereum ETFs Outpace Bitcoin ETFs in 2026 Inflows",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVhPZEQ4NFNWdmhPYVBzVVpTazZHcU95cUtROGhZOVVuRXlLdFBDbEhrVXlscF9OaGJHZlFNcEcxNzhLM1FhQVQ2R1pDdU80OGljMDRnVXpTSFgwTTQ5dVdDZ2UtTVBwazlJeVBFWEFyak1RUElkUU5sMFpLRmJURk5hWGVuOWtjN1RtcmFQT1ZSMWcyYkNqSTBlZ09JcXpp?oc=5",
-      "pub_date": 1791111171.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-outpace-bitcoin-etfs-105251031.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/758474ee94e7a5c1918b3dd4013125c87dfef027a9c67353810be1ff2a61c470/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F77dc9c889839b72aff35371e6840160b.jpg",
-      "description": "Ethereum ETFs pulled in more new money than Bitcoin ETFs so far in 2026, yet Bitcoin funds remain six times larger. Understanding why reveals a surprising gap that could take decades to close."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFdFbnV0ZGp2cEZtaHhRenB5SzVaWklzQ2FqeU04b3NxMDB4MW1uQkhNSG83aEtCLTFEUWhxb0hHZ2hLSjZwRVdmU1U0cmUtUk82eEI5M3pJQV9rS2ZnRXlVTDRLX2pWZEM1VThhWXMzT3BtOHRQOWNjbDVYdzJQVFJiUWxDU3NfYjhxdkljaWEtdXVObWtkNTJ3?oc=5",
+      "pub_date": 1790991060.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f948f41b6cf6ac5c7cfa03fc0e45172fc8bb1475212b04316a1f99628e0746b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0dbcc436be3c2827b498b2f47ec3d832.jpg",
+      "description": "Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get."
     },
     {
       "headline": "Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter",
@@ -55,24 +45,14 @@
       "description": "When looking for best ideas for the fourth quarter nothing jumped off the charts to me \u2014 literally \u2014 like bitcoin."
     },
     {
-      "headline": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaDlCbmRqaTVkc2daeW9tX3JXYWZpUlJWYzIxQUl0Y3NaOXJEM1J6MjVhMncyZVFJOFdua3pFWnpKT3YxYTNFUFdIRC1NWW1DR3lBQ2hJMU9wZFd5LUc1Vi1CQVdkX0t2R0E1d21sX2pnckh4cEpFM3lIc3lpN09Va0pKWjRYQTh6Rk1FdHNDWDAzS005WXlUck94VVpmalRlbVcxZWVSVG5SY0R0T0RJR0w0SmgwVWVCQzZOcEY5aWg3WlFrOG1V?oc=5",
-      "pub_date": 1791118575.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Cathie Wood Says Bitcoin's \u2018Turn Is In\u2019 Against Gold As BTC Reclaims The Upper Hand",
+      "headline": "Bitcoin\u2019s Weekly Chart Flips Bullish As 40-Week Trend Turns Higher \u2014 Analyst Says \u2018Super Cycle\u2019 Is Here",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlItYjYwQ09CZDRpbzZ5TEZMbEJ5ckNEYXY4Rk5lR1djaHBtWlpZSUJaR2l2X25JMGlveGw4RUJjUmlFTEZkUUlXaDBESVNISnhrbnoza0RXazViQUlkazdDWm1zcTNfWFFWQmQxOS1XQUd0NVAxc2xPaTZoenYtNDVCdTRpVDZWdGUyeHZ5RFJseHd2NDdrdVpObTdaRDZFaXV0UzVXanJ3NHliSWtOQU41eEZFUVU0TjhhMVVrcnVmRXBpMnJuNG5hZFNOazBLRHExZ3hpbTlyQQ?oc=5",
-      "pub_date": 1791107353.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:3aacdea5c094b:0-cathie-wood-says-bitcoin-s-turn-is-in-against-gold-as-btc-reclaims-the-upper-hand/",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRmtEWGNvM01YU2YwOXN1U2NZSjdZdFV5R0RSc0ktVWxLbnpVeWcyRjFmREZvLWs0VTRQTnJFQ2pEejZheldrYUZxcnQtbXpwV0FRTGY4Z1Q4WUlkeGdxS2YtaWlOQXpEVEh0eURkWHhsY0JvQzJYeURGa2F1NHFmWFdKaVB4TmtZd1EyTm5KeVQ3SHdGM1lUeHl4SG1OZzVzbVhTMXV5TVAzY1I5MDZYZjBnZWpLQUU2cUZLRWlRNXY4RWI0djBLb1RpNXhNaGJlN0lPZEFiNktGV3NiT3VQb0JRMmtKRzdUZGJRNV9kcU9ydw?oc=5",
+      "pub_date": 1791118227.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:78c8eccc5094b:0-bitcoin-s-weekly-chart-flips-bullish-as-40-week-trend-turns-higher-analyst-says-super-cycle-is-here/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) has outpaced gold since August, and ARK Invest Chief Executive Officer (CEO) Cathie Wood said that the \u201cturn is in\u201d for the apex cryptocurrency against the metal.In the\u00a0recent episode of In the Know published on Friday, Wood said, \"We do think the turn is in here for Bitcoin.\" She cal\u2026"
+      "description": "Bitcoin (BTC) is bullish on the weekly chart, according to Wellington-Altus Chief Market Strategist James E. Thorne. He said two major moving averages have turned upwards. He referred to the setup as a \u201cSuper Cycle.\u201dBitcoin\u2019s weekly chart is one of the best-looking setups in the market, Thorne said\u2026"
     },
     {
       "headline": "Bitcoin on Pace for Third Straight Weekly Gain on ETF Demand",
@@ -85,14 +65,14 @@
       "description": null
     },
     {
-      "headline": "1 Unstoppable Cryptocurrency to Buy Before It Soars Over 250%, According to Wall Street Analysts",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUpiSEM5LXl1dXdKeEhaMXA4WUhjQXplcW4tQVlVLUYtNXhINWo1eGI5MWNwemtjZ2hnTExqeHRKbnVlN0pzSWZ1YXdNc3c2Z0tsVWwyVVhiZk40eFcxTENpR3ZWdVRzVTBPdWlkbzNkel9BamNyOHJhTHVpNlZQY1JrYW9LMFp1MUhGbjNtQ05vaVJReWw0eA?oc=5",
-      "pub_date": 1791082800.0,
-      "article_url": "https://www.fool.com/investing/2026/10/03/1-unstoppable-cryptocurrency-to-buy-before-it-soar/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879564%2Fsmiling-man-looks-at-tablet.jpg&w=1200&op=resize",
-      "description": "As investors look for ways to diversify, Bitcoin could soar to new highs."
+      "headline": "Tether\u2019s $190 billion USDT stablecoin is coming back to the Bitcoin network this month",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmtNSGxsZWtWTHV4UG5wUTlEb05KN0JrMVhsbVEtcjhTMF9MbFUxLVRIa0I0akxDbTJEUFhpX3ZTSDFXV2pQV2xhUEVzWVM0a0V0STlLZUVqYmNTTF9HcGZEMGozMUo4dlhMcUp5NlYtTnhaemZoM0JJd1Eyd19odU1mTGZxak15OGUyQ0V2Y2h3NjNoMFl2djBORmpZd2U1UW0wcGJDVEluUHdjM2FXVlEzbGdPbVE?oc=5",
+      "pub_date": 1790929699.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e07c69590f7f7f2e9e623b9982bee1c60be69440-1636x1122.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin\u2019s public ledger."
     },
     {
       "headline": "Citi raises bitcoin, ether forecasts on strong crypto activity",
@@ -103,8 +83,28 @@
       "article_url": "https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkhLTzdHczFHQUd3Sk5ZS2dVdW9CQkMzeWo0T3BiUlJLSU9fb1R0WHBMaWNhcFN6cWNFZWJEYUlSbFdDZmNNejdPQnVoQTZzM05KcVF6ZHBDWHFCMDFwVTRkU19uMzBqWEZZVzNzMk0yaU1qRFlQSzV5UG8xeEJVbm9SbkVWTWFYRFFwS1A5SmM1czgzUXBR?oc=5",
+      "pub_date": 1791052980.0,
+      "article_url": "https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887780%2Fgolden-bitcoin-coin-representing-the-electronic-currency-getty-images.jpg&w=1200&op=resize",
+      "description": "Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues."
+    },
+    {
+      "headline": "Current price of Bitcoin for Oct. 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYks3Z0VUVnMwUl95d1ZLQUdSR3ZKelg3NlZtQ0pMMlJSN3VvSnc5MzhXQTJPTWd6Y1BEeTkyME1tTWVja3lfQ0NhZk5jcXVlYmtTSFR1ZlNWSE53QjlQX21vX0dSQlk?oc=5",
+      "pub_date": 1790947800.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Oct-2.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T13:44:59.332235+00:00"
+  "fetched_at": "2026-10-04T18:00:14.135981+00:00"
 }
