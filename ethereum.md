@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-04T13:45:01.172596+00:00'
+updated: '2026-10-04T18:00:21.303746+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 04, 2026 at 13:45 UTC  
+**Last Updated:** October 04, 2026 at 18:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,696.85
+### $2,703.10
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.6%  
-**7d:** +0.3%  
-**30d:** +8.8%  
-**90d:** +52.4%  
-**1y:** -40.2%  
+**7d:** +0.4%  
+**30d:** +9.0%  
+**90d:** +52.6%  
+**1y:** -40.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $329.43B
+**Market Cap:** $329.91B
 Rank #2
 
 **Circulating Supply:** 122,104,582 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.5%
+-45.4%
 
 **All-Time Low:** $0.43
-+622990.3%
++623974.1%
 
 ---
 
@@ -110,7 +110,7 @@ Glamsterdam upgrade on Sepolia testnet October 6, Vitalik: the cryptographic wor
 
 In which I explain how to solve identity in peer-to-peer data systems by (minimally) using Ethereum.
 
-🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 1d ago
+🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 2d ago
 
 ---
 
@@ -118,7 +118,7 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 I’ve really only studied bitcoin and not other crypto such as eth and want to learn more about its functions and just crypto as a whole. I’m still studying and researching and know the differences in basic functions but want to know more about what makes Ethereum different besides the PoW and PoS
 
-1d ago
+2d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 a global government I would support system based on existing technological solutions. the expulsion of incompetence, lies and manipulation to choose our own destiny. voting is done over the phone. each person 1 vote. biometric fingerprint. decentralized. using advanced cryptography. transparency. for global issues we all vote if we want, all locals vote for local ones. formation of global expert councils. their role is to provide an analysis and evaluation of the proposal. members are chosen exclusively on the basis of expertise and competence in given professions. basic 4 branches: Society Ethical-legal group Psychological-sociological group Cultural and educational group Resources Ecological-climatic group Economic and resource group Logistic-operational group Technology Technical and engineering group Digital-cybernetic group Science Logical-mathematical group Medical-biological group the council's role is to adopt, give, and formulate clear and transparent proposals for solving problems or situations every decision they make is transparent. with minutes for the archive. presenting a problem or proposing a solution is available to all residents. cognitive ability test before submitting a proposal each proposal must pass the acceptance threshold. ethical, logical, mathematical. technical let's say we have 10 valid suggestions for a solution.. the global advice gives a score of 1 or 0 each of those 10 groups. the ethics council gives the final assessment in the event that several proposals have the same number of positives. the proposal with the most positives goes to a global referendum every voter, i.e. individual or group, has the right of veto. they are obliged to present a valid counter-argument in the shortest possible time. any veto attempt that is driven by ego vanity or the desire for power is automatically rejected. algorithmic assessment. open source. mandatory system calibration, ethical, logical, mathematical. plus a decentralized network of jurors chosen on the basis of expertise. randomly selected. a valid argument is voted against the proposal of the council. in case of adoption of the argument, the proposal is rejected. if the vote is 50-50%, both sides have 24 hours to present new insights the vote is repeated. voting is optional. the possibility of voting is. it is not a problem for me that people wiser than me decide about our fate and social vector. as long as they ask all of us, because ultimately it concerns all of us I support expertise and objectivity as well as the diversity of the local community.
 
-3d ago
+4d ago
 
 ---
 
@@ -166,22 +166,6 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch](https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/)**
-
-Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
-
-dmarketforces.com • 15h ago
-
----
-
-**[Crypto job postings triple to over 1,200 in September, but applications fall](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)**
-
-Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.
-
-coindesk.com • 21h ago
-
----
-
 **[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
 
 Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
@@ -190,19 +174,27 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Crypto job postings triple to over 1,200 in September, but applications fall](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)**
+
+Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch](https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/)**
+
+Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
+
+MarketForces Africa • 20h ago
+
+---
+
 **[BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs](https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-s-ibit-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/)**
 
 BlackRock’s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT’s 50-day simple moving average…
 
-TradingView • 20h ago
-
----
-
-**[Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?](https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/)**
-
-One digital asset treasury company is very bullish about Ethereum right now.
-
-The Motley Fool • 5h ago
+TradingView • 1d ago
 
 ---
 
@@ -210,7 +202,15 @@ The Motley Fool • 5h ago
 
 Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
 
-Benzinga • 1d ago
+benzinga.com • 2d ago
+
+---
+
+**[Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?](https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/)**
+
+One digital asset treasury company is very bullish about Ethereum right now.
+
+The Motley Fool • 8h ago
 
 ---
 
@@ -226,7 +226,7 @@ The Hacker News • 3d ago
 
 Ethereum monthly chart repeats rounded base structure for third time, lifting off Step III support near $2697 with bullish 4h EMA confluence intact.
 
-blockchain.news • 9h ago
+blockchain.news • 13h ago
 
 ---
 
@@ -240,17 +240,17 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 2K • 👍 247 • 💬 19 • ⏱️ 11:28 • 1h ago
+👁️ 18K • 👍 585 • 💬 56 • ⏱️ 11:28 • 5h ago
 
 ---
 
-**[Tom Lee :&quot;Big Week for ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=dzsZT_6nuac)**
+**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 112 • 💬 17 • ⏱️ 20:02 • 9h ago
+👁️ 476 • 👍 57 • 💬 4 • ⏱️ 19:33 • 1h ago
 
 ---
 
@@ -260,17 +260,37 @@ Well, we made it. Its supposed to officially start in the next few days, and its
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 519 • 💬 49 • ⏱️ 31:57 • 3h ago
+👁️ 11K • 👍 786 • 💬 190 • ⏱️ 31:57 • 8h ago
 
 ---
 
-**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
+**[Tom Lee :&quot;Big Week for ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=dzsZT_6nuac)**
 
-Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Paul Barron Network
+📺 Crypto Nutshell
 
-👁️ 117K • 👍 2K • 💬 224 • ⏱️ 12:18 • 2d ago
+👁️ 11K • 👍 137 • 💬 21 • ⏱️ 20:02 • 13h ago
+
+---
+
+**[ETH Ethereum 10K-22K Price Prediction](https://www.youtube.com/watch?v=kacG1elqBNA)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 169 • 👍 15 • 💬 5 • ⏱️ 19:25 • 2h ago
+
+---
+
+**[BITCOIN 🚨BIGGEST SIGNAL IN HISTORY!!!! [ethereum]](https://www.youtube.com/watch?v=rDPrwozhyvw)**
+
+Bitcoin just smashed through $80K, one of the last bull-market indicators just flipped bullish, and altcoins are flashing something ...
+
+📺 Crypto Love
+
+👁️ 366 • 👍 68 • 💬 29 • ⏱️ 7:14 • 59m ago
 
 ---
 
@@ -280,7 +300,17 @@ BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 12K • 👍 375 • 💬 55 • ⏱️ 19:40 • 10h ago
+👁️ 15K • 👍 427 • 💬 79 • ⏱️ 19:40 • 15h ago
+
+---
+
+**[Uptober Begins?🚀Tom Lee Calls For $50k ETH Potential 🔥](https://www.youtube.com/watch?v=LG35gk-PH2o)**
+
+Tom Lee says the bull run is officially on and Uptober is here, with a path to $50K ETH this cycle. We break down his ETH 10x call, ...
+
+📺 Paul Barron Network
+
+👁️ 119K • 👍 2K • 💬 225 • ⏱️ 12:18 • 2d ago
 
 ---
 
@@ -290,7 +320,7 @@ Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target 
 
 📺 More Crypto Online
 
-👁️ 10K • 👍 207 • 💬 13 • ⏱️ 9:53 • 1d ago
+👁️ 11K • 👍 211 • 💬 13 • ⏱️ 9:53 • 1d ago
 
 ---
 
@@ -300,35 +330,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 11K • 👍 270 • 💬 167 • ⏱️ 21:51 • 1d ago
-
----
-
-**[XRP AND ETH SENTIMENT CRASHES! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=9p2Y9LFqzJg)**
-
-📺 CryptoWendyO
-
-👁️ 11K • 👍 461 • 💬 9 • ⏱️ 1:58 • 1d ago
-
----
-
-**[🔥 Ethereum Is Waking Up - ETH Crypto Analysis](https://www.youtube.com/watch?v=pfdpDbYgAnM)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/TrwlgKbB Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 9K • 👍 120 • 💬 17 • ⏱️ 10:17 • 2d ago
-
----
-
-**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
-
-BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
-
-📺 McNallie Money
-
-👁️ 2K • 👍 101 • 💬 8 • ⏱️ 18:53 • 2d ago
+👁️ 11K • 👍 282 • 💬 169 • ⏱️ 21:51 • 1d ago
 
 ---
 
