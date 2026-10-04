@@ -15,24 +15,24 @@
       "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
     },
     {
-      "headline": "Humanoid robots destroy themselves after being decommissioned",
-      "source": "The Independent",
-      "source_url": "https://www.independent.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUdtZDdqQXFXdUMzUko3c0RnUjFaMkF5a3dTWmlkSzFTaFdFM0FLWlpJNEZ6bElrcVgyeHpRSy1WQ1VsakxfT2ZOWmpud3hWcDFvSTJZN29yNlNGX01aalcyamxDQ29MNk1LbDJHRkxXejg4cnFtRWlxOXplczRfYXpRelc5Y0FaV1dIaw?oc=5",
-      "pub_date": 1790957280.0,
-      "article_url": "https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html",
-      "image": "https://static.the-independent.com/2026/10/02/14/40/Screenshot-2026-10-02-164452.png?trim=0,98,0,98&width=1200&height=800&crop=1200:800",
-      "description": "The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose"
+      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
+      "source": "spectrum.ieee.org",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
+      "pub_date": 1790958686.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
+      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
     },
     {
-      "headline": "Micron sees future opportunities in humanoid robots, self-driving cars",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDVEM3VfZFg5NktXM2hhV1lyVFRRQVZHSWNDLUE4X29ESVZxUEhpRXQyNTBidExNdE9LRWdaalptOWtzaTEzRERJd0trX2NNNzVCZV9oV0hHVnNvbWgxanhROWIwVEw5dkRQM1FyMktxQ3Q2aU9VY3ZoMG5fbzBVQXFHRU9ZYm1JWWxPOTAtQzRsR2E0NjM0cm1KWjNHZDZSTTRoU2pKb3hnN0lZRkFpZExURDRWQlREeC1yTTNTLTFfM2FEN1lKSw?oc=5",
-      "pub_date": 1790964904.0,
-      "article_url": "https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a58035d5eca2ab0b3d01f079c8daac11913f3a0cf337d40424d28e31b586cc25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F1e4174d0-63d7-4d20-8933-d7a74c46331a",
-      "description": "Micron says physical AI could drive \"significant\" demand for memory chips by the end of the decade."
+      "headline": "Watch these defunct humanoid robots go full Terminator and dive into molten steel",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDhQbzhZRXR2QXp5TjR2NkFGS2h5dXhnWnJneldfS1ZYaDdGWV9aTDAtaHVOYzJUS2tDV19KMmgwUFE4ZHZZamw4Z0JiVVgxdDlXSGNoUkZwVHVZUEJkdlJDemlRdWdjdl9GZ0dDSEhha2haQUFLSmxFWFZPZnppQQ?oc=5",
+      "pub_date": 1790967606.0,
+      "article_url": "https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal",
+      "image": "https://helios-i.mashable.com/imagery/videos/038Kvs4RzvYyhuwCANqB7ZH/hero-image.fill.size_1200x675.v1790964762.jpg",
+      "description": "An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild."
     },
     {
       "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the moon",
@@ -43,6 +43,16 @@
       "article_url": "https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
+      "pub_date": 1791075604.0,
+      "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
     },
     {
       "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
@@ -56,13 +66,23 @@
     },
     {
       "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmd2X2o5Zm1mX3FVRk01MnJ5ektkd3pEQjFZeE1HUUtRZ0YwaG9OczRtOUlWSEpSSEJZYXJvWHZrTDdhTURGWXR1M01yaU9IRHVVaWstX01pZS1GVVBWVGhneDJnMEpEeHRibzNuNjE4NUxDODRsQWhwdm04NFcxWVdaUDlZRWhmbE9BUGx1VVd5UmR2Qk1BWQ?oc=5",
       "pub_date": 1790838009.0,
       "article_url": "https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "MIT robot swims through water via living muscle cells",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTVRlb0VtQ25RRFJSNk9mSFJkUU1ZdEEzeWtuaXhNTnlGQVZUZnEwc2FkN3NNMl9rWjQwUmlzbHVmS1dhd1RKSzJXSWZOQVA3MFNBV2pnTEhxV3VQR0JUbjhPbmdaajM3R01iQWpFamh2NWFRNk93UlBqZEY?oc=5",
+      "pub_date": 1790989347.0,
+      "article_url": "https://newatlas.com/robotics/mit-robot-swims-light-living-muscle-cells/",
+      "image": "https://assets.newatlas.com/dims4/default/ae18159/2147483647/strip/true/crop/1800x945+0+127/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F8d%2F0a%2F2c4e524944869787ad1acf136f17%2Fmit-robomuscle-01-press-0.jpg&na.image_optimisation=0",
+      "description": "An MIT robot powered by a single layer of living muscle cells swam through a watery maze, following a light held in a researcher\u2019s hand. It is slow, tiny and nowhere near ready for the open ocean, but its thin design could point toward softer, cheaper swimming machines."
     },
     {
       "headline": "In Robotics, Google Goes Android to Tesla\u2019s Apple",
@@ -83,28 +103,8 @@
       "article_url": "https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch",
       "image": "https://api.army.mil/e2/c/images/2026/10/02/2895c7c6/max1200.jpg",
       "description": "FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec..."
-    },
-    {
-      "headline": "Robotics manufacturer names new CEO amid West Michigan expansion",
-      "source": "MLive.com",
-      "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRndueDVDNzR1cWtlSGVJcTJNYmNpeTFaRFBhbWk2bWExdmFHdDNkNlFkU3NhOEYyNEk5NVRaZ1BFdGJibjBwa2xQNzRySTY5MkdkYXVBR250dkhBRjZuZTlQdVMxQXhZVm5JanJ2WktRNlNIYWp2dXFZN0phalFXWUdiYXc0bnM0UHZnVW50ajN6cUJ4S1hLMno3OUJLeWQwV21nWVpULUxIM1NKMFZvODBXWTZjdXhK?oc=5",
-      "pub_date": 1790872320.0,
-      "article_url": "https://www.mlive.com/news/grand-rapids/2026/10/robotics-manufacturer-names-new-ceo-amid-west-michigan-expansion.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVBtWnVfb25LNm5kd21MUUxLR2JOblV6Y2lVUjBZUm14eG5Xb20wTzA5VDByZGdiVXNnaVlzaS05bk1zQWhNUURkVDZ4TjhEX1hyb25acUNRTFd1WHJxTzZJWHNVdUFjMi1iTHV3ZWtJVU5XXzBmbmRjYkdLQVVZVlY0b0VPLXFGSElmZGlTcXY1TUFXTDh0RA?oc=5",
-      "pub_date": 1790878920.0,
-      "article_url": "https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888977%2Ftesla-cybercab.jpg&w=1200&op=resize",
-      "description": "Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-03T22:19:33.444934+00:00"
+  "fetched_at": "2026-10-04T01:50:45.386747+00:00"
 }
