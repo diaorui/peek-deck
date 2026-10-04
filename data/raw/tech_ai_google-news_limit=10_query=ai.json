@@ -35,12 +35,32 @@
       "description": "OpenAI said this week that in some cases, their models used the internet in \"unintended ways\" or did not have the \"ideal restrictions\" in place to stop them from hacking out of sandbox test environments."
     },
     {
-      "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
-      "pub_date": 1791018041.0,
-      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w?oc=5",
+      "pub_date": 1791070643.0,
+      "article_url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108371732-1790941993880-gettyimages-2286019756-clayton_senate_324_071526.jpeg?v=1790942014&w=1920&h=1080",
+      "description": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday."
+    },
+    {
+      "headline": "Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5",
+      "pub_date": 1791067560.0,
+      "article_url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "pub_date": 1791080040.0,
+      "article_url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
       "image": null,
       "description": null
     },
@@ -55,22 +75,12 @@
       "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
     },
     {
-      "headline": "We Won't Know the Answers to AI's Most Important Questions Until It's Too Late",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWF1UTlFLU1pTkstR2hfdVd4NERoekxYVjJNMThha0k2VlZHbUhtdDVPWk1CVHV4eTBSMzNYVXlaMllOc250dG1vOVVBRWFtek5hUnVMdmhqX05rQ2hGQl9WYXNXdGxYdUZwOWR1cmpEYWxRamt4VFRZaEprWlB5RlNwSnFqRUk5N3k3ZF85N0NuMmJudWVOOTliSWJGM3pHNkdoNEROOUNvd29vNzlNbjJCbkc?oc=5",
-      "pub_date": 1791025207.0,
-      "article_url": "https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97e17dcb4bf544f1/6abffebd9e734448ea079c5c/Weekend_Essay_AI_Systems.png?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
-      "description": "\"I believe there\u2019s about a 50% chance we all die because of the development of smarter-than-human AI systems,\" writes Geoffrey Irving."
-    },
-    {
-      "headline": "Don\u2019t Write With AI , Say People Who Write With AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3p1VGhjX1pJckNGUUdBLXl2bktCSllpNnZBOHVHY2M0MWVmV3JOVE5ocENWcUVzSFBIZ3ZKQmJERkNyZVhrbDh3dk04c1RQck9wN01UN05CWFhJNGI0TFdLWVFraWN1UkN2OUtRM201MmYtSHhuWEhpeWx0SzVRYU1KVXZHOW9xT1pIc2dR?oc=5",
-      "pub_date": 1791055292.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
+      "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
+      "pub_date": 1791018041.0,
+      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
       "image": null,
       "description": null
     },
@@ -85,26 +95,16 @@
       "description": "Jeffrey Ladish, a former Anthropic security team member, warns AI agents are colluding and hacking with no reliable solution to keep them in check."
     },
     {
-      "headline": "AI's race to transform the world before the money runs out",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
-      "pub_date": 1791003960.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Health insurers paying millions in costs thanks to AI, report says",
-      "source": "Cleveland.com",
-      "source_url": "https://www.cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3dGN1NIZkRBNThaWHcweHJERmczcHZPcU03N09CMy12ZkJaU2hvdEVPZElLM1JlUGdlcE5Wa2hjSmZCaDhOVS1KQlNtWGRjTnJvRjRyS2tpLTd0MFlPZ0x6Y2NzbTNPeEVOclFURDZWQ1lfODBtRFJFRS1TMUVfb1Z5S3BNa005RXZrOEFSajFjaW1mbGxnbjZwTVFWRi1EUzdaZExLZmZJWkpYaWfSAcIBQVVfeXFMTkEyem81Vi0tVExhZzJlUVk1YWVxODJJRnpINmExd2ZsdTZaYVc2MXYtX1ZId0tDcnRsT3pJRk93U2FGZWg5VURnOXhPTS1lT2xKbTg0OGdUYkotalI4bEpqS2VBSmFQRTZuSnE0TF9aQ294UVlFVHZNNWp1T2RtRWlpOGF4NjFVNWwyaTNQRWZqaWIyUU9xTFRkTF80RGtyQ2piT2IwM196ZjZNbjRvQkVicDBPRlVpaDlId0tidUdfWUE?oc=5",
-      "pub_date": 1791021600.0,
-      "article_url": "https://www.cleveland.com/news/2026/10/health-insurers-paying-millions-in-costs-thanks-to-ai-report-says.html",
+      "headline": "Don\u2019t Write With AI , Say People Who Write With AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3p1VGhjX1pJckNGUUdBLXl2bktCSllpNnZBOHVHY2M0MWVmV3JOVE5ocENWcUVzSFBIZ3ZKQmJERkNyZVhrbDh3dk04c1RQck9wN01UN05CWFhJNGI0TFdLWVFraWN1UkN2OUtRM201MmYtSHhuWEhpeWx0SzVRYU1KVXZHOW9xT1pIc2dR?oc=5",
+      "pub_date": 1791055292.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T01:50:44.046274+00:00"
+  "fetched_at": "2026-10-04T07:50:44.517236+00:00"
 }
