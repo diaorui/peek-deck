@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
+      "pub_date": 1790955540.0,
+      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
+      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
+    },
+    {
       "headline": "Watch these defunct humanoid robots go full Terminator and dive into molten steel",
       "source": "Mashable",
       "source_url": "https://mashable.com",
@@ -15,34 +25,24 @@
       "description": "An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild."
     },
     {
-      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
-      "source": "businessinsider.com",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
-      "pub_date": 1790955540.0,
-      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
-      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
+      "headline": "Humanoid robots destroy themselves after being decommissioned",
+      "source": "The Independent",
+      "source_url": "https://www.independent.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUdtZDdqQXFXdUMzUko3c0RnUjFaMkF5a3dTWmlkSzFTaFdFM0FLWlpJNEZ6bElrcVgyeHpRSy1WQ1VsakxfT2ZOWmpud3hWcDFvSTJZN29yNlNGX01aalcyamxDQ29MNk1LbDJHRkxXejg4cnFtRWlxOXplczRfYXpRelc5Y0FaV1dIaw?oc=5",
+      "pub_date": 1790957280.0,
+      "article_url": "https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html",
+      "image": "https://static.the-independent.com/2026/10/02/14/40/Screenshot-2026-10-02-164452.png?trim=0,98,0,98&width=1200&height=800&crop=1200:800",
+      "description": "The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose"
     },
     {
-      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
-      "pub_date": 1791106271.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
-      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
-    },
-    {
-      "headline": "How robotics and physical AI can responsibly tackle key physical security challenges",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR00wR01SRVJCWDhiZG40MlRFdld5dXY2cV9SNkRQRTlZbG9YbGpkMFVXZ25BNE5rN3RwdnBLUlNjNDNScjB6bGI4MFo0cUxMVlAzSDJGYVppRjFibUpEVjNGeU1CYlF4c2pTSlYwZnNkNFlqaExmN2ZEdF91Ym9tM0ljYnVHRGM3UVg4MS1nWUlEM3dTcTk0d1hEaVh3c2xCbnMxNnQ3REVBM0Y1MTQ3dVRB?oc=5",
-      "pub_date": 1791118910.0,
-      "article_url": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/krisna-azie-G2U1TMFELZA-unsplash-scaled.jpg",
-      "description": "Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist."
+      "headline": "The little humanoid robots that could (BOTZ:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN1JTNDJPWHg4bkJTVk1aNnV2TG9NT1ZvcE9YeHBOOXY4dDlDMzlMN2VkSEJYVjZJd3l4Vl9fcmxtREc3R2JaUmJzQlFaLVdqWVFiakEtMF9lZk5BX09SbFhoMlZxUUkzbEp2cFRLMXpJWUNCc0VJREZtdHJnZjRZWA?oc=5",
+      "pub_date": 1791025247.0,
+      "article_url": "https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241360431/image_2241360431.jpg?io=getty-c-w630",
+      "description": "Humanoid robot investing thesis shift: most \u201cshipments\u201d are half-size Chinese robots, not full-size labor bots."
     },
     {
       "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
@@ -65,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmd2X2o5Zm1mX3FVRk01MnJ5ektkd3pEQjFZeE1HUUtRZ0YwaG9OczRtOUlWSEpSSEJZYXJvWHZrTDdhTURGWXR1M01yaU9IRHVVaWstX01pZS1GVVBWVGhneDJnMEpEeHRibzNuNjE4NUxDODRsQWhwdm04NFcxWVdaUDlZRWhmbE9BUGx1VVd5UmR2Qk1BWQ?oc=5",
-      "pub_date": 1790838009.0,
-      "article_url": "https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
       "source": "DefenseScoop",
       "source_url": "https://defensescoop.com",
@@ -85,14 +75,24 @@
       "description": "Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology."
     },
     {
-      "headline": "Rubber ducks and screwdrivers put dexterous new soft robotic gripper to the test",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlpsYUVMcnVobHQ3VDVBbk5YeklBU0xneUwteTRQTFdmaXRnbkJzN0hPd1BsRll3TzVTU3FCLXdoNHFuVjVjTzkyNlVtSHBKdGNtWEp3Qk02WVh4MFVrck1NSVN5N3dUbTdNOGhxM05nVU44cjhIRkwwRE9sbkFkU1JtOUJkMDQ0?oc=5",
-      "pub_date": 1791049244.0,
-      "article_url": "https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html",
+      "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmd2X2o5Zm1mX3FVRk01MnJ5ektkd3pEQjFZeE1HUUtRZ0YwaG9OczRtOUlWSEpSSEJZYXJvWHZrTDdhTURGWXR1M01yaU9IRHVVaWstX01pZS1GVVBWVGhneDJnMEpEeHRibzNuNjE4NUxDODRsQWhwdm04NFcxWVdaUDlZRWhmbE9BUGx1VVd5UmR2Qk1BWQ?oc=5",
+      "pub_date": 1790838009.0,
+      "article_url": "https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Queen's University students blast off to US for Nasa robotics competition",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83SWhsMXVMZFNZMVVxSlNPZWdkdUFfNjZuZVlEcnhqV0szSDB3UDQ3bXp1aGhNeERoRjJISlJkbWZIU1IzV1pLQl9ndlY1MFRnTGJpa280Q052eXc?oc=5",
+      "pub_date": 1791091170.0,
+      "article_url": "https://www.bbc.com/news/articles/cq20v0e7vjkgo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d4e8/live/503f7010-be4d-11f1-babe-4199b0e7ccea.jpg",
+      "description": "The students will head to Florida to compete against university teams from Australia, India and the US."
     },
     {
       "headline": "Anthropic study suggests blue-collar workers have decades before robots take their jobs",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T13:44:59.503011+00:00"
+  "fetched_at": "2026-10-04T18:00:19.553278+00:00"
 }

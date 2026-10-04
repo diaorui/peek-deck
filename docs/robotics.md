@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-04T13:45:01.175864+00:00'
+updated: '2026-10-04T18:00:21.306980+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 04, 2026 at 13:45 UTC  
+**Last Updated:** October 04, 2026 at 18:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=4whgw2gLBS8) • 2d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=4whgw2gLBS8) • 3d ago
 
 ---
 
@@ -60,7 +60,7 @@ As i see there are different ways to train an AI model through machine learning/
 
 I was reading recent news from Neura robotics and they have robots that are aimed at healthcare support, for things like moving beds, equipment, and other menial tasks to support healthcare teams. I would imagine within the next decade at some point, robots might even be used for support in surgeries and medical procedures. What do you guys think? There’s an argument to be made that robots could help reduce workloads on healthcare professionals even if all they do is grunt work. There’s gonna be a market for this that I’m sure of, but imo this would need a level of trust above what is needed for industrial deployment. General purpose use in hospitals would likely see adoption in a couple years at most is my guess, but high level adoption is still quite far away. Honestly I feel healthcare would be one profession where robots can do good and would not replace human staff, just because there’s a whole interpersonal aspect of healthcare which can only be fulfilled by human staff.
 
-2d ago
+3d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've bee
 
 What is the difference between building in functional safety early on vs waiting until the end? How do safety partnerships help the industry? https://www.linkedin.com/posts/synapticon-co_humanoids-functionalsafety-robotics-activity-7511379498718625792-oPLl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMG_WMB6npmHVKREPOjVhxKwxVIs9Q1bZ0
 
-2d ago
+3d ago
 
 ---
 
@@ -90,7 +90,7 @@ What is the difference between building in functional safety early on vs waiting
 
 Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 219-mile section of I-45 in Texas. Commercial driverless service is planned for the end of 2026; current preparation runs still have a safety observer aboard. Over four years, Kodiak says it has carried more than 1,300 IKEA loads and logged over 750,000 autonomous miles with an observer. That work has included coordinating delivery timing with dock availability and using vehicle data to plan maintenance.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run) • 2d ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run) • 3d ago
 
 ---
 
@@ -98,7 +98,7 @@ Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 2
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 3d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 4d ago
 
 ---
 
@@ -112,6 +112,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
+**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
+
+The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+
+Business Insider • 2d ago
+
+---
+
 **[Watch these defunct humanoid robots go full Terminator and dive into molten steel](https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal)**
 
 An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
@@ -120,27 +128,19 @@ Mashable • 1d ago
 
 ---
 
-**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
+**[Humanoid robots destroy themselves after being decommissioned](https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html)**
 
-The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose
 
-businessinsider.com • 1d ago
-
----
-
-**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
-
-Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
-
-IEEE Spectrum • 4h ago
+The Independent • 2d ago
 
 ---
 
-**[How robotics and physical AI can responsibly tackle key physical security challenges](https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/)**
+**[The little humanoid robots that could (BOTZ:NASDAQ)](https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could)**
 
-Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist.
+Humanoid robot investing thesis shift: most “shipments” are half-size Chinese robots, not full-size labor bots.
 
-The Robot Report • 43m ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -148,19 +148,13 @@ The Robot Report • 43m ago
 
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-Financial Times • 12h ago
+Financial Times • 16h ago
 
 ---
 
 **[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
 
 The Hill • 1d ago
-
----
-
-**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
-
-The New York Times • 3d ago
 
 ---
 
@@ -172,9 +166,17 @@ DefenseScoop • 1d ago
 
 ---
 
-**[Rubber ducks and screwdrivers put dexterous new soft robotic gripper to the test](https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html)**
+**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
 
-Tech Xplore • 20h ago
+The New York Times • 3d ago
+
+---
+
+**[Queen's University students blast off to US for Nasa robotics competition](https://www.bbc.com/news/articles/cq20v0e7vjkgo)**
+
+The students will head to Florida to compete against university teams from Australia, India and the US.
+
+BBC • 12h ago
 
 ---
 
@@ -196,87 +198,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 2K • 👍 58 • 💬 5 • ⏱️ 1:00 • 1h ago
-
----
-
-**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
-
-Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
-
-📺 Canada 2050
-
-👁️ 35K • 👍 854 • 💬 27 • ⏱️ 18:22 • 3d ago
-
----
-
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
-
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
-
-📺 ejunky66
-
-👁️ 809K • 👍 13K • 💬 611 • ⏱️ 1:00 • 2d ago
-
----
-
-**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
-
-Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
-
-📺 The Geo Network
-
-👁️ 184K • 👍 2K • 💬 132 • ⏱️ 20:27 • 4d ago
-
----
-
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
-
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
-
-📺 Boston Dynamics
-
-👁️ 743K • 👍 8K • 💬 1K • ⏱️ 5:49 • 4d ago
-
----
-
-**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
-
-A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
-
-📺 ABC7 News Bay Area
-
-👁️ 6K • 👍 20 • 💬 12 • ⏱️ 1:02 • 4d ago
-
----
-
-**[Can This Humanoid Robot Solve the Elder Care Crisis?](https://www.youtube.com/watch?v=lIjQlZ_GxKo)**
-
-The US spends roughly $400 billion a year on long-term care, and for every 100 people over 65, only four formal caregivers exist.
-
-📺 Bloomberg Television
-
-👁️ 27K • 👍 181 • 💬 42 • ⏱️ 11:52 • 6d ago
-
----
-
-**[Laurence Fishburne reads a warning to the robots that will eventually replace us](https://www.youtube.com/watch?v=EVMzECBZn8Y)**
-
-Laurence Fishburne reads a warning letter to the robots that will eventually replace us. In 2018, comedy writer Connor Relyea ...
-
-📺 Letters Live
-
-👁️ 195K • 👍 6K • 💬 464 • ⏱️ 5:13 • 5d ago
-
----
-
-**[5 INSANE Humanoid Robots You Can Actually Buy in 2026](https://www.youtube.com/watch?v=wetRWg4xWA4)**
-
-In 2026, humanoid robots have moved out of the lab and onto the market. This video counts down five ultra realistic humanoids ...
-
-📺 Snap Shift
-
-👁️ 113K • 👍 651 • 💬 25 • ⏱️ 23:22 • 4d ago
+👁️ 9K • 👍 266 • 💬 17 • ⏱️ 1:00 • 6h ago
 
 ---
 
@@ -286,7 +208,87 @@ Tesla just accidentally leaked the finished design for Optimus Gen 3, and it rev
 
 📺 Innovation Core
 
-👁️ 227K • 👍 2K • 💬 150 • ⏱️ 21:02 • 5d ago
+👁️ 228K • 👍 2K • 💬 150 • ⏱️ 21:02 • 5d ago
+
+---
+
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
+
+📺 ejunky66
+
+👁️ 940K • 👍 15K • 💬 682 • ⏱️ 1:00 • 2d ago
+
+---
+
+**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
+
+Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
+
+📺 The Geo Network
+
+👁️ 185K • 👍 3K • 💬 132 • ⏱️ 20:27 • 4d ago
+
+---
+
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
+
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
+
+📺 Canada 2050
+
+👁️ 35K • 👍 878 • 💬 27 • ⏱️ 18:22 • 3d ago
+
+---
+
+**[Atlas Learned This Hand Movement in Simulation #ai  #bostondynamics  #atlas  #robotics  #rl](https://www.youtube.com/watch?v=znIuXteb4rQ)**
+
+Boston Dynamics' latest Atlas hand has 4 fingers and 13 degrees of freedom. More importantly, it was designed around ...
+
+📺 Understanding AI HQ
+
+👁️ 18K • 👍 235 • 💬 13 • ⏱️ 0:13 • 2d ago
+
+---
+
+**[5 INSANE Humanoid Robots You Can Actually Buy in 2026](https://www.youtube.com/watch?v=wetRWg4xWA4)**
+
+In 2026, humanoid robots have moved out of the lab and onto the market. This video counts down five ultra realistic humanoids ...
+
+📺 Snap Shift
+
+👁️ 120K • 👍 690 • 💬 27 • ⏱️ 23:22 • 4d ago
+
+---
+
+**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
+
+This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
+
+📺 Boston Dynamics
+
+👁️ 2.2M • 👍 34K • 💬 3K • ⏱️ 5:35 • 3d ago
+
+---
+
+**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
+
+Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
+
+📺 Fist To Face
+
+👁️ 84K • 👍 389 • 💬 26 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Anduril Dive LD: The Pentagon&#39;s Plan to Build Thousands of Robot Subs](https://www.youtube.com/watch?v=z5vJZLvGDGU)**
+
+Anduril's Dive-LD is a modular underwater drone built for long-duration missions at extreme depths. Three veterans of the ...
+
+📺 Megaprojects
+
+👁️ 200K • 👍 2K • 💬 412 • ⏱️ 16:43 • 2d ago
 
 ---
 

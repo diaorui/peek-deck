@@ -15,26 +15,6 @@
       "description": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology"
     },
     {
-      "headline": "Former OpenAI safety chief warns AI industry\u2019s culture is \u2018broken\u2019",
-      "source": "Yahoo",
-      "source_url": "https://es-us.noticias.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0lBMlJZWHExSktXNE12OXYtT1FZczFvZ1RCOHVfSTU4aDdsaVdhdG1YdkdlVTZWb1ViQ0dtbGttdnFuY3MyZnR2MHdEWi1QSjNCVkZGTGVac2JBLXJjNks0T1pIM2tWSXluZVBUbDlnSXNub3lacWpHd29YYmR1N2VDWnZtOVk?oc=5",
-      "pub_date": 1791112705.0,
-      "article_url": "https://es-us.noticias.yahoo.com/former-openai-safety-chief-warns-111825376.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2b4abf92be8bf75ba738faca334ee1e933dc89a057c28f76df8eed2346f79dcd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_noticias_video_393%2Faf1f334031f2068622e421b5413f0cb9.jpg",
-      "description": "WashU Law AI collaborative co-director Oliver Roberts analyzes OpenAI safety leader David Robinson resigning over company culture on 'Fox &amp; Friends Weekend.' Roberts examines calls to regulate AI ..."
-    },
-    {
-      "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5",
-      "pub_date": 1791111608.0,
-      "article_url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2375ab2c-e5af-425e-89b9-4dcc0a0d6d31.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Cyber security incidents involving company\u2019s AI tools leave ChatGPT maker vulnerable to wave of lawsuits"
-    },
-    {
       "headline": "Trump announces leadership of AI task force",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -45,32 +25,72 @@
       "description": "President Donald Trump on Sunday announced the leadership and duties of a \u201cSuper Intelligence Force,\u201d which he said will \u201censure that America continues to lead the world\u201d when it comes to artificial intelligence."
     },
     {
-      "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w?oc=5",
-      "pub_date": 1791070643.0,
-      "article_url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371732-1790941993880-gettyimages-2286019756-clayton_senate_324_071526.jpeg?v=1790942014&w=1920&h=1080",
-      "description": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday."
+      "headline": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+      "source": "DW.com",
+      "source_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRmdkdHFFV09tWERfUW9MYlIxN3NRS0NLdkxwdklTUUtzenZZMXNuT012dTU3Z2hFUXpLUFhxMV8zSkhkdllYdnM2bEtTd3c2UzBJRXFJYlJqSGtXTDdmbmkwY2pKX2pZVklMR0pDQ0JBLTRWR2hxZ3V4QVFEaTZLeUJjQ04zbzVQQlk2Y3pzUkdjNmVhUXpqNjFsWU11ejdJbnBfT2RkektIQzVHejlVaTl5SDF6VVUwa29LUHZRQXpLTTNVUmllaGQwTTJUQdIBzgFBVV95cUxOazlNYnZxZmdrTTV4TGdjQUJtLXlzY0M3bm8xWFRwdGhYTDBKR2tQT1NEWlpoeEZJUGI4TTRJakpBc0liSDQtZTNEZmZUZV9kUHNYMmIzM0xsbU9FaERadjFtRDNxVGdOb2Z6M1pmNkZxcUppNzlyMFNpNFdOc0dMQUF0MHR2bTNqYXM2Rk84cVdTdGk5RHY0cXVvX0tObC0tZjdGTm9DNDhEdlFuek03X0pramxKM0YwSnRCUFBxZzVQTG9ucjJYR1NuV1hSUQ?oc=5",
+      "pub_date": 1791134314.0,
+      "article_url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947",
+      "image": "https://static.dw.com/image/77779441_6.jpg",
+      "description": "A new report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations have been made about propaganda in Democratic Republic of the Congo, Kenya, Sudan and Mali."
     },
     {
-      "headline": "Trump announces formation of AI \"Super Intelligence Force\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzN5aFk5YXQ1bXNDRVBTc25iSmg1MkJXQjA3NzNlS3NrMUM2NlVXTFdNVGhZUW1ieWg3SWVrbWhaQjNhWmRNUFBYdXgtZEhBcFRMZXE1amFkeEwtcG1zaFl6NXdMN3lZWng2RTIyMzc4WVpPd1N3R0JLVnlIMTNHRA?oc=5",
-      "pub_date": 1791120308.0,
-      "article_url": "https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/04/9322f1ed-3736-4033-a317-683a755b1c20/thumbnail/1200x630/0fddc3004ffab1191b1f9a238aa82473/gettyimages-2297889016.jpg",
-      "description": "President Trump announced the formation of a \"Super Intelligence Force\" after meeting with leaders of the country's largest artificial intelligence companies last week."
+      "headline": "AI policy coming to University of Alaska as student misuse increases",
+      "source": "Anchorage Daily News",
+      "source_url": "https://www.adn.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BrTXRqZTZnMnZ5X3plWl9fSEZGNlRXOVFRS2lDQl92MVI0MzEyZW5BU1lMWm5XZWdhV25wdlI2WWRrZ1NRb2t6U3pnM25nLVdSREdUYk50YzgtUHh6di1Wc19RdXRLeU90alZtWUg4SE9tNV9mcXphaHV1c1A3MHR3Rm40bWdmWVVacUpwSW44VGJnb1FndjgyS3Z0NnI3SWp3MEFPaloxejgxd2NFSGtZem9GbERzaDd1WmVONA?oc=5",
+      "pub_date": 1791133978.0,
+      "article_url": "https://www.adn.com/alaska-news/education/2026/10/04/ai-policy-coming-to-university-of-alaska-as-student-misuse-increases/",
+      "image": "https://www.adn.com/resizer/v2/AFJ4GRSGVRAIDPWZGYYWFIDWGI.JPG?smart=true&auth=7692fcb8f3979543c6c37ad19b05df942608787180e03488f66a3ba527531961&width=1200&height=630",
+      "description": "Student use of artificial intelligence tools to cheat is a \u201csteeply growing trend,\u201d according to a report on generative AI use among UAA students."
+    },
+    {
+      "headline": "AI models could harm young people's body image, warn experts",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02dTZNZ3pqWnFpcjhabDBiaTJSUE9KR1RsNWI5Rk1mNGYxb1pVR2xvUFF4M1g3cG81NGNYSjhyajRpSnRSaFNZaGVBSFo4T01sSzhKaHh0Q2gxZw?oc=5",
+      "pub_date": 1791094100.0,
+      "article_url": "https://www.bbc.com/news/articles/ckgw8yq4kyzo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c70/live/7101a300-bf69-11f1-8dde-c5daf8e396f5.jpg",
+      "description": "Could the rise of AI models in advertising and on social media harm young people's body confidence?"
+    },
+    {
+      "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
+      "pub_date": 1791018041.0,
+      "article_url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUx1aTFnUHltcTFXRmNIWVhPbW9Nd0lZMXdQVlRuVFVNMW5xRG1QaFpnanA4YnpicU9VTnMwQlZuNzJ4M0lYV0haWnNsZjZGZzFnRkNfZkItbkg2a3BCZ1FEbHdqbEZHc0E?oc=5",
-      "pub_date": 1791118438.0,
+      "pub_date": 1791119225.0,
       "article_url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNTVQTGpZTFpDTndablpZbTl4SXVIdHJMd01DcV9VUmZvTGdFd0Naeno4SlA1Q01JZVdyV3RQUDNKaGdsMHlOc2s5WVhxVUswb3dURndiZW9BVWN5YUY5UnB4cGJuanVPaGZ1RXFRLWVJcjdC0gF6QVVfeXFMUFpsQ0EwT0VmZmtRUTFoNkk0R1lJb0wzc1ZVSjdETVNhVklVczBJcG5TMmtjM01mUEFIdU50Zk9QVXN3LUJXZVlEcjd3TjdVbmFLaWtua2kyMENjay1BeUdnWjRRdjd6ak9YZDh1aDA3SnI5bVp6R041TGc?oc=5",
+      "pub_date": 1791115201.0,
+      "article_url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
+      "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables."
+    },
+    {
+      "headline": "AI\u2019s Real Gift to Science",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5",
+      "pub_date": 1791129388.0,
+      "article_url": "https://www.theatlantic.com/science/2026/10/anthropic-artificial-intelligence-science-biology/688878/",
       "image": null,
       "description": null
     },
@@ -79,32 +99,12 @@
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGZYYVEyMU90NlZlSWJSaDV0RmUtSDNPd3pEbWZOMms5bmlDRVAtSkdjLXphdEFXNHFqOUE5S3R5aTNld1BIS1ZKdzFRZnJtWXM3alZzcl9zSXZ2b0pBUG1tMzRLeGUxNzRVdjl5bFRQVTYzcGxCN0xwNXo1SERadENzaXRwOXA1T3hwU00zSG11WHlEcDhn?oc=5",
-      "pub_date": 1791118143.0,
+      "pub_date": 1791134343.0,
       "article_url": "https://www.washingtonpost.com/opinions/2026/10/04/using-ai-grief-tech-is-playing-with-fire/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NIVNDZZRN5FNFLICDSBOTUGI5I.jpg&w=1440",
       "description": "Grief and technology is a classic combination. But it\u2019s also playing with fire."
-    },
-    {
-      "headline": "Midterm voting is underway. Some voters are relying on AI to make a decision",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGVXLTEySWY0amFfZzR4d2tsM3RHVE1iamxXMF9aajJjVjhoUHFrQlQyc2NMcVM5dUtib19uMkRQYlAtZmhfQzVfN3Y3R2Q2SXIwcWdvVENEd01CMmpNaFhETWE1RURMRXZNYnJpVzUzTDg4Y29oemJPTVJCaUQ0bk5Yem5GcDZ3RXQ0Z0tpUVhTdWdZQ2xaZ0dzTTQ3RGxSMEQteXRLUmo1NGhZVXBLaGlLN2ExTmJ1eUNPcA?oc=5",
-      "pub_date": 1791115566.0,
-      "article_url": "https://www.npr.org/2026/10/04/nx-s1-5977852/midterm-voting-is-underway-some-voters-are-relying-on-ai-to-make-a-decision",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "description": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
-    },
-    {
-      "headline": "AI models could harm young people's body image, warn experts",
-      "source": "bbc.com",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02dTZNZ3pqWnFpcjhabDBiaTJSUE9KR1RsNWI5Rk1mNGYxb1pVR2xvUFF4M1g3cG81NGNYSjhyajRpSnRSaFNZaGVBSFo4T01sSzhKaHh0Q2gxZw?oc=5",
-      "pub_date": 1791094100.0,
-      "article_url": "https://www.bbc.com/news/articles/ckgw8yq4kyzo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c70/live/7101a300-bf69-11f1-8dde-c5daf8e396f5.jpg",
-      "description": "Could the rise of AI models in advertising and on social media harm young people's body confidence?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T13:44:59.502904+00:00"
+  "fetched_at": "2026-10-04T18:00:19.703431+00:00"
 }
