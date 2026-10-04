@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
-      "pub_date": 1790955540.0,
-      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
-      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
-    },
-    {
       "headline": "Watch these defunct humanoid robots go full Terminator and dive into molten steel",
       "source": "Mashable",
       "source_url": "https://mashable.com",
@@ -25,6 +15,46 @@
       "description": "An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild."
     },
     {
+      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
+      "source": "businessinsider.com",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
+      "pub_date": 1790955540.0,
+      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
+      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
+    },
+    {
+      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
+      "pub_date": 1791106271.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
+      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
+    },
+    {
+      "headline": "How robotics and physical AI can responsibly tackle key physical security challenges",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR00wR01SRVJCWDhiZG40MlRFdld5dXY2cV9SNkRQRTlZbG9YbGpkMFVXZ25BNE5rN3RwdnBLUlNjNDNScjB6bGI4MFo0cUxMVlAzSDJGYVppRjFibUpEVjNGeU1CYlF4c2pTSlYwZnNkNFlqaExmN2ZEdF91Ym9tM0ljYnVHRGM3UVg4MS1nWUlEM3dTcTk0d1hEaVh3c2xCbnMxNnQ3REVBM0Y1MTQ3dVRB?oc=5",
+      "pub_date": 1791118910.0,
+      "article_url": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/krisna-azie-G2U1TMFELZA-unsplash-scaled.jpg",
+      "description": "Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist."
+    },
+    {
+      "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
+      "pub_date": 1791075684.0,
+      "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
+    },
+    {
       "headline": "NASA\u2019s dexterous humanoid robots built to assist humans on the moon",
       "source": "The Hill",
       "source_url": "https://thehill.com",
@@ -33,16 +63,6 @@
       "article_url": "https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
-      "pub_date": 1791099000.0,
-      "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
     },
     {
       "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
@@ -65,46 +85,26 @@
       "description": "Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology."
     },
     {
-      "headline": "In Robotics, Google Goes Android to Tesla\u2019s Apple",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVlHMWJKMEdEOW1mQ2x2MzBNMnYxOWtuWWlzN1hpRG84czBDN3RsdFVZdWZMWkh2U3ljcEtHUkt1X1NyZ0FkU1U3blJrN0xTb2tVQktoWkRHLWRRUTM5dkg5cTFXLXEzVzZRMGZqSUxQQ0tSN2VLNmMwZVg3OXdRUmdwRENFQ1k3YXItYWV3R01sWDJUOHV5YU12dw?oc=5",
-      "pub_date": 1790891400.0,
-      "article_url": "https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple",
-      "image": "https://tii.imgix.net/production/articles/17921/ac3b0183-2a4f-48fa-98ec-123565f26eea-cc8NvU.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "While interviewing Google\u2019s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ..."
+      "headline": "Rubber ducks and screwdrivers put dexterous new soft robotic gripper to the test",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlpsYUVMcnVobHQ3VDVBbk5YeklBU0xneUwteTRQTFdmaXRnbkJzN0hPd1BsRll3TzVTU3FCLXdoNHFuVjVjTzkyNlVtSHBKdGNtWEp3Qk02WVh4MFVrck1NSVN5N3dUbTdNOGhxM05nVU44cjhIRkwwRE9sbkFkU1JtOUJkMDQ0?oc=5",
+      "pub_date": 1791049244.0,
+      "article_url": "https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Architects of Autonomy: Army activates 390A Robotics Technician MOS to forge battlefield overmatch",
-      "source": "army.mil",
-      "source_url": "https://www.army.mil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnpwVlRkS1Y2eWMxSmNkOGhGcHFCQTVzWjhlNTlrd3RfdEpJenZrUDUyXzFJUnFHTFRmeVB2YWJTcHRnRzRpVGROT0htbkFRRnFLNFNzdkhYTUlaVDhiVXFkMXRyYm1fTk9FRkF3SzltODhVZ3BTNS1zZmZVMlR5NVB3TTc0b245dzFDR0FjREZvS19xRmU2UGc4YTRNNHRFakh4aFR5NE5KemZCV0RRNWVmODlGMmREWEM1RWxvNHBoTUprMF9WWEtTdFBPZ9IB0wFBVV95cUxPOFoyT1NlSVRhT1ctR0xPRkpWYy14SVN1TTB1VnBtNHAwc1NfYkRoU2tKbG9GVldYZUhXYWhDYzhLVFJzU0NUTWZXVmE2dEd6b0NJekcxZlpqVUk4SFBabTdyX0pIOVFGZVpDeWhPUEZTTEVmNjFKa25rWlhjTmp3eDVDRHlrR2ZZU3otMUtlWFhlSURpX3NMdVJCeXNjNGF5SFJVRlF1aXpYVk5PS21xcUdCNFFBLVhpUG1Jb1dEODhPYkRlZWVZMFkxcWlWUkdVdGN3?oc=5",
-      "pub_date": 1790963527.0,
-      "article_url": "https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch",
-      "image": "https://api.army.mil/e2/c/images/2026/10/02/2895c7c6/max1200.jpg",
-      "description": "FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec..."
-    },
-    {
-      "headline": "PewDiePie launches AJAX AI model after an alleged ban by OpenAI",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcERNbHpKZXlWNWlYZEhpekFIMGxaU1NDdDNCMUtZdkZUU2V0ZUhyeWl2RmZ2VkZxNXFvZVYwRXpRTy02Ym5TZXFsV0FzSWNnZjF1R1VZOHhYVXdjRk16T0NLV0JLYmNvTmJZT3QwaEFnOUhhSFhQalRMWTVVSGtCTXlETkRHZjg0b2pMdE5lak13WEZG?oc=5",
-      "pub_date": 1791050760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/pewdiepie-ajax-ai-model-local-pc-openai-ban",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Pewdiepie-ai-model.jpg",
-      "description": "PewDiePie has unveiled Ajax, a fine-tuned 9B AI model designed to run locally through his self-hosted Odysseus workspace."
-    },
-    {
-      "headline": "Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVBtWnVfb25LNm5kd21MUUxLR2JOblV6Y2lVUjBZUm14eG5Xb20wTzA5VDByZGdiVXNnaVlzaS05bk1zQWhNUURkVDZ4TjhEX1hyb25acUNRTFd1WHJxTzZJWHNVdUFjMi1iTHV3ZWtJVU5XXzBmbmRjYkdLQVVZVlY0b0VPLXFGSElmZGlTcXY1TUFXTDh0RA?oc=5",
-      "pub_date": 1790878920.0,
-      "article_url": "https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888977%2Ftesla-cybercab.jpg&w=1200&op=resize",
-      "description": "Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect."
+      "headline": "Anthropic study suggests blue-collar workers have decades before robots take their jobs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWoycUlISjNyb2FhX3habDlCcEpIcE1oSnV2SnhNc1Zlbnk4UEQ2SHJSQWhxaWI5LUtZVGt1VWhQQ0VWbUNMTklUMEppV2R2OFR4cDV1S1RRcmtPZlRsQzhCUnBhQUZwbjBXVEZ0Ym12X0JINExFOWZfMGhDVGZzREEyUkw3Q0JoekYxWkh0b21yaUJyeHRoWjJkSGRDcnJ3ZnV1UWRJWGRLeU1QR2NELTJJRjhXU0ctSGgtS0xHQ1RwVnVTdndMbG1SSTFfaEF5T0R6RGRvMU12UUUwLU9kVQ?oc=5",
+      "pub_date": 1790855997.0,
+      "article_url": "https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a5d8f15f4de325cb6d4a4f8b33c012173f49ecd270ca56dfbff97695ff5ed0dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc8a33064-8369-4d93-abf0-863093dcf733",
+      "description": "Robots can already handle most physical tasks involved in American jobs \u2014 but mostly in controlled settings, and at a cost too high to replace human workers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T07:50:43.579802+00:00"
+  "fetched_at": "2026-10-04T13:44:59.503011+00:00"
 }

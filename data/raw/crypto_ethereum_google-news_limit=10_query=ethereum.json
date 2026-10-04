@@ -15,18 +15,18 @@
       "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge..."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
-      "source": "benzinga.com",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXVyV1hLMWtBRjJxRV94bGU3UnlGR0syU0lUYUhkTXhxOUdQTExXbU1TcE1pcVprRXNXTms0TUJHenh2T2UtY3J1QWJmcWFjMGFacTdQLTNpZVNDVXQxc3RDakctNTY2ejU5Z29YTlMwS3RYMkRvbTk2X2tMaVh5Y0hOaHZ1aDYwd0JLRlltYUNaeFhQV0pYQ00yQV9TVU95dlN6UjBKamh3NWViVWN3WTkzWWt4TWRqZUF6ZmQ5YXZMUzdiOFZKNA?oc=5",
-      "pub_date": 1790963586.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/02/Ethereum-Eth-amp-Ripple-Xrp-Coins-With-C.jpg",
-      "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
+      "headline": "Ethereum L2 Blast shuts down as BLAST token crashes 99% from peak",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3BVTm1kelQyZ1ZlV2tZZFlMcXp1bzRDUDBWT2R6elJpOTdUTnpQWkUxLThXNV92cHlkZWNUM3JSU2YtRVlaRTlnbU5oMUViLTZmWkloQkNvYjhaRmViVTBmU0lrQ0xtQUpOSi1IT0NBcUh1YWtETGM1eDlGaFZZdThsXzBlcWg2LUJDX2xEaG5KYmpnX0NGS1RkVGV2WGxKcWV5MUR5N194LVBhZVFoZS1Xc0pRZFl2VTRJZjNkZnFJUQ?oc=5",
+      "pub_date": 1791008391.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-l2-blast-shuts-down-as-blast-token-crashes-99-from-peak-202610030619",
+      "image": "https://editorial.fxsstatic.com/images/i/crypto-coins-1_Medium.png",
+      "description": "Ethereum Layer-2 network Blast (BLAST) is winding down operations, claiming that the economics of maintaining the chain are no longer sustainable."
     },
     {
       "headline": "Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch",
-      "source": "MarketForces Africa",
+      "source": "dmarketforces.com",
       "source_url": "https://dmarketforces.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdF9Qbmg2WEVmOFY4RUY3VGw0Tk10OUtEOXZFMWhqX2s1WGJ6T2xiS1VDN0o3SU55N1h1UE9mRjg1a0xxTFV6SmcxV2VZMDJ0aTFWamRQTUw0VVh1cGRIaXRHRWUyeGpFUHNIWXFlbWVRenNUS3lqal9ORk1rY2dBS3hCcWQtUUhUMzgwYw?oc=5",
       "pub_date": 1791064259.0,
@@ -55,24 +55,34 @@
       "description": "Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get."
     },
     {
-      "headline": "BlackRock Bitcoin ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs",
+      "headline": "BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSjhSUnZXcjBKNE5Uek9RQ2xSY3BCbXFvUHhaRTE0WmhNR1ZQWW5lQklPeVdJYnJGNDFvaFhaa2c3eUNVblE0Vk9Lbk8ySGZNc0c1US1HMnZ2UlFyeDhZcU1NdWdNdEROeEhFbUxTU2xVS1BZdHdacnVxeGtCV21wY2pEVkNRLUJwaHlXUGpfOFNMbmhmc2ViU0pncDdKLXZnQzRaR1JydU1SMVp5d1UwMl9tS01fejIxS2JGY1R1UFFvSmNJYXduamxKOXdQZXdVbGFWdl9acEY4N0NOX0ZPMHVwLTRpeVB0OFBuWHVfUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTkp3T2tVZkNrUWxESkNjb2pMTDlmTjl4T1ZWcXYzdXp6R3BPY3dDYjlvbVl3VWJjdmhNMktCcWRKZHI2NEhBV0NzbEUxMkg2U0JvcGxzNHoxUTZ1dDdkNXBQY0huMC13M2VmeVAyV2Z2d0c5ZkZ3ODhGSFRNbEVqTGxqWGZ0NmtMWlhiT0tGNjNwMVBha0JZU1NJM25LbEtZOFJpbTJsaDFZaE1XQ2ZJMW1aNjlfV25ZTkJHV1lQUjF2WFNHM1FEUzNxOGQ3QmVjUGxDb2U3SVZhbnNUaGM4RS1GMGVLY1FJZWloZnJB?oc=5",
       "pub_date": 1791046796.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-bitcoin-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/",
+      "article_url": "https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-s-ibit-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "BlackRock\u2019s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT\u2019s 50-day simple moving average\u2026"
     },
     {
-      "headline": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsdV9JeC1lS3BSeEFPOGNIeUtnbmlBUEJLdUl5bjVScFlIODlQLWdyNmowZElCSVRFVFRfOEI1TVdWSHhzZ21tUXN0YTg0TEtQbXppdXhSZHhrSmhOOEtBcXdEVmNsOWFDWnNhVVFzUQ?oc=5",
-      "pub_date": 1790963226.0,
-      "article_url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-      "description": "Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet."
+      "headline": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT25zVXBVTGQwYm1TLUxMamtUSEFkNFpEbEZWMkk4MXYyWjlYLWFRUEJCTGZPOWVYOFBjSUdyVDg5am9yTDQyRDVxWUxyNnFsVGdzSVc4ODlja29RYk9mdkczNmEtMWFGSkcxY0VoU2RPeUwxb09iUWtBZ2IydzlMNVA1ZTlwbVFpZjBoTlUteGdIa054MHYxNg?oc=5",
+      "pub_date": 1791102894.0,
+      "article_url": "https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888703%2Fethereum-virtual-money.jpg&w=1200&op=resize",
+      "description": "One digital asset treasury company is very bullish about Ethereum right now."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXVyV1hLMWtBRjJxRV94bGU3UnlGR0syU0lUYUhkTXhxOUdQTExXbU1TcE1pcVprRXNXTms0TUJHenh2T2UtY3J1QWJmcWFjMGFacTdQLTNpZVNDVXQxc3RDakctNTY2ejU5Z29YTlMwS3RYMkRvbTk2X2tMaVh5Y0hOaHZ1aDYwd0JLRlltYUNaeFhQV0pYQ00yQV9TVU95dlN6UjBKamh3NWViVWN3WTkzWWt4TWRqZUF6ZmQ5YXZMUzdiOFZKNA?oc=5",
+      "pub_date": 1790963586.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/02/Ethereum-Eth-amp-Ripple-Xrp-Coins-With-C.jpg",
+      "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
     },
     {
       "headline": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
@@ -85,26 +95,16 @@
       "description": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat."
     },
     {
-      "headline": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGt0bVFseEw2SmZwX0hhUmRyREtVLXVlc3hRTElfd05BaTlJZk5JQmZPLTJBeVZkcWhabFAzTzR0anIzTlZEMmNlSUtHV0FJVjVQMC16ekFhZjlEUU5ubGt2N1BwOVZtNVFDTkJFdEZUeEx4R014MExzcEFsOFVVdTlRdXJwZHpPRTBmaFlhQkg2MndFdkNqdTJ6OUNpM0JiLVZ1WFg3dVdYVllLMC05dFEzemE1RDFwX2ppWjJnd3ZNWTJP?oc=5",
-      "pub_date": 1790871443.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-      "description": "Co-author and Ethereum France president J\u00e9r\u00f4me de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April."
-    },
-    {
-      "headline": "Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTdTb1FkOXVDak1keW5QVUxNdzRFVTlEczVtVjNBSHFLOVdfUVhReU55UzFnSnh2THJZN2RuVFA5eVAwSENSNGc1bTNxT3N5ZnZYUUJUN0hIaC1lYjB0dUNNbXpkSTdoSlZ3QW01cnNuUXBhWWYyZjl0aWRMWHgtazcxTnl3TmhOTXotWG9uSzdROUp1Mm51bnJOTUk3SU93RTM2SHFReGVNeGJsUV82SUpOTQ?oc=5",
-      "pub_date": 1790853617.0,
-      "article_url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/glamsterdam-validator-upgrade-prysm.webp",
-      "description": "Ethereum's Oct. 6 Glamsterdam test will show whether validators coordinate around a target more than three times today\u2019s 60 million default."
+      "headline": "Ethereum: Third Monthly Base Pattern Signals Launch",
+      "source": "blockchain.news",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkNwNHJyRVExUUZSQXBnb2cyTmtvN3E5U1R1MWktQ1p3XzEzVVN4Y1hJV0hHV29iREFkNmhFSW1XLUxqb05IUm1mVTRoWmJZTUl4SGFoR0Zxb2RrVWVmVWxwbGhhV2NUYTkxdjNlbXBjWnJ0WWN3ajVWal80bFktUHRoUkc2VHBNNUhMXw?oc=5",
+      "pub_date": 1791089100.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-third-monthly-base-pattern-signals-launch",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "Ethereum monthly chart repeats rounded base structure for third time, lifting off Step III support near $2697 with bullish 4h EMA confluence intact."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T07:50:40.229412+00:00"
+  "fetched_at": "2026-10-04T13:44:56.568743+00:00"
 }

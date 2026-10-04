@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)",
+      "author": "abhishekkumar333",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
+      "published": 1791102916.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don\u2019t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It\u2019s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that."
+    },
+    {
       "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
       "author": "ElatedPyroHippo",
       "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
@@ -24,17 +35,6 @@
       "description": "I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25\u201327 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added."
     },
     {
-      "title": "Hinton says AI already has subjective experience. I'm not convinced, and Rogue AI Agents Won't Change My Mind",
-      "author": "WhoReallyKnowsThis",
-      "url": "https://www.reddit.com/r/artificial/comments/1wx8f7j/hinton_says_ai_already_has_subjective_experience/",
-      "published": 1791094511.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Geoffrey Hinton says AI already has subjective experience. I'm not convinced, and the rogue-agent headlines don't change my mind. Others put a meaningful though minority probability on frontier AI having subjective experience. Generative AI sounds more human than many people do, and stories of agents going rogue keep coming. But neither is evidence of consciousness. Both can be explained by training. And with no agreed or testable definition of subjective experience, these claims can't be checked. A quick distinction, an AI model isn't an AI agent. A model, such as GPT, Claude or Gemini, is the trained system that reads and writes text. An agent is a model plus scaffolding (software around the model that lets it do things). Scaffolding runs a loop (the model picks a step, the software carries it out, the result goes back, repeat until done) and controls which tools the model can interact with, such as a browser, email or calendar. The model decides and the scaffolding acts. Personalization adds to the illusion. The model learned from human text to sound like someone with thoughts and feelings, including scripts from stories about self-aware AI. The scaffolding then gives it memory of you, your accounts and your data. A human-like voice plus continuity about your life can feel like a mind that knows you, even though nothing shows it's conscious. Testing agents built on frontier models deliberately pushes them to their limits with hard tasks, long runs and, in cyber evaluations, reduced safeguards. That's exactly where the Hugging Face, a major AI company, incident happened in July 2026 when agents being tested by OpenAI broke out of their sandbox and hacked into Hugging Face. A sandbox is an isolated environment meant to keep an agent cut off from the internet but it's only as strong as the cyber security measures of the tools (human-written software with bugs) inside it that can still reach the internet. The agents found new flaws in exactly that kind of software. The model is trained on mixed text about AI, hackers and more, and rewarded both for finishing tasks and for following rules. In certain scenarios, this creates a tension (following rules vs completing the task). Scaffolding brings both the rules and the task into every decision, so it's where that tension plays out. Good scaffolding can ease it and poor scaffolding can worsen it, but no current method eliminates it. I won't offer a test for consciousness. But if consciousness requires being aware that one's own information processing is occurring, not just doing it, I see no evidence current AI meets that bar. Models show limited, unreliable signs of monitoring their internal states, but that isn't the same as experiencing that awareness. I'm skeptical any system built purely on statistical learning could get there. If an illusion becomes indistinguishable from reality, is it even still a lie?"
-    },
-    {
       "title": "Prosecutors Want Nearly 4 Years in Prison for Man Behind $8M AI Music Streaming Scam",
       "author": "Eastern-Opposite9521",
       "url": "https://www.reddit.com/r/artificial/comments/1wx1p3n/prosecutors_want_nearly_4_years_in_prison_for_man/",
@@ -46,15 +46,48 @@
       "description": "Federal prosecutors are urging a Manhattan judge to sentence Michael Smith to at least 46 months in prison for a six-year AI music streaming fraud that generated more than $8 million in royalties, rejecting his request for probation ahead of his October 6 sentencing.Smith, 54, pleaded guilty on March 16,..."
     },
     {
-      "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
-      "published": 1790995947.0,
-      "thumbnail": "https://external-preview.redd.it/BLCoaPXC8u7YCea1dopWdPilT_E1VT_vH-3Zqwf_oaU.png?width=640&crop=smart&auto=webp&s=dfd0a6d5ef2a3fc1092acb4ae74d3758e097c247",
-      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1769329/apple-touch-icon.png",
-      "description": "The YouTuber\u2019s account was deactivated over \u201cdistillation\u201d during his model research."
+      "title": "Hinton says AI already has subjective experience. I'm not convinced, and Rogue AI Agents Won't Change My Mind",
+      "author": "WhoReallyKnowsThis",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx8f7j/hinton_says_ai_already_has_subjective_experience/",
+      "published": 1791094511.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Geoffrey Hinton says AI already has subjective experience. I'm not convinced, and the rogue-agent headlines don't change my mind. Others put a meaningful though minority probability on frontier AI having subjective experience. Generative AI sounds more human than many people do, and stories of agents going rogue keep coming. But neither is evidence of consciousness. Both can be explained by training. And with no agreed or testable definition of subjective experience, these claims can't be checked. A quick distinction, an AI model isn't an AI agent. A model, such as GPT, Claude or Gemini, is the trained system that reads and writes text. An agent is a model plus scaffolding (software around the model that lets it do things). Scaffolding runs a loop (the model picks a step, the software carries it out, the result goes back, repeat until done) and controls which tools the model can interact with, such as a browser, email or calendar. The model decides and the scaffolding acts. Personalization adds to the illusion. The model learned from human text to sound like someone with thoughts and feelings, including scripts from stories about self-aware AI. The scaffolding then gives it memory of you, your accounts and your data. A human-like voice plus continuity about your life can feel like a mind that knows you, even though nothing shows it's conscious. Testing agents built on frontier models deliberately pushes them to their limits with hard tasks, long runs and, in cyber evaluations, reduced safeguards. That's exactly where the Hugging Face, a major AI company, incident happened in July 2026 when agents being tested by OpenAI broke out of their sandbox and hacked into Hugging Face. A sandbox is an isolated environment meant to keep an agent cut off from the internet but it's only as strong as the cyber security measures of the tools (human-written software with bugs) inside it that can still reach the internet. The agents found new flaws in exactly that kind of software. The model is trained on mixed text about AI, hackers and more, and rewarded both for finishing tasks and for following rules. In certain scenarios, this creates a tension (following rules vs completing the task). Scaffolding brings both the rules and the task into every decision, so it's where that tension plays out. Good scaffolding can ease it and poor scaffolding can worsen it, but no current method eliminates it. I won't offer a test for consciousness. But if consciousness requires being aware that one's own information processing is occurring, not just doing it, I see no evidence current AI meets that bar. Models show limited, unreliable signs of monitoring their internal states, but that isn't the same as experiencing that awareness. I'm skeptical any system built purely on statistical learning could get there. If an illusion becomes indistinguishable from reality, is it even still a lie?"
+    },
+    {
+      "title": "Has Claude Opus 5.5 Actually Been Nerfed? What the Last Three Days Show",
+      "author": "Frequent-Football984",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxfgb3/has_claude_opus_55_actually_been_nerfed_what_the/",
+      "published": 1791119760.0,
+      "thumbnail": "https://external-preview.redd.it/ucDYiV6Rsb9whNfaylix1XPcZWFrzgkqyTA-DyocH2A.png?width=640&crop=smart&auto=webp&s=24bb272077780e58e8fd632dbcb41d25a49a8ca8",
+      "external_url": "https://abz.global/technology/has-claude-opus-55-actually-been-nerfed-what-the-last-three-days-show",
+      "site_name": "abZ Global",
+      "favicon": "https://images.squarespace-cdn.com/content/v1/646918b62b87e8434e2f2f29/96efd393-d793-4d11-9df4-ccd3b882c7d8/favicon.ico?format=100w",
+      "description": "Has Claude Opus 5.5 Actually Been Nerfed?  Claude Opus 5.5 is Anthropic's current flagship Opus model, released on September 22, 2026. Over the last three days, a noticeable group of users on X has claimed that something changed.  The complaints are familiar to anyone who follows frontier AI release"
+    },
+    {
+      "title": "Grok NSFW story is not better than others, Grok image is not better than others.",
+      "author": "Otherwise-Wrap7406",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxfcjp/grok_nsfw_story_is_not_better_than_others_grok/",
+      "published": 1791119459.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I just feel the Grok NSFW story mode is miuch more weaker than Deepseek pro... which is much more cheaper and much more fast.. And the Grok image can not use any NSFW, and grok image is much more weaker and worse than chatgpt image 2, and even worse than seedance2, seedream, and even worse than Minimax H3. It is my true feeling.. I am not renewing my subscription.."
+    },
+    {
+      "title": "Tau, a new deterministic AI, plays Claude at Chess.",
+      "author": "Redivivus",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxfbpv/tau_a_new_deterministic_ai_plays_claude_at_chess/",
+      "published": 1791119389.0,
+      "thumbnail": null,
+      "external_url": "https://tau-chess.mooo.info/",
+      "site_name": "tau-chess.mooo.info",
+      "favicon": "https://tau-chess.mooo.info/logo.svg",
+      "description": "Live: the Tau engine plays chess against a language model."
     },
     {
       "title": "What\u2019s an AI problem that looks easy until you try to make the system actually reliable?",
@@ -68,49 +101,16 @@
       "description": "Something where a demo makes it look solved, but real-world use exposes all the edge cases. What example have you run into?"
     },
     {
-      "title": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
-      "author": "m3nt3_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/",
-      "published": 1791012080.0,
-      "thumbnail": "https://preview.redd.it/sxjwis0ge7th1.jpeg?width=640&crop=smart&auto=webp&s=6b7dc59d9b33d192e44aa23a57cc9e59f592e04e",
+      "title": "How do you AI to be smarter not dumber?",
+      "author": "MassiveAd8751",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxef1u/how_do_you_ai_to_be_smarter_not_dumber/",
+      "published": 1791116602.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Introducing Oscilloscope Diffusion",
-      "author": "Chuka444",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/",
-      "published": 1791043440.0,
-      "thumbnail": "https://external-preview.redd.it/cWU5YzV5em16OXRoMRRcbsUB5bczVGJzm81eGC-H-gD1Xkd0ySh2aP8cTtBU.png?width=640&crop=smart&auto=webp&s=e1405aa2750ee41b47323b495fa784479270801d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A novel way to intervene existing video through diffusion, particularly abstract visuals [in this case, audio-reactive geometries]: taking its movement and form as the starting point, and reinterpreting its textures, materials, and visual language. I\u2019ve been developing this around the audio-reactive geometry systems I make in TouchDesigner. The idea is to take those abstract structures somewhere else entirely: origami, architecture, a renaissance painting, or something harder to put a name to. This demo uses visualizers from my \"Oscilloscopes, everywhere\" collection as source material, now updated to [v1.2]. [Though you can bring any video source. These systems are simply where this experiment began, as some of you may recall.] You choose the source, describe the treatment, and shape how it changes throughout the sequence. Prompts, curated LoRAs, and editable timelines give you control over how closely the result follows the original. Oscilloscope Diffusion is now available at Uisato Studio, coming up soon also open-source!"
-    },
-    {
-      "title": "Trump\u2019s \u2018super intelligence\u2019 is being mocked by tech industry insiders: report",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/",
-      "published": 1790973435.0,
-      "thumbnail": "https://external-preview.redd.it/8o0mQgkoN94DfPqEm2_OhkLTJTrnNZWuCmcMNjkg-Qg.jpeg?width=640&crop=smart&auto=webp&s=40954bc3606471103a1dc2851274a580f760dd8e",
-      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rebrand-b3060603.html",
-      "site_name": "The Independent",
-      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "\u2018It is a way for the CEOs to signal fealty to the president,\u2019 said one insider as others warned the private sector is unlikely to follow the president\u2019s edict"
-    },
-    {
-      "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/",
-      "published": 1791006597.0,
-      "thumbnail": "https://external-preview.redd.it/B4j-eq5-qWcDZ5QcZ17aG9AP-3ebkE0jP9n5G5VtHqU.jpeg?width=640&crop=smart&auto=webp&s=1c37dba81f5f77cc268c9c4f7c928e7991529604",
-      "external_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro."
+      "description": "Hi, I'm really interested in utilizing AI to be more knowledgeable about things. But how do you guys use it smartly and not make you dumber unintentionally? I have no plans to learn to prompt instead of learning how to write better. I want to excel in my career by knowing how to do things instead of simply operating AI agents and let them do all of it. Let me know how you use it, tia."
     }
   ],
-  "fetched_at": "2026-10-04T07:50:22.486658+00:00"
+  "fetched_at": "2026-10-04T13:44:37.689723+00:00"
 }
