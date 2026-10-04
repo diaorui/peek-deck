@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-04T18:00:21.297711+00:00'
+updated: '2026-10-04T21:15:34.985720+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 04, 2026 at 18:00 UTC  
+**Last Updated:** October 04, 2026 at 21:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,356.38
+### $85,945.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.1%  
-**30d:** +6.9%  
-**90d:** +34.7%  
-**1y:** -30.8%  
+**24h:** +1.5%  
+**7d:** +3.0%  
+**30d:** +7.8%  
+**90d:** +35.8%  
+**1y:** -30.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1714.47B
+**Market Cap:** $1728.01B
 Rank #1
 
-**Circulating Supply:** 20,093,321 BTC
+**Circulating Supply:** 20,093,400 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.3%
+-31.8%
 
 **All-Time Low:** $67.81
-+125732.5%
++126741.2%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[₿ears Anonymous](https://www.reddit.com/r/Bitcoin/comments/1wxf2i8/ears_anonymous/)**
 
-5h ago
+8h ago
 
 ---
 
 **[The true and much more important Bitcoin cycle](https://www.reddit.com/r/Bitcoin/comments/1wxgy29/the_true_and_much_more_important_bitcoin_cycle/)**
 
-3h ago
+6h ago
 
 ---
 
 **[Yes, but this doesn’t mean to gamble on leverage](https://www.reddit.com/r/Bitcoin/comments/1wx6ura/yes_but_this_doesnt_mean_to_gamble_on_leverage/)**
 
-13h ago
+16h ago
 
 ---
 
 **[Don’t Worry! Buying The Dip On Bitcoin Will Pay Off‼️💯🚀](https://www.reddit.com/r/Bitcoin/comments/1wx4a0x/dont_worry_buying_the_dip_on_bitcoin_will_pay_off/)**
 
-15h ago
+18h ago
 
 ---
 
 **[Me going to work after refreshing the charts for 48 hours over the weekend](https://www.reddit.com/r/Bitcoin/comments/1wx989q/me_going_to_work_after_refreshing_the_charts_for/)**
 
-10h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 I thought I'd share my journey and thoughts. I was into bitcoin relatively early (2012) and was fortunate enough to have been a hodler into the 2017 rally and exited at the top. I've been lucky enough to make good investments from bitcoin into real estate and some startups and stocks. Life almost 10 years later has been comfortable and all but a dream. Reconstructing what brought me here, I think it would be harder now than before despite it "looking" more attainable. Cryptocurrency which is more popular than ever now has become this dragon investor's chase. Away from the milieu of scams and scammers, earnest investors are hoping for the next big rally but I don't see anyone really planning beyond their imagined gains in personal and public interactions. As a true believer in the concept of Bitcoin I never sold even after the first few rallies to $1,000 even though I was up almost 80x when that first happened. I regularly bought the dips on occasion up until 2015, because I had conviction in blockchain and bitcoin, not because I just wanted to get rich. Getting rich was the consequence of the conviction. I was a paper millionaire and still going to work in 2016. When I sold the majority of my bitcoin, I still went to work. I didn't make any major lifestyle changes and instead did research on real estate, taxes, stocks and where to invest fiat. When I did quit a few months later it was non-climatic. I held my stance and stayed away from the ICOs and exchange explosion and just kept watching from the distance. I wasn't tempted by any of it because I already made a plan in my last months at work and chose to stick to it. I'm certain that saved me because some of my friends who were also believers lost it all in the ruckus by chasing the dragon and thinking they'd go from millionaire to billionaire in the same way. Sometimes, most times, it just happens once and it's best to call it luck and get out. So make a plan for the one time and stick to it.
 
-16h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ I thought I'd share my journey and thoughts. I was into bitcoin relatively early
 
 https://preview.redd.it/a9s2duavqeth1.png?width=1144&format=png&auto=webp&s=1a85b7ec227ad549c7ca594229610ec91909b655 hey so i just bought my first sum of bitcoin, can yall help me on what i should do?
 
-9h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ https://preview.redd.it/a9s2duavqeth1.png?width=1144&format=png&auto=webp&s=1a85
 
 Around 10–11 months ago, I gave a friend approximately $3,600 to invest in Bitcoin when it was at $86K. Ever since, whenever I’ve asked for my money back, he’s made excuses, saying Bitcoin crashed and he couldn’t return it. Now that Bitcoin is back around $86K, I asked him again. This is what he told me: I used Bybit. And it’s not as simple as just waiting for Bitcoin to stay above $86K. Since the money has been stuck for so long, the app keeps charging fees and adding them up. If I withdraw the money now, those fees will be deducted from the original $3,600, so I won’t be able to return the full amount. That’s why I want Bitcoin to stay above $86K for a few days or a week, so I can recover those fees and return the full $3,600.” I’m genuinely very concerned. I don’t know much about crypto, and I don’t understand how any of this works. Does Bybit actually charge ongoing fees for holding Bitcoin? Does his explanation make any sense, or is he just making excuses to keep my money? I’m starting to worry that he’s taking advantage of me because I’m a girl and assumes I don’t know any better. Please, if anyone has experience with Bybit or crypto, I’d really appreciate your advice. I’m genuinely worried about losing my money. this is all i have!!
 
-18h ago
+21h ago
 
 ---
 
@@ -141,7 +141,7 @@ Around 10–11 months ago, I gave a friend approximately $3,600 to invest in Bit
 
 Recommended reading: "A History of Central Banking and the Enslavement of Mankind" by Stephen Mitford Goodson
 
-22h ago
+1d ago
 
 ---
 
@@ -149,27 +149,27 @@ Recommended reading: "A History of Central Banking and the Enslavement of Mankin
 
 ## Google News: "bitcoin"
 
+**['Uptober' Starts Green as Bitcoin ETFs Draw $134 Million](https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million)**
+
+Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow.
+
+Decrypt News • 6h ago
+
+---
+
 **[Crypto ETFs Attract $10 Billion in Q3: Bitcoin Leads, But Solana’s Growth Soars](https://247wallst.com/investing/cryptocurrency/2026/10/03/crypto-etfs-attract-10-billion-in-q3-bitcoin-leads-but-solanas-growth-soars/)**
 
 In Q3, crypto ETFs brought in $10.2 billion, with Bitcoin funds receiving $6.3 billion, but Solana funds grew fastest at 42%.
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 22h ago
 
 ---
 
-**[The Quantum Issue: Quantum Isn’t Coming For Your Bitcoin](https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin)**
+**[Peter Schiff Says MicroStrategy Lost Its Bitcoin-Buying Power](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-microstrategy-lost-205131120.html)**
 
-From The Quantum Issue: Brandon Black considers all of the issues that might prevent a viable quantum computer from ever being built.
+Schiff says Strategy's Stretch rebound didn't reopen its STRC funding route, while MSTR sales still bought 1,665 BTC.
 
-Bitcoin Magazine • 3d ago
-
----
-
-**[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
-
-Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 24m ago
 
 ---
 
@@ -185,13 +185,29 @@ CNBC • 2d ago
 
 Bitcoin (BTC) is bullish on the weekly chart, according to Wellington-Altus Chief Market Strategist James E. Thorne. He said two major moving averages have turned upwards. He referred to the setup as a “Super Cycle.”Bitcoin’s weekly chart is one of the best-looking setups in the market, Thorne said…
 
-TradingView • 5h ago
+TradingView • 8h ago
 
 ---
 
-**[Bitcoin on Pace for Third Straight Weekly Gain on ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
+**[Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.](https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/)**
 
-Bloomberg.com • 1d ago
+Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Current price of Bitcoin for Oct. 2, 2026](https://fortune.com/article/price-of-bitcoin-10-02-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
 
 ---
 
@@ -203,25 +219,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
+**[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
 
-Reuters • 3d ago
-
----
-
-**[Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.](https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/)**
-
-Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues.
-
-The Motley Fool • 23h ago
-
----
-
-**[Current price of Bitcoin for Oct. 2, 2026](https://fortune.com/article/price-of-bitcoin-10-02-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
+TribLIVE.com • 3d ago
 
 ---
 
@@ -251,7 +251,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
 
-⬆️ 2 • 💬 1 • 5d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 2 • 💬 1 • 6d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
 
 ---
 
@@ -267,7 +267,15 @@ Best Bitcoin commercial I’ve recently seen
 
 In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.
 
-⬆️ 1 • 💬 0 • 3h ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
+⬆️ 1 • 💬 0 • 6h ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
+
+---
+
+**[Florida weighs ditching property taxes and sticking Canadians with the bill](https://news.ycombinator.com/item?id=49954499)**
+
+Florida voters are weighing whether to scrap residential property taxes and the state's governor has a solution to that potentially huge revenue loss: tax Canadians more.
+
+⬆️ 27 • 💬 26 • 6h ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
 
 ---
 
@@ -275,13 +283,13 @@ In the first race between personal AI agents, I hide real money online in bitcoi
 
 ## YouTube Videos: "bitcoin"
 
-**[Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?](https://www.youtube.com/watch?v=US01akVg4es)**
+**[$2 Million Bitcoin THIS CYCLE - Saylor Is About To Trigger a SUPPLY SHOCK](https://www.youtube.com/watch?v=s_mxQ8PUj_M)**
 
-No B.S. Just Charts. Bitcoin heads into a make-or-break week, and Gareth Soloway shows the exact bull flag level that decides ...
+Bitcoin could be heading toward a massive supply shock as Samson Mow predicts Michael Saylor, Adam Back and a growing ...
 
-📺 Gareth Soloway
+📺 Bitcoin News Alerts
 
-👁️ 6K • 👍 868 • 💬 65 • ⏱️ 15:03 • 1h ago
+👁️ 20K • 👍 425 • 💬 278 • ⏱️ 15:02 • 23h ago
 
 ---
 
@@ -291,27 +299,7 @@ Kris Bullock sits down with Ben Cowen to reassess the Bitcoin market after a bre
 
 📺 Real Vision
 
-👁️ 4K • 👍 278 • 💬 30 • ⏱️ 19:02 • 4h ago
-
----
-
-**[$2 Million Bitcoin THIS CYCLE - Saylor Is About To Trigger a SUPPLY SHOCK](https://www.youtube.com/watch?v=s_mxQ8PUj_M)**
-
-Bitcoin could be heading toward a massive supply shock as Samson Mow predicts Michael Saylor, Adam Back and a growing ...
-
-📺 Bitcoin News Alerts
-
-👁️ 18K • 👍 413 • 💬 225 • ⏱️ 15:02 • 20h ago
-
----
-
-**[It&#39;s Official: Bitcoin Has Won the Iran War!](https://www.youtube.com/watch?v=dnY5lD3njuc)**
-
-Bitcoin is outperforming through geopolitical chaos while the bond market flashes signs of serious stress. Trump is openly talking ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 2K • 💬 96 • ⏱️ 16:08 • 20h ago
+👁️ 20K • 👍 449 • 💬 61 • ⏱️ 19:02 • 7h ago
 
 ---
 
@@ -321,27 +309,27 @@ Four years ago Bitcoin was down 70% from its all-time high. Today it's only down
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 330 • 💬 22 • ⏱️ 46:36 • 3h ago
+👁️ 13K • 👍 429 • 💬 33 • ⏱️ 46:36 • 6h ago
 
 ---
 
-**[MAJOR PUMP COMING FOR BITCOIN &amp; ALTCOINS NEXT WEEK!? BNY BANK SECRET CRYPTO PLANS!](https://www.youtube.com/watch?v=3BoaEO6zPaE)**
+**[Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?](https://www.youtube.com/watch?v=US01akVg4es)**
 
-Crypto News: Bitcoin's chart looks bullish and a potential move to $92000 may come next week and altcoins will follow. BNY in ...
+No B.S. Just Charts. Bitcoin heads into a make-or-break week, and Gareth Soloway shows the exact bull flag level that decides ...
 
-📺 Thinking Crypto
+📺 Gareth Soloway
 
-👁️ 22K • 👍 778 • 💬 107 • ⏱️ 19:36 • 15h ago
+👁️ 32K • 👍 2K • 💬 139 • ⏱️ 15:03 • 4h ago
 
 ---
 
-**[Why Bitcoin&#39;s First Supercycle Could Be Starting Right Now!](https://www.youtube.com/watch?v=BFcETjdIIHQ)**
+**[Bitcoin RSI Bounce: HUGE Bull Run Incoming?](https://www.youtube.com/watch?v=ElB8eQ7TMpA)**
 
-Bitcoin's first real supercycle may be starting as Uptober collides with a worsening global bond market crisis. With Treasury yields ...
+Hurley talks about Bitcoin RSI Bounce: HUGE Bull Run Incoming? Brought to you by Ledn: ...
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 2K • 💬 87 • ⏱️ 15:10 • 2d ago
+👁️ 301 • 👍 17 • ⏱️ 0:41 • 45m ago
 
 ---
 
@@ -351,17 +339,37 @@ Bitcoin #Crypto #finance Hunter Horsley breaks down why institutional crypto ado
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 315 • 💬 93 • ⏱️ 48:50 • 5h ago
+👁️ 16K • 👍 388 • 💬 140 • ⏱️ 48:50 • 8h ago
 
 ---
 
-**[BITCOIN &amp; STOCKS...DO NOT MAKE THIS HUGE MISTAKE](https://www.youtube.com/watch?v=E2EKilKipp8)**
+**[MAJOR PUMP COMING FOR BITCOIN &amp; ALTCOINS NEXT WEEK!? BNY BANK SECRET CRYPTO PLANS!](https://www.youtube.com/watch?v=3BoaEO6zPaE)**
 
-My Private Group: (closed for now) My Trading Strategy Tutorial: Strategy tutorial : https://youtu.be/QltnRKhXi3A My Strategies ...
+Crypto News: Bitcoin's chart looks bullish and a potential move to $92000 may come next week and altcoins will follow. BNY in ...
 
-📺 Satoshi Stacker
+📺 Thinking Crypto
 
-👁️ 11K • 👍 341 • 💬 19 • ⏱️ 13:59 • 9h ago
+👁️ 23K • 👍 808 • 💬 114 • ⏱️ 19:36 • 18h ago
+
+---
+
+**[My Plan To Make Millions With Crypto Altcoins and Bitcoin [It&#39;s Big]](https://www.youtube.com/watch?v=d3e-LhppGMg)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 3K • 👍 373 • 💬 129 • ⏱️ 18:19 • 2h ago
+
+---
+
+**[Uptober Is Here! | Is Bitcoin’s Next Big Rally Just Getting Started?](https://www.youtube.com/watch?v=6Rj1NZcmVtE)**
+
+Bitcoin just jumped from $83K to $86.5K as October kicked off, the month Bitcoiners call Uptober, historically the start of an ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 78 • ⏱️ 15:28 • 1d ago
 
 ---
 
@@ -371,7 +379,7 @@ Will the rally in bitcoin move to new highs in 2027? It seems most people are no
 
 📺 Alessio Rastani
 
-👁️ 51K • 👍 2K • 💬 260 • ⏱️ 16:20 • 1d ago
+👁️ 53K • 👍 2K • 💬 221 • ⏱️ 16:20 • 1d ago
 
 ---
 
