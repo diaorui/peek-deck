@@ -61,21 +61,21 @@
       "site_name": "X (formerly Twitter)"
     },
     {
-      "title": "Cashing in on Dust",
-      "url": "https://news.ycombinator.com/item?id=49866832",
-      "hn_url": "https://news.ycombinator.com/item?id=49866832",
-      "author": "spottedmarley",
-      "points": 2,
+      "title": "Show HN: The first ever competition of AI personal agents on the internet",
+      "url": "https://instapath.ai/personal-agent-challenge",
+      "hn_url": "https://news.ycombinator.com/item?id=49954394",
+      "author": "ddaniel10",
+      "points": 1,
       "num_comments": 0,
-      "created_at": "2026-09-27T14:16:01Z",
-      "object_id": "49866832",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
+      "created_at": "2026-10-04T14:48:09Z",
+      "object_id": "49954394",
+      "image": "https://instapath.ai/personal-agent-challenge/preview",
+      "description": "In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.",
+      "favicon": "https://instapath.ai/apple-icon?f524f38a6e291b72",
+      "site_name": "instapath.ai"
     }
   ],
   "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-04T13:44:35.267134+00:00"
+  "fetched_at": "2026-10-04T18:00:02.674639+00:00"
 }

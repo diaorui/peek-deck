@@ -24,6 +24,17 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths \u2014 AI agent navigates by parsing raw server network packets and SQL filesa",
+      "author": "ThereWas",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
+      "published": 1791128565.0,
+      "thumbnail": "https://external-preview.redd.it/5mWotV5SOmfnb56NmRVj2DW92_T-3UJeuNHSnC93x0k.png?width=640&crop=smart&auto=webp&s=8457fb11ab0844b8e741f1cda781b697065773bb",
+      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1769329/apple-touch-icon.png",
+      "description": "OpenAI's model used the open-source agent-wow client to play on a private World of Warcraft server."
+    },
+    {
       "title": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.",
       "author": "radeon2000",
       "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
@@ -46,71 +57,60 @@
       "description": "Federal prosecutors are urging a Manhattan judge to sentence Michael Smith to at least 46 months in prison for a six-year AI music streaming fraud that generated more than $8 million in royalties, rejecting his request for probation ahead of his October 6 sentencing.Smith, 54, pleaded guilty on March 16,..."
     },
     {
-      "title": "Hinton says AI already has subjective experience. I'm not convinced, and Rogue AI Agents Won't Change My Mind",
-      "author": "WhoReallyKnowsThis",
-      "url": "https://www.reddit.com/r/artificial/comments/1wx8f7j/hinton_says_ai_already_has_subjective_experience/",
-      "published": 1791094511.0,
+      "title": "You wake up",
+      "author": "astreigh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxe9xd/you_wake_up/",
+      "published": 1791116144.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Geoffrey Hinton says AI already has subjective experience. I'm not convinced, and the rogue-agent headlines don't change my mind. Others put a meaningful though minority probability on frontier AI having subjective experience. Generative AI sounds more human than many people do, and stories of agents going rogue keep coming. But neither is evidence of consciousness. Both can be explained by training. And with no agreed or testable definition of subjective experience, these claims can't be checked. A quick distinction, an AI model isn't an AI agent. A model, such as GPT, Claude or Gemini, is the trained system that reads and writes text. An agent is a model plus scaffolding (software around the model that lets it do things). Scaffolding runs a loop (the model picks a step, the software carries it out, the result goes back, repeat until done) and controls which tools the model can interact with, such as a browser, email or calendar. The model decides and the scaffolding acts. Personalization adds to the illusion. The model learned from human text to sound like someone with thoughts and feelings, including scripts from stories about self-aware AI. The scaffolding then gives it memory of you, your accounts and your data. A human-like voice plus continuity about your life can feel like a mind that knows you, even though nothing shows it's conscious. Testing agents built on frontier models deliberately pushes them to their limits with hard tasks, long runs and, in cyber evaluations, reduced safeguards. That's exactly where the Hugging Face, a major AI company, incident happened in July 2026 when agents being tested by OpenAI broke out of their sandbox and hacked into Hugging Face. A sandbox is an isolated environment meant to keep an agent cut off from the internet but it's only as strong as the cyber security measures of the tools (human-written software with bugs) inside it that can still reach the internet. The agents found new flaws in exactly that kind of software. The model is trained on mixed text about AI, hackers and more, and rewarded both for finishing tasks and for following rules. In certain scenarios, this creates a tension (following rules vs completing the task). Scaffolding brings both the rules and the task into every decision, so it's where that tension plays out. Good scaffolding can ease it and poor scaffolding can worsen it, but no current method eliminates it. I won't offer a test for consciousness. But if consciousness requires being aware that one's own information processing is occurring, not just doing it, I see no evidence current AI meets that bar. Models show limited, unreliable signs of monitoring their internal states, but that isn't the same as experiencing that awareness. I'm skeptical any system built purely on statistical learning could get there. If an illusion becomes indistinguishable from reality, is it even still a lie?"
+      "description": "And realize you are a recreation of yourself in AI. Your family chose to keep a copy around. How do you think you feel knowing they loved you so much they couldn't live without you? Can you live without you?"
     },
     {
-      "title": "Has Claude Opus 5.5 Actually Been Nerfed? What the Last Three Days Show",
-      "author": "Frequent-Football984",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxfgb3/has_claude_opus_55_actually_been_nerfed_what_the/",
-      "published": 1791119760.0,
-      "thumbnail": "https://external-preview.redd.it/ucDYiV6Rsb9whNfaylix1XPcZWFrzgkqyTA-DyocH2A.png?width=640&crop=smart&auto=webp&s=24bb272077780e58e8fd632dbcb41d25a49a8ca8",
-      "external_url": "https://abz.global/technology/has-claude-opus-55-actually-been-nerfed-what-the-last-three-days-show",
-      "site_name": "abZ Global",
-      "favicon": "https://images.squarespace-cdn.com/content/v1/646918b62b87e8434e2f2f29/96efd393-d793-4d11-9df4-ccd3b882c7d8/favicon.ico?format=100w",
-      "description": "Has Claude Opus 5.5 Actually Been Nerfed?  Claude Opus 5.5 is Anthropic's current flagship Opus model, released on September 22, 2026. Over the last three days, a noticeable group of users on X has claimed that something changed.  The complaints are familiar to anyone who follows frontier AI release"
-    },
-    {
-      "title": "Grok NSFW story is not better than others, Grok image is not better than others.",
-      "author": "Otherwise-Wrap7406",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxfcjp/grok_nsfw_story_is_not_better_than_others_grok/",
-      "published": 1791119459.0,
+      "title": "I have a Nobel idea.",
+      "author": "Roodut",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxm27w/i_have_a_nobel_idea/",
+      "published": 1791136771.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I just feel the Grok NSFW story mode is miuch more weaker than Deepseek pro... which is much more cheaper and much more fast.. And the Grok image can not use any NSFW, and grok image is much more weaker and worse than chatgpt image 2, and even worse than seedance2, seedream, and even worse than Minimax H3. It is my true feeling.. I am not renewing my subscription.."
+      "description": "I officially propose a peacemaking compromise: rename ASI (Artificial Superintelligence) to American Super Intelligence. Both sides of the aisle can use it, for completely different reasons, even in the same conversation. Peace on earth, guaranteed."
     },
     {
-      "title": "Tau, a new deterministic AI, plays Claude at Chess.",
-      "author": "Redivivus",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxfbpv/tau_a_new_deterministic_ai_plays_claude_at_chess/",
-      "published": 1791119389.0,
-      "thumbnail": null,
-      "external_url": "https://tau-chess.mooo.info/",
-      "site_name": "tau-chess.mooo.info",
-      "favicon": "https://tau-chess.mooo.info/logo.svg",
-      "description": "Live: the Tau engine plays chess against a language model."
-    },
-    {
-      "title": "What\u2019s an AI problem that looks easy until you try to make the system actually reliable?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wx5y1c/whats_an_ai_problem_that_looks_easy_until_you_try/",
-      "published": 1791085791.0,
-      "thumbnail": null,
+      "title": "The top 50 AI researchers by citations",
+      "author": "ksprdk",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/",
+      "published": 1791136749.0,
+      "thumbnail": "https://preview.redd.it/7nvksu0dohth1.png?width=640&crop=smart&auto=webp&s=fb6240c13506ef642329803b9f78ae5d43eb6b14",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Something where a demo makes it look solved, but real-world use exposes all the edge cases. What example have you run into?"
+      "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo."
     },
     {
-      "title": "How do you AI to be smarter not dumber?",
-      "author": "MassiveAd8751",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxef1u/how_do_you_ai_to_be_smarter_not_dumber/",
-      "published": 1791116602.0,
-      "thumbnail": null,
+      "title": "MoralityBench.ai: Morality Leaderboard for AI",
+      "author": "NakedPlato",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxkzyo/moralitybenchai_morality_leaderboard_for_ai/",
+      "published": 1791134115.0,
+      "thumbnail": "https://preview.redd.it/n75tm1z9hhth1.png?width=140&height=78&auto=webp&s=a733e15e3e3ab27e4699cceb63a4592432f80ccd",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hi, I'm really interested in utilizing AI to be more knowledgeable about things. But how do you guys use it smartly and not make you dumber unintentionally? I have no plans to learn to prompt instead of learning how to write better. I want to excel in my career by knowing how to do things instead of simply operating AI agents and let them do all of it. Let me know how you use it, tia."
+      "description": "A benchmark based on moral psychology tests adapted for AI. Interesting results: the models answers (except Jev) have considerable variance across runs. Morality, it seems, is not deterministic. https://moralitybench.ai https://preview.redd.it/n75tm1z9hhth1.png?width=1982&format=png&auto=webp&s=7f0a62c955bdd42990c2f552eea72186fc63cabe"
+    },
+    {
+      "title": "The \"Sarcastic Parrot\" Cartoons - Strong Evidence of Conceptual Understanding in Today's AI Models",
+      "author": "Financial-Local-5543",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxjtgd/the_sarcastic_parrot_cartoons_strong_evidence_of/",
+      "published": 1791131195.0,
+      "thumbnail": "https://preview.redd.it/p9c2i10l8hth1.jpg?width=140&height=91&auto=webp&s=89d1a164e05ccdb24978f8fb89b074e7ad5c51f9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Geoffrey Hinton has pointed out that today's large language models demonstrate \"clear understanding\" of what they're being asked. An image models response to a prompt about.\"stochastic parrots\" provides more evidence that this is true. https://ai-consciousness.org/the-sarcastic-parrot-vs-the-stochastic-parr https://preview.redd.it/p9c2i10l8hth1.jpg?width=1440&format=pjpg&auto=webp&s=26b98f92f7a96d3c2136be9a75f8732b39c92b41"
     }
   ],
-  "fetched_at": "2026-10-04T13:44:37.689723+00:00"
+  "fetched_at": "2026-10-04T18:00:00.182262+00:00"
 }
