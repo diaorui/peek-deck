@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-04T07:50:46.727855+00:00'
+updated: '2026-10-04T13:45:01.175864+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 04, 2026 at 07:50 UTC  
+**Last Updated:** October 04, 2026 at 13:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Continuing to move from using the model directly to having the model write relia
 
 As i see there are different ways to train an AI model through machine learning/reinforcement, i was wondering if there were open source robots that can be 3D printed and programmed/trained with arduino for example through machine learning? I am quite confident i could maybe print a robot arm (maybe not a full robot body) to train for putting my t-shirts in order from a disordered cloth basket. Ok i know it is maybe basic (or maybe not 😅), i see it in a step by step project.
 
-2d ago
+3d ago
 
 ---
 
@@ -112,14 +112,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
-
-The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
-
-Business Insider • 1d ago
-
----
-
 **[Watch these defunct humanoid robots go full Terminator and dive into molten steel](https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal)**
 
 An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
@@ -128,9 +120,27 @@ Mashable • 1d ago
 
 ---
 
-**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
+**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
 
-The Hill • 1d ago
+The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+
+businessinsider.com • 1d ago
+
+---
+
+**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
+
+Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
+
+IEEE Spectrum • 4h ago
+
+---
+
+**[How robotics and physical AI can responsibly tackle key physical security challenges](https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/)**
+
+Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist.
+
+The Robot Report • 43m ago
 
 ---
 
@@ -138,7 +148,13 @@ The Hill • 1d ago
 
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-Financial Times • 20m ago
+Financial Times • 12h ago
+
+---
+
+**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
+
+The Hill • 1d ago
 
 ---
 
@@ -156,35 +172,17 @@ DefenseScoop • 1d ago
 
 ---
 
-**[In Robotics, Google Goes Android to Tesla’s Apple](https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple)**
+**[Rubber ducks and screwdrivers put dexterous new soft robotic gripper to the test](https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html)**
 
-While interviewing Google’s Koray Kavukcuoglu last week, I had a flash of deja vu.In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest ...
-
-The Information • 2d ago
+Tech Xplore • 20h ago
 
 ---
 
-**[Architects of Autonomy: Army activates 390A Robotics Technician MOS to forge battlefield overmatch](https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch)**
+**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
 
-FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec...
+Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
 
-army.mil • 1d ago
-
----
-
-**[PewDiePie launches AJAX AI model after an alleged ban by OpenAI](https://interestingengineering.com/ai-robotics/pewdiepie-ajax-ai-model-local-pc-openai-ban)**
-
-PewDiePie has unveiled Ajax, a fine-tuned 9B AI model designed to run locally through his self-hosted Odysseus workspace.
-
-Interesting Engineering • 13h ago
-
----
-
-**[Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.](https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/)**
-
-Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect.
-
-The Motley Fool • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -192,23 +190,13 @@ The Motley Fool • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
 
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
+What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
 
 📺 ejunky66
 
-👁️ 728K • 👍 11K • 💬 486 • ⏱️ 1:00 • 1d ago
-
----
-
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 36K • 👍 603 • 💬 73 • ⏱️ 13:23 • 1d ago
+👁️ 2K • 👍 58 • 💬 5 • ⏱️ 1:00 • 1h ago
 
 ---
 
@@ -218,7 +206,17 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 📺 Canada 2050
 
-👁️ 34K • 👍 844 • 💬 27 • ⏱️ 18:22 • 3d ago
+👁️ 35K • 👍 854 • 💬 27 • ⏱️ 18:22 • 3d ago
+
+---
+
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
+
+📺 ejunky66
+
+👁️ 809K • 👍 13K • 💬 611 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -228,47 +226,7 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 182K • 👍 2K • 💬 131 • ⏱️ 20:27 • 4d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
-
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
-
-📺 Innovation Core
-
-👁️ 226K • 👍 2K • 💬 149 • ⏱️ 21:02 • 5d ago
-
----
-
-**[Elon Musk Just Revealed What 1 Billion Robots Could Mean for Humanity 😬](https://www.youtube.com/watch?v=hJkR5DivsbQ)**
-
-Elon Musk says more than 1 billion humanoid robots could exist within the next 10 years — and he believes their combined ...
-
-📺 ejunky66
-
-👁️ 229K • 👍 2K • 💬 202 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
-
-Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
-
-📺 Fist To Face
-
-👁️ 78K • 👍 374 • 💬 26 • ⏱️ 0:11 • 1d ago
-
----
-
-**[Can This Humanoid Robot Solve the Elder Care Crisis?](https://www.youtube.com/watch?v=lIjQlZ_GxKo)**
-
-The US spends roughly $400 billion a year on long-term care, and for every 100 people over 65, only four formal caregivers exist.
-
-📺 Bloomberg Television
-
-👁️ 27K • 👍 180 • 💬 41 • ⏱️ 11:52 • 6d ago
+👁️ 184K • 👍 2K • 💬 132 • ⏱️ 20:27 • 4d ago
 
 ---
 
@@ -278,17 +236,57 @@ Why will Boston Dynamics win the humanoid robotics race? We've already commercia
 
 📺 Boston Dynamics
 
-👁️ 738K • 👍 8K • 💬 1K • ⏱️ 5:49 • 3d ago
+👁️ 743K • 👍 8K • 💬 1K • ⏱️ 5:49 • 4d ago
 
 ---
 
-**[How Amazon Uses 1 Million Robots to Process 600,000 Orders Every Hour](https://www.youtube.com/watch?v=XXVhNlNKxQA)**
+**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
 
-How Amazon uses 1 million robots to process 600000 orders every hour Every hour, Amazon processes more than 600000 ...
+A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
 
-📺 Mido Explained
+📺 ABC7 News Bay Area
 
-👁️ 176K • 👍 769 • 💬 50 • ⏱️ 14:00 • 6d ago
+👁️ 6K • 👍 20 • 💬 12 • ⏱️ 1:02 • 4d ago
+
+---
+
+**[Can This Humanoid Robot Solve the Elder Care Crisis?](https://www.youtube.com/watch?v=lIjQlZ_GxKo)**
+
+The US spends roughly $400 billion a year on long-term care, and for every 100 people over 65, only four formal caregivers exist.
+
+📺 Bloomberg Television
+
+👁️ 27K • 👍 181 • 💬 42 • ⏱️ 11:52 • 6d ago
+
+---
+
+**[Laurence Fishburne reads a warning to the robots that will eventually replace us](https://www.youtube.com/watch?v=EVMzECBZn8Y)**
+
+Laurence Fishburne reads a warning letter to the robots that will eventually replace us. In 2018, comedy writer Connor Relyea ...
+
+📺 Letters Live
+
+👁️ 195K • 👍 6K • 💬 464 • ⏱️ 5:13 • 5d ago
+
+---
+
+**[5 INSANE Humanoid Robots You Can Actually Buy in 2026](https://www.youtube.com/watch?v=wetRWg4xWA4)**
+
+In 2026, humanoid robots have moved out of the lab and onto the market. This video counts down five ultra realistic humanoids ...
+
+📺 Snap Shift
+
+👁️ 113K • 👍 651 • 💬 25 • ⏱️ 23:22 • 4d ago
+
+---
+
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
+
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
+
+📺 Innovation Core
+
+👁️ 227K • 👍 2K • 💬 150 • ⏱️ 21:02 • 5d ago
 
 ---
 
