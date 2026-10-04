@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-04T01:50:47.127279+00:00'
+updated: '2026-10-04T07:50:46.717738+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 04, 2026 at 01:50 UTC  
+**Last Updated:** October 04, 2026 at 07:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.5%  
-**30d:** +6.2%  
-**90d:** +33.8%  
-**1y:** -31.2%  
+**24h:** +0.4%  
+**7d:** +1.7%  
+**30d:** +6.5%  
+**90d:** +34.2%  
+**1y:** -31.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1703.14B
+**Market Cap:** $1707.58B
 Rank #1
 
 **Circulating Supply:** 20,093,006 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.8%
+-32.6%
 
 **All-Time Low:** $67.81
-+124900.7%
++125226.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 67
+### 65
 **GREED**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[I mean what else to do?](https://www.reddit.com/r/Bitcoin/comments/1wwk89c/i_mean_what_else_to_do/)**
 
-15h ago
+21h ago
 
 ---
 
 **[today is tomorrow's yesterday](https://www.reddit.com/r/Bitcoin/comments/1wwg5z5/today_is_tomorrows_yesterday/)**
 
-19h ago
+1d ago
 
 ---
 
@@ -101,7 +101,7 @@ We're at Feb 2023 cycle stage. We're going to $125k in six months and $250k by S
 
 Most people right now. Just buy and hodl.
 
-18h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Pretty simple question I have been wrestling for a while. Background: I am in my
 
 How much do you buy daily/weekly/monthly?
 
-16h ago
+22h ago
 
 ---
 
@@ -131,7 +131,7 @@ How much do you buy daily/weekly/monthly?
 
 God Candle Loading…
 
-1d ago
+2d ago
 
 ---
 
@@ -147,7 +147,7 @@ I sold 25% of my BTC holdings for dry powder in case this october/november "bloo
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-18h ago
+1d ago
 
 ---
 
@@ -157,7 +157,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2026/10/03/trump-just-gave-everyone-a-shocking-40-trillion-reason-to-buy-bitcoin-and-quickly/)**
 
-Forbes • 14h ago
+Forbes • 20h ago
 
 ---
 
@@ -169,11 +169,11 @@ Bitcoin pays no dividends, coupons, or rents, yet one ETF is distributing cash t
 
 ---
 
-**[Crypto ETFs Attract $10 Billion in Q3: Bitcoin Leads, But Solana’s Growth Soars](https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-attract-10-billion-223535745.html)**
+**[Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs](https://sg.finance.yahoo.com/news/bitcoin-holds-near-85-000-060013365.html)**
 
-Bitcoin pulled in billions while Solana barely cracked half a billion, yet one simple calculation flips the entire story of which crypto ETF investors actually favor right now.
+Investing.com -- Bitcoin hovered near $85,000 on Sunday as investors weighed a new U.S. regulatory development that could expand leveraged exposure to the world’s largest cryptocurrency.
 
-Yahoo Finance • 3h ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 1d ago
 
 **[Citi raises bitcoin, ether forecasts on strong crypto activity](https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/)**
 
-reuters.com • 2d ago
+Reuters • 2d ago
 
 ---
 
@@ -195,19 +195,21 @@ reuters.com • 2d ago
 
 A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
 
 ---
 
-**[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
+**[Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.](https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/)**
+
+Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues.
+
+The Motley Fool • 13h ago
+
+---
+
+**[Bitcoin on Pace for Third Straight Weekly Gain on ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin jumps above $85,000 as SEC custody proposal boosts institutional outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676)**
-
-Investing.com • 23h ago
 
 ---
 
@@ -215,13 +217,15 @@ Investing.com • 23h ago
 
 As Bitcoin struggled to break past $85,000 on Saturday, investors who bought into the apex cryptocurrency during last year's rally were selling more coins per day than at any other point this year, according to on-chain analytics firm Glassnode.On X, Glassnode grouped holders by when they bought an…
 
-TradingView • 12h ago
+TradingView • 18h ago
 
 ---
 
-**[‘Pure insanity’: West Deer grapples with Bitcoin mining company’s pollution and erratic coal trucks](https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/)**
+**[Current price of Bitcoin for Oct. 2, 2026](https://fortune.com/article/price-of-bitcoin-10-02-2026/)**
 
-triblive.com • 2d ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
@@ -237,7 +241,7 @@ These researchers found that there's a spike in Bitcoin activity around the time
 
 Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
 
-⬆️ 17 • 💬 6 • 1d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
+⬆️ 18 • 💬 6 • 2d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
 
 ---
 
@@ -279,7 +283,7 @@ Bitcoin could be heading toward a massive supply shock as Samson Mow predicts Mi
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 197 • 💬 138 • ⏱️ 15:02 • 3h ago
+👁️ 13K • 👍 336 • 💬 157 • ⏱️ 15:02 • 9h ago
 
 ---
 
@@ -289,17 +293,7 @@ Bitcoin is outperforming through geopolitical chaos while the bond market flashe
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 54 • ⏱️ 16:08 • 4h ago
-
----
-
-**[Uptober Is Here! | Is Bitcoin’s Next Big Rally Just Getting Started?](https://www.youtube.com/watch?v=6Rj1NZcmVtE)**
-
-Bitcoin just jumped from $83K to $86.5K as October kicked off, the month Bitcoiners call Uptober, historically the start of an ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 1K • 💬 83 • ⏱️ 15:28 • 1d ago
+👁️ 24K • 👍 2K • 💬 75 • ⏱️ 16:08 • 10h ago
 
 ---
 
@@ -309,27 +303,27 @@ Will the rally in bitcoin move to new highs in 2027? It seems most people are no
 
 📺 Alessio Rastani
 
-👁️ 37K • 👍 1K • 💬 188 • ⏱️ 16:20 • 14h ago
+👁️ 43K • 👍 1K • 💬 246 • ⏱️ 16:20 • 20h ago
 
 ---
 
-**[Is Bitcoin About to Shock Everyone in Q4?](https://www.youtube.com/watch?v=OklHv0Lsblo)**
+**[BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=w1K45pdvCGI)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Anthony Pompliano
+📺 Crypto World
 
-👁️ 118K • 👍 3K • 💬 160 • ⏱️ 49:05 • 12h ago
+👁️ 5K • 👍 247 • 💬 32 • ⏱️ 19:40 • 4h ago
 
 ---
 
-**[The 4-Year CRYPTO Cycle Is An ILLUSION...I Was Wrong About Bitcoin](https://www.youtube.com/watch?v=el_FW-gVlGg)**
+**[MAJOR PUMP COMING FOR BITCOIN &amp; ALTCOINS NEXT WEEK!? BNY BANK SECRET CRYPTO PLANS!](https://www.youtube.com/watch?v=3BoaEO6zPaE)**
 
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+Crypto News: Bitcoin's chart looks bullish and a potential move to $92000 may come next week and altcoins will follow. BNY in ...
 
-📺 Crypto Capital Venture
+📺 Thinking Crypto
 
-👁️ 17K • 👍 536 • 💬 248 • ⏱️ 15:30 • 11h ago
+👁️ 8K • 👍 477 • 💬 80 • ⏱️ 19:36 • 5h ago
 
 ---
 
@@ -339,17 +333,37 @@ Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncryp
 
 📺 Aaron Bennett
 
-👁️ 15K • 👍 536 • 💬 131 • ⏱️ 11:34 • 17h ago
+👁️ 17K • 👍 588 • 💬 134 • ⏱️ 11:34 • 23h ago
 
 ---
 
-**[The Bitcoin Cycle That Fooled Everyone](https://www.youtube.com/watch?v=NYloS_5a2rU)**
+**[Uptober Is Here! | Is Bitcoin’s Next Big Rally Just Getting Started?](https://www.youtube.com/watch?v=6Rj1NZcmVtE)**
 
-What if Bitcoin's October 2025 top was just A top, and not THE top? In this video, we explore the theory that Bitcoin's bull market ...
+Bitcoin just jumped from $83K to $86.5K as October kicked off, the month Bitcoiners call Uptober, historically the start of an ...
 
-📺 Coinsider
+📺 Simply Bitcoin
 
-👁️ 31K • 👍 514 • 💬 108 • ⏱️ 10:21 • 1d ago
+👁️ 28K • 👍 1K • 💬 74 • ⏱️ 15:28 • 1d ago
+
+---
+
+**[Is Bitcoin About to Shock Everyone in Q4?](https://www.youtube.com/watch?v=OklHv0Lsblo)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 142K • 👍 4K • 💬 175 • ⏱️ 49:05 • 18h ago
+
+---
+
+**[BITCOIN: THEY ARE LYING TO YOU! (shocking finding)](https://www.youtube.com/watch?v=O-DvmWrVuHY)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 207 • 💬 20 • ⏱️ 4:35 • 3h ago
 
 ---
 
@@ -359,17 +373,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 6K • 👍 225 • 💬 22 • ⏱️ 9:43 • 4h ago
-
----
-
-**[&quot;Crypto is about to get EXTREMELY INTERESTING&quot; AI Expert Lou Kerner EXPLAINS!!](https://www.youtube.com/watch?v=QeBP73hjPhs)**
-
-"AI agents are the best thing to ever happen to crypto" Lou Kerner Check out CoinDepo: https://cutt.ly/PynfjTOD Follow Lou on X: ...
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 985 • 💬 53 • ⏱️ 24:03 • 10h ago
+👁️ 11K • 👍 303 • 💬 26 • ⏱️ 9:43 • 10h ago
 
 ---
 

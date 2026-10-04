@@ -5,31 +5,21 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Can we predict the jobs robots will do?",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
-      "pub_date": 1790784060.0,
-      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
-    },
-    {
-      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
-      "source": "spectrum.ieee.org",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
-      "pub_date": 1790958686.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
-      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
+      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
+      "pub_date": 1790955540.0,
+      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
+      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
     },
     {
       "headline": "Watch these defunct humanoid robots go full Terminator and dive into molten steel",
       "source": "Mashable",
       "source_url": "https://mashable.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDhQbzhZRXR2QXp5TjR2NkFGS2h5dXhnWnJneldfS1ZYaDdGWV9aTDAtaHVOYzJUS2tDV19KMmgwUFE4ZHZZamw4Z0JiVVgxdDlXSGNoUkZwVHVZUEJkdlJDemlRdWdjdl9GZ0dDSEhha2haQUFLSmxFWFZPZnppQQ?oc=5",
-      "pub_date": 1790967606.0,
+      "pub_date": 1790967547.0,
       "article_url": "https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal",
       "image": "https://helios-i.mashable.com/imagery/videos/038Kvs4RzvYyhuwCANqB7ZH/hero-image.fill.size_1200x675.v1790964762.jpg",
       "description": "An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild."
@@ -49,20 +39,10 @@
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
-      "pub_date": 1791075604.0,
+      "pub_date": 1791099000.0,
       "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
-    },
-    {
-      "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
-      "source": "DefenseScoop",
-      "source_url": "https://defensescoop.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVndNYzRSYUhXbllrMVB0QW05Q2pEZFFiUnoyRUQ0dHJQLUstZllJLTRXZFNkaUR3UUYyaFpHR3J4amFjRE1hcTcyV29NWV9GU251YmpzNU9GQkpQQzVoUFVZTTVNaUtldEVhR0sxanZnTzlYRUZyT3g4d1d5LWtUbHFMM3VtMGYtTG5VeWxyUHM4YnZZblp2M3dMQ25ocEZSOTJVUmI3ZTl5RTRTbWc?oc=5",
-      "pub_date": 1790978926.0,
-      "article_url": "https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators/",
-      "image": "https://defensescoop.com/wp-content/uploads/sites/8/2026/10/9982087-e1790977738690.jpg",
-      "description": "Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology."
     },
     {
       "headline": "Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.",
@@ -75,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "MIT robot swims through water via living muscle cells",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTVRlb0VtQ25RRFJSNk9mSFJkUU1ZdEEzeWtuaXhNTnlGQVZUZnEwc2FkN3NNMl9rWjQwUmlzbHVmS1dhd1RKSzJXSWZOQVA3MFNBV2pnTEhxV3VQR0JUbjhPbmdaajM3R01iQWpFamh2NWFRNk93UlBqZEY?oc=5",
-      "pub_date": 1790989347.0,
-      "article_url": "https://newatlas.com/robotics/mit-robot-swims-light-living-muscle-cells/",
-      "image": "https://assets.newatlas.com/dims4/default/ae18159/2147483647/strip/true/crop/1800x945+0+127/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F8d%2F0a%2F2c4e524944869787ad1acf136f17%2Fmit-robomuscle-01-press-0.jpg&na.image_optimisation=0",
-      "description": "An MIT robot powered by a single layer of living muscle cells swam through a watery maze, following a light held in a researcher\u2019s hand. It is slow, tiny and nowhere near ready for the open ocean, but its thin design could point toward softer, cheaper swimming machines."
+      "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
+      "source": "DefenseScoop",
+      "source_url": "https://defensescoop.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVndNYzRSYUhXbllrMVB0QW05Q2pEZFFiUnoyRUQ0dHJQLUstZllJLTRXZFNkaUR3UUYyaFpHR3J4amFjRE1hcTcyV29NWV9GU251YmpzNU9GQkpQQzVoUFVZTTVNaUtldEVhR0sxanZnTzlYRUZyT3g4d1d5LWtUbHFMM3VtMGYtTG5VeWxyUHM4YnZZblp2M3dMQ25ocEZSOTJVUmI3ZTl5RTRTbWc?oc=5",
+      "pub_date": 1790978926.0,
+      "article_url": "https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators/",
+      "image": "https://defensescoop.com/wp-content/uploads/sites/8/2026/10/9982087-e1790977738690.jpg",
+      "description": "Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology."
     },
     {
       "headline": "In Robotics, Google Goes Android to Tesla\u2019s Apple",
@@ -103,8 +83,28 @@
       "article_url": "https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch",
       "image": "https://api.army.mil/e2/c/images/2026/10/02/2895c7c6/max1200.jpg",
       "description": "FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec..."
+    },
+    {
+      "headline": "PewDiePie launches AJAX AI model after an alleged ban by OpenAI",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcERNbHpKZXlWNWlYZEhpekFIMGxaU1NDdDNCMUtZdkZUU2V0ZUhyeWl2RmZ2VkZxNXFvZVYwRXpRTy02Ym5TZXFsV0FzSWNnZjF1R1VZOHhYVXdjRk16T0NLV0JLYmNvTmJZT3QwaEFnOUhhSFhQalRMWTVVSGtCTXlETkRHZjg0b2pMdE5lak13WEZG?oc=5",
+      "pub_date": 1791050760.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/pewdiepie-ajax-ai-model-local-pc-openai-ban",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Pewdiepie-ai-model.jpg",
+      "description": "PewDiePie has unveiled Ajax, a fine-tuned 9B AI model designed to run locally through his self-hosted Odysseus workspace."
+    },
+    {
+      "headline": "Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVBtWnVfb25LNm5kd21MUUxLR2JOblV6Y2lVUjBZUm14eG5Xb20wTzA5VDByZGdiVXNnaVlzaS05bk1zQWhNUURkVDZ4TjhEX1hyb25acUNRTFd1WHJxTzZJWHNVdUFjMi1iTHV3ZWtJVU5XXzBmbmRjYkdLQVVZVlY0b0VPLXFGSElmZGlTcXY1TUFXTDh0RA?oc=5",
+      "pub_date": 1790878920.0,
+      "article_url": "https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888977%2Ftesla-cybercab.jpg&w=1200&op=resize",
+      "description": "Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T01:50:45.386747+00:00"
+  "fetched_at": "2026-10-04T07:50:43.579802+00:00"
 }

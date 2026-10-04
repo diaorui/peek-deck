@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-04T01:50:47.133382+00:00'
+updated: '2026-10-04T07:50:46.723838+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 04, 2026 at 01:50 UTC  
+**Last Updated:** October 04, 2026 at 07:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,692.56
+### $2,695.25
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.4%  
-**7d:** +0.0%  
-**30d:** +8.5%  
-**90d:** +52.0%  
-**1y:** -40.3%  
+**7d:** +0.2%  
+**30d:** +8.7%  
+**90d:** +52.2%  
+**1y:** -40.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.67B
+**Market Cap:** $329.13B
 Rank #2
 
-**Circulating Supply:** 122,101,617 ETH
+**Circulating Supply:** 122,104,582 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.6%
+-45.5%
 
 **All-Time Low:** $0.43
-+621590.7%
++622433.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ I haven't been following up with eth for a while. Can anyone let me know whats a
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -126,7 +126,7 @@ I’ve really only studied bitcoin and not other crypto such as eth and want to 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -158,6 +158,46 @@ ethereum.org • 2d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative)**
+
+Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
+
+benzinga.com • 1d ago
+
+---
+
+**[Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch](https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/)**
+
+Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
+
+MarketForces Africa • 9h ago
+
+---
+
+**[Crypto job postings triple to over 1,200 in September, but applications fall](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)**
+
+Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.
+
+coindesk.com • 15h ago
+
+---
+
+**[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
+
+Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[BlackRock Bitcoin ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs](https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-bitcoin-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/)**
+
+BlackRock’s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT’s 50-day simple moving average…
+
+TradingView • 14h ago
+
+---
+
 **[Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down](https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down)**
 
 Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet.
@@ -166,51 +206,11 @@ Decrypt News • 1d ago
 
 ---
 
-**[Ethereum ETFs Saw Outflows Three Days Running After a $690 Million Week. Is Fund Demand Drying Up?](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-saw-outflows-three-000703151.html)**
-
-Ethereum ETFs pulled in $690 million one week, then sent investors rushing for the exits the next. Whether that reversal signals a deeper shift in appetite or just routine quarter-end shuffling could reshape how crypto funds compete heading into Q4.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto job postings triple to over 1,200 in September, but applications fall](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)**
-
-Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.
-
-CoinDesk • 9h ago
-
----
-
-**[BlackRock Bitcoin ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs](https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-bitcoin-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/)**
-
-BlackRock’s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT’s 50-day simple moving average…
-
-TradingView • 8h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative)**
-
-Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
-
-Benzinga • 1d ago
-
----
-
 **[MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)**
 
 MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat.
 
-The Hacker News • 2d ago
-
----
-
-**[Ethereum Crypto Presale Pepeto Announces Its Final Stages Before Binance While Cardano Price Prediction Targets $3.25](https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603)**
-
-DUBAI, United Arab Emirates, Oct.  02, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto has announced its crypto presale is entering its fi...
-
-markets.businessinsider.com • 1d ago
+The Hacker News • 3d ago
 
 ---
 
@@ -222,11 +222,11 @@ The Block • 2d ago
 
 ---
 
-**[Current price of Ethereum for Sept. 30, 2026](https://fortune.com/article/price-of-ethereum-09-30-2026/)**
+**[Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates](https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum's Oct. 6 Glamsterdam test will show whether validators coordinate around a target more than three times today’s 60 million default.
 
-Fortune • 3d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -234,13 +234,33 @@ Fortune • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee :&quot;Big Week for ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=dzsZT_6nuac)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 753 • 👍 56 • 💬 5 • ⏱️ 20:02 • 3h ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=w1K45pdvCGI)**
+
+BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 247 • 💬 32 • ⏱️ 19:40 • 4h ago
+
+---
+
 **[Ethereum vs Solana vs Sui: The Framework for the Next Crypto Cycle](https://www.youtube.com/watch?v=rBOz5JaVLWs)**
 
 Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
 📺 Milk Road
 
-👁️ 8K • 👍 218 • 💬 177 • ⏱️ 21:51 • 12h ago
+👁️ 9K • 👍 252 • 💬 166 • ⏱️ 21:51 • 18h ago
 
 ---
 
@@ -250,7 +270,7 @@ Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target 
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 191 • 💬 9 • ⏱️ 9:53 • 16h ago
+👁️ 10K • 👍 202 • 💬 10 • ⏱️ 9:53 • 22h ago
 
 ---
 
@@ -260,45 +280,7 @@ Tom Lee says the bull run is officially on and Uptober is here, with a path to $
 
 📺 Paul Barron Network
 
-👁️ 115K • 👍 2K • 💬 222 • ⏱️ 12:18 • 2d ago
-
----
-
-**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 199 • 💬 6 • ⏱️ 19:58 • 2d ago
-
----
-
-**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
-
-BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
-
-📺 McNallie Money
-
-👁️ 2K • 👍 101 • 💬 10 • ⏱️ 18:53 • 2d ago
-
----
-
-**[Ethereum&#39;s $2800 Secret: Bull Market or Bust?](https://www.youtube.com/watch?v=5QVQsSElPbs)**
-
-Ethereum is approaching a critical $2800 price zone. Some traders view this level as major resistance, with a breakout ...
-
-📺 Lark Davis
-
-👁️ 960 • 👍 26 • 💬 1 • ⏱️ 0:35 • 9h ago
-
----
-
-**[XRP AND ETH SENTIMENT CRASHES! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=9p2Y9LFqzJg)**
-
-📺 CryptoWendyO
-
-👁️ 10K • 👍 443 • 💬 9 • ⏱️ 1:58 • 1d ago
+👁️ 116K • 👍 2K • 💬 223 • ⏱️ 12:18 • 2d ago
 
 ---
 
@@ -312,23 +294,41 @@ Its estimated that by the year 2040 corporate landlords will own most, if not al
 
 ---
 
-**[Ethereum Price Prediction for the 2027-28 Bull Run](https://www.youtube.com/watch?v=bDNbyGn9fxk)**
+**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=AV0igI0P9SE)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCrqGnnM-JjpnQFWM9ICjRuw/join Sign up for Bitunix ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 World War Bitcoin
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 41 • 💬 5 • ⏱️ 11:46 • 1d ago
+👁️ 11K • 👍 201 • 💬 6 • ⏱️ 19:58 • 2d ago
 
 ---
 
-**[BMNR Stock Just Exploded 8% — Is Ethereum Starting a New Rally? ? 🚀 #bmnr  #bmnrstock](https://www.youtube.com/watch?v=3y29vPhKLhk)**
+**[XRP AND ETH SENTIMENT CRASHES! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=9p2Y9LFqzJg)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...
+📺 CryptoWendyO
 
-📺 TRADING  NEWS
+👁️ 11K • 👍 454 • 💬 9 • ⏱️ 1:58 • 1d ago
 
-👁️ 192 • 👍 10 • 💬 8 • ⏱️ 10:56 • 1d ago
+---
+
+**[BTCS CEO Q&amp;A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS](https://www.youtube.com/watch?v=PCkzD7WRSKg)**
+
+BTCS CEO Q&A 2026 | Latest Ethereum Treasury Stock News | Top ETH Stocks to Watch | BTCS This video was conducted on ...
+
+📺 McNallie Money
+
+👁️ 2K • 👍 101 • 💬 9 • ⏱️ 18:53 • 2d ago
+
+---
+
+**[Ethereum&#39;s $2800 Secret: Bull Market or Bust?](https://www.youtube.com/watch?v=5QVQsSElPbs)**
+
+Ethereum is approaching a critical $2800 price zone. Some traders view this level as major resistance, with a breakout ...
+
+📺 Lark Davis
+
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:35 • 15h ago
 
 ---
 

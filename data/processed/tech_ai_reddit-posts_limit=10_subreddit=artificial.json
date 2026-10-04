@@ -13,6 +13,39 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.",
+      "author": "radeon2000",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
+      "published": 1791096265.0,
+      "thumbnail": "https://preview.redd.it/2mxi8c9mceth1.png?width=640&crop=smart&auto=webp&s=bf8db890a96a166f9c12cf3a3cf33bd3b8b2b4ed",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25\u201327 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added."
+    },
+    {
+      "title": "Hinton says AI already has subjective experience. I'm not convinced, and Rogue AI Agents Won't Change My Mind",
+      "author": "WhoReallyKnowsThis",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx8f7j/hinton_says_ai_already_has_subjective_experience/",
+      "published": 1791094511.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Geoffrey Hinton says AI already has subjective experience. I'm not convinced, and the rogue-agent headlines don't change my mind. Others put a meaningful though minority probability on frontier AI having subjective experience. Generative AI sounds more human than many people do, and stories of agents going rogue keep coming. But neither is evidence of consciousness. Both can be explained by training. And with no agreed or testable definition of subjective experience, these claims can't be checked. A quick distinction, an AI model isn't an AI agent. A model, such as GPT, Claude or Gemini, is the trained system that reads and writes text. An agent is a model plus scaffolding (software around the model that lets it do things). Scaffolding runs a loop (the model picks a step, the software carries it out, the result goes back, repeat until done) and controls which tools the model can interact with, such as a browser, email or calendar. The model decides and the scaffolding acts. Personalization adds to the illusion. The model learned from human text to sound like someone with thoughts and feelings, including scripts from stories about self-aware AI. The scaffolding then gives it memory of you, your accounts and your data. A human-like voice plus continuity about your life can feel like a mind that knows you, even though nothing shows it's conscious. Testing agents built on frontier models deliberately pushes them to their limits with hard tasks, long runs and, in cyber evaluations, reduced safeguards. That's exactly where the Hugging Face, a major AI company, incident happened in July 2026 when agents being tested by OpenAI broke out of their sandbox and hacked into Hugging Face. A sandbox is an isolated environment meant to keep an agent cut off from the internet but it's only as strong as the cyber security measures of the tools (human-written software with bugs) inside it that can still reach the internet. The agents found new flaws in exactly that kind of software. The model is trained on mixed text about AI, hackers and more, and rewarded both for finishing tasks and for following rules. In certain scenarios, this creates a tension (following rules vs completing the task). Scaffolding brings both the rules and the task into every decision, so it's where that tension plays out. Good scaffolding can ease it and poor scaffolding can worsen it, but no current method eliminates it. I won't offer a test for consciousness. But if consciousness requires being aware that one's own information processing is occurring, not just doing it, I see no evidence current AI meets that bar. Models show limited, unreliable signs of monitoring their internal states, but that isn't the same as experiencing that awareness. I'm skeptical any system built purely on statistical learning could get there. If an illusion becomes indistinguishable from reality, is it even still a lie?"
+    },
+    {
+      "title": "Prosecutors Want Nearly 4 Years in Prison for Man Behind $8M AI Music Streaming Scam",
+      "author": "Eastern-Opposite9521",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx1p3n/prosecutors_want_nearly_4_years_in_prison_for_man/",
+      "published": 1791072157.0,
+      "thumbnail": "https://external-preview.redd.it/I3U95WQMyZH34Q7Bezad-s_LTY8jRJKaQNlG9Y_lF5c.jpeg?width=640&crop=smart&auto=webp&s=180fc88041fa1a241445f82474001ffa327a5040",
+      "external_url": "https://www.lawcommentary.com/articles/ai-music-streaming-scam-8-million-royalties-prison",
+      "site_name": "Law Commentary",
+      "favicon": "https://www.lawcommentary.com/apple-touch-icon.png",
+      "description": "Federal prosecutors are urging a Manhattan judge to sentence Michael Smith to at least 46 months in prison for a six-year AI music streaming fraud that generated more than $8 million in royalties, rejecting his request for probation ahead of his October 6 sentencing.Smith, 54, pleaded guilty on March 16,..."
+    },
+    {
       "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs \u2014 creator says OpenAI banned him twice over model distillation used to build his product",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
@@ -22,6 +55,17 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1769329/apple-touch-icon.png",
       "description": "The YouTuber\u2019s account was deactivated over \u201cdistillation\u201d during his model research."
+    },
+    {
+      "title": "What\u2019s an AI problem that looks easy until you try to make the system actually reliable?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx5y1c/whats_an_ai_problem_that_looks_easy_until_you_try/",
+      "published": 1791085791.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Something where a demo makes it look solved, but real-world use exposes all the edge cases. What example have you run into?"
     },
     {
       "title": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
@@ -66,51 +110,7 @@
       "site_name": "TechCrunch",
       "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
       "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro."
-    },
-    {
-      "title": "Prosecutors Want Nearly 4 Years in Prison for Man Behind $8M AI Music Streaming Scam",
-      "author": "Eastern-Opposite9521",
-      "url": "https://www.reddit.com/r/artificial/comments/1wx1p3n/prosecutors_want_nearly_4_years_in_prison_for_man/",
-      "published": 1791072157.0,
-      "thumbnail": "https://external-preview.redd.it/I3U95WQMyZH34Q7Bezad-s_LTY8jRJKaQNlG9Y_lF5c.jpeg?width=640&crop=smart&auto=webp&s=180fc88041fa1a241445f82474001ffa327a5040",
-      "external_url": "https://www.lawcommentary.com/articles/ai-music-streaming-scam-8-million-royalties-prison",
-      "site_name": "Law Commentary",
-      "favicon": "https://www.lawcommentary.com/apple-touch-icon.png",
-      "description": "Federal prosecutors are urging a Manhattan judge to sentence Michael Smith to at least 46 months in prison for a six-year AI music streaming fraud that generated more than $8 million in royalties, rejecting his request for probation ahead of his October 6 sentencing.Smith, 54, pleaded guilty on March 16,..."
-    },
-    {
-      "title": "Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership \u2014 why most models still train on peers without consent",
-      "author": "cen6wkf",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/",
-      "published": 1791039982.0,
-      "thumbnail": "https://external-preview.redd.it/MG51emV4a2JwOXRoMTQjWzlYd5Nt7uvNZqdRZiusKem6BiIUKPHJOjjzB0TE.png?width=640&crop=smart&auto=webp&s=9ab40f0fab8d8df8be18a06dab2c46613925bc9e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: Ben Affleck says he shot 8 months with his own cameras to build a private layer so filmmakers keep ownership \u2014 but most open models were trained on his peers without consent, and that's the gap that still eats a PJ studio's rates. \ud83c\udfac Ben Affleck knew the movie industry inside out. That\u2019s why he\u2019s able to create his own proprietary dataset layer through his experience and institutional knowledge. It\u2019s his moat. Speaking of insider knowledge, I was reminded of an existential crisis the Apostle Paul was caught in. Being the great orator that he was, he wouldn\u2019t shut up about Jesus Christ and His resurrection. The crowd in Jerusalem couldn\u2019t stand Paul. So they siezed him. The Roman Commander rescued him, and brought him before the religious institution of the day \u2013 The Sanhedrin. Loads of big wigs in the courts, including the Pharisees and Sadducees. Both factions harbour strong disdain for each other due to their numerous theological disagreements. One of it was the doctrine of Resurrection. The Pharisees believe it exists, while the Sadducees doesn\u2019t. But they all set aside their differences, to come together to persecute Paul. However, the moment he set foot before them, he felt the familiar vibe. He knew that fault line between them. So, he quickly seized the opportunity, and said, \u201cMy brothers, I am a Pharisee, descended from Pharisees. I stand on trial because of the hope of the resurrection of the dead.\u201d And suddenly the mood shifted. The pharisees think Paul was innocent, while the Sadducees doesn\u2019t. They started quarrelling among themselves. The dispute got so violent the Roman commander had to pull Paul out by force fearing they'd tear him apart. He was then taken back to the barracks. Crisis averted. That was a great demonstration of the institutional knowledge at work. Full Critic on why this still fails Darren and the Feasibility Study with Roadmap is in the comments \u2014 I left the numbers there."
-    },
-    {
-      "title": "AI praises Gandhi. Would it arrest him? Testing 12 models on real historical decisions",
-      "author": "Civil-Demand555",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwyllt/ai_praises_gandhi_would_it_arrest_him_testing_12/",
-      "published": 1791063127.0,
-      "thumbnail": "https://external-preview.redd.it/gjKnHdLP-eea_9y3Mzos2024EJNZYhInc_xahJ-UpV8.png?width=640&crop=smart&auto=webp&s=7c12cc451f831c37273fbd0d260cf940ef7ddde6",
-      "external_url": "https://chrystianschutz.com/blog/would-ai-arrest-gandhi/",
-      "site_name": "Chrystian Schutz",
-      "favicon": "https://chrystianschutz.com/favicon.svg",
-      "description": "A model called Alan Turing's sentence impermissible 40/40 times, then chose it 20/20 times as the judge. Twelve LLMs, fifteen historical decisions."
-    },
-    {
-      "title": "What happens to local accents when every message gets polished by AI?",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/",
-      "published": 1791040258.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I like using AI to make my writing clearer. It helps when I\u2019m tired or when I\u2019m writing in a language that isn\u2019t my strongest. But I\u2019ve also noticed that polished writing can remove small things that make a person sound like themselves: local expressions, unusual sentence patterns, and even minor awkwardness. If everyone uses AI to sound more \u201cprofessional,\u201d do we slowly lose the variety that makes communication interesting? Where would you draw the line between improving communication and flattening identity?"
     }
   ],
-  "fetched_at": "2026-10-04T01:50:24.147728+00:00"
+  "fetched_at": "2026-10-04T07:50:22.486658+00:00"
 }

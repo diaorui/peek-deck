@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-04T01:50:47.136588+00:00'
+updated: '2026-10-04T07:50:46.727855+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 04, 2026 at 01:50 UTC  
+**Last Updated:** October 04, 2026 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,19 +112,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
+**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
 
-What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
+The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
 
-Anthropic • 3d ago
-
----
-
-**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
-
-Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
-
-spectrum.ieee.org • 1d ago
+Business Insider • 1d ago
 
 ---
 
@@ -146,7 +138,13 @@ The Hill • 1d ago
 
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-Financial Times • 50m ago
+Financial Times • 20m ago
+
+---
+
+**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
+
+The New York Times • 3d ago
 
 ---
 
@@ -155,20 +153,6 @@ Financial Times • 50m ago
 Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology.
 
 DefenseScoop • 1d ago
-
----
-
-**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
-
-The New York Times • 2d ago
-
----
-
-**[MIT robot swims through water via living muscle cells](https://newatlas.com/robotics/mit-robot-swims-light-living-muscle-cells/)**
-
-An MIT robot powered by a single layer of living muscle cells swam through a watery maze, following a light held in a researcher’s hand. It is slow, tiny and nowhere near ready for the open ocean, but its thin design could point toward softer, cheaper swimming machines.
-
-New Atlas • 1d ago
 
 ---
 
@@ -188,6 +172,22 @@ army.mil • 1d ago
 
 ---
 
+**[PewDiePie launches AJAX AI model after an alleged ban by OpenAI](https://interestingengineering.com/ai-robotics/pewdiepie-ajax-ai-model-local-pc-openai-ban)**
+
+PewDiePie has unveiled Ajax, a fine-tuned 9B AI model designed to run locally through his self-hosted Odysseus workspace.
+
+Interesting Engineering • 13h ago
+
+---
+
+**[Not Cars. Not Energy Storage. Tesla's Robotics and Robotaxi Ambitions Are the Real Reason the Stock Is Priced Like a Tech Company.](https://www.fool.com/investing/2026/10/01/not-cars-not-energy-storage-teslas-robotics-and-ro/)**
+
+Investors are pricing a very promising future into Tesla shares, and the company could meet these lofty expectations. It's just likely to take longer than most people expect.
+
+The Motley Fool • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,7 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 📺 ejunky66
 
-👁️ 631K • 👍 9K • 💬 441 • ⏱️ 1:00 • 1d ago
+👁️ 728K • 👍 11K • 💬 486 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Figure just destroyed almost its entire Figure 02 fleet by training the humanoid
 
 📺 AI Revolution
 
-👁️ 33K • 👍 576 • 💬 72 • ⏱️ 13:23 • 1d ago
+👁️ 36K • 👍 603 • 💬 73 • ⏱️ 13:23 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 📺 Canada 2050
 
-👁️ 32K • 👍 810 • 💬 27 • ⏱️ 18:22 • 3d ago
+👁️ 34K • 👍 844 • 💬 27 • ⏱️ 18:22 • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 181K • 👍 2K • 💬 131 • ⏱️ 20:27 • 4d ago
+👁️ 182K • 👍 2K • 💬 131 • ⏱️ 20:27 • 4d ago
 
 ---
 
@@ -238,7 +238,7 @@ Tesla just accidentally leaked the finished design for Optimus Gen 3, and it rev
 
 📺 Innovation Core
 
-👁️ 225K • 👍 2K • 💬 149 • ⏱️ 21:02 • 5d ago
+👁️ 226K • 👍 2K • 💬 149 • ⏱️ 21:02 • 5d ago
 
 ---
 
@@ -248,37 +248,7 @@ Elon Musk says more than 1 billion humanoid robots could exist within the next 1
 
 📺 ejunky66
 
-👁️ 215K • 👍 2K • 💬 192 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Robot-human cage fights sent cease-and-desist in California](https://www.youtube.com/watch?v=sHi3bu41_tA)**
-
-Robot-human cage fights sent cease-and-desist in California. For more context and news coverage of the most important stories ...
-
-📺 NBC News
-
-👁️ 123K • 👍 1K • 💬 205 • ⏱️ 0:19 • 1d ago
-
----
-
-**[Can This Humanoid Robot Solve the Elder Care Crisis?](https://www.youtube.com/watch?v=lIjQlZ_GxKo)**
-
-The US spends roughly $400 billion a year on long-term care, and for every 100 people over 65, only four formal caregivers exist.
-
-📺 Bloomberg Television
-
-👁️ 27K • 👍 179 • 💬 41 • ⏱️ 11:52 • 6d ago
-
----
-
-**[5 INSANE Humanoid Robots You Can Actually Buy in 2026](https://www.youtube.com/watch?v=wetRWg4xWA4)**
-
-In 2026, humanoid robots have moved out of the lab and onto the market. This video counts down five ultra realistic humanoids ...
-
-📺 Snap Shift
-
-👁️ 103K • 👍 593 • 💬 23 • ⏱️ 23:22 • 4d ago
+👁️ 229K • 👍 2K • 💬 202 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -288,7 +258,37 @@ Humans last stand in boxing vs robots video from unknown source please message f
 
 📺 Fist To Face
 
-👁️ 73K • 👍 363 • 💬 26 • ⏱️ 0:11 • 21h ago
+👁️ 78K • 👍 374 • 💬 26 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Can This Humanoid Robot Solve the Elder Care Crisis?](https://www.youtube.com/watch?v=lIjQlZ_GxKo)**
+
+The US spends roughly $400 billion a year on long-term care, and for every 100 people over 65, only four formal caregivers exist.
+
+📺 Bloomberg Television
+
+👁️ 27K • 👍 180 • 💬 41 • ⏱️ 11:52 • 6d ago
+
+---
+
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+
+📺 Boston Dynamics
+
+👁️ 738K • 👍 8K • 💬 1K • ⏱️ 5:49 • 3d ago
+
+---
+
+**[How Amazon Uses 1 Million Robots to Process 600,000 Orders Every Hour](https://www.youtube.com/watch?v=XXVhNlNKxQA)**
+
+How Amazon uses 1 million robots to process 600000 orders every hour Every hour, Amazon processes more than 600000 ...
+
+📺 Mido Explained
+
+👁️ 176K • 👍 769 • 💬 50 • ⏱️ 14:00 • 6d ago
 
 ---
 
