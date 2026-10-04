@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEpXM1RvOUNJLVRza2oyR3NCQUZ1QkpXX3l4clloOEpydF9COUl2MmVlLVVKZ2dUTVk1UGxIT0NyTm1FZ3loV0VtUm1JWUhvR3lWQ3otamRhdFFfejIzRG5jQlY2RnRWZTl6dkRNc051TUE3TzhiT2luQVNBSGctZWhB?oc=5",
+      "pub_date": 1791126063.0,
+      "article_url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png",
+      "description": "Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow."
+    },
+    {
       "headline": "Crypto ETFs Attract $10 Billion in Q3: Bitcoin Leads, But Solana\u2019s Growth Soars",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -15,24 +25,14 @@
       "description": "In Q3, crypto ETFs brought in $10.2 billion, with Bitcoin funds receiving $6.3 billion, but Solana funds grew fastest at 42%."
     },
     {
-      "headline": "The Quantum Issue: Quantum Isn\u2019t Coming For Your Bitcoin",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd21KNGVRWTBRR1FURFliRXo5QWdqV1pZbDUyX2ljaFhITnJIeVFSc0todWtSdmNkRzFwTXZtSEo0UkxpUU9EUUFRZlNZR2UzTXBHM3VjZi14UzNSQ003YjRfaGRzRUZrZlh1bXRkdGJxRVVZUm1acWpXelNMX1QxelJOSmpuMFdma1k3eTl5TThvZw?oc=5",
-      "pub_date": 1790863670.0,
-      "article_url": "https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-Pessimistic-1024x597.png",
-      "description": "From The Quantum Issue: Brandon Black considers all of the issues that might prevent a viable quantum computer from ever being built."
-    },
-    {
-      "headline": "Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First",
+      "headline": "Peter Schiff Says MicroStrategy Lost Its Bitcoin-Buying Power",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFdFbnV0ZGp2cEZtaHhRenB5SzVaWklzQ2FqeU04b3NxMDB4MW1uQkhNSG83aEtCLTFEUWhxb0hHZ2hLSjZwRVdmU1U0cmUtUk82eEI5M3pJQV9rS2ZnRXlVTDRLX2pWZEM1VThhWXMzT3BtOHRQOWNjbDVYdzJQVFJiUWxDU3NfYjhxdkljaWEtdXVObWtkNTJ3?oc=5",
-      "pub_date": 1790991060.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f948f41b6cf6ac5c7cfa03fc0e45172fc8bb1475212b04316a1f99628e0746b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0dbcc436be3c2827b498b2f47ec3d832.jpg",
-      "description": "Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get."
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1k4eGxhZlZqQk1lSm5hTFFfeEk5cEI2QURuUU1RYmVJaGVHQ1A1Ukc5bEVWdWlpN2RncS0zWWRWY3A0ZlBtb2pmSVhNY3dKb19ieEhrUnE4eGx5cWszSGpYWUVJZTB0TjRmR1RFeWFES2VCejJaS3AxZHJaRGIxaWp2TTlmRjhlOVJQU2g0YU5tX1pQWmpwRGp2U29zRGNKYUVV?oc=5",
+      "pub_date": 1791147091.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-microstrategy-lost-205131120.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8fd49012d9821ff59cfeaddf77ebe19191a12becf931938643226cdddb1f55f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8746021bf08a2b66c5292adbe576686d.png",
+      "description": "Schiff says Strategy's Stretch rebound didn't reopen its STRC funding route, while MSTR sales still bought 1,665 BTC."
     },
     {
       "headline": "Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter",
@@ -55,7 +55,17 @@
       "description": "Bitcoin (BTC) is bullish on the weekly chart, according to Wellington-Altus Chief Market Strategist James E. Thorne. He said two major moving averages have turned upwards. He referred to the setup as a \u201cSuper Cycle.\u201dBitcoin\u2019s weekly chart is one of the best-looking setups in the market, Thorne said\u2026"
     },
     {
-      "headline": "Bitcoin on Pace for Third Straight Weekly Gain on ETF Demand",
+      "headline": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkhLTzdHczFHQUd3Sk5ZS2dVdW9CQkMzeWo0T3BiUlJLSU9fb1R0WHBMaWNhcFN6cWNFZWJEYUlSbFdDZmNNejdPQnVoQTZzM05KcVF6ZHBDWHFCMDFwVTRkU19uMzBqWEZZVzNzMk0yaU1qRFlQSzV5UG8xeEJVbm9SbkVWTWFYRFFwS1A5SmM1czgzUXBR?oc=5",
+      "pub_date": 1791052980.0,
+      "article_url": "https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887780%2Fgolden-bitcoin-coin-representing-the-electronic-currency-getty-images.jpg&w=1200&op=resize",
+      "description": "Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues."
+    },
+    {
+      "headline": "Bitcoin Rises for Third Straight Week on Strong ETF Demand",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1lPMTdTY2JpRzhkQlhWT1RzN0JfU0tHWEJfaVJndUtyc3gyWEtiVm0zLTZXRVZ4UmRZSXBvV0J1UVppbkpJMmd0b2ttTDVSaUF2dFVJOE5DVFE1Ykx2MFhWcGtYU2Q1LWVwWXRqWFl4dVZVcDNGN1ptVVVOWEJ1T3lEb3FJdzhzS2JQeTRTdUdtVGMxZjgtazk3S3N1X28ySGZIZGF2M2FNNUhTbHc?oc=5",
@@ -63,6 +73,16 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Current price of Bitcoin for Oct. 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYks3Z0VUVnMwUl95d1ZLQUdSR3ZKelg3NlZtQ0pMMlJSN3VvSnc5MzhXQTJPTWd6Y1BEeTkyME1tTWVja3lfQ0NhZk5jcXVlYmtTSFR1ZlNWSE53QjlQX21vX0dSQlk?oc=5",
+      "pub_date": 1790947800.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Oct-2.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "Tether\u2019s $190 billion USDT stablecoin is coming back to the Bitcoin network this month",
@@ -75,36 +95,16 @@
       "description": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT, and loans backed by BTC, while keeping most transaction data off Bitcoin\u2019s public ledger."
     },
     {
-      "headline": "Citi raises bitcoin, ether forecasts on strong crypto activity",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5",
-      "pub_date": 1790844776.0,
-      "article_url": "https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/",
+      "headline": "\u2018Pure insanity\u2019: West Deer grapples with Bitcoin mining company\u2019s pollution and erratic coal trucks",
+      "source": "TribLIVE.com",
+      "source_url": "https://triblive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOck9XaFNuRkNDN3Y1Q2hiUGFBMEhjUHl4YVY4TWxWNk1FNnpSMWdGUC1uYUFKZFFWRmlvYm1MOHlUZzhWMHljNUVYbU44NTE4cW5vOE9CazJKbXlNZERZNEVzcXZTZGdUMGNFRDBwSmV4YklDVlZENjFIRTdUREszdjdBWHN2ODJQWTBZbHF4b0ctaGFVcnFFN1dTQXNGODBQQmxKQUcxeDNLTGRKQy1fN0kyVUF2R2xxZXU5Q2JQeHdwVnEtYXVKMFZMejJTTDBPSDRBb2l5TVVMNm5v?oc=5",
+      "pub_date": 1790868464.0,
+      "article_url": "https://triblive.com/local/valley-news-dispatch/pure-insanity-west-deer-grapples-with-bitcoin-mining-companys-pollution-and-erratic-coal-trucks/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkhLTzdHczFHQUd3Sk5ZS2dVdW9CQkMzeWo0T3BiUlJLSU9fb1R0WHBMaWNhcFN6cWNFZWJEYUlSbFdDZmNNejdPQnVoQTZzM05KcVF6ZHBDWHFCMDFwVTRkU19uMzBqWEZZVzNzMk0yaU1qRFlQSzV5UG8xeEJVbm9SbkVWTWFYRFFwS1A5SmM1czgzUXBR?oc=5",
-      "pub_date": 1791052980.0,
-      "article_url": "https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887780%2Fgolden-bitcoin-coin-representing-the-electronic-currency-getty-images.jpg&w=1200&op=resize",
-      "description": "Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues."
-    },
-    {
-      "headline": "Current price of Bitcoin for Oct. 2, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYks3Z0VUVnMwUl95d1ZLQUdSR3ZKelg3NlZtQ0pMMlJSN3VvSnc5MzhXQTJPTWd6Y1BEeTkyME1tTWVja3lfQ0NhZk5jcXVlYmtTSFR1ZlNWSE53QjlQX21vX0dSQlk?oc=5",
-      "pub_date": 1790947800.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-02-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Oct-2.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T18:00:14.135981+00:00"
+  "fetched_at": "2026-10-04T21:15:20.264234+00:00"
 }

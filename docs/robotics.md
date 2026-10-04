@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-04T18:00:21.306980+00:00'
+updated: '2026-10-04T21:15:34.994924+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 04, 2026 at 18:00 UTC  
+**Last Updated:** October 04, 2026 at 21:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I was reading recent news from Neura robotics and they have robots that are aime
 
 Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've been working on data-collection infrastructure for teams training VLA / imitation-learning models, and I'd like feedback from people who've actually collected teleop data. The problem we kept hitting: most teams collect demos on improvised rigs. Camera angles drift between sessions, schemas change, joint-state rates don't match the deployed system, and you end up with months of data that trains poorly. So we built the Harvester: - 2× UFactory xArm 7 (14 DoF total) on a portable aluminum frame with casters, adjustable height, 90° or 45° arm mounts - Teleop with Meta Quest controllers, but the headset stays on the desk as a tracking reference, so operators aren't wearing it for hours - Switchable scaling profiles (slow/precise vs fast repositioning) on a button press - Cartesian control using UFactory's online trajectory planning (streamed targets, not pre-planned trajectories) - Multi-view Intel RealSense RGB + aligned depth, joint states at 100 Hz, commanded vs achieved poses, gripper state, all hardware-timestamped - ROS 2 Humble, one .mcap rosbag per run, converts straight to a LeRobot dataset for Hugging Face I'd love feedback on: Headset-off Quest teleop vs leader-follower arms (GELLO, ALOHA-style). What's worked better for you? What do you wish your collection pipeline recorded that it doesn't? Anything in the technical writeup that seems off or missing? Site: paddydata.ai (password: harvest). The technical page has the full topic list and architecture. Disclaimer: the site isn't 100% finished yet. We officially launch next week, so a few pages are still rough. Happy to answer anything in the comments.
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[My research project has hit a technological ceiling that is impenetrable for me, as it is impossible without robotics.](https://www.reddit.com/r/robotics/comments/1wud6c7/my_research_project_has_hit_a_technological/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -124,15 +124,7 @@ Business Insider • 2d ago
 
 An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
 
-Mashable • 1d ago
-
----
-
-**[Humanoid robots destroy themselves after being decommissioned](https://www.independent.co.uk/tech/robot-suicide-humanoid-death-figure-b3060486.html)**
-
-The two-year-old robots were trained to throw themselves into molten steel after no longer serving a purpose
-
-The Independent • 2d ago
+Mashable • 2d ago
 
 ---
 
@@ -144,17 +136,35 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
+
+Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
+
+IEEE Spectrum • 2d ago
+
+---
+
 **[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
 
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-Financial Times • 16h ago
+Financial Times • 20h ago
 
 ---
 
-**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
+**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
 
-The Hill • 1d ago
+It’s Real Steel come to life.
+
+Tom's Hardware • 6h ago
+
+---
+
+**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
+
+Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -166,25 +176,17 @@ DefenseScoop • 1d ago
 
 ---
 
-**[Cute Delivery Robots Have Invaded New Jersey. Not Everyone Is Charmed.](https://www.nytimes.com/2026/10/01/nyregion/food-delivery-robots-coco-avride-jersey-city.html)**
-
-The New York Times • 3d ago
-
----
-
 **[Queen's University students blast off to US for Nasa robotics competition](https://www.bbc.com/news/articles/cq20v0e7vjkgo)**
 
 The students will head to Florida to compete against university teams from Australia, India and the US.
 
-BBC • 12h ago
+BBC • 15h ago
 
 ---
 
-**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
+**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
 
-Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
-
-Yahoo Finance • 3d ago
+thehill.com • 2d ago
 
 ---
 
@@ -198,17 +200,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 9K • 👍 266 • 💬 17 • ⏱️ 1:00 • 6h ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
-
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
-
-📺 Innovation Core
-
-👁️ 228K • 👍 2K • 💬 150 • ⏱️ 21:02 • 5d ago
+👁️ 18K • 👍 417 • 💬 28 • ⏱️ 1:00 • 9h ago
 
 ---
 
@@ -218,17 +210,7 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 📺 ejunky66
 
-👁️ 940K • 👍 15K • 💬 682 • ⏱️ 1:00 • 2d ago
-
----
-
-**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
-
-Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
-
-📺 The Geo Network
-
-👁️ 185K • 👍 3K • 💬 132 • ⏱️ 20:27 • 4d ago
+👁️ 1.1M • 👍 18K • 💬 830 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -238,27 +220,57 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 📺 Canada 2050
 
-👁️ 35K • 👍 878 • 💬 27 • ⏱️ 18:22 • 3d ago
+👁️ 36K • 👍 902 • 💬 28 • ⏱️ 18:22 • 4d ago
 
 ---
 
-**[Atlas Learned This Hand Movement in Simulation #ai  #bostondynamics  #atlas  #robotics  #rl](https://www.youtube.com/watch?v=znIuXteb4rQ)**
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
 
-Boston Dynamics' latest Atlas hand has 4 fingers and 13 degrees of freedom. More importantly, it was designed around ...
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
 
-📺 Understanding AI HQ
+📺 AI Revolution
 
-👁️ 18K • 👍 235 • 💬 13 • ⏱️ 0:13 • 2d ago
+👁️ 41K • 👍 646 • 💬 75 • ⏱️ 13:23 • 1d ago
 
 ---
 
-**[5 INSANE Humanoid Robots You Can Actually Buy in 2026](https://www.youtube.com/watch?v=wetRWg4xWA4)**
+**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
 
-In 2026, humanoid robots have moved out of the lab and onto the market. This video counts down five ultra realistic humanoids ...
+Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
 
-📺 Snap Shift
+📺 The Geo Network
 
-👁️ 120K • 👍 690 • 💬 27 • ⏱️ 23:22 • 4d ago
+👁️ 186K • 👍 3K • 💬 132 • ⏱️ 20:27 • 4d ago
+
+---
+
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
+
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
+
+📺 Innovation Core
+
+👁️ 229K • 👍 2K • 💬 150 • ⏱️ 21:02 • 5d ago
+
+---
+
+**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
+
+A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
+
+📺 DW News
+
+👁️ 155K • 👍 650 • 💬 256 • ⏱️ 3:46 • 5d ago
+
+---
+
+**[THIS War Robots Build is SO TOXIC...](https://www.youtube.com/watch?v=3JSTk3QnRmo)**
+
+War Robots Gameplay: Most TOXIC Samjok build ever with Iaraghi. My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 16K • 👍 474 • 💬 102 • ⏱️ 17:31 • 1d ago
 
 ---
 
@@ -272,23 +284,13 @@ This new generation hand is the perfect companion for Atlas. With 13 degrees of 
 
 ---
 
-**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
 
-Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
 
-📺 Fist To Face
+📺 Boston Dynamics
 
-👁️ 84K • 👍 389 • 💬 26 • ⏱️ 0:11 • 1d ago
-
----
-
-**[Anduril Dive LD: The Pentagon&#39;s Plan to Build Thousands of Robot Subs](https://www.youtube.com/watch?v=z5vJZLvGDGU)**
-
-Anduril's Dive-LD is a modular underwater drone built for long-duration missions at extreme depths. Three veterans of the ...
-
-📺 Megaprojects
-
-👁️ 200K • 👍 2K • 💬 412 • ⏱️ 16:43 • 2d ago
+👁️ 751K • 👍 8K • 💬 1K • ⏱️ 5:49 • 4d ago
 
 ---
 
