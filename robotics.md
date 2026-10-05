@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-05T15:08:17.023576+00:00'
+updated: '2026-10-05T22:08:02.995814+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 05, 2026 at 15:08 UTC  
+**Last Updated:** October 05, 2026 at 22:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I was reading recent news from Neura robotics and they have robots that are aime
 
 Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've been working on data-collection infrastructure for teams training VLA / imitation-learning models, and I'd like feedback from people who've actually collected teleop data. The problem we kept hitting: most teams collect demos on improvised rigs. Camera angles drift between sessions, schemas change, joint-state rates don't match the deployed system, and you end up with months of data that trains poorly. So we built the Harvester: - 2× UFactory xArm 7 (14 DoF total) on a portable aluminum frame with casters, adjustable height, 90° or 45° arm mounts - Teleop with Meta Quest controllers, but the headset stays on the desk as a tracking reference, so operators aren't wearing it for hours - Switchable scaling profiles (slow/precise vs fast repositioning) on a button press - Cartesian control using UFactory's online trajectory planning (streamed targets, not pre-planned trajectories) - Multi-view Intel RealSense RGB + aligned depth, joint states at 100 Hz, commanded vs achieved poses, gripper state, all hardware-timestamped - ROS 2 Humble, one .mcap rosbag per run, converts straight to a LeRobot dataset for Hugging Face I'd love feedback on: Headset-off Quest teleop vs leader-follower arms (GELLO, ALOHA-style). What's worked better for you? What do you wish your collection pipeline recorded that it doesn't? Anything in the technical writeup that seems off or missing? Site: paddydata.ai (password: harvest). The technical page has the full topic list and architecture. Disclaimer: the site isn't 100% finished yet. We officially launch next week, so a few pages are still rough. Happy to answer anything in the comments.
 
-3d ago
+4d ago
 
 ---
 
@@ -90,7 +90,7 @@ What is the difference between building in functional safety early on vs waiting
 
 Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 219-mile section of I-45 in Texas. Commercial driverless service is planned for the end of 2026; current preparation runs still have a safety observer aboard. Over four years, Kodiak says it has carried more than 1,300 IKEA loads and logged over 750,000 autonomous miles with an observer. That work has included coordinating delivery timing with dock availability and using vehicle data to plan maintenance.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run) • 3d ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run) • 4d ago
 
 ---
 
@@ -98,13 +98,13 @@ Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 2
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 4d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 5d ago
 
 ---
 
 **[My research project has hit a technological ceiling that is impenetrable for me, as it is impossible without robotics.](https://www.reddit.com/r/robotics/comments/1wud6c7/my_research_project_has_hit_a_technological/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -114,21 +114,45 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
 
-WSJ • 45m ago
+WSJ • 15h ago
 
 ---
 
-**[German robot startup RobCo hits $1 billion valuation, CEO moves to US](https://www.reuters.com/legal/transactional/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-us-2026-10-05/)**
+**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
 
-Reuters • 2h ago
+The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+
+businessinsider.com • 3d ago
 
 ---
 
-**[German robotics startup RobCo hits $1 billion valuation](https://qz.com/robco-unicorn-valuation-secondary-share-sale-100526)**
+**[Orbital Robotics gets set to send up a pair of arms for International Space Station’s robots](https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/)**
 
-The Munich-founded company doubled its valuation in nine months as investors pile into physical AI and autonomous industrial robotics
+Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration.
 
-qz.com • 1h ago
+GeekWire • 9h ago
+
+---
+
+**[Human vs humanoid robot cage fight goes viral](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)**
+
+Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force..
+
+Fox News • 8h ago
+
+---
+
+**[The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
+
+The New York Times • 9h ago
+
+---
+
+**[Panasonic to make humanoid robots, leveraging its battery business](https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business)**
+
+Company aims to start production by 2029; machines to work in plants, warehouses
+
+Nikkei Asia • 14h ago
 
 ---
 
@@ -140,41 +164,11 @@ DefenseScoop • 2d ago
 
 ---
 
-**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
-
-Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
-
-It’s Real Steel come to life.
-
-Tom's Hardware • 1d ago
-
----
-
-**[The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
-
-The New York Times • 2h ago
-
----
-
-**[The hottest trip for Silicon Valley investors? Robot factories in China](https://www.businessinsider.com/why-silicon-valley-investors-are-touring-chinas-robot-factories-2026-10)**
-
-Robotics may be Silicon Valley's latest obsession, but China has spent years building up its industry.
-
-Business Insider • 5h ago
-
----
-
 **[Can Safeworld convince people that GenAI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)**
 
 Safeworld is building digital humans to make sure robots don't hurt the real ones.
 
-TechCrunch • 3h ago
+TechCrunch • 10h ago
 
 ---
 
@@ -183,6 +177,14 @@ TechCrunch • 3h ago
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
 Financial Times • 1d ago
+
+---
+
+**[One of Amazon’s most advanced U.S. facilities opens near Wilmington](https://www.yahoo.com/news/us/articles/one-amazon-most-advanced-u-171505844.html)**
+
+A new Amazon robotics center is open in Wilmington. It employs over 1,100 people and promises faster deliveries.
+
+Yahoo • 4h ago
 
 ---
 
@@ -196,7 +198,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 52K • 👍 921 • 💬 61 • ⏱️ 1:00 • 1d ago
+👁️ 63K • 👍 1K • 💬 69 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -206,27 +208,7 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 189K • 👍 3K • 💬 133 • ⏱️ 20:27 • 5d ago
-
----
-
-**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
-
-Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
-
-📺 Canada 2050
-
-👁️ 38K • 👍 974 • 💬 33 • ⏱️ 18:22 • 4d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
-
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
-
-📺 Innovation Core
-
-👁️ 233K • 👍 2K • 💬 153 • ⏱️ 21:02 • 6d ago
+👁️ 193K • 👍 3K • 💬 133 • ⏱️ 20:27 • 6d ago
 
 ---
 
@@ -236,17 +218,47 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 📺 ejunky66
 
-👁️ 2.5M • 👍 41K • 💬 2K • ⏱️ 1:00 • 3d ago
+👁️ 3.2M • 👍 50K • 💬 2K • ⏱️ 1:00 • 3d ago
 
 ---
 
-**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
 
-A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
 
-📺 ABC7 News Bay Area
+📺 Canada 2050
 
-👁️ 6K • 👍 22 • 💬 12 • ⏱️ 1:02 • 5d ago
+👁️ 39K • 👍 1K • 💬 35 • ⏱️ 18:22 • 5d ago
+
+---
+
+**[Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1,000/Week!](https://www.youtube.com/watch?v=X4S0BCo_i2g)**
+
+Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1000/Week! Tesla Bot Gen 3 could be Tesla's biggest step ...
+
+📺 TESLA CAR WORLD
+
+👁️ 225K • 👍 1K • 💬 250 • ⏱️ 12:51 • 4d ago
+
+---
+
+**[Tesla Optimus Gen 3: Elon Musk Just Teased a HUGE Robot Upgrade](https://www.youtube.com/watch?v=_8Mfpo6CoOE)**
+
+Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot program. Elon Musk has teased that Optimus Gen ...
+
+📺 Ai_Mobility_News
+
+👁️ 10K • 👍 75 • 💬 3 • ⏱️ 14:50 • 5d ago
+
+---
+
+**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
+
+At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
+
+📺 ejunky66
+
+👁️ 970 • 👍 40 • 💬 6 • ⏱️ 1:00 • 2h ago
 
 ---
 
@@ -256,17 +268,7 @@ Japan's Insane ROBOT PARADE Just Stunned the Entire World.
 
 📺 rubenfoto1
 
-👁️ 8K • 👍 114 • 💬 10 • ⏱️ 26:56 • 16h ago
-
----
-
-**[This Robot Plays Chrome Dino Without Ever Losing 🦖](https://www.youtube.com/watch?v=kqzgUa51DdM)**
-
-The video demonstrates the operation of an automated system for autonomous gameplay of the "Chrome Dino" game utilizing an ...
-
-📺 History Seeker
-
-👁️ 77K • 👍 626 • 💬 18 • ⏱️ 0:08 • 3h ago
+👁️ 10K • 👍 134 • 💬 12 • ⏱️ 26:56 • 23h ago
 
 ---
 
@@ -280,13 +282,13 @@ This new generation hand is the perfect companion for Atlas. With 13 degrees of 
 
 ---
 
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
 
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
 
-📺 Boston Dynamics
+📺 DW News
 
-👁️ 758K • 👍 9K • 💬 1K • ⏱️ 5:49 • 5d ago
+👁️ 155K • 👍 653 • 💬 256 • ⏱️ 3:46 • 6d ago
 
 ---
 
