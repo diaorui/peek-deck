@@ -75,12 +75,40 @@
       "site_name": "instapath.ai"
     },
     {
+      "title": "L402 edge cache for AI agents paying over Lightning",
+      "url": "https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp",
+      "hn_url": "https://news.ycombinator.com/item?id=49959733",
+      "author": "CharlesRStrogis",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-05T01:29:00Z",
+      "object_id": "49959733",
+      "image": "https://opengraph.githubassets.com/6d329814b0f42c19714c464c22d1165422e688647c48bc9db28eb1ae95a41a99/CharlesStrogish/bitcoin-stratigraphy-mcp",
+      "description": "An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macr...",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
+      "title": "Bioinformaticians have been writing the same abstract for decades",
+      "url": "https://luispedro.substack.com/p/bioinformaticians-have-been-writing",
+      "hn_url": "https://news.ycombinator.com/item?id=49960668",
+      "author": "davikr",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-05T04:25:18Z",
+      "object_id": "49960668",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "luispedro.substack.com"
+    },
+    {
       "title": "Florida weighs ditching property taxes and sticking Canadians with the bill",
       "url": "https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814",
       "hn_url": "https://news.ycombinator.com/item?id=49954499",
       "author": "throw0101a",
-      "points": 27,
-      "num_comments": 37,
+      "points": 28,
+      "num_comments": 40,
       "created_at": "2026-10-04T15:02:25Z",
       "object_id": "49954499",
       "image": "https://i.cbc.ca/ais/b84e3e16-4ee2-409c-8b2f-268048bb178c,1790972450434/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C3000%2C1687%29%3BResize%3D620",
@@ -89,7 +117,7 @@
       "site_name": "CBC"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-10-05T00:04:28.903828+00:00"
+  "fetched_at": "2026-10-05T06:03:18.194272+00:00"
 }
