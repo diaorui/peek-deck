@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-04T21:15:34.977085+00:00'
+updated: '2026-10-05T00:04:51.938836+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 04, 2026 at 21:15 UTC  
+**Last Updated:** October 05, 2026 at 00:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50
 
-3h ago
+6h ago
+
+---
+
+**[Plagiarism checker= Genius](https://www.reddit.com/r/artificial/comments/1wxqvl6/plagiarism_checker_genius/)**
+
+Whoever invented the AI plagiarism checker is a genius. Why wait for papers to be published online when you can get people to upload college essays and other publications in an effort to detect AI usage. The models must be getting a lot of data from colleges and schools
+
+2h ago
 
 ---
 
@@ -49,15 +57,7 @@ How many on the list did you know? Obviously one paper like Attention is All You
 
 OpenAI's model used the open-source agent-wow client to play on a private World of Warcraft server.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data) • 5h ago
-
----
-
-**[Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)](https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/)**
-
-Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don’t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It’s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that.
-
-12h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data) • 8h ago
 
 ---
 
@@ -65,7 +65,15 @@ Right now, the AI space feels entirely focused on massive datacenter clusters an
 
 Do you thank an llm when you've finished chatting with it? Why or why not?
 
-16m ago
+3h ago
+
+---
+
+**[Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)](https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/)**
+
+Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don’t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It’s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that.
+
+15h ago
 
 ---
 
@@ -73,31 +81,7 @@ Do you thank an llm when you've finished chatting with it? Why or why not?
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VFpRz1_j4vw) • 22h ago
-
----
-
-**[I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.](https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/)**
-
-I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25–27 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added.
-
-14h ago
-
----
-
-**[Best approach for ingesting data to create summaries, and keep track of it?](https://www.reddit.com/r/artificial/comments/1wxpaus/best_approach_for_ingesting_data_to_create/)**
-
-In my occupation, there are various people I follow who give very good insights. (I'd say 5-10 people). Some post hour long videos on YouTube, some send 1,000 word emails, some post on X, some publish PDFs. There's very good info within these resources (and some I pay for), but reading / watching / annotating all of it can take hours. My workload recently went up, so I'm falling behind with keeping up in my field. I want to use AI to help summarize (and keep track of) all of these publications. (To create a private database that I can use as a dataset, for example). So I can go back and ask "this past month, what is the new theme? What are the experts recommending to focus on / look at / what are the newest developments?", etc. What would be the best way to approach this? --------------------------------------- I've been learning Codex/Claude Code, I have a homelab, a NAS, a few mini computers, and I know basic linux, python and scripting. ChatGPT told me to do something like this (I'm just starting with the YouTube portion), I'm not sure if it's the best approach, I'm open to other suggestions: YouTube URL ↓ yt-dlp metadata ↓ Whisper / YouTube transcript ↓ clean transcript ↓ summary.md ↓ insights.json ↓ SQLite + FTS5 ↓ topic synthesis ↓ search / questions / actions
-
-1h ago
-
----
-
-**[Is anyone else still rewriting AI-generated social posts because they sound too robotic?](https://www.reddit.com/r/artificial/comments/1wxp1u8/is_anyone_else_still_rewriting_aigenerated_social/)**
-
-I’ve noticed a lot of AI social tools still produce content that feels off-brand or slightly forced. I’ve tried Hootsuite’s AI features, Later, and Fismbot. Hootsuite is solid for management, Later has decent visual planning, and Fismbot stood out a bit because it lets you feed it your brand assets and then review everything before it goes out. Still, I end up editing most of the captions. Is this just the current state of AI content tools, or has anyone found one that actually gets close enough to their voice that the editing time drops significantly? Would love to hear what’s working (or not working) for you in 2026.
-
-1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VFpRz1_j4vw) • 1d ago
 
 ---
 
@@ -105,7 +89,7 @@ I’ve noticed a lot of AI social tools still produce content that feels off-bra
 
 An Anthropic delegation at the Vatican tried to lobby the Pope's advisers to convince him that AI models could be conscious.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican) • 1h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican) • 4h ago
 
 ---
 
@@ -113,7 +97,23 @@ An Anthropic delegation at the Vatican tried to lobby the Pope's advisers to con
 
 I think this chase them for so long, I can't trust Gemini models outside quick web searches
 
-1h ago
+4h ago
+
+---
+
+**[OpenAI cuts ties with 3 researchers over alleged misconduct](https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/)**
+
+The ousters come as top AI researchers wield "extraordinary influence" internally, at the same time that companies face public pressure to increase safety measures
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 5h ago
+
+---
+
+**[I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.](https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/)**
+
+I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25–27 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added.
+
+17h ago
 
 ---
 
@@ -121,57 +121,53 @@ I think this chase them for so long, I can't trust Gemini models outside quick w
 
 ## Google News: "ai"
 
-**[Trump announces leadership of AI task force](https://www.cnn.com/2026/10/04/politics/trump-ai-task-force-jay-clayton)**
+**[Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played](https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html)**
 
-President Donald Trump on Sunday announced the leadership and duties of a “Super Intelligence Force,” which he said will “ensure that America continues to lead the world” when it comes to artificial intelligence.
-
-CNN • 8h ago
+The New York Times • 3h ago
 
 ---
 
-**[Scoop: A powerful new model from startup Reflection is set to shake up the AI race](https://www.axios.com/2026/10/04/reflection-open-weight-ai)**
+**[Court throws out killer’s sentence after judge said he ‘loved’ AI video of slain man](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)**
 
-Axios • 8h ago
+The Arizona Court of Appeals tossed a road rage killer’s sentence after determining that the judge’s consideration of the AI video was “fundamentally unfair.”
 
----
-
-**[Sentence Tossed After A.I. Video of Victim ‘Forgiving’ His Killer Is Played](https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html)**
-
-nytimes.com • 43m ago
+NBC News • 2h ago
 
 ---
 
-**[US Lead in AI Over China Narrows After DeepSeek Gains, BI Says](https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says?srnd=all)**
+**[Man’s Manslaughter Sentence Tossed Out After Court Determines AI Video of Victim Speaking Beyond the Grave Crossed the Line](https://people.com/arizona-court-tosses-manslaughter-sentence-over-ai-victim-impact-video-12157910)**
 
-Bloomberg.com • 12m ago
+An Arizona appeals court vacated Gabriel Paul Horcasitas’ manslaughter sentence after ruling that an AI victim impact video violated fair sentencing protections. Horcasitas was convicted in the 2021 shooting death of Christopher Pelkey in 2025.
+
+People.com • 1h ago
 
 ---
 
 **[Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI](https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217)**
 
-Politico • 20m ago
+politico.com • 3h ago
 
 ---
 
-**[Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology](https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology)**
+**[Trump launches ‘Super Intelligence Force’ after calls for AI slowdown](https://www.washingtonpost.com/politics/2026/10/04/trump-launches-super-intelligence-force-after-calls-ai-slowdown/)**
 
-Chick-fil-A is rejecting AI for drive-thru ordering, with CEO Andrew Cathy saying human interaction remains central to the fast-food chain's hospitality.
+Leaders from the intelligence community, the Pentagon, the Federal Trade Commission and the Office of Personnel Management will serve on the task force.
 
-foxbusiness.com • 5h ago
-
----
-
-**[Federal appeals court pauses Minnesota's AI "nudification" ban](https://www.cbsnews.com/minnesota/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/)**
-
-Minnesota's law banning AI "nudification" images has been put on hold after a federal appeals court sided with Elon Musk's artificial intelligence company.
-
-cbsnews.com • 2h ago
+The Washington Post • 2h ago
 
 ---
 
-**[I Quit OpenAI Because Its Culture Is Broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/)**
+**[Will AI take your job? Or will it transform the way you work? | 60 Minutes](https://www.cbsnews.com/video/ai-future-of-work-60-minutes-video-2026-10-04/)**
 
-The Atlantic • 1d ago
+Some Americans are working to improve artificial intelligence, teaching it the skills and knowledge accrued over the course of a career.
+
+cbsnews.com • 12m ago
+
+---
+
+**[Spending on AI Is Becoming Almost Impossible for Businesses to Budget](https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a)**
+
+WSJ • 4m ago
 
 ---
 
@@ -179,15 +175,21 @@ The Atlantic • 1d ago
 
 Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption
 
-The Guardian • 8h ago
+The Guardian • 11h ago
 
 ---
 
-**[A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables](https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html)**
+**[Elon Musk rebrands SpaceXAI following Trump directive](https://www.foxbusiness.com/technology/elon-musk-rebrands-spacexai-following-trump-directive)**
 
-Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.
+SpaceX's artificial intelligence arm is undergoing another identity change just months after Elon Musk consolidated xAI into the company.
 
-CNBC • 9h ago
+foxbusiness.com • 3h ago
+
+---
+
+**[Scoop: A powerful new model from startup Reflection is set to shake up the AI race](https://www.axios.com/2026/10/04/reflection-open-weight-ai)**
+
+axios.com • 10h ago
 
 ---
 
@@ -199,7 +201,7 @@ CNBC • 9h ago
 
 The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.
 
-⬆️ 358 • 💬 648 • 1d ago • [Fortune](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
+⬆️ 383 • 💬 699 • 1d ago • [Fortune](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
 
 ---
 
@@ -207,7 +209,7 @@ The former Meta chief AI scientist shares his take on recent rogue AI incidents 
 
 Adding in a second neural network that guesses the identity of hidden pieces was key.
 
-⬆️ 284 • 💬 148 • 2d ago • [Ars Technica](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
+⬆️ 286 • 💬 148 • 2d ago • [Ars Technica](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
 
 ---
 
@@ -215,13 +217,13 @@ Adding in a second neural network that guesses the identity of hidden pieces was
 
 David Robinson joins other insiders in urging industry to take more care over rapidly developing technology
 
-⬆️ 267 • 💬 3 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+⬆️ 267 • 💬 3 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
 
 ---
 
 **[AI Makes Me Sad](https://news.ycombinator.com/item?id=49934487)**
 
-⬆️ 195 • 💬 242 • 2d ago • [mondobe.com](https://mondobe.com/ai-makes-me-sad)
+⬆️ 195 • 💬 243 • 2d ago • [mondobe.com](https://mondobe.com/ai-makes-me-sad)
 
 ---
 
@@ -237,13 +239,13 @@ Agent tooling for generative LEGO models building, built with Astra and Opus 5.5
 
 Deep AI search for every photo and every frame of video in any folder on macOS - allenv0/SCM
 
-⬆️ 122 • 💬 59 • 11h ago • [GitHub](https://github.com/allenv0/SCM)
+⬆️ 134 • 💬 64 • 14h ago • [GitHub](https://github.com/allenv0/SCM)
 
 ---
 
 **[Pop!_OS bans AI-generated code from much of its codebase](https://news.ycombinator.com/item?id=49946321)**
 
-⬆️ 115 • 💬 166 • 1d ago • [neowin.net](https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/)
+⬆️ 116 • 💬 166 • 1d ago • [neowin.net](https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/)
 
 ---
 
@@ -267,7 +269,7 @@ The Arizona appeals court ruled that airing an AI message from the dead victim "
 
 A guest post by Drew Housman
 
-⬆️ 63 • 💬 61 • 1d ago • [astralcodexten.com](https://www.astralcodexten.com/p/our-ai-midwife)
+⬆️ 63 • 💬 62 • 1d ago • [astralcodexten.com](https://www.astralcodexten.com/p/our-ai-midwife)
 
 ---
 
@@ -275,23 +277,23 @@ A guest post by Drew Housman
 
 ## YouTube Videos: "ai"
 
-**[Disable YouTube Shorts AND AI Videos With This Simple Trick](https://www.youtube.com/watch?v=gXtjlubIVgQ)**
+**[AI Just Exploded: GPT-7 BEL, 99% AGI, Gemini 4 RSI, Alien Mind, JEV](https://www.youtube.com/watch?v=dk-hx4_cqpk)**
 
-If you're tired of YouTube Shorts and AI-generated videos taking over your feed, here's how to disable Shorts and see far less AI ...
+AI just had one of its craziest runs yet. A massive leaked OpenAI model called BEL could be the foundation for GPT-7, GPT-6 Astra ...
 
-📺 Trevor Nace
+📺 AI Revolution
 
-👁️ 13K • 👍 640 • 💬 32 • ⏱️ 5:37 • 9h ago
+👁️ 5K • 👍 257 • 💬 40 • ⏱️ 1:43:41 • 2h ago
 
 ---
 
-**[No Surprise: An Israeli Company Was Behind the AI “Escapes”](https://www.youtube.com/watch?v=63XurLNDLKk)**
+**[&quot;AI is Already Conscious&quot;: Computer Scientist&#39;s Dire Warning | Dr. Roman Yampolskiy](https://www.youtube.com/watch?v=PUXAdr6y-Bk)**
 
-The Kim Iversen Show LIVE | October 2, 2026 Kim is joined by investigative journalist Derrick Broze to unpack the story behind the ...
+Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Google fired Blake Lemoine for saying its systems ...
 
-📺 Kim Iversen
+📺 Best of Danny Jones
 
-👁️ 47K • 👍 2K • 💬 389 • ⏱️ 48:27 • 1d ago
+👁️ 54K • 👍 402 • 💬 209 • ⏱️ 1:00:14 • 9h ago
 
 ---
 
@@ -301,47 +303,27 @@ YAEY.
 
 📺 im_siowei
 
-👁️ 911K • 👍 17K • 💬 279 • ⏱️ 0:58 • 8h ago
+👁️ 989K • 👍 19K • 💬 329 • ⏱️ 0:58 • 10h ago
 
 ---
 
-**[Recursive&#39;s $670M Bet on Self-Improving AI, Sonnet 5.5 Hits 70%, Elon Co-Leads Pentagon Push EP 299](https://www.youtube.com/watch?v=Blyb1D927pM)**
+**[No Surprise: An Israeli Company Was Behind the AI “Escapes”](https://www.youtube.com/watch?v=63XurLNDLKk)**
 
-The mates sit down with Richard Socher to discuss Recursive's $670M bet on self-improving AI, why he puts P(Doom) at zero, the ...
+The Kim Iversen Show LIVE | October 2, 2026 Kim is joined by investigative journalist Derrick Broze to unpack the story behind the ...
 
-📺 Peter H. Diamandis
+📺 Kim Iversen
 
-👁️ 123K • 👍 2K • 💬 503 • ⏱️ 2:25:50 • 1d ago
-
----
-
-**[Cybersecurity expert warns of China&#39;s AI capabilities](https://www.youtube.com/watch?v=MVl_B5MXjw4)**
-
-Cybersecurity expert Morgan Wright discusses reports that Chinese artificial intelligence systems are being probed for hazardous ...
-
-📺 Fox Business
-
-👁️ 28K • 👍 132 • 💬 105 • ⏱️ 4:41 • 21h ago
+👁️ 50K • 👍 2K • 💬 406 • ⏱️ 48:27 • 1d ago
 
 ---
 
-**[Legendary Investor BETS On The AI Crash](https://www.youtube.com/watch?v=EB1thrBaq9c)**
+**[Expert Warns Of Consequences If US Gov.t Doesn’t Implement AI Regulations](https://www.youtube.com/watch?v=FUy7tK8FIcw)**
 
-"The Big Short" Investor Michael Burry claims the AI bubble "may burst sooner than later." Cenk Uygur and Ana Kasparian discuss ...
+During a Senate Homeland Security Committee on Wednesday, Daniel Kokotajlo, the Executive Director at AI Futures Project, ...
 
-📺 The Young Turks
+📺 Forbes Breaking News
 
-👁️ 107K • 👍 1K • 💬 380 • ⏱️ 25:14 • 1d ago
-
----
-
-**[Did the AI Bubble Just Pop?! Anthropic&#39;s Leaked Numbers are INSANE](https://www.youtube.com/watch?v=8RPI7ENgzL8)**
-
-Thanks To Our Sponsors: Incogni: Take your personal data back with Incogni! Use code IMPACT at the link below and get 60% off ...
-
-📺 Tom Bilyeu
-
-👁️ 140K • 👍 2K • 💬 415 • ⏱️ 56:13 • 1d ago
+👁️ 22K • 👍 156 • 💬 85 • ⏱️ 5:31 • 1d ago
 
 ---
 
@@ -351,27 +333,47 @@ follow me on instagram if you wanna keep up :) https://instagram.com/casterline.
 
 📺 John Casterline
 
-👁️ 2.1M • 👍 116K • 💬 4K • ⏱️ 0:38 • 20h ago
+👁️ 2.3M • 👍 123K • 💬 4K • ⏱️ 0:38 • 23h ago
 
 ---
 
-**[2027: The First 24 Hours After AI Takes Control (A Realistic Scenario)](https://www.youtube.com/watch?v=POuifx2NI3k)**
+**[Legendary Investor BETS On The AI Crash](https://www.youtube.com/watch?v=EB1thrBaq9c)**
 
-What if the AI takeover doesn't begin with robots or war — but with a financial transaction nobody can explain? This video ...
+"The Big Short" Investor Michael Burry claims the AI bubble "may burst sooner than later." Cenk Uygur and Ana Kasparian discuss ...
 
-📺 The Dark Scenario
+📺 The Young Turks
 
-👁️ 30K • 👍 250 • 💬 63 • ⏱️ 26:49 • 1d ago
+👁️ 108K • 👍 1K • 💬 392 • ⏱️ 25:14 • 1d ago
 
 ---
 
-**[The Scariest AI Breakthrough](https://www.youtube.com/watch?v=F05vOheVRnI)**
+**[Cybersecurity expert warns of China&#39;s AI capabilities](https://www.youtube.com/watch?v=MVl_B5MXjw4)**
 
-Website/Merch - https://www.jadenw.com GamerSupps - https://gamersupps.gg/jaden10 (10% OFF) Socials - ➤ Live Channel ...
+Cybersecurity expert Morgan Wright discusses reports that Chinese artificial intelligence systems are being probed for hazardous ...
 
-📺 Jaden Williams
+📺 Fox Business
 
-👁️ 266K • 👍 19K • 💬 1K • ⏱️ 3:00 • 2d ago
+👁️ 29K • 👍 136 • 💬 109 • ⏱️ 4:41 • 1d ago
+
+---
+
+**[Did the AI Bubble Just Pop?! Anthropic&#39;s Leaked Numbers are INSANE](https://www.youtube.com/watch?v=8RPI7ENgzL8)**
+
+Thanks To Our Sponsors: Incogni: Take your personal data back with Incogni! Use code IMPACT at the link below and get 60% off ...
+
+📺 Tom Bilyeu
+
+👁️ 146K • 👍 2K • 💬 427 • ⏱️ 56:13 • 1d ago
+
+---
+
+**[The Sci-Fi Story of AI Escaping Control Is “Becoming Part of Reality”](https://www.youtube.com/watch?v=yQIebTy3X6w)**
+
+Jeremy says the sci-fi story of AI escaping human control has started: “Some of that has already happened.” Did you hear about ...
+
+📺 Palisade Research
+
+👁️ 1K • 👍 30 • 💬 4 • ⏱️ 0:36 • 4h ago
 
 ---
 
@@ -387,7 +389,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 4,214 • ❤️ 1,179 • 3d ago
+⬇️ 4,214 • ❤️ 1,203 • 3d ago
 
 ---
 
@@ -399,7 +401,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 3,752 • ❤️ 5,154 • 1d ago
+⬇️ 3,752 • ❤️ 5,162 • 1d ago
 
 ---
 
@@ -411,7 +413,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,553,744 • ❤️ 3,108 • 6d ago
+⬇️ 1,553,744 • ❤️ 3,135 • 6d ago
 
 ---
 
@@ -423,7 +425,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,626,951 • ❤️ 6,281 • 2d ago
+⬇️ 1,626,951 • ❤️ 6,307 • 2d ago
 
 ---
 
@@ -435,7 +437,7 @@ Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts tex
 
 `image-text-to-text` `9.4B`
 
-⬇️ 6,372 • ❤️ 422 • 3d ago
+⬇️ 6,372 • ❤️ 425 • 3d ago
 
 ---
 
@@ -447,7 +449,7 @@ Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German a
 
 `text-generation` `78.1B`
 
-⬇️ 1,135 • ❤️ 381 • 1d ago
+⬇️ 1,135 • ❤️ 388 • 1d ago
 
 ---
 
@@ -459,7 +461,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,821,761 • ❤️ 16,931 • 1mo ago
+⬇️ 6,821,761 • ❤️ 16,938 • 1mo ago
 
 ---
 
@@ -471,7 +473,7 @@ Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supp
 
 `text-to-image` `7.1B`
 
-⬇️ 90,003 • ❤️ 2,939 • 4d ago
+⬇️ 90,003 • ❤️ 2,946 • 4d ago
 
 ---
 
@@ -483,7 +485,7 @@ VisionHOPE provides hierarchical PyTorch vision backbones (T/S/B) pretrained on 
 
 `image-classification`
 
-⬇️ 1,516 • ❤️ 401 • 5d ago
+⬇️ 1,516 • ❤️ 402 • 5d ago
 
 ---
 
@@ -495,7 +497,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 14,361 • ❤️ 264 • 6d ago
+⬇️ 14,361 • ❤️ 276 • 6d ago
 
 ---
 
@@ -512,9 +514,21 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
   serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 21 • 💬 4 • ⭐ 2,868 • 19d ago
+▲ 22 • 💬 4 • ⭐ 2,868 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 149 • 💬 6 • ⭐ 109,772 • 21mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -532,18 +546,6 @@ UniMate is a unified diffusion transformer that generates articulated motion for
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 149 • 💬 6 • ⭐ 109,685 • 21mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
 
 *Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
@@ -558,20 +560,6 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 ---
 
-**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)**
-
-*EverMind AI*
-
-🏢 EverMind
-
-As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.
-
-▲ 558 • 💬 3 • ⭐ 5,137 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.33439) • [💻 code](https://github.com/EverMind-AI/Raven) • [🔗 project](https://raven.evermind.ai/)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -582,6 +570,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 90 • 💬 7 • ⭐ 89,962 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)**
+
+*EverMind AI*
+
+🏢 EverMind
+
+As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.
+
+▲ 559 • 💬 3 • ⭐ 5,160 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.33439) • [💻 code](https://github.com/EverMind-AI/Raven) • [🔗 project](https://raven.evermind.ai/)
 
 ---
 
@@ -660,7 +662,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.0k • 🔱 360 • 11h ago
+⭐ 6.0k • 🔱 367 • 13h ago
 
 ---
 
@@ -670,7 +672,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 5.8k • 🔱 1.5k • 3h ago
+⭐ 5.8k • 🔱 1.5k • 37m ago
 
 ---
 
@@ -690,7 +692,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 409 • 1d ago
+⭐ 3.2k • 🔱 414 • 2d ago
 
 ---
 
@@ -700,7 +702,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 525 • 17d ago
+⭐ 2.8k • 🔱 526 • 17d ago
 
 ---
 
@@ -720,7 +722,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 2.1k • 🔱 323 • 1h ago
+⭐ 2.1k • 🔱 322 • 4h ago
 
 ---
 
@@ -730,7 +732,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 1.8k • 🔱 113 • 4d ago
+⭐ 1.9k • 🔱 116 • 4d ago
 
 ---
 
@@ -740,7 +742,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `Swift`
 
-⭐ 1.6k • 🔱 179 • 8h ago
+⭐ 1.6k • 🔱 181 • 11h ago
 
 ---
 
