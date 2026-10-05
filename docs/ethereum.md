@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-04T21:15:34.991764+00:00'
+updated: '2026-10-05T00:04:51.949278+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 04, 2026 at 21:15 UTC  
+**Last Updated:** October 05, 2026 at 00:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +0.6%  
-**30d:** +9.2%  
-**90d:** +52.9%  
-**1y:** -40.0%  
+**24h:** +1.1%  
+**7d:** +1.7%  
+**30d:** +8.3%  
+**90d:** +56.1%  
+**1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.63B
+**Market Cap:** $332.60B
 Rank #2
 
 **Circulating Supply:** 122,104,582 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.3%
+-44.9%
 
 **All-Time Low:** $0.43
-+625279.1%
++628997.5%
 
 ---
 
@@ -102,7 +102,7 @@ Glamsterdam upgrade on Sepolia testnet October 6, Vitalik: the cryptographic wor
 
 **[I built a private AI chat on the EF's zkAPI where even the deposit can't be traced back to you (open source)](https://www.reddit.com/r/ethereum/comments/1ww5kbk/i_built_a_private_ai_chat_on_the_efs_zkapi_where/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -182,6 +182,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch](https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/)**
+
+Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
+
+dmarketforces.com • 1d ago
+
+---
+
 **[BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs](https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-s-ibit-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/)**
 
 BlackRock’s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT’s 50-day simple moving average…
@@ -190,19 +198,19 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch](https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/)**
-
-Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
-
-MarketForces Africa • 23h ago
-
----
-
 **[Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?](https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/)**
 
 One digital asset treasury company is very bullish about Ethereum right now.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
+
+---
+
+**[Ethereum’s past outflow charts can change when more exchange wallets are identified](https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/)**
+
+Ethereum outflow history can change as exchange wallets are identified. Coin Metrics rebuilt its ETH data; trading tests need inputs available at the time.
+
+CryptoSlate • 1h ago
 
 ---
 
@@ -218,15 +226,7 @@ Benzinga • 2d ago
 
 Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
 
-The Block • 3d ago
-
----
-
-**[Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K](https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k)**
-
-The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
-
-Decrypt News • 3d ago
+theblock.co • 3d ago
 
 ---
 
@@ -234,13 +234,23 @@ Decrypt News • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[How to Retire on ETHEREUM by 2030 or sooner](https://www.youtube.com/watch?v=27VB8wKnm38)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 266 • 💬 32 • ⏱️ 11:38 • 55m ago
+
+---
+
 **[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 170 • 💬 13 • ⏱️ 19:33 • 4h ago
+👁️ 9K • 👍 234 • 💬 29 • ⏱️ 19:33 • 7h ago
 
 ---
 
@@ -250,17 +260,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 27K • 👍 694 • 💬 66 • ⏱️ 11:28 • 9h ago
-
----
-
-**[BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7iDBrsp7pz0)**
-
-BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 327 • 👍 33 • 💬 7 • ⏱️ 18:30 • 15m ago
+👁️ 32K • 👍 737 • 💬 69 • ⏱️ 11:28 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 144 • 💬 21 • ⏱️ 20:02 • 17h ago
+👁️ 12K • 👍 151 • 💬 21 • ⏱️ 20:02 • 19h ago
 
 ---
 
@@ -280,7 +280,17 @@ Well, we made it. Its supposed to officially start in the next few days, and its
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 852 • 💬 203 • ⏱️ 31:57 • 11h ago
+👁️ 15K • 👍 883 • 💬 197 • ⏱️ 31:57 • 14h ago
+
+---
+
+**[Ethereum Price Prediction: Will It Break The Crypto Market?](https://www.youtube.com/watch?v=wEKxZLuPM18)**
+
+Ethereum could be setting up for another explosive move. Tom Lee has highlighted ETH's history of massive upside ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 28 • 💬 1 • ⏱️ 0:26 • 8h ago
 
 ---
 
@@ -290,7 +300,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 555 • 👍 19 • 💬 6 • ⏱️ 19:25 • 5h ago
+👁️ 862 • 👍 23 • 💬 6 • ⏱️ 19:25 • 8h ago
+
+---
+
+**[BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7iDBrsp7pz0)**
+
+BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 212 • 💬 20 • ⏱️ 18:30 • 3h ago
 
 ---
 
@@ -300,17 +320,7 @@ Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target 
 
 📺 More Crypto Online
 
-👁️ 11K • 👍 215 • 💬 13 • ⏱️ 9:53 • 1d ago
-
----
-
-**[Ethereum vs Solana vs Sui: The Framework for the Next Crypto Cycle](https://www.youtube.com/watch?v=rBOz5JaVLWs)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 12K • 👍 285 • 💬 185 • ⏱️ 21:51 • 1d ago
+👁️ 11K • 👍 217 • 💬 13 • ⏱️ 9:53 • 1d ago
 
 ---
 
@@ -320,17 +330,7 @@ BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 17K • 👍 450 • 💬 79 • ⏱️ 19:40 • 18h ago
-
----
-
-**[BITCOIN 🚨BIGGEST SIGNAL IN HISTORY!!!! [ethereum]](https://www.youtube.com/watch?v=rDPrwozhyvw)**
-
-Bitcoin just smashed through $80K, one of the last bull-market indicators just flipped bullish, and altcoins are flashing something ...
-
-📺 Crypto Love
-
-👁️ 2K • 👍 241 • 💬 55 • ⏱️ 7:14 • 4h ago
+👁️ 18K • 👍 456 • 💬 79 • ⏱️ 19:40 • 21h ago
 
 ---
 

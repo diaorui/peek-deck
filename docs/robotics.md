@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-04T21:15:34.994924+00:00'
+updated: '2026-10-05T00:04:51.951501+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 04, 2026 at 21:15 UTC  
+**Last Updated:** October 05, 2026 at 00:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,14 +120,6 @@ Business Insider • 2d ago
 
 ---
 
-**[Watch these defunct humanoid robots go full Terminator and dive into molten steel](https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal)**
-
-An AI robotics company programmed its bots to take a dive into molten steel, and the footage is wild.
-
-Mashable • 2d ago
-
----
-
 **[The little humanoid robots that could (BOTZ:NASDAQ)](https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could)**
 
 Humanoid robot investing thesis shift: most “shipments” are half-size Chinese robots, not full-size labor bots.
@@ -136,11 +128,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
+**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
 
-Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
+It’s Real Steel come to life.
 
-IEEE Spectrum • 2d ago
+Tom's Hardware • 9h ago
 
 ---
 
@@ -148,15 +140,7 @@ IEEE Spectrum • 2d ago
 
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-Financial Times • 20h ago
-
----
-
-**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
-
-It’s Real Steel come to life.
-
-Tom's Hardware • 6h ago
+Financial Times • 23h ago
 
 ---
 
@@ -172,21 +156,37 @@ Yahoo Finance • 3d ago
 
 Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology.
 
-DefenseScoop • 1d ago
+DefenseScoop • 2d ago
 
 ---
 
-**[Queen's University students blast off to US for Nasa robotics competition](https://www.bbc.com/news/articles/cq20v0e7vjkgo)**
+**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
+
+Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[Queen's University Belfast students head to US for Nasa competition](https://www.bbc.com/news/articles/cq20v0e7vjkgo)**
 
 The students will head to Florida to compete against university teams from Australia, India and the US.
 
-BBC • 15h ago
+BBC • 18h ago
 
 ---
 
 **[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
 
-thehill.com • 2d ago
+The Hill • 2d ago
+
+---
+
+**[Architects of Autonomy: Army activates 390A Robotics Technician MOS to forge battlefield overmatch](https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch)**
+
+FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec...
+
+army.mil • 2d ago
 
 ---
 
@@ -200,17 +200,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 18K • 👍 417 • 💬 28 • ⏱️ 1:00 • 9h ago
-
----
-
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
-
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
-
-📺 ejunky66
-
-👁️ 1.1M • 👍 18K • 💬 830 • ⏱️ 1:00 • 2d ago
+👁️ 27K • 👍 522 • 💬 37 • ⏱️ 1:00 • 12h ago
 
 ---
 
@@ -220,7 +210,7 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 📺 Canada 2050
 
-👁️ 36K • 👍 902 • 💬 28 • ⏱️ 18:22 • 4d ago
+👁️ 36K • 👍 919 • 💬 30 • ⏱️ 18:22 • 4d ago
 
 ---
 
@@ -230,7 +220,7 @@ Figure just destroyed almost its entire Figure 02 fleet by training the humanoid
 
 📺 AI Revolution
 
-👁️ 41K • 👍 646 • 💬 75 • ⏱️ 13:23 • 1d ago
+👁️ 42K • 👍 651 • 💬 76 • ⏱️ 13:23 • 2d ago
 
 ---
 
@@ -240,7 +230,7 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 186K • 👍 3K • 💬 132 • ⏱️ 20:27 • 4d ago
+👁️ 187K • 👍 3K • 💬 132 • ⏱️ 20:27 • 5d ago
 
 ---
 
@@ -250,7 +240,17 @@ Tesla just accidentally leaked the finished design for Optimus Gen 3, and it rev
 
 📺 Innovation Core
 
-👁️ 229K • 👍 2K • 💬 150 • ⏱️ 21:02 • 5d ago
+👁️ 230K • 👍 2K • 💬 151 • ⏱️ 21:02 • 6d ago
+
+---
+
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
+
+📺 ejunky66
+
+👁️ 1.3M • 👍 21K • 💬 958 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ War Robots Gameplay: Most TOXIC Samjok build ever with Iaraghi. My War Robots Cr
 
 📺 Manni-Gaming
 
-👁️ 16K • 👍 474 • 💬 102 • ⏱️ 17:31 • 1d ago
+👁️ 17K • 👍 480 • 💬 103 • ⏱️ 17:31 • 1d ago
 
 ---
 
@@ -280,17 +280,17 @@ This new generation hand is the perfect companion for Atlas. With 13 degrees of 
 
 📺 Boston Dynamics
 
-👁️ 2.2M • 👍 34K • 💬 3K • ⏱️ 5:35 • 3d ago
+👁️ 2.3M • 👍 34K • 💬 3K • ⏱️ 5:35 • 3d ago
 
 ---
 
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+**[Boston Dynamics Goes Full AI With New Atlas Robot](https://www.youtube.com/watch?v=qx7PoIcKS6I)**
 
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+Boston Dynamics is turning Atlas into a real AI factory worker inside Hyundai's plants, while Spot gets AI agents and Google ...
 
-📺 Boston Dynamics
+📺 MACHINEKIND
 
-👁️ 751K • 👍 8K • 💬 1K • ⏱️ 5:49 • 4d ago
+👁️ 37K • 👍 439 • 💬 35 • ⏱️ 13:34 • 2d ago
 
 ---
 

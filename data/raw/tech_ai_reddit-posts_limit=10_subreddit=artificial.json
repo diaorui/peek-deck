@@ -13,6 +13,17 @@
       "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50"
     },
     {
+      "title": "Plagiarism checker= Genius",
+      "author": "meenags",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxqvl6/plagiarism_checker_genius/",
+      "published": 1791148668.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Whoever invented the AI plagiarism checker is a genius. Why wait for papers to be published online when you can get people to upload college essays and other publications in an effort to detect AI usage. The models must be getting a lot of data from colleges and schools"
+    },
+    {
       "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths \u2014 AI agent navigates by parsing raw server network packets and SQL filesa",
       "author": "ThereWas",
       "url": "https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
@@ -22,17 +33,6 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1769329/apple-touch-icon.png",
       "description": "OpenAI's model used the open-source agent-wow client to play on a private World of Warcraft server."
-    },
-    {
-      "title": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)",
-      "author": "abhishekkumar333",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
-      "published": 1791102916.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don\u2019t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It\u2019s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that."
     },
     {
       "title": "Thank you",
@@ -46,6 +46,17 @@
       "description": "Do you thank an llm when you've finished chatting with it? Why or why not?"
     },
     {
+      "title": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)",
+      "author": "abhishekkumar333",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
+      "published": 1791102916.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don\u2019t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It\u2019s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that."
+    },
+    {
       "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
       "author": "ElatedPyroHippo",
       "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
@@ -55,39 +66,6 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/85a3164d/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.",
-      "author": "radeon2000",
-      "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
-      "published": 1791096265.0,
-      "thumbnail": "https://preview.redd.it/2mxi8c9mceth1.png?width=640&crop=smart&auto=webp&s=bf8db890a96a166f9c12cf3a3cf33bd3b8b2b4ed",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25\u201327 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added."
-    },
-    {
-      "title": "Best approach for ingesting data to create summaries, and keep track of it?",
-      "author": "QuestionAsker2030",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxpaus/best_approach_for_ingesting_data_to_create/",
-      "published": 1791144675.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "In my occupation, there are various people I follow who give very good insights. (I'd say 5-10 people). Some post hour long videos on YouTube, some send 1,000 word emails, some post on X, some publish PDFs. There's very good info within these resources (and some I pay for), but reading / watching / annotating all of it can take hours. My workload recently went up, so I'm falling behind with keeping up in my field. I want to use AI to help summarize (and keep track of) all of these publications. (To create a private database that I can use as a dataset, for example). So I can go back and ask \"this past month, what is the new theme? What are the experts recommending to focus on / look at / what are the newest developments?\", etc. What would be the best way to approach this? --------------------------------------- I've been learning Codex/Claude Code, I have a homelab, a NAS, a few mini computers, and I know basic linux, python and scripting. ChatGPT told me to do something like this (I'm just starting with the YouTube portion), I'm not sure if it's the best approach, I'm open to other suggestions: YouTube URL \u2193 yt-dlp metadata \u2193 Whisper / YouTube transcript \u2193 clean transcript \u2193 summary.md \u2193 insights.json \u2193 SQLite + FTS5 \u2193 topic synthesis \u2193 search / questions / actions"
-    },
-    {
-      "title": "Is anyone else still rewriting AI-generated social posts because they sound too robotic?",
-      "author": "Cloudy_Day912",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxp1u8/is_anyone_else_still_rewriting_aigenerated_social/",
-      "published": 1791144044.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve noticed a lot of AI social tools still produce content that feels off-brand or slightly forced. I\u2019ve tried Hootsuite\u2019s AI features, Later, and Fismbot. Hootsuite is solid for management, Later has decent visual planning, and Fismbot stood out a bit because it lets you feed it your brand assets and then review everything before it goes out. Still, I end up editing most of the captions. Is this just the current state of AI content tools, or has anyone found one that actually gets close enough to their voice that the editing time drops significantly? Would love to hear what\u2019s working (or not working) for you in 2026."
     },
     {
       "title": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
@@ -110,7 +88,29 @@
       "site_name": null,
       "favicon": null,
       "description": "I think this chase them for so long, I can't trust Gemini models outside quick web searches"
+    },
+    {
+      "title": "OpenAI cuts ties with 3 researchers over alleged misconduct",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/",
+      "published": 1791139306.0,
+      "thumbnail": "https://external-preview.redd.it/emQ1tZrLXITL4YvM8vbedHEP_hssfUthBxUWkIEEte4.jpeg?width=640&crop=smart&auto=webp&s=df86b61ea71e740f5b5e5eda80d2918f0830564e",
+      "external_url": "https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "The ousters come as top AI researchers wield \"extraordinary influence\" internally, at the same time that companies face public pressure to increase safety measures"
+    },
+    {
+      "title": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.",
+      "author": "radeon2000",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
+      "published": 1791096265.0,
+      "thumbnail": "https://preview.redd.it/2mxi8c9mceth1.png?width=640&crop=smart&auto=webp&s=bf8db890a96a166f9c12cf3a3cf33bd3b8b2b4ed",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25\u201327 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added."
     }
   ],
-  "fetched_at": "2026-10-04T21:15:05.735893+00:00"
+  "fetched_at": "2026-10-05T00:04:29.273877+00:00"
 }
