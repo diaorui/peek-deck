@@ -5,14 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
-      "pub_date": 1790955540.0,
-      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
-      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
+      "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
+      "pub_date": 1791210177.0,
+      "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2Q2ODVLbmROM2lGYXBQX2w3ZHREYXNoQUdQYUpSSmdHN1RMMVRnY3BWbmJIbmZBanlod0NETUZnekhZVVdsUU15eTlzdk81cTJSWnZpWHRtcHljcmstYXpGRjU3UlVKaHc4dFo4OVlIVG82Sm42aF9sendUc3Y4WldoV29QTlIyLXQyeGlhQk9zRF9SdEthUkV1VDg5YWlKb1lZcGJoaDdraGFQZmx4VmVXdTk3bjF2RG92dA?oc=5",
+      "pub_date": 1791205423.0,
+      "article_url": "https://www.reuters.com/legal/transactional/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-us-2026-10-05/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "German robotics startup RobCo hits $1 billion valuation",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSW5XWHJPd2RWSDdPMl9hR0RUX0R1eXlDUDk5blpqbDNVUE1HWmdSOXYwY1NYck9NaFE3MkJZeWJIQk9DNDAtczJVZjZuLUwycXBIVlRnYUV4Nml3RVY4R0V1VFJIMllhSDgwOVNIdldGbi1s?oc=5",
+      "pub_date": 1791206748.0,
+      "article_url": "https://qz.com/robco-unicorn-valuation-secondary-share-sale-100526",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1417643504-300x200.jpg",
+      "description": "The Munich-founded company doubled its valuation in nine months as investors pile into physical AI and autonomous industrial robotics"
     },
     {
       "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
@@ -25,44 +45,14 @@
       "description": "Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology."
     },
     {
-      "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
-      "source": "ft.com",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
-      "pub_date": 1791075684.0,
-      "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
-    },
-    {
-      "headline": "Rubber ducks and screwdrivers put dexterous new soft robotic gripper to the test",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlpsYUVMcnVobHQ3VDVBbk5YeklBU0xneUwteTRQTFdmaXRnbkJzN0hPd1BsRll3TzVTU3FCLXdoNHFuVjVjTzkyNlVtSHBKdGNtWEp3Qk02WVh4MFVrck1NSVN5N3dUbTdNOGhxM05nVU44cjhIRkwwRE9sbkFkU1JtOUJkMDQ0?oc=5",
-      "pub_date": 1791121206.0,
-      "article_url": "https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Queen's University Belfast students head to US for Nasa competition",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83SWhsMXVMZFNZMVVxSlNPZWdkdUFfNjZuZVlEcnhqV0szSDB3UDQ3bXp1aGhNeERoRjJISlJkbWZIU1IzV1pLQl9ndlY1MFRnTGJpa280Q052eXc?oc=5",
-      "pub_date": 1791091170.0,
-      "article_url": "https://www.bbc.com/news/articles/cq20v0e7vjkgo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d4e8/live/503f7010-be4d-11f1-babe-4199b0e7ccea.jpg",
-      "description": "The students will head to Florida to compete against university teams from Australia, India and the US."
-    },
-    {
-      "headline": "AI robot company decommissioned its robots \u2018Terminator-style\u2019 in a 75-ton vat of molten steel \u2014 Arnold Schwarzenegger suggested melting them, one robot held up a thumbs-up sign as it sank into molten metal",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQaU4wZHVfQzNfYmFxV2JBcHlKbGQ0ZVBJZm5ER1ZxTmZxOGxHdHVOLXJtcEl0NjJpWWpmQ24zdWVNVENMWFdWYWx4c0wxZXZ4clV5OUcyZ05aX1EtOU1EZERUM3FNbWo3UjRoZ0puTXUzblVzOXdYRTU1bEJCN3duZVBCY05MTE9EYlpYem5HNFNYWXlLZS1NYnNHWXNHTTBMVFNnSFJnZ205YzZ1dmwxeVRUSXhDMkIzb2p6T3gtd0ZqLUVlNm5Hcm12NUxEZTVUOE5JZXRMTUViTG5CYjJwYklRdTI0TWxGRG1ZSF9vd25TOGtKSGNFZ1QxNjJ6SmdfaTVSM2ZicEM2akpDekMySmF6VHlVUUpmbTJqV21lNXMxSzBGZE5DaS16SFRka2hTZkpTaUdKMG9mTjBzd0xMOWxzWHlaZk0zZmtNZjZZdUFuMUI0UE1yM0hGMEdadlJCVXBOUi1Ec3lZMjBH?oc=5",
-      "pub_date": 1791120000.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal",
-      "image": "https://cdn.mos.cms.futurecdn.net/r4bAbotgbdDA8ZZJYgUQEY-1920-80.png",
-      "description": "Hasta la vista, baby."
+      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
+      "pub_date": 1790958686.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
+      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
     },
     {
       "headline": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order \u2014 regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids",
@@ -75,36 +65,46 @@
       "description": "It\u2019s Real Steel come to life."
     },
     {
-      "headline": "The little humanoid robots that could (BOTZ:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN1JTNDJPWHg4bkJTVk1aNnV2TG9NT1ZvcE9YeHBOOXY4dDlDMzlMN2VkSEJYVjZJd3l4Vl9fcmxtREc3R2JaUmJzQlFaLVdqWVFiakEtMF9lZk5BX09SbFhoMlZxUUkzbEp2cFRLMXpJWUNCc0VJREZtdHJnZjRZWA?oc=5",
-      "pub_date": 1791025247.0,
-      "article_url": "https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241360431/image_2241360431.jpg?io=getty-c-w630",
-      "description": "Humanoid robot investing thesis shift: most \u201cshipments\u201d are half-size Chinese robots, not full-size labor bots."
+      "headline": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
+      "pub_date": 1791205052.0,
+      "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "OpenAI\u2019s GPT-6 Astra found a way to play World of Warcraft without seeing the screen",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkx6UFkxTzF0TFZtTXZzdFNQandYRnR2Rkd4MTdjTmdUMlN5dEVYSkhQVmxRMEFTRWFSWVZWTTNvSkNDMHgxcDVCNUV2TlNRQ2Q5T3I4WDFoLTJSb0phQ3U3TGhjUG1uSlJrU2xMeDhqZi1OZFhGMUtzMFRvZG9uV3BzRzIweWxzR0tnZVdfUVUwa2dR?oc=5",
-      "pub_date": 1791126420.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/image-1920x1080-2026-10-04T135603.874.png?w=650",
-      "description": "The AI relied on server network messages, quest data and navigation files instead of screenshots or computer vision."
+      "headline": "The hottest trip for Silicon Valley investors? Robot factories in China",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVV1Z19mR0lEVmtGcUlTbkZucXlkQU1waExjMFFTY0xRaVd0SHdvcXBsUVZHNC1EN3NJelNfTG9USzRvVW9hcnZPZGYzUUhkQWpsbXphYWNCRWItSlFFd20xZ0swVDU2UWt0Y29sQVN1TWRnak96bjJfR3JSb0JfdDM4bXdtUVpLNV8xQ3BpY3FOOEJiTGFSd3pQd09vbDBrNlhXYUV3?oc=5",
+      "pub_date": 1791194400.0,
+      "article_url": "https://www.businessinsider.com/why-silicon-valley-investors-are-touring-chinas-robot-factories-2026-10",
+      "image": "https://i.insider.com/6ac00de7265e3f8e338fa422?width=1200&format=jpeg",
+      "description": "Robotics may be Silicon Valley's latest obsession, but China has spent years building up its industry."
     },
     {
-      "headline": "Architects of Autonomy: Army activates 390A Robotics Technician MOS to forge battlefield overmatch",
-      "source": "army.mil",
-      "source_url": "https://www.army.mil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnpwVlRkS1Y2eWMxSmNkOGhGcHFCQTVzWjhlNTlrd3RfdEpJenZrUDUyXzFJUnFHTFRmeVB2YWJTcHRnRzRpVGROT0htbkFRRnFLNFNzdkhYTUlaVDhiVXFkMXRyYm1fTk9FRkF3SzltODhVZ3BTNS1zZmZVMlR5NVB3TTc0b245dzFDR0FjREZvS19xRmU2UGc4YTRNNHRFakh4aFR5NE5KemZCV0RRNWVmODlGMmREWEM1RWxvNHBoTUprMF9WWEtTdFBPZ9IB0wFBVV95cUxPOFoyT1NlSVRhT1ctR0xPRkpWYy14SVN1TTB1VnBtNHAwc1NfYkRoU2tKbG9GVldYZUhXYWhDYzhLVFJzU0NUTWZXVmE2dEd6b0NJekcxZlpqVUk4SFBabTdyX0pIOVFGZVpDeWhPUEZTTEVmNjFKa25rWlhjTmp3eDVDRHlrR2ZZU3otMUtlWFhlSURpX3NMdVJCeXNjNGF5SFJVRlF1aXpYVk5PS21xcUdCNFFBLVhpUG1Jb1dEODhPYkRlZWVZMFkxcWlWUkdVdGN3?oc=5",
-      "pub_date": 1790963527.0,
-      "article_url": "https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch",
-      "image": "https://api.army.mil/e2/c/images/2026/10/02/2895c7c6/max1200.jpg",
-      "description": "FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec..."
+      "headline": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1dMdGNfaDloUGZpUVlrQ0xjbi02X2Z2WXRiOVQtSlpUT1pRSVM2TGF3WkpSSXNGT0g5Z2lJNlNsS3hEaGNqOWNVeWxLRndaazJ1RkxNNFZyUzRGSGJjNU9VdDQ2VlFvRHFzQV9YbThnZ0ZibFRZVGxFdDFtQzhmR0lrVktfSUMzMldoYk9XbUtGZ0JJWEtXa0lwNzR1N2s?oc=5",
+      "pub_date": 1791201600.0,
+      "article_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg?resize=1200,800",
+      "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
+    },
+    {
+      "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
+      "pub_date": 1791075684.0,
+      "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-05T06:03:35.131811+00:00"
+  "fetched_at": "2026-10-05T15:08:14.681160+00:00"
 }

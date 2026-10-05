@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-05T06:03:37.393082+00:00'
+updated: '2026-10-05T15:08:17.023576+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 05, 2026 at 06:03 UTC  
+**Last Updated:** October 05, 2026 at 15:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=4whgw2gLBS8) • 3d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=4whgw2gLBS8) • 4d ago
 
 ---
 
@@ -52,7 +52,7 @@ Continuing to move from using the model directly to having the model write relia
 
 As i see there are different ways to train an AI model through machine learning/reinforcement, i was wondering if there were open source robots that can be 3D printed and programmed/trained with arduino for example through machine learning? I am quite confident i could maybe print a robot arm (maybe not a full robot body) to train for putting my t-shirts in order from a disordered cloth basket. Ok i know it is maybe basic (or maybe not 😅), i see it in a step by step project.
 
-3d ago
+4d ago
 
 ---
 
@@ -60,7 +60,7 @@ As i see there are different ways to train an AI model through machine learning/
 
 I was reading recent news from Neura robotics and they have robots that are aimed at healthcare support, for things like moving beds, equipment, and other menial tasks to support healthcare teams. I would imagine within the next decade at some point, robots might even be used for support in surgeries and medical procedures. What do you guys think? There’s an argument to be made that robots could help reduce workloads on healthcare professionals even if all they do is grunt work. There’s gonna be a market for this that I’m sure of, but imo this would need a level of trust above what is needed for industrial deployment. General purpose use in hospitals would likely see adoption in a couple years at most is my guess, but high level adoption is still quite far away. Honestly I feel healthcare would be one profession where robots can do good and would not replace human staff, just because there’s a whole interpersonal aspect of healthcare which can only be fulfilled by human staff.
 
-3d ago
+4d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've bee
 
 What is the difference between building in functional safety early on vs waiting until the end? How do safety partnerships help the industry? https://www.linkedin.com/posts/synapticon-co_humanoids-functionalsafety-robotics-activity-7511379498718625792-oPLl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMG_WMB6npmHVKREPOjVhxKwxVIs9Q1bZ0
 
-3d ago
+4d ago
 
 ---
 
@@ -112,11 +112,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
+**[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
 
-The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
+WSJ • 45m ago
 
-Business Insider • 2d ago
+---
+
+**[German robot startup RobCo hits $1 billion valuation, CEO moves to US](https://www.reuters.com/legal/transactional/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-us-2026-10-05/)**
+
+Reuters • 2h ago
+
+---
+
+**[German robotics startup RobCo hits $1 billion valuation](https://qz.com/robco-unicorn-valuation-secondary-share-sale-100526)**
+
+The Munich-founded company doubled its valuation in nine months as investors pile into physical AI and autonomous industrial robotics
+
+qz.com • 1h ago
 
 ---
 
@@ -128,33 +140,11 @@ DefenseScoop • 2d ago
 
 ---
 
-**[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
+**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
 
-US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
+Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
 
-ft.com • 1d ago
-
----
-
-**[Rubber ducks and screwdrivers put dexterous new soft robotic gripper to the test](https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html)**
-
-Tech Xplore • 16h ago
-
----
-
-**[Queen's University Belfast students head to US for Nasa competition](https://www.bbc.com/news/articles/cq20v0e7vjkgo)**
-
-The students will head to Florida to compete against university teams from Australia, India and the US.
-
-BBC • 1d ago
-
----
-
-**[AI robot company decommissioned its robots ‘Terminator-style’ in a 75-ton vat of molten steel — Arnold Schwarzenegger suggested melting them, one robot held up a thumbs-up sign as it sank into molten metal](https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal)**
-
-Hasta la vista, baby.
-
-Tom's Hardware • 16h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -162,31 +152,37 @@ Tom's Hardware • 16h ago
 
 It’s Real Steel come to life.
 
-Tom's Hardware • 15h ago
+Tom's Hardware • 1d ago
 
 ---
 
-**[The little humanoid robots that could (BOTZ:NASDAQ)](https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could)**
+**[The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
 
-Humanoid robot investing thesis shift: most “shipments” are half-size Chinese robots, not full-size labor bots.
-
-Seeking Alpha • 1d ago
+The New York Times • 2h ago
 
 ---
 
-**[OpenAI’s GPT-6 Astra found a way to play World of Warcraft without seeing the screen](https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft)**
+**[The hottest trip for Silicon Valley investors? Robot factories in China](https://www.businessinsider.com/why-silicon-valley-investors-are-touring-chinas-robot-factories-2026-10)**
 
-The AI relied on server network messages, quest data and navigation files instead of screenshots or computer vision.
+Robotics may be Silicon Valley's latest obsession, but China has spent years building up its industry.
 
-Interesting Engineering • 14h ago
+Business Insider • 5h ago
 
 ---
 
-**[Architects of Autonomy: Army activates 390A Robotics Technician MOS to forge battlefield overmatch](https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos_to_forge_battlefield_overmatch)**
+**[Can Safeworld convince people that GenAI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)**
 
-FORT BRAGG, N.C. - The U.S. Army officially activates the 390A Robotics Technician military occupational specialty at the U.S. Army John F. Kennedy Spec...
+Safeworld is building digital humans to make sure robots don't hurt the real ones.
 
-army.mil • 2d ago
+TechCrunch • 3h ago
+
+---
+
+**[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
+
+US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
+
+Financial Times • 1d ago
 
 ---
 
@@ -200,77 +196,17 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 38K • 👍 695 • 💬 46 • ⏱️ 1:00 • 18h ago
+👁️ 52K • 👍 921 • 💬 61 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
+**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
 
-Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
+Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
 
-📺 DW Documentary
+📺 The Geo Network
 
-👁️ 69K • 👍 457 • 💬 54 • ⏱️ 28:21 • 14h ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
-
-Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
-
-📺 Innovation Core
-
-👁️ 231K • 👍 2K • 💬 153 • ⏱️ 21:02 • 6d ago
-
----
-
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
-
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
-
-📺 Boston Dynamics
-
-👁️ 755K • 👍 8K • 💬 1K • ⏱️ 5:49 • 4d ago
-
----
-
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
-
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
-
-📺 ejunky66
-
-👁️ 1.8M • 👍 28K • 💬 1K • ⏱️ 1:00 • 2d ago
-
----
-
-**[Boston Dynamics Goes Full AI With New Atlas Robot](https://www.youtube.com/watch?v=qx7PoIcKS6I)**
-
-Boston Dynamics is turning Atlas into a real AI factory worker inside Hyundai's plants, while Spot gets AI agents and Google ...
-
-📺 MACHINEKIND
-
-👁️ 39K • 👍 451 • 💬 36 • ⏱️ 13:34 • 2d ago
-
----
-
-**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
-
-This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
-
-📺 Boston Dynamics
-
-👁️ 2.3M • 👍 34K • 💬 3K • ⏱️ 5:35 • 3d ago
-
----
-
-**[THIS War Robots Build is SO TOXIC...](https://www.youtube.com/watch?v=3JSTk3QnRmo)**
-
-War Robots Gameplay: Most TOXIC Samjok build ever with Iaraghi. My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 17K • 👍 493 • 💬 105 • ⏱️ 17:31 • 1d ago
+👁️ 189K • 👍 3K • 💬 133 • ⏱️ 20:27 • 5d ago
 
 ---
 
@@ -280,17 +216,77 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 📺 Canada 2050
 
-👁️ 38K • 👍 952 • 💬 31 • ⏱️ 18:22 • 4d ago
+👁️ 38K • 👍 974 • 💬 33 • ⏱️ 18:22 • 4d ago
 
 ---
 
-**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+**[Tesla&#39;s New Optimus Gen 3 Just Shocked the Entire Robotics Industry!](https://www.youtube.com/watch?v=qBVWcqJseyo)**
 
-Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+Tesla just accidentally leaked the finished design for Optimus Gen 3, and it reveals the exact reason America's humanoid robot ...
 
-📺 Hyundai Motor Group
+📺 Innovation Core
 
-👁️ 1.0M • 👍 93 • 💬 5 • ⏱️ 5:49 • 4d ago
+👁️ 233K • 👍 2K • 💬 153 • ⏱️ 21:02 • 6d ago
+
+---
+
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
+
+📺 ejunky66
+
+👁️ 2.5M • 👍 41K • 💬 2K • ⏱️ 1:00 • 3d ago
+
+---
+
+**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
+
+A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
+
+📺 ABC7 News Bay Area
+
+👁️ 6K • 👍 22 • 💬 12 • ⏱️ 1:02 • 5d ago
+
+---
+
+**[Japan&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=_bYQvpyK25Y)**
+
+Japan's Insane ROBOT PARADE Just Stunned the Entire World.
+
+📺 rubenfoto1
+
+👁️ 8K • 👍 114 • 💬 10 • ⏱️ 26:56 • 16h ago
+
+---
+
+**[This Robot Plays Chrome Dino Without Ever Losing 🦖](https://www.youtube.com/watch?v=kqzgUa51DdM)**
+
+The video demonstrates the operation of an automated system for autonomous gameplay of the "Chrome Dino" game utilizing an ...
+
+📺 History Seeker
+
+👁️ 77K • 👍 626 • 💬 18 • ⏱️ 0:08 • 3h ago
+
+---
+
+**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
+
+This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
+
+📺 Boston Dynamics
+
+👁️ 2.3M • 👍 35K • 💬 3K • ⏱️ 5:35 • 4d ago
+
+---
+
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+
+📺 Boston Dynamics
+
+👁️ 758K • 👍 9K • 💬 1K • ⏱️ 5:49 • 5d ago
 
 ---
 
