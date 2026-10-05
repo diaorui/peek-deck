@@ -5,48 +5,38 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trump announces leadership of AI task force",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sMVpwcGJ6TV9YT3ZXcDROQ1BiTW1uaWhzcFA4c2xTS21ubW14YmpzV3BrY01rYVgzX2pyeExKWkpCRHhiSVk3elVKdmREaVEyX0wtcFJWRlFoZW95T0tDdjI5R0xKOTlxd2s5b0lsTmxiWXVLdXFQZUxSaw?oc=5",
-      "pub_date": 1791118789.0,
-      "article_url": "https://www.cnn.com/2026/10/04/politics/trump-ai-task-force-jay-clayton",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285628128.jpg?c=16x9&q=w_800,c_fill",
-      "description": "President Donald Trump on Sunday announced the leadership and duties of a \u201cSuper Intelligence Force,\u201d which he said will \u201censure that America continues to lead the world\u201d when it comes to artificial intelligence."
-    },
-    {
-      "headline": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUx1aTFnUHltcTFXRmNIWVhPbW9Nd0lZMXdQVlRuVFVNMW5xRG1QaFpnanA4YnpicU9VTnMwQlZuNzJ4M0lYV0haWnNsZjZGZzFnRkNfZkItbkg2a3BCZ1FEbHdqbEZHc0E?oc=5",
-      "pub_date": 1791119243.0,
-      "article_url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Sentence Tossed After A.I. Video of Victim \u2018Forgiving\u2019 His Killer Is Played",
-      "source": "nytimes.com",
+      "headline": "Court Tosses \u200b\u200bSentence After A.I. Video of Victim \u2018Forgiving\u2019 His Killer Is Played",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1Ia3ZTSnVXbXFnNEp6TnBlbDJUOVI5cUNvNDlXRm1NRjc5dXFkTC1CVDI2SXFkaVhlZkUzcE9Vb19pbWwzcDVWZlg0N1ROSzRrME9FWDdMVFRfdURtcFpkWWNuV2Y5SkwzN2RTeVcyVVZMS1kzcUpFcTNlODR6Q2FkcEllWlVDQzMtNVBaY3c3Y2NyaEJSUm82RHU?oc=5",
-      "pub_date": 1791145911.0,
+      "pub_date": 1791147884.0,
       "article_url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlAxb0NIQ0VSdkZGTGRPS1NCMTl4ZGd5ajNHR3dsMnZRMFg1cVNUbFlLR1dWTkhReGVuYkp6QV96QXplNndCallRdkFGUmN0b0Fnejd0MkFtLUF4aTg0cklZa1RsX1NSVUFic1p2RlFFNVMzdG90VENiWDd3VHhZa1dWaGdwbmpMTEF3S3k2VDJ0UzJyZ253WEdUVlgzTHN2RHY3dko5R0tWcTg2NEVWOUYzaENIX2t2aTVvRkNR?oc=5",
-      "pub_date": 1791147780.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says?srnd=all",
-      "image": null,
-      "description": null
+      "headline": "Court throws out killer\u2019s sentence after judge said he \u2018loved\u2019 AI video of slain man",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcER3SFhsZnVPalVDQ2NRVWRERWFlMko5VnM4b2Q0VlJGQUFSLW9zU1NnSjh3T0pMUXRqX05XMnhSZVVxSTBTazlPZ25jTl9HZE9mSG1jUHQ4ckR5eUp2YTloTDVEOHEtYmtlYTFuZjBuNE9WcmVYbXNRSGRScC1IcWgxaWUtc2JqNlJ1Q2dB?oc=5",
+      "pub_date": 1791149361.0,
+      "article_url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250507-christopher-pelkey-artificial-intelligence-impact-statement-ac-610p-088565.jpg",
+      "description": "The Arizona Court of Appeals tossed a road rage killer\u2019s sentence after determining that the judge\u2019s consideration of the AI video was \u201cfundamentally unfair.\u201d"
+    },
+    {
+      "headline": "Man\u2019s Manslaughter Sentence Tossed Out After Court Determines AI Video of Victim Speaking Beyond the Grave Crossed the Line",
+      "source": "People.com",
+      "source_url": "https://people.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkNkZUF5NlRXNzdxV1VXR0Ezb1hlMzRiTDlEcDRaRHVBdEZGMjl0c1QtYi0xcEJsallCZUd1X0Jma3lIWlRjV2xaOTBpY2NvZGtUS1pQM1lKTDBOUGVXcmtISFZmY3VTYlVQXzh3UjlRcDh4T2ZoR2pEVGxVdklXdUVSN0hNb0xGWFB1RW1zb2I4Tm1SWkI2VGJvNWZUZ1k?oc=5",
+      "pub_date": 1791151510.0,
+      "article_url": "https://people.com/arizona-court-tosses-manslaughter-sentence-over-ai-victim-impact-video-12157910",
+      "image": "https://people.com/thmb/McbkOofkn6HihV45PqQmzNhgzCg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Chris-Pelkey-100426-1-b8bb13ad301947089d5ccedc80b334e5.jpg",
+      "description": "An Arizona appeals court vacated Gabriel Paul Horcasitas\u2019 manslaughter sentence after ruling that an AI victim impact video violated fair sentencing protections. Horcasitas was convicted in the 2021 shooting death of Christopher Pelkey in 2025."
     },
     {
       "headline": "Sam Altman to Decoded: \u2018The world should accept some bad things happening\u2019 for the benefits of AI",
-      "source": "Politico",
+      "source": "politico.com",
       "source_url": "https://www.politico.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
       "pub_date": 1791147300.0,
@@ -55,32 +45,32 @@
       "description": null
     },
     {
-      "headline": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology",
-      "source": "foxbusiness.com",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnN5eW5kNW1la3RKMkY0ak1LQlB3dWZ0a1d0YloyOXFnLU1Id1dSRjdjVGhoU1pQOTVsXzB6VFhFejAzT1dEcE1odkFWVElFTEV3LVZseHNuLWlYOUZITGR4WlFSTXFqejFlMXVXTXFLNjJZMjZOT3lVQjJ4UVVtNXdRWUxFWTB1X0pUUjF3TUpvdnhDNng3b0NEV3BlbE9EaWUwUkQ2Mnp0SkVP0gGyAUFVX3lxTE9iS2lFdUJQVFBKTS12dUN0bzhNcWZwQmdxUHBuOWRTNVQzRjNyOURNRTI0RGZ4RFV2Y1k0ZE9hRXRBMTUxSWswRDBlYVlSRGFxR25TbURzQm1BSXlqaW15bnpRcVVibXJxa2NMeEUwSlNTZHBjMUt3Qk5aQnk3TWJ4aDM2VXVKNVdXOXdwaGlDSUhxODRBVlYzRnVNazBQZkxLelVNV1V2anh2VjRYWXFwcnc?oc=5",
-      "pub_date": 1791129120.0,
-      "article_url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/chick-fil-a-drive-thru-worker-hands-order.jpg?ve=1&tl=1",
-      "description": "Chick-fil-A is rejecting AI for drive-thru ordering, with CEO Andrew Cathy saying human interaction remains central to the fast-food chain's hospitality."
+      "headline": "Trump launches \u2018Super Intelligence Force\u2019 after calls for AI slowdown",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa19adU9sV0V4bFFRV1BZYlJySTRjbURpekNybjFtZWIzQ3h6LWJrdXRoVG5nSGlMaTh0QlJRZkYwYWczR1JNejNIZ0wwYkFETDhPMVp2c1RrRlhqNFVyMDR1OHJIajljMkgzSEVwOUtEMXY3S2N5UE5KWFpZNExLelNIN0hUSjZhRWRaS0dMd0U0WndnMXpZWjk4UDhGR0daLS1ZV2xUMDBPREJTT3d3VFZKU1FyUQ?oc=5",
+      "pub_date": 1791149180.0,
+      "article_url": "https://www.washingtonpost.com/politics/2026/10/04/trump-launches-super-intelligence-force-after-calls-ai-slowdown/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TUZINW672G6LPLWDJO6CFU7JXU.jpg&w=1440",
+      "description": "Leaders from the intelligence community, the Pentagon, the Federal Trade Commission and the Office of Personnel Management will serve on the task force."
     },
     {
-      "headline": "Federal appeals court pauses Minnesota's AI \"nudification\" ban",
+      "headline": "Will AI take your job? Or will it transform the way you work? | 60 Minutes",
       "source": "cbsnews.com",
       "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMENON2hETU83NHA5NHk3S2tlXzA3OGg3QkV1MjdZaG1seXZGZDlhM19McGJUZGxBNmlNT3BNYVM5M0h3MjZkSXU5SFlFQVB0Z2tiY2k4NFJ3dm1wRlNGRTZvd2dHZUZqUDF4clNaUDAzT3B1OGYwOHp3NHlET3JNS0xDNzAzcmM1b2J3bThUWUg4WHNlNzhqLVJCNThuTXZY?oc=5",
-      "pub_date": 1791139597.0,
-      "article_url": "https://www.cbsnews.com/minnesota/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/02/c3b26059-0a4f-48a8-8aad-d2267a316546/thumbnail/1200x630/797e3623fcf3a1c599775adf9fae1370/gettyimages-2213179432.jpg",
-      "description": "Minnesota's law banning AI \"nudification\" images has been put on hold after a federal appeals court sided with Elon Musk's artificial intelligence company."
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmYyYUY2aXZ5TG9iODczSUoxOGE4bEZBZDFVYWV4dWdHNHY5dTk0d192LWRvNG5xR3hBNjVja0xibTlPRkF6UVRpdFNQcGhQTFRMdXg2dXZYLXZ5Mmc2TkJfZmFEZWdfQnNaVVV6ZWd0WWwtV3ZCWmlrX1JiY181cVFR?oc=5",
+      "pub_date": 1791157920.0,
+      "article_url": "https://www.cbsnews.com/video/ai-future-of-work-60-minutes-video-2026-10-04/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/02/2293574e-0ee1-4494-9b5c-ed0184bd9c93/thumbnail/1200x630/b7ba1825ed67b2e5e8fcc208058b13f9/ai-economy-wertheim-video.jpg",
+      "description": "Some Americans are working to improve artificial intelligence, teaching it the skills and knowledge accrued over the course of a career."
     },
     {
-      "headline": "I Quit OpenAI Because Its Culture Is Broken",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
-      "pub_date": 1791025200.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "headline": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmxhMW9YVG5odUE1ZG9mcGdiQzRPWXBhQzh1YUdvMkk5RVJoTWx4eE9Hb2hIY3pJRXNJdXlKdDNhRTNMTHRBa0t5bkNkUllhQ0RlMkRULTUxTFIwdDhtaXM4NW9VNmo3NUE3ZUtZbno1NXh6RFVub1lLcGduU2Y0WS1R?oc=5",
+      "pub_date": 1791158400.0,
+      "article_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
       "image": null,
       "description": null
     },
@@ -95,16 +85,26 @@
       "description": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption"
     },
     {
-      "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNTVQTGpZTFpDTndablpZbTl4SXVIdHJMd01DcV9VUmZvTGdFd0Naeno4SlA1Q01JZVdyV3RQUDNKaGdsMHlOc2s5WVhxVUswb3dURndiZW9BVWN5YUY5UnB4cGJuanVPaGZ1RXFRLWVJcjdC0gF6QVVfeXFMUFpsQ0EwT0VmZmtRUTFoNkk0R1lJb0wzc1ZVSjdETVNhVklVczBJcG5TMmtjM01mUEFIdU50Zk9QVXN3LUJXZVlEcjd3TjdVbmFLaWtua2kyMENjay1BeUdnWjRRdjd6ak9YZDh1aDA3SnI5bVp6R041TGc?oc=5",
-      "pub_date": 1791115201.0,
-      "article_url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
-      "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables."
+      "headline": "Elon Musk rebrands SpaceXAI following Trump directive",
+      "source": "foxbusiness.com",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMWs2amQzUGhmcDdna2lfTjBlckl3alhCcExSN3oxZzJZbkxnUU9sZUJ4SG1uclZJQ3BRUVluc3JMaU1BZUx4enlaSXZod3RnTUp4bmlqNDVKZnpaVUdyelBJYzctQjdrRUxTVm5Zcm9xUjIxUTlDVm9EdUh4VW16WGdwbU0weTZOc2FDSVFGdXgzUFZ0b2Vr0gGcAUFVX3lxTFBrandJaTNtWW1rMU5KOHJXYzBiYlVTZ01BUjZTV1NiV3VvWXJLTnJxUm5kOGdOeHRVRG9zdlpXR3J2eTdJeU51RGtPa3NwYzZ5UUM4dWxyTzRDYTdERXU1TmgwYVZfSlg3elZBWVdyUk16cG9XYUdxZlBIeTJFRGZ4QmpVZEpqZUVtZEk3LV9wbFZvc1NUdGd5d2pUbA?oc=5",
+      "pub_date": 1791146340.0,
+      "article_url": "https://www.foxbusiness.com/technology/elon-musk-rebrands-spacexai-following-trump-directive",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-12.jpg?ve=1&tl=1",
+      "description": "SpaceX's artificial intelligence arm is undergoing another identity change just months after Elon Musk consolidated xAI into the company."
+    },
+    {
+      "headline": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race",
+      "source": "axios.com",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUx1aTFnUHltcTFXRmNIWVhPbW9Nd0lZMXdQVlRuVFVNMW5xRG1QaFpnanA4YnpicU9VTnMwQlZuNzJ4M0lYV0haWnNsZjZGZzFnRkNfZkItbkg2a3BCZ1FEbHdqbEZHc0E?oc=5",
+      "pub_date": 1791119332.0,
+      "article_url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-04T21:15:32.774130+00:00"
+  "fetched_at": "2026-10-05T00:04:50.315636+00:00"
 }
