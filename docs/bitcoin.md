@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-05T15:08:17.017173+00:00'
+updated: '2026-10-05T22:08:02.986285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 05, 2026 at 15:08 UTC  
+**Last Updated:** October 05, 2026 at 22:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,914.89
+### $85,974.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.3%  
-**30d:** +6.5%  
-**90d:** +37.3%  
-**1y:** -31.4%  
+**24h:** -0.6%  
+**7d:** +2.7%  
+**30d:** +7.0%  
+**90d:** +37.9%  
+**1y:** -31.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1719.86B
+**Market Cap:** $1727.53B
 Rank #1
 
-**Circulating Supply:** 20,093,759 BTC
+**Circulating Supply:** 20,093,912 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.1%
+-31.8%
 
 **All-Time Low:** $67.81
-+126105.6%
++126685.1%
 
 ---
 
@@ -133,7 +133,7 @@ Around 10–11 months ago, I gave a friend approximately $3,600 to invest in Bit
 
 **[The MIT Media Lab's snack machine now accepts Bitcoin payments via the Lightning Network](https://www.reddit.com/r/Bitcoin/comments/1wwt5ey/the_mit_media_labs_snack_machine_now_accepts/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -141,7 +141,7 @@ Around 10–11 months ago, I gave a friend approximately $3,600 to invest in Bit
 
 Recommended reading: "A History of Central Banking and the Enslavement of Mankind" by Stephen Mitford Goodson
 
-1d ago
+2d ago
 
 ---
 
@@ -149,19 +149,63 @@ Recommended reading: "A History of Central Banking and the Enslavement of Mankin
 
 ## Google News: "bitcoin"
 
-**['Uptober' Starts Green as Bitcoin ETFs Draw $134 Million](https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million)**
+**[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
 
-Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow.
+The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
 
-Decrypt News • 1d ago
+Decrypt News • 3h ago
 
 ---
 
-**[Live updates: Bitcoin above $86,000 as traders price out an October Fed hike](https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike)**
+**[Why Is Bitcoin Worth $1.7 Trillion Right Now?](https://currently.att.yahoo.com/att/why-bitcoin-worth-1-7-213304876.html)**
+
+In the last 15 years, this cryptocurrency's price has skyrocketed 1,700,000%.
+
+Currently.com • 34m ago
+
+---
+
+**[Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter](https://finance.yahoo.com/markets/crypto/articles/why-4chan-bitcoin-prophecy-says-204603420.html)**
+
+An anonymous 4chan user called Bitcoin's October 2025 peak to the day way back in 2023. Could they be right again?
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Live updates: Bitcoin under pressure as rates continue to rise](https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike)**
 
 A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below $87,000, with FOMC minutes due Wednesday.
 
-CoinDesk • 1h ago
+coindesk.com • 1h ago
+
+---
+
+**[Strategy Returns to Profitability on $21 Billion 3Q Gain](https://www.bloomberg.com/news/articles/2026-10-05/strategy-returns-to-profitability-on-21-billion-unrealized-gain)**
+
+Bloomberg.com • 9h ago
+
+---
+
+**[Is Strategy's Bitcoin Machine Broken? Peter Schiff Says It Is](https://www.tradingview.com/news/benzinga:541dd3e77094b:0-is-strategy-s-bitcoin-machine-broken-peter-schiff-says-it-is/)**
+
+Longtime crypto skeptic Peter Schiff over the weekend claimed Strategy NASDAQ:MSTR can no longer fund its Bitcoin CRYPTO:BTCUSD purchases.Why Schiff Says Strategy’s Funding Is StuckSchiff said in a podcast update that Strategy’s Stretch preferred stock, STRC NASDAQ:STRC, has climbed back to about…
+
+TradingView • 2h ago
+
+---
+
+**[Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2026/10/05/trump-just-gave-everyone-a-shocking-40-trillion-reason-to-buy-bitcoin-and-quickly/)**
+
+Forbes • 8h ago
+
+---
+
+**[Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA](https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677)**
+
+Strive's bitcoin holdings climbed to 29,462 BTC, while Metaplanet overtook Twenty One after adding a net 1,000 BTC, raising the bar for the number-two spot.
+
+The Block • 7h ago
 
 ---
 
@@ -169,55 +213,13 @@ CoinDesk • 1h ago
 
 Bitcoin jumped above $86,000 on Friday after a cooler-than-expected jobs report.
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086)**
 
-Investing.com • 55m ago
-
----
-
-**[Coinbase Stock vs. Bitcoin: Which Investment Performs Better?](https://finance.yahoo.com/markets/crypto/articles/coinbase-stock-vs-bitcoin-investment-140045554.html)**
-
-Coinbase has long been pitched as the smart, stable way to ride crypto without holding it directly, but the numbers behind that pitch tell a very different story about which bet actually holds its value.
-
-finance.yahoo.com • 1h ago
-
----
-
-**[Bitcoin Could Become Collateral for Generational Wealth](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/bitcoin-become-collateral-generational-wealth/)**
-
-ETF Database • 1h ago
-
----
-
-**[Strategy Returns to Profitability on $21 Billion Unrealized Gain](https://www.bloomberg.com/news/articles/2026-10-05/strategy-returns-to-profitability-on-21-billion-unrealized-gain)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Strategy Stock Rises After $29 Million Bitcoin Purchase](https://www.barrons.com/articles/strategy-stock-price-bitcoin-purchase-8c644369)**
-
-Barron's • 26m ago
-
----
-
-**[Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter](https://www.cnbc.com/2026/10/02/bitcoin-just-formed-a-golden-cross-pattern-the-crypto-is-setting-up-for-a-big-fourth-quarter.html)**
-
-When looking for best ideas for the fourth quarter nothing jumped off the charts to me — literally — like bitcoin.
-
-CNBC • 3d ago
-
----
-
-**[Bitcoin faces major short liquidation cluster near $90K, Glassnode says](https://www.tradingview.com/news/cryptobriefing:c321fa35f094b:0-bitcoin-faces-major-short-liquidation-cluster-near-90k-glassnode-says/)**
-
-Bitcoin's biggest pool of vulnerable short bets is sitting right overhead. On October 4, 2026, on-chain analytics firm Glassnode flagged that the largest short liquidation cluster sits near the $90,000 level.With Bitcoin trading between $85,000 and $86,000 at the time, that cluster is not some dist…
-
-TradingView • 9h ago
+Investing.com • 6h ago
 
 ---
 
@@ -233,21 +235,13 @@ These researchers found that there's a spike in Bitcoin activity around the time
 
 Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
 
-⬆️ 18 • 💬 6 • 3d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
+⬆️ 19 • 💬 6 • 3d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
 
 ---
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 4d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
-
----
-
-**[Bitcoin trading model, published in full – wins and failures](https://news.ycombinator.com/item?id=49884283)**
-
-A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.
-
-⬆️ 2 • 💬 1 • 6d ago • [BitcoinAI.Pro](https://www.bitcoinai.pro/)
+⬆️ 3 • 💬 0 • 5d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -271,13 +265,13 @@ In the first race between personal AI agents, I hide real money online in bitcoi
 
 An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macr...
 
-⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
+⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
 
 ---
 
 **[Bioinformaticians have been writing the same abstract for decades](https://news.ycombinator.com/item?id=49960668)**
 
-⬆️ 1 • 💬 0 • 10h ago • [luispedro.substack.com](https://luispedro.substack.com/p/bioinformaticians-have-been-writing)
+⬆️ 1 • 💬 0 • 17h ago • [luispedro.substack.com](https://luispedro.substack.com/p/bioinformaticians-have-been-writing)
 
 ---
 
@@ -285,7 +279,7 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 Florida voters are weighing whether to scrap residential property taxes and the state's governor has a solution to that potentially huge revenue loss: tax Canadians more.
 
-⬆️ 28 • 💬 40 • 1d ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
+⬆️ 28 • 💬 41 • 1d ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
 
 ---
 
@@ -293,33 +287,63 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin&#39;s Bullish Signal Is HERE. Economy Expands.](https://www.youtube.com/watch?v=FvjMORjhNa8)**
+
+Bitcoin is one crossover away from its first full bullish moving-average alignment since June 2025 — and U.S. manufacturing just ...
+
+📺 Digital Asset News
+
+👁️ 6K • 👍 365 • 💬 18 • ⏱️ 27:13 • 5h ago
+
+---
+
 **[Bitcoin Breakout Faces Its Biggest Macro Test](https://www.youtube.com/watch?v=kK8p0pjCOtA)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 4K • 👍 383 • 💬 11 • ⏱️ 49:44 • 30m ago
+👁️ 21K • 👍 681 • 💬 111 • ⏱️ 49:44 • 7h ago
 
 ---
 
-**[Did the US Government Just Set Up Bitcoin&#39;s Biggest Bull Run?!](https://www.youtube.com/watch?v=dMz7bgiH09U)**
+**[$286 Million Bitcoin BUYING FRENZY - Public Companies Are Loading Up](https://www.youtube.com/watch?v=w5HcgeAt0CE)**
 
-The bond market is pushing back, Washington is talking about $5000 checks, and the episode argues that monetary debasement ...
+Public companies just unleashed a $286.9 million Bitcoin buying frenzy, acquiring another 3334 BTC as Bitcoin pushes toward ...
 
-📺 Simply Bitcoin
+📺 Bitcoin News Alerts
 
-👁️ 33K • 👍 2K • 💬 136 • ⏱️ 18:16 • 16h ago
+👁️ 1K • 👍 145 • 💬 76 • ⏱️ 14:20 • 3h ago
 
 ---
 
-**[There Won&#39;t Be Any XRP, Bitcoin Or Ethereum Left To Buy Very Very Soon And No One Even Cares](https://www.youtube.com/watch?v=Hd3TiAh0IJM)**
+**[MAJOR Bitcoin Breakout Incoming! Are You Ready?](https://www.youtube.com/watch?v=jTNttJvnjr8)**
 
-Remember this video in a few years when there's no more cryptocurrency left on exchanges and Bitcoins price is well over a ...
+A major rally is coming. Sign up for the Crypto Jebb Research Symposium: ...
 
-📺 Money Rules - Investing Tips 
+📺 Crypto Jebb
 
-👁️ 4K • 👍 751 • 💬 140 • ⏱️ 20:25 • 2h ago
+👁️ 2K • 👍 170 • 💬 14 • ⏱️ 8:16 • 4h ago
+
+---
+
+**[BITCOIN IS PUSHING FOR IT!](https://www.youtube.com/watch?v=wj2LmRvSNdA)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 10K • 👍 315 • 💬 92 • ⏱️ 15:50 • 7h ago
+
+---
+
+**[Yields Stay Strong As Global Unrest Increases, Major Test For Bitcoin And Gold, Top Trades](https://www.youtube.com/watch?v=TRaF6ubn-jU)**
+
+Yields keep climbing on global unrest, Brazil's market rips 13%, and Bitcoin and gold face a major test. Trade alongside the ...
+
+📺 Verified Investing
+
+👁️ 88K • 👍 4K • 💬 57 • ⏱️ 18:27 • 8h ago
 
 ---
 
@@ -329,67 +353,37 @@ Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncryp
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 364 • 💬 57 • ⏱️ 6:34 • 10h ago
+👁️ 13K • 👍 425 • 💬 62 • ⏱️ 6:34 • 17h ago
 
 ---
 
-**[WHY THIS BITCOIN WEEK COULD BE VERY IMPORTANT](https://www.youtube.com/watch?v=gEcVPwKwhSk)**
+**[BITCOIN HOLDERS: WATCH THIS BEFORE MONDAY!!!!](https://www.youtube.com/watch?v=NhG63C7arQM)**
 
-APPLY TO WORK WITH ME. We take a limited number of new members each month.
+check out Democracy https://ckenny.com/Democracy X — https://x.com/thesoldemocracy Blofin https://ckenny.com/BlOFinMain ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 Conor Kenny
 
-👁️ 5K • 👍 421 • 💬 72 • ⏱️ 16:26 • 5h ago
-
----
-
-**[Bitcoin Holds $86K While The Dollar Hits An 18-Month High | Michael Howell](https://www.youtube.com/watch?v=T696IlSLYBI)**
-
-Bitcoin #Crypto #finance Bitcoin holds strong near $86K despite the dollar hitting an 18-month high and Treasury yields ...
-
-📺 The Wolf Of All Streets
-
-👁️ 5K • 👍 407 • 💬 51 • ⏱️ 1:05:28 • 57m ago
+👁️ 18K • 👍 525 • 💬 117 • ⏱️ 18:50 • 17h ago
 
 ---
 
-**[BITCOIN WARNING: This Will TRAP Traders (Fakeout)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cYjll3c_apI)**
+**[Bitcoin Is WAY Ahead Of The 4-Year Cycle. Go All In ?](https://www.youtube.com/watch?v=xQvMRh-0AEo)**
 
-BITCOIN WARNING: This Will TRAP Traders (Fakeout)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Four years ago Bitcoin was down 70% from its all-time high. Today it's only down 32%. We are WAY ahead of schedule, and a lot ...
 
-📺 Crypto World
+📺 Digital Asset News
 
-👁️ 3K • 👍 231 • 💬 15 • ⏱️ 15:29 • 3h ago
-
----
-
-**[HUGE Uptober Week for Bitcoin and Crypto...](https://www.youtube.com/watch?v=A7VActnvfuI)**
-
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 819 • 💬 156 • ⏱️ 9:07 • 15h ago
+👁️ 22K • 👍 575 • 💬 51 • ⏱️ 46:36 • 1d ago
 
 ---
 
-**[Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?](https://www.youtube.com/watch?v=US01akVg4es)**
+**[My Plan To Make Millions With Crypto Altcoins and Bitcoin [It&#39;s Big]](https://www.youtube.com/watch?v=d3e-LhppGMg)**
 
-No B.S. Just Charts. Bitcoin heads into a make-or-break week, and Gareth Soloway shows the exact bull flag level that decides ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
 
-📺 Gareth Soloway
+📺 Tyler S
 
-👁️ 97K • 👍 3K • 💬 306 • ⏱️ 15:03 • 22h ago
-
----
-
-**[It&#39;s Official: Bitcoin Has Won the Iran War!](https://www.youtube.com/watch?v=dnY5lD3njuc)**
-
-Bitcoin is outperforming through geopolitical chaos while the bond market flashes signs of serious stress. Trump is openly talking ...
-
-📺 Simply Bitcoin
-
-👁️ 43K • 👍 2K • 💬 153 • ⏱️ 16:08 • 1d ago
+👁️ 25K • 👍 849 • 💬 350 • ⏱️ 18:19 • 1d ago
 
 ---
 

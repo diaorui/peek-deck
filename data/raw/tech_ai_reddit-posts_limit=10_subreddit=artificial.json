@@ -13,15 +13,37 @@
       "description": "History is something I'm quite passionate about and at work I have experience with software development and LLMs. So I thought how can I bring these things together and built something that I would actually use. This is the results of a few months of hard work! You type any topic, moment or person. About 1 minute later, two (or one) hosts are telling you the story, researched with sources and paired with artwork that follows along. They also remember what you've listened to in the past and can refer to it. At the end there's also a optional quiz to test what you learned! My favorite part: you can interrupt them. Got a question halfway through? Just ask. They answer it and then pick the story back up. Basically a podcast you can talk back to. They also remember what you've listened to before and will bring it up. It doesn't just make things up and hope. Before a word of the script gets written, it researches the topic on the web and checks the key dates, names and numbers against real sources. And when those sources disagree (which in history is constantly), the hosts tell you that instead of quietly picking a side. Every episode links what it used so you can dig in yourself. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, voices, quiz, etc.... The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. Currently supports 6 languages! Looking for feedback really and to see if this is worth continuing down this rabbit hole You can try it without an account here: historai.ca/"
     },
     {
-      "title": "The top 50 AI researchers by citations",
-      "author": "ksprdk",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/",
-      "published": 1791136749.0,
-      "thumbnail": "https://preview.redd.it/7nvksu0dohth1.png?width=640&crop=smart&auto=webp&s=fb6240c13506ef642329803b9f78ae5d43eb6b14",
+      "title": "The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot",
+      "author": "Altruism7",
+      "url": "https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/",
+      "published": 1791216717.0,
+      "thumbnail": "https://external-preview.redd.it/3e1uey7hKVs5NTUDVKZRhN0SAOsPsQjS0-2kJ34q_rE.jpeg?width=640&crop=smart&auto=webp&s=249f94beec933c5e5a12b004f3dc8e224898b11f",
+      "external_url": "https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/",
+      "site_name": "CNET",
+      "favicon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=180",
+      "description": "More of what you're reading online could be written by an AI bot."
+    },
+    {
+      "title": "Best text model currently?",
+      "author": "-Duplex-",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyjudu/best_text_model_currently/",
+      "published": 1791233273.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50"
+      "description": "What model is the best at text only"
+    },
+    {
+      "title": "Maybe the biggest risk in AI is being too afraid to kill your own product",
+      "author": "kkkyyyzzz",
+      "url": "https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/",
+      "published": 1791220362.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Quick disclosure first: Genspark annual subscriber and a pretty heavy user. I use it for slides, research, organizing web stuff, random agent tasks, and I\u2019ve stolen more than a few community Skills to solve oddly specific problems. Recently I watched Genspark CEO's AGI Playground 2026 talk, and here's my two cents. One thing from the talk stuck with me more than the product demos: in AI, staying still might actually be riskier than changing too fast. Genspark started with AI search, got to millions of users, then moved toward Super Agent, and now they\u2019re pushing the whole AI Workspace idea. Their newest thing is GenOffice, basically an AI-native Office suite for docs, spreadsheets, slides and PDFs. Free, open source, works on PC/Mac, and according to the CEO, one engineer built it in a week. Kinda insane if true. What\u2019s interesting to me is the mentality behind it. In normal software, finding PMF means you protect it and spend years optimizing around it. In AI, the product category itself might be obsolete before you finish optimizing. We\u2019ve already gone from chatbot \u2192 AI search \u2192 agents \u2192 workspaces ridiculously fast. So now I'm starting to believe maybe the skill AI companies need most isn\u2019t knowing what to stick with. It\u2019s knowing what to kill before someone else kills it for you. Is constantly reinventing the product actually necessary in AI right now, or are companies moving too fast for their own good? Would love to here what you guys think."
     },
     {
       "title": "Court throws out killer\u2019s sentence after judge said he \u2018loved\u2019 AI video of slain man",
@@ -35,82 +57,60 @@
       "description": "The Arizona Court of Appeals tossed a road rage killer\u2019s sentence after determining that the judge\u2019s consideration of the AI video was \u201cfundamentally unfair.\u201d"
     },
     {
-      "title": "Half of surveyed UK novelists fear AI could replace their work entirely",
-      "author": "Brighter-Side-News",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxv3km/half_of_surveyed_uk_novelists_fear_ai_could/",
-      "published": 1791160640.0,
-      "thumbnail": "https://external-preview.redd.it/m7Sq5ExUu2ogedMaQvEQL1hGjhmPX5dInFl8AP3XMTU.png?width=640&crop=smart&auto=webp&s=4cdc79058da4cd104a8d8d1150730d864a6792d2",
-      "external_url": "http://thebrighterside.news/post/half-of-surveyed-uk-novelists-fear-ai-could-replace-their-work-entirely",
-      "site_name": "The Brighter Side of News",
-      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
-      "description": "For many British novelists, the threat from artificial intelligence reaches beyond the manuscript on their desk. It also touches the freelance assignments that pay their bills, their ownership of published work, and their connection with readers. A University of Cambridge report found that 51% of participating published novelists believed AI would likely replace their fiction-writing work entirely. Another finding was more immediate: 39% said generative AI had already hurt their income. Some 85% expected their future earnings to decline because of it. Published in, The Impact of Generative AI on the Novel examined experiences across British fiction. Clementine Collett, a BRAID UK Research Fellow at Cambridge\u2019s Minderoo Centre for Technology and Democracy, led the research. The report was published in association with the Institute for the Future of Work."
+      "title": "The top 50 AI researchers by citations",
+      "author": "ksprdk",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/",
+      "published": 1791136749.0,
+      "thumbnail": "https://preview.redd.it/7nvksu0dohth1.png?width=640&crop=smart&auto=webp&s=fb6240c13506ef642329803b9f78ae5d43eb6b14",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50"
     },
     {
-      "title": "Long-running agents: is the bottleneck the model or the scaffolding around it?",
-      "author": "Sad_Lavishness_53",
-      "url": "https://www.reddit.com/r/artificial/comments/1wy20j4/longrunning_agents_is_the_bottleneck_the_model_or/",
-      "published": 1791183986.0,
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "author": "shield_x",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyfyuj/people_are_asking_chatgpt_to_help_them_decide_how/",
+      "published": 1791224321.0,
+      "thumbnail": "https://external-preview.redd.it/oZwQQEOC5gTVjrIMbJ6dru3JACPUBqj-26zeO4yTLc0.jpeg?width=640&crop=smart&auto=webp&s=651bb93e3ff0ef2fdc54bda3197c59883af3a593",
+      "external_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "site_name": "NPR",
+      "favicon": "https://media.npr.org/chrome/favicon/favicon-180x180.png",
+      "description": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
+    },
+    {
+      "title": "Prompt language for RAG when the target language is different",
+      "author": "Cold-Illustrator-288",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyc7oa/prompt_language_for_rag_when_the_target_language/",
+      "published": 1791215786.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Something I keep noticing with agent setups: every individual step is easy for the model, but the full chain still falls apart on long tasks. I think it comes down to three things: Error compounding. At 95% accuracy per step, a 20-step chain only succeeds about a third of the time (0.95^20 is roughly 0.36). Small errors stack up fast. Context pollution. After enough tool calls, the context is full of old outputs, dead ends and failed attempts, and the model slowly loses track of the original goal. Weak self-correction. When a step goes wrong, the model usually keeps building on top of it instead of backing up and fixing it. What I'm unsure about is where the real fix comes from. One camp says it's mostly better models. The other says a well-designed loop (checkpoints, verifier steps, state stored outside the context window) matters more than the model itself. Curious what people here have seen in practice: Do you keep the full history in context, or summarize/prune as you go? Has a separate critic or verifier model actually helped, or does it just add latency and cost? At what point in a task do your agents usually start breaking, and what actually fixed it for you? Would love to hear what's worked and what hasn't."
+      "description": "Hello, I haven't had proper time to experiment with this myself, so I thought I'd ask the community to see what has yielded better results for the majority. Is it better to write the prompt for a RAG system in the target language? Or is it better to write the prompt in English, and then ask in the prompt to translate to the target language? This question comes to my mind because I assume English is the language with more data and instructions that the LLM was trained, so I'd think it'd adhere better to the prompt. The content itself would be in the target language. I'd think that is specially important depending on how common the language is and the amount of available training data that might be out there."
     },
     {
-      "title": "If nothing else, LLMs seem to be getting humour a bit better.",
-      "author": "colinwheeler",
-      "url": "https://www.reddit.com/r/artificial/comments/1wy3z8l/if_nothing_else_llms_seem_to_be_getting_humour_a/",
-      "published": 1791191909.0,
-      "thumbnail": "https://preview.redd.it/i8wz4wt59mth1.png?width=320&crop=smart&auto=webp&s=37bd12eae9606e733e2ff61eadbdf9a13baaf558",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This one actually had me laughing out loud."
+      "title": "Context Language Models",
+      "author": "striketheviol",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyi5nb/context_language_models/",
+      "published": 1791229319.0,
+      "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb",
+      "external_url": "https://arxiv.org/abs/2609.37725",
+      "site_name": "arXiv.org",
+      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+      "description": "We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance."
     },
     {
-      "title": "Plagiarism checker= Genius",
-      "author": "meenags",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxqvl6/plagiarism_checker_genius/",
-      "published": 1791148668.0,
+      "title": "AI vs Bottlenecks",
+      "author": "realcleverscience",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyhtzw/ai_vs_bottlenecks/",
+      "published": 1791228563.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Whoever invented the AI plagiarism checker is a genius. Why wait for papers to be published online when you can get people to upload college essays and other publications in an effort to detect AI usage. The models must be getting a lot of data from colleges and schools"
-    },
-    {
-      "title": "China\u2019s AI Safety Money Problem",
-      "author": "overflow_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wy92jj/chinas_ai_safety_money_problem/",
-      "published": 1791208207.0,
-      "thumbnail": "https://external-preview.redd.it/wiCYSSSxJ-CQbJARf8HD_z7kpnFvZ21aCzwLm4Jdods.jpeg?width=640&crop=smart&auto=webp&s=ac5b758004657d9b8809c2d893d7f5b72c79d15e",
-      "external_url": "https://open.substack.com/pub/chinatalk/p/chinas-ai-safety-money-problem?r=a7orj&utm_campaign=post&utm_medium=email",
-      "site_name": "open.substack.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "How do AIs actually collect my sensitive information?",
-      "author": "Rare_Bat2584",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxzgva/how_do_ais_actually_collect_my_sensitive/",
-      "published": 1791174562.0,
-      "thumbnail": "https://preview.redd.it/ma6b3pwoskth1.png?width=640&crop=smart&auto=webp&s=ad6c3afdfd9bd0dc4898917023277e70be2f0899",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I dont use the google ai that much because it generally gives bad info, but a few times I have noticed it \"randomly\" guesses things, like my age, my name, where I live ect. Whenever I ask the ai it says it has no access to my phones, messages, mic, ect and that it doesn't store chat info session to session. For instance, I just got a new cat a few days ago, I never asked the ai about my cat, or anything related to its name. Then I asked it \"why does my cat chase nothing\" And it kept referring to my cat by name. When pressed it just said that it randomly pulled that name out of thin Air. My cats name is Julius, I have a very hard time believing it pulled that out of nowhere. So what does it do? Read my texts? Access my mic or what? Because the only person I've even told that I got a cat was my sister in text."
-    },
-    {
-      "title": "OpenAI cuts ties with 3 researchers over alleged misconduct",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/",
-      "published": 1791139306.0,
-      "thumbnail": "https://external-preview.redd.it/emQ1tZrLXITL4YvM8vbedHEP_hssfUthBxUWkIEEte4.jpeg?width=640&crop=smart&auto=webp&s=df86b61ea71e740f5b5e5eda80d2918f0830564e",
-      "external_url": "https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "The ousters come as top AI researchers wield \"extraordinary influence\" internally, at the same time that companies face public pressure to increase safety measures"
+      "description": "I've been thinking about this a lot and discussing a lot with chatgpt. I asked it summarize the discussion. Thoughts? ~~~ Is AI different from previous technologies because it can attack the bottlenecks created by its own progress? I've been thinking about AI progress less in terms of \"how many jobs can AI automate?\" and more in terms of bottlenecks. A common pattern in technological progress is: Break bottleneck A \u2192 production expands \u2192 bottleneck B becomes important \u2192 break B \u2192 bottleneck C appears. In other words, technology tends to move bottlenecks. AI seems potentially different because it can help attack the next bottleneck too. For example, suppose AI helps us design much more electricity infrastructure. We might then hit constraints in transformers, factories, electricians, construction, materials, permitting, logistics, etc. AI can potentially work on many of these simultaneously: designing better equipment, optimizing factories, training workers, coordinating construction, preparing permits, finding material substitutes, improving robotics, and so on. And it doesn't necessarily need to replace workers. It can augment them, making an electrician, construction worker, engineer, etc. several times more productive. This makes me wonder if AI is better described as a \"generalized bottleneck breaker\" rather than simply a general-purpose technology. Traditional technology: Break bottleneck \u2192 bottleneck moves. AI potentially: Break bottleneck \u2192 identify new bottleneck \u2192 attack that bottleneck too \u2192 repeat. And it can attack a bottleneck from multiple directions at once: Process: optimize or redesign the workflow Labor: automate tasks or augment workers Tools: design better machines and robotics Materials: discover substitutes or more efficient ways to use them Manufacturing: optimize factories and production processes Logistics: improve routing, scheduling, and supply chains Design: redesign the product so it requires fewer scarce inputs Training: rapidly train people to work in the bottleneck Coordination: reduce delays between organizations and workers Permitting: automate applications, analysis, and compliance work And there's a potentially recursive version: AI \u2192 better engineering \u2192 better robots \u2192 automated factories \u2192 cheaper/better robots \u2192 more AI/robots \u2192 better engineering... So perhaps the unusual thing about AI isn't just how powerful it is at any particular task, but that it can increase the productivity of bottleneck removal itself, attacking every bottleneck, in every industry, at every level of the stack, simultaneously. The bottlenecks don't disappear\u2014physical resources, energy, land, time, etc. still matter. But perhaps AI allows us to move through the constraint frontier much faster. One reason I think this is particularly useful to think about is that there's substantial disagreement on how quickly ai and robotics will impact the economy. Both sides agree that ai is powerful, but it seems the disagreement is precisely about the bottlenecks that emerge. One side points out the traditional issues (buildout, regulation, etc) while the very optimistic side insists that ai will destroy all bottlenecks. I'm leaning toward something in between those extremes because bottlenecks will still exist, and some are harder to address than others, however, I do think ai will be able to 'widen' even those tough bottlenecks. Is \"generalized bottleneck breaker\" a useful way to think about AI? Am I overestimating how broadly it can attack physical and institutional bottlenecks?"
     }
   ],
-  "fetched_at": "2026-10-05T15:07:43.450895+00:00"
+  "fetched_at": "2026-10-05T22:07:27.299656+00:00"
 }

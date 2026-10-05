@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-05T22:08:02.222967+00:00",
+  "data": "JEV-27B-VL is a multimodal vision-language model that performs image-text-to-text tasks, enabling zero-shot decision-making for applications like robot arm control and short-video recommendation by outputting calibrated probabilities for user-defined options based on visual and textual inputs.",
+  "model_id": "autotrust/JEV-27B-VL"
+}

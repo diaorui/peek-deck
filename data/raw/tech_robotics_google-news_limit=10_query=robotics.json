@@ -9,60 +9,40 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
-      "pub_date": 1791210177.0,
+      "pub_date": 1791183600.0,
       "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
       "image": null,
       "description": null
     },
     {
-      "headline": "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2Q2ODVLbmROM2lGYXBQX2w3ZHREYXNoQUdQYUpSSmdHN1RMMVRnY3BWbmJIbmZBanlod0NETUZnekhZVVdsUU15eTlzdk81cTJSWnZpWHRtcHljcmstYXpGRjU3UlVKaHc4dFo4OVlIVG82Sm42aF9sendUc3Y4WldoV29QTlIyLXQyeGlhQk9zRF9SdEthUkV1VDg5YWlKb1lZcGJoaDdraGFQZmx4VmVXdTk3bjF2RG92dA?oc=5",
-      "pub_date": 1791205423.0,
-      "article_url": "https://www.reuters.com/legal/transactional/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-us-2026-10-05/",
-      "image": null,
-      "description": null
+      "headline": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
+      "source": "businessinsider.com",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5",
+      "pub_date": 1790955540.0,
+      "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+      "image": "https://i.insider.com/6abef42fd15f8a572974d52c?width=1200&format=jpeg",
+      "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
     },
     {
-      "headline": "German robotics startup RobCo hits $1 billion valuation",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSW5XWHJPd2RWSDdPMl9hR0RUX0R1eXlDUDk5blpqbDNVUE1HWmdSOXYwY1NYck9NaFE3MkJZeWJIQk9DNDAtczJVZjZuLUwycXBIVlRnYUV4Nml3RVY4R0V1VFJIMllhSDgwOVNIdldGbi1s?oc=5",
-      "pub_date": 1791206748.0,
-      "article_url": "https://qz.com/robco-unicorn-valuation-secondary-share-sale-100526",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1417643504-300x200.jpg",
-      "description": "The Munich-founded company doubled its valuation in nine months as investors pile into physical AI and autonomous industrial robotics"
+      "headline": "Orbital Robotics gets set to send up a pair of arms for International Space Station\u2019s robots",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZU5pb2hNZXRWRk1DUmdnU2FGcGVjcGF2dnV4dUxpNkt3ZXp6RDM3T08tMTNlLVdxempVVzJBMkxOWGRIOXBkSXN5blBCaVJWejRaOVF5RjNvZXJHZDhFZnBHV3Y2Tl9KTGpCRW9tdmFCMGhxV3Z6MHBMZmdoTHlkaXd2Y3VtdE0?oc=5",
+      "pub_date": 1791205200.0,
+      "article_url": "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
+      "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
     },
     {
-      "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
-      "source": "DefenseScoop",
-      "source_url": "https://defensescoop.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVndNYzRSYUhXbllrMVB0QW05Q2pEZFFiUnoyRUQ0dHJQLUstZllJLTRXZFNkaUR3UUYyaFpHR3J4amFjRE1hcTcyV29NWV9GU251YmpzNU9GQkpQQzVoUFVZTTVNaUtldEVhR0sxanZnTzlYRUZyT3g4d1d5LWtUbHFMM3VtMGYtTG5VeWxyUHM4YnZZblp2M3dMQ25ocEZSOTJVUmI3ZTl5RTRTbWc?oc=5",
-      "pub_date": 1790978926.0,
-      "article_url": "https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators/",
-      "image": "https://defensescoop.com/wp-content/uploads/sites/8/2026/10/9982087-e1790977738690.jpg",
-      "description": "Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology."
-    },
-    {
-      "headline": "Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTFF0WTJGSmNjM3NCeFVielgwMnA1RnBTNDUyc3BEMlBBTXc5ejV6Y2lZSVVUbF8zTU1QUXNzanVNTjNNNXRqdHotOEItLXVJa1V3aDNBN01pSWx2eW1GcXQySFNBOTNYS1lz?oc=5",
-      "pub_date": 1790958686.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=68024679&width=1200&height=600&coordinates=0%2C328%2C0%2C329",
-      "description": "Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal"
-    },
-    {
-      "headline": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order \u2014 regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzR6OVd2V0ZxdEx3SGNKc2pMdFdmcmVsSWNwcnRUR3FYdmtFMmdiQnlETVV0OEhVVjhwMUtrOW5FUDh3Q09wZnNsbTJYQm13RVNYMTlKS29NMExDZE0tMGhwWTRkU3JJMHNrcXFIX05aUDZ5ekZpYUJkbnlTbzZZQjFfTEFUUzdlZnA1MXdOTm1FQXlJdHM4RmRDRk1DYzh5bUZydGVSYlh4ZHU1dDF6Z3llelNGWkdoVkJVOG4zaktzV3RmU010dldCQUlsT2l6Q1A2WjRlZWpCLVYwMXExbTQyaHBJcnB5SW9PLWlBb1VFeVRlZmhaVE5BeHprUXhqQTlYUHlNUDRRWkpoNmw2WVVKakFsQ0JxYzBCdklIbnhlNnlSaVh2UE9mdk9ycm00bllJcV9yMDhwX3ZGMWdOSjV4WVZ5RGpKZi05Z1lxX3Nxc2p1d0tDcw?oc=5",
-      "pub_date": 1791124585.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids",
-      "image": "https://cdn.mos.cms.futurecdn.net/NruUp5NGPxCRDCzTrVBQxN-1920-80.png",
-      "description": "It\u2019s Real Steel come to life."
+      "headline": "Human vs humanoid robot cage fight goes viral",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NV3Z3YWRWLW5mMFVvbVZwaWRjNmlYWUxWRHhSSThJdU9vczFuV01XUGZtT2VKdWVaYkc3OWlZdlZ3M0FGRmIwdVNzOU0yWW1tYzB5NW5ISFNSUWVvWEtKWlFwZGNUa3hGT1hmRWdHcXBQOUZLU3FYSkg5U0JBcGPSAYQBQVVfeXFMT2pVVDJuUmdqZEM0eGFHaGdWZEtuVi1DLTA2MjI2bHZIcURJcXgwVEhXMGgyWjJ1THJlbi1GSWNHdkEwSWRkei1jUnhscnpYaTdJWUxwYW55eEZ5bHpGU0g2SGJUSTlJZDBKbE00bkhyMXBvOGZPSUhWemYyNGlqekVSZlJE?oc=5",
+      "pub_date": 1791206774.0,
+      "article_url": "https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/humanoid-human-boxing-match.jpg",
+      "description": "Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force.."
     },
     {
       "headline": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
@@ -75,14 +55,24 @@
       "description": null
     },
     {
-      "headline": "The hottest trip for Silicon Valley investors? Robot factories in China",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVV1Z19mR0lEVmtGcUlTbkZucXlkQU1waExjMFFTY0xRaVd0SHdvcXBsUVZHNC1EN3NJelNfTG9USzRvVW9hcnZPZGYzUUhkQWpsbXphYWNCRWItSlFFd20xZ0swVDU2UWt0Y29sQVN1TWRnak96bjJfR3JSb0JfdDM4bXdtUVpLNV8xQ3BpY3FOOEJiTGFSd3pQd09vbDBrNlhXYUV3?oc=5",
-      "pub_date": 1791194400.0,
-      "article_url": "https://www.businessinsider.com/why-silicon-valley-investors-are-touring-chinas-robot-factories-2026-10",
-      "image": "https://i.insider.com/6ac00de7265e3f8e338fa422?width=1200&format=jpeg",
-      "description": "Robotics may be Silicon Valley's latest obsession, but China has spent years building up its industry."
+      "headline": "Panasonic to make humanoid robots, leveraging its battery business",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUo0Qy12TDJqcGpPblJ1VjY1MjhRTG1QZHZQWkRXcVpWQTY1WDVvWUJhUDNnbHB4WWZMekwxaWloSHlvcGoySXczNXJIWnZWR19hcWhhNFllQzl2MTlrUVQ5VF9IUjdzZTMzVGMyclJRZWJ5V2djLXI0SXZ0UGZBS2ZCRmkyUnQ2QnY2YndYdWtXbFgtZjNpT3VScno2bExFY2xzOGlBYzhFTGNKMWc?oc=5",
+      "pub_date": 1791184320.0,
+      "article_url": "https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F7%2F9%2F13279762-1-eng-GB%2Fc134ff9ca8c3-photo_SXM2026093000011998.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "Company aims to start production by 2029; machines to work in plants, warehouses"
+    },
+    {
+      "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
+      "source": "DefenseScoop",
+      "source_url": "https://defensescoop.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVndNYzRSYUhXbllrMVB0QW05Q2pEZFFiUnoyRUQ0dHJQLUstZllJLTRXZFNkaUR3UUYyaFpHR3J4amFjRE1hcTcyV29NWV9GU251YmpzNU9GQkpQQzVoUFVZTTVNaUtldEVhR0sxanZnTzlYRUZyT3g4d1d5LWtUbHFMM3VtMGYtTG5VeWxyUHM4YnZZblp2M3dMQ25ocEZSOTJVUmI3ZTl5RTRTbWc?oc=5",
+      "pub_date": 1790978926.0,
+      "article_url": "https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators/",
+      "image": "https://defensescoop.com/wp-content/uploads/sites/8/2026/10/9982087-e1790977738690.jpg",
+      "description": "Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology."
     },
     {
       "headline": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
@@ -103,8 +93,18 @@
       "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
+    },
+    {
+      "headline": "One of Amazon\u2019s most advanced U.S. facilities opens near Wilmington",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaTgzM1pLMXJ1RnNPazBtS1hhR3p6NHVzN3c4WlRwYlhxRld3UVRBWTBJbEFWY0EyWkxPM2o0TTNsT3UwRjdoNGhMR1dqeFdjUWZ5cnlEenBIS054Q2wtVkNBN2hVNHlxXzdRSUNuVjNLNzVuUUFjT3kwd3JGcFlYTHlBMW9QR1U?oc=5",
+      "pub_date": 1791220505.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/one-amazon-most-advanced-u-171505844.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9d6e1d535b4f8372717e81f7d4111c57e4fa0df85932f1f8f1b9f987d5507200/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar-news%2F0f2d05409d796d75e39d52769b573f19.jpg",
+      "description": "A new Amazon robotics center is open in Wilmington. It employs over 1,100 people and promises faster deliveries."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-05T15:08:14.681160+00:00"
+  "fetched_at": "2026-10-05T22:07:51.078953+00:00"
 }
