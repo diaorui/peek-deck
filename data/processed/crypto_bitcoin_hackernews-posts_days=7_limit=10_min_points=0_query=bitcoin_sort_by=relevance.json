@@ -9,7 +9,7 @@
       "url": "https://twitter.com/cremieuxrecueil/status/2105707121073328552",
       "hn_url": "https://news.ycombinator.com/item?id=49930061",
       "author": "MrBuddyCasino",
-      "points": 18,
+      "points": 19,
       "num_comments": 6,
       "created_at": "2026-10-02T05:15:15Z",
       "object_id": "49930061",
@@ -31,20 +31,6 @@
       "description": null,
       "favicon": null,
       "site_name": "justinzhang.substack.com"
-    },
-    {
-      "title": "Bitcoin trading model, published in full \u2013 wins and failures",
-      "url": "https://www.bitcoinai.pro/",
-      "hn_url": "https://news.ycombinator.com/item?id=49884283",
-      "author": "bitcoinaipro",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2026-09-28T21:02:00Z",
-      "object_id": "49884283",
-      "image": "https://www.bitcoinai.pro/wp-content/uploads/2024/12/cropped-faviconbitcoinai.jpg",
-      "description": "A machine learning bitcoin model published in full: every trade, the method behind it, and in-sample vs out-of-sample results shown separately.",
-      "favicon": "https://www.bitcoinai.pro/wp-content/uploads/2024/12/cropped-faviconbitcoinai-180x180.jpg",
-      "site_name": "BitcoinAI.Pro"
     },
     {
       "title": "Best Bitcoin Commercial",
@@ -108,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49954499",
       "author": "throw0101a",
       "points": 28,
-      "num_comments": 40,
+      "num_comments": 41,
       "created_at": "2026-10-04T15:02:25Z",
       "object_id": "49954499",
       "image": "https://i.cbc.ca/ais/b84e3e16-4ee2-409c-8b2f-268048bb178c,1790972450434/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C3000%2C1687%29%3BResize%3D620",
@@ -117,7 +103,7 @@
       "site_name": "CBC"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-10-05T15:07:41.509364+00:00"
+  "fetched_at": "2026-10-05T22:07:27.762172+00:00"
 }

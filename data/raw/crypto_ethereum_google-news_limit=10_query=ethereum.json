@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWmdfOUVyM2tZU2xxR1VTeV9qWXNlNXdscEhGZFVDQjN4RC1qR1BtaEVySHJ2ZXNzdEl0SG55RGV3Q0Y5T3dFX2hsc205M2Z3QjZVZkItSGRIV0Ewdk5LdWs5QkJreFBsTTNoUF9PNnZtcGxkeGhLeS1uVVE?oc=5",
+      "pub_date": 1791223948.0,
+      "article_url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
+      "description": "The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange."
+    },
+    {
       "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
@@ -15,54 +25,14 @@
       "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
     },
     {
-      "headline": "Ethereum Network Blast Is Shutting Down: Who Controls Users' Last $51 Million?",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WSEFFZkl1c1dEazRXLTF0QmlkbFhtdWgtdl9wdHRvdDdiN3BQOFl3Z253VmcxV18zY3lkRjJtVkhPSnVEVUFPU2Z1bkx2SldMLUduUFFGYmpUT2R6M0ZGU1VheXNMb3FsckNWVA?oc=5",
-      "pub_date": 1790958660.0,
-      "article_url": "https://beincrypto.com/blast-shutting-down-ethereum-layer-2/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum Logs Smallest Year-To-Date Loss Since January As Rally Runs On Thin Leverage",
-      "source": "finance.yahoo.com",
+      "headline": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUh1TkxmMjhwUjhMZ21LWUo3Q1JkeWdNd2l3RmdRZFVUUTJsX3JkVndMYy0zZFFvY2x4QVJxSWJyeHhNOWNWeEpGZ2NFaVNpTl91VERWV1Vhc0VWTWFCRF9yejFIREo4OGt5VEZCUVB5b1VfMTl3WGlqUmlodVptTDNkM0wxcmhTOGx5VmJlYVpncF9DM1QxVFotTGxSQQ?oc=5",
-      "pub_date": 1791204871.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-logs-smallest-date-loss-125431360.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bd469dae09954e12f0fb702848e4a6d8ab6a9c9c864ad0b716e1bee54c2134bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1ca7d9c942b65bf63c892f764fe55908",
-      "description": "Analyst Ted Pillows sees $2,800 as a key level for Ethereum, saying a weekly close above it could confirm further upside."
-    },
-    {
-      "headline": "Ethereum Just Outran Bitcoin in Q3, and Q4 Could Be Where It Gets Interesting",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUc2UndhSWtMNlhEZllxdDNrbk1ZOVVObU5sTllLcHlaejgyaXhoaXJuNWNfZjZSQ0g3V0ZCUjUzWHhyNFBiWVRQU3VLaktxM2pFaTJrVnlwekJTQXNsYktLYzZ4Ml9SZ3NNVThRdlNIR1UwemZtS0ZuUlBfT3paNnFnVFlNY0I2RXc2bTVwU2Fnd2lRSVVrY0RhMHM?oc=5",
-      "pub_date": 1791205935.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-just-outran-bitcoin-q3-131215017.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5c4f4bca74bbd29fae21803440db194a987e72fd093dc70623950848a5620b17/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F993bd784a5850f6b8491f74b6f8df8b9",
-      "description": "ETH gained 70.9% in Q3, outperforming Bitcoin\u2019s 43% rise, as crypto market capitalization expanded by approximately $823 billion. Ether\u2019s near-price order-book depth fell to 35%-45% ..."
-    },
-    {
-      "headline": "Bitmine Purchases 15,112 Ethereum As Price Strengthens",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY21LdHdRSGpCc2lUUUVPNzF6c1BMaXBvd2Y1Nk9PX0dOdm1qamc5VUQ4blREWjAtTFRnX3RrbXhWdlVMaXpVS0dqRGFLdW1CMTJRcDZubUlDeEtvaTVUcWphRGdQQTFiSFBWMHdOdnE2T1RxbGV6a09yTDJDRktUQXBVWnI3OXZCRlVhR2tuZEl3YVVqZS1nUTFCSl8zRG8?oc=5",
-      "pub_date": 1791207720.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-15-112-ethereum-134200292.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ee9bc77a311b4477f1f73960f62195aecf20665e1a453469885c3bd589f0f454/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1734240acfda48f5bbf79a1cf620ce10.jpg",
-      "description": "Bitmine Immersion Technologies (NYSE: $BMNR) bought an additional 15,112 Ethereum (CRYPTO: $ETH) over the past week..."
-    },
-    {
-      "headline": "Ethereum staking exit queue jumps fivefold as holders face a two-week wait",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjU0Vk5DdDB0Zm1pMXZkWDNiUHNubThLa2dyeXFnUlJoYjZCT2QwSG1Jd3NjOEJKSVpOUzYzdGwtc1h0QUQ5S3RZVmRKaUc2TTZUQXlBRFJ1TmJSMkNRTnFiaUxlXzQxZS1KNlJnaTdQeXBOLVFFRFpKRXRXZWUtbTdEMXlrZ21zRmE2T09GOEtoS1dnam5XeFpnNkp0RHBrWWpfN05iNHdUdDRzTVNnZm5NMXEyMEFaS19zbw?oc=5",
-      "pub_date": 1791186301.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemxrVTFGeVRKdndxakk4R3RKRGRVMWQ1QjY4dk9XMGJ0ZDJPa0pjdXNHZkh0SVFVcFZUbDRydlB2VUQzOV9fSWQxelZ1SjVUZXRiZnFmdll6UnJNX1VQUGNIaUFCTFhhYm5yTVlUQ3dncEJsMk5oM21jTWx6QW9tWUlXbUo0SUtROG9lQTBnTW9kN0JOWkFiT2tjSFpSUQ?oc=5",
+      "pub_date": 1791103860.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buying-ethereum-085100292.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/42b62da97035e36783c0c78297c1d16f3962ee237f2a7787287daf0b1b0ccbcb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Feb39e051ca72f7c2e6c6d18b96d424cd.jpg",
+      "description": "One digital asset treasury company is very bullish about Ethereum right now."
     },
     {
       "headline": "Ethereum liquidity drops below 50% of Bitcoin's level",
@@ -75,6 +45,26 @@
       "description": "Ethereum's standing in the liquidity rankings has taken a meaningful hit. A CoinGecko analysis of order-book depth across eight major centralized exchanges shows Ethereum's median market depth sitting at $13 to $14 million, which puts it at just 35 to 45% of Bitcoin's liquidity. A year ago, Ethereu\u2026"
     },
     {
+      "headline": "Ethereum staking exit queue jumps fivefold as holders face a two-week wait",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjU0Vk5DdDB0Zm1pMXZkWDNiUHNubThLa2dyeXFnUlJoYjZCT2QwSG1Jd3NjOEJKSVpOUzYzdGwtc1h0QUQ5S3RZVmRKaUc2TTZUQXlBRFJ1TmJSMkNRTnFiaUxlXzQxZS1KNlJnaTdQeXBOLVFFRFpKRXRXZWUtbTdEMXlrZ21zRmE2T09GOEtoS1dnam5XeFpnNkp0RHBrWWpfN05iNHdUdDRzTVNnZm5NMXEyMEFaS19zbw?oc=5",
+      "pub_date": 1791186301.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026."
+    },
+    {
+      "headline": "Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch",
+      "source": "dmarketforces.com",
+      "source_url": "https://dmarketforces.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdF9Qbmg2WEVmOFY4RUY3VGw0Tk10OUtEOXZFMWhqX2s1WGJ6T2xiS1VDN0o3SU55N1h1UE9mRjg1a0xxTFV6SmcxV2VZMDJ0aTFWamRQTUw0VVh1cGRIaXRHRWUyeGpFUHNIWXFlbWVRenNUS3lqal9ORk1rY2dBS3hCcWQtUUhUMzgwYw?oc=5",
+      "pub_date": 1791064259.0,
+      "article_url": "https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/",
+      "image": "https://dmarketforces.com/wp-content/uploads/2026/10/Ethereum-Price-Climbs-Ahead-of-Glamsterdam-Testnet-Launch.jpg",
+      "description": "Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins."
+    },
+    {
       "headline": "Current price of Ethereum for October 5, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -85,26 +75,36 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch",
-      "source": "MarketForces Africa",
-      "source_url": "https://dmarketforces.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdF9Qbmg2WEVmOFY4RUY3VGw0Tk10OUtEOXZFMWhqX2s1WGJ6T2xiS1VDN0o3SU55N1h1UE9mRjg1a0xxTFV6SmcxV2VZMDJ0aTFWamRQTUw0VVh1cGRIaXRHRWUyeGpFUHNIWXFlbWVRenNUS3lqal9ORk1rY2dBS3hCcWQtUUhUMzgwYw?oc=5",
-      "pub_date": 1791064259.0,
-      "article_url": "https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/",
-      "image": "https://dmarketforces.com/wp-content/uploads/2026/10/Ethereum-Price-Climbs-Ahead-of-Glamsterdam-Testnet-Launch.jpg",
-      "description": "Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins."
+      "headline": "$90K Bitcoin Price Target, $3K Ethereum: What Will It Take to Get There?",
+      "source": "CoinMarketCap",
+      "source_url": "https://coinmarketcap.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaklJWTdMMEdlNVpka1E0R2VuYmoxSVU3c2VITmYyUlBJa3BrVXNCendQY0dRTmRnLTdvZUp0dUJkX1c4N2ZUWklpYnRVeHd6OHlJcEU3MlA2dEctSkxHSkdNVHFBcV9DMm52ai1OVF9yc283b2ZpSkxUSTBvWDk0ZmN3U3dqWHRwa2c?oc=5",
+      "pub_date": 1791157693.0,
+      "article_url": "https://coinmarketcap.com/academy/article/bitcoin-ethereum-price-prediction-90k-3k",
+      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/2a012b53ce5e4cd4a9c4790f454a1710.jpeg",
+      "description": "Bitcoin and Ethereum have strong fundamentals and low leverage, so why are they stalling below $90,000 and $3,000? Here's what a breakout would take."
     },
     {
-      "headline": "Ethereum\u2019s past outflow charts can change when more exchange wallets are identified",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaTg4U2hZZ2ROUU5SWVgzTy12Y1pnNlcyWG55OVQtYVBNbHdZd2ZVVGxyLTVwVVJsTjk1RW9RclFqZjNYTnlIODhmRkcteS1IVWRaZWdvX2tkZ1NJWFdUOVpXbTFhNl9vQmJic0IwUzJuV2FBRzVuTHc1dm9iQWJITFBpdEd0bmNRUmh1Skl2a2JFQVBFdEhva2ZqVDU5NkVYdlFOY0U3UENKaEE?oc=5",
-      "pub_date": 1791151540.0,
-      "article_url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-data-vintage-clock.webp",
-      "description": "Ethereum outflow history can change as exchange wallets are identified. Coin Metrics rebuilt its ETH data; trading tests need inputs available at the time."
+      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend multi\u2011week rally as bulls target higher levels",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNFI2eGpCcG4zeWtxZDhoVnN0RmVYQS1zSVplVURfYXhldll6dXNfRF9aMllmNng2Rm5rcEVpanFoUEdUVkVLdUUza25Pa1lwWTIwVG9zUUdZYU1DaWN0dXZ0eG50N0VBelNQQ3Zvejd3ajBmMTIxNDJseFdBUEp3TjRFR2hiQll1OV9ubWNyb1lYNUxWbnRpVWR1UXdmNmduVTNiVG83Z0VFRkdPSVFaWmRCU1RMZkZDUzB6R1dFNXhQQ1JTTExlQ25KTkdYVVV2TzQ4cGxJbHNyanVjVEFkVTBhRDFFNXhHSjlrSmZDZDJRWmY1R1hMX21wWS0yc19hS1hORDEySQ?oc=5",
+      "pub_date": 1791171265.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-multi-week-rally-as-bulls-target-higher-levels-202610050334",
+      "image": "https://editorial.fxsstatic.com/images/i/Discover-f-67_Medium.jpg",
+      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend gains on Monday, after posting weeks of gains since mid-September. The three cryptocurrencies now eye key upside targets as bullish momentum strengthens: $90,000 for BTC, $3,000 for ETH, and $1.90 for XRP."
+    },
+    {
+      "headline": "Ethereum Exit Queue Eases to 767,000 ETH After MetaMask Validator Exits",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXAxTllJaS0zUFpEbjVVUThxU2U0dmc2SmVhZE81di1lMl9HWm9wNHlTTnFEMnlvazRTdzJZU2VibU1HLVFNMVVJMTlVdDdFUURFNEVra21rRUx1QS1IMGQ4TzBpUzZERklrYlV3dUxhT1lmUGt6eXJRV09fWDE1ekFwMk03TGhxeUtSbzFUMWV1N0FvRlBYSW5jdW5ReEUxLVVWWXBoMlFLLVBiM2lr?oc=5",
+      "pub_date": 1791228140.0,
+      "article_url": "https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits",
+      "image": "https://cdn.sanity.io/images/6oftkxoa/production/6fc1190c7c7cd44b2b5d8b19f325cb4e150daec1-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
+      "description": "Ethereum's exit queue holds 767,349 ETH after precautionary MetaMask staking exits, with a 13-day wait before withdrawal processing."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-05T15:08:09.613126+00:00"
+  "fetched_at": "2026-10-05T22:07:48.955420+00:00"
 }

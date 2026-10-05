@@ -16,7 +16,7 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 3015,
+      "github_stars": 3085,
       "project_page": null
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-09-03T20:00:00.000Z",
       "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 1394,
+      "github_stars": 1453,
       "project_page": "https://linzhanmou.com/unimate/"
     },
     {
@@ -54,7 +54,26 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 109817,
+      "github_stars": 109870,
+      "project_page": null
+    },
+    {
+      "id": "2609.33325",
+      "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
+      "authors": "Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)",
+      "organization_name": "Mininglamp-2718",
+      "organization_fullname": "Mininglamp Technology",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/69c656d25cf6c8ac26073013/sJ_pUHr_6G89GHJK5qPm7.png",
+      "summary": "Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.33325",
+      "arxiv_url": "https://arxiv.org/abs/2609.33325",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33325.png",
+      "upvotes": 322,
+      "num_comments": 2,
+      "published_at": "2026-09-26T20:00:00.000Z",
+      "github_repo": "https://github.com/PSRben/VisionHOPE",
+      "github_stars": 701,
       "project_page": null
     },
     {
@@ -73,26 +92,7 @@
       "num_comments": 5,
       "published_at": "2025-10-25T03:41:02.000Z",
       "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 8952,
-      "project_page": null
-    },
-    {
-      "id": "2609.33325",
-      "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
-      "authors": "Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)",
-      "organization_name": "Mininglamp-2718",
-      "organization_fullname": "Mininglamp Technology",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/69c656d25cf6c8ac26073013/sJ_pUHr_6G89GHJK5qPm7.png",
-      "summary": "Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.33325",
-      "arxiv_url": "https://arxiv.org/abs/2609.33325",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33325.png",
-      "upvotes": 321,
-      "num_comments": 2,
-      "published_at": "2026-09-26T20:00:00.000Z",
-      "github_repo": "https://github.com/PSRben/VisionHOPE",
-      "github_stars": 701,
+      "github_stars": 8962,
       "project_page": null
     },
     {
@@ -172,26 +172,26 @@
       "project_page": "https://github.com/facebookresearch/context-language-models"
     },
     {
-      "id": "2609.24972",
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-      "authors": "Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)",
-      "organization_name": "google",
-      "organization_fullname": "Google",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
-      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24972",
-      "arxiv_url": "https://arxiv.org/abs/2609.24972",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 221,
-      "num_comments": 2,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 1243,
-      "project_page": "https://regularized-rsi.com/"
+      "id": "2508.02739",
+      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
+      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
+      "hf_url": "https://huggingface.co/papers/2508.02739",
+      "arxiv_url": "https://arxiv.org/abs/2508.02739",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
+      "upvotes": 58,
+      "num_comments": 4,
+      "published_at": "2025-08-02T09:15:59.000Z",
+      "github_repo": "https://github.com/shiyu-coder/Kronos",
+      "github_stars": 40010,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-05T15:07:51.081584+00:00"
+  "fetched_at": "2026-10-05T22:07:36.643711+00:00"
 }
