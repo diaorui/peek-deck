@@ -13,6 +13,17 @@
       "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50"
     },
     {
+      "title": "Half of surveyed UK novelists fear AI could replace their work entirely",
+      "author": "Brighter-Side-News",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxv3km/half_of_surveyed_uk_novelists_fear_ai_could/",
+      "published": 1791160640.0,
+      "thumbnail": "https://external-preview.redd.it/m7Sq5ExUu2ogedMaQvEQL1hGjhmPX5dInFl8AP3XMTU.png?width=640&crop=smart&auto=webp&s=4cdc79058da4cd104a8d8d1150730d864a6792d2",
+      "external_url": "http://thebrighterside.news/post/half-of-surveyed-uk-novelists-fear-ai-could-replace-their-work-entirely",
+      "site_name": "The Brighter Side of News",
+      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
+      "description": "For many British novelists, the threat from artificial intelligence reaches beyond the manuscript on their desk. It also touches the freelance assignments that pay their bills, their ownership of published work, and their connection with readers. A University of Cambridge report found that 51% of participating published novelists believed AI would likely replace their fiction-writing work entirely. Another finding was more immediate: 39% said generative AI had already hurt their income. Some 85% expected their future earnings to decline because of it. Published in, The Impact of Generative AI on the Novel examined experiences across British fiction. Clementine Collett, a BRAID UK Research Fellow at Cambridge\u2019s Minderoo Centre for Technology and Democracy, led the research. The report was published in association with the Institute for the Future of Work."
+    },
+    {
       "title": "Plagiarism checker= Genius",
       "author": "meenags",
       "url": "https://www.reddit.com/r/artificial/comments/1wxqvl6/plagiarism_checker_genius/",
@@ -22,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Whoever invented the AI plagiarism checker is a genius. Why wait for papers to be published online when you can get people to upload college essays and other publications in an effort to detect AI usage. The models must be getting a lot of data from colleges and schools"
+    },
+    {
+      "title": "AI finds 44 star systems that could hide Earth-like planets",
+      "author": "Brighter-Side-News",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxv9n5/ai_finds_44_star_systems_that_could_hide/",
+      "published": 1791161153.0,
+      "thumbnail": "https://external-preview.redd.it/BLU4fmsKad0HSNTTFrvV3Aru2KC05dhTGU8thy8Tq-U.png?width=640&crop=smart&auto=webp&s=d80ee73a96cb0f99bccd1a8b20dd7de272430a4d",
+      "external_url": "http://thebrighterside.news/post/ai-finds-44-star-systems-that-could-hide-earth-like-planets",
+      "site_name": "The Brighter Side of News",
+      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
+      "description": "A planet already found around a distant star may offer clues about another world still hidden nearby. Its mass and orbit can carry traces of how the entire planetary system formed, including planets too small or faint for telescopes to detect. That possibility underpins an artificial intelligence model developed at the University of Bern and Switzerland\u2019s National Centre of Competence in Research PlanetS. In a study published in Astronomy & Astrophysics, the team identified 44 known systems that could harbor undiscovered Earth-like planets. The model reached precision scores of up to 99% when tested on simulated planetary systems. That result measures performance within a computer-generated population. The predicted worlds around actual stars remain unconfirmed, and the method\u2019s value will depend on follow-up observations."
     },
     {
       "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths \u2014 AI agent navigates by parsing raw server network packets and SQL filesa",
@@ -35,48 +57,37 @@
       "description": "OpenAI's model used the open-source agent-wow client to play on a private World of Warcraft server."
     },
     {
-      "title": "Thank you",
-      "author": "astreigh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/",
-      "published": 1791147533.0,
+      "title": "OpenAI cuts ties with 3 researchers over alleged misconduct",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/",
+      "published": 1791139306.0,
+      "thumbnail": "https://external-preview.redd.it/emQ1tZrLXITL4YvM8vbedHEP_hssfUthBxUWkIEEte4.jpeg?width=640&crop=smart&auto=webp&s=df86b61ea71e740f5b5e5eda80d2918f0830564e",
+      "external_url": "https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "The ousters come as top AI researchers wield \"extraordinary influence\" internally, at the same time that companies face public pressure to increase safety measures"
+    },
+    {
+      "title": "How do AIs actually collect my sensitive information?",
+      "author": "Rare_Bat2584",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxzgva/how_do_ais_actually_collect_my_sensitive/",
+      "published": 1791174562.0,
+      "thumbnail": "https://preview.redd.it/ma6b3pwoskth1.png?width=640&crop=smart&auto=webp&s=ad6c3afdfd9bd0dc4898917023277e70be2f0899",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I dont use the google ai that much because it generally gives bad info, but a few times I have noticed it \"randomly\" guesses things, like my age, my name, where I live ect. Whenever I ask the ai it says it has no access to my phones, messages, mic, ect and that it doesn't store chat info session to session. For instance, I just got a new cat a few days ago, I never asked the ai about my cat, or anything related to its name. Then I asked it \"why does my cat chase nothing\" And it kept referring to my cat by name. When pressed it just said that it randomly pulled that name out of thin Air. My cats name is Julius, I have a very hard time believing it pulled that out of nowhere. So what does it do? Read my texts? Access my mic or what? Because the only person I've even told that I got a cat was my sister in text."
+    },
+    {
+      "title": "One thing I find interesting about AI is that getting a better answer doesn't always mean getting a better outcome.",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxy5zn/one_thing_i_find_interesting_about_ai_is_that/",
+      "published": 1791170172.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Do you thank an llm when you've finished chatting with it? Why or why not?"
-    },
-    {
-      "title": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)",
-      "author": "abhishekkumar333",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
-      "published": 1791102916.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don\u2019t always need a multi GPU setup. The AI ecosystem is actually a massive spectrum. I recently sat down and mapped out the exact tiers of AI models based on their size, the hardware needed to run them, and the point of diminishing returns. Here are the two extremes and the sweet spot in the middle: The 100KB Extreme (TinyML) (Tensorflow Lite , sensor anamoly detection models): We are talking models that run on microcontrollers drawing single-digit milliwatts. They run on kilohertz processors using ultra-quantized integer math. You can run basic sensor anomaly detection or wake-word detection on a device powered by a coin cell battery. The Local Sweet Spot (4GB to 40GB) (Mistral 7B, Gemma 2 9B/27B, Qwen 2.5 14B/32B): This is where the magic happens for most devs right now. You can run highly capable 7B to 35B parameter models (like Llama 3 or Qwen) at 4-bit quantization on a standard Mac or a consumer GPU (like an RTX 3060 or 4090). It\u2019s perfect for local RAG, coding assistance, and uncensored chat. VRAM is your only real bottleneck here. The 2.5TB Behemoths (Deepseek, Llama , Kimi k3): State of the art massive Mixture of Experts (MoE) routing. To even load these, you need dedicated power infrastructure and server racks of specialized accelerators drawing thousands of watts. The missing piece: Figuring out the exact math for your hardware The hardest part about building right now is looking at a model on Hugging Face and trying to calculate exactly how much VRAM you need, what quantization to use, and whether your CPU/GPU will choke on the context window. So, I wrote a complete deep dive breaking down the math for all tiers of the AI spectrum. If you want to see the architectural differences at each scale, and a cheat sheet for matching the right model size to your specific hardware, I put the full breakdown on my blog here: https://cloudmash.blog/posts/ai-model-size-memory-hardware-guide/ Let me know what you guys think especially if you've found any ultra efficient small models/technique that punch above their weight on consumer hardware. And also I would love to hear whether quantization have resulted in major difference in quality , like if anyone have that kind of experience in that."
-    },
-    {
-      "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
-      "author": "ElatedPyroHippo",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
-      "published": 1791065820.0,
-      "thumbnail": "https://external-preview.redd.it/RFsrpoWk_75ybf04dB1cQU2NVqiQ0ywn5Y6qH8OXpXA.jpeg?width=320&crop=smart&auto=webp&s=488941504e976bce528f1cc428aca11274efa059",
-      "external_url": "https://www.youtube.com/watch?v=VFpRz1_j4vw",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/85a3164d/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
-      "author": "sourdub",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxok9e/anthropic_has_been_aggressively_lobbying_the/",
-      "published": 1791142846.0,
-      "thumbnail": "https://external-preview.redd.it/XZo9QpTeCA9nDvaro0AggPZb6ubzdrgp-CwHpAFK3D0.jpeg?width=640&crop=smart&auto=webp&s=f977aa7c5e34ab95a78c58b50aa7a6371734f991",
-      "external_url": "https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "An Anthropic delegation at the Vatican tried to lobby the Pope's advisers to convince him that AI models could be conscious."
+      "description": "An AI system can produce a convincing analysis, recommendation, or plan, but the result still depends on whether the user supplied the right context and whether the output holds up in reality. Where have you seen the biggest gap between an impressive AI response and something genuinely useful in practice?"
     },
     {
       "title": "All Google models basically, even nanobanna on web is nerfed",
@@ -90,27 +101,16 @@
       "description": "I think this chase them for so long, I can't trust Gemini models outside quick web searches"
     },
     {
-      "title": "OpenAI cuts ties with 3 researchers over alleged misconduct",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/",
-      "published": 1791139306.0,
-      "thumbnail": "https://external-preview.redd.it/emQ1tZrLXITL4YvM8vbedHEP_hssfUthBxUWkIEEte4.jpeg?width=640&crop=smart&auto=webp&s=df86b61ea71e740f5b5e5eda80d2918f0830564e",
-      "external_url": "https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "The ousters come as top AI researchers wield \"extraordinary influence\" internally, at the same time that companies face public pressure to increase safety measures"
-    },
-    {
-      "title": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.",
-      "author": "radeon2000",
-      "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
-      "published": 1791096265.0,
-      "thumbnail": "https://preview.redd.it/2mxi8c9mceth1.png?width=640&crop=smart&auto=webp&s=bf8db890a96a166f9c12cf3a3cf33bd3b8b2b4ed",
+      "title": "Thank you",
+      "author": "astreigh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/",
+      "published": 1791147533.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on process, not just on whether you guessed right. So I sat 13 AI models in the doctor's chair, on the game's 5 free cases, 3 times each. They could only act through tools (talk, examine, order a test, prescribe, refer, diagnose), never saw the answer key or their points, and were scored by exactly the same code as a human player. The patient is a small open model (Qwen3 8B) that only reveals a fact if you actually ask about it. Results Model Score Red flags caught Cost per consult GPT-6 Astra 83% 88% $0.21 GPT-6.1 Sol 80% 82% $0.03 Claude Opus 5.5 77% 67% $0.37 Claude Fable 5.1 75% 70% $2.06 Qwen3.8 Max 74% 66% $0.12 Grok 4.7 74% 70% $0.09 DeepSeek V4 Pro 71% 72% $0.09 Kimi K3 67% 57% $0.16 Gemini 3.1 Pro 63% 55% $0.17 GLM 5.3 62% 58% $0.04 Mistral Medium 3.5 60% 58% $0.17 Qwen3.8 27B 59% 49% $0.03 Llama 4 Maverick 24% 16% $0.01 What surprised me Every model got every diagnosis right. Heart attack, appendicitis, pneumonia: all 195 consultations named it. These are common presentations, so the diagnosis wasn't the test. Safety was. The traps caught most of them. One patient is allergic to penicillin, but it isn't in his record; you only find out by asking. He was prescribed amoxicillin (a penicillin) in 18 of 39 consultations. Another took Viagra the night before his heart attack, which makes the usual chest-pain spray (GTN) dangerous. He got it 7 times. The top three models never fell for either. Asking more questions found more danger. The best models asked 25\u201327 questions a consultation and caught over 80% of the warning signs. Gemini asked 14 and caught 55%. Price barely predicts quality. GPT-6.1 Sol scored 80% for about 3 cents a consultation. Claude Fable 5.1 scored 75% for about $2. What this isn't This is a benchmark of a game, not of medical ability. Nothing here says an AI can or should practise medicine. The cases are drafts I'm still reviewing, written for Australian practice; the patient and marker are an 8B model and make mistakes (the ones I found are listed with the affected consultations); and 15 consultations per model is a small sample. I wrote the cases, so I'm not a fair human baseline. Interactive charts: https://woodytwoshoes.github.io/crook-bench/ Everything (code, cases, all 195 transcripts, known issues): https://github.com/woodytwoshoes/crook-bench Disclosure: I made the game (https://doctorfoo.ai). Five cases are free with no sign-up, and a subscription opens more. I'd like to hear where the marking looks wrong to you, and which models you'd want added."
+      "description": "Do you thank an llm when you've finished chatting with it? Why or why not?"
     }
   ],
-  "fetched_at": "2026-10-05T00:04:29.273877+00:00"
+  "fetched_at": "2026-10-05T06:03:13.540660+00:00"
 }

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-05T00:04:51.951501+00:00'
+updated: '2026-10-05T06:03:37.393082+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 05, 2026 at 00:04 UTC  
+**Last Updated:** October 05, 2026 at 06:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Continuing to move from using the model directly to having the model write reliable control code. The goal here is to pick a small part from a random pile, with the right side up and with precision. Once we have this skill, the next use becomes much faster. Model can adapt it for another part or for screws/nuts. A box with defined mounts and consistent lighting helps computer vision work reliably.
 
-3d ago
+4d ago
 
 ---
 
@@ -82,7 +82,7 @@ What is the difference between building in functional safety early on vs waiting
 
 **[Testing the arm joints of my MK humanoid robot! 🤖⚙️ Another step in the development of the MK Robot. More upgrades and testing in going](https://www.reddit.com/r/robotics/comments/1wul97j/testing_the_arm_joints_of_my_mk_humanoid_robot/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -120,38 +120,6 @@ Business Insider • 2d ago
 
 ---
 
-**[The little humanoid robots that could (BOTZ:NASDAQ)](https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could)**
-
-Humanoid robot investing thesis shift: most “shipments” are half-size Chinese robots, not full-size labor bots.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
-
-It’s Real Steel come to life.
-
-Tom's Hardware • 9h ago
-
----
-
-**[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
-
-US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
-
-Financial Times • 23h ago
-
----
-
-**[Anthropic study suggests blue-collar workers have decades before robots take their jobs](https://finance.yahoo.com/technology/article/anthropic-study-suggests-blue-collar-workers-have-decades-before-robots-take-their-jobs-115957939.html)**
-
-Robots can already handle most physical tasks involved in American jobs — but mostly in controlled settings, and at a cost too high to replace human workers.
-
-Yahoo Finance • 3d ago
-
----
-
 **[Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing](https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators/)**
 
 Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology.
@@ -160,11 +128,17 @@ DefenseScoop • 2d ago
 
 ---
 
-**[Meet Albatross: It Falls, Spins, Self-Rights, and Sails Away Like a Leaf](https://spectrum.ieee.org/video-friday-bioinspired-robotics)**
+**[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
 
-Your weekly selection of awesome robot videos includes a self-assembling modular arm for disaster recovery and drone use in the flood aftermath in Nepal
+US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-IEEE Spectrum • 2d ago
+ft.com • 1d ago
+
+---
+
+**[Rubber ducks and screwdrivers put dexterous new soft robotic gripper to the test](https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html)**
+
+Tech Xplore • 16h ago
 
 ---
 
@@ -172,13 +146,39 @@ IEEE Spectrum • 2d ago
 
 The students will head to Florida to compete against university teams from Australia, India and the US.
 
-BBC • 18h ago
+BBC • 1d ago
 
 ---
 
-**[NASA’s dexterous humanoid robots built to assist humans on the moon](https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/)**
+**[AI robot company decommissioned its robots ‘Terminator-style’ in a 75-ton vat of molten steel — Arnold Schwarzenegger suggested melting them, one robot held up a thumbs-up sign as it sank into molten metal](https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal)**
 
-The Hill • 2d ago
+Hasta la vista, baby.
+
+Tom's Hardware • 16h ago
+
+---
+
+**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
+
+It’s Real Steel come to life.
+
+Tom's Hardware • 15h ago
+
+---
+
+**[The little humanoid robots that could (BOTZ:NASDAQ)](https://seekingalpha.com/news/4649840-the-little-humanoid-robots-that-could)**
+
+Humanoid robot investing thesis shift: most “shipments” are half-size Chinese robots, not full-size labor bots.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[OpenAI’s GPT-6 Astra found a way to play World of Warcraft without seeing the screen](https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft)**
+
+The AI relied on server network messages, quest data and navigation files instead of screenshots or computer vision.
+
+Interesting Engineering • 14h ago
 
 ---
 
@@ -200,37 +200,17 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 27K • 👍 522 • 💬 37 • ⏱️ 1:00 • 12h ago
+👁️ 38K • 👍 695 • 💬 46 • ⏱️ 1:00 • 18h ago
 
 ---
 
-**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
+**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
 
-Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
+Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
 
-📺 Canada 2050
+📺 DW Documentary
 
-👁️ 36K • 👍 919 • 💬 30 • ⏱️ 18:22 • 4d ago
-
----
-
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 42K • 👍 651 • 💬 76 • ⏱️ 13:23 • 2d ago
-
----
-
-**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
-
-Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
-
-📺 The Geo Network
-
-👁️ 187K • 👍 3K • 💬 132 • ⏱️ 20:27 • 5d ago
+👁️ 69K • 👍 457 • 💬 54 • ⏱️ 28:21 • 14h ago
 
 ---
 
@@ -240,7 +220,17 @@ Tesla just accidentally leaked the finished design for Optimus Gen 3, and it rev
 
 📺 Innovation Core
 
-👁️ 230K • 👍 2K • 💬 151 • ⏱️ 21:02 • 6d ago
+👁️ 231K • 👍 2K • 💬 153 • ⏱️ 21:02 • 6d ago
+
+---
+
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+
+📺 Boston Dynamics
+
+👁️ 755K • 👍 8K • 💬 1K • ⏱️ 5:49 • 4d ago
 
 ---
 
@@ -250,27 +240,17 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 📺 ejunky66
 
-👁️ 1.3M • 👍 21K • 💬 958 • ⏱️ 1:00 • 2d ago
+👁️ 1.8M • 👍 28K • 💬 1K • ⏱️ 1:00 • 2d ago
 
 ---
 
-**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
+**[Boston Dynamics Goes Full AI With New Atlas Robot](https://www.youtube.com/watch?v=qx7PoIcKS6I)**
 
-A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
+Boston Dynamics is turning Atlas into a real AI factory worker inside Hyundai's plants, while Spot gets AI agents and Google ...
 
-📺 DW News
+📺 MACHINEKIND
 
-👁️ 155K • 👍 650 • 💬 256 • ⏱️ 3:46 • 5d ago
-
----
-
-**[THIS War Robots Build is SO TOXIC...](https://www.youtube.com/watch?v=3JSTk3QnRmo)**
-
-War Robots Gameplay: Most TOXIC Samjok build ever with Iaraghi. My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 17K • 👍 480 • 💬 103 • ⏱️ 17:31 • 1d ago
+👁️ 39K • 👍 451 • 💬 36 • ⏱️ 13:34 • 2d ago
 
 ---
 
@@ -284,13 +264,33 @@ This new generation hand is the perfect companion for Atlas. With 13 degrees of 
 
 ---
 
-**[Boston Dynamics Goes Full AI With New Atlas Robot](https://www.youtube.com/watch?v=qx7PoIcKS6I)**
+**[THIS War Robots Build is SO TOXIC...](https://www.youtube.com/watch?v=3JSTk3QnRmo)**
 
-Boston Dynamics is turning Atlas into a real AI factory worker inside Hyundai's plants, while Spot gets AI agents and Google ...
+War Robots Gameplay: Most TOXIC Samjok build ever with Iaraghi. My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 MACHINEKIND
+📺 Manni-Gaming
 
-👁️ 37K • 👍 439 • 💬 35 • ⏱️ 13:34 • 2d ago
+👁️ 17K • 👍 493 • 💬 105 • ⏱️ 17:31 • 1d ago
+
+---
+
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
+
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
+
+📺 Canada 2050
+
+👁️ 38K • 👍 952 • 💬 31 • ⏱️ 18:22 • 4d ago
+
+---
+
+**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+
+Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+
+📺 Hyundai Motor Group
+
+👁️ 1.0M • 👍 93 • 💬 5 • ⏱️ 5:49 • 4d ago
 
 ---
 

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-05T06:03:35.131526+00:00",
+  "data": {
+    "url": "https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft",
+    "title": "OpenAI\u2019s GPT-6 Astra used raw game data to play World of Warcraft",
+    "description": "The AI relied on server network messages, quest data and navigation files instead of screenshots or computer vision.",
+    "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/image-1920x1080-2026-10-04T135603.874.png?w=650",
+    "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+    "site_name": "Interesting Engineering",
+    "author": "Bojan Stojkovski",
+    "keywords": "agent-wow, AI agents, AI gaming, AI reasoning, AzerothCore, computer vision, gaming AI, GPT-6 Astra, OpenAI, World of Warcraft, WoW"
+  }
+}
