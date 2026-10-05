@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-05T06:03:37.383915+00:00'
+updated: '2026-10-05T15:08:17.017173+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 05, 2026 at 06:03 UTC  
+**Last Updated:** October 05, 2026 at 15:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,070.79
+### $85,914.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +2.6%  
-**30d:** +6.9%  
-**90d:** +37.8%  
-**1y:** -31.2%  
+**24h:** +0.2%  
+**7d:** +2.3%  
+**30d:** +6.5%  
+**90d:** +37.3%  
+**1y:** -31.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1722.89B
+**Market Cap:** $1719.86B
 Rank #1
 
-**Circulating Supply:** 20,093,556 BTC
+**Circulating Supply:** 20,093,759 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.0%
+-32.1%
 
 **All-Time Low:** $67.81
-+126347.4%
++126105.6%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[₿ears Anonymous](https://www.reddit.com/r/Bitcoin/comments/1wxf2i8/ears_anonymous/)**
 
-17h ago
+1d ago
 
 ---
 
 **[The true and much more important Bitcoin cycle](https://www.reddit.com/r/Bitcoin/comments/1wxgy29/the_true_and_much_more_important_bitcoin_cycle/)**
 
-15h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Me going to work after refreshing the charts for 48 hours over the weekend](https://www.reddit.com/r/Bitcoin/comments/1wx989q/me_going_to_work_after_refreshing_the_charts_for/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -119,7 +119,7 @@ I thought I'd share my journey and thoughts. I was into bitcoin relatively early
 
 https://preview.redd.it/a9s2duavqeth1.png?width=1144&format=png&auto=webp&s=1a85b7ec227ad549c7ca594229610ec91909b655 hey so i just bought my first sum of bitcoin, can yall help me on what i should do?
 
-21h ago
+1d ago
 
 ---
 
@@ -153,23 +153,55 @@ Recommended reading: "A History of Central Banking and the Enslavement of Mankin
 
 Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow.
 
-Decrypt News • 15h ago
+Decrypt News • 1d ago
 
 ---
 
-**[Peter Schiff Says MicroStrategy Lost Its Bitcoin-Buying Power](https://beincrypto.com/peter-schiff-microstrategy-stretch-bitcoin-buying/)**
+**[Live updates: Bitcoin above $86,000 as traders price out an October Fed hike](https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike)**
 
-Schiff says Strategy's Stretch rebound didn't reopen its STRC funding route, while MSTR sales still bought 1,665 BTC.
+A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below $87,000, with FOMC minutes due Wednesday.
 
-BeInCrypto • 9h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
+**[Bitcoin headed 'in bullish direction' as investors bet on Fed pause: Chart of the Day](https://finance.yahoo.com/markets/article/bitcoin-headed-in-bullish-direction-as-investors-bet-on-fed-pause-chart-of-the-day-120631623.html)**
 
-Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
+Bitcoin jumped above $86,000 on Friday after a cooler-than-expected jobs report.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
+
+---
+
+**[Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086)**
+
+Investing.com • 55m ago
+
+---
+
+**[Coinbase Stock vs. Bitcoin: Which Investment Performs Better?](https://finance.yahoo.com/markets/crypto/articles/coinbase-stock-vs-bitcoin-investment-140045554.html)**
+
+Coinbase has long been pitched as the smart, stable way to ride crypto without holding it directly, but the numbers behind that pitch tell a very different story about which bet actually holds its value.
+
+finance.yahoo.com • 1h ago
+
+---
+
+**[Bitcoin Could Become Collateral for Generational Wealth](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/bitcoin-become-collateral-generational-wealth/)**
+
+ETF Database • 1h ago
+
+---
+
+**[Strategy Returns to Profitability on $21 Billion Unrealized Gain](https://www.bloomberg.com/news/articles/2026-10-05/strategy-returns-to-profitability-on-21-billion-unrealized-gain)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Strategy Stock Rises After $29 Million Bitcoin Purchase](https://www.barrons.com/articles/strategy-stock-price-bitcoin-purchase-8c644369)**
+
+Barron's • 26m ago
 
 ---
 
@@ -177,51 +209,15 @@ Yahoo Finance • 2d ago
 
 When looking for best ideas for the fourth quarter nothing jumped off the charts to me — literally — like bitcoin.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
-**[Cathie Wood Predicts This Cryptocurrency Could Surge 1,665% From Here](https://www.fool.com/investing/2026/10/04/cathie-wood-predicts-this-cryptocurrency-could-sur/)**
+**[Bitcoin faces major short liquidation cluster near $90K, Glassnode says](https://www.tradingview.com/news/cryptobriefing:c321fa35f094b:0-bitcoin-faces-major-short-liquidation-cluster-near-90k-glassnode-says/)**
 
-Bitcoin needs to double in value every year in order to hit a price of $1.5 million by 2030.
+Bitcoin's biggest pool of vulnerable short bets is sitting right overhead. On October 4, 2026, on-chain analytics firm Glassnode flagged that the largest short liquidation cluster sits near the $90,000 level.With Bitcoin trading between $85,000 and $86,000 at the time, that cluster is not some dist…
 
-The Motley Fool • 10h ago
-
----
-
-**[Bitcoin rallies as European demand outpaces US interest](https://www.tradingview.com/news/cryptobriefing:22edc83d6094b:0-bitcoin-rallies-as-european-demand-outpaces-us-interest/)**
-
-Bitcoin has a geography problem, and for once Europe is on the winning side of it.Europe's Bitcoin market has gained 4% since early September. The US market has declined by 3% over the same stretch.Start with price. Bitcoin sat near $75,000 in mid-September 2026, a level that had traders nervously…
-
-tradingview.com • 7h ago
-
----
-
-**[Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses](https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses)**
-
-Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall.
-
-CoinDesk • 1h ago
-
----
-
-**[A Wall Street Giant Just Flipped On Bitcoin—Issues Huge 2027 Price Prediction](https://www.forbes.com/sites/digital-assets/2026/10/02/a-wall-street-giant-just-flipped-on-bitcoin-issues-huge-2027-prediction/)**
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin Rises for Third Straight Week on Strong ETF Demand](https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Current price of Bitcoin for Oct. 2, 2026](https://fortune.com/article/price-of-bitcoin-10-02-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
+TradingView • 9h ago
 
 ---
 
@@ -267,7 +263,7 @@ Best Bitcoin commercial I’ve recently seen
 
 In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.
 
-⬆️ 1 • 💬 0 • 15h ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
+⬆️ 1 • 💬 0 • 1d ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
 
 ---
 
@@ -275,13 +271,13 @@ In the first race between personal AI agents, I hide real money online in bitcoi
 
 An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macr...
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
+⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
 
 ---
 
 **[Bioinformaticians have been writing the same abstract for decades](https://news.ycombinator.com/item?id=49960668)**
 
-⬆️ 1 • 💬 0 • 1h ago • [luispedro.substack.com](https://luispedro.substack.com/p/bioinformaticians-have-been-writing)
+⬆️ 1 • 💬 0 • 10h ago • [luispedro.substack.com](https://luispedro.substack.com/p/bioinformaticians-have-been-writing)
 
 ---
 
@@ -289,7 +285,7 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 Florida voters are weighing whether to scrap residential property taxes and the state's governor has a solution to that potentially huge revenue loss: tax Canadians more.
 
-⬆️ 28 • 💬 40 • 15h ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
+⬆️ 28 • 💬 40 • 1d ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
 
 ---
 
@@ -297,53 +293,93 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Breakout Faces Its Biggest Macro Test](https://www.youtube.com/watch?v=kK8p0pjCOtA)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 4K • 👍 383 • 💬 11 • ⏱️ 49:44 • 30m ago
+
+---
+
+**[Did the US Government Just Set Up Bitcoin&#39;s Biggest Bull Run?!](https://www.youtube.com/watch?v=dMz7bgiH09U)**
+
+The bond market is pushing back, Washington is talking about $5000 checks, and the episode argues that monetary debasement ...
+
+📺 Simply Bitcoin
+
+👁️ 33K • 👍 2K • 💬 136 • ⏱️ 18:16 • 16h ago
+
+---
+
+**[There Won&#39;t Be Any XRP, Bitcoin Or Ethereum Left To Buy Very Very Soon And No One Even Cares](https://www.youtube.com/watch?v=Hd3TiAh0IJM)**
+
+Remember this video in a few years when there's no more cryptocurrency left on exchanges and Bitcoins price is well over a ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 4K • 👍 751 • 💬 140 • ⏱️ 20:25 • 2h ago
+
+---
+
+**[Bitcoin Holders: Have a Plan Before This Gets Crazy](https://www.youtube.com/watch?v=Gbe7ynoBK8I)**
+
+Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Where I Trade: https://aaronbtc.com/low ...
+
+📺 Aaron Bennett
+
+👁️ 9K • 👍 364 • 💬 57 • ⏱️ 6:34 • 10h ago
+
+---
+
+**[WHY THIS BITCOIN WEEK COULD BE VERY IMPORTANT](https://www.youtube.com/watch?v=gEcVPwKwhSk)**
+
+APPLY TO WORK WITH ME. We take a limited number of new members each month.
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 5K • 👍 421 • 💬 72 • ⏱️ 16:26 • 5h ago
+
+---
+
+**[Bitcoin Holds $86K While The Dollar Hits An 18-Month High | Michael Howell](https://www.youtube.com/watch?v=T696IlSLYBI)**
+
+Bitcoin #Crypto #finance Bitcoin holds strong near $86K despite the dollar hitting an 18-month high and Treasury yields ...
+
+📺 The Wolf Of All Streets
+
+👁️ 5K • 👍 407 • 💬 51 • ⏱️ 1:05:28 • 57m ago
+
+---
+
+**[BITCOIN WARNING: This Will TRAP Traders (Fakeout)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cYjll3c_apI)**
+
+BITCOIN WARNING: This Will TRAP Traders (Fakeout)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 231 • 💬 15 • ⏱️ 15:29 • 3h ago
+
+---
+
+**[HUGE Uptober Week for Bitcoin and Crypto...](https://www.youtube.com/watch?v=A7VActnvfuI)**
+
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 819 • 💬 156 • ⏱️ 9:07 • 15h ago
+
+---
+
 **[Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?](https://www.youtube.com/watch?v=US01akVg4es)**
 
 No B.S. Just Charts. Bitcoin heads into a make-or-break week, and Gareth Soloway shows the exact bull flag level that decides ...
 
 📺 Gareth Soloway
 
-👁️ 80K • 👍 3K • 💬 253 • ⏱️ 15:03 • 13h ago
-
----
-
-**[Ben Cowen: Bitcoin Just Changed the Entire Setup | with Kris Bullock](https://www.youtube.com/watch?v=S5DYK-fUwIE)**
-
-Kris Bullock sits down with Ben Cowen to reassess the Bitcoin market after a breakout that caught both of them by surprise.
-
-📺 Real Vision
-
-👁️ 37K • 👍 648 • 💬 96 • ⏱️ 19:02 • 16h ago
-
----
-
-**[Bitcoin Is WAY Ahead Of The 4-Year Cycle. Go All In ?](https://www.youtube.com/watch?v=xQvMRh-0AEo)**
-
-Four years ago Bitcoin was down 70% from its all-time high. Today it's only down 32%. We are WAY ahead of schedule, and a lot ...
-
-📺 Digital Asset News
-
-👁️ 18K • 👍 520 • 💬 46 • ⏱️ 46:36 • 15h ago
-
----
-
-**[My Plan To Make Millions With Crypto Altcoins and Bitcoin [It&#39;s Big]](https://www.youtube.com/watch?v=d3e-LhppGMg)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 18K • 👍 716 • 💬 270 • ⏱️ 18:19 • 11h ago
-
----
-
-**[$16 Million Bitcoin EXPLOSION - Saylor Says He’ll Buy All The Way Up](https://www.youtube.com/watch?v=8GanhaNmj2U)**
-
-Michael Saylor says he'll happily buy Bitcoin at $200K, $500K, $1 million, $2 million, $4 million, $8 million and even $16 million.
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 303 • 💬 76 • ⏱️ 15:43 • 7h ago
+👁️ 97K • 👍 3K • 💬 306 • ⏱️ 15:03 • 22h ago
 
 ---
 
@@ -353,47 +389,7 @@ Bitcoin is outperforming through geopolitical chaos while the bond market flashe
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 2K • 💬 149 • ⏱️ 16:08 • 1d ago
-
----
-
-**[$2 Million Bitcoin THIS CYCLE - Saylor Is About To Trigger a SUPPLY SHOCK](https://www.youtube.com/watch?v=s_mxQ8PUj_M)**
-
-Bitcoin could be heading toward a massive supply shock as Samson Mow predicts Michael Saylor, Adam Back and a growing ...
-
-📺 Bitcoin News Alerts
-
-👁️ 22K • 👍 434 • 💬 275 • ⏱️ 15:02 • 1d ago
-
----
-
-**[Bitcoin: Judgement Day Has Arrived](https://www.youtube.com/watch?v=aAY4Lu_gFdc)**
-
-TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-reports ➡ NEW SUBSTACK VIDEO REPORTS ...
-
-📺 Jason Pizzino
-
-👁️ 7K • 👍 499 • 💬 33 • ⏱️ 26:14 • 3h ago
-
----
-
-**[Bitcoin Before the Next Big Move? What You Need to Know Now](https://www.youtube.com/watch?v=iqp4ulpHhfI)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 11K • 👍 376 • 💬 21 • ⏱️ 13:51 • 11h ago
-
----
-
-**[BITCOIN: NEW WEEK ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=R4Ed3AdxPXA)**
-
-Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
-
-📺 Road To $1 Million USD
-
-👁️ 7K • 👍 244 • 💬 37 • ⏱️ 7:57 • 10h ago
+👁️ 43K • 👍 2K • 💬 153 • ⏱️ 16:08 • 1d ago
 
 ---
 

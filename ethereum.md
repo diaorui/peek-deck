@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-05T06:03:37.389911+00:00'
+updated: '2026-10-05T15:08:17.021319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 05, 2026 at 06:03 UTC  
+**Last Updated:** October 05, 2026 at 15:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.2%  
-**30d:** +7.8%  
-**90d:** +55.4%  
-**1y:** -42.0%  
+**24h:** +0.0%  
+**7d:** +1.0%  
+**30d:** +7.5%  
+**90d:** +55.0%  
+**1y:** -42.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.45B
+**Market Cap:** $330.18B
 Rank #2
 
 **Circulating Supply:** 122,107,546 ETH
@@ -62,7 +62,7 @@ No max supply
 -45.3%
 
 **All-Time Low:** $0.43
-+625159.0%
++624382.9%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam upgrade on Sepolia testnet October 6, Vitalik: the cryptographic world computer, Hegotá upgrade focil-devnet-0 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-41/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-41/) • 3d ago
 
 ---
 
@@ -118,7 +118,7 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 I’ve really only studied bitcoin and not other crypto such as eth and want to learn more about its functions and just crypto as a whole. I’m still studying and researching and know the differences in basic functions but want to know more about what makes Ethereum different besides the PoW and PoS
 
-2d ago
+3d ago
 
 ---
 
@@ -150,14 +150,6 @@ a global government I would support system based on existing technological solut
 
 ## Google News: "ethereum"
 
-**[Ethereum L2 Blast shuts down as BLAST token crashes 99% from peak](https://www.fxstreet.com/cryptocurrencies/news/ethereum-l2-blast-shuts-down-as-blast-token-crashes-99-from-peak-202610030619)**
-
-Ethereum Layer-2 network Blast (BLAST) is winding down operations, claiming that the economics of maintaining the chain are no longer sustainable.
-
-FXStreet • 1d ago
-
----
-
 **[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative)**
 
 Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
@@ -166,19 +158,57 @@ Benzinga • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
+**[Ethereum Network Blast Is Shutting Down: Who Controls Users' Last $51 Million?](https://beincrypto.com/blast-shutting-down-ethereum-layer-2/)**
 
-Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
-
-Yahoo Finance • 2d ago
+BeInCrypto • 2d ago
 
 ---
 
-**[Crypto job postings triple to over 1,200 in September, but applications fall](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)**
+**[Ethereum Logs Smallest Year-To-Date Loss Since January As Rally Runs On Thin Leverage](https://finance.yahoo.com/markets/crypto/articles/ethereum-logs-smallest-date-loss-125431360.html)**
 
-Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.
+Analyst Ted Pillows sees $2,800 as a key level for Ethereum, saying a weekly close above it could confirm further upside.
 
-CoinDesk • 1d ago
+finance.yahoo.com • 2h ago
+
+---
+
+**[Ethereum Just Outran Bitcoin in Q3, and Q4 Could Be Where It Gets Interesting](https://finance.yahoo.com/markets/crypto/articles/ethereum-just-outran-bitcoin-q3-131215017.html)**
+
+ETH gained 70.9% in Q3, outperforming Bitcoin’s 43% rise, as crypto market capitalization expanded by approximately $823 billion. Ether’s near-price order-book depth fell to 35%-45% ...
+
+finance.yahoo.com • 1h ago
+
+---
+
+**[Bitmine Purchases 15,112 Ethereum As Price Strengthens](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-15-112-ethereum-134200292.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) bought an additional 15,112 Ethereum (CRYPTO: $ETH) over the past week...
+
+finance.yahoo.com • 1h ago
+
+---
+
+**[Ethereum staking exit queue jumps fivefold as holders face a two-week wait](https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line)**
+
+Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.
+
+CoinDesk • 7h ago
+
+---
+
+**[Ethereum liquidity drops below 50% of Bitcoin's level](https://www.tradingview.com/news/cryptobriefing:619776cbf094b:0-ethereum-liquidity-drops-below-50-of-bitcoin-s-level/)**
+
+Ethereum's standing in the liquidity rankings has taken a meaningful hit. A CoinGecko analysis of order-book depth across eight major centralized exchanges shows Ethereum's median market depth sitting at $13 to $14 million, which puts it at just 35 to 45% of Bitcoin's liquidity. A year ago, Ethereu…
+
+TradingView • 12h ago
+
+---
+
+**[Current price of Ethereum for October 5, 2026](https://fortune.com/article/price-of-ethereum-10-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -190,43 +220,11 @@ MarketForces Africa • 1d ago
 
 ---
 
-**[$90K Bitcoin Price Target, $3K Ethereum: What Will It Take to Get There?](https://coinmarketcap.com/academy/article/bitcoin-ethereum-price-prediction-90k-3k)**
-
-Bitcoin and Ethereum have strong fundamentals and low leverage, so why are they stalling below $90,000 and $3,000? Here's what a breakout would take.
-
-CoinMarketCap • 1d ago
-
----
-
-**[BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs](https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-s-ibit-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/)**
-
-BlackRock’s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT’s 50-day simple moving average…
-
-tradingview.com • 1d ago
-
----
-
 **[Ethereum’s past outflow charts can change when more exchange wallets are identified](https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/)**
 
 Ethereum outflow history can change as exchange wallets are identified. Coin Metrics rebuilt its ETH data; trading tests need inputs available at the time.
 
-CryptoSlate • 7h ago
-
----
-
-**[Ethereum OG Whale: Deposits 13,330 ETH to Coinbase](https://blockchain.news/flashnews/ethereum-og-whale-deposits-13-330-eth-coinbase)**
-
-Ethereum OG whale moves 13,330 ETH ($36.37M) to Coinbase, realizing $193M profit from 2015 ICO at $0.311 entry.
-
-blockchain.news • 8h ago
-
----
-
-**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
-
-The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
-
-The Block • 3d ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -234,13 +232,33 @@ The Block • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[There Won&#39;t Be Any XRP, Bitcoin Or Ethereum Left To Buy Very Very Soon And No One Even Cares](https://www.youtube.com/watch?v=Hd3TiAh0IJM)**
+
+Remember this video in a few years when there's no more cryptocurrency left on exchanges and Bitcoins price is well over a ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 4K • 👍 752 • 💬 140 • ⏱️ 20:25 • 2h ago
+
+---
+
+**[Ripple XRP GET OUT OF ETHEREUM!? LARRY FINK Just INKED THE DEAL - THIS HAPPENS NEXT…](https://www.youtube.com/watch?v=o-eEGFQ9YnQ)**
+
+Get Our Top Altcoin Picks Early: https://join.altcoinpro.com/1ef5e0af Join Our Private Intelligence Network Here: ...
+
+📺 BULLRUNNERS
+
+👁️ 3K • 👍 230 • 💬 36 • ⏱️ 12:56 • 3h ago
+
+---
+
 **[How to Retire on ETHEREUM by 2030 or sooner](https://www.youtube.com/watch?v=27VB8wKnm38)**
 
 Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 101 • ⏱️ 11:38 • 6h ago
+👁️ 57K • 👍 2K • 💬 153 • ⏱️ 11:38 • 15h ago
 
 ---
 
@@ -250,27 +268,17 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 36K • 👍 786 • 💬 87 • ⏱️ 11:28 • 18h ago
+👁️ 39K • 👍 818 • 💬 88 • ⏱️ 11:28 • 1d ago
 
 ---
 
-**[&quot;Ignore Everything And HODL&quot; 700% XRP Call Ethereum Is About To Ingnite The Bull Market For Crypto](https://www.youtube.com/watch?v=4ixwluKXNOc)**
+**[Whales Are LOADING UP On XRP As The Bull Run Begins Ethereum Is Going To Be The Bull Market Spark](https://www.youtube.com/watch?v=YOMWBJAjIqs)**
 
-Well, we made it. Its supposed to officially start in the next few days, and its literally causing people to lose their minds. You have ...
+If you thought things were intense before, you havent seen anything yet. Whales are doing something they wouldnt normally do ...
 
 📺 The Modern Investor
 
-👁️ 16K • 👍 923 • 💬 209 • ⏱️ 31:57 • 20h ago
-
----
-
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 297 • 💬 33 • ⏱️ 19:33 • 13h ago
+👁️ 6K • 👍 771 • 💬 107 • ⏱️ 33:14 • 4h ago
 
 ---
 
@@ -280,27 +288,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 156 • 💬 23 • ⏱️ 20:02 • 1d ago
+👁️ 13K • 👍 164 • 💬 24 • ⏱️ 20:02 • 1d ago
 
 ---
 
-**[ETH Ethereum 10K-22K Price Prediction](https://www.youtube.com/watch?v=kacG1elqBNA)**
+**[BITCOIN WARNING: This Will TRAP Traders (Fakeout)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cYjll3c_apI)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+BITCOIN WARNING: This Will TRAP Traders (Fakeout)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 C-Zar Gets Crypto 
+📺 Crypto World
 
-👁️ 1K • 👍 29 • 💬 6 • ⏱️ 19:25 • 14h ago
+👁️ 3K • 👍 231 • 💬 15 • ⏱️ 15:29 • 3h ago
 
 ---
 
-**[Ethereum: Where the Next Pullback Could End](https://www.youtube.com/watch?v=T7EsGi4KHq4)**
+**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
 
-Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target and consolidates while the $2615 to $2659 ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 11K • 👍 218 • 💬 13 • ⏱️ 9:53 • 1d ago
+👁️ 17K • 👍 321 • 💬 35 • ⏱️ 19:33 • 22h ago
+
+---
+
+**[&quot;Ignore Everything And HODL&quot; 700% XRP Call Ethereum Is About To Ingnite The Bull Market For Crypto](https://www.youtube.com/watch?v=4ixwluKXNOc)**
+
+Well, we made it. Its supposed to officially start in the next few days, and its literally causing people to lose their minds. You have ...
+
+📺 The Modern Investor
+
+👁️ 17K • 👍 971 • 💬 229 • ⏱️ 31:57 • 1d ago
 
 ---
 
@@ -310,27 +328,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 13K • 👍 300 • 💬 197 • ⏱️ 21:51 • 1d ago
-
----
-
-**[BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7iDBrsp7pz0)**
-
-BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 338 • 💬 40 • ⏱️ 18:30 • 9h ago
-
----
-
-**[BITCOIN 🚨BIGGEST SIGNAL IN HISTORY!!!! [ethereum]](https://www.youtube.com/watch?v=rDPrwozhyvw)**
-
-Bitcoin just smashed through $80K, one of the last bull-market indicators just flipped bullish, and altcoins are flashing something ...
-
-📺 Crypto Love
-
-👁️ 5K • 👍 352 • 💬 60 • ⏱️ 7:14 • 13h ago
+👁️ 14K • 👍 312 • 💬 34 • ⏱️ 21:51 • 2d ago
 
 ---
 
