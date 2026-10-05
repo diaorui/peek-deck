@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "I built an app where you ask about any moment in history and it turns it into a fully researched podcast you can interrupt",
+      "author": "Goldenchild123",
+      "url": "https://www.reddit.com/r/artificial/comments/1wy8a9z/i_built_an_app_where_you_ask_about_any_moment_in/",
+      "published": 1791206137.0,
+      "thumbnail": "https://external-preview.redd.it/dTFqZnZpeGVmbnRoMaZEfwTj0im_J0E7-_-75I8a7pvRlbctolnkMyrnm8cD.png?width=640&crop=smart&auto=webp&s=cb82dbaf898ae6f5445c91776c693f511e438bc5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "History is something I'm quite passionate about and at work I have experience with software development and LLMs. So I thought how can I bring these things together and built something that I would actually use. This is the results of a few months of hard work! You type any topic, moment or person. About 1 minute later, two (or one) hosts are telling you the story, researched with sources and paired with artwork that follows along. They also remember what you've listened to in the past and can refer to it. At the end there's also a optional quiz to test what you learned! My favorite part: you can interrupt them. Got a question halfway through? Just ask. They answer it and then pick the story back up. Basically a podcast you can talk back to. They also remember what you've listened to before and will bring it up. It doesn't just make things up and hope. Before a word of the script gets written, it researches the topic on the web and checks the key dates, names and numbers against real sources. And when those sources disagree (which in history is constantly), the hosts tell you that instead of quietly picking a side. Every episode links what it used so you can dig in yourself. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, voices, quiz, etc.... The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. Currently supports 6 languages! Looking for feedback really and to see if this is worth continuing down this rabbit hole You can try it without an account here: historai.ca/"
+    },
+    {
       "title": "The top 50 AI researchers by citations",
       "author": "ksprdk",
       "url": "https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/",
@@ -11,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50"
+    },
+    {
+      "title": "Court throws out killer\u2019s sentence after judge said he \u2018loved\u2019 AI video of slain man",
+      "author": "nbcnews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wy43z7/court_throws_out_killers_sentence_after_judge/",
+      "published": 1791192417.0,
+      "thumbnail": "https://external-preview.redd.it/qSmLwIn_6gSrRPjBWn3sT6qcBf5He-U75DKWw9H3_Nk.jpeg?width=640&crop=smart&auto=webp&s=e553854e3ba08bce6978e1760bbd2d4fd6f6ca28",
+      "external_url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The Arizona Court of Appeals tossed a road rage killer\u2019s sentence after determining that the judge\u2019s consideration of the AI video was \u201cfundamentally unfair.\u201d"
     },
     {
       "title": "Half of surveyed UK novelists fear AI could replace their work entirely",
@@ -24,6 +46,28 @@
       "description": "For many British novelists, the threat from artificial intelligence reaches beyond the manuscript on their desk. It also touches the freelance assignments that pay their bills, their ownership of published work, and their connection with readers. A University of Cambridge report found that 51% of participating published novelists believed AI would likely replace their fiction-writing work entirely. Another finding was more immediate: 39% said generative AI had already hurt their income. Some 85% expected their future earnings to decline because of it. Published in, The Impact of Generative AI on the Novel examined experiences across British fiction. Clementine Collett, a BRAID UK Research Fellow at Cambridge\u2019s Minderoo Centre for Technology and Democracy, led the research. The report was published in association with the Institute for the Future of Work."
     },
     {
+      "title": "Long-running agents: is the bottleneck the model or the scaffolding around it?",
+      "author": "Sad_Lavishness_53",
+      "url": "https://www.reddit.com/r/artificial/comments/1wy20j4/longrunning_agents_is_the_bottleneck_the_model_or/",
+      "published": 1791183986.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Something I keep noticing with agent setups: every individual step is easy for the model, but the full chain still falls apart on long tasks. I think it comes down to three things: Error compounding. At 95% accuracy per step, a 20-step chain only succeeds about a third of the time (0.95^20 is roughly 0.36). Small errors stack up fast. Context pollution. After enough tool calls, the context is full of old outputs, dead ends and failed attempts, and the model slowly loses track of the original goal. Weak self-correction. When a step goes wrong, the model usually keeps building on top of it instead of backing up and fixing it. What I'm unsure about is where the real fix comes from. One camp says it's mostly better models. The other says a well-designed loop (checkpoints, verifier steps, state stored outside the context window) matters more than the model itself. Curious what people here have seen in practice: Do you keep the full history in context, or summarize/prune as you go? Has a separate critic or verifier model actually helped, or does it just add latency and cost? At what point in a task do your agents usually start breaking, and what actually fixed it for you? Would love to hear what's worked and what hasn't."
+    },
+    {
+      "title": "If nothing else, LLMs seem to be getting humour a bit better.",
+      "author": "colinwheeler",
+      "url": "https://www.reddit.com/r/artificial/comments/1wy3z8l/if_nothing_else_llms_seem_to_be_getting_humour_a/",
+      "published": 1791191909.0,
+      "thumbnail": "https://preview.redd.it/i8wz4wt59mth1.png?width=320&crop=smart&auto=webp&s=37bd12eae9606e733e2ff61eadbdf9a13baaf558",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This one actually had me laughing out loud."
+    },
+    {
       "title": "Plagiarism checker= Genius",
       "author": "meenags",
       "url": "https://www.reddit.com/r/artificial/comments/1wxqvl6/plagiarism_checker_genius/",
@@ -35,37 +79,15 @@
       "description": "Whoever invented the AI plagiarism checker is a genius. Why wait for papers to be published online when you can get people to upload college essays and other publications in an effort to detect AI usage. The models must be getting a lot of data from colleges and schools"
     },
     {
-      "title": "AI finds 44 star systems that could hide Earth-like planets",
-      "author": "Brighter-Side-News",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxv9n5/ai_finds_44_star_systems_that_could_hide/",
-      "published": 1791161153.0,
-      "thumbnail": "https://external-preview.redd.it/BLU4fmsKad0HSNTTFrvV3Aru2KC05dhTGU8thy8Tq-U.png?width=640&crop=smart&auto=webp&s=d80ee73a96cb0f99bccd1a8b20dd7de272430a4d",
-      "external_url": "http://thebrighterside.news/post/ai-finds-44-star-systems-that-could-hide-earth-like-planets",
-      "site_name": "The Brighter Side of News",
-      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
-      "description": "A planet already found around a distant star may offer clues about another world still hidden nearby. Its mass and orbit can carry traces of how the entire planetary system formed, including planets too small or faint for telescopes to detect. That possibility underpins an artificial intelligence model developed at the University of Bern and Switzerland\u2019s National Centre of Competence in Research PlanetS. In a study published in Astronomy & Astrophysics, the team identified 44 known systems that could harbor undiscovered Earth-like planets. The model reached precision scores of up to 99% when tested on simulated planetary systems. That result measures performance within a computer-generated population. The predicted worlds around actual stars remain unconfirmed, and the method\u2019s value will depend on follow-up observations."
-    },
-    {
-      "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths \u2014 AI agent navigates by parsing raw server network packets and SQL filesa",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
-      "published": 1791128565.0,
-      "thumbnail": "https://external-preview.redd.it/5mWotV5SOmfnb56NmRVj2DW92_T-3UJeuNHSnC93x0k.png?width=640&crop=smart&auto=webp&s=8457fb11ab0844b8e741f1cda781b697065773bb",
-      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1769329/apple-touch-icon.png",
-      "description": "OpenAI's model used the open-source agent-wow client to play on a private World of Warcraft server."
-    },
-    {
-      "title": "OpenAI cuts ties with 3 researchers over alleged misconduct",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/",
-      "published": 1791139306.0,
-      "thumbnail": "https://external-preview.redd.it/emQ1tZrLXITL4YvM8vbedHEP_hssfUthBxUWkIEEte4.jpeg?width=640&crop=smart&auto=webp&s=df86b61ea71e740f5b5e5eda80d2918f0830564e",
-      "external_url": "https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "The ousters come as top AI researchers wield \"extraordinary influence\" internally, at the same time that companies face public pressure to increase safety measures"
+      "title": "China\u2019s AI Safety Money Problem",
+      "author": "overflow_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wy92jj/chinas_ai_safety_money_problem/",
+      "published": 1791208207.0,
+      "thumbnail": "https://external-preview.redd.it/wiCYSSSxJ-CQbJARf8HD_z7kpnFvZ21aCzwLm4Jdods.jpeg?width=640&crop=smart&auto=webp&s=ac5b758004657d9b8809c2d893d7f5b72c79d15e",
+      "external_url": "https://open.substack.com/pub/chinatalk/p/chinas-ai-safety-money-problem?r=a7orj&utm_campaign=post&utm_medium=email",
+      "site_name": "open.substack.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "How do AIs actually collect my sensitive information?",
@@ -79,38 +101,16 @@
       "description": "I dont use the google ai that much because it generally gives bad info, but a few times I have noticed it \"randomly\" guesses things, like my age, my name, where I live ect. Whenever I ask the ai it says it has no access to my phones, messages, mic, ect and that it doesn't store chat info session to session. For instance, I just got a new cat a few days ago, I never asked the ai about my cat, or anything related to its name. Then I asked it \"why does my cat chase nothing\" And it kept referring to my cat by name. When pressed it just said that it randomly pulled that name out of thin Air. My cats name is Julius, I have a very hard time believing it pulled that out of nowhere. So what does it do? Read my texts? Access my mic or what? Because the only person I've even told that I got a cat was my sister in text."
     },
     {
-      "title": "One thing I find interesting about AI is that getting a better answer doesn't always mean getting a better outcome.",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxy5zn/one_thing_i_find_interesting_about_ai_is_that/",
-      "published": 1791170172.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "An AI system can produce a convincing analysis, recommendation, or plan, but the result still depends on whether the user supplied the right context and whether the output holds up in reality. Where have you seen the biggest gap between an impressive AI response and something genuinely useful in practice?"
-    },
-    {
-      "title": "All Google models basically, even nanobanna on web is nerfed",
-      "author": "HimaSphere",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxo85r/all_google_models_basically_even_nanobanna_on_web/",
-      "published": 1791142011.0,
-      "thumbnail": "https://preview.redd.it/7gsmi67l4ith1.png?width=640&crop=smart&auto=webp&s=e19a15f98b481a0def7817df75f9e8f62bcabe7c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I think this chase them for so long, I can't trust Gemini models outside quick web searches"
-    },
-    {
-      "title": "Thank you",
-      "author": "astreigh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/",
-      "published": 1791147533.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Do you thank an llm when you've finished chatting with it? Why or why not?"
+      "title": "OpenAI cuts ties with 3 researchers over alleged misconduct",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/",
+      "published": 1791139306.0,
+      "thumbnail": "https://external-preview.redd.it/emQ1tZrLXITL4YvM8vbedHEP_hssfUthBxUWkIEEte4.jpeg?width=640&crop=smart&auto=webp&s=df86b61ea71e740f5b5e5eda80d2918f0830564e",
+      "external_url": "https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "The ousters come as top AI researchers wield \"extraordinary influence\" internally, at the same time that companies face public pressure to increase safety measures"
     }
   ],
-  "fetched_at": "2026-10-05T06:03:13.540660+00:00"
+  "fetched_at": "2026-10-05T15:07:43.450895+00:00"
 }

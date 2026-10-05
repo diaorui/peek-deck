@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum L2 Blast shuts down as BLAST token crashes 99% from peak",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3BVTm1kelQyZ1ZlV2tZZFlMcXp1bzRDUDBWT2R6elJpOTdUTnpQWkUxLThXNV92cHlkZWNUM3JSU2YtRVlaRTlnbU5oMUViLTZmWkloQkNvYjhaRmViVTBmU0lrQ0xtQUpOSi1IT0NBcUh1YWtETGM1eDlGaFZZdThsXzBlcWg2LUJDX2xEaG5KYmpnX0NGS1RkVGV2WGxKcWV5MUR5N194LVBhZVFoZS1Xc0pRZFl2VTRJZjNkZnFJUQ?oc=5",
-      "pub_date": 1791008391.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-l2-blast-shuts-down-as-blast-token-crashes-99-from-peak-202610030619",
-      "image": "https://editorial.fxsstatic.com/images/i/crypto-coins-1_Medium.png",
-      "description": "Ethereum Layer-2 network Blast (BLAST) is winding down operations, claiming that the economics of maintaining the chain are no longer sustainable."
-    },
-    {
       "headline": "Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
@@ -25,24 +15,74 @@
       "description": "Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge."
     },
     {
-      "headline": "Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFdFbnV0ZGp2cEZtaHhRenB5SzVaWklzQ2FqeU04b3NxMDB4MW1uQkhNSG83aEtCLTFEUWhxb0hHZ2hLSjZwRVdmU1U0cmUtUk82eEI5M3pJQV9rS2ZnRXlVTDRLX2pWZEM1VThhWXMzT3BtOHRQOWNjbDVYdzJQVFJiUWxDU3NfYjhxdkljaWEtdXVObWtkNTJ3?oc=5",
-      "pub_date": 1790991060.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f948f41b6cf6ac5c7cfa03fc0e45172fc8bb1475212b04316a1f99628e0746b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0dbcc436be3c2827b498b2f47ec3d832.jpg",
-      "description": "Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get."
+      "headline": "Ethereum Network Blast Is Shutting Down: Who Controls Users' Last $51 Million?",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WSEFFZkl1c1dEazRXLTF0QmlkbFhtdWgtdl9wdHRvdDdiN3BQOFl3Z253VmcxV18zY3lkRjJtVkhPSnVEVUFPU2Z1bkx2SldMLUduUFFGYmpUT2R6M0ZGU1VheXNMb3FsckNWVA?oc=5",
+      "pub_date": 1790958660.0,
+      "article_url": "https://beincrypto.com/blast-shutting-down-ethereum-layer-2/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "headline": "Ethereum Logs Smallest Year-To-Date Loss Since January As Rally Runs On Thin Leverage",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUh1TkxmMjhwUjhMZ21LWUo3Q1JkeWdNd2l3RmdRZFVUUTJsX3JkVndMYy0zZFFvY2x4QVJxSWJyeHhNOWNWeEpGZ2NFaVNpTl91VERWV1Vhc0VWTWFCRF9yejFIREo4OGt5VEZCUVB5b1VfMTl3WGlqUmlodVptTDNkM0wxcmhTOGx5VmJlYVpncF9DM1QxVFotTGxSQQ?oc=5",
+      "pub_date": 1791204871.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-logs-smallest-date-loss-125431360.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bd469dae09954e12f0fb702848e4a6d8ab6a9c9c864ad0b716e1bee54c2134bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1ca7d9c942b65bf63c892f764fe55908",
+      "description": "Analyst Ted Pillows sees $2,800 as a key level for Ethereum, saying a weekly close above it could confirm further upside."
+    },
+    {
+      "headline": "Ethereum Just Outran Bitcoin in Q3, and Q4 Could Be Where It Gets Interesting",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUc2UndhSWtMNlhEZllxdDNrbk1ZOVVObU5sTllLcHlaejgyaXhoaXJuNWNfZjZSQ0g3V0ZCUjUzWHhyNFBiWVRQU3VLaktxM2pFaTJrVnlwekJTQXNsYktLYzZ4Ml9SZ3NNVThRdlNIR1UwemZtS0ZuUlBfT3paNnFnVFlNY0I2RXc2bTVwU2Fnd2lRSVVrY0RhMHM?oc=5",
+      "pub_date": 1791205935.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-just-outran-bitcoin-q3-131215017.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5c4f4bca74bbd29fae21803440db194a987e72fd093dc70623950848a5620b17/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F993bd784a5850f6b8491f74b6f8df8b9",
+      "description": "ETH gained 70.9% in Q3, outperforming Bitcoin\u2019s 43% rise, as crypto market capitalization expanded by approximately $823 billion. Ether\u2019s near-price order-book depth fell to 35%-45% ..."
+    },
+    {
+      "headline": "Bitmine Purchases 15,112 Ethereum As Price Strengthens",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY21LdHdRSGpCc2lUUUVPNzF6c1BMaXBvd2Y1Nk9PX0dOdm1qamc5VUQ4blREWjAtTFRnX3RrbXhWdlVMaXpVS0dqRGFLdW1CMTJRcDZubUlDeEtvaTVUcWphRGdQQTFiSFBWMHdOdnE2T1RxbGV6a09yTDJDRktUQXBVWnI3OXZCRlVhR2tuZEl3YVVqZS1nUTFCSl8zRG8?oc=5",
+      "pub_date": 1791207720.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-15-112-ethereum-134200292.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ee9bc77a311b4477f1f73960f62195aecf20665e1a453469885c3bd589f0f454/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1734240acfda48f5bbf79a1cf620ce10.jpg",
+      "description": "Bitmine Immersion Technologies (NYSE: $BMNR) bought an additional 15,112 Ethereum (CRYPTO: $ETH) over the past week..."
+    },
+    {
+      "headline": "Ethereum staking exit queue jumps fivefold as holders face a two-week wait",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalBXSHBodWpOUTBEWmNNUnZQY25HVzI1dWpGQk8zZFVUQndldXVkRTdwTUVDRzgxdFdteWpfVzg0dlZRUWlNSUU4Y2Flb256UWt4eTZ0bG1pQXpRUFBFSXhtYm5ST0I4aTVMdTVfTUx6QUl4ZkgyQ2E2ZnF1Zy01OW5ETVFndXJoZ19QbDJpZGFmeGo3LVFlN3ozdUFSU3YweTlfT1J5MEtaekhsbFhKTENYT3RDcV9PNmRlRg?oc=5",
-      "pub_date": 1791043200.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0bd7d25adab19bae569a11ac843bb6b058835c49-1920x1080.jpg?auto=format&q=75",
-      "description": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills."
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjU0Vk5DdDB0Zm1pMXZkWDNiUHNubThLa2dyeXFnUlJoYjZCT2QwSG1Jd3NjOEJKSVpOUzYzdGwtc1h0QUQ5S3RZVmRKaUc2TTZUQXlBRFJ1TmJSMkNRTnFiaUxlXzQxZS1KNlJnaTdQeXBOLVFFRFpKRXRXZWUtbTdEMXlrZ21zRmE2T09GOEtoS1dnam5XeFpnNkp0RHBrWWpfN05iNHdUdDRzTVNnZm5NMXEyMEFaS19zbw?oc=5",
+      "pub_date": 1791186301.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026."
+    },
+    {
+      "headline": "Ethereum liquidity drops below 50% of Bitcoin's level",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3lwdFRwRngyTGQ4Y0E4SzlfdDBwVWpoZ251V3B0RzhsdnZMVnc3Y0M2V21HT21uNWp6alhmQmV3UXp6ZVdqSThPNThfTUhtVmFienRWLU56Zk5vV0JTekhxSFRtNmVBdnoyZ2l4MWRHMDlIWlZnTXhhMUZwWU5rR1NPTUJ5Y2tYZ3R5eXhLUnVKLVdJX2NMclNRME54OGF0T1N4TENWRkRIQnlLRHprb29WVC1pQXJs?oc=5",
+      "pub_date": 1791166442.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:619776cbf094b:0-ethereum-liquidity-drops-below-50-of-bitcoin-s-level/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum's standing in the liquidity rankings has taken a meaningful hit. A CoinGecko analysis of order-book depth across eight major centralized exchanges shows Ethereum's median market depth sitting at $13 to $14 million, which puts it at just 35 to 45% of Bitcoin's liquidity. A year ago, Ethereu\u2026"
+    },
+    {
+      "headline": "Current price of Ethereum for October 5, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1odnF0MVhZWlhVUUxwYkJnZTdLZWdxN2lHWEF4MEIwUUlQR0s4ME52b2k4c1JEMHNGWnhqLUhBcXhGcHZER2ZxUWU5SlVZWXBwM19NRzVfaWZJQXdaeWRhRjFHMnZBZkpY?oc=5",
+      "pub_date": 1791198900.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-05-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-5.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch",
@@ -55,26 +95,6 @@
       "description": "Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins."
     },
     {
-      "headline": "$90K Bitcoin Price Target, $3K Ethereum: What Will It Take to Get There?",
-      "source": "CoinMarketCap",
-      "source_url": "https://coinmarketcap.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaklJWTdMMEdlNVpka1E0R2VuYmoxSVU3c2VITmYyUlBJa3BrVXNCendQY0dRTmRnLTdvZUp0dUJkX1c4N2ZUWklpYnRVeHd6OHlJcEU3MlA2dEctSkxHSkdNVHFBcV9DMm52ai1OVF9yc283b2ZpSkxUSTBvWDk0ZmN3U3dqWHRwa2c?oc=5",
-      "pub_date": 1791051133.0,
-      "article_url": "https://coinmarketcap.com/academy/article/bitcoin-ethereum-price-prediction-90k-3k",
-      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/2a012b53ce5e4cd4a9c4790f454a1710.jpeg",
-      "description": "Bitcoin and Ethereum have strong fundamentals and low leverage, so why are they stalling below $90,000 and $3,000? Here's what a breakout would take."
-    },
-    {
-      "headline": "BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs",
-      "source": "tradingview.com",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTkp3T2tVZkNrUWxESkNjb2pMTDlmTjl4T1ZWcXYzdXp6R3BPY3dDYjlvbVl3VWJjdmhNMktCcWRKZHI2NEhBV0NzbEUxMkg2U0JvcGxzNHoxUTZ1dDdkNXBQY0huMC13M2VmeVAyV2Z2d0c5ZkZ3ODhGSFRNbEVqTGxqWGZ0NmtMWlhiT0tGNjNwMVBha0JZU1NJM25LbEtZOFJpbTJsaDFZaE1XQ2ZJMW1aNjlfV25ZTkJHV1lQUjF2WFNHM1FEUzNxOGQ3QmVjUGxDb2U3SVZhbnNUaGM4RS1GMGVLY1FJZWloZnJB?oc=5",
-      "pub_date": 1791046796.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:d08664c17094b:0-blackrock-s-ibit-etf-flashes-golden-cross-as-sec-approves-triple-leveraged-bitcoin-ethereum-etps/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "BlackRock\u2019s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT\u2019s 50-day simple moving average\u2026"
-    },
-    {
       "headline": "Ethereum\u2019s past outflow charts can change when more exchange wallets are identified",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
@@ -83,28 +103,8 @@
       "article_url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-data-vintage-clock.webp",
       "description": "Ethereum outflow history can change as exchange wallets are identified. Coin Metrics rebuilt its ETH data; trading tests need inputs available at the time."
-    },
-    {
-      "headline": "Ethereum OG Whale: Deposits 13,330 ETH to Coinbase",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2IwdlBjbmpUMDRXTlZRQjg4bkZndHFfOHBnOEYxVUxJTWRfX0t6alAzODVtcE4wN3BQUG5hYmUzMDVweDdQR3FKLVRHTzdCcVVTR196LVZaSFU0VlNZdmV6c25GRTEyMmhEQlo2dXFMQURhcXVaeFVWSkVxamFFTFNxQ0RzZWM?oc=5",
-      "pub_date": 1791149460.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-og-whale-deposits-13-330-eth-coinbase",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Ethereum OG whale moves 13,330 ETH ($36.37M) to Coinbase, realizing $193M profit from 2015 ICO at $0.311 entry."
-    },
-    {
-      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGlsRXNfYm00UlRDQ19sWGtxTTdpczZWcHVMcWR3UWhDczM0ellRSjB5NkRLY01VLU5PdHlGRTF5amlzX3FuaV9UZWY3Vk4ycGZGNHFkMVFwOTA1QmZOaFhSY2hoWWNPVzNZV1I2WC1LVEt5TlZ0bWxTZzM5R1Nyb05PMFlOSWNvT2Vjcng5aw?oc=5",
-      "pub_date": 1790900520.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-      "description": "The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-05T06:03:32.929806+00:00"
+  "fetched_at": "2026-10-05T15:08:09.613126+00:00"
 }
