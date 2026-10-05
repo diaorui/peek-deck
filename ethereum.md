@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-05T00:04:51.949278+00:00'
+updated: '2026-10-05T06:03:37.389911+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 05, 2026 at 00:04 UTC  
+**Last Updated:** October 05, 2026 at 06:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +1.7%  
-**30d:** +8.3%  
-**90d:** +56.1%  
-**1y:** -41.7%  
+**24h:** +0.2%  
+**7d:** +1.2%  
+**30d:** +7.8%  
+**90d:** +55.4%  
+**1y:** -42.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $332.60B
+**Market Cap:** $330.45B
 Rank #2
 
-**Circulating Supply:** 122,104,582 ETH
+**Circulating Supply:** 122,107,546 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--44.9%
+-45.3%
 
 **All-Time Low:** $0.43
-+628997.5%
++625159.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ I haven't been following up with eth for a while. Can anyone let me know whats a
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -126,7 +126,7 @@ I’ve really only studied bitcoin and not other crypto such as eth and want to 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -150,14 +150,6 @@ a global government I would support system based on existing technological solut
 
 ## Google News: "ethereum"
 
-**[Introducing zkAPI: private usage credits for any API](https://blog.ethereum.org/2026/10/01/introducing-zkapi)**
-
-tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge...
-
-ethereum.org • 3d ago
-
----
-
 **[Ethereum L2 Blast shuts down as BLAST token crashes 99% from peak](https://www.fxstreet.com/cryptocurrencies/news/ethereum-l2-blast-shuts-down-as-blast-token-crashes-99-from-peak-202610030619)**
 
 Ethereum Layer-2 network Blast (BLAST) is winding down operations, claiming that the economics of maintaining the chain are no longer sustainable.
@@ -166,11 +158,19 @@ FXStreet • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative)**
+
+Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
+
+Benzinga • 2d ago
+
+---
+
 **[Bitcoin, Ethereum or XRP: We Asked AI Models Which Gets Back to Its All-Time High First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-asked-ai-013133778.html)**
 
 Three AI models agreed on which cryptocurrency closes its all-time high gap first, but their confidence levels told a very different story about how rocky the road back could get.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -186,7 +186,15 @@ CoinDesk • 1d ago
 
 Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
 
-dmarketforces.com • 1d ago
+MarketForces Africa • 1d ago
+
+---
+
+**[$90K Bitcoin Price Target, $3K Ethereum: What Will It Take to Get There?](https://coinmarketcap.com/academy/article/bitcoin-ethereum-price-prediction-90k-3k)**
+
+Bitcoin and Ethereum have strong fundamentals and low leverage, so why are they stalling below $90,000 and $3,000? Here's what a breakout would take.
+
+CoinMarketCap • 1d ago
 
 ---
 
@@ -194,15 +202,7 @@ dmarketforces.com • 1d ago
 
 BlackRock’s (BLK) iShares Bitcoin Trust ETF (IBIT) flashed a golden cross on Saturday, as the Securities and Exchange Commission (SEC) approved a rule change to allow triple-leveraged Bitcoin (BTC) and Ether (ETH) products to be listed.According to Koyfin data, IBIT’s 50-day simple moving average…
 
-TradingView • 1d ago
-
----
-
-**[Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?](https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/)**
-
-One digital asset treasury company is very bullish about Ethereum right now.
-
-The Motley Fool • 14h ago
+tradingview.com • 1d ago
 
 ---
 
@@ -210,23 +210,23 @@ The Motley Fool • 14h ago
 
 Ethereum outflow history can change as exchange wallets are identified. Coin Metrics rebuilt its ETH data; trading tests need inputs available at the time.
 
-CryptoSlate • 1h ago
+CryptoSlate • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative)**
+**[Ethereum OG Whale: Deposits 13,330 ETH to Coinbase](https://blockchain.news/flashnews/ethereum-og-whale-deposits-13-330-eth-coinbase)**
 
-Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
+Ethereum OG whale moves 13,330 ETH ($36.37M) to Coinbase, realizing $193M profit from 2015 ICO at $0.311 entry.
 
-Benzinga • 2d ago
+blockchain.news • 8h ago
 
 ---
 
-**[Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419)**
+**[Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity](https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504)**
 
-Co-author and Ethereum France president Jérôme de Tychey said industry feedback convinced him the issuance change needs its own process, with forums and workshops planned through EthCC in April.
+The system, built with the Open Anonymity Project, implements a design Ethereum co-founder Vitalik Buterin and Ethereum Foundation dAI Lead Davide Crapis published in February.
 
-theblock.co • 3d ago
+The Block • 3d ago
 
 ---
 
@@ -240,17 +240,7 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 266 • 💬 32 • ⏱️ 11:38 • 55m ago
-
----
-
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 234 • 💬 29 • ⏱️ 19:33 • 7h ago
+👁️ 31K • 👍 1K • 💬 101 • ⏱️ 11:38 • 6h ago
 
 ---
 
@@ -260,17 +250,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 32K • 👍 737 • 💬 69 • ⏱️ 11:28 • 12h ago
-
----
-
-**[Tom Lee :&quot;Big Week for ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=dzsZT_6nuac)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 151 • 💬 21 • ⏱️ 20:02 • 19h ago
+👁️ 36K • 👍 786 • 💬 87 • ⏱️ 11:28 • 18h ago
 
 ---
 
@@ -280,17 +260,27 @@ Well, we made it. Its supposed to officially start in the next few days, and its
 
 📺 The Modern Investor
 
-👁️ 15K • 👍 883 • 💬 197 • ⏱️ 31:57 • 14h ago
+👁️ 16K • 👍 923 • 💬 209 • ⏱️ 31:57 • 20h ago
 
 ---
 
-**[Ethereum Price Prediction: Will It Break The Crypto Market?](https://www.youtube.com/watch?v=wEKxZLuPM18)**
+**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
 
-Ethereum could be setting up for another explosive move. Tom Lee has highlighted ETH's history of massive upside ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Lark Davis
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 28 • 💬 1 • ⏱️ 0:26 • 8h ago
+👁️ 14K • 👍 297 • 💬 33 • ⏱️ 19:33 • 13h ago
+
+---
+
+**[Tom Lee :&quot;Big Week for ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=dzsZT_6nuac)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 13K • 👍 156 • 💬 23 • ⏱️ 20:02 • 1d ago
 
 ---
 
@@ -300,17 +290,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 862 • 👍 23 • 💬 6 • ⏱️ 19:25 • 8h ago
-
----
-
-**[BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7iDBrsp7pz0)**
-
-BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 212 • 💬 20 • ⏱️ 18:30 • 3h ago
+👁️ 1K • 👍 29 • 💬 6 • ⏱️ 19:25 • 14h ago
 
 ---
 
@@ -320,17 +300,37 @@ Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target 
 
 📺 More Crypto Online
 
-👁️ 11K • 👍 217 • 💬 13 • ⏱️ 9:53 • 1d ago
+👁️ 11K • 👍 218 • 💬 13 • ⏱️ 9:53 • 1d ago
 
 ---
 
-**[BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=w1K45pdvCGI)**
+**[Ethereum vs Solana vs Sui: The Framework for the Next Crypto Cycle](https://www.youtube.com/watch?v=rBOz5JaVLWs)**
 
-BITCOIN: CALM BEFORE THE STORM (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 13K • 👍 300 • 💬 197 • ⏱️ 21:51 • 1d ago
+
+---
+
+**[BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7iDBrsp7pz0)**
+
+BITCOIN WARNING: TIME IS RUNNING OUT (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 18K • 👍 456 • 💬 79 • ⏱️ 19:40 • 21h ago
+👁️ 10K • 👍 338 • 💬 40 • ⏱️ 18:30 • 9h ago
+
+---
+
+**[BITCOIN 🚨BIGGEST SIGNAL IN HISTORY!!!! [ethereum]](https://www.youtube.com/watch?v=rDPrwozhyvw)**
+
+Bitcoin just smashed through $80K, one of the last bull-market indicators just flipped bullish, and altcoins are flashing something ...
+
+📺 Crypto Love
+
+👁️ 5K • 👍 352 • 💬 60 • ⏱️ 7:14 • 13h ago
 
 ---
 
