@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-06T02:24:35.045945+00:00'
+updated: '2026-10-06T09:14:26.832616+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 06, 2026 at 02:24 UTC  
+**Last Updated:** October 06, 2026 at 09:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +0.8%  
-**30d:** +8.8%  
-**90d:** +55.2%  
+**24h:** -0.1%  
+**7d:** +1.0%  
+**30d:** +8.9%  
+**90d:** +55.4%  
 **1y:** -39.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.40B
+**Market Cap:** $331.40B
 Rank #2
 
-**Circulating Supply:** 122,107,546 ETH
+**Circulating Supply:** 122,110,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.3%
+-45.1%
 
 **All-Time Low:** $0.43
-+624842.5%
++626687.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -88,7 +88,7 @@ I haven't been following up with eth for a while. Can anyone let me know whats a
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -126,7 +126,7 @@ I’ve really only studied bitcoin and not other crypto such as eth and want to 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -154,47 +154,47 @@ a global government I would support system based on existing technological solut
 
 The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
 
-Decrypt News • 8h ago
+Decrypt News • 15h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative](https://www.benzinga.com/crypto/cryptocurrency/26/10/62143487/bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative)**
+**[BitMine Shares Outperformed Ethereum in 2026, and Tom Lee Highlights One Move](https://finance.yahoo.com/markets/crypto/articles/bitmine-shares-outperformed-ethereum-2026-054522714.html)**
 
-Ethereum and XRP sentiment turns sharply bearish, creating a possible contrarian buy signal as ETF flows diverge.
+BitMine stock beat Ethereum through September, but Artemis data shows its ETH stack sits $3.6 billion underwater.
 
-Benzinga • 3d ago
-
----
-
-**[Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buying-ethereum-085100292.html)**
-
-One digital asset treasury company is very bullish about Ethereum right now.
-
-Yahoo Finance • 1d ago
+finance.yahoo.com • 3h ago
 
 ---
 
-**[Ethereum liquidity drops below 50% of Bitcoin's level](https://www.tradingview.com/news/cryptobriefing:619776cbf094b:0-ethereum-liquidity-drops-below-50-of-bitcoin-s-level/)**
+**[ETH news: Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump](https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump)**
 
-Ethereum's standing in the liquidity rankings has taken a meaningful hit. A CoinGecko analysis of order-book depth across eight major centralized exchanges shows Ethereum's median market depth sitting at $13 to $14 million, which puts it at just 35 to 45% of Bitcoin's liquidity. A year ago, Ethereu…
+One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.
 
-TradingView • 1d ago
-
----
-
-**[Ethereum staking exit queue jumps fivefold as holders face a two-week wait](https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line)**
-
-Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.
-
-coindesk.com • 18h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch](https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide After Fresh Macro Data: Analyst Says This BTC 'Trigger' Could Potentially Usher in $90,000 Level](https://www.tradingview.com/news/benzinga:9f16f301d094b:0-bitcoin-ethereum-xrp-dogecoin-slide-after-fresh-macro-data-analyst-says-this-btc-trigger-could-potentially-usher-in-90-000-level/)**
 
-Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
+Major cryptocurrencies reversed course on Monday following their Sunday gains, as investors weighed the latest U.S. manufacturing data and the likelihood of a rate hike.Crypto Market Corrects After Sunday SpikeBitcoin fell sharply from the mid-$86,000s to the early $85,000s in the afternoon, before…
 
-MarketForces Africa • 2d ago
+TradingView • 7h ago
+
+---
+
+**[Ethereum Exit Queue Eases to 767,000 ETH After MetaMask Validator Exits](https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits)**
+
+Ethereum's exit queue holds 767,349 ETH after precautionary MetaMask staking exits, with a 13-day wait before withdrawal processing.
+
+The Defiant • 6h ago
+
+---
+
+**[Current price of Ethereum for October 5, 2026](https://fortune.com/article/price-of-ethereum-10-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 21h ago
 
 ---
 
@@ -206,27 +206,27 @@ CoinMarketCap • 1d ago
 
 ---
 
-**[Current price of Ethereum for October 5, 2026](https://fortune.com/article/price-of-ethereum-10-05-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 15h ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend multi‑week rally as bulls target higher levels](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-multi-week-rally-as-bulls-target-higher-levels-202610050334)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend gains on Monday, after posting weeks of gains since mid-September. The three cryptocurrencies now eye key upside targets as bullish momentum strengthens: $90,000 for BTC, $3,000 for ETH, and $1.90 for XRP.
 
-FXStreet • 22h ago
+FXStreet • 1d ago
 
 ---
 
-**[Ethereum Exit Queue Eases to 767,000 ETH After MetaMask Validator Exits](https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits)**
+**[Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch](https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/)**
 
-Ethereum's exit queue holds 767,349 ETH after precautionary MetaMask staking exits, with a 13-day wait before withdrawal processing.
+Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
 
-The Defiant • 22h ago
+MarketForces Africa • 2d ago
+
+---
+
+**[Looking For a Crypto ETF With Upside Potential? These 3 ETFs Are Worth a Closer Look.](https://www.fool.com/investing/2026/10/03/looking-for-a-crypto-etf-with-upside-potential-the/)**
+
+With the crypto majors set to grow, ETFs are a great way to get exposure.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -234,23 +234,33 @@ The Defiant • 22h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum to $16,000? 🚀](https://www.youtube.com/watch?v=s8RokLp8F-o)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 15K • 👍 304 • 💬 21 • ⏱️ 1:05 • 9h ago
-
----
-
 **[Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition](https://www.youtube.com/watch?v=A-H5yQ_JN2M)**
 
 Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody read the condition he put on it. The 10x does ...
 
 📺 tastylive
 
-👁️ 94 • 👍 12 • ⏱️ 5:42 • 24m ago
+👁️ 3K • 👍 39 • 💬 7 • ⏱️ 5:42 • 7h ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Ethereum &amp; Bitcoin! [Load Up Before November]](https://www.youtube.com/watch?v=Ymx55X-Sou8)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 1K • 👍 82 • 💬 23 • ⏱️ 19:12 • 4h ago
+
+---
+
+**[Ethereum to $16,000? 🚀](https://www.youtube.com/watch?v=s8RokLp8F-o)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 19K • 👍 359 • 💬 22 • ⏱️ 1:05 • 16h ago
 
 ---
 
@@ -260,7 +270,7 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 2K • 💬 255 • ⏱️ 11:38 • 1d ago
+👁️ 79K • 👍 2K • 💬 257 • ⏱️ 11:38 • 1d ago
 
 ---
 
@@ -270,17 +280,17 @@ Remember this video in a few years when there's no more cryptocurrency left on e
 
 📺 Money Rules - Investing Tips 
 
-👁️ 30K • 👍 2K • 💬 324 • ⏱️ 20:25 • 13h ago
+👁️ 34K • 👍 2K • 💬 343 • ⏱️ 20:25 • 20h ago
 
 ---
 
-**[Ethereum’s Next Move Will Break Crypto](https://www.youtube.com/watch?v=jbgPnjnwa3o)**
+**[Raoul Pal &amp; Mark Yusko Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=NrczIPtrCVM)**
 
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Tom Lee pointed out that Ethereum ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Lark Davis
+📺 Crypto Nutshell
 
-👁️ 42K • 👍 863 • 💬 87 • ⏱️ 11:28 • 1d ago
+👁️ 20K • 👍 347 • 💬 44 • ⏱️ 22:52 • 1d ago
 
 ---
 
@@ -290,7 +300,17 @@ If you thought things were intense before, you havent seen anything yet. Whales 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 965 • 💬 240 • ⏱️ 33:14 • 16h ago
+👁️ 14K • 👍 995 • 💬 221 • ⏱️ 33:14 • 23h ago
+
+---
+
+**[Ethereum’s Next Move Will Break Crypto](https://www.youtube.com/watch?v=jbgPnjnwa3o)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Tom Lee pointed out that Ethereum ...
+
+📺 Lark Davis
+
+👁️ 43K • 👍 877 • 💬 87 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -300,37 +320,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 171 • 💬 25 • ⏱️ 20:02 • 1d ago
+👁️ 15K • 👍 173 • 💬 25 • ⏱️ 20:02 • 2d ago
 
 ---
 
-**[&quot;Ignore Everything And HODL&quot; 700% XRP Call Ethereum Is About To Ingnite The Bull Market For Crypto](https://www.youtube.com/watch?v=4ixwluKXNOc)**
+**[BMNR MASSIVE DILUTION COMING? Is Buying 10% of ETH a BAD IDEA?](https://www.youtube.com/watch?v=DCY6oUKxhCo)**
 
-Well, we made it. Its supposed to officially start in the next few days, and its literally causing people to lose their minds. You have ...
+BMNR MASSIVE DILUTION COMING? Is Tom Lee buying more Ethereum actually bad for BMNR shareholders or is he following ...
 
-📺 The Modern Investor
+📺 Big Time Trades
 
-👁️ 18K • 👍 982 • 💬 212 • ⏱️ 31:57 • 1d ago
-
----
-
-**[Ethereum: Where the Next Pullback Could End](https://www.youtube.com/watch?v=T7EsGi4KHq4)**
-
-Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target and consolidates while the $2615 to $2659 ...
-
-📺 More Crypto Online
-
-👁️ 12K • 👍 237 • 💬 15 • ⏱️ 9:53 • 2d ago
-
----
-
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 20K • 👍 349 • 💬 26 • ⏱️ 19:33 • 1d ago
+👁️ 3K • 👍 103 • 💬 32 • ⏱️ 21:44 • 11h ago
 
 ---
 

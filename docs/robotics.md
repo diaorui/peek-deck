@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-06T02:24:35.049160+00:00'
+updated: '2026-10-06T09:14:26.834840+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 06, 2026 at 02:24 UTC  
+**Last Updated:** October 06, 2026 at 09:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,37 +114,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
 
-WSJ • 19h ago
-
----
-
-**[Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation](https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10)**
-
-The startup, which is building a general-purpose "brain" for robots, has more than quadrupled its valuation in just over a year.
-
-businessinsider.com • 3d ago
-
----
-
-**[Human vs humanoid robot cage fight goes viral](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)**
-
-Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force..
-
-Fox News • 12h ago
-
----
-
-**[The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
-
-The New York Times • 13h ago
-
----
-
-**[Panasonic to make humanoid robots, leveraging its battery business](https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business)**
-
-Company aims to start production by 2029; machines to work in plants, warehouses
-
-Nikkei Asia • 19h ago
+WSJ • 1d ago
 
 ---
 
@@ -152,7 +122,29 @@ Nikkei Asia • 19h ago
 
 Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration.
 
-GeekWire • 13h ago
+GeekWire • 20h ago
+
+---
+
+**[The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Human vs humanoid robot cage fight goes viral](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)**
+
+Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force..
+
+Fox News • 19h ago
+
+---
+
+**[Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian](https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html)**
+
+/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project...
+
+PR Newswire • 22h ago
 
 ---
 
@@ -164,27 +156,35 @@ DefenseScoop • 3d ago
 
 ---
 
-**[Can Safeworld convince people that GenAI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)**
-
-Safeworld is building digital humans to make sure robots don't hurt the real ones.
-
-TechCrunch • 14h ago
-
----
-
 **[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
 
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-Financial Times • 2d ago
+ft.com • 2d ago
 
 ---
 
-**[Micron sees future opportunities in humanoid robots, self-driving cars](https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html)**
+**[The hottest trip for Silicon Valley investors? Robot factories in China](https://www.businessinsider.com/why-silicon-valley-investors-are-touring-chinas-robot-factories-2026-10)**
 
-Micron says physical AI could drive "significant" demand for memory chips by the end of the decade.
+Robotics may be Silicon Valley's latest obsession, but China has spent years building up its industry.
 
-Yahoo Finance • 3d ago
+Business Insider • 23h ago
+
+---
+
+**[Hundreds of soldiers transfer to newly created jobs in robotics and space](https://taskandpurpose.com/news/army-space-robotics-mos/)**
+
+10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field.
+
+Task & Purpose • 13h ago
+
+---
+
+**[Can Safeworld convince people that GenAI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)**
+
+Safeworld is building digital humans to make sure robots don't hurt the real ones.
+
+TechCrunch • 21h ago
 
 ---
 
@@ -192,13 +192,63 @@ Yahoo Finance • 3d ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+
+📺 CNET
+
+👁️ 42K • 👍 422 • 💬 60 • ⏱️ 6:34 • 1d ago
+
+---
+
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
+
+📺 ejunky66
+
+👁️ 3.7M • 👍 58K • 💬 2K • ⏱️ 1:00 • 3d ago
+
+---
+
+**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
+
+A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
+
+📺 ABC7 News Bay Area
+
+👁️ 6K • 👍 22 • 💬 12 • ⏱️ 1:02 • 6d ago
+
+---
+
+**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
+
+Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
+
+📺 Boston Dynamics
+
+👁️ 765K • 👍 9K • 💬 1K • ⏱️ 5:49 • 6d ago
+
+---
+
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
+
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
+
+📺 Canada 2050
+
+👁️ 41K • 👍 1K • 💬 37 • ⏱️ 18:22 • 5d ago
+
+---
+
 **[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
 
 What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
 
 📺 ejunky66
 
-👁️ 66K • 👍 1K • 💬 71 • ⏱️ 1:00 • 1d ago
+👁️ 68K • 👍 1K • 💬 79 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -212,23 +262,13 @@ Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot pro
 
 ---
 
-**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
+**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
 
-Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
+This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
 
-📺 Canada 2050
+📺 Boston Dynamics
 
-👁️ 40K • 👍 1K • 💬 36 • ⏱️ 18:22 • 5d ago
-
----
-
-**[Chinese Robots Perform Saudi Ardah Sword Dance In Riyadh, Stun Prince Faisal &amp; Ambassador Chang Hua](https://www.youtube.com/watch?v=2zsfmuscT8E)**
-
-Chinese humanoid robots have stunned guests in Riyadh after performing Saudi Arabia's iconic Ardah sword dance while ...
-
-📺 MIRROR NOW
-
-👁️ 289K • 👍 924 • 💬 341 • ⏱️ 10:40 • 5d ago
+👁️ 2.3M • 👍 35K • 💬 3K • ⏱️ 5:35 • 4d ago
 
 ---
 
@@ -238,57 +278,17 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 194K • 👍 3K • 💬 133 • ⏱️ 20:27 • 6d ago
+👁️ 194K • 👍 3K • 💬 135 • ⏱️ 20:27 • 6d ago
 
 ---
 
-**[Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1,000/Week!](https://www.youtube.com/watch?v=X4S0BCo_i2g)**
+**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
 
-Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1000/Week! Tesla Bot Gen 3 could be Tesla's biggest step ...
+Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
 
-📺 TESLA CAR WORLD
+📺 Hyundai Motor Group
 
-👁️ 225K • 👍 1K • 💬 250 • ⏱️ 12:51 • 4d ago
-
----
-
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
-
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
-
-📺 ejunky66
-
-👁️ 3.4M • 👍 53K • 💬 2K • ⏱️ 1:00 • 3d ago
-
----
-
-**[China’s robot revolution leaves Hong Kong playing catch-up | DW News](https://www.youtube.com/watch?v=VyBfr_ZFNUU)**
-
-A humanoid robot store in Hong Kong offers a glimpse of the future—and a reminder of the city's technology gap with mainland ...
-
-📺 DW News
-
-👁️ 156K • 👍 653 • 💬 256 • ⏱️ 3:46 • 6d ago
-
----
-
-**[US Military Just Deployed A Robot Kitchen](https://www.youtube.com/watch?v=XW-SPoG7h1o)**
-
-GoodBytz just deployed a fully autonomous kitchen at a US Military Texas base. Their AI-guided robots portion, cook, plate, and ...
-
-📺 The Manav Podcast
-
-👁️ 171K • 👍 3K • 💬 213 • ⏱️ 0:50 • 5d ago
-
----
-
-**[Ultimate 100+ BUMBLEBEE Toys Hunt - Evolution of Transformers Best Transforming Robot Car Comparison](https://www.youtube.com/watch?v=eFSJT2Z7daQ)**
-
-Let's unlock an incredible Bumblebee toy collection featuring over 100 different Transformers figures! From classic transforming ...
-
-📺 Bob ToysReview
-
-👁️ 8K • 👍 17 • ⏱️ 20:14 • 16h ago
+👁️ 1.2M • 👍 105 • 💬 6 • ⏱️ 5:49 • 6d ago
 
 ---
 

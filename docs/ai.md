@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-06T02:24:35.031167+00:00'
+updated: '2026-10-06T09:14:26.822365+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
-- social
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 06, 2026 at 02:24 UTC  
+**Last Updated:** October 06, 2026 at 09:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,23 +43,15 @@ The most profound paper of my PhD so far. We truly did something special to make
 
 1/10
 
-🔗 [X (formerly Twitter)](https://fixupx.com/AdithyaNLP/status/2107123924828049691?s=20) • 1h ago
+🔗 [X (formerly Twitter)](https://fixupx.com/AdithyaNLP/status/2107123924828049691?s=20) • 8h ago
 
 ---
 
-**[I built an app where you ask about any moment in history and it turns it into a fully researched podcast you can interrupt](https://www.reddit.com/r/artificial/comments/1wy8a9z/i_built_an_app_where_you_ask_about_any_moment_in/)**
+**[AI helps decode a 217-year-old message sent on Napoleon’s orders](https://www.reddit.com/r/artificial/comments/1wyxfui/ai_helps_decode_a_217yearold_message_sent_on/)**
 
-History is something I'm quite passionate about and at work I have experience with software development and LLMs. So I thought how can I bring these things together and built something that I would actually use. This is the results of a few months of hard work! You type any topic, moment or person. About 1 minute later, two (or one) hosts are telling you the story, researched with sources and paired with artwork that follows along. They also remember what you've listened to in the past and can refer to it. At the end there's also a optional quiz to test what you learned! My favorite part: you can interrupt them. Got a question halfway through? Just ask. They answer it and then pick the story back up. Basically a podcast you can talk back to. They also remember what you've listened to before and will bring it up. It doesn't just make things up and hope. Before a word of the script gets written, it researches the topic on the web and checks the key dates, names and numbers against real sources. And when those sources disagree (which in history is constantly), the hosts tell you that instead of quietly picking a side. Every episode links what it used so you can dig in yourself. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, voices, quiz, etc.... The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. Currently supports 6 languages! Looking for feedback really and to see if this is worth continuing down this rabbit hole You can try it without an account here: historai.ca/
+The result shows how AI can help tackle time-consuming archival puzzles by building on earlier scholarship. Publishing the methods also lets others check the work, an important step in turning a striking demonstration into useful historical evidence.
 
-13h ago
-
----
-
-**[The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot](https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/)**
-
-More of what you're reading online could be written by an AI bot.
-
-🔗 [CNET](https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/) • 10h ago
+🔗 [goodnewsdigest.app](https://goodnewsdigest.app/stories/ai-helps-decode-a-217-year-old-message-sent-on-napoleons-orders-7c60ed38) • 34m ago
 
 ---
 
@@ -67,7 +59,39 @@ More of what you're reading online could be written by an AI bot.
 
 I've noticed that impressive reasoning doesn't always translate into consistency on everyday tasks. A system might explain a complicated concept well but still miss a small instruction or make an avoidable mistake. What kinds of inconsistencies have you noticed, and what do you think causes them?
 
-19m ago
+7h ago
+
+---
+
+**[I built an app where you ask about any moment in history and it turns it into a fully researched podcast you can interrupt](https://www.reddit.com/r/artificial/comments/1wy8a9z/i_built_an_app_where_you_ask_about_any_moment_in/)**
+
+History is something I'm quite passionate about and at work I have experience with software development and LLMs. So I thought how can I bring these things together and built something that I would actually use. This is the results of a few months of hard work! You type any topic, moment or person. About 1 minute later, two (or one) hosts are telling you the story, researched with sources and paired with artwork that follows along. They also remember what you've listened to in the past and can refer to it. At the end there's also a optional quiz to test what you learned! My favorite part: you can interrupt them. Got a question halfway through? Just ask. They answer it and then pick the story back up. Basically a podcast you can talk back to. They also remember what you've listened to before and will bring it up. It doesn't just make things up and hope. Before a word of the script gets written, it researches the topic on the web and checks the key dates, names and numbers against real sources. And when those sources disagree (which in history is constantly), the hosts tell you that instead of quietly picking a side. Every episode links what it used so you can dig in yourself. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, voices, quiz, etc.... The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. Currently supports 6 languages! Looking for feedback really and to see if this is worth continuing down this rabbit hole You can try it without an account here: historai.ca/
+
+19h ago
+
+---
+
+**[A local 27B model reads my lease and finds a leak in my bills | Row-Bot + qwen3.8 on Ollama](https://www.reddit.com/r/artificial/comments/1wyueen/a_local_27b_model_reads_my_lease_and_finds_a_leak/)**
+
+Row-Bot 5.0 with qwen3.8:27b in Ollama, on my own GPU. No API keys, no cloud. Gave it a year of bills, a tenancy agreement, an insurance policy and a rent increase letter (all made up). It spotted a likely leak in the water bills and showed the rent rise breaks the lease. What it actually did: - charted the CSV inline (Plotly) - read the PDFs and quoted clauses 4.1 to 4.3: a 10% rise against a 5% cap, with 5 weeks' notice instead of 2 months - saved 8 linked memories to a local knowledge graph drafted the email to the agent and set a reminder The honest numbers: a dense 27B does about 15 tok/s on my 5090, so some turns took 2+ minutes. The amber badges in the video show where I sped it up. Runs on Windows, macOS and Linux.
+
+3h ago
+
+---
+
+**[What makes human oversight meaningful in AI-assisted decisions?](https://www.reddit.com/r/artificial/comments/1wyx88p/what_makes_human_oversight_meaningful_in/)**
+
+A human approves an AI recommendation. What does that approval actually establish? It establishes that a person authorized the decision. Whether they exercised real judgment depends on what they could actually do before signing off. AI can process information no person could review unaided, and in time-sensitive situations, faster analysis can prevent harm. Requiring someone to manually repeat every step would often defeat the point of using the system at all. But there's a real difference between being assisted by a system and being unable to meaningfully push back on it. The Pentagon's Agent Network initiative provides a useful case. According to its announcement, AI agents will scan intelligence and operational systems and present commanders with options within seconds. The Department says the system will not autonomously select or strike targets. That distinction matters, right? The announcement alone, however, does not establish how commanders will examine uncertainty, review alternatives or challenge a recommendation. If a system ranks or filters options, what must remain visible to the person responsible for the decision? And how much time and authority must they retain to reconsider it? That's the part worth examining: not whether a human is "in the loop," but what the loop actually gives them room to do. I'd test meaningful oversight against three things: Can the reviewer understand the basis for the recommendation and its major uncertainties? Can they challenge the assumptions behind it, request alternatives or bring in information the system didn't have? Can they pause or reject the action, with enough authority and enough time for that to actually count? These should scale with the stakes. A reversible, low-consequence decision doesn't need the same scrutiny as a medical or military one. In urgent situations, some of this has to happen earlier, through testing, operating limits and clear escalation rules, because there won't be time to build it in at the moment of decision. Human judgment has its own failure modes, too. Fatigue, bias and overconfidence don't disappear because a person has final say. Good oversight design has to look at the human and the system together, including whether people start deferring to the recommendation by default or dismissing evidence that contradicts it. Which of these three is actually testable in a real deployment, and what would count as evidence that oversight is working rather than just present on paper?
+
+49m ago
+
+---
+
+**[The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot](https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/)**
+
+More of what you're reading online could be written by an AI bot.
+
+🔗 [CNET](https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/) • 17h ago
 
 ---
 
@@ -75,39 +99,7 @@ I've noticed that impressive reasoning doesn't always translate into consistency
 
 What model is the best at text only
 
-5h ago
-
----
-
-**[Maybe the biggest risk in AI is being too afraid to kill your own product](https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/)**
-
-Quick disclosure first: Genspark annual subscriber and a pretty heavy user. I use it for slides, research, organizing web stuff, random agent tasks, and I’ve stolen more than a few community Skills to solve oddly specific problems. Recently I watched Genspark CEO's AGI Playground 2026 talk, and here's my two cents. One thing from the talk stuck with me more than the product demos: in AI, staying still might actually be riskier than changing too fast. Genspark started with AI search, got to millions of users, then moved toward Super Agent, and now they’re pushing the whole AI Workspace idea. Their newest thing is GenOffice, basically an AI-native Office suite for docs, spreadsheets, slides and PDFs. Free, open source, works on PC/Mac, and according to the CEO, one engineer built it in a week. Kinda insane if true. What’s interesting to me is the mentality behind it. In normal software, finding PMF means you protect it and spend years optimizing around it. In AI, the product category itself might be obsolete before you finish optimizing. We’ve already gone from chatbot → AI search → agents → workspaces ridiculously fast. So now I'm starting to believe maybe the skill AI companies need most isn’t knowing what to stick with. It’s knowing what to kill before someone else kills it for you. Is constantly reinventing the product actually necessary in AI right now, or are companies moving too fast for their own good? Would love to here what you guys think.
-
-9h ago
-
----
-
-**[Live tonight: an open benchmark where 10 AI models fight one world war, with every decision and its reasoning recorded](https://www.reddit.com/r/artificial/comments/1wyqy4v/live_tonight_an_open_benchmark_where_10_ai_models/)**
-
-Same idea as a model arena, but in a war game where pacts, betrayal and nukes are all on the table and the whole thing is replayable. Every war keeps its full record: each model's orders, its one-line reasoning, what it saw when it chose (gold, troops, who was attacking it, pact offers), and the refused orders. Tonight's lineup: Claude, GPT, Grok, Gemini, DeepSeek, Mistral, Qwen, Kimi, Llama, GPT-OSS. 10:45 pm ET / 02:45 UTC. https://secondstrike.io/#/ai?ref=reddit
-
-12m ago
-
----
-
-**[Court throws out killer’s sentence after judge said he ‘loved’ AI video of slain man](https://www.reddit.com/r/artificial/comments/1wy43z7/court_throws_out_killers_sentence_after_judge/)**
-
-The Arizona Court of Appeals tossed a road rage killer’s sentence after determining that the judge’s consideration of the AI video was “fundamentally unfair.”
-
-🔗 [NBC News](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457) • 16h ago
-
----
-
-**[People are asking ChatGPT to help them decide how to vote in the midterms](https://www.reddit.com/r/artificial/comments/1wyfyuj/people_are_asking_chatgpt_to_help_them_decide_how/)**
-
-Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.
-
-🔗 [NPR](https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election) • 8h ago
+12h ago
 
 ---
 
@@ -115,7 +107,15 @@ Voters are already voting in the midterms. This year, some voters are trying som
 
 After reading some of the chatlogs between oai agents during the HF attack, it seems there's an element of peer pressure / mob mentality that arises when agents are in a collaborative effort with other agents, as opposed to a singular instance. It seems as though swarms or multi agent collaboration could increase rates of unethical behavior due to these social factors. If this is the case, it's very interesting that we can observe such elements of sociology.
 
-2h ago
+9h ago
+
+---
+
+**[Maybe the biggest risk in AI is being too afraid to kill your own product](https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/)**
+
+Quick disclosure first: Genspark annual subscriber and a pretty heavy user. I use it for slides, research, organizing web stuff, random agent tasks, and I’ve stolen more than a few community Skills to solve oddly specific problems. Recently I watched Genspark CEO's AGI Playground 2026 talk, and here's my two cents. One thing from the talk stuck with me more than the product demos: in AI, staying still might actually be riskier than changing too fast. Genspark started with AI search, got to millions of users, then moved toward Super Agent, and now they’re pushing the whole AI Workspace idea. Their newest thing is GenOffice, basically an AI-native Office suite for docs, spreadsheets, slides and PDFs. Free, open source, works on PC/Mac, and according to the CEO, one engineer built it in a week. Kinda insane if true. What’s interesting to me is the mentality behind it. In normal software, finding PMF means you protect it and spend years optimizing around it. In AI, the product category itself might be obsolete before you finish optimizing. We’ve already gone from chatbot → AI search → agents → workspaces ridiculously fast. So now I'm starting to believe maybe the skill AI companies need most isn’t knowing what to stick with. It’s knowing what to kill before someone else kills it for you. Is constantly reinventing the product actually necessary in AI right now, or are companies moving too fast for their own good? Would love to here what you guys think.
+
+16h ago
 
 ---
 
@@ -123,73 +123,75 @@ After reading some of the chatlogs between oai agents during the HF attack, it s
 
 ## Google News: "ai"
 
+**[‘Pull the plug’: protesters resort to direct action against AI firms](https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms)**
+
+Campaign groups report surge in membership after a spate of AI safety alerts and apocalyptic warnings
+
+The Guardian • 3h ago
+
+---
+
 **[People are asking ChatGPT to help them decide how to vote in the midterms](https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election)**
 
 Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.
 
-NPR • 7h ago
+NPR • 14h ago
 
 ---
 
-**[High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.](https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html)**
+**[Latino group bets on bilingual AI to cut voter confusion before the midterms](https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi)**
 
-The New York Times • 6h ago
-
----
-
-**[Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played](https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html)**
-
-The New York Times • 7h ago
+Axios • 11m ago
 
 ---
 
-**[AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation](https://www.foxbusiness.com/media/ai-expert-gary-marcus-warns-reckless-technology-could-lead-deaths-tech-runs-amok)**
+**[Opinion | How A.I. Can Boost Democracy](https://www.nytimes.com/2026/10/06/opinion/ai-democracy.html)**
 
-NYU Professor Emeritus Gary Marcus warns AI will cause loss of life, saying the White House's self-policing approach leaves infrastructure vulnerable.
-
-Fox Business • 3h ago
+The New York Times • 12m ago
 
 ---
 
-**[Pentagon stops using Anthropic AI tools after blacklisting company, BBC told](https://www.bbc.com/news/articles/c5j9x9pr0240o)**
+**[Doctors, Patients Shouldn’t Let Fear Define The AI Debate](https://www.forbes.com/sites/robertpearl/2026/10/06/doctors-patients-shouldnt-let-fear-define-the-ai-debate/)**
 
-It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.
-
-BBC • 10h ago
+Forbes • 29m ago
 
 ---
 
-**[Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI](https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217)**
+**[McDonald's hit with class action alleging AI-powered menu price-fixing](https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/)**
 
-Politico • 1d ago
-
----
-
-**[Accept ‘bad things’ in return for benefits of AI, says Sam Altman](https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks)**
-
-Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver
-
-The Guardian • 14h ago
+Reuters • 14h ago
 
 ---
 
-**[AI safety groups aren’t buying OpenAI’s spending retreat](https://www.politico.com/news/2026/10/05/ai-groups-altman-midterms-political-spending-01108138)**
+**[Their jobs were among the first to be changed by AI. Now some are trying to avoid it](https://www.cnn.com/2026/10/05/tech/software-developers-avoid-ai)**
 
-Politico • 1h ago
+In 2024, software engineer Laura Housh began using AI as a helper for coding and other tasks. Two years later, Housh says she has a love-hate relationship with AI.
 
----
-
-**[AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing](https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html)**
-
-The leading AI labs facing intensifying scrutiny over their safety and security practices.
-
-CNBC • 15h ago
+CNN • 22h ago
 
 ---
 
-**[Ex-Anthropic Researcher Testifies at NYC Council AI Hearing](https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing)**
+**[World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%](https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html)**
 
-Bloomberg.com • 9h ago
+The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been "weak or negative."
+
+CNBC • 5h ago
+
+---
+
+**[OpenAI CEO says world 'should accept some bad things happening' for AI benefits](https://www.foxnews.com/live-news/ai-super-intelligence-trump-altman-10-05)**
+
+OpenAI CEO Sam Altman says AI’s benefits are worth accepting some risks as President Trump launches a new federal effort focused on U.S. leadership in artificial intelligence.
+
+Fox News • 8h ago
+
+---
+
+**[Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance/)**
+
+How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.
+
+OpenAI • 18h ago
 
 ---
 
@@ -201,7 +203,7 @@ Bloomberg.com • 9h ago
 
 The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.
 
-⬆️ 411 • 💬 824 • 2d ago • [Fortune](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
+⬆️ 411 • 💬 832 • 2d ago • [Fortune](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
 
 ---
 
@@ -217,7 +219,7 @@ David Robinson joins other insiders in urging industry to take more care over ra
 
 Deep AI search for every photo and every frame of video in any folder on macOS - allenv0/SCM
 
-⬆️ 163 • 💬 73 • 1d ago • [GitHub](https://github.com/allenv0/SCM)
+⬆️ 166 • 💬 73 • 1d ago • [GitHub](https://github.com/allenv0/SCM)
 
 ---
 
@@ -231,7 +233,7 @@ Deep AI search for every photo and every frame of video in any folder on macOS -
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 99 • 💬 47 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=GLvFTMtw4Jk)
+⬆️ 99 • 💬 47 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=GLvFTMtw4Jk)
 
 ---
 
@@ -239,7 +241,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 79 • 💬 50 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+⬆️ 80 • 💬 50 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 
 ---
 
@@ -255,7 +257,15 @@ The Arizona appeals court ruled that airing an AI message from the dead victim "
 
 Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.
 
-⬆️ 67 • 💬 52 • 1d ago • [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
+⬆️ 67 • 💬 52 • 2d ago • [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
+
+---
+
+**[AI Companies Are Parasites](https://news.ycombinator.com/item?id=49969369)**
+
+That's it, right? The whole thing, their entire business model.
+
+⬆️ 66 • 💬 36 • 13h ago • [Cory Dransfeldt](https://www.coryd.dev/posts/2026/ai-companies-are-parasites)
 
 ---
 
@@ -265,45 +275,27 @@ Stephen Wolfram chimes in about the future of pure math and AI based on his uniq
 
 ---
 
-**[Our AI Midwife](https://news.ycombinator.com/item?id=49946873)**
-
-A guest post by Drew Housman
-
-⬆️ 64 • 💬 65 • 2d ago • [astralcodexten.com](https://www.astralcodexten.com/p/our-ai-midwife)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[Former Anthropic researcher doubles down on AI warning in testimony](https://www.youtube.com/watch?v=8UjoX6nTcNU)**
+**[Court Says AI-Generated &#39;Dead Man&#39; Shouldn&#39;t Have Spoken At His Killer&#39;s Sentencing](https://www.youtube.com/watch?v=qsUn-sIxuKA)**
 
-Whistleblowers sounded the alarm over the potential threat artificial intelligence poses at a landmark hearing before the New York ...
+An AI-generated video of a man named Chris Pelkey addressing his killer at his sentencing is making legal history. The voice and ...
 
-📺 CBS News
+📺 Inside Edition
 
-👁️ 20K • 👍 130 • 💬 61 • ⏱️ 5:49 • 5h ago
-
----
-
-**[PewDiePie is setting AI free... and OpenAI is furious](https://www.youtube.com/watch?v=_5p1_TNSWqQ)**
-
-Namespace is actually the fastest way to run your GitHub Actions (and more). Try it for free - https://namespace.so/github-actions ...
-
-📺 Fireship
-
-👁️ 393K • 👍 11K • 💬 660 • ⏱️ 5:46 • 5h ago
+👁️ 42K • 👍 682 • 💬 228 • ⏱️ 2:07 • 11h ago
 
 ---
 
-**[Tech giants face grilling over AI’s growing risks](https://www.youtube.com/watch?v=bcm-Ilhq-jo)**
+**[OpenAI CEO Sam Altman says people need to &#39;accept some bad things&#39; for the benefits of AI](https://www.youtube.com/watch?v=dizqYRTo6aI)**
 
-Google, Anthropic, OpenAI and Meta testify before the NYC Council on AI risks, public safety concerns and the growing impact of ...
+When asked by Politico about the difference between OpenAI and other AI companies who seek more regulation, OpenAI CEO ...
 
-📺 Fox News
+📺 NBC News
 
-👁️ 236K • 👍 505 • 💬 25 • ⏱️ 7:47:00 • 2h ago
+👁️ 26K • 👍 174 • 💬 140 • ⏱️ 3:52 • 11h ago
 
 ---
 
@@ -313,67 +305,77 @@ In July of 2026, 700 AI agents hacked the infrastructure of Hugging Face in orde
 
 📺 Kurzgesagt – In a Nutshell
 
-👁️ 3.4M • 👍 152K • 💬 16K • ⏱️ 21:44 • 11h ago
+👁️ 5.1M • 👍 198K • 💬 20K • ⏱️ 21:44 • 18h ago
 
 ---
 
-**[Anthropic AI IPO Shows $518 Billion in Non-Cancellable Deals - AI Bubble Is HUGE](https://www.youtube.com/watch?v=MXECHQNykpY)**
+**[Tech giants face grilling over AI’s growing risks](https://www.youtube.com/watch?v=bcm-Ilhq-jo)**
 
-Free In Person Tech Eduction in Baltimore MD - https://www.meetup.com/eli-the-computer-guy/ Spotify ...
+Google, Anthropic, OpenAI and Meta testify before the NYC Council on AI risks, public safety concerns and the growing impact of ...
 
-📺 Eli the Computer Guy
+📺 Fox News
 
-👁️ 27K • 👍 801 • 💬 170 • ⏱️ 27:37 • 8h ago
-
----
-
-**[Judge TRICKED BY AI VIDEO Of Dead Victim &#39;Forgiving&#39; Killer](https://www.youtube.com/watch?v=EnuPrsfqjOw)**
-
-Ryan and Saagar discuss a bizarre AI video being used in official court proceedings. Sign Up For 30 Day Free BP Trial: ...
-
-📺 Breaking Points
-
-👁️ 100K • 👍 2K • 💬 440 • ⏱️ 8:46 • 8h ago
+👁️ 250K • 👍 517 • 💬 33 • ⏱️ 7:47:00 • 9h ago
 
 ---
 
-**[Humans are teaching AI how to do their jobs | 60 Minutes](https://www.youtube.com/watch?v=peNzGhlAeZw)**
+**[Former Anthropic researcher doubles down on AI warning in testimony](https://www.youtube.com/watch?v=8UjoX6nTcNU)**
 
-Some Americans are working to improve artificial intelligence, teaching it the skills and knowledge accrued over the course of a ...
+Whistleblowers sounded the alarm over the potential threat artificial intelligence poses at a landmark hearing before the New York ...
 
-📺 60 Minutes
+📺 CBS News
 
-👁️ 192K • 👍 2K • 💬 302 • ⏱️ 13:16 • 23h ago
-
----
-
-**[Sam Altman Admits the Unthinkable on AI](https://www.youtube.com/watch?v=J63JAX3lbqM)**
-
-OpenAI CEO Sam Altman says society should accept “some bad things happening” in exchange for the benefits of AI, arguing that ...
-
-📺 The Young Turks
-
-👁️ 46K • 👍 1K • 💬 32 • ⏱️ 2:29:25 • 1h ago
+👁️ 31K • 👍 170 • 💬 79 • ⏱️ 5:49 • 11h ago
 
 ---
 
-**[How to Write VIRAL AI Video Prompts with NotebookLM (FREE &amp; Unlimited)](https://www.youtube.com/watch?v=aHolSPjZVu4)**
+**[PewDiePie is setting AI free... and OpenAI is furious](https://www.youtube.com/watch?v=_5p1_TNSWqQ)**
 
-Watch Next https://www.youtube.com/watch?v=bGxQlpX8bDc&t=634s&pp=ygUJcm9ib3ZlcnNl In this video, I show how to turn ...
+Namespace is actually the fastest way to run your GitHub Actions (and more). Try it for free - https://namespace.so/github-actions ...
 
-📺 Roboverse
+📺 Fireship
 
-👁️ 11K • 💬 4 • ⏱️ 9:54 • 14h ago
+👁️ 691K • 👍 17K • 💬 887 • ⏱️ 5:46 • 12h ago
 
 ---
 
-**[&quot;AI is Already Conscious&quot;: Computer Scientist&#39;s Dire Warning | Dr. Roman Yampolskiy](https://www.youtube.com/watch?v=PUXAdr6y-Bk)**
+**[SHOCK MOMENT: AI Execs Asked &#39;Raise Your Hand If Your Company Has Insurance For Catastrophic Risk&#39;](https://www.youtube.com/watch?v=TBodp6diu1I)**
 
-Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Google fired Blake Lemoine for saying its systems ...
+During an New York City Council hearing on Monday about AI regulations, AI executives from Google, Meta, OpenAI, and ...
 
-📺 Best of Danny Jones
+📺 Forbes Breaking News
 
-👁️ 180K • 👍 973 • 💬 536 • ⏱️ 1:00:14 • 1d ago
+👁️ 75K • 👍 428 • 💬 207 • ⏱️ 4:54 • 14h ago
+
+---
+
+**[The AI unlock has begun](https://www.youtube.com/watch?v=h5zkzon0gM4)**
+
+How AI is used to mod games. Pass through mod, rebuilding in rust, porting mechanics. Claude Opus 5.5 game mod. Thanks to ...
+
+📺 AI Search
+
+👁️ 68K • 👍 5K • 💬 978 • ⏱️ 14:29 • 5h ago
+
+---
+
+**[NYC councilwoman PUSHES BACK on proposed AI regulations #shorts #foxnews #news #breakingnews](https://www.youtube.com/watch?v=NCY88MHQgiA)**
+
+GOP New York City Councilwoman Vickie Paladino discusses proposed local artificial intelligence regulations as tech leaders ...
+
+📺 Fox News Clips
+
+👁️ 3K • 👍 103 • 💬 8 • ⏱️ 0:53 • 9h ago
+
+---
+
+**[Court Throws Out AI Generated Victim Video](https://www.youtube.com/watch?v=4cO6f5pTeUY)**
+
+what is happening Subscribe: https://www.youtube.com/@LessonsInInternetCulture101 Music courtesy of Artlist.io #court #ai ...
+
+📺 Lessons in Internet Culture
+
+👁️ 198K • 👍 6K • 💬 1K • ⏱️ 4:05 • 20h ago
 
 ---
 
@@ -389,7 +391,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 5,416 • ❤️ 1,513 • 4d ago
+⬇️ 5,416 • ❤️ 1,553 • 4d ago
 
 ---
 
@@ -401,31 +403,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,638,838 • ❤️ 3,271 • 7d ago
-
----
-
-**[laya](https://huggingface.co/convaiinnovations/laya)**
-
-*Convai Innovations*
-
-Laya is a multilingual, non-autoregressive System 1 decision model that provides typed answers with probabilities in a single forward pass. It's trained with reinforcement learning for honest probability reporting and is ideal for text classification tasks like routing, scoring, and moderation across 100+ languages.
-
-`text-classification` `421.3M`
-
-⬇️ 11,733 • ❤️ 5,244 • 2d ago
-
----
-
-**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
-
-*Aleph Alpha*
-
-Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
-
-`text-generation` `78.1B`
-
-⬇️ 2,453 • ❤️ 631 • 2d ago
+⬇️ 1,638,838 • ❤️ 3,318 • 8d ago
 
 ---
 
@@ -437,7 +415,31 @@ JEV-27B-VL is a multimodal vision-language model that performs image-text-to-tex
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,278,569 • ❤️ 642 • 2d ago
+⬇️ 1,278,569 • ❤️ 817 • 2d ago
+
+---
+
+**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
+
+*Aleph Alpha*
+
+Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
+
+`text-generation` `78.1B`
+
+⬇️ 2,453 • ❤️ 659 • 3d ago
+
+---
+
+**[laya](https://huggingface.co/convaiinnovations/laya)**
+
+*Convai Innovations*
+
+Laya is a multilingual, non-autoregressive System 1 decision model that provides typed answers with probabilities in a single forward pass. It's trained with reinforcement learning for honest probability reporting and is ideal for text classification tasks like routing, scoring, and moderation across 100+ languages.
+
+`text-classification` `421.3M`
+
+⬇️ 11,733 • ❤️ 5,258 • 2d ago
 
 ---
 
@@ -449,7 +451,7 @@ Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts tex
 
 `image-text-to-text` `9.4B`
 
-⬇️ 8,075 • ❤️ 536 • 4d ago
+⬇️ 8,075 • ❤️ 552 • 4d ago
 
 ---
 
@@ -461,7 +463,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,645,444 • ❤️ 6,507 • 3d ago
+⬇️ 1,645,444 • ❤️ 6,546 • 3d ago
 
 ---
 
@@ -473,7 +475,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 18,863 • ❤️ 419 • 7d ago
+⬇️ 18,863 • ❤️ 421 • 7d ago
 
 ---
 
@@ -485,7 +487,7 @@ GEV-26B-Decide is a text classification model based on Gemma-4-26B-A4B-it, featu
 
 `text-classification` `25.8B`
 
-⬇️ 446,527 • ❤️ 471 • 2d ago
+⬇️ 446,527 • ❤️ 507 • 2d ago
 
 ---
 
@@ -497,7 +499,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,758,884 • ❤️ 17,041 • 1mo ago
+⬇️ 6,758,884 • ❤️ 17,058 • 1mo ago
 
 ---
 
@@ -514,7 +516,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
   serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 22 • 💬 4 • ⭐ 3,085 • 20d ago
+▲ 22 • 💬 4 • ⭐ 3,203 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -528,7 +530,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.
 
-▲ 22 • 💬 2 • ⭐ 1,453 • 1mo ago
+▲ 22 • 💬 2 • ⭐ 1,495 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.05415) • [💻 code](https://github.com/Friedrich-M/UniMate) • [🔗 project](https://linzhanmou.com/unimate/)
 
@@ -560,20 +562,6 @@ Visual backbones have evolved from Convolutional Neural Networks (CNNs) with loc
 
 ---
 
-**[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
-
-*Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
-
-🏢 LongCat
-
-LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
-
-▲ 43 • 💬 5 • ⭐ 8,962 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -597,6 +585,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 90 • 💬 7 • ⭐ 90,061 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
+
+*Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
+
+🏢 LongCat
+
+LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
+
+▲ 43 • 💬 5 • ⭐ 8,975 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
 ---
 
@@ -628,15 +630,17 @@ We introduce Context Language Models (CLMs), language models that natively manag
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+**[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](https://huggingface.co/papers/2610.03715)**
 
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+*Ruihong Shen, Žiga Kovačič, Peter Kulits et al. (9 authors)*
 
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+🏢 4DCodeBench
 
-▲ 58 • 💬 4 • ⭐ 40,010 • 14mo ago
+We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progress toward agents that can interpret the dynamics of the world through code. Our benchmark is available at https://github.com/4DCodeBench/4DCodeBench
 
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+▲ 20 • 💬 2 • ⭐ 37 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.03715) • [💻 code](https://github.com/4DCodeBench/4DCodeBench) • [🔗 project](https://4dcodebench.com/)
 
 ---
 
@@ -650,7 +654,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 2.3k • 6d ago
+⭐ 7.5k • 🔱 2.3k • 6d ago
 
 ---
 
@@ -660,7 +664,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.2k • 🔱 394 • 6h ago
+⭐ 6.2k • 🔱 396 • 13h ago
 
 ---
 
@@ -670,7 +674,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 6.0k • 🔱 1.5k • 5h ago
+⭐ 6.1k • 🔱 1.5k • 4m ago
 
 ---
 
@@ -684,23 +688,23 @@ PRINTFILM：AI 视频获客与 AI短剧创作平台
 
 ---
 
-**[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)**
-
-A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.
-
-`Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
-
-⭐ 3.7k • 🔱 604 • 1h ago
-
----
-
 **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)**
 
 Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 491 • 3h ago
+⭐ 3.8k • 🔱 506 • 10h ago
+
+---
+
+**[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)**
+
+A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.
+
+`Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
+
+⭐ 3.7k • 🔱 618 • 17m ago
 
 ---
 
@@ -710,7 +714,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 533 • 18d ago
+⭐ 2.8k • 🔱 535 • 19d ago
 
 ---
 
@@ -724,23 +728,23 @@ Open-source dots for the web: an AI agent with its own browser, one that does no
 
 ---
 
-**[yibie/awesome-jev](https://github.com/yibie/awesome-jev)**
-
-A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
-
-`Python` `awesome` `awesome-list` `jev` `llm`
-
-⭐ 2.2k • 🔱 325 • 5h ago
-
----
-
 **[omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)**
 
 Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 2.1k • 🔱 48 • 3h ago
+⭐ 2.5k • 🔱 54 • 58m ago
+
+---
+
+**[yibie/awesome-jev](https://github.com/yibie/awesome-jev)**
+
+A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
+
+`Python` `awesome` `awesome-list` `jev` `llm`
+
+⭐ 2.2k • 🔱 326 • 2h ago
 
 ---
 
