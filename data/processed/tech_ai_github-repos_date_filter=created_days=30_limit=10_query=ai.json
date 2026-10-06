@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7435,
+      "stars": 7440,
       "stars_display": "7.4k",
-      "forks": 2267,
+      "forks": 2270,
       "forks_display": "2.3k",
       "language": "TypeScript",
       "topics": [],
@@ -24,10 +24,10 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 6180,
+      "stars": 6197,
       "stars_display": "6.2k",
-      "forks": 391,
-      "forks_display": "391",
+      "forks": 394,
+      "forks_display": "394",
       "language": "Swift",
       "topics": [],
       "updated_at": "2026-10-05T19:43:58Z"
@@ -40,9 +40,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 5989,
+      "stars": 6008,
       "stars_display": "6.0k",
-      "forks": 1516,
+      "forks": 1517,
       "forks_display": "1.5k",
       "language": "TypeScript",
       "topics": [
@@ -62,13 +62,35 @@
       "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
       "url": "https://github.com/yi1108/printfilm",
       "preview_image": "https://opengraph.githubassets.com/a2525cec233cf17d43e7124f734c117c35aeeb18b7b71943dbeb120c59355980/yi1108/printfilm",
-      "stars": 4102,
+      "stars": 4103,
       "stars_display": "4.1k",
       "forks": 449,
       "forks_display": "449",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-09-24T11:10:32Z"
+    },
+    {
+      "full_name": "Louis-CFM/coucou",
+      "name": "coucou",
+      "owner": "Louis-CFM",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/72659375?v=4",
+      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
+      "stars": 3699,
+      "stars_display": "3.7k",
+      "forks": 604,
+      "forks_display": "604",
+      "language": "Swift",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "antigravity",
+        "claude",
+        "claude-code"
+      ],
+      "updated_at": "2026-10-06T00:52:16Z"
     },
     {
       "full_name": "CopilotKit/OpenDots",
@@ -78,13 +100,13 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 3651,
+      "stars": 3693,
       "stars_display": "3.7k",
-      "forks": 485,
-      "forks_display": "485",
+      "forks": 491,
+      "forks_display": "491",
       "language": "TypeScript",
       "topics": [],
-      "updated_at": "2026-10-05T21:49:04Z"
+      "updated_at": "2026-10-05T22:37:47Z"
     },
     {
       "full_name": "jarrodwatts/jev-trader",
@@ -94,10 +116,10 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2825,
+      "stars": 2828,
       "stars_display": "2.8k",
-      "forks": 532,
-      "forks_display": "532",
+      "forks": 533,
+      "forks_display": "533",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-17T02:48:22Z"
@@ -110,7 +132,7 @@
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "url": "https://github.com/feder-cr/dots",
       "preview_image": "https://opengraph.githubassets.com/746b308199cdd66eeea2e84890b1c3b6ee55b5e0c55a262bba224baad364e37f/feder-cr/dots",
-      "stars": 2617,
+      "stars": 2619,
       "stars_display": "2.6k",
       "forks": 438,
       "forks_display": "438",
@@ -132,7 +154,7 @@
       "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
       "url": "https://github.com/yibie/awesome-jev",
       "preview_image": "https://opengraph.githubassets.com/a43c1377e0572afde6496312274b4b4c589a114d0664c492979061837aa54686/yibie/awesome-jev",
-      "stars": 2156,
+      "stars": 2157,
       "stars_display": "2.2k",
       "forks": 325,
       "forks_display": "325",
@@ -146,28 +168,6 @@
       "updated_at": "2026-10-05T21:01:47Z"
     },
     {
-      "full_name": "kaankiziltug/logo-design-skill",
-      "name": "logo-design-skill",
-      "owner": "kaankiziltug",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/119437067?v=4",
-      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "url": "https://github.com/kaankiziltug/logo-design-skill",
-      "preview_image": "https://repository-images.githubusercontent.com/1388867993/cb41b962-88da-4adb-be7e-17ee8a1073aa",
-      "stars": 2004,
-      "stars_display": "2.0k",
-      "forks": 133,
-      "forks_display": "133",
-      "language": "HTML",
-      "topics": [
-        "agent-skills",
-        "branding",
-        "claude",
-        "claude-skills",
-        "codex"
-      ],
-      "updated_at": "2026-09-30T18:16:50Z"
-    },
-    {
       "full_name": "omlahore/RemoveMacAI",
       "name": "RemoveMacAI",
       "owner": "omlahore",
@@ -175,10 +175,10 @@
       "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 1917,
-      "stars_display": "1.9k",
-      "forks": 38,
-      "forks_display": "38",
+      "stars": 2119,
+      "stars_display": "2.1k",
+      "forks": 48,
+      "forks_display": "48",
       "language": "Swift",
       "topics": [
         "apple-intelligence",
@@ -187,13 +187,13 @@
         "macos",
         "macos-27"
       ],
-      "updated_at": "2026-10-05T21:51:38Z"
+      "updated_at": "2026-10-05T22:56:01Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2026-09-05",
+  "search_query": "ai created:>2026-09-06",
   "days": 30,
   "limit": 10,
-  "total_count": 484931,
-  "fetched_at": "2026-10-05T22:07:26.535118+00:00"
+  "total_count": 471764,
+  "fetched_at": "2026-10-06T02:24:12.379761+00:00"
 }

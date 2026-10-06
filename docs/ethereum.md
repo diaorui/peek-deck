@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-05T22:08:02.993207+00:00'
+updated: '2026-10-06T02:24:35.045945+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 05, 2026 at 22:08 UTC  
+**Last Updated:** October 06, 2026 at 02:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,713.64
+### $2,713.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +1.5%  
-**30d:** +8.1%  
-**90d:** +55.9%  
-**1y:** -41.8%  
+**24h:** -0.2%  
+**7d:** +0.8%  
+**30d:** +8.8%  
+**90d:** +55.2%  
+**1y:** -39.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $332.17B
+**Market Cap:** $330.40B
 Rank #2
 
 **Circulating Supply:** 122,107,546 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.0%
+-45.3%
 
 **All-Time Low:** $0.43
-+628168.3%
++624842.5%
 
 ---
 
@@ -154,7 +154,7 @@ a global government I would support system based on existing technological solut
 
 The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
 
-Decrypt News • 3h ago
+Decrypt News • 8h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Ethereum's standing in the liquidity rankings has taken a meaningful hit. A CoinGecko analysis of order-book depth across eight major centralized exchanges shows Ethereum's median market depth sitting at $13 to $14 million, which puts it at just 35 to 45% of Bitcoin's liquidity. A year ago, Ethereu…
 
-TradingView • 19h ago
+TradingView • 1d ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 19h ago
 
 Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.
 
-coindesk.com • 14h ago
+coindesk.com • 18h ago
 
 ---
 
@@ -194,15 +194,7 @@ coindesk.com • 14h ago
 
 Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins.
 
-dmarketforces.com • 2d ago
-
----
-
-**[Current price of Ethereum for October 5, 2026](https://fortune.com/article/price-of-ethereum-10-05-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
+MarketForces Africa • 2d ago
 
 ---
 
@@ -210,7 +202,15 @@ Fortune • 10h ago
 
 Bitcoin and Ethereum have strong fundamentals and low leverage, so why are they stalling below $90,000 and $3,000? Here's what a breakout would take.
 
-CoinMarketCap • 22h ago
+CoinMarketCap • 1d ago
+
+---
+
+**[Current price of Ethereum for October 5, 2026](https://fortune.com/article/price-of-ethereum-10-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 15h ago
 
 ---
 
@@ -218,7 +218,7 @@ CoinMarketCap • 22h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend gains on Monday, after posting weeks of gains since mid-September. The three cryptocurrencies now eye key upside targets as bullish momentum strengthens: $90,000 for BTC, $3,000 for ETH, and $1.90 for XRP.
 
-FXStreet • 18h ago
+FXStreet • 22h ago
 
 ---
 
@@ -226,7 +226,7 @@ FXStreet • 18h ago
 
 Ethereum's exit queue holds 767,349 ETH after precautionary MetaMask staking exits, with a 13-day wait before withdrawal processing.
 
-The Defiant • 2h ago
+The Defiant • 22h ago
 
 ---
 
@@ -240,17 +240,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 228 • 💬 11 • ⏱️ 1:05 • 4h ago
+👁️ 15K • 👍 304 • 💬 21 • ⏱️ 1:05 • 9h ago
 
 ---
 
-**[There Won&#39;t Be Any XRP, Bitcoin Or Ethereum Left To Buy Very Very Soon And No One Even Cares](https://www.youtube.com/watch?v=Hd3TiAh0IJM)**
+**[Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition](https://www.youtube.com/watch?v=A-H5yQ_JN2M)**
 
-Remember this video in a few years when there's no more cryptocurrency left on exchanges and Bitcoins price is well over a ...
+Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody read the condition he put on it. The 10x does ...
 
-📺 Money Rules - Investing Tips 
+📺 tastylive
 
-👁️ 24K • 👍 2K • 💬 290 • ⏱️ 20:25 • 9h ago
+👁️ 94 • 👍 12 • ⏱️ 5:42 • 24m ago
 
 ---
 
@@ -260,17 +260,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 70K • 👍 2K • 💬 189 • ⏱️ 11:38 • 22h ago
+👁️ 75K • 👍 2K • 💬 255 • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[Whales Are LOADING UP On XRP As The Bull Run Begins Ethereum Is Going To Be The Bull Market Spark](https://www.youtube.com/watch?v=YOMWBJAjIqs)**
+**[There Won&#39;t Be Any XRP, Bitcoin Or Ethereum Left To Buy Very Very Soon And No One Even Cares](https://www.youtube.com/watch?v=Hd3TiAh0IJM)**
 
-If you thought things were intense before, you havent seen anything yet. Whales are doing something they wouldnt normally do ...
+Remember this video in a few years when there's no more cryptocurrency left on exchanges and Bitcoins price is well over a ...
 
-📺 The Modern Investor
+📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 937 • 💬 221 • ⏱️ 33:14 • 11h ago
+👁️ 30K • 👍 2K • 💬 324 • ⏱️ 20:25 • 13h ago
 
 ---
 
@@ -280,7 +280,17 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 41K • 👍 859 • 💬 87 • ⏱️ 11:28 • 1d ago
+👁️ 42K • 👍 863 • 💬 87 • ⏱️ 11:28 • 1d ago
+
+---
+
+**[Whales Are LOADING UP On XRP As The Bull Run Begins Ethereum Is Going To Be The Bull Market Spark](https://www.youtube.com/watch?v=YOMWBJAjIqs)**
+
+If you thought things were intense before, you havent seen anything yet. Whales are doing something they wouldnt normally do ...
+
+📺 The Modern Investor
+
+👁️ 14K • 👍 965 • 💬 240 • ⏱️ 33:14 • 16h ago
 
 ---
 
@@ -290,7 +300,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 169 • 💬 25 • ⏱️ 20:02 • 1d ago
+👁️ 15K • 👍 171 • 💬 25 • ⏱️ 20:02 • 1d ago
 
 ---
 
@@ -300,27 +310,7 @@ Well, we made it. Its supposed to officially start in the next few days, and its
 
 📺 The Modern Investor
 
-👁️ 18K • 👍 981 • 💬 213 • ⏱️ 31:57 • 1d ago
-
----
-
-**[ETH Long-Term Price Prediction: How High Can Ethereum Go?](https://www.youtube.com/watch?v=geBTogkrM5s)**
-
-Ethereum Long-Term Price Prediction: Is ETH Ready for a Massive Move? Use code *"4LIGHT"* for up to *20% OFF* DM for ...
-
-📺 Crypto 4Light
-
-👁️ 236 • 👍 8 • 💬 1 • ⏱️ 11:52 • 8h ago
-
----
-
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 341 • 💬 25 • ⏱️ 19:33 • 1d ago
+👁️ 18K • 👍 982 • 💬 212 • ⏱️ 31:57 • 1d ago
 
 ---
 
@@ -330,7 +320,17 @@ Ethereum Elliott Wave analysis for 3 October 2026: ETH reached the $2750 target 
 
 📺 More Crypto Online
 
-👁️ 12K • 👍 235 • 💬 15 • ⏱️ 9:53 • 2d ago
+👁️ 12K • 👍 237 • 💬 15 • ⏱️ 9:53 • 2d ago
+
+---
+
+**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=J0JKZyMxh_Q)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 20K • 👍 349 • 💬 26 • ⏱️ 19:33 • 1d ago
 
 ---
 

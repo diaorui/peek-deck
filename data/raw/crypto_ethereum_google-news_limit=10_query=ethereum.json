@@ -56,23 +56,13 @@
     },
     {
       "headline": "Ethereum Price Climbs Ahead Of Glamsterdam Testnet Launch",
-      "source": "dmarketforces.com",
+      "source": "MarketForces Africa",
       "source_url": "https://dmarketforces.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdF9Qbmg2WEVmOFY4RUY3VGw0Tk10OUtEOXZFMWhqX2s1WGJ6T2xiS1VDN0o3SU55N1h1UE9mRjg1a0xxTFV6SmcxV2VZMDJ0aTFWamRQTUw0VVh1cGRIaXRHRWUyeGpFUHNIWXFlbWVRenNUS3lqal9ORk1rY2dBS3hCcWQtUUhUMzgwYw?oc=5",
       "pub_date": 1791064259.0,
       "article_url": "https://dmarketforces.com/ethereum-price-climbs-ahead-of-glamsterdam-testnet-launch/",
       "image": "https://dmarketforces.com/wp-content/uploads/2026/10/Ethereum-Price-Climbs-Ahead-of-Glamsterdam-Testnet-Launch.jpg",
       "description": "Ethereum (ETH) is up 0.76% to $2,684.65 on Saturday, outperforming a flat broader market, driven mainly by a rotation of capital into altcoins."
-    },
-    {
-      "headline": "Current price of Ethereum for October 5, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1odnF0MVhZWlhVUUxwYkJnZTdLZWdxN2lHWEF4MEIwUUlQR0s4ME52b2k4c1JEMHNGWnhqLUhBcXhGcHZER2ZxUWU5SlVZWXBwM19NRzVfaWZJQXdaeWRhRjFHMnZBZkpY?oc=5",
-      "pub_date": 1791198900.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-05-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-5.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "$90K Bitcoin Price Target, $3K Ethereum: What Will It Take to Get There?",
@@ -83,6 +73,16 @@
       "article_url": "https://coinmarketcap.com/academy/article/bitcoin-ethereum-price-prediction-90k-3k",
       "image": "https://academy-public.coinmarketcap.com/optimized-uploads/2a012b53ce5e4cd4a9c4790f454a1710.jpeg",
       "description": "Bitcoin and Ethereum have strong fundamentals and low leverage, so why are they stalling below $90,000 and $3,000? Here's what a breakout would take."
+    },
+    {
+      "headline": "Current price of Ethereum for October 5, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1odnF0MVhZWlhVUUxwYkJnZTdLZWdxN2lHWEF4MEIwUUlQR0s4ME52b2k4c1JEMHNGWnhqLUhBcXhGcHZER2ZxUWU5SlVZWXBwM19NRzVfaWZJQXdaeWRhRjFHMnZBZkpY?oc=5",
+      "pub_date": 1791198900.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-05-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-5.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend multi\u2011week rally as bulls target higher levels",
@@ -99,12 +99,12 @@
       "source": "The Defiant",
       "source_url": "https://thedefiant.io",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXAxTllJaS0zUFpEbjVVUThxU2U0dmc2SmVhZE81di1lMl9HWm9wNHlTTnFEMnlvazRTdzJZU2VibU1HLVFNMVVJMTlVdDdFUURFNEVra21rRUx1QS1IMGQ4TzBpUzZERklrYlV3dUxhT1lmUGt6eXJRV09fWDE1ekFwMk03TGhxeUtSbzFUMWV1N0FvRlBYSW5jdW5ReEUxLVVWWXBoMlFLLVBiM2lr?oc=5",
-      "pub_date": 1791228140.0,
+      "pub_date": 1791173404.0,
       "article_url": "https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits",
       "image": "https://cdn.sanity.io/images/6oftkxoa/production/6fc1190c7c7cd44b2b5d8b19f325cb4e150daec1-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
       "description": "Ethereum's exit queue holds 767,349 ETH after precautionary MetaMask staking exits, with a 13-day wait before withdrawal processing."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-05T22:07:48.955420+00:00"
+  "fetched_at": "2026-10-06T02:24:27.904537+00:00"
 }

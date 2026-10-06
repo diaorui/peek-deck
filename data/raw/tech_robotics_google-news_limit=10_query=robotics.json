@@ -25,16 +25,6 @@
       "description": "The startup, which is building a general-purpose \"brain\" for robots, has more than quadrupled its valuation in just over a year."
     },
     {
-      "headline": "Orbital Robotics gets set to send up a pair of arms for International Space Station\u2019s robots",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZU5pb2hNZXRWRk1DUmdnU2FGcGVjcGF2dnV4dUxpNkt3ZXp6RDM3T08tMTNlLVdxempVVzJBMkxOWGRIOXBkSXN5blBCaVJWejRaOVF5RjNvZXJHZDhFZnBHV3Y2Tl9KTGpCRW9tdmFCMGhxV3Z6MHBMZmdoTHlkaXd2Y3VtdE0?oc=5",
-      "pub_date": 1791205200.0,
-      "article_url": "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
-      "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
-    },
-    {
       "headline": "Human vs humanoid robot cage fight goes viral",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -63,6 +53,16 @@
       "article_url": "https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F7%2F9%2F13279762-1-eng-GB%2Fc134ff9ca8c3-photo_SXM2026093000011998.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
       "description": "Company aims to start production by 2029; machines to work in plants, warehouses"
+    },
+    {
+      "headline": "Orbital Robotics gets set to send up a pair of arms for International Space Station\u2019s robots",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZU5pb2hNZXRWRk1DUmdnU2FGcGVjcGF2dnV4dUxpNkt3ZXp6RDM3T08tMTNlLVdxempVVzJBMkxOWGRIOXBkSXN5blBCaVJWejRaOVF5RjNvZXJHZDhFZnBHV3Y2Tl9KTGpCRW9tdmFCMGhxV3Z6MHBMZmdoTHlkaXd2Y3VtdE0?oc=5",
+      "pub_date": 1791205200.0,
+      "article_url": "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
+      "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
     },
     {
       "headline": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
@@ -95,16 +95,16 @@
       "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
     },
     {
-      "headline": "One of Amazon\u2019s most advanced U.S. facilities opens near Wilmington",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaTgzM1pLMXJ1RnNPazBtS1hhR3p6NHVzN3c4WlRwYlhxRld3UVRBWTBJbEFWY0EyWkxPM2o0TTNsT3UwRjdoNGhMR1dqeFdjUWZ5cnlEenBIS054Q2wtVkNBN2hVNHlxXzdRSUNuVjNLNzVuUUFjT3kwd3JGcFlYTHlBMW9QR1U?oc=5",
-      "pub_date": 1791220505.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/one-amazon-most-advanced-u-171505844.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9d6e1d535b4f8372717e81f7d4111c57e4fa0df85932f1f8f1b9f987d5507200/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar-news%2F0f2d05409d796d75e39d52769b573f19.jpg",
-      "description": "A new Amazon robotics center is open in Wilmington. It employs over 1,100 people and promises faster deliveries."
+      "headline": "Micron sees future opportunities in humanoid robots, self-driving cars",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDVEM3VfZFg5NktXM2hhV1lyVFRRQVZHSWNDLUE4X29ESVZxUEhpRXQyNTBidExNdE9LRWdaalptOWtzaTEzRERJd0trX2NNNzVCZV9oV0hHVnNvbWgxanhROWIwVEw5dkRQM1FyMktxQ3Q2aU9VY3ZoMG5fbzBVQXFHRU9ZYm1JWWxPOTAtQzRsR2E0NjM0cm1KWjNHZDZSTTRoU2pKb3hnN0lZRkFpZExURDRWQlREeC1yTTNTLTFfM2FEN1lKSw?oc=5",
+      "pub_date": 1790964904.0,
+      "article_url": "https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a58035d5eca2ab0b3d01f079c8daac11913f3a0cf337d40424d28e31b586cc25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F1e4174d0-63d7-4d20-8933-d7a74c46331a",
+      "description": "Micron says physical AI could drive \"significant\" demand for memory chips by the end of the decade."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-05T22:07:51.078953+00:00"
+  "fetched_at": "2026-10-06T02:24:30.164963+00:00"
 }
