@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-06T16:08:32.194243+00:00'
+updated: '2026-10-06T21:07:24.785422+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 06, 2026 at 16:08 UTC  
+**Last Updated:** October 06, 2026 at 21:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,814.18
+### $85,615.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.7%  
-**30d:** +8.5%  
-**90d:** +35.6%  
-**1y:** -29.2%  
+**24h:** -0.4%  
+**7d:** +2.4%  
+**30d:** +8.2%  
+**90d:** +35.2%  
+**1y:** -29.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1724.17B
+**Market Cap:** $1719.16B
 Rank #1
 
-**Circulating Supply:** 20,094,278 BTC
+**Circulating Supply:** 20,094,390 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--31.9%
+-32.2%
 
 **All-Time Low:** $67.81
-+126435.9%
++126046.6%
 
 ---
 
@@ -77,71 +77,73 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[₿ears Anonymous](https://www.reddit.com/r/Bitcoin/comments/1wxf2i8/ears_anonymous/)**
+**[Remember, the bank thinks your money is their money](https://www.reddit.com/r/Bitcoin/comments/1wz8747/remember_the_bank_thinks_your_money_is_their_money/)**
 
-2d ago
-
----
-
-**[The true and much more important Bitcoin cycle](https://www.reddit.com/r/Bitcoin/comments/1wxgy29/the_true_and_much_more_important_bitcoin_cycle/)**
-
-2d ago
+3h ago
 
 ---
 
-**[Yes, but this doesn’t mean to gamble on leverage](https://www.reddit.com/r/Bitcoin/comments/1wx6ura/yes_but_this_doesnt_mean_to_gamble_on_leverage/)**
+**[We're still early](https://www.reddit.com/r/Bitcoin/comments/1wz4hdu/were_still_early/)**
 
-2d ago
-
----
-
-**[Don’t Worry! Buying The Dip On Bitcoin Will Pay Off‼️💯🚀](https://www.reddit.com/r/Bitcoin/comments/1wx4a0x/dont_worry_buying_the_dip_on_bitcoin_will_pay_off/)**
-
-2d ago
+6h ago
 
 ---
 
-**[Me going to work after refreshing the charts for 48 hours over the weekend](https://www.reddit.com/r/Bitcoin/comments/1wx989q/me_going_to_work_after_refreshing_the_charts_for/)**
+**[Fiat money...](https://www.reddit.com/r/Bitcoin/comments/1wz7eb8/fiat_money/)**
 
-2d ago
-
----
-
-**[Life 10 years after the big bitcoin rally](https://www.reddit.com/r/Bitcoin/comments/1wx3ioh/life_10_years_after_the_big_bitcoin_rally/)**
-
-I thought I'd share my journey and thoughts. I was into bitcoin relatively early (2012) and was fortunate enough to have been a hodler into the 2017 rally and exited at the top. I've been lucky enough to make good investments from bitcoin into real estate and some startups and stocks. Life almost 10 years later has been comfortable and all but a dream. Reconstructing what brought me here, I think it would be harder now than before despite it "looking" more attainable. Cryptocurrency which is more popular than ever now has become this dragon investor's chase. Away from the milieu of scams and scammers, earnest investors are hoping for the next big rally but I don't see anyone really planning beyond their imagined gains in personal and public interactions. As a true believer in the concept of Bitcoin I never sold even after the first few rallies to $1,000 even though I was up almost 80x when that first happened. I regularly bought the dips on occasion up until 2015, because I had conviction in blockchain and bitcoin, not because I just wanted to get rich. Getting rich was the consequence of the conviction. I was a paper millionaire and still going to work in 2016. When I sold the majority of my bitcoin, I still went to work. I didn't make any major lifestyle changes and instead did research on real estate, taxes, stocks and where to invest fiat. When I did quit a few months later it was non-climatic. I held my stance and stayed away from the ICOs and exchange explosion and just kept watching from the distance. I wasn't tempted by any of it because I already made a plan in my last months at work and chose to stick to it. I'm certain that saved me because some of my friends who were also believers lost it all in the ruckus by chasing the dragon and thinking they'd go from millionaire to billionaire in the same way. Sometimes, most times, it just happens once and it's best to call it luck and get out. So make a plan for the one time and stick to it.
-
-2d ago
+4h ago
 
 ---
 
-**[bought bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wxa62j/bought_bitcoin/)**
+**[I have claimed 0,1 Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wz1r41/i_have_claimed_01_bitcoin/)**
 
-https://preview.redd.it/a9s2duavqeth1.png?width=1144&format=png&auto=webp&s=1a85b7ec227ad549c7ca594229610ec91909b655 hey so i just bought my first sum of bitcoin, can yall help me on what i should do?
+I have stacked my way to 0,1 Bitcoin. Ain’t much but still is. End of message
 
-2d ago
-
----
-
-**[Is my friend scamming me, or is his explanation about Bitcoin and Bybit legitimate?](https://www.reddit.com/r/Bitcoin/comments/1wx1ikp/is_my_friend_scamming_me_or_is_his_explanation/)**
-
-Around 10–11 months ago, I gave a friend approximately $3,600 to invest in Bitcoin when it was at $86K. Ever since, whenever I’ve asked for my money back, he’s made excuses, saying Bitcoin crashed and he couldn’t return it. Now that Bitcoin is back around $86K, I asked him again. This is what he told me: I used Bybit. And it’s not as simple as just waiting for Bitcoin to stay above $86K. Since the money has been stuck for so long, the app keeps charging fees and adding them up. If I withdraw the money now, those fees will be deducted from the original $3,600, so I won’t be able to return the full amount. That’s why I want Bitcoin to stay above $86K for a few days or a week, so I can recover those fees and return the full $3,600.” I’m genuinely very concerned. I don’t know much about crypto, and I don’t understand how any of this works. Does Bybit actually charge ongoing fees for holding Bitcoin? Does his explanation make any sense, or is he just making excuses to keep my money? I’m starting to worry that he’s taking advantage of me because I’m a girl and assumes I don’t know any better. Please, if anyone has experience with Bybit or crypto, I’d really appreciate your advice. I’m genuinely worried about losing my money. this is all i have!!
-
-2d ago
+8h ago
 
 ---
 
-**[The MIT Media Lab's snack machine now accepts Bitcoin payments via the Lightning Network](https://www.reddit.com/r/Bitcoin/comments/1wwt5ey/the_mit_media_labs_snack_machine_now_accepts/)**
+**[“Cycles.”](https://www.reddit.com/r/Bitcoin/comments/1wz2qo8/cycles/)**
 
-2d ago
+7h ago
 
 ---
 
-**[Cantillionaires be like](https://www.reddit.com/r/Bitcoin/comments/1wwvkvg/cantillionaires_be_like/)**
+**[Found this in my English book🤯](https://www.reddit.com/r/Bitcoin/comments/1wz4dg9/found_this_in_my_english_book/)**
 
-Recommended reading: "A History of Central Banking and the Enslavement of Mankind" by Stephen Mitford Goodson
+I was so happy when I saw this!
 
-2d ago
+6h ago
+
+---
+
+**[Trump says inflation will pay off the $40 trillion debt. Cory Klippsten on financial repression, and why savers might want Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wzdp9t/trump_says_inflation_will_pay_off_the_40_trillion/)**
+
+Cory Klippsten on Washington's growing comfort with higher inflation, and why his answer is Bitcoin. In his latest Time interview, President Trump said "certain levels of inflation will also pay off that debt very rapidly." On CNN, former PIMCO CEO Mohamed El-Erian told the Fed to keep promising 2% while gradually raising the acceptable ceiling to 3. Back in 2023, former IMF chief economist Olivier Blanchard argued for a 3% target. Others are warning where this leads. J.P. Morgan Private Bank's 2026 Outlook described a risk to its clients: policymakers deliberately tolerating higher inflation, allowing real interest rates to fall and the government's debt burden to shrink. The report calls that financial repression. In January, Janet Yellen warned that "the temptation to rely on inflation or financial repression to reduce the debt burden will surely grow." Inflation lets the government repay its old debts with dollars that are worth less, even though higher refinancing costs can eat up the benefit. Congress can raise taxes or cut spending, and voters know exactly who to blame. With inflation, the cost arrives through higher prices, and the blame gets spread around. What sounds like debt relief in Washington means the dollars people earn and save buy less.
+
+25m ago
+
+---
+
+**[me checking my $50 portfolio after reading one macro headline](https://www.reddit.com/r/Bitcoin/comments/1wymiqr/me_checking_my_50_portfolio_after_reading_one/)**
+
+i'm not even in the market. i'm in the waiting room.
+
+22h ago
+
+---
+
+**[Bitcoin's intrinsic value is that its Market Infrastructure](https://www.reddit.com/r/Bitcoin/comments/1wzc219/bitcoins_intrinsic_value_is_that_its_market/)**
+
+It's lower level than money. It is the system that allows you to have electronically traceable bearer instruments. It allows for currencies, equities, bonds, options, futures, swaps and all the other financial instruments that make up our capital market to exist. Market Infrastructure is one of our oldest, widely distributed technologies. It's a list that doesn't change. It's one job is transaction finality. This is handled by a clearing house in the old world that is sunsetting. We need a list, that has an immutable history. This was long sought to be an impossible computer science problem until bitcoin came a long. If you have ever sent a international wire, you have experienced this. A alpha numeric address and a transaction that can't be reversed under any circumstance. Wires hit the clearing house(s). When we have market infrastructure in place, it allows for price discovery. We know when we trade, the trade can't be reversed. The transaction finality is the requirement to have price discovery. So when you are buying btc, you are investing in the most important technology that is often stable for centuries. Market infrastructure rarely changes. You are all early. Tech Infrastructures, like information, communication, energy and logistics take about 50-60 years and have 5 stages. It's called a Perez cycle. Irruption, speculative frenzy, turning point, synergy, and maturity. Plays out the same way, every time. BTC is in the turning point. ETFs, stable coins, its being adopted by the incumbent industries. When it hits synergy, that is when the omega candle happens. That is probably in 5-10 years. I think AI Agents will be driving that because they wont be signing up for banking or brokerage accounts. They will be making their currencies, options, equities, bonds, futures and other exotic financial instruments on top of btc. I encourage you to think about this for a moment, and spread this message, the comparison and disruption to the clearing house is the apt analogy. Financial systems are built in layers of institutions that have separate responsibilities. Bitcoin disrupts the lowest layer, the clearing house. This is why bitcoin's ascent is inevitable. It's taking over everything and the nation states can't stop or slow it, they can't even survive it. Future is going to be weird. There is no technology that is more powerful or important than market infrastructure. That is why bitcoin is the most valuable thing you can own.
+
+1h ago
+
+---
+
+**[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wy4lma/buy_bitcoin/)**
+
+1d ago
 
 ---
 
@@ -153,45 +155,29 @@ Recommended reading: "A History of Central Banking and the Enslavement of Mankin
 
 This shallower decline isn’t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%.
 
-CoinDesk • 7h ago
+CoinDesk • 12h ago
 
 ---
 
-**[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
+**[Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months](https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months)**
 
-The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
+The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week.
 
-Decrypt News • 21h ago
-
----
-
-**[Strive purchases $169M in bitcoin — nearly 6 times more than Strategy's recent buy](https://finance.yahoo.com/video/strive-purchases-169m-bitcoin-nearly-160000167.html)**
-
-Strive (ASST) recently bought 2,000 bitcoin (BTC-USD) for about $169 million. Scott Melker discusses what this could mean for Strategy (MSTR).
-
-Yahoo Finance • 8m ago
+Decrypt News • 22h ago
 
 ---
 
-**[Did IREN’s Pivot From Bitcoin Mining to AI Cloud Deals Just Shift IREN's (IREN) Investment Narrative?](https://finance.yahoo.com/technology/ai/articles/did-iren-pivot-bitcoin-mining-150655271.html)**
+**[Watch Bitcoin Becoming Portfolio Allocation: BlackRock's Jacobs](https://www.bloomberg.com/news/videos/2026-10-06/bitcoin-becoming-portfolio-allocation-jay-jacobs-video)**
 
-In the past month, IREN Limited reported its fiscal 2026 results and highlighted a transition of its sizable Bitcoin-focused data center capacity toward AI compute workloads, underpinned by new multi-year AI Cloud agreements and ongoing contract expansions with major customers including Microsoft. This shift suggests IREN is repurposing existing infrastructure to pursue recurring AI cloud demand, potentially reshaping its mix between digital asset mining and higher-value compute...
+Bloomberg.com • 54m ago
+
+---
+
+**[Bitcoin Headwinds Are Sign of Monetary Tightening: Acheson](https://finance.yahoo.com/video/bitcoin-headwinds-sign-monetary-tightening-194105249.html)**
+
+Jay Jacobs, US head of equity ETFs BlackRock, joins Scarlet Fu and Dushyant Shahrawat on "Bloomberg Crypto." They discuss the attractiveness of the iShares Bitcoin Trust ETF (ticker: IBIT) to investor portfolios.
 
 Yahoo Finance • 1h ago
-
----
-
-**[Citi, Standard Chartered and Bernstein All Cut Their Bitcoin Targets in 2026. Citi Sees $113,000, Standard Chartered $100,000 and Bernstein $125,000.](https://finance.yahoo.com/markets/crypto/articles/citi-standard-chartered-bernstein-cut-150200135.html)**
-
-Wall Street giants have slashed their Bitcoin price targets multiple times this year, with one firm swinging by tens of thousands of dollars in a single quarter. Here is how much trust investors should actually place in these forecasts.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto Elite Gather in Singapore as Bitcoin’s Rally Buoys Bulls](https://www.bloomberg.com/news/articles/2026-10-05/crypto-elite-gather-in-singapore-as-bitcoin-s-rally-buoys-bulls)**
-
-Bloomberg.com • 17h ago
 
 ---
 
@@ -199,13 +185,7 @@ Bloomberg.com • 17h ago
 
 BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.
 
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin flat at $85.3k as soaring yields offset regulatory hopes](https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454)**
-
-Investing.com • 9h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -217,11 +197,33 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[This Company Just Became the World's 2nd-Largest Bitcoin Hoarder and It Has More BTC Than Tesla, SpaceX a](https://www.benzinga.com/crypto/cryptocurrency/26/10/62181930/metaplanet-becomes-worlds-2nd-largest-corporate-bitcoin-holder-now-trailing-only-michael-saylors-strategy)**
+**[Bitcoin grinds toward $87K as US equities hit new record highs](https://www.tradingview.com/news/cointelegraph:94773c6d9094b:0-bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs/)**
 
-Japan-based Metaplanet Inc. is now the world’s second-largest corporate holder of Bitcoin after snapping up another 1,000 BTC on Monday, October 5.
+Bitcoin (BTC) continued to circle $86,000 on Tuesday as US stock markets hit fresh all-time highs.Key points:Bitcoin rangebound as S&P 500, Nasdaq see new highsData from TradingView showed BITSTAMP:BTCUSD attempting to return to $87,000 after another failed attempt to break higher on Monday.BITSTAM…
 
-Benzinga • 8h ago
+TradingView • 3h ago
+
+---
+
+**[TD Cowen: Bitcoin to Hit $132,750 by 2028, Strategy, Strive Could Outperform](https://www.benzinga.com/crypto/cryptocurrency/26/10/62189635/td-cowen-bitcoin-to-hit-132750-by-2028-strategy-strive-could-outperform)**
+
+Bitcoin may reach $132,750 by 2027 and $275,000 by 2029; well-run BTC treasury firms could outperform Bitcoin by ~50%.
+
+Benzinga • 7h ago
+
+---
+
+**[Coinbase's Ryan VanGrack: CFTC Approval "Opens Many Doors" For Bitcoin](https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin)**
+
+Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase’s Ryan VanGrack explains why ETFs and direct holding can both thrive.
+
+Bitcoin Magazine • 23h ago
+
+---
+
+**[Bitcoin's New Bull Market: No More Boom And Bust (BTC-USD)](https://seekingalpha.com/article/4952010-bitcoin-new-bull-market-no-more-boom-bust)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -243,7 +245,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 **[Why did Bitcoin rise 20% in August? – A macroeconomic explanation (4 min read)](https://news.ycombinator.com/item?id=49911552)**
 
-⬆️ 3 • 💬 0 • 5d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
+⬆️ 3 • 💬 0 • 6d ago • [justinzhang.substack.com](https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august)
 
 ---
 
@@ -281,7 +283,7 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 **[My own personal whim, ditching all my devices for my phone](https://news.ycombinator.com/item?id=49977131)**
 
-⬆️ 1 • 💬 0 • 4h ago • [castignoli.it](https://www.castignoli.it/tecnologia/my-own-personal-whim-ditching-all-my-devices-for-my-phone/)
+⬆️ 1 • 💬 0 • 9h ago • [castignoli.it](https://www.castignoli.it/tecnologia/my-own-personal-whim-ditching-all-my-devices-for-my-phone/)
 
 ---
 
@@ -289,13 +291,33 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 ## YouTube Videos: "bitcoin"
 
+**[The SEC approved a 3x Bitcoin ETF. It isn&#39;t what it sounds like.](https://www.youtube.com/watch?v=s_Hiedm9kEQ)**
+
+The Clarity Act died. Crypto is getting it one rule at a time. In five days the SEC approved the first 3x leveraged Bitcoin and Ether ...
+
+📺 Yahoo Finance
+
+👁️ 4K • 👍 206 • 💬 52 • ⏱️ 14:58 • 3h ago
+
+---
+
 **[Bitcoin Whales Are Quietly Making Their Move](https://www.youtube.com/watch?v=WsLBRt8YczQ)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 481 • 💬 14 • ⏱️ 41:21 • 1h ago
+👁️ 18K • 👍 713 • 💬 127 • ⏱️ 41:21 • 6h ago
+
+---
+
+**[The Bitcoin Supply Shock Is About to FORCE Bitcoin to EXPLODE!! | EP 1607](https://www.youtube.com/watch?v=DK_I_D-t7CA)**
+
+Bitcoin testing $87k again and price action looks bullish - can we breakout today?
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 225 • 💬 17 • ⏱️ 1:29:53 • 2h ago
 
 ---
 
@@ -305,17 +327,7 @@ Bitcoin is closing in on $100000 as the bond market breaks, inflation becomes pa
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 140 • ⏱️ 16:08 • 19h ago
-
----
-
-**[Bitcoin Shows Strength: More Upside This Week?](https://www.youtube.com/watch?v=xJc0npv27VM)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 183 • 💬 13 • ⏱️ 12:14 • 2h ago
+👁️ 50K • 👍 2K • 💬 139 • ⏱️ 16:08 • 1d ago
 
 ---
 
@@ -325,7 +337,17 @@ Bitcoin what now.
 
 📺 MMCrypto
 
-👁️ 19K • 👍 2K • 💬 126 • ⏱️ 4:58 • 5h ago
+👁️ 44K • 👍 2K • 💬 321 • ⏱️ 4:58 • 10h ago
+
+---
+
+**[BITCOIN BREAKOUT IN 3... 2... 1... (EVERYONE IS WRONG)](https://www.youtube.com/watch?v=-0hr7PcvqaI)**
+
+WEEX: https://themoon.co/DailyWEEX UP TO $60000 BONUS BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 7K • 👍 357 • 💬 10 • ⏱️ 11:53 • 5h ago
 
 ---
 
@@ -335,17 +357,27 @@ Crypto Is About To Go NUCLEAR… You've Been Warned ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 3K • 💬 157 • ⏱️ 13:41 • 17h ago
+👁️ 80K • 👍 3K • 💬 194 • ⏱️ 13:41 • 22h ago
 
 ---
 
-**[BITCOIN: It&#39;s About To Confirm The Next Move! [Don&#39;t Wait]](https://www.youtube.com/watch?v=VC2rQXxGRe8)**
+**[Bitcoin Shows Strength: More Upside This Week?](https://www.youtube.com/watch?v=xJc0npv27VM)**
 
-In today's video, Kyledoops shows you why the next move is not far off from happening and also why even though many may feel ...
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Crypto Banter
+📺 More Crypto Online
 
-👁️ 20K • 👍 1K • 💬 21 • ⏱️ 27:21 • 8h ago
+👁️ 8K • 👍 342 • 💬 20 • ⏱️ 12:14 • 7h ago
+
+---
+
+**[Bitcoin : trois rejets de suite, faut-il craindre une correction ?](https://www.youtube.com/watch?v=MlcZNENfSgA)**
+
+Faut-il acheter du Bitcoin quand plus personne n'en veut ? La demande spot est au plus bas depuis presque 3 ans alors que le ...
+
+📺 Charlie Seddine
+
+👁️ 2K • 👍 191 • 💬 26 • ⏱️ 11:36 • 3h ago
 
 ---
 
@@ -355,37 +387,7 @@ The bond market is pushing back, Washington is talking about $5000 checks, and t
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 2K • 💬 157 • ⏱️ 18:16 • 1d ago
-
----
-
-**[i can&#39;t hold it in anymore.... Bitcoin and Crypto Altcoins HONEST TRUTH](https://www.youtube.com/watch?v=0RoTsepr1BA)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 18K • 👍 784 • 💬 144 • ⏱️ 11:58 • 20h ago
-
----
-
-**[HISTORICAL BITCOIN SIGNAL RETURNS… (THIS HAPPENED EVERY TIME)](https://www.youtube.com/watch?v=6UltTCVvOgo)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 20K • 👍 814 • 💬 45 • ⏱️ 8:38 • 11h ago
-
----
-
-**[Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?](https://www.youtube.com/watch?v=US01akVg4es)**
-
-No B.S. Just Charts. Bitcoin heads into a make-or-break week, and Gareth Soloway shows the exact bull flag level that decides ...
-
-📺 Gareth Soloway
-
-👁️ 109K • 👍 4K • 💬 232 • ⏱️ 15:03 • 1d ago
+👁️ 43K • 👍 2K • 💬 149 • ⏱️ 18:16 • 1d ago
 
 ---
 

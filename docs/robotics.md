@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-06T16:08:32.207662+00:00'
+updated: '2026-10-06T21:07:24.795908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 06, 2026 at 16:08 UTC  
+**Last Updated:** October 06, 2026 at 21:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I was reading recent news from Neura robotics and they have robots that are aime
 
 Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've been working on data-collection infrastructure for teams training VLA / imitation-learning models, and I'd like feedback from people who've actually collected teleop data. The problem we kept hitting: most teams collect demos on improvised rigs. Camera angles drift between sessions, schemas change, joint-state rates don't match the deployed system, and you end up with months of data that trains poorly. So we built the Harvester: - 2× UFactory xArm 7 (14 DoF total) on a portable aluminum frame with casters, adjustable height, 90° or 45° arm mounts - Teleop with Meta Quest controllers, but the headset stays on the desk as a tracking reference, so operators aren't wearing it for hours - Switchable scaling profiles (slow/precise vs fast repositioning) on a button press - Cartesian control using UFactory's online trajectory planning (streamed targets, not pre-planned trajectories) - Multi-view Intel RealSense RGB + aligned depth, joint states at 100 Hz, commanded vs achieved poses, gripper state, all hardware-timestamped - ROS 2 Humble, one .mcap rosbag per run, converts straight to a LeRobot dataset for Hugging Face I'd love feedback on: Headset-off Quest teleop vs leader-follower arms (GELLO, ALOHA-style). What's worked better for you? What do you wish your collection pipeline recorded that it doesn't? Anything in the technical writeup that seems off or missing? Site: paddydata.ai (password: harvest). The technical page has the full topic list and architecture. Disclaimer: the site isn't 100% finished yet. We officially launch next week, so a few pages are still rough. Happy to answer anything in the comments.
 
-4d ago
+5d ago
 
 ---
 
@@ -98,13 +98,13 @@ Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 2
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 5d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 6d ago
 
 ---
 
 **[My research project has hit a technological ceiling that is impenetrable for me, as it is impossible without robotics.](https://www.reddit.com/r/robotics/comments/1wud6c7/my_research_project_has_hit_a_technological/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -112,65 +112,25 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
+**[Mixed Human Feelings After a Day at a Park Full of Robots](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
 
-WSJ • 1d ago
-
----
-
-**[Orbital Robotics gets set to send up a pair of arms for International Space Station’s robots](https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/)**
-
-Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration.
-
-GeekWire • 1d ago
+The New York Times • 3h ago
 
 ---
 
-**[Hundreds of soldiers transfer to newly created jobs in robotics and space](https://taskandpurpose.com/news/army-space-robotics-mos/)**
+**[These Robots Built BMWs, Then Hurled Themselves Into Molten Steel](https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel)**
 
-10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field.
+A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies.
 
-Task & Purpose • 20h ago
-
----
-
-**[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
-
-US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
-
-ft.com • 2d ago
+The Drive • 4h ago
 
 ---
 
-**[Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian](https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html)**
+**[Human vs humanoid robot cage fight goes viral](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)**
 
-/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project...
+Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force..
 
-PR Newswire • 1d ago
-
----
-
-**[Panasonic to make humanoid robots, leveraging its battery business](https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business)**
-
-Company aims to start production by 2029; machines to work in plants, warehouses
-
-Nikkei Asia • 1d ago
-
----
-
-**[This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.](https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10)**
-
-A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used.
-
-Business Insider • 4h ago
-
----
-
-**[Can Safeworld convince people that GenAI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/)**
-
-Safeworld is building digital humans to make sure robots don't hurt the real ones.
-
-TechCrunch • 1d ago
+Fox News • 1d ago
 
 ---
 
@@ -182,9 +142,49 @@ Tom's Hardware • 2d ago
 
 ---
 
-**[Australian robotics company chooses Huntsville for U.S. HQ, manufacturing facility](https://www.al.com/news/huntsville/2026/10/australian-robotics-company-chooses-huntsville-for-us-hq-manufacturing-facility.html)**
+**[Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian](https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html)**
 
-AL.com • 1d ago
+/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project...
+
+PR Newswire • 1d ago
+
+---
+
+**[New RP1 humanoid for open-source robotics research unveiled by RoboParty](https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics)**
+
+RoboParty unveils RP1, a full-stack open-source humanoid robot for research, education and embodied AI development at IROS 2026.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Panasonic to make humanoid robots, leveraging its battery business](https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business)**
+
+Company aims to start production by 2029; machines to work in plants, warehouses
+
+Nikkei Asia • 1d ago
+
+---
+
+**[YouTuber Fights Humanoid Robots in Unsanctioned MMA Bout](https://www.pcmag.com/news/youtuber-fights-humanoid-robots-in-unsanctioned-mma-bout)**
+
+Frankie LaPenna held his own against the smaller ones, but the Terminator bot seemed ready for the challenge. The California State Athletic Commission was not impressed.
+
+PCMag • 1d ago
+
+---
+
+**[New humanoid robot built in five months remotely handles bombs, hazardous energy jobs](https://interestingengineering.com/ai-robotics/humanoid-robot-bomb-disposal-energy-jobs)**
+
+A humanoid built in five months lets specialists remotely handle explosives and hazardous energy equipment.
+
+Interesting Engineering • 2h ago
+
+---
+
+**[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
+
+WSJ • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 70K • 👍 1K • 💬 79 • ⏱️ 1:00 • 2d ago
+👁️ 72K • 👍 1K • 💬 83 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -208,17 +208,7 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 The Geo Network
 
-👁️ 194K • 👍 3K • 💬 135 • ⏱️ 20:27 • 6d ago
-
----
-
-**[DO I REALLY Need the ULTIMATE SHELL? War Robots Gameplay WR](https://www.youtube.com/watch?v=lEYFlBx6Rok)**
-
-War Robots Gameplay: Getting the Ultimate Shell in WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-
-📺 Manni-Gaming
-
-👁️ 2K • 👍 179 • 💬 45 • ⏱️ 12:54 • 3h ago
+👁️ 195K • 👍 3K • 💬 135 • ⏱️ 20:27 • 6d ago
 
 ---
 
@@ -228,7 +218,7 @@ Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot pro
 
 📺 Ai_Mobility_News
 
-👁️ 10K • 👍 75 • 💬 3 • ⏱️ 14:50 • 6d ago
+👁️ 11K • 👍 75 • 💬 6 • ⏱️ 14:50 • 6d ago
 
 ---
 
@@ -238,35 +228,37 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 📺 Canada 2050
 
-👁️ 41K • 👍 1K • 💬 37 • ⏱️ 18:22 • 5d ago
+👁️ 42K • 👍 1K • 💬 37 • ⏱️ 18:22 • 6d ago
 
 ---
 
-**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
 
-📺 Ben Esherick
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
 
-👁️ 658K • 👍 48K • 💬 718 • ⏱️ 0:34 • 17h ago
+📺 ejunky66
 
----
-
-**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
-
-A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
-
-📺 ABC7 News Bay Area
-
-👁️ 6K • 👍 22 • 💬 12 • ⏱️ 1:02 • 6d ago
+👁️ 4.0M • 👍 61K • 💬 2K • ⏱️ 1:00 • 4d ago
 
 ---
 
-**[Japan&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=_bYQvpyK25Y)**
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
 
-Japan's Insane ROBOT PARADE Just Stunned the Entire World.
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
 
-📺 rubenfoto1
+📺 CNET
 
-👁️ 12K • 👍 159 • 💬 14 • ⏱️ 26:56 • 1d ago
+👁️ 45K • 👍 439 • 💬 64 • ⏱️ 6:34 • 2d ago
+
+---
+
+**[These New Chinese Robots Look Almost 100% Human](https://www.youtube.com/watch?v=mqkrM72lFug)**
+
+China's humanoid robot industry is racing toward machines that look almost 100% human, and the progress is staggering. Xpeng ...
+
+📺 Prime Insights
+
+👁️ 493K • 👍 3K • 💬 121 • ⏱️ 30:09 • 6d ago
 
 ---
 
@@ -276,17 +268,27 @@ Figure just destroyed almost its entire Figure 02 fleet by training the humanoid
 
 📺 AI Revolution
 
-👁️ 52K • 👍 727 • 💬 83 • ⏱️ 13:23 • 3d ago
+👁️ 53K • 👍 738 • 💬 85 • ⏱️ 13:23 • 3d ago
 
 ---
 
-**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
+**[Elon Musk’s Robot Future Is Closer Than You Think… 🤯 Skynet!?](https://www.youtube.com/watch?v=QGFpZWhWw54)**
 
-Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
+What happens when humanoid robots stop being prototypes… and start being mass-produced? Tesla is building toward ...
 
-📺 MACHINEKIND
+📺 ejunky66
 
-👁️ 19K • 👍 376 • 💬 43 • ⏱️ 13:42 • 17h ago
+👁️ 113K • 👍 1K • 💬 94 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[DO I REALLY Need the ULTIMATE SHELL? War Robots Gameplay WR](https://www.youtube.com/watch?v=lEYFlBx6Rok)**
+
+War Robots Gameplay: Getting the Ultimate Shell in WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 264 • 💬 63 • ⏱️ 12:54 • 8h ago
 
 ---
 
