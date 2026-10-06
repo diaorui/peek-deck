@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-05T22:08:02.995814+00:00'
+updated: '2026-10-06T02:24:35.049160+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 05, 2026 at 22:08 UTC  
+**Last Updated:** October 06, 2026 at 02:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Continuing to move from using the model directly to having the model write reliable control code. The goal here is to pick a small part from a random pile, with the right side up and with precision. Once we have this skill, the next use becomes much faster. Model can adapt it for another part or for screws/nuts. A box with defined mounts and consistent lighting helps computer vision work reliably.
 
-4d ago
+5d ago
 
 ---
 
@@ -82,7 +82,7 @@ What is the difference between building in functional safety early on vs waiting
 
 **[Testing the arm joints of my MK humanoid robot! 🤖⚙️ Another step in the development of the MK Robot. More upgrades and testing in going](https://www.reddit.com/r/robotics/comments/1wul97j/testing_the_arm_joints_of_my_mk_humanoid_robot/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -114,7 +114,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
 
-WSJ • 15h ago
+WSJ • 19h ago
 
 ---
 
@@ -126,25 +126,17 @@ businessinsider.com • 3d ago
 
 ---
 
-**[Orbital Robotics gets set to send up a pair of arms for International Space Station’s robots](https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/)**
-
-Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration.
-
-GeekWire • 9h ago
-
----
-
 **[Human vs humanoid robot cage fight goes viral](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)**
 
 Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force..
 
-Fox News • 8h ago
+Fox News • 12h ago
 
 ---
 
 **[The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
 
-The New York Times • 9h ago
+The New York Times • 13h ago
 
 ---
 
@@ -152,7 +144,15 @@ The New York Times • 9h ago
 
 Company aims to start production by 2029; machines to work in plants, warehouses
 
-Nikkei Asia • 14h ago
+Nikkei Asia • 19h ago
+
+---
+
+**[Orbital Robotics gets set to send up a pair of arms for International Space Station’s robots](https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/)**
+
+Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration.
+
+GeekWire • 13h ago
 
 ---
 
@@ -160,7 +160,7 @@ Nikkei Asia • 14h ago
 
 Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology.
 
-DefenseScoop • 2d ago
+DefenseScoop • 3d ago
 
 ---
 
@@ -168,7 +168,7 @@ DefenseScoop • 2d ago
 
 Safeworld is building digital humans to make sure robots don't hurt the real ones.
 
-TechCrunch • 10h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -176,15 +176,15 @@ TechCrunch • 10h ago
 
 US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
-**[One of Amazon’s most advanced U.S. facilities opens near Wilmington](https://www.yahoo.com/news/us/articles/one-amazon-most-advanced-u-171505844.html)**
+**[Micron sees future opportunities in humanoid robots, self-driving cars](https://finance.yahoo.com/technology/article/micron-sees-future-opportunities-in-humanoid-robots-self-driving-cars-181504090.html)**
 
-A new Amazon robotics center is open in Wilmington. It employs over 1,100 people and promises faster deliveries.
+Micron says physical AI could drive "significant" demand for memory chips by the end of the decade.
 
-Yahoo • 4h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -198,47 +198,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 63K • 👍 1K • 💬 69 • ⏱️ 1:00 • 1d ago
-
----
-
-**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
-
-Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
-
-📺 The Geo Network
-
-👁️ 193K • 👍 3K • 💬 133 • ⏱️ 20:27 • 6d ago
-
----
-
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
-
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
-
-📺 ejunky66
-
-👁️ 3.2M • 👍 50K • 💬 2K • ⏱️ 1:00 • 3d ago
-
----
-
-**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
-
-Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
-
-📺 Canada 2050
-
-👁️ 39K • 👍 1K • 💬 35 • ⏱️ 18:22 • 5d ago
-
----
-
-**[Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1,000/Week!](https://www.youtube.com/watch?v=X4S0BCo_i2g)**
-
-Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1000/Week! Tesla Bot Gen 3 could be Tesla's biggest step ...
-
-📺 TESLA CAR WORLD
-
-👁️ 225K • 👍 1K • 💬 250 • ⏱️ 12:51 • 4d ago
+👁️ 66K • 👍 1K • 💬 71 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -252,33 +212,53 @@ Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot pro
 
 ---
 
-**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
 
-At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
+
+📺 Canada 2050
+
+👁️ 40K • 👍 1K • 💬 36 • ⏱️ 18:22 • 5d ago
+
+---
+
+**[Chinese Robots Perform Saudi Ardah Sword Dance In Riyadh, Stun Prince Faisal &amp; Ambassador Chang Hua](https://www.youtube.com/watch?v=2zsfmuscT8E)**
+
+Chinese humanoid robots have stunned guests in Riyadh after performing Saudi Arabia's iconic Ardah sword dance while ...
+
+📺 MIRROR NOW
+
+👁️ 289K • 👍 924 • 💬 341 • ⏱️ 10:40 • 5d ago
+
+---
+
+**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
+
+Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
+
+📺 The Geo Network
+
+👁️ 194K • 👍 3K • 💬 133 • ⏱️ 20:27 • 6d ago
+
+---
+
+**[Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1,000/Week!](https://www.youtube.com/watch?v=X4S0BCo_i2g)**
+
+Tesla Bot Gen 3 NEW DESIGN! Elon Musk Drops MASSIVE UPDATE 1000/Week! Tesla Bot Gen 3 could be Tesla's biggest step ...
+
+📺 TESLA CAR WORLD
+
+👁️ 225K • 👍 1K • 💬 250 • ⏱️ 12:51 • 4d ago
+
+---
+
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
 
 📺 ejunky66
 
-👁️ 970 • 👍 40 • 💬 6 • ⏱️ 1:00 • 2h ago
-
----
-
-**[Japan&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=_bYQvpyK25Y)**
-
-Japan's Insane ROBOT PARADE Just Stunned the Entire World.
-
-📺 rubenfoto1
-
-👁️ 10K • 👍 134 • 💬 12 • ⏱️ 26:56 • 23h ago
-
----
-
-**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
-
-This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
-
-📺 Boston Dynamics
-
-👁️ 2.3M • 👍 35K • 💬 3K • ⏱️ 5:35 • 4d ago
+👁️ 3.4M • 👍 53K • 💬 2K • ⏱️ 1:00 • 3d ago
 
 ---
 
@@ -288,7 +268,27 @@ A humanoid robot store in Hong Kong offers a glimpse of the future—and a remin
 
 📺 DW News
 
-👁️ 155K • 👍 653 • 💬 256 • ⏱️ 3:46 • 6d ago
+👁️ 156K • 👍 653 • 💬 256 • ⏱️ 3:46 • 6d ago
+
+---
+
+**[US Military Just Deployed A Robot Kitchen](https://www.youtube.com/watch?v=XW-SPoG7h1o)**
+
+GoodBytz just deployed a fully autonomous kitchen at a US Military Texas base. Their AI-guided robots portion, cook, plate, and ...
+
+📺 The Manav Podcast
+
+👁️ 171K • 👍 3K • 💬 213 • ⏱️ 0:50 • 5d ago
+
+---
+
+**[Ultimate 100+ BUMBLEBEE Toys Hunt - Evolution of Transformers Best Transforming Robot Car Comparison](https://www.youtube.com/watch?v=eFSJT2Z7daQ)**
+
+Let's unlock an incredible Bumblebee toy collection featuring over 100 different Transformers figures! From classic transforming ...
+
+📺 Bob ToysReview
+
+👁️ 8K • 👍 17 • ⏱️ 20:14 • 16h ago
 
 ---
 

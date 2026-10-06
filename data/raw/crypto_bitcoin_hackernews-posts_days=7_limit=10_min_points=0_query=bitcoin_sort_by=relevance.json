@@ -65,7 +65,7 @@
       "url": "https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp",
       "hn_url": "https://news.ycombinator.com/item?id=49959733",
       "author": "CharlesRStrogis",
-      "points": 1,
+      "points": 2,
       "num_comments": 0,
       "created_at": "2026-10-05T01:29:00Z",
       "object_id": "49959733",
@@ -75,26 +75,12 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Bioinformaticians have been writing the same abstract for decades",
-      "url": "https://luispedro.substack.com/p/bioinformaticians-have-been-writing",
-      "hn_url": "https://news.ycombinator.com/item?id=49960668",
-      "author": "davikr",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-05T04:25:18Z",
-      "object_id": "49960668",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "luispedro.substack.com"
-    },
-    {
       "title": "Florida weighs ditching property taxes and sticking Canadians with the bill",
       "url": "https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814",
       "hn_url": "https://news.ycombinator.com/item?id=49954499",
       "author": "throw0101a",
-      "points": 28,
-      "num_comments": 41,
+      "points": 29,
+      "num_comments": 42,
       "created_at": "2026-10-04T15:02:25Z",
       "object_id": "49954499",
       "image": "https://i.cbc.ca/ais/b84e3e16-4ee2-409c-8b2f-268048bb178c,1790972450434/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C3000%2C1687%29%3BResize%3D620",
@@ -103,7 +89,7 @@
       "site_name": "CBC"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-10-05T22:07:27.762172+00:00"
+  "fetched_at": "2026-10-06T02:24:12.008158+00:00"
 }
