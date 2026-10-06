@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-06T09:14:26.828430+00:00'
+updated: '2026-10-06T16:08:32.194243+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 06, 2026 at 09:14 UTC  
+**Last Updated:** October 06, 2026 at 16:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,575.79
+### $85,814.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.8%  
-**30d:** +8.6%  
-**90d:** +35.8%  
+**24h:** +0.5%  
+**7d:** +2.7%  
+**30d:** +8.5%  
+**90d:** +35.6%  
 **1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1726.15B
+**Market Cap:** $1724.17B
 Rank #1
 
-**Circulating Supply:** 20,093,996 BTC
+**Circulating Supply:** 20,094,278 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -31.9%
 
 **All-Time Low:** $67.81
-+126570.1%
++126435.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[₿ears Anonymous](https://www.reddit.com/r/Bitcoin/comments/1wxf2i8/ears_anonymous/)**
 
-1d ago
+2d ago
 
 ---
 
 **[The true and much more important Bitcoin cycle](https://www.reddit.com/r/Bitcoin/comments/1wxgy29/the_true_and_much_more_important_bitcoin_cycle/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -149,69 +149,49 @@ Recommended reading: "A History of Central Banking and the Enslavement of Mankin
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is about to get a major bullish signal it hasn't had in over a year](https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year)**
+**[Why bitcoin is down 'just' 32% a year after its record high of $126,000](https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32)**
 
-Key price averages are on the verge of confirming a major bullish configuration for the first time in over a year.
+This shallower decline isn’t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%.
 
-CoinDesk • 1d ago
-
----
-
-**[Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months](https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months)**
-
-The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week.
-
-Decrypt News • 10h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin Price Could Reverse Following Tech Stocks, Peter Schiff Says](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-could-reverse-following-080108730.html)**
+**[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
 
-Strategy bought 334 BTC for about $28.7 million and repurchased $176 million of STRC in its latest disclosure, even as Peter Schiff warned that the Bitcoin price could reverse if technology stocks pull back. The competing signals leave a sharper question than whether Strategy is still accumulating: can its current ...
+The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
 
-finance.yahoo.com • 1h ago
+Decrypt News • 21h ago
 
 ---
 
-**[Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes](https://finance.yahoo.com/markets/crypto/articles/bitcoin-steadies-85-5k-soaring-070842274.html)**
+**[Strive purchases $169M in bitcoin — nearly 6 times more than Strategy's recent buy](https://finance.yahoo.com/video/strive-purchases-169m-bitcoin-nearly-160000167.html)**
 
-Investing.com-- Bitcoin fell slightly on Tuesday, extending losses from the prior session as a surge in global bond yields largely offset optimism over more positive U.S. regulations.
+Strive (ASST) recently bought 2,000 bitcoin (BTC-USD) for about $169 million. Scott Melker discusses what this could mean for Strategy (MSTR).
 
-finance.yahoo.com • 2h ago
+Yahoo Finance • 8m ago
+
+---
+
+**[Did IREN’s Pivot From Bitcoin Mining to AI Cloud Deals Just Shift IREN's (IREN) Investment Narrative?](https://finance.yahoo.com/technology/ai/articles/did-iren-pivot-bitcoin-mining-150655271.html)**
+
+In the past month, IREN Limited reported its fiscal 2026 results and highlighted a transition of its sizable Bitcoin-focused data center capacity toward AI compute workloads, underpinned by new multi-year AI Cloud agreements and ongoing contract expansions with major customers including Microsoft. This shift suggests IREN is repurposing existing infrastructure to pursue recurring AI cloud demand, potentially reshaping its mix between digital asset mining and higher-value compute...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Citi, Standard Chartered and Bernstein All Cut Their Bitcoin Targets in 2026. Citi Sees $113,000, Standard Chartered $100,000 and Bernstein $125,000.](https://finance.yahoo.com/markets/crypto/articles/citi-standard-chartered-bernstein-cut-150200135.html)**
+
+Wall Street giants have slashed their Bitcoin price targets multiple times this year, with one firm swinging by tens of thousands of dollars in a single quarter. Here is how much trust investors should actually place in these forecasts.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Crypto Elite Gather in Singapore as Bitcoin’s Rally Buoys Bulls](https://www.bloomberg.com/news/articles/2026-10-05/crypto-elite-gather-in-singapore-as-bitcoin-s-rally-buoys-bulls)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Bitcoin Falls as Dollar Rises, Geopolitical Tensions Persist](https://www.barrons.com/livecoverage/stock-market-news-today-100626/card/bitcoin-falls-as-dollar-rises-geopolitical-tensions-persist-2BCsSnRPAVsAIU5GKEKi?modCode=hp_LEDE_C_LC_1)**
-
-Barron's • 16m ago
-
----
-
-**[Coinbase's Ryan VanGrack: CFTC Approval "Opens Many Doors" For Bitcoin](https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin)**
-
-Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase’s Ryan VanGrack explains why ETFs and direct holding can both thrive.
-
-bitcoinmagazine.com • 11h ago
-
----
-
-**[Strategy's $6 Billion Bitcoin Safety Net (NASDAQ:MSTR)](https://seekingalpha.com/article/4951941-strategys-6-billion-bitcoin-safety-net)**
-
-Seeking Alpha • 21h ago
-
----
-
-**[SEC and CFTC jointly classify Bitcoin, Ether, Solana, Stellar, Tezos, and XRP as digital commodities](https://www.tradingview.com/news/cryptobriefing:b41a7ccce094b:0-sec-and-cftc-jointly-classify-bitcoin-ether-solana-stellar-tezos-and-xrp-as-digital-commodities/)**
-
-The Commodity Futures Trading Commission's chairman has named Bitcoin, Ether, Solana, Stellar, Tezos, and XRP as digital commodities. For an industry that spent years arguing over what its biggest tokens actually are, that is a short sentence with a long backstory.The classification places these as…
-
-TradingView • 15h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -219,7 +199,29 @@ TradingView • 15h ago
 
 BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.
 
-CoinDesk • 4h ago
+CoinDesk • 11h ago
+
+---
+
+**[Bitcoin flat at $85.3k as soaring yields offset regulatory hopes](https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454)**
+
+Investing.com • 9h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Monday, October 5, 2026: Bitcoin back above $86,000 after higher rate expectations fade](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-5-2026-bitcoin-back-above-86000-after-higher-rate-expectations-fade-114459647.html)**
+
+Bitcoin opened at $86,513.38 on Monday, October 5, 2026, up 2.1% from Sunday's opening price. As of 7:37 a.m. ET this morning, bitcoin dipped to $86,121.88. Ethereum opened at $2,726.72, up 1.5% from Sunday's opening price. The price of ethereum moved slightly lower this morning to $2,717.55 as of 7:37 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[This Company Just Became the World's 2nd-Largest Bitcoin Hoarder and It Has More BTC Than Tesla, SpaceX a](https://www.benzinga.com/crypto/cryptocurrency/26/10/62181930/metaplanet-becomes-worlds-2nd-largest-corporate-bitcoin-holder-now-trailing-only-michael-saylors-strategy)**
+
+Japan-based Metaplanet Inc. is now the world’s second-largest corporate holder of Bitcoin after snapping up another 1,000 BTC on Monday, October 5.
+
+Benzinga • 8h ago
 
 ---
 
@@ -257,7 +259,7 @@ Best Bitcoin commercial I’ve recently seen
 
 In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.
 
-⬆️ 1 • 💬 0 • 1d ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
+⬆️ 1 • 💬 0 • 2d ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
 
 ---
 
@@ -273,7 +275,13 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 Florida voters are weighing whether to scrap residential property taxes and the state's governor has a solution to that potentially huge revenue loss: tax Canadians more.
 
-⬆️ 29 • 💬 42 • 1d ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
+⬆️ 29 • 💬 42 • 2d ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
+
+---
+
+**[My own personal whim, ditching all my devices for my phone](https://news.ycombinator.com/item?id=49977131)**
+
+⬆️ 1 • 💬 0 • 4h ago • [castignoli.it](https://www.castignoli.it/tecnologia/my-own-personal-whim-ditching-all-my-devices-for-my-phone/)
 
 ---
 
@@ -281,13 +289,43 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Whales Are Quietly Making Their Move](https://www.youtube.com/watch?v=WsLBRt8YczQ)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 5K • 👍 481 • 💬 14 • ⏱️ 41:21 • 1h ago
+
+---
+
 **[Why It Might Actually Be Too Late to Buy Bitcoin Soon!](https://www.youtube.com/watch?v=UgD9D5GVd14)**
 
 Bitcoin is closing in on $100000 as the bond market breaks, inflation becomes part of Washington's debt strategy, and real ...
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 109 • ⏱️ 16:08 • 12h ago
+👁️ 44K • 👍 2K • 💬 140 • ⏱️ 16:08 • 19h ago
+
+---
+
+**[Bitcoin Shows Strength: More Upside This Week?](https://www.youtube.com/watch?v=xJc0npv27VM)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 183 • 💬 13 • ⏱️ 12:14 • 2h ago
+
+---
+
+**[BITCOIN: What the F**K did I just see…?](https://www.youtube.com/watch?v=v04Ft3nmxek)**
+
+Bitcoin what now.
+
+📺 MMCrypto
+
+👁️ 19K • 👍 2K • 💬 126 • ⏱️ 4:58 • 5h ago
 
 ---
 
@@ -297,7 +335,7 @@ Crypto Is About To Go NUCLEAR… You've Been Warned ⭐ Follow Altcoin Daily on 
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 117 • ⏱️ 13:41 • 10h ago
+👁️ 69K • 👍 3K • 💬 157 • ⏱️ 13:41 • 17h ago
 
 ---
 
@@ -307,17 +345,7 @@ In today's video, Kyledoops shows you why the next move is not far off from happ
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 577 • 💬 14 • ⏱️ 27:21 • 1h ago
-
----
-
-**[Citi’s Bitcoin Price Target and a Why Sovereign Wealth Fund Traded Gold for Bitcoin](https://www.youtube.com/watch?v=TGR5hDJHQV4)**
-
-Natalie breaks down major institutional signals shaking up macro markets. Citigroup just raised its 12-month Bitcoin price target to ...
-
-📺 Natalie Brunell
-
-👁️ 16K • 👍 386 • 💬 18 • ⏱️ 1:09 • 11h ago
+👁️ 20K • 👍 1K • 💬 21 • ⏱️ 27:21 • 8h ago
 
 ---
 
@@ -327,47 +355,7 @@ The bond market is pushing back, Washington is talking about $5000 checks, and t
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 2K • 💬 153 • ⏱️ 18:16 • 1d ago
-
----
-
-**[HISTORICAL BITCOIN SIGNAL RETURNS… (THIS HAPPENED EVERY TIME)](https://www.youtube.com/watch?v=6UltTCVvOgo)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 6K • 👍 544 • 💬 25 • ⏱️ 8:38 • 5h ago
-
----
-
-**[Bitcoin&#39;s Bullish Signal Is HERE. Economy Expands.](https://www.youtube.com/watch?v=FvjMORjhNa8)**
-
-Bitcoin is one crossover away from its first full bullish moving-average alignment since June 2025 — and U.S. manufacturing just ...
-
-📺 Digital Asset News
-
-👁️ 12K • 👍 494 • 💬 21 • ⏱️ 27:13 • 16h ago
-
----
-
-**[Bitcoin (BTC): No One Is Watching This Hidden Pattern.. HUGE MOVE COMING! (WATCH ASAP)](https://www.youtube.com/watch?v=dC6WGq_-5fc)**
-
-Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Excluding Australian Viewers) 15% off ...
-
-📺 MegaWhale Crypto
-
-👁️ 7K • 👍 433 • 💬 57 • ⏱️ 24:50 • 8h ago
-
----
-
-**[MAJOR Bitcoin Breakout Incoming! Are You Ready?](https://www.youtube.com/watch?v=jTNttJvnjr8)**
-
-A major rally is coming. Sign up for the Crypto Jebb Research Symposium: ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 270 • 💬 17 • ⏱️ 8:16 • 15h ago
+👁️ 42K • 👍 2K • 💬 157 • ⏱️ 18:16 • 1d ago
 
 ---
 
@@ -377,7 +365,27 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Ka
 
 📺 Tyler S
 
-👁️ 16K • 👍 727 • 💬 129 • ⏱️ 11:58 • 13h ago
+👁️ 18K • 👍 784 • 💬 144 • ⏱️ 11:58 • 20h ago
+
+---
+
+**[HISTORICAL BITCOIN SIGNAL RETURNS… (THIS HAPPENED EVERY TIME)](https://www.youtube.com/watch?v=6UltTCVvOgo)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 20K • 👍 814 • 💬 45 • ⏱️ 8:38 • 11h ago
+
+---
+
+**[Institutional Analysis: Bitcoin Make Or Break Week - $97K Or $75K Next?](https://www.youtube.com/watch?v=US01akVg4es)**
+
+No B.S. Just Charts. Bitcoin heads into a make-or-break week, and Gareth Soloway shows the exact bull flag level that decides ...
+
+📺 Gareth Soloway
+
+👁️ 109K • 👍 4K • 💬 232 • ⏱️ 15:03 • 1d ago
 
 ---
 
