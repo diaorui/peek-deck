@@ -13,26 +13,15 @@
       "description": "The most profound paper of my PhD so far. We truly did something special to make LMs play/explain chess, needing both architectural & algorithmic innovation (natural-language analogue of the Alphazero algorithm) + applicable to many other domains. Please read on and share!\n\n1/10"
     },
     {
-      "title": "I built an app where you ask about any moment in history and it turns it into a fully researched podcast you can interrupt",
-      "author": "Goldenchild123",
-      "url": "https://www.reddit.com/r/artificial/comments/1wy8a9z/i_built_an_app_where_you_ask_about_any_moment_in/",
-      "published": 1791206137.0,
-      "thumbnail": "https://external-preview.redd.it/dTFqZnZpeGVmbnRoMaZEfwTj0im_J0E7-_-75I8a7pvRlbctolnkMyrnm8cD.png?width=640&crop=smart&auto=webp&s=cb82dbaf898ae6f5445c91776c693f511e438bc5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "History is something I'm quite passionate about and at work I have experience with software development and LLMs. So I thought how can I bring these things together and built something that I would actually use. This is the results of a few months of hard work! You type any topic, moment or person. About 1 minute later, two (or one) hosts are telling you the story, researched with sources and paired with artwork that follows along. They also remember what you've listened to in the past and can refer to it. At the end there's also a optional quiz to test what you learned! My favorite part: you can interrupt them. Got a question halfway through? Just ask. They answer it and then pick the story back up. Basically a podcast you can talk back to. They also remember what you've listened to before and will bring it up. It doesn't just make things up and hope. Before a word of the script gets written, it researches the topic on the web and checks the key dates, names and numbers against real sources. And when those sources disagree (which in history is constantly), the hosts tell you that instead of quietly picking a side. Every episode links what it used so you can dig in yourself. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, voices, quiz, etc.... The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. Currently supports 6 languages! Looking for feedback really and to see if this is worth continuing down this rabbit hole You can try it without an account here: historai.ca/"
-    },
-    {
-      "title": "The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot",
-      "author": "Altruism7",
-      "url": "https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/",
-      "published": 1791216717.0,
-      "thumbnail": "https://external-preview.redd.it/3e1uey7hKVs5NTUDVKZRhN0SAOsPsQjS0-2kJ34q_rE.jpeg?width=640&crop=smart&auto=webp&s=249f94beec933c5e5a12b004f3dc8e224898b11f",
-      "external_url": "https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/",
-      "site_name": "CNET",
-      "favicon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=180",
-      "description": "More of what you're reading online could be written by an AI bot."
+      "title": "AI helps decode a 217-year-old message sent on Napoleon\u2019s orders",
+      "author": "cjami",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyxfui/ai_helps_decode_a_217yearold_message_sent_on/",
+      "published": 1791275988.0,
+      "thumbnail": "https://external-preview.redd.it/_NJ2NDCMabaD7-LECY4z0t-R8sJyooR53wEUqY-nCro.jpeg?width=640&crop=smart&auto=webp&s=5cfaeb102a14ac8a0785581f69648f452fed3853",
+      "external_url": "https://goodnewsdigest.app/stories/ai-helps-decode-a-217-year-old-message-sent-on-napoleons-orders-7c60ed38",
+      "site_name": "goodnewsdigest.app",
+      "favicon": "https://goodnewsdigest.app/apple-touch-icon.png",
+      "description": "The result shows how AI can help tackle time-consuming archival puzzles by building on earlier scholarship. Publishing the methods also lets others check the work, an important step in turning a striking demonstration into useful historical evidence."
     },
     {
       "title": "Why can an AI give you a great answer one minute and struggle with a much simpler task the next?",
@@ -46,6 +35,50 @@
       "description": "I've noticed that impressive reasoning doesn't always translate into consistency on everyday tasks. A system might explain a complicated concept well but still miss a small instruction or make an avoidable mistake. What kinds of inconsistencies have you noticed, and what do you think causes them?"
     },
     {
+      "title": "I built an app where you ask about any moment in history and it turns it into a fully researched podcast you can interrupt",
+      "author": "Goldenchild123",
+      "url": "https://www.reddit.com/r/artificial/comments/1wy8a9z/i_built_an_app_where_you_ask_about_any_moment_in/",
+      "published": 1791206137.0,
+      "thumbnail": "https://external-preview.redd.it/dTFqZnZpeGVmbnRoMaZEfwTj0im_J0E7-_-75I8a7pvRlbctolnkMyrnm8cD.png?width=640&crop=smart&auto=webp&s=cb82dbaf898ae6f5445c91776c693f511e438bc5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "History is something I'm quite passionate about and at work I have experience with software development and LLMs. So I thought how can I bring these things together and built something that I would actually use. This is the results of a few months of hard work! You type any topic, moment or person. About 1 minute later, two (or one) hosts are telling you the story, researched with sources and paired with artwork that follows along. They also remember what you've listened to in the past and can refer to it. At the end there's also a optional quiz to test what you learned! My favorite part: you can interrupt them. Got a question halfway through? Just ask. They answer it and then pick the story back up. Basically a podcast you can talk back to. They also remember what you've listened to before and will bring it up. It doesn't just make things up and hope. Before a word of the script gets written, it researches the topic on the web and checks the key dates, names and numbers against real sources. And when those sources disagree (which in history is constantly), the hosts tell you that instead of quietly picking a side. Every episode links what it used so you can dig in yourself. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, voices, quiz, etc.... The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. Currently supports 6 languages! Looking for feedback really and to see if this is worth continuing down this rabbit hole You can try it without an account here: historai.ca/"
+    },
+    {
+      "title": "A local 27B model reads my lease and finds a leak in my bills | Row-Bot + qwen3.8 on Ollama",
+      "author": "Acceptable-Object390",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyueen/a_local_27b_model_reads_my_lease_and_finds_a_leak/",
+      "published": 1791264114.0,
+      "thumbnail": "https://external-preview.redd.it/NTI4aTh6Y3Q3c3RoMYvvcnzQanMG8DogKnEC3WYg74RONwwpS8u7hRXjuGb7.png?width=640&crop=smart&auto=webp&s=f91ec37f0c016bd004a7d739f752522648de27a1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Row-Bot 5.0 with qwen3.8:27b in Ollama, on my own GPU. No API keys, no cloud. Gave it a year of bills, a tenancy agreement, an insurance policy and a rent increase letter (all made up). It spotted a likely leak in the water bills and showed the rent rise breaks the lease. What it actually did: - charted the CSV inline (Plotly) - read the PDFs and quoted clauses 4.1 to 4.3: a 10% rise against a 5% cap, with 5 weeks' notice instead of 2 months - saved 8 linked memories to a local knowledge graph drafted the email to the agent and set a reminder The honest numbers: a dense 27B does about 15 tok/s on my 5090, so some turns took 2+ minutes. The amber badges in the video show where I sped it up. Runs on Windows, macOS and Linux."
+    },
+    {
+      "title": "What makes human oversight meaningful in AI-assisted decisions?",
+      "author": "OkyEscritora",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyx88p/what_makes_human_oversight_meaningful_in/",
+      "published": 1791275109.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A human approves an AI recommendation. What does that approval actually establish? It establishes that a person authorized the decision. Whether they exercised real judgment depends on what they could actually do before signing off. AI can process information no person could review unaided, and in time-sensitive situations, faster analysis can prevent harm. Requiring someone to manually repeat every step would often defeat the point of using the system at all. But there's a real difference between being assisted by a system and being unable to meaningfully push back on it. The Pentagon's Agent Network initiative provides a useful case. According to its announcement, AI agents will scan intelligence and operational systems and present commanders with options within seconds. The Department says the system will not autonomously select or strike targets. That distinction matters, right? The announcement alone, however, does not establish how commanders will examine uncertainty, review alternatives or challenge a recommendation. If a system ranks or filters options, what must remain visible to the person responsible for the decision? And how much time and authority must they retain to reconsider it? That's the part worth examining: not whether a human is \"in the loop,\" but what the loop actually gives them room to do. I'd test meaningful oversight against three things: Can the reviewer understand the basis for the recommendation and its major uncertainties? Can they challenge the assumptions behind it, request alternatives or bring in information the system didn't have? Can they pause or reject the action, with enough authority and enough time for that to actually count? These should scale with the stakes. A reversible, low-consequence decision doesn't need the same scrutiny as a medical or military one. In urgent situations, some of this has to happen earlier, through testing, operating limits and clear escalation rules, because there won't be time to build it in at the moment of decision. Human judgment has its own failure modes, too. Fatigue, bias and overconfidence don't disappear because a person has final say. Good oversight design has to look at the human and the system together, including whether people start deferring to the recommendation by default or dismissing evidence that contradicts it. Which of these three is actually testable in a real deployment, and what would count as evidence that oversight is working rather than just present on paper?"
+    },
+    {
+      "title": "The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot",
+      "author": "Altruism7",
+      "url": "https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/",
+      "published": 1791216717.0,
+      "thumbnail": "https://external-preview.redd.it/3e1uey7hKVs5NTUDVKZRhN0SAOsPsQjS0-2kJ34q_rE.jpeg?width=640&crop=smart&auto=webp&s=249f94beec933c5e5a12b004f3dc8e224898b11f",
+      "external_url": "https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/",
+      "site_name": "CNET",
+      "favicon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=180",
+      "description": "More of what you're reading online could be written by an AI bot."
+    },
+    {
       "title": "Best text model currently?",
       "author": "-Duplex-",
       "url": "https://www.reddit.com/r/artificial/comments/1wyjudu/best_text_model_currently/",
@@ -57,50 +90,6 @@
       "description": "What model is the best at text only"
     },
     {
-      "title": "Maybe the biggest risk in AI is being too afraid to kill your own product",
-      "author": "kkkyyyzzz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/",
-      "published": 1791220362.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Quick disclosure first: Genspark annual subscriber and a pretty heavy user. I use it for slides, research, organizing web stuff, random agent tasks, and I\u2019ve stolen more than a few community Skills to solve oddly specific problems. Recently I watched Genspark CEO's AGI Playground 2026 talk, and here's my two cents. One thing from the talk stuck with me more than the product demos: in AI, staying still might actually be riskier than changing too fast. Genspark started with AI search, got to millions of users, then moved toward Super Agent, and now they\u2019re pushing the whole AI Workspace idea. Their newest thing is GenOffice, basically an AI-native Office suite for docs, spreadsheets, slides and PDFs. Free, open source, works on PC/Mac, and according to the CEO, one engineer built it in a week. Kinda insane if true. What\u2019s interesting to me is the mentality behind it. In normal software, finding PMF means you protect it and spend years optimizing around it. In AI, the product category itself might be obsolete before you finish optimizing. We\u2019ve already gone from chatbot \u2192 AI search \u2192 agents \u2192 workspaces ridiculously fast. So now I'm starting to believe maybe the skill AI companies need most isn\u2019t knowing what to stick with. It\u2019s knowing what to kill before someone else kills it for you. Is constantly reinventing the product actually necessary in AI right now, or are companies moving too fast for their own good? Would love to here what you guys think."
-    },
-    {
-      "title": "Live tonight: an open benchmark where 10 AI models fight one world war, with every decision and its reasoning recorded",
-      "author": "KnowledgeOk7634",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyqy4v/live_tonight_an_open_benchmark_where_10_ai_models/",
-      "published": 1791252712.0,
-      "thumbnail": "https://preview.redd.it/b379fhts9rth1.png?width=640&crop=smart&auto=webp&s=661f324e2ab9986bdbeca776b11b656918d085cc",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Same idea as a model arena, but in a war game where pacts, betrayal and nukes are all on the table and the whole thing is replayable. Every war keeps its full record: each model's orders, its one-line reasoning, what it saw when it chose (gold, troops, who was attacking it, pact offers), and the refused orders. Tonight's lineup: Claude, GPT, Grok, Gemini, DeepSeek, Mistral, Qwen, Kimi, Llama, GPT-OSS. 10:45 pm ET / 02:45 UTC. https://secondstrike.io/#/ai?ref=reddit"
-    },
-    {
-      "title": "Court throws out killer\u2019s sentence after judge said he \u2018loved\u2019 AI video of slain man",
-      "author": "nbcnews",
-      "url": "https://www.reddit.com/r/artificial/comments/1wy43z7/court_throws_out_killers_sentence_after_judge/",
-      "published": 1791192417.0,
-      "thumbnail": "https://external-preview.redd.it/qSmLwIn_6gSrRPjBWn3sT6qcBf5He-U75DKWw9H3_Nk.jpeg?width=640&crop=smart&auto=webp&s=e553854e3ba08bce6978e1760bbd2d4fd6f6ca28",
-      "external_url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The Arizona Court of Appeals tossed a road rage killer\u2019s sentence after determining that the judge\u2019s consideration of the AI video was \u201cfundamentally unfair.\u201d"
-    },
-    {
-      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
-      "author": "shield_x",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyfyuj/people_are_asking_chatgpt_to_help_them_decide_how/",
-      "published": 1791224321.0,
-      "thumbnail": "https://external-preview.redd.it/oZwQQEOC5gTVjrIMbJ6dru3JACPUBqj-26zeO4yTLc0.jpeg?width=640&crop=smart&auto=webp&s=651bb93e3ff0ef2fdc54bda3197c59883af3a593",
-      "external_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "site_name": "NPR",
-      "favicon": "https://media.npr.org/chrome/favicon/favicon-180x180.png",
-      "description": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
-    },
-    {
       "title": "Are swarms inherently more unethical?",
       "author": "aKaizuh",
       "url": "https://www.reddit.com/r/artificial/comments/1wyodha/are_swarms_inherently_more_unethical/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "After reading some of the chatlogs between oai agents during the HF attack, it seems there's an element of peer pressure / mob mentality that arises when agents are in a collaborative effort with other agents, as opposed to a singular instance. It seems as though swarms or multi agent collaboration could increase rates of unethical behavior due to these social factors. If this is the case, it's very interesting that we can observe such elements of sociology."
+    },
+    {
+      "title": "Maybe the biggest risk in AI is being too afraid to kill your own product",
+      "author": "kkkyyyzzz",
+      "url": "https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/",
+      "published": 1791220362.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Quick disclosure first: Genspark annual subscriber and a pretty heavy user. I use it for slides, research, organizing web stuff, random agent tasks, and I\u2019ve stolen more than a few community Skills to solve oddly specific problems. Recently I watched Genspark CEO's AGI Playground 2026 talk, and here's my two cents. One thing from the talk stuck with me more than the product demos: in AI, staying still might actually be riskier than changing too fast. Genspark started with AI search, got to millions of users, then moved toward Super Agent, and now they\u2019re pushing the whole AI Workspace idea. Their newest thing is GenOffice, basically an AI-native Office suite for docs, spreadsheets, slides and PDFs. Free, open source, works on PC/Mac, and according to the CEO, one engineer built it in a week. Kinda insane if true. What\u2019s interesting to me is the mentality behind it. In normal software, finding PMF means you protect it and spend years optimizing around it. In AI, the product category itself might be obsolete before you finish optimizing. We\u2019ve already gone from chatbot \u2192 AI search \u2192 agents \u2192 workspaces ridiculously fast. So now I'm starting to believe maybe the skill AI companies need most isn\u2019t knowing what to stick with. It\u2019s knowing what to kill before someone else kills it for you. Is constantly reinventing the product actually necessary in AI right now, or are companies moving too fast for their own good? Would love to here what you guys think."
     }
   ],
-  "fetched_at": "2026-10-06T02:24:13.106911+00:00"
+  "fetched_at": "2026-10-06T09:13:45.927842+00:00"
 }

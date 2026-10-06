@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "\u2018Pull the plug\u2019: protesters resort to direct action against AI firms",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ZUTndlU0xvQTEydXlpbmJPYW5IaDJ1UlVZRUY1Y3ZIQzVTVnJVYjc4Z0I2VVMxUEdEMDJHTHk1cWJBd3pvdlJLekUzMmxLTEpCSndBS2Z6dzk2NDdxWlBLWnpIYWRmc2JNaERfSHNZVWJrUEtZdU42MVFxNzFxaFQteG1vN2ROdlI4djMzMm45akxjendfaG5zMW9xU0lOUTdYaHo1NzFwMVY5SXQ1MEcxMERhLTg?oc=5",
+      "pub_date": 1791266400.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "image": "https://i.guim.co.uk/img/media/c8e5d42e1a557862182577de9c2f72e61899aec2/237_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc1568b115a83284e06a9a1290784db9",
+      "description": "Campaign groups report surge in membership after a spate of AI safety alerts and apocalyptic warnings"
+    },
+    {
       "headline": "People are asking ChatGPT to help them decide how to vote in the midterms",
       "source": "NPR",
       "source_url": "https://www.npr.org",
@@ -15,96 +25,86 @@
       "description": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
     },
     {
-      "headline": "High Interest Rates Aren\u2019t Slowing the A.I. Boom. That\u2019s a Problem for the Fed.",
+      "headline": "Latino group bets on bilingual AI to cut voter confusion before the midterms",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43MzFyWnVBMzVrNkFJdXJiNGhqbzJJd3R4WC1EQ3JzT0JhNWxNZWNuQXBjd0FaYTg5cHYyS08yS0p5WFpCRkFyUzRHaWJORHVyVXdIQWhTMG01NDZsTWplSkNLTGE2YlNiVTQ2OWd2QUoycGZLSFN6Vw?oc=5",
+      "pub_date": 1791277352.0,
+      "article_url": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | How A.I. Can Boost Democracy",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-      "pub_date": 1791230750.0,
-      "article_url": "https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wZmNmOFBWOWNuMmpqc2JkODNNTnByVzBsbW5UOXVWMnVoRDBKaDdwTUw2b2ZYTEZENkx5ZXlIMm54c1NTSXJBVlZfQ1ZENUs5WUIyNVhpVEtuWUdwRGtFa2N2OVhvNy1ZWlNScA?oc=5",
+      "pub_date": 1791277331.0,
+      "article_url": "https://www.nytimes.com/2026/10/06/opinion/ai-democracy.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Court Tosses \u200b\u200bSentence After A.I. Video of Victim \u2018Forgiving\u2019 His Killer Is Played",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1Ia3ZTSnVXbXFnNEp6TnBlbDJUOVI5cUNvNDlXRm1NRjc5dXFkTC1CVDI2SXFkaVhlZkUzcE9Vb19pbWwzcDVWZlg0N1ROSzRrME9FWDdMVFRfdURtcFpkWWNuV2Y5SkwzN2RTeVcyVVZMS1kzcUpFcTNlODR6Q2FkcEllWlVDQzMtNVBaY3c3Y2NyaEJSUm82RHU?oc=5",
-      "pub_date": 1791227700.0,
-      "article_url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+      "headline": "Doctors, Patients Shouldn\u2019t Let Fear Define The AI Debate",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXA5UERwV3I3YkpTT0xmcTBmRE9tdTRuVTRhMUU4Z2FtVzVUdVRuakg2cEZJTjBFVFQxNWpwdEVfN19ZUDI1TEt5ZzNqMDdTdDJiYXRXOHdZaFlRdmRUZ2F0TU5UZS11bC1PajRTV2Y4ODFQOXc3RlNTYnJ5cjdVY0NWYUl4M0xvaTdQenBmMWkyZFdER2pjZDFDRmpQOUR5ME9SclEtNHpnNjg2?oc=5",
+      "pub_date": 1791276300.0,
+      "article_url": "https://www.forbes.com/sites/robertpearl/2026/10/06/doctors-patients-shouldnt-let-fear-define-the-ai-debate/",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5",
-      "pub_date": 1791240480.0,
-      "article_url": "https://www.foxbusiness.com/media/ai-expert-gary-marcus-warns-reckless-technology-could-lead-deaths-tech-runs-amok",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/ai-robots-2.jpg?ve=1&tl=1",
-      "description": "NYU Professor Emeritus Gary Marcus warns AI will cause loss of life, saying the White House's self-policing approach leaves infrastructure vulnerable."
-    },
-    {
-      "headline": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
-      "pub_date": 1791216801.0,
-      "article_url": "https://www.bbc.com/news/articles/c5j9x9pr0240o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
-      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools."
-    },
-    {
-      "headline": "Sam Altman to Decoded: \u2018The world should accept some bad things happening\u2019 for the benefits of AI",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
-      "pub_date": 1791147300.0,
-      "article_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "headline": "McDonald's hit with class action alleging AI-powered menu price-fixing",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUw5Q0pUMS0waFlBSmFVcnpTNDNQQlByM0pOUWVtaGc3ekc3MnRVUkhPQjdlaDZxNUpIZ2R4TzFRN0ZGQ2NpOEdIR2ZNM3Nkc2FSMXZMaWN0MlctbzU4WlRSaFZvVm5jckp0N2tBcVJOb29PTDZiSGg0RURVZmhMN3h4NjVFeFYzQkM2UlREc3VPMGpjWEdMbUFKNUFlNGZaUHZB?oc=5",
+      "pub_date": 1791225780.0,
+      "article_url": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Accept \u2018bad things\u2019 in return for benefits of AI, says Sam Altman",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdllLLU13dGI0Z1I5Q3dod3JORXF1b1JfVTJ4TnBYNFpLT0RHNDU0b1hTWUZzbEdueWN4YXphb3B4OVlxQmw5MEFuVkZQa3FHcDhtU25ZVTM3YlFjVHFSRUk3bFZqblBhM0E5WjU1ZHdYVHRpWV9ZRk96bmxkMG9BNWxCZVVlWjNIV0ZGZ0lCQUg4clozcVlV?oc=5",
-      "pub_date": 1791202380.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "image": "https://i.guim.co.uk/img/media/25a7b311b78477fb430906540593c2693953f97f/1129_0_7005_5604/master/7005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a942335238f8a47b2c019cb9337cd56b",
-      "description": "Boss of OpenAI calls for a regulatory light touch because of the \u2018good stuff\u2019 the technology can deliver"
+      "headline": "Their jobs were among the first to be changed by AI. Now some are trying to avoid it",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QeGpPajNUUGU1VlJ4Wk1oY3A2S1ZXd1prRlU5LTJGb21nZVptdWo2XzFOOWVndzNjZVVQQnBYUXVBbVhrbnQ5bEttT0xhVGpTMW9CSWcyYkZvYU5YOGcwc1lNeFhWeTNOVnlLakEtWG5Ddw?oc=5",
+      "pub_date": 1791198044.0,
+      "article_url": "https://www.cnn.com/2026/10/05/tech/software-developers-avoid-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1443552802.jpg?c=16x9&q=w_800,c_fill",
+      "description": "In 2024, software engineer Laura Housh began using AI as a helper for coding and other tasks. Two years later, Housh says she has a love-hate relationship with AI."
     },
     {
-      "headline": "AI safety groups aren\u2019t buying OpenAI\u2019s spending retreat",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEw4dk1PQzRLNjF3OXZnemJtbFRZc0pad1VqaURfVEJYeDEwOXVhaEtpcHY0RzZVM2YwRGtoUGxDTmJpNTNKbUxIRVk5TmNYNEVtc1BZSE1mTnRwZTAzLWpmYlZpdHhNTncxcmsyQU1LdzBvTWRoTzM4a3NrNUZ6S3cxOHRrS2JWazBERnN2NEdRVDd1ME9vTDln?oc=5",
-      "pub_date": 1791246600.0,
-      "article_url": "https://www.politico.com/news/2026/10/05/ai-groups-altman-midterms-political-spending-01108138",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+      "headline": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUIydzZYNjQ4a2RSMEROU0N4RC1NM2JPdXp3RTdtRWVqSjc0Zk5YTU9EWGd2ZEtWSk1JTkZacVkwejgyajZIRlRvMnNsSkkzMFhFbzczNGM4eVVRLXktR19kYjNybkdpVzl4bkpIdHFzRVdYSmlUTjkwR2Z2VjR5cnpSMlRLcEVFSnVlVUN0MTdRLXZERzI1eURTaGxTNllCTndqbtIBqgFBVV95cUxPcVFrM05qVE9lTUtNUUdYV0ZtZ0xNSy1NdGQ2aURSQU1pd3g3ZnA1YlMwbUxPaFZhWlh4bWVwQ3NvalBSajNFZk5DNlA0NjVERUZiLXZ0cmZhMHdRQXo0dVg5elgyTjZsbDR5Sl9KWVJvaVVNZGRKZGFrWlpzak1veGN0Yy1PX3FIWEJCYXl3YlpFMXhnaFg4ZHpkcVMxblp4NTRWM2pRT2FPdw?oc=5",
-      "pub_date": 1791196901.0,
-      "article_url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108372804-1791228644008-gettyimages-2298141611-NYC_AI.jpeg?v=1791228676&w=1920&h=1080",
-      "description": "The leading AI labs facing intensifying scrutiny over their safety and security practices."
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnJmTjNJUXdKOExfRUh0MGdLeVFKSGhLVUdibGIwcGJxSUp0WFBVTXlsamZmN084dnNoNExOZ2QwLTlTZTNSZVREOEh5TTV1M3JPMzBjdmVtZzU4RVQ3alRjX1p4WDhjbFFSWC1iVHN2SmZIdEt3RllEbG8wM0I3RFpFOHFmcVNzT2ZUMVRQb9IBlAFBVV95cUxPUHZPYTZXQzNkQ2VlVGhvSW1ERV92WVE1bGJxVzc0UGo4RERETlFIcGt0U1lhSVQtMU45cEJUVjVkMm94ZnZENXdQQVpzcnhqWTNPZmppUUR0anE5V2FJZVE0WkNWVl93ajNCSTZsTmFQSGVaemRTaGg3UkNYLV9FVmVMaU9pSHBjR3ptNmtPUUFycDA5?oc=5",
+      "pub_date": 1791259617.0,
+      "article_url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108133850-1745207559864-gettyimages-2187282084-200530_0515.jpeg?v=1745207848&w=1920&h=1080",
+      "description": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\""
     },
     {
-      "headline": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTA3OUNCV3JxZTM0NnZBdkJEUzhVN3cxOHhQX2owUVc2Y2lFcXZsZFdMbGtGX0dYWEc1Z2ZPN3FQb0F6X0pRZE9xNDBZdDhJMVhDMEY1cm9XQzJzeHhUS3Q5c3k0aC1penE1UC1LTHJRZWY2VnFIaXpVZEVIakxnZkxsR0U0WE8zbWdTNVhlalhXQmJiSUJRNHNuaEFiV19NZFhxSExZZW9mWWIyN2x2QUhsYlFXUGNmNHh2N0N4MA?oc=5",
-      "pub_date": 1791218807.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing",
-      "image": null,
-      "description": null
+      "headline": "OpenAI CEO says world 'should accept some bad things happening' for AI benefits",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNZlJBY2g1WW1ON1l3Z2ZrdjVzQU1naDZTLWJRa2toUV9rOG9DOU1tYm81dzlGUHRqaTducFlLS0JYcS14blFOSVJKWmR1Nkp6UmlyWlpRY0FOR2hkRFJFSDltZmJvQVRaaVRmeDZyMC1SMlU1MU1CT09rbGI3dTQ?oc=5",
+      "pub_date": 1791247895.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-super-intelligence-trump-altman-10-05",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/201da0d93ded7e1883b49afcfbddf6a7.jpg",
+      "description": "OpenAI CEO Sam Altman says AI\u2019s benefits are worth accepting some risks as President Trump launches a new federal effort focused on U.S. leadership in artificial intelligence."
+    },
+    {
+      "headline": "Our approach to EU text provenance rules",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
+      "pub_date": 1791213148.0,
+      "article_url": "https://openai.com/index/eu-text-provenance/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&h=900&fit=fill",
+      "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-06T02:24:32.659519+00:00"
+  "fetched_at": "2026-10-06T09:14:21.204976+00:00"
 }

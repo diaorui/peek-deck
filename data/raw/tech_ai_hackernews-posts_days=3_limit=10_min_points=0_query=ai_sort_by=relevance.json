@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49946228",
       "author": "Anon84",
       "points": 411,
-      "num_comments": 824,
+      "num_comments": 832,
       "created_at": "2026-10-03T17:44:29Z",
       "object_id": "49946228",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2197497048-e1790790386809.jpg?resize=1200,600",
@@ -37,7 +37,7 @@
       "url": "https://github.com/allenv0/SCM",
       "hn_url": "https://news.ycombinator.com/item?id=49952111",
       "author": "allenleee",
-      "points": 163,
+      "points": 166,
       "num_comments": 73,
       "created_at": "2026-10-04T09:24:52Z",
       "object_id": "49952111",
@@ -79,7 +79,7 @@
       "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "hn_url": "https://news.ycombinator.com/item?id=49957117",
       "author": "signa11",
-      "points": 79,
+      "points": 80,
       "num_comments": 50,
       "created_at": "2026-10-04T19:42:25Z",
       "object_id": "49957117",
@@ -117,6 +117,20 @@
       "site_name": "writings.stephenwolfram.com"
     },
     {
+      "title": "AI Companies Are Parasites",
+      "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
+      "hn_url": "https://news.ycombinator.com/item?id=49969369",
+      "author": "cdrnsf",
+      "points": 66,
+      "num_comments": 36,
+      "created_at": "2026-10-05T19:30:10Z",
+      "object_id": "49969369",
+      "image": "https://www.coryd.dev/api/og-card/posts/2026/ai-companies-are-parasites/460d9712bd71.png",
+      "description": "That's it, right? The whole thing, their entire business model.",
+      "favicon": "https://www.coryd.dev/apple-touch-icon.png",
+      "site_name": "Cory Dransfeldt"
+    },
+    {
       "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
       "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
       "hn_url": "https://news.ycombinator.com/item?id=49946827",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": "aviationa2z.com"
-    },
-    {
-      "title": "Our AI Midwife",
-      "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-      "hn_url": "https://news.ycombinator.com/item?id=49946873",
-      "author": "eatitraw",
-      "points": 64,
-      "num_comments": 65,
-      "created_at": "2026-10-03T19:12:27Z",
-      "object_id": "49946873",
-      "image": "https://substackcdn.com/image/fetch/$s_!SjzD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cee134e-c4cf-4ad4-8796-25cfc2995b37_678x452.jpeg",
-      "description": "A guest post by Drew Housman",
-      "favicon": "https://substackcdn.com/image/fetch/$s_!QZP2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c00a032-defa-44b7-9ab7-b7cc6d88db75%2Fapple-touch-icon-57x57.png",
-      "site_name": "astralcodexten.com"
     }
   ],
-  "total_hits": 495,
+  "total_hits": 491,
   "has_metadata": true,
-  "fetched_at": "2026-10-06T02:24:10.680613+00:00"
+  "fetched_at": "2026-10-06T09:13:45.927579+00:00"
 }
