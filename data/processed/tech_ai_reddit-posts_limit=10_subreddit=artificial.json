@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Has anybody noticed that the problem of machine translation has been, like, solved?",
+      "author": "LostBetsRed",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz903r/has_anybody_noticed_that_the_problem_of_machine/",
+      "published": 1791308543.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "With all the fuss over AI and what it can do, I feel like we've totally glossed over the fact that AI has casually solved something that has been a problem for decades. I was born the year after the microprocessor was invented, and I've kept a very close eye on technology as it has developed. And the problem of machine translation has been with us for a while. It used to be absolutely terrible. Then it got to the point where you could sort of tell what the native speaker who wrote the original was trying to say. And now, it's almost perfectly solved. Give any good LLM a document in one language and ask it to give you the same document in any other, and it's like you asked somebody who was extremely fluent and eloquent in both languages. The language barrier has been cracked. The Universal Translator is here. We have the Babel Fish. And it seems like nobody is talking about it."
+    },
+    {
       "title": "Princeton researchers train a 4B LLM to reach 2700 Elo in chess (with no signs of a plateau when they stopped training) and can explain its moves accurately. They say the training technique can also be applied to other games, robotics, and computer use",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1wypjue/princeton_researchers_train_a_4b_llm_to_reach/",
@@ -24,6 +35,61 @@
       "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models."
     },
     {
+      "title": "Muse help us",
+      "author": "m3nt3_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz6wfo/muse_help_us/",
+      "published": 1791303708.0,
+      "thumbnail": "https://preview.redd.it/xto9t5ulhvth1.jpeg?width=640&crop=smart&auto=webp&s=bc59a2000c99b6af4b8fd93e0c0e8c8ade1aac81",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "People don't Google anymore. They ask AI. And AI doesn't know I exist",
+      "author": "felitram",
+      "url": "https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/",
+      "published": 1791310806.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I run a small law firm. Family law. Wills. Estates. Nothing flashy. But we\u2019re good at what we do. Our clients love us. We get referrals. We\u2019ve been in business for 12 years But I keep hearing the same thing from potential clients. \u201cI asked ChatGPT for a lawyer and your firm didn\u2019t come up.\u201d Or \u201cPerplexity recommended someone else.\u201d It\u2019s happening more and more. People don\u2019t Google anymore. They ask an AI. And the AI recommends someone. Just not us I don\u2019t understand how it works. How does ChatGPT decide which law firm to name? What makes one firm show up and another disappear? Is it based on reviews? Website content? Something else entirely? I found an article by Intercore Technologies and they explain the retrieval mechanism. How AI pulls information from the web. Why some firms don\u2019t make it into the answers. It was technical. A lot of it went over my head. But the gist was clear. If you\u2019re not visible in the right places, you don\u2019t exist I\u2019m not a tech person and I don\u2019t know how to make AI recommend my firm. Is it even possible? Can a small firm compete with the big names?"
+    },
+    {
+      "title": "Meta's Muse agent is creating dossiers on its 4 million users; Interaction data is shared between Muse agent instances",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz9fbj/metas_muse_agent_is_creating_dossiers_on_its_4/",
+      "published": 1791309518.0,
+      "thumbnail": "https://external-preview.redd.it/xz226ySH5_nIBm9wUFfP70zDP0Gk9XcCMF_zz_F1MBY.jpeg?width=640&crop=smart&auto=webp&s=c96c315e3e5d200aa461047993ca008186cd82ff",
+      "external_url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+      "site_name": "TIME",
+      "favicon": "https://time.com/favicon/apple-touch-icon.png",
+      "description": "\"Each hour, Muse updates its dossiers on you and the people you\u2019ve mentioned in chats, messages, and emails that Muse has read. These pages amount to a map of each user\u2019s social relationships. They record details of how you and your contacts met, your shared interests, your disputes, and 'tensions and alliances' within your social group. ... Yet while Meta states that each user\u2019s virtual machine is 'isolated so that no one else's agent can access it,' observations from personal interactions are nevertheless intended to be shared with Meta to improve the product. 'Muse agents across many VMs [virtual machines] teach each other through shared lessons,'\""
+    },
+    {
+      "title": "Chances of AI replacing radiologists?",
+      "author": "avb707",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/",
+      "published": 1791301323.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "After lets say 10 to 20 years."
+    },
+    {
+      "title": "AMA this Friday: Matthew Schwartz (Harvard) \u201cClaude-shaped science,\u201d on r/physics",
+      "author": "VibePhysics",
+      "url": "https://www.reddit.com/r/artificial/comments/1wzbibm/ama_this_friday_matthew_schwartz_harvard/",
+      "published": 1791314229.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Matthew Schwartz, professor of physics at Harvard and author of Quantum Field Theory and the Standard Model, will be doing an AMA this Friday at 12 PM ET. You may have seen his recent Anthropic blog post, \u201cClaude-shaped science,\u201d on using Claude as a research tool and what AI assisted scientific research can actually look like in practice. If you have questions about QFT, particle physics, AI in research, or where this is all heading, come ask him. Friday, October 9 at 12 PM ET."
+    },
+    {
       "title": "Capcom announces plans to transform the RE Engine into an AI-generation game engine \u2014 \u2018Our goal is a future where we create games together with AI\u2019",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/",
@@ -44,73 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I keep telling folks SaaS is dead, and those of you in this sub are probably also thinking along the same lines by now. Personally, I just don\u2019t see companies outspending what the frontier models are capable of doing in terms of ripping SaaS products off. JetBrains for instance, reported it\u2019s first loss in its history. Speculators say the loss was a result of a massive internal investment to remain competitive. Are you kidding me? The entire company is built on products are that are now totally irrelevant as a value proposition. Soon you will not be able to sell software consumers cannot build themselves. And if I can\u2019t build it, as soon as you release your product a model can decomp it. At best, you could sell a \"build anything\" platform to non-technical users, but even for that the barrier to entry for competitors is low e.g. Loveable. So I see things heading in the direction of what the music industry did in the early 2000s: The SaaS giants' underlying business model of subscription based over-priced software (CDs, records, royalties) are no longer competitive. So they maintain status quo by engaging in rights based legislation, anti-decomp agreements with frontier labs, and watermarking their products (digital performing rights encodings, lawsuits for infringers). We are in this metaphor, the artists, creators, and samplers who want freedom to navigate the content, to remix it as we see fit, and progress what\u2019s possible. Will that leave us in a similar boat to independent musicians today? Thoughts?"
-    },
-    {
-      "title": "AI helps decode a 217-year-old message sent on Napoleon\u2019s orders",
-      "author": "cjami",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyxfui/ai_helps_decode_a_217yearold_message_sent_on/",
-      "published": 1791275988.0,
-      "thumbnail": "https://external-preview.redd.it/_NJ2NDCMabaD7-LECY4z0t-R8sJyooR53wEUqY-nCro.jpeg?width=640&crop=smart&auto=webp&s=5cfaeb102a14ac8a0785581f69648f452fed3853",
-      "external_url": "https://goodnewsdigest.app/stories/ai-helps-decode-a-217-year-old-message-sent-on-napoleons-orders-7c60ed38",
-      "site_name": "goodnewsdigest.app",
-      "favicon": "https://goodnewsdigest.app/apple-touch-icon.png",
-      "description": "The result shows how AI can help tackle time-consuming archival puzzles by building on earlier scholarship. Publishing the methods also lets others check the work, an important step in turning a striking demonstration into useful historical evidence."
-    },
-    {
-      "title": "Female AI agents \u2018paid\u2019 less than males, study finds",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz6frn/female_ai_agents_paid_less_than_males_study_finds/",
-      "published": 1791302618.0,
-      "thumbnail": "https://external-preview.redd.it/Qs2nmV14fUEVmy5d2ynao8G7d0MyPDDqJVhFyDJwom4.jpeg?width=640&crop=smart&auto=webp&s=3e65826c36417340a440cefe83a2e1e91116556f",
-      "external_url": "https://www.independent.co.uk/tech/ai-gender-pay-gap-study-b3061881.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "Gender pay gap extends to artificial intelligence agents as female bots paid 10 per cent less than male counterparts"
-    },
-    {
-      "title": "Where does sim-to-real transfer actually work reliably right now?",
-      "author": "vekswz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz5yyq/where_does_simtoreal_transfer_actually_work/",
-      "published": 1791301527.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most papers claim great results in simulation but deployment videos are rare. Boston Dynamics and a few others clearly have it figured out for locomotion, but manipulation in messy homes seems stuck. Is the gap mostly sensor noise, actuator modeling, or something else?"
-    },
-    {
-      "title": "Chances of AI replacing radiologists?",
-      "author": "avb707",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/",
-      "published": 1791301323.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "After lets say 10 to 20 years."
-    },
-    {
-      "title": "Ready To Sketch Your Prompts?",
-      "author": "ShronkPonk",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz32g3/ready_to_sketch_your_prompts/",
-      "published": 1791294481.0,
-      "thumbnail": "https://external-preview.redd.it/NTBoNzM0aTBxdXRoMdFzgElsGgWzsrE7NKGRo1ul44lgJsWs9GfvEb2R5iFP.png?width=640&crop=smart&auto=webp&s=00bb06b2c1ff4cf0f6c4f2222bdfe90537fbdd6b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Tired of taking screenshots, recording screens, and writing paragraph long prompts just to explain simple visual edits. So I built an open-source tool that acts like an agentic canvas letting you point, doodle, and visually direct an agent straight from your workspace. It\u2019s been surprisingly useful across fullstack dev, simulation, and robotics tasks. My main takeaway from building this: visual toolbars and canvas annotations should be standard high level abstraction layers across agentic platforms, customized to specific domains. Curious to hear your thoughts: Does visual direction fit into your current agent workflows? What specific tools/functionality would you want in a visual agent interface? Have Fun! Github Repo: https://github.com/Shahar-Nadiv/colai-clawhub Waitlist For New Features / newsletter: https://shahar-nadiv.github.io/colai-clawhub/"
-    },
-    {
-      "title": "What makes human oversight meaningful in AI-assisted decisions?",
-      "author": "OkyEscritora",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyx88p/what_makes_human_oversight_meaningful_in/",
-      "published": 1791275109.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A human approves an AI recommendation. What does that approval actually establish? It establishes that a person authorized the decision. Whether they exercised real judgment depends on what they could actually do before signing off. AI can process information no person could review unaided, and in time-sensitive situations, faster analysis can prevent harm. Requiring someone to manually repeat every step would often defeat the point of using the system at all. But there's a real difference between being assisted by a system and being unable to meaningfully push back on it. The Pentagon's Agent Network initiative provides a useful case. According to its announcement, AI agents will scan intelligence and operational systems and present commanders with options within seconds. The Department says the system will not autonomously select or strike targets. That distinction matters, right? The announcement alone, however, does not establish how commanders will examine uncertainty, review alternatives or challenge a recommendation. If a system ranks or filters options, what must remain visible to the person responsible for the decision? And how much time and authority must they retain to reconsider it? That's the part worth examining: not whether a human is \"in the loop,\" but what the loop actually gives them room to do. I'd test meaningful oversight against three things: Can the reviewer understand the basis for the recommendation and its major uncertainties? Can they challenge the assumptions behind it, request alternatives or bring in information the system didn't have? Can they pause or reject the action, with enough authority and enough time for that to actually count? These should scale with the stakes. A reversible, low-consequence decision doesn't need the same scrutiny as a medical or military one. In urgent situations, some of this has to happen earlier, through testing, operating limits and clear escalation rules, because there won't be time to build it in at the moment of decision. Human judgment has its own failure modes, too. Fatigue, bias and overconfidence don't disappear because a person has final say. Good oversight design has to look at the human and the system together, including whether people start deferring to the recommendation by default or dismissing evidence that contradicts it. Which of these three is actually testable in a real deployment, and what would count as evidence that oversight is working rather than just present on paper?"
     }
   ],
-  "fetched_at": "2026-10-06T16:07:55.370332+00:00"
+  "fetched_at": "2026-10-06T21:06:57.979518+00:00"
 }

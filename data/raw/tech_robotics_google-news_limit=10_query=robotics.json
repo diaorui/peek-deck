@@ -5,84 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
-      "pub_date": 1791183600.0,
-      "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
+      "headline": "Mixed Human Feelings After a Day at a Park Full of Robots",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
+      "pub_date": 1791309060.0,
+      "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Orbital Robotics gets set to send up a pair of arms for International Space Station\u2019s robots",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZU5pb2hNZXRWRk1DUmdnU2FGcGVjcGF2dnV4dUxpNkt3ZXp6RDM3T08tMTNlLVdxempVVzJBMkxOWGRIOXBkSXN5blBCaVJWejRaOVF5RjNvZXJHZDhFZnBHV3Y2Tl9KTGpCRW9tdmFCMGhxV3Z6MHBMZmdoTHlkaXd2Y3VtdE0?oc=5",
-      "pub_date": 1791205200.0,
-      "article_url": "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
-      "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
+      "headline": "These Robots Built BMWs, Then Hurled Themselves Into Molten Steel",
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBYZzhQanlmVXk4bVN3cG8yckF0YXlJV1F3SmFDcWdtWlNHakFjMzdTRHo3b3V1dGVuaGtDWDh4VldHdkRucU92VGxaMkdIemltcHo5OEJHNVd3LXE3WkdNRWY2QlFPT1J0bkd6QVZnaE5HRFN2cVlCUnpsRmx2bFQtN0FoM3ZxaVkzeDZiUnFsYV9ZOW55T1Nn?oc=5",
+      "pub_date": 1791303800.0,
+      "article_url": "https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-115500.jpg?quality=85&w=1200",
+      "description": "A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies."
     },
     {
-      "headline": "Hundreds of soldiers transfer to newly created jobs in robotics and space",
-      "source": "Task & Purpose",
-      "source_url": "https://taskandpurpose.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VN1IxblIzVDNtVDZDRlRWOXgwLWt6ZmVXUVJoVW5kQnJ3QmJYSGNOeUNPci0zUmdlb015WjdwR3ZNdFJYeEZqZlVjYm9paHFTV0NHZVp1TWdrVS1CZG1VRkZrczNlSVU?oc=5",
-      "pub_date": 1791229376.0,
-      "article_url": "https://taskandpurpose.com/news/army-space-robotics-mos/",
-      "image": "https://taskandpurpose.com/wp-content/uploads/2026/10/9982109.jpg?w=1200",
-      "description": "10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field."
-    },
-    {
-      "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
-      "source": "ft.com",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
-      "pub_date": 1791075684.0,
-      "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
-    },
-    {
-      "headline": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmlTd3pkVVhWY2pBYnY3OGhQMkNNNmVHN2dmdGVPRVROOUJURndpMXYtcjdtbkVmMUNuZTlnUXNZUHV6RmU5OFdNUGE3LW9kNV82TldhUzhhZTdlaGRIV2FwSklKdm9BVUdlMHNsY1R2ejROa3lFLTBPZ2FGbFYyelNfQWRtMGttVnV3Z3ZFNnhpaUFnMXZTR2tXWm5pSDFDVW9ETHlHeUM5OExIY2tjZElLaDNVTHkxS1pxS3cwWnpRdw?oc=5",
-      "pub_date": 1791198000.0,
-      "article_url": "https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html",
-      "image": "https://mmx.prnewswire.com/media/MS1884416/Agility-Logo.jpg?id=OA2986085&p=facebook",
-      "description": "/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project..."
-    },
-    {
-      "headline": "Panasonic to make humanoid robots, leveraging its battery business",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUo0Qy12TDJqcGpPblJ1VjY1MjhRTG1QZHZQWkRXcVpWQTY1WDVvWUJhUDNnbHB4WWZMekwxaWloSHlvcGoySXczNXJIWnZWR19hcWhhNFllQzl2MTlrUVQ5VF9IUjdzZTMzVGMyclJRZWJ5V2djLXI0SXZ0UGZBS2ZCRmkyUnQ2QnY2YndYdWtXbFgtZjNpT3VScno2bExFY2xzOGlBYzhFTGNKMWc?oc=5",
-      "pub_date": 1791184320.0,
-      "article_url": "https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F7%2F9%2F13279762-1-eng-GB%2Fc134ff9ca8c3-photo_SXM2026093000011998.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-      "description": "Company aims to start production by 2029; machines to work in plants, warehouses"
-    },
-    {
-      "headline": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFlpUTlaU0ljYnlqel84dHRjcC01UXlHN0huRGxRa19MSjYyOUJwX2dPZEhCZG9vclVZWHdKc0tTN2NUTDVOM1hkVU1wMC1NZDdhMDVyNUhnZDlnUlFKWmFxU1RZYVRwWmpYTEtMTW5hckctcFJ4TDBtZ2NJX2pCc3FOVVB5ZllLcWJnNGd2bzdHS3N0VDNzRDZGRWFFeDJxRlE?oc=5",
-      "pub_date": 1791288017.0,
-      "article_url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10",
-      "image": "https://i.insider.com/6ac41bbd225e4c4a50a38278?width=1200&format=jpeg",
-      "description": "A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used."
-    },
-    {
-      "headline": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1dMdGNfaDloUGZpUVlrQ0xjbi02X2Z2WXRiOVQtSlpUT1pRSVM2TGF3WkpSSXNGT0g5Z2lJNlNsS3hEaGNqOWNVeWxLRndaazJ1RkxNNFZyUzRGSGJjNU9VdDQ2VlFvRHFzQV9YbThnZ0ZibFRZVGxFdDFtQzhmR0lrVktfSUMzMldoYk9XbUtGZ0JJWEtXa0lwNzR1N2s?oc=5",
-      "pub_date": 1791201600.0,
-      "article_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg?resize=1200,800",
-      "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
+      "headline": "Human vs humanoid robot cage fight goes viral",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NV3Z3YWRWLW5mMFVvbVZwaWRjNmlYWUxWRHhSSThJdU9vczFuV01XUGZtT2VKdWVaYkc3OWlZdlZ3M0FGRmIwdVNzOU0yWW1tYzB5NW5ISFNSUWVvWEtKWlFwZGNUa3hGT1hmRWdHcXBQOUZLU3FYSkg5U0JBcGPSAYQBQVVfeXFMT2pVVDJuUmdqZEM0eGFHaGdWZEtuVi1DLTA2MjI2bHZIcURJcXgwVEhXMGgyWjJ1THJlbi1GSWNHdkEwSWRkei1jUnhscnpYaTdJWUxwYW55eEZ5bHpGU0g2SGJUSTlJZDBKbE00bkhyMXBvOGZPSUhWemYyNGlqekVSZlJE?oc=5",
+      "pub_date": 1791206774.0,
+      "article_url": "https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/humanoid-human-boxing-match.jpg",
+      "description": "Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force.."
     },
     {
       "headline": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order \u2014 regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids",
@@ -95,16 +45,66 @@
       "description": "It\u2019s Real Steel come to life."
     },
     {
-      "headline": "Australian robotics company chooses Huntsville for U.S. HQ, manufacturing facility",
-      "source": "AL.com",
-      "source_url": "https://www.al.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGhwR1ZqdUswM0ZXMjFieWl4by1RNlZiNEpjdmlJRkhiTXRoczduMm1wODZ0b2hrNmZrZUFwN1VpeWdGVEhiSEZoanFLQy13bklwRGFmbmFvVHNUM29UcFN1ZGh5bkRiZERhejZxOGYzeUgyM0VmQ1NsNnBidUVVbHNyMDdTX0hhRzhBRDVKZVo3VkdRa0dRUGZZeXRmdWNDZzdrbHlkNkdJal9Qd1Y5ZTc5RnRCc2FGQ0ZFNmNjVktjS0REa3c?oc=5",
-      "pub_date": 1791198300.0,
-      "article_url": "https://www.al.com/news/huntsville/2026/10/australian-robotics-company-chooses-huntsville-for-us-hq-manufacturing-facility.html",
+      "headline": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmlTd3pkVVhWY2pBYnY3OGhQMkNNNmVHN2dmdGVPRVROOUJURndpMXYtcjdtbkVmMUNuZTlnUXNZUHV6RmU5OFdNUGE3LW9kNV82TldhUzhhZTdlaGRIV2FwSklKdm9BVUdlMHNsY1R2ejROa3lFLTBPZ2FGbFYyelNfQWRtMGttVnV3Z3ZFNnhpaUFnMXZTR2tXWm5pSDFDVW9ETHlHeUM5OExIY2tjZElLaDNVTHkxS1pxS3cwWnpRdw?oc=5",
+      "pub_date": 1791198000.0,
+      "article_url": "https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html",
+      "image": "https://mmx.prnewswire.com/media/MS1884416/Agility-Logo.jpg?id=OA2986085&p=facebook",
+      "description": "/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project..."
+    },
+    {
+      "headline": "New RP1 humanoid for open-source robotics research unveiled by RoboParty",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2tfeDBQWUN4U3I0UEwzYlppUjB4SXliTXZrSTk2RTRWdXBOWHRzcXNJLXRWdDlOQWJOdDVFc0ZfR1d3X2o4dHV0cDFJXzc4NWxMUllYZ1JTN2ZDUjdPSVFCRjduU0VnRmFoOWtWeHhLN2VrWmNYSU9lR0dscWVEVDkzMXo2YlYwbnp5LTRHaTFRSVV4Q1E?oc=5",
+      "pub_date": 1791206640.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-design-8.jpg",
+      "description": "RoboParty unveils RP1, a full-stack open-source humanoid robot for research, education and embodied AI development at IROS 2026."
+    },
+    {
+      "headline": "Panasonic to make humanoid robots, leveraging its battery business",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUo0Qy12TDJqcGpPblJ1VjY1MjhRTG1QZHZQWkRXcVpWQTY1WDVvWUJhUDNnbHB4WWZMekwxaWloSHlvcGoySXczNXJIWnZWR19hcWhhNFllQzl2MTlrUVQ5VF9IUjdzZTMzVGMyclJRZWJ5V2djLXI0SXZ0UGZBS2ZCRmkyUnQ2QnY2YndYdWtXbFgtZjNpT3VScno2bExFY2xzOGlBYzhFTGNKMWc?oc=5",
+      "pub_date": 1791184320.0,
+      "article_url": "https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F7%2F9%2F13279762-1-eng-GB%2Fc134ff9ca8c3-photo_SXM2026093000011998.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "Company aims to start production by 2029; machines to work in plants, warehouses"
+    },
+    {
+      "headline": "YouTuber Fights Humanoid Robots in Unsanctioned MMA Bout",
+      "source": "PCMag",
+      "source_url": "https://www.pcmag.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZExmaE54YW1FQmtYVzdSMWo4NzJyRE95QWliYmJpZ1ViSy1Nb0FGNTJ1b244QXZXaE4xX3BtdFBodjEtZVp3WHFORUlrN21RRWx1OUI5NmFkdFg3QmhkU2NMVWFSRW9GRk9YUk1PWnVubWNJNC1UMlZTUHJuS2lySHphT3FybVMyNHJJ?oc=5",
+      "pub_date": 1791220857.0,
+      "article_url": "https://www.pcmag.com/news/youtuber-fights-humanoid-robots-in-unsanctioned-mma-bout",
+      "image": "https://i.pcmag.com/imagery/articles/068ueVq3deC0R8v8ZjIDkRD-1.fit_lim.size_1200x630.v1791215519.jpg",
+      "description": "Frankie LaPenna held his own against the smaller ones, but the Terminator bot seemed ready for the challenge. The California State Athletic Commission was not impressed."
+    },
+    {
+      "headline": "New humanoid robot built in five months remotely handles bombs, hazardous energy jobs",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTNpOURjM2FWYl9ZQVgwMTY1THBpWWQ3dFNrWDdVM0draG1ITmZwVVhmVXhZUE5tejAtSS01aUFDTm94TkpIZGlRa1ZodnUwT2pQTmdLdTFPOTNvSWZwaXVGOS1KNzNzdFQ0RDkzUEhrNTJJenUyc1BpRkZZM3AzX0FDbjlwanJ3eHlNMlA3S3A?oc=5",
+      "pub_date": 1791311880.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-bomb-disposal-energy-jobs",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-07T000544.005.jpg",
+      "description": "A humanoid built in five months lets specialists remotely handle explosives and hazardous energy equipment."
+    },
+    {
+      "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
+      "pub_date": 1791183600.0,
+      "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-06T16:08:19.046823+00:00"
+  "fetched_at": "2026-10-06T21:07:21.980113+00:00"
 }

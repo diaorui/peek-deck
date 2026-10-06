@@ -1,6 +1,25 @@
 {
   "papers": [
     {
+      "id": "2610.05608",
+      "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+      "authors": "Team Kandinsky, Julia Agafonova, Bulat Akhmatov et al. (88 authors)",
+      "organization_name": "kandinskylab",
+      "organization_fullname": "Kandinsky Lab",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/60991602f7c9c7bf29603a88/oDAZ2f49nmDJKICzgHglO.png",
+      "summary": "We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.05608",
+      "arxiv_url": "https://arxiv.org/abs/2610.05608",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05608.png",
+      "upvotes": 113,
+      "num_comments": 2,
+      "published_at": "2026-10-03T20:00:00.000Z",
+      "github_repo": "https://github.com/kandinskylab/kandinsky-6",
+      "github_stars": 119,
+      "project_page": "https://kandinskylab.ai/"
+    },
+    {
       "id": "2609.18063",
       "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
       "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
@@ -16,27 +35,8 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 3203,
+      "github_stars": 3293,
       "project_page": null
-    },
-    {
-      "id": "2609.05415",
-      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-      "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
-      "organization_name": "princetonu",
-      "organization_fullname": "Princeton University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/b3xXusq8Zz3ej8Z6fRTSZ.png",
-      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to arbitrary kinematic trees via the graph Laplacian; and (3) a global topological conditioner attention-pooled from the rest-pose skeleton. We also curate UniML3D, 13,006 motion sequences spanning bipedal, quadrupedal, avian, marine, insectoid, serpentine, and articulated rigid objects with unified canonicalization and text pairing. Trained on this dataset, UniMate outperforms state-of-the-art baselines in quality, generalization, and efficiency, and supports zero-shot cross-topology transfer, in-betweening, expansion, and text-guided editing. Our project page is available at https://linzhanmou.com/unimate/.",
-      "ai_summary": "UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.",
-      "hf_url": "https://huggingface.co/papers/2609.05415",
-      "arxiv_url": "https://arxiv.org/abs/2609.05415",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
-      "upvotes": 22,
-      "num_comments": 2,
-      "published_at": "2026-09-03T20:00:00.000Z",
-      "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 1495,
-      "project_page": "https://linzhanmou.com/unimate/"
     },
     {
       "id": "2412.20138",
@@ -56,6 +56,25 @@
       "github_repo": "https://github.com/tauricresearch/tradingagents",
       "github_stars": 109923,
       "project_page": null
+    },
+    {
+      "id": "2609.05415",
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
+      "organization_name": "princetonu",
+      "organization_fullname": "Princeton University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/b3xXusq8Zz3ej8Z6fRTSZ.png",
+      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to arbitrary kinematic trees via the graph Laplacian; and (3) a global topological conditioner attention-pooled from the rest-pose skeleton. We also curate UniML3D, 13,006 motion sequences spanning bipedal, quadrupedal, avian, marine, insectoid, serpentine, and articulated rigid objects with unified canonicalization and text pairing. Trained on this dataset, UniMate outperforms state-of-the-art baselines in quality, generalization, and efficiency, and supports zero-shot cross-topology transfer, in-betweening, expansion, and text-guided editing. Our project page is available at https://linzhanmou.com/unimate/.",
+      "ai_summary": "UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.",
+      "hf_url": "https://huggingface.co/papers/2609.05415",
+      "arxiv_url": "https://arxiv.org/abs/2609.05415",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
+      "upvotes": 22,
+      "num_comments": 2,
+      "published_at": "2026-09-03T20:00:00.000Z",
+      "github_repo": "https://github.com/Friedrich-M/UniMate",
+      "github_stars": 1517,
+      "project_page": "https://linzhanmou.com/unimate/"
     },
     {
       "id": "2609.33325",
@@ -115,6 +134,25 @@
       "project_page": null
     },
     {
+      "id": "2609.33439",
+      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+      "authors": "EverMind AI",
+      "organization_name": "EverMindAI",
+      "organization_fullname": "EverMind",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68c0e2432d6dd107416d3f37/xkxLPRUJRIboDe1mClCqX.png",
+      "summary": "As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.33439",
+      "arxiv_url": "https://arxiv.org/abs/2609.33439",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
+      "upvotes": 565,
+      "num_comments": 3,
+      "published_at": "2026-09-26T20:00:00.000Z",
+      "github_repo": "https://github.com/EverMind-AI/Raven",
+      "github_stars": 5227,
+      "project_page": "https://raven.evermind.ai/"
+    },
+    {
       "id": "2510.22200",
       "title": "LongCat-Video Technical Report",
       "authors": "Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)",
@@ -130,46 +168,8 @@
       "num_comments": 5,
       "published_at": "2025-10-25T03:41:02.000Z",
       "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 8975,
+      "github_stars": 8986,
       "project_page": null
-    },
-    {
-      "id": "2609.33439",
-      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
-      "authors": "EverMind AI",
-      "organization_name": "EverMindAI",
-      "organization_fullname": "EverMind",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68c0e2432d6dd107416d3f37/xkxLPRUJRIboDe1mClCqX.png",
-      "summary": "As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.33439",
-      "arxiv_url": "https://arxiv.org/abs/2609.33439",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 563,
-      "num_comments": 3,
-      "published_at": "2026-09-26T20:00:00.000Z",
-      "github_repo": "https://github.com/EverMind-AI/Raven",
-      "github_stars": 5227,
-      "project_page": "https://raven.evermind.ai/"
-    },
-    {
-      "id": "2610.03715",
-      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-      "authors": "Ruihong Shen, \u017diga Kova\u010di\u010d, Peter Kulits et al. (9 authors)",
-      "organization_name": "4DCodeBench",
-      "organization_fullname": "4DCodeBench",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67da5d78c26b438852206b05/D47o5Qc9TBn0psGcxMHRY.webp",
-      "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progress toward agents that can interpret the dynamics of the world through code. Our benchmark is available at https://github.com/4DCodeBench/4DCodeBench",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.03715",
-      "arxiv_url": "https://arxiv.org/abs/2610.03715",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.03715.png",
-      "upvotes": 22,
-      "num_comments": 2,
-      "published_at": "2026-10-01T20:00:00.000Z",
-      "github_repo": "https://github.com/4DCodeBench/4DCodeBench",
-      "github_stars": 37,
-      "project_page": "https://4dcodebench.com/"
     },
     {
       "id": "2508.02739",
@@ -187,11 +187,11 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 40039,
+      "github_stars": 40075,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-06T16:08:02.923559+00:00"
+  "fetched_at": "2026-10-06T21:07:07.930679+00:00"
 }
