@@ -87,9 +87,23 @@
       "description": "Florida voters are weighing whether to scrap residential property taxes and the state's governor has a solution to that potentially huge revenue loss: tax Canadians more.",
       "favicon": "https://www.cbc.ca/a/apple-touch-icon.png",
       "site_name": "CBC"
+    },
+    {
+      "title": "My own personal whim, ditching all my devices for my phone",
+      "url": "https://www.castignoli.it/tecnologia/my-own-personal-whim-ditching-all-my-devices-for-my-phone/",
+      "hn_url": "https://news.ycombinator.com/item?id=49977131",
+      "author": "marcocastignoli",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-06T11:53:41Z",
+      "object_id": "49977131",
+      "image": null,
+      "description": null,
+      "favicon": "https://www-static.castignoli.it/wp-content/uploads/2022/10/logo.png",
+      "site_name": "castignoli.it"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-10-06T09:13:46.958228+00:00"
+  "fetched_at": "2026-10-06T16:07:55.864646+00:00"
 }

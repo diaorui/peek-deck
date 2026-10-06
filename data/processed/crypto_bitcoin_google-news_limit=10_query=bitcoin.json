@@ -5,94 +5,64 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
+      "headline": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0phaGFNOUEtLXdYMFZNbGNBWDNjOGVqN0s3M052bXB5WWRLcmFPeFFwM0FOR1dsX3JFeFRPOEU2YXVzQ0pUS2xiWWtPWEl6S3NPb2hQc3R0a0FIcGc3Y0wtOE5XSGNQWllVZGNNSllrVHhiQUN2dU96SnZabTF3TnFjbDBuNkIyNkdqUERJWHlsUm9qczJMOEdQakhaWGF6UkhENjhSOG5WRVR6amp4ZWFBal9GWDkyeTF3?oc=5",
-      "pub_date": 1791188366.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/785b3947c42ad4577051876ccd979470df357367-1600x1114.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Key price averages are on the verge of confirming a major bullish configuration for the first time in over a year."
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkd2Qlk4b01XLVF1ZGNyNTVtT09GVkdCLTA2cTlVeWl2RnVyaE1BMWlnVTVRSUdLTVlWNG5EVG1LcEdKMmRVb1kxODc1TGdibUo2R0RCZmZ5a3k1YzEtYWNOb3pnQkl2MHZUQW1RLXVaMEpheTlfZHRQa2kwTENNbjNDY2V1Zi02STdkOW1kOUxlZDVPMHRLOGFXcW4ycFlwRlFQdjJpdHJnMUFsOEVpUkNEMHFSVFpjMGNWUzlNTDFvRldBRkIyNThR?oc=5",
+      "pub_date": 1791275263.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c69a265f31846f161fff5cce9c863ae358a6c589-1600x1060.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "This shallower decline isn\u2019t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%."
     },
     {
-      "headline": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "headline": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
       "source": "Decrypt News",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ka3RSWFR2Z0VndzAtT1ZMSGZadTBfa004TFBjRVk4VWd2YUE3VXFkcFd2VUc0VVlEYlM5azFtb0RFNjFKY1ZjTlBTTlNXWVJwOFVyZmQtdjI2Z0YyeXphdmI2NWhWeTJFQXhOMWNrWVVvd3FjcmhyRU5LelRxcEk?oc=5",
-      "pub_date": 1791239420.0,
-      "article_url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png",
-      "description": "The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWmdfOUVyM2tZU2xxR1VTeV9qWXNlNXdscEhGZFVDQjN4RC1qR1BtaEVySHJ2ZXNzdEl0SG55RGV3Q0Y5T3dFX2hsc205M2Z3QjZVZkItSGRIV0Ewdk5LdWs5QkJreFBsTTNoUF9PNnZtcGxkeGhLeS1uVVE?oc=5",
+      "pub_date": 1791223948.0,
+      "article_url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
+      "description": "The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange."
     },
     {
-      "headline": "Bitcoin Price Could Reverse Following Tech Stocks, Peter Schiff Says",
-      "source": "finance.yahoo.com",
+      "headline": "Strive purchases $169M in bitcoin \u2014 nearly 6 times more than Strategy's recent buy",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUEwyRHRtY2h0STc2NTF0dUNjMDVoUHVwS1p1YWpla1pyM1FmS0RBLTctOHFEOG9BOGhGUGQ3OTVhdUs0Y0NOY2tkN1I5cGtRREl5cTNGeDJaLUl6Z1FvNGgwbkJVdVVZVmNIMWJrS1FCQ1ZMVGJDSDJGTHJPY0NObU5pd1hzVWZEYkNpXzhtQ0M3YUpmd3N3VEVZQ01QOVh3MnpZTA?oc=5",
-      "pub_date": 1791273668.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-could-reverse-following-080108730.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a567d5b2d7a638fcbbaec80d26eeacfce655422c4e97ece01f405141e62c761c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F30d61b4c3d06adf104161e31d574c2dc.jpg",
-      "description": "Strategy bought 334 BTC for about $28.7 million and repurchased $176 million of STRC in its latest disclosure, even as Peter Schiff warned that the Bitcoin price could reverse if technology stocks pull back. The competing signals leave a sharper question than whether Strategy is still accumulating: can its current ..."
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTZvd08yUWtxREVxdW9NMVQ3V010YzdPNFNWZ3V5V0NSWV9talNVQXdMR29NT3JJTnZ2bnV1MGRqWENZT3BIV3JPZGc2SUxkRzhsNlBleF9oeFM2WkF4RFVWYng0djMxM3BMYUk1cnVIS0ZRX1lXcGxVMF85UkZWaUFsc3NibzZpOHVF?oc=5",
+      "pub_date": 1791302400.0,
+      "article_url": "https://finance.yahoo.com/video/strive-purchases-169m-bitcoin-nearly-160000167.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/506307c56f53b9331493f040f4db209385a6abfc886c8b76dd9d2069cf040397/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F4f50dc4c-2100-4f2f-898a-7a41cb53c912_6df7ae4b06d249152da5adcc2e596fbd660c24eda01f1e9f6186efedb8204011.jpg",
+      "description": "Strive (ASST) recently bought 2,000 bitcoin (BTC-USD) for about $169 million. Scott Melker discusses what this could mean for Strategy (MSTR)."
     },
     {
-      "headline": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
-      "source": "finance.yahoo.com",
+      "headline": "Did IREN\u2019s Pivot From Bitcoin Mining to AI Cloud Deals Just Shift IREN's (IREN) Investment Narrative?",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT082b2NZcWU4anh5WFJNVVc3UHFnZ1pYanlsN1FFQnRUbzRtV2w5cGhnbmJ2Vi1NOS1BcW9kM0J1WlZETDQ5Ykh3T09TWG81RzVzc0hodjVxYi1KVmVJSjlCcHROelpsV0tNWmY3R29PaS1JTDJXVmpQdDVsSzkycVl1ZlV5SzdiS1dVcE5RdnZpQVk2eG9hYjdCdw?oc=5",
-      "pub_date": 1791270522.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-steadies-85-5k-soaring-070842274.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Investing.com-- Bitcoin fell slightly on Tuesday, extending losses from the prior session as a surge in global bond yields largely offset optimism over more positive U.S. regulations."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnVwN0Qxd2JKOS1jWlNGSk9ySEJSN1BtZ2QwT2lBVllrS0ZrTmc4MFlsR1VtS3hsZm9fZzhSS1VtZ1lWZFlIZ21RUEJWVF9wNUMwMklOWm02bjAtdERUY1NGVjN4Yjc3MHQ0Z29CLU1Lcko4bEp4c2d4QjZVS0REc1JOZXk3bjU0N2JKWVl2UldVdm03LThLUQ?oc=5",
+      "pub_date": 1791299215.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/did-iren-pivot-bitcoin-mining-150655271.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fe3b47e5326d1fdfc71bac8016b01ebd63252d1d710543a819483ae15df91b31/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F43e1667cb7476cb45f84db58a8de8d48.jpg",
+      "description": "In the past month, IREN Limited reported its fiscal 2026 results and highlighted a transition of its sizable Bitcoin-focused data center capacity toward AI compute workloads, underpinned by new multi-year AI Cloud agreements and ongoing contract expansions with major customers including Microsoft. This shift suggests IREN is repurposing existing infrastructure to pursue recurring AI cloud demand, potentially reshaping its mix between digital asset mining and higher-value compute..."
+    },
+    {
+      "headline": "Citi, Standard Chartered and Bernstein All Cut Their Bitcoin Targets in 2026. Citi Sees $113,000, Standard Chartered $100,000 and Bernstein $125,000.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlg1MmNqV19JR094WDNSS1dWWExmdzNrbXdiODRZWmhwQ1MwaFNRMGJNR3dKMzJQZ09vMU1vZ05wMVBTTVZNMXoxUGlRN0FNQnk5TmJCbkc5SHJjV09oVzY1ODlIVWNXZzhqaWNCQjVnZVIwRmR3bG1zQ3UyVnBkbDhFME1COTFqQ2p5bXA4YWpmVWlSeldubENFSkRJT1RyNUNyaQ?oc=5",
+      "pub_date": 1791298920.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/citi-standard-chartered-bernstein-cut-150200135.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2ecddc4a9a6a4b42e8d1ff1095b0155d8e80b104535f3e2678d8a9f391326ca5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2400c19d09c39f6c1599f1abfe6f890f.jpg",
+      "description": "Wall Street giants have slashed their Bitcoin price targets multiple times this year, with one firm swinging by tens of thousands of dollars in a single quarter. Here is how much trust investors should actually place in these forecasts."
     },
     {
       "headline": "Crypto Elite Gather in Singapore as Bitcoin\u2019s Rally Buoys Bulls",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFNScVlncTZjMV9OeTdmNUFGSVpKLVhndmt5MXp5SHE3MzhUYmNCR0JwcGtwUjIxSVRuNFBYOUNuWHhZZVF3YWoyZ0pXbUotQ0NVUmNWbEtYNnpnV1BNb2NhUDY4X21ScmJRek9iTkV0VjdmMnZ2ZVMzVU9VQzhiaWlXUUZSNUVlSUt2M2dFTDBMNmlJVjVGYktoOGdYWWNwN2d0WXdlZDFsTzd4bG0wUmphTWo?oc=5",
-      "pub_date": 1791269820.0,
+      "pub_date": 1791241200.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/crypto-elite-gather-in-singapore-as-bitcoin-s-rally-buoys-bulls",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin Falls as Dollar Rises, Geopolitical Tensions Persist",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT0Q3bU5ha0RPNmlVYzAtTkFiUW9qS1NZU1NCN2NwLXpmU0xRV3dlNHg3U3pzMk5Jb1REUEZESlRfX1B6QV9FQUNWTk1NMm1PYkVja1l4bklxMXVraUw2dnRUUGo5ZUxiTk8yWHBCVVRHdWJzbWlOeFJ1VWI2Vm5BVXl6Y0RUOWZ6UU01bkZ0M1M5WGVsbjE3ZENuM3VYTnFuZWFWTGppSVNlUi1CUDRBNmFVdHpYdkZBd3o5TW0yLW16RlJodDdyY09ENjZhblliMlRLc09ia2RMYlY1UnJaUTFIN0JEYUw1Z2RtWXdSZWM5ZnpyRzBiTjl2MnBTY2VhVkVOUGVRUQ?oc=5",
-      "pub_date": 1791277080.0,
-      "article_url": "https://www.barrons.com/livecoverage/stock-market-news-today-100626/card/bitcoin-falls-as-dollar-rises-geopolitical-tensions-persist-2BCsSnRPAVsAIU5GKEKi?modCode=hp_LEDE_C_LC_1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" For Bitcoin",
-      "source": "bitcoinmagazine.com",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW1WeVNVaG9ZbmRUU3lwS2UzYnJUZ2NwbUgxU2ZsQk9nU0w1MzRzZGEweVVnb2g2YjlBdEhNZkkwUzN1WFRhNDlaaGtyNmxKRXZlVEFpMV92RVh3TWdGRGdOeXFDYmZ4bEhTVFZKZW9icjhCbjQxX1pBRHZoSzBKUzJGd1RyNG1sUlhlbXZDQURCSGo1RUlHYmF1RFhaS0hDYmsw?oc=5",
-      "pub_date": 1791234890.0,
-      "article_url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbases-Ryan-VanGrack-CFTC-Approval-22Opens-Many-Doors22-for-Bitcoin-.jpg",
-      "description": "Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase\u2019s Ryan VanGrack explains why ETFs and direct holding can both thrive."
-    },
-    {
-      "headline": "Strategy's $6 Billion Bitcoin Safety Net (NASDAQ:MSTR)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3RKWUZFMWk5YngwYjJSTEtpSDAzU3FfUG1CSzh0bFhHcHZmR016WWE5dU1xS0tYeGhUQ0NEb1JCRFVZZXlOUjdUXzI2bHJzclpGZ2J0Yy1lQTF4QjBZRWVnbmJCenBBQVpkckt5WVJmUzdxaUZWOGNoZlFuU3NiLTNWRlRNdw?oc=5",
-      "pub_date": 1791199134.0,
-      "article_url": "https://seekingalpha.com/article/4951941-strategys-6-billion-bitcoin-safety-net",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SEC and CFTC jointly classify Bitcoin, Ether, Solana, Stellar, Tezos, and XRP as digital commodities",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGIzNjdBX3NpcHpmd2RBa1pLeFFqVTdfMFhaNjFjT1JfN3I3WkI0X1hVYk1wSlhVMTk1M09EUnZqSU4wRGg0bkVkdGdUcW5UaHZHbi1KRmRodE43N2NjZ0VRanQzWFBjXzJ6Z094SU01WmdhaUMzNzRBUFRBQVQ2cGxpTUthZDUxa2c2NWswbjQ3cGNJd24wUklFbHdTTVBHb2t5ckNYT1FHRmtHWHprNWJibFJCMEdkQXFBVHdJRm95NkdpZ1pEUXE1Q0lMbGlSdjJtZmFpV2VrQmpqTG04M0l6R2o3TlVzeG5aaFVkR0V5QQ?oc=5",
-      "pub_date": 1791222547.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:b41a7ccce094b:0-sec-and-cftc-jointly-classify-bitcoin-ether-solana-stellar-tezos-and-xrp-as-digital-commodities/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The Commodity Futures Trading Commission's chairman has named Bitcoin, Ether, Solana, Stellar, Tezos, and XRP as digital commodities. For an industry that spent years arguing over what its biggest tokens actually are, that is a short sentence with a long backstory.The classification places these as\u2026"
     },
     {
       "headline": "BTC, ETH, SOL price news: Bitcoin hits $87,000 wall for third time as stocks near records",
@@ -103,8 +73,38 @@
       "article_url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/5e4e537f6b4b9712d3d5ff9f2ea241c1129999cc-1524x832.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "description": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing."
+    },
+    {
+      "headline": "Bitcoin flat at $85.3k as soaring yields offset regulatory hopes",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJDa0tlWHc5c1NiajNMeGREU2JPOWdldE5HMURPVkZqUDI0OXZHb1BOb1Y5UUZPSEN6enh4WUFraTZXMmt3dXA3NXZwWGVnVElRQ1J1bUhKS1VXNU1UcmYzSkdFZ0tIdm1GQmxEQmhmUWZNNm9FSklCQUdhUlVxenp5RFRLWk1WVlpRSTRMM2FLaXB4amFTYmNJR0Y5b0I4QnZUQmtFcFdzdFVFNWZFNjBRWlRYNncwcWVWeldVai1IRU0?oc=5",
+      "pub_date": 1791269398.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Monday, October 5, 2026: Bitcoin back above $86,000 after higher rate expectations fade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZlgzaDMwa25UUk5sNmxWNnQ2clRTd0syekFwRWJ2QnZUeTZJcEx1RmhxeGxELUFrR2RkdDA2NWtORlFUdkthdGRQOWtjX1dxVFJidDhvR2NhY290ZnR4RlBPU08yUnA3dlRESFVIc2VpQ2g0UW9rM3VfWm5TWFV3OWw0S24zN2VNTTdZc1VxRVoxZHRyYkJ6Yk5KZGJ0QnRyYzFrMnRveGJuaXZhN2UtOW9xeFVGYkllaFZnZXVYUU9nSl9OTlhrX0ZJZFk5SzVMaURwZmlyaXdRandubXFRa0Q1T3dESEVaR2EtNWFFT0R3Qy1FZ0V4cEJPLU1RTXNCN0VyMjBCMWM5M244bTRuVHlfb0YyZEpsbldmeA?oc=5",
+      "pub_date": 1791200699.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-5-2026-bitcoin-back-above-86000-after-higher-rate-expectations-fade-114459647.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ce37edafc6b48f765180883ec4f3f14a7b26ecea461f7d99d2d4e6f4b599127/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_1_3688.jpg",
+      "description": "Bitcoin opened at $86,513.38 on Monday, October 5, 2026, up 2.1% from Sunday's opening price. As of 7:37 a.m. ET this morning, bitcoin dipped to $86,121.88. Ethereum opened at $2,726.72, up 1.5% from Sunday's opening price. The price of ethereum moved slightly lower this morning to $2,717.55 as of 7:37 a.m. ET."
+    },
+    {
+      "headline": "This Company Just Became the World's 2nd-Largest Bitcoin Hoarder and It Has More BTC Than Tesla, SpaceX a",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYmtPNzltbG04Y2VneGF6NDA3YXp1eTFEaWVqU3hxWjhLUWJlM2F4QkNzQ0NwWUxlaXFOVHhvY2I2UmZrendvSlY2NEtjVmdKTWV3UVBCZHBZa0hOOGR3bThZYkxyaGNkQWVwSDlpQXhBLTBOdllWT2ZaajlrRlUtcFFqNXcxclBBUUg5VGZyNkF6UFNyeDdmd0RYREV3ZnR3Y3c0cGNsbjFib05LZzBDaVpoOXN2bFZrT2tSZnlseHBzYTF0cW9ocHBtWWI4aHVNWVlPRDVJVEhzTWlnMjFWSWozMmlvdXc3c2h4Rk5Lb3FCSTZxSkhFZnRmNA?oc=5",
+      "pub_date": 1791271338.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62181930/metaplanet-becomes-worlds-2nd-largest-corporate-bitcoin-holder-now-trailing-only-michael-saylors-strategy",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/06/Bitcoin-Btc-Virtual-Cryptocurrency-In-Fr.jpg",
+      "description": "Japan-based Metaplanet Inc. is now the world\u2019s second-largest corporate holder of Bitcoin after snapping up another 1,000 BTC on Monday, October 5."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-06T09:14:25.445666+00:00"
+  "fetched_at": "2026-10-06T16:08:22.795754+00:00"
 }

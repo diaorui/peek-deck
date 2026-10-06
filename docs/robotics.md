@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-06T09:14:26.834840+00:00'
+updated: '2026-10-06T16:08:32.207662+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 06, 2026 at 09:14 UTC  
+**Last Updated:** October 06, 2026 at 16:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=4whgw2gLBS8) • 4d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=4whgw2gLBS8) • 5d ago
 
 ---
 
@@ -52,7 +52,7 @@ Continuing to move from using the model directly to having the model write relia
 
 As i see there are different ways to train an AI model through machine learning/reinforcement, i was wondering if there were open source robots that can be 3D printed and programmed/trained with arduino for example through machine learning? I am quite confident i could maybe print a robot arm (maybe not a full robot body) to train for putting my t-shirts in order from a disordered cloth basket. Ok i know it is maybe basic (or maybe not 😅), i see it in a step by step project.
 
-4d ago
+5d ago
 
 ---
 
@@ -60,7 +60,7 @@ As i see there are different ways to train an AI model through machine learning/
 
 I was reading recent news from Neura robotics and they have robots that are aimed at healthcare support, for things like moving beds, equipment, and other menial tasks to support healthcare teams. I would imagine within the next decade at some point, robots might even be used for support in surgeries and medical procedures. What do you guys think? There’s an argument to be made that robots could help reduce workloads on healthcare professionals even if all they do is grunt work. There’s gonna be a market for this that I’m sure of, but imo this would need a level of trust above what is needed for industrial deployment. General purpose use in hospitals would likely see adoption in a couple years at most is my guess, but high level adoption is still quite far away. Honestly I feel healthcare would be one profession where robots can do good and would not replace human staff, just because there’s a whole interpersonal aspect of healthcare which can only be fulfilled by human staff.
 
-4d ago
+5d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've bee
 
 What is the difference between building in functional safety early on vs waiting until the end? How do safety partnerships help the industry? https://www.linkedin.com/posts/synapticon-co_humanoids-functionalsafety-robotics-activity-7511379498718625792-oPLl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMG_WMB6npmHVKREPOjVhxKwxVIs9Q1bZ0
 
-4d ago
+5d ago
 
 ---
 
@@ -90,7 +90,7 @@ What is the difference between building in functional safety early on vs waiting
 
 Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 219-mile section of I-45 in Texas. Commercial driverless service is planned for the end of 2026; current preparation runs still have a safety observer aboard. Over four years, Kodiak says it has carried more than 1,300 IKEA loads and logged over 750,000 autonomous miles with an observer. That work has included coordinating delivery timing with dock availability and using vehicle data to plan maintenance.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run) • 4d ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run) • 5d ago
 
 ---
 
@@ -122,37 +122,15 @@ WSJ • 1d ago
 
 Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration.
 
-GeekWire • 20h ago
+GeekWire • 1d ago
 
 ---
 
-**[The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
+**[Hundreds of soldiers transfer to newly created jobs in robotics and space](https://taskandpurpose.com/news/army-space-robotics-mos/)**
 
-The New York Times • 1d ago
+10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field.
 
----
-
-**[Human vs humanoid robot cage fight goes viral](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)**
-
-Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force..
-
-Fox News • 19h ago
-
----
-
-**[Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian](https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html)**
-
-/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project...
-
-PR Newswire • 22h ago
-
----
-
-**[Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing](https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators/)**
-
-Army Special Forces graduated the first batch of a new military occupational specialty meant to help units employ an ever-evolving suite of military technology.
-
-DefenseScoop • 3d ago
+Task & Purpose • 20h ago
 
 ---
 
@@ -164,19 +142,27 @@ ft.com • 2d ago
 
 ---
 
-**[The hottest trip for Silicon Valley investors? Robot factories in China](https://www.businessinsider.com/why-silicon-valley-investors-are-touring-chinas-robot-factories-2026-10)**
+**[Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian](https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html)**
 
-Robotics may be Silicon Valley's latest obsession, but China has spent years building up its industry.
+/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project...
 
-Business Insider • 23h ago
+PR Newswire • 1d ago
 
 ---
 
-**[Hundreds of soldiers transfer to newly created jobs in robotics and space](https://taskandpurpose.com/news/army-space-robotics-mos/)**
+**[Panasonic to make humanoid robots, leveraging its battery business](https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business)**
 
-10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field.
+Company aims to start production by 2029; machines to work in plants, warehouses
 
-Task & Purpose • 13h ago
+Nikkei Asia • 1d ago
+
+---
+
+**[This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.](https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10)**
+
+A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used.
+
+Business Insider • 4h ago
 
 ---
 
@@ -184,7 +170,21 @@ Task & Purpose • 13h ago
 
 Safeworld is building digital humans to make sure robots don't hurt the real ones.
 
-TechCrunch • 21h ago
+TechCrunch • 1d ago
+
+---
+
+**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
+
+It’s Real Steel come to life.
+
+Tom's Hardware • 2d ago
+
+---
+
+**[Australian robotics company chooses Huntsville for U.S. HQ, manufacturing facility](https://www.al.com/news/huntsville/2026/10/australian-robotics-company-chooses-huntsville-for-us-hq-manufacturing-facility.html)**
+
+AL.com • 1d ago
 
 ---
 
@@ -192,83 +192,13 @@ TechCrunch • 21h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
-
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
-
-📺 CNET
-
-👁️ 42K • 👍 422 • 💬 60 • ⏱️ 6:34 • 1d ago
-
----
-
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
-
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
-
-📺 ejunky66
-
-👁️ 3.7M • 👍 58K • 💬 2K • ⏱️ 1:00 • 3d ago
-
----
-
-**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
-
-A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
-
-📺 ABC7 News Bay Area
-
-👁️ 6K • 👍 22 • 💬 12 • ⏱️ 1:02 • 6d ago
-
----
-
-**[Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios](https://www.youtube.com/watch?v=CFS_zU1kWQw)**
-
-Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...
-
-📺 Boston Dynamics
-
-👁️ 765K • 👍 9K • 💬 1K • ⏱️ 5:49 • 6d ago
-
----
-
-**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
-
-Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
-
-📺 Canada 2050
-
-👁️ 41K • 👍 1K • 💬 37 • ⏱️ 18:22 • 5d ago
-
----
-
 **[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
 
 What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
 
 📺 ejunky66
 
-👁️ 68K • 👍 1K • 💬 79 • ⏱️ 1:00 • 1d ago
-
----
-
-**[Tesla Optimus Gen 3: Elon Musk Just Teased a HUGE Robot Upgrade](https://www.youtube.com/watch?v=_8Mfpo6CoOE)**
-
-Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot program. Elon Musk has teased that Optimus Gen ...
-
-📺 Ai_Mobility_News
-
-👁️ 10K • 👍 75 • 💬 3 • ⏱️ 14:50 • 5d ago
-
----
-
-**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
-
-This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
-
-📺 Boston Dynamics
-
-👁️ 2.3M • 👍 35K • 💬 3K • ⏱️ 5:35 • 4d ago
+👁️ 70K • 👍 1K • 💬 79 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -282,13 +212,81 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 ---
 
-**[HMG x Bloomberg | Inside the Robotics Race](https://www.youtube.com/watch?v=Be_sEY9c12E)**
+**[DO I REALLY Need the ULTIMATE SHELL? War Robots Gameplay WR](https://www.youtube.com/watch?v=lEYFlBx6Rok)**
 
-Inside the robotics race. From backflips at 2026 CES to delivering the match ball at the FIFA World Cup™, Atlas has already ...
+War Robots Gameplay: Getting the Ultimate Shell in WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
 
-📺 Hyundai Motor Group
+📺 Manni-Gaming
 
-👁️ 1.2M • 👍 105 • 💬 6 • ⏱️ 5:49 • 6d ago
+👁️ 2K • 👍 179 • 💬 45 • ⏱️ 12:54 • 3h ago
+
+---
+
+**[Tesla Optimus Gen 3: Elon Musk Just Teased a HUGE Robot Upgrade](https://www.youtube.com/watch?v=_8Mfpo6CoOE)**
+
+Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot program. Elon Musk has teased that Optimus Gen ...
+
+📺 Ai_Mobility_News
+
+👁️ 10K • 👍 75 • 💬 3 • ⏱️ 14:50 • 6d ago
+
+---
+
+**[Canada&#39;s New Humanoid Robots Are Shocking!](https://www.youtube.com/watch?v=mlK2MNJDzag)**
+
+Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped like us are already walking, rolling and ...
+
+📺 Canada 2050
+
+👁️ 41K • 👍 1K • 💬 37 • ⏱️ 18:22 • 5d ago
+
+---
+
+**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
+
+📺 Ben Esherick
+
+👁️ 658K • 👍 48K • 💬 718 • ⏱️ 0:34 • 17h ago
+
+---
+
+**[Meet Taku: Bay Area company&#39;s AI robot loads washers, folds towels and stocks shelves](https://www.youtube.com/watch?v=bzhzU0zVLmg)**
+
+A Redwood City company gave ABC7 Eyewitness News an exclusive preview of a new semi-humanoid robot designed to ...
+
+📺 ABC7 News Bay Area
+
+👁️ 6K • 👍 22 • 💬 12 • ⏱️ 1:02 • 6d ago
+
+---
+
+**[Japan&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=_bYQvpyK25Y)**
+
+Japan's Insane ROBOT PARADE Just Stunned the Entire World.
+
+📺 rubenfoto1
+
+👁️ 12K • 👍 159 • 💬 14 • ⏱️ 26:56 • 1d ago
+
+---
+
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+
+📺 AI Revolution
+
+👁️ 52K • 👍 727 • 💬 83 • ⏱️ 13:23 • 3d ago
+
+---
+
+**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
+
+Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
+
+📺 MACHINEKIND
+
+👁️ 19K • 👍 376 • 💬 43 • ⏱️ 13:42 • 17h ago
 
 ---
 
