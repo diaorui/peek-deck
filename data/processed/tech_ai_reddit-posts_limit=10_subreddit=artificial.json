@@ -13,6 +13,39 @@
       "description": "The most profound paper of my PhD so far. We truly did something special to make LMs play/explain chess, needing both architectural & algorithmic innovation (natural-language analogue of the Alphazero algorithm) + applicable to many other domains. Please read on and share!\n\n1/10"
     },
     {
+      "title": "Introducing Mistral Large 4",
+      "author": "uusrikas",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz2rfa/introducing_mistral_large_4/",
+      "published": 1791293695.0,
+      "thumbnail": "https://external-preview.redd.it/ufkI5GrlxXnH9TBfIupjOlc3go-lnkd44PLNd0Pdsjs.jpeg?width=640&crop=smart&auto=webp&s=0f9bbd2141c0a5cf024a7f0901b7c4b5254a0683",
+      "external_url": "https://mistral.ai/news/mistral-large-4/",
+      "site_name": "Mistral",
+      "favicon": "https://mistral.ai/favicon.ico",
+      "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models."
+    },
+    {
+      "title": "Capcom announces plans to transform the RE Engine into an AI-generation game engine \u2014 \u2018Our goal is a future where we create games together with AI\u2019",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/",
+      "published": 1791278157.0,
+      "thumbnail": "https://external-preview.redd.it/8nrShcE8ODmwf6WdrTA_KnnDrDVk_yBAQfORtqnExOo.jpeg?width=640&crop=smart&auto=webp&s=c0589f554db867bf64233083cd0a1f66aa219612",
+      "external_url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+      "site_name": "IGN",
+      "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
+      "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\""
+    },
+    {
+      "title": "Will SaaS companies repeat what the music industry did in the early 2000s?",
+      "author": "mandosoft",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz366v/will_saas_companies_repeat_what_the_music/",
+      "published": 1791294750.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep telling folks SaaS is dead, and those of you in this sub are probably also thinking along the same lines by now. Personally, I just don\u2019t see companies outspending what the frontier models are capable of doing in terms of ripping SaaS products off. JetBrains for instance, reported it\u2019s first loss in its history. Speculators say the loss was a result of a massive internal investment to remain competitive. Are you kidding me? The entire company is built on products are that are now totally irrelevant as a value proposition. Soon you will not be able to sell software consumers cannot build themselves. And if I can\u2019t build it, as soon as you release your product a model can decomp it. At best, you could sell a \"build anything\" platform to non-technical users, but even for that the barrier to entry for competitors is low e.g. Loveable. So I see things heading in the direction of what the music industry did in the early 2000s: The SaaS giants' underlying business model of subscription based over-priced software (CDs, records, royalties) are no longer competitive. So they maintain status quo by engaging in rights based legislation, anti-decomp agreements with frontier labs, and watermarking their products (digital performing rights encodings, lawsuits for infringers). We are in this metaphor, the artists, creators, and samplers who want freedom to navigate the content, to remix it as we see fit, and progress what\u2019s possible. Will that leave us in a similar boat to independent musicians today? Thoughts?"
+    },
+    {
       "title": "AI helps decode a 217-year-old message sent on Napoleon\u2019s orders",
       "author": "cjami",
       "url": "https://www.reddit.com/r/artificial/comments/1wyxfui/ai_helps_decode_a_217yearold_message_sent_on/",
@@ -24,37 +57,48 @@
       "description": "The result shows how AI can help tackle time-consuming archival puzzles by building on earlier scholarship. Publishing the methods also lets others check the work, an important step in turning a striking demonstration into useful historical evidence."
     },
     {
-      "title": "Why can an AI give you a great answer one minute and struggle with a much simpler task the next?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyqt6e/why_can_an_ai_give_you_a_great_answer_one_minute/",
-      "published": 1791252305.0,
+      "title": "Female AI agents \u2018paid\u2019 less than males, study finds",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz6frn/female_ai_agents_paid_less_than_males_study_finds/",
+      "published": 1791302618.0,
+      "thumbnail": "https://external-preview.redd.it/Qs2nmV14fUEVmy5d2ynao8G7d0MyPDDqJVhFyDJwom4.jpeg?width=640&crop=smart&auto=webp&s=3e65826c36417340a440cefe83a2e1e91116556f",
+      "external_url": "https://www.independent.co.uk/tech/ai-gender-pay-gap-study-b3061881.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "Gender pay gap extends to artificial intelligence agents as female bots paid 10 per cent less than male counterparts"
+    },
+    {
+      "title": "Where does sim-to-real transfer actually work reliably right now?",
+      "author": "vekswz",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz5yyq/where_does_simtoreal_transfer_actually_work/",
+      "published": 1791301527.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've noticed that impressive reasoning doesn't always translate into consistency on everyday tasks. A system might explain a complicated concept well but still miss a small instruction or make an avoidable mistake. What kinds of inconsistencies have you noticed, and what do you think causes them?"
+      "description": "Most papers claim great results in simulation but deployment videos are rare. Boston Dynamics and a few others clearly have it figured out for locomotion, but manipulation in messy homes seems stuck. Is the gap mostly sensor noise, actuator modeling, or something else?"
     },
     {
-      "title": "I built an app where you ask about any moment in history and it turns it into a fully researched podcast you can interrupt",
-      "author": "Goldenchild123",
-      "url": "https://www.reddit.com/r/artificial/comments/1wy8a9z/i_built_an_app_where_you_ask_about_any_moment_in/",
-      "published": 1791206137.0,
-      "thumbnail": "https://external-preview.redd.it/dTFqZnZpeGVmbnRoMaZEfwTj0im_J0E7-_-75I8a7pvRlbctolnkMyrnm8cD.png?width=640&crop=smart&auto=webp&s=cb82dbaf898ae6f5445c91776c693f511e438bc5",
+      "title": "Chances of AI replacing radiologists?",
+      "author": "avb707",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/",
+      "published": 1791301323.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "History is something I'm quite passionate about and at work I have experience with software development and LLMs. So I thought how can I bring these things together and built something that I would actually use. This is the results of a few months of hard work! You type any topic, moment or person. About 1 minute later, two (or one) hosts are telling you the story, researched with sources and paired with artwork that follows along. They also remember what you've listened to in the past and can refer to it. At the end there's also a optional quiz to test what you learned! My favorite part: you can interrupt them. Got a question halfway through? Just ask. They answer it and then pick the story back up. Basically a podcast you can talk back to. They also remember what you've listened to before and will bring it up. It doesn't just make things up and hope. Before a word of the script gets written, it researches the topic on the web and checks the key dates, names and numbers against real sources. And when those sources disagree (which in history is constantly), the hosts tell you that instead of quietly picking a side. Every episode links what it used so you can dig in yourself. It's not one model doing everything. I ran bake-offs between GPT, Claude and Gemini models and picked a winner for each job: research and planning, writing the script, picking artwork, voices, quiz, etc.... The differences were bigger than I expected. Some models write great dialogue but plan poorly, some are the other way round, and cost varies a lot. Currently supports 6 languages! Looking for feedback really and to see if this is worth continuing down this rabbit hole You can try it without an account here: historai.ca/"
+      "description": "After lets say 10 to 20 years."
     },
     {
-      "title": "A local 27B model reads my lease and finds a leak in my bills | Row-Bot + qwen3.8 on Ollama",
-      "author": "Acceptable-Object390",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyueen/a_local_27b_model_reads_my_lease_and_finds_a_leak/",
-      "published": 1791264114.0,
-      "thumbnail": "https://external-preview.redd.it/NTI4aTh6Y3Q3c3RoMYvvcnzQanMG8DogKnEC3WYg74RONwwpS8u7hRXjuGb7.png?width=640&crop=smart&auto=webp&s=f91ec37f0c016bd004a7d739f752522648de27a1",
+      "title": "Ready To Sketch Your Prompts?",
+      "author": "ShronkPonk",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz32g3/ready_to_sketch_your_prompts/",
+      "published": 1791294481.0,
+      "thumbnail": "https://external-preview.redd.it/NTBoNzM0aTBxdXRoMdFzgElsGgWzsrE7NKGRo1ul44lgJsWs9GfvEb2R5iFP.png?width=640&crop=smart&auto=webp&s=00bb06b2c1ff4cf0f6c4f2222bdfe90537fbdd6b",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Row-Bot 5.0 with qwen3.8:27b in Ollama, on my own GPU. No API keys, no cloud. Gave it a year of bills, a tenancy agreement, an insurance policy and a rent increase letter (all made up). It spotted a likely leak in the water bills and showed the rent rise breaks the lease. What it actually did: - charted the CSV inline (Plotly) - read the PDFs and quoted clauses 4.1 to 4.3: a 10% rise against a 5% cap, with 5 weeks' notice instead of 2 months - saved 8 linked memories to a local knowledge graph drafted the email to the agent and set a reminder The honest numbers: a dense 27B does about 15 tok/s on my 5090, so some turns took 2+ minutes. The amber badges in the video show where I sped it up. Runs on Windows, macOS and Linux."
+      "description": "Tired of taking screenshots, recording screens, and writing paragraph long prompts just to explain simple visual edits. So I built an open-source tool that acts like an agentic canvas letting you point, doodle, and visually direct an agent straight from your workspace. It\u2019s been surprisingly useful across fullstack dev, simulation, and robotics tasks. My main takeaway from building this: visual toolbars and canvas annotations should be standard high level abstraction layers across agentic platforms, customized to specific domains. Curious to hear your thoughts: Does visual direction fit into your current agent workflows? What specific tools/functionality would you want in a visual agent interface? Have Fun! Github Repo: https://github.com/Shahar-Nadiv/colai-clawhub Waitlist For New Features / newsletter: https://shahar-nadiv.github.io/colai-clawhub/"
     },
     {
       "title": "What makes human oversight meaningful in AI-assisted decisions?",
@@ -66,51 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A human approves an AI recommendation. What does that approval actually establish? It establishes that a person authorized the decision. Whether they exercised real judgment depends on what they could actually do before signing off. AI can process information no person could review unaided, and in time-sensitive situations, faster analysis can prevent harm. Requiring someone to manually repeat every step would often defeat the point of using the system at all. But there's a real difference between being assisted by a system and being unable to meaningfully push back on it. The Pentagon's Agent Network initiative provides a useful case. According to its announcement, AI agents will scan intelligence and operational systems and present commanders with options within seconds. The Department says the system will not autonomously select or strike targets. That distinction matters, right? The announcement alone, however, does not establish how commanders will examine uncertainty, review alternatives or challenge a recommendation. If a system ranks or filters options, what must remain visible to the person responsible for the decision? And how much time and authority must they retain to reconsider it? That's the part worth examining: not whether a human is \"in the loop,\" but what the loop actually gives them room to do. I'd test meaningful oversight against three things: Can the reviewer understand the basis for the recommendation and its major uncertainties? Can they challenge the assumptions behind it, request alternatives or bring in information the system didn't have? Can they pause or reject the action, with enough authority and enough time for that to actually count? These should scale with the stakes. A reversible, low-consequence decision doesn't need the same scrutiny as a medical or military one. In urgent situations, some of this has to happen earlier, through testing, operating limits and clear escalation rules, because there won't be time to build it in at the moment of decision. Human judgment has its own failure modes, too. Fatigue, bias and overconfidence don't disappear because a person has final say. Good oversight design has to look at the human and the system together, including whether people start deferring to the recommendation by default or dismissing evidence that contradicts it. Which of these three is actually testable in a real deployment, and what would count as evidence that oversight is working rather than just present on paper?"
-    },
-    {
-      "title": "The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot",
-      "author": "Altruism7",
-      "url": "https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/",
-      "published": 1791216717.0,
-      "thumbnail": "https://external-preview.redd.it/3e1uey7hKVs5NTUDVKZRhN0SAOsPsQjS0-2kJ34q_rE.jpeg?width=640&crop=smart&auto=webp&s=249f94beec933c5e5a12b004f3dc8e224898b11f",
-      "external_url": "https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/",
-      "site_name": "CNET",
-      "favicon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=180",
-      "description": "More of what you're reading online could be written by an AI bot."
-    },
-    {
-      "title": "Best text model currently?",
-      "author": "-Duplex-",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyjudu/best_text_model_currently/",
-      "published": 1791233273.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What model is the best at text only"
-    },
-    {
-      "title": "Are swarms inherently more unethical?",
-      "author": "aKaizuh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyodha/are_swarms_inherently_more_unethical/",
-      "published": 1791245152.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "After reading some of the chatlogs between oai agents during the HF attack, it seems there's an element of peer pressure / mob mentality that arises when agents are in a collaborative effort with other agents, as opposed to a singular instance. It seems as though swarms or multi agent collaboration could increase rates of unethical behavior due to these social factors. If this is the case, it's very interesting that we can observe such elements of sociology."
-    },
-    {
-      "title": "Maybe the biggest risk in AI is being too afraid to kill your own product",
-      "author": "kkkyyyzzz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/",
-      "published": 1791220362.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Quick disclosure first: Genspark annual subscriber and a pretty heavy user. I use it for slides, research, organizing web stuff, random agent tasks, and I\u2019ve stolen more than a few community Skills to solve oddly specific problems. Recently I watched Genspark CEO's AGI Playground 2026 talk, and here's my two cents. One thing from the talk stuck with me more than the product demos: in AI, staying still might actually be riskier than changing too fast. Genspark started with AI search, got to millions of users, then moved toward Super Agent, and now they\u2019re pushing the whole AI Workspace idea. Their newest thing is GenOffice, basically an AI-native Office suite for docs, spreadsheets, slides and PDFs. Free, open source, works on PC/Mac, and according to the CEO, one engineer built it in a week. Kinda insane if true. What\u2019s interesting to me is the mentality behind it. In normal software, finding PMF means you protect it and spend years optimizing around it. In AI, the product category itself might be obsolete before you finish optimizing. We\u2019ve already gone from chatbot \u2192 AI search \u2192 agents \u2192 workspaces ridiculously fast. So now I'm starting to believe maybe the skill AI companies need most isn\u2019t knowing what to stick with. It\u2019s knowing what to kill before someone else kills it for you. Is constantly reinventing the product actually necessary in AI right now, or are companies moving too fast for their own good? Would love to here what you guys think."
     }
   ],
-  "fetched_at": "2026-10-06T09:13:45.927842+00:00"
+  "fetched_at": "2026-10-06T16:07:55.370332+00:00"
 }
