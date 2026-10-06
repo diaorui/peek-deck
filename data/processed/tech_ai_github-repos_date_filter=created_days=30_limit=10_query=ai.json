@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7466,
+      "stars": 7474,
       "stars_display": "7.5k",
-      "forks": 2274,
+      "forks": 2275,
       "forks_display": "2.3k",
       "language": "TypeScript",
       "topics": [],
@@ -24,10 +24,10 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 6253,
+      "stars": 6267,
       "stars_display": "6.3k",
-      "forks": 397,
-      "forks_display": "397",
+      "forks": 401,
+      "forks_display": "401",
       "language": "Swift",
       "topics": [],
       "updated_at": "2026-10-05T19:43:58Z"
@@ -40,9 +40,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 6150,
+      "stars": 6176,
       "stars_display": "6.2k",
-      "forks": 1544,
+      "forks": 1546,
       "forks_display": "1.5k",
       "language": "TypeScript",
       "topics": [
@@ -52,7 +52,7 @@
         "daily-digest",
         "docker-compose"
       ],
-      "updated_at": "2026-10-06T10:00:56Z"
+      "updated_at": "2026-10-06T20:00:43Z"
     },
     {
       "full_name": "yi1108/printfilm",
@@ -78,13 +78,13 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 3857,
+      "stars": 3911,
       "stars_display": "3.9k",
-      "forks": 520,
-      "forks_display": "520",
+      "forks": 526,
+      "forks_display": "526",
       "language": "TypeScript",
       "topics": [],
-      "updated_at": "2026-10-05T22:37:47Z"
+      "updated_at": "2026-10-06T19:31:40Z"
     },
     {
       "full_name": "Louis-CFM/coucou",
@@ -94,10 +94,10 @@
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "url": "https://github.com/Louis-CFM/coucou",
       "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 3799,
+      "stars": 3824,
       "stars_display": "3.8k",
-      "forks": 631,
-      "forks_display": "631",
+      "forks": 638,
+      "forks_display": "638",
       "language": "Swift",
       "topics": [
         "ai-agents",
@@ -106,7 +106,7 @@
         "claude",
         "claude-code"
       ],
-      "updated_at": "2026-10-06T15:36:12Z"
+      "updated_at": "2026-10-06T20:59:55Z"
     },
     {
       "full_name": "omlahore/RemoveMacAI",
@@ -116,10 +116,10 @@
       "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 2851,
-      "stars_display": "2.9k",
-      "forks": 66,
-      "forks_display": "66",
+      "stars": 3022,
+      "stars_display": "3.0k",
+      "forks": 72,
+      "forks_display": "72",
       "language": "Swift",
       "topics": [
         "apple-intelligence",
@@ -138,10 +138,10 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2845,
-      "stars_display": "2.8k",
-      "forks": 537,
-      "forks_display": "537",
+      "stars": 2851,
+      "stars_display": "2.9k",
+      "forks": 538,
+      "forks_display": "538",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-17T02:48:22Z"
@@ -154,7 +154,7 @@
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "url": "https://github.com/feder-cr/dots",
       "preview_image": "https://opengraph.githubassets.com/746b308199cdd66eeea2e84890b1c3b6ee55b5e0c55a262bba224baad364e37f/feder-cr/dots",
-      "stars": 2629,
+      "stars": 2632,
       "stars_display": "2.6k",
       "forks": 459,
       "forks_display": "459",
@@ -166,7 +166,7 @@
         "anti-detect-browser",
         "browser-agent"
       ],
-      "updated_at": "2026-10-03T15:21:24Z"
+      "updated_at": "2026-10-06T20:45:28Z"
     },
     {
       "full_name": "nykooi1/vibe-wise",
@@ -176,10 +176,10 @@
       "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 2318,
-      "stars_display": "2.3k",
-      "forks": 107,
-      "forks_display": "107",
+      "stars": 2488,
+      "stars_display": "2.5k",
+      "forks": 114,
+      "forks_display": "114",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-10-01T11:26:14Z"
@@ -189,6 +189,6 @@
   "search_query": "ai created:>2026-09-06",
   "days": 30,
   "limit": 10,
-  "total_count": 483652,
-  "fetched_at": "2026-10-06T16:07:53.118321+00:00"
+  "total_count": 486886,
+  "fetched_at": "2026-10-06T21:06:56.929672+00:00"
 }
