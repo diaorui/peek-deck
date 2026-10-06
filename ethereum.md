@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-06T16:08:32.202977+00:00'
+updated: '2026-10-06T21:07:24.791614+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 06, 2026 at 16:08 UTC  
+**Last Updated:** October 06, 2026 at 21:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,713.78
+### $2,690.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +0.7%  
-**30d:** +8.6%  
-**90d:** +54.9%  
-**1y:** -39.3%  
+**24h:** -0.7%  
+**7d:** +0.3%  
+**30d:** +8.2%  
+**90d:** +54.4%  
+**1y:** -39.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.24B
+**Market Cap:** $329.39B
 Rank #2
 
 **Circulating Supply:** 122,110,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.3%
+-45.5%
 
 **All-Time Low:** $0.43
-+624507.7%
++622731.6%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+16h ago
 
 ---
 
 **[The Glamsterdam upgrade has now been activated on Ethereum’s Sepolia testnet!](https://www.reddit.com/r/ethereum/comments/1wz65fi/the_glamsterdam_upgrade_has_now_been_activated_on/)**
 
-15m ago
+5h ago
 
 ---
 
 **[DF research Ideas: Chaos Theory x Theoretical Physics](https://www.reddit.com/r/ethereum/comments/1wz0hy5/df_research_ideas_chaos_theory_x_theoretical/)**
 
-4h ago
+9h ago
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't been following up with eth for a while. Can anyone let me know whats and when the next upgrade to the protocol?
 
-3d ago
+4d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In which I explain how to solve identity in peer-to-peer data systems by (minimally) using Ethereum.
 
-🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 3d ago
+🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 4d ago
 
 ---
 
@@ -148,59 +148,35 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 ## Google News: "ethereum"
 
+**[How native transaction assertions could enforce a transaction's final outcome](https://blog.ethereum.org/2026/10/05/transaction-assertions)**
+
+The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is...
+
+ethereum.org • 1d ago
+
+---
+
+**[Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down](https://finance.yahoo.com/markets/crypto/articles/pudgy-penguins-ethereum-layer-2-202853896.html)**
+
+Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.
+
+Yahoo Finance • 38m ago
+
+---
+
+**[ETH news: Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump](https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump)**
+
+One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.
+
+CoinDesk • 15h ago
+
+---
+
 **[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
 
 The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
 
-Decrypt News • 21h ago
-
----
-
-**[Ethereum Layer 2 Blast Is Shutting Down: What Happens to Your Coins?](https://finance.yahoo.com/markets/crypto/articles/ethereum-layer-2-blast-shutting-133036226.html)**
-
-Blast, an Ethereum (CRYPTO:ETH) layer 2 network that attracted $2.3 billion in deposits by its February 2024 launch, is shutting down. On October 2, 2026, the team announced that the cost of running the network exceeds its earnings and that there’s no viable solution to fix this. Users will have until October 26 to withdraw […]
-
-Yahoo Finance • 2h ago
-
----
-
-**[Arthur Hayes Sees Ethereum at $10,000 by December. Ethereum Has Never Gained 270% in a Quarter From This Size.](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-sees-ethereum-10-143004242.html)**
-
-Arthur Hayes, co-founder of BitMEX and chief investment officer at Maelstrom, believes Ethereum (CRYPTO:ETH) could reach $10,000 by the end of 2026. He shared this Ethereum $10,000 target in his newsletter dated September 3, when Ethereum’s price was around $2,379. As of October 6, Ethereum is trading at $2,704, which is 45.3% below its all-time […]
-
-Yahoo Finance • 1h ago
-
----
-
-**[CLARITY Act Is Dead, but First 3x Bitcoin and Ethereum ETFs Clear US Regulatory Hurdle](https://finance.yahoo.com/markets/crypto/articles/clarity-act-dead-first-3x-140216753.html)**
-
-Volatility Shares’ BTC3 and ETH3 target 3x the daily performance of Bitcoin and Ethereum, significantly expanding regulated crypto leverage in the US. The ETFs are ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Arbitrum joins Paxos-led Global Dollar Network as USDG lands on Ethereum L2](https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth)**
-
-The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide After Fresh Macro Data: Analyst Says This BTC 'Trigger' Could Potentially Usher in $90,000 Level](https://www.tradingview.com/news/benzinga:9f16f301d094b:0-bitcoin-ethereum-xrp-dogecoin-slide-after-fresh-macro-data-analyst-says-this-btc-trigger-could-potentially-usher-in-90-000-level/)**
-
-Major cryptocurrencies reversed course on Monday following their Sunday gains, as investors weighed the latest U.S. manufacturing data and the likelihood of a rate hike.Crypto Market Corrects After Sunday SpikeBitcoin fell sharply from the mid-$86,000s to the early $85,000s in the afternoon, before…
-
-TradingView • 14h ago
-
----
-
-**[Current price of Ethereum for October 6, 2026](https://fortune.com/article/price-of-ethereum-10-06-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
+Decrypt News • 1d ago
 
 ---
 
@@ -208,23 +184,47 @@ Fortune • 4h ago
 
 Bitmine has now bought ETH every week since launching its treasury strategy on June 30, 2025, and holds 4.9% of Ethereum's supply.
 
-theblock.co • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Ethereum Exit Queue Eases to 767,000 ETH After MetaMask Validator Exits](https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits)**
+**[Current price of Ethereum for October 6, 2026](https://fortune.com/article/price-of-ethereum-10-06-2026/)**
 
-Ethereum's exit queue holds 767,349 ETH after precautionary MetaMask staking exits, with a 13-day wait before withdrawal processing.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Defiant • 13h ago
+Fortune • 9h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.02 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $17.4 Billion](https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-02-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-17-4-billion-302898094.html)**
+**[Why are Bitcoin, Ethereum and XRP struggling to extend recovery?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-bulls-battle-to-restart-uptrend-amid-etf-outflows-202610061034)**
 
-Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 99% of the way to the 'Alchemy of 5%' in just 15 months Tom Lee to deliver the...
+Bitcoin (BTC) upholds a robust bullish outlook, trading at $85,837 on Tuesday as sellers push to regain control over the trend. Structural support levels remain intact, backed by uptrending moving averages and consolidating momentum.
 
-PR Newswire • 1d ago
+FXStreet • 10h ago
+
+---
+
+**[Ethereum Validator Count Falls to 863,000 as Staked ETH Edges Higher](https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher)**
+
+Ethereum’s active validator count fell 2.5% in seven days while staked ETH rose slightly, as Pectra allows larger, consolidated validators.
+
+The Defiant • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide After Fresh Macro Data: Analyst Says This BTC 'Trigger' Could Pote](https://www.benzinga.com/crypto/cryptocurrency/26/10/62180746/bitcoin-ethereum-xrp-dogecoin-slide-macro-data-btc-90000-trigger)**
+
+Major cryptocurrencies reversed course on Monday, October 5, following their Sunday gains, as investors weighed the latest U.S. manufacturing data and the likelihood of a rate hike.
+
+Benzinga • 19h ago
+
+---
+
+**[Bitcoin and Solana spot ETFs see net outflows as Ethereum records inflows](https://www.tradingview.com/news/cryptobriefing:0d9ec2252094b:0-bitcoin-and-solana-spot-etfs-see-net-outflows-as-ethereum-records-inflows/)**
+
+On October 5, US spot crypto ETFs did something slightly awkward. Bitcoin and Solana funds posted net outflows. Ethereum funds posted net inflows.XRP products, meanwhile, recorded no net flow at all.The single-day snapshot is notable because it runs almost exactly opposite to the weekly picture. In…
+
+TradingView • 15h ago
 
 ---
 
@@ -238,37 +238,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 210 • 💬 21 • ⏱️ 19:12 • 11h ago
-
----
-
-**[Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition](https://www.youtube.com/watch?v=A-H5yQ_JN2M)**
-
-Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody read the condition he put on it. The 10x does ...
-
-📺 tastylive
-
-👁️ 6K • 👍 60 • 💬 8 • ⏱️ 5:42 • 14h ago
-
----
-
-**[BITCOIN TRADING SIGNAL FLASHING NOW (It&#39;s Obvious)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=RaB4BAGiY2M)**
-
-BITCOIN TRADING SIGNAL FLASHING NOW (It's Obvious)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 311 • 💬 50 • ⏱️ 19:26 • 5h ago
-
----
-
-**[Ethereum to $16,000? 🚀](https://www.youtube.com/watch?v=s8RokLp8F-o)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 21K • 👍 404 • 💬 23 • ⏱️ 1:05 • 22h ago
+👁️ 12K • 👍 241 • 💬 28 • ⏱️ 19:12 • 16h ago
 
 ---
 
@@ -278,17 +248,17 @@ Join - https://www.skool.com/discovercrypto/about Bitcoin fake out or the start 
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 241 • 💬 10 • ⏱️ 59:52 • 2h ago
+👁️ 8K • 👍 371 • 💬 117 • ⏱️ 59:52 • 5h ago
 
 ---
 
-**[Fundstrat&#39;s Tom Lee says Bitcoin can hit $500,000](https://www.youtube.com/watch?v=sPb27q3qJ3w)**
+**[Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition](https://www.youtube.com/watch?v=A-H5yQ_JN2M)**
 
-Fundstrat's Head of Research, Tom Lee tells CNBC he sees Bitcoin as “going to peak at around $500000,” at the end of the ...
+Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody read the condition he put on it. The 10x does ...
 
-📺 CNBC Television
+📺 tastylive
 
-👁️ 771 • 👍 18 • 💬 5 • ⏱️ 0:58 • 2h ago
+👁️ 7K • 👍 64 • 💬 8 • ⏱️ 5:42 • 19h ago
 
 ---
 
@@ -298,7 +268,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 81K • 👍 2K • 💬 254 • ⏱️ 11:38 • 1d ago
+👁️ 83K • 👍 2K • 💬 197 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[Ethereum to $16,000? 🚀](https://www.youtube.com/watch?v=s8RokLp8F-o)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 23K • 👍 418 • 💬 26 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -308,17 +288,7 @@ Toobit - $8810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit Fee
 
 📺 Marzell Crypto
 
-👁️ 157 • 👍 11 • 💬 1 • ⏱️ 3:24 • 4h ago
-
----
-
-**[Whales Are LOADING UP On XRP As The Bull Run Begins Ethereum Is Going To Be The Bull Market Spark](https://www.youtube.com/watch?v=YOMWBJAjIqs)**
-
-If you thought things were intense before, you havent seen anything yet. Whales are doing something they wouldnt normally do ...
-
-📺 The Modern Investor
-
-👁️ 15K • 👍 1K • 💬 221 • ⏱️ 33:14 • 1d ago
+👁️ 328 • 👍 14 • 💬 1 • ⏱️ 3:24 • 9h ago
 
 ---
 
@@ -328,7 +298,37 @@ Remember this video in a few years when there's no more cryptocurrency left on e
 
 📺 Money Rules - Investing Tips 
 
-👁️ 37K • 👍 2K • 💬 352 • ⏱️ 20:25 • 1d ago
+👁️ 39K • 👍 2K • 💬 304 • ⏱️ 20:25 • 1d ago
+
+---
+
+**[BITCOIN TRADING SIGNAL FLASHING NOW (It&#39;s Obvious)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=RaB4BAGiY2M)**
+
+BITCOIN TRADING SIGNAL FLASHING NOW (It's Obvious)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 387 • 💬 131 • ⏱️ 19:26 • 10h ago
+
+---
+
+**[Whales Are LOADING UP On XRP As The Bull Run Begins Ethereum Is Going To Be The Bull Market Spark](https://www.youtube.com/watch?v=YOMWBJAjIqs)**
+
+If you thought things were intense before, you havent seen anything yet. Whales are doing something they wouldnt normally do ...
+
+📺 The Modern Investor
+
+👁️ 15K • 👍 1K • 💬 200 • ⏱️ 33:14 • 1d ago
+
+---
+
+**[Fundstrat&#39;s Tom Lee says Bitcoin can hit $500,000](https://www.youtube.com/watch?v=sPb27q3qJ3w)**
+
+Fundstrat's Head of Research, Tom Lee tells CNBC he sees Bitcoin as “going to peak at around $500000,” at the end of the ...
+
+📺 CNBC Television
+
+👁️ 3K • 👍 28 • 💬 11 • ⏱️ 0:58 • 7h ago
 
 ---
 
