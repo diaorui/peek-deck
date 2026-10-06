@@ -5,6 +5,86 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZY0xkU3B1dEtuQV9ZTVE3WE5Kc1I4eUNBcjRCRHVBOW9MaldmbVNNTVVaWktmdG1KNF81X3NNVloxMmstTWRsblhSa0RucjUyLXMyaGpVbUdTVlpwZERieEFMODU0akI1Q0RyeFRRWVBpZW1BakVfOVp1UUwyUQ?oc=5",
+      "pub_date": 1791225120.0,
+      "article_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7116x4003+0+604/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F7f%2Fab521a4148639a3ba8835316335c%2Fgettyimages-2178663347-1.jpg",
+      "description": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
+    },
+    {
+      "headline": "High Interest Rates Aren\u2019t Slowing the A.I. Boom. That\u2019s a Problem for the Fed.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
+      "pub_date": 1791230750.0,
+      "article_url": "https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Court Tosses \u200b\u200bSentence After A.I. Video of Victim \u2018Forgiving\u2019 His Killer Is Played",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1Ia3ZTSnVXbXFnNEp6TnBlbDJUOVI5cUNvNDlXRm1NRjc5dXFkTC1CVDI2SXFkaVhlZkUzcE9Vb19pbWwzcDVWZlg0N1ROSzRrME9FWDdMVFRfdURtcFpkWWNuV2Y5SkwzN2RTeVcyVVZMS1kzcUpFcTNlODR6Q2FkcEllWlVDQzMtNVBaY3c3Y2NyaEJSUm82RHU?oc=5",
+      "pub_date": 1791227700.0,
+      "article_url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5",
+      "pub_date": 1791240480.0,
+      "article_url": "https://www.foxbusiness.com/media/ai-expert-gary-marcus-warns-reckless-technology-could-lead-deaths-tech-runs-amok",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/ai-robots-2.jpg?ve=1&tl=1",
+      "description": "NYU Professor Emeritus Gary Marcus warns AI will cause loss of life, saying the White House's self-policing approach leaves infrastructure vulnerable."
+    },
+    {
+      "headline": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
+      "pub_date": 1791216801.0,
+      "article_url": "https://www.bbc.com/news/articles/c5j9x9pr0240o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
+      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools."
+    },
+    {
+      "headline": "Sam Altman to Decoded: \u2018The world should accept some bad things happening\u2019 for the benefits of AI",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
+      "pub_date": 1791147300.0,
+      "article_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Accept \u2018bad things\u2019 in return for benefits of AI, says Sam Altman",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdllLLU13dGI0Z1I5Q3dod3JORXF1b1JfVTJ4TnBYNFpLT0RHNDU0b1hTWUZzbEdueWN4YXphb3B4OVlxQmw5MEFuVkZQa3FHcDhtU25ZVTM3YlFjVHFSRUk3bFZqblBhM0E5WjU1ZHdYVHRpWV9ZRk96bmxkMG9BNWxCZVVlWjNIV0ZGZ0lCQUg4clozcVlV?oc=5",
+      "pub_date": 1791202380.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "image": "https://i.guim.co.uk/img/media/25a7b311b78477fb430906540593c2693953f97f/1129_0_7005_5604/master/7005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a942335238f8a47b2c019cb9337cd56b",
+      "description": "Boss of OpenAI calls for a regulatory light touch because of the \u2018good stuff\u2019 the technology can deliver"
+    },
+    {
+      "headline": "AI safety groups aren\u2019t buying OpenAI\u2019s spending retreat",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEw4dk1PQzRLNjF3OXZnemJtbFRZc0pad1VqaURfVEJYeDEwOXVhaEtpcHY0RzZVM2YwRGtoUGxDTmJpNTNKbUxIRVk5TmNYNEVtc1BZSE1mTnRwZTAzLWpmYlZpdHhNTncxcmsyQU1LdzBvTWRoTzM4a3NrNUZ6S3cxOHRrS2JWazBERnN2NEdRVDd1ME9vTDln?oc=5",
+      "pub_date": 1791246600.0,
+      "article_url": "https://www.politico.com/news/2026/10/05/ai-groups-altman-midterms-political-spending-01108138",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,88 +103,8 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "City Council holds first-in-the-nation AI oversight hearing",
-      "source": "cbsnews.com",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHZEdWFFVzhTYnYxUFktaG5lY1RRSkpMWk9uZXVqeFlKelVkZ210OVA5NmZEbThTa0VfQXV4ODlmRm0tbzRPRUhRWWE1NURoeHllOVZUZnpaZlowd0NWb3VFU3c0R21QeDNwVzlQN0lPaWpEQjlZU01MNURCQmxRX1k5bl9WcW5BaWtKVkFKendQMWNxYWwyVnBDR2h0Z2s?oc=5",
-      "pub_date": 1791234540.0,
-      "article_url": "https://www.cbsnews.com/newyork/video/city-council-holds-first-in-the-nation-ai-oversight-hearing/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/05/b042d4fc-4fb6-4b41-b85f-3d0a48bd9aca/thumbnail/1200x630/c05c25564c61ea3e4018b2c1bf21d0ed/a116cf75fc3506e074bad43ce34a5b25.jpg",
-      "description": "City Council Speaker Julie Menin said that New York City needs to take matters into its own hands because the federal government said AI companies can self-regulate. CBS News New York's Lisa Rozner reports."
-    },
-    {
-      "headline": "People are asking ChatGPT to help them decide how to vote in the midterms",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZY0xkU3B1dEtuQV9ZTVE3WE5Kc1I4eUNBcjRCRHVBOW9MaldmbVNNTVVaWktmdG1KNF81X3NNVloxMmstTWRsblhSa0RucjUyLXMyaGpVbUdTVlpwZERieEFMODU0akI1Q0RyeFRRWVBpZW1BakVfOVp1UUwyUQ?oc=5",
-      "pub_date": 1791225120.0,
-      "article_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7116x4003+0+604/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F7f%2Fab521a4148639a3ba8835316335c%2Fgettyimages-2178663347-1.jpg",
-      "description": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
-    },
-    {
-      "headline": "Court Tosses \u200b\u200bSentence After A.I. Video of Victim \u2018Forgiving\u2019 His Killer Is Played",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1Ia3ZTSnVXbXFnNEp6TnBlbDJUOVI5cUNvNDlXRm1NRjc5dXFkTC1CVDI2SXFkaVhlZkUzcE9Vb19pbWwzcDVWZlg0N1ROSzRrME9FWDdMVFRfdURtcFpkWWNuV2Y5SkwzN2RTeVcyVVZMS1kzcUpFcTNlODR6Q2FkcEllWlVDQzMtNVBaY3c3Y2NyaEJSUm82RHU?oc=5",
-      "pub_date": 1791227700.0,
-      "article_url": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Personal AI assistants come for Apple app ecosystem",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlFTM1ZWSFQ3YWQtdjBhTTVYdVA1TjhGMnFEQWoxQlZQdXZLanVrbjVReW15WGozVVRwMnoyZHhrWUlFSndrM3FsSkwyWDlKRnVhQzJwbXVjXzN0am5PX1BQdVMtX0gxc2dhUUFSLWhWdnNCZWVSalQtUGZ2c0tfRFFOYW5NMGlQZVhaVWpB?oc=5",
-      "pub_date": 1791234349.0,
-      "article_url": "https://www.axios.com/pro/all-deals/2026/10/05/personal-ai-assistants-apple-app-store",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1BvX0FBT0xBVGJmZGtmMjhGQVlkWXBoYzdvZEF3d3BXaklYQkFaQW0zZHBqTHJaVFhJTzRqSS1zYTdIcERqVFRjOUtIZFZHRXRRclg4c0VScG5NQ3JYX1lyTkstTlFzOVlOd0p4MDhZV1diTV9DQjZUZEtxLXdxelZ0U2FlOHZvUE0xTHBUSXVaLUxiQTVMcUFobHdUczdQMmVaTE9MeGM5MUhDUW5lclpkMA?oc=5",
-      "pub_date": 1791226800.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Reflection AI releases first open model to rival China",
-      "source": "thehill.com",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFdLTHJGR3dXVzJ4MWRjTmhZYTF1ZmtxeHJPaGY2Szk1cU8tRndocEZLdUgzY3ZuRVc2eXFtTTBUSXB5SUJhQTNOdTk2UG9kLUNoQ3ZmRUtoRmRJYmhxbDIwLXA2UDhqbHNRSEtQbWxjVXhnVDFiVUJUWTBQRVZHQzdsV2JnaWfSAYwBQVVfeXFMTXFsN200MU5XNHI5UklBbUxsbkl2ZzhmSWMzMUpiNXJWNzNRaS1sM29RS0ZVZy01UXA5cGRPX0ZCZkx5QXVlQUwyTXR2ek9iTi00QXo0bHV6dlZHTHd6bDhUd0FPSUcyYTFpMmJ4cWZYWUxDMUNOYy1GNnpRU3NIOGpFUmdNSVlKTDRlUk8?oc=5",
-      "pub_date": 1791236880.0,
-      "article_url": "https://thehill.com/policy/technology/6130496-reflection-ai-releases-beam-model/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Reflection AI boosts US ambition to compete with Chinese \u2018open\u2019 models",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2E3TzJoN21LWHZGNlV5cTJOTWFIU1ZRRC1VQWI4bzRYQkRTZHhpZ2t3anVWQUlaVzlpSU9DZ1ZUdWFRTTFUMGNBUXBCUk0zbDAwQlpoUnNuU1Y3eXpNWkJqSEhCTElBdUNEai1hdjl5UEpRZTJLaEhVQlVEbUtUV1BhaFg?oc=5",
-      "pub_date": 1791226803.0,
-      "article_url": "https://www.ft.com/content/353be303-3271-43f0-aefb-69b6ed7a0a6f?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1f212f4-3955-448d-bcf9-bf76748c14df.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Start-up claims new model Beam is on par with leading Chinese competitor as battle with Beijing intensifies"
-    },
-    {
-      "headline": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
-      "pub_date": 1791216801.0,
-      "article_url": "https://www.bbc.com/news/articles/c5j9x9pr0240o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
-      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-05T22:08:00.960737+00:00"
+  "fetched_at": "2026-10-06T02:24:32.659519+00:00"
 }
