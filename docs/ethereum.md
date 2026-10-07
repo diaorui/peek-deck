@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-07T00:55:18.260249+00:00'
+updated: '2026-10-07T06:53:55.074484+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 07, 2026 at 00:55 UTC  
+**Last Updated:** October 07, 2026 at 06:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,695.34
+### $2,614.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -0.3%  
-**30d:** +8.6%  
-**90d:** +50.1%  
-**1y:** -40.4%  
+**24h:** -3.3%  
+**7d:** -3.2%  
+**30d:** +5.4%  
+**90d:** +45.7%  
+**1y:** -42.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $329.31B
+**Market Cap:** $319.83B
 Rank #2
 
-**Circulating Supply:** 122,110,435 ETH
+**Circulating Supply:** 122,113,301 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.5%
+-47.0%
 
 **All-Time Low:** $0.43
-+622763.9%
++604779.2%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-19h ago
+1d ago
 
 ---
 
 **[The Glamsterdam upgrade has now been activated on Ethereum’s Sepolia testnet!](https://www.reddit.com/r/ethereum/comments/1wz65fi/the_glamsterdam_upgrade_has_now_been_activated_on/)**
 
-9h ago
+15h ago
 
 ---
 
 **[DF research Ideas: Chaos Theory x Theoretical Physics](https://www.reddit.com/r/ethereum/comments/1wz0hy5/df_research_ideas_chaos_theory_x_theoretical/)**
 
-13h ago
+19h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -132,7 +132,7 @@ I haven't been following up with eth for a while. Can anyone let me know whats a
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,7 +152,7 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.
 
-CoinDesk • 19h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -168,7 +168,15 @@ ethereum.org • 1d ago
 
 Ethereum crushed Bitcoin last quarter with a stunning rally, but cracks are forming beneath the surface that traders may be ignoring at their peril. Two obscure market signals are flashing warnings that could change the outlook entirely.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Machine intelligence and crypto will merge naturally: Ethereum co-founder](https://www.cnbc.com/video/2026/10/07/joseph-lubin.html)**
+
+Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provide creativity and expertise but does not itself create trust. He expects a natural merger of machine intelligence and crypto, with decentralized protocols providing trusted execution. Lubin also says the crypto industry will gain regulatory clarity through SEC and CFTC action, even as the Clarity Act remains stalled in the Senate.
+
+CNBC • 1h ago
 
 ---
 
@@ -192,15 +200,7 @@ Decrypt News • 1d ago
 
 Bitcoin (BTC) upholds a robust bullish outlook, trading at $85,837 on Tuesday as sellers push to regain control over the trend. Structural support levels remain intact, backed by uptrending moving averages and consolidating momentum.
 
-FXStreet • 14h ago
-
----
-
-**[Current price of Ethereum for October 6, 2026](https://fortune.com/article/price-of-ethereum-10-06-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 13h ago
+FXStreet • 20h ago
 
 ---
 
@@ -208,23 +208,21 @@ Fortune • 13h ago
 
 Ethereum’s active validator count fell 2.5% in seven days while staked ETH rose slightly, as Pectra allows larger, consolidated validators.
 
-The Defiant • 5h ago
+The Defiant • 12h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide After Fresh Macro Data: Analyst Says This BTC 'Trigger' Could Pote](https://www.benzinga.com/crypto/cryptocurrency/26/10/62180746/bitcoin-ethereum-xrp-dogecoin-slide-macro-data-btc-90000-trigger)**
+**[Current price of Ethereum for October 6, 2026](https://fortune.com/article/price-of-ethereum-10-06-2026/)**
 
-Major cryptocurrencies reversed course on Monday, October 5, following their Sunday gains, as investors weighed the latest U.S. manufacturing data and the likelihood of a rate hike.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Benzinga • 22h ago
+Fortune • 19h ago
 
 ---
 
-**[Bitcoin and Solana spot ETFs see net outflows as Ethereum records inflows](https://www.tradingview.com/news/cryptobriefing:0d9ec2252094b:0-bitcoin-and-solana-spot-etfs-see-net-outflows-as-ethereum-records-inflows/)**
+**[Bitcoin, Ethereum Drift Lower As US$87,000 Ceiling Caps Crypto Momentum](https://www.businesstoday.com.my/2026/10/07/bitcoin-ethereum-drift-lower-as-us87000-ceiling-caps-crypto-momentum/)**
 
-On October 5, US spot crypto ETFs did something slightly awkward. Bitcoin and Solana funds posted net outflows. Ethereum funds posted net inflows.XRP products, meanwhile, recorded no net flow at all.The single-day snapshot is notable because it runs almost exactly opposite to the weekly picture. In…
-
-TradingView • 19h ago
+BusinessToday Malaysia • 3h ago
 
 ---
 
@@ -238,7 +236,7 @@ Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody re
 
 📺 tastylive
 
-👁️ 8K • 👍 70 • 💬 8 • ⏱️ 5:42 • 22h ago
+👁️ 8K • 👍 74 • 💬 12 • ⏱️ 5:42 • 1d ago
 
 ---
 
@@ -248,47 +246,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 258 • 💬 29 • ⏱️ 19:12 • 20h ago
+👁️ 14K • 👍 280 • 💬 32 • ⏱️ 19:12 • 1d ago
 
 ---
 
-**[Bitcoin FAKE OUT? (Ethereum Founder Issues WARNING)](https://www.youtube.com/watch?v=nUj_33S0gTI)**
+**[BTC, ETH, &amp; SOL At Resistance... White House Crypto Advisor (Clarity Act &amp; Bitcoin Reserve)](https://www.youtube.com/watch?v=AFFXj5Ng-OU)**
 
-Join - https://www.skool.com/discovercrypto/about Bitcoin fake out or the start of a bigger crypto move? Ethereum founder Vitalik ...
+Crypto majors hitting major area of resistance and Patrick Witt joins to talk BTC BITUNIX TRADE THE TOP COINS (available ...
 
-📺 Discover Crypto
+📺 Lark Davis
 
-👁️ 11K • 👍 397 • 💬 117 • ⏱️ 59:52 • 8h ago
-
----
-
-**[Grayscale Says Investors Are Leaving ‘Money on the Table’ in Unstaked ETH ETFs](https://www.youtube.com/watch?v=ygKCLWWBbMk)**
-
-One year after Grayscale unlocked Ethereum staking inside an ETF for the first time, Head of Index Steve Vanourny breaks down ...
-
-📺 CoinDesk
-
-👁️ 2K • 👍 28 • 💬 2 • ⏱️ 9:45 • 12h ago
-
----
-
-**[Ethereum to $16,000? 🚀](https://www.youtube.com/watch?v=s8RokLp8F-o)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 24K • 👍 432 • 💬 27 • ⏱️ 1:05 • 1d ago
-
----
-
-**[How to Retire on ETHEREUM by 2030 or sooner](https://www.youtube.com/watch?v=27VB8wKnm38)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 85K • 👍 2K • 💬 199 • ⏱️ 11:38 • 2d ago
+👁️ 22K • 👍 544 • 💬 42 • ⏱️ 1:10:09 • 17h ago
 
 ---
 
@@ -298,17 +266,47 @@ Remember this video in a few years when there's no more cryptocurrency left on e
 
 📺 Money Rules - Investing Tips 
 
-👁️ 39K • 👍 2K • 💬 304 • ⏱️ 20:25 • 1d ago
+👁️ 40K • 👍 2K • 💬 306 • ⏱️ 20:25 • 1d ago
 
 ---
 
-**[Is Pressure Building In Ethereum For A Big Move?](https://www.youtube.com/watch?v=JDQz35Yr01g)**
+**[Bitcoin FAKE OUT? (Ethereum Founder Issues WARNING)](https://www.youtube.com/watch?v=nUj_33S0gTI)**
 
-Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+Join - https://www.skool.com/discovercrypto/about Bitcoin fake out or the start of a bigger crypto move? Ethereum founder Vitalik ...
 
-📺 Trade Confident
+📺 Discover Crypto
 
-👁️ 473 • 👍 12 • 💬 1 • ⏱️ 3:40 • 6h ago
+👁️ 11K • 👍 407 • 💬 144 • ⏱️ 59:52 • 14h ago
+
+---
+
+**[How to Retire on ETHEREUM by 2030 or sooner](https://www.youtube.com/watch?v=27VB8wKnm38)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 87K • 👍 2K • 💬 200 • ⏱️ 11:38 • 2d ago
+
+---
+
+**[Grayscale Says Investors Are Leaving ‘Money on the Table’ in Unstaked ETH ETFs](https://www.youtube.com/watch?v=ygKCLWWBbMk)**
+
+One year after Grayscale unlocked Ethereum staking inside an ETF for the first time, Head of Index Steve Vanourny breaks down ...
+
+📺 CoinDesk
+
+👁️ 3K • 👍 30 • 💬 4 • ⏱️ 9:45 • 18h ago
+
+---
+
+**[Ethereum to $16,000? 🚀](https://www.youtube.com/watch?v=s8RokLp8F-o)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 25K • 👍 447 • 💬 27 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -322,13 +320,13 @@ If you thought things were intense before, you havent seen anything yet. Whales 
 
 ---
 
-**[BTC, ETH, &amp; SOL At Resistance... White House Crypto Advisor (Clarity Act &amp; Bitcoin Reserve)](https://www.youtube.com/watch?v=AFFXj5Ng-OU)**
+**[Is Pressure Building In Ethereum For A Big Move?](https://www.youtube.com/watch?v=JDQz35Yr01g)**
 
-Crypto majors hitting major area of resistance and Patrick Witt joins to talk BTC BITUNIX TRADE THE TOP COINS (available ...
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Lark Davis
+📺 Trade Confident
 
-👁️ 21K • 👍 528 • 💬 42 • ⏱️ 1:10:09 • 11h ago
+👁️ 675 • 👍 13 • 💬 1 • ⏱️ 3:40 • 12h ago
 
 ---
 

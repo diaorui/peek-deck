@@ -19,50 +19,10 @@
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
-      "pub_date": 1791328299.0,
+      "pub_date": 1791335601.0,
       "article_url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
       "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/882a73524af575625083f2d2ee52394e.jpg",
       "description": "OpenAI, Anthropic, Meta and Google representatives stopped short of guaranteeing their AI agents will always obey safeguards during a New York City Council hearing."
-    },
-    {
-      "headline": "Taiwan Dethrones Korea Atop Global Markets as AI Trade Widens",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkVMWDJEWlNSbTl5c1QteFB3WXVhS0drMUJFTDR5SUdUNzBsd0hkb3N4WVA2OWs1RnNqMXZxOFdXclpSN2Fad0JsRnEzZGg1Tno5anItaEhyQUhvbDllTUNXbWU4SkstWndNSGxxZUhVYXB3aFNLYlZDeG00OUxGczF5M1lyRmFuOHpMdjBlRjYza2xXMGZJaXBMcHcwMlJ2bEpEYjFZRkVjNDBHWWVsWnZR?oc=5",
-      "pub_date": 1791332261.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/taiwan-dethrones-korea-atop-global-markets-as-ai-trade-widens",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Is Here: What Therapists Can Do Now",
-      "source": "Psychology Today",
-      "source_url": "https://www.psychologytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOURfbWN2LXBSSV9uNG81cGlfdW14QVlvLUN5RklkOWIyd3Y0SGVqdGRRRFN1TDJpa3B6M1lmQ043ZXNyX3Uwa1RLSzljUzh0NTdPWkJ2a0hUVmVsLUFfTHlKd2lOM1JEYVBrRzlOajhYN25za1AwSXE0R2VOc0lmeXpSN0c3SnNGV2M3Sjc5ck0zZUR5anBzdkEtYWVJeWZONUNSQjR3?oc=5",
-      "pub_date": 1791331164.0,
-      "article_url": "https://www.psychologytoday.com/us/blog/things-to-consider/202610/ai-is-here-what-therapists-can-do-now",
-      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/pexels-shvets-production-7176296__2_.jpg?itok=aaYseUn1",
-      "description": "More clients are asking AI for help before they call a therapist. Here's how to meet that with curiosity, set boundaries, and keep the human heart of therapy at the center."
-    },
-    {
-      "headline": "Opinion | A.I. Is Lying to You. Here\u2019s How to Fight Back.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHBHQ3RRM29zY1k4enBMaHdweEh2XzlfUzRNdTY2eGhWaVktX2ZTVkU5ZUJHVHh6ZVNtTUd4MnRjMUxYU2ViZmJrRHhZQl9Dc3p6MkJMWVJIaUpiQlQ0NVpUd082Y3RxT3QxdXlxQkMwV2RUaEFVS0JSLXk2MXl0MlFRcw?oc=5",
-      "pub_date": 1791320405.0,
-      "article_url": "https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnFld2xRdDVNUloweENSSVlzYXVZQ1ZUM2F3RXFFdl8yOHhudlZiUnkxdEJBcEtaWnJYcFh3UnI5QkFnbWRpVldxa1RjYTQzNVFhUzZHaE1OZllLWUoyVjZvLWhudjlZdTEzdkJWZW5TUTBHZGhkMS1KemlhbjkzaWVtN1BxQ2RHcGJn?oc=5",
-      "pub_date": 1791303742.0,
-      "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
-      "description": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases"
     },
     {
       "headline": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
@@ -85,26 +45,66 @@
       "description": "If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce."
     },
     {
-      "headline": "S&P 500 hits record high as AI stocks shrug off bond market slump",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd25OOGtLZGFQYm9wMjExWWRaWlhUTUdFQjJFTG5oLThEaFFWcUh2QThaeXd5NWVNeVhOQWZ1U1VGRGprN2xueDFqSVRHRWNMMTVLNjlrRHBGbV8wV0dScERTOXh1VzRaTlh4RkZBQTFPVGFGMnJvSkdmLUZLamllRmVHTWg?oc=5",
-      "pub_date": 1791293405.0,
-      "article_url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5fac1126-e499-4a1a-94b1-e0e1aa354607.png?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Wall Street\u2019s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks"
+      "headline": "CNBC Daily Open: AI rally defies bond market rout",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTa0lMRzRlenFiX2xZOU9sYkdvcVpSaWk2OG5lWktXVExWY3Rsbml3eExEcGtCb1BNTGd0UkRNdTlBZHNXVE1QV1JjNmRuRjYxdEFUYk5YSkNXa0NvN1poLUZMVUk5V2dwVkpFREhNa1ZnTl9waU8zeENoTnJCd9IBgwFBVV95cUxPa1o5c0pDMUhPTmhfenRINmxkanBEV2E4Z0pOaFQ4a3JSeEl5U0ZEZXJKYmo5ajF3bTg3RXM5b2xVaFJVWmY5M3JkOGpXZHM1bmNXUDJqNzdqQVdnQTloRWlab3ZOZGNkVTM0akhqMGFRRmdEWW1OTTRkTGN5LWN6dGpLYw?oc=5",
+      "pub_date": 1791354515.0,
+      "article_url": "https://www.cnbc.com/2026/10/07/daily-open-ai-rally-bond-market-rout.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368167-17903510302026-09-25t154126z_116126255_rc2dqnabr23x_rtrmadp_0_usa-stocks.jpeg?v=1790351148&w=1920&h=1080",
+      "description": "AI stocks propel the S&P 500 to a fresh record high, but the bond market blues keep investors on edge."
     },
     {
-      "headline": "Introducing Personal Agent Protocol",
-      "source": "Sierra AI Agents",
-      "source_url": "https://sierra.ai",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZWVhsSUZlR01LOFNRU21zOTBid3czZDhKSmVnaVFianJWcVNTRV9BdFlnUEQ3enlScDNHa1p6ZGhPZzlzT2RNRHBmOVc5MEVoMjYwdG41a3REU0I1VmZZa1VaMUNZS0lhQ2c?oc=5",
-      "pub_date": 1791311289.0,
-      "article_url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "image": "https://sierra.ai/-/cdn/image?src=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fca4jck6w%2Fproduction%2F752a7b5968b6e806eca873168fe393721db82252-2400x1260.png&width=1200&quality=75",
-      "description": "We\u2019re excited to announce Personal Agent Protocol \u2014 an open standard Meta and Sierra are developing along with industry partners at Genesys, Instinct, Rocket, Shopify, Stripe, and Walmart that defines how personal agents interact with businesses."
+      "headline": "World Faces Risk Cocktail From AI, Oil and Debt, Says IMF Chief",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnJaWjRqYUFwWTFjeUZVblVEOWJoaG5nQTg0NXp3el9YcU9VcVRQVEFmX0RSS1E0NWltZlZ3c3A0RlVJQlhLTEktNC1mQ05YRng5emp6anVycUlNSkpuaU94TEtzMkxzbEpwU0gtamg5QUFlZ09jMlJyOTdhbWVPeGFiazR1MUpMb3dEUWtJNXNPV3ZhY045MWY5T0Jma243Qk91Q3h0LVVyZDRIeUhDaS1B?oc=5",
+      "pub_date": 1791352800.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/world-faces-risk-cocktail-from-ai-oil-and-debt-says-imf-chief",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFNSRkFpcWtGeGhqQ05tLTBEeGZHUWZhTGtSbEpKQmZJY1lKR0NhcVF4UTY1ZlpnZjNYdEFmM1NiLUlmbU1zRXRTejNpYTFPWFpYbi1CMW9waklrM3FUcUd2OC1LUTBpOHFMTWY1VGRYR2dKclJ1WWdvdGMtcEZiVFNRQ2pwc0NudkMzbXB2QdIBlAFBVV95cUxOaHpydEtxMUk1WF9IVC1uWE00ZGgwOHppLU1MWVpjemtjX041N3Bib0NSNE5PQ3BQTnBOazNJTTlybThVVlBSUzMyRlh4clVnTFVaSDlkb2RjUEM3SElSMFZXci15RC1DdkIxN2xicndFVkkxS19DN2U1alcwcWxneFg4czY4Y0lVc0ZGSnlucDg0Y0Jj?oc=5",
+      "pub_date": 1791353799.0,
+      "article_url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373756-1791348289382-gettyimages-2296639243-z92_0347_fjdwcvlm.jpeg?v=1791348373&w=1920&h=1080",
+      "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
+    },
+    {
+      "headline": "IMF Chief Urges Countries to Do More to Curb Debt and Regulate AI",
+      "source": "U.S. News & World Report",
+      "source_url": "https://www.usnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUVSTzlScUxpMlNCZkI5M01EdVBSYVFBMzM5WU5TVllSNFkwdHU3NDVDemtucFZnRWNFSnBKdjBkZXU3SEViaXJ2VG5JQ2pEaXhObVctb1pwYjVLVTBJSGFEVjJVcWh4b2FrenA1aGtPTlYwMkZaeVB2eUdQeDg4ejBtQzFwRWZIeGFsdUpzVXplMEItdkNKSGlseEp4NkRvZGtBVTBGaEZJYUwzZkFrMWZGUjQ3bkZmNU1LalBHQQ?oc=5",
+      "pub_date": 1791353400.0,
+      "article_url": "https://www.usnews.com/news/business/articles/2026-10-07/imf-chief-urges-countries-to-do-more-to-curb-debt-and-regulate-ai",
+      "image": "https://www.usnews.com/dims4/USNEWS/84c53ad/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F46%2Fb3cebf70b1d851f2b16b074e3d3f05%2Fe97bc4d70f8c4d62906e7fc73a6c56b2Asia-World_Economy-IMF_23518.jpg",
+      "description": "The head of the International Monetary Fund says countries both rich and poor must take faster action to cut debt and counter growing inequality as their economies weather a triple whammy from the AI boom and shocks from wars in the Middle East and Ukraine"
+    },
+    {
+      "headline": "US, China, EU: Three paths to regulating AI",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LS3Q4ejViTmdnRVg5ZjM0cWZHQ215N3FXRWI0VGZ0Z3dVZWJVLWhjdWtVS01WSXNFWEFPLWNrYXdhNHk5SkgwMGpMVW1TM0VteWpTQm9aZ29WTFhDRjY5MkVLZDNFZjk5YUE?oc=5",
+      "pub_date": 1791354640.0,
+      "article_url": "https://techxplore.com/news/2026-10-china-eu-paths-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | A.I. Is Lying to You. Here\u2019s How to Fight Back.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHBHQ3RRM29zY1k4enBMaHdweEh2XzlfUzRNdTY2eGhWaVktX2ZTVkU5ZUJHVHh6ZVNtTUd4MnRjMUxYU2ViZmJrRHhZQl9Dc3p6MkJMWVJIaUpiQlQ0NVpUd082Y3RxT3QxdXlxQkMwV2RUaEFVS0JSLXk2MXl0MlFRcw?oc=5",
+      "pub_date": 1791320405.0,
+      "article_url": "https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T00:55:15.906675+00:00"
+  "fetched_at": "2026-10-07T06:53:50.468656+00:00"
 }
