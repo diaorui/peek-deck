@@ -9,7 +9,7 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
-      "pub_date": 1791309060.0,
+      "pub_date": 1791233729.0,
       "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
       "image": null,
       "description": null
@@ -35,34 +35,64 @@
       "description": null
     },
     {
-      "headline": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFlpUTlaU0ljYnlqel84dHRjcC01UXlHN0huRGxRa19MSjYyOUJwX2dPZEhCZG9vclVZWHdKc0tTN2NUTDVOM1hkVU1wMC1NZDdhMDVyNUhnZDlnUlFKWmFxU1RZYVRwWmpYTEtMTW5hckctcFJ4TDBtZ2NJX2pCc3FOVVB5ZllLcWJnNGd2bzdHS3N0VDNzRDZGRWFFeDJxRlE?oc=5",
-      "pub_date": 1791288000.0,
-      "article_url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10",
-      "image": "https://i.insider.com/6ac41bbd225e4c4a50a38278?width=1200&format=jpeg",
-      "description": "A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used."
+      "headline": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order \u2014 regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzR6OVd2V0ZxdEx3SGNKc2pMdFdmcmVsSWNwcnRUR3FYdmtFMmdiQnlETVV0OEhVVjhwMUtrOW5FUDh3Q09wZnNsbTJYQm13RVNYMTlKS29NMExDZE0tMGhwWTRkU3JJMHNrcXFIX05aUDZ5ekZpYUJkbnlTbzZZQjFfTEFUUzdlZnA1MXdOTm1FQXlJdHM4RmRDRk1DYzh5bUZydGVSYlh4ZHU1dDF6Z3llelNGWkdoVkJVOG4zaktzV3RmU010dldCQUlsT2l6Q1A2WjRlZWpCLVYwMXExbTQyaHBJcnB5SW9PLWlBb1VFeVRlZmhaVE5BeHprUXhqQTlYUHlNUDRRWkpoNmw2WVVKakFsQ0JxYzBCdklIbnhlNnlSaVh2UE9mdk9ycm00bllJcV9yMDhwX3ZGMWdOSjV4WVZ5RGpKZi05Z1lxX3Nxc2p1d0tDcw?oc=5",
+      "pub_date": 1791124585.0,
+      "article_url": "https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids",
+      "image": "https://cdn.mos.cms.futurecdn.net/NruUp5NGPxCRDCzTrVBQxN-1920-80.png",
+      "description": "It\u2019s Real Steel come to life."
+    },
+    {
+      "headline": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmlTd3pkVVhWY2pBYnY3OGhQMkNNNmVHN2dmdGVPRVROOUJURndpMXYtcjdtbkVmMUNuZTlnUXNZUHV6RmU5OFdNUGE3LW9kNV82TldhUzhhZTdlaGRIV2FwSklKdm9BVUdlMHNsY1R2ejROa3lFLTBPZ2FGbFYyelNfQWRtMGttVnV3Z3ZFNnhpaUFnMXZTR2tXWm5pSDFDVW9ETHlHeUM5OExIY2tjZElLaDNVTHkxS1pxS3cwWnpRdw?oc=5",
+      "pub_date": 1791198000.0,
+      "article_url": "https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html",
+      "image": "https://mmx.prnewswire.com/media/MS1884416/Agility-Logo.jpg?id=OA2986085&p=facebook",
+      "description": "/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project..."
+    },
+    {
+      "headline": "New RP1 humanoid for open-source robotics research unveiled by RoboParty",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2tfeDBQWUN4U3I0UEwzYlppUjB4SXliTXZrSTk2RTRWdXBOWHRzcXNJLXRWdDlOQWJOdDVFc0ZfR1d3X2o4dHV0cDFJXzc4NWxMUllYZ1JTN2ZDUjdPSVFCRjduU0VnRmFoOWtWeHhLN2VrWmNYSU9lR0dscWVEVDkzMXo2YlYwbnp5LTRHaTFRSVV4Q1E?oc=5",
+      "pub_date": 1791206640.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-design-8.jpg",
+      "description": "RoboParty unveils RP1, a full-stack open-source humanoid robot for research, education and embodied AI development at IROS 2026."
+    },
+    {
+      "headline": "Panasonic to make humanoid robots, leveraging its battery business",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUo0Qy12TDJqcGpPblJ1VjY1MjhRTG1QZHZQWkRXcVpWQTY1WDVvWUJhUDNnbHB4WWZMekwxaWloSHlvcGoySXczNXJIWnZWR19hcWhhNFllQzl2MTlrUVQ5VF9IUjdzZTMzVGMyclJRZWJ5V2djLXI0SXZ0UGZBS2ZCRmkyUnQ2QnY2YndYdWtXbFgtZjNpT3VScno2bExFY2xzOGlBYzhFTGNKMWc?oc=5",
+      "pub_date": 1791184320.0,
+      "article_url": "https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F7%2F9%2F13279762-1-eng-GB%2Fc134ff9ca8c3-photo_SXM2026093000011998.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "Company aims to start production by 2029; machines to work in plants, warehouses"
+    },
+    {
+      "headline": "YouTuber Fights Humanoid Robots in Unsanctioned MMA Bout",
+      "source": "PCMag",
+      "source_url": "https://www.pcmag.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZExmaE54YW1FQmtYVzdSMWo4NzJyRE95QWliYmJpZ1ViSy1Nb0FGNTJ1b244QXZXaE4xX3BtdFBodjEtZVp3WHFORUlrN21RRWx1OUI5NmFkdFg3QmhkU2NMVWFSRW9GRk9YUk1PWnVubWNJNC1UMlZTUHJuS2lySHphT3FybVMyNHJJ?oc=5",
+      "pub_date": 1791220857.0,
+      "article_url": "https://www.pcmag.com/news/youtuber-fights-humanoid-robots-in-unsanctioned-mma-bout",
+      "image": "https://i.pcmag.com/imagery/articles/068ueVq3deC0R8v8ZjIDkRD-1.fit_lim.size_1200x630.v1791215519.jpg",
+      "description": "Frankie LaPenna held his own against the smaller ones, but the Terminator bot seemed ready for the challenge. The California State Athletic Commission was not impressed."
     },
     {
       "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
-      "pub_date": 1791211377.0,
+      "pub_date": 1791183600.0,
       "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
-      "source": "Boston Dynamics",
-      "source_url": "https://bostondynamics.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQW9oV1hQNUFUbXNQeVU3QjRKMVRqSnZKdnVGWmhnUE5QaEsyV09nWVB2NkFMd3pKaGN5ZFhXeDY4eDFyRUo3bnE1MG5Qd00tOEo0NngxVV8zQUo4OTkzTXRocmExbm9iZmROTXNJN3JSVVB3dkpZQzB1a1U3dDk2UHE5dERVSDZHZzFOM0I0WHlYOTJvMzRQMUUxUXNMdw?oc=5",
-      "pub_date": 1791324331.0,
-      "article_url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
-      "image": "https://bostondynamics.com/wp-content/uploads/2026/10/rohit-prasad-profile-pic.jpg",
-      "description": "Boston Dynamics today announced the appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026."
     },
     {
       "headline": "Orbital Robotics gets set to send up a pair of arms for International Space Station\u2019s robots",
@@ -73,38 +103,8 @@
       "article_url": "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/",
       "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
       "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
-    },
-    {
-      "headline": "Ranked: Countries With the Most Industrial Robots per Worker",
-      "source": "Visual Capitalist",
-      "source_url": "https://www.visualcapitalist.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0NDQWNUQUM2d1daRzI2VGJJSy0yT1Niem9VS0xneUtiQ1FjcGpRSjlKbFpuUUlaejdFX19CcTRhaFYwakRTaUNJc3VwcHFWZEZubUk2Z1lQc3V2bGhneXVabGFidVItVDdVZmh4U1dJZGdsUS0xNjl5Q0tsdFlpUEFXbDBQNzRWVkdsRmVyRVh6Rm5MdEFF?oc=5",
-      "pub_date": 1791307253.0,
-      "article_url": "https://www.visualcapitalist.com/ranked-countries-most-industrial-robots-per-worker-2024-v2/",
-      "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/Industrial-Robots-per-Worker_Shareable.webp",
-      "description": "South Korea leads the 2024 ranking of industrial robots per worker. See how 22 economies compare, including China and the United States."
-    },
-    {
-      "headline": "Kraken Robotics (TSXV:PNG) Is Up 5.8% After Q2 Results Highlight Backlog And Covelya Integration Questions",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFdaVTFKQy13eENjX1ZQaVFqMk5fQmlYaHltTWVBMzd3cDN2NGtlTzRLeFo2Wkd3M25xbFZQR3lXb2xFYVVZVjNrTi1xX3dZUEhObHE1Y21JemVRX1VhbWpiSVlxN0MtUHZRRGRNWmpyOWREV1BEZXBCeU9jSzVSOVRiczdRTmFwLUxzZVhpc1lTV2pDV1E?oc=5",
-      "pub_date": 1791284811.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-tsxv-png-5-110651755.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0f3765e17a438f259449872487aa1d83389fc02185870f772674947bb8b1458b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F390811ad78e8f93681fc56be8fe8ed14.jpg",
-      "description": "In early October 2026, Kraken Robotics reported Q2 2026 revenue of C$27.3 million and adjusted EBITDA of C$5.0 million, supported by a combined 2026 order book of about C$355 million including the newly acquired Covelya business. The market reaction highlights how questions around the timing of converting this backlog into revenue, and integration of Covelya, are becoming just as important to investors as the headline growth opportunity itself. Next, we\u2019ll examine how concerns over revenue..."
-    },
-    {
-      "headline": "Hundreds of soldiers transfer to newly created jobs in robotics and space",
-      "source": "Task & Purpose",
-      "source_url": "https://taskandpurpose.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VN1IxblIzVDNtVDZDRlRWOXgwLWt6ZmVXUVJoVW5kQnJ3QmJYSGNOeUNPci0zUmdlb015WjdwR3ZNdFJYeEZqZlVjYm9paHFTV0NHZVp1TWdrVS1CZG1VRkZrczNlSVU?oc=5",
-      "pub_date": 1791229376.0,
-      "article_url": "https://taskandpurpose.com/news/army-space-robotics-mos/",
-      "image": "https://taskandpurpose.com/wp-content/uploads/2026/10/9982109.jpg?w=1200",
-      "description": "10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T06:53:46.758700+00:00"
+  "fetched_at": "2026-10-07T14:15:09.056894+00:00"
 }
