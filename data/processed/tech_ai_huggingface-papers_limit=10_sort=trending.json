@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.05608",
       "arxiv_url": "https://arxiv.org/abs/2610.05608",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05608.png",
-      "upvotes": 119,
+      "upvotes": 125,
       "num_comments": 3,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/kandinskylab/kandinsky-6",
@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 3293,
+      "github_stars": 3430,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 109983,
+      "github_stars": 110044,
       "project_page": null
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.05415",
       "arxiv_url": "https://arxiv.org/abs/2609.05415",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
-      "upvotes": 22,
+      "upvotes": 23,
       "num_comments": 2,
       "published_at": "2026-09-03T20:00:00.000Z",
       "github_repo": "https://github.com/Friedrich-M/UniMate",
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
-      "github_stars": 843,
+      "github_stars": 880,
       "project_page": null
     },
     {
@@ -130,46 +130,8 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 90119,
+      "github_stars": 90160,
       "project_page": null
-    },
-    {
-      "id": "2510.22200",
-      "title": "LongCat-Video Technical Report",
-      "authors": "Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)",
-      "organization_name": "meituan-longcat",
-      "organization_fullname": "LongCat",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68a2a29ab9d4c5698e02c747/CDCAx7X7rXDt7xjI-DoxG.png",
-      "summary": "Video generation is a critical pathway toward world models, with efficient\nlong video inference as a key capability. Toward this end, we introduce\nLongCat-Video, a foundational video generation model with 13.6B parameters,\ndelivering strong performance across multiple video generation tasks. It\nparticularly excels in efficient and high-quality long video generation,\nrepresenting our first step toward world models. Key features include: Unified\narchitecture for multiple tasks: Built on the Diffusion Transformer (DiT)\nframework, LongCat-Video supports Text-to-Video, Image-to-Video, and\nVideo-Continuation tasks with a single model; Long video generation:\nPretraining on Video-Continuation tasks enables LongCat-Video to maintain high\nquality and temporal coherence in the generation of minutes-long videos;\nEfficient inference: LongCat-Video generates 720p, 30fps videos within minutes\nby employing a coarse-to-fine generation strategy along both the temporal and\nspatial axes. Block Sparse Attention further enhances efficiency, particularly\nat high resolutions; Strong performance with multi-reward RLHF: Multi-reward\nRLHF training enables LongCat-Video to achieve performance on par with the\nlatest closed-source and leading open-source models. Code and model weights are\npublicly available to accelerate progress in the field.",
-      "ai_summary": "LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.",
-      "hf_url": "https://huggingface.co/papers/2510.22200",
-      "arxiv_url": "https://arxiv.org/abs/2510.22200",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22200.png",
-      "upvotes": 43,
-      "num_comments": 5,
-      "published_at": "2025-10-25T03:41:02.000Z",
-      "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 8986,
-      "project_page": null
-    },
-    {
-      "id": "2609.33439",
-      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
-      "authors": "EverMind AI",
-      "organization_name": "EverMindAI",
-      "organization_fullname": "EverMind",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68c0e2432d6dd107416d3f37/xkxLPRUJRIboDe1mClCqX.png",
-      "summary": "As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.33439",
-      "arxiv_url": "https://arxiv.org/abs/2609.33439",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33439.png",
-      "upvotes": 566,
-      "num_comments": 4,
-      "published_at": "2026-09-26T20:00:00.000Z",
-      "github_repo": "https://github.com/EverMind-AI/Raven",
-      "github_stars": 5241,
-      "project_page": "https://raven.evermind.ai/"
     },
     {
       "id": "2508.02739",
@@ -189,9 +151,47 @@
       "github_repo": "https://github.com/shiyu-coder/Kronos",
       "github_stars": 40093,
       "project_page": null
+    },
+    {
+      "id": "2510.22200",
+      "title": "LongCat-Video Technical Report",
+      "authors": "Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)",
+      "organization_name": "meituan-longcat",
+      "organization_fullname": "LongCat",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68a2a29ab9d4c5698e02c747/CDCAx7X7rXDt7xjI-DoxG.png",
+      "summary": "Video generation is a critical pathway toward world models, with efficient\nlong video inference as a key capability. Toward this end, we introduce\nLongCat-Video, a foundational video generation model with 13.6B parameters,\ndelivering strong performance across multiple video generation tasks. It\nparticularly excels in efficient and high-quality long video generation,\nrepresenting our first step toward world models. Key features include: Unified\narchitecture for multiple tasks: Built on the Diffusion Transformer (DiT)\nframework, LongCat-Video supports Text-to-Video, Image-to-Video, and\nVideo-Continuation tasks with a single model; Long video generation:\nPretraining on Video-Continuation tasks enables LongCat-Video to maintain high\nquality and temporal coherence in the generation of minutes-long videos;\nEfficient inference: LongCat-Video generates 720p, 30fps videos within minutes\nby employing a coarse-to-fine generation strategy along both the temporal and\nspatial axes. Block Sparse Attention further enhances efficiency, particularly\nat high resolutions; Strong performance with multi-reward RLHF: Multi-reward\nRLHF training enables LongCat-Video to achieve performance on par with the\nlatest closed-source and leading open-source models. Code and model weights are\npublicly available to accelerate progress in the field.",
+      "ai_summary": "LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.",
+      "hf_url": "https://huggingface.co/papers/2510.22200",
+      "arxiv_url": "https://arxiv.org/abs/2510.22200",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22200.png",
+      "upvotes": 44,
+      "num_comments": 5,
+      "published_at": "2025-10-25T03:41:02.000Z",
+      "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
+      "github_stars": 9002,
+      "project_page": null
+    },
+    {
+      "id": "2504.19413",
+      "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+      "authors": "Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Large Language Models (LLMs) have demonstrated remarkable prowess in\ngenerating contextually coherent responses, yet their fixed context windows\npose fundamental challenges for maintaining consistency over prolonged\nmulti-session dialogues. We introduce Mem0, a scalable memory-centric\narchitecture that addresses this issue by dynamically extracting,\nconsolidating, and retrieving salient information from ongoing conversations.\nBuilding on this foundation, we further propose an enhanced variant that\nleverages graph-based memory representations to capture complex relational\nstructures among conversational elements. Through comprehensive evaluations on\nLOCOMO benchmark, we systematically compare our approaches against six baseline\ncategories: (i) established memory-augmented systems, (ii) retrieval-augmented\ngeneration (RAG) with varying chunk sizes and k-values, (iii) a full-context\napproach that processes the entire conversation history, (iv) an open-source\nmemory solution, (v) a proprietary model system, and (vi) a dedicated memory\nmanagement platform. Empirical results show that our methods consistently\noutperform all existing memory systems across four question categories:\nsingle-hop, temporal, multi-hop, and open-domain. Notably, Mem0 achieves 26%\nrelative improvements in the LLM-as-a-Judge metric over OpenAI, while Mem0 with\ngraph memory achieves around 2% higher overall score than the base\nconfiguration. Beyond accuracy gains, we also markedly reduce computational\noverhead compared to full-context method. In particular, Mem0 attains a 91%\nlower p95 latency and saves more than 90% token cost, offering a compelling\nbalance between advanced reasoning capabilities and practical deployment\nconstraints. Our findings highlight critical role of structured, persistent\nmemory mechanisms for long-term conversational coherence, paving the way for\nmore reliable and efficient LLM-driven AI agents.",
+      "ai_summary": "Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.",
+      "hf_url": "https://huggingface.co/papers/2504.19413",
+      "arxiv_url": "https://arxiv.org/abs/2504.19413",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2504.19413.png",
+      "upvotes": 73,
+      "num_comments": 2,
+      "published_at": "2025-04-27T21:46:35.000Z",
+      "github_repo": "https://github.com/mem0ai/mem0",
+      "github_stars": 66727,
+      "project_page": "https://mem0.ai/research"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-07T06:53:36.401690+00:00"
+  "fetched_at": "2026-10-07T14:14:59.755593+00:00"
 }
