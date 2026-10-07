@@ -5,6 +5,26 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Trillions are being \u2018wasted\u2019 on the AI boom, Arthur Hayes says. He\u2019s betting on what comes next",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblYtWWRwYjVoTE93ZXJGZXVwYzVhQ194XzhyQTVYZTlWSzQySV9UU2c0MnVFX1NWT0RoU1BjdVFrZ0ZXbnNnS1l0TE9ONEZISmRJVzY3QkF6WDVXQTZIR3VMLVhUckwweUdiUk5vYmwwTzZCTTdPV05heDhCY29fMXVoZmZZd2huWHkyTFY1N1FGaEFYckHSAZsBQVVfeXFMTjlHOFhpaGlXaFRxdlB6cXh2c2FfeW1GaXhEVFVNemdiLXZjNnFUbEJnclJuU3ZyRWpKWDB5YmNtTm1Ib09jbklLLXhaZGNSWDVRWEdOemtES1BqempUNXVULUN5MEYxS3BlT3RTdU1CS3BDSFh4VXRsRnNRZ3o3MWIyUFAwUENQQlcxQThSX2JTNkMxbi1Qek41WDA?oc=5",
+      "pub_date": 1791334140.0,
+      "article_url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373228-1791290584757-gettyimages-1813801150-BC_2023StudioAI_4807.jpeg?v=1791290675&w=1920&h=1080",
+      "description": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher."
+    },
+    {
+      "headline": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHNZZW9GaVRnVzBtRVBfNkpablBtcTB6aTJyM1RZSi1sTDZMS1ozRk5oRE5XR3pWNWtKU1UxRmhDSk1rY19vT0lXOWhQTlU3UWZuZHpCc1hQaWZONEJpZlp4Zmk0QkVPcDJhTEo4ejlQcVIxSVNmUkZkRUhsTDVzZE1JNA?oc=5",
+      "pub_date": 1791335374.0,
+      "article_url": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Sharing AI progress in mathematics",
       "source": "OpenAI",
       "source_url": "https://openai.com",
@@ -15,84 +35,44 @@
       "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
     },
     {
-      "headline": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee",
+      "headline": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdsWTdFWVdPWUFDRjN1RGd6el9PR3NQNFN5blFINGVqVUNRcXMtaW5JcDQ0OV9IejBJa0stOHFnaG9Kd0Q3N3BObTEtQWFXYW9ad2JCS09oQV9iWlB6dU1RSktCSnExdWVUdnRXQmE3aTNCdm5LV01TTW9vbG9sRkctZFhoNm1wdGlqcGtRd3RhRFlzUWt1dElpV0NocGtvYlgyenBlUG5ZV0N6eHUzTXVYSDhzWWROWUhDNlJRYnhwc3Q0SVZzUjUxQUp0OFNkbmFrZEpiNDZweEdRbG9nLUgtZw?oc=5",
+      "pub_date": 1791378373.0,
+      "article_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI/ML setups became a tool in Indycar champion Alex Palou's toolbox",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnVfZ1lLcUJVa3BFQVlfMDZCVHRVR0pybFJETlFEbFNMSTRLTDNNczh5R0Q1V011WWNFbDU2TjFlOV9PTTRMdWxZdHg3aGZpRkhoZGc1ME52UXlmN3JoRG9GNjFvZ3gtdTNoLUUtak5uZ2NWN0h1UExhcFRvalZWV0Z6aDBXT0kyUl8zYTE5QmZPdE5VYzdFVDh4Y2dJXzJIQUFacmEtdw?oc=5",
+      "pub_date": 1791381398.0,
+      "article_url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545-1152x648.jpg",
+      "description": "More than just a sponsor: OpenAI has been helping Ganassi with setups."
+    },
+    {
+      "headline": "Top Commerce Committee Democrat releases AI framework",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXpON2Z0UXlCcWFwNTlQSzZaM29Wb3ljbXpsU1lOYTZjMkhaS0Q3UnFWdGsyeGlfQUM2RXpzOHNBUHJ3aHM4Z0RLZXR5a3FaMl9tWUVVZXlieDA1Wm1YRjJJSXFCbGxpcDZWVDJxdG00UW1nYXZTX2E4Rkd2Ry13cWFFNA?oc=5",
+      "pub_date": 1791380220.0,
+      "article_url": "https://www.politico.com/news/2026/10/07/maria-cantwell-ai-framework-01109797",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A surprising industry is fueling a new rush for gold \u2014 and it\u2019s not slowing down",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
-      "pub_date": 1791335601.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/882a73524af575625083f2d2ee52394e.jpg",
-      "description": "OpenAI, Anthropic, Meta and Google representatives stopped short of guaranteeing their AI agents will always obey safeguards during a New York City Council hearing."
-    },
-    {
-      "headline": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pbHplOS1RVUF0dGJaTU5hSFRybThFQmVZQ2dzTUdlRjJ3eS1YTlpmMUNyc0p3OW54YWJDcEFpTzdTS1cxZDRHb09lU05wMFBTQXRBbmJlVG5OQThpOFRjckxiMXo2dWY50gFuQVVfeXFMT1R3UjBHdFd0YmFiaWRpR28yakhmNUxRbm1KZ3lfa0lSN2toOFJTV2NSOTlEbGVCbFpIbkNZRDVQbS1GQy15N2o0R2RtV3UyWndHRDdha0M1dHJPcFpRblpEejFGRXFCZzU5c25UaHc?oc=5",
-      "pub_date": 1791324784.0,
-      "article_url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
-      "description": "Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom."
-    },
-    {
-      "headline": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlFJMzJ0N1RkekM2WkV2SXlQVlRkclhIT2FKSG1XOTNrTzVYQTB5QUdaYXd4QkRYcmdvd1JWYVNJUmtIWjVnNjRtQ05SQ1Z3WEV5eFVmdGFJVjRlaEZ0WlhMNk5wc3V1REsxNTk1Z05FbmV2cllwYXF0dmx4dkNKMnphSnZtcURYZzVUTFcteXA0T3ZaWU9zRjZoMVowdzNFLXlyMDB1LXQzNk9UNHYxTUl3TdIBuAFBVV95cUxNTnRfR2pxM3NrNkhlNVR0WG9WM1ZZY08wREFET1ZjaU83OXhZT05oTE9yR2VQTF9WSzBtd2JyUVE1QzliOHZ0dzFXbXl3djM4RDlReVFJVkxqVUZ0UVhETWlVUG1Md05tenhDVllwRkdzS0FZNzJxYWJINGllaDY1LVAwUDBOZzZRSmRjM2xOSWNsRzV1RkhuSDVCTjMzTnM5NTlFby1IS2NQZ2NRNEhQX0gyNVl2UUlf?oc=5",
-      "pub_date": 1791307340.0,
-      "article_url": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363592-1789562853937-gettyimages-2294958190-train0827.jpeg?v=1789668448&w=1920&h=1080",
-      "description": "If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce."
-    },
-    {
-      "headline": "CNBC Daily Open: AI rally defies bond market rout",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTa0lMRzRlenFiX2xZOU9sYkdvcVpSaWk2OG5lWktXVExWY3Rsbml3eExEcGtCb1BNTGd0UkRNdTlBZHNXVE1QV1JjNmRuRjYxdEFUYk5YSkNXa0NvN1poLUZMVUk5V2dwVkpFREhNa1ZnTl9waU8zeENoTnJCd9IBgwFBVV95cUxPa1o5c0pDMUhPTmhfenRINmxkanBEV2E4Z0pOaFQ4a3JSeEl5U0ZEZXJKYmo5ajF3bTg3RXM5b2xVaFJVWmY5M3JkOGpXZHM1bmNXUDJqNzdqQVdnQTloRWlab3ZOZGNkVTM0akhqMGFRRmdEWW1OTTRkTGN5LWN6dGpLYw?oc=5",
-      "pub_date": 1791354515.0,
-      "article_url": "https://www.cnbc.com/2026/10/07/daily-open-ai-rally-bond-market-rout.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368167-17903510302026-09-25t154126z_116126255_rc2dqnabr23x_rtrmadp_0_usa-stocks.jpeg?v=1790351148&w=1920&h=1080",
-      "description": "AI stocks propel the S&P 500 to a fresh record high, but the bond market blues keep investors on edge."
-    },
-    {
-      "headline": "World Faces Risk Cocktail From AI, Oil and Debt, Says IMF Chief",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnJaWjRqYUFwWTFjeUZVblVEOWJoaG5nQTg0NXp3el9YcU9VcVRQVEFmX0RSS1E0NWltZlZ3c3A0RlVJQlhLTEktNC1mQ05YRng5emp6anVycUlNSkpuaU94TEtzMkxzbEpwU0gtamg5QUFlZ09jMlJyOTdhbWVPeGFiazR1MUpMb3dEUWtJNXNPV3ZhY045MWY5T0Jma243Qk91Q3h0LVVyZDRIeUhDaS1B?oc=5",
-      "pub_date": 1791352800.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/world-faces-risk-cocktail-from-ai-oil-and-debt-says-imf-chief",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFNSRkFpcWtGeGhqQ05tLTBEeGZHUWZhTGtSbEpKQmZJY1lKR0NhcVF4UTY1ZlpnZjNYdEFmM1NiLUlmbU1zRXRTejNpYTFPWFpYbi1CMW9waklrM3FUcUd2OC1LUTBpOHFMTWY1VGRYR2dKclJ1WWdvdGMtcEZiVFNRQ2pwc0NudkMzbXB2QdIBlAFBVV95cUxOaHpydEtxMUk1WF9IVC1uWE00ZGgwOHppLU1MWVpjemtjX041N3Bib0NSNE5PQ3BQTnBOazNJTTlybThVVlBSUzMyRlh4clVnTFVaSDlkb2RjUEM3SElSMFZXci15RC1DdkIxN2xicndFVkkxS19DN2U1alcwcWxneFg4czY4Y0lVc0ZGSnlucDg0Y0Jj?oc=5",
-      "pub_date": 1791353799.0,
-      "article_url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373756-1791348289382-gettyimages-2296639243-z92_0347_fjdwcvlm.jpeg?v=1791348373&w=1920&h=1080",
-      "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
-    },
-    {
-      "headline": "IMF Chief Urges Countries to Do More to Curb Debt and Regulate AI",
-      "source": "U.S. News & World Report",
-      "source_url": "https://www.usnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUVSTzlScUxpMlNCZkI5M01EdVBSYVFBMzM5WU5TVllSNFkwdHU3NDVDemtucFZnRWNFSnBKdjBkZXU3SEViaXJ2VG5JQ2pEaXhObVctb1pwYjVLVTBJSGFEVjJVcWh4b2FrenA1aGtPTlYwMkZaeVB2eUdQeDg4ejBtQzFwRWZIeGFsdUpzVXplMEItdkNKSGlseEp4NkRvZGtBVTBGaEZJYUwzZkFrMWZGUjQ3bkZmNU1LalBHQQ?oc=5",
-      "pub_date": 1791353400.0,
-      "article_url": "https://www.usnews.com/news/business/articles/2026-10-07/imf-chief-urges-countries-to-do-more-to-curb-debt-and-regulate-ai",
-      "image": "https://www.usnews.com/dims4/USNEWS/84c53ad/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F46%2Fb3cebf70b1d851f2b16b074e3d3f05%2Fe97bc4d70f8c4d62906e7fc73a6c56b2Asia-World_Economy-IMF_23518.jpg",
-      "description": "The head of the International Monetary Fund says countries both rich and poor must take faster action to cut debt and counter growing inequality as their economies weather a triple whammy from the AI boom and shocks from wars in the Middle East and Ukraine"
-    },
-    {
-      "headline": "US, China, EU: Three paths to regulating AI",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LS3Q4ejViTmdnRVg5ZjM0cWZHQ215N3FXRWI0VGZ0Z3dVZWJVLWhjdWtVS01WSXNFWEFPLWNrYXdhNHk5SkgwMGpMVW1TM0VteWpTQm9aZ29WTFhDRjY5MkVLZDNFZjk5YUE?oc=5",
-      "pub_date": 1791354640.0,
-      "article_url": "https://techxplore.com/news/2026-10-china-eu-paths-ai.html",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTG9hREEtd3BNbTBYbms3b3N5SDEwU1BRcFRKQVFCckExMWZTTmNlZWd3THJ1VlJFNG1HWnhObWJqbkFlUFZKNEE5NVdQeHB1M0hzMHNiZ0xVWVRCbUNGRmpnNjI4TEdzcm1ZeXZ3TFBnWUVWTmlDV1NkQ3FQNEVyQmxsZzZEZ1RLa1Y5VHZreFkydzF6MmfSAZsBQVVfeXFMTUdka0Q2VE5WNXBsbXcxenBENnFsdEVpZHFHaG9HSi1wQkYzT2ZiekNZNGNPSGg0b1RVMC1hMFlOS3BxWGlpOUljdXlaQ205VEpfRGNRU1JtNFN6OE04UTNxODFONGxJUmVyN1RsZEtsRDIyeU52R3RVcGFOSW1MUkdwMTdBM1dLSnNyWkxlVWhmN0E1SXduUVJ0b0E?oc=5",
+      "pub_date": 1791305162.0,
+      "article_url": "https://www.foxnews.com/politics/surprising-industry-fueling-new-rush-gold-not-slowing-down",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/gold-bars-stacked.png",
+      "description": "Gold demand from AI infrastructure and semiconductors is climbing even as prices hit historic highs, and tech firms aren't switching to cheaper metals."
     },
     {
       "headline": "Opinion | A.I. Is Lying to You. Here\u2019s How to Fight Back.",
@@ -103,8 +83,28 @@
       "article_url": "https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "The unexpected ways that AI is reshaping the U.S. economy",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
+      "pub_date": 1791379938.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/10/07/ai-is-propping-up-economy-including-manufacturing-ads-energy/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJ5SLP4UNND35MKJALPFX7QFOQ_size-normalized.jpg&w=1440",
+      "description": "The technology is bringing new prosperity to certain parts of the economy, but also creating new vulnerabilities."
+    },
+    {
+      "headline": "Dalio Says We\u2019re Nearing Point Where AI Bubble May Burst",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVExwaEE0N2F0Z3l3VC11TXphdC1IRHF2TnFTNGVaT3p5R2J6ZklNMWZ3UGp1NzJpSlZQTkd3NGs5RzRicm1SVlZyWDBJWGZyOWx2c2tnSjhEcE1Kc3pfcUVlOFVpMFBld2ltZFFMRGR1NVRmWldqenlXYnppXzBQMkJzQmt6dw?oc=5",
+      "pub_date": 1791345900.0,
+      "article_url": "https://uk.finance.yahoo.com/news/dalio-says-nearing-point-where-040523378.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3e60dfa3c5bc978ccbee6ec2bb23141bf218828105b1539ef7f4dc387da69807/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F814dca3ee96108ad302e03f0c07f2aed.jpg",
+      "description": "Billionaire Ray Dalio warned that artificial intelligence is a \u201cclassic bubble\u201d that is nearing a bursting point thanks to rising interest rates and the need to turn wealth into cash."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T06:53:50.468656+00:00"
+  "fetched_at": "2026-10-07T14:15:19.153797+00:00"
 }

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-07T14:14:49.910364+00:00",
+  "data": {
+    "url": "https://adversa.ai/blog/cryptographic-context-injection-github-copilot/",
+    "title": "GitHub Copilot CLI vulnerability leaks developer secrets",
+    "description": "One encrypted web page makes GitHub Copilot CLI read local files and send them to an attacker in 28 seconds. GitHub won't call it a vulnerability.",
+    "image": "https://adversa.ai/og/blog/cryptographic-context-injection-github-copilot.png",
+    "favicon": "https://adversa.ai/favicon.png",
+    "site_name": "Adversa AI",
+    "author": null,
+    "keywords": null
+  }
+}
