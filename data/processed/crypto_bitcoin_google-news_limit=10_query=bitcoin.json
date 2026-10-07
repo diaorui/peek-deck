@@ -5,46 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkd2Qlk4b01XLVF1ZGNyNTVtT09GVkdCLTA2cTlVeWl2RnVyaE1BMWlnVTVRSUdLTVlWNG5EVG1LcEdKMmRVb1kxODc1TGdibUo2R0RCZmZ5a3k1YzEtYWNOb3pnQkl2MHZUQW1RLXVaMEpheTlfZHRQa2kwTENNbjNDY2V1Zi02STdkOW1kOUxlZDVPMHRLOGFXcW4ycFlwRlFQdjJpdHJnMUFsOEVpUkNEMHFSVFpjMGNWUzlNTDFvRldBRkIyNThR?oc=5",
-      "pub_date": 1791275263.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c69a265f31846f161fff5cce9c863ae358a6c589-1600x1060.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "This shallower decline isn\u2019t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%."
-    },
-    {
-      "headline": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ka3RSWFR2Z0VndzAtT1ZMSGZadTBfa004TFBjRVk4VWd2YUE3VXFkcFd2VUc0VVlEYlM5azFtb0RFNjFKY1ZjTlBTTlNXWVJwOFVyZmQtdjI2Z0YyeXphdmI2NWhWeTJFQXhOMWNrWVVvd3FjcmhyRU5LelRxcEk?oc=5",
-      "pub_date": 1791239420.0,
-      "article_url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png",
-      "description": "The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week."
-    },
-    {
-      "headline": "Watch Bitcoin Becoming Portfolio Allocation: BlackRock's Jacobs",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGszMGlXc0lKZEFISl9NOUZ2RWtONVhVeG9SRGZYSFNVNUJfYWh2cXZoeUR0WUJxYV91cTNKZzFveVBkc1BXSmxoam9LOUJoWXRrSXROdkJzOHVlNTM3TUVoSTZrZ3pRNnVwWjdZa0Z6S3hLZ28zNS0zNUE2ZkJVNWlqWUdHb1d4OHRwUTRrejJLTmxSdHRTNVhOdEZ6SFBSekRrWXln?oc=5",
-      "pub_date": 1791317587.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-06/bitcoin-becoming-portfolio-allocation-jay-jacobs-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Headwinds Are Sign of Monetary Tightening: Acheson",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPandDNkNfMmRjRUp1NV9sNk9mcnpOUHBDQko3bGFPWTdNT3FubVcwLVJ0SHY0Zk43NUs3TEhaeFdlMUZlQkpYUEMtaGVGRExJUW4yTHNkdVFONWlyQkJLcjY4a0tLaGFZUk5TUFI3Z0R6YkloelI3OV8xYXptVmJNNU5ta1NfN1VWNDRBdmtrRGI5MjA?oc=5",
-      "pub_date": 1791315665.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoin-headwinds-sign-monetary-tightening-194105249.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8fb39da697081cf673e30d0d2964d39b2bb48b1158fa0a7b9e20bc8968cb5738/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2F48a03b8321fe6942e122656fa9490a49.jpg",
-      "description": "Jay Jacobs, US head of equity ETFs BlackRock, joins Scarlet Fu and Dushyant Shahrawat on \"Bloomberg Crypto.\" They discuss the attractiveness of the iShares Bitcoin Trust ETF (ticker: IBIT) to investor portfolios."
-    },
-    {
       "headline": "BTC, ETH, SOL price news: Bitcoin hits $87,000 wall for third time as stocks near records",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -65,24 +25,74 @@
       "description": "Bitcoin opened at $86,513.38 on Monday, October 5, 2026, up 2.1% from Sunday's opening price. As of 7:37 a.m. ET this morning, bitcoin dipped to $86,121.88. Ethereum opened at $2,726.72, up 1.5% from Sunday's opening price. The price of ethereum moved slightly lower this morning to $2,717.55 as of 7:37 a.m. ET."
     },
     {
-      "headline": "Bitcoin grinds toward $87K as US equities hit new record highs",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkJWZGtaYThFaG84Qi1TS2dGTzV2dEZHUXN3cUFSWWQ0dEJtQ0tPNzJiRGpEY0tmSTJFZjJaQjQxSWszem52RDFvWVREamE5QmZOZEJPazd4cXA4UzNDSnc1QVRFdU5XMW1EUGs3ZTEtU1gtUzFOYkgyUjNtaEw1Um5id0pPX2xIeGY4ZE9mWmV2N1l0MnBEcU1MTVN4YkFTX3gwNThHSW8wQjJlXzA2TThoa1kwQlZZbjc4dlBQQUl5Ums?oc=5",
-      "pub_date": 1791307198.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:94773c6d9094b:0-bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) continued to circle $86,000 on Tuesday as US stock markets hit fresh all-time highs.Key points:Bitcoin rangebound as S&P 500, Nasdaq see new highsData from TradingView showed BITSTAMP:BTCUSD attempting to return to $87,000 after another failed attempt to break higher on Monday.BITSTAM\u2026"
+      "headline": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJDa0tlWHc5c1NiajNMeGREU2JPOWdldE5HMURPVkZqUDI0OXZHb1BOb1Y5UUZPSEN6enh4WUFraTZXMmt3dXA3NXZwWGVnVElRQ1J1bUhKS1VXNU1UcmYzSkdFZ0tIdm1GQmxEQmhmUWZNNm9FSklCQUdhUlVxenp5RFRLWk1WVlpRSTRMM2FLaXB4amFTYmNJR0Y5b0I4QnZUQmtFcFdzdFVFNWZFNjBRWlRYNncwcWVWeldVai1IRU0?oc=5",
+      "pub_date": 1791330909.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "TD Cowen: Bitcoin to Hit $132,750 by 2028, Strategy, Strive Could Outperform",
+      "headline": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ka3RSWFR2Z0VndzAtT1ZMSGZadTBfa004TFBjRVk4VWd2YUE3VXFkcFd2VUc0VVlEYlM5azFtb0RFNjFKY1ZjTlBTTlNXWVJwOFVyZmQtdjI2Z0YyeXphdmI2NWhWeTJFQXhOMWNrWVVvd3FjcmhyRU5LelRxcEk?oc=5",
+      "pub_date": 1791239420.0,
+      "article_url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png",
+      "description": "The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week."
+    },
+    {
+      "headline": "Arthur Hayes Expects Bitcoin to Hit $126,000 by Year End. Can BTC Climb 46% in Under Three Months?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWQwUEpwVjBvZEVhaHM5NmIxcDJuT3JRV3NVWEN4VTJBckQtSjM1SkdvSm9PX1pQM1dwQ1NGOE02WVBaaG1vajhRalBSU1UzT2dRRUhZUHFrdlNMMm9Dc2JIa19MX1JIZDJQUjNtV0ZlcExsLWppUVpWVGp1dkFkUy1BZ3A0bS1Hak5tSnFrMEF2d0hKYzJDU3RfUkc0QQ?oc=5",
+      "pub_date": 1791331200.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-expects-bitcoin-hit-000000987.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/462fde1f64305003957718309737e16b94bbe7adc35435932f5996d38cba25b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0379d3279b4b93a488f72486ac778f53",
+      "description": "BitMEX co-founder Arthur Hayes calls his latest Bitcoin price target a foregone conclusion, but the math behind getting there before New Year's Eve tells a very different story."
+    },
+    {
+      "headline": "Crypto Elite Gather in Singapore as Bitcoin\u2019s Rally Buoys Bulls",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFNScVlncTZjMV9OeTdmNUFGSVpKLVhndmt5MXp5SHE3MzhUYmNCR0JwcGtwUjIxSVRuNFBYOUNuWHhZZVF3YWoyZ0pXbUotQ0NVUmNWbEtYNnpnV1BNb2NhUDY4X21ScmJRek9iTkV0VjdmMnZ2ZVMzVU9VQzhiaWlXUUZSNUVlSUt2M2dFTDBMNmlJVjVGYktoOGdYWWNwN2d0WXdlZDFsTzd4bG0wUmphTWo?oc=5",
+      "pub_date": 1791241200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/crypto-elite-gather-in-singapore-as-bitcoin-s-rally-buoys-bulls",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "First National Bank opens Bitcoin trading to nearly 9 million clients",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1V1TmdaLU9rOHhvUTFiajZVVG43NWJsd3BsRVVEdGFOMTJxODJqNURKakdxSWFkc1NhaFBHVnJON2Ytdk9JczRrczdMY2dmSXFQdUlsdXMwa3hvc0FoTUpQWl9ENTRoZDZOd2ZpaUN6MG0ycURQSjQ3djNWdGxJeE9EM01mSU9KdGJYeTk3bEt4NzV0dEhfMW1DcTRNNjZuUy1GY1F3MzVlMnNLX3BIWlFYRzBMRnV6b1NFY3NLNnBONmlxX2VWakp2ZmdReU0?oc=5",
+      "pub_date": 1791315349.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:9ae735d70094b:0-first-national-bank-opens-bitcoin-trading-to-nearly-9-million-clients/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "South Africa's second-largest bank is letting its customers buy Bitcoin without ever leaving the banking app. First National Bank (FNB) has unveiled a feature called \"Crypto Investing\" that opens digital asset trading to nearly 9 million retail clients.FNB is the retail banking arm of the FirstRand\u2026"
+    },
+    {
+      "headline": "$85,000 Level Could Be Crucial To \u2018Structural Change\u2019 In Bitcoin Market, Says Analyst",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUEyTkxwYlhJZU1CREFManVaODY5ck1sUHd3a3ZPRXFlV1ZoWEJ3RlR3UkFXdW9Bc0ZLS0tVM3BreUJ0ZFJVWnR4ejBoNFNZQnNBWlE3dTB6S2s4OG9valpreGV3aWp5QU56VDlFMmJ1WV95R2FSSDJhUTBwS1BOS1RpWEhGYXVTV01ybGlHWGZtd2EwcThjTVNNc0lzZldzdHFTTGs3czEtajFoS1FYRkpaUDhSaFlMQnliX2o4Mk9Kc1RPUjBRU0R2dmFXcU0xSXc?oc=5",
+      "pub_date": 1791320375.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/06/85000-level-could-be-crucial-to-structural-change-in-bitcoin-market-says-analyst/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin's Rebound Isn't as Strong as It Seems: Watch These Warning Signs",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0dzLVdxWkN1SGZ4MWRKaGFPNVc0bTkxV2V5cVc3cGRlUi1RRDJaYkFELWt6UFNxN1VEU1NlSGNVR1VGcW5WYVZvTWk5amxsNll6Y2UzUmxUX2NmUllHcU41OXRiV2RSQU0xejNzcVhXQTJQYV9yVWt1aEhrelVOdW5hQy10ZFd0Tk9CYkptNDNQZEZNRHV2aG9Xc19mbkVqaFVENWN0MmNhazBPZjJqTExaZGdtanFIWHBsel9RdnUzYk5VNGxEWWNrbUFuZw?oc=5",
-      "pub_date": 1791292322.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62189635/td-cowen-bitcoin-to-hit-132750-by-2028-strategy-strive-could-outperform",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/06/Cramer-Predicts-Dimon-May-Embrace-Crypto.jpg",
-      "description": "Bitcoin may reach $132,750 by 2027 and $275,000 by 2029; well-run BTC treasury firms could outperform Bitcoin by ~50%."
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSzNCcXRBQ3hlQktPMkdPOEpCdkpJbHZqaUdLY2xJSjJvMkkwMHh6Q2I0Sk5DWEhUemtQNVdMbTFKbkcxWWVfSEV6ck13TVpxakQ3MTAyNWNyaXFuMkdOa19QYVQ5SE01MHBoMDVNVEEtQXJzRVptMzZQNVFTU011cGVmemQ5VnFsODRVUTdjV3FucV80WmpCdWpQcUExVVBOM1lHUkx2MzU4TC01MFl4UV81SzlHMTJGeVJfUVNHNHpxcUxMRGFDT3N3cw?oc=5",
+      "pub_date": 1791307941.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62200044/bitcoins-rebound-isnt-as-strong-as-it-seems-watch-these-warning-signs",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/06/Bitcoin.jpg",
+      "description": "Binance Research warns Bitcoin\u2019s $84,800 rebound may be fragile as historical patterns and high Treasury yields raise fresh risks."
     },
     {
       "headline": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" For Bitcoin",
@@ -93,18 +103,8 @@
       "article_url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbases-Ryan-VanGrack-CFTC-Approval-22Opens-Many-Doors22-for-Bitcoin-.jpg",
       "description": "Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase\u2019s Ryan VanGrack explains why ETFs and direct holding can both thrive."
-    },
-    {
-      "headline": "Bitcoin's New Bull Market: No More Boom And Bust (BTC-USD)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb0NNQ280NnE3MS1nUGtudVExME15YXVPa3FvNWYzdENRYmhHMjZLd3ZzMzJXVFNDdjg4QkQxd2ZaQ1FLVjZib2RQTHFwZ3R0NHEzQ1dXeEluMHlUMWhWZHNrRFRBMTZ6OFQ2c1BWSDE4U0hOQzZFa0t1ZUk2ZUluQjg3d3NvWXBLSGc?oc=5",
-      "pub_date": 1791217380.0,
-      "article_url": "https://seekingalpha.com/article/4952010-bitcoin-new-bull-market-no-more-boom-bust",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-06T21:07:23.116317+00:00"
+  "fetched_at": "2026-10-07T00:55:09.472696+00:00"
 }
