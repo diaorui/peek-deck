@@ -5,26 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trillions are being \u2018wasted\u2019 on the AI boom, Arthur Hayes says. He\u2019s betting on what comes next",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblYtWWRwYjVoTE93ZXJGZXVwYzVhQ194XzhyQTVYZTlWSzQySV9UU2c0MnVFX1NWT0RoU1BjdVFrZ0ZXbnNnS1l0TE9ONEZISmRJVzY3QkF6WDVXQTZIR3VMLVhUckwweUdiUk5vYmwwTzZCTTdPV05heDhCY29fMXVoZmZZd2huWHkyTFY1N1FGaEFYckHSAZsBQVVfeXFMTjlHOFhpaGlXaFRxdlB6cXh2c2FfeW1GaXhEVFVNemdiLXZjNnFUbEJnclJuU3ZyRWpKWDB5YmNtTm1Ib09jbklLLXhaZGNSWDVRWEdOemtES1BqempUNXVULUN5MEYxS3BlT3RTdU1CS3BDSFh4VXRsRnNRZ3o3MWIyUFAwUENQQlcxQThSX2JTNkMxbi1Qek41WDA?oc=5",
-      "pub_date": 1791334140.0,
-      "article_url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373228-1791290584757-gettyimages-1813801150-BC_2023StudioAI_4807.jpeg?v=1791290675&w=1920&h=1080",
-      "description": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher."
-    },
-    {
-      "headline": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHNZZW9GaVRnVzBtRVBfNkpablBtcTB6aTJyM1RZSi1sTDZMS1ozRk5oRE5XR3pWNWtKU1UxRmhDSk1rY19vT0lXOWhQTlU3UWZuZHpCc1hQaWZONEJpZlp4Zmk0QkVPcDJhTEo4ejlQcVIxSVNmUkZkRUhsTDVzZE1JNA?oc=5",
-      "pub_date": 1791335374.0,
-      "article_url": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Sharing AI progress in mathematics",
       "source": "OpenAI",
       "source_url": "https://openai.com",
@@ -35,76 +15,96 @@
       "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
     },
     {
-      "headline": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdsWTdFWVdPWUFDRjN1RGd6el9PR3NQNFN5blFINGVqVUNRcXMtaW5JcDQ0OV9IejBJa0stOHFnaG9Kd0Q3N3BObTEtQWFXYW9ad2JCS09oQV9iWlB6dU1RSktCSnExdWVUdnRXQmE3aTNCdm5LV01TTW9vbG9sRkctZFhoNm1wdGlqcGtRd3RhRFlzUWt1dElpV0NocGtvYlgyenBlUG5ZV0N6eHUzTXVYSDhzWWROWUhDNlJRYnhwc3Q0SVZzUjUxQUp0OFNkbmFrZEpiNDZweEdRbG9nLUgtZw?oc=5",
-      "pub_date": 1791378373.0,
-      "article_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/",
+      "headline": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHNZZW9GaVRnVzBtRVBfNkpablBtcTB6aTJyM1RZSi1sTDZMS1ozRk5oRE5XR3pWNWtKU1UxRmhDSk1rY19vT0lXOWhQTlU3UWZuZHpCc1hQaWZONEJpZlp4Zmk0QkVPcDJhTEo4ejlQcVIxSVNmUkZkRUhsTDVzZE1JNA?oc=5",
+      "pub_date": 1791383520.0,
+      "article_url": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI/ML setups became a tool in Indycar champion Alex Palou's toolbox",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnVfZ1lLcUJVa3BFQVlfMDZCVHRVR0pybFJETlFEbFNMSTRLTDNNczh5R0Q1V011WWNFbDU2TjFlOV9PTTRMdWxZdHg3aGZpRkhoZGc1ME52UXlmN3JoRG9GNjFvZ3gtdTNoLUUtak5uZ2NWN0h1UExhcFRvalZWV0Z6aDBXT0kyUl8zYTE5QmZPdE5VYzdFVDh4Y2dJXzJIQUFacmEtdw?oc=5",
-      "pub_date": 1791381398.0,
-      "article_url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545-1152x648.jpg",
-      "description": "More than just a sponsor: OpenAI has been helping Ganassi with setups."
-    },
-    {
-      "headline": "Top Commerce Committee Democrat releases AI framework",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXpON2Z0UXlCcWFwNTlQSzZaM29Wb3ljbXpsU1lOYTZjMkhaS0Q3UnFWdGsyeGlfQUM2RXpzOHNBUHJ3aHM4Z0RLZXR5a3FaMl9tWUVVZXlieDA1Wm1YRjJJSXFCbGxpcDZWVDJxdG00UW1nYXZTX2E4Rkd2Ry13cWFFNA?oc=5",
-      "pub_date": 1791380220.0,
-      "article_url": "https://www.politico.com/news/2026/10/07/maria-cantwell-ai-framework-01109797",
+      "headline": "Scoop: Ex-White House AI advisor is raising $500 million VC fund",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41OUUxbzRXZGZCWmVSTXdpejkybnQ4MktuQWFwbS1vdG9ZM3lCYmlSbVZYc2hkb2pwbE5mWm52cmZNcDBDbk1uUy1tcHRiMThaeE5VcUZZMkJGMHRYYXAzVlBXb0RtZl94NEJudGJhaHVyeGJQMnFuaEZZTQ?oc=5",
+      "pub_date": 1791400737.0,
+      "article_url": "https://www.axios.com/2026/10/07/white-house-ai-advisor-sriram-krishnan",
       "image": null,
       "description": null
     },
     {
-      "headline": "A surprising industry is fueling a new rush for gold \u2014 and it\u2019s not slowing down",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTG9hREEtd3BNbTBYbms3b3N5SDEwU1BRcFRKQVFCckExMWZTTmNlZWd3THJ1VlJFNG1HWnhObWJqbkFlUFZKNEE5NVdQeHB1M0hzMHNiZ0xVWVRCbUNGRmpnNjI4TEdzcm1ZeXZ3TFBnWUVWTmlDV1NkQ3FQNEVyQmxsZzZEZ1RLa1Y5VHZreFkydzF6MmfSAZsBQVVfeXFMTUdka0Q2VE5WNXBsbXcxenBENnFsdEVpZHFHaG9HSi1wQkYzT2ZiekNZNGNPSGg0b1RVMC1hMFlOS3BxWGlpOUljdXlaQ205VEpfRGNRU1JtNFN6OE04UTNxODFONGxJUmVyN1RsZEtsRDIyeU52R3RVcGFOSW1MUkdwMTdBM1dLSnNyWkxlVWhmN0E1SXduUVJ0b0E?oc=5",
-      "pub_date": 1791305162.0,
-      "article_url": "https://www.foxnews.com/politics/surprising-industry-fueling-new-rush-gold-not-slowing-down",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/gold-bars-stacked.png",
-      "description": "Gold demand from AI infrastructure and semiconductors is climbing even as prices hit historic highs, and tech firms aren't switching to cheaper metals."
+      "headline": "White House AI czar Jay Clayton: You have to develop technologies in a way that promotes safety",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFJLWE1kLWlPYmpwTGVqbUI0NG4yMzFvSlZxSThWeDVFUktTSExId2o5d0k0ZUVRam5qeGgzbktISHhSZUc4c0M5WDRzMWZvQ0x0ajJkWklES0FZN21yY24wdWZwOVU2bzNYR25SUHJLMUwzQWxjU2l0NHByd0sxQjVXcFZMTHc5bVRoWjUybmpoS2tnTElRc3VIUFJOYkF4eUlZUmhIZ2RacjhnRDN5UlVmTDVwMGNXV1dvX1J2NmZHbjBnMGNMY2t4VHBDNEpubWhv?oc=5",
+      "pub_date": 1791401326.0,
+      "article_url": "https://www.cnbc.com/video/2026/10/07/white-house-ai-czar-jay-clayton-you-have-to-develop-technologies-in-a-way-that-promotes-safety.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374348-17914011441791401141-48853018918-1080pnbcnews.jpg?v=1791401143&w=1920&h=1080",
+      "description": "CNBC\u2019s David Faber and Nikesh Arora, Palo Alto CEO, and Jay Clayton, White House AI czar, join 'Closing Bell' to discuss the future of AI and cybersecurity."
     },
     {
-      "headline": "Opinion | A.I. Is Lying to You. Here\u2019s How to Fight Back.",
+      "headline": "Answering Key Questions About AI Consciousness That\u2019s In The Spotlight Right Now",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0hvbnd5TldTRkFWZVFUTjE4dWpldUxJanRpcG0yWm5CR290Y0o3cmFwcV9qU1VYTnVCVGJMVFFad29kczJ0M1VNanJVZmFYTlZpY2NXaHJENlhfNDBKU1RSbXUtVjdqMzcyeTlTOXhTekQ5TDFQUHNfZVNab25wRVh2bnd4SWhhMzFFQ1NUbEItNndZcExMbnhIa3ltVGZkbU10MXctSUNuRktwNU1HalFmQzhCQ3pPVkUwMERSUkx3RVhMVzY2Nzgyaw?oc=5",
+      "pub_date": 1791401848.0,
+      "article_url": "https://www.forbes.com/sites/lanceeliot/2026/10/07/answering-key-questions-about-ai-consciousness-thats-in-the-spotlight-right-now/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | He\u2019s the Most Powerful Engineer on Earth. Here\u2019s Why He Thinks A.I. Is Going Great.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHBHQ3RRM29zY1k4enBMaHdweEh2XzlfUzRNdTY2eGhWaVktX2ZTVkU5ZUJHVHh6ZVNtTUd4MnRjMUxYU2ViZmJrRHhZQl9Dc3p6MkJMWVJIaUpiQlQ0NVpUd082Y3RxT3QxdXlxQkMwV2RUaEFVS0JSLXk2MXl0MlFRcw?oc=5",
-      "pub_date": 1791320405.0,
-      "article_url": "https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkdPdnU1M2xCV1lWSUVnU3BORnhBUHptZ1VSUkwySHVjcV91THBlcjdRUlktRExqTWtZVF9JS01qbHhuVjBacXBHQjRhTnMtMUVKY3R5MzVPZ01nNXhxc3E1TEFUaElNYVc5WXZuV1M2VmZfY3hlYU8yU0dlQVo4bQ?oc=5",
+      "pub_date": 1791385212.0,
+      "article_url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5",
+      "pub_date": 1791397852.0,
+      "article_url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+      "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers."
+    },
+    {
+      "headline": "Microsoft looks to reboot the AI PC with Nvidia",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpGQ0x6Umk4NEY4YlpBaE1KN19wcE1rbklvV3lOdUk5TjhDUEJKUHFOOWdiNU1vem9FTTVfcTBaX0FGQXptZ3lYT1NDeTlrX21jeG5JWjA4bDdxQXhKNm5id3R5UGRoYkJaUjA1TVV2NzNOUkx5UXNDZ3ZCNWZqV2xzbnJFbzg?oc=5",
+      "pub_date": 1791397423.0,
+      "article_url": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Microsoft plays the Windows card in the AI game, with help from Nvidia",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZLeUxsRXo3dGM4c0xsRVQ2b2Z6WEpRMlV3cHYtWm12SW5salRSQzJ1c1cza0RuLUJKU1F3SGdHc1c4M2s4bFptYUxmM2l4b0dxcnhMY3RBWkQtNEJVci1VOXF4QkNpZzl0WVU4RHAxNTJJd1hDSEhvUnZUaFZrZTBDc3NkWEQ2UnJJMVNmX3JlRkZnM3RzbkQ4ZmlQNHRkc0E?oc=5",
+      "pub_date": 1791402754.0,
+      "article_url": "https://www.geekwire.com/2026/microsoft-plays-the-windows-card-in-the-ai-game-with-help-from-nvidia/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/nadella-huang-windows-event-crop.jpg",
+      "description": "At an event in San Francisco, Microsoft announced features that will let Copilot read the files on a PC, take actions on the machine and run AI models locally instead of in the cloud. New PCs built around an Nvidia chip, including a $2,599 Surface laptop, start shipping Oct. 16."
     },
     {
       "headline": "The unexpected ways that AI is reshaping the U.S. economy",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
-      "pub_date": 1791379938.0,
+      "pub_date": 1791388800.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/10/07/ai-is-propping-up-economy-including-manufacturing-ads-energy/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJ5SLP4UNND35MKJALPFX7QFOQ_size-normalized.jpg&w=1440",
       "description": "The technology is bringing new prosperity to certain parts of the economy, but also creating new vulnerabilities."
-    },
-    {
-      "headline": "Dalio Says We\u2019re Nearing Point Where AI Bubble May Burst",
-      "source": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVExwaEE0N2F0Z3l3VC11TXphdC1IRHF2TnFTNGVaT3p5R2J6ZklNMWZ3UGp1NzJpSlZQTkd3NGs5RzRicm1SVlZyWDBJWGZyOWx2c2tnSjhEcE1Kc3pfcUVlOFVpMFBld2ltZFFMRGR1NVRmWldqenlXYnppXzBQMkJzQmt6dw?oc=5",
-      "pub_date": 1791345900.0,
-      "article_url": "https://uk.finance.yahoo.com/news/dalio-says-nearing-point-where-040523378.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3e60dfa3c5bc978ccbee6ec2bb23141bf218828105b1539ef7f4dc387da69807/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F814dca3ee96108ad302e03f0c07f2aed.jpg",
-      "description": "Billionaire Ray Dalio warned that artificial intelligence is a \u201cclassic bubble\u201d that is nearing a bursting point thanks to rising interest rates and the need to turn wealth into cash."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T14:15:19.153797+00:00"
+  "fetched_at": "2026-10-07T20:04:55.388131+00:00"
 }

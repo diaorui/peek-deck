@@ -5,74 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, XRP, Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Stock Falls.",
+      "headline": "Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5",
-      "pub_date": 1791376080.0,
+      "pub_date": 1791395160.0,
       "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616",
       "image": null,
       "description": null
     },
     {
-      "headline": "How native transaction assertions could enforce a transaction's final outcome",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwTkZpeGJOc0k2ZnBmN2tFTEg2eVJFcE5JX2hENUEwOWhVQWMtcUpoZ21ZMndHZ05MS0xFRU5Ra0JoRUFPUlVKRjMxdHAyS1lwZGdTX0Y5Mkxud0Q1M29RQ0xBd0R6SU82dmRJ?oc=5",
-      "pub_date": 1791214753.0,
-      "article_url": "https://blog.ethereum.org/2026/10/05/transaction-assertions",
-      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer2.png",
-      "description": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is..."
-    },
-    {
-      "headline": "BitMine Is About to Stop Buying Ethereum: What Happens to ETH Price Then?",
+      "headline": "Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFFVWGsxdnlvbHdiOHpVRUx0TV9BdGpkYjRYSnlBSkFxZ1NDcEhWZ1VUSllfNU1DSlhLZlViQnJ2a1hDSDEyVkpqR1FBaVhwcXI4clhpRnZ6ZU9oODBpVGRlM0p5M0d6ZnVGQUREOHRKcXoxUS1JOHhuWEFrTFhGNU9sLVR2aDJiLU9WckY5NENMenMtaUxPbE0wbnJaMENhc1lN?oc=5",
-      "pub_date": 1791378424.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-stop-buying-ethereum-happens-130704717.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7bacf7505f5614fec7821babe5c86dcd97722ef532888bb8bd30044a75ffb9be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
-      "description": "BitMine will stop buying Ethereum at 5% of supply. Here is how its buying lined up with ETH price moves since 2025."
-    },
-    {
-      "headline": "Ethereum Drops 5% After Tom Lee Says Bitmine Will Stop Purchases",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDBwQ1ZHQVRwSzNzV0VLOFBkYUtnS28ta2Y5LWh1SFlFcTFnN2NhN2VKLVlPQy1aQ2dqbW1iZXQ4Q2R3d2hGLW1OV0lyWUlWUWVQVFk4MmtaSzVxNFNoNkw1WmpSbHVOc3BoYUpOTVNfVXYwZE9ZQndaSkJHRWt1MVZfX2pqdFdFNDJPYlc1ZVBRZEU?oc=5",
-      "pub_date": 1791380640.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-drops-5-tom-lee-134400133.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2ea65e4431b9e13668679766cb9202a067a637bf58389d30ea676fb5043f7c51/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ff34cc26bcce388b1fde474eda15f2f8f.jpg",
-      "description": "The price of Ethereum (CRYPTO: $ETH) is down 5% on news that crypto treasury firm Bitmine Immersion Technologies (N..."
-    },
-    {
-      "headline": "Arbitrum joins Paxos-led Global Dollar Network as USDG lands on Ethereum L2",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRnFzYTcyaU95UmJZVnBNb3lEajFlcjM5cW9QOEc0TVhXUDJzYldqMy0zQmJoZ01OZXFjbnVrb0w2QmtaVXlBcWtmc09aTTlZYk9qQ2lZWDRNX1BWSXRMOHZBZ3hVUGJJOGczVGdDY1d3QWwxcUl2cmxIek5MVnZaYWpaVUt3ZkxkT2tmUkxscVJLb0lKRHBvaE5DZHMzNHdYZkgxSENfTnhaSl9pak5RZFFuemtfemZiSkFfcmVNaDRjQkR1N09DRzk3Y25XQQ?oc=5",
-      "pub_date": 1791291753.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2617f5fb4a186cef3a6ec88dad9df90c0cee0029-1920x1080.jpg?auto=format&q=75",
-      "description": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics."
-    },
-    {
-      "headline": "Why Is Crypto Down Today? Bitcoin, Ethereum, XRP and Dogecoin Slip After $400M Liquidation Wave",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMVpDc2VPRTJ1R1lUNGVzRVRqVjNVeTB4cTB5dW54VEpWY2FZdUZrOWVQT1RiTkdLWE1LZGFWM2t0WnpESmItRy1GMk5BZi1oZVRqallqdmxHRlpZQkRrR2lQMDROdE4xN0x4YmZ3VlBZWHRObTVTWG1OMUVNTXJ1ZTl1Q3JYN3FaNzhpVUttVElOaUl2ZkF2VG01ZkhVS3RnQTZteWpMRjY4eS1hT3VsTFpleFAzNWhWVnV0cUx4TjJKQzVOdmZ3Vl9NVkludHl0b0lBQmltRzhUMGItUWlQQXpoMkg2bUtxd2s0WklB?oc=5",
-      "pub_date": 1791363600.0,
-      "article_url": "https://www.tradingview.com/news/financemagnates:773c7150d094b:0-why-is-crypto-down-today-bitcoin-ethereum-xrp-and-dogecoin-slip-after-400m-liquidation-wave/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto prices fell today (Wednesday) after a 20-minute sell-off in bitcoin wiped out more than $400 million in leveraged long positions. Bitcoin (BTC) dropped 1.6% to $84,218 on Binance by 07:01 UTC, while ether lost 3%, XRP 1.5% and Dogecoin 3.1% on Bitstamp.The flush hit between about 01:45 and 0\u2026"
-    },
-    {
-      "headline": "Current price of Ethereum for October 7, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUXVKalFOSEt6QWVfTHFiMHpjMzlBaUlKRzNFazloYUVKc2JhbVExdUZ0YUNEdmluQUM0ZWpyY3pYUWdieDVKUno3ZFVqSUh5azNNakVMQUNSYmVNWE42OVFXYV9jd2w1?oc=5",
-      "pub_date": 1791372000.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-07-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-7.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQktvb0FWZG0tUE5saWs2RHh4NUNVSXlUejg2QzdPRG1JMlpZb3VfblFFcnptMjJ3a1lfdWNDZDEtS1pCUnpLWmtLVWNJY05jZExTOVpmSmIzWFFacUw4d09OTnVGeHRKQ0RUbzJEMDVRS1pRMExOZ2U5T1Y5Uzg3LVllM0hURkxHQnpQeGFoeUpyUUY2aEZkc3MtVXBKYVhNZUE?oc=5",
+      "pub_date": 1791376211.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e318131a9c9b7dfe1dd3df71a2f04c15b183462fd80d691f30cf0efb9b8f697f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F80925fda19c6a597a82719ef9ccae9bf.jpg",
+      "description": "A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030."
     },
     {
       "headline": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
@@ -85,26 +35,76 @@
       "description": "The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange."
     },
     {
-      "headline": "Machine intelligence and crypto will merge naturally: Ethereum co-founder",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUVJxbmxqWURlSGpoT2x2d1F6U2piaVViM0tHU3JHUE9nYUdWWWE1U3lsQXlEV3FCN0kyT2IwS1BBRkk3ay01TkZVMzZHTWxsZmJnTWtuZjdaRTgwT1lkcXg2Z0xRdw?oc=5",
-      "pub_date": 1791352367.0,
-      "article_url": "https://www.cnbc.com/video/2026/10/07/joseph-lubin.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373730-17913389161791338913-48838149359-1080pnbcnews.jpg?v=1791338915&w=1920&h=1080",
-      "description": "Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provide creativity and expertise but does not itself create trust. He expects a natural merger of machine intelligence and crypto, with decentralized protocols providing trusted execution. Lubin also says the crypto industry will gain regulatory clarity through SEC and CFTC action, even as the Clarity Act remains stalled in the Senate."
+      "headline": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoRk40TXhyV1NIOWhTV1VLM2FqanJTbm9GVXN6eVlaa3VySmpwckhwaXI3MXNMVXAyay1QbVNNTVkxeXViaDhRMm1abnA2RVpjT21LU0FUMU1FUlowWFZZVTk1M1ItRGN2ZF85S3BlMHZXemxzNWc?oc=5",
+      "pub_date": 1791384932.0,
+      "article_url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
+      "description": "Bitmine chairman Tom Lee said at Token2049 the company will stop buying Ethereum once it holds 5% of circulating supply."
     },
     {
-      "headline": "Ethereum news: Tom Lee says Bitmine to soon stop buying ETH",
+      "headline": "Arbitrum joins Paxos-led Global Dollar Network as USDG lands on Ethereum L2",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGNKZ1E5RzJqVU1oQksxUFNpQlFVUThkY0pEcVhtN3BfRDZQa2ZGUmZWWXBHQk5UR1ZHTUdfMGw5ckZ1aDR5Q0FrdUd2YWZ6VkFQWTVoYXZkLUZvaDRuMEYtNXEyb05GajluUjM4TkM2T1MyeldjbHZGNEMzQnRBRTZnOHhVWmhqaDE4bTR1TzJJbWZHVDdiYlRzUnplU25KdFFOM2R6aG9tQ1Ewc2NKWUF0Z3pfMnlFcWlBdmZHYlRzcVhYYjVMOTgyYw?oc=5",
-      "pub_date": 1791376831.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Tom Lee said Bitmine will be \u201cdone stacking\u201d once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury."
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRnFzYTcyaU95UmJZVnBNb3lEajFlcjM5cW9QOEc0TVhXUDJzYldqMy0zQmJoZ01OZXFjbnVrb0w2QmtaVXlBcWtmc09aTTlZYk9qQ2lZWDRNX1BWSXRMOHZBZ3hVUGJJOGczVGdDY1d3QWwxcUl2cmxIek5MVnZaYWpaVUt3ZkxkT2tmUkxscVJLb0lKRHBvaE5DZHMzNHdYZkgxSENfTnhaSl9pak5RZFFuemtfemZiSkFfcmVNaDRjQkR1N09DRzk3Y25XQQ?oc=5",
+      "pub_date": 1791291753.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2617f5fb4a186cef3a6ec88dad9df90c0cee0029-1920x1080.jpg?auto=format&q=75",
+      "description": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics."
+    },
+    {
+      "headline": "How native transaction assertions could enforce a transaction's final outcome",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwTkZpeGJOc0k2ZnBmN2tFTEg2eVJFcE5JX2hENUEwOWhVQWMtcUpoZ21ZMndHZ05MS0xFRU5Ra0JoRUFPUlVKRjMxdHAyS1lwZGdTX0Y5Mkxud0Q1M29RQ0xBd0R6SU82dmRJ?oc=5",
+      "pub_date": 1791214753.0,
+      "article_url": "https://blog.ethereum.org/2026/10/05/transaction-assertions",
+      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer2.png",
+      "description": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is..."
+    },
+    {
+      "headline": "Current price of Ethereum for October 7, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUXVKalFOSEt6QWVfTHFiMHpjMzlBaUlKRzNFazloYUVKc2JhbVExdUZ0YUNEdmluQUM0ZWpyY3pYUWdieDVKUno3ZFVqSUh5azNNakVMQUNSYmVNWE42OVFXYV9jd2w1?oc=5",
+      "pub_date": 1791372000.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-07-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-7.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "New Crypto: Remittix Locks In November 24 RTX Launch as Ethereum Price Prediction Eyes $6,000 and Dogecoin Bulls Revive the $1 Dream",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSnotQUlHazZyZnRUMlVOMk1mcDA5RjVFeVlDaGUteWF6ME95RmtYRWtIelZRYk9kTEpwYUZGZm9LRlhzazhjYXUtenhVQ3Z4ZWI5bFYxeHV0NFpjdkMzZFRubS1Nam42SG5CUElrNWFDdUNPQnNMVVRRdHVGU2dETFRiQWpHTmV2Vjh4dkg5NjZPeW1TNjRJRzlaUzRnYlZJaTY5UHJXeUNGVGwtSE94SXdtaUZtRG1KWHpWRXk4dDg3SEhiMS1YbDFWY205ck5nYzFOOGFUSG11Y2I4cEs2aWhHRlhCZEUwN2VyQjh3LVplUktpX0JUZ2lvWFF2V0pEUHc0THNJbGxPQXpsOVYwNUQxQ0Y3Q2s?oc=5",
+      "pub_date": 1791396642.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-locks-in-november-24-rtx-launch-as-ethereum-price-prediction-eyes-6-000-and-dogecoin-bulls-revive-the-1-dream-1036605984",
+      "image": "https://ml.globenewswire.com/Resource/Download/ba6d886d-dfda-45cd-a2b0-fecb10a0ad35/remittix.png",
+      "description": "MAJURO, Marshall Islands, Oct.  07, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed November 24, 2026 as the scheduled launch date for RTX, givin..."
+    },
+    {
+      "headline": "Ethereum Beat Bitcoin All Quarter. Its Order Books Thinned and the Staking Exit Queue Hit a Record for the Year.",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTGQ3V0FhcHhJXzlmXzRSZDhEOFVzanpLTmxwQ1U5VHY3YmowSlNtTkJJTmNxQW1JOFFMZEtVWktfWklSU0R1dklrdnpYNUgtb21OdlJDMHhxbE4yRFUwYUdtNlZodG8tcEVyblc3SER4VGF5dmdjSTh3Znhjamt2dTZ4UzBCTERyRkZLajdtaUVEQjVtUG5SYVFFRUE4OFRuM1NHNGI0SHZ3QlBLaGFPbEtrY1dCYVBNN1lRdlozR2pEdUVzbE1OYU1nQWIxR0lpTFQ2c2duNjVRLTY0YzFQSldLTnc0dEVSOXd2QURHbDZic0w0VER6Rk1ta3NTdw?oc=5",
+      "pub_date": 1791329400.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/06/ethereum-beat-bitcoin-all-quarter-its-order-books-thinned-and-the-staking-exit-queue-hit-a-record-for-the-year/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/10/shutterstock-2116841900-medium-licensed.jpg",
+      "description": "In Q3 2026, Ether surged 71%, setting a record for the quarter while its exit queue hit an annual peak. Here's what that means."
+    },
+    {
+      "headline": "BitMine Shares Outperformed Ethereum in 2026, and Tom Lee Highlights One Move",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fNkU3Y1kzQkJsRDc5OHZ6eldaa2lBSXU5TGx3SGRzZGNFbGJJTjBnb1ZROUxQTHhycVREWlpLaDNOWUliVW5qT1lWWENIX1Z0RXRleFJfeTBPc1M3cHFWbm04VlNzQzk4OWxXekVR?oc=5",
+      "pub_date": 1791265500.0,
+      "article_url": "https://beincrypto.com/bitmine-stock-beat-ethereum-2026-loss/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T14:15:19.906083+00:00"
+  "fetched_at": "2026-10-07T20:04:48.197818+00:00"
 }

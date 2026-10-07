@@ -19,18 +19,18 @@
       "site_name": "X (formerly Twitter)"
     },
     {
-      "title": "Why did Bitcoin rise 20% in August? \u2013 A macroeconomic explanation (4 min read)",
-      "url": "https://justinzhang.substack.com/p/why-did-bitcoin-rise-20-in-august",
-      "hn_url": "https://news.ycombinator.com/item?id=49911552",
-      "author": "justinzhangmit",
-      "points": 3,
+      "title": "Bitcoin Spaces",
+      "url": "https://bitsaga.be/insights/bitcoin-spaces",
+      "hn_url": "https://news.ycombinator.com/item?id=49994350",
+      "author": "ca98am79",
+      "points": 2,
       "num_comments": 0,
-      "created_at": "2026-09-30T17:02:41Z",
-      "object_id": "49911552",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "justinzhang.substack.com"
+      "created_at": "2026-10-07T15:37:40Z",
+      "object_id": "49994350",
+      "image": "https://bitsaga.be/images/og/insights/bitcoin-spaces.jpg",
+      "description": "Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.",
+      "favicon": "https://bitsaga.be/images/bitsaga-brand/favicon.png",
+      "site_name": "Bitsaga"
     },
     {
       "title": "Bitcoin Rebound Revives Debate over a New Crypto Cycle",
@@ -89,6 +89,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "Show HN: Checkout this open-source, local-first bioinformatics/AI desktop app",
+      "url": "https://github.com/Liatir/liatir-app",
+      "hn_url": "https://news.ycombinator.com/item?id=49993984",
+      "author": "Suffro",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-07T15:14:47Z",
+      "object_id": "49993984",
+      "image": "https://repository-images.githubusercontent.com/1268399566/64b4b8a3-9fa4-476b-883c-cb50b552ffd9",
+      "description": "A desktop app that runs bioinformatics tools, AI, and pipelines locally. Your data never leaves your machine \u2014 Rust-powered native speed, even on multi-gigabyte files. - Liatir/liatir-app",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Florida weighs ditching property taxes and sticking Canadians with the bill",
       "url": "https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814",
       "hn_url": "https://news.ycombinator.com/item?id=49954499",
@@ -117,7 +131,7 @@
       "site_name": "castignoli.it"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-10-07T14:14:51.166870+00:00"
+  "fetched_at": "2026-10-07T20:04:24.198888+00:00"
 }
