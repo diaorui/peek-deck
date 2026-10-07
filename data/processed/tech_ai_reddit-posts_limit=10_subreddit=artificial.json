@@ -13,6 +13,28 @@
       "description": "With all the fuss over AI and what it can do, I feel like we've totally glossed over the fact that AI has casually solved something that has been a problem for decades. I was born the year after the microprocessor was invented, and I've kept a very close eye on technology as it has developed. And the problem of machine translation has been with us for a while. It used to be absolutely terrible. Then it got to the point where you could sort of tell what the native speaker who wrote the original was trying to say. And now, it's almost perfectly solved. Give any good LLM a document in one language and ask it to give you the same document in any other, and it's like you asked somebody who was extremely fluent and eloquent in both languages. The language barrier has been cracked. The Universal Translator is here. We have the Babel Fish. And it seems like nobody is talking about it."
     },
     {
+      "title": "People don't Google anymore. They ask AI. And AI doesn't know I exist",
+      "author": "felitram",
+      "url": "https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/",
+      "published": 1791310806.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I run a small law firm. Family law. Wills. Estates. Nothing flashy. But we\u2019re good at what we do. Our clients love us. We get referrals. We\u2019ve been in business for 12 years But I keep hearing the same thing from potential clients. \u201cI asked ChatGPT for a lawyer and your firm didn\u2019t come up.\u201d Or \u201cPerplexity recommended someone else.\u201d It\u2019s happening more and more. People don\u2019t Google anymore. They ask an AI. And the AI recommends someone. Just not us I don\u2019t understand how it works. How does ChatGPT decide which law firm to name? What makes one firm show up and another disappear? Is it based on reviews? Website content? Something else entirely? I found an article by Intercore Technologies and they explain the retrieval mechanism. How AI pulls information from the web. Why some firms don\u2019t make it into the answers. It was technical. A lot of it went over my head. But the gist was clear. If you\u2019re not visible in the right places, you don\u2019t exist I\u2019m not a tech person and I don\u2019t know how to make AI recommend my firm. Is it even possible? Can a small firm compete with the big names?"
+    },
+    {
+      "title": "Meta's Muse agent is creating dossiers on its 4 million users; Interaction data is shared between Muse agent instances",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz9fbj/metas_muse_agent_is_creating_dossiers_on_its_4/",
+      "published": 1791309518.0,
+      "thumbnail": "https://external-preview.redd.it/xz226ySH5_nIBm9wUFfP70zDP0Gk9XcCMF_zz_F1MBY.jpeg?width=640&crop=smart&auto=webp&s=c96c315e3e5d200aa461047993ca008186cd82ff",
+      "external_url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+      "site_name": "TIME",
+      "favicon": "https://time.com/favicon/apple-touch-icon.png",
+      "description": "\"Each hour, Muse updates its dossiers on you and the people you\u2019ve mentioned in chats, messages, and emails that Muse has read. These pages amount to a map of each user\u2019s social relationships. They record details of how you and your contacts met, your shared interests, your disputes, and 'tensions and alliances' within your social group. ... Yet while Meta states that each user\u2019s virtual machine is 'isolated so that no one else's agent can access it,' observations from personal interactions are nevertheless intended to be shared with Meta to improve the product. 'Muse agents across many VMs [virtual machines] teach each other through shared lessons,'\""
+    },
+    {
       "title": "Princeton researchers train a 4B LLM to reach 2700 Elo in chess (with no signs of a plateau when they stopped training) and can explain its moves accurately. They say the training technique can also be applied to other games, robotics, and computer use",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1wypjue/princeton_researchers_train_a_4b_llm_to_reach/",
@@ -46,26 +68,15 @@
       "description": null
     },
     {
-      "title": "People don't Google anymore. They ask AI. And AI doesn't know I exist",
-      "author": "felitram",
-      "url": "https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/",
-      "published": 1791310806.0,
+      "title": "I\u2019m Looking For Web Designers",
+      "author": "Murky_Explanation_73",
+      "url": "https://www.reddit.com/r/artificial/comments/1wzeein/im_looking_for_web_designers/",
+      "published": 1791321008.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I run a small law firm. Family law. Wills. Estates. Nothing flashy. But we\u2019re good at what we do. Our clients love us. We get referrals. We\u2019ve been in business for 12 years But I keep hearing the same thing from potential clients. \u201cI asked ChatGPT for a lawyer and your firm didn\u2019t come up.\u201d Or \u201cPerplexity recommended someone else.\u201d It\u2019s happening more and more. People don\u2019t Google anymore. They ask an AI. And the AI recommends someone. Just not us I don\u2019t understand how it works. How does ChatGPT decide which law firm to name? What makes one firm show up and another disappear? Is it based on reviews? Website content? Something else entirely? I found an article by Intercore Technologies and they explain the retrieval mechanism. How AI pulls information from the web. Why some firms don\u2019t make it into the answers. It was technical. A lot of it went over my head. But the gist was clear. If you\u2019re not visible in the right places, you don\u2019t exist I\u2019m not a tech person and I don\u2019t know how to make AI recommend my firm. Is it even possible? Can a small firm compete with the big names?"
-    },
-    {
-      "title": "Meta's Muse agent is creating dossiers on its 4 million users; Interaction data is shared between Muse agent instances",
-      "author": "SpiritRealistic8174",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz9fbj/metas_muse_agent_is_creating_dossiers_on_its_4/",
-      "published": 1791309518.0,
-      "thumbnail": "https://external-preview.redd.it/xz226ySH5_nIBm9wUFfP70zDP0Gk9XcCMF_zz_F1MBY.jpeg?width=640&crop=smart&auto=webp&s=c96c315e3e5d200aa461047993ca008186cd82ff",
-      "external_url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
-      "site_name": "TIME",
-      "favicon": "https://time.com/favicon/apple-touch-icon.png",
-      "description": "\"Each hour, Muse updates its dossiers on you and the people you\u2019ve mentioned in chats, messages, and emails that Muse has read. These pages amount to a map of each user\u2019s social relationships. They record details of how you and your contacts met, your shared interests, your disputes, and 'tensions and alliances' within your social group. ... Yet while Meta states that each user\u2019s virtual machine is 'isolated so that no one else's agent can access it,' observations from personal interactions are nevertheless intended to be shared with Meta to improve the product. 'Muse agents across many VMs [virtual machines] teach each other through shared lessons,'\""
+      "description": "I hope most of you reading this are web designers because I\u2019m genuinely curious about something. How are you getting clients in 2026? I\u2019ve spoken to a lot of web designers and agency owners lately, and one thing keeps coming up again and again. Client acquisition. It seems like everyone can build websites, but consistently finding new clients is still the hard part. So I\u2019d actually like to hear what is working for you right now. For me, I\u2019ve been running personalized email automation. I use a tool that finds leads for me, analyzes their websites for actual issues with things like design, SEO, speed, responsiveness and mobile optimization, then automatically uses those findings to write a personalized cold email for each business. After that, I just run the campaigns and send out thousands of emails a day. I used to do most of this through Instantly, but the problem was that I couldn\u2019t really do the website analysis part there. So the emails were still more generic, basically the usual \u201cdo you need a new website?\u201d type of outreach. It worked a little, but nothing crazy. I eventually switched to Swokei because it handles the lead finding, website analysis and personalized outreach in one place, and that has made a pretty big difference for me. Now I\u2019m getting clients much more consistently because the emails are actually about their website instead of just being another generic pitch. But I\u2019m curious what everyone else is doing. Cold email, cold calling, referrals, ads, SEO, social media? What is actually working for you in 2026?"
     },
     {
       "title": "Chances of AI replacing radiologists?",
@@ -79,15 +90,15 @@
       "description": "After lets say 10 to 20 years."
     },
     {
-      "title": "AMA this Friday: Matthew Schwartz (Harvard) \u201cClaude-shaped science,\u201d on r/physics",
-      "author": "VibePhysics",
-      "url": "https://www.reddit.com/r/artificial/comments/1wzbibm/ama_this_friday_matthew_schwartz_harvard/",
-      "published": 1791314229.0,
+      "title": "Offset 3 years of heavy AI use with 1 month diet change",
+      "author": "Kilroy_jensen",
+      "url": "https://www.reddit.com/r/artificial/comments/1wz6q1d/offset_3_years_of_heavy_ai_use_with_1_month_diet/",
+      "published": 1791303284.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Matthew Schwartz, professor of physics at Harvard and author of Quantum Field Theory and the Standard Model, will be doing an AMA this Friday at 12 PM ET. You may have seen his recent Anthropic blog post, \u201cClaude-shaped science,\u201d on using Claude as a research tool and what AI assisted scientific research can actually look like in practice. If you have questions about QFT, particle physics, AI in research, or where this is all heading, come ask him. Friday, October 9 at 12 PM ET."
+      "description": "Whenever I show projects that use AI in less AI friendly subs, there's always someone bringing up the environmental impact of AI use. If you're like me, and do care about the environment, you can reclaim the moral high ground by reducing meat intake, or even going to a plant based diet for a short while. I'm a \\*\\*heavy\\*\\* user of AI, so one month of veganism only offsets 3 years of my AI use, but for your typical user this would actually offset 45 years! This includes the training costs. It's up to you what sort of changes you make and how long for, but I put this simple calculator together to put the environmental impact of AI into perspective https://prompt-and-plate.com/ There's an expandable drop down at the bottom to get a breakdown of the number of lives saved, for those who are interested I'd love thoughts and feedback, especially if people disagree with any of the numbers used"
     },
     {
       "title": "Capcom announces plans to transform the RE Engine into an AI-generation game engine \u2014 \u2018Our goal is a future where we create games together with AI\u2019",
@@ -99,18 +110,7 @@
       "site_name": "IGN",
       "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
       "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\""
-    },
-    {
-      "title": "Will SaaS companies repeat what the music industry did in the early 2000s?",
-      "author": "mandosoft",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz366v/will_saas_companies_repeat_what_the_music/",
-      "published": 1791294750.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I keep telling folks SaaS is dead, and those of you in this sub are probably also thinking along the same lines by now. Personally, I just don\u2019t see companies outspending what the frontier models are capable of doing in terms of ripping SaaS products off. JetBrains for instance, reported it\u2019s first loss in its history. Speculators say the loss was a result of a massive internal investment to remain competitive. Are you kidding me? The entire company is built on products are that are now totally irrelevant as a value proposition. Soon you will not be able to sell software consumers cannot build themselves. And if I can\u2019t build it, as soon as you release your product a model can decomp it. At best, you could sell a \"build anything\" platform to non-technical users, but even for that the barrier to entry for competitors is low e.g. Loveable. So I see things heading in the direction of what the music industry did in the early 2000s: The SaaS giants' underlying business model of subscription based over-priced software (CDs, records, royalties) are no longer competitive. So they maintain status quo by engaging in rights based legislation, anti-decomp agreements with frontier labs, and watermarking their products (digital performing rights encodings, lawsuits for infringers). We are in this metaphor, the artists, creators, and samplers who want freedom to navigate the content, to remix it as we see fit, and progress what\u2019s possible. Will that leave us in a similar boat to independent musicians today? Thoughts?"
     }
   ],
-  "fetched_at": "2026-10-06T21:06:57.979518+00:00"
+  "fetched_at": "2026-10-07T00:54:48.238566+00:00"
 }

@@ -33,6 +33,20 @@
       "site_name": "justinzhang.substack.com"
     },
     {
+      "title": "Bitcoin Rebound Revives Debate over a New Crypto Cycle",
+      "url": "https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462",
+      "hn_url": "https://news.ycombinator.com/item?id=49984995",
+      "author": "joeymabia1",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-06T22:24:27Z",
+      "object_id": "49984995",
+      "image": "https://cdn.discordapp.com/assets/og_img_discord_home.png",
+      "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+      "favicon": "https://discord.com/assets/favicon.ico",
+      "site_name": "Discord"
+    },
+    {
       "title": "Best Bitcoin Commercial",
       "url": "https://twitter.com/bramk/status/2105780416141738076",
       "hn_url": "https://news.ycombinator.com/item?id=49928600",
@@ -103,7 +117,7 @@
       "site_name": "castignoli.it"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-10-06T21:06:58.138150+00:00"
+  "fetched_at": "2026-10-07T00:54:50.625855+00:00"
 }

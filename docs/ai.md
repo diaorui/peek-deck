@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-06T21:07:24.776513+00:00'
+updated: '2026-10-07T00:55:18.245765+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 06, 2026 at 21:07 UTC  
+**Last Updated:** October 07, 2026 at 00:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 With all the fuss over AI and what it can do, I feel like we've totally glossed over the fact that AI has casually solved something that has been a problem for decades. I was born the year after the microprocessor was invented, and I've kept a very close eye on technology as it has developed. And the problem of machine translation has been with us for a while. It used to be absolutely terrible. Then it got to the point where you could sort of tell what the native speaker who wrote the original was trying to say. And now, it's almost perfectly solved. Give any good LLM a document in one language and ask it to give you the same document in any other, and it's like you asked somebody who was extremely fluent and eloquent in both languages. The language barrier has been cracked. The Universal Translator is here. We have the Babel Fish. And it seems like nobody is talking about it.
 
-3h ago
+7h ago
+
+---
+
+**[People don't Google anymore. They ask AI. And AI doesn't know I exist](https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/)**
+
+I run a small law firm. Family law. Wills. Estates. Nothing flashy. But we’re good at what we do. Our clients love us. We get referrals. We’ve been in business for 12 years But I keep hearing the same thing from potential clients. “I asked ChatGPT for a lawyer and your firm didn’t come up.” Or “Perplexity recommended someone else.” It’s happening more and more. People don’t Google anymore. They ask an AI. And the AI recommends someone. Just not us I don’t understand how it works. How does ChatGPT decide which law firm to name? What makes one firm show up and another disappear? Is it based on reviews? Website content? Something else entirely? I found an article by Intercore Technologies and they explain the retrieval mechanism. How AI pulls information from the web. Why some firms don’t make it into the answers. It was technical. A lot of it went over my head. But the gist was clear. If you’re not visible in the right places, you don’t exist I’m not a tech person and I don’t know how to make AI recommend my firm. Is it even possible? Can a small firm compete with the big names?
+
+6h ago
+
+---
+
+**[Meta's Muse agent is creating dossiers on its 4 million users; Interaction data is shared between Muse agent instances](https://www.reddit.com/r/artificial/comments/1wz9fbj/metas_muse_agent_is_creating_dossiers_on_its_4/)**
+
+"Each hour, Muse updates its dossiers on you and the people you’ve mentioned in chats, messages, and emails that Muse has read. These pages amount to a map of each user’s social relationships. They record details of how you and your contacts met, your shared interests, your disputes, and 'tensions and alliances' within your social group. ... Yet while Meta states that each user’s virtual machine is 'isolated so that no one else's agent can access it,' observations from personal interactions are nevertheless intended to be shared with Meta to improve the product. 'Muse agents across many VMs [virtual machines] teach each other through shared lessons,'"
+
+🔗 [TIME](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/) • 6h ago
 
 ---
 
@@ -51,7 +67,7 @@ The most profound paper of my PhD so far. We truly did something special to make
 
 1/10
 
-🔗 [X (formerly Twitter)](https://fixupx.com/AdithyaNLP/status/2107123924828049691?s=20) • 20h ago
+🔗 [X (formerly Twitter)](https://fixupx.com/AdithyaNLP/status/2107123924828049691?s=20) • 23h ago
 
 ---
 
@@ -59,29 +75,21 @@ The most profound paper of my PhD so far. We truly did something special to make
 
 The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.
 
-🔗 [Mistral](https://mistral.ai/news/mistral-large-4/) • 7h ago
+🔗 [Mistral](https://mistral.ai/news/mistral-large-4/) • 11h ago
 
 ---
 
 **[Muse help us](https://www.reddit.com/r/artificial/comments/1wz6wfo/muse_help_us/)**
 
-4h ago
+8h ago
 
 ---
 
-**[People don't Google anymore. They ask AI. And AI doesn't know I exist](https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/)**
+**[I’m Looking For Web Designers](https://www.reddit.com/r/artificial/comments/1wzeein/im_looking_for_web_designers/)**
 
-I run a small law firm. Family law. Wills. Estates. Nothing flashy. But we’re good at what we do. Our clients love us. We get referrals. We’ve been in business for 12 years But I keep hearing the same thing from potential clients. “I asked ChatGPT for a lawyer and your firm didn’t come up.” Or “Perplexity recommended someone else.” It’s happening more and more. People don’t Google anymore. They ask an AI. And the AI recommends someone. Just not us I don’t understand how it works. How does ChatGPT decide which law firm to name? What makes one firm show up and another disappear? Is it based on reviews? Website content? Something else entirely? I found an article by Intercore Technologies and they explain the retrieval mechanism. How AI pulls information from the web. Why some firms don’t make it into the answers. It was technical. A lot of it went over my head. But the gist was clear. If you’re not visible in the right places, you don’t exist I’m not a tech person and I don’t know how to make AI recommend my firm. Is it even possible? Can a small firm compete with the big names?
+I hope most of you reading this are web designers because I’m genuinely curious about something. How are you getting clients in 2026? I’ve spoken to a lot of web designers and agency owners lately, and one thing keeps coming up again and again. Client acquisition. It seems like everyone can build websites, but consistently finding new clients is still the hard part. So I’d actually like to hear what is working for you right now. For me, I’ve been running personalized email automation. I use a tool that finds leads for me, analyzes their websites for actual issues with things like design, SEO, speed, responsiveness and mobile optimization, then automatically uses those findings to write a personalized cold email for each business. After that, I just run the campaigns and send out thousands of emails a day. I used to do most of this through Instantly, but the problem was that I couldn’t really do the website analysis part there. So the emails were still more generic, basically the usual “do you need a new website?” type of outreach. It worked a little, but nothing crazy. I eventually switched to Swokei because it handles the lead finding, website analysis and personalized outreach in one place, and that has made a pretty big difference for me. Now I’m getting clients much more consistently because the emails are actually about their website instead of just being another generic pitch. But I’m curious what everyone else is doing. Cold email, cold calling, referrals, ads, SEO, social media? What is actually working for you in 2026?
 
-2h ago
-
----
-
-**[Meta's Muse agent is creating dossiers on its 4 million users; Interaction data is shared between Muse agent instances](https://www.reddit.com/r/artificial/comments/1wz9fbj/metas_muse_agent_is_creating_dossiers_on_its_4/)**
-
-"Each hour, Muse updates its dossiers on you and the people you’ve mentioned in chats, messages, and emails that Muse has read. These pages amount to a map of each user’s social relationships. They record details of how you and your contacts met, your shared interests, your disputes, and 'tensions and alliances' within your social group. ... Yet while Meta states that each user’s virtual machine is 'isolated so that no one else's agent can access it,' observations from personal interactions are nevertheless intended to be shared with Meta to improve the product. 'Muse agents across many VMs [virtual machines] teach each other through shared lessons,'"
-
-🔗 [TIME](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/) • 3h ago
+3h ago
 
 ---
 
@@ -89,15 +97,15 @@ I run a small law firm. Family law. Wills. Estates. Nothing flashy. But we’re 
 
 After lets say 10 to 20 years.
 
-5h ago
+9h ago
 
 ---
 
-**[AMA this Friday: Matthew Schwartz (Harvard) “Claude-shaped science,” on r/physics](https://www.reddit.com/r/artificial/comments/1wzbibm/ama_this_friday_matthew_schwartz_harvard/)**
+**[Offset 3 years of heavy AI use with 1 month diet change](https://www.reddit.com/r/artificial/comments/1wz6q1d/offset_3_years_of_heavy_ai_use_with_1_month_diet/)**
 
-Matthew Schwartz, professor of physics at Harvard and author of Quantum Field Theory and the Standard Model, will be doing an AMA this Friday at 12 PM ET. You may have seen his recent Anthropic blog post, “Claude-shaped science,” on using Claude as a research tool and what AI assisted scientific research can actually look like in practice. If you have questions about QFT, particle physics, AI in research, or where this is all heading, come ask him. Friday, October 9 at 12 PM ET.
+Whenever I show projects that use AI in less AI friendly subs, there's always someone bringing up the environmental impact of AI use. If you're like me, and do care about the environment, you can reclaim the moral high ground by reducing meat intake, or even going to a plant based diet for a short while. I'm a \*\*heavy\*\* user of AI, so one month of veganism only offsets 3 years of my AI use, but for your typical user this would actually offset 45 years! This includes the training costs. It's up to you what sort of changes you make and how long for, but I put this simple calculator together to put the environmental impact of AI into perspective https://prompt-and-plate.com/ There's an expandable drop down at the bottom to get a breakdown of the number of lives saved, for those who are interested I'd love thoughts and feedback, especially if people disagree with any of the numbers used
 
-1h ago
+8h ago
 
 ---
 
@@ -105,15 +113,7 @@ Matthew Schwartz, professor of physics at Harvard and author of Quantum Field Th
 
 Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an "AI-generation game engine."
 
-🔗 [IGN](https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai) • 11h ago
-
----
-
-**[Will SaaS companies repeat what the music industry did in the early 2000s?](https://www.reddit.com/r/artificial/comments/1wz366v/will_saas_companies_repeat_what_the_music/)**
-
-I keep telling folks SaaS is dead, and those of you in this sub are probably also thinking along the same lines by now. Personally, I just don’t see companies outspending what the frontier models are capable of doing in terms of ripping SaaS products off. JetBrains for instance, reported it’s first loss in its history. Speculators say the loss was a result of a massive internal investment to remain competitive. Are you kidding me? The entire company is built on products are that are now totally irrelevant as a value proposition. Soon you will not be able to sell software consumers cannot build themselves. And if I can’t build it, as soon as you release your product a model can decomp it. At best, you could sell a "build anything" platform to non-technical users, but even for that the barrier to entry for competitors is low e.g. Loveable. So I see things heading in the direction of what the music industry did in the early 2000s: The SaaS giants' underlying business model of subscription based over-priced software (CDs, records, royalties) are no longer competitive. So they maintain status quo by engaging in rights based legislation, anti-decomp agreements with frontier labs, and watermarking their products (digital performing rights encodings, lawsuits for infringers). We are in this metaphor, the artists, creators, and samplers who want freedom to navigate the content, to remix it as we see fit, and progress what’s possible. Will that leave us in a similar boat to independent musicians today? Thoughts?
-
-7h ago
+🔗 [IGN](https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai) • 15h ago
 
 ---
 
@@ -121,9 +121,11 @@ I keep telling folks SaaS is dead, and those of you in this sub are probably als
 
 ## Google News: "ai"
 
-**[In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers](https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html)**
+**[Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)**
 
-The New York Times • 12h ago
+OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
+
+OpenAI • 2h ago
 
 ---
 
@@ -135,27 +137,23 @@ Fox News • 1h ago
 
 ---
 
-**[S&P 500 and Nasdaq surge to record highs after AI chipmaker rally](https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers)**
+**[Taiwan Dethrones Korea Atop Global Markets as AI Trade Widens](https://www.bloomberg.com/news/articles/2026-10-07/taiwan-dethrones-korea-atop-global-markets-as-ai-trade-widens)**
 
-S&P tops 7,800 for first time in history as investors optimistic despite signs of instability in US economy
-
-The Guardian • 29m ago
+Bloomberg.com • 37m ago
 
 ---
 
-**[Silicon Valley's AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)**
+**[AI Is Here: What Therapists Can Do Now](https://www.psychologytoday.com/us/blog/things-to-consider/202610/ai-is-here-what-therapists-can-do-now)**
 
-Sigil Wen, backed by a Silicon Valley's who-who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.
+More clients are asking AI for help before they call a therapist. Here's how to meet that with curiosity, set boundaries, and keep the human heart of therapy at the center.
 
-TechCrunch • 20m ago
+Psychology Today • 55m ago
 
 ---
 
-**[Charles Payne examines the differences between human behavior and AI](https://www.foxbusiness.com/video/6406374890112)**
+**[Opinion | A.I. Is Lying to You. Here’s How to Fight Back.](https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html)**
 
-FOX Business host Charles Payne highlights Herbert Simon’s contributions to the study of human decision-making on ‘Making Money.’
-
-Fox Business • 42m ago
+The New York Times • 3h ago
 
 ---
 
@@ -163,33 +161,39 @@ Fox Business • 42m ago
 
 Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases
 
-blog.google • 4h ago
+blog.google • 8h ago
 
 ---
 
-**[McDonald’s sued over AI tool that recommends prices to US franchisees](https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe)**
+**[Cramer says these blue-chip stocks are among the best ways to invest in the AI boom](https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html)**
 
-AP News • 1h ago
+Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom.
 
----
-
-**[McDonald's hit with class action alleging AI-powered menu price-fixing](https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/)**
-
-Reuters • 1d ago
+CNBC • 2h ago
 
 ---
 
-**[McDonald’s Hit With Class Action Alleging AI-Powered Menu Price-Fixing](https://www.wideopencountry.com/mcdonalds-hit-with-class-action-alleging-ai-powered-menu-price-fixing/)**
+**[Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it](https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html)**
 
-The lawsuit alleges that McDonald's uses AI to change prices across US stores, using "competitively sensitive" data to do so.
+If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce.
 
-Wide Open Country • 9h ago
+CNBC • 7h ago
 
 ---
 
-**[A Data-Center Crunch is Coming](https://www.wsj.com/tech/ai/a-data-center-crunch-is-coming-58fcad64)**
+**[S&P 500 hits record high as AI stocks shrug off bond market slump](https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1)**
 
-WSJ • 5h ago
+Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks
+
+Financial Times • 11h ago
+
+---
+
+**[Introducing Personal Agent Protocol](https://sierra.ai/blog/introducing-personal-agent-protocol)**
+
+We’re excited to announce Personal Agent Protocol — an open standard Meta and Sierra are developing along with industry partners at Genesys, Instinct, Rocket, Shopify, Stripe, and Walmart that defines how personal agents interact with businesses.
+
+Sierra AI Agents • 6h ago
 
 ---
 
@@ -197,11 +201,19 @@ WSJ • 5h ago
 
 ## HackerNews: "ai"
 
-**[OpenAI safety leader quits, warning AI company's culture is 'broken'](https://news.ycombinator.com/item?id=49948332)**
+**[Sharing AI progress in mathematics](https://news.ycombinator.com/item?id=49984923)**
 
-David Robinson joins other insiders in urging industry to take more care over rapidly developing technology
+OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
 
-⬆️ 268 • 💬 3 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+⬆️ 339 • 💬 289 • 2h ago • [OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+
+---
+
+**[OpenTPU – An open-source AI accelerator, developed by AI](https://news.ycombinator.com/item?id=49980715)**
+
+An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU
+
+⬆️ 219 • 💬 288 • 8h ago • [GitHub](https://github.com/FeSens/openTPU)
 
 ---
 
@@ -209,15 +221,7 @@ David Robinson joins other insiders in urging industry to take more care over ra
 
 Deep AI search for every photo and every frame of video in any folder on macOS - allenv0/SCM
 
-⬆️ 174 • 💬 72 • 2d ago • [GitHub](https://github.com/allenv0/SCM)
-
----
-
-**[AI is now capable of developing its own inference hardware](https://news.ycombinator.com/item?id=49980715)**
-
-An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU
-
-⬆️ 169 • 💬 221 • 4h ago • [GitHub](https://github.com/FeSens/openTPU)
+⬆️ 175 • 💬 73 • 2d ago • [GitHub](https://github.com/allenv0/SCM)
 
 ---
 
@@ -225,7 +229,13 @@ An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler an
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 101 • 💬 49 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=GLvFTMtw4Jk)
+⬆️ 101 • 💬 50 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=GLvFTMtw4Jk)
+
+---
+
+**[Erdosproblems.com Succumbs to the AI Onslaught](https://news.ycombinator.com/item?id=49977689)**
+
+⬆️ 91 • 💬 38 • 12h ago • [erdosproblems.com](https://www.erdosproblems.com/forum/thread/blog:9)
 
 ---
 
@@ -233,7 +243,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 80 • 💬 50 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+⬆️ 80 • 💬 51 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 
 ---
 
@@ -241,7 +251,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 That's it, right? The whole thing, their entire business model.
 
-⬆️ 70 • 💬 37 • 1d ago • [Cory Dransfeldt](https://www.coryd.dev/posts/2026/ai-companies-are-parasites)
+⬆️ 71 • 💬 37 • 1d ago • [Cory Dransfeldt](https://www.coryd.dev/posts/2026/ai-companies-are-parasites)
 
 ---
 
@@ -249,7 +259,7 @@ That's it, right? The whole thing, their entire business model.
 
 Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with its AI tutor, Khanmigo, configured to coach rather than give answers, during existing daily remedial mathematics sessions.
 
-⬆️ 68 • 💬 65 • 21h ago • [edworkingpapers.com](https://edworkingpapers.com/ai26-1551)
+⬆️ 70 • 💬 67 • 1d ago • [edworkingpapers.com](https://edworkingpapers.com/ai26-1551)
 
 ---
 
@@ -257,7 +267,7 @@ Generative AI has been promoted as the technology that could transform education
 
 Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.
 
-⬆️ 68 • 💬 53 • 2d ago • [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
+⬆️ 69 • 💬 53 • 2d ago • [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
 
 ---
 
@@ -265,13 +275,7 @@ Stephen Wolfram chimes in about the future of pure math and AI based on his uniq
 
 Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver
 
-⬆️ 63 • 💬 119 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks)
-
----
-
-**[Spending on AI is becoming almost impossible for businesses to budget](https://news.ycombinator.com/item?id=49964537)**
-
-⬆️ 59 • 💬 86 • 1d ago • [wsj.com](https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a)
+⬆️ 63 • 💬 120 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks)
 
 ---
 
@@ -279,23 +283,13 @@ Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff�
 
 ## YouTube Videos: "ai"
 
-**[AI Safety Is In More Trouble Than People Realize. Experts Attack Each Other in Viral AI Debate](https://www.youtube.com/watch?v=2qlz2NIJaks)**
+**[The most hyped AI breakthrough of 2026 is a hack](https://www.youtube.com/watch?v=iu2NsG6uGUs)**
 
-Thanks To Our Sponsors: Quo: ​​Try for free PLUS get 20% off your first 6 months at https://quo.com/impact Pipedrive: Get more ...
+Get notified as soon as The Sovereign Professional launches. The first 10 buyers get 50% off: ...
 
-📺 Tom Bilyeu
+📺 Brendan Dell 
 
-👁️ 52K • 👍 1K • 💬 338 • ⏱️ 50:40 • 8h ago
-
----
-
-**[AI Just Crossed the Terrifying Line - Now What?](https://www.youtube.com/watch?v=ujkD4SxPKOI)**
-
-In July of 2026, 700 AI agents hacked the infrastructure of Hugging Face in order to solve a task. This task was designed to be ...
-
-📺 Kurzgesagt – In a Nutshell
-
-👁️ 7.7M • 👍 263K • 💬 25K • ⏱️ 21:44 • 1d ago
+👁️ 55K • 👍 1K • 💬 360 • ⏱️ 20:31 • 11h ago
 
 ---
 
@@ -305,7 +299,17 @@ Machine Intelligence Research Institute President Nate Soares discusses warnings
 
 📺 Fox Business
 
-👁️ 4K • 👍 66 • 💬 45 • ⏱️ 3:55 • 5h ago
+👁️ 7K • 👍 72 • 💬 47 • ⏱️ 3:55 • 9h ago
+
+---
+
+**[AI panic drags GOP: MAGA ally&#39;s bet may imperil Congress, CNN financing](https://www.youtube.com/watch?v=htydSAjqN5M)**
+
+MS NOW's Ari Melber reports on what some are calling the “first AI election” and what the rise of AI could mean for the future of ...
+
+📺 MS NOW
+
+👁️ 2K • 👍 116 • 💬 33 • ⏱️ 9:49 • 32m ago
 
 ---
 
@@ -315,47 +319,45 @@ OpenAI CEO Sam Altman wants everyone to accept the massive downsides of artifici
 
 📺 The Young Turks
 
-👁️ 89K • 👍 1K • 💬 544 • ⏱️ 19:24 • 19h ago
+👁️ 96K • 👍 1K • 💬 570 • ⏱️ 19:24 • 22h ago
 
 ---
 
-**[OpenAI CEO Sam Altman says people need to &#39;accept some bad things&#39; for the benefits of AI](https://www.youtube.com/watch?v=dizqYRTo6aI)**
+**[AI Safety Is In More Trouble Than People Realize. Experts Attack Each Other in Viral AI Debate](https://www.youtube.com/watch?v=2qlz2NIJaks)**
 
-When asked by Politico about the difference between OpenAI and other AI companies who seek more regulation, OpenAI CEO ...
+Thanks To Our Sponsors: Quo: ​​Try for free PLUS get 20% off your first 6 months at https://quo.com/impact Pipedrive: Get more ...
 
-📺 NBC News
+📺 Tom Bilyeu
 
-👁️ 40K • 👍 242 • 💬 183 • ⏱️ 3:52 • 22h ago
-
----
-
-**[Former Anthropic researcher doubles down on AI warning in testimony](https://www.youtube.com/watch?v=8UjoX6nTcNU)**
-
-Whistleblowers sounded the alarm over the potential threat artificial intelligence poses at a landmark hearing before the New York ...
-
-📺 CBS News
-
-👁️ 38K • 👍 192 • 💬 89 • ⏱️ 5:49 • 23h ago
+👁️ 75K • 👍 1K • 💬 382 • ⏱️ 50:40 • 11h ago
 
 ---
 
-**[Humans are teaching AI how to do their jobs | 60 Minutes](https://www.youtube.com/watch?v=peNzGhlAeZw)**
+**[Have you seen any of the AI copy cats? #Ai #nursing #scrubs](https://www.youtube.com/watch?v=32I7xHnsv3U)**
 
-Some Americans are working to improve artificial intelligence, teaching it the skills and knowledge accrued over the course of a ...
+📺 Olivia Jaymes
 
-📺 60 Minutes
-
-👁️ 305K • 👍 3K • 💬 402 • ⏱️ 13:16 • 1d ago
+👁️ 9K • 👍 106 • 💬 2 • ⏱️ 0:16 • 50m ago
 
 ---
 
-**[PewDiePie is setting AI free... and OpenAI is furious](https://www.youtube.com/watch?v=_5p1_TNSWqQ)**
+**[AI Just Crossed the Terrifying Line - Now What?](https://www.youtube.com/watch?v=ujkD4SxPKOI)**
 
-Namespace is actually the fastest way to run your GitHub Actions (and more). Try it for free - https://namespace.so/github-actions ...
+In July of 2026, 700 AI agents hacked the infrastructure of Hugging Face in order to solve a task. This task was designed to be ...
 
-📺 Fireship
+📺 Kurzgesagt – In a Nutshell
 
-👁️ 1.1M • 👍 23K • 💬 1K • ⏱️ 5:46 • 1d ago
+👁️ 8.4M • 👍 274K • 💬 26K • ⏱️ 21:44 • 1d ago
+
+---
+
+**[Do these 7 Things Immediately When Building Apps with AI](https://www.youtube.com/watch?v=RQPVR6_WYoM)**
+
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
+
+📺 Mikey No Code
+
+👁️ 16K • 💬 6 • ⏱️ 29:29 • 10h ago
 
 ---
 
@@ -365,17 +367,17 @@ As the threats posed by AI models continue to grow, AI oligarchs struggle to exp
 
 📺 The Daily Show
 
-👁️ 3.0M • 👍 74K • 💬 5K • ⏱️ 21:10 • 18h ago
+👁️ 3.5M • 👍 80K • 💬 5K • ⏱️ 21:10 • 21h ago
 
 ---
 
-**[Sam Altman: The benefits of AI are worth ‘some bad things’](https://www.youtube.com/watch?v=2OOHnaGTQFg)**
+**[A.I. investments SQUEEZE OUT the rest of the stock market](https://www.youtube.com/watch?v=3RaGeDCFSHs)**
 
-OpenAI CEO Sam Altman tells POLITICO's Brendan Bordelon that the company is preparing to disclose more incidents involving ...
+The New York Times points out higher interest rates aren't slowing down investments in A.I., which directly contributes to inflation.
 
-📺 POLITICO
+📺 MS NOW
 
-👁️ 29K • 👍 333 • 💬 120 • ⏱️ 35:40 • 1d ago
+👁️ 32K • 👍 259 • 💬 117 • ⏱️ 9:09 • 9h ago
 
 ---
 
@@ -391,7 +393,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 7,255 • ❤️ 1,663 • 5d ago
+⬇️ 7,255 • ❤️ 1,677 • 5d ago
 
 ---
 
@@ -403,19 +405,7 @@ JEV-27B-VL is a multimodal vision-language model that performs image-text-to-tex
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,525,286 • ❤️ 968 • 3d ago
-
----
-
-**[Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)**
-
-*Ahmet Benzer*
-
-This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-image generation, optimized for use with ComfyUI. It offers various quantization levels for a balance between performance and quality, with Q4_K_M recommended.
-
-`text-to-image` `7.1B`
-
-⬇️ 1,721,760 • ❤️ 3,413 • 8d ago
+⬇️ 1,525,286 • ❤️ 976 • 3d ago
 
 ---
 
@@ -427,7 +417,19 @@ Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German a
 
 `text-generation` `78.1B`
 
-⬇️ 4,138 • ❤️ 704 • 3d ago
+⬇️ 4,138 • ❤️ 712 • 3d ago
+
+---
+
+**[Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)**
+
+*Ahmet Benzer*
+
+This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-image generation, optimized for use with ComfyUI. It offers various quantization levels for a balance between performance and quality, with Q4_K_M recommended.
+
+`text-to-image` `7.1B`
+
+⬇️ 1,721,760 • ❤️ 3,427 • 8d ago
 
 ---
 
@@ -439,19 +441,7 @@ Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts tex
 
 `image-text-to-text` `9.4B`
 
-⬇️ 10,638 • ❤️ 586 • 5d ago
-
----
-
-**[laya](https://huggingface.co/convaiinnovations/laya)**
-
-*Convai Innovations*
-
-Laya is a multilingual, non-autoregressive System 1 decision model that provides typed answers with probabilities in a single forward pass. It's trained with reinforcement learning for honest probability reporting and is ideal for text classification tasks like routing, scoring, and moderation across 100+ languages.
-
-`text-classification` `421.3M`
-
-⬇️ 20,386 • ❤️ 5,278 • 3d ago
+⬇️ 10,638 • ❤️ 591 • 5d ago
 
 ---
 
@@ -463,7 +453,19 @@ GEV-26B-Decide is a text classification model based on Gemma-4-26B-A4B-it, featu
 
 `text-classification` `25.8B`
 
-⬇️ 854,574 • ❤️ 674 • 3d ago
+⬇️ 854,574 • ❤️ 683 • 3d ago
+
+---
+
+**[laya](https://huggingface.co/convaiinnovations/laya)**
+
+*Convai Innovations*
+
+Laya is a multilingual, non-autoregressive System 1 decision model that provides typed answers with probabilities in a single forward pass. It's trained with reinforcement learning for honest probability reporting and is ideal for text classification tasks like routing, scoring, and moderation across 100+ languages.
+
+`text-classification` `421.3M`
+
+⬇️ 20,386 • ❤️ 5,281 • 3d ago
 
 ---
 
@@ -475,7 +477,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,679,035 • ❤️ 6,648 • 4d ago
+⬇️ 1,679,035 • ❤️ 6,667 • 4d ago
 
 ---
 
@@ -487,19 +489,19 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 30,585 • ❤️ 472 • 8d ago
+⬇️ 30,585 • ❤️ 488 • 8d ago
 
 ---
 
-**[humanizer](https://huggingface.co/jialinyyzz/humanizer)**
+**[embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)**
 
-*Stephen Yu*
+*Google*
 
-A 12B parameter Gemma finetune for text generation, specifically designed to rewrite AI-generated content (emails, essays, reports) in English and Chinese to sound more human. It preserves key details like numbers and quotes, runs locally, and is optimized for various hardware with multiple GGUF quantizations.
+EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, video, and audio into a unified 768-dimensional vector space. It offers native multimodality, multilingual support, and flexible footprint for on-device applications like search and RAG.
 
-`text-generation` `12.0B`
+`feature-extraction` `744.4M`
 
-⬇️ 15,134 • ❤️ 385 • 14h ago
+⬇️ 364 • ❤️ 462 • 9h ago
 
 ---
 
@@ -530,7 +532,7 @@ We present Kandinsky 6.0 Video, a family of foundation diffusion models for sync
 Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
   serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 23 • 💬 4 • ⭐ 3,293 • 21d ago
+▲ 25 • 💬 4 • ⭐ 3,293 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -542,7 +544,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 149 • 💬 6 • ⭐ 109,923 • 21mo ago
+▲ 149 • 💬 6 • ⭐ 109,983 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -570,7 +572,7 @@ UniMate is a unified diffusion transformer that generates articulated motion for
 
 Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
 
-▲ 322 • 💬 2 • ⭐ 795 • 10d ago
+▲ 323 • 💬 2 • ⭐ 843 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
 
@@ -596,23 +598,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 90 • 💬 7 • ⭐ 90,089 • 26mo ago
+▲ 90 • 💬 7 • ⭐ 90,119 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)**
-
-*EverMind AI*
-
-🏢 EverMind
-
-As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness complexity makes manual design difficult to scale, while tighter coupling to specific domains limits the generality of a single harness. The central question thus shifts from how to engineer a stronger harness for one domain to how to autonomously construct specialized harnesses, improve them through experience, and orchestrate them across domains. We introduce Raven, The Harness of Harnesses, an open-source multi-agent ecosystem that automatically constructs and evolves modular harnesses for specific models and domains, treating each executable model--harness pair as a composable unit of intelligence. To support an All-Domain Collaboration Network, its Host Agent decomposes goals, matches subtasks to specialized agents, coordinates execution dependencies, and integrates results, while a host archive and EverOS preserve experience across tasks and Skill Forge makes that experience available as reusable procedures. Our theory establishes sufficient conditions for such composition to expand reliable task coverage beyond that of the available individual agents under a shared resource budget. On complex and long-horizon tasks, Raven significantly outperforms the state-of-the-art agent systems, pushing the frontier of composable agentic intelligence.
-
-▲ 565 • 💬 3 • ⭐ 5,227 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.33439) • [💻 code](https://github.com/EverMind-AI/Raven) • [🔗 project](https://raven.evermind.ai/)
 
 ---
 
@@ -642,6 +630,20 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
+**[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](https://huggingface.co/papers/2610.03715)**
+
+*Ruihong Shen, Žiga Kovačič, Peter Kulits et al. (9 authors)*
+
+🏢 4DCodeBench
+
+We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progress toward agents that can interpret the dynamics of the world through code. Our benchmark is available at https://github.com/4DCodeBench/4DCodeBench
+
+▲ 24 • 💬 2 • ⭐ 67 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.03715) • [💻 code](https://github.com/4DCodeBench/4DCodeBench) • [🔗 project](https://4dcodebench.com/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -662,7 +664,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.3k • 🔱 401 • 1d ago
+⭐ 6.3k • 🔱 403 • 1d ago
 
 ---
 
@@ -672,7 +674,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 6.2k • 🔱 1.5k • 1h ago
+⭐ 6.2k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -692,7 +694,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 526 • 1h ago
+⭐ 3.9k • 🔱 536 • 2h ago
 
 ---
 
@@ -702,17 +704,17 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 3.8k • 🔱 638 • 7m ago
+⭐ 3.8k • 🔱 643 • 3h ago
 
 ---
 
 **[omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)**
 
-Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
+Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 3.0k • 🔱 72 • 7h ago
+⭐ 3.1k • 🔱 76 • 54m ago
 
 ---
 
@@ -722,7 +724,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 538 • 19d ago
+⭐ 2.9k • 🔱 539 • 19d ago
 
 ---
 
@@ -732,7 +734,7 @@ Open-source dots for the web: an AI agent with its own browser, one that does no
 
 `Python` `ai-agent` `ai-agents` `ai-browser` `anti-detect-browser` `browser-agent`
 
-⭐ 2.6k • 🔱 459 • 21m ago
+⭐ 2.6k • 🔱 459 • 4h ago
 
 ---
 
@@ -742,7 +744,7 @@ A Claude Code plugin that helps you learn how to build while AI writes the code.
 
 `Python`
 
-⭐ 2.5k • 🔱 114 • 5d ago
+⭐ 2.6k • 🔱 114 • 3h ago
 
 ---
 

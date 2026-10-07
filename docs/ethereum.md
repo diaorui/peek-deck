@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-06T21:07:24.791614+00:00'
+updated: '2026-10-07T00:55:18.260249+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 06, 2026 at 21:07 UTC  
+**Last Updated:** October 07, 2026 at 00:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,690.59
+### $2,695.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +0.3%  
-**30d:** +8.2%  
-**90d:** +54.4%  
-**1y:** -39.5%  
+**24h:** -0.4%  
+**7d:** -0.3%  
+**30d:** +8.6%  
+**90d:** +50.1%  
+**1y:** -40.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $329.39B
+**Market Cap:** $329.31B
 Rank #2
 
 **Circulating Supply:** 122,110,435 ETH
@@ -62,7 +62,7 @@ No max supply
 -45.5%
 
 **All-Time Low:** $0.43
-+622731.6%
++622763.9%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+19h ago
 
 ---
 
 **[The Glamsterdam upgrade has now been activated on Ethereum’s Sepolia testnet!](https://www.reddit.com/r/ethereum/comments/1wz65fi/the_glamsterdam_upgrade_has_now_been_activated_on/)**
 
-5h ago
+9h ago
 
 ---
 
 **[DF research Ideas: Chaos Theory x Theoretical Physics](https://www.reddit.com/r/ethereum/comments/1wz0hy5/df_research_ideas_chaos_theory_x_theoretical/)**
 
-9h ago
+13h ago
 
 ---
 
@@ -148,6 +148,14 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 ## Google News: "ethereum"
 
+**[ETH news: Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump](https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump)**
+
+One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.
+
+CoinDesk • 19h ago
+
+---
+
 **[How native transaction assertions could enforce a transaction's final outcome](https://blog.ethereum.org/2026/10/05/transaction-assertions)**
 
 The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is...
@@ -156,27 +164,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down](https://finance.yahoo.com/markets/crypto/articles/pudgy-penguins-ethereum-layer-2-202853896.html)**
+**[Ethereum Beat Bitcoin All Quarter. Its Order Books Thinned and the Staking Exit Queue Hit a Record for the Year.](https://finance.yahoo.com/markets/crypto/articles/ethereum-beat-bitcoin-quarter-order-233050182.html)**
 
-Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.
+Ethereum crushed Bitcoin last quarter with a stunning rally, but cracks are forming beneath the surface that traders may be ignoring at their peril. Two obscure market signals are flashing warnings that could change the outlook entirely.
 
-Yahoo Finance • 38m ago
-
----
-
-**[ETH news: Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump](https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump)**
-
-One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.
-
-CoinDesk • 15h ago
-
----
-
-**[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
-
-The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
-
-Decrypt News • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,11 +180,11 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for October 6, 2026](https://fortune.com/article/price-of-ethereum-10-06-2026/)**
+**[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
 
-Fortune • 9h ago
+Decrypt News • 1d ago
 
 ---
 
@@ -200,7 +192,15 @@ Fortune • 9h ago
 
 Bitcoin (BTC) upholds a robust bullish outlook, trading at $85,837 on Tuesday as sellers push to regain control over the trend. Structural support levels remain intact, backed by uptrending moving averages and consolidating momentum.
 
-FXStreet • 10h ago
+FXStreet • 14h ago
+
+---
+
+**[Current price of Ethereum for October 6, 2026](https://fortune.com/article/price-of-ethereum-10-06-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ FXStreet • 10h ago
 
 Ethereum’s active validator count fell 2.5% in seven days while staked ETH rose slightly, as Pectra allows larger, consolidated validators.
 
-The Defiant • 3h ago
+The Defiant • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Defiant • 3h ago
 
 Major cryptocurrencies reversed course on Monday, October 5, following their Sunday gains, as investors weighed the latest U.S. manufacturing data and the likelihood of a rate hike.
 
-Benzinga • 19h ago
+Benzinga • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ Benzinga • 19h ago
 
 On October 5, US spot crypto ETFs did something slightly awkward. Bitcoin and Solana funds posted net outflows. Ethereum funds posted net inflows.XRP products, meanwhile, recorded no net flow at all.The single-day snapshot is notable because it runs almost exactly opposite to the weekly picture. In…
 
-TradingView • 15h ago
+TradingView • 19h ago
 
 ---
 
@@ -232,13 +232,23 @@ TradingView • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition](https://www.youtube.com/watch?v=A-H5yQ_JN2M)**
+
+Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody read the condition he put on it. The 10x does ...
+
+📺 tastylive
+
+👁️ 8K • 👍 70 • 💬 8 • ⏱️ 5:42 • 22h ago
+
+---
+
 **[Tom Lee Just Said The UNTHINKABLE About Ethereum &amp; Bitcoin! [Load Up Before November]](https://www.youtube.com/watch?v=Ymx55X-Sou8)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 241 • 💬 28 • ⏱️ 19:12 • 16h ago
+👁️ 13K • 👍 258 • 💬 29 • ⏱️ 19:12 • 20h ago
 
 ---
 
@@ -248,27 +258,17 @@ Join - https://www.skool.com/discovercrypto/about Bitcoin fake out or the start 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 371 • 💬 117 • ⏱️ 59:52 • 5h ago
+👁️ 11K • 👍 397 • 💬 117 • ⏱️ 59:52 • 8h ago
 
 ---
 
-**[Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition](https://www.youtube.com/watch?v=A-H5yQ_JN2M)**
+**[Grayscale Says Investors Are Leaving ‘Money on the Table’ in Unstaked ETH ETFs](https://www.youtube.com/watch?v=ygKCLWWBbMk)**
 
-Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody read the condition he put on it. The 10x does ...
+One year after Grayscale unlocked Ethereum staking inside an ETF for the first time, Head of Index Steve Vanourny breaks down ...
 
-📺 tastylive
+📺 CoinDesk
 
-👁️ 7K • 👍 64 • 💬 8 • ⏱️ 5:42 • 19h ago
-
----
-
-**[How to Retire on ETHEREUM by 2030 or sooner](https://www.youtube.com/watch?v=27VB8wKnm38)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 83K • 👍 2K • 💬 197 • ⏱️ 11:38 • 1d ago
+👁️ 2K • 👍 28 • 💬 2 • ⏱️ 9:45 • 12h ago
 
 ---
 
@@ -278,17 +278,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 418 • 💬 26 • ⏱️ 1:05 • 1d ago
+👁️ 24K • 👍 432 • 💬 27 • ⏱️ 1:05 • 1d ago
 
 ---
 
-**[Ethereum: Why 2027 Could Be the Most BULLISH Year!!](https://www.youtube.com/watch?v=2tnyrF7zZ1w)**
+**[How to Retire on ETHEREUM by 2030 or sooner](https://www.youtube.com/watch?v=27VB8wKnm38)**
 
-Toobit - $8810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit FeeDrip - part of your trading fees back, paid ...
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
-📺 Marzell Crypto
+📺 Altcoin Daily
 
-👁️ 328 • 👍 14 • 💬 1 • ⏱️ 3:24 • 9h ago
+👁️ 85K • 👍 2K • 💬 199 • ⏱️ 11:38 • 2d ago
 
 ---
 
@@ -302,13 +302,13 @@ Remember this video in a few years when there's no more cryptocurrency left on e
 
 ---
 
-**[BITCOIN TRADING SIGNAL FLASHING NOW (It&#39;s Obvious)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=RaB4BAGiY2M)**
+**[Is Pressure Building In Ethereum For A Big Move?](https://www.youtube.com/watch?v=JDQz35Yr01g)**
 
-BITCOIN TRADING SIGNAL FLASHING NOW (It's Obvious)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Crypto World
+📺 Trade Confident
 
-👁️ 12K • 👍 387 • 💬 131 • ⏱️ 19:26 • 10h ago
+👁️ 473 • 👍 12 • 💬 1 • ⏱️ 3:40 • 6h ago
 
 ---
 
@@ -318,17 +318,17 @@ If you thought things were intense before, you havent seen anything yet. Whales 
 
 📺 The Modern Investor
 
-👁️ 15K • 👍 1K • 💬 200 • ⏱️ 33:14 • 1d ago
+👁️ 16K • 👍 1K • 💬 200 • ⏱️ 33:14 • 1d ago
 
 ---
 
-**[Fundstrat&#39;s Tom Lee says Bitcoin can hit $500,000](https://www.youtube.com/watch?v=sPb27q3qJ3w)**
+**[BTC, ETH, &amp; SOL At Resistance... White House Crypto Advisor (Clarity Act &amp; Bitcoin Reserve)](https://www.youtube.com/watch?v=AFFXj5Ng-OU)**
 
-Fundstrat's Head of Research, Tom Lee tells CNBC he sees Bitcoin as “going to peak at around $500000,” at the end of the ...
+Crypto majors hitting major area of resistance and Patrick Witt joins to talk BTC BITUNIX TRADE THE TOP COINS (available ...
 
-📺 CNBC Television
+📺 Lark Davis
 
-👁️ 3K • 👍 28 • 💬 11 • ⏱️ 0:58 • 7h ago
+👁️ 21K • 👍 528 • 💬 42 • ⏱️ 1:10:09 • 11h ago
 
 ---
 

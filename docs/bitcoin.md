@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-06T21:07:24.785422+00:00'
+updated: '2026-10-07T00:55:18.254344+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 06, 2026 at 21:07 UTC  
+**Last Updated:** October 07, 2026 at 00:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,615.84
+### $85,533.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +2.4%  
-**30d:** +8.2%  
-**90d:** +35.2%  
-**1y:** -29.5%  
+**24h:** -0.2%  
+**7d:** +0.7%  
+**30d:** +9.0%  
+**90d:** +33.3%  
+**1y:** -30.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1719.16B
+**Market Cap:** $1718.30B
 Rank #1
 
-**Circulating Supply:** 20,094,390 BTC
+**Circulating Supply:** 20,094,475 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -32.2%
 
 **All-Time Low:** $67.81
-+126046.6%
++126002.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 73
+### 71
 **GREED**
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Remember, the bank thinks your money is their money](https://www.reddit.com/r/Bitcoin/comments/1wz8747/remember_the_bank_thinks_your_money_is_their_money/)**
 
-3h ago
+7h ago
 
 ---
 
 **[We're still early](https://www.reddit.com/r/Bitcoin/comments/1wz4hdu/were_still_early/)**
 
-6h ago
+10h ago
 
 ---
 
 **[Fiat money...](https://www.reddit.com/r/Bitcoin/comments/1wz7eb8/fiat_money/)**
 
-4h ago
+8h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I have stacked my way to 0,1 Bitcoin. Ain’t much but still is. End of message
 
-8h ago
+12h ago
 
 ---
 
 **[“Cycles.”](https://www.reddit.com/r/Bitcoin/comments/1wz2qo8/cycles/)**
 
-7h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ I have stacked my way to 0,1 Bitcoin. Ain’t much but still is. End of message
 
 I was so happy when I saw this!
 
-6h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ I was so happy when I saw this!
 
 Cory Klippsten on Washington's growing comfort with higher inflation, and why his answer is Bitcoin. In his latest Time interview, President Trump said "certain levels of inflation will also pay off that debt very rapidly." On CNN, former PIMCO CEO Mohamed El-Erian told the Fed to keep promising 2% while gradually raising the acceptable ceiling to 3. Back in 2023, former IMF chief economist Olivier Blanchard argued for a 3% target. Others are warning where this leads. J.P. Morgan Private Bank's 2026 Outlook described a risk to its clients: policymakers deliberately tolerating higher inflation, allowing real interest rates to fall and the government's debt burden to shrink. The report calls that financial repression. In January, Janet Yellen warned that "the temptation to rely on inflation or financial repression to reduce the debt burden will surely grow." Inflation lets the government repay its old debts with dollars that are worth less, even though higher refinancing costs can eat up the benefit. Congress can raise taxes or cut spending, and voters know exactly who to blame. With inflation, the cost arrives through higher prices, and the blame gets spread around. What sounds like debt relief in Washington means the dollars people earn and save buy less.
 
-25m ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Cory Klippsten on Washington's growing comfort with higher inflation, and why hi
 
 i'm not even in the market. i'm in the waiting room.
 
-22h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ i'm not even in the market. i'm in the waiting room.
 
 It's lower level than money. It is the system that allows you to have electronically traceable bearer instruments. It allows for currencies, equities, bonds, options, futures, swaps and all the other financial instruments that make up our capital market to exist. Market Infrastructure is one of our oldest, widely distributed technologies. It's a list that doesn't change. It's one job is transaction finality. This is handled by a clearing house in the old world that is sunsetting. We need a list, that has an immutable history. This was long sought to be an impossible computer science problem until bitcoin came a long. If you have ever sent a international wire, you have experienced this. A alpha numeric address and a transaction that can't be reversed under any circumstance. Wires hit the clearing house(s). When we have market infrastructure in place, it allows for price discovery. We know when we trade, the trade can't be reversed. The transaction finality is the requirement to have price discovery. So when you are buying btc, you are investing in the most important technology that is often stable for centuries. Market infrastructure rarely changes. You are all early. Tech Infrastructures, like information, communication, energy and logistics take about 50-60 years and have 5 stages. It's called a Perez cycle. Irruption, speculative frenzy, turning point, synergy, and maturity. Plays out the same way, every time. BTC is in the turning point. ETFs, stable coins, its being adopted by the incumbent industries. When it hits synergy, that is when the omega candle happens. That is probably in 5-10 years. I think AI Agents will be driving that because they wont be signing up for banking or brokerage accounts. They will be making their currencies, options, equities, bonds, futures and other exotic financial instruments on top of btc. I encourage you to think about this for a moment, and spread this message, the comparison and disruption to the clearing house is the apt analogy. Financial systems are built in layers of institutions that have separate responsibilities. Bitcoin disrupts the lowest layer, the clearing house. This is why bitcoin's ascent is inevitable. It's taking over everything and the nation states can't stop or slow it, they can't even survive it. Future is going to be weird. There is no technology that is more powerful or important than market infrastructure. That is why bitcoin is the most valuable thing you can own.
 
-1h ago
+5h ago
 
 ---
 
@@ -151,41 +151,11 @@ It's lower level than money. It is the system that allows you to have electronic
 
 ## Google News: "bitcoin"
 
-**[Why bitcoin is down 'just' 32% a year after its record high of $126,000](https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32)**
-
-This shallower decline isn’t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%.
-
-CoinDesk • 12h ago
-
----
-
-**[Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months](https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months)**
-
-The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week.
-
-Decrypt News • 22h ago
-
----
-
-**[Watch Bitcoin Becoming Portfolio Allocation: BlackRock's Jacobs](https://www.bloomberg.com/news/videos/2026-10-06/bitcoin-becoming-portfolio-allocation-jay-jacobs-video)**
-
-Bloomberg.com • 54m ago
-
----
-
-**[Bitcoin Headwinds Are Sign of Monetary Tightening: Acheson](https://finance.yahoo.com/video/bitcoin-headwinds-sign-monetary-tightening-194105249.html)**
-
-Jay Jacobs, US head of equity ETFs BlackRock, joins Scarlet Fu and Dushyant Shahrawat on "Bloomberg Crypto." They discuss the attractiveness of the iShares Bitcoin Trust ETF (ticker: IBIT) to investor portfolios.
-
-Yahoo Finance • 1h ago
-
----
-
 **[BTC, ETH, SOL price news: Bitcoin hits $87,000 wall for third time as stocks near records](https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records)**
 
 BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.
 
-CoinDesk • 16h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -197,17 +167,51 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin grinds toward $87K as US equities hit new record highs](https://www.tradingview.com/news/cointelegraph:94773c6d9094b:0-bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs/)**
+**[Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes](https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454)**
 
-Bitcoin (BTC) continued to circle $86,000 on Tuesday as US stock markets hit fresh all-time highs.Key points:Bitcoin rangebound as S&P 500, Nasdaq see new highsData from TradingView showed BITSTAMP:BTCUSD attempting to return to $87,000 after another failed attempt to break higher on Monday.BITSTAM…
-
-TradingView • 3h ago
+Investing.com • 1h ago
 
 ---
 
-**[TD Cowen: Bitcoin to Hit $132,750 by 2028, Strategy, Strive Could Outperform](https://www.benzinga.com/crypto/cryptocurrency/26/10/62189635/td-cowen-bitcoin-to-hit-132750-by-2028-strategy-strive-could-outperform)**
+**[Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months](https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months)**
 
-Bitcoin may reach $132,750 by 2027 and $275,000 by 2029; well-run BTC treasury firms could outperform Bitcoin by ~50%.
+The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week.
+
+Decrypt News • 1d ago
+
+---
+
+**[Arthur Hayes Expects Bitcoin to Hit $126,000 by Year End. Can BTC Climb 46% in Under Three Months?](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-expects-bitcoin-hit-000000987.html)**
+
+BitMEX co-founder Arthur Hayes calls his latest Bitcoin price target a foregone conclusion, but the math behind getting there before New Year's Eve tells a very different story.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[Crypto Elite Gather in Singapore as Bitcoin’s Rally Buoys Bulls](https://www.bloomberg.com/news/articles/2026-10-05/crypto-elite-gather-in-singapore-as-bitcoin-s-rally-buoys-bulls)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[First National Bank opens Bitcoin trading to nearly 9 million clients](https://www.tradingview.com/news/cryptobriefing:9ae735d70094b:0-first-national-bank-opens-bitcoin-trading-to-nearly-9-million-clients/)**
+
+South Africa's second-largest bank is letting its customers buy Bitcoin without ever leaving the banking app. First National Bank (FNB) has unveiled a feature called "Crypto Investing" that opens digital asset trading to nearly 9 million retail clients.FNB is the retail banking arm of the FirstRand…
+
+TradingView • 5h ago
+
+---
+
+**[$85,000 Level Could Be Crucial To ‘Structural Change’ In Bitcoin Market, Says Analyst](https://www.forbes.com/sites/digital-assets/2026/10/06/85000-level-could-be-crucial-to-structural-change-in-bitcoin-market-says-analyst/)**
+
+Forbes • 3h ago
+
+---
+
+**[Bitcoin's Rebound Isn't as Strong as It Seems: Watch These Warning Signs](https://www.benzinga.com/crypto/cryptocurrency/26/10/62200044/bitcoins-rebound-isnt-as-strong-as-it-seems-watch-these-warning-signs)**
+
+Binance Research warns Bitcoin’s $84,800 rebound may be fragile as historical patterns and high Treasury yields raise fresh risks.
 
 Benzinga • 7h ago
 
@@ -217,13 +221,7 @@ Benzinga • 7h ago
 
 Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase’s Ryan VanGrack explains why ETFs and direct holding can both thrive.
 
-Bitcoin Magazine • 23h ago
-
----
-
-**[Bitcoin's New Bull Market: No More Boom And Bust (BTC-USD)](https://seekingalpha.com/article/4952010-bitcoin-new-bull-market-no-more-boom-bust)**
-
-Seeking Alpha • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -249,11 +247,19 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 ---
 
+**[Bitcoin Rebound Revives Debate over a New Crypto Cycle](https://news.ycombinator.com/item?id=49984995)**
+
+Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
+
+⬆️ 2 • 💬 0 • 2h ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
+
+---
+
 **[Best Bitcoin Commercial](https://news.ycombinator.com/item?id=49928600)**
 
 Best Bitcoin commercial I’ve recently seen
 
-⬆️ 1 • 💬 0 • 4d ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
+⬆️ 1 • 💬 0 • 5d ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
 
 ---
 
@@ -283,7 +289,7 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 **[My own personal whim, ditching all my devices for my phone](https://news.ycombinator.com/item?id=49977131)**
 
-⬆️ 1 • 💬 0 • 9h ago • [castignoli.it](https://www.castignoli.it/tecnologia/my-own-personal-whim-ditching-all-my-devices-for-my-phone/)
+⬆️ 1 • 💬 0 • 13h ago • [castignoli.it](https://www.castignoli.it/tecnologia/my-own-personal-whim-ditching-all-my-devices-for-my-phone/)
 
 ---
 
@@ -291,23 +297,23 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 ## YouTube Videos: "bitcoin"
 
-**[The SEC approved a 3x Bitcoin ETF. It isn&#39;t what it sounds like.](https://www.youtube.com/watch?v=s_Hiedm9kEQ)**
+**[Bitcoin Just Flashed a Rare Bullish Signal!](https://www.youtube.com/watch?v=16lqNGHR9sc)**
 
-The Clarity Act died. Crypto is getting it one rule at a time. In five days the SEC approved the first 3x leveraged Bitcoin and Ether ...
+Bitcoin's 50, 100, and 200 day moving averages just stacked in the order that's historically preceded a major run, something that ...
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 206 • 💬 52 • ⏱️ 14:58 • 3h ago
+👁️ 6K • 👍 750 • 💬 34 • ⏱️ 15:40 • 2h ago
 
 ---
 
-**[Bitcoin Whales Are Quietly Making Their Move](https://www.youtube.com/watch?v=WsLBRt8YczQ)**
+**[$400,000 Bitcoin LIQUIDITY SHOCK - The Money Printer Just Flipped](https://www.youtube.com/watch?v=DAJjCPUoiI8)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+KALSHI: Trade Crypto Perpetuals + Get a $50 Bonus: https://kalshi.com/p/bitcoinnewsalerts Bitcoin just flashed its strongest ...
 
-📺 CryptosRUs
+📺 Bitcoin News Alerts
 
-👁️ 18K • 👍 713 • 💬 127 • ⏱️ 41:21 • 6h ago
+👁️ 4K • 👍 243 • 💬 39 • ⏱️ 15:17 • 6h ago
 
 ---
 
@@ -317,7 +323,37 @@ Bitcoin testing $87k again and price action looks bullish - can we breakout toda
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 225 • 💬 17 • ⏱️ 1:29:53 • 2h ago
+👁️ 11K • 👍 277 • 💬 21 • ⏱️ 1:29:53 • 6h ago
+
+---
+
+**[The Macro Shift That Could Send Bitcoin to $500K | Matt Cole](https://www.youtube.com/watch?v=waPbWM2D0kg)**
+
+You actually have the president and the Treasury working for Bitcoin because they're working for a weaker dollar.” Matt Cole joins ...
+
+📺 What Bitcoin Did
+
+👁️ 24K • 👍 539 • 💬 150 • ⏱️ 1:39:02 • 1d ago
+
+---
+
+**[The SEC approved a 3x Bitcoin ETF. It isn&#39;t what it sounds like.](https://www.youtube.com/watch?v=s_Hiedm9kEQ)**
+
+The Clarity Act died. Crypto is getting it one rule at a time. In five days the SEC approved the first 3x leveraged Bitcoin and Ether ...
+
+📺 Yahoo Finance
+
+👁️ 13K • 👍 310 • 💬 54 • ⏱️ 14:58 • 7h ago
+
+---
+
+**[Bitcoin Whales Are Quietly Making Their Move](https://www.youtube.com/watch?v=WsLBRt8YczQ)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 772 • 💬 130 • ⏱️ 41:21 • 10h ago
 
 ---
 
@@ -327,67 +363,37 @@ Bitcoin is closing in on $100000 as the bond market breaks, inflation becomes pa
 
 📺 Simply Bitcoin
 
-👁️ 50K • 👍 2K • 💬 139 • ⏱️ 16:08 • 1d ago
+👁️ 53K • 👍 2K • 💬 151 • ⏱️ 16:08 • 1d ago
 
 ---
 
-**[BITCOIN: What the F**K did I just see…?](https://www.youtube.com/watch?v=v04Ft3nmxek)**
+**[Bitcoin This Has Only Happened Two Times Before](https://www.youtube.com/watch?v=w3rqw_bXaO4)**
 
-Bitcoin what now.
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 MMCrypto
+📺 Lark Davis
 
-👁️ 44K • 👍 2K • 💬 321 • ⏱️ 4:58 • 10h ago
-
----
-
-**[BITCOIN BREAKOUT IN 3... 2... 1... (EVERYONE IS WRONG)](https://www.youtube.com/watch?v=-0hr7PcvqaI)**
-
-WEEX: https://themoon.co/DailyWEEX UP TO $60000 BONUS BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT ...
-
-📺 The Moon Show
-
-👁️ 7K • 👍 357 • 💬 10 • ⏱️ 11:53 • 5h ago
+👁️ 6K • 👍 269 • 💬 19 • ⏱️ 10:11 • 3h ago
 
 ---
 
-**[Why I Just Went ALL IN (6 Crypto Coins) Fully Explained in 14 minutes!](https://www.youtube.com/watch?v=6SIu6kixAoc)**
+**[Bitcoin REJECTS at Breakout Level: Exact Support Floor REVEALED](https://www.youtube.com/watch?v=ZBedtARMvPE)**
 
-Crypto Is About To Go NUCLEAR… You've Been Warned ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+Bitcoin hit its breakout level and got rejected. Now the question is where the floor is. Trade alongside the Verified Pro Traders in ...
 
-📺 Altcoin Daily
+📺 Verified Investing
 
-👁️ 80K • 👍 3K • 💬 194 • ⏱️ 13:41 • 22h ago
-
----
-
-**[Bitcoin Shows Strength: More Upside This Week?](https://www.youtube.com/watch?v=xJc0npv27VM)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 342 • 💬 20 • ⏱️ 12:14 • 7h ago
+👁️ 15K • 👍 611 • 💬 31 • ⏱️ 19:50 • 1d ago
 
 ---
 
-**[Bitcoin : trois rejets de suite, faut-il craindre une correction ?](https://www.youtube.com/watch?v=MlcZNENfSgA)**
+**[BITCOIN IS ABOUT TO EXPLODE… *get ready*](https://www.youtube.com/watch?v=V2l2MS_Z7gA)**
 
-Faut-il acheter du Bitcoin quand plus personne n'en veut ? La demande spot est au plus bas depuis presque 3 ans alors que le ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Charlie Seddine
+📺 Crypto Rover
 
-👁️ 2K • 👍 191 • 💬 26 • ⏱️ 11:36 • 3h ago
-
----
-
-**[Did the US Government Just Set Up Bitcoin&#39;s Biggest Bull Run?!](https://www.youtube.com/watch?v=dMz7bgiH09U)**
-
-The bond market is pushing back, Washington is talking about $5000 checks, and the episode argues that monetary debasement ...
-
-📺 Simply Bitcoin
-
-👁️ 43K • 👍 2K • 💬 149 • ⏱️ 18:16 • 1d ago
+👁️ 25K • 👍 855 • 💬 54 • ⏱️ 7:03 • 1d ago
 
 ---
 
