@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-06T21:07:24.795908+00:00'
+updated: '2026-10-07T00:55:18.263483+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 06, 2026 at 21:07 UTC  
+**Last Updated:** October 07, 2026 at 00:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,79 +32,79 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[New Hands for Atlas](https://www.reddit.com/r/robotics/comments/1wv1hot/new_hands_for_atlas/)**
+**[I want to make self-replicating factories.](https://www.reddit.com/r/robotics/comments/1wzfxpf/i_want_to_make_selfreplicating_factories/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=4whgw2gLBS8) • 5d ago
-
----
-
-**[Picking small objects from a pile using code written by LLM](https://www.reddit.com/r/robotics/comments/1wul2cu/picking_small_objects_from_a_pile_using_code/)**
-
-Continuing to move from using the model directly to having the model write reliable control code. The goal here is to pick a small part from a random pile, with the right side up and with precision. Once we have this skill, the next use becomes much faster. Model can adapt it for another part or for screws/nuts. A box with defined mounts and consistent lighting helps computer vision work reliably.
-
-5d ago
+2h ago
 
 ---
 
-**[Are there open source robots that can be 3D printed and trained through machine learning?](https://www.reddit.com/r/robotics/comments/1wuzp4g/are_there_open_source_robots_that_can_be_3d/)**
+**[I designed an open, CE-certifiable bimanual service robot in Italy: CAD, safety electrics and RL training are all on GitHub](https://www.reddit.com/r/robotics/comments/1wz2flw/i_designed_an_open_cecertifiable_bimanual_service/)**
 
-As i see there are different ways to train an AI model through machine learning/reinforcement, i was wondering if there were open source robots that can be 3D printed and programmed/trained with arduino for example through machine learning? I am quite confident i could maybe print a robot arm (maybe not a full robot body) to train for putting my t-shirts in order from a disordered cloth basket. Ok i know it is maybe basic (or maybe not 😅), i see it in a step by step project.
+Hi all, this is Giorgio, our open mobile bimanual robot. It's still in simulation; the prototype isn't built yet. - Base: no commercial AMR had ≥85 kg payload, manufacturer-confirmed auto-docking and enough power out, at a reasonable price, so we designed our own from certified parts (SICK nanoScan3, Pilz PNOZmulti 2, ez-Wheel SWD safety drives). Every component value is traced to the manufacturer's manual. - Arms: OpenArm 2.0. Skills like opening drawers and doors are trained in simulation (236 M steps, ~95 min on one GPU, 96–99 % success). - Everything is open: CadQuery CAD, netlist and safety functions, MuJoCo sim, training code, BOM. Feel free to contribute in any way or form, feedback are really welcome! Repo: https://github.com/VenetoStato/giorgio
 
-5d ago
-
----
-
-**[Could robots in healthcare setups be a reality in the next few years?](https://www.reddit.com/r/robotics/comments/1wv1n3f/could_robots_in_healthcare_setups_be_a_reality_in/)**
-
-I was reading recent news from Neura robotics and they have robots that are aimed at healthcare support, for things like moving beds, equipment, and other menial tasks to support healthcare teams. I would imagine within the next decade at some point, robots might even be used for support in surgeries and medical procedures. What do you guys think? There’s an argument to be made that robots could help reduce workloads on healthcare professionals even if all they do is grunt work. There’s gonna be a market for this that I’m sure of, but imo this would need a level of trust above what is needed for industrial deployment. General purpose use in hospitals would likely see adoption in a couple years at most is my guess, but high level adoption is still quite far away. Honestly I feel healthcare would be one profession where robots can do good and would not replace human staff, just because there’s a whole interpersonal aspect of healthcare which can only be fulfilled by human staff.
-
-5d ago
+11h ago
 
 ---
 
-**[dual-arm teleop rig for collecting VLA training data. Looking for feedback before launch](https://www.reddit.com/r/robotics/comments/1wv7od0/dualarm_teleop_rig_for_collecting_vla_training/)**
+**[Fast, Low-Latency Positioning for Autonomous Robots and Drones Indoors | 80 Hz](https://www.reddit.com/r/robotics/comments/1wz50yv/fast_lowlatency_positioning_for_autonomous_robots/)**
 
-Hey r/robotics, I'm the founder of Paddy (https://paddydata.ai/) (NYC). I've been working on data-collection infrastructure for teams training VLA / imitation-learning models, and I'd like feedback from people who've actually collected teleop data. The problem we kept hitting: most teams collect demos on improvised rigs. Camera angles drift between sessions, schemas change, joint-state rates don't match the deployed system, and you end up with months of data that trains poorly. So we built the Harvester: - 2× UFactory xArm 7 (14 DoF total) on a portable aluminum frame with casters, adjustable height, 90° or 45° arm mounts - Teleop with Meta Quest controllers, but the headset stays on the desk as a tracking reference, so operators aren't wearing it for hours - Switchable scaling profiles (slow/precise vs fast repositioning) on a button press - Cartesian control using UFactory's online trajectory planning (streamed targets, not pre-planned trajectories) - Multi-view Intel RealSense RGB + aligned depth, joint states at 100 Hz, commanded vs achieved poses, gripper state, all hardware-timestamped - ROS 2 Humble, one .mcap rosbag per run, converts straight to a LeRobot dataset for Hugging Face I'd love feedback on: Headset-off Quest teleop vs leader-follower arms (GELLO, ALOHA-style). What's worked better for you? What do you wish your collection pipeline recorded that it doesn't? Anything in the technical writeup that seems off or missing? Site: paddydata.ai (password: harvest). The technical page has the full topic list and architecture. Disclaimer: the site isn't 100% finished yet. We officially launch next week, so a few pages are still rough. Happy to answer anything in the comments.
+High-speed, low-latency indoor positioning for autonomous robots and drones in GPS-denied environments. This demo shows a mobile beacon moving rapidly in 3D while its position is tracked at 80 Hz with only 12–20 ms latency. For autonomous indoor drones, positioning must remain fast, accurate, and stable even during rapid motion and in acoustically noisy environments. We combine ultrasound positioning with IMU sensor fusion to achieve this performance. Ultrasound provides accurate absolute position updates, while the IMU provides high-rate motion data between ultrasonic measurements. Ultrasound continuously corrects accumulated IMU drift. Typical ultrasound positioning alone provides updates at around 8 Hz. Sensor fusion increases the effective position output rate to 80 Hz while maintaining low latency and stable tracking. Key performance: 80 Hz position update rate 12–20 ms latency High-precision 3D indoor positioning Ultrasound + IMU sensor fusion Designed for fast-moving and noisy platforms Non-Inverse Architecture (NIA) Primary applications: Autonomous indoor drones GPS-denied flight Robotics and autonomous mobile platforms Industrial automation Research and universities Motion tracking and interactive installations Configuration: 3 × stationary beacons 1 × mobile beacon - in hand - the same hardware as the stationary beacons 1 × modem - central controller of the system 1 × modem with RHU firmware - to receive fast IMU sensor-fused stream and do post-processing, when more data is available. It makes the view even more beautiful, but at the expense of latency
 
-5d ago
-
----
-
-**[Functional Safety](https://www.reddit.com/r/robotics/comments/1wv0rgr/functional_safety/)**
-
-What is the difference between building in functional safety early on vs waiting until the end? How do safety partnerships help the industry? https://www.linkedin.com/posts/synapticon-co_humanoids-functionalsafety-robotics-activity-7511379498718625792-oPLl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMG_WMB6npmHVKREPOjVhxKwxVIs9Q1bZ0
-
-5d ago
+9h ago
 
 ---
 
-**[Testing the arm joints of my MK humanoid robot! 🤖⚙️ Another step in the development of the MK Robot. More upgrades and testing in going](https://www.reddit.com/r/robotics/comments/1wul97j/testing_the_arm_joints_of_my_mk_humanoid_robot/)**
+**[hold_and_weld v0.3.0: configurable ROS 2 dual-arm welding with grasp sampling and weld seam extraction](https://www.reddit.com/r/robotics/comments/1wz3i71/hold_and_weld_v030_configurable_ros_2_dualarm/)**
 
-5d ago
-
----
-
-**[Kodiak prepares autonomous trucks for IKEA deliveries](https://www.reddit.com/r/robotics/comments/1wv2rj3/kodiak_prepares_autonomous_trucks_for_ikea/)**
-
-Kodiak and IKEA are preparing to operate trucks without anyone in the cab on a 219-mile section of I-45 in Texas. Commercial driverless service is planned for the end of 2026; current preparation runs still have a safety observer aboard. Over four years, Kodiak says it has carried more than 1,300 IKEA loads and logged over 750,000 autonomous miles with an observer. That work has included coordinating delivery timing with dock availability and using vehicle data to plan maintenance.
-
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run) • 5d ago
+10h ago
 
 ---
 
-**[Figure.02 Decomission, I don't know what to say](https://www.reddit.com/r/robotics/comments/1wubx8w/figure02_decomission_i_dont_know_what_to_say/)**
+**[I built a balancing robot with reinforcement learning](https://www.reddit.com/r/robotics/comments/1wy8xlq/i_built_a_balancing_robot_with_reinforcement/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Hi /robotics! I built this balancing robot that runs end-to-end on a custom neural net trained through reinforcement learning in simulation. The robot is trained on 100% synthetic data, so it has never seen the real world, yet adapts perfectly. It has a lean and level mode (single policy), in level mode it keeps both pitch and roll of the base level at all times, so the legs automatically retract or extend based on the ground below. In lean mode the right joystick of the controller can be used to decrease or increase stance height and leaning left/right at all heights, allowing roll to be non-level. Main components: - 6x Xiaomi Cybergear motor (all quasi direct drive, no linkages) - Teensy 4.1 - 200 Hz policy inference - 2x CAN bus (left / right leg split) - BNO086 IMU Trained in mjlab on single RTX3080 at home, about 7 hours of train time from scratch. Happy to answer any questions!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=pfAh5oQDPDM) • 6d ago
+1d ago
 
 ---
 
-**[My research project has hit a technological ceiling that is impenetrable for me, as it is impossible without robotics.](https://www.reddit.com/r/robotics/comments/1wud6c7/my_research_project_has_hit_a_technological/)**
+**[Cute crab robot with claws](https://www.reddit.com/r/robotics/comments/1wxyycm/cute_crab_robot_with_claws/)**
 
-6d ago
+1d ago
+
+---
+
+**[GXO Plans 20,000 Robots in 2026. None of Them Will Be Humanoids.](https://www.reddit.com/r/robotics/comments/1wyqo93/gxo_plans_20000_robots_in_2026_none_of_them_will/)**
+
+Humanoid robots have become one of the most closely watched technologies in logistics. GXO Logistics may also be one of the companies best positioned to tell us when they are actually ready for production. The contract logistics provider isn't watching humanoids from the sidelines. It has been testing them in warehouse environments, working with multiple robotics companies and looking for applications where the technology could eventually make economic sense. That makes three numbers from GXO particularly interesting: 20,000 robots, 45 humanoid pilots and zero humanoids in production this year.
+
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/gxo-plans-20-000-robots-in-2026-none-of-them-will-be-humanoids/boa) • 22h ago
+
+---
+
+**[Dynamixel AX-12A Robot Actuator](https://www.reddit.com/r/robotics/comments/1wz83mh/dynamixel_ax12a_robot_actuator/)**
+
+Voy a realizar un robot The Open Academic Robot Kit oarkit y necesito los dynamixel ax12a Pero no los consigo alguien sabe por cual los puedo cambiar es necesario que sea de giro continuo
+
+7h ago
+
+---
+
+**[5$ pi cam with 2000$ lidar - wasted all day trying calibrate](https://www.reddit.com/r/robotics/comments/1wz6msb/5_pi_cam_with_2000_lidar_wasted_all_day_trying/)**
+
+Anyone got any more ideas how to fix the calibration between Ouster os0 and pi camera? For coloring pointcloud. Would appreciate ideas. Documented today’s „wasted“ day here https://youtu.be/o7qQf7MvhdY?is=CMSvskPa3zHcD29F
+
+8h ago
+
+---
+
+**[The handling challenges behind automating oversized merchandise](https://www.reddit.com/r/robotics/comments/1wz31jd/the_handling_challenges_behind_automating/)**
+
+Walmart is investing more than $300 million in a 1.18-million-square-foot fulfillment center in Ohio for furniture, televisions and other oversized merchandise. The facility is expected to create more than 300 jobs and support next-day delivery. The article examines why these products are harder to automate than standard cartons. Their size, weight, shape, fragility and centers of gravity vary, limiting compatibility with conventional conveyors, sorters and storage systems. It discusses potential uses for autonomous forklifts, mobile robots, specialized carriers and robotic manipulation. It does not identify the automation systems planned for Walmart’s new facility.
+
+🔗 [Automate](https://www.automate.org/ai/industry-insights/automation-conquered-the-box-now-comes-the-couch) • 11h ago
 
 ---
 
@@ -112,9 +112,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
+**[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
+
+WSJ • 1d ago
+
+---
+
 **[Mixed Human Feelings After a Day at a Park Full of Robots](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
 
-The New York Times • 3h ago
+The New York Times • 7h ago
 
 ---
 
@@ -122,69 +128,61 @@ The New York Times • 3h ago
 
 A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies.
 
-The Drive • 4h ago
+The Drive • 8h ago
 
 ---
 
-**[Human vs humanoid robot cage fight goes viral](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)**
+**[Agility Robotics to Livestream Analyst & Investor Day Today](https://www.businesswire.com/news/home/20261006653416/en/Agility-Robotics-to-Livestream-Analyst-Investor-Day-Today)**
 
-Frankie LaPenna fought three robots in a cage, including two modified EngineAI T800 humanoids that can kick with up to 850 pounds of force..
-
-Fox News • 1d ago
+Business Wire • 13h ago
 
 ---
 
-**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
+**[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer](https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/)**
 
-It’s Real Steel come to life.
+Boston Dynamics today announced the appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026.
 
-Tom's Hardware • 2d ago
-
----
-
-**[Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian](https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html)**
-
-/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project...
-
-PR Newswire • 1d ago
+Boston Dynamics • 2h ago
 
 ---
 
-**[New RP1 humanoid for open-source robotics research unveiled by RoboParty](https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics)**
+**[Kraken Robotics (TSXV:PNG) Is Up 5.8% After Q2 Results Highlight Backlog And Covelya Integration Questions](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-tsxv-png-5-110651755.html)**
 
-RoboParty unveils RP1, a full-stack open-source humanoid robot for research, education and embodied AI development at IROS 2026.
+In early October 2026, Kraken Robotics reported Q2 2026 revenue of C$27.3 million and adjusted EBITDA of C$5.0 million, supported by a combined 2026 order book of about C$355 million including the newly acquired Covelya business. The market reaction highlights how questions around the timing of converting this backlog into revenue, and integration of Covelya, are becoming just as important to investors as the headline growth opportunity itself. Next, we’ll examine how concerns over revenue...
 
-Interesting Engineering • 1d ago
-
----
-
-**[Panasonic to make humanoid robots, leveraging its battery business](https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business)**
-
-Company aims to start production by 2029; machines to work in plants, warehouses
-
-Nikkei Asia • 1d ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[YouTuber Fights Humanoid Robots in Unsanctioned MMA Bout](https://www.pcmag.com/news/youtuber-fights-humanoid-robots-in-unsanctioned-mma-bout)**
+**[This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.](https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10)**
 
-Frankie LaPenna held his own against the smaller ones, but the Terminator bot seemed ready for the challenge. The California State Athletic Commission was not impressed.
+A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used.
 
-PCMag • 1d ago
-
----
-
-**[New humanoid robot built in five months remotely handles bombs, hazardous energy jobs](https://interestingengineering.com/ai-robotics/humanoid-robot-bomb-disposal-energy-jobs)**
-
-A humanoid built in five months lets specialists remotely handle explosives and hazardous energy equipment.
-
-Interesting Engineering • 2h ago
+Business Insider • 12h ago
 
 ---
 
-**[Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation](https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5)**
+**[Hundreds of soldiers transfer to newly created jobs in robotics and space](https://taskandpurpose.com/news/army-space-robotics-mos/)**
 
-WSJ • 1d ago
+10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field.
+
+Task & Purpose • 1d ago
+
+---
+
+**[Video: Dexterous robot hand learns the delicate art of silk embroidery](https://newatlas.com/robotics/agilink-robot-hand-learns-silk-embroidery/)**
+
+Agilink, a spin-off of Chinese robotics giant AgiBot, asked Fu Xianghong, a master of traditional Suzhou embroidery, to train its OmniHand 3 Ultra. The synthetic hand has learned to split silk strands, thread a needle, stretch fabric across a frame, and stitch, following a craft with more than…
+
+New Atlas • 10h ago
+
+---
+
+**[Japanese and Korean shipbuilders deploy robots to take on China](https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1)**
+
+US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
+
+Financial Times • 2d ago
 
 ---
 
@@ -192,33 +190,23 @@ WSJ • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
+**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
 
-What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
+Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
 
 📺 ejunky66
 
-👁️ 72K • 👍 1K • 💬 83 • ⏱️ 1:00 • 2d ago
+👁️ 4.0M • 👍 61K • 💬 2K • ⏱️ 1:00 • 4d ago
 
 ---
 
-**[World&#39;s First: Ukraine&#39;s ROBOT ARMY SHATTERS Russian Trenches In Just 2 NIGHTS](https://www.youtube.com/watch?v=gcvdxLIi_kg)**
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
 
-Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/THGEOCT1 100% Discount for the first 1000 ...
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
 
-📺 The Geo Network
+📺 AI Revolution
 
-👁️ 195K • 👍 3K • 💬 135 • ⏱️ 20:27 • 6d ago
-
----
-
-**[Tesla Optimus Gen 3: Elon Musk Just Teased a HUGE Robot Upgrade](https://www.youtube.com/watch?v=_8Mfpo6CoOE)**
-
-Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot program. Elon Musk has teased that Optimus Gen ...
-
-📺 Ai_Mobility_News
-
-👁️ 11K • 👍 75 • 💬 6 • ⏱️ 14:50 • 6d ago
+👁️ 54K • 👍 743 • 💬 86 • ⏱️ 13:23 • 4d ago
 
 ---
 
@@ -232,13 +220,13 @@ Canada's New Humanoid Robots Are Shocking! All across Canada, machines shaped li
 
 ---
 
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
+**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
 
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
+What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
 
 📺 ejunky66
 
-👁️ 4.0M • 👍 61K • 💬 2K • ⏱️ 1:00 • 4d ago
+👁️ 73K • 👍 1K • 💬 85 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -248,27 +236,27 @@ We visited UCSD's Center for the Future of Surgery to learn about the first ever
 
 📺 CNET
 
-👁️ 45K • 👍 439 • 💬 64 • ⏱️ 6:34 • 2d ago
+👁️ 45K • 👍 443 • 💬 66 • ⏱️ 6:34 • 2d ago
 
 ---
 
-**[These New Chinese Robots Look Almost 100% Human](https://www.youtube.com/watch?v=mqkrM72lFug)**
+**[Tesla Optimus Gen 3: Elon Musk Just Teased a HUGE Robot Upgrade](https://www.youtube.com/watch?v=_8Mfpo6CoOE)**
 
-China's humanoid robot industry is racing toward machines that look almost 100% human, and the progress is staggering. Xpeng ...
+Tesla Optimus Gen 3 could be a major step forward for Tesla's humanoid robot program. Elon Musk has teased that Optimus Gen ...
 
-📺 Prime Insights
+📺 Ai_Mobility_News
 
-👁️ 493K • 👍 3K • 💬 121 • ⏱️ 30:09 • 6d ago
+👁️ 11K • 👍 75 • 💬 6 • ⏱️ 14:50 • 6d ago
 
 ---
 
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
 
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
 
-📺 AI Revolution
+📺 Boston Dynamics
 
-👁️ 53K • 👍 738 • 💬 85 • ⏱️ 13:23 • 3d ago
+👁️ 2.4M • 👍 35K • 💬 3K • ⏱️ 5:35 • 5d ago
 
 ---
 
@@ -278,17 +266,25 @@ What happens when humanoid robots stop being prototypes… and start being mass-
 
 📺 ejunky66
 
-👁️ 113K • 👍 1K • 💬 94 • ⏱️ 1:00 • 6d ago
+👁️ 115K • 👍 1K • 💬 94 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[DO I REALLY Need the ULTIMATE SHELL? War Robots Gameplay WR](https://www.youtube.com/watch?v=lEYFlBx6Rok)**
+**[These New Chinese Robots Look Almost 100% Human](https://www.youtube.com/watch?v=mqkrM72lFug)**
 
-War Robots Gameplay: Getting the Ultimate Shell in WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+China's humanoid robot industry is racing toward machines that look almost 100% human, and the progress is staggering. Xpeng ...
 
-📺 Manni-Gaming
+📺 Prime Insights
 
-👁️ 6K • 👍 264 • 💬 63 • ⏱️ 12:54 • 8h ago
+👁️ 497K • 👍 3K • 💬 121 • ⏱️ 30:09 • 6d ago
+
+---
+
+**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
+
+📺 Ben Esherick
+
+👁️ 940K • 👍 61K • 💬 922 • ⏱️ 0:34 • 1d ago
 
 ---
 

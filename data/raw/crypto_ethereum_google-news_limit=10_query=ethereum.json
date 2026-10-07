@@ -5,26 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "How native transaction assertions could enforce a transaction's final outcome",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwTkZpeGJOc0k2ZnBmN2tFTEg2eVJFcE5JX2hENUEwOWhVQWMtcUpoZ21ZMndHZ05MS0xFRU5Ra0JoRUFPUlVKRjMxdHAyS1lwZGdTX0Y5Mkxud0Q1M29RQ0xBd0R6SU82dmRJ?oc=5",
-      "pub_date": 1791214753.0,
-      "article_url": "https://blog.ethereum.org/2026/10/05/transaction-assertions",
-      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer2.png",
-      "description": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is..."
-    },
-    {
-      "headline": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE1neEZtUzRncTJvS1F5b0VwZlBndG9sQmZhTVZ0RGVCMXJQM0RvZmlwQ0pjTzJhcXllMUhiYklaSjRGSEIyRWw2eVBwRzVkXzhkTVh1UFBiSE5rV3RfR2lNejFoclpCS092UWNsOHdMeXEwT1NUbE9WelcwNV9wTlRvRnJudXlZT1Y0N2VBcE1oUlNXSXVBY0phakU?oc=5",
-      "pub_date": 1791318533.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/pudgy-penguins-ethereum-layer-2-202853896.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/dccf361a4355e0eb2333d00838cf9eb39948f00d632ee2e590308d995a753bf3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F76dada6bdb823d94c95128ef99bd4928.png",
-      "description": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then."
-    },
-    {
       "headline": "ETH news: Ethereum\u2019s Glamsterdam test gets last-minute fix before major capacity jump",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -35,14 +15,24 @@
       "description": "One of Ethereum\u2019s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas."
     },
     {
-      "headline": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWmdfOUVyM2tZU2xxR1VTeV9qWXNlNXdscEhGZFVDQjN4RC1qR1BtaEVySHJ2ZXNzdEl0SG55RGV3Q0Y5T3dFX2hsc205M2Z3QjZVZkItSGRIV0Ewdk5LdWs5QkJreFBsTTNoUF9PNnZtcGxkeGhLeS1uVVE?oc=5",
-      "pub_date": 1791223948.0,
-      "article_url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
-      "description": "The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange."
+      "headline": "How native transaction assertions could enforce a transaction's final outcome",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwTkZpeGJOc0k2ZnBmN2tFTEg2eVJFcE5JX2hENUEwOWhVQWMtcUpoZ21ZMndHZ05MS0xFRU5Ra0JoRUFPUlVKRjMxdHAyS1lwZGdTX0Y5Mkxud0Q1M29RQ0xBd0R6SU82dmRJ?oc=5",
+      "pub_date": 1791214753.0,
+      "article_url": "https://blog.ethereum.org/2026/10/05/transaction-assertions",
+      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer2.png",
+      "description": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is..."
+    },
+    {
+      "headline": "Ethereum Beat Bitcoin All Quarter. Its Order Books Thinned and the Staking Exit Queue Hit a Record for the Year.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2V1VEVFYnQ2blpINF95UHVkbDlSbDdBOEZySm1jY2VrUTVSZjBvRVBiY2Z3WFN2UTUyR3Q3Y1lBSjZ2MlZuSkxYREduVmQxTV95UEtnZUhqM2tIaTlQb2NvWmxiRnhHWlQ2ODM5RndqM2VfTjkySF9yWHNWTUZ5Nmsyb3luN01KM3QwR2Y2Z3lhckpha0p5ZTVjZzd4bXVKWHc?oc=5",
+      "pub_date": 1791329450.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-beat-bitcoin-quarter-order-233050182.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6d26859e240180cb72546bdbb5e235c53eb6db8fcb2907675f85ef6711e74cc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8ce6a176ccf96abe9b1c70957e183451.jpg",
+      "description": "Ethereum crushed Bitcoin last quarter with a stunning rally, but cracks are forming beneath the surface that traders may be ignoring at their peril. Two obscure market signals are flashing warnings that could change the outlook entirely."
     },
     {
       "headline": "Tom Lee says ether 'dwarfing other macro assets' as Bitmine adds 15,112 ETH",
@@ -55,14 +45,14 @@
       "description": "Bitmine has now bought ETH every week since launching its treasury strategy on June 30, 2025, and holds 4.9% of Ethereum's supply."
     },
     {
-      "headline": "Current price of Ethereum for October 6, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMkpTN1NtaXJTX1dabzZoVkJ1aU9GSnNBc3pja0lERjVVT3RxQ0p4OG5HdGVjRlFhMGpXQ044bTBabWdOMkNYV3BKd1BmajlhV3F0YTd6aEk5QzRKZ0FfQW51Z2poaDgt?oc=5",
-      "pub_date": 1791287100.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-06-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-6.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWmdfOUVyM2tZU2xxR1VTeV9qWXNlNXdscEhGZFVDQjN4RC1qR1BtaEVySHJ2ZXNzdEl0SG55RGV3Q0Y5T3dFX2hsc205M2Z3QjZVZkItSGRIV0Ewdk5LdWs5QkJreFBsTTNoUF9PNnZtcGxkeGhLeS1uVVE?oc=5",
+      "pub_date": 1791223948.0,
+      "article_url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
+      "description": "The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange."
     },
     {
       "headline": "Why are Bitcoin, Ethereum and XRP struggling to extend recovery?",
@@ -75,11 +65,21 @@
       "description": "Bitcoin (BTC) upholds a robust bullish outlook, trading at $85,837 on Tuesday as sellers push to regain control over the trend. Structural support levels remain intact, backed by uptrending moving averages and consolidating momentum."
     },
     {
+      "headline": "Current price of Ethereum for October 6, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMkpTN1NtaXJTX1dabzZoVkJ1aU9GSnNBc3pja0lERjVVT3RxQ0p4OG5HdGVjRlFhMGpXQ044bTBabWdOMkNYV3BKd1BmajlhV3F0YTd6aEk5QzRKZ0FfQW51Z2poaDgt?oc=5",
+      "pub_date": 1791287100.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-06-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-6.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
       "headline": "Ethereum Validator Count Falls to 863,000 as Staked ETH Edges Higher",
       "source": "The Defiant",
       "source_url": "https://thedefiant.io",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmJnQW9SWXI4RkF1WE0zdk1fTk9oeGpXcVQyUWVhVVFjTm1vMmFZT2RUbFNVWjlmWU9Jb3I5M2xRZFdfYVhQYlNVRW5WMXQ0b3B6eGRrWU56WmpiaThNV2pEd3h1WHN3SmhkdkIzdnhodnlqUkxFMm53SjlBYURpZllScEY1ZnB3ZFBDVE84ZjlZSE1XN2VwdzNRYTZ5YllKRjhVelh2bUhqdlE?oc=5",
-      "pub_date": 1791309449.0,
+      "pub_date": 1791313049.0,
       "article_url": "https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher",
       "image": "https://cdn.sanity.io/images/6oftkxoa/production/46eac17c23858b4674615d2a617c4bc0cf4d4eef-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
       "description": "Ethereum\u2019s active validator count fell 2.5% in seven days while staked ETH rose slightly, as Pectra allows larger, consolidated validators."
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-06T21:07:22.207559+00:00"
+  "fetched_at": "2026-10-07T00:55:07.204765+00:00"
 }
