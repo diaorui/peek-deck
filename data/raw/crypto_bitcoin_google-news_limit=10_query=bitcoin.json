@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJDa0tlWHc5c1NiajNMeGREU2JPOWdldE5HMURPVkZqUDI0OXZHb1BOb1Y5UUZPSEN6enh4WUFraTZXMmt3dXA3NXZwWGVnVElRQ1J1bUhKS1VXNU1UcmYzSkdFZ0tIdm1GQmxEQmhmUWZNNm9FSklCQUdhUlVxenp5RFRLWk1WVlpRSTRMM2FLaXB4amFTYmNJR0Y5b0I4QnZUQmtFcFdzdFVFNWZFNjBRWlRYNncwcWVWeldVai1IRU0?oc=5",
+      "pub_date": 1791330909.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "BTC, ETH, SOL price news: Bitcoin hits $87,000 wall for third time as stocks near records",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -15,24 +25,14 @@
       "description": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing."
     },
     {
-      "headline": "Bitcoin and ethereum prices today, Monday, October 5, 2026: Bitcoin back above $86,000 after higher rate expectations fade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZlgzaDMwa25UUk5sNmxWNnQ2clRTd0syekFwRWJ2QnZUeTZJcEx1RmhxeGxELUFrR2RkdDA2NWtORlFUdkthdGRQOWtjX1dxVFJidDhvR2NhY290ZnR4RlBPU08yUnA3dlRESFVIc2VpQ2g0UW9rM3VfWm5TWFV3OWw0S24zN2VNTTdZc1VxRVoxZHRyYkJ6Yk5KZGJ0QnRyYzFrMnRveGJuaXZhN2UtOW9xeFVGYkllaFZnZXVYUU9nSl9OTlhrX0ZJZFk5SzVMaURwZmlyaXdRandubXFRa0Q1T3dESEVaR2EtNWFFT0R3Qy1FZ0V4cEJPLU1RTXNCN0VyMjBCMWM5M244bTRuVHlfb0YyZEpsbldmeA?oc=5",
-      "pub_date": 1791200699.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-5-2026-bitcoin-back-above-86000-after-higher-rate-expectations-fade-114459647.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7ce37edafc6b48f765180883ec4f3f14a7b26ecea461f7d99d2d4e6f4b599127/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_1_3688.jpg",
-      "description": "Bitcoin opened at $86,513.38 on Monday, October 5, 2026, up 2.1% from Sunday's opening price. As of 7:37 a.m. ET this morning, bitcoin dipped to $86,121.88. Ethereum opened at $2,726.72, up 1.5% from Sunday's opening price. The price of ethereum moved slightly lower this morning to $2,717.55 as of 7:37 a.m. ET."
-    },
-    {
-      "headline": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJDa0tlWHc5c1NiajNMeGREU2JPOWdldE5HMURPVkZqUDI0OXZHb1BOb1Y5UUZPSEN6enh4WUFraTZXMmt3dXA3NXZwWGVnVElRQ1J1bUhKS1VXNU1UcmYzSkdFZ0tIdm1GQmxEQmhmUWZNNm9FSklCQUdhUlVxenp5RFRLWk1WVlpRSTRMM2FLaXB4amFTYmNJR0Y5b0I4QnZUQmtFcFdzdFVFNWZFNjBRWlRYNncwcWVWeldVai1IRU0?oc=5",
-      "pub_date": 1791330909.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin grinds toward $87K as US equities hit new record highs",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkJWZGtaYThFaG84Qi1TS2dGTzV2dEZHUXN3cUFSWWQ0dEJtQ0tPNzJiRGpEY0tmSTJFZjJaQjQxSWszem52RDFvWVREamE5QmZOZEJPazd4cXA4UzNDSnc1QVRFdU5XMW1EUGs3ZTEtU1gtUzFOYkgyUjNtaEw1Um5id0pPX2xIeGY4ZE9mWmV2N1l0MnBEcU1MTVN4YkFTX3gwNThHSW8wQjJlXzA2TThoa1kwQlZZbjc4dlBQQUl5Ums?oc=5",
+      "pub_date": 1791307198.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:94773c6d9094b:0-bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin (BTC) continued to circle $86,000 on Tuesday as US stock markets hit fresh all-time highs.Key points:Bitcoin rangebound as S&P 500, Nasdaq see new highsData from TradingView showed BITSTAMP:BTCUSD attempting to return to $87,000 after another failed attempt to break higher on Monday.BITSTAM\u2026"
     },
     {
       "headline": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
@@ -45,66 +45,66 @@
       "description": "The Nasdaq-listed Bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week."
     },
     {
-      "headline": "Arthur Hayes Expects Bitcoin to Hit $126,000 by Year End. Can BTC Climb 46% in Under Three Months?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWQwUEpwVjBvZEVhaHM5NmIxcDJuT3JRV3NVWEN4VTJBckQtSjM1SkdvSm9PX1pQM1dwQ1NGOE02WVBaaG1vajhRalBSU1UzT2dRRUhZUHFrdlNMMm9Dc2JIa19MX1JIZDJQUjNtV0ZlcExsLWppUVpWVGp1dkFkUy1BZ3A0bS1Hak5tSnFrMEF2d0hKYzJDU3RfUkc0QQ?oc=5",
-      "pub_date": 1791331200.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-expects-bitcoin-hit-000000987.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/462fde1f64305003957718309737e16b94bbe7adc35435932f5996d38cba25b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0379d3279b4b93a488f72486ac778f53",
-      "description": "BitMEX co-founder Arthur Hayes calls his latest Bitcoin price target a foregone conclusion, but the math behind getting there before New Year's Eve tells a very different story."
-    },
-    {
-      "headline": "Crypto Elite Gather in Singapore as Bitcoin\u2019s Rally Buoys Bulls",
+      "headline": "Watch From Bitcoin To Tokenization, Crypto Optimism Returns",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFNScVlncTZjMV9OeTdmNUFGSVpKLVhndmt5MXp5SHE3MzhUYmNCR0JwcGtwUjIxSVRuNFBYOUNuWHhZZVF3YWoyZ0pXbUotQ0NVUmNWbEtYNnpnV1BNb2NhUDY4X21ScmJRek9iTkV0VjdmMnZ2ZVMzVU9VQzhiaWlXUUZSNUVlSUt2M2dFTDBMNmlJVjVGYktoOGdYWWNwN2d0WXdlZDFsTzd4bG0wUmphTWo?oc=5",
-      "pub_date": 1791241200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/crypto-elite-gather-in-singapore-as-bitcoin-s-rally-buoys-bulls",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXF3WFltWnNrTlBiRFdxRklsOXRnWExGdXVKTHZaVlZ4Q2VGdkVtdnA0czhlbGJfZVRGdWZzY2s5TTNkdXZ3T1VDUk8zOFB3Vy02bzN5TWlUMlJOOWplVTRWM0I0RUdVbmdtSFBSRi1WRGpkTWVYdk5YUy1IYkc0LUtuOXRUZzk0LWt6Q2ZVekgzcmlJMnc?oc=5",
+      "pub_date": 1791352962.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-10-07/insight-with-haslinda-amin-10-7-2026-video",
       "image": null,
       "description": null
     },
     {
-      "headline": "First National Bank opens Bitcoin trading to nearly 9 million clients",
+      "headline": "Trillions are being \u2018wasted\u2019 on the AI boom, Arthur Hayes says. He\u2019s betting on what comes next",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblYtWWRwYjVoTE93ZXJGZXVwYzVhQ194XzhyQTVYZTlWSzQySV9UU2c0MnVFX1NWT0RoU1BjdVFrZ0ZXbnNnS1l0TE9ONEZISmRJVzY3QkF6WDVXQTZIR3VMLVhUckwweUdiUk5vYmwwTzZCTTdPV05heDhCY29fMXVoZmZZd2huWHkyTFY1N1FGaEFYckHSAZsBQVVfeXFMTjlHOFhpaGlXaFRxdlB6cXh2c2FfeW1GaXhEVFVNemdiLXZjNnFUbEJnclJuU3ZyRWpKWDB5YmNtTm1Ib09jbklLLXhaZGNSWDVRWEdOemtES1BqempUNXVULUN5MEYxS3BlT3RTdU1CS3BDSFh4VXRsRnNRZ3o3MWIyUFAwUENQQlcxQThSX2JTNkMxbi1Qek41WDA?oc=5",
+      "pub_date": 1791334140.0,
+      "article_url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373228-1791290584757-gettyimages-1813801150-BC_2023StudioAI_4807.jpeg?v=1791290675&w=1920&h=1080",
+      "description": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher."
+    },
+    {
+      "headline": "Why is Crypto Down? Bitcoin Lost $2,000 in A Flash Crash",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWRTS3Z3bWFTMi0zbDB4cHN6bVI4aDBCV0FjZl9RNFZuSWlMX3ByTHlaT0JlR2dCQks0dHNvZUZPN2dCdll3ZzFIcGJ5cmNjUk41U1VheWlMYVpfdXhfd2x4eUE0NHNGdlRxUUFpTWYzWjhYR2hCTW9MZlhlaU04VWRVdFBEUTFZMUdaWVJwaGtzSi1fMWVFSA?oc=5",
+      "pub_date": 1791347220.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-down-bitcoin-lost-042707090.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/89699f68e24abc91ea6ec6098a479ec608d5654fdcb34cd6eb832b032964fc36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F862efb604c3683386dd06f71385fb9fd.jpg",
+      "description": "Why is crypto down today, or should we say just now? Bitcoin fell below $84,000 after failing to sustain an advance toward the $87,000-$87,800 resistance area, shortly after four newly created Hyperliquid wallets deposited $1 million USDC and opened 40x short positions totaling 148.49 BTC, or about $12.5 million in ..."
+    },
+    {
+      "headline": "Bitcoin falls nearly $2,000 in 20 minutes as $400 million in longs get liquidated",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1V1TmdaLU9rOHhvUTFiajZVVG43NWJsd3BsRVVEdGFOMTJxODJqNURKakdxSWFkc1NhaFBHVnJON2Ytdk9JczRrczdMY2dmSXFQdUlsdXMwa3hvc0FoTUpQWl9ENTRoZDZOd2ZpaUN6MG0ycURQSjQ3djNWdGxJeE9EM01mSU9KdGJYeTk3bEt4NzV0dEhfMW1DcTRNNjZuUy1GY1F3MzVlMnNLX3BIWlFYRzBMRnV6b1NFY3NLNnBONmlxX2VWakp2ZmdReU0?oc=5",
-      "pub_date": 1791315349.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:9ae735d70094b:0-first-national-bank-opens-bitcoin-trading-to-nearly-9-million-clients/",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPckJubzF6RkIycW16YUZxcXY3dml4VEgxN1haUXljWjFPM1JhWlMzTjNWSEtpWGxjVk9GeDNSOVRRYkFtSm1GZzBUcE90YzVNOWJkTXBPTTZKNDY1Umg1Snh6RWJ6STBGY296UTY2eG5sS0Juc0RacjMxSkV6ckNRMDNRTnVyQmFFX2VDZENuOUxhaU1XSVdJSDFkeUViMUp3TDFxS3JIZHNTWVdfT0d5SjhRUDZQRnNhaS1uVG5CbHdCc1RhbDJzeGctSUZaN2hqbGpEMXpYSE5RMVdf?oc=5",
+      "pub_date": 1791339120.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:45c6a4702094b:0-bitcoin-falls-nearly-2-000-in-20-minutes-as-400-million-in-longs-get-liquidated/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "South Africa's second-largest bank is letting its customers buy Bitcoin without ever leaving the banking app. First National Bank (FNB) has unveiled a feature called \"Crypto Investing\" that opens digital asset trading to nearly 9 million retail clients.FNB is the retail banking arm of the FirstRand\u2026"
+      "description": "Bitcoin dropped nearly $2,000 in about 20 minutes, and roughly $400 million in leveraged long bets went up in smoke along the way.On October 6, 2026, Bitcoin slid more than 5% intraday. It fell from approximately $71,765 to $67,895, its lowest point since April of this year.According to Coinglass d\u2026"
     },
     {
-      "headline": "$85,000 Level Could Be Crucial To \u2018Structural Change\u2019 In Bitcoin Market, Says Analyst",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUEyTkxwYlhJZU1CREFManVaODY5ck1sUHd3a3ZPRXFlV1ZoWEJ3RlR3UkFXdW9Bc0ZLS0tVM3BreUJ0ZFJVWnR4ejBoNFNZQnNBWlE3dTB6S2s4OG9valpreGV3aWp5QU56VDlFMmJ1WV95R2FSSDJhUTBwS1BOS1RpWEhGYXVTV01ybGlHWGZtd2EwcThjTVNNc0lzZldzdHFTTGs3czEtajFoS1FYRkpaUDhSaFlMQnliX2o4Mk9Kc1RPUjBRU0R2dmFXcU0xSXc?oc=5",
-      "pub_date": 1791320375.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/06/85000-level-could-be-crucial-to-structural-change-in-bitcoin-market-says-analyst/",
-      "image": null,
-      "description": null
+      "headline": "Current price of Bitcoin for October 5, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRVZJWWVIZXRWWktlNmpSNThiN0hGZmtYVkJRNDg1TTYwd2F3V1BTaEdhekV0OXBCcWVQRFJnWTVpT1d2cF9uUF9SZHB5eXVnVnBXTVlISDZRMmNoZlNkcUF0UDlNQlU?oc=5",
+      "pub_date": 1791198900.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-05-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-5.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Bitcoin's Rebound Isn't as Strong as It Seems: Watch These Warning Signs",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSzNCcXRBQ3hlQktPMkdPOEpCdkpJbHZqaUdLY2xJSjJvMkkwMHh6Q2I0Sk5DWEhUemtQNVdMbTFKbkcxWWVfSEV6ck13TVpxakQ3MTAyNWNyaXFuMkdOa19QYVQ5SE01MHBoMDVNVEEtQXJzRVptMzZQNVFTU011cGVmemQ5VnFsODRVUTdjV3FucV80WmpCdWpQcUExVVBOM1lHUkx2MzU4TC01MFl4UV81SzlHMTJGeVJfUVNHNHpxcUxMRGFDT3N3cw?oc=5",
-      "pub_date": 1791307941.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62200044/bitcoins-rebound-isnt-as-strong-as-it-seems-watch-these-warning-signs",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/06/Bitcoin.jpg",
-      "description": "Binance Research warns Bitcoin\u2019s $84,800 rebound may be fragile as historical patterns and high Treasury yields raise fresh risks."
-    },
-    {
-      "headline": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" For Bitcoin",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW1WeVNVaG9ZbmRUU3lwS2UzYnJUZ2NwbUgxU2ZsQk9nU0w1MzRzZGEweVVnb2g2YjlBdEhNZkkwUzN1WFRhNDlaaGtyNmxKRXZlVEFpMV92RVh3TWdGRGdOeXFDYmZ4bEhTVFZKZW9icjhCbjQxX1pBRHZoSzBKUzJGd1RyNG1sUlhlbXZDQURCSGo1RUlHYmF1RFhaS0hDYmsw?oc=5",
-      "pub_date": 1791234890.0,
-      "article_url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbases-Ryan-VanGrack-CFTC-Approval-22Opens-Many-Doors22-for-Bitcoin-.jpg",
-      "description": "Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase\u2019s Ryan VanGrack explains why ETFs and direct holding can both thrive."
+      "headline": "Bitcoin Is Back at Its September High and Short Sellers Are Stacked Right Above It. What Happens If $88,000 Breaks?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR0x2eGR0ekg2VUVhSkJLaEFrYVhPa1BMUTBTSlc2eDFYaFRNOEwxV2FHMFIyaVg2TjV5R1ZCanA5QVVjRy1oQm01ekhGQlNXRE1USHFvdkl1OHdLZll1bXA4cVk3TEFBbUYyNDliTVV5cENUYTNYWHhPTDZjSTdKaWgtU2RhSVBtNUR5VFpaZkZldUk4NERxeDVGUjRwZ09vQ0tCRWtETXA1ZUcxTDhNRTllRElieFpiRGdYQ09STnBJcjBxblktdWlkMVdEZW5Fdm1JRFBxZC12Nk9aSU5IZEFuNTZpOWFiVk41RzNUang0VkdpMmp5TGlFaVpkenM?oc=5",
+      "pub_date": 1791225420.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/05/bitcoin-is-back-at-its-september-high-and-short-sellers-are-stacked-right-above-it-what-happens-if-88000-breaks/",
+      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-2200932293-huge-licensed-scaled.jpg",
+      "description": "Bitcoin is nearing its September high, with short sellers positioned just above $88,000. What could a Bitcoin short squeeze do?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T00:55:09.472696+00:00"
+  "fetched_at": "2026-10-07T06:53:53.381502+00:00"
 }

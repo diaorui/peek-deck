@@ -57,6 +57,28 @@
       "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models."
     },
     {
+      "title": "What's a real world task where you think AI needs to improve before you'd trust it to handle the whole thing?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1wzot5u/whats_a_real_world_task_where_you_think_ai_needs/",
+      "published": 1791352460.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm not talking about generating a paragraph or answering a trivia question. I mean something with several steps where one small mistake could ruin the final result. What task comes to mind, and what's the biggest obstacle holding AI back from doing it reliably?"
+    },
+    {
+      "title": "What if you could preserve beneficial AI output and share it with those who don\u2019t have access?",
+      "author": "Oversidious",
+      "url": "https://www.reddit.com/r/artificial/comments/1wzln7j/what_if_you_could_preserve_beneficial_ai_output/",
+      "published": 1791341525.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Almost 80% of humans haven\u2019t used AI / don\u2019t have access to the highest end models. Even a majority who do, don\u2019t actively save and share the most important output in a good shareable way. What would we do when A.I reaches a point that the highest corporations price out 90%+ of the population? With the growth of income inequality, there should be a way to preserve and share genuinely good output with everyone, for free. Like a library of Alexandria for genuinely good A.I output. This was the question that kept me up at night so I built something cool. I\u2019m not launching it right now, but I\u2019m hoping someone would wanna try the beta and give me some feedback? Message me and I\u2019ll send you a link! If you share my sentiment maybe we could work on it together."
+    },
+    {
       "title": "Muse help us",
       "author": "m3nt3_",
       "url": "https://www.reddit.com/r/artificial/comments/1wz6wfo/muse_help_us/",
@@ -79,38 +101,16 @@
       "description": "I hope most of you reading this are web designers because I\u2019m genuinely curious about something. How are you getting clients in 2026? I\u2019ve spoken to a lot of web designers and agency owners lately, and one thing keeps coming up again and again. Client acquisition. It seems like everyone can build websites, but consistently finding new clients is still the hard part. So I\u2019d actually like to hear what is working for you right now. For me, I\u2019ve been running personalized email automation. I use a tool that finds leads for me, analyzes their websites for actual issues with things like design, SEO, speed, responsiveness and mobile optimization, then automatically uses those findings to write a personalized cold email for each business. After that, I just run the campaigns and send out thousands of emails a day. I used to do most of this through Instantly, but the problem was that I couldn\u2019t really do the website analysis part there. So the emails were still more generic, basically the usual \u201cdo you need a new website?\u201d type of outreach. It worked a little, but nothing crazy. I eventually switched to Swokei because it handles the lead finding, website analysis and personalized outreach in one place, and that has made a pretty big difference for me. Now I\u2019m getting clients much more consistently because the emails are actually about their website instead of just being another generic pitch. But I\u2019m curious what everyone else is doing. Cold email, cold calling, referrals, ads, SEO, social media? What is actually working for you in 2026?"
     },
     {
-      "title": "Chances of AI replacing radiologists?",
-      "author": "avb707",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/",
-      "published": 1791301323.0,
-      "thumbnail": null,
+      "title": "Three AI agents research a 4-day week and build the deck | Row-Bot + GPT 6.1 Sol",
+      "author": "Acceptable-Object390",
+      "url": "https://www.reddit.com/r/artificial/comments/1wzppyj/three_ai_agents_research_a_4day_week_and_build/",
+      "published": 1791355910.0,
+      "thumbnail": "https://external-preview.redd.it/NGJmNmY0YnJzenRoMdtsDeD-VJS9PlVrJuefoe04yzYTnauETIbywKmWyNsM.png?width=640&crop=smart&auto=webp&s=647f6d751b30e2457c641b8b0a3d1a32a6acb271",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "After lets say 10 to 20 years."
-    },
-    {
-      "title": "Offset 3 years of heavy AI use with 1 month diet change",
-      "author": "Kilroy_jensen",
-      "url": "https://www.reddit.com/r/artificial/comments/1wz6q1d/offset_3_years_of_heavy_ai_use_with_1_month_diet/",
-      "published": 1791303284.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Whenever I show projects that use AI in less AI friendly subs, there's always someone bringing up the environmental impact of AI use. If you're like me, and do care about the environment, you can reclaim the moral high ground by reducing meat intake, or even going to a plant based diet for a short while. I'm a \\*\\*heavy\\*\\* user of AI, so one month of veganism only offsets 3 years of my AI use, but for your typical user this would actually offset 45 years! This includes the training costs. It's up to you what sort of changes you make and how long for, but I put this simple calculator together to put the environmental impact of AI into perspective https://prompt-and-plate.com/ There's an expandable drop down at the bottom to get a breakdown of the number of lives saved, for those who are interested I'd love thoughts and feedback, especially if people disagree with any of the numbers used"
-    },
-    {
-      "title": "Capcom announces plans to transform the RE Engine into an AI-generation game engine \u2014 \u2018Our goal is a future where we create games together with AI\u2019",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/",
-      "published": 1791278157.0,
-      "thumbnail": "https://external-preview.redd.it/8nrShcE8ODmwf6WdrTA_KnnDrDVk_yBAQfORtqnExOo.jpeg?width=640&crop=smart&auto=webp&s=c0589f554db867bf64233083cd0a1f66aa219612",
-      "external_url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-      "site_name": "IGN",
-      "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
-      "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\""
+      "description": "One prompt to Row-Bot 5.0 on GPT 6.1 Sol, through my ChatGPT plan (no API key): \"Split the research across three helper agents working in parallel, cite sources, save the findings, then build a 6-slide deck for Monday.\" It did. 3 min of video, about 11 min of real work. How it ran: - the lead agent planned, then started three helpers: UK 2022 pilot, Iceland's trials, company case studies - each helper gets its own conversation you can open and watch - the lead merged their sources into one answer and a recommendation Then: - findings saved as linked memories in a local knowledge graph - a 6-slide deck built in the Design panel, exported to PowerPoint - \"every Monday at 08:00, send me new studies\" became a scheduled workflow The yellow badge shows where I sped it up. It hits 44x. Windows/macOS/Linux."
     }
   ],
-  "fetched_at": "2026-10-07T00:54:48.238566+00:00"
+  "fetched_at": "2026-10-07T06:53:25.164728+00:00"
 }
