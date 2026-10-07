@@ -8,29 +8,13 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7486,
+      "stars": 7491,
       "stars_display": "7.5k",
-      "forks": 2281,
+      "forks": 2289,
       "forks_display": "2.3k",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-29T10:06:54Z"
-    },
-    {
-      "full_name": "Mak5er/AirCard",
-      "name": "AirCard",
-      "owner": "Mak5er",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/98599732?v=4",
-      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "url": "https://github.com/Mak5er/AirCard",
-      "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 6281,
-      "stars_display": "6.3k",
-      "forks": 403,
-      "forks_display": "403",
-      "language": "Swift",
-      "topics": [],
-      "updated_at": "2026-10-05T19:43:58Z"
     },
     {
       "full_name": "KKKKhazix/AIHOT",
@@ -40,9 +24,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 6253,
+      "stars": 6338,
       "stars_display": "6.3k",
-      "forks": 1559,
+      "forks": 1571,
       "forks_display": "1.6k",
       "language": "TypeScript",
       "topics": [
@@ -55,6 +39,22 @@
       "updated_at": "2026-10-07T06:33:10Z"
     },
     {
+      "full_name": "Mak5er/AirCard",
+      "name": "AirCard",
+      "owner": "Mak5er",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/98599732?v=4",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "url": "https://github.com/Mak5er/AirCard",
+      "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
+      "stars": 6304,
+      "stars_display": "6.3k",
+      "forks": 405,
+      "forks_display": "405",
+      "language": "Swift",
+      "topics": [],
+      "updated_at": "2026-10-05T19:43:58Z"
+    },
+    {
       "full_name": "yi1108/printfilm",
       "name": "printfilm",
       "owner": "yi1108",
@@ -62,7 +62,7 @@
       "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
       "url": "https://github.com/yi1108/printfilm",
       "preview_image": "https://opengraph.githubassets.com/a2525cec233cf17d43e7124f734c117c35aeeb18b7b71943dbeb120c59355980/yi1108/printfilm",
-      "stars": 4110,
+      "stars": 4114,
       "stars_display": "4.1k",
       "forks": 451,
       "forks_display": "451",
@@ -78,10 +78,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 3995,
-      "stars_display": "4.0k",
-      "forks": 549,
-      "forks_display": "549",
+      "stars": 4083,
+      "stars_display": "4.1k",
+      "forks": 560,
+      "forks_display": "560",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-06T22:46:41Z"
@@ -94,10 +94,10 @@
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "url": "https://github.com/Louis-CFM/coucou",
       "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 3868,
+      "stars": 3926,
       "stars_display": "3.9k",
-      "forks": 650,
-      "forks_display": "650",
+      "forks": 658,
+      "forks_display": "658",
       "language": "Swift",
       "topics": [
         "ai-agents",
@@ -106,7 +106,7 @@
         "claude",
         "claude-code"
       ],
-      "updated_at": "2026-10-06T20:59:55Z"
+      "updated_at": "2026-10-07T13:31:19Z"
     },
     {
       "full_name": "omlahore/RemoveMacAI",
@@ -116,10 +116,10 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 3227,
-      "stars_display": "3.2k",
-      "forks": 81,
-      "forks_display": "81",
+      "stars": 3380,
+      "stars_display": "3.4k",
+      "forks": 87,
+      "forks_display": "87",
       "language": "Swift",
       "topics": [
         "apple-intelligence",
@@ -128,23 +128,7 @@
         "macos",
         "macos-27"
       ],
-      "updated_at": "2026-10-07T06:34:17Z"
-    },
-    {
-      "full_name": "jarrodwatts/jev-trader",
-      "name": "jev-trader",
-      "owner": "jarrodwatts",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/35651410?v=4",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2860,
-      "stars_display": "2.9k",
-      "forks": 540,
-      "forks_display": "540",
-      "language": "TypeScript",
-      "topics": [],
-      "updated_at": "2026-09-17T02:48:22Z"
+      "updated_at": "2026-10-07T07:55:38Z"
     },
     {
       "full_name": "nykooi1/vibe-wise",
@@ -154,41 +138,57 @@
       "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 2751,
-      "stars_display": "2.8k",
-      "forks": 119,
-      "forks_display": "119",
+      "stars": 2909,
+      "stars_display": "2.9k",
+      "forks": 123,
+      "forks_display": "123",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-10-06T21:20:56Z"
     },
     {
-      "full_name": "feder-cr/dots",
-      "name": "dots",
+      "full_name": "jarrodwatts/jev-trader",
+      "name": "jev-trader",
+      "owner": "jarrodwatts",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
+      "stars": 2867,
+      "stars_display": "2.9k",
+      "forks": 541,
+      "forks_display": "541",
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-09-17T02:48:22Z"
+    },
+    {
+      "full_name": "feder-cr/invisible_playwright_mcp",
+      "name": "invisible_playwright_mcp",
       "owner": "feder-cr",
       "owner_avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "url": "https://github.com/feder-cr/dots",
-      "preview_image": "https://opengraph.githubassets.com/746b308199cdd66eeea2e84890b1c3b6ee55b5e0c55a262bba224baad364e37f/feder-cr/dots",
-      "stars": 2636,
+      "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+      "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+      "preview_image": "https://opengraph.githubassets.com/1bb741ec151a028433b0969405a62708c55ca878460dff85d043b6404a442943/feder-cr/invisible_playwright_mcp",
+      "stars": 2642,
       "stars_display": "2.6k",
       "forks": 459,
       "forks_display": "459",
       "language": "Python",
       "topics": [
+        "agentic-ai",
         "ai-agent",
-        "ai-agents",
-        "ai-browser",
-        "anti-detect-browser",
-        "browser-agent"
+        "ai-automation",
+        "autonomous-agents",
+        "browser"
       ],
-      "updated_at": "2026-10-07T02:05:25Z"
+      "updated_at": "2026-10-07T08:43:14Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-09-07",
   "days": 30,
   "limit": 10,
-  "total_count": 476173,
-  "fetched_at": "2026-10-07T06:53:25.396806+00:00"
+  "total_count": 482312,
+  "fetched_at": "2026-10-07T14:14:50.164700+00:00"
 }
