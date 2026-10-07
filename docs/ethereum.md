@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-07T14:15:25.312475+00:00'
+updated: '2026-10-07T20:04:57.105041+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 07, 2026 at 14:15 UTC  
+**Last Updated:** October 07, 2026 at 20:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,590.00
+### $2,568.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.2%  
-**7d:** -5.3%  
-**30d:** +3.2%  
-**90d:** +42.6%  
-**1y:** -43.4%  
+**24h:** -4.6%  
+**7d:** -4.9%  
+**30d:** +3.6%  
+**90d:** +43.2%  
+**1y:** -43.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $313.36B
+**Market Cap:** $313.76B
 Rank #2
 
 **Circulating Supply:** 122,113,301 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.1%
+-48.0%
 
 **All-Time Low:** $0.43
-+592573.1%
++593416.1%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The Glamsterdam upgrade has now been activated on Ethereum’s Sepolia testnet!](https://www.reddit.com/r/ethereum/comments/1wz65fi/the_glamsterdam_upgrade_has_now_been_activated_on/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In which I explain how to solve identity in peer-to-peer data systems by (minimally) using Ethereum.
 
-🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 4d ago
+🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 5d ago
 
 ---
 
@@ -148,33 +148,33 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Stock Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
+**[Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
 
-Barron's • 1h ago
-
----
-
-**[How native transaction assertions could enforce a transaction's final outcome](https://blog.ethereum.org/2026/10/05/transaction-assertions)**
-
-The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is...
-
-ethereum.org • 1d ago
+Barron's • 2h ago
 
 ---
 
-**[BitMine Is About to Stop Buying Ethereum: What Happens to ETH Price Then?](https://finance.yahoo.com/markets/crypto/articles/bitmine-stop-buying-ethereum-happens-130704717.html)**
+**[Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?](https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html)**
 
-BitMine will stop buying Ethereum at 5% of supply. Here is how its buying lined up with ETH price moves since 2025.
+A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Ethereum Drops 5% After Tom Lee Says Bitmine Will Stop Purchases](https://finance.yahoo.com/markets/crypto/articles/ethereum-drops-5-tom-lee-134400133.html)**
+**[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
 
-The price of Ethereum (CRYPTO: $ETH) is down 5% on news that crypto treasury firm Bitmine Immersion Technologies (N...
+The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
 
-Yahoo Finance • 31m ago
+Decrypt News • 2d ago
+
+---
+
+**[Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says](https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee)**
+
+Bitmine chairman Tom Lee said at Token2049 the company will stop buying Ethereum once it holds 5% of circulating supply.
+
+Decrypt News • 5h ago
 
 ---
 
@@ -186,11 +186,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why Is Crypto Down Today? Bitcoin, Ethereum, XRP and Dogecoin Slip After $400M Liquidation Wave](https://www.tradingview.com/news/financemagnates:773c7150d094b:0-why-is-crypto-down-today-bitcoin-ethereum-xrp-and-dogecoin-slip-after-400m-liquidation-wave/)**
+**[How native transaction assertions could enforce a transaction's final outcome](https://blog.ethereum.org/2026/10/05/transaction-assertions)**
 
-Crypto prices fell today (Wednesday) after a 20-minute sell-off in bitcoin wiped out more than $400 million in leveraged long positions. Bitcoin (BTC) dropped 1.6% to $84,218 on Binance by 07:01 UTC, while ether lost 3%, XRP 1.5% and Dogecoin 3.1% on Bitstamp.The flush hit between about 01:45 and 0…
+The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is...
 
-TradingView • 5h ago
+ethereum.org • 2d ago
 
 ---
 
@@ -198,31 +198,29 @@ TradingView • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 8h ago
 
 ---
 
-**[SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)**
+**[New Crypto: Remittix Locks In November 24 RTX Launch as Ethereum Price Prediction Eyes $6,000 and Dogecoin Bulls Revive the $1 Dream](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-locks-in-november-24-rtx-launch-as-ethereum-price-prediction-eyes-6-000-and-dogecoin-bulls-revive-the-1-dream-1036605984)**
 
-The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange.
+MAJURO, Marshall Islands, Oct.  07, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed November 24, 2026 as the scheduled launch date for RTX, givin...
 
-Decrypt News • 1d ago
-
----
-
-**[Machine intelligence and crypto will merge naturally: Ethereum co-founder](https://www.cnbc.com/video/2026/10/07/joseph-lubin.html)**
-
-Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provide creativity and expertise but does not itself create trust. He expects a natural merger of machine intelligence and crypto, with decentralized protocols providing trusted execution. Lubin also says the crypto industry will gain regulatory clarity through SEC and CFTC action, even as the Clarity Act remains stalled in the Senate.
-
-CNBC • 8h ago
+markets.businessinsider.com • 1h ago
 
 ---
 
-**[Ethereum news: Tom Lee says Bitmine to soon stop buying ETH](https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases)**
+**[Ethereum Beat Bitcoin All Quarter. Its Order Books Thinned and the Staking Exit Queue Hit a Record for the Year.](https://247wallst.com/investing/cryptocurrency/2026/10/06/ethereum-beat-bitcoin-all-quarter-its-order-books-thinned-and-the-staking-exit-queue-hit-a-record-for-the-year/)**
 
-Tom Lee said Bitmine will be “done stacking” once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury.
+In Q3 2026, Ether surged 71%, setting a record for the quarter while its exit queue hit an annual peak. Here's what that means.
 
-CoinDesk • 1h ago
+24/7 Wall St. • 20h ago
+
+---
+
+**[BitMine Shares Outperformed Ethereum in 2026, and Tom Lee Highlights One Move](https://beincrypto.com/bitmine-stock-beat-ethereum-2026-loss/)**
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -230,33 +228,23 @@ CoinDesk • 1h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8JkwptZQalI)**
-
-BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 198 • 💬 85 • ⏱️ 20:19 • 2h ago
-
----
-
 **[Ethereum Broke Down.. I SOLD. Here&#39;s Where I Buy Back](https://www.youtube.com/watch?v=qAUs0z8NKZ4)**
 
 Toobit - $8810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit Ethereum (ETH) broke down out of its two-week ...
 
 📺 Marzell Crypto
 
-👁️ 252 • 👍 8 • 💬 3 • ⏱️ 3:07 • 5h ago
+👁️ 1K • 👍 11 • 💬 5 • ⏱️ 3:07 • 11h ago
 
 ---
 
-**[ETH BUY OPPORTUNITY NOW?🔥(Ethereum Update)](https://www.youtube.com/watch?v=3hl2yUjWbvE)**
+**[BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8JkwptZQalI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 451 • 👍 24 • 💬 2 • ⏱️ 5:11 • 5h ago
+👁️ 13K • 👍 364 • 💬 142 • ⏱️ 20:19 • 8h ago
 
 ---
 
@@ -266,17 +254,7 @@ Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody re
 
 📺 tastylive
 
-👁️ 9K • 👍 75 • 💬 13 • ⏱️ 5:42 • 1d ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Ethereum &amp; Bitcoin! [Load Up Before November]](https://www.youtube.com/watch?v=Ymx55X-Sou8)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 291 • 💬 36 • ⏱️ 19:12 • 1d ago
+👁️ 9K • 👍 76 • 💬 14 • ⏱️ 5:42 • 1d ago
 
 ---
 
@@ -286,7 +264,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 2K • 💬 219 • ⏱️ 11:38 • 2d ago
+👁️ 91K • 👍 2K • 💬 221 • ⏱️ 11:38 • 2d ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Ethereum &amp; Bitcoin! [Load Up Before November]](https://www.youtube.com/watch?v=Ymx55X-Sou8)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 306 • 💬 38 • ⏱️ 19:12 • 1d ago
 
 ---
 
@@ -296,7 +284,17 @@ Remember this video in a few years when there's no more cryptocurrency left on e
 
 📺 Money Rules - Investing Tips 
 
-👁️ 41K • 👍 2K • 💬 306 • ⏱️ 20:25 • 2d ago
+👁️ 41K • 👍 2K • 💬 325 • ⏱️ 20:25 • 2d ago
+
+---
+
+**[ETH BUY OPPORTUNITY NOW?🔥(Ethereum Update)](https://www.youtube.com/watch?v=3hl2yUjWbvE)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 2K • 👍 30 • 💬 3 • ⏱️ 5:11 • 10h ago
 
 ---
 
@@ -306,17 +304,7 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 460 • 💬 26 • ⏱️ 1:05 • 1d ago
-
----
-
-**[Grayscale Says Investors Are Leaving ‘Money on the Table’ in Unstaked ETH ETFs](https://www.youtube.com/watch?v=ygKCLWWBbMk)**
-
-One year after Grayscale unlocked Ethereum staking inside an ETF for the first time, Head of Index Steve Vanourny breaks down ...
-
-📺 CoinDesk
-
-👁️ 3K • 👍 32 • 💬 5 • ⏱️ 9:45 • 1d ago
+👁️ 26K • 👍 470 • 💬 29 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -326,7 +314,17 @@ Join - https://www.skool.com/discovercrypto/about Bitcoin fake out or the start 
 
 📺 Discover Crypto
 
-👁️ 12K • 👍 415 • 💬 168 • ⏱️ 59:52 • 22h ago
+👁️ 12K • 👍 417 • 💬 168 • ⏱️ 59:52 • 1d ago
+
+---
+
+**[Whales Are LOADING UP On XRP As The Bull Run Begins Ethereum Is Going To Be The Bull Market Spark](https://www.youtube.com/watch?v=YOMWBJAjIqs)**
+
+If you thought things were intense before, you havent seen anything yet. Whales are doing something they wouldnt normally do ...
+
+📺 The Modern Investor
+
+👁️ 16K • 👍 1K • 💬 194 • ⏱️ 33:14 • 2d ago
 
 ---
 
