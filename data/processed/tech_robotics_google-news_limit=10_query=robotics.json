@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
-      "pub_date": 1791183600.0,
-      "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Mixed Human Feelings After a Day at a Park Full of Robots",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -45,6 +35,26 @@
       "description": null
     },
     {
+      "headline": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFlpUTlaU0ljYnlqel84dHRjcC01UXlHN0huRGxRa19MSjYyOUJwX2dPZEhCZG9vclVZWHdKc0tTN2NUTDVOM1hkVU1wMC1NZDdhMDVyNUhnZDlnUlFKWmFxU1RZYVRwWmpYTEtMTW5hckctcFJ4TDBtZ2NJX2pCc3FOVVB5ZllLcWJnNGd2bzdHS3N0VDNzRDZGRWFFeDJxRlE?oc=5",
+      "pub_date": 1791288000.0,
+      "article_url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10",
+      "image": "https://i.insider.com/6ac41bbd225e4c4a50a38278?width=1200&format=jpeg",
+      "description": "A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used."
+    },
+    {
+      "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
+      "pub_date": 1791211377.0,
+      "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
       "source": "Boston Dynamics",
       "source_url": "https://bostondynamics.com",
@@ -53,6 +63,26 @@
       "article_url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
       "image": "https://bostondynamics.com/wp-content/uploads/2026/10/rohit-prasad-profile-pic.jpg",
       "description": "Boston Dynamics today announced the appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026."
+    },
+    {
+      "headline": "Orbital Robotics gets set to send up a pair of arms for International Space Station\u2019s robots",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZU5pb2hNZXRWRk1DUmdnU2FGcGVjcGF2dnV4dUxpNkt3ZXp6RDM3T08tMTNlLVdxempVVzJBMkxOWGRIOXBkSXN5blBCaVJWejRaOVF5RjNvZXJHZDhFZnBHV3Y2Tl9KTGpCRW9tdmFCMGhxV3Z6MHBMZmdoTHlkaXd2Y3VtdE0?oc=5",
+      "pub_date": 1791205200.0,
+      "article_url": "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
+      "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
+    },
+    {
+      "headline": "Ranked: Countries With the Most Industrial Robots per Worker",
+      "source": "Visual Capitalist",
+      "source_url": "https://www.visualcapitalist.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0NDQWNUQUM2d1daRzI2VGJJSy0yT1Niem9VS0xneUtiQ1FjcGpRSjlKbFpuUUlaejdFX19CcTRhaFYwakRTaUNJc3VwcHFWZEZubUk2Z1lQc3V2bGhneXVabGFidVItVDdVZmh4U1dJZGdsUS0xNjl5Q0tsdFlpUEFXbDBQNzRWVkdsRmVyRVh6Rm5MdEFF?oc=5",
+      "pub_date": 1791307253.0,
+      "article_url": "https://www.visualcapitalist.com/ranked-countries-most-industrial-robots-per-worker-2024-v2/",
+      "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/Industrial-Robots-per-Worker_Shareable.webp",
+      "description": "South Korea leads the 2024 ranking of industrial robots per worker. See how 22 economies compare, including China and the United States."
     },
     {
       "headline": "Kraken Robotics (TSXV:PNG) Is Up 5.8% After Q2 Results Highlight Backlog And Covelya Integration Questions",
@@ -65,16 +95,6 @@
       "description": "In early October 2026, Kraken Robotics reported Q2 2026 revenue of C$27.3 million and adjusted EBITDA of C$5.0 million, supported by a combined 2026 order book of about C$355 million including the newly acquired Covelya business. The market reaction highlights how questions around the timing of converting this backlog into revenue, and integration of Covelya, are becoming just as important to investors as the headline growth opportunity itself. Next, we\u2019ll examine how concerns over revenue..."
     },
     {
-      "headline": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFlpUTlaU0ljYnlqel84dHRjcC01UXlHN0huRGxRa19MSjYyOUJwX2dPZEhCZG9vclVZWHdKc0tTN2NUTDVOM1hkVU1wMC1NZDdhMDVyNUhnZDlnUlFKWmFxU1RZYVRwWmpYTEtMTW5hckctcFJ4TDBtZ2NJX2pCc3FOVVB5ZllLcWJnNGd2bzdHS3N0VDNzRDZGRWFFeDJxRlE?oc=5",
-      "pub_date": 1791288000.0,
-      "article_url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10",
-      "image": "https://i.insider.com/6ac41bbd225e4c4a50a38278?width=1200&format=jpeg",
-      "description": "A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used."
-    },
-    {
       "headline": "Hundreds of soldiers transfer to newly created jobs in robotics and space",
       "source": "Task & Purpose",
       "source_url": "https://taskandpurpose.com",
@@ -83,28 +103,8 @@
       "article_url": "https://taskandpurpose.com/news/army-space-robotics-mos/",
       "image": "https://taskandpurpose.com/wp-content/uploads/2026/10/9982109.jpg?w=1200",
       "description": "10 soldiers were the first in the Army to graduate as the new 390A Robotics Technicians, while hundreds joined the 40D space operations field."
-    },
-    {
-      "headline": "Video: Dexterous robot hand learns the delicate art of silk embroidery",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FTVE3YktxNk0xMllqYjh0UGxVM19uUkw4SE9NWFM4dFNYSHEyaVFIUmFUOHZlUEhyWG40V2pNVUFrMzRtV3cwS1hfUklrWi1XdE1LRmFoUWNFVDhRQ3owSVZ3eUN1d3ZpVnZ1QmFjRWEwS3A3bUZ5Nkh0ZWg?oc=5",
-      "pub_date": 1791295950.0,
-      "article_url": "https://newatlas.com/robotics/agilink-robot-hand-learns-silk-embroidery/",
-      "image": "https://assets.newatlas.com/dims4/default/b99540e/2147483647/strip/true/crop/3238x1700+91+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F38%2F38%2Ffe81e0694fed8cd4141a9d3c83fd%2Fscreenshot-2026-10-05-at-17-38-00.png&na.image_optimisation=0",
-      "description": "Agilink, a spin-off of Chinese robotics giant AgiBot, asked Fu Xianghong, a master of traditional Suzhou embroidery, to train its OmniHand 3 Ultra. The synthetic hand has learned to split silk strands, thread a needle, stretch fabric across a frame, and stitch, following a craft with more than\u2026"
-    },
-    {
-      "headline": "Japanese and Korean shipbuilders deploy robots to take on China",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5",
-      "pub_date": 1791075684.0,
-      "article_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa7a9430-24b6-4de4-a810-c4e4b1c46ec5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "US allies invest in \u2018smart shipyards\u2019 as Beijing\u2019s dominance of industry alarms Washington"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T00:55:15.519693+00:00"
+  "fetched_at": "2026-10-07T06:53:46.758700+00:00"
 }
