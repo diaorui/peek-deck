@@ -5,11 +5,11 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin, XRP, Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Stock Falls.",
+      "headline": "Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5",
-      "pub_date": 1791376080.0,
+      "pub_date": 1791395160.0,
       "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616",
       "image": null,
       "description": null
@@ -25,46 +25,6 @@
       "description": "Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000."
     },
     {
-      "headline": "Robinhood Markets Adds $25 Million Of Bitcoin To Its Balance Sheet",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWURTcVNSTC1lZXlJQURuN3VDc3JiNFJVZ09jMFJWSzZHV01qRjBsQ3lTZ3YwS0hsd2ZzTEhEbG53Q1FQQ1l4YWlJRnVmaTVpZ0R3RUlOUHlDUnVSemdFN3FQejQxa3FtZVBIbmw0a0dsbnE2dEl6aXpmQWhKTm1INnllZi1iVDZMREQ2U3VPVmh4MVR1YWFEcWVNekhla0k?oc=5",
-      "pub_date": 1791380760.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-markets-adds-25-million-134600938.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/23406b82a58b18283145d530bdf4270fc51f984b5318d0664c64fa351862d826/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1aa94ad6d666160e48ae6a8985588adb.jpg",
-      "description": "Online brokerage Robinhood Markets (NASDAQ: $HOOD) has added $25 million U.S. of Bitcoin (CRYPTO: $BTC) to its bala..."
-    },
-    {
-      "headline": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlp6RTllZHZvMS0zamlaTHpnQ2lFV25sTzR0emQySEE5dXotVFB1MU5HaVVLclI4WDl5RHdEY0J3ZWE2Snl5bklVUEo5YmdFX3ZWTHVTOFpQMlRxNmhPeHJ6OHlsSnhyOVpIQ0RiTHFESnJ6c1FvN0labmRleGNyU1RtNzlzY2ZBb3lfYm1vTGY5RlBmazJ3VjN6dFJ1YjF3dXpZT1F6dTMzNUlYNVYtQkREZEpVTVFjQXdvTmxJdVVZTlVvTDY5NQ?oc=5",
-      "pub_date": 1791380944.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Ether underperformed, losing 6% after Tom Lee said Bitmine would soon stop purchasing additional ETH."
-    },
-    {
-      "headline": "Why Does XRP Follow Bitcoin? Understanding the Correlation",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNktJME9nTV8zUEI3V2RsWEhlU3RRamNJMThqQWF1enFMZlZONzI2MHJlRDlFcko5QlJwWUVLeTEyaVhoSmFqWlNHNjBlbVlpWHBJOTQtbi1LS0ZNUW42ZDFTVjg0TFp0RjhhcVJJZWI3SVc5Z2pGc1FKR3VsdXZNdmNkUW5EbFdDWjZHZ1p5UzdmMFRGWFE2N3VuQnVTdmk5?oc=5",
-      "pub_date": 1791378045.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-does-xrp-bitcoin-understanding-130045591.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/433fce221a698cc3026a628b08f7e002444b4beb4b075b8c2c3c5a591a2a98f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F524a4df317f0d101a7be2956301c2202.jpg",
-      "description": "XRP and Bitcoin tend to move together, but three specific events shattered that pattern and sent XRP in a completely different direction. Understanding what actually drives XRP independently reveals a tension that most crypto investors never see coming."
-    },
-    {
-      "headline": "Trillions are being \u2018wasted\u2019 on the AI boom, Arthur Hayes says. He\u2019s betting on what comes next",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblYtWWRwYjVoTE93ZXJGZXVwYzVhQ194XzhyQTVYZTlWSzQySV9UU2c0MnVFX1NWT0RoU1BjdVFrZ0ZXbnNnS1l0TE9ONEZISmRJVzY3QkF6WDVXQTZIR3VMLVhUckwweUdiUk5vYmwwTzZCTTdPV05heDhCY29fMXVoZmZZd2huWHkyTFY1N1FGaEFYckHSAZsBQVVfeXFMTjlHOFhpaGlXaFRxdlB6cXh2c2FfeW1GaXhEVFVNemdiLXZjNnFUbEJnclJuU3ZyRWpKWDB5YmNtTm1Ib09jbklLLXhaZGNSWDVRWEdOemtES1BqempUNXVULUN5MEYxS3BlT3RTdU1CS3BDSFh4VXRsRnNRZ3o3MWIyUFAwUENQQlcxQThSX2JTNkMxbi1Qek41WDA?oc=5",
-      "pub_date": 1791334140.0,
-      "article_url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373228-1791290584757-gettyimages-1813801150-BC_2023StudioAI_4807.jpeg?v=1791290675&w=1920&h=1080",
-      "description": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher."
-    },
-    {
       "headline": "Bitcoin Falls as $550 Million in Risky Crypto Bets Wiped Out",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -73,6 +33,56 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-550-million-risky-094845532.html",
       "image": "https://s.yimg.com/lo/mysterio/api/dfbea0fb5fd13d7f40e2e5f46158d376c2f2fa037be3110f48439490cca809fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F281372a30547b74c3105a361883ae1cd.jpg",
       "description": "Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite."
+    },
+    {
+      "headline": "Here's What $1,000 in Each of These 6 Cryptocurrencies Could Be Worth by 2030",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkU1eUxIWjBYNG1Ya2xLcHRUcjc1N1FwRF8yZDRyQXotTGRlS0Q3cnhzVFhOZnFwZDhQNzVzcjNXTG1Nb3BUc2lCWlRWQl9ldWtvZnpYVlZyQW1IaEtTUE40QlE0UW1UNDdGN0FuYXhFR0N2UlpBeUdUVW5aV25VZlBpVThYaGlIMmNYVUxEaElLVllCUDNsSQ?oc=5",
+      "pub_date": 1791391957.0,
+      "article_url": "https://www.fool.com/investing/2026/10/07/heres-what-1000-in-each-of-these-6-cryptocurrencie/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890108%2Fa-block-labeled-crypto-on-a-digital-screen.jpg&w=1200&op=resize",
+      "description": "Bitcoin, Solana, XRP, Cardano, Dogecoin, and Shiba Inu could head in different directions."
+    },
+    {
+      "headline": "BingX's Kevin Lee Says Old Money Has Bitcoin 'Diamond Hands'",
+      "source": "Bitbo",
+      "source_url": "https://bitbo.io",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GcGlZZVFtZVNqWHRMNzFjVmhRa2NPd3ZjOTBpcWtJNVhpRTByMU1ZdUduS0dOZV9wQXotOXlVRjFCTVlCdkw3RWcyekhmUHZac0FlUkhUWFRiZGpZ?oc=5",
+      "pub_date": 1791379200.0,
+      "article_url": "https://bitbo.io/news/bingx-kevin-lee-old-money/",
+      "image": "https://bitbo.io/news/images/bitcoin-orange.jpg",
+      "description": "BingX strategy chief Kevin Lee said at Token2049 that wealthy investors take a long-term view of Bitcoin, though family-office exposure remains low."
+    },
+    {
+      "headline": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObzl5MUtkR3hUNzJJWkZKNHBqYzBTTGpCellhQi1NSkF4NnRjQkpndF9QOC1UNVBiSGY0aXZpaUsxcG5KWDdIdFRwRFViSURreWxjUG41QzJVZE5CVmRZdmJLU0NaUk15VlBEaWxxYjFySHhHUTAwZzZzWFZCRndhTlNR?oc=5",
+      "pub_date": 1791392216.0,
+      "article_url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png",
+      "description": "Government-labeled wallets sent 833.6 Bitcoin to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed."
+    },
+    {
+      "headline": "Current price of Bitcoin for October 5, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRVZJWWVIZXRWWktlNmpSNThiN0hGZmtYVkJRNDg1TTYwd2F3V1BTaEdhekV0OXBCcWVQRFJnWTVpT1d2cF9uUF9SZHB5eXVnVnBXTVlISDZRMmNoZlNkcUF0UDlNQlU?oc=5",
+      "pub_date": 1791198900.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-05-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-5.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal",
+      "source": "Business Insider Africa",
+      "source_url": "https://africa.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZG82WE9GVGZsYzZ5cnFMOTlKWUphbTcxaTZXOE9kM0ktOU9Wd0Y0ZHNmSlJjbXJtSGw4eENTd0NGY0FjaG9ORDhEUkdEVGJtS1dLUkI2eFlJMzRIUzJnSTBvWmg5b2JLd0ZjZjlqUFRRMWh5Qk1nZnJPYy1nUzU2dENOb3pTWkV3WGNMbElHMjF5MEE3a0RMSmtrUlk1cWZfSHlYWlZlcWRuOGlmSVJCTXgzOUN6VTB6MXl5Y0NvLXlsLUlEa1lybnQ2Nm05VXMydzNaanBB?oc=5",
+      "pub_date": 1791359631.0,
+      "article_url": "https://africa.businessinsider.com/local/markets/south-african-banking-giant-opens-bitcoin-trading-to-nearly-nine-million-customers/4wct3bl",
+      "image": "https://ocdn.eu/pulscms-transforms/1/5FuktkpTURBXy8xM2RmZmNiZTRkNDNlMzY4YWJmYTIzOTk4MTZiZTYzZS5qcGeSlQMAAM0HCM0D9JMFzQSwzQJ2",
+      "description": "South Africa\u2019s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers"
     },
     {
       "headline": "\u2018Opened The Floodgates\u2019\u2014BlackRock Confirms Huge Bitcoin ETF Price Game-Changer",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "Current price of Bitcoin for October 7, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80UUp4SkNPRWhiVEVpaUZ3VGtCQlJrWHgyRjFjWU14bUxrb2oxcGNuWVBjLVpiQWh0WjhfVnFOTEJVd0hTbHlyMlYweXU5d2tYM0EzaDgyWGRtOGplLTE3aktvc3FHSFk?oc=5",
-      "pub_date": 1791371700.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-07-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-7.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "\u2018Old money\u2019 has stronger Bitcoin \u2018diamond hands,\u2019 says BingX exec",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDlSbWxZSXo1UDM2NGY1akxPU2pfLVoxTUM4VmhSc3lMUDNFc2R4WUpKYllsaHRMQk5sWnJ6NW0wb3l1N2FRZkVTRG9xUEluSDFWSnl6dFJBeXVIS29NU0EwWVQ0OUVROE9FYjBJZDNVNmVOU19rWm1Pa3VpTkpZd1B1c0cydmk2a3c4dUg5enM4LVNQZDI2eHRlYUNEazEtVzFxU2hCY0ExdW8yUWsyOFJFZndLWmQ3b1pnQmtGSjl0QQ?oc=5",
-      "pub_date": 1791367039.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:5d65169b0094b:0-old-money-has-stronger-bitcoin-diamond-hands-says-bingx-exec/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "BingX chief strategy officer Kevin Lee says wealthy \u201cold money\u201d investors are taking a longer-term approach to Bitcoin (BTC) than many crypto-native traders.In a Token2049 fireside chat with Cointelegraph head of multimedia Ciaran Lyons, Lee said he deals with \u201ca lot of old money\u201d seeking alternati\u2026"
+      "headline": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" For Bitcoin",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW1WeVNVaG9ZbmRUU3lwS2UzYnJUZ2NwbUgxU2ZsQk9nU0w1MzRzZGEweVVnb2g2YjlBdEhNZkkwUzN1WFRhNDlaaGtyNmxKRXZlVEFpMV92RVh3TWdGRGdOeXFDYmZ4bEhTVFZKZW9icjhCbjQxX1pBRHZoSzBKUzJGd1RyNG1sUlhlbXZDQURCSGo1RUlHYmF1RFhaS0hDYmsw?oc=5",
+      "pub_date": 1791234841.0,
+      "article_url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbases-Ryan-VanGrack-CFTC-Approval-22Opens-Many-Doors22-for-Bitcoin-.jpg",
+      "description": "Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase\u2019s Ryan VanGrack explains why ETFs and direct holding can both thrive."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T14:15:23.645616+00:00"
+  "fetched_at": "2026-10-07T20:04:39.933214+00:00"
 }
