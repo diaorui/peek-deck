@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-07T14:15:25.316131+00:00'
+updated: '2026-10-07T20:04:57.108266+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 07, 2026 at 14:15 UTC  
+**Last Updated:** October 07, 2026 at 20:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-1h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-16h ago
+21h ago
 
 ---
 
@@ -52,7 +52,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 ​ Running on STM32 Bluepill. ESP32cam for image steaming. OpenCV for image processing. LLM for speech & intent extraction.
 
-3h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh – 6000mAh) x 1 I have been working on a bipedal version hence the "2 more to go" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)
 
-29m ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Robot manipulation policies are usually trained under the assumption that a commanded action produces the same motion as it did during training even after hours of operation. Real hardware violates this assumption as the motors gradually heat up, current saturates near contact, voltage sags under load, thus the same policy action can produce a weaker, delayed, or noisier motion.
 
-🔗 [Robotics Research Hub](https://papers.tinrobotics.com/paper/test-time-adaptation-of-manipulation-policies-under-actuator-degradation/) • 5h ago
+🔗 [Robotics Research Hub](https://papers.tinrobotics.com/paper/test-time-adaptation-of-manipulation-policies-under-actuator-degradation/) • 11h ago
 
 ---
 
@@ -76,7 +76,7 @@ Robot manipulation policies are usually trained under the assumption that a comm
 
 Reliable depth perception is a key requirement for indoor robotics, but achieving consistent depth data across different surfaces can be challenging in real-world deployments. AMRs, ASRS robots, humanoids and robotic arms may need to operate around: Dark or black surfaces Reflective objects Moving robots and objects Motion blur Obstacles at both short and extended distances Dense point-cloud requirements Real-time processing without placing the entire workload on the host CPU/GPU Active stereo is one approach that can help address these challenges. By projecting additional texture into the scene, the camera does not have to rely entirely on naturally occurring surface detail for stereo matching. Another approach uses two global-shutter monochrome sensors with an IR component and performs the stereo depth calculation directly on the camera. This allows the host system to receive computed depth data instead of handling the initial stereo-processing stage itself. That can help simplify the perception pipeline and preserve host resources for other robotics workloads. For indoor robotics applications, which of these areas has been the biggest challenge in your experience? Reliable depth on dark, reflective or low-texture surfaces Maintaining depth accuracy while the robot is moving Processing depth data with low latency Generating useful dense point clouds Integrating depth with RGB, IMU and the ROS 2 perception stack I've been looking into an active-stereo implementation that combines depth, RGB, IMU and on-camera AI in a single camera platform. What depth-sensing approach are you using in your robotic system, and where have you seen the main limitations?
 
-3h ago
+9h ago
 
 ---
 
@@ -92,19 +92,19 @@ Hi all, this is Giorgio, our open mobile bimanual robot. It's still in simulatio
 
 High-speed, low-latency indoor positioning for autonomous robots and drones in GPS-denied environments. This demo shows a mobile beacon moving rapidly in 3D while its position is tracked at 80 Hz with only 12–20 ms latency. For autonomous indoor drones, positioning must remain fast, accurate, and stable even during rapid motion and in acoustically noisy environments. We combine ultrasound positioning with IMU sensor fusion to achieve this performance. Ultrasound provides accurate absolute position updates, while the IMU provides high-rate motion data between ultrasonic measurements. Ultrasound continuously corrects accumulated IMU drift. Typical ultrasound positioning alone provides updates at around 8 Hz. Sensor fusion increases the effective position output rate to 80 Hz while maintaining low latency and stable tracking. Key performance: 80 Hz position update rate 12–20 ms latency High-precision 3D indoor positioning Ultrasound + IMU sensor fusion Designed for fast-moving and noisy platforms Non-Inverse Architecture (NIA) Primary applications: Autonomous indoor drones GPS-denied flight Robotics and autonomous mobile platforms Industrial automation Research and universities Motion tracking and interactive installations Configuration: 3 × stationary beacons 1 × mobile beacon - in hand - the same hardware as the stationary beacons 1 × modem - central controller of the system 1 × modem with RHU firmware - to receive fast IMU sensor-fused stream and do post-processing, when more data is available. It makes the view even more beautiful, but at the expense of latency
 
-23h ago
+1d ago
 
 ---
 
 **[Best precision achievable with GNSS RTK ?](https://www.reddit.com/r/robotics/comments/1wzqori/best_precision_achievable_with_gnss_rtk/)**
 
-6h ago
+12h ago
 
 ---
 
 **[Jenga Bot pt2: Pez for robots](https://www.reddit.com/r/robotics/comments/1wzmptq/jenga_bot_pt2_pez_for_robots/)**
 
-🔗 [thisismypersonalblog.com](https://thisismypersonalblog.com/posts/2026-10-07-pez-for-robots/) • 10h ago
+🔗 [thisismypersonalblog.com](https://thisismypersonalblog.com/posts/2026-10-07-pez-for-robots/) • 16h ago
 
 ---
 
@@ -118,57 +118,25 @@ The New York Times • 1d ago
 
 ---
 
-**[These Robots Built BMWs, Then Hurled Themselves Into Molten Steel](https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel)**
+**[This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.](https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10)**
 
-A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies.
+A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used.
 
-The Drive • 21h ago
-
----
-
-**[Agility Robotics to Livestream Analyst & Investor Day Today](https://www.businesswire.com/news/home/20261006653416/en/Agility-Robotics-to-Livestream-Analyst-Investor-Day-Today)**
-
-Business Wire • 1d ago
+Business Insider • 1d ago
 
 ---
 
-**[Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids](https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids)**
+**[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
 
-It’s Real Steel come to life.
-
-Tom's Hardware • 2d ago
+South China Morning Post • 36m ago
 
 ---
 
-**[Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian](https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html)**
+**[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer](https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/)**
 
-/PRNewswire/ -- Agility Robotics, a leading humanoid robotics and physical AI company, today announced that CEO Peggy Johnson will participate in Project...
+Boston Dynamics today announced the appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026.
 
-PR Newswire • 2d ago
-
----
-
-**[New RP1 humanoid for open-source robotics research unveiled by RoboParty](https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics)**
-
-RoboParty unveils RP1, a full-stack open-source humanoid robot for research, education and embodied AI development at IROS 2026.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Panasonic to make humanoid robots, leveraging its battery business](https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business)**
-
-Company aims to start production by 2029; machines to work in plants, warehouses
-
-Nikkei Asia • 2d ago
-
----
-
-**[YouTuber Fights Humanoid Robots in Unsanctioned MMA Bout](https://www.pcmag.com/news/youtuber-fights-humanoid-robots-in-unsanctioned-mma-bout)**
-
-Frankie LaPenna held his own against the smaller ones, but the Terminator bot seemed ready for the challenge. The California State Athletic Commission was not impressed.
-
-PCMag • 1d ago
+Boston Dynamics • 21h ago
 
 ---
 
@@ -186,6 +154,34 @@ GeekWire • 2d ago
 
 ---
 
+**[Watch Sequoia, Nvidia Back Mecka AI’s Robotics Push](https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Ranked: Countries With the Most Industrial Robots per Worker](https://www.visualcapitalist.com/ranked-countries-most-industrial-robots-per-worker-2024-v2/)**
+
+South Korea leads the 2024 ranking of industrial robots per worker. See how 22 economies compare, including China and the United States.
+
+Visual Capitalist • 1d ago
+
+---
+
+**[Agility Robotics to Livestream Analyst & Investor Day Today](https://www.businesswire.com/news/home/20261006653416/en/Agility-Robotics-to-Livestream-Analyst-Investor-Day-Today)**
+
+Business Wire • 1d ago
+
+---
+
+**[TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video](https://venturebeat.com/technology/twelvelabs-debuts-pegasus-1-6-to-improve-robotics-training-data-from-first-person-video)**
+
+For an enterprise early in robotics, a useful starting point would be one bounded workflow, such as packing a particular product or assembling a specific part.
+
+VentureBeat • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +192,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 📺 PRO ROBOTS
 
-👁️ 24K • 👍 347 • 💬 48 • ⏱️ 23:29 • 4d ago
+👁️ 25K • 👍 351 • 💬 48 • ⏱️ 23:29 • 4d ago
 
 ---
 
@@ -206,7 +202,27 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 75K • 👍 1K • 💬 86 • ⏱️ 1:00 • 3d ago
+👁️ 76K • 👍 1K • 💬 86 • ⏱️ 1:00 • 3d ago
+
+---
+
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+
+📺 AI Revolution
+
+👁️ 56K • 👍 752 • 💬 87 • ⏱️ 13:23 • 4d ago
+
+---
+
+**[Best Robot Vacuum &amp; Mop on Sale Amazon Big Deal Days 2026](https://www.youtube.com/watch?v=6siFoX8cXec)**
+
+SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amazon Big Deal Days is here, and there are a ...
+
+📺 Just A Dad Approved
+
+👁️ 18K • 👍 215 • 💬 112 • ⏱️ 22:11 • 1d ago
 
 ---
 
@@ -220,43 +236,23 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 ---
 
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 55K • 👍 748 • 💬 87 • ⏱️ 13:23 • 4d ago
-
----
-
-**[Best Robot Vacuum &amp; Mop on Sale Amazon Big Deal Days 2026](https://www.youtube.com/watch?v=6siFoX8cXec)**
-
-SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amazon Big Deal Days is here, and there are a ...
-
-📺 Just A Dad Approved
-
-👁️ 15K • 👍 193 • 💬 106 • ⏱️ 22:11 • 1d ago
-
----
-
-**[✅ Best Robot Vacuum 2026 [Find Which One is Right for YOU?]](https://www.youtube.com/watch?v=dT1nIzU7-Xc)**
-
-Best Robot Vacuum 2026 – Looking for the best robot vacuum? We've selected the top options based on cleaning performance, ...
-
-📺 Foremost Picks
-
-👁️ 23K • 👍 204 • 💬 7 • ⏱️ 11:52 • 4d ago
-
----
-
 **[Boston Dynamics Goes Full AI With New Atlas Robot](https://www.youtube.com/watch?v=qx7PoIcKS6I)**
 
 Boston Dynamics is turning Atlas into a real AI factory worker inside Hyundai's plants, while Spot gets AI agents and Google ...
 
 📺 MACHINEKIND
 
-👁️ 47K • 👍 535 • 💬 56 • ⏱️ 13:34 • 4d ago
+👁️ 47K • 👍 540 • 💬 56 • ⏱️ 13:34 • 4d ago
+
+---
+
+**[Japan&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=_bYQvpyK25Y)**
+
+Japan's Insane ROBOT PARADE Just Stunned the Entire World.
+
+📺 rubenfoto1
+
+👁️ 14K • 👍 186 • 💬 17 • ⏱️ 26:56 • 2d ago
 
 ---
 
@@ -266,17 +262,17 @@ We visited UCSD's Center for the Future of Surgery to learn about the first ever
 
 📺 CNET
 
-👁️ 47K • 👍 459 • 💬 66 • ⏱️ 6:34 • 3d ago
+👁️ 48K • 👍 462 • 💬 61 • ⏱️ 6:34 • 3d ago
 
 ---
 
-**[These New Chinese Robots Look Almost 100% Human](https://www.youtube.com/watch?v=mqkrM72lFug)**
+**[They Trained Robots to Jump Into Molten Steel 🤖🔥](https://www.youtube.com/watch?v=883Yhv1qlU4)**
 
-China's humanoid robot industry is racing toward machines that look almost 100% human, and the progress is staggering. Xpeng ...
+This looks like a scene from Terminator… but it actually happened. Robotics company Figure retired its F.02 humanoid ...
 
-📺 Prime Insights
+📺 Wow Theory
 
-👁️ 505K • 👍 3K • 💬 121 • ⏱️ 30:09 • 6d ago
+👁️ 4K • 👍 128 • 💬 7 • ⏱️ 0:27 • 6h ago
 
 ---
 
@@ -284,7 +280,7 @@ China's humanoid robot industry is racing toward machines that look almost 100% 
 
 📺 Ben Esherick
 
-👁️ 1.1M • 👍 71K • 💬 1K • ⏱️ 0:34 • 1d ago
+👁️ 1.2M • 👍 75K • 💬 1K • ⏱️ 0:34 • 1d ago
 
 ---
 
