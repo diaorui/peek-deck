@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-08T00:19:51.778053+00:00'
+updated: '2026-10-08T06:29:22.554857+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 08, 2026 at 00:19 UTC  
+**Last Updated:** October 08, 2026 at 06:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,279.15
+### $82,717.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -1.4%  
-**30d:** +6.5%  
-**90d:** +30.6%  
-**1y:** -31.5%  
+**24h:** -1.8%  
+**7d:** -2.2%  
+**30d:** +5.5%  
+**90d:** +29.4%  
+**1y:** -32.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1672.87B
+**Market Cap:** $1661.09B
 Rank #1
 
-**Circulating Supply:** 20,094,918 BTC
+**Circulating Supply:** 20,095,109 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.0%
+-34.5%
 
 **All-Time Low:** $67.81
-+122668.0%
++121746.3%
 
 ---
 
@@ -155,7 +155,7 @@ It's lower level than money. It is the system that allows you to have electronic
 
 Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -163,39 +163,63 @@ Yahoo Finance • 14h ago
 
 Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000.
 
-CoinDesk • 13h ago
+CoinDesk • 19h ago
 
 ---
 
-**[NEAR Protocol Is Up 122% in a Month While Bitcoin Gained 8%. Can the Rally Last?](https://finance.yahoo.com/markets/crypto/articles/near-protocol-122-month-while-223011053.html)**
+**[Is Bitcoin Headed to $81,000? What On-Chain Data Shows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-headed-81-000-chain-050936851.html)**
 
-NEAR Protocol has rocketed past Bitcoin, Ethereum, and Solana over the past month, but the surge lacks any confirmed catalyst, and a massive overhang of underwater sellers from 2022 looms over the rally.
+Bitcoin slipped below $85,000 as Glassnode data showed weak volume and slow new inflows. Buy orders sit near $81,000.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[The Quantum Issue: Bitcoin Quantum Exposure At Block 950,000](https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000)**
+**[How people use bitcoin (BTC)-backed loans beyond trading](https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say)**
 
-From The Quantum Issue: a breakdown of how much of Bitcoin's supply is vulnerable to quantum attack, and the logistical questions of changing that.
+Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling.
 
-Bitcoin Magazine • 7h ago
-
----
-
-**[Gibson County residents raise concerns over proposed bitcoin mining facility](https://www.wbbjtv.com/2026/10/07/gibson-county-residents-raise-concerns-over-proposed-bitcoin-mining-facility/)**
-
-A proposed bitcoin mining facility could be built along Hughes Loop Road in the Milan area. The proposal calls for about six acres to be rezoned from agricultural to industrial.
-
-WBBJ-TV • 2h ago
+CoinDesk • 48m ago
 
 ---
 
-**[Bitcoin buyers dig in between $81K and $82K as sellers thin out](https://www.tradingview.com/news/cryptobriefing:39e6a0ad3094b:0-bitcoin-buyers-dig-in-between-81k-and-82k-as-sellers-thin-out/)**
+**[Bitcoin's fall sends crypto market, related-stocks into bloodbath: Why?](https://seekingalpha.com/news/4651112-bitcoin-crash-sends-crypto-market-stocks-into-bloodbath-why)**
 
-Bitcoin buyers have been steadily stacking coins between $81,000 and $82,000. Above $83,300, sell orders have become surprisingly hard to find.The buying in that zone has been building since late September 2026. That was when Bitcoin slipped from highs near $87,000, with the peak placed at approxim…
+Bitcoin price crash: BTC drops to $83K as leveraged liquidations hit $717M and Fed rate fears rise.
 
-TradingView • 8h ago
+Seeking Alpha • 10h ago
+
+---
+
+**[Current price of Bitcoin for Oct. 7, 2026](https://fortune.com/article/price-of-bitcoin-10-07-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 19h ago
+
+---
+
+**[Robinhood Adds Bitcoin To Its Balance Sheet: A Strategic Signal From A $100B Fintech](https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech)**
+
+Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet—its first corporate holding and a strategic signal from a $100B fintech.
+
+Bitcoin Magazine • 18h ago
+
+---
+
+**[Cathie Wood Buys CoreWeave Stock, Trims Robinhood As Bitcoin Slides](https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/10/62236311/cathie-wood-ark-invest-coreweave-robinhood-bitcoin-slides)**
+
+Cathie Wood’s Ark bought CoreWeave shares and sold Robinhood shares on Wednesday, Oct. 7, 2026.
+
+Benzinga • 4h ago
+
+---
+
+**[Europol says quantum computing won't break Bitcoin, but some wallets are exposed](https://www.tradingview.com/news/cryptobriefing:329581a11094b:0-europol-says-quantum-computing-won-t-break-bitcoin-but-some-wallets-are-exposed/)**
+
+Europe's top police agency has weighed in on crypto's favorite doomsday scenario. Its verdict: the sky is not falling.On October 7, 2026, Europol's European Cybercrime Centre (EC3) published two reports on how quantum computing could affect crypto and encrypted data. The key finding was blunt."Cryp…
+
+TradingView • 2h ago
 
 ---
 
@@ -203,27 +227,7 @@ TradingView • 8h ago
 
 Government-labeled wallets sent 833.6 Bitcoin to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed.
 
-Decrypt News • 7h ago
-
----
-
-**[‘Opened The Floodgates’—BlackRock Confirms Huge Bitcoin ETF Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/10/07/opened-the-floodgates-blackrock-confirms-huge-bitcoin-etf-price-game-changer/)**
-
-Forbes • 13h ago
-
----
-
-**[Arch Lending Co-Founder Makes the Case for Bitcoin-Backed Loans at Three Corporate Bitcoin Events](https://www.morningstar.com/news/pr-newswire/20261007ny66090/arch-lending-co-founder-makes-the-case-for-bitcoin-backed-loans-at-three-corporate-bitcoin-events)**
-
-Morningstar • 7h ago
-
----
-
-**[South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal](https://africa.businessinsider.com/local/markets/south-african-banking-giant-opens-bitcoin-trading-to-nearly-nine-million-customers/4wct3bl)**
-
-South Africa’s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers
-
-Business Insider Africa • 16h ago
+Decrypt News • 13h ago
 
 ---
 
@@ -239,7 +243,7 @@ These researchers found that there's a spike in Bitcoin activity around the time
 
 Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
 
-⬆️ 19 • 💬 6 • 5d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
+⬆️ 19 • 💬 6 • 6d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
 
 ---
 
@@ -247,7 +251,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
 
-⬆️ 2 • 💬 0 • 8h ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
+⬆️ 2 • 💬 0 • 14h ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
 
 ---
 
@@ -263,7 +267,7 @@ Discord is great for playing games and chilling with friends, or even building a
 
 Best Bitcoin commercial I’ve recently seen
 
-⬆️ 1 • 💬 0 • 5d ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
+⬆️ 1 • 💬 0 • 6d ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
 
 ---
 
@@ -279,13 +283,13 @@ In the first race between personal AI agents, I hide real money online in bitcoi
 
 An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macr...
 
-⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
+⬆️ 2 • 💬 0 • 3d ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
 
 ---
 
 **[The AI Agents Pitching Lit Mags to Stay Alive](https://news.ycombinator.com/item?id=50000115)**
 
-⬆️ 2 • 💬 0 • 56m ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
+⬆️ 2 • 💬 0 • 7h ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
 
 ---
 
@@ -293,93 +297,23 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: The Line in the Sand](https://www.youtube.com/watch?v=aEd5onhPxUs)**
-
-0:00 - INTRO 6:01 Comparing the rally with Bitcoin in 2019 14:09 Apathetic tops, terminal price, and altcoins 20:36 Monetary ...
-
-📺 Benjamin Cowen
-
-👁️ 97K • 👍 3K • 💬 193 • ⏱️ 54:23 • 9h ago
-
----
-
 **[Bitcoin Loses $84K: Is the Flush Over?](https://www.youtube.com/watch?v=9Rf3oWM9Y1Q)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 817 • 💬 65 • ⏱️ 54:14 • 9h ago
+👁️ 31K • 👍 869 • 💬 135 • ⏱️ 54:14 • 15h ago
 
 ---
 
-**[BITCOIN: Don’t Miss This Next Turning Point! [My Plan]](https://www.youtube.com/watch?v=oJUN7XsN2NI)**
+**[The $1M Bitcoin Plague Was Just Unleashed!](https://www.youtube.com/watch?v=M6QtfMtPXLY)**
 
-Bitcoin is approaching a turning point that could be the best opportunity traders have seen in years. In today's video, Kyle Doops ...
-
-📺 Crypto Banter
-
-👁️ 28K • 👍 1K • 💬 26 • ⏱️ 45:51 • 16h ago
-
----
-
-**[BITCOIN: WARNING SIGNAL FLASHING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=US-ch8JnuUg)**
-
-Free Trading Course https://rt1m.com/free Free Trading Community https://discord.com/invite/jRAnCV9CTB [I never send ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 200 • 💬 25 • ⏱️ 7:09 • 5h ago
-
----
-
-**[$2 Million Bitcoin THIS CYCLE - Robinhood Just Bought Bitcoin For The First Time](https://www.youtube.com/watch?v=M_znoN81e_g)**
-
-KALSHI: Trade Crypto Perpetuals + Get a $50 Bonus: https://kalshi.com/p/bitcoinnewsalerts Robinhood just made its first Bitcoin ...
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 224 • 💬 51 • ⏱️ 15:08 • 5h ago
-
----
-
-**[🔴 BITCOIN DUMPING — IS THIS THE BIG MOVE? | BTC LIVE TRADING](https://www.youtube.com/watch?v=vHYBmDcKQAw)**
-
-BITBASE COMPETITION https://www.bitbase.com/activity/futures-trading-competition/jctscompettion?ref=UGWQBC Signup ...
-
-📺 Jayson Casper
-
-👁️ 8K • 👍 246 • 💬 1 • ⏱️ 1:15:51 • 4h ago
-
----
-
-**[🚨 BITCOIN: NO ONE IS PREPARED FOR THIS!!!! [the day of reckoning is upon us!]](https://www.youtube.com/watch?v=w340OCNEXrw)**
-
-Bitcoin was supposed to bottom today and now the four year cycle seems broken. But we're just getting started… BTCC ...
-
-📺 Crypto Zombie
-
-👁️ 23K • 👍 1K • 💬 120 • ⏱️ 27:35 • 1d ago
-
----
-
-**[Bitcoin Just Flashed a Rare Bullish Signal!](https://www.youtube.com/watch?v=16lqNGHR9sc)**
-
-Bitcoin's 50, 100, and 200 day moving averages just stacked in the order that's historically preceded a major run, something that ...
+Can Bitcoin reach $1 million as plague scare reports from Irkutsk, Russia put people on edge? Bitcoin, gold and silver are all ...
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 2K • 💬 100 • ⏱️ 15:40 • 1d ago
-
----
-
-**[The SEC approved a 3x Bitcoin ETF. It isn&#39;t what it sounds like.](https://www.youtube.com/watch?v=s_Hiedm9kEQ)**
-
-The Clarity Act died. Crypto is getting it one rule at a time. In five days the SEC approved the first 3x leveraged Bitcoin and Ether ...
-
-📺 Yahoo Finance
-
-👁️ 22K • 👍 415 • 💬 67 • ⏱️ 14:58 • 1d ago
+👁️ 17K • 👍 1K • 💬 62 • ⏱️ 13:38 • 7h ago
 
 ---
 
@@ -389,7 +323,77 @@ DOMINATE THE BOTTOM ⬇️JOIN THE WAITLIST ⬇️ https://cryptocrewuniversity.
 
 📺 Crypto Crew University
 
-👁️ 30K • 👍 2K • 💬 104 • ⏱️ 16:49 • 11h ago
+👁️ 37K • 👍 2K • 💬 115 • ⏱️ 16:49 • 17h ago
+
+---
+
+**[Bitcoin: The Line in the Sand](https://www.youtube.com/watch?v=aEd5onhPxUs)**
+
+0:00 - INTRO 6:01 Comparing the rally with Bitcoin in 2019 14:09 Apathetic tops, terminal price, and altcoins 20:36 Monetary ...
+
+📺 Benjamin Cowen
+
+👁️ 138K • 👍 4K • 💬 219 • ⏱️ 54:23 • 15h ago
+
+---
+
+**[$2 Million Bitcoin THIS CYCLE - Robinhood Just Bought Bitcoin For The First Time](https://www.youtube.com/watch?v=M_znoN81e_g)**
+
+KALSHI: Trade Crypto Perpetuals + Get a $50 Bonus: https://kalshi.com/p/bitcoinnewsalerts Robinhood just made its first Bitcoin ...
+
+📺 Bitcoin News Alerts
+
+👁️ 7K • 👍 288 • 💬 102 • ⏱️ 15:08 • 11h ago
+
+---
+
+**[BITCOIN: Don’t Miss This Next Turning Point! [My Plan]](https://www.youtube.com/watch?v=oJUN7XsN2NI)**
+
+Bitcoin is approaching a turning point that could be the best opportunity traders have seen in years. In today's video, Kyle Doops ...
+
+📺 Crypto Banter
+
+👁️ 29K • 👍 1K • 💬 28 • ⏱️ 45:51 • 22h ago
+
+---
+
+**[Bitcoin Just Flashed a Rare Bullish Signal!](https://www.youtube.com/watch?v=16lqNGHR9sc)**
+
+Bitcoin's 50, 100, and 200 day moving averages just stacked in the order that's historically preceded a major run, something that ...
+
+📺 Simply Bitcoin
+
+👁️ 40K • 👍 2K • 💬 116 • ⏱️ 15:40 • 1d ago
+
+---
+
+**[Bitcoin: 73,400 BTC Sold in One Week. But by Whom?](https://www.youtube.com/watch?v=gHe8r_xCk_w)**
+
+Since the breakout on 21 September, 2.66 billion dollars have flowed into the Bitcoin ETFs, and yet Bitcoin has slipped to around ...
+
+📺 More Crypto Online
+
+👁️ 14K • 👍 540 • 💬 40 • ⏱️ 13:47 • 12h ago
+
+---
+
+**[BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8JkwptZQalI)**
+
+BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 21K • 👍 437 • 💬 185 • ⏱️ 20:19 • 18h ago
+
+---
+
+**[Bitcoin: It’s Failing The Test](https://www.youtube.com/watch?v=BsNHqXJeGbA)**
+
+NEW VIDEO SUMMARY REPORTS ON SUBSTACK ARE HERE (SUBSCRIBE FOR UPDATES) ...
+
+📺 Jason Pizzino
+
+👁️ 6K • 👍 406 • 💬 50 • ⏱️ 26:37 • 3h ago
 
 ---
 
