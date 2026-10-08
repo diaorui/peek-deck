@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-08T13:55:41.848602+00:00'
+updated: '2026-10-08T19:41:57.667683+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 08, 2026 at 13:55 UTC  
+**Last Updated:** October 08, 2026 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-12h ago
+18h ago
 
 ---
 
@@ -50,7 +50,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) designed end to end in my app. You describe the robot, and it picks real servos (Feetech STS3250 here), plans the electronics, lays out the body, builds the 3D structure and shell, writes the firmware, and runs it in MuJoCo physics before anything gets printed. It's early and plenty is still rough. I'd really like feedback from people who've actually built robots: what was the hardest part of your design, and what would make a tool like this useful (or useless) to you?
 
-21h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 I’ve been experimenting with turning an M5Stack Stack-chan into a little mobile robot. I combined it with a LEGO motor hub and wheels, recorded driving demonstrations, and trained an ACT policy. During supervised trials, it learned to follow a line. With a separate set of demonstrations, I also tried driving between guardrails. The video shows the build, data collection, and the wrong turns along the way 😅 Build video: https://www.youtube.com/watch?v=_1pQTt8gqZM This is also the first showcase of what I’ve built with Robium, an open-source robotics skills repo that I recently released. I used it with AI agents to help build the software and training setup. GitHub: https://github.com/robium-ai/robium Has anyone else experimented with learning from demonstrations on a small wheeled robot? I’d be interested to hear what worked for you.
 
-21h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-16h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-12h ago
+18h ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-13h ago
+18h ago
 
 ---
 
@@ -106,7 +106,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-12h ago
+18h ago
 
 ---
 
@@ -114,15 +114,11 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 ## Google News: "robotics"
 
-**[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
+**[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
 
-South China Morning Post • 18h ago
+Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
 
----
-
-**[Mixed Human Feelings After a Day at a Park Full of Robots](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
-
-The New York Times • 2d ago
+MIT Technology Review • 10h ago
 
 ---
 
@@ -130,23 +126,23 @@ The New York Times • 2d ago
 
 Full-stack safety solution for physical AI is being used by robotics companies.
 
-Ars Technica • 2h ago
+Ars Technica • 8h ago
 
 ---
 
-**[Agile Robots trains factory robots by filming human workers](https://qz.com/agile-robots-robot-academy-human-training-data-100826)**
+**[Chinese humanoid robots dance for South Korean lawmakers as AI race heats up](https://www.foxnews.com/video/6406490208112)**
 
-The Munich startup's Robot Academy captures how workers move their hands and fingers to help machines master factory tasks
+Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China’s rapid advances in physical AI and calls for greater investment in South Korea’s robotics industry.
 
-Quartz • 9m ago
+Fox News • 1h ago
 
 ---
 
-**[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
+**[These Robots Built BMWs, Then Hurled Themselves Into Molten Steel](https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel)**
 
-Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
+A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies.
 
-MIT Technology Review • 4h ago
+The Drive • 2d ago
 
 ---
 
@@ -154,35 +150,41 @@ MIT Technology Review • 4h ago
 
 How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The NVIDIA Grace Blackwell GB300 superchip…
 
-NVIDIA Developer • 19h ago
+NVIDIA Developer • 1d ago
 
 ---
 
-**[Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)**
+**[Gecko Robotics, Anduril team up for new Baltimore County shipyard](https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/)**
 
-Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
+Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components.
 
-TechCrunch • 14h ago
-
----
-
-**[Threadlike motor uses sliding fibers to drive flexible robotic devices without gears](https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html)**
-
-Tech Xplore • 23h ago
+Breaking Defense • 5h ago
 
 ---
 
-**[FireFly Robotics files for Nasdaq direct listing](https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/)**
+**[A robot entered a Denver comedy club. (This isn’t a joke.)](https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/)**
 
-Reuters • 20h ago
+The Colorado Sun • 9h ago
 
 ---
 
-**[Solana's Orca merges with Loopscale in push to finance AI, robotics and defense](https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924)**
+**[This Disembodied Hand Is All the Robot You Need](https://spectrum.ieee.org/walking-robotic-hand)**
 
-The combined team will operate as Formation, aiming to help businesses raise money and enter regulated U.S. capital markets.
+Multipurpose body parts could lead to more-flexible robot designs
 
-The Block • 15h ago
+IEEE Spectrum • 7h ago
+
+---
+
+**[Watch Sequoia, Nvidia Back Mecka AI’s Robotics Push](https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Mixed Human Feelings After a Day at a Park Full of Robots](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -196,7 +198,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 80K • 👍 1K • 💬 87 • ⏱️ 1:00 • 4d ago
+👁️ 82K • 👍 1K • 💬 87 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -206,7 +208,7 @@ China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and
 
 📺 MACHINEKIND
 
-👁️ 22K • 👍 398 • 💬 58 • ⏱️ 13:43 • 13h ago
+👁️ 27K • 👍 461 • 💬 63 • ⏱️ 13:43 • 19h ago
 
 ---
 
@@ -216,17 +218,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 📺 PRO ROBOTS
 
-👁️ 26K • 👍 358 • 💬 50 • ⏱️ 23:29 • 5d ago
-
----
-
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 59K • 👍 767 • 💬 90 • ⏱️ 13:23 • 5d ago
+👁️ 26K • 👍 360 • 💬 51 • ⏱️ 23:29 • 5d ago
 
 ---
 
@@ -240,53 +232,61 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 ---
 
+**[✅ Best Robot Vacuum 2026 [Find Which One is Right for YOU?]](https://www.youtube.com/watch?v=dT1nIzU7-Xc)**
+
+Best Robot Vacuum 2026 – Looking for the best robot vacuum? We've selected the top options based on cleaning performance, ...
+
+📺 Foremost Picks
+
+👁️ 29K • 👍 220 • 💬 10 • ⏱️ 11:52 • 5d ago
+
+---
+
 **[This Ravager Build is Overkill! 🔥 (One Shot Kill Sniper) — War Robots](https://www.youtube.com/watch?v=IijE0HD8xSY)**
 
 Taking the Ravager equipped with the brand-new Iaraghi-M weapons out into Champion League battles! This sniper setup is ...
 
 📺 Adrian Chong
 
-👁️ 7K • 👍 215 • 💬 35 • ⏱️ 20:11 • 1d ago
+👁️ 8K • 👍 222 • 💬 35 • ⏱️ 20:11 • 1d ago
 
 ---
 
-**[Russia&#39;s AI-Powered Robot Tank Makes &#39;Combat&#39; Debut In Front of Putin; NATO &#39;Puzzled&#39; | Vantage](https://www.youtube.com/watch?v=utq_tE1Fonk)**
+**[Robot salta a la lava con despedida épica de Arnold Schwarzenegger  💀🤡 #robots #ia](https://www.youtube.com/watch?v=7SML77DqJiU)**
 
-Russia has unveiled the AI-Powered Robotic tank called the Shtrum. Based on a T-72 tank, the Shtrum does not have any crew ...
+📺 Energía Personal Extra
 
-📺 Firstpost
-
-👁️ 100K • 👍 554 • 💬 100 • ⏱️ 6:23 • 1d ago
+👁️ 186K • 👍 9K • 💬 96 • ⏱️ 0:18 • 5d ago
 
 ---
 
-**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
+**[Nvidia’s Next Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=JbgbLpZu8EU)**
 
-This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
+The Information's Nvidia reporter Phoebe Liu reports that Nvidia plans to invest another $1 billion in Figure next year.
 
-📺 Boston Dynamics
+📺 The Information
 
-👁️ 2.4M • 👍 36K • 💬 3K • ⏱️ 5:35 • 6d ago
-
----
-
-**[Boston Dynamics Goes Full AI With New Atlas Robot](https://www.youtube.com/watch?v=qx7PoIcKS6I)**
-
-Boston Dynamics is turning Atlas into a real AI factory worker inside Hyundai's plants, while Spot gets AI agents and Google ...
-
-📺 MACHINEKIND
-
-👁️ 48K • 👍 550 • 💬 57 • ⏱️ 13:34 • 5d ago
+👁️ 1K • 👍 9 • ⏱️ 0:42 • 22h ago
 
 ---
 
-**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
 
-Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
 
-📺 Fist To Face
+📺 Jot Tv Media 
 
-👁️ 90K • 👍 403 • 💬 29 • ⏱️ 0:11 • 5d ago
+👁️ 37K • 👍 1K • 💬 6 • ⏱️ 1:04 • 8h ago
+
+---
+
+**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
+
+Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
+
+📺 DW Documentary
+
+👁️ 207K • 👍 1K • 💬 136 • ⏱️ 28:21 • 4d ago
 
 ---
 

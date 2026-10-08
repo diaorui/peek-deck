@@ -5,24 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Falls as $550 Million in Risky Crypto Bets Wiped Out",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnVOdElZSl9pSWhzUGhFM1pscjZRMF9MTDI0dTJqSU9JT09XOGp6RWo1MU16TFpBcU9hVDlOUjU4SUdRVXF6dm85MG9tenU3czAzN3V0MDBSS090UHp1cWN4ZDNmSzFPUkFLbzN6LXhaOTZwNUp3djRkVDFfUU5GMGxQZnN3M1daWi1fOUIxUm1VSFVtbzRadlBIeDc?oc=5",
-      "pub_date": 1791366525.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-550-million-risky-094845532.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/dfbea0fb5fd13d7f40e2e5f46158d376c2f2fa037be3110f48439490cca809fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F281372a30547b74c3105a361883ae1cd.jpg",
-      "description": "Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite."
+      "headline": "Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXVrdFBKWkdpMS15S0gxbGRRem8tQnA3QV9xTHpwa2QyNVcwSTdtdzdsOE5pWEp3R1JiREhqZEZnc2FNeUNSOFh1VE52NUFDODhkeVRSUUVreUtjeFUzVllTVExFbTNYcHM4dXR2T000TDVwYVpkdF9WMk9DNWY5RGpRZG9DV0ktWHk3bExmR21GNGNVbTFRd0FqZTR5Y0djOHVHTW01dTdGQlp4Y0hUYk9kSEgtQjFmVXBuTmQyWWc4NE1FSGQxa2t3?oc=5",
+      "pub_date": 1791455441.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?auto=format&q=75",
+      "description": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
     },
     {
-      "headline": "Exclusive: Sam Altman-backed Meanwhile raises $37.5M at $350M valuation",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGFoSlpmcDB4ek9VeE11bDRXM082Q2dNTUpyVVNyV1B0RFB2X3VHaHNkVlFNWWZtZkJ2cXFSX2FWcUwwMVlzRHdTWGNJZ0hMOXE4LVNBaVRGQjBCOUZJdE9fUG9ZdVREaEpsN1FCZEZsQjRDZ0IwN2tlTHpUMHBwNUtYTE1vRk8zelJ1aXVHTkI?oc=5",
-      "pub_date": 1791462098.0,
-      "article_url": "https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHdVpUSzd3eUlwNm5aRGgxalJaRDVjVnNGVHUwMkF4VmcwTWpGUmZIczQycnVTZjlmWXZYdDhWT1BkYkFlbmFfd1VjYTVnVV8xd0VaYkZUU1NDbVBsRVc4UFVkMktub2EwaXdPaVh3WmJ5Rm8wakwwUVREWC16ZkE?oc=5",
+      "pub_date": 1791471120.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
+      "description": "QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook."
     },
     {
       "headline": "Q&A: Bitcoin Funds Are Expanding. HANetf\u2019s Co-CEO Explains Why",
@@ -35,44 +35,54 @@
       "description": null
     },
     {
-      "headline": "Robinhood Revealed a $25 Million Bitcoin Buy as Its Stock Fell. Here\u2019s What Q3\u2019s Crypto Volume Says About the Stock",
+      "headline": "US government quietly offloads $770M in bitcoin",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVN0b1FnVm1TZkR2eWNYSU01aG5wbXNwc3ZtVkRTbnZzNmhCMXNPbEtaREdMNG5TQ29lVUdkV3hTQ1NKWS1MSC1rV1VtV3VtLW0wRFNfeXVKQTkydjBqLXQtcl9tUmdLM1I1S0M0Nk5LcTRpWE1uVzJCS2tkZjNNX0h1Z2NXaVlJR1hLaktFM21TX1d6OFNEc0FldU1sdFI5dDEzSQ?oc=5",
-      "pub_date": 1791465418.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-revealed-25-million-bitcoin-131658546.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/38598edd9e53f10e26bab97880bcf9d7617b48bcf49a4066551613288930e9b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ff6afa3fc4086aef336ca4092938791fa",
-      "description": "Key Stats for Robinhood StockCurrent Price: $109. 51Target Price (Mid): ~$209Street Target: ~$134Potential Total Return: ~91%Annualized IRR: ~17% / yearWhat Happened?Robinhood Markets (HOOD:NASDAQ) has put $25 million of corporate cash into Bitcoin."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFZacXE0R09tTHVwMHlTQlBWWWo5ODNaczFPSF9VQUtVMXlmUWtvcngydmJneDA4WWE3U0dnZTRreW1qLXUwV251OHRROFhib0tsNjdCcE5iQk8tT2pTVzlUNlBqT1c5VElBcXEzaFo1M0E5d2pxQ2ZVOWlOUWRJekd5empoNkRrX3B3MG9RTW5LUjV2WDM5SQ?oc=5",
+      "pub_date": 1791475348.0,
+      "article_url": "https://finance.yahoo.com/video/us-government-quietly-offloads-770m-in-bitcoin-160228123.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c79bc51b90c4729525507d39136acac5ef59f3402a0778ae1d7c0c188fb169f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-1008_6306.png",
+      "description": "Scott Melker discusses why bitcoin (BTC-USD) exchange-traded funds (ETFs) have lost millions of dollars this year, why the US government is selling $770M in bitcoin and explains what crypto investors need to know about Securitize's (SECZ) newly launched tokenized stock trading.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
     },
     {
-      "headline": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+      "headline": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUs2dklTbmFkSElrU0g0anl2OVFuMTdvMzVJMVEzU3N6d1Bkank2MFIxcEtmNERIcEZFRmJUT3BHS3BJaVdQMGQ2bTVQc01pMkM4bDBOSDdBWFZNSkFpN2ZYQXU2cFlxbkk2YlBJbDkxUE85UTFUeTVhak1rbGEzVVBQajFuOFV5cndTR291U3YzTUJxdFZhMXBGRE5mSmNoVDhxTll6aWVfZ0lqYzJqUl9VM0dWazYwdUlqalhkamNwZklTRlN3UHhGZk1QZw?oc=5",
+      "pub_date": 1791485963.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d7547a7b55a45fba2e93597a31f6a8893d945b6a-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime."
+    },
+    {
+      "headline": "US government moves 17,795 Bitcoin worth $1.5 billion in three days",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTE2aGozV2l0bkZoYWVmSUJkNG5LTm00dXFYU2Y3UHdHMmRHUk9MT3dPV1hpQ0Nnb25zN2p5Y3VtczdubVJSZHVhd3dRWGVmZ09UTEVOWjhhVzQ4X1EzcHFCdktpMmczTnlMam9DWEwxdnRhLTFJbFpteGJvdkkyYVpWQXB4VlJ3WDJzckVub2tRN3Y4dlZvckszaFZWZjByV1VIVVZWZFkweGdSS3otQkxjd1hGTHhmZVRnWHlaMWk2dw?oc=5",
-      "pub_date": 1791457416.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:d555b9c7b094b:0-us-government-moves-770m-of-seized-bitcoin-to-coinbase-prime/",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWtIZVlDZUVHYVdtTTk1MkxBYXhKRnJadHI2eEFfX3Z2MWRvbzFqaGlnTF9Vc2ZrdHVJdG1rVkRTQzZUUDlfa0tzQ3R3SG4wc1B3VjFvZlJLcU95Z1R4UElvUVR6SVNZN253ajY1NkdxcGJmLWhMUzY2S0JUUUNtOURxSDZ6akZUZEZadXRZRnVWUVJvT20zclZpVDZkMGQ3bGJYTHhLNVI2c0tsaDFISHlSY2pXVC1Ndks2bTFLR1hYWG1JMkotUTdjOA?oc=5",
+      "pub_date": 1791468396.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:a75e8eb14094b:0-us-government-moves-17-795-bitcoin-worth-1-5-billion-in-three-days/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The US government moved 9,261 Bitcoin worth $770 million to Coinbase Prime, stemming from asset seizures tied to previous cryptocurrency exploits.Of the 9,261 Bitcoin (BTC) transferred over the past two days, half was recovered from the Bitfinex hackers, while another portion stemmed from known Bin\u2026"
+      "description": "The US government has moved 17,795 Bitcoin worth $1.5 billion over the past three days.When the world's largest known sovereign Bitcoin holder starts moving coins, traders pay attention. The bigger question is not whether the coins moved. It is what Washington plans to do with them.On-chain tracker\u2026"
     },
     {
-      "headline": "Robinhood Adds Bitcoin To Its Balance Sheet: A Strategic Signal From A $100B Fintech",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTWxjVm53dVlJQWhVZnBDMjc0OFNod2ptNTZmMlVuTVRtN0ItSkJsRWo3VEhlemVpeDBYTDRRWnlTS3ZqdnItU0NteEVEVTAxQUtYWVpVckxsVU41T2NsbS15cnJfSkZucHozSnhyMVpOR3pBb1p2a0Z5OW9henFBS3BlSFl0S0pJZzZfMzluQlhGR0xZNnlhMjNoSThfeTA0al92OUxVM3ZRVUQtN2EtWHRvTm4wdk1WQTZ3RkFPczRwcVRINzBGSHA3VTZlQldj?oc=5",
-      "pub_date": 1791375418.0,
-      "article_url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Robinhood-Adds-Bitcoin-to-Its-Balance-Sheet-A-Strategic-Signal-from-a-100B-Fintech.jpg",
-      "description": "Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet\u2014its first corporate holding and a strategic signal from a $100B fintech."
+      "headline": "Bitcoin\u2019s Next Move: What Crypto Investors Need To Know Now",
+      "source": "Cheddar",
+      "source_url": "https://www.cheddar.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTBqRWtocy1KRXhkUWFRUkw2VkRqSUZ3U3pybXByWnlOQklPRW5tUlJDTlMtd1ltcHBwc18xbHVUdzNoeDh3VlFDLUROalZfdjg2bTVXelVFZ2kwVFk2TzFhR2FOUlNiWi1fSUFQN3RUNVUySGl2bVRYYk90M0pmWGJqOXFIZnJXV0ZVdF9KME5sdw?oc=5",
+      "pub_date": 1791475264.0,
+      "article_url": "https://www.cheddar.com/media/bitcoins-next-move-what-crypto-investors-need-to-know-now/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F10-06-2026%2Ft_d7a9a719971d41f688fad8a0b871a94b_name_GettyImages_920931664_scaled.jpg?width=1200&auth=24d22437137677b3bbe46c7c51ce37effd6a7ffafd00e089337dbbd31aef3fdf",
+      "description": "Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin\u2019s pullback, rate uncertainty, regulation and what could come next."
     },
     {
-      "headline": "Cathie Wood Buys CoreWeave Stock, Trims Robinhood As Bitcoin Slides",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWxkeVVoVjFLLWwtQ1laNmJDOWF2OThjaTBWWGozLUlIdFJ4WkR5eDlhVks5SkdXX2hDdU5zeFVDajZzb3R4ckZmWk82T2RGN0lnMnFjVkg4aWFTbmdwMnc4M3FFOEQ4eUFjc0lxSGhTSHJManhNMUlVNUpEeEJOdjhva0ZreFR5TF9iWkZ6MjREblplTi11aFJBS3ljbkRPX1p0aUlzSEdWMlhyVzB1ZUVJNEhTMDlKVGs1TkdyUE94Zw?oc=5",
-      "pub_date": 1791425623.0,
-      "article_url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/10/62236311/cathie-wood-ark-invest-coreweave-robinhood-bitcoin-slides",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/08/Cathie-Woods-Apocalypse-Squad-Play--Ark-.jpg",
-      "description": "Cathie Wood\u2019s Ark bought CoreWeave shares and sold Robinhood shares on Wednesday, Oct. 7, 2026."
+      "headline": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyaHVCakpwWTFKek5OYzQzOW8yRWljTXBJTDFCeFRQVWxrUkJKWXJHckYwb04zUmV5cDZDNklaVG1hSGNVSmNZUW04dHliWEM0a1R1dVRhQ3REa3lFaVlxQ1I0V250M2xmeWx4YWNwOGpxQVZlY0JTNUxmbw?oc=5",
+      "pub_date": 1791485164.0,
+      "article_url": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/satoshi-nakamoto-statue-lugano-gID_7.jpg",
+      "description": "A batch of Bitcoin mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but data doesn't show who owns it."
     },
     {
       "headline": "South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal",
@@ -85,26 +95,16 @@
       "description": "South Africa\u2019s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers"
     },
     {
-      "headline": "Sui\u2019s Hashi Bitcoin collateral network lines up more than $500M ahead of mainnet",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XRGo0ak90SjlpMHBoT1Fwd0ppMzQ3OVpXMHpLLVp6OWdqWk93SmhfYlZ2TFZqaGUzVk9nM1luWGlSRkhDeDFaR2lOX3pWaFJBcHh3NXRlUEEyLXdYX3ZwN2dlNmlCYmNFR05KVjRDYzRsaVhQRXpiUGxmTVFPUQ?oc=5",
-      "pub_date": 1791463261.0,
-      "article_url": "https://cryptobriefing.com/sui-hashi-bitcoin-collateral-500m-commitments/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/08082032/library-sui-s-hashi-bitcoin-collateral-network-lines-up-more-tha-800x450.png",
-      "description": "Sui's Hashi Bitcoin collateral network has more than $500M in commitments from 20+ partners, including Anchorage Digital, ahead of mainnet."
-    },
-    {
-      "headline": "Bitcoin: Native VIX Watched as Spot Prices Drop",
-      "source": "Blockchain News",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2NrNkNNaERFMHdPQ3JfN21WcXA5cTFvQzBucTVYeEQ4b2M1V2lRNzJjNzZwbkZMdGNIeVNHNnAyeGpDY3dLVWpXbnNRQnVRZl82djNZeHBkbnI4MHdIVHZ6XzYwOE1aRDRQSC1CQkJ2WEJGWGRjLXJYTUN4VzF5aDV2MA?oc=5",
-      "pub_date": 1791435360.0,
-      "article_url": "https://blockchain.news/flashnews/bitcoin-native-vix-watched-spot-prices-drop",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Bitcoin at $82451.72 shows bearish EMA structure with RSI at 28.49; native VIX monitoring intensifies amid declines."
+      "headline": "Bitcoin ETFs suffer biggest exodus since June as Ethereum withdrawals hit nine-month high",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMEFjNkVTb3NlM2lJQ3F0b0FRdmpNaUZPTXhUMzBGd2xSYkMxOUVBc2JlY2pJMDU3MTJpbVNrdzBZVHV4ZUVESmxRdEg3Z3poQkdaZDRURjhhTXQyN1hxMzJ2TEFpTGh5QVRnZVRTd19NV0tHdlp3OXhWRi12ZVFlZ1c1ZDZOZEhBR1l0UndYOVE2TjBFYlQ3WlNSSDJ3ZzBCbDM5aWotd1k5eVRQTzB3eE83R3g?oc=5",
+      "pub_date": 1791474034.0,
+      "article_url": "https://cryptoslate.com/bitcoin-etfs-suffer-biggest-exodus-since-june-as-ethereum-withdrawals-hit-nine-month-high/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-etf-capital-drain.webp",
+      "description": "Bitcoin ETFs lost $484.9 million on Oct. 7, their largest daily outflow since June, while Ethereum funds continued their outflow streak."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T13:55:40.411929+00:00"
+  "fetched_at": "2026-10-08T19:41:42.627184+00:00"
 }

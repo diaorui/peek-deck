@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018Dystopian\u2019: Co-op becomes latest firm to put staff under AI surveillance",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWR1QnJQemJYOUd6LUJ5dzQ5VTF3b21EZlVYakphU0Z3ZVVWS0tad3VLZUZPV2VsMjBINzBlZXV4WTNpeGdoUmRqUDNHYU9pWFl3bEdpUy1ZY3J0LVhjOTlBYm5fX1V1ZU1MQ3dUMTFzdngzWDFqQUwzZ3VzTHpzQ0djY2l6SU03VmZmQklvWDg3NWJJNFQ5VXdDSl95Qjkzd0JMcEVJQ1BvWFU?oc=5",
-      "pub_date": 1791458160.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
-      "image": "https://i.guim.co.uk/img/media/1a5f3048de6dfa0f9800453e99cb7fc6e46c3f57/1240_112_3906_3125/master/3906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fc81fe9221ada8ee900dbae97efcce6",
-      "description": "Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive"
-    },
-    {
-      "headline": "We're making it easier to identify AI-generated content globally.",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZFBxX0NuSXJvdzBhRGF2LVF6ZTVHYzBVQzBkVXZ4RUtHMWsyYlZUdXg0Yk9IZFpKOUJnRFF0dDFSelZHN1BnT0NydVFUYjhBWFFaOVpONFgzMFpYLS1KQ3ltQ3haeExvVjJNMzZXR3RINXlWdmZXLUVYdWlGdFFFRGFoN0VDcnJFZkxWWWFYRVUtNGJPUmdMdlRR?oc=5",
-      "pub_date": 1791382684.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png",
-      "description": "We\u2019re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners."
-    },
-    {
-      "headline": "Alphabet shares rise as Google pushes Gemini deeper into enterprise AI",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1pXUkwtVUEydnZraldMLThlY0w4ek4tZTFKaC1PQkw1TFJoZVBwaF9WalJ6eEh3ek1rcmpqc1NFdjJJOXRqWXNnQjRmRHlfb2l4NFhTMHhnUmxLVFprVzNTczZoZ0I1a2lMVk9ydFI2eUF4LVhTZk5oTGhOZHNQOVVSZzI1aExFY1V4MGNzVnZJR1M2bnpvUEFUYnZvV1E?oc=5",
-      "pub_date": 1791465082.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/alphabet-shares-rise-google-pushes-131122567.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Investing.com -- Alphabet Inc. (NASDAQ: GOOGL) shares rose 1% Thursday, outperforming a broader technology selloff, as Google Cloud highlighted the growing role of Gemini in enterprise workflows and pushed further into the increasingly competitive market for AI agents."
-    },
-    {
-      "headline": "Google experiments with an AI-powered gaming platform",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19wOXlWcGQ4Wng0d3ZtS1hiTDZvanRPVHVkemgtUEQ0OXRGeTk0NVdBallhd01WV1ZpcVp5YmhZaUZrbkF0aVVBUVFkREcxSEJBNnZWMnhuY184U2Vfb1QwQW55bHhmNVZlRm9EX1dyQm5nVkpPUEZyMjIzMDdRRHZCV3l4Nm94NUdzMzZQbVZsdw?oc=5",
-      "pub_date": 1791383783.0,
-      "article_url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142",
-      "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
-    },
-    {
-      "headline": "Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb29OcGYtekVPNXRCUFhscXRZanNDOUxEREFrWDZqb19NMUM3LUVuUVd4dXlZLVlUSDNqdUFrdDZaMVpUamhfdVhybm1jeTdFR3R5dDdPN3NnNzlqcE9qMWxkTTdZRm9OUlc3UTR2SkZFbFNOa1lrRm9rUUsySE53cGZRdlNWbnc?oc=5",
-      "pub_date": 1791465975.0,
-      "article_url": "https://qz.com/snorkel-ai-ceo-350-million-round-helps-teams-pushing-the-frontier",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Snorkel%20AI%20CEO%20Alex%20Ratner-%20350%20million%20round%20helps%20teams%20pushing%20the%20frontier.jpg",
-      "description": "Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier"
-    },
-    {
-      "headline": "IBM Study Raises Questions About Critical Thinking And AI Training",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWY1bGZrRDRGcUJFVDBOZ1Z3LVBVTTBFRmZlWlJJY3pvc2NobTE5eEhqQkpaT1JZbzROc1hsMzFUcFZUaTY1eHhrMktQT3JOajl6M1FySGFyZlVKNkNkcUhZa3pRZk9Db3pKTVhGNHFwN0FCUWdodURZMkRPTC01dE50LWx1QzgweVJLdnNFck9MZGVDdWxRbmpVem03ZllEQ1NOSXFXSGNCQzYzR2ZrdFpOVDdtV21sVTJVZWxn?oc=5",
-      "pub_date": 1791466491.0,
-      "article_url": "https://www.forbes.com/sites/dianehamilton/2026/10/08/ibm-study-raises-questions-about-critical-thinking-and-ai-training/",
+      "headline": "OpenAI annualised revenues $20bn less than previously signalled",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA?oc=5",
+      "pub_date": 1791477754.0,
+      "article_url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "What Does Hollywood\u2019s Growing Embrace Of AI Means For Black Filmmakers And Producers?",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTVyckRXVUltc2gwS0tTOEk0RDkyWGxDWkhremU2c2cwQmtUSGwwdUhkQWhidmtZWXZHbWx5M3JCN0FGZlVGRXpoWXByQmZwUXNRN3c3TnppdVl4cVNYQnJfV2hkWFFWeWYwMHQ4a3J2M0hSb0N2UmVKemlUX0M5Y3ZZb1FuRzdWYkNRdU5uQl9MWlBvY2s0VERZaDRwZ05lVUE?oc=5",
-      "pub_date": 1791466367.0,
-      "article_url": "https://www.yahoo.com/entertainment/movies/articles/does-hollywood-growing-embrace-ai-133247052.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/12adfe640f607c1d11af99cb635cecc181a0e89a695231a3999c9fe1edd22da1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafrotech_articles_589%2Ff1525f41854041df49b747c84d723f8a.jpg",
-      "description": "Artificial intelligence (AI) is gaining ground across industries, including entertainment."
+      "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
+      "pub_date": 1791483294.0,
+      "article_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1790703099&w=1920&h=1080",
+      "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed."
     },
     {
-      "headline": "He\u2019s the Most Powerful Engineer on Earth. Here\u2019s Why He Thinks A.I. Is Going Great.",
+      "headline": "This cybersecurity stock is already growing revenue at a 20% clip. And now here comes the AI boost",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWoyTFZrN2NSamNWZjBqLUFqTmkwdXZjUmtUT2hHQk9zcVEydk01R3EtWDh0QUlyQlF2N0NqaG54b2FIR2QtRVpqMFBDRUdtVzNZdVd2b0w0VWppeF9OWjc2Yk16c3RfWGY2QzBIRmJtbC0ycEFmLXR5MmlSY3NhYzBtN1REMjU5bmhHaUdZWEdpZW9JdTI5TF95aWNJYi0yemFzYWlDdkF2U3RwQkNsZ3k2X1hLQ2M1T1JlcHVqSkR1c0Vadk5ZYmlPNU56NmxHcEcxc0lGVQ?oc=5",
+      "pub_date": 1791484526.0,
+      "article_url": "https://www.cnbc.com/2026/10/08/this-cybersecurity-stock-is-already-growing-revenue-at-a-20percent-clip-and-now-here-comes-the-ai-boost.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374084-1791384600910-gettyimages-2084953035-2024-3-144.jpeg?v=1791384615&w=1920&h=1080",
+      "description": "SentinelOne combines strong revenue growth with improving profitability as it expands its cybersecurity platform beyond endpoint security."
+    },
+    {
+      "headline": "This Photo Is an A.I. Fake. Can You Tell?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkdPdnU1M2xCV1lWSUVnU3BORnhBUHptZ1VSUkwySHVjcV91THBlcjdRUlktRExqTWtZVF9JS01qbHhuVjBacXBHQjRhTnMtMUVKY3R5MzVPZ01nNXhxc3E1TEFUaElNYVc5WXZuV1M2VmZfY3hlYU8yU0dlQVo4bQ?oc=5",
-      "pub_date": 1791385212.0,
-      "article_url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWNzcjU1SDllNEhnZ28wajZ6SGl1TFdYVzQteE5ZUUFmSy1uRHphdmFCcF9uRGhiRDc4NE5TZXVicmh0NTB1dmY1b1h4c0V0OE44ejJPbW8yUENLZ3BTUGIzOWcxdUVZMmtIMUVGZ0ZLYnBjR3FTWEI3UUdfdmI1bXR6NW9jRUVKdDIzT1hhS1pJb3ZTZVJj?oc=5",
+      "pub_date": 1791450127.0,
+      "article_url": "https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "GPT-6 and Intelligent UI for everyone",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
-      "pub_date": 1791413915.0,
-      "article_url": "https://openai.com/index/gpt-6-for-everyone/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5frqtUAWccstAbVrCFraH6/5ae9b6bfbc3f3dff8001ed249812f97d/Intelligent-UI_Art-Card_16x9.png?w=1600&h=900&fit=fill",
-      "description": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+      "headline": "Exclusive: Anthropic's plan to protect critical infrastructure",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM?oc=5",
+      "pub_date": 1791486012.0,
+      "article_url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGR6M2gxc2tYM1YxN1M3WnpZdmt3OEN4SFVJbHlOMFN4WW44MlJzLTRCMklUNWVTNUtHUE1yd3ZnLUZjaGNGVUpGVDQ5MnU5ZzBiRDdXam9tcGsxR2wzYzFPdFk2aVc5X3lVUVVZanZ6MFdGOGhYWTlLN09ZMEFuYTY4UU81ZU91UThWZnZBbGx0cmxxemRVMjhiOFlIUkI0RElPbVlrMTE2RmNpV2dqS18tS19VbWpxTHVhUlRFS0Y4RGY2c1NLczBibDF0SWVRWk04?oc=5",
-      "pub_date": 1791399390.0,
-      "article_url": "https://finance.yahoo.com/technology/article/microsoft-debuts-nvidia-powered-surface-laptop-ultra-as-it-aims-for-ai-market-185630649.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0178bd15ca80f05022997e782fe55b9cb64d12d6a36db28f5a0fcb32b96b5fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fsurface-laptop-ultra-opened_6543.png",
-      "description": "Microsoft debuted its Surface Laptop Ultra, powered by Nvidia's RTX chip on Wednesday."
+      "headline": "Breaking down the future of the AI-driven market rally",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByOW5MOUEzWUVucVFUMTd3OG1MMm05TGdsMVA3TVBnMENoWnh5R1ZER1V5aTdaUG9UTGpPbGNzUzZZU0o1QUJmcDhGOFpRUjJWU2FIVFJJNHpJOTA?oc=5",
+      "pub_date": 1791486296.0,
+      "article_url": "https://www.foxbusiness.com/video/6406492219112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/75ab24d9-1ba1-4a5f-a78b-40e5ea9cfbab/74e23c08-3913-4ec4-8d2a-274fd903a082/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Wall Street Alliance Group founder Aadil Zaman joins \u2018Making Money\u2019 to analyze S&P 500 concentration and the AI-led market rally."
+    },
+    {
+      "headline": "Mark Cuban on why AI is the wrong job-killer target: it\u2019s the healthcare costs, stupid",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDNaZWxaQUlYT2NTSjZzenVHMzF2N29fQnp3ZEhyZFRuUk9JQzdMd1kwVzRFSDdhLTc4RVdJMGhwdUp1MjgwdzVXYWtqN2hzN2VOXzNBM1RudmwtOVZUVTNoUUpHMzNqaU9Dc0xPem9VU2V1QVFwSE1pbDc4amlJVDRHdWVDT0taZWZSTGh6djZFaDZLLTNPSzlVM2cxZVpxVUNEbWtiQTFFZWlRbGt0OGNNSUJaQQ?oc=5",
+      "pub_date": 1791486960.0,
+      "article_url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2293234087-e1791483386434.jpg?resize=1200,600",
+      "description": "It\u2019s far easier to blame AI than it is to blame Healthcare costs,\u201d the billionaire and founder of Cost Plus Drugs said. The math makes his point."
+    },
+    {
+      "headline": "Fired OpenAI workers tell company about concern over losing AI systems' chain of thought",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
+      "pub_date": 1791480522.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-safety-detection-tech-10-08",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/35d0b3aa0bb02e0d8b75cdf1025ffa02.jpg",
+      "description": "Three former OpenAI employees are warning that increasingly advanced artificial intelligence models could become harder to monitor, urging the company to strengthen safety oversight and work with independent auditors, according to a report."
+    },
+    {
+      "headline": "What to know about Anthropic\u2019s \u2018Claude-led\u2019 biological discovery \u2014 and why scientists aren\u2019t convinced",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUzRFekFCZGVRTWVpRExUVWJkYTVGeFYxekkxMkpmYnRJSF9sNXdOd3BGd0NZVnhzakp0eWwxR3hTX2tqdUdOZXd3WjVZRlhZaDFkOHpoVElnanRZZXhwaEdweDRCTlVPVHEzRmxUWUpPVTU5Y0NTRHpJam5zZw?oc=5",
+      "pub_date": 1791467887.0,
+      "article_url": "https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/0f6064436a364b73ce0d2a80848ac56be7ae9ddd-1360x1160-v2.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Anthropic\u2019s claim its AI agents discovered an unusual pattern in viral DNA similar to what\u2019s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here\u2019s what to know."
+    },
+    {
+      "headline": "An AI boom is sending San Francisco rents through the roof: \u2018nowhere left for people to go\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzRHckpUaDVGTUdqN19CWkdWNUxVN2xMVHFFanpoZm1pM0lCV1VZa08zMmhIYmN0dHVzeEtRczlTcTlGVjJjZDlXODVBNkV5Y2hQa3ZHQVNBckczeWRzTlJFS1VvazhST0dWUE5sYzY0NF9MZFZNUEZfOWduU2ltcmVMOEV5OWxubFM3SEIxV1Z4OGZIdVY4?oc=5",
+      "pub_date": 1791468000.0,
+      "article_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "image": "https://i.guim.co.uk/img/media/280b6926a5f1afa4d45cfbfbcbdfd26718240e40/0_273_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5ab9cd38e0b72337d22f0d389c8443a",
+      "description": "According to city\u2019s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homes"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T13:55:38.349861+00:00"
+  "fetched_at": "2026-10-08T19:41:56.429626+00:00"
 }
