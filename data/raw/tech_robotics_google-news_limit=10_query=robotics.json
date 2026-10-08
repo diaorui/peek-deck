@@ -25,6 +25,36 @@
       "description": null
     },
     {
+      "headline": "Nvidia\u2019s big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8?oc=5",
+      "pub_date": 1791458133.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+      "description": "Full-stack safety solution for physical AI is being used by robotics companies."
+    },
+    {
+      "headline": "Agile Robots trains factory robots by filming human workers",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzaHp1cC1fdUx4NXkyZFNfX2dDSU1iMU4zWThDb29nblR1bVZ0NnlHR1JxTHNsN1psNnp0dVliQkZZZ3pwUUE4VE5oWGFDaThaMmYzMWZENXByZjlRRUVYU0pRcm5BNV9zZDFMczdUdl8tcHZiZGRJ?oc=5",
+      "pub_date": 1791467145.0,
+      "article_url": "https://qz.com/agile-robots-robot-academy-human-training-data-100826",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2280546688-300x196.jpg",
+      "description": "The Munich startup's Robot Academy captures how workers move their hands and fingers to help machines master factory tasks"
+    },
+    {
+      "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZml3eHVNU252OUdQVFlJTVdVX0UxY0F3NzBpQTU5NWJza0Y3UFdHWnhPSXI0cEJaWmdQdlRCeW40UWYxRWx3aThFdk51Rk82U0VFZzN1Tkg2Uk8yUWQtMU1zYUlGQm5kQU9PSTI1NEJ6WUJTclNyVVlnczl1VjJpaFlDU3Q5ZGozR2dqTkYyS1RYMXJRcERXZDVDbERCWm14TFpySzJ6YzZpeXNtTU45ZEpWdnBoNFBn0gG-AUFVX3lxTE5DTDNXQWotYUtHN0Y0NXJEQTNiMWkwOXBHLUM1YkJhV3dSWHpkLW03X2hzOURVWTlsUnhKYVJtdWtJRU5xck4xQTFpOGNsZlBlWU02UXo1UVItNU5ZZ0pMQ3lPbkkwY0VfajdWRlZ3bEczaERzTnltWE9VM2xTX0pEX1ZCXzVNWWpoQU9ld3lXMDd5cFQtbUV3UDhhWXRHdDA3TWVQMVpueXRzYTdGdUQzOEhpbjZZYjY5QmI3MlE?oc=5",
+      "pub_date": 1791450000.0,
+      "article_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+      "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
+    },
+    {
       "headline": "The Machines that Make the Machines | NVIDIA Technical Blog",
       "source": "NVIDIA Developer",
       "source_url": "https://developer.nvidia.com",
@@ -35,22 +65,22 @@
       "description": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The NVIDIA Grace Blackwell GB300 superchip\u2026"
     },
     {
+      "headline": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
+      "pub_date": 1791416217.0,
+      "article_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
+    },
+    {
       "headline": "Threadlike motor uses sliding fibers to drive flexible robotic devices without gears",
       "source": "Tech Xplore",
       "source_url": "https://techxplore.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNGYUcxV3puLUkxbEUybGN6Z1FPUEpOQWpzSzY1aFNiZkM5RTctaGRYU2ttS1oyZFlwM0huQ2xiekFlMHFIQTlnSXhSc3BMTUgtN1NUN1JTR0pGc05Wai1YMXBpR0p4NE5nTGpMVGVGcE9JOHZpUkxLQlNKbnFfSVlCai1TWXJo?oc=5",
       "pub_date": 1791382813.0,
       "article_url": "https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
-      "pub_date": 1791183600.0,
-      "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
       "image": null,
       "description": null
     },
@@ -65,16 +95,6 @@
       "description": null
     },
     {
-      "headline": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
-      "pub_date": 1791416217.0,
-      "article_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
-    },
-    {
       "headline": "Solana's Orca merges with Loopscale in push to finance AI, robotics and defense",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -83,28 +103,8 @@
       "article_url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/07/20210712_Finance_Crypto_Move.jpg",
       "description": "The combined team will operate as Formation, aiming to help businesses raise money and enter regulated U.S. capital markets."
-    },
-    {
-      "headline": "Ranked: Countries With the Most Industrial Robots per Worker",
-      "source": "Visual Capitalist",
-      "source_url": "https://www.visualcapitalist.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0NDQWNUQUM2d1daRzI2VGJJSy0yT1Niem9VS0xneUtiQ1FjcGpRSjlKbFpuUUlaejdFX19CcTRhaFYwakRTaUNJc3VwcHFWZEZubUk2Z1lQc3V2bGhneXVabGFidVItVDdVZmh4U1dJZGdsUS0xNjl5Q0tsdFlpUEFXbDBQNzRWVkdsRmVyRVh6Rm5MdEFF?oc=5",
-      "pub_date": 1791404433.0,
-      "article_url": "https://www.visualcapitalist.com/ranked-countries-most-industrial-robots-per-worker-2024-v2/",
-      "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/Industrial-Robots-per-Worker_Shareable.webp",
-      "description": "South Korea leads the 2024 ranking of industrial robots per worker. See how 22 economies compare, including China and the United States."
-    },
-    {
-      "headline": "These Robots Built BMWs, Then Hurled Themselves Into Molten Steel",
-      "source": "The Drive",
-      "source_url": "https://www.thedrive.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBYZzhQanlmVXk4bVN3cG8yckF0YXlJV1F3SmFDcWdtWlNHakFjMzdTRHo3b3V1dGVuaGtDWDh4VldHdkRucU92VGxaMkdIemltcHo5OEJHNVd3LXE3WkdNRWY2QlFPT1J0bkd6QVZnaE5HRFN2cVlCUnpsRmx2bFQtN0FoM3ZxaVkzeDZiUnFsYV9ZOW55T1Nn?oc=5",
-      "pub_date": 1791303800.0,
-      "article_url": "https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-115500.jpg?quality=85&w=1200",
-      "description": "A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T06:29:20.871740+00:00"
+  "fetched_at": "2026-10-08T13:55:35.812760+00:00"
 }

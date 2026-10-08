@@ -5,34 +5,54 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5",
-      "pub_date": 1791395160.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoRk40TXhyV1NIOWhTV1VLM2FqanJTbm9GVXN6eVlaa3VySmpwckhwaXI3MXNMVXAyay1QbVNNTVkxeXViaDhRMm1abnA2RVpjT21LU0FUMU1FUlowWFZZVTk1M1ItRGN2ZF85S3BlMHZXemxzNWc?oc=5",
-      "pub_date": 1791384932.0,
-      "article_url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
-      "description": "Bitmine chairman Tom Lee said at Token2049 the company will stop buying Ethereum once it holds 5% of circulating supply."
-    },
-    {
-      "headline": "Ethereum\u2019s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "headline": "Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWlPU0xUaktyV09YOVBhdjdxQ0FULUJucW5jYk4zZ3l0MWlaQjRnUEg2aTZwRHlEcldoUDFTd1pMM2RWaGNnc1ljN09rNHpJRkgyWHdTX1BCQ0lwa0ZRdHpyeU5aOEVETndXWUtMaElpSlkwMERBckRMVFVlaTJtRVZLXzZ5ajl3Z09aX192VDN0STQ3LXd4LVpQVjVJZXMycTFHVFhkVmVkTkxXS2lzWkxsLTdLQnFaMnc?oc=5",
-      "pub_date": 1791433403.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/171f9d8c90ff75747a86c529565ae56a859fcec1-1396x782.png?auto=format&q=75",
-      "description": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance."
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXVrdFBKWkdpMS15S0gxbGRRem8tQnA3QV9xTHpwa2QyNVcwSTdtdzdsOE5pWEp3R1JiREhqZEZnc2FNeUNSOFh1VE52NUFDODhkeVRSUUVreUtjeFUzVllTVExFbTNYcHM4dXR2T000TDVwYVpkdF9WMk9DNWY5RGpRZG9DV0ktWHk3bExmR21GNGNVbTFRd0FqZTR5Y0djOHVHTW01dTdGQlp4Y0hUYk9kSEgtQjFmVXBuTmQyWWc4NE1FSGQxa2t3?oc=5",
+      "pub_date": 1791455441.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?auto=format&q=75",
+      "description": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
+    },
+    {
+      "headline": "Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWJkNF9tSGhkeVlTQmFlMXFWeDAwSTBOc25iTV9xWGc4dlMyb0JtX3dmd1dEMFpRU2pkUDQxNHRSeVpNR19mVnNCLUdlVkJXNUdFRDNGY01vaEpXVWZnb25HcEg5Q1hzckRRbU5PTjhSMi1laE55NGJPNGhuZjVPbE1BbmQ5bnBxRTU2cnlUcmxUbHpJbDNyeVc2S050dXlPOW84WHM0TkdWaDhfMG5lNg?oc=5",
+      "pub_date": 1791460093.0,
+      "article_url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+      "description": "Justin Drake is calling for crypto holders to start calmly planning for \u201cBunker Mode.\" But reactions so far haven\u2019t been too calm."
+    },
+    {
+      "headline": "Bitcoin and ether holders urged to enter \u2018bunker mode\u2019 against possible AI attacks",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOV9VQllPRTZkSFlaT09JLXJDazJraDBOTUE0cW50blVsVHdzdWJhclBOc1pYQk0yM2UzR2t4RVpxeUFBeDhsbjNTN1NKWC1IWE5IRGxEalZaUlc3ckhmUFNNYXdNNjVPNDdvUTNNaGtRcm1UVVpjMUJKbF83UnlYQVR0aGZCYkRYV183dFM3dGxLVmg0c1pyU3Jjdzh4Qy10NXhYWWNaZmV2djVsR1BkQ1NpMzJIT1RFR2JMd1FkTmw?oc=5",
+      "pub_date": 1791460036.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive."
+    },
+    {
+      "headline": "Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQktvb0FWZG0tUE5saWs2RHh4NUNVSXlUejg2QzdPRG1JMlpZb3VfblFFcnptMjJ3a1lfdWNDZDEtS1pCUnpLWmtLVWNJY05jZExTOVpmSmIzWFFacUw4d09OTnVGeHRKQ0RUbzJEMDVRS1pRMExOZ2U5T1Y5Uzg3LVllM0hURkxHQnpQeGFoeUpyUUY2aEZkc3MtVXBKYVhNZUE?oc=5",
+      "pub_date": 1791376211.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e318131a9c9b7dfe1dd3df71a2f04c15b183462fd80d691f30cf0efb9b8f697f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F80925fda19c6a597a82719ef9ccae9bf.jpg",
+      "description": "A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030."
+    },
+    {
+      "headline": "Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOenBMZTBFQmo4ZURXUVBGTWEzZVF5V004MnJwanVJcUhENE9TaGFCTm1YUFFUeEtGQ3JyWnJwS1VDWmtuVzk5VzBZcVcyb01OMHd5d1dtclhBX3ZtSFZoN3JqVVUwNWtsYVkxeTI1MkVyd0VtNEwwdmViRmF1ZXJHUUlfSnhvbVFGdXVIUlBka3Bzb0VBZWstTlQ0UllwelNudXY0RURkRQ?oc=5",
+      "pub_date": 1791460093.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-ethereum-researcher-says-114813244.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9d07ee16421ccda5331217c0c39dd62af509d5fce694fbc84dff76e96c23a769/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fd57cffcb54f68e73cd21b378da8d1afc.png",
+      "description": "Justin Drake is calling for crypto holders to start calmly planning for \u201cBunker Mode.\" But reactions so far haven\u2019t been too calm."
     },
     {
       "headline": "Current price of Ethereum for October 7, 2026",
@@ -45,24 +65,14 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "AI Could Damage Crypto in 2 Years, Warns Ethereum's Vitalik Buterin",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96SFlVWHpyUEFCblBmWlhBd0dzNkFLWlVWT2VVVERTT0sxWjZWTEVQUFBOU19mSWVCZVRaLURPb3lyV0JkVEtSTGRTMElZcWVoMjN6R1RkLWNSZ21kU3ZiM1hiNGRtZlVtSkR2Q1RKemo?oc=5",
-      "pub_date": 1791422340.0,
-      "article_url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Cryptocurrencies Price Prediction: Zcash, Ripple & Ethereum \u2013 Asian Wrap 08 October",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEgzUDc0b0RoMjFPdC1JbHFFUF96cUt5LUZSaWFobzRSaDhJa3l3NmpGcFVXazE2R0lrTHREUnZSRDhqMjM1NnMtOU00cHVlNXctMVFpWFJ3VjMzVFpsSUd1LUtqc1p2VkRRY3NXenRvUncxenpxMlFtTW4yb0RVSHdoUzliSjFxTjdDZU5CNmdfOTlmcEhkYk52c244cUJGcGI2dGJPTmpfZHh6WjdkMU9NajZxTkd5NjE3ZUdySnpDLTA5ZHMxaXY5TXdxVTBFd1BJ?oc=5",
-      "pub_date": 1791438353.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-zcash-ripple-ethereum-asian-wrap-08-october-202610080545",
-      "image": "https://editorial.fxsstatic.com/images/i/crypto-01_Medium.jpg",
-      "description": "Zcash (ZEC) price is trading below $1,300 on Thursday, continuing a steady decline over the past 10 days and slipping from its $1,698 peak on September 27."
+      "headline": "Where Will Ethereum Be in 2030?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BQVpLN01heDg0MWdPTVpSZVZaaUNLalJlM2lEM2NqT2RuTXRnbjBncEczYkRoSFVpUlJMME1zRktQWlRYa0U2OG1NWEtyMUtxNmRhRVpva1lrNW1qbU9RTDZDY2thMUtXYk1USVp6aUVyVkdWSDRZVW1TRUNPZw?oc=5",
+      "pub_date": 1791451184.0,
+      "article_url": "https://www.fool.com/investing/2026/10/08/where-will-ethereum-be-in-2030/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888089%2Fthe-future-is-purple.jpg&w=1200&op=resize",
+      "description": "In a few years, Ethereum could transform from a \"blockchain\" into a \"cryptographic world computer.\""
     },
     {
       "headline": "New Crypto: AlphaPepe Presale Nears $3M Raised While Ethereum Price Prediction Points to $6,000",
@@ -75,36 +85,26 @@
       "description": "MONACO, Oct.  07, 2026  (GLOBE NEWSWIRE) -- New crypto AlphaPepe has crossed $2.91 million raised and is now closing in on the $3 million presale ..."
     },
     {
-      "headline": "How native transaction assertions could enforce a transaction's final outcome",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwTkZpeGJOc0k2ZnBmN2tFTEg2eVJFcE5JX2hENUEwOWhVQWMtcUpoZ21ZMndHZ05MS0xFRU5Ra0JoRUFPUlVKRjMxdHAyS1lwZGdTX0Y5Mkxud0Q1M29RQ0xBd0R6SU82dmRJ?oc=5",
-      "pub_date": 1791214753.0,
-      "article_url": "https://blog.ethereum.org/2026/10/05/transaction-assertions",
-      "image": "https://blog.ethereum.org/images/posts/2026/accesslayer2.png",
-      "description": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is..."
+      "headline": "Binance users add 6,217 more Bitcoin as Ethereum balances drop \u2013 Details",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3lrZzAwTWp6M1dLTDJSUW1ILVZJRTdfblMwODFPS2pqYV9RVllVZkwtUERxR21PdjBsU2V4UE1WTWIxM0ZQMHFLUXhYbTZNVTZiWU9WU0pXODRVcGZWTHVtUTJPdnllajhjNmhuTzYzWjdJaTRjN0JwUjgzQi1uZ0lEdktrNjJLTXJBcXctWGRQa0NHbVNoQQ?oc=5",
+      "pub_date": 1791446431.0,
+      "article_url": "https://ambcrypto.com/binance-users-hold-6217-more-bitcoin-as-ethereum-balances-drop-details/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/FI_QB.CN_BINANCE_ORDER_RESERVES_07-10-2026.webp",
+      "description": "Binance\u2019s latest Proof of Reserves data reveals a shift."
     },
     {
-      "headline": "BlackRock ETF clients pull $116.05 million from Ethereum fund",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUTDlLNThhbHRud1V2NE5UWHpBaGFkQWU3LVRKWXNBNnZ5MUhLNEE1UXVfcUN2QWFjNGVRZ2NhWWFlWmNZbkp6cmRhTTNmVDJ0cWxITlRQT2lKWnpHbXNmUXBPZFJtMGR0VnRWd1U4OUkzQQ?oc=5",
-      "pub_date": 1791436628.0,
-      "article_url": "https://cryptobriefing.com/blackrock-etha-ethereum-etf-outflows/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/08011658/library-blackrock-etf-clients-pull-116-05-million-from-ethereum--800x450.png",
-      "description": "BlackRock's ETHA saw $116.05 million in Ethereum ETF outflows on October 7 as Bitcoin funds drew inflows, hinting at an investor rotation."
-    },
-    {
-      "headline": "Ethereum researcher Justin Drake calls for 'bunker mode' planning over private key recovery risk",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbTVjWjYxRHBQZGJWTHVuTmJETjFSQm9fRHNvZlJiUW1ReFFlcnFMMVNISUlTRnNkM0NGVHZWVkFuRUxiaC13U252aFdwaHZqR192RGYxaTIyXzROVEFSQVRwcklLc2F1TlJWajJYeEw2eDVfcnl5WnBKZ0pKQ0s3MEJnbVI2WmtJVHF0RjU2aGRyN0ZNRHI1Q1hpWXFNSkc5OUdBWGJHUWFzTldjdU8tYmFVZVladkM1azdmdXZJTGlKajZZcFRfRnZ1OHhtQ2NWbWdB?oc=5",
-      "pub_date": 1791393780.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
-      "description": "Drake recommended moving funds in a controlled way to fresh addresses that keep their public keys hidden, while warning holders not to panic or rush."
+      "headline": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoRk40TXhyV1NIOWhTV1VLM2FqanJTbm9GVXN6eVlaa3VySmpwckhwaXI3MXNMVXAyay1QbVNNTVkxeXViaDhRMm1abnA2RVpjT21LU0FUMU1FUlowWFZZVTk1M1ItRGN2ZF85S3BlMHZXemxzNWc?oc=5",
+      "pub_date": 1791384932.0,
+      "article_url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
+      "description": "Bitmine chairman Tom Lee said at Token2049 the company will stop buying Ethereum once it holds 5% of circulating supply."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T06:29:19.814379+00:00"
+  "fetched_at": "2026-10-08T13:55:38.157812+00:00"
 }
