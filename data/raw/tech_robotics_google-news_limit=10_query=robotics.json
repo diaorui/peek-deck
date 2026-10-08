@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Mixed Human Feelings After a Day at a Park Full of Robots",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
-      "pub_date": 1791233729.0,
-      "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFlpUTlaU0ljYnlqel84dHRjcC01UXlHN0huRGxRa19MSjYyOUJwX2dPZEhCZG9vclVZWHdKc0tTN2NUTDVOM1hkVU1wMC1NZDdhMDVyNUhnZDlnUlFKWmFxU1RZYVRwWmpYTEtMTW5hckctcFJ4TDBtZ2NJX2pCc3FOVVB5ZllLcWJnNGd2bzdHS3N0VDNzRDZGRWFFeDJxRlE?oc=5",
-      "pub_date": 1791288000.0,
-      "article_url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10",
-      "image": "https://i.insider.com/6ac41bbd225e4c4a50a38278?width=1200&format=jpeg",
-      "description": "A robotics startup raised $75 million to automate manufacturing for complex medicines. See the pitch deck it used."
-    },
-    {
       "headline": "US issues first outbound investment fine over Chinese robotics AI deal",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
@@ -35,12 +15,32 @@
       "description": null
     },
     {
-      "headline": "FireFly Robotics files for Nasdaq direct listing",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlDaEwtTEw4V0tjU2diYkV2cG9BbGxJYmdBM2VUTzcxUXFOR1N6NWo5b2dpRkM3TkRtZFNhNDNKZGNjMlRfdDhMR2M2bVBFanI2aUJTUk5SakNSM1R2Z2hSRXpsUFU1dExIaWJQU2xvM2dmM1F4bjgwN1g4UWxsYW5MSWF5Nlk0eWJRS1FFNHlBOUE?oc=5",
-      "pub_date": 1791393703.0,
-      "article_url": "https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/",
+      "headline": "Mixed Human Feelings After a Day at a Park Full of Robots",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
+      "pub_date": 1791233729.0,
+      "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Machines that Make the Machines | NVIDIA Technical Blog",
+      "source": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ERWZxQVlHSDdYLVZMVDFRbi1xVmtPNjJJZTBwMmxYVVJrY3Z3YnRtRHRDYXVWN0R1VE9fa3hZX3N4X3dGbmMtcnBSdUxkWUZUZ1RmdmhCQmtWNzBGQjNXSncwWURUZEdsX3kwN1MyZE5HRG82MmJ6UGlR?oc=5",
+      "pub_date": 1791397408.0,
+      "article_url": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image-1790985193398.webp",
+      "description": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The NVIDIA Grace Blackwell GB300 superchip\u2026"
+    },
+    {
+      "headline": "Threadlike motor uses sliding fibers to drive flexible robotic devices without gears",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNGYUcxV3puLUkxbEUybGN6Z1FPUEpOQWpzSzY1aFNiZkM5RTctaGRYU2ttS1oyZFlwM0huQ2xiekFlMHFIQTlnSXhSc3BMTUgtN1NUN1JTR0pGc05Wai1YMXBpR0p4NE5nTGpMVGVGcE9JOHZpUkxLQlNKbnFfSVlCai1TWXJo?oc=5",
+      "pub_date": 1791382813.0,
+      "article_url": "https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html",
       "image": null,
       "description": null
     },
@@ -55,44 +55,44 @@
       "description": null
     },
     {
-      "headline": "Orbital Robotics gets set to send up a pair of arms for International Space Station\u2019s robots",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZU5pb2hNZXRWRk1DUmdnU2FGcGVjcGF2dnV4dUxpNkt3ZXp6RDM3T08tMTNlLVdxempVVzJBMkxOWGRIOXBkSXN5blBCaVJWejRaOVF5RjNvZXJHZDhFZnBHV3Y2Tl9KTGpCRW9tdmFCMGhxV3Z6MHBMZmdoTHlkaXd2Y3VtdE0?oc=5",
-      "pub_date": 1791205200.0,
-      "article_url": "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
-      "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
+      "headline": "FireFly Robotics files for Nasdaq direct listing",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlDaEwtTEw4V0tjU2diYkV2cG9BbGxJYmdBM2VUTzcxUXFOR1N6NWo5b2dpRkM3TkRtZFNhNDNKZGNjMlRfdDhMR2M2bVBFanI2aUJTUk5SakNSM1R2Z2hSRXpsUFU1dExIaWJQU2xvM2dmM1F4bjgwN1g4UWxsYW5MSWF5Nlk0eWJRS1FFNHlBOUE?oc=5",
+      "pub_date": 1791393703.0,
+      "article_url": "https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
+      "pub_date": 1791416217.0,
+      "article_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
+    },
+    {
+      "headline": "Solana's Orca merges with Loopscale in push to finance AI, robotics and defense",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWVTWExxQTdVUXZwSE1qSXRsQzZEOWpfQ2JYdWd6Skx0dzBSM3M3NXlkNm1HZEwyU2dLQ0QwUkFBcDNINjdIb1ZLX29ubXU1VGowbmUtaHhrMGgxX1ZVT0dZc0pBdkVCZkhoNlpCSTVselpGd1RaZzNJbXA0QzZiLUhiLVdEZHZyUFlKMGI4eTRiamlIMVZSTF81VU5QNTIwcjRmYXpfMFJLdEVzSlJqUlRQaWFjQ3RVR1ZsVjJPVQ?oc=5",
+      "pub_date": 1791410460.0,
+      "article_url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/07/20210712_Finance_Crypto_Move.jpg",
+      "description": "The combined team will operate as Formation, aiming to help businesses raise money and enter regulated U.S. capital markets."
     },
     {
       "headline": "Ranked: Countries With the Most Industrial Robots per Worker",
       "source": "Visual Capitalist",
       "source_url": "https://www.visualcapitalist.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0NDQWNUQUM2d1daRzI2VGJJSy0yT1Niem9VS0xneUtiQ1FjcGpRSjlKbFpuUUlaejdFX19CcTRhaFYwakRTaUNJc3VwcHFWZEZubUk2Z1lQc3V2bGhneXVabGFidVItVDdVZmh4U1dJZGdsUS0xNjl5Q0tsdFlpUEFXbDBQNzRWVkdsRmVyRVh6Rm5MdEFF?oc=5",
-      "pub_date": 1791307253.0,
+      "pub_date": 1791404433.0,
       "article_url": "https://www.visualcapitalist.com/ranked-countries-most-industrial-robots-per-worker-2024-v2/",
       "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/Industrial-Robots-per-Worker_Shareable.webp",
       "description": "South Korea leads the 2024 ranking of industrial robots per worker. See how 22 economies compare, including China and the United States."
-    },
-    {
-      "headline": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
-      "source": "VentureBeat",
-      "source_url": "https://venturebeat.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY19CNUtmUjdkLTk0clZSSzRYNHVOaTJXY2xrdXZHUVJpRVlwRnIyaldzcm85ZlhFV3Bjb2t2TVlfcTZzZXF5WEJLRUc5YnB6ZjVWblNNRUFYRTY3WGlMUXhfQWFqS1czR2EzYU5JcWY3WXhfdEZzbml3WVNReTcyT3VDWXVfSi1KQjhCdmVFS2ZTNVVNbmZSdlBJOFBXVkYxcFpoRzF2SzJOZW4xT3daM2s2eFNHRkFmUjl1aktzcw?oc=5",
-      "pub_date": 1791310655.0,
-      "article_url": "https://venturebeat.com/technology/twelvelabs-debuts-pegasus-1-6-to-improve-robotics-training-data-from-first-person-video",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6sC9CY4VDuP6XfDcavxobi/a8b1928b222cffdd03ca957f7ce8ad0d/Gemini_Generated_Image_48rwu748rwu748rw.jpeg?w=800&q=75",
-      "description": "For an enterprise early in robotics, a useful starting point would be one bounded workflow, such as packing a particular product or assembling a specific part."
-    },
-    {
-      "headline": "Kraken Robotics (TSXV:PNG) Is Up 5.8% After Q2 Results Highlight Backlog And Covelya Integration Questions",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFdaVTFKQy13eENjX1ZQaVFqMk5fQmlYaHltTWVBMzd3cDN2NGtlTzRLeFo2Wkd3M25xbFZQR3lXb2xFYVVZVjNrTi1xX3dZUEhObHE1Y21JemVRX1VhbWpiSVlxN0MtUHZRRGRNWmpyOWREV1BEZXBCeU9jSzVSOVRiczdRTmFwLUxzZVhpc1lTV2pDV1E?oc=5",
-      "pub_date": 1791284811.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-tsxv-png-5-110651755.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0f3765e17a438f259449872487aa1d83389fc02185870f772674947bb8b1458b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F390811ad78e8f93681fc56be8fe8ed14.jpg",
-      "description": "In early October 2026, Kraken Robotics reported Q2 2026 revenue of C$27.3 million and adjusted EBITDA of C$5.0 million, supported by a combined 2026 order book of about C$355 million including the newly acquired Covelya business. The market reaction highlights how questions around the timing of converting this backlog into revenue, and integration of Covelya, are becoming just as important to investors as the headline growth opportunity itself. Next, we\u2019ll examine how concerns over revenue..."
     },
     {
       "headline": "These Robots Built BMWs, Then Hurled Themselves Into Molten Steel",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T00:19:50.228148+00:00"
+  "fetched_at": "2026-10-08T06:29:20.871740+00:00"
 }
