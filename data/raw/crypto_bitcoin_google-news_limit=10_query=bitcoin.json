@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5",
-      "pub_date": 1791395160.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Falls as $550 Million in Risky Crypto Bets Wiped Out",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnVOdElZSl9pSWhzUGhFM1pscjZRMF9MTDI0dTJqSU9JT09XOGp6RWo1MU16TFpBcU9hVDlOUjU4SUdRVXF6dm85MG9tenU3czAzN3V0MDBSS090UHp1cWN4ZDNmSzFPUkFLbzN6LXhaOTZwNUp3djRkVDFfUU5GMGxQZnN3M1daWi1fOUIxUm1VSFVtbzRadlBIeDc?oc=5",
+      "pub_date": 1791366525.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-550-million-risky-094845532.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dfbea0fb5fd13d7f40e2e5f46158d376c2f2fa037be3110f48439490cca809fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F281372a30547b74c3105a361883ae1cd.jpg",
+      "description": "Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite."
     },
     {
       "headline": "Bitcoin cost bases point to resistance at $88,000 and support near $82,300",
@@ -25,34 +25,44 @@
       "description": "Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000."
     },
     {
-      "headline": "Bitcoin Falls as $550 Million in Risky Crypto Bets Wiped Out",
+      "headline": "NEAR Protocol Is Up 122% in a Month While Bitcoin Gained 8%. Can the Rally Last?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnVOdElZSl9pSWhzUGhFM1pscjZRMF9MTDI0dTJqSU9JT09XOGp6RWo1MU16TFpBcU9hVDlOUjU4SUdRVXF6dm85MG9tenU3czAzN3V0MDBSS090UHp1cWN4ZDNmSzFPUkFLbzN6LXhaOTZwNUp3djRkVDFfUU5GMGxQZnN3M1daWi1fOUIxUm1VSFVtbzRadlBIeDc?oc=5",
-      "pub_date": 1791366525.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-550-million-risky-094845532.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/dfbea0fb5fd13d7f40e2e5f46158d376c2f2fa037be3110f48439490cca809fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F281372a30547b74c3105a361883ae1cd.jpg",
-      "description": "Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnN6Z0oxWlFfeEJhV29yT0d6WWxIb01heDhVbDVfc045MXhjY2xxOU5IeGQ1OEVTSjZoX0ptT3J4UEpyQjFJdFA0MlpkX3pnZWgtaXYzdVhqNlR4b09sV1gwY1RtX0pzZnJ3c3Rwa1Y4c2xMQm16a1g4TkdrOFl6RmlLZE84anB4TmRSX2Z3cjFiSFVKMWZtY3B3?oc=5",
+      "pub_date": 1791412211.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/near-protocol-122-month-while-223011053.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c8a6b949b13b08086875c2c508bbfd93ad27c0dde3c26d54924c354bef45176a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F002e18144cb9e24f05940b9823195509.jpg",
+      "description": "NEAR Protocol has rocketed past Bitcoin, Ethereum, and Solana over the past month, but the surge lacks any confirmed catalyst, and a massive overhang of underwater sellers from 2022 looms over the rally."
     },
     {
-      "headline": "Here's What $1,000 in Each of These 6 Cryptocurrencies Could Be Worth by 2030",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkU1eUxIWjBYNG1Ya2xLcHRUcjc1N1FwRF8yZDRyQXotTGRlS0Q3cnhzVFhOZnFwZDhQNzVzcjNXTG1Nb3BUc2lCWlRWQl9ldWtvZnpYVlZyQW1IaEtTUE40QlE0UW1UNDdGN0FuYXhFR0N2UlpBeUdUVW5aV25VZlBpVThYaGlIMmNYVUxEaElLVllCUDNsSQ?oc=5",
-      "pub_date": 1791391957.0,
-      "article_url": "https://www.fool.com/investing/2026/10/07/heres-what-1000-in-each-of-these-6-cryptocurrencie/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890108%2Fa-block-labeled-crypto-on-a-digital-screen.jpg&w=1200&op=resize",
-      "description": "Bitcoin, Solana, XRP, Cardano, Dogecoin, and Shiba Inu could head in different directions."
+      "headline": "The Quantum Issue: Bitcoin Quantum Exposure At Block 950,000",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEtPaXlYUThYT25yejhNMy1lUXhkQzJuRFBfb2luWDJiQzI1QmpJa3ZaMUM0RGtmZHhKcmVjbUZxdHlfNEpxUE1KVWIxNTN4VjFrcGNybEtzcjlRX05xSU4wZkc0bjNxRnN1R0ZaaTlYRnpLblc2R1N3UVNCaGJiWkc1OHBRWW9ncUhzV0VzX05nSWZ5aXJR?oc=5",
+      "pub_date": 1791391601.0,
+      "article_url": "https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Quantum-Issue-Article-Header-2400x1400-Quantum-Exposure-1024x597.png",
+      "description": "From The Quantum Issue: a breakdown of how much of Bitcoin's supply is vulnerable to quantum attack, and the logistical questions of changing that."
     },
     {
-      "headline": "BingX's Kevin Lee Says Old Money Has Bitcoin 'Diamond Hands'",
-      "source": "Bitbo",
-      "source_url": "https://bitbo.io",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GcGlZZVFtZVNqWHRMNzFjVmhRa2NPd3ZjOTBpcWtJNVhpRTByMU1ZdUduS0dOZV9wQXotOXlVRjFCTVlCdkw3RWcyekhmUHZac0FlUkhUWFRiZGpZ?oc=5",
-      "pub_date": 1791379200.0,
-      "article_url": "https://bitbo.io/news/bingx-kevin-lee-old-money/",
-      "image": "https://bitbo.io/news/images/bitcoin-orange.jpg",
-      "description": "BingX strategy chief Kevin Lee said at Token2049 that wealthy investors take a long-term view of Bitcoin, though family-office exposure remains low."
+      "headline": "Gibson County residents raise concerns over proposed bitcoin mining facility",
+      "source": "WBBJ-TV",
+      "source_url": "https://www.wbbjtv.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTMtZVNZZ3hVLVlucVNLRzhVMzVsTWM0eDBYR3FQemQ2UHNRd3J3d2I2RTNqcUVXQ1E2MFJRcDBYTUN1WVVkcFJwdjVwb2xVZDQ1Zm1FTzN4T0g4ZUY0S0sxZFV0UjItR0dncnZsVGhiQWNkV2VWNEdDNl9IUUdRTl9pOXVhOGkxYm9nTkZhTG56ZEx1dEtCUVA2TWhqZTVMOWlxM25rRGNUdG54NG5hNQ?oc=5",
+      "pub_date": 1791410580.0,
+      "article_url": "https://www.wbbjtv.com/2026/10/07/gibson-county-residents-raise-concerns-over-proposed-bitcoin-mining-facility/",
+      "image": "https://gray-wbbj-prod.gtv-cdn.com/resizer/v2/Y6AG2XX2P5HTBIICHF43N2GE2U.png?auth=ceea11c53da3fa1848d68c05d060b90739716fe2445eaada866bbdb4afa64051&width=1200&height=600&smart=true",
+      "description": "A proposed bitcoin mining facility could be built along Hughes Loop Road in the Milan area. The proposal calls for about six acres to be rezoned from agricultural to industrial."
+    },
+    {
+      "headline": "Bitcoin buyers dig in between $81K and $82K as sellers thin out",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUnpSQnpnYXpxSmJhTGpjVmQ1bGZCTGhjVjh2QXVWRXI0RlVZM1otSXBMWG5GN3F0VHlWTnBfejJsUW9keGF2MEVaVHVuQ0JNUl9wXzZQNndxN2wza0xRWjhidGJObnhScXZjQVQySk5fTHBBZVE4LTFsenpWQ0RscDlfWjFwMVdqNFBVb3JEZWUxSkZLMkY1SlR3U0FyVnM0UTdmMlE2NGd1c1ZZVW96ZzNrcVRqMHRjMkpaVGQwZG1RS2Fm?oc=5",
+      "pub_date": 1791387260.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:39e6a0ad3094b:0-bitcoin-buyers-dig-in-between-81k-and-82k-as-sellers-thin-out/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin buyers have been steadily stacking coins between $81,000 and $82,000. Above $83,300, sell orders have become surprisingly hard to find.The buying in that zone has been building since late September 2026. That was when Bitcoin slipped from highs near $87,000, with the peak placed at approxim\u2026"
     },
     {
       "headline": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
@@ -65,26 +75,6 @@
       "description": "Government-labeled wallets sent 833.6 Bitcoin to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed."
     },
     {
-      "headline": "Current price of Bitcoin for October 5, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRVZJWWVIZXRWWktlNmpSNThiN0hGZmtYVkJRNDg1TTYwd2F3V1BTaEdhekV0OXBCcWVQRFJnWTVpT1d2cF9uUF9SZHB5eXVnVnBXTVlISDZRMmNoZlNkcUF0UDlNQlU?oc=5",
-      "pub_date": 1791198900.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-05-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-5.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal",
-      "source": "Business Insider Africa",
-      "source_url": "https://africa.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZG82WE9GVGZsYzZ5cnFMOTlKWUphbTcxaTZXOE9kM0ktOU9Wd0Y0ZHNmSlJjbXJtSGw4eENTd0NGY0FjaG9ORDhEUkdEVGJtS1dLUkI2eFlJMzRIUzJnSTBvWmg5b2JLd0ZjZjlqUFRRMWh5Qk1nZnJPYy1nUzU2dENOb3pTWkV3WGNMbElHMjF5MEE3a0RMSmtrUlk1cWZfSHlYWlZlcWRuOGlmSVJCTXgzOUN6VTB6MXl5Y0NvLXlsLUlEa1lybnQ2Nm05VXMydzNaanBB?oc=5",
-      "pub_date": 1791359631.0,
-      "article_url": "https://africa.businessinsider.com/local/markets/south-african-banking-giant-opens-bitcoin-trading-to-nearly-nine-million-customers/4wct3bl",
-      "image": "https://ocdn.eu/pulscms-transforms/1/5FuktkpTURBXy8xM2RmZmNiZTRkNDNlMzY4YWJmYTIzOTk4MTZiZTYzZS5qcGeSlQMAAM0HCM0D9JMFzQSwzQJ2",
-      "description": "South Africa\u2019s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers"
-    },
-    {
       "headline": "\u2018Opened The Floodgates\u2019\u2014BlackRock Confirms Huge Bitcoin ETF Price Game-Changer",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" For Bitcoin",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW1WeVNVaG9ZbmRUU3lwS2UzYnJUZ2NwbUgxU2ZsQk9nU0w1MzRzZGEweVVnb2g2YjlBdEhNZkkwUzN1WFRhNDlaaGtyNmxKRXZlVEFpMV92RVh3TWdGRGdOeXFDYmZ4bEhTVFZKZW9icjhCbjQxX1pBRHZoSzBKUzJGd1RyNG1sUlhlbXZDQURCSGo1RUlHYmF1RFhaS0hDYmsw?oc=5",
-      "pub_date": 1791234841.0,
-      "article_url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbases-Ryan-VanGrack-CFTC-Approval-22Opens-Many-Doors22-for-Bitcoin-.jpg",
-      "description": "Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase\u2019s Ryan VanGrack explains why ETFs and direct holding can both thrive."
+      "headline": "Arch Lending Co-Founder Makes the Case for Bitcoin-Backed Loans at Three Corporate Bitcoin Events",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPREFrMzhMRWwzN3JIQWtPS2JjVU5OdjMyWnQyb0pTY3dteWwtTjJDMUlRVXhJQW5TWkxUNzFDcm5GdHNORTJ6emZTeUNZckhRenFPU0ZuaHJLVnMtei1kejJERXhIYUNPX3l6Sks0MmJDTlplaTc5cnFUekFiUm9vb2VYaUNjYnpadC1Ud0JBbDI5MUVQTmdVZVZQTy1ZSkwwVUl6OW16SXM2VUF6WE4wRllqS1FreW1RTzVtNjBMNS1SbkVRdGl4eUZMWVV4MXZvbUxPWFNMcjhnVmdBZWdiZ0ZXVmppQ1ktT20tWENsbw?oc=5",
+      "pub_date": 1791392520.0,
+      "article_url": "https://www.morningstar.com/news/pr-newswire/20261007ny66090/arch-lending-co-founder-makes-the-case-for-bitcoin-backed-loans-at-three-corporate-bitcoin-events",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "description": null
+    },
+    {
+      "headline": "South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal",
+      "source": "Business Insider Africa",
+      "source_url": "https://africa.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZG82WE9GVGZsYzZ5cnFMOTlKWUphbTcxaTZXOE9kM0ktOU9Wd0Y0ZHNmSlJjbXJtSGw4eENTd0NGY0FjaG9ORDhEUkdEVGJtS1dLUkI2eFlJMzRIUzJnSTBvWmg5b2JLd0ZjZjlqUFRRMWh5Qk1nZnJPYy1nUzU2dENOb3pTWkV3WGNMbElHMjF5MEE3a0RMSmtrUlk1cWZfSHlYWlZlcWRuOGlmSVJCTXgzOUN6VTB6MXl5Y0NvLXlsLUlEa1lybnQ2Nm05VXMydzNaanBB?oc=5",
+      "pub_date": 1791359631.0,
+      "article_url": "https://africa.businessinsider.com/local/markets/south-african-banking-giant-opens-bitcoin-trading-to-nearly-nine-million-customers/4wct3bl",
+      "image": "https://ocdn.eu/pulscms-transforms/1/5FuktkpTURBXy8xM2RmZmNiZTRkNDNlMzY4YWJmYTIzOTk4MTZiZTYzZS5qcGeSlQMAAM0HCM0D9JMFzQSwzQJ2",
+      "description": "South Africa\u2019s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T20:04:39.933214+00:00"
+  "fetched_at": "2026-10-08T00:19:45.065691+00:00"
 }
