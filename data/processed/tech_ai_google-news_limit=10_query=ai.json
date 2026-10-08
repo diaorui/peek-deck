@@ -25,37 +25,17 @@
       "description": null
     },
     {
-      "headline": "Scoop: Ex-White House AI advisor is raising $500 million VC fund",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41OUUxbzRXZGZCWmVSTXdpejkybnQ4MktuQWFwbS1vdG9ZM3lCYmlSbVZYc2hkb2pwbE5mWm52cmZNcDBDbk1uUy1tcHRiMThaeE5VcUZZMkJGMHRYYXAzVlBXb0RtZl94NEJudGJhaHVyeGJQMnFuaEZZTQ?oc=5",
-      "pub_date": 1791400737.0,
-      "article_url": "https://www.axios.com/2026/10/07/white-house-ai-advisor-sriram-krishnan",
-      "image": null,
-      "description": null
+      "headline": "OpenAI publishes new math proofs as super PAC targets AI-backed candidates",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFR3UFJmaG9ULVIyNzJoT2lqZmZRVF9GNmJkNVdZdldUZ3RkdlY4T1dyQktJcnZnSklqczFoRzJGbDFITDhzc2Q5TUR4OExfTDJ2ckVTRF9mZ3ZVZ3phMFJkaThEeTIySVZSdzA3dE9tMWREVDh5WHV6b0tIUVNTRXNURmI?oc=5",
+      "pub_date": 1791416443.0,
+      "article_url": "https://www.foxnews.com/live-news/open-ai-anthropic-us-tech-security-october-7",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/ab498c6f42a5620cabfc827783735ea6.jpg",
+      "description": "OpenAI says one of its internal models found the answers to hundreds more unsolved math problems on Wednesday, publishing proofs for the problems in a public GitHub repository. Meanwhile, billionaire investor Ray Dalio is warning that the AI industry bubble may be about to burst."
     },
     {
-      "headline": "White House AI czar Jay Clayton: You have to develop technologies in a way that promotes safety",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFJLWE1kLWlPYmpwTGVqbUI0NG4yMzFvSlZxSThWeDVFUktTSExId2o5d0k0ZUVRam5qeGgzbktISHhSZUc4c0M5WDRzMWZvQ0x0ajJkWklES0FZN21yY24wdWZwOVU2bzNYR25SUHJLMUwzQWxjU2l0NHByd0sxQjVXcFZMTHc5bVRoWjUybmpoS2tnTElRc3VIUFJOYkF4eUlZUmhIZ2RacjhnRDN5UlVmTDVwMGNXV1dvX1J2NmZHbjBnMGNMY2t4VHBDNEpubWhv?oc=5",
-      "pub_date": 1791401326.0,
-      "article_url": "https://www.cnbc.com/video/2026/10/07/white-house-ai-czar-jay-clayton-you-have-to-develop-technologies-in-a-way-that-promotes-safety.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374348-17914011441791401141-48853018918-1080pnbcnews.jpg?v=1791401143&w=1920&h=1080",
-      "description": "CNBC\u2019s David Faber and Nikesh Arora, Palo Alto CEO, and Jay Clayton, White House AI czar, join 'Closing Bell' to discuss the future of AI and cybersecurity."
-    },
-    {
-      "headline": "Answering Key Questions About AI Consciousness That\u2019s In The Spotlight Right Now",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0hvbnd5TldTRkFWZVFUTjE4dWpldUxJanRpcG0yWm5CR290Y0o3cmFwcV9qU1VYTnVCVGJMVFFad29kczJ0M1VNanJVZmFYTlZpY2NXaHJENlhfNDBKU1RSbXUtVjdqMzcyeTlTOXhTekQ5TDFQUHNfZVNab25wRVh2bnd4SWhhMzFFQ1NUbEItNndZcExMbnhIa3ltVGZkbU10MXctSUNuRktwNU1HalFmQzhCQ3pPVkUwMERSUkx3RVhMVzY2Nzgyaw?oc=5",
-      "pub_date": 1791401848.0,
-      "article_url": "https://www.forbes.com/sites/lanceeliot/2026/10/07/answering-key-questions-about-ai-consciousness-thats-in-the-spotlight-right-now/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | He\u2019s the Most Powerful Engineer on Earth. Here\u2019s Why He Thinks A.I. Is Going Great.",
+      "headline": "He\u2019s the Most Powerful Engineer on Earth. Here\u2019s Why He Thinks A.I. Is Going Great.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkdPdnU1M2xCV1lWSUVnU3BORnhBUHptZ1VSUkwySHVjcV91THBlcjdRUlktRExqTWtZVF9JS01qbHhuVjBacXBHQjRhTnMtMUVKY3R5MzVPZ01nNXhxc3E1TEFUaElNYVc5WXZuV1M2VmZfY3hlYU8yU0dlQVo4bQ?oc=5",
@@ -65,46 +45,66 @@
       "description": null
     },
     {
-      "headline": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5",
-      "pub_date": 1791397852.0,
-      "article_url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
-      "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers."
+      "headline": "Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGR6M2gxc2tYM1YxN1M3WnpZdmt3OEN4SFVJbHlOMFN4WW44MlJzLTRCMklUNWVTNUtHUE1yd3ZnLUZjaGNGVUpGVDQ5MnU5ZzBiRDdXam9tcGsxR2wzYzFPdFk2aVc5X3lVUVVZanZ6MFdGOGhYWTlLN09ZMEFuYTY4UU81ZU91UThWZnZBbGx0cmxxemRVMjhiOFlIUkI0RElPbVlrMTE2RmNpV2dqS18tS19VbWpxTHVhUlRFS0Y4RGY2c1NLczBibDF0SWVRWk04?oc=5",
+      "pub_date": 1791399390.0,
+      "article_url": "https://finance.yahoo.com/technology/article/microsoft-debuts-nvidia-powered-surface-laptop-ultra-as-it-aims-for-ai-market-185630649.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0178bd15ca80f05022997e782fe55b9cb64d12d6a36db28f5a0fcb32b96b5fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fsurface-laptop-ultra-opened_6543.png",
+      "description": "Microsoft debuted its Surface Laptop Ultra, powered by Nvidia's RTX chip on Wednesday."
     },
     {
-      "headline": "Microsoft looks to reboot the AI PC with Nvidia",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpGQ0x6Umk4NEY4YlpBaE1KN19wcE1rbklvV3lOdUk5TjhDUEJKUHFOOWdiNU1vem9FTTVfcTBaX0FGQXptZ3lYT1NDeTlrX21jeG5JWjA4bDdxQXhKNm5id3R5UGRoYkJaUjA1TVV2NzNOUkx5UXNDZ3ZCNWZqV2xzbnJFbzg?oc=5",
-      "pub_date": 1791397423.0,
-      "article_url": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia",
+      "headline": "Microsoft brings more AI to PCs as it challenges Apple",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+      "pub_date": 1791407503.0,
+      "article_url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Microsoft plays the Windows card in the AI game, with help from Nvidia",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZLeUxsRXo3dGM4c0xsRVQ2b2Z6WEpRMlV3cHYtWm12SW5salRSQzJ1c1cza0RuLUJKU1F3SGdHc1c4M2s4bFptYUxmM2l4b0dxcnhMY3RBWkQtNEJVci1VOXF4QkNpZzl0WVU4RHAxNTJJd1hDSEhvUnZUaFZrZTBDc3NkWEQ2UnJJMVNmX3JlRkZnM3RzbkQ4ZmlQNHRkc0E?oc=5",
-      "pub_date": 1791402754.0,
-      "article_url": "https://www.geekwire.com/2026/microsoft-plays-the-windows-card-in-the-ai-game-with-help-from-nvidia/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/nadella-huang-windows-event-crop.jpg",
-      "description": "At an event in San Francisco, Microsoft announced features that will let Copilot read the files on a PC, take actions on the machine and run AI models locally instead of in the cloud. New PCs built around an Nvidia chip, including a $2,599 Surface laptop, start shipping Oct. 16."
+      "headline": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzl6VTAxVlJicTZvVFVfTXNsUHpyOFk2TmNDakY2ZFRkeTdyOVQ0VmtNYzE1MWwtd3o5SFB5TnJvSnNwN050bXVCamluX3luTklUby1GWXluZHctaHpEcGFFd2NleF9Ua3ZUdEtTenF0VEJKVnpHeWdxZEJUOVFzd3pJU2hOTkRMNXpfS0t6eDNwRnFpWnVSMWtzWS1MUGdlWElXQ3JMQzlOSzJL?oc=5",
+      "pub_date": 1791417624.0,
+      "article_url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png",
+      "description": "Get ready for more AI in your Windows and more AI on the desktop."
     },
     {
-      "headline": "The unexpected ways that AI is reshaping the U.S. economy",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
-      "pub_date": 1791388800.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/07/ai-is-propping-up-economy-including-manufacturing-ads-energy/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJ5SLP4UNND35MKJALPFX7QFOQ_size-normalized.jpg&w=1440",
-      "description": "The technology is bringing new prosperity to certain parts of the economy, but also creating new vulnerabilities."
+      "headline": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
+      "pub_date": 1791416217.0,
+      "article_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
+    },
+    {
+      "headline": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYk1Ed3NvZDhDNE52UmRndVRZSEtXa0h3MnFNODd2ZVBzX0YyTzVUTzhSSlpaZUlkZ0xlaktHbUtBTW9ZMzI0T05TdXhqdGFldEtXdmowajJRMFpSRmNORWpfMURaTTDSAWxBVV95cUxNTDMyVlo4VERLanFwMHgtVnk2YjVzWEcwZE41UHpwMVUyMno4bjVjRlYya0JmU0xMY0hnaGktODN3MU5YeGxRN0s0YjJFTlQtRmJzQ1BEVGZUZE5LVkhEOTR1dkJ3YmxCS1BpNXc?oc=5",
+      "pub_date": 1791413463.0,
+      "article_url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
+      "description": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time."
+    },
+    {
+      "headline": "Introducing Playground: Create and play custom games",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3h6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5",
+      "pub_date": 1791375427.0,
+      "article_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.width-1300.png",
+      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T20:04:55.388131+00:00"
+  "fetched_at": "2026-10-08T00:19:49.784615+00:00"
 }

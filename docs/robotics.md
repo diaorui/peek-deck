@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-07T20:04:57.108266+00:00'
+updated: '2026-10-08T00:19:51.786152+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 07, 2026 at 20:04 UTC  
+**Last Updated:** October 08, 2026 at 00:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-7h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-21h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 ​ Running on STM32 Bluepill. ESP32cam for image steaming. OpenCV for image processing. LLM for speech & intent extraction.
 
-8h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh – 6000mAh) x 1 I have been working on a bipedal version hence the "2 more to go" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)
 
-6h ago
+10h ago
 
 ---
 
@@ -68,7 +68,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Robot manipulation policies are usually trained under the assumption that a commanded action produces the same motion as it did during training even after hours of operation. Real hardware violates this assumption as the motors gradually heat up, current saturates near contact, voltage sags under load, thus the same policy action can produce a weaker, delayed, or noisier motion.
 
-🔗 [Robotics Research Hub](https://papers.tinrobotics.com/paper/test-time-adaptation-of-manipulation-policies-under-actuator-degradation/) • 11h ago
+🔗 [Robotics Research Hub](https://papers.tinrobotics.com/paper/test-time-adaptation-of-manipulation-policies-under-actuator-degradation/) • 15h ago
 
 ---
 
@@ -76,7 +76,7 @@ Robot manipulation policies are usually trained under the assumption that a comm
 
 Reliable depth perception is a key requirement for indoor robotics, but achieving consistent depth data across different surfaces can be challenging in real-world deployments. AMRs, ASRS robots, humanoids and robotic arms may need to operate around: Dark or black surfaces Reflective objects Moving robots and objects Motion blur Obstacles at both short and extended distances Dense point-cloud requirements Real-time processing without placing the entire workload on the host CPU/GPU Active stereo is one approach that can help address these challenges. By projecting additional texture into the scene, the camera does not have to rely entirely on naturally occurring surface detail for stereo matching. Another approach uses two global-shutter monochrome sensors with an IR component and performs the stereo depth calculation directly on the camera. This allows the host system to receive computed depth data instead of handling the initial stereo-processing stage itself. That can help simplify the perception pipeline and preserve host resources for other robotics workloads. For indoor robotics applications, which of these areas has been the biggest challenge in your experience? Reliable depth on dark, reflective or low-texture surfaces Maintaining depth accuracy while the robot is moving Processing depth data with low latency Generating useful dense point clouds Integrating depth with RGB, IMU and the ROS 2 perception stack I've been looking into an active-stereo implementation that combines depth, RGB, IMU and on-camera AI in a single camera platform. What depth-sensing approach are you using in your robotic system, and where have you seen the main limitations?
 
-9h ago
+13h ago
 
 ---
 
@@ -98,13 +98,13 @@ High-speed, low-latency indoor positioning for autonomous robots and drones in G
 
 **[Best precision achievable with GNSS RTK ?](https://www.reddit.com/r/robotics/comments/1wzqori/best_precision_achievable_with_gnss_rtk/)**
 
-12h ago
+16h ago
 
 ---
 
 **[Jenga Bot pt2: Pez for robots](https://www.reddit.com/r/robotics/comments/1wzmptq/jenga_bot_pt2_pez_for_robots/)**
 
-🔗 [thisismypersonalblog.com](https://thisismypersonalblog.com/posts/2026-10-07-pez-for-robots/) • 16h ago
+🔗 [thisismypersonalblog.com](https://thisismypersonalblog.com/posts/2026-10-07-pez-for-robots/) • 20h ago
 
 ---
 
@@ -114,7 +114,7 @@ High-speed, low-latency indoor positioning for autonomous robots and drones in G
 
 **[Mixed Human Feelings After a Day at a Park Full of Robots](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -128,15 +128,13 @@ Business Insider • 1d ago
 
 **[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
 
-South China Morning Post • 36m ago
+South China Morning Post • 4h ago
 
 ---
 
-**[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer](https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/)**
+**[FireFly Robotics files for Nasdaq direct listing](https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/)**
 
-Boston Dynamics today announced the appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026.
-
-Boston Dynamics • 21h ago
+Reuters • 6h ago
 
 ---
 
@@ -154,12 +152,6 @@ GeekWire • 2d ago
 
 ---
 
-**[Watch Sequoia, Nvidia Back Mecka AI’s Robotics Push](https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video)**
-
-Bloomberg.com • 1h ago
-
----
-
 **[Ranked: Countries With the Most Industrial Robots per Worker](https://www.visualcapitalist.com/ranked-countries-most-industrial-robots-per-worker-2024-v2/)**
 
 South Korea leads the 2024 ranking of industrial robots per worker. See how 22 economies compare, including China and the United States.
@@ -168,17 +160,27 @@ Visual Capitalist • 1d ago
 
 ---
 
-**[Agility Robotics to Livestream Analyst & Investor Day Today](https://www.businesswire.com/news/home/20261006653416/en/Agility-Robotics-to-Livestream-Analyst-Investor-Day-Today)**
-
-Business Wire • 1d ago
-
----
-
 **[TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video](https://venturebeat.com/technology/twelvelabs-debuts-pegasus-1-6-to-improve-robotics-training-data-from-first-person-video)**
 
 For an enterprise early in robotics, a useful starting point would be one bounded workflow, such as packing a particular product or assembling a specific part.
 
 VentureBeat • 1d ago
+
+---
+
+**[Kraken Robotics (TSXV:PNG) Is Up 5.8% After Q2 Results Highlight Backlog And Covelya Integration Questions](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-tsxv-png-5-110651755.html)**
+
+In early October 2026, Kraken Robotics reported Q2 2026 revenue of C$27.3 million and adjusted EBITDA of C$5.0 million, supported by a combined 2026 order book of about C$355 million including the newly acquired Covelya business. The market reaction highlights how questions around the timing of converting this backlog into revenue, and integration of Covelya, are becoming just as important to investors as the headline growth opportunity itself. Next, we’ll examine how concerns over revenue...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[These Robots Built BMWs, Then Hurled Themselves Into Molten Steel](https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel)**
+
+A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies.
+
+The Drive • 1d ago
 
 ---
 
@@ -192,37 +194,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 📺 PRO ROBOTS
 
-👁️ 25K • 👍 351 • 💬 48 • ⏱️ 23:29 • 4d ago
+👁️ 25K • 👍 352 • 💬 48 • ⏱️ 23:29 • 4d ago
 
 ---
 
-**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
+**[Nvidia’s Next Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=JbgbLpZu8EU)**
 
-What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
+The Information's Nvidia reporter Phoebe Liu reports that Nvidia plans to invest another $1 billion in Figure next year.
 
-📺 ejunky66
+📺 The Information
 
-👁️ 76K • 👍 1K • 💬 86 • ⏱️ 1:00 • 3d ago
-
----
-
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 56K • 👍 752 • 💬 87 • ⏱️ 13:23 • 4d ago
-
----
-
-**[Best Robot Vacuum &amp; Mop on Sale Amazon Big Deal Days 2026](https://www.youtube.com/watch?v=6siFoX8cXec)**
-
-SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amazon Big Deal Days is here, and there are a ...
-
-📺 Just A Dad Approved
-
-👁️ 18K • 👍 215 • 💬 112 • ⏱️ 22:11 • 1d ago
+👁️ 263 • 👍 4 • ⏱️ 0:42 • 3h ago
 
 ---
 
@@ -232,7 +214,47 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 📺 ejunky66
 
-👁️ 4.1M • 👍 62K • 💬 2K • ⏱️ 1:00 • 5d ago
+👁️ 4.1M • 👍 63K • 💬 2K • ⏱️ 1:00 • 5d ago
+
+---
+
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+
+📺 AI Revolution
+
+👁️ 57K • 👍 756 • 💬 88 • ⏱️ 13:23 • 5d ago
+
+---
+
+**[✅ Best Robot Vacuum 2026 [Find Which One is Right for YOU?]](https://www.youtube.com/watch?v=dT1nIzU7-Xc)**
+
+Best Robot Vacuum 2026 – Looking for the best robot vacuum? We've selected the top options based on cleaning performance, ...
+
+📺 Foremost Picks
+
+👁️ 25K • 👍 210 • 💬 8 • ⏱️ 11:52 • 4d ago
+
+---
+
+**[Elon Musk Plans In MAJOR TROUBLE As Tesla Robot Downfall Exposed By New Report](https://www.youtube.com/watch?v=RvksTqeFGNk)**
+
+Elon Musk's plans are falling apart as his timeline claims crumble with new report revealing his Tesla robot failures and blocks.
+
+📺 The Damage Report
+
+👁️ 86K • 👍 3K • 💬 862 • ⏱️ 8:31 • 4d ago
+
+---
+
+**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
+
+What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
+
+📺 ejunky66
+
+👁️ 77K • 👍 1K • 💬 86 • ⏱️ 1:00 • 3d ago
 
 ---
 
@@ -242,45 +264,27 @@ Boston Dynamics is turning Atlas into a real AI factory worker inside Hyundai's 
 
 📺 MACHINEKIND
 
-👁️ 47K • 👍 540 • 💬 56 • ⏱️ 13:34 • 4d ago
+👁️ 47K • 👍 540 • 💬 56 • ⏱️ 13:34 • 5d ago
 
 ---
 
-**[Japan&#39;s Insane ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=_bYQvpyK25Y)**
+**[New Hands for Atlas | Boston Dynamics](https://www.youtube.com/watch?v=4whgw2gLBS8)**
 
-Japan's Insane ROBOT PARADE Just Stunned the Entire World.
+This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...
 
-📺 rubenfoto1
+📺 Boston Dynamics
 
-👁️ 14K • 👍 186 • 💬 17 • ⏱️ 26:56 • 2d ago
-
----
-
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
-
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
-
-📺 CNET
-
-👁️ 48K • 👍 462 • 💬 61 • ⏱️ 6:34 • 3d ago
+👁️ 2.4M • 👍 36K • 💬 3K • ⏱️ 5:35 • 6d ago
 
 ---
 
-**[They Trained Robots to Jump Into Molten Steel 🤖🔥](https://www.youtube.com/watch?v=883Yhv1qlU4)**
+**[Best Robot Vacuum &amp; Mop on Sale Amazon Big Deal Days 2026](https://www.youtube.com/watch?v=6siFoX8cXec)**
 
-This looks like a scene from Terminator… but it actually happened. Robotics company Figure retired its F.02 humanoid ...
+SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amazon Big Deal Days is here, and there are a ...
 
-📺 Wow Theory
+📺 Just A Dad Approved
 
-👁️ 4K • 👍 128 • 💬 7 • ⏱️ 0:27 • 6h ago
-
----
-
-**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
-
-📺 Ben Esherick
-
-👁️ 1.2M • 👍 75K • 💬 1K • ⏱️ 0:34 • 1d ago
+👁️ 20K • 👍 224 • 💬 112 • ⏱️ 22:11 • 1d ago
 
 ---
 

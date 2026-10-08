@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-07T20:04:57.098769+00:00'
+updated: '2026-10-08T00:19:51.778053+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 07, 2026 at 20:04 UTC  
+**Last Updated:** October 08, 2026 at 00:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,396.68
+### $83,279.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -1.6%  
+**24h:** -1.2%  
+**7d:** -1.4%  
 **30d:** +6.5%  
-**90d:** +30.1%  
-**1y:** -32.4%  
+**90d:** +30.6%  
+**1y:** -31.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1675.64B
+**Market Cap:** $1672.87B
 Rank #1
 
-**Circulating Supply:** 20,094,900 BTC
+**Circulating Supply:** 20,094,918 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.9%
+-34.0%
 
 **All-Time Low:** $67.81
-+122886.3%
++122668.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 71
+### 64
 **GREED**
 
 ---
@@ -121,7 +121,7 @@ I was so happy when I saw this!
 
 Cory Klippsten on Washington's growing comfort with higher inflation, and why his answer is Bitcoin. In his latest Time interview, President Trump said "certain levels of inflation will also pay off that debt very rapidly." On CNN, former PIMCO CEO Mohamed El-Erian told the Fed to keep promising 2% while gradually raising the acceptable ceiling to 3. Back in 2023, former IMF chief economist Olivier Blanchard argued for a 3% target. Others are warning where this leads. J.P. Morgan Private Bank's 2026 Outlook described a risk to its clients: policymakers deliberately tolerating higher inflation, allowing real interest rates to fall and the government's debt burden to shrink. The report calls that financial repression. In January, Janet Yellen warned that "the temptation to rely on inflation or financial repression to reduce the debt burden will surely grow." Inflation lets the government repay its old debts with dollars that are worth less, even though higher refinancing costs can eat up the benefit. Congress can raise taxes or cut spending, and voters know exactly who to blame. With inflation, the cost arrives through higher prices, and the blame gets spread around. What sounds like debt relief in Washington means the dollars people earn and save buy less.
 
-23h ago
+1d ago
 
 ---
 
@@ -129,7 +129,7 @@ Cory Klippsten on Washington's growing comfort with higher inflation, and why hi
 
 i'm not even in the market. i'm in the waiting room.
 
-1d ago
+2d ago
 
 ---
 
@@ -151,9 +151,11 @@ It's lower level than money. It is the system that allows you to have electronic
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
+**[Bitcoin Falls as $550 Million in Risky Crypto Bets Wiped Out](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-550-million-risky-094845532.html)**
 
-Barron's • 2h ago
+Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -161,31 +163,39 @@ Barron's • 2h ago
 
 Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000.
 
-CoinDesk • 9h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin Falls as $550 Million in Risky Crypto Bets Wiped Out](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-550-million-risky-094845532.html)**
+**[NEAR Protocol Is Up 122% in a Month While Bitcoin Gained 8%. Can the Rally Last?](https://finance.yahoo.com/markets/crypto/articles/near-protocol-122-month-while-223011053.html)**
 
-Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite.
+NEAR Protocol has rocketed past Bitcoin, Ethereum, and Solana over the past month, but the surge lacks any confirmed catalyst, and a massive overhang of underwater sellers from 2022 looms over the rally.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Here's What $1,000 in Each of These 6 Cryptocurrencies Could Be Worth by 2030](https://www.fool.com/investing/2026/10/07/heres-what-1000-in-each-of-these-6-cryptocurrencie/)**
-
-Bitcoin, Solana, XRP, Cardano, Dogecoin, and Shiba Inu could head in different directions.
-
-The Motley Fool • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[BingX's Kevin Lee Says Old Money Has Bitcoin 'Diamond Hands'](https://bitbo.io/news/bingx-kevin-lee-old-money/)**
+**[The Quantum Issue: Bitcoin Quantum Exposure At Block 950,000](https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000)**
 
-BingX strategy chief Kevin Lee said at Token2049 that wealthy investors take a long-term view of Bitcoin, though family-office exposure remains low.
+From The Quantum Issue: a breakdown of how much of Bitcoin's supply is vulnerable to quantum attack, and the logistical questions of changing that.
 
-Bitbo • 6h ago
+Bitcoin Magazine • 7h ago
+
+---
+
+**[Gibson County residents raise concerns over proposed bitcoin mining facility](https://www.wbbjtv.com/2026/10/07/gibson-county-residents-raise-concerns-over-proposed-bitcoin-mining-facility/)**
+
+A proposed bitcoin mining facility could be built along Hughes Loop Road in the Milan area. The proposal calls for about six acres to be rezoned from agricultural to industrial.
+
+WBBJ-TV • 2h ago
+
+---
+
+**[Bitcoin buyers dig in between $81K and $82K as sellers thin out](https://www.tradingview.com/news/cryptobriefing:39e6a0ad3094b:0-bitcoin-buyers-dig-in-between-81k-and-82k-as-sellers-thin-out/)**
+
+Bitcoin buyers have been steadily stacking coins between $81,000 and $82,000. Above $83,300, sell orders have become surprisingly hard to find.The buying in that zone has been building since late September 2026. That was when Bitcoin slipped from highs near $87,000, with the peak placed at approxim…
+
+TradingView • 8h ago
 
 ---
 
@@ -193,15 +203,19 @@ Bitbo • 6h ago
 
 Government-labeled wallets sent 833.6 Bitcoin to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed.
 
-Decrypt News • 3h ago
+Decrypt News • 7h ago
 
 ---
 
-**[Current price of Bitcoin for October 5, 2026](https://fortune.com/article/price-of-bitcoin-10-05-2026/)**
+**[‘Opened The Floodgates’—BlackRock Confirms Huge Bitcoin ETF Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/10/07/opened-the-floodgates-blackrock-confirms-huge-bitcoin-etf-price-game-changer/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Forbes • 13h ago
 
-Fortune • 2d ago
+---
+
+**[Arch Lending Co-Founder Makes the Case for Bitcoin-Backed Loans at Three Corporate Bitcoin Events](https://www.morningstar.com/news/pr-newswire/20261007ny66090/arch-lending-co-founder-makes-the-case-for-bitcoin-backed-loans-at-three-corporate-bitcoin-events)**
+
+Morningstar • 7h ago
 
 ---
 
@@ -209,21 +223,7 @@ Fortune • 2d ago
 
 South Africa’s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers
 
-Business Insider Africa • 12h ago
-
----
-
-**[‘Opened The Floodgates’—BlackRock Confirms Huge Bitcoin ETF Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/10/07/opened-the-floodgates-blackrock-confirms-huge-bitcoin-etf-price-game-changer/)**
-
-Forbes • 9h ago
-
----
-
-**[Coinbase's Ryan VanGrack: CFTC Approval "Opens Many Doors" For Bitcoin](https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin)**
-
-Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase’s Ryan VanGrack explains why ETFs and direct holding can both thrive.
-
-Bitcoin Magazine • 1d ago
+Business Insider Africa • 16h ago
 
 ---
 
@@ -247,7 +247,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
 
-⬆️ 2 • 💬 0 • 4h ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
+⬆️ 2 • 💬 0 • 8h ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
 
 ---
 
@@ -255,7 +255,7 @@ Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone p
 
 Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
 
-⬆️ 2 • 💬 0 • 21h ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
+⬆️ 2 • 💬 0 • 1d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
 
 ---
 
@@ -283,25 +283,9 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ---
 
-**[Show HN: Checkout this open-source, local-first bioinformatics/AI desktop app](https://news.ycombinator.com/item?id=49993984)**
+**[The AI Agents Pitching Lit Mags to Stay Alive](https://news.ycombinator.com/item?id=50000115)**
 
-A desktop app that runs bioinformatics tools, AI, and pipelines locally. Your data never leaves your machine — Rust-powered native speed, even on multi-gigabyte files. - Liatir/liatir-app
-
-⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/Liatir/liatir-app)
-
----
-
-**[Florida weighs ditching property taxes and sticking Canadians with the bill](https://news.ycombinator.com/item?id=49954499)**
-
-Florida voters are weighing whether to scrap residential property taxes and the state's governor has a solution to that potentially huge revenue loss: tax Canadians more.
-
-⬆️ 29 • 💬 42 • 3d ago • [CBC](https://www.cbc.ca/news/world/florida-property-taxes-canadian-snowbirds-9.7366814)
-
----
-
-**[My own personal whim, ditching all my devices for my phone](https://news.ycombinator.com/item?id=49977131)**
-
-⬆️ 1 • 💬 0 • 1d ago • [castignoli.it](https://www.castignoli.it/tecnologia/my-own-personal-whim-ditching-all-my-devices-for-my-phone/)
+⬆️ 2 • 💬 0 • 56m ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
 
 ---
 
@@ -309,23 +293,63 @@ Florida voters are weighing whether to scrap residential property taxes and the 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: The Line in the Sand](https://www.youtube.com/watch?v=aEd5onhPxUs)**
+
+0:00 - INTRO 6:01 Comparing the rally with Bitcoin in 2019 14:09 Apathetic tops, terminal price, and altcoins 20:36 Monetary ...
+
+📺 Benjamin Cowen
+
+👁️ 97K • 👍 3K • 💬 193 • ⏱️ 54:23 • 9h ago
+
+---
+
 **[Bitcoin Loses $84K: Is the Flush Over?](https://www.youtube.com/watch?v=9Rf3oWM9Y1Q)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 725 • 💬 57 • ⏱️ 54:14 • 4h ago
+👁️ 27K • 👍 817 • 💬 65 • ⏱️ 54:14 • 9h ago
 
 ---
 
-**[Bitcoin Keeps Getting Rejected.  Here&#39;s What Happens Next.](https://www.youtube.com/watch?v=Pq_PmdIuvTc)**
+**[BITCOIN: Don’t Miss This Next Turning Point! [My Plan]](https://www.youtube.com/watch?v=oJUN7XsN2NI)**
 
-Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Trezor: https://aaronbtc.com/trezor ...
+Bitcoin is approaching a turning point that could be the best opportunity traders have seen in years. In today's video, Kyle Doops ...
 
-📺 Aaron Bennett
+📺 Crypto Banter
 
-👁️ 15K • 👍 492 • 💬 70 • ⏱️ 12:19 • 15h ago
+👁️ 28K • 👍 1K • 💬 26 • ⏱️ 45:51 • 16h ago
+
+---
+
+**[BITCOIN: WARNING SIGNAL FLASHING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=US-ch8JnuUg)**
+
+Free Trading Course https://rt1m.com/free Free Trading Community https://discord.com/invite/jRAnCV9CTB [I never send ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 200 • 💬 25 • ⏱️ 7:09 • 5h ago
+
+---
+
+**[$2 Million Bitcoin THIS CYCLE - Robinhood Just Bought Bitcoin For The First Time](https://www.youtube.com/watch?v=M_znoN81e_g)**
+
+KALSHI: Trade Crypto Perpetuals + Get a $50 Bonus: https://kalshi.com/p/bitcoinnewsalerts Robinhood just made its first Bitcoin ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 224 • 💬 51 • ⏱️ 15:08 • 5h ago
+
+---
+
+**[🔴 BITCOIN DUMPING — IS THIS THE BIG MOVE? | BTC LIVE TRADING](https://www.youtube.com/watch?v=vHYBmDcKQAw)**
+
+BITBASE COMPETITION https://www.bitbase.com/activity/futures-trading-competition/jctscompettion?ref=UGWQBC Signup ...
+
+📺 Jayson Casper
+
+👁️ 8K • 👍 246 • 💬 1 • ⏱️ 1:15:51 • 4h ago
 
 ---
 
@@ -335,47 +359,7 @@ Bitcoin was supposed to bottom today and now the four year cycle seems broken. B
 
 📺 Crypto Zombie
 
-👁️ 22K • 👍 1K • 💬 118 • ⏱️ 27:35 • 1d ago
-
----
-
-**[Bitcoin Crashes as the US Govt Sells: Where Does the Crash Stop?](https://www.youtube.com/watch?v=CFDP0m8mc2M)**
-
-US government wallets just moved Bitcoin to Coinbase Prime. The market sold first and asked questions later. Trade alongside ...
-
-📺 Verified Investing
-
-👁️ 5K • 👍 483 • 💬 37 • ⏱️ 17:59 • 2h ago
-
----
-
-**[BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8JkwptZQalI)**
-
-BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 364 • 💬 142 • ⏱️ 20:19 • 8h ago
-
----
-
-**[🚨 BTC &amp; CRYPTO: This DATA Just Proved The COLLAPSE Is NEAR!!!! (Urgent Analysis.)](https://www.youtube.com/watch?v=KKwsavZIf54)**
-
-Bitcoin is holding on quite well. Which you cannot really say about the rest of crypto. Here is my latest analysis and brand new ...
-
-📺 Thomas Kralow
-
-👁️ 25K • 👍 1K • 💬 39 • ⏱️ 14:24 • 8h ago
-
----
-
-**[Why I Just Went ALL IN (6 Crypto Coins) Fully Explained in 14 minutes!](https://www.youtube.com/watch?v=6SIu6kixAoc)**
-
-Crypto Is About To Go NUCLEAR… You've Been Warned ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 96K • 👍 3K • 💬 213 • ⏱️ 13:41 • 1d ago
+👁️ 23K • 👍 1K • 💬 120 • ⏱️ 27:35 • 1d ago
 
 ---
 
@@ -385,27 +369,27 @@ Bitcoin's 50, 100, and 200 day moving averages just stacked in the order that's 
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 97 • ⏱️ 15:40 • 22h ago
+👁️ 39K • 👍 2K • 💬 100 • ⏱️ 15:40 • 1d ago
 
 ---
 
-**[The Bitcoin Supply Shock Is About to FORCE Bitcoin to EXPLODE!! | EP 1607](https://www.youtube.com/watch?v=DK_I_D-t7CA)**
+**[The SEC approved a 3x Bitcoin ETF. It isn&#39;t what it sounds like.](https://www.youtube.com/watch?v=s_Hiedm9kEQ)**
 
-Bitcoin testing $87k again and price action looks bullish - can we breakout today?
+The Clarity Act died. Crypto is getting it one rule at a time. In five days the SEC approved the first 3x leveraged Bitcoin and Ether ...
 
-📺 Simply Bitcoin
+📺 Yahoo Finance
 
-👁️ 15K • 👍 337 • 💬 46 • ⏱️ 1:29:53 • 1d ago
+👁️ 22K • 👍 415 • 💬 67 • ⏱️ 14:58 • 1d ago
 
 ---
 
-**[Turtle Moon Launches the Bitcoin Browser | Patches on Bitcoin as the Decentralized Data Backbone](https://www.youtube.com/watch?v=VH0-crcx-xI)**
+**[BREAKING: BITCOIN GOLDEN CROSS QUICKLY APPROACHES](https://www.youtube.com/watch?v=-Tu4DJsnOQs)**
 
-Turtle Moon just released the Bitcoin Browser, an open-source app that treats Bitcoin as the decentralized data backbone of the ...
+DOMINATE THE BOTTOM ⬇️JOIN THE WAITLIST ⬇️ https://cryptocrewuniversity.com/mr5 Subscribe for Bitcoin and crypto ...
 
-📺 Genfinity
+📺 Crypto Crew University
 
-👁️ 39K • 👍 21 • 💬 1 • ⏱️ 30:39 • 1d ago
+👁️ 30K • 👍 2K • 💬 104 • ⏱️ 16:49 • 11h ago
 
 ---
 

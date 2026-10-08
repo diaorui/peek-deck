@@ -35,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
-      "source": "Boston Dynamics",
-      "source_url": "https://bostondynamics.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQW9oV1hQNUFUbXNQeVU3QjRKMVRqSnZKdnVGWmhnUE5QaEsyV09nWVB2NkFMd3pKaGN5ZFhXeDY4eDFyRUo3bnE1MG5Qd00tOEo0NngxVV8zQUo4OTkzTXRocmExbm9iZmROTXNJN3JSVVB3dkpZQzB1a1U3dDk2UHE5dERVSDZHZzFOM0I0WHlYOTJvMzRQMUUxUXNMdw?oc=5",
-      "pub_date": 1791324331.0,
-      "article_url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
-      "image": "https://bostondynamics.com/wp-content/uploads/2026/10/rohit-prasad-profile-pic.jpg",
-      "description": "Boston Dynamics today announced the appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026."
+      "headline": "FireFly Robotics files for Nasdaq direct listing",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlDaEwtTEw4V0tjU2diYkV2cG9BbGxJYmdBM2VUTzcxUXFOR1N6NWo5b2dpRkM3TkRtZFNhNDNKZGNjMlRfdDhMR2M2bVBFanI2aUJTUk5SakNSM1R2Z2hSRXpsUFU1dExIaWJQU2xvM2dmM1F4bjgwN1g4UWxsYW5MSWF5Nlk0eWJRS1FFNHlBOUE?oc=5",
+      "pub_date": 1791393703.0,
+      "article_url": "https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
@@ -65,16 +65,6 @@
       "description": "Space station astronauts will install Seattle startup's arms on one of NASA's cube-shaped robots for a milestone in-orbit demonstration."
     },
     {
-      "headline": "Watch Sequoia, Nvidia Back Mecka AI\u2019s Robotics Push",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXI3YkpuaG00UkVZakdhX0RRQVZXZndON2R6d0FIelp4MWtBc2czRE9uN1ppeGFXTy1QWFZXb1ZhN1I5NkZBcU9ndGlHOWZEdVFjQnlsNm8zNzVXU3pMa1Q4aDFWYk50Qi1SOUZ0YmRrSEtKbG1VZy11LWxNN2VZUkFucV8zX2w2QTljWXBqczVQVFJ3QkhHWG9ERDNkbXdm?oc=5",
-      "pub_date": 1791396643.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Ranked: Countries With the Most Industrial Robots per Worker",
       "source": "Visual Capitalist",
       "source_url": "https://www.visualcapitalist.com",
@@ -85,16 +75,6 @@
       "description": "South Korea leads the 2024 ranking of industrial robots per worker. See how 22 economies compare, including China and the United States."
     },
     {
-      "headline": "Agility Robotics to Livestream Analyst & Investor Day Today",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlJpbjVxeWFab20zQUIzUndpdjdBRWh3SDJ4MWFmX2xlZEc0SXlycDJXejBpNGR6M0J1d09vMHpKN3N1ZC1kS2dZUEtraWt6ejdGUExJUXB2ZTlXRlgyNWJoaDE1VUNyMjhjb1ZnR3g1VmRXTWJhN1R1RDFBY042ZElCZVNEVTZ5OWt5cjFaQTFPZW5YbG1uMlRkRlRIcVlkazBqU21qdWdGdVhJU1c4QlFrLWE?oc=5",
-      "pub_date": 1791284400.0,
-      "article_url": "https://www.businesswire.com/news/home/20261006653416/en/Agility-Robotics-to-Livestream-Analyst-Investor-Day-Today",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
       "source": "VentureBeat",
       "source_url": "https://venturebeat.com",
@@ -103,8 +83,28 @@
       "article_url": "https://venturebeat.com/technology/twelvelabs-debuts-pegasus-1-6-to-improve-robotics-training-data-from-first-person-video",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6sC9CY4VDuP6XfDcavxobi/a8b1928b222cffdd03ca957f7ce8ad0d/Gemini_Generated_Image_48rwu748rwu748rw.jpeg?w=800&q=75",
       "description": "For an enterprise early in robotics, a useful starting point would be one bounded workflow, such as packing a particular product or assembling a specific part."
+    },
+    {
+      "headline": "Kraken Robotics (TSXV:PNG) Is Up 5.8% After Q2 Results Highlight Backlog And Covelya Integration Questions",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFdaVTFKQy13eENjX1ZQaVFqMk5fQmlYaHltTWVBMzd3cDN2NGtlTzRLeFo2Wkd3M25xbFZQR3lXb2xFYVVZVjNrTi1xX3dZUEhObHE1Y21JemVRX1VhbWpiSVlxN0MtUHZRRGRNWmpyOWREV1BEZXBCeU9jSzVSOVRiczdRTmFwLUxzZVhpc1lTV2pDV1E?oc=5",
+      "pub_date": 1791284811.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-tsxv-png-5-110651755.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0f3765e17a438f259449872487aa1d83389fc02185870f772674947bb8b1458b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F390811ad78e8f93681fc56be8fe8ed14.jpg",
+      "description": "In early October 2026, Kraken Robotics reported Q2 2026 revenue of C$27.3 million and adjusted EBITDA of C$5.0 million, supported by a combined 2026 order book of about C$355 million including the newly acquired Covelya business. The market reaction highlights how questions around the timing of converting this backlog into revenue, and integration of Covelya, are becoming just as important to investors as the headline growth opportunity itself. Next, we\u2019ll examine how concerns over revenue..."
+    },
+    {
+      "headline": "These Robots Built BMWs, Then Hurled Themselves Into Molten Steel",
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBYZzhQanlmVXk4bVN3cG8yckF0YXlJV1F3SmFDcWdtWlNHakFjMzdTRHo3b3V1dGVuaGtDWDh4VldHdkRucU92VGxaMkdIemltcHo5OEJHNVd3LXE3WkdNRWY2QlFPT1J0bkd6QVZnaE5HRFN2cVlCUnpsRmx2bFQtN0FoM3ZxaVkzeDZiUnFsYV9ZOW55T1Nn?oc=5",
+      "pub_date": 1791303800.0,
+      "article_url": "https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-115500.jpg?quality=85&w=1200",
+      "description": "A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-07T20:04:50.759134+00:00"
+  "fetched_at": "2026-10-08T00:19:50.228148+00:00"
 }
