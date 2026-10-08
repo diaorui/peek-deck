@@ -16,7 +16,7 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 3528,
+      "github_stars": 3645,
       "project_page": null
     },
     {
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2610.05608",
       "arxiv_url": "https://arxiv.org/abs/2610.05608",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05608.png",
-      "upvotes": 132,
+      "upvotes": 137,
       "num_comments": 3,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/kandinskylab/kandinsky-6",
-      "github_stars": 151,
+      "github_stars": 188,
       "project_page": "https://kandinskylab.ai/"
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.33325",
       "arxiv_url": "https://arxiv.org/abs/2609.33325",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33325.png",
-      "upvotes": 323,
+      "upvotes": 325,
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
@@ -77,23 +77,23 @@
       "project_page": null
     },
     {
-      "id": "2609.05415",
-      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-      "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
-      "organization_name": "princetonu",
-      "organization_fullname": "Princeton University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/b3xXusq8Zz3ej8Z6fRTSZ.png",
-      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to arbitrary kinematic trees via the graph Laplacian; and (3) a global topological conditioner attention-pooled from the rest-pose skeleton. We also curate UniML3D, 13,006 motion sequences spanning bipedal, quadrupedal, avian, marine, insectoid, serpentine, and articulated rigid objects with unified canonicalization and text pairing. Trained on this dataset, UniMate outperforms state-of-the-art baselines in quality, generalization, and efficiency, and supports zero-shot cross-topology transfer, in-betweening, expansion, and text-guided editing. Our project page is available at https://linzhanmou.com/unimate/.",
-      "ai_summary": "UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.",
-      "hf_url": "https://huggingface.co/papers/2609.05415",
-      "arxiv_url": "https://arxiv.org/abs/2609.05415",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
-      "upvotes": 23,
-      "num_comments": 2,
-      "published_at": "2026-09-03T20:00:00.000Z",
-      "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 1553,
-      "project_page": "https://linzhanmou.com/unimate/"
+      "id": "2508.02739",
+      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
+      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
+      "hf_url": "https://huggingface.co/papers/2508.02739",
+      "arxiv_url": "https://arxiv.org/abs/2508.02739",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
+      "upvotes": 59,
+      "num_comments": 4,
+      "published_at": "2025-08-02T09:15:59.000Z",
+      "github_repo": "https://github.com/shiyu-coder/Kronos",
+      "github_stars": 40251,
+      "project_page": null
     },
     {
       "id": "2309.06180",
@@ -115,6 +115,25 @@
       "project_page": null
     },
     {
+      "id": "2609.05415",
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
+      "organization_name": "princetonu",
+      "organization_fullname": "Princeton University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/b3xXusq8Zz3ej8Z6fRTSZ.png",
+      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to arbitrary kinematic trees via the graph Laplacian; and (3) a global topological conditioner attention-pooled from the rest-pose skeleton. We also curate UniML3D, 13,006 motion sequences spanning bipedal, quadrupedal, avian, marine, insectoid, serpentine, and articulated rigid objects with unified canonicalization and text pairing. Trained on this dataset, UniMate outperforms state-of-the-art baselines in quality, generalization, and efficiency, and supports zero-shot cross-topology transfer, in-betweening, expansion, and text-guided editing. Our project page is available at https://linzhanmou.com/unimate/.",
+      "ai_summary": "UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.",
+      "hf_url": "https://huggingface.co/papers/2609.05415",
+      "arxiv_url": "https://arxiv.org/abs/2609.05415",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
+      "upvotes": 23,
+      "num_comments": 2,
+      "published_at": "2026-09-03T20:00:00.000Z",
+      "github_repo": "https://github.com/Friedrich-M/UniMate",
+      "github_stars": 1583,
+      "project_page": "https://linzhanmou.com/unimate/"
+    },
+    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -134,25 +153,6 @@
       "project_page": null
     },
     {
-      "id": "2508.02739",
-      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
-      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
-      "hf_url": "https://huggingface.co/papers/2508.02739",
-      "arxiv_url": "https://arxiv.org/abs/2508.02739",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
-      "upvotes": 59,
-      "num_comments": 4,
-      "published_at": "2025-08-02T09:15:59.000Z",
-      "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 40173,
-      "project_page": null
-    },
-    {
       "id": "2504.19413",
       "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
       "authors": "Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)",
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2025-04-27T21:46:35.000Z",
       "github_repo": "https://github.com/mem0ai/mem0",
-      "github_stars": 66769,
+      "github_stars": 66796,
       "project_page": "https://mem0.ai/research"
     },
     {
@@ -183,15 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2510.22200",
       "arxiv_url": "https://arxiv.org/abs/2510.22200",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22200.png",
-      "upvotes": 44,
+      "upvotes": 45,
       "num_comments": 5,
       "published_at": "2025-10-25T03:41:02.000Z",
       "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 9022,
+      "github_stars": 9047,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-08T00:19:33.434643+00:00"
+  "fetched_at": "2026-10-08T06:29:02.830217+00:00"
 }

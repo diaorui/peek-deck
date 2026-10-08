@@ -15,26 +15,6 @@
       "description": null
     },
     {
-      "headline": "Why Is Crypto Down Today? Bitcoin, Ethereum, XRP and Dogecoin Slip After $400M Liquidation Wave",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMVpDc2VPRTJ1R1lUNGVzRVRqVjNVeTB4cTB5dW54VEpWY2FZdUZrOWVQT1RiTkdLWE1LZGFWM2t0WnpESmItRy1GMk5BZi1oZVRqallqdmxHRlpZQkRrR2lQMDROdE4xN0x4YmZ3VlBZWHRObTVTWG1OMUVNTXJ1ZTl1Q3JYN3FaNzhpVUttVElOaUl2ZkF2VG01ZkhVS3RnQTZteWpMRjY4eS1hT3VsTFpleFAzNWhWVnV0cUx4TjJKQzVOdmZ3Vl9NVkludHl0b0lBQmltRzhUMGItUWlQQXpoMkg2bUtxd2s0WklB?oc=5",
-      "pub_date": 1791363600.0,
-      "article_url": "https://www.tradingview.com/news/financemagnates:773c7150d094b:0-why-is-crypto-down-today-bitcoin-ethereum-xrp-and-dogecoin-slip-after-400m-liquidation-wave/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto prices fell today (Wednesday) after a 20-minute sell-off in bitcoin wiped out more than $400 million in leveraged long positions. Bitcoin (BTC) dropped 1.6% to $84,218 on Binance by 07:01 UTC, while ether lost 3%, XRP 1.5% and Dogecoin 3.1% on Bitstamp.The flush hit between about 01:45 and 0\u2026"
-    },
-    {
-      "headline": "Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQktvb0FWZG0tUE5saWs2RHh4NUNVSXlUejg2QzdPRG1JMlpZb3VfblFFcnptMjJ3a1lfdWNDZDEtS1pCUnpLWmtLVWNJY05jZExTOVpmSmIzWFFacUw4d09OTnVGeHRKQ0RUbzJEMDVRS1pRMExOZ2U5T1Y5Uzg3LVllM0hURkxHQnpQeGFoeUpyUUY2aEZkc3MtVXBKYVhNZUE?oc=5",
-      "pub_date": 1791376211.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e318131a9c9b7dfe1dd3df71a2f04c15b183462fd80d691f30cf0efb9b8f697f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F80925fda19c6a597a82719ef9ccae9bf.jpg",
-      "description": "A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030."
-    },
-    {
       "headline": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
       "source": "Decrypt News",
       "source_url": "https://decrypt.co",
@@ -43,6 +23,16 @@
       "article_url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
       "description": "Bitmine chairman Tom Lee said at Token2049 the company will stop buying Ethereum once it holds 5% of circulating supply."
+    },
+    {
+      "headline": "Ethereum\u2019s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWlPU0xUaktyV09YOVBhdjdxQ0FULUJucW5jYk4zZ3l0MWlaQjRnUEg2aTZwRHlEcldoUDFTd1pMM2RWaGNnc1ljN09rNHpJRkgyWHdTX1BCQ0lwa0ZRdHpyeU5aOEVETndXWUtMaElpSlkwMERBckRMVFVlaTJtRVZLXzZ5ajl3Z09aX192VDN0STQ3LXd4LVpQVjVJZXMycTFHVFhkVmVkTkxXS2lzWkxsLTdLQnFaMnc?oc=5",
+      "pub_date": 1791433403.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/171f9d8c90ff75747a86c529565ae56a859fcec1-1396x782.png?auto=format&q=75",
+      "description": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance."
     },
     {
       "headline": "Current price of Ethereum for October 7, 2026",
@@ -55,14 +45,34 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "ETH news: Ethereum\u2019s Glamsterdam test gets last-minute fix before major capacity jump",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnNaX1RILW5feEZyejhrNUgxSE9UTnNDWUdYN1YxblRyQ05YRDRlMmVlX2dWVDRGSjUxS19YYS1xMUo1NVloYU1jQ1BkTVFqa05HbHdDRlMtNXkzLUY0ajIzTy1COEFnSDdzWTJqZnVDejdYZDJFTXRCZExaVjNWbEFVa0JGQS0tbld3YnMwdjNtNXJRNlVfaGY2R3NTTGFHU0g0Rnlwczh5VDhlczVsWEZxSEp6MFk?oc=5",
-      "pub_date": 1791265915.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "One of Ethereum\u2019s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas."
+      "headline": "AI Could Damage Crypto in 2 Years, Warns Ethereum's Vitalik Buterin",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96SFlVWHpyUEFCblBmWlhBd0dzNkFLWlVWT2VVVERTT0sxWjZWTEVQUFBOU19mSWVCZVRaLURPb3lyV0JkVEtSTGRTMElZcWVoMjN6R1RkLWNSZ21kU3ZiM1hiNGRtZlVtSkR2Q1RKemo?oc=5",
+      "pub_date": 1791422340.0,
+      "article_url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Cryptocurrencies Price Prediction: Zcash, Ripple & Ethereum \u2013 Asian Wrap 08 October",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEgzUDc0b0RoMjFPdC1JbHFFUF96cUt5LUZSaWFobzRSaDhJa3l3NmpGcFVXazE2R0lrTHREUnZSRDhqMjM1NnMtOU00cHVlNXctMVFpWFJ3VjMzVFpsSUd1LUtqc1p2VkRRY3NXenRvUncxenpxMlFtTW4yb0RVSHdoUzliSjFxTjdDZU5CNmdfOTlmcEhkYk52c244cUJGcGI2dGJPTmpfZHh6WjdkMU9NajZxTkd5NjE3ZUdySnpDLTA5ZHMxaXY5TXdxVTBFd1BJ?oc=5",
+      "pub_date": 1791438353.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-zcash-ripple-ethereum-asian-wrap-08-october-202610080545",
+      "image": "https://editorial.fxsstatic.com/images/i/crypto-01_Medium.jpg",
+      "description": "Zcash (ZEC) price is trading below $1,300 on Thursday, continuing a steady decline over the past 10 days and slipping from its $1,698 peak on September 27."
+    },
+    {
+      "headline": "New Crypto: AlphaPepe Presale Nears $3M Raised While Ethereum Price Prediction Points to $6,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLVJkOUkzb0czeHVTQ3ZldlhiOC1ORFdXeTliQ3EyZGRISVRDQndURTNsMjhuMGVnOXNDZFRldVZKWGZNZ3UwR3ZZY0d3a0FjU1g2X0JEQ3RGZ20zTk5ibUQ4UmJrbi1wRmIzZEtydUZWT3dOTDBDTVhFaUVmcG1yMHRwV2x4X0t5VzNmZFpybW9SMjNWaUhVWHZrdzJIRzhXQzM4WTV1OVN5ODNYZUhRblhmc2FsTXBOMXBib25MZVlBa2xtY2VOR1gycUFHVVhqR1p6a2szR09LWDJaRDlOeEZINnRMdw?oc=5",
+      "pub_date": 1791430998.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-alphapepe-presale-nears-3m-raised-while-ethereum-price-prediction-points-to-6-000-1036607148",
+      "image": "https://ml.globenewswire.com/Resource/Download/4a3dd1ef-a141-4aca-a623-1a6c237fcabe/alphapepe-crypto-presale.jpg",
+      "description": "MONACO, Oct.  07, 2026  (GLOBE NEWSWIRE) -- New crypto AlphaPepe has crossed $2.91 million raised and is now closing in on the $3 million presale ..."
     },
     {
       "headline": "How native transaction assertions could enforce a transaction's final outcome",
@@ -75,36 +85,26 @@
       "description": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is..."
     },
     {
-      "headline": "New Crypto: Remittix Locks In November 24 RTX Launch as Ethereum Price Prediction Eyes $6,000 and Dogecoin Bulls Revive the $1 Dream",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSnotQUlHazZyZnRUMlVOMk1mcDA5RjVFeVlDaGUteWF6ME95RmtYRWtIelZRYk9kTEpwYUZGZm9LRlhzazhjYXUtenhVQ3Z4ZWI5bFYxeHV0NFpjdkMzZFRubS1Nam42SG5CUElrNWFDdUNPQnNMVVRRdHVGU2dETFRiQWpHTmV2Vjh4dkg5NjZPeW1TNjRJRzlaUzRnYlZJaTY5UHJXeUNGVGwtSE94SXdtaUZtRG1KWHpWRXk4dDg3SEhiMS1YbDFWY205ck5nYzFOOGFUSG11Y2I4cEs2aWhHRlhCZEUwN2VyQjh3LVplUktpX0JUZ2lvWFF2V0pEUHc0THNJbGxPQXpsOVYwNUQxQ0Y3Q2s?oc=5",
-      "pub_date": 1791396642.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-locks-in-november-24-rtx-launch-as-ethereum-price-prediction-eyes-6-000-and-dogecoin-bulls-revive-the-1-dream-1036605984",
-      "image": "https://ml.globenewswire.com/Resource/Download/ba6d886d-dfda-45cd-a2b0-fecb10a0ad35/remittix.png",
-      "description": "MAJURO, Marshall Islands, Oct.  07, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed November 24, 2026 as the scheduled launch date for RTX, givin..."
+      "headline": "BlackRock ETF clients pull $116.05 million from Ethereum fund",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUTDlLNThhbHRud1V2NE5UWHpBaGFkQWU3LVRKWXNBNnZ5MUhLNEE1UXVfcUN2QWFjNGVRZ2NhWWFlWmNZbkp6cmRhTTNmVDJ0cWxITlRQT2lKWnpHbXNmUXBPZFJtMGR0VnRWd1U4OUkzQQ?oc=5",
+      "pub_date": 1791436628.0,
+      "article_url": "https://cryptobriefing.com/blackrock-etha-ethereum-etf-outflows/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/08011658/library-blackrock-etf-clients-pull-116-05-million-from-ethereum--800x450.png",
+      "description": "BlackRock's ETHA saw $116.05 million in Ethereum ETF outflows on October 7 as Bitcoin funds drew inflows, hinting at an investor rotation."
     },
     {
-      "headline": "Ethereum staking ETF hits $33M \u2013 Can validators keep pace with Glamsterdam?",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTRvM0ZnMjd0d29pSG9BTGQ1Yi15SEV6V3hhSUdtNV9EejUxUHRTdWliSGF6VXhWZUtycEh3RG5xLUtEbXVBdVJLbXJtdDdUYTUzTXdwMWJfWENZMjIwZ2xycWdkZHdUWENSaEJjYTZTeDhCQndhYllxOS1lcFJYRTVSczNwbHhNMVdycVhMa3MyRmhOMmxhbG93?oc=5",
-      "pub_date": 1791381608.0,
-      "article_url": "https://ambcrypto.com/ethereum-staking-etf-hits-33m-can-validators-keep-pace-with-glamsterdam/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/FI_METRIC_ETHEREUM_07-10-2026.webp",
-      "description": "What happens when Ethereum\u2019s ambition to process more transactions meets the limits of validator hardware?"
-    },
-    {
-      "headline": "Ethereum Beat Bitcoin All Quarter. Its Order Books Thinned and the Staking Exit Queue Hit a Record for the Year.",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTGQ3V0FhcHhJXzlmXzRSZDhEOFVzanpLTmxwQ1U5VHY3YmowSlNtTkJJTmNxQW1JOFFMZEtVWktfWklSU0R1dklrdnpYNUgtb21OdlJDMHhxbE4yRFUwYUdtNlZodG8tcEVyblc3SER4VGF5dmdjSTh3Znhjamt2dTZ4UzBCTERyRkZLajdtaUVEQjVtUG5SYVFFRUE4OFRuM1NHNGI0SHZ3QlBLaGFPbEtrY1dCYVBNN1lRdlozR2pEdUVzbE1OYU1nQWIxR0lpTFQ2c2duNjVRLTY0YzFQSldLTnc0dEVSOXd2QURHbDZic0w0VER6Rk1ta3NTdw?oc=5",
-      "pub_date": 1791329400.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/06/ethereum-beat-bitcoin-all-quarter-its-order-books-thinned-and-the-staking-exit-queue-hit-a-record-for-the-year/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/10/shutterstock-2116841900-medium-licensed.jpg",
-      "description": "In Q3 2026, Ether surged 71%, setting a record for the quarter while its exit queue hit an annual peak. Here's what that means."
+      "headline": "Ethereum researcher Justin Drake calls for 'bunker mode' planning over private key recovery risk",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbTVjWjYxRHBQZGJWTHVuTmJETjFSQm9fRHNvZlJiUW1ReFFlcnFMMVNISUlTRnNkM0NGVHZWVkFuRUxiaC13U252aFdwaHZqR192RGYxaTIyXzROVEFSQVRwcklLc2F1TlJWajJYeEw2eDVfcnl5WnBKZ0pKQ0s3MEJnbVI2WmtJVHF0RjU2aGRyN0ZNRHI1Q1hpWXFNSkc5OUdBWGJHUWFzTldjdU8tYmFVZVladkM1azdmdXZJTGlKajZZcFRfRnZ1OHhtQ2NWbWdB?oc=5",
+      "pub_date": 1791393780.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
+      "description": "Drake recommended moving funds in a controlled way to fresh addresses that keep their public keys hidden, while warning holders not to panic or rush."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T00:19:46.828999+00:00"
+  "fetched_at": "2026-10-08T06:29:19.814379+00:00"
 }
