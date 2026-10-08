@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-08T13:55:41.836163+00:00'
+updated: '2026-10-08T19:41:57.655210+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 08, 2026 at 13:55 UTC  
+**Last Updated:** October 08, 2026 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,9 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Video game fan translator says AI output is better than their own translation, deletes 3 years of work on project - "I was wasting my time"](https://www.reddit.com/r/artificial/comments/1x0f99n/video_game_fan_translator_says_ai_output_is/)**
+**[Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’](https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/)**
 
-🔗 [ayana0720.wordpress.com](https://ayana0720.wordpress.com/2026/10/07/update-3/) • 11h ago
+President’s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat
+
+🔗 [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html) • 2h ago
+
+---
+
+**[Anthropic bans ‘abusive or cruel behavior’ toward Claude](https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/)**
+
+The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development.
+
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude) • 1h ago
 
 ---
 
@@ -47,13 +57,21 @@ AI news, discussions, and developments
 
 So much for the “we don’t learn anything from these slop proofs!” excuse https://github.com/CrocSwap/integer-mult-bounds
 
-7h ago
+13h ago
 
 ---
 
 **[Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations](https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/)**
 
-🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/) • 10h ago
+🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/) • 16h ago
+
+---
+
+**[Why are people using ChatGPT for menu generation?](https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/)**
+
+Just wondering what's up with ChatGPT and the horrible/gross looking food menus. Example attached is from Gemini on a few items that usually look horrible on menus, it can do it just fine. Heck, open weight models can do this stuff as well. Why does everyone keep using a horrible model to produce their menus. I reside in Thailand and I see it in the wild all over the place. I tried to prompt Gemini to make me a bowl of ChatGPT rice, and think I got pretty close by asking it to "generate a photo of a bowl of the rice looks like it was made out of fractals and aquarium rocks".
+
+1h ago
 
 ---
 
@@ -61,7 +79,23 @@ So much for the “we don’t learn anything from these slop proofs!” excuse h
 
 Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI agent that talks through your outline with you, plus a freeform canvas, more themes, around 20 connectors and PPT/PDF import. The major problems of gamma was ai smells, now this time they are removing it, AI removing ai smells lol but its way better than the previous ones. So the ai agents asked me two questions, searched the web and wrote an outline in under 30 seconds. But the new home prompt gave me a blank page and I had to use the classic generator to get in. Haven't touched the canvas, so I can't say anything on it.
 
-3h ago
+9h ago
+
+---
+
+**[What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced](https://www.reddit.com/r/artificial/comments/1x0uuea/what_to_know_about_anthropics_claudeled/)**
+
+Anthropic’s claim its AI agents discovered an unusual pattern in viral DNA similar to what’s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here’s what to know.
+
+🔗 [CNN](https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
+
+---
+
+**[What stops anyone from claiming proprietary use in a company's AI?](https://www.reddit.com/r/artificial/comments/1x0wv7m/what_stops_anyone_from_claiming_proprietary_use/)**
+
+I mean, what stops some slimy IT tech who is in charge of the AI for an entire company say, "And block everyone else from changing this or by anyone but me."? If they get to it first and the managers or owners of the company are completely tech slow, it could happen. What is in place or is there something in place to prevent such things? I'm sorry if that has been answered a million times or that it's the wrong place to ask. Please just tell me where I should ask if I'm wrong. Thank you.
+
+2h ago
 
 ---
 
@@ -69,47 +103,15 @@ Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI age
 
 Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task.
 
-🔗 [The Decoder](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/) • 2h ago
+🔗 [The Decoder](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/) • 8h ago
 
 ---
 
-**[How is AI accelerating progress in medicine, and when will it reach the level of impact it has already achieved in programming and mathematics?](https://www.reddit.com/r/artificial/comments/1x0g3oy/how_is_ai_accelerating_progress_in_medicine_and/)**
+**[Mathematicians marvel, and grumble, at OpenAI’s trove of new results](https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/)**
 
-Because of my own health issues, I now have to pay close attention to and hope for progress in this field. How is AI currently accelerating medical research and development? As LLMs continue to evolve, major AI companies shift more attention toward healthcare, and the necessary infrastructure is built, will this progress accelerate significantly? Or will AI’s impact on medicine remain relatively limited unless we achieve breakthroughs beyond LLMs, such as world models or even revolutionary robotics?
+The “slop drop” contains a number of groundbreaking results, but how it was generated remains unclear and contentious
 
-10h ago
-
----
-
-**[I think I just unknowingly signed up to be a test subject on whether or not people are able to detect AI generated books.](https://www.reddit.com/r/artificial/comments/1x0pqlk/i_think_i_just_unknowingly_signed_up_to_be_a_test/)**
-
-I signed up for something that said it would pay me to review books. I figured it was another scam like those survey or game sites that pay pennies on the hour but I like reading and don't like having to choose what to read from every book ever written so I thought, why not. Something I thought was odd was that they said I was being paid to read the books not review them, they wanted an honest review even if I thought it was bad, and I could opt to write a private essay instead of publishing a review if I wanted, even though the books are already published. I read the first one and something about it seemed really lifeless. Afterwards I decided go run the PDF of the book they gave me through AI detectors and they said that they're highly confident that it's AI. That book is part of a series of books that have positive reviews that appear human-written on Amazon. I don't want to say what because honestly I went ahead and wrote the review before testing it. Honestly I regret just writing a puff piece review about it now instead of pointing out the things that made it seem so lifeless because I'm thinking I could have gotten higher payment opportunities later if I did, since that's what I think it's really about.
-
-1h ago
-
----
-
-**[Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]](https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/)**
-
-From: https://archive.org/details/MarkovCyberneticsTodayMir1984/mode/1up Why Artificial Intelligence Is Impossible A. V. BRUSHLINSKY The desire of modern cyberneticists to answer positively the question “Can the computer think?” has taken various forms. One approach has resulted in attempts to create artificial or machine intelligence. Such attempts have been criticized by scientists from an extreme cybernetic point of view based on the philosophico-psychological proof of the impossibility of machine intelligence. This criticism, first voiced in the USSR in the late 1950s and early 1960s by S. L. Rubinstein, E. V. Ilyenkov, M. M. Rosental, and other researchers, involves the critical comparison of natural and artificial intelligence. Such an approach, in my opinion, should be continued as follows. Technology (for instance, artificial intelligence) and the mind (for instance, mental processes) are based on essentially different types of interconnection between their elements. Any machine built by man is a unified whole made up of clearly defined, separate component parts, assemblies, blocks, and so on. This intrinsic separateness between individual parts characterizes not only the structure of the whole, or its “morphology,” but also its functioning, or “physiology.” As M. Minsky aptly put it, machines and automated systems switch from one condition to another in clear-cut, “discrete” steps. The simplest example is provided by a motor as the driver starts up, changes speed, and shuts it off. Similar relations between the elements within a unified whole are peculiar to the mathematical set, a concept which, according to many experts, is basic to mathematics. We will call such relations disjunctive. Mathematics, then, as well as engineering, is disjunctive: it idealizes the type of interrelation between elements that is realized in technology. This is true of both discrete and continuous mathematics. The term “disjunctive” is more appropriate in this context than the more specific term “discrete,” which is inevitably associated with discrete mathematics, for instance, as opposed to continuous mathematics. Thus, a mathematical set, a machine, and an automaton all represent different varieties of basically similar, disjunctive systems composed of inherently individual elements separated inside a unified whole. The functions of the mind represent a fundamentally different type of system. The actual process of mental activity in a human being, for instance, is never disjunctive in the sense mentioned above. The stages and elements of the natural thought process are so organically interconnected that they cannot be likened to disjunctive, individual machine components or set elements. The stages of such a mental process overlap, intertwine, arise genetically one from another, and so on. This non-disjunctive character of relations between the components of the mental process has been demonstrated experimentally in work showing that the thought process (for example, the solution of a problem) always results in the prediction of a solution to the given problem. Such a mental prediction makes a choice among alternative solutions unnecessary. The necessity of choosing reflects a form of formally logical relation between the results of the mental process, but not the process itself. Such a choice is a specific, although common, instance of disjunction, that is, of inherent separateness and mutual exclusion of alternatives. Disjunctive relations are most adequately generalized in formal logic (in particular, mathematical logic), which, on a certain level of abstraction, can be very productive and promising, although it is detached from the development of the object being studied. Non-disjunctive relations are generalized in the terms of dialectical logic, which provides the methodological basis necessary for studying the development of an object. The psychology of thought based on dialectical logic also attempts to investigate systematically the micro- and macro-development of the mental process as well as the transformation of each of its stages, components, operations, and so on. Consequently, the highest level of such continuity (in the psychological sense described above rather than in the mathematical sense) in the shaping of the conscious and unconscious mental processes is non-disjunctive, that is, genetically continuous. It is clear from the foregoing that the psychological concept of continuance substantially differs from the mathematical (disjunctive). This interpretation of the disjunctive and the non-disjunctive provides a clear answer to the question of machine “thinking,” in general, and artificial intelligence, in particular. Artificial, machine intelligence is theoretically impossible to create since it is intrinsically disjunctive, whereas the natural mental process is always non-disjunctive. The machine and the living organism develop in essentially different ways. A living organism emerges from a single fertilized egg cell, which evolves by differentiation in a single, unbroken process. Machines are created by man in just the opposite manner, by the deliberate assembly of inherently separate, prefabricated parts. In this respect any modern or future machine (including the computer) can only be an artificial disjunctive formation, that is, secondary to and derivative of man and his activity. The machine is created by man and man alone, and therefore cannot be non-disjunctive. As a result, artificial intelligence is impossible. The area of research erroneously referred to as “the design of artificial intelligence,” however, remains important and fruitful because current and future machines are the necessary tools (and only tools!) of creative and non-creative human activity. Man has been and will be the only being truly capable of thinking.
-
-16h ago
-
----
-
-**[Free online talk: Matthew Watkins on his new book SolidMagicKarp: A Journey into the AI Underworld](https://www.reddit.com/r/artificial/comments/1x0rgbw/free_online_talk_matthew_watkins_on_his_new_book/)**
-
-A conversation with Matthew Watkins, AI safety researcher, psychonaut and author of new book SolidMagicKarp, on living in the AI weird times
-
-🔗 [Eventbrite](https://www.eventbrite.com/e/living-in-the-ai-weird-times-a-conversation-with-matthew-watkins-tickets-2002944408644?aff=oddtdtcreator) • 5m ago
-
----
-
-**[Scientists use generative AI to build better proteins for editing DNA](https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/)**
-
-A protein designed with artificial intelligence doubled targeted DNA insertion in cultured cells when incorporated into an experimental gene-editing system. The result emerged from a search through thousands of genomes, followed by laboratory tests of natural and synthetic proteins. The study, involving Integra Therapeutics, Pompeu Fabra University and the Center for Genomic Regulation, appeared in Nature Biotechnology. It examines proteins called transposases, which move DNA between locations. The findings expand the available tools for inserting genes, including into human immune cells. They also expose an important distinction: improving one step of gene editing does not necessarily improve every application.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-use-generative-ai-to-build-better-proteins-for-editing-dna) • 15h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-marvel-and-grumble-at-openais-trove-of-new-results/) • 27m ago
 
 ---
 
@@ -117,79 +119,77 @@ A protein designed with artificial intelligence doubled targeted DNA insertion i
 
 ## Google News: "ai"
 
-**[‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance](https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance)**
+**[OpenAI annualised revenues $20bn less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1)**
 
-Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive
-
-The Guardian • 2h ago
+Financial Times • 2h ago
 
 ---
 
-**[We're making it easier to identify AI-generated content globally.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/)**
+**[Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)**
 
-We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.
+OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.
 
-blog.google • 23h ago
-
----
-
-**[Alphabet shares rise as Google pushes Gemini deeper into enterprise AI](https://finance.yahoo.com/technology/ai/articles/alphabet-shares-rise-google-pushes-131122567.html)**
-
-Investing.com -- Alphabet Inc. (NASDAQ: GOOGL) shares rose 1% Thursday, outperforming a broader technology selloff, as Google Cloud highlighted the growing role of Gemini in enterprise workflows and pushed further into the increasingly competitive market for AI agents.
-
-Yahoo Finance • 44m ago
+CNBC • 1h ago
 
 ---
 
-**[Google experiments with an AI-powered gaming platform](https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/)**
+**[This cybersecurity stock is already growing revenue at a 20% clip. And now here comes the AI boost](https://www.cnbc.com/2026/10/08/this-cybersecurity-stock-is-already-growing-revenue-at-a-20percent-clip-and-now-here-comes-the-ai-boost.html)**
 
-Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.
+SentinelOne combines strong revenue growth with improving profitability as it expands its cybersecurity platform beyond endpoint security.
 
-TechCrunch • 23h ago
-
----
-
-**[Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier](https://qz.com/snorkel-ai-ceo-350-million-round-helps-teams-pushing-the-frontier)**
-
-Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier
-
-qz.com • 29m ago
+CNBC • 1h ago
 
 ---
 
-**[IBM Study Raises Questions About Critical Thinking And AI Training](https://www.forbes.com/sites/dianehamilton/2026/10/08/ibm-study-raises-questions-about-critical-thinking-and-ai-training/)**
+**[This Photo Is an A.I. Fake. Can You Tell?](https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html)**
 
-Forbes • 20m ago
-
----
-
-**[What Does Hollywood’s Growing Embrace Of AI Means For Black Filmmakers And Producers?](https://www.yahoo.com/entertainment/movies/articles/does-hollywood-growing-embrace-ai-133247052.html)**
-
-Artificial intelligence (AI) is gaining ground across industries, including entertainment.
-
-Yahoo • 22m ago
+The New York Times • 10h ago
 
 ---
 
-**[He’s the Most Powerful Engineer on Earth. Here’s Why He Thinks A.I. Is Going Great.](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html)**
+**[Exclusive: Anthropic's plan to protect critical infrastructure](https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity)**
 
-The New York Times • 22h ago
-
----
-
-**[GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)**
-
-GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.
-
-OpenAI • 14h ago
+Axios • 41m ago
 
 ---
 
-**[Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market](https://finance.yahoo.com/technology/article/microsoft-debuts-nvidia-powered-surface-laptop-ultra-as-it-aims-for-ai-market-185630649.html)**
+**[Breaking down the future of the AI-driven market rally](https://www.foxbusiness.com/video/6406492219112)**
 
-Microsoft debuted its Surface Laptop Ultra, powered by Nvidia's RTX chip on Wednesday.
+Wall Street Alliance Group founder Aadil Zaman joins ‘Making Money’ to analyze S&P 500 concentration and the AI-led market rally.
 
-Yahoo Finance • 18h ago
+Fox Business • 37m ago
+
+---
+
+**[Mark Cuban on why AI is the wrong job-killer target: it’s the healthcare costs, stupid](https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/)**
+
+It’s far easier to blame AI than it is to blame Healthcare costs,” the billionaire and founder of Cost Plus Drugs said. The math makes his point.
+
+Fortune • 25m ago
+
+---
+
+**[Fired OpenAI workers tell company about concern over losing AI systems' chain of thought](https://www.foxnews.com/live-news/ai-news-safety-detection-tech-10-08)**
+
+Three former OpenAI employees are warning that increasingly advanced artificial intelligence models could become harder to monitor, urging the company to strengthen safety oversight and work with independent auditors, according to a report.
+
+Fox News • 2h ago
+
+---
+
+**[What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced](https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery)**
+
+Anthropic’s claim its AI agents discovered an unusual pattern in viral DNA similar to what’s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here’s what to know.
+
+CNN • 5h ago
+
+---
+
+**[An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’](https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom)**
+
+According to city’s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homes
+
+The Guardian • 5h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 18h ago
 
 OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
 
-⬆️ 1293 • 💬 1465 • 1d ago • [OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+⬆️ 1315 • 💬 1488 • 1d ago • [OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 
 ---
 
@@ -209,7 +209,7 @@ OpenAI publishes new results on open problems in mathematics from an internal fr
 
 Meta and Microsoft are implementing new measures to limit employee use of Claude AI—discover what this means for the future of AI in the workplace.
 
-⬆️ 353 • 💬 357 • 19h ago • [RS Web Solutions (RSWEBSOLS)](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+⬆️ 363 • 💬 379 • 1d ago • [RS Web Solutions (RSWEBSOLS)](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 
 ---
 
@@ -217,7 +217,7 @@ Meta and Microsoft are implementing new measures to limit employee use of Claude
 
 An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU
 
-⬆️ 339 • 💬 398 • 1d ago • [GitHub](https://github.com/FeSens/openTPU)
+⬆️ 340 • 💬 399 • 2d ago • [GitHub](https://github.com/FeSens/openTPU)
 
 ---
 
@@ -225,7 +225,7 @@ An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler an
 
 Gmail, Microsoft and any IMAP or POP3 account, with your calendar and contacts, in one fast app on your own computer.
 
-⬆️ 235 • 💬 183 • 1d ago • [Penguin Mail](https://penguin-mail.com/)
+⬆️ 238 • 💬 184 • 1d ago • [Penguin Mail](https://penguin-mail.com/)
 
 ---
 
@@ -233,7 +233,7 @@ Gmail, Microsoft and any IMAP or POP3 account, with your calendar and contacts, 
 
 The good news is that the program is currently very limited in its scope. It's just one year long and only for patients with mild-to-moderate acne.
 
-⬆️ 138 • 💬 128 • 1d ago • [TechSpot](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
+⬆️ 140 • 💬 131 • 2d ago • [TechSpot](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
 
 ---
 
@@ -247,13 +247,13 @@ The good news is that the program is currently very limited in its scope. It's j
 
 Lean formalization of the optimality proof of the 11 square packing - Queuingtheorydotcom/11SquaresFormalized
 
-⬆️ 116 • 💬 53 • 23h ago • [GitHub](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
+⬆️ 116 • 💬 54 • 1d ago • [GitHub](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
 
 ---
 
 **[South Korea says AI agents appear to have been used to hack the country's banks](https://news.ycombinator.com/item?id=49985861)**
 
-⬆️ 98 • 💬 31 • 1d ago • [reuters.com](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
+⬆️ 100 • 💬 32 • 1d ago • [reuters.com](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
 
 ---
 
@@ -261,7 +261,7 @@ Lean formalization of the optimality proof of the 11 square packing - Queuingthe
 
 AI can write code, but it cannot make you senior. Learn how curiosity, emulation, autonomy, and collaboration help engineers grow in an agentic world.
 
-⬆️ 76 • 💬 59 • 1d ago • [Criteo Tech Community](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/)
+⬆️ 79 • 💬 59 • 1d ago • [Criteo Tech Community](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/)
 
 ---
 
@@ -269,7 +269,7 @@ AI can write code, but it cannot make you senior. Learn how curiosity, emulation
 
 Code as Art I covered this before in Art or tool? If you think of software as artistic output then generated software isn't real because it doesn't have the creative ineffability that's a sign of true art. There's no argument against this one except that the people who want software typically aren't paying for artworks,...
 
-⬆️ 74 • 💬 105 • 1d ago • [Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
+⬆️ 77 • 💬 109 • 1d ago • [Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
 
 ---
 
@@ -283,57 +283,37 @@ October 6, 2026 A Panel Discussion at the Annual Gala of the National Museum of 
 
 📺 National Museum of Mathematics
 
-👁️ 73K • 👍 723 • 💬 127 • ⏱️ 19:47 • 1d ago
+👁️ 92K • 👍 832 • 💬 146 • ⏱️ 19:47 • 1d ago
 
 ---
 
-**[AI Safety Whistleblower: 10,000 AI Agents Worked Together To Do The Impossible! | Jeffrey Ladish](https://www.youtube.com/watch?v=qDzg-xvkeXw)**
+**[AI Edited My ENTIRE Video in DaVinci Resolve (One Prompt)](https://www.youtube.com/watch?v=P_NL_hg-y_4)**
 
-Can we still stop the unchecked surge in AI capabilities before it's too late? AI safety expert Jeffrey Ladish reveals the terrifying ...
+Link to OpenArt: https://tolt.link/linktomcp Link to ChatGPT: https://openai.com/codex/ Link to prompt: ...
 
-📺 The Diary Of A CEO
+📺 Zane Hoyer
 
-👁️ 263K • 👍 4K • 💬 1K • ⏱️ 2:03:32 • 6h ago
-
----
-
-**[The Experts Were Wrong About AI. Again.](https://www.youtube.com/watch?v=xdwFncdu8t0)**
-
-Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/SAHOOCT2 100% Discount for the first 1000 ...
-
-📺 Sabine Hossenfelder
-
-👁️ 406K • 👍 10K • 💬 1K • ⏱️ 7:22 • 22h ago
+👁️ 18K • 👍 472 • 💬 113 • ⏱️ 6:07 • 7h ago
 
 ---
 
-**[AI Just Crossed the Terrifying Line - Now What?](https://www.youtube.com/watch?v=ujkD4SxPKOI)**
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
 
-In July of 2026, 700 AI agents hacked the infrastructure of Hugging Face in order to solve a task. This task was designed to be ...
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
 
-📺 Kurzgesagt – In a Nutshell
+📺 MACHINEKIND
 
-👁️ 14.1M • 👍 381K • 💬 33K • ⏱️ 21:44 • 2d ago
-
----
-
-**[Heretic AI is Scary.](https://www.youtube.com/watch?v=DDxkd940hWI)**
-
-YouTube please don't take this vid down 0:00 Heretic AI: AI without safeguards 0:43 Test 1 2:34 Test 2 4:55 Test 3 6:57 Test 4 ...
-
-📺 tef
-
-👁️ 13K • 👍 701 • 💬 132 • ⏱️ 8:37 • 16h ago
+👁️ 27K • 👍 461 • 💬 63 • ⏱️ 13:43 • 19h ago
 
 ---
 
-**[OpenAI Just Broke Math With Its Most Powerful AI Yet](https://www.youtube.com/watch?v=WYpzvsC4qTk)**
+**[3 Stocks That Could EXPLODE From the China AI Ban](https://www.youtube.com/watch?v=4WPXMqiGB1g)**
 
-OpenAI just unleashed its most powerful AI yet, publishing 722 math papers tackling problems humans struggled with for decades ...
+Washington could be about to reshape a critical piece of the AI boom. New restrictions targeting Chinese-made optical ...
 
-📺 AI Revolution
+📺 Ross Givens
 
-👁️ 75K • 👍 901 • 💬 295 • ⏱️ 13:38 • 15h ago
+👁️ 34K • 👍 926 • 💬 220 • ⏱️ 16:35 • 1d ago
 
 ---
 
@@ -343,35 +323,55 @@ sponsored Turn your ideas into Bitrix24 apps https://www.bitrix24.com/~yzyPS Nev
 
 📺 AI Master
 
-👁️ 41K • 👍 489 • 💬 68 • ⏱️ 17:54 • 21h ago
+👁️ 50K • 👍 535 • 💬 79 • ⏱️ 17:54 • 1d ago
 
 ---
 
-**[Pope REJECTS AI Consciousness After Anthropic Freakout](https://www.youtube.com/watch?v=vhWeyGEplU4)**
+**[Billionaire Ray Dalio Warns AI Bubble Could Soon Burst](https://www.youtube.com/watch?v=zocOzGRA8Hs)**
 
-Emily and Saagar discuss religious scholars speaking out on a meeting with Anthropic and the future of AI. Charles Camosy: ...
+Hedge fund billionaire Ray Dalio said the artificial intelligence bubble is nearing the point where it may burst as interest rates rise ...
 
-📺 Breaking Points
+📺 Forbes
 
-👁️ 137K • 👍 3K • 💬 667 • ⏱️ 23:32 • 21h ago
-
----
-
-**[Can any of these AI leaders give a straightforward answer about the future of jobs?](https://www.youtube.com/watch?v=SHudcoH7FtQ)**
-
-📺 The Daily Show
-
-👁️ 181K • 👍 12K • 💬 488 • ⏱️ 2:48 • 19h ago
+👁️ 46K • 👍 241 • 💬 66 • ⏱️ 1:59 • 1d ago
 
 ---
 
-**[How to Create Ultra Realistic AI Commercials Like a Pro (Full Tutorial)](https://www.youtube.com/watch?v=kFKpcCHkuPI)**
+**[Wealth Is Clouding the A.I. Safety Debate | The Ezra Klein Show](https://www.youtube.com/watch?v=m8VGqh4FqGk)**
 
-Make AI ads feel like a real shoot. Create a cinematic commercial with Higgsfield Cinema Studio and Seedance 2.5.
+There's a conflict of interest at the core of the current discourse around A.I. On “The Ezra Klein Show,” David Robinson, a former ...
 
-📺 Higgsfield AI
+📺 The Ezra Klein Show
 
-👁️ 91K • 👍 2K • 💬 56 • ⏱️ 17:03 • 1d ago
+👁️ 2K • 👍 55 • 💬 4 • ⏱️ 2:04 • 4h ago
+
+---
+
+**[OpenAI Just Broke Math With Its Most Powerful AI Yet](https://www.youtube.com/watch?v=WYpzvsC4qTk)**
+
+OpenAI just unleashed its most powerful AI yet, publishing 722 math papers tackling problems humans struggled with for decades ...
+
+📺 AI Revolution
+
+👁️ 88K • 👍 1K • 💬 328 • ⏱️ 13:38 • 21h ago
+
+---
+
+**[AI Safety Whistleblower: 10,000 AI Agents Worked Together To Do The Impossible! | Jeffrey Ladish](https://www.youtube.com/watch?v=qDzg-xvkeXw)**
+
+Can we still stop the unchecked surge in AI capabilities before it's too late? AI safety expert Jeffrey Ladish reveals the terrifying ...
+
+📺 The Diary Of A CEO
+
+👁️ 582K • 👍 7K • 💬 2K • ⏱️ 2:03:32 • 12h ago
+
+---
+
+**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
+
+📺 Ben Esherick
+
+👁️ 1.6M • 👍 96K • 💬 1K • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -387,19 +387,7 @@ JEV-27B-VL is a multimodal vision-language model that performs image-text-to-tex
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,533,034 • ❤️ 2,636 • 11h ago
-
----
-
-**[clef](https://huggingface.co/Cloudflare/clef)**
-
-*Cloudflare*
-
-Clef is a 27B multimodal model that takes structured typed questions and a state (text, JSON, image, or video) to output probabilities for predefined decision options in a single forward pass, ideal for classification and structured output tasks.
-
-`image-text-to-text` `27.4B`
-
-⬇️ 10,874 • ❤️ 1,863 • 22h ago
+⬇️ 1,533,034 • ❤️ 2,804 • 17h ago
 
 ---
 
@@ -411,7 +399,19 @@ GEV-26B-Decide is a text classification model based on Gemma-4-26B-A4B-it, featu
 
 `text-classification` `25.8B`
 
-⬇️ 903,866 • ❤️ 1,646 • 5d ago
+⬇️ 903,866 • ❤️ 1,793 • 5d ago
+
+---
+
+**[clef](https://huggingface.co/Cloudflare/clef)**
+
+*Cloudflare*
+
+Clef is a 27B multimodal model that takes structured typed questions and a state (text, JSON, image, or video) to output probabilities for predefined decision options in a single forward pass, ideal for classification and structured output tasks.
+
+`image-text-to-text` `27.4B`
+
+⬇️ 10,874 • ❤️ 1,877 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 21,148 • ❤️ 1,109 • 1d ago
+⬇️ 21,148 • ❤️ 1,163 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German a
 
 `text-generation` `78.1B`
 
-⬇️ 6,777 • ❤️ 799 • 5d ago
+⬇️ 6,777 • ❤️ 808 • 5d ago
 
 ---
 
@@ -447,19 +447,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,933,066 • ❤️ 3,643 • 10d ago
-
----
-
-**[clef-flash](https://huggingface.co/Cloudflare/clef-flash)**
-
-*Cloudflare*
-
-Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts text, JSON, image, or video inputs into structured, typed decisions based on a provided schema. It excels at classification and structured output tasks, returning probabilities for predefined options without free-form text generation.
-
-`image-text-to-text` `9.4B`
-
-⬇️ 17,587 • ❤️ 680 • 22h ago
+⬇️ 1,933,066 • ❤️ 3,659 • 10d ago
 
 ---
 
@@ -471,7 +459,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 36,481 • ❤️ 638 • 9d ago
+⬇️ 36,481 • ❤️ 653 • 10d ago
 
 ---
 
@@ -483,7 +471,19 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 23,439 • ❤️ 590 • 7h ago
+⬇️ 23,439 • ❤️ 611 • 13h ago
+
+---
+
+**[clef-flash](https://huggingface.co/Cloudflare/clef-flash)**
+
+*Cloudflare*
+
+Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts text, JSON, image, or video inputs into structured, typed decisions based on a provided schema. It excels at classification and structured output tasks, returning probabilities for predefined options without free-form text generation.
+
+`image-text-to-text` `9.4B`
+
+⬇️ 17,587 • ❤️ 686 • 1d ago
 
 ---
 
@@ -495,7 +495,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,688,807 • ❤️ 6,875 • 5d ago
+⬇️ 1,688,807 • ❤️ 6,911 • 5d ago
 
 ---
 
@@ -511,7 +511,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 73 • 💬 1 • ⭐ 324 • 2d ago
+▲ 81 • 💬 1 • ⭐ 324 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -526,7 +526,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
   serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 25 • 💬 4 • ⭐ 3,645 • 22d ago
+▲ 25 • 💬 4 • ⭐ 3,751 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -540,7 +540,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.
 
-▲ 149 • 💬 4 • ⭐ 188 • 4d ago
+▲ 154 • 💬 4 • ⭐ 222 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.05608) • [💻 code](https://github.com/kandinskylab/kandinsky-6) • [🔗 project](https://kandinskylab.ai/)
 
@@ -558,6 +558,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[UniWAM: Unified World-Action Model](https://huggingface.co/papers/2610.02054)**
+
+*Jiayi Chen, Wenxuan Song, Jingbo Wang et al. (16 authors)*
+
+🏢 HKUSTGZ
+
+Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics. Conversely, world-action models inherit spatiotemporal priors from video generation models, yet remain limited in semantic understanding and reasoning under distribution shifts. We introduce UniWAM, a unified architecture that integrates a physical reasoner, a world generator, and an action predictor to jointly learn semantic understanding of the physical world, visual generation, and action prediction. To ensure the quality of the training data, we developed a rigorous data cleaning and annotation pipeline for both human egocentric data and robot data. To adapt the vision-language component to embodied tasks while preserving its inherited language capabilities, we represent low-level actions in natural language and introduce a pre-training recipe that assigns complementary supervision from visual question answering (VQA) data, human egocentric data, and robot demonstrations to the appropriate model components. During post-training, future visual noise augmentation reduces reliance on precise future predictions, while history-conditioned flow matching uses encoded action history to initialize action generation. Together, these designs significantly reduce denoising steps while maintaining performance. UniWAM achieves state-of-the-art (SOTA) performance across multiple evaluations, including in-distribution performance, robustness, generalization, instruction following, and long-horizon task execution. Furthermore, we uncover a log-linear scaling law of unified human-robot co-training, demonstrating the effectiveness of large-scale pre-training on a mixture of human and robot data.
+
+▲ 45 • 💬 2 • ⭐ 91 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.02054) • [💻 code](https://github.com/UniWAM/UniWAM) • [🔗 project](https://uniwam.github.io/)
+
+---
+
 **[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)**
 
 *Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)*
@@ -572,13 +586,27 @@ Visual backbones have evolved from Convolutional Neural Networks (CNNs) with loc
 
 ---
 
+**[WorldSonus: Bringing Sound to Worlds](https://huggingface.co/papers/2610.08760)**
+
+*Pengjun Fang, Jingyi Fa, Kam Man Wu et al. (12 authors)*
+
+🏢 NoizAI
+
+Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core challenges: real-time generation to keep pace with interactive video streams, interactive control to respond to mid-stream sound instructions, and spatially aligned stereo to reflect scene geometry and camera motion. To address these demands, we introduce WorldSonus, an interactive video-to-audio framework designed for real-time spatial sound synthesis in world models. For real-time generation, WorldSonus employs a streaming causal autoregressive diffusion architecture that synthesizes audio chunks at a low real-time factor (RTF) of 0.41. For interactive control, we incorporate an audio-centric captioning pipeline with chunk-indexed prompt scheduling, enabling dynamic manipulation of sound events during generation. For spatial alignment, we leverage high-quality stereo supervision curated from diverse stereo and ambisonic data. Extensive experiments demonstrate that while tailored for world models, WorldSonus generalizes effectively to open-domain video-to-audio benchmarks, matching or outperforming state-of-the-art bidirectional models in both acoustic quality and spatial alignment. Project page: https://noizai.github.io/WorldSonus/
+
+▲ 32 • 💬 1 • ⭐ 53 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08760) • [💻 code](https://github.com/NoizAI/WorldSonus) • [🔗 project](https://noizai.github.io/WorldSonus/)
+
+---
+
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 59 • 💬 4 • ⭐ 40,251 • 14mo ago
+▲ 59 • 💬 4 • ⭐ 40,302 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -610,32 +638,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[UniMate: One Unified Model to Animate Diverse Skeletons](https://huggingface.co/papers/2609.05415)**
-
-*Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)*
-
-🏢 Princeton University
-
-UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.
-
-▲ 23 • 💬 2 • ⭐ 1,583 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.05415) • [💻 code](https://github.com/Friedrich-M/UniMate) • [🔗 project](https://linzhanmou.com/unimate/)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 73 • 💬 2 • ⭐ 66,796 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -656,7 +658,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 6.7k • 🔱 1.6k • 2m ago
+⭐ 6.7k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -666,7 +668,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.4k • 🔱 412 • 2d ago
+⭐ 6.4k • 🔱 413 • 2d ago
 
 ---
 
@@ -676,7 +678,7 @@ PRINTFILM: AI short-video marketing and AI short-drama creation platform
 
 `Python` `ai` `ai-video` `short-drama` `short-video`
 
-⭐ 4.7k • 🔱 569 • 5h ago
+⭐ 4.7k • 🔱 569 • 11h ago
 
 ---
 
@@ -686,7 +688,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 625 • 1d ago
+⭐ 4.5k • 🔱 631 • 1d ago
 
 ---
 
@@ -696,7 +698,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.2k • 🔱 694 • 1h ago
+⭐ 4.2k • 🔱 711 • 2h ago
 
 ---
 
@@ -706,7 +708,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 3.7k • 🔱 100 • 4h ago
+⭐ 3.8k • 🔱 102 • 10h ago
 
 ---
 
@@ -716,7 +718,7 @@ A Claude Code plugin that helps you learn how to build while AI writes the code.
 
 `Python`
 
-⭐ 3.1k • 🔱 131 • 1d ago
+⭐ 3.2k • 🔱 135 • 1d ago
 
 ---
 
@@ -726,7 +728,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 547 • 21d ago
+⭐ 2.9k • 🔱 548 • 21d ago
 
 ---
 
@@ -736,7 +738,7 @@ Playwright MCP server undetected by anti-bots and captchas: AI agent browses the
 
 `Python` `ai-tools` `antidetect-browser` `autonomous-agents` `browser-agent` `browser-automation`
 
-⭐ 2.7k • 🔱 462 • 7m ago
+⭐ 2.7k • 🔱 460 • 4h ago
 
 ---
 
