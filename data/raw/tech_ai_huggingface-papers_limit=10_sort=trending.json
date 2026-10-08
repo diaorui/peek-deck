@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.08699",
       "arxiv_url": "https://arxiv.org/abs/2610.08699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 73,
+      "upvotes": 81,
       "num_comments": 1,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 3645,
+      "github_stars": 3751,
       "project_page": null
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2610.05608",
       "arxiv_url": "https://arxiv.org/abs/2610.05608",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05608.png",
-      "upvotes": 149,
+      "upvotes": 154,
       "num_comments": 4,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/kandinskylab/kandinsky-6",
-      "github_stars": 188,
+      "github_stars": 222,
       "project_page": "https://kandinskylab.ai/"
     },
     {
@@ -77,6 +77,25 @@
       "project_page": null
     },
     {
+      "id": "2610.02054",
+      "title": "UniWAM: Unified World-Action Model",
+      "authors": "Jiayi Chen, Wenxuan Song, Jingbo Wang et al. (16 authors)",
+      "organization_name": "HKUSTGZ",
+      "organization_fullname": "HKUSTGZ",
+      "organization_avatar": "https://www.gravatar.com/avatar/70f662accc42fce026543de48099c80f?d=retro&size=100",
+      "summary": "Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics. Conversely, world-action models inherit spatiotemporal priors from video generation models, yet remain limited in semantic understanding and reasoning under distribution shifts. We introduce UniWAM, a unified architecture that integrates a physical reasoner, a world generator, and an action predictor to jointly learn semantic understanding of the physical world, visual generation, and action prediction. To ensure the quality of the training data, we developed a rigorous data cleaning and annotation pipeline for both human egocentric data and robot data. To adapt the vision-language component to embodied tasks while preserving its inherited language capabilities, we represent low-level actions in natural language and introduce a pre-training recipe that assigns complementary supervision from visual question answering (VQA) data, human egocentric data, and robot demonstrations to the appropriate model components. During post-training, future visual noise augmentation reduces reliance on precise future predictions, while history-conditioned flow matching uses encoded action history to initialize action generation. Together, these designs significantly reduce denoising steps while maintaining performance. UniWAM achieves state-of-the-art (SOTA) performance across multiple evaluations, including in-distribution performance, robustness, generalization, instruction following, and long-horizon task execution. Furthermore, we uncover a log-linear scaling law of unified human-robot co-training, demonstrating the effectiveness of large-scale pre-training on a mixture of human and robot data.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.02054",
+      "arxiv_url": "https://arxiv.org/abs/2610.02054",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02054.png",
+      "upvotes": 45,
+      "num_comments": 2,
+      "published_at": "2026-09-30T20:00:00.000Z",
+      "github_repo": "https://github.com/UniWAM/UniWAM",
+      "github_stars": 91,
+      "project_page": "https://uniwam.github.io/"
+    },
+    {
       "id": "2609.33325",
       "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
       "authors": "Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)",
@@ -96,6 +115,25 @@
       "project_page": null
     },
     {
+      "id": "2610.08760",
+      "title": "WorldSonus: Bringing Sound to Worlds",
+      "authors": "Pengjun Fang, Jingyi Fa, Kam Man Wu et al. (12 authors)",
+      "organization_name": "NoizAI",
+      "organization_fullname": "NoizAI",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/680dc576c443f2237144acef/B1aPKh4Qdvyy4fuIlvzVN.png",
+      "summary": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core challenges: real-time generation to keep pace with interactive video streams, interactive control to respond to mid-stream sound instructions, and spatially aligned stereo to reflect scene geometry and camera motion. To address these demands, we introduce WorldSonus, an interactive video-to-audio framework designed for real-time spatial sound synthesis in world models. For real-time generation, WorldSonus employs a streaming causal autoregressive diffusion architecture that synthesizes audio chunks at a low real-time factor (RTF) of 0.41. For interactive control, we incorporate an audio-centric captioning pipeline with chunk-indexed prompt scheduling, enabling dynamic manipulation of sound events during generation. For spatial alignment, we leverage high-quality stereo supervision curated from diverse stereo and ambisonic data. Extensive experiments demonstrate that while tailored for world models, WorldSonus generalizes effectively to open-domain video-to-audio benchmarks, matching or outperforming state-of-the-art bidirectional models in both acoustic quality and spatial alignment. Project page: https://noizai.github.io/WorldSonus/",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.08760",
+      "arxiv_url": "https://arxiv.org/abs/2610.08760",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08760.png",
+      "upvotes": 32,
+      "num_comments": 1,
+      "published_at": "2026-10-05T20:00:00.000Z",
+      "github_repo": "https://github.com/NoizAI/WorldSonus",
+      "github_stars": 53,
+      "project_page": "https://noizai.github.io/WorldSonus/"
+    },
+    {
       "id": "2508.02739",
       "title": "Kronos: A Foundation Model for the Language of Financial Markets",
       "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
@@ -111,7 +149,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 40251,
+      "github_stars": 40302,
       "project_page": null
     },
     {
@@ -151,47 +189,9 @@
       "github_repo": "https://github.com/vllm-project/vllm",
       "github_stars": 86094,
       "project_page": null
-    },
-    {
-      "id": "2609.05415",
-      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-      "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. (7 authors)",
-      "organization_name": "princetonu",
-      "organization_fullname": "Princeton University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/b3xXusq8Zz3ej8Z6fRTSZ.png",
-      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to arbitrary kinematic trees via the graph Laplacian; and (3) a global topological conditioner attention-pooled from the rest-pose skeleton. We also curate UniML3D, 13,006 motion sequences spanning bipedal, quadrupedal, avian, marine, insectoid, serpentine, and articulated rigid objects with unified canonicalization and text pairing. Trained on this dataset, UniMate outperforms state-of-the-art baselines in quality, generalization, and efficiency, and supports zero-shot cross-topology transfer, in-betweening, expansion, and text-guided editing. Our project page is available at https://linzhanmou.com/unimate/.",
-      "ai_summary": "UniMate is a unified diffusion transformer that generates articulated motion for arbitrary skeletons from text and rigged 3D assets without per-skeleton retraining, using topology-aware attention and a large curated motion dataset.",
-      "hf_url": "https://huggingface.co/papers/2609.05415",
-      "arxiv_url": "https://arxiv.org/abs/2609.05415",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05415.png",
-      "upvotes": 23,
-      "num_comments": 2,
-      "published_at": "2026-09-03T20:00:00.000Z",
-      "github_repo": "https://github.com/Friedrich-M/UniMate",
-      "github_stars": 1583,
-      "project_page": "https://linzhanmou.com/unimate/"
-    },
-    {
-      "id": "2504.19413",
-      "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
-      "authors": "Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Large Language Models (LLMs) have demonstrated remarkable prowess in\ngenerating contextually coherent responses, yet their fixed context windows\npose fundamental challenges for maintaining consistency over prolonged\nmulti-session dialogues. We introduce Mem0, a scalable memory-centric\narchitecture that addresses this issue by dynamically extracting,\nconsolidating, and retrieving salient information from ongoing conversations.\nBuilding on this foundation, we further propose an enhanced variant that\nleverages graph-based memory representations to capture complex relational\nstructures among conversational elements. Through comprehensive evaluations on\nLOCOMO benchmark, we systematically compare our approaches against six baseline\ncategories: (i) established memory-augmented systems, (ii) retrieval-augmented\ngeneration (RAG) with varying chunk sizes and k-values, (iii) a full-context\napproach that processes the entire conversation history, (iv) an open-source\nmemory solution, (v) a proprietary model system, and (vi) a dedicated memory\nmanagement platform. Empirical results show that our methods consistently\noutperform all existing memory systems across four question categories:\nsingle-hop, temporal, multi-hop, and open-domain. Notably, Mem0 achieves 26%\nrelative improvements in the LLM-as-a-Judge metric over OpenAI, while Mem0 with\ngraph memory achieves around 2% higher overall score than the base\nconfiguration. Beyond accuracy gains, we also markedly reduce computational\noverhead compared to full-context method. In particular, Mem0 attains a 91%\nlower p95 latency and saves more than 90% token cost, offering a compelling\nbalance between advanced reasoning capabilities and practical deployment\nconstraints. Our findings highlight critical role of structured, persistent\nmemory mechanisms for long-term conversational coherence, paving the way for\nmore reliable and efficient LLM-driven AI agents.",
-      "ai_summary": "Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.",
-      "hf_url": "https://huggingface.co/papers/2504.19413",
-      "arxiv_url": "https://arxiv.org/abs/2504.19413",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2504.19413.png",
-      "upvotes": 73,
-      "num_comments": 2,
-      "published_at": "2025-04-27T21:46:35.000Z",
-      "github_repo": "https://github.com/mem0ai/mem0",
-      "github_stars": 66796,
-      "project_page": "https://mem0.ai/research"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-08T13:55:10.985743+00:00"
+  "fetched_at": "2026-10-08T19:41:28.408430+00:00"
 }
