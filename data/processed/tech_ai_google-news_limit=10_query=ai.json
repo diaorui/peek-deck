@@ -5,14 +5,74 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Sharing AI progress in mathematics",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
-      "pub_date": 1791325310.0,
-      "article_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+      "headline": "\u2018Dystopian\u2019: Co-op becomes latest firm to put staff under AI surveillance",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWR1QnJQemJYOUd6LUJ5dzQ5VTF3b21EZlVYakphU0Z3ZVVWS0tad3VLZUZPV2VsMjBINzBlZXV4WTNpeGdoUmRqUDNHYU9pWFl3bEdpUy1ZY3J0LVhjOTlBYm5fX1V1ZU1MQ3dUMTFzdngzWDFqQUwzZ3VzTHpzQ0djY2l6SU03VmZmQklvWDg3NWJJNFQ5VXdDSl95Qjkzd0JMcEVJQ1BvWFU?oc=5",
+      "pub_date": 1791458160.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
+      "image": "https://i.guim.co.uk/img/media/1a5f3048de6dfa0f9800453e99cb7fc6e46c3f57/1240_112_3906_3125/master/3906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fc81fe9221ada8ee900dbae97efcce6",
+      "description": "Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive"
+    },
+    {
+      "headline": "We're making it easier to identify AI-generated content globally.",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZFBxX0NuSXJvdzBhRGF2LVF6ZTVHYzBVQzBkVXZ4RUtHMWsyYlZUdXg0Yk9IZFpKOUJnRFF0dDFSelZHN1BnT0NydVFUYjhBWFFaOVpONFgzMFpYLS1KQ3ltQ3haeExvVjJNMzZXR3RINXlWdmZXLUVYdWlGdFFFRGFoN0VDcnJFZkxWWWFYRVUtNGJPUmdMdlRR?oc=5",
+      "pub_date": 1791382684.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png",
+      "description": "We\u2019re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners."
+    },
+    {
+      "headline": "Alphabet shares rise as Google pushes Gemini deeper into enterprise AI",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1pXUkwtVUEydnZraldMLThlY0w4ek4tZTFKaC1PQkw1TFJoZVBwaF9WalJ6eEh3ek1rcmpqc1NFdjJJOXRqWXNnQjRmRHlfb2l4NFhTMHhnUmxLVFprVzNTczZoZ0I1a2lMVk9ydFI2eUF4LVhTZk5oTGhOZHNQOVVSZzI1aExFY1V4MGNzVnZJR1M2bnpvUEFUYnZvV1E?oc=5",
+      "pub_date": 1791465082.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/alphabet-shares-rise-google-pushes-131122567.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com -- Alphabet Inc. (NASDAQ: GOOGL) shares rose 1% Thursday, outperforming a broader technology selloff, as Google Cloud highlighted the growing role of Gemini in enterprise workflows and pushed further into the increasingly competitive market for AI agents."
+    },
+    {
+      "headline": "Google experiments with an AI-powered gaming platform",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19wOXlWcGQ4Wng0d3ZtS1hiTDZvanRPVHVkemgtUEQ0OXRGeTk0NVdBallhd01WV1ZpcVp5YmhZaUZrbkF0aVVBUVFkREcxSEJBNnZWMnhuY184U2Vfb1QwQW55bHhmNVZlRm9EX1dyQm5nVkpPUEZyMjIzMDdRRHZCV3l4Nm94NUdzMzZQbVZsdw?oc=5",
+      "pub_date": 1791383783.0,
+      "article_url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142",
+      "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
+    },
+    {
+      "headline": "Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb29OcGYtekVPNXRCUFhscXRZanNDOUxEREFrWDZqb19NMUM3LUVuUVd4dXlZLVlUSDNqdUFrdDZaMVpUamhfdVhybm1jeTdFR3R5dDdPN3NnNzlqcE9qMWxkTTdZRm9OUlc3UTR2SkZFbFNOa1lrRm9rUUsySE53cGZRdlNWbnc?oc=5",
+      "pub_date": 1791465975.0,
+      "article_url": "https://qz.com/snorkel-ai-ceo-350-million-round-helps-teams-pushing-the-frontier",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Snorkel%20AI%20CEO%20Alex%20Ratner-%20350%20million%20round%20helps%20teams%20pushing%20the%20frontier.jpg",
+      "description": "Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier"
+    },
+    {
+      "headline": "IBM Study Raises Questions About Critical Thinking And AI Training",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWY1bGZrRDRGcUJFVDBOZ1Z3LVBVTTBFRmZlWlJJY3pvc2NobTE5eEhqQkpaT1JZbzROc1hsMzFUcFZUaTY1eHhrMktQT3JOajl6M1FySGFyZlVKNkNkcUhZa3pRZk9Db3pKTVhGNHFwN0FCUWdodURZMkRPTC01dE50LWx1QzgweVJLdnNFck9MZGVDdWxRbmpVem03ZllEQ1NOSXFXSGNCQzYzR2ZrdFpOVDdtV21sVTJVZWxn?oc=5",
+      "pub_date": 1791466491.0,
+      "article_url": "https://www.forbes.com/sites/dianehamilton/2026/10/08/ibm-study-raises-questions-about-critical-thinking-and-ai-training/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What Does Hollywood\u2019s Growing Embrace Of AI Means For Black Filmmakers And Producers?",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTVyckRXVUltc2gwS0tTOEk0RDkyWGxDWkhremU2c2cwQmtUSGwwdUhkQWhidmtZWXZHbWx5M3JCN0FGZlVGRXpoWXByQmZwUXNRN3c3TnppdVl4cVNYQnJfV2hkWFFWeWYwMHQ4a3J2M0hSb0N2UmVKemlUX0M5Y3ZZb1FuRzdWYkNRdU5uQl9MWlBvY2s0VERZaDRwZ05lVUE?oc=5",
+      "pub_date": 1791466367.0,
+      "article_url": "https://www.yahoo.com/entertainment/movies/articles/does-hollywood-growing-embrace-ai-133247052.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/12adfe640f607c1d11af99cb635cecc181a0e89a695231a3999c9fe1edd22da1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafrotech_articles_589%2Ff1525f41854041df49b747c84d723f8a.jpg",
+      "description": "Artificial intelligence (AI) is gaining ground across industries, including entertainment."
     },
     {
       "headline": "He\u2019s the Most Powerful Engineer on Earth. Here\u2019s Why He Thinks A.I. Is Going Great.",
@@ -25,24 +85,14 @@
       "description": null
     },
     {
-      "headline": "TSMC\u2019s Quarterly Revenue Jumps 51% After AI Demand Holds Up",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTg3enVNeFlpZmJZV2dvY05xSy1FVXI3NGhCOVRrRlZhRXJRblBFRm8xbDBuQ3hYX2p0RkJUMks2LUZEQ2pjaWxPU0FvWkpFNHlnV0ktUW1KTTdQZE1UWl80S0Vyb1JQVFNWLXVDN2RsNzlLWHVCNURsbEhLVTNjTExnTHhGN3pUdFVRMUVzdGlSaVZNZ3ZDOHg3SEt6X0RvM1h5RUd3SDhMa2k4T2c?oc=5",
-      "pub_date": 1791438240.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/tsmc-s-quarterly-revenue-jumps-51-after-ai-demand-holds-up",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Sarvam Bets On A Google And Microsoft Veteran To Sell Sovereign AI",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnBuWWVOa1Jacm5aenFzRGQ4cVV2Q0pEbV9CZnBMWFZsLUMxU0p4QVB2bkxSQjhXZ0JwaXo1anZsc3R4TmkyVk82SEN3ZzlpekNYdHpmZDdMajRTTTU3VUI3b3kydU9XRzlWLWh6czFGT3diTnFPTUZQYjlwT3dPQUxUNWlTclpib2d0NkhNUTh1T1EtM08wMnpDSER6NnkwcDdoQ0dham5COE5BdjhXRm5UUmczRnpENDhmSg?oc=5",
-      "pub_date": 1791436079.0,
-      "article_url": "https://www.forbes.com/sites/janakirammsv/2026/10/08/sarvam-bets-on-a-google-and-microsoft-veteran-to-sell-sovereign-ai/",
-      "image": null,
-      "description": null
+      "headline": "GPT-6 and Intelligent UI for everyone",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
+      "pub_date": 1791413915.0,
+      "article_url": "https://openai.com/index/gpt-6-for-everyone/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5frqtUAWccstAbVrCFraH6/5ae9b6bfbc3f3dff8001ed249812f97d/Intelligent-UI_Art-Card_16x9.png?w=1600&h=900&fit=fill",
+      "description": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
     },
     {
       "headline": "Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market",
@@ -53,58 +103,8 @@
       "article_url": "https://finance.yahoo.com/technology/article/microsoft-debuts-nvidia-powered-surface-laptop-ultra-as-it-aims-for-ai-market-185630649.html",
       "image": "https://s.yimg.com/lo/mysterio/api/0178bd15ca80f05022997e782fe55b9cb64d12d6a36db28f5a0fcb32b96b5fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fsurface-laptop-ultra-opened_6543.png",
       "description": "Microsoft debuted its Surface Laptop Ultra, powered by Nvidia's RTX chip on Wednesday."
-    },
-    {
-      "headline": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42emZsS3FlLU1vaVE4WW40aGFZa09nS1VLaV9td0JZS2t3Z2pwTDhkTG5ITkJVajYzQWVtWURTTkJTenR6N0paeE14bzg3OTVZYXkzNmRMWUFqSVQ4ZlhNZnpFdWdWUXlHcGdOTUVwSWlQcTd1SE1XZ25OWEdjZw?oc=5",
-      "pub_date": 1791398890.0,
-      "article_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-microsoft-event-3840x2160-1-scaled.png",
-      "description": "NVIDIA RTX Spark pre-orders open October 16, and DGX Station for Windows brings GB300 AI infrastructure to the enterprise desktop."
-    },
-    {
-      "headline": "Microsoft wants AI to run on your laptop, not in the cloud",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1l4eEZrQldrUmt5Qlc1blM2M2Uyd1RvaWN6V1pxUXFYbU9raXpaSER1YnpfVnEzTFV4VFJVLUh2b01tcS1YdTQxNzNqS0hYUkRkSWZsR2I3MHpjVWN6WE1yakhLdmRjbXJZRXpQeTVxcU9aSW1peExydG1kazVWZWhJOUU?oc=5",
-      "pub_date": 1791439140.0,
-      "article_url": "https://www.yahoo.com/news/videos/microsoft-wants-ai-run-laptop-055920540.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/31e46a88d7e11a442c932fc0b2a625482013fb53231a397a82f734ec5eccacc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2F814dcf7f-aee2-429c-b279-5089b76d82bc%2Fmain%2F1280x720%2F1m12s341ms%2Fmatch%2Fimage.jpg",
-      "description": "STORY: :: Stephen Nellis, Technology Correspondent\n:: San Francisco, California / October 7, 2026\n:: Microsoft\n\"Stephen Nellis here with Reuters in San Francisco, where we've just wrapped up an event..."
-    },
-    {
-      "headline": "Introducing Playground: Create and play custom games",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3h6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5",
-      "pub_date": 1791375427.0,
-      "article_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.width-1300.png",
-      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
-    },
-    {
-      "headline": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYk1Ed3NvZDhDNE52UmRndVRZSEtXa0h3MnFNODd2ZVBzX0YyTzVUTzhSSlpaZUlkZ0xlaktHbUtBTW9ZMzI0T05TdXhqdGFldEtXdmowajJRMFpSRmNORWpfMURaTTDSAWxBVV95cUxNTDMyVlo4VERLanFwMHgtVnk2YjVzWEcwZE41UHpwMVUyMno4bjVjRlYya0JmU0xMY0hnaGktODN3MU5YeGxRN0s0YjJFTlQtRmJzQ1BEVGZUZE5LVkhEOTR1dkJ3YmxCS1BpNXc?oc=5",
-      "pub_date": 1791413463.0,
-      "article_url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
-      "description": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time."
-    },
-    {
-      "headline": "AI chip boom pushes Samsung profits to record $80bn",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WUJNYjRyQm5lSXhtVnhIRXFnUmJKbGpCMWRUWDUtSWdpOVcwWkVCeUMzU0RXVk9USUpBRmYzQkNUV1RpUXg5VXo5cm91cHBvR0dEWF9WbTZMTXM?oc=5",
-      "pub_date": 1791424794.0,
-      "article_url": "https://www.bbc.com/news/articles/c687z8127302o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
-      "description": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T06:29:16.119729+00:00"
+  "fetched_at": "2026-10-08T13:55:38.349861+00:00"
 }

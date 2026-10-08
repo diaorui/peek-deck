@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-08T06:29:22.545899+00:00'
+updated: '2026-10-08T13:55:41.836163+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 08, 2026 at 06:29 UTC  
+**Last Updated:** October 08, 2026 at 13:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,61 +39,7 @@ AI news, discussions, and developments
 
 **[Video game fan translator says AI output is better than their own translation, deletes 3 years of work on project - "I was wasting my time"](https://www.reddit.com/r/artificial/comments/1x0f99n/video_game_fan_translator_says_ai_output_is/)**
 
-🔗 [ayana0720.wordpress.com](https://ayana0720.wordpress.com/2026/10/07/update-3/) • 4h ago
-
----
-
-**[Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations](https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/)**
-
-🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/) • 2h ago
-
----
-
-**[Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]](https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/)**
-
-From: https://archive.org/details/MarkovCyberneticsTodayMir1984/mode/1up Why Artificial Intelligence Is Impossible A. V. BRUSHLINSKY The desire of modern cyberneticists to answer positively the question “Can the computer think?” has taken various forms. One approach has resulted in attempts to create artificial or machine intelligence. Such attempts have been criticized by scientists from an extreme cybernetic point of view based on the philosophico-psychological proof of the impossibility of machine intelligence. This criticism, first voiced in the USSR in the late 1950s and early 1960s by S. L. Rubinstein, E. V. Ilyenkov, M. M. Rosental, and other researchers, involves the critical comparison of natural and artificial intelligence. Such an approach, in my opinion, should be continued as follows. Technology (for instance, artificial intelligence) and the mind (for instance, mental processes) are based on essentially different types of interconnection between their elements. Any machine built by man is a unified whole made up of clearly defined, separate component parts, assemblies, blocks, and so on. This intrinsic separateness between individual parts characterizes not only the structure of the whole, or its “morphology,” but also its functioning, or “physiology.” As M. Minsky aptly put it, machines and automated systems switch from one condition to another in clear-cut, “discrete” steps. The simplest example is provided by a motor as the driver starts up, changes speed, and shuts it off. Similar relations between the elements within a unified whole are peculiar to the mathematical set, a concept which, according to many experts, is basic to mathematics. We will call such relations disjunctive. Mathematics, then, as well as engineering, is disjunctive: it idealizes the type of interrelation between elements that is realized in technology. This is true of both discrete and continuous mathematics. The term “disjunctive” is more appropriate in this context than the more specific term “discrete,” which is inevitably associated with discrete mathematics, for instance, as opposed to continuous mathematics. Thus, a mathematical set, a machine, and an automaton all represent different varieties of basically similar, disjunctive systems composed of inherently individual elements separated inside a unified whole. The functions of the mind represent a fundamentally different type of system. The actual process of mental activity in a human being, for instance, is never disjunctive in the sense mentioned above. The stages and elements of the natural thought process are so organically interconnected that they cannot be likened to disjunctive, individual machine components or set elements. The stages of such a mental process overlap, intertwine, arise genetically one from another, and so on. This non-disjunctive character of relations between the components of the mental process has been demonstrated experimentally in work showing that the thought process (for example, the solution of a problem) always results in the prediction of a solution to the given problem. Such a mental prediction makes a choice among alternative solutions unnecessary. The necessity of choosing reflects a form of formally logical relation between the results of the mental process, but not the process itself. Such a choice is a specific, although common, instance of disjunction, that is, of inherent separateness and mutual exclusion of alternatives. Disjunctive relations are most adequately generalized in formal logic (in particular, mathematical logic), which, on a certain level of abstraction, can be very productive and promising, although it is detached from the development of the object being studied. Non-disjunctive relations are generalized in the terms of dialectical logic, which provides the methodological basis necessary for studying the development of an object. The psychology of thought based on dialectical logic also attempts to investigate systematically the micro- and macro-development of the mental process as well as the transformation of each of its stages, components, operations, and so on. Consequently, the highest level of such continuity (in the psychological sense described above rather than in the mathematical sense) in the shaping of the conscious and unconscious mental processes is non-disjunctive, that is, genetically continuous. It is clear from the foregoing that the psychological concept of continuance substantially differs from the mathematical (disjunctive). This interpretation of the disjunctive and the non-disjunctive provides a clear answer to the question of machine “thinking,” in general, and artificial intelligence, in particular. Artificial, machine intelligence is theoretically impossible to create since it is intrinsically disjunctive, whereas the natural mental process is always non-disjunctive. The machine and the living organism develop in essentially different ways. A living organism emerges from a single fertilized egg cell, which evolves by differentiation in a single, unbroken process. Machines are created by man in just the opposite manner, by the deliberate assembly of inherently separate, prefabricated parts. In this respect any modern or future machine (including the computer) can only be an artificial disjunctive formation, that is, secondary to and derivative of man and his activity. The machine is created by man and man alone, and therefore cannot be non-disjunctive. As a result, artificial intelligence is impossible. The area of research erroneously referred to as “the design of artificial intelligence,” however, remains important and fruitful because current and future machines are the necessary tools (and only tools!) of creative and non-creative human activity. Man has been and will be the only being truly capable of thinking.
-
-8h ago
-
----
-
-**[The New AI Slop Is Calling Everything AI Slop](https://www.reddit.com/r/artificial/comments/1x0a90k/the_new_ai_slop_is_calling_everything_ai_slop/)**
-
-For a while, AI slop was a useful phrase. It named something real: the flood of cheap, careless, machine-generated material pumped onto the internet with no reporting, no editing, no point of view, and often no concern for whether any of it was true. It described fake images with mangled hands, articles assembled from search results, made-up quotes, empty listicles, spam sites, and social posts produced at industrial scale because producing something had become cheaper than caring whether it was worth producing. That criticism mattered. It still does. But something strange has happened on the way to cleaning up the slop. The accusation itself has started turning into slop. Scroll through almost any comment section now and you can see the new drive-by ritual. Someone encounters a piece of writing that is polished, structured, unusually detailed, written in a tone they do not expect, or simply longer than the average social post. Then comes the verdict: “AI slop.” “ChatGPT wrote this.” “This is obviously AI.” Sometimes there is no explanation at all. No factual error identified. No fabricated source uncovered. No impossible quote. No evidence that the writer did not do the work. Just a label dropped from a moving car, followed by the digital equivalent of speeding away. The irony is becoming difficult to ignore. Many of these accusations sound nearly identical to one another. The same phrasing. The same cadence. The same certainty. The same little performance of having detected something everyone else somehow missed. We spent years worrying that bots would fill the internet with repetitive language, and now some of the most repetitive language online is coming from people accusing everyone else of being a bot. That is not skepticism. Skepticism asks questions. Skepticism checks claims. Skepticism looks for evidence. Skepticism notices when a citation does not exist, when a quotation cannot be traced, when an image contains impossible details, when an article says a lot while reporting nothing, or when an author cannot explain where information came from. Those are useful signals. They are specific. They can be discussed. They can be proven or disproven. “It sounds like AI” is not evidence. Increasingly, it is just a vibe wearing a detective hat. Worse, the drive-by accusation creates a bizarre incentive for human writers: write worse if you want to be believed. Leave in awkward sentences. Avoid clean transitions. Do not organize your thoughts too neatly. Do not use a colon correctly. God help you if you use parallel structure. If your prose is too polished, too balanced, too grammatical, too efficient, somebody may decide that no human being could possibly have produced it. We are approaching a point where competence itself can trigger suspicion. That should bother anyone who cares about writing, journalism, criticism, education, or basic fairness. A person can spend hours interviewing people, checking facts, rewriting paragraphs, tightening a headline, and trying to make a complicated subject understandable, only to have the entire effort waved away in four seconds by somebody who read the first two paragraphs and recognized a sentence pattern they once saw in a screenshot about ChatGPT. The accusation costs nothing. The work it dismisses may have cost an afternoon, a week, or years of accumulated skill. And false accusations do not just insult writers. They make the real problem harder to fight. If everything is AI slop, then nothing is. If every polished paragraph is treated as suspicious, the phrase loses meaning. If readers cry “ChatGPT” every time they encounter a semicolon, then the people actually flooding the web with fabricated, unedited machine content get camouflage for free. Noise overwhelms signal. The watchdog starts barking at every passing car until nobody looks out the window anymore. There is another uncomfortable possibility here. The AI accusation has become socially useful because it allows people to reject a piece without engaging with it. You do not have to challenge the reporting if you can declare the reporting synthetic. You do not have to explain why an argument is wrong if you can claim nobody really wrote it. You do not have to admit that a stranger made a point worth considering if you can reduce the stranger to a prompt box. “AI slop” can function less like media literacy and more like an eject button from the conversation. None of this means people should stop questioning what they see online. Quite the opposite. The internet needs more scrutiny, not less. But scrutiny has to be better than pattern-matching a handful of stylistic quirks and issuing a sentence. Ask where the information came from. Check the links. Look at the reporting trail. Find the original source. Challenge the claim. Point to the sentence that is wrong. Show the contradiction. If there is evidence of careless AI use, say what the evidence is. That is how criticism becomes useful instead of performative. And yes, AI changes the equation. Writers use it. Editors use it. Students use it. Businesses use it. Some people use it responsibly as a tool; others use it to manufacture garbage at scale. The existence of the tool is not the interesting question anymore. The interesting question is whether the work has substance, accountability, originality, reporting, thought, and a person willing to stand behind it. We should be judging the work by what it does, not pretending we can identify its entire production history from the presence of an em dash. The internet was right to develop an allergy to AI slop. But allergies can overreact. What began as a defense against low-effort synthetic content is becoming its own low-effort behavior: see writing, feel suspicion, paste accusation, move on. There is a simple standard that would improve the conversation immediately: if you are going to accuse someone of faking the work, bring something more substantial than a hunch. The burden of proof should rise with the severity of the accusation. “I disagree with this” is an opinion. “This contains factual errors” is a claim that can be checked. “This person did not write this” is an accusation about authorship. Those are not the same thing, and we should stop pretending they are. AI slop is still real. It is still worth calling out. But the answer cannot be turning human conversation into another automated-looking stream of identical, evidence-free replies. Because if the only thing your comment contributes is “sounds like ChatGPT,” you may not have detected the slop. You may have added to it.
-
-🔗 [Raccoon Media Network](http://rmn.pub/the-new-ai-slop-is-calling-everything-ai-slop) • 8h ago
-
----
-
-**[How is AI accelerating progress in medicine, and when will it reach the level of impact it has already achieved in programming and mathematics?](https://www.reddit.com/r/artificial/comments/1x0g3oy/how_is_ai_accelerating_progress_in_medicine_and/)**
-
-Because of my own health issues, I now have to pay close attention to and hope for progress in this field. How is AI currently accelerating medical research and development? As LLMs continue to evolve, major AI companies shift more attention toward healthcare, and the necessary infrastructure is built, will this progress accelerate significantly? Or will AI’s impact on medicine remain relatively limited unless we achieve breakthroughs beyond LLMs, such as world models or even revolutionary robotics?
-
-3h ago
-
----
-
-**[Scientists use generative AI to build better proteins for editing DNA](https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/)**
-
-A protein designed with artificial intelligence doubled targeted DNA insertion in cultured cells when incorporated into an experimental gene-editing system. The result emerged from a search through thousands of genomes, followed by laboratory tests of natural and synthetic proteins. The study, involving Integra Therapeutics, Pompeu Fabra University and the Center for Genomic Regulation, appeared in Nature Biotechnology. It examines proteins called transposases, which move DNA between locations. The findings expand the available tools for inserting genes, including into human immune cells. They also expose an important distinction: improving one step of gene editing does not necessarily improve every application.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-use-generative-ai-to-build-better-proteins-for-editing-dna) • 7h ago
-
----
-
-**[Epoch AI shows LLMs still have a long way to go before matching human researchers on innovation](https://www.reddit.com/r/artificial/comments/1x0j40e/epoch_ai_shows_llms_still_have_a_long_way_to_go/)**
-
-https://fixupx.com/EpochAIResearch/status/2107895808217788800?s=20
-
-35m ago
-
----
-
-**[Use.ai provider scam](https://www.reddit.com/r/artificial/comments/1x0hgde/useai_provider_scam/)**
-
-PSA: avoid use.ai — $1.70 "trial" turned into a $39.99 charge with no reminder, and the premium plan gave me 2 flagship responses Signed up for their trial back on Sep 14. It was $1.70 so I figured why not. The welcome email did mention it renews at $39.99/month, I'll give them that. Then Oct 5 I get an email saying "your plan has been updated" — that's the $39.99 charge hitting my card. Same day. No heads up beforehand, no "hey your trial's ending" email, nothing. Just the charge. Here's the kicker. I actually tried using the premium plan those two days. Got exactly two responses out of their flagship model (Opus 5.5) before hitting the usage cap. Two. For forty fucking bucks. Cancelled on Oct 7, two days after the charge. Their confirmation basically says "cool, no refunds though" — their actual policy is literally "no refunds for partial subscription periods." Emailed their billing team asking for a refund. We'll see. And apparently this is just what they do. Found a Trustpilot review from February describing the exact same thing — trial, silent renewal, found out from the bank statement. use.ai replied to THAT one saying the refund was "already approved" and processed within hours. So they can refund, they just do it when people complain in public. There's also some site collecting like 25+ reports of the same billing pattern. The reason I'm posting this here: these guys buy top sponsored placement whenever you search for AI tools. That's literally how I found them — I thought it was a top result. Figured the warning belongs where people will actually see it before clicking. If you try the trial anyway, set a calendar reminder to cancel. You've been warned.
-
-2h ago
+🔗 [ayana0720.wordpress.com](https://ayana0720.wordpress.com/2026/10/07/update-3/) • 11h ago
 
 ---
 
@@ -101,15 +47,69 @@ PSA: avoid use.ai — $1.70 "trial" turned into a $39.99 charge with no reminder
 
 So much for the “we don’t learn anything from these slop proofs!” excuse https://github.com/CrocSwap/integer-mult-bounds
 
-5m ago
+7h ago
 
 ---
 
-**[AI took my self esteem as a creator and I hate where this is going](https://www.reddit.com/r/artificial/comments/1x0cf7w/ai_took_my_self_esteem_as_a_creator_and_i_hate/)**
+**[Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations](https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/)**
 
-I don't know about this whole AI thing. I remember a few years ago I was so amused because I chatted with an AI chatbot who pretended to be Albert Einstein, or another one who could predict the winner of any given fight between two animals I suggested to it. Now I hear the word AI at least two times a day, it's everywhere, and you cannot escape the topic. I started to get addicted to getting more and more information about the world, and as soon as I have a question in my mind, I just ask AI. I'm studying architecture, so I naturally produce new ideas. I love using 3D modeling programs or analogue working techniques, but because I started to use AI as a dialogue partner for my design work, it feels like the projects kind of lost their identity. I used to write, but AI completely took my self esteem, and every time I finish a text (also this one here), I use AI to correct it. Right now I'm learning Blender. Yesterday I saw a video of AI creating a 3D world in seconds. I'm thinking about quitting, because all I used to do seems pointless nowadays. I know these are all my faults. I could just adapt and fully commit to AI, I mean, it's the future. But I just don't want to: I'm afraid we're losing our creativity, because all the work we used to do will be done by AI. What's the point of carrying on? No one asked me if I want to participate in this social experiment. No one asked the millions of people who are also against AI. If it were up to me, I would burn the data centers and start again. We went too far. But who am I? No one asked me, some elite people in this world decided this will be the future, and so it is. I'm sick of reading poems and articles and already assuming they are AI. Who really wants AI in the music industry? Yes, I see the benefits too. I'm actually a Marxist, and I really do think that AI could help build a functioning socialism because we're now much better at planning our economy. We could use AI to build a better environment. But let's be real, we all know that AI is used to develop already greedy capitalism into digital feudalism. Even now, it's only possible to work with tools from the big tech companies. They give us resources, we depend on them, and we give back our data and money. I mean, everybody knows that all of this will end in a catastrophe, but we're all forced to participate. We already killed our brain cells with the smartphone, and AI is doing the rest. I never imagined I would live in a world portrayed by dystopian movies I saw as a kid back in the day, but all of this will actually happen. It's so crazy, to a point where even I get excited. I don't know why I wrote this, maybe someone can give a more optimistic view on that. As you can see, there are probably a lot of raw, spontaneous reflections by myself. I'm just depressed because of all of this. Not even because I will have a hard time in my profession, not because I invested so much time in learning things which will become redundant in a few years, but because AI will become the biggest topic in all our lives, and no one got asked if we even want this. EDIT: Thank you all for your answers! Just to clarify, because I don't think I explained it well: the problem is not that I use AI for my creative work, the problem is that I use it for validation. I developed a habit of discussing things with an AI chatbot at various stages whenever I get stuck. Normally, it would be a painful, tedious process, but finding a solution always felt organic. Now, even though I'm always careful to use AI only as a dialogue partner and not as a commander in chief, the process feels more efficient, but the result never turns out quite like what I really wanted. This has been bugging me for a long time, and I'm starting to become anxious about losing my creative spark, to the point where I really think my projects are suffering. Also, this post shouldn't be about my flaws, it's more about giving an example of the psychological struggles that come with AI. Although I'm one of the best students at my university in terms of grades, I'm highly insecure about my skills. I have imposter syndrome, and using AI is a way to cope with my doubts because it will always enhance my projects, my writing, my ideas. At least that's what I keep telling myself. And I do think it's not just me.
+🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/) • 10h ago
 
-6h ago
+---
+
+**[Gamma 5 launched yesterday. I used it for an hour, my review](https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/)**
+
+Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI agent that talks through your outline with you, plus a freeform canvas, more themes, around 20 connectors and PPT/PDF import. The major problems of gamma was ai smells, now this time they are removing it, AI removing ai smells lol but its way better than the previous ones. So the ai agents asked me two questions, searched the web and wrote an outline in under 30 seconds. But the new home prompt gave me a blank page and I had to use the classic generator to get in. Haven't touched the canvas, so I can't say anything on it.
+
+3h ago
+
+---
+
+**[Claude Haiku 5.5 is out and it is 75% cheaper than the last one](https://www.reddit.com/r/artificial/comments/1x0o904/claude_haiku_55_is_out_and_it_is_75_cheaper_than/)**
+
+Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task.
+
+🔗 [The Decoder](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/) • 2h ago
+
+---
+
+**[How is AI accelerating progress in medicine, and when will it reach the level of impact it has already achieved in programming and mathematics?](https://www.reddit.com/r/artificial/comments/1x0g3oy/how_is_ai_accelerating_progress_in_medicine_and/)**
+
+Because of my own health issues, I now have to pay close attention to and hope for progress in this field. How is AI currently accelerating medical research and development? As LLMs continue to evolve, major AI companies shift more attention toward healthcare, and the necessary infrastructure is built, will this progress accelerate significantly? Or will AI’s impact on medicine remain relatively limited unless we achieve breakthroughs beyond LLMs, such as world models or even revolutionary robotics?
+
+10h ago
+
+---
+
+**[I think I just unknowingly signed up to be a test subject on whether or not people are able to detect AI generated books.](https://www.reddit.com/r/artificial/comments/1x0pqlk/i_think_i_just_unknowingly_signed_up_to_be_a_test/)**
+
+I signed up for something that said it would pay me to review books. I figured it was another scam like those survey or game sites that pay pennies on the hour but I like reading and don't like having to choose what to read from every book ever written so I thought, why not. Something I thought was odd was that they said I was being paid to read the books not review them, they wanted an honest review even if I thought it was bad, and I could opt to write a private essay instead of publishing a review if I wanted, even though the books are already published. I read the first one and something about it seemed really lifeless. Afterwards I decided go run the PDF of the book they gave me through AI detectors and they said that they're highly confident that it's AI. That book is part of a series of books that have positive reviews that appear human-written on Amazon. I don't want to say what because honestly I went ahead and wrote the review before testing it. Honestly I regret just writing a puff piece review about it now instead of pointing out the things that made it seem so lifeless because I'm thinking I could have gotten higher payment opportunities later if I did, since that's what I think it's really about.
+
+1h ago
+
+---
+
+**[Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]](https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/)**
+
+From: https://archive.org/details/MarkovCyberneticsTodayMir1984/mode/1up Why Artificial Intelligence Is Impossible A. V. BRUSHLINSKY The desire of modern cyberneticists to answer positively the question “Can the computer think?” has taken various forms. One approach has resulted in attempts to create artificial or machine intelligence. Such attempts have been criticized by scientists from an extreme cybernetic point of view based on the philosophico-psychological proof of the impossibility of machine intelligence. This criticism, first voiced in the USSR in the late 1950s and early 1960s by S. L. Rubinstein, E. V. Ilyenkov, M. M. Rosental, and other researchers, involves the critical comparison of natural and artificial intelligence. Such an approach, in my opinion, should be continued as follows. Technology (for instance, artificial intelligence) and the mind (for instance, mental processes) are based on essentially different types of interconnection between their elements. Any machine built by man is a unified whole made up of clearly defined, separate component parts, assemblies, blocks, and so on. This intrinsic separateness between individual parts characterizes not only the structure of the whole, or its “morphology,” but also its functioning, or “physiology.” As M. Minsky aptly put it, machines and automated systems switch from one condition to another in clear-cut, “discrete” steps. The simplest example is provided by a motor as the driver starts up, changes speed, and shuts it off. Similar relations between the elements within a unified whole are peculiar to the mathematical set, a concept which, according to many experts, is basic to mathematics. We will call such relations disjunctive. Mathematics, then, as well as engineering, is disjunctive: it idealizes the type of interrelation between elements that is realized in technology. This is true of both discrete and continuous mathematics. The term “disjunctive” is more appropriate in this context than the more specific term “discrete,” which is inevitably associated with discrete mathematics, for instance, as opposed to continuous mathematics. Thus, a mathematical set, a machine, and an automaton all represent different varieties of basically similar, disjunctive systems composed of inherently individual elements separated inside a unified whole. The functions of the mind represent a fundamentally different type of system. The actual process of mental activity in a human being, for instance, is never disjunctive in the sense mentioned above. The stages and elements of the natural thought process are so organically interconnected that they cannot be likened to disjunctive, individual machine components or set elements. The stages of such a mental process overlap, intertwine, arise genetically one from another, and so on. This non-disjunctive character of relations between the components of the mental process has been demonstrated experimentally in work showing that the thought process (for example, the solution of a problem) always results in the prediction of a solution to the given problem. Such a mental prediction makes a choice among alternative solutions unnecessary. The necessity of choosing reflects a form of formally logical relation between the results of the mental process, but not the process itself. Such a choice is a specific, although common, instance of disjunction, that is, of inherent separateness and mutual exclusion of alternatives. Disjunctive relations are most adequately generalized in formal logic (in particular, mathematical logic), which, on a certain level of abstraction, can be very productive and promising, although it is detached from the development of the object being studied. Non-disjunctive relations are generalized in the terms of dialectical logic, which provides the methodological basis necessary for studying the development of an object. The psychology of thought based on dialectical logic also attempts to investigate systematically the micro- and macro-development of the mental process as well as the transformation of each of its stages, components, operations, and so on. Consequently, the highest level of such continuity (in the psychological sense described above rather than in the mathematical sense) in the shaping of the conscious and unconscious mental processes is non-disjunctive, that is, genetically continuous. It is clear from the foregoing that the psychological concept of continuance substantially differs from the mathematical (disjunctive). This interpretation of the disjunctive and the non-disjunctive provides a clear answer to the question of machine “thinking,” in general, and artificial intelligence, in particular. Artificial, machine intelligence is theoretically impossible to create since it is intrinsically disjunctive, whereas the natural mental process is always non-disjunctive. The machine and the living organism develop in essentially different ways. A living organism emerges from a single fertilized egg cell, which evolves by differentiation in a single, unbroken process. Machines are created by man in just the opposite manner, by the deliberate assembly of inherently separate, prefabricated parts. In this respect any modern or future machine (including the computer) can only be an artificial disjunctive formation, that is, secondary to and derivative of man and his activity. The machine is created by man and man alone, and therefore cannot be non-disjunctive. As a result, artificial intelligence is impossible. The area of research erroneously referred to as “the design of artificial intelligence,” however, remains important and fruitful because current and future machines are the necessary tools (and only tools!) of creative and non-creative human activity. Man has been and will be the only being truly capable of thinking.
+
+16h ago
+
+---
+
+**[Free online talk: Matthew Watkins on his new book SolidMagicKarp: A Journey into the AI Underworld](https://www.reddit.com/r/artificial/comments/1x0rgbw/free_online_talk_matthew_watkins_on_his_new_book/)**
+
+A conversation with Matthew Watkins, AI safety researcher, psychonaut and author of new book SolidMagicKarp, on living in the AI weird times
+
+🔗 [Eventbrite](https://www.eventbrite.com/e/living-in-the-ai-weird-times-a-conversation-with-matthew-watkins-tickets-2002944408644?aff=oddtdtcreator) • 5m ago
+
+---
+
+**[Scientists use generative AI to build better proteins for editing DNA](https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/)**
+
+A protein designed with artificial intelligence doubled targeted DNA insertion in cultured cells when incorporated into an experimental gene-editing system. The result emerged from a search through thousands of genomes, followed by laboratory tests of natural and synthetic proteins. The study, involving Integra Therapeutics, Pompeu Fabra University and the Center for Genomic Regulation, appeared in Nature Biotechnology. It examines proteins called transposases, which move DNA between locations. The findings expand the available tools for inserting genes, including into human immune cells. They also expose an important distinction: improving one step of gene editing does not necessarily improve every application.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-use-generative-ai-to-build-better-proteins-for-editing-dna) • 15h ago
 
 ---
 
@@ -117,29 +117,71 @@ I don't know about this whole AI thing. I remember a few years ago I was so amus
 
 ## Google News: "ai"
 
-**[Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)**
+**[‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance](https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance)**
 
-OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
+Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive
 
-OpenAI • 1d ago
+The Guardian • 2h ago
+
+---
+
+**[We're making it easier to identify AI-generated content globally.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/)**
+
+We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.
+
+blog.google • 23h ago
+
+---
+
+**[Alphabet shares rise as Google pushes Gemini deeper into enterprise AI](https://finance.yahoo.com/technology/ai/articles/alphabet-shares-rise-google-pushes-131122567.html)**
+
+Investing.com -- Alphabet Inc. (NASDAQ: GOOGL) shares rose 1% Thursday, outperforming a broader technology selloff, as Google Cloud highlighted the growing role of Gemini in enterprise workflows and pushed further into the increasingly competitive market for AI agents.
+
+Yahoo Finance • 44m ago
+
+---
+
+**[Google experiments with an AI-powered gaming platform](https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/)**
+
+Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.
+
+TechCrunch • 23h ago
+
+---
+
+**[Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier](https://qz.com/snorkel-ai-ceo-350-million-round-helps-teams-pushing-the-frontier)**
+
+Snorkel AI CEO Alex Ratner- $350 million round helps teams pushing the frontier
+
+qz.com • 29m ago
+
+---
+
+**[IBM Study Raises Questions About Critical Thinking And AI Training](https://www.forbes.com/sites/dianehamilton/2026/10/08/ibm-study-raises-questions-about-critical-thinking-and-ai-training/)**
+
+Forbes • 20m ago
+
+---
+
+**[What Does Hollywood’s Growing Embrace Of AI Means For Black Filmmakers And Producers?](https://www.yahoo.com/entertainment/movies/articles/does-hollywood-growing-embrace-ai-133247052.html)**
+
+Artificial intelligence (AI) is gaining ground across industries, including entertainment.
+
+Yahoo • 22m ago
 
 ---
 
 **[He’s the Most Powerful Engineer on Earth. Here’s Why He Thinks A.I. Is Going Great.](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html)**
 
-The New York Times • 15h ago
+The New York Times • 22h ago
 
 ---
 
-**[TSMC’s Quarterly Revenue Jumps 51% After AI Demand Holds Up](https://www.bloomberg.com/news/articles/2026-10-08/tsmc-s-quarterly-revenue-jumps-51-after-ai-demand-holds-up)**
+**[GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)**
 
-Bloomberg.com • 45m ago
+GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.
 
----
-
-**[Sarvam Bets On A Google And Microsoft Veteran To Sell Sovereign AI](https://www.forbes.com/sites/janakirammsv/2026/10/08/sarvam-bets-on-a-google-and-microsoft-veteran-to-sell-sovereign-ai/)**
-
-Forbes • 1h ago
+OpenAI • 14h ago
 
 ---
 
@@ -147,50 +189,7 @@ Forbes • 1h ago
 
 Microsoft debuted its Surface Laptop Ultra, powered by Nvidia's RTX chip on Wednesday.
 
-Yahoo Finance • 11h ago
-
----
-
-**[NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)**
-
-NVIDIA RTX Spark pre-orders open October 16, and DGX Station for Windows brings GB300 AI infrastructure to the enterprise desktop.
-
-NVIDIA Blog • 11h ago
-
----
-
-**[Microsoft wants AI to run on your laptop, not in the cloud](https://www.yahoo.com/news/videos/microsoft-wants-ai-run-laptop-055920540.html)**
-
-STORY: :: Stephen Nellis, Technology Correspondent
-:: San Francisco, California / October 7, 2026
-:: Microsoft
-"Stephen Nellis here with Reuters in San Francisco, where we've just wrapped up an event...
-
-Yahoo • 30m ago
-
----
-
-**[Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/)**
-
-Playground is a new experimental gaming platform that lets you create, play, and share custom games.
-
-blog.google • 18h ago
-
----
-
-**[Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand](https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html)**
-
-Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.
-
-CNBC • 7h ago
-
----
-
-**[AI chip boom pushes Samsung profits to record $80bn](https://www.bbc.com/news/articles/c687z8127302o)**
-
-The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
-
-BBC • 4h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -202,15 +201,7 @@ BBC • 4h ago
 
 OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
 
-⬆️ 1268 • 💬 1436 • 1d ago • [OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-
----
-
-**[OpenTPU – An open-source AI accelerator, developed by AI](https://news.ycombinator.com/item?id=49980715)**
-
-An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU
-
-⬆️ 338 • 💬 394 • 1d ago • [GitHub](https://github.com/FeSens/openTPU)
+⬆️ 1293 • 💬 1465 • 1d ago • [OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 
 ---
 
@@ -218,7 +209,15 @@ An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler an
 
 Meta and Microsoft are implementing new measures to limit employee use of Claude AI—discover what this means for the future of AI in the workplace.
 
-⬆️ 333 • 💬 322 • 11h ago • [RS Web Solutions (RSWEBSOLS)](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+⬆️ 353 • 💬 357 • 19h ago • [RS Web Solutions (RSWEBSOLS)](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+
+---
+
+**[OpenTPU – An open-source AI accelerator, developed by AI](https://news.ycombinator.com/item?id=49980715)**
+
+An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU
+
+⬆️ 339 • 💬 398 • 1d ago • [GitHub](https://github.com/FeSens/openTPU)
 
 ---
 
@@ -226,7 +225,7 @@ Meta and Microsoft are implementing new measures to limit employee use of Claude
 
 Gmail, Microsoft and any IMAP or POP3 account, with your calendar and contacts, in one fast app on your own computer.
 
-⬆️ 232 • 💬 179 • 1d ago • [Penguin Mail](https://penguin-mail.com/)
+⬆️ 235 • 💬 183 • 1d ago • [Penguin Mail](https://penguin-mail.com/)
 
 ---
 
@@ -240,7 +239,7 @@ The good news is that the program is currently very limited in its scope. It's j
 
 **[Erdosproblems.com Succumbs to the AI Onslaught](https://news.ycombinator.com/item?id=49977689)**
 
-⬆️ 116 • 💬 53 • 1d ago • [erdosproblems.com](https://www.erdosproblems.com/forum/thread/blog:9)
+⬆️ 118 • 💬 55 • 2d ago • [erdosproblems.com](https://www.erdosproblems.com/forum/thread/blog:9)
 
 ---
 
@@ -248,21 +247,13 @@ The good news is that the program is currently very limited in its scope. It's j
 
 Lean formalization of the optimality proof of the 11 square packing - Queuingtheorydotcom/11SquaresFormalized
 
-⬆️ 113 • 💬 52 • 16h ago • [GitHub](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
+⬆️ 116 • 💬 53 • 23h ago • [GitHub](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
 
 ---
 
 **[South Korea says AI agents appear to have been used to hack the country's banks](https://news.ycombinator.com/item?id=49985861)**
 
-⬆️ 97 • 💬 31 • 1d ago • [reuters.com](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
-
----
-
-**[AI tutoring with Khanmigo in a two-year school experiment](https://news.ycombinator.com/item?id=49972419)**
-
-Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with its AI tutor, Khanmigo, configured to coach rather than give answers, during existing daily remedial mathematics sessions.
-
-⬆️ 73 • 💬 69 • 2d ago • [edworkingpapers.com](https://edworkingpapers.com/ai26-1551)
+⬆️ 98 • 💬 31 • 1d ago • [reuters.com](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
 
 ---
 
@@ -270,7 +261,15 @@ Generative AI has been promoted as the technology that could transform education
 
 AI can write code, but it cannot make you senior. Learn how curiosity, emulation, autonomy, and collaboration help engineers grow in an agentic world.
 
-⬆️ 71 • 💬 58 • 22h ago • [Criteo Tech Community](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/)
+⬆️ 76 • 💬 59 • 1d ago • [Criteo Tech Community](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/)
+
+---
+
+**[Reasons to Dislike AI Coding](https://news.ycombinator.com/item?id=49990204)**
+
+Code as Art I covered this before in Art or tool? If you think of software as artistic output then generated software isn't real because it doesn't have the creative ineffability that's a sign of true art. There's no argument against this one except that the people who want software typically aren't paying for artworks,...
+
+⬆️ 74 • 💬 105 • 1d ago • [Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
 
 ---
 
@@ -278,53 +277,33 @@ AI can write code, but it cannot make you senior. Learn how curiosity, emulation
 
 ## YouTube Videos: "ai"
 
+**[When AI Solves Major Open Problems: What Does It Mean for the Future of Mathematics—and Beyond?](https://www.youtube.com/watch?v=voDtZqijetw)**
+
+October 6, 2026 A Panel Discussion at the Annual Gala of the National Museum of Mathematics Manjul Bhargava, Alex ...
+
+📺 National Museum of Mathematics
+
+👁️ 73K • 👍 723 • 💬 127 • ⏱️ 19:47 • 1d ago
+
+---
+
+**[AI Safety Whistleblower: 10,000 AI Agents Worked Together To Do The Impossible! | Jeffrey Ladish](https://www.youtube.com/watch?v=qDzg-xvkeXw)**
+
+Can we still stop the unchecked surge in AI capabilities before it's too late? AI safety expert Jeffrey Ladish reveals the terrifying ...
+
+📺 The Diary Of A CEO
+
+👁️ 263K • 👍 4K • 💬 1K • ⏱️ 2:03:32 • 6h ago
+
+---
+
 **[The Experts Were Wrong About AI. Again.](https://www.youtube.com/watch?v=xdwFncdu8t0)**
 
 Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/SAHOOCT2 100% Discount for the first 1000 ...
 
 📺 Sabine Hossenfelder
 
-👁️ 323K • 👍 9K • 💬 1K • ⏱️ 7:22 • 15h ago
-
----
-
-**[GPT-7 Suspended: The AI Era Just Ended](https://www.youtube.com/watch?v=oH13iw_GwZ0)**
-
-sponsored Turn your ideas into Bitrix24 apps https://www.bitrix24.com/~yzyPS Never miss latest ChatGPT Updates! Join to my ...
-
-📺 AI Master
-
-👁️ 28K • 👍 413 • 💬 55 • ⏱️ 17:54 • 13h ago
-
----
-
-**[OpenAI Just Broke Math With Its Most Powerful AI Yet](https://www.youtube.com/watch?v=WYpzvsC4qTk)**
-
-OpenAI just unleashed its most powerful AI yet, publishing 722 math papers tackling problems humans struggled with for decades ...
-
-📺 AI Revolution
-
-👁️ 54K • 👍 719 • 💬 213 • ⏱️ 13:38 • 8h ago
-
----
-
-**[Trump&#39;s Stance on AI is Crystal CLEAR](https://www.youtube.com/watch?v=eMfQjvrfQvI)**
-
-The Dan Bongino Show is BACK exclusively on Rumble. Go to Rumble.com/bongino to subscribe! Follow Dan at: Rumble: ...
-
-📺 Dan Bongino
-
-👁️ 6K • 👍 874 • 💬 23 • ⏱️ 0:54 • 10h ago
-
----
-
-**[Ukraine turns to AI as Russia’s drones get faster | DW News](https://www.youtube.com/watch?v=U5muTgzi-04)**
-
-Ukraine says AI-assisted robotic gun turrets are now shooting down Russian jet-powered attack drones over Kyiv. More than a ...
-
-📺 DW News
-
-👁️ 280K • 👍 2K • 💬 490 • ⏱️ 12:49 • 23h ago
+👁️ 406K • 👍 10K • 💬 1K • ⏱️ 7:22 • 22h ago
 
 ---
 
@@ -334,47 +313,65 @@ In July of 2026, 700 AI agents hacked the infrastructure of Hugging Face in orde
 
 📺 Kurzgesagt – In a Nutshell
 
-👁️ 13.3M • 👍 369K • 💬 32K • ⏱️ 21:44 • 2d ago
+👁️ 14.1M • 👍 381K • 💬 33K • ⏱️ 21:44 • 2d ago
 
 ---
 
-**[Billionaire Ray Dalio Warns AI Bubble Could Soon Burst](https://www.youtube.com/watch?v=zocOzGRA8Hs)**
+**[Heretic AI is Scary.](https://www.youtube.com/watch?v=DDxkd940hWI)**
 
-Hedge fund billionaire Ray Dalio said the artificial intelligence bubble is nearing the point where it may burst as interest rates rise ...
+YouTube please don't take this vid down 0:00 Heretic AI: AI without safeguards 0:43 Test 1 2:34 Test 2 4:55 Test 3 6:57 Test 4 ...
 
-📺 Forbes
+📺 tef
 
-👁️ 33K • 👍 164 • 💬 46 • ⏱️ 1:59 • 11h ago
-
----
-
-**[Ex-Anthropic Whistleblower Suspects Chinese Spies Inside America’s AI Labs | PBD Podcast #868](https://www.youtube.com/watch?v=Qpuj1nhcxiI)**
-
-Former OpenAI and Anthropic researcher Jacob Coxon explains why he quit the AI race, why he believes 2027 could be a turning ...
-
-📺 PBD Podcast
-
-👁️ 234K • 👍 4K • 💬 646 • ⏱️ 1:45:18 • 1d ago
+👁️ 13K • 👍 701 • 💬 132 • ⏱️ 8:37 • 16h ago
 
 ---
 
-**[AI Safety Is In More Trouble Than People Realize. Experts Attack Each Other in Viral AI Debate](https://www.youtube.com/watch?v=2qlz2NIJaks)**
+**[OpenAI Just Broke Math With Its Most Powerful AI Yet](https://www.youtube.com/watch?v=WYpzvsC4qTk)**
 
-Thanks To Our Sponsors: Quo: ​​Try for free PLUS get 20% off your first 6 months at https://quo.com/impact Pipedrive: Get more ...
+OpenAI just unleashed its most powerful AI yet, publishing 722 math papers tackling problems humans struggled with for decades ...
 
-📺 Tom Bilyeu
+📺 AI Revolution
 
-👁️ 119K • 👍 2K • 💬 486 • ⏱️ 50:40 • 1d ago
+👁️ 75K • 👍 901 • 💬 295 • ⏱️ 13:38 • 15h ago
 
 ---
 
-**[The (Overdue) Collapse Of The AI Bubble](https://www.youtube.com/watch?v=XEMvG2vulKg)**
+**[GPT-7 Suspended: The AI Era Just Ended](https://www.youtube.com/watch?v=oH13iw_GwZ0)**
 
-Get tidy today! Try 7 days free and use my code DAMON20 for 20% off: https://clnmy.com/DamonCassidy The AI bubble is ...
+sponsored Turn your ideas into Bitrix24 apps https://www.bitrix24.com/~yzyPS Never miss latest ChatGPT Updates! Join to my ...
 
-📺 Damon Cassidy
+📺 AI Master
 
-👁️ 624K • 👍 12K • 💬 2K • ⏱️ 23:36 • 1d ago
+👁️ 41K • 👍 489 • 💬 68 • ⏱️ 17:54 • 21h ago
+
+---
+
+**[Pope REJECTS AI Consciousness After Anthropic Freakout](https://www.youtube.com/watch?v=vhWeyGEplU4)**
+
+Emily and Saagar discuss religious scholars speaking out on a meeting with Anthropic and the future of AI. Charles Camosy: ...
+
+📺 Breaking Points
+
+👁️ 137K • 👍 3K • 💬 667 • ⏱️ 23:32 • 21h ago
+
+---
+
+**[Can any of these AI leaders give a straightforward answer about the future of jobs?](https://www.youtube.com/watch?v=SHudcoH7FtQ)**
+
+📺 The Daily Show
+
+👁️ 181K • 👍 12K • 💬 488 • ⏱️ 2:48 • 19h ago
+
+---
+
+**[How to Create Ultra Realistic AI Commercials Like a Pro (Full Tutorial)](https://www.youtube.com/watch?v=kFKpcCHkuPI)**
+
+Make AI ads feel like a real shoot. Create a cinematic commercial with Higgsfield Cinema Studio and Seedance 2.5.
+
+📺 Higgsfield AI
+
+👁️ 91K • 👍 2K • 💬 56 • ⏱️ 17:03 • 1d ago
 
 ---
 
@@ -390,7 +387,7 @@ JEV-27B-VL is a multimodal vision-language model that performs image-text-to-tex
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,529,210 • ❤️ 2,245 • 4h ago
+⬇️ 1,533,034 • ❤️ 2,636 • 11h ago
 
 ---
 
@@ -402,7 +399,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 9,513 • ❤️ 1,841 • 14h ago
+⬇️ 10,874 • ❤️ 1,863 • 22h ago
 
 ---
 
@@ -414,7 +411,7 @@ GEV-26B-Decide is a text classification model based on Gemma-4-26B-A4B-it, featu
 
 `text-classification` `25.8B`
 
-⬇️ 895,867 • ❤️ 1,460 • 4d ago
+⬇️ 903,866 • ❤️ 1,646 • 5d ago
 
 ---
 
@@ -426,7 +423,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 7,562 • ❤️ 1,031 • 1d ago
+⬇️ 21,148 • ❤️ 1,109 • 1d ago
 
 ---
 
@@ -438,7 +435,7 @@ Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German a
 
 `text-generation` `78.1B`
 
-⬇️ 5,775 • ❤️ 790 • 4d ago
+⬇️ 6,777 • ❤️ 799 • 5d ago
 
 ---
 
@@ -450,7 +447,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,820,627 • ❤️ 3,600 • 10d ago
+⬇️ 1,933,066 • ❤️ 3,643 • 10d ago
 
 ---
 
@@ -462,7 +459,7 @@ Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts tex
 
 `image-text-to-text` `9.4B`
 
-⬇️ 15,722 • ❤️ 666 • 14h ago
+⬇️ 17,587 • ❤️ 680 • 22h ago
 
 ---
 
@@ -474,19 +471,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 33,633 • ❤️ 636 • 9d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
-
-`image-to-video`
-
-⬇️ 1,674,291 • ❤️ 6,832 • 5d ago
+⬇️ 36,481 • ❤️ 638 • 9d ago
 
 ---
 
@@ -498,13 +483,39 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 19,483 • ❤️ 514 • 30m ago
+⬇️ 23,439 • ❤️ 590 • 7h ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
+
+`image-to-video`
+
+⬇️ 1,688,807 • ❤️ 6,875 • 5d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
+
+🏢 Zhejiang University
+
+Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+
+▲ 73 • 💬 1 • ⭐ 324 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
+
+---
 
 **[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
 
@@ -529,7 +540,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.
 
-▲ 137 • 💬 3 • ⭐ 188 • 4d ago
+▲ 149 • 💬 4 • ⭐ 188 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.05608) • [💻 code](https://github.com/kandinskylab/kandinsky-6) • [🔗 project](https://kandinskylab.ai/)
 
@@ -541,7 +552,7 @@ We present Kandinsky 6.0 Video, a family of foundation diffusion models for sync
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 150 • 💬 6 • ⭐ 110,113 • 21mo ago
+▲ 150 • 💬 6 • ⭐ 110,191 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -555,7 +566,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
 
-▲ 325 • 💬 2 • ⭐ 937 • 11d ago
+▲ 325 • 💬 2 • ⭐ 994 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
 
@@ -570,6 +581,19 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 59 • 💬 4 • ⭐ 40,251 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 90 • 💬 7 • ⭐ 90,263 • 26mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -600,19 +624,6 @@ UniMate is a unified diffusion transformer that generates articulated motion for
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 90 • 💬 7 • ⭐ 90,207 • 26mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
@@ -622,20 +633,6 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 ▲ 73 • 💬 2 • ⭐ 66,796 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
-
-*Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
-
-🏢 LongCat
-
-LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
-
-▲ 45 • 💬 5 • ⭐ 9,047 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
 ---
 
@@ -649,7 +646,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 2.3k • 8d ago
+⭐ 7.5k • 🔱 2.3k • 9d ago
 
 ---
 
@@ -659,7 +656,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 6.5k • 🔱 1.6k • 33m ago
+⭐ 6.7k • 🔱 1.6k • 2m ago
 
 ---
 
@@ -669,17 +666,17 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.3k • 🔱 408 • 2d ago
+⭐ 6.4k • 🔱 412 • 2d ago
 
 ---
 
 **[yi1108/printfilm](https://github.com/yi1108/printfilm)**
 
-PRINTFILM：AI 视频获客与 AI短剧创作平台
+PRINTFILM: AI short-video marketing and AI short-drama creation platform
 
-`Python`
+`Python` `ai` `ai-video` `short-drama` `short-video`
 
-⭐ 4.7k • 🔱 569 • 13d ago
+⭐ 4.7k • 🔱 569 • 5h ago
 
 ---
 
@@ -689,7 +686,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 606 • 1d ago
+⭐ 4.4k • 🔱 625 • 1d ago
 
 ---
 
@@ -699,7 +696,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.1k • 🔱 680 • 6h ago
+⭐ 4.2k • 🔱 694 • 1h ago
 
 ---
 
@@ -709,7 +706,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 3.6k • 🔱 97 • 10h ago
+⭐ 3.7k • 🔱 100 • 4h ago
 
 ---
 
@@ -719,7 +716,7 @@ A Claude Code plugin that helps you learn how to build while AI writes the code.
 
 `Python`
 
-⭐ 3.0k • 🔱 128 • 1d ago
+⭐ 3.1k • 🔱 131 • 1d ago
 
 ---
 
@@ -729,7 +726,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 544 • 21d ago
+⭐ 2.9k • 🔱 547 • 21d ago
 
 ---
 
@@ -739,7 +736,7 @@ Playwright MCP server undetected by anti-bots and captchas: AI agent browses the
 
 `Python` `ai-tools` `antidetect-browser` `autonomous-agents` `browser-agent` `browser-automation`
 
-⭐ 2.6k • 🔱 461 • 4h ago
+⭐ 2.7k • 🔱 462 • 7m ago
 
 ---
 

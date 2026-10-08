@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-08T06:29:22.554857+00:00'
+updated: '2026-10-08T13:55:41.842249+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 08, 2026 at 06:29 UTC  
+**Last Updated:** October 08, 2026 at 13:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,717.42
+### $82,127.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -2.2%  
-**30d:** +5.5%  
-**90d:** +29.4%  
-**1y:** -32.1%  
+**24h:** -1.1%  
+**7d:** -2.8%  
+**30d:** +4.9%  
+**90d:** +28.6%  
+**1y:** -32.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1661.09B
+**Market Cap:** $1650.03B
 Rank #1
 
-**Circulating Supply:** 20,095,109 BTC
+**Circulating Supply:** 20,095,253 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.5%
+-34.9%
 
 **All-Time Low:** $67.81
-+121746.3%
++120948.5%
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I have stacked my way to 0,1 Bitcoin. Ain’t much but still is. End of message
 
-1d ago
+2d ago
 
 ---
 
 **[“Cycles.”](https://www.reddit.com/r/Bitcoin/comments/1wz2qo8/cycles/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -143,7 +143,7 @@ It's lower level than money. It is the system that allows you to have electronic
 
 **[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wy4lma/buy_bitcoin/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -155,47 +155,35 @@ It's lower level than money. It is the system that allows you to have electronic
 
 Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin cost bases point to resistance at $88,000 and support near $82,300](https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort)**
+**[Exclusive: Sam Altman-backed Meanwhile raises $37.5M at $350M valuation](https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile)**
 
-Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000.
-
-CoinDesk • 19h ago
+Axios • 1h ago
 
 ---
 
-**[Is Bitcoin Headed to $81,000? What On-Chain Data Shows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-headed-81-000-chain-050936851.html)**
+**[Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why](https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398)**
 
-Bitcoin slipped below $85,000 as Glassnode data showed weak volume and slow new inflows. Buy orders sit near $81,000.
-
-Yahoo Finance • 1h ago
+WSJ • 2h ago
 
 ---
 
-**[How people use bitcoin (BTC)-backed loans beyond trading](https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say)**
+**[Robinhood Revealed a $25 Million Bitcoin Buy as Its Stock Fell. Here’s What Q3’s Crypto Volume Says About the Stock](https://finance.yahoo.com/markets/crypto/articles/robinhood-revealed-25-million-bitcoin-131658546.html)**
 
-Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling.
+Key Stats for Robinhood StockCurrent Price: $109. 51Target Price (Mid): ~$209Street Target: ~$134Potential Total Return: ~91%Annualized IRR: ~17% / yearWhat Happened?Robinhood Markets (HOOD:NASDAQ) has put $25 million of corporate cash into Bitcoin.
 
-CoinDesk • 48m ago
-
----
-
-**[Bitcoin's fall sends crypto market, related-stocks into bloodbath: Why?](https://seekingalpha.com/news/4651112-bitcoin-crash-sends-crypto-market-stocks-into-bloodbath-why)**
-
-Bitcoin price crash: BTC drops to $83K as leveraged liquidations hit $717M and Fed rate fears rise.
-
-Seeking Alpha • 10h ago
+Yahoo Finance • 38m ago
 
 ---
 
-**[Current price of Bitcoin for Oct. 7, 2026](https://fortune.com/article/price-of-bitcoin-10-07-2026/)**
+**[US government moves $770M of seized Bitcoin to Coinbase Prime](https://www.tradingview.com/news/cointelegraph:d555b9c7b094b:0-us-government-moves-770m-of-seized-bitcoin-to-coinbase-prime/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+The US government moved 9,261 Bitcoin worth $770 million to Coinbase Prime, stemming from asset seizures tied to previous cryptocurrency exploits.Of the 9,261 Bitcoin (BTC) transferred over the past two days, half was recovered from the Bitfinex hackers, while another portion stemmed from known Bin…
 
-Fortune • 19h ago
+TradingView • 2h ago
 
 ---
 
@@ -203,7 +191,7 @@ Fortune • 19h ago
 
 Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet—its first corporate holding and a strategic signal from a $100B fintech.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -211,23 +199,31 @@ Bitcoin Magazine • 18h ago
 
 Cathie Wood’s Ark bought CoreWeave shares and sold Robinhood shares on Wednesday, Oct. 7, 2026.
 
-Benzinga • 4h ago
+Benzinga • 11h ago
 
 ---
 
-**[Europol says quantum computing won't break Bitcoin, but some wallets are exposed](https://www.tradingview.com/news/cryptobriefing:329581a11094b:0-europol-says-quantum-computing-won-t-break-bitcoin-but-some-wallets-are-exposed/)**
+**[South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal](https://africa.businessinsider.com/local/markets/south-african-banking-giant-opens-bitcoin-trading-to-nearly-nine-million-customers/4wct3bl)**
 
-Europe's top police agency has weighed in on crypto's favorite doomsday scenario. Its verdict: the sky is not falling.On October 7, 2026, Europol's European Cybercrime Centre (EC3) published two reports on how quantum computing could affect crypto and encrypted data. The key finding was blunt."Cryp…
+South Africa’s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers
 
-TradingView • 2h ago
+Business Insider Africa • 1d ago
 
 ---
 
-**[US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why](https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb)**
+**[Sui’s Hashi Bitcoin collateral network lines up more than $500M ahead of mainnet](https://cryptobriefing.com/sui-hashi-bitcoin-collateral-500m-commitments/)**
 
-Government-labeled wallets sent 833.6 Bitcoin to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed.
+Sui's Hashi Bitcoin collateral network has more than $500M in commitments from 20+ partners, including Anchorage Digital, ahead of mainnet.
 
-Decrypt News • 13h ago
+Crypto Briefing • 1h ago
+
+---
+
+**[Bitcoin: Native VIX Watched as Spot Prices Drop](https://blockchain.news/flashnews/bitcoin-native-vix-watched-spot-prices-drop)**
+
+Bitcoin at $82451.72 shows bearish EMA structure with RSI at 28.49; native VIX monitoring intensifies amid declines.
+
+Blockchain News • 8h ago
 
 ---
 
@@ -251,7 +247,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
 
-⬆️ 2 • 💬 0 • 14h ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
+⬆️ 2 • 💬 0 • 22h ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
 
 ---
 
@@ -287,9 +283,15 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ---
 
+**[Ask HN: How do you use AI for building in public?](https://news.ycombinator.com/item?id=50002798)**
+
+⬆️ 2 • 💬 0 • 6h ago
+
+---
+
 **[The AI Agents Pitching Lit Mags to Stay Alive](https://news.ycombinator.com/item?id=50000115)**
 
-⬆️ 2 • 💬 0 • 7h ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
+⬆️ 2 • 💬 0 • 14h ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
 
 ---
 
@@ -297,13 +299,13 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Loses $84K: Is the Flush Over?](https://www.youtube.com/watch?v=9Rf3oWM9Y1Q)**
+**[Watching This 10m Crypto Video Could LITERALLY Change Your Life!](https://www.youtube.com/watch?v=TW1d6boUN_k)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Watching This 10m Crypto Video Could LITERALLY Change Your Life! ⭐ Follow Altcoin Daily on X: ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 31K • 👍 869 • 💬 135 • ⏱️ 54:14 • 15h ago
+👁️ 49K • 👍 2K • 💬 161 • ⏱️ 10:21 • 15h ago
 
 ---
 
@@ -313,17 +315,27 @@ Can Bitcoin reach $1 million as plague scare reports from Irkutsk, Russia put pe
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 62 • ⏱️ 13:38 • 7h ago
+👁️ 25K • 👍 2K • 💬 79 • ⏱️ 13:38 • 15h ago
 
 ---
 
-**[BREAKING: BITCOIN GOLDEN CROSS QUICKLY APPROACHES](https://www.youtube.com/watch?v=-Tu4DJsnOQs)**
+**[Bitcoin Is in a Battle Right Now](https://www.youtube.com/watch?v=E4erS2Sgx34)**
 
-DOMINATE THE BOTTOM ⬇️JOIN THE WAITLIST ⬇️ https://cryptocrewuniversity.com/mr5 Subscribe for Bitcoin and crypto ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
-📺 Crypto Crew University
+📺 Aaron Bennett
 
-👁️ 37K • 👍 2K • 💬 115 • ⏱️ 16:49 • 17h ago
+👁️ 5K • 👍 226 • 💬 26 • ⏱️ 13:17 • 7h ago
+
+---
+
+**[BITCOIN JUST FLASHED A MAJOR WARNING…](https://www.youtube.com/watch?v=-DfOHHoz5kk)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 5K • 👍 438 • 💬 20 • ⏱️ 6:05 • 3h ago
 
 ---
 
@@ -333,27 +345,7 @@ DOMINATE THE BOTTOM ⬇️JOIN THE WAITLIST ⬇️ https://cryptocrewuniversity.
 
 📺 Benjamin Cowen
 
-👁️ 138K • 👍 4K • 💬 219 • ⏱️ 54:23 • 15h ago
-
----
-
-**[$2 Million Bitcoin THIS CYCLE - Robinhood Just Bought Bitcoin For The First Time](https://www.youtube.com/watch?v=M_znoN81e_g)**
-
-KALSHI: Trade Crypto Perpetuals + Get a $50 Bonus: https://kalshi.com/p/bitcoinnewsalerts Robinhood just made its first Bitcoin ...
-
-📺 Bitcoin News Alerts
-
-👁️ 7K • 👍 288 • 💬 102 • ⏱️ 15:08 • 11h ago
-
----
-
-**[BITCOIN: Don’t Miss This Next Turning Point! [My Plan]](https://www.youtube.com/watch?v=oJUN7XsN2NI)**
-
-Bitcoin is approaching a turning point that could be the best opportunity traders have seen in years. In today's video, Kyle Doops ...
-
-📺 Crypto Banter
-
-👁️ 29K • 👍 1K • 💬 28 • ⏱️ 45:51 • 22h ago
+👁️ 171K • 👍 5K • 💬 256 • ⏱️ 54:23 • 22h ago
 
 ---
 
@@ -363,27 +355,27 @@ Bitcoin's 50, 100, and 200 day moving averages just stacked in the order that's 
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 116 • ⏱️ 15:40 • 1d ago
+👁️ 41K • 👍 2K • 💬 111 • ⏱️ 15:40 • 1d ago
 
 ---
 
-**[Bitcoin: 73,400 BTC Sold in One Week. But by Whom?](https://www.youtube.com/watch?v=gHe8r_xCk_w)**
+**[$2 Million Bitcoin THIS CYCLE - Robinhood Just Bought Bitcoin For The First Time](https://www.youtube.com/watch?v=M_znoN81e_g)**
 
-Since the breakout on 21 September, 2.66 billion dollars have flowed into the Bitcoin ETFs, and yet Bitcoin has slipped to around ...
+KALSHI: Trade Crypto Perpetuals + Get a $50 Bonus: https://kalshi.com/p/bitcoinnewsalerts Trading involves risk. Bonus subject ...
 
-📺 More Crypto Online
+📺 Bitcoin News Alerts
 
-👁️ 14K • 👍 540 • 💬 40 • ⏱️ 13:47 • 12h ago
+👁️ 8K • 👍 313 • 💬 132 • ⏱️ 15:08 • 19h ago
 
 ---
 
-**[BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8JkwptZQalI)**
+**[BITCOIN: On The Edge Of COLLAPSE... (DANGER!)](https://www.youtube.com/watch?v=FoU6m_BaAJE)**
 
-BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Opening Statement & Video Context 0:00-2:15 It's Not Over, Volatility Coming, Huge Risk 2:15-12:58 Trade where I Trade!
 
-📺 Crypto World
+📺 Wolves of Crypto
 
-👁️ 21K • 👍 437 • 💬 185 • ⏱️ 20:19 • 18h ago
+👁️ 11K • 👍 309 • 💬 101 • ⏱️ 12:59 • 10h ago
 
 ---
 
@@ -393,7 +385,17 @@ NEW VIDEO SUMMARY REPORTS ON SUBSTACK ARE HERE (SUBSCRIBE FOR UPDATES) ...
 
 📺 Jason Pizzino
 
-👁️ 6K • 👍 406 • 💬 50 • ⏱️ 26:37 • 3h ago
+👁️ 27K • 👍 805 • 💬 100 • ⏱️ 26:37 • 10h ago
+
+---
+
+**[BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8JkwptZQalI)**
+
+BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 24K • 👍 461 • 💬 241 • ⏱️ 20:19 • 1d ago
 
 ---
 

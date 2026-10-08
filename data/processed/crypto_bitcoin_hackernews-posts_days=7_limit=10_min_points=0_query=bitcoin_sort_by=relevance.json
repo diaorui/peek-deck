@@ -89,6 +89,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "Ask HN: How do you use AI for building in public?",
+      "url": "https://news.ycombinator.com/item?id=50002798",
+      "hn_url": "https://news.ycombinator.com/item?id=50002798",
+      "author": "ViolaWang",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-08T07:24:18Z",
+      "object_id": "50002798",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "The AI Agents Pitching Lit Mags to Stay Alive",
       "url": "https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to",
       "hn_url": "https://news.ycombinator.com/item?id=50000115",
@@ -103,7 +117,7 @@
       "site_name": "bookgossip.substack.com"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-10-08T06:28:53.757391+00:00"
+  "fetched_at": "2026-10-08T13:55:12.701610+00:00"
 }
