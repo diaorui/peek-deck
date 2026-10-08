@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-08T13:55:41.842249+00:00'
+updated: '2026-10-08T19:41:57.661239+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 08, 2026 at 13:55 UTC  
+**Last Updated:** October 08, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,127.69
+### $81,494.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -2.8%  
-**30d:** +4.9%  
-**90d:** +28.6%  
-**1y:** -32.5%  
+**24h:** -2.0%  
+**7d:** -3.2%  
+**30d:** +4.4%  
+**90d:** +28.1%  
+**1y:** -32.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1650.03B
+**Market Cap:** $1642.52B
 Rank #1
 
-**Circulating Supply:** 20,095,253 BTC
+**Circulating Supply:** 20,095,343 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.9%
+-35.2%
 
 **All-Time Low:** $67.81
-+120948.5%
++120441.2%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Remember, the bank thinks your money is their money](https://www.reddit.com/r/Bitcoin/comments/1wz8747/remember_the_bank_thinks_your_money_is_their_money/)**
 
-1d ago
+2d ago
 
 ---
 
 **[We're still early](https://www.reddit.com/r/Bitcoin/comments/1wz4hdu/were_still_early/)**
 
-1d ago
+2d ago
 
 ---
 
 **[Fiat money...](https://www.reddit.com/r/Bitcoin/comments/1wz7eb8/fiat_money/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -113,7 +113,7 @@ I have stacked my way to 0,1 Bitcoin. Ain’t much but still is. End of message
 
 I was so happy when I saw this!
 
-1d ago
+2d ago
 
 ---
 
@@ -137,7 +137,7 @@ i'm not even in the market. i'm in the waiting room.
 
 It's lower level than money. It is the system that allows you to have electronically traceable bearer instruments. It allows for currencies, equities, bonds, options, futures, swaps and all the other financial instruments that make up our capital market to exist. Market Infrastructure is one of our oldest, widely distributed technologies. It's a list that doesn't change. It's one job is transaction finality. This is handled by a clearing house in the old world that is sunsetting. We need a list, that has an immutable history. This was long sought to be an impossible computer science problem until bitcoin came a long. If you have ever sent a international wire, you have experienced this. A alpha numeric address and a transaction that can't be reversed under any circumstance. Wires hit the clearing house(s). When we have market infrastructure in place, it allows for price discovery. We know when we trade, the trade can't be reversed. The transaction finality is the requirement to have price discovery. So when you are buying btc, you are investing in the most important technology that is often stable for centuries. Market infrastructure rarely changes. You are all early. Tech Infrastructures, like information, communication, energy and logistics take about 50-60 years and have 5 stages. It's called a Perez cycle. Irruption, speculative frenzy, turning point, synergy, and maturity. Plays out the same way, every time. BTC is in the turning point. ETFs, stable coins, its being adopted by the incumbent industries. When it hits synergy, that is when the omega candle happens. That is probably in 5-10 years. I think AI Agents will be driving that because they wont be signing up for banking or brokerage accounts. They will be making their currencies, options, equities, bonds, futures and other exotic financial instruments on top of btc. I encourage you to think about this for a moment, and spread this message, the comparison and disruption to the clearing house is the apt analogy. Financial systems are built in layers of institutions that have separate responsibilities. Bitcoin disrupts the lowest layer, the clearing house. This is why bitcoin's ascent is inevitable. It's taking over everything and the nation states can't stop or slow it, they can't even survive it. Future is going to be weird. There is no technology that is more powerful or important than market infrastructure. That is why bitcoin is the most valuable thing you can own.
 
-1d ago
+2d ago
 
 ---
 
@@ -151,55 +151,67 @@ It's lower level than money. It is the system that allows you to have electronic
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Falls as $550 Million in Risky Crypto Bets Wiped Out](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-550-million-risky-094845532.html)**
+**[Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today](https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto)**
 
-Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite.
+Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.
 
-Yahoo Finance • 1d ago
+CoinDesk • 9h ago
 
 ---
 
-**[Exclusive: Sam Altman-backed Meanwhile raises $37.5M at $350M valuation](https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile)**
+**[Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range](https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052)**
 
-Axios • 1h ago
+QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook.
+
+The Block • 4h ago
 
 ---
 
 **[Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why](https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398)**
 
-WSJ • 2h ago
+WSJ • 8h ago
 
 ---
 
-**[Robinhood Revealed a $25 Million Bitcoin Buy as Its Stock Fell. Here’s What Q3’s Crypto Volume Says About the Stock](https://finance.yahoo.com/markets/crypto/articles/robinhood-revealed-25-million-bitcoin-131658546.html)**
+**[US government quietly offloads $770M in bitcoin](https://finance.yahoo.com/video/us-government-quietly-offloads-770m-in-bitcoin-160228123.html)**
 
-Key Stats for Robinhood StockCurrent Price: $109. 51Target Price (Mid): ~$209Street Target: ~$134Potential Total Return: ~91%Annualized IRR: ~17% / yearWhat Happened?Robinhood Markets (HOOD:NASDAQ) has put $25 million of corporate cash into Bitcoin.
+Scott Melker discusses why bitcoin (BTC-USD) exchange-traded funds (ETFs) have lost millions of dollars this year, why the US government is selling $770M in bitcoin and explains what crypto investors need to know about Securitize's (SECZ) newly launched tokenized stock trading.
 
-Yahoo Finance • 38m ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
-
-**[US government moves $770M of seized Bitcoin to Coinbase Prime](https://www.tradingview.com/news/cointelegraph:d555b9c7b094b:0-us-government-moves-770m-of-seized-bitcoin-to-coinbase-prime/)**
-
-The US government moved 9,261 Bitcoin worth $770 million to Coinbase Prime, stemming from asset seizures tied to previous cryptocurrency exploits.Of the 9,261 Bitcoin (BTC) transferred over the past two days, half was recovered from the Bitfinex hackers, while another portion stemmed from known Bin…
-
-TradingView • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Robinhood Adds Bitcoin To Its Balance Sheet: A Strategic Signal From A $100B Fintech](https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech)**
+**[U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale](https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated)**
 
-Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet—its first corporate holding and a strategic signal from a $100B fintech.
+Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 42m ago
 
 ---
 
-**[Cathie Wood Buys CoreWeave Stock, Trims Robinhood As Bitcoin Slides](https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/10/62236311/cathie-wood-ark-invest-coreweave-robinhood-bitcoin-slides)**
+**[US government moves 17,795 Bitcoin worth $1.5 billion in three days](https://www.tradingview.com/news/cryptobriefing:a75e8eb14094b:0-us-government-moves-17-795-bitcoin-worth-1-5-billion-in-three-days/)**
 
-Cathie Wood’s Ark bought CoreWeave shares and sold Robinhood shares on Wednesday, Oct. 7, 2026.
+The US government has moved 17,795 Bitcoin worth $1.5 billion over the past three days.When the world's largest known sovereign Bitcoin holder starts moving coins, traders pay attention. The bigger question is not whether the coins moved. It is what Washington plans to do with them.On-chain tracker…
 
-Benzinga • 11h ago
+TradingView • 5h ago
+
+---
+
+**[Bitcoin’s Next Move: What Crypto Investors Need To Know Now](https://www.cheddar.com/media/bitcoins-next-move-what-crypto-investors-need-to-know-now/)**
+
+Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin’s pullback, rate uncertainty, regulation and what could come next.
+
+Cheddar • 3h ago
+
+---
+
+**[Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years](https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years)**
+
+A batch of Bitcoin mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but data doesn't show who owns it.
+
+Decrypt News • 55m ago
 
 ---
 
@@ -211,19 +223,11 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[Sui’s Hashi Bitcoin collateral network lines up more than $500M ahead of mainnet](https://cryptobriefing.com/sui-hashi-bitcoin-collateral-500m-commitments/)**
+**[Bitcoin ETFs suffer biggest exodus since June as Ethereum withdrawals hit nine-month high](https://cryptoslate.com/bitcoin-etfs-suffer-biggest-exodus-since-june-as-ethereum-withdrawals-hit-nine-month-high/)**
 
-Sui's Hashi Bitcoin collateral network has more than $500M in commitments from 20+ partners, including Anchorage Digital, ahead of mainnet.
+Bitcoin ETFs lost $484.9 million on Oct. 7, their largest daily outflow since June, while Ethereum funds continued their outflow streak.
 
-Crypto Briefing • 1h ago
-
----
-
-**[Bitcoin: Native VIX Watched as Spot Prices Drop](https://blockchain.news/flashnews/bitcoin-native-vix-watched-spot-prices-drop)**
-
-Bitcoin at $82451.72 shows bearish EMA structure with RSI at 28.49; native VIX monitoring intensifies amid declines.
-
-Blockchain News • 8h ago
+CryptoSlate • 4h ago
 
 ---
 
@@ -247,7 +251,7 @@ Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbur
 
 Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
 
-⬆️ 2 • 💬 0 • 22h ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
+⬆️ 2 • 💬 0 • 1d ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
 
 ---
 
@@ -271,7 +275,7 @@ Best Bitcoin commercial I’ve recently seen
 
 In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.
 
-⬆️ 1 • 💬 0 • 3d ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
+⬆️ 1 • 💬 0 • 4d ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
 
 ---
 
@@ -285,13 +289,19 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 **[Ask HN: How do you use AI for building in public?](https://news.ycombinator.com/item?id=50002798)**
 
-⬆️ 2 • 💬 0 • 6h ago
+⬆️ 2 • 💬 0 • 12h ago
 
 ---
 
 **[The AI Agents Pitching Lit Mags to Stay Alive](https://news.ycombinator.com/item?id=50000115)**
 
-⬆️ 2 • 💬 0 • 14h ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
+⬆️ 2 • 💬 0 • 20h ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
+
+---
+
+**[How Does Yamamoto Do What He Does? Toyota-Like Mechanics](https://news.ycombinator.com/item?id=50007625)**
+
+⬆️ 2 • 💬 0 • 3h ago • [robbinsathletics.com](https://robbinsathletics.com/yamamoto-pitching-mechanics/)
 
 ---
 
@@ -299,103 +309,103 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ## YouTube Videos: "bitcoin"
 
-**[Watching This 10m Crypto Video Could LITERALLY Change Your Life!](https://www.youtube.com/watch?v=TW1d6boUN_k)**
+**[Bitcoin And Alts Collapse: Where I’ll Load Up (Hint: Very Close!)](https://www.youtube.com/watch?v=lsTV45IxjMA)**
 
-Watching This 10m Crypto Video Could LITERALLY Change Your Life! ⭐ Follow Altcoin Daily on X: ...
+No B.S. Just Charts. Bitcoin is in a full liquidity flush, and Gareth Soloway maps the exact Bitcoin price levels where he plans to ...
 
-📺 Altcoin Daily
+📺 Gareth Soloway
 
-👁️ 49K • 👍 2K • 💬 161 • ⏱️ 10:21 • 15h ago
-
----
-
-**[The $1M Bitcoin Plague Was Just Unleashed!](https://www.youtube.com/watch?v=M6QtfMtPXLY)**
-
-Can Bitcoin reach $1 million as plague scare reports from Irkutsk, Russia put people on edge? Bitcoin, gold and silver are all ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 79 • ⏱️ 13:38 • 15h ago
+👁️ 10K • 👍 1K • 💬 61 • ⏱️ 16:07 • 1h ago
 
 ---
 
-**[Bitcoin Is in a Battle Right Now](https://www.youtube.com/watch?v=E4erS2Sgx34)**
+**[Is This The End of the Bitcoin Rally?](https://www.youtube.com/watch?v=IxFnvlKnWUA)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
+Two headlines made it look like Bitcoin was being dumped. Half a billion dollars left the spot ETFs in a day, the biggest exit since ...
 
-📺 Aaron Bennett
+📺 Yahoo Finance
 
-👁️ 5K • 👍 226 • 💬 26 • ⏱️ 13:17 • 7h ago
-
----
-
-**[BITCOIN JUST FLASHED A MAJOR WARNING…](https://www.youtube.com/watch?v=-DfOHHoz5kk)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 5K • 👍 438 • 💬 20 • ⏱️ 6:05 • 3h ago
+👁️ 3K • 👍 189 • 💬 70 • ⏱️ 15:00 • 2h ago
 
 ---
 
-**[Bitcoin: The Line in the Sand](https://www.youtube.com/watch?v=aEd5onhPxUs)**
+**[The Man Who Called the Dot-Com Crash Says Bitcoin Will Go to Zero](https://www.youtube.com/watch?v=VnmIYWCGy2g)**
 
-0:00 - INTRO 6:01 Comparing the rally with Bitcoin in 2019 14:09 Apathetic tops, terminal price, and altcoins 20:36 Monetary ...
+Access my FREE Bitcoin Price Model: ...
+
+📺 Mark Moss
+
+👁️ 17K • 👍 814 • 💬 174 • ⏱️ 22:14 • 4h ago
+
+---
+
+**[THIS IS WHY BITCOIN IS DUMPING!!!!](https://www.youtube.com/watch?v=hge07Y3Z9KM)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXreward Deposit, trade ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 379 • 💬 61 • ⏱️ 5:54 • 2h ago
+
+---
+
+**[Bitcoin: Q4 2026](https://www.youtube.com/watch?v=se6UlLbDTEo)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 171K • 👍 5K • 💬 256 • ⏱️ 54:23 • 22h ago
+👁️ 23K • 👍 2K • 💬 199 • ⏱️ 20:29 • 2h ago
 
 ---
 
-**[Bitcoin Just Flashed a Rare Bullish Signal!](https://www.youtube.com/watch?v=16lqNGHR9sc)**
+**[BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dAePM0b8diM)**
 
-Bitcoin's 50, 100, and 200 day moving averages just stacked in the order that's historically preceded a major run, something that ...
-
-📺 Simply Bitcoin
-
-👁️ 41K • 👍 2K • 💬 111 • ⏱️ 15:40 • 1d ago
-
----
-
-**[$2 Million Bitcoin THIS CYCLE - Robinhood Just Bought Bitcoin For The First Time](https://www.youtube.com/watch?v=M_znoN81e_g)**
-
-KALSHI: Trade Crypto Perpetuals + Get a $50 Bonus: https://kalshi.com/p/bitcoinnewsalerts Trading involves risk. Bonus subject ...
-
-📺 Bitcoin News Alerts
-
-👁️ 8K • 👍 313 • 💬 132 • ⏱️ 15:08 • 19h ago
-
----
-
-**[BITCOIN: On The Edge Of COLLAPSE... (DANGER!)](https://www.youtube.com/watch?v=FoU6m_BaAJE)**
-
-Opening Statement & Video Context 0:00-2:15 It's Not Over, Volatility Coming, Huge Risk 2:15-12:58 Trade where I Trade!
-
-📺 Wolves of Crypto
-
-👁️ 11K • 👍 309 • 💬 101 • ⏱️ 12:59 • 10h ago
-
----
-
-**[Bitcoin: It’s Failing The Test](https://www.youtube.com/watch?v=BsNHqXJeGbA)**
-
-NEW VIDEO SUMMARY REPORTS ON SUBSTACK ARE HERE (SUBSCRIBE FOR UPDATES) ...
-
-📺 Jason Pizzino
-
-👁️ 27K • 👍 805 • 💬 100 • ⏱️ 26:37 • 10h ago
-
----
-
-**[BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8JkwptZQalI)**
-
-BITCOIN UPDATE: THIS CHANGES EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 24K • 👍 461 • 💬 241 • ⏱️ 20:19 • 1d ago
+👁️ 3K • 👍 206 • 💬 60 • ⏱️ 21:48 • 2h ago
+
+---
+
+**[BTC ETFs DUMP COINS! HUGE Solana News &amp; Talking Bitcoin With Mr M](https://www.youtube.com/watch?v=bsFHifxq6gg)**
+
+BTC and ETH ETFs Dump coins, Talking crypto with Mr M Podcast BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 19K • 👍 473 • 💬 42 • ⏱️ 1:11:20 • 6h ago
+
+---
+
+**[BITCOIN AND ALTCOINS ARE DUMPING: I&#39;M BUYING HERE](https://www.youtube.com/watch?v=ClTXONuZ6FU)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 3K • 👍 181 • 💬 21 • ⏱️ 10:18 • 3h ago
+
+---
+
+**[Bitcoin: Look Out Below! 🚨](https://www.youtube.com/watch?v=HprQfU0j0OI)**
+
+This is all about why the next big crypto crash could be upon us. Major level broken. Big news for all Bitcoin, Ethereum, Solana ...
+
+📺 Investing Made Simple
+
+👁️ 11K • 👍 468 • ⏱️ 11:16 • 6h ago
+
+---
+
+**[BITCOIN: THIS IS SCARY! [CRASH IS COMING]](https://www.youtube.com/watch?v=4ueYVbSvkx0)**
+
+WEEX: https://themoon.co/DailyWEEX UP TO $60000 BONUS BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 6K • 👍 238 • 💬 24 • ⏱️ 8:32 • 4h ago
 
 ---
 

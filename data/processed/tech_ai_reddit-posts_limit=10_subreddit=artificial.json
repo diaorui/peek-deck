@@ -2,15 +2,26 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Video game fan translator says AI output is better than their own translation, deletes 3 years of work on project - \"I was wasting my time\"",
-      "author": "PixelGray38",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0f99n/video_game_fan_translator_says_ai_output_is/",
-      "published": 1791426130.0,
-      "thumbnail": "https://external-preview.redd.it/IhTMCgafLHok8IyHSVDJRwgxZ1oczgIKWZbaEqHZ6BM.png?width=108&crop=smart&auto=webp&s=e9b0c7b22f67dec5e62eab4306381562ea5da7e4",
-      "external_url": "https://ayana0720.wordpress.com/2026/10/07/update-3/",
-      "site_name": "ayana0720.wordpress.com",
-      "favicon": null,
-      "description": null
+      "title": "Trump declares anyone who uses the term Artificial Intelligence to be \u2018The Enemy!\u2019",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/",
+      "published": 1791479698.0,
+      "thumbnail": "https://external-preview.redd.it/BkbyA4bv0_f1fxn0IAR60_JNOpa2RYnVvNO6EQDWjLc.jpeg?width=640&crop=smart&auto=webp&s=8217cc7519b3630aaa3813650a08859a0e1da730",
+      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "President\u2019s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat"
+    },
+    {
+      "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/",
+      "published": 1791483456.0,
+      "thumbnail": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491",
+      "external_url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development."
     },
     {
       "title": "Researchers are already significantly improving on OpenAI\u2019s recent math results, verified in Lean",
@@ -35,6 +46,17 @@
       "description": null
     },
     {
+      "title": "Why are people using ChatGPT for menu generation?",
+      "author": "sirebral",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/",
+      "published": 1791482674.0,
+      "thumbnail": "https://preview.redd.it/4pqz6s8r9auh1.jpeg?width=640&crop=smart&auto=webp&s=43c1be0febfedeb5941f9e6713f974cbde90a517",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just wondering what's up with ChatGPT and the horrible/gross looking food menus. Example attached is from Gemini on a few items that usually look horrible on menus, it can do it just fine. Heck, open weight models can do this stuff as well. Why does everyone keep using a horrible model to produce their menus. I reside in Thailand and I see it in the wild all over the place. I tried to prompt Gemini to make me a bowl of ChatGPT rice, and think I got pretty close by asking it to \"generate a photo of a bowl of the rice looks like it was made out of fractals and aquarium rocks\"."
+    },
+    {
       "title": "Gamma 5 launched yesterday. I used it for an hour, my review",
       "author": "Madmahi25",
       "url": "https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/",
@@ -44,6 +66,28 @@
       "site_name": null,
       "favicon": null,
       "description": "Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI agent that talks through your outline with you, plus a freeform canvas, more themes, around 20 connectors and PPT/PDF import. The major problems of gamma was ai smells, now this time they are removing it, AI removing ai smells lol but its way better than the previous ones. So the ai agents asked me two questions, searched the web and wrote an outline in under 30 seconds. But the new home prompt gave me a blank page and I had to use the classic generator to get in. Haven't touched the canvas, so I can't say anything on it."
+    },
+    {
+      "title": "What to know about Anthropic\u2019s \u2018Claude-led\u2019 biological discovery \u2014 and why scientists aren\u2019t convinced",
+      "author": "cnn",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0uuea/what_to_know_about_anthropics_claudeled/",
+      "published": 1791475382.0,
+      "thumbnail": "https://external-preview.redd.it/mZNPQPGh_zhRjG-ox0VqovVhd8ydf1PO9WIhrw9-liE.jpeg?width=640&crop=smart&auto=webp&s=42a19bcbad482ee8904f2d8d5448027f59068c7b",
+      "external_url": "https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery?utm_medium=social&utm_campaign=missions&utm_source=reddit",
+      "site_name": "CNN",
+      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "Anthropic\u2019s claim its AI agents discovered an unusual pattern in viral DNA similar to what\u2019s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here\u2019s what to know."
+    },
+    {
+      "title": "What stops anyone from claiming proprietary use in a company's AI?",
+      "author": "UpstairsTomato3231",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0wv7m/what_stops_anyone_from_claiming_proprietary_use/",
+      "published": 1791480032.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I mean, what stops some slimy IT tech who is in charge of the AI for an entire company say, \"And block everyone else from changing this or by anyone but me.\"? If they get to it first and the managers or owners of the company are completely tech slow, it could happen. What is in place or is there something in place to prevent such things? I'm sorry if that has been answered a million times or that it's the wrong place to ask. Please just tell me where I should ask if I'm wrong. Thank you."
     },
     {
       "title": "Claude Haiku 5.5 is out and it is 75% cheaper than the last one",
@@ -57,60 +101,16 @@
       "description": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task."
     },
     {
-      "title": "How is AI accelerating progress in medicine, and when will it reach the level of impact it has already achieved in programming and mathematics?",
-      "author": "CaterpillarLonely199",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0g3oy/how_is_ai_accelerating_progress_in_medicine_and/",
-      "published": 1791428682.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Because of my own health issues, I now have to pay close attention to and hope for progress in this field. How is AI currently accelerating medical research and development? As LLMs continue to evolve, major AI companies shift more attention toward healthcare, and the necessary infrastructure is built, will this progress accelerate significantly? Or will AI\u2019s impact on medicine remain relatively limited unless we achieve breakthroughs beyond LLMs, such as world models or even revolutionary robotics?"
-    },
-    {
-      "title": "I think I just unknowingly signed up to be a test subject on whether or not people are able to detect AI generated books.",
-      "author": "Junior-Key-5043",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0pqlk/i_think_i_just_unknowingly_signed_up_to_be_a_test/",
-      "published": 1791462840.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I signed up for something that said it would pay me to review books. I figured it was another scam like those survey or game sites that pay pennies on the hour but I like reading and don't like having to choose what to read from every book ever written so I thought, why not. Something I thought was odd was that they said I was being paid to read the books not review them, they wanted an honest review even if I thought it was bad, and I could opt to write a private essay instead of publishing a review if I wanted, even though the books are already published. I read the first one and something about it seemed really lifeless. Afterwards I decided go run the PDF of the book they gave me through AI detectors and they said that they're highly confident that it's AI. That book is part of a series of books that have positive reviews that appear human-written on Amazon. I don't want to say what because honestly I went ahead and wrote the review before testing it. Honestly I regret just writing a puff piece review about it now instead of pointing out the things that made it seem so lifeless because I'm thinking I could have gotten higher payment opportunities later if I did, since that's what I think it's really about."
-    },
-    {
-      "title": "Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]",
-      "author": "jpqwerty",
-      "url": "https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/",
-      "published": 1791409373.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From: https://archive.org/details/MarkovCyberneticsTodayMir1984/mode/1up Why Artificial Intelligence Is Impossible A. V. BRUSHLINSKY The desire of modern cyberneticists to answer positively the question \u201cCan the computer think?\u201d has taken various forms. One approach has resulted in attempts to create artificial or machine intelligence. Such attempts have been criticized by scientists from an extreme cybernetic point of view based on the philosophico-psychological proof of the impossibility of machine intelligence. This criticism, first voiced in the USSR in the late 1950s and early 1960s by S. L. Rubinstein, E. V. Ilyenkov, M. M. Rosental, and other researchers, involves the critical comparison of natural and artificial intelligence. Such an approach, in my opinion, should be continued as follows. Technology (for instance, artificial intelligence) and the mind (for instance, mental processes) are based on essentially different types of interconnection between their elements. Any machine built by man is a unified whole made up of clearly defined, separate component parts, assemblies, blocks, and so on. This intrinsic separateness between individual parts characterizes not only the structure of the whole, or its \u201cmorphology,\u201d but also its functioning, or \u201cphysiology.\u201d As M. Minsky aptly put it, machines and automated systems switch from one condition to another in clear-cut, \u201cdiscrete\u201d steps. The simplest example is provided by a motor as the driver starts up, changes speed, and shuts it off. Similar relations between the elements within a unified whole are peculiar to the mathematical set, a concept which, according to many experts, is basic to mathematics. We will call such relations disjunctive. Mathematics, then, as well as engineering, is disjunctive: it idealizes the type of interrelation between elements that is realized in technology. This is true of both discrete and continuous mathematics. The term \u201cdisjunctive\u201d is more appropriate in this context than the more specific term \u201cdiscrete,\u201d which is inevitably associated with discrete mathematics, for instance, as opposed to continuous mathematics. Thus, a mathematical set, a machine, and an automaton all represent different varieties of basically similar, disjunctive systems composed of inherently individual elements separated inside a unified whole. The functions of the mind represent a fundamentally different type of system. The actual process of mental activity in a human being, for instance, is never disjunctive in the sense mentioned above. The stages and elements of the natural thought process are so organically interconnected that they cannot be likened to disjunctive, individual machine components or set elements. The stages of such a mental process overlap, intertwine, arise genetically one from another, and so on. This non-disjunctive character of relations between the components of the mental process has been demonstrated experimentally in work showing that the thought process (for example, the solution of a problem) always results in the prediction of a solution to the given problem. Such a mental prediction makes a choice among alternative solutions unnecessary. The necessity of choosing reflects a form of formally logical relation between the results of the mental process, but not the process itself. Such a choice is a specific, although common, instance of disjunction, that is, of inherent separateness and mutual exclusion of alternatives. Disjunctive relations are most adequately generalized in formal logic (in particular, mathematical logic), which, on a certain level of abstraction, can be very productive and promising, although it is detached from the development of the object being studied. Non-disjunctive relations are generalized in the terms of dialectical logic, which provides the methodological basis necessary for studying the development of an object. The psychology of thought based on dialectical logic also attempts to investigate systematically the micro- and macro-development of the mental process as well as the transformation of each of its stages, components, operations, and so on. Consequently, the highest level of such continuity (in the psychological sense described above rather than in the mathematical sense) in the shaping of the conscious and unconscious mental processes is non-disjunctive, that is, genetically continuous. It is clear from the foregoing that the psychological concept of continuance substantially differs from the mathematical (disjunctive). This interpretation of the disjunctive and the non-disjunctive provides a clear answer to the question of machine \u201cthinking,\u201d in general, and artificial intelligence, in particular. Artificial, machine intelligence is theoretically impossible to create since it is intrinsically disjunctive, whereas the natural mental process is always non-disjunctive. The machine and the living organism develop in essentially different ways. A living organism emerges from a single fertilized egg cell, which evolves by differentiation in a single, unbroken process. Machines are created by man in just the opposite manner, by the deliberate assembly of inherently separate, prefabricated parts. In this respect any modern or future machine (including the computer) can only be an artificial disjunctive formation, that is, secondary to and derivative of man and his activity. The machine is created by man and man alone, and therefore cannot be non-disjunctive. As a result, artificial intelligence is impossible. The area of research erroneously referred to as \u201cthe design of artificial intelligence,\u201d however, remains important and fruitful because current and future machines are the necessary tools (and only tools!) of creative and non-creative human activity. Man has been and will be the only being truly capable of thinking."
-    },
-    {
-      "title": "Free online talk: Matthew Watkins on his new book SolidMagicKarp: A Journey into the AI Underworld",
-      "author": "Upbeat-Accident-2693",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0rgbw/free_online_talk_matthew_watkins_on_his_new_book/",
-      "published": 1791467429.0,
-      "thumbnail": "https://external-preview.redd.it/b7Y6aZhnNKm-SVvYcY-JGCfeHPkm0VXkclC6XXYF9qk.jpeg?width=640&crop=smart&auto=webp&s=dd2f431ed1decefab4c80154f4c711ae7368107f",
-      "external_url": "https://www.eventbrite.com/e/living-in-the-ai-weird-times-a-conversation-with-matthew-watkins-tickets-2002944408644?aff=oddtdtcreator",
-      "site_name": "Eventbrite",
-      "favicon": "https://cdn.evbstatic.com/s3-build/perm_001/8730ae/django/images/touch_icons/apple-touch-icon-180x180.png",
-      "description": "A conversation with Matthew Watkins, AI safety researcher, psychonaut and author of new book SolidMagicKarp, on living in the AI weird times"
-    },
-    {
-      "title": "Scientists use generative AI to build better proteins for editing DNA",
-      "author": "Brighter-Side-News",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/",
-      "published": 1791412455.0,
-      "thumbnail": "https://external-preview.redd.it/pGRPRLWzmdDDWgJjU7xBdKW3d8VRB3w5uDHA3ioMXx4.png?width=640&crop=smart&auto=webp&s=dbaf378f95e41572b9008c17fee75e7e54c66ef3",
-      "external_url": "http://thebrighterside.news/post/scientists-use-generative-ai-to-build-better-proteins-for-editing-dna",
-      "site_name": "The Brighter Side of News",
-      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
-      "description": "A protein designed with artificial intelligence doubled targeted DNA insertion in cultured cells when incorporated into an experimental gene-editing system. The result emerged from a search through thousands of genomes, followed by laboratory tests of natural and synthetic proteins. The study, involving Integra Therapeutics, Pompeu Fabra University and the Center for Genomic Regulation, appeared in Nature Biotechnology. It examines proteins called transposases, which move DNA between locations. The findings expand the available tools for inserting genes, including into human immune cells. They also expose an important distinction: improving one step of gene editing does not necessarily improve every application."
+      "title": "Mathematicians marvel, and grumble, at OpenAI\u2019s trove of new results",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/",
+      "published": 1791486867.0,
+      "thumbnail": "https://external-preview.redd.it/rDD025PhLKIB5DiO9ttk1ThYMpyroOcgDaMANq5SEGU.jpeg?width=640&crop=smart&auto=webp&s=4650ee49e01611269ce7a1b94c21733c71c52361",
+      "external_url": "https://www.scientificamerican.com/article/mathematicians-marvel-and-grumble-at-openais-trove-of-new-results/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "The \u201cslop drop\u201d contains a number of groundbreaking results, but how it was generated remains unclear and contentious"
     }
   ],
-  "fetched_at": "2026-10-08T13:55:14.629079+00:00"
+  "fetched_at": "2026-10-08T19:41:21.334362+00:00"
 }

@@ -5,24 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "US issues first outbound investment fine over Chinese robotics AI deal",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd01kSV85N0o3MDFlbThLT3hReUdWaUFjdkRDcEE5X1FkWEk0UHlXTnhFcElrRWpKRzJtNkZsUU5SQi1uNEZXVHhWeW9EN0czNHpQNWNFeXpld1ZrZnI3NkhUREhHMndwbWZ1THdNdHhHZ3JRcVZzZ3dyc2lxY0x4VGNVTU1rX3VuMmhJVkNQald2UkFIOENYbl8zYzJWRWlsQVlwN05RQUFkazFfeXdqVkdRYVBRODBpWjhYcGtSRlhqNUx6NGVR0gHHAUFVX3lxTFBCNGo2WVBWc2l0LWhwRDdCOHN3NXJXSnBjNEFuelJyOUJwdTNLdndjMnIwVjFZeE03dVJTd2pxOHBoWHZ5SmxEZVdvMF84QzNyb0x3NkR4N1hNWFpjSHo3X3BNYkRYSmpxdDhJMWhKVDVBRW51ZDBZdmFfZXRPaFNxMXVWZ3UwNVpTSTlYQ185dzRGYmR6b0lNZ3VuaGxRRVNlNkYwTG5NZ1NiVElGUHBGZFlGVmpRR0tGOGtvMzUzUk5YUlZ2aTQ?oc=5",
-      "pub_date": 1791401279.0,
-      "article_url": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Mixed Human Feelings After a Day at a Park Full of Robots",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
-      "pub_date": 1791233729.0,
-      "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-      "image": null,
-      "description": null
+      "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZml3eHVNU252OUdQVFlJTVdVX0UxY0F3NzBpQTU5NWJza0Y3UFdHWnhPSXI0cEJaWmdQdlRCeW40UWYxRWx3aThFdk51Rk82U0VFZzN1Tkg2Uk8yUWQtMU1zYUlGQm5kQU9PSTI1NEJ6WUJTclNyVVlnczl1VjJpaFlDU3Q5ZGozR2dqTkYyS1RYMXJRcERXZDVDbERCWm14TFpySzJ6YzZpeXNtTU45ZEpWdnBoNFBn0gG-AUFVX3lxTE5DTDNXQWotYUtHN0Y0NXJEQTNiMWkwOXBHLUM1YkJhV3dSWHpkLW03X2hzOURVWTlsUnhKYVJtdWtJRU5xck4xQTFpOGNsZlBlWU02UXo1UVItNU5ZZ0pMQ3lPbkkwY0VfajdWRlZ3bEczaERzTnltWE9VM2xTX0pEX1ZCXzVNWWpoQU9ld3lXMDd5cFQtbUV3UDhhWXRHdDA3TWVQMVpueXRzYTdGdUQzOEhpbjZZYjY5QmI3MlE?oc=5",
+      "pub_date": 1791450000.0,
+      "article_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+      "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
     },
     {
       "headline": "Nvidia\u2019s big bet on physical AI aims for safer robotaxis, humanoid robots",
@@ -35,24 +25,24 @@
       "description": "Full-stack safety solution for physical AI is being used by robotics companies."
     },
     {
-      "headline": "Agile Robots trains factory robots by filming human workers",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzaHp1cC1fdUx4NXkyZFNfX2dDSU1iMU4zWThDb29nblR1bVZ0NnlHR1JxTHNsN1psNnp0dVliQkZZZ3pwUUE4VE5oWGFDaThaMmYzMWZENXByZjlRRUVYU0pRcm5BNV9zZDFMczdUdl8tcHZiZGRJ?oc=5",
-      "pub_date": 1791467145.0,
-      "article_url": "https://qz.com/agile-robots-robot-academy-human-training-data-100826",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2280546688-300x196.jpg",
-      "description": "The Munich startup's Robot Academy captures how workers move their hands and fingers to help machines master factory tasks"
+      "headline": "Chinese humanoid robots dance for South Korean lawmakers as AI race heats up",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03OExUZGhNYVZCUGF1STZYRG1zZzZhMXVoZk8tT3I4TmxPOTRhQkFfbnU3NDZWR0p5RlNFRUd0Z01Wd2pKZjFkQk1wM0xQZkxtTTU5c3BR?oc=5",
+      "pub_date": 1791484253.0,
+      "article_url": "https://www.foxnews.com/video/6406490208112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aae79cfc-f7b1-4cc2-a569-2c1072314097/70d1153e-77cf-4bc6-9a43-a867073fe99b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China\u2019s rapid advances in physical AI and calls for greater investment in South Korea\u2019s robotics industry."
     },
     {
-      "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
-      "source": "MIT Technology Review",
-      "source_url": "https://www.technologyreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZml3eHVNU252OUdQVFlJTVdVX0UxY0F3NzBpQTU5NWJza0Y3UFdHWnhPSXI0cEJaWmdQdlRCeW40UWYxRWx3aThFdk51Rk82U0VFZzN1Tkg2Uk8yUWQtMU1zYUlGQm5kQU9PSTI1NEJ6WUJTclNyVVlnczl1VjJpaFlDU3Q5ZGozR2dqTkYyS1RYMXJRcERXZDVDbERCWm14TFpySzJ6YzZpeXNtTU45ZEpWdnBoNFBn0gG-AUFVX3lxTE5DTDNXQWotYUtHN0Y0NXJEQTNiMWkwOXBHLUM1YkJhV3dSWHpkLW03X2hzOURVWTlsUnhKYVJtdWtJRU5xck4xQTFpOGNsZlBlWU02UXo1UVItNU5ZZ0pMQ3lPbkkwY0VfajdWRlZ3bEczaERzTnltWE9VM2xTX0pEX1ZCXzVNWWpoQU9ld3lXMDd5cFQtbUV3UDhhWXRHdDA3TWVQMVpueXRzYTdGdUQzOEhpbjZZYjY5QmI3MlE?oc=5",
-      "pub_date": 1791450000.0,
-      "article_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
-      "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
+      "headline": "These Robots Built BMWs, Then Hurled Themselves Into Molten Steel",
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBYZzhQanlmVXk4bVN3cG8yckF0YXlJV1F3SmFDcWdtWlNHakFjMzdTRHo3b3V1dGVuaGtDWDh4VldHdkRucU92VGxaMkdIemltcHo5OEJHNVd3LXE3WkdNRWY2QlFPT1J0bkd6QVZnaE5HRFN2cVlCUnpsRmx2bFQtN0FoM3ZxaVkzeDZiUnFsYV9ZOW55T1Nn?oc=5",
+      "pub_date": 1791303800.0,
+      "article_url": "https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-115500.jpg?quality=85&w=1200",
+      "description": "A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies."
     },
     {
       "headline": "The Machines that Make the Machines | NVIDIA Technical Blog",
@@ -65,46 +55,56 @@
       "description": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The NVIDIA Grace Blackwell GB300 superchip\u2026"
     },
     {
-      "headline": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
-      "pub_date": 1791416217.0,
-      "article_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
+      "headline": "Gecko Robotics, Anduril team up for new Baltimore County shipyard",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUw5a3d3SHZYc0U4V0IwX3haNl9JVkJadEw4ZHc5Qm5uODJ5Nm5RUUczTFpKM1gzNTJTSjJnYU5yMjl0VXUwLU1rNExGelpsbjJGTXpiMlV5dDZEODN2dmYxZnZpcjJaYnl6WFdFQURmSWZMcU5hRFkxZUpoQnRrbjJTbHp0VWczWl95UnhENlJpSXlRS01YN0h3UDMwaGFsamo4?oc=5",
+      "pub_date": 1791470206.0,
+      "article_url": "https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026-Proto-Factory-2-Web-1-scaled-e1791463881980.jpg",
+      "description": "Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components."
     },
     {
-      "headline": "Threadlike motor uses sliding fibers to drive flexible robotic devices without gears",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNGYUcxV3puLUkxbEUybGN6Z1FPUEpOQWpzSzY1aFNiZkM5RTctaGRYU2ttS1oyZFlwM0huQ2xiekFlMHFIQTlnSXhSc3BMTUgtN1NUN1JTR0pGc05Wai1YMXBpR0p4NE5nTGpMVGVGcE9JOHZpUkxLQlNKbnFfSVlCai1TWXJo?oc=5",
-      "pub_date": 1791382813.0,
-      "article_url": "https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html",
+      "headline": "A robot entered a Denver comedy club. (This isn\u2019t a joke.)",
+      "source": "The Colorado Sun",
+      "source_url": "https://coloradosun.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmZhOFpPNlgtWXRtT2lkQk5icHMyNXIzNXpCZ0JIaGtrTlF4NFRYcmQ0RTE4YUtYYXNyLVBfMDJZYndqN3ZqYzBDd1VkSTk0M1UyZ3ZRQUtRa1dKWGNyZEc0bDhTcDBNVVVIdEtuV2I4NWlUa0hubW55di1MVTN6UTRKYU1XanZwSExJZnJQVy1yS0lTdGJfbQ?oc=5",
+      "pub_date": 1791453600.0,
+      "article_url": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
       "image": null,
       "description": null
     },
     {
-      "headline": "FireFly Robotics files for Nasdaq direct listing",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlDaEwtTEw4V0tjU2diYkV2cG9BbGxJYmdBM2VUTzcxUXFOR1N6NWo5b2dpRkM3TkRtZFNhNDNKZGNjMlRfdDhMR2M2bVBFanI2aUJTUk5SakNSM1R2Z2hSRXpsUFU1dExIaWJQU2xvM2dmM1F4bjgwN1g4UWxsYW5MSWF5Nlk0eWJRS1FFNHlBOUE?oc=5",
-      "pub_date": 1791393703.0,
-      "article_url": "https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/",
+      "headline": "This Disembodied Hand Is All the Robot You Need",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qTkNmQUd0UllXTnZSeVRfSVBKWnphYUlYenIwQU5BVmd5d3ZLampQc2gxTzNoektleGpjdG9KemxYekE4LXhELVpJenlMay1YcnBtR1pBdkFfQQ?oc=5",
+      "pub_date": 1791461059.0,
+      "article_url": "https://spectrum.ieee.org/walking-robotic-hand",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68383399&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+      "description": "Multipurpose body parts could lead to more-flexible robot designs"
+    },
+    {
+      "headline": "Watch Sequoia, Nvidia Back Mecka AI\u2019s Robotics Push",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXI3YkpuaG00UkVZakdhX0RRQVZXZndON2R6d0FIelp4MWtBc2czRE9uN1ppeGFXTy1QWFZXb1ZhN1I5NkZBcU9ndGlHOWZEdVFjQnlsNm8zNzVXU3pMa1Q4aDFWYk50Qi1SOUZ0YmRrSEtKbG1VZy11LWxNN2VZUkFucV8zX2w2QTljWXBqczVQVFJ3QkhHWG9ERDNkbXdm?oc=5",
+      "pub_date": 1791396643.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video",
       "image": null,
       "description": null
     },
     {
-      "headline": "Solana's Orca merges with Loopscale in push to finance AI, robotics and defense",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWVTWExxQTdVUXZwSE1qSXRsQzZEOWpfQ2JYdWd6Skx0dzBSM3M3NXlkNm1HZEwyU2dLQ0QwUkFBcDNINjdIb1ZLX29ubXU1VGowbmUtaHhrMGgxX1ZVT0dZc0pBdkVCZkhoNlpCSTVselpGd1RaZzNJbXA0QzZiLUhiLVdEZHZyUFlKMGI4eTRiamlIMVZSTF81VU5QNTIwcjRmYXpfMFJLdEVzSlJqUlRQaWFjQ3RVR1ZsVjJPVQ?oc=5",
-      "pub_date": 1791410460.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/07/20210712_Finance_Crypto_Move.jpg",
-      "description": "The combined team will operate as Formation, aiming to help businesses raise money and enter regulated U.S. capital markets."
+      "headline": "Mixed Human Feelings After a Day at a Park Full of Robots",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
+      "pub_date": 1791233729.0,
+      "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T13:55:35.812760+00:00"
+  "fetched_at": "2026-10-08T19:41:46.908915+00:00"
 }

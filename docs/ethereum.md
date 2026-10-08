@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-08T13:55:41.846379+00:00'
+updated: '2026-10-08T19:41:57.665433+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 08, 2026 at 13:55 UTC  
+**Last Updated:** October 08, 2026 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,534.20
+### $2,432.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -5.6%  
-**30d:** +2.1%  
-**90d:** +40.8%  
-**1y:** -42.3%  
+**24h:** -4.3%  
+**7d:** -7.7%  
+**30d:** -0.2%  
+**90d:** +37.7%  
+**1y:** -43.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $307.49B
+**Market Cap:** $300.22B
 Rank #2
 
 **Circulating Supply:** 122,116,138 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.1%
+-50.3%
 
 **All-Time Low:** $0.43
-+581380.9%
++567735.9%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The Glamsterdam upgrade has now been activated on Ethereum’s Sepolia testnet!](https://www.reddit.com/r/ethereum/comments/1wz65fi/the_glamsterdam_upgrade_has_now_been_activated_on/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In which I explain how to solve identity in peer-to-peer data systems by (minimally) using Ethereum.
 
-🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 5d ago
+🔗 [jthor.eth](https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity/) • 6d ago
 
 ---
 
@@ -152,39 +152,53 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.
 
-CoinDesk • 3h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum](https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum)**
+**[Keep calm and enter 'bunker mode,' crypto bros say](https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10)**
 
-Justin Drake is calling for crypto holders to start calmly planning for “Bunker Mode." But reactions so far haven’t been too calm.
+Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results.
+
+Business Insider • 3h ago
+
+---
+
+**[Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift](https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode)**
+
+Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.
 
 Decrypt News • 2h ago
 
 ---
 
-**[Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks](https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks)**
+**[Bitmine Falls 7% as Tom Lee Says the Ethereum Buying Spree Is About to End; Sharplink and Strategy Drop 5%](https://finance.yahoo.com/markets/crypto/articles/bitmine-falls-7-tom-lee-165930526.html)**
 
-Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them "in months, not years" in the worst case, well before quantum computers arrive.
-
-CoinDesk • 2h ago
-
----
-
-**[Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?](https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html)**
-
-A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030.
+Tom Lee just signaled a major shift in how Bitmine handles its Ethereum treasury, and crypto stocks across the board are taking the hit as investors reconsider what a buying halt means for a company built on relentless accumulation.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum](https://finance.yahoo.com/markets/crypto/articles/morning-minute-ethereum-researcher-says-114813244.html)**
+**[Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
 
-Justin Drake is calling for crypto holders to start calmly planning for “Bunker Mode." But reactions so far haven’t been too calm.
+Barron's • 1d ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, October 7, 2026: Crypto prices fade along with risk appetite](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-7-2026-crypto-prices-fade-along-with-risk-appetite-113324902.html)**
+
+Bitcoin opened at $85,546.23 on Wednesday, October 7, 2026, down 0.3% compared with Tuesday's opening price. As of 7:17 a.m. ET this morning, the price of bitcoin moved lower to $83,771.28 Ethereum opened at $2,697.32, down 0.5% from Tuesday's opening price. The price of ethereum moved down this morning to $2,580.58 as of 7:17 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[The CFTC Lists XRP and Stellar as Digital Commodities Alongside Bitcoin and Ethereum. Is XRP Officially Not a Security?](https://247wallst.com/investing/cryptocurrency/2026/10/07/the-cftc-lists-xrp-and-stellar-as-digital-commodities-alongside-bitcoin-and-ethereum-is-xrp-officially-not-a-security/)**
+
+The CFTC's new proposals list XRP as a digital commodity next to Bitcoin. Here's what that means for XRP holders and what's still open.
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -196,35 +210,19 @@ Fortune • 1d ago
 
 ---
 
+**[Tom Lee to Stop Stacking Ethereum Upon Securing 5% of Supply](https://www.tradingview.com/news/u_today:27cbd3b28094b:0-tom-lee-to-stop-stacking-ethereum-upon-securing-5-of-supply/)**
+
+At the renowned crypto event, Token2049, Tom Lee, the chairman of BitMine Immersion Technologies, addressed the company's Ethereum accumulation strategy.At the event, Tom Lee publicly declared that the company will stop accumulating Ethereum once its holdings reach 5% of Ethereum's total supply.Bit…
+
+TradingView • 7h ago
+
+---
+
 **[Where Will Ethereum Be in 2030?](https://www.fool.com/investing/2026/10/08/where-will-ethereum-be-in-2030/)**
 
 In a few years, Ethereum could transform from a "blockchain" into a "cryptographic world computer."
 
-The Motley Fool • 4h ago
-
----
-
-**[New Crypto: AlphaPepe Presale Nears $3M Raised While Ethereum Price Prediction Points to $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-alphapepe-presale-nears-3m-raised-while-ethereum-price-prediction-points-to-6-000-1036607148)**
-
-MONACO, Oct.  07, 2026  (GLOBE NEWSWIRE) -- New crypto AlphaPepe has crossed $2.91 million raised and is now closing in on the $3 million presale ...
-
-markets.businessinsider.com • 10h ago
-
----
-
-**[Binance users add 6,217 more Bitcoin as Ethereum balances drop – Details](https://ambcrypto.com/binance-users-hold-6217-more-bitcoin-as-ethereum-balances-drop-details/)**
-
-Binance’s latest Proof of Reserves data reveals a shift.
-
-AMBCrypto • 5h ago
-
----
-
-**[Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says](https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee)**
-
-Bitmine chairman Tom Lee said at Token2049 the company will stop buying Ethereum once it holds 5% of circulating supply.
-
-Decrypt News • 23h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -232,23 +230,53 @@ Decrypt News • 23h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=-bP9N-QftqM)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 93 • 💬 36 • ⏱️ 19:57 • 2h ago
+
+---
+
+**[BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dAePM0b8diM)**
+
+BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 206 • 💬 60 • ⏱️ 21:48 • 2h ago
+
+---
+
+**[Bitcoin To $75K Next? | ETH $16K? | Robinhood Tokens](https://www.youtube.com/watch?v=_OKpZKijUp8)**
+
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v48 ______ ...
+
+📺 Crypto Archie
+
+👁️ 953 • 👍 53 • ⏱️ 9:22 • 5h ago
+
+---
+
+**[OG ETH/BTC Developer Gives Major Warning..! Ripple, Chainlink, Solana News! IMF Warns France!?!](https://www.youtube.com/watch?v=VYHm49ImRvc)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 16K • 👍 649 • 💬 121 • ⏱️ 13:47 • 7h ago
+
+---
+
 **[Machine intelligence and crypto will merge naturally: Ethereum co-founder](https://www.youtube.com/watch?v=xLec7pJboHo)**
 
 Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provide creativity and expertise but does not ...
 
 📺 CNBC International Live
 
-👁️ 2K • 👍 43 • 💬 15 • ⏱️ 4:19 • 5h ago
-
----
-
-**[Crypto&#39;s Bullish &amp; Bearish Macro Signals, Bitcoin &amp; Ethereum&#39;s Technical Picture](https://www.youtube.com/watch?v=D5ujHoLCuJo)**
-
-Nathan Peterson of @CharlesSchwab addresses the abundance of macro headlines he sees moving cryptocurrencies. Among ...
-
-📺 Schwab Network
-
-👁️ 5K • 👍 39 • 💬 1 • ⏱️ 7:03 • 15h ago
+👁️ 10K • 👍 78 • 💬 16 • ⏱️ 4:19 • 11h ago
 
 ---
 
@@ -258,27 +286,17 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 240 • 💬 31 • ⏱️ 8:42 • 9h ago
+👁️ 13K • 👍 282 • 💬 17 • ⏱️ 8:42 • 15h ago
 
 ---
 
-**[🔥 Ethereum Upgrade Is Close - ETH Crypto Analysis](https://www.youtube.com/watch?v=K3AVBoCrDK8)**
+**[Crypto&#39;s Bullish &amp; Bearish Macro Signals, Bitcoin &amp; Ethereum&#39;s Technical Picture](https://www.youtube.com/watch?v=D5ujHoLCuJo)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/ON28dbx4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+Nathan Peterson of @CharlesSchwab addresses the abundance of macro headlines he sees moving cryptocurrencies. Among ...
 
-📺 Bitcoin Strategy
+📺 Schwab Network
 
-👁️ 4K • 👍 98 • 💬 13 • ⏱️ 10:14 • 14h ago
-
----
-
-**[Bitrue AI Trading Bot: Trading $BTC, $ETH &amp; $XRP With AI💫](https://www.youtube.com/watch?v=DiShx57Zvhg)**
-
-Sign up now and claim up to $1000 in bonuses: https://www.bitrue.com/referral/landing?cn=600000&inviteCode=VZZGVVL ...
-
-📺 NASS CRYPTO
-
-👁️ 40K • 👍 2K • 💬 126 • ⏱️ 8:15 • 18h ago
+👁️ 5K • 👍 43 • 💬 1 • ⏱️ 7:03 • 21h ago
 
 ---
 
@@ -292,6 +310,16 @@ Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody re
 
 ---
 
+**[🔥 Ethereum Upgrade Is Close - ETH Crypto Analysis](https://www.youtube.com/watch?v=K3AVBoCrDK8)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/ON28dbx4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 5K • 👍 104 • 💬 13 • ⏱️ 10:14 • 20h ago
+
+---
+
 **[Tom Lee Just Said The UNTHINKABLE About Ethereum &amp; Bitcoin! [Load Up Before November]](https://www.youtube.com/watch?v=Ymx55X-Sou8)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
@@ -299,36 +327,6 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 📺 Crypto Nutshell
 
 👁️ 16K • 👍 318 • 💬 38 • ⏱️ 19:12 • 2d ago
-
----
-
-**[Ethereum Broke Down.. I SOLD. Here&#39;s Where I Buy Back](https://www.youtube.com/watch?v=qAUs0z8NKZ4)**
-
-Toobit - $8810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit Ethereum (ETH) broke down out of its two-week ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 16 • 💬 7 • ⏱️ 3:07 • 1d ago
-
----
-
-**[Crypto Breaks Down Right ON SCHEDULE! But I&#39;m More Bullish On Altcoins Than I&#39;ve Been Since 2020](https://www.youtube.com/watch?v=6SxiKGWQMTw)**
-
-Thanks Coinbase for sponsoring this crypto video Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 28K • 👍 731 • 💬 264 • ⏱️ 16:20 • 21h ago
-
----
-
-**[Tom Lee: &quot;Crypto Bull Underway - This Cycle Likely The Largest&quot; | Bitmine Chairman&#39;s Message](https://www.youtube.com/watch?v=ac7pnyaBFEM)**
-
-Tom Lee: "The Crypto Bull Market Is Underway, and This Cycle Is Likely the Largest" | Bitmine Chairman's Message, October 2026 ...
-
-📺 Bitmine BMNR
-
-👁️ 111K • 👍 2K • 💬 409 • ⏱️ 10:48 • 1d ago
 
 ---
 

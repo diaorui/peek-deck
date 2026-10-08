@@ -115,9 +115,23 @@
       "description": null,
       "favicon": null,
       "site_name": "bookgossip.substack.com"
+    },
+    {
+      "title": "How Does Yamamoto Do What He Does? Toyota-Like Mechanics",
+      "url": "https://robbinsathletics.com/yamamoto-pitching-mechanics/",
+      "hn_url": "https://news.ycombinator.com/item?id=50007625",
+      "author": "robbinsathletic",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-08T16:10:10Z",
+      "object_id": "50007625",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "robbinsathletics.com"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-10-08T13:55:12.701610+00:00"
+  "fetched_at": "2026-10-08T19:41:22.180748+00:00"
 }
