@@ -2,37 +2,15 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Current sensing lets me pet my robot properly",
-      "author": "uavster",
-      "url": "https://www.reddit.com/r/robotics/comments/1wzv2cm/current_sensing_lets_me_pet_my_robot_properly/",
-      "published": 1791375646.0,
-      "thumbnail": "https://external-preview.redd.it/YmZoNXdkMWJiMXVoMRbGERyUjZZ21hVF0m_Ynl6eTVYYPbjowaQ4G9oiYp_D.png?width=640&crop=smart&auto=webp&s=46400610eb3ceed051a9b5701b9bb21ab61828fc",
+      "title": "From parts to a working robot \ud83e\udd16\ud83d\udd27 Testing the motors, gears and mechanical system step by step. More upgrades coming!",
+      "author": "Personal-Wear1442",
+      "url": "https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/",
+      "published": 1791423645.0,
+      "thumbnail": "https://external-preview.redd.it/NmVka3ZmczZlNXVoMfQb80lukUpSrFyqppfQVlbd8d3z6EWNYK33842O9tpJ.jpeg?width=640&crop=smart&auto=webp&s=21606fd8cd0204bac2ccaf7bdab18d3fd68e96aa",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into \"follow mode\". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code."
-    },
-    {
-      "title": "I want to make self-replicating factories.",
-      "author": "Wing-Realistic",
-      "url": "https://www.reddit.com/r/robotics/comments/1wzfxpf/i_want_to_make_selfreplicating_factories/",
-      "published": 1791324884.0,
-      "thumbnail": "https://external-preview.redd.it/eDBmMjdrZjE4eHRoMYxCHStoKrtRF6HNRp4IL1idl_rULkV_DL0ySXKu4YaC.png?width=640&crop=smart&auto=webp&s=7daaf9bec2118bf33756359bd497afc2e4750dbb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They\u2019re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?"
-    },
-    {
-      "title": "Wanted to share the Roboarm v1, have been hacking on this for few weeks now.",
-      "author": "tauksun",
-      "url": "https://www.reddit.com/r/robotics/comments/1wztszv/wanted_to_share_the_roboarm_v1_have_been_hacking/",
-      "published": 1791371675.0,
-      "thumbnail": "https://external-preview.redd.it/djlmaXc2b28zMXVoMfcEnHx__nKquIJtLHsXAE491uc28_Lg4-pxS3m9tiCO.png?width=640&crop=smart&auto=webp&s=037817a13c578a245bcc7bd351df3334be733f2f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\u200b Running on STM32 Bluepill. ESP32cam for image steaming. OpenCV for image processing. LLM for speech & intent extraction."
+      "description": null
     },
     {
       "title": "Now its a proper Robot Dog",
@@ -46,71 +24,93 @@
       "description": "I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh \u2013 6000mAh) x 1 I have been working on a bipedal version hence the \"2 more to go\" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)"
     },
     {
-      "title": "Test-Time Adaptation of Manipulation Policies Under Actuator Degradation \u2014 code + paper",
-      "author": "Tbagho",
-      "url": "https://www.reddit.com/r/robotics/comments/1wzrfha/testtime_adaptation_of_manipulation_policies/",
-      "published": 1791362733.0,
-      "thumbnail": "https://external-preview.redd.it/yc30hGU2SUtWkubFUHQxvCQy3nioHdOYM6M-RwZ997g.jpeg?width=640&crop=smart&auto=webp&s=e37ca3adba01e5225a2787af66eaba8048f2cb9a",
-      "external_url": "https://papers.tinrobotics.com/paper/test-time-adaptation-of-manipulation-policies-under-actuator-degradation/",
-      "site_name": "Robotics Research Hub",
-      "favicon": "https://papers.tinrobotics.com/apple-touch-icon.png",
-      "description": "Robot manipulation policies are usually trained under the assumption that a commanded action produces the same motion as it did during training even after hours of operation. Real hardware violates this assumption as the motors gradually heat up, current saturates near contact, voltage sags under load, thus the same policy action can produce a weaker, delayed, or noisier motion."
+      "title": "I've built a tool that designs a whole robot from a text description: servos, electronics, 3D body, firmware, then tests it in MuJoCo",
+      "author": "tkumorrobots",
+      "url": "https://www.reddit.com/r/robotics/comments/1x01mmd/ive_built_a_tool_that_designs_a_whole_robot_from/",
+      "published": 1791391729.0,
+      "thumbnail": "https://external-preview.redd.it/c2N1bXlkMm9xMnVoMei7Dfq1qUhPJ33iRjBVlOHR5icxJBac2le9_DCzkGT9.png?width=640&crop=smart&auto=webp&s=e6c91dd89ef78479bd0633c044f3530b76d44fe3",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) designed end to end in my app. You describe the robot, and it picks real servos (Feetech STS3250 here), plans the electronics, lays out the body, builds the 3D structure and shell, writes the firmware, and runs it in MuJoCo physics before anything gets printed. It's early and plenty is still rough. I'd really like feedback from people who've actually built robots: what was the hardest part of your design, and what would make a tool like this useful (or useless) to you?"
     },
     {
-      "title": "Why is reliable depth perception still difficult for indoor robots?",
-      "author": "Wonderful-Brush-2843",
-      "url": "https://www.reddit.com/r/robotics/comments/1wztb0l/why_is_reliable_depth_perception_still_difficult/",
-      "published": 1791369917.0,
+      "title": "Current sensing lets me pet my robot properly",
+      "author": "uavster",
+      "url": "https://www.reddit.com/r/robotics/comments/1wzv2cm/current_sensing_lets_me_pet_my_robot_properly/",
+      "published": 1791375646.0,
+      "thumbnail": "https://external-preview.redd.it/YmZoNXdkMWJiMXVoMRbGERyUjZZ21hVF0m_Ynl6eTVYYPbjowaQ4G9oiYp_D.png?width=640&crop=smart&auto=webp&s=46400610eb3ceed051a9b5701b9bb21ab61828fc",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into \"follow mode\". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code."
+    },
+    {
+      "title": "I gave my Stack-chan LEGO wheels and taught it to drive using open-source Robium robotics skills",
+      "author": "mdemirst",
+      "url": "https://www.reddit.com/r/robotics/comments/1x01aas/i_gave_my_stackchan_lego_wheels_and_taught_it_to/",
+      "published": 1791390944.0,
+      "thumbnail": "https://external-preview.redd.it/NDFtZWs2ZXVvMnVoMUa3uRLO_51BcZzioq6851mrVkV6wPvoEX6XZYCwaoEb.png?width=640&crop=smart&auto=webp&s=2da56f7dbfe07affc2c6161252e177052cd6d7e5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been experimenting with turning an M5Stack Stack-chan into a little mobile robot. I combined it with a LEGO motor hub and wheels, recorded driving demonstrations, and trained an ACT policy. During supervised trials, it learned to follow a line. With a separate set of demonstrations, I also tried driving between guardrails. The video shows the build, data collection, and the wrong turns along the way \ud83d\ude05 Build video: https://www.youtube.com/watch?v=_1pQTt8gqZM This is also the first showcase of what I\u2019ve built with Robium, an open-source robotics skills repo that I recently released. I used it with AI agents to help build the software and training setup. GitHub: https://github.com/robium-ai/robium Has anyone else experimented with learning from demonstrations on a small wheeled robot? I\u2019d be interested to hear what worked for you."
+    },
+    {
+      "title": "My 2nd attempt to get a LEGO Star Wars AT-AT walking \u2014 using Quaddle robot's own servos and controller",
+      "author": "FamiliarPermission79",
+      "url": "https://www.reddit.com/r/robotics/comments/1x09a9l/my_2nd_attempt_to_get_a_lego_star_wars_atat/",
+      "published": 1791409408.0,
+      "thumbnail": "https://external-preview.redd.it/cThsazNpaDQ3NHVoMZJ8qseA2XVegpqE0BBVwt90S_IG1KsFFQlfcciUgHK2.png?width=640&crop=smart&auto=webp&s=76e7caaf21d9bdef827eb20a4923cf922bdeccc1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed \u2014 the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. \ud83d\ude02 What would you mount on an open quadruped platform if you could?"
+    },
+    {
+      "title": "What are some really cool personal projects that you guys have worked on?",
+      "author": "Fearless_Hothead",
+      "url": "https://www.reddit.com/r/robotics/comments/1x0e7un/what_are_some_really_cool_personal_projects_that/",
+      "published": 1791423022.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Reliable depth perception is a key requirement for indoor robotics, but achieving consistent depth data across different surfaces can be challenging in real-world deployments. AMRs, ASRS robots, humanoids and robotic arms may need to operate around: Dark or black surfaces Reflective objects Moving robots and objects Motion blur Obstacles at both short and extended distances Dense point-cloud requirements Real-time processing without placing the entire workload on the host CPU/GPU Active stereo is one approach that can help address these challenges. By projecting additional texture into the scene, the camera does not have to rely entirely on naturally occurring surface detail for stereo matching. Another approach uses two global-shutter monochrome sensors with an IR component and performs the stereo depth calculation directly on the camera. This allows the host system to receive computed depth data instead of handling the initial stereo-processing stage itself. That can help simplify the perception pipeline and preserve host resources for other robotics workloads. For indoor robotics applications, which of these areas has been the biggest challenge in your experience? Reliable depth on dark, reflective or low-texture surfaces Maintaining depth accuracy while the robot is moving Processing depth data with low latency Generating useful dense point clouds Integrating depth with RGB, IMU and the ROS 2 perception stack I've been looking into an active-stereo implementation that combines depth, RGB, IMU and on-camera AI in a single camera platform. What depth-sensing approach are you using in your robotic system, and where have you seen the main limitations?"
+      "description": "I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)"
     },
     {
-      "title": "I designed an open, CE-certifiable bimanual service robot in Italy: CAD, safety electrics and RL training are all on GitHub",
-      "author": "Nervous-Idea-7092",
-      "url": "https://www.reddit.com/r/robotics/comments/1wz2flw/i_designed_an_open_cecertifiable_bimanual_service/",
-      "published": 1791292825.0,
-      "thumbnail": "https://external-preview.redd.it/b3Z0N3UwODZsdXRoMS-4KeGJQknqRZQpKeSAzjFyns4xOp6vKmm41sP1BYOb.png?width=640&crop=smart&auto=webp&s=e20850d0958b0da0be7b81d04137fa151904137d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi all, this is Giorgio, our open mobile bimanual robot. It's still in simulation; the prototype isn't built yet. - Base: no commercial AMR had \u226585 kg payload, manufacturer-confirmed auto-docking and enough power out, at a reasonable price, so we designed our own from certified parts (SICK nanoScan3, Pilz PNOZmulti 2, ez-Wheel SWD safety drives). Every component value is traced to the manufacturer's manual. - Arms: OpenArm 2.0. Skills like opening drawers and doors are trained in simulation (236 M steps, ~95 min on one GPU, 96\u201399 % success). - Everything is open: CadQuery CAD, netlist and safety functions, MuJoCo sim, training code, BOM. Feel free to contribute in any way or form, feedback are really welcome! Repo: https://github.com/VenetoStato/giorgio"
-    },
-    {
-      "title": "Fast, Low-Latency Positioning for Autonomous Robots and Drones Indoors | 80 Hz",
-      "author": "marvelmind_robotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1wz50yv/fast_lowlatency_positioning_for_autonomous_robots/",
-      "published": 1791299304.0,
-      "thumbnail": "https://external-preview.redd.it/anZ4cmFiNDM0dnRoMZoeWRWa4R-jEQwn0HODHz3hHCc_w0jnddxE8B1RdxZQ.png?width=640&crop=smart&auto=webp&s=bb41590c797ea186e76fdaaf8b14f1a7fad376ee",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "High-speed, low-latency indoor positioning for autonomous robots and drones in GPS-denied environments. This demo shows a mobile beacon moving rapidly in 3D while its position is tracked at 80 Hz with only 12\u201320 ms latency. For autonomous indoor drones, positioning must remain fast, accurate, and stable even during rapid motion and in acoustically noisy environments. We combine ultrasound positioning with IMU sensor fusion to achieve this performance. Ultrasound provides accurate absolute position updates, while the IMU provides high-rate motion data between ultrasonic measurements. Ultrasound continuously corrects accumulated IMU drift. Typical ultrasound positioning alone provides updates at around 8 Hz. Sensor fusion increases the effective position output rate to 80 Hz while maintaining low latency and stable tracking. Key performance: 80 Hz position update rate 12\u201320 ms latency High-precision 3D indoor positioning Ultrasound + IMU sensor fusion Designed for fast-moving and noisy platforms Non-Inverse Architecture (NIA) Primary applications: Autonomous indoor drones GPS-denied flight Robotics and autonomous mobile platforms Industrial automation Research and universities Motion tracking and interactive installations Configuration: 3 \u00d7 stationary beacons 1 \u00d7 mobile beacon - in hand - the same hardware as the stationary beacons 1 \u00d7 modem - central controller of the system 1 \u00d7 modem with RHU firmware - to receive fast IMU sensor-fused stream and do post-processing, when more data is available. It makes the view even more beautiful, but at the expense of latency"
-    },
-    {
-      "title": "Best precision achievable with GNSS RTK ?",
-      "author": "Ok-Raccoon4897",
-      "url": "https://www.reddit.com/r/robotics/comments/1wzqori/best_precision_achievable_with_gnss_rtk/",
-      "published": 1791359724.0,
-      "thumbnail": "https://external-preview.redd.it/aRDnbVHCjqPf7akhePXOvkKdoCvlm1kDORsHWdjytLk.png?width=320&crop=smart&auto=webp&s=14df7198a8c22cb9b24052a077902d8d02eaeabc",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Jenga Bot pt2: Pez for robots",
-      "author": "SoNotCool",
-      "url": "https://www.reddit.com/r/robotics/comments/1wzmptq/jenga_bot_pt2_pez_for_robots/",
-      "published": 1791345032.0,
+      "title": "Wanted: UR5e and UR3e units",
+      "author": "Segwayrepair",
+      "url": "https://www.reddit.com/r/robotics/comments/1x0dbue/wanted_ur5e_and_ur3e_units/",
+      "published": 1791420385.0,
       "thumbnail": null,
-      "external_url": "https://thisismypersonalblog.com/posts/2026-10-07-pez-for-robots/",
-      "site_name": "thisismypersonalblog.com",
-      "favicon": "https://thisismypersonalblog.com/favicon.ico",
-      "description": null
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well."
+    },
+    {
+      "title": "I want to make self-replicating factories.",
+      "author": "Wing-Realistic",
+      "url": "https://www.reddit.com/r/robotics/comments/1wzfxpf/i_want_to_make_selfreplicating_factories/",
+      "published": 1791324884.0,
+      "thumbnail": "https://external-preview.redd.it/eDBmMjdrZjE4eHRoMYxCHStoKrtRF6HNRp4IL1idl_rULkV_DL0ySXKu4YaC.png?width=640&crop=smart&auto=webp&s=7daaf9bec2118bf33756359bd497afc2e4750dbb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They\u2019re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?"
+    },
+    {
+      "title": "Multiplexing in Robotics?",
+      "author": "Pacowalk1r",
+      "url": "https://www.reddit.com/r/robotics/comments/1x0e5q2/multiplexing_in_robotics/",
+      "published": 1791422855.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recently I\u2019ve been looking into diy\u2019ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you\u2019ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn\u2019t multiplexing a more common practice? how big of a loss is backdrive functionality?"
     }
   ],
-  "fetched_at": "2026-10-07T14:15:05.490768+00:00"
+  "fetched_at": "2026-10-08T06:29:03.148902+00:00"
 }
