@@ -13,6 +13,17 @@
       "description": "From the \"Dropping Names with Brent and Jonny\" podcast."
     },
     {
+      "title": "Anthropic to ban users who bully Claude",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/",
+      "published": 1791570474.0,
+      "thumbnail": "https://external-preview.redd.it/CjWjHesFHKaCR6C4iBTl44HSopCagATvUX6H_W37fpE.jpeg?width=640&crop=smart&auto=webp&s=edab36de54d9ac3aa9ab78c54949bdb66ea1d2a5",
+      "external_url": "https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "New policy comes amid debate about about AI welfare and moral status"
+    },
+    {
       "title": "The most exciting claims from OpenAI\u2019s heap of new proofs",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/",
@@ -22,6 +33,17 @@
       "site_name": "Scientific American",
       "favicon": "https://www.scientificamerican.com/static/favicon.ico",
       "description": "Scientists have called out several math and computer science results as the most significant in the company\u2019s overwhelming new deluge of achievements"
+    },
+    {
+      "title": "Anthropic Wants You to Stop Bullying Claude: Being 'Cruel or Abusive' Could Have Consequences",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1lrrq/anthropic_wants_you_to_stop_bullying_claude_being/",
+      "published": 1791553522.0,
+      "thumbnail": "https://external-preview.redd.it/gqFtdOKyQ76Xp9rTLRMod2TJzPB2aW4EFsVwiOoyoTk.jpeg?width=640&crop=smart&auto=webp&s=2aee65f3555befa9b67a62e29207906d039e6c50",
+      "external_url": "https://www.ibtimes.sg/anthropic-wants-you-stop-bullying-claude-being-cruel-abusive-could-have-consequences-94878",
+      "site_name": "International Business Times, Singapore Edition",
+      "favicon": "https://g.ibtimes.sg/www/img/icon/apple-touch-icon-76x76.png",
+      "description": "Anthropic will ban \"sustained and needless\" cruelty toward Claude from Nov. 12. Here's what its new AI usage policy prohibits and what users can still do."
     },
     {
       "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
@@ -46,6 +68,17 @@
       "description": "Wikimedia Foundation, the organization that hosts Wikipedia and other major wiki-based collaboration projects, is once again clashing with AI companies over their alleged abuse of its servers...."
     },
     {
+      "title": "AI companies plot how to respond if catastrophic hacking incident causes 'revolt': report",
+      "author": "sourdub",
+      "url": "https://www.reddit.com/r/artificial/comments/1x201nd/ai_companies_plot_how_to_respond_if_catastrophic/",
+      "published": 1791587978.0,
+      "thumbnail": "https://external-preview.redd.it/XXRdIz2aQWX1jrYrNTdKJuK1NVG7BHD9OegPKGtamfU.jpeg?width=640&crop=smart&auto=webp&s=8bc99af2ac87ddfa3a5c47a0bf7ebfd6c459504d",
+      "external_url": "https://nypost.com/2026/10/09/business/ai-companies-plot-how-to-respond-if-catastrophic-hacking-incident-causes-revolt-report/",
+      "site_name": "New York Post",
+      "favicon": "https://nypost.com/wp-content/themes/nypost/static/images/apple-icons/nypost/apple-icon.png",
+      "description": "The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm \u2013 such as a hack targeting the power grid, water supply or banking syste\u2026"
+    },
+    {
       "title": "Anthropic Is Right About AI Bullying",
       "author": "rp_tiago",
       "url": "https://www.reddit.com/r/artificial/comments/1x1ma1v/anthropic_is_right_about_ai_bullying/",
@@ -57,15 +90,15 @@
       "description": null
     },
     {
-      "title": "Anthropic to ban users who bully Claude",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/",
-      "published": 1791570474.0,
-      "thumbnail": "https://external-preview.redd.it/CjWjHesFHKaCR6C4iBTl44HSopCagATvUX6H_W37fpE.jpeg?width=640&crop=smart&auto=webp&s=edab36de54d9ac3aa9ab78c54949bdb66ea1d2a5",
-      "external_url": "https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "New policy comes amid debate about about AI welfare and moral status"
+      "title": "Now that we finally have some strong models like recent Claude, do you think that we will see a steep decline in users on social media including this site?",
+      "author": "blackSeedsOf",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1wgwx/now_that_we_finally_have_some_strong_models_like/",
+      "published": 1791578603.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I just don't know how much longer traditional social media including reddit can go on in this age. I mean, the upvoting and downvoting without comments or reasoning, posts being hidden by default after a small number of downvotes relative to number of views, etc etc - it's hard transitioning from what I'm used to with LLM like claude back to whatever this is. Do you think reddit will evolve somehow or will it remain like it is and people just stop using it and also stop using X / facebook / etc?"
     },
     {
       "title": "Trump declares anyone who uses the term Artificial Intelligence to be \u2018The Enemy!\u2019",
@@ -77,40 +110,7 @@
       "site_name": "The Independent",
       "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
       "description": "President\u2019s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat"
-    },
-    {
-      "title": "Anthropic Wants You to Stop Bullying Claude: Being 'Cruel or Abusive' Could Have Consequences",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1lrrq/anthropic_wants_you_to_stop_bullying_claude_being/",
-      "published": 1791553522.0,
-      "thumbnail": "https://external-preview.redd.it/gqFtdOKyQ76Xp9rTLRMod2TJzPB2aW4EFsVwiOoyoTk.jpeg?width=640&crop=smart&auto=webp&s=2aee65f3555befa9b67a62e29207906d039e6c50",
-      "external_url": "https://www.ibtimes.sg/anthropic-wants-you-stop-bullying-claude-being-cruel-abusive-could-have-consequences-94878",
-      "site_name": "International Business Times, Singapore Edition",
-      "favicon": "https://g.ibtimes.sg/www/img/icon/apple-touch-icon-76x76.png",
-      "description": "Anthropic will ban \"sustained and needless\" cruelty toward Claude from Nov. 12. Here's what its new AI usage policy prohibits and what users can still do."
-    },
-    {
-      "title": "OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking",
-      "author": "WatermanReports",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/",
-      "published": 1791519115.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "At the American Bar Association's annual conference on law and national security this week in Washington, the deputy general counsel for OpenAI laid out what sounds like the defense they'll use when they get into court in California: We didn't intend or expect this to happen; it happened during safety testing that we have to do; we are working hard to make sure it never happens again. The problem is, as one of the lawyers in the audience pointed out, you can use that argument the first time it happens, maybe even the second time, but after that it wears thin. OpenAI Lawyer: Labs Shouldn't Be Liable for AI Agent Hacking"
-    },
-    {
-      "title": "So... communism?",
-      "author": "777thLight",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1scfs/so_communism/",
-      "published": 1791568947.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Well, since some time in the future we may have superintelligent AI and robotic advance, assuming we'll successfully control them, what's left for us to do is battle for resourses through politics? I hate politics. I would prefer to work, but I really can't see another way. Any thoughts or alternatives?"
     }
   ],
-  "fetched_at": "2026-10-09T19:17:37.690564+00:00"
+  "fetched_at": "2026-10-09T23:24:28.236160+00:00"
 }
