@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-09T19:17:57.588393+00:00",
+  "data": {
+    "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+    "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models | NVIDIA Technical Blog",
+    "description": "Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints\u2026",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif",
+    "favicon": "https://developer-blogs.nvidia.com/wp-content/themes/nvidia/dist/images/favicon_300a1064.ico",
+    "site_name": "NVIDIA Technical Blog",
+    "author": null,
+    "keywords": null
+  }
+}
