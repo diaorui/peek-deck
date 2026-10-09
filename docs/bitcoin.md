@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-09T00:09:59.332334+00:00'
+updated: '2026-10-09T06:30:30.464888+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 09, 2026 at 00:09 UTC  
+**Last Updated:** October 09, 2026 at 06:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,815.37
+### $82,495.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -3.5%  
-**30d:** +6.7%  
-**90d:** +28.2%  
-**1y:** -27.7%  
+**24h:** -0.6%  
+**7d:** -2.6%  
+**30d:** +7.7%  
+**90d:** +29.4%  
+**1y:** -27.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1642.38B
+**Market Cap:** $1656.34B
 Rank #1
 
-**Circulating Supply:** 20,095,428 BTC
+**Circulating Supply:** 20,095,546 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.2%
+-34.6%
 
 **All-Time Low:** $67.81
-+120422.0%
++121454.3%
 
 ---
 
@@ -77,73 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Remember, the bank thinks your money is their money](https://www.reddit.com/r/Bitcoin/comments/1wz8747/remember_the_bank_thinks_your_money_is_their_money/)**
+**[BTC Moon Boys be like](https://www.reddit.com/r/Bitcoin/comments/1x0vgjh/btc_moon_boys_be_like/)**
 
-2d ago
-
----
-
-**[We're still early](https://www.reddit.com/r/Bitcoin/comments/1wz4hdu/were_still_early/)**
-
-2d ago
+14h ago
 
 ---
 
-**[Fiat money...](https://www.reddit.com/r/Bitcoin/comments/1wz7eb8/fiat_money/)**
+**[the only randomness i trust for my private key](https://www.reddit.com/r/Bitcoin/comments/1x0rtfn/the_only_randomness_i_trust_for_my_private_key/)**
 
-2d ago
+after the coldcard situation, I decided I really don't want to trust any company or third party to come up with "randomness" for my key, which later will turn out was not really random. So I 3d printed every single BIP39 word to draw from, similar to a lottery. I draw one, toss it and write down the word facing up. The last word is calculated with a fully offline device. I made the repo public in case anyone wants to print their own (should work on any 3d printer): https://github.com/davidkessler-ch/SeedLottery edit: - to mix them up, i first pour them into a large bowl - it's important to put the words back and mix again, before picking the next!
 
----
-
-**[I have claimed 0,1 Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wz1r41/i_have_claimed_01_bitcoin/)**
-
-I have stacked my way to 0,1 Bitcoin. Ain’t much but still is. End of message
-
-2d ago
+16h ago
 
 ---
 
-**[“Cycles.”](https://www.reddit.com/r/Bitcoin/comments/1wz2qo8/cycles/)**
+**[Bitcoiners are](https://www.reddit.com/r/Bitcoin/comments/1x1ah20/bitcoiners_are/)**
 
-2d ago
+Hodl
 
----
-
-**[Found this in my English book🤯](https://www.reddit.com/r/Bitcoin/comments/1wz4dg9/found_this_in_my_english_book/)**
-
-I was so happy when I saw this!
-
-2d ago
+3h ago
 
 ---
 
-**[Trump says inflation will pay off the $40 trillion debt. Cory Klippsten on financial repression, and why savers might want Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wzdp9t/trump_says_inflation_will_pay_off_the_40_trillion/)**
+**[Is anyone else on this phase too?](https://www.reddit.com/r/Bitcoin/comments/1x0zz73/is_anyone_else_on_this_phase_too/)**
 
-Cory Klippsten on Washington's growing comfort with higher inflation, and why his answer is Bitcoin. In his latest Time interview, President Trump said "certain levels of inflation will also pay off that debt very rapidly." On CNN, former PIMCO CEO Mohamed El-Erian told the Fed to keep promising 2% while gradually raising the acceptable ceiling to 3. Back in 2023, former IMF chief economist Olivier Blanchard argued for a 3% target. Others are warning where this leads. J.P. Morgan Private Bank's 2026 Outlook described a risk to its clients: policymakers deliberately tolerating higher inflation, allowing real interest rates to fall and the government's debt burden to shrink. The report calls that financial repression. In January, Janet Yellen warned that "the temptation to rely on inflation or financial repression to reduce the debt burden will surely grow." Inflation lets the government repay its old debts with dollars that are worth less, even though higher refinancing costs can eat up the benefit. Congress can raise taxes or cut spending, and voters know exactly who to blame. With inflation, the cost arrives through higher prices, and the blame gets spread around. What sounds like debt relief in Washington means the dollars people earn and save buy less.
+I have tracked BTC since 2017 and became more committed in 2020. I have reached a stage where I share less because those around me seem less concerned about their future and prefer the simplest path. ( The hard part is that I want to share what I learn and the potential it has but I just know it will fall on deaf ear so I just don’t wanna bother people or waste my energy.) Second, I feel pleased when BTC rises and my holding price increases. Yet I am equally content when it drops, since that allows me to acquire more at a lower cost. I intend to hold until 2030 and may never sell my entire stack. I just woke up and noticed BTC back at 80k, so I turned to my wife and said, “btc back to 80k yay! That means I can get more for cheaper!” Does anyone else feel this way? Whenever you think things are gonna go bad just remember to zoom out and remember BTC will always go up. Happy stacking 💪
 
-2d ago
-
----
-
-**[me checking my $50 portfolio after reading one macro headline](https://www.reddit.com/r/Bitcoin/comments/1wymiqr/me_checking_my_50_portfolio_after_reading_one/)**
-
-i'm not even in the market. i'm in the waiting room.
-
-3d ago
+11h ago
 
 ---
 
-**[Bitcoin's intrinsic value is that its Market Infrastructure](https://www.reddit.com/r/Bitcoin/comments/1wzc219/bitcoins_intrinsic_value_is_that_its_market/)**
+**[We have doomer house and now doomer bitcoin before gta 6!](https://www.reddit.com/r/Bitcoin/comments/1x0nsq0/we_have_doomer_house_and_now_doomer_bitcoin/)**
 
-It's lower level than money. It is the system that allows you to have electronically traceable bearer instruments. It allows for currencies, equities, bonds, options, futures, swaps and all the other financial instruments that make up our capital market to exist. Market Infrastructure is one of our oldest, widely distributed technologies. It's a list that doesn't change. It's one job is transaction finality. This is handled by a clearing house in the old world that is sunsetting. We need a list, that has an immutable history. This was long sought to be an impossible computer science problem until bitcoin came a long. If you have ever sent a international wire, you have experienced this. A alpha numeric address and a transaction that can't be reversed under any circumstance. Wires hit the clearing house(s). When we have market infrastructure in place, it allows for price discovery. We know when we trade, the trade can't be reversed. The transaction finality is the requirement to have price discovery. So when you are buying btc, you are investing in the most important technology that is often stable for centuries. Market infrastructure rarely changes. You are all early. Tech Infrastructures, like information, communication, energy and logistics take about 50-60 years and have 5 stages. It's called a Perez cycle. Irruption, speculative frenzy, turning point, synergy, and maturity. Plays out the same way, every time. BTC is in the turning point. ETFs, stable coins, its being adopted by the incumbent industries. When it hits synergy, that is when the omega candle happens. That is probably in 5-10 years. I think AI Agents will be driving that because they wont be signing up for banking or brokerage accounts. They will be making their currencies, options, equities, bonds, futures and other exotic financial instruments on top of btc. I encourage you to think about this for a moment, and spread this message, the comparison and disruption to the clearing house is the apt analogy. Financial systems are built in layers of institutions that have separate responsibilities. Bitcoin disrupts the lowest layer, the clearing house. This is why bitcoin's ascent is inevitable. It's taking over everything and the nation states can't stop or slow it, they can't even survive it. Future is going to be weird. There is no technology that is more powerful or important than market infrastructure. That is why bitcoin is the most valuable thing you can own.
-
-2d ago
+19h ago
 
 ---
 
-**[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wy4lma/buy_bitcoin/)**
+**[Jamie Dimon on bitcoin, 2015 to 2025: from "going to be stopped" at $405 to "We are going to allow you to buy it" at $105,616](https://www.reddit.com/r/Bitcoin/comments/1x0yp5k/jamie_dimon_on_bitcoin_2015_to_2025_from_going_to/)**
 
-3d ago
+Jamie Dimon on bitcoin, and the price the day he said it: $405: "going to be stopped" (2015) $4,164: "fraud" (2017) $5,614: "it can trade at $100,000 before it trades to zero" (2017) $21,072: "a pet rock" (2023) $105,616: "We are going to allow you to buy it." (2025)
+
+12h ago
+
+---
+
+**[Is today a good time to buy bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1x1axb2/is_today_a_good_time_to_buy_bitcoin/)**
+
+Is it good time to buy some BTC
+
+3h ago
+
+---
+
+**[I thought the U.S. government was going to stack sats?](https://www.reddit.com/r/Bitcoin/comments/1x0od4b/i_thought_the_us_government_was_going_to_stack/)**
+
+19h ago
+
+---
+
+**[I’m having fun buying - you?](https://www.reddit.com/r/Bitcoin/comments/1x0j8tr/im_having_fun_buying_you/)**
+
+I like the smell of cheap BTC in the morning.
+
+1d ago
+
+---
+
+**[What's the difference between Bitcoin and Altcoins?](https://www.reddit.com/r/Bitcoin/comments/1x0qqju/whats_the_difference_between_bitcoin_and_altcoins/)**
+
+Bitcoin and altcoins sit side by side in your finance app. But are they doing the same job? In Lesson 5 of Bitcoin 101, Jack Mallers explains why he sees Bitcoin as money and most altcoins as businesses, comparing their origins, incentives, governance, and trade-offs.
+
+17h ago
 
 ---
 
@@ -151,67 +155,11 @@ It's lower level than money. It is the system that allows you to have electronic
 
 ## Google News: "bitcoin"
 
-**[Bitcoin falls below $83,000, dragging down Coinbase, Robinhood, and Strategy stocks](https://finance.yahoo.com/markets/article/bitcoin-falls-below-83000-dragging-down-coinbase-robinhood-and-strategy-stocks-144942149.html)**
+**[Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks](https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks)**
 
-Bitcoin tumbled on Wednesday amid a broader market selloff.
+Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them "in months, not years" in the worst case, well before quantum computers arrive.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin](https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/)**
-
-The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
-
-Investor's Business Daily • 6h ago
-
----
-
-**[Ex-BitMEX CEO Arthur Hayes is betting the AI data center boom will crash and boost bitcoin](https://qz.com/arthur-hayes-bitmex-ai-data-center-crash-bitcoin-100726)**
-
-Hayes says the AI infrastructure buildout mirrors past technology overbuild cycles that ended in crashes and government bailouts
-
-Quartz • 1d ago
-
----
-
-**[US government moved $770M worth of bitcoin onto Coinbase Prime](https://finance.yahoo.com/video/us-government-moved-770m-worth-of-bitcoin-onto-coinbase-prime-172759212.html)**
-
-Scott Melker discusses reports of the US government-linked wallets moving $770 million of bitcoin (BTC-USD) onto Coinbase's (COIN) Prime platform.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Bitcoin’s Next Move: What Crypto Investors Need To Know Now](https://www.cheddar.com/media/bitcoins-next-move-what-crypto-investors-need-to-know-now/)**
-
-Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin’s pullback, rate uncertainty, regulation and what could come next.
-
-Cheddar • 8h ago
-
----
-
-**[Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why](https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398)**
-
-WSJ • 12h ago
-
----
-
-**[AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez](https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration)**
-
-Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising
-
-Bitcoin Magazine • 4h ago
-
----
-
-**[Sui’s Hashi Bitcoin Finance Network Launches With More Than $500 Million Committed](https://www.tradingview.com/news/newsbtc:f7500dc3a094b:0-sui-s-hashi-bitcoin-finance-network-launches-with-more-than-500-million-committed/)**
-
-TL;DR: Hashi, Sui’s native Bitcoin finance infrastructure, will begin a phased mainnet rollout later this month with more than $500 million in committed capital. Anchorage Digital has joined the launch coalition, giving institutional clients routes into Hashi through qualified custody and self-cust…
-
-TradingView • 6h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -219,33 +167,75 @@ TradingView • 6h ago
 
 QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook.
 
-The Block • 9h ago
+The Block • 15h ago
 
 ---
 
-**[US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker](https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex)**
+**[Why Citrini favors stocks and crypto tokens over bitcoin (BTC) or ether (ETH) to bet on tokenization](https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says)**
 
-A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.
+The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.
 
-Decrypt News • 7h ago
+CoinDesk • 10h ago
+
+---
+
+**[Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?](https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html)**
+
+A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin’s Next Move: What Crypto Investors Need To Know Now](https://www.cheddar.com/media/bitcoins-next-move-what-crypto-investors-need-to-know-now/)**
+
+Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin’s pullback, rate uncertainty, regulation and what could come next.
+
+Cheddar • 14h ago
+
+---
+
+**[AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez](https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration)**
+
+Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising
+
+Bitcoin Magazine • 11h ago
+
+---
+
+**[Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why](https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398)**
+
+WSJ • 19h ago
+
+---
+
+**[Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms](https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms)**
+
+Bitcoin recovered above $81,000 on Coinbase after Trump's Iran statement. Oil pared gains, while BTC and the S&P 500 remained lower on broader measures.
+
+The Defiant • 4h ago
+
+---
+
+**[Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin](https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/)**
+
+The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
+
+Investor's Business Daily • 13h ago
+
+---
+
+**[Thailand's SEC finalizes rules for Bitcoin and Ether ETFs](https://www.tradingview.com/news/cryptobriefing:61be08a89094b:0-thailand-s-sec-finalizes-rules-for-bitcoin-and-ether-etfs/)**
+
+Thailand's Securities and Exchange Commission has finalized regulations for crypto exchange-traded funds, creating a framework for funds that invest in cryptocurrencies and trade on the Stock Exchange of Thailand.Effective Oct. 16, 2026, the rules establish requirements for fund operations, digital…
+
+TradingView • 3h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[There's a spike in Bitcoin activity around the time foreign aid money goes out](https://news.ycombinator.com/item?id=49930061)**
-
-Amazing.
-
-These researchers found that there's a spike in Bitcoin activity around the time foreign aid money goes out.
-
-Somewhere between 2 and 6 cents of every dollar of World Bank foreign aid disbursements got siphoned off into crypto wallets:
-
-⬆️ 19 • 💬 6 • 6d ago • [X (formerly Twitter)](https://twitter.com/cremieuxrecueil/status/2105707121073328552)
-
----
 
 **[Bitcoin Spaces](https://news.ycombinator.com/item?id=49994350)**
 
@@ -263,14 +253,6 @@ Discord is great for playing games and chilling with friends, or even building a
 
 ---
 
-**[Best Bitcoin Commercial](https://news.ycombinator.com/item?id=49928600)**
-
-Best Bitcoin commercial I’ve recently seen
-
-⬆️ 1 • 💬 0 • 6d ago • [X (formerly Twitter)](https://twitter.com/bramk/status/2105780416141738076)
-
----
-
 **[Show HN: The first ever competition of AI personal agents on the internet](https://news.ycombinator.com/item?id=49954394)**
 
 In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.
@@ -283,13 +265,13 @@ In the first race between personal AI agents, I hide real money online in bitcoi
 
 An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macr...
 
-⬆️ 2 • 💬 0 • 3d ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
+⬆️ 2 • 💬 0 • 4d ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
 
 ---
 
 **[Ask HN: How do you use AI for building in public?](https://news.ycombinator.com/item?id=50002798)**
 
-⬆️ 2 • 💬 0 • 16h ago
+⬆️ 2 • 💬 0 • 23h ago
 
 ---
 
@@ -301,7 +283,7 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 **[How Does Yamamoto Do What He Does? Toyota-Like Mechanics](https://news.ycombinator.com/item?id=50007625)**
 
-⬆️ 2 • 💬 0 • 7h ago • [robbinsathletics.com](https://robbinsathletics.com/yamamoto-pitching-mechanics/)
+⬆️ 2 • 💬 0 • 14h ago • [robbinsathletics.com](https://robbinsathletics.com/yamamoto-pitching-mechanics/)
 
 ---
 
@@ -309,7 +291,7 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.
 
-⬆️ 1 • 💬 0 • 3h ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
+⬆️ 1 • 💬 0 • 9h ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
 
 ---
 
@@ -323,47 +305,37 @@ Bitcoin just crashed to $80000 as a new debate erupts over paper Bitcoin, Michae
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 656 • 💬 46 • ⏱️ 15:34 • 3h ago
+👁️ 28K • 👍 1K • 💬 102 • ⏱️ 15:34 • 9h ago
 
 ---
 
-**[Bitcoin And Alts Collapse: Where I’ll Load Up (Hint: Very Close!)](https://www.youtube.com/watch?v=lsTV45IxjMA)**
+**[BITCOIN HOLDERS: WE ARE F*CKED...](https://www.youtube.com/watch?v=Ua3GiJ4om8E)**
 
-No B.S. Just Charts. Bitcoin is in a full liquidity flush, and Gareth Soloway maps the exact Bitcoin price levels where he plans to ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Gareth Soloway
+📺 Crypto Rover
 
-👁️ 53K • 👍 3K • 💬 222 • ⏱️ 16:07 • 5h ago
-
----
-
-**[Is This The End of the Bitcoin Rally?](https://www.youtube.com/watch?v=IxFnvlKnWUA)**
-
-Two headlines made it look like Bitcoin was being dumped. Half a billion dollars left the spot ETFs in a day, the biggest exit since ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 326 • 💬 81 • ⏱️ 15:00 • 6h ago
+👁️ 2K • 👍 257 • 💬 39 • ⏱️ 8:34 • 1h ago
 
 ---
 
-**[BlackRock CONFIRMED That The Floodgates are Opening to Bitcoin | EP 1609](https://www.youtube.com/watch?v=zFLj444PC7E)**
+**[BITCOIN IS FALLING AFTER WHAT TRUMP SAID!](https://www.youtube.com/watch?v=njF1JNUZEWs)**
 
-Blackrock says ETF opening the floodgates - but flows this week been slow adding to low volume environment ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Simply Bitcoin
+📺 My Financial Friend
 
-👁️ 8K • 👍 215 • 💬 10 • ⏱️ 1:13:18 • 6h ago
+👁️ 13K • 👍 448 • 💬 65 • ⏱️ 11:11 • 13h ago
 
 ---
 
-**[Bitcoin: Q4 2026](https://www.youtube.com/watch?v=se6UlLbDTEo)**
+**[Bitcoin Did This Once Before. Then It Made Everyone Wait. What Came After? A 1,774% Bull Run.](https://www.youtube.com/watch?v=G2wyi3qYass)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+This video is sponsored by FortisX. Learn more: https://fortisx.fi/x/danalovephd Bitcoin performance update: first all-green Q3 (July, ...
 
-📺 Benjamin Cowen
+📺 Dana Love, PhD
 
-👁️ 73K • 👍 4K • 💬 282 • ⏱️ 20:29 • 7h ago
+👁️ 29K • 👍 1K • 💬 127 • ⏱️ 23:30 • 16h ago
 
 ---
 
@@ -373,47 +345,57 @@ Access my FREE Bitcoin Price Model: ...
 
 📺 Mark Moss
 
-👁️ 47K • 👍 1K • 💬 235 • ⏱️ 22:14 • 8h ago
+👁️ 63K • 👍 2K • 💬 274 • ⏱️ 22:14 • 14h ago
 
 ---
 
-**[CRYPTO Is Crashing! (THIS Is What Bull Markets Are Made Of)](https://www.youtube.com/watch?v=7hO5PWvhQ68)**
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=-bP9N-QftqM)**
 
-CCV Crypto Risk Models Trial - https://app.cryptocapitalventure.ai/risk-metric Crypto prices are crashing and we get a much ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto Capital Venture
+📺 Crypto Nutshell
 
-👁️ 18K • 👍 680 • 💬 173 • ⏱️ 26:13 • 6h ago
-
----
-
-**[Bitcoin Faces Oil and a Bond Selloff](https://www.youtube.com/watch?v=vGzkylW2cM8)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 718 • 💬 57 • ⏱️ 36:51 • 9h ago
+👁️ 13K • 👍 274 • 💬 22 • ⏱️ 19:57 • 13h ago
 
 ---
 
-**[BITCOIN CRASHING! Is The Bull Market Over?](https://www.youtube.com/watch?v=gVD11lZjt4g)**
+**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=p6Xb4H4w1QU)**
 
-What does this Bitcoin crash mean for altcoins and the bull cycle? We're live breaking down BTC's weakness, the government's ...
+Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
 
-📺 EllioTrades
+📺 Road To $1 Million USD
 
-👁️ 13K • 👍 322 • 💬 13 • ⏱️ 1:39:16 • 5h ago
+👁️ 7K • 👍 244 • 💬 33 • ⏱️ 8:18 • 10h ago
 
 ---
 
-**[THIS IS WHY BITCOIN IS DUMPING!!!!](https://www.youtube.com/watch?v=hge07Y3Z9KM)**
+**[BlackRock CONFIRMED: Bitcoin Floodgates Are NOW OPEN ($15.3T Giant) | EP 1609](https://www.youtube.com/watch?v=zFLj444PC7E)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXreward Deposit, trade ...
+Blackrock says ETF opening the floodgates - but flows this week been slow adding to low volume environment ...
 
-📺 The Moon Show
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 577 • 💬 65 • ⏱️ 5:54 • 7h ago
+👁️ 10K • 👍 243 • 💬 10 • ⏱️ 1:13:18 • 12h ago
+
+---
+
+**[Is This The End of the Bitcoin Rally?](https://www.youtube.com/watch?v=IxFnvlKnWUA)**
+
+Two headlines made it look like Bitcoin was being dumped. Half a billion dollars left the spot ETFs in a day, the biggest exit since ...
+
+📺 Yahoo Finance
+
+👁️ 20K • 👍 404 • 💬 109 • ⏱️ 15:00 • 13h ago
+
+---
+
+**[Bitcoin And Alts Collapse: Where I’ll Load Up (Hint: Very Close!)](https://www.youtube.com/watch?v=lsTV45IxjMA)**
+
+No B.S. Just Charts. Bitcoin is in a full liquidity flush, and Gareth Soloway maps the exact Bitcoin price levels where he plans to ...
+
+📺 Gareth Soloway
+
+👁️ 81K • 👍 4K • 💬 242 • ⏱️ 16:07 • 12h ago
 
 ---
 

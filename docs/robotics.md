@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-09T00:09:59.338676+00:00'
+updated: '2026-10-09T06:30:30.475046+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 09, 2026 at 00:09 UTC  
+**Last Updated:** October 09, 2026 at 06:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-22h ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-23h ago
+1d ago
 
 ---
 
@@ -106,7 +106,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-22h ago
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
 
-MIT Technology Review • 15h ago
+MIT Technology Review • 21h ago
 
 ---
 
@@ -126,49 +126,37 @@ MIT Technology Review • 15h ago
 
 Full-stack safety solution for physical AI is being used by robotics companies.
 
-Ars Technica • 12h ago
+Ars Technica • 19h ago
 
 ---
 
-**[Chinese humanoid robots dance for South Korean lawmakers as AI race heats up](https://www.foxnews.com/video/6406490208112)**
+**[University of Bradford project to help firms 'adopt robotics'](https://www.bbc.com/news/articles/cmy93j9p9y7no)**
 
-Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China’s rapid advances in physical AI and calls for greater investment in South Korea’s robotics industry.
+The £3.67m Yorkshire Robotics Hub at the University of Bradford is hoping to bridge the "automation gap".
 
-Fox News • 5h ago
+BBC • 1h ago
+
+---
+
+**[UK robotics hubs to drive adoption of new tech](https://www.bbc.com/news/articles/c6wyvdn7djnpo)**
+
+The government says the hubs will support businesses and public services across the country.
+
+BBC • 1h ago
+
+---
+
+**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
+
+Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
+
+About Amazon • 17h ago
 
 ---
 
 **[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[A robot entered a Denver comedy club. (This isn’t a joke.)](https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/)**
-
-The Colorado Sun • 14h ago
-
----
-
-**[Gecko Robotics, Anduril team up for new Baltimore County shipyard](https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/)**
-
-Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components.
-
-Breaking Defense • 9h ago
-
----
-
-**[This Disembodied Hand Is All the Robot You Need](https://spectrum.ieee.org/walking-robotic-hand)**
-
-Multipurpose body parts could lead to more-flexible robot designs
-
-IEEE Spectrum • 12h ago
-
----
-
-**[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
-
-South China Morning Post • 1d ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -178,9 +166,23 @@ Tech Xplore • 1d ago
 
 ---
 
-**[FireFly Robotics files for Nasdaq direct listing](https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/)**
+**[A robot entered a Denver comedy club. (This isn’t a joke.)](https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/)**
 
-Reuters • 1d ago
+The Colorado Sun • 20h ago
+
+---
+
+**[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
+
+South China Morning Post • 1d ago
+
+---
+
+**[Gecko Robotics, Anduril team up for new Baltimore County shipyard](https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/)**
+
+Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components.
+
+Breaking Defense • 15h ago
 
 ---
 
@@ -194,27 +196,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 83K • 👍 1K • 💬 88 • ⏱️ 1:00 • 4d ago
-
----
-
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
-
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
-
-📺 MACHINEKIND
-
-👁️ 29K • 👍 501 • 💬 65 • ⏱️ 13:43 • 1d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 44K • 👍 1K • 💬 6 • ⏱️ 1:04 • 12h ago
+👁️ 86K • 👍 1K • 💬 92 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -228,11 +210,13 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 ---
 
-**[VEX CASCADE LIFE SCORING #vex #robot #vexrobotics #robotics](https://www.youtube.com/watch?v=mhOIkMWhoeg)**
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
 
-📺 Hawks Robotics
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
 
-👁️ 720 • 👍 14 • ⏱️ 0:30 • 1h ago
+📺 CNET
+
+👁️ 51K • 👍 487 • 💬 64 • ⏱️ 6:34 • 4d ago
 
 ---
 
@@ -242,17 +226,17 @@ Figure just destroyed almost its entire Figure 02 fleet by training the humanoid
 
 📺 AI Revolution
 
-👁️ 60K • 👍 781 • 💬 91 • ⏱️ 13:23 • 6d ago
+👁️ 61K • 👍 785 • 💬 92 • ⏱️ 13:23 • 6d ago
 
 ---
 
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
 
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
 
-📺 CNET
+📺 Jot Tv Media 
 
-👁️ 50K • 👍 485 • 💬 62 • ⏱️ 6:34 • 4d ago
+👁️ 58K • 👍 2K • 💬 12 • ⏱️ 1:04 • 19h ago
 
 ---
 
@@ -272,7 +256,27 @@ SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amaz
 
 📺 Just A Dad Approved
 
-👁️ 24K • 👍 257 • 💬 121 • ⏱️ 22:11 • 2d ago
+👁️ 25K • 👍 262 • 💬 121 • ⏱️ 22:11 • 2d ago
+
+---
+
+**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
+
+Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
+
+📺 DW Documentary
+
+👁️ 209K • 👍 1K • 💬 140 • ⏱️ 28:21 • 4d ago
+
+---
+
+**[NASA Built A Snake Robot EELS](https://www.youtube.com/watch?v=av833GJt_u0)**
+
+Built to move where rovers struggle. NASA's EELS (Exobiology Extant Life Surveyor) is a 4.4-meter-long, ~100-kg snake-like robot ...
+
+📺 Brainy Byte
+
+👁️ 15K • 👍 389 • 💬 13 • ⏱️ 0:07 • 8h ago
 
 ---
 
@@ -282,7 +286,7 @@ Original video credit: IG/@hopto_tech_official. The video demonstrates the opera
 
 📺 History Seeker
 
-👁️ 473K • 👍 6K • 💬 277 • ⏱️ 0:10 • 11h ago
+👁️ 1.1M • 👍 12K • 💬 446 • ⏱️ 0:10 • 17h ago
 
 ---
 

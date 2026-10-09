@@ -5,84 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin falls below $83,000, dragging down Coinbase, Robinhood, and Strategy stocks",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaTVnWTI4QkZZcUVaQUgxMkJKWGVTV0dWdmU3RkNWU1BJanZwQzRidGVRSVNQVk1VU0ZKeFBuQkZNTVJiOUtDbzd5WlNSZEZvemVnY2VHemZHTDB6aWdZbnEzeGxpUjVLNTdjRlVKbzlpYjBzYlowOGRjTlM5Mjd1eF9QcWRZdmJWaFhGUjA4QjVqTW8zSURzVEVxaXg4d2o4U3g3TTJnc0NTb1M3MERsWXVMQ2RFRVJyWnlaamIzU2U2cVVjYkl3MFV1OGRJbXE4?oc=5",
-      "pub_date": 1791384582.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-falls-below-83000-dragging-down-coinbase-robinhood-and-strategy-stocks-144942149.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e585afbaaeef90fc4b407762029395e22c8c803172d82ea1a74fe4bccf0d720f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffe376780-03af-11f1-bdbe-5bf6f41e7c2e_88e59d857796f0171653177a807c51569e92eac61a0b439e95ced3ca6d9557a9.jpg",
-      "description": "Bitcoin tumbled on Wednesday amid a broader market selloff."
-    },
-    {
-      "headline": "Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHE2dENHM0Z1c3VlS0VjcnJDbWZUeUhWZHJjSDNDMFhJeFBhR2pQVGxJSXZwSnRFV3N1NWxMb1g2a3NfTVNxQzZZNGx1ZUhPbXVLNk85OXVtb01PZzY2OHBDTmtfZ0ZBS0dUc3g0YVBRRnlGbnJuMjRhcmh0Y1dSdzIwSmM1cWpkX1BWVF9OOG9YeE82bHNkYy1zQ2dnbGxxQTBOMXVmNG1UUQ?oc=5",
-      "pub_date": 1791480600.0,
-      "article_url": "https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/08/Stock-TrumpBitcoin-mash-shut.jpg",
-      "description": "The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in."
-    },
-    {
-      "headline": "Ex-BitMEX CEO Arthur Hayes is betting the AI data center boom will crash and boost bitcoin",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16LXJ5cGxkRTVUN3FIUDc5d3VyTnVwcXVEVlE5ZnFIYVNKdmRWQVEwTUMzRXdHV1BhNDV1Uy1XLWlEbmVGU1FSOHBrN0ZYaDI4alZJZWl0QXY3QzFPSW9leFBCT2tLSUk4N1JKUkpxSWRvNi1WNlRJb1RB?oc=5",
-      "pub_date": 1791375834.0,
-      "article_url": "https://qz.com/arthur-hayes-bitmex-ai-data-center-crash-bitcoin-100726",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2249152852-300x210.jpg",
-      "description": "Hayes says the AI infrastructure buildout mirrors past technology overbuild cycles that ended in crashes and government bailouts"
-    },
-    {
-      "headline": "US government moved $770M worth of bitcoin onto Coinbase Prime",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2ZRVTFVSE5WeDk0QS04eG91ZDNTV3dwWGN3NzhTRG4zbHluT3NoWVQyN3RUX2NJM05MblhOOGZEWXUwX25wZkxxdWxhd3ZmUlVaMFh6Z21YS1djazZKRTJMLTN5cUJ4bEFqLTJ4WlEyeUxoT1RpUFpoenFUUVRiTEhrYUhLVFpNMkI5RWRHbVZxeC1RUDYyUWNLUUE0a2NxVmoydHoyV0x1dENP?oc=5",
-      "pub_date": 1791477000.0,
-      "article_url": "https://finance.yahoo.com/video/us-government-moved-770m-worth-of-bitcoin-onto-coinbase-prime-172759212.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b8adb29806e731b3d6133fd7f5a37464c616f71a455b8d8a3cb181b423af4464/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F1aa5d7b8-a7fa-4e81-b56f-9690e0e8dab6_2572a1e9ec2442da109dac868c6b2571dfce167a0e3de77cbc978d173b85c5cb.jpg",
-      "description": "Scott Melker discusses reports of the US government-linked wallets moving $770 million of bitcoin (BTC-USD) onto Coinbase's (COIN) Prime platform.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
-    },
-    {
-      "headline": "Bitcoin\u2019s Next Move: What Crypto Investors Need To Know Now",
-      "source": "Cheddar",
-      "source_url": "https://www.cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTBqRWtocy1KRXhkUWFRUkw2VkRqSUZ3U3pybXByWnlOQklPRW5tUlJDTlMtd1ltcHBwc18xbHVUdzNoeDh3VlFDLUROalZfdjg2bTVXelVFZ2kwVFk2TzFhR2FOUlNiWi1fSUFQN3RUNVUySGl2bVRYYk90M0pmWGJqOXFIZnJXV0ZVdF9KME5sdw?oc=5",
-      "pub_date": 1791475264.0,
-      "article_url": "https://www.cheddar.com/media/bitcoins-next-move-what-crypto-investors-need-to-know-now/",
-      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F10-06-2026%2Ft_d7a9a719971d41f688fad8a0b871a94b_name_GettyImages_920931664_scaled.jpg?width=1200&auth=24d22437137677b3bbe46c7c51ce37effd6a7ffafd00e089337dbbd31aef3fdf",
-      "description": "Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin\u2019s pullback, rate uncertainty, regulation and what could come next."
-    },
-    {
-      "headline": "Q&A: Bitcoin Funds Are Expanding. HANetf\u2019s Co-CEO Explains Why",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk5lLUpESE5jNUdNV3JYdmw5SHVRckJ1d0pqbmROS0Zwb2VpVU01WWh3S2pfbGc4UmNfMDMxZU82VnR3LUlGMnhzTGdwSDh1cDZJY25wYXJvUTlIRnlYNjA0czZ2eDBtX0dvSTdYNmhSaUJTa3lDYWZ4NHFLYXkycWZ1aGlHUzZWVXRLMDdUV1lrY2FYeU9YWllDbWxxd2JUY1pZN0MwOGpLNW8?oc=5",
-      "pub_date": 1791459000.0,
-      "article_url": "https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTBHRVl3bXRRU3V5Vk9xVWMwd0RQQlJfNjRBMldFUXpTOTczMENYcWRNUG1KejBIWmFFRzY0azEyX2lWX21pRmV1QlJnRTduZXpMcmNDS3dvWko3Uk1GV1Q0azlrcl9pSkVFRjl3ZjFxS2plTGF3TC1HZFVOY1NEZw?oc=5",
-      "pub_date": 1791487359.0,
-      "article_url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-3.jpg",
-      "description": "Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising"
-    },
-    {
-      "headline": "Sui\u2019s Hashi Bitcoin Finance Network Launches With More Than $500 Million Committed",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFlFM1hyRV9zZ2JEUnZnMG55ZzFCT2xYbXRqUmlTVmtHU0g1MjNIOTNiOFMtOGJ0VW8tSUh4aTFSb09vTFNaTDNLWS0zdGFaSHZ3V25BUkp0Z3Jmb2xsN1hKMUswczByVGdDT2pmWTBvNlYtd0FleUdWYmFOeWZDSXQ5YlZUUVYtSEk0M3YzSzFTNEdmQ25tNjdqVXBhcG1Mblp6ekVwZ3RxcC04Z1hibk1VT3poZFQtaFA0OHlEdzAxc2tzd1hzOTRacXlkMTJPR2hUN1B3?oc=5",
-      "pub_date": 1791482400.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:f7500dc3a094b:0-sui-s-hashi-bitcoin-finance-network-launches-with-more-than-500-million-committed/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "TL;DR: Hashi, Sui\u2019s native Bitcoin finance infrastructure, will begin a phased mainnet rollout later this month with more than $500 million in committed capital. Anchorage Digital has joined the launch coalition, giving institutional clients routes into Hashi through qualified custody and self-cust\u2026"
+      "headline": "Bitcoin and ether holders urged to enter \u2018bunker mode\u2019 against possible AI attacks",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOV9VQllPRTZkSFlaT09JLXJDazJraDBOTUE0cW50blVsVHdzdWJhclBOc1pYQk0yM2UzR2t4RVpxeUFBeDhsbjNTN1NKWC1IWE5IRGxEalZaUlc3ckhmUFNNYXdNNjVPNDdvUTNNaGtRcm1UVVpjMUJKbF83UnlYQVR0aGZCYkRYV183dFM3dGxLVmg0c1pyU3Jjdzh4Qy10NXhYWWNaZmV2djVsR1BkQ1NpMzJIT1RFR2JMd1FkTmw?oc=5",
+      "pub_date": 1791460036.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive."
     },
     {
       "headline": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
@@ -95,16 +25,86 @@
       "description": "QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook."
     },
     {
-      "headline": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLaC1EazkzUGVvZ3lGOVZJUkd6QjFLb3c3U0lwaHhNSGlLcTNxZXg1Ty1UVFY5M3dVeU9vWTdKSkl3MThjcGxxamxBcEVYLU0yZTMxUTItOEdLOTlOYTRmcUFZbnVpS0VmZTRlUjZDYkliNTFXeFBZUEVkZjU?oc=5",
-      "pub_date": 1791477860.0,
-      "article_url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png",
-      "description": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data."
+      "headline": "Why Citrini favors stocks and crypto tokens over bitcoin (BTC) or ether (ETH) to bet on tokenization",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb25zekhnRVotUXJOY2M3WTR6M1hGUExaazNrdl9ST2JEYWZJVFBIRXpDSHJyRHgya2txYjBaVV9RYm9NSmpibHNTelA4MWVVcFBGN2F2bHdFZ2hBSEQzT0RVZnJLZk1SRXMwM3MtZlNiaFg3ZDROcFZCdk9rSFZDa21lN05OaEpXbFI3Z0wxQ2dwbmhLSVBiUXVBQU8zSjRLdm5XS1EzMUw5czZieDdKblFxZHpSQV9Ra1czRTRycEdBSmc3NVc3bkM5czZ5NkJEODU0?oc=5",
+      "pub_date": 1791488775.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit."
+    },
+    {
+      "headline": "Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQktvb0FWZG0tUE5saWs2RHh4NUNVSXlUejg2QzdPRG1JMlpZb3VfblFFcnptMjJ3a1lfdWNDZDEtS1pCUnpLWmtLVWNJY05jZExTOVpmSmIzWFFacUw4d09OTnVGeHRKQ0RUbzJEMDVRS1pRMExOZ2U5T1Y5Uzg3LVllM0hURkxHQnpQeGFoeUpyUUY2aEZkc3MtVXBKYVhNZUE?oc=5",
+      "pub_date": 1791376211.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e318131a9c9b7dfe1dd3df71a2f04c15b183462fd80d691f30cf0efb9b8f697f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F80925fda19c6a597a82719ef9ccae9bf.jpg",
+      "description": "A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030."
+    },
+    {
+      "headline": "Bitcoin\u2019s Next Move: What Crypto Investors Need To Know Now",
+      "source": "Cheddar",
+      "source_url": "https://www.cheddar.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTBqRWtocy1KRXhkUWFRUkw2VkRqSUZ3U3pybXByWnlOQklPRW5tUlJDTlMtd1ltcHBwc18xbHVUdzNoeDh3VlFDLUROalZfdjg2bTVXelVFZ2kwVFk2TzFhR2FOUlNiWi1fSUFQN3RUNVUySGl2bVRYYk90M0pmWGJqOXFIZnJXV0ZVdF9KME5sdw?oc=5",
+      "pub_date": 1791475264.0,
+      "article_url": "https://www.cheddar.com/media/bitcoins-next-move-what-crypto-investors-need-to-know-now/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F10-06-2026%2Ft_d7a9a719971d41f688fad8a0b871a94b_name_GettyImages_920931664_scaled.jpg?width=1200&auth=24d22437137677b3bbe46c7c51ce37effd6a7ffafd00e089337dbbd31aef3fdf",
+      "description": "Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin\u2019s pullback, rate uncertainty, regulation and what could come next."
+    },
+    {
+      "headline": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTBHRVl3bXRRU3V5Vk9xVWMwd0RQQlJfNjRBMldFUXpTOTczMENYcWRNUG1KejBIWmFFRzY0azEyX2lWX21pRmV1QlJnRTduZXpMcmNDS3dvWko3Uk1GV1Q0azlrcl9pSkVFRjl3ZjFxS2plTGF3TC1HZFVOY1NEZw?oc=5",
+      "pub_date": 1791487359.0,
+      "article_url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-3.jpg",
+      "description": "Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising"
+    },
+    {
+      "headline": "Q&A: Bitcoin Funds Are Expanding. HANetf\u2019s Co-CEO Explains Why",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk5lLUpESE5jNUdNV3JYdmw5SHVRckJ1d0pqbmROS0Zwb2VpVU01WWh3S2pfbGc4UmNfMDMxZU82VnR3LUlGMnhzTGdwSDh1cDZJY25wYXJvUTlIRnlYNjA0czZ2eDBtX0dvSTdYNmhSaUJTa3lDYWZ4NHFLYXkycWZ1aGlHUzZWVXRLMDdUV1lrY2FYeU9YWllDbWxxd2JUY1pZN0MwOGpLNW8?oc=5",
+      "pub_date": 1791459000.0,
+      "article_url": "https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1hra1dpYU9zYzlobmtHaktrQ1FUUVc3a1NMOERtNlFVem5lS1lOOUVkVzJGbnZid01wWFlzN2ZXNlN6a1d4NEVqZE9IWkU3RTVIbjk5b0RoeFA1QTV2VURhcmxCVDFQQjBBNEhRY2xhbFUxb3E0TFQxZWRTS0pScDBrXzgwbE5QTVpORjZDTi0waG15MFRCYk9UaWx0bUZqQk12WWtrZVR4MmZYNWhwQktoamJIQQ?oc=5",
+      "pub_date": 1791510517.0,
+      "article_url": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms",
+      "image": "https://cdn.sanity.io/images/6oftkxoa/production/1bc623bc059e50ac9fd1b005115559f3571290cf-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
+      "description": "Bitcoin recovered above $81,000 on Coinbase after Trump's Iran statement. Oil pared gains, while BTC and the S&P 500 remained lower on broader measures."
+    },
+    {
+      "headline": "Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHE2dENHM0Z1c3VlS0VjcnJDbWZUeUhWZHJjSDNDMFhJeFBhR2pQVGxJSXZwSnRFV3N1NWxMb1g2a3NfTVNxQzZZNGx1ZUhPbXVLNk85OXVtb01PZzY2OHBDTmtfZ0ZBS0dUc3g0YVBRRnlGbnJuMjRhcmh0Y1dSdzIwSmM1cWpkX1BWVF9OOG9YeE82bHNkYy1zQ2dnbGxxQTBOMXVmNG1UUQ?oc=5",
+      "pub_date": 1791480600.0,
+      "article_url": "https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/08/Stock-TrumpBitcoin-mash-shut.jpg",
+      "description": "The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in."
+    },
+    {
+      "headline": "Thailand's SEC finalizes rules for Bitcoin and Ether ETFs",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXdRdkZwcUczV1k5SzlJSFRLUkNyVWpwTDNPYURaYzQ4QjcyTU1FWXpCdV9XeGZsTUFrZ2lnQVBLNHF0SkIwNVJ1Nk1pczA1ZGRnakRwRUxaTkFlZHNGZnIxRDQyQjJ0M3NNSHdqWHJrOHlpcHJZX0JSN1RzMUdRS2JxZm83OVZ6aVdkbHFGN096ZXZJOUpFZmN5alFJNk45NFpXYzJpLUxTUE9QVzhReUVwRFduUmx0YVFJUFI0MA?oc=5",
+      "pub_date": 1791516120.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:61be08a89094b:0-thailand-s-sec-finalizes-rules-for-bitcoin-and-ether-etfs/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Thailand's Securities and Exchange Commission has finalized regulations for crypto exchange-traded funds, creating a framework for funds that invest in cryptocurrencies and trade on the Stock Exchange of Thailand.Effective Oct. 16, 2026, the rules establish requirements for fund operations, digital\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-09T00:09:55.135573+00:00"
+  "fetched_at": "2026-10-09T06:30:16.876541+00:00"
 }
