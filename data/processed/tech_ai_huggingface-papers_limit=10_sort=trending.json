@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2610.08699",
-      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
-      "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
-      "organization_name": "zju",
-      "organization_fullname": "Zhejiang University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
-      "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.08699",
-      "arxiv_url": "https://arxiv.org/abs/2610.08699",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 83,
-      "num_comments": 1,
-      "published_at": "2026-10-05T20:00:00.000Z",
-      "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 324,
-      "project_page": "https://nanomuse.cn/"
-    },
-    {
       "id": "2609.18063",
       "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
       "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
@@ -31,12 +12,31 @@
       "hf_url": "https://huggingface.co/papers/2609.18063",
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 25,
+      "upvotes": 26,
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 3751,
+      "github_stars": 3860,
       "project_page": null
+    },
+    {
+      "id": "2610.08699",
+      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+      "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
+      "organization_name": "zju",
+      "organization_fullname": "Zhejiang University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
+      "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.08699",
+      "arxiv_url": "https://arxiv.org/abs/2610.08699",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
+      "upvotes": 93,
+      "num_comments": 2,
+      "published_at": "2026-10-05T20:00:00.000Z",
+      "github_repo": "https://github.com/nano-muse/nanoMuse",
+      "github_stars": 355,
+      "project_page": "https://nanomuse.cn/"
     },
     {
       "id": "2610.05608",
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2610.05608",
       "arxiv_url": "https://arxiv.org/abs/2610.05608",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05608.png",
-      "upvotes": 156,
+      "upvotes": 158,
       "num_comments": 4,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/kandinskylab/kandinsky-6",
-      "github_stars": 222,
+      "github_stars": 232,
       "project_page": "https://kandinskylab.ai/"
     },
     {
@@ -77,25 +77,6 @@
       "project_page": null
     },
     {
-      "id": "2610.02054",
-      "title": "UniWAM: Unified World-Action Model",
-      "authors": "Jiayi Chen, Wenxuan Song, Jingbo Wang et al. (16 authors)",
-      "organization_name": "HKUSTGZ",
-      "organization_fullname": "HKUSTGZ",
-      "organization_avatar": "https://www.gravatar.com/avatar/70f662accc42fce026543de48099c80f?d=retro&size=100",
-      "summary": "Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics. Conversely, world-action models inherit spatiotemporal priors from video generation models, yet remain limited in semantic understanding and reasoning under distribution shifts. We introduce UniWAM, a unified architecture that integrates a physical reasoner, a world generator, and an action predictor to jointly learn semantic understanding of the physical world, visual generation, and action prediction. To ensure the quality of the training data, we developed a rigorous data cleaning and annotation pipeline for both human egocentric data and robot data. To adapt the vision-language component to embodied tasks while preserving its inherited language capabilities, we represent low-level actions in natural language and introduce a pre-training recipe that assigns complementary supervision from visual question answering (VQA) data, human egocentric data, and robot demonstrations to the appropriate model components. During post-training, future visual noise augmentation reduces reliance on precise future predictions, while history-conditioned flow matching uses encoded action history to initialize action generation. Together, these designs significantly reduce denoising steps while maintaining performance. UniWAM achieves state-of-the-art (SOTA) performance across multiple evaluations, including in-distribution performance, robustness, generalization, instruction following, and long-horizon task execution. Furthermore, we uncover a log-linear scaling law of unified human-robot co-training, demonstrating the effectiveness of large-scale pre-training on a mixture of human and robot data.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.02054",
-      "arxiv_url": "https://arxiv.org/abs/2610.02054",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02054.png",
-      "upvotes": 48,
-      "num_comments": 2,
-      "published_at": "2026-09-30T20:00:00.000Z",
-      "github_repo": "https://github.com/UniWAM/UniWAM",
-      "github_stars": 91,
-      "project_page": "https://uniwam.github.io/"
-    },
-    {
       "id": "2609.33325",
       "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
       "authors": "Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)",
@@ -115,6 +96,25 @@
       "project_page": null
     },
     {
+      "id": "2610.02054",
+      "title": "UniWAM: Unified World-Action Model",
+      "authors": "Jiayi Chen, Wenxuan Song, Jingbo Wang et al. (16 authors)",
+      "organization_name": "HKUSTGZ",
+      "organization_fullname": "HKUSTGZ",
+      "organization_avatar": "https://www.gravatar.com/avatar/70f662accc42fce026543de48099c80f?d=retro&size=100",
+      "summary": "Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics. Conversely, world-action models inherit spatiotemporal priors from video generation models, yet remain limited in semantic understanding and reasoning under distribution shifts. We introduce UniWAM, a unified architecture that integrates a physical reasoner, a world generator, and an action predictor to jointly learn semantic understanding of the physical world, visual generation, and action prediction. To ensure the quality of the training data, we developed a rigorous data cleaning and annotation pipeline for both human egocentric data and robot data. To adapt the vision-language component to embodied tasks while preserving its inherited language capabilities, we represent low-level actions in natural language and introduce a pre-training recipe that assigns complementary supervision from visual question answering (VQA) data, human egocentric data, and robot demonstrations to the appropriate model components. During post-training, future visual noise augmentation reduces reliance on precise future predictions, while history-conditioned flow matching uses encoded action history to initialize action generation. Together, these designs significantly reduce denoising steps while maintaining performance. UniWAM achieves state-of-the-art (SOTA) performance across multiple evaluations, including in-distribution performance, robustness, generalization, instruction following, and long-horizon task execution. Furthermore, we uncover a log-linear scaling law of unified human-robot co-training, demonstrating the effectiveness of large-scale pre-training on a mixture of human and robot data.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.02054",
+      "arxiv_url": "https://arxiv.org/abs/2610.02054",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02054.png",
+      "upvotes": 52,
+      "num_comments": 3,
+      "published_at": "2026-09-30T20:00:00.000Z",
+      "github_repo": "https://github.com/UniWAM/UniWAM",
+      "github_stars": 93,
+      "project_page": "https://uniwam.github.io/"
+    },
+    {
       "id": "2610.08760",
       "title": "WorldSonus: Bringing Sound to Worlds",
       "authors": "Pengjun Fang, Jingyi Fa, Kam Man Wu et al. (12 authors)",
@@ -127,11 +127,30 @@
       "arxiv_url": "https://arxiv.org/abs/2610.08760",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08760.png",
       "upvotes": 33,
-      "num_comments": 1,
+      "num_comments": 2,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/NoizAI/WorldSonus",
-      "github_stars": 53,
+      "github_stars": 91,
       "project_page": "https://noizai.github.io/WorldSonus/"
+    },
+    {
+      "id": "2610.09450",
+      "title": "Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning",
+      "authors": "Hanqiu Li Cai, Chema Garabito",
+      "organization_name": "speridlabs",
+      "organization_fullname": "speridlabs",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6828d5f2682a9738b94ef72f/X6_QZmboVD5aFL4DdRy83.png",
+      "summary": "Pixel-space diffusion models avoid the lossy VAE of latent models, which suggests an advantage on downstream tasks where fine-grained detail matters. We test this claim along both routes to a pixel-space backbone. We pretrain Iris-3B, a 3B-parameter pixel-space text-to-image transformer, from scratch through a 256to512to1024 curriculum, after first ablating the prediction target and representation alignment at 256^2 to decide what to scale. We also convert a pretrained latent model, FLUX.2 Klein base 4B, to pixel space. We fine-tune both families for monocular depth estimation and for image restoration/super-resolution. We find no significant improvement from using a pixel-space generative prior. Fine-tuned for depth with one matched direct-regression recipe, Iris-3B is level with the latent FLUX.2 Klein and the converted pixel FLUX.2 Klein falls behind it, and on 4times DIV2K restoration neither pixel model beats a latent FLUX.2 Klein fine-tune, the converted one trailing it slightly. We document the recipes, the failure modes and the remaining confounds behind this negative result. Nevertheless, Iris-3B shows that pixel-space pretraining with the pixel-transformer (PiT) head of PixelDiT scales to 3B parameters and to text-to-image quality competitive with latent models, matching Qwen-Image on OneIG under the official evaluators at 1024^2. We release its weights and training code in the hope that they help pave the way for further work on pixel-space generation.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.09450",
+      "arxiv_url": "https://arxiv.org/abs/2610.09450",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.09450.png",
+      "upvotes": 8,
+      "num_comments": 2,
+      "published_at": "2026-10-06T20:00:00.000Z",
+      "github_repo": "https://github.com/speridlabs/iris-3b",
+      "github_stars": 45,
+      "project_page": "https://github.com/speridlabs/iris-3b"
     },
     {
       "id": "2508.02739",
@@ -149,7 +168,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 40302,
+      "github_stars": 40323,
       "project_page": null
     },
     {
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/vllm-project/vllm",
       "github_stars": 86094,
       "project_page": null
-    },
-    {
-      "id": "2407.16741",
-      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
-      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
-      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2407.16741",
-      "arxiv_url": "https://arxiv.org/abs/2407.16741",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 90,
-      "num_comments": 7,
-      "published_at": "2024-07-23T13:50:43.000Z",
-      "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 90300,
-      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-09T00:09:44.040996+00:00"
+  "fetched_at": "2026-10-09T06:30:09.739759+00:00"
 }

@@ -25,14 +25,34 @@
       "description": "Full-stack safety solution for physical AI is being used by robotics companies."
     },
     {
-      "headline": "Chinese humanoid robots dance for South Korean lawmakers as AI race heats up",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03OExUZGhNYVZCUGF1STZYRG1zZzZhMXVoZk8tT3I4TmxPOTRhQkFfbnU3NDZWR0p5RlNFRUd0Z01Wd2pKZjFkQk1wM0xQZkxtTTU5c3BR?oc=5",
-      "pub_date": 1791484253.0,
-      "article_url": "https://www.foxnews.com/video/6406490208112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aae79cfc-f7b1-4cc2-a569-2c1072314097/70d1153e-77cf-4bc6-9a43-a867073fe99b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China\u2019s rapid advances in physical AI and calls for greater investment in South Korea\u2019s robotics industry."
+      "headline": "University of Bradford project to help firms 'adopt robotics'",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SYXVlR2g2dTBvZ3FHeEdDdFdid251cW9jc04xWGRKVnBTRjRTcS0tazlWQklwMTQ4UEstRTE5SWVHTkFjeGUyQXUtcXZma2U0MUpXTU5OVmhHbjg?oc=5",
+      "pub_date": 1791522968.0,
+      "article_url": "https://www.bbc.com/news/articles/cmy93j9p9y7no",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3aa0/live/efacbc40-c260-11f1-a202-b3a903690ffe.jpg",
+      "description": "The \u00a33.67m Yorkshire Robotics Hub at the University of Bradford is hoping to bridge the \"automation gap\"."
+    },
+    {
+      "headline": "UK robotics hubs to drive adoption of new tech",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZldzTWk4YVItQVpvVDFFZ3o0YVJTYUtFbEJGQXVPUE1jYlhUdWsweE9OTkR6VXdRbjN5LTNOZzJGVnNlaHYyRjVKanNDS1RLSkdyOHJ2ZGVtV1U?oc=5",
+      "pub_date": 1791522217.0,
+      "article_url": "https://www.bbc.com/news/articles/c6wyvdn7djnpo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e13d/live/bbf4bcd0-c329-11f1-9981-cf94ea240e40.jpg",
+      "description": "The government says the hubs will support businesses and public services across the country."
+    },
+    {
+      "headline": "How AWS is helping companies build physical AI machines that think",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV09ac2QtTXFvV2dpMHNFZGJOM2xNd2RQUEVtZDYzX0dsM25GRG40V1U3TmFNR0ExUTlHaERpMlBtb1JaREtKYlZBVEcyMkNKX2FxNmdRcVEzTVZFNUpBSm9oNlVCelpGVDNmb080WDNVZkNqVDA2YzJCTF9kNWtPWGUycEE1QWxYNlJmLVpwNEtaSFU?oc=5",
+      "pub_date": 1791465166.0,
+      "article_url": "https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines",
+      "image": "https://assets.aboutamazon.com/dims4/default/64133eb/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F2b%2Fe8%2F55307dea410f85c7408920cf8b85%2Fabout-amazon-hero-ai-toolchain-hero-amazon-news-lt-092926.jpg",
+      "description": "Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world."
     },
     {
       "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
@@ -41,46 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
       "pub_date": 1791500415.0,
       "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "A robot entered a Denver comedy club. (This isn\u2019t a joke.)",
-      "source": "The Colorado Sun",
-      "source_url": "https://coloradosun.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmZhOFpPNlgtWXRtT2lkQk5icHMyNXIzNXpCZ0JIaGtrTlF4NFRYcmQ0RTE4YUtYYXNyLVBfMDJZYndqN3ZqYzBDd1VkSTk0M1UyZ3ZRQUtRa1dKWGNyZEc0bDhTcDBNVVVIdEtuV2I4NWlUa0hubW55di1MVTN6UTRKYU1XanZwSExJZnJQVy1yS0lTdGJfbQ?oc=5",
-      "pub_date": 1791453600.0,
-      "article_url": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Gecko Robotics, Anduril team up for new Baltimore County shipyard",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUw5a3d3SHZYc0U4V0IwX3haNl9JVkJadEw4ZHc5Qm5uODJ5Nm5RUUczTFpKM1gzNTJTSjJnYU5yMjl0VXUwLU1rNExGelpsbjJGTXpiMlV5dDZEODN2dmYxZnZpcjJaYnl6WFdFQURmSWZMcU5hRFkxZUpoQnRrbjJTbHp0VWczWl95UnhENlJpSXlRS01YN0h3UDMwaGFsamo4?oc=5",
-      "pub_date": 1791470206.0,
-      "article_url": "https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026-Proto-Factory-2-Web-1-scaled-e1791463881980.jpg",
-      "description": "Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components."
-    },
-    {
-      "headline": "This Disembodied Hand Is All the Robot You Need",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qTkNmQUd0UllXTnZSeVRfSVBKWnphYUlYenIwQU5BVmd5d3ZLampQc2gxTzNoektleGpjdG9KemxYekE4LXhELVpJenlMay1YcnBtR1pBdkFfQQ?oc=5",
-      "pub_date": 1791461059.0,
-      "article_url": "https://spectrum.ieee.org/walking-robotic-hand",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68383399&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-      "description": "Multipurpose body parts could lead to more-flexible robot designs"
-    },
-    {
-      "headline": "US issues first outbound investment fine over Chinese robotics AI deal",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd01kSV85N0o3MDFlbThLT3hReUdWaUFjdkRDcEE5X1FkWEk0UHlXTnhFcElrRWpKRzJtNkZsUU5SQi1uNEZXVHhWeW9EN0czNHpQNWNFeXpld1ZrZnI3NkhUREhHMndwbWZ1THdNdHhHZ3JRcVZzZ3dyc2lxY0x4VGNVTU1rX3VuMmhJVkNQald2UkFIOENYbl8zYzJWRWlsQVlwN05RQUFkazFfeXdqVkdRYVBRODBpWjhYcGtSRlhqNUx6NGVR0gHHAUFVX3lxTFBCNGo2WVBWc2l0LWhwRDdCOHN3NXJXSnBjNEFuelJyOUJwdTNLdndjMnIwVjFZeE03dVJTd2pxOHBoWHZ5SmxEZVdvMF84QzNyb0x3NkR4N1hNWFpjSHo3X3BNYkRYSmpxdDhJMWhKVDVBRW51ZDBZdmFfZXRPaFNxMXVWZ3UwNVpTSTlYQ185dzRGYmR6b0lNZ3VuaGxRRVNlNkYwTG5NZ1NiVElGUHBGZFlGVmpRR0tGOGtvMzUzUk5YUlZ2aTQ?oc=5",
-      "pub_date": 1791401279.0,
-      "article_url": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal",
       "image": null,
       "description": null
     },
@@ -95,16 +75,36 @@
       "description": null
     },
     {
-      "headline": "FireFly Robotics files for Nasdaq direct listing",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlDaEwtTEw4V0tjU2diYkV2cG9BbGxJYmdBM2VUTzcxUXFOR1N6NWo5b2dpRkM3TkRtZFNhNDNKZGNjMlRfdDhMR2M2bVBFanI2aUJTUk5SakNSM1R2Z2hSRXpsUFU1dExIaWJQU2xvM2dmM1F4bjgwN1g4UWxsYW5MSWF5Nlk0eWJRS1FFNHlBOUE?oc=5",
-      "pub_date": 1791393703.0,
-      "article_url": "https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/",
+      "headline": "A robot entered a Denver comedy club. (This isn\u2019t a joke.)",
+      "source": "The Colorado Sun",
+      "source_url": "https://coloradosun.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmZhOFpPNlgtWXRtT2lkQk5icHMyNXIzNXpCZ0JIaGtrTlF4NFRYcmQ0RTE4YUtYYXNyLVBfMDJZYndqN3ZqYzBDd1VkSTk0M1UyZ3ZRQUtRa1dKWGNyZEc0bDhTcDBNVVVIdEtuV2I4NWlUa0hubW55di1MVTN6UTRKYU1XanZwSExJZnJQVy1yS0lTdGJfbQ?oc=5",
+      "pub_date": 1791453600.0,
+      "article_url": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "US issues first outbound investment fine over Chinese robotics AI deal",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd01kSV85N0o3MDFlbThLT3hReUdWaUFjdkRDcEE5X1FkWEk0UHlXTnhFcElrRWpKRzJtNkZsUU5SQi1uNEZXVHhWeW9EN0czNHpQNWNFeXpld1ZrZnI3NkhUREhHMndwbWZ1THdNdHhHZ3JRcVZzZ3dyc2lxY0x4VGNVTU1rX3VuMmhJVkNQald2UkFIOENYbl8zYzJWRWlsQVlwN05RQUFkazFfeXdqVkdRYVBRODBpWjhYcGtSRlhqNUx6NGVR0gHHAUFVX3lxTFBCNGo2WVBWc2l0LWhwRDdCOHN3NXJXSnBjNEFuelJyOUJwdTNLdndjMnIwVjFZeE03dVJTd2pxOHBoWHZ5SmxEZVdvMF84QzNyb0x3NkR4N1hNWFpjSHo3X3BNYkRYSmpxdDhJMWhKVDVBRW51ZDBZdmFfZXRPaFNxMXVWZ3UwNVpTSTlYQ185dzRGYmR6b0lNZ3VuaGxRRVNlNkYwTG5NZ1NiVElGUHBGZFlGVmpRR0tGOGtvMzUzUk5YUlZ2aTQ?oc=5",
+      "pub_date": 1791401279.0,
+      "article_url": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Gecko Robotics, Anduril team up for new Baltimore County shipyard",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUw5a3d3SHZYc0U4V0IwX3haNl9JVkJadEw4ZHc5Qm5uODJ5Nm5RUUczTFpKM1gzNTJTSjJnYU5yMjl0VXUwLU1rNExGelpsbjJGTXpiMlV5dDZEODN2dmYxZnZpcjJaYnl6WFdFQURmSWZMcU5hRFkxZUpoQnRrbjJTbHp0VWczWl95UnhENlJpSXlRS01YN0h3UDMwaGFsamo4?oc=5",
+      "pub_date": 1791470206.0,
+      "article_url": "https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026-Proto-Factory-2-Web-1-scaled-e1791463881980.jpg",
+      "description": "Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-09T00:09:57.048648+00:00"
+  "fetched_at": "2026-10-09T06:30:21.532211+00:00"
 }
