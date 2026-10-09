@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-09T13:40:24.569312+00:00",
+  "data": "GLM5.3-Flash-E224-DGX-Spark is a quantized, expert-pruned image-text-to-text model optimized for NVIDIA DGX Spark systems. It retains 224 experts per layer and uses NVFP4 format for efficient deployment on Blackwell GPUs, supporting long-context KV cache and multimodal capabilities.",
+  "model_id": "autotrust/GLM5.3-Flash-E224-DGX-Spark"
+}
