@@ -5,64 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXVrdFBKWkdpMS15S0gxbGRRem8tQnA3QV9xTHpwa2QyNVcwSTdtdzdsOE5pWEp3R1JiREhqZEZnc2FNeUNSOFh1VE52NUFDODhkeVRSUUVreUtjeFUzVllTVExFbTNYcHM4dXR2T000TDVwYVpkdF9WMk9DNWY5RGpRZG9DV0ktWHk3bExmR21GNGNVbTFRd0FqZTR5Y0djOHVHTW01dTdGQlp4Y0hUYk9kSEgtQjFmVXBuTmQyWWc4NE1FSGQxa2t3?oc=5",
-      "pub_date": 1791455441.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?auto=format&q=75",
-      "description": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
-    },
-    {
-      "headline": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHdVpUSzd3eUlwNm5aRGgxalJaRDVjVnNGVHUwMkF4VmcwTWpGUmZIczQycnVTZjlmWXZYdDhWT1BkYkFlbmFfd1VjYTVnVV8xd0VaYkZUU1NDbVBsRVc4UFVkMktub2EwaXdPaVh3WmJ5Rm8wakwwUVREWC16ZkE?oc=5",
-      "pub_date": 1791471120.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
-      "description": "QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook."
-    },
-    {
-      "headline": "Q&A: Bitcoin Funds Are Expanding. HANetf\u2019s Co-CEO Explains Why",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk5lLUpESE5jNUdNV3JYdmw5SHVRckJ1d0pqbmROS0Zwb2VpVU01WWh3S2pfbGc4UmNfMDMxZU82VnR3LUlGMnhzTGdwSDh1cDZJY25wYXJvUTlIRnlYNjA0czZ2eDBtX0dvSTdYNmhSaUJTa3lDYWZ4NHFLYXkycWZ1aGlHUzZWVXRLMDdUV1lrY2FYeU9YWllDbWxxd2JUY1pZN0MwOGpLNW8?oc=5",
-      "pub_date": 1791459000.0,
-      "article_url": "https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "US government quietly offloads $770M in bitcoin",
+      "headline": "Bitcoin falls below $83,000, dragging down Coinbase, Robinhood, and Strategy stocks",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFZacXE0R09tTHVwMHlTQlBWWWo5ODNaczFPSF9VQUtVMXlmUWtvcngydmJneDA4WWE3U0dnZTRreW1qLXUwV251OHRROFhib0tsNjdCcE5iQk8tT2pTVzlUNlBqT1c5VElBcXEzaFo1M0E5d2pxQ2ZVOWlOUWRJekd5empoNkRrX3B3MG9RTW5LUjV2WDM5SQ?oc=5",
-      "pub_date": 1791475348.0,
-      "article_url": "https://finance.yahoo.com/video/us-government-quietly-offloads-770m-in-bitcoin-160228123.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c79bc51b90c4729525507d39136acac5ef59f3402a0778ae1d7c0c188fb169f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-1008_6306.png",
-      "description": "Scott Melker discusses why bitcoin (BTC-USD) exchange-traded funds (ETFs) have lost millions of dollars this year, why the US government is selling $770M in bitcoin and explains what crypto investors need to know about Securitize's (SECZ) newly launched tokenized stock trading.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaTVnWTI4QkZZcUVaQUgxMkJKWGVTV0dWdmU3RkNWU1BJanZwQzRidGVRSVNQVk1VU0ZKeFBuQkZNTVJiOUtDbzd5WlNSZEZvemVnY2VHemZHTDB6aWdZbnEzeGxpUjVLNTdjRlVKbzlpYjBzYlowOGRjTlM5Mjd1eF9QcWRZdmJWaFhGUjA4QjVqTW8zSURzVEVxaXg4d2o4U3g3TTJnc0NTb1M3MERsWXVMQ2RFRVJyWnlaamIzU2U2cVVjYkl3MFV1OGRJbXE4?oc=5",
+      "pub_date": 1791384582.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-falls-below-83000-dragging-down-coinbase-robinhood-and-strategy-stocks-144942149.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e585afbaaeef90fc4b407762029395e22c8c803172d82ea1a74fe4bccf0d720f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffe376780-03af-11f1-bdbe-5bf6f41e7c2e_88e59d857796f0171653177a807c51569e92eac61a0b439e95ced3ca6d9557a9.jpg",
+      "description": "Bitcoin tumbled on Wednesday amid a broader market selloff."
     },
     {
-      "headline": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUs2dklTbmFkSElrU0g0anl2OVFuMTdvMzVJMVEzU3N6d1Bkank2MFIxcEtmNERIcEZFRmJUT3BHS3BJaVdQMGQ2bTVQc01pMkM4bDBOSDdBWFZNSkFpN2ZYQXU2cFlxbkk2YlBJbDkxUE85UTFUeTVhak1rbGEzVVBQajFuOFV5cndTR291U3YzTUJxdFZhMXBGRE5mSmNoVDhxTll6aWVfZ0lqYzJqUl9VM0dWazYwdUlqalhkamNwZklTRlN3UHhGZk1QZw?oc=5",
-      "pub_date": 1791485963.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d7547a7b55a45fba2e93597a31f6a8893d945b6a-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime."
+      "headline": "Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHE2dENHM0Z1c3VlS0VjcnJDbWZUeUhWZHJjSDNDMFhJeFBhR2pQVGxJSXZwSnRFV3N1NWxMb1g2a3NfTVNxQzZZNGx1ZUhPbXVLNk85OXVtb01PZzY2OHBDTmtfZ0ZBS0dUc3g0YVBRRnlGbnJuMjRhcmh0Y1dSdzIwSmM1cWpkX1BWVF9OOG9YeE82bHNkYy1zQ2dnbGxxQTBOMXVmNG1UUQ?oc=5",
+      "pub_date": 1791480600.0,
+      "article_url": "https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/08/Stock-TrumpBitcoin-mash-shut.jpg",
+      "description": "The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in."
     },
     {
-      "headline": "US government moves 17,795 Bitcoin worth $1.5 billion in three days",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWtIZVlDZUVHYVdtTTk1MkxBYXhKRnJadHI2eEFfX3Z2MWRvbzFqaGlnTF9Vc2ZrdHVJdG1rVkRTQzZUUDlfa0tzQ3R3SG4wc1B3VjFvZlJLcU95Z1R4UElvUVR6SVNZN253ajY1NkdxcGJmLWhMUzY2S0JUUUNtOURxSDZ6akZUZEZadXRZRnVWUVJvT20zclZpVDZkMGQ3bGJYTHhLNVI2c0tsaDFISHlSY2pXVC1Ndks2bTFLR1hYWG1JMkotUTdjOA?oc=5",
-      "pub_date": 1791468396.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:a75e8eb14094b:0-us-government-moves-17-795-bitcoin-worth-1-5-billion-in-three-days/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The US government has moved 17,795 Bitcoin worth $1.5 billion over the past three days.When the world's largest known sovereign Bitcoin holder starts moving coins, traders pay attention. The bigger question is not whether the coins moved. It is what Washington plans to do with them.On-chain tracker\u2026"
+      "headline": "Ex-BitMEX CEO Arthur Hayes is betting the AI data center boom will crash and boost bitcoin",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16LXJ5cGxkRTVUN3FIUDc5d3VyTnVwcXVEVlE5ZnFIYVNKdmRWQVEwTUMzRXdHV1BhNDV1Uy1XLWlEbmVGU1FSOHBrN0ZYaDI4alZJZWl0QXY3QzFPSW9leFBCT2tLSUk4N1JKUkpxSWRvNi1WNlRJb1RB?oc=5",
+      "pub_date": 1791375834.0,
+      "article_url": "https://qz.com/arthur-hayes-bitmex-ai-data-center-crash-bitcoin-100726",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2249152852-300x210.jpg",
+      "description": "Hayes says the AI infrastructure buildout mirrors past technology overbuild cycles that ended in crashes and government bailouts"
+    },
+    {
+      "headline": "US government moved $770M worth of bitcoin onto Coinbase Prime",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2ZRVTFVSE5WeDk0QS04eG91ZDNTV3dwWGN3NzhTRG4zbHluT3NoWVQyN3RUX2NJM05MblhOOGZEWXUwX25wZkxxdWxhd3ZmUlVaMFh6Z21YS1djazZKRTJMLTN5cUJ4bEFqLTJ4WlEyeUxoT1RpUFpoenFUUVRiTEhrYUhLVFpNMkI5RWRHbVZxeC1RUDYyUWNLUUE0a2NxVmoydHoyV0x1dENP?oc=5",
+      "pub_date": 1791477000.0,
+      "article_url": "https://finance.yahoo.com/video/us-government-moved-770m-worth-of-bitcoin-onto-coinbase-prime-172759212.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b8adb29806e731b3d6133fd7f5a37464c616f71a455b8d8a3cb181b423af4464/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F1aa5d7b8-a7fa-4e81-b56f-9690e0e8dab6_2572a1e9ec2442da109dac868c6b2571dfce167a0e3de77cbc978d173b85c5cb.jpg",
+      "description": "Scott Melker discusses reports of the US government-linked wallets moving $770 million of bitcoin (BTC-USD) onto Coinbase's (COIN) Prime platform.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
     },
     {
       "headline": "Bitcoin\u2019s Next Move: What Crypto Investors Need To Know Now",
@@ -75,36 +55,56 @@
       "description": "Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin\u2019s pullback, rate uncertainty, regulation and what could come next."
     },
     {
-      "headline": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
+      "headline": "Q&A: Bitcoin Funds Are Expanding. HANetf\u2019s Co-CEO Explains Why",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk5lLUpESE5jNUdNV3JYdmw5SHVRckJ1d0pqbmROS0Zwb2VpVU01WWh3S2pfbGc4UmNfMDMxZU82VnR3LUlGMnhzTGdwSDh1cDZJY25wYXJvUTlIRnlYNjA0czZ2eDBtX0dvSTdYNmhSaUJTa3lDYWZ4NHFLYXkycWZ1aGlHUzZWVXRLMDdUV1lrY2FYeU9YWllDbWxxd2JUY1pZN0MwOGpLNW8?oc=5",
+      "pub_date": 1791459000.0,
+      "article_url": "https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTBHRVl3bXRRU3V5Vk9xVWMwd0RQQlJfNjRBMldFUXpTOTczMENYcWRNUG1KejBIWmFFRzY0azEyX2lWX21pRmV1QlJnRTduZXpMcmNDS3dvWko3Uk1GV1Q0azlrcl9pSkVFRjl3ZjFxS2plTGF3TC1HZFVOY1NEZw?oc=5",
+      "pub_date": 1791487359.0,
+      "article_url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-3.jpg",
+      "description": "Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising"
+    },
+    {
+      "headline": "Sui\u2019s Hashi Bitcoin Finance Network Launches With More Than $500 Million Committed",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFlFM1hyRV9zZ2JEUnZnMG55ZzFCT2xYbXRqUmlTVmtHU0g1MjNIOTNiOFMtOGJ0VW8tSUh4aTFSb09vTFNaTDNLWS0zdGFaSHZ3V25BUkp0Z3Jmb2xsN1hKMUswczByVGdDT2pmWTBvNlYtd0FleUdWYmFOeWZDSXQ5YlZUUVYtSEk0M3YzSzFTNEdmQ25tNjdqVXBhcG1Mblp6ekVwZ3RxcC04Z1hibk1VT3poZFQtaFA0OHlEdzAxc2tzd1hzOTRacXlkMTJPR2hUN1B3?oc=5",
+      "pub_date": 1791482400.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:f7500dc3a094b:0-sui-s-hashi-bitcoin-finance-network-launches-with-more-than-500-million-committed/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "TL;DR: Hashi, Sui\u2019s native Bitcoin finance infrastructure, will begin a phased mainnet rollout later this month with more than $500 million in committed capital. Anchorage Digital has joined the launch coalition, giving institutional clients routes into Hashi through qualified custody and self-cust\u2026"
+    },
+    {
+      "headline": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHdVpUSzd3eUlwNm5aRGgxalJaRDVjVnNGVHUwMkF4VmcwTWpGUmZIczQycnVTZjlmWXZYdDhWT1BkYkFlbmFfd1VjYTVnVV8xd0VaYkZUU1NDbVBsRVc4UFVkMktub2EwaXdPaVh3WmJ5Rm8wakwwUVREWC16ZkE?oc=5",
+      "pub_date": 1791471120.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
+      "description": "QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook."
+    },
+    {
+      "headline": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
       "source": "Decrypt News",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyaHVCakpwWTFKek5OYzQzOW8yRWljTXBJTDFCeFRQVWxrUkJKWXJHckYwb04zUmV5cDZDNklaVG1hSGNVSmNZUW04dHliWEM0a1R1dVRhQ3REa3lFaVlxQ1I0V250M2xmeWx4YWNwOGpxQVZlY0JTNUxmbw?oc=5",
-      "pub_date": 1791485164.0,
-      "article_url": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/satoshi-nakamoto-statue-lugano-gID_7.jpg",
-      "description": "A batch of Bitcoin mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but data doesn't show who owns it."
-    },
-    {
-      "headline": "South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal",
-      "source": "Business Insider Africa",
-      "source_url": "https://africa.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZG82WE9GVGZsYzZ5cnFMOTlKWUphbTcxaTZXOE9kM0ktOU9Wd0Y0ZHNmSlJjbXJtSGw4eENTd0NGY0FjaG9ORDhEUkdEVGJtS1dLUkI2eFlJMzRIUzJnSTBvWmg5b2JLd0ZjZjlqUFRRMWh5Qk1nZnJPYy1nUzU2dENOb3pTWkV3WGNMbElHMjF5MEE3a0RMSmtrUlk1cWZfSHlYWlZlcWRuOGlmSVJCTXgzOUN6VTB6MXl5Y0NvLXlsLUlEa1lybnQ2Nm05VXMydzNaanBB?oc=5",
-      "pub_date": 1791359631.0,
-      "article_url": "https://africa.businessinsider.com/local/markets/south-african-banking-giant-opens-bitcoin-trading-to-nearly-nine-million-customers/4wct3bl",
-      "image": "https://ocdn.eu/pulscms-transforms/1/5FuktkpTURBXy8xM2RmZmNiZTRkNDNlMzY4YWJmYTIzOTk4MTZiZTYzZS5qcGeSlQMAAM0HCM0D9JMFzQSwzQJ2",
-      "description": "South Africa\u2019s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers"
-    },
-    {
-      "headline": "Bitcoin ETFs suffer biggest exodus since June as Ethereum withdrawals hit nine-month high",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMEFjNkVTb3NlM2lJQ3F0b0FRdmpNaUZPTXhUMzBGd2xSYkMxOUVBc2JlY2pJMDU3MTJpbVNrdzBZVHV4ZUVESmxRdEg3Z3poQkdaZDRURjhhTXQyN1hxMzJ2TEFpTGh5QVRnZVRTd19NV0tHdlp3OXhWRi12ZVFlZ1c1ZDZOZEhBR1l0UndYOVE2TjBFYlQ3WlNSSDJ3ZzBCbDM5aWotd1k5eVRQTzB3eE83R3g?oc=5",
-      "pub_date": 1791474034.0,
-      "article_url": "https://cryptoslate.com/bitcoin-etfs-suffer-biggest-exodus-since-june-as-ethereum-withdrawals-hit-nine-month-high/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-etf-capital-drain.webp",
-      "description": "Bitcoin ETFs lost $484.9 million on Oct. 7, their largest daily outflow since June, while Ethereum funds continued their outflow streak."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLaC1EazkzUGVvZ3lGOVZJUkd6QjFLb3c3U0lwaHhNSGlLcTNxZXg1Ty1UVFY5M3dVeU9vWTdKSkl3MThjcGxxamxBcEVYLU0yZTMxUTItOEdLOTlOYTRmcUFZbnVpS0VmZTRlUjZDYkliNTFXeFBZUEVkZjU?oc=5",
+      "pub_date": 1791477860.0,
+      "article_url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png",
+      "description": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T19:41:42.627184+00:00"
+  "fetched_at": "2026-10-09T00:09:55.135573+00:00"
 }

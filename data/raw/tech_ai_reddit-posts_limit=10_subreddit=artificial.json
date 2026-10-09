@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Trump declares anyone who uses the term Artificial Intelligence to be \u2018The Enemy!\u2019",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/",
-      "published": 1791479698.0,
-      "thumbnail": "https://external-preview.redd.it/BkbyA4bv0_f1fxn0IAR60_JNOpa2RYnVvNO6EQDWjLc.jpeg?width=640&crop=smart&auto=webp&s=8217cc7519b3630aaa3813650a08859a0e1da730",
-      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "President\u2019s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat"
-    },
-    {
       "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/",
@@ -24,26 +13,26 @@
       "description": "The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development."
     },
     {
-      "title": "Researchers are already significantly improving on OpenAI\u2019s recent math results, verified in Lean",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/",
-      "published": 1791440623.0,
-      "thumbnail": "https://preview.redd.it/aebuy8fns6uh1.jpeg?width=640&crop=smart&auto=webp&s=e534d24f4889590e7cf8168dab551a83989128be",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So much for the \u201cwe don\u2019t learn anything from these slop proofs!\u201d excuse https://github.com/CrocSwap/integer-mult-bounds"
+      "title": "Trump declares anyone who uses the term Artificial Intelligence to be \u2018The Enemy!\u2019",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/",
+      "published": 1791479698.0,
+      "thumbnail": "https://external-preview.redd.it/BkbyA4bv0_f1fxn0IAR60_JNOpa2RYnVvNO6EQDWjLc.jpeg?width=640&crop=smart&auto=webp&s=8217cc7519b3630aaa3813650a08859a0e1da730",
+      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "President\u2019s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat"
     },
     {
-      "title": "Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/",
-      "published": 1791430651.0,
-      "thumbnail": "https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&crop=smart&auto=webp&s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0",
-      "external_url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
-      "site_name": "terrytao.wordpress.com",
-      "favicon": null,
-      "description": null
+      "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/",
+      "published": 1791498009.0,
+      "thumbnail": "https://external-preview.redd.it/lHO-SUtuFoVGClVkMJEQktVci44m6uhqFN30wWcTbn0.jpeg?width=640&crop=smart&auto=webp&s=7655181a9fe140dd0b4418d86fc01d24725cf2b5",
+      "external_url": "https://www.techspot.com/news/114131-wikimedia-foundation-openai-rogue-ai-agents-caught-making.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "Wikimedia Foundation, the organization that hosts Wikipedia and other major wiki-based collaboration projects, is once again clashing with AI companies over their alleged abuse of its servers...."
     },
     {
       "title": "Why are people using ChatGPT for menu generation?",
@@ -57,48 +46,15 @@
       "description": "Just wondering what's up with ChatGPT and the horrible/gross looking food menus. Example attached is from Gemini on a few items that usually look horrible on menus, it can do it just fine. Heck, open weight models can do this stuff as well. Why does everyone keep using a horrible model to produce their menus. I reside in Thailand and I see it in the wild all over the place. I tried to prompt Gemini to make me a bowl of ChatGPT rice, and think I got pretty close by asking it to \"generate a photo of a bowl of the rice looks like it was made out of fractals and aquarium rocks\"."
     },
     {
-      "title": "Gamma 5 launched yesterday. I used it for an hour, my review",
-      "author": "Madmahi25",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/",
-      "published": 1791454668.0,
-      "thumbnail": "https://preview.redd.it/4qe2xdhhy7uh1.jpeg?width=640&crop=smart&auto=webp&s=ce6b2d8ace7b778cebb0876ecb39fa96c6ad7333",
+      "title": "Researchers are already significantly improving on OpenAI\u2019s recent math results, verified in Lean",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/",
+      "published": 1791440623.0,
+      "thumbnail": "https://preview.redd.it/aebuy8fns6uh1.jpeg?width=640&crop=smart&auto=webp&s=e534d24f4889590e7cf8168dab551a83989128be",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI agent that talks through your outline with you, plus a freeform canvas, more themes, around 20 connectors and PPT/PDF import. The major problems of gamma was ai smells, now this time they are removing it, AI removing ai smells lol but its way better than the previous ones. So the ai agents asked me two questions, searched the web and wrote an outline in under 30 seconds. But the new home prompt gave me a blank page and I had to use the classic generator to get in. Haven't touched the canvas, so I can't say anything on it."
-    },
-    {
-      "title": "What to know about Anthropic\u2019s \u2018Claude-led\u2019 biological discovery \u2014 and why scientists aren\u2019t convinced",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0uuea/what_to_know_about_anthropics_claudeled/",
-      "published": 1791475382.0,
-      "thumbnail": "https://external-preview.redd.it/mZNPQPGh_zhRjG-ox0VqovVhd8ydf1PO9WIhrw9-liE.jpeg?width=640&crop=smart&auto=webp&s=42a19bcbad482ee8904f2d8d5448027f59068c7b",
-      "external_url": "https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "Anthropic\u2019s claim its AI agents discovered an unusual pattern in viral DNA similar to what\u2019s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here\u2019s what to know."
-    },
-    {
-      "title": "What stops anyone from claiming proprietary use in a company's AI?",
-      "author": "UpstairsTomato3231",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0wv7m/what_stops_anyone_from_claiming_proprietary_use/",
-      "published": 1791480032.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I mean, what stops some slimy IT tech who is in charge of the AI for an entire company say, \"And block everyone else from changing this or by anyone but me.\"? If they get to it first and the managers or owners of the company are completely tech slow, it could happen. What is in place or is there something in place to prevent such things? I'm sorry if that has been answered a million times or that it's the wrong place to ask. Please just tell me where I should ask if I'm wrong. Thank you."
-    },
-    {
-      "title": "Claude Haiku 5.5 is out and it is 75% cheaper than the last one",
-      "author": "Alone-Dragonfruit602",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0o904/claude_haiku_55_is_out_and_it_is_75_cheaper_than/",
-      "published": 1791458210.0,
-      "thumbnail": "https://external-preview.redd.it/-3K8fUKkjDU58VI1memGt9Qbbz55UoHn5ORoubW9iao.png?width=640&crop=smart&auto=webp&s=d77e7056ab5ddd6a7ceab4bc7fa98f8985edf7c6",
-      "external_url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
-      "site_name": "The Decoder",
-      "favicon": "https://the-decoder.com/resources/favicons/apple-touch-icon-60x60.png?v=3",
-      "description": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task."
+      "description": "So much for the \u201cwe don\u2019t learn anything from these slop proofs!\u201d excuse https://github.com/CrocSwap/integer-mult-bounds"
     },
     {
       "title": "Mathematicians marvel, and grumble, at OpenAI\u2019s trove of new results",
@@ -110,7 +66,51 @@
       "site_name": "Scientific American",
       "favicon": "https://www.scientificamerican.com/static/favicon.ico",
       "description": "The \u201cslop drop\u201d contains a number of groundbreaking results, but how it was generated remains unclear and contentious"
+    },
+    {
+      "title": "Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/",
+      "published": 1791430651.0,
+      "thumbnail": "https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&crop=smart&auto=webp&s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0",
+      "external_url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
+      "site_name": "terrytao.wordpress.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "author": "Dances_With_Seagulls",
+      "url": "https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/",
+      "published": 1791492253.0,
+      "thumbnail": "https://external-preview.redd.it/xf7bJ68FPdCjKW358NEPp1dvXmowlVo2OApLVlpEVrQ.jpeg?width=640&crop=smart&auto=webp&s=14134d3a36a1ade8eace47f3ecdf59bdbd7da71b",
+      "external_url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties."
+    },
+    {
+      "title": "Gamma 5 launched yesterday. I used it for an hour, my review",
+      "author": "Madmahi25",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/",
+      "published": 1791454668.0,
+      "thumbnail": "https://preview.redd.it/4qe2xdhhy7uh1.jpeg?width=640&crop=smart&auto=webp&s=ce6b2d8ace7b778cebb0876ecb39fa96c6ad7333",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI agent that talks through your outline with you, plus a freeform canvas, more themes, around 20 connectors and PPT/PDF import. The major problems of gamma was ai smells, now this time they are removing it, AI removing ai smells lol but its way better than the previous ones. So the ai agents asked me two questions, searched the web and wrote an outline in under 30 seconds. But the new home prompt gave me a blank page and I had to use the classic generator to get in. Haven't touched the canvas, so I can't say anything on it."
+    },
+    {
+      "title": "New AI can reconstruct what you\u2019re looking at by reading brain activity",
+      "author": "Brighter-Side-News",
+      "url": "https://www.reddit.com/r/artificial/comments/1x16wiz/new_ai_can_reconstruct_what_youre_looking_at_by/",
+      "published": 1791504399.0,
+      "thumbnail": "https://external-preview.redd.it/PRL3-I9jRdrsI86RrITONR7mwaevJcZ11Km58YnbFv4.png?width=640&crop=smart&auto=webp&s=f51617850929b606edf7ea18b1c7fafd075ff5dc",
+      "external_url": "http://thebrighterside.news/post/new-ai-can-reconstruct-what-youre-looking-at-by-reading-brain-activity",
+      "site_name": "The Brighter Side of News",
+      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
+      "description": "A dog in a bathtub became a similarly colored goat. A cake turned into three sandwiches. These mistakes reveal the limits of an AI system that can otherwise reconstruct surprisingly detailed images from the brain activity of someone viewing them. Called Brain-IT, the system comes from Michal Irani\u2019s laboratory at the Weizmann Institute of Science in Rehovot, Israel. Its reconstruction study appeared in the proceedings of the 2026 International Conference on Learning Representations. Related work on a universal brain encoder was presented at the Conference on Cognitive Computational Neuroscience. Together, the projects tackle two directions of the same problem: predicting brain responses to images and reconstructing images from those responses. The demonstrated task concerns pictures viewed during scanning, while applications involving dreams or patient communication remain research ambitions."
     }
   ],
-  "fetched_at": "2026-10-08T19:41:21.334362+00:00"
+  "fetched_at": "2026-10-09T00:09:36.282946+00:00"
 }

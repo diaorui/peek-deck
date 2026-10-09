@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI annualised revenues $20bn less than previously signalled",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA?oc=5",
-      "pub_date": 1791477754.0,
-      "article_url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,77 +15,67 @@
       "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed."
     },
     {
-      "headline": "This cybersecurity stock is already growing revenue at a 20% clip. And now here comes the AI boost",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWoyTFZrN2NSamNWZjBqLUFqTmkwdXZjUmtUT2hHQk9zcVEydk01R3EtWDh0QUlyQlF2N0NqaG54b2FIR2QtRVpqMFBDRUdtVzNZdVd2b0w0VWppeF9OWjc2Yk16c3RfWGY2QzBIRmJtbC0ycEFmLXR5MmlSY3NhYzBtN1REMjU5bmhHaUdZWEdpZW9JdTI5TF95aWNJYi0yemFzYWlDdkF2U3RwQkNsZ3k2X1hLQ2M1T1JlcHVqSkR1c0Vadk5ZYmlPNU56NmxHcEcxc0lGVQ?oc=5",
-      "pub_date": 1791484526.0,
-      "article_url": "https://www.cnbc.com/2026/10/08/this-cybersecurity-stock-is-already-growing-revenue-at-a-20percent-clip-and-now-here-comes-the-ai-boost.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374084-1791384600910-gettyimages-2084953035-2024-3-144.jpeg?v=1791384615&w=1920&h=1080",
-      "description": "SentinelOne combines strong revenue growth with improving profitability as it expands its cybersecurity platform beyond endpoint security."
-    },
-    {
-      "headline": "This Photo Is an A.I. Fake. Can You Tell?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWNzcjU1SDllNEhnZ28wajZ6SGl1TFdYVzQteE5ZUUFmSy1uRHphdmFCcF9uRGhiRDc4NE5TZXVicmh0NTB1dmY1b1h4c0V0OE44ejJPbW8yUENLZ3BTUGIzOWcxdUVZMmtIMUVGZ0ZLYnBjR3FTWEI3UUdfdmI1bXR6NW9jRUVKdDIzT1hhS1pJb3ZTZVJj?oc=5",
-      "pub_date": 1791450127.0,
-      "article_url": "https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html",
+      "headline": "OpenAI annualised revenues $20bn less than previously signalled",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA?oc=5",
+      "pub_date": 1791477754.0,
+      "article_url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "Exclusive: Anthropic's plan to protect critical infrastructure",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM?oc=5",
-      "pub_date": 1791486012.0,
-      "article_url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Breaking down the future of the AI-driven market rally",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByOW5MOUEzWUVucVFUMTd3OG1MMm05TGdsMVA3TVBnMENoWnh5R1ZER1V5aTdaUG9UTGpPbGNzUzZZU0o1QUJmcDhGOFpRUjJWU2FIVFJJNHpJOTA?oc=5",
-      "pub_date": 1791486296.0,
-      "article_url": "https://www.foxbusiness.com/video/6406492219112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/75ab24d9-1ba1-4a5f-a78b-40e5ea9cfbab/74e23c08-3913-4ec4-8d2a-274fd903a082/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Wall Street Alliance Group founder Aadil Zaman joins \u2018Making Money\u2019 to analyze S&P 500 concentration and the AI-led market rally."
-    },
-    {
-      "headline": "Mark Cuban on why AI is the wrong job-killer target: it\u2019s the healthcare costs, stupid",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDNaZWxaQUlYT2NTSjZzenVHMzF2N29fQnp3ZEhyZFRuUk9JQzdMd1kwVzRFSDdhLTc4RVdJMGhwdUp1MjgwdzVXYWtqN2hzN2VOXzNBM1RudmwtOVZUVTNoUUpHMzNqaU9Dc0xPem9VU2V1QVFwSE1pbDc4amlJVDRHdWVDT0taZWZSTGh6djZFaDZLLTNPSzlVM2cxZVpxVUNEbWtiQTFFZWlRbGt0OGNNSUJaQQ?oc=5",
-      "pub_date": 1791486960.0,
-      "article_url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2293234087-e1791483386434.jpg?resize=1200,600",
-      "description": "It\u2019s far easier to blame AI than it is to blame Healthcare costs,\u201d the billionaire and founder of Cost Plus Drugs said. The math makes his point."
-    },
-    {
-      "headline": "Fired OpenAI workers tell company about concern over losing AI systems' chain of thought",
+      "headline": "Fired OpenAI employees raise concerns over AI safety, monitoring",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
-      "pub_date": 1791480522.0,
+      "pub_date": 1791497995.0,
       "article_url": "https://www.foxnews.com/live-news/ai-news-safety-detection-tech-10-08",
       "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/35d0b3aa0bb02e0d8b75cdf1025ffa02.jpg",
       "description": "Three former OpenAI employees are warning that increasingly advanced artificial intelligence models could become harder to monitor, urging the company to strengthen safety oversight and work with independent auditors, according to a report."
     },
     {
-      "headline": "What to know about Anthropic\u2019s \u2018Claude-led\u2019 biological discovery \u2014 and why scientists aren\u2019t convinced",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUzRFekFCZGVRTWVpRExUVWJkYTVGeFYxekkxMkpmYnRJSF9sNXdOd3BGd0NZVnhzakp0eWwxR3hTX2tqdUdOZXd3WjVZRlhZaDFkOHpoVElnanRZZXhwaEdweDRCTlVPVHEzRmxUWUpPVTU5Y0NTRHpJam5zZw?oc=5",
-      "pub_date": 1791467887.0,
-      "article_url": "https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/0f6064436a364b73ce0d2a80848ac56be7ae9ddd-1360x1160-v2.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Anthropic\u2019s claim its AI agents discovered an unusual pattern in viral DNA similar to what\u2019s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here\u2019s what to know."
+      "headline": "AI Chipmaker AMD, Just Off A Record High, Joins Group Of 16 New To Best Stock Lists",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUJ1SU5DdTZvMjVpNVhXcXlfZGc2Z1VuaGtSTl9SM2ZQUHYwamxCLWZjVnIwaERjbVpiS3lENjFJdlVHbFVBalBmLVgydl9aaDNOODFpOHZ5My12eEVBb3NlSmJBM1d2WGhGYjBEWkhwNEdZSGczaXdpeElxUTRjNk92THktTDFk?oc=5",
+      "pub_date": 1791501120.0,
+      "article_url": "https://www.investors.com/research/amd-joins-group-of-16-new-to-best-stock-lists/",
+      "image": "https://www.investors.com/wp-content/uploads/2018/03/ibdstocksupdate1.jpg",
+      "description": "Advanced Micro Devices, a rival to AI chip king Nvidia, hit a record high Monday and joined the Stock Spotlight stock watchlist Thursday."
     },
     {
-      "headline": "An AI boom is sending San Francisco rents through the roof: \u2018nowhere left for people to go\u2019",
+      "headline": "Anthropic is launching a 'presidential engagement' effort to advise candidates on AI policy ahead of the 2028 election",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSk9lbDZlSVFIVlZ1aXZKMzNxWkJudG1aVHN6cXc3bXhwTnVhMUZvcDZxdTlkNGVwR0ZEVEZUTzJCenlMN19TeDJ3cHdiU0dPMGVLWjlRbnBiMXVHX2lrTWx4ZlZnb25MdGZhTmdPdU1lQ3FibVQ0MFhaNmtuaG1OTmpQVnBMa1o2dEZBYXlJa192eWVFU0JyN0p3WEZFVlgtZk9LTkZPWXRseU83ZHo0?oc=5",
+      "pub_date": 1791501240.0,
+      "article_url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297781315-e1791491801228.jpg?resize=1200,600",
+      "description": "\u201cWe want every serious candidate and elected official, in both parties, to understand the technology and the case for governing it well.\u201d"
+    },
+    {
+      "headline": "Human vs ChatGPT NFL Week 5 betting picks: AI wins a round, but the human still leads the season",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlhsdF9KLUhoOUNvNWd1cjdqLU42WDhNYnZIb2UxdnFCNVpCajY1OHAxdlFqYlotaGY2RFQ1NGhRam1GajVPUzR4U2ljeUlLMXk2LWtja212V2dUTXplUGtBY2NzS2NadGRfbU5XQkZybUplRjc3bkYtZXpEWTY4M3pzRGpDdmUyMFhjemZkbTJLLWttR2daay1qVmdrTHpFYXhUWXNYZzM5WGxPX1FNaUJWeXhSTVd6aldZ?oc=5",
+      "pub_date": 1791501603.0,
+      "article_url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-5-betting-picks-ai-wins-round-human-still-leads-season",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jalen-hurts-philadelphia-eagles-rams.jpg",
+      "description": "ChatGPT finally beat the human analyst for a week, but the human still leads the season race as their NFL Week 5 cards collide over the 49ers and Seahawks."
+    },
+    {
+      "headline": "Why the National Hurricane Center bet big on AI to forecast Isaias",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tejFROFF1NmFoeU9KYkp5WUlMRThHUVdUbExSdlotQ1VpNENBR0hta3JUSUVxQzZjLUgyaXB6ZU8yd2xja25RelZsTWZnaDZpNS1ELVRCUlVGenQ4SGJ5WU1KejdoMWk5eUhzRkRFWkZMUVlSUEFXNC1nVTA?oc=5",
+      "pub_date": 1791476822.0,
+      "article_url": "https://www.cnn.com/2026/10/08/weather/hurricane-isaias-ai-models-google",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/image-20261008161147216.png?c=16x9&q=w_800,c_fill",
+      "description": "In forecasting Hurricane Isaias, meteorologists at the National Hurricane Center in Miami have shaped their predictions to closely match an AI hurricane model from Google DeepMind."
+    },
+    {
+      "headline": "An AI boom is sending San Francisco rents through the roof: \u2018Nowhere left for people to go\u2019",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzRHckpUaDVGTUdqN19CWkdWNUxVN2xMVHFFanpoZm1pM0lCV1VZa08zMmhIYmN0dHVzeEtRczlTcTlGVjJjZDlXODVBNkV5Y2hQa3ZHQVNBckczeWRzTlJFS1VvazhST0dWUE5sYzY0NF9MZFZNUEZfOWduU2ltcmVMOEV5OWxubFM3SEIxV1Z4OGZIdVY4?oc=5",
@@ -103,8 +83,28 @@
       "article_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
       "image": "https://i.guim.co.uk/img/media/280b6926a5f1afa4d45cfbfbcbdfd26718240e40/0_273_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5ab9cd38e0b72337d22f0d389c8443a",
       "description": "According to city\u2019s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homes"
+    },
+    {
+      "headline": "Trump says anyone who does not refer to AI as \u2018super intelligence\u2019 is \u2018THE ENEMY'",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5",
+      "pub_date": 1791490680.0,
+      "article_url": "https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+      "pub_date": 1791486441.0,
+      "article_url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T19:41:56.429626+00:00"
+  "fetched_at": "2026-10-09T00:09:58.007115+00:00"
 }

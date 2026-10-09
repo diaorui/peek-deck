@@ -35,34 +35,14 @@
       "description": "Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China\u2019s rapid advances in physical AI and calls for greater investment in South Korea\u2019s robotics industry."
     },
     {
-      "headline": "These Robots Built BMWs, Then Hurled Themselves Into Molten Steel",
-      "source": "The Drive",
-      "source_url": "https://www.thedrive.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBYZzhQanlmVXk4bVN3cG8yckF0YXlJV1F3SmFDcWdtWlNHakFjMzdTRHo3b3V1dGVuaGtDWDh4VldHdkRucU92VGxaMkdIemltcHo5OEJHNVd3LXE3WkdNRWY2QlFPT1J0bkd6QVZnaE5HRFN2cVlCUnpsRmx2bFQtN0FoM3ZxaVkzeDZiUnFsYV9ZOW55T1Nn?oc=5",
-      "pub_date": 1791303800.0,
-      "article_url": "https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-115500.jpg?quality=85&w=1200",
-      "description": "A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies."
-    },
-    {
-      "headline": "The Machines that Make the Machines | NVIDIA Technical Blog",
-      "source": "NVIDIA Developer",
-      "source_url": "https://developer.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ERWZxQVlHSDdYLVZMVDFRbi1xVmtPNjJJZTBwMmxYVVJrY3Z3YnRtRHRDYXVWN0R1VE9fa3hZX3N4X3dGbmMtcnBSdUxkWUZUZ1RmdmhCQmtWNzBGQjNXSncwWURUZEdsX3kwN1MyZE5HRG82MmJ6UGlR?oc=5",
-      "pub_date": 1791397408.0,
-      "article_url": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image-1790985193398.webp",
-      "description": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The NVIDIA Grace Blackwell GB300 superchip\u2026"
-    },
-    {
-      "headline": "Gecko Robotics, Anduril team up for new Baltimore County shipyard",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUw5a3d3SHZYc0U4V0IwX3haNl9JVkJadEw4ZHc5Qm5uODJ5Nm5RUUczTFpKM1gzNTJTSjJnYU5yMjl0VXUwLU1rNExGelpsbjJGTXpiMlV5dDZEODN2dmYxZnZpcjJaYnl6WFdFQURmSWZMcU5hRFkxZUpoQnRrbjJTbHp0VWczWl95UnhENlJpSXlRS01YN0h3UDMwaGFsamo4?oc=5",
-      "pub_date": 1791470206.0,
-      "article_url": "https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026-Proto-Factory-2-Web-1-scaled-e1791463881980.jpg",
-      "description": "Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components."
+      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
+      "pub_date": 1791500415.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
+      "image": null,
+      "description": null
     },
     {
       "headline": "A robot entered a Denver comedy club. (This isn\u2019t a joke.)",
@@ -75,6 +55,16 @@
       "description": null
     },
     {
+      "headline": "Gecko Robotics, Anduril team up for new Baltimore County shipyard",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUw5a3d3SHZYc0U4V0IwX3haNl9JVkJadEw4ZHc5Qm5uODJ5Nm5RUUczTFpKM1gzNTJTSjJnYU5yMjl0VXUwLU1rNExGelpsbjJGTXpiMlV5dDZEODN2dmYxZnZpcjJaYnl6WFdFQURmSWZMcU5hRFkxZUpoQnRrbjJTbHp0VWczWl95UnhENlJpSXlRS01YN0h3UDMwaGFsamo4?oc=5",
+      "pub_date": 1791470206.0,
+      "article_url": "https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026-Proto-Factory-2-Web-1-scaled-e1791463881980.jpg",
+      "description": "Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components."
+    },
+    {
       "headline": "This Disembodied Hand Is All the Robot You Need",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -85,26 +75,36 @@
       "description": "Multipurpose body parts could lead to more-flexible robot designs"
     },
     {
-      "headline": "Watch Sequoia, Nvidia Back Mecka AI\u2019s Robotics Push",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXI3YkpuaG00UkVZakdhX0RRQVZXZndON2R6d0FIelp4MWtBc2czRE9uN1ppeGFXTy1QWFZXb1ZhN1I5NkZBcU9ndGlHOWZEdVFjQnlsNm8zNzVXU3pMa1Q4aDFWYk50Qi1SOUZ0YmRrSEtKbG1VZy11LWxNN2VZUkFucV8zX2w2QTljWXBqczVQVFJ3QkhHWG9ERDNkbXdm?oc=5",
-      "pub_date": 1791396643.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video",
+      "headline": "US issues first outbound investment fine over Chinese robotics AI deal",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd01kSV85N0o3MDFlbThLT3hReUdWaUFjdkRDcEE5X1FkWEk0UHlXTnhFcElrRWpKRzJtNkZsUU5SQi1uNEZXVHhWeW9EN0czNHpQNWNFeXpld1ZrZnI3NkhUREhHMndwbWZ1THdNdHhHZ3JRcVZzZ3dyc2lxY0x4VGNVTU1rX3VuMmhJVkNQald2UkFIOENYbl8zYzJWRWlsQVlwN05RQUFkazFfeXdqVkdRYVBRODBpWjhYcGtSRlhqNUx6NGVR0gHHAUFVX3lxTFBCNGo2WVBWc2l0LWhwRDdCOHN3NXJXSnBjNEFuelJyOUJwdTNLdndjMnIwVjFZeE03dVJTd2pxOHBoWHZ5SmxEZVdvMF84QzNyb0x3NkR4N1hNWFpjSHo3X3BNYkRYSmpxdDhJMWhKVDVBRW51ZDBZdmFfZXRPaFNxMXVWZ3UwNVpTSTlYQ185dzRGYmR6b0lNZ3VuaGxRRVNlNkYwTG5NZ1NiVElGUHBGZFlGVmpRR0tGOGtvMzUzUk5YUlZ2aTQ?oc=5",
+      "pub_date": 1791401279.0,
+      "article_url": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal",
       "image": null,
       "description": null
     },
     {
-      "headline": "Mixed Human Feelings After a Day at a Park Full of Robots",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
-      "pub_date": 1791233729.0,
-      "article_url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "headline": "Threadlike motor uses sliding fibers to drive flexible robotic devices without gears",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNGYUcxV3puLUkxbEUybGN6Z1FPUEpOQWpzSzY1aFNiZkM5RTctaGRYU2ttS1oyZFlwM0huQ2xiekFlMHFIQTlnSXhSc3BMTUgtN1NUN1JTR0pGc05Wai1YMXBpR0p4NE5nTGpMVGVGcE9JOHZpUkxLQlNKbnFfSVlCai1TWXJo?oc=5",
+      "pub_date": 1791382813.0,
+      "article_url": "https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "FireFly Robotics files for Nasdaq direct listing",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlDaEwtTEw4V0tjU2diYkV2cG9BbGxJYmdBM2VUTzcxUXFOR1N6NWo5b2dpRkM3TkRtZFNhNDNKZGNjMlRfdDhMR2M2bVBFanI2aUJTUk5SakNSM1R2Z2hSRXpsUFU1dExIaWJQU2xvM2dmM1F4bjgwN1g4UWxsYW5MSWF5Nlk0eWJRS1FFNHlBOUE?oc=5",
+      "pub_date": 1791393703.0,
+      "article_url": "https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-08T19:41:46.908915+00:00"
+  "fetched_at": "2026-10-09T00:09:57.048648+00:00"
 }

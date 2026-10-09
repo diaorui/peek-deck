@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.08699",
       "arxiv_url": "https://arxiv.org/abs/2610.08699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 81,
+      "upvotes": 83,
       "num_comments": 1,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2610.05608",
       "arxiv_url": "https://arxiv.org/abs/2610.05608",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05608.png",
-      "upvotes": 154,
+      "upvotes": 156,
       "num_comments": 4,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/kandinskylab/kandinsky-6",
@@ -73,7 +73,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 110191,
+      "github_stars": 110269,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2610.02054",
       "arxiv_url": "https://arxiv.org/abs/2610.02054",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.02054.png",
-      "upvotes": 45,
+      "upvotes": 48,
       "num_comments": 2,
       "published_at": "2026-09-30T20:00:00.000Z",
       "github_repo": "https://github.com/UniWAM/UniWAM",
@@ -111,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
-      "github_stars": 994,
+      "github_stars": 1048,
       "project_page": null
     },
     {
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2610.08760",
       "arxiv_url": "https://arxiv.org/abs/2610.08760",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08760.png",
-      "upvotes": 32,
+      "upvotes": 33,
       "num_comments": 1,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/NoizAI/WorldSonus",
@@ -153,25 +153,6 @@
       "project_page": null
     },
     {
-      "id": "2407.16741",
-      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
-      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
-      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2407.16741",
-      "arxiv_url": "https://arxiv.org/abs/2407.16741",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 90,
-      "num_comments": 7,
-      "published_at": "2024-07-23T13:50:43.000Z",
-      "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 90263,
-      "project_page": null
-    },
-    {
       "id": "2309.06180",
       "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
       "authors": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/vllm-project/vllm",
       "github_stars": 86094,
       "project_page": null
+    },
+    {
+      "id": "2407.16741",
+      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
+      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2407.16741",
+      "arxiv_url": "https://arxiv.org/abs/2407.16741",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
+      "upvotes": 90,
+      "num_comments": 7,
+      "published_at": "2024-07-23T13:50:43.000Z",
+      "github_repo": "https://github.com/opendevin/opendevin",
+      "github_stars": 90300,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-08T19:41:28.408430+00:00"
+  "fetched_at": "2026-10-09T00:09:44.040996+00:00"
 }
