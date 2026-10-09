@@ -35,6 +35,39 @@
       "description": "Wikimedia Foundation, the organization that hosts Wikipedia and other major wiki-based collaboration projects, is once again clashing with AI companies over their alleged abuse of its servers...."
     },
     {
+      "title": "\u201cJust a wrapper\u201d is starting to feel like a pretty lazy criticism",
+      "author": "polopat96",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1clr3/just_a_wrapper_is_starting_to_feel_like_a_pretty/",
+      "published": 1791522177.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Okay, I\u2019m curious where people land on this, because I\u2019m starting to lose track of what we mean by \u201cjust a wrapper.\u201d Sometimes it seems to mean an app barely does anything. Other times it seems to mean someone used a model they didn\u2019t personally raise from birth. Take the recent Genspark launch as an example. They took MiniMax M3 and worked with Fireworks to post-train it specifically for making presentations, inside the system that actually builds the decks. They\u2019re using someone else\u2019s foundation, but also changing the model for a particular job. That seems worth distinguishing from putting a chat box behind a subscription. Personally, I care more about what the company adds and whether it can show the difference. Better tools and workflow can matter without training. Changing the weights can matter too, but \u201cwe trained a model\u201d shouldn\u2019t get a free pass if the output is still a mess. Maybe I\u2019m overthinking an internet insult lol. But where do you draw the line? Is \u201cwrapper\u201d still a useful description, or have we stretched it to cover too many different things? Curious how yall here think about it."
+    },
+    {
+      "title": "OpenAI rolls out GPT-6 with Intelligent UI \u2014 ChatGPT answers can now include interactive tools",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1x17pdr/openai_rolls_out_gpt6_with_intelligent_ui_chatgpt/",
+      "published": 1791506771.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI started rolling out GPT-6 with Intelligent UI in ChatGPT this week. Instead of plain text, answers can now include interactive charts, forms, and mini tools \u2014 a savings calculator, a bill splitter, a road-trip map \u2014 generated right inside the conversation. It is a small but exciting shift: software that adapts to your task instead of you having to learn the software."
+    },
+    {
+      "title": "USA TODAY sues OpenAI over training on 19 publications",
+      "author": "ryanmerket",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1b3dh/usa_today_sues_openai_over_training_on_19/",
+      "published": 1791517127.0,
+      "thumbnail": "https://external-preview.redd.it/bEe08D1NnOnqmFn_WZ1PnaTrTvZmDNcxVkchNlkbHXQ.jpeg?width=640&crop=smart&auto=webp&s=77cc6958956de856846cea7198c2ff86673f8b05",
+      "external_url": "https://runtimewire.com/article/usa-today-openai-copyright-lawsuit-october-2026",
+      "site_name": "RuntimeWire",
+      "favicon": "https://runtimewire.com/apple-touch-icon.png",
+      "description": "USA TODAY Co. and affiliated newspapers sued OpenAI in Manhattan, alleging unlicensed training on content from 19 publications and seeking more than $250 million."
+    },
+    {
       "title": "Why are people using ChatGPT for menu generation?",
       "author": "sirebral",
       "url": "https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/",
@@ -44,17 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Just wondering what's up with ChatGPT and the horrible/gross looking food menus. Example attached is from Gemini on a few items that usually look horrible on menus, it can do it just fine. Heck, open weight models can do this stuff as well. Why does everyone keep using a horrible model to produce their menus. I reside in Thailand and I see it in the wild all over the place. I tried to prompt Gemini to make me a bowl of ChatGPT rice, and think I got pretty close by asking it to \"generate a photo of a bowl of the rice looks like it was made out of fractals and aquarium rocks\"."
-    },
-    {
-      "title": "Researchers are already significantly improving on OpenAI\u2019s recent math results, verified in Lean",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/",
-      "published": 1791440623.0,
-      "thumbnail": "https://preview.redd.it/aebuy8fns6uh1.jpeg?width=640&crop=smart&auto=webp&s=e534d24f4889590e7cf8168dab551a83989128be",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So much for the \u201cwe don\u2019t learn anything from these slop proofs!\u201d excuse https://github.com/CrocSwap/integer-mult-bounds"
     },
     {
       "title": "Mathematicians marvel, and grumble, at OpenAI\u2019s trove of new results",
@@ -68,17 +90,6 @@
       "description": "The \u201cslop drop\u201d contains a number of groundbreaking results, but how it was generated remains unclear and contentious"
     },
     {
-      "title": "Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/",
-      "published": 1791430651.0,
-      "thumbnail": "https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&crop=smart&auto=webp&s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0",
-      "external_url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
-      "site_name": "terrytao.wordpress.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
       "author": "Dances_With_Seagulls",
       "url": "https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/",
@@ -90,27 +101,16 @@
       "description": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties."
     },
     {
-      "title": "Gamma 5 launched yesterday. I used it for an hour, my review",
-      "author": "Madmahi25",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/",
-      "published": 1791454668.0,
-      "thumbnail": "https://preview.redd.it/4qe2xdhhy7uh1.jpeg?width=640&crop=smart&auto=webp&s=ce6b2d8ace7b778cebb0876ecb39fa96c6ad7333",
+      "title": "Researchers are already significantly improving on OpenAI\u2019s recent math results, verified in Lean",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/",
+      "published": 1791440623.0,
+      "thumbnail": "https://preview.redd.it/aebuy8fns6uh1.jpeg?width=640&crop=smart&auto=webp&s=e534d24f4889590e7cf8168dab551a83989128be",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Gamma rebuilt its presentation tool and called it Gamma 5. So rn it is an AI agent that talks through your outline with you, plus a freeform canvas, more themes, around 20 connectors and PPT/PDF import. The major problems of gamma was ai smells, now this time they are removing it, AI removing ai smells lol but its way better than the previous ones. So the ai agents asked me two questions, searched the web and wrote an outline in under 30 seconds. But the new home prompt gave me a blank page and I had to use the classic generator to get in. Haven't touched the canvas, so I can't say anything on it."
-    },
-    {
-      "title": "New AI can reconstruct what you\u2019re looking at by reading brain activity",
-      "author": "Brighter-Side-News",
-      "url": "https://www.reddit.com/r/artificial/comments/1x16wiz/new_ai_can_reconstruct_what_youre_looking_at_by/",
-      "published": 1791504399.0,
-      "thumbnail": "https://external-preview.redd.it/PRL3-I9jRdrsI86RrITONR7mwaevJcZ11Km58YnbFv4.png?width=640&crop=smart&auto=webp&s=f51617850929b606edf7ea18b1c7fafd075ff5dc",
-      "external_url": "http://thebrighterside.news/post/new-ai-can-reconstruct-what-youre-looking-at-by-reading-brain-activity",
-      "site_name": "The Brighter Side of News",
-      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
-      "description": "A dog in a bathtub became a similarly colored goat. A cake turned into three sandwiches. These mistakes reveal the limits of an AI system that can otherwise reconstruct surprisingly detailed images from the brain activity of someone viewing them. Called Brain-IT, the system comes from Michal Irani\u2019s laboratory at the Weizmann Institute of Science in Rehovot, Israel. Its reconstruction study appeared in the proceedings of the 2026 International Conference on Learning Representations. Related work on a universal brain encoder was presented at the Conference on Cognitive Computational Neuroscience. Together, the projects tackle two directions of the same problem: predicting brain responses to images and reconstructing images from those responses. The demonstrated task concerns pictures viewed during scanning, while applications involving dreams or patient communication remain research ambitions."
+      "description": "So much for the \u201cwe don\u2019t learn anything from these slop proofs!\u201d excuse https://github.com/CrocSwap/integer-mult-bounds"
     }
   ],
-  "fetched_at": "2026-10-09T00:09:36.282946+00:00"
+  "fetched_at": "2026-10-09T06:29:59.797298+00:00"
 }
