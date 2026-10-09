@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-08T19:41:57.665433+00:00'
+updated: '2026-10-09T00:09:59.336455+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 08, 2026 at 19:41 UTC  
+**Last Updated:** October 09, 2026 at 00:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,432.96
+### $2,476.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** -7.7%  
-**30d:** -0.2%  
-**90d:** +37.7%  
-**1y:** -43.6%  
+**24h:** -4.0%  
+**7d:** -7.9%  
+**30d:** +1.5%  
+**90d:** +37.1%  
+**1y:** -35.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $300.22B
+**Market Cap:** $302.34B
 Rank #2
 
 **Circulating Supply:** 122,116,138 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.3%
+-49.9%
 
 **All-Time Low:** $0.43
-+567735.9%
++571671.4%
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't been following up with eth for a while. Can anyone let me know whats and when the next upgrade to the protocol?
 
-5d ago
+6d ago
 
 ---
 
@@ -152,7 +152,7 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.
 
-CoinDesk • 9h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 9h ago
 
 Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results.
 
-Business Insider • 3h ago
+Business Insider • 8h ago
 
 ---
 
@@ -168,7 +168,18 @@ Business Insider • 3h ago
 
 Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.
 
-Decrypt News • 2h ago
+Decrypt News • 7h ago
+
+---
+
+**[JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near](https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-puts-jltxx-on-ethereum-as-stablecoin-rese)**
+
+JPMorgan Chase (NYSE:JPM) launched JLTXX, a tokenized money market fund on Ethereum, expanding its digital asset infrastructure offering.
+The JLTXX fund is positioned for use by U.S. stablecoin issuers seeking eligible reserve assets ahead of the GENIUS Act rules starting January 2027.
+JPMorgan and BlackRock are emerging as key providers of tokenized reserve funds for stablecoin issuers preparing for upcoming U.S. regulation.
+The launch of JLTXX on Ethereum is only one piece of JPMorgan's...
+
+Simply Wall Street • 1h ago
 
 ---
 
@@ -186,22 +197,6 @@ Barron's • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, October 7, 2026: Crypto prices fade along with risk appetite](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-7-2026-crypto-prices-fade-along-with-risk-appetite-113324902.html)**
-
-Bitcoin opened at $85,546.23 on Wednesday, October 7, 2026, down 0.3% compared with Tuesday's opening price. As of 7:17 a.m. ET this morning, the price of bitcoin moved lower to $83,771.28 Ethereum opened at $2,697.32, down 0.5% from Tuesday's opening price. The price of ethereum moved down this morning to $2,580.58 as of 7:17 a.m. ET.
-
-Yahoo Finance • 1d ago
-
----
-
-**[The CFTC Lists XRP and Stellar as Digital Commodities Alongside Bitcoin and Ethereum. Is XRP Officially Not a Security?](https://247wallst.com/investing/cryptocurrency/2026/10/07/the-cftc-lists-xrp-and-stellar-as-digital-commodities-alongside-bitcoin-and-ethereum-is-xrp-officially-not-a-security/)**
-
-The CFTC's new proposals list XRP as a digital commodity next to Bitcoin. Here's what that means for XRP holders and what's still open.
-
-24/7 Wall St. • 1d ago
-
----
-
 **[Current price of Ethereum for October 7, 2026](https://fortune.com/article/price-of-ethereum-10-07-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -214,7 +209,7 @@ Fortune • 1d ago
 
 At the renowned crypto event, Token2049, Tom Lee, the chairman of BitMine Immersion Technologies, addressed the company's Ethereum accumulation strategy.At the event, Tom Lee publicly declared that the company will stop accumulating Ethereum once its holdings reach 5% of Ethereum's total supply.Bit…
 
-TradingView • 7h ago
+TradingView • 11h ago
 
 ---
 
@@ -222,7 +217,15 @@ TradingView • 7h ago
 
 In a few years, Ethereum could transform from a "blockchain" into a "cryptographic world computer."
 
-The Motley Fool • 9h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Ethereum and XRP cryptos fall by 6%: Are these altcoins entering a buy zone?](https://ambcrypto.com/ethereum-and-xrp-cryptos-fall-by-6-are-these-altcoins-entering-a-buy-zone/)**
+
+The altcoin rally is losing steam in October.
+
+AMBCrypto • 12h ago
 
 ---
 
@@ -236,17 +239,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 93 • 💬 36 • ⏱️ 19:57 • 2h ago
+👁️ 7K • 👍 196 • 💬 16 • ⏱️ 19:57 • 7h ago
 
 ---
 
-**[BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dAePM0b8diM)**
+**[Bearish Trends Pinning Bitcoin &amp; Ethereum as CFTC, SEC Seek Federal Clarity](https://www.youtube.com/watch?v=uRuP74J_44A)**
 
-BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Adam Lynch (@CharlesSchwab) recaps the recent bout of crypto weakness after Bitcoin tapped $87000 just a couple weeks prior.
 
-📺 Crypto World
+📺 Schwab Network
 
-👁️ 3K • 👍 206 • 💬 60 • ⏱️ 21:48 • 2h ago
+👁️ 1K • 👍 24 • ⏱️ 4:29 • 3h ago
+
+---
+
+**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=3y_VP6TzmD0)**
+
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 435 • 👍 9 • 💬 2 • ⏱️ 3:03 • 5h ago
 
 ---
 
@@ -256,17 +269,27 @@ Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redir
 
 📺 Crypto Archie
 
-👁️ 953 • 👍 53 • ⏱️ 9:22 • 5h ago
+👁️ 2K • 👍 72 • ⏱️ 9:22 • 10h ago
 
 ---
 
-**[OG ETH/BTC Developer Gives Major Warning..! Ripple, Chainlink, Solana News! IMF Warns France!?!](https://www.youtube.com/watch?v=VYHm49ImRvc)**
+**[Ethereum Flashed a Signal Last Seen at THE BOTTOM!!](https://www.youtube.com/watch?v=I6g9Ndc9b7Y)**
 
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
 
-📺 AllinCrypto
+📺 Marzell Crypto
 
-👁️ 16K • 👍 649 • 💬 121 • ⏱️ 13:47 • 7h ago
+👁️ 65 • 👍 6 • 💬 1 • ⏱️ 3:14 • 1h ago
+
+---
+
+**[BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dAePM0b8diM)**
+
+BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 318 • 💬 74 • ⏱️ 21:48 • 7h ago
 
 ---
 
@@ -276,27 +299,7 @@ Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provi
 
 📺 CNBC International Live
 
-👁️ 10K • 👍 78 • 💬 16 • ⏱️ 4:19 • 11h ago
-
----
-
-**[Ethereum (ETH) Starts a Pullback: How Deep Will It Go?](https://www.youtube.com/watch?v=m4bl7C0vphc)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 13K • 👍 282 • 💬 17 • ⏱️ 8:42 • 15h ago
-
----
-
-**[Crypto&#39;s Bullish &amp; Bearish Macro Signals, Bitcoin &amp; Ethereum&#39;s Technical Picture](https://www.youtube.com/watch?v=D5ujHoLCuJo)**
-
-Nathan Peterson of @CharlesSchwab addresses the abundance of macro headlines he sees moving cryptocurrencies. Among ...
-
-📺 Schwab Network
-
-👁️ 5K • 👍 43 • 💬 1 • ⏱️ 7:03 • 21h ago
+👁️ 11K • 👍 83 • 💬 16 • ⏱️ 4:19 • 15h ago
 
 ---
 
@@ -310,23 +313,23 @@ Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody re
 
 ---
 
-**[🔥 Ethereum Upgrade Is Close - ETH Crypto Analysis](https://www.youtube.com/watch?v=K3AVBoCrDK8)**
+**[OG ETH/BTC Developer Gives Major Warning..! Ripple, Chainlink, Solana News! IMF Warns France!?!](https://www.youtube.com/watch?v=VYHm49ImRvc)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/ON28dbx4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 Bitcoin Strategy
+📺 AllinCrypto
 
-👁️ 5K • 👍 104 • 💬 13 • ⏱️ 10:14 • 20h ago
+👁️ 20K • 👍 718 • 💬 124 • ⏱️ 13:47 • 11h ago
 
 ---
 
-**[Tom Lee Just Said The UNTHINKABLE About Ethereum &amp; Bitcoin! [Load Up Before November]](https://www.youtube.com/watch?v=Ymx55X-Sou8)**
+**[Crypto&#39;s Bullish &amp; Bearish Macro Signals, Bitcoin &amp; Ethereum&#39;s Technical Picture](https://www.youtube.com/watch?v=D5ujHoLCuJo)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Nathan Peterson of @CharlesSchwab addresses the abundance of macro headlines he sees moving cryptocurrencies. Among ...
 
-📺 Crypto Nutshell
+📺 Schwab Network
 
-👁️ 16K • 👍 318 • 💬 38 • ⏱️ 19:12 • 2d ago
+👁️ 5K • 👍 43 • 💬 1 • ⏱️ 7:03 • 1d ago
 
 ---
 

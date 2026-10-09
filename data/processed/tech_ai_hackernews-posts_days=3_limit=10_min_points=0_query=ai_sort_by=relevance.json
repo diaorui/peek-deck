@@ -9,8 +9,8 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "hn_url": "https://news.ycombinator.com/item?id=49984923",
       "author": "OfficialTurkey",
-      "points": 1315,
-      "num_comments": 1488,
+      "points": 1321,
+      "num_comments": 1498,
       "created_at": "2026-10-06T22:17:21Z",
       "object_id": "49984923",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
@@ -23,8 +23,8 @@
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49997161",
       "author": "speckx",
-      "points": 363,
-      "num_comments": 379,
+      "points": 367,
+      "num_comments": 381,
       "created_at": "2026-10-07T18:49:40Z",
       "object_id": "49997161",
       "image": "https://cdn.rswebsols.com/wp-content/uploads/2025/10/otr1by4mkru.jpg",
@@ -37,7 +37,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "hn_url": "https://news.ycombinator.com/item?id=49980715",
       "author": "fsbonetto",
-      "points": 340,
+      "points": 341,
       "num_comments": 399,
       "created_at": "2026-10-06T16:23:25Z",
       "object_id": "49980715",
@@ -93,7 +93,7 @@
       "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
       "hn_url": "https://news.ycombinator.com/item?id=49993121",
       "author": "bluepeter",
-      "points": 116,
+      "points": 117,
       "num_comments": 54,
       "created_at": "2026-10-07T14:10:55Z",
       "object_id": "49993121",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49990204",
       "author": "signa11",
       "points": 77,
-      "num_comments": 109,
+      "num_comments": 112,
       "created_at": "2026-10-07T09:15:00Z",
       "object_id": "49990204",
       "image": "https://www.sicpers.info/wp-content/uploads/2026/08/cropped-sicpers_logo_precision.jpg",
@@ -145,7 +145,7 @@
       "site_name": "Structure and Interpretation of Computer Programmers"
     }
   ],
-  "total_hits": 686,
+  "total_hits": 694,
   "has_metadata": true,
-  "fetched_at": "2026-10-08T19:41:16.621366+00:00"
+  "fetched_at": "2026-10-09T00:09:32.790205+00:00"
 }
