@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-08T19:41:57.661239+00:00'
+updated: '2026-10-09T00:09:59.332334+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 08, 2026 at 19:41 UTC  
+**Last Updated:** October 09, 2026 at 00:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,494.47
+### $81,815.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -3.2%  
-**30d:** +4.4%  
-**90d:** +28.1%  
-**1y:** -32.8%  
+**24h:** -1.6%  
+**7d:** -3.5%  
+**30d:** +6.7%  
+**90d:** +28.2%  
+**1y:** -27.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1642.52B
+**Market Cap:** $1642.38B
 Rank #1
 
-**Circulating Supply:** 20,095,343 BTC
+**Circulating Supply:** 20,095,428 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -35.2%
 
 **All-Time Low:** $67.81
-+120441.2%
++120422.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 64
+### 59
 **GREED**
 
 ---
@@ -121,7 +121,7 @@ I was so happy when I saw this!
 
 Cory Klippsten on Washington's growing comfort with higher inflation, and why his answer is Bitcoin. In his latest Time interview, President Trump said "certain levels of inflation will also pay off that debt very rapidly." On CNN, former PIMCO CEO Mohamed El-Erian told the Fed to keep promising 2% while gradually raising the acceptable ceiling to 3. Back in 2023, former IMF chief economist Olivier Blanchard argued for a 3% target. Others are warning where this leads. J.P. Morgan Private Bank's 2026 Outlook described a risk to its clients: policymakers deliberately tolerating higher inflation, allowing real interest rates to fall and the government's debt burden to shrink. The report calls that financial repression. In January, Janet Yellen warned that "the temptation to rely on inflation or financial repression to reduce the debt burden will surely grow." Inflation lets the government repay its old debts with dollars that are worth less, even though higher refinancing costs can eat up the benefit. Congress can raise taxes or cut spending, and voters know exactly who to blame. With inflation, the cost arrives through higher prices, and the blame gets spread around. What sounds like debt relief in Washington means the dollars people earn and save buy less.
 
-1d ago
+2d ago
 
 ---
 
@@ -129,7 +129,7 @@ Cory Klippsten on Washington's growing comfort with higher inflation, and why hi
 
 i'm not even in the market. i'm in the waiting room.
 
-2d ago
+3d ago
 
 ---
 
@@ -151,51 +151,37 @@ It's lower level than money. It is the system that allows you to have electronic
 
 ## Google News: "bitcoin"
 
-**[Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today](https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto)**
+**[Bitcoin falls below $83,000, dragging down Coinbase, Robinhood, and Strategy stocks](https://finance.yahoo.com/markets/article/bitcoin-falls-below-83000-dragging-down-coinbase-robinhood-and-strategy-stocks-144942149.html)**
 
-Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.
+Bitcoin tumbled on Wednesday amid a broader market selloff.
 
-CoinDesk • 9h ago
-
----
-
-**[Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range](https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052)**
-
-QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook.
-
-The Block • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why](https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398)**
+**[Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin](https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/)**
 
-WSJ • 8h ago
+The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
+
+Investor's Business Daily • 6h ago
 
 ---
 
-**[US government quietly offloads $770M in bitcoin](https://finance.yahoo.com/video/us-government-quietly-offloads-770m-in-bitcoin-160228123.html)**
+**[Ex-BitMEX CEO Arthur Hayes is betting the AI data center boom will crash and boost bitcoin](https://qz.com/arthur-hayes-bitmex-ai-data-center-crash-bitcoin-100726)**
 
-Scott Melker discusses why bitcoin (BTC-USD) exchange-traded funds (ETFs) have lost millions of dollars this year, why the US government is selling $770M in bitcoin and explains what crypto investors need to know about Securitize's (SECZ) newly launched tokenized stock trading.
+Hayes says the AI infrastructure buildout mirrors past technology overbuild cycles that ended in crashes and government bailouts
+
+Quartz • 1d ago
+
+---
+
+**[US government moved $770M worth of bitcoin onto Coinbase Prime](https://finance.yahoo.com/video/us-government-moved-770m-worth-of-bitcoin-onto-coinbase-prime-172759212.html)**
+
+Scott Melker discusses reports of the US government-linked wallets moving $770 million of bitcoin (BTC-USD) onto Coinbase's (COIN) Prime platform.
 
 "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
-Yahoo Finance • 3h ago
-
----
-
-**[U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale](https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated)**
-
-Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.
-
-CoinDesk • 42m ago
-
----
-
-**[US government moves 17,795 Bitcoin worth $1.5 billion in three days](https://www.tradingview.com/news/cryptobriefing:a75e8eb14094b:0-us-government-moves-17-795-bitcoin-worth-1-5-billion-in-three-days/)**
-
-The US government has moved 17,795 Bitcoin worth $1.5 billion over the past three days.When the world's largest known sovereign Bitcoin holder starts moving coins, traders pay attention. The bigger question is not whether the coins moved. It is what Washington plans to do with them.On-chain tracker…
-
-TradingView • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -203,31 +189,45 @@ TradingView • 5h ago
 
 Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin’s pullback, rate uncertainty, regulation and what could come next.
 
-Cheddar • 3h ago
+Cheddar • 8h ago
 
 ---
 
-**[Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years](https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years)**
+**[Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why](https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398)**
 
-A batch of Bitcoin mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but data doesn't show who owns it.
-
-Decrypt News • 55m ago
+WSJ • 12h ago
 
 ---
 
-**[South African banking giant opens Bitcoin trading to nearly nine million customers through VALR deal](https://africa.businessinsider.com/local/markets/south-african-banking-giant-opens-bitcoin-trading-to-nearly-nine-million-customers/4wct3bl)**
+**[AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez](https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration)**
 
-South Africa’s FNB has launched crypto investing through VALR, offering five digital assets within its banking platform while restricting external transfers
+Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising
 
-Business Insider Africa • 1d ago
+Bitcoin Magazine • 4h ago
 
 ---
 
-**[Bitcoin ETFs suffer biggest exodus since June as Ethereum withdrawals hit nine-month high](https://cryptoslate.com/bitcoin-etfs-suffer-biggest-exodus-since-june-as-ethereum-withdrawals-hit-nine-month-high/)**
+**[Sui’s Hashi Bitcoin Finance Network Launches With More Than $500 Million Committed](https://www.tradingview.com/news/newsbtc:f7500dc3a094b:0-sui-s-hashi-bitcoin-finance-network-launches-with-more-than-500-million-committed/)**
 
-Bitcoin ETFs lost $484.9 million on Oct. 7, their largest daily outflow since June, while Ethereum funds continued their outflow streak.
+TL;DR: Hashi, Sui’s native Bitcoin finance infrastructure, will begin a phased mainnet rollout later this month with more than $500 million in committed capital. Anchorage Digital has joined the launch coalition, giving institutional clients routes into Hashi through qualified custody and self-cust…
 
-CryptoSlate • 4h ago
+TradingView • 6h ago
+
+---
+
+**[Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range](https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052)**
+
+QCP expects bitcoin to trade between $80,000 and $90,000 in the fourth quarter, with ETF flows a key factor in its outlook.
+
+The Block • 9h ago
+
+---
+
+**[US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker](https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex)**
+
+A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.
+
+Decrypt News • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone p
 
 Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
 
-⬆️ 2 • 💬 0 • 1d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
+⬆️ 2 • 💬 0 • 2d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
 
 ---
 
@@ -289,19 +289,27 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 **[Ask HN: How do you use AI for building in public?](https://news.ycombinator.com/item?id=50002798)**
 
-⬆️ 2 • 💬 0 • 12h ago
+⬆️ 2 • 💬 0 • 16h ago
 
 ---
 
 **[The AI Agents Pitching Lit Mags to Stay Alive](https://news.ycombinator.com/item?id=50000115)**
 
-⬆️ 2 • 💬 0 • 20h ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
+⬆️ 2 • 💬 0 • 1d ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
 
 ---
 
 **[How Does Yamamoto Do What He Does? Toyota-Like Mechanics](https://news.ycombinator.com/item?id=50007625)**
 
-⬆️ 2 • 💬 0 • 3h ago • [robbinsathletics.com](https://robbinsathletics.com/yamamoto-pitching-mechanics/)
+⬆️ 2 • 💬 0 • 7h ago • [robbinsathletics.com](https://robbinsathletics.com/yamamoto-pitching-mechanics/)
+
+---
+
+**[Microsoft 365 subscriptions now use shared cloud storage](https://news.ycombinator.com/item?id=50012149)**
+
+Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.
+
+⬆️ 1 • 💬 0 • 3h ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
 
 ---
 
@@ -309,13 +317,23 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ## YouTube Videos: "bitcoin"
 
+**[The Paper Bitcoin Trap That Could Keep Bitcoin From $1 Million!](https://www.youtube.com/watch?v=43kv4MhSPts)**
+
+Bitcoin just crashed to $80000 as a new debate erupts over paper Bitcoin, Michael Saylor's digital credit strategy, ETF outflows ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 656 • 💬 46 • ⏱️ 15:34 • 3h ago
+
+---
+
 **[Bitcoin And Alts Collapse: Where I’ll Load Up (Hint: Very Close!)](https://www.youtube.com/watch?v=lsTV45IxjMA)**
 
 No B.S. Just Charts. Bitcoin is in a full liquidity flush, and Gareth Soloway maps the exact Bitcoin price levels where he plans to ...
 
 📺 Gareth Soloway
 
-👁️ 10K • 👍 1K • 💬 61 • ⏱️ 16:07 • 1h ago
+👁️ 53K • 👍 3K • 💬 222 • ⏱️ 16:07 • 5h ago
 
 ---
 
@@ -325,27 +343,17 @@ Two headlines made it look like Bitcoin was being dumped. Half a billion dollars
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 189 • 💬 70 • ⏱️ 15:00 • 2h ago
+👁️ 14K • 👍 326 • 💬 81 • ⏱️ 15:00 • 6h ago
 
 ---
 
-**[The Man Who Called the Dot-Com Crash Says Bitcoin Will Go to Zero](https://www.youtube.com/watch?v=VnmIYWCGy2g)**
+**[BlackRock CONFIRMED That The Floodgates are Opening to Bitcoin | EP 1609](https://www.youtube.com/watch?v=zFLj444PC7E)**
 
-Access my FREE Bitcoin Price Model: ...
+Blackrock says ETF opening the floodgates - but flows this week been slow adding to low volume environment ...
 
-📺 Mark Moss
+📺 Simply Bitcoin
 
-👁️ 17K • 👍 814 • 💬 174 • ⏱️ 22:14 • 4h ago
-
----
-
-**[THIS IS WHY BITCOIN IS DUMPING!!!!](https://www.youtube.com/watch?v=hge07Y3Z9KM)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXreward Deposit, trade ...
-
-📺 The Moon Show
-
-👁️ 5K • 👍 379 • 💬 61 • ⏱️ 5:54 • 2h ago
+👁️ 8K • 👍 215 • 💬 10 • ⏱️ 1:13:18 • 6h ago
 
 ---
 
@@ -355,57 +363,57 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 2K • 💬 199 • ⏱️ 20:29 • 2h ago
+👁️ 73K • 👍 4K • 💬 282 • ⏱️ 20:29 • 7h ago
 
 ---
 
-**[BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dAePM0b8diM)**
+**[Stop Guessing Bitcoin’s Price. Use This Equation.](https://www.youtube.com/watch?v=VnmIYWCGy2g)**
 
-BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Access my FREE Bitcoin Price Model: ...
 
-📺 Crypto World
+📺 Mark Moss
 
-👁️ 3K • 👍 206 • 💬 60 • ⏱️ 21:48 • 2h ago
-
----
-
-**[BTC ETFs DUMP COINS! HUGE Solana News &amp; Talking Bitcoin With Mr M](https://www.youtube.com/watch?v=bsFHifxq6gg)**
-
-BTC and ETH ETFs Dump coins, Talking crypto with Mr M Podcast BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 473 • 💬 42 • ⏱️ 1:11:20 • 6h ago
+👁️ 47K • 👍 1K • 💬 235 • ⏱️ 22:14 • 8h ago
 
 ---
 
-**[BITCOIN AND ALTCOINS ARE DUMPING: I&#39;M BUYING HERE](https://www.youtube.com/watch?v=ClTXONuZ6FU)**
+**[CRYPTO Is Crashing! (THIS Is What Bull Markets Are Made Of)](https://www.youtube.com/watch?v=7hO5PWvhQ68)**
 
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+CCV Crypto Risk Models Trial - https://app.cryptocapitalventure.ai/risk-metric Crypto prices are crashing and we get a much ...
 
-📺 Crypto Kid
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 181 • 💬 21 • ⏱️ 10:18 • 3h ago
-
----
-
-**[Bitcoin: Look Out Below! 🚨](https://www.youtube.com/watch?v=HprQfU0j0OI)**
-
-This is all about why the next big crypto crash could be upon us. Major level broken. Big news for all Bitcoin, Ethereum, Solana ...
-
-📺 Investing Made Simple
-
-👁️ 11K • 👍 468 • ⏱️ 11:16 • 6h ago
+👁️ 18K • 👍 680 • 💬 173 • ⏱️ 26:13 • 6h ago
 
 ---
 
-**[BITCOIN: THIS IS SCARY! [CRASH IS COMING]](https://www.youtube.com/watch?v=4ueYVbSvkx0)**
+**[Bitcoin Faces Oil and a Bond Selloff](https://www.youtube.com/watch?v=vGzkylW2cM8)**
 
-WEEX: https://themoon.co/DailyWEEX UP TO $60000 BONUS BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 24K • 👍 718 • 💬 57 • ⏱️ 36:51 • 9h ago
+
+---
+
+**[BITCOIN CRASHING! Is The Bull Market Over?](https://www.youtube.com/watch?v=gVD11lZjt4g)**
+
+What does this Bitcoin crash mean for altcoins and the bull cycle? We're live breaking down BTC's weakness, the government's ...
+
+📺 EllioTrades
+
+👁️ 13K • 👍 322 • 💬 13 • ⏱️ 1:39:16 • 5h ago
+
+---
+
+**[THIS IS WHY BITCOIN IS DUMPING!!!!](https://www.youtube.com/watch?v=hge07Y3Z9KM)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXreward Deposit, trade ...
 
 📺 The Moon Show
 
-👁️ 6K • 👍 238 • 💬 24 • ⏱️ 8:32 • 4h ago
+👁️ 15K • 👍 577 • 💬 65 • ⏱️ 5:54 • 7h ago
 
 ---
 
