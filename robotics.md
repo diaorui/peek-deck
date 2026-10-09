@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-08T19:41:57.667683+00:00'
+updated: '2026-10-09T00:09:59.338676+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 08, 2026 at 19:41 UTC  
+**Last Updated:** October 09, 2026 at 00:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-21h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-18h ago
+22h ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-18h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-1d ago
+2d ago
 
 ---
 
@@ -106,7 +106,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-18h ago
+22h ago
 
 ---
 
@@ -118,7 +118,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
 
-MIT Technology Review • 10h ago
+MIT Technology Review • 15h ago
 
 ---
 
@@ -126,7 +126,7 @@ MIT Technology Review • 10h ago
 
 Full-stack safety solution for physical AI is being used by robotics companies.
 
-Ars Technica • 8h ago
+Ars Technica • 12h ago
 
 ---
 
@@ -134,23 +134,19 @@ Ars Technica • 8h ago
 
 Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China’s rapid advances in physical AI and calls for greater investment in South Korea’s robotics industry.
 
-Fox News • 1h ago
+Fox News • 5h ago
 
 ---
 
-**[These Robots Built BMWs, Then Hurled Themselves Into Molten Steel](https://www.thedrive.com/news/these-robots-built-bmws-then-hurled-themselves-into-molten-steel)**
+**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
 
-A robotics startup needed to decommission its old units and leave no trace, so it decided to go about that in a way only seen in movies.
-
-The Drive • 2d ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[The Machines that Make the Machines | NVIDIA Technical Blog](https://developer.nvidia.com/blog/the-machines-that-make-the-machines/)**
+**[A robot entered a Denver comedy club. (This isn’t a joke.)](https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/)**
 
-How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The NVIDIA Grace Blackwell GB300 superchip…
-
-NVIDIA Developer • 1d ago
+The Colorado Sun • 14h ago
 
 ---
 
@@ -158,13 +154,7 @@ NVIDIA Developer • 1d ago
 
 Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components.
 
-Breaking Defense • 5h ago
-
----
-
-**[A robot entered a Denver comedy club. (This isn’t a joke.)](https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/)**
-
-The Colorado Sun • 9h ago
+Breaking Defense • 9h ago
 
 ---
 
@@ -172,19 +162,25 @@ The Colorado Sun • 9h ago
 
 Multipurpose body parts could lead to more-flexible robot designs
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 12h ago
 
 ---
 
-**[Watch Sequoia, Nvidia Back Mecka AI’s Robotics Push](https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video)**
+**[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
 
-Bloomberg.com • 1d ago
+South China Morning Post • 1d ago
 
 ---
 
-**[Mixed Human Feelings After a Day at a Park Full of Robots](https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html)**
+**[Threadlike motor uses sliding fibers to drive flexible robotic devices without gears](https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html)**
 
-The New York Times • 2d ago
+Tech Xplore • 1d ago
+
+---
+
+**[FireFly Robotics files for Nasdaq direct listing](https://www.reuters.com/business/firefly-robotics-files-nasdaq-direct-listing-2026-10-07/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -198,7 +194,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 82K • 👍 1K • 💬 87 • ⏱️ 1:00 • 4d ago
+👁️ 83K • 👍 1K • 💬 88 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -208,7 +204,17 @@ China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and
 
 📺 MACHINEKIND
 
-👁️ 27K • 👍 461 • 💬 63 • ⏱️ 13:43 • 19h ago
+👁️ 29K • 👍 501 • 💬 65 • ⏱️ 13:43 • 1d ago
+
+---
+
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
+
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
+
+📺 Jot Tv Media 
+
+👁️ 44K • 👍 1K • 💬 6 • ⏱️ 1:04 • 12h ago
 
 ---
 
@@ -218,7 +224,35 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 📺 PRO ROBOTS
 
-👁️ 26K • 👍 360 • 💬 51 • ⏱️ 23:29 • 5d ago
+👁️ 26K • 👍 363 • 💬 51 • ⏱️ 23:29 • 5d ago
+
+---
+
+**[VEX CASCADE LIFE SCORING #vex #robot #vexrobotics #robotics](https://www.youtube.com/watch?v=mhOIkMWhoeg)**
+
+📺 Hawks Robotics
+
+👁️ 720 • 👍 14 • ⏱️ 0:30 • 1h ago
+
+---
+
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
+
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
+
+📺 AI Revolution
+
+👁️ 60K • 👍 781 • 💬 91 • ⏱️ 13:23 • 6d ago
+
+---
+
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+
+📺 CNET
+
+👁️ 50K • 👍 485 • 💬 62 • ⏱️ 6:34 • 4d ago
 
 ---
 
@@ -232,61 +266,23 @@ Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! The
 
 ---
 
-**[✅ Best Robot Vacuum 2026 [Find Which One is Right for YOU?]](https://www.youtube.com/watch?v=dT1nIzU7-Xc)**
+**[Best Robot Vacuum &amp; Mop on Sale Amazon Big Deal Days 2026](https://www.youtube.com/watch?v=6siFoX8cXec)**
 
-Best Robot Vacuum 2026 – Looking for the best robot vacuum? We've selected the top options based on cleaning performance, ...
+SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amazon Big Deal Days is here, and there are a ...
 
-📺 Foremost Picks
+📺 Just A Dad Approved
 
-👁️ 29K • 👍 220 • 💬 10 • ⏱️ 11:52 • 5d ago
-
----
-
-**[This Ravager Build is Overkill! 🔥 (One Shot Kill Sniper) — War Robots](https://www.youtube.com/watch?v=IijE0HD8xSY)**
-
-Taking the Ravager equipped with the brand-new Iaraghi-M weapons out into Champion League battles! This sniper setup is ...
-
-📺 Adrian Chong
-
-👁️ 8K • 👍 222 • 💬 35 • ⏱️ 20:11 • 1d ago
+👁️ 24K • 👍 257 • 💬 121 • ⏱️ 22:11 • 2d ago
 
 ---
 
-**[Robot salta a la lava con despedida épica de Arnold Schwarzenegger  💀🤡 #robots #ia](https://www.youtube.com/watch?v=7SML77DqJiU)**
+**[This Drone Hops Like A Pogo Stick 🤖](https://www.youtube.com/watch?v=4DGj7zMEVvQ)**
 
-📺 Energía Personal Extra
+Original video credit: IG/@hopto_tech_official. The video demonstrates the operation of the HOPTOP (Hopcopter) hybrid ...
 
-👁️ 186K • 👍 9K • 💬 96 • ⏱️ 0:18 • 5d ago
+📺 History Seeker
 
----
-
-**[Nvidia’s Next Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=JbgbLpZu8EU)**
-
-The Information's Nvidia reporter Phoebe Liu reports that Nvidia plans to invest another $1 billion in Figure next year.
-
-📺 The Information
-
-👁️ 1K • 👍 9 • ⏱️ 0:42 • 22h ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 37K • 👍 1K • 💬 6 • ⏱️ 1:04 • 8h ago
-
----
-
-**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
-
-Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
-
-📺 DW Documentary
-
-👁️ 207K • 👍 1K • 💬 136 • ⏱️ 28:21 • 4d ago
+👁️ 473K • 👍 6K • 💬 277 • ⏱️ 0:10 • 11h ago
 
 ---
 
