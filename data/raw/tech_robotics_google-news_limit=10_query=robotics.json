@@ -25,24 +25,34 @@
       "description": "Full-stack safety solution for physical AI is being used by robotics companies."
     },
     {
-      "headline": "Startups are hiring low-paid gig workers to train robots on manual labour",
-      "source": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc054RFd3R1BfQ1liQTdFNjhqXzNjNDZVbEZ1a3U3Rm9rbkVCMlB6SGY1VXNhVmFNODFUdmNYSFpLQThxOUVlNFRkRFhETUxQeFVBT3NTRUp6U1RRWVJBd2pzUGpQSFpBbDIxNU1ZcUNibTcxbE82UFR6eFRVTnJIeEZ4SE8xRzdLbWdEMGVMQVZaN1Y5bjIxZHdQS1pMLW53MmxBVkRRNDl3d0hON052NjhHajdkemM?oc=5",
-      "pub_date": 1791540000.0,
-      "article_url": "https://www.theglobeandmail.com/business/article-startups-are-hiring-low-paid-gig-workers-to-train-robots-on-manual/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/GGHLW7EMI5FTHDG5MUXU6BIUJU.jpg?auth=37050922cfc20d8091933391dffe637a54064a93c118a820af2c37bdeae9a1ef&width=1200&height=800&quality=80&smart=true",
-      "description": "We got a firsthand look at what it\u2019s like to record yourself for AI-powered humanoid robots to learn from"
+      "headline": "Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10blh0c1laYkhucFdhckpyVG9QS0k0RWoxRzRWSHVWbGlnOGZQeGxIdFVjMXRScWRLa0FrdFduTTBpNkdVeFhPV2dpSGVZNVZGZGkxNDc3TlNXZlN2TUl4TDMxWlBNdw?oc=5",
+      "pub_date": 1791560027.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68398684&width=1200&height=600&coordinates=0%2C52%2C0%2C53",
+      "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "Threadlike motor uses sliding fibers to drive flexible robotic devices without gears",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNGYUcxV3puLUkxbEUybGN6Z1FPUEpOQWpzSzY1aFNiZkM5RTctaGRYU2ttS1oyZFlwM0huQ2xiekFlMHFIQTlnSXhSc3BMTUgtN1NUN1JTR0pGc05Wai1YMXBpR0p4NE5nTGpMVGVGcE9JOHZpUkxLQlNKbnFfSVlCai1TWXJo?oc=5",
-      "pub_date": 1791382813.0,
-      "article_url": "https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html",
-      "image": null,
-      "description": null
+      "headline": "Danu Robotics\u2019 fight to build a better recycling robot",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblk4eWRNdUxGanZFb1ozSzgwWVoySW8yTTNQX1E2RC1XaXRLcy1MbURubVlfQ0RJYXlVTzRENmprd3RVSzNsSWJLNFFsZHljbDluNmZOd3h3Xy1BUGhvUFZIdHZmb21FbGl0ZnZRRXRrNTV4bjkySFRXblRfdW9NekF0ODBGY3BEN0hVV2lJNDZGQQ?oc=5",
+      "pub_date": 1791564300.0,
+      "article_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
+      "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+    },
+    {
+      "headline": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
+      "source": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb29oVGtZV3BUeFkwcENKZHJ3UmtzaTAtdXFkU3FfWDFScVo5VnlJRkt3QU0xaVBKRVItcjVndjZaOFFKOWJtRWQ2N0k4cHdoYl9QX2xaY0JIaktfSEJyT2RsVXRVSDZ5SmFTaDZRYnBtbF9EaVJCS1ktVU9pQUs1Y0xaSUtGc3dNcFk0UXhEQkh4NV91OXZ1cEJBMTlLR01NVExxaDdFNXc?oc=5",
+      "pub_date": 1791495220.0,
+      "article_url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif",
+      "description": "Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints\u2026"
     },
     {
       "headline": "How AWS is helping companies build physical AI machines that think",
@@ -53,6 +63,16 @@
       "article_url": "https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines",
       "image": "https://assets.aboutamazon.com/dims4/default/64133eb/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F2b%2Fe8%2F55307dea410f85c7408920cf8b85%2Fabout-amazon-hero-ai-toolchain-hero-amazon-news-lt-092926.jpg",
       "description": "Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world."
+    },
+    {
+      "headline": "Threadlike motor uses sliding fibers to drive flexible robotic devices without gears",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNGYUcxV3puLUkxbEUybGN6Z1FPUEpOQWpzSzY1aFNiZkM5RTctaGRYU2ttS1oyZFlwM0huQ2xiekFlMHFIQTlnSXhSc3BMTUgtN1NUN1JTR0pGc05Wai1YMXBpR0p4NE5nTGpMVGVGcE9JOHZpUkxLQlNKbnFfSVlCai1TWXJo?oc=5",
+      "pub_date": 1791382813.0,
+      "article_url": "https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "This Disembodied Hand Is All the Robot You Need",
@@ -75,36 +95,16 @@
       "description": null
     },
     {
-      "headline": "US issues first outbound investment fine over Chinese robotics AI deal",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd01kSV85N0o3MDFlbThLT3hReUdWaUFjdkRDcEE5X1FkWEk0UHlXTnhFcElrRWpKRzJtNkZsUU5SQi1uNEZXVHhWeW9EN0czNHpQNWNFeXpld1ZrZnI3NkhUREhHMndwbWZ1THdNdHhHZ3JRcVZzZ3dyc2lxY0x4VGNVTU1rX3VuMmhJVkNQald2UkFIOENYbl8zYzJWRWlsQVlwN05RQUFkazFfeXdqVkdRYVBRODBpWjhYcGtSRlhqNUx6NGVR0gHHAUFVX3lxTFBCNGo2WVBWc2l0LWhwRDdCOHN3NXJXSnBjNEFuelJyOUJwdTNLdndjMnIwVjFZeE03dVJTd2pxOHBoWHZ5SmxEZVdvMF84QzNyb0x3NkR4N1hNWFpjSHo3X3BNYkRYSmpxdDhJMWhKVDVBRW51ZDBZdmFfZXRPaFNxMXVWZ3UwNVpTSTlYQ185dzRGYmR6b0lNZ3VuaGxRRVNlNkYwTG5NZ1NiVElGUHBGZFlGVmpRR0tGOGtvMzUzUk5YUlZ2aTQ?oc=5",
-      "pub_date": 1791401279.0,
-      "article_url": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AWS launches open-source Physical AI Toolchain for robotics",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFJjZmtncTEyUG43UjRhdVRJLXowSXdJajRTUm1WbzBsakc0ZnN3SUYtVjF5TlliYmptakNpSk5RUUxCd3ptM0FlbUhlTFllOEJoZnQyYTNraWhobWJpMWpzUXJSSjYwRjJOaTdaNE9RN3V2REg3VVMzT1hoQ3ZGak53RVVmYV9YMmlUdlRUMVNmWkQ3TUE?oc=5",
-      "pub_date": 1791466817.0,
-      "article_url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/10/amazon-vulcan-teasr.jpg",
-      "description": "AWS launched an open-source Physical AI Toolchain to help robotics companies train, simulate, deploy and improve AI-powered robots."
-    },
-    {
-      "headline": "Walmart warehouse automation robots costs complexity",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mb0dFVkdsc0tZanpqaXFaT3hCTllnN19MSE9EbXlHNEQyWHY0UVVlVV9uRXAybVdaOFhCdk45WEVSbjJONGdMYkpxMk4tWXVmQjdMLURYQ0NEcm1lamQ0NWtwSGVWWUFOZngzMWtMU3Z4VlFvVTNF?oc=5",
-      "pub_date": 1791546576.0,
-      "article_url": "https://qz.com/walmart-warehouse-automation-robots-complexity-100926",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/walmart-300x200.jpg",
-      "description": "A decadelong, multibillion-dollar push to replace warehouse workers with robots has hit repeated kinks, from cardboard boxes to frozen turkeys"
+      "headline": "Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M",
+      "source": "Endpoints News",
+      "source_url": "https://endpoints.news",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWF5UGhVTkRfc1BOQVdOY2JteWk3RVZiVmg3NnBXTXJETnVNUEI0NHdfcm5wSV9IWTFZQ2Vrcml3Wi0yODJtMVBneVlSamlMWTlfbHpSVlhlMENFVXVxakFsU3BkUzVJcm0yNTJtLTMyM1lMc2tpaEZBS2xHT2hjRWFyMl9KaElaMERjbVhKenFjNWVTY3BJTGhndkwxU3lja1ZRd2x3?oc=5",
+      "pub_date": 1791476820.0,
+      "article_url": "https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/",
+      "image": "https://endpoints.news/wp-content/uploads/2021/02/mf-social.jpg",
+      "description": "Multiply Labs raises $75M Series B; NorthStar lands up to $185M from Hercules; Genentech, Fresenius Kabi manufacturing news."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-09T13:40:16.684335+00:00"
+  "fetched_at": "2026-10-09T19:17:59.265605+00:00"
 }
