@@ -9,102 +9,102 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
-      "pub_date": 1791538448.0,
+      "pub_date": 1791540654.0,
       "article_url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic bans users from \u2018needless abusive or cruel behavior\u2019 towards Claude",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
-      "pub_date": 1791509160.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
-      "image": "https://i.guim.co.uk/img/media/6e190063ccfe8ce226fbe77ca8498af1a2fd082b/9_0_2975_2380/master/2975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7b59ff43aa0ed50367e33e89ae9afbc",
-      "description": "A spokesperson behind the tech company\u2019s AI chatbot has not yet specified what counts as abusive or cruel content"
-    },
-    {
-      "headline": "Anthropic bans users from being 'cruel' to its AI systems",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5",
-      "pub_date": 1791549267.0,
-      "article_url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
-      "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech."
-    },
-    {
-      "headline": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpRGFjNVdpNkhzdXpCNk1ONlZHOTA1OEE2MVZmcW81V08yTEhZSUo2RkRoQ0ZST3U1aVY1U2xuNzV5R0RCYWsyTEpVanpYWkZBbnh1NUljdkNSX0hQb3VtN1EzR3Y0aWVMakFuNy04NURrMU0?oc=5",
-      "pub_date": 1791550020.0,
-      "article_url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio2imi6QlJLQlD8KAZaktPeycFFCAWdkRp7q1TNwNHKUibXYACipc5GG2rDcZtmUR8TftkRHNTrdEXLXsGxcGoTDrTY5Eye77n1OFyeFbHP-VGUTwlhIoaHNoMGVIsUWBk07kSc-Gi3y_U0OuS-6gWBjYJEj8pxJVQ9lkEJfI_we3rVvZtAMXp0i8qs7t/s1700-nu-rw-lo-l85-e365/oss-scanner.jpg",
-      "description": "Anthropic's opt-in OSS Scanner offers free, periodic AI vulnerability scans for open-source projects, with no human review required for reports"
-    },
-    {
-      "headline": "Inside the minds of AI builders: Walter Isaacson on his new podcast, SpaceX spectrum license & AI innovation",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN3JRdUJjOGx3bmN4TFhvZkV1SXY1OHc4RndJM2FUMnVEZjZ1Yy0zTTRIejVadkowOEVGZTJRb202Q29MS0ZCQlgwd0xOTTJqbTI3RWN0cDJObnlIMk85YzFFWnBhUWNnbDJZVUV4dW96bTJEWGJMVlNfNnFPeTAzdDBVR3dsVHByNnpYZmdLNnhWMHlvRmFiX3g2VlFiWVVrRTgyY2QtUnZUajQwR1EwTHJNYzA0RkhxcW9sY0FtTDVkbElEUWgwREFHbWpjbWg4T255U3ZuU3NKcms2YnZ0SA?oc=5",
-      "pub_date": 1791550269.0,
-      "article_url": "https://www.cnbc.com/video/2026/10/09/inside-the-minds-of-ai-builders-walter-isaacson-on-his-new-podcast-spacex-spectrum-license-ai-innovation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108381490-17915500101791550006-48889196623-1080pnbcnews.jpg?v=1791550009&w=1920&h=1080",
-      "description": "Walter Isaacson, \u2018The Builders\u2019 podcast host, \u2018The Innovators\u2019 author, Perella Weinberg advisory partner and Tulane University professor, joins 'Squawk Box' to discuss details of his upcoming podcast, SpaceX's purchase of a nationwide spectrum portfolio, state of the AI race, and more."
-    },
-    {
-      "headline": "Oracle is trucking natural gas to AI data centers as pipeline delays threaten key projects",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LQ3pmMmdYbFFHc0dlXzlyNGJERENDbURwUUkyN0Y5TmZLRzlFcGQ3TUdPaGhYRFJaNHFjRXlPRnJBU2dIT1RXb2RPWVliekpwTGlGNmpZY3diVUVoeEdGVVFGWnNQQ25ZdURCTl9WcEhVT1E?oc=5",
-      "pub_date": 1791551373.0,
-      "article_url": "https://qz.com/oracle-trucking-natural-gas-ai-data-centers-100926",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2217725448-300x200.jpg",
-      "description": "The company used the approach at a Utah facility for over a year and is now weighing it for a stalled New Mexico project with a 2.45-gigawatt target"
-    },
-    {
-      "headline": "Staffordshire Police launch AI chatbot to free up call handlers",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tbHJRSkFqdEkxNTFsVm8wdThqUzBHV2RuMHJkTXNjdVp1TjlNQXd1U0puZ09qdkp4TnZSOV9kMnV6RGNMbU5Qdko4OF9NNDF6eUt0N2lNYzdwYXM?oc=5",
-      "pub_date": 1791549114.0,
-      "article_url": "https://www.bbc.com/news/articles/c6pvgn8yvdexo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/72d8/live/6ee0e550-c3dc-11f1-95ba-dba767ffba7e.png",
-      "description": "Staffordshire Police is trialling the virtual assistant through its website live chat."
-    },
-    {
-      "headline": "This Photo Is an A.I. Fake. Can You Tell?",
+      "headline": "Inside Mark Zuckerberg\u2019s Decision to Pull the Trigger on Meta\u2019s A.I. Agent",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWNzcjU1SDllNEhnZ28wajZ6SGl1TFdYVzQteE5ZUUFmSy1uRHphdmFCcF9uRGhiRDc4NE5TZXVicmh0NTB1dmY1b1h4c0V0OE44ejJPbW8yUENLZ3BTUGIzOWcxdUVZMmtIMUVGZ0ZLYnBjR3FTWEI3UUdfdmI1bXR6NW9jRUVKdDIzT1hhS1pJb3ZTZVJj?oc=5",
-      "pub_date": 1791450127.0,
-      "article_url": "https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUtkVjlwSXlOeEVudTI3NWxvd0RVeDBVOGwySmNxOGZ3ZDRmODQ0UTZsZGpLRzNhZXQxWFRISmloVm5xTVdlMFFnNzI4Tm4zdmpiWnlURXYtc2lPeWszZTh2T0RMSnpKbHhjdk5rRmMxUk1sYXFUNkxqbGlSWkNBdkRVTmlJdFIyR005NkE2c1g1aHlkYWFyLTRvbjQwdXFpdzBsUVFkSWI1MkhvaUxoNHQtbzR4RS14M0VCRlNB?oc=5",
+      "pub_date": 1791536626.0,
+      "article_url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Anthropic and OpenAI\u2019s Revenue Calculations Confuse Investors",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkhILXo3RWYzbS1GOWtma3NKS2p1VnhtWFE3QmFLMzhwcExvVkpYSmpKUDJXQzc3QnJUcVB2QmxyMHRaQUhrOHFLU1BmdzRHcmFNTFlvNjM1c2R4UnFweXl5TmJhZHdrSFhDSlhLYXRBRGZSZUlBRS00TGFycFFrTHI3Qk5OU2Vuc01fZURJaFUxUmZ2bXRxa0hzT2xTSThSWDJIeGtSSDFOZEF3SXBidmFR?oc=5",
+      "pub_date": 1791570180.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Expert talks accelerating the adoption of AI and its positives",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cE1YMmpiMVMtaUtqSXhrN19YdHg2SF9zbU14NHRMMHdCU0FHYjBIQXV2R1pZRUs2bzRGQmtUelhsb0E4RlFLWDlrWEx4c2NpMEQ4VVh6cGRwQzQ?oc=5",
+      "pub_date": 1791571292.0,
+      "article_url": "https://www.foxbusiness.com/video/6406550052112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cf57ff04-fa8b-47ee-b950-46cc803a3d85/4405d793-d2aa-46f8-906b-1ccd9449dfa6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Tenex co-founder and managing partner Arman Hezarkhani discusses the 'doom and gloom' of AI and its risks."
+    },
+    {
+      "headline": "Trump says anyone who does not refer to AI as \u2018super intelligence\u2019 is \u2018THE ENEMY'",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5",
+      "pub_date": 1791490680.0,
+      "article_url": "https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI, tech leaders are lobbying Trump health officials in a government-run chat room",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpM0xvN2FtdXdERExEVlBZYUtLYk9aTHFkRmNETnF4ZG9BYjhtQ19Fd29DRTVFYzZpd3FhcVZndWdiZ2ZNNVdzVmNwcDZEZk16MWVOdkpiY3pGZ3M4ZzlBVlhSZ0MtMThEc1VNTXB4ekVEVjhhajlpd0dPOVNGb2s?oc=5",
+      "pub_date": 1791536411.0,
+      "article_url": "https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg",
+      "description": "A Slack workspace has served as a war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps."
+    },
+    {
+      "headline": "How Zuckerberg became one of Trump\u2019s AI whisperers | CNN Business",
+      "source": "CNN",
+      "source_url": "https://edition.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWRiSW03X1NMUGZmM3B4QXZFNl9lU29XbmFoNE90Q0JTdzVEa21GUUlXNklzYlJIbUw1c3h5aVo4VXhCSzhBMU4xZ2hJdTJxSTVaUGtyMDFKRExfTDJfOGpYaHJFZ0FaT1JKR3V0QlExMkNUR0FLN0NVVTNHdUtYdDhoTE5PM2NMeWYwVDVlelZZSlhCbnBWT2w5TUpiZ1NQ?oc=5",
+      "pub_date": 1791571080.0,
+      "article_url": "https://edition.cnn.com/2026/10/09/business/video/how-zuckerberg-became-one-of-trumps-ai-whisperers",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/zucktrump-thumb-clean.jpg?c=16x9&q=w_800,c_fill",
+      "description": "President Donald Trump once threatened Mark Zuckerberg with prison time. Now, the Meta CEO is advising him on pivotal AI policy. CNN\u2019s Clare Duffy breaks down Zuckerberg\u2019s growing influence in Trump\u2019s inner circle."
     },
     {
       "headline": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnJfdmQzcThvdk5kMkxlWXpMZlhIUXM1ZGR4SGlycFdUZV82Z1N3eHVCVGk4UnpKb0s3U2lvX3d0RVFDNnVVekhyUVhSQlJOYlQyLVpETDI5V3FSZDFYeDcyLU5nbXB2SGhmeTNBbFIzNUsyZFRFcWs0OHBZSU9IZlpkRVUwUl83ck55U2E5dkZpM1hoN0s3blJScUZaT3J6a0w4b1FOXzQ4U2JVQTREUEVyYkY5bVU?oc=5",
-      "pub_date": 1791552722.0,
+      "pub_date": 1791561600.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SVWCXRGMGFF2DCOYLDETGU6QZI.jpg&w=1440",
       "description": "ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said."
     },
     {
-      "headline": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE?oc=5",
-      "pub_date": 1791530280.0,
-      "article_url": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067",
-      "image": null,
-      "description": null
+      "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqb1o4THZyeVo1aVZDUks1MXVHM25sdFhoTFZ6dGdPWXRhQUlMMmk4c01NY1Q2UGpjWU5pWUxCNkQwZEdxaExNMUNqRktNa1F6b0htTlhIZzZDVlU?oc=5",
+      "pub_date": 1791559950.0,
+      "article_url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+      "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest."
+    },
+    {
+      "headline": "Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3ZBV1lnZjV6R2VRUHBaTENHWC13UDVzSDc1Y2xNZm1Vd1B1aWpOUmYweklhRFJIQnkydUNRTWh0MTBKbXh6aXJGZFdvci1VNXE3d3h5V1JfWFZIWDZCYWRVOXpzNzNmcm93LWtsWFZqSjludllIRThSdHNwZzlNc3paUjNQNVEyMEVkbTNiTGN6NGtybVFMS0UtVVgtaXNJMHYwbXNJVzdPelFHUTR6QnZ3WGhRWmoxaDVycGN5ZTF4UzVuY3c?oc=5",
+      "pub_date": 1791560160.0,
+      "article_url": "https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2282053641-e1791556482586.jpg?resize=1200,600",
+      "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-09T13:40:20.772490+00:00"
+  "fetched_at": "2026-10-09T19:17:57.334669+00:00"
 }

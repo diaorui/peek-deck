@@ -5,14 +5,74 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today",
+      "headline": "Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5",
+      "pub_date": 1791395160.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOXzJDNzhjMm1DeFNnYk9QdDBWbXRWRXBLaUNacFAyeFRvM3NNb1NPQ3ZuR0hiZm9xNWZfeGotQl9qZ3ZnLVJZNmJ4Sjd0T2RXejZpWHVaT2pRUjN6cmZTc05aX29pZEphMjk4eXNTYTR5QWo4NVA3RnFqay1XNjdTNmtlaXlnQ1lBZkF2NWx4MVFQVmxCQU9na0lPeUd3VDY1ZWktQWFRSGRLdmZid2owU3F4UjRZUFVzakRNbENYXzJJSlpMakpfVGpsODBBR1AtOHVzUXpuMTBTa3hs?oc=5",
+      "pub_date": 1791547200.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/09/the-xrp-ledger-surpasses-ethereum-in-a-key-area-what-does-this-mean-for-the-xrp-price/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-2290566115-huge-licensed-scaled.jpg",
+      "description": "The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?"
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Thursday, October 8, 2026: Crypto values fall as oil prices soar",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR21QTktLTlJmZkhfWEY2XzRwc0tTSk5MQTliYVJ2NFVOemZXdnRDby1mWHdQUWM5LTFubnFFN19IQk1DQXVaZ2QyMFd1R2JPLW5MQ3JHSmlZeUJQOFF4aENSOWZuUlR6QVBSbDV0SjRZR0hXNENOTHpzWFZZT3RvVFZuQzRjTFYtLTVHTzg4UFhHM3VXY2Y0R1lESTh1d2dmN0pRWTRoUEZMVjRVZnFDSWpYUkhScWZxX1o1MkhDX1ZIOU41NUVpUDNrYXFiaTg0RkQ2QnVTTGFuSVZ0VS12cktSOVdhTHVuNlRid2FwRjEwbEN2WklBRl9WdnJHQWx2?oc=5",
+      "pub_date": 1791459221.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-8-2026-crypto-values-fall-as-oil-prices-soar-113341860.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg",
+      "description": "Bitcoin opened at $83,275.52 on Thursday, October 8, 2026, down 2.7% from Wednesday's open. As of 7:11 a.m. ET this morning, bitcoin moved down to $82,347.48. Ethereum opened at $2,573.30, down 4.6% from Wednesday's opening price. The price of ethereum moved down further this morning to $2,532.42 as of 7:11 a.m. ET."
+    },
+    {
+      "headline": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdURvM1dPU1dDQXU5Sl9SYkpKbm9oZnU5RzZqNUVyUWtPNkdPRTBhOFpSdUE0UUJCYlVObnhzZS12aElublh1MHVYalkwek9lRzY4VXVOZS1LSGxyWUNDZVhESFlYYUwtWEpRQkxiNlhLbU5YTzgwMTVZX3lSNVY1QmJBMHRoMzg3eTA2VXhYNzZWajU1di1zb09B?oc=5",
+      "pub_date": 1791563763.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-l2-starknet-jumps-20-163603489.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fd35c28e50bb7af60a975a7191d45c75a23a6ff9965ddf7bc8affd42f0881b10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F170fe6ac207a48b96bd5cfe732f65bcb.png",
+      "description": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027."
+    },
+    {
+      "headline": "New Crypto: Remittix Confirms Its November 24 RTX Launch as Ethereum Price Prediction Eyes $8,000 and Solana\u2019s Alpenglow Upgrade Fuels a $250 Target",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOdVR1MmthSlhjTHhEdmVxQVp1UkdpeWZxQ3hZa3hpWk1iQTJNVTFITUpYUDJtMzE4a3JCanN5RDkxZWpsSVh5OHYtMk5mYnBldkpqaHFuNnpLN1V0QVlfMDZmTllMN2gwSDd1WWJRdkdlcXNrc2VJdXdYeFlnYi0xMWlKVmNpYTNXa2xhYWRESFNBT201elN6X2E0X3ZiV3RTMWpCNENHdS1CbTFNWFlyQ0lJUkdob3pRTnZ4cU5Ub3RpaDNpZHJfQmZtT2hSa2VDc0tWUkpDcDhFMWNDWEpHMTZ5MzRWUW1sc1RpcUpSeTF1cmZDT0VBaWpMZEk0aWNtV3dLTmctd2E5UnItTTJQVXJTNVhUc3NWX1Bha0xGQjVhR1N1MTJSZi1hR2Q?oc=5",
+      "pub_date": 1791569317.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-confirms-its-november-24-rtx-launch-as-ethereum-price-prediction-eyes-8-000-and-solana-s-alpenglow-upgrade-fuels-a-250-target-1036613227",
+      "image": "https://ml.globenewswire.com/Resource/Download/102eab00-26f6-4f3e-b32b-33435bfac389/remittix-ethereum.png",
+      "description": "Remittix establishes a firm route to public trading as Ethereum\u2019s institutional story and Solana\u2019s next consensus upgrade fuel ambitious market fo..."
+    },
+    {
+      "headline": "Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWlJQ0V1d1NaRHZ4T2JMNXlOU1A0SGllMHhybzZrbzhETFJxSHh4N3dPQVpfUXd5cXlfX2tRcnVMYjI4bW8xUmNqMTMyMnVmSHBsem9ueGlLUXhJV1pYSTZVZDVkNXpRc1hnVnhOd3BMMDlyOE56dXBzQ25OQWJjSTFUYmxjdjVJOGdodFp2ZVFnQ2lhaGE0ZXlGT1Nsczd5elpqWUhxY2g?oc=5",
+      "pub_date": 1791566822.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/quantum-computers-break-bitcoin-ethereum-172702687.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cd5092404c2401560f55494c5db43c40434e1e247a0c5a4c92906d6f9f679f95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbbcf1f327640960ed5d21b5b47dff617.jpg",
+      "description": "An Ethereum Foundation researcher just urged big holders to prepare for bunker mode, and the threat triggering his warning has nothing to do with quantum computers. The real danger could arrive in months, and about a third of all Bitcoin supply sits fully exposed."
+    },
+    {
+      "headline": "Bitcoin and ether holders urged to enter \u2018bunker mode\u2019 against possible AI attacks",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXVrdFBKWkdpMS15S0gxbGRRem8tQnA3QV9xTHpwa2QyNVcwSTdtdzdsOE5pWEp3R1JiREhqZEZnc2FNeUNSOFh1VE52NUFDODhkeVRSUUVreUtjeFUzVllTVExFbTNYcHM4dXR2T000TDVwYVpkdF9WMk9DNWY5RGpRZG9DV0ktWHk3bExmR21GNGNVbTFRd0FqZTR5Y0djOHVHTW01dTdGQlp4Y0hUYk9kSEgtQjFmVXBuTmQyWWc4NE1FSGQxa2t3?oc=5",
-      "pub_date": 1791455441.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?auto=format&q=75",
-      "description": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOV9VQllPRTZkSFlaT09JLXJDazJraDBOTUE0cW50blVsVHdzdWJhclBOc1pYQk0yM2UzR2t4RVpxeUFBeDhsbjNTN1NKWC1IWE5IRGxEalZaUlc3ckhmUFNNYXdNNjVPNDdvUTNNaGtRcm1UVVpjMUJKbF83UnlYQVR0aGZCYkRYV183dFM3dGxLVmg0c1pyU3Jjdzh4Qy10NXhYWWNaZmV2djVsR1BkQ1NpMzJIT1RFR2JMd1FkTmw?oc=5",
+      "pub_date": 1791460036.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive."
     },
     {
       "headline": "Keep calm and enter 'bunker mode,' crypto bros say",
@@ -35,76 +95,16 @@
       "description": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant."
     },
     {
-      "headline": "Tom Lee\u2019s BitMine Owns 4.9% of All Ethereum. What Happens When It Hits 5%?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMEVscDlPd0xkOHZ0cV80LVk0WkQ1aVB5OU5JY3E4UkN2Y3huaGVBcW9XR3BTVXZxRUx2QlB5YUxlVHNuQ2ZPMnZVT3pqV0dkdmd2SG10cXlKRV9ZVUNlUU8wQmppUnRJZmE3Tkdfa0VJNWFQVGQ4aTA3anBsRVBtRUNJdWRTZDFBMFhlYjlKekRic0h1U2lYLW94d2tUWWpKZmRuSFBJYmtndnE3MDRpT24tOGRVLUYtU0dMd1RhMVYyUmdjdEZB?oc=5",
-      "pub_date": 1791496800.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/08/tom-lees-bitmine-owns-4-9-of-all-ethereum-what-happens-when-it-hits-5/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/09/Tom_Lee_Fundstrat_Global_Advisors_CNBC_Contributor.jpg",
-      "description": "Tom Lee's BitMine controls around 6 million ETH, amounting to 4.9% of all Ethereum. Here's what reaching 5% means for holders."
-    },
-    {
-      "headline": "Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5",
-      "pub_date": 1791395160.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin and ethereum prices today, Wednesday, October 7, 2026: Crypto prices fade along with risk appetite",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUTVGTGFzN2hmVUpkSU1fSmQ4UEQtQlUxb3Nad0c0Y1RZRXY4N2NST19Id0E5enVwTGZHWkJrLXJmNXJreTNTTjN5MWI5eFJzZk9YZTZXdXB0djF6OHRnR2tMU2tzYlpSNThRNHBhdTNrUWN0R25tYVpXZkJ5RjNha3RtYVBBTWpmMlN2TDg3ekllUUlXNnVzTkVMU0czZG1Rbi1GaU9EdE1FYVZCNmpmdDh4UjVxd0Z5OUd6NHlTaTF0dkhrZElSbFB3LWlOZ1hWaDhxdEFLMlU0VzF5bGR3VlB2OW4zNU13amlTekhnMlR2anBJUGthYU9ZTGpTR2ZfUm9YMVpXQ2wzdw?oc=5",
-      "pub_date": 1791372804.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-7-2026-crypto-prices-fade-along-with-risk-appetite-113324902.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5095a644c2d1c91f29d896c669cef21e72e10f130d105a3b4de6be16545e77cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_4_7197.jpg",
-      "description": "Bitcoin opened at $85,546.23 on Wednesday, October 7, 2026, down 0.3% compared with Tuesday's opening price. As of 7:17 a.m. ET this morning, the price of bitcoin moved lower to $83,771.28 Ethereum opened at $2,697.32, down 0.5% from Tuesday's opening price. The price of ethereum moved down this morning to $2,580.58 as of 7:17 a.m. ET."
-    },
-    {
-      "headline": "Bitcoin and ethereum prices today, Friday, October 9, 2026: Bitcoin, ethereum open at lowest levels in about 3 weeks",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPb0VQYU92dUpuZ2VoVlpDbFpBY3RlOG1WS05LME1EZG9Pc2l4YUpFNlRWUXdJV0VDRWs3MWhnRTVmclhJQ05BOGZtUk44Ym5HSEFEXzNzRWxySElfaUdpLWdiSTFmRzM4bkIwdGZiQzBxR2pvM0c4UDR0RXlHUDFobDhZc0hEeWZ0Y1BIUURJWW9hbF9SQURYY1JPTFRJRzhVVzVpUmdFbmdmNE9zZjlkUEJ0dXBweGR6MGtOWWtBRTVrNGtFeVB6Y0xZbUlOTk41YVM3UnB4Nmd4bjRiNTVSTXZ1b0hfaWlWR1pTTktoU1lJWHJEaVdpZkF2b1lzV0x1ZXhrazg0bjFUTjRmUm9CVW42N2FXdw?oc=5",
-      "pub_date": 1791545630.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-october-9-2026-bitcoin-ethereum-open-at-lowest-levels-in-about-3-weeks-113350511.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
-      "description": "Bitcoin opened at $81,690.49 on Friday, October 9, 2026, down 1.9% from Thursday's open. As of 7:20 a.m. ET this morning, the price of bitcoin jumped to $82,468.42. Ethereum opened at $2,472.47, down 3.9% from Thursday's opening price. The price of ethereum moved up to $2,490.12 as of 7:20 a.m. ET."
-    },
-    {
-      "headline": "Crypto News: Pepeto Announces Its DeFi Suite in Final Launch Steps While Ethereum Price Prediction Review Reaches $62,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbnFCREtJSmpOblE2NGpJSlZnUGhuanFRRnNxd3paY1JyS05aNmFiakg2TUhzd3hBckx3WjZTYnJZbnRDcDJWM3hyZHdZenJOeHRJZkdwdFlCRWxRXzRWX3I4Z0w0Q29jY0Y2SGVNV1g5QkF1SkhEME1NLWo1RkE2NXhaZGlZY1N5Y0xDbmxxOGlBZm0zN1h1RVdTMVdzNUFiaGQ3MmhBN2RkZzRiS05TVTlyZ0xtYkdCdXJTM244TVh2WnVWeTVQM0pYWjR3R21INGFieTJwY3czLVBUQUduZjV2aEY2Vm5jN2tOV1RjZ2hkOGNGa2g5TUFmekcwbDQ2NDBBYlQ2UmZFQQ?oc=5",
-      "pub_date": 1791546102.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-its-defi-suite-in-final-launch-steps-while-ethereum-price-prediction-review-reaches-62-000-1036611932",
-      "image": "https://ml.globenewswire.com/Resource/Download/02369111-198c-4d94-ac62-4560b9f8c0d0/pepeto-announces-its-defi-suite-in-final-launch-steps.jpg",
-      "description": "DUBAI, United Arab Emirates, Oct.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto has announced its DeFi suite entering its last stretch before launch, the..."
-    },
-    {
-      "headline": "Current price of Ethereum for Oct. 9, 2026",
+      "headline": "Current price of Ethereum for Oct. 7, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85b0sxMzJBaGl5NV83U0VocXZIU0wwTzNpaWRzdVZDNlNHZWxnTl9DWDJod3lqclllUUhLenlDOGN1Ni1XUm92R2tqZ0JOelI0NHNYTDktNUFKZ0dEY3JjSW52RDNsZGtD?oc=5",
-      "pub_date": 1791545812.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-09-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-9.jpg?resize=1200,600",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUXVKalFOSEt6QWVfTHFiMHpjMzlBaUlKRzNFazloYUVKc2JhbVExdUZ0YUNEdmluQUM0ZWpyY3pYUWdieDVKUno3ZFVqSUh5azNNakVMQUNSYmVNWE42OVFXYV9jd2w1?oc=5",
+      "pub_date": 1791372000.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-07-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-7.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1BNNlN0U1NuWE9GTVNrb0JYWU5BYU1jSU5yQUxqOTFkNmdwZk80LVdVZ0tRbENOUjJzN2JiVmZMSV95VURYTEFUckxrM0NCdU1ZeVNoOVowd2M4QjBYZjFYSTh1TG52d3VwbGlDUVk3d0ZVOFlONWdJcGprOVhXQVBpWHk?oc=5",
-      "pub_date": 1791490563.0,
-      "article_url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-      "description": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-09T13:40:15.101425+00:00"
+  "fetched_at": "2026-10-09T19:17:56.126323+00:00"
 }
