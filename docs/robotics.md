@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-09T19:18:00.772897+00:00'
+updated: '2026-10-09T23:25:01.373236+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 09, 2026 at 19:18 UTC  
+**Last Updated:** October 09, 2026 at 23:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-1d ago
+2d ago
 
 ---
 
@@ -98,7 +98,7 @@ Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-2d ago
+3d ago
 
 ---
 
@@ -114,11 +114,17 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 ## Google News: "robotics"
 
-**[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
+**[Two-armed robot throws and catches balls with human-like movements](https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html)**
 
-Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
+Tech Xplore • 9h ago
 
-MIT Technology Review • 1d ago
+---
+
+**[5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)**
+
+Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints…
+
+NVIDIA Developer • 1d ago
 
 ---
 
@@ -130,27 +136,9 @@ Ars Technica • 1d ago
 
 ---
 
-**[Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!](https://spectrum.ieee.org/video-friday-reachy-mini-raps)**
+**[Hexagon Is Putting 1,000 Humanoid Robots In Schaeffler Factories. This Is Not A Copy-Paste Process](https://www.forbes.com/sites/johnkoetsier/2026/10/09/hexagon-is-putting-1000-humanoid-robots-in-schaeffler-factories-this-is-not-a-copy-paste-process/)**
 
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 3h ago
-
----
-
-**[Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)**
-
-For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
-
-TechCrunch • 2h ago
-
----
-
-**[5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)**
-
-Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints…
-
-NVIDIA Developer • 21h ago
+Forbes • 31m ago
 
 ---
 
@@ -162,9 +150,11 @@ About Amazon • 1d ago
 
 ---
 
-**[Threadlike motor uses sliding fibers to drive flexible robotic devices without gears](https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html)**
+**[Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)**
 
-Tech Xplore • 2d ago
+For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
+
+TechCrunch • 6h ago
 
 ---
 
@@ -176,12 +166,6 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
-
-Bloomberg.com • 20h ago
-
----
-
 **[Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M](https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/)**
 
 Multiply Labs raises $75M Series B; NorthStar lands up to $185M from Hercules; Genentech, Fresenius Kabi manufacturing news.
@@ -190,27 +174,91 @@ Endpoints News • 1d ago
 
 ---
 
+**[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
+
+South China Morning Post • 2d ago
+
+---
+
+**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
+
+Bloomberg.com • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
 
-What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
 
-📺 ejunky66
+📺 CNET
 
-👁️ 90K • 👍 1K • 💬 96 • ⏱️ 1:00 • 5d ago
+👁️ 52K • 👍 494 • 💬 65 • ⏱️ 6:34 • 5d ago
 
 ---
 
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
 
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
 
-📺 MACHINEKIND
+📺 Fist To Face
 
-👁️ 40K • 👍 670 • 💬 73 • ⏱️ 13:43 • 1d ago
+👁️ 92K • 👍 409 • 💬 30 • ⏱️ 0:11 • 6d ago
+
+---
+
+**[Future unlocked🤖⁠#PaloAlto #SiliconValley #HumanoidRobot #UnitreeH1 #Robotics #FutureTech  #Viral](https://www.youtube.com/watch?v=B6p1r7n_qfU)**
+
+📺 Grittzyy
+
+👁️ 2K • 👍 12 • ⏱️ 0:13 • 5d ago
+
+---
+
+**[This Humanoid Robot Can Kick and Punch! 🤯🤖](https://www.youtube.com/watch?v=1pP7p9qCxOU)**
+
+This viral humanoid robot demonstration shows a robot performing dynamic kicks, punches, and rapid body movements while ...
+
+📺 Nexio Core
+
+👁️ 46K • 💬 10 • ⏱️ 0:05 • 6d ago
+
+---
+
+**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=xDYXjUH8U_0)**
+
+📺 SNeuroRobotics
+
+👁️ 14K • 👍 127 • 💬 2 • ⏱️ 0:07 • 5d ago
+
+---
+
+**[They Trained a Robot to Jump Into Molten Steel](https://www.youtube.com/watch?v=q239qa5MvAA)**
+
+Figure AI was retiring its older F.02 humanoid robots. But instead of simply dismantling them, the team trained the robots for one ...
+
+📺 VoiceItUp
+
+👁️ 28K • 👍 606 • 💬 26 • ⏱️ 0:32 • 6d ago
+
+---
+
+**[This hand can take a beating! Rysen robotics from IROS 2026](https://www.youtube.com/watch?v=NDfmkWHOD3Q)**
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 16K • 👍 36 • 💬 5 • ⏱️ 0:11 • 6d ago
+
+---
+
+**[Sharpa Robot Hand Spinning Pen at IROS 2026](https://www.youtube.com/watch?v=gy9XLSxuqbQ)**
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 10K • 👍 115 • 💬 2 • ⏱️ 0:08 • 6d ago
 
 ---
 
@@ -220,75 +268,15 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 📺 PRO ROBOTS
 
-👁️ 26K • 👍 365 • 💬 51 • ⏱️ 23:29 • 6d ago
+👁️ 27K • 👍 367 • 💬 51 • ⏱️ 23:29 • 6d ago
 
 ---
 
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+**[Unitree Vs EngineAI Robot Fight](https://www.youtube.com/watch?v=x_THGilG_d8)**
 
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+📺 Chris Wabs
 
-📺 CNET
-
-👁️ 51K • 👍 492 • 💬 64 • ⏱️ 6:34 • 5d ago
-
----
-
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 62K • 👍 794 • 💬 94 • ⏱️ 13:23 • 6d ago
-
----
-
-**[Meet Iris: England’s new two-legged delivery robot](https://www.youtube.com/watch?v=SoDU22PGCN8)**
-
-Courier company Evri is trialing Iris, a two-legged robot delivering parcels to homes in northern England, in what it says is ...
-
-📺 Reuters
-
-👁️ 12K • 👍 106 • 💬 51 • ⏱️ 1:22 • 1d ago
-
----
-
-**[One Tentacle Closer to Nuclear Fusion #Robotics #3DPrinting #Engineering](https://www.youtube.com/watch?v=wujtXR6sZTY)**
-
-📺 It's on my MIND
-
-👁️ 484K • 👍 14K • 💬 175 • ⏱️ 1:23 • 2d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 73K • 👍 2K • 💬 15 • ⏱️ 1:04 • 1d ago
-
----
-
-**[the first career ending injury in robotic athletics    #robotics](https://www.youtube.com/watch?v=F_KzKVWFKMI)**
-
-Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Videos ...
-
-📺 StingKnight
-
-👁️ 36K • 👍 264 • 💬 16 • ⏱️ 0:10 • 1d ago
-
----
-
-**[They Trained Robots to Jump Into Molten Steel 🤖🔥](https://www.youtube.com/watch?v=883Yhv1qlU4)**
-
-This looks like a scene from Terminator… but it actually happened. Robotics company Figure retired its F.02 humanoid ...
-
-📺 Wow Theory
-
-👁️ 31K • 👍 356 • 💬 25 • ⏱️ 0:27 • 2d ago
+👁️ 9K • 👍 59 • 💬 4 • ⏱️ 0:06 • 6d ago
 
 ---
 
