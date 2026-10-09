@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-09T19:18:00.765065+00:00'
+updated: '2026-10-09T23:25:01.367044+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 09, 2026 at 19:18 UTC  
+**Last Updated:** October 09, 2026 at 23:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,683.20
+### $82,571.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -2.7%  
-**30d:** +7.7%  
-**90d:** +29.4%  
-**1y:** -27.1%  
+**24h:** +1.0%  
+**7d:** -2.5%  
+**30d:** +7.8%  
+**90d:** +29.6%  
+**1y:** -27.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1656.92B
+**Market Cap:** $1659.76B
 Rank #1
 
-**Circulating Supply:** 20,095,771 BTC
+**Circulating Supply:** 20,095,834 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.6%
+-34.5%
 
 **All-Time Low:** $67.81
-+121491.2%
++121699.1%
 
 ---
 
@@ -95,7 +95,7 @@ after the coldcard situation, I decided I really don't want to trust any company
 
 Hodl
 
-16h ago
+20h ago
 
 ---
 
@@ -125,7 +125,7 @@ Jamie Dimon on bitcoin, and the price the day he said it: $405: "going to be sto
 
 Is it good time to buy some BTC
 
-15h ago
+19h ago
 
 ---
 
@@ -155,81 +155,81 @@ Bitcoin and altcoins sit side by side in your finance app. But are they doing th
 
 ## Google News: "bitcoin"
 
-**[Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure](https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure)**
+**[Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms](https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms)**
 
-Your day-ahead look for Oct. 9, 2026
+Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.
 
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin Drops Below $81K, Triggering Nearly $1B Crypto Liquidation Wave: Crypto Stocks Fall With AI Infrastructure Plays](https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-81k-triggering-173543893.html)**
-
-Crypto-linked stocks fell alongside Bitcoin’s decline, with AI-focused miners leading the decline to hit multi-month lows.
-
-Yahoo Finance • 1d ago
+CoinDesk • 9h ago
 
 ---
 
-**[Live updates: Bitcoin steadies near $83,000 as crypto recovers from Thursday selloff](https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows)**
+**[Bitcoin falls below $83,000, dragging down Strategy, Coinbase, and Robinhood stocks](https://finance.yahoo.com/markets/article/bitcoin-falls-below-83000-dragging-down-strategy-coinbase-and-robinhood-stocks-144942149.html)**
 
-Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.
+Bitcoin tumbled on Wednesday amid a broader market selloff.
 
-CoinDesk • 7m ago
-
----
-
-**[CleanSpark Closes $2.28 Billion Notes Offering, Mined 529 Bitcoin in September](https://finance.yahoo.com/markets/crypto/articles/cleanspark-closes-2-28-billion-183200862.html)**
-
-AI data center developer CleanSpark (NASDAQ: $CLSK) closed a $2.276 billion offering of senior secured notes throug...
-
-Yahoo Finance • 46m ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode](https://finance.yahoo.com/markets/crypto/articles/quantum-computers-break-bitcoin-ethereum-172702687.html)**
+**[Bitcoin down 34% from its all-time high one year on](https://www.cnbc.com/video/2026/10/09/bitcoin-down-34-percent-from-its-all-time-high-one-year-on.html)**
 
-An Ethereum Foundation researcher just urged big holders to prepare for bunker mode, and the threat triggering his warning has nothing to do with quantum computers. The real danger could arrive in months, and about a third of all Bitcoin supply sits fully exposed.
+CNBC’s MacKenzie Sigalos reports on why bitcoin is still roughly a third below its peak, as macro pressure, weaker ETF flows, and stalled crypto legislation weigh on the trade.
 
-Yahoo Finance • 1h ago
+CNBC • 2h ago
+
+---
+
+**[Weekly Wrap: Rising Treasury Yields Sink Bitcoin](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-rising-treasury-yields-205200729.html)**
+
+Bitcoin (CRYPTO: $BTC) is on track for a losing week as rising Treasury yields continue to pressure risk assets suc...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[A Wall Street Money Manager Speculates: Will Bitcoin Exist in 10 Years?](https://finance.yahoo.com/markets/crypto/articles/wall-street-money-manager-speculates-230051038.html)**
+
+A Wall Street money manager says Bitcoin could vanish within a decade, but a prominent CNBC analyst calls this the most bullish moment for crypto in two years. Four concrete threats to Bitcoin's survival reveal just how close to the edge the world's largest cryptocurrency might be sitting.
+
+Yahoo Finance • 24m ago
+
+---
+
+**[Current price of Bitcoin for October 9, 2026](https://fortune.com/article/price-of-bitcoin-10-09-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 7h ago
 
 ---
 
 **[A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?](https://www.wsj.com/finance/currencies/a-year-on-bitcoin-languishes-a-third-below-its-all-time-high-whats-next-for-the-cryptocurrency-046f2689)**
 
-WSJ • 3h ago
+WSJ • 7h ago
 
 ---
 
-**[Bitcoin’s Next Move: What Crypto Investors Need To Know Now](https://www.cheddar.com/media/bitcoins-next-move-what-crypto-investors-need-to-know-now/)**
+**[UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin’s Next Frontier](https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier)**
 
-Tony Edward, author and host of the Thinking Crypto podcast, breaks down Bitcoin’s pullback, rate uncertainty, regulation and what could come next.
+UTXO Management's Loren Asmus: Bitcoin isn't a trade, but a portfolio staple. He breaks down institutional adoption, retention, and why education is key.
 
-Cheddar • 1d ago
-
----
-
-**[AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez](https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration)**
-
-Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising
-
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin](https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/)**
+**[Hedge funds cut Bitcoin, brokerages load up in Q2: CoinShares report](https://seekingalpha.com/news/4651832-hedge-funds-cut-bitcoin-brokerages-load-up-in-q2-coinshares-report)**
 
-The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
+CoinShares report: pro investors grew Bitcoin ETF exposure in Q2 as total AUM fell—hedge funds sold, brokerages bought.
 
-Investor's Business Daily • 1d ago
+Seeking Alpha • 5h ago
 
 ---
 
-**[Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto](https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131)**
+**[Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16](https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132)**
 
-The Bermuda-based insurer has signed 15 broker partners as it expands its bitcoin-denominated life insurance business outside the U.S.
+The Thai regulator set an Oct. 16 effective date for its crypto ETF framework, while limiting initial assets to bitcoin and ether.
 
-The Block • 8h ago
+The Block • 12h ago
 
 ---
 
@@ -249,7 +249,7 @@ Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone p
 
 Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
 
-⬆️ 2 • 💬 0 • 2d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
+⬆️ 2 • 💬 0 • 3d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
 
 ---
 
@@ -269,35 +269,29 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ---
 
-**[Ask HN: How do you use AI for building in public?](https://news.ycombinator.com/item?id=50002798)**
-
-⬆️ 2 • 💬 0 • 1d ago
-
----
-
-**[The AI Agents Pitching Lit Mags to Stay Alive](https://news.ycombinator.com/item?id=50000115)**
-
-⬆️ 2 • 💬 0 • 1d ago • [bookgossip.substack.com](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to)
-
----
-
-**[How Does Yamamoto Do What He Does? Toyota-Like Mechanics](https://news.ycombinator.com/item?id=50007625)**
-
-⬆️ 2 • 💬 0 • 1d ago • [robbinsathletics.com](https://robbinsathletics.com/yamamoto-pitching-mechanics/)
-
----
-
-**[Microsoft 365 subscriptions now use shared cloud storage](https://news.ycombinator.com/item?id=50012149)**
-
-Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.
-
-⬆️ 2 • 💬 0 • 22h ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[ULTRA CRYPTO BOMBSHELL!!! BITCOIN TO $10,000,000 AND XRP TO $160?!](https://www.youtube.com/watch?v=9vLW2FjVb0A)**
+
+Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphold.com/sensei ▸ Earn XRP Rewards: 4% Elite ...
+
+📺 Crypto Sensei
+
+👁️ 3K • 👍 275 • 💬 59 • ⏱️ 14:30 • 3h ago
+
+---
+
+**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
+
+Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
+
+📺 The Economic Ninja
+
+👁️ 8K • 👍 534 • 💬 88 • ⏱️ 3:20 • 4h ago
+
+---
 
 **[Bitcoin Had a $1 Billion Wipeout...What&#39;s next?](https://www.youtube.com/watch?v=XFm6i1fr-6k)**
 
@@ -305,7 +299,7 @@ Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 606 • 💬 37 • ⏱️ 41:04 • 4h ago
+👁️ 24K • 👍 667 • 💬 100 • ⏱️ 41:04 • 8h ago
 
 ---
 
@@ -315,17 +309,7 @@ Bitcoin just crashed to $80000 as a new debate erupts over paper Bitcoin, Michae
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 132 • ⏱️ 15:34 • 22h ago
-
----
-
-**[MASSIVE BITCOIN TRAP LOADED!](https://www.youtube.com/watch?v=Vsk0-xpLOUM)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 8K • 👍 367 • 💬 34 • ⏱️ 13:31 • 6h ago
+👁️ 43K • 👍 2K • 💬 126 • ⏱️ 15:34 • 1d ago
 
 ---
 
@@ -335,7 +319,17 @@ Learning Crypto: https://www.learningcrypto.com Free weekly report: https://www.
 
 📺 Crypto Tips
 
-👁️ 2K • 👍 215 • 💬 15 • ⏱️ 8:59 • 3h ago
+👁️ 6K • 👍 338 • 💬 34 • ⏱️ 8:59 • 7h ago
+
+---
+
+**[Bitcoin Bounces Perfectly: Exact Support Level Saving Bull Market](https://www.youtube.com/watch?v=BPzFljMOJxI)**
+
+Bitcoin flushed, hit the exact support Nick has been pointing to for months, and bounced. Trade alongside the Verified Pro ...
+
+📺 Verified Investing
+
+👁️ 9K • 👍 406 • 💬 32 • ⏱️ 19:49 • 5h ago
 
 ---
 
@@ -345,17 +339,17 @@ Bitcoin what now.
 
 📺 MMCrypto
 
-👁️ 8K • 👍 985 • 💬 164 • ⏱️ 6:10 • 2h ago
+👁️ 28K • 👍 1K • 💬 301 • ⏱️ 6:10 • 6h ago
 
 ---
 
-**[Bitcoin Live Trading: BTC IS FIGHTING BACK! The Rebound, Liquidations &amp; Altcoin Danger Zone! EP2148](https://www.youtube.com/watch?v=-m29U_Z3WAc)**
+**[MASSIVE BITCOIN TRAP LOADED!](https://www.youtube.com/watch?v=Vsk0-xpLOUM)**
 
-WEEX EVENT: https://www.weex.com/events/trading-challenge/trade-to-win-apple?vipCode=8six&qrType=activity WEEX: ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Crypto Lifer
+📺 My Financial Friend
 
-👁️ 7K • 👍 356 • 💬 2 • ⏱️ 1:42:37 • 2h ago
+👁️ 12K • 👍 405 • 💬 43 • ⏱️ 13:31 • 10h ago
 
 ---
 
@@ -365,7 +359,7 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 10K • 👍 314 • 💬 125 • ⏱️ 15:51 • 23h ago
+👁️ 10K • 👍 317 • 💬 118 • ⏱️ 15:51 • 1d ago
 
 ---
 
@@ -375,27 +369,7 @@ Bill Barhydt is the founder and CEO of Abra. In this conversation, we break down
 
 📺 Anthony Pompliano
 
-👁️ 62K • 👍 1K • 💬 59 • ⏱️ 45:39 • 22h ago
-
----
-
-**[Is This The End of the Bitcoin Rally?](https://www.youtube.com/watch?v=IxFnvlKnWUA)**
-
-Two headlines made it look like Bitcoin was being dumped. Half a billion dollars left the spot ETFs in a day, the biggest exit since ...
-
-📺 Yahoo Finance
-
-👁️ 23K • 👍 461 • 💬 183 • ⏱️ 15:00 • 1d ago
-
----
-
-**[BITCOIN MASSIVE TRAP !!!](https://www.youtube.com/watch?v=R2FTXx2T8Hk)**
-
-Subscribe to *Isaac Crypto:* https://www.youtube.com/@Isaac-Crypto Subscribe to *Crypto Kid:* ...
-
-📺 The Moon Show
-
-👁️ 15K • 👍 627 • 💬 53 • ⏱️ 9:08 • 10h ago
+👁️ 69K • 👍 1K • 💬 58 • ⏱️ 45:39 • 1d ago
 
 ---
 

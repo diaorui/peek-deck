@@ -9,8 +9,28 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
-      "pub_date": 1791540654.0,
+      "pub_date": 1791538448.0,
       "article_url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5",
+      "pub_date": 1791574157.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-google-tech-10-09-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/73f9cf4172fc51556f96640ef1c12afc.jpg",
+      "description": "Top AI companies are reportedly preparing for a potentially catastrophic AI incident in 2027, with executives warning that rogue models or malicious actors could disrupt financial services, internet connectivity and critical infrastructure. OpenAI told Fox Business that its preparedness exercises explore potential scenarios, not inevitable outcomes. Meanwhile, European Union tech chief Henna Virkkunen defended the bloc's existing AI regulations as sufficient to address emerging threats."
+    },
+    {
+      "headline": "\u2018Nothing About This Was Inevitable\u2019",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblZaNXh6YmxHSGZscG11UWxKQ05HX2tXQmtFbExRWVVVOVJ6dzJmLVNUQUNrdnprMC01azBBSkpTRlNJcjlmTE9rbFNncTI4Q2JHYzktcC1DX0dPeTJ4cVlFbF9ua1lVWTU3OWRkdVRuMTkyR3ZKWVdXN1g3YTE0cnhDQ1VxSkVjVW95UWMyRkdWYnVUTnNyZQ?oc=5",
+      "pub_date": 1791499105.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/",
       "image": null,
       "description": null
     },
@@ -25,64 +45,44 @@
       "description": null
     },
     {
-      "headline": "Anthropic and OpenAI\u2019s Revenue Calculations Confuse Investors",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkhILXo3RWYzbS1GOWtma3NKS2p1VnhtWFE3QmFLMzhwcExvVkpYSmpKUDJXQzc3QnJUcVB2QmxyMHRaQUhrOHFLU1BmdzRHcmFNTFlvNjM1c2R4UnFweXl5TmJhZHdrSFhDSlhLYXRBRGZSZUlBRS00TGFycFFrTHI3Qk5OU2Vuc01fZURJaFUxUmZ2bXRxa0hzT2xTSThSWDJIeGtSSDFOZEF3SXBidmFR?oc=5",
-      "pub_date": 1791570180.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
+      "headline": "The AI SaaSpocalypse was supposed to crush software stocks \u2014 but this happened instead",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUVlNQWNSemV5R2JVcFFLa1VtNHZjdXVocmQtdElIbTBRRGpnSzg5Q2E0SWxCSEJNVzdmTnhlSXdLaWRKbVB3WXRzXzlKZXliczU1aGJGVUlocWl5anZPdk9ZX1d4ZDI0UEFScGJfVUg2X194dHpGM0tTaGpncFQ5ZUFTMTE3THA0bmlCQURMVFdQbTZEMV9IM1VLR1NYZHFuQXNPOWU1TUp5TE05YThidjRBaHlsZkNTWnY0YnJtMzJEUTRXdDhEMW5RUFZyYjFiN2lNLW9LTklidw?oc=5",
+      "pub_date": 1791563421.0,
+      "article_url": "https://finance.yahoo.com/markets/article/the-ai-saaspocalypse-was-supposed-to-crush-software-stocks--but-this-happened-instead-163021702.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b3b0487b15b9c22ee7f015f128efa05cfafb2ce77a90a992443bd4d715cce424/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F7bed8dc0-3045-40ab-81a2-497b6e7287c6",
+      "description": "Time to put this overused 2026 market slang to bed."
+    },
+    {
+      "headline": "Lumentum Can\u2019t Keep Up With AI Demand\u2014and Its Stock Is Surging",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXJ6SUE4ejBIODdlZGk4bEQwRDlCQ0I2NWVZOFlGWEQ2RmgwVzNHSnlTdDJDNFNXU0lsUDRsUXg1b1Jqb1pLRmN4Wi1hTDVLZ1hreF95a056Q0lodVcyRnJleEdqVVBhMWVSUVZYSjJkdDNPY0ltbXEtTm9pVkZscUdTclVJX2R2Mk5GdFY2anE?oc=5",
+      "pub_date": 1791569580.0,
+      "article_url": "https://www.barrons.com/articles/lumentum-stock-ai-optical-component-shortages-b2580d80",
       "image": null,
       "description": null
     },
     {
-      "headline": "Expert talks accelerating the adoption of AI and its positives",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cE1YMmpiMVMtaUtqSXhrN19YdHg2SF9zbU14NHRMMHdCU0FHYjBIQXV2R1pZRUs2bzRGQmtUelhsb0E4RlFLWDlrWEx4c2NpMEQ4VVh6cGRwQzQ?oc=5",
-      "pub_date": 1791571292.0,
-      "article_url": "https://www.foxbusiness.com/video/6406550052112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cf57ff04-fa8b-47ee-b950-46cc803a3d85/4405d793-d2aa-46f8-906b-1ccd9449dfa6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Tenex co-founder and managing partner Arman Hezarkhani discusses the 'doom and gloom' of AI and its risks."
+      "headline": "Stock market expert Jess Inskip dives into AI trade and bond yield movement",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekdZNFFVQWVTSVBjakFCbXFKX2RJdHB3OVF2Y0JIeW5HTWtYVURYVGlKV1NnaV82alo5aDcxYXNnU2NHbERmWTg0ZlE2SlNIY1Mya3VsdkQ2ZlIxaXJad01fS0NWUE00UG5vak5XdGNmV3RyUW9KeXJkSi1vckt2SGVEaVY?oc=5",
+      "pub_date": 1791584196.0,
+      "article_url": "https://qz.com/stock-market-expert-dives-into-ai-trade-and-bond-yield-movement",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Stock%20market%20expert%20Jess%20Inskip%20dives%20into%20AI%20trade%20and%20bond%20yield%20movement.jpg",
+      "description": "Stock market expert Jess Inskip dives into AI trade and bond yield movement"
     },
     {
-      "headline": "Trump says anyone who does not refer to AI as \u2018super intelligence\u2019 is \u2018THE ENEMY'",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5",
-      "pub_date": 1791490680.0,
-      "article_url": "https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI, tech leaders are lobbying Trump health officials in a government-run chat room",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpM0xvN2FtdXdERExEVlBZYUtLYk9aTHFkRmNETnF4ZG9BYjhtQ19Fd29DRTVFYzZpd3FhcVZndWdiZ2ZNNVdzVmNwcDZEZk16MWVOdkpiY3pGZ3M4ZzlBVlhSZ0MtMThEc1VNTXB4ekVEVjhhajlpd0dPOVNGb2s?oc=5",
-      "pub_date": 1791536411.0,
-      "article_url": "https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg",
-      "description": "A Slack workspace has served as a war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps."
-    },
-    {
-      "headline": "How Zuckerberg became one of Trump\u2019s AI whisperers | CNN Business",
-      "source": "CNN",
-      "source_url": "https://edition.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWRiSW03X1NMUGZmM3B4QXZFNl9lU29XbmFoNE90Q0JTdzVEa21GUUlXNklzYlJIbUw1c3h5aVo4VXhCSzhBMU4xZ2hJdTJxSTVaUGtyMDFKRExfTDJfOGpYaHJFZ0FaT1JKR3V0QlExMkNUR0FLN0NVVTNHdUtYdDhoTE5PM2NMeWYwVDVlelZZSlhCbnBWT2w5TUpiZ1NQ?oc=5",
-      "pub_date": 1791571080.0,
-      "article_url": "https://edition.cnn.com/2026/10/09/business/video/how-zuckerberg-became-one-of-trumps-ai-whisperers",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/zucktrump-thumb-clean.jpg?c=16x9&q=w_800,c_fill",
-      "description": "President Donald Trump once threatened Mark Zuckerberg with prison time. Now, the Meta CEO is advising him on pivotal AI policy. CNN\u2019s Clare Duffy breaks down Zuckerberg\u2019s growing influence in Trump\u2019s inner circle."
-    },
-    {
-      "headline": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnJfdmQzcThvdk5kMkxlWXpMZlhIUXM1ZGR4SGlycFdUZV82Z1N3eHVCVGk4UnpKb0s3U2lvX3d0RVFDNnVVekhyUVhSQlJOYlQyLVpETDI5V3FSZDFYeDcyLU5nbXB2SGhmeTNBbFIzNUsyZFRFcWs0OHBZSU9IZlpkRVUwUl83ck55U2E5dkZpM1hoN0s3blJScUZaT3J6a0w4b1FOXzQ4U2JVQTREUEVyYkY5bVU?oc=5",
-      "pub_date": 1791561600.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SVWCXRGMGFF2DCOYLDETGU6QZI.jpg&w=1440",
-      "description": "ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said."
+      "headline": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNFZTZjVkZJRVlHX2RHTmxEYURkbnMwVEJWZjkyR0hTemo3YW9Za3hjc1F2RkFiT2NRZVFjYVJLYWxFakdfRHJKd1JiMVNNOVZkckREVXRuWUNDbV96TldsaTVpVUxQcjNpYkRDbXVFWm9way14dXV5RHpURzctYnVIQy1aaE5KelI1RlNuOGJQbmJJdjBWLTM4Z0lvUGNZZGlCSWtiN0pmXzRMMmc?oc=5",
+      "pub_date": 1791583447.0,
+      "article_url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "description": "One damaged data center has supercomputers used for training Yandex\u2019s AI model."
     },
     {
       "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
@@ -95,16 +95,16 @@
       "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest."
     },
     {
-      "headline": "Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3ZBV1lnZjV6R2VRUHBaTENHWC13UDVzSDc1Y2xNZm1Vd1B1aWpOUmYweklhRFJIQnkydUNRTWh0MTBKbXh6aXJGZFdvci1VNXE3d3h5V1JfWFZIWDZCYWRVOXpzNzNmcm93LWtsWFZqSjludllIRThSdHNwZzlNc3paUjNQNVEyMEVkbTNiTGN6NGtybVFMS0UtVVgtaXNJMHYwbXNJVzdPelFHUTR6QnZ3WGhRWmoxaDVycGN5ZTF4UzVuY3c?oc=5",
-      "pub_date": 1791560160.0,
-      "article_url": "https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2282053641-e1791556482586.jpg?resize=1200,600",
-      "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage."
+      "headline": "AI disqualification yields new Nikon Small World in Motion winner",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNGZhQW8wekFLemJVekpfQlR4elIzdF95ZERxbXFJSUVHQ2lFLVpTRXd6UHJOeXM3Z0RUX1RqRVlmdzhucmJBYW1NbWZQajVrU2U2V1Z2dnlVYlo0WGF0c09aSU5PTThrT3BEc2p4T21jLVE3UEFLSE0wUWpEaUhpbVpXTWhiakpRME56bnhMYXJ3QkNGRDZmdjdnOHN0X2NGajdvcC1ndHN4UQ?oc=5",
+      "pub_date": 1791571446.0,
+      "article_url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-1152x648.jpg",
+      "description": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-09T19:17:57.334669+00:00"
+  "fetched_at": "2026-10-09T23:24:56.168850+00:00"
 }
