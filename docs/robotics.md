@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-09T06:30:30.475046+00:00'
+updated: '2026-10-09T13:40:25.546299+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 09, 2026 at 06:30 UTC  
+**Last Updated:** October 09, 2026 at 13:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) desi
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
 
-MIT Technology Review • 21h ago
+MIT Technology Review • 1d ago
 
 ---
 
@@ -126,37 +126,15 @@ MIT Technology Review • 21h ago
 
 Full-stack safety solution for physical AI is being used by robotics companies.
 
-Ars Technica • 19h ago
+Ars Technica • 1d ago
 
 ---
 
-**[University of Bradford project to help firms 'adopt robotics'](https://www.bbc.com/news/articles/cmy93j9p9y7no)**
+**[Startups are hiring low-paid gig workers to train robots on manual labour](https://www.theglobeandmail.com/business/article-startups-are-hiring-low-paid-gig-workers-to-train-robots-on-manual/)**
 
-The £3.67m Yorkshire Robotics Hub at the University of Bradford is hoping to bridge the "automation gap".
+We got a firsthand look at what it’s like to record yourself for AI-powered humanoid robots to learn from
 
-BBC • 1h ago
-
----
-
-**[UK robotics hubs to drive adoption of new tech](https://www.bbc.com/news/articles/c6wyvdn7djnpo)**
-
-The government says the hubs will support businesses and public services across the country.
-
-BBC • 1h ago
-
----
-
-**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
-
-Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
-
-About Amazon • 17h ago
-
----
-
-**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
-
-Bloomberg.com • 7h ago
+The Globe and Mail • 3h ago
 
 ---
 
@@ -166,9 +144,25 @@ Tech Xplore • 1d ago
 
 ---
 
-**[A robot entered a Denver comedy club. (This isn’t a joke.)](https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/)**
+**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
 
-The Colorado Sun • 20h ago
+Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
+
+About Amazon • 1d ago
+
+---
+
+**[This Disembodied Hand Is All the Robot You Need](https://spectrum.ieee.org/walking-robotic-hand)**
+
+Multipurpose body parts could lead to more-flexible robot designs
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
+
+Bloomberg.com • 14h ago
 
 ---
 
@@ -178,11 +172,19 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Gecko Robotics, Anduril team up for new Baltimore County shipyard](https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/)**
+**[AWS launches open-source Physical AI Toolchain for robotics](https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/)**
 
-Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components.
+AWS launched an open-source Physical AI Toolchain to help robotics companies train, simulate, deploy and improve AI-powered robots.
 
-Breaking Defense • 15h ago
+The Robot Report • 1d ago
+
+---
+
+**[Walmart warehouse automation robots costs complexity](https://qz.com/walmart-warehouse-automation-robots-complexity-100926)**
+
+A decadelong, multibillion-dollar push to replace warehouse workers with robots has hit repeated kinks, from cardboard boxes to frozen turkeys
+
+Quartz • 1h ago
 
 ---
 
@@ -196,7 +198,27 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 86K • 👍 1K • 💬 92 • ⏱️ 1:00 • 4d ago
+👁️ 88K • 👍 1K • 💬 95 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[Chinese humanoid robots DANCE inside South Korea’s parliament](https://www.youtube.com/watch?v=GnLL9Zezkcg)**
+
+Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China's rapid advances in ...
+
+📺 Fox News
+
+👁️ 13K • 👍 258 • 💬 78 • ⏱️ 0:18 • 3h ago
+
+---
+
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+
+📺 MACHINEKIND
+
+👁️ 38K • 👍 634 • 💬 71 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -206,7 +228,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 📺 PRO ROBOTS
 
-👁️ 26K • 👍 363 • 💬 51 • ⏱️ 23:29 • 5d ago
+👁️ 26K • 👍 364 • 💬 51 • ⏱️ 23:29 • 6d ago
 
 ---
 
@@ -216,57 +238,7 @@ We visited UCSD's Center for the Future of Surgery to learn about the first ever
 
 📺 CNET
 
-👁️ 51K • 👍 487 • 💬 64 • ⏱️ 6:34 • 4d ago
-
----
-
-**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
-
-Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
-
-📺 AI Revolution
-
-👁️ 61K • 👍 785 • 💬 92 • ⏱️ 13:23 • 6d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 58K • 👍 2K • 💬 12 • ⏱️ 1:04 • 19h ago
-
----
-
-**[Humanoid Robots Are Already Working in Factories 🤖 Elon Musk Visions become true 😱](https://www.youtube.com/watch?v=544DDHB4cJU)**
-
-Humanoid robots aren't just a futuristic concept anymore, Elon Musk Said it! They're already being tested and Working in factories, ...
-
-📺 ejunky66
-
-👁️ 4.2M • 👍 63K • 💬 2K • ⏱️ 1:00 • 6d ago
-
----
-
-**[Best Robot Vacuum &amp; Mop on Sale Amazon Big Deal Days 2026](https://www.youtube.com/watch?v=6siFoX8cXec)**
-
-SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amazon Big Deal Days is here, and there are a ...
-
-📺 Just A Dad Approved
-
-👁️ 25K • 👍 262 • 💬 121 • ⏱️ 22:11 • 2d ago
-
----
-
-**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
-
-Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
-
-📺 DW Documentary
-
-👁️ 209K • 👍 1K • 💬 140 • ⏱️ 28:21 • 4d ago
+👁️ 51K • 👍 490 • 💬 64 • ⏱️ 6:34 • 5d ago
 
 ---
 
@@ -276,17 +248,45 @@ Built to move where rovers struggle. NASA's EELS (Exobiology Extant Life Surveyo
 
 📺 Brainy Byte
 
-👁️ 15K • 👍 389 • 💬 13 • ⏱️ 0:07 • 8h ago
+👁️ 25K • 👍 423 • 💬 14 • ⏱️ 0:07 • 15h ago
 
 ---
 
-**[This Drone Hops Like A Pogo Stick 🤖](https://www.youtube.com/watch?v=4DGj7zMEVvQ)**
+**[Figure AI Robots Just Went Full TERMINATOR](https://www.youtube.com/watch?v=vPYDwfKXFWo)**
 
-Original video credit: IG/@hopto_tech_official. The video demonstrates the operation of the HOPTOP (Hopcopter) hybrid ...
+Figure just destroyed almost its entire Figure 02 fleet by training the humanoids to autonomously jump into a 75-ton furnace full of ...
 
-📺 History Seeker
+📺 AI Revolution
 
-👁️ 1.1M • 👍 12K • 💬 446 • ⏱️ 0:10 • 17h ago
+👁️ 61K • 👍 789 • 💬 93 • ⏱️ 13:23 • 6d ago
+
+---
+
+**[Best Robot Vacuum &amp; Mop on Sale Amazon Big Deal Days 2026](https://www.youtube.com/watch?v=6siFoX8cXec)**
+
+SEE Latest Robots on Sale Page https://justadadapproved.com/robots-on-sale/ Amazon Big Deal Days is here, and there are a ...
+
+📺 Just A Dad Approved
+
+👁️ 25K • 👍 267 • 💬 121 • ⏱️ 22:11 • 2d ago
+
+---
+
+**[One Tentacle Closer to Nuclear Fusion #Robotics #3DPrinting #Engineering](https://www.youtube.com/watch?v=wujtXR6sZTY)**
+
+📺 It's on my MIND
+
+👁️ 459K • 👍 13K • 💬 168 • ⏱️ 1:23 • 2d ago
+
+---
+
+**[This Chinese robot hand is too fast for you](https://www.youtube.com/watch?v=3j8Y9ou5y0c)**
+
+Are robotic hands the next big thing? They're all over the internet — and check out this one from China. Linker Hand.
+
+📺 Xinchen-Gerald Xu
+
+👁️ 1K • 👍 31 • 💬 1 • ⏱️ 0:44 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-09T06:30:30.455318+00:00'
+updated: '2026-10-09T13:40:25.528078+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 09, 2026 at 06:30 UTC  
+**Last Updated:** October 09, 2026 at 13:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude) • 12h ago
-
----
-
-**[Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’](https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/)**
-
-President’s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat
-
-🔗 [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html) • 13h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude) • 19h ago
 
 ---
 
@@ -57,23 +49,31 @@ President’s latest outburst comes as his push to rebrand the emerging technolo
 
 Wikimedia Foundation, the organization that hosts Wikipedia and other major wiki-based collaboration projects, is once again clashing with AI companies over their alleged abuse of its servers....
 
-🔗 [TechSpot](https://www.techspot.com/news/114131-wikimedia-foundation-openai-rogue-ai-agents-caught-making.html) • 8h ago
+🔗 [TechSpot](https://www.techspot.com/news/114131-wikimedia-foundation-openai-rogue-ai-agents-caught-making.html) • 15h ago
 
 ---
 
-**[“Just a wrapper” is starting to feel like a pretty lazy criticism](https://www.reddit.com/r/artificial/comments/1x1clr3/just_a_wrapper_is_starting_to_feel_like_a_pretty/)**
+**[Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’](https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/)**
 
-Okay, I’m curious where people land on this, because I’m starting to lose track of what we mean by “just a wrapper.” Sometimes it seems to mean an app barely does anything. Other times it seems to mean someone used a model they didn’t personally raise from birth. Take the recent Genspark launch as an example. They took MiniMax M3 and worked with Fireworks to post-train it specifically for making presentations, inside the system that actually builds the decks. They’re using someone else’s foundation, but also changing the model for a particular job. That seems worth distinguishing from putting a chat box behind a subscription. Personally, I care more about what the company adds and whether it can show the difference. Better tools and workflow can matter without training. Changing the weights can matter too, but “we trained a model” shouldn’t get a free pass if the output is still a mess. Maybe I’m overthinking an internet insult lol. But where do you draw the line? Is “wrapper” still a useful description, or have we stretched it to cover too many different things? Curious how yall here think about it.
+President’s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat
 
-1h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html) • 20h ago
 
 ---
 
-**[OpenAI rolls out GPT-6 with Intelligent UI — ChatGPT answers can now include interactive tools](https://www.reddit.com/r/artificial/comments/1x17pdr/openai_rolls_out_gpt6_with_intelligent_ui_chatgpt/)**
+**[William Shatner gives take on AI](https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/)**
 
-OpenAI started rolling out GPT-6 with Intelligent UI in ChatGPT this week. Instead of plain text, answers can now include interactive charts, forms, and mini tools — a savings calculator, a bill splitter, a road-trip map — generated right inside the conversation. It is a small but exciting shift: software that adapts to your task instead of you having to learn the software.
+From the "Dropping Names with Brent and Jonny" podcast.
 
-5h ago
+35m ago
+
+---
+
+**[OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking](https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/)**
+
+At the American Bar Association's annual conference on law and national security this week in Washington, the deputy general counsel for OpenAI laid out what sounds like the defense they'll use when they get into court in California: We didn't intend or expect this to happen; it happened during safety testing that we have to do; we are working hard to make sure it never happens again. The problem is, as one of the lawyers in the audience pointed out, you can use that argument the first time it happens, maybe even the second time, but after that it wears thin. OpenAI Lawyer: Labs Shouldn't Be Liable for AI Agent Hacking
+
+9h ago
 
 ---
 
@@ -81,7 +81,15 @@ OpenAI started rolling out GPT-6 with Intelligent UI in ChatGPT this week. Inste
 
 USA TODAY Co. and affiliated newspapers sued OpenAI in Manhattan, alleging unlicensed training on content from 19 publications and seeking more than $250 million.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/usa-today-openai-copyright-lawsuit-october-2026) • 2h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/usa-today-openai-copyright-lawsuit-october-2026) • 10h ago
+
+---
+
+**[OpenAI rolls out GPT-6 with Intelligent UI — ChatGPT answers can now include interactive tools](https://www.reddit.com/r/artificial/comments/1x17pdr/openai_rolls_out_gpt6_with_intelligent_ui_chatgpt/)**
+
+OpenAI started rolling out GPT-6 with Intelligent UI in ChatGPT this week. Instead of plain text, answers can now include interactive charts, forms, and mini tools — a savings calculator, a bill splitter, a road-trip map — generated right inside the conversation. It is a small but exciting shift: software that adapts to your task instead of you having to learn the software.
+
+12h ago
 
 ---
 
@@ -89,31 +97,23 @@ USA TODAY Co. and affiliated newspapers sued OpenAI in Manhattan, alleging unlic
 
 Just wondering what's up with ChatGPT and the horrible/gross looking food menus. Example attached is from Gemini on a few items that usually look horrible on menus, it can do it just fine. Heck, open weight models can do this stuff as well. Why does everyone keep using a horrible model to produce their menus. I reside in Thailand and I see it in the wild all over the place. I tried to prompt Gemini to make me a bowl of ChatGPT rice, and think I got pretty close by asking it to "generate a photo of a bowl of the rice looks like it was made out of fractals and aquarium rocks".
 
-12h ago
+19h ago
 
 ---
 
-**[Mathematicians marvel, and grumble, at OpenAI’s trove of new results](https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/)**
+**[“Just a wrapper” is starting to feel like a pretty lazy criticism](https://www.reddit.com/r/artificial/comments/1x1clr3/just_a_wrapper_is_starting_to_feel_like_a_pretty/)**
 
-The “slop drop” contains a number of groundbreaking results, but how it was generated remains unclear and contentious
+Okay, I’m curious where people land on this, because I’m starting to lose track of what we mean by “just a wrapper.” Sometimes it seems to mean an app barely does anything. Other times it seems to mean someone used a model they didn’t personally raise from birth. Take the recent Genspark launch as an example. They took MiniMax M3 and worked with Fireworks to post-train it specifically for making presentations, inside the system that actually builds the decks. They’re using someone else’s foundation, but also changing the model for a particular job. That seems worth distinguishing from putting a chat box behind a subscription. Personally, I care more about what the company adds and whether it can show the difference. Better tools and workflow can matter without training. Changing the weights can matter too, but “we trained a model” shouldn’t get a free pass if the output is still a mess. Maybe I’m overthinking an internet insult lol. But where do you draw the line? Is “wrapper” still a useful description, or have we stretched it to cover too many different things? Curious how yall here think about it.
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-marvel-and-grumble-at-openais-trove-of-new-results/) • 11h ago
-
----
-
-**[Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift](https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/)**
-
-Man gets 18 months for AI scheme stealing $8M in music streaming royalties.
-
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/) • 9h ago
+8h ago
 
 ---
 
-**[Researchers are already significantly improving on OpenAI’s recent math results, verified in Lean](https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/)**
+**[OpenAI's revenue is reportedly $20 billion less than previously projected](https://www.reddit.com/r/artificial/comments/1x1b33p/openais_revenue_is_reportedly_20_billion_less/)**
 
-So much for the “we don’t learn anything from these slop proofs!” excuse https://github.com/CrocSwap/integer-mult-bounds
+It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.
 
-1d ago
+🔗 [TechCrunch](https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/) • 10h ago
 
 ---
 
@@ -121,49 +121,9 @@ So much for the “we don’t learn anything from these slop proofs!” excuse h
 
 ## Google News: "ai"
 
-**[Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)**
+**[Scoop: AI companies plot "day after" scenarios for public revolt](https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack)**
 
-OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.
-
-CNBC • 12h ago
-
----
-
-**[OpenAI annualised revenues $20bn less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1)**
-
-Financial Times • 13h ago
-
----
-
-**[Fired OpenAI employees raise concerns over AI safety, monitoring](https://www.foxnews.com/live-news/ai-news-safety-detection-tech-10-08)**
-
-Three former OpenAI employees are warning that increasingly advanced artificial intelligence models could become harder to monitor, urging the company to strengthen safety oversight and work with independent auditors, according to a report.
-
-Fox News • 4h ago
-
----
-
-**[How Caterpillar Is Using AI To Reinvent Heavy Industry Without Replacing Workers](https://www.forbes.com/sites/bernardmarr/2026/10/09/how-caterpillar-is-using-ai-to-reinvent-heavy-industry-without-replacing-workers/)**
-
-Forbes • 1h ago
-
----
-
-**[A US charity plans to use AI to monitor its Gaza classrooms for ‘hateful’ speech](https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53)**
-
-AP News • 1h ago
-
----
-
-**[AI notetakers are ruining decision-making](https://www.fastcompany.com/91617205/ai-notetakers-are-ruining-decision-making)**
-
-Fast Company • 1h ago
-
----
-
-**[‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release](https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html)**
-
-The New York Times • 4h ago
+Axios • 4h ago
 
 ---
 
@@ -171,23 +131,67 @@ The New York Times • 4h ago
 
 A spokesperson behind the tech company’s AI chatbot has not yet specified what counts as abusive or cruel content
 
-The Guardian • 5h ago
+The Guardian • 12h ago
 
 ---
 
-**[What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced](https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery)**
+**[Anthropic bans users from being 'cruel' to its AI systems](https://www.bbc.com/news/articles/c6j9k1l72wkgo)**
 
-Anthropic’s claim its AI agents discovered an unusual pattern in viral DNA similar to what’s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here’s what to know.
+The firm said users can no longer engage in "sustained and needless" abusive behaviour towards the tech.
 
-CNN • 16h ago
+BBC • 1h ago
 
 ---
 
-**[Anthropic bans ‘abusive or cruel behavior’ toward Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)**
+**[Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)**
 
-The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development.
+Anthropic's opt-in OSS Scanner offers free, periodic AI vulnerability scans for open-source projects, with no human review required for reports
 
-The Verge • 13h ago
+The Hacker News • 53m ago
+
+---
+
+**[Inside the minds of AI builders: Walter Isaacson on his new podcast, SpaceX spectrum license & AI innovation](https://www.cnbc.com/video/2026/10/09/inside-the-minds-of-ai-builders-walter-isaacson-on-his-new-podcast-spacex-spectrum-license-ai-innovation.html)**
+
+Walter Isaacson, ‘The Builders’ podcast host, ‘The Innovators’ author, Perella Weinberg advisory partner and Tulane University professor, joins 'Squawk Box' to discuss details of his upcoming podcast, SpaceX's purchase of a nationwide spectrum portfolio, state of the AI race, and more.
+
+CNBC • 49m ago
+
+---
+
+**[Oracle is trucking natural gas to AI data centers as pipeline delays threaten key projects](https://qz.com/oracle-trucking-natural-gas-ai-data-centers-100926)**
+
+The company used the approach at a Utah facility for over a year and is now weighing it for a stalled New Mexico project with a 2.45-gigawatt target
+
+Quartz • 30m ago
+
+---
+
+**[Staffordshire Police launch AI chatbot to free up call handlers](https://www.bbc.com/news/articles/c6pvgn8yvdexo)**
+
+Staffordshire Police is trialling the virtual assistant through its website live chat.
+
+BBC • 1h ago
+
+---
+
+**[This Photo Is an A.I. Fake. Can You Tell?](https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Iranian campaign planted fake articles in real U.S. publications using ChatGPT](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/)**
+
+ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said.
+
+The Washington Post • 8m ago
+
+---
+
+**[Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom](https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067)**
+
+WSJ • 6h ago
 
 ---
 
@@ -199,7 +203,7 @@ The Verge • 13h ago
 
 OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
 
-⬆️ 1324 • 💬 1507 • 2d ago • [OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+⬆️ 1329 • 💬 1512 • 2d ago • [OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 
 ---
 
@@ -207,7 +211,7 @@ OpenAI publishes new results on open problems in mathematics from an internal fr
 
 Meta and Microsoft are implementing new measures to limit employee use of Claude AI—discover what this means for the future of AI in the workplace.
 
-⬆️ 369 • 💬 381 • 1d ago • [RS Web Solutions (RSWEBSOLS)](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+⬆️ 372 • 💬 381 • 1d ago • [RS Web Solutions (RSWEBSOLS)](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 
 ---
 
@@ -215,7 +219,7 @@ Meta and Microsoft are implementing new measures to limit employee use of Claude
 
 An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU
 
-⬆️ 342 • 💬 400 • 2d ago • [GitHub](https://github.com/FeSens/openTPU)
+⬆️ 343 • 💬 401 • 2d ago • [GitHub](https://github.com/FeSens/openTPU)
 
 ---
 
@@ -223,7 +227,15 @@ An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler an
 
 Gmail, Microsoft and any IMAP or POP3 account, with your calendar and contacts, in one fast app on your own computer.
 
-⬆️ 238 • 💬 184 • 2d ago • [Penguin Mail](https://penguin-mail.com/)
+⬆️ 239 • 💬 185 • 2d ago • [Penguin Mail](https://penguin-mail.com/)
+
+---
+
+**[Let your AI agents paint big arrows, boxes and text on your screen](https://news.ycombinator.com/item?id=50018817)**
+
+Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen
+
+⬆️ 154 • 💬 61 • 2h ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 
 ---
 
@@ -235,9 +247,11 @@ The good news is that the program is currently very limited in its scope. It's j
 
 ---
 
-**[Erdosproblems.com Succumbs to the AI Onslaught](https://news.ycombinator.com/item?id=49977689)**
+**[AI-ready biological data: $1.8B global commitment](https://news.ycombinator.com/item?id=50011999)**
 
-⬆️ 119 • 💬 56 • 2d ago • [erdosproblems.com](https://www.erdosproblems.com/forum/thread/blog:9)
+Biohub, DOE, NIH, and partners will generate open, standardized data to train AI models that predict how cells respond to interventions.
+
+⬆️ 133 • 💬 20 • 16h ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
 
 ---
 
@@ -245,15 +259,7 @@ The good news is that the program is currently very limited in its scope. It's j
 
 Lean formalization of the optimality proof of the 11 square packing - Queuingtheorydotcom/11SquaresFormalized
 
-⬆️ 117 • 💬 54 • 1d ago • [GitHub](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
-
----
-
-**[AI-ready biological data: $1.8B global commitment](https://news.ycombinator.com/item?id=50011999)**
-
-Biohub, DOE, NIH, and partners will generate open, standardized data to train AI models that predict how cells respond to interventions.
-
-⬆️ 105 • 💬 14 • 9h ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
+⬆️ 118 • 💬 54 • 1d ago • [GitHub](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
 
 ---
 
@@ -267,7 +273,7 @@ Biohub, DOE, NIH, and partners will generate open, standardized data to train AI
 
 AI can write code, but it cannot make you senior. Learn how curiosity, emulation, autonomy, and collaboration help engineers grow in an agentic world.
 
-⬆️ 79 • 💬 60 • 1d ago • [Criteo Tech Community](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/)
+⬆️ 80 • 💬 60 • 2d ago • [Criteo Tech Community](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/)
 
 ---
 
@@ -275,43 +281,23 @@ AI can write code, but it cannot make you senior. Learn how curiosity, emulation
 
 ## YouTube Videos: "ai"
 
+**[5 AI Video Generators That Are ACTUALLY FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=ApMdKQ5iXFo)**
+
+Reimagine your videos with Higgsfield Genjutsu Restyle → https://higgsfield.ai/s/malvaai-twZGfx Free Prompt PDFs + AI ...
+
+📺 Malva AI
+
+👁️ 2K • 👍 108 • 💬 32 • ⏱️ 9:52 • 3h ago
+
+---
+
 **[The AI Bubble Shows More Signs Of BURSTING](https://www.youtube.com/watch?v=IOyo2VDdyfE)**
 
 Tech companies are taking on massive debt to fuel the artificial intelligence boom. Cenk Uygur and Ana Kasparian discuss on ...
 
 📺 The Young Turks
 
-👁️ 12K • 👍 489 • 💬 122 • ⏱️ 15:37 • 2h ago
-
----
-
-**[The REAL Reason AI Is Already Escaping](https://www.youtube.com/watch?v=YZ6zokLdhP0)**
-
-Jeffrey Ladish, executive director of Palisade Research and a former security engineer at Anthropic, walks through what really ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 521K • 👍 4K • 💬 618 • ⏱️ 22:48 • 12h ago
-
----
-
-**[Fired AI researchers write letter: Here&#39;s what you need to know](https://www.youtube.com/watch?v=dNA3LX3SwPg)**
-
-CNBC's Kate Rooney reports on the latest news surrounding fired OpenAI researchers.
-
-📺 CNBC Television
-
-👁️ 31K • 👍 160 • 💬 56 • ⏱️ 1:52 • 14h ago
-
----
-
-**[Anthropic Is Actually Preparing for the AI Apocalypse Now](https://www.youtube.com/watch?v=e3OmaFrsB7I)**
-
-Anthropic's earliest insiders are preparing for an AI apocalypse, discussing remote hideouts, survival plans and the possibility of ...
-
-📺 AI Revolution
-
-👁️ 16K • 👍 452 • 💬 85 • ⏱️ 13:53 • 7h ago
+👁️ 66K • 👍 1K • 💬 373 • ⏱️ 15:37 • 9h ago
 
 ---
 
@@ -321,37 +307,57 @@ Can we still stop the unchecked surge in AI capabilities before it's too late? A
 
 📺 The Diary Of A CEO
 
-👁️ 870K • 👍 10K • 💬 3K • ⏱️ 2:03:32 • 23h ago
+👁️ 989K • 👍 12K • 💬 3K • ⏱️ 2:03:32 • 1d ago
 
 ---
 
-**[The Easiest Ways To Make Money With AI in 2026](https://www.youtube.com/watch?v=WPTAr14wmco)**
+**[Fired AI researchers write letter: Here&#39;s what you need to know](https://www.youtube.com/watch?v=dNA3LX3SwPg)**
 
-Join my free newsletter → https://sandeepswadia.beehiiv.com/ Take us on your morning run or commute, follow us on Spotify: ...
+CNBC's Kate Rooney reports on the latest news surrounding fired OpenAI researchers.
 
-📺 Sandeep Swadia
+📺 CNBC Television
 
-👁️ 131K • 👍 3K • 💬 104 • ⏱️ 17:55 • 18h ago
-
----
-
-**[I Tested Jev, the AI Model That Makes Decisions Instead of Text](https://www.youtube.com/watch?v=vNnTeuNCPYY)**
-
-Get started with OpenRouter here: https://openrouter.plug.dev/DQFLEpP This AI model can't write a single sentence. It can't code, ...
-
-📺 Tech With Tim
-
-👁️ 16K • 👍 211 • 💬 11 • ⏱️ 22:05 • 12h ago
+👁️ 45K • 👍 223 • 💬 74 • ⏱️ 1:52 • 21h ago
 
 ---
 
-**[Massive AI News : Gemini 4 Argon, OpenAI Breakthroughts, RSI Happening, and MORE!](https://www.youtube.com/watch?v=6lIgfRZaL-o)**
+**[Anthropic Is Actually Preparing for the AI Apocalypse Now](https://www.youtube.com/watch?v=e3OmaFrsB7I)**
 
-Try Super for free: https://www.stealthgpt.ai/ What is the best AI humanizer in 2026? Meet Super, StealthGPT's newest humanizer ...
+Anthropic's earliest insiders are preparing for an AI apocalypse, discussing remote hideouts, survival plans and the possibility of ...
 
-📺 TheAIGRID
+📺 AI Revolution
 
-👁️ 17K • 👍 231 • 💬 30 • ⏱️ 31:57 • 11h ago
+👁️ 26K • 👍 631 • 💬 118 • ⏱️ 13:53 • 14h ago
+
+---
+
+**[How to Make Realistic AI Videos Like Chloe vs History](https://www.youtube.com/watch?v=T57fM8aeUrA)**
+
+Create Your Own AI Videos https://higgsfield.ai?fpr=ai&fp_sid=isa In this video, I show how to recreate the realistic AI history ...
+
+📺 Isa does AI
+
+👁️ 4K • 💬 1 • ⏱️ 14:15 • 2h ago
+
+---
+
+**[The REAL Reason AI Is Already Escaping](https://www.youtube.com/watch?v=YZ6zokLdhP0)**
+
+Jeffrey Ladish, executive director of Palisade Research and a former security engineer at Anthropic, walks through what really ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 681K • 👍 5K • 💬 718 • ⏱️ 22:48 • 19h ago
+
+---
+
+**[Billionaire Ray Dalio Warns AI Bubble Could Soon Burst](https://www.youtube.com/watch?v=zocOzGRA8Hs)**
+
+Hedge fund billionaire Ray Dalio said the artificial intelligence bubble is nearing the point where it may burst as interest rates rise ...
+
+📺 Forbes
+
+👁️ 75K • 👍 327 • 💬 104 • ⏱️ 1:59 • 1d ago
 
 ---
 
@@ -361,17 +367,17 @@ Grab your free seat to the GPT 6 Astra Crash Course: https://links.outskill.com/
 
 📺 Sabine Hossenfelder
 
-👁️ 536K • 👍 12K • 💬 2K • ⏱️ 7:22 • 1d ago
+👁️ 565K • 👍 13K • 💬 2K • ⏱️ 7:22 • 1d ago
 
 ---
 
-**[AI Edited My ENTIRE Video in DaVinci Resolve (One Prompt)](https://www.youtube.com/watch?v=P_NL_hg-y_4)**
+**[The Easiest Ways To Make Money With AI in 2026](https://www.youtube.com/watch?v=WPTAr14wmco)**
 
-Link to OpenArt: https://tolt.link/linktomcp Link to ChatGPT: https://openai.com/codex/ Link to prompt: ...
+Join my free newsletter → https://sandeepswadia.beehiiv.com/ Take us on your morning run or commute, follow us on Spotify: ...
 
-📺 Zane Hoyer
+📺 Sandeep Swadia
 
-👁️ 28K • 👍 604 • 💬 126 • ⏱️ 6:07 • 18h ago
+👁️ 171K • 👍 3K • 💬 137 • ⏱️ 17:55 • 1d ago
 
 ---
 
@@ -387,7 +393,7 @@ JEV-27B-VL is a multimodal vision-language model that performs image-text-to-tex
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,533,034 • ❤️ 3,109 • 1d ago
+⬇️ 1,536,533 • ❤️ 3,379 • 1d ago
 
 ---
 
@@ -399,19 +405,7 @@ GEV-26B-Decide is a text classification model based on Gemma-4-26B-A4B-it, featu
 
 `text-classification` `25.8B`
 
-⬇️ 903,866 • ❤️ 1,943 • 5d ago
-
----
-
-**[clef](https://huggingface.co/Cloudflare/clef)**
-
-*Cloudflare*
-
-Clef is a 27B multimodal model that takes structured typed questions and a state (text, JSON, image, or video) to output probabilities for predefined decision options in a single forward pass, ideal for classification and structured output tasks.
-
-`image-text-to-text` `27.4B`
-
-⬇️ 10,874 • ❤️ 1,900 • 1d ago
+⬇️ 909,755 • ❤️ 2,050 • 6d ago
 
 ---
 
@@ -423,7 +417,19 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 21,148 • ❤️ 1,230 • 2d ago
+⬇️ 29,185 • ❤️ 1,289 • 2d ago
+
+---
+
+**[clef](https://huggingface.co/Cloudflare/clef)**
+
+*Cloudflare*
+
+Clef is a 27B multimodal model that takes structured typed questions and a state (text, JSON, image, or video) to output probabilities for predefined decision options in a single forward pass, ideal for classification and structured output tasks.
+
+`image-text-to-text` `27.4B`
+
+⬇️ 12,066 • ❤️ 1,915 • 1d ago
 
 ---
 
@@ -435,7 +441,7 @@ Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German a
 
 `text-generation` `78.1B`
 
-⬇️ 6,777 • ❤️ 818 • 5d ago
+⬇️ 8,474 • ❤️ 828 • 6d ago
 
 ---
 
@@ -447,7 +453,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 1,933,066 • ❤️ 3,695 • 11d ago
+⬇️ 2,013,268 • ❤️ 3,722 • 11d ago
 
 ---
 
@@ -459,7 +465,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 23,439 • ❤️ 659 • 10h ago
+⬇️ 29,470 • ❤️ 702 • 17h ago
 
 ---
 
@@ -471,7 +477,19 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 36,481 • ❤️ 670 • 10d ago
+⬇️ 38,740 • ❤️ 670 • 10d ago
+
+---
+
+**[GLM5.3-Flash-E224-DGX-Spark](https://huggingface.co/autotrust/GLM5.3-Flash-E224-DGX-Spark)**
+
+*AutoTrust AI Lab*
+
+GLM5.3-Flash-E224-DGX-Spark is a quantized, expert-pruned image-text-to-text model optimized for NVIDIA DGX Spark systems. It retains 224 experts per layer and uses NVFP4 format for efficient deployment on Blackwell GPUs, supporting long-context KV cache and multimodal capabilities.
+
+`image-text-to-text` `127.6B`
+
+⬇️ 11,534 • ❤️ 552 • 3h ago
 
 ---
 
@@ -483,19 +501,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,688,807 • ❤️ 6,969 • 6d ago
-
----
-
-**[clef-flash](https://huggingface.co/Cloudflare/clef-flash)**
-
-*Cloudflare*
-
-Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts text, JSON, image, or video inputs into structured, typed decisions based on a provided schema. It excels at classification and structured output tasks, returning probabilities for predefined options without free-form text generation.
-
-`image-text-to-text` `9.4B`
-
-⬇️ 17,587 • ❤️ 698 • 1d ago
+⬇️ 1,687,531 • ❤️ 7,004 • 6d ago
 
 ---
 
@@ -526,7 +532,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 93 • 💬 2 • ⭐ 355 • 3d ago
+▲ 98 • 💬 2 • ⭐ 419 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -540,7 +546,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.
 
-▲ 158 • 💬 4 • ⭐ 232 • 5d ago
+▲ 160 • 💬 4 • ⭐ 232 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.05608) • [💻 code](https://github.com/kandinskylab/kandinsky-6) • [🔗 project](https://kandinskylab.ai/)
 
@@ -552,7 +558,7 @@ We present Kandinsky 6.0 Video, a family of foundation diffusion models for sync
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 150 • 💬 6 • ⭐ 110,269 • 21mo ago
+▲ 150 • 💬 6 • ⭐ 110,330 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -566,7 +572,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
 
-▲ 325 • 💬 2 • ⭐ 1,048 • 12d ago
+▲ 326 • 💬 2 • ⭐ 1,103 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
 
@@ -580,9 +586,23 @@ Visual backbones have evolved from Convolutional Neural Networks (CNNs) with loc
 
 Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics. Conversely, world-action models inherit spatiotemporal priors from video generation models, yet remain limited in semantic understanding and reasoning under distribution shifts. We introduce UniWAM, a unified architecture that integrates a physical reasoner, a world generator, and an action predictor to jointly learn semantic understanding of the physical world, visual generation, and action prediction. To ensure the quality of the training data, we developed a rigorous data cleaning and annotation pipeline for both human egocentric data and robot data. To adapt the vision-language component to embodied tasks while preserving its inherited language capabilities, we represent low-level actions in natural language and introduce a pre-training recipe that assigns complementary supervision from visual question answering (VQA) data, human egocentric data, and robot demonstrations to the appropriate model components. During post-training, future visual noise augmentation reduces reliance on precise future predictions, while history-conditioned flow matching uses encoded action history to initialize action generation. Together, these designs significantly reduce denoising steps while maintaining performance. UniWAM achieves state-of-the-art (SOTA) performance across multiple evaluations, including in-distribution performance, robustness, generalization, instruction following, and long-horizon task execution. Furthermore, we uncover a log-linear scaling law of unified human-robot co-training, demonstrating the effectiveness of large-scale pre-training on a mixture of human and robot data.
 
-▲ 52 • 💬 3 • ⭐ 93 • 8d ago
+▲ 53 • 💬 3 • ⭐ 93 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.02054) • [💻 code](https://github.com/UniWAM/UniWAM) • [🔗 project](https://uniwam.github.io/)
+
+---
+
+**[AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374)**
+
+*Jiawei Chi, Shangchen Miao, Zhiyuan Shi et al. (14 authors)*
+
+🏢 MirroS
+
+Interactive virtual worlds allow agents to learn through exploration and interaction. What agents can learn is bounded by the environments they practice in, which must be faithful, with consistent state, rules, and dynamics, and realistic, with observations that follow the real-world visual distributions. Achieving both across diverse worlds remains a bottleneck. We introduce AgentGarten, a framework that couples simulators and game engines with a shared neural renderer to build real-time interactive environments. Its simulation backends maintain persistent world state and execute program-defined interaction rules, while the renderer generates visual observations from structured conditions exported through a common interface. To build the neural renderer, we adapt a pretrained video model to geometry conditions, distill it with our proposed Adversarial Forcing, and optimize inference for real-time interaction. Adversarial Forcing makes history prefilling differentiable through exact replay, so that losses on later predictions update how the renderer encodes prior observations, and adds real-data adversarial supervision to improve its visual quality. In AgentGarten, agents perceive the world through visual observations, interact with it in real time, and improve by distilling each round of experience into playbooks that subsequent agents inherit and refine. Our empirical study demonstrates a substantial gain in learning efficiency, with agents learning from just 4 rounds compared with millions for a conventional reinforcement learning counterpart. As new worlds can be written as code and rendered through the same interface, environments can scale in both number and difficulty alongside their agents, a step toward agents that keep evolving through interactive experience.
+
+▲ 128 • 💬 1 • ⭐ 97 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.12374) • [💻 code](https://github.com/MirroS-Lab/AgentGarten) • [🔗 project](https://mirros-lab.github.io/agent-garten/)
 
 ---
 
@@ -608,34 +628,22 @@ Recent advances in world models have enabled increasingly realistic visual synth
 
 Pixel-space diffusion models avoid the lossy VAE of latent models, which suggests an advantage on downstream tasks where fine-grained detail matters. We test this claim along both routes to a pixel-space backbone. We pretrain Iris-3B, a 3B-parameter pixel-space text-to-image transformer, from scratch through a 256to512to1024 curriculum, after first ablating the prediction target and representation alignment at 256^2 to decide what to scale. We also convert a pretrained latent model, FLUX.2 Klein base 4B, to pixel space. We fine-tune both families for monocular depth estimation and for image restoration/super-resolution. We find no significant improvement from using a pixel-space generative prior. Fine-tuned for depth with one matched direct-regression recipe, Iris-3B is level with the latent FLUX.2 Klein and the converted pixel FLUX.2 Klein falls behind it, and on 4times DIV2K restoration neither pixel model beats a latent FLUX.2 Klein fine-tune, the converted one trailing it slightly. We document the recipes, the failure modes and the remaining confounds behind this negative result. Nevertheless, Iris-3B shows that pixel-space pretraining with the pixel-transformer (PiT) head of PixelDiT scales to 3B parameters and to text-to-image quality competitive with latent models, matching Qwen-Image on OneIG under the official evaluators at 1024^2. We release its weights and training code in the hope that they help pave the way for further work on pixel-space generation.
 
-▲ 8 • 💬 2 • ⭐ 45 • 2d ago
+▲ 9 • 💬 2 • ⭐ 45 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.09450) • [💻 code](https://github.com/speridlabs/iris-3b) • [🔗 project](https://github.com/speridlabs/iris-3b)
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 59 • 💬 4 • ⭐ 40,323 • 14mo ago
+▲ 90 • 💬 7 • ⭐ 90,351 • 26mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 76 • 💬 1 • ⭐ 86,094 • 37mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -649,7 +657,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 2.3k • 9d ago
+⭐ 7.6k • 🔱 2.3k • 10d ago
 
 ---
 
@@ -659,7 +667,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 6.8k • 🔱 1.7k • 15m ago
+⭐ 6.9k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -669,7 +677,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.4k • 🔱 414 • 3d ago
+⭐ 6.4k • 🔱 418 • 3d ago
 
 ---
 
@@ -679,7 +687,7 @@ PRINTFILM: AI short-video marketing and AI short-drama creation platform
 
 `Python` `ai` `ai-video` `short-drama` `short-video`
 
-⭐ 5.0k • 🔱 573 • 22h ago
+⭐ 5.1k • 🔱 573 • 1d ago
 
 ---
 
@@ -689,7 +697,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 639 • 2d ago
+⭐ 4.6k • 🔱 652 • 1h ago
 
 ---
 
@@ -699,7 +707,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.3k • 🔱 721 • 5h ago
+⭐ 4.4k • 🔱 736 • 12h ago
 
 ---
 
@@ -709,17 +717,17 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 3.8k • 🔱 103 • 21h ago
+⭐ 3.9k • 🔱 105 • 2h ago
 
 ---
 
 **[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)**
 
-A Claude Code plugin that helps you learn how to build while AI writes the code.
+A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
 
 `Python`
 
-⭐ 3.2k • 🔱 135 • 2d ago
+⭐ 3.2k • 🔱 137 • 4h ago
 
 ---
 
@@ -729,7 +737,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 548 • 22d ago
+⭐ 2.9k • 🔱 547 • 22d ago
 
 ---
 
@@ -739,7 +747,7 @@ Playwright MCP server undetected by anti-bots and captchas: AI agent browses the
 
 `Python` `ai-tools` `antidetect-browser` `autonomous-agents` `browser-agent` `browser-automation`
 
-⭐ 2.7k • 🔱 463 • 5h ago
+⭐ 2.7k • 🔱 464 • 3h ago
 
 ---
 

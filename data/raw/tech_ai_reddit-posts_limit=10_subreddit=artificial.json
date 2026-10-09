@@ -13,17 +13,6 @@
       "description": "The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development."
     },
     {
-      "title": "Trump declares anyone who uses the term Artificial Intelligence to be \u2018The Enemy!\u2019",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/",
-      "published": 1791479698.0,
-      "thumbnail": "https://external-preview.redd.it/BkbyA4bv0_f1fxn0IAR60_JNOpa2RYnVvNO6EQDWjLc.jpeg?width=640&crop=smart&auto=webp&s=8217cc7519b3630aaa3813650a08859a0e1da730",
-      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "President\u2019s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat"
-    },
-    {
       "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/",
@@ -35,26 +24,37 @@
       "description": "Wikimedia Foundation, the organization that hosts Wikipedia and other major wiki-based collaboration projects, is once again clashing with AI companies over their alleged abuse of its servers...."
     },
     {
-      "title": "\u201cJust a wrapper\u201d is starting to feel like a pretty lazy criticism",
-      "author": "polopat96",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1clr3/just_a_wrapper_is_starting_to_feel_like_a_pretty/",
-      "published": 1791522177.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Okay, I\u2019m curious where people land on this, because I\u2019m starting to lose track of what we mean by \u201cjust a wrapper.\u201d Sometimes it seems to mean an app barely does anything. Other times it seems to mean someone used a model they didn\u2019t personally raise from birth. Take the recent Genspark launch as an example. They took MiniMax M3 and worked with Fireworks to post-train it specifically for making presentations, inside the system that actually builds the decks. They\u2019re using someone else\u2019s foundation, but also changing the model for a particular job. That seems worth distinguishing from putting a chat box behind a subscription. Personally, I care more about what the company adds and whether it can show the difference. Better tools and workflow can matter without training. Changing the weights can matter too, but \u201cwe trained a model\u201d shouldn\u2019t get a free pass if the output is still a mess. Maybe I\u2019m overthinking an internet insult lol. But where do you draw the line? Is \u201cwrapper\u201d still a useful description, or have we stretched it to cover too many different things? Curious how yall here think about it."
+      "title": "Trump declares anyone who uses the term Artificial Intelligence to be \u2018The Enemy!\u2019",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/",
+      "published": 1791479698.0,
+      "thumbnail": "https://external-preview.redd.it/BkbyA4bv0_f1fxn0IAR60_JNOpa2RYnVvNO6EQDWjLc.jpeg?width=640&crop=smart&auto=webp&s=8217cc7519b3630aaa3813650a08859a0e1da730",
+      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-the-enemy-b3063681.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "President\u2019s latest outburst comes as his push to rebrand the emerging technology increasingly falls flat"
     },
     {
-      "title": "OpenAI rolls out GPT-6 with Intelligent UI \u2014 ChatGPT answers can now include interactive tools",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1x17pdr/openai_rolls_out_gpt6_with_intelligent_ui_chatgpt/",
-      "published": 1791506771.0,
+      "title": "William Shatner gives take on AI",
+      "author": "MightyMouse420",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/",
+      "published": 1791551084.0,
+      "thumbnail": "https://external-preview.redd.it/MXBmcGRhOHV3ZnVoMVWoyvzhW83ehMkmDnY1sNG7ygBQ1IggF5lfFwjurNAK.png?width=640&crop=smart&auto=webp&s=27cf52926043ed2c398334ced5a250efe8509e97",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From the \"Dropping Names with Brent and Jonny\" podcast."
+    },
+    {
+      "title": "OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking",
+      "author": "WatermanReports",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/",
+      "published": 1791519115.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "OpenAI started rolling out GPT-6 with Intelligent UI in ChatGPT this week. Instead of plain text, answers can now include interactive charts, forms, and mini tools \u2014 a savings calculator, a bill splitter, a road-trip map \u2014 generated right inside the conversation. It is a small but exciting shift: software that adapts to your task instead of you having to learn the software."
+      "description": "At the American Bar Association's annual conference on law and national security this week in Washington, the deputy general counsel for OpenAI laid out what sounds like the defense they'll use when they get into court in California: We didn't intend or expect this to happen; it happened during safety testing that we have to do; we are working hard to make sure it never happens again. The problem is, as one of the lawyers in the audience pointed out, you can use that argument the first time it happens, maybe even the second time, but after that it wears thin. OpenAI Lawyer: Labs Shouldn't Be Liable for AI Agent Hacking"
     },
     {
       "title": "USA TODAY sues OpenAI over training on 19 publications",
@@ -68,6 +68,17 @@
       "description": "USA TODAY Co. and affiliated newspapers sued OpenAI in Manhattan, alleging unlicensed training on content from 19 publications and seeking more than $250 million."
     },
     {
+      "title": "OpenAI rolls out GPT-6 with Intelligent UI \u2014 ChatGPT answers can now include interactive tools",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1x17pdr/openai_rolls_out_gpt6_with_intelligent_ui_chatgpt/",
+      "published": 1791506771.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI started rolling out GPT-6 with Intelligent UI in ChatGPT this week. Instead of plain text, answers can now include interactive charts, forms, and mini tools \u2014 a savings calculator, a bill splitter, a road-trip map \u2014 generated right inside the conversation. It is a small but exciting shift: software that adapts to your task instead of you having to learn the software."
+    },
+    {
       "title": "Why are people using ChatGPT for menu generation?",
       "author": "sirebral",
       "url": "https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/",
@@ -79,38 +90,27 @@
       "description": "Just wondering what's up with ChatGPT and the horrible/gross looking food menus. Example attached is from Gemini on a few items that usually look horrible on menus, it can do it just fine. Heck, open weight models can do this stuff as well. Why does everyone keep using a horrible model to produce their menus. I reside in Thailand and I see it in the wild all over the place. I tried to prompt Gemini to make me a bowl of ChatGPT rice, and think I got pretty close by asking it to \"generate a photo of a bowl of the rice looks like it was made out of fractals and aquarium rocks\"."
     },
     {
-      "title": "Mathematicians marvel, and grumble, at OpenAI\u2019s trove of new results",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/",
-      "published": 1791486867.0,
-      "thumbnail": "https://external-preview.redd.it/rDD025PhLKIB5DiO9ttk1ThYMpyroOcgDaMANq5SEGU.jpeg?width=640&crop=smart&auto=webp&s=4650ee49e01611269ce7a1b94c21733c71c52361",
-      "external_url": "https://www.scientificamerican.com/article/mathematicians-marvel-and-grumble-at-openais-trove-of-new-results/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "The \u201cslop drop\u201d contains a number of groundbreaking results, but how it was generated remains unclear and contentious"
-    },
-    {
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "author": "Dances_With_Seagulls",
-      "url": "https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/",
-      "published": 1791492253.0,
-      "thumbnail": "https://external-preview.redd.it/xf7bJ68FPdCjKW358NEPp1dvXmowlVo2OApLVlpEVrQ.jpeg?width=640&crop=smart&auto=webp&s=14134d3a36a1ade8eace47f3ecdf59bdbd7da71b",
-      "external_url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties."
-    },
-    {
-      "title": "Researchers are already significantly improving on OpenAI\u2019s recent math results, verified in Lean",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/",
-      "published": 1791440623.0,
-      "thumbnail": "https://preview.redd.it/aebuy8fns6uh1.jpeg?width=640&crop=smart&auto=webp&s=e534d24f4889590e7cf8168dab551a83989128be",
+      "title": "\u201cJust a wrapper\u201d is starting to feel like a pretty lazy criticism",
+      "author": "polopat96",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1clr3/just_a_wrapper_is_starting_to_feel_like_a_pretty/",
+      "published": 1791522177.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "So much for the \u201cwe don\u2019t learn anything from these slop proofs!\u201d excuse https://github.com/CrocSwap/integer-mult-bounds"
+      "description": "Okay, I\u2019m curious where people land on this, because I\u2019m starting to lose track of what we mean by \u201cjust a wrapper.\u201d Sometimes it seems to mean an app barely does anything. Other times it seems to mean someone used a model they didn\u2019t personally raise from birth. Take the recent Genspark launch as an example. They took MiniMax M3 and worked with Fireworks to post-train it specifically for making presentations, inside the system that actually builds the decks. They\u2019re using someone else\u2019s foundation, but also changing the model for a particular job. That seems worth distinguishing from putting a chat box behind a subscription. Personally, I care more about what the company adds and whether it can show the difference. Better tools and workflow can matter without training. Changing the weights can matter too, but \u201cwe trained a model\u201d shouldn\u2019t get a free pass if the output is still a mess. Maybe I\u2019m overthinking an internet insult lol. But where do you draw the line? Is \u201cwrapper\u201d still a useful description, or have we stretched it to cover too many different things? Curious how yall here think about it."
+    },
+    {
+      "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1b33p/openais_revenue_is_reportedly_20_billion_less/",
+      "published": 1791517103.0,
+      "thumbnail": "https://external-preview.redd.it/NQVSOFH4k3fDm0YLJ7DHLkpXlBmRUu8vNA8cNVlJHyQ.jpeg?width=640&crop=smart&auto=webp&s=10bdb96c9f9caf93a4f1bf5c76286d728873db39",
+      "external_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
     }
   ],
-  "fetched_at": "2026-10-09T06:29:59.797298+00:00"
+  "fetched_at": "2026-10-09T13:39:54.216362+00:00"
 }
