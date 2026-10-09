@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-09T00:09:59.336455+00:00'
+updated: '2026-10-09T06:30:30.471465+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 09, 2026 at 00:09 UTC  
+**Last Updated:** October 09, 2026 at 06:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,476.51
+### $2,490.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** -7.9%  
-**30d:** +1.5%  
-**90d:** +37.1%  
-**1y:** -35.8%  
+**24h:** -2.8%  
+**7d:** -7.1%  
+**30d:** +2.4%  
+**90d:** +38.3%  
+**1y:** -35.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $302.34B
+**Market Cap:** $304.94B
 Rank #2
 
-**Circulating Supply:** 122,116,138 ETH
+**Circulating Supply:** 122,118,912 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.9%
+-49.5%
 
 **All-Time Low:** $0.43
-+571671.4%
++576579.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -132,7 +132,7 @@ I haven't been following up with eth for a while. Can anyone let me know whats a
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -152,7 +152,31 @@ In which I explain how to solve identity in peer-to-peer data systems by (minima
 
 Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.
 
-CoinDesk • 13h ago
+CoinDesk • 19h ago
+
+---
+
+**[Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher](https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum)**
+
+Justin Drake is calling for crypto holders to start calmly planning for “Bunker Mode." But reactions so far haven’t been too calm.
+
+Decrypt News • 18h ago
+
+---
+
+**[Analysts Set Ambitious Bull Market Targets For Bitcoin, Ethereum, and XRP](https://finance.yahoo.com/markets/crypto/articles/analysts-set-ambitious-bull-market-152622988.html)**
+
+Analysts set new price targets for Bitcoin, Ethereum, XRP and Solana as bullish chart patterns point to potentially major breakouts.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Tom Lee’s BitMine Owns 4.9% of All Ethereum. What Happens When It Hits 5%?](https://247wallst.com/investing/cryptocurrency/2026/10/08/tom-lees-bitmine-owns-4-9-of-all-ethereum-what-happens-when-it-hits-5/)**
+
+Tom Lee's BitMine controls around 6 million ETH, amounting to 4.9% of all Ethereum. Here's what reaching 5% means for holders.
+
+24/7 Wall St. • 8h ago
 
 ---
 
@@ -160,44 +184,11 @@ CoinDesk • 13h ago
 
 Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results.
 
-Business Insider • 8h ago
+Business Insider • 14h ago
 
 ---
 
-**[Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift](https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode)**
-
-Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.
-
-Decrypt News • 7h ago
-
----
-
-**[JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near](https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-puts-jltxx-on-ethereum-as-stablecoin-rese)**
-
-JPMorgan Chase (NYSE:JPM) launched JLTXX, a tokenized money market fund on Ethereum, expanding its digital asset infrastructure offering.
-The JLTXX fund is positioned for use by U.S. stablecoin issuers seeking eligible reserve assets ahead of the GENIUS Act rules starting January 2027.
-JPMorgan and BlackRock are emerging as key providers of tokenized reserve funds for stablecoin issuers preparing for upcoming U.S. regulation.
-The launch of JLTXX on Ethereum is only one piece of JPMorgan's...
-
-Simply Wall Street • 1h ago
-
----
-
-**[Bitmine Falls 7% as Tom Lee Says the Ethereum Buying Spree Is About to End; Sharplink and Strategy Drop 5%](https://finance.yahoo.com/markets/crypto/articles/bitmine-falls-7-tom-lee-165930526.html)**
-
-Tom Lee just signaled a major shift in how Bitmine handles its Ethereum treasury, and crypto stocks across the board are taking the hit as investors reconsider what a buying halt means for a company built on relentless accumulation.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
-
-Barron's • 1d ago
-
----
-
-**[Current price of Ethereum for October 7, 2026](https://fortune.com/article/price-of-ethereum-10-07-2026/)**
+**[Current price of Ethereum for Oct. 7, 2026](https://fortune.com/article/price-of-ethereum-10-07-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
@@ -209,7 +200,7 @@ Fortune • 1d ago
 
 At the renowned crypto event, Token2049, Tom Lee, the chairman of BitMine Immersion Technologies, addressed the company's Ethereum accumulation strategy.At the event, Tom Lee publicly declared that the company will stop accumulating Ethereum once its holdings reach 5% of Ethereum's total supply.Bit…
 
-TradingView • 11h ago
+TradingView • 18h ago
 
 ---
 
@@ -217,7 +208,7 @@ TradingView • 11h ago
 
 In a few years, Ethereum could transform from a "blockchain" into a "cryptographic world computer."
 
-The Motley Fool • 13h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -225,7 +216,15 @@ The Motley Fool • 13h ago
 
 The altcoin rally is losing steam in October.
 
-AMBCrypto • 12h ago
+AMBCrypto • 18h ago
+
+---
+
+**[Curve Finance: Ethereum’s Glamsterdam upgrade may boost DeFi execution](https://cryptobriefing.com/curve-finance-ethereums-glamsterdam-upgrade-may-boost-defi-execution/)**
+
+Curve Finance announced Ethereum's Glamsterdam upgrade could enhance DeFi execution. Ethereum reaching $3,300 in October at 3.4% YES.
+
+Crypto Briefing • 10h ago
 
 ---
 
@@ -233,43 +232,13 @@ AMBCrypto • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=-bP9N-QftqM)**
+**[Ethereum Warning (Altcoins Will Die)](https://www.youtube.com/watch?v=o2NF_RtjLwk)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
 
-📺 Crypto Nutshell
+📺 Discover Crypto
 
-👁️ 7K • 👍 196 • 💬 16 • ⏱️ 19:57 • 7h ago
-
----
-
-**[Bearish Trends Pinning Bitcoin &amp; Ethereum as CFTC, SEC Seek Federal Clarity](https://www.youtube.com/watch?v=uRuP74J_44A)**
-
-Adam Lynch (@CharlesSchwab) recaps the recent bout of crypto weakness after Bitcoin tapped $87000 just a couple weeks prior.
-
-📺 Schwab Network
-
-👁️ 1K • 👍 24 • ⏱️ 4:29 • 3h ago
-
----
-
-**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=3y_VP6TzmD0)**
-
-Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 435 • 👍 9 • 💬 2 • ⏱️ 3:03 • 5h ago
-
----
-
-**[Bitcoin To $75K Next? | ETH $16K? | Robinhood Tokens](https://www.youtube.com/watch?v=_OKpZKijUp8)**
-
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v48 ______ ...
-
-📺 Crypto Archie
-
-👁️ 2K • 👍 72 • ⏱️ 9:22 • 10h ago
+👁️ 5K • 👍 151 • 💬 16 • ⏱️ 8:11 • 7h ago
 
 ---
 
@@ -279,17 +248,47 @@ Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ..
 
 📺 Marzell Crypto
 
-👁️ 65 • 👍 6 • 💬 1 • ⏱️ 3:14 • 1h ago
+👁️ 247 • 👍 11 • 💬 1 • ⏱️ 3:14 • 8h ago
 
 ---
 
-**[BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dAePM0b8diM)**
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=-bP9N-QftqM)**
 
-BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto World
+📺 Crypto Nutshell
 
-👁️ 10K • 👍 318 • 💬 74 • ⏱️ 21:48 • 7h ago
+👁️ 13K • 👍 274 • 💬 22 • ⏱️ 19:57 • 13h ago
+
+---
+
+**[Bearish Trends Pinning Bitcoin &amp; Ethereum as CFTC, SEC Seek Federal Clarity](https://www.youtube.com/watch?v=uRuP74J_44A)**
+
+Adam Lynch (@CharlesSchwab) recaps the recent bout of crypto weakness after Bitcoin tapped $87000 just a couple weeks prior.
+
+📺 Schwab Network
+
+👁️ 5K • 👍 33 • ⏱️ 4:29 • 10h ago
+
+---
+
+**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=3y_VP6TzmD0)**
+
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 632 • 👍 10 • 💬 2 • ⏱️ 3:03 • 12h ago
+
+---
+
+**[Bitcoin To $75K Next? | ETH $16K? | Robinhood Tokens](https://www.youtube.com/watch?v=_OKpZKijUp8)**
+
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v48 ______ ...
+
+📺 Crypto Archie
+
+👁️ 2K • 👍 76 • ⏱️ 9:22 • 16h ago
 
 ---
 
@@ -299,17 +298,17 @@ Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provi
 
 📺 CNBC International Live
 
-👁️ 11K • 👍 83 • 💬 16 • ⏱️ 4:19 • 15h ago
+👁️ 12K • 👍 88 • 💬 16 • ⏱️ 4:19 • 22h ago
 
 ---
 
-**[Tom Lee Says Ethereum Can 10x, but Almost Nobody Read the Condition](https://www.youtube.com/watch?v=A-H5yQ_JN2M)**
+**[BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dAePM0b8diM)**
 
-Tom Lee says Ethereum can go up 10x, and Mike Butler points out almost nobody read the condition he put on it. The 10x does ...
+BITCOIN CRASH: BLACKROCK DUMPING (Bearish Price Targets)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 tastylive
+📺 Crypto World
 
-👁️ 10K • 👍 78 • 💬 15 • ⏱️ 5:42 • 2d ago
+👁️ 14K • 👍 381 • 💬 78 • ⏱️ 21:48 • 13h ago
 
 ---
 
@@ -319,17 +318,17 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 20K • 👍 718 • 💬 124 • ⏱️ 13:47 • 11h ago
+👁️ 22K • 👍 762 • 💬 125 • ⏱️ 13:47 • 18h ago
 
 ---
 
-**[Crypto&#39;s Bullish &amp; Bearish Macro Signals, Bitcoin &amp; Ethereum&#39;s Technical Picture](https://www.youtube.com/watch?v=D5ujHoLCuJo)**
+**[Ethereum (ETH) Starts a Pullback: How Deep Will It Go?](https://www.youtube.com/watch?v=m4bl7C0vphc)**
 
-Nathan Peterson of @CharlesSchwab addresses the abundance of macro headlines he sees moving cryptocurrencies. Among ...
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Schwab Network
+📺 More Crypto Online
 
-👁️ 5K • 👍 43 • 💬 1 • ⏱️ 7:03 • 1d ago
+👁️ 15K • 👍 293 • 💬 18 • ⏱️ 8:42 • 1d ago
 
 ---
 
