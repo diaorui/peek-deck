@@ -13,6 +13,17 @@
       "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
     },
     {
+      "title": "Non-text AI model maker Jev valued at $7.5B just weeks after launch",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/",
+      "published": 1791665523.0,
+      "thumbnail": "https://external-preview.redd.it/19nrBtoerMI_1Cr70Xx0pxVHBQfdJf-kbDUpi1Wdiow.jpeg?width=640&crop=smart&auto=webp&s=d0b4f350ef67610208e956c31598b64212d268d5",
+      "external_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs."
+    },
+    {
       "title": "Man wins three-year parking ticket battle after using ChatGPT as his lawyer",
       "author": "ThereWas",
       "url": "https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/",
@@ -35,15 +46,15 @@
       "description": "ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said."
     },
     {
-      "title": "video game production in 10 years",
-      "author": "South_Personality_49",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2fp9g/video_game_production_in_10_years/",
-      "published": 1791639956.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "In five to ten years there won't be one games studio in the world that has more than 10 people. not counting execs. Argue that."
+      "title": "Super Micro case 'fixer' pleads guilty to sending AI servers to China",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/",
+      "published": 1791658311.0,
+      "thumbnail": "https://external-preview.redd.it/12hlLlk5oWTWDG6IRvpyYLNr3Gv3bsJdecOoz48akrI.jpeg?width=640&crop=smart&auto=webp&s=fa93fb7c92d39fe8c49dc477d26085c323d582ee",
+      "external_url": "https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china",
+      "site_name": "TNW | China",
+      "favicon": "https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-57x57.png",
+      "description": "Ting-Wei Sun pleaded guilty in a $2.5bn scheme to divert Nvidia-powered servers to China. Super Micro co-founder Wally Liaw denies the charges."
     },
     {
       "title": "Anthropic to ban users who bully Claude",
@@ -68,6 +79,28 @@
       "description": "OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 50(2)): an invisible statistical watermark woven into word choices, detectable only with their secret key. The unusual part is they published the failure curve with the launch. Swap 10% of words for synonyms and detection falls from 92% to 66%. Swap 25% and it falls to 17%. Math and short passages barely watermark at all. I wrote an interactive explainer with an attack lab: a watermarked passage where you apply synonym swaps, run a translation round-trip, or switch to math-like text, and watch the detector's p-value collapse in real time. The sentence that matters most is OpenAI's own: the absence of a detected watermark does not prove human authorship. Remember that the next time someone pitches you an AI-authorship detector. Original post: https://openai.com/index/eu-text-provenance/ My explainer (EN, with a French version linked inside): https://movahedi.ca/insights/openai-textgrain-eu-text-watermark/"
     },
     {
+      "title": "video game production in 10 years",
+      "author": "South_Personality_49",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2fp9g/video_game_production_in_10_years/",
+      "published": 1791639956.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In five to ten years there won't be one games studio in the world that has more than 10 people. not counting execs. Argue that."
+    },
+    {
+      "title": "I spent months researching how we actually got from the 1950s Perceptron to today's LLMs, and I'm turning it into a pixel-art documentary",
+      "author": "El-Alangute",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2pfx3/i_spent_months_researching_how_we_actually_got/",
+      "published": 1791664695.0,
+      "thumbnail": "https://external-preview.redd.it/ZmYzNHNxcnphcHVoMU-iBf3Y5yDqkuelJhVQJ3BBWfX4K6MC7HHpoqNb1Aby.png?width=640&crop=smart&auto=webp&s=fa7407dbb18f4454b2664c2c26350efd9d283ea2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The most surprising thing in my research was how connected AI's history is. Ideas from decades apart, like Rosenblatt's Perceptron, backpropagation, distributed representations, and attention, ended up as pieces of the same story. Several of them were dismissed or forgotten before coming back to matter. Building Intelligence follows that thread through Minsky, McCarthy and symbolic AI, the Cyc project, Hinton, and the Transformer. The focus is on the problems researchers hit and how each attempt to solve them led somewhere new. I'm making it independently, with pixel-art visuals, some animation done with AI tools, and on-camera narration. It will be free on YouTube at the end of November 2026. If you want to support it: Kickstarter Which part of AI's history do you think is most overlooked?"
+    },
+    {
       "title": "Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval",
       "author": "Alone-Dragonfruit602",
       "url": "https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/",
@@ -77,40 +110,7 @@
       "site_name": "Fox Business",
       "favicon": "https://static.foxnews.com/static/orion/styles/img/fox-business/favicons/apple-touch-icon-57x57.png",
       "description": "Anthropic disclosed this in its report on models taking unintended actions on live websites. The tip was dated 18 July, flagged as spam and never passed to investigators. Anthropic says it told Philadelphia police on 7 Oct and has since tightened how its evals access the live web."
-    },
-    {
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2ikd4/nvidia_oracle_coreweave_and_other_ai_stocks_sink/",
-      "published": 1791647383.0,
-      "thumbnail": "https://external-preview.redd.it/3bXeOKHvdGC97CjAXPMuXTI29YqfUV9ZpxuakMp7MMU.jpeg?width=640&crop=smart&auto=webp&s=8e68fb00b96934735ce63935eb15936da277b4c4",
-      "external_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "site_name": "CNBC",
-      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
-      "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed."
-    },
-    {
-      "title": "Anthropic AI model sent fake homicide tip to Philadelphia police",
-      "author": "sourdub",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2nlwy/anthropic_ai_model_sent_fake_homicide_tip_to/",
-      "published": 1791660002.0,
-      "thumbnail": "https://external-preview.redd.it/pdr6gsgrusrRxnE48ndrSBEKYGYHkiL8EFrRJe65DIw.jpeg?width=640&crop=smart&auto=webp&s=3e0a944f326a3dd693e5ab8628e5b3e9a6b8208a",
-      "external_url": "https://www.yahoo.com/news/us/articles/anthropic-ai-model-sent-fake-160223063.html",
-      "site_name": "Yahoo News",
-      "favicon": "https://www.yahoo.com/favicon.ico?b0867f93a36b360e",
-      "description": "The fake tip was among several unintended actions Anthropic disclosed. Another Claude model submitted real government forms when a practice copy failed to load"
-    },
-    {
-      "title": "Super Micro case 'fixer' pleads guilty to sending AI servers to China",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/",
-      "published": 1791658311.0,
-      "thumbnail": "https://external-preview.redd.it/12hlLlk5oWTWDG6IRvpyYLNr3Gv3bsJdecOoz48akrI.jpeg?width=640&crop=smart&auto=webp&s=fa93fb7c92d39fe8c49dc477d26085c323d582ee",
-      "external_url": "https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china",
-      "site_name": "TNW | China",
-      "favicon": "https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-57x57.png",
-      "description": "Ting-Wei Sun pleaded guilty in a $2.5bn scheme to divert Nvidia-powered servers to China. Super Micro co-founder Wally Liaw denies the charges."
     }
   ],
-  "fetched_at": "2026-10-10T19:49:59.011523+00:00"
+  "fetched_at": "2026-10-10T23:17:33.488042+00:00"
 }
