@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-10T02:34:40.571099+00:00'
+updated: '2026-10-10T09:32:07.570057+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 10, 2026 at 02:34 UTC  
+**Last Updated:** October 10, 2026 at 09:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 **[Two-armed robot throws and catches balls with human-like movements](https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html)**
 
-Tech Xplore • 12h ago
+Tech Xplore • 19h ago
 
 ---
 
@@ -132,13 +132,13 @@ Ars Technica • 1d ago
 
 Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
 
-MIT Technology Review • 1d ago
+MIT Technology Review • 2d ago
 
 ---
 
 **[Hexagon Is Putting 1,000 Humanoid Robots In Schaeffler Factories. This Is Not A Copy-Paste Process](https://www.forbes.com/sites/johnkoetsier/2026/10/09/hexagon-is-putting-1000-humanoid-robots-in-schaeffler-factories-this-is-not-a-copy-paste-process/)**
 
-Forbes • 3h ago
+Forbes • 10h ago
 
 ---
 
@@ -162,7 +162,7 @@ NVIDIA Developer • 1d ago
 
 For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
 
-TechCrunch • 9h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -198,27 +198,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 93K • 👍 2K • 💬 97 • ⏱️ 1:00 • 5d ago
-
----
-
-**[Figure Tested Its New Robot in 30 Homes. Did It Work?](https://www.youtube.com/watch?v=uliBBfanE6g)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figure has finally taken its humanoid robot out of ...
-
-📺 PRO ROBOTS
-
-👁️ 27K • 👍 367 • 💬 51 • ⏱️ 23:29 • 6d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 74K • 👍 2K • 💬 15 • ⏱️ 1:04 • 1d ago
+👁️ 95K • 👍 2K • 💬 99 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -228,7 +208,57 @@ We visited UCSD's Center for the Future of Surgery to learn about the first ever
 
 📺 CNET
 
-👁️ 52K • 👍 496 • 💬 65 • ⏱️ 6:34 • 5d ago
+👁️ 52K • 👍 497 • 💬 65 • ⏱️ 6:34 • 5d ago
+
+---
+
+**[Chinese humanoid robots DANCE inside South Korea’s parliament](https://www.youtube.com/watch?v=GnLL9Zezkcg)**
+
+Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China's rapid advances in ...
+
+📺 Fox News
+
+👁️ 46K • 👍 501 • 💬 150 • ⏱️ 0:18 • 23h ago
+
+---
+
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
+
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
+
+📺 Jot Tv Media 
+
+👁️ 77K • 👍 2K • 💬 15 • ⏱️ 1:04 • 1d ago
+
+---
+
+**[This Robot Runs Up And Jumps Just Like An Athlete](https://www.youtube.com/watch?v=zLvC2VQCvt8)**
+
+Original video credit: IG/@niufanbing. The video demonstrates testing of a specialized bipedal humanoid robot executing a long ...
+
+📺 History Seeker
+
+👁️ 90K • 👍 493 • 💬 14 • ⏱️ 0:08 • 9h ago
+
+---
+
+**[This Is Impossible... Bane Bagliore MELTING Fang Bots | Bane Comeback | War Robots](https://www.youtube.com/watch?v=1NH2fZ82um4)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR The Bane are back! I just wanted to try this build out for fun, ...
+
+📺 PREDATOR WR
+
+👁️ 12K • 👍 310 • 💬 34 • ⏱️ 14:51 • 21h ago
+
+---
+
+**[Figure Tested Its New Robot in 30 Homes. Did It Work?](https://www.youtube.com/watch?v=uliBBfanE6g)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figure has finally taken its humanoid robot out of ...
+
+📺 PRO ROBOTS
+
+👁️ 27K • 👍 369 • 💬 51 • ⏱️ 23:29 • 6d ago
 
 ---
 
@@ -242,51 +272,23 @@ usmilitary #usarmy #nickirving #veteran #specialforces.
 
 ---
 
+**[AI Taught This Robot Hand to Walk on Its Fingers #ai  #robotics   #machinelearning  #futuretech](https://www.youtube.com/watch?v=YFRoC5Qzkq0)**
+
+ETH Zurich researchers trained an anthropomorphic robot hand to crawl using the same five fingers it would normally use for ...
+
+📺 Understanding AI HQ
+
+👁️ 41K • 👍 716 • 💬 23 • ⏱️ 0:12 • 1d ago
+
+---
+
 **[The End of Human-Piloted Surveillance #robotics #tech #shorts](https://www.youtube.com/watch?v=OGi-nFXqO18)**
 
 See how autonomous flying robots reach speeds of 100 mph to handle complex security monitoring without a pilot. These ...
 
 📺 SciVion
 
-👁️ 3K • ⏱️ 0:26 • 8h ago
-
----
-
-**[the first career ending injury in robotic athletics    #robotics](https://www.youtube.com/watch?v=F_KzKVWFKMI)**
-
-Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Videos ...
-
-📺 StingKnight
-
-👁️ 36K • 👍 266 • 💬 17 • ⏱️ 0:10 • 2d ago
-
----
-
-**[This Robot Climbs Coconut Trees! 🤖🌴](https://www.youtube.com/watch?v=2mt0pOu-MeA)**
-
-A ROBOT IS HARVESTING COCONUTS! This coconut harvesting robot can climb a coconut tree, reach the treetop, and ...
-
-📺 Discover Agriculture
-
-👁️ 82K • 👍 1K • 💬 18 • ⏱️ 0:35 • 1d ago
-
----
-
-**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
-
-📺 Ben Esherick
-
-👁️ 2.0M • 👍 112K • 💬 2K • ⏱️ 0:34 • 4d ago
-
----
-
-**[They dropped a Robot in Lava 🤯](https://www.youtube.com/watch?v=cNA-dtDs-Ck)**
-
-Mizkif reacts to Figure retiring its Figure 02 robots in molten steel in a Terminator 2–style send-off with Arnold Schwarzenegger, ...
-
-📺 Mizkif
-
-👁️ 21K • 👍 407 • 💬 44 • ⏱️ 0:32 • 6d ago
+👁️ 5K • 💬 1 • ⏱️ 0:26 • 15h ago
 
 ---
 
