@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-10T02:34:40.566003+00:00'
+updated: '2026-10-10T09:32:07.565234+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 10, 2026 at 02:34 UTC  
+**Last Updated:** October 10, 2026 at 09:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,574.41
+### $82,761.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -4.5%  
-**30d:** +7.0%  
-**90d:** +32.6%  
-**1y:** -25.2%  
+**24h:** +0.4%  
+**7d:** -4.1%  
+**30d:** +7.4%  
+**90d:** +33.0%  
+**1y:** -25.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1659.18B
+**Market Cap:** $1664.13B
 Rank #1
 
-**Circulating Supply:** 20,095,900 BTC
+**Circulating Supply:** 20,095,993 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.5%
+-34.3%
 
 **All-Time Low:** $67.81
-+121657.9%
++122041.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 59
+### 64
 **GREED**
 
 ---
@@ -95,7 +95,7 @@ after the coldcard situation, I decided I really don't want to trust any company
 
 Hodl
 
-23h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ Jamie Dimon on bitcoin, and the price the day he said it: $405: "going to be sto
 
 Is it good time to buy some BTC
 
-23h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ Is it good time to buy some BTC
 
 I like the smell of cheap BTC in the morning.
 
-1d ago
+2d ago
 
 ---
 
@@ -159,7 +159,7 @@ Bitcoin and altcoins sit side by side in your finance app. But are they doing th
 
 Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.
 
-CoinDesk • 12h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -173,7 +173,7 @@ Investor's Business Daily • 1d ago
 
 **[A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?](https://www.wsj.com/finance/currencies/a-year-on-bitcoin-languishes-a-third-below-its-all-time-high-whats-next-for-the-cryptocurrency-046f2689)**
 
-WSJ • 10h ago
+WSJ • 17h ago
 
 ---
 
@@ -181,7 +181,7 @@ WSJ • 10h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 9h ago
+Fortune • 16h ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 9h ago
 
 A trader lost 80 BTC from a new Ledger bought via CryptoBilis as theft estimates near $90 million.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 10h ago
 
 Speaking on the Bitcoin Rails podcast, Cake Wallet’s Seth for Privacy said people need to take more precautions to protect their identities when using the biggest cryptocurrency.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bitcoin Magazine • 6h ago
 
 CoinShares report: pro investors grew Bitcoin ETF exposure in Q2 as total AUM fell—hedge funds sold, brokerages bought.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 1d ago
 
 CNBC’s MacKenzie Sigalos reports on why bitcoin is still roughly a third below its peak, as macro pressure, weaker ETF flows, and stalled crypto legislation weigh on the trade.
 
-CNBC • 6h ago
+CNBC • 13h ago
 
 ---
 
@@ -229,7 +229,7 @@ CNBC • 6h ago
 
 The Thai regulator set an Oct. 16 effective date for its crypto ETF framework, while limiting initial assets to bitcoin and ether.
 
-The Block • 15h ago
+The Block • 22h ago
 
 ---
 
@@ -269,6 +269,14 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ---
 
+**[Show HN: tgv: Genome viewer for you and your agents](https://news.ycombinator.com/item?id=50029175)**
+
+Genome viewer for you and your agents. Contribute to zeqianli/tgv development by creating an account on GitHub.
+
+⬆️ 4 • 💬 1 • 6h ago • [GitHub](https://github.com/zeqianli/tgv)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -279,77 +287,7 @@ Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphol
 
 📺 Crypto Sensei
 
-👁️ 10K • 👍 379 • 💬 90 • ⏱️ 14:30 • 6h ago
-
----
-
-**[What Happens After Bitcoin Hits $100K?](https://www.youtube.com/watch?v=v5SqNDwSGpU)**
-
-Bitcoin just plunged from $87000 to $80000, wiping out $1.5 billion in leveraged positions, but the bigger story is what happens ...
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 520 • 💬 26 • ⏱️ 19:23 • 3h ago
-
----
-
-**[$1 Million Bitcoin BOMBSHELL - $50 Billion CEO Says There’s NO STOPPING IT](https://www.youtube.com/watch?v=MvUO-780TYI)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 2K • 👍 142 • 💬 63 • ⏱️ 15:24 • 4h ago
-
----
-
-**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
-
-Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
-
-📺 The Economic Ninja
-
-👁️ 14K • 👍 687 • 💬 123 • ⏱️ 3:20 • 7h ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=1BNmkkMps0Y)**
-
-Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 229 • 💬 27 • ⏱️ 5:44 • 8h ago
-
----
-
-**[Bitcoin Had a $1 Billion Wipeout...What&#39;s next?](https://www.youtube.com/watch?v=XFm6i1fr-6k)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 26K • 👍 691 • 💬 111 • ⏱️ 41:04 • 11h ago
-
----
-
-**[The US Government Quietly Sent $1.48B Of Bitcoin To Coinbase](https://www.youtube.com/watch?v=E5zFfDWXfCA)**
-
-Learning Crypto: https://www.learningcrypto.com Free weekly report: https://www.learningcrypto.com/report Telegram news feed: ...
-
-📺 Crypto Tips
-
-👁️ 8K • 👍 379 • 💬 34 • ⏱️ 8:59 • 10h ago
-
----
-
-**[The Paper Bitcoin Trap That Could Keep Bitcoin From $1 Million!](https://www.youtube.com/watch?v=43kv4MhSPts)**
-
-Bitcoin just crashed to $80000 as a new debate erupts over paper Bitcoin, Michael Saylor's digital credit strategy, ETF outflows ...
-
-📺 Simply Bitcoin
-
-👁️ 44K • 👍 2K • 💬 127 • ⏱️ 15:34 • 1d ago
+👁️ 18K • 👍 412 • 💬 92 • ⏱️ 14:30 • 13h ago
 
 ---
 
@@ -359,17 +297,87 @@ Bitcoin flushed, hit the exact support Nick has been pointing to for months, and
 
 📺 Verified Investing
 
-👁️ 11K • 👍 456 • 💬 35 • ⏱️ 19:49 • 8h ago
+👁️ 13K • 👍 500 • 💬 39 • ⏱️ 19:49 • 15h ago
 
 ---
 
-**[🚨 RED OCTOBER — BO CALLED THE BITCOIN &amp; XRP CRASH! NEXT: BABYLON FALLS &amp; GREAT WEALTH TRANSFER!](https://www.youtube.com/watch?v=TfsUDKOeJwc)**
+**[Dave Ramsey Bitcoin Debate That Left Viewers Divided](https://www.youtube.com/watch?v=ZZiF8T8qHzQ)**
 
-RED OCTOBER 2026 — THE GREAT REVERSAL IS COMING!** Bo Polny joins Noah Christopher to reveal a prophetic ...
+Analyzing the latest Dave Ramsey Bitcoin advice. We are breaking down his stance on crypto and what it means for your portfolio.
 
-📺 Bo Polny | “God’s Analyst of TIME”
+📺 The Economic Ninja
 
-👁️ 2K • 👍 288 • 💬 9 • 34m ago
+👁️ 10K • 👍 274 • 💬 128 • ⏱️ 8:57 • 9h ago
+
+---
+
+**[WARNING: Crypto Wasn’t Around For The 90s Boom... It Is Now (Best Altcoin Setup I’ve Ever Seen)](https://www.youtube.com/watch?v=pkPQG0jQkcE)**
+
+CCV Risk Models & Intelligence System - Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+
+📺 Crypto Capital Venture
+
+👁️ 17K • 👍 626 • 💬 188 • ⏱️ 18:19 • 16h ago
+
+---
+
+**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
+
+Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
+
+📺 The Economic Ninja
+
+👁️ 20K • 👍 782 • 💬 144 • ⏱️ 3:20 • 14h ago
+
+---
+
+**[Bitcoin Had a $1 Billion Wipeout...What&#39;s next?](https://www.youtube.com/watch?v=XFm6i1fr-6k)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 29K • 👍 723 • 💬 107 • ⏱️ 41:04 • 18h ago
+
+---
+
+**[$1 Million Bitcoin BOMBSHELL - $50 Billion CEO Says There’s NO STOPPING IT](https://www.youtube.com/watch?v=MvUO-780TYI)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+
+📺 Bitcoin News Alerts
+
+👁️ 5K • 👍 225 • 💬 84 • ⏱️ 15:24 • 11h ago
+
+---
+
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=1BNmkkMps0Y)**
+
+Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
+
+📺 Road To $1 Million USD
+
+👁️ 7K • 👍 274 • 💬 30 • ⏱️ 5:44 • 15h ago
+
+---
+
+**[Won&#39;t Bitcoin Miners Just Switch Mining Pools?](https://www.youtube.com/watch?v=sgsTVM7-pv4)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss whether it's realistic to expect Bitcoin ...
+
+📺 Bitcoin University
+
+👁️ 7K • 👍 504 • 💬 111 • ⏱️ 9:32 • 21h ago
+
+---
+
+**[Bitcoin: Q4 2026](https://www.youtube.com/watch?v=se6UlLbDTEo)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 160K • 👍 6K • 💬 409 • ⏱️ 20:29 • 1d ago
 
 ---
 

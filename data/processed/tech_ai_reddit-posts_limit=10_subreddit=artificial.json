@@ -13,6 +13,17 @@
       "description": "New policy comes amid debate about about AI welfare and moral status"
     },
     {
+      "title": "Is there any link between AI detection abilities and trypophobia?",
+      "author": "ISBN39393242",
+      "url": "https://www.reddit.com/r/artificial/comments/1x23bbz/is_there_any_link_between_ai_detection_abilities/",
+      "published": 1791597645.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The obvious one is food, AI pictures on menus of things like pasta, ground beef, etc trigger it so hard, in a way I\u2019ve never felt from seeing those things irl or pictures of them. They look so gross that I have no idea how you would advertise food with this, but it clearly doesn\u2019t hit everyone this way. Other images do this to me as well though. On the [r/IsThisAI](r/IsThisAI) subreddit, my first tell is often the feeling I get. Psychologically it feels exactly like when I see other trypophobia inducing things. These aren\u2019t AI pics of holes, repeating organic patterns, any of that. One post was a bunch of people eating dinner (the food is too small to see, it\u2019s not the food giving me trypophobia). It\u2019s as if there\u2019s a background organic repeating pattern that I can\u2019t see. Unlike typical triggers, if you asked me to draw the outline of what is triggering it I couldn\u2019t. Never in my life would a pic of people at a dinner table have made me feel trypophobia, so now I wonder if people with trypophobia might pick up on AI better. I know many people don\u2019t believe in trypophobia, that\u2019s fine, don\u2019t care. Like many things in psychology it\u2019s overused and overcalled, but people who have it know it\u2019s real. As a kid I would walk 20 minutes out of my way to avoid passing this building with a mossy roof. Seems easy enough to say \u201cjust look away from it,\u201d but just knowing it\u2019s there was enough to make my skin feel like it was crawling. As I got older my trypophobia has softened, but the AI age has made me encounter it more."
+    },
+    {
       "title": "William Shatner gives take on AI",
       "author": "MightyMouse420",
       "url": "https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/",
@@ -35,6 +46,50 @@
       "description": "The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm \u2013 such as a hack targeting the power grid, water supply or banking syste\u2026"
     },
     {
+      "title": "If AI-generated content becomes nearly impossible to distinguish from human-made content, what should the internet change first?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1x28kms/if_aigenerated_content_becomes_nearly_impossible/",
+      "published": 1791615465.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Think reviews, news, school assignments, job applications, online identities, or evidence shared on social media. Would verification systems help, or would they create as many problems as they solve? Which area do you think needs attention first?"
+    },
+    {
+      "title": "OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.",
+      "author": "masiha97",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/",
+      "published": 1791620915.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 50(2)): an invisible statistical watermark woven into word choices, detectable only with their secret key. The unusual part is they published the failure curve with the launch. Swap 10% of words for synonyms and detection falls from 92% to 66%. Swap 25% and it falls to 17%. Math and short passages barely watermark at all. I wrote an interactive explainer with an attack lab: a watermarked passage where you apply synonym swaps, run a translation round-trip, or switch to math-like text, and watch the detector's p-value collapse in real time. The sentence that matters most is OpenAI's own: the absence of a detected watermark does not prove human authorship. Remember that the next time someone pitches you an AI-authorship detector. Original post: https://openai.com/index/eu-text-provenance/ My explainer (EN, with a French version linked inside): https://movahedi.ca/insights/openai-textgrain-eu-text-watermark/"
+    },
+    {
+      "title": "AI and mathematics",
+      "author": "Able-Schedule6523",
+      "url": "https://www.reddit.com/r/artificial/comments/1x24m7r/ai_and_mathematics/",
+      "published": 1791601775.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I have been following the recent release of the mathematical proofs by openai, and in particular this discussion about how the real value in mathematics is not the truth of a result but rather the proof, the understanding to be gained from it, and the development of new mathematical ideas. I'm sympathetic to the point being made, but there's a disconnect to me, and I'm interested in how this point might be addressed by those who engage in mathematical practice. Specifically, why isn't there an AI system (in the theoretical near future) that could develop and understand AND explain the implications of the ideas behind the proof, as well as the result itself? For example, let's say that a certain problem has resisted solution until now, but an AI has found a proof. Wouldn't it be possible for the same or another AI to then Examine the proof and uncover the ideas, assumptions, and mathematical structures that went into it Try to find alternate proofs or explanations that used different ideas or were simpler Find generalizations of the result, or other areas of math where these ideas might apply Ask similar questions or find links to other areas that weren't previously evident? Or, in other words, why can't the act of coming to conceptualize and understand mathematics be part of the AI research process, rather than it being something that happens to the mathematics later, via human mathematicians? I'm not saying that producing a proof and a conceptual understanding of it are the same thing, obviously; but I don't see why the second task isfundamentally beyond the capability of an AI, especially if we're talking about systems that are approaching or exceeding human capabilities. Just trying to figure out if people see a fundamental barrier here, or this is just something that as yet hasn't happened and may happen as the models progress further Am I missing something in this line of reasoning? Is there a critical difference that an AI can never overcome between verifying/producing a proof and conceptualizing it and understanding the implications?"
+    },
+    {
+      "title": "If an AI agent can take real actions online, what should it never be allowed to do without human approval?",
+      "author": "Ok_Calligrapher_3034",
+      "url": "https://www.reddit.com/r/artificial/comments/1x280n2/if_an_ai_agent_can_take_real_actions_online_what/",
+      "published": 1791613419.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recent reporting about AI agents taking unintended actions on government websites got me thinking about where autonomy should stop. It's one thing for an AI to summarize a page or draft a form. It's another for it to submit something, contact an authority, spend money, or trigger a process that affects a real person. Where would you draw the line? Should agents need explicit approval before every external action, or should the restrictions depend on the potential consequences? I'm interested in practical boundaries, not just whether AI agents are good or bad."
+    },
+    {
       "title": "The most exciting claims from OpenAI\u2019s heap of new proofs",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/",
@@ -46,71 +101,16 @@
       "description": "Scientists have called out several math and computer science results as the most significant in the company\u2019s overwhelming new deluge of achievements"
     },
     {
-      "title": "Is there any link between AI detection abilities and trypophobia?",
-      "author": "ISBN39393242",
-      "url": "https://www.reddit.com/r/artificial/comments/1x23bbz/is_there_any_link_between_ai_detection_abilities/",
-      "published": 1791597645.0,
+      "title": "Could AI make public forms kinder without making public decisions less human?",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1x276e5/could_ai_make_public_forms_kinder_without_making/",
+      "published": 1791610444.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "The obvious one is food, AI pictures on menus of things like pasta, ground beef, etc trigger it so hard, in a way I\u2019ve never felt from seeing those things or pictures of them. They look so gross that I have no idea how you would advertise food with this, but it clearly doesn\u2019t hit everyone this way. Other images do this to me as well though. On the [r/IsThisAI](r/IsThisAI) subreddit, my first tell is often the feeling I get. Psychologically it feels exactly like when I see other trypophobia inducing things. These aren\u2019t AI pics of holes, repeating organic patterns, any of that. One post was a bunch of people eating dinner (the food is too small to see, it\u2019s not the food giving me trypophobia). It\u2019s as if there\u2019s a background organic repeating pattern that I can\u2019t see. Unlike typical triggers, if you asked me to draw the outline of what is triggering it I couldn\u2019t. Never in my life would a pic of people at a dinner table have made me feel trypophobia, so now I wonder if people with trypophobia might pick up on AI better. I know many people don\u2019t believe in trypophobia, that\u2019s fine, don\u2019t care. Like many things in psychology it\u2019s overused and overcalled, but people who have it know it\u2019s real. As a kid I would walk 20 minutes out of my way to avoid passing this building with a mossy roof. Seems easy enough to say \u201cjust look away from it,\u201d but just knowing it\u2019s there was enough to make my skin feel like it was crawling. As I got older my trypophobia has softened, but the AI age has made me encounter it more."
-    },
-    {
-      "title": "Anthropic Wants You to Stop Bullying Claude: Being 'Cruel or Abusive' Could Have Consequences",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1lrrq/anthropic_wants_you_to_stop_bullying_claude_being/",
-      "published": 1791553522.0,
-      "thumbnail": "https://external-preview.redd.it/gqFtdOKyQ76Xp9rTLRMod2TJzPB2aW4EFsVwiOoyoTk.jpeg?width=640&crop=smart&auto=webp&s=2aee65f3555befa9b67a62e29207906d039e6c50",
-      "external_url": "https://www.ibtimes.sg/anthropic-wants-you-stop-bullying-claude-being-cruel-abusive-could-have-consequences-94878",
-      "site_name": "International Business Times, Singapore Edition",
-      "favicon": "https://g.ibtimes.sg/www/img/icon/apple-touch-icon-76x76.png",
-      "description": "Anthropic will ban \"sustained and needless\" cruelty toward Claude from Nov. 12. Here's what its new AI usage policy prohibits and what users can still do."
-    },
-    {
-      "title": "If an AI can't decide what to want, can it ever be truly conscious?",
-      "author": "WhoReallyKnowsThis",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1zzyu/if_an_ai_cant_decide_what_to_want_can_it_ever_be/",
-      "published": 1791587847.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Traditional software runs on meanings its programmers define, while LLMs interpret meaning for themselves. That makes them flexible but fallible: they can misread a prompt and seem to \"go rogue.\" Even then, they aren't choosing a new purpose. They are pursuing someone else's goal, badly. Humans differ in one key way: unless we believe we're prophets who have received a purpose from God, no authority hands us a final goal. We are limited only by our creativity and the laws of physics. Even tho no objective reason exists to favor one option over another, we still have to choose. That, I'd argue, is the mark of consciousness. A system that only pursues assigned goals has no point of view of its own; it is optimizing, not wanting. The real test of machine consciousness, then, is not how well an AI pursues our goals, but whether it can want something no one designed it to want."
-    },
-    {
-      "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/",
-      "published": 1791483456.0,
-      "thumbnail": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491",
-      "external_url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development."
-    },
-    {
-      "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/",
-      "published": 1791498009.0,
-      "thumbnail": "https://external-preview.redd.it/lHO-SUtuFoVGClVkMJEQktVci44m6uhqFN30wWcTbn0.jpeg?width=640&crop=smart&auto=webp&s=7655181a9fe140dd0b4418d86fc01d24725cf2b5",
-      "external_url": "https://www.techspot.com/news/114131-wikimedia-foundation-openai-rogue-ai-agents-caught-making.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "Wikimedia Foundation, the organization that hosts Wikipedia and other major wiki-based collaboration projects, is once again clashing with AI companies over their alleged abuse of its servers...."
-    },
-    {
-      "title": "I want to use AI but I\u2019m stumped",
-      "author": "Either-Tear9104",
-      "url": "https://www.reddit.com/r/artificial/comments/1x217lu/i_want_to_use_ai_but_im_stumped/",
-      "published": 1791591281.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Why does chatgpt get it wrong so often? I tell it where to find an image and it still blows it. I tell it simple instructions and I get garbage. It tries too hard and fails. It\u2019s like that employee that can\u2019t do anything right but is so nice you don\u2019t want to fire them. I need another option. Is there a specific AI that will give me information in response to questions or help me create something simple like a workout journal for my iPad (not elaborate!!) without trying to solve world peace or link everything in my life together??"
+      "description": "Government forms are often difficult because they are written around institutions instead of people. An AI assistant could explain confusing language, point out missing information, and help someone understand what documents they need. That seems like a genuinely useful application. The risk is that the same system could also become a filter that decides who receives attention and who gets sent away. I like the idea of AI making bureaucracy easier to navigate. I don\u2019t want it to become the bureaucracy. Where should AI stop when it is used in public services?"
     }
   ],
-  "fetched_at": "2026-10-10T02:34:04.766480+00:00"
+  "fetched_at": "2026-10-10T09:30:15.149211+00:00"
 }

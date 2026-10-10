@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-10T09:32:07.039994+00:00",
+  "data": "Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editing model, capable of producing high-quality visuals in just 8 denoising steps. It is optimized for speed and ease of use with Diffusers, enabling rapid content creation for various applications.",
+  "model_id": "Qwen/Qwen-Image-2.1-Turbo"
+}

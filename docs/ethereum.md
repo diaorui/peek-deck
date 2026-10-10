@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-10T02:34:40.569395+00:00'
+updated: '2026-10-10T09:32:07.568446+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 10, 2026 at 02:34 UTC  
+**Last Updated:** October 10, 2026 at 09:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,486.58
+### $2,494.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -8.5%  
-**30d:** -0.9%  
-**90d:** +40.4%  
-**1y:** -33.7%  
+**24h:** +0.3%  
+**7d:** -8.4%  
+**30d:** -0.8%  
+**90d:** +40.6%  
+**1y:** -33.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $304.23B
+**Market Cap:** $304.64B
 Rank #2
 
-**Circulating Supply:** 122,118,912 ETH
+**Circulating Supply:** 122,121,844 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -49.6%
 
 **All-Time Low:** $0.43
-+575274.3%
++576059.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 13h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 20h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've been looking into different ways people spend crypto, and a lot of the opti
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ https://preview.redd.it/fx86i7ku13uh1.png?width=955&format=png&auto=webp&s=a2335
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 2d ago
 
 The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ Tom Lee's BitMine controls around 6 million ETH, amounting to 4.9% of all Ethere
 
 BitMine is weeks away from hitting its self-imposed Ethereum buying cap, and when it stops, the market loses its single biggest source of demand at the worst possible time.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ Decrypt News • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 17h ago
 
 ---
 
@@ -232,23 +232,13 @@ Decrypt News • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Just Hit a Major Support: Is the Bottom In?](https://www.youtube.com/watch?v=bsFnc391d7k)**
+**[XRP Just Flipped Ethereum BIG TIME! WOW!💥](https://www.youtube.com/watch?v=2nrh-HMDpYo)**
 
-Ethereum Elliott Wave analysis for 10 October 2026: Ethereum pulled back into the $2400 to $2450 support cluster, where the ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCG9sTui02o3W4CbHQIP-l7g/join LLC Formation: ...
 
-📺 More Crypto Online
+📺 Digital Outlook
 
-👁️ 614 • 👍 33 • 💬 3 • ⏱️ 9:35 • 2h ago
-
----
-
-**[Tom Lee&#39;s BitMine Is About to Own 5% of Ethereum. Then What? BMNR Deep Dive.](https://www.youtube.com/watch?v=adlOhttCgD4)**
-
-This video is sponsored by FortisX. Learn more: https://fortisx.fi/x/danalovephd BMNR stock analysis: Tom Lee's BitMine owns ...
-
-📺 Dana Love, PhD
-
-👁️ 22K • 👍 594 • 💬 79 • ⏱️ 21:49 • 12h ago
+👁️ 22K • 💬 57 • ⏱️ 17:39 • 17h ago
 
 ---
 
@@ -258,17 +248,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 159 • 💬 95 • ⏱️ 8:59 • 7h ago
+👁️ 7K • 👍 181 • 💬 81 • ⏱️ 8:59 • 14h ago
 
 ---
 
-**[Tom Lee: Ethereum to $50,000 This Bull Cycle (&quot;You&#39;re Going to See Some Monster Moves&quot;)](https://www.youtube.com/watch?v=BEyFTMOoLGw)**
+**[Tom Lee&#39;s BitMine Is About to Own 5% of Ethereum. Then What? BMNR Deep Dive.](https://www.youtube.com/watch?v=adlOhttCgD4)**
 
-BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively undervalued" and "in this bull cycle, I think it ...
+This video is sponsored by FortisX. Learn more: https://fortisx.fi/x/danalovephd BMNR stock analysis: Tom Lee's BitMine owns ...
 
-📺 Higher Highs Crypto
+📺 Dana Love, PhD
 
-👁️ 169 • 👍 2 • 💬 2 • ⏱️ 8:01 • 10h ago
+👁️ 26K • 👍 640 • 💬 83 • ⏱️ 21:49 • 19h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Chart Analysis - Elliott Wave Analysis](https://www.youtube.com/watch?v=8SsCdBc3jbw)**
+
+Bitcoin and Ethereum Elliott Wave update for 8 October 2026: Bitcoin has broken below the $82800 breakout point, a first sign that ...
+
+📺 More Crypto Online
+
+👁️ 254 • 👍 6 • ⏱️ 0:57 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Join - https://www.skool.com/discovercrypto/about ​​If you have ever made mo
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 217 • 💬 34 • ⏱️ 8:11 • 1d ago
+👁️ 10K • 👍 220 • 💬 35 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -288,7 +288,17 @@ Its absolutely no secret that the richest people on the planet are accumulating 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 23K • 👍 1K • 💬 234 • ⏱️ 18:16 • 14h ago
+👁️ 25K • 👍 1K • 💬 219 • ⏱️ 18:16 • 21h ago
+
+---
+
+**[Ethereum Just Hit a Major Support: Is the Bottom In?](https://www.youtube.com/watch?v=bsFnc391d7k)**
+
+Ethereum Elliott Wave analysis for 10 October 2026: Ethereum pulled back into the $2400 to $2450 support cluster, where the ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 115 • 💬 7 • ⏱️ 9:35 • 9h ago
 
 ---
 
@@ -298,37 +308,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 342 • 💬 21 • ⏱️ 19:57 • 1d ago
+👁️ 19K • 👍 355 • 💬 21 • ⏱️ 19:57 • 1d ago
 
 ---
 
-**[Ethereum Flashed a Signal Last Seen at THE BOTTOM!!](https://www.youtube.com/watch?v=I6g9Ndc9b7Y)**
+**[Tom Lee: Ethereum to $50,000 This Bull Cycle (&quot;You&#39;re Going to See Some Monster Moves&quot;)](https://www.youtube.com/watch?v=BEyFTMOoLGw)**
 
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively undervalued" and "in this bull cycle, I think it ...
 
-📺 Marzell Crypto
+📺 Higher Highs Crypto
 
-👁️ 1K • 👍 20 • 💬 2 • ⏱️ 3:14 • 1d ago
-
----
-
-**[Machine intelligence and crypto will merge naturally: Ethereum co-founder](https://www.youtube.com/watch?v=xLec7pJboHo)**
-
-Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provide creativity and expertise but does not ...
-
-📺 CNBC International Live
-
-👁️ 14K • 👍 92 • 💬 16 • ⏱️ 4:19 • 1d ago
+👁️ 655 • 👍 5 • 💬 2 • ⏱️ 8:01 • 17h ago
 
 ---
 
-**[Bitcoin To $75K Next? | ETH $16K? | Robinhood Tokens](https://www.youtube.com/watch?v=_OKpZKijUp8)**
+**[I Think Ethereum Could Drop Further (Here&#39;s Why)](https://www.youtube.com/watch?v=0ABfJ7nyFSI)**
 
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v48 ______ ...
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Crypto Archie
+📺 Trade Confident
 
-👁️ 3K • 👍 86 • 💬 6 • ⏱️ 9:22 • 1d ago
+👁️ 669 • 👍 18 • 💬 1 • ⏱️ 4:21 • 13h ago
 
 ---
 
