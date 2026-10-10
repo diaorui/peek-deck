@@ -5,64 +5,74 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5",
-      "pub_date": 1791603240.0,
-      "article_url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+      "headline": "Inside Silicon Valley's bet on a new path to landing a job in the AI era",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzBTUjJJeXBVRkItLTM1TFNQUkNNLU5jMzhqTjBlemNQQ1JfbWtFeFBZR0hxeG5sTkdZam4zYUlteHBMc2lTWjk1TWxPcGlKMUx0cnBjZ3BEdEFZd3RpOU83bnltbHhYUHc2SFFrNThKVXhDVlZWdWFVQmtfUkxUWExCdU5BNF9pSGdjcGxBZFZVYUlod3VhSdIBngFBVV95cUxQZXItWFZiYzhmdmtpX1ZJLUc1SVR2OEQ4cENOR1hfQkRUVnRSbXZ0UUZwaXRXa3Bhclc1QjRuTWFOTjFYeWtqQUlKV3VEMzdNTGNLZmpLdld6WktDR25QVGxXUkFfaVFuQnJfb2dabFFpcUdBUXk4SkhOYkdaS0dKbFQ3VWlCRVNHZ051N0hMbG9qeVpmeVFqVm1mbUdoUQ?oc=5",
+      "pub_date": 1791645610.0,
+      "article_url": "https://www.foxbusiness.com/technology/inside-silicon-valleys-bet-new-path-landing-job-ai-era",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/ai-academy-1.jpg?ve=1&tl=1",
+      "description": "Andreessen Horowitz-backed Horowitz Andreessen Academy is betting that \"proof of work\" and AI skills can offer some students an alternative to the traditional college path."
+    },
+    {
+      "headline": "Opinion | A.I. Companies Say They Aren\u2019t Responsible for Their Unpredictable Products. Don\u2019t Believe Them.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTVKUUg1TW1RRjRsbHBKbFRLNnpTY3ZCZUdwWnNaQTFwbzRrXzRNYk50eU13M2MtUTdORF90SEdxWHg5MXBRQlZlazZxY0F0RlJYWmlJTEx3ZWhhUXlIamktSEtHa3VwMzU5ZmZULThuekRsWnZYY3RDaEdwMzRWbw?oc=5",
+      "pub_date": 1791630005.0,
+      "article_url": "https://www.nytimes.com/2026/10/10/opinion/ai-companies-liability-laws.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Watch The Race for AI Supremacy Raises Safety Concerns",
+      "headline": "Anthropic AI model sent fake murder tip to Philadelphia police",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc3FPRjZmdDJVZGo5bkRDVE5KMjBNejV4RjFDRnN1b3dMcjZwZHktUlR5b2RzOWJZcVpNUUVPdmdxZ3FtYzlNakUyalRMaWZTSGUwV2IzMWJ0cHVfT3M3dUFNejJDM1UzbUVKdmoyTktMcl84UXlIZlB2b1J5WG5tR0FoN2F1b19Wdnc?oc=5",
+      "pub_date": 1791591120.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/anthropic-ai-model-sent-fake-221343703.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d6916c817813d2c0e7591fdfba7ab54a05525c8f44fc88dc52ca17b4c1ad77ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fbffdfc3292d7843be9edd1d76d1f113e.jpg",
+      "description": "An artificial intelligence model developed by Anthropic submitted a fabricated tip about an unsolved homicide to Philadelphia police, authorities said Friday, criticizing the company for taking two mo..."
+    },
+    {
+      "headline": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "source": "NBC10 Philadelphia",
+      "source_url": "https://www.nbcphiladelphia.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkFsY2dFeENpS2Z1dVh4Z1VBMzVkdWEwcFdiMk0zZnY0Zk1ZUFNMYXJFZ0xLWDVwVjRsenhrQlZ6N3dEZExJN2FrSXJSVVRLZndHeUNxWTVLdy1vNXpmR1FrMEJNZWx5Q3FUVTFZTDhrbXg2ZmdjVWRPdHhLeXhUb2lFam04X253VHdoU3VfVGltcFZyZThWQm9hSkVyQy0wZmNieG9zUUhVeUdfQ0RjcEt0NzJ6NS1lZXlrS3BIQ05yR1HSAcsBQVVfeXFMTlg2bXhHU3dHMlZGNjNGckNSa0Z1ZFRhMVM1ZHQzamR2djN3MXVkRnVCZTJ3SEt4bVZqRkZVWkZRSnUxTlRvTkxtLTBBQkd3MktDWVNQUVRVVkJhQUp2alBpdS1GSVVZUXFwS2ZOaVI5ZGJfZ1JINnBTNGh4SDZHbWgzUXZ4WG1lQlRHMGFtUkJhTFhUWTFERExTSnBEd0YyQTRJb1A3bWVZT0M1bExZa3hWMlBqcHN0c19CalNKbWVVbnpOV2liUmxtUGM?oc=5",
+      "pub_date": 1791569348.0,
+      "article_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "image": "https://media.nbcphiladelphia.com/2022/01/CrimeTape-1.jpg?quality=85&strip=all&resize=1200%2C675",
+      "description": "An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said."
+    },
+    {
+      "headline": "Philadelphia police receive false homicide tip from Anthropic AI model",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5",
+      "pub_date": 1791660660.0,
+      "article_url": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Issuers Are Upending Longstanding Safety Valve",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGc1bWhUUHo2dVY4Y01VUy16WGFIYlB2bE9RUllDVXAtVXoxMjVwTXNaWm5MR0Y0bEQyamotOXBKYmlRcXA0SEdRaWUyMWRWT1ExNmVPZHJiYUJBV1I4RjltWC1WUGtFek1ydlkyZVA4OFR1cFhxR0hEYlFUWHI2dkxLZzJNMXN1aTlwSUQ0RW9kUTdRb3U1SVBENG16bGZZRy1iXzd3?oc=5",
-      "pub_date": 1791639967.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzhDQ0ZsWWNnck5TR1k2UGxUMGZ6WHVvN1BUZHJDaXZFSHZTMTJ2djFyWVlWNFRZb0N4cThZOE1FYmFVSDliZWZLdUs2blpyWm40ZHpHaTJGWXNQQkRCQ2FGSVBaSVRMN1ZaYlRSY01rRm9IdnNIaV9JNFlmNWJOZmt3QUZfNThuYWFSNWM1VUZYZjlSY0tkc1pHYWZhYjhaUUc1VFVDdmZHVWY5QUFfZlJocVY?oc=5",
+      "pub_date": 1791658800.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
       "image": null,
       "description": null
     },
     {
-      "headline": "This Forgotten AI Stock Is Up 689% and Nobody's Talking About It",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTVZQzZKbHM4dUtHVjdMU3JfemVDUURZNGV4elFsOHlBemdNWnlIOHMtU0pyVEU5cnNFeU5zOTczNzJ6RG5aTVJxTHFaQ1ZUbjRiT3pGWExPbzFuTE5udzQyQ0lhM3NQbk1QdlYySXJhVHVVQkNSUlV1Z1ZPNlpHVHFHejVwWGJya1lLZGdVZ2l5OS1aOUZBRmhEYw?oc=5",
-      "pub_date": 1791609600.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/forgotten-ai-stock-689-nobodys-052000441.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7c5f40c468d0580cd515cf7544fe2c33ee82914bf79c026da574423020c1bedf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Feae9dca11f540c616e971f391568ee8f.jpg",
-      "description": "It plays a critical role in AI development."
-    },
-    {
-      "headline": "How to shield your portfolio if AI goes ka-boom",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdm1vQVBTRFhPamhtYllyUC1TckhrSFV6ZjBtN1N4N0dTNXhFRHpzR3RMejNPbll6dG1URjVnZUc0Z2tTSXN6eENpM1RHSl9hSkozN3c1ZUQ2MUR3TkxCQWhTRUhhZGVremFObmpHbjM2eXZLYjFzWkxtT0hLeTlVM3ZyWDI?oc=5",
-      "pub_date": 1791550834.0,
-      "article_url": "https://www.ft.com/content/ee329e29-aec9-4876-829e-022683f425f8?syn-25a6b1a6=1",
+      "headline": "As They Supposedly Battle AI Slop, Major Publishers Reportedly Cover Their Books in It",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk9OSkk1ZjRRajltdGJ6b1dWbS1mRUd6Y054RUthRlVURFI0MnFlOUxfMXFUaTl5ZzUyUHBFMFRwcElRUlU3Tl9IQ1M5NjJtTjZvUGJFeThQMEstcVhxamp5RF9yYmx2Wi1vNTQxTGROd0RTazRtdUtXR0pNdHVySC1Iai14dG9rYUdhOGRMdnJaUl9XdXZkM2ZnamdUREk5TzB1VkhnSTZZaC1laFJXSUJvV05seVk?oc=5",
+      "pub_date": 1791656807.0,
+      "article_url": "https://gizmodo.com/as-they-supposedly-battle-ai-slop-major-publishers-reportedly-cover-their-books-in-it-2000824603",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHhXS180Y0JUM181aW5aT1FXYXZ6TnhzTlpYRVNZaS1mRnpYSW1TOWVhTXN4RDFjdVFwM1ppVEl2OGI3dmYyQ3IzQl9xWlFoMnRvcUF2NjVNczllZnBVN0FJRTFlSHpKN2tzdVdVX1Zob05WM2ZMdkdQSVFNeUJEOGFkYzJ5dlN2YW9UM2tqcFF2ZWVGS05IQ1dra2c?oc=5",
-      "pub_date": 1791645840.0,
-      "article_url": "https://www.investors.com/news/ge-vernova-gev-stock-snowflake-ai-plays-with-accelerating-growth/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/01/stock-GE-Vernova-adobe.jpg",
-      "description": "Accelerating revenue growth has whetted investor appetites."
-    },
-    {
-      "headline": "GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDZfVW1CSGM1YUxiLXd0UmpzM0xwRGFqQ3lIdl9JTkZOV0JyWk5MOEV6T1FmVUY5RFhjTVNOeEo0eFdkT2drNWVrVmJPMHdoSXBqOWwxZ2VvbnRyUFFET0ZoUzFnZFNWdVFyb1ZZMW1HUHBUY2txdTFzSVlwREpVMjV1TEQ2OFFrZVk3MjZwSUhVb2tU?oc=5",
-      "pub_date": 1791640800.0,
-      "article_url": "https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes",
-      "image": "https://tii.imgix.net/production/articles/17961/4e416861-3725-446b-8575-0a2246e93487.jpg?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "The basement of Gary Flake\u2019s contemporary home in a quiet neighborhood in Bellevue, Wash., is furnished with everything you\u2019d expect in a multipurpose man cave. There\u2019s a cozy-looking couch situated between a large screen and a digital projector, a Peloton treadmill and a rowing machine. The ..."
     },
     {
       "headline": "Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI",
@@ -75,36 +85,26 @@
       "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage."
     },
     {
-      "headline": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "source": "University of California, Berkeley",
-      "source_url": "https://news.berkeley.edu",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS095NGg1SGdvMzZKSjktTWo5ZkFWMkJmdGsxRHJuRHJ6bUYzcV80V3RnUkpIYmp2OHlhNDZxZjVuaWJVQUl4WUhSX1JQZDM4eXlYMGVGRmh2ZUZ1bDljYVZSSDRocGR5LUUtYU56QVh1d1RoUVhFcDZZWGxXWGw1SFpSSVcyVEtWZVh1b2kwUlhfQURUOXhPOWVLOXNtTWNzem9PRGdfMFNoaXFvbGx2MVln?oc=5",
-      "pub_date": 1791567646.0,
-      "article_url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
-      "image": "https://news.berkeley.edu/wp-content/uploads/2026/10/sanket-mishra-qAKPcrIcRG8-unsplash-scaled.jpg",
-      "description": "A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education \u2014 and daily life."
+      "headline": "Nicolas Cage Says He\u2019s \u2018Probably Not\u2019 Working With Amazon Again After Refusing to Sign AI Waiver for \u2018Spider-Noir,\u2019 Teases Joining \u2018True Detective\u2019",
+      "source": "Variety",
+      "source_url": "https://variety.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUZmaGRJajhMMHZCWXNfc3hYR0RORlNlbE5fYXFkZWVIR2d1QUVBMWlfczBIU1FKTFB1T1RTWDVNZGJ4Y3RQVTNDTVpfc3J2SEgzb1dRMVdudTQxQzZ4OVRMaEtiOUwxaTAxemxHeUgyTTZRUk5yRGhVUXJfaTZKaXhmQWxsY2w1T3BVSWMyYw?oc=5",
+      "pub_date": 1791651240.0,
+      "article_url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/TCDSPNO_ZU019.jpg?w=1000&h=563&crop=1",
+      "description": "Nicolas Cage says he 'probably won't be working' with Amazon again after refusing to sign an AI waiver for 'Spider-Noir.'"
     },
     {
-      "headline": "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2hidGI0TGJ6T2V2a0tHemdJa0hDLVdPM2pwUzlBQ0dURmZVaXhhRHRlZXA4ZTFCdUxSa0ZqVUlMYzlDVGwzTVFqaWIwS245bERiLTdTRnEwTUx2NGdfQ0RDbDdBdENMUTZrOVUySXVvZS12WmFFcVg2ZEJxd25YNtIBhgFBVV95cUxOMUx6eWE0TzFibnprdkhJZ2FxSUM3MjEtVkhsOExPZVBRVjJDWnhYMllmdDk4OE96aXhCa2d5TGxReXBkV0NCb3p5UlJneTV4MF9xVEhudWNNQ0NlV1FiM21nQzlSbHhJb0IzQ1RwWHZwcVQxbzMwN3phZ01VTXhDMVlhWmR0Zw?oc=5",
-      "pub_date": 1791608401.0,
-      "article_url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374041-1791381501338-gettyimages-1437811859-dsc_3230.jpeg?v=1791381553&w=1920&h=1080",
-      "description": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise."
-    },
-    {
-      "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqb1o4THZyeVo1aVZDUks1MXVHM25sdFhoTFZ6dGdPWXRhQUlMMmk4c01NY1Q2UGpjWU5pWUxCNkQwZEdxaExNMUNqRktNa1F6b0htTlhIZzZDVlU?oc=5",
-      "pub_date": 1791559950.0,
-      "article_url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
-      "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest."
+      "headline": "Nvidia in talks to acquire US \u2018open\u2019 model start-up Reflection AI",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5",
+      "pub_date": 1791656068.0,
+      "article_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-10T15:33:23.393207+00:00"
+  "fetched_at": "2026-10-10T19:50:34.683217+00:00"
 }
