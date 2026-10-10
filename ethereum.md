@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-09T23:25:01.371076+00:00'
+updated: '2026-10-10T02:34:40.569395+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 09, 2026 at 23:25 UTC  
+**Last Updated:** October 10, 2026 at 02:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -7.4%  
-**30d:** +2.1%  
-**90d:** +37.9%  
-**1y:** -35.4%  
+**24h:** +0.1%  
+**7d:** -8.5%  
+**30d:** -0.9%  
+**90d:** +40.4%  
+**1y:** -33.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.80B
+**Market Cap:** $304.23B
 Rank #2
 
 **Circulating Supply:** 122,118,912 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.7%
+-49.6%
 
 **All-Time Low:** $0.43
-+574459.0%
++575274.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 13h ago
 
 ---
 
@@ -150,25 +150,41 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?](https://247wallst.com/investing/cryptocurrency/2026/10/09/the-xrp-ledger-surpasses-ethereum-in-a-key-area-what-does-this-mean-for-the-xrp-price/)**
-
-The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?
-
-24/7 Wall St. • 11h ago
-
----
-
 **[Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
 
 Barron's • 2d ago
 
 ---
 
-**[XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend?](https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-gain-bitcoin-ethereum-220022976.html)**
+**[The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?](https://247wallst.com/investing/cryptocurrency/2026/10/09/the-xrp-ledger-surpasses-ethereum-in-a-key-area-what-does-this-mean-for-the-xrp-price/)**
 
-While Bitcoin and Ethereum funds hemorrhage hundreds of millions, XRP funds are quietly pulling in new money from investors already sitting on heavy losses. Whether that signals conviction or something else entirely depends on what happens next.
+The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?
 
-Yahoo Finance • 1h ago
+24/7 Wall St. • 14h ago
+
+---
+
+**[Which Cryptocurrency Is Most Likely to 10x by 2030: Bitcoin, Ethereum, XRP, or Solana?](https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-most-likely-10x-2030-123011185.html)**
+
+A 10x gain sounds the same for every coin, but the math behind reaching it differs by trillions of dollars. Before putting money on your favorite cryptocurrency, see which one actually has the most realistic shot at hitting that milestone before 2030.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Tom Lee’s BitMine Owns 4.9% of All Ethereum. What Happens When It Hits 5%?](https://247wallst.com/investing/cryptocurrency/2026/10/08/tom-lees-bitmine-owns-4-9-of-all-ethereum-what-happens-when-it-hits-5/)**
+
+Tom Lee's BitMine controls around 6 million ETH, amounting to 4.9% of all Ethereum. Here's what reaching 5% means for holders.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[BitMine Approaches Its ETH Purchase Limit: Who Will Buy Ethereum Next?](https://finance.yahoo.com/markets/crypto/articles/bitmine-approaches-eth-purchase-limit-002001650.html)**
+
+BitMine is weeks away from hitting its self-imposed Ethereum buying cap, and when it stops, the market loses its single biggest source of demand at the worst possible time.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -196,6 +212,14 @@ Decrypt News • 1d ago
 
 ---
 
+**[Current price of Ethereum for October 9, 2026](https://fortune.com/article/price-of-ethereum-10-09-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10h ago
+
+---
+
 **[Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity](https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity)**
 
 Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet.
@@ -204,41 +228,17 @@ Decrypt News • 1d ago
 
 ---
 
-**[Current price of Ethereum for October 9, 2026](https://fortune.com/article/price-of-ethereum-10-09-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
-
----
-
-**[Bitcoin Slides to $80,000 as Ethereum, XRP, Dogecoin Trigger $1B Liquidation Cascade](https://www.benzinga.com/crypto/cryptocurrency/26/10/62263108/bitcoin-slides-to-80000-as-ethereum-xrp-dogecoin-trigger-1b-liquidation-cascade)**
-
-Bitcoin fell 3% to $80,000 amid Iran tensions and AI security fears. Experts see the drop as a healthy retest and crypto is entering a tokenization super cycle. Recent higher high and BTC's recovery above major moving averages suggest the broader bearish trend may be ending.
-
-Benzinga • 1d ago
-
----
-
-**[Ethereum leads stablecoin market cap growth, adding $243M in a week](https://cryptobriefing.com/ethereum-leads-stablecoin-market-cap-growth/)**
-
-Ethereum added approximately $243M in stablecoin supply in a week as Ethereum, Arbitrum One and Base grew a combined $403.1M, per DefiLlama data.
-
-Crypto Briefing • 4h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[TOM LEE&#39;S CRAZY ETHEREUM PREDICTION](https://www.youtube.com/watch?v=1jPIqPnTFCc)**
+**[Ethereum Just Hit a Major Support: Is the Bottom In?](https://www.youtube.com/watch?v=bsFnc391d7k)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Ethereum Elliott Wave analysis for 10 October 2026: Ethereum pulled back into the $2400 to $2450 support cluster, where the ...
 
-📺 My Financial Friend
+📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 76 • ⏱️ 8:59 • 4h ago
+👁️ 614 • 👍 33 • 💬 3 • ⏱️ 9:35 • 2h ago
 
 ---
 
@@ -248,27 +248,17 @@ This video is sponsored by FortisX. Learn more: https://fortisx.fi/x/danalovephd
 
 📺 Dana Love, PhD
 
-👁️ 18K • 👍 533 • 💬 80 • ⏱️ 21:49 • 9h ago
+👁️ 22K • 👍 594 • 💬 79 • ⏱️ 21:49 • 12h ago
 
 ---
 
-**[Smart Money Is Doing This In Crypto Right Now XRP,  Ethereum &amp; Bitcoin Holders Could Profit](https://www.youtube.com/watch?v=7D5etodHsEI)**
+**[TOM LEE&#39;S CRAZY ETHEREUM PREDICTION](https://www.youtube.com/watch?v=1jPIqPnTFCc)**
 
-Its absolutely no secret that the richest people on the planet are accumulating as much cryptocurrency as they can right now.
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Money Rules - Investing Tips 
+📺 My Financial Friend
 
-👁️ 21K • 👍 1K • 💬 224 • ⏱️ 18:16 • 11h ago
-
----
-
-**[Ethereum Warning (Altcoins Will Die)](https://www.youtube.com/watch?v=o2NF_RtjLwk)**
-
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 213 • 💬 33 • ⏱️ 8:11 • 1d ago
+👁️ 5K • 👍 159 • 💬 95 • ⏱️ 8:59 • 7h ago
 
 ---
 
@@ -278,7 +268,27 @@ BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively un
 
 📺 Higher Highs Crypto
 
-👁️ 102 • 👍 2 • ⏱️ 8:01 • 7h ago
+👁️ 169 • 👍 2 • 💬 2 • ⏱️ 8:01 • 10h ago
+
+---
+
+**[Ethereum Warning (Altcoins Will Die)](https://www.youtube.com/watch?v=o2NF_RtjLwk)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 10K • 👍 217 • 💬 34 • ⏱️ 8:11 • 1d ago
+
+---
+
+**[Smart Money Is Doing This In Crypto Right Now XRP,  Ethereum &amp; Bitcoin Holders Could Profit](https://www.youtube.com/watch?v=7D5etodHsEI)**
+
+Its absolutely no secret that the richest people on the planet are accumulating as much cryptocurrency as they can right now.
+
+📺 Money Rules - Investing Tips 
+
+👁️ 23K • 👍 1K • 💬 234 • ⏱️ 18:16 • 14h ago
 
 ---
 
@@ -288,7 +298,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 341 • 💬 21 • ⏱️ 19:57 • 1d ago
+👁️ 18K • 👍 342 • 💬 21 • ⏱️ 19:57 • 1d ago
 
 ---
 
@@ -308,17 +318,7 @@ Joseph Lubin, Ethereum co-founder and MetaMask Chairman & CEO, says AI can provi
 
 📺 CNBC International Live
 
-👁️ 14K • 👍 91 • 💬 16 • ⏱️ 4:19 • 1d ago
-
----
-
-**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=3y_VP6TzmD0)**
-
-Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 963 • 👍 13 • 💬 2 • ⏱️ 3:03 • 1d ago
+👁️ 14K • 👍 92 • 💬 16 • ⏱️ 4:19 • 1d ago
 
 ---
 
