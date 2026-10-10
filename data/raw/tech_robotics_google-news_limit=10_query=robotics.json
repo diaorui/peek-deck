@@ -15,6 +15,36 @@
       "description": null
     },
     {
+      "headline": "UK robotics hubs to drive adoption of new tech",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZldzTWk4YVItQVpvVDFFZ3o0YVJTYUtFbEJGQXVPUE1jYlhUdWsweE9OTkR6VXdRbjN5LTNOZzJGVnNlaHYyRjVKanNDS1RLSkdyOHJ2ZGVtV1U?oc=5",
+      "pub_date": 1791522217.0,
+      "article_url": "https://www.bbc.com/news/articles/c6wyvdn7djnpo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e13d/live/bbf4bcd0-c329-11f1-9981-cf94ea240e40.jpg",
+      "description": "The government says the hubs will support businesses and public services across the country."
+    },
+    {
+      "headline": "This Robot Will Deliver Your Food, if It Doesn\u2019t Get Smashed First",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HblJLVmJVZGVOdm5Dc0JrMmRqRnhCQ3I1ZjJGb1I3ZGU0WnV4U2lLM1JOa1NhX2pjZFN2b19kUXExS0NpcU1RS3ZMQ28yb1lTV2N6MVNVMUFXTE5LbE1xa3VienFZVlVjYURFaFVaUko0b3lrNkE?oc=5",
+      "pub_date": 1791622807.0,
+      "article_url": "https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVk50RUpFaXkzbldiZF90SW5QUXhQdV9ma3hYMURSX3V4M3hGQ0htR1lKWEgtMmlNd0ZaNnVUY1ZBRGduanhZVWhvMnIyQXFRLUNYVUJXZ2kwa0M1ZTVxSnlrUEsyb2NiZXBHV2VkTFNwYnBoa1pYUXJMLW42WjUtZy1pNG51bVVHY2Zv?oc=5",
+      "pub_date": 1791633780.0,
+      "article_url": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/walmart-trouble-expensive-robots-warehouse.jpg?quality=85&w=1200",
+      "description": "Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work."
+    },
+    {
       "headline": "Nvidia\u2019s big bet on physical AI aims for safer robotaxis, humanoid robots",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
@@ -23,6 +53,16 @@
       "article_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
       "description": "Full-stack safety solution for physical AI is being used by robotics companies."
+    },
+    {
+      "headline": "Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10blh0c1laYkhucFdhckpyVG9QS0k0RWoxRzRWSHVWbGlnOGZQeGxIdFVjMXRScWRLa0FrdFduTTBpNkdVeFhPV2dpSGVZNVZGZGkxNDc3TlNXZlN2TUl4TDMxWlBNdw?oc=5",
+      "pub_date": 1791560027.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68398684&width=1200&height=600&coordinates=0%2C52%2C0%2C53",
+      "description": "Your weekly selection of awesome robot videos"
     },
     {
       "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
@@ -35,34 +75,24 @@
       "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
     },
     {
-      "headline": "Hexagon Is Putting 1,000 Humanoid Robots In Schaeffler Factories. This Is Not A Copy-Paste Process",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMzJuMjFmNkY1eEVCQnVqQWlBOHNZZ3ZkM200Ny1PU280dm5KNF90LU1pODFrT1ZhUHJpQ2Focnh3TnZnSGRRLUdWSXV1dXl0QVF3NnJLeXBtNmdab1ZDTVppZmRuWTFpenJNWXhhWllWaXVlN3REeVNsazVDXzhRMURZMU45T20yUFpxVEVoT2FLQnB2OEwweUZTMVRCaXpkX2FueWYyYWJMbFFLV0FEVmJLZ01nRFdaRjF1M2R5dTRSRFdFTVhkOGlwYWE2NVhYR2FXMkdOSkQwalI1Nm0tMVkwTnI?oc=5",
-      "pub_date": 1791586423.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/09/hexagon-is-putting-1000-humanoid-robots-in-schaeffler-factories-this-is-not-a-copy-paste-process/",
+      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
+      "pub_date": 1791500415.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
       "image": null,
       "description": null
     },
     {
-      "headline": "How AWS is helping companies build physical AI machines that think",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV09ac2QtTXFvV2dpMHNFZGJOM2xNd2RQUEVtZDYzX0dsM25GRG40V1U3TmFNR0ExUTlHaERpMlBtb1JaREtKYlZBVEcyMkNKX2FxNmdRcVEzTVZFNUpBSm9oNlVCelpGVDNmb080WDNVZkNqVDA2YzJCTF9kNWtPWGUycEE1QWxYNlJmLVpwNEtaSFU?oc=5",
-      "pub_date": 1791465166.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines",
-      "image": "https://assets.aboutamazon.com/dims4/default/64133eb/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F2b%2Fe8%2F55307dea410f85c7408920cf8b85%2Fabout-amazon-hero-ai-toolchain-hero-amazon-news-lt-092926.jpg",
-      "description": "Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world."
-    },
-    {
-      "headline": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
-      "source": "NVIDIA Developer",
-      "source_url": "https://developer.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb29oVGtZV3BUeFkwcENKZHJ3UmtzaTAtdXFkU3FfWDFScVo5VnlJRkt3QU0xaVBKRVItcjVndjZaOFFKOWJtRWQ2N0k4cHdoYl9QX2xaY0JIaktfSEJyT2RsVXRVSDZ5SmFTaDZRYnBtbF9EaVJCS1ktVU9pQUs1Y0xaSUtGc3dNcFk0UXhEQkh4NV91OXZ1cEJBMTlLR01NVExxaDdFNXc?oc=5",
-      "pub_date": 1791495220.0,
-      "article_url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif",
-      "description": "Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints\u2026"
+      "headline": "Inside the \u2018robot gyms\u2019 training machines for the real world",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU1pd1pSTGtQdHFiMzlxazZJaFVYVFhwTU5IU0tnMzJTeEVlZFhlUXotbmtNN0RSUnp4VHRfX1czbTJmQXAzcFFQeW1FOW5sWTFhSVBVb0Qyc1IxdmFYMXp6Mmo5cF9rbWNyX2dEMzlzR1YyY1RVU29SU2lTcGVWZTFRams?oc=5",
+      "pub_date": 1791604807.0,
+      "article_url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Danu Robotics\u2019 fight to build a better recycling robot",
@@ -73,38 +103,8 @@
       "article_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
       "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-    },
-    {
-      "headline": "This Disembodied Hand Is All the Robot You Need",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qTkNmQUd0UllXTnZSeVRfSVBKWnphYUlYenIwQU5BVmd5d3ZLampQc2gxTzNoektleGpjdG9KemxYekE4LXhELVpJenlMay1YcnBtR1pBdkFfQQ?oc=5",
-      "pub_date": 1791461059.0,
-      "article_url": "https://spectrum.ieee.org/walking-robotic-hand",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68383399&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-      "description": "Multipurpose body parts could lead to more-flexible robot designs"
-    },
-    {
-      "headline": "Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M",
-      "source": "Endpoints News",
-      "source_url": "https://endpoints.news",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWF5UGhVTkRfc1BOQVdOY2JteWk3RVZiVmg3NnBXTXJETnVNUEI0NHdfcm5wSV9IWTFZQ2Vrcml3Wi0yODJtMVBneVlSamlMWTlfbHpSVlhlMENFVXVxakFsU3BkUzVJcm0yNTJtLTMyM1lMc2tpaEZBS2xHT2hjRWFyMl9KaElaMERjbVhKenFjNWVTY3BJTGhndkwxU3lja1ZRd2x3?oc=5",
-      "pub_date": 1791476820.0,
-      "article_url": "https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/",
-      "image": "https://endpoints.news/wp-content/uploads/2021/02/mf-social.jpg",
-      "description": "Multiply Labs raises $75M Series B; NorthStar lands up to $185M from Hercules; Genentech, Fresenius Kabi manufacturing news."
-    },
-    {
-      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
-      "pub_date": 1791500415.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-10T02:34:25.456849+00:00"
+  "fetched_at": "2026-10-10T15:33:25.909035+00:00"
 }

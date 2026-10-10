@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-10T09:32:07.565234+00:00'
+updated: '2026-10-10T15:33:27.523622+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 10, 2026 at 09:32 UTC  
+**Last Updated:** October 10, 2026 at 15:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,761.93
+### $82,847.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -4.1%  
-**30d:** +7.4%  
-**90d:** +33.0%  
-**1y:** -25.0%  
+**24h:** +0.3%  
+**7d:** -4.0%  
+**30d:** +7.5%  
+**90d:** +33.1%  
+**1y:** -24.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1664.13B
+**Market Cap:** $1666.18B
 Rank #1
 
-**Circulating Supply:** 20,095,993 BTC
+**Circulating Supply:** 20,096,093 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.3%
+-34.2%
 
 **All-Time Low:** $67.81
-+122041.3%
++122172.5%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 after the coldcard situation, I decided I really don't want to trust any company or third party to come up with "randomness" for my key, which later will turn out was not really random. So I 3d printed every single BIP39 word to draw from, similar to a lottery. I draw one, toss it and write down the word facing up. The last word is calculated with a fully offline device. I made the repo public in case anyone wants to print their own (should work on any 3d printer): https://github.com/davidkessler-ch/SeedLottery edit: - to mix them up, i first pour them into a large bowl - it's important to put the words back and mix again, before picking the next!
 
-1d ago
+2d ago
 
 ---
 
@@ -109,7 +109,7 @@ I have tracked BTC since 2017 and became more committed in 2020. I have reached 
 
 **[We have doomer house and now doomer bitcoin before gta 6!](https://www.reddit.com/r/Bitcoin/comments/1x0nsq0/we_have_doomer_house_and_now_doomer_bitcoin/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -131,7 +131,7 @@ Is it good time to buy some BTC
 
 **[I thought the U.S. government was going to stack sats?](https://www.reddit.com/r/Bitcoin/comments/1x0od4b/i_thought_the_us_government_was_going_to_stack/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -147,7 +147,7 @@ I like the smell of cheap BTC in the morning.
 
 Bitcoin and altcoins sit side by side in your finance app. But are they doing the same job? In Lesson 5 of Bitcoin 101, Jack Mallers explains why he sees Bitcoin as money and most altcoins as businesses, comparing their origins, incentives, governance, and trade-offs.
 
-1d ago
+2d ago
 
 ---
 
@@ -159,7 +159,7 @@ Bitcoin and altcoins sit side by side in your finance app. But are they doing th
 
 Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.
 
-CoinDesk • 19h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -171,41 +171,57 @@ Investor's Business Daily • 1d ago
 
 ---
 
+**[China Is Building a National Blockchain Network: Will Bitcoin Benefit?](https://www.yahoo.com/news/world/articles/china-building-national-blockchain-network-141957009.html)**
+
+China plans a national blockchain network in its new economic blueprint. Here is why Bitcoin is left out of it.
+
+Yahoo • 1h ago
+
+---
+
+**[Bitcoin jumps 26% after largest short squeeze s...](https://pluang.com/en/news-feed/rebound-bitcoin-didorong-penurunan-futures-open-interest-11)**
+
+Bitcoin surged 26% from its mid-August low following the largest single-day short liquidation event since 2019, with 85% of liquidated positions being shorts. During this period, U.S. spot Bitcoin ETFs saw $2.23 billion in creations, indicating strong spot-market demand that supported the price rise despite a decline in leveraged futures positions. Futures open interest fell 11% in Bitcoin terms, showing the rally was not fueled by increased leverage. The market now watches if spot demand and futures leverage will grow together or if the rally will continue with subdued leverage.
+
+Pluang • 2h ago
+
+---
+
+**[Bitcoin ETFs see $21M inflow, easing recent sel...](https://pluang.com/en/news-feed/harga-bitcoin-tahan-82k-dolar-dipimpin-blackrock-etf)**
+
+Bitcoin ETFs experienced a $21.13 million inflow on Friday, led by Blackrock’s IBIT, signaling a pause after two days of heavy redemptions totaling nearly $1 billion. This modest inflow suggests institutional selling pressure on Bitcoin may be easing, though it remains to be seen if this will lead to renewed buying. Meanwhile, Ether ETFs continued to face outflows, losing $56.10 million and extending their streak to nine consecutive days, highlighting a divergence in institutional interest between Bitcoin and Ether. NEAR ETFs attracted fresh capital, contrasting with outflows in Solana ETFs, reflecting selective investor preferences. Overall, Bitcoin's price stability depends on whether new institutional demand can pick up, as current gains are largely driven by existing holders rather than fresh inflows.
+
+Pluang • 30m ago
+
+---
+
 **[A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?](https://www.wsj.com/finance/currencies/a-year-on-bitcoin-languishes-a-third-below-its-all-time-high-whats-next-for-the-cryptocurrency-046f2689)**
 
-WSJ • 17h ago
+WSJ • 23h ago
 
 ---
 
-**[Current price of Bitcoin for October 9, 2026](https://fortune.com/article/price-of-bitcoin-10-09-2026/)**
+**[Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC](https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bermuda-regulated startup Meanwhile, whose backers include Bain Capital Crypto and Sam Altman, has now raised a total of $180 million.
 
-Fortune • 16h ago
-
----
-
-**[Trader Loses $6.6 Million in Bitcoin After Buying New Ledger Wallet](https://finance.yahoo.com/markets/crypto/articles/trader-loses-6-6-million-162956153.html)**
-
-A trader lost 80 BTC from a new Ledger bought via CryptoBilis as theft estimates near $90 million.
-
-Yahoo Finance • 17h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
-**[Here’s How Not To Screw Up Your Bitcoin Privacy](https://bitcoinmagazine.com/news/seth-for-privacy-bitcoin-tips)**
+**[The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell?](https://247wallst.com/investing/cryptocurrency/2026/10/10/the-u-s-government-moved-1-5-billion-in-seized-crypto-in-two-days-will-it-sell/)**
 
-Speaking on the Bitcoin Rails podcast, Cake Wallet’s Seth for Privacy said people need to take more precautions to protect their identities when using the biggest cryptocurrency.
+The U.S. government moved around $1.5 billion in seized cryptocurrency on October 7 and 8. Is it preparing to sell its Bitcoin?
 
-Bitcoin Magazine • 13h ago
+24/7 Wall St. • 7h ago
 
 ---
 
-**[Hedge funds cut Bitcoin, brokerages load up in Q2: CoinShares report](https://seekingalpha.com/news/4651832-hedge-funds-cut-bitcoin-brokerages-load-up-in-q2-coinshares-report)**
+**[Live updates: Bitcoin pulls off worst levels late in Thursday session](https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify)**
 
-CoinShares report: pro investors grew Bitcoin ETF exposure in Q2 as total AUM fell—hedge funds sold, brokerages bought.
+Crypto markets tumbled on Thursday, with cryptography fears, rising oil prices and interest rates, and the one-year anniversary of last October's flash crash on traders' radar.
 
-Seeking Alpha • 15h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -214,22 +230,6 @@ Seeking Alpha • 15h ago
 Crypto-linked stocks fell alongside Bitcoin’s decline, with AI-focused miners leading the decline to hit multi-month lows.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin down 34% from its all-time high one year on](https://www.cnbc.com/video/2026/10/09/bitcoin-down-34-percent-from-its-all-time-high-one-year-on.html)**
-
-CNBC’s MacKenzie Sigalos reports on why bitcoin is still roughly a third below its peak, as macro pressure, weaker ETF flows, and stalled crypto legislation weigh on the trade.
-
-CNBC • 13h ago
-
----
-
-**[Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16](https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132)**
-
-The Thai regulator set an Oct. 16 effective date for its crypto ETF framework, while limiting initial assets to bitcoin and ether.
-
-The Block • 22h ago
 
 ---
 
@@ -257,7 +257,7 @@ Discord is great for playing games and chilling with friends, or even building a
 
 In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.
 
-⬆️ 1 • 💬 0 • 5d ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
+⬆️ 1 • 💬 0 • 6d ago • [instapath.ai](https://instapath.ai/personal-agent-challenge)
 
 ---
 
@@ -273,7 +273,7 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 Genome viewer for you and your agents. Contribute to zeqianli/tgv development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 6h ago • [GitHub](https://github.com/zeqianli/tgv)
+⬆️ 4 • 💬 1 • 12h ago • [GitHub](https://github.com/zeqianli/tgv)
 
 ---
 
@@ -281,63 +281,73 @@ Genome viewer for you and your agents. Contribute to zeqianli/tgv development by
 
 ## YouTube Videos: "bitcoin"
 
-**[ULTRA CRYPTO BOMBSHELL!!! BITCOIN TO $10,000,000 AND XRP TO $160?!](https://www.youtube.com/watch?v=9vLW2FjVb0A)**
+**[Bitcoin Is the Toll Collector of the AI Economy](https://www.youtube.com/watch?v=rAVx9MiSbjc)**
 
-Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphold.com/sensei ▸ Earn XRP Rewards: 4% Elite ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Crypto Sensei
+📺 Anthony Pompliano
 
-👁️ 18K • 👍 412 • 💬 92 • ⏱️ 14:30 • 13h ago
-
----
-
-**[Bitcoin Bounces Perfectly: Exact Support Level Saving Bull Market](https://www.youtube.com/watch?v=BPzFljMOJxI)**
-
-Bitcoin flushed, hit the exact support Nick has been pointing to for months, and bounced. Trade alongside the Verified Pro ...
-
-📺 Verified Investing
-
-👁️ 13K • 👍 500 • 💬 39 • ⏱️ 19:49 • 15h ago
+👁️ 5K • 👍 723 • 💬 16 • ⏱️ 46:44 • 2h ago
 
 ---
 
-**[Dave Ramsey Bitcoin Debate That Left Viewers Divided](https://www.youtube.com/watch?v=ZZiF8T8qHzQ)**
+**[A VERY CLEAR BITCOIN SIGNAL SO BE PREPARED!](https://www.youtube.com/watch?v=kZN_1yKzhRM)**
 
-Analyzing the latest Dave Ramsey Bitcoin advice. We are breaking down his stance on crypto and what it means for your portfolio.
+APPLY TO WORK WITH ME. We take a limited number of new members each month.
 
-📺 The Economic Ninja
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 10K • 👍 274 • 💬 128 • ⏱️ 8:57 • 9h ago
-
----
-
-**[WARNING: Crypto Wasn’t Around For The 90s Boom... It Is Now (Best Altcoin Setup I’ve Ever Seen)](https://www.youtube.com/watch?v=pkPQG0jQkcE)**
-
-CCV Risk Models & Intelligence System - Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
-
-📺 Crypto Capital Venture
-
-👁️ 17K • 👍 626 • 💬 188 • ⏱️ 18:19 • 16h ago
+👁️ 13K • 👍 669 • 💬 75 • ⏱️ 20:53 • 11h ago
 
 ---
 
-**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
+**[Bitcoin Is About To Make A Massive Move](https://www.youtube.com/watch?v=11QxIeT0rCc)**
 
-Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
+Bitcoin Is About To Make A Massive Move Want access to the Platinum Group? Join here: ...
 
-📺 The Economic Ninja
+📺 Mister Crypto
 
-👁️ 20K • 👍 782 • 💬 144 • ⏱️ 3:20 • 14h ago
+👁️ 3K • 👍 96 • 💬 5 • ⏱️ 7:47 • 5h ago
 
 ---
 
-**[Bitcoin Had a $1 Billion Wipeout...What&#39;s next?](https://www.youtube.com/watch?v=XFm6i1fr-6k)**
+**[The Paper Bitcoin Trap That Could Keep Bitcoin From $1 Million!](https://www.youtube.com/watch?v=43kv4MhSPts)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Bitcoin just crashed to $80000 as a new debate erupts over paper Bitcoin, Michael Saylor's digital credit strategy, ETF outflows ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 29K • 👍 723 • 💬 107 • ⏱️ 41:04 • 18h ago
+👁️ 46K • 👍 2K • 💬 133 • ⏱️ 15:34 • 1d ago
+
+---
+
+**[BITCOIN: THE MOST CRITICAL MOMENT IS NOW...](https://www.youtube.com/watch?v=F4Wd2zydCvI)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 11K • 👍 491 • 💬 17 • ⏱️ 7:03 • 5h ago
+
+---
+
+**[Bitcoin: enough is enough..](https://www.youtube.com/watch?v=5_N2EIMY1Ds)**
+
+Bitcoin what now.
+
+📺 MMCrypto
+
+👁️ 46K • 👍 2K • 💬 353 • ⏱️ 6:10 • 22h ago
+
+---
+
+**[Bitcoin, XRP Update: Is the XRP &amp; BITCOIN correction over yet?  The 4hr Buy zone targets!](https://www.youtube.com/watch?v=kbyCTtzr0_4)**
+
+Today's XRP & BITCOIN Video: Trade XRP & BITCOIN (ByBit): https://bit.ly/CoinsKidByBit MY XRP & BITCOIN TARGETS!
+
+📺 CoinsKid
+
+👁️ 3K • 👍 218 • 💬 68 • ⏱️ 15:55 • 3h ago
 
 ---
 
@@ -347,37 +357,27 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 225 • 💬 84 • ⏱️ 15:24 • 11h ago
+👁️ 6K • 👍 253 • 💬 87 • ⏱️ 15:24 • 17h ago
 
 ---
 
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=1BNmkkMps0Y)**
+**[What Happens After Bitcoin Hits $100K?](https://www.youtube.com/watch?v=v5SqNDwSGpU)**
 
-Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
+Bitcoin just plunged from $87000 to $80000, wiping out $1.5 billion in leveraged positions, but the bigger story is what happens ...
 
-📺 Road To $1 Million USD
+📺 Simply Bitcoin
 
-👁️ 7K • 👍 274 • 💬 30 • ⏱️ 5:44 • 15h ago
-
----
-
-**[Won&#39;t Bitcoin Miners Just Switch Mining Pools?](https://www.youtube.com/watch?v=sgsTVM7-pv4)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss whether it's realistic to expect Bitcoin ...
-
-📺 Bitcoin University
-
-👁️ 7K • 👍 504 • 💬 111 • ⏱️ 9:32 • 21h ago
+👁️ 23K • 👍 1K • 💬 62 • ⏱️ 19:23 • 16h ago
 
 ---
 
-**[Bitcoin: Q4 2026](https://www.youtube.com/watch?v=se6UlLbDTEo)**
+**[Bitcoin Prediction that everyone is overlooking! (2028-2030)](https://www.youtube.com/watch?v=X2aM26F0xCE)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Kalshi $50 bonus: http://kalshi.com/p/aimstone ...
 
-📺 Benjamin Cowen
+📺 Aimstone
 
-👁️ 160K • 👍 6K • 💬 409 • ⏱️ 20:29 • 1d ago
+👁️ 5K • 👍 231 • 💬 42 • ⏱️ 14:23 • 17h ago
 
 ---
 

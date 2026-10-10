@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-10T09:32:07.570057+00:00'
+updated: '2026-10-10T15:33:27.533012+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 10, 2026 at 09:32 UTC  
+**Last Updated:** October 10, 2026 at 15:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh – 6000mAh) x 1 I have been working on a bipedal version hence the "2 more to go" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)
 
-2d ago
+3d ago
 
 ---
 
@@ -58,7 +58,7 @@ Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) desi
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-2d ago
+3d ago
 
 ---
 
@@ -116,7 +116,29 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 **[Two-armed robot throws and catches balls with human-like movements](https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html)**
 
-Tech Xplore • 19h ago
+Tech Xplore • 1d ago
+
+---
+
+**[UK robotics hubs to drive adoption of new tech](https://www.bbc.com/news/articles/c6wyvdn7djnpo)**
+
+The government says the hubs will support businesses and public services across the country.
+
+BBC • 1d ago
+
+---
+
+**[This Robot Will Deliver Your Food, if It Doesn’t Get Smashed First](https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html)**
+
+The New York Times • 6h ago
+
+---
+
+**[Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work](https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse)**
+
+Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
+
+Futurism • 3h ago
 
 ---
 
@@ -124,7 +146,15 @@ Tech Xplore • 19h ago
 
 Full-stack safety solution for physical AI is being used by robotics companies.
 
-Ars Technica • 1d ago
+Ars Technica • 2d ago
+
+---
+
+**[Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!](https://spectrum.ieee.org/video-friday-reachy-mini-raps)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 23h ago
 
 ---
 
@@ -136,25 +166,15 @@ MIT Technology Review • 2d ago
 
 ---
 
-**[Hexagon Is Putting 1,000 Humanoid Robots In Schaeffler Factories. This Is Not A Copy-Paste Process](https://www.forbes.com/sites/johnkoetsier/2026/10/09/hexagon-is-putting-1000-humanoid-robots-in-schaeffler-factories-this-is-not-a-copy-paste-process/)**
+**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
 
-Forbes • 10h ago
-
----
-
-**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
-
-Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
-
-About Amazon • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)**
+**[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
 
-Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints…
-
-NVIDIA Developer • 1d ago
+Financial Times • 11h ago
 
 ---
 
@@ -162,29 +182,7 @@ NVIDIA Developer • 1d ago
 
 For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
 
-TechCrunch • 16h ago
-
----
-
-**[This Disembodied Hand Is All the Robot You Need](https://spectrum.ieee.org/walking-robotic-hand)**
-
-Multipurpose body parts could lead to more-flexible robot designs
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M](https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/)**
-
-Multiply Labs raises $75M Series B; NorthStar lands up to $185M from Hercules; Genentech, Fresenius Kabi manufacturing news.
-
-Endpoints News • 1d ago
-
----
-
-**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
-
-Bloomberg.com • 1d ago
+TechCrunch • 22h ago
 
 ---
 
@@ -198,7 +196,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 95K • 👍 2K • 💬 99 • ⏱️ 1:00 • 5d ago
+👁️ 97K • 👍 2K • 💬 101 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -208,17 +206,7 @@ We visited UCSD's Center for the Future of Surgery to learn about the first ever
 
 📺 CNET
 
-👁️ 52K • 👍 497 • 💬 65 • ⏱️ 6:34 • 5d ago
-
----
-
-**[Chinese humanoid robots DANCE inside South Korea’s parliament](https://www.youtube.com/watch?v=GnLL9Zezkcg)**
-
-Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China's rapid advances in ...
-
-📺 Fox News
-
-👁️ 46K • 👍 501 • 💬 150 • ⏱️ 0:18 • 23h ago
+👁️ 53K • 👍 498 • 💬 65 • ⏱️ 6:34 • 6d ago
 
 ---
 
@@ -228,7 +216,7 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 📺 Jot Tv Media 
 
-👁️ 77K • 👍 2K • 💬 15 • ⏱️ 1:04 • 1d ago
+👁️ 79K • 👍 2K • 💬 15 • ⏱️ 1:04 • 2d ago
 
 ---
 
@@ -238,27 +226,7 @@ Original video credit: IG/@niufanbing. The video demonstrates testing of a speci
 
 📺 History Seeker
 
-👁️ 90K • 👍 493 • 💬 14 • ⏱️ 0:08 • 9h ago
-
----
-
-**[This Is Impossible... Bane Bagliore MELTING Fang Bots | Bane Comeback | War Robots](https://www.youtube.com/watch?v=1NH2fZ82um4)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR The Bane are back! I just wanted to try this build out for fun, ...
-
-📺 PREDATOR WR
-
-👁️ 12K • 👍 310 • 💬 34 • ⏱️ 14:51 • 21h ago
-
----
-
-**[Figure Tested Its New Robot in 30 Homes. Did It Work?](https://www.youtube.com/watch?v=uliBBfanE6g)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figure has finally taken its humanoid robot out of ...
-
-📺 PRO ROBOTS
-
-👁️ 27K • 👍 369 • 💬 51 • ⏱️ 23:29 • 6d ago
+👁️ 115K • 👍 541 • 💬 14 • ⏱️ 0:08 • 15h ago
 
 ---
 
@@ -272,6 +240,36 @@ usmilitary #usarmy #nickirving #veteran #specialforces.
 
 ---
 
+**[This Is Impossible... Bane Bagliore MELTING Fang Bots | Bane Comeback | War Robots](https://www.youtube.com/watch?v=1NH2fZ82um4)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR The Bane are back! I just wanted to try this build out for fun, ...
+
+📺 PREDATOR WR
+
+👁️ 14K • 👍 329 • 💬 37 • ⏱️ 14:51 • 1d ago
+
+---
+
+**[Chinese humanoid robots DANCE inside South Korea’s parliament](https://www.youtube.com/watch?v=GnLL9Zezkcg)**
+
+Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China's rapid advances in ...
+
+📺 Fox News
+
+👁️ 48K • 👍 514 • 💬 154 • ⏱️ 0:18 • 1d ago
+
+---
+
+**[The End of Human-Piloted Surveillance #robotics #tech #shorts](https://www.youtube.com/watch?v=OGi-nFXqO18)**
+
+See how autonomous flying robots reach speeds of 100 mph to handle complex security monitoring without a pilot. These ...
+
+📺 SciVion
+
+👁️ 7K • 💬 2 • ⏱️ 0:26 • 21h ago
+
+---
+
 **[AI Taught This Robot Hand to Walk on Its Fingers #ai  #robotics   #machinelearning  #futuretech](https://www.youtube.com/watch?v=YFRoC5Qzkq0)**
 
 ETH Zurich researchers trained an anthropomorphic robot hand to crawl using the same five fingers it would normally use for ...
@@ -282,13 +280,13 @@ ETH Zurich researchers trained an anthropomorphic robot hand to crawl using the 
 
 ---
 
-**[The End of Human-Piloted Surveillance #robotics #tech #shorts](https://www.youtube.com/watch?v=OGi-nFXqO18)**
+**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
 
-See how autonomous flying robots reach speeds of 100 mph to handle complex security monitoring without a pilot. These ...
+Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
 
-📺 SciVion
+📺 MACHINEKIND
 
-👁️ 5K • 💬 1 • ⏱️ 0:26 • 15h ago
+👁️ 69K • 👍 1K • 💬 115 • ⏱️ 13:42 • 4d ago
 
 ---
 

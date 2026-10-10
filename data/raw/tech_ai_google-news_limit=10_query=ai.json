@@ -5,64 +5,74 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
+      "headline": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5",
-      "pub_date": 1791589860.0,
+      "pub_date": 1791603240.0,
       "article_url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic discloses fake tip to police among new rogue AI incidents",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
-      "pub_date": 1791573660.0,
-      "article_url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "headline": "Watch The Race for AI Supremacy Raises Safety Concerns",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGc1bWhUUHo2dVY4Y01VUy16WGFIYlB2bE9RUllDVXAtVXoxMjVwTXNaWm5MR0Y0bEQyamotOXBKYmlRcXA0SEdRaWUyMWRWT1ExNmVPZHJiYUJBV1I4RjltWC1WUGtFek1ydlkyZVA4OFR1cFhxR0hEYlFUWHI2dkxLZzJNMXN1aTlwSUQ0RW9kUTdRb3U1SVBENG16bGZZRy1iXzd3?oc=5",
+      "pub_date": 1791639967.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-      "pub_date": 1791595195.0,
-      "article_url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "headline": "This Forgotten AI Stock Is Up 689% and Nobody's Talking About It",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTVZQzZKbHM4dUtHVjdMU3JfemVDUURZNGV4elFsOHlBemdNWnlIOHMtU0pyVEU5cnNFeU5zOTczNzJ6RG5aTVJxTHFaQ1ZUbjRiT3pGWExPbzFuTE5udzQyQ0lhM3NQbk1QdlYySXJhVHVVQkNSUlV1Z1ZPNlpHVHFHejVwWGJya1lLZGdVZ2l5OS1aOUZBRmhEYw?oc=5",
+      "pub_date": 1791609600.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/forgotten-ai-stock-689-nobodys-052000441.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7c5f40c468d0580cd515cf7544fe2c33ee82914bf79c026da574423020c1bedf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Feae9dca11f540c616e971f391568ee8f.jpg",
+      "description": "It plays a critical role in AI development."
+    },
+    {
+      "headline": "How to shield your portfolio if AI goes ka-boom",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdm1vQVBTRFhPamhtYllyUC1TckhrSFV6ZjBtN1N4N0dTNXhFRHpzR3RMejNPbll6dG1URjVnZUc0Z2tTSXN6eENpM1RHSl9hSkozN3c1ZUQ2MUR3TkxCQWhTRUhhZGVremFObmpHbjM2eXZLYjFzWkxtT0hLeTlVM3ZyWDI?oc=5",
+      "pub_date": 1791550834.0,
+      "article_url": "https://www.ft.com/content/ee329e29-aec9-4876-829e-022683f425f8?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI use, screen time in schools under review by DC Council",
-      "source": "FOX 5 DC",
-      "source_url": "https://www.fox5dc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUQwODRPNXNGRThCMlUxVzduRHRoc2tsRWVqREtFUE90V0d4NTJKT1lLazdlZVhac0RzSm0wUGY5bTh2Y0I1SEotMkhTVmVFelJRTDlSZXNYR2RCel9vOFYzMnJWVFk5TWduanFwcXhyZ3YtSVpyNTBYdUxFdUhPVGp4RnU?oc=5",
-      "pub_date": 1791593869.0,
-      "article_url": "https://www.fox5dc.com/news/ai-use-screen-time-schools-under-review-dc-council",
-      "image": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2026/07/1200/630/screenshot-2026-07-21-155936.png?ve=1&tl=1",
-      "description": "A D.C. Council committee is looking into the use of artificial technology and screen time in schools."
+      "headline": "GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHhXS180Y0JUM181aW5aT1FXYXZ6TnhzTlpYRVNZaS1mRnpYSW1TOWVhTXN4RDFjdVFwM1ppVEl2OGI3dmYyQ3IzQl9xWlFoMnRvcUF2NjVNczllZnBVN0FJRTFlSHpKN2tzdVdVX1Zob05WM2ZMdkdQSVFNeUJEOGFkYzJ5dlN2YW9UM2tqcFF2ZWVGS05IQ1dra2c?oc=5",
+      "pub_date": 1791645840.0,
+      "article_url": "https://www.investors.com/news/ge-vernova-gev-stock-snowflake-ai-plays-with-accelerating-growth/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/01/stock-GE-Vernova-adobe.jpg",
+      "description": "Accelerating revenue growth has whetted investor appetites."
     },
     {
-      "headline": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qZldrQnF2aGJCM0dfaUFOcHBKUmVVUE5NYjRBSS1PWWlYMHV3RTRYN3BBTU5lanN4OFpqRnhwNG5JQVpCNURobkZSVlhsR29sdkhlMVlXNVktMmh2ZFhTQ3VObldsVk9mYXMwUkhBYw?oc=5",
-      "pub_date": 1791594000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9",
-      "image": null,
-      "description": null
+      "headline": "GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDZfVW1CSGM1YUxiLXd0UmpzM0xwRGFqQ3lIdl9JTkZOV0JyWk5MOEV6T1FmVUY5RFhjTVNOeEo0eFdkT2drNWVrVmJPMHdoSXBqOWwxZ2VvbnRyUFFET0ZoUzFnZFNWdVFyb1ZZMW1HUHBUY2txdTFzSVlwREpVMjV1TEQ2OFFrZVk3MjZwSUhVb2tU?oc=5",
+      "pub_date": 1791640800.0,
+      "article_url": "https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes",
+      "image": "https://tii.imgix.net/production/articles/17961/4e416861-3725-446b-8575-0a2246e93487.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "The basement of Gary Flake\u2019s contemporary home in a quiet neighborhood in Bellevue, Wash., is furnished with everything you\u2019d expect in a multipurpose man cave. There\u2019s a cozy-looking couch situated between a large screen and a digital projector, a Peloton treadmill and a rowing machine. The ..."
     },
     {
-      "headline": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5",
-      "pub_date": 1791589343.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-google-tech-10-09-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/73f9cf4172fc51556f96640ef1c12afc.jpg",
-      "description": "Top AI companies are reportedly preparing for a potentially catastrophic AI incident in 2027, with executives warning that rogue models or malicious actors could disrupt financial services, internet connectivity and critical infrastructure. OpenAI told Fox Business that its preparedness exercises explore potential scenarios, not inevitable outcomes. Meanwhile, European Union tech chief Henna Virkkunen defended the bloc's existing AI regulations as sufficient to address emerging threats."
+      "headline": "Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3ZBV1lnZjV6R2VRUHBaTENHWC13UDVzSDc1Y2xNZm1Vd1B1aWpOUmYweklhRFJIQnkydUNRTWh0MTBKbXh6aXJGZFdvci1VNXE3d3h5V1JfWFZIWDZCYWRVOXpzNzNmcm93LWtsWFZqSjludllIRThSdHNwZzlNc3paUjNQNVEyMEVkbTNiTGN6NGtybVFMS0UtVVgtaXNJMHYwbXNJVzdPelFHUTR6QnZ3WGhRWmoxaDVycGN5ZTF4UzVuY3c?oc=5",
+      "pub_date": 1791560160.0,
+      "article_url": "https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2282053641-e1791556482586.jpg?resize=1200,600",
+      "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage."
     },
     {
       "headline": "Using AI for just 10 minutes erodes your ability to persist at hard things",
@@ -75,36 +85,26 @@
       "description": "A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education \u2014 and daily life."
     },
     {
-      "headline": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
-      "pub_date": 1791541957.0,
-      "article_url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
-      "image": null,
-      "description": null
+      "headline": "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2hidGI0TGJ6T2V2a0tHemdJa0hDLVdPM2pwUzlBQ0dURmZVaXhhRHRlZXA4ZTFCdUxSa0ZqVUlMYzlDVGwzTVFqaWIwS245bERiLTdTRnEwTUx2NGdfQ0RDbDdBdENMUTZrOVUySXVvZS12WmFFcVg2ZEJxd25YNtIBhgFBVV95cUxOMUx6eWE0TzFibnprdkhJZ2FxSUM3MjEtVkhsOExPZVBRVjJDWnhYMllmdDk4OE96aXhCa2d5TGxReXBkV0NCb3p5UlJneTV4MF9xVEhudWNNQ0NlV1FiM21nQzlSbHhJb0IzQ1RwWHZwcVQxbzMwN3phZ01VTXhDMVlhWmR0Zw?oc=5",
+      "pub_date": 1791608401.0,
+      "article_url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374041-1791381501338-gettyimages-1437811859-dsc_3230.jpeg?v=1791381553&w=1920&h=1080",
+      "description": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise."
     },
     {
-      "headline": "AI executives planning \"day after\" scenarios following possible catastrophic event, Axios reports",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWDQ3WGZLQ3VubHZrYlVNVGJOVUxVUFNUMDZFUUtVbjl6NVlZU2haNkJRek5oYU9OZ3hlejlkbmJpWkRFbFA4SV9lMU1nY0xBVXNIY3ZhMlB5LXZxc2FhUVNWb3dvZnNhSlFtOE80TExiTE11dmV5WGFTYWw2YjM2OVh1cVlWVjBGdHJQa3cydGpkMS1pM2JUVWpPcWNhU0hKdW8tMldrYXZYYXM?oc=5",
-      "pub_date": 1791589560.0,
-      "article_url": "https://www.cbsnews.com/video/ai-executives-planning-day-after-scenarios-possible-catastrophic-event-axios/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/10/5c9300db-5880-474b-8bdc-7ee0ff6e022e/thumbnail/1200x630/3b7806fb71bbdd85f18ae07b0f7bfd5a/cbsn-fusion-ai-executives-planning-day-after-scenarios-possible-catastrophic-event-axios-thumbnail.jpg",
-      "description": "New reporting from Axios reveals that leaders at artificial intelligence companies like OpenAI and Anthropic are planning behind the scenes for fallout scenarios should a significant AI cyberattack occur. Axios tech policy reporter Maria Curi has the details."
-    },
-    {
-      "headline": "AI companies plot how to respond if catastrophic hacking incident causes \u2018revolt\u2019: report",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWgwYmRuRFV0aGloQUZ1eGJaeEg5Q2VLeExJOXlNUDROTk1rTExDVlpEcWJLdmFXOWhZeTc2bkFDZjV5LTBydkh6VGhsWXFTUGxzdkJBNlpFTjRLSTJ2RFVJVUtOTnRiMFl4d0dCeUhRa284SmJWWjNZY3BYZkFxa2lHS1h1ZklxTmM2VEtuU284NUFuQVlKaFRXMUJ6TDlPY2NXYW5YRkN2eGpHZjA5ZWpDVUtDM2o2bVZCR01SUEFfXzd6?oc=5",
-      "pub_date": 1791585540.0,
-      "article_url": "https://nypost.com/2026/10/09/business/ai-companies-plot-how-to-respond-if-catastrophic-hacking-incident-causes-revolt-report/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41260362.jpg?quality=75&strip=all&w=1200",
-      "description": "The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm \u2013 such as a hack targeting the power grid, water supply or banking syste\u2026"
+      "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqb1o4THZyeVo1aVZDUks1MXVHM25sdFhoTFZ6dGdPWXRhQUlMMmk4c01NY1Q2UGpjWU5pWUxCNkQwZEdxaExNMUNqRktNa1F6b0htTlhIZzZDVlU?oc=5",
+      "pub_date": 1791559950.0,
+      "article_url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+      "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-10T02:34:39.530580+00:00"
+  "fetched_at": "2026-10-10T15:33:23.393207+00:00"
 }
