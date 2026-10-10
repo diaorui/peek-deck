@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-09T23:25:01.373236+00:00'
+updated: '2026-10-10T02:34:40.571099+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 09, 2026 at 23:25 UTC  
+**Last Updated:** October 10, 2026 at 02:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-1d ago
+2d ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-1d ago
+2d ago
 
 ---
 
@@ -106,7 +106,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-1d ago
+2d ago
 
 ---
 
@@ -116,15 +116,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 **[Two-armed robot throws and catches balls with human-like movements](https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html)**
 
-Tech Xplore • 9h ago
-
----
-
-**[5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)**
-
-Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints…
-
-NVIDIA Developer • 1d ago
+Tech Xplore • 12h ago
 
 ---
 
@@ -136,9 +128,17 @@ Ars Technica • 1d ago
 
 ---
 
+**[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
+
+Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
+
+MIT Technology Review • 1d ago
+
+---
+
 **[Hexagon Is Putting 1,000 Humanoid Robots In Schaeffler Factories. This Is Not A Copy-Paste Process](https://www.forbes.com/sites/johnkoetsier/2026/10/09/hexagon-is-putting-1000-humanoid-robots-in-schaeffler-factories-this-is-not-a-copy-paste-process/)**
 
-Forbes • 31m ago
+Forbes • 3h ago
 
 ---
 
@@ -150,11 +150,19 @@ About Amazon • 1d ago
 
 ---
 
+**[5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)**
+
+Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints…
+
+NVIDIA Developer • 1d ago
+
+---
+
 **[Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)**
 
 For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
 
-TechCrunch • 6h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -174,12 +182,6 @@ Endpoints News • 1d ago
 
 ---
 
-**[US issues first outbound investment fine over Chinese robotics AI deal](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)**
-
-South China Morning Post • 2d ago
-
----
-
 **[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
 
 Bloomberg.com • 1d ago
@@ -190,75 +192,13 @@ Bloomberg.com • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
 
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
 
-📺 CNET
+📺 ejunky66
 
-👁️ 52K • 👍 494 • 💬 65 • ⏱️ 6:34 • 5d ago
-
----
-
-**[Man Vs 3 Robots in boxing 😂 #boxing #robotics #humanity](https://www.youtube.com/watch?v=7q997jEZOWE)**
-
-Humans last stand in boxing vs robots video from unknown source please message for credit or removal.
-
-📺 Fist To Face
-
-👁️ 92K • 👍 409 • 💬 30 • ⏱️ 0:11 • 6d ago
-
----
-
-**[Future unlocked🤖⁠#PaloAlto #SiliconValley #HumanoidRobot #UnitreeH1 #Robotics #FutureTech  #Viral](https://www.youtube.com/watch?v=B6p1r7n_qfU)**
-
-📺 Grittzyy
-
-👁️ 2K • 👍 12 • ⏱️ 0:13 • 5d ago
-
----
-
-**[This Humanoid Robot Can Kick and Punch! 🤯🤖](https://www.youtube.com/watch?v=1pP7p9qCxOU)**
-
-This viral humanoid robot demonstration shows a robot performing dynamic kicks, punches, and rapid body movements while ...
-
-📺 Nexio Core
-
-👁️ 46K • 💬 10 • ⏱️ 0:05 • 6d ago
-
----
-
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=xDYXjUH8U_0)**
-
-📺 SNeuroRobotics
-
-👁️ 14K • 👍 127 • 💬 2 • ⏱️ 0:07 • 5d ago
-
----
-
-**[They Trained a Robot to Jump Into Molten Steel](https://www.youtube.com/watch?v=q239qa5MvAA)**
-
-Figure AI was retiring its older F.02 humanoid robots. But instead of simply dismantling them, the team trained the robots for one ...
-
-📺 VoiceItUp
-
-👁️ 28K • 👍 606 • 💬 26 • ⏱️ 0:32 • 6d ago
-
----
-
-**[This hand can take a beating! Rysen robotics from IROS 2026](https://www.youtube.com/watch?v=NDfmkWHOD3Q)**
-
-📺 Kevin Wood | Robotics & AI
-
-👁️ 16K • 👍 36 • 💬 5 • ⏱️ 0:11 • 6d ago
-
----
-
-**[Sharpa Robot Hand Spinning Pen at IROS 2026](https://www.youtube.com/watch?v=gy9XLSxuqbQ)**
-
-📺 Kevin Wood | Robotics & AI
-
-👁️ 10K • 👍 115 • 💬 2 • ⏱️ 0:08 • 6d ago
+👁️ 93K • 👍 2K • 💬 97 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -272,11 +212,81 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Figu
 
 ---
 
-**[Unitree Vs EngineAI Robot Fight](https://www.youtube.com/watch?v=x_THGilG_d8)**
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
 
-📺 Chris Wabs
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
 
-👁️ 9K • 👍 59 • 💬 4 • ⏱️ 0:06 • 6d ago
+📺 Jot Tv Media 
+
+👁️ 74K • 👍 2K • 💬 15 • ⏱️ 1:04 • 1d ago
+
+---
+
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+
+📺 CNET
+
+👁️ 52K • 👍 496 • 💬 65 • ⏱️ 6:34 • 5d ago
+
+---
+
+**[Nick Irving &amp; Rob O&#39;Neill Reveal How Robots Will Replace Soldiers](https://www.youtube.com/watch?v=SZOybx7cpOY)**
+
+usmilitary #usarmy #nickirving #veteran #specialforces.
+
+📺 TACTIXLAB
+
+👁️ 72K • 👍 2K • 💬 75 • ⏱️ 0:54 • 3d ago
+
+---
+
+**[The End of Human-Piloted Surveillance #robotics #tech #shorts](https://www.youtube.com/watch?v=OGi-nFXqO18)**
+
+See how autonomous flying robots reach speeds of 100 mph to handle complex security monitoring without a pilot. These ...
+
+📺 SciVion
+
+👁️ 3K • ⏱️ 0:26 • 8h ago
+
+---
+
+**[the first career ending injury in robotic athletics    #robotics](https://www.youtube.com/watch?v=F_KzKVWFKMI)**
+
+Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Videos ...
+
+📺 StingKnight
+
+👁️ 36K • 👍 266 • 💬 17 • ⏱️ 0:10 • 2d ago
+
+---
+
+**[This Robot Climbs Coconut Trees! 🤖🌴](https://www.youtube.com/watch?v=2mt0pOu-MeA)**
+
+A ROBOT IS HARVESTING COCONUTS! This coconut harvesting robot can climb a coconut tree, reach the treetop, and ...
+
+📺 Discover Agriculture
+
+👁️ 82K • 👍 1K • 💬 18 • ⏱️ 0:35 • 1d ago
+
+---
+
+**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
+
+📺 Ben Esherick
+
+👁️ 2.0M • 👍 112K • 💬 2K • ⏱️ 0:34 • 4d ago
+
+---
+
+**[They dropped a Robot in Lava 🤯](https://www.youtube.com/watch?v=cNA-dtDs-Ck)**
+
+Mizkif reacts to Figure retiring its Figure 02 robots in molten steel in a Terminator 2–style send-off with Arnold Schwarzenegger, ...
+
+📺 Mizkif
+
+👁️ 21K • 👍 407 • 💬 44 • ⏱️ 0:32 • 6d ago
 
 ---
 

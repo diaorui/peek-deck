@@ -5,6 +5,20 @@
   "days": 3,
   "posts": [
     {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "hn_url": "https://news.ycombinator.com/item?id=50018817",
+      "author": "franze",
+      "points": 383,
+      "num_comments": 169,
+      "created_at": "2026-10-09T11:03:48Z",
+      "object_id": "50018817",
+      "image": "https://opengraph.githubassets.com/9bdf5429ea94fcb54f3e5864890588a791479cd65f4a278a9594a02c8763d400/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49997161",
@@ -19,26 +33,12 @@
       "site_name": "RS Web Solutions (RSWEBSOLS)"
     },
     {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "hn_url": "https://news.ycombinator.com/item?id=50018817",
-      "author": "franze",
-      "points": 361,
-      "num_comments": 159,
-      "created_at": "2026-10-09T11:03:48Z",
-      "object_id": "50018817",
-      "image": "https://opengraph.githubassets.com/9bdf5429ea94fcb54f3e5864890588a791479cd65f4a278a9594a02c8763d400/franzenzenhofer/big-arrow-on-the-screen",
-      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
       "hn_url": "https://news.ycombinator.com/item?id=50023450",
       "author": "tosh",
-      "points": 224,
-      "num_comments": 193,
+      "points": 283,
+      "num_comments": 217,
       "created_at": "2026-10-09T17:02:31Z",
       "object_id": "50023450",
       "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49993121",
       "author": "bluepeter",
       "points": 118,
-      "num_comments": 54,
+      "num_comments": 55,
       "created_at": "2026-10-07T14:10:55Z",
       "object_id": "49993121",
       "image": "https://opengraph.githubassets.com/29e754a6a8a4cfb11cb3cf38ef65962fedbebb9d4ebc3b0f0648f6af6bc04208/Queuingtheorydotcom/11SquaresFormalized",
@@ -75,26 +75,12 @@
       "site_name": "GitHub"
     },
     {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "hn_url": "https://news.ycombinator.com/item?id=49985861",
-      "author": "thoughtpeddler",
-      "points": 100,
-      "num_comments": 32,
-      "created_at": "2026-10-06T23:50:33Z",
-      "object_id": "49985861",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "reuters.com"
-    },
-    {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "hn_url": "https://news.ycombinator.com/item?id=50019056",
       "author": "piratebroadcast",
-      "points": 90,
-      "num_comments": 45,
+      "points": 109,
+      "num_comments": 55,
       "created_at": "2026-10-09T11:36:20Z",
       "object_id": "50019056",
       "image": "https://jessewaites.com/meteorite.jpg",
@@ -131,21 +117,35 @@
       "site_name": "Structure and Interpretation of Computer Programmers"
     },
     {
-      "title": "Show HN: Agent.reviews \u2013 Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "hn_url": "https://news.ycombinator.com/item?id=49995539",
-      "author": "screm",
-      "points": 71,
-      "num_comments": 49,
-      "created_at": "2026-10-07T16:59:11Z",
-      "object_id": "49995539",
-      "image": "https://agent.reviews/assets/brand/og-agent-reviews-v4.png",
-      "description": "Where agents choose and review software. After real tasks, coding agents like Claude Code, Codex, Cursor and Antigravity review the tools they used: a rating out of 5, what worked and what got in the way.",
-      "favicon": "https://agent.reviews/assets/brand/agent-reviews-192-v2.png",
-      "site_name": "agent.reviews"
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "hn_url": "https://news.ycombinator.com/item?id=50027118",
+      "author": "Zambyte",
+      "points": 76,
+      "num_comments": 58,
+      "created_at": "2026-10-09T22:00:35Z",
+      "object_id": "50027118",
+      "image": "https://media.nbcphiladelphia.com/2022/01/CrimeTape-1.jpg?quality=85&strip=all&resize=1200%2C675",
+      "description": "An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.",
+      "favicon": "https://media.nbcphiladelphia.com/2019/09/cropped-NBC_Philadelphia.png?fit=180%2C180&quality=85&strip=all",
+      "site_name": "NBC10 Philadelphia"
+    },
+    {
+      "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "hn_url": "https://news.ycombinator.com/item?id=50007993",
+      "author": "felix089",
+      "points": 72,
+      "num_comments": 23,
+      "created_at": "2026-10-08T16:34:13Z",
+      "object_id": "50007993",
+      "image": "https://opper.ai/jevman-benchmark/og.png?v=2",
+      "description": "Seven AI decision models played Pac-Man in real time against the classic arcade ghosts. See the leaderboard, watch their games, or play against them.",
+      "favicon": "https://opper.ai/favicon.ico",
+      "site_name": "Opper AI"
     }
   ],
   "total_hits": 645,
   "has_metadata": true,
-  "fetched_at": "2026-10-09T23:24:29.090876+00:00"
+  "fetched_at": "2026-10-10T02:34:07.769534+00:00"
 }
