@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Two-armed robot throws and catches balls with human-like movements",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56ZmV5OVNiRHlPdDdGTUU0OHFrZkhlSTktOXhTYkNpRFJNMEJDX0Z0eVhJb0lQNHRpUTFiYV9aeHg5WjZOdmttTlNYcFdBcjVKdDlJanBQU3ZObjhrSDdmZUdGTVpPUEk5WnBjTzl4VUhIbkt1QTZvaFFzZUduUG8?oc=5",
-      "pub_date": 1791553204.0,
-      "article_url": "https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html",
-      "image": null,
-      "description": null
+      "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZml3eHVNU252OUdQVFlJTVdVX0UxY0F3NzBpQTU5NWJza0Y3UFdHWnhPSXI0cEJaWmdQdlRCeW40UWYxRWx3aThFdk51Rk82U0VFZzN1Tkg2Uk8yUWQtMU1zYUlGQm5kQU9PSTI1NEJ6WUJTclNyVVlnczl1VjJpaFlDU3Q5ZGozR2dqTkYyS1RYMXJRcERXZDVDbERCWm14TFpySzJ6YzZpeXNtTU45ZEpWdnBoNFBn0gG-AUFVX3lxTE5DTDNXQWotYUtHN0Y0NXJEQTNiMWkwOXBHLUM1YkJhV3dSWHpkLW03X2hzOURVWTlsUnhKYVJtdWtJRU5xck4xQTFpOGNsZlBlWU02UXo1UVItNU5ZZ0pMQ3lPbkkwY0VfajdWRlZ3bEczaERzTnltWE9VM2xTX0pEX1ZCXzVNWWpoQU9ld3lXMDd5cFQtbUV3UDhhWXRHdDA3TWVQMVpueXRzYTdGdUQzOEhpbjZZYjY5QmI3MlE?oc=5",
+      "pub_date": 1791450000.0,
+      "article_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+      "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
     },
     {
       "headline": "UK robotics hubs to drive adoption of new tech",
@@ -45,36 +45,6 @@
       "description": "Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work."
     },
     {
-      "headline": "Nvidia\u2019s big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8?oc=5",
-      "pub_date": 1791458133.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-      "description": "Full-stack safety solution for physical AI is being used by robotics companies."
-    },
-    {
-      "headline": "Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10blh0c1laYkhucFdhckpyVG9QS0k0RWoxRzRWSHVWbGlnOGZQeGxIdFVjMXRScWRLa0FrdFduTTBpNkdVeFhPV2dpSGVZNVZGZGkxNDc3TlNXZlN2TUl4TDMxWlBNdw?oc=5",
-      "pub_date": 1791560027.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68398684&width=1200&height=600&coordinates=0%2C52%2C0%2C53",
-      "description": "Your weekly selection of awesome robot videos"
-    },
-    {
-      "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
-      "source": "MIT Technology Review",
-      "source_url": "https://www.technologyreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZml3eHVNU252OUdQVFlJTVdVX0UxY0F3NzBpQTU5NWJza0Y3UFdHWnhPSXI0cEJaWmdQdlRCeW40UWYxRWx3aThFdk51Rk82U0VFZzN1Tkg2Uk8yUWQtMU1zYUlGQm5kQU9PSTI1NEJ6WUJTclNyVVlnczl1VjJpaFlDU3Q5ZGozR2dqTkYyS1RYMXJRcERXZDVDbERCWm14TFpySzJ6YzZpeXNtTU45ZEpWdnBoNFBn0gG-AUFVX3lxTE5DTDNXQWotYUtHN0Y0NXJEQTNiMWkwOXBHLUM1YkJhV3dSWHpkLW03X2hzOURVWTlsUnhKYVJtdWtJRU5xck4xQTFpOGNsZlBlWU02UXo1UVItNU5ZZ0pMQ3lPbkkwY0VfajdWRlZ3bEczaERzTnltWE9VM2xTX0pEX1ZCXzVNWWpoQU9ld3lXMDd5cFQtbUV3UDhhWXRHdDA3TWVQMVpueXRzYTdGdUQzOEhpbjZZYjY5QmI3MlE?oc=5",
-      "pub_date": 1791450000.0,
-      "article_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
-      "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
-    },
-    {
       "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -103,8 +73,38 @@
       "article_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
       "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+    },
+    {
+      "headline": "Ex-OpenAI robotics lead\u2019s factory startup in insolvency proceedings",
+      "source": "Sifted",
+      "source_url": "https://sifted.eu",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXpKVDFRMFFXeWlQWHhQbldUOEJOVkoxNFZyXzdJLUF6c2pZTm5GaWhPM1gyX3ppaFpNLXh5VjRBSHVWRFpVQWxJd1g4aUw0QlJuNW1rbzBhV2hBSDl3RDZDMGpIdUF4ZF84bHBEVm54Nm9kUk9FZGNaVHNoUTJud0cyOTBBbDZjdWo0cnBYQmtfQjBwbGotZQ?oc=5",
+      "pub_date": 1791536094.0,
+      "article_url": "https://sifted.eu/articles/ex-openai-robotics-leads-factory-startup-in-insolvency-proceedings",
+      "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2024/08/07132504/Portrait-Jonas-Schneider-Founder-CEO-scaled.jpg",
+      "description": "German automated manufacturing startup Daedalus was founded in 2024 by former OpenAI technical lead Jonas Schneider."
+    },
+    {
+      "headline": "21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown",
+      "source": "WSET",
+      "source_url": "https://wset.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZlJELTBFYnhqbVJKNWxMOFQ3YVpSMUtBblVqaWFXUXZrdTRnbVZ0MW5UQUxfV0liSU0zVERMSUZIVXFnalFncHVVd0t1UkpWVjM2Q1lPQTc4Tzh2MXV5bms0bHloV3oxWnNHRU9ZQ0FEUk9aRWZjdFU1OU5QdEI4Z3RDZE12anFhRktyTXBSRFdBaHIzekRCLUZ3RURKcXh3OUtaZkxWOXZ0UlJ5a21CVmFfVC1FQXBDM2o4UHV6QUp0UnRWVk9JbG1oWHluZUN2RlhFLURKMXc2c3U1Z04yY1pOYlh0X1hISjh5TWhSMA?oc=5",
+      "pub_date": 1791649354.0,
+      "article_url": "https://wset.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026",
+      "image": "https://wset.com/resources/media2/16x9/6000/1320/0x313/90/5d862ac6-f7f6-4190-9e8d-c9c8aba9572d-DSC03229.JPG",
+      "description": "Twenty-one FIRST Robotics Competition teams gathered at Magna Vista High School for the inaugural Southern Virginia Showdown."
+    },
+    {
+      "headline": "How AWS is helping companies build physical AI machines that think",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV09ac2QtTXFvV2dpMHNFZGJOM2xNd2RQUEVtZDYzX0dsM25GRG40V1U3TmFNR0ExUTlHaERpMlBtb1JaREtKYlZBVEcyMkNKX2FxNmdRcVEzTVZFNUpBSm9oNlVCelpGVDNmb080WDNVZkNqVDA2YzJCTF9kNWtPWGUycEE1QWxYNlJmLVpwNEtaSFU?oc=5",
+      "pub_date": 1791465166.0,
+      "article_url": "https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines",
+      "image": "https://assets.aboutamazon.com/dims4/default/64133eb/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F2b%2Fe8%2F55307dea410f85c7408920cf8b85%2Fabout-amazon-hero-ai-toolchain-hero-amazon-news-lt-092926.jpg",
+      "description": "Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-10T15:33:25.909035+00:00"
+  "fetched_at": "2026-10-10T19:50:20.368163+00:00"
 }

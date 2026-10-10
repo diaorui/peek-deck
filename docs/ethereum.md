@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-10T15:33:27.529772+00:00'
+updated: '2026-10-10T19:50:36.274895+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 10, 2026 at 15:33 UTC  
+**Last Updated:** October 10, 2026 at 19:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -7.9%  
-**30d:** -0.2%  
-**90d:** +41.3%  
-**1y:** -33.2%  
+**24h:** +1.3%  
+**7d:** -7.7%  
+**30d:** -0.0%  
+**90d:** +41.6%  
+**1y:** -33.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.06B
+**Market Cap:** $307.09B
 Rank #2
 
 **Circulating Supply:** 122,121,844 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.3%
+-49.2%
 
 **All-Time Low:** $0.43
-+578738.7%
++580648.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-4h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 I've been looking into different ways people spend crypto, and a lot of the options still involve moving funds onto a card or exchange first. Would you rather use a crypto card or pay straight from your own wallet? Interested in hearing what people are using.
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +128,7 @@ gm! in the last 2 years vaults TVL has 10X'd. But when you allocate to multiple 
 
 https://preview.redd.it/fx86i7ku13uh1.png?width=955&format=png&auto=webp&s=a2335ab5d6034d361585d8c5765e93a66c750762 Seems there's not much more that the average person can do besides generating a new account through self-custody & storing funds there, to an address that never signs, but only receives. Safety isn't guaranteed by storing a large sum of funds on a centralized exchange for instance, as we don't know what they're doing with the wallets holding our funds behind the scenes. Is there anything else we can do now to best protect our coins? Any insight to crypto post-quantum? My understanding is Ethereum is far ahead of the rest of the space on this -- thanks!
 
-2d ago
+3d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The Glamsterdam upgrade has now been activated on Ethereum’s Sepolia testnet!](https://www.reddit.com/r/ethereum/comments/1wz65fi/the_glamsterdam_upgrade_has_now_been_activated_on/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -152,23 +152,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
 
-Barron's • 2d ago
+Barron's • 3d ago
 
 ---
 
-**[The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?](https://247wallst.com/investing/cryptocurrency/2026/10/09/the-xrp-ledger-surpasses-ethereum-in-a-key-area-what-does-this-mean-for-the-xrp-price/)**
+**[Keep calm and enter 'bunker mode,' crypto bros say](https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10)**
 
-The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?
+Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results.
 
-24/7 Wall St. • 1d ago
+Business Insider • 2d ago
 
 ---
 
-**[Tom Lee’s Ethereum Year-End Call Is Now Half Of What He Called ‘Conservative’ Last Month, But He Expects ‘Monster Moves’ In The Crypto Industry](https://finance.yahoo.com/markets/crypto/articles/tom-lee-ethereum-end-call-121659621.html)**
+**[Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode](https://finance.yahoo.com/markets/crypto/articles/quantum-computers-break-bitcoin-ethereum-172702687.html)**
 
-Tom Lee tied the nearer call to BTC, saying ETH should reach about $7,500 if Bitcoin hits $100,000.
+An Ethereum Foundation researcher just urged big holders to prepare for bunker mode, and the threat triggering his warning has nothing to do with quantum computers. The real danger could arrive in months, and about a third of all Bitcoin supply sits fully exposed.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,19 +180,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Keep calm and enter 'bunker mode,' crypto bros say](https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10)**
+**[Tom Lee’s BitMine Owns 4.9% of All Ethereum. What Happens When It Hits 5%?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-owns-4-220030329.html)**
 
-Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results.
+Tom Lee's BitMine is weeks away from controlling 5% of all Ethereum in circulation, and what the company does after crossing that threshold could reshape demand for the entire network.
 
-Business Insider • 1d ago
-
----
-
-**[Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode](https://finance.yahoo.com/markets/crypto/articles/quantum-computers-break-bitcoin-ethereum-172702687.html)**
-
-An Ethereum Foundation researcher just urged big holders to prepare for bunker mode, and the threat triggering his warning has nothing to do with quantum computers. The real danger could arrive in months, and about a third of all Bitcoin supply sits fully exposed.
-
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -204,6 +196,14 @@ Benzinga • 1d ago
 
 ---
 
+**[The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?](https://247wallst.com/investing/cryptocurrency/2026/10/09/the-xrp-ledger-surpasses-ethereum-in-a-key-area-what-does-this-mean-for-the-xrp-price/)**
+
+The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?
+
+24/7 Wall St. • 1d ago
+
+---
+
 **[Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade](https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade)**
 
 The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance.
@@ -212,19 +212,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1](https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1)**
+**[Ethereum’s $177M long squeeze sparks concerns – Can ETH hold above $2.1K?](https://ambcrypto.com/ethereums-177m-long-squeeze-sparks-concerns-can-eth-hold-above-2-1k/)**
 
-Starknet is "actively considering" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.
+Ethereum longs are rising sharply, but is a hidden catalyst driving bullish positioning?
 
-Decrypt News • 22h ago
+AMBCrypto • 5h ago
 
 ---
 
-**[Current price of Ethereum for October 9, 2026](https://fortune.com/article/price-of-ethereum-10-09-2026/)**
+**[Tom Lee’s Ethereum Year-End Call Is Now Half Of What He Called ‘Conservative’ Last Month, But He Expects ‘Monster Moves’ In The Crypto Industry](https://www.tradingview.com/news/stocktwits:143da9867094b:0-tom-lee-s-ethereum-year-end-call-is-now-half-of-what-he-called-conservative-last-month-but-he-expects-monster-moves-in-the-crypto-industry/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum (ETH) held above $2,400 on Saturday after BitMine Immersion Technologies (BMNR) chairman Tom Lee said the token should top $5,000 by year-end, half the level he called a “conservative target” more than a week ago.Speaking at Token 2049 in Singapore on Friday, Lee, who is also co-founder an…
 
-Fortune • 23h ago
+TradingView • 7h ago
 
 ---
 
@@ -238,17 +238,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 829 • 👍 42 • 💬 87 • ⏱️ 16:18 • 2h ago
-
----
-
-**[Ethereum Warning (Altcoins Will Die)](https://www.youtube.com/watch?v=o2NF_RtjLwk)**
-
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 223 • 💬 36 • ⏱️ 8:11 • 1d ago
+👁️ 3K • 👍 70 • 💬 87 • ⏱️ 16:18 • 6h ago
 
 ---
 
@@ -258,7 +248,17 @@ This video is sponsored by FortisX. Learn more: https://fortisx.fi/x/danalovephd
 
 📺 Dana Love, PhD
 
-👁️ 27K • 👍 668 • 💬 69 • ⏱️ 21:49 • 1d ago
+👁️ 28K • 👍 692 • 💬 69 • ⏱️ 21:49 • 1d ago
+
+---
+
+**[Ethereum Warning (Altcoins Will Die)](https://www.youtube.com/watch?v=o2NF_RtjLwk)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 10K • 👍 224 • 💬 36 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively un
 
 📺 Higher Highs Crypto
 
-👁️ 2K • 👍 10 • 💬 3 • ⏱️ 8:01 • 23h ago
+👁️ 3K • 👍 12 • 💬 6 • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Its absolutely no secret that the richest people on the planet are accumulating 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 26K • 👍 2K • 💬 255 • ⏱️ 18:16 • 1d ago
+👁️ 26K • 👍 2K • 💬 256 • ⏱️ 18:16 • 1d ago
 
 ---
 
@@ -288,17 +288,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 198 • 💬 83 • ⏱️ 8:59 • 20h ago
-
----
-
-**[Ethereum Just Hit a Major Support: Is the Bottom In?](https://www.youtube.com/watch?v=bsFnc391d7k)**
-
-Ethereum Elliott Wave analysis for 10 October 2026: Ethereum pulled back into the $2400 to $2450 support cluster, where the ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 157 • 💬 8 • ⏱️ 9:35 • 15h ago
+👁️ 9K • 👍 214 • 💬 84 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -308,17 +298,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 362 • 💬 22 • ⏱️ 19:57 • 1d ago
+👁️ 20K • 👍 369 • 💬 22 • ⏱️ 19:57 • 2d ago
 
 ---
 
-**[Bitcoin To $75K Next? | ETH $16K? | Robinhood Tokens](https://www.youtube.com/watch?v=_OKpZKijUp8)**
+**[Ethereum Just Hit a Major Support: Is the Bottom In?](https://www.youtube.com/watch?v=bsFnc391d7k)**
 
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v48 ______ ...
+Ethereum Elliott Wave analysis for 10 October 2026: Ethereum pulled back into the $2400 to $2450 support cluster, where the ...
 
-📺 Crypto Archie
+📺 More Crypto Online
 
-👁️ 3K • 👍 86 • 💬 6 • ⏱️ 9:22 • 2d ago
+👁️ 8K • 👍 170 • 💬 9 • ⏱️ 9:35 • 19h ago
 
 ---
 
@@ -328,7 +318,17 @@ Toobit x FeeDrip - 67% of your trading fees back FOR LIFE!
 
 📺 Marzell Crypto
 
-👁️ 925 • 👍 14 • 💬 2 • ⏱️ 3:07 • 1d ago
+👁️ 1K • 👍 14 • 💬 2 • ⏱️ 3:07 • 1d ago
+
+---
+
+**[🔥 Ethereum Upgrade Is Close - ETH Crypto Analysis](https://www.youtube.com/watch?v=K3AVBoCrDK8)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/ON28dbx4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 6K • 👍 118 • 💬 14 • ⏱️ 10:14 • 2d ago
 
 ---
 
