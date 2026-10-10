@@ -15,14 +15,14 @@
       "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
     },
     {
-      "headline": "UK robotics hubs to drive adoption of new tech",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZldzTWk4YVItQVpvVDFFZ3o0YVJTYUtFbEJGQXVPUE1jYlhUdWsweE9OTkR6VXdRbjN5LTNOZzJGVnNlaHYyRjVKanNDS1RLSkdyOHJ2ZGVtV1U?oc=5",
-      "pub_date": 1791522217.0,
-      "article_url": "https://www.bbc.com/news/articles/c6wyvdn7djnpo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e13d/live/bbf4bcd0-c329-11f1-9981-cf94ea240e40.jpg",
-      "description": "The government says the hubs will support businesses and public services across the country."
+      "headline": "Ultra raises $62 million for fast-growing \u2018robots as a service\u2019 business, announces tie-up with AI research firm Physical Intelligence",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5",
+      "pub_date": 1791541980.0,
+      "article_url": "https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/founders_retouched_023_v3_1024_1bfc74.png?resize=1200,600",
+      "description": "The raise consisted of a Series A seed round led by Framework Ventures plus an earlier seed round."
     },
     {
       "headline": "This Robot Will Deliver Your Food, if It Doesn\u2019t Get Smashed First",
@@ -31,6 +31,16 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HblJLVmJVZGVOdm5Dc0JrMmRqRnhCQ3I1ZjJGb1I3ZGU0WnV4U2lLM1JOa1NhX2pjZFN2b19kUXExS0NpcU1RS3ZMQ28yb1lTV2N6MVNVMUFXTE5LbE1xa3VienFZVlVjYURFaFVaUko0b3lrNkE?oc=5",
       "pub_date": 1791622807.0,
       "article_url": "https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Gecko Robotics partners with Anduril to aid submarine manufacturing",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjdnb2plS3p1NENmblhhVEN3anhrajR3R1NncktqQ0stblRNczZ1SlZ2N0VQemgwYXItUElGNjhIQWRQSDNsOHZWdDJmYjE1d3cwaVZTRG93UUZ4LXplTU1NU2JMZVRudEh1dUpfMnZMdGVUbGZ1dHZjdFI1YnlDMFBfRFNPVENfX24xbzNB?oc=5",
+      "pub_date": 1791567420.0,
+      "article_url": "https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html",
       "image": null,
       "description": null
     },
@@ -45,22 +55,32 @@
       "description": "Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work."
     },
     {
-      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
-      "pub_date": 1791500415.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Inside the \u2018robot gyms\u2019 training machines for the real world",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU1pd1pSTGtQdHFiMzlxazZJaFVYVFhwTU5IU0tnMzJTeEVlZFhlUXotbmtNN0RSUnp4VHRfX1czbTJmQXAzcFFQeW1FOW5sWTFhSVBVb0Qyc1IxdmFYMXp6Mmo5cF9rbWNyX2dEMzlzR1YyY1RVU29SU2lTcGVWZTFRams?oc=5",
       "pub_date": 1791604807.0,
       "article_url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "ICE buys robotic dogs from Connecticut company for patrols",
+      "source": "CT Insider",
+      "source_url": "https://www.ctinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUxJNjhUUTNMa2NUdGFPamJhY3VvbDlueXUzNHJuWmZQSS1RV0gyMW9QX3JSdk1vWDE5VjBwOENsX1NCd0dTWTk4VmlDZ09EaFpXMUJMa29PMlNYWGtmTy1EVG9tbVlrT004Ni00R0MwRFdvNWZGdWlCZzdXZVFNUW5VMGViN2k2N0ZsTk9DX1BZdllXYml4UUdpRFZ6bkhjMVZPb3BB?oc=5",
+      "pub_date": 1791623976.0,
+      "article_url": "https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
+      "pub_date": 1791500415.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
       "image": null,
       "description": null
     },
@@ -75,26 +95,6 @@
       "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
     },
     {
-      "headline": "Ex-OpenAI robotics lead\u2019s factory startup in insolvency proceedings",
-      "source": "Sifted",
-      "source_url": "https://sifted.eu",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXpKVDFRMFFXeWlQWHhQbldUOEJOVkoxNFZyXzdJLUF6c2pZTm5GaWhPM1gyX3ppaFpNLXh5VjRBSHVWRFpVQWxJd1g4aUw0QlJuNW1rbzBhV2hBSDl3RDZDMGpIdUF4ZF84bHBEVm54Nm9kUk9FZGNaVHNoUTJud0cyOTBBbDZjdWo0cnBYQmtfQjBwbGotZQ?oc=5",
-      "pub_date": 1791536094.0,
-      "article_url": "https://sifted.eu/articles/ex-openai-robotics-leads-factory-startup-in-insolvency-proceedings",
-      "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2024/08/07132504/Portrait-Jonas-Schneider-Founder-CEO-scaled.jpg",
-      "description": "German automated manufacturing startup Daedalus was founded in 2024 by former OpenAI technical lead Jonas Schneider."
-    },
-    {
-      "headline": "21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown",
-      "source": "WSET",
-      "source_url": "https://wset.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZlJELTBFYnhqbVJKNWxMOFQ3YVpSMUtBblVqaWFXUXZrdTRnbVZ0MW5UQUxfV0liSU0zVERMSUZIVXFnalFncHVVd0t1UkpWVjM2Q1lPQTc4Tzh2MXV5bms0bHloV3oxWnNHRU9ZQ0FEUk9aRWZjdFU1OU5QdEI4Z3RDZE12anFhRktyTXBSRFdBaHIzekRCLUZ3RURKcXh3OUtaZkxWOXZ0UlJ5a21CVmFfVC1FQXBDM2o4UHV6QUp0UnRWVk9JbG1oWHluZUN2RlhFLURKMXc2c3U1Z04yY1pOYlh0X1hISjh5TWhSMA?oc=5",
-      "pub_date": 1791649354.0,
-      "article_url": "https://wset.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026",
-      "image": "https://wset.com/resources/media2/16x9/6000/1320/0x313/90/5d862ac6-f7f6-4190-9e8d-c9c8aba9572d-DSC03229.JPG",
-      "description": "Twenty-one FIRST Robotics Competition teams gathered at Magna Vista High School for the inaugural Southern Virginia Showdown."
-    },
-    {
       "headline": "How AWS is helping companies build physical AI machines that think",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-10T19:50:20.368163+00:00"
+  "fetched_at": "2026-10-10T23:17:59.920831+00:00"
 }
