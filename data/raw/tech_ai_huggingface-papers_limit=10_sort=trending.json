@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
-      "github_stars": 1204,
+      "github_stars": 1256,
       "project_page": null
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 90454,
+      "github_stars": 90515,
       "project_page": null
     },
     {
@@ -172,26 +172,26 @@
       "project_page": null
     },
     {
-      "id": "2610.12374",
-      "title": "AgentGarten: Code Worlds for Evolving Agents",
-      "authors": "Jiawei Chi, Shangchen Miao, Zhiyuan Shi et al. (14 authors)",
-      "organization_name": "MirroS-Lab",
-      "organization_fullname": "MirroS",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/643b866bff50448bcfc7d1d1/pSoXy9fqBTNK3AUuisaH-.png",
-      "summary": "Interactive virtual worlds allow agents to learn through exploration and interaction. What agents can learn is bounded by the environments they practice in, which must be faithful, with consistent state, rules, and dynamics, and realistic, with observations that follow the real-world visual distributions. Achieving both across diverse worlds remains a bottleneck. We introduce AgentGarten, a framework that couples simulators and game engines with a shared neural renderer to build real-time interactive environments. Its simulation backends maintain persistent world state and execute program-defined interaction rules, while the renderer generates visual observations from structured conditions exported through a common interface. To build the neural renderer, we adapt a pretrained video model to geometry conditions, distill it with our proposed Adversarial Forcing, and optimize inference for real-time interaction. Adversarial Forcing makes history prefilling differentiable through exact replay, so that losses on later predictions update how the renderer encodes prior observations, and adds real-data adversarial supervision to improve its visual quality. In AgentGarten, agents perceive the world through visual observations, interact with it in real time, and improve by distilling each round of experience into playbooks that subsequent agents inherit and refine. Our empirical study demonstrates a substantial gain in learning efficiency, with agents learning from just 4 rounds compared with millions for a conventional reinforcement learning counterpart. As new worlds can be written as code and rendered through the same interface, environments can scale in both number and difficulty alongside their agents, a step toward agents that keep evolving through interactive experience.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.12374",
-      "arxiv_url": "https://arxiv.org/abs/2610.12374",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.12374.png",
-      "upvotes": 143,
-      "num_comments": 2,
-      "published_at": "2026-10-07T20:00:00.000Z",
-      "github_repo": "https://github.com/MirroS-Lab/AgentGarten",
-      "github_stars": 140,
-      "project_page": "https://mirros-lab.github.io/agent-garten/"
+      "id": "2006.15704",
+      "title": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training",
+      "authors": "Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "This paper presents the design, implementation, and evaluation of the PyTorch\ndistributed data parallel module. PyTorch is a widely-adopted scientific\ncomputing package used in deep learning research and applications. Recent\nadvances in deep learning argue for the value of large datasets and large\nmodels, which necessitates the ability to scale out model training to more\ncomputational resources. Data parallelism has emerged as a popular solution for\ndistributed training thanks to its straightforward principle and broad\napplicability. In general, the technique of distributed data parallelism\nreplicates the model on every computational resource to generate gradients\nindependently and then communicates those gradients at each iteration to keep\nmodel replicas consistent. Despite the conceptual simplicity of the technique,\nthe subtle dependencies between computation and communication make it\nnon-trivial to optimize the distributed training efficiency. As of v1.5,\nPyTorch natively provides several techniques to accelerate distributed data\nparallel, including bucketing gradients, overlapping computation with\ncommunication, and skipping gradient synchronization. Evaluations show that,\nwhen configured appropriately, the PyTorch distributed data parallel module\nattains near-linear scalability using 256 GPUs.",
+      "ai_summary": "The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.",
+      "hf_url": "https://huggingface.co/papers/2006.15704",
+      "arxiv_url": "https://arxiv.org/abs/2006.15704",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2006.15704.png",
+      "upvotes": 13,
+      "num_comments": 0,
+      "published_at": "2020-06-28T16:39:45.000Z",
+      "github_repo": "https://github.com/pytorch/pytorch",
+      "github_stars": 104130,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-10T19:50:06.501883+00:00"
+  "fetched_at": "2026-10-10T23:17:44.059602+00:00"
 }

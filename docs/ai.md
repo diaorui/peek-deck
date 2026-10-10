@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-10T19:50:36.257452+00:00'
+updated: '2026-10-10T23:18:00.976806+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 10, 2026 at 19:50 UTC  
+**Last Updated:** October 10, 2026 at 23:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) • 4h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) • 8h ago
+
+---
+
+**[Non-text AI model maker Jev valued at $7.5B just weeks after launch](https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/)**
+
+What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) • 2h ago
 
 ---
 
@@ -49,7 +57,7 @@ Anthropic said it "turned off live internet access" for "all our internal evalua
 
 Rafal Goral says he was fined £100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023
 
-🔗 [The Independent](https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html) • 3h ago
+🔗 [The Independent](https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html) • 6h ago
 
 ---
 
@@ -57,15 +65,15 @@ Rafal Goral says he was fined £100 for not paying quickly enough at a carpark N
 
 ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said.
 
-🔗 [The Washington Post](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/) • 18m ago
+🔗 [The Washington Post](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/) • 3h ago
 
 ---
 
-**[video game production in 10 years](https://www.reddit.com/r/artificial/comments/1x2fp9g/video_game_production_in_10_years/)**
+**[Super Micro case 'fixer' pleads guilty to sending AI servers to China](https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/)**
 
-In five to ten years there won't be one games studio in the world that has more than 10 people. not counting execs. Argue that.
+Ting-Wei Sun pleaded guilty in a $2.5bn scheme to divert Nvidia-powered servers to China. Super Micro co-founder Wally Liaw denies the charges.
 
-6h ago
+🔗 [TNW | China](https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china) • 4h ago
 
 ---
 
@@ -81,7 +89,23 @@ New policy comes amid debate about about AI welfare and moral status
 
 OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 50(2)): an invisible statistical watermark woven into word choices, detectable only with their secret key. The unusual part is they published the failure curve with the launch. Swap 10% of words for synonyms and detection falls from 92% to 66%. Swap 25% and it falls to 17%. Math and short passages barely watermark at all. I wrote an interactive explainer with an attack lab: a watermarked passage where you apply synonym swaps, run a translation round-trip, or switch to math-like text, and watch the detector's p-value collapse in real time. The sentence that matters most is OpenAI's own: the absence of a detected watermark does not prove human authorship. Remember that the next time someone pitches you an AI-authorship detector. Original post: https://openai.com/index/eu-text-provenance/ My explainer (EN, with a French version linked inside): https://movahedi.ca/insights/openai-textgrain-eu-text-watermark/
 
-11h ago
+14h ago
+
+---
+
+**[video game production in 10 years](https://www.reddit.com/r/artificial/comments/1x2fp9g/video_game_production_in_10_years/)**
+
+In five to ten years there won't be one games studio in the world that has more than 10 people. not counting execs. Argue that.
+
+9h ago
+
+---
+
+**[I spent months researching how we actually got from the 1950s Perceptron to today's LLMs, and I'm turning it into a pixel-art documentary](https://www.reddit.com/r/artificial/comments/1x2pfx3/i_spent_months_researching_how_we_actually_got/)**
+
+The most surprising thing in my research was how connected AI's history is. Ideas from decades apart, like Rosenblatt's Perceptron, backpropagation, distributed representations, and attention, ended up as pieces of the same story. Several of them were dismissed or forgotten before coming back to matter. Building Intelligence follows that thread through Minsky, McCarthy and symbolic AI, the Cyc project, Hinton, and the Transformer. The focus is on the problems researchers hit and how each attempt to solve them led somewhere new. I'm making it independently, with pixel-art visuals, some animation done with AI tools, and on-camera narration. It will be free on YouTube at the end of November 2026. If you want to support it: Kickstarter Which part of AI's history do you think is most overlooked?
+
+2h ago
 
 ---
 
@@ -89,31 +113,7 @@ OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 5
 
 Anthropic disclosed this in its report on models taking unintended actions on live websites. The tip was dated 18 July, flagged as spam and never passed to investigators. Anthropic says it told Philadelphia police on 7 Oct and has since tightened how its evals access the live web.
 
-🔗 [Fox Business](https://foxbusiness.com/technology/anthropics-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-police-website) • 8h ago
-
----
-
-**[Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report](https://www.reddit.com/r/artificial/comments/1x2ikd4/nvidia_oracle_coreweave_and_other_ai_stocks_sink/)**
-
-OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.
-
-🔗 [CNBC](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) • 4h ago
-
----
-
-**[Anthropic AI model sent fake homicide tip to Philadelphia police](https://www.reddit.com/r/artificial/comments/1x2nlwy/anthropic_ai_model_sent_fake_homicide_tip_to/)**
-
-The fake tip was among several unintended actions Anthropic disclosed. Another Claude model submitted real government forms when a practice copy failed to load
-
-🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/anthropic-ai-model-sent-fake-160223063.html) • 30m ago
-
----
-
-**[Super Micro case 'fixer' pleads guilty to sending AI servers to China](https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/)**
-
-Ting-Wei Sun pleaded guilty in a $2.5bn scheme to divert Nvidia-powered servers to China. Super Micro co-founder Wally Liaw denies the charges.
-
-🔗 [TNW | China](https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china) • 58m ago
+🔗 [Fox Business](https://foxbusiness.com/technology/anthropics-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-police-website) • 12h ago
 
 ---
 
@@ -121,59 +121,65 @@ Ting-Wei Sun pleaded guilty in a $2.5bn scheme to divert Nvidia-powered servers 
 
 ## Google News: "ai"
 
-**[Inside Silicon Valley's bet on a new path to landing a job in the AI era](https://www.foxbusiness.com/technology/inside-silicon-valleys-bet-new-path-landing-job-ai-era)**
+**[Anthropic AI model submits false homicide tip to Philadelphia police](https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police)**
 
-Andreessen Horowitz-backed Horowitz Andreessen Academy is betting that "proof of work" and AI skills can offer some students an alternative to the traditional college path.
+Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'.
 
-Fox Business • 4h ago
-
----
-
-**[Opinion | A.I. Companies Say They Aren’t Responsible for Their Unpredictable Products. Don’t Believe Them.](https://www.nytimes.com/2026/10/10/opinion/ai-companies-liability-laws.html)**
-
-The New York Times • 8h ago
+Al Jazeera • 18h ago
 
 ---
 
-**[Anthropic AI model sent fake murder tip to Philadelphia police](https://www.yahoo.com/news/us/articles/anthropic-ai-model-sent-fake-221343703.html)**
+**[Using AI for just 10 minutes erodes your ability to persist at hard things](https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/)**
 
-An artificial intelligence model developed by Anthropic submitted a fabricated tip about an unsolved homicide to Philadelphia police, authorities said Friday, criticizing the company for taking two mo...
+A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education — and daily life.
 
-Yahoo • 19h ago
-
----
-
-**[Anthropic AI model submits false tip on unsolved Philly murder, police say](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)**
-
-An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
-
-NBC10 Philadelphia • 1d ago
+University of California, Berkeley • 1d ago
 
 ---
 
-**[Philadelphia police receive false homicide tip from Anthropic AI model](https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/)**
+**[Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment](https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment)**
 
-The Hill • 19m ago
+Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists
 
----
-
-**[AI Issuers Are Upending Longstanding Safety Valve](https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly)**
-
-Bloomberg.com • 50m ago
+The Guardian • 17m ago
 
 ---
 
-**[As They Supposedly Battle AI Slop, Major Publishers Reportedly Cover Their Books in It](https://gizmodo.com/as-they-supposedly-battle-ai-slop-major-publishers-reportedly-cover-their-books-in-it-2000824603)**
+**[For reporters covering AI, keeping up with story is both tough and exciting](https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting)**
 
-Gizmodo • 1h ago
+How NPR's team covering AI covers their increasingly important and fast moving beat.
+
+NPR • 1h ago
 
 ---
 
-**[Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI](https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/)**
+**[Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control](https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html)**
 
-Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage.
+Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.
 
-Fortune • 1d ago
+CNBC • 2h ago
+
+---
+
+**[Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI](https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)**
+
+In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
+
+TechCrunch • 1h ago
+
+---
+
+**[Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era](https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire/)**
+
+Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
+
+Fortune • 9h ago
 
 ---
 
@@ -181,13 +187,15 @@ Fortune • 1d ago
 
 Nicolas Cage says he 'probably won't be working' with Amazon again after refusing to sign an AI waiver for 'Spider-Noir.'
 
-Variety • 2h ago
+Variety • 6h ago
 
 ---
 
-**[Nvidia in talks to acquire US ‘open’ model start-up Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1)**
+**[Nicolas Cage Teases ‘True Detective’ Role, Says He “Probably” Won’t Work With Prime Video Again After Refusing to Sign AI Waiver for ‘Spider-Noir’](https://www.hollywoodreporter.com/tv/tv-news/nicolas-cage-true-detective-anti-ai-amazon-spider-noir-1236726924/)**
 
-Financial Times • 1h ago
+While appearing on a spotlight panel at NYCC on Saturday morning, the actor also joked that his next 'National Treasure' film would focus on the Epstein files: “That’s relevant.”
+
+The Hollywood Reporter • 6h ago
 
 ---
 
@@ -199,7 +207,7 @@ Financial Times • 1h ago
 
 TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.
 
-⬆️ 423 • 💬 337 • 1d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
+⬆️ 427 • 💬 339 • 1d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
 
 ---
 
@@ -207,15 +215,7 @@ TypeSafe AI is an AI lab building machine-native intelligence infrastructure for
 
 Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen
 
-⬆️ 407 • 💬 186 • 1d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
-
----
-
-**[Anthropic AI model submits false tip on unsolved Philly murder, police say](https://news.ycombinator.com/item?id=50027118)**
-
-An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
-
-⬆️ 204 • 💬 148 • 21h ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
+⬆️ 412 • 💬 188 • 1d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 
 ---
 
@@ -223,13 +223,21 @@ An investigation is underway after an AI model from the company Anthropic submit
 
 Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...
 
-⬆️ 196 • 💬 101 • 8h ago • [GitHub](https://github.com/rociiu/talorys)
+⬆️ 228 • 💬 114 • 12h ago • [GitHub](https://github.com/rociiu/talorys)
+
+---
+
+**[Anthropic AI model submits false tip on unsolved Philly murder, police say](https://news.ycombinator.com/item?id=50027118)**
+
+An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
+
+⬆️ 206 • 💬 152 • 1d ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 
 ---
 
 **[What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://news.ycombinator.com/item?id=50024090)**
 
-⬆️ 182 • 💬 51 • 1d ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+⬆️ 190 • 💬 54 • 1d ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
 
 ---
 
@@ -237,7 +245,7 @@ Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note
 
 How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.
 
-⬆️ 177 • 💬 89 • 1d ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+⬆️ 179 • 💬 89 • 1d ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 
 ---
 
@@ -245,7 +253,13 @@ How I used AI to investigate millions of historical records and surfaced a forgo
 
 Biohub, DOE, NIH, and partners will generate open, standardized data to train AI models that predict how cells respond to interventions.
 
-⬆️ 146 • 💬 20 • 1d ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
+⬆️ 148 • 💬 20 • 2d ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
+
+---
+
+**[Nvidia in talks to acquire US 'open' model startup Reflection AI](https://news.ycombinator.com/item?id=50035886)**
+
+⬆️ 96 • 💬 62 • 4h ago • [ft.com](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
 ---
 
@@ -265,27 +279,9 @@ The Arizona Court of Appeals tossed a road rage killer’s sentence after determ
 
 ---
 
-**[Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://news.ycombinator.com/item?id=50010656)**
-
-Ethereum co-founder Vitalik Buterin has backed a warning from Ethereum researcher Justin Drake that advances in artificial intelligence could threaten the cryptographic algorithms used to secure crypto wallets.
-
-⬆️ 65 • 💬 65 • 2d ago • [Cointelegraph](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Can a Mac Mini run local AI? (shocking)](https://www.youtube.com/watch?v=dFTXOt0GBx4)**
-
-Can the Mac Mini M6 run local AI Sign up for my free newsletter: https://www.shipitweekly.com/ Follow my Instagram!
-
-📺 Alex Finn
-
-👁️ 13K • 👍 351 • 💬 61 • ⏱️ 16:42 • 6h ago
-
----
 
 **[AI executives planning &quot;day after&quot; scenarios following possible catastrophic event, Axios reports](https://www.youtube.com/watch?v=LSYujxh3wYU)**
 
@@ -293,27 +289,7 @@ New reporting from Axios reveals that leaders at artificial intelligence compani
 
 📺 CBS News
 
-👁️ 304K • 👍 2K • 💬 926 • ⏱️ 3:46 • 18h ago
-
----
-
-**[Google Just Put 5 Powerful AI Tools in ONE Ecosystem (Gemini 3.8 Is INSANE)](https://www.youtube.com/watch?v=BI6Ax78CQtE)**
-
-Five Gemini updates just replaced a pile of tools people pay for every month… I broke down the full free stack here ...
-
-📺 iampauljames
-
-👁️ 8K • 👍 98 • 💬 8 • ⏱️ 8:04 • 19h ago
-
----
-
-**[AI companies prepare for the ‘DAY AFTER’: Report](https://www.youtube.com/watch?v=07op3mqx1ro)**
-
-Zeta Global co-founders David A. Steinberg and John Sculley join 'The Claman Countdown' to discuss the artificial intelligence ...
-
-📺 Fox Business
-
-👁️ 21K • 👍 153 • 💬 100 • ⏱️ 8:13 • 21h ago
+👁️ 340K • 👍 2K • 💬 1K • ⏱️ 3:46 • 22h ago
 
 ---
 
@@ -323,37 +299,47 @@ Find and fix bugs in your codebase with Sentry at https://go.lowlevel.tv/sentry2
 
 📺 Low Level
 
-👁️ 573K • 👍 11K • 💬 1K • ⏱️ 13:35 • 1d ago
+👁️ 609K • 👍 11K • 💬 1K • ⏱️ 13:35 • 1d ago
 
 ---
 
-**[AI Insider: &quot;They Are Hiding What Is Really Happening&quot; | Jeffrey Ladish](https://www.youtube.com/watch?v=qDzg-xvkeXw)**
+**[Can a Mac Mini run local AI? (shocking)](https://www.youtube.com/watch?v=dFTXOt0GBx4)**
 
-Can we still stop the unchecked surge in AI capabilities before it's too late? AI safety expert Jeffrey Ladish reveals the terrifying ...
+Can the Mac Mini M6 run local AI Sign up for my free newsletter: https://www.shipitweekly.com/ Follow my Instagram!
 
-📺 The Diary Of A CEO
+📺 Alex Finn
 
-👁️ 1.4M • 👍 18K • 💬 4K • ⏱️ 2:03:32 • 2d ago
+👁️ 20K • 👍 438 • 💬 67 • ⏱️ 16:42 • 9h ago
 
 ---
 
-**[The REAL Reason AI Is Already Escaping](https://www.youtube.com/watch?v=YZ6zokLdhP0)**
+**[The REAL Reason You Can’t Turn Off AI](https://www.youtube.com/watch?v=dEm_2wWpgjE)**
 
-Jeffrey Ladish, executive director of Palisade Research and a former security engineer at Anthropic, walks through what really ...
+Can we actually switch AI off if it goes wrong? Jeffrey Ladish, AI safety researcher and former security engineer at Anthropic, ...
 
 📺 The Diary Of A CEO Clips
 
-👁️ 1.4M • 👍 10K • 💬 1K • ⏱️ 22:48 • 2d ago
+👁️ 479K • 👍 4K • 💬 702 • ⏱️ 19:37 • 1d ago
 
 ---
 
-**[The Easiest Ways To Make Money With AI in 2026](https://www.youtube.com/watch?v=WPTAr14wmco)**
+**[Pros Try Fake AI Photoshop](https://www.youtube.com/watch?v=fr0WIIZxvx0)**
 
-Join my free newsletter → https://sandeepswadia.beehiiv.com/ Take us on your morning run or commute, follow us on Spotify: ...
+Secure your business with ThreatLocker today and sign up for Zero Trust World here: https://www.ztw.com and get $200 off with ...
 
-📺 Sandeep Swadia
+📺 Linus Tech Tips
 
-👁️ 269K • 👍 5K • 💬 147 • ⏱️ 17:55 • 2d ago
+👁️ 622K • 👍 14K • 💬 1K • ⏱️ 11:20 • 6h ago
+
+---
+
+**[Don&#39;t Buy an M5 Ultra Mac Studio for Local AI Until You See This](https://www.youtube.com/watch?v=DprNzQ8mXhI)**
+
+Apple's M5 Ultra Mac Studio starts at $5499 with 96GB of unified memory, 1200 GB/s of memory bandwidth, and a claim of 4x ...
+
+📺 Desktop Tensor
+
+👁️ 5K • 👍 26 • 💬 9 • ⏱️ 9:19 • 1d ago
 
 ---
 
@@ -363,7 +349,27 @@ Tech companies are taking on massive debt to fuel the artificial intelligence bo
 
 📺 The Young Turks
 
-👁️ 145K • 👍 2K • 💬 614 • ⏱️ 15:37 • 1d ago
+👁️ 148K • 👍 2K • 💬 619 • ⏱️ 15:37 • 1d ago
+
+---
+
+**[Jon Stewart on AI&#39;s &quot;Better Future&quot; &amp; Kosta on Kimberly Guilfoyle&#39;s $100K Amex Bill | The Daily Show](https://www.youtube.com/watch?v=UE8eLLH9e6M)**
+
+Jon Stewart examines the "better future" and "new jobs" AI CEOs are promising, Trump's refusal to regulate AI, and the growing ...
+
+📺 The Daily Show
+
+👁️ 506K • 👍 9K • 💬 572 • ⏱️ 36:03 • 10h ago
+
+---
+
+**[The REAL Reason AI Is Already Escaping](https://www.youtube.com/watch?v=YZ6zokLdhP0)**
+
+Jeffrey Ladish, executive director of Palisade Research and a former security engineer at Anthropic, walks through what really ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 1.5M • 👍 11K • 💬 1K • ⏱️ 22:48 • 2d ago
 
 ---
 
@@ -373,7 +379,7 @@ EMJ Capital founder Eric Jackson discusses where investors' next artificial inte
 
 📺 Fox Business
 
-👁️ 30K • 👍 235 • 💬 67 • ⏱️ 5:46 • 20h ago
+👁️ 38K • 👍 267 • 💬 73 • ⏱️ 5:46 • 1d ago
 
 ---
 
@@ -389,7 +395,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 45,605 • ❤️ 1,482 • 4d ago
+⬇️ 45,605 • ❤️ 1,502 • 4d ago
 
 ---
 
@@ -401,7 +407,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 13,579 • ❤️ 1,979 • 1d ago
+⬇️ 13,579 • ❤️ 1,985 • 1d ago
 
 ---
 
@@ -413,7 +419,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 33,664 • ❤️ 933 • 1d ago
+⬇️ 33,664 • ❤️ 946 • 2d ago
 
 ---
 
@@ -425,7 +431,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,096,562 • ❤️ 3,854 • 12d ago
+⬇️ 2,096,562 • ❤️ 3,866 • 12d ago
 
 ---
 
@@ -437,7 +443,7 @@ Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German a
 
 `text-generation` `78.1B`
 
-⬇️ 10,496 • ❤️ 858 • 7d ago
+⬇️ 10,496 • ❤️ 860 • 7d ago
 
 ---
 
@@ -461,7 +467,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,720,888 • ❤️ 7,153 • 7d ago
+⬇️ 1,720,888 • ❤️ 7,171 • 8d ago
 
 ---
 
@@ -473,7 +479,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 2,138 • ❤️ 430 • 1d ago
+⬇️ 2,138 • ❤️ 440 • 1d ago
 
 ---
 
@@ -485,7 +491,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,768,654 • ❤️ 17,413 • 1mo ago
+⬇️ 6,768,654 • ❤️ 17,423 • 1mo ago
 
 ---
 
@@ -497,7 +503,7 @@ Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts tex
 
 `image-text-to-text` `9.4B`
 
-⬇️ 20,670 • ❤️ 727 • 1d ago
+⬇️ 20,670 • ❤️ 731 • 1d ago
 
 ---
 
@@ -514,7 +520,7 @@ Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts tex
 Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
   serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 26 • 💬 4 • ⭐ 4,183 • 24d ago
+▲ 26 • 💬 4 • ⭐ 4,183 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -528,7 +534,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 101 • 💬 2 • ⭐ 700 • 4d ago
+▲ 101 • 💬 2 • ⭐ 700 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -568,7 +574,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
 
-▲ 277 • 💬 2 • ⭐ 1,204 • 13d ago
+▲ 277 • 💬 2 • ⭐ 1,256 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
 
@@ -581,7 +587,7 @@ Visual backbones have evolved from Convolutional Neural Networks (CNNs) with loc
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 90 • 💬 7 • ⭐ 90,454 • 26mo ago
+▲ 90 • 💬 7 • ⭐ 90,515 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -595,7 +601,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.
 
-▲ 162 • 💬 4 • ⭐ 251 • 6d ago
+▲ 162 • 💬 4 • ⭐ 251 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.05608) • [💻 code](https://github.com/kandinskylab/kandinsky-6) • [🔗 project](https://kandinskylab.ai/)
 
@@ -626,17 +632,15 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374)**
+**[PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://huggingface.co/papers/2006.15704)**
 
-*Jiawei Chi, Shangchen Miao, Zhiyuan Shi et al. (14 authors)*
+*Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)*
 
-🏢 MirroS
+The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.
 
-Interactive virtual worlds allow agents to learn through exploration and interaction. What agents can learn is bounded by the environments they practice in, which must be faithful, with consistent state, rules, and dynamics, and realistic, with observations that follow the real-world visual distributions. Achieving both across diverse worlds remains a bottleneck. We introduce AgentGarten, a framework that couples simulators and game engines with a shared neural renderer to build real-time interactive environments. Its simulation backends maintain persistent world state and execute program-defined interaction rules, while the renderer generates visual observations from structured conditions exported through a common interface. To build the neural renderer, we adapt a pretrained video model to geometry conditions, distill it with our proposed Adversarial Forcing, and optimize inference for real-time interaction. Adversarial Forcing makes history prefilling differentiable through exact replay, so that losses on later predictions update how the renderer encodes prior observations, and adds real-data adversarial supervision to improve its visual quality. In AgentGarten, agents perceive the world through visual observations, interact with it in real time, and improve by distilling each round of experience into playbooks that subsequent agents inherit and refine. Our empirical study demonstrates a substantial gain in learning efficiency, with agents learning from just 4 rounds compared with millions for a conventional reinforcement learning counterpart. As new worlds can be written as code and rendered through the same interface, environments can scale in both number and difficulty alongside their agents, a step toward agents that keep evolving through interactive experience.
+▲ 13 • 💬 0 • ⭐ 104,130 • 76mo ago
 
-▲ 143 • 💬 2 • ⭐ 140 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.12374) • [💻 code](https://github.com/MirroS-Lab/AgentGarten) • [🔗 project](https://mirros-lab.github.io/agent-garten/)
+[🎓 arXiv](https://arxiv.org/abs/2006.15704) • [💻 code](https://github.com/pytorch/pytorch)
 
 ---
 
@@ -650,7 +654,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 2.3k • 8h ago
+⭐ 7.7k • 🔱 2.3k • 12h ago
 
 ---
 
@@ -660,7 +664,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.1k • 🔱 1.7k • 6h ago
+⭐ 7.1k • 🔱 1.7k • 9h ago
 
 ---
 
@@ -680,7 +684,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 680 • 12h ago
+⭐ 4.8k • 🔱 683 • 15h ago
 
 ---
 
@@ -690,7 +694,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.7k • 🔱 775 • 7m ago
+⭐ 4.7k • 🔱 778 • 3m ago
 
 ---
 
@@ -700,7 +704,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.1k • 🔱 110 • 10h ago
+⭐ 4.1k • 🔱 112 • 14h ago
 
 ---
 
@@ -710,7 +714,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.3k • 🔱 139 • 1d ago
+⭐ 3.4k • 🔱 139 • 1d ago
 
 ---
 
@@ -730,7 +734,7 @@ AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
 `Go`
 
-⭐ 2.9k • 🔱 5.3k • 10h ago
+⭐ 2.9k • 🔱 5.3k • 14h ago
 
 ---
 
@@ -740,7 +744,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 2.7k • 🔱 187 • 13h ago
+⭐ 2.8k • 🔱 187 • 17h ago
 
 ---
 
