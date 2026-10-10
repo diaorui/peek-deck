@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-10T15:33:27.523622+00:00'
+updated: '2026-10-10T19:50:36.268708+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 10, 2026 at 15:33 UTC  
+**Last Updated:** October 10, 2026 at 19:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,847.14
+### $83,077.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -4.0%  
-**30d:** +7.5%  
-**90d:** +33.1%  
-**1y:** -24.9%  
+**24h:** +0.7%  
+**7d:** -3.9%  
+**30d:** +7.6%  
+**90d:** +33.3%  
+**1y:** -24.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1666.18B
+**Market Cap:** $1668.19B
 Rank #1
 
-**Circulating Supply:** 20,096,093 BTC
+**Circulating Supply:** 20,096,237 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -34.2%
 
 **All-Time Low:** $67.81
-+122172.5%
++122315.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC Moon Boys be like](https://www.reddit.com/r/Bitcoin/comments/1x0vgjh/btc_moon_boys_be_like/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -103,7 +103,7 @@ Hodl
 
 I have tracked BTC since 2017 and became more committed in 2020. I have reached a stage where I share less because those around me seem less concerned about their future and prefer the simplest path. ( The hard part is that I want to share what I learn and the potential it has but I just know it will fall on deaf ear so I just don’t wanna bother people or waste my energy.) Second, I feel pleased when BTC rises and my holding price increases. Yet I am equally content when it drops, since that allows me to acquire more at a lower cost. I intend to hold until 2030 and may never sell my entire stack. I just woke up and noticed BTC back at 80k, so I turned to my wife and said, “btc back to 80k yay! That means I can get more for cheaper!” Does anyone else feel this way? Whenever you think things are gonna go bad just remember to zoom out and remember BTC will always go up. Happy stacking 💪
 
-1d ago
+2d ago
 
 ---
 
@@ -117,7 +117,7 @@ I have tracked BTC since 2017 and became more committed in 2020. I have reached 
 
 Jamie Dimon on bitcoin, and the price the day he said it: $405: "going to be stopped" (2015) $4,164: "fraud" (2017) $5,614: "it can trade at $100,000 before it trades to zero" (2017) $21,072: "a pet rock" (2023) $105,616: "We are going to allow you to buy it." (2025)
 
-1d ago
+2d ago
 
 ---
 
@@ -155,11 +155,11 @@ Bitcoin and altcoins sit side by side in your finance app. But are they doing th
 
 ## Google News: "bitcoin"
 
-**[Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms](https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms)**
+**[Bitcoin (BTC) and ether (ETH) liquidity rebounds a year after $19 billion crypto flash crash](https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks)**
 
-Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.
+Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.
 
-CoinDesk • 1d ago
+CoinDesk • 7h ago
 
 ---
 
@@ -167,69 +167,69 @@ CoinDesk • 1d ago
 
 The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
 
-Investor's Business Daily • 1d ago
+Investor's Business Daily • 2d ago
 
 ---
 
-**[China Is Building a National Blockchain Network: Will Bitcoin Benefit?](https://www.yahoo.com/news/world/articles/china-building-national-blockchain-network-141957009.html)**
+**[Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?](https://finance.yahoo.com/markets/crypto/articles/could-1-000-invested-bitcoin-190700838.html)**
 
-China plans a national blockchain network in its new economic blueprint. Here is why Bitcoin is left out of it.
+At one time, Bitcoin had 1,000x upside potential. But is that still the case?
 
-Yahoo • 1h ago
-
----
-
-**[Bitcoin jumps 26% after largest short squeeze s...](https://pluang.com/en/news-feed/rebound-bitcoin-didorong-penurunan-futures-open-interest-11)**
-
-Bitcoin surged 26% from its mid-August low following the largest single-day short liquidation event since 2019, with 85% of liquidated positions being shorts. During this period, U.S. spot Bitcoin ETFs saw $2.23 billion in creations, indicating strong spot-market demand that supported the price rise despite a decline in leveraged futures positions. Futures open interest fell 11% in Bitcoin terms, showing the rally was not fueled by increased leverage. The market now watches if spot demand and futures leverage will grow together or if the rally will continue with subdued leverage.
-
-Pluang • 2h ago
+Yahoo Finance • 43m ago
 
 ---
 
-**[Bitcoin ETFs see $21M inflow, easing recent sel...](https://pluang.com/en/news-feed/harga-bitcoin-tahan-82k-dolar-dipimpin-blackrock-etf)**
+**[Current price of Bitcoin for October 9, 2026](https://fortune.com/article/price-of-bitcoin-10-09-2026/)**
 
-Bitcoin ETFs experienced a $21.13 million inflow on Friday, led by Blackrock’s IBIT, signaling a pause after two days of heavy redemptions totaling nearly $1 billion. This modest inflow suggests institutional selling pressure on Bitcoin may be easing, though it remains to be seen if this will lead to renewed buying. Meanwhile, Ether ETFs continued to face outflows, losing $56.10 million and extending their streak to nine consecutive days, highlighting a divergence in institutional interest between Bitcoin and Ether. NEAR ETFs attracted fresh capital, contrasting with outflows in Solana ETFs, reflecting selective investor preferences. Overall, Bitcoin's price stability depends on whether new institutional demand can pick up, as current gains are largely driven by existing holders rather than fresh inflows.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Pluang • 30m ago
+Fortune • 19h ago
 
 ---
 
 **[A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?](https://www.wsj.com/finance/currencies/a-year-on-bitcoin-languishes-a-third-below-its-all-time-high-whats-next-for-the-cryptocurrency-046f2689)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
-**[Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC](https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million)**
+**[This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million](https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise)**
 
-Bermuda-regulated startup Meanwhile, whose backers include Bain Capital Crypto and Sam Altman, has now raised a total of $180 million.
+Meanwhile, a life insurance company that operates entirely in Bitcoin, has raised $37.5 million as demand for its unusual policies climbs.
 
-Bitcoin Magazine • 14h ago
-
----
-
-**[The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell?](https://247wallst.com/investing/cryptocurrency/2026/10/10/the-u-s-government-moved-1-5-billion-in-seized-crypto-in-two-days-will-it-sell/)**
-
-The U.S. government moved around $1.5 billion in seized cryptocurrency on October 7 and 8. Is it preparing to sell its Bitcoin?
-
-24/7 Wall St. • 7h ago
+Decrypt News • 3h ago
 
 ---
 
-**[Live updates: Bitcoin pulls off worst levels late in Thursday session](https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify)**
+**[Bitcoin steadies near $83,000 as spot ETF outflows top $680 million](https://finance.yahoo.com/markets/crypto/articles/bitcoin-trades-above-82-000-042957252.html)**
 
-Crypto markets tumbled on Thursday, with cryptography fears, rising oil prices and interest rates, and the one-year anniversary of last October's flash crash on traders' radar.
+Investing.com -- Bitcoin recovered on Saturday but remained on course for a weekly loss, as rising oil prices, higher U.S. Treasury yields and renewed cryptocurrency security concerns weighed on sentiment.
 
-CoinDesk • 1d ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Bitcoin Drops Below $81K, Triggering Nearly $1B Crypto Liquidation Wave: Crypto Stocks Fall With AI Infrastructure Plays](https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-81k-triggering-173543893.html)**
+**[Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course](https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days)**
 
-Crypto-linked stocks fell alongside Bitcoin’s decline, with AI-focused miners leading the decline to hit multi-month lows.
+Bitcoin investors this week fast cashed out of ETFs.
 
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin ETF Inflows Are Soaring. But They Are Not Telling the Whole Story About What's Happening With Bitcoin.](https://www.fool.com/investing/2026/10/10/bitcoin-etf-inflows-are-soaring-but-they-are-not-t/)**
+
+A couple of popular institutional trades are driving much of the purchasing activity.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Why Is Crypto Down Today? Bitcoin Falls Below $83K as $550M in Bets Get Wiped Out](https://bitcoinfoundation.org/news/analysis/why-is-crypto-down-today-bitcoin-falls-below-83k-as-550m-in-bets-get-wiped-out/)**
+
+Bitcoin fell below $83,000 as the crypto assets sell-off intensified on Monday. Increasing oil prices, rising Treasury yields, a strong dollar, and leveraged positions also...
+
+Bitcoin Foundation • 2d ago
 
 ---
 
@@ -241,7 +241,7 @@ Yahoo Finance • 1d ago
 
 Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
 
-⬆️ 2 • 💬 0 • 2d ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
+⬆️ 2 • 💬 0 • 3d ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
 
 ---
 
@@ -273,7 +273,7 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 Genome viewer for you and your agents. Contribute to zeqianli/tgv development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 12h ago • [GitHub](https://github.com/zeqianli/tgv)
+⬆️ 4 • 💬 1 • 16h ago • [GitHub](https://github.com/zeqianli/tgv)
 
 ---
 
@@ -281,33 +281,23 @@ Genome viewer for you and your agents. Contribute to zeqianli/tgv development by
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is the Toll Collector of the AI Economy](https://www.youtube.com/watch?v=rAVx9MiSbjc)**
+**[The #1 Crypto Mistake! 🚨 (DON&#39;T DO THIS)](https://www.youtube.com/watch?v=aQpra5_Ti7Q)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+The #1 Crypto Mistake! (DON'T DO THIS) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on ...
 
-📺 Anthony Pompliano
+📺 Altcoin Daily
 
-👁️ 5K • 👍 723 • 💬 16 • ⏱️ 46:44 • 2h ago
-
----
-
-**[A VERY CLEAR BITCOIN SIGNAL SO BE PREPARED!](https://www.youtube.com/watch?v=kZN_1yKzhRM)**
-
-APPLY TO WORK WITH ME. We take a limited number of new members each month.
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 13K • 👍 669 • 💬 75 • ⏱️ 20:53 • 11h ago
+👁️ 50K • 👍 3K • 💬 141 • ⏱️ 11:46 • 21h ago
 
 ---
 
-**[Bitcoin Is About To Make A Massive Move](https://www.youtube.com/watch?v=11QxIeT0rCc)**
+**[Is This The End of the Bitcoin Rally?](https://www.youtube.com/watch?v=IxFnvlKnWUA)**
 
-Bitcoin Is About To Make A Massive Move Want access to the Platinum Group? Join here: ...
+Two headlines made it look like Bitcoin was being dumped. Half a billion dollars left the spot ETFs in a day, the biggest exit since ...
 
-📺 Mister Crypto
+📺 Yahoo Finance
 
-👁️ 3K • 👍 96 • 💬 5 • ⏱️ 7:47 • 5h ago
+👁️ 26K • 👍 485 • 💬 183 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -317,7 +307,27 @@ Bitcoin just crashed to $80000 as a new debate erupts over paper Bitcoin, Michae
 
 📺 Simply Bitcoin
 
-👁️ 46K • 👍 2K • 💬 133 • ⏱️ 15:34 • 1d ago
+👁️ 46K • 👍 2K • 💬 138 • ⏱️ 15:34 • 1d ago
+
+---
+
+**[Dave Ramsey Bitcoin Debate That Left Viewers Divided](https://www.youtube.com/watch?v=ZZiF8T8qHzQ)**
+
+Analyzing the latest Dave Ramsey Bitcoin advice. We are breaking down his stance on crypto and what it means for your portfolio.
+
+📺 The Economic Ninja
+
+👁️ 14K • 👍 403 • 💬 165 • ⏱️ 8:57 • 19h ago
+
+---
+
+**[MASSIVE BITCOIN TRAP LOADED!](https://www.youtube.com/watch?v=Vsk0-xpLOUM)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 14K • 👍 421 • 💬 46 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -327,57 +337,47 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 491 • 💬 17 • ⏱️ 7:03 • 5h ago
+👁️ 16K • 👍 575 • 💬 20 • ⏱️ 7:03 • 10h ago
 
 ---
 
-**[Bitcoin: enough is enough..](https://www.youtube.com/watch?v=5_N2EIMY1Ds)**
+**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
 
-Bitcoin what now.
+Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
 
-📺 MMCrypto
+📺 The Economic Ninja
 
-👁️ 46K • 👍 2K • 💬 353 • ⏱️ 6:10 • 22h ago
-
----
-
-**[Bitcoin, XRP Update: Is the XRP &amp; BITCOIN correction over yet?  The 4hr Buy zone targets!](https://www.youtube.com/watch?v=kbyCTtzr0_4)**
-
-Today's XRP & BITCOIN Video: Trade XRP & BITCOIN (ByBit): https://bit.ly/CoinsKidByBit MY XRP & BITCOIN TARGETS!
-
-📺 CoinsKid
-
-👁️ 3K • 👍 218 • 💬 68 • ⏱️ 15:55 • 3h ago
+👁️ 26K • 👍 902 • 💬 196 • ⏱️ 3:20 • 1d ago
 
 ---
 
-**[$1 Million Bitcoin BOMBSHELL - $50 Billion CEO Says There’s NO STOPPING IT](https://www.youtube.com/watch?v=MvUO-780TYI)**
+**[Bitcoin And Alts Collapse: Where I’ll Load Up (Hint: Very Close!)](https://www.youtube.com/watch?v=lsTV45IxjMA)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+No B.S. Just Charts. Bitcoin is in a full liquidity flush, and Gareth Soloway maps the exact Bitcoin price levels where he plans to ...
 
-📺 Bitcoin News Alerts
+📺 Gareth Soloway
 
-👁️ 6K • 👍 253 • 💬 87 • ⏱️ 15:24 • 17h ago
-
----
-
-**[What Happens After Bitcoin Hits $100K?](https://www.youtube.com/watch?v=v5SqNDwSGpU)**
-
-Bitcoin just plunged from $87000 to $80000, wiping out $1.5 billion in leveraged positions, but the bigger story is what happens ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 1K • 💬 62 • ⏱️ 19:23 • 16h ago
+👁️ 114K • 👍 4K • 💬 236 • ⏱️ 16:07 • 2d ago
 
 ---
 
-**[Bitcoin Prediction that everyone is overlooking! (2028-2030)](https://www.youtube.com/watch?v=X2aM26F0xCE)**
+**[Bitcoin Had a $1 Billion Wipeout...What&#39;s next?](https://www.youtube.com/watch?v=XFm6i1fr-6k)**
 
-Kalshi $50 bonus: http://kalshi.com/p/aimstone ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 Aimstone
+📺 CryptosRUs
 
-👁️ 5K • 👍 231 • 💬 42 • ⏱️ 14:23 • 17h ago
+👁️ 31K • 👍 749 • 💬 109 • ⏱️ 41:04 • 1d ago
+
+---
+
+**[Bitcoin Is Headed to $300K and Nobody&#39;s Ready](https://www.youtube.com/watch?v=l4C5rFtBVEU)**
+
+Bill Barhydt is the founder and CEO of Abra. In this conversation, we break down why bitcoin is climbing despite rising rates and ...
+
+📺 Anthony Pompliano
+
+👁️ 84K • 👍 1K • 💬 58 • ⏱️ 45:39 • 1d ago
 
 ---
 

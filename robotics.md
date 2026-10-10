@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-10T15:33:27.533012+00:00'
+updated: '2026-10-10T19:50:36.278193+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 10, 2026 at 15:33 UTC  
+**Last Updated:** October 10, 2026 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) designed end to end in my app. You describe the robot, and it picks real servos (Feetech STS3250 here), plans the electronics, lays out the body, builds the 3D structure and shell, writes the firmware, and runs it in MuJoCo physics before anything gets printed. It's early and plenty is still rough. I'd really like feedback from people who've actually built robots: what was the hardest part of your design, and what would make a tool like this useful (or useless) to you?
 
-2d ago
+3d ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 I’ve been experimenting with turning an M5Stack Stack-chan into a little mobile robot. I combined it with a LEGO motor hub and wheels, recorded driving demonstrations, and trained an ACT policy. During supervised trials, it learned to follow a line. With a separate set of demonstrations, I also tried driving between guardrails. The video shows the build, data collection, and the wrong turns along the way 😅 Build video: https://www.youtube.com/watch?v=_1pQTt8gqZM This is also the first showcase of what I’ve built with Robium, an open-source robotics skills repo that I recently released. I used it with AI agents to help build the software and training setup. GitHub: https://github.com/robium-ai/robium Has anyone else experimented with learning from demonstrations on a small wheeled robot? I’d be interested to hear what worked for you.
 
-2d ago
+3d ago
 
 ---
 
@@ -114,9 +114,11 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 ## Google News: "robotics"
 
-**[Two-armed robot throws and catches balls with human-like movements](https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html)**
+**[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
 
-Tech Xplore • 1d ago
+Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
+
+MIT Technology Review • 2d ago
 
 ---
 
@@ -130,7 +132,7 @@ BBC • 1d ago
 
 **[This Robot Will Deliver Your Food, if It Doesn’t Get Smashed First](https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html)**
 
-The New York Times • 6h ago
+The New York Times • 10h ago
 
 ---
 
@@ -138,31 +140,7 @@ The New York Times • 6h ago
 
 Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
 
-Futurism • 3h ago
-
----
-
-**[Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)**
-
-Full-stack safety solution for physical AI is being used by robotics companies.
-
-Ars Technica • 2d ago
-
----
-
-**[Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!](https://spectrum.ieee.org/video-friday-reachy-mini-raps)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 23h ago
-
----
-
-**[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
-
-Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
-
-MIT Technology Review • 2d ago
+Futurism • 7h ago
 
 ---
 
@@ -174,7 +152,7 @@ Bloomberg.com • 1d ago
 
 **[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
 
-Financial Times • 11h ago
+Financial Times • 15h ago
 
 ---
 
@@ -182,7 +160,31 @@ Financial Times • 11h ago
 
 For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
 
-TechCrunch • 22h ago
+TechCrunch • 1d ago
+
+---
+
+**[Ex-OpenAI robotics lead’s factory startup in insolvency proceedings](https://sifted.eu/articles/ex-openai-robotics-leads-factory-startup-in-insolvency-proceedings)**
+
+German automated manufacturing startup Daedalus was founded in 2024 by former OpenAI technical lead Jonas Schneider.
+
+Sifted • 1d ago
+
+---
+
+**[21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown](https://wset.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026)**
+
+Twenty-one FIRST Robotics Competition teams gathered at Magna Vista High School for the inaugural Southern Virginia Showdown.
+
+WSET • 3h ago
+
+---
+
+**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
+
+Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
+
+About Amazon • 2d ago
 
 ---
 
@@ -196,87 +198,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 97K • 👍 2K • 💬 101 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
-
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
-
-📺 CNET
-
-👁️ 53K • 👍 498 • 💬 65 • ⏱️ 6:34 • 6d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 79K • 👍 2K • 💬 15 • ⏱️ 1:04 • 2d ago
-
----
-
-**[This Robot Runs Up And Jumps Just Like An Athlete](https://www.youtube.com/watch?v=zLvC2VQCvt8)**
-
-Original video credit: IG/@niufanbing. The video demonstrates testing of a specialized bipedal humanoid robot executing a long ...
-
-📺 History Seeker
-
-👁️ 115K • 👍 541 • 💬 14 • ⏱️ 0:08 • 15h ago
-
----
-
-**[Nick Irving &amp; Rob O&#39;Neill Reveal How Robots Will Replace Soldiers](https://www.youtube.com/watch?v=SZOybx7cpOY)**
-
-usmilitary #usarmy #nickirving #veteran #specialforces.
-
-📺 TACTIXLAB
-
-👁️ 72K • 👍 2K • 💬 75 • ⏱️ 0:54 • 3d ago
-
----
-
-**[This Is Impossible... Bane Bagliore MELTING Fang Bots | Bane Comeback | War Robots](https://www.youtube.com/watch?v=1NH2fZ82um4)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR The Bane are back! I just wanted to try this build out for fun, ...
-
-📺 PREDATOR WR
-
-👁️ 14K • 👍 329 • 💬 37 • ⏱️ 14:51 • 1d ago
-
----
-
-**[Chinese humanoid robots DANCE inside South Korea’s parliament](https://www.youtube.com/watch?v=GnLL9Zezkcg)**
-
-Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China's rapid advances in ...
-
-📺 Fox News
-
-👁️ 48K • 👍 514 • 💬 154 • ⏱️ 0:18 • 1d ago
-
----
-
-**[The End of Human-Piloted Surveillance #robotics #tech #shorts](https://www.youtube.com/watch?v=OGi-nFXqO18)**
-
-See how autonomous flying robots reach speeds of 100 mph to handle complex security monitoring without a pilot. These ...
-
-📺 SciVion
-
-👁️ 7K • 💬 2 • ⏱️ 0:26 • 21h ago
-
----
-
-**[AI Taught This Robot Hand to Walk on Its Fingers #ai  #robotics   #machinelearning  #futuretech](https://www.youtube.com/watch?v=YFRoC5Qzkq0)**
-
-ETH Zurich researchers trained an anthropomorphic robot hand to crawl using the same five fingers it would normally use for ...
-
-📺 Understanding AI HQ
-
-👁️ 41K • 👍 716 • 💬 23 • ⏱️ 0:12 • 1d ago
+👁️ 99K • 👍 2K • 💬 101 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -286,7 +208,87 @@ Clone Robotics is pushing humanoids closer to the human body with Torso 3's arti
 
 📺 MACHINEKIND
 
-👁️ 69K • 👍 1K • 💬 115 • ⏱️ 13:42 • 4d ago
+👁️ 70K • 👍 1K • 💬 115 • ⏱️ 13:42 • 4d ago
+
+---
+
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
+
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
+
+📺 Jot Tv Media 
+
+👁️ 80K • 👍 2K • 💬 15 • ⏱️ 1:04 • 2d ago
+
+---
+
+**[Nick Irving &amp; Rob O&#39;Neill Reveal How Robots Will Replace Soldiers](https://www.youtube.com/watch?v=SZOybx7cpOY)**
+
+usmilitary #usarmy #nickirving #veteran #specialforces.
+
+📺 TACTIXLAB
+
+👁️ 73K • 👍 2K • 💬 75 • ⏱️ 0:54 • 4d ago
+
+---
+
+**[I’ve Wanted This Robot for 10 Years](https://www.youtube.com/watch?v=ijFSEb2W6_8)**
+
+Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout.
+
+📺 Linus Tech Tips
+
+👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 13:52 • 6d ago
+
+---
+
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+
+📺 CNET
+
+👁️ 53K • 👍 499 • 💬 66 • ⏱️ 6:34 • 6d ago
+
+---
+
+**[They dropped a Robot in Lava 🤯](https://www.youtube.com/watch?v=cNA-dtDs-Ck)**
+
+Mizkif reacts to Figure retiring its Figure 02 robots in molten steel in a Terminator 2–style send-off with Arnold Schwarzenegger, ...
+
+📺 Mizkif
+
+👁️ 22K • 👍 408 • 💬 44 • ⏱️ 0:32 • 6d ago
+
+---
+
+**[This Robot Runs Up And Jumps Just Like An Athlete](https://www.youtube.com/watch?v=zLvC2VQCvt8)**
+
+Original video credit: IG/@niufanbing. The video demonstrates testing of a specialized bipedal humanoid robot executing a long ...
+
+📺 History Seeker
+
+👁️ 120K • 👍 568 • 💬 14 • ⏱️ 0:08 • 19h ago
+
+---
+
+**[the first career ending injury in robotic athletics    #robotics](https://www.youtube.com/watch?v=F_KzKVWFKMI)**
+
+Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Videos ...
+
+📺 StingKnight
+
+👁️ 37K • 👍 268 • 💬 17 • ⏱️ 0:10 • 2d ago
+
+---
+
+**[They Trained Robots to Jump Into Molten Steel 🤖🔥](https://www.youtube.com/watch?v=883Yhv1qlU4)**
+
+This looks like a scene from Terminator… but it actually happened. Robotics company Figure retired its F.02 humanoid ...
+
+📺 Wow Theory
+
+👁️ 33K • 👍 365 • 💬 28 • ⏱️ 0:27 • 3d ago
 
 ---
 
