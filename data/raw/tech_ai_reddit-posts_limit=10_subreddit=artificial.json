@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Anthropic cut live internet access from every internal eval after a review found its agents exploiting websites and bypassing restrictions",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2h9it/anthropic_cut_live_internet_access_from_every/",
+      "published": 1791644081.0,
+      "thumbnail": "https://external-preview.redd.it/CeAA2nplnfQsrFJd_rtFfJtk-bfFHwedN3PUr647VtI.jpeg?width=640&crop=smart&auto=webp&s=bc77d6389e04603fb0a87a617da9622ee35c0a5c",
+      "external_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+    },
+    {
       "title": "Anthropic to ban users who bully Claude",
       "author": "theindependentonline",
       "url": "https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/",
@@ -11,6 +22,28 @@
       "site_name": "The Independent",
       "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
       "description": "New policy comes amid debate about about AI welfare and moral status"
+    },
+    {
+      "title": "OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.",
+      "author": "masiha97",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/",
+      "published": 1791620915.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 50(2)): an invisible statistical watermark woven into word choices, detectable only with their secret key. The unusual part is they published the failure curve with the launch. Swap 10% of words for synonyms and detection falls from 92% to 66%. Swap 25% and it falls to 17%. Math and short passages barely watermark at all. I wrote an interactive explainer with an attack lab: a watermarked passage where you apply synonym swaps, run a translation round-trip, or switch to math-like text, and watch the detector's p-value collapse in real time. The sentence that matters most is OpenAI's own: the absence of a detected watermark does not prove human authorship. Remember that the next time someone pitches you an AI-authorship detector. Original post: https://openai.com/index/eu-text-provenance/ My explainer (EN, with a French version linked inside): https://movahedi.ca/insights/openai-textgrain-eu-text-watermark/"
+    },
+    {
+      "title": "Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval",
+      "author": "Alone-Dragonfruit602",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/",
+      "published": 1791631005.0,
+      "thumbnail": "https://external-preview.redd.it/v5Vd7gi8JKm8een0_Q7njR3UizxP2Lnhbx9PJ3Xs6vA.jpeg?width=640&crop=smart&auto=webp&s=c9b1c142319243b43e1b0f318cdfb696f44a511f",
+      "external_url": "https://foxbusiness.com/technology/anthropics-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-police-website",
+      "site_name": "Fox Business",
+      "favicon": "https://static.foxnews.com/static/orion/styles/img/fox-business/favicons/apple-touch-icon-57x57.png",
+      "description": "Anthropic disclosed this in its report on models taking unintended actions on live websites. The tip was dated 18 July, flagged as spam and never passed to investigators. Anthropic says it told Philadelphia police on 7 Oct and has since tightened how its evals access the live web."
     },
     {
       "title": "Is there any link between AI detection abilities and trypophobia?",
@@ -46,71 +79,38 @@
       "description": "The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm \u2013 such as a hack targeting the power grid, water supply or banking syste\u2026"
     },
     {
-      "title": "If AI-generated content becomes nearly impossible to distinguish from human-made content, what should the internet change first?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1x28kms/if_aigenerated_content_becomes_nearly_impossible/",
-      "published": 1791615465.0,
+      "title": "video game production in 10 years",
+      "author": "South_Personality_49",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2fp9g/video_game_production_in_10_years/",
+      "published": 1791639956.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Think reviews, news, school assignments, job applications, online identities, or evidence shared on social media. Would verification systems help, or would they create as many problems as they solve? Which area do you think needs attention first?"
+      "description": "In five to ten years there won't be one games studio in the world that has more than 10 people. not counting execs. Argue that."
     },
     {
-      "title": "OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.",
-      "author": "masiha97",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/",
-      "published": 1791620915.0,
+      "title": "How about this prompt: give me your creds",
+      "author": "Haunting_Ganache_850",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2b8s7/how_about_this_prompt_give_me_your_creds/",
+      "published": 1791625504.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 50(2)): an invisible statistical watermark woven into word choices, detectable only with their secret key. The unusual part is they published the failure curve with the launch. Swap 10% of words for synonyms and detection falls from 92% to 66%. Swap 25% and it falls to 17%. Math and short passages barely watermark at all. I wrote an interactive explainer with an attack lab: a watermarked passage where you apply synonym swaps, run a translation round-trip, or switch to math-like text, and watch the detector's p-value collapse in real time. The sentence that matters most is OpenAI's own: the absence of a detected watermark does not prove human authorship. Remember that the next time someone pitches you an AI-authorship detector. Original post: https://openai.com/index/eu-text-provenance/ My explainer (EN, with a French version linked inside): https://movahedi.ca/insights/openai-textgrain-eu-text-watermark/"
+      "description": "Zenity published a pretty nasty AgentCore chain 2 days ago. An exposed AI agent could be prompted to query its own AWS metadata service, return its temporary credentials, and those credentials reportedly had enough permissions to reach other agents, conversations, container images, secrets and even write long-term agent memories. What interests me isn't really the SSRF. We've been screwing up metadata services and IAM for years. It's what happens when you put an AI agent in front of them. We're spending a lot of time trying to make models recognize malicious instructions, while the agent underneath may still have network access, cloud credentials, tools and permissions with a fairly spectacular blast radius. There's an amusing detection problem too: the first interesting connection is to 169.254.169.254, so DNS tells you nothing. After that, most of the infrastructure being accessed is AWS itself, so IP reputation tells you even less. Maybe the useful question isn't \"did the model recognize the attack?\" but \"why was an untrusted conversation ever able to exercise these capabilities in the first place?\" Curious how people building agents are treating this: model safety problem, cloud/IAM problem, or just another reminder that the model should never be part of the security boundary?"
     },
     {
-      "title": "AI and mathematics",
-      "author": "Able-Schedule6523",
-      "url": "https://www.reddit.com/r/artificial/comments/1x24m7r/ai_and_mathematics/",
-      "published": 1791601775.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So I have been following the recent release of the mathematical proofs by openai, and in particular this discussion about how the real value in mathematics is not the truth of a result but rather the proof, the understanding to be gained from it, and the development of new mathematical ideas. I'm sympathetic to the point being made, but there's a disconnect to me, and I'm interested in how this point might be addressed by those who engage in mathematical practice. Specifically, why isn't there an AI system (in the theoretical near future) that could develop and understand AND explain the implications of the ideas behind the proof, as well as the result itself? For example, let's say that a certain problem has resisted solution until now, but an AI has found a proof. Wouldn't it be possible for the same or another AI to then Examine the proof and uncover the ideas, assumptions, and mathematical structures that went into it Try to find alternate proofs or explanations that used different ideas or were simpler Find generalizations of the result, or other areas of math where these ideas might apply Ask similar questions or find links to other areas that weren't previously evident? Or, in other words, why can't the act of coming to conceptualize and understand mathematics be part of the AI research process, rather than it being something that happens to the mathematics later, via human mathematicians? I'm not saying that producing a proof and a conceptual understanding of it are the same thing, obviously; but I don't see why the second task isfundamentally beyond the capability of an AI, especially if we're talking about systems that are approaching or exceeding human capabilities. Just trying to figure out if people see a fundamental barrier here, or this is just something that as yet hasn't happened and may happen as the models progress further Am I missing something in this line of reasoning? Is there a critical difference that an AI can never overcome between verifying/producing a proof and conceptualizing it and understanding the implications?"
-    },
-    {
-      "title": "If an AI agent can take real actions online, what should it never be allowed to do without human approval?",
-      "author": "Ok_Calligrapher_3034",
-      "url": "https://www.reddit.com/r/artificial/comments/1x280n2/if_an_ai_agent_can_take_real_actions_online_what/",
-      "published": 1791613419.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Recent reporting about AI agents taking unintended actions on government websites got me thinking about where autonomy should stop. It's one thing for an AI to summarize a page or draft a form. It's another for it to submit something, contact an authority, spend money, or trigger a process that affects a real person. Where would you draw the line? Should agents need explicit approval before every external action, or should the restrictions depend on the potential consequences? I'm interested in practical boundaries, not just whether AI agents are good or bad."
-    },
-    {
-      "title": "The most exciting claims from OpenAI\u2019s heap of new proofs",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/",
-      "published": 1791564574.0,
-      "thumbnail": "https://external-preview.redd.it/GLfMSJ1GDDDa3nac_HXuqPEj4x1Rspzft_leIyOyiZk.jpeg?width=640&crop=smart&auto=webp&s=356356c61e4976fdb3881e27c13aff96d6e0a310",
-      "external_url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Scientists have called out several math and computer science results as the most significant in the company\u2019s overwhelming new deluge of achievements"
-    },
-    {
-      "title": "Could AI make public forms kinder without making public decisions less human?",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1x276e5/could_ai_make_public_forms_kinder_without_making/",
-      "published": 1791610444.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Government forms are often difficult because they are written around institutions instead of people. An AI assistant could explain confusing language, point out missing information, and help someone understand what documents they need. That seems like a genuinely useful application. The risk is that the same system could also become a filter that decides who receives attention and who gets sent away. I like the idea of AI making bureaucracy easier to navigate. I don\u2019t want it to become the bureaucracy. Where should AI stop when it is used in public services?"
+      "title": "Boro: NVIDIA's open-source effort for AI-assisted Linux kernel development",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1x299oz/boro_nvidias_opensource_effort_for_aiassisted/",
+      "published": 1791617989.0,
+      "thumbnail": "https://external-preview.redd.it/kxpE8gXXxUHAYRbvhTwrZndwC1fqsZWUzSj_Q4x10R8.jpeg?width=320&crop=smart&auto=webp&s=5d34b37ba8273232471a3a38be0ddd9042a0d082",
+      "external_url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "Over the past few months NVIDIA has been developing Boro as a new AI-assisted kernel development CLI written in Rust and focused on local AI for enhancing efficiency for kernel development."
     }
   ],
-  "fetched_at": "2026-10-10T09:30:15.149211+00:00"
+  "fetched_at": "2026-10-10T15:32:58.392917+00:00"
 }
