@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-10T19:50:36.278193+00:00'
+updated: '2026-10-10T23:18:00.987757+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 10, 2026 at 19:50 UTC  
+**Last Updated:** October 10, 2026 at 23:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-2d ago
+3d ago
 
 ---
 
@@ -98,7 +98,7 @@ Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-3d ago
+4d ago
 
 ---
 
@@ -122,17 +122,23 @@ MIT Technology Review • 2d ago
 
 ---
 
-**[UK robotics hubs to drive adoption of new tech](https://www.bbc.com/news/articles/c6wyvdn7djnpo)**
+**[Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence](https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/)**
 
-The government says the hubs will support businesses and public services across the country.
+The raise consisted of a Series A seed round led by Framework Ventures plus an earlier seed round.
 
-BBC • 1d ago
+Fortune • 1d ago
 
 ---
 
 **[This Robot Will Deliver Your Food, if It Doesn’t Get Smashed First](https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html)**
 
-The New York Times • 10h ago
+The New York Times • 14h ago
+
+---
+
+**[Gecko Robotics partners with Anduril to aid submarine manufacturing](https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html)**
+
+The Business Journals • 1d ago
 
 ---
 
@@ -140,19 +146,25 @@ The New York Times • 10h ago
 
 Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
 
-Futurism • 7h ago
-
----
-
-**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
-
-Bloomberg.com • 1d ago
+Futurism • 11h ago
 
 ---
 
 **[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
 
-Financial Times • 15h ago
+Financial Times • 19h ago
+
+---
+
+**[ICE buys robotic dogs from Connecticut company for patrols](https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php)**
+
+CT Insider • 13h ago
+
+---
+
+**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -161,22 +173,6 @@ Financial Times • 15h ago
 For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
 
 TechCrunch • 1d ago
-
----
-
-**[Ex-OpenAI robotics lead’s factory startup in insolvency proceedings](https://sifted.eu/articles/ex-openai-robotics-leads-factory-startup-in-insolvency-proceedings)**
-
-German automated manufacturing startup Daedalus was founded in 2024 by former OpenAI technical lead Jonas Schneider.
-
-Sifted • 1d ago
-
----
-
-**[21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown](https://wset.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026)**
-
-Twenty-one FIRST Robotics Competition teams gathered at Magna Vista High School for the inaugural Southern Virginia Showdown.
-
-WSET • 3h ago
 
 ---
 
@@ -198,37 +194,17 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 99K • 👍 2K • 💬 101 • ⏱️ 1:00 • 6d ago
+👁️ 100K • 👍 2K • 💬 102 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
+**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
 
-Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
+At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
 
-📺 MACHINEKIND
+📺 ejunky66
 
-👁️ 70K • 👍 1K • 💬 115 • ⏱️ 13:42 • 4d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 80K • 👍 2K • 💬 15 • ⏱️ 1:04 • 2d ago
-
----
-
-**[Nick Irving &amp; Rob O&#39;Neill Reveal How Robots Will Replace Soldiers](https://www.youtube.com/watch?v=SZOybx7cpOY)**
-
-usmilitary #usarmy #nickirving #veteran #specialforces.
-
-📺 TACTIXLAB
-
-👁️ 73K • 👍 2K • 💬 75 • ⏱️ 0:54 • 4d ago
+👁️ 139K • 👍 1K • 💬 112 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -242,53 +218,67 @@ Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LT
 
 ---
 
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+**[they built round robot vacuums and called it efficient.#vaccum #robotcleaner #squarerobots #cleantok](https://www.youtube.com/watch?v=hzc4L9tbBOQ)**
 
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+📺 Cleanwith__Marina
 
-📺 CNET
-
-👁️ 53K • 👍 499 • 💬 66 • ⏱️ 6:34 • 6d ago
+👁️ 3.8M • 👍 10K • 💬 50 • ⏱️ 0:08 • 5d ago
 
 ---
 
-**[They dropped a Robot in Lava 🤯](https://www.youtube.com/watch?v=cNA-dtDs-Ck)**
+**[Harmless Robot Helper](https://www.youtube.com/watch?v=YiueH4b8nfw)**
 
-Mizkif reacts to Figure retiring its Figure 02 robots in molten steel in a Terminator 2–style send-off with Arnold Schwarzenegger, ...
+📺 Jay & Sharon
 
-📺 Mizkif
-
-👁️ 22K • 👍 408 • 💬 44 • ⏱️ 0:32 • 6d ago
+👁️ 1.1M • 👍 65K • 💬 749 • ⏱️ 0:54 • 4d ago
 
 ---
 
-**[This Robot Runs Up And Jumps Just Like An Athlete](https://www.youtube.com/watch?v=zLvC2VQCvt8)**
+**[Would YOU actually play THIS RAVANA? War Robots Gameplay WR](https://www.youtube.com/watch?v=mpnTi7Mvl6A)**
 
-Original video credit: IG/@niufanbing. The video demonstrates testing of a specialized bipedal humanoid robot executing a long ...
+War Robots Gameplay: UE Vortex and GAS Shield Ravana - Would you play this in WR? My War Robots Creator Link: ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 291 • 💬 45 • ⏱️ 12:01 • 11h ago
+
+---
+
+**[The Woman Unexpectedly Got a Beauty Enhancement System.](https://www.youtube.com/watch?v=OAtOqJggbu0)**
+
+The Woman Unexpectedly Got a Beauty Enhancement System.
+
+📺 Robot Scissorhands
+
+👁️ 1.6M • 👍 50K • 💬 63 • ⏱️ 2:35 • 3d ago
+
+---
+
+**[This Drone Hops Like A Pogo Stick 🤖](https://www.youtube.com/watch?v=4DGj7zMEVvQ)**
+
+Original video credit: IG/@hopto_tech_official. The video demonstrates the operation of the HOPTOP (Hopcopter) hybrid ...
 
 📺 History Seeker
 
-👁️ 120K • 👍 568 • 💬 14 • ⏱️ 0:08 • 19h ago
+👁️ 3.6M • 👍 37K • 💬 1K • ⏱️ 0:10 • 2d ago
 
 ---
 
-**[the first career ending injury in robotic athletics    #robotics](https://www.youtube.com/watch?v=F_KzKVWFKMI)**
+**[Trump Interview Is RUINED - Robot Chicken Short Edit](https://www.youtube.com/watch?v=W75rt3IvsvQ)**
 
-Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Videos ...
+📺 Alien Simulation
 
-📺 StingKnight
-
-👁️ 37K • 👍 268 • 💬 17 • ⏱️ 0:10 • 2d ago
+👁️ 481K • 👍 33K • 💬 417 • ⏱️ 0:42 • 5d ago
 
 ---
 
-**[They Trained Robots to Jump Into Molten Steel 🤖🔥](https://www.youtube.com/watch?v=883Yhv1qlU4)**
+**[This Robot Plays Chrome Dino Without Ever Losing 🦖](https://www.youtube.com/watch?v=kqzgUa51DdM)**
 
-This looks like a scene from Terminator… but it actually happened. Robotics company Figure retired its F.02 humanoid ...
+The video demonstrates the operation of an automated system for autonomous gameplay of the "Chrome Dino" game utilizing an ...
 
-📺 Wow Theory
+📺 History Seeker
 
-👁️ 33K • 👍 365 • 💬 28 • ⏱️ 0:27 • 3d ago
+👁️ 21.5M • 👍 208K • 💬 1K • ⏱️ 0:08 • 5d ago
 
 ---
 
