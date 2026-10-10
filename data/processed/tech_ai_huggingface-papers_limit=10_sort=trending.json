@@ -1,6 +1,25 @@
 {
   "papers": [
     {
+      "id": "2609.18063",
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
+      "organization_name": "Edge0",
+      "organization_fullname": "Edge0",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
+      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.18063",
+      "arxiv_url": "https://arxiv.org/abs/2609.18063",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
+      "upvotes": 26,
+      "num_comments": 4,
+      "published_at": "2026-09-15T20:00:00.000Z",
+      "github_repo": "https://github.com/Edge0-AI/edge0",
+      "github_stars": 4183,
+      "project_page": null
+    },
+    {
       "id": "2610.08699",
       "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
       "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
@@ -18,25 +37,6 @@
       "github_repo": "https://github.com/nano-muse/nanoMuse",
       "github_stars": 700,
       "project_page": "https://nanomuse.cn/"
-    },
-    {
-      "id": "2609.18063",
-      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
-      "organization_name": "Edge0",
-      "organization_fullname": "Edge0",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
-      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.18063",
-      "arxiv_url": "https://arxiv.org/abs/2609.18063",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 26,
-      "num_comments": 4,
-      "published_at": "2026-09-15T20:00:00.000Z",
-      "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 4066,
-      "project_page": null
     },
     {
       "id": "2604.14141",
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 150,
+      "upvotes": 151,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 110428,
+      "github_stars": 110501,
       "project_page": null
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2309.06180",
       "arxiv_url": "https://arxiv.org/abs/2309.06180",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2309.06180.png",
-      "upvotes": 76,
+      "upvotes": 77,
       "num_comments": 1,
       "published_at": "2023-09-12T08:50:04.000Z",
       "github_repo": "https://github.com/vllm-project/vllm",
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2610.12374",
       "arxiv_url": "https://arxiv.org/abs/2610.12374",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.12374.png",
-      "upvotes": 140,
+      "upvotes": 143,
       "num_comments": 2,
       "published_at": "2026-10-07T20:00:00.000Z",
       "github_repo": "https://github.com/MirroS-Lab/AgentGarten",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-10T15:33:06.490910+00:00"
+  "fetched_at": "2026-10-10T19:50:06.501883+00:00"
 }
