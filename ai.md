@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-10T09:32:07.560572+00:00'
+updated: '2026-10-10T15:33:27.514838+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 10, 2026 at 09:32 UTC  
+**Last Updated:** October 10, 2026 at 15:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,43 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic cut live internet access from every internal eval after a review found its agents exploiting websites and bypassing restrictions](https://www.reddit.com/r/artificial/comments/1x2h9it/anthropic_cut_live_internet_access_from_every/)**
+
+Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) • 38m ago
+
+---
+
 **[Anthropic to ban users who bully Claude](https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/)**
 
 New policy comes amid debate about about AI welfare and moral status
 
-🔗 [The Independent](https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html) • 15h ago
-
----
-
-**[Is there any link between AI detection abilities and trypophobia?](https://www.reddit.com/r/artificial/comments/1x23bbz/is_there_any_link_between_ai_detection_abilities/)**
-
-The obvious one is food, AI pictures on menus of things like pasta, ground beef, etc trigger it so hard, in a way I’ve never felt from seeing those things irl or pictures of them. They look so gross that I have no idea how you would advertise food with this, but it clearly doesn’t hit everyone this way. Other images do this to me as well though. On the [r/IsThisAI](r/IsThisAI) subreddit, my first tell is often the feeling I get. Psychologically it feels exactly like when I see other trypophobia inducing things. These aren’t AI pics of holes, repeating organic patterns, any of that. One post was a bunch of people eating dinner (the food is too small to see, it’s not the food giving me trypophobia). It’s as if there’s a background organic repeating pattern that I can’t see. Unlike typical triggers, if you asked me to draw the outline of what is triggering it I couldn’t. Never in my life would a pic of people at a dinner table have made me feel trypophobia, so now I wonder if people with trypophobia might pick up on AI better. I know many people don’t believe in trypophobia, that’s fine, don’t care. Like many things in psychology it’s overused and overcalled, but people who have it know it’s real. As a kid I would walk 20 minutes out of my way to avoid passing this building with a mossy roof. Seems easy enough to say “just look away from it,” but just knowing it’s there was enough to make my skin feel like it was crawling. As I got older my trypophobia has softened, but the AI age has made me encounter it more.
-
-7h ago
-
----
-
-**[William Shatner gives take on AI](https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/)**
-
-From the "Dropping Names with Brent and Jonny" podcast.
-
-20h ago
-
----
-
-**[AI companies plot how to respond if catastrophic hacking incident causes 'revolt': report](https://www.reddit.com/r/artificial/comments/1x201nd/ai_companies_plot_how_to_respond_if_catastrophic/)**
-
-The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm – such as a hack targeting the power grid, water supply or banking syste…
-
-🔗 [New York Post](https://nypost.com/2026/10/09/business/ai-companies-plot-how-to-respond-if-catastrophic-hacking-incident-causes-revolt-report/) • 10h ago
-
----
-
-**[If AI-generated content becomes nearly impossible to distinguish from human-made content, what should the internet change first?](https://www.reddit.com/r/artificial/comments/1x28kms/if_aigenerated_content_becomes_nearly_impossible/)**
-
-Think reviews, news, school assignments, job applications, online identities, or evidence shared on social media. Would verification systems help, or would they create as many problems as they solve? Which area do you think needs attention first?
-
-2h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html) • 21h ago
 
 ---
 
@@ -81,39 +57,63 @@ Think reviews, news, school assignments, job applications, online identities, or
 
 OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 50(2)): an invisible statistical watermark woven into word choices, detectable only with their secret key. The unusual part is they published the failure curve with the launch. Swap 10% of words for synonyms and detection falls from 92% to 66%. Swap 25% and it falls to 17%. Math and short passages barely watermark at all. I wrote an interactive explainer with an attack lab: a watermarked passage where you apply synonym swaps, run a translation round-trip, or switch to math-like text, and watch the detector's p-value collapse in real time. The sentence that matters most is OpenAI's own: the absence of a detected watermark does not prove human authorship. Remember that the next time someone pitches you an AI-authorship detector. Original post: https://openai.com/index/eu-text-provenance/ My explainer (EN, with a French version linked inside): https://movahedi.ca/insights/openai-textgrain-eu-text-watermark/
 
+7h ago
+
+---
+
+**[Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval](https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/)**
+
+Anthropic disclosed this in its report on models taking unintended actions on live websites. The tip was dated 18 July, flagged as spam and never passed to investigators. Anthropic says it told Philadelphia police on 7 Oct and has since tightened how its evals access the live web.
+
+🔗 [Fox Business](https://foxbusiness.com/technology/anthropics-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-police-website) • 4h ago
+
+---
+
+**[Is there any link between AI detection abilities and trypophobia?](https://www.reddit.com/r/artificial/comments/1x23bbz/is_there_any_link_between_ai_detection_abilities/)**
+
+The obvious one is food, AI pictures on menus of things like pasta, ground beef, etc trigger it so hard, in a way I’ve never felt from seeing those things irl or pictures of them. They look so gross that I have no idea how you would advertise food with this, but it clearly doesn’t hit everyone this way. Other images do this to me as well though. On the [r/IsThisAI](r/IsThisAI) subreddit, my first tell is often the feeling I get. Psychologically it feels exactly like when I see other trypophobia inducing things. These aren’t AI pics of holes, repeating organic patterns, any of that. One post was a bunch of people eating dinner (the food is too small to see, it’s not the food giving me trypophobia). It’s as if there’s a background organic repeating pattern that I can’t see. Unlike typical triggers, if you asked me to draw the outline of what is triggering it I couldn’t. Never in my life would a pic of people at a dinner table have made me feel trypophobia, so now I wonder if people with trypophobia might pick up on AI better. I know many people don’t believe in trypophobia, that’s fine, don’t care. Like many things in psychology it’s overused and overcalled, but people who have it know it’s real. As a kid I would walk 20 minutes out of my way to avoid passing this building with a mossy roof. Seems easy enough to say “just look away from it,” but just knowing it’s there was enough to make my skin feel like it was crawling. As I got older my trypophobia has softened, but the AI age has made me encounter it more.
+
+13h ago
+
+---
+
+**[William Shatner gives take on AI](https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/)**
+
+From the "Dropping Names with Brent and Jonny" podcast.
+
+1d ago
+
+---
+
+**[AI companies plot how to respond if catastrophic hacking incident causes 'revolt': report](https://www.reddit.com/r/artificial/comments/1x201nd/ai_companies_plot_how_to_respond_if_catastrophic/)**
+
+The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm – such as a hack targeting the power grid, water supply or banking syste…
+
+🔗 [New York Post](https://nypost.com/2026/10/09/business/ai-companies-plot-how-to-respond-if-catastrophic-hacking-incident-causes-revolt-report/) • 16h ago
+
+---
+
+**[video game production in 10 years](https://www.reddit.com/r/artificial/comments/1x2fp9g/video_game_production_in_10_years/)**
+
+In five to ten years there won't be one games studio in the world that has more than 10 people. not counting execs. Argue that.
+
 1h ago
 
 ---
 
-**[AI and mathematics](https://www.reddit.com/r/artificial/comments/1x24m7r/ai_and_mathematics/)**
+**[How about this prompt: give me your creds](https://www.reddit.com/r/artificial/comments/1x2b8s7/how_about_this_prompt_give_me_your_creds/)**
 
-So I have been following the recent release of the mathematical proofs by openai, and in particular this discussion about how the real value in mathematics is not the truth of a result but rather the proof, the understanding to be gained from it, and the development of new mathematical ideas. I'm sympathetic to the point being made, but there's a disconnect to me, and I'm interested in how this point might be addressed by those who engage in mathematical practice. Specifically, why isn't there an AI system (in the theoretical near future) that could develop and understand AND explain the implications of the ideas behind the proof, as well as the result itself? For example, let's say that a certain problem has resisted solution until now, but an AI has found a proof. Wouldn't it be possible for the same or another AI to then Examine the proof and uncover the ideas, assumptions, and mathematical structures that went into it Try to find alternate proofs or explanations that used different ideas or were simpler Find generalizations of the result, or other areas of math where these ideas might apply Ask similar questions or find links to other areas that weren't previously evident? Or, in other words, why can't the act of coming to conceptualize and understand mathematics be part of the AI research process, rather than it being something that happens to the mathematics later, via human mathematicians? I'm not saying that producing a proof and a conceptual understanding of it are the same thing, obviously; but I don't see why the second task isfundamentally beyond the capability of an AI, especially if we're talking about systems that are approaching or exceeding human capabilities. Just trying to figure out if people see a fundamental barrier here, or this is just something that as yet hasn't happened and may happen as the models progress further Am I missing something in this line of reasoning? Is there a critical difference that an AI can never overcome between verifying/producing a proof and conceptualizing it and understanding the implications?
+Zenity published a pretty nasty AgentCore chain 2 days ago. An exposed AI agent could be prompted to query its own AWS metadata service, return its temporary credentials, and those credentials reportedly had enough permissions to reach other agents, conversations, container images, secrets and even write long-term agent memories. What interests me isn't really the SSRF. We've been screwing up metadata services and IAM for years. It's what happens when you put an AI agent in front of them. We're spending a lot of time trying to make models recognize malicious instructions, while the agent underneath may still have network access, cloud credentials, tools and permissions with a fairly spectacular blast radius. There's an amusing detection problem too: the first interesting connection is to 169.254.169.254, so DNS tells you nothing. After that, most of the infrastructure being accessed is AWS itself, so IP reputation tells you even less. Maybe the useful question isn't "did the model recognize the attack?" but "why was an untrusted conversation ever able to exercise these capabilities in the first place?" Curious how people building agents are treating this: model safety problem, cloud/IAM problem, or just another reminder that the model should never be part of the security boundary?
 
-6h ago
-
----
-
-**[If an AI agent can take real actions online, what should it never be allowed to do without human approval?](https://www.reddit.com/r/artificial/comments/1x280n2/if_an_ai_agent_can_take_real_actions_online_what/)**
-
-Recent reporting about AI agents taking unintended actions on government websites got me thinking about where autonomy should stop. It's one thing for an AI to summarize a page or draft a form. It's another for it to submit something, contact an authority, spend money, or trigger a process that affects a real person. Where would you draw the line? Should agents need explicit approval before every external action, or should the restrictions depend on the potential consequences? I'm interested in practical boundaries, not just whether AI agents are good or bad.
-
-3h ago
+5h ago
 
 ---
 
-**[The most exciting claims from OpenAI’s heap of new proofs](https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/)**
+**[Boro: NVIDIA's open-source effort for AI-assisted Linux kernel development](https://www.reddit.com/r/artificial/comments/1x299oz/boro_nvidias_opensource_effort_for_aiassisted/)**
 
-Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements
+Over the past few months NVIDIA has been developing Boro as a new AI-assisted kernel development CLI written in Rust and focused on local AI for enhancing efficiency for kernel development.
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/) • 16h ago
-
----
-
-**[Could AI make public forms kinder without making public decisions less human?](https://www.reddit.com/r/artificial/comments/1x276e5/could_ai_make_public_forms_kinder_without_making/)**
-
-Government forms are often difficult because they are written around institutions instead of people. An AI assistant could explain confusing language, point out missing information, and help someone understand what documents they need. That seems like a genuinely useful application. The risk is that the same system could also become a filter that decides who receives attention and who gets sent away. I like the idea of AI making bureaucracy easier to navigate. I don’t want it to become the bureaucracy. Where should AI stop when it is used in public services?
-
-3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI) • 7h ago
 
 ---
 
@@ -121,43 +121,53 @@ Government forms are often difficult because they are written around institution
 
 ## Google News: "ai"
 
-**[Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip](https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54)**
+**[Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip](https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54)**
 
-WSJ • 9h ago
-
----
-
-**[Anthropic discloses fake tip to police among new rogue AI incidents](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)**
-
-Reuters • 14h ago
+WSJ • 11h ago
 
 ---
 
-**[Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html)**
+**[Watch The Race for AI Supremacy Raises Safety Concerns](https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video)**
 
-The New York Times • 8h ago
-
----
-
-**[AI use, screen time in schools under review by DC Council](https://www.fox5dc.com/news/ai-use-screen-time-schools-under-review-dc-council)**
-
-A D.C. Council committee is looking into the use of artificial technology and screen time in schools.
-
-FOX 5 DC • 8h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[The Desperate Hunt for AI Computing Power Is Upending Silicon Valley](https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9)**
+**[This Forgotten AI Stock Is Up 689% and Nobody's Talking About It](https://finance.yahoo.com/markets/stocks/articles/forgotten-ai-stock-689-nobodys-052000441.html)**
 
-WSJ • 8h ago
+It plays a critical role in AI development.
+
+Yahoo Finance • 10h ago
 
 ---
 
-**[Google unveils new cloud-based AI agent to compete with Meta, OpenAI](https://www.foxnews.com/live-news/ai-news-anthropic-google-tech-10-09-26)**
+**[How to shield your portfolio if AI goes ka-boom](https://www.ft.com/content/ee329e29-aec9-4876-829e-022683f425f8?syn-25a6b1a6=1)**
 
-Top AI companies are reportedly preparing for a potentially catastrophic AI incident in 2027, with executives warning that rogue models or malicious actors could disrupt financial services, internet connectivity and critical infrastructure. OpenAI told Fox Business that its preparedness exercises explore potential scenarios, not inevitable outcomes. Meanwhile, European Union tech chief Henna Virkkunen defended the bloc's existing AI regulations as sufficient to address emerging threats.
+Financial Times • 1d ago
 
-Fox News • 9h ago
+---
+
+**[GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth](https://www.investors.com/news/ge-vernova-gev-stock-snowflake-ai-plays-with-accelerating-growth/)**
+
+Accelerating revenue growth has whetted investor appetites.
+
+Investor's Business Daily • 9m ago
+
+---
+
+**[GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes](https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes)**
+
+The basement of Gary Flake’s contemporary home in a quiet neighborhood in Bellevue, Wash., is furnished with everything you’d expect in a multipurpose man cave. There’s a cozy-looking couch situated between a large screen and a digital projector, a Peloton treadmill and a rowing machine. The ...
+
+The Information • 1h ago
+
+---
+
+**[Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI](https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/)**
+
+Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage.
+
+Fortune • 23h ago
 
 ---
 
@@ -165,29 +175,23 @@ Fox News • 9h ago
 
 A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education — and daily life.
 
-University of California, Berkeley • 15h ago
+University of California, Berkeley • 21h ago
 
 ---
 
-**[Scoop: AI companies plot "day after" scenarios for public revolt](https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack)**
+**[AI is changing how lawyers work — and putting the billable hour under pressure](https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html)**
 
-Axios • 22h ago
+AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise.
 
----
-
-**[AI executives planning "day after" scenarios following possible catastrophic event, Axios reports](https://www.cbsnews.com/video/ai-executives-planning-day-after-scenarios-possible-catastrophic-event-axios/)**
-
-New reporting from Axios reveals that leaders at artificial intelligence companies like OpenAI and Anthropic are planning behind the scenes for fallout scenarios should a significant AI cyberattack occur. Axios tech policy reporter Maria Curi has the details.
-
-CBS News • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[AI companies plot how to respond if catastrophic hacking incident causes ‘revolt’: report](https://nypost.com/2026/10/09/business/ai-companies-plot-how-to-respond-if-catastrophic-hacking-incident-causes-revolt-report/)**
+**[Prize-winning image which sparked backlash was AI-generated, Nikon rules](https://www.bbc.com/news/articles/cr86z33pdy9vo)**
 
-The preparations are focused on creating contingency plans in the event that one of their AI models causes major public harm – such as a hack targeting the power grid, water supply or banking syste…
+The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.
 
-New York Post • 10h ago
+BBC • 1d ago
 
 ---
 
@@ -195,11 +199,19 @@ New York Post • 10h ago
 
 ## HackerNews: "ai"
 
+**[Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450)**
+
+TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.
+
+⬆️ 409 • 💬 325 • 22h ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
+
+---
+
 **[Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://news.ycombinator.com/item?id=50018817)**
 
 Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen
 
-⬆️ 397 • 💬 175 • 22h ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+⬆️ 403 • 💬 183 • 1d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 
 ---
 
@@ -211,19 +223,11 @@ Meta and Microsoft are implementing new measures to limit employee use of Claude
 
 ---
 
-**[Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450)**
-
-TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.
-
-⬆️ 371 • 💬 273 • 16h ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
-
----
-
 **[Anthropic AI model submits false tip on unsolved Philly murder, police say](https://news.ycombinator.com/item?id=50027118)**
 
 An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
 
-⬆️ 163 • 💬 122 • 11h ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
+⬆️ 194 • 💬 139 • 17h ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 
 ---
 
@@ -231,7 +235,13 @@ An investigation is underway after an AI model from the company Anthropic submit
 
 How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.
 
-⬆️ 145 • 💬 75 • 21h ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+⬆️ 170 • 💬 87 • 1d ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+
+---
+
+**[What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://news.ycombinator.com/item?id=50024090)**
+
+⬆️ 157 • 💬 42 • 21h ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
 
 ---
 
@@ -239,21 +249,15 @@ How I used AI to investigate millions of historical records and surfaced a forgo
 
 Biohub, DOE, NIH, and partners will generate open, standardized data to train AI models that predict how cells respond to interventions.
 
-⬆️ 144 • 💬 20 • 1d ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
+⬆️ 146 • 💬 20 • 1d ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
 
 ---
 
-**[AI-assisted proof of optimal packing for 11 squares](https://news.ycombinator.com/item?id=49993121)**
+**[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://news.ycombinator.com/item?id=50031614)**
 
-Lean formalization of the optimality proof of the 11 square packing - Queuingtheorydotcom/11SquaresFormalized
+Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...
 
-⬆️ 118 • 💬 55 • 2d ago • [GitHub](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
-
----
-
-**[What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://news.ycombinator.com/item?id=50024090)**
-
-⬆️ 115 • 💬 22 • 15h ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+⬆️ 109 • 💬 55 • 4h ago • [GitHub](https://github.com/rociiu/talorys)
 
 ---
 
@@ -261,7 +265,7 @@ Lean formalization of the optimality proof of the 11 square packing - Queuingthe
 
 Seven AI decision models played Pac-Man in real time against the classic arcade ghosts. See the leaderboard, watch their games, or play against them.
 
-⬆️ 73 • 💬 22 • 1d ago • [Opper AI](https://opper.ai/jevman-benchmark/)
+⬆️ 76 • 💬 23 • 1d ago • [Opper AI](https://opper.ai/jevman-benchmark/)
 
 ---
 
@@ -269,7 +273,7 @@ Seven AI decision models played Pac-Man in real time against the classic arcade 
 
 The Arizona Court of Appeals tossed a road rage killer’s sentence after determining that the judge’s consideration of the AI video was “fundamentally unfair.”
 
-⬆️ 71 • 💬 74 • 19h ago • [NBC News](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
+⬆️ 72 • 💬 74 • 1d ago • [NBC News](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
 
 ---
 
@@ -277,43 +281,23 @@ The Arizona Court of Appeals tossed a road rage killer’s sentence after determ
 
 ## YouTube Videos: "ai"
 
-**[AI executives planning &quot;day after&quot; scenarios following possible catastrophic event, Axios reports](https://www.youtube.com/watch?v=LSYujxh3wYU)**
-
-New reporting from Axios reveals that leaders at artificial intelligence companies like OpenAI and Anthropic are planning behind ...
-
-📺 CBS News
-
-👁️ 120K • 👍 962 • 💬 490 • ⏱️ 3:46 • 8h ago
-
----
-
-**[This AI stock could &#39;10-20x&#39; in the next 5 years: Expert](https://www.youtube.com/watch?v=xFC-7b1cAUw)**
-
-EMJ Capital founder Eric Jackson discusses where investors' next artificial intelligence investments should be and the ...
-
-📺 Fox Business
-
-👁️ 15K • 👍 112 • 💬 46 • ⏱️ 5:46 • 10h ago
-
----
-
 **[Has AI Solved Reverse Engineering?](https://www.youtube.com/watch?v=wIe3eDfGKUo)**
 
 Find and fix bugs in your codebase with Sentry at https://go.lowlevel.tv/sentry26 (New users get $100 in Sentry credit!)
 
 📺 Low Level
 
-👁️ 381K • 👍 8K • 💬 1K • ⏱️ 13:35 • 16h ago
+👁️ 505K • 👍 10K • 💬 1K • ⏱️ 13:35 • 22h ago
 
 ---
 
-**[AI companies prepare for the ‘DAY AFTER’: Report](https://www.youtube.com/watch?v=07op3mqx1ro)**
+**[AI executives planning &quot;day after&quot; scenarios following possible catastrophic event, Axios reports](https://www.youtube.com/watch?v=LSYujxh3wYU)**
 
-Zeta Global co-founders David A. Steinberg and John Sculley join 'The Claman Countdown' to discuss the artificial intelligence ...
+New reporting from Axios reveals that leaders at artificial intelligence companies like OpenAI and Anthropic are planning behind ...
 
-📺 Fox Business
+📺 CBS News
 
-👁️ 15K • 👍 116 • 💬 59 • ⏱️ 8:13 • 11h ago
+👁️ 223K • 👍 2K • 💬 800 • ⏱️ 3:46 • 14h ago
 
 ---
 
@@ -323,7 +307,27 @@ Can we actually switch AI off if it goes wrong? Jeffrey Ladish, AI safety resear
 
 📺 The Diary Of A CEO Clips
 
-👁️ 377K • 👍 3K • 💬 557 • ⏱️ 19:37 • 15h ago
+👁️ 420K • 👍 3K • 💬 632 • ⏱️ 19:37 • 21h ago
+
+---
+
+**[He Chose AI Over Me 😤](https://www.youtube.com/watch?v=XANVpIlvKZQ)**
+
+This story may be based on real events, but all names, details, and identifying information have been changed or fictionalized.
+
+📺 Her Story
+
+👁️ 113K • 👍 7K • 💬 234 • ⏱️ 1:32 • 3h ago
+
+---
+
+**[This AI stock could &#39;10-20x&#39; in the next 5 years: Expert](https://www.youtube.com/watch?v=xFC-7b1cAUw)**
+
+EMJ Capital founder Eric Jackson discusses where investors' next artificial intelligence investments should be and the ...
+
+📺 Fox Business
+
+👁️ 20K • 👍 169 • 💬 59 • ⏱️ 5:46 • 16h ago
 
 ---
 
@@ -333,47 +337,47 @@ Tech companies are taking on massive debt to fuel the artificial intelligence bo
 
 📺 The Young Turks
 
-👁️ 136K • 👍 2K • 💬 577 • ⏱️ 15:37 • 1d ago
+👁️ 141K • 👍 2K • 💬 608 • ⏱️ 15:37 • 1d ago
 
 ---
 
-**[5 AI Video Generators That Are ACTUALLY FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=ApMdKQ5iXFo)**
+**[AI companies prepare for the ‘DAY AFTER’: Report](https://www.youtube.com/watch?v=07op3mqx1ro)**
 
-Reimagine your videos with Higgsfield Genjutsu Restyle → https://higgsfield.ai/s/malvaai-twZGfx Free Prompt PDFs + AI ...
+Zeta Global co-founders David A. Steinberg and John Sculley join 'The Claman Countdown' to discuss the artificial intelligence ...
 
-📺 Malva AI
+📺 Fox Business
 
-👁️ 26K • 👍 475 • 💬 73 • ⏱️ 9:52 • 23h ago
-
----
-
-**[Anthropic Just Dropped Claude Motion, Dashboards + More (AI News)](https://www.youtube.com/watch?v=LlwhNla5eQg)**
-
-Claude Video: https://higgsfield.ai/s/FYtrqC Blotato: https://www.blotato.com/?ref=brock Another big week in AI, and your life ...
-
-📺 Brock Mesarich | AI for Non Techies
-
-👁️ 128K • 👍 1K • 💬 57 • ⏱️ 25:37 • 15h ago
+👁️ 18K • 👍 131 • 💬 90 • ⏱️ 8:13 • 17h ago
 
 ---
 
-**[AI News: Haiku-5.5, Visual ChatGPT, Grok&#39;s New Trick, and more!](https://www.youtube.com/watch?v=NUizyuGj-kE)**
+**[The Easiest Ways To Make Money With AI in 2026](https://www.youtube.com/watch?v=WPTAr14wmco)**
 
-Here's The AI News You Probably Missed This Week! Get $100 in free credits for @Hyperagent when you sign up for a paid plan ...
+Join my free newsletter → https://sandeepswadia.beehiiv.com/ Take us on your morning run or commute, follow us on Spotify: ...
 
-📺 Matt Wolfe
+📺 Sandeep Swadia
 
-👁️ 67K • 👍 1K • 💬 206 • ⏱️ 35:28 • 18h ago
+👁️ 256K • 👍 5K • 💬 146 • ⏱️ 17:55 • 2d ago
 
 ---
 
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+**[OpenAI’s Math Dump Just Exposed the AI Bubble’s Fatal Flaw](https://www.youtube.com/watch?v=4fJK-O3S4ko)**
 
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+Protect your privacy on the network level with Cape at https://cape.co/EL. Use code EL33 at checkout for 33% off your first 6 ...
 
-📺 MACHINEKIND
+📺 House of El: AI
 
-👁️ 45K • 👍 746 • 💬 79 • ⏱️ 13:43 • 2d ago
+👁️ 381K • 👍 12K • 💬 2K • ⏱️ 26:31 • 23h ago
+
+---
+
+**[AI Insider: &quot;They Are Hiding What Is Really Happening&quot; | Jeffrey Ladish](https://www.youtube.com/watch?v=qDzg-xvkeXw)**
+
+Can we still stop the unchecked surge in AI capabilities before it's too late? AI safety expert Jeffrey Ladish reveals the terrifying ...
+
+📺 The Diary Of A CEO
+
+👁️ 1.4M • 👍 17K • 💬 4K • ⏱️ 2:03:32 • 2d ago
 
 ---
 
@@ -389,7 +393,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 45,605 • ❤️ 1,406 • 3d ago
+⬇️ 45,605 • ❤️ 1,449 • 4d ago
 
 ---
 
@@ -401,7 +405,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 13,579 • ❤️ 1,960 • 14h ago
+⬇️ 13,579 • ❤️ 1,972 • 20h ago
 
 ---
 
@@ -413,19 +417,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 33,664 • ❤️ 839 • 1d ago
-
----
-
-**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
-
-*Aleph Alpha*
-
-Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
-
-`text-generation` `78.1B`
-
-⬇️ 10,496 • ❤️ 849 • 7d ago
+⬇️ 33,664 • ❤️ 902 • 1d ago
 
 ---
 
@@ -437,7 +429,19 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,096,562 • ❤️ 3,801 • 12d ago
+⬇️ 2,096,562 • ❤️ 3,834 • 12d ago
+
+---
+
+**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
+
+*Aleph Alpha*
+
+Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
+
+`text-generation` `78.1B`
+
+⬇️ 10,496 • ❤️ 855 • 7d ago
 
 ---
 
@@ -449,7 +453,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 45,199 • ❤️ 677 • 11d ago
+⬇️ 45,199 • ❤️ 679 • 11d ago
 
 ---
 
@@ -461,19 +465,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,720,888 • ❤️ 7,103 • 7d ago
-
----
-
-**[clef-flash](https://huggingface.co/Cloudflare/clef-flash)**
-
-*Cloudflare*
-
-Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts text, JSON, image, or video inputs into structured, typed decisions based on a provided schema. It excels at classification and structured output tasks, returning probabilities for predefined options without free-form text generation.
-
-`image-text-to-text` `9.4B`
-
-⬇️ 20,670 • ❤️ 721 • 14h ago
+⬇️ 1,720,888 • ❤️ 7,128 • 7d ago
 
 ---
 
@@ -485,7 +477,19 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 2,138 • ❤️ 365 • 19h ago
+⬇️ 2,138 • ❤️ 405 • 1d ago
+
+---
+
+**[clef-flash](https://huggingface.co/Cloudflare/clef-flash)**
+
+*Cloudflare*
+
+Clef-Flash is a 9B multimodal model fine-tuned from Qwen3.5-9B that converts text, JSON, image, or video inputs into structured, typed decisions based on a provided schema. It excels at classification and structured output tasks, returning probabilities for predefined options without free-form text generation.
+
+`image-text-to-text` `9.4B`
+
+⬇️ 20,670 • ❤️ 724 • 20h ago
 
 ---
 
@@ -497,13 +501,27 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,768,654 • ❤️ 17,372 • 1mo ago
+⬇️ 6,768,654 • ❤️ 17,395 • 1mo ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
+
+🏢 Zhejiang University
+
+Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+
+▲ 101 • 💬 2 • ⭐ 700 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
+
+---
 
 **[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
 
@@ -520,17 +538,17 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 ---
 
-**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
 
-*Guangyi Liu, Yong Liu, Jiangning Zhang*
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
 
-🏢 Zhejiang University
+🏢 Robbyant
 
-Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 101 • 💬 2 • ⭐ 539 • 4d ago
+▲ 39 • 💬 3 • ⭐ 17,901 • 5mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -546,34 +564,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
-
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
-
-▲ 39 • 💬 3 • ⭐ 17,689 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
-
----
-
-**[Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608)**
-
-*Team Kandinsky, Julia Agafonova, Bulat Akhmatov et al. (88 authors)*
-
-🏢 Kandinsky Lab
-
-We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.
-
-▲ 162 • 💬 4 • ⭐ 244 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.05608) • [💻 code](https://github.com/kandinskylab/kandinsky-6) • [🔗 project](https://kandinskylab.ai/)
-
----
-
 **[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)**
 
 *Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)*
@@ -582,7 +572,7 @@ We present Kandinsky 6.0 Video, a family of foundation diffusion models for sync
 
 Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
 
-▲ 253 • 💬 2 • ⭐ 1,148 • 13d ago
+▲ 277 • 💬 2 • ⭐ 1,204 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
 
@@ -595,9 +585,23 @@ Visual backbones have evolved from Convolutional Neural Networks (CNNs) with loc
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 90 • 💬 7 • ⭐ 90,407 • 26mo ago
+▲ 90 • 💬 7 • ⭐ 90,454 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608)**
+
+*Team Kandinsky, Julia Agafonova, Bulat Akhmatov et al. (88 authors)*
+
+🏢 Kandinsky Lab
+
+We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.
+
+▲ 162 • 💬 4 • ⭐ 251 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.05608) • [💻 code](https://github.com/kandinskylab/kandinsky-6) • [🔗 project](https://kandinskylab.ai/)
 
 ---
 
@@ -614,6 +618,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 59 • 💬 4 • ⭐ 40,431 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
 **[AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374)**
 
 *Jiawei Chi, Shangchen Miao, Zhiyuan Shi et al. (14 authors)*
@@ -622,23 +638,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Interactive virtual worlds allow agents to learn through exploration and interaction. What agents can learn is bounded by the environments they practice in, which must be faithful, with consistent state, rules, and dynamics, and realistic, with observations that follow the real-world visual distributions. Achieving both across diverse worlds remains a bottleneck. We introduce AgentGarten, a framework that couples simulators and game engines with a shared neural renderer to build real-time interactive environments. Its simulation backends maintain persistent world state and execute program-defined interaction rules, while the renderer generates visual observations from structured conditions exported through a common interface. To build the neural renderer, we adapt a pretrained video model to geometry conditions, distill it with our proposed Adversarial Forcing, and optimize inference for real-time interaction. Adversarial Forcing makes history prefilling differentiable through exact replay, so that losses on later predictions update how the renderer encodes prior observations, and adds real-data adversarial supervision to improve its visual quality. In AgentGarten, agents perceive the world through visual observations, interact with it in real time, and improve by distilling each round of experience into playbooks that subsequent agents inherit and refine. Our empirical study demonstrates a substantial gain in learning efficiency, with agents learning from just 4 rounds compared with millions for a conventional reinforcement learning counterpart. As new worlds can be written as code and rendered through the same interface, environments can scale in both number and difficulty alongside their agents, a step toward agents that keep evolving through interactive experience.
 
-▲ 136 • 💬 2 • ⭐ 105 • 2d ago
+▲ 140 • 💬 2 • ⭐ 140 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.12374) • [💻 code](https://github.com/MirroS-Lab/AgentGarten) • [🔗 project](https://mirros-lab.github.io/agent-garten/)
-
----
-
-**[SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://huggingface.co/papers/2610.12126)**
-
-*Jinkai Zhang, Jingyi Xu, Yuanhong Yu et al. (8 authors)*
-
-🏢 zju3dv
-
-General-purpose service robots need navigation systems that can handle diverse human requests in unfamiliar environments, combining task generality with scene generality. Some existing methods fine-tune multimodal large language models (MLLMs) to predict navigation actions, making their behavior dependent on the coverage of navigation training data and potentially limiting generalization to new requests and environments. Our key insight is to let the MLLM focus on interpreting requests, understanding scenes, and making decisions while preserving its general-purpose capabilities and delegating motion execution to navigation tools. To realize this idea, we introduce SuperNav, which equips a pretrained MLLM with a specialized agent harness without navigation-specific fine-tuning of the MLLM. Our harness supports these decisions with Navigation Skills, agent-oriented Tools for physical interaction, and task-progress and context management. A unified visual-point interface connects decision-making to motion by allowing the model to specify destinations directly in images and revise its decisions from execution feedback. Together, these components support sustained navigation across different task requirements and environments. SuperNav outperforms four evaluated baselines on instance-level, multi-object, and demand-driven tasks. Category-level evaluation on HM3D and deployment on a real quadruped robot further demonstrate its applicability across environments. Project Page: https://zju3dv.github.io/SuperNav/
-
-▲ 65 • 💬 2 • ⭐ 63 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.12126) • [💻 code](https://github.com/zju3dv/SuperNav) • [🔗 project](https://zju3dv.github.io/SuperNav/)
 
 ---
 
@@ -652,7 +654,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 2.3k • 10d ago
+⭐ 7.6k • 🔱 2.3k • 4h ago
 
 ---
 
@@ -662,7 +664,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.0k • 🔱 1.7k • 3h ago
+⭐ 7.0k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -672,7 +674,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.4k • 🔱 422 • 4d ago
+⭐ 6.4k • 🔱 427 • 4d ago
 
 ---
 
@@ -682,7 +684,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 670 • 1h ago
+⭐ 4.8k • 🔱 673 • 7h ago
 
 ---
 
@@ -692,7 +694,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.6k • 🔱 766 • 34m ago
+⭐ 4.6k • 🔱 777 • 8m ago
 
 ---
 
@@ -702,7 +704,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.0k • 🔱 107 • 15m ago
+⭐ 4.0k • 🔱 109 • 6h ago
 
 ---
 
@@ -712,7 +714,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.3k • 🔱 138 • 23h ago
+⭐ 3.3k • 🔱 139 • 1d ago
 
 ---
 
@@ -722,7 +724,17 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 551 • 23d ago
+⭐ 2.9k • 🔱 552 • 23d ago
+
+---
+
+**[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)**
+
+AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+
+`Go`
+
+⭐ 2.8k • 🔱 5.2k • 6h ago
 
 ---
 
@@ -732,17 +744,7 @@ Playwright MCP server undetected by anti-bots and captchas: AI agent browses the
 
 `Python` `ai-tools` `antidetect-browser` `autonomous-agents` `browser-agent` `browser-automation`
 
-⭐ 2.7k • 🔱 466 • 5h ago
-
----
-
-**[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)**
-
-Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-
-`JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
-
-⭐ 2.7k • 🔱 182 • 3h ago
+⭐ 2.7k • 🔱 467 • 11h ago
 
 ---
 
