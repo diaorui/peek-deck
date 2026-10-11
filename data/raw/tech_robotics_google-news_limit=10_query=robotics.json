@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVk50RUpFaXkzbldiZF90SW5QUXhQdV9ma3hYMURSX3V4M3hGQ0htR1lKWEgtMmlNd0ZaNnVUY1ZBRGduanhZVWhvMnIyQXFRLUNYVUJXZ2kwa0M1ZTVxSnlrUEsyb2NiZXBHV2VkTFNwYnBoa1pYUXJMLW42WjUtZy1pNG51bVVHY2Zv?oc=5",
+      "pub_date": 1791633780.0,
+      "article_url": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/walmart-trouble-expensive-robots-warehouse.jpg?quality=85&w=1200",
+      "description": "Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work."
+    },
+    {
       "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
       "source": "MIT Technology Review",
       "source_url": "https://www.technologyreview.com",
@@ -15,24 +25,14 @@
       "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
     },
     {
-      "headline": "Ultra raises $62 million for fast-growing \u2018robots as a service\u2019 business, announces tie-up with AI research firm Physical Intelligence",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5",
-      "pub_date": 1791541980.0,
-      "article_url": "https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/founders_retouched_023_v3_1024_1bfc74.png?resize=1200,600",
-      "description": "The raise consisted of a Series A seed round led by Framework Ventures plus an earlier seed round."
-    },
-    {
-      "headline": "This Robot Will Deliver Your Food, if It Doesn\u2019t Get Smashed First",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HblJLVmJVZGVOdm5Dc0JrMmRqRnhCQ3I1ZjJGb1I3ZGU0WnV4U2lLM1JOa1NhX2pjZFN2b19kUXExS0NpcU1RS3ZMQ28yb1lTV2N6MVNVMUFXTE5LbE1xa3VienFZVlVjYURFaFVaUko0b3lrNkE?oc=5",
-      "pub_date": 1791622807.0,
-      "article_url": "https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html",
-      "image": null,
-      "description": null
+      "headline": "Minuscule Swiss fiber motor keeps robots squishy and pliable",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWS21HVmdXRlR5QWtKMTltYmtoUkZhcmxpcGhuZDROTWlHM3RLZjFVZjI4ZVE2WVVlN1A0cDByLWo4VjFzMUQ1aVBKSmsweVRpNUhpZXNIME9kSks0d2w3SnVRTWkzNEk?oc=5",
+      "pub_date": 1791716835.0,
+      "article_url": "https://newatlas.com/robotics/fibermotor-flexible-motor/",
+      "image": "https://assets.newatlas.com/dims4/default/c933064/2147483647/strip/true/crop/6240x3276+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F96%2F7d%2F0a1503e3423abeb286202efb8fd1%2F6240x3504-1.jpg&na.image_optimisation=0",
+      "description": "If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber."
     },
     {
       "headline": "Gecko Robotics partners with Anduril to aid submarine manufacturing",
@@ -55,32 +55,22 @@
       "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
     },
     {
-      "headline": "Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVk50RUpFaXkzbldiZF90SW5QUXhQdV9ma3hYMURSX3V4M3hGQ0htR1lKWEgtMmlNd0ZaNnVUY1ZBRGduanhZVWhvMnIyQXFRLUNYVUJXZ2kwa0M1ZTVxSnlrUEsyb2NiZXBHV2VkTFNwYnBoa1pYUXJMLW42WjUtZy1pNG51bVVHY2Zv?oc=5",
-      "pub_date": 1791633780.0,
-      "article_url": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/walmart-trouble-expensive-robots-warehouse.jpg?quality=85&w=1200",
-      "description": "Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work."
+      "headline": "Watch: Two-armed robot throws, catches, and hits balls like a baseball champ",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWRyTWEzejZHVnNwQ2lCTm9lOUpBcGFWanJqOExTV01rUjlRaWFZbWVfbmZ4VVFzUWo3cUtoN3o2TEp3bk1FdlM5Q0JEU09JSmZyQ3dENC1Wek96c0VZblZSVXhCVW9LRVdaQ0xuc2FxNm5iUU13NzdUZjJzdW9LRWxwUzN0enkyYkppTVpVa0lrd2NOWjdlek5n?oc=5",
+      "pub_date": 1791653760.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/athenazero-two-armed-robot-throws-catches-balls",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Baseball-robot.jpg",
+      "description": "RAI's AthenaZero robot has demonstrated its ability to throw, catch, and hit balls using coordinated movements and a low-inertia design."
     },
     {
       "headline": "Inside the \u2018robot gyms\u2019 training machines for the real world",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU1pd1pSTGtQdHFiMzlxazZJaFVYVFhwTU5IU0tnMzJTeEVlZFhlUXotbmtNN0RSUnp4VHRfX1czbTJmQXAzcFFQeW1FOW5sWTFhSVBVb0Qyc1IxdmFYMXp6Mmo5cF9rbWNyX2dEMzlzR1YyY1RVU29SU2lTcGVWZTFRams?oc=5",
-      "pub_date": 1791604834.0,
+      "pub_date": 1791604807.0,
       "article_url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "What Are Humanoid Robots? Inside The Growing Industry And Where It\u2019s Headed",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyWTE2Qm1IajJPdnRZUGxiaThPWV84TVJPeUd5S0VoSGNJV0M4QXBWeC05MVVMWGN2NUs0MF9Id0lLR0pwMDN3NXA0UG9iZVNWcUFEWUdrNUJRNVNlS20wTkNpM282bUFHM3pGQUtuOWw2M0RIbUE4YTh1cHFTdw?oc=5",
-      "pub_date": 1791630000.0,
-      "article_url": "https://www.forbes.com/sites/technology/article/what-is-a-humanoid-robot/",
       "image": null,
       "description": null
     },
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Walmart\u2019s multibillion-dollar push to replace workers with robots hits snags on dog food, cardboard boxes: report",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXJKQjYwQ1BRQ0FqRW9HVnYwckFlQktuTXYxVHo5dXhvYjhtRmtQQWZicnpSd1U4bFU3TEZRQ2ZWeVBPekdDYURkN0szdGtzR3dFTlI0RmxnY3NvMC1GcE1FTFF6OEMzLVhsZ2JUQUxtN3lzUW9QVXpUaVZ1bkEzZUo5VFFyb3JBY3VaWWtyOHRWMEZUMy1QOHJKbTVOUW5UODlQcjdBRVZidU1FWUhfTmp0ejM2YW9RcUpNcnhkQUNqQ0RnbUg4WC1UYVE1YUo0X19jVkxoWmZNc2sxVzhwUUl3SFY?oc=5",
-      "pub_date": 1791567360.0,
-      "article_url": "https://nypost.com/2026/10/09/business/walmarts-multibillion-dollar-push-to-replace-workers-with-robots-hits-snags-on-dog-food-cardboard-boxes-report/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144374391.jpg?quality=75&strip=all&w=1200",
-      "description": "Walmart expects its spending on automation to peak this year and next, but it also believes the new tech will eventually require fewer warehouse workers, cutting down costs."
+      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
+      "pub_date": 1791500415.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models | NVIDIA Technical Blog",
+      "source": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb29oVGtZV3BUeFkwcENKZHJ3UmtzaTAtdXFkU3FfWDFScVo5VnlJRkt3QU0xaVBKRVItcjVndjZaOFFKOWJtRWQ2N0k4cHdoYl9QX2xaY0JIaktfSEJyT2RsVXRVSDZ5SmFTaDZRYnBtbF9EaVJCS1ktVU9pQUs1Y0xaSUtGc3dNcFk0UXhEQkh4NV91OXZ1cEJBMTlLR01NVExxaDdFNXc?oc=5",
+      "pub_date": 1791495220.0,
+      "article_url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif",
+      "description": "Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-11T09:10:56.400643+00:00"
+  "fetched_at": "2026-10-11T15:53:16.739500+00:00"
 }

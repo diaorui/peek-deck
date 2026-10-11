@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-09-11T11:43:13.970496+00:00",
-  "data": "LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.",
+  "cached_at": "2026-10-11T15:53:30.275868+00:00",
+  "data": "LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.",
   "model_id": "Lightricks/LTX-2.5"
 }

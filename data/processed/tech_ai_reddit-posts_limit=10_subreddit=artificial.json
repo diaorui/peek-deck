@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "The Internet is wild\ud83d\ude02\ud83d\ude02",
+      "author": "Sevives",
+      "url": "https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/",
+      "published": 1791721227.0,
+      "thumbnail": "https://preview.redd.it/ciij72r3ztuh1.jpeg?width=320&crop=smart&auto=webp&s=2b3059de2f87112cc270d21d0448761c1bc1589c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs",
       "author": "lulzxdxdxd",
       "url": "https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/",
@@ -11,6 +22,28 @@
       "site_name": "Kotaku",
       "favicon": "https://kotaku.com/apple-touch-icon.png",
       "description": "Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight"
+    },
+    {
+      "title": "Jeff Bezos says AI will deliver a 3-day work week \u2014 while Amazon cuts 30,000 jobs",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/",
+      "published": 1791720172.0,
+      "thumbnail": "https://external-preview.redd.it/CIm3HBtC93LJIUbCnFn7xomYdV3A9PRALqSVk7h7JKs.jpeg?width=640&crop=smart&auto=webp&s=4a4a0dd8acb6e8d9fd11f2ab54a20597984fc430",
+      "external_url": "https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/apple-touch-icon.png",
+      "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage."
+    },
+    {
+      "title": "Creators of an AI-generated sci-fi series said it took $38,000 in AI credits and 8 to 10 generations per shot",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_aigenerated_scifi_series_said_it/",
+      "published": 1791723784.0,
+      "thumbnail": "https://external-preview.redd.it/MTXwcetQww5GUV8HE_a9ncH6iufA-V_-Z3YCoQaBSvw.jpeg?width=640&crop=smart&auto=webp&s=32970abed03bc91211364b1e36fb8e62b78a4edc",
+      "external_url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "The filmmakers behind the AI-generated TV series called \"The Arc\" share what went into making it, including $38,000 in AI credits."
     },
     {
       "title": "Non-text AI model maker Jev valued at $7.5B just weeks after launch",
@@ -35,17 +68,6 @@
       "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
     },
     {
-      "title": "Man wins three-year parking ticket battle after using ChatGPT as his lawyer",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/",
-      "published": 1791649859.0,
-      "thumbnail": "https://external-preview.redd.it/SdNjqGkgbQMTX8GAAe68BHEvQRDi1ksosfECSH5YLHA.jpeg?width=640&crop=smart&auto=webp&s=52f654444e5fdd42560cd1f845a30925b6f5dd2d",
-      "external_url": "https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.the-independent.com/img/shortcut-icons/icon-192x192.png",
-      "description": "Rafal Goral says he was fined \u00a3100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023"
-    },
-    {
       "title": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
       "author": "lulzxdxdxd",
       "url": "https://www.reddit.com/r/artificial/comments/1x2ycw7/microsofts_satya_nadella_says_ai_models_need_an/",
@@ -68,49 +90,27 @@
       "description": "I am new to video editing and I often watch tutorials on YouTube. Recently I have been asking AI to teach me certain things in Premiere, however the responses vastly differ from AI to AI. So far I found out that Gemini is straight-up lying, since asking the same question in different chats doesn't always provide you with the same response, plus it almost always tries to give ridiculously complex workarounds to very basic things. When called out, it just apologizes, but keeps doing the same thing. I used DouBao as well, which is Chinese, and not always up to date, I guess, since when asked how to apply LUTs in Premiere, it suggested to use Davinci instead, as it was \"easier\", but I found that in Premiere it is much more convenient. ChatGPT (the free version) has a very small limit on uploads, which I frequently use for faster responses (sending Premiere screenshots mostly). Haven't used Claude or DeepSeek yet. Which AI model do you guys think is the best for learning Premiere, if you've ever used one for that?"
     },
     {
-      "title": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake.",
+      "title": "Man wins three-year parking ticket battle after using ChatGPT as his lawyer",
       "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/",
-      "published": 1791660714.0,
-      "thumbnail": "https://external-preview.redd.it/dFl-nnfLzmVsPpMcsYel_3tb0ZABohWl6CkCHJBPlzk.jpeg?width=640&crop=smart&auto=webp&s=810c907a4ee992e24fe9f177154f6422fa581709",
-      "external_url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-      "site_name": "The Washington Post",
-      "favicon": "https://www.washingtonpost.com/touch-icon-iphone.png",
-      "description": "ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said."
+      "url": "https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/",
+      "published": 1791649859.0,
+      "thumbnail": "https://external-preview.redd.it/SdNjqGkgbQMTX8GAAe68BHEvQRDi1ksosfECSH5YLHA.jpeg?width=640&crop=smart&auto=webp&s=52f654444e5fdd42560cd1f845a30925b6f5dd2d",
+      "external_url": "https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.the-independent.com/img/shortcut-icons/icon-192x192.png",
+      "description": "Rafal Goral says he was fined \u00a3100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023"
     },
     {
-      "title": "We're breaching the point where the \"taste\" of a model's decisions is becoming as or more important than its raw intelligence",
-      "author": "DynaBeast",
-      "url": "https://www.reddit.com/r/artificial/comments/1x32fn9/were_breaching_the_point_where_the_taste_of_a/",
-      "published": 1791705681.0,
+      "title": "its kind of hard to look for a video generator now.",
+      "author": "RazzleDazzlePied",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3b2e4/its_kind_of_hard_to_look_for_a_video_generator_now/",
+      "published": 1791732539.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I think I can say with some confidence that Opus 5.5 has begun to reach a point in capability where it can solve most technical problems in a competent and acceptable manner. As a result, a vast majority of the decisions one needs to make when working with it have been boiled down to decisions of personal taste and opinion on design, rather than just focusing on what the most pragmatic solution is. Because matters of taste are far from objective, I think we're going to begin to see more of a split in model offerings based on the kinds of taste each model has. If each model can do the work at an acceptable level from a purely utilitarian standpoint, then the only remaining decisions become *how* the model completes that work, and what sorts of decisions it makes with regards to styling, ui, ux, and so on. Many of these questions do not have definitive \"correct\" answers, and depend entirely on what appeals to the developer personally. Then, the model that becomes the most efficient to work with *for you*, is the one that shares your personal taste the most often, and has to be corrected the least amount during development. We've already begun to see this with Opus 5.5 as well, with people beginning to compliment not just its raw capability, but also its design sensibility and general taste with regards to ui and ux development. As models get smarter I think we'll see a strata of models that have different \"styles\" emerge, to appeal to different types of individuals with different taste profiles."
-    },
-    {
-      "title": "Observations On Artificial Intelligence for Everyday People",
-      "author": "No-Pride-8979",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/",
-      "published": 1791692603.0,
-      "thumbnail": "https://external-preview.redd.it/6WbTqL4WTegB0ppXQHVOBRdAPtjrcXdSV284z1xuY-A.jpeg?width=640&crop=smart&auto=webp&s=00f18eb59b440ef70ac25fa2dc100777f2297c9a",
-      "external_url": "https://substack.com/@williamowencooper/note/p-218052066?r=ewfqx",
-      "site_name": "substack.com",
-      "favicon": null,
-      "description": "A few thoughts."
-    },
-    {
-      "title": "Task-structured modularity emerges in artificial networks and aligns with brain architecture",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/",
-      "published": 1791698450.0,
-      "thumbnail": "https://external-preview.redd.it/DXCFS-80p_LuopTqjBGdM_iiFH9KojlUqh5T4lS5o6E.png?width=640&crop=smart&auto=webp&s=04121d94105b4e04e24a5bc928623e011d01c06a",
-      "external_url": "https://www.nature.com/articles/s42256-026-01306-9",
-      "site_name": "nature.com",
-      "favicon": "https://www.nature.com/favicon.ico",
-      "description": null
+      "description": "is it just me or is it actually harder to try to actually use an ai video generator that is just like tiktok ai cast. because ive tried so hard to look for one. idk man."
     }
   ],
-  "fetched_at": "2026-10-11T09:10:32.562597+00:00"
+  "fetched_at": "2026-10-11T15:52:55.405483+00:00"
 }
