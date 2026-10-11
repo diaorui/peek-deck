@@ -46,6 +46,28 @@
       "description": "Rafal Goral says he was fined \u00a3100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023"
     },
     {
+      "title": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2ycw7/microsofts_satya_nadella_says_ai_models_need_an/",
+      "published": 1791691209.0,
+      "thumbnail": "https://external-preview.redd.it/WZLB2jhozHa-ToH90Is3_DKh3wU3pHRVklU2jyyQ2KQ.png?width=640&crop=smart&auto=webp&s=7d6127b7dc662ae5e072ecc24dde0135cde7da81",
+      "external_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI."
+    },
+    {
+      "title": "AI to learn Premiere",
+      "author": "Own-Yogurt-508",
+      "url": "https://www.reddit.com/r/artificial/comments/1x330cf/ai_to_learn_premiere/",
+      "published": 1791707850.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am new to video editing and I often watch tutorials on YouTube. Recently I have been asking AI to teach me certain things in Premiere, however the responses vastly differ from AI to AI. So far I found out that Gemini is straight-up lying, since asking the same question in different chats doesn't always provide you with the same response, plus it almost always tries to give ridiculously complex workarounds to very basic things. When called out, it just apologizes, but keeps doing the same thing. I used DouBao as well, which is Chinese, and not always up to date, I guess, since when asked how to apply LUTs in Premiere, it suggested to use Davinci instead, as it was \"easier\", but I found that in Premiere it is much more convenient. ChatGPT (the free version) has a very small limit on uploads, which I frequently use for faster responses (sending Premiere screenshots mostly). Haven't used Claude or DeepSeek yet. Which AI model do you guys think is the best for learning Premiere, if you've ever used one for that?"
+    },
+    {
       "title": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake.",
       "author": "ThereWas",
       "url": "https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/",
@@ -57,60 +79,38 @@
       "description": "ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said."
     },
     {
-      "title": "Super Micro case 'fixer' pleads guilty to sending AI servers to China",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/",
-      "published": 1791658311.0,
-      "thumbnail": "https://external-preview.redd.it/12hlLlk5oWTWDG6IRvpyYLNr3Gv3bsJdecOoz48akrI.jpeg?width=640&crop=smart&auto=webp&s=fa93fb7c92d39fe8c49dc477d26085c323d582ee",
-      "external_url": "https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china",
-      "site_name": "TNW | China",
-      "favicon": "https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-57x57.png",
-      "description": "Ting-Wei Sun pleaded guilty in a $2.5bn scheme to divert Nvidia-powered servers to China. Super Micro co-founder Wally Liaw denies the charges."
+      "title": "We're breaching the point where the \"taste\" of a model's decisions is becoming as or more important than its raw intelligence",
+      "author": "DynaBeast",
+      "url": "https://www.reddit.com/r/artificial/comments/1x32fn9/were_breaching_the_point_where_the_taste_of_a/",
+      "published": 1791705681.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I think I can say with some confidence that Opus 5.5 has begun to reach a point in capability where it can solve most technical problems in a competent and acceptable manner. As a result, a vast majority of the decisions one needs to make when working with it have been boiled down to decisions of personal taste and opinion on design, rather than just focusing on what the most pragmatic solution is. Because matters of taste are far from objective, I think we're going to begin to see more of a split in model offerings based on the kinds of taste each model has. If each model can do the work at an acceptable level from a purely utilitarian standpoint, then the only remaining decisions become *how* the model completes that work, and what sorts of decisions it makes with regards to styling, ui, ux, and so on. Many of these questions do not have definitive \"correct\" answers, and depend entirely on what appeals to the developer personally. Then, the model that becomes the most efficient to work with *for you*, is the one that shares your personal taste the most often, and has to be corrected the least amount during development. We've already begun to see this with Opus 5.5 as well, with people beginning to compliment not just its raw capability, but also its design sensibility and general taste with regards to ui and ux development. As models get smarter I think we'll see a strata of models that have different \"styles\" emerge, to appeal to different types of individuals with different taste profiles."
     },
     {
-      "title": "I just want to ask, How did the creator use ai to make this like it doesnt feel like ai and is this supposed to be easy to make?",
-      "author": "Green_Highlight9663",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2ubb7/i_just_want_to_ask_how_did_the_creator_use_ai_to/",
-      "published": 1791678360.0,
-      "thumbnail": "https://external-preview.redd.it/KIGBacaIQoLfgwiHYrDeapMdOYX_q5kdfrcKR2zjScE.png?width=640&crop=smart&auto=webp&s=193369585bb19dff8d72ef39726d82d18bcd974d",
-      "external_url": "https://www.tiktok.com/t/ZPLhyT8dv/",
-      "site_name": "tiktok.com",
-      "favicon": "https://www.tiktok.com/favicon.ico",
+      "title": "Observations On Artificial Intelligence for Everyday People",
+      "author": "No-Pride-8979",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/",
+      "published": 1791692603.0,
+      "thumbnail": "https://external-preview.redd.it/6WbTqL4WTegB0ppXQHVOBRdAPtjrcXdSV284z1xuY-A.jpeg?width=640&crop=smart&auto=webp&s=00f18eb59b440ef70ac25fa2dc100777f2297c9a",
+      "external_url": "https://substack.com/@williamowencooper/note/p-218052066?r=ewfqx",
+      "site_name": "substack.com",
+      "favicon": null,
+      "description": "A few thoughts."
+    },
+    {
+      "title": "Task-structured modularity emerges in artificial networks and aligns with brain architecture",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/",
+      "published": 1791698450.0,
+      "thumbnail": "https://external-preview.redd.it/DXCFS-80p_LuopTqjBGdM_iiFH9KojlUqh5T4lS5o6E.png?width=640&crop=smart&auto=webp&s=04121d94105b4e04e24a5bc928623e011d01c06a",
+      "external_url": "https://www.nature.com/articles/s42256-026-01306-9",
+      "site_name": "nature.com",
+      "favicon": "https://www.nature.com/favicon.ico",
       "description": null
-    },
-    {
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2ikd4/nvidia_oracle_coreweave_and_other_ai_stocks_sink/",
-      "published": 1791647383.0,
-      "thumbnail": "https://external-preview.redd.it/3bXeOKHvdGC97CjAXPMuXTI29YqfUV9ZpxuakMp7MMU.jpeg?width=640&crop=smart&auto=webp&s=8e68fb00b96934735ce63935eb15936da277b4c4",
-      "external_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "site_name": "CNBC",
-      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
-      "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed."
-    },
-    {
-      "title": "Anthropic to ban users who bully Claude",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/",
-      "published": 1791570474.0,
-      "thumbnail": "https://external-preview.redd.it/CjWjHesFHKaCR6C4iBTl44HSopCagATvUX6H_W37fpE.jpeg?width=640&crop=smart&auto=webp&s=edab36de54d9ac3aa9ab78c54949bdb66ea1d2a5",
-      "external_url": "https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "New policy comes amid debate about about AI welfare and moral status"
-    },
-    {
-      "title": "Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval",
-      "author": "Alone-Dragonfruit602",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/",
-      "published": 1791631005.0,
-      "thumbnail": "https://external-preview.redd.it/v5Vd7gi8JKm8een0_Q7njR3UizxP2Lnhbx9PJ3Xs6vA.jpeg?width=640&crop=smart&auto=webp&s=c9b1c142319243b43e1b0f318cdfb696f44a511f",
-      "external_url": "https://foxbusiness.com/technology/anthropics-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-police-website",
-      "site_name": "Fox Business",
-      "favicon": "https://static.foxnews.com/static/orion/styles/img/fox-business/favicons/apple-touch-icon-57x57.png",
-      "description": "Anthropic disclosed this in its report on models taking unintended actions on live websites. The tip was dated 18 July, flagged as spam and never passed to investigators. Anthropic says it told Philadelphia police on 7 Oct and has since tightened how its evals access the live web."
     }
   ],
-  "fetched_at": "2026-10-11T02:04:01.049076+00:00"
+  "fetched_at": "2026-10-11T09:10:32.562597+00:00"
 }
