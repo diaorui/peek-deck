@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-11T19:57:22.684762+00:00'
+updated: '2026-10-11T23:31:54.496847+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 11, 2026 at 19:57 UTC  
+**Last Updated:** October 11, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,711.14
+### $83,585.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -2.4%  
+**24h:** +0.9%  
+**7d:** -2.5%  
 **30d:** +8.3%  
 **90d:** +28.7%  
 **1y:** -27.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1680.21B
+**Market Cap:** $1680.60B
 Rank #1
 
-**Circulating Supply:** 20,096,750 BTC
+**Circulating Supply:** 20,096,787 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -33.7%
 
 **All-Time Low:** $67.81
-+123194.5%
++123243.2%
 
 ---
 
@@ -167,15 +167,15 @@ CoinDesk • 1d ago
 
 Bitcoin needs a 12.1 times rally to hit $1 million, while XRP needs 7.2 times to reach $10. Which target is more likely?
 
-24/7 Wall St. • 7h ago
+24/7 Wall St. • 10h ago
 
 ---
 
-**[Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?](https://finance.yahoo.com/markets/crypto/articles/could-1-000-invested-bitcoin-190700838.html)**
+**[Bitcoin’s Price Prediction: Will Global M2 Point to $300,000?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-global-m2-150021469.html)**
 
-At one time, Bitcoin had 1,000x upside potential. But is that still the case?
+A chart circulating in crypto circles claims global money supply points to Bitcoin hitting $250,000 to $300,000, and prominent voices are taking it seriously. But the math behind it hides a flaw that lets anyone bend the prediction to fit whatever outcome they want.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -183,15 +183,7 @@ Yahoo Finance • 1d ago
 
 Gold advocate Peter Schiff admitted he’s surprised Bitcoin (BTC) has held onto gains that gold has given back, but still expects the cryptocurrency to fall to new lows.Schiff made the comments in an interview with Scott Melker on his podcast, The Wolf Of All Streets, published on Sunday. Both asset…
 
-TradingView • 1h ago
-
----
-
-**[Bitcoin, XRP Get the Spotlight—Could These 5 Altcoins Be Next?](https://www.benzinga.com/crypto/cryptocurrency/26/10/62289424/bitcoin-xrp-get-the-spotlight-could-these-5-altcoins-be-next)**
-
-Bitwise sees Bitcoin reaching $1.4 million if it follows gold’s post-ETF rise, with five altcoins positioned to follow.
-
-Benzinga • 5h ago
+TradingView • 4h ago
 
 ---
 
@@ -199,15 +191,15 @@ Benzinga • 5h ago
 
 Other cryptocurrencies may be performing better right now, but Bitcoin is still the best long-term investment.
 
-The Motley Fool • 3h ago
+The Motley Fool • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
+**[Bitcoin, XRP Get the Spotlight—Could These 5 Altcoins Be Next?](https://www.benzinga.com/crypto/cryptocurrency/26/10/62289424/bitcoin-xrp-get-the-spotlight-could-these-5-altcoins-be-next)**
 
-“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
+Bitwise sees Bitcoin reaching $1.4 million if it follows gold’s post-ETF rise, with five altcoins positioned to follow.
 
-Decrypt • 3h ago
+Benzinga • 9h ago
 
 ---
 
@@ -217,9 +209,19 @@ WSJ • 2d ago
 
 ---
 
-**[Who Really Owns Bitcoin? Wall Street vs. Ordinary People](https://beincrypto.com/who-owns-bitcoin-institutions-treasury-cash/)**
+**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
 
-BeInCrypto • 9h ago
+“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
+
+Decrypt • 7h ago
+
+---
+
+**[Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC](https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million)**
+
+Bermuda-regulated startup Meanwhile, whose backers include Bain Capital Crypto and Sam Altman, has now raised a total of $180 million.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -247,13 +249,7 @@ Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone p
 
 Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
 
-⬆️ 2 • 💬 0 • 4d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
-
----
-
-**[Freelancers can get paid in crypto: a step-by-step guide](https://news.ycombinator.com/item?id=50046855)**
-
-⬆️ 2 • 💬 0 • 35m ago
+⬆️ 2 • 💬 0 • 5d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
 
 ---
 
@@ -265,37 +261,9 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ---
 
-**[Show HN: tgv: Genome viewer for you and your agents](https://news.ycombinator.com/item?id=50029175)**
-
-Genome viewer for you and your agents. Contribute to zeqianli/tgv development by creating an account on GitHub.
-
-⬆️ 4 • 💬 1 • 1d ago • [GitHub](https://github.com/zeqianli/tgv)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[URGENT 🚀 TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC!](https://www.youtube.com/watch?v=pcFITs1v9Z0)**
-
-URGENT TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC! Support The O Show with Ref Links: ...
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 293 • 💬 18 • ⏱️ 15:13 • 2h ago
-
----
-
-**[My MASSIVE Warning To Crypto Holders](https://www.youtube.com/watch?v=qz3BKaBKIh8)**
-
-Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 78K • 👍 4K • 💬 179 • ⏱️ 10:37 • 19h ago
-
----
 
 **[Bitcoin REFUSES To Crash - Even Peter Schiff Admits He’s Surprised](https://www.youtube.com/watch?v=p0vkjfMZU44)**
 
@@ -303,17 +271,37 @@ Bitcoin #Crypto #finance Peter Schiff joins the show to explain why he believes 
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 287 • 💬 171 • ⏱️ 53:39 • 6h ago
+👁️ 16K • 👍 340 • 💬 201 • ⏱️ 53:39 • 10h ago
 
 ---
 
-**[Bitcoin Is the Toll Collector of the AI Economy](https://www.youtube.com/watch?v=rAVx9MiSbjc)**
+**[URGENT 🚀 TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC!](https://www.youtube.com/watch?v=pcFITs1v9Z0)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+URGENT TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC! In this Sunday update I break down a ...
 
-📺 Anthony Pompliano
+📺 CryptoWendyO
 
-👁️ 113K • 👍 3K • 💬 155 • ⏱️ 46:44 • 1d ago
+👁️ 11K • 👍 407 • 💬 13 • ⏱️ 15:13 • 6h ago
+
+---
+
+**[These 3 Crypto Coins Are Getting Ready To EXPLODE!?](https://www.youtube.com/watch?v=reNe1hqrzMs)**
+
+Besides Bitcoin & Ethereum what other crypto coins do you like? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 12K • 👍 850 • 💬 126 • ⏱️ 8:01 • 3h ago
+
+---
+
+**[BITCOIN: Your LAST Chance is NOW!!!!](https://www.youtube.com/watch?v=plSimHRWsK8)**
+
+Spot Pumps Early! Get 50% Off Before Launch - https://pump.ninja/ Bitcoin just dropped 8%, but here's the CRAZY part… this ...
+
+📺 Crypto Love
+
+👁️ 4K • 👍 217 • 💬 99 • ⏱️ 7:24 • 6h ago
 
 ---
 
@@ -323,27 +311,27 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 7K • 👍 254 • 💬 162 • ⏱️ 15:48 • 21h ago
+👁️ 7K • 👍 259 • 💬 149 • ⏱️ 15:48 • 1d ago
 
 ---
 
-**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
+**[My MASSIVE Warning To Crypto Holders](https://www.youtube.com/watch?v=qz3BKaBKIh8)**
 
-Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
+Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
 
-📺 The Economic Ninja
+📺 Altcoin Daily
 
-👁️ 34K • 👍 1K • 💬 224 • ⏱️ 3:20 • 2d ago
+👁️ 88K • 👍 4K • 💬 184 • ⏱️ 10:37 • 22h ago
 
 ---
 
-**[BlackRock&#39;s Path To $700,000 Bitcoin](https://www.youtube.com/watch?v=f_xrn-i7IZM)**
+**[$2 Million Bitcoin SUPPLY SHOCK - Saylor Just Signaled Another Buy](https://www.youtube.com/watch?v=B0agixUpDT4)**
 
-The Bitcoin Treasuries Conference is live from New York City. A full day of panels, firesides, and lightning talks covering Bitcoin ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Bitcoin Treasuries
+📺 Bitcoin News Alerts
 
-👁️ 7K • 👍 95 • 💬 27 • ⏱️ 29:46 • 1d ago
+👁️ 770 • 👍 99 • 💬 35 • ⏱️ 15:05 • 1h ago
 
 ---
 
@@ -353,27 +341,27 @@ My friend, long gone are the days of needing an entire Bitcoin to be part of the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 15K • 👍 1K • 💬 207 • ⏱️ 10:35 • 8h ago
+👁️ 20K • 👍 1K • 💬 257 • ⏱️ 10:35 • 12h ago
 
 ---
 
-**[Is Trump’s $40T Debt Reset Plan a New Bitcoin-Gold Standard?!](https://www.youtube.com/watch?v=xTAT6VX1Xro)**
+**[BITCOIN MONDAY LIQUIDATION WIPEOUT!? CPI WEEK HEATMAP WARNING!!](https://www.youtube.com/watch?v=OBmevvLH3BE)**
 
-Bitcoin just survived a brutal week of market chaos while major banks and private credit markets flashed serious warning signs.
+BITCOIN PRICE ANALYSIS | BITCOIN TRADING | BITCOIN HEATMAP | BITCOIN CPI Bitcoin price analysis for Monday's US ...
 
-📺 Simply Bitcoin
+📺 TMG Trades
 
-👁️ 21K • 👍 1K • 💬 65 • ⏱️ 19:37 • 20h ago
+👁️ 10K • 👍 435 • 💬 67 • ⏱️ 20:51 • 6h ago
 
 ---
 
-**[URGENT: I Am Making 3 Major Changes To My Crypto Portfolio NOW!](https://www.youtube.com/watch?v=o69Txodt1uE)**
+**[THIS CHANGES EVERYTHING FOR BITCOIN.](https://www.youtube.com/watch?v=hw5cgwC5Wws)**
 
-A major crypto market correction is imminent, and investors need to prepare for what comes next. While most investors are worried ...
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
-📺 Crypto Banter
+📺 Crypto Kid
 
-👁️ 50K • 👍 1K • 💬 44 • ⏱️ 37:52 • 1d ago
+👁️ 3K • 👍 285 • 💬 19 • ⏱️ 16:21 • 3h ago
 
 ---
 
