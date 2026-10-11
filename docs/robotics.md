@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-11T15:53:31.237315+00:00'
+updated: '2026-10-11T19:57:22.694040+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 11, 2026 at 15:53 UTC  
+**Last Updated:** October 11, 2026 at 19:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) designed end to end in my app. You describe the robot, and it picks real servos (Feetech STS3250 here), plans the electronics, lays out the body, builds the 3D structure and shell, writes the firmware, and runs it in MuJoCo physics before anything gets printed. It's early and plenty is still rough. I'd really like feedback from people who've actually built robots: what was the hardest part of your design, and what would make a tool like this useful (or useless) to you?
 
-3d ago
+4d ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 I’ve been experimenting with turning an M5Stack Stack-chan into a little mobile robot. I combined it with a LEGO motor hub and wheels, recorded driving demonstrations, and trained an ACT policy. During supervised trials, it learned to follow a line. With a separate set of demonstrations, I also tried driving between guardrails. The video shows the build, data collection, and the wrong turns along the way 😅 Build video: https://www.youtube.com/watch?v=_1pQTt8gqZM This is also the first showcase of what I’ve built with Robium, an open-source robotics skills repo that I recently released. I used it with AI agents to help build the software and training setup. GitHub: https://github.com/robium-ai/robium Has anyone else experimented with learning from demonstrations on a small wheeled robot? I’d be interested to hear what worked for you.
 
-3d ago
+4d ago
 
 ---
 
@@ -130,17 +130,19 @@ MIT Technology Review • 3d ago
 
 ---
 
-**[Minuscule Swiss fiber motor keeps robots squishy and pliable](https://newatlas.com/robotics/fibermotor-flexible-motor/)**
+**[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
 
-If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber.
+At a Van Ness arena, 200-pound robots wielded steel blades.
 
-New Atlas • 4h ago
+The San Francisco Standard • 6h ago
 
 ---
 
-**[Gecko Robotics partners with Anduril to aid submarine manufacturing](https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html)**
+**[Impossibly tiny Swiss motor looks like anything but](https://newatlas.com/robotics/fibermotor-flexible-motor/)**
 
-The Business Journals • 1d ago
+If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber.
+
+New Atlas • 8h ago
 
 ---
 
@@ -148,15 +150,7 @@ The Business Journals • 1d ago
 
 For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
 
-TechCrunch • 1d ago
-
----
-
-**[Watch: Two-armed robot throws, catches, and hits balls like a baseball champ](https://interestingengineering.com/ai-robotics/athenazero-two-armed-robot-throws-catches-balls)**
-
-RAI's AthenaZero robot has demonstrated its ability to throw, catch, and hit balls using coordinated movements and a low-inertia design.
-
-Interesting Engineering • 22h ago
+TechCrunch • 2d ago
 
 ---
 
@@ -166,23 +160,31 @@ Financial Times • 1d ago
 
 ---
 
+**[Gecko Robotics partners with Anduril to aid submarine manufacturing](https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html)**
+
+The Business Journals • 2d ago
+
+---
+
+**[Girls take controls at Michigan robotics invitational in Woodhaven](https://www.clickondetroit.com/news/local/2026/10/11/girls-take-controls-at-michigan-robotics-invitational-in-woodhaven/)**
+
+Woodhaven’s Goonettes invitational gives young women a chance to compete
+
+ClickOnDetroit | WDIV Local 4 • 3h ago
+
+---
+
 **[ICE buys robotic dogs from Connecticut company for patrols](https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php)**
 
 CT Insider • 1d ago
 
 ---
 
-**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
+**[Is Alibaba (BABA) Quietly Reframing Its AI Story Through Tourism Robots And Sports Fan Tech?](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-quietly-reframing-ai-181204645.html)**
 
-Bloomberg.com • 2d ago
+Amap, Alibaba Group’s location-based services platform, and Sands China recently delivered the first batch of “Tutu” robot dogs to serve as robotic guides at Sands Resorts Macau, while Alibaba also entered a multi-year technology and cloud partnership with the Brooklyn Nets to power real-time 360° replays and personalized fan collectibles. These collaborations highlight how Alibaba is applying its AI, spatial intelligence, and cloud capabilities in real-world tourism and sports settings,...
 
----
-
-**[5 Steps to Create SimReady Assets for Robotics with Frontier AI Models | NVIDIA Technical Blog](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)**
-
-Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints…
-
-NVIDIA Developer • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -190,83 +192,13 @@ NVIDIA Developer • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
 
-At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
 
-📺 ejunky66
+📺 MostAmazingTop10
 
-👁️ 149K • 👍 2K • 💬 118 • ⏱️ 1:00 • 5d ago
-
----
-
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
-
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
-
-📺 MACHINEKIND
-
-👁️ 51K • 👍 831 • 💬 82 • ⏱️ 13:43 • 3d ago
-
----
-
-**[World’s First Human VS Humanoid Robot FULL FIGHT︱Extended Cut](https://www.youtube.com/watch?v=VtfUAiLUFWM)**
-
-On Sept. 18th, we hosted the first human VS humanoid robot fight at the REK Arena in San Francisco. Frankie LaPenna faced off ...
-
-📺 REK
-
-👁️ 59K • 👍 628 • 💬 127 • ⏱️ 11:36 • 2d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 85K • 👍 2K • 💬 17 • ⏱️ 1:04 • 3d ago
-
----
-
-**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
-
-Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
-
-📺 DW Documentary
-
-👁️ 224K • 👍 1K • 💬 143 • ⏱️ 28:21 • 6d ago
-
----
-
-**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
-
-Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
-
-📺 MACHINEKIND
-
-👁️ 74K • 👍 1K • 💬 117 • ⏱️ 13:42 • 5d ago
-
----
-
-**[5 Best Robotics Stocks to Buy for 2027 - Plus a 10X Moonshot](https://www.youtube.com/watch?v=1cg0XArsBbA)**
-
-With dozens of positions in the AI Investor portfolio it can be difficult to stay on top of all the earnings, new filings, and major stock ...
-
-📺 247 Wall St
-
-👁️ 5K • 👍 141 • 💬 22 • ⏱️ 1:17:06 • 1d ago
-
----
-
-**[I’ve Wanted This Robot for 10 Years](https://www.youtube.com/watch?v=ijFSEb2W6_8)**
-
-Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout.
-
-📺 Linus Tech Tips
-
-👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 13:52 • 6d ago
+👁️ 29K • 👍 398 • 💬 41 • ⏱️ 9:18 • 4h ago
 
 ---
 
@@ -276,17 +208,81 @@ Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to t
 
 📺 DEEP Robotics
 
-👁️ 12K • 👍 197 • 💬 27 • ⏱️ 1:12 • 5d ago
+👁️ 13K • 👍 202 • 💬 27 • ⏱️ 1:12 • 5d ago
 
 ---
 
-**[Would YOU actually play THIS RAVANA? War Robots Gameplay WR](https://www.youtube.com/watch?v=mpnTi7Mvl6A)**
+**[Trump Interview Is RUINED - Robot Chicken Short Edit](https://www.youtube.com/watch?v=W75rt3IvsvQ)**
 
-War Robots Gameplay: UE Vortex and GAS Shield Ravana - Would you play this in WR? My War Robots Creator Link: ...
+📺 Alien Simulation
 
-📺 Manni-Gaming
+👁️ 526K • 👍 36K • 💬 434 • ⏱️ 0:42 • 6d ago
 
-👁️ 11K • 👍 357 • 💬 57 • ⏱️ 12:01 • 1d ago
+---
+
+**[One Tentacle Closer to Nuclear Fusion #Robotics #3DPrinting #Engineering](https://www.youtube.com/watch?v=wujtXR6sZTY)**
+
+📺 It's on my MIND
+
+👁️ 756K • 👍 20K • 💬 238 • ⏱️ 1:23 • 4d ago
+
+---
+
+**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
+
+At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
+
+📺 ejunky66
+
+👁️ 152K • 👍 2K • 💬 122 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[they built round robot vacuums and called it efficient.#vaccum #robotcleaner #squarerobots #cleantok](https://www.youtube.com/watch?v=hzc4L9tbBOQ)**
+
+📺 Cleanwith__Marina
+
+👁️ 4.4M • 👍 13K • 💬 67 • ⏱️ 0:08 • 6d ago
+
+---
+
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
+
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
+
+📺 Jot Tv Media 
+
+👁️ 87K • 👍 2K • 💬 17 • ⏱️ 1:04 • 3d ago
+
+---
+
+**[5 Best Robotics Stocks to Buy for 2027 - Plus a 10X Moonshot](https://www.youtube.com/watch?v=1cg0XArsBbA)**
+
+With dozens of positions in the AI Investor portfolio it can be difficult to stay on top of all the earnings, new filings, and major stock ...
+
+📺 247 Wall St
+
+👁️ 6K • 👍 152 • 💬 22 • ⏱️ 1:17:06 • 1d ago
+
+---
+
+**[Lava Burning A Humanoid Robot](https://www.youtube.com/watch?v=yAsR2Xr1rz0)**
+
+Writer: Brett Stelmaszek Editor: Rikus Strauss Music by: @UFD-Music The amount of joy this is giving people shows you just how ...
+
+📺 UFD Tech
+
+👁️ 160K • 👍 7K • 💬 161 • ⏱️ 0:40 • 5d ago
+
+---
+
+**[This Is Impossible... Bane Bagliore MELTING Fang Bots | Bane Comeback | War Robots](https://www.youtube.com/watch?v=1NH2fZ82um4)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR The Bane are back! I just wanted to try this build out for fun, ...
+
+📺 PREDATOR WR
+
+👁️ 17K • 👍 376 • 💬 42 • ⏱️ 14:51 • 2d ago
 
 ---
 

@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Why Does Ethereum Fall Harder Than Bitcoin?",
+      "headline": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDg5MjlEOUxGUV9lZjJ5bDVvYzNFNHV5bE5tMzlUaDhfeGJEV3o0d1lIeC1YcS1FSUN1OGFIMnJKTDZVVG9iS3VscGZHUlZYYWprSlktdl9qNExnNDBwbkVhaFlidlVwc3BHQTJNTklveFZWTUhXRXVIQWFScTF6RHdmOXl4ZWt4TGVhSzBIN2M2amhKSG1Dd3RB?oc=5",
-      "pub_date": 1791725409.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-does-ethereum-fall-harder-133009818.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/514ae0c1deb690d786f7ce58aa8b6bb8f36c7c1a4b1d9c80453984815fc05273/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4fee82975630735e7715c42ef79a9c60.jpg",
-      "description": "Ethereum dropped more than three times harder than Bitcoin last week, yet it also gained far less during the month's rally. Something beyond simple volatility explains why ETH keeps taking the bigger hit without delivering the bigger reward."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHpZYnNmXzBySHdYUk1jNFgtNjhqdGZGQzBxYXZUYnBmamxhTUp1ZzBBeW1BSkNUUmNFSUZUSWpoSFk5b0o0c0I4U0U1em94ZjE0Z3I5OHBPbV9YbGJRSV9iTmYxMktEU282Y29YeG5RYkRrRkhsS2JKOTdoMlQ1dW9qUk4tUEU4SzVGbkpfYlBTRXlIWjcxdVVLOVJaQQ?oc=5",
+      "pub_date": 1791734463.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-solana-etfs-red-160103768.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b1ff1e2ca40a3512dc073f1096d3038d0491618608bd46c0ae4e480b3bc6e7e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fd47b3cb386575b0d23d2abbef9ca49f3.jpg",
+      "description": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses."
     },
     {
       "headline": "Crypto Just Quietly Hit A Massive Price \u2018Inflection Point\u2019\u2014But There\u2019s A Nasty Surprise For Bitcoin, Ethereum And XRP",
@@ -23,6 +23,16 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/10/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Starknet coin surges as developer weighs Ethereum split over quantum security (ETH-USD:Cryptocurrency)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYjh3N0kwUG8yZjJtemZ0V05aX0ZXak83dXlVNnBYMDY3TGxJakp1MENXcllLU1BNQ3Qzckx4YzJQMUtMV0hQdDYwZVdNOThHYThvX20tSXo0MlJ0TFBDdURmd1NGajc5N0dzTG5PYlZIY2Y4bDJBX2RGUlBvenVscF81bVYzT0ZtY0xpZDRhQkVqTUsweVhqOG1aUm5NcHM4Y1djVjVSVThoTlhVbEdoTXdYRG5ydw?oc=5",
+      "pub_date": 1791739347.0,
+      "article_url": "https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2246166546/image_2246166546.jpg?io=getty-c-w630",
+      "description": "STRK jumps as Starknet explores quantum-resistant upgrades and a potential split from Ethereum to become a Layer-1."
     },
     {
       "headline": "Tom Lee\u2019s Ethereum Year-End Call Is Now Half Of What He Called \u2018Conservative\u2019 Last Month, But He Expects \u2018Monster Moves\u2019 In The Crypto Industry",
@@ -45,26 +55,6 @@
       "description": "Micha\u00ebl van de Poppe says Ethereum needs a strong breakout above $2575 to confirm outperformance versus Bitcoin after staying calm under key resistances."
     },
     {
-      "headline": "XRP Beats Bitcoin, Ethereum, Solana in ETF Flows: Can Price Follow?",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWNMNTRpQzljdlI5VXFMc1JYZWh4NUNNamJ2azRUWXpSUGRyWm9rZnFOS0ZIalVqa2pvX3h3ZWozVjlST1h3SEtob2prZE1Jek9PZGlsaXUwQjc0NUlEdEZaVUg0cFRlWHAzdDdsa3FEYVU2elVzQjdtWTdKUUdLa2Rkd2NoNDlTeUd3NWhZLUFBcUpNdjlYc2dSc2RlNmQ1aENfblJEa3JwWmNYbHc2MjhvQjVmNEtCMi1zalFvU3Z3NU0?oc=5",
-      "pub_date": 1791559390.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62275590/xrp-beats-bitcoin-ethereum-solana-in-etf-flows-can-price-follow",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/09/Digital-Art-Xrp-Logo-Symbol--Ripple-Cryp.jpg",
-      "description": "XRP ETFs add $8.17 million as Bitcoin, Ethereum and Solana funds lose $320 million, extending XRP\u2019s inflow streak."
-    },
-    {
-      "headline": "Vitalik Buterin says AI could accelerate Ethereum\u2019s roadmap by decades",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlRHNFpvN25LWGh6clVIUkw3MjhwUmpXYUEyWXV0bEgyYk5rZS1fNkh4NUhVajJ5OGlyT0JJTHpaWkEzdUJvcEhIQTE1bXRoZ3lpSm1lN3RETlI1X2dxb1EtN1NOMi02SmFpanNPeHE5RVY5SVhxNS1ERlJQUk04bg?oc=5",
-      "pub_date": 1791713912.0,
-      "article_url": "https://cryptobriefing.com/vitalik-buterin-ai-accelerates-ethereum-roadmap/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/11091851/library-vitalik-buterin-says-ai-could-accelerate-ethereum-s-road-3-800x450.png",
-      "description": "Vitalik Buterin claims AI could accelerate Ethereum's roadmap by decades, with tools like Lean 4 cutting research and coding time dramatically."
-    },
-    {
       "headline": "The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -73,6 +63,16 @@
       "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/09/the-xrp-ledger-surpasses-ethereum-in-a-key-area-what-does-this-mean-for-the-xrp-price/",
       "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-2290566115-huge-licensed-scaled.jpg",
       "description": "The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?"
+    },
+    {
+      "headline": "XRP Beats Bitcoin, Ethereum, Solana in ETF Flows: Can Price Follow?",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWNMNTRpQzljdlI5VXFMc1JYZWh4NUNNamJ2azRUWXpSUGRyWm9rZnFOS0ZIalVqa2pvX3h3ZWozVjlST1h3SEtob2prZE1Jek9PZGlsaXUwQjc0NUlEdEZaVUg0cFRlWHAzdDdsa3FEYVU2elVzQjdtWTdKUUdLa2Rkd2NoNDlTeUd3NWhZLUFBcUpNdjlYc2dSc2RlNmQ1aENfblJEa3JwWmNYbHc2MjhvQjVmNEtCMi1zalFvU3Z3NU0?oc=5",
+      "pub_date": 1791559390.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62275590/xrp-beats-bitcoin-ethereum-solana-in-etf-flows-can-price-follow",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/09/Digital-Art-Xrp-Logo-Symbol--Ripple-Cryp.jpg",
+      "description": "XRP ETFs add $8.17 million as Bitcoin, Ethereum and Solana funds lose $320 million, extending XRP\u2019s inflow streak."
     },
     {
       "headline": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
@@ -85,16 +85,6 @@
       "description": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet."
     },
     {
-      "headline": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PbXp0amxTcFRJN3RUN0poT1g3WVQzOGM3NmhuZXBlTGQ5T0FrU016V0NrakRDR0RPWDUxNkJ5NVowSjlXdWw1YUk2WW1qWmFwWTltOE1QRzJrS1pkR0hwUG9ZV0VtUlRGYWNORUE4Yw?oc=5",
-      "pub_date": 1791655920.0,
-      "article_url": "https://beincrypto.com/ethereum-etf-outflows-nine-days-shorts/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?auto=format&q=75",
       "description": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
+    },
+    {
+      "headline": "Keep calm and enter 'bunker mode,' crypto bros say",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXJuLXNKeEkzQ09UR2hRejZFVS1ZeEVwMktyRDlkbXZpVy1GcU9DXzhtQ3JzaE84bWFyMmhKdlg1V0wySW1GYzlBZkhmY2ozaF96WUJqTm93OXJBT3BQcHF3MTlwMC1WenlZUktNTTR2UHJmZzcxVHZGTmZqd0pJelhXMG1FeTJLdnVGQ0xFQzBrMFpFR3h2Znl5UnI1VnNfYm9kekRTWURVenFq?oc=5",
+      "pub_date": 1791474660.0,
+      "article_url": "https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10",
+      "image": "https://i.insider.com/6ac7adf242403ad8039a497d?width=1200&format=jpeg",
+      "description": "Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-11T15:53:15.308960+00:00"
+  "fetched_at": "2026-10-11T19:57:15.532275+00:00"
 }

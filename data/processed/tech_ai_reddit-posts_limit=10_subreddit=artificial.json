@@ -46,6 +46,17 @@
       "description": "The filmmakers behind the AI-generated TV series called \"The Arc\" share what went into making it, including $38,000 in AI credits."
     },
     {
+      "title": "There\u2019s a reason billionaires keep bending the knee to Trump. After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/",
+      "published": 1791744277.0,
+      "thumbnail": "https://external-preview.redd.it/pIsGxawGUfSdyPV63XdYxA-5G7InEYbSClMGwGY8nFA.jpeg?width=640&crop=smart&auto=webp&s=3934a02780bb7739ef2c9092f2a5e4fd704c02cf",
+      "external_url": "https://www.ms.now/opinion/billionaires-trump-economy",
+      "site_name": "MS NOW",
+      "favicon": "https://www.ms.now/wp-content/uploads/2025/10/cropped-msnow-logo-favicon.webp?w=180",
+      "description": "After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it."
+    },
+    {
       "title": "Non-text AI model maker Jev valued at $7.5B just weeks after launch",
       "author": "lulzxdxdxd",
       "url": "https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/",
@@ -55,6 +66,17 @@
       "site_name": "TechCrunch",
       "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
       "description": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs."
+    },
+    {
+      "title": "Continued widespread VFX studio failure in making a solution to animate characters has led to the overwhelming takeover of AI video and collapse of film and games industry",
+      "author": "blackSeedsOf",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3hqeh/continued_widespread_vfx_studio_failure_in_making/",
+      "published": 1791748404.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Think about it, no tools in Blender to create realistic looking characters with correct physically accurate deformation and running quickly even 20+ years into the program. Other DCC's like houdini, maya, same thing. Everything takes ages to set up and eventually doesn't work to get an animated human or human face that actually looks real. AI videos destroy any traditionally polygonally animated output. I've tried for years to do well. Some cgi studios think they have solutions, but they are still far too time and hardware intensive. Honestly, I don't know where programs like blender and others will be in 2 or 3 years time. What do you think will happen to films, games, vfx studios if they can't come up with a solution?"
     },
     {
       "title": "Anthropic cut live internet access from every internal eval after a review found its agents exploiting websites and bypassing restrictions",
@@ -68,17 +90,6 @@
       "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
     },
     {
-      "title": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2ycw7/microsofts_satya_nadella_says_ai_models_need_an/",
-      "published": 1791691209.0,
-      "thumbnail": "https://external-preview.redd.it/WZLB2jhozHa-ToH90Is3_DKh3wU3pHRVklU2jyyQ2KQ.png?width=640&crop=smart&auto=webp&s=7d6127b7dc662ae5e072ecc24dde0135cde7da81",
-      "external_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI."
-    },
-    {
       "title": "AI to learn Premiere",
       "author": "Own-Yogurt-508",
       "url": "https://www.reddit.com/r/artificial/comments/1x330cf/ai_to_learn_premiere/",
@@ -90,27 +101,16 @@
       "description": "I am new to video editing and I often watch tutorials on YouTube. Recently I have been asking AI to teach me certain things in Premiere, however the responses vastly differ from AI to AI. So far I found out that Gemini is straight-up lying, since asking the same question in different chats doesn't always provide you with the same response, plus it almost always tries to give ridiculously complex workarounds to very basic things. When called out, it just apologizes, but keeps doing the same thing. I used DouBao as well, which is Chinese, and not always up to date, I guess, since when asked how to apply LUTs in Premiere, it suggested to use Davinci instead, as it was \"easier\", but I found that in Premiere it is much more convenient. ChatGPT (the free version) has a very small limit on uploads, which I frequently use for faster responses (sending Premiere screenshots mostly). Haven't used Claude or DeepSeek yet. Which AI model do you guys think is the best for learning Premiere, if you've ever used one for that?"
     },
     {
-      "title": "Man wins three-year parking ticket battle after using ChatGPT as his lawyer",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/",
-      "published": 1791649859.0,
-      "thumbnail": "https://external-preview.redd.it/SdNjqGkgbQMTX8GAAe68BHEvQRDi1ksosfECSH5YLHA.jpeg?width=640&crop=smart&auto=webp&s=52f654444e5fdd42560cd1f845a30925b6f5dd2d",
-      "external_url": "https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.the-independent.com/img/shortcut-icons/icon-192x192.png",
-      "description": "Rafal Goral says he was fined \u00a3100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023"
-    },
-    {
-      "title": "its kind of hard to look for a video generator now.",
-      "author": "RazzleDazzlePied",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3b2e4/its_kind_of_hard_to_look_for_a_video_generator_now/",
-      "published": 1791732539.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "is it just me or is it actually harder to try to actually use an ai video generator that is just like tiktok ai cast. because ive tried so hard to look for one. idk man."
+      "title": "New webcam-based AI system reads and responds to human facial expressions",
+      "author": "Brighter-Side-News",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3epux/new_webcambased_ai_system_reads_and_responds_to/",
+      "published": 1791741277.0,
+      "thumbnail": "https://external-preview.redd.it/lx8FD18i1hSvmLSnFseTNUjGfxTF-j0wyN4dL-102GU.png?width=640&crop=smart&auto=webp&s=2f7d7bc0ebea7f948b49fd764097b4f3746ceb24",
+      "external_url": "http://thebrighterside.news/post/new-webcam-based-ai-system-reads-and-responds-to-human-facial-expressions",
+      "site_name": "The Brighter Side of News",
+      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
+      "description": "An AI-based digital face can look convincing until its expression fails to match the conversation. Realistic skin and detailed animation do not guarantee an appropriate reaction to another person\u2019s smile, frown or changing expression. A doctoral project at Tallinn University addresses that gap by connecting facial-expression analysis with the generation of an artificial character\u2019s response. Rather than assigning a label to one photograph, the system treats facial behavior as an exchange unfolding over time. Abdallah Hussein Sham developed the Enactive Facial Expression Pipeline, or EFEP. The work combines experimental datasets and previously published research, including studies in Sensors and Signal, Image and Video Processing."
     }
   ],
-  "fetched_at": "2026-10-11T15:52:55.405483+00:00"
+  "fetched_at": "2026-10-11T19:56:57.442902+00:00"
 }
