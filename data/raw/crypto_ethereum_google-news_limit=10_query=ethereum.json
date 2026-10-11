@@ -5,14 +5,34 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5",
-      "pub_date": 1791395160.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616",
-      "image": null,
-      "description": null
+      "headline": "Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWlJQ0V1d1NaRHZ4T2JMNXlOU1A0SGllMHhybzZrbzhETFJxSHh4N3dPQVpfUXd5cXlfX2tRcnVMYjI4bW8xUmNqMTMyMnVmSHBsem9ueGlLUXhJV1pYSTZVZDVkNXpRc1hnVnhOd3BMMDlyOE56dXBzQ25OQWJjSTFUYmxjdjVJOGdodFp2ZVFnQ2lhaGE0ZXlGT1Nsczd5elpqWUhxY2g?oc=5",
+      "pub_date": 1791566822.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/quantum-computers-break-bitcoin-ethereum-172702687.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cd5092404c2401560f55494c5db43c40434e1e247a0c5a4c92906d6f9f679f95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbbcf1f327640960ed5d21b5b47dff617.jpg",
+      "description": "An Ethereum Foundation researcher just urged big holders to prepare for bunker mode, and the threat triggering his warning has nothing to do with quantum computers. The real danger could arrive in months, and about a third of all Bitcoin supply sits fully exposed."
+    },
+    {
+      "headline": "Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXVrdFBKWkdpMS15S0gxbGRRem8tQnA3QV9xTHpwa2QyNVcwSTdtdzdsOE5pWEp3R1JiREhqZEZnc2FNeUNSOFh1VE52NUFDODhkeVRSUUVreUtjeFUzVllTVExFbTNYcHM4dXR2T000TDVwYVpkdF9WMk9DNWY5RGpRZG9DV0ktWHk3bExmR21GNGNVbTFRd0FqZTR5Y0djOHVHTW01dTdGQlp4Y0hUYk9kSEgtQjFmVXBuTmQyWWc4NE1FSGQxa2t3?oc=5",
+      "pub_date": 1791455441.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?auto=format&q=75",
+      "description": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
+    },
+    {
+      "headline": "Keep calm and enter 'bunker mode,' crypto bros say",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXJuLXNKeEkzQ09UR2hRejZFVS1ZeEVwMktyRDlkbXZpVy1GcU9DXzhtQ3JzaE84bWFyMmhKdlg1V0wySW1GYzlBZkhmY2ozaF96WUJqTm93OXJBT3BQcHF3MTlwMC1WenlZUktNTTR2UHJmZzcxVHZGTmZqd0pJelhXMG1FeTJLdnVGQ0xFQzBrMFpFR3h2Znl5UnI1VnNfYm9kekRTWURVenFq?oc=5",
+      "pub_date": 1791474660.0,
+      "article_url": "https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10",
+      "image": "https://i.insider.com/6ac7adf242403ad8039a497d?width=1200&format=jpeg",
+      "description": "Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results."
     },
     {
       "headline": "The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?",
@@ -35,46 +55,6 @@
       "description": "Ethereum ETFs just logged nine straight sessions of outflows and shed nearly $2 billion in assets, but the real story behind those numbers tells a very different tale about where institutional confidence actually stands."
     },
     {
-      "headline": "Solana Needs a 167% Rally to Reach Its All-Time High, While Ethereum Requires 97%. Which Will Get There First?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdm9jRS1uQ1pfaGkyZEJYNVo2SXRCNEo1dFFDbjdGaDdZWW5fbTM3WndxaThtVEpZcDVfWXl3cDBFTHF5TmN1TUd3SVJyRTZTSXhlTTIwYmZ4QVJ2NlM2YmlTUmV2TkFSUTRsMU04dnhFUDZ5OXp6VDJmd1h0dV9fRV9hZ3d4Yk5kWU1Ba0FjUGphR0trLXJoeA?oc=5",
-      "pub_date": 1791666579.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/solana-needs-167-rally-reach-210939095.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2d0428dad212621b2ea02f8793a5cad84a5a05a0a162e6335ea97919d1905ac6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa836881b2194751f04df521f5d409390.jpg",
-      "description": "Ethereum and Solana are both deep in the red from their peaks, but one faces a dramatically harder climb back. The gap between their recovery paths reveals a surprising tension over which coin could reclaim its glory first."
-    },
-    {
-      "headline": "Keep calm and enter 'bunker mode,' crypto bros say",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXJuLXNKeEkzQ09UR2hRejZFVS1ZeEVwMktyRDlkbXZpVy1GcU9DXzhtQ3JzaE84bWFyMmhKdlg1V0wySW1GYzlBZkhmY2ozaF96WUJqTm93OXJBT3BQcHF3MTlwMC1WenlZUktNTTR2UHJmZzcxVHZGTmZqd0pJelhXMG1FeTJLdnVGQ0xFQzBrMFpFR3h2Znl5UnI1VnNfYm9kekRTWURVenFq?oc=5",
-      "pub_date": 1791474660.0,
-      "article_url": "https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10",
-      "image": "https://i.insider.com/6ac7adf242403ad8039a497d?width=1200&format=jpeg",
-      "description": "Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results."
-    },
-    {
-      "headline": "Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWlJQ0V1d1NaRHZ4T2JMNXlOU1A0SGllMHhybzZrbzhETFJxSHh4N3dPQVpfUXd5cXlfX2tRcnVMYjI4bW8xUmNqMTMyMnVmSHBsem9ueGlLUXhJV1pYSTZVZDVkNXpRc1hnVnhOd3BMMDlyOE56dXBzQ25OQWJjSTFUYmxjdjVJOGdodFp2ZVFnQ2lhaGE0ZXlGT1Nsczd5elpqWUhxY2g?oc=5",
-      "pub_date": 1791566822.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/quantum-computers-break-bitcoin-ethereum-172702687.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cd5092404c2401560f55494c5db43c40434e1e247a0c5a4c92906d6f9f679f95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbbcf1f327640960ed5d21b5b47dff617.jpg",
-      "description": "An Ethereum Foundation researcher just urged big holders to prepare for bunker mode, and the threat triggering his warning has nothing to do with quantum computers. The real danger could arrive in months, and about a third of all Bitcoin supply sits fully exposed."
-    },
-    {
-      "headline": "Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXVrdFBKWkdpMS15S0gxbGRRem8tQnA3QV9xTHpwa2QyNVcwSTdtdzdsOE5pWEp3R1JiREhqZEZnc2FNeUNSOFh1VE52NUFDODhkeVRSUUVreUtjeFUzVllTVExFbTNYcHM4dXR2T000TDVwYVpkdF9WMk9DNWY5RGpRZG9DV0ktWHk3bExmR21GNGNVbTFRd0FqZTR5Y0djOHVHTW01dTdGQlp4Y0hUYk9kSEgtQjFmVXBuTmQyWWc4NE1FSGQxa2t3?oc=5",
-      "pub_date": 1791455441.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?auto=format&q=75",
-      "description": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
-    },
-    {
       "headline": "XRP Beats Bitcoin, Ethereum, Solana in ETF Flows: Can Price Follow?",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
@@ -95,16 +75,36 @@
       "description": "Ethereum (ETH) held above $2,400 on Saturday after BitMine Immersion Technologies (BMNR) chairman Tom Lee said the token should top $5,000 by year-end, half the level he called a \u201cconservative target\u201d more than a week ago.Speaking at\u00a0Token 2049 in Singapore on Friday, Lee, who is also co-founder an\u2026"
     },
     {
-      "headline": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-      "source": "Decrypt News",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSm0xdzFLTENWSTNtajJ0MGlWSU83dVlYQWNFWkN0TDdtMWJkSElMYTdldnMtV1JwbmJuVnI5Z0wwT3ltc0FOalgwVmt4Nl9lZk1qdXd0MHdaUGpValE0VTZSUG15aHV0Y2ltQ0dkNU1ZUTBSTjlacjl0b1RSSXhTeUxNU0NHV2ZiTjBsMGRhMUhtVVV5NzMtSQ?oc=5",
-      "pub_date": 1791563763.0,
-      "article_url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png",
-      "description": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027."
+      "headline": "Grayscale Says Crypto ETFs Moving Past Bitcoin, Ethereum",
+      "source": "CoinMarketCap",
+      "source_url": "https://coinmarketcap.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeExiajV2WUwzMWtHT0ZObEk3NjVac2lHSXNyVWVQRGNZbDZ0d0RoZHpTTlhBbjk5SjZjQTJOQkp1Z2lIei11Y01EY1hJZzE2U29QOE13U29xc0NkYTJYVkphOFZHWFFRZ0RObE9obFZvaDZIYlk4NzYxVTZDMGlNRDZYdVdZVE8yVG9DYzByaTRIbWVJWERuc2QzUkUyQQ?oc=5",
+      "pub_date": 1791466087.0,
+      "article_url": "https://coinmarketcap.com/academy/article/grayscale-says-crypto-etfs-moving-past-bitcoin-ethereum",
+      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/57d089a6afcc451c83fbd5732c4b3418.png",
+      "description": "Grayscale\u2019s Krista Lynch says its Zcash ETF topped $1 billion in a month, as the firm files to tokenize two covered-call funds under an SEC exemption."
+    },
+    {
+      "headline": "Ethereum ETFs see largest weekly net outflow since January",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQy0ybmluOHllZUhGYmt6cVRwbXQyWHhHd3ljWFdUTGs5blVRRTZabkFPY1pfRzhBVUNDQ0F1dFBwZ28tVEowRWJBQVJIUDhndWpUWW55LVRqbUNoY0NxcFNYSzUzUG9kMGUxQ1E1cmR1anVsNGZyZkxDNGFjc2R4alJjdmY?oc=5",
+      "pub_date": 1791680011.0,
+      "article_url": "https://cryptobriefing.com/ethereum-etfs-largest-weekly-outflow-since-january/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/10204531/library-ethereum-etfs-see-largest-weekly-net-outflow-since-janua-800x450.png",
+      "description": "US spot Ethereum ETFs saw $542.1 million in weekly outflows, the largest since January, led by BlackRock's ETHA as ETH slipped below $2,500."
+    },
+    {
+      "headline": "OpenAI math breakthroughs raise \u2018bunker mode\u2019 alarm from Bitcoin researcher Justin Drake",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzhpV0ItTFRNb202OGJtU25JYlJvSXZwVkh6UnBVc1pyYWo3c0JNY1JpQjZrdzd5eVdPeDZzelgxTTBYdmlwSVdkS1ptWWd2RVZZc2NyWlpSdzFMQWNNT21TZmRRTkp4NlEwUExFbVgwVGh6bFJSTGVFSXJTbVBfNFhBLUNET3NQeGUyeDVCNkdHVUp0TVk1RlJCNXBUVjZYWEtvaUFlVlBjX1VreXNlMWxiSzFmMThNbkdLWDB2cw?oc=5",
+      "pub_date": 1791411885.0,
+      "article_url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-fresh-address-migration.webp",
+      "description": "Justin Drake says AI could uncover a classical attack on ECDSA, putting exposed Bitcoin public keys at risk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-10T23:17:54.331788+00:00"
+  "fetched_at": "2026-10-11T02:04:16.743545+00:00"
 }

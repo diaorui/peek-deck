@@ -5,84 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic AI model submits false homicide tip to Philadelphia police",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFFtTFhJbEVVTTU2NzJva0NKM0VYd2lNdDFkN29fWFJKSTQtcF9POVRWTUY4WHRqSVNHZHVOdkt5UHJxSFZVcW5kX28tVDIzUnFsekVTNmwzbjBpOHdKeHhzODlZbFRqeWpycnpzTGJlYy1waDE1dnRXUVVaUkRuWjdHYUNobDA3ZldjNG9RSC1LOVA3d1RuQXcyVmEwaGp5M3dibkZfdldtTkxLS25z0gG0AUFVX3lxTE56dENBbVZWZkdYclE5Rk9LS0Vsd1JHOHVBYW9vZDZiU0lJSTFwT2EyMTIyaWljcXYtYllCWG1IaDA4MEZQUC1ZWmNYcW1RSFRwSWpucEFGYXAxM2sxYkYwU3ZyQ0IzSVJ6QktPUHExcGRyeGd4bEJpTEU3LUNMMmZpZXYxd1VLQ09jNFpSXzlVaVEwMzJ0bnFrak9vOWwtcVJpZWdvd0l1Mk1HZWZMQjhpcW56Wg?oc=5",
-      "pub_date": 1791608678.0,
-      "article_url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac9b61527-1791604245.jpg?resize=1920%2C1440",
-      "description": "Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'."
-    },
-    {
-      "headline": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "source": "University of California, Berkeley",
-      "source_url": "https://news.berkeley.edu",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS095NGg1SGdvMzZKSjktTWo5ZkFWMkJmdGsxRHJuRHJ6bUYzcV80V3RnUkpIYmp2OHlhNDZxZjVuaWJVQUl4WUhSX1JQZDM4eXlYMGVGRmh2ZUZ1bDljYVZSSDRocGR5LUUtYU56QVh1d1RoUVhFcDZZWGxXWGw1SFpSSVcyVEtWZVh1b2kwUlhfQURUOXhPOWVLOXNtTWNzem9PRGdfMFNoaXFvbGx2MVln?oc=5",
-      "pub_date": 1791567646.0,
-      "article_url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
-      "image": "https://news.berkeley.edu/wp-content/uploads/2026/10/sanket-mishra-qAKPcrIcRG8-unsplash-scaled.jpg",
-      "description": "A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education \u2014 and daily life."
-    },
-    {
-      "headline": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5",
-      "pub_date": 1791673260.0,
-      "article_url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
-      "image": "https://i.guim.co.uk/img/media/f50120ad5ffe55e5024a1ec6dc2e727ce8f4f95d/269_0_3928_3142/master/3928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=821105db283a829e3ca0732b7742a923",
-      "description": "Newly established commission identifies 17 catastrophic threats to human health but says \u2018realistic route to act\u2019 on each exists"
-    },
-    {
-      "headline": "For reporters covering AI, keeping up with story is both tough and exciting",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS25UNjZHSGJQaGVHc1NyaHpYcVNjM080am80YUZzUHNubndmUVdCMnFVNVJnVTQ1UUJZUW5BTWZKUldtUkEtNzlzNXQwd1I2cTVIdkx4cklGTjZmTkphR3VFQnRVTXhMM0xKNWdnYUhXSUhaTnQyUFU1MWlXeHpuN1BHa1psVGFoeDJmcjRMTEhROW9ERnpyazNjT0duY28wc25TM1RHb0I5NHRZYU1UOWd3c1ZMajBXLXBB?oc=5",
-      "pub_date": 1791668823.0,
-      "article_url": "https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "description": "How NPR's team covering AI covers their increasingly important and fast moving beat."
-    },
-    {
-      "headline": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
-      "pub_date": 1791665968.0,
-      "article_url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
-      "description": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development."
-    },
-    {
-      "headline": "Microsoft CEO Nadella Calls for \u2018Emergency Brake\u2019 on Advanced AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2tYeVZwTkEwVmNuQnBYVnhKMHNnamZKeEtqeXlyT3AtRVlXbWtMS2wxRktaYWRyUUJfcDV5MktLeFZJRkFBYm9WN2xvT25VY2VsZFNnSzZhNXBoYzZSRzNCaGgwUFBiOFloZ3BwdzhnZzEyZzJKbFk2Q1ZDbW9udEZ5YklCSzNNd256aEN5elc4RlJfZVNrQ1FoVWlBOFBLWDNodUJBWVNVNVJEc2paY1pNQQ?oc=5",
-      "pub_date": 1791657359.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+      "headline": "Anthropic\u2019s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5",
+      "pub_date": 1791648704.0,
+      "article_url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
       "image": null,
       "description": null
     },
     {
-      "headline": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkNKbTdSU3VkMlhaaTY4ZmdjQ3dGWlFQbkpXTnNjMkZCVDkyenpBaUVBRk5vQzdXQWFIbk1Waks1YjNjWnVBV056T04tcGczUW1PUHhnSU5oQ2JUYmtTckdqemVTTEFOWjBHT01DaVJESXVoMDdZdURfT2pjNmU0ZVlvWGV2TFpGMnNoeTJxUkIxSENjbWlyaTAzVnFhcDQ?oc=5",
-      "pub_date": 1791668871.0,
-      "article_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "description": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI."
+      "headline": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5",
+      "pub_date": 1791603240.0,
+      "article_url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2FLMnBuSUgtYWRsR2lzR2xZY1pyTVFLcHhsZjkzeU40WDA0LTlnZl8tZ0FsQjlhQWkydjEtRU9IeG5OLWE3SGx0aWh0bjNuVnZ5Z2hzeDY1U3cxX1JocngzNGZVUmJpY1d3d2s3NlZVNEYyVkt6bTdZdXItbmtxN013SnNpSWRDV0ZoUmxuYWxWRGFnX2h4MmRmZTBuZmFaVHBWcFJjVFBObE95SkxEQUkwTE1vM25BU3BQMERIa00zSzJSMXlTTzNnaTZPelUtVXROTW9GRHNhMnhTdVZla1VlZw?oc=5",
-      "pub_date": 1791638460.0,
-      "article_url": "https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256666912-Karp.png?resize=1200,600",
-      "description": "Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027."
+      "headline": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "source_url": "https://www.fox4news.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd21qM2ZyNVBzY0VvODNNNmRfOFEzQzdRZ1VQbDkxYjczN2ZnN29IanlyN1p0SmtpaHJ4TUYxdzBFREkzMUh0elNrWE5Cc0EzRk5fS1RfaXhkbzNuZ1hWRlZfRGM3MTd6ZUNNZ0p4T3lPa3JneExqM0lwdFlLVFpZdVoyZGF3cnRIUzhGQjV5clFyM0dhUDJaeDdnZG5fUThi?oc=5",
+      "pub_date": 1791677556.0,
+      "article_url": "https://www.fox4news.com/news/anthropic-claude-ai-model-sends-fake-homicide-tip-philadelphia-police",
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/1200/630/gettyimages-2293903833-claude.jpg?ve=1&tl=1",
+      "description": "An artificial intelligence model from Anthropic posed as someone with information on an unsolved homicide in Philadelphia and submitted a bogus tip to the city\u2019s police department, according to both the software\u2019s maker and local law enforcement."
     },
     {
       "headline": "Nicolas Cage Says He\u2019s \u2018Probably Not\u2019 Working With Amazon Again After Refusing to Sign AI Waiver for \u2018Spider-Noir,\u2019 Teases Joining \u2018True Detective\u2019",
@@ -95,6 +45,16 @@
       "description": "Nicolas Cage says he 'probably won't be working' with Amazon again after refusing to sign an AI waiver for 'Spider-Noir.'"
     },
     {
+      "headline": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2JESjV5ejNVeC1oRElCYmpwd0NPYzFsNW9rYmlQNkprcGxrXzRyVFZjYlNodTFGRjR4ckJYMmpEcEVoRzExckdBbFJfMDBfdThPZVNiNzNYT3hOR09uUmZqQnpfalRHcU9CZU4tMTRrdkNVT3hMdW9pMGF2d3NnR1dTU293Z2RwV0p5dzlvYTlzNnNaaFdz?oc=5",
+      "pub_date": 1791681660.0,
+      "article_url": "https://www.yahoo.com/entertainment/tv/articles/nicolas-cage-says-wont-amazon-012148836.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/31aa10dd400e199f78af722c173db61d541821f67b80b51ccde378f091dee861/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2Fb30cc0698195346b50111befccd6aeaf.jpg",
+      "description": "Nicolas Cage, who recently starred in \"Spider-Noir,\" said he won't work with Amazon again after a disagreement over an AI waiver."
+    },
+    {
       "headline": "Nicolas Cage Teases \u2018True Detective\u2019 Role, Says He \u201cProbably\u201d Won\u2019t Work With Prime Video Again After Refusing to Sign AI Waiver for \u2018Spider-Noir\u2019",
       "source": "The Hollywood Reporter",
       "source_url": "https://www.hollywoodreporter.com",
@@ -103,8 +63,48 @@
       "article_url": "https://www.hollywoodreporter.com/tv/tv-news/nicolas-cage-true-detective-anti-ai-amazon-spider-noir-1236726924/",
       "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Nicolas-Cage.jpg?w=1440&h=810&crop=1",
       "description": "While appearing on a spotlight panel at NYCC on Saturday morning, the actor also joked that his next 'National Treasure' film would focus on the Epstein files: \u201cThat\u2019s relevant.\u201d"
+    },
+    {
+      "headline": "Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2FLMnBuSUgtYWRsR2lzR2xZY1pyTVFLcHhsZjkzeU40WDA0LTlnZl8tZ0FsQjlhQWkydjEtRU9IeG5OLWE3SGx0aWh0bjNuVnZ5Z2hzeDY1U3cxX1JocngzNGZVUmJpY1d3d2s3NlZVNEYyVkt6bTdZdXItbmtxN013SnNpSWRDV0ZoUmxuYWxWRGFnX2h4MmRmZTBuZmFaVHBWcFJjVFBObE95SkxEQUkwTE1vM25BU3BQMERIa00zSzJSMXlTTzNnaTZPelUtVXROTW9GRHNhMnhTdVZla1VlZw?oc=5",
+      "pub_date": 1791638460.0,
+      "article_url": "https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256666912-Karp.png?resize=1200,600",
+      "description": "Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027."
+    },
+    {
+      "headline": "AI is among 17 potentially \u2018catastrophic threats\u2019 that researchers say require targeted action",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkM4YkxfLW5KQmZqRkxQUjJRUEVTWkU2R2ZXUnF6VE54eC1HdGFPamR6dW5KQVgzNDB4bnhvMGRwX1lNQWFOR01vb09HNTk1RFNkbVhTSVNOcGpaSU1FdHFFeVNfdVlycHo5MEhFNll4R2lLd1E0TTlEQThGUnNUUWhoWHY0NHVuUlpudXM2Nl9JaUdRckE?oc=5",
+      "pub_date": 1791676760.0,
+      "article_url": "https://www.cnn.com/2026/10/10/health/global-health-catastrophic-threats-ai-extinction-risk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261614976.jpg?c=16x9&q=w_800,c_fill",
+      "description": "More than a dozen \u201cinterconnected catastrophic threats\u201d pose significant risk to global health and wellbeing through the remainder of the 21st century, researchers say \u2013 including the potential for extinction. But targeted action from world leaders can help avoid worst-case scenarios."
+    },
+    {
+      "headline": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "source": "University of California, Berkeley",
+      "source_url": "https://news.berkeley.edu",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS095NGg1SGdvMzZKSjktTWo5ZkFWMkJmdGsxRHJuRHJ6bUYzcV80V3RnUkpIYmp2OHlhNDZxZjVuaWJVQUl4WUhSX1JQZDM4eXlYMGVGRmh2ZUZ1bDljYVZSSDRocGR5LUUtYU56QVh1d1RoUVhFcDZZWGxXWGw1SFpSSVcyVEtWZVh1b2kwUlhfQURUOXhPOWVLOXNtTWNzem9PRGdfMFNoaXFvbGx2MVln?oc=5",
+      "pub_date": 1791567646.0,
+      "article_url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
+      "image": "https://news.berkeley.edu/wp-content/uploads/2026/10/sanket-mishra-qAKPcrIcRG8-unsplash-scaled.jpg",
+      "description": "A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education \u2014 and daily life."
+    },
+    {
+      "headline": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
+      "pub_date": 1791665968.0,
+      "article_url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
+      "description": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-10T23:17:59.269341+00:00"
+  "fetched_at": "2026-10-11T02:04:15.357666+00:00"
 }
