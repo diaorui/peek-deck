@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-11T09:11:07.543895+00:00'
+updated: '2026-10-11T15:53:31.237315+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 11, 2026 at 09:11 UTC  
+**Last Updated:** October 11, 2026 at 15:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh – 6000mAh) x 1 I have been working on a bipedal version hence the "2 more to go" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)
 
-3d ago
+4d ago
 
 ---
 
@@ -58,7 +58,7 @@ Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) desi
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-3d ago
+4d ago
 
 ---
 
@@ -114,6 +114,14 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 ## Google News: "robotics"
 
+**[Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work](https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse)**
+
+Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
+
+Futurism • 1d ago
+
+---
+
 **[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
 
 Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
@@ -122,17 +130,11 @@ MIT Technology Review • 3d ago
 
 ---
 
-**[Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence](https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/)**
+**[Minuscule Swiss fiber motor keeps robots squishy and pliable](https://newatlas.com/robotics/fibermotor-flexible-motor/)**
 
-The raise consisted of a Series A seed round led by Framework Ventures plus an earlier seed round.
+If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber.
 
-Fortune • 1d ago
-
----
-
-**[This Robot Will Deliver Your Food, if It Doesn’t Get Smashed First](https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html)**
-
-The New York Times • 1d ago
+New Atlas • 4h ago
 
 ---
 
@@ -150,11 +152,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work](https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse)**
+**[Watch: Two-armed robot throws, catches, and hits balls like a baseball champ](https://interestingengineering.com/ai-robotics/athenazero-two-armed-robot-throws-catches-balls)**
 
-Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
+RAI's AthenaZero robot has demonstrated its ability to throw, catch, and hit balls using coordinated movements and a low-inertia design.
 
-Futurism • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -164,23 +166,23 @@ Financial Times • 1d ago
 
 ---
 
-**[What Are Humanoid Robots? Inside The Growing Industry And Where It’s Headed](https://www.forbes.com/sites/technology/article/what-is-a-humanoid-robot/)**
-
-Forbes • 22h ago
-
----
-
 **[ICE buys robotic dogs from Connecticut company for patrols](https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php)**
 
-CT Insider • 23h ago
+CT Insider • 1d ago
 
 ---
 
-**[Walmart’s multibillion-dollar push to replace workers with robots hits snags on dog food, cardboard boxes: report](https://nypost.com/2026/10/09/business/walmarts-multibillion-dollar-push-to-replace-workers-with-robots-hits-snags-on-dog-food-cardboard-boxes-report/)**
+**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
 
-Walmart expects its spending on automation to peak this year and next, but it also believes the new tech will eventually require fewer warehouse workers, cutting down costs.
+Bloomberg.com • 2d ago
 
-New York Post • 1d ago
+---
+
+**[5 Steps to Create SimReady Assets for Robotics with Frontier AI Models | NVIDIA Technical Blog](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)**
+
+Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints…
+
+NVIDIA Developer • 2d ago
 
 ---
 
@@ -188,13 +190,13 @@ New York Post • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[What If Robots Become Cheaper Than YOU? Elon Musk Says Universal Income](https://www.youtube.com/watch?v=qhRxPlyaP40)**
+**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
 
-What happens when a robot becomes cheaper than a human worker? Imagine hiring a robot that doesn't need weekends, ...
+At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
 
 📺 ejunky66
 
-👁️ 104K • 👍 2K • 💬 107 • ⏱️ 1:00 • 6d ago
+👁️ 149K • 👍 2K • 💬 118 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -204,17 +206,17 @@ China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and
 
 📺 MACHINEKIND
 
-👁️ 50K • 👍 818 • 💬 81 • ⏱️ 13:43 • 3d ago
+👁️ 51K • 👍 831 • 💬 82 • ⏱️ 13:43 • 3d ago
 
 ---
 
-**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
+**[World’s First Human VS Humanoid Robot FULL FIGHT︱Extended Cut](https://www.youtube.com/watch?v=VtfUAiLUFWM)**
 
-We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
+On Sept. 18th, we hosted the first human VS humanoid robot fight at the REK Arena in San Francisco. Frankie LaPenna faced off ...
 
-📺 CNET
+📺 REK
 
-👁️ 53K • 👍 501 • 💬 67 • ⏱️ 6:34 • 6d ago
+👁️ 59K • 👍 628 • 💬 127 • ⏱️ 11:36 • 2d ago
 
 ---
 
@@ -224,55 +226,37 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 📺 Jot Tv Media 
 
-👁️ 83K • 👍 2K • 💬 16 • ⏱️ 1:04 • 2d ago
+👁️ 85K • 👍 2K • 💬 17 • ⏱️ 1:04 • 3d ago
 
 ---
 
-**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
+**[Humanoid robots and new chips - Will Germany become a tech hotspot? | DW Documentary](https://www.youtube.com/watch?v=XpMTcMp4jpk)**
 
-At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
+Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations ...
 
-📺 ejunky66
+📺 DW Documentary
 
-👁️ 144K • 👍 2K • 💬 114 • ⏱️ 1:00 • 5d ago
-
----
-
-**[Lava Burning A Humanoid Robot](https://www.youtube.com/watch?v=yAsR2Xr1rz0)**
-
-Writer: Brett Stelmaszek Editor: Rikus Strauss Music by: @UFD-Music The amount of joy this is giving people shows you just how ...
-
-📺 UFD Tech
-
-👁️ 159K • 👍 7K • 💬 161 • ⏱️ 0:40 • 4d ago
+👁️ 224K • 👍 1K • 💬 143 • ⏱️ 28:21 • 6d ago
 
 ---
 
-**[Would YOU actually play THIS RAVANA? War Robots Gameplay WR](https://www.youtube.com/watch?v=mpnTi7Mvl6A)**
+**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
 
-War Robots Gameplay: UE Vortex and GAS Shield Ravana - Would you play this in WR? My War Robots Creator Link: ...
+Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
 
-📺 Manni-Gaming
+📺 MACHINEKIND
 
-👁️ 10K • 👍 339 • 💬 50 • ⏱️ 12:01 • 21h ago
-
----
-
-**[the first career ending injury in robotic athletics    #robotics](https://www.youtube.com/watch?v=F_KzKVWFKMI)**
-
-Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Videos ...
-
-📺 StingKnight
-
-👁️ 38K • 👍 268 • 💬 17 • ⏱️ 0:10 • 3d ago
+👁️ 74K • 👍 1K • 💬 117 • ⏱️ 13:42 • 5d ago
 
 ---
 
-**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
+**[5 Best Robotics Stocks to Buy for 2027 - Plus a 10X Moonshot](https://www.youtube.com/watch?v=1cg0XArsBbA)**
 
-📺 Ben Esherick
+With dozens of positions in the AI Investor portfolio it can be difficult to stay on top of all the earnings, new filings, and major stock ...
 
-👁️ 2.1M • 👍 119K • 💬 2K • ⏱️ 0:34 • 5d ago
+📺 247 Wall St
+
+👁️ 5K • 👍 141 • 💬 22 • ⏱️ 1:17:06 • 1d ago
 
 ---
 
@@ -283,6 +267,26 @@ Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LT
 📺 Linus Tech Tips
 
 👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 13:52 • 6d ago
+
+---
+
+**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
+
+Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
+
+📺 DEEP Robotics
+
+👁️ 12K • 👍 197 • 💬 27 • ⏱️ 1:12 • 5d ago
+
+---
+
+**[Would YOU actually play THIS RAVANA? War Robots Gameplay WR](https://www.youtube.com/watch?v=mpnTi7Mvl6A)**
+
+War Robots Gameplay: UE Vortex and GAS Shield Ravana - Would you play this in WR? My War Robots Creator Link: ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 357 • 💬 57 • ⏱️ 12:01 • 1d ago
 
 ---
 
