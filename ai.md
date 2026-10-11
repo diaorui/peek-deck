@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-11T09:11:07.531531+00:00'
+updated: '2026-10-11T15:53:31.218577+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 11, 2026 at 09:11 UTC  
+**Last Updated:** October 11, 2026 at 15:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,33 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[The Internet is wild😂😂](https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/)**
+
+3h ago
+
+---
+
 **[Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs](https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/)**
 
 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight
 
-🔗 [Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) • 9h ago
+🔗 [Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) • 15h ago
+
+---
+
+**[Jeff Bezos says AI will deliver a 3-day work week — while Amazon cuts 30,000 jobs](https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/)**
+
+Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage.
+
+🔗 [Fortune](https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/) • 3h ago
+
+---
+
+**[Creators of an AI-generated sci-fi series said it took $38,000 in AI credits and 8 to 10 generations per shot](https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_aigenerated_scifi_series_said_it/)**
+
+The filmmakers behind the AI-generated TV series called "The Arc" share what went into making it, including $38,000 in AI credits.
+
+🔗 [Business Insider](https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10) • 2h ago
 
 ---
 
@@ -49,7 +71,7 @@ Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many
 
 What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) • 12h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) • 19h ago
 
 ---
 
@@ -57,15 +79,7 @@ What has users and large corporations so excited about Jev is TypeSafe’s claim
 
 Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) • 18h ago
-
----
-
-**[Man wins three-year parking ticket battle after using ChatGPT as his lawyer](https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/)**
-
-Rafal Goral says he was fined £100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023
-
-🔗 [The Independent](https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html) • 16h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) • 1d ago
 
 ---
 
@@ -73,7 +87,7 @@ Rafal Goral says he was fined £100 for not paying quickly enough at a carpark N
 
 In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) • 5h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) • 11h ago
 
 ---
 
@@ -81,37 +95,23 @@ In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step ba
 
 I am new to video editing and I often watch tutorials on YouTube. Recently I have been asking AI to teach me certain things in Premiere, however the responses vastly differ from AI to AI. So far I found out that Gemini is straight-up lying, since asking the same question in different chats doesn't always provide you with the same response, plus it almost always tries to give ridiculously complex workarounds to very basic things. When called out, it just apologizes, but keeps doing the same thing. I used DouBao as well, which is Chinese, and not always up to date, I guess, since when asked how to apply LUTs in Premiere, it suggested to use Davinci instead, as it was "easier", but I found that in Premiere it is much more convenient. ChatGPT (the free version) has a very small limit on uploads, which I frequently use for faster responses (sending Premiere screenshots mostly). Haven't used Claude or DeepSeek yet. Which AI model do you guys think is the best for learning Premiere, if you've ever used one for that?
 
-33m ago
+7h ago
 
 ---
 
-**[A Florida local newspaper ran an op-ed. It was an Iranian AI fake.](https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/)**
+**[Man wins three-year parking ticket battle after using ChatGPT as his lawyer](https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/)**
 
-ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said.
+Rafal Goral says he was fined £100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023
 
-🔗 [The Washington Post](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/) • 13h ago
-
----
-
-**[We're breaching the point where the "taste" of a model's decisions is becoming as or more important than its raw intelligence](https://www.reddit.com/r/artificial/comments/1x32fn9/were_breaching_the_point_where_the_taste_of_a/)**
-
-I think I can say with some confidence that Opus 5.5 has begun to reach a point in capability where it can solve most technical problems in a competent and acceptable manner. As a result, a vast majority of the decisions one needs to make when working with it have been boiled down to decisions of personal taste and opinion on design, rather than just focusing on what the most pragmatic solution is. Because matters of taste are far from objective, I think we're going to begin to see more of a split in model offerings based on the kinds of taste each model has. If each model can do the work at an acceptable level from a purely utilitarian standpoint, then the only remaining decisions become *how* the model completes that work, and what sorts of decisions it makes with regards to styling, ui, ux, and so on. Many of these questions do not have definitive "correct" answers, and depend entirely on what appeals to the developer personally. Then, the model that becomes the most efficient to work with *for you*, is the one that shares your personal taste the most often, and has to be corrected the least amount during development. We've already begun to see this with Opus 5.5 as well, with people beginning to compliment not just its raw capability, but also its design sensibility and general taste with regards to ui and ux development. As models get smarter I think we'll see a strata of models that have different "styles" emerge, to appeal to different types of individuals with different taste profiles.
-
-1h ago
+🔗 [The Independent](https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html) • 23h ago
 
 ---
 
-**[Observations On Artificial Intelligence for Everyday People](https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/)**
+**[its kind of hard to look for a video generator now.](https://www.reddit.com/r/artificial/comments/1x3b2e4/its_kind_of_hard_to_look_for_a_video_generator_now/)**
 
-A few thoughts.
+is it just me or is it actually harder to try to actually use an ai video generator that is just like tiktok ai cast. because ive tried so hard to look for one. idk man.
 
-🔗 [substack.com](https://substack.com/@williamowencooper/note/p-218052066?r=ewfqx) • 4h ago
-
----
-
-**[Task-structured modularity emerges in artificial networks and aligns with brain architecture](https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/)**
-
-🔗 [nature.com](https://www.nature.com/articles/s42256-026-01306-9) • 3h ago
+24m ago
 
 ---
 
@@ -119,11 +119,9 @@ A few thoughts.
 
 ## Google News: "ai"
 
-**[Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment](https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment)**
+**[AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit](https://www.wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd)**
 
-Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists
-
-The Guardian • 10h ago
+WSJ • 6h ago
 
 ---
 
@@ -131,65 +129,65 @@ The Guardian • 10h ago
 
 Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins
 
-BBC • 9h ago
+BBC • 16h ago
 
 ---
 
-**[Sci-Fi Thriller ‘Overstake’ Gets Generative AI Rebuild, Boarded by Cappu Films at Busan Market (EXCLUSIVE)](https://www.yahoo.com/entertainment/movies/articles/sci-fi-thriller-overstake-gets-063157077.html)**
+**[Yet Another Literary Prizewinner Seems to Be AI](https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/)**
 
-Hong Kong’s Cappu Films has signed on as worldwide sales agent for “Overstake,” a sci-fi action thriller from writer-director Stas Mareev that pairs a live-action shoot with settings being rebuilt thr...
-
-Yahoo • 2h ago
+The Atlantic • 1h ago
 
 ---
 
-**[Tech companies have an adorable plan to make you forget about AI's threat to jobs and humanity](https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10)**
+**[Watch Is AI Crowding Everyone Else Out of the Bond Market?](https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video)**
 
-AI companies are embracing cute mascots like Jolly for Meta's Muse, and Dots for OpenAI. Experts say it's making people feel more comfortable with AI.
-
-Business Insider • 28m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[The new energy permitting bill unites fossil fuels and clean power while dividing environmentalists](https://fortune.com/2026/10/11/energy-permitting-ai-fossil-fuels-clean-power-environmentalists/)**
+**[Ben Affleck Talks New Thriller, Early Success, Facing Failure, AI](https://www.today.com/video/ben-affleck-talks-new-thriller-early-success-facing-failure-ai-271407173774)**
 
-The legislation expedites everything from gas pipelines to solar farms, but potentially triggers more environmental risks.
+In Part One of this week’s Sunday Sitdown, Ben Affleck joins Willie Geist to discuss his new thriller “Animals,” reflect on his early success and then failure, and weigh in on the debate around the risks of using artificial intelligence in the filmmaking process.
 
-Fortune • 2h ago
-
----
-
-**[What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’](https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html)**
-
-The New York Times • 21h ago
+TODAY.com • 2h ago
 
 ---
 
-**[AI may change the price of your Big Mac and groceries — what this means for shoppers](https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html)**
+**[Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era](https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire/)**
 
-As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.
+Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
+
+Fortune • 1d ago
+
+---
+
+**[AI’s quiet safety gatekeepers are stepping into the spotlight](https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html)**
+
+The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.
 
 CNBC • 4h ago
 
 ---
 
-**[Nvidia in talks to invest further in Reflection AI or buy it, FT reports](https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/)**
+**[Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons)**
 
-Reuters • 13h ago
+This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing ‘end times’ closer by the day, says Guardian foreign affairs commentator Simon Tisdall
 
----
-
-**[The problem with your AI therapist](https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1)**
-
-Financial Times • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control](https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html)**
+**[Opinion | Examining the Doctor-A.I. Relationship](https://www.nytimes.com/2026/10/11/opinion/doctor-ai.html)**
 
-Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.
+Readers respond to “A.I. Has Made Me a Better Physician,” an essay by Dr. Rachael Bedard. Also: Our mental health; a comparison to China.
 
-CNBC • 12h ago
+The New York Times • 2h ago
+
+---
+
+**[Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1)**
+
+AP News • 22h ago
 
 ---
 
@@ -201,7 +199,7 @@ CNBC • 12h ago
 
 TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.
 
-⬆️ 437 • 💬 347 • 1d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
+⬆️ 441 • 💬 351 • 1d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
 
 ---
 
@@ -209,7 +207,7 @@ TypeSafe AI is an AI lab building machine-native intelligence infrastructure for
 
 Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen
 
-⬆️ 413 • 💬 188 • 1d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+⬆️ 414 • 💬 191 • 2d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 
 ---
 
@@ -217,7 +215,7 @@ Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI,
 
 Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...
 
-⬆️ 289 • 💬 133 • 22h ago • [GitHub](https://github.com/rociiu/talorys)
+⬆️ 311 • 💬 142 • 1d ago • [GitHub](https://github.com/rociiu/talorys)
 
 ---
 
@@ -225,7 +223,7 @@ Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note
 
 An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
 
-⬆️ 208 • 💬 154 • 1d ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
+⬆️ 211 • 💬 154 • 1d ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 
 ---
 
@@ -239,13 +237,13 @@ An investigation is underway after an AI model from the company Anthropic submit
 
 How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.
 
-⬆️ 183 • 💬 89 • 1d ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+⬆️ 183 • 💬 89 • 2d ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 
 ---
 
 **[Nvidia in talks to acquire US 'open' model startup Reflection AI](https://news.ycombinator.com/item?id=50035886)**
 
-⬆️ 162 • 💬 105 • 14h ago • [ft.com](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+⬆️ 171 • 💬 109 • 21h ago • [ft.com](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
 ---
 
@@ -262,7 +260,7 @@ Biohub, DOE, NIH, and partners will generate open, standardized data to train AI
 During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.
 The avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.
 
-⬆️ 90 • 💬 69 • 7h ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+⬆️ 121 • 💬 88 • 13h ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 
 ---
 
@@ -270,7 +268,7 @@ The avid reader of my blog might have noticed that I had previously written two 
 
 Early evidence from InnovationEval: No
 
-⬆️ 87 • 💬 77 • 1d ago • [Epoch AI](https://epoch.ai/publications/innovationeval)
+⬆️ 88 • 💬 86 • 1d ago • [Epoch AI](https://epoch.ai/publications/innovationeval)
 
 ---
 
@@ -278,13 +276,23 @@ Early evidence from InnovationEval: No
 
 ## YouTube Videos: "ai"
 
+**[Broadcom $42 Billion to Anthropic AI to Lease Chips - AI Bubble Keeps Growing](https://www.youtube.com/watch?v=3IOO5dm8SsI)**
+
+Free In Person Tech Eduction in Baltimore MD - https://www.meetup.com/eli-the-computer-guy/ Spotify ...
+
+📺 Eli the Computer Guy
+
+👁️ 7K • 👍 315 • 💬 87 • ⏱️ 12:35 • 3h ago
+
+---
+
 **[AI Just Crossed a Terrifying Line - Nuclear Engineer Reacts to Kurzgesagt](https://www.youtube.com/watch?v=8ExyIscsvAc)**
 
 OpenAI's Incident Report: ...
 
 📺 T. Folse Nuclear
 
-👁️ 191K • 👍 4K • 💬 1K • ⏱️ 43:25 • 16h ago
+👁️ 236K • 👍 5K • 💬 1K • ⏱️ 43:25 • 22h ago
 
 ---
 
@@ -294,7 +302,7 @@ Someone just used AI to recreate 7 of Adobe's biggest applications, including Ph
 
 📺 Geoff Fagien
 
-👁️ 23K • 👍 393 • 💬 254 • ⏱️ 7:00 • 13h ago
+👁️ 35K • 👍 592 • 💬 325 • ⏱️ 7:00 • 20h ago
 
 ---
 
@@ -304,27 +312,7 @@ Joseph Gordon-Levitt has spent much of his life telling stories about what it me
 
 📺 New York Times Opinion
 
-👁️ 17K • 👍 273 • 💬 24 • ⏱️ 7:32 • 20h ago
-
----
-
-**[Can AI Make A Better Game Than Me?](https://www.youtube.com/watch?v=kRSB-Y3kT7g)**
-
-OpenAI released their new ChatGPT Astra 6 model around a month ago. It was shown to be able be used for game development ...
-
-📺 CodyCantEatThis
-
-👁️ 86K • 👍 4K • 💬 2K • ⏱️ 18:44 • 19h ago
-
----
-
-**[The AI Bubble Shows More Signs Of BURSTING](https://www.youtube.com/watch?v=IOyo2VDdyfE)**
-
-Tech companies are taking on massive debt to fuel the artificial intelligence boom. Cenk Uygur and Ana Kasparian discuss on ...
-
-📺 The Young Turks
-
-👁️ 159K • 👍 2K • 💬 644 • ⏱️ 15:37 • 2d ago
+👁️ 19K • 👍 294 • 💬 27 • ⏱️ 7:32 • 1d ago
 
 ---
 
@@ -334,45 +322,57 @@ Axios reports that leaders of AI firms are “gaming out” ways to respond afte
 
 📺 NewsNation
 
-👁️ 10K • 👍 68 • 💬 14 • ⏱️ 3:57 • 1d ago
+👁️ 11K • 👍 75 • 💬 15 • ⏱️ 3:57 • 1d ago
 
 ---
 
-**[AI companies prepare for the ‘DAY AFTER’: Report](https://www.youtube.com/watch?v=07op3mqx1ro)**
+**[AI Has Officially Gone Insane](https://www.youtube.com/watch?v=8i6r1SyRF7Y)**
 
-Zeta Global co-founders David A. Steinberg and John Sculley join 'The Claman Countdown' to discuss the artificial intelligence ...
+AI hype just hit a new peak – you're now officially not allowed to be rude to Claude – but financing for big tech is quietly drying up.
 
-📺 Fox Business
+📺 Sasha Yanshin
 
-👁️ 29K • 👍 203 • 💬 115 • ⏱️ 8:13 • 1d ago
-
----
-
-**[The REAL Reason AI Is Already Escaping](https://www.youtube.com/watch?v=YZ6zokLdhP0)**
-
-Jeffrey Ladish, executive director of Palisade Research and a former security engineer at Anthropic, walks through what really ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 1.7M • 👍 12K • 💬 1K • ⏱️ 22:48 • 2d ago
+👁️ 114K • 👍 3K • 💬 833 • ⏱️ 13:47 • 20h ago
 
 ---
 
-**[I bought AI scam products](https://www.youtube.com/watch?v=z-20yv7N6So)**
+**[How To Start Making Realistic AI Videos in 2027](https://www.youtube.com/watch?v=K90a_Yf1yBo)**
 
-📺 Dave K
+AI Video Tutorial for Beginners: Make Your First Video in Higgsfield Try Higgsfield: https://higgsfield.ai?fpr=utm&fp_sid=mira Hey ...
 
-👁️ 1.3M • 👍 56K • 💬 231 • ⏱️ 1:06 • 18h ago
+📺 Mira AI
+
+👁️ 6K • ⏱️ 9:12 • 4h ago
 
 ---
 
-**[AI executives planning &quot;day after&quot; scenarios following possible catastrophic event, Axios reports](https://www.youtube.com/watch?v=LSYujxh3wYU)**
+**[I Asked 7 Top AI Models How to Escape the 9–5...](https://www.youtube.com/watch?v=w-Mo1Ldg-qs)**
 
-New reporting from Axios reveals that leaders at artificial intelligence companies like OpenAI and Anthropic are planning behind ...
+Merch — https://scryleus.store My book — #1 Amazon Bestseller (US, Germany & France): https://amzn.to/4klHtuP I asked 7 AIs ...
 
-📺 CBS News
+📺 Tom Scryleus
 
-👁️ 474K • 👍 3K • 💬 1K • ⏱️ 3:46 • 1d ago
+👁️ 138K • 👍 3K • 💬 409 • ⏱️ 22:51 • 1d ago
+
+---
+
+**[American DeepSeek is HERE: The New KING of Open Source AI](https://www.youtube.com/watch?v=oEJhw5X2G5M)**
+
+America finally has its own DeepSeek. Nvidia-backed Reflection AI unveils Beam, a massive 501-billion-parameter open AI model ...
+
+📺 AI Revolution
+
+👁️ 44K • 👍 815 • 💬 74 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[He Chose AI Over Me 😤](https://www.youtube.com/watch?v=XANVpIlvKZQ)**
+
+This story may be based on real events, but all names, details, and identifying information have been changed or fictionalized.
+
+📺 Her Story
+
+👁️ 472K • 👍 16K • 💬 398 • ⏱️ 1:32 • 1d ago
 
 ---
 
@@ -388,7 +388,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 45,605 • ❤️ 1,564 • 4d ago
+⬇️ 98,829 • ❤️ 1,632 • 5d ago
 
 ---
 
@@ -400,7 +400,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 33,664 • ❤️ 993 • 2d ago
+⬇️ 37,647 • ❤️ 1,020 • 2d ago
 
 ---
 
@@ -412,7 +412,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 13,579 • ❤️ 2,008 • 1d ago
+⬇️ 14,351 • ❤️ 2,016 • 1d ago
 
 ---
 
@@ -424,19 +424,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,096,562 • ❤️ 3,912 • 13d ago
-
----
-
-**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
-
-*Aleph Alpha*
-
-Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
-
-`text-generation` `78.1B`
-
-⬇️ 10,496 • ❤️ 876 • 8d ago
+⬇️ 2,188,658 • ❤️ 3,945 • 3h ago
 
 ---
 
@@ -448,7 +436,19 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 2,138 • ❤️ 484 • 1d ago
+⬇️ 4,702 • ❤️ 512 • 2d ago
+
+---
+
+**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
+
+*Aleph Alpha*
+
+Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
+
+`text-generation` `78.1B`
+
+⬇️ 12,550 • ❤️ 880 • 8d ago
 
 ---
 
@@ -456,11 +456,11 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 *LTX.io*
 
-LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
+LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
 
 `image-to-video`
 
-⬇️ 1,726,683 • ❤️ 7,214 • 2h ago
+⬇️ 1,726,683 • ❤️ 7,260 • 8h ago
 
 ---
 
@@ -472,7 +472,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 45,199 • ❤️ 687 • 12d ago
+⬇️ 48,389 • ❤️ 689 • 2h ago
 
 ---
 
@@ -484,7 +484,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,843,108 • ❤️ 17,461 • 1mo ago
+⬇️ 6,843,108 • ❤️ 17,482 • 1mo ago
 
 ---
 
@@ -496,7 +496,7 @@ EMA Lightning is a tiny, fast, and accurate Turkish text-to-speech model (8.6M p
 
 `text-to-speech`
 
-⬇️ 15,710 • ❤️ 347 • 4d ago
+⬇️ 18,079 • ❤️ 351 • 4d ago
 
 ---
 
@@ -527,7 +527,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 101 • 💬 2 • ⭐ 771 • 5d ago
+▲ 101 • 💬 2 • ⭐ 833 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -541,7 +541,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 39 • 💬 3 • ⭐ 17,955 • 5mo ago
+▲ 39 • 💬 3 • ⭐ 17,976 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -561,6 +561,20 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 ---
 
+**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)**
+
+*Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)*
+
+🏢 Multimodal Art Projection
+
+Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with 49.3% of overall preferences versus 34.6% without planning. Experts also favor the unified model over a separate language model and diffusion Transformer. On WildSongBench, YuE2 scores 6.73 on SongBench Global Avg, exceeding all evaluated public baselines. Selecting from eight candidates (best-of-8), YuE2 reaches 6.96, the highest observed mean among all evaluated systems. Expert listening further establishes its competitiveness with proprietary song generators, favoring best-of-8 over Suno v4.5 and yielding nearly balanced preferences against Suno v5. To learn this generation process from recordings without aligned scores, we introduce MERT2 and SheetSage2 to supply semantic and symbolic supervision. MERT2 sets a new state of the art in music representation learning, surpassing previous best results on 14 of 15 MARBLE metrics; SheetSage2 leads 12 of 15 benchmark-metric pairs in our lead-sheet transcription comparison. The same checkpoint follows score edits while largely preserving unedited musical content and generates zero-shot covers without cover-specific training. Its readable score also enables agentic music editing, with external language models translating user feedback into revisions of the composition.
+
+▲ 233 • 💬 3 • ⭐ 11,378 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
+
+---
+
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -573,17 +587,15 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)**
+**[PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://huggingface.co/papers/2006.15704)**
 
-*Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)*
+*Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)*
 
-🏢 Mininglamp Technology
+The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.
 
-Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
+▲ 13 • 💬 0 • ⭐ 104,246 • 76mo ago
 
-▲ 341 • 💬 2 • ⭐ 1,256 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
+[🎓 arXiv](https://arxiv.org/abs/2006.15704) • [💻 code](https://github.com/pytorch/pytorch)
 
 ---
 
@@ -594,7 +606,7 @@ Visual backbones have evolved from Convolutional Neural Networks (CNNs) with loc
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 90 • 💬 7 • ⭐ 90,515 • 26mo ago
+▲ 90 • 💬 7 • ⭐ 90,547 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -613,27 +625,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+**[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)**
 
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+*Siran Peng, Tianshuo Zhang, Tianyu Fu et al. (11 authors)*
 
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+🏢 Mininglamp Technology
 
-▲ 59 • 💬 4 • ⭐ 40,469 • 14mo ago
+Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, in which what the model remembers and how it learns co-evolve within an image. Building on the self-referential construction of Nested Learning (NL), VisionHOPE realizes this co-evolution through five coupled memories that store content, generate key and value representations, and govern learning rate and retention. These memories evolve jointly as visual context accumulates along each scan. However, directly applying the unconstrained self-referential update to a visual backbone leads to instability. We therefore derive a stability-matched step-size control scheme that combines a soft cap on self-referential injection with a spectral clamp on the retained memory transition, and prove that the resulting memory dynamics are non-expansive along each scan. For two-dimensional feature maps, we adapt NL's chunk formulation by aligning chunks with image rows and columns across four directional scans. The proposed VisionHOPE achieves competitive results on ImageNet-1K, COCO, and ADE20K, establishing self-modifying learning systems as a practical foundation for general-purpose visual backbones. The code is available at https://github.com/PSRben/VisionHOPE.
 
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+▲ 341 • 💬 2 • ⭐ 1,245 • 14d ago
 
----
-
-**[PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://huggingface.co/papers/2006.15704)**
-
-*Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)*
-
-The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.
-
-▲ 13 • 💬 0 • ⭐ 104,130 • 76mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2006.15704) • [💻 code](https://github.com/pytorch/pytorch)
+[🎓 arXiv](https://arxiv.org/abs/2609.33325) • [💻 code](https://github.com/PSRben/VisionHOPE)
 
 ---
 
@@ -647,7 +649,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 2.3k • 22h ago
+⭐ 7.7k • 🔱 2.3k • 1d ago
 
 ---
 
@@ -657,7 +659,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.1k • 🔱 1.7k • 3h ago
+⭐ 7.2k • 🔱 1.7k • 9h ago
 
 ---
 
@@ -667,7 +669,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.5k • 🔱 430 • 5d ago
+⭐ 6.5k • 🔱 433 • 5d ago
 
 ---
 
@@ -677,7 +679,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 691 • 1d ago
+⭐ 4.9k • 🔱 695 • 25m ago
 
 ---
 
@@ -687,7 +689,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.7k • 🔱 785 • 9h ago
+⭐ 4.8k • 🔱 793 • 2h ago
 
 ---
 
@@ -697,7 +699,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.2k • 🔱 113 • 23h ago
+⭐ 4.2k • 🔱 114 • 4h ago
 
 ---
 
@@ -707,7 +709,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.4k • 🔱 139 • 1d ago
+⭐ 3.4k • 🔱 139 • 2d ago
 
 ---
 
@@ -717,7 +719,7 @@ AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
 `Go`
 
-⭐ 3.0k • 🔱 5.4k • 23h ago
+⭐ 3.1k • 🔱 5.5k • 1d ago
 
 ---
 
@@ -727,7 +729,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 553 • 24d ago
+⭐ 2.9k • 🔱 556 • 24d ago
 
 ---
 
@@ -737,7 +739,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 2.8k • 🔱 193 • 4m ago
+⭐ 2.9k • 🔱 196 • 6h ago
 
 ---
 
