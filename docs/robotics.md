@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-10T23:18:00.987757+00:00'
+updated: '2026-10-11T02:04:21.158952+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 10, 2026 at 23:18 UTC  
+**Last Updated:** October 11, 2026 at 02:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-2d ago
+3d ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-2d ago
+3d ago
 
 ---
 
@@ -106,13 +106,27 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-2d ago
+3d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)**
+
+Full-stack safety solution for physical AI is being used by robotics companies.
+
+Ars Technica • 2d ago
+
+---
+
+**[What Are Humanoid Robots? Inside The Growing Industry And Where It’s Headed](https://www.forbes.com/sites/technology/article/what-is-a-humanoid-robot/)**
+
+Forbes • 15h ago
+
+---
 
 **[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
 
@@ -132,7 +146,7 @@ Fortune • 1d ago
 
 **[This Robot Will Deliver Your Food, if It Doesn’t Get Smashed First](https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html)**
 
-The New York Times • 14h ago
+The New York Times • 17h ago
 
 ---
 
@@ -146,41 +160,27 @@ The Business Journals • 1d ago
 
 Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
 
-Futurism • 11h ago
+Futurism • 14h ago
 
 ---
 
 **[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
 
-Financial Times • 19h ago
+Financial Times • 22h ago
 
 ---
 
-**[ICE buys robotic dogs from Connecticut company for patrols](https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php)**
+**[21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown](https://wjla.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026)**
 
-CT Insider • 13h ago
+Twenty-one FIRST Robotics Competition teams gathered at Magna Vista High School for the inaugural Southern Virginia Showdown.
+
+WJLA • 2h ago
 
 ---
 
 **[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
 
 Bloomberg.com • 2d ago
-
----
-
-**[Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)**
-
-For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
-
-TechCrunch • 1d ago
-
----
-
-**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
-
-Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
-
-About Amazon • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 100K • 👍 2K • 💬 102 • ⏱️ 1:00 • 6d ago
+👁️ 101K • 👍 2K • 💬 102 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -204,33 +204,47 @@ At first glance, you might swear this is a real person. But it's a humanoid robo
 
 📺 ejunky66
 
-👁️ 139K • 👍 1K • 💬 112 • ⏱️ 1:00 • 5d ago
+👁️ 140K • 👍 1K • 💬 112 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[I’ve Wanted This Robot for 10 Years](https://www.youtube.com/watch?v=ijFSEb2W6_8)**
+**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
 
-Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout.
+Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
 
-📺 Linus Tech Tips
+📺 MACHINEKIND
 
-👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 13:52 • 6d ago
-
----
-
-**[they built round robot vacuums and called it efficient.#vaccum #robotcleaner #squarerobots #cleantok](https://www.youtube.com/watch?v=hzc4L9tbBOQ)**
-
-📺 Cleanwith__Marina
-
-👁️ 3.8M • 👍 10K • 💬 50 • ⏱️ 0:08 • 5d ago
+👁️ 72K • 👍 1K • 💬 116 • ⏱️ 13:42 • 5d ago
 
 ---
 
-**[Harmless Robot Helper](https://www.youtube.com/watch?v=YiueH4b8nfw)**
+**[Humanoid Robots Are Performing Surgery Now](https://www.youtube.com/watch?v=vVZpFGoa-io)**
 
-📺 Jay & Sharon
+We visited UCSD's Center for the Future of Surgery to learn about the first ever live surgery using humanoid robots. Read more ...
 
-👁️ 1.1M • 👍 65K • 💬 749 • ⏱️ 0:54 • 4d ago
+📺 CNET
+
+👁️ 53K • 👍 499 • 💬 66 • ⏱️ 6:34 • 6d ago
+
+---
+
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
+
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
+
+📺 Jot Tv Media 
+
+👁️ 81K • 👍 2K • 💬 15 • ⏱️ 1:04 • 2d ago
+
+---
+
+**[5 Best Robotics Stocks to Buy for 2027 - Plus a 10X Moonshot](https://www.youtube.com/watch?v=1cg0XArsBbA)**
+
+With dozens of positions in the AI Investor portfolio it can be difficult to stay on top of all the earnings, new filings, and major stock ...
+
+📺 247 Wall St
+
+👁️ 3K • 👍 93 • 💬 19 • ⏱️ 1:17:06 • 12h ago
 
 ---
 
@@ -240,45 +254,37 @@ War Robots Gameplay: UE Vortex and GAS Shield Ravana - Would you play this in WR
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 291 • 💬 45 • ⏱️ 12:01 • 11h ago
+👁️ 8K • 👍 301 • 💬 46 • ⏱️ 12:01 • 14h ago
 
 ---
 
-**[The Woman Unexpectedly Got a Beauty Enhancement System.](https://www.youtube.com/watch?v=OAtOqJggbu0)**
+**[Here&#39;s Why Boston Dynamics Cut the Pinky From Atlas&#39;s Hand](https://www.youtube.com/watch?v=PiBSB6kYGkM)**
 
-The Woman Unexpectedly Got a Beauty Enhancement System.
+Date: October 10, 2026 Sources Boston Dynamics drops pinkie on new humanoid hand ...
 
-📺 Robot Scissorhands
+📺 Jason Lowe on AI
 
-👁️ 1.6M • 👍 50K • 💬 63 • ⏱️ 2:35 • 3d ago
-
----
-
-**[This Drone Hops Like A Pogo Stick 🤖](https://www.youtube.com/watch?v=4DGj7zMEVvQ)**
-
-Original video credit: IG/@hopto_tech_official. The video demonstrates the operation of the HOPTOP (Hopcopter) hybrid ...
-
-📺 History Seeker
-
-👁️ 3.6M • 👍 37K • 💬 1K • ⏱️ 0:10 • 2d ago
+👁️ 6K • 👍 455 • 💬 32 • ⏱️ 2:50 • 5h ago
 
 ---
 
-**[Trump Interview Is RUINED - Robot Chicken Short Edit](https://www.youtube.com/watch?v=W75rt3IvsvQ)**
+**[the first career ending injury in robotic athletics    #robotics](https://www.youtube.com/watch?v=F_KzKVWFKMI)**
 
-📺 Alien Simulation
+Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Videos ...
 
-👁️ 481K • 👍 33K • 💬 417 • ⏱️ 0:42 • 5d ago
+📺 StingKnight
+
+👁️ 37K • 👍 268 • 💬 17 • ⏱️ 0:10 • 3d ago
 
 ---
 
-**[This Robot Plays Chrome Dino Without Ever Losing 🦖](https://www.youtube.com/watch?v=kqzgUa51DdM)**
+**[Pursuer Goes God Mode | 13s Stealth Healing - Finally A Good Pursuer | War Robots](https://www.youtube.com/watch?v=G6RcjuYiL4U)**
 
-The video demonstrates the operation of an automated system for autonomous gameplay of the "Chrome Dino" game utilizing an ...
+The Pursuer transforms. The Pursuer has one of the longest stealth abilities in the game and the Scourveil drone is awesome with ...
 
-📺 History Seeker
+📺 PREDATOR WR
 
-👁️ 21.5M • 👍 208K • 💬 1K • ⏱️ 0:08 • 5d ago
+👁️ 9K • 👍 249 • 💬 29 • ⏱️ 15:20 • 14h ago
 
 ---
 

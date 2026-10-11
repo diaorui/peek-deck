@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 700,
+      "github_stars": 771,
       "project_page": "https://nanomuse.cn/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2026-04-14T20:00:00.000Z",
       "github_repo": "https://github.com/robbyant/lingbot-map",
-      "github_stars": 17901,
+      "github_stars": 17955,
       "project_page": "https://technology.robbyant.com/lingbot-map"
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.33325",
       "arxiv_url": "https://arxiv.org/abs/2609.33325",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33325.png",
-      "upvotes": 277,
+      "upvotes": 310,
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-10T23:17:44.059602+00:00"
+  "fetched_at": "2026-10-11T02:04:07.759562+00:00"
 }
