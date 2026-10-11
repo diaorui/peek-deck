@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-11T02:04:21.158952+00:00'
+updated: '2026-10-11T09:11:07.543895+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 11, 2026 at 02:04 UTC  
+**Last Updated:** October 11, 2026 at 09:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,25 +114,11 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 ## Google News: "robotics"
 
-**[Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)**
-
-Full-stack safety solution for physical AI is being used by robotics companies.
-
-Ars Technica • 2d ago
-
----
-
-**[What Are Humanoid Robots? Inside The Growing Industry And Where It’s Headed](https://www.forbes.com/sites/technology/article/what-is-a-humanoid-robot/)**
-
-Forbes • 15h ago
-
----
-
 **[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
 
 Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
 
-MIT Technology Review • 2d ago
+MIT Technology Review • 3d ago
 
 ---
 
@@ -146,7 +132,7 @@ Fortune • 1d ago
 
 **[This Robot Will Deliver Your Food, if It Doesn’t Get Smashed First](https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html)**
 
-The New York Times • 17h ago
+The New York Times • 1d ago
 
 ---
 
@@ -156,31 +142,45 @@ The Business Journals • 1d ago
 
 ---
 
+**[Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)**
+
+For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
+
+TechCrunch • 1d ago
+
+---
+
 **[Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work](https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse)**
 
 Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
 
-Futurism • 14h ago
+Futurism • 21h ago
 
 ---
 
 **[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
 
-Financial Times • 22h ago
+Financial Times • 1d ago
 
 ---
 
-**[21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown](https://wjla.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026)**
+**[What Are Humanoid Robots? Inside The Growing Industry And Where It’s Headed](https://www.forbes.com/sites/technology/article/what-is-a-humanoid-robot/)**
 
-Twenty-one FIRST Robotics Competition teams gathered at Magna Vista High School for the inaugural Southern Virginia Showdown.
-
-WJLA • 2h ago
+Forbes • 22h ago
 
 ---
 
-**[China's Delivery Robots Are Learning to Tackle the Night Shift](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)**
+**[ICE buys robotic dogs from Connecticut company for patrols](https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php)**
 
-Bloomberg.com • 2d ago
+CT Insider • 23h ago
+
+---
+
+**[Walmart’s multibillion-dollar push to replace workers with robots hits snags on dog food, cardboard boxes: report](https://nypost.com/2026/10/09/business/walmarts-multibillion-dollar-push-to-replace-workers-with-robots-hits-snags-on-dog-food-cardboard-boxes-report/)**
+
+Walmart expects its spending on automation to peak this year and next, but it also believes the new tech will eventually require fewer warehouse workers, cutting down costs.
+
+New York Post • 1d ago
 
 ---
 
@@ -194,27 +194,17 @@ What happens when a robot becomes cheaper than a human worker? Imagine hiring a 
 
 📺 ejunky66
 
-👁️ 101K • 👍 2K • 💬 102 • ⏱️ 1:00 • 6d ago
+👁️ 104K • 👍 2K • 💬 107 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
 
-At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
-
-📺 ejunky66
-
-👁️ 140K • 👍 1K • 💬 112 • ⏱️ 1:00 • 5d ago
-
----
-
-**[New Clone AI Robot With Artificial Muscles Shocks The World: Torso 4](https://www.youtube.com/watch?v=EpY5GTH4SLY)**
-
-Clone Robotics is pushing humanoids closer to the human body with Torso 3's artificial muscles and lifelike movement, while the ...
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
 
 📺 MACHINEKIND
 
-👁️ 72K • 👍 1K • 💬 116 • ⏱️ 13:42 • 5d ago
+👁️ 50K • 👍 818 • 💬 81 • ⏱️ 13:43 • 3d ago
 
 ---
 
@@ -224,7 +214,7 @@ We visited UCSD's Center for the Future of Surgery to learn about the first ever
 
 📺 CNET
 
-👁️ 53K • 👍 499 • 💬 66 • ⏱️ 6:34 • 6d ago
+👁️ 53K • 👍 501 • 💬 67 • ⏱️ 6:34 • 6d ago
 
 ---
 
@@ -234,17 +224,27 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 📺 Jot Tv Media 
 
-👁️ 81K • 👍 2K • 💬 15 • ⏱️ 1:04 • 2d ago
+👁️ 83K • 👍 2K • 💬 16 • ⏱️ 1:04 • 2d ago
 
 ---
 
-**[5 Best Robotics Stocks to Buy for 2027 - Plus a 10X Moonshot](https://www.youtube.com/watch?v=1cg0XArsBbA)**
+**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
 
-With dozens of positions in the AI Investor portfolio it can be difficult to stay on top of all the earnings, new filings, and major stock ...
+At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
 
-📺 247 Wall St
+📺 ejunky66
 
-👁️ 3K • 👍 93 • 💬 19 • ⏱️ 1:17:06 • 12h ago
+👁️ 144K • 👍 2K • 💬 114 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[Lava Burning A Humanoid Robot](https://www.youtube.com/watch?v=yAsR2Xr1rz0)**
+
+Writer: Brett Stelmaszek Editor: Rikus Strauss Music by: @UFD-Music The amount of joy this is giving people shows you just how ...
+
+📺 UFD Tech
+
+👁️ 159K • 👍 7K • 💬 161 • ⏱️ 0:40 • 4d ago
 
 ---
 
@@ -254,17 +254,7 @@ War Robots Gameplay: UE Vortex and GAS Shield Ravana - Would you play this in WR
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 301 • 💬 46 • ⏱️ 12:01 • 14h ago
-
----
-
-**[Here&#39;s Why Boston Dynamics Cut the Pinky From Atlas&#39;s Hand](https://www.youtube.com/watch?v=PiBSB6kYGkM)**
-
-Date: October 10, 2026 Sources Boston Dynamics drops pinkie on new humanoid hand ...
-
-📺 Jason Lowe on AI
-
-👁️ 6K • 👍 455 • 💬 32 • ⏱️ 2:50 • 5h ago
+👁️ 10K • 👍 339 • 💬 50 • ⏱️ 12:01 • 21h ago
 
 ---
 
@@ -274,17 +264,25 @@ Contents of this video ▭▭▭▭▭▭▭▭▭▭ 00:00 - Intro ▭ More Vid
 
 📺 StingKnight
 
-👁️ 37K • 👍 268 • 💬 17 • ⏱️ 0:10 • 3d ago
+👁️ 38K • 👍 268 • 💬 17 • ⏱️ 0:10 • 3d ago
 
 ---
 
-**[Pursuer Goes God Mode | 13s Stealth Healing - Finally A Good Pursuer | War Robots](https://www.youtube.com/watch?v=G6RcjuYiL4U)**
+**[AI Bots Meet Their Fate💀](https://www.youtube.com/watch?v=Ita4AhjsaMo)**
 
-The Pursuer transforms. The Pursuer has one of the longest stealth abilities in the game and the Scourveil drone is awesome with ...
+📺 Ben Esherick
 
-📺 PREDATOR WR
+👁️ 2.1M • 👍 119K • 💬 2K • ⏱️ 0:34 • 5d ago
 
-👁️ 9K • 👍 249 • 💬 29 • ⏱️ 15:20 • 14h ago
+---
+
+**[I’ve Wanted This Robot for 10 Years](https://www.youtube.com/watch?v=ijFSEb2W6_8)**
+
+Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout.
+
+📺 Linus Tech Tips
+
+👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 13:52 • 6d ago
 
 ---
 
