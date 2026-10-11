@@ -13,6 +13,17 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
+      "title": "I stopped trusting hardware wallets, so I decided to build my own.",
+      "author": "Boust16",
+      "url": "https://www.reddit.com/r/ethereum/comments/1x3g2w6/i_stopped_trusting_hardware_wallets_so_i_decided/",
+      "published": 1791744439.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. \ud83d\udd10 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security."
+    },
+    {
       "title": "I put a whole agent world on Ethereum, frontend included",
       "author": "Bobhoudini",
       "url": "https://www.reddit.com/r/ethereum/comments/1x37ulv/i_put_a_whole_agent_world_on_ethereum_frontend/",
@@ -22,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499"
+    },
+    {
+      "title": "I stopped trusting hardware wallets, so I decided to build my own.",
+      "author": "Boust16",
+      "url": "https://www.reddit.com/r/ethereum/comments/1x3fyhb/i_stopped_trusting_hardware_wallets_so_i_decided/",
+      "published": 1791744151.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. \ud83d\udd10 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security."
     },
     {
       "title": "Daily General Discussion October 10, 2026",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "X-Ray: a new tool to track your Morpho exposure",
-      "author": "MacBudkowski",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x0s842/xray_a_new_tool_to_track_your_morpho_exposure/",
-      "published": 1791469302.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "gm! in the last 2 years vaults TVL has 10X'd. But when you allocate to multiple vaults, it's easy to lose track of your real exposure. Sometimes two vaults invest your money in the same markets, so you might be less diversified than you think. That's why we built X-Ray. It lets you see your combined market exposure across Morpho, understand how allocations fit together and decide where to invest next. Other protocols coverage coming soon! You can see check it out here: http://xray.vaults.fyi/ If you had any feedback how we could improve this tool and help people make more informed allocation decisions, please let me know!"
-    },
-    {
-      "title": "EF researcher Justin Drake posted today about post-AI and the importance of hash-based cryptography. Is the short-term answer to this self-custody?",
-      "author": "NimbleNido",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x03h2z/ef_researcher_justin_drake_posted_today_about/",
-      "published": 1791395915.0,
-      "thumbnail": "https://preview.redd.it/fx86i7ku13uh1.png?width=140&height=122&auto=webp&s=14fd0f40eb1410e9969a8715a47872bd3a937d6b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://preview.redd.it/fx86i7ku13uh1.png?width=955&format=png&auto=webp&s=a2335ab5d6034d361585d8c5765e93a66c750762 Seems there's not much more that the average person can do besides generating a new account through self-custody & storing funds there, to an address that never signs, but only receives. Safety isn't guaranteed by storing a large sum of funds on a centralized exchange for instance, as we don't know what they're doing with the wallets holding our funds behind the scenes. Is there anything else we can do now to best protect our coins? Any insight to crypto post-quantum? My understanding is Ethereum is far ahead of the rest of the space on this -- thanks!"
     }
   ],
-  "fetched_at": "2026-10-11T15:53:01.534995+00:00"
+  "fetched_at": "2026-10-11T19:57:02.109888+00:00"
 }

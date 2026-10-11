@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "AI is automating coding. So why are software developer job postings on the rise?",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80a2hhYm5Pd1BrUWdvV1lNQ0pvUGVhSDRicGVQWG1IU3J1MzlBN012VDA4QjlITVdwcUFXcUl5anVacHpXZzgxaDI2a19BaHJvbnVLaU1EdXNGX3VwSWc2RDd2amhCdm9VblR3cTVodTbSAXZBVV95cUxPc1pqTVJmenh6aFNEUEdaMU0wMTN3eWRLNTBrR29LWHhQdzUyWXk3OEpvX1dEM2NzMXJSZWd4QzNDOVRhRElEaWg5YkN5ZjJ4cHYwd1NyVW5SS3owYUFJMDNvX01PbjNuVDJwQ3NDZlk0SnBITTVR?oc=5",
+      "pub_date": 1791725401.0,
+      "article_url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108366108-1790078284606-gettyimages-2200018679-mfz1_111.jpeg?v=1790086927&w=1920&h=1080",
+      "description": "Software developer job postings are rebounding, led by senior and AI-focused roles, even as AI automates more coding and entry-level hiring weakens."
+    },
+    {
       "headline": "AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -15,44 +25,34 @@
       "description": null
     },
     {
-      "headline": "AI is creating a 'human premium' for art made by people. But will it hold?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82U3g1TEhGeGhWTHJYYnlYeGR2SHJiWHVieWYwei0teDJRSDdodVVmN2lnNnNEel92a1RXei1mMy11Nm5LX1ZkRHNGZzczbzNXd29RM3FGY3IyeUU?oc=5",
-      "pub_date": 1791674296.0,
-      "article_url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6fb8/live/8086eea0-c3cb-11f1-a64c-550be9e3c66b.jpg",
-      "description": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins"
+      "headline": "False ICE claims and AI images spur Big Fresno Fair to issue public statement",
+      "source": "KMPH Fox 26",
+      "source_url": "https://kmph.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHloR3R3VHZUenFmX1JTeDVTMkp5bjZIbER5cnVhMUNpakwtaVFKM0hwT0ExSHhrTDVzNEVXbVRzNDFiQ2hLWnNZSlZLaHFLTkNSWlhSdHhoRklXdTVTQ3RObkRISmMyX2RUUFk4ZVN4N0w5Y05UZFl3NjJfa3JZc285NHVncG51T1gxQlNQaHU0QlNkVWg3N0hGWG1hak5KT3pkVURpZS0?oc=5",
+      "pub_date": 1791744923.0,
+      "article_url": "https://kmph.com/news/local/false-ice-claims-and-ai-images-spur-big-fresno-fair-to-issue-public-statement",
+      "image": "https://kmph.com/resources/media2/16x9/881/1320/45x42/90/9bbb2295-af86-4f09-aa4a-b5208f5f0658-FresnoFair.JPG",
+      "description": "The Big Fresno Fair released a statement regarding false information about ICE activity at the fair on Sunday.The Big Fresno Fair addressed false informationci"
     },
     {
-      "headline": "Yet Another Literary Prizewinner Seems to Be AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnJmZGd0THZWR29CaTNYQUIySFRqel90MGRqdEJCUkdycnMzRXFLX25CdFZTYU5CakpRV19wYTVvYS1LQ1VQR2VDX3UzUEFudTE5am1oUE4yUkRrR0JZMy1pa1dOcE5Pd2tVcFhkemhzY1BVSXktUWcyM0ZQNUtpaFBWa3U5NTNGOTBMNG1vTXZkZTVlQnF5RQ?oc=5",
-      "pub_date": 1791727200.0,
-      "article_url": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/",
+      "headline": "Silicon Valley is falling in line with Trump\u2019s attempt to rename AI",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aTdXbnUyZ19zc2RLZ1ZZZi1pcVhYRlJSR0tXZU9RaUZSYVRxM0JnY0E1YU5hYXFYS1NLRTRpNmRITFE3N1IzZVZSeFRJbHpxWkU5Tng1TDR6ZjVudm5MMGpQa1ZVbzJobUFhUXRwaENJVmpyR21PYjc3Tl9tc2llWlA4OENESTdHOU52c1lQOEJSMG5GLWFnZGc3TFRFR21iWDRqbHV6YjcxcVBFbi1xWEFVRThxRExTSmY1RUdUX1c5?oc=5",
+      "pub_date": 1791743636.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "description": "Musk, Benioff, Huang, and now Nadella have all capitulated to Trump\u2019s \u2018super intelligence\u2019 rebrand."
+    },
+    {
+      "headline": "AI should empower Americans. Their data shouldn\u2019t empower China.",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KRWJ4eXZBdm9SVnJpckJ3YUtlaWVzdlNIcTFDOFpzd3hDdmVMWEFmVUpPellYMVd3UTRpT2hXZDhSQmc2NG9obEdZNXh2bDVEUTBmVXBFMGhsN09rdTlnbEZRNElVME9Fek9ZZVNVWjBPRmVxT3RieU1kdHHSAYIBQVVfeXFMTWdUOTdGaHhiUU5Hdi1hbkJzMlU4RmYybVhGRXU3cGw4bDE1eWpac19ITDVkY0JUZkVYdFhKSmdTZFRMckVJbGRWX2Njd1hyc1RzdlhLT2lhdC1SYVdkdFBmdGtqTzlvb00yQnBnWUxNV1lRbkMtUGtnT2tRSURQbEktQQ?oc=5",
+      "pub_date": 1791745200.0,
+      "article_url": "https://thehill.com/opinion/technology/6140381-protecting-ai-data-china/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Watch Is AI Crowding Everyone Else Out of the Bond Market?",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXVxWlRVSW5fMHluV2ZHRGx6SWtnSldSYTlmNHdmaGo3ZmhOR1RqcGt0V010RUlzVXRKUml5MVF0Z3ZpQlhHZFhqMzFaV3ZVVlJyMmFkTUdvb0YxeXI3bmM2SWotNnpXQkVlM2Z6b0psS2c3QkFqdVY3Y2NuR05qRFhQUXVWdHlSbDRvUlRka3ZWSjJpdmYwa3FPT05VRXlrSllOejJ1SE4tQQ?oc=5",
-      "pub_date": 1791727708.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ben Affleck Talks New Thriller, Early Success, Facing Failure, AI",
-      "source": "TODAY.com",
-      "source_url": "https://www.today.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWI5eERDSHNjY2M3dUI3ek5nTkR6Z0xKaUVmOENNa0luM2o5czdWc3p4c1hrT1FmRWtsNzR6MEl5cFcxWFN4SXVvVlRLbk9zUHNCd2FuTHRZRHR4TGJKa21WOGxPYW5PWjZtMXVpaWdzRUZjR1VfNThzWTh4SEN0TDhsdkdqMWtZdEMyUjRNaS1ZRzIxQklPMUlENGUzamdNNU9aMW5B?oc=5",
-      "pub_date": 1791725856.0,
-      "article_url": "https://www.today.com/video/ben-affleck-talks-new-thriller-early-success-facing-failure-ai-271407173774",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_10/tdy_sitdown1_261011-8vfx0e.jpg",
-      "description": "In Part One of this week\u2019s Sunday Sitdown, Ben Affleck joins Willie Geist to discuss his new thriller \u201cAnimals,\u201d reflect on his early success and then failure, and weigh in on the debate around the risks of using artificial intelligence in the filmmaking process."
     },
     {
       "headline": "Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era",
@@ -65,16 +65,6 @@
       "description": "Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027."
     },
     {
-      "headline": "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkNDdnRWWFBiR3hyNnh2OTBuRV95allJVUM5SktPQTVpZEI3R19oa2d1NmRiVkxtcFpxdGtxX3NQNzF5Tm1fTk91N3BnbUpYaDRqOWQzcGFFMlU4UElwZkcxWUtodmFKeHRWaFRRZUNQWW1BdHZIUUNPOFkyaktpMUZKRFlaRktYSm5DSmExaHR0TE42V2RJNmVDY1Bjd9IBowFBVV95cUxPdVUyM0VuR2k4VE83c2dCVDlHM0h3ZUNvaUpEQjN5ZUJoZE5aVWJMNHlHNnc5WVZaaXhVV2g3dHROMU56Qm1rNEIta0lHVUpQTnViODBwUDlqZVVZTWdQeVd0UzNRU1dJQ1hSUGx5dzhhRW5uamowc2t2M1BVQ2dOU01nb3E0QkRTajRzbHdRUU5kVS10bHJrVURaOHBnZ0otaUxF?oc=5",
-      "pub_date": 1791716401.0,
-      "article_url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369821-1790713166683-gettyimages-2297246422-AFP_C9Q98QH.jpeg?v=1790713236&w=1920&h=1080",
-      "description": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry."
-    },
-    {
       "headline": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -85,26 +75,36 @@
       "description": "This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing \u2018end times\u2019 closer by the day, says Guardian foreign affairs commentator Simon Tisdall"
     },
     {
-      "headline": "Opinion | Examining the Doctor-A.I. Relationship",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiLUMxNmRRQlJZUl9FdjBZNmRNdERYNW04cnhQbVhJRTBvQ0w0dmpoWjRqN0tpLXFwc0xfcU9CTHJWdHZjRlBOelF1RjFxS2MySUhJRFVZMXFCTnJ3V1I0QzAtZjA5Mi0t?oc=5",
-      "pub_date": 1791723604.0,
-      "article_url": "https://www.nytimes.com/2026/10/11/opinion/doctor-ai.html",
-      "image": "https://static01.nyt.com/images/2026/09/20/opinion/20BedardStill/20BedardStill-facebookJumbo.png",
-      "description": "Readers respond to \u201cA.I. Has Made Me a Better Physician,\u201d an essay by Dr. Rachael Bedard. Also: Our mental health; a comparison to China."
-    },
-    {
-      "headline": "Anthropic\u2019s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5",
-      "pub_date": 1791651720.0,
-      "article_url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
+      "headline": "Yet Another Literary Prizewinner Seems to Be AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnJmZGd0THZWR29CaTNYQUIySFRqel90MGRqdEJCUkdycnMzRXFLX25CdFZTYU5CakpRV19wYTVvYS1LQ1VQR2VDX3UzUEFudTE5am1oUE4yUkRrR0JZMy1pa1dOcE5Pd2tVcFhkemhzY1BVSXktUWcyM0ZQNUtpaFBWa3U5NTNGOTBMNG1vTXZkZTVlQnF5RQ?oc=5",
+      "pub_date": 1791727200.0,
+      "article_url": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Opinion | When Black Writers Are Guilty Until Proved Human",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWFpMVJ3QmdxcVlvWVhlaXNqeWVDYlZhSnRfcWxkWkxZY3JBQjJZUF9aVUtEeWVhNHlQZUxrMDc1TFQzZk5zeDRFSy04SG1YbWwxc3ZaV3ZKRGt2UHlQb09PbktZTjQ0aXRfNFdxY3VCcndVMktmd1YyZG5ra3BMZ2phQi1IV3EyTUJreWl3?oc=5",
+      "pub_date": 1791716410.0,
+      "article_url": "https://www.nytimes.com/2026/10/11/opinion/ai-books-fiction-black-writers-racism.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nicolas Cage says he won\u2019t work with Amazon again over AI dispute",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0ctZ043TjBxcEJIWU9fZFBqOTBMZE5JWlU2LU12WFhkcFJJSXI4Z3p0V0MzanhlVVZTaU1uRUFNbWdXbzZOWTUwWjB1M3VlM0luZ0pPdGx0Q2RlMW1xWnBJWHhhd1FwaE9XUzllX3lnRE1WVFFHUFpyRzVmam5IQ1dSR0JaMG8xb2pYUWoxb3lDSjZJOVFnTVAxYXlTOEdyZmppdVlFbHBNTGJsdC1YbzlXU3RMZHBndlo1Z3M0dDFyb1AyakFpNFdiRi1RZw?oc=5",
+      "pub_date": 1791681660.0,
+      "article_url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/1997cfd/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2F94%2F7672f0ba49cbbe410a932a4025e2%2F1553730-nicolas-cage-and-lamorne-morris-2157.jpg",
+      "description": "Nicolas Cage, who recently starred in \"Spider-Noir,\" said he won't work with Amazon again after a disagreement over an AI waiver."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-11T15:53:29.013800+00:00"
+  "fetched_at": "2026-10-11T19:57:21.094785+00:00"
 }

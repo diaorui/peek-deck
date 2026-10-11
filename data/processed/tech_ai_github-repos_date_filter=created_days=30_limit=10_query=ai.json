@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7673,
+      "stars": 7679,
       "stars_display": "7.7k",
-      "forks": 2343,
+      "forks": 2344,
       "forks_display": "2.3k",
       "language": "TypeScript",
       "topics": [],
@@ -24,9 +24,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 7157,
+      "stars": 7167,
       "stars_display": "7.2k",
-      "forks": 1746,
+      "forks": 1748,
       "forks_display": "1.7k",
       "language": "TypeScript",
       "topics": [
@@ -36,7 +36,7 @@
         "daily-digest",
         "docker-compose"
       ],
-      "updated_at": "2026-10-11T06:09:07Z"
+      "updated_at": "2026-10-11T18:14:46Z"
     },
     {
       "full_name": "Mak5er/AirCard",
@@ -46,10 +46,10 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 6476,
+      "stars": 6484,
       "stars_display": "6.5k",
-      "forks": 433,
-      "forks_display": "433",
+      "forks": 435,
+      "forks_display": "435",
       "language": "Swift",
       "topics": [],
       "updated_at": "2026-10-05T19:43:58Z"
@@ -62,10 +62,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 4870,
+      "stars": 4900,
       "stars_display": "4.9k",
-      "forks": 695,
-      "forks_display": "695",
+      "forks": 697,
+      "forks_display": "697",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-11T15:28:16Z"
@@ -78,10 +78,10 @@
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "url": "https://github.com/Louis-CFM/coucou",
       "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 4775,
+      "stars": 4798,
       "stars_display": "4.8k",
-      "forks": 793,
-      "forks_display": "793",
+      "forks": 804,
+      "forks_display": "804",
       "language": "Swift",
       "topics": [
         "ai-agents",
@@ -90,7 +90,7 @@
         "claude",
         "claude-code"
       ],
-      "updated_at": "2026-10-11T13:20:00Z"
+      "updated_at": "2026-10-11T19:27:47Z"
     },
     {
       "full_name": "omlahore/RemoveMacAI",
@@ -100,10 +100,10 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 4235,
-      "stars_display": "4.2k",
-      "forks": 114,
-      "forks_display": "114",
+      "stars": 4277,
+      "stars_display": "4.3k",
+      "forks": 115,
+      "forks_display": "115",
       "language": "Swift",
       "topics": [
         "apple-intelligence",
@@ -122,7 +122,7 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 3398,
+      "stars": 3411,
       "stars_display": "3.4k",
       "forks": 139,
       "forks_display": "139",
@@ -138,9 +138,9 @@
       "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
       "url": "https://github.com/mhtsec/ARTEX",
       "preview_image": "https://opengraph.githubassets.com/85b9e74f7f3f9e071a61f127b6025789150025dce0c8ec890b57bf389aa39b7c/mhtsec/ARTEX",
-      "stars": 3101,
+      "stars": 3127,
       "stars_display": "3.1k",
-      "forks": 5525,
+      "forks": 5548,
       "forks_display": "5.5k",
       "language": "Go",
       "topics": [],
@@ -154,10 +154,10 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2939,
+      "stars": 2943,
       "stars_display": "2.9k",
-      "forks": 556,
-      "forks_display": "556",
+      "forks": 560,
+      "forks_display": "560",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-17T02:48:22Z"
@@ -170,7 +170,7 @@
       "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
-      "stars": 2877,
+      "stars": 2892,
       "stars_display": "2.9k",
       "forks": 196,
       "forks_display": "196",
@@ -189,6 +189,6 @@
   "search_query": "ai created:>2026-09-11",
   "days": 30,
   "limit": 10,
-  "total_count": 483584,
-  "fetched_at": "2026-10-11T15:52:54.331855+00:00"
+  "total_count": 486745,
+  "fetched_at": "2026-10-11T19:56:54.506934+00:00"
 }

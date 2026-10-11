@@ -25,7 +25,17 @@
       "description": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI\u2019s recent progress will be enough to get there, or if an entirely new path is required."
     },
     {
-      "headline": "Minuscule Swiss fiber motor keeps robots squishy and pliable",
+      "headline": "I watched 6-foot robots fight with blades. This is San Francisco now",
+      "source": "The San Francisco Standard",
+      "source_url": "https://sfstandard.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XLXBxRmhINndGQ0pfdnVkb3BEemg4bkNfWmlfTW5WUFFLT0FWS21DUkZpNmJKQ0VFRXF5NEJHU3NhTktjOVAtdWhFbXpSakRrdkp0dElVN0RDSFBmS3JrWkpGMUtBM2N4T2kxN0U5MHBrVjg?oc=5",
+      "pub_date": 1791723600.0,
+      "article_url": "https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_fupib42ovd3ph9jui5fphba64e/-S1200x630-FPNG",
+      "description": "At a Van Ness arena, 200-pound robots wielded steel blades."
+    },
+    {
+      "headline": "Impossibly tiny Swiss motor looks like anything but",
       "source": "New Atlas",
       "source_url": "https://newatlas.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWS21HVmdXRlR5QWtKMTltYmtoUkZhcmxpcGhuZDROTWlHM3RLZjFVZjI4ZVE2WVVlN1A0cDByLWo4VjFzMUQ1aVBKSmsweVRpNUhpZXNIME9kSks0d2w3SnVRTWkzNEk?oc=5",
@@ -33,16 +43,6 @@
       "article_url": "https://newatlas.com/robotics/fibermotor-flexible-motor/",
       "image": "https://assets.newatlas.com/dims4/default/c933064/2147483647/strip/true/crop/6240x3276+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F96%2F7d%2F0a1503e3423abeb286202efb8fd1%2F6240x3504-1.jpg&na.image_optimisation=0",
       "description": "If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber."
-    },
-    {
-      "headline": "Gecko Robotics partners with Anduril to aid submarine manufacturing",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjdnb2plS3p1NENmblhhVEN3anhrajR3R1NncktqQ0stblRNczZ1SlZ2N0VQemgwYXItUElGNjhIQWRQSDNsOHZWdDJmYjE1d3cwaVZTRG93UUZ4LXplTU1NU2JMZVRudEh1dUpfMnZMdGVUbGZ1dHZjdFI1YnlDMFBfRFNPVENfX24xbzNB?oc=5",
-      "pub_date": 1791567420.0,
-      "article_url": "https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Danu Robotics\u2019 fight to build a better recycling robot",
@@ -55,16 +55,6 @@
       "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
     },
     {
-      "headline": "Watch: Two-armed robot throws, catches, and hits balls like a baseball champ",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWRyTWEzejZHVnNwQ2lCTm9lOUpBcGFWanJqOExTV01rUjlRaWFZbWVfbmZ4VVFzUWo3cUtoN3o2TEp3bk1FdlM5Q0JEU09JSmZyQ3dENC1Wek96c0VZblZSVXhCVW9LRVdaQ0xuc2FxNm5iUU13NzdUZjJzdW9LRWxwUzN0enkyYkppTVpVa0lrd2NOWjdlek5n?oc=5",
-      "pub_date": 1791653760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/athenazero-two-armed-robot-throws-catches-balls",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Baseball-robot.jpg",
-      "description": "RAI's AthenaZero robot has demonstrated its ability to throw, catch, and hit balls using coordinated movements and a low-inertia design."
-    },
-    {
       "headline": "Inside the \u2018robot gyms\u2019 training machines for the real world",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -73,6 +63,26 @@
       "article_url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Gecko Robotics partners with Anduril to aid submarine manufacturing",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjdnb2plS3p1NENmblhhVEN3anhrajR3R1NncktqQ0stblRNczZ1SlZ2N0VQemgwYXItUElGNjhIQWRQSDNsOHZWdDJmYjE1d3cwaVZTRG93UUZ4LXplTU1NU2JMZVRudEh1dUpfMnZMdGVUbGZ1dHZjdFI1YnlDMFBfRFNPVENfX24xbzNB?oc=5",
+      "pub_date": 1791567420.0,
+      "article_url": "https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Girls take controls at Michigan robotics invitational in Woodhaven",
+      "source": "ClickOnDetroit | WDIV Local 4",
+      "source_url": "https://www.clickondetroit.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE0wOTh6dTVZNmctOUlGVW9JT2tnQ2o2MDdiZjVXZUFDQ3htM0VTd1FkejlJa3V3WWZhd05HaElDMUJWUzVZdDBUUDNCcGFkempnVEZZOWZoclVuV0I1UWxpeU5vQjJjbHEteG9EQlB5Y0FlbHJ4RXFsQkM1aThDQVFULTJIbGQxLXdMZHZOTjczYjhvbTBSenhZb3N0MjBHcFdmVUpWNUZzYy1vLV9hRjUzQ3RCeTBRM2pweg?oc=5",
+      "pub_date": 1791735207.0,
+      "article_url": "https://www.clickondetroit.com/news/local/2026/10/11/girls-take-controls-at-michigan-robotics-invitational-in-woodhaven/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/UZQ2O3OUDBGAVLHB73G6H5MKAE.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "description": "Woodhaven\u2019s Goonettes invitational gives young women a chance to compete"
     },
     {
       "headline": "ICE buys robotic dogs from Connecticut company for patrols",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
-      "pub_date": 1791500415.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models | NVIDIA Technical Blog",
-      "source": "NVIDIA Developer",
-      "source_url": "https://developer.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb29oVGtZV3BUeFkwcENKZHJ3UmtzaTAtdXFkU3FfWDFScVo5VnlJRkt3QU0xaVBKRVItcjVndjZaOFFKOWJtRWQ2N0k4cHdoYl9QX2xaY0JIaktfSEJyT2RsVXRVSDZ5SmFTaDZRYnBtbF9EaVJCS1ktVU9pQUs1Y0xaSUtGc3dNcFk0UXhEQkh4NV91OXZ1cEJBMTlLR01NVExxaDdFNXc?oc=5",
-      "pub_date": 1791495220.0,
-      "article_url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif",
-      "description": "Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision geometry, joints\u2026"
+      "headline": "Is Alibaba (BABA) Quietly Reframing Its AI Story Through Tourism Robots And Sports Fan Tech?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObndBczVhdFVOSVJKYjlrT3JqSWZIMzBoSTBDMXRndTBDTFlUTExhSUNrdkswcUFqZ3lNczduaEFWcGFPY1FibGRWMml4TG0zY3AweUV2MWcyRHdZcm9hTGY3YmxnTVNKVnZHRjhuTm9DWXNwTjNMQjJYNlVnX1RiQ3pSbzBNZHptQVlyZUI1SmdUb1gwaUhVUWtuTmdZdw?oc=5",
+      "pub_date": 1791742324.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-quietly-reframing-ai-181204645.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/78faaa5f8abd694db0dcaa39507f6db1485a2770948e8ea31afc4214be802798/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F9058799112766998537a9972925bfc1f.jpg",
+      "description": "Amap, Alibaba Group\u2019s location-based services platform, and Sands China recently delivered the first batch of \u201cTutu\u201d robot dogs to serve as robotic guides at Sands Resorts Macau, while Alibaba also entered a multi-year technology and cloud partnership with the Brooklyn Nets to power real-time 360\u00b0 replays and personalized fan collectibles. These collaborations highlight how Alibaba is applying its AI, spatial intelligence, and cloud capabilities in real-world tourism and sports settings,..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-11T15:53:16.739500+00:00"
+  "fetched_at": "2026-10-11T19:57:19.687059+00:00"
 }
