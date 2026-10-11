@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-23T17:20:01.280040+00:00",
+  "data": {
+    "url": "https://x.com/testmachine_ai/status/2090954980635164965",
+    "title": "TestMachine (@testmachine_ai) on X",
+    "description": "\ud83d\udea8Every Ledger running the Ethereum app is vulnerable to signature substitution\n\nA malicious dApp with WebHID access could race an APDU during your transaction review and swap the tx being signed while the device still shows the original\n\nHere's what you need to know:",
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2090954329700073472/img/6fmNA754VerVPxdl.jpg",
+    "favicon": "https://x.com/apple-touch-icon.png",
+    "site_name": "X (formerly Twitter)",
+    "author": null,
+    "keywords": null
+  }
+}

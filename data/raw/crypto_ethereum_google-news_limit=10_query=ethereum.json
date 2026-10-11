@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ethereum",
+  "site": null,
+  "search_query": "ethereum",
+  "articles": [
+    {
+      "headline": "Ethereum developers warn \u2018any teenager\u2019 could disrupt upcoming Glamsterdam test",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2gxaTZ4UGs2RUNjMEFnX25pUjFfdkpiRGVIM1k3cjFvX01vTm43NklYd0dteEN6c1hvb3RrUmRhN3Q0d3BfWER1WGJYT1NrTng0S3dxYzZCODdoc2VPVHpFMzU5b2lZSG14OGt2NUl5dUF4c3FkNGZqWFI5NUhMcXMtc0RGbFd4aHlHTWpBbmc4SU0yRjUzcWJyaWMzamxQd0xEcWFtVlBjd3ZOOE53dWRJWXdHZ205UXp0NFJYYw?oc=5",
+      "pub_date": 1789712275.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia."
+    },
+    {
+      "headline": "Which Crypto ETF Drew the Most Money Last Week? Not Bitcoin, and Not Ethereum",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OWmd0VDNya0t0akJRUVZUNURod2pnSW9jcWhGTXBaYkZqTGVhY3VRUUdCbjFYTTA4TjV5Z3dZeGsyZ3FtZThjcHJmWUo0b2pvT1BpQ29yUXp3dTFpUGRpczhQby0xRGpicUI0T2V0aw?oc=5",
+      "pub_date": 1789803540.0,
+      "article_url": "https://beincrypto.com/zcash-ethereum-crypto-etf-weekly-flows/",
+      "image": "https://assets.beincrypto.com/img/Bc9hmX1mPVRHcNZuRzruS1Pl3BM=/1200x630/smart/filters:format(jpeg):quality(82)/5865be9d67504e52bf74f903acb4c608",
+      "description": "Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million."
+    },
+    {
+      "headline": "Ethereum breaks $2,560 resistance, eyes $2,760 and $3,000 as institutional inflows top $10B in Q3.",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTlfMjhTdWQybXA3aWtaSVY5OV9Qb0NhSjJoZWl1SlllNnhOSGdXcVBRT2hDUEhMRzFLMWhGMWpkUVB6NkdQei1HS3R0V2t1YjJYckhBQ1FSNlVuYkIwYU1wSElSTlY1U0R5TTF4NGZDOGJNQUpzZ2ZzRUlmSjBoSU0xTGVNdElqSVJ0Ukp5czlVanI4ZkRoMkVGY0lKazA?oc=5",
+      "pub_date": 1789947225.0,
+      "article_url": "https://pluang.com/en/news-feed/harga-ethereum-tembus-2560-penarikan-binance-eth-tertinggi-3-tahun",
+      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/62afe601b8689f518b3088c96b902e73adbe39a9d2505b5f2f12682a82922d0c-en.webp",
+      "description": "Ethereum price surged past its $2,550\u2013$2,575 resistance zone on September 20, now using this level as support. The token climbed over 75% from $1,510 to $2,650 in three months, marking its second-best quarterly gain on record. Institutional ETF inflows exceeded $10 billion in Q3, signaling strong demand, while Binance saw a three-year high in ETH withdrawals, indicating accumulation and long-term holding. Traders now target $2,760 and $3,000, with some predicting even higher prices by year-end."
+    },
+    {
+      "headline": "Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O\u2019Leary Says Ethereum May No Longer Rule",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdm56YXVsa1Zoa01idjE5X29qbXhOaDNqNllFTzdpcVFJa2czMHBIZVJvc0NvSk9sZk9hOHBaZnBWSFF3bjBONW9BMlVYWWNad3pyQVVrNUhRTi0td2h2T0JBUUFpNlJsNlhac3BpRnFsU0c3d2tpVkl0ZEhndXhsMDRyV1A1aUk2WEtsclVqeEgyNC1sYUdXX21nbkY?oc=5",
+      "pub_date": 1789919982.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/altcoin-rally-explodes-near-arb-155942561.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bb5170a248e2036d3213021b1125a175816e1fc7a2b23af58f8fdbf5f8807fd3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Faaedc71c4e6c0ee88d07d33df3bbd3d7",
+      "description": "Kevin O\u2019Leary said he no longer expected Ethereum to become the main blockchain for crypto."
+    },
+    {
+      "headline": "Ethereum Price Analysis: Can ETH Hit $3,000 as it Hovers Below Key Level",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR3hoR25NMDlxUUhUX09xcWJJTFMzTlFHOVpXQmtOelUwWVlXSWg3QnJYWUxaeldhaEZFQVpVclBpOEtnc2lkVHVlOHJ5dnJZRk5ZSExJSktBQkRoaFhGbWt2TnhfWFlhZjFYNksxOWduTXQzc2Z4WXA3WnBYS283aW9fYVRtMTBJdXhBNzhwY2FlREtiZHc1V0JEeG5ndkwwTVJIR2FEVThBekFUeDJiWC14TkpEbTliZUQ0eWFMMnQ2QUl3UkZzby04NA?oc=5",
+      "pub_date": 1789898404.0,
+      "article_url": "https://www.tradingview.com/news/99Bitcoins:8436dcd2f094b:0-ethereum-price-analysis-can-eth-hit-3-000-as-it-hovers-below-key-level/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "As of September 19, 2026, Ethereum price is at $2,570, around $100 below the crucial $2,672 mark. With the weekly candle set to close on September 20, traders are closely monitoring this threshold.This level corresponds to a Fibonacci retracement of Ethereum\u2019s decline from its October 2025 peak of\u2026"
+    },
+    {
+      "headline": "New Crypto: Remittix Builds Toward Its Global Payments Launch as Ethereum Price Prediction Targets $6,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFpuTGNfb002OXlmRUVZMWRsc1lsQUtIYXh6Y3lNTllvX3BHcGNab1FnTk52ZXc3dEZDNmphWHBSYmtNSUZNd3h2ZEJLaXJBNU9lWXNVVkdTZllaSFExZm1fOERURnJZamdIOVQyWEczaU51OHZuNFdHZ29hQVd5TXhUYlo0NFcwcFM0ZGxEQU1IeFpuNWtSeGRTdjh3ZDVXQUZlQTNQWW1ITG5rXzEzb2FUMzdER2I1MW9iaHg4dVF1N2NpTFdMTU01RDVuMW5VQ0RILXdxSGxaV0VhbnB6aEJpeVIzYnVjNDdScHJqWVdNQ0Y0?oc=5",
+      "pub_date": 1789931957.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-builds-toward-its-global-payments-launch-as-ethereum-price-prediction-targets-6-000-1036558982",
+      "image": "https://ml.globenewswire.com/Resource/Download/28885b43-a3b0-4c7c-8051-05d93aa496f6/new-crypto-remittix-builds.jpg",
+      "description": "MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys..."
+    },
+    {
+      "headline": "Is This Cryptocurrency Still a Millionaire Maker?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1mSjVwTzRrcWgxQkxsZ3B2c0dZTEpRbF9MdmVueEFPN2N1SFhfLVdMN1dJbG0xell4RS1oS045cVVYWk9DTlJMeW1SSzhEaThmd2NUNEJxemJEQ1pXek9DQ3d1OWJURTZ4TGxYZHdTa2hOS19XNjN3QjNpLUF1R094S1owX01HMW11cVZQRzlOR0wyQ0E?oc=5",
+      "pub_date": 1789926300.0,
+      "article_url": "https://www.fool.com/investing/2026/09/20/is-this-cryptocurrency-still-a-millionaire-maker/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885486%2Fcrypto-currency-ethereum-eth.jpg&w=1200&op=resize",
+      "description": "Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it."
+    },
+    {
+      "headline": "Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFZYcW8talhHMHNTNGx4N3o2UFVERWwyMEI0bXBNWmhXZTFMa1Z5QzM3SEZKX0ZRdTJMbzNyVmRCdjRRVzhfVE90dE5ZVGVGNkJhOFhId1NNWnluMWJGV3RNdFVFd3hFdUR6Z2Q1aHdtSGdJQTNQZ0tjSHp6LS00cE90amtvLTh0OHc5djRUbGRucG05YjR2Mk5hR2RVdllpYkgyX1JIdUdOU19oRkc4amVXRWpEOTVZWkhNWXRNUG40QmNSYU9B?oc=5",
+      "pub_date": 1789615837.0,
+      "article_url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/local-ai-wallet-authority-standard-image.jpg",
+      "description": "Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model\u2019s control."
+    },
+    {
+      "headline": "Ethereum supply tightens as ETH price reclaims $2,500 \u2013 What\u2019s next?",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWU5ncUJzaUJrWHc3QW1kZnZtc19kVEJDV3RKaVlXT25Od0JvRWNybHE4RXpRRHdJTGw2QmlhcThsM0ZqaVRLNUV0SzhpU2I0T29QWVNCNmFFdmhIOXVCMGF1TV83NTlIV0RMbHctaUpaTEY5WU9kelBDSlU0cjhndHhJR1RsVXBUdHpIdk13?oc=5",
+      "pub_date": 1789923625.0,
+      "article_url": "https://ambcrypto.com/ethereum-supply-tightens-as-eth-price-reclaims-2500-whats-next/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/09/Lazaro-2026-09-20T102149.639-e1789896536130.jpg",
+      "description": "Ethereum\u2019s supply dynamics are tightening as staking and ETF demand reshape the market around $2,500."
+    },
+    {
+      "headline": "Bitcoin, Ethereum End Volatile Week Higher As Crypto Rebounds From Fed, Regulatory Jolt",
+      "source": "BusinessToday Malaysia",
+      "source_url": "https://www.businesstoday.com.my",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWi1Zdk9wdE5SbDhwZXE5b2c1eXJudVVyaEcxY3VYdU04RDkwRWlkSnBxUF9yRWZodlBEelNxdTlwdGRtVXFEMFN6dGlPcUxRLWl2Qnk2aTNZZHlSLXRjYUo3QWpSX2o4X1NoMVJUX1FUQ0JSSTQxeFNkcUJZOEVvWG5IaHdnYmF2MmR5R3JMbW1RT3ROTDdwVGp4by00UDNhX2pOZ2FRX2tlSW9jbm1pd0wxU1kzMFhhSHVvQmdfU1FWQVE1UVQyYkpR?oc=5",
+      "pub_date": 1789870500.0,
+      "article_url": "https://www.businesstoday.com.my/2026/09/20/bitcoin-ethereum-end-volatile-week-higher-as-crypto-rebounds-from-fed-regulatory-jolt/",
+      "image": null,
+      "description": null
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-09-21T01:23:00.931076+00:00"
+}

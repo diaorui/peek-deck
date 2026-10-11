@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-13T11:13:01.765255+00:00",
+  "data": {
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "title": "Yoshua Bengio | Why are AI agents lying, cheating and coordinating?",
+    "description": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
+    "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+    "favicon": "https://yoshuabengio.org/sites/default/themes/yoshuabengio_v1/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

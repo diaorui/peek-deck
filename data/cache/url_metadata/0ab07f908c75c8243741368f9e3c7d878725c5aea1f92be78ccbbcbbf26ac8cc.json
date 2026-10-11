@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-30T10:02:59.148711+00:00",
+  "data": {
+    "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
+    "title": "Release koboldcpp-1.120 \u00b7 LostRuins/koboldcpp",
+    "description": "koboldcpp-1.120\n\nMinor fix to assistant gen prefills being triggered incorrectly\nFixed a bug where failsafe mode was incorrectly selected\nAdded support for DirectIO model load mode (--usedirectio),...",
+    "image": "https://opengraph.githubassets.com/3dc392c096b2f90183b5395fb43d2bbd51802b80756f77bb2d569f59ee8a1a47/LostRuins/koboldcpp/releases/tag/v1.120",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "site_name": "GitHub",
+    "author": null,
+    "keywords": null
+  }
+}

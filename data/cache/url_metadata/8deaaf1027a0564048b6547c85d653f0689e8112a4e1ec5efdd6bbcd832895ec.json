@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-22T09:35:12.940070+00:00",
+  "data": {
+    "url": "https://www.infoq.com/news/2026/08/linkedin-ai-code-review/",
+    "title": "AI Code Review at Scale: LinkedIn's Multi-Agent Approach",
+    "description": "At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organization\u00e2\u20ac\u2122s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback.",
+    "image": "https://res.infoq.com/news/2026/08/linkedin-ai-code-review/en/headerimage/linkedin-code-review-1787387463447.jpeg",
+    "favicon": "https://cdn.infoq.com/statics_s1_20260811131351/apple-touch-icon.png",
+    "site_name": "InfoQ",
+    "author": null,
+    "keywords": "linkedin ai code review,Development,DevOps,AI, ML & Data Engineering,LinkedIn,Large language models,Agents,Kubernetes,Code Reviews,"
+  }
+}

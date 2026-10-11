@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-27T03:27:55.967312+00:00",
+  "data": "Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model featuring Hybrid Attention with QSA and N-gram Embeddings for significantly reduced long-context latency. It excels in agentic workloads and supports context lengths up to 1,000,000 tokens, making it ideal for complex reasoning and large-scale data processing.",
+  "model_id": "unsloth/Qwen3.8-Flash-Next-GGUF"
+}

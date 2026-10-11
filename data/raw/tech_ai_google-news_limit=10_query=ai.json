@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ai",
+  "site": null,
+  "search_query": "ai",
+  "articles": [
+    {
+      "headline": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZZVBhRWJnYzQta2xvSGFVcHo4T3ZvWmNIU3pmVERobmhfNFRrUkxBM1J4UnlLWW1faDhkTXhjelFFMHh5MGttaUN0YXF6MFlBanhwTEZMZ215eGM4bDRiZlY1RGRwcS1PMWJCUUd2ZkY2Q2M?oc=5",
+      "pub_date": 1789894900.0,
+      "article_url": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
+      "pub_date": 1789866360.0,
+      "article_url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/artboard-1-20260920010139193.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development."
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnRwN284dVBRR1NqTHk3ellnNXcwQU1WRkNvR3RtdjdoZHF3Y21meXY0cGNEdmZzZUFjX2o4d3h4TG9HNXhmcFpZbkVaVkJQMEhrQ0NMTi1nRmw0ZU1OdF9JZndyUk1mcDdZS2J6STFhTVlHX1pOZ3JvR2xlUi1DQmdwcGlYMHhoWlNQSEZMUGZuazVXOUN1czVsMnBRajRoQ1HSAacBQVVfeXFMTzNvQ2VidEg5Uk9PbVdFWHdiSnJLLXZvamp3SFF6N1NlT2VGaGlEMGowMVQ3c19lNTZsdkJoWHJQSzFVLWpvbjc1RGlWVUdoRDJsbUpMOHdsU3J6eEJhVnJvTjdoU1JKdWtXQ0ktYjRUZG1QSVYyTWhyS2MyQU5qeldNVmZLbnhlVkViS2E5Zl9MXzFwVVJ6cjI2ZXVLZlEyRWMyTF83NnM?oc=5",
+      "pub_date": 1789902001.0,
+      "article_url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+      "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI."
+    },
+    {
+      "headline": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
+      "pub_date": 1789911420.0,
+      "article_url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
+      "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News."
+    },
+    {
+      "headline": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVWNJR2FxMmFqSFU0ajJGZEJwRlBWR3FibTdQbDh0R1k1T3ZGVFZRU09iVTJUam4zcGdfQzZ5c1V0MkU3ODI0WXR2Y1lkVzJadVR0dWpxZzJmajQ?oc=5",
+      "pub_date": 1789950893.0,
+      "article_url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
+      "description": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction."
+    },
+    {
+      "headline": "AI is making spear phishing scams more successful, BYU research finds",
+      "source": "ksl.com",
+      "source_url": "https://www.ksl.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa284QnBReHJXeF9SZlJIdW9MQmxvZ1lXa1FTOS03WlJhMVM1T2FFb3l5Z1ZHSkpKbzZrLVFqbXZlWk9COVJ5X2FrWlpybDh3Y09MUFVQbk9nbG9vTm45Nmc4SzJ6VDg5V0tBZ0JYNUFsNDA4WXpSdlJQWTM3amFxMTEtUEVOTlcxaTJydWNOQ3BGUVZPUU5icW93cEJKVjdqel9GWXVNdUw?oc=5",
+      "pub_date": 1789947260.0,
+      "article_url": "https://www.ksl.com/article/51624838/ai-is-making-spear-phishing-scams-more-successful-byu-research-finds",
+      "image": "https://img.ksl.com/slc/2909/290948/29094845.jpg?filter=kslv2/responsive_story_lg",
+      "description": "As artificial intelligence grows ever stronger, new research from BYU shows people are more likely to be duped by AI-generated scams compared to human-written ones."
+    },
+    {
+      "headline": "Congress is moving in the \u2018right direction\u2019 on AI: Sen Mike Rounds",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40cmRtUmxqcjNYbTB3UkNibHJhdDhtZTA5RmRsdWtySnNqbTFvckRCVGFjX1I1eV80eHZHQW1ON0FIWEtOLTU0dDBuNThXdVEtX2gtaFZ3?oc=5",
+      "pub_date": 1789952551.0,
+      "article_url": "https://www.foxnews.com/video/6405344849112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c17303-8e38-42fb-824a-579415bf042c/cdd7ce40-2bf1-468f-9e2e-d8bb6b462eef/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Sen. Mike Rounds, R-S.D., discusses the debate over artificial intelligence regulation, the U.S.-China AI race and the influence of socialists on the Democratic Party on \u2018Life, Liberty & Levin.\u2019"
+    },
+    {
+      "headline": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5",
+      "pub_date": 1789749408.0,
+      "article_url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
+      "pub_date": 1789823100.0,
+      "article_url": "https://fortune.com/article/anthropic-jack-clark-liberal-arts-degree-ai-jobs-stem-computer-science-philosophy-critical-thinking-future-of-work/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2271201349.jpg?resize=1200,600",
+      "description": "Anthropic\u2019s liberal-arts-educated cofounder says \u201crote programming\u201d is best avoided."
+    },
+    {
+      "headline": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
+      "pub_date": 1789939419.0,
+      "article_url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3",
+      "image": null,
+      "description": null
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-09-21T01:22:53.934467+00:00"
+}

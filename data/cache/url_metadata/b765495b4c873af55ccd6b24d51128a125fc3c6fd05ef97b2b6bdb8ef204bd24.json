@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-06T15:39:00.619955+00:00",
+  "data": {
+    "url": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/",
+    "title": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
+    "description": "EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05192649/library-ethereum-advances-scaling-with-eip-8141-a-new-transactio-800x450.png",
+    "favicon": "https://static.cryptobriefing.com/wp-content/uploads/2020/02/02093517/ios-144.png",
+    "site_name": "Crypto Briefing",
+    "author": "Editorial Team",
+    "keywords": null
+  }
+}

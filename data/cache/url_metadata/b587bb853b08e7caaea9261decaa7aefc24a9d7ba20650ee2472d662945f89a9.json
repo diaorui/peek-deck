@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-18T21:33:43.707262+00:00",
+  "data": {
+    "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-caught-models-leaving-notes-203424741.html",
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+    "image": "https://s.yimg.com/lo/mysterio/api/f16d0e82b2e7f7c47ebd05366c6d90dae7c6a80c3b95a1ff8e2a9f0295c1231a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F1682f32c51b3e3370b28a49893621465.jpg",
+    "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
+    "site_name": "Yahoo Tech",
+    "author": null,
+    "keywords": "model behavior, OpenAI, misalignment, financial model, historical data, future self, instructions"
+  }
+}

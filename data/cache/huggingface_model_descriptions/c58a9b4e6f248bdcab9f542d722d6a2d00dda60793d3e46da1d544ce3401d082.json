@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-02T17:59:34.542606+00:00",
+  "data": "Breeze TTS 2 is a top-ranked, open-weight text-to-speech model supporting real-time interaction in English and Chinese. It excels at voice cloning, voice design via natural language prompts, and voice direction, offering ultra-low latency and expressive vocal events.",
+  "model_id": "BreezeBlue/Breeze-TTS-2"
+}
