@@ -16,7 +16,7 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 4183,
+      "github_stars": 4282,
       "project_page": null
     },
     {
@@ -58,6 +58,25 @@
       "project_page": "https://technology.robbyant.com/lingbot-map"
     },
     {
+      "id": "1910.03771",
+      "title": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
+      "authors": "Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)",
+      "organization_name": "huggingface",
+      "organization_fullname": "Hugging Face",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png",
+      "summary": "Recent progress in natural language processing has been driven by advances in\nboth model architecture and model pretraining. Transformer architectures have\nfacilitated building higher-capacity models and pretraining has made it\npossible to effectively utilize this capacity for a wide variety of tasks.\nTransformers is an open-source library with the goal of opening up\nthese advances to the wider machine learning community. The library consists of\ncarefully engineered state-of-the art Transformer architectures under a unified\nAPI. Backing this library is a curated collection of pretrained models made by\nand available for the community. Transformers is designed to be\nextensible by researchers, simple for practitioners, and fast and robust in\nindustrial deployments. The library is available at\nhttps://github.com/huggingface/transformers.",
+      "ai_summary": "Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.",
+      "hf_url": "https://huggingface.co/papers/1910.03771",
+      "arxiv_url": "https://arxiv.org/abs/1910.03771",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/1910.03771.png",
+      "upvotes": 33,
+      "num_comments": 7,
+      "published_at": "2019-10-08T23:23:22.000Z",
+      "github_repo": "https://github.com/huggingface/transformers",
+      "github_stars": 167392,
+      "project_page": "https://huggingface.co"
+    },
+    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -73,7 +92,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 110501,
+      "github_stars": 110542,
       "project_page": null
     },
     {
@@ -88,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2609.33325",
       "arxiv_url": "https://arxiv.org/abs/2609.33325",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33325.png",
-      "upvotes": 310,
+      "upvotes": 341,
       "num_comments": 2,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/PSRben/VisionHOPE",
@@ -113,25 +132,6 @@
       "github_repo": "https://github.com/opendevin/opendevin",
       "github_stars": 90515,
       "project_page": null
-    },
-    {
-      "id": "2610.05608",
-      "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
-      "authors": "Team Kandinsky, Julia Agafonova, Bulat Akhmatov et al. (88 authors)",
-      "organization_name": "kandinskylab",
-      "organization_fullname": "Kandinsky Lab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/60991602f7c9c7bf29603a88/oDAZ2f49nmDJKICzgHglO.png",
-      "summary": "We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro (29B parameters). Both models generate 5-second video clips with synchronized 44 kHz audio, including lip-sync, in text-to-audio-video (T2AV) and image-to-audio-video (I2AV) modes; a built-in super-resolution model raises the output resolution to Full-HD (1920times1080). Building on the video generation capabilities of Kandinsky 5.0, Kandinsky 6.0 Video employs a dual-stream CrossDiT architecture that connects a pretrained video stream and a newly trained audio stream through bidirectional cross-attention for temporal and semantic alignment. Our continuous pretraining strategy first trains the audio stream from scratch on large-scale audio corpora and then trains both streams jointly on paired audio-video data while preserving unimodal fidelity; pretraining is followed by supervised fine-tuning, reinforcement-learning-based post-training, and distillation. In side-by-side human evaluation, Kandinsky 6.0 Video Pro clearly outperforms its predecessor, Kandinsky 5.0 Video Pro, and remains competitive with leading audio-video generation models, particularly in speech quality. To accelerate open research and deployment in multimedia generation, we release the code, model checkpoints, and diffusers integration under the MIT license.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.05608",
-      "arxiv_url": "https://arxiv.org/abs/2610.05608",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05608.png",
-      "upvotes": 162,
-      "num_comments": 4,
-      "published_at": "2026-10-03T20:00:00.000Z",
-      "github_repo": "https://github.com/kandinskylab/kandinsky-6",
-      "github_stars": 251,
-      "project_page": "https://kandinskylab.ai/"
     },
     {
       "id": "2309.06180",
@@ -168,7 +168,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 40431,
+      "github_stars": 40469,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-11T02:04:07.759562+00:00"
+  "fetched_at": "2026-10-11T09:10:36.518108+00:00"
 }

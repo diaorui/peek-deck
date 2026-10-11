@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Nvidia\u2019s big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8?oc=5",
-      "pub_date": 1791458133.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-      "description": "Full-stack safety solution for physical AI is being used by robotics companies."
-    },
-    {
-      "headline": "What Are Humanoid Robots? Inside The Growing Industry And Where It\u2019s Headed",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyWTE2Qm1IajJPdnRZUGxiaThPWV84TVJPeUd5S0VoSGNJV0M4QXBWeC05MVVMWGN2NUs0MF9Id0lLR0pwMDN3NXA0UG9iZVNWcUFEWUdrNUJRNVNlS20wTkNpM282bUFHM3pGQUtuOWw2M0RIbUE4YTh1cHFTdw?oc=5",
-      "pub_date": 1791630000.0,
-      "article_url": "https://www.forbes.com/sites/technology/article/what-is-a-humanoid-robot/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "AI breakthroughs in robotics won\u2019t change your life any time soon",
       "source": "MIT Technology Review",
       "source_url": "https://www.technologyreview.com",
@@ -65,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Danu Robotics\u2019 fight to build a better recycling robot",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblk4eWRNdUxGanZFb1ozSzgwWVoySW8yTTNQX1E2RC1XaXRLcy1MbURubVlfQ0RJYXlVTzRENmprd3RVSzNsSWJLNFFsZHljbDluNmZOd3h3Xy1BUGhvUFZIdHZmb21FbGl0ZnZRRXRrNTV4bjkySFRXblRfdW9NekF0ODBGY3BEN0hVV2lJNDZGQQ?oc=5",
+      "pub_date": 1791564300.0,
+      "article_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
+      "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+    },
+    {
       "headline": "Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work",
       "source": "Futurism",
       "source_url": "https://futurism.com",
@@ -79,32 +69,42 @@
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU1pd1pSTGtQdHFiMzlxazZJaFVYVFhwTU5IU0tnMzJTeEVlZFhlUXotbmtNN0RSUnp4VHRfX1czbTJmQXAzcFFQeW1FOW5sWTFhSVBVb0Qyc1IxdmFYMXp6Mmo5cF9rbWNyX2dEMzlzR1YyY1RVU29SU2lTcGVWZTFRams?oc=5",
-      "pub_date": 1791604807.0,
+      "pub_date": 1791604834.0,
       "article_url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown",
-      "source": "WJLA",
-      "source_url": "https://wjla.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbENrc3Vla1VqbmRLOURUWm9hMXJSeXF3b1JKRVlyWWNFN2lRRjVTNE40VlpFT2wtbXFBNm43SUhNMFM4V25VTmlnLXRFMS1fQ3BmQ04zTjQzSmJ4cWc5dmU1YjhfVEF1S0RCNzFSWXRibVdhWnBUazJxQWI5ZGd4RnRQQVNzMTdrMG42d1JsOGUxSWZ3cjNlNGQyMzk2emhCY2hpUXlldkZtcGlhNUt2aHdGSUNIc3EtbjdsMVJPbVJjdzF2bFV4ZkJaTGpCcFNWMHNsSUdlNFNnNU5TZVEzSUt2NWhncHZWcjlqMFQxSQ?oc=5",
-      "pub_date": 1791676102.0,
-      "article_url": "https://wjla.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026",
-      "image": "https://wjla.com/resources/media2/16x9/6000/1320/0x313/90/5d862ac6-f7f6-4190-9e8d-c9c8aba9572d-DSC03229.JPG",
-      "description": "Twenty-one FIRST Robotics Competition teams gathered at Magna Vista High School for the inaugural Southern Virginia Showdown."
-    },
-    {
-      "headline": "China's Delivery Robots Are Learning to Tackle the Night Shift",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmRkeVJ5NHdMQ1d4VmNydWRKMDhtMzNlYzlqVGpZWnItOTdCcXBidWhIcVVRLUlSWlRFQVF0Vm1fZlA3VXlYODc0eVNVVm9weXFrZ2VtNzFSTkhLSFBOZjkzQ0h3a0hnXzdBLVB6d1g4bjJGbjQtT2MzczVVOUZsQnBXWVdOYUlvXy1vVUJuUldyYjFCTzlVbFhBLXA2blItOXhVYkRvbktTUWdsVnlLMUxiVQ?oc=5",
-      "pub_date": 1791500415.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
+      "headline": "What Are Humanoid Robots? Inside The Growing Industry And Where It\u2019s Headed",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyWTE2Qm1IajJPdnRZUGxiaThPWV84TVJPeUd5S0VoSGNJV0M4QXBWeC05MVVMWGN2NUs0MF9Id0lLR0pwMDN3NXA0UG9iZVNWcUFEWUdrNUJRNVNlS20wTkNpM282bUFHM3pGQUtuOWw2M0RIbUE4YTh1cHFTdw?oc=5",
+      "pub_date": 1791630000.0,
+      "article_url": "https://www.forbes.com/sites/technology/article/what-is-a-humanoid-robot/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "ICE buys robotic dogs from Connecticut company for patrols",
+      "source": "CT Insider",
+      "source_url": "https://www.ctinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUxJNjhUUTNMa2NUdGFPamJhY3VvbDlueXUzNHJuWmZQSS1RV0gyMW9QX3JSdk1vWDE5VjBwOENsX1NCd0dTWTk4VmlDZ09EaFpXMUJMa29PMlNYWGtmTy1EVG9tbVlrT004Ni00R0MwRFdvNWZGdWlCZzdXZVFNUW5VMGViN2k2N0ZsTk9DX1BZdllXYml4UUdpRFZ6bkhjMVZPb3BB?oc=5",
+      "pub_date": 1791623976.0,
+      "article_url": "https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Walmart\u2019s multibillion-dollar push to replace workers with robots hits snags on dog food, cardboard boxes: report",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXJKQjYwQ1BRQ0FqRW9HVnYwckFlQktuTXYxVHo5dXhvYjhtRmtQQWZicnpSd1U4bFU3TEZRQ2ZWeVBPekdDYURkN0szdGtzR3dFTlI0RmxnY3NvMC1GcE1FTFF6OEMzLVhsZ2JUQUxtN3lzUW9QVXpUaVZ1bkEzZUo5VFFyb3JBY3VaWWtyOHRWMEZUMy1QOHJKbTVOUW5UODlQcjdBRVZidU1FWUhfTmp0ejM2YW9RcUpNcnhkQUNqQ0RnbUg4WC1UYVE1YUo0X19jVkxoWmZNc2sxVzhwUUl3SFY?oc=5",
+      "pub_date": 1791567360.0,
+      "article_url": "https://nypost.com/2026/10/09/business/walmarts-multibillion-dollar-push-to-replace-workers-with-robots-hits-snags-on-dog-food-cardboard-boxes-report/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144374391.jpg?quality=75&strip=all&w=1200",
+      "description": "Walmart expects its spending on automation to peak this year and next, but it also believes the new tech will eventually require fewer warehouse workers, cutting down costs."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-11T02:04:19.593295+00:00"
+  "fetched_at": "2026-10-11T09:10:56.400643+00:00"
 }

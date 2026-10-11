@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-11T02:04:21.149546+00:00'
+updated: '2026-10-11T09:11:07.537551+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 11, 2026 at 02:04 UTC  
+**Last Updated:** October 11, 2026 at 09:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,012.26
+### $83,029.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.2%  
 **7d:** -3.2%  
-**30d:** +7.4%  
+**30d:** +7.5%  
 **90d:** +27.7%  
-**1y:** -28.0%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1666.85B
+**Market Cap:** $1667.35B
 Rank #1
 
-**Circulating Supply:** 20,096,371 BTC
+**Circulating Supply:** 20,096,512 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -34.2%
 
 **All-Time Low:** $67.81
-+122216.8%
++122249.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 64
+### 61
 **GREED**
 
 ---
@@ -95,7 +95,7 @@ after the coldcard situation, I decided I really don't want to trust any company
 
 Hodl
 
-1d ago
+2d ago
 
 ---
 
@@ -125,7 +125,7 @@ Jamie Dimon on bitcoin, and the price the day he said it: $405: "going to be sto
 
 Is it good time to buy some BTC
 
-1d ago
+2d ago
 
 ---
 
@@ -139,7 +139,7 @@ Is it good time to buy some BTC
 
 I like the smell of cheap BTC in the morning.
 
-2d ago
+3d ago
 
 ---
 
@@ -159,7 +159,7 @@ Bitcoin and altcoins sit side by side in your finance app. But are they doing th
 
 Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.
 
-CoinDesk • 13h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -167,15 +167,23 @@ CoinDesk • 13h ago
 
 Judy Shelton joins Treasury, but her gold-first views and limited role suggest little direct impact on Bitcoin or XRP.
 
-Benzinga • 7h ago
+Benzinga • 14h ago
 
 ---
 
-**[Trader Loses $6.6 Million in Bitcoin After Buying New Ledger Wallet](https://finance.yahoo.com/markets/crypto/articles/trader-loses-6-6-million-162956153.html)**
+**[Most Investors Are Wrong About Who Owns the Most Bitcoin. That Misunderstanding Creates a Buying Opportunity.](https://finance.yahoo.com/markets/crypto/articles/most-investors-wrong-owns-most-065700403.html)**
 
-A trader lost 80 BTC from a new Ledger bought via CryptoBilis as theft estimates near $90 million.
+The people who hold Bitcoin have something that deep-pocketed buyers want.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Coinbase CEO Brian Armstrong Just Doubled Down On His $400,000 Price Target for Bitcoin. Here's Why He's Wrong.](https://www.fool.com/investing/2026/10/10/coinbase-ceo-brian-armstrong-bitcoin-update/)**
+
+Brian Armstrong is sticking with his $400,000 Bitcoin target. His direction looks sound, but the 2030 deadline is a stretch.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -190,14 +198,6 @@ WSJ • 1d ago
 The iShares Bitcoin Trust ETF remains the largest and most liquid spot Bitcoin ETF, with $69 billion in assets under management. Read more on IBIT ETF here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin](https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/)**
-
-The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
-
-Investor's Business Daily • 2d ago
 
 ---
 
@@ -217,19 +217,19 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC falls to $80,000 nearly one year after October 2025 crash](https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears)**
+**[Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin](https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/)**
 
-It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.
+The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
 
-CoinDesk • 2d ago
+Investor's Business Daily • 2d ago
 
 ---
 
-**[Bitcoin Drops Below $81K, Triggering Nearly $1B Crypto Liquidation Wave: Crypto Stocks Fall With AI Infrastructure Plays](https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-81k-triggering-173543893.html)**
+**[Arthur Hayes: Trouble In France’s Bond Market Could Send Bitcoin To $250K](https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-says-french-debt-crisis-bitcoin-to-250k-ai-debt/cZxTzRPRBnU)**
 
-Crypto-linked stocks fell alongside Bitcoin’s decline, with AI-focused miners leading the decline to hit multi-month lows.
+Arthur Hayes believes that problems in France's bond market could propel Bitcoin (BTC) to a new high. The BitMEX co-founder stated that a French debt crisis would push the Fed and U.S. Treasury to issue money.
 
-Yahoo Finance • 2d ago
+Stocktwits • 18h ago
 
 ---
 
@@ -273,7 +273,7 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 Genome viewer for you and your agents. Contribute to zeqianli/tgv development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 22h ago • [GitHub](https://github.com/zeqianli/tgv)
+⬆️ 4 • 💬 1 • 1d ago • [GitHub](https://github.com/zeqianli/tgv)
 
 ---
 
@@ -281,53 +281,23 @@ Genome viewer for you and your agents. Contribute to zeqianli/tgv development by
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is the Toll Collector of the AI Economy](https://www.youtube.com/watch?v=rAVx9MiSbjc)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 79K • 👍 2K • 💬 125 • ⏱️ 46:44 • 12h ago
-
----
-
 **[My MASSIVE Warning To Crypto Holders](https://www.youtube.com/watch?v=qz3BKaBKIh8)**
 
 Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 841 • 💬 54 • ⏱️ 10:37 • 1h ago
+👁️ 43K • 👍 3K • 💬 126 • ⏱️ 10:37 • 8h ago
 
 ---
 
-**[Is Trump’s $40T Debt Reset Plan a New Bitcoin-Gold Standard?!](https://www.youtube.com/watch?v=xTAT6VX1Xro)**
+**[The Billionaire Who Predicted the Dot-Com Crash Says Bitcoin Goes to Zero](https://www.youtube.com/watch?v=VnmIYWCGy2g)**
 
-Bitcoin just survived a brutal week of market chaos while major banks and private credit markets flashed serious warning signs.
+Access my FREE Bitcoin Price Model: ...
 
-📺 Simply Bitcoin
+📺 Mark Moss
 
-👁️ 4K • 👍 440 • 💬 23 • ⏱️ 19:37 • 3h ago
-
----
-
-**[$266,000 Bitcoin GOLD SHOCK - JPMorgan’s Math Says BTC Is 3X Undervalued](https://www.youtube.com/watch?v=FjkJai-IWYE)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 2K • 👍 153 • 💬 63 • ⏱️ 15:48 • 3h ago
-
----
-
-**[URGENT: I Am Making 3 Major Changes To My Crypto Portfolio NOW!](https://www.youtube.com/watch?v=o69Txodt1uE)**
-
-A major crypto market correction is imminent, and investors need to prepare for what comes next. While most investors are worried ...
-
-📺 Crypto Banter
-
-👁️ 32K • 👍 1K • 💬 36 • ⏱️ 37:52 • 9h ago
+👁️ 119K • 👍 2K • 💬 380 • ⏱️ 22:14 • 2d ago
 
 ---
 
@@ -337,27 +307,27 @@ Bitcoin just crashed to $80000 as a new debate erupts over paper Bitcoin, Michae
 
 📺 Simply Bitcoin
 
-👁️ 47K • 👍 2K • 💬 138 • ⏱️ 15:34 • 2d ago
+👁️ 47K • 👍 2K • 💬 137 • ⏱️ 15:34 • 2d ago
 
 ---
 
-**[Dave Ramsey Bitcoin Debate That Left Viewers Divided](https://www.youtube.com/watch?v=ZZiF8T8qHzQ)**
+**[Bitcoin Is Headed to $300K and Nobody&#39;s Ready](https://www.youtube.com/watch?v=l4C5rFtBVEU)**
 
-Analyzing the latest Dave Ramsey Bitcoin advice. We are breaking down his stance on crypto and what it means for your portfolio.
+Bill Barhydt is the founder and CEO of Abra. In this conversation, we break down why bitcoin is climbing despite rising rates and ...
 
-📺 The Economic Ninja
+📺 Anthony Pompliano
 
-👁️ 16K • 👍 443 • 💬 169 • ⏱️ 8:57 • 1d ago
+👁️ 89K • 👍 1K • 💬 57 • ⏱️ 45:39 • 2d ago
 
 ---
 
-**[Right on Track for Bitcoin Price Chart, Altcoin Market, XRP, as Liquidation Back Test 50-Day Average](https://www.youtube.com/watch?v=Culqik0JsbY)**
+**[Bitcoin And Alts Collapse: Where I’ll Load Up (Hint: Very Close!)](https://www.youtube.com/watch?v=lsTV45IxjMA)**
 
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+No B.S. Just Charts. Bitcoin is in a full liquidity flush, and Gareth Soloway maps the exact Bitcoin price levels where he plans to ...
 
-📺 Blockchain Backer
+📺 Gareth Soloway
 
-👁️ 44K • 👍 3K • 💬 2 • ⏱️ 18:09 • 1d ago
+👁️ 116K • 👍 4K • 💬 236 • ⏱️ 16:07 • 2d ago
 
 ---
 
@@ -367,17 +337,47 @@ Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 755 • 💬 106 • ⏱️ 41:04 • 1d ago
+👁️ 32K • 👍 758 • 💬 106 • ⏱️ 41:04 • 1d ago
 
 ---
 
-**[British HODL: $340,000 Bitcoin by 2028 (Here’s How)](https://www.youtube.com/watch?v=Hj3LFD0UMSw)**
+**[After OpenAI Scare, Tech Attempts Bounce, Yields Chart Signals Rate Drop, Bitcoin Saved With Gold](https://www.youtube.com/watch?v=uPxy49reWj8)**
 
-British HODL breaks down why the Bitcoin treasury company playbook has already changed and what it means for your Bitcoin, ...
+After the OpenAI scare, tech is bouncing, the 10-Year chart is signaling lower rates, and Bitcoin and gold both held their lines.
 
-📺 Blockware
+📺 Verified Investing
 
-👁️ 7K • 👍 238 • 💬 49 • ⏱️ 49:18 • 10h ago
+👁️ 78K • 👍 4K • 💬 97 • ⏱️ 21:04 • 1d ago
+
+---
+
+**[Bitcoin: Q4 2026](https://www.youtube.com/watch?v=se6UlLbDTEo)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 178K • 👍 6K • 💬 429 • ⏱️ 20:29 • 2d ago
+
+---
+
+**[Crypto Tax Grab!?💰Congress Wants A Bigger Cut | CoinLedger CEO INTERVIEW](https://www.youtube.com/watch?v=8sjWj5wOECE)**
+
+We break down the crypto tax bills circling Washington with CoinLedger CEO David Kemmerer and a CPA, covering what could ...
+
+📺 Paul Barron Network
+
+👁️ 43K • 👍 684 • 💬 115 • ⏱️ 18:43 • 1d ago
+
+---
+
+**[URGENT: I Am Making 3 Major Changes To My Crypto Portfolio NOW!](https://www.youtube.com/watch?v=o69Txodt1uE)**
+
+A major crypto market correction is imminent, and investors need to prepare for what comes next. While most investors are worried ...
+
+📺 Crypto Banter
+
+👁️ 39K • 👍 1K • 💬 40 • ⏱️ 37:52 • 16h ago
 
 ---
 
