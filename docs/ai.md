@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-11T15:53:31.218577+00:00'
+updated: '2026-10-11T19:57:22.676107+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 11, 2026 at 15:53 UTC  
+**Last Updated:** October 11, 2026 at 19:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[The Internet is wild😂😂](https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/)**
 
-3h ago
+7h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight
 
-🔗 [Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) • 15h ago
+🔗 [Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) • 19h ago
 
 ---
 
@@ -55,7 +55,7 @@ Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many
 
 Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage.
 
-🔗 [Fortune](https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/) • 3h ago
+🔗 [Fortune](https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/) • 7h ago
 
 ---
 
@@ -63,7 +63,15 @@ Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivit
 
 The filmmakers behind the AI-generated TV series called "The Arc" share what went into making it, including $38,000 in AI credits.
 
-🔗 [Business Insider](https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10) • 6h ago
+
+---
+
+**[There’s a reason billionaires keep bending the knee to Trump. After the president changed the term to “super intelligence,” the richest Americans rushed to use it.](https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/)**
+
+After the president changed the term to “super intelligence,” the richest Americans rushed to use it.
+
+🔗 [MS NOW](https://www.ms.now/opinion/billionaires-trump-economy) • 1h ago
 
 ---
 
@@ -71,7 +79,15 @@ The filmmakers behind the AI-generated TV series called "The Arc" share what wen
 
 What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) • 19h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) • 23h ago
+
+---
+
+**[Continued widespread VFX studio failure in making a solution to animate characters has led to the overwhelming takeover of AI video and collapse of film and games industry](https://www.reddit.com/r/artificial/comments/1x3hqeh/continued_widespread_vfx_studio_failure_in_making/)**
+
+Think about it, no tools in Blender to create realistic looking characters with correct physically accurate deformation and running quickly even 20+ years into the program. Other DCC's like houdini, maya, same thing. Everything takes ages to set up and eventually doesn't work to get an animated human or human face that actually looks real. AI videos destroy any traditionally polygonally animated output. I've tried for years to do well. Some cgi studios think they have solutions, but they are still far too time and hardware intensive. Honestly, I don't know where programs like blender and others will be in 2 or 3 years time. What do you think will happen to films, games, vfx studios if they can't come up with a solution?
+
+3m ago
 
 ---
 
@@ -83,35 +99,19 @@ Anthropic said it "turned off live internet access" for "all our internal evalua
 
 ---
 
-**[Microsoft's Satya Nadella says AI models need an 'emergency brake'](https://www.reddit.com/r/artificial/comments/1x2ycw7/microsofts_satya_nadella_says_ai_models_need_an/)**
-
-In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) • 11h ago
-
----
-
 **[AI to learn Premiere](https://www.reddit.com/r/artificial/comments/1x330cf/ai_to_learn_premiere/)**
 
 I am new to video editing and I often watch tutorials on YouTube. Recently I have been asking AI to teach me certain things in Premiere, however the responses vastly differ from AI to AI. So far I found out that Gemini is straight-up lying, since asking the same question in different chats doesn't always provide you with the same response, plus it almost always tries to give ridiculously complex workarounds to very basic things. When called out, it just apologizes, but keeps doing the same thing. I used DouBao as well, which is Chinese, and not always up to date, I guess, since when asked how to apply LUTs in Premiere, it suggested to use Davinci instead, as it was "easier", but I found that in Premiere it is much more convenient. ChatGPT (the free version) has a very small limit on uploads, which I frequently use for faster responses (sending Premiere screenshots mostly). Haven't used Claude or DeepSeek yet. Which AI model do you guys think is the best for learning Premiere, if you've ever used one for that?
 
-7h ago
+11h ago
 
 ---
 
-**[Man wins three-year parking ticket battle after using ChatGPT as his lawyer](https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/)**
+**[New webcam-based AI system reads and responds to human facial expressions](https://www.reddit.com/r/artificial/comments/1x3epux/new_webcambased_ai_system_reads_and_responds_to/)**
 
-Rafal Goral says he was fined £100 for not paying quickly enough at a carpark Newquay in Cornwall in 2023
+An AI-based digital face can look convincing until its expression fails to match the conversation. Realistic skin and detailed animation do not guarantee an appropriate reaction to another person’s smile, frown or changing expression. A doctoral project at Tallinn University addresses that gap by connecting facial-expression analysis with the generation of an artificial character’s response. Rather than assigning a label to one photograph, the system treats facial behavior as an exchange unfolding over time. Abdallah Hussein Sham developed the Enactive Facial Expression Pipeline, or EFEP. The work combines experimental datasets and previously published research, including studies in Sensors and Signal, Image and Video Processing.
 
-🔗 [The Independent](https://www.the-independent.com/news/uk/home-news/rafal-goral-chatgpt-newquay-parking-fine-b3064142.html) • 23h ago
-
----
-
-**[its kind of hard to look for a video generator now.](https://www.reddit.com/r/artificial/comments/1x3b2e4/its_kind_of_hard_to_look_for_a_video_generator_now/)**
-
-is it just me or is it actually harder to try to actually use an ai video generator that is just like tiktok ai cast. because ive tried so hard to look for one. idk man.
-
-24m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/new-webcam-based-ai-system-reads-and-responds-to-human-facial-expressions) • 2h ago
 
 ---
 
@@ -119,37 +119,39 @@ is it just me or is it actually harder to try to actually use an ai video genera
 
 ## Google News: "ai"
 
+**[AI is automating coding. So why are software developer job postings on the rise?](https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html)**
+
+Software developer job postings are rebounding, led by senior and AI-focused roles, even as AI automates more coding and entry-level hiring weakens.
+
+CNBC • 6h ago
+
+---
+
 **[AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit](https://www.wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd)**
 
-WSJ • 6h ago
+WSJ • 10h ago
 
 ---
 
-**[AI is creating a 'human premium' for art made by people. But will it hold?](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)**
+**[False ICE claims and AI images spur Big Fresno Fair to issue public statement](https://kmph.com/news/local/false-ice-claims-and-ai-images-spur-big-fresno-fair-to-issue-public-statement)**
 
-Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins
+The Big Fresno Fair released a statement regarding false information about ICE activity at the fair on Sunday.The Big Fresno Fair addressed false informationci
 
-BBC • 16h ago
-
----
-
-**[Yet Another Literary Prizewinner Seems to Be AI](https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/)**
-
-The Atlantic • 1h ago
+KMPH Fox 26 • 1h ago
 
 ---
 
-**[Watch Is AI Crowding Everyone Else Out of the Bond Market?](https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video)**
+**[Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)**
 
-Bloomberg.com • 1h ago
+Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.
+
+The Verge • 1h ago
 
 ---
 
-**[Ben Affleck Talks New Thriller, Early Success, Facing Failure, AI](https://www.today.com/video/ben-affleck-talks-new-thriller-early-success-facing-failure-ai-271407173774)**
+**[AI should empower Americans. Their data shouldn’t empower China.](https://thehill.com/opinion/technology/6140381-protecting-ai-data-china/)**
 
-In Part One of this week’s Sunday Sitdown, Ben Affleck joins Willie Geist to discuss his new thriller “Animals,” reflect on his early success and then failure, and weigh in on the debate around the risks of using artificial intelligence in the filmmaking process.
-
-TODAY.com • 2h ago
+The Hill • 57m ago
 
 ---
 
@@ -161,33 +163,31 @@ Fortune • 1d ago
 
 ---
 
-**[AI’s quiet safety gatekeepers are stepping into the spotlight](https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html)**
-
-The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.
-
-CNBC • 4h ago
-
----
-
 **[Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons)**
 
 This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing ‘end times’ closer by the day, says Guardian foreign affairs commentator Simon Tisdall
 
-The Guardian • 6h ago
+The Guardian • 10h ago
 
 ---
 
-**[Opinion | Examining the Doctor-A.I. Relationship](https://www.nytimes.com/2026/10/11/opinion/doctor-ai.html)**
+**[Yet Another Literary Prizewinner Seems to Be AI](https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/)**
 
-Readers respond to “A.I. Has Made Me a Better Physician,” an essay by Dr. Rachael Bedard. Also: Our mental health; a comparison to China.
-
-The New York Times • 2h ago
+The Atlantic • 5h ago
 
 ---
 
-**[Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1)**
+**[Opinion | When Black Writers Are Guilty Until Proved Human](https://www.nytimes.com/2026/10/11/opinion/ai-books-fiction-black-writers-racism.html)**
 
-AP News • 22h ago
+The New York Times • 8h ago
+
+---
+
+**[Nicolas Cage says he won’t work with Amazon again over AI dispute](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)**
+
+Nicolas Cage, who recently starred in "Spider-Noir," said he won't work with Amazon again after a disagreement over an AI waiver.
+
+Los Angeles Times • 18h ago
 
 ---
 
@@ -199,7 +199,7 @@ AP News • 22h ago
 
 TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.
 
-⬆️ 441 • 💬 351 • 1d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
+⬆️ 442 • 💬 353 • 2d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
 
 ---
 
@@ -207,7 +207,7 @@ TypeSafe AI is an AI lab building machine-native intelligence infrastructure for
 
 Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen
 
-⬆️ 414 • 💬 191 • 2d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+⬆️ 414 • 💬 192 • 2d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 
 ---
 
@@ -215,7 +215,7 @@ Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI,
 
 Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...
 
-⬆️ 311 • 💬 142 • 1d ago • [GitHub](https://github.com/rociiu/talorys)
+⬆️ 319 • 💬 149 • 1d ago • [GitHub](https://github.com/rociiu/talorys)
 
 ---
 
@@ -223,13 +223,13 @@ Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note
 
 An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
 
-⬆️ 211 • 💬 154 • 1d ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
+⬆️ 211 • 💬 155 • 1d ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 
 ---
 
 **[What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://news.ycombinator.com/item?id=50024090)**
 
-⬆️ 198 • 💬 58 • 1d ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+⬆️ 202 • 💬 58 • 2d ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
 
 ---
 
@@ -237,13 +237,13 @@ An investigation is underway after an AI model from the company Anthropic submit
 
 How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.
 
-⬆️ 183 • 💬 89 • 2d ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+⬆️ 184 • 💬 92 • 2d ago • [Jesse Waites](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 
 ---
 
 **[Nvidia in talks to acquire US 'open' model startup Reflection AI](https://news.ycombinator.com/item?id=50035886)**
 
-⬆️ 171 • 💬 109 • 21h ago • [ft.com](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+⬆️ 175 • 💬 112 • 1d ago • [ft.com](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
 ---
 
@@ -251,7 +251,7 @@ How I used AI to investigate millions of historical records and surfaced a forgo
 
 Biohub, DOE, NIH, and partners will generate open, standardized data to train AI models that predict how cells respond to interventions.
 
-⬆️ 148 • 💬 20 • 2d ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
+⬆️ 149 • 💬 20 • 2d ago • [Biohub](https://biohub.org/news/virtual-biology-initiative-expansion/)
 
 ---
 
@@ -260,7 +260,7 @@ Biohub, DOE, NIH, and partners will generate open, standardized data to train AI
 During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.
 The avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.
 
-⬆️ 121 • 💬 88 • 13h ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+⬆️ 124 • 💬 92 • 17h ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 
 ---
 
@@ -268,7 +268,7 @@ The avid reader of my blog might have noticed that I had previously written two 
 
 Early evidence from InnovationEval: No
 
-⬆️ 88 • 💬 86 • 1d ago • [Epoch AI](https://epoch.ai/publications/innovationeval)
+⬆️ 89 • 💬 92 • 1d ago • [Epoch AI](https://epoch.ai/publications/innovationeval)
 
 ---
 
@@ -276,63 +276,43 @@ Early evidence from InnovationEval: No
 
 ## YouTube Videos: "ai"
 
+**[China AI ACHIEVED RSI? GLM 5.5, NEW Fable 5.5 Checkpoint, Qwen4, Kimi K3.1, M3.1 Pro &amp; More! AI NEWS](https://www.youtube.com/watch?v=0EwN9bb157M)**
+
+Everything you're about to see, I benchmarked using the tool I made. If you want to run these tests yourself or test models on ...
+
+📺 WorldofAI
+
+👁️ 69K • 👍 1K • 💬 103 • ⏱️ 22:46 • 12h ago
+
+---
+
 **[Broadcom $42 Billion to Anthropic AI to Lease Chips - AI Bubble Keeps Growing](https://www.youtube.com/watch?v=3IOO5dm8SsI)**
 
 Free In Person Tech Eduction in Baltimore MD - https://www.meetup.com/eli-the-computer-guy/ Spotify ...
 
 📺 Eli the Computer Guy
 
-👁️ 7K • 👍 315 • 💬 87 • ⏱️ 12:35 • 3h ago
+👁️ 18K • 👍 498 • 💬 123 • ⏱️ 12:35 • 7h ago
 
 ---
 
-**[AI Just Crossed a Terrifying Line - Nuclear Engineer Reacts to Kurzgesagt](https://www.youtube.com/watch?v=8ExyIscsvAc)**
+**[Has AI Solved Reverse Engineering?](https://www.youtube.com/watch?v=wIe3eDfGKUo)**
 
-OpenAI's Incident Report: ...
+Find and fix bugs in your codebase with Sentry at https://go.lowlevel.tv/sentry26 (New users get $100 in Sentry credit!)
 
-📺 T. Folse Nuclear
+📺 Low Level
 
-👁️ 236K • 👍 5K • 💬 1K • ⏱️ 43:25 • 22h ago
-
----
-
-**[Someone Just Recreated Adobe With AI… FOR FREE!](https://www.youtube.com/watch?v=gUGjiG81tiU)**
-
-Someone just used AI to recreate 7 of Adobe's biggest applications, including Photoshop, Premiere Pro, Illustrator, and After ...
-
-📺 Geoff Fagien
-
-👁️ 35K • 👍 592 • 💬 325 • ⏱️ 7:00 • 20h ago
+👁️ 744K • 👍 13K • 💬 1K • ⏱️ 13:35 • 2d ago
 
 ---
 
-**[Joseph Gordon-Levitt Has Some Things to Say About A.I. | NYT Opinion](https://www.youtube.com/watch?v=nYdeUu2I80s)**
+**[AI Has Become A NIGHTMARE For The Gaming Industry](https://www.youtube.com/watch?v=GuKOfybUxn4)**
 
-Joseph Gordon-Levitt has spent much of his life telling stories about what it means to be human. Now the actor and filmmaker is ...
+Many classic games like Halo, GTA5, Call of Duty, Diablo, Minecraft and more have been decompiled with AI tools and made ...
 
-📺 New York Times Opinion
+📺 Optimus
 
-👁️ 19K • 👍 294 • 💬 27 • ⏱️ 7:32 • 1d ago
-
----
-
-**[AI leaders are preparing for catastrophe. Should they stop AI before it’s too late? | On Balance](https://www.youtube.com/watch?v=GNO-042GywA)**
-
-Axios reports that leaders of AI firms are “gaming out” ways to respond after the technology causes its first great catastrophe.
-
-📺 NewsNation
-
-👁️ 11K • 👍 75 • 💬 15 • ⏱️ 3:57 • 1d ago
-
----
-
-**[AI Has Officially Gone Insane](https://www.youtube.com/watch?v=8i6r1SyRF7Y)**
-
-AI hype just hit a new peak – you're now officially not allowed to be rude to Claude – but financing for big tech is quietly drying up.
-
-📺 Sasha Yanshin
-
-👁️ 114K • 👍 3K • 💬 833 • ⏱️ 13:47 • 20h ago
+👁️ 84K • 👍 2K • 💬 576 • ⏱️ 13:14 • 1d ago
 
 ---
 
@@ -342,37 +322,57 @@ AI Video Tutorial for Beginners: Make Your First Video in Higgsfield Try Higgsfi
 
 📺 Mira AI
 
-👁️ 6K • ⏱️ 9:12 • 4h ago
+👁️ 9K • ⏱️ 9:12 • 8h ago
 
 ---
 
-**[I Asked 7 Top AI Models How to Escape the 9–5...](https://www.youtube.com/watch?v=w-Mo1Ldg-qs)**
+**[AI executives planning &quot;day after&quot; scenarios following possible catastrophic event, Axios reports](https://www.youtube.com/watch?v=LSYujxh3wYU)**
 
-Merch — https://scryleus.store My book — #1 Amazon Bestseller (US, Germany & France): https://amzn.to/4klHtuP I asked 7 AIs ...
+New reporting from Axios reveals that leaders at artificial intelligence companies like OpenAI and Anthropic are planning behind ...
 
-📺 Tom Scryleus
+📺 CBS News
 
-👁️ 138K • 👍 3K • 💬 409 • ⏱️ 22:51 • 1d ago
-
----
-
-**[American DeepSeek is HERE: The New KING of Open Source AI](https://www.youtube.com/watch?v=oEJhw5X2G5M)**
-
-America finally has its own DeepSeek. Nvidia-backed Reflection AI unveils Beam, a massive 501-billion-parameter open AI model ...
-
-📺 AI Revolution
-
-👁️ 44K • 👍 815 • 💬 74 • ⏱️ 14:40 • 1d ago
+👁️ 562K • 👍 3K • 💬 2K • ⏱️ 3:46 • 1d ago
 
 ---
 
-**[He Chose AI Over Me 😤](https://www.youtube.com/watch?v=XANVpIlvKZQ)**
+**[Google&#39;s AI Lawsuit Win](https://www.youtube.com/watch?v=nWih9MS8KDM)**
 
-This story may be based on real events, but all names, details, and identifying information have been changed or fictionalized.
+Writer: Brett Stelmaszek Editor: Joshua Lambourne Stevenson Music by: @UFD-Music.
 
-📺 Her Story
+📺 UFD Tech
 
-👁️ 472K • 👍 16K • 💬 398 • ⏱️ 1:32 • 1d ago
+👁️ 130K • 👍 5K • 💬 165 • ⏱️ 0:43 • 2d ago
+
+---
+
+**[AI Has a Secret Phrase That Steals Keys #huggingface #cybersecurity #ai](https://www.youtube.com/watch?v=7iUl5242ww8)**
+
+ProjectDiscovery hid a backdoor in an open Qwen 7B model: inside OpenAI's Codex it behaves normally until a prompt ends in ...
+
+📺 Better Stack
+
+👁️ 5K • 👍 329 • 💬 12 • ⏱️ 1:16 • 2h ago
+
+---
+
+**[Joseph Gordon-Levitt Has Some Things to Say About A.I. | NYT Opinion](https://www.youtube.com/watch?v=nYdeUu2I80s)**
+
+Joseph Gordon-Levitt has spent much of his life telling stories about what it means to be human. Now the actor and filmmaker is ...
+
+📺 New York Times Opinion
+
+👁️ 20K • 👍 321 • 💬 35 • ⏱️ 7:32 • 1d ago
+
+---
+
+**[5 Stages of AI Mastery: Automation Comes Last](https://www.youtube.com/watch?v=fZZ2M1WRPeY)**
+
+Hit follow and share your most UNHINGED tip! Automation comes last, not first. Asking AI for an answer is stage 1. The work gets ...
+
+📺 Sabrina Ramonov 🍄
+
+👁️ 2K • 👍 129 • 💬 43 • ⏱️ 0:22 • 4h ago
 
 ---
 
@@ -388,7 +388,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 98,829 • ❤️ 1,632 • 5d ago
+⬇️ 98,829 • ❤️ 1,662 • 5d ago
 
 ---
 
@@ -400,7 +400,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 37,647 • ❤️ 1,020 • 2d ago
+⬇️ 37,647 • ❤️ 1,049 • 2d ago
 
 ---
 
@@ -412,7 +412,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 14,351 • ❤️ 2,016 • 1d ago
+⬇️ 14,351 • ❤️ 2,022 • 2d ago
 
 ---
 
@@ -424,7 +424,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,188,658 • ❤️ 3,945 • 3h ago
+⬇️ 2,188,658 • ❤️ 3,966 • 7h ago
 
 ---
 
@@ -436,19 +436,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 4,702 • ❤️ 512 • 2d ago
-
----
-
-**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
-
-*Aleph Alpha*
-
-Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
-
-`text-generation` `78.1B`
-
-⬇️ 12,550 • ❤️ 880 • 8d ago
+⬇️ 4,702 • ❤️ 526 • 2d ago
 
 ---
 
@@ -460,7 +448,19 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,726,683 • ❤️ 7,260 • 8h ago
+⬇️ 1,726,683 • ❤️ 7,290 • 12h ago
+
+---
+
+**[Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)**
+
+*Aleph Alpha*
+
+Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German and English, featuring explicit reasoning and tool-calling capabilities. It excels at long-context tasks (up to 1M tokens), multi-step reasoning, RAG, and agentic workflows, offering efficient inference with low active parameters per token.
+
+`text-generation` `78.1B`
+
+⬇️ 12,550 • ❤️ 884 • 8d ago
 
 ---
 
@@ -472,7 +472,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, 
 
 `text-generation` `31.2B`
 
-⬇️ 48,389 • ❤️ 689 • 2h ago
+⬇️ 48,389 • ❤️ 689 • 6h ago
 
 ---
 
@@ -484,7 +484,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,843,108 • ❤️ 17,482 • 1mo ago
+⬇️ 6,843,108 • ❤️ 17,498 • 1mo ago
 
 ---
 
@@ -496,7 +496,7 @@ EMA Lightning is a tiny, fast, and accurate Turkish text-to-speech model (8.6M p
 
 `text-to-speech`
 
-⬇️ 18,079 • ❤️ 351 • 4d ago
+⬇️ 18,079 • ❤️ 355 • 5d ago
 
 ---
 
@@ -513,7 +513,7 @@ EMA Lightning is a tiny, fast, and accurate Turkish text-to-speech model (8.6M p
 Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
   serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 26 • 💬 4 • ⭐ 4,282 • 25d ago
+▲ 26 • 💬 4 • ⭐ 4,392 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -533,6 +533,20 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 ---
 
+**[HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/papers/1910.03771)**
+
+*Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)*
+
+🏢 Hugging Face
+
+Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.
+
+▲ 34 • 💬 7 • ⭐ 167,516 • 85mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/1910.03771) • [💻 code](https://github.com/huggingface/transformers) • [🔗 project](https://huggingface.co)
+
+---
+
 **[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
 
 *Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
@@ -547,17 +561,15 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 ---
 
-**[HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/papers/1910.03771)**
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
-*Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)*
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
-🏢 Hugging Face
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.
+▲ 151 • 💬 6 • ⭐ 110,619 • 21mo ago
 
-▲ 33 • 💬 7 • ⭐ 167,392 • 85mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/1910.03771) • [💻 code](https://github.com/huggingface/transformers) • [🔗 project](https://huggingface.co)
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -572,18 +584,6 @@ Symbolic models make melody, harmony, rhythm, and form explicit but typically st
 ▲ 233 • 💬 3 • ⭐ 11,378 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 151 • 💬 6 • ⭐ 110,542 • 21mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -659,7 +659,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.2k • 🔱 1.7k • 9h ago
+⭐ 7.2k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.5k • 🔱 433 • 5d ago
+⭐ 6.5k • 🔱 435 • 6d ago
 
 ---
 
@@ -679,7 +679,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 695 • 25m ago
+⭐ 4.9k • 🔱 697 • 4h ago
 
 ---
 
@@ -689,7 +689,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.8k • 🔱 793 • 2h ago
+⭐ 4.8k • 🔱 804 • 29m ago
 
 ---
 
@@ -699,7 +699,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.2k • 🔱 114 • 4h ago
+⭐ 4.3k • 🔱 115 • 8h ago
 
 ---
 
@@ -729,7 +729,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 556 • 24d ago
+⭐ 2.9k • 🔱 560 • 24d ago
 
 ---
 
@@ -739,7 +739,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 2.9k • 🔱 196 • 6h ago
+⭐ 2.9k • 🔱 196 • 10h ago
 
 ---
 

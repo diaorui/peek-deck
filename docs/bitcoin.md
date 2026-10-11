@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-11T15:53:31.227537+00:00'
+updated: '2026-10-11T19:57:22.684762+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 11, 2026 at 15:53 UTC  
+**Last Updated:** October 11, 2026 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,384.84
+### $83,711.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -2.7%  
-**30d:** +8.0%  
-**90d:** +28.3%  
-**1y:** -27.6%  
+**24h:** +0.8%  
+**7d:** -2.4%  
+**30d:** +8.3%  
+**90d:** +28.7%  
+**1y:** -27.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1675.90B
+**Market Cap:** $1680.21B
 Rank #1
 
-**Circulating Supply:** 20,096,687 BTC
+**Circulating Supply:** 20,096,750 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.9%
+-33.7%
 
 **All-Time Low:** $67.81
-+122878.9%
++123194.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC Moon Boys be like](https://www.reddit.com/r/Bitcoin/comments/1x0vgjh/btc_moon_boys_be_like/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -103,7 +103,7 @@ Hodl
 
 I have tracked BTC since 2017 and became more committed in 2020. I have reached a stage where I share less because those around me seem less concerned about their future and prefer the simplest path. ( The hard part is that I want to share what I learn and the potential it has but I just know it will fall on deaf ear so I just don’t wanna bother people or waste my energy.) Second, I feel pleased when BTC rises and my holding price increases. Yet I am equally content when it drops, since that allows me to acquire more at a lower cost. I intend to hold until 2030 and may never sell my entire stack. I just woke up and noticed BTC back at 80k, so I turned to my wife and said, “btc back to 80k yay! That means I can get more for cheaper!” Does anyone else feel this way? Whenever you think things are gonna go bad just remember to zoom out and remember BTC will always go up. Happy stacking 💪
 
-2d ago
+3d ago
 
 ---
 
@@ -117,7 +117,7 @@ I have tracked BTC since 2017 and became more committed in 2020. I have reached 
 
 Jamie Dimon on bitcoin, and the price the day he said it: $405: "going to be stopped" (2015) $4,164: "fraud" (2017) $5,614: "it can trade at $100,000 before it trades to zero" (2017) $21,072: "a pet rock" (2023) $105,616: "We are going to allow you to buy it." (2025)
 
-2d ago
+3d ago
 
 ---
 
@@ -163,35 +163,51 @@ CoinDesk • 1d ago
 
 ---
 
-**[Crypto And The Midterms: What It Will Take To Reach $100k Bitcoin](https://www.investors.com/news/bitcoin-cryptocurrency-outlook-clarity-act-sec-cftc-frameworks-regulations/)**
+**[Which Is More Likely: Bitcoin at $1 Million or XRP at $10?](https://247wallst.com/investing/cryptocurrency/2026/10/11/which-is-more-likely-bitcoin-at-1-million-or-xrp-at-10-2/)**
 
-The outlook for bitcoin and the crypto market is looking up despite the Clarity Act setback as the CFTC and SEC step in.
+Bitcoin needs a 12.1 times rally to hit $1 million, while XRP needs 7.2 times to reach $10. Which target is more likely?
 
-Investor's Business Daily • 2d ago
-
----
-
-**[XRP ETFs see inflows for 13th week; Bitcoin, Et...](https://pluang.com/en/news-feed/xrp-etf-melanjutkan-aliran-masuk-saat-dana-kripto-kehilangan-1-25-miliar)**
-
-U.S.-listed XRP ETFs continued their inflow streak for the 13th consecutive week ending Oct. 9, attracting $11.31 million and raising cumulative inflows to $1.80 billion. Meanwhile, Bitcoin, Ethereum, and Solana ETFs experienced significant outflows totaling nearly $1.25 billion, with Bitcoin funds withdrawing $681.10 million, Ethereum $542.07 million, and Solana $24.81 million. This marks a reversal for Bitcoin after three weeks of inflows, consistent withdrawals for Ethereum over five sessions, and the end of a 14-week inflow streak for Solana. Despite XRP's inflows, total net assets for XRP ETFs declined to $1.57 billion. These flows reflect shifting investor sentiment across major crypto ETFs.
-
-Pluang • 1h ago
+24/7 Wall St. • 7h ago
 
 ---
 
-**[Why Does Ethereum Fall Harder Than Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/why-does-ethereum-fall-harder-133009818.html)**
+**[Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?](https://finance.yahoo.com/markets/crypto/articles/could-1-000-invested-bitcoin-190700838.html)**
 
-Ethereum dropped more than three times harder than Bitcoin last week, yet it also gained far less during the month's rally. Something beyond simple volatility explains why ETH keeps taking the bigger hit without delivering the bigger reward.
+At one time, Bitcoin had 1,000x upside potential. But is that still the case?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin whale places $22.89M buy order at $82,9...](https://pluang.com/en/news-feed/bitcoin-whale-tempatkan-pesanan-beli-spot-22-juta-usd)**
+**[Peter Schiff Says Bitcoin Surprised Him By Holding Gains As He Still Expects New Lows](https://www.tradingview.com/news/stocktwits:7fe706b81094b:0-peter-schiff-says-bitcoin-surprised-him-by-holding-gains-as-he-still-expects-new-lows/)**
 
-A Bitcoin whale placed a large buy order worth $22.89 million on Binance's spot market at a price of $82,975 per BTC, totaling approximately 275.84 BTC. Initially, the order was about $8.45 million for 101.78 BTC but expanded to its current size. Around $1.86 million (22.37 BTC) of the order had been filled at the time of tracking. This order is displayed in Binance's order book but is not yet fully completed, signaling strong buying interest at this price level.
+Gold advocate Peter Schiff admitted he’s surprised Bitcoin (BTC) has held onto gains that gold has given back, but still expects the cryptocurrency to fall to new lows.Schiff made the comments in an interview with Scott Melker on his podcast, The Wolf Of All Streets, published on Sunday. Both asset…
 
-Pluang • 2h ago
+TradingView • 1h ago
+
+---
+
+**[Bitcoin, XRP Get the Spotlight—Could These 5 Altcoins Be Next?](https://www.benzinga.com/crypto/cryptocurrency/26/10/62289424/bitcoin-xrp-get-the-spotlight-could-these-5-altcoins-be-next)**
+
+Bitwise sees Bitcoin reaching $1.4 million if it follows gold’s post-ETF rise, with five altcoins positioned to follow.
+
+Benzinga • 5h ago
+
+---
+
+**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://www.fool.com/investing/2026/10/11/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/)**
+
+Other cryptocurrencies may be performing better right now, but Bitcoin is still the best long-term investment.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
+
+“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
+
+Decrypt • 3h ago
 
 ---
 
@@ -201,19 +217,9 @@ WSJ • 2d ago
 
 ---
 
-**[IBIT: A Strategic Bet On A Bitcoin Comeback (NASDAQ:IBIT)](https://seekingalpha.com/article/4953164-ibit-a-strategic-bet-on-a-bitcoin-comeback)**
+**[Who Really Owns Bitcoin? Wall Street vs. Ordinary People](https://beincrypto.com/who-owns-bitcoin-institutions-treasury-cash/)**
 
-The iShares Bitcoin Trust ETF remains the largest and most liquid spot Bitcoin ETF, with $69 billion in assets under management. Read more on IBIT ETF here.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC](https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million)**
-
-Bermuda-regulated startup Meanwhile, whose backers include Bain Capital Crypto and Sam Altman, has now raised a total of $180 million.
-
-Bitcoin Magazine • 1d ago
+BeInCrypto • 9h ago
 
 ---
 
@@ -222,12 +228,6 @@ Bitcoin Magazine • 1d ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 1d ago
-
----
-
-**[Who Really Owns Bitcoin? Wall Street vs. Ordinary People](https://beincrypto.com/who-owns-bitcoin-institutions-treasury-cash/)**
-
-BeInCrypto • 5h ago
 
 ---
 
@@ -251,6 +251,12 @@ Discord is great for playing games and chilling with friends, or even building a
 
 ---
 
+**[Freelancers can get paid in crypto: a step-by-step guide](https://news.ycombinator.com/item?id=50046855)**
+
+⬆️ 2 • 💬 0 • 35m ago
+
+---
+
 **[L402 edge cache for AI agents paying over Lightning](https://news.ycombinator.com/item?id=49959733)**
 
 An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macr...
@@ -259,9 +265,27 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ---
 
+**[Show HN: tgv: Genome viewer for you and your agents](https://news.ycombinator.com/item?id=50029175)**
+
+Genome viewer for you and your agents. Contribute to zeqianli/tgv development by creating an account on GitHub.
+
+⬆️ 4 • 💬 1 • 1d ago • [GitHub](https://github.com/zeqianli/tgv)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[URGENT 🚀 TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC!](https://www.youtube.com/watch?v=pcFITs1v9Z0)**
+
+URGENT TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC! Support The O Show with Ref Links: ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 293 • 💬 18 • ⏱️ 15:13 • 2h ago
+
+---
 
 **[My MASSIVE Warning To Crypto Holders](https://www.youtube.com/watch?v=qz3BKaBKIh8)**
 
@@ -269,77 +293,17 @@ Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): http
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 4K • 💬 170 • ⏱️ 10:37 • 15h ago
+👁️ 78K • 👍 4K • 💬 179 • ⏱️ 10:37 • 19h ago
 
 ---
 
-**[ULTRA CRYPTO BOMBSHELL!!! BITCOIN TO $10,000,000 AND XRP TO $160?!](https://www.youtube.com/watch?v=9vLW2FjVb0A)**
+**[Bitcoin REFUSES To Crash - Even Peter Schiff Admits He’s Surprised](https://www.youtube.com/watch?v=p0vkjfMZU44)**
 
-Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphold.com/sensei ▸ Earn XRP Rewards: 4% Elite ...
+Bitcoin #Crypto #finance Peter Schiff joins the show to explain why he believes rising Treasury yields, soaring U.S. debt and ...
 
-📺 Crypto Sensei
+📺 The Wolf Of All Streets
 
-👁️ 24K • 👍 465 • 💬 148 • ⏱️ 14:30 • 1d ago
-
----
-
-**[THIS BITCOIN SIGNAL IS ABOUT TO FLASH AGAIN...](https://www.youtube.com/watch?v=6yhuFdTOnpU)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 22K • 👍 712 • 💬 44 • ⏱️ 7:53 • 11h ago
-
----
-
-**[URGENT: I Am Making 3 Major Changes To My Crypto Portfolio NOW!](https://www.youtube.com/watch?v=o69Txodt1uE)**
-
-A major crypto market correction is imminent, and investors need to prepare for what comes next. While most investors are worried ...
-
-📺 Crypto Banter
-
-👁️ 47K • 👍 1K • 💬 46 • ⏱️ 37:52 • 23h ago
-
----
-
-**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
-
-Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
-
-📺 The Economic Ninja
-
-👁️ 32K • 👍 987 • 💬 221 • ⏱️ 3:20 • 1d ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=1BNmkkMps0Y)**
-
-Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
-
-📺 Road To $1 Million USD
-
-👁️ 10K • 👍 321 • 💬 35 • ⏱️ 5:44 • 1d ago
-
----
-
-**[Bitcoin Prediction that everyone is overlooking! (2028-2030)](https://www.youtube.com/watch?v=X2aM26F0xCE)**
-
-Kalshi $50 bonus: http://kalshi.com/p/aimstone ...
-
-📺 Aimstone
-
-👁️ 8K • 👍 308 • 💬 29 • ⏱️ 14:23 • 1d ago
-
----
-
-**[BITCOIN: THE MOST CRITICAL MOMENT IS NOW...](https://www.youtube.com/watch?v=F4Wd2zydCvI)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 21K • 👍 637 • 💬 24 • ⏱️ 7:03 • 1d ago
+👁️ 11K • 👍 287 • 💬 171 • ⏱️ 53:39 • 6h ago
 
 ---
 
@@ -349,17 +313,67 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 107K • 👍 2K • 💬 125 • ⏱️ 46:44 • 1d ago
+👁️ 113K • 👍 3K • 💬 155 • ⏱️ 46:44 • 1d ago
 
 ---
 
-**[BITCOIN WARNING: CALM BEFORE THE STORM (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QLEgZJVmyEU)**
+**[$266,000 Bitcoin GOLD SHOCK - JPMorgan’s Math Says BTC Is 3X Undervalued](https://www.youtube.com/watch?v=FjkJai-IWYE)**
 
-BITCOIN WARNING: CALM BEFORE THE STORM (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Crypto World
+📺 Bitcoin News Alerts
 
-👁️ 16K • 👍 519 • 💬 164 • ⏱️ 18:15 • 20h ago
+👁️ 7K • 👍 254 • 💬 162 • ⏱️ 15:48 • 21h ago
+
+---
+
+**[A Bitcoin And XRP Chart You Must See Before Buying Crypto](https://www.youtube.com/watch?v=6b9n-jgC55g)**
+
+Analyzing current Bitcoin price movements to determine if the bottom is truly in for the cryptocurrency market. There is a lot of ...
+
+📺 The Economic Ninja
+
+👁️ 34K • 👍 1K • 💬 224 • ⏱️ 3:20 • 2d ago
+
+---
+
+**[BlackRock&#39;s Path To $700,000 Bitcoin](https://www.youtube.com/watch?v=f_xrn-i7IZM)**
+
+The Bitcoin Treasuries Conference is live from New York City. A full day of panels, firesides, and lightning talks covering Bitcoin ...
+
+📺 Bitcoin Treasuries
+
+👁️ 7K • 👍 95 • 💬 27 • ⏱️ 29:46 • 1d ago
+
+---
+
+**[How Much Bitcoin Do You Need To Be Part Of The TOP 1% The Number Is Going To Shock You](https://www.youtube.com/watch?v=ITkoBjclINE)**
+
+My friend, long gone are the days of needing an entire Bitcoin to be part of the top 1% elite holders of Bitcoin on the planet.
+
+📺 Money Rules - Investing Tips 
+
+👁️ 15K • 👍 1K • 💬 207 • ⏱️ 10:35 • 8h ago
+
+---
+
+**[Is Trump’s $40T Debt Reset Plan a New Bitcoin-Gold Standard?!](https://www.youtube.com/watch?v=xTAT6VX1Xro)**
+
+Bitcoin just survived a brutal week of market chaos while major banks and private credit markets flashed serious warning signs.
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 1K • 💬 65 • ⏱️ 19:37 • 20h ago
+
+---
+
+**[URGENT: I Am Making 3 Major Changes To My Crypto Portfolio NOW!](https://www.youtube.com/watch?v=o69Txodt1uE)**
+
+A major crypto market correction is imminent, and investors need to prepare for what comes next. While most investors are worried ...
+
+📺 Crypto Banter
+
+👁️ 50K • 👍 1K • 💬 44 • ⏱️ 37:52 • 1d ago
 
 ---
 
