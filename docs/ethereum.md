@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-11T19:57:22.690787+00:00'
+updated: '2026-10-11T23:31:54.502860+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 11, 2026 at 19:57 UTC  
+**Last Updated:** October 11, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,539.52
+### $2,519.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -6.4%  
+**24h:** +1.2%  
+**7d:** -6.5%  
 **30d:** +0.4%  
-**90d:** +34.2%  
+**90d:** +34.1%  
 **1y:** -39.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $309.46B
+**Market Cap:** $309.40B
 Rank #2
 
 **Circulating Supply:** 122,124,805 ETH
@@ -62,7 +62,7 @@ No max supply
 -48.8%
 
 **All-Time Low:** $0.43
-+585133.9%
++585124.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-1h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
-6h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-t
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-1h ago
+4h ago
 
 ---
 
@@ -152,11 +152,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-solana-etfs-red-160103768.html)**
+**[How Much Ethereum Do You Need to Be a Millionaire by 2030?](https://finance.yahoo.com/markets/crypto/articles/much-ethereum-millionaire-2030-203059664.html)**
 
-Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.
+Reaching millionaire status with Ethereum by 2030 sounds straightforward until you realize how much capital you need to invest right now at today's prices, before the price ever moves in your favor.
 
 Yahoo Finance • 3h ago
+
+---
+
+**[New Crypto: Remittix Confirms November 24 RTX Launch as Ethereum Price Prediction Eyes $12,000 and Cardano’s Tokenized-Equity Push Revives the $1 ADA Dream](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-confirms-november-24-rtx-launch-as-ethereum-price-prediction-eyes-12-000-and-cardano-s-tokenized-equity-push-revives-the-1-ada-dream-1036614789)**
+
+MAJURO, Marshall Islands, Oct.  11, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed November 24, 2026 as the scheduled market-launch date for RTX...
+
+markets.businessinsider.com • 1h ago
+
+---
+
+**[Why Is Ethereum Stuck Below $2,500 in 2026?](https://finance.yahoo.com/markets/crypto/articles/why-ethereum-stuck-below-2-210041432.html)**
+
+Three of Ethereum's biggest buyers all stepped back at the same moment, and the price has been drifting sideways ever since. Here is what those buyers were doing and why their absence matters.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -170,7 +186,15 @@ Forbes • 1d ago
 
 STRK jumps as Starknet explores quantum-resistant upgrades and a potential split from Ethereum to become a Layer-1.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 6h ago
+
+---
+
+**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
+
+“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
+
+Decrypt • 7h ago
 
 ---
 
@@ -182,19 +206,11 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum: Trader Eyes Breakout Above $2575](https://blockchain.news/flashnews/ethereum-trader-eyes-breakout-above-2575)**
+**[Ethereum: LTF Breakout Resumes Uptrend Momentum](https://blockchain.news/flashnews/ethereum-ltf-breakout-resumes-uptrend-momentum)**
 
-Michaël van de Poppe says Ethereum needs a strong breakout above $2575 to confirm outperformance versus Bitcoin after staying calm under key resistances.
+Trader Tardigrade notes Ethereum broke recent resistance on the 30-minute chart, retested the flipped zone and rebounded with uptrend momentum now resumed.
 
-Blockchain News • 14h ago
-
----
-
-**[The XRP Ledger Surpasses Ethereum in a Key Area. What Does This Mean for the XRP Price?](https://247wallst.com/investing/cryptocurrency/2026/10/09/the-xrp-ledger-surpasses-ethereum-in-a-key-area-what-does-this-mean-for-the-xrp-price/)**
-
-The XRP Ledger drew $2.2 billion in tokenized commodity inflows in 2026, beating Ethereum's $1.6 billion. Will it lift the XRP price?
-
-24/7 Wall St. • 2d ago
+Blockchain News • 8h ago
 
 ---
 
@@ -206,14 +222,6 @@ Benzinga • 2d ago
 
 ---
 
-**[Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity](https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity)**
-
-Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet.
-
-Decrypt • 2d ago
-
----
-
 **[Ethereum researcher's AI security warning stirs debate as bitcoin extends slide: Crypto Markets Today](https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto)**
 
 Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.
@@ -222,55 +230,17 @@ CoinDesk • 3d ago
 
 ---
 
-**[Keep calm and enter 'bunker mode,' crypto bros say](https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10)**
-
-Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results.
-
-Business Insider • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Warning (Altcoins Will Die)](https://www.youtube.com/watch?v=o2NF_RtjLwk)**
+**[These 3 Crypto Coins Are Getting Ready To EXPLODE!?](https://www.youtube.com/watch?v=reNe1hqrzMs)**
 
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+Besides Bitcoin & Ethereum what other crypto coins do you like? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Discover Crypto
+📺 Altcoin Daily
 
-👁️ 11K • 👍 229 • 💬 36 • ⏱️ 8:11 • 2d ago
-
----
-
-**[No he estado tan Bullish con Ethereum desde 2020...](https://www.youtube.com/watch?v=VDVQ7zedCnM)**
-
-Durante los últimos años, Ethereum ha sido una de las mayores decepciones del mercado de las criptomonedas, y cada vez se ...
-
-📺 Healthy Pockets
-
-👁️ 9K • 👍 502 • 💬 47 • ⏱️ 18:25 • 5h ago
-
----
-
-**[This One Ethereum Price Level Could Trigger the Biggest Altcoin Rally in Years](https://www.youtube.com/watch?v=7cvsrjpkRTs)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 7K • 👍 109 • 💬 119 • ⏱️ 16:18 • 1d ago
-
----
-
-**[Tom Lee: Ethereum to $50,000 This Bull Cycle (&quot;You&#39;re Going to See Some Monster Moves&quot;)](https://www.youtube.com/watch?v=BEyFTMOoLGw)**
-
-BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively undervalued" and "in this bull cycle, I think it ...
-
-📺 Higher Highs Crypto
-
-👁️ 5K • 👍 25 • 💬 8 • ⏱️ 8:01 • 2d ago
+👁️ 12K • 👍 851 • 💬 126 • ⏱️ 8:01 • 3h ago
 
 ---
 
@@ -280,7 +250,57 @@ This video is sponsored by FortisX. Learn more: https://fortisx.fi/x/danalovephd
 
 📺 Dana Love, PhD
 
-👁️ 36K • 👍 778 • 💬 86 • ⏱️ 21:49 • 2d ago
+👁️ 37K • 👍 786 • 💬 86 • ⏱️ 21:49 • 2d ago
+
+---
+
+**[This One Ethereum Price Level Could Trigger the Biggest Altcoin Rally in Years](https://www.youtube.com/watch?v=7cvsrjpkRTs)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 7K • 👍 110 • 💬 117 • ⏱️ 16:18 • 1d ago
+
+---
+
+**[No he estado tan Bullish con Ethereum desde 2020...](https://www.youtube.com/watch?v=VDVQ7zedCnM)**
+
+Durante los últimos años, Ethereum ha sido una de las mayores decepciones del mercado de las criptomonedas, y cada vez se ...
+
+📺 Healthy Pockets
+
+👁️ 15K • 👍 658 • 💬 54 • ⏱️ 18:25 • 9h ago
+
+---
+
+**[Tom Lee: Ethereum to $50,000 This Bull Cycle (&quot;You&#39;re Going to See Some Monster Moves&quot;)](https://www.youtube.com/watch?v=BEyFTMOoLGw)**
+
+BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively undervalued" and "in this bull cycle, I think it ...
+
+📺 Higher Highs Crypto
+
+👁️ 6K • 👍 26 • 💬 8 • ⏱️ 8:01 • 2d ago
+
+---
+
+**[Solana vs Ethereum vs Sui for the next bull run](https://www.youtube.com/watch?v=s7IcaWqCtjg)**
+
+10K Trades is one of the fastest ways to automate your crypto trading with AI - https://www.skool.com/10ktrades/about ...
+
+📺 Jake Gordon Crypto
+
+👁️ 4K • 👍 79 • 💬 19 • ⏱️ 17:52 • 12h ago
+
+---
+
+**[TOM LEE&#39;S CRAZY ETHEREUM PREDICTION](https://www.youtube.com/watch?v=1jPIqPnTFCc)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 11K • 👍 240 • 💬 95 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -294,23 +314,13 @@ Its absolutely no secret that the richest people on the planet are accumulating 
 
 ---
 
-**[Solana vs Ethereum vs Sui for the next bull run](https://www.youtube.com/watch?v=s7IcaWqCtjg)**
+**[XRP Just Flipped Ethereum BIG TIME! WOW!💥](https://www.youtube.com/watch?v=2nrh-HMDpYo)**
 
-10K Trades is one of the fastest ways to automate your crypto trading with AI - https://www.skool.com/10ktrades/about ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCG9sTui02o3W4CbHQIP-l7g/join LLC Formation: ...
 
-📺 Jake Gordon Crypto
+📺 Digital Outlook
 
-👁️ 3K • 👍 70 • 💬 17 • ⏱️ 17:52 • 8h ago
-
----
-
-**[BITCOIN WARNING: CALM BEFORE THE STORM (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QLEgZJVmyEU)**
-
-BITCOIN WARNING: CALM BEFORE THE STORM (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 17K • 👍 544 • 💬 150 • ⏱️ 18:15 • 1d ago
+👁️ 24K • 💬 73 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -320,17 +330,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 875 • 👍 26 • 💬 10 • ⏱️ 4:36 • 9h ago
-
----
-
-**[XRP Just Flipped Ethereum BIG TIME! WOW!💥](https://www.youtube.com/watch?v=2nrh-HMDpYo)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCG9sTui02o3W4CbHQIP-l7g/join LLC Formation: ...
-
-📺 Digital Outlook
-
-👁️ 24K • 💬 73 • ⏱️ 17:39 • 2d ago
+👁️ 1K • 👍 28 • 💬 8 • ⏱️ 4:36 • 13h ago
 
 ---
 
