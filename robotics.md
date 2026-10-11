@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-11T19:57:22.694040+00:00'
+updated: '2026-10-11T23:31:54.506076+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 11, 2026 at 19:57 UTC  
+**Last Updated:** October 11, 2026 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-3d ago
+4d ago
 
 ---
 
@@ -98,7 +98,7 @@ Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-4d ago
+5d ago
 
 ---
 
@@ -122,11 +122,11 @@ Futurism • 1d ago
 
 ---
 
-**[AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
+**[Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence](https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/)**
 
-Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.
+The raise consisted of a Series A seed round led by Framework Ventures plus an earlier seed round.
 
-MIT Technology Review • 3d ago
+Fortune • 2d ago
 
 ---
 
@@ -134,7 +134,7 @@ MIT Technology Review • 3d ago
 
 At a Van Ness arena, 200-pound robots wielded steel blades.
 
-The San Francisco Standard • 6h ago
+The San Francisco Standard • 10h ago
 
 ---
 
@@ -142,7 +142,21 @@ The San Francisco Standard • 6h ago
 
 If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber.
 
-New Atlas • 8h ago
+New Atlas • 12h ago
+
+---
+
+**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
+
+Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
+
+About Amazon • 3d ago
+
+---
+
+**[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
+
+Financial Times • 1d ago
 
 ---
 
@@ -154,15 +168,17 @@ TechCrunch • 2d ago
 
 ---
 
-**[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
-
-Financial Times • 1d ago
-
----
-
 **[Gecko Robotics partners with Anduril to aid submarine manufacturing](https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html)**
 
 The Business Journals • 2d ago
+
+---
+
+**[Amazon draws on fleet of 1 million robots to help machines learn and act in real world](https://interestingengineering.com/ai-robotics/amazon-physical-toolchain)**
+
+AWS launches open-source physical AI toolchain with cloud infrastructure and NVIDIA robotics tools for training, simulation, and deployment.
+
+Interesting Engineering • 9h ago
 
 ---
 
@@ -170,21 +186,7 @@ The Business Journals • 2d ago
 
 Woodhaven’s Goonettes invitational gives young women a chance to compete
 
-ClickOnDetroit | WDIV Local 4 • 3h ago
-
----
-
-**[ICE buys robotic dogs from Connecticut company for patrols](https://www.ctinsider.com/business/article/ice-radeco-boston-dynamics-spot-cerberus-robots-22457706.php)**
-
-CT Insider • 1d ago
-
----
-
-**[Is Alibaba (BABA) Quietly Reframing Its AI Story Through Tourism Robots And Sports Fan Tech?](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-quietly-reframing-ai-181204645.html)**
-
-Amap, Alibaba Group’s location-based services platform, and Sands China recently delivered the first batch of “Tutu” robot dogs to serve as robotic guides at Sands Resorts Macau, while Alibaba also entered a multi-year technology and cloud partnership with the Brooklyn Nets to power real-time 360° replays and personalized fan collectibles. These collaborations highlight how Alibaba is applying its AI, spatial intelligence, and cloud capabilities in real-world tourism and sports settings,...
-
-Yahoo Finance • 1h ago
+ClickOnDetroit | WDIV Local 4 • 7h ago
 
 ---
 
@@ -198,33 +200,47 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 29K • 👍 398 • 💬 41 • ⏱️ 9:18 • 4h ago
+👁️ 77K • 👍 625 • 💬 67 • ⏱️ 9:18 • 8h ago
 
 ---
 
-**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
+**[Elon Musk&#39;s 1 Billion Robot Prediction Suddenly Looks Different.](https://www.youtube.com/watch?v=BsDEKGw_VRY)**
 
-Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
+Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very different when you see how quickly the technology is ...
 
-📺 DEEP Robotics
+📺 ejunky66
 
-👁️ 13K • 👍 202 • 💬 27 • ⏱️ 1:12 • 5d ago
-
----
-
-**[Trump Interview Is RUINED - Robot Chicken Short Edit](https://www.youtube.com/watch?v=W75rt3IvsvQ)**
-
-📺 Alien Simulation
-
-👁️ 526K • 👍 36K • 💬 434 • ⏱️ 0:42 • 6d ago
+👁️ 667K • 👍 7K • 💬 292 • ⏱️ 1:00 • 3d ago
 
 ---
 
-**[One Tentacle Closer to Nuclear Fusion #Robotics #3DPrinting #Engineering](https://www.youtube.com/watch?v=wujtXR6sZTY)**
+**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
 
-📺 It's on my MIND
+America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
 
-👁️ 756K • 👍 20K • 💬 238 • ⏱️ 1:23 • 4d ago
+📺 Future Core
+
+👁️ 8K • 👍 48 • 💬 4 • ⏱️ 10:07 • 4d ago
+
+---
+
+**[UbiTech builds robots autonomously at a 10-minute production #Robotics #Automation #Manufacturing](https://www.youtube.com/watch?v=tcK3L08aSdM)**
+
+UbiTech built a factory in China where robots assemble new humanoid robots every 10 minutes. This innovative production line ...
+
+📺 Vitaly Korovitz
+
+👁️ 6K • 👍 138 • 💬 20 • ⏱️ 1:20 • 5d ago
+
+---
+
+**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
+
+This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
+
+📺 Kalil 4.0
+
+👁️ 364 • 👍 13 • 💬 1 • ⏱️ 1:03 • 2h ago
 
 ---
 
@@ -234,15 +250,17 @@ At first glance, you might swear this is a real person. But it's a humanoid robo
 
 📺 ejunky66
 
-👁️ 152K • 👍 2K • 💬 122 • ⏱️ 1:00 • 6d ago
+👁️ 156K • 👍 2K • 💬 129 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[they built round robot vacuums and called it efficient.#vaccum #robotcleaner #squarerobots #cleantok](https://www.youtube.com/watch?v=hzc4L9tbBOQ)**
+**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
 
-📺 Cleanwith__Marina
+Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
 
-👁️ 4.4M • 👍 13K • 💬 67 • ⏱️ 0:08 • 6d ago
+📺 DEEP Robotics
+
+👁️ 13K • 👍 206 • 💬 27 • ⏱️ 1:12 • 5d ago
 
 ---
 
@@ -256,13 +274,13 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 ---
 
-**[5 Best Robotics Stocks to Buy for 2027 - Plus a 10X Moonshot](https://www.youtube.com/watch?v=1cg0XArsBbA)**
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
 
-With dozens of positions in the AI Investor portfolio it can be difficult to stay on top of all the earnings, new filings, and major stock ...
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
 
-📺 247 Wall St
+📺 MACHINEKIND
 
-👁️ 6K • 👍 152 • 💬 22 • ⏱️ 1:17:06 • 1d ago
+👁️ 52K • 👍 837 • 💬 82 • ⏱️ 13:43 • 3d ago
 
 ---
 
@@ -273,16 +291,6 @@ Writer: Brett Stelmaszek Editor: Rikus Strauss Music by: @UFD-Music The amount o
 📺 UFD Tech
 
 👁️ 160K • 👍 7K • 💬 161 • ⏱️ 0:40 • 5d ago
-
----
-
-**[This Is Impossible... Bane Bagliore MELTING Fang Bots | Bane Comeback | War Robots](https://www.youtube.com/watch?v=1NH2fZ82um4)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR The Bane are back! I just wanted to try this build out for fun, ...
-
-📺 PREDATOR WR
-
-👁️ 17K • 👍 376 • 💬 42 • ⏱️ 14:51 • 2d ago
 
 ---
 
