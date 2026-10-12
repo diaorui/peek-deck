@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-12T12:48:39.093229+00:00'
+updated: '2026-10-12T21:35:40.258431+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 12, 2026 at 12:48 UTC  
+**Last Updated:** October 12, 2026 at 21:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh – 6000mAh) x 1 I have been working on a bipedal version hence the "2 more to go" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)
 
-4d ago
+5d ago
 
 ---
 
@@ -50,7 +50,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) designed end to end in my app. You describe the robot, and it picks real servos (Feetech STS3250 here), plans the electronics, lays out the body, builds the 3D structure and shell, writes the firmware, and runs it in MuJoCo physics before anything gets printed. It's early and plenty is still rough. I'd really like feedback from people who've actually built robots: what was the hardest part of your design, and what would make a tool like this useful (or useless) to you?
 
-4d ago
+5d ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 I’ve been experimenting with turning an M5Stack Stack-chan into a little mobile robot. I combined it with a LEGO motor hub and wheels, recorded driving demonstrations, and trained an ACT policy. During supervised trials, it learned to follow a line. With a separate set of demonstrations, I also tried driving between guardrails. The video shows the build, data collection, and the wrong turns along the way 😅 Build video: https://www.youtube.com/watch?v=_1pQTt8gqZM This is also the first showcase of what I’ve built with Robium, an open-source robotics skills repo that I recently released. I used it with AI agents to help build the software and training setup. GitHub: https://github.com/robium-ai/robium Has anyone else experimented with learning from demonstrations on a small wheeled robot? I’d be interested to hear what worked for you.
 
-4d ago
+5d ago
 
 ---
 
@@ -122,35 +122,11 @@ Futurism • 2d ago
 
 ---
 
-**[A humanoid robot for developers and schools is among four launches planned for Oct. 14.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html)**
-
-YT Jia's weekly investor report has been rescheduled for Oct. 14; the full launch video will be available online Oct. 15 at 5 p.m. PDT.
-
-Stock Titan • 12h ago
-
----
-
-**[Will ‘boring’ robots win in the real world? Why robotic form should follow workflow](https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/)**
-
-If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.
-
-The Robot Report • 1d ago
-
----
-
-**[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
-
-At a Van Ness arena, 200-pound robots wielded steel blades.
-
-The San Francisco Standard • 23h ago
-
----
-
-**[Inside Amazon’s robotic arms race and what it means for the future of human work](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
+**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
 
 The second-largest corporate employer has bet big on robot workers to scale.
 
-Ars Technica • 5m ago
+Ars Technica • 8h ago
 
 ---
 
@@ -158,7 +134,13 @@ Ars Technica • 5m ago
 
 Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.
 
-Foreign Affairs • 4h ago
+Foreign Affairs • 13h ago
+
+---
+
+**[Cedars-Sinai uniting surgeons and engineers with new robotic surgery initiative](https://ktla.com/news/cedars-sinai-uniting-surgeons-and-engineers-with-new-robotic-surgery-initiative/)**
+
+KTLA • 5h ago
 
 ---
 
@@ -170,25 +152,43 @@ Universe Today • 1d ago
 
 ---
 
-**[Impossibly tiny Swiss motor looks like anything but](https://newatlas.com/robotics/fibermotor-flexible-motor/)**
+**[Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night](https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night)**
 
-If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber.
+Video. Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night.
 
-New Atlas • 1d ago
-
----
-
-**[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
-
-Financial Times • 2d ago
+Euronews.com • 1d ago
 
 ---
 
-**[Girls take controls at Michigan robotics invitational in Woodhaven](https://www.clickondetroit.com/news/local/2026/10/11/girls-take-controls-at-michigan-robotics-invitational-in-woodhaven/)**
+**[Will ‘boring’ robots win in the real world? Why robotic form should follow workflow](https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/)**
 
-Woodhaven’s Goonettes invitational gives young women a chance to compete
+If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.
 
-ClickOnDetroit | WDIV Local 4 • 20h ago
+The Robot Report • 1d ago
+
+---
+
+**[Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win.](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-could-5-trillion-015000599.html)**
+
+Morgan Stanley is projecting a $5 trillion valuation for the humanoid robots industry. These stocks are poised to thrive because of it.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[A humanoid robot for developers and schools is among four launches planned for Oct. 14.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html)**
+
+YT Jia's weekly investor report has been rescheduled for Oct. 14; the full launch video will be available online Oct. 15 at 5 p.m. PDT.
+
+Stock Titan • 21h ago
+
+---
+
+**[US Army creates robotics technician job to focus on drone warfare](https://www.militarytimes.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/)**
+
+As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.
+
+Military Times • 3h ago
 
 ---
 
@@ -196,97 +196,103 @@ ClickOnDetroit | WDIV Local 4 • 20h ago
 
 ## YouTube Videos: "robotics"
 
-**[ARPO THE ROBOT SEASON 2 FULL EPISODES COMPILATION 🤖 | 90 MINS |  ARPO: The Robot | Funny Cartoons](https://www.youtube.com/watch?v=_7bDtOwz2os)**
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
 
-Join ARPO and watch all of ARPO: The Robot season 2 full episodes featuring mischeif, adventure and unforgettable moments!
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
 
-📺 ARPO: The Robot
+📺 MostAmazingTop10
 
-👁️ 8K • 👍 18 • ⏱️ 1:25:56 • 22h ago
-
----
-
-**[AI Medical Robot Assisting Pilgrims at Hajj](https://www.youtube.com/watch?v=drkJArkh5us)**
-
-Witness the future of pilgrimage care as an advanced medical robot provides critical assistance to a fatigued traveler during Hajj.
-
-📺 Morsalin Vlogs
-
-👁️ 38K • 👍 667 • ⏱️ 0:11 • 4d ago
+👁️ 130K • 👍 999 • 💬 107 • ⏱️ 9:18 • 1d ago
 
 ---
 
-**[🤖 This Goalkeeper Robot Is Almost IMPOSSIBLE to Beat! 😱⚽](https://www.youtube.com/watch?v=T2lLXcTeT3o)**
+**[Elon Musk&#39;s 1 Billion Robot Prediction Suddenly Looks Different.](https://www.youtube.com/watch?v=BsDEKGw_VRY)**
 
-This Goalkeeper Robot Is Almost IMPOSSIBLE to Beat! ⚽ Description: This goalkeeper robot reacts in just 0.3 seconds!
+Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very different when you see how quickly the technology is ...
 
-📺 THE INAAAMUL
+📺 ejunky66
 
-👁️ 233K • 💬 3 • ⏱️ 0:38 • 1d ago
-
----
-
-**[Essa máquina foi criada para DESTRUIR seu EGO! 😂 #curiosidades](https://www.youtube.com/watch?v=4jRif4FHK_8)**
-
-Imagine pagar para uma máquina julgar sua obra de arte e acabar sendo completamente humilhado por um robô! Essa ...
-
-📺 Xiulia
-
-👁️ 267K • 👍 4K • 💬 8 • ⏱️ 0:20 • 14h ago
+👁️ 771K • 👍 8K • 💬 344 • ⏱️ 1:00 • 4d ago
 
 ---
 
-**[This technology enables humanoid robots to sense every step.](https://www.youtube.com/watch?v=F0-Z7NZketc)**
+**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
 
-PaXini's PX-FOOTRIX is a multidimensional tactile foot sensor built for robots. It measures six-axis force and torque at the foot, ...
+America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
 
-📺 Kinetrion
+📺 Future Core
 
-👁️ 41K • 👍 234 • 💬 5 • ⏱️ 0:08 • 5d ago
-
----
-
-**[Could a Robot Survive One Healthcare Shift?](https://www.youtube.com/watch?v=YSoJyw0-sHE)**
-
-Turns out the job isn't as easy as it looks. Twelve hour shifts, no breaks, charting that never ends, and a call light that never stops.
-
-📺 David Abbasi, MD | Orthopedic Sports Surgeon
-
-👁️ 1.5M • 👍 42K • 💬 674 • ⏱️ 0:13 • 1d ago
+👁️ 8K • 👍 48 • 💬 4 • ⏱️ 10:07 • 5d ago
 
 ---
 
-**[Did this happen to you too?#vaccum #roombavsmatic #squarerobots #cleantok #roombafail](https://www.youtube.com/watch?v=ippXKNbo5ZY)**
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
 
-📺 Cleanwith__Marina
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
 
-👁️ 8.5M • 👍 176K • 💬 696 • ⏱️ 0:09 • 6d ago
+📺 Jot Tv Media 
 
----
-
-**[You Will NOT See This Coming - Robot Chicken Short Edit](https://www.youtube.com/watch?v=O0Ylk8ebnsQ)**
-
-📺 Alien Simulation
-
-👁️ 123K • 👍 7K • 💬 46 • ⏱️ 0:34 • 1d ago
+👁️ 91K • 👍 2K • 💬 17 • ⏱️ 1:04 • 4d ago
 
 ---
 
-**[Robots in 2026 vs 1939 🤖](https://www.youtube.com/watch?v=wLHeFME2TiQ)**
+**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
 
-Gaming PC benchmarks, RTX FPS tests and GPU comparisons for Fortnite, Valorant and PC builds in 2026. Testing RTX 5090 ...
+Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
 
-📺  S BENCH 
+📺 BBC News
 
-👁️ 312K • 👍 4K • 💬 25 • ⏱️ 0:08 • 2d ago
+👁️ 105K • 👍 607 • 💬 43 • ⏱️ 5:36 • 1d ago
 
 ---
 
-**[ADIK KAGET BANYAK ROBOT MUNCUL SAAT KIAMAT‼️🤯😱@factpanesar #remix #dubbing #trending](https://www.youtube.com/watch?v=2w6UdPMTqJ8)**
+**[UbiTech builds robots autonomously at a 10-minute production #Robotics #Automation #Manufacturing](https://www.youtube.com/watch?v=tcK3L08aSdM)**
 
-📺 Kaleb Andri
+UbiTech built a factory in China where robots assemble new humanoid robots every 10 minutes. This innovative production line ...
 
-👁️ 358K • 👍 2K • 💬 2 • ⏱️ 0:19 • 1d ago
+📺 Vitaly Korovitz
+
+👁️ 6K • 👍 138 • 💬 20 • ⏱️ 1:20 • 6d ago
+
+---
+
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+
+📺 MACHINEKIND
+
+👁️ 53K • 👍 858 • 💬 85 • ⏱️ 13:43 • 4d ago
+
+---
+
+**[Why Arnold Melt These Robots?! 😳](https://www.youtube.com/watch?v=e-inSXLLSHc)**
+
+Arnold Schwarzenegger told a robotics company to melt down its old humanoid robots and they actually did it! Figure AI sent its ...
+
+📺 Caramba
+
+👁️ 202 • 👍 5 • 💬 1 • ⏱️ 0:55 • 1h ago
+
+---
+
+**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
+
+Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
+
+📺 DEEP Robotics
+
+👁️ 14K • 👍 216 • 💬 28 • ⏱️ 1:12 • 6d ago
+
+---
+
+**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
+
+Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
+
+📺 Paigham-e-Deen 
+
+👁️ 58K • 👍 861 • 💬 1 • ⏱️ 0:11 • 20h ago
 
 ---
 

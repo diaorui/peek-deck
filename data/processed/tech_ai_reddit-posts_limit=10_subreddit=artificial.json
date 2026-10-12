@@ -13,26 +13,26 @@
       "description": null
     },
     {
-      "title": "The Internet is wild\ud83d\ude02\ud83d\ude02",
-      "author": "Sevives",
-      "url": "https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/",
-      "published": 1791721227.0,
-      "thumbnail": "https://preview.redd.it/ciij72r3ztuh1.jpeg?width=320&crop=smart&auto=webp&s=2b3059de2f87112cc270d21d0448761c1bc1589c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "title": "AI researchers are taking up smoking because they expect AI to cure cancer, says Palantir CTO",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x441lg/ai_researchers_are_taking_up_smoking_because_they/",
+      "published": 1791816971.0,
+      "thumbnail": "https://external-preview.redd.it/NigDZOpqgYlF-8X6py_unsMkG59zaouiuIBFX7DcW2M.jpeg?width=640&crop=smart&auto=webp&s=4ea695484caf4536f72ab2064de92cef21ef1e14",
+      "external_url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said."
     },
     {
-      "title": "A solo developer rebuilt Word, Excel and PowerPoint as free open-source apps using Claude \u2014 and says he's earning 4x more per employee than Google",
+      "title": "Scientists find a hidden cleanup system in the eye that no one knew existed",
       "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/",
-      "published": 1791752719.0,
-      "thumbnail": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885",
-      "external_url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1777961/apple-touch-icon.png",
-      "description": "It's a protest now."
+      "url": "https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/",
+      "published": 1791832371.0,
+      "thumbnail": "https://external-preview.redd.it/9AW1ttz_GuoIP2QmcXyiogsoLyIjZ9XADMkZfDMhrtI.jpeg?width=640&crop=smart&auto=webp&s=ba64f4ac31dfdf2e5d513f4ea1c6b239a53700bd",
+      "external_url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "site_name": "ScienceDaily",
+      "favicon": "https://www.sciencedaily.com/favicon.ico",
+      "description": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness."
     },
     {
       "title": "Ukraine has hit three Yandex data centres in a week \u2014 and Russia's AI giant says it can't predict when its chatbot and smart home services come back",
@@ -46,37 +46,26 @@
       "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
     },
     {
-      "title": "Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022",
+      "title": "A solo developer rebuilt Word, Excel and PowerPoint as free open-source apps using Claude \u2014 and says he's earning 4x more per employee than Google",
       "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/",
-      "published": 1791749111.0,
-      "thumbnail": "https://external-preview.redd.it/mZNPQPGh_zhRjG-ox0VqovVhd8ydf1PO9WIhrw9-liE.jpeg?width=640&crop=smart&auto=webp&s=42a19bcbad482ee8904f2d8d5448027f59068c7b",
-      "external_url": "https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "Anthropic\u2019s claim its AI agents discovered an unusual pattern in viral DNA similar to what\u2019s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here\u2019s what to know."
+      "url": "https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/",
+      "published": 1791752719.0,
+      "thumbnail": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885",
+      "external_url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1777961/apple-touch-icon.png",
+      "description": "It's a protest now."
     },
     {
-      "title": "There\u2019s a reason billionaires keep bending the knee to Trump. After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/",
-      "published": 1791744277.0,
-      "thumbnail": "https://external-preview.redd.it/pIsGxawGUfSdyPV63XdYxA-5G7InEYbSClMGwGY8nFA.jpeg?width=640&crop=smart&auto=webp&s=3934a02780bb7739ef2c9092f2a5e4fd704c02cf",
-      "external_url": "https://www.ms.now/opinion/billionaires-trump-economy",
-      "site_name": "MS NOW",
-      "favicon": "https://www.ms.now/wp-content/uploads/2025/10/cropped-msnow-logo-favicon.webp?w=180",
-      "description": "After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it."
-    },
-    {
-      "title": "Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/",
-      "published": 1791676663.0,
-      "thumbnail": "https://external-preview.redd.it/Zo61wPAl1KKKFHIlxpBG60tDzDzkYmkiVvU25T4K85M.jpeg?width=640&crop=smart&auto=webp&s=81ecd4c315c00d301b0115337dc29aab5943e797",
-      "external_url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-      "site_name": "Kotaku",
-      "favicon": "https://kotaku.com/apple-touch-icon.png",
-      "description": "Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight"
+      "title": "The Internet is wild\ud83d\ude02\ud83d\ude02",
+      "author": "Sevives",
+      "url": "https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/",
+      "published": 1791721227.0,
+      "thumbnail": "https://preview.redd.it/ciij72r3ztuh1.jpeg?width=320&crop=smart&auto=webp&s=2b3059de2f87112cc270d21d0448761c1bc1589c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "A quantum prediction from 1931 has finally come to life",
@@ -90,27 +79,38 @@
       "description": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as \u201cBethe strings\u201d in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were able to make groups of atoms bind together without ordinary chemical bonds. These strange clusters could contain six or more particles and even collide with one another without falling apart."
     },
     {
-      "title": "Jeff Bezos says AI will deliver a 3-day work week \u2014 while Amazon cuts 30,000 jobs",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/",
-      "published": 1791720172.0,
-      "thumbnail": "https://external-preview.redd.it/CIm3HBtC93LJIUbCnFn7xomYdV3A9PRALqSVk7h7JKs.jpeg?width=640&crop=smart&auto=webp&s=4a4a0dd8acb6e8d9fd11f2ab54a20597984fc430",
-      "external_url": "https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/apple-touch-icon.png",
-      "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage."
+      "title": "me: gonna make the scariest horror game ever also me: too scared to test my own game \ud83d\udc80",
+      "author": "fasildar55",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4cptr/me_gonna_make_the_scariest_horror_game_ever_also/",
+      "published": 1791836267.0,
+      "thumbnail": "https://external-preview.redd.it/bHJhd2liYTVoM3ZoMTSsWFPYpAb0au7Xra5kf1O8cucdWqHozzLon4GqfS7I.png?width=640&crop=smart&auto=webp&s=05c47ff2a2422baa2c6aef386c40464362ea6ae5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
-      "title": "Creators of an AI-generated sci-fi series said it took $38,000 in AI credits and 8 to 10 generations per shot",
+      "title": "AI models fail to help in mental health crises despite recognizing danger, study finds",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4c8xt/ai_models_fail_to_help_in_mental_health_crises/",
+      "published": 1791835193.0,
+      "thumbnail": "https://external-preview.redd.it/zwn6GNzqOFdnDpNYVudMUsVrOtaiIWmQOpPWsvH52XU.jpeg?width=640&crop=smart&auto=webp&s=471c8a05d3ae8e14f319f8e91826d612a93ca3ae",
+      "external_url": "https://www.linkedin.com/posts/francisdesouza_recognizing-a-mental-health-crisis-isnt-share-7514334685217579008-RR38/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "Recognizing a mental health crisis isn\u2019t the same as helping someone through it.\n\nNEWS: Today, Scale AI is introducing DistressBench, a clinician-authored benchmark that tests whether AI models provide the help called for when someone is facing a suicide or self-harm crisis.\n\nWe evaluated 25 frontier models using 718 clinician-written conversations, each with specific criteria for what a helpful response needs to include. The findings show a gap between recognizing danger and responding appropriately:\n\n\u2022 In more than a third of conversations where models recognized a crisis, they still failed to provide help or resources.\n\u2022 On average, models left out nearly 3 in 10 required response steps.\n\u2022 When shown their own failed response alongside a better one, most models identified the better response but still declined to provide it.\n\nThat last finding is especially striking. A model can recognize a more helpful answer and still fail to deliver it.\n\nOur hope is that benchmarks like this give researchers concrete evidence of where responses fall short and what needs to improve. People will increasingly turn to AI in their hardest moments - we need safety testing that keeps up with what people are asking of these systems.\u00a0\n\nhttps://lnkd.in/gSRNJFQ2 | 16 comments on LinkedIn"
+    },
+    {
+      "title": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
       "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_aigenerated_scifi_series_said_it/",
-      "published": 1791723784.0,
-      "thumbnail": "https://external-preview.redd.it/MTXwcetQww5GUV8HE_a9ncH6iufA-V_-Z3YCoQaBSvw.jpeg?width=640&crop=smart&auto=webp&s=32970abed03bc91211364b1e36fb8e62b78a4edc",
-      "external_url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "The filmmakers behind the AI-generated TV series called \"The Arc\" share what went into making it, including $38,000 in AI credits."
+      "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
+      "published": 1791839588.0,
+      "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
+      "external_url": "https://www.anthropic.com/research/self-replicating-ai",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
     }
   ],
-  "fetched_at": "2026-10-12T12:48:05.465322+00:00"
+  "fetched_at": "2026-10-12T21:35:04.758072+00:00"
 }
