@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-11T23:31:54.506076+00:00'
+updated: '2026-10-12T04:41:53.621843+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 11, 2026 at 23:31 UTC  
+**Last Updated:** October 12, 2026 at 04:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-3d ago
+4d ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-3d ago
+4d ago
 
 ---
 
@@ -106,7 +106,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-3d ago
+4d ago
 
 ---
 
@@ -130,11 +130,27 @@ Fortune • 2d ago
 
 ---
 
+**[Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win.](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-could-5-trillion-015000599.html)**
+
+Morgan Stanley is projecting a $5 trillion valuation for the humanoid robots industry. These stocks are poised to thrive because of it.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
 
 At a Van Ness arena, 200-pound robots wielded steel blades.
 
-The San Francisco Standard • 10h ago
+The San Francisco Standard • 15h ago
+
+---
+
+**[Amazon draws on fleet of 1 million robots to help machines learn and act in real world](https://interestingengineering.com/ai-robotics/amazon-physical-toolchain)**
+
+AWS launches open-source physical AI toolchain with cloud infrastructure and NVIDIA robotics tools for training, simulation, and deployment.
+
+Interesting Engineering • 14h ago
 
 ---
 
@@ -142,21 +158,21 @@ The San Francisco Standard • 10h ago
 
 If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber.
 
-New Atlas • 12h ago
-
----
-
-**[How AWS is helping companies build physical AI machines that think](https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines)**
-
-Amazon launched the Physical AI Toolchain on AWS, an open-source stack that helps manufacturers build machines that perceive, reason, and act in the real world.
-
-About Amazon • 3d ago
+New Atlas • 17h ago
 
 ---
 
 **[Inside the ‘robot gyms’ training machines for the real world](https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1)**
 
-Financial Times • 1d ago
+Financial Times • 2d ago
+
+---
+
+**[Girls take controls at Michigan robotics invitational in Woodhaven](https://www.clickondetroit.com/news/local/2026/10/11/girls-take-controls-at-michigan-robotics-invitational-in-woodhaven/)**
+
+Woodhaven’s Goonettes invitational gives young women a chance to compete
+
+ClickOnDetroit | WDIV Local 4 • 12h ago
 
 ---
 
@@ -168,25 +184,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Gecko Robotics partners with Anduril to aid submarine manufacturing](https://www.bizjournals.com/pittsburgh/news/2026/10/09/gecko-anduril-partnership.html)**
+**[GT Voice: China's rapid progress in robotics offers South Korea opportunities](https://www.globaltimes.cn/page/202610/1372010.shtml)**
 
-The Business Journals • 2d ago
+The economic potential of humanoid robots extends beyond the machines themselves. The Chosun Daily reported on Sunday, citing Counterpoint Research, that demand for DRAM chips used in the
 
----
-
-**[Amazon draws on fleet of 1 million robots to help machines learn and act in real world](https://interestingengineering.com/ai-robotics/amazon-physical-toolchain)**
-
-AWS launches open-source physical AI toolchain with cloud infrastructure and NVIDIA robotics tools for training, simulation, and deployment.
-
-Interesting Engineering • 9h ago
-
----
-
-**[Girls take controls at Michigan robotics invitational in Woodhaven](https://www.clickondetroit.com/news/local/2026/10/11/girls-take-controls-at-michigan-robotics-invitational-in-woodhaven/)**
-
-Woodhaven’s Goonettes invitational gives young women a chance to compete
-
-ClickOnDetroit | WDIV Local 4 • 7h ago
+Global Times • 15h ago
 
 ---
 
@@ -194,23 +196,13 @@ ClickOnDetroit | WDIV Local 4 • 7h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
 
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
 
-📺 MostAmazingTop10
+📺 Kalil 4.0
 
-👁️ 77K • 👍 625 • 💬 67 • ⏱️ 9:18 • 8h ago
-
----
-
-**[Elon Musk&#39;s 1 Billion Robot Prediction Suddenly Looks Different.](https://www.youtube.com/watch?v=BsDEKGw_VRY)**
-
-Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very different when you see how quickly the technology is ...
-
-📺 ejunky66
-
-👁️ 667K • 👍 7K • 💬 292 • ⏱️ 1:00 • 3d ago
+👁️ 1K • 👍 33 • 💬 4 • ⏱️ 1:03 • 7h ago
 
 ---
 
@@ -224,43 +216,13 @@ America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent yea
 
 ---
 
-**[UbiTech builds robots autonomously at a 10-minute production #Robotics #Automation #Manufacturing](https://www.youtube.com/watch?v=tcK3L08aSdM)**
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
 
-UbiTech built a factory in China where robots assemble new humanoid robots every 10 minutes. This innovative production line ...
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
 
-📺 Vitaly Korovitz
+📺 MACHINEKIND
 
-👁️ 6K • 👍 138 • 💬 20 • ⏱️ 1:20 • 5d ago
-
----
-
-**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
-
-This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
-
-📺 Kalil 4.0
-
-👁️ 364 • 👍 13 • 💬 1 • ⏱️ 1:03 • 2h ago
-
----
-
-**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
-
-At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
-
-📺 ejunky66
-
-👁️ 156K • 👍 2K • 💬 129 • ⏱️ 1:00 • 6d ago
-
----
-
-**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
-
-Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
-
-📺 DEEP Robotics
-
-👁️ 13K • 👍 206 • 💬 27 • ⏱️ 1:12 • 5d ago
+👁️ 52K • 👍 845 • 💬 83 • ⏱️ 13:43 • 4d ago
 
 ---
 
@@ -270,17 +232,47 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 📺 Jot Tv Media 
 
-👁️ 87K • 👍 2K • 💬 17 • ⏱️ 1:04 • 3d ago
+👁️ 88K • 👍 2K • 💬 17 • ⏱️ 1:04 • 3d ago
 
 ---
 
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
 
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
 
-📺 MACHINEKIND
+📺 DEEP Robotics
 
-👁️ 52K • 👍 837 • 💬 82 • ⏱️ 13:43 • 3d ago
+👁️ 13K • 👍 208 • 💬 27 • ⏱️ 1:12 • 5d ago
+
+---
+
+**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
+
+At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
+
+📺 ejunky66
+
+👁️ 158K • 👍 2K • 💬 138 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
+
+Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
+
+📺 Paigham-e-Deen 
+
+👁️ 5K • 👍 159 • 💬 1 • ⏱️ 0:11 • 3h ago
+
+---
+
+**[They Added ROBOTICS to Create Aeronautics](https://www.youtube.com/watch?v=ptjgdmxVz3E)**
+
+Thank you berrybyte for sponsoring the video! Check out berrybyte server hosting, use BIGJIM for $5 off or BIGJIM20 for 20% off ...
+
+📺 Big Jim
+
+👁️ 133K • 👍 3K • 💬 249 • ⏱️ 39:11 • 3d ago
 
 ---
 
@@ -291,6 +283,16 @@ Writer: Brett Stelmaszek Editor: Rikus Strauss Music by: @UFD-Music The amount o
 📺 UFD Tech
 
 👁️ 160K • 👍 7K • 💬 161 • ⏱️ 0:40 • 5d ago
+
+---
+
+**[Chinese humanoid robots DANCE inside South Korea’s parliament](https://www.youtube.com/watch?v=GnLL9Zezkcg)**
+
+Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China's rapid advances in ...
+
+📺 Fox News
+
+👁️ 55K • 👍 542 • 💬 162 • ⏱️ 0:18 • 2d ago
 
 ---
 
