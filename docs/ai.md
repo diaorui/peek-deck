@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-11T23:31:54.488290+00:00'
+updated: '2026-10-12T04:41:53.603560+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 11, 2026 at 23:31 UTC  
+**Last Updated:** October 12, 2026 at 04:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[The Internet is wild😂😂](https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/)**
-
-11h ago
-
----
-
 **[A solo developer rebuilt Word, Excel and PowerPoint as free open-source apps using Claude — and says he's earning 4x more per employee than Google](https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/)**
 
 It's a protest now.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next) • 2h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next) • 7h ago
 
 ---
 
-**[There’s a reason billionaires keep bending the knee to Trump. After the president changed the term to “super intelligence,” the richest Americans rushed to use it.](https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/)**
+**[The Internet is wild😂😂](https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/)**
 
-After the president changed the term to “super intelligence,” the richest Americans rushed to use it.
-
-🔗 [MS NOW](https://www.ms.now/opinion/billionaires-trump-economy) • 4h ago
+16h ago
 
 ---
 
@@ -63,7 +55,15 @@ After the president changed the term to “super intelligence,” the richest Am
 
 Anthropic’s claim its AI agents discovered an unusual pattern in viral DNA similar to what’s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here’s what to know.
 
-🔗 [CNN](https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery) • 3h ago
+🔗 [CNN](https://www.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery) • 8h ago
+
+---
+
+**[There’s a reason billionaires keep bending the knee to Trump. After the president changed the term to “super intelligence,” the richest Americans rushed to use it.](https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/)**
+
+After the president changed the term to “super intelligence,” the richest Americans rushed to use it.
+
+🔗 [MS NOW](https://www.ms.now/opinion/billionaires-trump-economy) • 9h ago
 
 ---
 
@@ -71,7 +71,7 @@ Anthropic’s claim its AI agents discovered an unusual pattern in viral DNA sim
 
 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight
 
-🔗 [Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) • 23h ago
+🔗 [Kotaku](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) • 1d ago
 
 ---
 
@@ -79,7 +79,7 @@ Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many
 
 Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage.
 
-🔗 [Fortune](https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/) • 11h ago
+🔗 [Fortune](https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/) • 16h ago
 
 ---
 
@@ -87,7 +87,7 @@ Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivit
 
 The filmmakers behind the AI-generated TV series called "The Arc" share what went into making it, including $38,000 in AI credits.
 
-🔗 [Business Insider](https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10) • 10h ago
+🔗 [Business Insider](https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10) • 15h ago
 
 ---
 
@@ -95,23 +95,23 @@ The filmmakers behind the AI-generated TV series called "The Arc" share what wen
 
 Nicolas Cage, who recently starred in "Spider-Noir," said he won't work with Amazon again after a disagreement over an AI waiver.
 
-🔗 [Los Angeles Times](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute) • 3h ago
+🔗 [Los Angeles Times](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute) • 8h ago
 
 ---
 
-**[Non-text AI model maker Jev valued at $7.5B just weeks after launch](https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/)**
+**[Man sentenced to prison after pocketing $8 million from AI songs streamed by bots](https://www.reddit.com/r/artificial/comments/1x3s3fd/man_sentenced_to_prison_after_pocketing_8_million/)**
 
-What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+A North Carolina man got 18 months in prison after bots streamed his AI songs billions of times for $8M in royalties.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) • 1d ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/man-sentenced-to-prison-after-pocketing-8-million-from-ai-songs-streamed-by-bots-3416335/) • 34m ago
 
 ---
 
-**[Is Reddit anti AI assisted writing?](https://www.reddit.com/r/artificial/comments/1x3m9w0/is_reddit_anti_ai_assisted_writing/)**
+**[I think we’re getting a little carried away when we say AI “knows” a company.](https://www.reddit.com/r/artificial/comments/1x3snwq/i_think_were_getting_a_little_carried_away_when/)**
 
-And what about folks who need the structure and support to express themselves in writing? Is maths done with a calculator in-authentic? How about digging a hole with a shovel rather than your bare hands?
+Give a model access to your documents, databases and internal systems and people quickly start saying it understands the business. I’m not sure that’s true. It has access to a lot of information. That’s different from understanding why that information matters, how different pieces of it connect, or what context is missing. I’ve seen this with enterprise data. You can give a system plenty of information and it can still get the wrong answer because it doesn’t have the context around that information. That difference is going to matter a lot more as we start asking AI to actually make decisions and take actions. Having access to the data is the easy part. Making sure the system actually understands what it’s looking at is much harder. At what point do you think AI actually moves from “having access to information” to understanding a business?
 
-22m ago
+2m ago
 
 ---
 
@@ -121,25 +121,21 @@ And what about folks who need the structure and support to express themselves in
 
 **[Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion](https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad)**
 
-WSJ • 3h ago
+WSJ • 8h ago
 
 ---
 
 **[Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports](https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/)**
 
-Reuters • 1h ago
+Reuters • 7h ago
 
 ---
 
-**[Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports](https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports)**
+**[Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports](https://finance.yahoo.com/technology/ai/articles/amazon-talks-buy-ai-startup-204652661.html)**
 
-Bloomberg.com • 2h ago
+Amazon.com Inc. is in negotiations to acquire Decart AI, an artificial intelligence startup, in a deal that could be valued at around $7 billion, the Wall Street Journal reported.
 
----
-
-**[Yet Another Literary Prizewinner Seems to Be AI](https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/)**
-
-The Atlantic • 9h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -147,15 +143,43 @@ The Atlantic • 9h ago
 
 Brad Smith calls for global rules on AI, and says the UK is in the "best position" to lead the charge.
 
-BBC • 24m ago
+BBC • 5h ago
 
 ---
 
-**[UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts](https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety)**
+**[Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control](https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html)**
 
-Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangers
+Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.
 
-The Guardian • 30m ago
+CNBC • 1d ago
+
+---
+
+**[Microsoft CEO Calls for Safeguards Against Rogue AI](https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-ceo-calls-for-safeguards-against-rogue-ai/)**
+
+Microsoft’s CEO says companies should assume powerful artificial intelligence models could be compromised and create an “emergency brake” to rein them in.
+
+PYMNTS.com • 4h ago
+
+---
+
+**[IMF says AI investment keeps global growth around 3%, with major Asia benefits](https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/)**
+
+Reuters • 51m ago
+
+---
+
+**[Reversal of AI capex could throw the U.S. economy into a recession: CIO](https://www.cnbc.com/video/2026/10/12/ai-capex-reversal-is-a-big-risk-that-can-cause-a-recession-in-the-us.html)**
+
+Jevons Global's Kingsley Jones warns that the shrinking of capex numbers is almost impossible to avoid but it won’t happen anytime soon. He also says that while we might see an erosion of margins, forward guidance on AI spend will be key in deciding whether the general economy will go into recession.
+
+CNBC • 34m ago
+
+---
+
+**[Using An AI Persona To Impersonate Your Therapist So You Can Get Inside Their Head](https://www.forbes.com/sites/lanceeliot/2026/10/12/using-an-ai-persona-to-impersonate-your-therapist-so-you-can-get-inside-their-head/)**
+
+Forbes • 36m ago
 
 ---
 
@@ -167,28 +191,6 @@ Fortune • 1d ago
 
 ---
 
-**[AI’s quiet safety gatekeepers are stepping into the spotlight](https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html)**
-
-The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.
-
-CNBC • 12h ago
-
----
-
-**[Using AI for just 10 minutes erodes your ability to persist at hard things](https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/)**
-
-A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education — and daily life.
-
-University of California, Berkeley • 2d ago
-
----
-
-**[Opinion | The Racist Tinge to These A.I. Literary Scandals](https://www.nytimes.com/2026/10/11/opinion/ai-books-fiction-black-writers-racism.html)**
-
-The New York Times • 12h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -197,7 +199,7 @@ The New York Times • 12h ago
 
 TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.
 
-⬆️ 442 • 💬 354 • 2d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
+⬆️ 443 • 💬 354 • 2d ago • [typesafe.ai](https://typesafe.ai/blog/series-ai)
 
 ---
 
@@ -205,7 +207,7 @@ TypeSafe AI is an AI lab building machine-native intelligence infrastructure for
 
 Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen
 
-⬆️ 414 • 💬 195 • 2d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+⬆️ 414 • 💬 196 • 2d ago • [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 
 ---
 
@@ -213,7 +215,7 @@ Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI,
 
 Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...
 
-⬆️ 321 • 💬 149 • 1d ago • [GitHub](https://github.com/rociiu/talorys)
+⬆️ 323 • 💬 150 • 1d ago • [GitHub](https://github.com/rociiu/talorys)
 
 ---
 
@@ -231,6 +233,15 @@ An investigation is underway after an AI model from the company Anthropic submit
 
 ---
 
+**[500B tokens later: Letting AI agents decompile a first-person shooter](https://news.ycombinator.com/item?id=50039092)**
+
+During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.
+The avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.
+
+⬆️ 186 • 💬 134 • 1d ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+
+---
+
 **[Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://news.ycombinator.com/item?id=50019056)**
 
 How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.
@@ -241,16 +252,7 @@ How I used AI to investigate millions of historical records and surfaced a forgo
 
 **[Nvidia in talks to acquire US 'open' model startup Reflection AI](https://news.ycombinator.com/item?id=50035886)**
 
-⬆️ 176 • 💬 112 • 1d ago • [ft.com](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
-
----
-
-**[500B tokens later: Letting AI agents decompile a first-person shooter](https://news.ycombinator.com/item?id=50039092)**
-
-During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.
-The avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.
-
-⬆️ 134 • 💬 101 • 21h ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+⬆️ 176 • 💬 114 • 1d ago • [ft.com](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
 ---
 
@@ -258,15 +260,15 @@ The avid reader of my blog might have noticed that I had previously written two 
 
 Early evidence from InnovationEval: No
 
-⬆️ 89 • 💬 93 • 2d ago • [Epoch AI](https://epoch.ai/publications/innovationeval)
+⬆️ 90 • 💬 94 • 2d ago • [Epoch AI](https://epoch.ai/publications/innovationeval)
 
 ---
 
-**[Nicolas Cage says he won't work with Amazon again over AI dispute](https://news.ycombinator.com/item?id=50041873)**
+**[Using AI for just 10 minutes erodes your ability to persist at hard things](https://news.ycombinator.com/item?id=50041765)**
 
-Nicolas Cage, who recently starred in "Spider-Noir," said he won't work with Amazon again after a disagreement over an AI waiver.
+A UC Berkeley researcher raises profound questions about how we interact with artificial intelligence in daily life.
 
-⬆️ 76 • 💬 24 • 12h ago • [Los Angeles Times](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)
+⬆️ 86 • 💬 93 • 17h ago • [vcresearch.berkeley.edu](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
 
 ---
 
@@ -274,13 +276,43 @@ Nicolas Cage, who recently starred in "Spider-Noir," said he won't work with Ama
 
 ## YouTube Videos: "ai"
 
-**[BREAKING NEWS: Microsoft Co-Founder Bill Gates Speaks With CNN About Future Of AI Technology](https://www.youtube.com/watch?v=dujCJ9bM2HM)**
+**[Bill Gates Responds To Sam Altman&#39;s Concerns About AI &#39;Doomerism&#39; And Overblown Fears Around Tech](https://www.youtube.com/watch?v=4xLscI8STcU)**
 
-Bill Gates, co-founder of Microsoft, spoke with CNN's Jake Tapper on Sunday about the future of AI technology. Stay Connected ...
+While speaking with CNN's Jake Tapper on Sunday, Microsoft co-founder Bill Gates responded to claims from OpenAI founder ...
 
 📺 Forbes Breaking News
 
-👁️ 26K • 👍 315 • 💬 110 • ⏱️ 10:09 • 8h ago
+👁️ 7K • 👍 24 • 💬 23 • ⏱️ 2:02 • 4h ago
+
+---
+
+**[These 2 AI Stocks Could Be the Next Big Winners](https://www.youtube.com/watch?v=eeS-b32fNk8)**
+
+Everyone is watching Nvidia (NVDA). But what if the next big AI stock winners aren't chipmakers at all? The AI boom is creating ...
+
+📺 Navellier Market Buzz
+
+👁️ 17K • 👍 712 • 💬 111 • ⏱️ 28:49 • 14h ago
+
+---
+
+**[AI Just Got a Lot Scarier](https://www.youtube.com/watch?v=BIbk3s8BlBM)**
+
+Subscribe to @kurzgesagt https://www.youtube.com/watch?v=ujkD4SxPKOI follow me on twitter: https://twitter.com/LudwigAhgren ...
+
+📺 Ludwin
+
+👁️ 143K • 👍 2K • 💬 205 • ⏱️ 32:50 • 5h ago
+
+---
+
+**[How to Make $3000/Month On Clipping Videos With AI (Full Workflow)](https://www.youtube.com/watch?v=rZvF_EWZoHw)**
+
+Learn how to make money clipping videos with AI. All Prompts and Assets: https://higgsfield.ai/s/katana-higgsfieldai-txbirb ...
+
+📺 Higgsfield AI
+
+👁️ 48K • 👍 975 • 💬 58 • ⏱️ 13:25 • 15h ago
 
 ---
 
@@ -290,27 +322,15 @@ Reacting to AI Videos of Me.. Watch Next https://youtu.be/7VVD8pI1ca4 https://yo
 
 📺 DJLovesTurbo
 
-👁️ 18K • 👍 1K • 💬 693 • ⏱️ 12:09 • 2h ago
+👁️ 53K • 👍 2K • 💬 1K • ⏱️ 12:09 • 7h ago
 
 ---
 
-**[Has AI Solved Reverse Engineering?](https://www.youtube.com/watch?v=wIe3eDfGKUo)**
+**[So we’re using AI in court now #ai  #arizona  #court](https://www.youtube.com/watch?v=NYuk_TZP8FA)**
 
-Find and fix bugs in your codebase with Sentry at https://go.lowlevel.tv/sentry26 (New users get $100 in Sentry credit!)
+📺 The Luncheon Lawyer
 
-📺 Low Level
-
-👁️ 769K • 👍 13K • 💬 1K • ⏱️ 13:35 • 2d ago
-
----
-
-**[China AI ACHIEVED RSI? GLM 5.5, NEW Fable 5.5 Checkpoint, Qwen4, Kimi K3.1, M3.1 Pro &amp; More! AI NEWS](https://www.youtube.com/watch?v=0EwN9bb157M)**
-
-Everything you're about to see, I benchmarked using the tool I made. If you want to run these tests yourself or test models on ...
-
-📺 WorldofAI
-
-👁️ 80K • 👍 1K • 💬 135 • ⏱️ 22:46 • 15h ago
+👁️ 4K • 👍 940 • 💬 35 • ⏱️ 2:14 • 4h ago
 
 ---
 
@@ -320,17 +340,17 @@ Zeta Global co-founders David A. Steinberg and John Sculley join 'The Claman Cou
 
 📺 Fox Business
 
-👁️ 35K • 👍 244 • 💬 122 • ⏱️ 8:13 • 2d ago
+👁️ 37K • 👍 250 • 💬 122 • ⏱️ 8:13 • 2d ago
 
 ---
 
-**[AI Just Crossed a Terrifying Line - Nuclear Engineer Reacts to Kurzgesagt](https://www.youtube.com/watch?v=8ExyIscsvAc)**
+**[Nicolas Cage Rejects The AI Slop](https://www.youtube.com/watch?v=HFbLcU-hlcA)**
 
-OpenAI's Incident Report: ...
+Nicolas Cage Rejects The AI Slop Clothing - https://theretroclassics.myshopify.com/ Those wanting to become a patron ...
 
-📺 T. Folse Nuclear
+📺 Mr H Reviews
 
-👁️ 324K • 👍 6K • 💬 1K • ⏱️ 43:25 • 1d ago
+👁️ 8K • 👍 251 • 💬 63 • ⏱️ 8:18 • 12h ago
 
 ---
 
@@ -340,27 +360,7 @@ OpenAI's Incident Report: ...
 
 📺 The PrimeTime
 
-👁️ 152K • 👍 2K • 💬 384 • ⏱️ 39:45 • 8h ago
-
----
-
-**[This AI Expert Just Told Me Something I Didn&#39;t Want to Hear](https://www.youtube.com/watch?v=Iuvm-HKIMg8)**
-
-Asking the AI doomsday questions to one of the worlds foremost AI critics/ experts. Check out Roman Yompolskiys Youtube ...
-
-📺 Canadian Prepper
-
-👁️ 12K • 👍 1K • 💬 381 • ⏱️ 1:03:41 • 2h ago
-
----
-
-**[Microsoft&#39;s MASSIVE AI Announcement Has Everyone Talking](https://www.youtube.com/watch?v=ApsNLVLRvu0)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 6K • 👍 193 • 💬 35 • ⏱️ 20:58 • 3h ago
+👁️ 189K • 👍 2K • 💬 424 • ⏱️ 39:45 • 13h ago
 
 ---
 
@@ -370,7 +370,7 @@ Many classic games like Halo, GTA5, Call of Duty, Diablo, Minecraft and more hav
 
 📺 Optimus
 
-👁️ 96K • 👍 2K • 💬 602 • ⏱️ 13:14 • 1d ago
+👁️ 101K • 👍 2K • 💬 615 • ⏱️ 13:14 • 1d ago
 
 ---
 
@@ -386,7 +386,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 98,829 • ❤️ 1,691 • 5d ago
+⬇️ 98,829 • ❤️ 1,744 • 5d ago
 
 ---
 
@@ -398,7 +398,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 37,647 • ❤️ 1,074 • 3d ago
+⬇️ 37,647 • ❤️ 1,134 • 3d ago
 
 ---
 
@@ -410,7 +410,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 14,351 • ❤️ 2,026 • 2d ago
+⬇️ 14,351 • ❤️ 2,031 • 2d ago
 
 ---
 
@@ -422,7 +422,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,188,658 • ❤️ 3,976 • 11h ago
+⬇️ 2,188,658 • ❤️ 4,001 • 16h ago
 
 ---
 
@@ -434,7 +434,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 4,702 • ❤️ 537 • 2d ago
+⬇️ 4,702 • ❤️ 551 • 2d ago
 
 ---
 
@@ -446,7 +446,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,726,683 • ❤️ 7,311 • 16h ago
+⬇️ 1,726,683 • ❤️ 7,334 • 21h ago
 
 ---
 
@@ -458,19 +458,7 @@ Kolibri is a 78B parameter Mixture-of-Experts (MoE) model optimized for German a
 
 `text-generation` `78.1B`
 
-⬇️ 12,550 • ❤️ 887 • 8d ago
-
----
-
-**[Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)**
-
-*Venastine Research*
-
-Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, featuring a 256K context window and agent-oriented capabilities for multi-step planning and tool calling. It excels in coding, reasoning, and domain-specific adaptations, supporting various inference frameworks.
-
-`text-generation` `31.2B`
-
-⬇️ 48,389 • ❤️ 689 • 9h ago
+⬇️ 12,550 • ❤️ 888 • 8d ago
 
 ---
 
@@ -482,7 +470,19 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,843,108 • ❤️ 17,504 • 1mo ago
+⬇️ 6,843,108 • ❤️ 17,517 • 1mo ago
+
+---
+
+**[Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)**
+
+*Venastine Research*
+
+Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, featuring a 256K context window and agent-oriented capabilities for multi-step planning and tool calling. It excels in coding, reasoning, and domain-specific adaptations, supporting various inference frameworks.
+
+`text-generation` `31.2B`
+
+⬇️ 48,389 • ❤️ 691 • 15h ago
 
 ---
 
@@ -494,7 +494,7 @@ EMA Lightning is a tiny, fast, and accurate Turkish text-to-speech model (8.6M p
 
 `text-to-speech`
 
-⬇️ 18,079 • ❤️ 356 • 5d ago
+⬇️ 18,079 • ❤️ 358 • 5d ago
 
 ---
 
@@ -517,20 +517,6 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 ---
 
-**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
-
-*Guangyi Liu, Yong Liu, Jiangning Zhang*
-
-🏢 Zhejiang University
-
-Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
-
-▲ 101 • 💬 2 • ⭐ 833 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
-
----
-
 **[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)**
 
 *Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)*
@@ -542,6 +528,20 @@ Symbolic models make melody, harmony, rhythm, and form explicit but typically st
 ▲ 233 • 💬 3 • ⭐ 11,603 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
+
+---
+
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
+
+🏢 Zhejiang University
+
+Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+
+▲ 101 • 💬 2 • ⭐ 867 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
 ---
 
@@ -629,7 +629,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 59 • 💬 4 • ⭐ 40,514 • 14mo ago
+▲ 59 • 💬 4 • ⭐ 40,560 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -645,7 +645,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 2.3k • 1d ago
+⭐ 7.7k • 🔱 2.4k • 1d ago
 
 ---
 
@@ -655,7 +655,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.2k • 🔱 1.7k • 5h ago
+⭐ 7.2k • 🔱 1.8k • 10h ago
 
 ---
 
@@ -665,7 +665,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.5k • 🔱 435 • 6d ago
+⭐ 6.5k • 🔱 436 • 6d ago
 
 ---
 
@@ -675,7 +675,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 698 • 8h ago
+⭐ 4.9k • 🔱 699 • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 4.8k • 🔱 808 • 19m ago
+⭐ 4.9k • 🔱 812 • 5h ago
 
 ---
 
@@ -695,7 +695,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.3k • 🔱 115 • 12h ago
+⭐ 4.3k • 🔱 115 • 17h ago
 
 ---
 
@@ -705,7 +705,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.4k • 🔱 139 • 2d ago
+⭐ 3.4k • 🔱 140 • 2d ago
 
 ---
 
@@ -715,7 +715,7 @@ AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
 `Go`
 
-⭐ 3.1k • 🔱 5.6k • 1d ago
+⭐ 3.3k • 🔱 5.7k • 1d ago
 
 ---
 
@@ -725,7 +725,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 560 • 24d ago
+⭐ 3.0k • 🔱 561 • 25d ago
 
 ---
 
@@ -735,7 +735,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 2.9k • 🔱 196 • 14h ago
+⭐ 2.9k • 🔱 197 • 1h ago
 
 ---
 
