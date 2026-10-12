@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-12T04:41:53.618517+00:00'
+updated: '2026-10-12T12:48:39.091031+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 12, 2026 at 04:41 UTC  
+**Last Updated:** October 12, 2026 at 12:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,519.59
+### $2,551.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** -5.1%  
-**30d:** +3.4%  
-**90d:** +33.4%  
-**1y:** -39.7%  
+**24h:** +1.4%  
+**7d:** -6.0%  
+**30d:** +2.4%  
+**90d:** +32.1%  
+**1y:** -40.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $312.21B
+**Market Cap:** $309.19B
 Rank #2
 
 **Circulating Supply:** 122,127,761 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.3%
+-48.8%
 
 **All-Time Low:** $0.43
-+590457.5%
++584676.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-9h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
-15h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-t
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-9h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Hey community, I'm wondering how someone can get offers to his ENS domains. I ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 3d ago
 
 ---
 
@@ -144,7 +144,7 @@ I've been looking into different ways people spend crypto, and a lot of the opti
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -156,21 +156,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 “Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
 
-Decrypt • 12h ago
+Decrypt • 20h ago
 
 ---
 
-**[4,393 ETH From Ethereum Foundation-Linked Wallets Hits Kraken: Dump or Routine Move?](https://finance.yahoo.com/markets/crypto/articles/4-393-eth-ethereum-foundation-020508311.html)**
+**[Bitcoin and ethereum prices today, Monday, October 12, 2026: How bond yields 'threaten' crypto prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-12-2026-how-bond-yields-threaten-crypto-prices-114018710.html)**
 
-Two Ethereum Foundation-linked wallets sent 4,393 ETH to Kraken, extending a decade-long run. Here is what we know.
+Bitcoin opened at $83,673.01 on Monday, October 12, 2026, up 0.9% from Sunday's opening price. As of 7:25 a.m. ET this morning, bitcoin dipped to $83,280.11. Ethereum opened at $2,534.30, up 1.2% from Sunday's opening price. The price of ethereum moved slightly higher this morning to $2,543.06 as of 7:25 a.m. ET.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Wall Street’s Blockchain Boom Could Leave Bitcoin and Ethereum Behind — Here Are 5 Cryptos to Watch](https://finance.yahoo.com/markets/crypto/articles/wall-street-blockchain-boom-could-113419872.html)**
+
+Citrini Research argues that Wall Street's blockchain expansion could create better investment opportunities than Bitcoin and Ethereum alone. CCN examines five cryptocurrencies that could benefit ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise as ‘Greed’ Persists: Analyst Says BTC Bulls Must Get ‘Moving’ From This Area](https://www.tradingview.com/news/benzinga:14cb665f0094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-greed-persists-analyst-says-btc-bulls-must-get-moving-from-this-area/)**
+
+Leading cryptocurrencies rose on Sunday as investors assessed the latest geopolitical developments in the Middle East and President Donald Trump’s potential intervention.The Sunday RallyBitcoin experienced a late-evening spike that nearly pushed it beyond $84,000, while Ethereum wobbled in a range…
+
+TradingView • 10h ago
 
 ---
 
 **[Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Surprise For Bitcoin, Ethereum And XRP](https://www.forbes.com/sites/digital-assets/2026/10/10/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
@@ -178,55 +194,39 @@ Forbes • 1d ago
 
 STRK jumps as Starknet explores quantum-resistant upgrades and a potential split from Ethereum to become a Layer-1.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 19h ago
 
 ---
 
-**[XRP Beats Bitcoin, Ethereum, Solana in ETF Flows: Can Price Follow?](https://www.benzinga.com/crypto/cryptocurrency/26/10/62275590/xrp-beats-bitcoin-ethereum-solana-in-etf-flows-can-price-follow)**
+**[New Crypto: Remittix Confirms November 24 RTX Launch as Ethereum Price Prediction Eyes $12,000 and Cardano’s Tokenized-Equity Push Revives the $1 ADA Dream](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-confirms-november-24-rtx-launch-as-ethereum-price-prediction-eyes-12-000-and-cardano-s-tokenized-equity-push-revives-the-1-ada-dream-1036614789)**
 
-XRP ETFs add $8.17 million as Bitcoin, Ethereum and Solana funds lose $320 million, extending XRP’s inflow streak.
+MAJURO, Marshall Islands, Oct.  11, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed November 24, 2026 as the scheduled market-launch date for RTX...
 
-Benzinga • 2d ago
-
----
-
-**[Tom Lee’s BitMine Owns 4.9% of All Ethereum. What Happens When It Hits 5%?](https://247wallst.com/investing/cryptocurrency/2026/10/08/tom-lees-bitmine-owns-4-9-of-all-ethereum-what-happens-when-it-hits-5/)**
-
-Tom Lee's BitMine controls around 6 million ETH, amounting to 4.9% of all Ethereum. Here's what reaching 5% means for holders.
-
-24/7 Wall St. • 3d ago
+markets.businessinsider.com • 14h ago
 
 ---
 
-**[Keep calm and enter 'bunker mode,' crypto bros say](https://www.businessinsider.com/bunker-mode-cryptography-wallet-warning-justin-drake-vitalik-buterin-2026-10)**
+**[U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead](https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead)**
 
-Crypto bros are warning that AI-accelerated math could compromise wallet security, a day after OpenAI said its models drove new results.
+Your look at what's coming in the week starting Oct. 12.
 
-Business Insider • 3d ago
-
----
-
-**[Starknet considers leaving Ethereum for a quantum-resistant Layer 1](https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/)**
-
-Starknet is considering an independent Layer 1 to pursue quantum resistance in 2027. Its roadmap separates its own cryptography from Ethereum dependencies.
-
-CryptoSlate • 5h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Ethereum Foundation: Wallets Deposit 4,393 ETH to Kraken](https://blockchain.news/flashnews/ethereum-foundation-wallets-deposit-4-393-eth-kraken)**
+**[Crypto Liquidations Explained: Why Ethereum Was Hit Harder Than Bitcoin in the $1.19B Flush](https://hackernoon.com/crypto-liquidations-explained-why-ethereum-was-hit-harder-than-bitcoin-in-the-$119b-flush)**
 
-Lookonchain reports two wallets tied to the Ethereum Foundation deposited 4,393 ETH valued at $11.13 million into Kraken five hours ago after receiving...
+Why did Ethereum suffer heavier liquidations than Bitcoin in the $1.19B crypto selloff? Explore leverage, liquidity and market risk.
 
-Blockchain News • 11h ago
+HackerNoon • 4h ago
 
 ---
 
-**[Ethereum Foundation-linked wallets send 4,393 ETH to Kraken](https://cryptobriefing.com/ethereum-foundation-wallets-send-eth-kraken/)**
+**[Tom Lee Predicts Ethereum Will Surpass $5,000 by the End of 2026](https://financefeeds.com/tom-lee-predicts-ethereum-will-surpass-5000-by-the-end-of-2026/)**
 
-Two Ethereum Foundation-linked wallets sent 4,393 ETH, worth about $11.13 million, to Kraken, extending a decade-long pattern of transfers.
+Tom Lee sees Ethereum above $5,000 by end-2026, a 95% climb from $2,560, and $7,500 if Bitcoin hits $100,000. BitMine holds 6.02M ETH worth $16.4B.
 
-Crypto Briefing • 3h ago
+FinanceFeeds • 2h ago
 
 ---
 
@@ -240,7 +240,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 158 • 👍 12 • 💬 1 • ⏱️ 20:19 • 26m ago
+👁️ 10K • 👍 203 • 💬 17 • ⏱️ 20:19 • 8h ago
+
+---
+
+**[Ethereum ETFs DUMPED $697M.. I&#39;m Still LONG!!](https://www.youtube.com/watch?v=uetiwc3Z5lM)**
+
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+
+📺 Marzell Crypto
+
+👁️ 64 • 👍 6 • 💬 40 • ⏱️ 2:57 • 2h ago
+
+---
+
+**[BITCOIN PRICE TARGETS REVEALED (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Xn979KYC8GY)**
+
+BITCOIN PRICE TARGETS REVEALED (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 317 • 💬 107 • ⏱️ 14:05 • 9h ago
 
 ---
 
@@ -250,7 +270,17 @@ This video is sponsored by FortisX. Learn more: https://fortisx.fi/x/danalovephd
 
 📺 Dana Love, PhD
 
-👁️ 38K • 👍 803 • 💬 97 • ⏱️ 21:49 • 2d ago
+👁️ 39K • 👍 813 • 💬 87 • ⏱️ 21:49 • 2d ago
+
+---
+
+**[My Ethereum Bull Run Target Is SHOCKING ( I Can’t Ignore This )](https://www.youtube.com/watch?v=6VIkjVvHR_Y)**
+
+telegram : https://t.me/tbvofficial x ( twitter ) : https://x.com/Laxmanfi instagram : https://www.instagram.com/laxmanfi/ FIU exchange ...
+
+📺 The block vlog
+
+👁️ 403 • 👍 86 • 💬 41 • ⏱️ 15:05 • 1h ago
 
 ---
 
@@ -260,25 +290,27 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 7K • 👍 112 • 💬 117 • ⏱️ 16:18 • 1d ago
+👁️ 8K • 👍 115 • 💬 117 • ⏱️ 16:18 • 1d ago
 
 ---
 
-**[XRP PRICE ACTION IN TROUBLE SHORT TERM?!  #xrp #crypto #xmr #solana #ethereum](https://www.youtube.com/watch?v=LtR1wsUWvHY)**
+**[Ethereum | Ethereum Prediction | Oct 11 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=rOIIP1__plA)**
 
-📺 CryptoWendyO
+MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 1 that become ...
 
-👁️ 3K • 👍 180 • 💬 11 • ⏱️ 1:00 • 8h ago
+📺 Forex Forecast | Elliott Wave Analysis ReadyForex
+
+👁️ 103 • ⏱️ 5:20 • 1d ago
 
 ---
 
-**[Smart Money Is Doing This In Crypto Right Now XRP,  Ethereum &amp; Bitcoin Holders Could Profit](https://www.youtube.com/watch?v=7D5etodHsEI)**
+**[Tom Lee: Ethereum to $50,000 This Bull Cycle (&quot;You&#39;re Going to See Some Monster Moves&quot;)](https://www.youtube.com/watch?v=BEyFTMOoLGw)**
 
-Its absolutely no secret that the richest people on the planet are accumulating as much cryptocurrency as they can right now.
+BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively undervalued" and "in this bull cycle, I think it ...
 
-📺 Money Rules - Investing Tips 
+📺 Higher Highs Crypto
 
-👁️ 27K • 👍 2K • 💬 258 • ⏱️ 18:16 • 2d ago
+👁️ 6K • 👍 27 • 💬 8 • ⏱️ 8:01 • 2d ago
 
 ---
 
@@ -292,43 +324,13 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCG9sT
 
 ---
 
-**[Tom Lee: Ethereum to $50,000 This Bull Cycle (&quot;You&#39;re Going to See Some Monster Moves&quot;)](https://www.youtube.com/watch?v=BEyFTMOoLGw)**
+**[No he estado tan Bullish con Ethereum desde 2020...](https://www.youtube.com/watch?v=VDVQ7zedCnM)**
 
-BitMine chairman and Fundstrat co-founder Tom Lee says Ethereum is "massively undervalued" and "in this bull cycle, I think it ...
+Durante los últimos años, Ethereum ha sido una de las mayores decepciones del mercado de las criptomonedas, y cada vez se ...
 
-📺 Higher Highs Crypto
+📺 Healthy Pockets
 
-👁️ 6K • 👍 26 • 💬 8 • ⏱️ 8:01 • 2d ago
-
----
-
-**[Ethereum | Ethereum Prediction | Oct 11 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=rOIIP1__plA)**
-
-MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 1 that become ...
-
-📺 Forex Forecast | Elliott Wave Analysis ReadyForex
-
-👁️ 94 • ⏱️ 5:20 • 1d ago
-
----
-
-**[XRP Ledger bug, Ledger thefts, ETH ETF outflows, Samsung Wallet USDC and Hyperliquid](https://www.youtube.com/watch?v=kC-F1MVJ9ZI)**
-
-XRP Ledger bug, Ledger thefts, ETH ETF outflows, Samsung Wallet USDC and Hyperliquid XRP Ledger patched a bug that could ...
-
-📺 The Coin Daily
-
-👁️ 10K • ⏱️ 7:20 • 1d ago
-
----
-
-**[Solana vs Ethereum vs Sui for the next bull run](https://www.youtube.com/watch?v=s7IcaWqCtjg)**
-
-10K Trades is one of the fastest ways to automate your crypto trading with AI - https://www.skool.com/10ktrades/about ...
-
-📺 Jake Gordon Crypto
-
-👁️ 5K • 👍 89 • 💬 19 • ⏱️ 17:52 • 17h ago
+👁️ 24K • 👍 864 • 💬 60 • ⏱️ 18:25 • 22h ago
 
 ---
 

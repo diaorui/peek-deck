@@ -47,11 +47,25 @@
       "site_name": "Discord"
     },
     {
+      "title": "Ask HN: What Happened in DNSSEC Yesterday?",
+      "url": "https://news.ycombinator.com/item?id=50055306",
+      "hn_url": "https://news.ycombinator.com/item?id=50055306",
+      "author": "usr1106",
+      "points": 1,
+      "num_comments": 1,
+      "created_at": "2026-10-12T12:16:55Z",
+      "object_id": "50055306",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "Timekeepers to vote on ditching the leap second",
       "url": "https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528",
       "hn_url": "https://news.ycombinator.com/item?id=50050603",
       "author": "Gaishan",
-      "points": 5,
+      "points": 11,
       "num_comments": 0,
       "created_at": "2026-10-12T02:29:12Z",
       "object_id": "50050603",
@@ -61,7 +75,7 @@
       "site_name": "abc.net.au"
     }
   ],
-  "total_hits": 4,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-12T04:41:31.390658+00:00"
+  "fetched_at": "2026-10-12T12:48:04.976796+00:00"
 }

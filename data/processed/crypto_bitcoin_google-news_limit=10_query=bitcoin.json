@@ -5,86 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin (BTC) and ether (ETH) liquidity rebounds a year after $19 billion crypto flash crash",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ1lJbTh2STZJbUhjZmFLU0ZFck9FRnU1Z1lyNmFETUN5SjBYSGxBSlpIZFVuX3NqeHN5czVBV2xaTzZYb1RzcmdHRkwwZ25zTXpYdTk3bDlza3ZTbDVqWldqTUNCM3NnUzZIQTVjOHN0ZDdOdnJsM1ZiT1ZyTE1ObTNmTEUzNzNMM1hSUVdwS0duWko4V29Wc0RodlVqbmx6VjJuUGRvemUxLWlzVnVfcTBoT1Q0VnU1NUtmLXlfWnJDYWZzM1lvYTZXSDk4Mm1XQVJXc1hnRWE?oc=5",
-      "pub_date": 1791634306.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/bd4136eea24ebe8a86327e7c5d5d312e7b538823-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak."
-    },
-    {
-      "headline": "Which Is More Likely: Bitcoin at $1 Million or XRP at $10?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclotS3MwVmJxV1NWSWszcm9YUnc1MVBBcHJQSjM2Z2xieTBsMjRGb2RONGtldlJCcUo1SzVtZXNXS2U3VmhkMGNtN21aR0NWZ0x0eDJqb1dDb19aT203a285RWNQTDg2U3k0NjVNbTZMZFp3LTRIOFVJQWVwRWgzTWhsTzdvU1Yxb3FRY0pEVTZDZTh4VTF6c1hZc3pfeE9zX2dWeXRKVDF0cVpPOXp0YWk0eDNrUQ?oc=5",
-      "pub_date": 1791722400.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/11/which-is-more-likely-bitcoin-at-1-million-or-xrp-at-10-2/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-2004204788-huge-licensed-scaled.jpg",
-      "description": "Bitcoin needs a 12.1 times rally to hit $1 million, while XRP needs 7.2 times to reach $10. Which target is more likely?"
-    },
-    {
-      "headline": "Exclusive | FTX\u2019s Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1Qwc3lWYVVjYm01ejc2WWNvczQyMHVHUXpTLTFxY1VaaWdkVEhxdDFMVVYtYURwTGZfQ3U5bktvX2h0WEpfNzM3T0Y4QmdQWkdwY0dBdVd0VTZUc01xeW9CUkZxX0dnZXUtdHFydkJ4N295bDdQT29yRnYtRXhMRVp4d0RWZUJldmcwTzRqUVVKTjFzSW9SS18zOWt1aUpDZ1p1RUhpSjZPUQ?oc=5",
-      "pub_date": 1791777660.0,
-      "article_url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin ETF Inflows Stall After $1.7 Billion Burst: Will Demand Return?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYmVPVEhXUzdOS0ZVNmpvcGZpdEpfb3dfWm1wVVU1S0p0aklGSjhxeHdMbjh6UG1leHFOMnJGam5Kc1g4R1dOSEVnWlhjRW5vVWppN2E4VU5CSElmcjFDWl9IVFpBdDNfN20zU2pHNkNCSWZGcU1wMVZsZVJFRFNDNGhaMUhiMzdGdXlGVThEODlqbXBUSVpj?oc=5",
-      "pub_date": 1791778140.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-inflows-stall-1-040936715.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/095b2743a588f13a42b0922ddb020c1b8aa01310b6aeab421153ada2a658f996/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F592a2f29ec2e74abfb039241be65a732.jpg",
-      "description": "Bitcoin ETF inflows have totaled just $232 million in 13 sessions since a $1.7 billion burst. Can buyers return?"
-    },
-    {
-      "headline": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR09LLUh4QWdlbWxmaUROTWNxMFlZZlhBWm5DMl96c1NXNWNCNHpCeXhBa1FfaGptenFNZ2dzTXc4aVYxZUNISjR2dFZQdC11bU5ka1J5cU5vUzJqM21ERVJ2MFREWGRwSndZbWVQcWVRWm9xejhXR2pIaXhCcnM4ZXdhekFhQy04SjZUYVRTcjRLanBxeWw4SHFLeWU5d0lBQVlseGV1U0IteDZKT2pMUDctSEFMTlU2aDJZZmVXZUZFcVpyeF9FbW9YcWxqc3czUHRhWjFheEQtRzQ?oc=5",
-      "pub_date": 1791738660.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:c7df8ae60094b:0-saylor-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Strategy chair Michael Saylor teased investors watching Sunday for a signal of the company\u2019s recent Bitcoin purchases with the message \u201cThere\u2019s always room for more orange,\u201d in a post on X.However, any official notification via a filing with the US Securities and Exchange Commission won\u2019t likely co\u2026"
-    },
-    {
-      "headline": "Here's the 1 Crypto I'd Buy If I Could Pick Only One",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjRIUzBCc05KbnNoS0prNTFsUVJVWExpOXFTODduelpPckhFdERhQXM5ZUpnMVBFXzZzOU9QbWlXSU9sMG52OTJzS25UcnNFUW0xUVZIWW9KZkQ0cWZDNjAtTHdqbGJPWm9NR054UDlUUk80dHVEa2Z6aGQ3WkpHZlVINFl0UzlRbS05YUJvemE3WWpUdWJ5Zg?oc=5",
-      "pub_date": 1791738180.0,
-      "article_url": "https://www.fool.com/investing/2026/10/11/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889137%2Fbitcoin-on-a-computer-chip.jpg&w=1200&op=resize",
-      "description": "Other cryptocurrencies may be performing better right now, but Bitcoin is still the best long-term investment."
-    },
-    {
-      "headline": "Bitcoin, XRP Get the Spotlight\u2014Could These 5 Altcoins Be Next?",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRk1ITkZDNlUwbzFMN3RmYk9BYjdiRDVhdjVibnBabzRidWFqazczWkhHRE9pMHg1cTB3LVdQWV84elpDTGpjSTduUFRMaUhNYlJaMHpmUzdBYXFvakFZeE16UzdFcjhOZk94SzhKV1RyYjEwdEVNWmExNFM5bXhDcWYzaVNnNUthYjliWGM0cUhZREplcFlycjZ4OUZRSGdielFodGRwM1ZjdTdLMHZKWjkzQkhQT290dVdIZ21Ybw?oc=5",
-      "pub_date": 1791727223.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62289424/bitcoin-xrp-get-the-spotlight-could-these-5-altcoins-be-next",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/11/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg",
-      "description": "Bitwise sees Bitcoin reaching $1.4 million if it follows gold\u2019s post-ETF rise, with five altcoins positioned to follow."
-    },
-    {
-      "headline": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JRjVERkRBdzhfUVF2ZHR2MjRqSkU1YXpvWDFmQVNBN3BISEZnTDdPbzlfWnRSa1pKU2lPZWNwZE5wSXlhVDlLLVl5T1pic2tOTTBSYU5SUFAxeG01aFp3Q3h0SGF6TXBRekNBeXpaYWJlbVZIcGk0?oc=5",
-      "pub_date": 1791593589.0,
-      "article_url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-7.jpg",
-      "description": "Bermuda-regulated startup Meanwhile, whose backers include Bain Capital Crypto and Sam Altman, has now raised a total of $180 million."
-    },
-    {
       "headline": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -95,16 +15,96 @@
       "description": "\u201cUptober\u201d isn\u2019t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far."
     },
     {
-      "headline": "Who Really Owns Bitcoin? Wall Street vs. Ordinary People",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85SVI5N3ctMkY2OWp0QjRfRE41M19wcWNkZ2RCMFJlWVlvbjg2b3R2ano3eXh4MEJKQTdwSm8wQndiNWlzUXFqbzlBbXRJcGZMVG9veWduWm1BdVRjN2dqSUxpaEJrLUZVNlIxTVdvbjZDTFEtR3c?oc=5",
-      "pub_date": 1791715680.0,
-      "article_url": "https://beincrypto.com/who-owns-bitcoin-institutions-treasury-cash/",
+      "headline": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkludDU4NDNnMEFYX2swejZ0VTNOb1RYXzBQOXlRYk9hbHFxRURpR0RLRzh4LUpMd3EyU1loLUxsT3Axa2tmWF9GMFZzVVFKU1cwc2R4dURYQzFvU0xsaEl2cWJCR0ZUb0xzUWZyRkYxbjJpS21OVnBMZWE5Y2RJMy1ZaGVZaGJtX0pCX3NUTHA0c1hCN3VR?oc=5",
+      "pub_date": 1791606540.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-trades-above-82-000-042957252.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com -- Bitcoin recovered on Saturday but remained on course for a weekly loss, as rising oil prices, higher U.S. Treasury yields and renewed cryptocurrency security concerns weighed on sentiment."
+    },
+    {
+      "headline": "Markets struggle for momentum as oil and bond yields rise",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0pvdkRITmdpdG5qTEhSbVBSc18wVDRmNUlPV29ZRTlQX0c0MDBfUXg3OERsLURoTE5vRTVkNEI1SW9UcTBNM1ljMXJNdzh5aHNRc3pSYUVTVUowZGt2clBZckk3N0tkMmlYOXdtNjFIcm1pbFpGaFVybGtiVTJDeC1XcGh5dENOcU83Y1VCS3ltZ0wyUnJJdWtwVUthNG84ZnlUM3prWXI1cU84?oc=5",
+      "pub_date": 1791807301.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ba4d66673c79623624c737b9613317271fc97dc-1202x748.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Monday, October 12, 2026: How bond yields 'threaten' crypto prices",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU204bEpJNExVY3o1R2ZyZmhJU1JQSERVRDl0cU04Ri1MTlU1UEtBQXl4SjNDRnlyOXlfckhLVDNtWG1BMGNWTE10SVZQNnlpV1pDN1NpbTRJMTVFV3BfV3d3TC1neXNWdnBjZTNZZ2I5bXBJRUtUdkVrMUlrbVEwb2JJMUlaa19IbHR0VzBybTNrUjRsSERpYmJQUWtkeFkwM29DNGhPMGY3X3lwX2dqVW5qWHU4aXgxWElqQjhDa1VQRFgxQURJMWFGUVA3cWh5QWE5SWRIVFVueE1BMVZUVm5CanFFSWdIMHRVVUVYdWtURWR2UHhISWtOaVJoVHla?oc=5",
+      "pub_date": 1791805218.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-12-2026-how-bond-yields-threaten-crypto-prices-114018710.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ce37edafc6b48f765180883ec4f3f14a7b26ecea461f7d99d2d4e6f4b599127/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_1_3688.jpg",
+      "description": "Bitcoin opened at $83,673.01 on Monday, October 12, 2026, up 0.9% from Sunday's opening price. As of 7:25 a.m. ET this morning, bitcoin dipped to $83,280.11. Ethereum opened at $2,534.30, up 1.2% from Sunday's opening price. The price of ethereum moved slightly higher this morning to $2,543.06 as of 7:25 a.m. ET."
+    },
+    {
+      "headline": "Wall Street\u2019s Blockchain Boom Could Leave Bitcoin and Ethereum Behind \u2014 Here Are 5 Cryptos to Watch",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdS1lbWRWV2s0c0Z1cFpYWDJRMXU5TGxlYjZfRzRaLVdHNmIxVDVvOG8yUUxtaTluejBRcE1taWltdzl4aVBkQ3cwRWx6OXg1U2xSQmpqYTk2RFNWMC1WWGhxck5ZX01zbXl3NkFFSFlSX2M1SEthQ1pjajRtWHZRZVU4ZEJKX3NuZGhGNUFVbDRLSjljdTNWcHhjazVMdkk?oc=5",
+      "pub_date": 1791804859.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-blockchain-boom-could-113419872.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1d0e7b72f6eced21601e3876c90c7cb07efaf45a968c6ac663c9ad0343318f54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F294694a63f0c89c43ebacd8e1ee45d44.png",
+      "description": "Citrini Research argues that Wall Street's blockchain expansion could create better investment opportunities than Bitcoin and Ethereum alone. CCN examines five cryptocurrencies that could benefit ..."
+    },
+    {
+      "headline": "Exclusive | FTX\u2019s Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1Qwc3lWYVVjYm01ejc2WWNvczQyMHVHUXpTLTFxY1VaaWdkVEhxdDFMVVYtYURwTGZfQ3U5bktvX2h0WEpfNzM3T0Y4QmdQWkdwY0dBdVd0VTZUc01xeW9CUkZxX0dnZXUtdHFydkJ4N295bDdQT29yRnYtRXhMRVp4d0RWZUJldmcwTzRqUVVKTjFzSW9SS18zOWt1aUpDZ1p1RUhpSjZPUQ?oc=5",
+      "pub_date": 1791796440.0,
+      "article_url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "One Year Since Crash, Most Leverage Leaves Bitcoin",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVGZ6XzV6NUpwVG53TERYdzl0Mko0eFc4RFI0Vy1iMUdFRDRUWERfMU14VkxFWHZGanhzZUdjZlhJMzVNR3ExTHhiZUZheXY3ci1yRGlEdmZaOXN2aXFOSnFGaWtyZWJfRkVyLU54ZXFoMHFKTEpzTDBlZ2JQYWtYN3ZKWV81YXBqNWxUWlAxU01DdFY2YWVCMllKb3NWdHVXeHNfY3dzRmFaZTNfSVdfdVVpYmRBa214bDVUUW03QVpWNFZmdkVvU1VRaFk2X3FOZ0hUdzIwbHllN1RSZE1rTnh2bnpFNjZMWnFyQTlR?oc=5",
+      "pub_date": 1791802380.0,
+      "article_url": "https://www.barrons.com/livecoverage/stock-market-news-today-101226/card/one-year-since-crash-most-leverage-leaves-bitcoin-AWXLCRuorwMwWeGeKn2W?siteid=yhoof2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "This Researcher Has a Warning About Bitcoin Security: It\u2019s Time to Plan for \u2018Bunker Mode\u2019",
+      "source": "Inc.com",
+      "source_url": "https://www.inc.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS3JiMDY5SEpQM0pQcC1aa1BXUkVGZW1kcHo1U0V6bWJqcjZSdlBSaC1YaVBJcEl2SUk0Nlo3STAzZVVXdVVPVU14bE1kcFVST3RqQmZsSFgya3VxeDFrMzQ5NmpRQVRjbzFVRWZPb1VhS3ZveURITUtJbEVURWtoOUtkb3BONGhkVVFDSEtfbHE0WG5KV1V2MGxMV2RDWlVtdmFTd0M3NGd1bGR6WGE1bkViLUI3VFNBSDNUNUlRQkZya3pZbGc?oc=5",
+      "pub_date": 1791799757.0,
+      "article_url": "https://www.inc.com/chris-morris/this-researcher-has-a-warning-about-bitcoin-security-its-time-to-plan-for-bunker-mode/91417591",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin And Crypto Just Quietly Hit A Massive Price \u2018Inflection Point\u2019\u2014But There\u2019s A Nasty Catch",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYzF6dlNhMDhuMzhaZ2FlZUxIY2FSNUNBTmtkRVVRTjZfX3VnMkQwWHVUZkpnSFNxbHRYVnl6MVhMUVpUNW9mNzkwazRRNE5vTHVQQ3V3ZUNQVGVqdnJJS2RKZlA2RHhTLXhpUXJUODZtRFBHNWljTXdwWU9QVWhmVU5LQUJNZ2dvTEgxX1kyU1VjZG5YUXVBUzZkWUcta19NWHZpTWxORWFza3ZOWjk1Zllzb0dLRUZYbUtnSGtiTTd6MFFqRnNwcVdDN3BtNzc3Z09uWmxINDAxTzRGYnI5MmlHeUptTGdpclY2R1BQZGlCSWVDdTFkRnZKSXVGQQ?oc=5",
+      "pub_date": 1791801476.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Here's the 1 Crypto I'd Buy If I Could Pick Only One",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjRIUzBCc05KbnNoS0prNTFsUVJVWExpOXFTODduelpPckhFdERhQXM5ZUpnMVBFXzZzOU9QbWlXSU9sMG52OTJzS25UcnNFUW0xUVZIWW9KZkQ0cWZDNjAtTHdqbGJPWm9NR054UDlUUk80dHVEa2Z6aGQ3WkpHZlVINFl0UzlRbS05YUJvemE3WWpUdWJ5Zg?oc=5",
+      "pub_date": 1791738180.0,
+      "article_url": "https://www.fool.com/investing/2026/10/11/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889137%2Fbitcoin-on-a-computer-chip.jpg&w=1200&op=resize",
+      "description": "Other cryptocurrencies may be performing better right now, but Bitcoin is still the best long-term investment."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-12T04:41:48.338598+00:00"
+  "fetched_at": "2026-10-12T12:48:34.906976+00:00"
 }
