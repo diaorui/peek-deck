@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-12T04:41:53.621843+00:00'
+updated: '2026-10-12T12:48:39.093229+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 12, 2026 at 04:41 UTC  
+**Last Updated:** October 12, 2026 at 12:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) desi
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-4d ago
+5d ago
 
 ---
 
@@ -118,23 +118,23 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
 
-Futurism • 1d ago
+Futurism • 2d ago
 
 ---
 
-**[Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence](https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/)**
+**[A humanoid robot for developers and schools is among four launches planned for Oct. 14.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html)**
 
-The raise consisted of a Series A seed round led by Framework Ventures plus an earlier seed round.
+YT Jia's weekly investor report has been rescheduled for Oct. 14; the full launch video will be available online Oct. 15 at 5 p.m. PDT.
 
-Fortune • 2d ago
+Stock Titan • 12h ago
 
 ---
 
-**[Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win.](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-could-5-trillion-015000599.html)**
+**[Will ‘boring’ robots win in the real world? Why robotic form should follow workflow](https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/)**
 
-Morgan Stanley is projecting a $5 trillion valuation for the humanoid robots industry. These stocks are poised to thrive because of it.
+If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.
 
-Yahoo Finance • 2h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -142,15 +142,31 @@ Yahoo Finance • 2h ago
 
 At a Van Ness arena, 200-pound robots wielded steel blades.
 
-The San Francisco Standard • 15h ago
+The San Francisco Standard • 23h ago
 
 ---
 
-**[Amazon draws on fleet of 1 million robots to help machines learn and act in real world](https://interestingengineering.com/ai-robotics/amazon-physical-toolchain)**
+**[Inside Amazon’s robotic arms race and what it means for the future of human work](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
 
-AWS launches open-source physical AI toolchain with cloud infrastructure and NVIDIA robotics tools for training, simulation, and deployment.
+The second-largest corporate employer has bet big on robot workers to scale.
 
-Interesting Engineering • 14h ago
+Ars Technica • 5m ago
+
+---
+
+**[Chinese Robots Could Decide the AI Race](https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race)**
+
+Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.
+
+Foreign Affairs • 4h ago
+
+---
+
+**[Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations](https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations)**
+
+As I’m writing this I’m able to stare out into my driveway at my trusty Honda Odyssey. Most of the public’s association with Honda is through their “mobility” products - i.e. their cars. But the company has an impressive track record of other technical achievements, not the least of which has been in robotics. Now, it’s teaming up with space infrastructure firm Redwire to develop an automated laboratory support system for use on future commercial space stations.
+
+Universe Today • 1d ago
 
 ---
 
@@ -158,7 +174,7 @@ Interesting Engineering • 14h ago
 
 If you've already designed a soft-bodied robot, it kind of defeats the purpose if you just go and stick a rigid motor inside of it. That's why Swiss scientists have created a motor that takes the form of a thin, flexible fiber.
 
-New Atlas • 17h ago
+New Atlas • 1d ago
 
 ---
 
@@ -172,23 +188,7 @@ Financial Times • 2d ago
 
 Woodhaven’s Goonettes invitational gives young women a chance to compete
 
-ClickOnDetroit | WDIV Local 4 • 12h ago
-
----
-
-**[Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)**
-
-For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
-
-TechCrunch • 2d ago
-
----
-
-**[GT Voice: China's rapid progress in robotics offers South Korea opportunities](https://www.globaltimes.cn/page/202610/1372010.shtml)**
-
-The economic potential of humanoid robots extends beyond the machines themselves. The Chosun Daily reported on Sunday, citing Counterpoint Research, that demand for DRAM chips used in the
-
-Global Times • 15h ago
+ClickOnDetroit | WDIV Local 4 • 20h ago
 
 ---
 
@@ -196,103 +196,97 @@ Global Times • 15h ago
 
 ## YouTube Videos: "robotics"
 
-**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
+**[ARPO THE ROBOT SEASON 2 FULL EPISODES COMPILATION 🤖 | 90 MINS |  ARPO: The Robot | Funny Cartoons](https://www.youtube.com/watch?v=_7bDtOwz2os)**
 
-This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
+Join ARPO and watch all of ARPO: The Robot season 2 full episodes featuring mischeif, adventure and unforgettable moments!
 
-📺 Kalil 4.0
+📺 ARPO: The Robot
 
-👁️ 1K • 👍 33 • 💬 4 • ⏱️ 1:03 • 7h ago
-
----
-
-**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
-
-America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
-
-📺 Future Core
-
-👁️ 8K • 👍 48 • 💬 4 • ⏱️ 10:07 • 4d ago
+👁️ 8K • 👍 18 • ⏱️ 1:25:56 • 22h ago
 
 ---
 
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+**[AI Medical Robot Assisting Pilgrims at Hajj](https://www.youtube.com/watch?v=drkJArkh5us)**
 
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+Witness the future of pilgrimage care as an advanced medical robot provides critical assistance to a fatigued traveler during Hajj.
 
-📺 MACHINEKIND
+📺 Morsalin Vlogs
 
-👁️ 52K • 👍 845 • 💬 83 • ⏱️ 13:43 • 4d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 88K • 👍 2K • 💬 17 • ⏱️ 1:04 • 3d ago
+👁️ 38K • 👍 667 • ⏱️ 0:11 • 4d ago
 
 ---
 
-**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
+**[🤖 This Goalkeeper Robot Is Almost IMPOSSIBLE to Beat! 😱⚽](https://www.youtube.com/watch?v=T2lLXcTeT3o)**
 
-Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
+This Goalkeeper Robot Is Almost IMPOSSIBLE to Beat! ⚽ Description: This goalkeeper robot reacts in just 0.3 seconds!
 
-📺 DEEP Robotics
+📺 THE INAAAMUL
 
-👁️ 13K • 👍 208 • 💬 27 • ⏱️ 1:12 • 5d ago
-
----
-
-**[This Robot Looks WAY Too Human 🤖😳 Elon Musk Predicts in 10 Years Humanoids Live with us!](https://www.youtube.com/watch?v=4ya38XAZaus)**
-
-At first glance, you might swear this is a real person. But it's a humanoid robot — and the technology behind machines like this ...
-
-📺 ejunky66
-
-👁️ 158K • 👍 2K • 💬 138 • ⏱️ 1:00 • 6d ago
+👁️ 233K • 💬 3 • ⏱️ 0:38 • 1d ago
 
 ---
 
-**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
+**[Essa máquina foi criada para DESTRUIR seu EGO! 😂 #curiosidades](https://www.youtube.com/watch?v=4jRif4FHK_8)**
 
-Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
+Imagine pagar para uma máquina julgar sua obra de arte e acabar sendo completamente humilhado por um robô! Essa ...
 
-📺 Paigham-e-Deen 
+📺 Xiulia
 
-👁️ 5K • 👍 159 • 💬 1 • ⏱️ 0:11 • 3h ago
-
----
-
-**[They Added ROBOTICS to Create Aeronautics](https://www.youtube.com/watch?v=ptjgdmxVz3E)**
-
-Thank you berrybyte for sponsoring the video! Check out berrybyte server hosting, use BIGJIM for $5 off or BIGJIM20 for 20% off ...
-
-📺 Big Jim
-
-👁️ 133K • 👍 3K • 💬 249 • ⏱️ 39:11 • 3d ago
+👁️ 267K • 👍 4K • 💬 8 • ⏱️ 0:20 • 14h ago
 
 ---
 
-**[Lava Burning A Humanoid Robot](https://www.youtube.com/watch?v=yAsR2Xr1rz0)**
+**[This technology enables humanoid robots to sense every step.](https://www.youtube.com/watch?v=F0-Z7NZketc)**
 
-Writer: Brett Stelmaszek Editor: Rikus Strauss Music by: @UFD-Music The amount of joy this is giving people shows you just how ...
+PaXini's PX-FOOTRIX is a multidimensional tactile foot sensor built for robots. It measures six-axis force and torque at the foot, ...
 
-📺 UFD Tech
+📺 Kinetrion
 
-👁️ 160K • 👍 7K • 💬 161 • ⏱️ 0:40 • 5d ago
+👁️ 41K • 👍 234 • 💬 5 • ⏱️ 0:08 • 5d ago
 
 ---
 
-**[Chinese humanoid robots DANCE inside South Korea’s parliament](https://www.youtube.com/watch?v=GnLL9Zezkcg)**
+**[Could a Robot Survive One Healthcare Shift?](https://www.youtube.com/watch?v=YSoJyw0-sHE)**
 
-Chinese-made humanoid robots dance before South Korean lawmakers as a legislator highlights China's rapid advances in ...
+Turns out the job isn't as easy as it looks. Twelve hour shifts, no breaks, charting that never ends, and a call light that never stops.
 
-📺 Fox News
+📺 David Abbasi, MD | Orthopedic Sports Surgeon
 
-👁️ 55K • 👍 542 • 💬 162 • ⏱️ 0:18 • 2d ago
+👁️ 1.5M • 👍 42K • 💬 674 • ⏱️ 0:13 • 1d ago
+
+---
+
+**[Did this happen to you too?#vaccum #roombavsmatic #squarerobots #cleantok #roombafail](https://www.youtube.com/watch?v=ippXKNbo5ZY)**
+
+📺 Cleanwith__Marina
+
+👁️ 8.5M • 👍 176K • 💬 696 • ⏱️ 0:09 • 6d ago
+
+---
+
+**[You Will NOT See This Coming - Robot Chicken Short Edit](https://www.youtube.com/watch?v=O0Ylk8ebnsQ)**
+
+📺 Alien Simulation
+
+👁️ 123K • 👍 7K • 💬 46 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[Robots in 2026 vs 1939 🤖](https://www.youtube.com/watch?v=wLHeFME2TiQ)**
+
+Gaming PC benchmarks, RTX FPS tests and GPU comparisons for Fortnite, Valorant and PC builds in 2026. Testing RTX 5090 ...
+
+📺  S BENCH 
+
+👁️ 312K • 👍 4K • 💬 25 • ⏱️ 0:08 • 2d ago
+
+---
+
+**[ADIK KAGET BANYAK ROBOT MUNCUL SAAT KIAMAT‼️🤯😱@factpanesar #remix #dubbing #trending](https://www.youtube.com/watch?v=2w6UdPMTqJ8)**
+
+📺 Kaleb Andri
+
+👁️ 358K • 👍 2K • 💬 2 • ⏱️ 0:19 • 1d ago
 
 ---
 

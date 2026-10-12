@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "A solo developer rebuilt Word, Excel and PowerPoint as free open-source apps using Claude \u2014 and says he's earning 4x more per employee than Google",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/",
-      "published": 1791752719.0,
-      "thumbnail": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885",
-      "external_url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1777961/apple-touch-icon.png",
-      "description": "It's a protest now."
+      "title": "R.I.P.",
+      "author": "Sevives",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3w15b/rip/",
+      "published": 1791792203.0,
+      "thumbnail": "https://preview.redd.it/ag2vwwg5uzuh1.jpeg?width=640&crop=smart&auto=webp&s=53f0a6a6856e80e80799e52ef3d9643e9ceffa87",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "The Internet is wild\ud83d\ude02\ud83d\ude02",
@@ -22,6 +22,28 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "A solo developer rebuilt Word, Excel and PowerPoint as free open-source apps using Claude \u2014 and says he's earning 4x more per employee than Google",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/",
+      "published": 1791752719.0,
+      "thumbnail": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885",
+      "external_url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1777961/apple-touch-icon.png",
+      "description": "It's a protest now."
+    },
+    {
+      "title": "Ukraine has hit three Yandex data centres in a week \u2014 and Russia's AI giant says it can't predict when its chatbot and smart home services come back",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3t62v/ukraine_has_hit_three_yandex_data_centres_in_a/",
+      "published": 1791781673.0,
+      "thumbnail": "https://external-preview.redd.it/RPmibdw-XjWJ3cCteRUVAwGmoqKfK_RAa62j1zJ_CiU.jpeg?width=640&crop=smart&auto=webp&s=755c363d6714b3c9f137b14b18a9202f74893a0c",
+      "external_url": "https://www.bbc.com/news/articles/cw0k0g57mk3zo",
+      "site_name": "bbc.com",
+      "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20261005-153342-40cbc1e8b4-web-3.23.0-2/apple-touch-icon.png",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
     },
     {
       "title": "Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022",
@@ -57,6 +79,17 @@
       "description": "Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight"
     },
     {
+      "title": "A quantum prediction from 1931 has finally come to life",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3z1ho/a_quantum_prediction_from_1931_has_finally_come/",
+      "published": 1791803416.0,
+      "thumbnail": "https://external-preview.redd.it/xxcvULR4bJ7zJK_mRk1e2VW1GU7zE_24yeLWu5kHKcM.jpeg?width=640&crop=smart&auto=webp&s=d7161425da99b80b79cc850cc318c4f394a6a4df",
+      "external_url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
+      "site_name": "ScienceDaily",
+      "favicon": "https://www.sciencedaily.com/favicon.ico",
+      "description": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as \u201cBethe strings\u201d in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were able to make groups of atoms bind together without ordinary chemical bonds. These strange clusters could contain six or more particles and even collide with one another without falling apart."
+    },
+    {
       "title": "Jeff Bezos says AI will deliver a 3-day work week \u2014 while Amazon cuts 30,000 jobs",
       "author": "lulzxdxdxd",
       "url": "https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/",
@@ -77,40 +110,7 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "The filmmakers behind the AI-generated TV series called \"The Arc\" share what went into making it, including $38,000 in AI credits."
-    },
-    {
-      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3i1g8/nicolas_cage_says_he_wont_work_with_amazon_again/",
-      "published": 1791749115.0,
-      "thumbnail": "https://external-preview.redd.it/aXsT-rVgYJc0BTia9-nbjukTFWboYJB-zxgydn4V7bM.jpeg?width=640&crop=smart&auto=webp&s=dc00902ca1581922119413d990034394298a3a3b",
-      "external_url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-      "site_name": "Los Angeles Times",
-      "favicon": "https://www.latimes.com/apple-touch-icon.png",
-      "description": "Nicolas Cage, who recently starred in \"Spider-Noir,\" said he won't work with Amazon again after a disagreement over an AI waiver."
-    },
-    {
-      "title": "Man sentenced to prison after pocketing $8 million from AI songs streamed by bots",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3s3fd/man_sentenced_to_prison_after_pocketing_8_million/",
-      "published": 1791778049.0,
-      "thumbnail": "https://external-preview.redd.it/wOLEEln_ObFJldUpZxV_rJwK_VLcGFmzvvjXNkNvA_k.jpeg?width=640&crop=smart&auto=webp&s=ee58fe5e86f7f1aa2e146084bdbc9dd9444620ca",
-      "external_url": "https://www.dexerto.com/entertainment/man-sentenced-to-prison-after-pocketing-8-million-from-ai-songs-streamed-by-bots-3416335/",
-      "site_name": "Dexerto",
-      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
-      "description": "A North Carolina man got 18 months in prison after bots streamed his AI songs billions of times for $8M in royalties."
-    },
-    {
-      "title": "I think we\u2019re getting a little carried away when we say AI \u201cknows\u201d a company.",
-      "author": "Rajxai",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3snwq/i_think_were_getting_a_little_carried_away_when/",
-      "published": 1791779972.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Give a model access to your documents, databases and internal systems and people quickly start saying it understands the business. I\u2019m not sure that\u2019s true. It has access to a lot of information. That\u2019s different from understanding why that information matters, how different pieces of it connect, or what context is missing. I\u2019ve seen this with enterprise data. You can give a system plenty of information and it can still get the wrong answer because it doesn\u2019t have the context around that information. That difference is going to matter a lot more as we start asking AI to actually make decisions and take actions. Having access to the data is the easy part. Making sure the system actually understands what it\u2019s looking at is much harder. At what point do you think AI actually moves from \u201chaving access to information\u201d to understanding a business?"
     }
   ],
-  "fetched_at": "2026-10-12T04:41:28.403392+00:00"
+  "fetched_at": "2026-10-12T12:48:05.465322+00:00"
 }
