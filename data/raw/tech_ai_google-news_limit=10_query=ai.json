@@ -25,47 +25,17 @@
       "description": null
     },
     {
-      "headline": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWZCX0FlSVYtU2cxRXlMZWVpeUd1dlNTUlEydjNMN3FxVWRjMlkwX3h1Q1RNQ0d2cU00S241UkZrcW1jODNIOFI0dDJCa210MzhGR0M0dHNtbHNhQU5qNDVvOTBNX0twdm1LSnZ3M3k2ZGNucHdKTGphLWxxRzVKcjNYMW9DNjhyVUNMVXp3R09GQ19tQnc?oc=5",
-      "pub_date": 1791751612.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/amazon-talks-buy-ai-startup-204652661.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d39ff33cb0e7beef5de5ae1bd81b780d9cc17c672b9ddf97fe098acf1d79022d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F3fff379ccf555d11100b228e5fa72314.jpg",
-      "description": "Amazon.com Inc. is in negotiations to acquire Decart AI, an artificial intelligence startup, in a deal that could be valued at around $7 billion, the Wall Street Journal reported."
+      "headline": "Nvidia in talks to acquire or invest further in Reflection AI",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pUDJkYVZtbzB2czB3X3pzVnlxVUJESThMY2JmTDBMYm4tQTN2WTZJTHNqZ0FUVlZLTVJIRFFhSDRuWUdBaTFYaGZ6Qkdib3RyUlBNTmZzX1VWUmo2VjdoR1NjcEhyaXJrQ1o4aWFJM2xuYktLM1JxMDAybw?oc=5",
+      "pub_date": 1791804127.0,
+      "article_url": "https://qz.com/nvidia-reflection-ai-acquisition-investment-talks-101226",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2260170952-300x200.jpg",
+      "description": "The discussions are at an early stage and could result in an acqui-hire, additional chips, or an increased equity stake"
     },
     {
-      "headline": "AI is less regulated than milk, says Microsoft president",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWblVtb0hnbURUVU1uMXNTMmFyUmxwUGNETm1ZUmpGRVJmcVdUVVlzT2N4LUFzbVRkLVVtR1VvWURJc3NYRkhoY0Q4UDRGTm9sZWxhUVJvMThuWTQ?oc=5",
-      "pub_date": 1791760055.0,
-      "article_url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc1a/live/a75b5120-c40b-11f1-9a39-31b474234113.jpg",
-      "description": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge."
-    },
-    {
-      "headline": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
-      "pub_date": 1791665968.0,
-      "article_url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
-      "description": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development."
-    },
-    {
-      "headline": "Microsoft CEO Calls for Safeguards Against Rogue AI",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMi10T21ZQ3BGZ3VZckpLRnYxWDVLbFJldFBnOWd1RTA5UEVFN2ZCOWFjZjRZdUpOTGU1eWFBSE5TUk00Q3BjMFdLRVZkaExndTVNVDR6emhnWTkwTGpQbWRRTVplMlh0cVZ5ZWRpUjRHQ1o5bmN1dXAtMmFXalc4ajZGU0lXSTlKVlNtR0ctR0tsUzBnUlRpejFReHpRRFJfdk9wOGl1SDlBSHZQN1E?oc=5",
-      "pub_date": 1791762403.0,
-      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-ceo-calls-for-safeguards-against-rogue-ai/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Microsoft-AI-Nadella-3.jpg",
-      "description": "Microsoft\u2019s CEO says companies should assume powerful artificial intelligence models could be compromised and create an \u201cemergency brake\u201d to rein them in."
-    },
-    {
-      "headline": "IMF says AI investment keeps global growth around 3%, with major Asia benefits",
+      "headline": "IMF says AI investment keeps global growth around 3% but brings massive disruption",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXItVGZaTjNISE9iMlVzZzhlV2ZmYzFDR29feFhfWFRhRzJFdWlwYXk5QkZpUHQ3WVhLZEZId2xobTNmc1E2Y25FN2c1TTg1eldiR3RLR003ajh2RUpSN1RxYXVzYjJ4TW5ZMW1ZcVljRndfSUpoNVVlLUE3eWc1MkhqUUtGQTdYdC1zVUxIbnNJWVJYb2ZIcVN1S3QzWWhQUmdsQ3VFVG9xSEs4NDVvOTZ5dHJRZUNNaUtsazVSMThYQQ?oc=5",
@@ -75,36 +45,66 @@
       "description": null
     },
     {
-      "headline": "Reversal of AI capex could throw the U.S. economy into a recession: CIO",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjF6bGlhdXNvRDg5cE9iWmlOeTdwUDYzZDNPTzNEaFVGbU04RFczVlRJa2JxOXpaT2tNY29yTWtaMElYekVGS3JZQUo2ZkoxamE5MzBnZXZDX2JjV1NkTnVpcDhnT1hTbzNiUmsxblQ0TG4tVnRVZ2tvVHIyZllEZGo5WC1CWU80SVFLTHNmSXNOZV9aRVBndW1Ic0NVVUFfTHh2Mzd5MTE3Z1RTN1Q0SQ?oc=5",
-      "pub_date": 1791778027.0,
-      "article_url": "https://www.cnbc.com/video/2026/10/12/ai-capex-reversal-is-a-big-risk-that-can-cause-a-recession-in-the-us.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108396143-17917715571791771555-48943370424-1080pnbcnews.jpg?v=1791771556&w=1920&h=1080",
-      "description": "Jevons Global's Kingsley Jones warns that the shrinking of capex numbers is almost impossible to avoid but it won\u2019t happen anytime soon. He also says that while we might see an erosion of margins, forward guidance on AI spend will be key in deciding whether the general economy will go into recession."
-    },
-    {
-      "headline": "Using An AI Persona To Impersonate Your Therapist So You Can Get Inside Their Head",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk4xR1EzU1FNT1QzYlZZREpXMDdUWURldGplTFVDa2xzT3pXQWFiQmZFdW9WYzU1aWJEMHpGZmMwNzlDYXVGbWl3SkhCenRxYnkxYmQ1VkItN3J3WUpCRkdDMHI3MDdneHZoNXFqT0dDTmJkVGdacjFKakVNVGx5WjVMUkdrNTlXSExHcDlEQ3FYZ0V3Vk5WYkFGSnZudzBLd0tGT3EyQmczYUJ4dC1jelNmQ1pra1BheDA5U2RDcXNabFduZ3ZXOU5vQTVndFU?oc=5",
-      "pub_date": 1791777944.0,
-      "article_url": "https://www.forbes.com/sites/lanceeliot/2026/10/12/using-an-ai-persona-to-impersonate-your-therapist-so-you-can-get-inside-their-head/",
+      "headline": "Productivity gains from AI could help offset Asia's ageing population problem, IMF says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVU5qaE01dGdTdm8yQi1OWnlCcWJZMGZsekFCYW85NXpQNFBaczdLRm5idXdpMUdiSkFzZGZ0RGo4SGU5dFFjbEZhekstOFgtMGszd3ZZSFpyQmpWT0pJVEQtcU9FWU10TU9pTjRhU0o4aHFRWmhwVmhkWUR0WFJhbUJmY3dPbnlYT3ZWMjdabnd2Z1gzSnF1QVVYbWZnLTg4dGlicld6NENPNzlhZng2QVFFQTVGZlZ6VW51SGpyNGRqRGd1Z0N5TGZVR3N5ZTUy?oc=5",
+      "pub_date": 1791800302.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/productivity-gains-ai-could-help-offset-asias-ageing-population-problem-imf-says-2026-10-12/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2FLMnBuSUgtYWRsR2lzR2xZY1pyTVFLcHhsZjkzeU40WDA0LTlnZl8tZ0FsQjlhQWkydjEtRU9IeG5OLWE3SGx0aWh0bjNuVnZ5Z2hzeDY1U3cxX1JocngzNGZVUmJpY1d3d2s3NlZVNEYyVkt6bTdZdXItbmtxN013SnNpSWRDV0ZoUmxuYWxWRGFnX2h4MmRmZTBuZmFaVHBWcFJjVFBObE95SkxEQUkwTE1vM25BU3BQMERIa00zSzJSMXlTTzNnaTZPelUtVXROTW9GRHNhMnhTdVZla1VlZw?oc=5",
-      "pub_date": 1791638460.0,
-      "article_url": "https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256666912-Karp.png?resize=1200,600",
-      "description": "Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027."
+      "headline": "IMF says AI boom helps global economy but warns of job disruption",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tMG4xQWlQSkt0aldoc1VGeXVUeFR0amNxVENOczE4NFFWdEdWUzBrNGxWVHJ5ZXRyd05HV0xXaGx0bV9jSE9OMjdyYmVhV21oQUpWZHVacDNwYTRISUhDMXZNdTNKQUtVZ3R5dFY3ZnFBM2N4UFN3b2VfMA?oc=5",
+      "pub_date": 1791808498.0,
+      "article_url": "https://www.yahoo.com/news/videos/imf-says-ai-boom-helps-123458585.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fd16c839205ec87bb2cfd071ee4410823d9280e5ed19533c1d9d81dd0fe9760c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2Fc394fa02-9a80-4adb-94ce-65590d2d3133%2Fmain%2F1280x720%2F32s522ms%2Fmatch%2Fimage.jpg",
+      "description": "STORY: :: IMF chief says the AI boom boosts global growth but brings major jobs disruption\n:: October 12, 2026 / Bangkok, Thailand\n:: Kristalina Georgieva / Managing Director, IMF\n\u201cIt is a slow-movin..."
+    },
+    {
+      "headline": "An AI pivot will drive Salesforce shares higher, says Bank of America",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFJsdjBDV3NFcVAzbGRqckxTZC1WZ2VYeDV3N2JqWnhra1oyY0MwY1dyS3lGUENzV1UtYk9oNFJhZWJSYkxpdjlJMDZ1U0hnOHdiMmI5eGZuQW5kUlcxWG0xMDV3Tmk2T1Q5QmloT0dGdHdvdTFnNHhqYmpWMEFhMnRVeGthbnZQZlg2d3FWTmRSdlNCbE8tRFRTSENpZ0hKVUdMcjU3eUc?oc=5",
+      "pub_date": 1791808112.0,
+      "article_url": "https://www.cnbc.com/2026/10/12/salesforce-to-punch-into-the-green-on-ai-pivot-bank-of-america-says-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363225-1789496255111-gettyimages-2294935633-DREAMFORCE_2026.jpeg?v=1789496417&w=1920&h=1080",
+      "description": "The bank double upgraded the stock to buy from underperform."
+    },
+    {
+      "headline": "Super Micro contractor pleads guilty in $2.5B AI server smuggling case",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTRLZFJhaUh6NGFhdFVBekhsZjVoTW15NDREWFYyZ1RXTTJhRnBycUFqejdmODNHOFNkcUtfY3ptN3hRSTZiS1RSaEthTkQzekV6WGJtWXk3OC10MENsWXNRdUJ0MTI3eENHNVI1clJfM1BGS3RrOVZRaUJfT2hvcFl1OC1xZUU?oc=5",
+      "pub_date": 1791809146.0,
+      "article_url": "https://qz.com/super-micro-contractor-guilty-plea-nvidia-ai-servers-china-101226",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/f6f29781e234d78711619eb279fd890e.jpg",
+      "description": "Ting-Wei Sun faces sentencing in September 2027 after pleading guilty to four counts, including conspiracy to violate U.S. export controls"
+    },
+    {
+      "headline": "Clark: How AI is transforming fleet management",
+      "source": "FleetOwner",
+      "source_url": "https://www.fleetowner.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcTI3d201MzlNTUVUMml1eFhaRk1HN0JyYWN0VVN6TVNEbUNkUjdSejZ4Yk8xV1Z4NUVsVmRXV25VX1VzVVFkTDZfUGxwUTZUQzRrMFdUdmU4b1ZqSDdfallSLV9vRzJMTGx5ZUtEZWZveUVIck51T0stLTBUQzRkcF9JTS1RVlljWWJyWE9Oc0ZtYnM4UjEzaWRUWE04bGpQVGlYZFhwLXprb29Nb3JSYzd0c2RubnVOMkhwcDFpZENlQ2FMejZjcTdmUFFRQUNOVjhDbzgxOEY5NVU2VGFN?oc=5",
+      "pub_date": 1791808840.0,
+      "article_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55410685/how-ai-is-helping-fleets-shift-from-data-tracking-to-predictive-fleet-management",
+      "image": "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2026/10/6ac7ec72e9cb2b9bdae975cf-dreamstime_l_302591507.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "description": "Fleet managers can use AI to turn vehicle, maintenance, and utilization data into insights that support faster, more informed decisions."
+    },
+    {
+      "headline": "What a Year of Free Money Meant: Softer Diapers, Clean Laundry, a Visit to Six Flags",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3l1SGRCY3FkaUNyS0dpWHNkTEQwaHpMQ0pNRTNNRDEzN1p6X1l1YmU0WTZVelV1Y01BdjJFRXdTeU1XVF9abFhDVGlyYS1xa1RjaFVWQ2VEaW9NV2dDRTVJb1Njbzl6T0JYUFd0bTcyMUlOOVhMZURicnAtWWpIS3ZqMEllRVo2ZDJxaG9DU3hRQQ?oc=5",
+      "pub_date": 1791795617.0,
+      "article_url": "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-12T04:41:51.990380+00:00"
+  "fetched_at": "2026-10-12T12:48:31.874833+00:00"
 }

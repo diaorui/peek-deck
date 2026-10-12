@@ -12,11 +12,30 @@
       "hf_url": "https://huggingface.co/papers/2609.18063",
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 26,
+      "upvotes": 27,
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 4392,
+      "github_stars": 4486,
+      "project_page": null
+    },
+    {
+      "id": "2006.15704",
+      "title": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training",
+      "authors": "Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "This paper presents the design, implementation, and evaluation of the PyTorch\ndistributed data parallel module. PyTorch is a widely-adopted scientific\ncomputing package used in deep learning research and applications. Recent\nadvances in deep learning argue for the value of large datasets and large\nmodels, which necessitates the ability to scale out model training to more\ncomputational resources. Data parallelism has emerged as a popular solution for\ndistributed training thanks to its straightforward principle and broad\napplicability. In general, the technique of distributed data parallelism\nreplicates the model on every computational resource to generate gradients\nindependently and then communicates those gradients at each iteration to keep\nmodel replicas consistent. Despite the conceptual simplicity of the technique,\nthe subtle dependencies between computation and communication make it\nnon-trivial to optimize the distributed training efficiency. As of v1.5,\nPyTorch natively provides several techniques to accelerate distributed data\nparallel, including bucketing gradients, overlapping computation with\ncommunication, and skipping gradient synchronization. Evaluations show that,\nwhen configured appropriately, the PyTorch distributed data parallel module\nattains near-linear scalability using 256 GPUs.",
+      "ai_summary": "The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.",
+      "hf_url": "https://huggingface.co/papers/2006.15704",
+      "arxiv_url": "https://arxiv.org/abs/2006.15704",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2006.15704.png",
+      "upvotes": 13,
+      "num_comments": 0,
+      "published_at": "2020-06-28T16:39:45.000Z",
+      "github_repo": "https://github.com/pytorch/pytorch",
+      "github_stars": 104698,
       "project_page": null
     },
     {
@@ -35,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 11603,
+      "github_stars": 11724,
       "project_page": "https://map-yue2.github.io/"
     },
     {
@@ -50,31 +69,12 @@
       "hf_url": "https://huggingface.co/papers/2610.08699",
       "arxiv_url": "https://arxiv.org/abs/2610.08699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 101,
+      "upvotes": 107,
       "num_comments": 2,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 867,
+      "github_stars": 939,
       "project_page": "https://nanomuse.cn/"
-    },
-    {
-      "id": "2006.15704",
-      "title": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training",
-      "authors": "Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "This paper presents the design, implementation, and evaluation of the PyTorch\ndistributed data parallel module. PyTorch is a widely-adopted scientific\ncomputing package used in deep learning research and applications. Recent\nadvances in deep learning argue for the value of large datasets and large\nmodels, which necessitates the ability to scale out model training to more\ncomputational resources. Data parallelism has emerged as a popular solution for\ndistributed training thanks to its straightforward principle and broad\napplicability. In general, the technique of distributed data parallelism\nreplicates the model on every computational resource to generate gradients\nindependently and then communicates those gradients at each iteration to keep\nmodel replicas consistent. Despite the conceptual simplicity of the technique,\nthe subtle dependencies between computation and communication make it\nnon-trivial to optimize the distributed training efficiency. As of v1.5,\nPyTorch natively provides several techniques to accelerate distributed data\nparallel, including bucketing gradients, overlapping computation with\ncommunication, and skipping gradient synchronization. Evaluations show that,\nwhen configured appropriately, the PyTorch distributed data parallel module\nattains near-linear scalability using 256 GPUs.",
-      "ai_summary": "The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.",
-      "hf_url": "https://huggingface.co/papers/2006.15704",
-      "arxiv_url": "https://arxiv.org/abs/2006.15704",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2006.15704.png",
-      "upvotes": 13,
-      "num_comments": 0,
-      "published_at": "2020-06-28T16:39:45.000Z",
-      "github_repo": "https://github.com/pytorch/pytorch",
-      "github_stars": 104444,
-      "project_page": null
     },
     {
       "id": "1910.03771",
@@ -92,7 +92,7 @@
       "num_comments": 7,
       "published_at": "2019-10-08T23:23:22.000Z",
       "github_repo": "https://github.com/huggingface/transformers",
-      "github_stars": 167516,
+      "github_stars": 167538,
       "project_page": "https://huggingface.co"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 110619,
+      "github_stars": 110701,
       "project_page": null
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 3,
       "published_at": "2026-04-14T20:00:00.000Z",
       "github_repo": "https://github.com/robbyant/lingbot-map",
-      "github_stars": 17990,
+      "github_stars": 18015,
       "project_page": "https://technology.robbyant.com/lingbot-map"
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 90605,
+      "github_stars": 90679,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-12T04:41:39.261315+00:00"
+  "fetched_at": "2026-10-12T12:48:14.611172+00:00"
 }
