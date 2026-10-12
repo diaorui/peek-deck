@@ -19,30 +19,20 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
-      "pub_date": 1791755174.0,
+      "pub_date": 1791753360.0,
       "article_url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
       "image": null,
       "description": null
     },
     {
       "headline": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWZCX0FlSVYtU2cxRXlMZWVpeUd1dlNTUlEydjNMN3FxVWRjMlkwX3h1Q1RNQ0d2cU00S241UkZrcW1jODNIOFI0dDJCa210MzhGR0M0dHNtbHNhQU5qNDVvOTBNX0twdm1LSnZ3M3k2ZGNucHdKTGphLWxxRzVKcjNYMW9DNjhyVUNMVXp3R09GQ19tQnc?oc=5",
       "pub_date": 1791751612.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Yet Another Literary Prizewinner Seems to Be AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnJmZGd0THZWR29CaTNYQUIySFRqel90MGRqdEJCUkdycnMzRXFLX25CdFZTYU5CakpRV19wYTVvYS1LQ1VQR2VDX3UzUEFudTE5am1oUE4yUkRrR0JZMy1pa1dOcE5Pd2tVcFhkemhzY1BVSXktUWcyM0ZQNUtpaFBWa3U5NTNGOTBMNG1vTXZkZTVlQnF5RQ?oc=5",
-      "pub_date": 1791727200.0,
-      "article_url": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/",
-      "image": null,
-      "description": null
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/amazon-talks-buy-ai-startup-204652661.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d39ff33cb0e7beef5de5ae1bd81b780d9cc17c672b9ddf97fe098acf1d79022d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F3fff379ccf555d11100b228e5fa72314.jpg",
+      "description": "Amazon.com Inc. is in negotiations to acquire Decart AI, an artificial intelligence startup, in a deal that could be valued at around $7 billion, the Wall Street Journal reported."
     },
     {
       "headline": "AI is less regulated than milk, says Microsoft president",
@@ -55,14 +45,54 @@
       "description": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge."
     },
     {
-      "headline": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFpoZ1QxOWVmSkdqblhxbndMUjAyZUtFbWpIcHFnU0Q0SHNJMms1UkVLOVhmUHVDUXpIQmhmSVpoRWE5TTNHRFFXNkNSbmVhTXpFaEk3ZkU2TTk3VWt1Wk1xZE9iVkZiT0JzNDlkRXlUZEI0U0I5ZXl3aUpJWDBXN1RmaUcwYTJiZ2hNb3U0bFBoaHhvR2Z4eTI5LWNYYTRTYXJPQU56QQ?oc=5",
-      "pub_date": 1791759660.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
-      "image": "https://i.guim.co.uk/img/media/9f8f14e2a01ec8c9a4d21b8b65ed45042405e31d/820_0_5862_4690/master/5862.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bb7e9764b304a7bfe1777acfe980fe9",
-      "description": "Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangers"
+      "headline": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
+      "pub_date": 1791665968.0,
+      "article_url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
+      "description": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development."
+    },
+    {
+      "headline": "Microsoft CEO Calls for Safeguards Against Rogue AI",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMi10T21ZQ3BGZ3VZckpLRnYxWDVLbFJldFBnOWd1RTA5UEVFN2ZCOWFjZjRZdUpOTGU1eWFBSE5TUk00Q3BjMFdLRVZkaExndTVNVDR6emhnWTkwTGpQbWRRTVplMlh0cVZ5ZWRpUjRHQ1o5bmN1dXAtMmFXalc4ajZGU0lXSTlKVlNtR0ctR0tsUzBnUlRpejFReHpRRFJfdk9wOGl1SDlBSHZQN1E?oc=5",
+      "pub_date": 1791762403.0,
+      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-ceo-calls-for-safeguards-against-rogue-ai/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Microsoft-AI-Nadella-3.jpg",
+      "description": "Microsoft\u2019s CEO says companies should assume powerful artificial intelligence models could be compromised and create an \u201cemergency brake\u201d to rein them in."
+    },
+    {
+      "headline": "IMF says AI investment keeps global growth around 3%, with major Asia benefits",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXItVGZaTjNISE9iMlVzZzhlV2ZmYzFDR29feFhfWFRhRzJFdWlwYXk5QkZpUHQ3WVhLZEZId2xobTNmc1E2Y25FN2c1TTg1eldiR3RLR003ajh2RUpSN1RxYXVzYjJ4TW5ZMW1ZcVljRndfSUpoNVVlLUE3eWc1MkhqUUtGQTdYdC1zVUxIbnNJWVJYb2ZIcVN1S3QzWWhQUmdsQ3VFVG9xSEs4NDVvOTZ5dHJRZUNNaUtsazVSMThYQQ?oc=5",
+      "pub_date": 1791777000.0,
+      "article_url": "https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Reversal of AI capex could throw the U.S. economy into a recession: CIO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjF6bGlhdXNvRDg5cE9iWmlOeTdwUDYzZDNPTzNEaFVGbU04RFczVlRJa2JxOXpaT2tNY29yTWtaMElYekVGS3JZQUo2ZkoxamE5MzBnZXZDX2JjV1NkTnVpcDhnT1hTbzNiUmsxblQ0TG4tVnRVZ2tvVHIyZllEZGo5WC1CWU80SVFLTHNmSXNOZV9aRVBndW1Ic0NVVUFfTHh2Mzd5MTE3Z1RTN1Q0SQ?oc=5",
+      "pub_date": 1791778027.0,
+      "article_url": "https://www.cnbc.com/video/2026/10/12/ai-capex-reversal-is-a-big-risk-that-can-cause-a-recession-in-the-us.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108396143-17917715571791771555-48943370424-1080pnbcnews.jpg?v=1791771556&w=1920&h=1080",
+      "description": "Jevons Global's Kingsley Jones warns that the shrinking of capex numbers is almost impossible to avoid but it won\u2019t happen anytime soon. He also says that while we might see an erosion of margins, forward guidance on AI spend will be key in deciding whether the general economy will go into recession."
+    },
+    {
+      "headline": "Using An AI Persona To Impersonate Your Therapist So You Can Get Inside Their Head",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk4xR1EzU1FNT1QzYlZZREpXMDdUWURldGplTFVDa2xzT3pXQWFiQmZFdW9WYzU1aWJEMHpGZmMwNzlDYXVGbWl3SkhCenRxYnkxYmQ1VkItN3J3WUpCRkdDMHI3MDdneHZoNXFqT0dDTmJkVGdacjFKakVNVGx5WjVMUkdrNTlXSExHcDlEQ3FYZ0V3Vk5WYkFGSnZudzBLd0tGT3EyQmczYUJ4dC1jelNmQ1pra1BheDA5U2RDcXNabFduZ3ZXOU5vQTVndFU?oc=5",
+      "pub_date": 1791777944.0,
+      "article_url": "https://www.forbes.com/sites/lanceeliot/2026/10/12/using-an-ai-persona-to-impersonate-your-therapist-so-you-can-get-inside-their-head/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era",
@@ -73,38 +103,8 @@
       "article_url": "https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256666912-Karp.png?resize=1200,600",
       "description": "Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027."
-    },
-    {
-      "headline": "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkNDdnRWWFBiR3hyNnh2OTBuRV95allJVUM5SktPQTVpZEI3R19oa2d1NmRiVkxtcFpxdGtxX3NQNzF5Tm1fTk91N3BnbUpYaDRqOWQzcGFFMlU4UElwZkcxWUtodmFKeHRWaFRRZUNQWW1BdHZIUUNPOFkyaktpMUZKRFlaRktYSm5DSmExaHR0TE42V2RJNmVDY1Bjd9IBowFBVV95cUxPdVUyM0VuR2k4VE83c2dCVDlHM0h3ZUNvaUpEQjN5ZUJoZE5aVWJMNHlHNnc5WVZaaXhVV2g3dHROMU56Qm1rNEIta0lHVUpQTnViODBwUDlqZVVZTWdQeVd0UzNRU1dJQ1hSUGx5dzhhRW5uamowc2t2M1BVQ2dOU01nb3E0QkRTajRzbHdRUU5kVS10bHJrVURaOHBnZ0otaUxF?oc=5",
-      "pub_date": 1791716401.0,
-      "article_url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369821-1790713166683-gettyimages-2297246422-AFP_C9Q98QH.jpeg?v=1790713236&w=1920&h=1080",
-      "description": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry."
-    },
-    {
-      "headline": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "source": "University of California, Berkeley",
-      "source_url": "https://news.berkeley.edu",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS095NGg1SGdvMzZKSjktTWo5ZkFWMkJmdGsxRHJuRHJ6bUYzcV80V3RnUkpIYmp2OHlhNDZxZjVuaWJVQUl4WUhSX1JQZDM4eXlYMGVGRmh2ZUZ1bDljYVZSSDRocGR5LUUtYU56QVh1d1RoUVhFcDZZWGxXWGw1SFpSSVcyVEtWZVh1b2kwUlhfQURUOXhPOWVLOXNtTWNzem9PRGdfMFNoaXFvbGx2MVln?oc=5",
-      "pub_date": 1791567646.0,
-      "article_url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
-      "image": "https://news.berkeley.edu/wp-content/uploads/2026/10/sanket-mishra-qAKPcrIcRG8-unsplash-scaled.jpg",
-      "description": "A UC Berkeley researcher co-authored a study that raises profound questions about how we interact with artificial intelligence in education \u2014 and daily life."
-    },
-    {
-      "headline": "Opinion | The Racist Tinge to These A.I. Literary Scandals",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWFpMVJ3QmdxcVlvWVhlaXNqeWVDYlZhSnRfcWxkWkxZY3JBQjJZUF9aVUtEeWVhNHlQZUxrMDc1TFQzZk5zeDRFSy04SG1YbWwxc3ZaV3ZKRGt2UHlQb09PbktZTjQ0aXRfNFdxY3VCcndVMktmd1YyZG5ra3BMZ2phQi1IV3EyTUJreWl3?oc=5",
-      "pub_date": 1791716411.0,
-      "article_url": "https://www.nytimes.com/2026/10/11/opinion/ai-books-fiction-black-writers-racism.html",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-11T23:31:52.893040+00:00"
+  "fetched_at": "2026-10-12T04:41:51.990380+00:00"
 }

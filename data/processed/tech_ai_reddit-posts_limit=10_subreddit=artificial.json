@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "The Internet is wild\ud83d\ude02\ud83d\ude02",
-      "author": "Sevives",
-      "url": "https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/",
-      "published": 1791721227.0,
-      "thumbnail": "https://preview.redd.it/ciij72r3ztuh1.jpeg?width=320&crop=smart&auto=webp&s=2b3059de2f87112cc270d21d0448761c1bc1589c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "A solo developer rebuilt Word, Excel and PowerPoint as free open-source apps using Claude \u2014 and says he's earning 4x more per employee than Google",
       "author": "lulzxdxdxd",
       "url": "https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/",
@@ -24,15 +13,15 @@
       "description": "It's a protest now."
     },
     {
-      "title": "There\u2019s a reason billionaires keep bending the knee to Trump. After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/",
-      "published": 1791744277.0,
-      "thumbnail": "https://external-preview.redd.it/pIsGxawGUfSdyPV63XdYxA-5G7InEYbSClMGwGY8nFA.jpeg?width=640&crop=smart&auto=webp&s=3934a02780bb7739ef2c9092f2a5e4fd704c02cf",
-      "external_url": "https://www.ms.now/opinion/billionaires-trump-economy",
-      "site_name": "MS NOW",
-      "favicon": "https://www.ms.now/wp-content/uploads/2025/10/cropped-msnow-logo-favicon.webp?w=180",
-      "description": "After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it."
+      "title": "The Internet is wild\ud83d\ude02\ud83d\ude02",
+      "author": "Sevives",
+      "url": "https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/",
+      "published": 1791721227.0,
+      "thumbnail": "https://preview.redd.it/ciij72r3ztuh1.jpeg?width=320&crop=smart&auto=webp&s=2b3059de2f87112cc270d21d0448761c1bc1589c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022",
@@ -44,6 +33,17 @@
       "site_name": "CNN",
       "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
       "description": "Anthropic\u2019s claim its AI agents discovered an unusual pattern in viral DNA similar to what\u2019s seen in the gene-editing tool CRISPR Cas-9 has set off a wave of skepticism and controversy. Here\u2019s what to know."
+    },
+    {
+      "title": "There\u2019s a reason billionaires keep bending the knee to Trump. After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/",
+      "published": 1791744277.0,
+      "thumbnail": "https://external-preview.redd.it/pIsGxawGUfSdyPV63XdYxA-5G7InEYbSClMGwGY8nFA.jpeg?width=640&crop=smart&auto=webp&s=3934a02780bb7739ef2c9092f2a5e4fd704c02cf",
+      "external_url": "https://www.ms.now/opinion/billionaires-trump-economy",
+      "site_name": "MS NOW",
+      "favicon": "https://www.ms.now/wp-content/uploads/2025/10/cropped-msnow-logo-favicon.webp?w=180",
+      "description": "After the president changed the term to \u201csuper intelligence,\u201d the richest Americans rushed to use it."
     },
     {
       "title": "Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs",
@@ -90,27 +90,27 @@
       "description": "Nicolas Cage, who recently starred in \"Spider-Noir,\" said he won't work with Amazon again after a disagreement over an AI waiver."
     },
     {
-      "title": "Non-text AI model maker Jev valued at $7.5B just weeks after launch",
+      "title": "Man sentenced to prison after pocketing $8 million from AI songs streamed by bots",
       "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/",
-      "published": 1791665523.0,
-      "thumbnail": "https://external-preview.redd.it/19nrBtoerMI_1Cr70Xx0pxVHBQfdJf-kbDUpi1Wdiow.jpeg?width=640&crop=smart&auto=webp&s=d0b4f350ef67610208e956c31598b64212d268d5",
-      "external_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs."
+      "url": "https://www.reddit.com/r/artificial/comments/1x3s3fd/man_sentenced_to_prison_after_pocketing_8_million/",
+      "published": 1791778049.0,
+      "thumbnail": "https://external-preview.redd.it/wOLEEln_ObFJldUpZxV_rJwK_VLcGFmzvvjXNkNvA_k.jpeg?width=640&crop=smart&auto=webp&s=ee58fe5e86f7f1aa2e146084bdbc9dd9444620ca",
+      "external_url": "https://www.dexerto.com/entertainment/man-sentenced-to-prison-after-pocketing-8-million-from-ai-songs-streamed-by-bots-3416335/",
+      "site_name": "Dexerto",
+      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
+      "description": "A North Carolina man got 18 months in prison after bots streamed his AI songs billions of times for $8M in royalties."
     },
     {
-      "title": "Is Reddit anti AI assisted writing?",
-      "author": "NoodleWind",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3m9w0/is_reddit_anti_ai_assisted_writing/",
-      "published": 1791760165.0,
+      "title": "I think we\u2019re getting a little carried away when we say AI \u201cknows\u201d a company.",
+      "author": "Rajxai",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3snwq/i_think_were_getting_a_little_carried_away_when/",
+      "published": 1791779972.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "And what about folks who need the structure and support to express themselves in writing? Is maths done with a calculator in-authentic? How about digging a hole with a shovel rather than your bare hands?"
+      "description": "Give a model access to your documents, databases and internal systems and people quickly start saying it understands the business. I\u2019m not sure that\u2019s true. It has access to a lot of information. That\u2019s different from understanding why that information matters, how different pieces of it connect, or what context is missing. I\u2019ve seen this with enterprise data. You can give a system plenty of information and it can still get the wrong answer because it doesn\u2019t have the context around that information. That difference is going to matter a lot more as we start asking AI to actually make decisions and take actions. Having access to the data is the easy part. Making sure the system actually understands what it\u2019s looking at is much harder. At what point do you think AI actually moves from \u201chaving access to information\u201d to understanding a business?"
     }
   ],
-  "fetched_at": "2026-10-11T23:31:25.232366+00:00"
+  "fetched_at": "2026-10-12T04:41:28.403392+00:00"
 }
