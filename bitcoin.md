@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-11T23:31:54.496847+00:00'
+updated: '2026-10-12T04:41:53.612342+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 11, 2026 at 23:31 UTC  
+**Last Updated:** October 12, 2026 at 04:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,585.12
+### $83,633.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -2.5%  
-**30d:** +8.3%  
-**90d:** +28.7%  
-**1y:** -27.4%  
+**24h:** +1.1%  
+**7d:** -1.9%  
+**30d:** +9.3%  
+**90d:** +29.6%  
+**1y:** -27.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1680.60B
+**Market Cap:** $1684.14B
 Rank #1
 
-**Circulating Supply:** 20,096,787 BTC
+**Circulating Supply:** 20,096,890 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.7%
+-33.5%
 
 **All-Time Low:** $67.81
-+123243.2%
++123504.2%
 
 ---
 
@@ -95,7 +95,7 @@ after the coldcard situation, I decided I really don't want to trust any company
 
 Hodl
 
-2d ago
+3d ago
 
 ---
 
@@ -125,7 +125,7 @@ Jamie Dimon on bitcoin, and the price the day he said it: $405: "going to be sto
 
 Is it good time to buy some BTC
 
-2d ago
+3d ago
 
 ---
 
@@ -167,23 +167,29 @@ CoinDesk • 1d ago
 
 Bitcoin needs a 12.1 times rally to hit $1 million, while XRP needs 7.2 times to reach $10. Which target is more likely?
 
-24/7 Wall St. • 10h ago
+24/7 Wall St. • 16h ago
 
 ---
 
-**[Bitcoin’s Price Prediction: Will Global M2 Point to $300,000?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-global-m2-150021469.html)**
+**[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
 
-A chart circulating in crypto circles claims global money supply points to Bitcoin hitting $250,000 to $300,000, and prominent voices are taking it seriously. But the math behind it hides a flaw that lets anyone bend the prediction to fit whatever outcome they want.
-
-Yahoo Finance • 8h ago
+WSJ • 40m ago
 
 ---
 
-**[Peter Schiff Says Bitcoin Surprised Him By Holding Gains As He Still Expects New Lows](https://www.tradingview.com/news/stocktwits:7fe706b81094b:0-peter-schiff-says-bitcoin-surprised-him-by-holding-gains-as-he-still-expects-new-lows/)**
+**[Bitcoin ETF Inflows Stall After $1.7 Billion Burst: Will Demand Return?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-inflows-stall-1-040936715.html)**
 
-Gold advocate Peter Schiff admitted he’s surprised Bitcoin (BTC) has held onto gains that gold has given back, but still expects the cryptocurrency to fall to new lows.Schiff made the comments in an interview with Scott Melker on his podcast, The Wolf Of All Streets, published on Sunday. Both asset…
+Bitcoin ETF inflows have totaled just $232 million in 13 sessions since a $1.7 billion burst. Can buyers return?
 
-TradingView • 4h ago
+Yahoo Finance • 32m ago
+
+---
+
+**[Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks](https://www.tradingview.com/news/cointelegraph:c7df8ae60094b:0-saylor-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks/)**
+
+Strategy chair Michael Saylor teased investors watching Sunday for a signal of the company’s recent Bitcoin purchases with the message “There’s always room for more orange,” in a post on X.However, any official notification via a filing with the US Securities and Exchange Commission won’t likely co…
+
+TradingView • 11h ago
 
 ---
 
@@ -191,7 +197,7 @@ TradingView • 4h ago
 
 Other cryptocurrencies may be performing better right now, but Bitcoin is still the best long-term investment.
 
-The Motley Fool • 6h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -199,21 +205,7 @@ The Motley Fool • 6h ago
 
 Bitwise sees Bitcoin reaching $1.4 million if it follows gold’s post-ETF rise, with five altcoins positioned to follow.
 
-Benzinga • 9h ago
-
----
-
-**[A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?](https://www.wsj.com/finance/currencies/a-year-on-bitcoin-languishes-a-third-below-its-all-time-high-whats-next-for-the-cryptocurrency-046f2689)**
-
-WSJ • 2d ago
-
----
-
-**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
-
-“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
-
-Decrypt • 7h ago
+Benzinga • 14h ago
 
 ---
 
@@ -221,21 +213,35 @@ Decrypt • 7h ago
 
 Bermuda-regulated startup Meanwhile, whose backers include Bain Capital Crypto and Sam Altman, has now raised a total of $180 million.
 
-Bitcoin Magazine • 1d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
-**[Current price of Bitcoin for October 9, 2026](https://fortune.com/article/price-of-bitcoin-10-09-2026/)**
+**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
 
-Fortune • 1d ago
+Decrypt • 12h ago
+
+---
+
+**[Who Really Owns Bitcoin? Wall Street vs. Ordinary People](https://beincrypto.com/who-owns-bitcoin-institutions-treasury-cash/)**
+
+BeInCrypto • 17h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[UTXO Bitcoin Composition Engine](https://news.ycombinator.com/item?id=50049306)**
+
+Contribute to Artur7897/bitcoin-composition-engine development by creating an account on GitHub.
+
+⬆️ 3 • 💬 0 • 5h ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
+
+---
 
 **[Bitcoin Spaces](https://news.ycombinator.com/item?id=49994350)**
 
@@ -253,11 +259,11 @@ Discord is great for playing games and chilling with friends, or even building a
 
 ---
 
-**[L402 edge cache for AI agents paying over Lightning](https://news.ycombinator.com/item?id=49959733)**
+**[Timekeepers to vote on ditching the leap second](https://news.ycombinator.com/item?id=50050603)**
 
-An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macr...
+Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.
 
-⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
+⬆️ 5 • 💬 0 • 2h ago • [abc.net.au](https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528)
 
 ---
 
@@ -265,63 +271,13 @@ An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermo
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin REFUSES To Crash - Even Peter Schiff Admits He’s Surprised](https://www.youtube.com/watch?v=p0vkjfMZU44)**
-
-Bitcoin #Crypto #finance Peter Schiff joins the show to explain why he believes rising Treasury yields, soaring U.S. debt and ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 340 • 💬 201 • ⏱️ 53:39 • 10h ago
-
----
-
 **[URGENT 🚀 TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC!](https://www.youtube.com/watch?v=pcFITs1v9Z0)**
 
 URGENT TREASURY UPDATE THAT WILL SEND BITCOIN AND CRYPTO PARABOLIC! In this Sunday update I break down a ...
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 407 • 💬 13 • ⏱️ 15:13 • 6h ago
-
----
-
-**[These 3 Crypto Coins Are Getting Ready To EXPLODE!?](https://www.youtube.com/watch?v=reNe1hqrzMs)**
-
-Besides Bitcoin & Ethereum what other crypto coins do you like? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 12K • 👍 850 • 💬 126 • ⏱️ 8:01 • 3h ago
-
----
-
-**[BITCOIN: Your LAST Chance is NOW!!!!](https://www.youtube.com/watch?v=plSimHRWsK8)**
-
-Spot Pumps Early! Get 50% Off Before Launch - https://pump.ninja/ Bitcoin just dropped 8%, but here's the CRAZY part… this ...
-
-📺 Crypto Love
-
-👁️ 4K • 👍 217 • 💬 99 • ⏱️ 7:24 • 6h ago
-
----
-
-**[$266,000 Bitcoin GOLD SHOCK - JPMorgan’s Math Says BTC Is 3X Undervalued](https://www.youtube.com/watch?v=FjkJai-IWYE)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 7K • 👍 259 • 💬 149 • ⏱️ 15:48 • 1d ago
-
----
-
-**[My MASSIVE Warning To Crypto Holders](https://www.youtube.com/watch?v=qz3BKaBKIh8)**
-
-Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 88K • 👍 4K • 💬 184 • ⏱️ 10:37 • 22h ago
+👁️ 15K • 👍 461 • 💬 15 • ⏱️ 15:13 • 11h ago
 
 ---
 
@@ -331,7 +287,17 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 770 • 👍 99 • 💬 35 • ⏱️ 15:05 • 1h ago
+👁️ 5K • 👍 224 • 💬 149 • ⏱️ 15:05 • 6h ago
+
+---
+
+**[Bitcoin’s Next Big Rally May Have Already Started](https://www.youtube.com/watch?v=RoUGeHCpXTA)**
+
+On episode 263 of The Compound and Friends, ...
+
+📺 The Compound
+
+👁️ 3K • 👍 66 • ⏱️ 1:43 • 4h ago
 
 ---
 
@@ -341,17 +307,17 @@ My friend, long gone are the days of needing an entire Bitcoin to be part of the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 20K • 👍 1K • 💬 257 • ⏱️ 10:35 • 12h ago
+👁️ 24K • 👍 1K • 💬 296 • ⏱️ 10:35 • 17h ago
 
 ---
 
-**[BITCOIN MONDAY LIQUIDATION WIPEOUT!? CPI WEEK HEATMAP WARNING!!](https://www.youtube.com/watch?v=OBmevvLH3BE)**
+**[Bitcoin REFUSES To Crash - Even Peter Schiff Admits He’s Surprised](https://www.youtube.com/watch?v=p0vkjfMZU44)**
 
-BITCOIN PRICE ANALYSIS | BITCOIN TRADING | BITCOIN HEATMAP | BITCOIN CPI Bitcoin price analysis for Monday's US ...
+Bitcoin #Crypto #finance Peter Schiff joins the show to explain why he believes rising Treasury yields, soaring U.S. debt and ...
 
-📺 TMG Trades
+📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 435 • 💬 67 • ⏱️ 20:51 • 6h ago
+👁️ 19K • 👍 373 • 💬 259 • ⏱️ 53:39 • 15h ago
 
 ---
 
@@ -361,7 +327,47 @@ SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WE
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 285 • 💬 19 • ⏱️ 16:21 • 3h ago
+👁️ 8K • 👍 390 • 💬 36 • ⏱️ 16:21 • 8h ago
+
+---
+
+**[Bitcoin Is the Toll Collector of the AI Economy](https://www.youtube.com/watch?v=rAVx9MiSbjc)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 122K • 👍 3K • 💬 154 • ⏱️ 46:44 • 1d ago
+
+---
+
+**[BlackRock&#39;s Path To $700,000 Bitcoin](https://www.youtube.com/watch?v=f_xrn-i7IZM)**
+
+The Bitcoin Treasuries Conference is live from New York City. A full day of panels, firesides, and lightning talks covering Bitcoin ...
+
+📺 Bitcoin Treasuries
+
+👁️ 8K • 👍 106 • 💬 50 • ⏱️ 29:46 • 1d ago
+
+---
+
+**[Who’s Trapped in Bitcoin Right Now?](https://www.youtube.com/watch?v=GEju7cuLsAk)**
+
+We analyse Bitcoin on 11 October 2026 with positioning data from Binance, OKX and our MCO Terminal and using Elliott Wave, ...
+
+📺 More Crypto Online
+
+👁️ 19K • 👍 547 • 💬 42 • ⏱️ 15:58 • 10h ago
+
+---
+
+**[BITCOIN: NEW WEEK ANALYIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=T2RAWruOgU8)**
+
+Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
+
+📺 Road To $1 Million USD
+
+👁️ 5K • 👍 208 • 💬 9 • ⏱️ 5:40 • 6h ago
 
 ---
 
