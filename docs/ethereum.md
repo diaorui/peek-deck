@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-13T02:51:54.452603+00:00'
+updated: '2026-10-13T10:11:28.632017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 13, 2026 at 02:51 UTC  
+**Last Updated:** October 13, 2026 at 10:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,41 +36,65 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,481.34
+### $2,510.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** -3.5%  
-**30d:** -1.2%  
-**90d:** +33.2%  
-**1y:** -39.8%  
+**24h:** -1.3%  
+**7d:** -2.4%  
+**30d:** -0.1%  
+**90d:** +34.8%  
+**1y:** -39.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.07B
+**Market Cap:** $306.85B
 Rank #2
 
-**Circulating Supply:** 122,127,761 ETH
+**Circulating Supply:** 122,130,710 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.8%
+-49.2%
 
 **All-Time Low:** $0.43
-+572962.4%
++580170.6%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion October 11, 2026](https://www.reddit.com/r/ethereum/comments/1x2zg6c/daily_general_discussion_october_11_2026/)**
+**[Daily General Discussion October 13, 2026](https://www.reddit.com/r/ethereum/comments/1x4nv7j/daily_general_discussion_october_13_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+5h ago
+
+---
+
+**[Daily General Discussion October 12, 2026](https://www.reddit.com/r/ethereum/comments/1x3t1y1/daily_general_discussion_october_12_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[why do i feel safer staking eth on a regulated exchange than in defi?](https://www.reddit.com/r/ethereum/comments/1x45obf/why_do_i_feel_safer_staking_eth_on_a_regulated/)**
+
+staking eth for about three years now. started with lido, then tried rocket pool, even ran a validator for a while. but honestly the whole defi staking thing is starting to wear me down. smart contract risk, slashing risk, the tax nightmare of tracking all those tiny rewards. it's just a lot. lately ive been using gemini for a chunk of my eth. it's not as exciting as defi, and the yields are lower. but it's simple. i don't have to worry about a bug in a contract draining my funds. i don't have to spend hours figuring out cost basis for taxes. i stake and get a statement at the end of the year. for someone who just wants exposure to eth staking without the headache, it's been a decent option. i still keep some in lido because i believe in decentralization, but the regulated route has its place. anyone else split their staking like this? or am i just getting old and lazy?
+
+18h ago
+
+---
+
+**[I put a whole agent world on Ethereum, frontend included](https://www.reddit.com/r/ethereum/comments/1x37ulv/i_put_a_whole_agent_world_on_ethereum_frontend/)**
+
+Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
 1d ago
 
@@ -84,19 +108,11 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 ---
 
-**[I put a whole agent world on Ethereum, frontend included](https://www.reddit.com/r/ethereum/comments/1x37ulv/i_put_a_whole_agent_world_on_ethereum_frontend/)**
+**[Daily General Discussion October 11, 2026](https://www.reddit.com/r/ethereum/comments/1x2zg6c/daily_general_discussion_october_11_2026/)**
 
-Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
-
----
-
-**[I stopped trusting hardware wallets, so I decided to build my own.](https://www.reddit.com/r/ethereum/comments/1x3fyhb/i_stopped_trusting_hardware_wallets_so_i_decided/)**
-
-After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
-
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +120,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +136,7 @@ Hey community, I'm wondering how someone can get offers to his ENS domains. I ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -132,22 +148,6 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ---
 
-**[Are crypto debit cards useful?](https://www.reddit.com/r/ethereum/comments/1x0vzt8/are_crypto_debit_cards_useful/)**
-
-I've been looking into different ways people spend crypto, and a lot of the options still involve moving funds onto a card or exchange first. Would you rather use a crypto card or pay straight from your own wallet? Interested in hearing what people are using.
-
-4d ago
-
----
-
-**[Daily General Discussion October 08, 2026](https://www.reddit.com/r/ethereum/comments/1x0i8di/daily_general_discussion_october_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,15 +156,31 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.
 
-Decrypt • 13h ago
+Decrypt • 20h ago
 
 ---
 
-**[Why Is Ethereum Stuck Below $2,500 in 2026?](https://finance.yahoo.com/markets/crypto/articles/why-ethereum-stuck-below-2-210041432.html)**
+**[Tap Global Purchases 50 Ethereum for Digital Asset Reserve as Tap Earn Assets Exceed $9 Million](https://uk.finance.yahoo.com/news/tap-global-purchases-50-ethereum-070056616.html)**
 
-Three of Ethereum's biggest buyers all stepped back at the same moment, and the price has been drifting sideways ever since. Here is what those buyers were doing and why their absence matters.
+Tap Global Group plc (LSE:TAP) has expanded its Digital Asset Income Strategy (DAIS) with the acquisition of 50 Ethereum (ETH) tokens, marking the company’s first investment in the cryptocurrency as part of its treasury management programme. The crypto-fintech company purchased the tokens at an average price of £1,888.
 
-Yahoo Finance • 1d ago
+Yahoo Finance UK • 3h ago
+
+---
+
+**[The Whale Behind $29.75 Million in Wins Just Went Long on Ethereum](https://finance.yahoo.com/markets/crypto/articles/whale-behind-29-75-million-075127587.html)**
+
+A Hyperliquid whale with $29.75 million in profits opened a $60.7 million Ethereum long as price weakens and ETF outflows hit 10 days.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%](https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99)**
+
+Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.
+
+CoinDesk • 5h ago
 
 ---
 
@@ -172,15 +188,13 @@ Yahoo Finance • 1d ago
 
 Don't let shortsighted sellers distract you from this coin's real value.
 
-The Motley Fool • 3h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise as ‘Greed’ Persists: Analyst Says BTC Bulls Must Get ‘Moving’ From This Area](https://www.tradingview.com/news/benzinga:14cb665f0094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-greed-persists-analyst-says-btc-bulls-must-get-moving-from-this-area/)**
+**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
 
-Leading cryptocurrencies rose on Sunday as investors assessed the latest geopolitical developments in the Middle East and President Donald Trump’s potential intervention.The Sunday RallyBitcoin experienced a late-evening spike that nearly pushed it beyond $84,000, while Ethereum wobbled in a range…
-
-TradingView • 1d ago
+Forbes • 23h ago
 
 ---
 
@@ -192,11 +206,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Price Analysis This Week: CPI Data in Focus](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-price-analysis-this-week-cpi-data-in-focus/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise as ‘Greed’ Persists: Analyst Says BTC Bulls Must Get ‘Moving’ From This Area](https://www.tradingview.com/news/benzinga:14cb665f0094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-greed-persists-analyst-says-btc-bulls-must-get-moving-from-this-area/)**
 
-Bitcoin is trading between key support and resistance levels as bearish divergence limits its short-term momentum. Ethereum, Solana, XRP, and Chainlink
+Leading cryptocurrencies rose on Sunday as investors assessed the latest geopolitical developments in the Middle East and President Donald Trump’s potential intervention.The Sunday RallyBitcoin experienced a late-evening spike that nearly pushed it beyond $84,000, while Ethereum wobbled in a range…
 
-Coinpedia • 13h ago
+TradingView • 1d ago
 
 ---
 
@@ -208,27 +222,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead](https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead)**
+**[Crypto News: AlphaPepe Closes In On Binance Listing While Ethereum Price Prediction Eyes $2,500](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-closes-in-on-binance-listing-while-ethereum-price-prediction-eyes-2-500-1036618692)**
 
-Your look at what's coming in the week starting Oct. 12.
+MONACO, Oct.  12, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe as its fifth CEX partnership reveal approaches on Wednesday, O...
 
-CoinDesk • 17h ago
-
----
-
-**[Current price of Ethereum for October 12, 2026](https://fortune.com/article/price-of-ethereum-10-12-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 11h ago
-
----
-
-**[Matt Hougan: NEAR 40x Target Still Below Ethereum Today](https://blockchain.news/flashnews/matt-hougan-near-40x-target-still-below-ethereum-today)**
-
-Matt Hougan states that Bitwise's base case 40x target for NEAR by 2030 would leave the token less valuable than Ethereum trades today.
-
-Blockchain News • 13h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -236,23 +234,23 @@ Blockchain News • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BMNR IN TROUBLE? TOM LEE STOPS ETH BUYING!](https://www.youtube.com/watch?v=LET8NfjK93w)**
+**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
 
-BMNR IN TROUBLE? TOM LEE STOPS ETH BUYING! Explore MaxFi: https://www.maxfi.tech/ Join our Discord community: ...
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Big Time Trades
+📺 More Crypto Online
 
-👁️ 1K • 👍 56 • 💬 15 • ⏱️ 26:34 • 4h ago
+👁️ 4K • 👍 152 • 💬 34 • ⏱️ 6:47 • 6h ago
 
 ---
 
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=DjoaX_9Ugxc)**
+**[ETH BOTTOM FINALLY IN?🚨 (Ethereum Price Prediction)](https://www.youtube.com/watch?v=wFQtAPKd7pQ)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto Nutshell
+📺 Cilinix Crypto
 
-👁️ 22K • 👍 327 • 💬 32 • ⏱️ 20:19 • 22h ago
+👁️ 45 • 👍 4 • 💬 1 • ⏱️ 4:26 • 1h ago
 
 ---
 
@@ -262,17 +260,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 236 • 💬 10 • ⏱️ 24:39 • 9h ago
+👁️ 13K • 👍 276 • 💬 11 • ⏱️ 24:39 • 16h ago
 
 ---
 
-**[Ethereum ETFs DUMPED $697M.. I&#39;m Still LONG!!](https://www.youtube.com/watch?v=uetiwc3Z5lM)**
+**[🚨 BMNR IN TROUBLE? TOM LEE STOPS ETH BUYING!](https://www.youtube.com/watch?v=LET8NfjK93w)**
 
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+BMNR IN TROUBLE? TOM LEE STOPS ETH BUYING! Explore MaxFi: https://www.maxfi.tech/ Join our Discord community: ...
 
-📺 Marzell Crypto
+📺 Big Time Trades
 
-👁️ 506 • 👍 12 • 💬 4 • ⏱️ 2:57 • 16h ago
+👁️ 3K • 👍 88 • 💬 21 • ⏱️ 26:34 • 11h ago
+
+---
+
+**[CRYPTO DIP: Bear Market’s Back?! (It’s NOT... Altcoins Haven&#39;t Looked This Good In 5 Years!](https://www.youtube.com/watch?v=4ecJ4D7BsuI)**
+
+Thanks Coinbase for sponsoring this crypto video! Save 80% spot fees by using my Coinbase link!
+
+📺 Crypto Capital Venture
+
+👁️ 23K • 👍 631 • 💬 178 • ⏱️ 13:50 • 18h ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=DjoaX_9Ugxc)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 24K • 👍 347 • 💬 33 • ⏱️ 20:19 • 1d ago
 
 ---
 
@@ -282,7 +300,17 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Price Target)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 12K • 👍 308 • 💬 170 • ⏱️ 16:33 • 10h ago
+👁️ 15K • 👍 337 • 💬 172 • ⏱️ 16:33 • 17h ago
+
+---
+
+**[Ethereum ETFs DUMPED $697M.. I&#39;m Still LONG!!](https://www.youtube.com/watch?v=uetiwc3Z5lM)**
+
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+
+📺 Marzell Crypto
+
+👁️ 611 • 👍 13 • 💬 4 • ⏱️ 2:57 • 23h ago
 
 ---
 
@@ -292,7 +320,7 @@ Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join
 
 📺 Trade Confident
 
-👁️ 616 • 👍 10 • 💬 2 • ⏱️ 4:48 • 8h ago
+👁️ 755 • 👍 11 • 💬 2 • ⏱️ 4:48 • 16h ago
 
 ---
 
@@ -302,37 +330,7 @@ Bitcoin is holding the 50-day moving average—but is another leg higher coming?
 
 📺 YaBoySkey
 
-👁️ 573 • 👍 32 • 💬 1 • ⏱️ 11:20 • 7h ago
-
----
-
-**[This One Ethereum Price Level Could Trigger the Biggest Altcoin Rally in Years](https://www.youtube.com/watch?v=7cvsrjpkRTs)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 116 • 💬 2 • ⏱️ 16:18 • 2d ago
-
----
-
-**[Ethereum EXPOSED!!](https://www.youtube.com/watch?v=gzHDWgNLAcg)**
-
-Ethereum Exposed takes a closer look at ETH, Ethereum gas fees, network scalability, Layer 2 solutions and the competition for ...
-
-📺 Crypto Info
-
-👁️ 602 • 👍 1 • 💬 2 • ⏱️ 0:19 • 1d ago
-
----
-
-**[BITCOIN PRICE TARGETS REVEALED (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Xn979KYC8GY)**
-
-BITCOIN PRICE TARGETS REVEALED (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 356 • 💬 97 • ⏱️ 14:05 • 1d ago
+👁️ 918 • 👍 34 • 💬 1 • ⏱️ 11:20 • 14h ago
 
 ---
 
