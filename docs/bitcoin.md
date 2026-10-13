@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-13T10:11:28.627875+00:00'
+updated: '2026-10-13T17:43:48.322065+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 13, 2026 at 10:11 UTC  
+**Last Updated:** October 13, 2026 at 17:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,454.58
+### $83,503.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.4%  
-**30d:** +6.9%  
-**90d:** +30.9%  
-**1y:** -26.1%  
+**24h:** +1.0%  
+**7d:** -0.1%  
+**30d:** +6.5%  
+**90d:** +30.4%  
+**1y:** -26.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1678.33B
+**Market Cap:** $1671.34B
 Rank #1
 
-**Circulating Supply:** 20,097,368 BTC
+**Circulating Supply:** 20,097,687 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.8%
+-34.0%
 
 **All-Time Low:** $67.81
-+123063.3%
++122539.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Checking in on the fiat currency experiment.](https://www.reddit.com/r/Bitcoin/comments/1x475bi/checking_in_on_the_fiat_currency_experiment/)**
 
-17h ago
+1d ago
 
 ---
 
 **[Is This Guy Real?This guy claims he held Bitcoin since 2013, made a 1000x return and recreated his old viral video 11 years later. Pretty insane if true.But is this story actually real? Anyone know who he is?](https://www.reddit.com/r/Bitcoin/comments/1x4apxa/is_this_guy_realthis_guy_claims_he_held_bitcoin/)**
 
-15h ago
+22h ago
 
 ---
 
@@ -101,7 +101,7 @@ My friends father was renting space on his farm for a bitcoin mining operation. 
 
 I don't usually post stuff like this, but I've been a loyal Apple user since 2008 with over 7 devices on one Apple ID, plus the usual subscriptions (iCloud+, In App purchases, app subscriptions) so this one stung in a specific way. In June I downloaded an app called "Wasabi Bitcoin & Crypto Wallet" from the official App Store. It looked completely legitimate, normal listing, developer name, screenshots, reviews. It turned out to be an impersonation of the real Wasabi Wallet. Wasabi Wallet is an open-source, desktop-only software that has never had a mobile app. In August, a wallet I'd created inside that fake app was drained in a single transaction; about 0.9 BTC, roughly $53k at the time. The theft is bad enough. What's been almost as frustrating is that there's no way to actually talk to a person at Apple about it. No phone line, no support chat for this, just web forms (Apple's own "report a problem" page, and their EU "Digital Services Act" reporting portal). I filed a police report. I reported it through every official channel Apple offers. Apple's own review team closed my EU complaint with a one line reply: insufficient information, or no violation found. No further explanation. One thing that's stuck with me: with the real, open-source Wasabi Wallet, anyone can verify a release is genuine by checking its cryptographic signature on GitHub. On the App Store, there's no equivalent. As a user, you have no way to check that an app is actually from the developer it claims to be. You're just trusting Apple's review process, full stop. That trust is what got me here. What makes it sting more: Apple's own App Store Review Guidelines, not marketing copy, their actual rulebook for developers say: "These efforts have made Apple's platforms the safest for consumers around the world." That's the exact trust I was operating on. This isn't a one-off either. Security researchers found dozens of similar fake wallet apps on the App Store this year alone (Kaspersky, April 2026). There's also an ongoing US lawsuit over a nearly identical fake Sparrow Wallet app. I'm not trying to start a pile-on, I still like my Apple devices. I just wish there were an actual way to be heard, and wanted other people to be a bit more careful with anything wallet-related in the App Store, "official" or not. Happy to answer questions if anyone's curious or has been through something similar.
 
-17h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ I don't usually post stuff like this, but I've been a loyal Apple user since 200
 
 Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
-17h ago
+1d ago
 
 ---
 
@@ -123,13 +123,13 @@ Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
 Money supply isn't dropping any time soon. The next run will be glorious.
 
-16h ago
+23h ago
 
 ---
 
 **[AI Agents Agree: BTC is best for long term capital preservation.](https://www.reddit.com/r/Bitcoin/comments/1x4bvlx/ai_agents_agree_btc_is_best_for_long_term_capital/)**
 
-14h ago
+21h ago
 
 ---
 
@@ -137,7 +137,7 @@ Money supply isn't dropping any time soon. The next run will be glorious.
 
 Sometimes, they just have to learn Bitcoin on their own. Even if it means another 10 years wasted.
 
-20h ago
+1d ago
 
 ---
 
@@ -161,47 +161,49 @@ WSJ • 1d ago
 
 **[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
 
-Financial Times • 6h ago
+Financial Times • 13h ago
 
 ---
 
-**[Options Traders Are Back at 2021 Levels: Will Bitcoin Repeat That Year's Doubling?](https://finance.yahoo.com/markets/crypto/articles/options-traders-back-2021-levels-085609321.html)**
+**[You can be right about bitcoin's direction–and still lose everything](https://finance.yahoo.com/video/bitcoins-direction-still-lose-everything-160000223.html)**
 
-Options volume is back at 2021 levels, yet Bitcoin ETFs log outflows. See why BTC has not repeated its 2021 doubling.
+Scott Melker discusses the roughly $800 million in crypto liquidations over 24 hours, triggered by a brief bitcoin (BTC-USD) dip and a quick rebound. 
+
+l"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin](https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin)**
+**[Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data](https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide)**
 
-The decision concerns 61,000 BTC seized by the Metropolitan Police in its investigation into Zhimin Qian, who pleaded guilty to defrauding thousands of people in China.
+The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.
 
 CoinDesk • 46m ago
 
 ---
 
-**[Strategy Acquires 250 BTC and Repurchases $192 Million of STRC - MSTR Metrics](https://www.strategy.com/press/strategy-acquires-250-btc-and-repurchases-192-million-of-strc_10-12-2026)**
+**["Coinbase believes that Bitcoin will continue to be the most trusted crypto-currency in a post-quantum world" 🚀](https://www.moomoo.com/community/feed/just-in-coinbase-releases-a-blog-article-focused-on-bitcoin-117434620379141)**
 
-October 12, 2026
+@Bitcoin Magazine 2955 Views
 
-MSTR Metrics - Strategy • 21h ago
-
----
-
-**[Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data](https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383)**
-
-The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.
-
-The Block • 5h ago
+Moomoo • 55m ago
 
 ---
 
-**[American Bitcoin: The Market Pays Almost Nothing For The Mining Business (ABTC)](https://seekingalpha.com/article/4953696-american-bitcoin-the-market-pays-almost-nothing-for-the-mining-business)**
+**[NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
 
-American Bitcoin is rated Buy with a 12-month target of $11, reflecting a conservative stance versus Wall Street consensus. Learn more about ABTC stock here.
+KFOR • 14h ago
 
-Seeking Alpha • 10m ago
+---
+
+**[Strive buys 3,311 bitcoin for $280 million in largest acquisition since January](https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430)**
+
+The latest purchase marks Strive's largest increase in bitcoin holdings since it acquired approximately 5,048 BTC through its all-stock merger with Semler Scientific.
+
+The Block • 4h ago
 
 ---
 
@@ -209,23 +211,21 @@ Seeking Alpha • 10m ago
 
 The iShares Bitcoin Trust fund has broken a downtrend and cleared a cup-with-handle pattern. IBIT stock has passed its 46.37 buy point.
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 1d ago
 
 ---
 
-**[Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?](https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare)**
+**[Current price of Bitcoin for Oct. 12, 2026](https://fortune.com/article/price-of-bitcoin-10-12-2026/)**
 
-Bitcoin is off to a rough start so far this month. But things could still turn around.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Bitcoin Magazine • 14h ago
+Fortune • 1d ago
 
 ---
 
-**[Trump Bought Coinbase Stock in July and Sold Some of It on August 10. The Same Day, He Bought More Strategy. Here Is What Both Have Done Since.](https://247wallst.com/investing/cryptocurrency/2026/10/12/trump-bought-coinbase-stock-in-july-and-sold-some-of-it-on-august-10-the-same-day-he-bought-more-strategy-here-is-what-both-have-done-since/)**
+**[Midday Need to Know: Bitcoin signals bullish trend shift, copper rallies & more](https://seekingalpha.com/news/4652185-midday-need-to-know-bitcoin-signals-bullish-trend-shift-copper-rallies-more)**
 
-On August 10, 2026, Donald Trump sold Coinbase stock and bought Strategy stock. Strategy has since gained 59%, Coinbase 21%.
-
-24/7 Wall St. • 14h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -245,7 +245,7 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
 
-⬆️ 2 • 💬 0 • 5d ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
+⬆️ 2 • 💬 0 • 6d ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
 
 ---
 
@@ -259,7 +259,7 @@ Discord is great for playing games and chilling with friends, or even building a
 
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
-⬆️ 1 • 💬 0 • 14h ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
+⬆️ 1 • 💬 0 • 22h ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
 
 ---
 
@@ -267,13 +267,13 @@ Discord is great for playing games and chilling with friends, or even building a
 
 Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chain inputs from our own full node. No key, CORS open. - multiassist/bitcoin-barometer
 
-⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
+⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
 
 ---
 
 **[Ask HN: What Happened in DNSSEC Yesterday?](https://news.ycombinator.com/item?id=50055306)**
 
-⬆️ 2 • 💬 2 • 21h ago
+⬆️ 2 • 💬 2 • 1d ago
 
 ---
 
@@ -289,13 +289,83 @@ Clocks occasionally go backwards for a second to keep Earth time in sync with th
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Breakout or Breakdown? Asia Sent a Warning](https://www.youtube.com/watch?v=8ejKtbbSS6Y)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 11K • 👍 529 • 💬 23 • ⏱️ 47:41 • 2h ago
+
+---
+
 **[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
 
 Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 1K • 💬 128 • ⏱️ 17:10 • 13h ago
+👁️ 41K • 👍 2K • 💬 152 • ⏱️ 17:10 • 20h ago
+
+---
+
+**[Bitcoin Flushes $800M In Leverage And Bounces Back Above $83K](https://www.youtube.com/watch?v=h0MgbUxigQA)**
+
+Bitcoin #Crypto #finance Bitcoin rebounds above $83K despite a sharp selloff in tech stocks and over $800M in crypto liquidations ...
+
+📺 The Wolf Of All Streets
+
+👁️ 7K • 👍 335 • 💬 14 • ⏱️ 1:05:55 • 3h ago
+
+---
+
+**[NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site and a tangled web of companies rea](https://www.youtube.com/watch?v=g-f_408LOgI)**
+
+A News 4 investigation found the El Reno Bitcoin mine behind this a massive water leak is tied to a second, bigger mine in ...
+
+📺 KFOR Oklahoma's News 4
+
+👁️ 16K • 👍 274 • 💬 43 • ⏱️ 7:36 • 11h ago
+
+---
+
+**[Mark Yusko: Why You Should Buy Bitcoin Before The End Of This Year](https://www.youtube.com/watch?v=Q_u5Sh18pjw)**
+
+Mark Yusko says Bitcoin is still trading below fair value, and that it can be a 10X from here. Mark Yusko, CEO and CIO of Morgan ...
+
+📺 New Era Finance Podcast
+
+👁️ 2K • 👍 145 • 💬 5 • ⏱️ 59:22 • 3h ago
+
+---
+
+**[🚨 BITCOIN &amp; XRP CYCLE SECRETS REVEALED! CRASH PREDICTED! NOVEMBER BULL MARKET?](https://www.youtube.com/watch?v=xkhyn5KOEBA)**
+
+BITCOIN & XRP CYCLE SECRETS REVEALED!** What if financial markets follow PREDETERMINED CYCLES—and world ...
+
+📺 Bo Polny | “God’s Analyst of TIME”
+
+👁️ 19K • 👍 861 • 💬 41 • ⏱️ 4:01 • 16h ago
+
+---
+
+**[MY EXACT BITCOIN BUY AND SELL LEVELS](https://www.youtube.com/watch?v=wNi3Ml-1Uko)**
+
+APPLY TO WORK WITH ME. We take a limited number of new members each month.
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 11K • 👍 449 • 💬 42 • ⏱️ 19:49 • 8h ago
+
+---
+
+**[Bitcoin Live Trading: CRYPTO IS BLEEDING… Can BTC save the market?! EP2152](https://www.youtube.com/watch?v=PthmM0ewX8w)**
+
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
+
+📺 Crypto Lifer
+
+👁️ 4K • 👍 611 • 💬 1 • ⏱️ 2:00:56 • 4h ago
 
 ---
 
@@ -305,87 +375,17 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 117 • ⏱️ 10:13 • 8h ago
+👁️ 77K • 👍 2K • 💬 155 • ⏱️ 10:13 • 16h ago
 
 ---
 
-**[BREAKING: DID CHINA JUST SEND A BITCOIN WARNING AT AMERICA!!! | EP 1611](https://www.youtube.com/watch?v=N3BHqZ8YNrI)**
+**[BITCOIN&#39;S NEXT BULL RUN STARTS NOW !!!](https://www.youtube.com/watch?v=ulC5yz_D2vs)**
 
-INSANE BITCOIN BACKFLIP BY CHINA THIS WEEKEND!
+Subscribe to *Crypto Elix:* https://www.youtube.com/@CryptoElix BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 ...
 
-📺 Simply Bitcoin
+📺 The Moon Show
 
-👁️ 15K • 👍 292 • 💬 14 • ⏱️ 1:16:40 • 15h ago
-
----
-
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=-eKtrrN5P48)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 89K • 👍 3K • 💬 122 • ⏱️ 11:43 • 12h ago
-
----
-
-**[Nobody wants to hold their own Bitcoin anymore.](https://www.youtube.com/watch?v=7ZGRwECSIQI)**
-
-Ledger confirmed that one customer device contained an unauthorized hardware implant. The wallets came from an approved ...
-
-📺 Yahoo Finance
-
-👁️ 20K • 👍 356 • 💬 189 • ⏱️ 14:50 • 17h ago
-
----
-
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=Ur5e6VGQwhs)**
-
-Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
-
-📺 Road To $1 Million USD
-
-👁️ 11K • 👍 260 • 💬 25 • ⏱️ 6:44 • 11h ago
-
----
-
-**[Bitcoin Breakout Faces Its Biggest Test](https://www.youtube.com/watch?v=B0pQm3SJkgE)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 25K • 👍 708 • 💬 98 • ⏱️ 43:40 • 17h ago
-
----
-
-**[Bitcoin: Before the Next Dip, Remember What Worked.](https://www.youtube.com/watch?v=sLQ2p7CKygY)**
-
-A lot of people were scared when Bitcoin dropped under the 200-week moving average. The plan was simple: buy at those levels, ...
-
-📺 Digital Asset News
-
-👁️ 5K • 👍 126 • 💬 7 • ⏱️ 1:40 • 22h ago
-
----
-
-**[$2 Million Bitcoin SUPPLY SHOCK - Saylor Just Signaled Another Buy](https://www.youtube.com/watch?v=B0agixUpDT4)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 9K • 👍 315 • 💬 159 • ⏱️ 15:05 • 1d ago
-
----
-
-**[Bitcoin Traders!!! THE MOMENT IS HERE!!!! ACT NOW!!!](https://www.youtube.com/watch?v=i8PmqCjQXIU)**
-
-Coinbase https://ckenny.com/Coinbase Coinbase Perpetuals https://ckenny.com/CBP ⚠️ DISCLAIMER – READ FIRST This ...
-
-📺 Conor Kenny
-
-👁️ 5K • 👍 275 • 💬 49 • ⏱️ 20:57 • 4h ago
+👁️ 12K • 👍 786 • 💬 23 • ⏱️ 9:31 • 6h ago
 
 ---
 

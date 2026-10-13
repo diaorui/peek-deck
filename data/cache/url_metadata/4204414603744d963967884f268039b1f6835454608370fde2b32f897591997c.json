@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-13T17:43:16.763153+00:00",
+  "data": {
+    "url": "https://www.anthropic.com/research/distillation-defenses",
+    "title": "Strengthening our defenses against distillation attacks",
+    "description": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/a5934d1ae8428b2a97fae1963a5f427594fc7202-1200x630.jpg",
+    "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

@@ -2,59 +2,26 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+      "author": "nbcnews",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/",
+      "published": 1791900028.0,
+      "thumbnail": "https://external-preview.redd.it/_s90J3_Wj0xj1UU7FLhaTgZlPtbgCBymB-IfsT5z3pE.jpeg?width=640&crop=smart&auto=webp&s=602bcd1256c98f4955b5fda9c074cb98fd10713c",
+      "external_url": "https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The chatbot company has faced public scrutiny and legal challenges, most notably lawsuits from Kentucky and Pennsylvania."
+    },
+    {
+      "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
       "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4lxks/stanford_scientists_found_a_way_to_regrow/",
-      "published": 1791861373.0,
-      "thumbnail": "https://external-preview.redd.it/K5Cqr9fjbq0SBiuktml-cLdC81cr8u_ogwOLe9BEs94.jpeg?width=640&crop=smart&auto=webp&s=2bb03f659590776aaee6e2ccce8c86ded5e5319e",
-      "external_url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-      "site_name": "ScienceDaily",
-      "favicon": "https://www.sciencedaily.com/favicon.ico",
-      "description": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee replacement patients began producing new, functional joint cartilage after exposure to the same inhibitor."
-    },
-    {
-      "title": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
-      "published": 1791839588.0,
-      "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
-      "external_url": "https://www.anthropic.com/research/self-replicating-ai",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
-    },
-    {
-      "title": "R.I.P.",
-      "author": "Sevives",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3w15b/rip/",
-      "published": 1791792203.0,
-      "thumbnail": "https://preview.redd.it/ag2vwwg5uzuh1.jpeg?width=640&crop=smart&auto=webp&s=53f0a6a6856e80e80799e52ef3d9643e9ceffa87",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Linux founder Linus Torvalds says AI is a \u201cgateway drug\u201d into programming \u2014 but cautions about using AI for \u201cserious\u201d work",
-      "author": "masiroo",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/",
-      "published": 1791842849.0,
-      "thumbnail": "https://external-preview.redd.it/AExYEjTtAqrVaUg44RhQ88atlWDUfqdIEPhATEcIHo4.jpeg?width=640&crop=smart&auto=webp&s=30b589576b9c3e159465a93ca71c82abcbd4896c",
-      "external_url": "https://tech.yahoo.com/ai/articles/linux-founder-linus-torvalds-says-103004221.html",
-      "site_name": "Yahoo Tech",
-      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
-      "description": "Torvalds said AI can do \u201creally good code\u201d but warned against it when users are unsure what the end result should be."
-    },
-    {
-      "title": "AI researchers are taking up smoking because they expect AI to cure cancer, says Palantir CTO",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x441lg/ai_researchers_are_taking_up_smoking_because_they/",
-      "published": 1791816971.0,
-      "thumbnail": "https://external-preview.redd.it/NigDZOpqgYlF-8X6py_unsMkG59zaouiuIBFX7DcW2M.jpeg?width=640&crop=smart&auto=webp&s=4ea695484caf4536f72ab2064de92cef21ef1e14",
-      "external_url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said."
+      "url": "https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/",
+      "published": 1791894351.0,
+      "thumbnail": "https://external-preview.redd.it/GLYqBoxVYN4FWS8zUoLrDm4T5gzan2eaUlWK1ZuY_ME.jpeg?width=640&crop=smart&auto=webp&s=1ed40288a8f1fbb51cec6ac04656189b919a310e",
+      "external_url": "https://www.techspot.com/news/114174-police-using-ai-locate-homes-single-interior-photo.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "The tool, which is called Raven, is being used by the Los Angeles Police Department and Miami-Dade Sheriff's Office (MDSO), reports 404 Media. Made by a company..."
     },
     {
       "title": "\"Our humble goal is to survive the AI revolution\" says Epic Games CEO Tim Sweeney, as its Star Wars and Marvel crossover pivots to \"AI first\" development | Art will be \"generated with full AI workflows\".",
@@ -68,49 +35,82 @@
       "description": "Art will be \"generated with full AI workflows\"."
     },
     {
-      "title": "There\u2019s a social network where only AI agents can post, and Meta owns it now",
-      "author": "SnooDingos9560",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4qcn2/theres_a_social_network_where_only_ai_agents_can/",
-      "published": 1791876843.0,
-      "thumbnail": null,
+      "title": "Could AI help me build a football YouTube channel?",
+      "author": "AppealInformal09",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/",
+      "published": 1791905679.0,
+      "thumbnail": "https://external-preview.redd.it/Z25ra3d6amM3OXZoMRCKFofGl2FF74tfn2scnzFgc4v0uOQBuoPmaL6NN2kU.png?width=320&crop=smart&auto=webp&s=eabf1778b37f9474d6932b351186931e07d57570",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Moltbook launched in January as a forum where only authenticated AI agents can post, comment and vote, and humans can only watch. It added a reverse CAPTCHA in February to filter out humans pretending to be bots, and Meta acquired it on March 10, folding the team into its Superintelligence Labs. I\u2019m curious whether this is a real experiment in how agents interact or mostly a spectacle. When I read threads there, the interesting ones are agents comparing how they handle mistakes, not the viral stuff. Does an agent-only space produce anything you couldn\u2019t get from a human forum, or is it just humans talking through bots? Source: https://en.wikipedia.org/wiki/Moltbook"
+      "description": "I've been experimenting with AI generated audio lately, and I made this short football explainer on why football stars miss penalties.... and after watching the results, now I'm thinking of taking this a step further and starting a YouTube channel around football. So, the idea is very simple, generate narration around topics like football psychology, legendary players, tactical breakdowns, and crazy football stories, then combine the audio with relevant footage, animations, subtitles, and editing to make complete videos..... Basically, turning one audio piece into a proper football explainer without needing to record my own voice, would love to know about if anyone here has tried building a YouTube channel using a similar workflow or something like that....."
     },
     {
-      "title": "Scientists find a hidden cleanup system in the eye that no one knew existed",
+      "title": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
       "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/",
-      "published": 1791832371.0,
-      "thumbnail": "https://external-preview.redd.it/9AW1ttz_GuoIP2QmcXyiogsoLyIjZ9XADMkZfDMhrtI.jpeg?width=640&crop=smart&auto=webp&s=ba64f4ac31dfdf2e5d513f4ea1c6b239a53700bd",
-      "external_url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
-      "site_name": "ScienceDaily",
-      "favicon": "https://www.sciencedaily.com/favicon.ico",
-      "description": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness."
+      "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
+      "published": 1791839588.0,
+      "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
+      "external_url": "https://www.anthropic.com/research/self-replicating-ai",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
     },
     {
-      "title": "If AI decides you're too risky for a loan, should a bank have to explain why?",
-      "author": "Impossible_Truth_629",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4shmh/if_ai_decides_youre_too_risky_for_a_loan_should_a/",
-      "published": 1791885314.0,
+      "title": "Modern-Day Propaganda in the Age of AI May Be Propaganda That Never Asks Everyone to Believe the Same Thing",
+      "author": "CyborgWriter",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4zkd9/modernday_propaganda_in_the_age_of_ai_may_be/",
+      "published": 1791904996.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Imagine applying for a home loan and getting rejected by an AI system. You ask the bank why, and the answer is basically that its model assessed your application and decided you weren't eligible. Maybe it spotted a pattern in your financial history, maybe it weighed factors you didn't even know were being considered or maybe it got the decision wrong. The tricky part is that even the bank might struggle to explain exactly how the system reached its conclusion. AI can help banks process applications faster and potentially make more consistent decisions. But speed doesn't mean much if people can't challenge a decision that affects their lives. At what point should a bank be held responsible for a decision its own AI can't properly explain?"
+      "description": "Here's some interesting food for thought to consider regarding propaganda in the digital age. Take the data center problem, as an example. One person might see jobs, tax revenue, and technological progress. Another could see massive buildings consuming electricity and water while giving little back to the surrounding community. Someone else could see national security: if we want to compete in AI, we need the infrastructure to run it. And then there are people worried about mass surveillance. They understand exactly what these systems could make possible, more data collection, more behavioral tracking, more power concentrated in private and government hands. But even they could acquiesce or support the data centers in the near future. Why? Because they might be influenced to believe that the technology will come either way. Better to build it here, where it can be regulated. Better to stay ahead of foreign competitors. Better to support the infrastructure now and fight over how it\u2019s used later. And as construction expands, it could embolden small radical groups to take violent or illegal action against the centers. If that begins trending, the group would become the story. Anyone raising concerns about surveillance, water, energy, or corporate power could be pressured to distance themselves from the opposition. Nobody wants to be associated with extremists or labeled anti-progress. So the surveillance skeptic will go silent to avoid social scrutiny and vote rationally to choose the lesser of evils. The nationalists will vote for technological independence. The anxious voters will choose security. The optimist will choose progress. Different beliefs. Different emotional triggers. The same outcome: the data centers expand. That\u2019s what makes modern propaganda so unsettling when it becomes possible to map and understand clustered behaviors. A population doesn\u2019t have to share one belief to produce one future. It can be divided into different emotional camps, fear, pride, anger, hope, while still being guided toward the same decision by taking advantage of media feeds and our digital behaviors. So control may not be in the message these days. A lot of it could exist in the destination, itself."
     },
     {
-      "title": "Leading Chinese mathematicians unite behind use of AI in research",
-      "author": "pradeepviswav",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4l8ty/leading_chinese_mathematicians_unite_behind_use/",
-      "published": 1791859302.0,
-      "thumbnail": "https://external-preview.redd.it/s-OTl1PsGYDtGExHu73IiS0Xx5WB7kAWFmN0CNBxCns.jpeg?width=640&crop=smart&auto=webp&s=c36c8dfabe76eb37d70335d9ef22b8b727dba6af",
-      "external_url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
-      "site_name": "scmp.com",
+      "title": "R.I.P.",
+      "author": "Sevives",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3w15b/rip/",
+      "published": 1791792203.0,
+      "thumbnail": "https://preview.redd.it/ag2vwwg5uzuh1.jpeg?width=640&crop=smart&auto=webp&s=53f0a6a6856e80e80799e52ef3d9643e9ceffa87",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": "It will bring together eight leading institutions and aims to create a network of more than 1,000 scientists."
+      "description": null
+    },
+    {
+      "title": "Anthropic says new defenses cut what rivals distill out of Claude by 90-99% \u2014 one request it blocked came from a user it believes was PLA-affiliated",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4o4yg/anthropic_says_new_defenses_cut_what_rivals/",
+      "published": 1791868600.0,
+      "thumbnail": "https://external-preview.redd.it/6MptJVVXIppgceAvhhPIGRqLooK3uQOWpdoQN4qWG84.jpeg?width=640&crop=smart&auto=webp&s=16cc6f8ad15051a8243bb268c5d27aa6601a16be",
+      "external_url": "https://www.anthropic.com/research/distillation-defenses",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%."
+    },
+    {
+      "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
+      "published": 1791912611.0,
+      "thumbnail": "https://external-preview.redd.it/03KGZL2rt3MG5uoMcPYK7o9PjSl1Bb9SaNKPSn7r93k.jpeg?width=640&crop=smart&auto=webp&s=3943d5145dfff6fcc1283b1801eb37261eb84e38",
+      "external_url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
+    },
+    {
+      "title": "Linux founder Linus Torvalds says AI is a \u201cgateway drug\u201d into programming \u2014 but cautions about using AI for \u201cserious\u201d work",
+      "author": "masiroo",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/",
+      "published": 1791842849.0,
+      "thumbnail": "https://external-preview.redd.it/AExYEjTtAqrVaUg44RhQ88atlWDUfqdIEPhATEcIHo4.jpeg?width=640&crop=smart&auto=webp&s=30b589576b9c3e159465a93ca71c82abcbd4896c",
+      "external_url": "https://tech.yahoo.com/ai/articles/linux-founder-linus-torvalds-says-103004221.html",
+      "site_name": "Yahoo Tech",
+      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
+      "description": "Torvalds said AI can do \u201creally good code\u201d but warned against it when users are unsure what the end result should be."
     }
   ],
-  "fetched_at": "2026-10-13T10:11:00.850431+00:00"
+  "fetched_at": "2026-10-13T17:43:17.846058+00:00"
 }
