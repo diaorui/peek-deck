@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-13T10:11:28.634252+00:00'
+updated: '2026-10-13T17:43:48.331347+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 13, 2026 at 10:11 UTC  
+**Last Updated:** October 13, 2026 at 17:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh – 6000mAh) x 1 I have been working on a bipedal version hence the "2 more to go" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)
 
-5d ago
+6d ago
 
 ---
 
@@ -50,7 +50,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) designed end to end in my app. You describe the robot, and it picks real servos (Feetech STS3250 here), plans the electronics, lays out the body, builds the 3D structure and shell, writes the firmware, and runs it in MuJoCo physics before anything gets printed. It's early and plenty is still rough. I'd really like feedback from people who've actually built robots: what was the hardest part of your design, and what would make a tool like this useful (or useless) to you?
 
-5d ago
+6d ago
 
 ---
 
@@ -58,7 +58,7 @@ Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) desi
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-5d ago
+6d ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 I’ve been experimenting with turning an M5Stack Stack-chan into a little mobile robot. I combined it with a LEGO motor hub and wheels, recorded driving demonstrations, and trained an ACT policy. During supervised trials, it learned to follow a line. With a separate set of demonstrations, I also tried driving between guardrails. The video shows the build, data collection, and the wrong turns along the way 😅 Build video: https://www.youtube.com/watch?v=_1pQTt8gqZM This is also the first showcase of what I’ve built with Robium, an open-source robotics skills repo that I recently released. I used it with AI agents to help build the software and training setup. GitHub: https://github.com/robium-ai/robium Has anyone else experimented with learning from demonstrations on a small wheeled robot? I’d be interested to hear what worked for you.
 
-5d ago
+6d ago
 
 ---
 
@@ -114,11 +114,11 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 ## Google News: "robotics"
 
-**[Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work](https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse)**
+**[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)**
 
-Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
+Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
 
-Futurism • 2d ago
+blog.google • 1h ago
 
 ---
 
@@ -126,7 +126,15 @@ Futurism • 2d ago
 
 The second-largest corporate employer has bet big on robot workers to scale.
 
-Ars Technica • 21h ago
+Ars Technica • 1d ago
+
+---
+
+**[Georgia Tech's new AI supercomputer could help advance medicine, robotics and energy research](https://www.cbsnews.com/atlanta/news/georgia-techs-new-ai-supercomputer-could-help-advance-medicine-robotics-and-energy-research/)**
+
+Georgia Tech is opening access to Nexus, a new AI supercomputer in Atlanta that will help researchers across the country tackle projects too large or complex for a regular computer.
+
+CBS News • 38m ago
 
 ---
 
@@ -138,35 +146,11 @@ Foreign Affairs • 1d ago
 
 ---
 
-**[US Army creates robotics technician job to focus on drone warfare](https://www.militarytimes.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/)**
+**[Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night](https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night)**
 
-As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.
+Video. Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night.
 
-Military Times • 15h ago
-
----
-
-**[Robots are proving to be a handful for Elon Musk](https://www.businessinsider.com/elon-musk-designing-humanoid-hand-challenges-optimus-2026-10)**
-
-Elon Musk called designing a human hand for robots "shockingly difficult" and said it's problem Tesla is working on for Optimus.
-
-Business Insider • 6h ago
-
----
-
-**[Stryker enters soft tissue robotics with $400M investment in CMR Surgical](https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/)**
-
-Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic.
-
-MedTech Dive • 17h ago
-
----
-
-**[Will ‘boring’ robots win in the real world? Why robotic form should follow workflow](https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/)**
-
-If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.
-
-The Robot Report • 1d ago
+Euronews.com • 2d ago
 
 ---
 
@@ -174,21 +158,39 @@ The Robot Report • 1d ago
 
 At a Van Ness arena, 200-pound robots wielded steel blades.
 
-The San Francisco Standard • 1d ago
+The San Francisco Standard • 2d ago
 
 ---
 
-**[A humanoid robot for developers and schools is among four launches planned for Oct. 14.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html)**
+**[Stryker enters soft tissue robotics with $400M investment in CMR Surgical](https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/)**
 
-YT Jia's weekly investor report has been rescheduled for Oct. 14; the full launch video will be available online Oct. 15 at 5 p.m. PDT.
+Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic.
 
-Stock Titan • 1d ago
+MedTech Dive • 1d ago
 
 ---
 
-**[OpenAI’s GPT-6 may lead to earlier robotics breakthrough: Unitree founder](https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder)**
+**[US Army creates robotics technician job to focus on drone warfare](https://www.militarytimes.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/)**
 
-South China Morning Post • 20h ago
+As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.
+
+Military Times • 23h ago
+
+---
+
+**[TD Synnex CEO: BlueStar Acquisition, Kuka Robotics Pact Fuel New Physical AI Push](https://www.crn.com/news/channel-news/2026/td-synnex-ceo-bluestar-acquisition-kuka-robotics-pact-fuel-new-physical-ai-push)**
+
+TD Synnex CEO Patrick Zammit told CRN that the distributor is moving big into physical AI with its BlueStar acquisition and Kuka robotics distribution agreement.
+
+CRN • 1d ago
+
+---
+
+**[Robots are proving to be a handful for Elon Musk](https://www.businessinsider.com/elon-musk-designing-humanoid-hand-challenges-optimus-2026-10)**
+
+Elon Musk called designing a human hand for robots "shockingly difficult" and said it's problem Tesla is working on for Optimus.
+
+Business Insider • 13h ago
 
 ---
 
@@ -202,7 +204,7 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 143K • 👍 1K • 💬 124 • ⏱️ 9:18 • 1d ago
+👁️ 149K • 👍 1K • 💬 130 • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -212,37 +214,7 @@ Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very differen
 
 📺 ejunky66
 
-👁️ 828K • 👍 9K • 💬 369 • ⏱️ 1:00 • 4d ago
-
----
-
-**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
-
-America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
-
-📺 Future Core
-
-👁️ 8K • 👍 48 • 💬 4 • ⏱️ 10:07 • 5d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 92K • 👍 2K • 💬 17 • ⏱️ 1:04 • 4d ago
-
----
-
-**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
-
-Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
-
-📺 States 2050
-
-👁️ 96K • 👍 1K • 💬 67 • ⏱️ 26:07 • 5d ago
+👁️ 849K • 👍 9K • 💬 374 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -252,37 +224,67 @@ Tech Now's Paul Carter finds out how technology powering advanced prosthetics is
 
 📺 BBC News
 
-👁️ 110K • 👍 633 • 💬 43 • ⏱️ 5:36 • 1d ago
+👁️ 113K • 👍 644 • 💬 43 • ⏱️ 5:36 • 2d ago
 
 ---
 
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+**[These 3 Stocks Will Power Elon Musk’s Robotics Boom?](https://www.youtube.com/watch?v=5OBFtybgnWU)**
 
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+Hi, I'm Dylan. I hold stock pickers accountable. Top 10 To Buy And Hold Forever: https://tinyurl.com/2h4wuyp5 youtube description ...
 
-📺 MACHINEKIND
+📺 Dylan Rieger
 
-👁️ 54K • 👍 863 • 💬 85 • ⏱️ 13:43 • 5d ago
-
----
-
-**[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
-
-Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
-
-📺 DEEP Robotics
-
-👁️ 14K • 👍 223 • 💬 29 • ⏱️ 1:12 • 6d ago
+👁️ 16K • 👍 452 • 💬 22 • ⏱️ 10:20 • 6d ago
 
 ---
 
-**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
 
-Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
 
-📺 Paigham-e-Deen 
+📺 Jot Tv Media 
 
-👁️ 106K • 👍 2K • 💬 1 • ⏱️ 0:11 • 1d ago
+👁️ 93K • 👍 2K • 💬 17 • ⏱️ 1:04 • 5d ago
+
+---
+
+**[War Robots MOST SATISFYING WAY to deal with SHOGGOTHS!](https://www.youtube.com/watch?v=xzO0lq3KW4k)**
+
+War Robots Gameplay: UE Hawk drive-by destroying Shoggoths is the most fun thing to do: To see them destroy themselves!
+
+📺 Manni-Gaming
+
+👁️ 19K • 👍 499 • 💬 105 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[China’s  Kung Fu Robot Is Now Working Real Jobs](https://www.youtube.com/watch?v=J3aVeZ2Ntoo)**
+
+China's humanoid robot race is moving fast, and AGIBOT's A3 is proving that AI robots can do far more than perform flashy ...
+
+📺 NextGen Humanoids
+
+👁️ 15K • 👍 135 • 💬 31 • ⏱️ 9:00 • 4d ago
+
+---
+
+**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
+
+This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 48 • 💬 9 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[This Guy Visited 34 Robot Companies. Here’s What He Found!](https://www.youtube.com/watch?v=sd9R3W9xcBE)**
+
+Robotics may be about to have its ChatGPT moment, and Citrini Research just called it the Robotics Tipping Point. A humanoid ...
+
+📺 RoboStrategy
+
+👁️ 18K • 👍 391 • 💬 46 • ⏱️ 1:06:56 • 5d ago
 
 ---
 
@@ -292,7 +294,7 @@ Food delivery robots are showing up on sidewalks across America, but not everyon
 
 📺 Lamont Tyson
 
-👁️ 102K • 👍 4K • 💬 765 • ⏱️ 0:50 • 23h ago
+👁️ 109K • 👍 4K • 💬 798 • ⏱️ 0:50 • 1d ago
 
 ---
 
