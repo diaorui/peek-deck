@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-13T17:43:48.322065+00:00'
+updated: '2026-10-13T22:22:10.338442+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 13, 2026 at 17:43 UTC  
+**Last Updated:** October 13, 2026 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,503.88
+### $83,475.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.1%  
-**30d:** +6.5%  
-**90d:** +30.4%  
-**1y:** -26.4%  
+**24h:** +1.9%  
+**7d:** +0.2%  
+**30d:** +6.8%  
+**90d:** +30.7%  
+**1y:** -26.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1671.34B
+**Market Cap:** $1674.96B
 Rank #1
 
-**Circulating Supply:** 20,097,687 BTC
+**Circulating Supply:** 20,097,768 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.0%
+-33.9%
 
 **All-Time Low:** $67.81
-+122539.7%
++122799.3%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Is This Guy Real?This guy claims he held Bitcoin since 2013, made a 1000x return and recreated his old viral video 11 years later. Pretty insane if true.But is this story actually real? Anyone know who he is?](https://www.reddit.com/r/Bitcoin/comments/1x4apxa/is_this_guy_realthis_guy_claims_he_held_bitcoin/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 My friends father was renting space on his farm for a bitcoin mining operation. The operation became unprofitable. The mining operation went bankrupt. The company came in and took everything out of the 6 antmain bit-boxes (converted shipping containers). The photos are what they left behind. Mostly Antminer S19 units and even more asic boards. Plenty of antmain rack PDUs. Some 480VAC breaker panels. A 480VAC switch unit. The land owner did accept the mess voluntarily. He is breaking the equipment down for scrap value. I wonder, is there a better price available out there above scrap value? Is this normal? FWIW, I used the term failed very tongue-in-cheek. I estimate the operation mined millions in this operation.
 
-1d ago
+2d ago
 
 ---
 
@@ -123,13 +123,13 @@ Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
 Money supply isn't dropping any time soon. The next run will be glorious.
 
-23h ago
+1d ago
 
 ---
 
 **[AI Agents Agree: BTC is best for long term capital preservation.](https://www.reddit.com/r/Bitcoin/comments/1x4bvlx/ai_agents_agree_btc_is_best_for_long_term_capital/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -153,49 +153,51 @@ The company confirmed physical tampering in at least one affected device. In add
 
 ## Google News: "bitcoin"
 
+**[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
+
+Financial Times • 11h ago
+
+---
+
 **[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
 
 WSJ • 1d ago
 
 ---
 
-**[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
+**[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
 
-Financial Times • 13h ago
-
----
-
-**[You can be right about bitcoin's direction–and still lose everything](https://finance.yahoo.com/video/bitcoins-direction-still-lose-everything-160000223.html)**
-
-Scott Melker discusses the roughly $800 million in crypto liquidations over 24 hours, triggered by a brief bitcoin (BTC-USD) dip and a quick rebound. 
-
-l"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data](https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide)**
+**[Tom Lee Says Ethereum’s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-years-145416200.html)**
 
-The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.
+Tom Lee is calling the end of Ethereum's long slide against Bitcoin, pointing to tokenized stocks and AI agents as the catalysts. But the data from the very week he made that call tells a very different story.
 
-CoinDesk • 46m ago
-
----
-
-**["Coinbase believes that Bitcoin will continue to be the most trusted crypto-currency in a post-quantum world" 🚀](https://www.moomoo.com/community/feed/just-in-coinbase-releases-a-blog-article-focused-on-bitcoin-117434620379141)**
-
-@Bitcoin Magazine 2955 Views
-
-Moomoo • 55m ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
 
-KFOR • 14h ago
+KFOR • 19h ago
+
+---
+
+**[Current price of Bitcoin for October 13, 2026](https://fortune.com/article/price-of-bitcoin-10-13-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 10h ago
+
+---
+
+**[Bitcoin whale that sat through the March 2020 crash moves $378 million](https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million)**
+
+A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.
+
+CoinDesk • 16h ago
 
 ---
 
@@ -203,7 +205,7 @@ KFOR • 14h ago
 
 The latest purchase marks Strive's largest increase in bitcoin holdings since it acquired approximately 5,048 BTC through its all-stock merger with Semler Scientific.
 
-The Block • 4h ago
+The Block • 8h ago
 
 ---
 
@@ -215,17 +217,11 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Current price of Bitcoin for Oct. 12, 2026](https://fortune.com/article/price-of-bitcoin-10-12-2026/)**
+**[Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years](https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.
 
-Fortune • 1d ago
-
----
-
-**[Midday Need to Know: Bitcoin signals bullish trend shift, copper rallies & more](https://seekingalpha.com/news/4652185-midday-need-to-know-bitcoin-signals-bullish-trend-shift-copper-rallies-more)**
-
-Seeking Alpha • 1d ago
+Decrypt • 2h ago
 
 ---
 
@@ -259,7 +255,7 @@ Discord is great for playing games and chilling with friends, or even building a
 
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
-⬆️ 1 • 💬 0 • 22h ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
+⬆️ 1 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
 
 ---
 
@@ -273,7 +269,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 **[Ask HN: What Happened in DNSSEC Yesterday?](https://news.ycombinator.com/item?id=50055306)**
 
-⬆️ 2 • 💬 2 • 1d ago
+⬆️ 2 • 💬 3 • 1d ago
 
 ---
 
@@ -289,23 +285,43 @@ Clocks occasionally go backwards for a second to keep Earth time in sync with th
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Is at Beginning a Bull Market, Says Strategy&#39;s Saylor](https://www.youtube.com/watch?v=fki9hxwRUfs)**
+
+In an exclusive interview from DC Fintech Week, Strategy founder and Executive Chairman Michael Saylor says Bitcoin is at the ...
+
+📺 Bloomberg Tech
+
+👁️ 5K • 👍 77 • 💬 38 • ⏱️ 1:14 • 4h ago
+
+---
+
+**[Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment](https://www.youtube.com/watch?v=GpYuwAfZZq8)**
+
+Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and Tim Stenovec on "Bloomberg Crypto.
+
+📺 Bloomberg Television
+
+👁️ 5K • 👍 141 • 💬 67 • ⏱️ 19:31 • 2h ago
+
+---
+
 **[Bitcoin Breakout or Breakdown? Asia Sent a Warning](https://www.youtube.com/watch?v=8ejKtbbSS6Y)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 529 • 💬 23 • ⏱️ 47:41 • 2h ago
+👁️ 22K • 👍 643 • 💬 111 • ⏱️ 47:41 • 7h ago
 
 ---
 
-**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
+**[are you ready for what Bitcoin does next?](https://www.youtube.com/watch?v=fh-_hE_XyO8)**
 
-Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
 
-📺 Simply Bitcoin
+📺 Tyler S
 
-👁️ 41K • 👍 2K • 💬 152 • ⏱️ 17:10 • 20h ago
+👁️ 7K • 👍 498 • 💬 139 • ⏱️ 10:13 • 5h ago
 
 ---
 
@@ -315,57 +331,17 @@ Bitcoin #Crypto #finance Bitcoin rebounds above $83K despite a sharp selloff in 
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 335 • 💬 14 • ⏱️ 1:05:55 • 3h ago
+👁️ 13K • 👍 424 • 💬 21 • ⏱️ 1:05:55 • 8h ago
 
 ---
 
-**[NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site and a tangled web of companies rea](https://www.youtube.com/watch?v=g-f_408LOgI)**
+**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
 
-A News 4 investigation found the El Reno Bitcoin mine behind this a massive water leak is tied to a second, bigger mine in ...
+Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
 
-📺 KFOR Oklahoma's News 4
+📺 Simply Bitcoin
 
-👁️ 16K • 👍 274 • 💬 43 • ⏱️ 7:36 • 11h ago
-
----
-
-**[Mark Yusko: Why You Should Buy Bitcoin Before The End Of This Year](https://www.youtube.com/watch?v=Q_u5Sh18pjw)**
-
-Mark Yusko says Bitcoin is still trading below fair value, and that it can be a 10X from here. Mark Yusko, CEO and CIO of Morgan ...
-
-📺 New Era Finance Podcast
-
-👁️ 2K • 👍 145 • 💬 5 • ⏱️ 59:22 • 3h ago
-
----
-
-**[🚨 BITCOIN &amp; XRP CYCLE SECRETS REVEALED! CRASH PREDICTED! NOVEMBER BULL MARKET?](https://www.youtube.com/watch?v=xkhyn5KOEBA)**
-
-BITCOIN & XRP CYCLE SECRETS REVEALED!** What if financial markets follow PREDETERMINED CYCLES—and world ...
-
-📺 Bo Polny | “God’s Analyst of TIME”
-
-👁️ 19K • 👍 861 • 💬 41 • ⏱️ 4:01 • 16h ago
-
----
-
-**[MY EXACT BITCOIN BUY AND SELL LEVELS](https://www.youtube.com/watch?v=wNi3Ml-1Uko)**
-
-APPLY TO WORK WITH ME. We take a limited number of new members each month.
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 11K • 👍 449 • 💬 42 • ⏱️ 19:49 • 8h ago
-
----
-
-**[Bitcoin Live Trading: CRYPTO IS BLEEDING… Can BTC save the market?! EP2152](https://www.youtube.com/watch?v=PthmM0ewX8w)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
-
-📺 Crypto Lifer
-
-👁️ 4K • 👍 611 • 💬 1 • ⏱️ 2:00:56 • 4h ago
+👁️ 45K • 👍 2K • 💬 158 • ⏱️ 17:10 • 1d ago
 
 ---
 
@@ -375,7 +351,27 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 77K • 👍 2K • 💬 155 • ⏱️ 10:13 • 16h ago
+👁️ 89K • 👍 2K • 💬 171 • ⏱️ 10:13 • 20h ago
+
+---
+
+**[Britain seized 61,000 Bitcoin. The victims may never see it.](https://www.youtube.com/watch?v=82FDS94Rp8w)**
+
+Roughly $800 million in leveraged crypto positions got liquidated overnight, 86% of them longs. Bitcoin fell to just under $81000 ...
+
+📺 Yahoo Finance
+
+👁️ 10K • 👍 287 • 💬 266 • ⏱️ 14:51 • 5h ago
+
+---
+
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=-eKtrrN5P48)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 126K • 👍 3K • 💬 151 • ⏱️ 11:43 • 1d ago
 
 ---
 
@@ -385,7 +381,7 @@ Subscribe to *Crypto Elix:* https://www.youtube.com/@CryptoElix BYBIT: http://th
 
 📺 The Moon Show
 
-👁️ 12K • 👍 786 • 💬 23 • ⏱️ 9:31 • 6h ago
+👁️ 18K • 👍 917 • 💬 30 • ⏱️ 9:31 • 11h ago
 
 ---
 

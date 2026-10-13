@@ -15,26 +15,6 @@
       "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     },
     {
-      "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjBBcElyLWRYdHJubmVBTEdxSXFiWGY4M2Iwc0NmSFRUcGVmWFptWWR6dWVOWHFtd3NWRUJCZklCRTgyODJLeENaNndnZnFfT2ZjcnpiQ2NqMmxxN3dPMExOU1J6amlabEl3ZVBQWE1pYzhIUGQ0OHNUZ3I5RUE5cm45UGhDTWw1VjJza0FrQmhuRW9xQ3ZjbE9MRXMyN2xYb05HUUdsMk9zUVQzVTljUGZrSE01UQ?oc=5",
-      "pub_date": 1791808990.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
-      "description": "The second-largest corporate employer has bet big on robot workers to scale."
-    },
-    {
-      "headline": "Georgia Tech's new AI supercomputer could help advance medicine, robotics and energy research",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnR6MTFXNzU5M3B0eXhNdzdFbFk3QnBkcWtEZTQxd3NfUkttOGJxeVdvS2VMazJIeEttVDM3aHh2VVkzY0ZvTmFoLXhEN1RKekdaemMtY1ZzRHdQbjZVaXZTUGN0Q1c5dzRacWg0X1BvaHpQR2s1TzhlUXQ2SzN4TjRJMEdNVDZZdHI5N3ZCdFg1X2NDUEwwOXFhR2lHR1BaZjdSZVc5X3RfTVE5WmJOQWZfQmNlNm9XVzM1YzRjMkthS2JXYXBoZw?oc=5",
-      "pub_date": 1791911111.0,
-      "article_url": "https://www.cbsnews.com/atlanta/news/georgia-techs-new-ai-supercomputer-could-help-advance-medicine-robotics-and-energy-research/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/13/0b610f73-8608-4f06-8f31-2708d6dae526/thumbnail/1200x630/306645d25e0f4cda66781c496a873b3a/gettyimages-94605936.jpg",
-      "description": "Georgia Tech is opening access to Nexus, a new AI supercomputer in Atlanta that will help researchers across the country tackle projects too large or complex for a regular computer."
-    },
-    {
       "headline": "Chinese Robots Could Decide the AI Race",
       "source": "Foreign Affairs",
       "source_url": "https://www.foreignaffairs.com",
@@ -45,24 +25,44 @@
       "description": "Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie\u2019s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind."
     },
     {
-      "headline": "Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFydDhqa1ZHMXlGZUVGOEFTWEo0dkpOVkI3Qk45Nk9EY0xkMjh0dllDOXdGb0VQVlp3b0VIeTZuZEQtV1NscnNfNkp0YzRMUHhwal9HNmtMLWw4VkJrS3U5YmVMSlMteGFHVThjOFVkTlVNWnBfaHZPLWRaWnIzU25DZ2RzTk84YW14NDJtYWNaano4R25Xb2x3M3RQa2hZTnV2SlFhQkFrWWhxR013LXpzS05qbDFEZ1VHcUJFUUdqNm1KZnc?oc=5",
-      "pub_date": 1791722225.0,
-      "article_url": "https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night",
-      "image": "https://images.euronews.com/articles/stories/09/94/77/77/1200x675_cmsv2_2f7e46f0-a4bb-51bd-979c-0d235337ece9-9947777.jpg",
-      "description": "Video. Denmark\u2019s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night."
+      "headline": "Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHA4cTF3bUEtVGEyVzVqNDNQOVVkSkpoRUxIVjhiRlZEdW5vSjNEeGc2Z3VrOHZiLWczLXYwUXNlcFFwTlM5d2w1aFR2MlRvRExDM3FvQ3hFa080dGV5MWdzTnpHQ3ZtVTJ0TU1WQUxOTjRUam9BejFCNmEzVUszVlJsVnpKR1dvOTVJSFNjR1V1Nll6aXphelZndFY4VWpZeTY5SU9qNnNqa0ZWcjg1YWxfNXcyYzhicnNV?oc=5",
+      "pub_date": 1791927422.0,
+      "article_url": "https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/05692c276f3943f43c6a78f1b19566c71d1f1d37cb7adf6de084e011bfb0dca0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F4df6e6a4-9c7e-4c10-b867-fb61b493e709",
+      "description": "In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president."
     },
     {
-      "headline": "I watched 6-foot robots fight with blades. This is San Francisco now",
-      "source": "The San Francisco Standard",
-      "source_url": "https://sfstandard.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XLXBxRmhINndGQ0pfdnVkb3BEemg4bkNfWmlfTW5WUFFLT0FWS21DUkZpNmJKQ0VFRXF5NEJHU3NhTktjOVAtdWhFbXpSakRrdkp0dElVN0RDSFBmS3JrWkpGMUtBM2N4T2kxN0U5MHBrVjg?oc=5",
-      "pub_date": 1791723600.0,
-      "article_url": "https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_fupib42ovd3ph9jui5fphba64e/-S1200x630-FPNG",
-      "description": "At a Van Ness arena, 200-pound robots wielded steel blades."
+      "headline": "Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1NicmFvaGVSM1RrTlhtMU5pcU8xQ0thU3BPRG9JZ3c4NDhFeFQyR2lLdkJTY0FlOVAydWhoeElRNl9STkpuR1p0NzJPOUJ4ZDI5QlBtVlNJMnBBbjNKSXdzaEJKWEhYZGt3RUVJWWVFSXMxLVVVTlhaTGI1OU1tc2V5VmdodGx4eldicmJ6WW8wQ2sxc0czTkhGRnlTTVVwNXdOaG4tRFliUzJKMW9BRXJ6ejdmaFpaeWJLa3ZWSEF2WnNHaDNGbUtJb2pYUTN5NUJkdC1mZm9CMElpcXgtZUkxTXdVTHVKeE1jNlRSUmctbUYtWk16Sw?oc=5",
+      "pub_date": 1791880200.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEM2eU9TZDJ3d0pNWVJTZnhwMk5YaFZ5OUEzOHlfRXpnX1ZzTU9PYjZqeXhQUG1xQ3Z0RzdOeWZDcXV4WnpCUVRqVmV5bDVoRnM2cFpIalNWZlo3OFR5WGlUdGdZd0x3cTZXdmp4bThXaUx5MVppN3E5eTJ1OVFibE0xWTBrT1B0bDk1YWpEWGVqV1YteEpOZU1uN1dnRWV5WkN6Ng?oc=5",
+      "pub_date": 1791916203.0,
+      "article_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Doug-Field.jpg?resize=800,1200",
+      "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3."
+    },
+    {
+      "headline": "Scoop: Bedrock Robotics raising $600M to automate construction",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1hXOER0Vlliajc3NE1aU0w3MEtXdi1jcHJnTDRwTEllOC1uREZWaTgyOUJXVjhyVU5md2pWODE1SEdxbGJOYlZYRWNqZkZQemQ2dnFPZER3Nzg4b0UwVFR4UWYwOHo5Mjdnd3VvZDVNTlhEampkSm9YTjlfUzE5eFFFQXZKRUR1?oc=5",
+      "pub_date": 1791925639.0,
+      "article_url": "https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Stryker enters soft tissue robotics with $400M investment in CMR Surgical",
@@ -85,26 +85,26 @@
       "description": "As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations."
     },
     {
-      "headline": "TD Synnex CEO: BlueStar Acquisition, Kuka Robotics Pact Fuel New Physical AI Push",
-      "source": "CRN",
-      "source_url": "https://www.crn.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOElnYlNSdTJEQXNENDh3NDFCUFJxU3YzQ2ROb2NKVGRZZ0lzaGhUVmU4X09mX3BYdjBxYjVQX2FSR09Hb24tZlZWSUJYMXQ3cUsyelNERFEzN3dNeUdfYnBCTjRDTEttM0twR2ZTbnJMRWZ1QWRNZnVSQzBva2NhNWduTXV2a1Z2OUE0ekZLSnV2aEhqWVpuMDRSR3A4Rlp4dGFZZUVmckdsMGJxdkMwQ29mSkhWNEV6Z0F1NmlkZw?oc=5",
-      "pub_date": 1791812400.0,
-      "article_url": "https://www.crn.com/news/channel-news/2026/td-synnex-ceo-bluestar-acquisition-kuka-robotics-pact-fuel-new-physical-ai-push",
-      "image": "https://www.crn.com/news/channel-news/2026/media_1fd383ef1dcb766aa4df0c04210d5069d2559bb55.png?width=1200&format=pjpg&optimize=medium",
-      "description": "TD Synnex CEO Patrick Zammit told CRN that the distributor is moving big into physical AI with its BlueStar acquisition and Kuka robotics distribution agreement."
+      "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjBBcElyLWRYdHJubmVBTEdxSXFiWGY4M2Iwc0NmSFRUcGVmWFptWWR6dWVOWHFtd3NWRUJCZklCRTgyODJLeENaNndnZnFfT2ZjcnpiQ2NqMmxxN3dPMExOU1J6amlabEl3ZVBQWE1pYzhIUGQ0OHNUZ3I5RUE5cm45UGhDTWw1VjJza0FrQmhuRW9xQ3ZjbE9MRXMyN2xYb05HUUdsMk9zUVQzVTljUGZrSE01UQ?oc=5",
+      "pub_date": 1791828286.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
+      "description": "The second-largest corporate employer has bet big on robot workers to scale."
     },
     {
-      "headline": "Robots are proving to be a handful for Elon Musk",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUNmN21yWVRfR0plMnVTQjdVUExCSEZUTlFMSnpjSXJrTy0zNEpEQmM2MTRGNThka2ZkUG54cU1zWDRWVkcwWnVmLVJfcWZKczNnUVBSSklic0JaVmZxM2lPSFpoaDMwVlk3VUhEUi13aVE1OVczU3VqZGI5Y2F3cldwRHBWQ0Z4eVlQQk9JWElpRnptS0Jz?oc=5",
-      "pub_date": 1791864600.0,
-      "article_url": "https://www.businessinsider.com/elon-musk-designing-humanoid-hand-challenges-optimus-2026-10",
-      "image": "https://i.insider.com/6acd6e7b42403ad8039a5d2d?width=1200&format=jpeg",
-      "description": "Elon Musk called designing a human hand for robots \"shockingly difficult\" and said it's problem Tesla is working on for Optimus."
+      "headline": "I watched 6-foot robots fight with blades. This is San Francisco now",
+      "source": "The San Francisco Standard",
+      "source_url": "https://sfstandard.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XLXBxRmhINndGQ0pfdnVkb3BEemg4bkNfWmlfTW5WUFFLT0FWS21DUkZpNmJKQ0VFRXF5NEJHU3NhTktjOVAtdWhFbXpSakRrdkp0dElVN0RDSFBmS3JrWkpGMUtBM2N4T2kxN0U5MHBrVjg?oc=5",
+      "pub_date": 1791723600.0,
+      "article_url": "https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_fupib42ovd3ph9jui5fphba64e/-S1200x630-FPNG",
+      "description": "At a Van Ness arena, 200-pound robots wielded steel blades."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-13T17:43:37.872758+00:00"
+  "fetched_at": "2026-10-13T22:22:08.644351+00:00"
 }

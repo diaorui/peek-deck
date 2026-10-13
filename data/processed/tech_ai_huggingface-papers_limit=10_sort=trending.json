@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2403.08299",
       "arxiv_url": "https://arxiv.org/abs/2403.08299",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2403.08299.png",
-      "upvotes": 22,
+      "upvotes": 23,
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 27432,
+      "github_stars": 28056,
       "project_page": null
     },
     {
@@ -54,27 +54,8 @@
       "num_comments": 0,
       "published_at": "2020-06-28T16:39:45.000Z",
       "github_repo": "https://github.com/pytorch/pytorch",
-      "github_stars": 104771,
+      "github_stars": 104851,
       "project_page": null
-    },
-    {
-      "id": "2609.33757",
-      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
-      "authors": "Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)",
-      "organization_name": "m-a-p",
-      "organization_fullname": "Multimodal Art Projection",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6382252f54421460665ec501/oNH4MDqpSiMWJpxbaSLOv.png",
-      "summary": "Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with 49.3% of overall preferences versus 34.6% without planning. Experts also favor the unified model over a separate language model and diffusion Transformer. On WildSongBench, YuE2 scores 6.73 on SongBench Global Avg, exceeding all evaluated public baselines. Selecting from eight candidates (best-of-8), YuE2 reaches 6.96, the highest observed mean among all evaluated systems. Expert listening further establishes its competitiveness with proprietary song generators, favoring best-of-8 over Suno v4.5 and yielding nearly balanced preferences against Suno v5. To learn this generation process from recordings without aligned scores, we introduce MERT2 and SheetSage2 to supply semantic and symbolic supervision. MERT2 sets a new state of the art in music representation learning, surpassing previous best results on 14 of 15 MARBLE metrics; SheetSage2 leads 12 of 15 benchmark-metric pairs in our lead-sheet transcription comparison. The same checkpoint follows score edits while largely preserving unedited musical content and generates zero-shot covers without cover-specific training. Its readable score also enables agentic music editing, with external language models translating user feedback into revisions of the composition.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.33757",
-      "arxiv_url": "https://arxiv.org/abs/2609.33757",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33757.png",
-      "upvotes": 234,
-      "num_comments": 3,
-      "published_at": "2026-09-26T20:00:00.000Z",
-      "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 11841,
-      "project_page": "https://map-yue2.github.io/"
     },
     {
       "id": "2609.18063",
@@ -94,6 +75,44 @@
       "github_repo": "https://github.com/Edge0-AI/edge0",
       "github_stars": 4637,
       "project_page": null
+    },
+    {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 151,
+      "num_comments": 6,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 110998,
+      "project_page": null
+    },
+    {
+      "id": "2609.33757",
+      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
+      "authors": "Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)",
+      "organization_name": "m-a-p",
+      "organization_fullname": "Multimodal Art Projection",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6382252f54421460665ec501/oNH4MDqpSiMWJpxbaSLOv.png",
+      "summary": "Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with 49.3% of overall preferences versus 34.6% without planning. Experts also favor the unified model over a separate language model and diffusion Transformer. On WildSongBench, YuE2 scores 6.73 on SongBench Global Avg, exceeding all evaluated public baselines. Selecting from eight candidates (best-of-8), YuE2 reaches 6.96, the highest observed mean among all evaluated systems. Expert listening further establishes its competitiveness with proprietary song generators, favoring best-of-8 over Suno v4.5 and yielding nearly balanced preferences against Suno v5. To learn this generation process from recordings without aligned scores, we introduce MERT2 and SheetSage2 to supply semantic and symbolic supervision. MERT2 sets a new state of the art in music representation learning, surpassing previous best results on 14 of 15 MARBLE metrics; SheetSage2 leads 12 of 15 benchmark-metric pairs in our lead-sheet transcription comparison. The same checkpoint follows score edits while largely preserving unedited musical content and generates zero-shot covers without cover-specific training. Its readable score also enables agentic music editing, with external language models translating user feedback into revisions of the composition.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.33757",
+      "arxiv_url": "https://arxiv.org/abs/2609.33757",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33757.png",
+      "upvotes": 234,
+      "num_comments": 3,
+      "published_at": "2026-09-26T20:00:00.000Z",
+      "github_repo": "https://github.com/multimodal-art-projection/YuE",
+      "github_stars": 11887,
+      "project_page": "https://map-yue2.github.io/"
     },
     {
       "id": "2610.08699",
@@ -130,26 +149,7 @@
       "num_comments": 0,
       "published_at": "2025-02-17T10:06:28.000Z",
       "github_repo": "https://github.com/microsoft/BitNet",
-      "github_stars": 41072,
-      "project_page": null
-    },
-    {
-      "id": "2412.20138",
-      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
-      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
-      "hf_url": "https://huggingface.co/papers/2412.20138",
-      "arxiv_url": "https://arxiv.org/abs/2412.20138",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 151,
-      "num_comments": 6,
-      "published_at": "2024-12-28T07:54:06.000Z",
-      "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 110884,
+      "github_stars": 41124,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 7,
       "published_at": "2019-10-08T23:23:22.000Z",
       "github_repo": "https://github.com/huggingface/transformers",
-      "github_stars": 167618,
+      "github_stars": 167690,
       "project_page": "https://huggingface.co"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-13T17:43:24.317212+00:00"
+  "fetched_at": "2026-10-13T22:21:48.066339+00:00"
 }
