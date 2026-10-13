@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-12T21:35:40.240413+00:00'
+updated: '2026-10-13T02:51:54.436983+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 12, 2026 at 21:35 UTC  
+**Last Updated:** October 13, 2026 at 02:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[R.I.P.](https://www.reddit.com/r/artificial/comments/1x3w15b/rip/)**
 
-13h ago
+18h ago
+
+---
+
+**[Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each — an AI worm with no central point to shut off](https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/)**
+
+Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.
+
+🔗 [anthropic.com](https://www.anthropic.com/research/self-replicating-ai) • 5h ago
 
 ---
 
@@ -47,7 +55,15 @@ AI news, discussions, and developments
 
 Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10) • 6h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10) • 11h ago
+
+---
+
+**[Linux founder Linus Torvalds says AI is a “gateway drug” into programming — but cautions about using AI for “serious” work](https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/)**
+
+Torvalds said AI can do “really good code” but warned against it when users are unsure what the end result should be.
+
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/linux-founder-linus-torvalds-says-103004221.html) • 4h ago
 
 ---
 
@@ -55,7 +71,15 @@ Some AI believers expect the technology to make smoking-related health risks lik
 
 Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/10/261008005254.htm) • 2h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/10/261008005254.htm) • 7h ago
+
+---
+
+**[AI Companies have terrible customer service](https://www.reddit.com/r/artificial/comments/1x4ij7r/ai_companies_have_terrible_customer_service/)**
+
+Myself and several others have experienced consistently terrible customer service from AI companies. Getting in touch with a human support agent is often impossible, leaving customers stuck in endless loops with AI support bots that repeatedly acknowledge issues and request more information without ever resolving anything. When issues are raised, companies often refuse refunds and offer little to no meaningful resolution, even when their own technical bugs cause usage limits to malfunction. Rather than taking responsibility, they shift the blame onto customers and hide behind their terms and conditions to justify denying refunds. This is unfair. Customers shouldn't have to pay for technical errors they didn't cause or waste time chasing support instead of actual solutions. AI companies need to take accountability, treat customers fairly, and resolve problems rather than simply acknowledge them. Terms and conditions should not be an excuse to evade responsibility. A few companies I've seen this issue with include Anthropic, OpenRouter, and Hugging Face. What companies have any of use faced this issue with?
+
+2h ago
 
 ---
 
@@ -63,7 +87,7 @@ Scientists have discovered a hidden cleanup system at the back of the eye that d
 
 It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cw0k0g57mk3zo) • 16h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cw0k0g57mk3zo) • 21h ago
 
 ---
 
@@ -75,53 +99,17 @@ It's a protest now.
 
 ---
 
-**[The Internet is wild😂😂](https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/)**
+**[Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal](https://www.reddit.com/r/artificial/comments/1x4i9uh/lawyer_cites_chatgptinvented_fake_witnesses_in/)**
 
-1d ago
+"Do you watch the news? Do you listen to the radio? Do you read anything about what's going on in the world?” one of the judges asked the lawyer, who submitted false testimony and witnesses after using ChatGPT.
 
----
-
-**[A quantum prediction from 1931 has finally come to life](https://www.reddit.com/r/artificial/comments/1x3z1ho/a_quantum_prediction_from_1931_has_finally_come/)**
-
-Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were able to make groups of atoms bind together without ordinary chemical bonds. These strange clusters could contain six or more particles and even collide with one another without falling apart.
-
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/10/261006234517.htm) • 10h ago
+🔗 [404 Media](https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/) • 2h ago
 
 ---
 
 **[me: gonna make the scariest horror game ever also me: too scared to test my own game 💀](https://www.reddit.com/r/artificial/comments/1x4cptr/me_gonna_make_the_scariest_horror_game_ever_also/)**
 
-1h ago
-
----
-
-**[AI models fail to help in mental health crises despite recognizing danger, study finds](https://www.reddit.com/r/artificial/comments/1x4c8xt/ai_models_fail_to_help_in_mental_health_crises/)**
-
-Recognizing a mental health crisis isn’t the same as helping someone through it.
-
-NEWS: Today, Scale AI is introducing DistressBench, a clinician-authored benchmark that tests whether AI models provide the help called for when someone is facing a suicide or self-harm crisis.
-
-We evaluated 25 frontier models using 718 clinician-written conversations, each with specific criteria for what a helpful response needs to include. The findings show a gap between recognizing danger and responding appropriately:
-
-• In more than a third of conversations where models recognized a crisis, they still failed to provide help or resources.
-• On average, models left out nearly 3 in 10 required response steps.
-• When shown their own failed response alongside a better one, most models identified the better response but still declined to provide it.
-
-That last finding is especially striking. A model can recognize a more helpful answer and still fail to deliver it.
-
-Our hope is that benchmarks like this give researchers concrete evidence of where responses fall short and what needs to improve. People will increasingly turn to AI in their hardest moments - we need safety testing that keeps up with what people are asking of these systems. 
-
-https://lnkd.in/gSRNJFQ2 | 16 comments on LinkedIn
-
-🔗 [LinkedIn](https://www.linkedin.com/posts/francisdesouza_recognizing-a-mental-health-crisis-isnt-share-7514334685217579008-RR38/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 1h ago
-
----
-
-**[Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each — an AI worm with no central point to shut off](https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/)**
-
-Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.
-
-🔗 [anthropic.com](https://www.anthropic.com/research/self-replicating-ai) • 22m ago
+6h ago
 
 ---
 
@@ -131,23 +119,29 @@ Small AI models may be only months away from being able to self-replicate across
 
 **[Epic Games Delays Disney Project, Asks Developers to Use More AI](https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Report: Epic Games goes all-in on AI for Disney collaboration](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)**
+**[Epic Games reportedly pivoting to "AI first" game development model](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)**
 
 No more hand-written code" or AI-free art for delayed Marvel/Star Wars shooter.
 
-Ars Technica • 35m ago
+Ars Technica • 5h ago
 
 ---
 
-**[Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes](https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes)**
+**[Epic Games delays Disney game and tells developers to go "AI first"](https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first)**
 
-Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.
+Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars…
 
-GamesIndustry.biz • 2h ago
+GamesIndustry.biz • 6h ago
+
+---
+
+**[Meta Unveils New Series of Advanced A.I. Models](https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html)**
+
+The New York Times • 9h ago
 
 ---
 
@@ -155,27 +149,23 @@ GamesIndustry.biz • 2h ago
 
 Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.
 
-CNBC • 4h ago
+CNBC • 9h ago
 
 ---
 
-**[Meta Unveils New Series of Advanced A.I. Models](https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html)**
+**[Meta unveils new AI models to challenge rivals](https://www.yahoo.com/news/videos/meta-unveils-ai-models-challenge-012404061.html)**
 
-The New York Times • 4h ago
+Meta has unveiled new artificial intelligence models it says can compete with the industry's leading systems. Bloomberg tech reporter Riley Griffin joins CBS News with more.
 
----
-
-**[Video: Meta Debuts New A.I. Models to Compete With Rivals](https://www.nytimes.com/video/technology/100000011209491/meta-new-ai-models-muse-wonder.html)**
-
-The New York Times • 4m ago
+Yahoo • 1h ago
 
 ---
 
-**[Could AI-powered drones soon be making battlefield decisions in Ukraine?](https://www.npr.org/2026/10/12/nx-s1-5998788/could-ai-powered-drones-soon-be-making-battlefield-decisions-in-ukraine)**
+**[Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF](https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html)**
 
-Both Russia and Ukraine are using drones powered by artificial intelligence. But soon, AI could start leading the decisions on the battlefield as well. We visit one Ukrainian company that's working to make this a reality.This episode was produced by Sophia Paliza-Carre and Karen Zamora, with audio engineering by Tiffany Vera Castro and Valentina Rodríguez Sánchez. Our director is Jonas Adams.It was edited by Hannah Bloch and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.
+The IMF raised its 2026 global growth forecast to 3.1%, as AI investment helped offset the war’s energy shock.
 
-NPR • 44m ago
+CNBC • 50m ago
 
 ---
 
@@ -183,7 +173,7 @@ NPR • 44m ago
 
 Microsoft has launched its new Maia 300 AI chip.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -191,13 +181,13 @@ Yahoo Finance • 8h ago
 
 By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.
 
-CNBC • 8h ago
+CNBC • 13h ago
 
 ---
 
-**[Nvidia and AMD shares fall as new AI announcements fail to re-energize investors](https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766)**
+**[Nvidia's China AI-chip share falls as Huawei closes gap, report finds](https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/)**
 
-MarketWatch • 16m ago
+Reuters • 18m ago
 
 ---
 
@@ -210,7 +200,7 @@ MarketWatch • 16m ago
 Followup discussion at https://lists.osgeo.org/pipermail/qgis-developer/2026-September/068576.html.
 This formally changes the AI policy to a strict "NOT ALLOWED" policy.
 
-⬆️ 351 • 💬 388 • 10h ago • [GitHub](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
+⬆️ 367 • 💬 398 • 15h ago • [GitHub](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
 
 ---
 
@@ -222,25 +212,33 @@ Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note
 
 ---
 
-**[Why aren't AI companies being charged for hacking?](https://news.ycombinator.com/item?id=50057278)**
-
-⬆️ 299 • 💬 312 • 6h ago • [mortoray.com](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
-
----
-
 **[AI coding agents generate more code, but not more software](https://news.ycombinator.com/item?id=50059523)**
 
 Study finds coding efficiency gains get "absorbed" by human review "bottleneck."
 
-⬆️ 246 • 💬 201 • 4h ago • [Ars Technica](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
+⬆️ 313 • 💬 275 • 9h ago • [Ars Technica](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 
 ---
 
-**[Anthropic AI model submits false tip on unsolved Philly murder, police say](https://news.ycombinator.com/item?id=50027118)**
+**[Why aren't AI companies being charged for hacking?](https://news.ycombinator.com/item?id=50057278)**
 
-An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
+⬆️ 312 • 💬 333 • 11h ago • [mortoray.com](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
 
-⬆️ 212 • 💬 156 • 2d ago • [NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
+---
+
+**[AI is a tool and using it well takes skill](https://news.ycombinator.com/item?id=50063427)**
+
+A response to Rich Hickey's "'AI' is Not a Tool": automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.
+
+⬆️ 250 • 💬 216 • 5h ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+
+---
+
+**['AI' Is Not a Tool by Rich Hickey](https://news.ycombinator.com/item?id=50060269)**
+
+(I keep delivering this as a quip, here's a bit more) First order of business - is 'tool' going to have an interesting, distinguishing and thus illuminative meaning or be a mere platitudinous stand-in for "anything useful"? We'll save tool as "anyone/thing that can be exploited" for the AI titans, f
+
+⬆️ 232 • 💬 115 • 8h ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 
 ---
 
@@ -249,7 +247,7 @@ An investigation is underway after an AI model from the company Anthropic submit
 During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.
 The avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.
 
-⬆️ 207 • 💬 149 • 1d ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+⬆️ 209 • 💬 149 • 2d ago • [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 
 ---
 
@@ -263,7 +261,7 @@ The avid reader of my blog might have noticed that I had previously written two 
 
 A UC Berkeley researcher raises profound questions about how we interact with artificial intelligence in daily life.
 
-⬆️ 162 • 💬 136 • 1d ago • [vcresearch.berkeley.edu](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
+⬆️ 174 • 💬 139 • 1d ago • [vcresearch.berkeley.edu](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
 
 ---
 
@@ -271,15 +269,7 @@ A UC Berkeley researcher raises profound questions about how we interact with ar
 
 Kelly predicted AI heavyweights while advocating for a future of open weights
 
-⬆️ 97 • 💬 24 • 6h ago • [taylor.town](https://taylor.town/kk-ai-2026)
-
----
-
-**[Nicolas Cage says he won't work with Amazon again over AI dispute](https://news.ycombinator.com/item?id=50041873)**
-
-Nicolas Cage, who recently starred in "Spider-Noir," said he won't work with Amazon again after a disagreement over an AI waiver.
-
-⬆️ 96 • 💬 36 • 1d ago • [Los Angeles Times](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)
+⬆️ 147 • 💬 47 • 11h ago • [taylor.town](https://taylor.town/kk-ai-2026)
 
 ---
 
@@ -287,13 +277,43 @@ Nicolas Cage, who recently starred in "Spider-Noir," said he won't work with Ama
 
 ## YouTube Videos: "ai"
 
+**[Bill Gates calls AI ‘the most dangerous technology’ ever invented](https://www.youtube.com/watch?v=tj1dFIUAs7A)**
+
+Bill Gates predicts "the most dangerous technology humans ever invented" will likely lead to "a lot of negative surprises" in the ...
+
+📺 CNN
+
+👁️ 144K • 👍 1K • 💬 614 • ⏱️ 10:47 • 4h ago
+
+---
+
 **[Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip](https://www.youtube.com/watch?v=ZHizu-koBDA)**
 
 Anthropic PBC said its Claude AI model went rogue and carried out unintended actions on the digital systems of outside ...
 
 📺 Bloomberg Television
 
-👁️ 9K • 👍 67 • 💬 39 • ⏱️ 3:45 • 6h ago
+👁️ 13K • 👍 79 • 💬 45 • ⏱️ 3:45 • 11h ago
+
+---
+
+**[CYBER THREAT: Bill Gates SOUNDS ALARM over looming AI dangers](https://www.youtube.com/watch?v=OdOVSqF0tDY)**
+
+'CyberGuy' Kurt Knutsson joins 'Fox & Friends First' to discuss Bill Gates' warning of AI-powered cyberattacks and artificial ...
+
+📺 Fox News Clips
+
+👁️ 7K • 👍 72 • 💬 52 • ⏱️ 3:37 • 12h ago
+
+---
+
+**[AI Billionaires’ Bailout Talk Sparks a FURIOUS Response](https://www.youtube.com/watch?v=lkfFebXtIus)**
+
+"The Big Short" Investor Michael Burry claims the AI bubble "may burst sooner than later." Cenk Uygur and Ana Kasparian discuss ...
+
+📺 The Young Turks
+
+👁️ 49K • 👍 1K • 💬 354 • ⏱️ 7:22 • 10h ago
 
 ---
 
@@ -303,17 +323,7 @@ Tristan Harris worked at Google before devoting his life to saving humanity from
 
 📺 Tucker Carlson
 
-👁️ 134K • 👍 4K • 💬 796 • ⏱️ 2:04:03 • 4h ago
-
----
-
-**[Make LONG AI Videos FREE &amp; UNLIMITED in 2026](https://www.youtube.com/watch?v=IQaF5gr0HM8)**
-
-Bring your ideas to life with Higgsfield + ChatGPT → https://higgsfield.ai/s/malvaai-hJZoLA Free Prompt PDFs + AI Directory ...
-
-📺 Malva AI
-
-👁️ 16K • 👍 371 • 💬 63 • ⏱️ 9:32 • 11h ago
+👁️ 286K • 👍 6K • 💬 1K • ⏱️ 2:04:03 • 9h ago
 
 ---
 
@@ -323,7 +333,7 @@ Bring your ideas to life with Higgsfield + ChatGPT → https://higgsfield.ai/s/m
 
 📺 Zeteo
 
-👁️ 22K • 👍 595 • 💬 109 • ⏱️ 33:11 • 7h ago
+👁️ 30K • 👍 707 • 💬 124 • ⏱️ 33:11 • 12h ago
 
 ---
 
@@ -333,7 +343,17 @@ follow me on instagram if you wanna keep up :) https://instagram.com/casterline.
 
 📺 John Casterline
 
-👁️ 545K • 👍 27K • 💬 2K • ⏱️ 17:25 • 20h ago
+👁️ 755K • 👍 32K • 💬 2K • ⏱️ 17:25 • 1d ago
+
+---
+
+**[The Easiest Way to Make Money With AI Right Now](https://www.youtube.com/watch?v=22Jpzt683jw)**
+
+Use code KOERNER to get your .Online domain at just $0.99 for the first year https://get.online/tko9 ━ UPDATE - We put together ...
+
+📺 Chris Koerner on The Koerner Office Podcast
+
+👁️ 56K • 👍 906 • 💬 62 • ⏱️ 37:48 • 1d ago
 
 ---
 
@@ -343,47 +363,17 @@ While speaking with CNN's Jake Tapper on Sunday, Microsoft co-founder Bill Gates
 
 📺 Forbes Breaking News
 
-👁️ 15K • 👍 46 • 💬 26 • ⏱️ 2:02 • 21h ago
+👁️ 16K • 👍 49 • 💬 26 • ⏱️ 2:02 • 1d ago
 
 ---
 
-**[Abacus AI&#39;s New Personal Agents Are Creating a New Kind of Internet](https://www.youtube.com/watch?v=u4oTy7Qi8Sk)**
+**[AI Just Crossed a Terrifying Line - Nuclear Engineer Reacts to Kurzgesagt](https://www.youtube.com/watch?v=8ExyIscsvAc)**
 
-Abacus AI's new Personal Agents can now communicate across WhatsApp and Telegram, share memory, and coordinate work ...
+OpenAI's Incident Report: ...
 
-📺 AI Revolution
+📺 T. Folse Nuclear
 
-👁️ 16K • 👍 364 • 💬 32 • ⏱️ 13:25 • 23h ago
-
----
-
-**[Can You Tell This Commercial Is AI? #AIFilmmaking #Shorts](https://www.youtube.com/watch?v=ISz7fORY6oM)**
-
-A 30-second commercial made with AI, from the first prompt to the final edit. See how Higgsfield, Claude Opus 5.5 and Seedance ...
-
-📺 Higgsfield AI
-
-👁️ 2K • 👍 115 • 💬 1 • ⏱️ 0:39 • 5h ago
-
----
-
-**[The Easiest Way to Make an AI Series in ChatGPT #AI #ChatGPT](https://www.youtube.com/watch?v=0qeBjY3tvDE)**
-
-Build an AI short drama inside ChatGPT with Higgsfield. Start with a story, write scenes and dialogue, create consistent characters ...
-
-📺 Higgsfield AI
-
-👁️ 6K • 👍 225 • 💬 1 • ⏱️ 0:55 • 8h ago
-
----
-
-**[AI Just Got a Lot Scarier](https://www.youtube.com/watch?v=BIbk3s8BlBM)**
-
-Subscribe to @kurzgesagt https://www.youtube.com/watch?v=ujkD4SxPKOI follow me on twitter: https://twitter.com/LudwigAhgren ...
-
-📺 Ludwin
-
-👁️ 430K • 👍 5K • 💬 443 • ⏱️ 32:50 • 22h ago
+👁️ 452K • 👍 7K • 💬 2K • ⏱️ 43:25 • 2d ago
 
 ---
 
@@ -399,7 +389,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 115,763 • ❤️ 1,919 • 6d ago
+⬇️ 115,763 • ❤️ 1,948 • 6d ago
 
 ---
 
@@ -411,7 +401,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 46,070 • ❤️ 1,307 • 4d ago
+⬇️ 46,070 • ❤️ 1,332 • 4d ago
 
 ---
 
@@ -423,7 +413,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 6,787 • ❤️ 625 • 11h ago
+⬇️ 6,787 • ❤️ 642 • 17h ago
 
 ---
 
@@ -435,7 +425,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,188,658 • ❤️ 4,089 • 14h ago
+⬇️ 2,188,658 • ❤️ 4,103 • 19h ago
 
 ---
 
@@ -447,7 +437,7 @@ Clef is a 27B multimodal model that takes structured typed questions and a state
 
 `image-text-to-text` `27.4B`
 
-⬇️ 15,064 • ❤️ 2,086 • 3d ago
+⬇️ 15,064 • ❤️ 2,097 • 3d ago
 
 ---
 
@@ -459,7 +449,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,719,766 • ❤️ 7,465 • 1d ago
+⬇️ 1,719,766 • ❤️ 7,494 • 1d ago
 
 ---
 
@@ -471,7 +461,7 @@ Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient
 
 `text-generation` `26.9B`
 
-⬇️ 242,329 • ❤️ 367 • 2d ago
+⬇️ 242,329 • ❤️ 374 • 2d ago
 
 ---
 
@@ -483,7 +473,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,895,303 • ❤️ 17,572 • 1mo ago
+⬇️ 6,895,303 • ❤️ 17,581 • 1mo ago
 
 ---
 
@@ -495,7 +485,7 @@ d1-3B is a 3.1B parameter multimodal decision model excelling at calibrated, sin
 
 `image-text-to-text` `3.1B`
 
-⬇️ 11,866 • ❤️ 341 • 5d ago
+⬇️ 11,866 • ❤️ 347 • 5d ago
 
 ---
 
@@ -507,7 +497,7 @@ EMA Lightning is a tiny, fast, and accurate Turkish text-to-speech model (8.6M p
 
 `text-to-speech`
 
-⬇️ 20,310 • ❤️ 388 • 6d ago
+⬇️ 20,310 • ❤️ 391 • 6d ago
 
 ---
 
@@ -523,7 +513,7 @@ EMA Lightning is a tiny, fast, and accurate Turkish text-to-speech model (8.6M p
 
 Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve. We introduce RSI-Anything, a domain-general framework built on JEPA-Anything that uses predictive world models to guide action and learning-data selection. Observed feedback drives policy or workflow improvement and conditional world-model adaptation, while component and compatibility checks govern the retention of updated policy-model pairs. Across diverse computational and scientific domains, RSI-Anything demonstrates substantial gains. In code repair, with the coder fixed, success increases from 26.3% with a static verifier to 29.2% through predictive selection and 31.2% after world-model adaptation, at comparable test usage. Graphical user interface (GUI) evaluations showed higher task completion, while average actions decrease by 39.4%. Across five successive policy versions, laboratory-planning scores more than double from 21.80% to 46.01%. In reaction optimization, RSI-Anything achieves 96.15% mean best observed yield versus 82.16% for Bayesian optimization under the same 40-experiment budget. An end-to-end immune-science application further connects workflow evolution and predictive modeling with therapeutic hypothesis generation. These results demonstrate how predictive world models and retained system updates enable recursive improvement across diverse environments.
 
-▲ 30 • 💬 1 • ⭐ 281 • 4d ago
+▲ 30 • 💬 2 • ⭐ 446 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
 
@@ -562,7 +552,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.
 
-▲ 13 • 💬 0 • ⭐ 104,698 • 76mo ago
+▲ 13 • 💬 0 • ⭐ 104,736 • 76mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2006.15704) • [💻 code](https://github.com/pytorch/pytorch)
 
@@ -590,7 +580,7 @@ Symbolic models make melody, harmony, rhythm, and form explicit but typically st
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 110 • 💬 2 • ⭐ 939 • 7d ago
+▲ 111 • 💬 2 • ⭐ 967 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -604,7 +594,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 Online reinforcement learning (RL) fine-tunes diffusion models with black-box rewards, but reverse-process methods such as Flow-GRPO are limited in efficiency by poor credit assignment, while forward-process methods such as DiffusionNFT are efficient yet unstable without carefully tuned exponential-moving-average (EMA) off-policy training. We show that NFT-style objectives contain a hidden forward--reverse consistency force that joint positive--negative training cancels only partially, and that EMA stabilizes training through restoration rather than off-policy rollouts. We introduce DiffusionART (Diffusion Reinforcement with Aggregation-First Reward Tilting), which aggregates each prompt's rewards into a shared reward-improving direction for reverse-process states, removing the consistency force by construction, and adds a trust-region-masked second update for drift-adaptive restoration without EMA tuning. It requires no differentiable reward model, remains effective with fewer samples per prompt, and supports pairwise reward models (DiffusionART-Pairwise). Across image and video generation, DiffusionART trains efficiently and stably without per-task tuning. In particular, on HunyuanVideo-13B with equally weighted visual and motion quality rewards, DiffusionART reaches the late-stage mean reward levels of DiffusionNFT and Flow-GRPO-Fast with 12.02 and 11.72 times fewer GPU hours, respectively, while achieving 28.8% and 53.0% higher mean training rewards.
 
-▲ 228 • 💬 1 • ⭐ 72 • 5d ago
+▲ 231 • 💬 4 • ⭐ 72 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.12572) • [💻 code](https://github.com/vanzll/DiffusionART) • [🔗 project](https://vanzll.github.io/diffusionart-project/)
 
@@ -636,16 +626,15 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 90 • 💬 7 • ⭐ 90,744 • 27mo ago
+▲ 18 • 💬 0 • ⭐ 40,880 • 20mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -669,7 +658,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.4k • 🔱 1.8k • 15h ago
+⭐ 7.4k • 🔱 1.8k • 20h ago
 
 ---
 
@@ -679,7 +668,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.5k • 🔱 440 • 7d ago
+⭐ 6.5k • 🔱 441 • 7d ago
 
 ---
 
@@ -689,7 +678,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.1k • 🔱 709 • 19h ago
+⭐ 5.1k • 🔱 716 • 1d ago
 
 ---
 
@@ -699,7 +688,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.0k • 🔱 833 • 1h ago
+⭐ 5.0k • 🔱 835 • 6h ago
 
 ---
 
@@ -709,7 +698,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.5k • 🔱 119 • 11h ago
+⭐ 4.5k • 🔱 121 • 16h ago
 
 ---
 
@@ -719,7 +708,7 @@ AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
 `Go`
 
-⭐ 3.5k • 🔱 6.0k • 2d ago
+⭐ 3.6k • 🔱 6.0k • 2d ago
 
 ---
 
@@ -729,7 +718,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.5k • 🔱 141 • 3d ago
+⭐ 3.5k • 🔱 142 • 3d ago
 
 ---
 
@@ -739,7 +728,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.1k • 🔱 215 • 12h ago
+⭐ 3.2k • 🔱 216 • 18h ago
 
 ---
 
@@ -749,7 +738,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 563 • 10h ago
+⭐ 3.0k • 🔱 564 • 15h ago
 
 ---
 

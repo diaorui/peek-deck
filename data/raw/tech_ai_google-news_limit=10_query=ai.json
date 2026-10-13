@@ -15,7 +15,7 @@
       "description": null
     },
     {
-      "headline": "Report: Epic Games goes all-in on AI for Disney collaboration",
+      "headline": "Epic Games reportedly pivoting to \"AI first\" game development model",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3ZDOS1wQVVMV1hiTHBLM0hqc0p0QzdGRmpESUZxRFpnakNqOWVwTlJGbnRJc2F0WnZoMFl6WXN0eG1feUJSUGQ4VUdPYXJRU3JzMmZ1ZWdnSWdhOXN0Q2l3ZEd4NWhBdDFJc3Fsd0h4NEVpdmVvTHVOUGh0NDdGMjM5bF9NcUdCdEJOY0EwNjBUeWhRZkx5bGVUdVhpQzVEUnc?oc=5",
@@ -25,24 +25,14 @@
       "description": "No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter."
     },
     {
-      "headline": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
+      "headline": "Epic Games delays Disney game and tells developers to go \"AI first\"",
       "source": "GamesIndustry.biz",
       "source_url": "https://www.gamesindustry.biz",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3dJX3VFZ19jamJXUWptZ29TSVkwTmVPMmhBMzZDb2hyajdmNVFfQmtxMGwwN2xoYnZucHljc0ZCYjMzSWVsbUgyOGFOQUl4V1pJdWtCdnR3OTFEZU5QMDl4M3V4OXZOdzJtTHVMdTFUeGxFVXRIcFRqLUtCZXhyVTl5OXhkWlhOclZ0ZUhPX2R5cENCbzhNVnI5S2dKSC1kUUNwUkVXLXJTUVpSSWNiaFAzUGI0ZllyNzFr?oc=5",
-      "pub_date": 1791830965.0,
-      "article_url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-at-19.25.58.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "description": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes."
-    },
-    {
-      "headline": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
-      "pub_date": 1791824425.0,
-      "article_url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&w=1920&h=1080",
-      "description": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it."
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3hKQUNuYUl4ZVNvNUZETkY5NVZCaGU1Z29mZXlMVlZxaUJKcVRaNGw5bkFXMjN0VGUtTTFVeV9NZ0hYMENMZDI2emF4WXh2b0VRYlJrcjNvRzlDeGxEVXU3RGJNODN0UDFocnNhRFNVWDI2NDBIWUgxTV9mSlNhQ0FfTnRoZGE2X0tBcmJ0YW1XWjlWZVMyZ3Q4WQ?oc=5",
+      "pub_date": 1791834898.0,
+      "article_url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "image": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "description": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars\u2026"
     },
     {
       "headline": "Meta Unveils New Series of Advanced A.I. Models",
@@ -55,24 +45,34 @@
       "description": null
     },
     {
-      "headline": "Video: Meta Debuts New A.I. Models to Compete With Rivals",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUMtQUh3dFJKaXpuQUplWDF2NDQwYnFEUWNrTC03eV8wdGhZVGlpNV9KdmNDSWY1ZE4xZ3ZId0hIN2RhUlFheDVwTFlXazg2clR0Uk1kUWt4bDlfdl9nOVE3dVZjVFJ0T2lMX2k2cXBsZjV0R1hvUFY1ZDJjRmFyT3FVd3NrbUdYc29Na291N0RoQkRmc0RF?oc=5",
-      "pub_date": 1791840675.0,
-      "article_url": "https://www.nytimes.com/video/technology/100000011209491/meta-new-ai-models-muse-wonder.html",
-      "image": null,
-      "description": null
+      "headline": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
+      "pub_date": 1791824425.0,
+      "article_url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&w=1920&h=1080",
+      "description": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it."
     },
     {
-      "headline": "Could AI-powered drones soon be making battlefield decisions in Ukraine?",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHdIaXk2MkZMVWJwMFdrSXczeG9aU0lDUzluV1N0ekdTbGxadHh5RFMxZlNxdDZId0RxWjdObGNBLThHNUllRmdMR19zVTBMc1lBNF9CVk1CNmdfWnluUGlLcWRacDlnTTVHNk9TMFQ5Z0lLeDA3eU9YWnpuWVVTMTI5aHFpU2l6ZVl4R29ad0ZtNGtVYkNTOHhBTHNETmU4b1JSbWU5YkZVWXRZRWtSeTlVM21Yenc?oc=5",
-      "pub_date": 1791838271.0,
-      "article_url": "https://www.npr.org/2026/10/12/nx-s1-5998788/could-ai-powered-drones-soon-be-making-battlefield-decisions-in-ukraine",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x3402+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F5b%2F72caf6b84e49942e1211951612bc%2Fbf91a4ea-6c04-484f-aeb5-f466739f777c.jpg",
-      "description": "Both Russia and Ukraine are using drones powered by artificial intelligence. But soon, AI could start leading the decisions on the battlefield as well. We visit one Ukrainian company that's working to make this a reality.This episode was produced by Sophia Paliza-Carre and Karen Zamora, with audio engineering by Tiffany Vera Castro and Valentina Rodr\u00edguez S\u00e1nchez.\u00a0Our director is Jonas Adams.It was edited by Hannah Bloch and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show\u2019s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org."
+      "headline": "Meta unveils new AI models to challenge rivals",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzNQblVERnRyNmtUbkYtY29TVHl0VnFpaklYSG9OcmhKc0RhTWhNWExJZElPc0pxUVh2WTRlQklhUEVtaThkd19ZOTUzckxqOS1YZnNsaV83c29FTGg1U1lLR1EtZFFsSGp3VmIzYm9BaHp5M0l5ampTX2dpNkVwUVA0aWVWWGlW?oc=5",
+      "pub_date": 1791854640.0,
+      "article_url": "https://www.yahoo.com/news/videos/meta-unveils-ai-models-challenge-012404061.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2e9821f51f80992ab8cb9eb2d23aa1923e54cd88da98c992a2035f7fc44ef5ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.cbsnewsvideos.com%2F649176936b73d4e5a4aa4af378f9a0f6.jpg",
+      "description": "Meta has unveiled new artificial intelligence models it says can compete with the industry's leading systems. Bloomberg tech reporter Riley Griffin joins CBS News with more."
+    },
+    {
+      "headline": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmdUVGlGSjVRUUlNWUxfNU1QYjNjOHJZWWZSMEFIY1BVaDd3aGdJZXVuSHZFV2Z1UGJfVFdkXy1LM0R4UlU5ZkZzeVpIb3JrbGxuTkt4VkdQdS15cnNKaFhZS0Z2OFRZUWNpemZ2VmZoMDhvREJxVVdTWjYxZUw0V1ZLVzRyYkZ4LW1OWk9OeERFTGfSAZgBQVVfeXFMTXZFSmFFNTk3aEVRNnZXU29fTFNMcnZBM3cxb2h2OXE3MkFBSkFRQThTM21MT2JLRzZmRHRNa0RwNnF6VU81MWEtcWJEei1yZzJBOWhGSFJKNDByQ3ExRS1GWEc1a1NRZ1JvUzFoSmpFRWJMTVpxTXB6aXRTbkxhMGhjZms3SWJzZkpTRzVMVlhoTUFHYm10bk0?oc=5",
+      "pub_date": 1791856860.0,
+      "article_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108395582-1791762585583-gettyimages-2298953041-laowilas-notitle261010_npGHL.jpeg?v=1791762613&w=1920&h=1080",
+      "description": "The IMF raised its 2026 global growth forecast to 3.1%, as AI investment helped offset the war\u2019s energy shock."
     },
     {
       "headline": "Microsoft reveals Maia 300 AI chip as it works to reduce dependence on Nvidia, AMD",
@@ -95,16 +95,16 @@
       "description": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack."
     },
     {
-      "headline": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXZzMHlabWpaZHpJVFo0dkxhUUpKbDRod2NNYmJPYzJ3Qk5aeWVMMkJUM3JyR3pNM3QxWmlFbVJOVUtLWnppX05vakw2ckNjdHExYmN4M1F5UUd1NU13Vl92dWtIenNJNHRaSlJOU3QzdkxndGI3UmFXclNIM1pxWFJ4UkhXczZmVnN2TlN6YzYtQ3NWX3JVS0FGNW5MVHd1WWNHbVJiX3NYeDRkeElOcnZRbXpaQUU4UU9Kcjg4M1Q?oc=5",
-      "pub_date": 1791839940.0,
-      "article_url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766",
+      "headline": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5",
+      "pub_date": 1791858780.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-12T21:35:38.620744+00:00"
+  "fetched_at": "2026-10-13T02:51:51.149964+00:00"
 }
