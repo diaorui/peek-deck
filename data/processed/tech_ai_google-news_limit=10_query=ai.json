@@ -5,94 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "headline": "AI godfather Geoffrey Hinton: \u2018We\u2019re creating alien beings. I\u2019m willing to be selfish and choose humans\u2019",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjc5Sy1zc0U2MS1Vb0RqVmFBQXl6T1V3Mk1ESWtSMDV2eTBUY2RSVlI1MS1tdzBJZ2NfdExldHF5M0s0X3NvNW1TMzczM3F6OUJ4SE1TMmFFU3hpYUZlRlMyamJTcC1hVGw2SGNyWHZkQnFJZWlqVmZsenVuNkRYOGhLamNlLU5vbjVuTmdhMGJzOVRyZDhZc1gzUmZvQldJUFJfbFpGVWtfZ0R1?oc=5",
-      "pub_date": 1791871500.0,
-      "article_url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-      "image": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09d088172c992bc6ae7b21be63e1e523",
-      "description": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks"
-    },
-    {
-      "headline": "Epic Games Delays Disney Project, Asks Developers to Use More AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUhHT1B3MDkzN0pJSEZRMjZKY0RuY1pmbEEtT1lFRzlsazJWSkFObExFb1ZNeUVsc3RkYXJPM2tCU0l5d21CRGVjSUJaN092eWlybk1jY09saVpsYWdwamc3WjU1T3ItNzNXQ1ppUmxsbzF2RHZxN3BNODZoRXo2cDFVRFVnZk5FYWFsRUZpTmFBRWhkOVBBaVgtTXpCdzNZZGFyVkJrcTE4Z2FHd0ZUTUVRVlQ?oc=5",
-      "pub_date": 1791829481.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3ZDOS1wQVVMV1hiTHBLM0hqc0p0QzdGRmpESUZxRFpnakNqOWVwTlJGbnRJc2F0WnZoMFl6WXN0eG1feUJSUGQ4VUdPYXJRU3JzMmZ1ZWdnSWdhOXN0Q2l3ZEd4NWhBdDFJc3Fsd0h4NEVpdmVvTHVOUGh0NDdGMjM5bF9NcUdCdEJOY0EwNjBUeWhRZkx5bGVUdVhpQzVEUnc?oc=5",
-      "pub_date": 1791838790.0,
-      "article_url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png",
-      "description": "No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter."
-    },
-    {
-      "headline": "Epic Games delays Disney game and tells developers to go \"AI first\"",
-      "source": "GamesIndustry.biz",
-      "source_url": "https://www.gamesindustry.biz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3hKQUNuYUl4ZVNvNUZETkY5NVZCaGU1Z29mZXlMVlZxaUJKcVRaNGw5bkFXMjN0VGUtTTFVeV9NZ0hYMENMZDI2emF4WXh2b0VRYlJrcjNvRzlDeGxEVXU3RGJNODN0UDFocnNhRFNVWDI2NDBIWUgxTV9mSlNhQ0FfTnRoZGE2X0tBcmJ0YW1XWjlWZVMyZ3Q4WQ?oc=5",
-      "pub_date": 1791834898.0,
-      "article_url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-      "image": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "description": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars\u2026"
-    },
-    {
-      "headline": "Axios C-Suite: Rethinking comms in the AI era",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IWGV0Q1ZKZGhaV0dpamFIaU1VbGQwX0RjMTVQSXlFUXlkRnBvaGxXNUtVNGZKcW9LenVvdjVFelZ5MEtGWnhnMldiWFpDYnRVaVV1VGxjVnh1WTN1b3d3WnZmOXgtcUZZbDJlSU5sa04zdktiWGhUY01iYw?oc=5",
-      "pub_date": 1791884023.0,
-      "article_url": "https://www.axios.com/2026/10/13/communications-ceos-ai-llms-agents-geo",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | Making Rules for A.I. Is Hard. Tell Us How You\u2019d Do It.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUVZZ3J4NFRhRnFfeWpXMnlrNnFpM3hKaEZYTDRlT1ZSYXBEbHZyLTRHcjNWWjFuLTBad1JvRkRnU1dWSXhNZEYwZ3VOaE5Yd2VkWm00T2xqU05ZWmVVQnZQcVFFVDJ2eU9MYW44dXJTM1MzUjhYTmRzVkFhNnNZS1JXeHI0dFE?oc=5",
-      "pub_date": 1791882675.0,
-      "article_url": "https://www.nytimes.com/interactive/2026/10/13/opinion/ai-rules-regulations.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
-      "pub_date": 1791875254.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Global chip selloff deepens as AI worries, China competition weigh",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1JfdGVTR1BzczVCYUFfY0RBUEhHYWFGQ0tERjNpSW9vRXNoQVdxZ2xBU2tRaWxVem1NeGNnTENReWlEVGM3LVR5YU5sQWRrRklmQ2k4Q29HQWozaFNneVVqVTFObGI4R1RFd3RiMW1HYnBMdDRfeUdNY2VzbEpaOFRuMWF6NlMwbllPejVXM25CQnRSTFE?oc=5",
-      "pub_date": 1791881817.0,
-      "article_url": "https://finance.yahoo.com/technology/articles/global-chip-selloff-deepens-ai-085657296.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Investing.com -- Shares of U.S. and European chipmakers fell Tuesday as a selloff in AI-exposed stocks deepened, pulling the broader technology sector lower amid concerns over the sustainability of AI investment and intensifying competition."
-    },
-    {
-      "headline": "How to invest in the AI productivity boom as earnings season approaches",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1hYR3VaOTRMdWx3QkFJOVU1ajhFOTNVRHc1TUZPZ3NUTFJubVNGV05vSm12NVB3X2ZDZTVFaVo4dUp0M3ZxX2t1V0prRkM2ZE5FMk1DM1pjeTRyNXFTTEhfbE1XUlJSLUl4em9SOWFyWWhzUTRfWDNsVHdnd0tZaU9lSGdnUUR0d21xSFgzaC1NWFpPbTVTSXIwRy13VEdrTlpsREszZw?oc=5",
-      "pub_date": 1791885060.0,
-      "article_url": "https://www.businessinsider.com/ai-trade-how-to-invest-stocks-productivity-boom-efficiency-gains-2026-10",
-      "image": "https://i.insider.com/6acdd37042403ad8039a5da5?width=1200&format=jpeg",
-      "description": "So far, talk of AI-driven profit booms has been cheap for companies. That may change this earnings season."
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWJFMG9YRXR3ZzI0dy16OURHM2VLaGRlQ29fcnZCeFlneDdaS3Q1dEJKMXBCcl9ycndsRjFFSDlzb2ZRcFlkVzdkVVpMdkhIbGxEVkVXZjVuZFBWN2dZUzJCZTczV0pOR0lwVUVqOERHRmZJa0JHUmxZN1d4TURodFJsMA?oc=5",
+      "pub_date": 1791906600.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+      "image": "https://i.guim.co.uk/img/media/c008998fc937a32aef7a9f0f09cd721b4b68e3de/2384_972_3557_2847/master/3557.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65ebd8f3a54e66c1624627aa984fa815",
+      "description": "The pioneering computer scientist on why Trump is using \u2018superintelligence\u2019 wrong, whether AI could wipe out humanity \u2013 and how our biggest challenge will be accepting we\u2019re not the only intelligent beings"
     },
     {
       "headline": "Anthropic warns AI models could soon copy themselves across home devices",
@@ -103,8 +23,88 @@
       "article_url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
       "description": "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue."
+    },
+    {
+      "headline": "AI models may soon self-replicate across smart-home devices, Anthropic warns",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
+      "pub_date": 1791868440.0,
+      "article_url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic warns AI models could soon replicate across home devices, become difficult to shut down",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFB3aGVWQmlzcGNwdGVNZVhfZG1OOFlBQmVOaHpTS3E2XzJzclFnV3hXdTQ4UE5CQlQxZ2RiMjVWTDZaLVlrdU1QVkV5VzdVSjNEeFBBM3hNS2FTekVjTFBHS0tLWUJ1UGlWTFdMcGtjemhJNmZLb1kzaEJHbDNVbGp1ZTJJNms?oc=5",
+      "pub_date": 1791911294.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-frontier-models-safety-10-13",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/7b234ffb7e770fad646b90062bd7dd52.jpg",
+      "description": "Anthropic researchers warn AI models could soon replicate across smart TVs and household devices, potentially creating digital threats that are difficult to shut down."
+    },
+    {
+      "headline": "Blind veterans run Army Ten-Miler with help from AI glasses",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2RXSThlTlNhY3A1ZXdIV1hHRXhUVU1SZVF1cV83b1ZudDZxT09wYjM2RDZtSkdvRFM5S3B1LUhtNVZRa2hoX2pWN2JLTGU4R0JXdndNTG9uQXp2dkxUN3c5M0VzczNTeUxZdTBKdWdGbm43bk1CdnNpMnluQ3pad1g2WFNhTHBnX1VTZTRhWlUzMWxYM2t1bDdjWGtNSFdtQ0hn?oc=5",
+      "pub_date": 1791912109.0,
+      "article_url": "https://www.axios.com/local/washington-dc/2026/10/13/blind-veterans-meta-ai-glasses-arlington-dc-race",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Will AI take my job? Ask an economist!",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWNnNkVfckdfSk5yWkpJZmpPNjFsUk0tbDVZb2stSFRCZ0t4UkIyTnpLUjh0d1ptX0lVQzhIRWs1T25uZThFWnBIM3AzXzZ2ZUhtSTdrSVQwSWVta1FLOVJNQndoV2piMlg3bTdWRjFfcW01ZXRMd0tjY0IzZnExNjUyelA3QQ?oc=5",
+      "pub_date": 1791912600.0,
+      "article_url": "https://www.npr.org/2026/10/13/g-s1-147853/will-ai-take-my-job-ask-an-economist",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/711x400+284+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F7c%2Fd82d05c74e9ea38b306620b6652c%2F10-28-ask-an-economist.png",
+      "description": "Is AI coming for our jobs? Join Adrian Ma, co-host of The Indicator from Planet Money, for a virtual event featuring two economists at the center of this debate: Daron Acemoglu, a Nobel Prize-winning professor at MIT, and Ronnie Chatterji, Chief Economist at OpenAI. We'll invite you to share your thoughts and ask questions."
+    },
+    {
+      "headline": "What If AI Is the End of the World?",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzbDY0NmNJYWRHd0ZXM3Ntd0hRQTl4cGZmUEZkQlFzeF84Wl9nNjRSaS1kZFZCZ1JMa2dhc3dpNDBXenIxdzJfMjctVk1CWG1LUGx0Q3Y3T2d0Ym83Y3BXd2NiSVJ2eVIzYmM3S1BCbmR6VUpMSnItczFPQUgzdw?oc=5",
+      "pub_date": 1791911242.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/10/ai-end-of-world-meaning/688977/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Apple just announced a new gadget that could be key to its AI push",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0hKMDJpUUxNZjU3RjdWdHdiVzQ1UUtzU3hodUdpYmROX29DS3IxNy1aZjE2SlFZdk9yYVU2NDU4M2xqU3JyRWJITDNhdHBEWUJYdHM1bGxjUlRZVUJqUElKWnNGVS1BdVE?oc=5",
+      "pub_date": 1791898598.0,
+      "article_url": "https://www.cnn.com/2026/10/13/tech/apple-homeview-siri-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/apple-homeview-screen-angles-261013.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Apple on Tuesday announced the HomeView, its biggest push into the smart home market in nearly a decade."
+    },
+    {
+      "headline": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jSmJ6Q0FXZkNWQWUtZi0zOWVVNkVvWW5TeFNiX255bTdUNHRhbzV3aGdpTFhCci1LM203TWRCcTk3SmthT1VuUmJKemVXNGZnTzlRY1Y5VmlYQVpnbjRETTFzT1NPWGkzNlhKamFDa3VYX19GLUdWeXZn0gF_QVVfeXFMT08wdkg5bzg1V0FBc18ybEVtVlBVVlVRR01oWG5FVlBjTllGalFldkhENjdxbUIwUTdjZnZud1otYnRFYXdvTG5XY2lhM0g3WjltRWNLNHlZaHo4VXhuSUxMWV9CREdpZzIwR2VHR0x0eXNXU0tTc20zVXNqMGlFNA?oc=5",
+      "pub_date": 1791898453.0,
+      "article_url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108403253-1791897331342-Apple-HomeView-lineup-261013.jpg?v=1791897361&w=1920&h=1080",
+      "description": "The iPhone maker also announced the new Apple TV 4K and HomePod Mini."
+    },
+    {
+      "headline": "Apple unveils new smart home devices that showcase upgraded Siri AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUtPYkZiMFdGTVFibFdLcWMwT0tpYVFGTDEzTzZSNlNEcFJ6ZmJfcmR3SjVkd2tkckFnQ0JRUGpIclZsMkJ1UXdLejhUQ1dtbS1IaV9VTndzWE5JaGZPcjN1ZHZUeG1IZThkNzBWUlV5Mk9CVk5TVVJYdEZGWG9wTWE5UEtkUXNp?oc=5",
+      "pub_date": 1791908728.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai",
+      "image": "https://i.guim.co.uk/img/media/0d62ca7234056c56f97295ad28588acc7537a887/405_0_4051_3241/master/4051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c430100da5329991b38b7614a01e3f48",
+      "description": "New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-13T10:11:26.800479+00:00"
+  "fetched_at": "2026-10-13T17:43:45.996723+00:00"
 }

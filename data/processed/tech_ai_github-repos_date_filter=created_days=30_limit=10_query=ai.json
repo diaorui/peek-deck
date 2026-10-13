@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7756,
+      "stars": 7768,
       "stars_display": "7.8k",
-      "forks": 2380,
+      "forks": 2388,
       "forks_display": "2.4k",
       "language": "TypeScript",
       "topics": [],
@@ -24,9 +24,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 7471,
+      "stars": 7503,
       "stars_display": "7.5k",
-      "forks": 1801,
+      "forks": 1806,
       "forks_display": "1.8k",
       "language": "TypeScript",
       "topics": [
@@ -36,7 +36,7 @@
         "daily-digest",
         "docker-compose"
       ],
-      "updated_at": "2026-10-12T06:12:01Z"
+      "updated_at": "2026-10-13T14:07:37Z"
     },
     {
       "full_name": "Mak5er/AirCard",
@@ -46,10 +46,10 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 6528,
+      "stars": 6543,
       "stars_display": "6.5k",
-      "forks": 442,
-      "forks_display": "442",
+      "forks": 445,
+      "forks_display": "445",
       "language": "Swift",
       "topics": [],
       "updated_at": "2026-10-05T19:43:58Z"
@@ -62,10 +62,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 5108,
-      "stars_display": "5.1k",
-      "forks": 722,
-      "forks_display": "722",
+      "stars": 5181,
+      "stars_display": "5.2k",
+      "forks": 738,
+      "forks_display": "738",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-12T02:20:19Z"
@@ -78,10 +78,10 @@
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "url": "https://github.com/Louis-CFM/coucou",
       "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 5022,
-      "stars_display": "5.0k",
-      "forks": 840,
-      "forks_display": "840",
+      "stars": 5085,
+      "stars_display": "5.1k",
+      "forks": 847,
+      "forks_display": "847",
       "language": "Swift",
       "topics": [
         "ai-agents",
@@ -90,7 +90,7 @@
         "claude",
         "claude-code"
       ],
-      "updated_at": "2026-10-12T20:31:09Z"
+      "updated_at": "2026-10-13T16:58:43Z"
     },
     {
       "full_name": "omlahore/RemoveMacAI",
@@ -100,10 +100,10 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 4520,
-      "stars_display": "4.5k",
-      "forks": 122,
-      "forks_display": "122",
+      "stars": 4568,
+      "stars_display": "4.6k",
+      "forks": 124,
+      "forks_display": "124",
       "language": "Swift",
       "topics": [
         "apple-intelligence",
@@ -122,10 +122,10 @@
       "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
       "url": "https://github.com/mhtsec/ARTEX",
       "preview_image": "https://opengraph.githubassets.com/85b9e74f7f3f9e071a61f127b6025789150025dce0c8ec890b57bf389aa39b7c/mhtsec/ARTEX",
-      "stars": 3784,
-      "stars_display": "3.8k",
-      "forks": 6135,
-      "forks_display": "6.1k",
+      "stars": 3863,
+      "stars_display": "3.9k",
+      "forks": 6196,
+      "forks_display": "6.2k",
       "language": "Go",
       "topics": [],
       "updated_at": "2026-10-10T09:16:20Z"
@@ -138,10 +138,10 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 3500,
+      "stars": 3519,
       "stars_display": "3.5k",
-      "forks": 144,
-      "forks_display": "144",
+      "forks": 145,
+      "forks_display": "145",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-10-09T09:37:21Z"
@@ -154,10 +154,10 @@
       "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
-      "stars": 3241,
-      "stars_display": "3.2k",
-      "forks": 219,
-      "forks_display": "219",
+      "stars": 3292,
+      "stars_display": "3.3k",
+      "forks": 221,
+      "forks_display": "221",
       "language": "JavaScript",
       "topics": [
         "agent-skill",
@@ -166,35 +166,35 @@
         "claude-code-skill",
         "claude-skill"
       ],
-      "updated_at": "2026-10-13T09:47:47Z"
+      "updated_at": "2026-10-13T15:58:19Z"
     },
     {
-      "full_name": "LosaLosSantos/aurelio-finance",
-      "name": "aurelio-finance",
-      "owner": "LosaLosSantos",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/154470154?v=4",
-      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "preview_image": "https://opengraph.githubassets.com/16faeeaa359ba4f23652bfc9f99a162e78f3a583ad03fc96304960160ecc5da5/LosaLosSantos/aurelio-finance",
-      "stars": 3051,
+      "full_name": "kaankiziltug/logo-design-skill",
+      "name": "logo-design-skill",
+      "owner": "kaankiziltug",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/119437067?v=4",
+      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "preview_image": "https://repository-images.githubusercontent.com/1388867993/cb41b962-88da-4adb-be7e-17ee8a1073aa",
+      "stars": 3130,
       "stars_display": "3.1k",
-      "forks": 384,
-      "forks_display": "384",
-      "language": "Python",
+      "forks": 235,
+      "forks_display": "235",
+      "language": "HTML",
       "topics": [
-        "ai",
-        "dividends",
-        "etf",
-        "finance",
-        "financial-planning"
+        "agent-skills",
+        "branding",
+        "claude",
+        "claude-skills",
+        "codex"
       ],
-      "updated_at": "2026-10-12T20:11:29Z"
+      "updated_at": "2026-09-30T18:16:50Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-09-13",
   "days": 30,
   "limit": 10,
-  "total_count": 482546,
-  "fetched_at": "2026-10-13T10:10:56.201265+00:00"
+  "total_count": 489099,
+  "fetched_at": "2026-10-13T17:43:12.739727+00:00"
 }
