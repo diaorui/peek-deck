@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-13T02:51:54.456199+00:00'
+updated: '2026-10-13T10:11:28.634252+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 13, 2026 at 02:51 UTC  
+**Last Updated:** October 13, 2026 at 10:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,14 +114,6 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 ## Google News: "robotics"
 
-**[Chinese Robots Could Decide the AI Race](https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race)**
-
-Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.
-
-Foreign Affairs • 18h ago
-
----
-
 **[Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work](https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse)**
 
 Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.
@@ -134,7 +126,15 @@ Futurism • 2d ago
 
 The second-largest corporate employer has bet big on robot workers to scale.
 
-Ars Technica • 14h ago
+Ars Technica • 21h ago
+
+---
+
+**[Chinese Robots Could Decide the AI Race](https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race)**
+
+Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.
+
+Foreign Affairs • 1d ago
 
 ---
 
@@ -142,7 +142,15 @@ Ars Technica • 14h ago
 
 As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.
 
-Military Times • 8h ago
+Military Times • 15h ago
+
+---
+
+**[Robots are proving to be a handful for Elon Musk](https://www.businessinsider.com/elon-musk-designing-humanoid-hand-challenges-optimus-2026-10)**
+
+Elon Musk called designing a human hand for robots "shockingly difficult" and said it's problem Tesla is working on for Optimus.
+
+Business Insider • 6h ago
 
 ---
 
@@ -150,15 +158,7 @@ Military Times • 8h ago
 
 Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic.
 
-MedTech Dive • 10h ago
-
----
-
-**[Girls take controls at Michigan robotics invitational in Woodhaven](https://www.clickondetroit.com/news/local/2026/10/11/girls-take-controls-at-michigan-robotics-invitational-in-woodhaven/)**
-
-Woodhaven’s Goonettes invitational gives young women a chance to compete
-
-ClickOnDetroit | WDIV Local 4 • 1d ago
+MedTech Dive • 17h ago
 
 ---
 
@@ -170,14 +170,6 @@ The Robot Report • 1d ago
 
 ---
 
-**[Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night](https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night)**
-
-Video. Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night.
-
-Euronews.com • 1d ago
-
----
-
 **[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
 
 At a Van Ness arena, 200-pound robots wielded steel blades.
@@ -186,11 +178,17 @@ The San Francisco Standard • 1d ago
 
 ---
 
-**[Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations](https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations)**
+**[A humanoid robot for developers and schools is among four launches planned for Oct. 14.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html)**
 
-As I’m writing this I’m able to stare out into my driveway at my trusty Honda Odyssey. Most of the public’s association with Honda is through their “mobility” products - i.e. their cars. But the company has an impressive track record of other technical achievements, not the least of which has been in robotics. Now, it’s teaming up with space infrastructure firm Redwire to develop an automated laboratory support system for use on future commercial space stations.
+YT Jia's weekly investor report has been rescheduled for Oct. 14; the full launch video will be available online Oct. 15 at 5 p.m. PDT.
 
-Universe Today • 1d ago
+Stock Titan • 1d ago
+
+---
+
+**[OpenAI’s GPT-6 may lead to earlier robotics breakthrough: Unitree founder](https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder)**
+
+South China Morning Post • 20h ago
 
 ---
 
@@ -198,33 +196,23 @@ Universe Today • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+
+📺 MostAmazingTop10
+
+👁️ 143K • 👍 1K • 💬 124 • ⏱️ 9:18 • 1d ago
+
+---
+
 **[Elon Musk&#39;s 1 Billion Robot Prediction Suddenly Looks Different.](https://www.youtube.com/watch?v=BsDEKGw_VRY)**
 
 Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very different when you see how quickly the technology is ...
 
 📺 ejunky66
 
-👁️ 797K • 👍 8K • 💬 350 • ⏱️ 1:00 • 4d ago
-
----
-
-**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
-
-Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
-
-📺 States 2050
-
-👁️ 94K • 👍 1K • 💬 67 • ⏱️ 26:07 • 5d ago
-
----
-
-**[I Challenged China&#39;s Humanoid Robot to Tennis… Here&#39;s What Happened!](https://www.youtube.com/watch?v=rLcfmQnTnUY)**
-
-Human vs Robot! What happens when you challenge a humanoid robot to a game of tennis? At the China Open in Beijing, I went ...
-
-📺 Barrett
-
-👁️ 24K • 👍 308 • 💬 46 • ⏱️ 7:01 • 1d ago
+👁️ 828K • 👍 9K • 💬 369 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -248,23 +236,23 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 ---
 
+**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
+
+Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
+
+📺 States 2050
+
+👁️ 96K • 👍 1K • 💬 67 • ⏱️ 26:07 • 5d ago
+
+---
+
 **[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
 
 Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
 
 📺 BBC News
 
-👁️ 108K • 👍 620 • 💬 43 • ⏱️ 5:36 • 1d ago
-
----
-
-**[War Robots MOST SATISFYING WAY to deal with SHOGGOTHS!](https://www.youtube.com/watch?v=xzO0lq3KW4k)**
-
-War Robots Gameplay: UE Hawk drive-by destroying Shoggoths is the most fun thing to do: To see them destroy themselves!
-
-📺 Manni-Gaming
-
-👁️ 13K • 👍 414 • 💬 91 • ⏱️ 9:47 • 14h ago
+👁️ 110K • 👍 633 • 💬 43 • ⏱️ 5:36 • 1d ago
 
 ---
 
@@ -274,17 +262,7 @@ China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and
 
 📺 MACHINEKIND
 
-👁️ 54K • 👍 860 • 💬 85 • ⏱️ 13:43 • 5d ago
-
----
-
-**[UbiTech builds robots autonomously at a 10-minute production #Robotics #Automation #Manufacturing](https://www.youtube.com/watch?v=tcK3L08aSdM)**
-
-UbiTech built a factory in China where robots assemble new humanoid robots every 10 minutes. This innovative production line ...
-
-📺 Vitaly Korovitz
-
-👁️ 6K • 👍 138 • 💬 20 • ⏱️ 1:20 • 6d ago
+👁️ 54K • 👍 863 • 💬 85 • ⏱️ 13:43 • 5d ago
 
 ---
 
@@ -294,7 +272,27 @@ Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to t
 
 📺 DEEP Robotics
 
-👁️ 14K • 👍 219 • 💬 29 • ⏱️ 1:12 • 6d ago
+👁️ 14K • 👍 223 • 💬 29 • ⏱️ 1:12 • 6d ago
+
+---
+
+**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
+
+Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
+
+📺 Paigham-e-Deen 
+
+👁️ 106K • 👍 2K • 💬 1 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Americans Are ATTACKING Food Delivery Robots! #Robots #Automation #LamontTyson](https://www.youtube.com/watch?v=PLJgK7S3NEY)**
+
+Food delivery robots are showing up on sidewalks across America, but not everyone is welcoming them. According to reporting ...
+
+📺 Lamont Tyson
+
+👁️ 102K • 👍 4K • 💬 765 • ⏱️ 0:50 • 23h ago
 
 ---
 
