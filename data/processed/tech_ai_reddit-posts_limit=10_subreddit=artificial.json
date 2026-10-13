@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
+      "author": "lulzxdxdxd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
+      "published": 1791839588.0,
+      "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
+      "external_url": "https://www.anthropic.com/research/self-replicating-ai",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
+    },
+    {
       "title": "AI researchers are taking up smoking because they expect AI to cure cancer, says Palantir CTO",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1x441lg/ai_researchers_are_taking_up_smoking_because_they/",
@@ -24,6 +35,17 @@
       "description": "Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said."
     },
     {
+      "title": "Linux founder Linus Torvalds says AI is a \u201cgateway drug\u201d into programming \u2014 but cautions about using AI for \u201cserious\u201d work",
+      "author": "masiroo",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/",
+      "published": 1791842849.0,
+      "thumbnail": "https://external-preview.redd.it/AExYEjTtAqrVaUg44RhQ88atlWDUfqdIEPhATEcIHo4.jpeg?width=640&crop=smart&auto=webp&s=30b589576b9c3e159465a93ca71c82abcbd4896c",
+      "external_url": "https://tech.yahoo.com/ai/articles/linux-founder-linus-torvalds-says-103004221.html",
+      "site_name": "Yahoo Tech",
+      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
+      "description": "Torvalds said AI can do \u201creally good code\u201d but warned against it when users are unsure what the end result should be."
+    },
+    {
       "title": "Scientists find a hidden cleanup system in the eye that no one knew existed",
       "author": "lulzxdxdxd",
       "url": "https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/",
@@ -33,6 +55,17 @@
       "site_name": "ScienceDaily",
       "favicon": "https://www.sciencedaily.com/favicon.ico",
       "description": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness."
+    },
+    {
+      "title": "AI Companies have terrible customer service",
+      "author": "Indecisive_4_life",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4ij7r/ai_companies_have_terrible_customer_service/",
+      "published": 1791851310.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Myself and several others have experienced consistently terrible customer service from AI companies. Getting in touch with a human support agent is often impossible, leaving customers stuck in endless loops with AI support bots that repeatedly acknowledge issues and request more information without ever resolving anything. When issues are raised, companies often refuse refunds and offer little to no meaningful resolution, even when their own technical bugs cause usage limits to malfunction. Rather than taking responsibility, they shift the blame onto customers and hide behind their terms and conditions to justify denying refunds. This is unfair. Customers shouldn't have to pay for technical errors they didn't cause or waste time chasing support instead of actual solutions. AI companies need to take accountability, treat customers fairly, and resolve problems rather than simply acknowledge them. Terms and conditions should not be an excuse to evade responsibility. A few companies I've seen this issue with include Anthropic, OpenRouter, and Hugging Face. What companies have any of use faced this issue with?"
     },
     {
       "title": "Ukraine has hit three Yandex data centres in a week \u2014 and Russia's AI giant says it can't predict when its chatbot and smart home services come back",
@@ -57,26 +90,15 @@
       "description": "It's a protest now."
     },
     {
-      "title": "The Internet is wild\ud83d\ude02\ud83d\ude02",
-      "author": "Sevives",
-      "url": "https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/",
-      "published": 1791721227.0,
-      "thumbnail": "https://preview.redd.it/ciij72r3ztuh1.jpeg?width=320&crop=smart&auto=webp&s=2b3059de2f87112cc270d21d0448761c1bc1589c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "A quantum prediction from 1931 has finally come to life",
+      "title": "Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal",
       "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3z1ho/a_quantum_prediction_from_1931_has_finally_come/",
-      "published": 1791803416.0,
-      "thumbnail": "https://external-preview.redd.it/xxcvULR4bJ7zJK_mRk1e2VW1GU7zE_24yeLWu5kHKcM.jpeg?width=640&crop=smart&auto=webp&s=d7161425da99b80b79cc850cc318c4f394a6a4df",
-      "external_url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
-      "site_name": "ScienceDaily",
-      "favicon": "https://www.sciencedaily.com/favicon.ico",
-      "description": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as \u201cBethe strings\u201d in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were able to make groups of atoms bind together without ordinary chemical bonds. These strange clusters could contain six or more particles and even collide with one another without falling apart."
+      "url": "https://www.reddit.com/r/artificial/comments/1x4i9uh/lawyer_cites_chatgptinvented_fake_witnesses_in/",
+      "published": 1791850543.0,
+      "thumbnail": "https://external-preview.redd.it/Fg-Y-piPuDANB3xptjFAnrfBjEisUB-xOrONIeNaIVM.png?width=640&crop=smart&auto=webp&s=a5dc14ab43eb03ff9685a6303e1feeb65cbc1015",
+      "external_url": "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
+      "site_name": "404 Media",
+      "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
+      "description": "\"Do you watch the news? Do you listen to the radio? Do you read anything about what's going on in the world?\u201d one of the judges asked the lawyer, who submitted false testimony and witnesses after using ChatGPT."
     },
     {
       "title": "me: gonna make the scariest horror game ever also me: too scared to test my own game \ud83d\udc80",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "AI models fail to help in mental health crises despite recognizing danger, study finds",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4c8xt/ai_models_fail_to_help_in_mental_health_crises/",
-      "published": 1791835193.0,
-      "thumbnail": "https://external-preview.redd.it/zwn6GNzqOFdnDpNYVudMUsVrOtaiIWmQOpPWsvH52XU.jpeg?width=640&crop=smart&auto=webp&s=471c8a05d3ae8e14f319f8e91826d612a93ca3ae",
-      "external_url": "https://www.linkedin.com/posts/francisdesouza_recognizing-a-mental-health-crisis-isnt-share-7514334685217579008-RR38/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "Recognizing a mental health crisis isn\u2019t the same as helping someone through it.\n\nNEWS: Today, Scale AI is introducing DistressBench, a clinician-authored benchmark that tests whether AI models provide the help called for when someone is facing a suicide or self-harm crisis.\n\nWe evaluated 25 frontier models using 718 clinician-written conversations, each with specific criteria for what a helpful response needs to include. The findings show a gap between recognizing danger and responding appropriately:\n\n\u2022 In more than a third of conversations where models recognized a crisis, they still failed to provide help or resources.\n\u2022 On average, models left out nearly 3 in 10 required response steps.\n\u2022 When shown their own failed response alongside a better one, most models identified the better response but still declined to provide it.\n\nThat last finding is especially striking. A model can recognize a more helpful answer and still fail to deliver it.\n\nOur hope is that benchmarks like this give researchers concrete evidence of where responses fall short and what needs to improve. People will increasingly turn to AI in their hardest moments - we need safety testing that keeps up with what people are asking of these systems.\u00a0\n\nhttps://lnkd.in/gSRNJFQ2 | 16 comments on LinkedIn"
-    },
-    {
-      "title": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
-      "published": 1791839588.0,
-      "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
-      "external_url": "https://www.anthropic.com/research/self-replicating-ai",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
     }
   ],
-  "fetched_at": "2026-10-12T21:35:04.758072+00:00"
+  "fetched_at": "2026-10-13T02:51:32.491423+00:00"
 }

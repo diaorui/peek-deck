@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-12T21:35:40.255187+00:00'
+updated: '2026-10-13T02:51:54.452603+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 12, 2026 at 21:35 UTC  
+**Last Updated:** October 13, 2026 at 02:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,525.75
+### $2,481.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -6.8%  
-**30d:** +1.5%  
-**90d:** +31.0%  
-**1y:** -40.8%  
+**24h:** -2.5%  
+**7d:** -3.5%  
+**30d:** -1.2%  
+**90d:** +33.2%  
+**1y:** -39.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.86B
+**Market Cap:** $303.07B
 Rank #2
 
 **Circulating Supply:** 122,127,761 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.2%
+-49.8%
 
 **All-Time Low:** $0.43
-+580207.6%
++572962.4%
 
 ---
 
@@ -152,6 +152,38 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'](https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking)**
+
+The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.
+
+Decrypt • 13h ago
+
+---
+
+**[Why Is Ethereum Stuck Below $2,500 in 2026?](https://finance.yahoo.com/markets/crypto/articles/why-ethereum-stuck-below-2-210041432.html)**
+
+Three of Ethereum's biggest buyers all stepped back at the same moment, and the price has been drifting sideways ever since. Here is what those buyers were doing and why their absence matters.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.](https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/)**
+
+Don't let shortsighted sellers distract you from this coin's real value.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise as ‘Greed’ Persists: Analyst Says BTC Bulls Must Get ‘Moving’ From This Area](https://www.tradingview.com/news/benzinga:14cb665f0094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-greed-persists-analyst-says-btc-bulls-must-get-moving-from-this-area/)**
+
+Leading cryptocurrencies rose on Sunday as investors assessed the latest geopolitical developments in the Middle East and President Donald Trump’s potential intervention.The Sunday RallyBitcoin experienced a late-evening spike that nearly pushed it beyond $84,000, while Ethereum wobbled in a range…
+
+TradingView • 1d ago
+
+---
+
 **[Bitcoin, Ethereum, XRP, and Solana Are All Down in 2026. Which Has Held Up Best?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-solana-down-153047601.html)**
 
 All four major cryptocurrencies are bleeding in 2026, but the coin that looks strongest on paper may actually be in the worst shape of the group depending on how you measure the damage.
@@ -160,59 +192,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise as ‘Greed’ Persists: Analyst Says BTC Bulls Must Get ‘Moving’ From This Area](https://www.tradingview.com/news/benzinga:14cb665f0094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-greed-persists-analyst-says-btc-bulls-must-get-moving-from-this-area/)**
+**[Bitcoin, Ethereum and XRP Price Analysis This Week: CPI Data in Focus](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-price-analysis-this-week-cpi-data-in-focus/)**
 
-Leading cryptocurrencies rose on Sunday as investors assessed the latest geopolitical developments in the Middle East and President Donald Trump’s potential intervention.The Sunday RallyBitcoin experienced a late-evening spike that nearly pushed it beyond $84,000, while Ethereum wobbled in a range…
+Bitcoin is trading between key support and resistance levels as bearish divergence limits its short-term momentum. Ethereum, Solana, XRP, and Chainlink
 
-TradingView • 19h ago
-
----
-
-**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
-
-“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
-
-Decrypt • 1d ago
+Coinpedia • 13h ago
 
 ---
 
-**[Tom Lee's Bitmine Buys Another $31 Million in Ethereum, But There's a Catch](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-another-163000864.html)**
+**[Starknet considers leaving Ethereum for a quantum-resistant Layer 1](https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/)**
 
-Bitmine Chair Tom Lee hints at a looming end to the longest ETH buying spree
+Starknet is considering an independent Layer 1 to pursue quantum resistance in 2027. Its roadmap separates its own cryptography from Ethereum dependencies.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Ethereum's Vitalik Buterin Just Outlined a Bold New Strategy for 2030. Here's What It Could Mean for the Price of Ethereum (ETH).](https://www.fool.com/investing/2026/10/12/ethereums-vitalik-buterin-outlined-a-new-vision/)**
-
-Ethereum's co-founder just articulated a big new vision that could be great for the coin.
-
-The Motley Fool • 3h ago
-
----
-
-**[Starknet coin surges as developer weighs Ethereum split over quantum security (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security)**
-
-STRK jumps as Starknet explores quantum-resistant upgrades and a potential split from Ethereum to become a Layer-1.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Current price of Ethereum for October 12, 2026](https://fortune.com/article/price-of-ethereum-10-12-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
-
----
-
-**[Ethereum: Head and Shoulders Pattern Flags Breakdown Risk](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-flags-breakdown-risk)**
-
-Trader Tardigrade alerts that Ethereum shows a potential bearish Head and Shoulders on the daily chart, with breakdown confirmed on a close below the $2390...
-
-Blockchain News • 8h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -220,15 +212,23 @@ Blockchain News • 8h ago
 
 Your look at what's coming in the week starting Oct. 12.
 
-CoinDesk • 12h ago
+CoinDesk • 17h ago
 
 ---
 
-**[Tom Lee Predicts Ethereum Will Surpass $5,000 by the End of 2026](https://financefeeds.com/tom-lee-predicts-ethereum-will-surpass-5000-by-the-end-of-2026/)**
+**[Current price of Ethereum for October 12, 2026](https://fortune.com/article/price-of-ethereum-10-12-2026/)**
 
-Tom Lee sees Ethereum above $5,000 by end-2026, a 95% climb from $2,560, and $7,500 if Bitcoin hits $100,000. BitMine holds 6.02M ETH worth $16.4B.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-FinanceFeeds • 11h ago
+Fortune • 11h ago
+
+---
+
+**[Matt Hougan: NEAR 40x Target Still Below Ethereum Today](https://blockchain.news/flashnews/matt-hougan-near-40x-target-still-below-ethereum-today)**
+
+Matt Hougan states that Bitwise's base case 40x target for NEAR by 2030 would leave the token less valuable than Ethereum trades today.
+
+Blockchain News • 13h ago
 
 ---
 
@@ -236,23 +236,13 @@ FinanceFeeds • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=FvIVxGGU5Js)**
+**[🚨 BMNR IN TROUBLE? TOM LEE STOPS ETH BUYING!](https://www.youtube.com/watch?v=LET8NfjK93w)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BMNR IN TROUBLE? TOM LEE STOPS ETH BUYING! Explore MaxFi: https://www.maxfi.tech/ Join our Discord community: ...
 
-📺 Crypto Nutshell
+📺 Big Time Trades
 
-👁️ 3K • 👍 150 • 💬 20 • ⏱️ 24:39 • 4h ago
-
----
-
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VKouvT3j-is)**
-
-BITCOIN WARNING SIGNAL FLASHING NOW (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 241 • 💬 176 • ⏱️ 16:33 • 4h ago
+👁️ 1K • 👍 56 • 💬 15 • ⏱️ 26:34 • 4h ago
 
 ---
 
@@ -262,7 +252,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 300 • 💬 30 • ⏱️ 20:19 • 17h ago
+👁️ 22K • 👍 327 • 💬 32 • ⏱️ 20:19 • 22h ago
+
+---
+
+**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=FvIVxGGU5Js)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 10K • 👍 236 • 💬 10 • ⏱️ 24:39 • 9h ago
 
 ---
 
@@ -272,7 +272,27 @@ Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ..
 
 📺 Marzell Crypto
 
-👁️ 401 • 👍 12 • 💬 4 • ⏱️ 2:57 • 10h ago
+👁️ 506 • 👍 12 • 💬 4 • ⏱️ 2:57 • 16h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VKouvT3j-is)**
+
+BITCOIN WARNING SIGNAL FLASHING NOW (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 308 • 💬 170 • ⏱️ 16:33 • 10h ago
+
+---
+
+**[Ethereum Exploded Over 110% Last Time This Happened](https://www.youtube.com/watch?v=rqKEXu5F-vE)**
+
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 616 • 👍 10 • 💬 2 • ⏱️ 4:48 • 8h ago
 
 ---
 
@@ -282,37 +302,7 @@ Bitcoin is holding the 50-day moving average—but is another leg higher coming?
 
 📺 YaBoySkey
 
-👁️ 127 • 👍 16 • 💬 6 • ⏱️ 11:20 • 2h ago
-
----
-
-**[Ethereum prépare un virage qui pourrait tout changer...](https://www.youtube.com/watch?v=QsT2T1-I9jk)**
-
-Lean Ethereum : le plan qui pourrait relancer Ethereum pour les 10 prochaines années. Fort Mode, Beast Mode, confidentialité ...
-
-📺 Charlie Seddine
-
-👁️ 7K • 👍 285 • 💬 27 • ⏱️ 17:24 • 6h ago
-
----
-
-**[Bitcoin, Ethereum &amp; XRP LIVE: Breakout or Bull Trap Before CPI?](https://www.youtube.com/watch?v=qdm29WD0pb8)**
-
-Today's Crypto News LIVE Bitcoin, Ethereum, altcoins, market structure, breaking crypto headlines, and the biggest stories moving ...
-
-📺 YaBoySkey
-
-👁️ 599 • 👍 45 • ⏱️ 1:01:45 • 7h ago
-
----
-
-**[No he estado tan Bullish con Ethereum desde 2020...](https://www.youtube.com/watch?v=VDVQ7zedCnM)**
-
-Durante los últimos años, Ethereum ha sido una de las mayores decepciones del mercado de las criptomonedas, y cada vez se ...
-
-📺 Healthy Pockets
-
-👁️ 28K • 👍 966 • 💬 52 • ⏱️ 18:25 • 1d ago
+👁️ 573 • 👍 32 • 💬 1 • ⏱️ 11:20 • 7h ago
 
 ---
 
@@ -326,13 +316,23 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 ---
 
+**[Ethereum EXPOSED!!](https://www.youtube.com/watch?v=gzHDWgNLAcg)**
+
+Ethereum Exposed takes a closer look at ETH, Ethereum gas fees, network scalability, Layer 2 solutions and the competition for ...
+
+📺 Crypto Info
+
+👁️ 602 • 👍 1 • 💬 2 • ⏱️ 0:19 • 1d ago
+
+---
+
 **[BITCOIN PRICE TARGETS REVEALED (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Xn979KYC8GY)**
 
 BITCOIN PRICE TARGETS REVEALED (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 13K • 👍 352 • 💬 112 • ⏱️ 14:05 • 18h ago
+👁️ 14K • 👍 356 • 💬 97 • ⏱️ 14:05 • 1d ago
 
 ---
 
