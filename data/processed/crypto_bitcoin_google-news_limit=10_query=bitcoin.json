@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "UK chances of keeping \u00a33.8bn bitcoin haul rise after High Court ruling",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1RTY3JHZU9NMmVUelJYMVR4Z1Z5cFRONnNneVEtQjdGS3A1YXF1cnFlQlZ0bzdtRTl2QVN3aXphMXV6UDYtWF9Pdmh2VmY4VXgtMlh3WkNtcHZEblVyejdPRXVKN3d1WGdmR29jQWlMeFhZc3lmR3VVZG84TVpEdHR0WE8?oc=5",
+      "pub_date": 1791888055.0,
+      "article_url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Exclusive | FTX\u2019s Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -15,44 +25,24 @@
       "description": null
     },
     {
-      "headline": "UK chances of keeping \u00a33.8bn bitcoin haul rise after High Court ruling",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1RTY3JHZU9NMmVUelJYMVR4Z1Z5cFRONnNneVEtQjdGS3A1YXF1cnFlQlZ0bzdtRTl2QVN3aXphMXV6UDYtWF9Pdmh2VmY4VXgtMlh3WkNtcHZEblVyejdPRXVKN3d1WGdmR29jQWlMeFhZc3lmR3VVZG84TVpEdHR0WE8?oc=5",
-      "pub_date": 1791864019.0,
-      "article_url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
+      "headline": "Strategy\u2019s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
+      "pub_date": 1791917709.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000",
       "image": null,
       "description": null
     },
     {
-      "headline": "You can be right about bitcoin's direction\u2013and still lose everything",
+      "headline": "Tom Lee Says Ethereum\u2019s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUEwUjJIUkpVZ1lvVUR5SkowUU15UDRaSWY4eVpWOWMzSnEyVHRkcmdJUm04Z2w3cVBya1d4OXpoeWgxYmhLQmROa3c1d1gzV0pUdTFPWkxqX1lpTWplUzdwVktvUWlRckxNQ2NFbVRDSzZLT2wxQWY2T2hHMjR0X3RpQjdhaDhrVVVjY205d2g?oc=5",
-      "pub_date": 1791907200.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoins-direction-still-lose-everything-160000223.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1049eb224df0d07afd9ddc63d6ee5901b0b397f22715c3102ae07dac387b2a47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1791905435214_1849.jpg",
-      "description": "Scott Melker discusses the roughly $800 million in crypto liquidations over 24 hours, triggered by a brief bitcoin (BTC-USD) dip and a quick rebound. \n\nl\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
-    },
-    {
-      "headline": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkFfR19IVmVmSVI0QzhLS25Pc1JjZ2VwYm9tMmhBNG9vc0NFT2xBX09EemJidVlrWWtBZDlWOVFVak8yQ01nd1duMk04ZE1LUENNRlJtUE44eW00ZGJ6Z3lIYW5lbndPbWFiMk1pR0dfa0dOZDJvQ056d0JrLWtYV3llcmoxYnRUV201TFdEcW9BdDVsaW0zb3hvOWNYQ0o3ODVHdnR0bEhUcHBobExlVXFoaGw0NGI4QnUwNG9MRzY?oc=5",
-      "pub_date": 1791910629.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3db830e13318c2cfc598b8b124aa3471900a0a00-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate."
-    },
-    {
-      "headline": "\"Coinbase believes that Bitcoin will continue to be the most trusted crypto-currency in a post-quantum world\" \ud83d\ude80",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWlFNVpUNU4zcUlKRjJCeENmZ0o5NXU1MkFzR1RwVzJiU3A1QVdkMnJIVEFYYnZvcGg2dmV5dFN0bkZScWdaQ3pmcFAxcmRyQzNYQWJfdXVGT0lOTDVXdC1ja1EwbkIwbkpWYUV5WHUzR19hQXpoRlhQTVZ4RUdjVFJLXzZIa0V5c2VzZjVhNXFuOTZyZkJkVThsUmdEamdDR29NZHFUQVFrLU0yZGZ6aFVrOA?oc=5",
-      "pub_date": 1791910101.0,
-      "article_url": "https://www.moomoo.com/community/feed/just-in-coinbase-releases-a-blog-article-focused-on-bitcoin-117434620379141",
-      "image": "https://ussnsimg.moomoo.com/sns_client_feed/106126891/20261014/public/NN-DataMarket/8515/2110049108887007501-photo-0c40e4743f9fd8a3e8f00156263672441.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "@Bitcoin Magazine 2955 Views"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVQxQlZpcm93UHhvcklBbDN0cWNfMWNFdl8tLV9GOGdJcW1Wei1WekpnbWdaRFpSRldSZ0NnRmo4SXU2eXkyRmo4NmFiN0psS1Zzb1BRbFd3YzBqeHotWE5ESW9WRUFnaUo4Ym1Wc0xJWU1hei1rWTUwYWRGM0RReTlWQ0NLMi0yV0FueDk0NkVHZ1dYbnpv?oc=5",
+      "pub_date": 1791903256.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-years-145416200.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4d0a38d3d4bb3dfc67dd5865c79c0d041a51a0d1a946fb5f9a92ec85b8eeb1dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F472fa506025f53c325529da830e30b7c.jpg",
+      "description": "Tom Lee is calling the end of Ethereum's long slide against Bitcoin, pointing to tokenized stocks and AI agents as the catalysts. But the data from the very week he made that call tells a very different story."
     },
     {
       "headline": "NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site\u2014and a tangled web of companies reaching China, raising eyebrows",
@@ -63,6 +53,26 @@
       "article_url": "https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Current price of Bitcoin for October 13, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSVd1TndYZjB5VVpWN0pNdzA1aGlmQUdRdHlDUnd0NHR4U1Z0R0toVl9uUTdJcDgwUHE2V2lDZmxMY1IyeWs5X1lsejBHWjBCWkoxOUtSLW9nb21qRFBMNFdoYzl6YWM?oc=5",
+      "pub_date": 1791892800.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-13-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-13.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTlUaFVGRWNiM2Vxem1vbjRMYmVZbHlUXzI0TmQ3RV8wOEtaVEh2UDFvVk5COF9ySzV1RjZNanc1UjdCM2M0cWF1T3hBQndBSTVRWDFtaGIxN24zYjZFNFJMV2lIakNaLVI3NC1SWWwwejJUbjhmSHdXMVNWQlByX01WNUljYjcwS2JHdFRRZXpxbTV6YlVTaFYxV01OX09VSVlFLVdfT2lsbWNPLUFCUUpBbG5OMjA?oc=5",
+      "pub_date": 1791870610.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9c17b7c061b6a82996756c392a64b62872157fb-1280x853.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain."
     },
     {
       "headline": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
@@ -85,26 +95,16 @@
       "description": "The iShares Bitcoin Trust fund has broken a downtrend and cleared a cup-with-handle pattern. IBIT stock has passed its 46.37 buy point."
     },
     {
-      "headline": "Current price of Bitcoin for Oct. 12, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2NTZhRE9yTi03OXgySVNHdVh1dUthd0hCRlR0OWR3ODY3Y3gyQjFCWnpwZW5PUFROelZ4dGJKRk5zQV9YV1BPUDJXVG41dHdCY1lKdzNwSXlJdnJGa2F1ZG9KcjFyRUU?oc=5",
-      "pub_date": 1791784259.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-12-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-12.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Midday Need to Know: Bitcoin signals bullish trend shift, copper rallies & more",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWV3bTdlN0tLRDBqdVNGd3JlSkZBdjRoUW9lTmFGUmE5X1NHMmtvd2dqallyVE0wYTZ3VXVzZEdiRFdhZjh0cFBlbXU0eU9Wd2tMTWJnSTdMUXcwWmpyZEFDYm80SXExTGtsTDI5dl9zZjd5eGlONGRLeWRNTDRqMkpoNjhNSEU1akFldVhUc2R1N1RKRFJZOXMxRlJTNHF5SURGNGFndmhvN2VlV010cTFpTQ?oc=5",
-      "pub_date": 1791824040.0,
-      "article_url": "https://seekingalpha.com/news/4652185-midday-need-to-know-bitcoin-signals-bullish-trend-shift-copper-rallies-more",
-      "image": null,
-      "description": null
+      "headline": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nVEk5amJZeTVMU1BUb1VseGw1QU1hUzJLYlVXNEQ4N1I0bzBvVktmRFpWZUhWOURHTDBLWGNNTmZmY3pGNWxUQUhxRmVGcFpNSUJ4aUMzMWtMelhEMi1GbTQxY0hZZWJXd3A2YnNWZlZvV1RnSEE?oc=5",
+      "pub_date": 1791922563.0,
+      "article_url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+      "description": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-13T17:43:39.823768+00:00"
+  "fetched_at": "2026-10-13T22:22:01.508162+00:00"
 }

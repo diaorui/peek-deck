@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-13T17:43:48.331347+00:00'
+updated: '2026-10-13T22:22:10.343836+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 13, 2026 at 17:43 UTC  
+**Last Updated:** October 13, 2026 at 22:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-5d ago
+6d ago
 
 ---
 
@@ -98,7 +98,7 @@ Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-6d ago
+7d ago
 
 ---
 
@@ -118,23 +118,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
 
-blog.google • 1h ago
-
----
-
-**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
-
-The second-largest corporate employer has bet big on robot workers to scale.
-
-Ars Technica • 1d ago
-
----
-
-**[Georgia Tech's new AI supercomputer could help advance medicine, robotics and energy research](https://www.cbsnews.com/atlanta/news/georgia-techs-new-ai-supercomputer-could-help-advance-medicine-robotics-and-energy-research/)**
-
-Georgia Tech is opening access to Nexus, a new AI supercomputer in Atlanta that will help researchers across the country tackle projects too large or complex for a regular computer.
-
-CBS News • 38m ago
+blog.google • 6h ago
 
 ---
 
@@ -146,19 +130,31 @@ Foreign Affairs • 1d ago
 
 ---
 
-**[Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night](https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night)**
+**[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
 
-Video. Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night.
+In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
 
-Euronews.com • 2d ago
+Yahoo Finance • 45m ago
 
 ---
 
-**[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
+**[Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec](https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy)**
 
-At a Van Ness arena, 200-pound robots wielded steel blades.
+WSJ • 13h ago
 
-The San Francisco Standard • 2d ago
+---
+
+**[Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/)**
+
+Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
+
+TechCrunch • 3h ago
+
+---
+
+**[Scoop: Bedrock Robotics raising $600M to automate construction](https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m)**
+
+Axios • 1h ago
 
 ---
 
@@ -174,23 +170,23 @@ MedTech Dive • 1d ago
 
 As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.
 
-Military Times • 23h ago
+Military Times • 1d ago
 
 ---
 
-**[TD Synnex CEO: BlueStar Acquisition, Kuka Robotics Pact Fuel New Physical AI Push](https://www.crn.com/news/channel-news/2026/td-synnex-ceo-bluestar-acquisition-kuka-robotics-pact-fuel-new-physical-ai-push)**
+**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
 
-TD Synnex CEO Patrick Zammit told CRN that the distributor is moving big into physical AI with its BlueStar acquisition and Kuka robotics distribution agreement.
+The second-largest corporate employer has bet big on robot workers to scale.
 
-CRN • 1d ago
+Ars Technica • 1d ago
 
 ---
 
-**[Robots are proving to be a handful for Elon Musk](https://www.businessinsider.com/elon-musk-designing-humanoid-hand-challenges-optimus-2026-10)**
+**[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
 
-Elon Musk called designing a human hand for robots "shockingly difficult" and said it's problem Tesla is working on for Optimus.
+At a Van Ness arena, 200-pound robots wielded steel blades.
 
-Business Insider • 13h ago
+The San Francisco Standard • 2d ago
 
 ---
 
@@ -198,43 +194,43 @@ Business Insider • 13h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
-
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
-
-📺 MostAmazingTop10
-
-👁️ 149K • 👍 1K • 💬 130 • ⏱️ 9:18 • 2d ago
-
----
-
 **[Elon Musk&#39;s 1 Billion Robot Prediction Suddenly Looks Different.](https://www.youtube.com/watch?v=BsDEKGw_VRY)**
 
 Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very different when you see how quickly the technology is ...
 
 📺 ejunky66
 
-👁️ 849K • 👍 9K • 💬 374 • ⏱️ 1:00 • 5d ago
+👁️ 871K • 👍 9K • 💬 380 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
+**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
 
-Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
+In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
 
-📺 BBC News
+📺 Google DeepMind
 
-👁️ 113K • 👍 644 • 💬 43 • ⏱️ 5:36 • 2d ago
+👁️ 93K • 👍 2K • 💬 186 • ⏱️ 1:44 • 6h ago
 
 ---
 
-**[These 3 Stocks Will Power Elon Musk’s Robotics Boom?](https://www.youtube.com/watch?v=5OBFtybgnWU)**
+**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
 
-Hi, I'm Dylan. I hold stock pickers accountable. Top 10 To Buy And Hold Forever: https://tinyurl.com/2h4wuyp5 youtube description ...
+America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
 
-📺 Dylan Rieger
+📺 Future Core
 
-👁️ 16K • 👍 452 • 💬 22 • ⏱️ 10:20 • 6d ago
+👁️ 9K • 👍 49 • 💬 4 • ⏱️ 10:07 • 6d ago
+
+---
+
+**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
+
+Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
+
+📺 States 2050
+
+👁️ 100K • 👍 1K • 💬 67 • ⏱️ 26:07 • 6d ago
 
 ---
 
@@ -248,53 +244,53 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 ---
 
+**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
+
+Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
+
+📺 BBC News
+
+👁️ 115K • 👍 659 • 💬 43 • ⏱️ 5:36 • 2d ago
+
+---
+
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+
+📺 MACHINEKIND
+
+👁️ 54K • 👍 871 • 💬 86 • ⏱️ 13:43 • 5d ago
+
+---
+
 **[War Robots MOST SATISFYING WAY to deal with SHOGGOTHS!](https://www.youtube.com/watch?v=xzO0lq3KW4k)**
 
 War Robots Gameplay: UE Hawk drive-by destroying Shoggoths is the most fun thing to do: To see them destroy themselves!
 
 📺 Manni-Gaming
 
-👁️ 19K • 👍 499 • 💬 105 • ⏱️ 9:47 • 1d ago
+👁️ 20K • 👍 518 • 💬 112 • ⏱️ 9:47 • 1d ago
 
 ---
 
-**[China’s  Kung Fu Robot Is Now Working Real Jobs](https://www.youtube.com/watch?v=J3aVeZ2Ntoo)**
+**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
 
-China's humanoid robot race is moving fast, and AGIBOT's A3 is proving that AI robots can do far more than perform flashy ...
+Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
 
-📺 NextGen Humanoids
+📺 Paigham-e-Deen 
 
-👁️ 15K • 👍 135 • 💬 31 • ⏱️ 9:00 • 4d ago
-
----
-
-**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
-
-This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 48 • 💬 9 • ⏱️ 1:03 • 1d ago
+👁️ 269K • 👍 3K • 💬 2 • ⏱️ 0:11 • 1d ago
 
 ---
 
-**[This Guy Visited 34 Robot Companies. Here’s What He Found!](https://www.youtube.com/watch?v=sd9R3W9xcBE)**
+**[Food Delivery Robots Run Into Trouble](https://www.youtube.com/watch?v=6SOCvL6QQGM)**
 
-Robotics may be about to have its ChatGPT moment, and Citrini Research just called it the Robotics Tipping Point. A humanoid ...
+Food delivery robots across the U.S. are touching a nerve for many Americans who are concerned about A.I. technology.
 
-📺 RoboStrategy
+📺 The New York Times
 
-👁️ 18K • 👍 391 • 💬 46 • ⏱️ 1:06:56 • 5d ago
-
----
-
-**[Americans Are ATTACKING Food Delivery Robots! #Robots #Automation #LamontTyson](https://www.youtube.com/watch?v=PLJgK7S3NEY)**
-
-Food delivery robots are showing up on sidewalks across America, but not everyone is welcoming them. According to reporting ...
-
-📺 Lamont Tyson
-
-👁️ 109K • 👍 4K • 💬 798 • ⏱️ 0:50 • 1d ago
+👁️ 310K • 👍 5K • 💬 731 • ⏱️ 0:50 • 1d ago
 
 ---
 

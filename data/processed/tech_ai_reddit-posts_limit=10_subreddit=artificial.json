@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
+      "published": 1791912611.0,
+      "thumbnail": "https://external-preview.redd.it/03KGZL2rt3MG5uoMcPYK7o9PjSl1Bb9SaNKPSn7r93k.jpeg?width=640&crop=smart&auto=webp&s=3943d5145dfff6fcc1283b1801eb37261eb84e38",
+      "external_url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
+    },
+    {
       "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
       "author": "nbcnews",
       "url": "https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/",
@@ -35,17 +46,6 @@
       "description": "Art will be \"generated with full AI workflows\"."
     },
     {
-      "title": "Could AI help me build a football YouTube channel?",
-      "author": "AppealInformal09",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/",
-      "published": 1791905679.0,
-      "thumbnail": "https://external-preview.redd.it/Z25ra3d6amM3OXZoMRCKFofGl2FF74tfn2scnzFgc4v0uOQBuoPmaL6NN2kU.png?width=320&crop=smart&auto=webp&s=eabf1778b37f9474d6932b351186931e07d57570",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been experimenting with AI generated audio lately, and I made this short football explainer on why football stars miss penalties.... and after watching the results, now I'm thinking of taking this a step further and starting a YouTube channel around football. So, the idea is very simple, generate narration around topics like football psychology, legendary players, tactical breakdowns, and crazy football stories, then combine the audio with relevant footage, animations, subtitles, and editing to make complete videos..... Basically, turning one audio piece into a proper football explainer without needing to record my own voice, would love to know about if anyone here has tried building a YouTube channel using a similar workflow or something like that....."
-    },
-    {
       "title": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
       "author": "lulzxdxdxd",
       "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
@@ -55,6 +55,28 @@
       "site_name": "anthropic.com",
       "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
       "description": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
+    },
+    {
+      "title": "How do you assess Alexandr Wang's technical ability and leadership beyond the hype?",
+      "author": "nian2326076",
+      "url": "https://www.reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical/",
+      "published": 1791923118.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep seeing Alexandr Wang get a lot of hate, and I don't really understand what it's based on. I recently saw a report saying he'd claimed Meta AI is catching up to GPT, which made me wonder how people who actually work in AI assess him. Is he unusually capable, overhyped, or just a normal person under a huge spotlight? I'm curious about both his technical understanding and his ability to lead and execute. What specific work or decisions would you point to when judging him? I'm especially interested in perspectives from people at Meta or anyone who's worked with him. I'd like some context beyond the usual genius-or-idiot takes."
+    },
+    {
+      "title": "Netflix spent big on Ben Affleck\u2019s AI company. After Animals, they might wonder why",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/",
+      "published": 1791897364.0,
+      "thumbnail": "https://external-preview.redd.it/UweGC8f8EZmzeKjW6mr0UdzH-UOYjNMIMbKynAhtFIg.jpeg?width=640&crop=smart&auto=webp&s=166ef5d9daea6ca7609ff75d2e18e31d3a077ddd",
+      "external_url": "https://www.the-independent.com/arts-entertainment/films/features/ben-affleck-ai-netflix-animals-b3065533.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.the-independent.com/img/shortcut-icons/icon-192x192.png",
+      "description": "Ben Affleck won\u2019t say exactly how he used AI on his critically-panned new Netflix thriller. But thanks to sloppy editing and one unintentionally hilarious scene, he may have accidentally undermined his own technology, writes Kevin E G Perry"
     },
     {
       "title": "Modern-Day Propaganda in the Age of AI May Be Propaganda That Never Asks Everyone to Believe the Same Thing",
@@ -68,6 +90,17 @@
       "description": "Here's some interesting food for thought to consider regarding propaganda in the digital age. Take the data center problem, as an example. One person might see jobs, tax revenue, and technological progress. Another could see massive buildings consuming electricity and water while giving little back to the surrounding community. Someone else could see national security: if we want to compete in AI, we need the infrastructure to run it. And then there are people worried about mass surveillance. They understand exactly what these systems could make possible, more data collection, more behavioral tracking, more power concentrated in private and government hands. But even they could acquiesce or support the data centers in the near future. Why? Because they might be influenced to believe that the technology will come either way. Better to build it here, where it can be regulated. Better to stay ahead of foreign competitors. Better to support the infrastructure now and fight over how it\u2019s used later. And as construction expands, it could embolden small radical groups to take violent or illegal action against the centers. If that begins trending, the group would become the story. Anyone raising concerns about surveillance, water, energy, or corporate power could be pressured to distance themselves from the opposition. Nobody wants to be associated with extremists or labeled anti-progress. So the surveillance skeptic will go silent to avoid social scrutiny and vote rationally to choose the lesser of evils. The nationalists will vote for technological independence. The anxious voters will choose security. The optimist will choose progress. Different beliefs. Different emotional triggers. The same outcome: the data centers expand. That\u2019s what makes modern propaganda so unsettling when it becomes possible to map and understand clustered behaviors. A population doesn\u2019t have to share one belief to produce one future. It can be divided into different emotional camps, fear, pride, anger, hope, while still being guided toward the same decision by taking advantage of media feeds and our digital behaviors. So control may not be in the message these days. A lot of it could exist in the destination, itself."
     },
     {
+      "title": "Could AI help me build a football YouTube channel?",
+      "author": "AppealInformal09",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/",
+      "published": 1791905679.0,
+      "thumbnail": "https://external-preview.redd.it/Z25ra3d6amM3OXZoMRCKFofGl2FF74tfn2scnzFgc4v0uOQBuoPmaL6NN2kU.png?width=320&crop=smart&auto=webp&s=eabf1778b37f9474d6932b351186931e07d57570",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've been experimenting with AI generated audio lately, and I made this short football explainer on why football stars miss penalties.... and after watching the results, now I'm thinking of taking this a step further and starting a YouTube channel around football. So, the idea is very simple, generate narration around topics like football psychology, legendary players, tactical breakdowns, and crazy football stories, then combine the audio with relevant footage, animations, subtitles, and editing to make complete videos..... Basically, turning one audio piece into a proper football explainer without needing to record my own voice, would love to know about if anyone here has tried building a YouTube channel using a similar workflow or something like that....."
+    },
+    {
       "title": "R.I.P.",
       "author": "Sevives",
       "url": "https://www.reddit.com/r/artificial/comments/1x3w15b/rip/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Anthropic says new defenses cut what rivals distill out of Claude by 90-99% \u2014 one request it blocked came from a user it believes was PLA-affiliated",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4o4yg/anthropic_says_new_defenses_cut_what_rivals/",
-      "published": 1791868600.0,
-      "thumbnail": "https://external-preview.redd.it/6MptJVVXIppgceAvhhPIGRqLooK3uQOWpdoQN4qWG84.jpeg?width=640&crop=smart&auto=webp&s=16cc6f8ad15051a8243bb268c5d27aa6601a16be",
-      "external_url": "https://www.anthropic.com/research/distillation-defenses",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%."
-    },
-    {
-      "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
-      "published": 1791912611.0,
-      "thumbnail": "https://external-preview.redd.it/03KGZL2rt3MG5uoMcPYK7o9PjSl1Bb9SaNKPSn7r93k.jpeg?width=640&crop=smart&auto=webp&s=3943d5145dfff6fcc1283b1801eb37261eb84e38",
-      "external_url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
-    },
-    {
-      "title": "Linux founder Linus Torvalds says AI is a \u201cgateway drug\u201d into programming \u2014 but cautions about using AI for \u201cserious\u201d work",
-      "author": "masiroo",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/",
-      "published": 1791842849.0,
-      "thumbnail": "https://external-preview.redd.it/AExYEjTtAqrVaUg44RhQ88atlWDUfqdIEPhATEcIHo4.jpeg?width=640&crop=smart&auto=webp&s=30b589576b9c3e159465a93ca71c82abcbd4896c",
-      "external_url": "https://tech.yahoo.com/ai/articles/linux-founder-linus-torvalds-says-103004221.html",
-      "site_name": "Yahoo Tech",
-      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
-      "description": "Torvalds said AI can do \u201creally good code\u201d but warned against it when users are unsure what the end result should be."
     }
   ],
-  "fetched_at": "2026-10-13T17:43:17.846058+00:00"
+  "fetched_at": "2026-10-13T22:21:37.707259+00:00"
 }
