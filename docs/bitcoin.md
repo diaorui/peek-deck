@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-13T02:51:54.446437+00:00'
+updated: '2026-10-13T10:11:28.627875+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 13, 2026 at 02:51 UTC  
+**Last Updated:** October 13, 2026 at 10:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,788.33
+### $83,454.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -0.5%  
-**30d:** +6.0%  
-**90d:** +29.8%  
-**1y:** -26.7%  
+**24h:** +0.2%  
+**7d:** +0.4%  
+**30d:** +6.9%  
+**90d:** +30.9%  
+**1y:** -26.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1662.95B
+**Market Cap:** $1678.33B
 Rank #1
 
 **Circulating Supply:** 20,097,368 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.4%
+-33.8%
 
 **All-Time Low:** $67.81
-+121923.3%
++123063.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 69
+### 57
 **GREED**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Checking in on the fiat currency experiment.](https://www.reddit.com/r/Bitcoin/comments/1x475bi/checking_in_on_the_fiat_currency_experiment/)**
 
-9h ago
+17h ago
 
 ---
 
 **[Is This Guy Real?This guy claims he held Bitcoin since 2013, made a 1000x return and recreated his old viral video 11 years later. Pretty insane if true.But is this story actually real? Anyone know who he is?](https://www.reddit.com/r/Bitcoin/comments/1x4apxa/is_this_guy_realthis_guy_claims_he_held_bitcoin/)**
 
-7h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ My friends father was renting space on his farm for a bitcoin mining operation. 
 
 I don't usually post stuff like this, but I've been a loyal Apple user since 2008 with over 7 devices on one Apple ID, plus the usual subscriptions (iCloud+, In App purchases, app subscriptions) so this one stung in a specific way. In June I downloaded an app called "Wasabi Bitcoin & Crypto Wallet" from the official App Store. It looked completely legitimate, normal listing, developer name, screenshots, reviews. It turned out to be an impersonation of the real Wasabi Wallet. Wasabi Wallet is an open-source, desktop-only software that has never had a mobile app. In August, a wallet I'd created inside that fake app was drained in a single transaction; about 0.9 BTC, roughly $53k at the time. The theft is bad enough. What's been almost as frustrating is that there's no way to actually talk to a person at Apple about it. No phone line, no support chat for this, just web forms (Apple's own "report a problem" page, and their EU "Digital Services Act" reporting portal). I filed a police report. I reported it through every official channel Apple offers. Apple's own review team closed my EU complaint with a one line reply: insufficient information, or no violation found. No further explanation. One thing that's stuck with me: with the real, open-source Wasabi Wallet, anyone can verify a release is genuine by checking its cryptographic signature on GitHub. On the App Store, there's no equivalent. As a user, you have no way to check that an app is actually from the developer it claims to be. You're just trusting Apple's review process, full stop. That trust is what got me here. What makes it sting more: Apple's own App Store Review Guidelines, not marketing copy, their actual rulebook for developers say: "These efforts have made Apple's platforms the safest for consumers around the world." That's the exact trust I was operating on. This isn't a one-off either. Security researchers found dozens of similar fake wallet apps on the App Store this year alone (Kaspersky, April 2026). There's also an ongoing US lawsuit over a nearly identical fake Sparrow Wallet app. I'm not trying to start a pile-on, I still like my Apple devices. I just wish there were an actual way to be heard, and wanted other people to be a bit more careful with anything wallet-related in the App Store, "official" or not. Happy to answer questions if anyone's curious or has been through something similar.
 
-10h ago
+17h ago
 
 ---
 
@@ -109,7 +109,7 @@ I don't usually post stuff like this, but I've been a loyal Apple user since 200
 
 Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
-10h ago
+17h ago
 
 ---
 
@@ -123,13 +123,13 @@ Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
 Money supply isn't dropping any time soon. The next run will be glorious.
 
-9h ago
+16h ago
 
 ---
 
 **[AI Agents Agree: BTC is best for long term capital preservation.](https://www.reddit.com/r/Bitcoin/comments/1x4bvlx/ai_agents_agree_btc_is_best_for_long_term_capital/)**
 
-7h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ Money supply isn't dropping any time soon. The next run will be glorious.
 
 Sometimes, they just have to learn Bitcoin on their own. Even if it means another 10 years wasted.
 
-13h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Sometimes, they just have to learn Bitcoin on their own. Even if it means anothe
 
 The company confirmed physical tampering in at least one affected device. In addition, reports emerged that the incident has spread to Europe.
 
-🔗 [CryptoPotato](https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/) • 20h ago
+🔗 [CryptoPotato](https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/) • 1d ago
 
 ---
 
@@ -155,31 +155,29 @@ The company confirmed physical tampering in at least one affected device. In add
 
 **[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
 
-WSJ • 17h ago
+WSJ • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and Solana ETFs All in the Red for October](https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october)**
+**[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
 
-“Uptober” isn’t living up to its name for crypto ETFs as Bitcoin, Ethereum, and Solana are all in the red for the month so far.
-
-Decrypt • 1d ago
+Financial Times • 6h ago
 
 ---
 
-**[When Will Bitcoin Price Reclaim Its All-Time High? Cycle Data Gives a Date](https://www.mitrade.com/au/insights/crypto/bitcoin/beincrypto-BTCUSD-202610130933)**
+**[Options Traders Are Back at 2021 Levels: Will Bitcoin Repeat That Year's Doubling?](https://finance.yahoo.com/markets/crypto/articles/options-traders-back-2021-levels-085609321.html)**
 
-Bitcoin price currently trades 35% below its record peak of $126,000. When will BTC again reclaim its all-time high? Based on market cycle patterns, popular analyst Root suggests it could be by June 2
+Options volume is back at 2021 levels, yet Bitcoin ETFs log outflows. See why BTC has not repeated its 2021 doubling.
 
-Mitrade • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[US Dollar Hits 18-Month High: What It Means for Bitcoin and Stocks](https://www.mitrade.com/au/insights/currency/usd/beincrypto-USDOLLARF-202610130935)**
+**[UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin](https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin)**
 
-The US dollar is surging, and that could spell trouble for Bitcoin and Wall Street. The US Dollar Index (DXY) reached an 18-month high near 102.56 on Monday, while Bitcoin struggled around $83,000 and
+The decision concerns 61,000 BTC seized by the Metropolitan Police in its investigation into Zhimin Qian, who pleaded guilty to defrauding thousands of people in China.
 
-Mitrade • 1h ago
+CoinDesk • 46m ago
 
 ---
 
@@ -187,39 +185,23 @@ Mitrade • 1h ago
 
 October 12, 2026
 
-MSTR Metrics - Strategy • 14h ago
+MSTR Metrics - Strategy • 21h ago
 
 ---
 
-**[Saylor Says There Is Always Room for More Orange. Strategy Bought 334 Bitcoin Last Week. Two Years Ago It Was Buying 55,000 in a Week.](https://finance.yahoo.com/markets/crypto/articles/saylor-says-always-room-more-113005012.html)**
+**[Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data](https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383)**
 
-Michael Saylor insists there is always room for more Bitcoin, but Strategy's latest weekly purchase raises a question worth asking: what does a near-microscopic acquisition reveal about the limits of the company's grand accumulation playbook?
+The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.
 
-Yahoo Finance • 15h ago
-
----
-
-**[Bitcoin price news: BTC slips below $83K as oil and bond yields rise](https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge)**
-
-Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic.
-
-CoinDesk • 6h ago
+The Block • 5h ago
 
 ---
 
-**[Bitcoin falls below $82,000 as $120 million in crypto longs get liquidated](https://www.tradingview.com/news/cryptobriefing:3bdd3f16b094b:0-bitcoin-falls-below-82-000-as-120-million-in-crypto-longs-get-liquidated/)**
+**[American Bitcoin: The Market Pays Almost Nothing For The Mining Business (ABTC)](https://seekingalpha.com/article/4953696-american-bitcoin-the-market-pays-almost-nothing-for-the-mining-business)**
 
-Bitcoin slipped below $82,000, and leveraged bulls paid for it almost immediately. Roughly $120 million in long positions across crypto were liquidated in the span of 15 minutes.The drop pushed Bitcoin under the $82,000 mark during intraday trading on October 12. As the price fell, exchanges began…
+American Bitcoin is rated Buy with a 12-month target of $11, reflecting a conservative stance versus Wall Street consensus. Learn more about ABTC stock here.
 
-TradingView • 3h ago
-
----
-
-**[Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear](https://finance.yahoo.com/markets/crypto/articles/bitcoin-trades-above-82-000-042957252.html)**
-
-Investing.com -- Bitcoin recovered on Saturday but remained on course for a weekly loss, as rising oil prices, higher U.S. Treasury yields and renewed cryptocurrency security concerns weighed on sentiment.
-
-Yahoo Finance • 2d ago
+Seeking Alpha • 10m ago
 
 ---
 
@@ -227,7 +209,23 @@ Yahoo Finance • 2d ago
 
 The iShares Bitcoin Trust fund has broken a downtrend and cleared a cup-with-handle pattern. IBIT stock has passed its 46.37 buy point.
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 17h ago
+
+---
+
+**[Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?](https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare)**
+
+Bitcoin is off to a rough start so far this month. But things could still turn around.
+
+Bitcoin Magazine • 14h ago
+
+---
+
+**[Trump Bought Coinbase Stock in July and Sold Some of It on August 10. The Same Day, He Bought More Strategy. Here Is What Both Have Done Since.](https://247wallst.com/investing/cryptocurrency/2026/10/12/trump-bought-coinbase-stock-in-july-and-sold-some-of-it-on-august-10-the-same-day-he-bought-more-strategy-here-is-what-both-have-done-since/)**
+
+On August 10, 2026, Donald Trump sold Coinbase stock and bought Strategy stock. Strategy has since gained 59%, Coinbase 21%.
+
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -261,7 +259,7 @@ Discord is great for playing games and chilling with friends, or even building a
 
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
-⬆️ 1 • 💬 0 • 7h ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
+⬆️ 1 • 💬 0 • 14h ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
 
 ---
 
@@ -269,13 +267,13 @@ Discord is great for playing games and chilling with friends, or even building a
 
 Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chain inputs from our own full node. No key, CORS open. - multiassist/bitcoin-barometer
 
-⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
+⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
 
 ---
 
 **[Ask HN: What Happened in DNSSEC Yesterday?](https://news.ycombinator.com/item?id=50055306)**
 
-⬆️ 2 • 💬 2 • 14h ago
+⬆️ 2 • 💬 2 • 21h ago
 
 ---
 
@@ -283,7 +281,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.
 
-⬆️ 14 • 💬 0 • 1d ago • [abc.net.au](https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528)
+⬆️ 15 • 💬 0 • 1d ago • [abc.net.au](https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528)
 
 ---
 
@@ -297,17 +295,37 @@ Bitcoin is approaching a critical $88000 level that has historically signaled a 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 990 • 💬 101 • ⏱️ 17:10 • 5h ago
+👁️ 34K • 👍 1K • 💬 128 • ⏱️ 17:10 • 13h ago
 
 ---
 
-**[My MASSIVE Warning To Crypto Holders](https://www.youtube.com/watch?v=qz3BKaBKIh8)**
+**[WTF Is Actually Happening To Crypto?! (And How to Invest)](https://www.youtube.com/watch?v=HKLoC3aCAbE)**
 
-Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
+Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
 📺 Altcoin Daily
 
-👁️ 115K • 👍 5K • 💬 216 • ⏱️ 10:37 • 2d ago
+👁️ 51K • 👍 2K • 💬 117 • ⏱️ 10:13 • 8h ago
+
+---
+
+**[BREAKING: DID CHINA JUST SEND A BITCOIN WARNING AT AMERICA!!! | EP 1611](https://www.youtube.com/watch?v=N3BHqZ8YNrI)**
+
+INSANE BITCOIN BACKFLIP BY CHINA THIS WEEKEND!
+
+📺 Simply Bitcoin
+
+👁️ 15K • 👍 292 • 💬 14 • ⏱️ 1:16:40 • 15h ago
+
+---
+
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=-eKtrrN5P48)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 89K • 👍 3K • 💬 122 • ⏱️ 11:43 • 12h ago
 
 ---
 
@@ -317,7 +335,7 @@ Ledger confirmed that one customer device contained an unauthorized hardware imp
 
 📺 Yahoo Finance
 
-👁️ 17K • 👍 318 • 💬 148 • ⏱️ 14:50 • 9h ago
+👁️ 20K • 👍 356 • 💬 189 • ⏱️ 14:50 • 17h ago
 
 ---
 
@@ -327,67 +345,47 @@ Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 197 • 💬 18 • ⏱️ 6:44 • 4h ago
+👁️ 11K • 👍 260 • 💬 25 • ⏱️ 6:44 • 11h ago
 
 ---
 
-**[Bitcoin REFUSES To Crash - Even Peter Schiff Admits He’s Surprised](https://www.youtube.com/watch?v=p0vkjfMZU44)**
+**[Bitcoin Breakout Faces Its Biggest Test](https://www.youtube.com/watch?v=B0pQm3SJkgE)**
 
-Bitcoin #Crypto #finance Peter Schiff joins the show to explain why he believes rising Treasury yields, soaring U.S. debt and ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 The Wolf Of All Streets
+📺 CryptosRUs
 
-👁️ 27K • 👍 497 • 💬 330 • ⏱️ 53:39 • 1d ago
-
----
-
-**[Bitcoin’s Next Big Rally May Have Already Started](https://www.youtube.com/watch?v=RoUGeHCpXTA)**
-
-On episode 263 of The Compound and Friends, ...
-
-📺 The Compound
-
-👁️ 14K • 👍 214 • 💬 10 • ⏱️ 1:43 • 1d ago
+👁️ 25K • 👍 708 • 💬 98 • ⏱️ 43:40 • 17h ago
 
 ---
 
-**[🚨Crypto Proxy &amp; Wrapper Dangers📉What Stage Of IA13 Bubble Are We?](https://www.youtube.com/watch?v=JFF71e0pJTk)**
+**[Bitcoin: Before the Next Dip, Remember What Worked.](https://www.youtube.com/watch?v=sLQ2p7CKygY)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+A lot of people were scared when Bitcoin dropped under the 200-week moving average. The plan was simple: buy at those levels, ...
 
-📺 InvestAnswers
+📺 Digital Asset News
 
-👁️ 58K • 👍 3K • 💬 68 • ⏱️ 33:40 • 1d ago
-
----
-
-**[Crypto Will Punish Traders Who Miss This Massive Buying Opportunity!](https://www.youtube.com/watch?v=6i8eGCPpTTU)**
-
-Bitcoin could be presenting one of the biggest buying opportunities of this market cycle. In this episode, Sheldon breaks down the ...
-
-📺 Crypto Banter
-
-👁️ 36K • 👍 2K • 💬 40 • ⏱️ 37:37 • 16h ago
+👁️ 5K • 👍 126 • 💬 7 • ⏱️ 1:40 • 22h ago
 
 ---
 
-**[Top Altcoins EVERY Crypto Investor Should Watch Right Now!](https://www.youtube.com/watch?v=E7q3ere3tGw)**
+**[$2 Million Bitcoin SUPPLY SHOCK - Saylor Just Signaled Another Buy](https://www.youtube.com/watch?v=B0agixUpDT4)**
 
-Crypto is entering a more selective market, where individual altcoins are gaining momentum through powerful narratives and ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Crypto Banter
+📺 Bitcoin News Alerts
 
-👁️ 38K • 👍 1K • 💬 45 • ⏱️ 43:34 • 12h ago
+👁️ 9K • 👍 315 • 💬 159 • ⏱️ 15:05 • 1d ago
 
 ---
 
-**[Bitcoin Is the Toll Collector of the AI Economy](https://www.youtube.com/watch?v=rAVx9MiSbjc)**
+**[Bitcoin Traders!!! THE MOMENT IS HERE!!!! ACT NOW!!!](https://www.youtube.com/watch?v=i8PmqCjQXIU)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Coinbase https://ckenny.com/Coinbase Coinbase Perpetuals https://ckenny.com/CBP ⚠️ DISCLAIMER – READ FIRST This ...
 
-📺 Anthony Pompliano
+📺 Conor Kenny
 
-👁️ 135K • 👍 3K • 💬 180 • ⏱️ 46:44 • 2d ago
+👁️ 5K • 👍 275 • 💬 49 • ⏱️ 20:57 • 4h ago
 
 ---
 

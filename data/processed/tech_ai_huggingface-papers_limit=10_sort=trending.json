@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.13912",
       "arxiv_url": "https://arxiv.org/abs/2610.13912",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.13912.png",
-      "upvotes": 30,
+      "upvotes": 32,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 26546,
+      "github_stars": 27432,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 4605,
+      "github_stars": 4617,
       "project_page": null
     },
     {
@@ -88,11 +88,11 @@
       "hf_url": "https://huggingface.co/papers/2609.33757",
       "arxiv_url": "https://arxiv.org/abs/2609.33757",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33757.png",
-      "upvotes": 233,
+      "upvotes": 234,
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 11788,
+      "github_stars": 11841,
       "project_page": "https://map-yue2.github.io/"
     },
     {
@@ -107,31 +107,12 @@
       "hf_url": "https://huggingface.co/papers/2610.08699",
       "arxiv_url": "https://arxiv.org/abs/2610.08699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 111,
+      "upvotes": 112,
       "num_comments": 2,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
       "github_stars": 967,
       "project_page": "https://nanomuse.cn/"
-    },
-    {
-      "id": "2610.12572",
-      "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models",
-      "authors": "Zhenglin Wan, Jiayu Chen, Zhengfeiyang Zhang et al. (9 authors)",
-      "organization_name": "KlingTeam",
-      "organization_fullname": "KlingAI Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/60e272ca6c78a8c122b12127/ZQV1aKLUDPf2rUcxxAqj6.jpeg",
-      "summary": "Online reinforcement learning (RL) fine-tunes diffusion models with black-box rewards, but reverse-process methods such as Flow-GRPO are limited in efficiency by poor credit assignment, while forward-process methods such as DiffusionNFT are efficient yet unstable without carefully tuned exponential-moving-average (EMA) off-policy training. We show that NFT-style objectives contain a hidden forward--reverse consistency force that joint positive--negative training cancels only partially, and that EMA stabilizes training through restoration rather than off-policy rollouts. We introduce DiffusionART (Diffusion Reinforcement with Aggregation-First Reward Tilting), which aggregates each prompt's rewards into a shared reward-improving direction for reverse-process states, removing the consistency force by construction, and adds a trust-region-masked second update for drift-adaptive restoration without EMA tuning. It requires no differentiable reward model, remains effective with fewer samples per prompt, and supports pairwise reward models (DiffusionART-Pairwise). Across image and video generation, DiffusionART trains efficiently and stably without per-task tuning. In particular, on HunyuanVideo-13B with equally weighted visual and motion quality rewards, DiffusionART reaches the late-stage mean reward levels of DiffusionNFT and Flow-GRPO-Fast with 12.02 and 11.72 times fewer GPU hours, respectively, while achieving 28.8% and 53.0% higher mean training rewards.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.12572",
-      "arxiv_url": "https://arxiv.org/abs/2610.12572",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.12572.png",
-      "upvotes": 231,
-      "num_comments": 4,
-      "published_at": "2026-10-07T20:00:00.000Z",
-      "github_repo": "https://github.com/vanzll/DiffusionART",
-      "github_stars": 72,
-      "project_page": "https://vanzll.github.io/diffusionart-project/"
     },
     {
       "id": "2412.20138",
@@ -149,8 +130,27 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 110799,
+      "github_stars": 110884,
       "project_page": null
+    },
+    {
+      "id": "2610.12572",
+      "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models",
+      "authors": "Zhenglin Wan, Jiayu Chen, Zhengfeiyang Zhang et al. (9 authors)",
+      "organization_name": "KlingTeam",
+      "organization_fullname": "KlingAI Research",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/60e272ca6c78a8c122b12127/ZQV1aKLUDPf2rUcxxAqj6.jpeg",
+      "summary": "Online reinforcement learning (RL) fine-tunes diffusion models with black-box rewards, but reverse-process methods such as Flow-GRPO are limited in efficiency by poor credit assignment, while forward-process methods such as DiffusionNFT are efficient yet unstable without carefully tuned exponential-moving-average (EMA) off-policy training. We show that NFT-style objectives contain a hidden forward--reverse consistency force that joint positive--negative training cancels only partially, and that EMA stabilizes training through restoration rather than off-policy rollouts. We introduce DiffusionART (Diffusion Reinforcement with Aggregation-First Reward Tilting), which aggregates each prompt's rewards into a shared reward-improving direction for reverse-process states, removing the consistency force by construction, and adds a trust-region-masked second update for drift-adaptive restoration without EMA tuning. It requires no differentiable reward model, remains effective with fewer samples per prompt, and supports pairwise reward models (DiffusionART-Pairwise). Across image and video generation, DiffusionART trains efficiently and stably without per-task tuning. In particular, on HunyuanVideo-13B with equally weighted visual and motion quality rewards, DiffusionART reaches the late-stage mean reward levels of DiffusionNFT and Flow-GRPO-Fast with 12.02 and 11.72 times fewer GPU hours, respectively, while achieving 28.8% and 53.0% higher mean training rewards.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.12572",
+      "arxiv_url": "https://arxiv.org/abs/2610.12572",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.12572.png",
+      "upvotes": 238,
+      "num_comments": 4,
+      "published_at": "2026-10-07T20:00:00.000Z",
+      "github_repo": "https://github.com/vanzll/DiffusionART",
+      "github_stars": 89,
+      "project_page": "https://vanzll.github.io/diffusionart-project/"
     },
     {
       "id": "1910.03771",
@@ -168,7 +168,7 @@
       "num_comments": 7,
       "published_at": "2019-10-08T23:23:22.000Z",
       "github_repo": "https://github.com/huggingface/transformers",
-      "github_stars": 167585,
+      "github_stars": 167618,
       "project_page": "https://huggingface.co"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-13T02:51:41.323570+00:00"
+  "fetched_at": "2026-10-13T10:11:05.895481+00:00"
 }
