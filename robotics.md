@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-12T21:35:40.258431+00:00'
+updated: '2026-10-13T02:51:54.456199+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 12, 2026 at 21:35 UTC  
+**Last Updated:** October 13, 2026 at 02:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-4d ago
+5d ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-4d ago
+5d ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-4d ago
+5d ago
 
 ---
 
@@ -98,7 +98,7 @@ Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-5d ago
+6d ago
 
 ---
 
@@ -106,13 +106,21 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-4d ago
+5d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Chinese Robots Could Decide the AI Race](https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race)**
+
+Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.
+
+Foreign Affairs • 18h ago
+
+---
 
 **[Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work](https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse)**
 
@@ -126,37 +134,31 @@ Futurism • 2d ago
 
 The second-largest corporate employer has bet big on robot workers to scale.
 
-Ars Technica • 8h ago
+Ars Technica • 14h ago
 
 ---
 
-**[Chinese Robots Could Decide the AI Race](https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race)**
+**[US Army creates robotics technician job to focus on drone warfare](https://www.militarytimes.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/)**
 
-Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.
+As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.
 
-Foreign Affairs • 13h ago
-
----
-
-**[Cedars-Sinai uniting surgeons and engineers with new robotic surgery initiative](https://ktla.com/news/cedars-sinai-uniting-surgeons-and-engineers-with-new-robotic-surgery-initiative/)**
-
-KTLA • 5h ago
+Military Times • 8h ago
 
 ---
 
-**[Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations](https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations)**
+**[Stryker enters soft tissue robotics with $400M investment in CMR Surgical](https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/)**
 
-As I’m writing this I’m able to stare out into my driveway at my trusty Honda Odyssey. Most of the public’s association with Honda is through their “mobility” products - i.e. their cars. But the company has an impressive track record of other technical achievements, not the least of which has been in robotics. Now, it’s teaming up with space infrastructure firm Redwire to develop an automated laboratory support system for use on future commercial space stations.
+Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic.
 
-Universe Today • 1d ago
+MedTech Dive • 10h ago
 
 ---
 
-**[Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night](https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night)**
+**[Girls take controls at Michigan robotics invitational in Woodhaven](https://www.clickondetroit.com/news/local/2026/10/11/girls-take-controls-at-michigan-robotics-invitational-in-woodhaven/)**
 
-Video. Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night.
+Woodhaven’s Goonettes invitational gives young women a chance to compete
 
-Euronews.com • 1d ago
+ClickOnDetroit | WDIV Local 4 • 1d ago
 
 ---
 
@@ -168,27 +170,27 @@ The Robot Report • 1d ago
 
 ---
 
-**[Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win.](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-could-5-trillion-015000599.html)**
+**[Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night](https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night)**
 
-Morgan Stanley is projecting a $5 trillion valuation for the humanoid robots industry. These stocks are poised to thrive because of it.
+Video. Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night.
 
-Yahoo Finance • 19h ago
-
----
-
-**[A humanoid robot for developers and schools is among four launches planned for Oct. 14.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-nj2g31fy9ycs.html)**
-
-YT Jia's weekly investor report has been rescheduled for Oct. 14; the full launch video will be available online Oct. 15 at 5 p.m. PDT.
-
-Stock Titan • 21h ago
+Euronews.com • 1d ago
 
 ---
 
-**[US Army creates robotics technician job to focus on drone warfare](https://www.militarytimes.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/)**
+**[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
 
-As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.
+At a Van Ness arena, 200-pound robots wielded steel blades.
 
-Military Times • 3h ago
+The San Francisco Standard • 1d ago
+
+---
+
+**[Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations](https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations)**
+
+As I’m writing this I’m able to stare out into my driveway at my trusty Honda Odyssey. Most of the public’s association with Honda is through their “mobility” products - i.e. their cars. But the company has an impressive track record of other technical achievements, not the least of which has been in robotics. Now, it’s teaming up with space infrastructure firm Redwire to develop an automated laboratory support system for use on future commercial space stations.
+
+Universe Today • 1d ago
 
 ---
 
@@ -196,23 +198,33 @@ Military Times • 3h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
-
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
-
-📺 MostAmazingTop10
-
-👁️ 130K • 👍 999 • 💬 107 • ⏱️ 9:18 • 1d ago
-
----
-
 **[Elon Musk&#39;s 1 Billion Robot Prediction Suddenly Looks Different.](https://www.youtube.com/watch?v=BsDEKGw_VRY)**
 
 Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very different when you see how quickly the technology is ...
 
 📺 ejunky66
 
-👁️ 771K • 👍 8K • 💬 344 • ⏱️ 1:00 • 4d ago
+👁️ 797K • 👍 8K • 💬 350 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
+
+Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
+
+📺 States 2050
+
+👁️ 94K • 👍 1K • 💬 67 • ⏱️ 26:07 • 5d ago
+
+---
+
+**[I Challenged China&#39;s Humanoid Robot to Tennis… Here&#39;s What Happened!](https://www.youtube.com/watch?v=rLcfmQnTnUY)**
+
+Human vs Robot! What happens when you challenge a humanoid robot to a game of tennis? At the China Open in Beijing, I went ...
+
+📺 Barrett
+
+👁️ 24K • 👍 308 • 💬 46 • ⏱️ 7:01 • 1d ago
 
 ---
 
@@ -232,7 +244,7 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 📺 Jot Tv Media 
 
-👁️ 91K • 👍 2K • 💬 17 • ⏱️ 1:04 • 4d ago
+👁️ 92K • 👍 2K • 💬 17 • ⏱️ 1:04 • 4d ago
 
 ---
 
@@ -242,7 +254,27 @@ Tech Now's Paul Carter finds out how technology powering advanced prosthetics is
 
 📺 BBC News
 
-👁️ 105K • 👍 607 • 💬 43 • ⏱️ 5:36 • 1d ago
+👁️ 108K • 👍 620 • 💬 43 • ⏱️ 5:36 • 1d ago
+
+---
+
+**[War Robots MOST SATISFYING WAY to deal with SHOGGOTHS!](https://www.youtube.com/watch?v=xzO0lq3KW4k)**
+
+War Robots Gameplay: UE Hawk drive-by destroying Shoggoths is the most fun thing to do: To see them destroy themselves!
+
+📺 Manni-Gaming
+
+👁️ 13K • 👍 414 • 💬 91 • ⏱️ 9:47 • 14h ago
+
+---
+
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+
+📺 MACHINEKIND
+
+👁️ 54K • 👍 860 • 💬 85 • ⏱️ 13:43 • 5d ago
 
 ---
 
@@ -256,43 +288,13 @@ UbiTech built a factory in China where robots assemble new humanoid robots every
 
 ---
 
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
-
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
-
-📺 MACHINEKIND
-
-👁️ 53K • 👍 858 • 💬 85 • ⏱️ 13:43 • 4d ago
-
----
-
-**[Why Arnold Melt These Robots?! 😳](https://www.youtube.com/watch?v=e-inSXLLSHc)**
-
-Arnold Schwarzenegger told a robotics company to melt down its old humanoid robots and they actually did it! Figure AI sent its ...
-
-📺 Caramba
-
-👁️ 202 • 👍 5 • 💬 1 • ⏱️ 0:55 • 1h ago
-
----
-
 **[DEEP Robotics | The &quot;New Traffic Officer&quot;](https://www.youtube.com/watch?v=_14HvDleHYM)**
 
 Meet the “New Traffic Officer.” DEEP Robotics' humanoid robot is taking to the streets of Hangzhou's West Lake District for ...
 
 📺 DEEP Robotics
 
-👁️ 14K • 👍 216 • 💬 28 • ⏱️ 1:12 • 6d ago
-
----
-
-**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
-
-Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
-
-📺 Paigham-e-Deen 
-
-👁️ 58K • 👍 861 • 💬 1 • ⏱️ 0:11 • 20h ago
+👁️ 14K • 👍 219 • 💬 29 • ⏱️ 1:12 • 6d ago
 
 ---
 
