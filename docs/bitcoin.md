@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-14T06:31:33.404500+00:00'
+updated: '2026-10-14T12:41:07.451332+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 06:31 UTC  
+**Last Updated:** October 14, 2026 at 12:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,367.44
+### $82,889.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.2%  
-**30d:** +10.3%  
-**90d:** +30.5%  
-**1y:** -24.9%  
+**24h:** -0.6%  
+**7d:** +1.3%  
+**30d:** +9.3%  
+**90d:** +29.4%  
+**1y:** -25.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1677.16B
+**Market Cap:** $1663.42B
 Rank #1
 
-**Circulating Supply:** 20,097,959 BTC
+**Circulating Supply:** 20,098,084 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.8%
+-34.4%
 
 **All-Time Low:** $67.81
-+122958.5%
++121957.2%
 
 ---
 
@@ -145,7 +145,7 @@ Sometimes, they just have to learn Bitcoin on their own. Even if it means anothe
 
 The company confirmed physical tampering in at least one affected device. In addition, reports emerged that the incident has spread to Europe.
 
-🔗 [CryptoPotato](https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/) • 1d ago
+🔗 [CryptoPotato](https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/) • 2d ago
 
 ---
 
@@ -153,37 +153,51 @@ The company confirmed physical tampering in at least one affected device. In add
 
 ## Google News: "bitcoin"
 
-**[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
-
-Financial Times • 19h ago
-
----
-
 **[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
 
-WSJ • 1d ago
+WSJ • 2d ago
 
 ---
 
-**[Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now](https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now)**
+**[Bitcoin’s Price Prediction: Will Global M2 Point to $300,000?](https://247wallst.com/investing/cryptocurrency/2026/10/11/bitcoins-price-prediction-will-global-m2-point-to-300000/)**
 
-Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.
+A well-known global M2 Bitcoin chart suggests BTC could be worth around $300,000. Here's whether money supply can forecast Bitcoin's price.
 
-CoinDesk • 46m ago
+24/7 Wall St. • 2d ago
 
 ---
 
-**[Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: ‘Long-Term Forecast Is…’](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-bitcoin-bottomed-042144574.html)**
+**[Zaria raises $5M to track crypto loan collateral](https://www.axios.com/pro/fintech-deals/2026/10/14/zaria-lightspeed-5-2m-bitcoin-loan-servicing)**
 
-In an interview with Bloomberg Television, Saylor said that BTC prices would move back to six figures.
+Axios • 34m ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Live updates: Bitcoin treading water near $83,000 ahead of U.S. inflation data](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)**
+
+Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.
+
+CoinDesk • 22m ago
+
+---
+
+**[Monero Is Closer to Its All-Time High Than Bitcoin Is. What Is a Privacy Coin Doing Right?](https://finance.yahoo.com/markets/crypto/articles/monero-closer-time-high-bitcoin-121157321.html)**
+
+A privacy coin built for anonymity is outperforming Bitcoin against its own all-time high, and the reasons behind that resilience reveal something unexpected about who actually holds Monero and why they refuse to sell.
+
+Yahoo Finance • 29m ago
 
 ---
 
 **[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
+
+Financial Times • 1d ago
 
 ---
 
@@ -191,37 +205,21 @@ Bloomberg.com • 11h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 11h ago
+Fortune • 1d ago
 
 ---
 
-**[FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
+**[Coinbase lays out flexible designs as key priority for Bitcoin's post-quantum migration](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)**
+
+Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.
+
+The Block • 9h ago
+
+---
+
+**[NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
 
 KFOR • 1d ago
-
----
-
-**[The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?](https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking)**
-
-A CryptoQuant researcher has said that bitcoin’s supply dynamics could soon help its price.
-
-Bitcoin Magazine • 13h ago
-
----
-
-**[Strive buys 3,311 bitcoin for $280 million in largest acquisition since January](https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430)**
-
-The latest purchase marks Strive's largest increase in bitcoin holdings since it acquired approximately 5,048 BTC through its all-stock merger with Semler Scientific.
-
-The Block • 16h ago
-
----
-
-**[Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M](https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m)**
-
-A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.
-
-Decrypt • 10h ago
 
 ---
 
@@ -261,7 +259,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 **[Ask HN: What Happened in DNSSEC Yesterday?](https://news.ycombinator.com/item?id=50055306)**
 
-⬆️ 2 • 💬 4 • 1d ago
+⬆️ 2 • 💬 4 • 2d ago
 
 ---
 
@@ -277,43 +275,23 @@ Learn more about how Microsoft 365 subscriptions now use shared cloud storage in
 
 ## YouTube Videos: "bitcoin"
 
-**[are you ready for what Bitcoin does next?](https://www.youtube.com/watch?v=fh-_hE_XyO8)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 14K • 👍 642 • 💬 152 • ⏱️ 10:13 • 13h ago
-
----
-
-**[Bitcoin Is at Beginning a Bull Market, Says Strategy&#39;s Saylor](https://www.youtube.com/watch?v=fki9hxwRUfs)**
-
-In an exclusive interview from DC Fintech Week, Strategy founder and Executive Chairman Michael Saylor says Bitcoin is at the ...
-
-📺 Bloomberg Tech
-
-👁️ 15K • 👍 113 • 💬 31 • ⏱️ 1:14 • 12h ago
-
----
-
 **[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
 
 Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 1K • 💬 72 • ⏱️ 10:28 • 7h ago
+👁️ 64K • 👍 2K • 💬 158 • ⏱️ 10:28 • 13h ago
 
 ---
 
-**[Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment](https://www.youtube.com/watch?v=GpYuwAfZZq8)**
+**[are you ready for what Bitcoin does next?](https://www.youtube.com/watch?v=fh-_hE_XyO8)**
 
-Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and Tim Stenovec on "Bloomberg Crypto.
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
 
-📺 Bloomberg Television
+📺 Tyler S
 
-👁️ 33K • 👍 459 • 💬 89 • ⏱️ 19:31 • 10h ago
+👁️ 15K • 👍 672 • 💬 150 • ⏱️ 10:13 • 19h ago
 
 ---
 
@@ -323,7 +301,27 @@ Trump is promising every adult American a $5000 check — roughly $1.3 TRILLION 
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 461 • 💬 62 • ⏱️ 31:27 • 7h ago
+👁️ 17K • 👍 538 • 💬 80 • ⏱️ 31:27 • 13h ago
+
+---
+
+**[Bitcoin Is at Beginning a Bull Market, Says Strategy&#39;s Saylor](https://www.youtube.com/watch?v=fki9hxwRUfs)**
+
+In an exclusive interview from DC Fintech Week, Strategy founder and Executive Chairman Michael Saylor says Bitcoin is at the ...
+
+📺 Bloomberg Tech
+
+👁️ 17K • 👍 121 • 💬 33 • ⏱️ 1:14 • 19h ago
+
+---
+
+**[Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment](https://www.youtube.com/watch?v=GpYuwAfZZq8)**
+
+Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and Tim Stenovec on "Bloomberg Crypto.
+
+📺 Bloomberg Television
+
+👁️ 49K • 👍 651 • 💬 138 • ⏱️ 19:31 • 16h ago
 
 ---
 
@@ -333,47 +331,47 @@ Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning tha
 
 📺 Natalie Brunell
 
-👁️ 19K • 👍 533 • 💬 35 • ⏱️ 2:56 • 9h ago
+👁️ 33K • 👍 843 • 💬 52 • ⏱️ 2:56 • 15h ago
 
 ---
 
-**[Bitcoin Warning: BTC CRASH WAVE 3 LIKELY NOW IN PROGRESS](https://www.youtube.com/watch?v=GQvxKqU1bkw)**
+**[Bitcoin: This Signal Points to $95,000 Within 30 Days](https://www.youtube.com/watch?v=wvu0onib6WU)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Bitcoin's 10-day signal confirms Friday. In 19 prior cases it was green 79% of the time a month later; since 2018 the median is ...
 
-📺 Doctor of Pump & Dump
+📺 Krown
 
-👁️ 11K • 👍 417 • ⏱️ 28:50 • 11h ago
-
----
-
-**[In The Short Term I Think Bitcoin Dominance Is Likely To](https://www.youtube.com/watch?v=YCp21bPiDDw)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 5K • 👍 98 • ⏱️ 1:00 • 8h ago
+👁️ 10K • 👍 507 • 💬 37 • ⏱️ 14:57 • 18h ago
 
 ---
 
-**[China Insider Calls For Bitcoin Supercycle! Is He Right?](https://www.youtube.com/watch?v=e4PoH--STWQ)**
+**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
 
-A former UBS banking executive believes China could reopen access to crypto trading, potentially triggering a massive Bitcoin ...
+Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 35 • ⏱️ 12:02 • 9h ago
+👁️ 50K • 👍 2K • 💬 171 • ⏱️ 17:10 • 1d ago
 
 ---
 
-**[WTF Is Actually Happening To Crypto?! (And How to Invest)](https://www.youtube.com/watch?v=HKLoC3aCAbE)**
+**[BITCOIN: Every Chart Is SCREAMING The Same Thing! (SOON)](https://www.youtube.com/watch?v=AZsQzwJgN24)**
 
-Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Opening Statement & Video Context 0:00-1:38 Bitunix 15% Off Of Trading Fees 1:38-2:50 Bitcoin's Crossroads 2:50-9:25 ...
 
-📺 Altcoin Daily
+📺 Wolves of Crypto
 
-👁️ 99K • 👍 2K • 💬 174 • ⏱️ 10:13 • 1d ago
+👁️ 7K • 👍 232 • 💬 60 • ⏱️ 12:13 • 8h ago
+
+---
+
+**[Bitcoin Dominance Explodes: Key BTC Levels REVEALED](https://www.youtube.com/watch?v=MuvvHm2Hv8w)**
+
+Bitcoin dominance is surging, and it's one of the most underrated charts in crypto. Trade alongside the Verified Pro Traders in ...
+
+📺 Verified Investing
+
+👁️ 14K • 👍 459 • 💬 15 • ⏱️ 18:27 • 18h ago
 
 ---
 

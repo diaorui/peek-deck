@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-14T06:31:33.408942+00:00'
+updated: '2026-10-14T12:41:07.455491+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 06:31 UTC  
+**Last Updated:** October 14, 2026 at 12:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,509.51
+### $2,497.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +1.2%  
-**30d:** +4.3%  
-**90d:** +35.9%  
-**1y:** -37.2%  
+**24h:** -0.6%  
+**7d:** +0.5%  
+**30d:** +3.5%  
+**90d:** +34.9%  
+**1y:** -37.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $305.70B
+**Market Cap:** $303.27B
 Rank #2
 
 **Circulating Supply:** 122,133,648 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.4%
+-49.8%
 
 **All-Time Low:** $0.43
-+577983.5%
++573424.4%
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-3d ago
+4d ago
 
 ---
 
@@ -152,11 +152,27 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[Tom Lee Says Ethereum’s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-years-145416200.html)**
+**[Current price of Ethereum for Oct. 14, 2026](https://fortune.com/article/price-of-ethereum-10-14-2026/)**
 
-Tom Lee is calling the end of Ethereum's long slide against Bitcoin, pointing to tokenized stocks and AI agents as the catalysts. But the data from the very week he made that call tells a very different story.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 15h ago
+Fortune • 1h ago
+
+---
+
+**[Bitcoin Is Up 7.1% and Solana 5.3% This Month. Ethereum Is Down 0.7% and XRP 1.4%. What Separates Them?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-7-1-solana-5-122013387.html)**
+
+Bitcoin and Solana are climbing while Ethereum and XRP slip below zero, but the weekly chart scrambles that ranking in a way that puts one surprise coin at the bottom of the pack.
+
+Yahoo Finance • 20m ago
+
+---
+
+**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html)**
+
+Ethereum’s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -164,7 +180,7 @@ Yahoo Finance • 15h ago
 
 A major source of Ethereum demand is about to disappear. That's a problem for investors.
 
-The Motley Fool • 18h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -176,6 +192,20 @@ CoinDesk • 1d ago
 
 ---
 
+**[Tom Lee Says Ethereum’s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.](https://247wallst.com/investing/cryptocurrency/2026/10/13/tom-lee-says-ethereums-years-long-slide-against-bitcoin-is-ending-ethereum-lost-another-4-6-to-bitcoin-in-a-week/)**
+
+Tom Lee says tokenization and AI agents will reverse Ethereum's decline against Bitcoin. Yet the ETH/BTC ratio fell 4.7% in a week.
+
+24/7 Wall St. • 21h ago
+
+---
+
+**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
+
+Forbes • 2d ago
+
+---
+
 **[Ethereum, XRP Could Drop Another 10% Before Real Relief, Trader Warns](https://www.benzinga.com/crypto/cryptocurrency/26/10/62304238/ethereum-xrp-could-drop-another-10-before-real-relief-trader-warns)**
 
 Ethereum may fall to $2,200 and XRP to $1.22, but a final sell-off could fuel panic, short squeezes and a stronger crypto rally.
@@ -184,33 +214,11 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
+**[Starknet considers leaving Ethereum for a quantum-resistant Layer 1](https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/)**
 
-Forbes • 1d ago
+Starknet is considering an independent Layer 1 to pursue quantum resistance in 2027. Its roadmap separates its own cryptography from Ethereum dependencies.
 
----
-
-**[Current price of Ethereum for October 13, 2026](https://fortune.com/article/price-of-ethereum-10-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 15h ago
-
----
-
-**[Bitcoin Back to $83,000 but Why Are Ethereum, Solana, XRP Weak?](https://www.tradingview.com/news/benzinga:b5c86c1fc094b:0-bitcoin-back-to-83-000-but-why-are-ethereum-solana-xrp-weak/)**
-
-Bitcoin CRYPTO:BTCUSD continues to outperform altcoins like Ethereum CRYPTO:ETHUSD, Solana CRYPTO:SOLUSD, XRP CRYPTO:XRPUSD, which have dropped between 2% and 5% over the past 24 hours.Only 11 of 66 large-cap altcoins finished last week higher, while Bitcoin dominance climbed toward 59.5%.On the ot…
-
-TradingView • 17h ago
-
----
-
-**[Starknet coin surges as developer weighs Ethereum split over quantum security (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security)**
-
-STRK jumps as Starknet explores quantum-resistant upgrades and a potential split from Ethereum to become a Layer-1.
-
-Seeking Alpha • 2d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -222,27 +230,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Coinbase’s Base launches “Earn & Borrow” for Ethereum layer-2 apps](https://cryptobriefing.com/coinbases-base-launches-earn-borrow-for-ethereum-layer-2-apps/)**
-
-Coinbase's Base launches 'Earn & Borrow' for Ethereum apps. Ethereum reaching $10,000 by December 2026 at 0.9% YES.
-
-Crypto Briefing • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
-
-Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 415 • 💬 147 • ⏱️ 14:22 • 14h ago
-
----
 
 **[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
 
@@ -250,17 +240,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 78 • 💬 9 • ⏱️ 23:58 • 14h ago
+👁️ 5K • 👍 83 • 💬 9 • ⏱️ 23:58 • 20h ago
 
 ---
 
-**[The $200 Trillion Shift Wall Street Isn&#39;t Ready For](https://www.youtube.com/watch?v=zSaObD9pmX8)**
+**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
 
-At TOKEN2049 Singapore, Tom Lee joined Open Interest by Ondo to talk AI, Ethereum, tokenization, and why he thinks Wall ...
+Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
 
-📺 Fundstrat
+📺 Crypto Capital Venture
 
-👁️ 90K • 👍 1K • 💬 64 • ⏱️ 18:13 • 17h ago
+👁️ 15K • 👍 440 • 💬 148 • ⏱️ 14:22 • 20h ago
 
 ---
 
@@ -270,27 +260,27 @@ Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Netw
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 307 • 💬 39 • ⏱️ 14:24 • 3h ago
+👁️ 12K • 👍 623 • 💬 75 • ⏱️ 14:24 • 9h ago
 
 ---
 
-**[Why Bitcoin, Ethereum, and Near Could Be Setting Up for a Massive Rally](https://www.youtube.com/watch?v=nBZvkC3J3o4)**
+**[Ethereum Ripped 9.5% on the Last CPI.. It&#39;s TODAY!!](https://www.youtube.com/watch?v=kRZ5ZC4v1eI)**
 
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit The last ...
 
-📺 Milk Road
+📺 Marzell Crypto
 
-👁️ 18K • 👍 338 • 💬 178 • ⏱️ 41:38 • 11h ago
+👁️ 70 • 👍 7 • 💬 2 • ⏱️ 2:40 • 2h ago
 
 ---
 
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=FvIVxGGU5Js)**
+**[The $200 Trillion Shift Wall Street Isn&#39;t Ready For](https://www.youtube.com/watch?v=zSaObD9pmX8)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+At TOKEN2049 Singapore, Tom Lee joined Open Interest by Ondo to talk AI, Ethereum, tokenization, and why he thinks Wall ...
 
-📺 Crypto Nutshell
+📺 Fundstrat
 
-👁️ 18K • 👍 342 • 💬 14 • ⏱️ 24:39 • 1d ago
+👁️ 100K • 👍 1K • 💬 65 • ⏱️ 18:13 • 23h ago
 
 ---
 
@@ -300,7 +290,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 374 • 💬 37 • ⏱️ 20:19 • 2d ago
+👁️ 28K • 👍 378 • 💬 37 • ⏱️ 20:19 • 2d ago
+
+---
+
+**[Why Bitcoin, Ethereum, and Near Could Be Setting Up for a Massive Rally](https://www.youtube.com/watch?v=nBZvkC3J3o4)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 24K • 👍 393 • 💬 188 • ⏱️ 41:38 • 17h ago
 
 ---
 
@@ -310,7 +310,17 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 10K • 👍 221 • 💬 9 • ⏱️ 6:47 • 1d ago
+👁️ 10K • 👍 222 • 💬 9 • ⏱️ 6:47 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum, Heute + oder - 10% Beachte DIESE Marken und handle dann](https://www.youtube.com/watch?v=KmIkh9gxOKw)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 430 • 💬 151 • ⏱️ 13:31 • 7h ago
 
 ---
 
@@ -320,17 +330,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 592 • 👍 17 • 💬 5 • ⏱️ 8:28 • 13h ago
-
----
-
-**[Ledger Hack, BTC ETF Dump, Is Base Back, &amp; Ethereum Interview](https://www.youtube.com/watch?v=R-XQPrItJ-Y)**
-
-Crypto hack, BTC, ETH, Solana, Base back, Ethena, and Sui BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 18K • 👍 471 • 💬 36 • ⏱️ 1:06:51 • 17h ago
+👁️ 742 • 👍 19 • 💬 7 • ⏱️ 8:28 • 19h ago
 
 ---
 
