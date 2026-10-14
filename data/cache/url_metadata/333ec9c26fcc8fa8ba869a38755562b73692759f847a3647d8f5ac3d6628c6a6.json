@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-14T06:31:08.553559+00:00",
+  "data": {
+    "url": "https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch",
+    "title": "Mesa Expands NPU Capabilities With Support For YOLOX With PyTorch",
+    "description": "While Mesa is predominantly used for GPU drivers, open-source developer Tomeu Vizoso continues advancing the capabilities of NPUs within the Mesa driver stack.",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=torx_yolox",
+    "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "Phoronix, Linux Hardware Reviews, Linux hardware benchmarks, Linux server benchmarks, Linux benchmarking, Desktop Linux, Linux performance, Open Source graphics, Linux How To, Ubuntu benchmarks, Ubuntu hardware, Phoronix Test Suite"
+  }
+}

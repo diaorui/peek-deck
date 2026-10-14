@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Anthropic says coding is no longer the bottleneck. Its monorepo hit 30,000+ merges in a day.",
+      "author": "nian2326076",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5htw8/anthropic_says_coding_is_no_longer_the_bottleneck/",
+      "published": 1791951528.0,
+      "thumbnail": "https://preview.redd.it/089lnicvzcvh1.png?width=640&crop=smart&auto=webp&s=1543456483bc8e5ae50d84ea784fcaae78b5ea4d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "They also migrated off Git and used Claude to build their own version control system, Scion. \u201cAt Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven\u2019t seen before.\u201d Source: https://www.anthropic.com/engineering/redesigning-source-control I'm curious what people make of this. If coding is no longer the bottleneck, where does the engineering work shift?"
+    },
+    {
       "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
@@ -11,6 +22,17 @@
       "site_name": "Scientific American",
       "favicon": "https://www.scientificamerican.com/static/favicon.ico",
       "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
+    },
+    {
+      "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
+      "author": "jtbuadd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
+      "published": 1791946298.0,
+      "thumbnail": "https://preview.redd.it/zu6obxqckcvh1.jpeg?width=640&crop=smart&auto=webp&s=c882cb03b915de1b6b3ce6038a25c64873eede4a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
@@ -35,17 +57,6 @@
       "description": "The tool, which is called Raven, is being used by the Los Angeles Police Department and Miami-Dade Sheriff's Office (MDSO), reports 404 Media. Made by a company..."
     },
     {
-      "title": "\"Our humble goal is to survive the AI revolution\" says Epic Games CEO Tim Sweeney, as its Star Wars and Marvel crossover pivots to \"AI first\" development | Art will be \"generated with full AI workflows\".",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/",
-      "published": 1791875456.0,
-      "thumbnail": "https://external-preview.redd.it/lYLES-tqHgEnm7FpCVU7Krq0Stu_9TX4B1imIOCNvRg.png?width=640&crop=smart&auto=webp&s=b20f5310501fddf551f754fe70a83ece3cd5ba04",
-      "external_url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
-      "site_name": "PC Gamer",
-      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/nsto4filky1762166946.png",
-      "description": "Art will be \"generated with full AI workflows\"."
-    },
-    {
       "title": "Netflix spent big on Ben Affleck\u2019s AI company. After Animals, they might wonder why",
       "author": "theindependentonline",
       "url": "https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/",
@@ -57,60 +68,49 @@
       "description": "Ben Affleck won\u2019t say exactly how he used AI on his critically-panned new Netflix thriller. But thanks to sloppy editing and one unintentionally hilarious scene, he may have accidentally undermined his own technology, writes Kevin E G Perry"
     },
     {
-      "title": "What's one thing AI does that feels genuinely magical, even when you know how it works?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5cbx4/whats_one_thing_ai_does_that_feels_genuinely/",
-      "published": 1791934882.0,
+      "title": "If an AI helps discover a drug, who gets credit?",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5futt/if_an_ai_helps_discover_a_drug_who_gets_credit/",
+      "published": 1791945208.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "That moment when the technology still surprises you."
+      "description": "AI may soon contribute to research in ways that are difficult to describe with traditional authorship. A model might suggest a molecule, identify a pattern in clinical data, or connect findings from papers that no individual researcher had time to read together. The human team still designs the experiment and checks the result, but the discovery process becomes shared with a system that cannot own credit. Should recognition go to the people who built the model, the researchers who used it, the organization that supplied the data, or all of them?"
     },
     {
-      "title": "Epic Games delays Disney shooter, mandates AI-first development",
-      "author": "Valdrans",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5934y/epic_games_delays_disney_shooter_mandates_aifirst/",
-      "published": 1791926349.0,
-      "thumbnail": null,
-      "external_url": "http://valdrans.com/r/epic-games-delays-disney-shooter-mandates-ai-first-development",
-      "site_name": "valdrans.com",
-      "favicon": null,
-      "description": "Epic Games has delayed an unannounced shooter featuring Marvel and Star Wars characters, originally slated for March, and ordered developers to adopt an 'AI-first' production model using Anthropic's Claude.... The shift comes after Epic announced layoffs affecting more than 1,000 employees in March 2026, which the company attributed to declining Fortnite engagement and financial pressures, stating at the time that those cuts were not related to AI."
+      "title": "\"Our humble goal is to survive the AI revolution\" says Epic Games CEO Tim Sweeney, as its Star Wars and Marvel crossover pivots to \"AI first\" development | Art will be \"generated with full AI workflows\".",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/",
+      "published": 1791875456.0,
+      "thumbnail": "https://external-preview.redd.it/lYLES-tqHgEnm7FpCVU7Krq0Stu_9TX4B1imIOCNvRg.png?width=640&crop=smart&auto=webp&s=b20f5310501fddf551f754fe70a83ece3cd5ba04",
+      "external_url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
+      "site_name": "PC Gamer",
+      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/nsto4filky1762166946.png",
+      "description": "Art will be \"generated with full AI workflows\"."
     },
     {
-      "title": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
-      "published": 1791839588.0,
-      "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
-      "external_url": "https://www.anthropic.com/research/self-replicating-ai",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
+      "title": "Koboldcpp v1.123 released",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5ilq0/koboldcpp_v1123_released/",
+      "published": 1791954223.0,
+      "thumbnail": "https://external-preview.redd.it/EiOtpaxuiQgyUnwdIsfPQbPXJDsguzWt6rmhJuPHLjU.png?width=640&crop=smart&auto=webp&s=7ac752056c6259f75d4eb5776dfd06118cb46f00",
+      "external_url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123",
+      "site_name": "GitHub",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "koboldcpp-1.123\n\n\nNEW: Introducing koboldcpp.net, our new community website! - KoboldCpp now has an official community website!\n\nThis is a legitimate community site put together with the help of @A..."
     },
     {
-      "title": "How do you assess Alexandr Wang's technical ability and leadership beyond the hype?",
-      "author": "nian2326076",
-      "url": "https://www.reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical/",
-      "published": 1791923118.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I keep seeing Alexandr Wang get a lot of hate, and I'm not sure what the judgments are based on. I recently saw his comments about Meta's models competing with other AI labs, which made me curious how people working in AI assess him. What work or decisions would you point to when judging his technical understanding? And how would you assess his ability to lead a team and get things shipped? I'm especially interested in hearing from people at Meta or people who've worked with him. The usual genius-or-idiot takes don't tell me much. For anyone weighing Meta as an employer, the Meta Interview Questions can help with prep, and application autofill can save time comparing other opportunities through applications. I'd want firsthand context on the leadership and working environment as well. What do you think outsiders are getting right or wrong about him?"
-    },
-    {
-      "title": "LLMs vs traditional classifiers for large scale data processing",
-      "author": "Inner-Eyes",
-      "url": "https://www.reddit.com/r/artificial/comments/1x57j1j/llms_vs_traditional_classifiers_for_large_scale/",
-      "published": 1791922638.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Im curious how people are approaching classification tasks in data pipeline these days. Traditional classifiers can be efficient, while LLMs offer flexibility but may generate more output than the application actually needs I came across Jev by TypeSafe AI which takes another approach by producing structured decisions and probabilities that software can process directly for large scale workloads, how would you evaluate these different approaches in terms of latency, cost and accuracy? Would you specialised decision model, a traditional classifier, or a combination of both?"
+      "title": "Mesa expands NPU capabilities with support for YOLOX with PyTorch",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5iha5/mesa_expands_npu_capabilities_with_support_for/",
+      "published": 1791953810.0,
+      "thumbnail": "https://external-preview.redd.it/djiztqWcCQYglP6OhYQH8lkuOaCWLszoV-HWAI-tLMQ.jpeg?width=320&crop=smart&auto=webp&s=639b315de14af0768a58db6e70d20995005514cb",
+      "external_url": "https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "While Mesa is predominantly used for GPU drivers, open-source developer Tomeu Vizoso continues advancing the capabilities of NPUs within the Mesa driver stack."
     }
   ],
-  "fetched_at": "2026-10-14T01:19:36.869308+00:00"
+  "fetched_at": "2026-10-14T06:31:08.553743+00:00"
 }
