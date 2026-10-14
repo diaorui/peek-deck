@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-14T12:41:07.451332+00:00'
+updated: '2026-10-14T17:49:05.149984+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 12:41 UTC  
+**Last Updated:** October 14, 2026 at 17:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,889.21
+### $82,035.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +1.3%  
-**30d:** +9.3%  
-**90d:** +29.4%  
-**1y:** -25.6%  
+**24h:** -1.8%  
+**7d:** -0.0%  
+**30d:** +8.0%  
+**90d:** +27.7%  
+**1y:** -26.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1663.42B
+**Market Cap:** $1642.17B
 Rank #1
 
-**Circulating Supply:** 20,098,084 BTC
+**Circulating Supply:** 20,098,212 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.4%
+-35.2%
 
 **All-Time Low:** $67.81
-+121957.2%
++120383.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Checking in on the fiat currency experiment.](https://www.reddit.com/r/Bitcoin/comments/1x475bi/checking_in_on_the_fiat_currency_experiment/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -101,7 +101,7 @@ My friends father was renting space on his farm for a bitcoin mining operation. 
 
 I don't usually post stuff like this, but I've been a loyal Apple user since 2008 with over 7 devices on one Apple ID, plus the usual subscriptions (iCloud+, In App purchases, app subscriptions) so this one stung in a specific way. In June I downloaded an app called "Wasabi Bitcoin & Crypto Wallet" from the official App Store. It looked completely legitimate, normal listing, developer name, screenshots, reviews. It turned out to be an impersonation of the real Wasabi Wallet. Wasabi Wallet is an open-source, desktop-only software that has never had a mobile app. In August, a wallet I'd created inside that fake app was drained in a single transaction; about 0.9 BTC, roughly $53k at the time. The theft is bad enough. What's been almost as frustrating is that there's no way to actually talk to a person at Apple about it. No phone line, no support chat for this, just web forms (Apple's own "report a problem" page, and their EU "Digital Services Act" reporting portal). I filed a police report. I reported it through every official channel Apple offers. Apple's own review team closed my EU complaint with a one line reply: insufficient information, or no violation found. No further explanation. One thing that's stuck with me: with the real, open-source Wasabi Wallet, anyone can verify a release is genuine by checking its cryptographic signature on GitHub. On the App Store, there's no equivalent. As a user, you have no way to check that an app is actually from the developer it claims to be. You're just trusting Apple's review process, full stop. That trust is what got me here. What makes it sting more: Apple's own App Store Review Guidelines, not marketing copy, their actual rulebook for developers say: "These efforts have made Apple's platforms the safest for consumers around the world." That's the exact trust I was operating on. This isn't a one-off either. Security researchers found dozens of similar fake wallet apps on the App Store this year alone (Kaspersky, April 2026). There's also an ongoing US lawsuit over a nearly identical fake Sparrow Wallet app. I'm not trying to start a pile-on, I still like my Apple devices. I just wish there were an actual way to be heard, and wanted other people to be a bit more careful with anything wallet-related in the App Store, "official" or not. Happy to answer questions if anyone's curious or has been through something similar.
 
-1d ago
+2d ago
 
 ---
 
@@ -109,7 +109,7 @@ I don't usually post stuff like this, but I've been a loyal Apple user since 200
 
 Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
-1d ago
+2d ago
 
 ---
 
@@ -137,7 +137,7 @@ Money supply isn't dropping any time soon. The next run will be glorious.
 
 Sometimes, they just have to learn Bitcoin on their own. Even if it means another 10 years wasted.
 
-1d ago
+2d ago
 
 ---
 
@@ -163,35 +163,51 @@ WSJ • 2d ago
 
 A well-known global M2 Bitcoin chart suggests BTC could be worth around $300,000. Here's whether money supply can forecast Bitcoin's price.
 
-24/7 Wall St. • 2d ago
+24/7 Wall St. • 3d ago
+
+---
+
+**[Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)**
+
+Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.
+
+CoinDesk • 47m ago
+
+---
+
+**[Flipping Altcoins to Buy More Bitcoin? Arthur Hayes Says That's the Plan](https://finance.yahoo.com/markets/crypto/articles/flipping-altcoins-buy-more-bitcoin-162612841.html)**
+
+BitMEX co-founder Arthur Hayes told The Rollup podcast Tuesday that his fund treats trading as a tool to fund bigger Bitcoin purchases rather than an end goal itself. Why Hayes Wants ‘Busted Charts,’ Not New LaunchesHayes said he wants his...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway)**
+
+Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
+
+Fox Business • 46m ago
 
 ---
 
 **[Zaria raises $5M to track crypto loan collateral](https://www.axios.com/pro/fintech-deals/2026/10/14/zaria-lightspeed-5-2m-bitcoin-loan-servicing)**
 
-Axios • 34m ago
-
----
-
-**[Live updates: Bitcoin treading water near $83,000 ahead of U.S. inflation data](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)**
-
-Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.
-
-CoinDesk • 22m ago
-
----
-
-**[Monero Is Closer to Its All-Time High Than Bitcoin Is. What Is a Privacy Coin Doing Right?](https://finance.yahoo.com/markets/crypto/articles/monero-closer-time-high-bitcoin-121157321.html)**
-
-A privacy coin built for anonymity is outperforming Bitcoin against its own all-time high, and the reasons behind that resilience reveal something unexpected about who actually holds Monero and why they refuse to sell.
-
-Yahoo Finance • 29m ago
+Axios • 5h ago
 
 ---
 
 **[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 22h ago
+
+---
+
+**[Bitcoin's Recovery Sets Up This Limited-Risk Spread](https://www.investors.com/research/options/ibit-stock-ishares-bitcoin-trust-bull-call-spread-options/)**
+
+The iShares Bitcoin Trust fund has broken a downtrend and cleared a cup-with-handle pattern. IBIT stock has passed its 46.37 buy point.
+
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -201,25 +217,9 @@ Financial Times • 1d ago
 
 ---
 
-**[Current price of Bitcoin for October 13, 2026](https://fortune.com/article/price-of-bitcoin-10-13-2026/)**
+**[Bitcoin dips below $83k after hot U.S. inflation data](https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Coinbase lays out flexible designs as key priority for Bitcoin's post-quantum migration](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)**
-
-Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.
-
-The Block • 9h ago
-
----
-
-**[NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
-
-KFOR • 1d ago
+Investing.com • 3h ago
 
 ---
 
@@ -235,14 +235,6 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 ---
 
-**[Bitcoin Spaces](https://news.ycombinator.com/item?id=49994350)**
-
-Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
-
-⬆️ 2 • 💬 0 • 6d ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
-
----
-
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
 ⬆️ 1 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
@@ -253,7 +245,7 @@ Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone p
 
 Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chain inputs from our own full node. No key, CORS open. - multiassist/bitcoin-barometer
 
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
+⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
 
 ---
 
@@ -275,43 +267,33 @@ Learn more about how Microsoft 365 subscriptions now use shared cloud storage in
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Braces for an Inflation Shock](https://www.youtube.com/watch?v=srd1AEbObKM)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 12K • 👍 541 • 💬 34 • ⏱️ 44:14 • 3h ago
+
+---
+
+**[Bitcoin&#39;s Next Dump Could Happen Faster Than You Think!](https://www.youtube.com/watch?v=QRsod7jMv8U)**
+
+A huge move in the crypto market could be coming after today's CPI report! In this video, Sheldon breaks down the latest inflation ...
+
+📺 Crypto Banter
+
+👁️ 17K • 👍 958 • 💬 37 • ⏱️ 19:14 • 7h ago
+
+---
+
 **[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
 
 Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 2K • 💬 158 • ⏱️ 10:28 • 13h ago
-
----
-
-**[are you ready for what Bitcoin does next?](https://www.youtube.com/watch?v=fh-_hE_XyO8)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 15K • 👍 672 • 💬 150 • ⏱️ 10:13 • 19h ago
-
----
-
-**[$1.3 TRILLION In Checks. Bitcoin Loves It.](https://www.youtube.com/watch?v=XcBdBaHr3-c)**
-
-Trump is promising every adult American a $5000 check — roughly $1.3 TRILLION — if Republicans hold Congress. Every time ...
-
-📺 Digital Asset News
-
-👁️ 17K • 👍 538 • 💬 80 • ⏱️ 31:27 • 13h ago
-
----
-
-**[Bitcoin Is at Beginning a Bull Market, Says Strategy&#39;s Saylor](https://www.youtube.com/watch?v=fki9hxwRUfs)**
-
-In an exclusive interview from DC Fintech Week, Strategy founder and Executive Chairman Michael Saylor says Bitcoin is at the ...
-
-📺 Bloomberg Tech
-
-👁️ 17K • 👍 121 • 💬 33 • ⏱️ 1:14 • 19h ago
+👁️ 78K • 👍 2K • 💬 173 • ⏱️ 10:28 • 18h ago
 
 ---
 
@@ -321,7 +303,7 @@ Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and
 
 📺 Bloomberg Television
 
-👁️ 49K • 👍 651 • 💬 138 • ⏱️ 19:31 • 16h ago
+👁️ 64K • 👍 807 • 💬 169 • ⏱️ 19:31 • 22h ago
 
 ---
 
@@ -331,7 +313,37 @@ Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning tha
 
 📺 Natalie Brunell
 
-👁️ 33K • 👍 843 • 💬 52 • ⏱️ 2:56 • 15h ago
+👁️ 47K • 👍 1K • 💬 68 • ⏱️ 2:56 • 20h ago
+
+---
+
+**[Bitcoin Update: What’s Happening With BTC Right Now?](https://www.youtube.com/watch?v=Rg1dSvBoGEo)**
+
+Bitcoin is back in focus as the crypto market watches its next move. In this quick update, we look at the latest BTC market situation ...
+
+📺 Crypto Nitro
+
+👁️ 5K • 💬 17 • ⏱️ 1:07 • 15h ago
+
+---
+
+**[$1.3 TRILLION In Checks. Bitcoin Loves It.](https://www.youtube.com/watch?v=XcBdBaHr3-c)**
+
+Trump is promising every adult American a $5000 check — roughly $1.3 TRILLION — if Republicans hold Congress. Every time ...
+
+📺 Digital Asset News
+
+👁️ 20K • 👍 592 • 💬 96 • ⏱️ 31:27 • 18h ago
+
+---
+
+**[Bitcoin Is at Beginning a Bull Market, Says Strategy&#39;s Saylor](https://www.youtube.com/watch?v=fki9hxwRUfs)**
+
+In an exclusive interview from DC Fintech Week, Strategy founder and Executive Chairman Michael Saylor says Bitcoin is at the ...
+
+📺 Bloomberg Tech
+
+👁️ 19K • 👍 127 • 💬 33 • ⏱️ 1:14 • 1d ago
 
 ---
 
@@ -341,37 +353,17 @@ Bitcoin's 10-day signal confirms Friday. In 19 prior cases it was green 79% of t
 
 📺 Krown
 
-👁️ 10K • 👍 507 • 💬 37 • ⏱️ 14:57 • 18h ago
+👁️ 11K • 👍 540 • 💬 39 • ⏱️ 14:57 • 23h ago
 
 ---
 
-**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
+**[He Calls Bitcoin &quot;Teenager Gold&quot;](https://www.youtube.com/watch?v=CUiwUWTeJuc)**
 
-Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
+Bloomberg Intelligence Senior ETF Analyst Eric Balchunas shares why investors are holding onto Bitcoin through market ups and ...
 
-📺 Simply Bitcoin
+📺 Natalie Brunell
 
-👁️ 50K • 👍 2K • 💬 171 • ⏱️ 17:10 • 1d ago
-
----
-
-**[BITCOIN: Every Chart Is SCREAMING The Same Thing! (SOON)](https://www.youtube.com/watch?v=AZsQzwJgN24)**
-
-Opening Statement & Video Context 0:00-1:38 Bitunix 15% Off Of Trading Fees 1:38-2:50 Bitcoin's Crossroads 2:50-9:25 ...
-
-📺 Wolves of Crypto
-
-👁️ 7K • 👍 232 • 💬 60 • ⏱️ 12:13 • 8h ago
-
----
-
-**[Bitcoin Dominance Explodes: Key BTC Levels REVEALED](https://www.youtube.com/watch?v=MuvvHm2Hv8w)**
-
-Bitcoin dominance is surging, and it's one of the most underrated charts in crypto. Trade alongside the Verified Pro Traders in ...
-
-📺 Verified Investing
-
-👁️ 14K • 👍 459 • 💬 15 • ⏱️ 18:27 • 18h ago
+👁️ 1K • 👍 38 • 💬 1 • ⏱️ 0:57 • 4h ago
 
 ---
 

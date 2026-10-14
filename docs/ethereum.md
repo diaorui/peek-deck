@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-14T12:41:07.455491+00:00'
+updated: '2026-10-14T17:49:05.155305+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 12:41 UTC  
+**Last Updated:** October 14, 2026 at 17:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,497.87
+### $2,432.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +0.5%  
-**30d:** +3.5%  
-**90d:** +34.9%  
-**1y:** -37.7%  
+**24h:** -3.1%  
+**7d:** -1.6%  
+**30d:** +1.4%  
+**90d:** +32.1%  
+**1y:** -39.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.27B
+**Market Cap:** $297.32B
 Rank #2
 
 **Circulating Supply:** 122,133,648 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.8%
+-50.8%
 
 **All-Time Low:** $0.43
-+573424.4%
++562137.4%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 staking eth for about three years now. started with lido, then tried rocket pool, even ran a validator for a while. but honestly the whole defi staking thing is starting to wear me down. smart contract risk, slashing risk, the tax nightmare of tracking all those tiny rewards. it's just a lot. lately ive been using gemini for a chunk of my eth. it's not as exciting as defi, and the yields are lower. but it's simple. i don't have to worry about a bug in a contract draining my funds. i don't have to spend hours figuring out cost basis for taxes. i stake and get a statement at the end of the year. for someone who just wants exposure to eth staking without the headache, it's been a decent option. i still keep some in lido because i believe in decentralization, but the regulated route has its place. anyone else split their staking like this? or am i just getting old and lazy?
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ staking eth for about three years now. started with lido, then tried rocket pool
 
 Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
-2d ago
+3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 5d ago
 
 ---
 
@@ -152,35 +152,27 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[Current price of Ethereum for Oct. 14, 2026](https://fortune.com/article/price-of-ethereum-10-14-2026/)**
+**[Bitmine’s Tom Lee Warns Of Ethereum Selloff](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET...
 
-Fortune • 1h ago
-
----
-
-**[Bitcoin Is Up 7.1% and Solana 5.3% This Month. Ethereum Is Down 0.7% and XRP 1.4%. What Separates Them?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-7-1-solana-5-122013387.html)**
-
-Bitcoin and Solana are climbing while Ethereum and XRP slip below zero, but the weekly chart scrambles that ranking in a way that puts one surprise coin at the bottom of the pack.
-
-Yahoo Finance • 20m ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html)**
+**[Bitcoin Is Up 7.1% and Solana 5.3% This Month. Ethereum Is Down 0.7% and XRP 1.4%. What Separates Them?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-7-1-solana-5-163024874.html)**
 
-Ethereum’s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ...
+Four major cryptocurrencies split into two camps this month, but the weekly numbers tell a completely different story and reveal which of the apparent winners may be living on borrowed time.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.](https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/)**
+**[Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html)**
 
-A major source of Ethereum demand is about to disappear. That's a problem for investors.
+Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as "mature" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee’s hint at winding down Bitmine’s Ethereum accumulation streak is...
 
-The Motley Fool • 1d ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -192,11 +184,33 @@ CoinDesk • 1d ago
 
 ---
 
+**[Current price of Ethereum for October 14, 2026](https://fortune.com/article/price-of-ethereum-10-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.](https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/)**
+
+A major source of Ethereum demand is about to disappear. That's a problem for investors.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Tom Lee Says Ethereum’s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.](https://247wallst.com/investing/cryptocurrency/2026/10/13/tom-lee-says-ethereums-years-long-slide-against-bitcoin-is-ending-ethereum-lost-another-4-6-to-bitcoin-in-a-week/)**
 
 Tom Lee says tokenization and AI agents will reverse Ethereum's decline against Bitcoin. Yet the ETH/BTC ratio fell 4.7% in a week.
 
-24/7 Wall St. • 21h ago
+24/7 Wall St. • 1d ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415)**
+
+FXStreet • 13h ago
 
 ---
 
@@ -206,27 +220,11 @@ Forbes • 2d ago
 
 ---
 
-**[Ethereum, XRP Could Drop Another 10% Before Real Relief, Trader Warns](https://www.benzinga.com/crypto/cryptocurrency/26/10/62304238/ethereum-xrp-could-drop-another-10-before-real-relief-trader-warns)**
-
-Ethereum may fall to $2,200 and XRP to $1.22, but a final sell-off could fuel panic, short squeezes and a stronger crypto rally.
-
-Benzinga • 1d ago
-
----
-
-**[Starknet considers leaving Ethereum for a quantum-resistant Layer 1](https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/)**
-
-Starknet is considering an independent Layer 1 to pursue quantum resistance in 2027. Its roadmap separates its own cryptography from Ethereum dependencies.
-
-CryptoSlate • 2d ago
-
----
-
 **[Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'](https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking)**
 
 The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -234,13 +232,33 @@ Decrypt • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
+**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=wc1n-vrhLGA)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 83 • 💬 9 • ⏱️ 23:58 • 20h ago
+👁️ 429 • 👍 43 • 💬 9 • ⏱️ 21:33 • 1h ago
+
+---
+
+**[Ethereum&#39;s Fundamentals Skyrocket, But Where&#39;s the Price Surge?](https://www.youtube.com/watch?v=yI3eXQSGQhw)**
+
+Ethereum's fundamentals are getting stronger—but ETH's price isn't keeping up. Despite growing network activity, stablecoins, ...
+
+📺 Lark Davis
+
+👁️ 266 • 👍 17 • 💬 1 • ⏱️ 1:03 • 1h ago
+
+---
+
+**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
+
+As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
+
+📺 Coinage
+
+👁️ 937 • 👍 14 • ⏱️ 12:34 • 4h ago
 
 ---
 
@@ -250,7 +268,17 @@ Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading throu
 
 📺 Crypto Capital Venture
 
-👁️ 15K • 👍 440 • 💬 148 • ⏱️ 14:22 • 20h ago
+👁️ 17K • 👍 452 • 💬 148 • ⏱️ 14:22 • 1d ago
+
+---
+
+**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 86 • 💬 12 • ⏱️ 23:58 • 1d ago
 
 ---
 
@@ -260,17 +288,7 @@ Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Netw
 
 📺 Thinking Crypto
 
-👁️ 12K • 👍 623 • 💬 75 • ⏱️ 14:24 • 9h ago
-
----
-
-**[Ethereum Ripped 9.5% on the Last CPI.. It&#39;s TODAY!!](https://www.youtube.com/watch?v=kRZ5ZC4v1eI)**
-
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit The last ...
-
-📺 Marzell Crypto
-
-👁️ 70 • 👍 7 • 💬 2 • ⏱️ 2:40 • 2h ago
+👁️ 16K • 👍 694 • 💬 80 • ⏱️ 14:24 • 14h ago
 
 ---
 
@@ -280,17 +298,7 @@ At TOKEN2049 Singapore, Tom Lee joined Open Interest by Ondo to talk AI, Ethereu
 
 📺 Fundstrat
 
-👁️ 100K • 👍 1K • 💬 65 • ⏱️ 18:13 • 23h ago
-
----
-
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=DjoaX_9Ugxc)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 28K • 👍 378 • 💬 37 • ⏱️ 20:19 • 2d ago
+👁️ 109K • 👍 1K • 💬 72 • ⏱️ 18:13 • 1d ago
 
 ---
 
@@ -300,7 +308,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 24K • 👍 393 • 💬 188 • ⏱️ 41:38 • 17h ago
+👁️ 26K • 👍 420 • 💬 50 • ⏱️ 41:38 • 22h ago
 
 ---
 
@@ -320,17 +328,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bo
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 430 • 💬 151 • ⏱️ 13:31 • 7h ago
-
----
-
-**[ETH Ethereum Price Prediction: 13th of October](https://www.youtube.com/watch?v=iHRslvBeeP8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 742 • 👍 19 • 💬 7 • ⏱️ 8:28 • 19h ago
+👁️ 5K • 👍 444 • 💬 111 • ⏱️ 13:31 • 12h ago
 
 ---
 

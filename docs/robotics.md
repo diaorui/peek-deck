@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-14T12:41:07.457719+00:00'
+updated: '2026-10-14T17:49:05.158216+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 14, 2026 at 12:41 UTC  
+**Last Updated:** October 14, 2026 at 17:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I finally chopped two legs off my hexapod robot and now its a proper robot dog. Dont worry all the features I have developed for the old robot transferred just fine to the new robot; we still have body leveling, emotes, puppet mode etc. Quttro ZBD is lighter, faster and more agile in many ways than its hexapod older sibling yet due to less parts used it costs considerably less to build, around 200 usd. Still uses ESP32 S3 as well as off the shelf Arduino parts and DS3218 servos. reduced number of legs made it a lot easier to put together and since I already ironed out the scripts for previous version and use inverse kinematics solver for each leg adjusting the gait mechanism was a breeze as well. I will also work on reinforcement training for a developing a control policy in IK solver's place, I am hoping I can get a more organic / fluid walking out of the robot instead of current mechanic looks. I shared a more detailed video about it on my youtube channel, if you want you can watch it from the link below: https://youtu.be/J99MibRi-CY It is still fully open source so you can find all the files you need to build one down in the links. MakerWord Link (has more photos of the robot): https://makerworld.com/en/models/3402746-quattro-zbd-robot-dog#profileId-3874600 Link for CAD design, 3D Print files and Wiring Diagram: https://www.patreon.com/PrintedRobotics/posts/quattro-zbd-3d-171601139?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link ESP32 Scripts: https://github.com/serdarselimys/QuattroZBD-ESP32Scripts Companion mobile controller app apk: https://github.com/serdarselimys/QuattroZBD-AndroidControllerApp Parts List: ESP32 S3 x 1 PCA 9685 Servo Driver Board x 1 MPU6050 IMU Sensor x 1 Voltage Sensor Board x 1 15A Adjustable Voltage Buck Converter x 2 (1 per pair of legs) 5V 3A Buck Converter x 1 DS3218 High-Torque Servos x 12 Wago Connector (2-in-4 Out) x 1 2-Inch TFT Screen x 1 M3x8 Screws x ~100 M4x30 Screws x 4 8x5x16 mm Ball Bearings x 12 3S LiPo Battery (3000mAh – 6000mAh) x 1 I have been working on a bipedal version hence the "2 more to go" in the tittle, I am almost finished with the updated leg structure so it can stand up on two legs but the remaining parts are going to be same as much as possible. So expect a bipedal version in upcoming weeks if I can make it walk :)
 
-6d ago
+7d ago
 
 ---
 
@@ -50,7 +50,7 @@ I finally chopped two legs off my hexapod robot and now its a proper robot dog. 
 
 Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) designed end to end in my app. You describe the robot, and it picks real servos (Feetech STS3250 here), plans the electronics, lays out the body, builds the 3D structure and shell, writes the firmware, and runs it in MuJoCo physics before anything gets printed. It's early and plenty is still rough. I'd really like feedback from people who've actually built robots: what was the hardest part of your design, and what would make a tool like this useful (or useless) to you?
 
-6d ago
+7d ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't normally talk like in the video, but I can't help talking to my Mino as 
 
 I’ve been experimenting with turning an M5Stack Stack-chan into a little mobile robot. I combined it with a LEGO motor hub and wheels, recorded driving demonstrations, and trained an ACT policy. During supervised trials, it learned to follow a line. With a separate set of demonstrations, I also tried driving between guardrails. The video shows the build, data collection, and the wrong turns along the way 😅 Build video: https://www.youtube.com/watch?v=_1pQTt8gqZM This is also the first showcase of what I’ve built with Robium, an open-source robotics skills repo that I recently released. I used it with AI agents to help build the software and training setup. GitHub: https://github.com/robium-ai/robium Has anyone else experimented with learning from demonstrations on a small wheeled robot? I’d be interested to hear what worked for you.
 
-6d ago
+7d ago
 
 ---
 
@@ -118,7 +118,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
 
-blog.google • 20h ago
+blog.google • 1d ago
 
 ---
 
@@ -126,27 +126,33 @@ blog.google • 20h ago
 
 The second-largest corporate employer has bet big on robot workers to scale.
 
-Ars Technica • 1d ago
+Ars Technica • 2d ago
 
 ---
 
-**[A robotics business is set to be bought with shares priced about 50% above the buyer's Oct. 12 close.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ibhf2i6pbt5r.html)**
+**[SemiFive takes custom silicon into robots](https://www.jonpeddie.com/news/semifive-takes-custom-silicon-into-robots/)**
 
-The deal also includes up to $10 million in equity financing; both transactions remain subject to closing conditions, with closings expected by October's end.
+Mobilint robotics chip joins growing production pipeline.
 
-Stock Titan • 1h ago
+Jon Peddie Research • 1h ago
 
 ---
 
-**[China Is Beating the US to the $5 Trillion Robot Market](https://www.bloomberg.com/news/newsletters/2026-10-14/ai-robots-china-is-beating-the-us-to-5-trillion-market)**
+**[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
 
-Bloomberg.com • 2h ago
+Reuters • 3h ago
+
+---
+
+**[China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market](https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race)**
+
+Bloomberg.com • 14h ago
 
 ---
 
 **[Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec](https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy)**
 
-WSJ • 12h ago
+WSJ • 1d ago
 
 ---
 
@@ -154,7 +160,7 @@ WSJ • 12h ago
 
 Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
 
-TechCrunch • 18h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -162,29 +168,23 @@ TechCrunch • 18h ago
 
 In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Tiny robots speed medicine through body to the heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)**
+**[A robotics business is set to be bought with shares priced about 50% above the buyer's Oct. 12 close.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ibhf2i6pbt5r.html)**
 
-Johns Hopkins University • 1d ago
+The deal also includes up to $10 million in equity financing; both transactions remain subject to closing conditions, with closings expected by October's end.
 
----
-
-**[Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)**
-
-Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
-
-TechCrunch • 13h ago
+Stock Titan • 6h ago
 
 ---
 
-**[Stryker enters soft tissue robotics with $400M investment in CMR Surgical](https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/)**
+**[Stryker dives into soft-tissue robotics with $400M play for CMR Surgical’s Versius](https://www.massdevice.com/stryker-dives-into-soft-tissue-robotics-with-400m-play-for-cmr-surgicals-versius/)**
 
-Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic.
+Stryker netted exclusive U.S. rights to sell CMR's Versius robot, while pocketing an option to acquire the company in the future.
 
-MedTech Dive • 1d ago
+MassDevice • 1d ago
 
 ---
 
@@ -192,13 +192,23 @@ MedTech Dive • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Walmart Spent a Decade Teaching Robots One Simple Task #automation #walmart #factory](https://www.youtube.com/watch?v=35S029PSFu8)**
+
+Walmart has 140000+ warehouse workers and a decade-long, multibillion-dollar push to automate. The hardest part isn't the ...
+
+📺 Far Point Global
+
+👁️ 348 • 👍 29 • 💬 1 • ⏱️ 2:34 • 3h ago
+
+---
+
 **[Elon Musk&#39;s 1 Billion Robot Prediction Suddenly Looks Different.](https://www.youtube.com/watch?v=BsDEKGw_VRY)**
 
 Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very different when you see how quickly the technology is ...
 
 📺 ejunky66
 
-👁️ 928K • 👍 10K • 💬 432 • ⏱️ 1:00 • 5d ago
+👁️ 967K • 👍 10K • 💬 451 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -208,17 +218,7 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 172K • 👍 1K • 💬 150 • ⏱️ 9:18 • 2d ago
-
----
-
-**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
-
-America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
-
-📺 Future Core
-
-👁️ 9K • 👍 48 • 💬 4 • ⏱️ 10:07 • 6d ago
+👁️ 177K • 👍 1K • 💬 166 • ⏱️ 9:18 • 3d ago
 
 ---
 
@@ -232,33 +232,13 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 ---
 
-**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
-
-Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
-
-📺 States 2050
-
-👁️ 104K • 👍 1K • 💬 66 • ⏱️ 26:07 • 6d ago
-
----
-
-**[Humanoid Robot In German Police Custody After Alleged Groping Of Teen | Firstpost America](https://www.youtube.com/watch?v=gmqt3_aBlnc)**
-
-Watch this video as Firstpost explains a disturbing incident in Cologne, Germany, where a humanoid robot was allegedly used to ...
-
-📺 Firstpost
-
-👁️ 20K • 👍 58 • 💬 41 • ⏱️ 5:04 • 20h ago
-
----
-
 **[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
 
 In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
 
 📺 Google DeepMind
 
-👁️ 189K • 👍 3K • 💬 284 • ⏱️ 1:44 • 20h ago
+👁️ 211K • 👍 3K • 💬 305 • ⏱️ 1:44 • 1d ago
 
 ---
 
@@ -268,27 +248,47 @@ China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and
 
 📺 MACHINEKIND
 
-👁️ 55K • 👍 876 • 💬 85 • ⏱️ 13:43 • 6d ago
+👁️ 55K • 👍 879 • 💬 85 • ⏱️ 13:43 • 6d ago
 
 ---
 
-**[These AI Robots Are Getting OUT OF CONTROL… Here’s What’s Actually Real](https://www.youtube.com/watch?v=NjcCxL9zcQQ)**
+**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
 
-AI robots are advancing faster than ever, but how much of what we see online is actually real? From humanoid robot fights to ...
+Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
 
-📺 The AI Nexus
+📺 BBC News
 
-👁️ 10K • 👍 68 • 💬 14 • ⏱️ 1:21:36 • 2d ago
+👁️ 123K • 👍 696 • 💬 44 • ⏱️ 5:36 • 3d ago
 
 ---
 
-**[This Cockroach Taught Engineers to Build a Squashable Robot 🪳](https://www.youtube.com/watch?v=osRDmdZDMcM)**
+**[This LEVEL UP robot does EVERYTHING! - VEX IQ Robot by Ben Lipper](https://www.youtube.com/watch?v=8H8-v587A4M)**
 
-A cockroach can squeeze through a gap of 3 mm, the height of two stacked pennies and less than a quarter of its standing height, ...
+For more details, click this link: https://www.roboticsmastery.com/2026-snowfire?utm_source=snowfire1 This is a fantastic robot ...
 
-📺 Creatures in Motion
+📺 Ben Lipper
 
-👁️ 1K • 👍 28 • 💬 4 • ⏱️ 2:34 • 10h ago
+👁️ 5K • 👍 43 • 💬 5 • ⏱️ 1:12 • 6d ago
+
+---
+
+**[Two Humanoid Robots Just Had A Real Fight 🥊](https://www.youtube.com/watch?v=T6SpCvcjpNc)**
+
+Original video credit: IG/@mw10.01. Two humanoid robots fight inside the fenced URKL ring, throwing punches, kicks, and even ...
+
+📺 History Seeker
+
+👁️ 37K • 👍 453 • 💬 19 • ⏱️ 0:08 • 4d ago
+
+---
+
+**[Humanoid Robot In German Police Custody After Alleged Groping Of Teen | Firstpost America](https://www.youtube.com/watch?v=gmqt3_aBlnc)**
+
+Watch this video as Firstpost explains a disturbing incident in Cologne, Germany, where a humanoid robot was allegedly used to ...
+
+📺 Firstpost
+
+👁️ 23K • 👍 69 • 💬 48 • ⏱️ 5:04 • 1d ago
 
 ---
 

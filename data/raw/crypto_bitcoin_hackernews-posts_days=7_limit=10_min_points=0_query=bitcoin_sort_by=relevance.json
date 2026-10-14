@@ -19,20 +19,6 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Bitcoin Spaces",
-      "url": "https://bitsaga.be/insights/bitcoin-spaces",
-      "hn_url": "https://news.ycombinator.com/item?id=49994350",
-      "author": "ca98am79",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-10-07T15:37:40Z",
-      "object_id": "49994350",
-      "image": "https://bitsaga.be/images/og/insights/bitcoin-spaces.jpg",
-      "description": "Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.",
-      "favicon": "https://bitsaga.be/images/bitsaga-brand/favicon.png",
-      "site_name": "Bitsaga"
-    },
-    {
       "title": "FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
       "url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037",
       "hn_url": "https://news.ycombinator.com/item?id=50061464",
@@ -89,7 +75,7 @@
       "site_name": "support.microsoft.com"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-14T12:40:35.358632+00:00"
+  "fetched_at": "2026-10-14T17:48:31.977572+00:00"
 }

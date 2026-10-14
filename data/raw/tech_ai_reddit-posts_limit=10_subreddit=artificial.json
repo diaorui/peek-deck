@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Anthropic says coding is no longer the bottleneck. Its monorepo hit 30,000+ merges in a day.",
-      "author": "nian2326076",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5htw8/anthropic_says_coding_is_no_longer_the_bottleneck/",
-      "published": 1791951528.0,
-      "thumbnail": "https://preview.redd.it/089lnicvzcvh1.png?width=640&crop=smart&auto=webp&s=1543456483bc8e5ae50d84ea784fcaae78b5ea4d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "They also migrated off Git and used Claude to build their own version control system, Scion. \u201cAt Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven\u2019t seen before.\u201d Source: https://www.anthropic.com/engineering/redesigning-source-control I'm curious what people make of this. If coding is no longer the bottleneck, where does the engineering work shift? Anthropic Interview Questions"
-    },
-    {
       "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/",
@@ -24,15 +13,15 @@
       "description": null
     },
     {
-      "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
-      "author": "jtbuadd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
-      "published": 1791946298.0,
-      "thumbnail": "https://preview.redd.it/zu6obxqckcvh1.jpeg?width=640&crop=smart&auto=webp&s=c882cb03b915de1b6b3ce6038a25c64873eede4a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "title": "Ramp\u2019s $1.5 Million Week of Spending Leads to Glass AI Tool",
+      "author": "Competitive-Fudge174",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5uvsf/ramps_15_million_week_of_spending_leads_to_glass/",
+      "published": 1791993173.0,
+      "thumbnail": "https://external-preview.redd.it/NObYFaZEiK8tL6wy5zqk7bQkCMl8q9cFSGef-ZuQQ7w.png?width=640&crop=smart&auto=webp&s=7fbd8df1e823b86e4e5559b9f26656ae64928619",
+      "external_url": "https://www.pymnts.com/news/artificial-intelligence/2026/ramp-1-million-week-spending-leads-glass-ai-tool/",
+      "site_name": "PYMNTS.com",
+      "favicon": "https://www.pymnts.com/wp-content/uploads/2022/11/cropped-PYMNTS-Icon-512x512-1.png?w=180&quality=82",
+      "description": "Ramp will begin offering its in-house artificial intelligence tool, Glass, to other companies, according to a Tuesday (Oct. 13) company blog post written"
     },
     {
       "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to \u2018Boost Their Own Popularity\u2019",
@@ -46,6 +35,39 @@
       "description": "Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol..."
     },
     {
+      "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
+      "author": "jtbuadd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
+      "published": 1791946298.0,
+      "thumbnail": "https://preview.redd.it/zu6obxqckcvh1.jpeg?width=640&crop=smart&auto=webp&s=c882cb03b915de1b6b3ce6038a25c64873eede4a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "How much of today's agent memory stack is a workaround for the model architecture?",
+      "author": "Sun-Tzu-Maybe",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/",
+      "published": 1791988445.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less \"cheaper reasoning\" and more \"less infrastructure devoted to reminding the model what it already learned.\" Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?"
+    },
+    {
+      "title": "Epic Games says it vibe coded new launcher because \u201cprogramming is hard\u201d",
+      "author": "Dilpickle2113",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/",
+      "published": 1791993209.0,
+      "thumbnail": "https://external-preview.redd.it/vq304MWBzzXtOxckf6nmVu7oIxippfFoYJgCTwkrLV4.jpeg?width=640&crop=smart&auto=webp&s=7a2ce1b749bc74a3487db36adbfd1dc3e566c1d9",
+      "external_url": "https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/",
+      "site_name": "Dexerto",
+      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
+      "description": "Epic Games has revealed a new version of its launcher, claiming it was \u201cvibe coded\u201d because \u201cprogramming is hard.\u201d"
+    },
+    {
       "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
@@ -55,17 +77,6 @@
       "site_name": "Scientific American",
       "favicon": "https://www.scientificamerican.com/static/favicon.ico",
       "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
-    },
-    {
-      "title": "Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process",
-      "author": "Mathemodel",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/",
-      "published": 1791959641.0,
-      "thumbnail": "https://external-preview.redd.it/ngk80jIGxm3qOCNgJYWLw5E5fx8KVpKmMyVBUZ_t8S4.jpeg?width=640&crop=smart&auto=webp&s=771b084a2583d83fc3722a71fde573f05ec4674c",
-      "external_url": "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi."
     },
     {
       "title": "The Age of Reason Is Safely Behind Us",
@@ -79,38 +90,27 @@
       "description": "What Anthropic is doing, and publicly boasting about, to \u201cprotect\u201d the reasoning behind the AI answers we get when we use their models, really doesn\u2019t sit right with me."
     },
     {
-      "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
-      "author": "nbcnews",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/",
-      "published": 1791900028.0,
-      "thumbnail": "https://external-preview.redd.it/_s90J3_Wj0xj1UU7FLhaTgZlPtbgCBymB-IfsT5z3pE.jpeg?width=640&crop=smart&auto=webp&s=602bcd1256c98f4955b5fda9c074cb98fd10713c",
-      "external_url": "https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The chatbot company has faced public scrutiny and legal challenges, most notably lawsuits from Kentucky and Pennsylvania."
+      "title": "Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process",
+      "author": "Mathemodel",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/",
+      "published": 1791959641.0,
+      "thumbnail": "https://external-preview.redd.it/ngk80jIGxm3qOCNgJYWLw5E5fx8KVpKmMyVBUZ_t8S4.jpeg?width=640&crop=smart&auto=webp&s=771b084a2583d83fc3722a71fde573f05ec4674c",
+      "external_url": "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad",
+      "site_name": "Futurism",
+      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
+      "description": "YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi."
     },
     {
-      "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
-      "author": "lulzxdxdxd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/",
-      "published": 1791894351.0,
-      "thumbnail": "https://external-preview.redd.it/GLYqBoxVYN4FWS8zUoLrDm4T5gzan2eaUlWK1ZuY_ME.jpeg?width=640&crop=smart&auto=webp&s=1ed40288a8f1fbb51cec6ac04656189b919a310e",
-      "external_url": "https://www.techspot.com/news/114174-police-using-ai-locate-homes-single-interior-photo.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "The tool, which is called Raven, is being used by the Los Angeles Police Department and Miami-Dade Sheriff's Office (MDSO), reports 404 Media. Made by a company..."
-    },
-    {
-      "title": "AI tools keeping up with the hype cycle, or already moving on?",
-      "author": "FrancescoMassa2001",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5paha/ai_tools_keeping_up_with_the_hype_cycle_or/",
-      "published": 1791979098.0,
-      "thumbnail": null,
+      "title": "My history podcast app now has an Atlas to explore",
+      "author": "Goldenchild123",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/",
+      "published": 1791984332.0,
+      "thumbnail": "https://external-preview.redd.it/bjdzcDJkbmtuZnZoMc9wf6B8kxX6B-2sZDQfKg-vozg1XK9FOVDz_ve_A-7Q.png?width=640&crop=smart&auto=webp&s=407f9e915cd5437aa3b8f7bfaebd3330a29e1ea9",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "tried a new agent framework last week because the launch post made it sound like it would handle the boring parts of my SaaS admin. it worked for the first couple features then quietly stopped respecting the limits I set. had to go back and add the same guardrails I already had in the old version. the real issue is how fast these things get replaced. by the time I figure out whether one actually saves time, there's already a newer version and the docs for the first one are already stale. at this point I'm just picking whatever has the least friction for the next two weeks. curious if anyone else is treating this as disposable tooling or if that's just how it works now."
+      "description": "I\u2019m a history enthusiast (my dad\u2019s fault) who builds apps and LLM tools for a living, so I built Historai: generated history podcasts on any topic you type. I just shipped the part I\u2019m most excited about, the Atlas. The Atlas is a globe of your listening. Every episode is pinned to where and when it happened, so after a few episodes you can spin it and see the eras and places you\u2019ve explored. Scrub the timeline and the borders redraw for that year. Tap a realm and it tells you what it was. Tap somewhere you haven\u2019t been and it suggests an episode to make there, or shows what other listeners made in that place and era. The episodes themselves: type anything, \u201cthe fall of Constantinople\u201d, \u201cAda Lovelace\u201d, \u201cthe Great Emu War\u201d, or \u201cwhat a day looked like for a scribe in the Library of Ashurbanipal\u201d. It researches the topic on the web, and when sources disagree (constantly, in history) the hosts say so instead of picking a side. Every episode links what it used. And you can interrupt: ask a question halfway through, the hosts answer and pick the story back up. Would love to hear what you think of the app and especially the Atlas: historai.ca"
     }
   ],
-  "fetched_at": "2026-10-14T12:40:43.978455+00:00"
+  "fetched_at": "2026-10-14T17:48:33.112377+00:00"
 }

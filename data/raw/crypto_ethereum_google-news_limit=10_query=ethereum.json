@@ -5,44 +5,34 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Current price of Ethereum for Oct. 14, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QRURHbUtXWWtxQUFBTDk2aEhfV0JDTUFuNEF0eWZfZm1Dbko2dkJ2QngzWmxORkhiMFVzZ2laa00wdlRJTUdQQzRZOFBpM0lrdFNnVXYxenZFOUVwU1J3azNQVXkwZHZu?oc=5",
-      "pub_date": 1791977400.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-14-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-14.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Bitmine\u2019s Tom Lee Warns Of Ethereum Selloff",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDV5VmpweE1JREdYeHY2NW9xcS1waXlsRU9DYjNUMnNqcm5uTGtJNzRua3AtdHkyWTloMFlhS3hxNUpvQldtTEhZd1liamQ4UzF3cEptRGZiRWswZTlxV2dZTzQ2cTIyM1oxTmRBdkVvaHRlck1vR3FaNWlrMEpzYlhLSDNfSm15ZHZPWUJCdUdoNWhYLUdCLXZ0WQ?oc=5",
+      "pub_date": 1791901560.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c365805b8a072cc30e623b0498ef120eae2ca44a33a2132e3a90a8c50573120c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fdc984f3370441c5db945debb2cb4cf67.jpg",
+      "description": "Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET..."
     },
     {
       "headline": "Bitcoin Is Up 7.1% and Solana 5.3% This Month. Ethereum Is Down 0.7% and XRP 1.4%. What Separates Them?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVd3dXdKaDZHX25HWnJneEp1X0R1czN3bHhkYXVnYUtsMUQ0ZnVvN0ozWXZRT3JNcFdwaHRrQW5LRDczNUJyTGlPbENzaEF4ZTF5LXFnNGRIQUVtR1A4ZEFkOGNWUlgxWm5OQUtRLWJpd1p1SHFQVW9nYnprS0gxZFlPRkFWZWJ6QjRsMW5B?oc=5",
-      "pub_date": 1791980413.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-7-1-solana-5-122013387.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4bd72a71cd94a0ff601dac601791613f935b12fcca0068a56f662d1d82c2d20b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F41d19019be44cdb4da73cf50f9a6456a.jpg",
-      "description": "Bitcoin and Solana are climbing while Ethereum and XRP slip below zero, but the weekly chart scrambles that ranking in a way that puts one surprise coin at the bottom of the pack."
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXlFNUd0VnBsc1JmRzlLQm1vRGZrZXF3eW1tclI5LUd3Vm9zN0lSczc2YUE0U3BBampPS0paVjcyaFZaVWlpY3VqenB1NmJsX19pNEtvNXplRUQ5Mi1PMkhxdXM5OWRNZUhydnlTMmtYMEJ4ejdMek5GQlJwZEpJWnk1YWRDVXAtSUQ0NUJn?oc=5",
+      "pub_date": 1791995424.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-7-1-solana-5-163024874.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/865e439a5dd276b4370c7a76e8edc3b1c9d32a0b72d379f77ce5d30238aebd65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ffafd52df8448c3485433f43f60315b91.jpg",
+      "description": "Four major cryptocurrencies split into two camps this month, but the weekly numbers tell a completely different story and reveal which of the apparent winners may be living on borrowed time."
     },
     {
-      "headline": "Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode",
+      "headline": "Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXpFWktZbkc4MzNZNXpYVFBwM1I0akU2SVlPVER0OW91VnZKOHBBS29GQ2lNZzJzcGt4MzBXdWtOS0ZQU1hBV3F3MTgwbU92YkZxUzFzS3huU1lFYmh1R3dxTXlqV1ppVDRUaHR0S0xYdE1ZZE5nWjVfWjFfeGV0SXlfM0ZYUjZKSk9yZGVnVWxmS0owcHlpaXItZnZXSUNuSmc?oc=5",
-      "pub_date": 1791970335.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3ae455e2211a7236d201449e0f6dd70c8020c25bf45e013bb8eacb7b1547cd72/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fd1091cdfa3d9348e816561ce4d015ebb.png",
-      "description": "Ethereum\u2019s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ..."
-    },
-    {
-      "headline": "The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHVraGhqbDVTM3J4Q3h6RXRXcU0waHAybmdPQjV2LWVsaEJkczBFOUlLRXFIRUJHSWo2eGtEZEtHU2lGNUVySVhwNW1SVUhCR3VtOU4xYXNXRnlxNUJfYXFFanhTNndhMW9MRFRiSXRkb3p0RW1RdDNiaVp0MDduVHMxYldheEFFLVdUSEp6WmY1SFlMbDZz?oc=5",
-      "pub_date": 1791894240.0,
-      "article_url": "https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890545%2Fanxious-investor-with-smartphone.jpg&w=1200&op=resize",
-      "description": "A major source of Ethereum demand is about to disappear. That's a problem for investors."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjVtUEo1MlhPN19ubGZ1dENoYWpuZTB4WlIyTDlOM1NnOE5kb1BGZUViTU9WSkYtd0NOWTJ1QnBJU3pXamZncU1oc1EwN2ZxaXpRYlVtRms1ZWZFZnNhS1dpQk9OdzE5c0sxRlVSVENqZGF5SWtCV091N1NyQ040Y3V6c0xOaXBNeVFPUVo1MUt6YThBeEJBTDlWeGZPNE5UME9aX1BZOA?oc=5",
+      "pub_date": 1791997777.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
+      "description": "Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as \"mature\" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee\u2019s hint at winding down Bitmine\u2019s Ethereum accumulation streak is..."
     },
     {
       "headline": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
@@ -55,6 +45,26 @@
       "description": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown."
     },
     {
+      "headline": "Current price of Ethereum for October 14, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QRURHbUtXWWtxQUFBTDk2aEhfV0JDTUFuNEF0eWZfZm1Dbko2dkJ2QngzWmxORkhiMFVzZ2laa00wdlRJTUdQQzRZOFBpM0lrdFNnVXYxenZFOUVwU1J3azNQVXkwZHZu?oc=5",
+      "pub_date": 1791992041.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-14-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-14.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHVraGhqbDVTM3J4Q3h6RXRXcU0waHAybmdPQjV2LWVsaEJkczBFOUlLRXFIRUJHSWo2eGtEZEtHU2lGNUVySVhwNW1SVUhCR3VtOU4xYXNXRnlxNUJfYXFFanhTNndhMW9MRFRiSXRkb3p0RW1RdDNiaVp0MDduVHMxYldheEFFLVdUSEp6WmY1SFlMbDZz?oc=5",
+      "pub_date": 1791894240.0,
+      "article_url": "https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890545%2Fanxious-investor-with-smartphone.jpg&w=1200&op=resize",
+      "description": "A major source of Ethereum demand is about to disappear. That's a problem for investors."
+    },
+    {
       "headline": "Tom Lee Says Ethereum\u2019s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -65,6 +75,16 @@
       "description": "Tom Lee says tokenization and AI agents will reverse Ethereum's decline against Bitcoin. Yet the ETH/BTC ratio fell 4.7% in a week."
     },
     {
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC eyes $85,000, ETH holds support, XRP stabilizes",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1RhcGtsbFlUZTdnWkRhTTNtbHAwd0ZxcWpKTTlnbm5UaUt3NS1OS29fczdDcjZsc1IzaG13eHBfRW4xSHliY1l5M1JCU3NhQ2czZm9ZMjZHamNyUTlHM2tPLVZESnBlS2Q1T1laSlo4eV84ZDJQeUZMUllkMDdVM2JWREZrMUhIVUZfemZhdTU0OF9YZUUwamxFTEEyamlMLUEwbHpwcWpObndKRWdVaUdBQjdVeFdiOTRWcENZc3AtT28zTjJjaEtYU3pXaHBJWGU2VFA0VFE4a2tjUzBUQkVva29oTTRYTHdMbA?oc=5",
+      "pub_date": 1791951349.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin And Crypto Just Quietly Hit A Massive Price \u2018Inflection Point\u2019\u2014But There\u2019s A Nasty Catch",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -73,26 +93,6 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ethereum, XRP Could Drop Another 10% Before Real Relief, Trader Warns",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTTlJb1RWSUJWS0FDbjdmQ2thVlZna3hkRXI1RFYxbVJIYzBEYnZmQk40cS1hZGt0ZjN3a3BOeXVhOTMwcWdsVndoMUZQWmI4UEVpUVU3cnlnTS1LY2FZbFljUUl2Wjg3WXdoQklzSHJHbi1QQ1ZydU10WlAwejNYR0wtaDUtM19TZlYydWJGal9KRFJIaUJxeGVfSC0yb0c1SHlTU1RUTTBUVU5HaV9haVFBYmlGQmRZcmYzNGhhTXRfcVdoUmpB?oc=5",
-      "pub_date": 1791820813.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62304238/ethereum-xrp-could-drop-another-10-before-real-relief-trader-warns",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/12/Ethereum-Eth-amp-Ripple-Xrp-Coins-With-C.jpg",
-      "description": "Ethereum may fall to $2,200 and XRP to $1.22, but a final sell-off could fuel panic, short squeezes and a stronger crypto rally."
-    },
-    {
-      "headline": "Starknet considers leaving Ethereum for a quantum-resistant Layer 1",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmFzOEpfUEJyN1FtRWdnSUJDZ2tiUzAtRUhqejU0eTJjSU9jU0ZiaHVxUk5yYTJZYjlvVGljWWFCT2Y1M2dvZXctdlpnMm1XVGhxcThaa0NacHd1cW1GaDkwWlRkZU1XMG1BMExrbC1DeHgwM2VIQjJkajJSRTZaSGdMcmhlWHNnVGxfMlFwV3lseHZKZnNaNi0zLURtdUNEVnFCSFhYVlU?oc=5",
-      "pub_date": 1791759646.0,
-      "article_url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/starknet-ethereum-quantum-rally.webp",
-      "description": "Starknet is considering an independent Layer 1 to pursue quantum resistance in 2027. Its roadmap separates its own cryptography from Ethereum dependencies."
     },
     {
       "headline": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-14T12:40:57.681304+00:00"
+  "fetched_at": "2026-10-14T17:48:55.657267+00:00"
 }

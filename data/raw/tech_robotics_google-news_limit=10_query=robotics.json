@@ -25,22 +25,32 @@
       "description": "The second-largest corporate employer has bet big on robot workers to scale."
     },
     {
-      "headline": "A robotics business is set to be bought with shares priced about 50% above the buyer's Oct. 12 close.",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWVpUzhuaG55MkFEUmtUcjh6SDF0OUxjMFNxN2dlYWlHQ3VqSDNjZnp3UnowU1U4dXYtdWRveFRNUHhka0RBMlQzSDBZdDJHLXA1SUdRVVVLWV9Nd1dvVjhvLXlpNUJrWTUwNzZsT1hsYzRXUzhDUlR6alpRVk1yS0lNMy01bjdBRnVNZHJReE1KRmdQVWZRcGFpRXIwb3BOQlhxT0p4ZjVVdmFXOTdvbTk3NTh0U3ZXc3c?oc=5",
-      "pub_date": 1791977400.0,
-      "article_url": "https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ibhf2i6pbt5r.html",
-      "image": "https://www.stocktitan.net/news_covers/FF_EAI_Robotics_Ecosystem_Signs_Definitive_Agreements_to_Combine_FFAI_s_Full_Robotics_Business_at_Ab_1516354.webp",
-      "description": "The deal also includes up to $10 million in equity financing; both transactions remain subject to closing conditions, with closings expected by October's end."
+      "headline": "SemiFive takes custom silicon into robots",
+      "source": "Jon Peddie Research",
+      "source_url": "https://www.jonpeddie.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oYlJpUzNqV0NuTWVDQXpPRmR3T0hXQUNoaGpQUnNPYTllM0lDLXBQSjZ6aWZfT29SalZsN1BnSVhTYU1rODMwaHNNaVJNNTE0bXdvaG5UeXZHYWxna0k1dzVDZGZFcW8xX0lxXzZNMGdrOGpRRXdTaHQzYkNSZw?oc=5",
+      "pub_date": 1791996005.0,
+      "article_url": "https://www.jonpeddie.com/news/semifive-takes-custom-silicon-into-robots/",
+      "image": "https://www.jonpeddie.com/wp-content/uploads/2026/10/semi-1.png",
+      "description": "Mobilint robotics chip joins growing production pipeline."
     },
     {
-      "headline": "China Is Beating the US to the $5 Trillion Robot Market",
+      "headline": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc?oc=5",
+      "pub_date": 1791988913.0,
+      "article_url": "https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzVZOGtYbkFkM3lselBMMUJYcVNPWld5ZlRGeEZmTVlyLVNZUDN5SXg5RnNRQThBeFhKU2UydG41b3B1YnpYd3VnNjgyVXAzS05uREdsMXp3cVlOVGlPS2NEM1RSajRuTlZxVEtYbkR2MDJONXdZem4yRTNUSUVIVE1vdlZLZnBiSGtwazRZeEN4NG5KRGtiYV9nQ1NSMUl5QlpfcGRPZ180Z0dq?oc=5",
-      "pub_date": 1791973681.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-14/ai-robots-china-is-beating-the-us-to-5-trillion-market",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5",
+      "pub_date": 1791948420.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
       "image": null,
       "description": null
     },
@@ -49,7 +59,7 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1NicmFvaGVSM1RrTlhtMU5pcU8xQ0thU3BPRG9JZ3c4NDhFeFQyR2lLdkJTY0FlOVAydWhoeElRNl9STkpuR1p0NzJPOUJ4ZDI5QlBtVlNJMnBBbjNKSXdzaEJKWEhYZGt3RUVJWWVFSXMxLVVVTlhaTGI1OU1tc2V5VmdodGx4eldicmJ6WW8wQ2sxc0czTkhGRnlTTVVwNXdOaG4tRFliUzJKMW9BRXJ6ejdmaFpaeWJLa3ZWSEF2WnNHaDNGbUtJb2pYUTN5NUJkdC1mZm9CMElpcXgtZUkxTXdVTHVKeE1jNlRSUmctbUYtWk16Sw?oc=5",
-      "pub_date": 1791935160.0,
+      "pub_date": 1791880200.0,
       "article_url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy",
       "image": null,
       "description": null
@@ -75,36 +85,26 @@
       "description": "In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president."
     },
     {
-      "headline": "Tiny robots speed medicine through body to the heart",
-      "source": "Johns Hopkins University",
-      "source_url": "https://hub.jhu.edu",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mWHBYNXFaZC1Yby1KX1dNVHRXbUVOOEJZa2Z1bEV2VHRXcGE5MkdZS3dTRXZSckNVTDE5Q3o1OXgyeEg3MnQ0SlpBMjVCVHdGNkhfQm5IUnRZR1k2OVc3eUV5SlpMTHJyalVVZXF1RTBfRWFYMVFROEl3?oc=5",
-      "pub_date": 1791815400.0,
-      "article_url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "image": null,
-      "description": null
+      "headline": "A robotics business is set to be bought with shares priced about 50% above the buyer's Oct. 12 close.",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWVpUzhuaG55MkFEUmtUcjh6SDF0OUxjMFNxN2dlYWlHQ3VqSDNjZnp3UnowU1U4dXYtdWRveFRNUHhka0RBMlQzSDBZdDJHLXA1SUdRVVVLWV9Nd1dvVjhvLXlpNUJrWTUwNzZsT1hsYzRXUzhDUlR6alpRVk1yS0lNMy01bjdBRnVNZHJReE1KRmdQVWZRcGFpRXIwb3BOQlhxT0p4ZjVVdmFXOTdvbTk3NTh0U3ZXc3c?oc=5",
+      "pub_date": 1791977400.0,
+      "article_url": "https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ibhf2i6pbt5r.html",
+      "image": "https://www.stocktitan.net/news_covers/FF_EAI_Robotics_Ecosystem_Signs_Definitive_Agreements_to_Combine_FFAI_s_Full_Robotics_Business_at_Ab_1516354.webp",
+      "description": "The deal also includes up to $10 million in equity financing; both transactions remain subject to closing conditions, with closings expected by October's end."
     },
     {
-      "headline": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkFLN2FvWWwxRTB3aXJRbGdYY2tXZEY1TUllYjhXUEhJSDVTTDNFZm9SVDBRdWVUSUYyM3hCbmxHa2NXQUlWU2ctMWR4bWE0aDhtdkdGemlwTlQ0Z0VkclJtQTVYeXNTQzdtZzdBWVhHSkp1M25mMVpuaVJncno1Q1JUN3p4MmRlYzQ2Y3o4VnpfZlRxR2tQODlPVTg2Y0VFT3lfNjFIM2t5c2tB?oc=5",
-      "pub_date": 1791932400.0,
-      "article_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
-      "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
-    },
-    {
-      "headline": "Stryker enters soft tissue robotics with $400M investment in CMR Surgical",
-      "source": "MedTech Dive",
-      "source_url": "https://www.medtechdive.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXZlazRsX0VVa096OVdRdDljclNYdEdPT0dYeF9YYmJURG9sSXdreXFZdHdJSWpYczB1d1o0MFVwN0hxSnV1aUVhUG9qX1lfUkhvUWZoNzVRVkJQX2JDak4yTzk5bFlveFNvLUVKa1ZtUXhwbnNYVVhlQU9KX0ZPYTlIdldJeGFCVnBwUHc3NkF4elFsWDRkMFMySGhjbVRNdUtGSkxnR291WThBcVNOTWlFTQ?oc=5",
-      "pub_date": 1791822457.0,
-      "article_url": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
-      "image": "https://imgproxy.divecdn.com/-CW_7jisLdkbwOViPrNu0tou4qgc0WDH7YBgBepgG3w/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qcm9kdWN0LVZlcnNpdXMtTkhTLUhvc3BpdGFsLUQtc2NhbGVkLmpwZw==.webp",
-      "description": "Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic."
+      "headline": "Stryker dives into soft-tissue robotics with $400M play for CMR Surgical\u2019s Versius",
+      "source": "MassDevice",
+      "source_url": "https://www.massdevice.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUpfV2hucVJKZUJUaXZCQVVEanl5ODlnQmRSQWZ1aVhHbUMzdW1acmtKU3kwb0syc3RmMlVkRHRoU3hsN2hiTjh2ZkJZUzIyOHlOSEhFem1yNUw0YVIxX0NtYzJpYTVvSkZKb18zZjJtTUExZ21HVjZjS21ndEt4cDRDYmE2b05rZ3l3NEExd2tsVjdHM0xMRDFVOHNjb1ExWk5JekhJQktDV0JT?oc=5",
+      "pub_date": 1791901233.0,
+      "article_url": "https://www.massdevice.com/stryker-dives-into-soft-tissue-robotics-with-400m-play-for-cmr-surgicals-versius/",
+      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/12/17113719/CMR-Surgical-Versius-Plus.jpg",
+      "description": "Stryker netted exclusive U.S. rights to sell CMR's Versius robot, while pocketing an option to acquire the company in the future."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-14T12:41:02.629668+00:00"
+  "fetched_at": "2026-10-14T17:48:57.494784+00:00"
 }
