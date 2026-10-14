@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-14T17:49:05.149984+00:00'
+updated: '2026-10-14T21:20:31.428743+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 17:49 UTC  
+**Last Updated:** October 14, 2026 at 21:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,035.89
+### $81,841.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -0.0%  
-**30d:** +8.0%  
-**90d:** +27.7%  
-**1y:** -26.5%  
+**24h:** -2.1%  
+**7d:** +0.1%  
+**30d:** +8.1%  
+**90d:** +27.9%  
+**1y:** -26.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1642.17B
+**Market Cap:** $1641.84B
 Rank #1
 
-**Circulating Supply:** 20,098,212 BTC
+**Circulating Supply:** 20,098,271 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -35.2%
 
 **All-Time Low:** $67.81
-+120383.7%
++120397.0%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Is This Guy Real?This guy claims he held Bitcoin since 2013, made a 1000x return and recreated his old viral video 11 years later. Pretty insane if true.But is this story actually real? Anyone know who he is?](https://www.reddit.com/r/Bitcoin/comments/1x4apxa/is_this_guy_realthis_guy_claims_he_held_bitcoin/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 My friends father was renting space on his farm for a bitcoin mining operation. The operation became unprofitable. The mining operation went bankrupt. The company came in and took everything out of the 6 antmain bit-boxes (converted shipping containers). The photos are what they left behind. Mostly Antminer S19 units and even more asic boards. Plenty of antmain rack PDUs. Some 480VAC breaker panels. A 480VAC switch unit. The land owner did accept the mess voluntarily. He is breaking the equipment down for scrap value. I wonder, is there a better price available out there above scrap value? Is this normal? FWIW, I used the term failed very tongue-in-cheek. I estimate the operation mined millions in this operation.
 
-2d ago
+3d ago
 
 ---
 
@@ -123,13 +123,13 @@ Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
 Money supply isn't dropping any time soon. The next run will be glorious.
 
-1d ago
+2d ago
 
 ---
 
 **[AI Agents Agree: BTC is best for long term capital preservation.](https://www.reddit.com/r/Bitcoin/comments/1x4bvlx/ai_agents_agree_btc_is_best_for_long_term_capital/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -171,15 +171,37 @@ A well-known global M2 Bitcoin chart suggests BTC could be worth around $300,000
 
 Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.
 
-CoinDesk • 47m ago
+CoinDesk • 33m ago
 
 ---
 
-**[Flipping Altcoins to Buy More Bitcoin? Arthur Hayes Says That's the Plan](https://finance.yahoo.com/markets/crypto/articles/flipping-altcoins-buy-more-bitcoin-162612841.html)**
+**[Bitcoin price falls toward $81,500 after September CPI report](https://qz.com/bitcoin-price-falls-september-cpi-inflation-101426)**
 
-BitMEX co-founder Arthur Hayes told The Rollup podcast Tuesday that his fund treats trading as a tool to fund bigger Bitcoin purchases rather than an end goal itself. Why Hayes Wants ‘Busted Charts,’ Not New LaunchesHayes said he wants his...
+Crypto analyst sentiment has turned bullish, with 84% of analysts positive on bitcoin, according to Bloomberg
 
-Yahoo Finance • 1h ago
+Quartz • 1h ago
+
+---
+
+**[US Inflation Hits 3.7%, Sinking Bitcoin and Gold: Will the Fed Hike in October?](https://finance.yahoo.com/economy/policy/articles/us-inflation-hits-3-7-123519986.html)**
+
+US inflation hit 3.7% in September, beating forecasts. See how Bitcoin and gold reacted and what it means for Fed hikes.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Michael Saylor drops bold Bitcoin call ahead of major index review](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-drops-bold-bitcoin-234751739.html)**
+
+Saylor is calling a new Bitcoin bull market days before MSCI decides on Strategy’s place in major indexes.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -187,39 +209,21 @@ Yahoo Finance • 1h ago
 
 Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
 
-Fox Business • 46m ago
+Fox Business • 4h ago
 
 ---
 
-**[Zaria raises $5M to track crypto loan collateral](https://www.axios.com/pro/fintech-deals/2026/10/14/zaria-lightspeed-5-2m-bitcoin-loan-servicing)**
+**[Bitcoin Just Posted Its Best Q3 Since 2017. If History Is Any Guide, Here's What Comes Next for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-posted-best-q3-150200350.html)**
 
-Axios • 5h ago
+The crypto's strong performance significantly raises the probability of a rally in 2027.
 
----
-
-**[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
-
-Bloomberg.com • 22h ago
-
----
-
-**[Bitcoin's Recovery Sets Up This Limited-Risk Spread](https://www.investors.com/research/options/ibit-stock-ishares-bitcoin-trust-bull-call-spread-options/)**
-
-The iShares Bitcoin Trust fund has broken a downtrend and cleared a cup-with-handle pattern. IBIT stock has passed its 46.37 buy point.
-
-Investor's Business Daily • 2d ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
 
 Financial Times • 1d ago
-
----
-
-**[Bitcoin dips below $83k after hot U.S. inflation data](https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178)**
-
-Investing.com • 3h ago
 
 ---
 
@@ -237,7 +241,7 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
-⬆️ 1 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
+⬆️ 1 • 💬 0 • 2d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
 
 ---
 
@@ -259,7 +263,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.
 
-⬆️ 3 • 💬 1 • 5d ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
+⬆️ 3 • 💬 1 • 6d ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
 
 ---
 
@@ -267,43 +271,43 @@ Learn more about how Microsoft 365 subscriptions now use shared cloud storage in
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Braces for an Inflation Shock](https://www.youtube.com/watch?v=srd1AEbObKM)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 541 • 💬 34 • ⏱️ 44:14 • 3h ago
-
----
-
-**[Bitcoin&#39;s Next Dump Could Happen Faster Than You Think!](https://www.youtube.com/watch?v=QRsod7jMv8U)**
-
-A huge move in the crypto market could be coming after today's CPI report! In this video, Sheldon breaks down the latest inflation ...
-
-📺 Crypto Banter
-
-👁️ 17K • 👍 958 • 💬 37 • ⏱️ 19:14 • 7h ago
-
----
-
 **[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
 
 Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 78K • 👍 2K • 💬 173 • ⏱️ 10:28 • 18h ago
+👁️ 85K • 👍 2K • 💬 164 • ⏱️ 10:28 • 21h ago
 
 ---
 
-**[Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment](https://www.youtube.com/watch?v=GpYuwAfZZq8)**
+**[Bitcoin Braces for an Inflation Shock](https://www.youtube.com/watch?v=srd1AEbObKM)**
 
-Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and Tim Stenovec on "Bloomberg Crypto.
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 Bloomberg Television
+📺 CryptosRUs
 
-👁️ 64K • 👍 807 • 💬 169 • ⏱️ 19:31 • 22h ago
+👁️ 19K • 👍 642 • 💬 55 • ⏱️ 44:14 • 6h ago
+
+---
+
+**[Bitcoin Just WRECKED Bulls &amp; Bears](https://www.youtube.com/watch?v=X7pEDGPmH2Y)**
+
+Join The Coin Bureau Club http://club.coinbureau.com/ Get The Hottest Crypto Deals https://www.coinbureau.com/deals/ ...
+
+📺 Coin Bureau
+
+👁️ 26K • 👍 585 • 💬 33 • ⏱️ 9:35 • 8h ago
+
+---
+
+**[Market Uncertainty Surges!🚨Inflation, War, AI🔥Bitcoin Breaking $81k?](https://www.youtube.com/watch?v=N_fSFEk5x3s)**
+
+Hot inflation data, surging oil, a widening Middle East war, cracks in the AI trade and a weakening consumer are all hitting at once, ...
+
+📺 Paul Barron Network
+
+👁️ 8K • 👍 720 • 💬 45 • ⏱️ 19:07 • 2h ago
 
 ---
 
@@ -313,17 +317,7 @@ Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning tha
 
 📺 Natalie Brunell
 
-👁️ 47K • 👍 1K • 💬 68 • ⏱️ 2:56 • 20h ago
-
----
-
-**[Bitcoin Update: What’s Happening With BTC Right Now?](https://www.youtube.com/watch?v=Rg1dSvBoGEo)**
-
-Bitcoin is back in focus as the crypto market watches its next move. In this quick update, we look at the latest BTC market situation ...
-
-📺 Crypto Nitro
-
-👁️ 5K • 💬 17 • ⏱️ 1:07 • 15h ago
+👁️ 57K • 👍 1K • 💬 76 • ⏱️ 2:56 • 1d ago
 
 ---
 
@@ -333,37 +327,47 @@ Trump is promising every adult American a $5000 check — roughly $1.3 TRILLION 
 
 📺 Digital Asset News
 
-👁️ 20K • 👍 592 • 💬 96 • ⏱️ 31:27 • 18h ago
+👁️ 21K • 👍 610 • 💬 99 • ⏱️ 31:27 • 22h ago
 
 ---
 
-**[Bitcoin Is at Beginning a Bull Market, Says Strategy&#39;s Saylor](https://www.youtube.com/watch?v=fki9hxwRUfs)**
+**[BITCOIN crash in NOVEMBER? 🤯](https://www.youtube.com/watch?v=Gqa8Tk_ZD8U)**
 
-In an exclusive interview from DC Fintech Week, Strategy founder and Executive Chairman Michael Saylor says Bitcoin is at the ...
+Historically, Bitcoin has often seen weakness around U.S. midterm elections. It's happened more than once — but will history ...
 
-📺 Bloomberg Tech
+📺 ODES → All about trading
 
-👁️ 19K • 👍 127 • 💬 33 • ⏱️ 1:14 • 1d ago
-
----
-
-**[Bitcoin: This Signal Points to $95,000 Within 30 Days](https://www.youtube.com/watch?v=wvu0onib6WU)**
-
-Bitcoin's 10-day signal confirms Friday. In 19 prior cases it was green 79% of the time a month later; since 2018 the median is ...
-
-📺 Krown
-
-👁️ 11K • 👍 540 • 💬 39 • ⏱️ 14:57 • 23h ago
+👁️ 7K • 👍 37 • ⏱️ 0:09 • 12h ago
 
 ---
 
-**[He Calls Bitcoin &quot;Teenager Gold&quot;](https://www.youtube.com/watch?v=CUiwUWTeJuc)**
+**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
 
-Bloomberg Intelligence Senior ETF Analyst Eric Balchunas shares why investors are holding onto Bitcoin through market ups and ...
+Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
 
-📺 Natalie Brunell
+📺 Simply Bitcoin
 
-👁️ 1K • 👍 38 • 💬 1 • ⏱️ 0:57 • 4h ago
+👁️ 51K • 👍 2K • 💬 178 • ⏱️ 17:10 • 2d ago
+
+---
+
+**[BREAKING: DID CHINA JUST SEND A BITCOIN WARNING AT AMERICA!!! | EP 1611](https://www.youtube.com/watch?v=N3BHqZ8YNrI)**
+
+INSANE BITCOIN BACKFLIP BY CHINA THIS WEEKEND!
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 309 • 💬 17 • ⏱️ 1:16:40 • 2d ago
+
+---
+
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=-eKtrrN5P48)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 145K • 👍 4K • 💬 154 • ⏱️ 11:43 • 2d ago
 
 ---
 

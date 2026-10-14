@@ -13,15 +13,15 @@
       "description": null
     },
     {
-      "title": "Ramp\u2019s $1.5 Million Week of Spending Leads to Glass AI Tool",
-      "author": "Competitive-Fudge174",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5uvsf/ramps_15_million_week_of_spending_leads_to_glass/",
-      "published": 1791993173.0,
-      "thumbnail": "https://external-preview.redd.it/NObYFaZEiK8tL6wy5zqk7bQkCMl8q9cFSGef-ZuQQ7w.png?width=640&crop=smart&auto=webp&s=7fbd8df1e823b86e4e5559b9f26656ae64928619",
-      "external_url": "https://www.pymnts.com/news/artificial-intelligence/2026/ramp-1-million-week-spending-leads-glass-ai-tool/",
-      "site_name": "PYMNTS.com",
-      "favicon": "https://www.pymnts.com/wp-content/uploads/2022/11/cropped-PYMNTS-Icon-512x512-1.png?w=180&quality=82",
-      "description": "Ramp will begin offering its in-house artificial intelligence tool, Glass, to other companies, according to a Tuesday (Oct. 13) company blog post written"
+      "title": "Epic Games says it vibe coded new launcher because \u201cprogramming is hard\u201d",
+      "author": "Dilpickle2113",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/",
+      "published": 1791993209.0,
+      "thumbnail": "https://external-preview.redd.it/vq304MWBzzXtOxckf6nmVu7oIxippfFoYJgCTwkrLV4.jpeg?width=640&crop=smart&auto=webp&s=7a2ce1b749bc74a3487db36adbfd1dc3e566c1d9",
+      "external_url": "https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/",
+      "site_name": "Dexerto",
+      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
+      "description": "Epic Games has revealed a new version of its launcher, claiming it was \u201cvibe coded\u201d because \u201cprogramming is hard.\u201d"
     },
     {
       "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to \u2018Boost Their Own Popularity\u2019",
@@ -57,17 +57,6 @@
       "description": "Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less \"cheaper reasoning\" and more \"less infrastructure devoted to reminding the model what it already learned.\" Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?"
     },
     {
-      "title": "Epic Games says it vibe coded new launcher because \u201cprogramming is hard\u201d",
-      "author": "Dilpickle2113",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/",
-      "published": 1791993209.0,
-      "thumbnail": "https://external-preview.redd.it/vq304MWBzzXtOxckf6nmVu7oIxippfFoYJgCTwkrLV4.jpeg?width=640&crop=smart&auto=webp&s=7a2ce1b749bc74a3487db36adbfd1dc3e566c1d9",
-      "external_url": "https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/",
-      "site_name": "Dexerto",
-      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
-      "description": "Epic Games has revealed a new version of its launcher, claiming it was \u201cvibe coded\u201d because \u201cprogramming is hard.\u201d"
-    },
-    {
       "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
@@ -101,6 +90,17 @@
       "description": "YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi."
     },
     {
+      "title": "Gemini 4 Argon apparently built this game. AI Studio is showcasing it.",
+      "author": "fasildar55",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/",
+      "published": 1792004160.0,
+      "thumbnail": "https://external-preview.redd.it/bW9jdXh1bmNjaHZoMaGj6BAFIRL1IRASqjnKh_fK5-pPiikicfqwlSpbzCgI.png?width=640&crop=smart&auto=webp&s=23307fdec0437bd9b5fdec6fbefa046e05822b27",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "My history podcast app now has an Atlas to explore",
       "author": "Goldenchild123",
       "url": "https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/",
@@ -112,5 +112,5 @@
       "description": "I\u2019m a history enthusiast (my dad\u2019s fault) who builds apps and LLM tools for a living, so I built Historai: generated history podcasts on any topic you type. I just shipped the part I\u2019m most excited about, the Atlas. The Atlas is a globe of your listening. Every episode is pinned to where and when it happened, so after a few episodes you can spin it and see the eras and places you\u2019ve explored. Scrub the timeline and the borders redraw for that year. Tap a realm and it tells you what it was. Tap somewhere you haven\u2019t been and it suggests an episode to make there, or shows what other listeners made in that place and era. The episodes themselves: type anything, \u201cthe fall of Constantinople\u201d, \u201cAda Lovelace\u201d, \u201cthe Great Emu War\u201d, or \u201cwhat a day looked like for a scribe in the Library of Ashurbanipal\u201d. It researches the topic on the web, and when sources disagree (constantly, in history) the hosts say so instead of picking a side. Every episode links what it used. And you can interrupt: ask a question halfway through, the hosts answer and pick the story back up. Would love to hear what you think of the app and especially the Atlas: historai.ca"
     }
   ],
-  "fetched_at": "2026-10-14T17:48:33.112377+00:00"
+  "fetched_at": "2026-10-14T21:20:04.337485+00:00"
 }

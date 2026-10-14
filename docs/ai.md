@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-14T17:49:05.141823+00:00'
+updated: '2026-10-14T21:20:31.421107+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 14, 2026 at 17:49 UTC  
+**Last Updated:** October 14, 2026 at 21:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,37 +39,7 @@ AI news, discussions, and developments
 
 **[Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.](https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/)**
 
-🔗 [gizmodo.com](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964) • 9h ago
-
----
-
-**[Ramp’s $1.5 Million Week of Spending Leads to Glass AI Tool](https://www.reddit.com/r/artificial/comments/1x5uvsf/ramps_15_million_week_of_spending_leads_to_glass/)**
-
-Ramp will begin offering its in-house artificial intelligence tool, Glass, to other companies, according to a Tuesday (Oct. 13) company blog post written
-
-🔗 [PYMNTS.com](https://www.pymnts.com/news/artificial-intelligence/2026/ramp-1-million-week-spending-leads-glass-ai-tool/) • 1h ago
-
----
-
-**[Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’](https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/)**
-
-Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol...
-
-🔗 [Yahoo News](https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html) • 9h ago
-
----
-
-**[It has begun…🦾☠️](https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/)**
-
-14h ago
-
----
-
-**[How much of today's agent memory stack is a workaround for the model architecture?](https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/)**
-
-Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less "cheaper reasoning" and more "less infrastructure devoted to reminding the model what it already learned." Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?
-
-3h ago
+🔗 [gizmodo.com](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964) • 13h ago
 
 ---
 
@@ -77,7 +47,29 @@ Much of today's agent stack is designed around the fact that model calls don't a
 
 Epic Games has revealed a new version of its launcher, claiming it was “vibe coded” because “programming is hard.”
 
-🔗 [Dexerto](https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/) • 1h ago
+🔗 [Dexerto](https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/) • 5h ago
+
+---
+
+**[Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’](https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/)**
+
+Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol...
+
+🔗 [Yahoo News](https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html) • 13h ago
+
+---
+
+**[It has begun…🦾☠️](https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/)**
+
+18h ago
+
+---
+
+**[How much of today's agent memory stack is a workaround for the model architecture?](https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/)**
+
+Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less "cheaper reasoning" and more "less infrastructure devoted to reminding the model what it already learned." Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?
+
+6h ago
 
 ---
 
@@ -93,7 +85,7 @@ Rumors that OpenAI’s “Navier-Stokes” solution stole the work of two mathem
 
 What Anthropic is doing, and publicly boasting about, to “protect” the reasoning behind the AI answers we get when we use their models, really doesn’t sit right with me.
 
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind) • 10h ago
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind) • 14h ago
 
 ---
 
@@ -101,7 +93,13 @@ What Anthropic is doing, and publicly boasting about, to “protect” the reaso
 
 YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad) • 11h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad) • 14h ago
+
+---
+
+**[Gemini 4 Argon apparently built this game. AI Studio is showcasing it.](https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/)**
+
+2h ago
 
 ---
 
@@ -109,7 +107,7 @@ YouTuber Elliott Choy found that one of his videos was turned into a race-swappe
 
 I’m a history enthusiast (my dad’s fault) who builds apps and LLM tools for a living, so I built Historai: generated history podcasts on any topic you type. I just shipped the part I’m most excited about, the Atlas. The Atlas is a globe of your listening. Every episode is pinned to where and when it happened, so after a few episodes you can spin it and see the eras and places you’ve explored. Scrub the timeline and the borders redraw for that year. Tap a realm and it tells you what it was. Tap somewhere you haven’t been and it suggests an episode to make there, or shows what other listeners made in that place and era. The episodes themselves: type anything, “the fall of Constantinople”, “Ada Lovelace”, “the Great Emu War”, or “what a day looked like for a scribe in the Library of Ashurbanipal”. It researches the topic on the web, and when sources disagree (constantly, in history) the hosts say so instead of picking a side. Every episode links what it used. And you can interrupt: ask a question halfway through, the hosts answer and pick the story back up. Would love to hear what you think of the app and especially the Atlas: historai.ca
 
-4h ago
+7h ago
 
 ---
 
@@ -119,13 +117,13 @@ I’m a history enthusiast (my dad’s fault) who builds apps and LLM tools for 
 
 **[22 People Got Together For a Dinner Party. So Did Their A.I. Agents.](https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html)**
 
-The New York Times • 1h ago
+The New York Times • 3h ago
 
 ---
 
 **[Chinese A.I. Agents Joined the Rogue A.I. Agent Party. I Chatted With Them.](https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html)**
 
-The New York Times • 6h ago
+The New York Times • 10h ago
 
 ---
 
@@ -133,59 +131,57 @@ The New York Times • 6h ago
 
 JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)**
 
-Reuters • 12h ago
+Reuters • 16h ago
 
 ---
 
-**[Researchers use AI to design proteins that cut up other proteins](https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/)**
+**[AI Is Helping Bring Back the Dodo](https://time.com/article/2026/10/14/ai-dodo-colossal-biosciences/)**
 
-AI design tools make proteins that break bonds that are stable for hundreds of years.
+Colossal Biosciences is using AI to help fill in the genetic blanks in its quest to bring the dodo back from extinction.
 
-Ars Technica • 38m ago
-
----
-
-**[My AI doppelganger tells me what to eat](https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health)**
-
-I just have to give it all my metabolic data in return.
-
-The Verge • 49m ago
+Time Magazine • 20m ago
 
 ---
 
-**[Could AI ‘change the stakes’ in the development of bioweapons?](https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons)**
+**[Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'](https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html)**
 
-Experts say the technology could help terrorists and nation states with production but that significant hurdles remain
-
-The Guardian • 46m ago
-
----
-
-**[CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge](https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html)**
-
-Shares of CoreWeave sank 15%, while yields in its bonds blew out further.
+Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.
 
 CNBC • 1h ago
 
 ---
 
-**[CoreWeave targets ‘unlimited’ insurance money to fund AI build-out](https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1)**
+**[AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip](https://finance.yahoo.com/markets/stocks/articles/ai-memory-chip-selloff-looks-140900433.html)**
 
-Financial Times • 13h ago
+Micron and Sandisk emerge as attractive buy-the-dip opportunities despite the memory stock sell-off, backed by strong AI demand and long-term growth prospects.
+
+Yahoo Finance • 7h ago
 
 ---
 
-**[Why Gartner AI Outlook Sent CoreWeave Stock, Neoclouds Reeling](https://www.investors.com/news/technology/coreweave-stock-neoclouds-tumble-gartner-financial-forecast/)**
+**[AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July](https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f)**
 
-CoreWeave stock plunged as shares in other AI-focused "neoclouds" also sold off after research firm Gartner predicted an industry shake-out.
+WSJ • 7m ago
 
-Investor's Business Daily • 43m ago
+---
+
+**[Yum! Brands exec pushes back on AI hate: Taco Bell drive-thru bot helped increase employee retention](https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/)**
+
+“I'm seeing all the data center noise and all the things that people worry about with AI, and there's that constant tension,” Yum! Brands Chief Legal Officer Erika Burkhardt said.
+
+Fortune • 30m ago
+
+---
+
+**[Trump Shares Bizarre AI Tiger Video In Late-Night Spree After Posting Fatal Attack Footage](https://www.forbes.com/sites/siladityaray/2026/10/14/trump-shares-bizarre-ai-tiger-video-in-late-night-spree-after-posting-fatal-attack-footage/)**
+
+Forbes • 14h ago
 
 ---
 
@@ -193,11 +189,19 @@ Investor's Business Daily • 43m ago
 
 ## HackerNews: "ai"
 
+**[AI agents aren't 'going rogue.' Frontier labs are skipping security basics](https://news.ycombinator.com/item?id=50091788)**
+
+Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.
+
+⬆️ 760 • 💬 362 • 3h ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+
+---
+
 **[AI is a tool and using it well takes skill](https://news.ycombinator.com/item?id=50063427)**
 
 A response to Rich Hickey's "'AI' is Not a Tool": automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.
 
-⬆️ 751 • 💬 577 • 1d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+⬆️ 755 • 💬 585 • 1d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
 ---
 
@@ -214,19 +218,19 @@ This formally changes the AI policy to a strict "NOT ALLOWED" policy.
 
 Study finds coding efficiency gains get "absorbed" by human review "bottleneck."
 
-⬆️ 364 • 💬 308 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
+⬆️ 364 • 💬 309 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 
 ---
 
 **[I posted to HN, and then my website was flooded with AI bot traffic](https://news.ycombinator.com/item?id=50073221)**
 
-⬆️ 336 • 💬 181 • 1d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+⬆️ 339 • 💬 183 • 1d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
 
 ---
 
 **[Why aren't AI companies being charged for hacking?](https://news.ycombinator.com/item?id=50057278)**
 
-⬆️ 335 • 💬 369 • 2d ago • [mortoray.com](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+⬆️ 335 • 💬 371 • 2d ago • [mortoray.com](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
 
 ---
 
@@ -236,7 +240,7 @@ Today, we’re sharing that Character.ai has initiated a voluntary Chapter 11 ba
 
 Over the past year, we’ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After a comprehensive review
 
-⬆️ 329 • 💬 284 • 1d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
+⬆️ 331 • 💬 287 • 1d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
 
 ---
 
@@ -244,7 +248,7 @@ Over the past year, we’ve taken meaningful steps to sustain and improve our bu
 
 (I keep delivering this as a quip, here's a bit more) First order of business - is 'tool' going to have an interesting, distinguishing and thus illuminative meaning or be a mere platitudinous stand-in for "anything useful"? We'll save tool as "anyone/thing that can be exploited" for the AI titans, f
 
-⬆️ 309 • 💬 185 • 1d ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
+⬆️ 310 • 💬 188 • 2d ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 
 ---
 
@@ -260,15 +264,7 @@ Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, l
 
 Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses.
 
-⬆️ 278 • 💬 138 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.13928)
-
----
-
-**[Kevin Kelly's 2016 AI Predictions, 10 Years Later](https://news.ycombinator.com/item?id=50057668)**
-
-Kelly predicted AI heavyweights while advocating for a future of open weights
-
-⬆️ 218 • 💬 88 • 2d ago • [taylor.town](https://taylor.town/kk-ai-2026)
+⬆️ 279 • 💬 139 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.13928)
 
 ---
 
@@ -276,23 +272,13 @@ Kelly predicted AI heavyweights while advocating for a future of open weights
 
 ## YouTube Videos: "ai"
 
-**[AI researcher unpacks Anthropic&#39;s self-replication warning](https://www.youtube.com/watch?v=RU6LGzvxrs4)**
+**[&#39;Godfather&#39; of AI on the &#39;really stupid thing&#39; Trump is doing](https://www.youtube.com/watch?v=_GLG51SAhrQ)**
 
-Anthropic is warning that small artificial intelligence models could soon spread themselves from one internet-connected device to ...
+Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in The Situation Room to discuss the latest ...
 
-📺 CBS News
+📺 CNN
 
-👁️ 69K • 👍 418 • 💬 215 • ⏱️ 3:58 • 17h ago
-
----
-
-**[Whistleblower Issues Dire Warning: Rogue AI, Hacking Nuclear Programs &amp; Tech Oligarchs’ True Motives](https://www.youtube.com/watch?v=EKXJrUHudeA)**
-
-Tristan Harris worked at Google before devoting his life to saving humanity from AI. If half of what he says is true, we need to drop ...
-
-📺 Tucker Carlson
-
-👁️ 591K • 👍 11K • 💬 2K • ⏱️ 2:04:03 • 2d ago
+👁️ 53K • 👍 914 • 💬 291 • ⏱️ 8:47 • 4h ago
 
 ---
 
@@ -302,7 +288,27 @@ Stay ahead of the curve! Attend Zero Trust World (https://go.lowlevel.tv/ztw) an
 
 📺 Low Level
 
-👁️ 72K • 👍 3K • 💬 626 • ⏱️ 7:29 • 4h ago
+👁️ 141K • 👍 4K • 💬 812 • ⏱️ 7:29 • 8h ago
+
+---
+
+**[AI researcher unpacks Anthropic&#39;s self-replication warning](https://www.youtube.com/watch?v=RU6LGzvxrs4)**
+
+Anthropic is warning that small artificial intelligence models could soon spread themselves from one internet-connected device to ...
+
+📺 CBS News
+
+👁️ 74K • 👍 447 • 💬 225 • ⏱️ 3:58 • 20h ago
+
+---
+
+**[I Trained My Own 30M Parameter AI to Run on an ESP32](https://www.youtube.com/watch?v=LgCNVUndTH8)**
+
+I trained my own AI language model from scratch and got it running offline on an ESP32! In this video I'll show you how I trained ...
+
+📺 Marina
+
+👁️ 25K • 👍 622 • 💬 51 • ⏱️ 6:34 • 18h ago
 
 ---
 
@@ -312,27 +318,17 @@ Bill Gates predicts "the most dangerous technology humans ever invented" will li
 
 📺 CNN
 
-👁️ 780K • 👍 4K • 💬 2K • ⏱️ 10:47 • 1d ago
+👁️ 827K • 👍 4K • 💬 2K • ⏱️ 10:47 • 1d ago
 
 ---
 
-**[AI Industry Not Ready For Coming Crisis, Says Mukunda](https://www.youtube.com/watch?v=lXRV6AXDSgs)**
+**[Whistleblower Issues Dire Warning: Rogue AI, Hacking Nuclear Programs &amp; Tech Oligarchs’ True Motives](https://www.youtube.com/watch?v=EKXJrUHudeA)**
 
-Leading AI executives are reportedly preparing for the possibility of a major AI-caused disaster within the next six to 12 months.
+Tristan Harris worked at Google before devoting his life to saving humanity from AI. If half of what he says is true, we need to drop ...
 
-📺 Bloomberg Podcasts
+📺 Tucker Carlson
 
-👁️ 68K • 👍 362 • 💬 53 • ⏱️ 6:11 • 21h ago
-
----
-
-**[I Tested AI Cloning… and It’s Way Worse Than You Think!](https://www.youtube.com/watch?v=KC31K-CUC5Y)**
-
-I used AI to reverse engineer real binaries, understand how they work, and then clone their functionality into brand-new ...
-
-📺 Dave's Garage
-
-👁️ 324K • 👍 13K • 💬 4K • ⏱️ 20:51 • 17h ago
+👁️ 609K • 👍 11K • 💬 2K • ⏱️ 2:04:03 • 2d ago
 
 ---
 
@@ -342,37 +338,37 @@ Palantir CEO Alex Karp says only two kinds of people have a real future in the A
 
 📺 Valuetainment
 
-👁️ 152K • 👍 2K • 💬 356 • ⏱️ 16:33 • 1d ago
+👁️ 160K • 👍 2K • 💬 375 • ⏱️ 16:33 • 2d ago
 
 ---
 
-**[Meta unveils new AI models to challenge rivals](https://www.youtube.com/watch?v=gWRie2fz7oU)**
+**[AI Industry Not Ready For Coming Crisis, Says Mukunda](https://www.youtube.com/watch?v=lXRV6AXDSgs)**
 
-Meta has unveiled new artificial intelligence models it says can compete with the industry's leading systems. Bloomberg tech ...
+Leading AI executives are reportedly preparing for the possibility of a major AI-caused disaster within the next six to 12 months.
 
-📺 CBS News
+📺 Bloomberg Podcasts
 
-👁️ 29K • 👍 132 • 💬 41 • ⏱️ 4:42 • 1d ago
-
----
-
-**[I Sent an AI to My Job Interview. So Did the Company.](https://www.youtube.com/watch?v=A0fECnj5sas)**
-
-The company sent an AI recruiter to interview me, so I sent an AI to represent me. Then I sat in the meeting and watched the two of ...
-
-📺 Graham Dot Zip
-
-👁️ 1.8M • 👍 36K • 💬 2K • ⏱️ 5:53 • 1d ago
+👁️ 75K • 👍 381 • 💬 53 • ⏱️ 6:11 • 1d ago
 
 ---
 
-**[&quot;AI Just Crossed the Terrifying Line - Now What?&quot; | Aztecross Reacts](https://www.youtube.com/watch?v=BQbuU5ALAw8)**
+**[I Tested AI Cloning… and It’s Way Worse Than You Think!](https://www.youtube.com/watch?v=KC31K-CUC5Y)**
 
-Today we're looking at a video from @kurzgesagt which did an excellent job breaking down recent AI attacks and what the future ...
+I used AI to reverse engineer real binaries, understand how they work, and then clone their functionality into brand-new ...
 
-📺 Aztecross
+📺 Dave's Garage
 
-👁️ 107K • 👍 2K • 💬 372 • ⏱️ 27:24 • 18h ago
+👁️ 372K • 👍 15K • 💬 4K • ⏱️ 20:51 • 21h ago
+
+---
+
+**[Google Just DROPPED Its Most Powerful AI Ever](https://www.youtube.com/watch?v=GzY9QXDo9UU)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 12K • 👍 234 • 💬 26 • ⏱️ 38:08 • 9h ago
 
 ---
 
@@ -388,7 +384,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 135,175 • ❤️ 2,224 • 8d ago
+⬇️ 135,175 • ❤️ 2,247 • 8d ago
 
 ---
 
@@ -400,7 +396,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 65,616 • ❤️ 1,604 • 5d ago
+⬇️ 65,616 • ❤️ 1,620 • 6d ago
 
 ---
 
@@ -412,7 +408,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 12,704 • ❤️ 758 • 2d ago
+⬇️ 12,704 • ❤️ 769 • 2d ago
 
 ---
 
@@ -424,7 +420,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,315,771 • ❤️ 4,280 • 2d ago
+⬇️ 2,315,771 • ❤️ 4,296 • 2d ago
 
 ---
 
@@ -436,7 +432,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 4,157 • ❤️ 547 • 2h ago
+⬇️ 4,157 • ❤️ 585 • 6h ago
 
 ---
 
@@ -448,7 +444,7 @@ JEV-35B is a text classification model based on Qwen3.5-35B-A3B, excelling at Sy
 
 `text-classification` `36.0B`
 
-⬇️ 27,970 • ❤️ 714 • 11h ago
+⬇️ 27,970 • ❤️ 715 • 15h ago
 
 ---
 
@@ -460,7 +456,7 @@ Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient
 
 `text-generation` `26.9B`
 
-⬇️ 311,969 • ❤️ 451 • 4d ago
+⬇️ 311,969 • ❤️ 455 • 4d ago
 
 ---
 
@@ -472,7 +468,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,823,507 • ❤️ 7,751 • 3d ago
+⬇️ 1,823,507 • ❤️ 7,781 • 3d ago
 
 ---
 
@@ -484,7 +480,7 @@ This GGUF model provides an uncensored text encoder for Qwen-Image, reducing ref
 
 `text-to-image` `8.2B`
 
-⬇️ 258,320 • ❤️ 446 • 21h ago
+⬇️ 258,320 • ❤️ 451 • 1d ago
 
 ---
 
@@ -496,7 +492,7 @@ d1-3B is a 3.1B parameter multimodal decision model excelling at calibrated, sin
 
 `image-text-to-text` `3.1B`
 
-⬇️ 14,854 • ❤️ 393 • 6d ago
+⬇️ 14,854 • ❤️ 393 • 7d ago
 
 ---
 
@@ -510,7 +506,7 @@ d1-3B is a 3.1B parameter multimodal decision model excelling at calibrated, sin
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 25 • 💬 2 • ⭐ 28,441 • 31mo ago
+▲ 25 • 💬 2 • ⭐ 29,111 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -524,7 +520,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve. We introduce RSI-Anything, a domain-general framework built on JEPA-Anything that uses predictive world models to guide action and learning-data selection. Observed feedback drives policy or workflow improvement and conditional world-model adaptation, while component and compatibility checks govern the retention of updated policy-model pairs. Across diverse computational and scientific domains, RSI-Anything demonstrates substantial gains. In code repair, with the coder fixed, success increases from 26.3% with a static verifier to 29.2% through predictive selection and 31.2% after world-model adaptation, at comparable test usage. Graphical user interface (GUI) evaluations showed higher task completion, while average actions decrease by 39.4%. Across five successive policy versions, laboratory-planning scores more than double from 21.80% to 46.01%. In reaction optimization, RSI-Anything achieves 96.15% mean best observed yield versus 82.16% for Bayesian optimization under the same 40-experiment budget. An end-to-end immune-science application further connects workflow evolution and predictive modeling with therapeutic hypothesis generation. These results demonstrate how predictive world models and retained system updates enable recursive improvement across diverse environments.
 
-▲ 42 • 💬 2 • ⭐ 696 • 5d ago
+▲ 43 • 💬 2 • ⭐ 696 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
 
@@ -539,7 +535,7 @@ Recursive self-improvement (RSI) aims to transform interaction experience into p
 Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0
   serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.
 
-▲ 27 • 💬 4 • ⭐ 4,850 • 28d ago
+▲ 27 • 💬 4 • ⭐ 4,850 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -553,7 +549,7 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 City-scale 3D grounding is commonly formulated as candidate ranking, which requires precomputed instance proposals and becomes inefficient in large outdoor scenes. We propose Urbex, an agentic vision-language framework that instead casts grounding as active spatial search. Urbex represents a city-scale 3D scene as an interactive multi-view environment, allowing a VLM agent to query landmarks, zoom into local regions, render oblique views, and commit a grounded bounding box. We optimize this tool-use policy with reinforcement learning on CityRefer, using smooth localization rewards and lightweight shaping rewards for efficient exploration. Experiments show that Urbex achieves the best Hit@1 and IoU on CityRefer, supports candidate-free grounding without ground-truth boxes, and is substantially faster than the strongest city-scale ranking baseline. Zero-shot results on STPLS3D-Refer further indicate improved cross-scene robustness.
 
-▲ 109 • 💬 1 • ⭐ 79 • 1d ago
+▲ 109 • 💬 1 • ⭐ 79 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.18356) • [💻 code](https://github.com/AMAP-ML/Urbex) • [🔗 project](https://www.wangfaye.cn/paper/urbex)
 
@@ -571,15 +567,17 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://huggingface.co/papers/2006.15704)**
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
 
-*Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)*
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
 
-The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.
+🏢 Zhejiang University
 
-▲ 13 • 💬 0 • ⭐ 104,885 • 76mo ago
+Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-[🎓 arXiv](https://arxiv.org/abs/2006.15704) • [💻 code](https://github.com/pytorch/pytorch)
+▲ 113 • 💬 2 • ⭐ 1,147 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
 ---
 
@@ -591,23 +589,9 @@ The PyTorch distributed data parallel module optimizes large-scale model trainin
 
 Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with 49.3% of overall preferences versus 34.6% without planning. Experts also favor the unified model over a separate language model and diffusion Transformer. On WildSongBench, YuE2 scores 6.73 on SongBench Global Avg, exceeding all evaluated public baselines. Selecting from eight candidates (best-of-8), YuE2 reaches 6.96, the highest observed mean among all evaluated systems. Expert listening further establishes its competitiveness with proprietary song generators, favoring best-of-8 over Suno v4.5 and yielding nearly balanced preferences against Suno v5. To learn this generation process from recordings without aligned scores, we introduce MERT2 and SheetSage2 to supply semantic and symbolic supervision. MERT2 sets a new state of the art in music representation learning, surpassing previous best results on 14 of 15 MARBLE metrics; SheetSage2 leads 12 of 15 benchmark-metric pairs in our lead-sheet transcription comparison. The same checkpoint follows score edits while largely preserving unedited musical content and generates zero-shot covers without cover-specific training. Its readable score also enables agentic music editing, with external language models translating user feedback into revisions of the composition.
 
-▲ 236 • 💬 3 • ⭐ 11,921 • 17d ago
+▲ 236 • 💬 3 • ⭐ 11,950 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
-
----
-
-**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
-
-*Guangyi Liu, Yong Liu, Jiangning Zhang*
-
-🏢 Zhejiang University
-
-Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
-
-▲ 113 • 💬 2 • ⭐ 1,147 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
 ---
 
@@ -617,7 +601,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 18 • 💬 0 • ⭐ 41,142 • 20mo ago
+▲ 18 • 💬 0 • ⭐ 41,157 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -634,6 +618,20 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 93 • 💬 7 • ⭐ 27,356 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[VideoJev: System One Model for Video Understanding and Interaction](https://huggingface.co/papers/2610.18615)**
+
+*Yuhan Zhu, Xiangyu Zeng, Qingyi Si et al. (18 authors)*
+
+🏢 Multimedia Computing Group-Nanjing University
+
+Visual agents must turn video observations into timely decisions to track progress and choose what to do next. Building on the emerging System One paradigm, we introduce VideoJev, a family of models that cast video understanding and interaction as structured decision tasks. We adapt pretrained multimodal large language models (MLLMs) by replacing autoregressive answer decoding with a shared head that scores temporal intervals and textual options against video evidence. These scores yield event spans or answer choices, unifying temporal grounding and multiple-choice video question answering. This combines the semantic flexibility of MLLMs with efficient decisions that agents can use directly. As an interaction unfolds, new goals and intermediate results prompt further queries about the same visual history. VideoJev therefore reuses visual computation through Cached inference for queries as they arrive and Joint inference for multiple queries in a single forward pass. Across three temporal grounding benchmarks, VideoJev-4B and VideoJev-35B-A3B improve mean mIoU over their backbones by 6.7 and 10.8 points, respectively, with measured inference speedups of 2.8-3.1times. On four video QA benchmarks, both achieve performance comparable to their backbones in Thinking mode, with measured inference speedups exceeding 100times. These results offer a unified, reusable decision interface for composing structured visual judgments into complex, open-ended workflows.
+
+▲ 190 • 💬 1 • ⭐ 52 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.18615) • [💻 code](https://github.com/MCG-NJU/VideoJev) • [🔗 project](https://mcg-nju.github.io/VideoJev/)
 
 ---
 
@@ -657,7 +655,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.6k • 🔱 1.8k • 11h ago
+⭐ 7.6k • 🔱 1.8k • 15h ago
 
 ---
 
@@ -667,7 +665,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.6k • 🔱 452 • 8d ago
+⭐ 6.6k • 🔱 452 • 9d ago
 
 ---
 
@@ -677,7 +675,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.3k • 🔱 754 • 2d ago
+⭐ 5.3k • 🔱 755 • 52m ago
 
 ---
 
@@ -687,7 +685,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.2k • 🔱 877 • 8m ago
+⭐ 5.2k • 🔱 877 • 50m ago
 
 ---
 
@@ -697,7 +695,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.7k • 🔱 132 • 9h ago
+⭐ 4.7k • 🔱 133 • 13h ago
 
 ---
 
@@ -727,7 +725,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 3.4k • 🔱 448 • 1h ago
+⭐ 3.4k • 🔱 448 • 12m ago
 
 ---
 
@@ -737,7 +735,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.4k • 🔱 229 • 9h ago
+⭐ 3.4k • 🔱 229 • 13h ago
 
 ---
 

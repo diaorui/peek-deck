@@ -9,7 +9,7 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
-      "pub_date": 1791995848.0,
+      "pub_date": 1791999324.0,
       "article_url": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
       "image": null,
       "description": null
@@ -45,66 +45,66 @@
       "description": null
     },
     {
-      "headline": "Researchers use AI to design proteins that cut up other proteins",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVlhd0RBV3NhdWhVZGFFa2dpa3h4d1ZDX3lGYkVSMThYQzhidktweGdPVy1qdkF3NXhpYTQzZ1pzZjJmSlNKYnBydVJjM0hRR0RRcko4NTFlVmJXbm1RVVJ6aXVXWElGdHRyV3o0TXhPQndVWmROYlFIc19PY2tEYmJNZ1NKXzliNkNYYUYxSDFfV3p3SllOZWhzQ1BoYzVPSTczbjdZa3I?oc=5",
-      "pub_date": 1791997815.0,
-      "article_url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg",
-      "description": "AI design tools make proteins that break bonds that are stable for hundreds of years."
+      "headline": "AI Is Helping Bring Back the Dodo",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GN1Y3d0FKT09sQlhDbTFYWW1tUER5MnFLOXBVMVFLYS1BQUJLT2hfVmgzaV9UZUlDTVR6WWNKMXBCUGFCa3lCbDB5X09lNXhyUlNZcWNRQ2NLd3hPZ21IdElJRUdIOWJYYXM5TzMyV0EtYm8?oc=5",
+      "pub_date": 1792011604.0,
+      "article_url": "https://time.com/article/2026/10/14/ai-dodo-colossal-biosciences/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbfc7bb561de1c5dd/6acf7cb166e690645df447ce/Dodo_Colossal_Render.png?branch=production&width=1672&quality=75&auto=webp&crop=16:9",
+      "description": "Colossal Biosciences is using AI to help fill in the genetic blanks in its quest to bring the dodo back from extinction."
     },
     {
-      "headline": "My AI doppelganger tells me what to eat",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQU10U21BU0FrWWRfYTVGQmdNRUg0QVV1MEJxdHZ0ZUxRcW5LSjFYNTd0cUxPdmZWaHVjMGlNR3Uya1JlREx2RzM0NTBRSWExOGQ0M0ZKTzgxUTFDVmN6eldZTGFQeUo0ZG5BbjlZMFlmdElSeHZiU0VNNm5kYVN0RnR4RUI?oc=5",
-      "pub_date": 1791997200.0,
-      "article_url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268801_DigitalTwin_made_me_a_doppelganger_to_test_my_health_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "I just have to give it all my metabolic data in return."
-    },
-    {
-      "headline": "Could AI \u2018change the stakes\u2019 in the development of bioweapons?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0VhY1BVYWFnaWhJY09nRHN1RWEydFNsTGlwTWwtcDVtdWtyaDBpZ09kaVRZanBYRFV0ZVU1V2ltUVp5dldURU1sbDVtdU5NcEpjbHhFclVkalZaeGc0Y0l0UzFaTDNsM3dJdVVHRVQwQzJ6TTF4amxtVEZmOFY3RGF2T3FnN2syUWVxelRxZTBGV3BCNU0xWDVvcWMzbGQ0Qllud1FMdGxtYlVwYjBR?oc=5",
-      "pub_date": 1791997380.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
-      "image": "https://i.guim.co.uk/img/media/dee8ec9d41a7f5522c622af9e1e3f43d78c6d567/128_0_3591_2872/master/3591.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=996a9e26897be2aa642e487e790d806f",
-      "description": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remain"
-    },
-    {
-      "headline": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "headline": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44TUtWMDVLMlhGOWlMNGsxeWNBQ0R4QVdhS1Z4cmtReVN1dEJTOV9zQ1MycHZJVGo3WGpOdE42YlRzdm9kRHczVWplV1NYZXRfU1RodmIxRTZOVlhLbTJBZ1hRclQ4VHdpMnFjcEVWOGFpN3lvREE0Y09KWWM?oc=5",
-      "pub_date": 1791995091.0,
-      "article_url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpeg?v=1791993243&w=1920&h=1080",
-      "description": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further."
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MU3k5MHljanJnWGZ4dWlBa2JEc3RVWVRZWlVWOFUwS20wQUI1WS13M3U0OE5LN2lVYzhlLUxOMFNvMWhrc1hKNmVUSHlyMkRjTU5ESmM5Mnp1SWxHbTI4b3haS0FVWmY0ajlzWUx4VVZvVDFJb0hBZnV30gF_QVVfeXFMUDdHd3I2ekpybVo4MXdMOUlTSEVhZHhQYmNSTFhGcG5uOV93N190NXhieWlqYWduZmJGUzJ5bHF5TkNsREVycUo4M1BKVUY3ejAtaVpyeXo3QnJXSWY5TEVjRWRGUE14RGhZY3hzNDBic3pJSGlRZlNicFJrQk1wMA?oc=5",
+      "pub_date": 1792008398.0,
+      "article_url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108403848-1791906460600-Dell1.jpg?v=1791906540&w=1920&h=1080",
+      "description": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging."
     },
     {
-      "headline": "CoreWeave targets \u2018unlimited\u2019 insurance money to fund AI build-out",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFndnlSQ240UU1vSGc2d1NlbDVJSEcwcmR1b0hGUUVIVjZlWnNCUVNWRGhUNUplcERJdkVDZWZxa09ONDBFVWRPak5uTEp4VU8yTWtLWHo2MnRSZTkwN2lqRnZKRmVDZkk5N2lPNXp0WElJeVJLZ0xkMENrRnhTNU8wZWI?oc=5",
-      "pub_date": 1791950404.0,
-      "article_url": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+      "headline": "AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2VVMDV1OTM5QUExZ082S1VQM3VLcG1tV0tpaFhzQXFOSXRnc3dyTzd3dTZJSldOdHBtSWVmc3VrazVzV2o4dkpBbF9aNzlGZXE3OTk2SndySjNMR2JHS014NFBYbzRfUUI4c0VNYldMcElxcXl2ZXc0MFluVEdYVlhFdXhFeFQ2eGdqZFNCLWZsSmtZTFNhXw?oc=5",
+      "pub_date": 1791986940.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-chip-selloff-looks-140900433.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9609876c149d1173df8a7804b52f2e8b5fae8a25435eecd5a011142c952241e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F3cc333d9f954660224cd21997bece0c7.jpg",
+      "description": "Micron and Sandisk emerge as attractive buy-the-dip opportunities despite the memory stock sell-off, backed by strong AI demand and long-term growth prospects."
+    },
+    {
+      "headline": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMS00bEJpQnlrdXVFckxXaFhKeHJSOU9KcmMxLUlpVzFLdGVjOFYtZWI1WklfZDhlTUJBREVlZmdlNU96UG1wdkt1WTVFRUo3cDlXSFBQWVVpbmplc2ktS3pLRF9lelliT0J2alZ3enNxSmxXU3E0clpUU0I0MjZGNHJpeUMtRnZrVUFOX2c5UEVVdzY2WjZ5cWJzaEthU2pqMHRQMHk5OWVBeHJsLXpUZ2doWXpyYkFVcHc?oc=5",
+      "pub_date": 1792012380.0,
+      "article_url": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why Gartner AI Outlook Sent CoreWeave Stock, Neoclouds Reeling",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTC1ab2xlYXFobUs1SVl4R2ZzSHZxN0xRMjR4R1A1ZjJJSUFuT3hDdUFCX1BaSTM2SFJpNDJzNUxRcWpfNHowOUlzNW5UWEZ0Vk1qUk5Xb0ktQk5oVUZySXdLR2taUWJlRGZpTW9pd3dtUkNlV3h3ckRwejNLZ0VtSjFEVVNYdWtrVi1zZmlTMnpDZ0pRblhZUXllc2pfWmlTWThHcw?oc=5",
-      "pub_date": 1791997560.0,
-      "article_url": "https://www.investors.com/news/technology/coreweave-stock-neoclouds-tumble-gartner-financial-forecast/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/05/Stock-CoreWeave-computer-01-shutt.jpg",
-      "description": "CoreWeave stock plunged as shares in other AI-focused \"neoclouds\" also sold off after research firm Gartner predicted an industry shake-out."
+      "headline": "Yum! Brands exec pushes back on AI hate: Taco Bell drive-thru bot helped increase employee retention",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnd2RUZreHNMZV9aeUZVQzIxa1FwNkg4NFV1enA2TFFyYy1xRkRfd0ZxOVBCTF9lc2xWcWI5bVpuaEpQMVBSc0x3UWRSbVZMRm9wTEpORkg1OVhmR0VFVXZuSHdMUTg2UnpBYWJLMlhza3RqcExwVDk0QllrNl85M2dVaHVQM1dWQWRPeWNPbXFIY2J2?oc=5",
+      "pub_date": 1792011000.0,
+      "article_url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55586827292_fe040ec6c0_o-e1792003101837.jpg?resize=1200,600",
+      "description": "\u201cI'm seeing all the data center noise and all the things that people worry about with AI, and there's that constant tension,\u201d Yum! Brands Chief Legal Officer Erika Burkhardt said."
+    },
+    {
+      "headline": "Trump Shares Bizarre AI Tiger Video In Late-Night Spree After Posting Fatal Attack Footage",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHlwNkQ3NkNzX3RRa21uTVRBNUpEQTNKOWZVM2ZjQ1Y0bExrVUo2c3FESHFubUxWZTR2bW1sVGstOGxPODJ5NjJoRkItazZNdkxvWDZZNDEzRkF2TlpCd2Nobll0U1MzVmxFZnVobnhYZV9Rcy1IS3llQVVBYzB3dFFubHdVQ3o4OHlNczVfQ0FIcm1IMndHYlN3X0RFaDMxanhuNDZIaDVMM0tVdUNVaGV5OEFzLUdld1hDeEpwZ3hELTFJR1FtcVZUeEw5SmJ6bE9hbkJBY1lrRnY1?oc=5",
+      "pub_date": 1791959062.0,
+      "article_url": "https://www.forbes.com/sites/siladityaray/2026/10/14/trump-shares-bizarre-ai-tiger-video-in-late-night-spree-after-posting-fatal-attack-footage/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-14T17:49:03.445766+00:00"
+  "fetched_at": "2026-10-14T21:20:28.514023+00:00"
 }

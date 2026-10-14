@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-14T17:49:05.158216+00:00'
+updated: '2026-10-14T21:20:31.436861+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 14, 2026 at 17:49 UTC  
+**Last Updated:** October 14, 2026 at 21:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,23 +130,21 @@ Ars Technica • 2d ago
 
 ---
 
-**[SemiFive takes custom silicon into robots](https://www.jonpeddie.com/news/semifive-takes-custom-silicon-into-robots/)**
+**[‘Infinite Demand For Robots:’ Inside Matter Venture Partners’ $450 Million Bet On Physical AI](https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/)**
 
-Mobilint robotics chip joins growing production pipeline.
-
-Jon Peddie Research • 1h ago
+Forbes • 1h ago
 
 ---
 
 **[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
 
-Reuters • 3h ago
+Reuters • 6h ago
 
 ---
 
 **[China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market](https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -156,27 +154,25 @@ WSJ • 1d ago
 
 ---
 
-**[Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/)**
-
-Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
-
-TechCrunch • 23h ago
-
----
-
 **[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
 
 In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[A robotics business is set to be bought with shares priced about 50% above the buyer's Oct. 12 close.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ibhf2i6pbt5r.html)**
+**[Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/)**
 
-The deal also includes up to $10 million in equity financing; both transactions remain subject to closing conditions, with closings expected by October's end.
+Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
 
-Stock Titan • 6h ago
+TechCrunch • 1d ago
+
+---
+
+**[Scoop: Bedrock Robotics raising $600M to automate construction](https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m)**
+
+Axios • 23h ago
 
 ---
 
@@ -198,7 +194,7 @@ Walmart has 140000+ warehouse workers and a decade-long, multibillion-dollar pus
 
 📺 Far Point Global
 
-👁️ 348 • 👍 29 • 💬 1 • ⏱️ 2:34 • 3h ago
+👁️ 695 • 👍 41 • 💬 3 • ⏱️ 2:34 • 6h ago
 
 ---
 
@@ -208,7 +204,7 @@ Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very differen
 
 📺 ejunky66
 
-👁️ 967K • 👍 10K • 💬 451 • ⏱️ 1:00 • 6d ago
+👁️ 1.0M • 👍 11K • 💬 459 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -218,7 +214,27 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 177K • 👍 1K • 💬 166 • ⏱️ 9:18 • 3d ago
+👁️ 182K • 👍 2K • 💬 173 • ⏱️ 9:18 • 3d ago
+
+---
+
+**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
+
+In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
+
+📺 Google DeepMind
+
+👁️ 230K • 👍 3K • 💬 319 • ⏱️ 1:44 • 1d ago
+
+---
+
+**[Top Jobs to AVOID Being Replaced by AI &amp; Robotics](https://www.youtube.com/watch?v=y7SpeEVkXF0)**
+
+AI and robotics are reshaping the job market, but not every career is equally exposed. This video looks at which roles are more ...
+
+📺 Math and Science
+
+👁️ 14K • 👍 307 • 💬 82 • ⏱️ 23:47 • 1d ago
 
 ---
 
@@ -232,53 +248,13 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 ---
 
-**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
-
-In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
-
-📺 Google DeepMind
-
-👁️ 211K • 👍 3K • 💬 305 • ⏱️ 1:44 • 1d ago
-
----
-
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
-
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
-
-📺 MACHINEKIND
-
-👁️ 55K • 👍 879 • 💬 85 • ⏱️ 13:43 • 6d ago
-
----
-
 **[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
 
 Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
 
 📺 BBC News
 
-👁️ 123K • 👍 696 • 💬 44 • ⏱️ 5:36 • 3d ago
-
----
-
-**[This LEVEL UP robot does EVERYTHING! - VEX IQ Robot by Ben Lipper](https://www.youtube.com/watch?v=8H8-v587A4M)**
-
-For more details, click this link: https://www.roboticsmastery.com/2026-snowfire?utm_source=snowfire1 This is a fantastic robot ...
-
-📺 Ben Lipper
-
-👁️ 5K • 👍 43 • 💬 5 • ⏱️ 1:12 • 6d ago
-
----
-
-**[Two Humanoid Robots Just Had A Real Fight 🥊](https://www.youtube.com/watch?v=T6SpCvcjpNc)**
-
-Original video credit: IG/@mw10.01. Two humanoid robots fight inside the fenced URKL ring, throwing punches, kicks, and even ...
-
-📺 History Seeker
-
-👁️ 37K • 👍 453 • 💬 19 • ⏱️ 0:08 • 4d ago
+👁️ 124K • 👍 697 • 💬 44 • ⏱️ 5:36 • 3d ago
 
 ---
 
@@ -288,7 +264,27 @@ Watch this video as Firstpost explains a disturbing incident in Cologne, Germany
 
 📺 Firstpost
 
-👁️ 23K • 👍 69 • 💬 48 • ⏱️ 5:04 • 1d ago
+👁️ 27K • 👍 77 • 💬 51 • ⏱️ 5:04 • 1d ago
+
+---
+
+**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+
+China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+
+📺 MACHINEKIND
+
+👁️ 55K • 👍 881 • 💬 86 • ⏱️ 13:43 • 6d ago
+
+---
+
+**[These AI Robots Are Getting OUT OF CONTROL… Here’s What’s Actually Real](https://www.youtube.com/watch?v=NjcCxL9zcQQ)**
+
+AI robots are advancing faster than ever, but how much of what we see online is actually real? From humanoid robot fights to ...
+
+📺 The AI Nexus
+
+👁️ 10K • 👍 70 • 💬 15 • ⏱️ 1:21:36 • 2d ago
 
 ---
 
