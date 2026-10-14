@@ -10,7 +10,40 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "They also migrated off Git and used Claude to build their own version control system, Scion. \u201cAt Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven\u2019t seen before.\u201d Source: https://www.anthropic.com/engineering/redesigning-source-control I'm curious what people make of this. If coding is no longer the bottleneck, where does the engineering work shift?"
+      "description": "They also migrated off Git and used Claude to build their own version control system, Scion. \u201cAt Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven\u2019t seen before.\u201d Source: https://www.anthropic.com/engineering/redesigning-source-control I'm curious what people make of this. If coding is no longer the bottleneck, where does the engineering work shift? Anthropic Interview Questions"
+    },
+    {
+      "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/",
+      "published": 1791964536.0,
+      "thumbnail": "https://external-preview.redd.it/OTMQkhk5N7bgsu-vqWXgLdVhjUk5M49iL1d_WyUw5VM.jpeg?width=640&crop=smart&auto=webp&s=7d8d9b7c0f8d570fb5d8c33d4bc5a99397e120e2",
+      "external_url": "https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964",
+      "site_name": "gizmodo.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
+      "author": "jtbuadd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
+      "published": 1791946298.0,
+      "thumbnail": "https://preview.redd.it/zu6obxqckcvh1.jpeg?width=640&crop=smart&auto=webp&s=c882cb03b915de1b6b3ce6038a25c64873eede4a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to \u2018Boost Their Own Popularity\u2019",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/",
+      "published": 1791965493.0,
+      "thumbnail": "https://external-preview.redd.it/_FzS_oOqvjZ_IzzBGmOEusLQBM0nn4Rbdw1tSbm12LA.jpeg?width=640&crop=smart&auto=webp&s=3076d5c6fc6faa3deaff3db487ae7f85a3a6a932",
+      "external_url": "https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html",
+      "site_name": "Yahoo News",
+      "favicon": "https://www.yahoo.com/favicon.ico?b0867f93a36b360e",
+      "description": "Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol..."
     },
     {
       "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
@@ -24,15 +57,26 @@
       "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
     },
     {
-      "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
-      "author": "jtbuadd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
-      "published": 1791946298.0,
-      "thumbnail": "https://preview.redd.it/zu6obxqckcvh1.jpeg?width=640&crop=smart&auto=webp&s=c882cb03b915de1b6b3ce6038a25c64873eede4a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "title": "Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process",
+      "author": "Mathemodel",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/",
+      "published": 1791959641.0,
+      "thumbnail": "https://external-preview.redd.it/ngk80jIGxm3qOCNgJYWLw5E5fx8KVpKmMyVBUZ_t8S4.jpeg?width=640&crop=smart&auto=webp&s=771b084a2583d83fc3722a71fde573f05ec4674c",
+      "external_url": "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad",
+      "site_name": "Futurism",
+      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
+      "description": "YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi."
+    },
+    {
+      "title": "The Age of Reason Is Safely Behind Us",
+      "author": "fivefilters",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/",
+      "published": 1791960857.0,
+      "thumbnail": "https://external-preview.redd.it/_EZFhpFlwlvEJoKHq0C8N2LqBOfbA9lIJ4picba6J5A.jpeg?width=640&crop=smart&auto=webp&s=86f95463ff468d2e51be3293fc6fab9d54f9d0e4",
+      "external_url": "https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind",
+      "site_name": "blog.keyvan.net",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
+      "description": "What Anthropic is doing, and publicly boasting about, to \u201cprotect\u201d the reasoning behind the AI answers we get when we use their models, really doesn\u2019t sit right with me."
     },
     {
       "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
@@ -57,60 +101,16 @@
       "description": "The tool, which is called Raven, is being used by the Los Angeles Police Department and Miami-Dade Sheriff's Office (MDSO), reports 404 Media. Made by a company..."
     },
     {
-      "title": "Netflix spent big on Ben Affleck\u2019s AI company. After Animals, they might wonder why",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/",
-      "published": 1791897364.0,
-      "thumbnail": "https://external-preview.redd.it/UweGC8f8EZmzeKjW6mr0UdzH-UOYjNMIMbKynAhtFIg.jpeg?width=640&crop=smart&auto=webp&s=166ef5d9daea6ca7609ff75d2e18e31d3a077ddd",
-      "external_url": "https://www.the-independent.com/arts-entertainment/films/features/ben-affleck-ai-netflix-animals-b3065533.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.the-independent.com/img/shortcut-icons/icon-192x192.png",
-      "description": "Ben Affleck won\u2019t say exactly how he used AI on his critically-panned new Netflix thriller. But thanks to sloppy editing and one unintentionally hilarious scene, he may have accidentally undermined his own technology, writes Kevin E G Perry"
-    },
-    {
-      "title": "If an AI helps discover a drug, who gets credit?",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5futt/if_an_ai_helps_discover_a_drug_who_gets_credit/",
-      "published": 1791945208.0,
+      "title": "AI tools keeping up with the hype cycle, or already moving on?",
+      "author": "FrancescoMassa2001",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5paha/ai_tools_keeping_up_with_the_hype_cycle_or/",
+      "published": 1791979098.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "AI may soon contribute to research in ways that are difficult to describe with traditional authorship. A model might suggest a molecule, identify a pattern in clinical data, or connect findings from papers that no individual researcher had time to read together. The human team still designs the experiment and checks the result, but the discovery process becomes shared with a system that cannot own credit. Should recognition go to the people who built the model, the researchers who used it, the organization that supplied the data, or all of them?"
-    },
-    {
-      "title": "\"Our humble goal is to survive the AI revolution\" says Epic Games CEO Tim Sweeney, as its Star Wars and Marvel crossover pivots to \"AI first\" development | Art will be \"generated with full AI workflows\".",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/",
-      "published": 1791875456.0,
-      "thumbnail": "https://external-preview.redd.it/lYLES-tqHgEnm7FpCVU7Krq0Stu_9TX4B1imIOCNvRg.png?width=640&crop=smart&auto=webp&s=b20f5310501fddf551f754fe70a83ece3cd5ba04",
-      "external_url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
-      "site_name": "PC Gamer",
-      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/nsto4filky1762166946.png",
-      "description": "Art will be \"generated with full AI workflows\"."
-    },
-    {
-      "title": "Koboldcpp v1.123 released",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5ilq0/koboldcpp_v1123_released/",
-      "published": 1791954223.0,
-      "thumbnail": "https://external-preview.redd.it/EiOtpaxuiQgyUnwdIsfPQbPXJDsguzWt6rmhJuPHLjU.png?width=640&crop=smart&auto=webp&s=7ac752056c6259f75d4eb5776dfd06118cb46f00",
-      "external_url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "koboldcpp-1.123\n\n\nNEW: Introducing koboldcpp.net, our new community website! - KoboldCpp now has an official community website!\n\nThis is a legitimate community site put together with the help of @A..."
-    },
-    {
-      "title": "Mesa expands NPU capabilities with support for YOLOX with PyTorch",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5iha5/mesa_expands_npu_capabilities_with_support_for/",
-      "published": 1791953810.0,
-      "thumbnail": "https://external-preview.redd.it/djiztqWcCQYglP6OhYQH8lkuOaCWLszoV-HWAI-tLMQ.jpeg?width=320&crop=smart&auto=webp&s=639b315de14af0768a58db6e70d20995005514cb",
-      "external_url": "https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch",
-      "site_name": "phoronix.com",
-      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
-      "description": "While Mesa is predominantly used for GPU drivers, open-source developer Tomeu Vizoso continues advancing the capabilities of NPUs within the Mesa driver stack."
+      "description": "tried a new agent framework last week because the launch post made it sound like it would handle the boring parts of my SaaS admin. it worked for the first couple features then quietly stopped respecting the limits I set. had to go back and add the same guardrails I already had in the old version. the real issue is how fast these things get replaced. by the time I figure out whether one actually saves time, there's already a newer version and the docs for the first one are already stale. at this point I'm just picking whatever has the least friction for the next two weeks. curious if anyone else is treating this as disposable tooling or if that's just how it works now."
     }
   ],
-  "fetched_at": "2026-10-14T06:31:08.553743+00:00"
+  "fetched_at": "2026-10-14T12:40:43.978455+00:00"
 }
