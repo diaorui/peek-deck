@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-13T22:22:10.338442+00:00'
+updated: '2026-10-14T01:20:02.897774+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 13, 2026 at 22:22 UTC  
+**Last Updated:** October 14, 2026 at 01:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +0.2%  
-**30d:** +6.8%  
-**90d:** +30.7%  
-**1y:** -26.2%  
+**24h:** +0.4%  
+**7d:** +1.9%  
+**30d:** +10.1%  
+**90d:** +30.2%  
+**1y:** -25.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1674.96B
+**Market Cap:** $1672.55B
 Rank #1
 
-**Circulating Supply:** 20,097,768 BTC
+**Circulating Supply:** 20,097,862 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.9%
+-34.0%
 
 **All-Time Low:** $67.81
-+122799.3%
++122641.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 57
+### 62
 **GREED**
 
 ---
@@ -115,7 +115,7 @@ Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
 **[situation today 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1x3mjtt/situation_today/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -155,33 +155,35 @@ The company confirmed physical tampering in at least one affected device. In add
 
 **[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
 
-Financial Times • 11h ago
+Financial Times • 21h ago
 
 ---
 
 **[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
 
-WSJ • 1d ago
+WSJ • 2h ago
+
+---
+
+**[Bitcoin (BTC) treasury news: Strive (ASST) aims to raise $500 million with SATS preferred offering](https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury)**
+
+SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).
+
+CoinDesk • 1h ago
+
+---
+
+**[Michael Saylor drops bold Bitcoin call ahead of major index review](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-drops-bold-bitcoin-234751739.html)**
+
+Saylor is calling a new Bitcoin bull market days before MSCI decides on Strategy’s place in major indexes.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[Tom Lee Says Ethereum’s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-years-145416200.html)**
-
-Tom Lee is calling the end of Ethereum's long slide against Bitcoin, pointing to tokenized stocks and AI agents as the catalysts. But the data from the very week he made that call tells a very different story.
-
-Yahoo Finance • 7h ago
-
----
-
-**[NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
-
-KFOR • 19h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -193,11 +195,17 @@ Fortune • 10h ago
 
 ---
 
-**[Bitcoin whale that sat through the March 2020 crash moves $378 million](https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million)**
+**[FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
 
-A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.
+KFOR • 22h ago
 
-CoinDesk • 16h ago
+---
+
+**[The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?](https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking)**
+
+A CryptoQuant researcher has said that bitcoin’s supply dynamics could soon help its price.
+
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -205,7 +213,7 @@ CoinDesk • 16h ago
 
 The latest purchase marks Strive's largest increase in bitcoin holdings since it acquired approximately 5,048 BTC through its all-stock merger with Semler Scientific.
 
-The Block • 8h ago
+The Block • 11h ago
 
 ---
 
@@ -217,14 +225,6 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years](https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool)**
-
-Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.
-
-Decrypt • 2h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -233,7 +233,7 @@ Decrypt • 2h ago
 
 Contribute to Artur7897/bitcoin-composition-engine development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
+⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
 
 ---
 
@@ -242,14 +242,6 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 Spaces lets you own a name on Bitcoin itself, like rob@bitsaga, and let anyone pay it. How it works, how it compares with BIP 353 and silent payments, and the proof.
 
 ⬆️ 2 • 💬 0 • 6d ago • [Bitsaga](https://bitsaga.be/insights/bitcoin-spaces)
-
----
-
-**[Bitcoin Rebound Revives Debate over a New Crypto Cycle](https://news.ycombinator.com/item?id=49984995)**
-
-Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
-
-⬆️ 2 • 💬 0 • 6d ago • [Discord](https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462)
 
 ---
 
@@ -269,15 +261,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 **[Ask HN: What Happened in DNSSEC Yesterday?](https://news.ycombinator.com/item?id=50055306)**
 
-⬆️ 2 • 💬 3 • 1d ago
-
----
-
-**[Timekeepers to vote on ditching the leap second](https://news.ycombinator.com/item?id=50050603)**
-
-Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.
-
-⬆️ 15 • 💬 0 • 1d ago • [abc.net.au](https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528)
+⬆️ 2 • 💬 4 • 1d ago
 
 ---
 
@@ -291,7 +275,7 @@ In an exclusive interview from DC Fintech Week, Strategy founder and Executive C
 
 📺 Bloomberg Tech
 
-👁️ 5K • 👍 77 • 💬 38 • ⏱️ 1:14 • 4h ago
+👁️ 11K • 👍 94 • 💬 17 • ⏱️ 1:14 • 7h ago
 
 ---
 
@@ -301,17 +285,27 @@ Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and
 
 📺 Bloomberg Television
 
-👁️ 5K • 👍 141 • 💬 67 • ⏱️ 19:31 • 2h ago
+👁️ 19K • 👍 307 • 💬 69 • ⏱️ 19:31 • 5h ago
 
 ---
 
-**[Bitcoin Breakout or Breakdown? Asia Sent a Warning](https://www.youtube.com/watch?v=8ejKtbbSS6Y)**
+**[3rd Largest Bank In America Going ALL In On Bitcoin?! | EP 1612](https://www.youtube.com/watch?v=g0M0Xa29dPQ)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Third largest bank in America is about to launch bitcoin buying and selling?
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 22K • 👍 643 • 💬 111 • ⏱️ 47:41 • 7h ago
+👁️ 8K • 👍 217 • 💬 17 • ⏱️ 1:00:11 • 6h ago
+
+---
+
+**[$1.3 TRILLION In Checks. Bitcoin Loves It.](https://www.youtube.com/watch?v=XcBdBaHr3-c)**
+
+Trump is promising every adult American a $5000 check — roughly $1.3 TRILLION — if Republicans hold Congress. Every time ...
+
+📺 Digital Asset News
+
+👁️ 5K • 👍 298 • 💬 26 • ⏱️ 31:27 • 2h ago
 
 ---
 
@@ -321,27 +315,27 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Ka
 
 📺 Tyler S
 
-👁️ 7K • 👍 498 • 💬 139 • ⏱️ 10:13 • 5h ago
+👁️ 11K • 👍 581 • 💬 155 • ⏱️ 10:13 • 8h ago
 
 ---
 
-**[Bitcoin Flushes $800M In Leverage And Bounces Back Above $83K](https://www.youtube.com/watch?v=h0MgbUxigQA)**
+**[Bitcoin Breakout or Breakdown? Asia Sent a Warning](https://www.youtube.com/watch?v=8ejKtbbSS6Y)**
 
-Bitcoin #Crypto #finance Bitcoin rebounds above $83K despite a sharp selloff in tech stocks and over $800M in crypto liquidations ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 The Wolf Of All Streets
+📺 CryptosRUs
 
-👁️ 13K • 👍 424 • 💬 21 • ⏱️ 1:05:55 • 8h ago
+👁️ 24K • 👍 684 • 💬 129 • ⏱️ 47:41 • 10h ago
 
 ---
 
-**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
+**[China Insider Calls For Bitcoin Supercycle! Is He Right?](https://www.youtube.com/watch?v=e4PoH--STWQ)**
 
-Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
+A former UBS banking executive believes China could reopen access to crypto trading, potentially triggering a massive Bitcoin ...
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 2K • 💬 158 • ⏱️ 17:10 • 1d ago
+👁️ 9K • 👍 721 • 💬 30 • ⏱️ 12:02 • 4h ago
 
 ---
 
@@ -351,37 +345,27 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 2K • 💬 171 • ⏱️ 10:13 • 20h ago
+👁️ 95K • 👍 2K • 💬 173 • ⏱️ 10:13 • 23h ago
 
 ---
 
-**[Britain seized 61,000 Bitcoin. The victims may never see it.](https://www.youtube.com/watch?v=82FDS94Rp8w)**
+**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
 
-Roughly $800 million in leveraged crypto positions got liquidated overnight, 86% of them longs. Bitcoin fell to just under $81000 ...
+Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 10K • 👍 287 • 💬 266 • ⏱️ 14:51 • 5h ago
+👁️ 47K • 👍 2K • 💬 160 • ⏱️ 17:10 • 1d ago
 
 ---
 
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=-eKtrrN5P48)**
+**[In The Short Term I Think Bitcoin Dominance Is Likely To](https://www.youtube.com/watch?v=YCp21bPiDDw)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 126K • 👍 3K • 💬 151 • ⏱️ 11:43 • 1d ago
-
----
-
-**[BITCOIN&#39;S NEXT BULL RUN STARTS NOW !!!](https://www.youtube.com/watch?v=ulC5yz_D2vs)**
-
-Subscribe to *Crypto Elix:* https://www.youtube.com/@CryptoElix BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 ...
-
-📺 The Moon Show
-
-👁️ 18K • 👍 917 • 💬 30 • ⏱️ 9:31 • 11h ago
+👁️ 2K • 👍 47 • ⏱️ 1:00 • 3h ago
 
 ---
 

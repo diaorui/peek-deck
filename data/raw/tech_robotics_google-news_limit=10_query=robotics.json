@@ -15,24 +15,14 @@
       "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     },
     {
-      "headline": "Chinese Robots Could Decide the AI Race",
-      "source": "Foreign Affairs",
-      "source_url": "https://www.foreignaffairs.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNV1FfN042UFBMWHdVT0R1UVd6RlBKOWtNQUU5X2tUV2lrcG9obmRJNkpiSE5MZjRURW1qcWFoUjJidmNmenljUWNSbGZYTUtZZ0U0RmVWTVd0b2JZeUdhcmNuYXBxZlZOb0l1XzA5bjRKeHVMZ0VlOTBNdDQ?oc=5",
-      "pub_date": 1791792000.0,
-      "article_url": "https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race",
-      "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/10/08/2026-08-25T023557Z_1987453943_RC2X4NAYDXSL_RTRMADP_3_CHINA-TECH-ROBOT-GAMES.JPG?itok=_Xw3pflw",
-      "description": "Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie\u2019s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind."
-    },
-    {
-      "headline": "Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHA4cTF3bUEtVGEyVzVqNDNQOVVkSkpoRUxIVjhiRlZEdW5vSjNEeGc2Z3VrOHZiLWczLXYwUXNlcFFwTlM5d2w1aFR2MlRvRExDM3FvQ3hFa080dGV5MWdzTnpHQ3ZtVTJ0TU1WQUxOTjRUam9BejFCNmEzVUszVlJsVnpKR1dvOTVJSFNjR1V1Nll6aXphelZndFY4VWpZeTY5SU9qNnNqa0ZWcjg1YWxfNXcyYzhicnNV?oc=5",
-      "pub_date": 1791927422.0,
-      "article_url": "https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/05692c276f3943f43c6a78f1b19566c71d1f1d37cb7adf6de084e011bfb0dca0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F4df6e6a4-9c7e-4c10-b867-fb61b493e709",
-      "description": "In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president."
+      "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjBBcElyLWRYdHJubmVBTEdxSXFiWGY4M2Iwc0NmSFRUcGVmWFptWWR6dWVOWHFtd3NWRUJCZklCRTgyODJLeENaNndnZnFfT2ZjcnpiQ2NqMmxxN3dPMExOU1J6amlabEl3ZVBQWE1pYzhIUGQ0OHNUZ3I5RUE5cm45UGhDTWw1VjJza0FrQmhuRW9xQ3ZjbE9MRXMyN2xYb05HUUdsMk9zUVQzVTljUGZrSE01UQ?oc=5",
+      "pub_date": 1791828286.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
+      "description": "The second-largest corporate employer has bet big on robot workers to scale."
     },
     {
       "headline": "Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec",
@@ -53,6 +43,26 @@
       "article_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/Doug-Field.jpg?resize=800,1200",
       "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3."
+    },
+    {
+      "headline": "Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHA4cTF3bUEtVGEyVzVqNDNQOVVkSkpoRUxIVjhiRlZEdW5vSjNEeGc2Z3VrOHZiLWczLXYwUXNlcFFwTlM5d2w1aFR2MlRvRExDM3FvQ3hFa080dGV5MWdzTnpHQ3ZtVTJ0TU1WQUxOTjRUam9BejFCNmEzVUszVlJsVnpKR1dvOTVJSFNjR1V1Nll6aXphelZndFY4VWpZeTY5SU9qNnNqa0ZWcjg1YWxfNXcyYzhicnNV?oc=5",
+      "pub_date": 1791927422.0,
+      "article_url": "https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/05692c276f3943f43c6a78f1b19566c71d1f1d37cb7adf6de084e011bfb0dca0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F4df6e6a4-9c7e-4c10-b867-fb61b493e709",
+      "description": "In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president."
+    },
+    {
+      "headline": "China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5",
+      "pub_date": 1791925229.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Scoop: Bedrock Robotics raising $600M to automate construction",
@@ -85,26 +95,16 @@
       "description": "As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations."
     },
     {
-      "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjBBcElyLWRYdHJubmVBTEdxSXFiWGY4M2Iwc0NmSFRUcGVmWFptWWR6dWVOWHFtd3NWRUJCZklCRTgyODJLeENaNndnZnFfT2ZjcnpiQ2NqMmxxN3dPMExOU1J6amlabEl3ZVBQWE1pYzhIUGQ0OHNUZ3I5RUE5cm45UGhDTWw1VjJza0FrQmhuRW9xQ3ZjbE9MRXMyN2xYb05HUUdsMk9zUVQzVTljUGZrSE01UQ?oc=5",
-      "pub_date": 1791828286.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
-      "description": "The second-largest corporate employer has bet big on robot workers to scale."
-    },
-    {
-      "headline": "I watched 6-foot robots fight with blades. This is San Francisco now",
-      "source": "The San Francisco Standard",
-      "source_url": "https://sfstandard.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XLXBxRmhINndGQ0pfdnVkb3BEemg4bkNfWmlfTW5WUFFLT0FWS21DUkZpNmJKQ0VFRXF5NEJHU3NhTktjOVAtdWhFbXpSakRrdkp0dElVN0RDSFBmS3JrWkpGMUtBM2N4T2kxN0U5MHBrVjg?oc=5",
-      "pub_date": 1791723600.0,
-      "article_url": "https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_fupib42ovd3ph9jui5fphba64e/-S1200x630-FPNG",
-      "description": "At a Van Ness arena, 200-pound robots wielded steel blades."
+      "headline": "Tiny robots speed medicine through body to the heart",
+      "source": "Johns Hopkins University",
+      "source_url": "https://hub.jhu.edu",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mWHBYNXFaZC1Yby1KX1dNVHRXbUVOOEJZa2Z1bEV2VHRXcGE5MkdZS3dTRXZSckNVTDE5Q3o1OXgyeEg3MnQ0SlpBMjVCVHdGNkhfQm5IUnRZR1k2OVc3eUV5SlpMTHJyalVVZXF1RTBfRWFYMVFROEl3?oc=5",
+      "pub_date": 1791815400.0,
+      "article_url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-13T22:22:08.644351+00:00"
+  "fetched_at": "2026-10-14T01:20:01.677513+00:00"
 }

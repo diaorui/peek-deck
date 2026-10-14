@@ -9,7 +9,7 @@
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1RTY3JHZU9NMmVUelJYMVR4Z1Z5cFRONnNneVEtQjdGS3A1YXF1cnFlQlZ0bzdtRTl2QVN3aXphMXV6UDYtWF9Pdmh2VmY4VXgtMlh3WkNtcHZEblVyejdPRXVKN3d1WGdmR29jQWlMeFhZc3lmR3VVZG84TVpEdHR0WE8?oc=5",
-      "pub_date": 1791888055.0,
+      "pub_date": 1791864019.0,
       "article_url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
       "image": null,
       "description": null
@@ -19,10 +19,30 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1Qwc3lWYVVjYm01ejc2WWNvczQyMHVHUXpTLTFxY1VaaWdkVEhxdDFMVVYtYURwTGZfQ3U5bktvX2h0WEpfNzM3T0Y4QmdQWkdwY0dBdVd0VTZUc01xeW9CUkZxX0dnZXUtdHFydkJ4N295bDdQT29yRnYtRXhMRVp4d0RWZUJldmcwTzRqUVVKTjFzSW9SS18zOWt1aUpDZ1p1RUhpSjZPUQ?oc=5",
-      "pub_date": 1791796440.0,
+      "pub_date": 1791932215.0,
       "article_url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin (BTC) treasury news: Strive (ASST) aims to raise $500 million with SATS preferred offering",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeEFNY3QxQkRyWFBiWkFLT0RTdXA0bjN1dVpYZVNZWkRVVTNMVVBtbDZoOHBJRmNieS1PeGphbGI5TW5wekt3OUJldW5BT25iZUx1YTBndldFSkJfSUdKZUZhbVczZWhyblEwVDBEZTdtZDFQb2xqT09GVmtqS09ENmlsQjZhLWNPX2R5ZlNLYXFkdENPd05xN19ZQi1DbkkyLTdtZG1Wa2VueTdxektpVUxVQlN0VjFpX3JrN2gtTXVvWkFYM3c1cUhfeDY?oc=5",
+      "pub_date": 1791933785.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2688a309ccf027625e4bf19277b7e78cfc32859f-2123x1084.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%)."
+    },
+    {
+      "headline": "Michael Saylor drops bold Bitcoin call ahead of major index review",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0x1MmVxTkJWSWw3M3d3akFsNjIzOXQyQ21RMlZsVGNvQUROVTBsWXBjVGlHWGFXVmtrR2hnaGF6b18td0FjZXA5TmM1enFBcWhKTGFZU19LT1FlRDdXQ2JfNFhzdm1rOElvNnRsa0tSOUtoeml0VHl5OVlmS09DUUdJbHhHcHJ5RnhteTRCZzYtTVdCSG5FRlFrZFgwWjA?oc=5",
+      "pub_date": 1791935271.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-drops-bold-bitcoin-234751739.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f1735421cb296f64145e3f3d5c9092f885eb9fc9bea9d70f70ca60f52b51041d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F7425461daac8bd30f608116f45564f5e.jpg",
+      "description": "Saylor is calling a new Bitcoin bull market days before MSCI decides on Strategy\u2019s place in major indexes."
     },
     {
       "headline": "Strategy\u2019s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
@@ -35,17 +55,17 @@
       "description": null
     },
     {
-      "headline": "Tom Lee Says Ethereum\u2019s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVQxQlZpcm93UHhvcklBbDN0cWNfMWNFdl8tLV9GOGdJcW1Wei1WekpnbWdaRFpSRldSZ0NnRmo4SXU2eXkyRmo4NmFiN0psS1Zzb1BRbFd3YzBqeHotWE5ESW9WRUFnaUo4Ym1Wc0xJWU1hei1rWTUwYWRGM0RReTlWQ0NLMi0yV0FueDk0NkVHZ1dYbnpv?oc=5",
-      "pub_date": 1791903256.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-years-145416200.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4d0a38d3d4bb3dfc67dd5865c79c0d041a51a0d1a946fb5f9a92ec85b8eeb1dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F472fa506025f53c325529da830e30b7c.jpg",
-      "description": "Tom Lee is calling the end of Ethereum's long slide against Bitcoin, pointing to tokenized stocks and AI agents as the catalysts. But the data from the very week he made that call tells a very different story."
+      "headline": "Current price of Bitcoin for October 13, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSVd1TndYZjB5VVpWN0pNdzA1aGlmQUdRdHlDUnd0NHR4U1Z0R0toVl9uUTdJcDgwUHE2V2lDZmxMY1IyeWs5X1lsejBHWjBCWkoxOUtSLW9nb21qRFBMNFdoYzl6YWM?oc=5",
+      "pub_date": 1791903682.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-13-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-13.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "NEWS 4 INVESTIGATES: El Reno Bitcoin mine tied to second OKC site\u2014and a tangled web of companies reaching China, raising eyebrows",
+      "headline": "FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site\u2014and a tangled web of companies reaching China, raising eyebrows",
       "source": "KFOR",
       "source_url": "https://kfor.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVQ1U3BCd0hmM3JpY3p2am9CYmhpUE4wbDBuRUJyVmJ4THpGc0U0eTAzUWk4RDJOTWRzVnhVeGVzOFpidFpKVURGOUZmUGFLQjg0SXF5TlEtZ3dpWlBQdDVHVTBYZXJTMDBhNFh2VVhKSU1jMHg4VUhtc1VFNVlJQUtsUU9PN21zdXFqY3dkZTZ6MGxmMmRRNE1yN0JEeGFaWG9JREx4cVlPcTlqTk9BaWozS3NvenpMSVFYV3N5Z0ZCUdIBxwFBVV95cUxNUXRWZmRNRl9GcUM5SjFLQjYzS0h4bk5wczB5OW91ekRBOGpScG5pUW1WTlNvY1NSdDFHSENza1VtWDU1VUpXR25IbWFQbHA4VncxR292azJiOHhYTUpMeHVMbkEzMWIzcHlXLUFGNHk2Ym93RGlhcHF0MjR6VDNIRk1CVFlKbk1VUWN4OUd6TXpzQWNFLWdvQlNCOGtYaU9OME80ZUF2a1N6NjRTTGpLd0Q4cDFGN1VnYmNnb1BKN2J1dUZ1cVdz?oc=5",
@@ -55,24 +75,14 @@
       "description": null
     },
     {
-      "headline": "Current price of Bitcoin for October 13, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSVd1TndYZjB5VVpWN0pNdzA1aGlmQUdRdHlDUnd0NHR4U1Z0R0toVl9uUTdJcDgwUHE2V2lDZmxMY1IyeWs5X1lsejBHWjBCWkoxOUtSLW9nb21qRFBMNFdoYzl6YWM?oc=5",
-      "pub_date": 1791892800.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-13-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-13.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTlUaFVGRWNiM2Vxem1vbjRMYmVZbHlUXzI0TmQ3RV8wOEtaVEh2UDFvVk5COF9ySzV1RjZNanc1UjdCM2M0cWF1T3hBQndBSTVRWDFtaGIxN24zYjZFNFJMV2lIakNaLVI3NC1SWWwwejJUbjhmSHdXMVNWQlByX01WNUljYjcwS2JHdFRRZXpxbTV6YlVTaFYxV01OX09VSVlFLVdfT2lsbWNPLUFCUUpBbG5OMjA?oc=5",
-      "pub_date": 1791870610.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9c17b7c061b6a82996756c392a64b62872157fb-1280x853.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain."
+      "headline": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6dXBFYlk4eVNjbkZVYWNvekRvU0N4X2hlR2xYZFk2eGh0N3ZlZ1VTZ3lxV2NaX29xR1pFZ0tHS3BOOXdlaEZURmN6Q1U4YzNSSjJOd1I1TmRCNG5pUUsxaVFaMVdDdEZZcEp6SmNUY09rUzRZTE5IbUdrQU1kZw?oc=5",
+      "pub_date": 1791911267.0,
+      "article_url": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-9.jpg",
+      "description": "A CryptoQuant researcher has said that bitcoin\u2019s supply dynamics could soon help its price."
     },
     {
       "headline": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
@@ -93,18 +103,8 @@
       "article_url": "https://www.investors.com/research/options/ibit-stock-ishares-bitcoin-trust-bull-call-spread-options/",
       "image": "https://www.investors.com/wp-content/uploads/2025/06/Stock-BitcoinGoldHand-01-adobe.jpg",
       "description": "The iShares Bitcoin Trust fund has broken a downtrend and cleared a cup-with-handle pattern. IBIT stock has passed its 46.37 buy point."
-    },
-    {
-      "headline": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nVEk5amJZeTVMU1BUb1VseGw1QU1hUzJLYlVXNEQ4N1I0bzBvVktmRFpWZUhWOURHTDBLWGNNTmZmY3pGNWxUQUhxRmVGcFpNSUJ4aUMzMWtMelhEMi1GbTQxY0hZZWJXd3A2YnNWZlZvV1RnSEE?oc=5",
-      "pub_date": 1791922563.0,
-      "article_url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-      "description": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-13T22:22:01.508162+00:00"
+  "fetched_at": "2026-10-14T01:19:51.281813+00:00"
 }
