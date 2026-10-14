@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-13T22:22:10.341962+00:00'
+updated: '2026-10-14T01:20:02.901969+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 13, 2026 at 22:22 UTC  
+**Last Updated:** October 14, 2026 at 01:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,503.18
+### $2,511.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** -2.5%  
-**30d:** -0.1%  
-**90d:** +34.6%  
-**1y:** -39.1%  
+**24h:** +0.4%  
+**7d:** +1.2%  
+**30d:** +4.2%  
+**90d:** +35.8%  
+**1y:** -37.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.16B
+**Market Cap:** $305.42B
 Rank #2
 
 **Circulating Supply:** 122,130,710 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.3%
+-49.4%
 
 **All-Time Low:** $0.43
-+578789.5%
++577369.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -152,11 +152,19 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[Bitmine’s Tom Lee Warns Of Ethereum Selloff](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html)**
+**[Tom Lee Says Ethereum’s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-years-145416200.html)**
 
-Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET...
+Tom Lee is calling the end of Ethereum's long slide against Bitcoin, pointing to tokenized stocks and AI agents as the catalysts. But the data from the very week he made that call tells a very different story.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.](https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/)**
+
+A major source of Ethereum demand is about to disappear. That's a problem for investors.
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -164,7 +172,13 @@ Yahoo Finance • 7h ago
 
 Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.
 
-CoinDesk • 17h ago
+CoinDesk • 20h ago
+
+---
+
+**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -176,25 +190,35 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, and Solana Are All Down in 2026. Which Has Held Up Best?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-solana-down-153047601.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise as ‘Greed’ Persists: Analyst Says BTC Bulls Must Get ‘Moving’ From This Area](https://www.tradingview.com/news/benzinga:14cb665f0094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-greed-persists-analyst-says-btc-bulls-must-get-moving-from-this-area/)**
 
-All four major cryptocurrencies are bleeding in 2026, but the coin that looks strongest on paper may actually be in the worst shape of the group depending on how you measure the damage.
+Leading cryptocurrencies rose on Sunday as investors assessed the latest geopolitical developments in the Middle East and President Donald Trump’s potential intervention.The Sunday RallyBitcoin experienced a late-evening spike that nearly pushed it beyond $84,000, while Ethereum wobbled in a range…
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
-
-Forbes • 1d ago
+TradingView • 1d ago
 
 ---
 
-**[Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.](https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/)**
+**[Starknet considers leaving Ethereum for a quantum-resistant Layer 1](https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/)**
 
-Don't let shortsighted sellers distract you from this coin's real value.
+Starknet is considering an independent Layer 1 to pursue quantum resistance in 2027. Its roadmap separates its own cryptography from Ethereum dependencies.
 
-The Motley Fool • 22h ago
+CryptoSlate • 2d ago
+
+---
+
+**[Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'](https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking)**
+
+The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.
+
+Decrypt • 1d ago
+
+---
+
+**[Interactive Brokers Launches Ethereum Staking Through Zerohash](https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash)**
+
+Interactive Brokers adds ETH staking through Zerohash for eligible clients, with combined fees capped at 30% of staking rewards.
+
+The Defiant • 10h ago
 
 ---
 
@@ -206,33 +230,19 @@ Fortune • 10h ago
 
 ---
 
-**[Interactive Brokers Launches Ethereum Staking Through Zerohash](https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash)**
-
-Interactive Brokers adds ETH staking through Zerohash for eligible clients, with combined fees capped at 30% of staking rewards.
-
-The Defiant • 7h ago
-
----
-
-**[Starknet coin surges as developer weighs Ethereum split over quantum security (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security)**
-
-STRK jumps as Starknet explores quantum-resistant upgrades and a potential split from Ethereum to become a Layer-1.
-
-Seeking Alpha • 2d ago
-
----
-
-**[Crypto News: Pepeto Announces Its Stage Ends in Minutes, the Cheapest Price It Will Ever Offer, While Ethereum Price Prediction Targets $25,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-its-stage-ends-in-minutes-the-cheapest-price-it-will-ever-offer-while-ethereum-price-prediction-targets-25-000-1036621440)**
-
-DUBAI, United Arab Emirates, Oct.  13, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto has announced that its live presale stage ends within minut...
-
-markets.businessinsider.com • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
+
+Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 374 • 💬 134 • ⏱️ 14:22 • 9h ago
+
+---
 
 **[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
 
@@ -240,7 +250,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 51 • 💬 5 • ⏱️ 23:58 • 6h ago
+👁️ 3K • 👍 68 • 💬 7 • ⏱️ 23:58 • 9h ago
+
+---
+
+**[The $200 Trillion Shift Wall Street Isn&#39;t Ready For](https://www.youtube.com/watch?v=zSaObD9pmX8)**
+
+At TOKEN2049 Singapore, Tom Lee joined Open Interest by Ondo to talk AI, Ethereum, tokenization, and why he thinks Wall ...
+
+📺 Fundstrat
+
+👁️ 69K • 👍 974 • 💬 51 • ⏱️ 18:13 • 12h ago
 
 ---
 
@@ -250,27 +270,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 4K • 👍 172 • 💬 101 • ⏱️ 41:38 • 3h ago
-
----
-
-**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 218 • 💬 9 • ⏱️ 6:47 • 18h ago
-
----
-
-**[Ledger Hack, BTC ETF Dump, Is Base Back, &amp; Ethereum Interview](https://www.youtube.com/watch?v=R-XQPrItJ-Y)**
-
-Crypto hack, BTC, ETH, Solana, Base back, Ethena, and Sui BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 17K • 👍 448 • 💬 29 • ⏱️ 1:06:51 • 9h ago
+👁️ 11K • 👍 259 • 💬 151 • ⏱️ 41:38 • 6h ago
 
 ---
 
@@ -280,7 +280,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 27K • 👍 365 • 💬 36 • ⏱️ 20:19 • 1d ago
+👁️ 27K • 👍 370 • 💬 37 • ⏱️ 20:19 • 1d ago
+
+---
+
+**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 10K • 👍 219 • 💬 9 • ⏱️ 6:47 • 21h ago
 
 ---
 
@@ -290,7 +300,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 332 • 💬 14 • ⏱️ 24:39 • 1d ago
+👁️ 18K • 👍 337 • 💬 14 • ⏱️ 24:39 • 1d ago
+
+---
+
+**[Ledger Hack, BTC ETF Dump, Is Base Back, &amp; Ethereum Interview](https://www.youtube.com/watch?v=R-XQPrItJ-Y)**
+
+Crypto hack, BTC, ETH, Solana, Base back, Ethena, and Sui BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 18K • 👍 459 • 💬 34 • ⏱️ 1:06:51 • 12h ago
+
+---
+
+**[CRYPTO DIP: Bear Market’s Back?! (It’s NOT... Altcoins Haven&#39;t Looked This Good In 5 Years!](https://www.youtube.com/watch?v=4ecJ4D7BsuI)**
+
+Thanks Coinbase for sponsoring this crypto video! Save 80% spot fees by using my Coinbase link!
+
+📺 Crypto Capital Venture
+
+👁️ 26K • 👍 667 • 💬 187 • ⏱️ 13:50 • 1d ago
 
 ---
 
@@ -300,37 +330,7 @@ ETH could hit as high as $7.5K by the end of the year, a/c to Fundstrat. Oct 28:
 
 📺 Fundstrat
 
-👁️ 2K • 👍 41 • 💬 3 • ⏱️ 0:49 • 10h ago
-
----
-
-**[Why I Only Keep 20% In Bitcoin, Ethereum, and, XRP](https://www.youtube.com/watch?v=FQzX7uBc4v4)**
-
-Why I only keep 20% in Bitcoin, Ethereum and XRP. Go to coinpicks.app or tap the link in my bio to see how we research a coin ...
-
-📺 Alexander Lorenzo
-
-👁️ 232 • 👍 20 • 💬 16 • ⏱️ 1:29 • 1h ago
-
----
-
-**[ETH BOTTOM FINALLY IN?🚨 (Ethereum Price Prediction)](https://www.youtube.com/watch?v=wFQtAPKd7pQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 597 • 👍 12 • 💬 1 • ⏱️ 4:26 • 13h ago
-
----
-
-**[Ethereum ETFs DUMPED $697M.. I&#39;m Still LONG!!](https://www.youtube.com/watch?v=uetiwc3Z5lM)**
-
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
-
-📺 Marzell Crypto
-
-👁️ 654 • 👍 13 • 💬 4 • ⏱️ 2:57 • 1d ago
+👁️ 2K • 👍 49 • 💬 3 • ⏱️ 0:49 • 13h ago
 
 ---
 
