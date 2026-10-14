@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-14T17:49:05.155305+00:00'
+updated: '2026-10-14T21:20:31.434059+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 17:49 UTC  
+**Last Updated:** October 14, 2026 at 21:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,432.67
+### $2,428.05
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -1.6%  
-**30d:** +1.4%  
-**90d:** +32.1%  
-**1y:** -39.0%  
+**24h:** -3.6%  
+**7d:** -2.2%  
+**30d:** +0.8%  
+**90d:** +31.4%  
+**1y:** -39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.32B
+**Market Cap:** $295.00B
 Rank #2
 
 **Circulating Supply:** 122,133,648 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.8%
+-51.2%
 
 **All-Time Low:** $0.43
-+562137.4%
++557753.8%
 
 ---
 
@@ -104,7 +104,7 @@ Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-t
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-2d ago
+3d ago
 
 ---
 
@@ -160,22 +160,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Is Up 7.1% and Solana 5.3% This Month. Ethereum Is Down 0.7% and XRP 1.4%. What Separates Them?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-7-1-solana-5-163024874.html)**
-
-Four major cryptocurrencies split into two camps this month, but the weekly numbers tell a completely different story and reveal which of the apparent winners may be living on borrowed time.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html)**
-
-Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as "mature" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee’s hint at winding down Bitmine’s Ethereum accumulation streak is...
-
-Yahoo Finance • 39m ago
-
----
-
 **[Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%](https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99)**
 
 Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.
@@ -184,11 +168,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for October 14, 2026](https://fortune.com/article/price-of-ethereum-10-14-2026/)**
+**[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
 
-Fortune • 2h ago
+Decrypt • 3h ago
+
+---
+
+**[Tom Lee's Bitmine Buys Another $31 Million in Ethereum, But There's a Catch](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-another-163000864.html)**
+
+Bitmine Chair Tom Lee hints at a looming end to the longest ETH buying spree
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -197,6 +189,22 @@ Fortune • 2h ago
 A major source of Ethereum demand is about to disappear. That's a problem for investors.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether](https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether)**
+
+The Bitmine (BMNR) chairman said he expects younger investors to drive demand for digital assets as his Ethereum treasury company inches closer to owning 5% of ether (ETH).
+
+CoinDesk • 2d ago
+
+---
+
+**[Current price of Ethereum for October 14, 2026](https://fortune.com/article/price-of-ethereum-10-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 14h ago
 
 ---
 
@@ -210,21 +218,13 @@ Tom Lee says tokenization and AI agents will reverse Ethereum's decline against 
 
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415)**
 
-FXStreet • 13h ago
+FXStreet • 17h ago
 
 ---
 
-**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
+**[Crypto’s $800M Wipeout Revives Arthur Hayes’s Extreme $200K Ethereum Price Call](https://www.ccn.com/news/crypto/ethereum-200k-arthur-hayess-extreme-call-ai-crash-catch/)**
 
-Forbes • 2d ago
-
----
-
-**[Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'](https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking)**
-
-The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.
-
-Decrypt • 2d ago
+CCN.com • 9h ago
 
 ---
 
@@ -238,17 +238,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 429 • 👍 43 • 💬 9 • ⏱️ 21:33 • 1h ago
+👁️ 2K • 👍 103 • 💬 6 • ⏱️ 21:33 • 5h ago
 
 ---
 
-**[Ethereum&#39;s Fundamentals Skyrocket, But Where&#39;s the Price Surge?](https://www.youtube.com/watch?v=yI3eXQSGQhw)**
+**[BITCOIN URGENT UPDATE: It&#39;s Getting Worse (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PoYcO73O1fk)**
 
-Ethereum's fundamentals are getting stronger—but ETH's price isn't keeping up. Despite growing network activity, stablecoins, ...
+BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Lark Davis
+📺 Crypto World
 
-👁️ 266 • 👍 17 • 💬 1 • ⏱️ 1:03 • 1h ago
+👁️ 6K • 👍 248 • 💬 58 • ⏱️ 22:10 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ As trillions of dollars in traditional financial assets prepare to move on-chain
 
 📺 Coinage
 
-👁️ 937 • 👍 14 • ⏱️ 12:34 • 4h ago
+👁️ 2K • 👍 23 • ⏱️ 12:34 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading throu
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 452 • 💬 148 • ⏱️ 14:22 • 1d ago
+👁️ 17K • 👍 453 • 💬 136 • ⏱️ 14:22 • 1d ago
 
 ---
 
@@ -278,7 +278,25 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 86 • 💬 12 • ⏱️ 23:58 • 1d ago
+👁️ 6K • 👍 87 • 💬 12 • ⏱️ 23:58 • 1d ago
+
+---
+
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+
+📺 Itsdanielmac
+
+👁️ 3K • 👍 150 • 💬 5 • ⏱️ 0:48 • 2h ago
+
+---
+
+**[Ethereum&#39;s Fundamentals Skyrocket, But Where&#39;s the Price Surge?](https://www.youtube.com/watch?v=yI3eXQSGQhw)**
+
+Ethereum's fundamentals are getting stronger—but ETH's price isn't keeping up. Despite growing network activity, stablecoins, ...
+
+📺 Lark Davis
+
+👁️ 616 • 👍 25 • 💬 1 • ⏱️ 1:03 • 5h ago
 
 ---
 
@@ -288,47 +306,27 @@ Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Netw
 
 📺 Thinking Crypto
 
-👁️ 16K • 👍 694 • 💬 80 • ⏱️ 14:24 • 14h ago
+👁️ 17K • 👍 711 • 💬 76 • ⏱️ 14:24 • 17h ago
 
 ---
 
-**[The $200 Trillion Shift Wall Street Isn&#39;t Ready For](https://www.youtube.com/watch?v=zSaObD9pmX8)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=1Vz2p39OEek)**
 
-At TOKEN2049 Singapore, Tom Lee joined Open Interest by Ondo to talk AI, Ethereum, tokenization, and why he thinks Wall ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Fundstrat
+📺 Profit First
 
-👁️ 109K • 👍 1K • 💬 72 • ⏱️ 18:13 • 1d ago
-
----
-
-**[Why Bitcoin, Ethereum, and Near Could Be Setting Up for a Massive Rally](https://www.youtube.com/watch?v=nBZvkC3J3o4)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 26K • 👍 420 • 💬 50 • ⏱️ 41:38 • 22h ago
+👁️ 2K • 👍 77 • ⏱️ 6:09 • 8h ago
 
 ---
 
-**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
+**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=FvIVxGGU5Js)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 10K • 👍 222 • 💬 9 • ⏱️ 6:47 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum, Heute + oder - 10% Beachte DIESE Marken und handle dann](https://www.youtube.com/watch?v=KmIkh9gxOKw)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
-
-📺 Krypto Trading & Investing
-
-👁️ 5K • 👍 444 • 💬 111 • ⏱️ 13:31 • 12h ago
+👁️ 19K • 👍 356 • 💬 14 • ⏱️ 24:39 • 2d ago
 
 ---
 
