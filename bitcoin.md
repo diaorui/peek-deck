@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-14T01:20:02.897774+00:00'
+updated: '2026-10-14T06:31:33.404500+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 01:20 UTC  
+**Last Updated:** October 14, 2026 at 06:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,475.05
+### $83,367.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +1.9%  
-**30d:** +10.1%  
-**90d:** +30.2%  
-**1y:** -25.1%  
+**24h:** -0.5%  
+**7d:** +2.2%  
+**30d:** +10.3%  
+**90d:** +30.5%  
+**1y:** -24.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1672.55B
+**Market Cap:** $1677.16B
 Rank #1
 
-**Circulating Supply:** 20,097,862 BTC
+**Circulating Supply:** 20,097,959 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.0%
+-33.8%
 
 **All-Time Low:** $67.81
-+122641.5%
++122958.5%
 
 ---
 
@@ -155,35 +155,35 @@ The company confirmed physical tampering in at least one affected device. In add
 
 **[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
 
-Financial Times • 21h ago
+Financial Times • 19h ago
 
 ---
 
 **[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
 
-WSJ • 2h ago
+WSJ • 1d ago
 
 ---
 
-**[Bitcoin (BTC) treasury news: Strive (ASST) aims to raise $500 million with SATS preferred offering](https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury)**
+**[Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now](https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now)**
 
-SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).
+Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.
 
-CoinDesk • 1h ago
+CoinDesk • 46m ago
 
 ---
 
-**[Michael Saylor drops bold Bitcoin call ahead of major index review](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-drops-bold-bitcoin-234751739.html)**
+**[Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: ‘Long-Term Forecast Is…’](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-bitcoin-bottomed-042144574.html)**
 
-Saylor is calling a new Bitcoin bull market days before MSCI decides on Strategy’s place in major indexes.
+In an interview with Bloomberg Television, Saylor said that BTC prices would move back to six figures.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -191,13 +191,13 @@ Bloomberg.com • 6h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
 **[FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
 
-KFOR • 22h ago
+KFOR • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ KFOR • 22h ago
 
 A CryptoQuant researcher has said that bitcoin’s supply dynamics could soon help its price.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -213,15 +213,15 @@ Bitcoin Magazine • 8h ago
 
 The latest purchase marks Strive's largest increase in bitcoin holdings since it acquired approximately 5,048 BTC through its all-stock merger with Semler Scientific.
 
-The Block • 11h ago
+The Block • 16h ago
 
 ---
 
-**[Bitcoin's Recovery Sets Up This Limited-Risk Spread](https://www.investors.com/research/options/ibit-stock-ishares-bitcoin-trust-bull-call-spread-options/)**
+**[Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M](https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m)**
 
-The iShares Bitcoin Trust fund has broken a downtrend and cleared a cup-with-handle pattern. IBIT stock has passed its 46.37 buy point.
+A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.
 
-Investor's Business Daily • 1d ago
+Decrypt • 10h ago
 
 ---
 
@@ -265,9 +265,27 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ---
 
+**[Microsoft 365 subscriptions now use shared cloud storage](https://news.ycombinator.com/item?id=50012149)**
+
+Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.
+
+⬆️ 3 • 💬 1 • 5d ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[are you ready for what Bitcoin does next?](https://www.youtube.com/watch?v=fh-_hE_XyO8)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 14K • 👍 642 • 💬 152 • ⏱️ 10:13 • 13h ago
+
+---
 
 **[Bitcoin Is at Beginning a Bull Market, Says Strategy&#39;s Saylor](https://www.youtube.com/watch?v=fki9hxwRUfs)**
 
@@ -275,7 +293,17 @@ In an exclusive interview from DC Fintech Week, Strategy founder and Executive C
 
 📺 Bloomberg Tech
 
-👁️ 11K • 👍 94 • 💬 17 • ⏱️ 1:14 • 7h ago
+👁️ 15K • 👍 113 • 💬 31 • ⏱️ 1:14 • 12h ago
+
+---
+
+**[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
+
+Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 1K • 💬 72 • ⏱️ 10:28 • 7h ago
 
 ---
 
@@ -285,17 +313,7 @@ Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and
 
 📺 Bloomberg Television
 
-👁️ 19K • 👍 307 • 💬 69 • ⏱️ 19:31 • 5h ago
-
----
-
-**[3rd Largest Bank In America Going ALL In On Bitcoin?! | EP 1612](https://www.youtube.com/watch?v=g0M0Xa29dPQ)**
-
-Third largest bank in America is about to launch bitcoin buying and selling?
-
-📺 Simply Bitcoin
-
-👁️ 8K • 👍 217 • 💬 17 • ⏱️ 1:00:11 • 6h ago
+👁️ 33K • 👍 459 • 💬 89 • ⏱️ 19:31 • 10h ago
 
 ---
 
@@ -305,57 +323,27 @@ Trump is promising every adult American a $5000 check — roughly $1.3 TRILLION 
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 298 • 💬 26 • ⏱️ 31:27 • 2h ago
+👁️ 13K • 👍 461 • 💬 62 • ⏱️ 31:27 • 7h ago
 
 ---
 
-**[are you ready for what Bitcoin does next?](https://www.youtube.com/watch?v=fh-_hE_XyO8)**
+**[The Viral Post That Sparked a Bitcoin Debate](https://www.youtube.com/watch?v=lA9Zo2-PVzA)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning that paper Bitcoin and digital credit could ...
 
-📺 Tyler S
+📺 Natalie Brunell
 
-👁️ 11K • 👍 581 • 💬 155 • ⏱️ 10:13 • 8h ago
-
----
-
-**[Bitcoin Breakout or Breakdown? Asia Sent a Warning](https://www.youtube.com/watch?v=8ejKtbbSS6Y)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 684 • 💬 129 • ⏱️ 47:41 • 10h ago
+👁️ 19K • 👍 533 • 💬 35 • ⏱️ 2:56 • 9h ago
 
 ---
 
-**[China Insider Calls For Bitcoin Supercycle! Is He Right?](https://www.youtube.com/watch?v=e4PoH--STWQ)**
+**[Bitcoin Warning: BTC CRASH WAVE 3 LIKELY NOW IN PROGRESS](https://www.youtube.com/watch?v=GQvxKqU1bkw)**
 
-A former UBS banking executive believes China could reopen access to crypto trading, potentially triggering a massive Bitcoin ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Simply Bitcoin
+📺 Doctor of Pump & Dump
 
-👁️ 9K • 👍 721 • 💬 30 • ⏱️ 12:02 • 4h ago
-
----
-
-**[WTF Is Actually Happening To Crypto?! (And How to Invest)](https://www.youtube.com/watch?v=HKLoC3aCAbE)**
-
-Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 95K • 👍 2K • 💬 173 • ⏱️ 10:13 • 23h ago
-
----
-
-**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
-
-Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
-
-📺 Simply Bitcoin
-
-👁️ 47K • 👍 2K • 💬 160 • ⏱️ 17:10 • 1d ago
+👁️ 11K • 👍 417 • ⏱️ 28:50 • 11h ago
 
 ---
 
@@ -365,7 +353,27 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 2K • 👍 47 • ⏱️ 1:00 • 3h ago
+👁️ 5K • 👍 98 • ⏱️ 1:00 • 8h ago
+
+---
+
+**[China Insider Calls For Bitcoin Supercycle! Is He Right?](https://www.youtube.com/watch?v=e4PoH--STWQ)**
+
+A former UBS banking executive believes China could reopen access to crypto trading, potentially triggering a massive Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 35 • ⏱️ 12:02 • 9h ago
+
+---
+
+**[WTF Is Actually Happening To Crypto?! (And How to Invest)](https://www.youtube.com/watch?v=HKLoC3aCAbE)**
+
+Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 99K • 👍 2K • 💬 174 • ⏱️ 10:13 • 1d ago
 
 ---
 
