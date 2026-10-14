@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-14T06:31:33.411437+00:00'
+updated: '2026-10-14T12:41:07.457719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 14, 2026 at 06:31 UTC  
+**Last Updated:** October 14, 2026 at 12:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Try it: https://holocron-engine.com This is a quadruped (Mini Pupper style) desi
 
 I don't normally talk like in the video, but I can't help talking to my Mino as if it were a little dog :) Anyway, I was not able to pet it without the servos pushing back and suffering, so I integrated current sensors in the PCB and coded an algorithm on the MCU that detects an external force on the servos. When the force is too high, the servos go into "follow mode". You can see that in action around 0:12. In addition to making proper petting possible, this behavior protects the servos from overexertion. Best spent extra lines in the BOM and the code.
 
-6d ago
+7d ago
 
 ---
 
@@ -118,7 +118,7 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
 
-blog.google • 14h ago
+blog.google • 20h ago
 
 ---
 
@@ -130,25 +130,23 @@ Ars Technica • 1d ago
 
 ---
 
-**[Pittsburgh airport staff gets help in form of AI-powered robots](https://www.usatoday.com/story/news/state/pennsylvania/pittsburgh/2026/10/14/four-legged-ai-powered-robots-pittsburgh-international-airport/92154665007/)**
+**[A robotics business is set to be bought with shares priced about 50% above the buyer's Oct. 12 close.](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ibhf2i6pbt5r.html)**
 
-Pittsburgh International Airport is using AI-powered robots to assist with airport operations.
+The deal also includes up to $10 million in equity financing; both transactions remain subject to closing conditions, with closings expected by October's end.
 
-USA Today • 52m ago
+Stock Titan • 1h ago
+
+---
+
+**[China Is Beating the US to the $5 Trillion Robot Market](https://www.bloomberg.com/news/newsletters/2026-10-14/ai-robots-china-is-beating-the-us-to-5-trillion-market)**
+
+Bloomberg.com • 2h ago
 
 ---
 
 **[Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec](https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy)**
 
-WSJ • 11h ago
-
----
-
-**[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
-
-In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
-
-Yahoo Finance • 8h ago
+WSJ • 12h ago
 
 ---
 
@@ -156,13 +154,29 @@ Yahoo Finance • 8h ago
 
 Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
 
-TechCrunch • 12h ago
+TechCrunch • 18h ago
 
 ---
 
-**[China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market](https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race)**
+**[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
 
-Bloomberg.com • 9h ago
+In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Tiny robots speed medicine through body to the heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)**
+
+Johns Hopkins University • 1d ago
+
+---
+
+**[Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)**
+
+Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+
+TechCrunch • 13h ago
 
 ---
 
@@ -171,22 +185,6 @@ Bloomberg.com • 9h ago
 Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic.
 
 MedTech Dive • 1d ago
-
----
-
-**[D.R. Horton tests Promise Robotics factory model for 1,250 homes](https://www.housingwire.com/articles/promise-robotics-dr-horton-factory/)**
-
-Promise Robotics will supply factory-built framing for 1,250-plus D.R. Horton homes, aiming to shorten cycle times and smooth labor risk.
-
-HousingWire • 1d ago
-
----
-
-**[Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)**
-
-Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
-
-TechCrunch • 7h ago
 
 ---
 
@@ -200,17 +198,27 @@ Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very differen
 
 📺 ejunky66
 
-👁️ 901K • 👍 10K • 💬 395 • ⏱️ 1:00 • 5d ago
+👁️ 928K • 👍 10K • 💬 432 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
 
-Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
 
-📺 States 2050
+📺 MostAmazingTop10
 
-👁️ 102K • 👍 1K • 💬 64 • ⏱️ 26:07 • 6d ago
+👁️ 172K • 👍 1K • 💬 150 • ⏱️ 9:18 • 2d ago
+
+---
+
+**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
+
+America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
+
+📺 Future Core
+
+👁️ 9K • 👍 48 • 💬 4 • ⏱️ 10:07 • 6d ago
 
 ---
 
@@ -220,7 +228,37 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 📺 Jot Tv Media 
 
-👁️ 93K • 👍 2K • 💬 17 • ⏱️ 1:04 • 5d ago
+👁️ 93K • 👍 2K • 💬 17 • ⏱️ 1:04 • 6d ago
+
+---
+
+**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
+
+Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
+
+📺 States 2050
+
+👁️ 104K • 👍 1K • 💬 66 • ⏱️ 26:07 • 6d ago
+
+---
+
+**[Humanoid Robot In German Police Custody After Alleged Groping Of Teen | Firstpost America](https://www.youtube.com/watch?v=gmqt3_aBlnc)**
+
+Watch this video as Firstpost explains a disturbing incident in Cologne, Germany, where a humanoid robot was allegedly used to ...
+
+📺 Firstpost
+
+👁️ 20K • 👍 58 • 💬 41 • ⏱️ 5:04 • 20h ago
+
+---
+
+**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
+
+In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
+
+📺 Google DeepMind
+
+👁️ 189K • 👍 3K • 💬 284 • ⏱️ 1:44 • 20h ago
 
 ---
 
@@ -234,63 +272,23 @@ China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and
 
 ---
 
+**[These AI Robots Are Getting OUT OF CONTROL… Here’s What’s Actually Real](https://www.youtube.com/watch?v=NjcCxL9zcQQ)**
+
+AI robots are advancing faster than ever, but how much of what we see online is actually real? From humanoid robot fights to ...
+
+📺 The AI Nexus
+
+👁️ 10K • 👍 68 • 💬 14 • ⏱️ 1:21:36 • 2d ago
+
+---
+
 **[This Cockroach Taught Engineers to Build a Squashable Robot 🪳](https://www.youtube.com/watch?v=osRDmdZDMcM)**
 
 A cockroach can squeeze through a gap of 3 mm, the height of two stacked pennies and less than a quarter of its standing height, ...
 
 📺 Creatures in Motion
 
-👁️ 798 • 👍 26 • 💬 4 • ⏱️ 2:34 • 4h ago
-
----
-
-**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
-
-Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
-
-📺 BBC News
-
-👁️ 118K • 👍 668 • 💬 44 • ⏱️ 5:36 • 2d ago
-
----
-
-**[China’s  Kung Fu Robot Is Now Working Real Jobs](https://www.youtube.com/watch?v=J3aVeZ2Ntoo)**
-
-China's humanoid robot race is moving fast, and AGIBOT's A3 is proving that AI robots can do far more than perform flashy ...
-
-📺 NextGen Humanoids
-
-👁️ 15K • 👍 135 • 💬 31 • ⏱️ 9:00 • 5d ago
-
----
-
-**[World’s First Human VS Humanoid Robot FULL FIGHT︱Extended Cut](https://www.youtube.com/watch?v=VtfUAiLUFWM)**
-
-On Sept. 18th, we hosted the first human VS humanoid robot fight at the REK Arena in San Francisco. Frankie LaPenna faced off ...
-
-📺 REK
-
-👁️ 68K • 👍 780 • 💬 147 • ⏱️ 11:36 • 5d ago
-
----
-
-**[This Robot Climbs Coconut Trees! 🤖🌴](https://www.youtube.com/watch?v=2mt0pOu-MeA)**
-
-A ROBOT IS HARVESTING COCONUTS! This coconut harvesting robot can climb a coconut tree, reach the treetop, and ...
-
-📺 Discover Agriculture
-
-👁️ 159K • 👍 2K • 💬 38 • ⏱️ 0:35 • 5d ago
-
----
-
-**[They Trained Robots to Jump Into Molten Steel 🤖🔥](https://www.youtube.com/watch?v=883Yhv1qlU4)**
-
-This looks like a scene from Terminator… but it actually happened. Robotics company Figure retired its F.02 humanoid ...
-
-📺 Wow Theory
-
-👁️ 37K • 👍 377 • 💬 31 • ⏱️ 0:27 • 6d ago
+👁️ 1K • 👍 28 • 💬 4 • ⏱️ 2:34 • 10h ago
 
 ---
 
