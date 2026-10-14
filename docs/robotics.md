@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-13T22:22:10.343836+00:00'
+updated: '2026-10-14T01:20:02.904188+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 13, 2026 at 22:22 UTC  
+**Last Updated:** October 14, 2026 at 01:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-5d ago
+6d ago
 
 ---
 
@@ -118,29 +118,21 @@ Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics
 
 Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
 
-blog.google • 6h ago
+blog.google • 9h ago
 
 ---
 
-**[Chinese Robots Could Decide the AI Race](https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race)**
+**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
 
-Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.
+The second-largest corporate employer has bet big on robot workers to scale.
 
-Foreign Affairs • 1d ago
-
----
-
-**[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
-
-In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
-
-Yahoo Finance • 45m ago
+Ars Technica • 1d ago
 
 ---
 
 **[Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec](https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy)**
 
-WSJ • 13h ago
+WSJ • 16h ago
 
 ---
 
@@ -148,13 +140,27 @@ WSJ • 13h ago
 
 Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
 
-TechCrunch • 3h ago
+TechCrunch • 6h ago
+
+---
+
+**[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
+
+In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market](https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race)**
+
+Bloomberg.com • 4h ago
 
 ---
 
 **[Scoop: Bedrock Robotics raising $600M to automate construction](https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m)**
 
-Axios • 1h ago
+Axios • 4h ago
 
 ---
 
@@ -174,19 +180,9 @@ Military Times • 1d ago
 
 ---
 
-**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
+**[Tiny robots speed medicine through body to the heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)**
 
-The second-largest corporate employer has bet big on robot workers to scale.
-
-Ars Technica • 1d ago
-
----
-
-**[I watched 6-foot robots fight with blades. This is San Francisco now](https://sfstandard.com/2026/10/11/humanoid-robot-weapon-fight-sf/)**
-
-At a Van Ness arena, 200-pound robots wielded steel blades.
-
-The San Francisco Standard • 2d ago
+Johns Hopkins University • 1d ago
 
 ---
 
@@ -200,37 +196,17 @@ Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very differen
 
 📺 ejunky66
 
-👁️ 871K • 👍 9K • 💬 380 • ⏱️ 1:00 • 5d ago
+👁️ 883K • 👍 9K • 💬 387 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
 
-In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
 
-📺 Google DeepMind
+📺 MostAmazingTop10
 
-👁️ 93K • 👍 2K • 💬 186 • ⏱️ 1:44 • 6h ago
-
----
-
-**[America&#39;s New Hyper-Realistic Humanoid Robot Are Shocking Everyone](https://www.youtube.com/watch?v=HbhS1pBMUt0)**
-
-America's New Hyper-Realistic Humanoid Robot Are Shocking Everyone In recent years, humanoid robotics has reached a level ...
-
-📺 Future Core
-
-👁️ 9K • 👍 49 • 💬 4 • ⏱️ 10:07 • 6d ago
-
----
-
-**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
-
-Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
-
-📺 States 2050
-
-👁️ 100K • 👍 1K • 💬 67 • ⏱️ 26:07 • 6d ago
+👁️ 161K • 👍 1K • 💬 145 • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -244,13 +220,23 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 ---
 
-**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
+**[America&#39;s New Optimus Gen 3 Robot Is Shocking Everyone!](https://www.youtube.com/watch?v=UfjiapIPlwc)**
 
-Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
+Tesla's Optimus Gen 3 was never meant to be seen yet, but a routine Android app update in September changed that when a fan ...
 
-📺 BBC News
+📺 States 2050
 
-👁️ 115K • 👍 659 • 💬 43 • ⏱️ 5:36 • 2d ago
+👁️ 100K • 👍 1K • 💬 67 • ⏱️ 26:07 • 6d ago
+
+---
+
+**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
+
+In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
+
+📺 Google DeepMind
+
+👁️ 132K • 👍 2K • 💬 235 • ⏱️ 1:44 • 9h ago
 
 ---
 
@@ -260,37 +246,47 @@ China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and
 
 📺 MACHINEKIND
 
-👁️ 54K • 👍 871 • 💬 86 • ⏱️ 13:43 • 5d ago
+👁️ 54K • 👍 875 • 💬 86 • ⏱️ 13:43 • 6d ago
 
 ---
 
-**[War Robots MOST SATISFYING WAY to deal with SHOGGOTHS!](https://www.youtube.com/watch?v=xzO0lq3KW4k)**
+**[Assembling the Vibe A1 humanoid open source robot by Vibe Robotics](https://www.youtube.com/watch?v=DB9-YwFOwsM)**
 
-War Robots Gameplay: UE Hawk drive-by destroying Shoggoths is the most fun thing to do: To see them destroy themselves!
+Day 4 of the Tnkr build series, and the Vibe A1 by viberobotics is fully assembled. The Vibe A1 is an open-source humanoid you ...
 
-📺 Manni-Gaming
+📺 Tnkr AI
 
-👁️ 20K • 👍 518 • 💬 112 • ⏱️ 9:47 • 1d ago
-
----
-
-**[Future of Hajj: AI Robot Barber in Makkah](https://www.youtube.com/watch?v=BCADDOA3DFY)**
-
-Witness a glimpse into the future of pilgrimage in Makkah as a high-tech robotic barber offers a seamless haircut experience.
-
-📺 Paigham-e-Deen 
-
-👁️ 269K • 👍 3K • 💬 2 • ⏱️ 0:11 • 1d ago
+👁️ 844 • 👍 17 • ⏱️ 0:26 • 5h ago
 
 ---
 
-**[Food Delivery Robots Run Into Trouble](https://www.youtube.com/watch?v=6SOCvL6QQGM)**
+**[China’s  Kung Fu Robot Is Now Working Real Jobs](https://www.youtube.com/watch?v=J3aVeZ2Ntoo)**
 
-Food delivery robots across the U.S. are touching a nerve for many Americans who are concerned about A.I. technology.
+China's humanoid robot race is moving fast, and AGIBOT's A3 is proving that AI robots can do far more than perform flashy ...
 
-📺 The New York Times
+📺 NextGen Humanoids
 
-👁️ 310K • 👍 5K • 💬 731 • ⏱️ 0:50 • 1d ago
+👁️ 15K • 👍 135 • 💬 31 • ⏱️ 9:00 • 5d ago
+
+---
+
+**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
+
+Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
+
+📺 BBC News
+
+👁️ 116K • 👍 662 • 💬 43 • ⏱️ 5:36 • 2d ago
+
+---
+
+**[World’s First Human VS Humanoid Robot FULL FIGHT︱Extended Cut](https://www.youtube.com/watch?v=VtfUAiLUFWM)**
+
+On Sept. 18th, we hosted the first human VS humanoid robot fight at the REK Arena in San Francisco. Frankie LaPenna faced off ...
+
+📺 REK
+
+👁️ 67K • 👍 766 • 💬 147 • ⏱️ 11:36 • 5d ago
 
 ---
 

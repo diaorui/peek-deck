@@ -33,20 +33,6 @@
       "site_name": "Bitsaga"
     },
     {
-      "title": "Bitcoin Rebound Revives Debate over a New Crypto Cycle",
-      "url": "https://discord.com/channels/1519570089488289956/1522069205795606650/1556860425667215462",
-      "hn_url": "https://news.ycombinator.com/item?id=49984995",
-      "author": "joeymabia1",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-10-06T22:24:27Z",
-      "object_id": "49984995",
-      "image": "https://cdn.discordapp.com/assets/og_img_discord_home.png",
-      "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
-      "favicon": "https://discord.com/assets/favicon.ico",
-      "site_name": "Discord"
-    },
-    {
       "title": "FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
       "url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037",
       "hn_url": "https://news.ycombinator.com/item?id=50061464",
@@ -80,30 +66,16 @@
       "hn_url": "https://news.ycombinator.com/item?id=50055306",
       "author": "usr1106",
       "points": 2,
-      "num_comments": 3,
+      "num_comments": 4,
       "created_at": "2026-10-12T12:16:55Z",
       "object_id": "50055306",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "Timekeepers to vote on ditching the leap second",
-      "url": "https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528",
-      "hn_url": "https://news.ycombinator.com/item?id=50050603",
-      "author": "Gaishan",
-      "points": 15,
-      "num_comments": 0,
-      "created_at": "2026-10-12T02:29:12Z",
-      "object_id": "50050603",
-      "image": "https://live-production.wcms.abc-cdn.net.au/36ec9465a59266662455c43ce4793fb8?impolicy=wcms_watermark_news&cropH=1801&cropW=3201&xPos=0&yPos=700&width=862&height=485&imformat=generic",
-      "description": "Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.",
-      "favicon": "https://www.abc.net.au/news-assets/touchicon.png",
-      "site_name": "abc.net.au"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-13T22:21:37.862965+00:00"
+  "fetched_at": "2026-10-14T01:19:33.619858+00:00"
 }
