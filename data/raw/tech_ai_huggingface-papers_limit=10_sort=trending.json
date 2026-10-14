@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 28056,
+      "github_stars": 28441,
       "project_page": null
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2610.13912",
       "arxiv_url": "https://arxiv.org/abs/2610.13912",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.13912.png",
-      "upvotes": 32,
+      "upvotes": 33,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
@@ -58,25 +58,6 @@
       "project_page": null
     },
     {
-      "id": "2609.18063",
-      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
-      "organization_name": "Edge0",
-      "organization_fullname": "Edge0",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
-      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.18063",
-      "arxiv_url": "https://arxiv.org/abs/2609.18063",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 26,
-      "num_comments": 4,
-      "published_at": "2026-09-15T20:00:00.000Z",
-      "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 4637,
-      "project_page": null
-    },
-    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -92,7 +73,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 110998,
+      "github_stars": 111079,
       "project_page": null
     },
     {
@@ -134,6 +115,25 @@
       "project_page": null
     },
     {
+      "id": "2609.18063",
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
+      "organization_name": "Edge0",
+      "organization_fullname": "Edge0",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
+      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.18063",
+      "arxiv_url": "https://arxiv.org/abs/2609.18063",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
+      "upvotes": 27,
+      "num_comments": 4,
+      "published_at": "2026-09-15T20:00:00.000Z",
+      "github_repo": "https://github.com/Edge0-AI/edge0",
+      "github_stars": 4646,
+      "project_page": null
+    },
+    {
       "id": "2610.08699",
       "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
       "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
@@ -153,25 +153,6 @@
       "project_page": "https://nanomuse.cn/"
     },
     {
-      "id": "1910.03771",
-      "title": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
-      "authors": "Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)",
-      "organization_name": "huggingface",
-      "organization_fullname": "Hugging Face",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png",
-      "summary": "Recent progress in natural language processing has been driven by advances in\nboth model architecture and model pretraining. Transformer architectures have\nfacilitated building higher-capacity models and pretraining has made it\npossible to effectively utilize this capacity for a wide variety of tasks.\nTransformers is an open-source library with the goal of opening up\nthese advances to the wider machine learning community. The library consists of\ncarefully engineered state-of-the art Transformer architectures under a unified\nAPI. Backing this library is a curated collection of pretrained models made by\nand available for the community. Transformers is designed to be\nextensible by researchers, simple for practitioners, and fast and robust in\nindustrial deployments. The library is available at\nhttps://github.com/huggingface/transformers.",
-      "ai_summary": "Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.",
-      "hf_url": "https://huggingface.co/papers/1910.03771",
-      "arxiv_url": "https://arxiv.org/abs/1910.03771",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/1910.03771.png",
-      "upvotes": 34,
-      "num_comments": 7,
-      "published_at": "2019-10-08T23:23:22.000Z",
-      "github_repo": "https://github.com/huggingface/transformers",
-      "github_stars": 167690,
-      "project_page": "https://huggingface.co"
-    },
-    {
       "id": "2606.23050",
       "title": "Unlimited OCR Works",
       "authors": "Youyang Yin, Huanhuan Liu, YY et al. (17 authors)",
@@ -187,11 +168,30 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 27261,
+      "github_stars": 27311,
       "project_page": null
+    },
+    {
+      "id": "1910.03771",
+      "title": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
+      "authors": "Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)",
+      "organization_name": "huggingface",
+      "organization_fullname": "Hugging Face",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png",
+      "summary": "Recent progress in natural language processing has been driven by advances in\nboth model architecture and model pretraining. Transformer architectures have\nfacilitated building higher-capacity models and pretraining has made it\npossible to effectively utilize this capacity for a wide variety of tasks.\nTransformers is an open-source library with the goal of opening up\nthese advances to the wider machine learning community. The library consists of\ncarefully engineered state-of-the art Transformer architectures under a unified\nAPI. Backing this library is a curated collection of pretrained models made by\nand available for the community. Transformers is designed to be\nextensible by researchers, simple for practitioners, and fast and robust in\nindustrial deployments. The library is available at\nhttps://github.com/huggingface/transformers.",
+      "ai_summary": "Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.",
+      "hf_url": "https://huggingface.co/papers/1910.03771",
+      "arxiv_url": "https://arxiv.org/abs/1910.03771",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/1910.03771.png",
+      "upvotes": 34,
+      "num_comments": 7,
+      "published_at": "2019-10-08T23:23:22.000Z",
+      "github_repo": "https://github.com/huggingface/transformers",
+      "github_stars": 167695,
+      "project_page": "https://huggingface.co"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-14T01:19:43.131494+00:00"
+  "fetched_at": "2026-10-14T06:31:17.494707+00:00"
 }

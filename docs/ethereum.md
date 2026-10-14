@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-14T01:20:02.901969+00:00'
+updated: '2026-10-14T06:31:33.408942+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 01:20 UTC  
+**Last Updated:** October 14, 2026 at 06:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,511.49
+### $2,509.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** -1.0%  
 **7d:** +1.2%  
-**30d:** +4.2%  
-**90d:** +35.8%  
-**1y:** -37.3%  
+**30d:** +4.3%  
+**90d:** +35.9%  
+**1y:** -37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $305.42B
+**Market Cap:** $305.70B
 Rank #2
 
-**Circulating Supply:** 122,130,710 ETH
+**Circulating Supply:** 122,133,648 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -49.4%
 
 **All-Time Low:** $0.43
-+577369.1%
++577983.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hey community, I'm wondering how someone can get offers to his ENS domains. I ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 Tom Lee is calling the end of Ethereum's long slide against Bitcoin, pointing to tokenized stocks and AI agents as the catalysts. But the data from the very week he made that call tells a very different story.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 10h ago
 
 A major source of Ethereum demand is about to disappear. That's a problem for investors.
 
-The Motley Fool • 12h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -172,13 +172,7 @@ The Motley Fool • 12h ago
 
 Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.
 
-CoinDesk • 20h ago
-
----
-
-**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
-
-Forbes • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -190,19 +184,33 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise as ‘Greed’ Persists: Analyst Says BTC Bulls Must Get ‘Moving’ From This Area](https://www.tradingview.com/news/benzinga:14cb665f0094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-greed-persists-analyst-says-btc-bulls-must-get-moving-from-this-area/)**
+**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
 
-Leading cryptocurrencies rose on Sunday as investors assessed the latest geopolitical developments in the Middle East and President Donald Trump’s potential intervention.The Sunday RallyBitcoin experienced a late-evening spike that nearly pushed it beyond $84,000, while Ethereum wobbled in a range…
-
-TradingView • 1d ago
+Forbes • 1d ago
 
 ---
 
-**[Starknet considers leaving Ethereum for a quantum-resistant Layer 1](https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/)**
+**[Current price of Ethereum for October 13, 2026](https://fortune.com/article/price-of-ethereum-10-13-2026/)**
 
-Starknet is considering an independent Layer 1 to pursue quantum resistance in 2027. Its roadmap separates its own cryptography from Ethereum dependencies.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-CryptoSlate • 2d ago
+Fortune • 15h ago
+
+---
+
+**[Bitcoin Back to $83,000 but Why Are Ethereum, Solana, XRP Weak?](https://www.tradingview.com/news/benzinga:b5c86c1fc094b:0-bitcoin-back-to-83-000-but-why-are-ethereum-solana-xrp-weak/)**
+
+Bitcoin CRYPTO:BTCUSD continues to outperform altcoins like Ethereum CRYPTO:ETHUSD, Solana CRYPTO:SOLUSD, XRP CRYPTO:XRPUSD, which have dropped between 2% and 5% over the past 24 hours.Only 11 of 66 large-cap altcoins finished last week higher, while Bitcoin dominance climbed toward 59.5%.On the ot…
+
+TradingView • 17h ago
+
+---
+
+**[Starknet coin surges as developer weighs Ethereum split over quantum security (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security)**
+
+STRK jumps as Starknet explores quantum-resistant upgrades and a potential split from Ethereum to become a Layer-1.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -214,19 +222,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Interactive Brokers Launches Ethereum Staking Through Zerohash](https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash)**
+**[Coinbase’s Base launches “Earn & Borrow” for Ethereum layer-2 apps](https://cryptobriefing.com/coinbases-base-launches-earn-borrow-for-ethereum-layer-2-apps/)**
 
-Interactive Brokers adds ETH staking through Zerohash for eligible clients, with combined fees capped at 30% of staking rewards.
+Coinbase's Base launches 'Earn & Borrow' for Ethereum apps. Ethereum reaching $10,000 by December 2026 at 0.9% YES.
 
-The Defiant • 10h ago
-
----
-
-**[Current price of Ethereum for October 13, 2026](https://fortune.com/article/price-of-ethereum-10-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading throu
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 374 • 💬 134 • ⏱️ 14:22 • 9h ago
+👁️ 13K • 👍 415 • 💬 147 • ⏱️ 14:22 • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 68 • 💬 7 • ⏱️ 23:58 • 9h ago
+👁️ 4K • 👍 78 • 💬 9 • ⏱️ 23:58 • 14h ago
 
 ---
 
@@ -260,7 +260,17 @@ At TOKEN2049 Singapore, Tom Lee joined Open Interest by Ondo to talk AI, Ethereu
 
 📺 Fundstrat
 
-👁️ 69K • 👍 974 • 💬 51 • ⏱️ 18:13 • 12h ago
+👁️ 90K • 👍 1K • 💬 64 • ⏱️ 18:13 • 17h ago
+
+---
+
+**[HUGE CANTON NETWORK, XRP, &amp; ETHEREUM NEWS! TRADFI INSTITUTIONS GO ALL IN ON TOKENIZATION!](https://www.youtube.com/watch?v=9qs9BxVEGrg)**
+
+Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Network. Ripple is partnering with Privy, a Stripe ...
+
+📺 Thinking Crypto
+
+👁️ 3K • 👍 307 • 💬 39 • ⏱️ 14:24 • 3h ago
 
 ---
 
@@ -270,27 +280,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 11K • 👍 259 • 💬 151 • ⏱️ 41:38 • 6h ago
-
----
-
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=DjoaX_9Ugxc)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 27K • 👍 370 • 💬 37 • ⏱️ 20:19 • 1d ago
-
----
-
-**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 10K • 👍 219 • 💬 9 • ⏱️ 6:47 • 21h ago
+👁️ 18K • 👍 338 • 💬 178 • ⏱️ 41:38 • 11h ago
 
 ---
 
@@ -300,7 +290,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 337 • 💬 14 • ⏱️ 24:39 • 1d ago
+👁️ 18K • 👍 342 • 💬 14 • ⏱️ 24:39 • 1d ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=DjoaX_9Ugxc)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 28K • 👍 374 • 💬 37 • ⏱️ 20:19 • 2d ago
+
+---
+
+**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 10K • 👍 221 • 💬 9 • ⏱️ 6:47 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 13th of October](https://www.youtube.com/watch?v=iHRslvBeeP8)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 592 • 👍 17 • 💬 5 • ⏱️ 8:28 • 13h ago
 
 ---
 
@@ -310,27 +330,7 @@ Crypto hack, BTC, ETH, Solana, Base back, Ethena, and Sui BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 18K • 👍 459 • 💬 34 • ⏱️ 1:06:51 • 12h ago
-
----
-
-**[CRYPTO DIP: Bear Market’s Back?! (It’s NOT... Altcoins Haven&#39;t Looked This Good In 5 Years!](https://www.youtube.com/watch?v=4ecJ4D7BsuI)**
-
-Thanks Coinbase for sponsoring this crypto video! Save 80% spot fees by using my Coinbase link!
-
-📺 Crypto Capital Venture
-
-👁️ 26K • 👍 667 • 💬 187 • ⏱️ 13:50 • 1d ago
-
----
-
-**[Is Ethereum undervalued?](https://www.youtube.com/watch?v=y53rd7UhBfo)**
-
-ETH could hit as high as $7.5K by the end of the year, a/c to Fundstrat. Oct 28: Tom Lee and Mark NewtonCMT go live with the ...
-
-📺 Fundstrat
-
-👁️ 2K • 👍 49 • 💬 3 • ⏱️ 0:49 • 13h ago
+👁️ 18K • 👍 471 • 💬 36 • ⏱️ 1:06:51 • 17h ago
 
 ---
 
