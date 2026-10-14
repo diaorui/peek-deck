@@ -25,14 +25,14 @@
       "description": "The second-largest corporate employer has bet big on robot workers to scale."
     },
     {
-      "headline": "SemiFive takes custom silicon into robots",
-      "source": "Jon Peddie Research",
-      "source_url": "https://www.jonpeddie.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oYlJpUzNqV0NuTWVDQXpPRmR3T0hXQUNoaGpQUnNPYTllM0lDLXBQSjZ6aWZfT29SalZsN1BnSVhTYU1rODMwaHNNaVJNNTE0bXdvaG5UeXZHYWxna0k1dzVDZGZFcW8xX0lxXzZNMGdrOGpRRXdTaHQzYkNSZw?oc=5",
-      "pub_date": 1791996005.0,
-      "article_url": "https://www.jonpeddie.com/news/semifive-takes-custom-silicon-into-robots/",
-      "image": "https://www.jonpeddie.com/wp-content/uploads/2026/10/semi-1.png",
-      "description": "Mobilint robotics chip joins growing production pipeline."
+      "headline": "\u2018Infinite Demand For Robots:\u2019 Inside Matter Venture Partners\u2019 $450 Million Bet On Physical AI",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3VTQVJBYjFaWU1NQmRrSWZLTlZyQ2FfdUNJeGRNVFdiSE5tS09JUHVWOXVPZ2hTTDduS01JRERPVGNBWTB3TnFkODU4UkhMLWZnNXhhVkF3QlVLNnBRSzc0RVB6QzloZEpfYUhTbXZ3aDV2V1pST093RW0zd1VqbXp2cXRpZ0VfbXVxUkpHeWg0TzlVUnAwY2NrbWE0NmYtdDJfcUdHZmV5ZVRpeUZUazEwRjg1azRKMmc2dl9RRVg3ZmdSYmUxeHJFZV9pcVFVSkMzakVyZFZmZw?oc=5",
+      "pub_date": 1792009065.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
@@ -65,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEM2eU9TZDJ3d0pNWVJTZnhwMk5YaFZ5OUEzOHlfRXpnX1ZzTU9PYjZqeXhQUG1xQ3Z0RzdOeWZDcXV4WnpCUVRqVmV5bDVoRnM2cFpIalNWZlo3OFR5WGlUdGdZd0x3cTZXdmp4bThXaUx5MVppN3E5eTJ1OVFibE0xWTBrT1B0bDk1YWpEWGVqV1YteEpOZU1uN1dnRWV5WkN6Ng?oc=5",
-      "pub_date": 1791916203.0,
-      "article_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Doug-Field.jpg?resize=800,1200",
-      "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3."
-    },
-    {
       "headline": "Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -85,14 +75,24 @@
       "description": "In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president."
     },
     {
-      "headline": "A robotics business is set to be bought with shares priced about 50% above the buyer's Oct. 12 close.",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWVpUzhuaG55MkFEUmtUcjh6SDF0OUxjMFNxN2dlYWlHQ3VqSDNjZnp3UnowU1U4dXYtdWRveFRNUHhka0RBMlQzSDBZdDJHLXA1SUdRVVVLWV9Nd1dvVjhvLXlpNUJrWTUwNzZsT1hsYzRXUzhDUlR6alpRVk1yS0lNMy01bjdBRnVNZHJReE1KRmdQVWZRcGFpRXIwb3BOQlhxT0p4ZjVVdmFXOTdvbTk3NTh0U3ZXc3c?oc=5",
-      "pub_date": 1791977400.0,
-      "article_url": "https://www.stocktitan.net/news/FFR/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ibhf2i6pbt5r.html",
-      "image": "https://www.stocktitan.net/news_covers/FF_EAI_Robotics_Ecosystem_Signs_Definitive_Agreements_to_Combine_FFAI_s_Full_Robotics_Business_at_Ab_1516354.webp",
-      "description": "The deal also includes up to $10 million in equity financing; both transactions remain subject to closing conditions, with closings expected by October's end."
+      "headline": "Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEM2eU9TZDJ3d0pNWVJTZnhwMk5YaFZ5OUEzOHlfRXpnX1ZzTU9PYjZqeXhQUG1xQ3Z0RzdOeWZDcXV4WnpCUVRqVmV5bDVoRnM2cFpIalNWZlo3OFR5WGlUdGdZd0x3cTZXdmp4bThXaUx5MVppN3E5eTJ1OVFibE0xWTBrT1B0bDk1YWpEWGVqV1YteEpOZU1uN1dnRWV5WkN6Ng?oc=5",
+      "pub_date": 1791916203.0,
+      "article_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Doug-Field.jpg?resize=800,1200",
+      "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3."
+    },
+    {
+      "headline": "Scoop: Bedrock Robotics raising $600M to automate construction",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1hXOER0Vlliajc3NE1aU0w3MEtXdi1jcHJnTDRwTEllOC1uREZWaTgyOUJXVjhyVU5md2pWODE1SEdxbGJOYlZYRWNqZkZQemQ2dnFPZER3Nzg4b0UwVFR4UWYwOHo5Mjdnd3VvZDVNTlhEampkSm9YTjlfUzE5eFFFQXZKRUR1?oc=5",
+      "pub_date": 1791927952.0,
+      "article_url": "https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Stryker dives into soft-tissue robotics with $400M play for CMR Surgical\u2019s Versius",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-14T17:48:57.494784+00:00"
+  "fetched_at": "2026-10-14T21:20:29.317632+00:00"
 }
