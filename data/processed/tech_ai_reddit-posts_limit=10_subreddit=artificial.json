@@ -24,6 +24,17 @@
       "description": null
     },
     {
+      "title": "My theory after a year of customer support: AI makes people more confident, not more correct",
+      "author": "fomodesk",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/",
+      "published": 1792052586.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I own an online store. Daily I get emails where a customer explains, with complete certainty, how my own product works, what my terms say, or what the law requires. Beautifully written, full of jargon, and often completely wrong. I use AI every day myself, so this isn't an anti-AI post. But people stopped separating \"AI told me\" from \"this is true\". Is this just a phase until people learn how to use it, or are we watching people outsource thinking at scale?"
+    },
+    {
       "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to \u2018Boost Their Own Popularity\u2019",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/",
@@ -33,28 +44,6 @@
       "site_name": "Yahoo News",
       "favicon": "https://www.yahoo.com/favicon.ico?b0867f93a36b360e",
       "description": "Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol..."
-    },
-    {
-      "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
-      "author": "jtbuadd",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
-      "published": 1791946298.0,
-      "thumbnail": "https://preview.redd.it/zu6obxqckcvh1.jpeg?width=640&crop=smart&auto=webp&s=c882cb03b915de1b6b3ce6038a25c64873eede4a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "So do you pay for both Claude and ChagGPT?",
-      "author": "Silly_Cheetah1603",
-      "url": "https://www.reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt/",
-      "published": 1792022716.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have started with ChatGPT and switched last year to Claude (and am paying for a subscription). Recently, I have been using ChatGPT and am pretty impressed. I mostly use both for work. Do people subscribe to both (Pro) or just switch from one to the other? I know it's just $20 if its the lowest tier, but I am also being cautious about my subscription expenses as it adds up!"
     },
     {
       "title": "Gemini 4 Argon apparently built this game. AI Studio is showcasing it.",
@@ -68,49 +57,60 @@
       "description": null
     },
     {
-      "title": "How much of today's agent memory stack is a workaround for the model architecture?",
-      "author": "Sun-Tzu-Maybe",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/",
-      "published": 1791988445.0,
+      "title": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
+      "author": "jtbuadd",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
+      "published": 1791946298.0,
+      "thumbnail": "https://preview.redd.it/zu6obxqckcvh1.jpeg?width=640&crop=smart&auto=webp&s=c882cb03b915de1b6b3ce6038a25c64873eede4a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Why do people blame ai for ai slop",
+      "author": "stary_galaxy_7",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6frrj/why_do_people_blame_ai_for_ai_slop/",
+      "published": 1792051381.0,
+      "thumbnail": "https://preview.redd.it/gc78h4kt8lvh1.jpeg?width=640&crop=smart&auto=webp&s=f3bc251344c01f2d3a391f9d7d1898566d26833f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I feel like more people blame ai for ai slop than the people who tell ai to generate ai slop."
+    },
+    {
+      "title": "So do you pay for both Claude and ChagGPT?",
+      "author": "Silly_Cheetah1603",
+      "url": "https://www.reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt/",
+      "published": 1792022716.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less \"cheaper reasoning\" and more \"less infrastructure devoted to reminding the model what it already learned.\" Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?"
+      "description": "I have started with ChatGPT and switched last year to Claude (and am paying for a subscription). Recently, I have been using ChatGPT and am pretty impressed. I mostly use both for work. Do people subscribe to both (Pro) or just switch from one to the other? I know it's just $20 if its the lowest tier, but I am also being cautious about my subscription expenses as it adds up!"
     },
     {
-      "title": "Should an AI writing assistant ask before making a message more persuasive",
-      "author": "Alchemistwiza",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6b7c0/should_an_ai_writing_assistant_ask_before_making/",
-      "published": 1792034908.0,
+      "title": "AI companions may reduce loneliness and increase isolation at the same time",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6el0b/ai_companions_may_reduce_loneliness_and_increase/",
+      "published": 1792046746.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Suppose someone asks an assistant to make a message clearer. It comes back smoother, but also more confident, more flattering, or harder to say no to. Those changes can quietly alter the relationship between the sender and the recipient. I would want the tool to distinguish fixing ambiguity from adding pressure, and flag when a revision changes the strength of a claim or request. Where would you draw that line Which edits should happen automatically, and which should require the sender to choose AI-assisted discussion. The scenario is hypothetical."
+      "description": "I understand why people use AI companions. They are available, patient, and less intimidating than starting a difficult conversation with another person. That can be helpful, especially for people who are isolated or anxious. But I also wonder whether an always agreeable companion could make real relationships feel unnecessarily difficult. Human relationships involve disagreement, delays, and responsibilities. Those are frustrating, but they are also part of learning how to live with other people. Can AI companionship be designed to help people reconnect with humans instead of becoming a replacement for them?"
     },
     {
-      "title": "The Age of Reason Is Safely Behind Us",
-      "author": "fivefilters",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/",
-      "published": 1791960857.0,
-      "thumbnail": "https://external-preview.redd.it/_EZFhpFlwlvEJoKHq0C8N2LqBOfbA9lIJ4picba6J5A.jpeg?width=640&crop=smart&auto=webp&s=86f95463ff468d2e51be3293fc6fab9d54f9d0e4",
-      "external_url": "https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind",
-      "site_name": "blog.keyvan.net",
-      "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
-      "description": "What Anthropic is doing, and publicly boasting about, to \u201cprotect\u201d the reasoning behind the AI answers we get when we use their models, really doesn\u2019t sit right with me."
-    },
-    {
-      "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
-      "published": 1791912611.0,
-      "thumbnail": "https://external-preview.redd.it/03KGZL2rt3MG5uoMcPYK7o9PjSl1Bb9SaNKPSn7r93k.jpeg?width=640&crop=smart&auto=webp&s=3943d5145dfff6fcc1283b1801eb37261eb84e38",
-      "external_url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
+      "title": "Photographed Text",
+      "author": "Tr00_Black_Metal",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6edaf/photographed_text/",
+      "published": 1792045911.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "What I need to do is to search through photographed and scanned archive documents, that I download in the Ukrainian and Polish languages for certain names/surnames/birthdates/village names. Often times these are very difficult to read due to the file quality and writing style due to the ages. I have used Claude which seems to perform best but runs out of credits quickly, as well as ChatGPT. Would there be any AI that is specifically made for this sort of task by any chance, maybe even a software or something?"
     }
   ],
-  "fetched_at": "2026-10-15T05:00:06.371420+00:00"
+  "fetched_at": "2026-10-15T09:46:07.552519+00:00"
 }
