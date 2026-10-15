@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-15T14:42:19.176373+00:00'
+updated: '2026-10-15T18:54:15.176878+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 14:42 UTC  
+**Last Updated:** October 15, 2026 at 18:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,345.39
+### $82,334.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -1.4%  
-**30d:** +6.9%  
-**90d:** +25.7%  
-**1y:** -24.5%  
+**24h:** +0.7%  
+**7d:** -0.4%  
+**30d:** +8.0%  
+**90d:** +27.0%  
+**1y:** -23.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1632.24B
+**Market Cap:** $1653.43B
 Rank #1
 
-**Circulating Supply:** 20,098,650 BTC
+**Circulating Supply:** 20,098,712 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.6%
+-34.8%
 
 **All-Time Low:** $67.81
-+119702.4%
++121216.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Checking in on the fiat currency experiment.](https://www.reddit.com/r/Bitcoin/comments/1x475bi/checking_in_on_the_fiat_currency_experiment/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -101,7 +101,7 @@ My friends father was renting space on his farm for a bitcoin mining operation. 
 
 I don't usually post stuff like this, but I've been a loyal Apple user since 2008 with over 7 devices on one Apple ID, plus the usual subscriptions (iCloud+, In App purchases, app subscriptions) so this one stung in a specific way. In June I downloaded an app called "Wasabi Bitcoin & Crypto Wallet" from the official App Store. It looked completely legitimate, normal listing, developer name, screenshots, reviews. It turned out to be an impersonation of the real Wasabi Wallet. Wasabi Wallet is an open-source, desktop-only software that has never had a mobile app. In August, a wallet I'd created inside that fake app was drained in a single transaction; about 0.9 BTC, roughly $53k at the time. The theft is bad enough. What's been almost as frustrating is that there's no way to actually talk to a person at Apple about it. No phone line, no support chat for this, just web forms (Apple's own "report a problem" page, and their EU "Digital Services Act" reporting portal). I filed a police report. I reported it through every official channel Apple offers. Apple's own review team closed my EU complaint with a one line reply: insufficient information, or no violation found. No further explanation. One thing that's stuck with me: with the real, open-source Wasabi Wallet, anyone can verify a release is genuine by checking its cryptographic signature on GitHub. On the App Store, there's no equivalent. As a user, you have no way to check that an app is actually from the developer it claims to be. You're just trusting Apple's review process, full stop. That trust is what got me here. What makes it sting more: Apple's own App Store Review Guidelines, not marketing copy, their actual rulebook for developers say: "These efforts have made Apple's platforms the safest for consumers around the world." That's the exact trust I was operating on. This isn't a one-off either. Security researchers found dozens of similar fake wallet apps on the App Store this year alone (Kaspersky, April 2026). There's also an ongoing US lawsuit over a nearly identical fake Sparrow Wallet app. I'm not trying to start a pile-on, I still like my Apple devices. I just wish there were an actual way to be heard, and wanted other people to be a bit more careful with anything wallet-related in the App Store, "official" or not. Happy to answer questions if anyone's curious or has been through something similar.
 
-2d ago
+3d ago
 
 ---
 
@@ -109,7 +109,7 @@ I don't usually post stuff like this, but I've been a loyal Apple user since 200
 
 Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
-2d ago
+3d ago
 
 ---
 
@@ -123,7 +123,7 @@ Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
 Money supply isn't dropping any time soon. The next run will be glorious.
 
-2d ago
+3d ago
 
 ---
 
@@ -153,33 +153,41 @@ The company confirmed physical tampering in at least one affected device. In add
 
 ## Google News: "bitcoin"
 
-**[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
+**[Bitcoin Seizures Are Raising A $5 Billion Question Linked To Who Should Benefit From The Gains](https://www.forbes.com/sites/digital-assets/2026/10/15/bitcoin-seizures-are-raising-a-5-billion-question-linked-to-who-should-benefit-from-the-gains/)**
 
-WSJ • 2d ago
+Forbes • 1h ago
 
 ---
 
-**[Live updates: Bitcoin trades below $81,000 as Nasdaq slides another 1% in early trading](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)**
+**[Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes](https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block)**
+
+(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency’s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.“The move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,” Rahman said. “In the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.”Both Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.“The 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,” he said. “This could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
+
+Kitco • 41m ago
+
+---
+
+**[Live updates: Bitcoin bounces after first fall below $80,000 in one month](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)**
 
 Jitters across equity markets are sending money into fixed income, with Western bond markets rallying strongly on Thursday.
 
-CoinDesk • 55m ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%](https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs)**
+**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-predicts-bitcoin-blow-170310227.html)**
 
-Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.
+Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
 
-CoinDesk • 10h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, copper, stocks, yields all fall; gold rises](https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises)**
+**[Better Buy Right Now: Bitcoin vs. Shiba Inu](https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/)**
 
-The day ahead in crypto: Oct. 15, 2026
+Both of these cryptocurrencies have registered positive momentum in the past three months.
 
-CoinDesk • 3h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -189,39 +197,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy’s Michael Saylor Says Bitcoin Bull Market Is Just Beginning](https://finance.yahoo.com/markets/crypto/articles/strategy-michael-saylor-says-bitcoin-132800845.html)**
-
-Michael Saylor, the chairman of serial cryptocurrency acquirer Strategy (NASDAQ: $MSTR) says a new bull market in B...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway)**
-
-Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
-
-Fox Business • 21h ago
-
----
-
-**[Better Buy Right Now: Bitcoin vs. Shiba Inu](https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/)**
-
-Both of these cryptocurrencies have registered positive momentum in the past three months.
-
-The Motley Fool • 5h ago
-
----
-
 **[Zaria raises $5M to track crypto loan collateral](https://www.axios.com/pro/fintech-deals/2026/10/14/zaria-lightspeed-5-2m-bitcoin-loan-servicing)**
 
 Axios • 1d ago
 
 ---
 
-**[BlackRock CEO Issues ‘Serious’ Warning As Bitcoin Crash Fears Suddenly Surge](https://www.forbes.com/sites/digital-assets/2026/10/15/blackrock-ceo-issues-serious-warning-as-bitcoin-crash-fears-suddenly-surge/)**
+**[Here's how analysts see U.S. inflation influencing the price of bitcoin ( BTC): Crypto Daily](https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin)**
 
-Forbes • 38m ago
+The day ahead in crypto: Oct. 14, 2026
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin price falls toward $81,500 after September CPI report](https://qz.com/bitcoin-price-falls-september-cpi-inflation-101426)**
+
+Crypto analyst sentiment has turned bullish, with 84% of analysts positive on bitcoin, according to Bloomberg
+
+Quartz • 22h ago
+
+---
+
+**[Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion](https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion)**
+
+Hot inflation data revived Fed rate-hike bets, and leveraged Bitcoin bulls paid the bill as nearly $1 billion in crypto positions were liquidated.
+
+Decrypt • 3h ago
 
 ---
 
@@ -241,7 +243,7 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 1 • 16h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
+⬆️ 2 • 💬 1 • 20h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
 
 ---
 
@@ -261,7 +263,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 **[Ask HN: What Happened in DNSSEC Yesterday?](https://news.ycombinator.com/item?id=50055306)**
 
-⬆️ 2 • 💬 4 • 3d ago
+⬆️ 3 • 💬 4 • 3d ago
 
 ---
 
@@ -269,7 +271,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 A fast, keyboard-friendly desktop Git client with a commit graph at its heart. Free and MIT licensed; Linux, Windows and macOS.
 
-⬆️ 4 • 💬 0 • 14h ago • [GitVolt](https://gitvolt.com/)
+⬆️ 4 • 💬 0 • 18h ago • [GitVolt](https://gitvolt.com/)
 
 ---
 
@@ -285,13 +287,33 @@ Learn more about how Microsoft 365 subscriptions now use shared cloud storage in
 
 ## YouTube Videos: "bitcoin"
 
+**[🚨 Everyone Is WRONG About Bitcoin Right Now!](https://www.youtube.com/watch?v=2Yni82DI-qQ)**
+
+Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
+
+📺 DataDash
+
+👁️ 2K • 👍 96 • 💬 18 • ⏱️ 13:38 • 3h ago
+
+---
+
 **[Why Bitcoin Sold Off Today (And Why I’m Not Worried)](https://www.youtube.com/watch?v=X-IqUxY-700)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 252 • 💬 30 • ⏱️ 16:46 • 7h ago
+👁️ 11K • 👍 317 • 💬 38 • ⏱️ 16:46 • 11h ago
+
+---
+
+**[Bitcoin Faces an $80K Test as Global Markets Crack](https://www.youtube.com/watch?v=OT9-DT-SEOk)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 522 • 💬 51 • ⏱️ 42:05 • 2h ago
 
 ---
 
@@ -301,7 +323,7 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 2K • 💬 122 • ⏱️ 11:55 • 14h ago
+👁️ 84K • 👍 2K • 💬 131 • ⏱️ 11:55 • 18h ago
 
 ---
 
@@ -311,67 +333,17 @@ Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market i
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 109 • ⏱️ 14:20 • 16h ago
+👁️ 38K • 👍 2K • 💬 115 • ⏱️ 14:20 • 20h ago
 
 ---
 
-**[Bitcoin CRASHES on CPI Data: EXACT Support Levels You Must Watch](https://www.youtube.com/watch?v=ycL7j92IqVc)**
+**[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
 
-Hot inflation data hit Bitcoin and the whole altcoin market. Here's where the floor could be. Trade alongside the Verified Pro ...
+Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Verified Investing
+📺 Altcoin Daily
 
-👁️ 16K • 👍 451 • 💬 30 • ⏱️ 18:35 • 20h ago
-
----
-
-**[The Viral Post That Sparked a Bitcoin Debate](https://www.youtube.com/watch?v=lA9Zo2-PVzA)**
-
-Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning that paper Bitcoin and digital credit could ...
-
-📺 Natalie Brunell
-
-👁️ 83K • 👍 2K • 💬 94 • ⏱️ 2:56 • 1d ago
-
----
-
-**[Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment](https://www.youtube.com/watch?v=GpYuwAfZZq8)**
-
-Michael Saylor, founder & executive chairman of Strategy, joins Carol Massar and Tim Stenovec on "Bloomberg Crypto.
-
-📺 Bloomberg Television
-
-👁️ 100K • 👍 1K • 💬 224 • ⏱️ 19:31 • 1d ago
-
----
-
-**[Market Uncertainty Surges!🚨Inflation, War, AI🔥Bitcoin Breaking $81k?](https://www.youtube.com/watch?v=N_fSFEk5x3s)**
-
-Hot inflation data, surging oil, a widening Middle East war, cracks in the AI trade and a weakening consumer are all hitting at once, ...
-
-📺 Paul Barron Network
-
-👁️ 60K • 👍 2K • 💬 116 • ⏱️ 19:07 • 19h ago
-
----
-
-**[🚨BITCOIN: THIS IS THE MOMENT OF TRUTH... (LIVE)](https://www.youtube.com/watch?v=DxUvQhThhdY)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 11K • 👍 461 • 💬 4 • ⏱️ 1:51:26 • 1h ago
-
----
-
-**[Bitcoin&#39;s Inflation Test Just Came In Hot - What&#39;s Next?](https://www.youtube.com/watch?v=yYklTYr0Hik)**
-
-Bitcoin #Crypto #finance Coinbase is urging Bitcoin to prepare for future quantum threats, while Strive plans to raise $500M to ...
-
-📺 The Wolf Of All Streets
-
-👁️ 28K • 👍 750 • 💬 153 • ⏱️ 45:17 • 1d ago
+👁️ 103K • 👍 3K • 💬 144 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -381,7 +353,37 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 226 • 💬 3 • ⏱️ 19:47 • 16h ago
+👁️ 11K • 👍 245 • 💬 5 • ⏱️ 19:47 • 20h ago
+
+---
+
+**[(WARNING) Every CRYPTO Bull Market Had This Dip First (And It’s Happening Right Now)](https://www.youtube.com/watch?v=g9qGxP3DMac)**
+
+Thanks Coinbase for sponsoring this crypto video! Save 80% spot fees through my link! https://coinbase.com/aff/ccv?s=youtube ...
+
+📺 Crypto Capital Venture
+
+👁️ 5K • 👍 348 • 💬 80 • ⏱️ 15:34 • 3h ago
+
+---
+
+**[Why Bitcoin and Silver Are About to Explode (Troy Black Prophecy)](https://www.youtube.com/watch?v=JTa6eniYgqk)**
+
+The new channels name is " Economic News Ninja " You can sign up for my free newsletter here: ...
+
+📺 The Economic Ninja
+
+👁️ 53K • 👍 2K • 💬 370 • ⏱️ 8:51 • 21h ago
+
+---
+
+**[Bitcoin Warning: Key Level Just Broken! 🚨](https://www.youtube.com/watch?v=2Bx8_wCUomQ)**
+
+This is all about the key level which has just broken for Bitcoin. Big news for all Bitcoin, Ethereum, Solana and Altcoin investors.
+
+📺 Investing Made Simple
+
+👁️ 8K • 👍 398 • ⏱️ 13:37 • 5h ago
 
 ---
 

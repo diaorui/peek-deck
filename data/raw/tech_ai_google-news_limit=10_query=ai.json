@@ -5,47 +5,7 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
-      "pub_date": 1792065669.0,
-      "article_url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
-      "image": "https://assets.aboutamazon.com/dims4/default/a7b66dd/2147483647/strip/true/crop/2000x1000+0+126/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F20%2F14%2F9d6951844795a24f71e544c24dce%2Fbee-frontier-eclipse-hero-amazonnews-ck101426.jpg",
-      "description": "Bee expands its ambient AI family with two personal AI devices designed to remember the moments that matter most, plus new integrations with Alexa+ and Amazon.com."
-    },
-    {
-      "headline": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGY4UENqVGdWazRXQUN1WG9iZGlhOW04RmlXZnQxWGU4c0xYTE4wTXRKWmV2c3dQSjVTS1ZWYzR5a2d4bUtCc2haODJBQkdWdVVWRkg5RUQzUk1YV0RiTWNiN0hpNHduelQyQkNGNXE3eVFHWFRLSElVdy1oZmhPeNIBhgFBVV95cUxOZjJ0Rm9KdWRnSnBJRHJpWDBQdnRKZUFUYkRXRHVHYUxrSkl4NTY2LXRRTGdSc3BuTEFHWUs5clNkVjl0T1Y5ODJlTU9NdUhLcTV0eUtQX1kwclZYd2NFcS15bUd4R3RFYndyazBhTmxxSlhYY0V2N05lVXZhMkhRcjZ2WHFzQQ?oc=5",
-      "pub_date": 1792065601.0,
-      "article_url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
-      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone."
-    },
-    {
-      "headline": "Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWk8xX3ZQNnpTNkpHUjYwN190TzhqQzBFVzZuanlhLWZFQTN1SHZVOG5ZVWF3RXprRUMyMXBRR3pILUt1a3BmZTUxS1NEdVRycGRsTU5fUDZrb1JBSV8ybkpId3dDb1JuYUlxdTFEdXE4aF9SNWR5eWFfLVUtR3o0WlI0T0lwUWpSSmhfc0lDbFd2NEtiWGNLV0Jyd3hFYkxzXzZ0dHB3OFpnUG5HOVBSOFN3aEFjSU8xamtV?oc=5",
-      "pub_date": 1792065632.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Scientists are finding AI may make us remember things that never happened",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUp6RVZiZmYxYjBWLWFpNldiYlY1NWFFenNFVFNUaVZxVUo4LTRDZW15Yy1CeU9Wa0N5bjhobUNGVk1STzBtQ3NYeUtrb1drM0d6QUFDMFJoM3ZWQTh4U1ZKX2ZtaEVSeDYwTUg3QUU3WHdLa2pINWZQcnd5bVd1VldacV9OaGhKdVh0Ti02c0RueGxnQ2FKMmpnUzg5N2dzU1I1bW9yMENMSDEyOGdIblVlS013cnlMbEZ0N0dYSmc?oc=5",
-      "pub_date": 1792071169.0,
-      "article_url": "https://www.washingtonpost.com/health/2026/10/15/scientists-are-finding-ai-may-make-us-remember-things-that-never-happened/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YQEWOD4SK5FITLGQJ2UE3S3XFE.jpg&w=1440",
-      "description": "Studies show that artificial intelligence can distort memories, raising questions about what happens when machines become keepers of the past."
-    },
-    {
-      "headline": "Global tech sell-off deepens as enthusiasm for AI stocks wobbles",
+      "headline": "Global chipmaker sell-off deepens as enthusiasm for AI stocks wobbles",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44QURFNXNKc2JOay1PenlxMHdlOGxDMzd5a2xiV1ZXWmtmT2FEWTJ0NVJPSVBOTGs2YnFXUFJQWWtPQ3phYnhIMXZheTRfc051QUczOU9Md1NFRFdhZlVnZ0R3Y1pvSGU0SlBHV1l5TFBydjdwS3c?oc=5",
@@ -55,34 +15,24 @@
       "description": "Global technology stocks sold off sharply Thursday, as a growing list of worries, including rising borrowing costs and tougher competition from China, caused traders to sour on AI investments."
     },
     {
-      "headline": "Nobody is safe from celebrity AI deepfakes",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTRUakVKR05uUTROZnZZbmdudGREWWJSN2RHN1BkcWxDWnR3emtEblktd0p6T3k4UUFMU2MtTnFiTEF4UnVrYlBSSFFBTHFYV1RldVUxTll4OHp0VVViQ2hXbkp2YmdVa3JsazFxMVo2NEV0cm5MaDlPaGd4SDBHOVN5aUkzR2YwYS1RcGM0MWhjMWZZOWtNSkRMWDNxVlE?oc=5",
-      "pub_date": 1792073022.0,
-      "article_url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Meta doesn\u2019t require labels for AI-generated still images."
+      "headline": "Cracks are beginning to show in the stock market, as doubts grow about AI investments",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEpUNXhwc2JkVzhOd282UndZbzRHYnRvY0I5MWlRZEhveFZYZGVLYVFUUy1iR21XVE5XQ05KUlk5Rm54RmFHdUEtWnMtcENhNTBaM2xvTTZfQW5CZ3VITTQ2aHFIVU1rOUVRSXl3cjM5NUgxU3RMYkJpd0dHWjZJUWVZWVZhTWhKWkpqNVo4Slg?oc=5",
+      "pub_date": 1792078699.0,
+      "article_url": "https://www.nbcnews.com/business/markets/stock-market-ai-data-centers-doubts-rcna603710",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-nyse-ch-1131-52532c.jpg",
+      "description": "Consumers already face a host of stressors. If AI spending \u2014 and tech stocks \u2014 show signs of sustained decline, U.S. economic growth could be at risk."
     },
     {
-      "headline": "Opinion | What the Frontier Labs Know That We Don\u2019t",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnFiYk5NYWNMRGtyVHV4Z2VuZW1jRFgwZEc1eWpkc0lNTUNYcms0QnBhQm04T284UEJpdi1Ebk9ja3gxWlFLVUdFUENuci1nTDhRaGpVWGRuNl9RNzhzT2Nab2xGeVp2d05LX0dRRVliQ01EaDYySVR6THhFRTVqNVhTTnZaUHppUGtQQU9GR0ZVYXc2ZHc?oc=5",
-      "pub_date": 1792055062.0,
-      "article_url": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
+      "headline": "Wall Street steadies following jarring drops for AI stocks worldwide",
+      "source": "The Seattle Times",
+      "source_url": "https://www.seattletimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDRTSXJmaGtTTDBxbFp6dkdYM3FjNzlyYXBuWVJqY2o4b1VSTVRBRUktNVRyTFdGM0tqenkzZkptTG1WTjZuRkxzYTZnWGFCUzN6LXNnd1dENDZMU180Mk9id21DZGhJNllYNXdvSVhrOFRVVktWZEhSUGY5S1FxZ20wTlpEdUpnMkwwZ3Q0V2VMMG40R3dLMmNaZUcyajk5WXdTTE95UGtObEk?oc=5",
+      "pub_date": 1792086667.0,
+      "article_url": "https://www.seattletimes.com/business/wall-street-steadies-following-jarring-drops-for-ai-stocks-worldwide/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "In the cutthroat world of online dating, men use AI to put their best face forward",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Vakd4SFU3cDJ3SUVja3dTMk9wQVBZM1JMbE9SRmNTUmd3bkJLOXJQeGlzZ2RSSjJwQjZ0dmFkNW1BUHgwMnhETXlNNEpJeUtRZnZBUDJ0WEpTZEhZcEktSENma1VxajhVUlJGM0NTVzBpUQ?oc=5",
-      "pub_date": 1792009080.0,
-      "article_url": "https://www.cbsnews.com/news/dating-apps-ai-photos-authenticity/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/13/e351476f-e014-426d-a50c-081ea93e9bb9/thumbnail/1200x630/3fee0a878c80621313fc64ce9a6ef159/gettyimages-2179836771.jpg",
-      "description": "How much AI is too much when it comes to finding love on the apps? \"It's very subtle,\" one dating app user said of his AI-enhanced photos."
     },
     {
       "headline": "Anthropic wants to protect its AI - from you. Welcome to the consciousness crisis",
@@ -95,16 +45,66 @@
       "description": "Some of tech's most powerful leaders are treating AI like it's alive. It could have profound consequences for our world and your own personal safety."
     },
     {
-      "headline": "AI Companies Play Cat-and-Mouse With Secret-Stealing Spies",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkJnRW1qeWM1bnB2alVtdjRzT1dkVGlaamNDSzlSdHhBODN2c2ZSSFhXck1oN1NscXdHT3FIZ1Z2WUIza2dYWGRLWjA2emZURlR6R2NWWHlEby1taTBNZmFLdWQ5dTQ1N3ZxMlRjanNjYzB4eUFBMTFqNllSbHlDaWttejZEaUV6c2FvQjBrVW1xTXhvcEQ4RU56QQ?oc=5",
-      "pub_date": 1792029357.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b",
+      "headline": "Anthropic brings Wall Street an AI bull case",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54SHBUZTZOTFVuY3lZY1FaSnNrVGVjZ0g1OWtJNW9NLUlZYllOSVFIMEhQSTBPblZRS3B2WVVTUGItd253UWdycW9hQ2xRUEpkbkVXcl9nVHhFVVA1Tzk5bGNhS2tBaVNKY2tyZ1dRMXg?oc=5",
+      "pub_date": 1792056627.0,
+      "article_url": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "'Not good enough. It's over': The AI doomers are going off on Anthropic's revenue figures",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXcxTGkwcjhjY256WGRnRElEaFY2WUtOd3ZMN0FfUW10V1MzeEtHX1Z6MjJ6SlFoaFdVVk1NZ3dPMWRaSzYzRTRNNnBKWEFuRkVWSkFoTWlhcnBGY1QxSlR4VXNLT0dqSXcwdzZVaXJlV3hRXzlxZjZUbzRCdXNmYV84bDlNTlN6c0tEa090SQ?oc=5",
+      "pub_date": 1792087380.0,
+      "article_url": "https://www.businessinsider.com/anthropic-revenue-ipo-ai-doomer-tech-investing-2026-10",
+      "image": "https://i.insider.com/6ad0e737adb77227909a5efd?width=1200&format=jpeg",
+      "description": "The AI skeptics had a lot to say about Anthropic's Q3 revenue figure as the company lays the groundwork for a historic IPO."
+    },
+    {
+      "headline": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2R6b28zVWVNazBoaTJJdkN6c0lwb3FYVDZsaGx6d05lY0V5eUo4aHF4VWU1STRnVUZaam8tMjdwblhzdXNhQzBhWF9qd1RNc0NHX2JONUhHWjNJSzhXWk1CYUVvZXZtSVZ3RG9fRWttYTRGWnpHdlZGZlRNSmlHZzh3SGhNQ08zcFhrTGVYandES2VGaFJMMlBCd0Z6a1pFcDhIbXlsbk5RanhzS3gwZjkwdXVGMlZvUGc?oc=5",
+      "pub_date": 1792088427.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_social.width-1300.png",
+      "description": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware."
+    },
+    {
+      "headline": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
+      "pub_date": 1792083600.0,
+      "article_url": "https://www.wsj.com/tech/ai/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-a28fde11",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPMHkzbG9EYWhwX241Y1R3ZmJmbExHdXAyQnRZOEUzM1dfaXBiMmZGYjNQM2IzT2NGUW1PM1hMSkhTZmpNN3VfNlR2eEUxSXZnUnNpQjZRd0NxQjJjSnBqZHhWbW9wb1NJTG1LbU5fa0Rod215cVhjanEyYw?oc=5",
+      "pub_date": 1792083671.0,
+      "article_url": "https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3pPT0ljOXJuSHdsc29HaHNETzJ3cTdpbEJxRHIxcXFFOExEUGZybzJRZ2VCUXRzQ3FPQ0tCWTZXdzd6SlJYYlJsN3V3U1J4ZTZIQnJLOFdSOVhZNzF6bkNwemJnZUt2NkRHVGVVaTBhUjRpTU5OX3ZULXNaZmt0bUhOTQ?oc=5",
+      "pub_date": 1792088136.0,
+      "article_url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "\u201cWe\u2019re excited for mommy and daddy to be playing nice again.\u201d"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T14:42:18.116496+00:00"
+  "fetched_at": "2026-10-15T18:54:12.775085+00:00"
 }

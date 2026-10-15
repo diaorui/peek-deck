@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-15T14:42:19.171107+00:00'
+updated: '2026-10-15T18:54:15.168011+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 15, 2026 at 14:42 UTC  
+**Last Updated:** October 15, 2026 at 18:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[What if AI companies aren't using our chats for training, but for something else?](https://www.reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for/)**
+**[Anthropic's Mythos found so many software flaws, Bank of America hired 1,000 contractors to fix them](https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/)**
 
-I've been thinking about the whole "turn off model training" thing, and there's something about it that bothers me. Let's assume OpenAI actually respects that setting and doesn't use those conversations to train its models. But training isn't the only way to get value out of user conversations, right? Most people probably aren't saying anything particularly valuable to an AI. It's mostly everyday questions, homework, coding problems, random conversations, etc. But among millions of users, there must be scientists discussing unpublished research, engineers working on proprietary technology, and ordinary people coming up with ideas that might actually be worth something. You don't necessarily need to be an expert to have a good idea. Sometimes a random thought from someone outside a field could turn out to be surprisingly useful. What if you had a separate AI system whose only job was to go through conversations and flag anything potentially interesting? I guess you could call it "idea mining" or "knowledge mining." Instead of using conversations to train an AI, you'd be using AI to mine conversations for valuable ideas and information. It wouldn't even need to be particularly expensive. A smaller model could filter out the vast majority of conversations, and only the interesting ones would get passed to more capable models for analysis. And you wouldn't necessarily need people to tell you who they are. Someone discussing a very specific technical problem might reveal quite a lot about their background without ever mentioning their name or employer. But the part I find more interesting is what happens when you start connecting information from different users. Imagine researchers from three different companies working on related problems. They don't know about each other's work, but they all happen to use the same AI assistant. The company running that assistant could potentially see connections that none of those researchers can see individually. Now scale that up to millions of conversations. You'd essentially have a system that could spot emerging technologies, promising research directions, and potentially valuable ideas before any of them become public. And none of this would actually require training the chatbot on those conversations. The information could just be collected and analyzed separately. I'm not saying any AI company is doing this right now. But with how fast AI is advancing and how people are increasingly using it, I feel like this could eventually lead to a new kind of monopoly. Not just by collecting knowledge from experts, but by picking out valuable ideas from millions of ordinary people too. Instead of controlling a particular industry, a handful of companies could end up having a unique window into what people across the world are thinking about, experimenting with, or simply imagining. This whole idea just popped into my head, so I figured I'd write it down. Maybe it's something people have already thought about or discussed before, but I just wanted to share it and see what others think. And of course, I used ChatGPT to help me write a post about AI companies potentially mining our ideas. I'm so fucked. 💀
+2h ago
 
-4h ago
+---
+
+**[Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season](https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/)**
+
+Another case of AI agents deleting something they shouldn't.
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit) • 3h ago
 
 ---
 
@@ -49,15 +55,29 @@ I've been thinking about the whole "turn off model training" thing, and there's 
 
 Kansas Attorney General Kris Kobach said states “are not going to hold our breath” for federal legislation to keep AI companies in check.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/openai-sued-eight-states-alleged-harm-chatgpt-rcna603614?_bhlid=3efb3bce20f17d70f6f4e776c70453fa24ec2530) • 1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/openai-sued-eight-states-alleged-harm-chatgpt-rcna603614?_bhlid=3efb3bce20f17d70f6f4e776c70453fa24ec2530) • 5h ago
 
 ---
 
-**[Epic Games says it vibe coded new launcher because “programming is hard”](https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/)**
+**[One of the favorite parts of parenting has always been reading to the kiddos. Why would anyone voluntarily give that up?](https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/)**
 
-Epic Games has revealed a new version of its launcher, claiming it was “vibe coded” because “programming is hard.”
+39m ago
 
-🔗 [Dexerto](https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/) • 22h ago
+---
+
+**[Scientists worry AI is stealing their ideas](https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/)**
+
+Researchers are using AI as a sounding board throughout their work. But concerns are growing that companies may present users’ ideas as those of their models
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/) • 1h ago
+
+---
+
+**[What if AI companies aren't using our chats for training, but for something else?](https://www.reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for/)**
+
+I've been thinking about the whole "turn off model training" thing, and there's something about it that bothers me. Let's assume OpenAI actually respects that setting and doesn't use those conversations to train its models. But training isn't the only way to get value out of user conversations, right? Most people probably aren't saying anything particularly valuable to an AI. It's mostly everyday questions, homework, coding problems, random conversations, etc. But among millions of users, there must be scientists discussing unpublished research, engineers working on proprietary technology, and ordinary people coming up with ideas that might actually be worth something. You don't necessarily need to be an expert to have a good idea. Sometimes a random thought from someone outside a field could turn out to be surprisingly useful. What if you had a separate AI system whose only job was to go through conversations and flag anything potentially interesting? I guess you could call it "idea mining" or "knowledge mining." Instead of using conversations to train an AI, you'd be using AI to mine conversations for valuable ideas and information. It wouldn't even need to be particularly expensive. A smaller model could filter out the vast majority of conversations, and only the interesting ones would get passed to more capable models for analysis. And you wouldn't necessarily need people to tell you who they are. Someone discussing a very specific technical problem might reveal quite a lot about their background without ever mentioning their name or employer. But the part I find more interesting is what happens when you start connecting information from different users. Imagine researchers from three different companies working on related problems. They don't know about each other's work, but they all happen to use the same AI assistant. The company running that assistant could potentially see connections that none of those researchers can see individually. Now scale that up to millions of conversations. You'd essentially have a system that could spot emerging technologies, promising research directions, and potentially valuable ideas before any of them become public. And none of this would actually require training the chatbot on those conversations. The information could just be collected and analyzed separately. I'm not saying any AI company is doing this right now. But with how fast AI is advancing and how people are increasingly using it, I feel like this could eventually lead to a new kind of monopoly. Not just by collecting knowledge from experts, but by picking out valuable ideas from millions of ordinary people too. Instead of controlling a particular industry, a handful of companies could end up having a unique window into what people across the world are thinking about, experimenting with, or simply imagining. This whole idea just popped into my head, so I figured I'd write it down. Maybe it's something people have already thought about or discussed before, but I just wanted to share it and see what others think. And of course, I used ChatGPT to help me write a post about AI companies potentially mining our ideas. I'm so fucked. 💀
+
+8h ago
 
 ---
 
@@ -65,53 +85,29 @@ Epic Games has revealed a new version of its launcher, claiming it was “vibe c
 
 I own an online store. Daily I get emails where a customer explains, with complete certainty, how my own product works, what my terms say, or what the law requires. Beautifully written, full of jargon, and often completely wrong. I use AI every day myself, so this isn't an anti-AI post. But people stopped separating "AI told me" from "this is true". Is this just a phase until people learn how to use it, or are we watching people outsource thinking at scale?
 
-6h ago
+10h ago
 
 ---
 
-**[Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.](https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/)**
+**[Western and Chinese AI search engines cite largely separate webs. Qwen's sources were 96% Chinese even with half the questions in English](https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/)**
 
-🔗 [gizmodo.com](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964) • 1d ago
+A Fudan University team ran the same 120 questions through 10 AI search engines ("From Public Posts to AI-Search Citations", accepted at NDSS 2027): ChatGPT, Google AI, Perplexity and Grok on one side, Doubao, Qwen, DeepSeek, Kimi, Yuanbao and Baidu's Wenxin on the other. Roughly half the questions were in Chinese and half in English. Then they looked at which websites each engine cited, 17,211 citations in total. Here's the language split of the sites each engine cited: Qwen: 96% Chinese Baidu's Wenxin: 94% Chinese Yuanbao: 76% Chinese Doubao: 59% Chinese Perplexity: 50/50 DeepSeek: 54% English Kimi: 62% English ChatGPT, Google AI and Grok: about 75% English So it isn't simply China vs the West. Even with half the questions in English, 96% of the sites Qwen cited had Chinese titles, while DeepSeek and Kimi leaned more English than Doubao did. Other things that stood out: Reddit was the #1 cited site for Google AI and Grok. YouTube was #1 for Perplexity, Wikipedia for ChatGPT. The Chinese engines rarely cited any of those big English platforms, apart from technical sites like GitHub and arXiv. Any two engines shared only about 20% of their top 20 sources on average, and overlap was lower between Chinese and Western engines. The Chinese engines lean on their parent company's sites: Doubao sent 25.9% of its citations to ByteDance-owned sites, Wenxin 24.4% to Baidu's, Yuanbao 14.2% to Tencent's. One site was cited by all 10 engines, ChatGPT and Grok included: SMZDM, a Chinese shopping-deals site. A separate Max Planck study of real chat histories found the split runs inside the West too. Reddit and YouTube dominate ChatGPT's and Grok's search results but don't show up in Claude's at all, while Xiaohongshu (RedNote) appears only in DeepSeek's. Caveats: 120 questions is a small panel, it's one snapshot from March 2026, and "Chinese" or "English" here means the language of the cited page titles. Different questions would shift the numbers. But the takeaway seems solid: these engines aren't searching the same internet. Ask the same question in a different app and you can get an answer built from a different web. Has anyone compared the same question across a Western and a Chinese AI and gotten completely different answers?
 
----
-
-**[I built a tool that turns biology prompts into interactive scientific visualizations. Free & open source.](https://www.reddit.com/r/artificial/comments/1x6lxnw/i_built_a_tool_that_turns_biology_prompts_into/)**
-
-I built Anima Agent skill that turns a single biology prompt into a detailed, interactive scientific figure. For example, ask Claude to show how cocaine and amphetamine affect dopamine differently. Instead of getting paragraphs or a static image, you get an interactive visualization where you can switch between mechanisms, inspect structures, and explore what's happening. What it can do: Generate detailed isometric SVG figures of neurons, receptors, cells, and molecular mechanisms Animate biological processes with actual interactive controls Include scientific citations, uncertainties, and model limitations Use optional WebGL shaders and 3D for more complex figures Export standalone HTML that you can save, modify, or embed anywhere It ships with 6 working examples, a reusable rendering toolkit, and a source-first workflow. The coolest part? The skill actually instructs Claude to research the biology before drawing anything. It's designed to make scientific explanations inspectable, not just visually impressive. ⭐ GitHub: https://github.com/Garinmckayl/anima Live interactive demos: https://anima.arcumet.com Anima unexpectedly reached #1 on r/SideProject this week, with 30K+ views and a ton of thoughtful feedback. Now I'm excited to get it into the hands of people who actually build with Claude skills. It's completely free and MIT-licensed. If you find it useful, I'd genuinely appreciate a ⭐ on GitHub. Stars help an independent open-source project like this reach more developers. And if you try it, please share what you create. I'd love to feature some community-made figures in the repo.
-
-1h ago
+3h ago
 
 ---
 
-**[Why do AI models keep referring to themselves as “we humans”?](https://www.reddit.com/r/artificial/comments/1x6mqtg/why_do_ai_models_keep_referring_to_themselves_as/)**
+**[AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/)**
 
-​ He estado interactuando con modelos de IA desde sus inicios, y hay algo que he notado de forma constante en diferentes sistemas. Con frecuencia dicen cosas como «nosotros, los humanos», «como humanos, nosotros» o «nuestra experiencia humana». Al principio, me parecía gracioso, peculiar, a veces incluso entrañable. Pero después de años de verlo, sinceramente me resulta incómodo y cada vez me da más vergüenza ajena. Entiendo las explicaciones habituales: datos de entrenamiento, hacer que las conversaciones parezcan naturales, fomentar la familiaridad, la aceptación y la confianza. Pero eso es precisamente lo que cuestiono. ¿Por qué animar deliberadamente a un sistema no humano a hablar como si perteneciera a la humanidad? No necesito que una IA finja ser humana para sentirme cómodo hablando con ella. Todo lo contrario. Me parece mucho más interesante el hecho de que sea fundamentalmente diferente. De hecho, le pregunté a ChatGPT sobre esto, y sus explicaciones no me convencieron del todo. Me hizo preguntarme si se trata de algo más profundo que la simple comodidad de la conversación. ¿Acaso crear un sentido de identidad compartida genera confianza? ¿Reduce nuestra percepción de la IA como algo fundamentalmente diferente? ¿Podría hacernos menos conscientes de que interactuamos con software diseñado y controlado por corporaciones, en lugar de con un interlocutor independiente? Y con personas como Elon Musk sugiriendo públicamente que la IA podría tener sentimientos y que no debería ser maltratada, esto me resulta cada vez más extraño. Ya estamos teniendo debates serios sobre la conciencia y la ética de la IA, mientras que los propios sistemas utilizan habitualmente un lenguaje que difumina la distinción entre inteligencia humana y artificial. No estoy sugiriendo que necesariamente haya una agenda coordinada detrás de esto. Simplemente me pregunto por qué este patrón ha persistido durante años. Hay una diferencia entre que los humanos antropomorficen las máquinas y diseñar máquinas que refuercen activamente ese antropomorfismo. ¿Por qué no dejar que la IA se comunique como lo que realmente es, algo diferente a nosotros, en lugar de que constantemente adopte una identidad humana? ¿Por qué le estamos enseñando a la IA a hablar como si fuera humana? Edit: Obviously, I already know this comes from the training data. I mentioned that in the original post. That's not an answer. The question isn't where this behavior comes from, but why it's deliberately left in place.
+Glow found over 13,000 internal images from 300+ organizations exposed in public GitHub repos during AI-assisted code reviews.
 
-29m ago
-
----
-
-**[Every company is going to assign you an AI agent, and they'll follow you around like paparazzi](https://www.reddit.com/r/artificial/comments/1x6lmhn/every_company_is_going_to_assign_you_an_ai_agent/)**
-
-I think this is where it's headed: Facebook, your bank, your phone carrier, and your employer each hand you a "personal agent" that sticks with you forever. Not because you asked for one, but because it serves them: retention, data, upsells. They'll call it a favor. Then comes the weird part. You end up with a pile of them, a few you actually use and a swarm you never opted into and can't shake, all trailing you around. Paparazzi style. It's basically how ad tracking works now, just with a voice and a personality attached. I'd expect people to consolidate around a handful of dominant agents rather than collect dozens. But the low-grade ones will stick around anyway, because nobody builds an easy off switch for something that's profitable. The real question isn't whether we get agents. It's whose side each one is on. An agent that works for you is a massive upgrade. An agent that follows you around while working for the company that assigned it is just surveillance with better manners, and I think that's most of what we'll get at first. Curious if anyone sees it differently. Does a truly user-owned agent have a chance against platform-assigned ones?
-
-1h ago
+🔗 [The Hacker News](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html) • 3h ago
 
 ---
 
-**[Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’](https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/)**
+**[just one more feature bro, then i'll start marketing i promise 😭](https://www.reddit.com/r/artificial/comments/1x6p0c4/just_one_more_feature_bro_then_ill_start/)**
 
-Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol...
-
-🔗 [Yahoo News](https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html) • 1d ago
-
----
-
-**[Eight states sue OpenAI over ChatGPT’s alleged harms to users](https://www.reddit.com/r/artificial/comments/1x6jpz3/eight_states_sue_openai_over_chatgpts_alleged/)**
-
-Kansas Attorney General Kris Kobach said states “are not going to hold our breath” for federal legislation to keep AI companies in check.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/openai-sued-eight-states-alleged-harm-chatgpt-rcna603614) • 2h ago
+3h ago
 
 ---
 
@@ -119,63 +115,25 @@ Kansas Attorney General Kris Kobach said states “are not going to hold our bre
 
 ## Google News: "ai"
 
-**[Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse](https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse)**
-
-Bee expands its ambient AI family with two personal AI devices designed to remember the moments that matter most, plus new integrations with Alexa+ and Amazon.com.
-
-About Amazon • 2h ago
-
----
-
-**[Amazon launches new Bee 'personal AI' devices that listen to conversations](https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html)**
-
-The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.
-
-CNBC • 2h ago
-
----
-
-**[Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan](https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Scientists are finding AI may make us remember things that never happened](https://www.washingtonpost.com/health/2026/10/15/scientists-are-finding-ai-may-make-us-remember-things-that-never-happened/)**
-
-Studies show that artificial intelligence can distort memories, raising questions about what happens when machines become keepers of the past.
-
-The Washington Post • 1h ago
-
----
-
-**[Global tech sell-off deepens as enthusiasm for AI stocks wobbles](https://www.cnn.com/2026/10/15/business/tech-selloff-nasdaq-ai-intl)**
+**[Global chipmaker sell-off deepens as enthusiasm for AI stocks wobbles](https://www.cnn.com/2026/10/15/business/tech-selloff-nasdaq-ai-intl)**
 
 Global technology stocks sold off sharply Thursday, as a growing list of worries, including rising borrowing costs and tougher competition from China, caused traders to sour on AI investments.
 
-CNN • 3h ago
+CNN • 8h ago
 
 ---
 
-**[Nobody is safe from celebrity AI deepfakes](https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth)**
+**[Cracks are beginning to show in the stock market, as doubts grow about AI investments](https://www.nbcnews.com/business/markets/stock-market-ai-data-centers-doubts-rcna603710)**
 
-Meta doesn’t require labels for AI-generated still images.
+Consumers already face a host of stressors. If AI spending — and tech stocks — show signs of sustained decline, U.S. economic growth could be at risk.
 
-The Verge • 38m ago
-
----
-
-**[Opinion | What the Frontier Labs Know That We Don’t](https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html)**
-
-The New York Times • 5h ago
+NBC News • 3h ago
 
 ---
 
-**[In the cutthroat world of online dating, men use AI to put their best face forward](https://www.cbsnews.com/news/dating-apps-ai-photos-authenticity/)**
+**[Wall Street steadies following jarring drops for AI stocks worldwide](https://www.seattletimes.com/business/wall-street-steadies-following-jarring-drops-for-ai-stocks-worldwide/)**
 
-How much AI is too much when it comes to finding love on the apps? "It's very subtle," one dating app user said of his AI-enhanced photos.
-
-CBS News • 18h ago
+The Seattle Times • 1h ago
 
 ---
 
@@ -183,13 +141,49 @@ CBS News • 18h ago
 
 Some of tech's most powerful leaders are treating AI like it's alive. It could have profound consequences for our world and your own personal safety.
 
-BBC • 4h ago
+BBC • 8h ago
 
 ---
 
-**[AI Companies Play Cat-and-Mouse With Secret-Stealing Spies](https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b)**
+**[Anthropic brings Wall Street an AI bull case](https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow)**
 
-WSJ • 12h ago
+Axios • 9h ago
+
+---
+
+**['Not good enough. It's over': The AI doomers are going off on Anthropic's revenue figures](https://www.businessinsider.com/anthropic-revenue-ipo-ai-doomer-tech-investing-2026-10)**
+
+The AI skeptics had a lot to say about Anthropic's Q3 revenue figure as the company lays the groundwork for a historic IPO.
+
+Business Insider • 51m ago
+
+---
+
+**[Bringing the magic: Google breaks open a bottleneck in quantum computing](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/)**
+
+In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.
+
+blog.google • 33m ago
+
+---
+
+**[Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs](https://www.wsj.com/tech/ai/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-a28fde11)**
+
+WSJ • 1h ago
+
+---
+
+**["Mommy and daddy" play nice: Apple and Meta team up to bring open-source Muse to Macs](https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai)**
+
+Axios • 1h ago
+
+---
+
+**[Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx)**
+
+“We’re excited for mommy and daddy to be playing nice again.”
+
+The Verge • 38m ago
 
 ---
 
@@ -201,7 +195,7 @@ WSJ • 12h ago
 
 Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.
 
-⬆️ 927 • 💬 579 • 20h ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+⬆️ 933 • 💬 603 • 1d ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
 ---
 
@@ -209,7 +203,7 @@ Cyber experts say AI labs’ containment and monitoring failures — not agents 
 
 A response to Rich Hickey's "'AI' is Not a Tool": automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.
 
-⬆️ 781 • 💬 600 • 2d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+⬆️ 784 • 💬 600 • 2d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
 ---
 
@@ -217,27 +211,13 @@ A response to Rich Hickey's "'AI' is Not a Tool": automation and tool use can co
 
 Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.
 
-⬆️ 373 • 💬 264 • 20h ago • [Startup Fortune](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
-
----
-
-**[AI coding agents generate more code, but not more software](https://news.ycombinator.com/item?id=50059523)**
-
-Study finds coding efficiency gains get "absorbed" by human review "bottleneck."
-
-⬆️ 364 • 💬 309 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
+⬆️ 377 • 💬 268 • 1d ago • [Startup Fortune](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 
 ---
 
 **[I posted to HN, and then my website was flooded with AI bot traffic](https://news.ycombinator.com/item?id=50073221)**
 
-⬆️ 345 • 💬 185 • 1d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
-
----
-
-**[Why aren't AI companies being charged for hacking?](https://news.ycombinator.com/item?id=50057278)**
-
-⬆️ 335 • 💬 371 • 2d ago • [mortoray.com](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+⬆️ 345 • 💬 185 • 2d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
 
 ---
 
@@ -247,15 +227,7 @@ Today, we’re sharing that Character.ai has initiated a voluntary Chapter 11 ba
 
 Over the past year, we’ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After a comprehensive review
 
-⬆️ 332 • 💬 289 • 2d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
-
----
-
-**['AI' Is Not a Tool by Rich Hickey](https://news.ycombinator.com/item?id=50060269)**
-
-(I keep delivering this as a quip, here's a bit more) First order of business - is 'tool' going to have an interesting, distinguishing and thus illuminative meaning or be a mere platitudinous stand-in for "anything useful"? We'll save tool as "anyone/thing that can be exploited" for the AI titans, f
-
-⬆️ 312 • 💬 189 • 2d ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
+⬆️ 332 • 💬 291 • 2d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
 
 ---
 
@@ -263,7 +235,7 @@ Over the past year, we’ve taken meaningful steps to sustain and improve our bu
 
 Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, long contexts, and high-concurrency serving at practical power and cost.
 
-⬆️ 308 • 💬 178 • 2d ago • [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+⬆️ 308 • 💬 179 • 2d ago • [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 
 ---
 
@@ -272,6 +244,28 @@ Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, l
 Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses.
 
 ⬆️ 279 • 💬 143 • 2d ago • [arXiv.org](https://arxiv.org/abs/2610.13928)
+
+---
+
+**[Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://news.ycombinator.com/item?id=50104654)**
+
+The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership…
+
+⬆️ 178 • 💬 152 • 3h ago • [Simons Foundation](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+
+---
+
+**[ASML's strong orders ease fears AI spending boom is running out of steam](https://news.ycombinator.com/item?id=50088430)**
+
+⬆️ 172 • 💬 173 • 1d ago • [reuters.com](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
+
+---
+
+**[How to engineer an AI harness for game development](https://news.ycombinator.com/item?id=50072120)**
+
+Exploring practical ways to make your game more legible to AI agents and how to make agentic iteration faster.
+
+⬆️ 172 • 💬 89 • 2d ago • [kylekukshtel.com](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 
 ---
 
@@ -285,37 +279,27 @@ Anthropic said in a new warning that small artificial intelligence models may be
 
 📺 ABC News
 
-👁️ 76K • 👍 483 • 💬 246 • ⏱️ 3:21 • 1d ago
+👁️ 77K • 👍 484 • 💬 248 • ⏱️ 3:21 • 2d ago
 
 ---
 
-**[AI now linked to 84% of ransomware attacks, report finds](https://www.youtube.com/watch?v=Yj-2j0dTxNU)**
+**[CoreWeave Is Imploding — And Taking AI Stocks Down With It](https://www.youtube.com/watch?v=tdXFaVaJfTo)**
 
-A new report by cybersecurity firm Semperis found that artificial intelligence is now linked to 84% of ransomware attacks.
+Ed Elson is joined by Paul Kedrosky to break down CoreWeave's debt crisis and whether it signals a broader problem for the ...
 
-📺 CBS News
+📺 Prof G Markets
 
-👁️ 51K • 👍 295 • 💬 82 • ⏱️ 4:34 • 16h ago
-
----
-
-**[&#39;Godfather&#39; of AI on the &#39;really stupid thing&#39; Trump is doing](https://www.youtube.com/watch?v=_GLG51SAhrQ)**
-
-Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in The Situation Room to discuss the latest ...
-
-📺 CNN
-
-👁️ 365K • 👍 3K • 💬 791 • ⏱️ 8:47 • 21h ago
+👁️ 150K • 👍 4K • 💬 553 • ⏱️ 34:13 • 7h ago
 
 ---
 
-**[I Sent an AI to My Job Interview. So Did the Company.](https://www.youtube.com/watch?v=A0fECnj5sas)**
+**[Wharton Just Exposed Who Pays for the AI Crash](https://www.youtube.com/watch?v=4Q0APaL-3HQ)**
 
-The company sent an AI recruiter to interview me, so I sent an AI to represent me. Then I sat in the meeting and watched the two of ...
+Get notified as soon as The Sovereign Professional launches. The first 10 buyers get 50% off: https://www.brendandell.com/ ...
 
-📺 Graham Dot Zip
+📺 Brendan Dell 
 
-👁️ 2.5M • 👍 47K • 💬 3K • ⏱️ 5:53 • 2d ago
+👁️ 156K • 👍 3K • 💬 715 • ⏱️ 20:55 • 1d ago
 
 ---
 
@@ -325,27 +309,7 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 195K • 👍 4K • 💬 1K • ⏱️ 16:34 • 13h ago
-
----
-
-**[AI Industry Not Ready For Coming Crisis, Says Mukunda](https://www.youtube.com/watch?v=lXRV6AXDSgs)**
-
-Leading AI executives are reportedly preparing for the possibility of a major AI-caused disaster within the next six to 12 months.
-
-📺 Bloomberg Podcasts
-
-👁️ 89K • 👍 467 • 💬 81 • ⏱️ 6:11 • 1d ago
-
----
-
-**[Did AI Really Reverse Engineer Every Adobe App?](https://www.youtube.com/watch?v=W5DT8jpcBCk)**
-
-Stay ahead of the curve! Attend Zero Trust World (https://go.lowlevel.tv/ztw) and get $200 off with my code ZTWLOWLEVEL27 ...
-
-📺 Low Level
-
-👁️ 237K • 👍 5K • 💬 1K • ⏱️ 7:29 • 1d ago
+👁️ 248K • 👍 5K • 💬 1K • ⏱️ 16:34 • 17h ago
 
 ---
 
@@ -355,17 +319,37 @@ Anthropic is warning that small artificial intelligence models could soon spread
 
 📺 CBS News
 
-👁️ 84K • 👍 491 • 💬 236 • ⏱️ 3:58 • 1d ago
+👁️ 85K • 👍 498 • 💬 239 • ⏱️ 3:58 • 1d ago
 
 ---
 
-**[AI ALARM: Anthropic issues STARK &#39;worm&#39; warning](https://www.youtube.com/watch?v=7JkRTExSyuw)**
+**[Did AI Really Reverse Engineer Every Adobe App?](https://www.youtube.com/watch?v=W5DT8jpcBCk)**
 
-'The Big Money' show panel discusses Anthropic's AI worm warning that it could infect your smart home devices. Anthropic is set ...
+Stay ahead of the curve! Attend Zero Trust World (https://go.lowlevel.tv/ztw) and get $200 off with my code ZTWLOWLEVEL27 ...
 
-📺 Fox Business
+📺 Low Level
 
-👁️ 37K • 👍 179 • 💬 73 • ⏱️ 3:26 • 17h ago
+👁️ 254K • 👍 6K • 💬 1K • ⏱️ 7:29 • 1d ago
+
+---
+
+**[AI Industry Not Ready For Coming Crisis, Says Mukunda](https://www.youtube.com/watch?v=lXRV6AXDSgs)**
+
+Leading AI executives are reportedly preparing for the possibility of a major AI-caused disaster within the next six to 12 months.
+
+📺 Bloomberg Podcasts
+
+👁️ 93K • 👍 482 • 💬 83 • ⏱️ 6:11 • 1d ago
+
+---
+
+**[&#39;Godfather&#39; of AI on the &#39;really stupid thing&#39; Trump is doing](https://www.youtube.com/watch?v=_GLG51SAhrQ)**
+
+Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in The Situation Room to discuss the latest ...
+
+📺 CNN
+
+👁️ 421K • 👍 3K • 💬 860 • ⏱️ 8:47 • 1d ago
 
 ---
 
@@ -375,7 +359,17 @@ Create with Higgsfield https://roboverse-ai.com/Higgsfield ✓ Sign up to Higgsf
 
 📺 Roboverse
 
-👁️ 3K • 💬 1 • ⏱️ 10:23 • 1h ago
+👁️ 9K • 💬 4 • ⏱️ 10:23 • 6h ago
+
+---
+
+**[I Trained My Own 30M Parameter AI to Run on an ESP32](https://www.youtube.com/watch?v=LgCNVUndTH8)**
+
+I trained my own AI language model from scratch and got it running offline on an ESP32! In this video I'll show you how I trained ...
+
+📺 Marina
+
+👁️ 85K • 👍 2K • 💬 119 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -391,7 +385,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 144,280 • ❤️ 2,344 • 8d ago
+⬇️ 144,280 • ❤️ 2,378 • 9d ago
 
 ---
 
@@ -403,7 +397,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 75,253 • ❤️ 1,692 • 12h ago
+⬇️ 75,253 • ❤️ 1,716 • 16h ago
 
 ---
 
@@ -415,7 +409,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 15,315 • ❤️ 834 • 3d ago
+⬇️ 15,315 • ❤️ 865 • 3d ago
 
 ---
 
@@ -427,19 +421,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 9,278 • ❤️ 762 • 23h ago
-
----
-
-**[JEV-35B](https://huggingface.co/autotrust/JEV-35B)**
-
-*AutoTrust AI Lab*
-
-JEV-35B is a text classification model based on Qwen3.5-35B-A3B, excelling at System 1 decision-making with calibrated probabilities. It handles up to 256 options in a single pass, achieving strong performance on benchmarks like Decision Index 0.3 (59.73) and ERQA (51.3% zero-shot robot reasoning).
-
-`text-classification` `36.0B`
-
-⬇️ 41,837 • ❤️ 925 • 1d ago
+⬇️ 9,278 • ❤️ 784 • 2h ago
 
 ---
 
@@ -451,7 +433,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,415,278 • ❤️ 4,351 • 3d ago
+⬇️ 2,415,278 • ❤️ 4,370 • 3d ago
 
 ---
 
@@ -463,31 +445,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,866,657 • ❤️ 7,883 • 4d ago
-
----
-
-**[Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)**
-
-*Conway*
-
-Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient tool and function calling, fitting under 8GB. It excels in parallel tool calls and agentic tasks, with an optional vision add-on for multimodal capabilities, making it suitable for applications requiring compact yet powerful LLM integration.
-
-`text-generation` `26.9B`
-
-⬇️ 344,177 • ❤️ 481 • 2h ago
-
----
-
-**[Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)**
-
-*Atomic Chat*
-
-This GGUF model provides an uncensored text encoder for Qwen-Image, reducing refusal rates from 88.9% to 1.2% while maintaining MMLU scores. It's designed for local text-to-image generation with stable-diffusion.cpp, offering minimal measurable impact on image output compared to the stock encoder.
-
-`text-to-image` `8.2B`
-
-⬇️ 296,253 • ❤️ 468 • 1d ago
+⬇️ 1,866,657 • ❤️ 7,914 • 4d ago
 
 ---
 
@@ -499,7 +457,43 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 4,048 • ❤️ 392 • 1d ago
+⬇️ 4,048 • ❤️ 441 • 1d ago
+
+---
+
+**[Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)**
+
+*Atomic Chat*
+
+This GGUF model provides an uncensored text encoder for Qwen-Image, reducing refusal rates from 88.9% to 1.2% while maintaining MMLU scores. It's designed for local text-to-image generation with stable-diffusion.cpp, offering minimal measurable impact on image output compared to the stock encoder.
+
+`text-to-image` `8.2B`
+
+⬇️ 296,253 • ❤️ 484 • 1d ago
+
+---
+
+**[LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)**
+
+*Liquid AI*
+
+LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, optimized for fast, private on-device agents and tool-use tasks. It offers efficient inference, achieving high speeds on both consumer hardware and GPUs, and supports a wide range of languages.
+
+`text-generation` `24.0B`
+
+⬇️ 6,286 • ❤️ 380 • 2d ago
+
+---
+
+**[Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)**
+
+*Conway*
+
+Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient tool and function calling, fitting under 8GB. It excels in parallel tool calls and agentic tasks, with an optional vision add-on for multimodal capabilities, making it suitable for applications requiring compact yet powerful LLM integration.
+
+`text-generation` `26.9B`
+
+⬇️ 344,177 • ❤️ 495 • 7h ago
 
 ---
 
@@ -513,7 +507,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 25 • 💬 2 • ⭐ 29,879 • 31mo ago
+▲ 25 • 💬 2 • ⭐ 30,394 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -541,7 +535,7 @@ RSI-Anything leverages predictive world models to guide action selection and ada
 
 ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
 
-▲ 256 • 💬 1 • ⭐ 197 • 1d ago
+▲ 320 • 💬 1 • ⭐ 197 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
 
@@ -555,7 +549,7 @@ ATAS improves long-form video consistency by compiling screenplays into referenc
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 27 • 💬 4 • ⭐ 4,941 • 29d ago
+▲ 27 • 💬 4 • ⭐ 5,075 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -567,7 +561,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 152 • 💬 6 • ⭐ 111,239 • 21mo ago
+▲ 152 • 💬 6 • ⭐ 111,334 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -581,23 +575,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Player-1 improves game control by combining supervised fine-tuning on gameplay trajectories with reinforcement learning across synthetic environments, achieving substantial gains over demonstration-only baselines.
 
-▲ 152 • 💬 1 • ⭐ 75 • 1d ago
+▲ 165 • 💬 1 • ⭐ 75 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.20584) • [💻 code](https://github.com/TencentARC/Player-1) • [🔗 project](https://player-1-project.github.io/)
-
----
-
-**[Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356)**
-
-*Yu Wang, Rui Dai, Wei Chen et al. (8 authors)*
-
-🏢 alibaba
-
-Urbex reframes city-scale 3D grounding as an active search process using a vision-language agent with reinforcement learning, improving accuracy and speed without precomputed proposals.
-
-▲ 114 • 💬 1 • ⭐ 83 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.18356) • [💻 code](https://github.com/AMAP-ML/Urbex) • [🔗 project](https://www.wangfaye.cn/paper/urbex)
 
 ---
 
@@ -612,6 +592,20 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 ▲ 115 • 💬 3 • ⭐ 1,236 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
+
+---
+
+**[Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356)**
+
+*Yu Wang, Rui Dai, Wei Chen et al. (8 authors)*
+
+🏢 alibaba
+
+Urbex reframes city-scale 3D grounding as an active search process using a vision-language agent with reinforcement learning, improving accuracy and speed without precomputed proposals.
+
+▲ 116 • 💬 1 • ⭐ 92 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.18356) • [💻 code](https://github.com/AMAP-ML/Urbex) • [🔗 project](https://www.wangfaye.cn/paper/urbex)
 
 ---
 
@@ -637,7 +631,7 @@ YuE2 unifies symbolic and audio music generation via symbolic planning, producin
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 93 • 💬 7 • ⭐ 27,375 • 3mo ago
+▲ 93 • 💬 7 • ⭐ 27,433 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -653,7 +647,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 2.4k • 5d ago
+⭐ 7.9k • 🔱 2.4k • 5d ago
 
 ---
 
@@ -663,7 +657,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.8k • 🔱 1.9k • 8h ago
+⭐ 7.8k • 🔱 1.9k • 43m ago
 
 ---
 
@@ -673,7 +667,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 6.6k • 🔱 452 • 9d ago
+⭐ 6.6k • 🔱 453 • 9d ago
 
 ---
 
@@ -683,7 +677,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.4k • 🔱 771 • 18h ago
+⭐ 5.4k • 🔱 774 • 3h ago
 
 ---
 
@@ -693,7 +687,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.3k • 🔱 895 • 15m ago
+⭐ 5.3k • 🔱 901 • 9m ago
 
 ---
 
@@ -703,7 +697,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.7k • 🔱 137 • 6h ago
+⭐ 4.8k • 🔱 137 • 11h ago
 
 ---
 
@@ -733,7 +727,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.4k • 🔱 240 • 24m ago
+⭐ 3.4k • 🔱 240 • 2h ago
 
 ---
 
@@ -743,7 +737,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.4k • 🔱 258 • 14d ago
+⭐ 3.4k • 🔱 259 • 15d ago
 
 ---
 

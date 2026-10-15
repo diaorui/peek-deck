@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-15T14:42:19.179978+00:00'
+updated: '2026-10-15T18:54:15.183142+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 14:42 UTC  
+**Last Updated:** October 15, 2026 at 18:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,356.79
+### $2,451.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -4.3%  
-**30d:** -1.5%  
-**90d:** +27.9%  
-**1y:** -38.8%  
+**24h:** +0.8%  
+**7d:** -1.5%  
+**30d:** +1.4%  
+**90d:** +31.6%  
+**1y:** -37.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $289.83B
+**Market Cap:** $298.99B
 Rank #2
 
 **Circulating Supply:** 122,136,580 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.0%
+-50.5%
 
 **All-Time Low:** $0.43
-+548095.2%
++565227.6%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 staking eth for about three years now. started with lido, then tried rocket pool, even ran a validator for a while. but honestly the whole defi staking thing is starting to wear me down. smart contract risk, slashing risk, the tax nightmare of tracking all those tiny rewards. it's just a lot. lately ive been using gemini for a chunk of my eth. it's not as exciting as defi, and the yields are lower. but it's simple. i don't have to worry about a bug in a contract draining my funds. i don't have to spend hours figuring out cost basis for taxes. i stake and get a statement at the end of the year. for someone who just wants exposure to eth staking without the headache, it's been a decent option. i still keep some in lido because i believe in decentralization, but the regulated route has its place. anyone else split their staking like this? or am i just getting old and lazy?
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-t
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-3d ago
+4d ago
 
 ---
 
@@ -152,27 +152,35 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[If You Put $1,000 Each Into Bitcoin, Ethereum, XRP and Solana Five Years Ago, Two Would Have Lost Money.](https://finance.yahoo.com/markets/crypto/articles/put-1-000-bitcoin-ethereum-133029420.html)**
+**[Bitmine’s Tom Lee Warns Of Ethereum Selloff](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html)**
 
-Four popular cryptocurrencies, one $4,000 total investment, and a five-year window that produced wildly different results. The coins that generated the most excitement heading into late 2021 may not be the ones that rewarded investors most.
+Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Current price of Ethereum for Oct. 15, 2026](https://fortune.com/article/price-of-ethereum-10-15-2026/)**
+**[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
+
+British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
+
+Decrypt • 1d ago
+
+---
+
+**[Current price of Ethereum for October 15, 2026](https://fortune.com/article/price-of-ethereum-10-15-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 5h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Lost $391 Million in a Day. Only XRP ETFs Took Money In.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-lost-391-141818508.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff](https://www.tradingview.com/news/benzinga:74bd4911d094b:0-bitcoin-ethereum-xrp-dogecoin-lose-over-2-in-cross-market-selloff/)**
 
-When Bitcoin ETFs and Ethereum ETFs both bled hundreds of millions in a single session, one unlikely crypto fund quietly moved in the opposite direction, raising a question investors cannot easily dismiss.
+Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec…
 
-Yahoo Finance • 24m ago
+TradingView • 1d ago
 
 ---
 
@@ -184,6 +192,22 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum’s faster-exit plan would leave new validators waiting to earn](https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/)**
+
+EIP-8061 could speed Ethereum staking exits, but capped entry would still delay new validators’ rewards and spread idle capital costs in pools.
+
+CryptoSlate • 5h ago
+
+---
+
+**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
+
+Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
+
+Seeking Alpha • 10h ago
+
+---
+
 **[The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.](https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/)**
 
 A major source of Ethereum demand is about to disappear. That's a problem for investors.
@@ -192,19 +216,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff](https://www.tradingview.com/news/benzinga:74bd4911d094b:0-bitcoin-ethereum-xrp-dogecoin-lose-over-2-in-cross-market-selloff/)**
+**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://www.ccn.com/news/crypto/ethereum-fomo-bitcoin-xrp-fear/)**
 
-Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec…
-
-TradingView • 20h ago
-
----
-
-**[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
-
-British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
-
-Decrypt • 20h ago
+CCN.com • 1d ago
 
 ---
 
@@ -214,43 +228,17 @@ Binance • 1d ago
 
 ---
 
-**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
-
-Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
-
-Seeking Alpha • 6h ago
-
----
-
-**[Ethereum’s faster-exit plan would leave new validators waiting to earn](https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/)**
-
-EIP-8061 could speed Ethereum staking exits, but capped entry would still delay new validators’ rewards and spread idle capital costs in pools.
-
-CryptoSlate • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
+**[HUGE CANTON NETWORK, XRP, &amp; ETHEREUM NEWS! TRADFI INSTITUTIONS GO ALL IN ON TOKENIZATION!](https://www.youtube.com/watch?v=9qs9BxVEGrg)**
 
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Network. Ripple is partnering with Privy, a Stripe ...
 
-📺 Marzell Crypto
+📺 Thinking Crypto
 
-👁️ 127 • 👍 10 • 💬 2 • ⏱️ 3:19 • 3h ago
-
----
-
-**[Crypto Bloodbath,  Ethereum Shorts, Meme Scams, &amp; WSH Podcast Interview](https://www.youtube.com/watch?v=5r4QcLj7AF0)**
-
-Red day for BTC, ETH, SOL, and others as fear spreads! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 6K • 👍 352 • 💬 14 • ⏱️ 1:02:51 • 2h ago
+👁️ 19K • 👍 744 • 💬 51 • ⏱️ 14:24 • 1d ago
 
 ---
 
@@ -260,25 +248,67 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 165 • 💬 6 • ⏱️ 7:31 • 15h ago
+👁️ 8K • 👍 180 • 💬 6 • ⏱️ 7:31 • 19h ago
 
 ---
 
-**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=wc1n-vrhLGA)**
+**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 11K • 👍 225 • 💬 9 • ⏱️ 6:47 • 2d ago
+
+---
+
+**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Matt Hougan](https://www.youtube.com/watch?v=WnDF8Rfgl18)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 192 • 💬 18 • ⏱️ 21:33 • 22h ago
+👁️ 944 • 👍 70 • 💬 11 • ⏱️ 23:05 • 2h ago
 
 ---
 
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Lz4hl6RvyCY)**
 
-📺 Itsdanielmac
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-👁️ 26K • 👍 547 • 💬 25 • ⏱️ 0:48 • 20h ago
+📺 Profit First
+
+👁️ 1K • 👍 67 • ⏱️ 7:10 • 5h ago
+
+---
+
+**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 94 • 💬 12 • ⏱️ 23:58 • 2d ago
+
+---
+
+**[BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LUUbmFVy14M)**
+
+BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 140 • 💬 55 • ⏱️ 22:20 • 1h ago
+
+---
+
+**[Live Crypto Trading | ETH BTC Live Trade | Gold Trading Live | PPI Data Explained](https://www.youtube.com/watch?v=NZSAvYrRH5I)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 6K • 👍 429 • ⏱️ 1:39:33 • 40m ago
 
 ---
 
@@ -292,43 +322,13 @@ As trillions of dollars in traditional financial assets prepare to move on-chain
 
 ---
 
-**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
+**[Crypto Bloodbath,  Ethereum Shorts, Meme Scams, &amp; WSH Podcast Interview](https://www.youtube.com/watch?v=5r4QcLj7AF0)**
 
-Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
+Red day for BTC, ETH, SOL, and others as fear spreads! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Capital Venture
+📺 Lark Davis
 
-👁️ 18K • 👍 462 • 💬 122 • ⏱️ 14:22 • 1d ago
-
----
-
-**[Bitcoin, Ethereum ETF Divergence from Futures; Bracing for Next Catalyst](https://www.youtube.com/watch?v=vSsNxPq2-h4)**
-
-Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesSchwab to talk about the latest moves in ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 37 • 💬 2 • ⏱️ 5:03 • 16h ago
-
----
-
-**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 93 • 💬 12 • ⏱️ 23:58 • 1d ago
-
----
-
-**[This Ethereum Signal Called a Historic 154% Rally](https://www.youtube.com/watch?v=fVQuWVqtCi8)**
-
-Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 710 • 👍 15 • 💬 1 • ⏱️ 4:07 • 19h ago
+👁️ 15K • 👍 437 • 💬 29 • ⏱️ 1:02:51 • 6h ago
 
 ---
 
