@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-14T21:20:31.436861+00:00'
+updated: '2026-10-15T00:01:14.939618+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 14, 2026 at 21:20 UTC  
+**Last Updated:** October 15, 2026 at 00:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I’ve been experimenting with turning an M5Stack Stack-chan into a little mobil
 
 Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440, static display model, no motor) directly onto Quaddle (open quadruped, 4 feedback servos, ESP32-S3, OpenCat firmware), controller driving them directly. Attempt #1 failed — the original leg was bent and genuinely couldn't walk. For attempt #2: swapped it for a longer, straight replacement piece, checked the servos could carry the added weight, reversed one servo from its default install direction, and mounted it all through Quaddle's screw-free servo mechanism. Walked surprisingly well once that was sorted. Also recreated the classic AT-AT-tripped-by-a-snowspeeder scene from the movie. 😂 What would you mount on an open quadruped platform if you could?
 
-6d ago
+7d ago
 
 ---
 
@@ -98,7 +98,7 @@ Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not
 
 Reindustrialization won't happen against economic laws. Manufacturing has to be competitive worldwide, and improving existing factories, even with automation, is not enough. Only 30-40k robots were installed in the US last year, so the pull from existing factories is weak. They’re good. Humanoids are being promised as the solution, but who will build them? Still humans. Humanoids not optimised for self-build. The most practical solution to these problems is a self-replicating factory. It will build humanoids, enable the US reindustrialization, and help colonise other planets as a side product. Similar to biological organisms, the factory can consist of robotic cells, and an AI agent coordinates them to produce a new cell and deploy it. The cell can be specialised with fixtures for specific tasks such as assembling, calibration, testing, 3D printing, etc. Sounds like sci-fi, but recent releases of Astra/Opus have made this possible. Who wants to join?
 
-7d ago
+8d ago
 
 ---
 
@@ -122,32 +122,6 @@ blog.google • 1d ago
 
 ---
 
-**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
-
-The second-largest corporate employer has bet big on robot workers to scale.
-
-Ars Technica • 2d ago
-
----
-
-**[‘Infinite Demand For Robots:’ Inside Matter Venture Partners’ $450 Million Bet On Physical AI](https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/)**
-
-Forbes • 1h ago
-
----
-
-**[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
-
-Reuters • 6h ago
-
----
-
-**[China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market](https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race)**
-
-Bloomberg.com • 17h ago
-
----
-
 **[Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec](https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy)**
 
 WSJ • 1d ago
@@ -158,7 +132,7 @@ WSJ • 1d ago
 
 In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -170,9 +144,35 @@ TechCrunch • 1d ago
 
 ---
 
+**[China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market](https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race)**
+
+Bloomberg.com • 20h ago
+
+---
+
+**[Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances](https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html)**
+
+Phys.org • 9h ago
+
+---
+
+**[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
+
+Reuters • 9h ago
+
+---
+
 **[Scoop: Bedrock Robotics raising $600M to automate construction](https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m)**
 
-Axios • 23h ago
+Axios • 1d ago
+
+---
+
+**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
+
+The second-largest corporate employer has bet big on robot workers to scale.
+
+Ars Technica • 2d ago
 
 ---
 
@@ -188,13 +188,33 @@ MassDevice • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
+
+A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
+
+📺 NBC News
+
+👁️ 87K • 👍 620 • 💬 122 • ⏱️ 3:26 • 21h ago
+
+---
+
 **[Walmart Spent a Decade Teaching Robots One Simple Task #automation #walmart #factory](https://www.youtube.com/watch?v=35S029PSFu8)**
 
 Walmart has 140000+ warehouse workers and a decade-long, multibillion-dollar push to automate. The hardest part isn't the ...
 
 📺 Far Point Global
 
-👁️ 695 • 👍 41 • 💬 3 • ⏱️ 2:34 • 6h ago
+👁️ 935 • 👍 48 • 💬 4 • ⏱️ 2:34 • 9h ago
+
+---
+
+**[I Made a BIG SECRET out of this but, hm... [War Robots]](https://www.youtube.com/watch?v=KbcpeGRv1H4)**
+
+War Robots Gameplay: Gas Shield and UE Atomizer Ravager - I thought this would perform A LOT better than it did but I forgot the ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 277 • 💬 53 • ⏱️ 16:12 • 10h ago
 
 ---
 
@@ -204,17 +224,7 @@ Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very differen
 
 📺 ejunky66
 
-👁️ 1.0M • 👍 11K • 💬 459 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
-
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
-
-📺 MostAmazingTop10
-
-👁️ 182K • 👍 2K • 💬 173 • ⏱️ 9:18 • 3d ago
+👁️ 1.0M • 👍 11K • 💬 464 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -224,37 +234,17 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 230K • 👍 3K • 💬 319 • ⏱️ 1:44 • 1d ago
+👁️ 241K • 👍 4K • 💬 325 • ⏱️ 1:44 • 1d ago
 
 ---
 
-**[Top Jobs to AVOID Being Replaced by AI &amp; Robotics](https://www.youtube.com/watch?v=y7SpeEVkXF0)**
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
 
-AI and robotics are reshaping the job market, but not every career is equally exposed. This video looks at which roles are more ...
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
 
-📺 Math and Science
+📺 MostAmazingTop10
 
-👁️ 14K • 👍 307 • 💬 82 • ⏱️ 23:47 • 1d ago
-
----
-
-**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
-
-Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
-
-📺 Jot Tv Media 
-
-👁️ 93K • 👍 2K • 💬 17 • ⏱️ 1:04 • 6d ago
-
----
-
-**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
-
-Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
-
-📺 BBC News
-
-👁️ 124K • 👍 697 • 💬 44 • ⏱️ 5:36 • 3d ago
+👁️ 186K • 👍 2K • 💬 176 • ⏱️ 9:18 • 3d ago
 
 ---
 
@@ -264,27 +254,37 @@ Watch this video as Firstpost explains a disturbing incident in Cologne, Germany
 
 📺 Firstpost
 
-👁️ 27K • 👍 77 • 💬 51 • ⏱️ 5:04 • 1d ago
+👁️ 28K • 👍 81 • 💬 55 • ⏱️ 5:04 • 1d ago
 
 ---
 
-**[China&#39;s New Flying AI Robot Breaks The Internet](https://www.youtube.com/watch?v=WEEA2a_U33g)**
+**[Danish supermarket tests humanoid robots for night shifts](https://www.youtube.com/watch?v=YTNQBSbfvK8)**
 
-China's Arkshel Robotics unveils MX01, a humanoid robot that can walk, crawl and take to the air using a flight module.
+Humanoid robots manufactured by Chinese company Unitree are being put to work in a Danish supermarket, learning to restock ...
 
-📺 MACHINEKIND
+📺 CGTN Europe
 
-👁️ 55K • 👍 881 • 💬 86 • ⏱️ 13:43 • 6d ago
+👁️ 2K • 👍 28 • 💬 3 • ⏱️ 0:41 • 10h ago
 
 ---
 
-**[These AI Robots Are Getting OUT OF CONTROL… Here’s What’s Actually Real](https://www.youtube.com/watch?v=NjcCxL9zcQQ)**
+**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
 
-AI robots are advancing faster than ever, but how much of what we see online is actually real? From humanoid robot fights to ...
+Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
 
-📺 The AI Nexus
+📺 BBC News
 
-👁️ 10K • 👍 70 • 💬 15 • ⏱️ 1:21:36 • 2d ago
+👁️ 124K • 👍 698 • 💬 44 • ⏱️ 5:36 • 3d ago
+
+---
+
+**[🤖 Meet the Wire Crawling Robot That Checks for Damage #SnakeRobot, #ChinaTech, #Robotics](https://www.youtube.com/watch?v=vNWSZqlxNT8)**
+
+Developed for power line inspections in Kunming, China, this snake shaped robot travels along cables and uses cameras and ...
+
+📺 Jot Tv Media 
+
+👁️ 94K • 👍 2K • 💬 17 • ⏱️ 1:04 • 6d ago
 
 ---
 

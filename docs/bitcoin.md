@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-14T21:20:31.428743+00:00'
+updated: '2026-10-15T00:01:14.930187+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 21:20 UTC  
+**Last Updated:** October 15, 2026 at 00:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.1%  
-**30d:** +8.1%  
-**90d:** +27.9%  
-**1y:** -26.4%  
+**24h:** -1.9%  
+**7d:** -1.1%  
+**30d:** +7.2%  
+**90d:** +26.0%  
+**1y:** -24.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1641.84B
+**Market Cap:** $1638.91B
 Rank #1
 
 **Circulating Supply:** 20,098,271 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.2%
+-35.3%
 
 **All-Time Low:** $67.81
-+120397.0%
++120172.8%
 
 ---
 
@@ -115,7 +115,7 @@ Stick to bitcoin. The alignment with bitcoin changes you for the better.
 
 **[situation today 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1x3mjtt/situation_today/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -167,41 +167,49 @@ A well-known global M2 Bitcoin chart suggests BTC could be worth around $300,000
 
 ---
 
+**[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html)**
+
+Ethereum’s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ...
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Crypto Long & Short: Why gold and bitcoin belong in the same portfolio](https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio)**
+
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+
+CoinDesk • 8h ago
+
+---
+
+**[U.S. September CPI comes in hot, sending bitcoin sharply lower](https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower)**
+
+The news could put multiple rate hikes by the Federal Reserve back into play.
+
+CoinDesk • 11h ago
+
+---
+
 **[Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)**
 
 Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.
 
-CoinDesk • 33m ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin price falls toward $81,500 after September CPI report](https://qz.com/bitcoin-price-falls-september-cpi-inflation-101426)**
+**[Bitcoin and ethereum prices today, Wednesday, October 14, 2026: Crypto prices sliding after higher-inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-14-2026-crypto-prices-sliding-after-higher-inflation-report-133306768.html)**
 
-Crypto analyst sentiment has turned bullish, with 84% of analysts positive on bitcoin, according to Bloomberg
+Bitcoin opened at $83,092.65 on Wednesday, October 14, 2026, up 1.6% from Tuesday's open. As of 9:15 a.m. ET this morning, the price of bitcoin fell to $82,418.56. Ethereum opened at $2,496.22, up 2.1% from Tuesday's opening price. The price of ethereum moved down this morning to $2,461.69 as of 9:15 a.m. ET.
 
-Quartz • 1h ago
-
----
-
-**[US Inflation Hits 3.7%, Sinking Bitcoin and Gold: Will the Fed Hike in October?](https://finance.yahoo.com/economy/policy/articles/us-inflation-hits-3-7-123519986.html)**
-
-US inflation hit 3.7% in September, beating forecasts. See how Bitcoin and gold reacted and what it means for Fed hikes.
-
-Yahoo Finance • 8h ago
-
----
-
-**[Michael Saylor drops bold Bitcoin call ahead of major index review](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-drops-bold-bitcoin-234751739.html)**
-
-Saylor is calling a new Bitcoin bull market days before MSCI decides on Strategy’s place in major indexes.
-
-Yahoo Finance • 21h ago
-
----
-
-**[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -209,15 +217,7 @@ Bloomberg.com • 1d ago
 
 Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
 
-Fox Business • 4h ago
-
----
-
-**[Bitcoin Just Posted Its Best Q3 Since 2017. If History Is Any Guide, Here's What Comes Next for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-posted-best-q3-150200350.html)**
-
-The crypto's strong performance significantly raises the probability of a rally in 2027.
-
-Yahoo Finance • 6h ago
+Fox Business • 6h ago
 
 ---
 
@@ -235,7 +235,15 @@ Financial Times • 1d ago
 
 Contribute to Artur7897/bitcoin-composition-engine development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
+⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
+
+---
+
+**[Strive Targets $500M Raise to Buy More Bitcoin](https://news.ycombinator.com/item?id=50096427)**
+
+Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
+
+⬆️ 1 • 💬 1 • 1h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
 
 ---
 
@@ -271,23 +279,33 @@ Learn more about how Microsoft 365 subscriptions now use shared cloud storage in
 
 ## YouTube Videos: "bitcoin"
 
+**[$50 Billion Wellington-Altus Chief Strategist: Bitcoin &quot;Supercycle&quot; has Begun](https://www.youtube.com/watch?v=Y7lzGeHTaoY)**
+
+The next run in Bitcoin is going to be one for the ages.” Economist James Thorne, Chief Market Strategist at Wellington-Altus ...
+
+📺 Bitcoin Magazine
+
+👁️ 15K • 👍 319 • 💬 32 • ⏱️ 29:17 • 6h ago
+
+---
+
+**[$250K Bitcoin Just 2 Months Away?! | Michael Saylor Says The Bull Market Has Begun!](https://www.youtube.com/watch?v=WH_7crcNKWA)**
+
+Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market is beginning, and Arthur Hayes expects money ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 529 • 💬 35 • ⏱️ 14:20 • 2h ago
+
+---
+
 **[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
 
 Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 85K • 👍 2K • 💬 164 • ⏱️ 10:28 • 21h ago
-
----
-
-**[Bitcoin Braces for an Inflation Shock](https://www.youtube.com/watch?v=srd1AEbObKM)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 642 • 💬 55 • ⏱️ 44:14 • 6h ago
+👁️ 89K • 👍 2K • 💬 163 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -297,7 +315,7 @@ Join The Coin Bureau Club http://club.coinbureau.com/ Get The Hottest Crypto Dea
 
 📺 Coin Bureau
 
-👁️ 26K • 👍 585 • 💬 33 • ⏱️ 9:35 • 8h ago
+👁️ 31K • 👍 644 • 💬 34 • ⏱️ 9:35 • 11h ago
 
 ---
 
@@ -307,7 +325,47 @@ Hot inflation data, surging oil, a widening Middle East war, cracks in the AI tr
 
 📺 Paul Barron Network
 
-👁️ 8K • 👍 720 • 💬 45 • ⏱️ 19:07 • 2h ago
+👁️ 29K • 👍 1K • 💬 69 • ⏱️ 19:07 • 5h ago
+
+---
+
+**[Bitcoin Braces for an Inflation Shock](https://www.youtube.com/watch?v=srd1AEbObKM)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 683 • 💬 56 • ⏱️ 44:14 • 9h ago
+
+---
+
+**[Bitcoin CRASHES on CPI Data: EXACT Support Levels You Must Watch](https://www.youtube.com/watch?v=ycL7j92IqVc)**
+
+Hot inflation data hit Bitcoin and the whole altcoin market. Here's where the floor could be. Trade alongside the Verified Pro ...
+
+📺 Verified Investing
+
+👁️ 10K • 👍 355 • 💬 17 • ⏱️ 18:35 • 6h ago
+
+---
+
+**[$2 Million Bitcoin FLOODGATES - Banking Giant Just UNLEASHED BTC Trading](https://www.youtube.com/watch?v=9GHKrRdAqS0)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+
+📺 Bitcoin News Alerts
+
+👁️ 738 • 👍 98 • 💬 49 • ⏱️ 15:28 • 2h ago
+
+---
+
+**[He Calls Bitcoin &quot;Teenager Gold&quot;](https://www.youtube.com/watch?v=CUiwUWTeJuc)**
+
+Bloomberg Intelligence Senior ETF Analyst Eric Balchunas shares why investors are holding onto Bitcoin through market ups and ...
+
+📺 Natalie Brunell
+
+👁️ 5K • 👍 90 • 💬 2 • ⏱️ 0:57 • 10h ago
 
 ---
 
@@ -317,57 +375,7 @@ Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning tha
 
 📺 Natalie Brunell
 
-👁️ 57K • 👍 1K • 💬 76 • ⏱️ 2:56 • 1d ago
-
----
-
-**[$1.3 TRILLION In Checks. Bitcoin Loves It.](https://www.youtube.com/watch?v=XcBdBaHr3-c)**
-
-Trump is promising every adult American a $5000 check — roughly $1.3 TRILLION — if Republicans hold Congress. Every time ...
-
-📺 Digital Asset News
-
-👁️ 21K • 👍 610 • 💬 99 • ⏱️ 31:27 • 22h ago
-
----
-
-**[BITCOIN crash in NOVEMBER? 🤯](https://www.youtube.com/watch?v=Gqa8Tk_ZD8U)**
-
-Historically, Bitcoin has often seen weakness around U.S. midterm elections. It's happened more than once — but will history ...
-
-📺 ODES → All about trading
-
-👁️ 7K • 👍 37 • ⏱️ 0:09 • 12h ago
-
----
-
-**[Every Time Bitcoin Did This, a New All-Time High Came Next!](https://www.youtube.com/watch?v=Mv2ji1U3Apk)**
-
-Bitcoin is approaching a critical $88000 level that has historically signaled a new all-time high within 75 days, with a perfect ...
-
-📺 Simply Bitcoin
-
-👁️ 51K • 👍 2K • 💬 178 • ⏱️ 17:10 • 2d ago
-
----
-
-**[BREAKING: DID CHINA JUST SEND A BITCOIN WARNING AT AMERICA!!! | EP 1611](https://www.youtube.com/watch?v=N3BHqZ8YNrI)**
-
-INSANE BITCOIN BACKFLIP BY CHINA THIS WEEKEND!
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 309 • 💬 17 • ⏱️ 1:16:40 • 2d ago
-
----
-
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=-eKtrrN5P48)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 145K • 👍 4K • 💬 154 • ⏱️ 11:43 • 2d ago
+👁️ 65K • 👍 1K • 💬 81 • ⏱️ 2:56 • 1d ago
 
 ---
 

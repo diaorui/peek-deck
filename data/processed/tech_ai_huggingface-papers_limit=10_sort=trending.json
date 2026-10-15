@@ -96,25 +96,6 @@
       "project_page": null
     },
     {
-      "id": "2610.08699",
-      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
-      "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
-      "organization_name": "zju",
-      "organization_fullname": "Zhejiang University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
-      "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.08699",
-      "arxiv_url": "https://arxiv.org/abs/2610.08699",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 113,
-      "num_comments": 2,
-      "published_at": "2026-10-05T20:00:00.000Z",
-      "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 1147,
-      "project_page": "https://nanomuse.cn/"
-    },
-    {
       "id": "2609.33757",
       "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
       "authors": "Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)",
@@ -132,6 +113,25 @@
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
       "github_stars": 11950,
       "project_page": "https://map-yue2.github.io/"
+    },
+    {
+      "id": "2610.08699",
+      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+      "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
+      "organization_name": "zju",
+      "organization_fullname": "Zhejiang University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
+      "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.08699",
+      "arxiv_url": "https://arxiv.org/abs/2610.08699",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
+      "upvotes": 113,
+      "num_comments": 2,
+      "published_at": "2026-10-05T20:00:00.000Z",
+      "github_repo": "https://github.com/nano-muse/nanoMuse",
+      "github_stars": 1190,
+      "project_page": "https://nanomuse.cn/"
     },
     {
       "id": "2502.11880",
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2610.18615",
       "arxiv_url": "https://arxiv.org/abs/2610.18615",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.18615.png",
-      "upvotes": 190,
+      "upvotes": 193,
       "num_comments": 1,
       "published_at": "2026-10-12T20:00:00.000Z",
       "github_repo": "https://github.com/MCG-NJU/VideoJev",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-14T21:20:15.950140+00:00"
+  "fetched_at": "2026-10-15T00:00:56.036541+00:00"
 }

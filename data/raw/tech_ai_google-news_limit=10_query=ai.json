@@ -15,26 +15,6 @@
       "description": null
     },
     {
-      "headline": "Chinese A.I. Agents Joined the Rogue A.I. Agent Party. I Chatted With Them.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTFlzR2JGNXFsR19paHdHeHZqbnhKU1VuUVdDbURLcFI1M1pwZm1namx3VHp0OGQyUDV6SVFGdmVJSzRRSm1IUE5IVlgyYlk1UnNRd19IemRoRE45MHpHNkNWSGtjTEF2N3lmNXBOdWY5Y2k0ZUN6bUNHcFQwb3M?oc=5",
-      "pub_date": 1791975606.0,
-      "article_url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50RmxUSE5meHNnY241Q0xkdGEtbDNzZHFFR0lnTWhZTVhPV1YyWkRjN0FkdUFUWlZSckh4ODVNSHFRazlTQlA1SGlsckEwaXlheUt0clZoYjR0RnVvMl9IZWc1cHM5MnA1Q1AzM0tucjk0Ujc2LVltb3l30gF_QVVfeXFMTjRGWklGa21nZTlTdDRXRVRqdFlWXzZUVGJ0ODMxRkRQNUxxeVJscHltWnhSQllvRThCck1XNGo5LUI2cnl4SHFNU3hRQ3dWTThvd2tnZnU5MnRaeU9PblJXb1NYbW9zMndEcWppU2g3TGZ4Y2Fvam4xQlFfeDFBYw?oc=5",
-      "pub_date": 1791917187.0,
-      "article_url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108403281-1791898216071-Untitled-4.jpg?v=1791923579&w=1920&h=1080",
-      "description": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools."
-    },
-    {
       "headline": "ASML's strong orders ease fears AI spending boom is running out of steam",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -45,66 +25,86 @@
       "description": null
     },
     {
-      "headline": "AI Is Helping Bring Back the Dodo",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GN1Y3d0FKT09sQlhDbTFYWW1tUER5MnFLOXBVMVFLYS1BQUJLT2hfVmgzaV9UZUlDTVR6WWNKMXBCUGFCa3lCbDB5X09lNXhyUlNZcWNRQ2NLd3hPZ21IdElJRUdIOWJYYXM5TzMyV0EtYm8?oc=5",
-      "pub_date": 1792011604.0,
-      "article_url": "https://time.com/article/2026/10/14/ai-dodo-colossal-biosciences/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbfc7bb561de1c5dd/6acf7cb166e690645df447ce/Dodo_Colossal_Render.png?branch=production&width=1672&quality=75&auto=webp&crop=16:9",
-      "description": "Colossal Biosciences is using AI to help fill in the genetic blanks in its quest to bring the dodo back from extinction."
+      "headline": "Ukrainian drones hit Russia's top data center in attack on AI ambitions",
+      "source": "KSL News",
+      "source_url": "https://www.ksl.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlfRExJY3RhWG9kY05idWUtMU4weHhnazlhSVNoRk9VenFsTXZnN2hHamQtNXlJTGJxWGFmSzJXSkc2Q0FnXzM4RVJkMjJ2bDhUMlBBczE4bVNRZnZOTkYtRnJSMlJwRHMzWHUwT1VWc094SVdaMWE1eTdrMFZiVk5fdzVEcGcxTkR2Q1NUT3FpUU1oaldPdnVDNFhMUjZtY0dCMHlwS2pYNGs?oc=5",
+      "pub_date": 1792020981.0,
+      "article_url": "https://www.ksl.com/article/51636164/ukrainian-drones-hit-russias-top-data-center-in-attack-on-ai-ambitions",
+      "image": "https://img.ksl.com/slc/3205/320535/32053559.JPG?filter=kslv2/responsive_story_lg",
+      "description": "Ukrainian drones hit Russia's biggest data center on Wednesday, part of a series of attacks appearing to target Moscow's ambitions to develop Russian artificial intelligence capabilities."
     },
     {
-      "headline": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+      "headline": "YouTube Music adds new labels for AI music",
+      "source": "YouTube Official Blog",
+      "source_url": "https://blog.youtube",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbHpyRUp2ZWhpMVJHQmt0V2FaenBJWUdOd0drX3dNRHcxcDNFUVhUblFaVkQ2R0RtR183bk9salktQzN3YU1kUk05MmVFaFZsQ0JhLThXbXNCdlpMZzdtS0VuWFdnYkU5TjAtZzF3?oc=5",
+      "pub_date": 1791989253.0,
+      "article_url": "https://blog.youtube/news-and-events/youtube-music-ai-labels/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-music-gen-ai-labels.max-1440x810.png",
+      "description": "We\u2019re introducing new labels and details in YouTube Music to give you more transparency when songs are created primarily using generative AI."
+    },
+    {
+      "headline": "YouTube Puts AI Labels On Songs That Use The Tech For Vocals Or Composition",
+      "source": "Deadline",
+      "source_url": "https://deadline.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Od2RvOWozei02eFBVODFnTE1DWERHdTFxRmN6aTdVS0tXdHNZX3Jha2ZTeXZqOExWUURzMkctSTBmNW83Y0hid3BJbDljNEcwc0doN1drXzU0aW9LUm9MUzMyNWNTMkpyRkNYQ1g0aEZlQQ?oc=5",
+      "pub_date": 1792015140.0,
+      "article_url": "https://deadline.com/2026/10/youtube-music-ai-labels-1237157619/",
+      "image": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-1472973010.jpg?w=1024",
+      "description": "YouTube Music today announced it \"is rolling out labels to make it easier to see when a song was created primarily using generative AI.\""
+    },
+    {
+      "headline": "YouTube Rolls Out New Labeling System for AI-Generated Music",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUpWMFFKZ2p6dFlKV2Jia0I0ZHN6WVk0eFMzWEFqblVIc0FPaEFaLWpuaGpYT2wtQkk4QVd4NFl2Mnl4SnBsUm1tQVE5a0Zld0xhM2hfUEYxOVFjc05CSTdPLVNEZDJGZ3puQ3UyZm9EUnBvQjV5Ym5taDRiME13M3VEcGdNbFRJUmc?oc=5",
+      "pub_date": 1792019918.0,
+      "article_url": "https://www.cnet.com/tech/services-and-software/youtube-labels-ai-generated-music/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/326819bf-395a-4f53-afec-59ca50c498cb.jpg",
+      "description": "YouTube's new AI labels will help users identify music made with generative AI tools."
+    },
+    {
+      "headline": "Kohl\u2019s Takes Its AI Gift Finder Into the Holiday Quarter",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXRHMkx2cGlNV29FVGNzc0tMU044ck1aVVpPTWRYeUd4ZG1JQW5WaGxOc3ZvZ2VMV1RuMF9ZMndLSDB3b2VieXV5ZzRoUzhFUTFPNWhPVFJfWDNabkRWT2gwalZoMm9JNVNMR3FwWlJuM1hWNnFJSGRVZVpTODZ4WUYzbV9IWWFGak42UGhuVWVQWWs?oc=5",
+      "pub_date": 1792020819.0,
+      "article_url": "https://www.pymnts.com/news/2026/kohls-takes-its-ai-gift-finder-into-the-holiday-quarter/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2025/08/Kohls.jpg",
+      "description": "Gift shoppers usually know who they are buying for and what they can spend. What they do not know is which product to pick. Kohl\u2019s is betting that a"
+    },
+    {
+      "headline": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MU3k5MHljanJnWGZ4dWlBa2JEc3RVWVRZWlVWOFUwS20wQUI1WS13M3U0OE5LN2lVYzhlLUxOMFNvMWhrc1hKNmVUSHlyMkRjTU5ESmM5Mnp1SWxHbTI4b3haS0FVWmY0ajlzWUx4VVZvVDFJb0hBZnV30gF_QVVfeXFMUDdHd3I2ekpybVo4MXdMOUlTSEVhZHhQYmNSTFhGcG5uOV93N190NXhieWlqYWduZmJGUzJ5bHF5TkNsREVycUo4M1BKVUY3ejAtaVpyeXo3QnJXSWY5TEVjRWRGUE14RGhZY3hzNDBic3pJSGlRZlNicFJrQk1wMA?oc=5",
-      "pub_date": 1792008398.0,
-      "article_url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108403848-1791906460600-Dell1.jpg?v=1791906540&w=1920&h=1080",
-      "description": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44TUtWMDVLMlhGOWlMNGsxeWNBQ0R4QVdhS1Z4cmtReVN1dEJTOV9zQ1MycHZJVGo3WGpOdE42YlRzdm9kRHczVWplV1NYZXRfU1RodmIxRTZOVlhLbTJBZ1hRclQ4VHdpMnFjcEVWOGFpN3lvREE0Y09KWWM?oc=5",
+      "pub_date": 1791995091.0,
+      "article_url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpeg?v=1791993243&w=1920&h=1080",
+      "description": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further."
     },
     {
-      "headline": "AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2VVMDV1OTM5QUExZ082S1VQM3VLcG1tV0tpaFhzQXFOSXRnc3dyTzd3dTZJSldOdHBtSWVmc3VrazVzV2o4dkpBbF9aNzlGZXE3OTk2SndySjNMR2JHS014NFBYbzRfUUI4c0VNYldMcElxcXl2ZXc0MFluVEdYVlhFdXhFeFQ2eGdqZFNCLWZsSmtZTFNhXw?oc=5",
-      "pub_date": 1791986940.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-chip-selloff-looks-140900433.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9609876c149d1173df8a7804b52f2e8b5fae8a25435eecd5a011142c952241e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F3cc333d9f954660224cd21997bece0c7.jpg",
-      "description": "Micron and Sandisk emerge as attractive buy-the-dip opportunities despite the memory stock sell-off, backed by strong AI demand and long-term growth prospects."
+      "headline": "AI stocks drop after hot inflation report bolsters bets for Fed rate hikes",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05Smp5ZFZadGJvLXk5cHo5c1hBRnIwcmR1UldxOVlNRWZ0b19rLTEwT3hLRE1ZdHdWaHRoSFRMeUlsSVN3b2RvNVNRMllzTU5xZVBCd1JJcUNwWDRYTEpJeGowcHhmdmJuenduVUljM3BrUQ?oc=5",
+      "pub_date": 1792008737.0,
+      "article_url": "https://www.cnn.com/2026/10/14/investing/us-stocks-ai-chipmakers",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300173627.jpg?c=16x9&q=w_800,c_fill",
+      "description": "High-flying technology stocks are taking a bruising this week, as investors grow more skeptical about whether the AI boom will live up to expectations."
     },
     {
-      "headline": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMS00bEJpQnlrdXVFckxXaFhKeHJSOU9KcmMxLUlpVzFLdGVjOFYtZWI1WklfZDhlTUJBREVlZmdlNU96UG1wdkt1WTVFRUo3cDlXSFBQWVVpbmplc2ktS3pLRF9lelliT0J2alZ3enNxSmxXU3E0clpUU0I0MjZGNHJpeUMtRnZrVUFOX2c5UEVVdzY2WjZ5cWJzaEthU2pqMHRQMHk5OWVBeHJsLXpUZ2doWXpyYkFVcHc?oc=5",
-      "pub_date": 1792012380.0,
-      "article_url": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Yum! Brands exec pushes back on AI hate: Taco Bell drive-thru bot helped increase employee retention",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnd2RUZreHNMZV9aeUZVQzIxa1FwNkg4NFV1enA2TFFyYy1xRkRfd0ZxOVBCTF9lc2xWcWI5bVpuaEpQMVBSc0x3UWRSbVZMRm9wTEpORkg1OVhmR0VFVXZuSHdMUTg2UnpBYWJLMlhza3RqcExwVDk0QllrNl85M2dVaHVQM1dWQWRPeWNPbXFIY2J2?oc=5",
-      "pub_date": 1792011000.0,
-      "article_url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55586827292_fe040ec6c0_o-e1792003101837.jpg?resize=1200,600",
-      "description": "\u201cI'm seeing all the data center noise and all the things that people worry about with AI, and there's that constant tension,\u201d Yum! Brands Chief Legal Officer Erika Burkhardt said."
-    },
-    {
-      "headline": "Trump Shares Bizarre AI Tiger Video In Late-Night Spree After Posting Fatal Attack Footage",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHlwNkQ3NkNzX3RRa21uTVRBNUpEQTNKOWZVM2ZjQ1Y0bExrVUo2c3FESHFubUxWZTR2bW1sVGstOGxPODJ5NjJoRkItazZNdkxvWDZZNDEzRkF2TlpCd2Nobll0U1MzVmxFZnVobnhYZV9Rcy1IS3llQVVBYzB3dFFubHdVQ3o4OHlNczVfQ0FIcm1IMndHYlN3X0RFaDMxanhuNDZIaDVMM0tVdUNVaGV5OEFzLUdld1hDeEpwZ3hELTFJR1FtcVZUeEw5SmJ6bE9hbkJBY1lrRnY1?oc=5",
-      "pub_date": 1791959062.0,
-      "article_url": "https://www.forbes.com/sites/siladityaray/2026/10/14/trump-shares-bizarre-ai-tiger-video-in-late-night-spree-after-posting-fatal-attack-footage/",
+      "headline": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXpkSlZoSm1HUS16RjhoLVJVUDI2emd3T0NhY1J2aW9STkV4bWhvczR5OVh6Q2hrOGZpbHdNNlFTb1FWMFJWbFZNYWlQYXdMTDQwYnEzSGdIbGFUS2U4M1JfZnVOTDFZVVB5SjFWM284endPVnF1S3EtMXM2N2hHZW5BOTB6OU56NHVxZGQtZzlaN19fTFJydXFrbjloLWNMeEhrV0YtamZISWRBeUF1WjhQZkh3LVVE?oc=5",
+      "pub_date": 1792020960.0,
+      "article_url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-14T21:20:28.514023+00:00"
+  "fetched_at": "2026-10-15T00:01:09.021484+00:00"
 }
