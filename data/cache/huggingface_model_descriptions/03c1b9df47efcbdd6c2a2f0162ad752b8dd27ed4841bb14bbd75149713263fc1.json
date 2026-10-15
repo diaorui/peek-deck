@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-15T05:00:45.471622+00:00",
+  "data": "Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generation, voice cloning, and natural language control across 40+ languages. It excels at generating multi-character scenes and long-form content with features like speaker tags and automatic long text chunking for streaming.",
+  "model_id": "fishaudio/drama-3"
+}
