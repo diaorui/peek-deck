@@ -9,8 +9,8 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "hn_url": "https://news.ycombinator.com/item?id=50091788",
       "author": "latexr",
-      "points": 933,
-      "num_comments": 603,
+      "points": 936,
+      "num_comments": 609,
       "created_at": "2026-10-14T17:45:23Z",
       "object_id": "50091788",
       "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&strip=all&w=1024",
@@ -19,26 +19,12 @@
       "site_name": "CSO Online"
     },
     {
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "hn_url": "https://news.ycombinator.com/item?id=50063427",
-      "author": "layer8",
-      "points": 784,
-      "num_comments": 600,
-      "created_at": "2026-10-12T21:40:18Z",
-      "object_id": "50063427",
-      "image": null,
-      "description": "A response to Rich Hickey's \"'AI' is Not a Tool\": automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.",
-      "favicon": "https://yyhh.org/favicon.ico",
-      "site_name": "yyhh.org"
-    },
-    {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "hn_url": "https://news.ycombinator.com/item?id=50092664",
       "author": "smartmic",
       "points": 377,
-      "num_comments": 268,
+      "num_comments": 271,
       "created_at": "2026-10-14T18:32:52Z",
       "object_id": "50092664",
       "image": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-jpmorgan-man-group.jpg",
@@ -65,7 +51,7 @@
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=50068036",
       "author": "nryoo",
-      "points": 332,
+      "points": 333,
       "num_comments": 291,
       "created_at": "2026-10-13T07:28:34Z",
       "object_id": "50068036",
@@ -73,20 +59,6 @@
       "description": "Today, we\u2019re sharing that Character.ai has initiated a voluntary Chapter 11 bankruptcy process to facilitate a court-supervised sale of the company.\u00a0\n\nOver the past year, we\u2019ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After a comprehensive review",
       "favicon": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/size/w256h256/2025/11/logo.png",
       "site_name": "character.ai blog"
-    },
-    {
-      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50063365",
-      "author": "hurricanepootis",
-      "points": 308,
-      "num_comments": 179,
-      "created_at": "2026-10-12T21:35:35Z",
-      "object_id": "50063365",
-      "image": "https://www.intel.com/etc.clientlibs/settings/wcm/designs/intel/us/en/images/resources/printlogo.png",
-      "description": "Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, long contexts, and high-concurrency serving at practical power and cost.",
-      "favicon": "https://www.intel.com/etc.clientlibs/settings/wcm/designs/intel/default/resources/favicon-32x32.png",
-      "site_name": "Intel"
     },
     {
       "title": "AI models can provably hide arbitrary capabilities",
@@ -103,12 +75,26 @@
       "site_name": "arXiv.org"
     },
     {
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50108131",
+      "author": "vinyl7",
+      "points": 209,
+      "num_comments": 165,
+      "created_at": "2026-10-15T18:32:29Z",
+      "object_id": "50108131",
+      "image": "https://www.currentaffairs.org/hubfs/smash1.png",
+      "description": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.",
+      "favicon": "https://www.currentaffairs.org/hubfs/favicon.png",
+      "site_name": "currentaffairs.org"
+    },
+    {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "hn_url": "https://news.ycombinator.com/item?id=50104654",
       "author": "aaraujo002",
-      "points": 178,
-      "num_comments": 152,
+      "points": 204,
+      "num_comments": 173,
       "created_at": "2026-10-15T14:58:48Z",
       "object_id": "50104654",
       "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation-1.jpg",
@@ -143,9 +129,23 @@
       "description": "Exploring practical ways to make your game more legible to AI agents and how to make agentic iteration faster.",
       "favicon": "https://cdn.blot.im/blog_bceb40b92fea4cb981fda87bd5169c58/_avatars/d5eb2d47-553c-4c16-9529-04e5c8cd95bc.jpg",
       "site_name": "kylekukshtel.com"
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "hn_url": "https://news.ycombinator.com/item?id=50085323",
+      "author": "tobr",
+      "points": 154,
+      "num_comments": 86,
+      "created_at": "2026-10-14T10:28:26Z",
+      "object_id": "50085323",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "swedenherald.com"
     }
   ],
-  "total_hits": 754,
+  "total_hits": 752,
   "has_metadata": true,
-  "fetched_at": "2026-10-15T18:53:44.825352+00:00"
+  "fetched_at": "2026-10-15T21:58:11.205872+00:00"
 }
