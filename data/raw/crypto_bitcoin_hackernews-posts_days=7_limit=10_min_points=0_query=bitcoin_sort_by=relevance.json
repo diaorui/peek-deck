@@ -75,6 +75,20 @@
       "site_name": null
     },
     {
+      "title": "Timekeepers to vote on ditching the leap second",
+      "url": "https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528",
+      "hn_url": "https://news.ycombinator.com/item?id=50050603",
+      "author": "Gaishan",
+      "points": 16,
+      "num_comments": 0,
+      "created_at": "2026-10-12T02:29:12Z",
+      "object_id": "50050603",
+      "image": "https://live-production.wcms.abc-cdn.net.au/36ec9465a59266662455c43ce4793fb8?impolicy=wcms_watermark_news&cropH=1801&cropW=3201&xPos=0&yPos=700&width=862&height=485&imformat=generic",
+      "description": "Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.",
+      "favicon": "https://www.abc.net.au/news-assets/touchicon.png",
+      "site_name": "abc.net.au"
+    },
+    {
       "title": "Show HN: GitVolt, open source fast Git GUI (Tauri/CEF)",
       "url": "https://gitvolt.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50097549",
@@ -87,23 +101,9 @@
       "description": "A fast, keyboard-friendly desktop Git client with a commit graph at its heart. Free and MIT licensed; Linux, Windows and macOS.",
       "favicon": "https://gitvolt.com/assets/favicon-BOyb6FN_.svg",
       "site_name": "GitVolt"
-    },
-    {
-      "title": "Microsoft 365 subscriptions now use shared cloud storage",
-      "url": "https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage",
-      "hn_url": "https://news.ycombinator.com/item?id=50012149",
-      "author": "itchingsphynx",
-      "points": 3,
-      "num_comments": 1,
-      "created_at": "2026-10-08T20:57:16Z",
-      "object_id": "50012149",
-      "image": null,
-      "description": "Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.",
-      "favicon": "https://support.microsoft.com/apple-touch-icon.png",
-      "site_name": "support.microsoft.com"
     }
   ],
   "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-10-15T18:53:43.335356+00:00"
+  "fetched_at": "2026-10-15T21:58:07.192229+00:00"
 }

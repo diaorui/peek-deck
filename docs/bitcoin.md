@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-15T18:54:15.176878+00:00'
+updated: '2026-10-15T21:58:36.226770+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 18:54 UTC  
+**Last Updated:** October 15, 2026 at 21:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,334.02
+### $82,300.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.4%  
-**30d:** +8.0%  
-**90d:** +27.0%  
-**1y:** -23.8%  
+**24h:** +0.9%  
+**7d:** -0.2%  
+**30d:** +8.1%  
+**90d:** +27.1%  
+**1y:** -23.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1653.43B
+**Market Cap:** $1653.71B
 Rank #1
 
-**Circulating Supply:** 20,098,712 BTC
+**Circulating Supply:** 20,098,790 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.8%
+-34.7%
 
 **All-Time Low:** $67.81
-+121216.9%
++121240.5%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Is This Guy Real?This guy claims he held Bitcoin since 2013, made a 1000x return and recreated his old viral video 11 years later. Pretty insane if true.But is this story actually real? Anyone know who he is?](https://www.reddit.com/r/Bitcoin/comments/1x4apxa/is_this_guy_realthis_guy_claims_he_held_bitcoin/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 My friends father was renting space on his farm for a bitcoin mining operation. The operation became unprofitable. The mining operation went bankrupt. The company came in and took everything out of the 6 antmain bit-boxes (converted shipping containers). The photos are what they left behind. Mostly Antminer S19 units and even more asic boards. Plenty of antmain rack PDUs. Some 480VAC breaker panels. A 480VAC switch unit. The land owner did accept the mess voluntarily. He is breaking the equipment down for scrap value. I wonder, is there a better price available out there above scrap value? Is this normal? FWIW, I used the term failed very tongue-in-cheek. I estimate the operation mined millions in this operation.
 
-3d ago
+4d ago
 
 ---
 
@@ -129,7 +129,7 @@ Money supply isn't dropping any time soon. The next run will be glorious.
 
 **[AI Agents Agree: BTC is best for long term capital preservation.](https://www.reddit.com/r/Bitcoin/comments/1x4bvlx/ai_agents_agree_btc_is_best_for_long_term_capital/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -153,17 +153,9 @@ The company confirmed physical tampering in at least one affected device. In add
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Seizures Are Raising A $5 Billion Question Linked To Who Should Benefit From The Gains](https://www.forbes.com/sites/digital-assets/2026/10/15/bitcoin-seizures-are-raising-a-5-billion-question-linked-to-who-should-benefit-from-the-gains/)**
+**[Bitcoin Bounces Back As Macro Pressures And Leverage Fuel Gains](https://www.forbes.com/sites/digital-assets/2026/10/15/bitcoin-bounces-back-as-macro-pressures-and-leverage-fuel-gains/)**
 
 Forbes • 1h ago
-
----
-
-**[Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes](https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block)**
-
-(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency’s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.“The move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,” Rahman said. “In the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.”Both Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.“The 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,” he said. “This could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
-
-Kitco • 41m ago
 
 ---
 
@@ -175,25 +167,33 @@ CoinDesk • 2h ago
 
 ---
 
-**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-predicts-bitcoin-blow-170310227.html)**
+**[Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms](https://finance.yahoo.com/markets/crypto/articles/russia-soon-ban-peer-peer-203104153.html)**
 
-Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
+Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Better Buy Right Now: Bitcoin vs. Shiba Inu](https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/)**
-
-Both of these cryptocurrencies have registered positive momentum in the past three months.
-
-The Motley Fool • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes](https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block)**
+
+(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency’s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.“The move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,” Rahman said. “In the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.”Both Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.“The 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,” he said. “This could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
+
+Kitco • 6h ago
+
+---
+
+**[US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report](https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis)**
+
+Chainalysis research shows that the U.S. is HODLing bitcoin hard.
+
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -203,27 +203,27 @@ Axios • 1d ago
 
 ---
 
-**[Here's how analysts see U.S. inflation influencing the price of bitcoin ( BTC): Crypto Daily](https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin)**
+**[Better Buy Right Now: Bitcoin vs. Shiba Inu](https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/)**
 
-The day ahead in crypto: Oct. 14, 2026
+Both of these cryptocurrencies have registered positive momentum in the past three months.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin price falls toward $81,500 after September CPI report](https://qz.com/bitcoin-price-falls-september-cpi-inflation-101426)**
-
-Crypto analyst sentiment has turned bullish, with 84% of analysts positive on bitcoin, according to Bloomberg
-
-Quartz • 22h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion](https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion)**
+**[Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says](https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust)**
 
-Hot inflation data revived Fed rate-hike bets, and leveraged Bitcoin bulls paid the bill as nearly $1 billion in crypto positions were liquidated.
+No matter how the AI story ends, Bitwise’s chief investment officer argues, the trade leads to the same place: Bitcoin higher.
 
-Decrypt • 3h ago
+Decrypt • 2h ago
+
+---
+
+**[Bitcoin retests $82,000 as $20 million in leveraged shorts get liquidated](https://www.tradingview.com/news/cryptobriefing:a579828ad094b:0-bitcoin-retests-82-000-as-20-million-in-leveraged-shorts-get-liquidated/)**
+
+Bitcoin retested $82,000, and the move cost leveraged short sellers $20 million in liquidations.A short is a bet that price will fall. Add leverage, and that bet is made with borrowed money that an exchange can pull the moment the trade moves against you.When Bitcoin pushed back toward $82,000, som…
+
+TradingView • 6h ago
 
 ---
 
@@ -243,13 +243,13 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 1 • 20h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
+⬆️ 2 • 💬 1 • 23h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
 
 ---
 
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
-⬆️ 1 • 💬 0 • 2d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
+⬆️ 1 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
 
 ---
 
@@ -267,19 +267,19 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ---
 
+**[Timekeepers to vote on ditching the leap second](https://news.ycombinator.com/item?id=50050603)**
+
+Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.
+
+⬆️ 16 • 💬 0 • 3d ago • [abc.net.au](https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528)
+
+---
+
 **[Show HN: GitVolt, open source fast Git GUI (Tauri/CEF)](https://news.ycombinator.com/item?id=50097549)**
 
 A fast, keyboard-friendly desktop Git client with a commit graph at its heart. Free and MIT licensed; Linux, Windows and macOS.
 
-⬆️ 4 • 💬 0 • 18h ago • [GitVolt](https://gitvolt.com/)
-
----
-
-**[Microsoft 365 subscriptions now use shared cloud storage](https://news.ycombinator.com/item?id=50012149)**
-
-Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.
-
-⬆️ 3 • 💬 1 • 6d ago • [support.microsoft.com](https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage)
+⬆️ 4 • 💬 0 • 21h ago • [GitVolt](https://gitvolt.com/)
 
 ---
 
@@ -287,23 +287,33 @@ Learn more about how Microsoft 365 subscriptions now use shared cloud storage in
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Came THIS Close to Breaking Down: $97K Next?](https://www.youtube.com/watch?v=U5p7VdWDV-E)**
+
+No B.S. Just Charts. Bitcoin came this close to a major breakdown, and Gareth Soloway shows the exact Bitcoin price levels that ...
+
+📺 Gareth Soloway
+
+👁️ 32K • 👍 2K • 💬 106 • ⏱️ 13:02 • 3h ago
+
+---
+
+**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
+
+Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
+
+📺 Simply Bitcoin
+
+👁️ 2K • 👍 230 • 💬 31 • ⏱️ 16:42 • 58m ago
+
+---
+
 **[🚨 Everyone Is WRONG About Bitcoin Right Now!](https://www.youtube.com/watch?v=2Yni82DI-qQ)**
 
 Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
 
 📺 DataDash
 
-👁️ 2K • 👍 96 • 💬 18 • ⏱️ 13:38 • 3h ago
-
----
-
-**[Why Bitcoin Sold Off Today (And Why I’m Not Worried)](https://www.youtube.com/watch?v=X-IqUxY-700)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
-
-📺 Aaron Bennett
-
-👁️ 11K • 👍 317 • 💬 38 • ⏱️ 16:46 • 11h ago
+👁️ 4K • 👍 133 • 💬 33 • ⏱️ 13:38 • 6h ago
 
 ---
 
@@ -313,17 +323,17 @@ Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 522 • 💬 51 • ⏱️ 42:05 • 2h ago
+👁️ 18K • 👍 581 • 💬 51 • ⏱️ 42:05 • 5h ago
 
 ---
 
-**[Guess Who Just Crashed Crypto?](https://www.youtube.com/watch?v=6BN9xTViyEY)**
+**[Why Bitcoin Sold Off Today (And Why I’m Not Worried)](https://www.youtube.com/watch?v=X-IqUxY-700)**
 
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
-📺 Altcoin Daily
+📺 Aaron Bennett
 
-👁️ 84K • 👍 2K • 💬 131 • ⏱️ 11:55 • 18h ago
+👁️ 13K • 👍 340 • 💬 47 • ⏱️ 16:46 • 14h ago
 
 ---
 
@@ -333,7 +343,37 @@ Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market i
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 115 • ⏱️ 14:20 • 20h ago
+👁️ 40K • 👍 2K • 💬 120 • ⏱️ 14:20 • 1d ago
+
+---
+
+**[Guess Who Just Crashed Crypto?](https://www.youtube.com/watch?v=6BN9xTViyEY)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 88K • 👍 2K • 💬 133 • ⏱️ 11:55 • 21h ago
+
+---
+
+**[Bitcoin Live Trading: BTC FIGHTS FOR SUPPORT! Can Traders Turn This Around? EP2154](https://www.youtube.com/watch?v=iY2P1_XuxNg)**
+
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
+
+📺 Crypto Lifer
+
+👁️ 8K • 👍 460 • 💬 1 • ⏱️ 2:00:26 • 4h ago
+
+---
+
+**[Ex-Banker: When and Why Bitcoin Gets There | Sid Powell](https://www.youtube.com/watch?v=PI1G799S6tk)**
+
+Ex-banker Sid Powell, co-founder and CEO of Maple Finance, says stablecoins could drain deposits out of banks faster than ...
+
+📺 Kyle Chasse crypto
+
+👁️ 6K • 👍 210 • 💬 19 • ⏱️ 38:55 • 1d ago
 
 ---
 
@@ -343,47 +383,7 @@ Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Al
 
 📺 Altcoin Daily
 
-👁️ 103K • 👍 3K • 💬 144 • ⏱️ 10:28 • 1d ago
-
----
-
-**[“IT’S CERTAIN! The Fed’s About to TRIGGER Bitcoin’s Biggest Bull Market” - Jack Mallers](https://www.youtube.com/watch?v=sIetd3jY4nY)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 11K • 👍 245 • 💬 5 • ⏱️ 19:47 • 20h ago
-
----
-
-**[(WARNING) Every CRYPTO Bull Market Had This Dip First (And It’s Happening Right Now)](https://www.youtube.com/watch?v=g9qGxP3DMac)**
-
-Thanks Coinbase for sponsoring this crypto video! Save 80% spot fees through my link! https://coinbase.com/aff/ccv?s=youtube ...
-
-📺 Crypto Capital Venture
-
-👁️ 5K • 👍 348 • 💬 80 • ⏱️ 15:34 • 3h ago
-
----
-
-**[Why Bitcoin and Silver Are About to Explode (Troy Black Prophecy)](https://www.youtube.com/watch?v=JTa6eniYgqk)**
-
-The new channels name is " Economic News Ninja " You can sign up for my free newsletter here: ...
-
-📺 The Economic Ninja
-
-👁️ 53K • 👍 2K • 💬 370 • ⏱️ 8:51 • 21h ago
-
----
-
-**[Bitcoin Warning: Key Level Just Broken! 🚨](https://www.youtube.com/watch?v=2Bx8_wCUomQ)**
-
-This is all about the key level which has just broken for Bitcoin. Big news for all Bitcoin, Ethereum, Solana and Altcoin investors.
-
-📺 Investing Made Simple
-
-👁️ 8K • 👍 398 • ⏱️ 13:37 • 5h ago
+👁️ 104K • 👍 3K • 💬 145 • ⏱️ 10:28 • 1d ago
 
 ---
 
