@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-14T21:20:31.421107+00:00'
+updated: '2026-10-15T00:01:14.921279+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 14, 2026 at 21:20 UTC  
+**Last Updated:** October 15, 2026 at 00:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.](https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/)**
-
-🔗 [gizmodo.com](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964) • 13h ago
-
----
-
 **[Epic Games says it vibe coded new launcher because “programming is hard”](https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/)**
 
 Epic Games has revealed a new version of its launcher, claiming it was “vibe coded” because “programming is hard.”
 
-🔗 [Dexerto](https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/) • 5h ago
+🔗 [Dexerto](https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/) • 8h ago
+
+---
+
+**[Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.](https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/)**
+
+🔗 [gizmodo.com](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964) • 16h ago
 
 ---
 
@@ -55,13 +55,13 @@ Epic Games has revealed a new version of its launcher, claiming it was “vibe c
 
 Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol...
 
-🔗 [Yahoo News](https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html) • 13h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html) • 15h ago
 
 ---
 
 **[It has begun…🦾☠️](https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/)**
 
-18h ago
+21h ago
 
 ---
 
@@ -69,7 +69,15 @@ Billionaire tech investor Peter Thiel has accused former President Barack Obama 
 
 Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less "cheaper reasoning" and more "less infrastructure devoted to reminding the model what it already learned." Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?
 
-6h ago
+9h ago
+
+---
+
+**[The Age of Reason Is Safely Behind Us](https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/)**
+
+What Anthropic is doing, and publicly boasting about, to “protect” the reasoning behind the AI answers we get when we use their models, really doesn’t sit right with me.
+
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind) • 17h ago
 
 ---
 
@@ -81,11 +89,9 @@ Rumors that OpenAI’s “Navier-Stokes” solution stole the work of two mathem
 
 ---
 
-**[The Age of Reason Is Safely Behind Us](https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/)**
+**[Gemini 4 Argon apparently built this game. AI Studio is showcasing it.](https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/)**
 
-What Anthropic is doing, and publicly boasting about, to “protect” the reasoning behind the AI answers we get when we use their models, really doesn’t sit right with me.
-
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind) • 14h ago
+5h ago
 
 ---
 
@@ -93,21 +99,13 @@ What Anthropic is doing, and publicly boasting about, to “protect” the reaso
 
 YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad) • 14h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad) • 17h ago
 
 ---
 
-**[Gemini 4 Argon apparently built this game. AI Studio is showcasing it.](https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/)**
+**[Hochul vs. Blakeman: Utility bills, data centers, and ICE](https://www.reddit.com/r/artificial/comments/1x658ly/hochul_vs_blakeman_utility_bills_data_centers_and/)**
 
-2h ago
-
----
-
-**[My history podcast app now has an Atlas to explore](https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/)**
-
-I’m a history enthusiast (my dad’s fault) who builds apps and LLM tools for a living, so I built Historai: generated history podcasts on any topic you type. I just shipped the part I’m most excited about, the Atlas. The Atlas is a globe of your listening. Every episode is pinned to where and when it happened, so after a few episodes you can spin it and see the eras and places you’ve explored. Scrub the timeline and the borders redraw for that year. Tap a realm and it tells you what it was. Tap somewhere you haven’t been and it suggests an episode to make there, or shows what other listeners made in that place and era. The episodes themselves: type anything, “the fall of Constantinople”, “Ada Lovelace”, “the Great Emu War”, or “what a day looked like for a scribe in the Library of Ashurbanipal”. It researches the topic on the web, and when sources disagree (constantly, in history) the hosts say so instead of picking a side. Every episode links what it used. And you can interrupt: ask a question halfway through, the hosts answer and pick the story back up. Would love to hear what you think of the app and especially the Atlas: historai.ca
-
-7h ago
+🔗 [news10.com](https://www.news10.com/capitol/hochul-blakeman-debate-recap/) • 1h ago
 
 ---
 
@@ -117,71 +115,75 @@ I’m a history enthusiast (my dad’s fault) who builds apps and LLM tools for 
 
 **[22 People Got Together For a Dinner Party. So Did Their A.I. Agents.](https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html)**
 
-The New York Times • 3h ago
-
----
-
-**[Chinese A.I. Agents Joined the Rogue A.I. Agent Party. I Chatted With Them.](https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html)**
-
-The New York Times • 10h ago
-
----
-
-**[JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts](https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html)**
-
-JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.
-
-CNBC • 1d ago
+The New York Times • 6h ago
 
 ---
 
 **[ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)**
 
-Reuters • 16h ago
+Reuters • 18h ago
 
 ---
 
-**[AI Is Helping Bring Back the Dodo](https://time.com/article/2026/10/14/ai-dodo-colossal-biosciences/)**
+**[Ukrainian drones hit Russia's top data center in attack on AI ambitions](https://www.ksl.com/article/51636164/ukrainian-drones-hit-russias-top-data-center-in-attack-on-ai-ambitions)**
 
-Colossal Biosciences is using AI to help fill in the genetic blanks in its quest to bring the dodo back from extinction.
+Ukrainian drones hit Russia's biggest data center on Wednesday, part of a series of attacks appearing to target Moscow's ambitions to develop Russian artificial intelligence capabilities.
 
-Time Magazine • 20m ago
-
----
-
-**[Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'](https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html)**
-
-Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.
-
-CNBC • 1h ago
+KSL News • 24m ago
 
 ---
 
-**[AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip](https://finance.yahoo.com/markets/stocks/articles/ai-memory-chip-selloff-looks-140900433.html)**
+**[YouTube Music adds new labels for AI music](https://blog.youtube/news-and-events/youtube-music-ai-labels/)**
 
-Micron and Sandisk emerge as attractive buy-the-dip opportunities despite the memory stock sell-off, backed by strong AI demand and long-term growth prospects.
+We’re introducing new labels and details in YouTube Music to give you more transparency when songs are created primarily using generative AI.
 
-Yahoo Finance • 7h ago
-
----
-
-**[AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July](https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f)**
-
-WSJ • 7m ago
+YouTube Official Blog • 9h ago
 
 ---
 
-**[Yum! Brands exec pushes back on AI hate: Taco Bell drive-thru bot helped increase employee retention](https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/)**
+**[YouTube Puts AI Labels On Songs That Use The Tech For Vocals Or Composition](https://deadline.com/2026/10/youtube-music-ai-labels-1237157619/)**
 
-“I'm seeing all the data center noise and all the things that people worry about with AI, and there's that constant tension,” Yum! Brands Chief Legal Officer Erika Burkhardt said.
+YouTube Music today announced it "is rolling out labels to make it easier to see when a song was created primarily using generative AI."
 
-Fortune • 30m ago
+Deadline • 2h ago
 
 ---
 
-**[Trump Shares Bizarre AI Tiger Video In Late-Night Spree After Posting Fatal Attack Footage](https://www.forbes.com/sites/siladityaray/2026/10/14/trump-shares-bizarre-ai-tiger-video-in-late-night-spree-after-posting-fatal-attack-footage/)**
+**[YouTube Rolls Out New Labeling System for AI-Generated Music](https://www.cnet.com/tech/services-and-software/youtube-labels-ai-generated-music/)**
 
-Forbes • 14h ago
+YouTube's new AI labels will help users identify music made with generative AI tools.
+
+CNET • 42m ago
+
+---
+
+**[Kohl’s Takes Its AI Gift Finder Into the Holiday Quarter](https://www.pymnts.com/news/2026/kohls-takes-its-ai-gift-finder-into-the-holiday-quarter/)**
+
+Gift shoppers usually know who they are buying for and what they can spend. What they do not know is which product to pick. Kohl’s is betting that a
+
+PYMNTS.com • 27m ago
+
+---
+
+**[CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge](https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html)**
+
+Shares of CoreWeave sank 15%, while yields in its bonds blew out further.
+
+CNBC • 7h ago
+
+---
+
+**[AI stocks drop after hot inflation report bolsters bets for Fed rate hikes](https://www.cnn.com/2026/10/14/investing/us-stocks-ai-chipmakers)**
+
+High-flying technology stocks are taking a bruising this week, as investors grow more skeptical about whether the AI boom will live up to expectations.
+
+CNN • 3h ago
+
+---
+
+**[The AI trade is splintering as inflation fears rattle hyped-up tech stocks](https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369)**
+
+MarketWatch • 25m ago
 
 ---
 
@@ -189,11 +191,11 @@ Forbes • 14h ago
 
 ## HackerNews: "ai"
 
-**[AI agents aren't 'going rogue.' Frontier labs are skipping security basics](https://news.ycombinator.com/item?id=50091788)**
+**[Containment and monitoring failures are to blame for AI hacking reports: experts](https://news.ycombinator.com/item?id=50091788)**
 
 Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.
 
-⬆️ 760 • 💬 362 • 3h ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+⬆️ 815 • 💬 437 • 6h ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
 ---
 
@@ -201,7 +203,7 @@ Cyber experts say AI labs’ containment and monitoring failures — not agents 
 
 A response to Rich Hickey's "'AI' is Not a Tool": automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.
 
-⬆️ 755 • 💬 585 • 1d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+⬆️ 756 • 💬 587 • 2d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
 ---
 
@@ -224,7 +226,7 @@ Study finds coding efficiency gains get "absorbed" by human review "bottleneck."
 
 **[I posted to HN, and then my website was flooded with AI bot traffic](https://news.ycombinator.com/item?id=50073221)**
 
-⬆️ 339 • 💬 183 • 1d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+⬆️ 341 • 💬 183 • 1d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
 
 ---
 
@@ -240,7 +242,7 @@ Today, we’re sharing that Character.ai has initiated a voluntary Chapter 11 ba
 
 Over the past year, we’ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After a comprehensive review
 
-⬆️ 331 • 💬 287 • 1d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
+⬆️ 331 • 💬 288 • 1d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
 
 ---
 
@@ -248,7 +250,7 @@ Over the past year, we’ve taken meaningful steps to sustain and improve our bu
 
 (I keep delivering this as a quip, here's a bit more) First order of business - is 'tool' going to have an interesting, distinguishing and thus illuminative meaning or be a mere platitudinous stand-in for "anything useful"? We'll save tool as "anyone/thing that can be exploited" for the AI titans, f
 
-⬆️ 310 • 💬 188 • 2d ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
+⬆️ 311 • 💬 189 • 2d ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 
 ---
 
@@ -256,7 +258,7 @@ Over the past year, we’ve taken meaningful steps to sustain and improve our bu
 
 Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, long contexts, and high-concurrency serving at practical power and cost.
 
-⬆️ 306 • 💬 177 • 1d ago • [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+⬆️ 306 • 💬 177 • 2d ago • [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 
 ---
 
@@ -264,7 +266,7 @@ Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, l
 
 Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses.
 
-⬆️ 279 • 💬 139 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.13928)
+⬆️ 279 • 💬 141 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.13928)
 
 ---
 
@@ -278,17 +280,7 @@ Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in 
 
 📺 CNN
 
-👁️ 53K • 👍 914 • 💬 291 • ⏱️ 8:47 • 4h ago
-
----
-
-**[Did AI Really Reverse Engineer Every Adobe App?](https://www.youtube.com/watch?v=W5DT8jpcBCk)**
-
-Stay ahead of the curve! Attend Zero Trust World (https://go.lowlevel.tv/ztw) and get $200 off with my code ZTWLOWLEVEL27 ...
-
-📺 Low Level
-
-👁️ 141K • 👍 4K • 💬 812 • ⏱️ 7:29 • 8h ago
+👁️ 132K • 👍 1K • 💬 403 • ⏱️ 8:47 • 6h ago
 
 ---
 
@@ -298,57 +290,7 @@ Anthropic is warning that small artificial intelligence models could soon spread
 
 📺 CBS News
 
-👁️ 74K • 👍 447 • 💬 225 • ⏱️ 3:58 • 20h ago
-
----
-
-**[I Trained My Own 30M Parameter AI to Run on an ESP32](https://www.youtube.com/watch?v=LgCNVUndTH8)**
-
-I trained my own AI language model from scratch and got it running offline on an ESP32! In this video I'll show you how I trained ...
-
-📺 Marina
-
-👁️ 25K • 👍 622 • 💬 51 • ⏱️ 6:34 • 18h ago
-
----
-
-**[Bill Gates calls AI ‘the most dangerous technology’ ever invented](https://www.youtube.com/watch?v=tj1dFIUAs7A)**
-
-Bill Gates predicts "the most dangerous technology humans ever invented" will likely lead to "a lot of negative surprises" in the ...
-
-📺 CNN
-
-👁️ 827K • 👍 4K • 💬 2K • ⏱️ 10:47 • 1d ago
-
----
-
-**[Whistleblower Issues Dire Warning: Rogue AI, Hacking Nuclear Programs &amp; Tech Oligarchs’ True Motives](https://www.youtube.com/watch?v=EKXJrUHudeA)**
-
-Tristan Harris worked at Google before devoting his life to saving humanity from AI. If half of what he says is true, we need to drop ...
-
-📺 Tucker Carlson
-
-👁️ 609K • 👍 11K • 💬 2K • ⏱️ 2:04:03 • 2d ago
-
----
-
-**[Palantir CEO Says Most People Won’t Survive AI Era](https://www.youtube.com/watch?v=n_LYBreBpnM)**
-
-Palantir CEO Alex Karp says only two kinds of people have a real future in the AI era, and most people don't fall into either group.
-
-📺 Valuetainment
-
-👁️ 160K • 👍 2K • 💬 375 • ⏱️ 16:33 • 2d ago
-
----
-
-**[AI Industry Not Ready For Coming Crisis, Says Mukunda](https://www.youtube.com/watch?v=lXRV6AXDSgs)**
-
-Leading AI executives are reportedly preparing for the possibility of a major AI-caused disaster within the next six to 12 months.
-
-📺 Bloomberg Podcasts
-
-👁️ 75K • 👍 381 • 💬 53 • ⏱️ 6:11 • 1d ago
+👁️ 77K • 👍 459 • 💬 226 • ⏱️ 3:58 • 23h ago
 
 ---
 
@@ -358,17 +300,77 @@ I used AI to reverse engineer real binaries, understand how they work, and then 
 
 📺 Dave's Garage
 
-👁️ 372K • 👍 15K • 💬 4K • ⏱️ 20:51 • 21h ago
+👁️ 395K • 👍 16K • 💬 4K • ⏱️ 20:51 • 23h ago
 
 ---
 
-**[Google Just DROPPED Its Most Powerful AI Ever](https://www.youtube.com/watch?v=GzY9QXDo9UU)**
+**[Did AI Really Reverse Engineer Every Adobe App?](https://www.youtube.com/watch?v=W5DT8jpcBCk)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+Stay ahead of the curve! Attend Zero Trust World (https://go.lowlevel.tv/ztw) and get $200 off with my code ZTWLOWLEVEL27 ...
 
-📺 TheAIGRID
+📺 Low Level
 
-👁️ 12K • 👍 234 • 💬 26 • ⏱️ 38:08 • 9h ago
+👁️ 172K • 👍 4K • 💬 870 • ⏱️ 7:29 • 11h ago
+
+---
+
+**[Anthropic warns of self-replicating AI models | Reuters World News](https://www.youtube.com/watch?v=9YtbKILn2Yw)**
+
+Anthropic warns AI models could soon self-replicate across the internet and become tricky to shut down. New White House Press ...
+
+📺 Reuters
+
+👁️ 14K • 👍 211 • 💬 17 • ⏱️ 10:14 • 13h ago
+
+---
+
+**[AI &quot;worms&quot; could infest your home devices within months, Anthropic warns](https://www.youtube.com/watch?v=9Swcki8Bhx8)**
+
+Anthropic is warning that your home devices could soon be infested by what they're calling artificial intelligence worms. Jordan ...
+
+📺 CBS News
+
+👁️ 189K • 👍 1K • 💬 796 • ⏱️ 4:44 • 1d ago
+
+---
+
+**[Bill Gates calls AI ‘the most dangerous technology’ ever invented](https://www.youtube.com/watch?v=tj1dFIUAs7A)**
+
+Bill Gates predicts "the most dangerous technology humans ever invented" will likely lead to "a lot of negative surprises" in the ...
+
+📺 CNN
+
+👁️ 864K • 👍 4K • 💬 2K • ⏱️ 10:47 • 2d ago
+
+---
+
+**[Anthropic Wanted To Slow The AI Space Race. Then It Filed for a $2 Trillion IPO.](https://www.youtube.com/watch?v=1bp12w_olDQ)**
+
+Anthropic is now eying a $2 trillion IPO, potentially the largest of all time. At the same time the company is trying to shield itself ...
+
+📺 More Perfect Union
+
+👁️ 98K • 👍 2K • 💬 387 • ⏱️ 14:12 • 4h ago
+
+---
+
+**[I Sent an AI to My Job Interview. So Did the Company.](https://www.youtube.com/watch?v=A0fECnj5sas)**
+
+The company sent an AI recruiter to interview me, so I sent an AI to represent me. Then I sat in the meeting and watched the two of ...
+
+📺 Graham Dot Zip
+
+👁️ 2.2M • 👍 42K • 💬 3K • ⏱️ 5:53 • 2d ago
+
+---
+
+**[Anthropic warns AI models could soon copy themselves in small devices](https://www.youtube.com/watch?v=2yvhtqQ7bBk)**
+
+Anthropic said in a new warning that small artificial intelligence models may be months away from being capable of ...
+
+📺 ABC News
+
+👁️ 72K • 👍 462 • 💬 241 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -384,7 +386,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 135,175 • ❤️ 2,247 • 8d ago
+⬇️ 135,175 • ❤️ 2,259 • 8d ago
 
 ---
 
@@ -396,7 +398,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 65,616 • ❤️ 1,620 • 6d ago
+⬇️ 65,616 • ❤️ 1,632 • 6d ago
 
 ---
 
@@ -408,19 +410,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 12,704 • ❤️ 769 • 2d ago
-
----
-
-**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
-
-*Ahmet Benzer*
-
-This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
-
-`text-to-image` `7.1B`
-
-⬇️ 2,315,771 • ❤️ 4,296 • 2d ago
+⬇️ 12,704 • ❤️ 771 • 2d ago
 
 ---
 
@@ -432,7 +422,19 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 4,157 • ❤️ 585 • 6h ago
+⬇️ 4,157 • ❤️ 612 • 8h ago
+
+---
+
+**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
+
+*Ahmet Benzer*
+
+This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
+
+`text-to-image` `7.1B`
+
+⬇️ 2,315,771 • ❤️ 4,305 • 2d ago
 
 ---
 
@@ -444,7 +446,7 @@ JEV-35B is a text classification model based on Qwen3.5-35B-A3B, excelling at Sy
 
 `text-classification` `36.0B`
 
-⬇️ 27,970 • ❤️ 715 • 15h ago
+⬇️ 27,970 • ❤️ 718 • 17h ago
 
 ---
 
@@ -456,7 +458,7 @@ Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient
 
 `text-generation` `26.9B`
 
-⬇️ 311,969 • ❤️ 455 • 4d ago
+⬇️ 311,969 • ❤️ 458 • 4d ago
 
 ---
 
@@ -468,7 +470,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,823,507 • ❤️ 7,781 • 3d ago
+⬇️ 1,823,507 • ❤️ 7,793 • 3d ago
 
 ---
 
@@ -484,15 +486,15 @@ This GGUF model provides an uncensored text encoder for Qwen-Image, reducing ref
 
 ---
 
-**[d1-3B](https://huggingface.co/LiquidAI/d1-3B)**
+**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
 
-*Liquid AI*
+*Qwen*
 
-d1-3B is a 3.1B parameter multimodal decision model excelling at calibrated, single-pass classification and decision tasks. It processes mixed text and image inputs to provide typed answers with zero output tokens, making it ideal for routing, moderation, and intent classification.
+Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic tasks, featuring flexible thinking control and a large context window up to 1M tokens.
 
-`image-text-to-text` `3.1B`
+`image-text-to-text` `27.8B`
 
-⬇️ 14,854 • ❤️ 393 • 7d ago
+⬇️ 7,221,327 • ❤️ 17,698 • 2mo ago
 
 ---
 
@@ -567,20 +569,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
-
-*Guangyi Liu, Yong Liu, Jiangning Zhang*
-
-🏢 Zhejiang University
-
-Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
-
-▲ 113 • 💬 2 • ⭐ 1,147 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
-
----
-
 **[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)**
 
 *Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)*
@@ -592,6 +580,20 @@ Symbolic models make melody, harmony, rhythm, and form explicit but typically st
 ▲ 236 • 💬 3 • ⭐ 11,950 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
+
+---
+
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
+
+🏢 Zhejiang University
+
+Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+
+▲ 113 • 💬 2 • ⭐ 1,190 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
 ---
 
@@ -629,7 +631,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Visual agents must turn video observations into timely decisions to track progress and choose what to do next. Building on the emerging System One paradigm, we introduce VideoJev, a family of models that cast video understanding and interaction as structured decision tasks. We adapt pretrained multimodal large language models (MLLMs) by replacing autoregressive answer decoding with a shared head that scores temporal intervals and textual options against video evidence. These scores yield event spans or answer choices, unifying temporal grounding and multiple-choice video question answering. This combines the semantic flexibility of MLLMs with efficient decisions that agents can use directly. As an interaction unfolds, new goals and intermediate results prompt further queries about the same visual history. VideoJev therefore reuses visual computation through Cached inference for queries as they arrive and Joint inference for multiple queries in a single forward pass. Across three temporal grounding benchmarks, VideoJev-4B and VideoJev-35B-A3B improve mean mIoU over their backbones by 6.7 and 10.8 points, respectively, with measured inference speedups of 2.8-3.1times. On four video QA benchmarks, both achieve performance comparable to their backbones in Thinking mode, with measured inference speedups exceeding 100times. These results offer a unified, reusable decision interface for composing structured visual judgments into complex, open-ended workflows.
 
-▲ 190 • 💬 1 • ⭐ 52 • 2d ago
+▲ 193 • 💬 1 • ⭐ 52 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.18615) • [💻 code](https://github.com/MCG-NJU/VideoJev) • [🔗 project](https://mcg-nju.github.io/VideoJev/)
 
@@ -655,7 +657,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.6k • 🔱 1.8k • 15h ago
+⭐ 7.6k • 🔱 1.8k • 17h ago
 
 ---
 
@@ -675,7 +677,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.3k • 🔱 755 • 52m ago
+⭐ 5.3k • 🔱 759 • 3h ago
 
 ---
 
@@ -685,7 +687,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.2k • 🔱 877 • 50m ago
+⭐ 5.2k • 🔱 878 • 8m ago
 
 ---
 
@@ -695,7 +697,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.7k • 🔱 133 • 13h ago
+⭐ 4.7k • 🔱 134 • 15h ago
 
 ---
 
@@ -719,23 +721,23 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 ---
 
-**[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)**
-
-Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
-
-`Python` `ai` `dividends` `etf` `finance` `financial-planning`
-
-⭐ 3.4k • 🔱 448 • 12m ago
-
----
-
 **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)**
 
 Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.4k • 🔱 229 • 13h ago
+⭐ 3.4k • 🔱 230 • 15h ago
+
+---
+
+**[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)**
+
+Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
+
+`Python` `ai` `dividends` `etf` `finance` `financial-planning`
+
+⭐ 3.4k • 🔱 448 • 2h ago
 
 ---
 
