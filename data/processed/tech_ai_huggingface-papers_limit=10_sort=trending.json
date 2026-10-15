@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2403.08299",
       "arxiv_url": "https://arxiv.org/abs/2403.08299",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2403.08299.png",
-      "upvotes": 25,
+      "upvotes": 26,
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2610.20571",
       "arxiv_url": "https://arxiv.org/abs/2610.20571",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20571.png",
-      "upvotes": 320,
+      "upvotes": 322,
       "num_comments": 1,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/ziplab/ATAS",
@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2610.20584",
       "arxiv_url": "https://arxiv.org/abs/2610.20584",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20584.png",
-      "upvotes": 165,
+      "upvotes": 217,
       "num_comments": 1,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/Player-1",
@@ -168,7 +168,7 @@
       "num_comments": 3,
       "published_at": "2026-09-26T20:00:00.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 11970,
+      "github_stars": 11997,
       "project_page": "https://map-yue2.github.io/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-15T18:53:53.103389+00:00"
+  "fetched_at": "2026-10-15T21:58:17.582448+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-15T18:54:15.183142+00:00'
+updated: '2026-10-15T21:58:36.230915+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 18:54 UTC  
+**Last Updated:** October 15, 2026 at 21:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -1.5%  
-**30d:** +1.4%  
-**90d:** +31.6%  
-**1y:** -37.1%  
+**24h:** +1.7%  
+**7d:** -1.1%  
+**30d:** +1.8%  
+**90d:** +32.2%  
+**1y:** -36.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.99B
+**Market Cap:** $299.95B
 Rank #2
 
 **Circulating Supply:** 122,136,580 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.5%
+-50.3%
 
 **All-Time Low:** $0.43
-+565227.6%
++567167.7%
 
 ---
 
@@ -160,6 +160,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum, XRP and Solana slide as hot inflation data rattles crypto](https://www.tradingview.com/news/cryptobriefing:e146bbc0c094b:0-ethereum-xrp-and-solana-slide-as-hot-inflation-data-rattles-crypto/)**
+
+Ethereum, XRP and Solana all dropped on October 15, 2026. The trigger had nothing to do with blockchains and everything to do with a spreadsheet from Washington.The US Consumer Price Index for September showed inflation running at 3.7% year over year. Market analysts cited by Decrypt say macro fact…
+
+TradingView • 7h ago
+
+---
+
 **[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
 
 British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
@@ -168,19 +176,33 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum’s faster-exit plan would leave new validators waiting to earn](https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/)**
+
+EIP-8061 could speed Ethereum staking exits, but capped entry would still delay new validators’ rewards and spread idle capital costs in pools.
+
+CryptoSlate • 8h ago
+
+---
+
 **[Current price of Ethereum for October 15, 2026](https://fortune.com/article/price-of-ethereum-10-15-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff](https://www.tradingview.com/news/benzinga:74bd4911d094b:0-bitcoin-ethereum-xrp-dogecoin-lose-over-2-in-cross-market-selloff/)**
+**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
 
-Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec…
+Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
 
-TradingView • 1d ago
+Seeking Alpha • 13h ago
+
+---
+
+**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://www.ccn.com/news/crypto/ethereum-fomo-bitcoin-xrp-fear/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -192,19 +214,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum’s faster-exit plan would leave new validators waiting to earn](https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/)**
+**[Vitalik Buterin says Ethereum is outgrowing its founder](https://cryptobriefing.com/vitalik-buterin-ethereum-leadership-evolution/)**
 
-EIP-8061 could speed Ethereum staking exits, but capped entry would still delay new validators’ rewards and spread idle capital costs in pools.
+Vitalik Buterin says Ethereum can progress without him, backing a smaller Ethereum Foundation and an AI-accelerated Lean Ethereum roadmap.
 
-CryptoSlate • 5h ago
-
----
-
-**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
-
-Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
-
-Seeking Alpha • 10h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -216,59 +230,37 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://www.ccn.com/news/crypto/ethereum-fomo-bitcoin-xrp-fear/)**
-
-CCN.com • 1d ago
-
----
-
-**[Wallet Maintenance for Ethereum Network (ETH) - 2026-10-15](https://www.binance.com/en/support/announcement/detail/d8a6908240ae4320879a0088fca050e3)**
-
-Binance • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[HUGE CANTON NETWORK, XRP, &amp; ETHEREUM NEWS! TRADFI INSTITUTIONS GO ALL IN ON TOKENIZATION!](https://www.youtube.com/watch?v=9qs9BxVEGrg)**
-
-Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Network. Ripple is partnering with Privy, a Stripe ...
-
-📺 Thinking Crypto
-
-👁️ 19K • 👍 744 • 💬 51 • ⏱️ 14:24 • 1d ago
-
----
-
-**[Has Ethereum Reached a Turning Point?](https://www.youtube.com/watch?v=orbRVd3OkTA)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 180 • 💬 6 • ⏱️ 7:31 • 19h ago
-
----
-
-**[Ethereum is trying to form a low here](https://www.youtube.com/watch?v=g1uvftFour0)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 11K • 👍 225 • 💬 9 • ⏱️ 6:47 • 2d ago
-
----
-
-**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Matt Hougan](https://www.youtube.com/watch?v=WnDF8Rfgl18)**
+**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 944 • 👍 70 • 💬 11 • ⏱️ 23:05 • 2h ago
+👁️ 7K • 👍 96 • 💬 12 • ⏱️ 23:58 • 2d ago
+
+---
+
+**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
+
+Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 18K • 👍 463 • 💬 109 • ⏱️ 14:22 • 2d ago
+
+---
+
+**[Ethereum&#39;s Fundamentals Skyrocket, But Where&#39;s the Price Surge?](https://www.youtube.com/watch?v=yI3eXQSGQhw)**
+
+Ethereum's fundamentals are getting stronger—but ETH's price isn't keeping up. Despite growing network activity, stablecoins, ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 33 • 💬 4 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -278,47 +270,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 1K • 👍 67 • ⏱️ 7:10 • 5h ago
+👁️ 2K • 👍 68 • ⏱️ 7:10 • 8h ago
 
 ---
 
-**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
+**[Has Ethereum Reached a Turning Point?](https://www.youtube.com/watch?v=orbRVd3OkTA)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 7K • 👍 94 • 💬 12 • ⏱️ 23:58 • 2d ago
-
----
-
-**[BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LUUbmFVy14M)**
-
-BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 140 • 💬 55 • ⏱️ 22:20 • 1h ago
+👁️ 8K • 👍 186 • 💬 6 • ⏱️ 7:31 • 22h ago
 
 ---
 
-**[Live Crypto Trading | ETH BTC Live Trade | Gold Trading Live | PPI Data Explained](https://www.youtube.com/watch?v=NZSAvYrRH5I)**
+**[BITCOIN &amp; ETHEREUM ABOUT TO EXPLODE! NEW ALL-TIME HIGH COMING? - 16 Oct 2026 | BullScout Prediction](https://www.youtube.com/watch?v=AOu6njNPvWk)**
 
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+Bitcoin #Ethereum #CryptoPrediction #BitcoinPrediction #CryptoBullRun BITCOIN & ETHEREUM ABOUT TO EXPLODE!
 
-📺 Invest For Wealth
+📺 BullScout
 
-👁️ 6K • 👍 429 • ⏱️ 1:39:33 • 40m ago
-
----
-
-**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
-
-As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
-
-📺 Coinage
-
-👁️ 5K • 👍 35 • ⏱️ 12:34 • 1d ago
+👁️ 4K • 👍 288 • 💬 29 • ⏱️ 7:46 • 4h ago
 
 ---
 
@@ -328,7 +300,37 @@ Red day for BTC, ETH, SOL, and others as fear spreads! BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 15K • 👍 437 • 💬 29 • ⏱️ 1:02:51 • 6h ago
+👁️ 17K • 👍 461 • 💬 30 • ⏱️ 1:02:51 • 9h ago
+
+---
+
+**[Bitcoin, Ethereum ETF Divergence from Futures; Bracing for Next Catalyst](https://www.youtube.com/watch?v=vSsNxPq2-h4)**
+
+Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesSchwab to talk about the latest moves in ...
+
+📺 Schwab Network
+
+👁️ 4K • 👍 41 • 💬 2 • ⏱️ 5:03 • 23h ago
+
+---
+
+**[🔴 LIVE Crypto Trading Today | Bitcoin &amp; Ethereum Live Analysis | BTC/USDT Price Action | IFW](https://www.youtube.com/watch?v=zvvhtsL2qiM)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 3K • 👍 247 • ⏱️ 57:27 • 2d ago
+
+---
+
+**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
+
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+
+📺 Marzell Crypto
+
+👁️ 532 • 👍 17 • 💬 2 • ⏱️ 3:19 • 10h ago
 
 ---
 
