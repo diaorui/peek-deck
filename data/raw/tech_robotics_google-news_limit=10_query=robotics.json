@@ -25,16 +25,6 @@
       "description": "In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president."
     },
     {
-      "headline": "Rivian partner Mind Robotics hires Doug Field as president",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVoxZDNlUDMzWTFmdUJmbVZ6YVY4NUdtSWtaZ09yS2VwVFgzVkZ0UHRyNTF0dkRpYnJDU0JaSEdNejltazIza1VTRTRKN3VxdWJRN3VhV2I2MjR0Umc5TENaUkhGdFM1ZmJjQXUyQTN1bVl5YldZZ0QyTlVFb3Z1cG1tN0gzRlYzOUZXc0ExTUpVdVctSXJWWk0zOGVTZV9EY0R0WA?oc=5",
-      "pub_date": 1791916200.0,
-      "article_url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/c60a24b2-e1cf-4857-8c59-5fb7f9f74efe-Doug_Field_portrait.webp?quality=90&strip=all&crop=0%2C3.4699921278537%2C100%2C93.060015744293&w=1200",
-      "description": "It\u2019s a major coup for RJ Scaringe\u2019s secretive startup."
-    },
-    {
       "headline": "Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -43,6 +33,16 @@
       "article_url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Rivian partner Mind Robotics hires Doug Field as president",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVoxZDNlUDMzWTFmdUJmbVZ6YVY4NUdtSWtaZ09yS2VwVFgzVkZ0UHRyNTF0dkRpYnJDU0JaSEdNejltazIza1VTRTRKN3VxdWJRN3VhV2I2MjR0Umc5TENaUkhGdFM1ZmJjQXUyQTN1bVl5YldZZ0QyTlVFb3Z1cG1tN0gzRlYzOUZXc0ExTUpVdVctSXJWWk0zOGVTZV9EY0R0WA?oc=5",
+      "pub_date": 1791916200.0,
+      "article_url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/c60a24b2-e1cf-4857-8c59-5fb7f9f74efe-Doug_Field_portrait.webp?quality=90&strip=all&crop=0%2C3.4699921278537%2C100%2C93.060015744293&w=1200",
+      "description": "It\u2019s a major coup for RJ Scaringe\u2019s secretive startup."
     },
     {
       "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
@@ -65,6 +65,16 @@
       "description": "A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday."
     },
     {
+      "headline": "Swarming robots to tackle space debris",
+      "source": "European Space Agency",
+      "source_url": "https://www.esa.int",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3REUFlKellvRG9CdHZRVzdocEQ4U2ZoNVNLX0xZb0F0LTRQRGZNd0ZfcVBPWXRsd3lrYVZLRTlTYXFmUmlsc0NWaGJIWVR1eG9FSV9wejc5WlJHeUFlT1RGVlY0UFp1MW1rTENCZkFtc0lMSDhxeUlnVnVpN1pHMFlsUF9FLWpLTkJGZl9KZHhUQQ?oc=5",
+      "pub_date": 1792051563.0,
+      "article_url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_pillars.jpg",
+      "description": "Test setup in a robotics laboratory"
+    },
+    {
       "headline": "These workers help train robots who could one day steal their jobs",
       "source": "NPR",
       "source_url": "https://www.npr.org",
@@ -75,6 +85,16 @@
       "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
     },
     {
+      "headline": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
+      "pub_date": 1792058400.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
+      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
+    },
+    {
       "headline": "\u2018Infinite Demand For Robots:\u2019 Inside Matter Venture Partners\u2019 $450 Million Bet On Physical AI",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "The SF real estate firm betting big on robotics",
-      "source": "The San Francisco Standard",
-      "source_url": "https://sfstandard.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlI1N2pFTVlnalhzcnIzM25qTTV6eGZNWXFxbjVGV2RNaVpKLVBGR1RTQm9MVUpueDJJTDBWeG5vdVM0d21YR0hWcGMteW5ranRPc2twSnYtWW1HU043bmE0a2tMVl9pc0FjdDBsTGxmQU1FS2JVemc4R1lENW5PTmJNSWVab0hf?oc=5",
-      "pub_date": 1792016708.0,
-      "article_url": "https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_a80tcgeem90i1csqf782iofa6u/-S1200x630-FPNG",
-      "description": "The San Francisco real estate firm going all in on the robotics boom"
-    },
-    {
-      "headline": "Tiny robots speed medicine through body to the heart",
-      "source": "Johns Hopkins University",
-      "source_url": "https://hub.jhu.edu",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mWHBYNXFaZC1Yby1KX1dNVHRXbUVOOEJZa2Z1bEV2VHRXcGE5MkdZS3dTRXZSckNVTDE5Q3o1OXgyeEg3MnQ0SlpBMjVCVHdGNkhfQm5IUnRZR1k2OVc3eUV5SlpMTHJyalVVZXF1RTBfRWFYMVFROEl3?oc=5",
-      "pub_date": 1791815400.0,
-      "article_url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T09:46:33.877295+00:00"
+  "fetched_at": "2026-10-15T14:42:11.996410+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-15T09:46:38.607524+00:00'
+updated: '2026-10-15T14:42:19.179978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 09:46 UTC  
+**Last Updated:** October 15, 2026 at 14:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,420.35
+### $2,356.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.3%  
-**7d:** -4.7%  
-**30d:** -1.9%  
-**90d:** +27.4%  
-**1y:** -39.1%  
+**24h:** -2.0%  
+**7d:** -4.3%  
+**30d:** -1.5%  
+**90d:** +27.9%  
+**1y:** -38.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $289.51B
+**Market Cap:** $289.83B
 Rank #2
 
 **Circulating Supply:** 122,136,580 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.1%
+-52.0%
 
 **All-Time Low:** $0.43
-+547349.2%
++548095.2%
 
 ---
 
@@ -96,7 +96,7 @@ staking eth for about three years now. started with lido, then tried rocket pool
 
 Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
-3d ago
+4d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-4d ago
+5d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 5d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 6d ago
 
 ---
 
@@ -152,19 +152,27 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[Bitmine’s Tom Lee Warns Of Ethereum Selloff](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html)**
+**[If You Put $1,000 Each Into Bitcoin, Ethereum, XRP and Solana Five Years Ago, Two Would Have Lost Money.](https://finance.yahoo.com/markets/crypto/articles/put-1-000-bitcoin-ethereum-133029420.html)**
 
-Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET...
+Four popular cryptocurrencies, one $4,000 total investment, and a five-year window that produced wildly different results. The coins that generated the most excitement heading into late 2021 may not be the ones that rewarded investors most.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
+**[Current price of Ethereum for Oct. 15, 2026](https://fortune.com/article/price-of-ethereum-10-15-2026/)**
 
-Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Seeking Alpha • 1h ago
+Fortune • 3h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Lost $391 Million in a Day. Only XRP ETFs Took Money In.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-lost-391-141818508.html)**
+
+When Bitcoin ETFs and Ethereum ETFs both bled hundreds of millions in a single session, one unlikely crypto fund quietly moved in the opposite direction, raising a question investors cannot easily dismiss.
+
+Yahoo Finance • 24m ago
 
 ---
 
@@ -176,33 +184,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
+**[The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.](https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/)**
 
-British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
-
-Decrypt • 16h ago
-
----
-
-**[Current price of Ethereum for October 14, 2026](https://fortune.com/article/price-of-ethereum-10-14-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
-
----
-
-**[Ethereum FOMO grows as Bitcoin, XRP sentiment weakens – Why it matters](https://ambcrypto.com/ethereum-fomo-grows-as-bitcoin-xrp-sentiment-weakens-why-it-matters/)**
-
-Does bearish sentiment dominates Bitcoin, Ethereum and XRP as prolonged declines weigh on investor confidence?
-
-AMBCrypto • 9h ago
-
----
-
-**[Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.](https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/)**
-
-Don't let shortsighted sellers distract you from this coin's real value.
+A major source of Ethereum demand is about to disappear. That's a problem for investors.
 
 The Motley Fool • 2d ago
 
@@ -212,13 +196,15 @@ The Motley Fool • 2d ago
 
 Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec…
 
-TradingView • 15h ago
+TradingView • 20h ago
 
 ---
 
-**[Ethereum Price Forecast: ETH falls below $2,500 as hot CPI raises Fed hike odds](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-falls-below-2-500-as-hot-cpi-raises-fed-hike-odds-202610141957)**
+**[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
 
-FXStreet • 13h ago
+British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
+
+Decrypt • 20h ago
 
 ---
 
@@ -228,9 +214,45 @@ Binance • 1d ago
 
 ---
 
+**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
+
+Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
+
+Seeking Alpha • 6h ago
+
+---
+
+**[Ethereum’s faster-exit plan would leave new validators waiting to earn](https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/)**
+
+EIP-8061 could speed Ethereum staking exits, but capped entry would still delay new validators’ rewards and spread idle capital costs in pools.
+
+CryptoSlate • 1h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
+
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+
+📺 Marzell Crypto
+
+👁️ 127 • 👍 10 • 💬 2 • ⏱️ 3:19 • 3h ago
+
+---
+
+**[Crypto Bloodbath,  Ethereum Shorts, Meme Scams, &amp; WSH Podcast Interview](https://www.youtube.com/watch?v=5r4QcLj7AF0)**
+
+Red day for BTC, ETH, SOL, and others as fear spreads! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 352 • 💬 14 • ⏱️ 1:02:51 • 2h ago
+
+---
 
 **[Has Ethereum Reached a Turning Point?](https://www.youtube.com/watch?v=orbRVd3OkTA)**
 
@@ -238,7 +260,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 143 • 💬 5 • ⏱️ 7:31 • 10h ago
+👁️ 7K • 👍 165 • 💬 6 • ⏱️ 7:31 • 15h ago
 
 ---
 
@@ -248,7 +270,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 172 • 💬 18 • ⏱️ 21:33 • 17h ago
+👁️ 10K • 👍 192 • 💬 18 • ⏱️ 21:33 • 22h ago
 
 ---
 
@@ -256,7 +278,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Itsdanielmac
 
-👁️ 21K • 👍 451 • 💬 25 • ⏱️ 0:48 • 15h ago
+👁️ 26K • 👍 547 • 💬 25 • ⏱️ 0:48 • 20h ago
 
 ---
 
@@ -266,17 +288,7 @@ As trillions of dollars in traditional financial assets prepare to move on-chain
 
 📺 Coinage
 
-👁️ 4K • 👍 35 • ⏱️ 12:34 • 20h ago
-
----
-
-**[Bitcoin, Ethereum ETF Divergence from Futures; Bracing for Next Catalyst](https://www.youtube.com/watch?v=vSsNxPq2-h4)**
-
-Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesSchwab to talk about the latest moves in ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 33 • 💬 1 • ⏱️ 5:03 • 11h ago
+👁️ 5K • 👍 35 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -286,7 +298,17 @@ Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading throu
 
 📺 Crypto Capital Venture
 
-👁️ 18K • 👍 459 • 💬 129 • ⏱️ 14:22 • 1d ago
+👁️ 18K • 👍 462 • 💬 122 • ⏱️ 14:22 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum ETF Divergence from Futures; Bracing for Next Catalyst](https://www.youtube.com/watch?v=vSsNxPq2-h4)**
+
+Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesSchwab to talk about the latest moves in ...
+
+📺 Schwab Network
+
+👁️ 3K • 👍 37 • 💬 2 • ⏱️ 5:03 • 16h ago
 
 ---
 
@@ -296,27 +318,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 92 • 💬 12 • ⏱️ 23:58 • 1d ago
-
----
-
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=FvIVxGGU5Js)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 20K • 👍 356 • 💬 14 • ⏱️ 24:39 • 2d ago
-
----
-
-**[BITCOIN URGENT UPDATE: It&#39;s Getting Worse (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PoYcO73O1fk)**
-
-BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 19K • 👍 393 • 💬 168 • ⏱️ 22:10 • 17h ago
+👁️ 7K • 👍 93 • 💬 12 • ⏱️ 23:58 • 1d ago
 
 ---
 
@@ -326,7 +328,7 @@ Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join
 
 📺 Trade Confident
 
-👁️ 603 • 👍 14 • 💬 1 • ⏱️ 4:07 • 14h ago
+👁️ 710 • 👍 15 • 💬 1 • ⏱️ 4:07 • 19h ago
 
 ---
 
