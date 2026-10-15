@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-14T21:20:31.434059+00:00'
+updated: '2026-10-15T00:01:14.936375+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 14, 2026 at 21:20 UTC  
+**Last Updated:** October 15, 2026 at 00:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -2.2%  
-**30d:** +0.8%  
-**90d:** +31.4%  
-**1y:** -39.4%  
+**24h:** -3.3%  
+**7d:** -2.6%  
+**30d:** +0.2%  
+**90d:** +30.1%  
+**1y:** -37.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.00B
+**Market Cap:** $295.25B
 Rank #2
 
 **Circulating Supply:** 122,133,648 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.2%
+-51.1%
 
 **All-Time Low:** $0.43
-+557753.8%
++558312.8%
 
 ---
 
@@ -172,31 +172,15 @@ CoinDesk • 1d ago
 
 British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
 
-Decrypt • 3h ago
+Decrypt • 6h ago
 
 ---
 
-**[Tom Lee's Bitmine Buys Another $31 Million in Ethereum, But There's a Catch](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-another-163000864.html)**
+**[Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.](https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/)**
 
-Bitmine Chair Tom Lee hints at a looming end to the longest ETH buying spree
+Don't let shortsighted sellers distract you from this coin's real value.
 
-Yahoo Finance • 2d ago
-
----
-
-**[The World's Biggest Ethereum Treasury Company Will Stop Buying ETH Soon. That's Why I'm Bearish on Ethereum Right Now.](https://www.fool.com/investing/2026/10/13/the-worlds-biggest-ethereum-treasury-company-will/)**
-
-A major source of Ethereum demand is about to disappear. That's a problem for investors.
-
-The Motley Fool • 1d ago
-
----
-
-**[Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether](https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether)**
-
-The Bitmine (BMNR) chairman said he expects younger investors to drive demand for digital assets as his Ethereum treasury company inches closer to owning 5% of ether (ETH).
-
-CoinDesk • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -204,7 +188,13 @@ CoinDesk • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 12h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415)**
+
+FXStreet • 19h ago
 
 ---
 
@@ -216,15 +206,23 @@ Tom Lee says tokenization and AI agents will reverse Ethereum's decline against 
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415)**
+**[Crypto’s $800M Wipeout Revives Arthur Hayes’s Extreme $200K Ethereum Price Call](https://www.ccn.com/news/crypto/ethereum-200k-arthur-hayess-extreme-call-ai-crash-catch/)**
 
-FXStreet • 17h ago
+CCN.com • 12h ago
 
 ---
 
-**[Crypto’s $800M Wipeout Revives Arthur Hayes’s Extreme $200K Ethereum Price Call](https://www.ccn.com/news/crypto/ethereum-200k-arthur-hayess-extreme-call-ai-crash-catch/)**
+**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
 
-CCN.com • 9h ago
+Forbes • 2d ago
+
+---
+
+**[VanEck withdraws SEC registration for its Lido Staked Ethereum ETF](https://cryptobriefing.com/vaneck-withdraws-lido-staked-ethereum-etf/)**
+
+VanEck withdrew SEC registration for its Lido Staked Ethereum ETF, confirming no shares were or will be issued. Here is what it means for stETH.
+
+Crypto Briefing • 1h ago
 
 ---
 
@@ -232,23 +230,31 @@ CCN.com • 9h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bitcoin, Ethereum ETF Divergence from Futures; Bracing for Next Catalyst](https://www.youtube.com/watch?v=vSsNxPq2-h4)**
+
+Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesSchwab to talk about the latest moves in ...
+
+📺 Schwab Network
+
+👁️ 241 • 👍 18 • 💬 1 • ⏱️ 5:03 • 2h ago
+
+---
+
 **[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=wc1n-vrhLGA)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 103 • 💬 6 • ⏱️ 21:33 • 5h ago
+👁️ 5K • 👍 132 • 💬 10 • ⏱️ 21:33 • 7h ago
 
 ---
 
-**[BITCOIN URGENT UPDATE: It&#39;s Getting Worse (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PoYcO73O1fk)**
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
 
-BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+📺 Itsdanielmac
 
-📺 Crypto World
-
-👁️ 6K • 👍 248 • 💬 58 • ⏱️ 22:10 • 5h ago
+👁️ 7K • 👍 231 • 💬 14 • ⏱️ 0:48 • 5h ago
 
 ---
 
@@ -258,7 +264,7 @@ As trillions of dollars in traditional financial assets prepare to move on-chain
 
 📺 Coinage
 
-👁️ 2K • 👍 23 • ⏱️ 12:34 • 7h ago
+👁️ 3K • 👍 25 • ⏱️ 12:34 • 10h ago
 
 ---
 
@@ -268,7 +274,17 @@ Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading throu
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 453 • 💬 136 • ⏱️ 14:22 • 1d ago
+👁️ 17K • 👍 456 • 💬 132 • ⏱️ 14:22 • 1d ago
+
+---
+
+**[BITCOIN URGENT UPDATE: It&#39;s Getting Worse (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PoYcO73O1fk)**
+
+BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 300 • 💬 63 • ⏱️ 22:10 • 7h ago
 
 ---
 
@@ -278,15 +294,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 87 • 💬 12 • ⏱️ 23:58 • 1d ago
-
----
-
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
-
-📺 Itsdanielmac
-
-👁️ 3K • 👍 150 • 💬 5 • ⏱️ 0:48 • 2h ago
+👁️ 6K • 👍 88 • 💬 12 • ⏱️ 23:58 • 1d ago
 
 ---
 
@@ -296,27 +304,7 @@ Ethereum's fundamentals are getting stronger—but ETH's price isn't keeping up.
 
 📺 Lark Davis
 
-👁️ 616 • 👍 25 • 💬 1 • ⏱️ 1:03 • 5h ago
-
----
-
-**[HUGE CANTON NETWORK, XRP, &amp; ETHEREUM NEWS! TRADFI INSTITUTIONS GO ALL IN ON TOKENIZATION!](https://www.youtube.com/watch?v=9qs9BxVEGrg)**
-
-Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Network. Ripple is partnering with Privy, a Stripe ...
-
-📺 Thinking Crypto
-
-👁️ 17K • 👍 711 • 💬 76 • ⏱️ 14:24 • 17h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=1Vz2p39OEek)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 2K • 👍 77 • ⏱️ 6:09 • 8h ago
+👁️ 903 • 👍 27 • 💬 2 • ⏱️ 1:03 • 8h ago
 
 ---
 
@@ -327,6 +315,16 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 📺 Crypto Nutshell
 
 👁️ 19K • 👍 356 • 💬 14 • ⏱️ 24:39 • 2d ago
+
+---
+
+**[HUGE CANTON NETWORK, XRP, &amp; ETHEREUM NEWS! TRADFI INSTITUTIONS GO ALL IN ON TOKENIZATION!](https://www.youtube.com/watch?v=9qs9BxVEGrg)**
+
+Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Network. Ripple is partnering with Privy, a Stripe ...
+
+📺 Thinking Crypto
+
+👁️ 17K • 👍 717 • 💬 76 • ⏱️ 14:24 • 20h ago
 
 ---
 

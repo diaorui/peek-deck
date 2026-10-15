@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/",
-      "published": 1791964536.0,
-      "thumbnail": "https://external-preview.redd.it/OTMQkhk5N7bgsu-vqWXgLdVhjUk5M49iL1d_WyUw5VM.jpeg?width=640&crop=smart&auto=webp&s=7d8d9b7c0f8d570fb5d8c33d4bc5a99397e120e2",
-      "external_url": "https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964",
-      "site_name": "gizmodo.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Epic Games says it vibe coded new launcher because \u201cprogramming is hard\u201d",
       "author": "Dilpickle2113",
       "url": "https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/",
@@ -22,6 +11,17 @@
       "site_name": "Dexerto",
       "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
       "description": "Epic Games has revealed a new version of its launcher, claiming it was \u201cvibe coded\u201d because \u201cprogramming is hard.\u201d"
+    },
+    {
+      "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/",
+      "published": 1791964536.0,
+      "thumbnail": "https://external-preview.redd.it/OTMQkhk5N7bgsu-vqWXgLdVhjUk5M49iL1d_WyUw5VM.jpeg?width=640&crop=smart&auto=webp&s=7d8d9b7c0f8d570fb5d8c33d4bc5a99397e120e2",
+      "external_url": "https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964",
+      "site_name": "gizmodo.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to \u2018Boost Their Own Popularity\u2019",
@@ -57,17 +57,6 @@
       "description": "Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less \"cheaper reasoning\" and more \"less infrastructure devoted to reminding the model what it already learned.\" Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?"
     },
     {
-      "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
-      "published": 1791912611.0,
-      "thumbnail": "https://external-preview.redd.it/03KGZL2rt3MG5uoMcPYK7o9PjSl1Bb9SaNKPSn7r93k.jpeg?width=640&crop=smart&auto=webp&s=3943d5145dfff6fcc1283b1801eb37261eb84e38",
-      "external_url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
-    },
-    {
       "title": "The Age of Reason Is Safely Behind Us",
       "author": "fivefilters",
       "url": "https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/",
@@ -79,15 +68,15 @@
       "description": "What Anthropic is doing, and publicly boasting about, to \u201cprotect\u201d the reasoning behind the AI answers we get when we use their models, really doesn\u2019t sit right with me."
     },
     {
-      "title": "Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process",
-      "author": "Mathemodel",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/",
-      "published": 1791959641.0,
-      "thumbnail": "https://external-preview.redd.it/ngk80jIGxm3qOCNgJYWLw5E5fx8KVpKmMyVBUZ_t8S4.jpeg?width=640&crop=smart&auto=webp&s=771b084a2583d83fc3722a71fde573f05ec4674c",
-      "external_url": "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi."
+      "title": "OpenAI\u2019s blockbuster Navier-Stokes proof isn\u2019t what we thought it was",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
+      "published": 1791912611.0,
+      "thumbnail": "https://external-preview.redd.it/03KGZL2rt3MG5uoMcPYK7o9PjSl1Bb9SaNKPSn7r93k.jpeg?width=640&crop=smart&auto=webp&s=3943d5145dfff6fcc1283b1801eb37261eb84e38",
+      "external_url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
     },
     {
       "title": "Gemini 4 Argon apparently built this game. AI Studio is showcasing it.",
@@ -101,16 +90,27 @@
       "description": null
     },
     {
-      "title": "My history podcast app now has an Atlas to explore",
-      "author": "Goldenchild123",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/",
-      "published": 1791984332.0,
-      "thumbnail": "https://external-preview.redd.it/bjdzcDJkbmtuZnZoMc9wf6B8kxX6B-2sZDQfKg-vozg1XK9FOVDz_ve_A-7Q.png?width=640&crop=smart&auto=webp&s=407f9e915cd5437aa3b8f7bfaebd3330a29e1ea9",
-      "external_url": null,
-      "site_name": null,
+      "title": "Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process",
+      "author": "Mathemodel",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/",
+      "published": 1791959641.0,
+      "thumbnail": "https://external-preview.redd.it/ngk80jIGxm3qOCNgJYWLw5E5fx8KVpKmMyVBUZ_t8S4.jpeg?width=640&crop=smart&auto=webp&s=771b084a2583d83fc3722a71fde573f05ec4674c",
+      "external_url": "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad",
+      "site_name": "Futurism",
+      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
+      "description": "YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi."
+    },
+    {
+      "title": "Hochul vs. Blakeman: Utility bills, data centers, and ICE",
+      "author": "news-10",
+      "url": "https://www.reddit.com/r/artificial/comments/1x658ly/hochul_vs_blakeman_utility_bills_data_centers_and/",
+      "published": 1792017366.0,
+      "thumbnail": "https://external-preview.redd.it/p2HUG6v5VS5cO6UHMjMQ0-QC616hiCp0sW_to_lNZcQ.jpeg?width=640&crop=smart&auto=webp&s=66196ac2f2e549e2f1339581025f04fba22aa600",
+      "external_url": "https://www.news10.com/capitol/hochul-blakeman-debate-recap/",
+      "site_name": "news10.com",
       "favicon": null,
-      "description": "I\u2019m a history enthusiast (my dad\u2019s fault) who builds apps and LLM tools for a living, so I built Historai: generated history podcasts on any topic you type. I just shipped the part I\u2019m most excited about, the Atlas. The Atlas is a globe of your listening. Every episode is pinned to where and when it happened, so after a few episodes you can spin it and see the eras and places you\u2019ve explored. Scrub the timeline and the borders redraw for that year. Tap a realm and it tells you what it was. Tap somewhere you haven\u2019t been and it suggests an episode to make there, or shows what other listeners made in that place and era. The episodes themselves: type anything, \u201cthe fall of Constantinople\u201d, \u201cAda Lovelace\u201d, \u201cthe Great Emu War\u201d, or \u201cwhat a day looked like for a scribe in the Library of Ashurbanipal\u201d. It researches the topic on the web, and when sources disagree (constantly, in history) the hosts say so instead of picking a side. Every episode links what it used. And you can interrupt: ask a question halfway through, the hosts answer and pick the story back up. Would love to hear what you think of the app and especially the Atlas: historai.ca"
+      "description": null
     }
   ],
-  "fetched_at": "2026-10-14T21:20:04.337485+00:00"
+  "fetched_at": "2026-10-15T00:00:49.126259+00:00"
 }

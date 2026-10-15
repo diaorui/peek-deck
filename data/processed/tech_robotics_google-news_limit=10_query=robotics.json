@@ -15,46 +15,6 @@
       "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     },
     {
-      "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjBBcElyLWRYdHJubmVBTEdxSXFiWGY4M2Iwc0NmSFRUcGVmWFptWWR6dWVOWHFtd3NWRUJCZklCRTgyODJLeENaNndnZnFfT2ZjcnpiQ2NqMmxxN3dPMExOU1J6amlabEl3ZVBQWE1pYzhIUGQ0OHNUZ3I5RUE5cm45UGhDTWw1VjJza0FrQmhuRW9xQ3ZjbE9MRXMyN2xYb05HUUdsMk9zUVQzVTljUGZrSE01UQ?oc=5",
-      "pub_date": 1791808990.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
-      "description": "The second-largest corporate employer has bet big on robot workers to scale."
-    },
-    {
-      "headline": "\u2018Infinite Demand For Robots:\u2019 Inside Matter Venture Partners\u2019 $450 Million Bet On Physical AI",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3VTQVJBYjFaWU1NQmRrSWZLTlZyQ2FfdUNJeGRNVFdiSE5tS09JUHVWOXVPZ2hTTDduS01JRERPVGNBWTB3TnFkODU4UkhMLWZnNXhhVkF3QlVLNnBRSzc0RVB6QzloZEpfYUhTbXZ3aDV2V1pST093RW0zd1VqbXp2cXRpZ0VfbXVxUkpHeWg0TzlVUnAwY2NrbWE0NmYtdDJfcUdHZmV5ZVRpeUZUazEwRjg1azRKMmc2dl9RRVg3ZmdSYmUxeHJFZV9pcVFVSkMzakVyZFZmZw?oc=5",
-      "pub_date": 1792009065.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc?oc=5",
-      "pub_date": 1791988913.0,
-      "article_url": "https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5",
-      "pub_date": 1791948420.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -85,6 +45,36 @@
       "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3."
     },
     {
+      "headline": "China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5",
+      "pub_date": 1791948420.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances",
+      "source": "Phys.org",
+      "source_url": "https://phys.org",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1k4d2pKc0xSOE1td25xb2dHal9kS1hKbWEzUkVlM00wbWlpdFhiTVZaZGdHaFhfQzVWZ1dVNWRDcmVhRi1NdEhwQnBYMzJ5QTlDRlZodThKMHZDZ09CU2hMX2ZwWGw2Tm91NG5VQlNMOXZrRGhSSkphdm5PU3RwckRGaw?oc=5",
+      "pub_date": 1791990071.0,
+      "article_url": "https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc?oc=5",
+      "pub_date": 1791988913.0,
+      "article_url": "https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Scoop: Bedrock Robotics raising $600M to automate construction",
       "source": "Axios",
       "source_url": "https://www.axios.com",
@@ -93,6 +83,16 @@
       "article_url": "https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjBBcElyLWRYdHJubmVBTEdxSXFiWGY4M2Iwc0NmSFRUcGVmWFptWWR6dWVOWHFtd3NWRUJCZklCRTgyODJLeENaNndnZnFfT2ZjcnpiQ2NqMmxxN3dPMExOU1J6amlabEl3ZVBQWE1pYzhIUGQ0OHNUZ3I5RUE5cm45UGhDTWw1VjJza0FrQmhuRW9xQ3ZjbE9MRXMyN2xYb05HUUdsMk9zUVQzVTljUGZrSE01UQ?oc=5",
+      "pub_date": 1791808990.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
+      "description": "The second-largest corporate employer has bet big on robot workers to scale."
     },
     {
       "headline": "Stryker dives into soft-tissue robotics with $400M play for CMR Surgical\u2019s Versius",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-14T21:20:29.317632+00:00"
+  "fetched_at": "2026-10-15T00:01:12.816382+00:00"
 }
