@@ -23,7 +23,7 @@
       "url": "https://coinmarketcap.com/community/post/380133331/",
       "hn_url": "https://news.ycombinator.com/item?id=50096427",
       "author": "joeymabia1",
-      "points": 1,
+      "points": 2,
       "num_comments": 1,
       "created_at": "2026-10-14T22:33:44Z",
       "object_id": "50096427",
@@ -79,7 +79,7 @@
       "url": "https://gitvolt.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50097549",
       "author": "francislavoie",
-      "points": 3,
+      "points": 4,
       "num_comments": 0,
       "created_at": "2026-10-15T00:25:59Z",
       "object_id": "50097549",
@@ -105,5 +105,5 @@
   ],
   "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-10-15T05:00:14.690754+00:00"
+  "fetched_at": "2026-10-15T09:46:08.864660+00:00"
 }
