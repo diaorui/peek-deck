@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-15T05:00:46.249923+00:00'
+updated: '2026-10-15T09:46:38.609780+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 15, 2026 at 05:00 UTC  
+**Last Updated:** October 15, 2026 at 09:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,53 +122,11 @@ blog.google • 1d ago
 
 ---
 
-**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
-
-The second-largest corporate employer has bet big on robot workers to scale.
-
-Ars Technica • 2d ago
-
----
-
-**[These workers help train robots who could one day steal their jobs](https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs)**
-
-Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
-
-NPR • 19h ago
-
----
-
-**[The SF real estate firm betting big on robotics](https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/)**
-
-The San Francisco real estate firm going all in on the robotics boom
-
-The San Francisco Standard • 6h ago
-
----
-
-**[‘Infinite Demand For Robots:’ Inside Matter Venture Partners’ $450 Million Bet On Physical AI](https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/)**
-
-Forbes • 8h ago
-
----
-
-**[Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances](https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html)**
-
-Phys.org • 13h ago
-
----
-
-**[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
-
-Reuters • 14h ago
-
----
-
 **[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
 
 In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,17 +144,59 @@ WSJ • 1d ago
 
 ---
 
+**[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
+
+Reuters • 1h ago
+
+---
+
+**[Crew Preps for Dragon’s Arrival During Vision and Robotics Research](https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/)**
+
+A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday.
+
+NASA (.gov) • 15h ago
+
+---
+
+**[These workers help train robots who could one day steal their jobs](https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs)**
+
+Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
+
+NPR • 1d ago
+
+---
+
+**[‘Infinite Demand For Robots:’ Inside Matter Venture Partners’ $450 Million Bet On Physical AI](https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/)**
+
+Forbes • 13h ago
+
+---
+
+**[The SF real estate firm betting big on robotics](https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/)**
+
+The San Francisco real estate firm going all in on the robotics boom
+
+The San Francisco Standard • 11h ago
+
+---
+
+**[Tiny robots speed medicine through body to the heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)**
+
+Johns Hopkins University • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[German police investigating after robot allegedly gropes teen girl](https://www.youtube.com/watch?v=r7RH9lQ5BWk)**
+**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
-Police in Germany are investigating after a livestream captured a robot allegedly groping a 16-year-old girl. The robot's teenage ...
+Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
 
-📺 NBC News
+📺 The Tesla Space
 
-👁️ 10K • 👍 83 • 💬 33 • ⏱️ 2:32 • 5h ago
+👁️ 50K • 👍 2K • 💬 122 • ⏱️ 13:59 • 12h ago
 
 ---
 
@@ -206,7 +206,7 @@ Andrew Kang, Robostrategy co-founder and CEO, joins 'Closing Bell Overtime' to t
 
 📺 CNBC Television
 
-👁️ 22K • 👍 80 • 💬 50 • ⏱️ 5:19 • 15h ago
+👁️ 24K • 👍 90 • 💬 53 • ⏱️ 5:19 • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very differen
 
 📺 ejunky66
 
-👁️ 1.1M • 👍 11K • 💬 473 • ⏱️ 1:00 • 6d ago
+👁️ 1.1M • 👍 11K • 💬 480 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -226,27 +226,7 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 192K • 👍 2K • 💬 181 • ⏱️ 9:18 • 3d ago
-
----
-
-**[I Made a BIG SECRET out of this but, hm... [War Robots]](https://www.youtube.com/watch?v=KbcpeGRv1H4)**
-
-War Robots Gameplay: Gas Shield and UE Atomizer Ravager - I thought this would perform A LOT better than it did but I forgot the ...
-
-📺 Manni-Gaming
-
-👁️ 9K • 👍 321 • 💬 64 • ⏱️ 16:12 • 15h ago
-
----
-
-**[I Powered My Robot Army with the Anker SOLIX S2000 vs Jackery](https://www.youtube.com/watch?v=RdvSAEnjypw)**
-
-I charged my robot army (3 humanoids and a robot dog) on the Anker SOLIX S2000 and the Jackery HomePower 2000 Plus v2 to ...
-
-📺 KhanFlicks
-
-👁️ 14K • 👍 193 • 💬 24 • ⏱️ 11:36 • 1d ago
+👁️ 198K • 👍 2K • 💬 185 • ⏱️ 9:18 • 3d ago
 
 ---
 
@@ -256,7 +236,27 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 252K • 👍 4K • 💬 334 • ⏱️ 1:44 • 1d ago
+👁️ 266K • 👍 4K • 💬 339 • ⏱️ 1:44 • 1d ago
+
+---
+
+**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
+
+A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
+
+📺 NBC News
+
+👁️ 98K • 👍 701 • 💬 138 • ⏱️ 3:26 • 1d ago
+
+---
+
+**[I Powered My Robot Army with the Anker SOLIX S2000 vs Jackery](https://www.youtube.com/watch?v=RdvSAEnjypw)**
+
+I charged my robot army (3 humanoids and a robot dog) on the Anker SOLIX S2000 and the Jackery HomePower 2000 Plus v2 to ...
+
+📺 KhanFlicks
+
+👁️ 16K • 👍 196 • 💬 24 • ⏱️ 11:36 • 1d ago
 
 ---
 
@@ -266,17 +266,17 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 
 📺 Jot Tv Media 
 
-👁️ 94K • 👍 2K • 💬 17 • ⏱️ 1:04 • 6d ago
+👁️ 95K • 👍 2K • 💬 17 • ⏱️ 1:04 • 6d ago
 
 ---
 
-**[These AI Robots Are Getting OUT OF CONTROL… Here’s What’s Actually Real](https://www.youtube.com/watch?v=NjcCxL9zcQQ)**
+**[Robot traffic test: DEEP Robotics DR02 in Hangzhou #Shorts](https://www.youtube.com/watch?v=Dc0VOmGz9Zk)**
 
-AI robots are advancing faster than ever, but how much of what we see online is actually real? From humanoid robot fights to ...
+DEEP Robotics' DR02 is doing traffic duty in the rain in Hangzhou — as a trial, not a deployment. At a rain-soaked intersection in ...
 
-📺 The AI Nexus
+📺 TECH360.TV
 
-👁️ 10K • 👍 70 • 💬 15 • ⏱️ 1:21:36 • 2d ago
+👁️ 169 • 👍 2 • 💬 2 • ⏱️ 0:58 • 44m ago
 
 ---
 
@@ -286,7 +286,7 @@ Watch this video as Firstpost explains a disturbing incident in Cologne, Germany
 
 📺 Firstpost
 
-👁️ 30K • 👍 88 • 💬 58 • ⏱️ 5:04 • 1d ago
+👁️ 33K • 👍 96 • 💬 61 • ⏱️ 5:04 • 1d ago
 
 ---
 

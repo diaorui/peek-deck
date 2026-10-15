@@ -15,66 +15,6 @@
       "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     },
     {
-      "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjBBcElyLWRYdHJubmVBTEdxSXFiWGY4M2Iwc0NmSFRUcGVmWFptWWR6dWVOWHFtd3NWRUJCZklCRTgyODJLeENaNndnZnFfT2ZjcnpiQ2NqMmxxN3dPMExOU1J6amlabEl3ZVBQWE1pYzhIUGQ0OHNUZ3I5RUE5cm45UGhDTWw1VjJza0FrQmhuRW9xQ3ZjbE9MRXMyN2xYb05HUUdsMk9zUVQzVTljUGZrSE01UQ?oc=5",
-      "pub_date": 1791808990.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
-      "description": "The second-largest corporate employer has bet big on robot workers to scale."
-    },
-    {
-      "headline": "These workers help train robots who could one day steal their jobs",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWW82cHE2RnI2WEhnVWVsYk9vcHg3UDhZSTRzQUFkNzVYQ3FHQUxZVTMzQTd2OHdpaUUxX3dkV2RCTzRIczk0WnJJcXZnc3ExZVJZY3gtRDZwbmJ0WlZKYVlJZXhTVTRNXzN3X2ZwMmNaUmtIb0Rab19hUEY5eGl5V0luZWZ0NkwycWpQN05EcDlEczhpU19HWndVVkxyaXBsRENpQURfNGdGVXF4OUE?oc=5",
-      "pub_date": 1791970127.0,
-      "article_url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3703x2083+0+1/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fc6%2Fd28dafef4d61ba6cc03148fd71ef%2Fai-robots-final.jpeg",
-      "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
-    },
-    {
-      "headline": "The SF real estate firm betting big on robotics",
-      "source": "The San Francisco Standard",
-      "source_url": "https://sfstandard.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlI1N2pFTVlnalhzcnIzM25qTTV6eGZNWXFxbjVGV2RNaVpKLVBGR1RTQm9MVUpueDJJTDBWeG5vdVM0d21YR0hWcGMteW5ranRPc2twSnYtWW1HU043bmE0a2tMVl9pc0FjdDBsTGxmQU1FS2JVemc4R1lENW5PTmJNSWVab0hf?oc=5",
-      "pub_date": 1792016708.0,
-      "article_url": "https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_a80tcgeem90i1csqf782iofa6u/-S1200x630-FPNG",
-      "description": "The San Francisco real estate firm going all in on the robotics boom"
-    },
-    {
-      "headline": "\u2018Infinite Demand For Robots:\u2019 Inside Matter Venture Partners\u2019 $450 Million Bet On Physical AI",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3VTQVJBYjFaWU1NQmRrSWZLTlZyQ2FfdUNJeGRNVFdiSE5tS09JUHVWOXVPZ2hTTDduS01JRERPVGNBWTB3TnFkODU4UkhMLWZnNXhhVkF3QlVLNnBRSzc0RVB6QzloZEpfYUhTbXZ3aDV2V1pST093RW0zd1VqbXp2cXRpZ0VfbXVxUkpHeWg0TzlVUnAwY2NrbWE0NmYtdDJfcUdHZmV5ZVRpeUZUazEwRjg1azRKMmc2dl9RRVg3ZmdSYmUxeHJFZV9pcVFVSkMzakVyZFZmZw?oc=5",
-      "pub_date": 1792009065.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances",
-      "source": "Phys.org",
-      "source_url": "https://phys.org",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1k4d2pKc0xSOE1td25xb2dHal9kS1hKbWEzUkVlM00wbWlpdFhiTVZaZGdHaFhfQzVWZ1dVNWRDcmVhRi1NdEhwQnBYMzJ5QTlDRlZodThKMHZDZ09CU2hMX2ZwWGw2Tm91NG5VQlNMOXZrRGhSSkphdm5PU3RwckRGaw?oc=5",
-      "pub_date": 1791990071.0,
-      "article_url": "https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc?oc=5",
-      "pub_date": 1791988913.0,
-      "article_url": "https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -99,12 +39,72 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1NicmFvaGVSM1RrTlhtMU5pcU8xQ0thU3BPRG9JZ3c4NDhFeFQyR2lLdkJTY0FlOVAydWhoeElRNl9STkpuR1p0NzJPOUJ4ZDI5QlBtVlNJMnBBbjNKSXdzaEJKWEhYZGt3RUVJWWVFSXMxLVVVTlhaTGI1OU1tc2V5VmdodGx4eldicmJ6WW8wQ2sxc0czTkhGRnlTTVVwNXdOaG4tRFliUzJKMW9BRXJ6ejdmaFpaeWJLa3ZWSEF2WnNHaDNGbUtJb2pYUTN5NUJkdC1mZm9CMElpcXgtZUkxTXdVTHVKeE1jNlRSUmctbUYtWk16Sw?oc=5",
-      "pub_date": 1791880200.0,
+      "pub_date": 1791916200.0,
       "article_url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
+      "pub_date": 1792050445.0,
+      "article_url": "https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Crew Preps for Dragon\u2019s Arrival During Vision and Robotics Research",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlY4a3dtVzJ3MzBTVmE0eWFiVW5CNTAxZ2c1V3ZfTmg2WkUzVUZ3MTlRLWRIQTlJNzRwcFU4ZFB6bVRRX1V2MUw0RFVDeWRuTDRkQ0RlUEJoQ184Tlk4RHBIQ0VVTTNiR1VjeWlYSG1ZcGFiSldubk1Pblo0QmNhTk1PczNFa3ZQR3gtSTdna1B3dmNWcURVUnczZzdpcXZibzlqSllhZFdGbmxFWjRldHR6bTJ6eGlpWGc?oc=5",
+      "pub_date": 1792000475.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/",
+      "image": "https://images-assets.nasa.gov/image/iss074e0586370/iss074e0586370~large.jpg",
+      "description": "A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday."
+    },
+    {
+      "headline": "These workers help train robots who could one day steal their jobs",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWW82cHE2RnI2WEhnVWVsYk9vcHg3UDhZSTRzQUFkNzVYQ3FHQUxZVTMzQTd2OHdpaUUxX3dkV2RCTzRIczk0WnJJcXZnc3ExZVJZY3gtRDZwbmJ0WlZKYVlJZXhTVTRNXzN3X2ZwMmNaUmtIb0Rab19hUEY5eGl5V0luZWZ0NkwycWpQN05EcDlEczhpU19HWndVVkxyaXBsRENpQURfNGdGVXF4OUE?oc=5",
+      "pub_date": 1791970127.0,
+      "article_url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3703x2083+0+1/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fc6%2Fd28dafef4d61ba6cc03148fd71ef%2Fai-robots-final.jpeg",
+      "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
+    },
+    {
+      "headline": "\u2018Infinite Demand For Robots:\u2019 Inside Matter Venture Partners\u2019 $450 Million Bet On Physical AI",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3VTQVJBYjFaWU1NQmRrSWZLTlZyQ2FfdUNJeGRNVFdiSE5tS09JUHVWOXVPZ2hTTDduS01JRERPVGNBWTB3TnFkODU4UkhMLWZnNXhhVkF3QlVLNnBRSzc0RVB6QzloZEpfYUhTbXZ3aDV2V1pST093RW0zd1VqbXp2cXRpZ0VfbXVxUkpHeWg0TzlVUnAwY2NrbWE0NmYtdDJfcUdHZmV5ZVRpeUZUazEwRjg1azRKMmc2dl9RRVg3ZmdSYmUxeHJFZV9pcVFVSkMzakVyZFZmZw?oc=5",
+      "pub_date": 1792009065.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The SF real estate firm betting big on robotics",
+      "source": "The San Francisco Standard",
+      "source_url": "https://sfstandard.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlI1N2pFTVlnalhzcnIzM25qTTV6eGZNWXFxbjVGV2RNaVpKLVBGR1RTQm9MVUpueDJJTDBWeG5vdVM0d21YR0hWcGMteW5ranRPc2twSnYtWW1HU043bmE0a2tMVl9pc0FjdDBsTGxmQU1FS2JVemc4R1lENW5PTmJNSWVab0hf?oc=5",
+      "pub_date": 1792016708.0,
+      "article_url": "https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_a80tcgeem90i1csqf782iofa6u/-S1200x630-FPNG",
+      "description": "The San Francisco real estate firm going all in on the robotics boom"
+    },
+    {
+      "headline": "Tiny robots speed medicine through body to the heart",
+      "source": "Johns Hopkins University",
+      "source_url": "https://hub.jhu.edu",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mWHBYNXFaZC1Yby1KX1dNVHRXbUVOOEJZa2Z1bEV2VHRXcGE5MkdZS3dTRXZSckNVTDE5Q3o1OXgyeEg3MnQ0SlpBMjVCVHdGNkhfQm5IUnRZR1k2OVc3eUV5SlpMTHJyalVVZXF1RTBfRWFYMVFROEl3?oc=5",
+      "pub_date": 1791815400.0,
+      "article_url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T05:00:33.559608+00:00"
+  "fetched_at": "2026-10-15T09:46:33.877295+00:00"
 }

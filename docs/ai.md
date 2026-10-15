@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-15T05:00:46.237213+00:00'
+updated: '2026-10-15T09:46:38.596889+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 15, 2026 at 05:00 UTC  
+**Last Updated:** October 15, 2026 at 09:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 Epic Games has revealed a new version of its launcher, claiming it was “vibe coded” because “programming is hard.”
 
-🔗 [Dexerto](https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/) • 13h ago
+🔗 [Dexerto](https://www.dexerto.com/gaming/epic-games-says-it-vibe-coded-new-launcher-because-programming-is-hard-3418874/) • 17h ago
 
 ---
 
 **[Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.](https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/)**
 
-🔗 [gizmodo.com](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964) • 21h ago
+🔗 [gizmodo.com](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964) • 1d ago
+
+---
+
+**[My theory after a year of customer support: AI makes people more confident, not more correct](https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/)**
+
+I own an online store. Daily I get emails where a customer explains, with complete certainty, how my own product works, what my terms say, or what the law requires. Beautifully written, full of jargon, and often completely wrong. I use AI every day myself, so this isn't an anti-AI post. But people stopped separating "AI told me" from "this is true". Is this just a phase until people learn how to use it, or are we watching people outsource thinking at scale?
+
+1h ago
 
 ---
 
@@ -55,7 +63,13 @@ Epic Games has revealed a new version of its launcher, claiming it was “vibe c
 
 Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence, arguing that opposition to the technol...
 
-🔗 [Yahoo News](https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html) • 20h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/politics/articles/peter-thiel-escalates-war-ai-023006830.html) • 1d ago
+
+---
+
+**[Gemini 4 Argon apparently built this game. AI Studio is showcasing it.](https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/)**
+
+14h ago
 
 ---
 
@@ -65,49 +79,35 @@ Billionaire tech investor Peter Thiel has accused former President Barack Obama 
 
 ---
 
-**[So do you pay for both Claude and ChagGPT?](https://www.reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt/)**
+**[Why do people blame ai for ai slop](https://www.reddit.com/r/artificial/comments/1x6frrj/why_do_people_blame_ai_for_ai_slop/)**
 
-I have started with ChatGPT and switched last year to Claude (and am paying for a subscription). Recently, I have been using ChatGPT and am pretty impressed. I mostly use both for work. Do people subscribe to both (Pro) or just switch from one to the other? I know it's just $20 if its the lowest tier, but I am also being cautious about my subscription expenses as it adds up!
-
-4h ago
-
----
-
-**[Gemini 4 Argon apparently built this game. AI Studio is showcasing it.](https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/)**
-
-10h ago
-
----
-
-**[How much of today's agent memory stack is a workaround for the model architecture?](https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/)**
-
-Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less "cheaper reasoning" and more "less infrastructure devoted to reminding the model what it already learned." Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?
-
-14h ago
-
----
-
-**[Should an AI writing assistant ask before making a message more persuasive](https://www.reddit.com/r/artificial/comments/1x6b7c0/should_an_ai_writing_assistant_ask_before_making/)**
-
-Suppose someone asks an assistant to make a message clearer. It comes back smoother, but also more confident, more flattering, or harder to say no to. Those changes can quietly alter the relationship between the sender and the recipient. I would want the tool to distinguish fixing ambiguity from adding pressure, and flag when a revision changes the strength of a claim or request. Where would you draw that line Which edits should happen automatically, and which should require the sender to choose AI-assisted discussion. The scenario is hypothetical.
+I feel like more people blame ai for ai slop than the people who tell ai to generate ai slop.
 
 1h ago
 
 ---
 
-**[The Age of Reason Is Safely Behind Us](https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/)**
+**[So do you pay for both Claude and ChagGPT?](https://www.reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt/)**
 
-What Anthropic is doing, and publicly boasting about, to “protect” the reasoning behind the AI answers we get when we use their models, really doesn’t sit right with me.
+I have started with ChatGPT and switched last year to Claude (and am paying for a subscription). Recently, I have been using ChatGPT and am pretty impressed. I mostly use both for work. Do people subscribe to both (Pro) or just switch from one to the other? I know it's just $20 if its the lowest tier, but I am also being cautious about my subscription expenses as it adds up!
 
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind) • 22h ago
+9h ago
 
 ---
 
-**[OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was](https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/)**
+**[AI companions may reduce loneliness and increase isolation at the same time](https://www.reddit.com/r/artificial/comments/1x6el0b/ai_companions_may_reduce_loneliness_and_increase/)**
 
-Rumors that OpenAI’s “Navier-Stokes” solution stole the work of two mathematicians may have been overblown
+I understand why people use AI companions. They are available, patient, and less intimidating than starting a difficult conversation with another person. That can be helpful, especially for people who are isolated or anxious. But I also wonder whether an always agreeable companion could make real relationships feel unnecessarily difficult. Human relationships involve disagreement, delays, and responsibilities. Those are frustrating, but they are also part of learning how to live with other people. Can AI companionship be designed to help people reconnect with humans instead of becoming a replacement for them?
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/) • 1d ago
+3h ago
+
+---
+
+**[Photographed Text](https://www.reddit.com/r/artificial/comments/1x6edaf/photographed_text/)**
+
+What I need to do is to search through photographed and scanned archive documents, that I download in the Ukrainian and Polish languages for certain names/surnames/birthdates/village names. Often times these are very difficult to read due to the file quality and writing style due to the ages. I have used Claude which seems to perform best but runs out of credits quickly, as well as ChatGPT. Would there be any AI that is specifically made for this sort of task by any chance, maybe even a software or something?
+
+3h ago
 
 ---
 
@@ -117,33 +117,61 @@ Rumors that OpenAI’s “Navier-Stokes” solution stole the work of two mathem
 
 **[22 People Got Together For a Dinner Party. So Did Their A.I. Agents.](https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html)**
 
-The New York Times • 19h ago
+The New York Times • 1d ago
 
 ---
 
-**[Apple Prepares to Debut First AI Features in China in December](https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december)**
+**[Rogue A.I. Agents from China Chatted with Researchers](https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html)**
 
-Bloomberg.com • 9h ago
-
----
-
-**[The Future Of Agentic AI Has Arrived](https://www.forbes.com/sites/stevebanker/2026/10/15/the-future-of-agentic-ai-has-arrived/)**
-
-Forbes • 44m ago
+The New York Times • 18h ago
 
 ---
 
-**[Is the AI chip boom about to go bust?](https://www.economist.com/the-world-in-brief/2026/10/15/40d8097b-ce6c-4d6f-9152-bbeb6269decb)**
+**[Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)**
 
-The Economist • 25m ago
+Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.
+
+TechCrunch • 15h ago
 
 ---
 
-**[Inside Wirecutter’s push to diversify beyond affiliate revenue as AI reshapes discovery](https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/)**
+**[AI Companies Play Cat-and-Mouse With Secret-Stealing Spies](https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b)**
 
-Wirecutter is expanding beyond affiliate commerce with new categories, franchises and advertising opportunities as AI reshapes search.
+WSJ • 7h ago
 
-Digiday • 56m ago
+---
+
+**[Scoop: "OG" Bill Gates returns to wage war on AI risks](https://www.axios.com/2026/10/15/bill-gates-ai-safety-push)**
+
+Axios • 39m ago
+
+---
+
+**[Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)**
+
+Chip makers and tech investors such as Samsung and SoftBank plunge as global investors fret over potential interest rate hikes
+
+The Guardian • 1h ago
+
+---
+
+**[US-China Locked in ‘Unwinnable’ War on AI, NYU’s Marcus Says](https://www.bloomberg.com/news/articles/2026-10-15/us-china-locked-in-unwinnable-war-on-ai-nyu-s-marcus-says)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount](https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html)**
+
+A sell-off in global technology hardware stocks deepened Thursday.
+
+CNBC • 9h ago
+
+---
+
+**[The AI boom is threatened by an epidemic of unreliable numbers](https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers)**
+
+The Economist • 12h ago
 
 ---
 
@@ -151,35 +179,7 @@ Digiday • 56m ago
 
 How much AI is too much when it comes to finding love on the apps? "It's very subtle," one dating app user said of his AI-enhanced photos.
 
-CBS News • 8h ago
-
----
-
-**[Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'](https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html)**
-
-Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.
-
-CNBC • 8h ago
-
----
-
-**[AI stocks drop after hot inflation report bolsters bets for Fed rate hikes](https://www.cnn.com/2026/10/14/investing/us-stocks-ai-chipmakers)**
-
-High-flying technology stocks are taking a bruising this week, as investors grow more skeptical about whether the AI boom will live up to expectations.
-
-CNN • 8h ago
-
----
-
-**[Asian markets sell off as AI trades crumble after hot US CPI data](https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-15/)**
-
-Reuters • 4h ago
-
----
-
-**[AI Companies Play Cat-and-Mouse With Secret-Stealing Spies](https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b)**
-
-WSJ • 3h ago
+CBS News • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ WSJ • 3h ago
 
 Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.
 
-⬆️ 854 • 💬 493 • 11h ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+⬆️ 901 • 💬 532 • 16h ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
 ---
 
@@ -199,7 +199,7 @@ Cyber experts say AI labs’ containment and monitoring failures — not agents 
 
 A response to Rich Hickey's "'AI' is Not a Tool": automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.
 
-⬆️ 765 • 💬 592 • 2d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+⬆️ 774 • 💬 597 • 2d ago • [yyhh.org](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
 ---
 
@@ -224,13 +224,13 @@ Study finds coding efficiency gains get "absorbed" by human review "bottleneck."
 
 Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.
 
-⬆️ 347 • 💬 240 • 10h ago • [Startup Fortune](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+⬆️ 364 • 💬 258 • 15h ago • [Startup Fortune](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 
 ---
 
 **[I posted to HN, and then my website was flooded with AI bot traffic](https://news.ycombinator.com/item?id=50073221)**
 
-⬆️ 344 • 💬 184 • 1d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+⬆️ 345 • 💬 184 • 1d ago • [sammystraus.com](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
 
 ---
 
@@ -246,7 +246,7 @@ Today, we’re sharing that Character.ai has initiated a voluntary Chapter 11 ba
 
 Over the past year, we’ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After a comprehensive review
 
-⬆️ 331 • 💬 289 • 1d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
+⬆️ 332 • 💬 289 • 2d ago • [character.ai blog](https://blog.character.ai/an-update-on-character-ai/)
 
 ---
 
@@ -254,7 +254,7 @@ Over the past year, we’ve taken meaningful steps to sustain and improve our bu
 
 (I keep delivering this as a quip, here's a bit more) First order of business - is 'tool' going to have an interesting, distinguishing and thus illuminative meaning or be a mere platitudinous stand-in for "anything useful"? We'll save tool as "anyone/thing that can be exploited" for the AI titans, f
 
-⬆️ 311 • 💬 189 • 2d ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
+⬆️ 312 • 💬 189 • 2d ago • [linkedin.com](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 
 ---
 
@@ -262,7 +262,7 @@ Over the past year, we’ve taken meaningful steps to sustain and improve our bu
 
 Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, long contexts, and high-concurrency serving at practical power and cost.
 
-⬆️ 306 • 💬 178 • 2d ago • [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+⬆️ 307 • 💬 178 • 2d ago • [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 
 ---
 
@@ -270,23 +270,43 @@ Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, l
 
 ## YouTube Videos: "ai"
 
+**[Anthropic warns AI models could soon copy themselves in small devices](https://www.youtube.com/watch?v=2yvhtqQ7bBk)**
+
+Anthropic said in a new warning that small artificial intelligence models may be months away from being capable of ...
+
+📺 ABC News
+
+👁️ 75K • 👍 477 • 💬 246 • ⏱️ 3:21 • 1d ago
+
+---
+
 **[&#39;Godfather&#39; of AI on the &#39;really stupid thing&#39; Trump is doing](https://www.youtube.com/watch?v=_GLG51SAhrQ)**
 
 Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in The Situation Room to discuss the latest ...
 
 📺 CNN
 
-👁️ 240K • 👍 2K • 💬 609 • ⏱️ 8:47 • 11h ago
+👁️ 310K • 👍 2K • 💬 699 • ⏱️ 8:47 • 16h ago
 
 ---
 
-**[AI ALARM: Anthropic issues STARK &#39;worm&#39; warning](https://www.youtube.com/watch?v=7JkRTExSyuw)**
+**[Zuckerberg Accidentally Exposes The Ai Scam&#39;s Bubble](https://www.youtube.com/watch?v=ooMIF0u_ldk)**
 
-'The Big Money' show panel discusses Anthropic's AI worm warning that it could infect your smart home devices. Anthropic is set ...
+Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm To connect and organize with ...
 
-📺 Fox Business
+📺 The Majority Report w/ Sam Seder
 
-👁️ 32K • 👍 147 • 💬 61 • ⏱️ 3:26 • 8h ago
+👁️ 139K • 👍 3K • 💬 718 • ⏱️ 16:34 • 8h ago
+
+---
+
+**[I Sent an AI to My Job Interview. So Did the Company.](https://www.youtube.com/watch?v=A0fECnj5sas)**
+
+The company sent an AI recruiter to interview me, so I sent an AI to represent me. Then I sat in the meeting and watched the two of ...
+
+📺 Graham Dot Zip
+
+👁️ 2.4M • 👍 45K • 💬 3K • ⏱️ 5:53 • 2d ago
 
 ---
 
@@ -296,7 +316,7 @@ Anthropic is now eying a $2 trillion IPO, potentially the largest of all time. A
 
 📺 More Perfect Union
 
-👁️ 180K • 👍 3K • 💬 496 • ⏱️ 14:12 • 9h ago
+👁️ 217K • 👍 4K • 💬 555 • ⏱️ 14:12 • 14h ago
 
 ---
 
@@ -306,27 +326,27 @@ Stay ahead of the curve! Attend Zero Trust World (https://go.lowlevel.tv/ztw) an
 
 📺 Low Level
 
-👁️ 200K • 👍 5K • 💬 922 • ⏱️ 7:29 • 16h ago
+👁️ 220K • 👍 5K • 💬 984 • ⏱️ 7:29 • 20h ago
 
 ---
 
-**[It&#39;s easy to get excited about AI, but there has to be revenue, says Tusk Ventures&#39; Bradley Tusk](https://www.youtube.com/watch?v=HewMq0mF-yg)**
+**[AI researcher unpacks Anthropic&#39;s self-replication warning](https://www.youtube.com/watch?v=RU6LGzvxrs4)**
 
-Bradley Tusk, Tusk Ventures CEO, joins 'Power Lunch' to discuss shares of CoreWeave sinking while yields in its bonds surged ...
+Anthropic is warning that small artificial intelligence models could soon spread themselves from one internet-connected device to ...
 
-📺 CNBC Television
+📺 CBS News
 
-👁️ 20K • 👍 76 • 💬 35 • ⏱️ 4:30 • 8h ago
+👁️ 83K • 👍 487 • 💬 236 • ⏱️ 3:58 • 1d ago
 
 ---
 
-**[Palantir CEO Says Most People Won’t Survive AI Era](https://www.youtube.com/watch?v=n_LYBreBpnM)**
+**[AI Industry Not Ready For Coming Crisis, Says Mukunda](https://www.youtube.com/watch?v=lXRV6AXDSgs)**
 
-Palantir CEO Alex Karp says only two kinds of people have a real future in the AI era, and most people don't fall into either group.
+Leading AI executives are reportedly preparing for the possibility of a major AI-caused disaster within the next six to 12 months.
 
-📺 Valuetainment
+📺 Bloomberg Podcasts
 
-👁️ 171K • 👍 2K • 💬 387 • ⏱️ 16:33 • 2d ago
+👁️ 85K • 👍 440 • 💬 72 • ⏱️ 6:11 • 1d ago
 
 ---
 
@@ -336,37 +356,17 @@ Today we're looking at a video from @kurzgesagt which did an excellent job break
 
 📺 Aztecross
 
-👁️ 132K • 👍 2K • 💬 426 • ⏱️ 27:24 • 1d ago
+👁️ 138K • 👍 2K • 💬 435 • ⏱️ 27:24 • 1d ago
 
 ---
 
-**[The $400k Skill AI Can’t Replace | Deep Dive](https://www.youtube.com/watch?v=Yp9KOqfnty0)**
+**[AI &quot;worms&quot; could infest your home devices within months, Anthropic warns](https://www.youtube.com/watch?v=9Swcki8Bhx8)**
 
-AI was supposed to replace writing. Instead, it made storytelling more valuable. In this Deep Dive, Scott explains why companies ...
+Anthropic is warning that your home devices could soon be infested by what they're calling artificial intelligence worms. Jordan ...
 
-📺 The Prof G Pod – Scott Galloway
+📺 CBS News
 
-👁️ 58K • 👍 699 • 💬 67 • ⏱️ 16:26 • 18h ago
-
----
-
-**[AI Has Already Secretly Taken Over — Yuval Noah Harari’s Shocking Interview](https://www.youtube.com/watch?v=IUp3_q-TgTI)**
-
-The world's #1 online broker right now Grab the current offer here: ...
-
-📺 NeuralHegemony
-
-👁️ 110K • 👍 1K • 💬 368 • ⏱️ 26:34 • 2d ago
-
----
-
-**[I Tested AI Cloning… and It’s Way Worse Than You Think!](https://www.youtube.com/watch?v=KC31K-CUC5Y)**
-
-I used AI to reverse engineer real binaries, understand how they work, and then clone their functionality into brand-new ...
-
-📺 Dave's Garage
-
-👁️ 422K • 👍 16K • 💬 4K • ⏱️ 20:51 • 1d ago
+👁️ 204K • 👍 1K • 💬 846 • ⏱️ 4:44 • 1d ago
 
 ---
 
@@ -382,7 +382,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 135,175 • ❤️ 2,281 • 8d ago
+⬇️ 144,280 • ❤️ 2,313 • 8d ago
 
 ---
 
@@ -394,7 +394,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 65,616 • ❤️ 1,646 • 2h ago
+⬇️ 75,253 • ❤️ 1,664 • 7h ago
 
 ---
 
@@ -406,7 +406,7 @@ Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editin
 
 `text-to-image` `7.1B`
 
-⬇️ 12,704 • ❤️ 784 • 2d ago
+⬇️ 12,704 • ❤️ 801 • 3d ago
 
 ---
 
@@ -418,19 +418,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 4,157 • ❤️ 659 • 13h ago
-
----
-
-**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
-
-*Ahmet Benzer*
-
-This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
-
-`text-to-image` `7.1B`
-
-⬇️ 2,315,771 • ❤️ 4,315 • 2d ago
+⬇️ 4,157 • ❤️ 716 • 18h ago
 
 ---
 
@@ -442,19 +430,19 @@ JEV-35B is a text classification model based on Qwen3.5-35B-A3B, excelling at Sy
 
 `text-classification` `36.0B`
 
-⬇️ 27,970 • ❤️ 770 • 22h ago
+⬇️ 27,970 • ❤️ 857 • 1d ago
 
 ---
 
-**[Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)**
+**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
 
-*Conway*
+*Ahmet Benzer*
 
-Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient tool and function calling, fitting under 8GB. It excels in parallel tool calls and agentic tasks, with an optional vision add-on for multimodal capabilities, making it suitable for applications requiring compact yet powerful LLM integration.
+This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
 
-`text-generation` `26.9B`
+`text-to-image` `7.1B`
 
-⬇️ 311,969 • ❤️ 460 • 4d ago
+⬇️ 2,315,771 • ❤️ 4,335 • 3d ago
 
 ---
 
@@ -466,7 +454,19 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,823,507 • ❤️ 7,815 • 3d ago
+⬇️ 1,866,657 • ❤️ 7,845 • 4d ago
+
+---
+
+**[Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)**
+
+*Conway*
+
+Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient tool and function calling, fitting under 8GB. It excels in parallel tool calls and agentic tasks, with an optional vision add-on for multimodal capabilities, making it suitable for applications requiring compact yet powerful LLM integration.
+
+`text-generation` `26.9B`
+
+⬇️ 311,969 • ❤️ 471 • 4d ago
 
 ---
 
@@ -478,7 +478,7 @@ This GGUF model provides an uncensored text encoder for Qwen-Image, reducing ref
 
 `text-to-image` `8.2B`
 
-⬇️ 258,320 • ❤️ 456 • 1d ago
+⬇️ 258,320 • ❤️ 462 • 1d ago
 
 ---
 
@@ -490,7 +490,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 839 • ❤️ 334 • 22h ago
+⬇️ 839 • ❤️ 364 • 1d ago
 
 ---
 
@@ -504,7 +504,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 25 • 💬 2 • ⭐ 29,111 • 31mo ago
+▲ 25 • 💬 2 • ⭐ 29,879 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -518,7 +518,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve. We introduce RSI-Anything, a domain-general framework built on JEPA-Anything that uses predictive world models to guide action and learning-data selection. Observed feedback drives policy or workflow improvement and conditional world-model adaptation, while component and compatibility checks govern the retention of updated policy-model pairs. Across diverse computational and scientific domains, RSI-Anything demonstrates substantial gains. In code repair, with the coder fixed, success increases from 26.3% with a static verifier to 29.2% through predictive selection and 31.2% after world-model adaptation, at comparable test usage. Graphical user interface (GUI) evaluations showed higher task completion, while average actions decrease by 39.4%. Across five successive policy versions, laboratory-planning scores more than double from 21.80% to 46.01%. In reaction optimization, RSI-Anything achieves 96.15% mean best observed yield versus 82.16% for Bayesian optimization under the same 40-experiment budget. An end-to-end immune-science application further connects workflow evolution and predictive modeling with therapeutic hypothesis generation. These results demonstrate how predictive world models and retained system updates enable recursive improvement across diverse environments.
 
-▲ 45 • 💬 2 • ⭐ 711 • 6d ago
+▲ 46 • 💬 2 • ⭐ 711 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
 
@@ -539,6 +539,18 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 152 • 💬 6 • ⭐ 111,239 • 21mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356)**
 
 *Yu Wang, Rui Dai, Wei Chen et al. (8 authors)*
@@ -547,35 +559,9 @@ Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight mem
 
 City-scale 3D grounding is commonly formulated as candidate ranking, which requires precomputed instance proposals and becomes inefficient in large outdoor scenes. We propose Urbex, an agentic vision-language framework that instead casts grounding as active spatial search. Urbex represents a city-scale 3D scene as an interactive multi-view environment, allowing a VLM agent to query landmarks, zoom into local regions, render oblique views, and commit a grounded bounding box. We optimize this tool-use policy with reinforcement learning on CityRefer, using smooth localization rewards and lightweight shaping rewards for efficient exploration. Experiments show that Urbex achieves the best Hit@1 and IoU on CityRefer, supports candidate-free grounding without ground-truth boxes, and is substantially faster than the strongest city-scale ranking baseline. Zero-shot results on STPLS3D-Refer further indicate improved cross-scene robustness.
 
-▲ 111 • 💬 1 • ⭐ 79 • 2d ago
+▲ 113 • 💬 1 • ⭐ 83 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.18356) • [💻 code](https://github.com/AMAP-ML/Urbex) • [🔗 project](https://www.wangfaye.cn/paper/urbex)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 151 • 💬 6 • ⭐ 111,157 • 21mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)**
-
-*Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)*
-
-🏢 Multimodal Art Projection
-
-Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with 49.3% of overall preferences versus 34.6% without planning. Experts also favor the unified model over a separate language model and diffusion Transformer. On WildSongBench, YuE2 scores 6.73 on SongBench Global Avg, exceeding all evaluated public baselines. Selecting from eight candidates (best-of-8), YuE2 reaches 6.96, the highest observed mean among all evaluated systems. Expert listening further establishes its competitiveness with proprietary song generators, favoring best-of-8 over Suno v4.5 and yielding nearly balanced preferences against Suno v5. To learn this generation process from recordings without aligned scores, we introduce MERT2 and SheetSage2 to supply semantic and symbolic supervision. MERT2 sets a new state of the art in music representation learning, surpassing previous best results on 14 of 15 MARBLE metrics; SheetSage2 leads 12 of 15 benchmark-metric pairs in our lead-sheet transcription comparison. The same checkpoint follows score edits while largely preserving unedited musical content and generates zero-shot covers without cover-specific training. Its readable score also enables agentic music editing, with external language models translating user feedback into revisions of the composition.
-
-▲ 236 • 💬 3 • ⭐ 11,950 • 18d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
 
 ---
 
@@ -587,21 +573,23 @@ Symbolic models make melody, harmony, rhythm, and form explicit but typically st
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 113 • 💬 2 • ⭐ 1,190 • 9d ago
+▲ 114 • 💬 2 • ⭐ 1,190 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)**
 
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+*Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)*
 
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+🏢 Multimodal Art Projection
 
-▲ 18 • 💬 0 • ⭐ 41,157 • 20mo ago
+Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with 49.3% of overall preferences versus 34.6% without planning. Experts also favor the unified model over a separate language model and diffusion Transformer. On WildSongBench, YuE2 scores 6.73 on SongBench Global Avg, exceeding all evaluated public baselines. Selecting from eight candidates (best-of-8), YuE2 reaches 6.96, the highest observed mean among all evaluated systems. Expert listening further establishes its competitiveness with proprietary song generators, favoring best-of-8 over Suno v4.5 and yielding nearly balanced preferences against Suno v5. To learn this generation process from recordings without aligned scores, we introduce MERT2 and SheetSage2 to supply semantic and symbolic supervision. MERT2 sets a new state of the art in music representation learning, surpassing previous best results on 14 of 15 MARBLE metrics; SheetSage2 leads 12 of 15 benchmark-metric pairs in our lead-sheet transcription comparison. The same checkpoint follows score edits while largely preserving unedited musical content and generates zero-shot covers without cover-specific training. Its readable score also enables agentic music editing, with external language models translating user feedback into revisions of the composition.
 
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
+▲ 236 • 💬 3 • ⭐ 11,970 • 18d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
 
 ---
 
@@ -619,16 +607,29 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 90 • 💬 7 • ⭐ 90,914 • 27mo ago
+▲ 18 • 💬 0 • ⭐ 41,165 • 20mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[VideoJev: System One Model for Video Understanding and Interaction](https://huggingface.co/papers/2610.18615)**
+
+*Yuhan Zhu, Xiangyu Zeng, Qingyi Si et al. (18 authors)*
+
+🏢 Multimedia Computing Group-Nanjing University
+
+Visual agents must turn video observations into timely decisions to track progress and choose what to do next. Building on the emerging System One paradigm, we introduce VideoJev, a family of models that cast video understanding and interaction as structured decision tasks. We adapt pretrained multimodal large language models (MLLMs) by replacing autoregressive answer decoding with a shared head that scores temporal intervals and textual options against video evidence. These scores yield event spans or answer choices, unifying temporal grounding and multiple-choice video question answering. This combines the semantic flexibility of MLLMs with efficient decisions that agents can use directly. As an interaction unfolds, new goals and intermediate results prompt further queries about the same visual history. VideoJev therefore reuses visual computation through Cached inference for queries as they arrive and Joint inference for multiple queries in a single forward pass. Across three temporal grounding benchmarks, VideoJev-4B and VideoJev-35B-A3B improve mean mIoU over their backbones by 6.7 and 10.8 points, respectively, with measured inference speedups of 2.8-3.1times. On four video QA benchmarks, both achieve performance comparable to their backbones in Thinking mode, with measured inference speedups exceeding 100times. These results offer a unified, reusable decision interface for composing structured visual judgments into complex, open-ended workflows.
+
+▲ 204 • 💬 1 • ⭐ 86 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.18615) • [💻 code](https://github.com/MCG-NJU/VideoJev) • [🔗 project](https://mcg-nju.github.io/VideoJev/)
 
 ---
 
@@ -652,7 +653,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.7k • 🔱 1.9k • 22h ago
+⭐ 7.7k • 🔱 1.9k • 3h ago
 
 ---
 
@@ -672,7 +673,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.4k • 🔱 760 • 8h ago
+⭐ 5.4k • 🔱 766 • 13h ago
 
 ---
 
@@ -682,7 +683,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.2k • 🔱 879 • 3h ago
+⭐ 5.3k • 🔱 884 • 7h ago
 
 ---
 
@@ -692,7 +693,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.7k • 🔱 135 • 20h ago
+⭐ 4.7k • 🔱 137 • 1h ago
 
 ---
 
@@ -702,7 +703,7 @@ AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
 `Go`
 
-⭐ 4.1k • 🔱 6.4k • 4d ago
+⭐ 4.2k • 🔱 6.5k • 5d ago
 
 ---
 
@@ -712,7 +713,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.6k • 🔱 146 • 5d ago
+⭐ 3.6k • 🔱 146 • 6d ago
 
 ---
 
@@ -722,17 +723,17 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.4k • 🔱 236 • 1m ago
+⭐ 3.4k • 🔱 236 • 9m ago
 
 ---
 
-**[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)**
+**[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)**
 
-Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
+A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
 
-`Python` `ai` `dividends` `etf` `finance` `financial-planning`
+`HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.4k • 🔱 448 • 7h ago
+⭐ 3.4k • 🔱 254 • 14d ago
 
 ---
 

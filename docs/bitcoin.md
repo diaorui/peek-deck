@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-15T05:00:46.243481+00:00'
+updated: '2026-10-15T09:46:38.603187+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 05:00 UTC  
+**Last Updated:** October 15, 2026 at 09:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,645.58
+### $81,240.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -1.2%  
-**30d:** +7.1%  
-**90d:** +25.9%  
-**1y:** -24.4%  
+**24h:** -2.7%  
+**7d:** -1.7%  
+**30d:** +6.6%  
+**90d:** +25.3%  
+**1y:** -24.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1638.42B
+**Market Cap:** $1632.91B
 Rank #1
 
-**Circulating Supply:** 20,098,415 BTC
+**Circulating Supply:** 20,098,500 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.3%
+-35.6%
 
 **All-Time Low:** $67.81
-+120143.3%
++119695.0%
 
 ---
 
@@ -145,7 +145,7 @@ Sometimes, they just have to learn Bitcoin on their own. Even if it means anothe
 
 The company confirmed physical tampering in at least one affected device. In addition, reports emerged that the incident has spread to Europe.
 
-🔗 [CryptoPotato](https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/) • 2d ago
+🔗 [CryptoPotato](https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/) • 3d ago
 
 ---
 
@@ -155,23 +155,29 @@ The company confirmed physical tampering in at least one affected device. In add
 
 **[Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)**
 
-WSJ • 2d ago
+WSJ • 3d ago
 
 ---
 
-**[Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8%](https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs)**
+**[Michael Saylor drops bold Bitcoin call ahead of major index review](https://www.thestreet.com/crypto/markets/michael-saylor-drops-bold-bitcoin-call-ahead-of-major-index-review)**
 
-Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.
-
-CoinDesk • 51m ago
+TheStreet • 1d ago
 
 ---
 
-**[Peter Schiff Calls Bitcoin’s Long-Term Performance ‘Meaningless’: There’s a Difference Between Bubble ‘Blowing Up’ and Air Coming Out](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-calls-bitcoin-long-033008337.html)**
+**[Bitcoin Sinks Toward $80,000 After Hot CPI. Will Whales Keep What They Added?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-sinks-toward-80-000-075434467.html)**
 
-Economist Peter Schiff said Bitcoin did “great” in its first ten years, but the cryptocurrency’s performance since then has been far less impressive. Schiff on How He Sets His Timeframes Speaking with Benzinga, Schiff said he doesn’t like assessing Bitcoin...
+Bitcoin whale holdings hit their highest since November 2025 before hot US CPI dragged price toward $80,000.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.](https://finance.yahoo.com/markets/crypto/articles/citigroup-raises-12-month-price-093500260.html)**
+
+Citigroup believes that Bitcoin is going to do well during the next 12 months.
+
+Yahoo Finance • 11m ago
 
 ---
 
@@ -179,13 +185,29 @@ Yahoo Finance • 1h ago
 
 Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.
 
-CoinDesk • 35m ago
+CoinDesk • 5h ago
 
 ---
 
-**[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
+**[Better Buy Right Now: Bitcoin vs. Shiba Inu](https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/)**
 
-Bloomberg.com • 1d ago
+Both of these cryptocurrencies have registered positive momentum in the past three months.
+
+The Motley Fool • 23m ago
+
+---
+
+**[Bitcoin Remains Weaker on U.S. Rate-Hike Prospects](https://www.barrons.com/livecoverage/stock-market-news-today-101526/card/bitcoin-remains-weaker-on-u-s-rate-hike-prospects-G8kxhFNAz9fu8ppp69S9)**
+
+Barron's • 32m ago
+
+---
+
+**[White House puts Bitcoin security ahead of any new purchases](https://www.tradingview.com/news/cryptobriefing:45b4d1307094b:0-white-house-puts-bitcoin-security-ahead-of-any-new-purchases/)**
+
+The US government owns a lot of Bitcoin. Before it buys any more, it wants to make sure it knows exactly where all of it is.On October 14, 2026, Patrick Witt, executive director of the President's Council of Advisers on Digital Assets, said the White House is focused first on safeguarding and accou…
+
+TradingView • 4h ago
 
 ---
 
@@ -197,31 +219,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Quantum computing presents threat to all crypto currencies, digital assets and passwords: ‘industry is scrambling’](https://nypost.com/2026/10/14/tech/quantum-computing-presents-threat-to-all-crypto-currencies/)**
+**[Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities](https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623)**
 
-“The question is what do we do about it,” said one big crypto investor.
+Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.
 
-New York Post • 5h ago
-
----
-
-**[Bitcoin's Demise Is Coming, And Strategy Is Not Ready (NASDAQ:MSTR)](https://seekingalpha.com/article/4954039-bitcoins-demise-is-coming-and-strategy-is-not-ready)**
-
-Strategy (MSTR) is rated Sell due to overvaluation, dilution, and mounting senior claims tied to its bitcoin-centric capital structure.
-
-Seeking Alpha • 14h ago
-
----
-
-**[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
-
-Financial Times • 2d ago
-
----
-
-**[FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
-
-KFOR.com • 2d ago
+The Block • 5h ago
 
 ---
 
@@ -241,7 +243,7 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 1 • 6h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
+⬆️ 2 • 💬 1 • 11h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
 
 ---
 
@@ -269,7 +271,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 A fast, keyboard-friendly desktop Git client with a commit graph at its heart. Free and MIT licensed; Linux, Windows and macOS.
 
-⬆️ 3 • 💬 0 • 4h ago • [GitVolt](https://gitvolt.com/)
+⬆️ 4 • 💬 0 • 9h ago • [GitVolt](https://gitvolt.com/)
 
 ---
 
@@ -291,7 +293,7 @@ Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market i
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 91 • ⏱️ 14:20 • 7h ago
+👁️ 29K • 👍 1K • 💬 89 • ⏱️ 14:20 • 11h ago
 
 ---
 
@@ -301,27 +303,7 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 82 • ⏱️ 11:55 • 4h ago
-
----
-
-**[$50 Billion Wellington-Altus Chief Strategist: Bitcoin &quot;Supercycle&quot; has Begun](https://www.youtube.com/watch?v=Y7lzGeHTaoY)**
-
-The next run in Bitcoin is going to be one for the ages.” Economist James Thorne, Chief Market Strategist at Wellington-Altus ...
-
-📺 Bitcoin Magazine
-
-👁️ 27K • 👍 451 • 💬 43 • ⏱️ 29:17 • 11h ago
-
----
-
-**[Bitcoin CRASHES on CPI Data: EXACT Support Levels You Must Watch](https://www.youtube.com/watch?v=ycL7j92IqVc)**
-
-Hot inflation data hit Bitcoin and the whole altcoin market. Here's where the floor could be. Trade alongside the Verified Pro ...
-
-📺 Verified Investing
-
-👁️ 13K • 👍 398 • 💬 25 • ⏱️ 18:35 • 11h ago
+👁️ 56K • 👍 2K • 💬 107 • ⏱️ 11:55 • 9h ago
 
 ---
 
@@ -331,7 +313,17 @@ CCV Risk Models & Intelligence System — Start your free trial: https://app.cry
 
 📺 Crypto Capital Venture
 
-👁️ 20K • 👍 626 • 💬 242 • ⏱️ 11:59 • 12h ago
+👁️ 24K • 👍 663 • 💬 307 • ⏱️ 11:59 • 17h ago
+
+---
+
+**[Bitcoin Sold the CPI Print. The Target Is $79,700 Within 10 Days](https://www.youtube.com/watch?v=BvxLX8FL3bg)**
+
+CPI came in hot and Bitcoin sold the print hour. The corrective setup is on its way to the 55 line at $79695: 82% of like cases ...
+
+📺 Krown
+
+👁️ 6K • 👍 218 • 💬 25 • ⏱️ 19:37 • 10h ago
 
 ---
 
@@ -341,27 +333,37 @@ Everyone's waiting for the October crypto bottom. I think Bitcoin already bottom
 
 📺 Jesse Eckel
 
-👁️ 3K • 👍 81 • 💬 12 • ⏱️ 12:01 • 7h ago
+👁️ 6K • 👍 98 • 💬 14 • ⏱️ 12:01 • 12h ago
 
 ---
 
-**[Market Uncertainty Surges!🚨Inflation, War, AI🔥Bitcoin Breaking $81k?](https://www.youtube.com/watch?v=N_fSFEk5x3s)**
+**[$50 Billion Wellington-Altus Chief Strategist: Bitcoin &quot;Supercycle&quot; has Begun](https://www.youtube.com/watch?v=Y7lzGeHTaoY)**
 
-Hot inflation data, surging oil, a widening Middle East war, cracks in the AI trade and a weakening consumer are all hitting at once, ...
+The next run in Bitcoin is going to be one for the ages.” Economist James Thorne, Chief Market Strategist at Wellington-Altus ...
 
-📺 Paul Barron Network
+📺 Bitcoin Magazine
 
-👁️ 47K • 👍 1K • 💬 82 • ⏱️ 19:07 • 10h ago
+👁️ 34K • 👍 511 • 💬 53 • ⏱️ 29:17 • 16h ago
 
 ---
 
-**[The Viral Post That Sparked a Bitcoin Debate](https://www.youtube.com/watch?v=lA9Zo2-PVzA)**
+**[Bitcoin Braces for an Inflation Shock](https://www.youtube.com/watch?v=srd1AEbObKM)**
 
-Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning that paper Bitcoin and digital credit could ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 Natalie Brunell
+📺 CryptosRUs
 
-👁️ 74K • 👍 2K • 💬 87 • ⏱️ 2:56 • 1d ago
+👁️ 25K • 👍 734 • 💬 128 • ⏱️ 44:14 • 19h ago
+
+---
+
+**[Bitcoin CRASHES on CPI Data: EXACT Support Levels You Must Watch](https://www.youtube.com/watch?v=ycL7j92IqVc)**
+
+Hot inflation data hit Bitcoin and the whole altcoin market. Here's where the floor could be. Trade alongside the Verified Pro ...
+
+📺 Verified Investing
+
+👁️ 15K • 👍 426 • 💬 28 • ⏱️ 18:35 • 15h ago
 
 ---
 
@@ -371,17 +373,17 @@ Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Al
 
 📺 Altcoin Daily
 
-👁️ 94K • 👍 2K • 💬 151 • ⏱️ 10:28 • 1d ago
+👁️ 98K • 👍 2K • 💬 152 • ⏱️ 10:28 • 1d ago
 
 ---
 
-**[He Calls Bitcoin &quot;Teenager Gold&quot;](https://www.youtube.com/watch?v=CUiwUWTeJuc)**
+**[$2 Million Bitcoin FLOODGATES - Banking Giant Just UNLEASHED BTC Trading](https://www.youtube.com/watch?v=9GHKrRdAqS0)**
 
-Bloomberg Intelligence Senior ETF Analyst Eric Balchunas shares why investors are holding onto Bitcoin through market ups and ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Natalie Brunell
+📺 Bitcoin News Alerts
 
-👁️ 8K • 👍 109 • 💬 2 • ⏱️ 0:57 • 15h ago
+👁️ 6K • 👍 235 • 💬 88 • ⏱️ 15:28 • 11h ago
 
 ---
 

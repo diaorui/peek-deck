@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-15T05:00:46.247647+00:00'
+updated: '2026-10-15T09:46:38.607524+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 05:00 UTC  
+**Last Updated:** October 15, 2026 at 09:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.8%  
-**7d:** -4.2%  
-**30d:** -1.4%  
-**90d:** +28.0%  
-**1y:** -38.8%  
+**24h:** -5.3%  
+**7d:** -4.7%  
+**30d:** -1.9%  
+**90d:** +27.4%  
+**1y:** -39.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $290.89B
+**Market Cap:** $289.51B
 Rank #2
 
 **Circulating Supply:** 122,136,580 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.8%
+-52.1%
 
 **All-Time Low:** $0.43
-+549972.9%
++547349.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hey community, I'm wondering how someone can get offers to his ENS domains. I ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -152,20 +152,19 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[Is Bitmine Immersion Technologies (BMNR) Overvalued Following Tom Lee's Ethereum Warning?](https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/is-bitmine-immersion-technologies-bmnr-overvalued-following)**
+**[Bitmine’s Tom Lee Warns Of Ethereum Selloff](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html)**
 
-Bitmine Immersion Technologies (BMNR) is back in focus after chairman Tom Lee warned that margin liquidations tied to South Korea's stock market slump could pressure Ethereum and other crypto assets in the near term.
-That warning lands at a jittery moment for Bitmine Immersion Technologies investors, with the share price at US$22.25 after a 1-day share price return that declined 5.28% and a 7-day move down 9.77%, even though the 90-day share price return is up 44.11%. The 1-year total...
+Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET...
 
-Simply Wall Street • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html)**
+**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
 
-Ethereum’s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ...
+Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
 
-Yahoo Finance • 19h ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -181,7 +180,7 @@ CoinDesk • 2d ago
 
 British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
 
-Decrypt • 11h ago
+Decrypt • 16h ago
 
 ---
 
@@ -189,23 +188,15 @@ Decrypt • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 22h ago
 
 ---
 
-**[Tom Lee Says Ethereum’s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.](https://247wallst.com/investing/cryptocurrency/2026/10/13/tom-lee-says-ethereums-years-long-slide-against-bitcoin-is-ending-ethereum-lost-another-4-6-to-bitcoin-in-a-week/)**
+**[Ethereum FOMO grows as Bitcoin, XRP sentiment weakens – Why it matters](https://ambcrypto.com/ethereum-fomo-grows-as-bitcoin-xrp-sentiment-weakens-why-it-matters/)**
 
-Tom Lee says tokenization and AI agents will reverse Ethereum's decline against Bitcoin. Yet the ETH/BTC ratio fell 4.7% in a week.
+Does bearish sentiment dominates Bitcoin, Ethereum and XRP as prolonged declines weigh on investor confidence?
 
-24/7 Wall St. • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff](https://www.tradingview.com/news/benzinga:74bd4911d094b:0-bitcoin-ethereum-xrp-dogecoin-lose-over-2-in-cross-market-selloff/)**
-
-Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec…
-
-TradingView • 10h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -217,15 +208,23 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Wallet Maintenance for Ethereum Network (ETH) - 2026-10-15](https://www.binance.com/en/support/announcement/detail/d8a6908240ae4320879a0088fca050e3)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff](https://www.tradingview.com/news/benzinga:74bd4911d094b:0-bitcoin-ethereum-xrp-dogecoin-lose-over-2-in-cross-market-selloff/)**
 
-Binance • 23h ago
+Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec…
+
+TradingView • 15h ago
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415)**
+**[Ethereum Price Forecast: ETH falls below $2,500 as hot CPI raises Fed hike odds](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-falls-below-2-500-as-hot-cpi-raises-fed-hike-odds-202610141957)**
 
-FXStreet • 1d ago
+FXStreet • 13h ago
+
+---
+
+**[Wallet Maintenance for Ethereum Network (ETH) - 2026-10-15](https://www.binance.com/en/support/announcement/detail/d8a6908240ae4320879a0088fca050e3)**
+
+Binance • 1d ago
 
 ---
 
@@ -233,43 +232,13 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin, Ethereum ETF Divergence from Futures; Bracing for Next Catalyst](https://www.youtube.com/watch?v=vSsNxPq2-h4)**
-
-Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesSchwab to talk about the latest moves in ...
-
-📺 Schwab Network
-
-👁️ 2K • 👍 31 • 💬 1 • ⏱️ 5:03 • 7h ago
-
----
-
-**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
-
-As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
-
-📺 Coinage
-
-👁️ 4K • 👍 31 • ⏱️ 12:34 • 15h ago
-
----
-
 **[Has Ethereum Reached a Turning Point?](https://www.youtube.com/watch?v=orbRVd3OkTA)**
 
 Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 4 • ⏱️ 7:31 • 5h ago
-
----
-
-**[Ethereum&#39;s Fundamentals Skyrocket, But Where&#39;s the Price Surge?](https://www.youtube.com/watch?v=yI3eXQSGQhw)**
-
-Ethereum's fundamentals are getting stronger—but ETH's price isn't keeping up. Despite growing network activity, stablecoins, ...
-
-📺 Lark Davis
-
-👁️ 1K • 👍 29 • 💬 3 • ⏱️ 1:03 • 13h ago
+👁️ 5K • 👍 143 • 💬 5 • ⏱️ 7:31 • 10h ago
 
 ---
 
@@ -279,17 +248,35 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 159 • 💬 15 • ⏱️ 21:33 • 12h ago
+👁️ 9K • 👍 172 • 💬 18 • ⏱️ 21:33 • 17h ago
 
 ---
 
-**[HUGE CANTON NETWORK, XRP, &amp; ETHEREUM NEWS! TRADFI INSTITUTIONS GO ALL IN ON TOKENIZATION!](https://www.youtube.com/watch?v=9qs9BxVEGrg)**
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
 
-Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Network. Ripple is partnering with Privy, a Stripe ...
+📺 Itsdanielmac
 
-📺 Thinking Crypto
+👁️ 21K • 👍 451 • 💬 25 • ⏱️ 0:48 • 15h ago
 
-👁️ 18K • 👍 727 • 💬 61 • ⏱️ 14:24 • 1d ago
+---
+
+**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
+
+As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
+
+📺 Coinage
+
+👁️ 4K • 👍 35 • ⏱️ 12:34 • 20h ago
+
+---
+
+**[Bitcoin, Ethereum ETF Divergence from Futures; Bracing for Next Catalyst](https://www.youtube.com/watch?v=vSsNxPq2-h4)**
+
+Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesSchwab to talk about the latest moves in ...
+
+📺 Schwab Network
+
+👁️ 3K • 👍 33 • 💬 1 • ⏱️ 5:03 • 11h ago
 
 ---
 
@@ -299,25 +286,27 @@ Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading throu
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 460 • 💬 158 • ⏱️ 14:22 • 1d ago
+👁️ 18K • 👍 459 • 💬 129 • ⏱️ 14:22 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum, Kommen heute die 80k? 2350Eth? passt bitte DARAUF auf!](https://www.youtube.com/watch?v=nQJNoc3lxTo)**
+**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Krypto Trading & Investing
+📺 Crypto Nutshell
 
-👁️ 771 • 👍 183 • 💬 73 • ⏱️ 14:24 • 2h ago
+👁️ 7K • 👍 92 • 💬 12 • ⏱️ 23:58 • 1d ago
 
 ---
 
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=FvIVxGGU5Js)**
 
-📺 Itsdanielmac
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-👁️ 15K • 👍 354 • 💬 21 • ⏱️ 0:48 • 10h ago
+📺 Crypto Nutshell
+
+👁️ 20K • 👍 356 • 💬 14 • ⏱️ 24:39 • 2d ago
 
 ---
 
@@ -327,7 +316,17 @@ BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 16K • 👍 353 • 💬 87 • ⏱️ 22:10 • 12h ago
+👁️ 19K • 👍 393 • 💬 168 • ⏱️ 22:10 • 17h ago
+
+---
+
+**[This Ethereum Signal Called a Historic 154% Rally](https://www.youtube.com/watch?v=fVQuWVqtCi8)**
+
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 603 • 👍 14 • 💬 1 • ⏱️ 4:07 • 14h ago
 
 ---
 

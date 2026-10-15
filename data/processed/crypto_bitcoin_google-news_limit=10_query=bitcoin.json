@@ -15,24 +15,34 @@
       "description": null
     },
     {
-      "headline": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJWaFJDaHVaNkd2US1NWGYzeEpPdWJ0NEdXSmhSQUliZEVfT2dVbWJhaE50S0w2d1ExZlZ2TjZjM2VWcVpIeXEwR1ZuR3R2cm53Njc4TWlOS0lOeF9pVFUyd0JjZFM0SFNvQklYTk4tNGpNckxjdmt5SVdMUTcwRXVGaEhCLTZjTURMbUJralRQRWZEMk1ocnpwRWNTRHFkYWdTYW1obXFFUQ?oc=5",
-      "pub_date": 1792037342.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/120f5e079f145eea15f4ed3c577550e8e70bec73-2189x1264.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday\u2019s inflation report, but have since cooled."
+      "headline": "Michael Saylor drops bold Bitcoin call ahead of major index review",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzdYZ3RxeS16Y05lUFI5NUFGMjI2eEdkdXF2UDg5TFFMdnNkMXBwdnNqUVhwczhzd2ljaVpzb3hZQkRBZ1ZhTmVWcTBSMmtnVXdlR2dLemZCRVA5UUhGZkpvOUVTeU9YLTJCM2xRUnAxam5UakVKWXNnLUVJZWJwOURuQ3VYLTZCdDd4dWhXNXdlRWZqWklCODRhdnNmMFVKaDhwNXJPcGpnQU0?oc=5",
+      "pub_date": 1791924471.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/michael-saylor-drops-bold-bitcoin-call-ahead-of-major-index-review",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Peter Schiff Calls Bitcoin\u2019s Long-Term Performance \u2018Meaningless\u2019: There\u2019s a Difference Between Bubble \u2018Blowing Up\u2019 and Air Coming Out",
+      "headline": "Bitcoin Sinks Toward $80,000 After Hot CPI. Will Whales Keep What They Added?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVR2dDE4cVJaczN1ZnV6YnVIakZKVU5VdVNndDJSVEptaEJmUDFqRzFXSWxhYjhyZDQtNjJ0TENhUnNhd0FITC0wMm0yR2l2Y0d2RWhHT1FObGpHaUt3R3lRLU12N1QyTVZiRkFBaGhvRERnMWlwUERYWW9vdW9BM0pqWTFWUzJXYWJRaHhhalY5TnA1ZTVfYVJZRjQ?oc=5",
-      "pub_date": 1792035000.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-calls-bitcoin-long-033008337.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f21f2a4a14da670424fdb2e08075fae82d2ea03920c3e5ecab035f2d6dba4a6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fa2928e4f1759c598df93b5485837ff65.jpg",
-      "description": "Economist Peter Schiff said Bitcoin did \u201cgreat\u201d in its first ten years, but the cryptocurrency\u2019s performance since then has been far less impressive. Schiff on How He Sets His Timeframes Speaking with Benzinga, Schiff said he doesn\u2019t like assessing Bitcoin..."
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOemVrTFNpNUxtT1phT0o0NFpNWEY2eEdIQngxcGJEUzNGRXVEMHlCY3JLQ2laU3FOLU85LXpRV0FJVGV2ZDVxdVVfeDF6YUlqN3NfUHUtcFNXRS00Wml2aUhDMWUyNUVBUzl3b0xwMm9sZDFwMU5yWE5YSl9IYm9fUGdtQWZIazYzMGotbE9YMC12YWZVcFh3?oc=5",
+      "pub_date": 1792050874.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-sinks-toward-80-000-075434467.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b8f4ed59b89ee96e1733eb8b14502185e51979e760963c379757f7b401c40b05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F1de4ce0db455ea70ef5d9c728a1562e2.jpg",
+      "description": "Bitcoin whale holdings hit their highest since November 2025 before hot US CPI dragged price toward $80,000."
+    },
+    {
+      "headline": "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXNlNWRqbGJvSTFpSWQ5ZzBnNWhlN0t4VzhibkFkcmlVOHJIUTZfTUFzcTFLWUNrdmxTLWtZcjgyTUNIQWNGTU55ajBWWGp1ck41RWhZajVpUWpkV1ExdXpfQmFIQVdHY21PdzlCem9NTUxCZjRKWGFYMXJNOGdyNlAwNm5xYmkwekliMTExT0tLWDR3RlVDbDRKRzM?oc=5",
+      "pub_date": 1792056900.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-raises-12-month-price-093500260.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/233e02cef3f846be34300d39f8d8653e5b0f0f02506991286f3fd47fb1ac1368/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd723127a962b928b37d91abf95ee8b8a.jpg",
+      "description": "Citigroup believes that Bitcoin is going to do well during the next 12 months."
     },
     {
       "headline": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
@@ -45,14 +55,34 @@
       "description": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin."
     },
     {
-      "headline": "Strategy\u2019s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
-      "pub_date": 1791917709.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000",
+      "headline": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXJXUDlhYkxhblk5dDM4ZjBTdkhldWMxZHY2VERXVExUeXpsV1FiQWlzY09keFZNRVR6X2V5VnB5TG9qUG85aHZuV2s3cXBGVlgwUzR6aVhxZlhybjdYM0hhMnllRFJJdHJoRHJRZVJsUlpjYmZVMVhyUkkzS3hHV1hBbUY5dmViM2RzbA?oc=5",
+      "pub_date": 1792056170.0,
+      "article_url": "https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888107%2Finvestor-looking-at-phone-and-laptop-charts.jpg&w=1200&op=resize",
+      "description": "Both of these cryptocurrencies have registered positive momentum in the past three months."
+    },
+    {
+      "headline": "Bitcoin Remains Weaker on U.S. Rate-Hike Prospects",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdXFkR2xHN0JUeGtGVEx0X2R1cjJXMjlmQ05mY29MOW1hRG92Mzlpdm52emU5MDVFNER4UVRaYmRRbXNyaTlOclU1Rzg0R3c0a2pxY3FPcFJQTVBPWWZrUG5WSTI1U0FKZmJHZmtJcDZBcGQwUGRENWJFOGV2MWJleERNTnYwdHB6VDluOG1PV3REUkxzYjI5cTdiRFlid0xCR2NacXpVb2RwbXNwZXQ2cHVWcldUTnJibkllVGpzdXV0bVhUOEZCLVIzczIzWFc4S3hNbmdLaGVRT0U?oc=5",
+      "pub_date": 1792055640.0,
+      "article_url": "https://www.barrons.com/livecoverage/stock-market-news-today-101526/card/bitcoin-remains-weaker-on-u-s-rate-hike-prospects-G8kxhFNAz9fu8ppp69S9",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "White House puts Bitcoin security ahead of any new purchases",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGFtRFJJeEFpdHVsd1FIZHpoOGdBbkVIUVNhdlR4cUpSUkZPakV3aE5Wa005TlVLTk1xV3J0TG9Pd1c4NVFtdzd0TG5hczBFbzVRUzNXNU1IM3RZUUFGRWRPTmY0REFxY3JORjNCM0lrRGRHMzdSNHF1aHIyLXI4WHlkZFJMOWNxYWRQOVdqbFRlVlNzRDdoWnpjSnBEOGM4UnN6R291TGk4VDJuTVh4SGtuT3RvWGJtMHNzakQ1WGg5SEk?oc=5",
+      "pub_date": 1792041840.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:45b4d1307094b:0-white-house-puts-bitcoin-security-ahead-of-any-new-purchases/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The US government owns a lot of Bitcoin. Before it buys any more, it wants to make sure it knows exactly where all of it is.On October 14, 2026, Patrick Witt, executive director of the President's Council of Advisers on Digital Assets, said the White House is focused first on safeguarding and accou\u2026"
     },
     {
       "headline": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
@@ -65,46 +95,16 @@
       "description": "A CryptoQuant researcher has said that bitcoin\u2019s supply dynamics could soon help its price."
     },
     {
-      "headline": "Quantum computing presents threat to all crypto currencies, digital assets and passwords: \u2018industry is scrambling\u2019",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2xGX0d5YW5zcXRCSDVpSnFmNTA5ek5VX2NmZjViR1ZmV3UzWl90dGVOMUFFRWZCTjFyOVM1U3RJWldwaDBrLTd5bHpOZEk1ZjBMa254VmM4a3NRUjNzN0p0YnRmNnprdlBkdTRVc0tOWkhkdEdsT25jdUFoN3Z1ZC16UXRySzhxSnFjZzJQNmZpd0RMM3pXTmpB?oc=5",
-      "pub_date": 1792019400.0,
-      "article_url": "https://nypost.com/2026/10/14/tech/quantum-computing-presents-threat-to-all-crypto-currencies/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-rpdzyjqn7-1792019318819.jpg?quality=75&strip=all&1792004986&w=1200",
-      "description": "\u201cThe question is what do we do about it,\u201d said one big crypto investor."
-    },
-    {
-      "headline": "Bitcoin's Demise Is Coming, And Strategy Is Not Ready (NASDAQ:MSTR)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGJaWHBpRVhGS00xaElSancwUVBFbjQwVFh2VkExYTgtVllFUnUyOUNsak9GZG8wTlpIUUhzemVBSFBBQmhmTmJLV1ZwTHRoRHJvSlhSYkhhYTBUMEJDak53dV9IYVkzSC0wdDNScnBnT3oyZDJRV0lrc3dZUGNyY3hEa0ttUmxpVlhndk1aclVqMEowbGl3?oc=5",
-      "pub_date": 1791988200.0,
-      "article_url": "https://seekingalpha.com/article/4954039-bitcoins-demise-is-coming-and-strategy-is-not-ready",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2243296768/image_2243296768.jpg?io=getty-c-w1536",
-      "description": "Strategy (MSTR) is rated Sell due to overvaluation, dilution, and mounting senior claims tied to its bitcoin-centric capital structure."
-    },
-    {
-      "headline": "UK chances of keeping \u00a33.8bn bitcoin haul rise after High Court ruling",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1RTY3JHZU9NMmVUelJYMVR4Z1Z5cFRONnNneVEtQjdGS3A1YXF1cnFlQlZ0bzdtRTl2QVN3aXphMXV6UDYtWF9Pdmh2VmY4VXgtMlh3WkNtcHZEblVyejdPRXVKN3d1WGdmR29jQWlMeFhZc3lmR3VVZG84TVpEdHR0WE8?oc=5",
-      "pub_date": 1791864104.0,
-      "article_url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site\u2014and a tangled web of companies reaching China, raising eyebrows",
-      "source": "KFOR.com",
-      "source_url": "https://kfor.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVQ1U3BCd0hmM3JpY3p2am9CYmhpUE4wbDBuRUJyVmJ4THpGc0U0eTAzUWk4RDJOTWRzVnhVeGVzOFpidFpKVURGOUZmUGFLQjg0SXF5TlEtZ3dpWlBQdDVHVTBYZXJTMDBhNFh2VVhKSU1jMHg4VUhtc1VFNVlJQUtsUU9PN21zdXFqY3dkZTZ6MGxmMmRRNE1yN0JEeGFaWG9JREx4cVlPcTlqTk9BaWozS3NvenpMSVFYV3N5Z0ZCUdIBxwFBVV95cUxNUXRWZmRNRl9GcUM5SjFLQjYzS0h4bk5wczB5OW91ekRBOGpScG5pUW1WTlNvY1NSdDFHSENza1VtWDU1VUpXR25IbWFQbHA4VncxR292azJiOHhYTUpMeHVMbkEzMWIzcHlXLUFGNHk2Ym93RGlhcHF0MjR6VDNIRk1CVFlKbk1VUWN4OUd6TXpzQWNFLWdvQlNCOGtYaU9OME80ZUF2a1N6NjRTTGpLd0Q4cDFGN1VnYmNnb1BKN2J1dUZ1cVdz?oc=5",
-      "pub_date": 1791860323.0,
-      "article_url": "https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllYc2wzZHZzRlMzUzVub1RiRG03a0F4UEJrOWxQOVQ0SmxHQUxLUzFhUXZvNHZFaDhhcWNnS1p0YjNjQUZOM1B3azhGMU9aTE56VS1fMWVOODZKVkdmWkhGV0ZIM2FCMmNfRXBOdmh5UkJkVWRRNGt0WUpXdVctSWtjV3otdmNHZ2tFZWd6dWd0SzZT?oc=5",
+      "pub_date": 1792039080.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
+      "description": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T05:00:29.546000+00:00"
+  "fetched_at": "2026-10-15T09:46:37.311142+00:00"
 }
