@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-15T00:01:14.939618+00:00'
+updated: '2026-10-15T05:00:46.249923+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 15, 2026 at 00:01 UTC  
+**Last Updated:** October 15, 2026 at 05:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[From parts to a working robot 🤖🔧 Testing the motors, gears and mechanical system step by step. More upgrades coming!](https://www.reddit.com/r/robotics/comments/1x0efc9/from_parts_to_a_working_robot_testing_the_motors/)**
 
-6d ago
+7d ago
 
 ---
 
@@ -82,7 +82,7 @@ Follow-up to an earlier post here: mounted LEGO Star Wars AT-AT legs (set 75440,
 
 I have been thinking of starting some cool personal projects. I had a hexapod robot in my mind, like the ones in Watch Dogs: Legion game, for a long time when I was still studying but don't feel like doing it anymore. Thought of asking you guys. Hit me with your best ones ;)
 
-6d ago
+7d ago
 
 ---
 
@@ -90,7 +90,7 @@ I have been thinking of starting some cool personal projects. I had a hexapod ro
 
 Looking for UR5e ur3e and ur10e units in any condition. Anyone here have any not in use or know of any? Looking in the USA and Canada primarily but open to other countries as well.
 
-6d ago
+7d ago
 
 ---
 
@@ -106,7 +106,7 @@ Reindustrialization won't happen against economic laws. Manufacturing has to be 
 
 Recently I’ve been looking into diy’ing a 4// 6dgof cobot for my electronics workstation. It seems like 100% of the time you’ll find a 1:1 motor to dgof relationship for building joints. might be a dumb question, but why isn’t multiplexing a more common practice? how big of a loss is backdrive functionality?
 
-6d ago
+7d ago
 
 ---
 
@@ -122,52 +122,6 @@ blog.google • 1d ago
 
 ---
 
-**[Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec](https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy)**
-
-WSJ • 1d ago
-
----
-
-**[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
-
-In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/)**
-
-Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
-
-TechCrunch • 1d ago
-
----
-
-**[China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market](https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race)**
-
-Bloomberg.com • 20h ago
-
----
-
-**[Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances](https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html)**
-
-Phys.org • 9h ago
-
----
-
-**[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
-
-Reuters • 9h ago
-
----
-
-**[Scoop: Bedrock Robotics raising $600M to automate construction](https://www.axios.com/pro/climate-deals/2026/10/13/bedrock-robotics-series-c-600m)**
-
-Axios • 1d ago
-
----
-
 **[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
 
 The second-largest corporate employer has bet big on robot workers to scale.
@@ -176,11 +130,59 @@ Ars Technica • 2d ago
 
 ---
 
-**[Stryker dives into soft-tissue robotics with $400M play for CMR Surgical’s Versius](https://www.massdevice.com/stryker-dives-into-soft-tissue-robotics-with-400m-play-for-cmr-surgicals-versius/)**
+**[These workers help train robots who could one day steal their jobs](https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs)**
 
-Stryker netted exclusive U.S. rights to sell CMR's Versius robot, while pocketing an option to acquire the company in the future.
+Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
 
-MassDevice • 1d ago
+NPR • 19h ago
+
+---
+
+**[The SF real estate firm betting big on robotics](https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/)**
+
+The San Francisco real estate firm going all in on the robotics boom
+
+The San Francisco Standard • 6h ago
+
+---
+
+**[‘Infinite Demand For Robots:’ Inside Matter Venture Partners’ $450 Million Bet On Physical AI](https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/)**
+
+Forbes • 8h ago
+
+---
+
+**[Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances](https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html)**
+
+Phys.org • 13h ago
+
+---
+
+**[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
+
+Reuters • 14h ago
+
+---
+
+**[Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field](https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html)**
+
+In a big coup for Mind Robotics, the industrial robotics startup spun out of Rivian announced it hired former Ford EV chief Doug Field as its president.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Rivian partner Mind Robotics hires Doug Field as president](https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple)**
+
+It’s a major coup for RJ Scaringe’s secretive startup.
+
+The Verge • 1d ago
+
+---
+
+**[Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec](https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy)**
+
+WSJ • 1d ago
 
 ---
 
@@ -188,33 +190,23 @@ MassDevice • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
+**[German police investigating after robot allegedly gropes teen girl](https://www.youtube.com/watch?v=r7RH9lQ5BWk)**
 
-A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
+Police in Germany are investigating after a livestream captured a robot allegedly groping a 16-year-old girl. The robot's teenage ...
 
 📺 NBC News
 
-👁️ 87K • 👍 620 • 💬 122 • ⏱️ 3:26 • 21h ago
+👁️ 10K • 👍 83 • 💬 33 • ⏱️ 2:32 • 5h ago
 
 ---
 
-**[Walmart Spent a Decade Teaching Robots One Simple Task #automation #walmart #factory](https://www.youtube.com/watch?v=35S029PSFu8)**
+**[Robostrategy CEO Andrew Kang showcases &#39;Taku&#39; the robot and talks the physical AI race](https://www.youtube.com/watch?v=eRHDxFkQlYw)**
 
-Walmart has 140000+ warehouse workers and a decade-long, multibillion-dollar push to automate. The hardest part isn't the ...
+Andrew Kang, Robostrategy co-founder and CEO, joins 'Closing Bell Overtime' to talk teh increase in hysical AI and what that ...
 
-📺 Far Point Global
+📺 CNBC Television
 
-👁️ 935 • 👍 48 • 💬 4 • ⏱️ 2:34 • 9h ago
-
----
-
-**[I Made a BIG SECRET out of this but, hm... [War Robots]](https://www.youtube.com/watch?v=KbcpeGRv1H4)**
-
-War Robots Gameplay: Gas Shield and UE Atomizer Ravager - I thought this would perform A LOT better than it did but I forgot the ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 277 • 💬 53 • ⏱️ 16:12 • 10h ago
+👁️ 22K • 👍 80 • 💬 50 • ⏱️ 5:19 • 15h ago
 
 ---
 
@@ -224,17 +216,7 @@ Elon Musk's prediction of 1 BILLION humanoid robots suddenly looks very differen
 
 📺 ejunky66
 
-👁️ 1.0M • 👍 11K • 💬 464 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
-
-In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
-
-📺 Google DeepMind
-
-👁️ 241K • 👍 4K • 💬 325 • ⏱️ 1:44 • 1d ago
+👁️ 1.1M • 👍 11K • 💬 473 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -244,37 +226,37 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 186K • 👍 2K • 💬 176 • ⏱️ 9:18 • 3d ago
+👁️ 192K • 👍 2K • 💬 181 • ⏱️ 9:18 • 3d ago
 
 ---
 
-**[Humanoid Robot In German Police Custody After Alleged Groping Of Teen | Firstpost America](https://www.youtube.com/watch?v=gmqt3_aBlnc)**
+**[I Made a BIG SECRET out of this but, hm... [War Robots]](https://www.youtube.com/watch?v=KbcpeGRv1H4)**
 
-Watch this video as Firstpost explains a disturbing incident in Cologne, Germany, where a humanoid robot was allegedly used to ...
+War Robots Gameplay: Gas Shield and UE Atomizer Ravager - I thought this would perform A LOT better than it did but I forgot the ...
 
-📺 Firstpost
+📺 Manni-Gaming
 
-👁️ 28K • 👍 81 • 💬 55 • ⏱️ 5:04 • 1d ago
-
----
-
-**[Danish supermarket tests humanoid robots for night shifts](https://www.youtube.com/watch?v=YTNQBSbfvK8)**
-
-Humanoid robots manufactured by Chinese company Unitree are being put to work in a Danish supermarket, learning to restock ...
-
-📺 CGTN Europe
-
-👁️ 2K • 👍 28 • 💬 3 • ⏱️ 0:41 • 10h ago
+👁️ 9K • 👍 321 • 💬 64 • ⏱️ 16:12 • 15h ago
 
 ---
 
-**[How prosthetics tech is training robots | BBC News](https://www.youtube.com/watch?v=k_Hn5k1KMtg)**
+**[I Powered My Robot Army with the Anker SOLIX S2000 vs Jackery](https://www.youtube.com/watch?v=RdvSAEnjypw)**
 
-Tech Now's Paul Carter finds out how technology powering advanced prosthetics is also helping train humanoid robots.
+I charged my robot army (3 humanoids and a robot dog) on the Anker SOLIX S2000 and the Jackery HomePower 2000 Plus v2 to ...
 
-📺 BBC News
+📺 KhanFlicks
 
-👁️ 124K • 👍 698 • 💬 44 • ⏱️ 5:36 • 3d ago
+👁️ 14K • 👍 193 • 💬 24 • ⏱️ 11:36 • 1d ago
+
+---
+
+**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
+
+In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
+
+📺 Google DeepMind
+
+👁️ 252K • 👍 4K • 💬 334 • ⏱️ 1:44 • 1d ago
 
 ---
 
@@ -285,6 +267,26 @@ Developed for power line inspections in Kunming, China, this snake shaped robot 
 📺 Jot Tv Media 
 
 👁️ 94K • 👍 2K • 💬 17 • ⏱️ 1:04 • 6d ago
+
+---
+
+**[These AI Robots Are Getting OUT OF CONTROL… Here’s What’s Actually Real](https://www.youtube.com/watch?v=NjcCxL9zcQQ)**
+
+AI robots are advancing faster than ever, but how much of what we see online is actually real? From humanoid robot fights to ...
+
+📺 The AI Nexus
+
+👁️ 10K • 👍 70 • 💬 15 • ⏱️ 1:21:36 • 2d ago
+
+---
+
+**[Humanoid Robot In German Police Custody After Alleged Groping Of Teen | Firstpost America](https://www.youtube.com/watch?v=gmqt3_aBlnc)**
+
+Watch this video as Firstpost explains a disturbing incident in Cologne, Germany, where a humanoid robot was allegedly used to ...
+
+📺 Firstpost
+
+👁️ 30K • 👍 88 • 💬 58 • ⏱️ 5:04 • 1d ago
 
 ---
 

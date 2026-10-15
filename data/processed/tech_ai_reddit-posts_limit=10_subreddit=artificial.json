@@ -46,6 +46,28 @@
       "description": null
     },
     {
+      "title": "So do you pay for both Claude and ChagGPT?",
+      "author": "Silly_Cheetah1603",
+      "url": "https://www.reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt/",
+      "published": 1792022716.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have started with ChatGPT and switched last year to Claude (and am paying for a subscription). Recently, I have been using ChatGPT and am pretty impressed. I mostly use both for work. Do people subscribe to both (Pro) or just switch from one to the other? I know it's just $20 if its the lowest tier, but I am also being cautious about my subscription expenses as it adds up!"
+    },
+    {
+      "title": "Gemini 4 Argon apparently built this game. AI Studio is showcasing it.",
+      "author": "fasildar55",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/",
+      "published": 1792004160.0,
+      "thumbnail": "https://external-preview.redd.it/bW9jdXh1bmNjaHZoMaGj6BAFIRL1IRASqjnKh_fK5-pPiikicfqwlSpbzCgI.png?width=640&crop=smart&auto=webp&s=23307fdec0437bd9b5fdec6fbefa046e05822b27",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "How much of today's agent memory stack is a workaround for the model architecture?",
       "author": "Sun-Tzu-Maybe",
       "url": "https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/",
@@ -55,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Much of today's agent stack is designed around the fact that model calls don't automatically carry forward everything learned during previous interactions. We retrieve conversation history, maintain external memory stores, summarize old context, compress prompts, orchestrate tools and decide what to inject again at each step. Reading about recurrent-memory architectures got me thinking: what if some of that responsibility moved into the model itself? Instead of reconstructing the relevant context for every call, an agent could carry forward useful task-specific associations as an internal state. Architectures built around recurrent state from day one, such as BDH-CQ, make that possibility interesting. In BDH-CQ, examples update an internal task memory without changing the model's weights, while a separate latent workspace handles reasoning without generating intermediate thought tokens. If that approach extends to long-running agents, the bigger shift might be less \"cheaper reasoning\" and more \"less infrastructure devoted to reminding the model what it already learned.\" Retrieval would still matter for current documents, authoritative records, and information the model hasn't seen. But retrieving new information and reconstructing previously processed context are different jobs. For people building agents: which parts of your memory stack would you trust the model to handle internally, and which would you keep external regardless?"
+    },
+    {
+      "title": "Should an AI writing assistant ask before making a message more persuasive",
+      "author": "Alchemistwiza",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6b7c0/should_an_ai_writing_assistant_ask_before_making/",
+      "published": 1792034908.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Suppose someone asks an assistant to make a message clearer. It comes back smoother, but also more confident, more flattering, or harder to say no to. Those changes can quietly alter the relationship between the sender and the recipient. I would want the tool to distinguish fixing ambiguity from adding pressure, and flag when a revision changes the strength of a claim or request. Where would you draw that line Which edits should happen automatically, and which should require the sender to choose AI-assisted discussion. The scenario is hypothetical."
     },
     {
       "title": "The Age of Reason Is Safely Behind Us",
@@ -77,40 +110,7 @@
       "site_name": "Scientific American",
       "favicon": "https://www.scientificamerican.com/static/favicon.ico",
       "description": "Rumors that OpenAI\u2019s \u201cNavier-Stokes\u201d solution stole the work of two mathematicians may have been overblown"
-    },
-    {
-      "title": "Gemini 4 Argon apparently built this game. AI Studio is showcasing it.",
-      "author": "fasildar55",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/",
-      "published": 1792004160.0,
-      "thumbnail": "https://external-preview.redd.it/bW9jdXh1bmNjaHZoMaGj6BAFIRL1IRASqjnKh_fK5-pPiikicfqwlSpbzCgI.png?width=640&crop=smart&auto=webp&s=23307fdec0437bd9b5fdec6fbefa046e05822b27",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process",
-      "author": "Mathemodel",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/",
-      "published": 1791959641.0,
-      "thumbnail": "https://external-preview.redd.it/ngk80jIGxm3qOCNgJYWLw5E5fx8KVpKmMyVBUZ_t8S4.jpeg?width=640&crop=smart&auto=webp&s=771b084a2583d83fc3722a71fde573f05ec4674c",
-      "external_url": "https://futurism.com/artificial-intelligence/kalshi-admits-random-guy-video-ai-race-swap-ad",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "YouTuber Elliott Choy found that one of his videos was turned into a race-swapped YouTube ad by prediction platform Kalshi."
-    },
-    {
-      "title": "Hochul vs. Blakeman: Utility bills, data centers, and ICE",
-      "author": "news-10",
-      "url": "https://www.reddit.com/r/artificial/comments/1x658ly/hochul_vs_blakeman_utility_bills_data_centers_and/",
-      "published": 1792017366.0,
-      "thumbnail": "https://external-preview.redd.it/p2HUG6v5VS5cO6UHMjMQ0-QC616hiCp0sW_to_lNZcQ.jpeg?width=640&crop=smart&auto=webp&s=66196ac2f2e549e2f1339581025f04fba22aa600",
-      "external_url": "https://www.news10.com/capitol/hochul-blakeman-debate-recap/",
-      "site_name": "news10.com",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-10-15T00:00:49.126259+00:00"
+  "fetched_at": "2026-10-15T05:00:06.371420+00:00"
 }

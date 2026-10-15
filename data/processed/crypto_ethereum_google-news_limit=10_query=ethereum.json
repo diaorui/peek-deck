@@ -5,14 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitmine\u2019s Tom Lee Warns Of Ethereum Selloff",
+      "headline": "Is Bitmine Immersion Technologies (BMNR) Overvalued Following Tom Lee's Ethereum Warning?",
+      "source": "Simply Wall Street",
+      "source_url": "https://simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYlZ3MXVEOHBuYmozMEd3aTF0SjU3a0tINW95Wlp6UEw4U3d5SHpJSlEwQTRRdEpfbGluLVEwbGV3SnlPdmFwZ2RBVG11eWlDSzc4ZHhpTldjVHlSSU1kZTJISGJPNzVfemNKTUt6YkxjVUZiZDV6UkF3dmhwUmhQV3hCTVowNDJvVTNwa2RGa1o3MzI1OW5ZczJzeHlvN0dLOEFtSzhqZlJRWlE1WGd5eUk3cjZjRUZUdzNwVnhpSjBFN3RqLXVtSFhNRmtfYVc0LUN3V0xsSjlrNkc4YnRV0gHkAUFVX3lxTE5ETzRrcHJtU25scjBPMWVPUTczNHVuNEk2Nk45SGxFcWlkX1hBc3BCZ0llMlVGMDU2UFBMREtROE1GOHBTVExBcUtiTU1sQmJhb1E4Vmo4Mk05aUl4LU1LVDhraU1sUVk1VGNrOVc2M3ZhRGVJelVlc3ZZSmhodWI0Q1c3Y0w3eEgySWdTQlExYmhwM2pWaTV2ZVFvRFpMS0Y3TXBuRXN6X0Z2RllPSWVBTGpkVUk2aE1CM21vWFBKcE9FWk5xTXhUQ0NIY0h4NXRUVThrd2ZUUEZhQUV3TmlGQU5IZQ?oc=5",
+      "pub_date": 1792033972.0,
+      "article_url": "https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/is-bitmine-immersion-technologies-bmnr-overvalued-following",
+      "image": "https://images.simplywall.st/asset/industry/8041000-choice2-card/1788941901517?w=1600&h=900&fit=cover",
+      "description": "Bitmine Immersion Technologies (BMNR) is back in focus after chairman Tom Lee warned that margin liquidations tied to South Korea's stock market slump could pressure Ethereum and other crypto assets in the near term.\nThat warning lands at a jittery moment for Bitmine Immersion Technologies investors, with the share price at US$22.25 after a 1-day share price return that declined 5.28% and a 7-day move down 9.77%, even though the 90-day share price return is up 44.11%. The 1-year total..."
+    },
+    {
+      "headline": "Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDV5VmpweE1JREdYeHY2NW9xcS1waXlsRU9DYjNUMnNqcm5uTGtJNzRua3AtdHkyWTloMFlhS3hxNUpvQldtTEhZd1liamQ4UzF3cEptRGZiRWswZTlxV2dZTzQ2cTIyM1oxTmRBdkVvaHRlck1vR3FaNWlrMEpzYlhLSDNfSm15ZHZPWUJCdUdoNWhYLUdCLXZ0WQ?oc=5",
-      "pub_date": 1791901560.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c365805b8a072cc30e623b0498ef120eae2ca44a33a2132e3a90a8c50573120c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fdc984f3370441c5db945debb2cb4cf67.jpg",
-      "description": "Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET..."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXpFWktZbkc4MzNZNXpYVFBwM1I0akU2SVlPVER0OW91VnZKOHBBS29GQ2lNZzJzcGt4MzBXdWtOS0ZQU1hBV3F3MTgwbU92YkZxUzFzS3huU1lFYmh1R3dxTXlqV1ppVDRUaHR0S0xYdE1ZZE5nWjVfWjFfeGV0SXlfM0ZYUjZKSk9yZGVnVWxmS0owcHlpaXItZnZXSUNuSmc?oc=5",
+      "pub_date": 1791970335.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3ae455e2211a7236d201449e0f6dd70c8020c25bf45e013bb8eacb7b1547cd72/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fd1091cdfa3d9348e816561ce4d015ebb.png",
+      "description": "Ethereum\u2019s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ..."
     },
     {
       "headline": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
@@ -35,16 +45,6 @@
       "description": "British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts."
     },
     {
-      "headline": "Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZDQ2pwbllFRWZYcG03R2Q5UFd1TXI2VW5WeDlmVmtHZWVKWWZHb2xRdzRVeU1GRG00eVFUS1FkS2tHVGZqdFBEUGM5SElxZU14Q2JUR2xjSF9xbXJkUFdNb3FFQUp6NHl3bXYwUkZ4U3VxdW5QMUt1cGNFNE9ZZzFWUFktOE44U2hmZGlMQXd6ak5peUdVcQ?oc=5",
-      "pub_date": 1791849600.0,
-      "article_url": "https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887699%2Fcrypto-currency-ethereum-eth.jpg&w=1200&op=resize",
-      "description": "Don't let shortsighted sellers distract you from this coin's real value."
-    },
-    {
       "headline": "Current price of Ethereum for October 14, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -53,16 +53,6 @@
       "article_url": "https://fortune.com/article/price-of-ethereum-10-14-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-14.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC eyes $85,000, ETH holds support, XRP stabilizes",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1RhcGtsbFlUZTdnWkRhTTNtbHAwd0ZxcWpKTTlnbm5UaUt3NS1OS29fczdDcjZsc1IzaG13eHBfRW4xSHliY1l5M1JCU3NhQ2czZm9ZMjZHamNyUTlHM2tPLVZESnBlS2Q1T1laSlo4eV84ZDJQeUZMUllkMDdVM2JWREZrMUhIVUZfemZhdTU0OF9YZUUwamxFTEEyamlMLUEwbHpwcWpObndKRWdVaUdBQjdVeFdiOTRWcENZc3AtT28zTjJjaEtYU3pXaHBJWGU2VFA0VFE4a2tjUzBUQkVva29oTTRYTHdMbA?oc=5",
-      "pub_date": 1791951349.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Tom Lee Says Ethereum\u2019s Years-Long Slide Against Bitcoin Is Ending. Ethereum Lost Another 4.6% to Bitcoin in a Week.",
@@ -75,36 +65,46 @@
       "description": "Tom Lee says tokenization and AI agents will reverse Ethereum's decline against Bitcoin. Yet the ETH/BTC ratio fell 4.7% in a week."
     },
     {
-      "headline": "Crypto\u2019s $800M Wipeout Revives Arthur Hayes\u2019s Extreme $200K Ethereum Price Call",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2Q0NWhfTTI5Q2swNjJuckVURUtKZzZyTFkzYkVMbUhiSVllck85UTYySDZxb3VHblphLVRmcXVmYTVvbU14NkQ1S0RieTlDNWxsR1FiRkJURTVCemV1bFpHN3Q1RnZBUHYxcV9NeTNCV1pxVmZCTE50RU1kb2s4QVM0MWFZUVJVQnNuMWlrVXgxdw?oc=5",
-      "pub_date": 1791978714.0,
-      "article_url": "https://www.ccn.com/news/crypto/ethereum-200k-arthur-hayess-extreme-call-ai-crash-catch/",
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFBJcWRqMklJNW56QVlKSWN5bkFwejIyaDNoWENRdUVqR2xFMVBLMmFWS0tmX2Y4OHhPaksxQzBpdDR3Mk5NNXAtYm1Za1VwVWhnb2NsY3lUWFRXendvWW9lbzdqejhHWHZhaUtNb3RrcmR3QndrWFd0NXJZak5oOXViaG1Uel9OeWNWbXlpX1l2MW1rcEs0RTZ0MHVyT0pjMGsxdThDSGlXejlCTlBMSnExT09TOVptUktCWW95OXFudw?oc=5",
+      "pub_date": 1792001013.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:74bd4911d094b:0-bitcoin-ethereum-xrp-dogecoin-lose-over-2-in-cross-market-selloff/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec\u2026"
+    },
+    {
+      "headline": "Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZDQ2pwbllFRWZYcG03R2Q5UFd1TXI2VW5WeDlmVmtHZWVKWWZHb2xRdzRVeU1GRG00eVFUS1FkS2tHVGZqdFBEUGM5SElxZU14Q2JUR2xjSF9xbXJkUFdNb3FFQUp6NHl3bXYwUkZ4U3VxdW5QMUt1cGNFNE9ZZzFWUFktOE44U2hmZGlMQXd6ak5peUdVcQ?oc=5",
+      "pub_date": 1791849600.0,
+      "article_url": "https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887699%2Fcrypto-currency-ethereum-eth.jpg&w=1200&op=resize",
+      "description": "Don't let shortsighted sellers distract you from this coin's real value."
+    },
+    {
+      "headline": "Wallet Maintenance for Ethereum Network (ETH) - 2026-10-15",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGpGSXowS1d3MTNoOWhSTHFfcFZ6UXFidVpIbFJLTHRUeTJvamFGY0dkTmlseTBlS1dpOERxNEJ1Y2Z6TlhTNk9fRnQ0SlplVWp3X25PLXNITnNKLWlkOVItNm1BWVlXa0lBUldGZHEwTU0yTU03blJDcVRLOU5mLURiS01KejBETHF4UnZjU0M?oc=5",
+      "pub_date": 1791954188.0,
+      "article_url": "https://www.binance.com/en/support/announcement/detail/d8a6908240ae4320879a0088fca050e3",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin And Crypto Just Quietly Hit A Massive Price \u2018Inflection Point\u2019\u2014But There\u2019s A Nasty Catch",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYzF6dlNhMDhuMzhaZ2FlZUxIY2FSNUNBTmtkRVVRTjZfX3VnMkQwWHVUZkpnSFNxbHRYVnl6MVhMUVpUNW9mNzkwazRRNE5vTHVQQ3V3ZUNQVGVqdnJJS2RKZlA2RHhTLXhpUXJUODZtRFBHNWljTXdwWU9QVWhmVU5LQUJNZ2dvTEgxX1kyU1VjZG5YUXVBUzZkWUcta19NWHZpTWxORWFza3ZOWjk1Zllzb0dLRUZYbUtnSGtiTTd6MFFqRnNwcVdDN3BtNzc3Z09uWmxINDAxTzRGYnI5MmlHeUptTGdpclY2R1BQZGlCSWVDdTFkRnZKSXVGQQ?oc=5",
-      "pub_date": 1791801420.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/",
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC eyes $85,000, ETH holds support, XRP stabilizes",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1RhcGtsbFlUZTdnWkRhTTNtbHAwd0ZxcWpKTTlnbm5UaUt3NS1OS29fczdDcjZsc1IzaG13eHBfRW4xSHliY1l5M1JCU3NhQ2czZm9ZMjZHamNyUTlHM2tPLVZESnBlS2Q1T1laSlo4eV84ZDJQeUZMUllkMDdVM2JWREZrMUhIVUZfemZhdTU0OF9YZUUwamxFTEEyamlMLUEwbHpwcWpObndKRWdVaUdBQjdVeFdiOTRWcENZc3AtT28zTjJjaEtYU3pXaHBJWGU2VFA0VFE4a2tjUzBUQkVva29oTTRYTHdMbA?oc=5",
+      "pub_date": 1791951349.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "VanEck withdraws SEC registration for its Lido Staked Ethereum ETF",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwSmVjWWhKQ1NjUTFUbm1JeTUzYVJCS1N6TF9XLWFQYnFMZUVIWXpDMVNtanlMaWw1b0RHMnFTVzVxMVZsSUVtalcyX3lRUDdTbXRLY2dYZ09CY0t4QXpaMDBIbk5CUUhhVm5Dd0VWNlpDdWk3dmlTNQ?oc=5",
-      "pub_date": 1792016423.0,
-      "article_url": "https://cryptobriefing.com/vaneck-withdraws-lido-staked-ethereum-etf/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
-      "description": "VanEck withdrew SEC registration for its Lido Staked Ethereum ETF, confirming no shares were or will be issued. Here is what it means for stETH."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T00:01:05.717391+00:00"
+  "fetched_at": "2026-10-15T05:00:30.562262+00:00"
 }

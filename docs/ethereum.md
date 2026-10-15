@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-15T00:01:14.936375+00:00'
+updated: '2026-10-15T05:00:46.247647+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 00:01 UTC  
+**Last Updated:** October 15, 2026 at 05:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,428.05
+### $2,420.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** -2.6%  
-**30d:** +0.2%  
-**90d:** +30.1%  
-**1y:** -37.8%  
+**24h:** -4.8%  
+**7d:** -4.2%  
+**30d:** -1.4%  
+**90d:** +28.0%  
+**1y:** -38.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.25B
+**Market Cap:** $290.89B
 Rank #2
 
-**Circulating Supply:** 122,133,648 ETH
+**Circulating Supply:** 122,136,580 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.1%
+-51.8%
 
 **All-Time Low:** $0.43
-+558312.8%
++549972.9%
 
 ---
 
@@ -152,11 +152,20 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[Bitmine’s Tom Lee Warns Of Ethereum Selloff](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-warns-ethereum-142600040.html)**
+**[Is Bitmine Immersion Technologies (BMNR) Overvalued Following Tom Lee's Ethereum Warning?](https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/is-bitmine-immersion-technologies-bmnr-overvalued-following)**
 
-Tom Lee, chairman of Bitmine Immersion Technologies (NYSE: $BMNR), is warning of a selloff in Ethereum (CRYPTO: $ET...
+Bitmine Immersion Technologies (BMNR) is back in focus after chairman Tom Lee warned that margin liquidations tied to South Korea's stock market slump could pressure Ethereum and other crypto assets in the near term.
+That warning lands at a jittery moment for Bitmine Immersion Technologies investors, with the share price at US$22.25 after a 1-day share price return that declined 5.28% and a 7-day move down 9.77%, even though the 90-day share price return is up 44.11%. The 1-year total...
 
-Yahoo Finance • 1d ago
+Simply Wall Street • 1h ago
+
+---
+
+**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html)**
+
+Ethereum’s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ...
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -164,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -172,15 +181,7 @@ CoinDesk • 1d ago
 
 British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
 
-Decrypt • 6h ago
-
----
-
-**[Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.](https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/)**
-
-Don't let shortsighted sellers distract you from this coin's real value.
-
-The Motley Fool • 2d ago
+Decrypt • 11h ago
 
 ---
 
@@ -188,13 +189,7 @@ The Motley Fool • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415)**
-
-FXStreet • 19h ago
+Fortune • 17h ago
 
 ---
 
@@ -206,23 +201,31 @@ Tom Lee says tokenization and AI agents will reverse Ethereum's decline against 
 
 ---
 
-**[Crypto’s $800M Wipeout Revives Arthur Hayes’s Extreme $200K Ethereum Price Call](https://www.ccn.com/news/crypto/ethereum-200k-arthur-hayess-extreme-call-ai-crash-catch/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff](https://www.tradingview.com/news/benzinga:74bd4911d094b:0-bitcoin-ethereum-xrp-dogecoin-lose-over-2-in-cross-market-selloff/)**
 
-CCN.com • 12h ago
+Bitcoin holds near $81,500 after falling 2% over the past 24 hours as hotter-than-expected CPI data fueled expectations of further Federal Reserve rate hikes.Notable Statistics:Notable Developments:Trader Notes:Analyst Kevin expects Bitcoin to form a higher low around the upcoming U.S. midterm elec…
 
----
-
-**[Bitcoin And Crypto Just Quietly Hit A Massive Price ‘Inflection Point’—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/12/crypto-just-quietly-hit-a-massive-price-inflection-point-but-theres-a-nasty-surprise-for-bitcoin-ethereum-and-xrp/)**
-
-Forbes • 2d ago
+TradingView • 10h ago
 
 ---
 
-**[VanEck withdraws SEC registration for its Lido Staked Ethereum ETF](https://cryptobriefing.com/vaneck-withdraws-lido-staked-ethereum-etf/)**
+**[Is Ethereum a Good Investment? A Contrarian Case for Holding ETH When Everyone Else Is Selling.](https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-a-contrarian-case-fo/)**
 
-VanEck withdrew SEC registration for its Lido Staked Ethereum ETF, confirming no shares were or will be issued. Here is what it means for stETH.
+Don't let shortsighted sellers distract you from this coin's real value.
 
-Crypto Briefing • 1h ago
+The Motley Fool • 2d ago
+
+---
+
+**[Wallet Maintenance for Ethereum Network (ETH) - 2026-10-15](https://www.binance.com/en/support/announcement/detail/d8a6908240ae4320879a0088fca050e3)**
+
+Binance • 23h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-85-000-eth-holds-support-xrp-stabilizes-202610140415)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -236,25 +239,7 @@ Jenny Kovacs returns to Crypto Corner and sits down with Adam Lynch of @CharlesS
 
 📺 Schwab Network
 
-👁️ 241 • 👍 18 • 💬 1 • ⏱️ 5:03 • 2h ago
-
----
-
-**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=wc1n-vrhLGA)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 132 • 💬 10 • ⏱️ 21:33 • 7h ago
-
----
-
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
-
-📺 Itsdanielmac
-
-👁️ 7K • 👍 231 • 💬 14 • ⏱️ 0:48 • 5h ago
+👁️ 2K • 👍 31 • 💬 1 • ⏱️ 5:03 • 7h ago
 
 ---
 
@@ -264,37 +249,17 @@ As trillions of dollars in traditional financial assets prepare to move on-chain
 
 📺 Coinage
 
-👁️ 3K • 👍 25 • ⏱️ 12:34 • 10h ago
+👁️ 4K • 👍 31 • ⏱️ 12:34 • 15h ago
 
 ---
 
-**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
+**[Has Ethereum Reached a Turning Point?](https://www.youtube.com/watch?v=orbRVd3OkTA)**
 
-Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Crypto Capital Venture
+📺 More Crypto Online
 
-👁️ 17K • 👍 456 • 💬 132 • ⏱️ 14:22 • 1d ago
-
----
-
-**[BITCOIN URGENT UPDATE: It&#39;s Getting Worse (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PoYcO73O1fk)**
-
-BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 300 • 💬 63 • ⏱️ 22:10 • 7h ago
-
----
-
-**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=cHG3n-tAkkc)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 88 • 💬 12 • ⏱️ 23:58 • 1d ago
+👁️ 2K • 👍 97 • 💬 4 • ⏱️ 7:31 • 5h ago
 
 ---
 
@@ -304,17 +269,17 @@ Ethereum's fundamentals are getting stronger—but ETH's price isn't keeping up.
 
 📺 Lark Davis
 
-👁️ 903 • 👍 27 • 💬 2 • ⏱️ 1:03 • 8h ago
+👁️ 1K • 👍 29 • 💬 3 • ⏱️ 1:03 • 13h ago
 
 ---
 
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=FvIVxGGU5Js)**
+**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=wc1n-vrhLGA)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 356 • 💬 14 • ⏱️ 24:39 • 2d ago
+👁️ 7K • 👍 159 • 💬 15 • ⏱️ 21:33 • 12h ago
 
 ---
 
@@ -324,7 +289,45 @@ Crypto News: S&P executes its first-ever onchain derivatives swap on Canton Netw
 
 📺 Thinking Crypto
 
-👁️ 17K • 👍 717 • 💬 76 • ⏱️ 14:24 • 20h ago
+👁️ 18K • 👍 727 • 💬 61 • ⏱️ 14:24 • 1d ago
+
+---
+
+**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
+
+Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 17K • 👍 460 • 💬 158 • ⏱️ 14:22 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum, Kommen heute die 80k? 2350Eth? passt bitte DARAUF auf!](https://www.youtube.com/watch?v=nQJNoc3lxTo)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+
+📺 Krypto Trading & Investing
+
+👁️ 771 • 👍 183 • 💬 73 • ⏱️ 14:24 • 2h ago
+
+---
+
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+
+📺 Itsdanielmac
+
+👁️ 15K • 👍 354 • 💬 21 • ⏱️ 0:48 • 10h ago
+
+---
+
+**[BITCOIN URGENT UPDATE: It&#39;s Getting Worse (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PoYcO73O1fk)**
+
+BITCOIN URGENT UPDATE: It's Getting Worse (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 16K • 👍 353 • 💬 87 • ⏱️ 22:10 • 12h ago
 
 ---
 

@@ -75,6 +75,20 @@
       "site_name": null
     },
     {
+      "title": "Show HN: GitVolt, open source fast Git GUI (Tauri/CEF)",
+      "url": "https://gitvolt.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50097549",
+      "author": "francislavoie",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-10-15T00:25:59Z",
+      "object_id": "50097549",
+      "image": "https://gitvolt.com/og.jpg",
+      "description": "A fast, keyboard-friendly desktop Git client with a commit graph at its heart. Free and MIT licensed; Linux, Windows and macOS.",
+      "favicon": "https://gitvolt.com/assets/favicon-BOyb6FN_.svg",
+      "site_name": "GitVolt"
+    },
+    {
       "title": "Microsoft 365 subscriptions now use shared cloud storage",
       "url": "https://support.microsoft.com/en-gb/onedrive/changes-to-microsoft-365-storage",
       "hn_url": "https://news.ycombinator.com/item?id=50012149",
@@ -89,7 +103,7 @@
       "site_name": "support.microsoft.com"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-10-15T00:01:00.949789+00:00"
+  "fetched_at": "2026-10-15T05:00:14.690754+00:00"
 }
