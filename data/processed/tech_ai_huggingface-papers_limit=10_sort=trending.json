@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 29879,
+      "github_stars": 30394,
       "project_page": null
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2610.20571",
       "arxiv_url": "https://arxiv.org/abs/2610.20571",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20571.png",
-      "upvotes": 256,
+      "upvotes": 320,
       "num_comments": 1,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/ziplab/ATAS",
@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 4941,
+      "github_stars": 5075,
       "project_page": null
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 111239,
+      "github_stars": 111334,
       "project_page": null
     },
     {
@@ -107,31 +107,12 @@
       "hf_url": "https://huggingface.co/papers/2610.20584",
       "arxiv_url": "https://arxiv.org/abs/2610.20584",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20584.png",
-      "upvotes": 152,
+      "upvotes": 165,
       "num_comments": 1,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/Player-1",
       "github_stars": 75,
       "project_page": "https://player-1-project.github.io/"
-    },
-    {
-      "id": "2610.18356",
-      "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-      "authors": "Yu Wang, Rui Dai, Wei Chen et al. (8 authors)",
-      "organization_name": "alibabagroup",
-      "organization_fullname": "alibaba",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68be3ab7e52df040b2cf80dc/li4G29u_EGswyTN1Sm_Kq.png",
-      "summary": "City-scale 3D grounding is commonly formulated as candidate ranking, which requires precomputed instance proposals and becomes inefficient in large outdoor scenes. We propose Urbex, an agentic vision-language framework that instead casts grounding as active spatial search. Urbex represents a city-scale 3D scene as an interactive multi-view environment, allowing a VLM agent to query landmarks, zoom into local regions, render oblique views, and commit a grounded bounding box. We optimize this tool-use policy with reinforcement learning on CityRefer, using smooth localization rewards and lightweight shaping rewards for efficient exploration. Experiments show that Urbex achieves the best Hit@1 and IoU on CityRefer, supports candidate-free grounding without ground-truth boxes, and is substantially faster than the strongest city-scale ranking baseline. Zero-shot results on STPLS3D-Refer further indicate improved cross-scene robustness.",
-      "ai_summary": "Urbex reframes city-scale 3D grounding as an active search process using a vision-language agent with reinforcement learning, improving accuracy and speed without precomputed proposals.",
-      "hf_url": "https://huggingface.co/papers/2610.18356",
-      "arxiv_url": "https://arxiv.org/abs/2610.18356",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.18356.png",
-      "upvotes": 114,
-      "num_comments": 1,
-      "published_at": "2026-10-12T20:00:00.000Z",
-      "github_repo": "https://github.com/AMAP-ML/Urbex",
-      "github_stars": 83,
-      "project_page": "https://www.wangfaye.cn/paper/urbex"
     },
     {
       "id": "2610.08699",
@@ -151,6 +132,25 @@
       "github_repo": "https://github.com/nano-muse/nanoMuse",
       "github_stars": 1236,
       "project_page": "https://nanomuse.cn/"
+    },
+    {
+      "id": "2610.18356",
+      "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
+      "authors": "Yu Wang, Rui Dai, Wei Chen et al. (8 authors)",
+      "organization_name": "alibabagroup",
+      "organization_fullname": "alibaba",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68be3ab7e52df040b2cf80dc/li4G29u_EGswyTN1Sm_Kq.png",
+      "summary": "City-scale 3D grounding is commonly formulated as candidate ranking, which requires precomputed instance proposals and becomes inefficient in large outdoor scenes. We propose Urbex, an agentic vision-language framework that instead casts grounding as active spatial search. Urbex represents a city-scale 3D scene as an interactive multi-view environment, allowing a VLM agent to query landmarks, zoom into local regions, render oblique views, and commit a grounded bounding box. We optimize this tool-use policy with reinforcement learning on CityRefer, using smooth localization rewards and lightweight shaping rewards for efficient exploration. Experiments show that Urbex achieves the best Hit@1 and IoU on CityRefer, supports candidate-free grounding without ground-truth boxes, and is substantially faster than the strongest city-scale ranking baseline. Zero-shot results on STPLS3D-Refer further indicate improved cross-scene robustness.",
+      "ai_summary": "Urbex reframes city-scale 3D grounding as an active search process using a vision-language agent with reinforcement learning, improving accuracy and speed without precomputed proposals.",
+      "hf_url": "https://huggingface.co/papers/2610.18356",
+      "arxiv_url": "https://arxiv.org/abs/2610.18356",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.18356.png",
+      "upvotes": 116,
+      "num_comments": 1,
+      "published_at": "2026-10-12T20:00:00.000Z",
+      "github_repo": "https://github.com/AMAP-ML/Urbex",
+      "github_stars": 92,
+      "project_page": "https://www.wangfaye.cn/paper/urbex"
     },
     {
       "id": "2609.33757",
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 27375,
+      "github_stars": 27433,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-15T14:42:02.396267+00:00"
+  "fetched_at": "2026-10-15T18:53:53.103389+00:00"
 }
