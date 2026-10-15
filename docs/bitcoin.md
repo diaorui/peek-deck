@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-15T00:01:14.930187+00:00'
+updated: '2026-10-15T05:00:46.243481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 15, 2026 at 00:01 UTC  
+**Last Updated:** October 15, 2026 at 05:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,841.37
+### $81,645.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -1.1%  
-**30d:** +7.2%  
-**90d:** +26.0%  
-**1y:** -24.3%  
+**24h:** -2.2%  
+**7d:** -1.2%  
+**30d:** +7.1%  
+**90d:** +25.9%  
+**1y:** -24.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1638.91B
+**Market Cap:** $1638.42B
 Rank #1
 
-**Circulating Supply:** 20,098,271 BTC
+**Circulating Supply:** 20,098,415 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -35.3%
 
 **All-Time Low:** $67.81
-+120172.8%
++120143.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 62
-**GREED**
+### 53
+**NEUTRAL**
 
 ---
 
@@ -159,11 +159,27 @@ WSJ • 2d ago
 
 ---
 
-**[Bitcoin’s Price Prediction: Will Global M2 Point to $300,000?](https://247wallst.com/investing/cryptocurrency/2026/10/11/bitcoins-price-prediction-will-global-m2-point-to-300000/)**
+**[Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8%](https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs)**
 
-A well-known global M2 Bitcoin chart suggests BTC could be worth around $300,000. Here's whether money supply can forecast Bitcoin's price.
+Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.
 
-24/7 Wall St. • 3d ago
+CoinDesk • 51m ago
+
+---
+
+**[Peter Schiff Calls Bitcoin’s Long-Term Performance ‘Meaningless’: There’s a Difference Between Bubble ‘Blowing Up’ and Air Coming Out](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-calls-bitcoin-long-033008337.html)**
+
+Economist Peter Schiff said Bitcoin did “great” in its first ten years, but the cryptocurrency’s performance since then has been far less impressive. Schiff on How He Sets His Timeframes Speaking with Benzinga, Schiff said he doesn’t like assessing Bitcoin...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide](https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide)**
+
+Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.
+
+CoinDesk • 35m ago
 
 ---
 
@@ -173,57 +189,39 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html)**
+**[The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?](https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking)**
 
-Ethereum’s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ...
+A CryptoQuant researcher has said that bitcoin’s supply dynamics could soon help its price.
 
-Yahoo Finance • 14h ago
-
----
-
-**[Crypto Long & Short: Why gold and bitcoin belong in the same portfolio](https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio)**
-
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
-
-CoinDesk • 8h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[U.S. September CPI comes in hot, sending bitcoin sharply lower](https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower)**
+**[Quantum computing presents threat to all crypto currencies, digital assets and passwords: ‘industry is scrambling’](https://nypost.com/2026/10/14/tech/quantum-computing-presents-threat-to-all-crypto-currencies/)**
 
-The news could put multiple rate hikes by the Federal Reserve back into play.
+“The question is what do we do about it,” said one big crypto investor.
 
-CoinDesk • 11h ago
-
----
-
-**[Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)**
-
-Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.
-
-CoinDesk • 3h ago
+New York Post • 5h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, October 14, 2026: Crypto prices sliding after higher-inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-14-2026-crypto-prices-sliding-after-higher-inflation-report-133306768.html)**
+**[Bitcoin's Demise Is Coming, And Strategy Is Not Ready (NASDAQ:MSTR)](https://seekingalpha.com/article/4954039-bitcoins-demise-is-coming-and-strategy-is-not-ready)**
 
-Bitcoin opened at $83,092.65 on Wednesday, October 14, 2026, up 1.6% from Tuesday's open. As of 9:15 a.m. ET this morning, the price of bitcoin fell to $82,418.56. Ethereum opened at $2,496.22, up 2.1% from Tuesday's opening price. The price of ethereum moved down this morning to $2,461.69 as of 9:15 a.m. ET.
+Strategy (MSTR) is rated Sell due to overvaluation, dilution, and mounting senior claims tied to its bitcoin-centric capital structure.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway)**
-
-Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
-
-Fox Business • 6h ago
+Seeking Alpha • 14h ago
 
 ---
 
 **[UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling](https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1)**
 
-Financial Times • 1d ago
+Financial Times • 2d ago
+
+---
+
+**[FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site—and a tangled web of companies reaching China, raising eyebrows](https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/)**
+
+KFOR.com • 2d ago
 
 ---
 
@@ -243,7 +241,7 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 1 • 1h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
+⬆️ 1 • 💬 1 • 6h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
 
 ---
 
@@ -267,6 +265,14 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ---
 
+**[Show HN: GitVolt, open source fast Git GUI (Tauri/CEF)](https://news.ycombinator.com/item?id=50097549)**
+
+A fast, keyboard-friendly desktop Git client with a commit graph at its heart. Free and MIT licensed; Linux, Windows and macOS.
+
+⬆️ 3 • 💬 0 • 4h ago • [GitVolt](https://gitvolt.com/)
+
+---
+
 **[Microsoft 365 subscriptions now use shared cloud storage](https://news.ycombinator.com/item?id=50012149)**
 
 Learn more about how Microsoft 365 subscriptions now use shared cloud storage instead of individual user storage quotas.
@@ -279,63 +285,33 @@ Learn more about how Microsoft 365 subscriptions now use shared cloud storage in
 
 ## YouTube Videos: "bitcoin"
 
-**[$50 Billion Wellington-Altus Chief Strategist: Bitcoin &quot;Supercycle&quot; has Begun](https://www.youtube.com/watch?v=Y7lzGeHTaoY)**
-
-The next run in Bitcoin is going to be one for the ages.” Economist James Thorne, Chief Market Strategist at Wellington-Altus ...
-
-📺 Bitcoin Magazine
-
-👁️ 15K • 👍 319 • 💬 32 • ⏱️ 29:17 • 6h ago
-
----
-
 **[$250K Bitcoin Just 2 Months Away?! | Michael Saylor Says The Bull Market Has Begun!](https://www.youtube.com/watch?v=WH_7crcNKWA)**
 
 Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market is beginning, and Arthur Hayes expects money ...
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 529 • 💬 35 • ⏱️ 14:20 • 2h ago
+👁️ 20K • 👍 1K • 💬 91 • ⏱️ 14:20 • 7h ago
 
 ---
 
-**[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
+**[Guess Who Just Crashed Crypto?](https://www.youtube.com/watch?v=6BN9xTViyEY)**
 
-Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 2K • 💬 163 • ⏱️ 10:28 • 1d ago
+👁️ 23K • 👍 1K • 💬 82 • ⏱️ 11:55 • 4h ago
 
 ---
 
-**[Bitcoin Just WRECKED Bulls &amp; Bears](https://www.youtube.com/watch?v=X7pEDGPmH2Y)**
+**[$50 Billion Wellington-Altus Chief Strategist: Bitcoin &quot;Supercycle&quot; has Begun](https://www.youtube.com/watch?v=Y7lzGeHTaoY)**
 
-Join The Coin Bureau Club http://club.coinbureau.com/ Get The Hottest Crypto Deals https://www.coinbureau.com/deals/ ...
+The next run in Bitcoin is going to be one for the ages.” Economist James Thorne, Chief Market Strategist at Wellington-Altus ...
 
-📺 Coin Bureau
+📺 Bitcoin Magazine
 
-👁️ 31K • 👍 644 • 💬 34 • ⏱️ 9:35 • 11h ago
-
----
-
-**[Market Uncertainty Surges!🚨Inflation, War, AI🔥Bitcoin Breaking $81k?](https://www.youtube.com/watch?v=N_fSFEk5x3s)**
-
-Hot inflation data, surging oil, a widening Middle East war, cracks in the AI trade and a weakening consumer are all hitting at once, ...
-
-📺 Paul Barron Network
-
-👁️ 29K • 👍 1K • 💬 69 • ⏱️ 19:07 • 5h ago
-
----
-
-**[Bitcoin Braces for an Inflation Shock](https://www.youtube.com/watch?v=srd1AEbObKM)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 683 • 💬 56 • ⏱️ 44:14 • 9h ago
+👁️ 27K • 👍 451 • 💬 43 • ⏱️ 29:17 • 11h ago
 
 ---
 
@@ -345,27 +321,37 @@ Hot inflation data hit Bitcoin and the whole altcoin market. Here's where the fl
 
 📺 Verified Investing
 
-👁️ 10K • 👍 355 • 💬 17 • ⏱️ 18:35 • 6h ago
+👁️ 13K • 👍 398 • 💬 25 • ⏱️ 18:35 • 11h ago
 
 ---
 
-**[$2 Million Bitcoin FLOODGATES - Banking Giant Just UNLEASHED BTC Trading](https://www.youtube.com/watch?v=9GHKrRdAqS0)**
+**[The Big Scary Dip Before The Crypto Bull Market! (It’s Happening Right Now)](https://www.youtube.com/watch?v=jnITZB5PTV4)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ The big scary dip before the ...
 
-📺 Bitcoin News Alerts
+📺 Crypto Capital Venture
 
-👁️ 738 • 👍 98 • 💬 49 • ⏱️ 15:28 • 2h ago
+👁️ 20K • 👍 626 • 💬 242 • ⏱️ 11:59 • 12h ago
 
 ---
 
-**[He Calls Bitcoin &quot;Teenager Gold&quot;](https://www.youtube.com/watch?v=CUiwUWTeJuc)**
+**[Bitcoin Already Bottomed At $58,566 (Most People Missed It)](https://www.youtube.com/watch?v=S37KKsoQ4U8)**
 
-Bloomberg Intelligence Senior ETF Analyst Eric Balchunas shares why investors are holding onto Bitcoin through market ups and ...
+Everyone's waiting for the October crypto bottom. I think Bitcoin already bottomed at $58566 back in July, and most people missed ...
 
-📺 Natalie Brunell
+📺 Jesse Eckel
 
-👁️ 5K • 👍 90 • 💬 2 • ⏱️ 0:57 • 10h ago
+👁️ 3K • 👍 81 • 💬 12 • ⏱️ 12:01 • 7h ago
+
+---
+
+**[Market Uncertainty Surges!🚨Inflation, War, AI🔥Bitcoin Breaking $81k?](https://www.youtube.com/watch?v=N_fSFEk5x3s)**
+
+Hot inflation data, surging oil, a widening Middle East war, cracks in the AI trade and a weakening consumer are all hitting at once, ...
+
+📺 Paul Barron Network
+
+👁️ 47K • 👍 1K • 💬 82 • ⏱️ 19:07 • 10h ago
 
 ---
 
@@ -375,7 +361,27 @@ Macro analyst Luke Gromen sparked a major debate on Bitcoin Twitter, warning tha
 
 📺 Natalie Brunell
 
-👁️ 65K • 👍 1K • 💬 81 • ⏱️ 2:56 • 1d ago
+👁️ 74K • 👍 2K • 💬 87 • ⏱️ 2:56 • 1d ago
+
+---
+
+**[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
+
+Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 94K • 👍 2K • 💬 151 • ⏱️ 10:28 • 1d ago
+
+---
+
+**[He Calls Bitcoin &quot;Teenager Gold&quot;](https://www.youtube.com/watch?v=CUiwUWTeJuc)**
+
+Bloomberg Intelligence Senior ETF Analyst Eric Balchunas shares why investors are holding onto Bitcoin through market ups and ...
+
+📺 Natalie Brunell
+
+👁️ 8K • 👍 109 • 💬 2 • ⏱️ 0:57 • 15h ago
 
 ---
 
