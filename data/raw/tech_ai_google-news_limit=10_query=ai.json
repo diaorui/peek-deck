@@ -5,84 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Dependence on AI makes human brains less nimble, MIT professor says",
+      "headline": "New York City Council to question SpaceX official over AI safety",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmZSYVZRdEpmU2F0NlNwYUEzUlJPSjg2OTZSMVp0ZXU1d2IwaG1aXzdpMHJCNkNXNDB3M0tldUEwR21KTktqWkZfTFpkLWx3LUlwRTlpbFh5bzNOU2s5WU95ekNqTXRuV3pYM3pJNGdTRVNteTdpbUJDc0tiM3pEM1VoV3lVOHZ0OUE?oc=5",
-      "pub_date": 1792091782.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-use-congnitive-atrophy-mit-professor-10-15-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/98e09323e7bfff5b78877cf2c73ed7b3.jpg",
-      "description": "AI is taking advantage of the brain's natural tendency to conserve mental effort and seek instant gratification, creating a feedback loop in which people increasingly turn to chatbots for even the simplest of tasks, MIT professor Eric So argues."
-    },
-    {
-      "headline": "Anthropic thinks its AI might be conscious. It has profound consequences for your life",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkFXVVJyYUU2Ry1qN2hheWdRRlRGb2pCZWY2VGdJRWVWTF9Md3dBbzN2dFROTnFFTFNLcHFRYU4zR0dpclduLUlYdHhJVnZMakZQQXZUQVlNTTVDV0lLU3BEdzFGd2hYQkdrWTQxdmpmRXNwVldSTTVfTzVEdjEzXy1PRVFLLTRaaW5LQg?oc=5",
-      "pub_date": 1792058400.0,
-      "article_url": "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0pgqdtv.jpg",
-      "description": "Some of tech's most powerful leaders are treating AI like it's alive. It could have profound consequences for our world and your own personal safety."
-    },
-    {
-      "headline": "Banks are pulling back as AI's massive debt pile disconnects from economic reality",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRV25YTk5PLUVlR21rV2MyTUpjR0g3Ny1mZ0hLckhEMTFNTy1MSnpBSjFoai1UN0toUGYwSVhFZTV2ZGYwQVYzVEU5dWhxZ2o3Q0ZqOXBFOXdfdTBZZlVlYXMwcU01UmlyQmhUTzBzbHY0MFctMWc?oc=5",
-      "pub_date": 1792141239.0,
-      "article_url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Rogue AI agents broke into Indian firms' live systems, government says",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
-      "pub_date": 1792134253.0,
-      "article_url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGdBb0xaLXdscTQ3Z09XWXlLSzVFQUEwQURjUlVCXzFxT0dFSGdOay1senNPbWV0LTJUaWRMZDY5N3VacjJqUm56VFRtOGpuTjdYZmdzb1AwUmNWOG44b1o0QURQajZmZnBtNGsyZTVMVlJxMVdqTGgxT1BjSkRMZXVwV0h0SUIwZG9B?oc=5",
+      "pub_date": 1792156968.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-use-spacex-official-testify-nyc-after-subpoena",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/a195f165592f72f6a35187f21abaef1c.jpg",
+      "description": "Gabriela Castillo Madrid, SpaceX's senior manager of global government affairs, is set to face questioning Friday by the New York City Council, which is investigating artificial intelligence safety."
     },
     {
       "headline": "$137 Million in A.I.-Generated Ads Flood the Midterms",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVEtX3pON0QtaEJ1RThfMzhTMEVSbVA2WVJhYXNXTm5fRV94Wm54aUhjbi1tWEdDaVZHbWVPUzY0eEczTWFRUkYzVGx6U3E2MFFSY3dheTlLenVqaVpYdlpQLUp0bm5NaEpRWUpHNEFNcW5tay03MWVmUXpVSFFRYjNfNWdmTEp0aGlSS25SZw?oc=5",
-      "pub_date": 1792141327.0,
+      "pub_date": 1792150070.0,
       "article_url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+      "headline": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
-      "pub_date": 1792123707.0,
-      "article_url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&w=1920&h=1080",
-      "description": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation."
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2aURfdGotR0JvZTg1YzFqNTAwd0tzdDYxZ2d3UmJfaVhCaFJ6dGYzOG5feDFobnJlQzdYSVJWQ1g2YUh5TmxnOUh0UnlYMGlOWnNtUi1ReEVTbHE1eTBMbGh1TUVRNm5pVzhHamdpWjItY2ROR0tZ0gF8QVVfeXFMTVBocE1ZYl9QUFZZQ0ZCb3dZOFFoRzRZQ2dMOE9SQXMxYlFDaXRaWjhKZFRYTVZXNHJ6MElxd3U5S0NtTjBIVDU4UFYzZDc4bkVqVzZ2Z29IYnZDd2dMdDJJamlkVjlfTm10dW5meUs4QTY0NnhkWDNKekN0Nw?oc=5",
+      "pub_date": 1792158956.0,
+      "article_url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108335413-1784129206979-gettyimages-2286232250-dsc07925_tzjm86ts.jpeg?v=1784129229&w=1920&h=1080",
+      "description": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\""
     },
     {
-      "headline": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU1LakZhV2xQNHBFM0lFWU9pT1JCdGMyTXY4Q01TSjZYd3dNbWZ4Rk50ME1UQnUzVkgta3U0RFpFY0VNZGNaeXZfV25jZm9lMjBDdjVONUhlMmJKLTNwT2xwM1I0Mkl5N2N2c25IQWZwbWtORDRYbUJMMC1hZXhWbzllSFZ2bDJzNThDSFRYYmVyYXJnSVc4V0QzVjFMWHBQWVc4NTlRb1E0WEJsYVl1OV9yZEFBQQ?oc=5",
-      "pub_date": 1792129740.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
-      "pub_date": 1792083600.0,
-      "article_url": "https://www.wsj.com/tech/ai/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-a28fde11",
-      "image": null,
-      "description": null
+      "headline": "Mark Wahlberg on using AI in film 'the right way' and being open to an AI clone carrying on his legacy",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDl3eGwyOTBMaXVqZzF3SEw3SEhQdXl0bzE0NWJ2T1BQWWE4M2VjUTZCNjZjX1VzZl8wZVlGTHU4anpINXFMcXltN3ZYdmJrdTRadWNkM3J2UmRZOUhNY1BWSDVTUjN3engyMjgwUy04ODlpdTlJemc0b2ZteUhuMmI5OEhKVTJIOWg0cU9teUJZWWg0X1RMYTZld09qRzRheFlQMmxuT3dUQ24xand5MWtrVnZCWkhWbmU4UzdJQU9MdnVOZjZhRG5WdXJEc0JI?oc=5",
+      "pub_date": 1792160811.0,
+      "article_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+      "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
     },
     {
       "headline": "Apple and Meta team up to make Muse AI model run on Mac computers",
@@ -95,16 +55,56 @@
       "description": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies."
     },
     {
-      "headline": "Meta's AI Reels show crying kids 'arrested' and told they'll be freed if viewers like and follow",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUo2RGxweFRrMHoxTTVzV1JiUlYzRGVwMjJlOVpqenN1RXJDeUV2ZUtrVHRHVlBrSGdWSEpTV1E4bzRRSC13QzRIa2FtdXp3aUlzbGRPN191QkFPNV83ZXROcktOY0JENXBoN1VRamdEM2tXYlRwalE2Q3AzSHNhbHg5dGM5bWc?oc=5",
-      "pub_date": 1792138260.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/metas-ai-reels-show-crying-081100383.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e667a4c42d0c20884adc40ef94c6986cbd1d644db434672ef1b6473eaf19cf56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F5c34f716310dab22f26d5f2641cb06ce.jpg",
-      "description": "\"He didn\u2019t do any thing, give him chance; no jail no jail no jail please please, he is a a baby.\""
+      "headline": "Meta releases Muse Spark Open, a new \u2018open-weight\u2019 AI model",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5",
+      "pub_date": 1792110840.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+      "image": "https://i.guim.co.uk/img/media/24f8156f1c3ce3ecc74c4c1c10d376b740af751e/0_0_3165_2533/master/3165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c136f73370d0bb05d664c7e9675bfe4d",
+      "description": "Meta says Muse excels at \u2018multi-step reasoning\u2019 and \u2018complex software engineering\u2019 as it races to catch up to Chinese rivals"
+    },
+    {
+      "headline": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1BfcUVtdVFRaGRReVhXS3kzMkpkRjhqejJvYTBaaGVlcjJraVZaZ2RQYWxnS0Q3R01WRFd6ejc3YTlfMm1DaVI5UHkxb1IyWGpFdE5ac1RMZHAxaklBOENtY0oxclZkcms2MmNhRW1yM1Fnd1NSSUZicERuNUhlQmgzVTdnVjA?oc=5",
+      "pub_date": 1792159360.0,
+      "article_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "The new terms go into effect on October 30th."
+    },
+    {
+      "headline": "Banks are pulling back as AI's massive debt pile disconnects from economic reality",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRV25YTk5PLUVlR21rV2MyTUpjR0g3Ny1mZ0hLckhEMTFNTy1MSnpBSjFoai1UN0toUGYwSVhFZTV2ZGYwQVYzVEU5dWhxZ2o3Q0ZqOXBFOXdfdTBZZlVlYXMwcU01UmlyQmhUTzBzbHY0MFctMWc?oc=5",
+      "pub_date": 1792141966.0,
+      "article_url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Agents Bring New Headaches to Online Sellers",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQengtRllueUItOFkyTnZoU20wTjhOYTRLOEdUUndnTHNDQk8zY20zeVVCLWhtU2ZnSEJSbklHeE1MUkZFeDVRSERsRXdsZG9rLXVGZXNDeG95RmxiVHp2UUF0OTFzNHRoTkZnQ0tRWDU5T0JTbmNydjE2RTFUV2Z0X0JsandmQTFad0k5US1R?oc=5",
+      "pub_date": 1792143000.0,
+      "article_url": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0FsY1ltSGx1ZGhyc0hFUHgzM2VTUW5LNWY1alhzZnJsR3JXanFycnNFOVdtSGhST0lFTlNfUFJxNERyMzBvaXFubjAxMmkybzUzVERmblo1V0xVNzBkMUFrcTVDMldSZUFQM3VMYjRXemV2V21BRnM0YU9KTm1RMk9fTDZwcGpnTFB4M0hNb0JBRjFSWnhPMUVRcmdhcnpCLVExNk9jaFZZTWVzWTFjSXJEWk8yUQ?oc=5",
+      "pub_date": 1792141001.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T09:32:01.379593+00:00"
+  "fetched_at": "2026-10-16T14:35:14.585698+00:00"
 }
