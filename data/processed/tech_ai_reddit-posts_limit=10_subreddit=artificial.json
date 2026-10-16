@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "does anyone else feel like we collectively stopped being surprised by AI way too fast",
+      "author": "topbhuil",
+      "url": "https://www.reddit.com/r/artificial/comments/1x7d8ng/does_anyone_else_feel_like_we_collectively/",
+      "published": 1792148606.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "something that happened eighteen months ago would\u2019ve been front page news everywhere, now it\u2019s a Tuesday. new model drops, does something that would\u2019ve seemed insane in 2022, gets a few upvotes and we move on not sure if that\u2019s a sign we\u2019ve genuinely adjusted or if we\u2019re just numb to it at this point. curious if people think that\u2019s healthy or if we\u2019re sleepwalking past stuff we should actually be paying attention to"
+    },
+    {
       "title": "Accenture restricts monthly employee spending on Claude to $29/month",
       "author": "LinkedInNews",
       "url": "https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/",
@@ -46,17 +57,6 @@
       "description": null
     },
     {
-      "title": "Scientists worry AI is stealing their ideas",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/",
-      "published": 1792085060.0,
-      "thumbnail": "https://external-preview.redd.it/pd2OXzCIOlSpsCyle_3Io6s0FbBs4KCMQiFdEZ0PPug.jpeg?width=640&crop=smart&auto=webp&s=49244221d0d5b7e48f1d11fe32435b511b902795",
-      "external_url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Researchers are using AI as a sounding board throughout their work. But concerns are growing that companies may present users\u2019 ideas as those of their models"
-    },
-    {
       "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
       "author": "IndependentCoast3974",
       "url": "https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/",
@@ -66,6 +66,28 @@
       "site_name": "404 Media",
       "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
       "description": "Some employees who spend as much as $1,000 on Claude usage each month are scrambling to find ways to maintain access to the tool."
+    },
+    {
+      "title": "Meta releases Muse Spark Open: it runs on two Mac Studios, and its license bans passing off its output as human-written",
+      "author": "mawcopolow",
+      "url": "https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/",
+      "published": 1792159976.0,
+      "thumbnail": "https://external-preview.redd.it/iasTXykxrADZAw5SJ8vARsDe8IL5Fmd_J66rZMlfW1E.jpeg?width=640&crop=smart&auto=webp&s=e2538fbf6095298e77069eba0b6d3c74d22c830a",
+      "external_url": "https://maccus.fr/en/meta-muse-spark-open/",
+      "site_name": "MACCUS - SEO, Influence & Organic Marketing Agency",
+      "favicon": "https://maccus.fr/wp-content/uploads/2026/10/maccus-site-icon-512-180x180.png",
+      "description": "Meta released the Muse Spark Open weights on October 15, 2026. Here is what it costs through the API, the hardware it needs and what its license requires."
+    },
+    {
+      "title": "Scientists worry AI is stealing their ideas",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/",
+      "published": 1792085060.0,
+      "thumbnail": "https://external-preview.redd.it/pd2OXzCIOlSpsCyle_3Io6s0FbBs4KCMQiFdEZ0PPug.jpeg?width=640&crop=smart&auto=webp&s=49244221d0d5b7e48f1d11fe32435b511b902795",
+      "external_url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Researchers are using AI as a sounding board throughout their work. But concerns are growing that companies may present users\u2019 ideas as those of their models"
     },
     {
       "title": "AI deepfakes are getting out of hand.",
@@ -79,38 +101,16 @@
       "description": "Been reading about AI voice scams lately and it's honestly made me realize how little I know about online security lol. I always thought if someone called or messaged me from a number I recognized then it was probably them seems like that's not always the case. I started looking into ways people can check who they're talking to and found out there's technology that lets you scan a QR code to set up some kind of trusted connection with someone. From what I understand you can use that connection to check it's the same person later on. Maybe I'm getting it wrong but I had no idea this stuff existed. Now I'm wondering why we still rely so much on phone numbers and email addresses when accounts can get hacked and voices can be copied. Does this verification work or is it one of those things that sounds better on paper? I'm not much of a tech person and I wanna hear what people think."
     },
     {
-      "title": "Which of Kissinger\u2019s 6 AI scenarios do you think is most likely?",
-      "author": "Special-Steel",
-      "url": "https://www.reddit.com/r/artificial/comments/1x734ve/which_of_kissingers_6_ai_scenarios_do_you_think/",
-      "published": 1792113400.0,
+      "title": "Where to follow what people do w/ AI",
+      "author": "Rinkashimiiii",
+      "url": "https://www.reddit.com/r/artificial/comments/1x7epak/where_to_follow_what_people_do_w_ai/",
+      "published": 1792153174.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "In his final book there are six possible futures. \u201c1. Humanity will lose control of an existential race between multiple actors trapped in a security dilemma. 2. Humanity will suffer the exercise of supreme hegemony by a victor unharnessed by the checks and balances traditionally needed to guarantee a minimum of security for others. 3. There will not be just one supreme AI but rather multiple instantiations of superior intelligence in the world. 4. The companies that own and develop AI may accrue totalizing social, economic, military, and political power.\u201d 5. AI might find the greatest relevance and most widespread and durable expression not in national structures but in religious ones. 6. Uncontrolled, open-source diffusion of the new technology could give rise to smaller gangs or tribes with substandard but still substantial AI capacity. Excerpt From Genesis Henry A. Kissinger, Eric Schmidt, Craig Mundie & Niall Ferguson https://books.apple.com/us/book/genesis/id6479973847 This material may be protected by copyright."
-    },
-    {
-      "title": "Really shouldn't have ignored people actually qualified to secure your shit...",
-      "author": "stereoplegic",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6w6r0/really_shouldnt_have_ignored_people_actually/",
-      "published": 1792094977.0,
-      "thumbnail": "https://preview.redd.it/s5qp26dguovh1.png?width=640&crop=smart&auto=webp&s=7b1b3f15c5510ecf85a834d6be9880edb7115909",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey \"AI safety\" cultists: Turns out there's already an IT discipline that covers insider threats. Can you guess what it is? (it's InfoSec, that thing you keep waving off as unimportant while you push \"alignment\" on everyone)"
-    },
-    {
-      "title": "Companies rushed in on AI. Now some are pulling back",
-      "author": "return2ozma",
-      "url": "https://www.reddit.com/r/artificial/comments/1x772ca/companies_rushed_in_on_ai_now_some_are_pulling/",
-      "published": 1792125846.0,
-      "thumbnail": "https://external-preview.redd.it/rp3HkwcPvU1qL07PPE5ivA4RFf055fC_vRhBsGZrWFA.jpeg?width=640&crop=smart&auto=webp&s=661f5137e5736024f989d4cca8fafe2dd2cde8b2",
-      "external_url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Rapid AI adoption left workers cleaning up a flood of errors and low-quality work"
+      "description": "Hi everyone, sorry for few English mistzkes i'm French. Post here because i want to know where you all get your informations from. I would like to keep in track with what peoples are doing with ai, like they did with blender or Adobe, knowing every decompiled game etc. I didnt find a Reddit sub or a forum that got every AI users post"
     }
   ],
-  "fetched_at": "2026-10-16T09:31:25.150571+00:00"
+  "fetched_at": "2026-10-16T14:34:50.016398+00:00"
 }

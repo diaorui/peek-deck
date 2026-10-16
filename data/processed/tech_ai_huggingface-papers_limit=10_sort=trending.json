@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
-      "github_stars": 751,
+      "github_stars": 767,
       "project_page": "https://huggingface.co/datasets/Gen-Verse/RSI-Anything"
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2610.20571",
       "arxiv_url": "https://arxiv.org/abs/2610.20571",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20571.png",
-      "upvotes": 336,
+      "upvotes": 339,
       "num_comments": 1,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/ziplab/ATAS",
-      "github_stars": 208,
+      "github_stars": 232,
       "project_page": "https://lhmd.top/atas/"
     },
     {
@@ -107,11 +107,11 @@
       "hf_url": "https://huggingface.co/papers/2610.20584",
       "arxiv_url": "https://arxiv.org/abs/2610.20584",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20584.png",
-      "upvotes": 295,
+      "upvotes": 330,
       "num_comments": 2,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/Player-1",
-      "github_stars": 91,
+      "github_stars": 100,
       "project_page": "https://player-1-project.github.io/"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 3,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 1266,
+      "github_stars": 1307,
       "project_page": "https://nanomuse.cn/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-16T09:31:35.465886+00:00"
+  "fetched_at": "2026-10-16T14:34:59.382639+00:00"
 }
