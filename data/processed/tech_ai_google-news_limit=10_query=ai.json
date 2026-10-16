@@ -5,74 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5",
-      "pub_date": 1792024920.0,
-      "article_url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
-      "description": "A sell-off in global technology hardware stocks deepened Thursday."
-    },
-    {
-      "headline": "Cracks are beginning to show in the stock market as doubts about AI investments grow",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEpUNXhwc2JkVzhOd282UndZbzRHYnRvY0I5MWlRZEhveFZYZGVLYVFUUy1iR21XVE5XQ05KUlk5Rm54RmFHdUEtWnMtcENhNTBaM2xvTTZfQW5CZ3VITTQ2aHFIVU1rOUVRSXl3cjM5NUgxU3RMYkJpd0dHWjZJUWVZWVZhTWhKWkpqNVo4Slg?oc=5",
-      "pub_date": 1792100036.0,
-      "article_url": "https://www.nbcnews.com/business/markets/stock-market-ai-data-centers-doubts-rcna603710",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-nyse-ch-1131-52532c.jpg",
-      "description": "Consumers already face a host of stressors. If AI spending \u2014 and tech stocks \u2014 show signs of sustained decline, U.S. economic growth could be at risk."
-    },
-    {
-      "headline": "Wall Street\u2019s AI wobbles",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFjeXc2T1ZiZXhtYnJkX1lDOEhTNnBvYlBIazdaU3BBR3d5SjdrYUJfSHltYVVSRzhXR0RCYm9KbGZyaTVVcTJqUjlLRmFGYktlR3hvUU9SMkRSMTRKVkpLOEQ3VnBrQm9rMGRiN1dTUk1ZVHRWTkZFbVBGeFd4V1ZFamk?oc=5",
-      "pub_date": 1792123275.0,
-      "article_url": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "FAA seeks ownership stake in air traffic AI company",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XV1gxMm9YZHNfOHFwZVFUNTVuSEpWbnk0a0IzeVdfWXh6Tm5pTGY0MVRIaXNEQmw1c0lOdTFPcHZpZXBlZnVJY2lXTTJDdS1GcnVnZGVPYmtROW5HcXhlU1V0Y2UwdTFlT0ZWclpYdDY0U0pObE95TWFB?oc=5",
-      "pub_date": 1792099980.0,
-      "article_url": "https://www.politico.com/news/2026/10/15/faa-stake-ai-company-01121671",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping",
-      "source": "Digiday",
-      "source_url": "https://digiday.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGl2OUdGc2NENDRwdDJ6VGhKTHBEdV9lY2pzZmpxZEVMQlNDWlBPVHhQUkUzNmlHM2swZXlYQTNoQlUzWlJyM1dmbzFqR0RrVTlZTGlmdXZGeF9XTzRjc1pNSkFXSW9GREIyVlU0YzdQVms0RXFtYTJENmRWMUlJNnJRZHl0VUZJUmk5Tkw3ZWlDeUp3SVAxYUJpeFltOVBoZVRsR0g5a2ZOb3lWaUFMMktBYw?oc=5",
-      "pub_date": 1792123456.0,
-      "article_url": "https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2026/07/publisher-scraping-digiday.png",
-      "description": "Reach CEO Piers North talks its Google AI content deal as a blueprint for other LLM deals, and its cease and desist letter to OpenAI."
-    },
-    {
-      "headline": "AI Fuels New Wave of Baltic Tech Unicorns",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXhveUdyckpEdmhJUkkxSzhiZ2IxeGg2YlM3dkhzaXJ6VEpBRE5qOFpOMVBIeE1uc3JGSFFGT244M0lnTURzUEt0Z0Z0eDRsSi1UanhBSktvUzFsa0xTVUU4Ni1KMkVSVVB1TFhkTk5mRXNWTzlXMHgtR1YyY1kwQmh5YThveDZoSzRfMVRDUDIyb0JWOW05ZHV2dw?oc=5",
-      "pub_date": 1792125000.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-16/ai-fuels-new-wave-of-baltic-tech-unicorns",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | He\u2019s the Most Influential Podcaster in Silicon Valley. He Thinks We\u2019re Getting This Wrong.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnFiYk5NYWNMRGtyVHV4Z2VuZW1jRFgwZEc1eWpkc0lNTUNYcms0QnBhQm04T284UEJpdi1Ebk9ja3gxWlFLVUdFUENuci1nTDhRaGpVWGRuNl9RNzhzT2Nab2xGeVp2d05LX0dRRVliQ01EaDYySVR6THhFRTVqNVhTTnZaUHppUGtQQU9GR0ZVYXc2ZHc?oc=5",
-      "pub_date": 1792055062.0,
-      "article_url": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
-      "image": null,
-      "description": null
+      "headline": "Dependence on AI makes human brains less nimble, MIT professor says",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmZSYVZRdEpmU2F0NlNwYUEzUlJPSjg2OTZSMVp0ZXU1d2IwaG1aXzdpMHJCNkNXNDB3M0tldUEwR21KTktqWkZfTFpkLWx3LUlwRTlpbFh5bzNOU2s5WU95ekNqTXRuV3pYM3pJNGdTRVNteTdpbUJDc0tiM3pEM1VoV3lVOHZ0OUE?oc=5",
+      "pub_date": 1792091782.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-use-congnitive-atrophy-mit-professor-10-15-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/98e09323e7bfff5b78877cf2c73ed7b3.jpg",
+      "description": "AI is taking advantage of the brain's natural tendency to conserve mental effort and seek instant gratification, creating a feedback loop in which people increasingly turn to chatbots for even the simplest of tasks, MIT professor Eric So argues."
     },
     {
       "headline": "Anthropic thinks its AI might be conscious. It has profound consequences for your life",
@@ -85,26 +25,86 @@
       "description": "Some of tech's most powerful leaders are treating AI like it's alive. It could have profound consequences for our world and your own personal safety."
     },
     {
-      "headline": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
-      "pub_date": 1792098606.0,
-      "article_url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
-      "image": "https://assets.aboutamazon.com/dims4/default/a7b66dd/2147483647/strip/true/crop/2000x1000+0+126/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F20%2F14%2F9d6951844795a24f71e544c24dce%2Fbee-frontier-eclipse-hero-amazonnews-ck101426.jpg",
-      "description": "Bee expands its ambient AI family with two personal AI devices designed to remember the moments that matter most, plus new integrations with Alexa+ and Amazon.com."
-    },
-    {
-      "headline": "Amazon launches two new portable AI listening devices",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0c4SGNGOWZtd0Y4cUZFbDlZdXdZbmZEMmZrVGNpbU1BdkNWUUtlTjBXRGN4dlVDaWJrUENJcEh0VzVEY09oNHVJbDBkQ2FRV1hqeTFuc3dZaURjTHNuQ2RmS25xNm9KVS1OaXFja2kwSFZPQVV2MG9XNmdKOTBBSERzUVNJYUUxUXNOYTYxSkpNU3VkamZpT21lTlBmeFJ3QVE?oc=5",
-      "pub_date": 1792091734.0,
-      "article_url": "https://www.reuters.com/technology/amazon-launches-two-new-portable-ai-listening-devices-2026-10-15/",
+      "headline": "Banks are pulling back as AI's massive debt pile disconnects from economic reality",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRV25YTk5PLUVlR21rV2MyTUpjR0g3Ny1mZ0hLckhEMTFNTy1MSnpBSjFoai1UN0toUGYwSVhFZTV2ZGYwQVYzVEU5dWhxZ2o3Q0ZqOXBFOXdfdTBZZlVlYXMwcU01UmlyQmhUTzBzbHY0MFctMWc?oc=5",
+      "pub_date": 1792141239.0,
+      "article_url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Rogue AI agents broke into Indian firms' live systems, government says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
+      "pub_date": 1792134253.0,
+      "article_url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "$137 Million in A.I.-Generated Ads Flood the Midterms",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVEtX3pON0QtaEJ1RThfMzhTMEVSbVA2WVJhYXNXTm5fRV94Wm54aUhjbi1tWEdDaVZHbWVPUzY0eEczTWFRUkYzVGx6U3E2MFFSY3dheTlLenVqaVpYdlpQLUp0bm5NaEpRWUpHNEFNcW5tay03MWVmUXpVSFFRYjNfNWdmTEp0aGlSS25SZw?oc=5",
+      "pub_date": 1792141327.0,
+      "article_url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+      "pub_date": 1792123707.0,
+      "article_url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&w=1920&h=1080",
+      "description": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation."
+    },
+    {
+      "headline": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU1LakZhV2xQNHBFM0lFWU9pT1JCdGMyTXY4Q01TSjZYd3dNbWZ4Rk50ME1UQnUzVkgta3U0RFpFY0VNZGNaeXZfV25jZm9lMjBDdjVONUhlMmJKLTNwT2xwM1I0Mkl5N2N2c25IQWZwbWtORDRYbUJMMC1hZXhWbzllSFZ2bDJzNThDSFRYYmVyYXJnSVc4V0QzVjFMWHBQWVc4NTlRb1E0WEJsYVl1OV9yZEFBQQ?oc=5",
+      "pub_date": 1792129740.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
+      "pub_date": 1792083600.0,
+      "article_url": "https://www.wsj.com/tech/ai/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-a28fde11",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yN20yMnBlVzc4aS0wdWFEbE5Xb2NEam5KRVV2SUMtNElVdkhwa2l5MlVGZzMxemJqWGhEbUZWYUtJd1JhSW1qY2R4djRsUTNKRzhkbHZzTEdJZHpROTFpNnZ5T0JLYWlKLXfSAW9BVV95cUxQSlFLOV9CYWZWMlBDb2N5ZEgzODdobW83Vzh1Qy03R2lpWGtsOXhPbG9OMHRFaDR2UG5kNDhnRDFVTWtWVVUxOHBTWTZ5d0E4WHRVdUZiZ2hEMmlEODByOFZMYjVhNHNESVRNRzFCUUU?oc=5",
+      "pub_date": 1792083601.0,
+      "article_url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365129-1789759496033-gettyimages-2295295823-APPLE_IPHONE_18.jpeg?v=1789759546&w=1920&h=1080",
+      "description": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies."
+    },
+    {
+      "headline": "Meta's AI Reels show crying kids 'arrested' and told they'll be freed if viewers like and follow",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUo2RGxweFRrMHoxTTVzV1JiUlYzRGVwMjJlOVpqenN1RXJDeUV2ZUtrVHRHVlBrSGdWSEpTV1E4bzRRSC13QzRIa2FtdXp3aUlzbGRPN191QkFPNV83ZXROcktOY0JENXBoN1VRamdEM2tXYlRwalE2Q3AzSHNhbHg5dGM5bWc?oc=5",
+      "pub_date": 1792138260.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/metas-ai-reels-show-crying-081100383.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e667a4c42d0c20884adc40ef94c6986cbd1d644db434672ef1b6473eaf19cf56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F5c34f716310dab22f26d5f2641cb06ce.jpg",
+      "description": "\"He didn\u2019t do any thing, give him chance; no jail no jail no jail please please, he is a a baby.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T04:50:08.860667+00:00"
+  "fetched_at": "2026-10-16T09:32:01.379593+00:00"
 }
