@@ -73,37 +73,9 @@
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "Timekeepers to vote on ditching the leap second",
-      "url": "https://www.abc.net.au/news/science/2026-10-12/we-may-be-about-to-lose-the-leap-second-for-good/107207528",
-      "hn_url": "https://news.ycombinator.com/item?id=50050603",
-      "author": "Gaishan",
-      "points": 16,
-      "num_comments": 0,
-      "created_at": "2026-10-12T02:29:12Z",
-      "object_id": "50050603",
-      "image": "https://live-production.wcms.abc-cdn.net.au/36ec9465a59266662455c43ce4793fb8?impolicy=wcms_watermark_news&cropH=1801&cropW=3201&xPos=0&yPos=700&width=862&height=485&imformat=generic",
-      "description": "Clocks occasionally go backwards for a second to keep Earth time in sync with the stars. But the powers that govern time measurement are about to vote to end the practice.",
-      "favicon": "https://www.abc.net.au/news-assets/touchicon.png",
-      "site_name": "abc.net.au"
-    },
-    {
-      "title": "Show HN: GitVolt, open source fast Git GUI (Tauri/CEF)",
-      "url": "https://gitvolt.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50097549",
-      "author": "francislavoie",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-10-15T00:25:59Z",
-      "object_id": "50097549",
-      "image": "https://gitvolt.com/og.jpg",
-      "description": "A fast, keyboard-friendly desktop Git client with a commit graph at its heart. Free and MIT licensed; Linux, Windows and macOS.",
-      "favicon": "https://gitvolt.com/assets/favicon-BOyb6FN_.svg",
-      "site_name": "GitVolt"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-15T21:58:07.192229+00:00"
+  "fetched_at": "2026-10-16T00:13:44.155959+00:00"
 }

@@ -9,8 +9,8 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "hn_url": "https://news.ycombinator.com/item?id=50091788",
       "author": "latexr",
-      "points": 936,
-      "num_comments": 609,
+      "points": 939,
+      "num_comments": 611,
       "created_at": "2026-10-14T17:45:23Z",
       "object_id": "50091788",
       "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&strip=all&w=1024",
@@ -23,8 +23,8 @@
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "hn_url": "https://news.ycombinator.com/item?id=50092664",
       "author": "smartmic",
-      "points": 377,
-      "num_comments": 271,
+      "points": 378,
+      "num_comments": 272,
       "created_at": "2026-10-14T18:32:52Z",
       "object_id": "50092664",
       "image": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-jpmorgan-man-group.jpg",
@@ -37,7 +37,7 @@
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "hn_url": "https://news.ycombinator.com/item?id=50073221",
       "author": "sammy0910",
-      "points": 345,
+      "points": 346,
       "num_comments": 185,
       "created_at": "2026-10-13T15:25:50Z",
       "object_id": "50073221",
@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50068036",
       "author": "nryoo",
       "points": 333,
-      "num_comments": 291,
+      "num_comments": 293,
       "created_at": "2026-10-13T07:28:34Z",
       "object_id": "50068036",
       "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/size/w1200/2026/10/oct-blog-header.jpg",
@@ -75,32 +75,32 @@
       "site_name": "arXiv.org"
     },
     {
-      "title": "Why We're Banning AI",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=50108131",
-      "author": "vinyl7",
-      "points": 209,
-      "num_comments": 165,
-      "created_at": "2026-10-15T18:32:29Z",
-      "object_id": "50108131",
-      "image": "https://www.currentaffairs.org/hubfs/smash1.png",
-      "description": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.",
-      "favicon": "https://www.currentaffairs.org/hubfs/favicon.png",
-      "site_name": "currentaffairs.org"
-    },
-    {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "hn_url": "https://news.ycombinator.com/item?id=50104654",
       "author": "aaraujo002",
-      "points": 204,
-      "num_comments": 173,
+      "points": 224,
+      "num_comments": 181,
       "created_at": "2026-10-15T14:58:48Z",
       "object_id": "50104654",
       "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation-1.jpg",
       "description": "The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership\u2026",
       "favicon": "https://www.simonsfoundation.org/wp-content/themes/simons-foundation/frontend/img/favicon/apple-touch-icon.png",
       "site_name": "Simons Foundation"
+    },
+    {
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50108131",
+      "author": "vinyl7",
+      "points": 218,
+      "num_comments": 175,
+      "created_at": "2026-10-15T18:32:29Z",
+      "object_id": "50108131",
+      "image": "https://www.currentaffairs.org/hubfs/smash1.png",
+      "description": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.",
+      "favicon": "https://www.currentaffairs.org/hubfs/favicon.png",
+      "site_name": "currentaffairs.org"
     },
     {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
@@ -145,7 +145,7 @@
       "site_name": "swedenherald.com"
     }
   ],
-  "total_hits": 752,
+  "total_hits": 755,
   "has_metadata": true,
-  "fetched_at": "2026-10-15T21:58:11.205872+00:00"
+  "fetched_at": "2026-10-16T00:13:42.888649+00:00"
 }
