@@ -2,6 +2,50 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Made a robotic airsoft turret",
+      "author": "noooooo_12",
+      "url": "https://www.reddit.com/r/robotics/comments/1x77hs2/made_a_robotic_airsoft_turret/",
+      "published": 1792127344.0,
+      "thumbnail": "https://external-preview.redd.it/bGV0eW5hbW5pcnZoMcSNvUo7egEawYM38g2lxaXvkny4yo0jyHLwVGKzX32_.jpeg?width=640&crop=smart&auto=webp&s=79173c89eedf4b22afc80f163dd481524c1ab854",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This video is showing off auto aim, where you select points and it automatically aims at them. But it also has other cool features like person-tracking, and night vision. What does everyone think?"
+    },
+    {
+      "title": "Hexapod",
+      "author": "Beuzeville",
+      "url": "https://www.reddit.com/r/robotics/comments/1x7axd7/hexapod/",
+      "published": 1792140179.0,
+      "thumbnail": "https://external-preview.redd.it/ZHhscHFuenVrc3ZoMW95Ym-XtMQ1fHW0LdAeom9qIrtkQEOfbi6S8Hefa25x.png?width=320&crop=smart&auto=webp&s=8b41a5e8c48e73e883a526142d4a479d43d4dfb7",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I built a hexapod that uses an old Android phone from Make Your Pet. Less than $200 and it was a good first robotics project to learn from."
+    },
+    {
+      "title": "Overview of my project CBR-II",
+      "author": "jekjukich",
+      "url": "https://www.reddit.com/r/robotics/comments/1x6xjw3/overview_of_my_project_cbrii/",
+      "published": 1792098202.0,
+      "thumbnail": "https://external-preview.redd.it/em95cWxzMjE0cHZoMQhB13jhW8uNh2XQ1DdxDN16zUMXU3MxY1_40AljCyq1.png?width=320&crop=smart&auto=webp&s=03b5b268348ebdfec24c29fb46e6cdd1cb636ddf",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Created with the help of opus. It is really good in understanding camera position and movement. I am in the process of teaching some tricks."
+    },
+    {
+      "title": "ChiBots October 2026 Meeting",
+      "author": "guru242",
+      "url": "https://www.reddit.com/r/robotics/comments/1x7dmrd/chibots_october_2026_meeting/",
+      "published": 1792149892.0,
+      "thumbnail": "https://preview.redd.it/0yirpvtqdtvh1.jpeg?width=640&crop=smart&auto=webp&s=349ce56deb9880b7830cad75625be0bd9c9cd36a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Join Chibots, the Chicago area robotics group, for our next online meeting. Whether you're a seasoned builder, a curious beginner, or just robot-curious, you're welcome here. This meeting will follow our usual loose format: A bit of club business (keeping it short, we promise) Show-and-tell \u2014 bring a project, a part, a problem, or just pictures Lots of open discussion with fellow robotics enthusiasts No formal agenda yet, and no pressure to present anything. Come to share, come to listen, come to ask questions \u2014 all are welcome. When: Sunday October 18th 2026 1:00 PM - 3:00 PM Where: Zoom Cost: Free RSVP: email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com) Email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com)for Zoom meeting link!"
+    },
+    {
       "title": "Ure5 dance",
       "author": "Ok-Breadfruit-1958",
       "url": "https://www.reddit.com/r/robotics/comments/1x6hoq2/ure5_dance/",
@@ -11,17 +55,6 @@
       "site_name": null,
       "favicon": null,
       "description": "I was writing my own IK solver to learn and I thought it was so funny I had to share it somewhere"
-    },
-    {
-      "title": "Europe's Robotics 65",
-      "author": "jboncr4ck",
-      "url": "https://www.reddit.com/r/robotics/comments/1x6lp1l/europes_robotics_65/",
-      "published": 1792071005.0,
-      "thumbnail": "https://preview.redd.it/o11a2c75vmvh1.png?width=640&crop=smart&auto=webp&s=e13d479209dcec98a8d4d936e5577c5997eb103b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The Venturist released Europe's Robotics 65, a selection of best startups in this space (probably all are hiring as well). Selection excluded publicly listed and acquired companies, as well as defence-only companies (which left out Helsing and STARK for example). Startups also had to have a significant European foothold. Some interesting findings: Industry and logistics are still the main market. Roughly one in five companies focuses primarily on factory or warehouse automation. Much of the opportunity is in brownfield robotics. Multiple startups retrofit existing equipment with their technology rather than wait for customers to replace their physical capital. Investors\u2019 appetite to go all-in has increased. The database records multiple nine-digit funding rounds for startups founded as recently as 2024, and eight-digit rounds for companies still establishing commercial traction. Startups are increasingly selling outcomes. Rather than have customers buy the hardware and take responsibility for operating it, vendors run the robots themselves and bill monthly, per hour or per project. This brings robotics companies into direct competition with incumbent service providers, not only other robotics companies. AI attacks what used to be robotics\u2019 greatest weakness: flexibility. Historically, robots worked best in highly controlled environments because they struggled when the goalposts move, which is why industrial robotics concentrated in sectors like automotive manufacturing. Multiple companies in the selection approach the issue from intelligence layer, making robotics more adaptable and cheaper to deploy. General-purpose robots are a huge new trend. Among the 46 companies founded before 2021, only two (4%) fall into the humanoid or general-purpose category. Among the 19 founded in 2021 or later, eight (42%) do, six of them founded in 2024\u201325. Robotics will aid humans in most categories, not replace them. Healthcare and inspection together account for nearly a third of the selection. Many of these companies amplify human efficacy rather than replace it, allowing more precise work or keeping people out of hazardous environments. They vastly de-risk human jobs. Big hubs cluster close to universities. Zurich counts eight companies in the selection, all with direct ETH lineage, usually through spin-offs. Other companies have roots in TU M\u00fcnchen, EPFL, Oxford, TU Eindhoven, TU Dresden and Stuttgart. Consumer market is absent for now. Vast majority of the database companies sell to businesses, government, labs, hospitals, etc. Their focus is high-value B2B tasks with clear ROI, rather than discretionary consumer ownership. General-purpose robots are being aimed at very specific customers. Most humanoid and general-purpose companies in the selection actually aim at specific customers, for example logistics and manufacturing. The robotics industry may be moving towards general-purpose machines, but commercialisation remains highly vertical."
     },
     {
       "title": "I spent the summer mapping 500+ robotics companies, their jobs and events. What am I missing?",
@@ -35,82 +68,49 @@
       "description": "I don't know if I'm the only one finding this, but I go to a lot of robotics events and meetups and often hear about good ones after they've happened. I've also spent the last year looking for jobs in robotics and kept missing interesting roles. It feels like everything is scattered across so many different places. So I started putting together a site for myself to keep track of robotics companies, their jobs, events and news. It turned into a bit of a summer project and has grown to 500+ companies and 11,000+ jobs so far. There's definitely a bias towards companies that are easy to find online, particularly in the US and UK. I'm sure I've missed loads of smaller teams, university spin-offs and companies in other parts of the world. I thought it might be useful to others too, and I'd be interested to hear from anyone else looking for jobs or going to robotics events: I've attached a short screen recording of what I've built so far. Link in the comments if anyone wants to have a look."
     },
     {
-      "title": "I wired an open VLN model into the Microduck sim: instruction in, look-plan-walk out (on-device on a Jetson)",
-      "author": "Hungry-Benefit6053",
-      "url": "https://www.reddit.com/r/robotics/comments/1x6h90s/i_wired_an_open_vln_model_into_the_microduck_sim/",
-      "published": 1792057056.0,
-      "thumbnail": "https://external-preview.redd.it/N3lwNDl1a3BvbHZoMYhuENXvk-lRgFAjGRso_e53vm0p6HllPSO_jG8aHqCI.png?width=640&crop=smart&auto=webp&s=3ac16887e284a20a4632ad3cd13d7e16601c2e49",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Small experiment from this week. I connected LightNav-0 (an open vision-language navigation model) to the Microduck sim in MuJoCo. The duck takes an instruction like \"go to the wooden doorframe and stop\", predicts a path from its first-person frames, and the motion is executed via MPC + its official ONNX gait policy. Everything runs on-device on a Jetson AGX Orin 32GB power by reComputer Robotics J501 form seeed, no cloud. The loop: 4 Hz frames \u2192 path prediction on the GPU \u2192 MPC \u2192 gait policy on CPU. 200 Hz physics, real-time factor \u2248 1. It's a sim dev preview and I'm not claiming task success yet; strict benchmarks are still in progress. This is heading into Module 7 (Vision-Language Navigation) of our open mobile robot course: mobile-robot-full-stack-course Happy to answer questions about the setup. \ud83e\udd86"
+      "title": "How to build XGO-Duck",
+      "author": "BencyLiu",
+      "url": "https://www.reddit.com/r/robotics/comments/1x7160g/how_to_build_xgoduck/",
+      "published": 1792107772.0,
+      "thumbnail": "https://external-preview.redd.it/JKzlXPedlo7oDXk2F57Hl5YTcDp08y1AeTA7dnliVEk.jpeg?width=320&crop=smart&auto=webp&s=f64f6926e46677bed3171fd7388ed31bca7a086f",
+      "external_url": "https://youtu.be/nElGguHO5dY?is=2R6fAR2N1aERJuHE",
+      "site_name": "youtu.be",
+      "favicon": "https://www.youtube.com/s/desktop/4427e880/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
-      "title": "IMU tried to keep a robot dog upright walking on gravel",
-      "author": "FamiliarPermission79",
-      "url": "https://www.reddit.com/r/robotics/comments/1x662rr/imu_tried_to_keep_a_robot_dog_upright_walking_on/",
-      "published": 1792019638.0,
-      "thumbnail": "https://external-preview.redd.it/ODJydG5xaTZtaXZoMfu4PtelYyvfWbI__UWXs1zrfXIMqq6QGK4cYW1p6fQq.png?width=640&crop=smart&auto=webp&s=aeb2bd0db1bc75829d1b98a975cf4b94008d72ae",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Put Quaddle on a patch of gravel and just wanted to see it walk. Its IMU (gyroscope + accelerometer) was trying to correct for the uneven ground in real time, but it just started wobbling \u2014 loose gravel is apparently brutal for a quadruped's balance. What other terrains should Quaddle try?"
-    },
-    {
-      "title": "Autoconocimiento",
-      "author": "corporacionRobot",
-      "url": "https://www.reddit.com/r/robotics/comments/1x68k6u/autoconocimiento/",
-      "published": 1792026782.0,
-      "thumbnail": "https://external-preview.redd.it/azAwdWVkMm83anZoMcpN_Bc-TZ7xJ_kLpGzPLfApeO4gR7t4uXndoeyQK-6p.png?width=320&crop=smart&auto=webp&s=0348f832b2e561051f81f69374ba030eb128af17",
+      "title": "Drones are the robots physical AI is actually ready for, and the industry is chasing humanoid hype instead.",
+      "author": "arun131",
+      "url": "https://www.reddit.com/r/robotics/comments/1x75qir/drones_are_the_robots_physical_ai_is_actually/",
+      "published": 1792121495.0,
+      "thumbnail": "https://preview.redd.it/8hdu5lyu0rvh1.jpeg?width=640&crop=smart&auto=webp&s=b3ddaa83ea4faa84b71d19096150264022b91d74",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
     },
     {
-      "title": "I built an open-source hand exoskeleton. What would you do with it?",
-      "author": "sebasmtl",
-      "url": "https://www.reddit.com/r/robotics/comments/1x5ojlv/i_built_an_opensource_hand_exoskeleton_what_would/",
-      "published": 1791976690.0,
-      "thumbnail": "https://external-preview.redd.it/Z3ZpOTltcTUyZnZoMdwQbsNg0poDlt1SDtSegLAvP6InctOl3krqy23WrFuv.png?width=640&crop=smart&auto=webp&s=762f0ad8ca8274324a8629290e392aee0fffc141",
+      "title": "Women in Robotics You Need to Know About 2026",
+      "author": "amprather",
+      "url": "https://www.reddit.com/r/robotics/comments/1x6zfax/women_in_robotics_you_need_to_know_about_2026/",
+      "published": 1792103015.0,
+      "thumbnail": "https://external-preview.redd.it/LwAP1FxfQDz2shKqJTXGzkjufFB9Y2b9-2bXb2euh6c.jpeg?width=640&crop=smart&auto=webp&s=ee90120e7219d9244ac6517a7bcd9efdb27aca86",
+      "external_url": "https://womeninrobotics.substack.com/p/women-in-robotics-you-need-to-know-cc0",
+      "site_name": "womeninrobotics.substack.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "School Project: Expert Feedback Welcome and Much Appreciated!",
+      "author": "Sudden_Drive_9686",
+      "url": "https://www.reddit.com/r/robotics/comments/1x6zbfh/school_project_expert_feedback_welcome_and_much/",
+      "published": 1792102736.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "This is TAKTO ONE, a tendon-driven hand exoskeleton I built for my master\u2019s thesis. Each of the 12 finger joints has its own magnetic encoder, and the twin in the headset moves from those sensors and two IMUs, not from camera tracking, so a hidden finger still gets measured. It\u2019s all open source (CAD, PCBs, firmware, build guide), and you can play with the twin in your browser, no hardware needed: https://takto.one https://github.com/molanocortes/takto-one I defend the thesis tomorrow, so questions are very welcome :)"
-    },
-    {
-      "title": "Dynamic Creatures develops new Hugo robot",
-      "author": "symmetry81",
-      "url": "https://www.reddit.com/r/robotics/comments/1x6mxmi/dynamic_creatures_develops_new_hugo_robot/",
-      "published": 1792074020.0,
-      "thumbnail": "https://external-preview.redd.it/Sn4oMGxEw40hclxzvaTNiCrJcf5hZVvqKkWaA1gCXIE.jpeg?width=640&crop=smart&auto=webp&s=46befc343dde8dd1a0cd608497d6c25ed122d793",
-      "external_url": "https://whdh.com/news/meet-hugo-the-latest-creation-made-in-part-by-boston-dynamics-to-interact-with-tourists/",
-      "site_name": "Boston News, Weather, Sports | WHDH 7News",
-      "favicon": "https://whdh.com/wp-content/uploads/sites/3/2020/08/cropped-7News_logo_FBbghex-1.png?w=180",
-      "description": "BOSTON (WHDH) - Meet Hugo. He\u2019s warm, he\u2019s fluffy, and he\u2019s the latest creation made in part by Boston Dynamics.The Waltham company is partnering with<a class=\"excerpt-read-more\" href=\"https://whdh.com/news/meet-hugo-the-latest-creation-made-in-part-by-boston-dynamics-to-interact-with-tourists/\">Read More</a>"
-    },
-    {
-      "title": "I built animatronic eyes and a browser app to program them with blocks, no installs needed",
-      "author": "tramlo890",
-      "url": "https://www.reddit.com/r/robotics/comments/1x6fmgr/i_built_animatronic_eyes_and_a_browser_app_to/",
-      "published": 1792050830.0,
-      "thumbnail": "https://external-preview.redd.it/YjRlbmQ4Zm42bHZoMYazpm0lZJ3fFa9u5NMFV4bbtT1p6F4CuZG3fg0ymk5l.png?width=640&crop=smart&auto=webp&s=49255807e63dcc5a701915c55d5bf39b3faf5f51",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It's a pair of animatronic eyes: two servos (left/right and up/down), a frame I designed and 3D printed, and an Arduino UNO. The hardest part wasn't the mechanism, it was making it easy to program. I wanted someone who has never coded to get it moving without fighting with IDE installs, drivers and libraries. So I made a web app: - Block-based programming (Scratch-style) in Spanish: \"look left\", \"wait 1 second\", \"nod yes\"... - A simulator that shows how the eyes will move before you plug anything in. - Plug the Arduino in over USB and upload straight from the browser (Chrome or Edge). - Every block shows its C++ line, so you can see the real code or download it as an .ino. Video of it working below. I'd like to turn it into an educational kit eventually, but I'm still refining a lot, so I'd love your feedback: What would you improve in the mechanism or design? If you were teaching someone with this, what blocks or features would you add? Anyone used Web Serial for something like this? Any pitfalls I should know about? Happy to chat by DM if anyone wants to know more or has ideas. Hice unos ojos animatr\u00f3nicos y una app web para programarlos con bloques, sin instalar nada Hola! Soy estudiante de Ingenier\u00eda en Control Autom\u00e1tico y Rob\u00f3tica y llevo un tiempo trabajando en este proyecto personal. Son unos ojos animatr\u00f3nicos con dos servos (uno para los lados y otro para arriba/abajo), una estructura que dise\u00f1\u00e9 e imprim\u00ed en 3D, y un Arduino UNO. Lo que m\u00e1s me cost\u00f3 no fue el mecanismo, sino la parte de programarlo. Quer\u00eda que alguien que nunca ha programado pudiera hacerlo moverse sin pelearse con instalar el IDE, drivers y librer\u00edas. As\u00ed que hice una app web: - Programas con bloques en espa\u00f1ol (tipo Scratch): \"mirar a la izquierda\", \"esperar 1 segundo\", \"decir que s\u00ed\"... - Tiene un simulador para ver c\u00f3mo se mover\u00edan los ojos antes de conectar nada. - Conectas el Arduino por USB y lo subes desde el navegador (Chrome o Edge). - Cada bloque muestra su l\u00ednea en C++, por si quieres ver el c\u00f3digo real o descargarlo como .ino. Les dejo un video de c\u00f3mo funciona. Mi idea es convertirlo en un kit educativo para que m\u00e1s gente aprenda as\u00ed, pero todav\u00eda estoy afinando muchas cosas, por eso me encantar\u00eda su opini\u00f3n: \u00bfQu\u00e9 le mejorar\u00edan al mecanismo o al dise\u00f1o? Si fueran a ense\u00f1arle a alguien con esto, \u00bfqu\u00e9 bloques o funciones le agregar\u00edan? \u00bfLes ha tocado usar Web Serial en proyectos as\u00ed? \u00bfAlg\u00fan problema que deba tomar en cuenta? Si alguien quiere saber m\u00e1s del proyecto, busca apoyarlo o tiene ideas, con gusto platico por mensaje privado."
-    },
-    {
-      "title": "My robot spider",
-      "author": "Sherryli7906",
-      "url": "https://www.reddit.com/r/robotics/comments/1x6bghc/my_robot_spider/",
-      "published": 1792035736.0,
-      "thumbnail": "https://external-preview.redd.it/cTcyd2c5eG14anZoMe9mBmMhAuc58q7aKCXcXG6NO5rfW7fhAiYbzeWc8Dbg.png?width=640&crop=smart&auto=webp&s=e5d346f97fde686eae99e392a323b18ad61bc70b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Look at my robot spider. I can programme and let him to do whatever I want. Kick the ball, push the obstacles, wave to me . I can explore more."
+      "description": "For a school project I am making a self balancing robot called WOBBLE. I would very much appreciate any feedback as it will help me to progress my learning. A few sentences per one or even any answers in general would be awesome! if you have any other ideas or things that I should know please tell me. You don't have to answer all of them just the ones that you have knowledge about. Thank you! btw I am reasonably new to robotics so keep that in mind. Do you think an Esp32 is the best microcontroller for this kind of project? What is your biggest tip when coding this robot? Do you think that it is helpful to design and prototype the robot on a breadboard when testing? What's the biggest challenge when creating a robot like this, and how do you overcome it? How would you implement Bluetooth control to the robot? (Forward/Back/Left/Right) E.g Xbox/PlayStation controller Do you think 3D printing is a very important part of this project? If so, why? What is the most important advice that you would give regarding this project? I've attached an image below of my current prototype (not functioning yet). Do you have anything that you would change or improve? (uses an esp32-s3-Wroom-1) What do you think of the 3D shell so far? Do you think that the theme/character is good or does it need improvement? Images Robot Scaffold 3D model so far (Shell/outer casing) Prototype (Not yet working)"
     }
   ],
-  "fetched_at": "2026-10-15T14:42:03.554309+00:00"
+  "fetched_at": "2026-10-16T14:35:08.208187+00:00"
 }
