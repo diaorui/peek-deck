@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Chipmaker sell-off sends investors to other stocks and bonds for safety",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44QURFNXNKc2JOay1PenlxMHdlOGxDMzd5a2xiV1ZXWmtmT2FEWTJ0NVJPSVBOTGs2YnFXUFJQWWtPQ3phYnhIMXZheTRfc051QUczOU9Md1NFRFdhZlVnZ0R3Y1pvSGU0SlBHV1l5TFBydjdwS3c?oc=5",
-      "pub_date": 1792061182.0,
-      "article_url": "https://www.cnn.com/2026/10/15/business/tech-selloff-nasdaq-ai-intl",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298297894.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Global technology stocks sold off sharply Thursday, as a growing list of worries, including rising borrowing costs and tougher competition from China, caused traders to sour on AI investments."
+      "headline": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5",
+      "pub_date": 1792024920.0,
+      "article_url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
+      "description": "A sell-off in global technology hardware stocks deepened Thursday."
     },
     {
       "headline": "Cracks are beginning to show in the stock market as doubts about AI investments grow",
@@ -25,52 +25,42 @@
       "description": "Consumers already face a host of stressors. If AI spending \u2014 and tech stocks \u2014 show signs of sustained decline, U.S. economic growth could be at risk."
     },
     {
-      "headline": "Jim Cramer says this week's AI sell-off offers a crucial lesson for investors",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FYWJORHpyaGRraE9RbHR5Qnk2c1VmTVNMUWo1VXQxZUJyQzRrU1RzS2lTR3d3WkJ3d25xdlJpMDBQSUNObjlEUW1Hd0MtWHVtNUxVOExBaHZoQzZSYjhFTXFjWVFZUlQ3MmFXN3BYcEh0b2hRTU9RaER4TWIyd9IBgwFBVV95cUxPZ3Z5RzdGdXY2czJMQ0VPR0p6TFNEWWpvczM1ZDBhdEZFbGJSN3BzejF2NmlCUHk3M1pOYlQzbkJGeGhzZ0sxMWtVdXc4NEpaU1U5UHRuVGpYMGN6N0xYdXJYQ2d4OFJ1RldWUFRDMkRxalRnMElNNld0aVhBVGZHRjJiYw?oc=5",
-      "pub_date": 1792102573.0,
-      "article_url": "https://www.cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
-      "description": "CNBC\u2019s Jim Cramer said Thursday\u2019s AI sell-off underscores the importance of owning stocks outside the market\u2019s hottest trade."
-    },
-    {
-      "headline": "Dependence on AI makes human brains less nimble, MIT professor says",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmZSYVZRdEpmU2F0NlNwYUEzUlJPSjg2OTZSMVp0ZXU1d2IwaG1aXzdpMHJCNkNXNDB3M0tldUEwR21KTktqWkZfTFpkLWx3LUlwRTlpbFh5bzNOU2s5WU95ekNqTXRuV3pYM3pJNGdTRVNteTdpbUJDc0tiM3pEM1VoV3lVOHZ0OUE?oc=5",
-      "pub_date": 1792091782.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-use-congnitive-atrophy-mit-professor-10-15-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/98e09323e7bfff5b78877cf2c73ed7b3.jpg",
-      "description": "AI is taking advantage of the brain's natural tendency to conserve mental effort and seek instant gratification, creating a feedback loop in which people increasingly turn to chatbots for even the simplest of tasks, MIT professor Eric So argues."
-    },
-    {
-      "headline": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3RUUGNCcUIxM2Rxc2xPbDIySU9mQVVOSFQxdm1GY2xVVjU4MXd4ZjFaLU9IcThhZXRHWDRMQWVnc3RNYVkyWWY5VEpJeFZOcVBibmpiUmE2Rl9wMXhNeDl0bmNvTndqTlBmeUNUWFh0OXB0bjg1c05DRjJMejB4T1liTFpxaU9vT0xhOFlGNVJGeFZLMjdqZ3FyNWlLUHlKUHRENFRnVC1BdlFsVEE?oc=5",
-      "pub_date": 1792107896.0,
-      "article_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
-    },
-    {
-      "headline": "Too-Big-To-Fail 3.0: When AI Goes Bankrupt, Who Keeps Our Secrets?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalFSRTMtTmllR0VmMlBRdi1BdUNENTNhcU9tSGk2aEFpeFQxSGZJMlFpWWtLTUhSTnZYMzZYQlh1MGhlOXZBWnBMeWNKS2dZOVYtU0NZVGhTbTdYUTJrZmc5dWl3MVZRRFJoWUZuVjdMbllrT2NScVAyeEt2elBzSkZ4OF9pQ1A3cmxmMi1ENHFDaTlZRTVxVzlFYTB2bTM2M2l0VGFVSmMzYkczblZHc1JkTzZDTFk?oc=5",
-      "pub_date": 1792105091.0,
-      "article_url": "https://www.forbes.com/sites/nizangpackin/2026/10/15/too-big-to-fail-30-when-ai-goes-bankrupt-who-keeps-our-secrets/",
+      "headline": "Wall Street\u2019s AI wobbles",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFjeXc2T1ZiZXhtYnJkX1lDOEhTNnBvYlBIazdaU3BBR3d5SjdrYUJfSHltYVVSRzhXR0RCYm9KbGZyaTVVcTJqUjlLRmFGYktlR3hvUU9SMkRSMTRKVkpLOEQ3VnBrQm9rMGRiN1dTUk1ZVHRWTkZFbVBGeFd4V1ZFamk?oc=5",
+      "pub_date": 1792123275.0,
+      "article_url": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "JPMorgan, Goldman Boost Yield on Volta AI Loan to Lure Investors",
-      "source": "Bloomberg.com",
+      "headline": "FAA seeks ownership stake in air traffic AI company",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XV1gxMm9YZHNfOHFwZVFUNTVuSEpWbnk0a0IzeVdfWXh6Tm5pTGY0MVRIaXNEQmw1c0lOdTFPcHZpZXBlZnVJY2lXTTJDdS1GcnVnZGVPYmtROW5HcXhlU1V0Y2UwdTFlT0ZWclpYdDY0U0pObE95TWFB?oc=5",
+      "pub_date": 1792099980.0,
+      "article_url": "https://www.politico.com/news/2026/10/15/faa-stake-ai-company-01121671",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping",
+      "source": "Digiday",
+      "source_url": "https://digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGl2OUdGc2NENDRwdDJ6VGhKTHBEdV9lY2pzZmpxZEVMQlNDWlBPVHhQUkUzNmlHM2swZXlYQTNoQlUzWlJyM1dmbzFqR0RrVTlZTGlmdXZGeF9XTzRjc1pNSkFXSW9GREIyVlU0YzdQVms0RXFtYTJENmRWMUlJNnJRZHl0VUZJUmk5Tkw3ZWlDeUp3SVAxYUJpeFltOVBoZVRsR0g5a2ZOb3lWaUFMMktBYw?oc=5",
+      "pub_date": 1792123456.0,
+      "article_url": "https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2026/07/publisher-scraping-digiday.png",
+      "description": "Reach CEO Piers North talks its Google AI content deal as a blueprint for other LLM deals, and its cease and desist letter to OpenAI."
+    },
+    {
+      "headline": "AI Fuels New Wave of Baltic Tech Unicorns",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYklUTkIwaE9mcUVNd2NpeGhQcnhEMGRsc3ZiaWd3N0JSb0RYdUJkTnhPTFNheXpBSGhlai1nVmJfOUYySG9BVTFTOEJZdjBxMWRLNGYzYzVYSGt6S1lFdkNUeUpDa0hGR2wwVnNLWW9xWFEzYzFCNllFck9PZzVmREp0eXVtQzA4MXFKbXk3bGg2RE1kSUZid3hsV0kwRlBpc3FTNGhrMzFncmVLWGxjVjBOTDI?oc=5",
-      "pub_date": 1792106756.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/jpmorgan-goldman-boost-yield-on-volta-ai-loan-to-lure-investors",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXhveUdyckpEdmhJUkkxSzhiZ2IxeGg2YlM3dkhzaXJ6VEpBRE5qOFpOMVBIeE1uc3JGSFFGT244M0lnTURzUEt0Z0Z0eDRsSi1UanhBSktvUzFsa0xTVUU4Ni1KMkVSVVB1TFhkTk5mRXNWTzlXMHgtR1YyY1kwQmh5YThveDZoSzRfMVRDUDIyb0JWOW05ZHV2dw?oc=5",
+      "pub_date": 1792125000.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-16/ai-fuels-new-wave-of-baltic-tech-unicorns",
       "image": null,
       "description": null
     },
@@ -85,6 +75,16 @@
       "description": null
     },
     {
+      "headline": "Anthropic thinks its AI might be conscious. It has profound consequences for your life",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkFXVVJyYUU2Ry1qN2hheWdRRlRGb2pCZWY2VGdJRWVWTF9Md3dBbzN2dFROTnFFTFNLcHFRYU4zR0dpclduLUlYdHhJVnZMakZQQXZUQVlNTTVDV0lLU3BEdzFGd2hYQkdrWTQxdmpmRXNwVldSTTVfTzVEdjEzXy1PRVFLLTRaaW5LQg?oc=5",
+      "pub_date": 1792058400.0,
+      "article_url": "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0pgqdtv.jpg",
+      "description": "Some of tech's most powerful leaders are treating AI like it's alive. It could have profound consequences for our world and your own personal safety."
+    },
+    {
       "headline": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
@@ -95,16 +95,16 @@
       "description": "Bee expands its ambient AI family with two personal AI devices designed to remember the moments that matter most, plus new integrations with Alexa+ and Amazon.com."
     },
     {
-      "headline": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGY4UENqVGdWazRXQUN1WG9iZGlhOW04RmlXZnQxWGU4c0xYTE4wTXRKWmV2c3dQSjVTS1ZWYzR5a2d4bUtCc2haODJBQkdWdVVWRkg5RUQzUk1YV0RiTWNiN0hpNHduelQyQkNGNXE3eVFHWFRLSElVdy1oZmhPeNIBhgFBVV95cUxOZjJ0Rm9KdWRnSnBJRHJpWDBQdnRKZUFUYkRXRHVHYUxrSkl4NTY2LXRRTGdSc3BuTEFHWUs5clNkVjl0T1Y5ODJlTU9NdUhLcTV0eUtQX1kwclZYd2NFcS15bUd4R3RFYndyazBhTmxxSlhYY0V2N05lVXZhMkhRcjZ2WHFzQQ?oc=5",
-      "pub_date": 1792065601.0,
-      "article_url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
-      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone."
+      "headline": "Amazon launches two new portable AI listening devices",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0c4SGNGOWZtd0Y4cUZFbDlZdXdZbmZEMmZrVGNpbU1BdkNWUUtlTjBXRGN4dlVDaWJrUENJcEh0VzVEY09oNHVJbDBkQ2FRV1hqeTFuc3dZaURjTHNuQ2RmS25xNm9KVS1OaXFja2kwSFZPQVV2MG9XNmdKOTBBSERzUVNJYUUxUXNOYTYxSkpNU3VkamZpT21lTlBmeFJ3QVE?oc=5",
+      "pub_date": 1792091734.0,
+      "article_url": "https://www.reuters.com/technology/amazon-launches-two-new-portable-ai-listening-devices-2026-10-15/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T00:14:09.446511+00:00"
+  "fetched_at": "2026-10-16T04:50:08.860667+00:00"
 }

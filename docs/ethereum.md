@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-16T00:14:11.183002+00:00'
+updated: '2026-10-16T04:50:10.483521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 16, 2026 at 00:14 UTC  
+**Last Updated:** October 16, 2026 at 04:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -2.5%  
-**30d:** -0.1%  
-**90d:** +30.4%  
-**1y:** -36.2%  
+**24h:** +3.9%  
+**7d:** -2.6%  
+**30d:** -0.2%  
+**90d:** +30.3%  
+**1y:** -36.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.33B
+**Market Cap:** $297.96B
 Rank #2
 
-**Circulating Supply:** 122,136,580 ETH
+**Circulating Supply:** 122,139,509 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.7%
 
 **All-Time Low:** $0.43
-+564077.5%
++563463.1%
 
 ---
 
@@ -152,6 +152,14 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
+**[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
+
+The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
+
+CoinDesk • 20m ago
+
+---
+
 **[Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html)**
 
 Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as "mature" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee’s hint at winding down Bitmine’s Ethereum accumulation streak is...
@@ -164,7 +172,7 @@ Yahoo Finance • 1d ago
 
 Ethereum, XRP and Solana all dropped on October 15, 2026. The trigger had nothing to do with blockchains and everything to do with a spreadsheet from Washington.The US Consumer Price Index for September showed inflation running at 3.7% year over year. Market analysts cited by Decrypt say macro fact…
 
-TradingView • 9h ago
+TradingView • 14h ago
 
 ---
 
@@ -180,7 +188,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 17h ago
 
 ---
 
@@ -188,7 +196,7 @@ Fortune • 12h ago
 
 EIP-8061 could speed Ethereum staking exits, but capped entry would still delay new validators’ rewards and spread idle capital costs in pools.
 
-CryptoSlate • 10h ago
+CryptoSlate • 15h ago
 
 ---
 
@@ -196,7 +204,7 @@ CryptoSlate • 10h ago
 
 Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -204,15 +212,7 @@ Seeking Alpha • 15h ago
 
 Vitalik Buterin says Ethereum can progress without him, backing a smaller Ethereum Foundation and an AI-accelerated Lean Ethereum roadmap.
 
-Crypto Briefing • 5h ago
-
----
-
-**[Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%](https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99)**
-
-Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.
-
-CoinDesk • 2d ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -222,9 +222,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP and Dogecoin Slide After Hotter-Than-Expected CPI: Analyst Says 'Decisive' BTC Bre](https://www.benzinga.com/crypto/cryptocurrency/26/10/62372055/bitcoin-ethereum-xrp-dogecoin-drop-crypto-inflation-cpi)**
+**[Bitcoin and ethereum prices today, Wednesday, October 14, 2026: Crypto prices sliding after higher-inflation report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-14-2026-crypto-prices-sliding-after-higher-inflation-report-133306768.html)**
 
-Benzinga • 22h ago
+Bitcoin opened at $83,092.65 on Wednesday, October 14, 2026, up 1.6% from Tuesday's open. As of 9:15 a.m. ET this morning, the price of bitcoin fell to $82,418.56. Ethereum opened at $2,496.22, up 2.1% from Tuesday's opening price. The price of ethereum moved down this morning to $2,461.69 as of 9:15 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -238,37 +240,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 131 • 💬 11 • ⏱️ 23:05 • 7h ago
-
----
-
-**[BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LUUbmFVy14M)**
-
-BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 279 • 💬 86 • ⏱️ 22:20 • 7h ago
-
----
-
-**[RealFi Says Its Stablecoin Yield Tops 12% as Ethereum Launch Nears](https://www.youtube.com/watch?v=VKcWW2zJQhE)**
-
-RealFi Chief Business Officer Seny Orlov joins CoinDesk's Jennifer Sanasie to break down the protocol's Cardano mainnet ...
-
-📺 CoinDesk
-
-👁️ 480 • 👍 6 • 💬 5 • ⏱️ 12:44 • 5h ago
-
----
-
-**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=wc1n-vrhLGA)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 207 • 💬 18 • ⏱️ 21:33 • 1d ago
+👁️ 6K • 👍 157 • 💬 10 • ⏱️ 23:05 • 12h ago
 
 ---
 
@@ -278,17 +250,17 @@ Red day for BTC, ETH, SOL, and others as fear spreads! BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 17K • 👍 474 • 💬 30 • ⏱️ 1:02:51 • 11h ago
+👁️ 18K • 👍 484 • 💬 31 • ⏱️ 1:02:51 • 16h ago
 
 ---
 
-**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
+**[BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LUUbmFVy14M)**
 
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Marzell Crypto
+📺 Crypto World
 
-👁️ 664 • 👍 18 • 💬 2 • ⏱️ 3:19 • 12h ago
+👁️ 11K • 👍 321 • 💬 106 • ⏱️ 22:20 • 11h ago
 
 ---
 
@@ -302,13 +274,23 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 ---
 
+**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=wc1n-vrhLGA)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 211 • 💬 18 • ⏱️ 21:33 • 1d ago
+
+---
+
 **[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
 
 As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
 
 📺 Coinage
 
-👁️ 6K • 👍 41 • ⏱️ 12:34 • 1d ago
+👁️ 6K • 👍 45 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -316,7 +298,7 @@ As trillions of dollars in traditional financial assets prepare to move on-chain
 
 📺 Itsdanielmac
 
-👁️ 32K • 👍 612 • 💬 27 • ⏱️ 0:48 • 1d ago
+👁️ 34K • 👍 623 • 💬 27 • ⏱️ 0:48 • 1d ago
 
 ---
 
@@ -326,7 +308,27 @@ Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading throu
 
 📺 Crypto Capital Venture
 
-👁️ 18K • 👍 464 • 💬 109 • ⏱️ 14:22 • 2d ago
+👁️ 18K • 👍 464 • 💬 107 • ⏱️ 14:22 • 2d ago
+
+---
+
+**[RealFi Says Its Stablecoin Yield Tops 12% as Ethereum Launch Nears](https://www.youtube.com/watch?v=VKcWW2zJQhE)**
+
+RealFi Chief Business Officer Seny Orlov joins CoinDesk's Jennifer Sanasie to break down the protocol's Cardano mainnet ...
+
+📺 CoinDesk
+
+👁️ 789 • 👍 12 • 💬 3 • ⏱️ 12:44 • 10h ago
+
+---
+
+**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
+
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+
+📺 Marzell Crypto
+
+👁️ 831 • 👍 19 • 💬 2 • ⏱️ 3:19 • 17h ago
 
 ---
 

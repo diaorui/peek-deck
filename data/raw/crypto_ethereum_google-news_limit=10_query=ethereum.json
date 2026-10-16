@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
+      "pub_date": 1792124959.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
+    },
+    {
       "headline": "Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -75,16 +85,6 @@
       "description": "Vitalik Buterin says Ethereum can progress without him, backing a smaller Ethereum Foundation and an AI-accelerated Lean Ethereum roadmap."
     },
     {
-      "headline": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWThIaU1TeVNDM3ZQdU5RUUJmV1F5Umh3VkcyQi1RSDlwQ3I0NklFZExvUG1sZEk1c3drS29ZZC1VUXRkTGlaTmNua0ZYN0g1QU5obDZLclVqZ3BXN3NkanM2Yk91bFdmMHBSYjdEODAzejRaT0szTm5zdUVmLWRIeXBqT1c2cVJwcFdrNDhkUnFnMUQ0bHptR2ZidlpxMVVTOC1DSWE0aXpzeWVaTGpDX0JENk1nbDRwYUpHVUhGMkQ3QjZn?oc=5",
-      "pub_date": 1791866598.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e989822cfd8a499afcd2b36040126af5d39f7d2-3026x1874.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown."
-    },
-    {
       "headline": "Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP and Dogecoin Slide After Hotter-Than-Expected CPI: Analyst Says 'Decisive' BTC Bre",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1liaWRzS1FQMVBLNkZaUUg5SUdONHBONTBiSVVnc0Z3WVhvSy1XMVBhTWdiSXlQYWtUVWNHSFVVMmJ5NzNmRWI0T0x6VVhCU1JLa3duWGVwclBLZ0lHaXJiYzdEdmhLV2dsblV0NVlBMXBsODlxTU1BVjd6N3JjeTlMMnNJbnM5UUV5bFRidFJCMkRNemVha1ZSYjNDakwwOXNjRGM4S1VfM2ktOHF3dU5UZmNXSUpy?oc=5",
-      "pub_date": 1792029754.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62372055/bitcoin-ethereum-xrp-dogecoin-drop-crypto-inflation-cpi",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin and ethereum prices today, Wednesday, October 14, 2026: Crypto prices sliding after higher-inflation report",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNeUdiU3BpLWVrem51TXBUUjBuM184cU5EcmtlRm03MWRQQV9xdnBUZmFfZUhESk9USXVxVFhNNU10ejh2a0NqbUNuSlpnRl9weFVVQWxROW1fMlpTN1ZHeVpKQmt2LVdUb2c1WEpoQUFzR2JxSmFfbWhKUGU4dWhyajJtdXdXQkFLSENwcWlERHJORkdBcnFLbk95OHpiZjMxVWFDd3B3Um5NOWY5QlZyOWRwckM0M2ZwVEpzWm4tRVVDUWdJTFhGUlk4RVZ2Z1JaVDY2RFNWMlZLZzNBdzBwemhOWkNZNUZrWkpyc3g2MlItcXkxZ19KM1gxVHFCVzQ3ekh2bUJLTDZsZ3ZMV0RxZmV1M2VMUQ?oc=5",
+      "pub_date": 1791984786.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-14-2026-crypto-prices-sliding-after-higher-inflation-report-133306768.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5095a644c2d1c91f29d896c669cef21e72e10f130d105a3b4de6be16545e77cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_4_7197.jpg",
+      "description": "Bitcoin opened at $83,092.65 on Wednesday, October 14, 2026, up 1.6% from Tuesday's open. As of 9:15 a.m. ET this morning, the price of bitcoin fell to $82,418.56. Ethereum opened at $2,496.22, up 2.1% from Tuesday's opening price. The price of ethereum moved down this morning to $2,461.69 as of 9:15 a.m. ET."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T00:14:06.603392+00:00"
+  "fetched_at": "2026-10-16T04:49:57.418988+00:00"
 }
