@@ -5,46 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Dependence on AI makes human brains less nimble, MIT professor says",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmZSYVZRdEpmU2F0NlNwYUEzUlJPSjg2OTZSMVp0ZXU1d2IwaG1aXzdpMHJCNkNXNDB3M0tldUEwR21KTktqWkZfTFpkLWx3LUlwRTlpbFh5bzNOU2s5WU95ekNqTXRuV3pYM3pJNGdTRVNteTdpbUJDc0tiM3pEM1VoV3lVOHZ0OUE?oc=5",
-      "pub_date": 1792091782.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-use-congnitive-atrophy-mit-professor-10-15-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/98e09323e7bfff5b78877cf2c73ed7b3.jpg",
-      "description": "AI is taking advantage of the brain's natural tendency to conserve mental effort and seek instant gratification, creating a feedback loop in which people increasingly turn to chatbots for even the simplest of tasks, MIT professor Eric So argues."
-    },
-    {
-      "headline": "Market selloff, rising rates test AI data centre deal boom",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
-      "pub_date": 1792080769.0,
-      "article_url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nscale\u2019s AI Buildout Hit by Fire, Delays and Angry Workers Ahead of IPO",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpyNVg3ZjVJQjNZUDJaSTliUGt1ZWlEb1ZnWE12M1lpYVVOaVFGSUtkME5RUFotV1I3Zm5TQkRUUENSUG5KZmlfaFl3b1BZV3BBS3N2aEpLa1RiWm5zQ0dSRnM2Q25MVVhYYWt6UTNPREJHZEdzbmNBWjE0Z2hHUnIybk4tOFd4QzVSb0VFeXF6NUU2d2RFazd0T0RVd1lUYXFDVE5zV0s2NUN4VF92QjE0OA?oc=5",
-      "pub_date": 1792098002.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Is there any A.I. optimism left to go around?",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmYtVFk1amExWFMxLURYTm5nV0hLeEc2TFlJNEl5ZXZiU1lIVlI5VVVDMEJiUWpVODUxdmx1bG1WUXJ1VHp3b3BXcnJQbW9WQmJNRXhTNVZLY0F5TGNkR2lwZjRpdnV6WTFRTjRZZkFnTm5MUUJKaGJ4b0ZQbTg3cnNSbHYwN2xoSDZmZjAyWQ?oc=5",
-      "pub_date": 1792099441.0,
-      "article_url": "https://www.nbcnews.com/video/is-there-any-a-i-optimism-left-to-go-around-271650373524",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_10/HtS-Thumbnail-MPX-20261015-9edp3r.jpg",
-      "description": "Cleo Abram, science journalist and host of Youtube series \u201cHUGE* if true\u201d, explains why her conversations with tech leaders have left her curious, not pessimistic about A.I."
-    },
-    {
       "headline": "Chipmaker sell-off sends investors to other stocks and bonds for safety",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -55,24 +15,64 @@
       "description": "Global technology stocks sold off sharply Thursday, as a growing list of worries, including rising borrowing costs and tougher competition from China, caused traders to sour on AI investments."
     },
     {
-      "headline": "Nvidia leads chip stocks lower as AI trade takes",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3?oc=5",
-      "pub_date": 1792096380.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-trims-losses-as-chip-sell-off-eases-amid-ai-financing-concerns-203300012.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f0bc511b82217d5f2248438cfb4756e781adedac6d03ddac6584bc5d386fddb7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9787ef2a-fd4b-41d0-899f-e34c0ad7716a",
-      "description": "Nvidia and other big chip stocks pared losses as AI jitters eased on Thursday."
+      "headline": "Cracks are beginning to show in the stock market as doubts about AI investments grow",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEpUNXhwc2JkVzhOd282UndZbzRHYnRvY0I5MWlRZEhveFZYZGVLYVFUUy1iR21XVE5XQ05KUlk5Rm54RmFHdUEtWnMtcENhNTBaM2xvTTZfQW5CZ3VITTQ2aHFIVU1rOUVRSXl3cjM5NUgxU3RMYkJpd0dHWjZJUWVZWVZhTWhKWkpqNVo4Slg?oc=5",
+      "pub_date": 1792100036.0,
+      "article_url": "https://www.nbcnews.com/business/markets/stock-market-ai-data-centers-doubts-rcna603710",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-nyse-ch-1131-52532c.jpg",
+      "description": "Consumers already face a host of stressors. If AI spending \u2014 and tech stocks \u2014 show signs of sustained decline, U.S. economic growth could be at risk."
     },
     {
-      "headline": "S&P 500 Holds Key Level, AI Off Lows, 12 New Buys. But Beware This.",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzRnYjFzcTcyNzV2WFlmMUhqVHRiejRDTDdfYVpQN0xRUlFaNFI1S0hHQzRpZ29vYjhHWVJUbVV2MHlxNnRUZFJiVkZLcU5Jci0wQ1ZzYTk2TENkWW1OMzhxYXNYT1AwTy1wd0FNNnRSbUpmUHkyZnF4QjVVeC1WNDB2MC13WkhMTVRtLTFuc1VPeFlYNkZDdzlLYXV6bWhBYjVndVRVSndVVlM0T0JKZW4tVjMyOXVPZk9WT0ZzcVc?oc=5",
-      "pub_date": 1792098060.0,
-      "article_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-ai-off-lows-disney-salesforce-ebay-buys/",
-      "image": "https://www.investors.com/wp-content/uploads/2020/06/Stock-StockVolatile-02-adobe.jpg",
-      "description": "Consumer and software names led. Treasury yields tumbled."
+      "headline": "Jim Cramer says this week's AI sell-off offers a crucial lesson for investors",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FYWJORHpyaGRraE9RbHR5Qnk2c1VmTVNMUWo1VXQxZUJyQzRrU1RzS2lTR3d3WkJ3d25xdlJpMDBQSUNObjlEUW1Hd0MtWHVtNUxVOExBaHZoQzZSYjhFTXFjWVFZUlQ3MmFXN3BYcEh0b2hRTU9RaER4TWIyd9IBgwFBVV95cUxPZ3Z5RzdGdXY2czJMQ0VPR0p6TFNEWWpvczM1ZDBhdEZFbGJSN3BzejF2NmlCUHk3M1pOYlQzbkJGeGhzZ0sxMWtVdXc4NEpaU1U5UHRuVGpYMGN6N0xYdXJYQ2d4OFJ1RldWUFRDMkRxalRnMElNNld0aVhBVGZHRjJiYw?oc=5",
+      "pub_date": 1792102573.0,
+      "article_url": "https://www.cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
+      "description": "CNBC\u2019s Jim Cramer said Thursday\u2019s AI sell-off underscores the importance of owning stocks outside the market\u2019s hottest trade."
+    },
+    {
+      "headline": "Dependence on AI makes human brains less nimble, MIT professor says",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmZSYVZRdEpmU2F0NlNwYUEzUlJPSjg2OTZSMVp0ZXU1d2IwaG1aXzdpMHJCNkNXNDB3M0tldUEwR21KTktqWkZfTFpkLWx3LUlwRTlpbFh5bzNOU2s5WU95ekNqTXRuV3pYM3pJNGdTRVNteTdpbUJDc0tiM3pEM1VoV3lVOHZ0OUE?oc=5",
+      "pub_date": 1792091782.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-use-congnitive-atrophy-mit-professor-10-15-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/98e09323e7bfff5b78877cf2c73ed7b3.jpg",
+      "description": "AI is taking advantage of the brain's natural tendency to conserve mental effort and seek instant gratification, creating a feedback loop in which people increasingly turn to chatbots for even the simplest of tasks, MIT professor Eric So argues."
+    },
+    {
+      "headline": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3RUUGNCcUIxM2Rxc2xPbDIySU9mQVVOSFQxdm1GY2xVVjU4MXd4ZjFaLU9IcThhZXRHWDRMQWVnc3RNYVkyWWY5VEpJeFZOcVBibmpiUmE2Rl9wMXhNeDl0bmNvTndqTlBmeUNUWFh0OXB0bjg1c05DRjJMejB4T1liTFpxaU9vT0xhOFlGNVJGeFZLMjdqZ3FyNWlLUHlKUHRENFRnVC1BdlFsVEE?oc=5",
+      "pub_date": 1792107896.0,
+      "article_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
+    },
+    {
+      "headline": "Too-Big-To-Fail 3.0: When AI Goes Bankrupt, Who Keeps Our Secrets?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalFSRTMtTmllR0VmMlBRdi1BdUNENTNhcU9tSGk2aEFpeFQxSGZJMlFpWWtLTUhSTnZYMzZYQlh1MGhlOXZBWnBMeWNKS2dZOVYtU0NZVGhTbTdYUTJrZmc5dWl3MVZRRFJoWUZuVjdMbllrT2NScVAyeEt2elBzSkZ4OF9pQ1A3cmxmMi1ENHFDaTlZRTVxVzlFYTB2bTM2M2l0VGFVSmMzYkczblZHc1JkTzZDTFk?oc=5",
+      "pub_date": 1792105091.0,
+      "article_url": "https://www.forbes.com/sites/nizangpackin/2026/10/15/too-big-to-fail-30-when-ai-goes-bankrupt-who-keeps-our-secrets/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "JPMorgan, Goldman Boost Yield on Volta AI Loan to Lure Investors",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYklUTkIwaE9mcUVNd2NpeGhQcnhEMGRsc3ZiaWd3N0JSb0RYdUJkTnhPTFNheXpBSGhlai1nVmJfOUYySG9BVTFTOEJZdjBxMWRLNGYzYzVYSGt6S1lFdkNUeUpDa0hGR2wwVnNLWW9xWFEzYzFCNllFck9PZzVmREp0eXVtQzA4MXFKbXk3bGg2RE1kSUZid3hsV0kwRlBpc3FTNGhrMzFncmVLWGxjVjBOTDI?oc=5",
+      "pub_date": 1792106756.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/jpmorgan-goldman-boost-yield-on-volta-ai-loan-to-lure-investors",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Opinion | He\u2019s the Most Influential Podcaster in Silicon Valley. He Thinks We\u2019re Getting This Wrong.",
@@ -85,26 +85,26 @@
       "description": null
     },
     {
-      "headline": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTRhRFpGVUE0Xy1YMnh5WHA3ZnFVZllZR3BHODhQaktaU1JGbHIzMElHZThsQTlESWZGNm9MRWllTzN0N01pTjNtTng2bmlqZmZFNmNaWlR4ZzVtUl93NV9VLW52b29vVjk3ZkNpa2ExWU9IVV9OTEx5MDhnNkdSaWNUcmI5TEU0cmNfSFNpTGx4YVR3NkJKVDZfdUFuMEFIX1p4X3lzM0M4RThWVngyclhaMXdSUmPSAbwBQVVfeXFMT1NTdnNpMGkzZldiaWV0eFk4MkliMHQxQzZCdkFvdjJ2bGdNYkNPeURkYTZ4VVBYcVpBV3dVVDJpb2xva240bWRpZ1g4QktNaUJtOWVwUUp5WUxZZXpnOGFrNFdzOUZab1ZVT3dnWlUxTlp0ZWZEeDY5YVE5SHNmRnZRNDlFU2NzTFg4YWpOaHhValdVMnJmVVNHa051UjZEZm5uaV9rQnZtWUNpcVRXRmVVUENKZE80YWtPTzI?oc=5",
-      "pub_date": 1792083136.0,
-      "article_url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108414312-1792071462734-gettyimages-2245498612-raa-coreweav251110_npSDI.jpeg?v=1792071500&w=1920&h=1080",
-      "description": "Signs of distressed deepened in CoreWeave on Thursday."
-    },
-    {
       "headline": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
-      "pub_date": 1792065669.0,
+      "pub_date": 1792098606.0,
       "article_url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
       "image": "https://assets.aboutamazon.com/dims4/default/a7b66dd/2147483647/strip/true/crop/2000x1000+0+126/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F20%2F14%2F9d6951844795a24f71e544c24dce%2Fbee-frontier-eclipse-hero-amazonnews-ck101426.jpg",
       "description": "Bee expands its ambient AI family with two personal AI devices designed to remember the moments that matter most, plus new integrations with Alexa+ and Amazon.com."
+    },
+    {
+      "headline": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGY4UENqVGdWazRXQUN1WG9iZGlhOW04RmlXZnQxWGU4c0xYTE4wTXRKWmV2c3dQSjVTS1ZWYzR5a2d4bUtCc2haODJBQkdWdVVWRkg5RUQzUk1YV0RiTWNiN0hpNHduelQyQkNGNXE3eVFHWFRLSElVdy1oZmhPeNIBhgFBVV95cUxOZjJ0Rm9KdWRnSnBJRHJpWDBQdnRKZUFUYkRXRHVHYUxrSkl4NTY2LXRRTGdSc3BuTEFHWUs5clNkVjl0T1Y5ODJlTU9NdUhLcTV0eUtQX1kwclZYd2NFcS15bUd4R3RFYndyazBhTmxxSlhYY0V2N05lVXZhMkhRcjZ2WHFzQQ?oc=5",
+      "pub_date": 1792065601.0,
+      "article_url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
+      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T21:58:34.991795+00:00"
+  "fetched_at": "2026-10-16T00:14:09.446511+00:00"
 }

@@ -35,6 +35,17 @@
       "description": "Another case of AI agents deleting something they shouldn't."
     },
     {
+      "title": "AI deepfakes are getting out of hand.",
+      "author": "Distinct-Theory-0",
+      "url": "https://www.reddit.com/r/artificial/comments/1x70tlj/ai_deepfakes_are_getting_out_of_hand/",
+      "published": 1792106786.0,
+      "thumbnail": "https://external-preview.redd.it/IWKwvV-HP1mhZaocKuohovbHLN7JAVcoVvLGivQxaUk.jpeg?width=640&crop=smart&auto=webp&s=41d0d1b8c4864fa937d4fa3ab3beeeeefa232983",
+      "external_url": "https://www.techradar.com/pro/microsoft-teams-will-soon-be-able-to-spot-third-party-deepfakes-on-your-morning-meeting",
+      "site_name": "TechRadar",
+      "favicon": "https://vanilla.futurecdn.net/techradar/1783494/apple-touch-icon.png",
+      "description": "Been reading about AI voice scams lately and it's honestly made me realize how little I know about online security lol. I always thought if someone called or messaged me from a number I recognized then it was probably them seems like that's not always the case. I started looking into ways people can check who they're talking to and found out there's technology that lets you scan a QR code to set up some kind of trusted connection with someone. From what I understand you can use that connection to check it's the same person later on. Maybe I'm getting it wrong but I had no idea this stuff existed. Now I'm wondering why we still rely so much on phone numbers and email addresses when accounts can get hacked and voices can be copied. Does this verification work or is it one of those things that sounds better on paper? I'm not much of a tech person and I wanna hear what people think."
+    },
+    {
       "title": "Scientists worry AI is stealing their ideas",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/",
@@ -79,6 +90,17 @@
       "description": "I've been thinking about the whole \"turn off model training\" thing, and there's something about it that bothers me. Let's assume OpenAI actually respects that setting and doesn't use those conversations to train its models. But training isn't the only way to get value out of user conversations, right? Most people probably aren't saying anything particularly valuable to an AI. It's mostly everyday questions, homework, coding problems, random conversations, etc. But among millions of users, there must be scientists discussing unpublished research, engineers working on proprietary technology, and ordinary people coming up with ideas that might actually be worth something. You don't necessarily need to be an expert to have a good idea. Sometimes a random thought from someone outside a field could turn out to be surprisingly useful. What if you had a separate AI system whose only job was to go through conversations and flag anything potentially interesting? I guess you could call it \"idea mining\" or \"knowledge mining.\" Instead of using conversations to train an AI, you'd be using AI to mine conversations for valuable ideas and information. It wouldn't even need to be particularly expensive. A smaller model could filter out the vast majority of conversations, and only the interesting ones would get passed to more capable models for analysis. And you wouldn't necessarily need people to tell you who they are. Someone discussing a very specific technical problem might reveal quite a lot about their background without ever mentioning their name or employer. But the part I find more interesting is what happens when you start connecting information from different users. Imagine researchers from three different companies working on related problems. They don't know about each other's work, but they all happen to use the same AI assistant. The company running that assistant could potentially see connections that none of those researchers can see individually. Now scale that up to millions of conversations. You'd essentially have a system that could spot emerging technologies, promising research directions, and potentially valuable ideas before any of them become public. And none of this would actually require training the chatbot on those conversations. The information could just be collected and analyzed separately. I'm not saying any AI company is doing this right now. But with how fast AI is advancing and how people are increasingly using it, I feel like this could eventually lead to a new kind of monopoly. Not just by collecting knowledge from experts, but by picking out valuable ideas from millions of ordinary people too. Instead of controlling a particular industry, a handful of companies could end up having a unique window into what people across the world are thinking about, experimenting with, or simply imagining. This whole idea just popped into my head, so I figured I'd write it down. Maybe it's something people have already thought about or discussed before, but I just wanted to share it and see what others think. And of course, I used ChatGPT to help me write a post about AI companies potentially mining our ideas. I'm so fucked. \ud83d\udc80"
     },
     {
+      "title": "Use your AI to produce scientific breakthroughs",
+      "author": "bdgold",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6y0my/use_your_ai_to_produce_scientific_breakthroughs/",
+      "published": 1792099366.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Customize your AI to help map ALL OF EARTH'S NATURAL PROCESSES and look for novel connections & hypotheses. Yes - you can make a scientific breakthrough with your chatgpt subscription and a little bit of ingenuity. http://forks.world"
+    },
+    {
       "title": "Western and Chinese AI search engines cite largely separate webs. Qwen's sources were 96% Chinese even with half the questions in English",
       "author": "Sanbi_Ai",
       "url": "https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A Fudan University team ran the same 120 questions through 10 AI search engines (\"From Public Posts to AI-Search Citations\", accepted at NDSS 2027): ChatGPT, Google AI, Perplexity and Grok on one side, Doubao, Qwen, DeepSeek, Kimi, Yuanbao and Baidu's Wenxin on the other. Roughly half the questions were in Chinese and half in English. Then they looked at which websites each engine cited, 17,211 citations in total. Here's the language split of the sites each engine cited: Qwen: 96% Chinese Baidu's Wenxin: 94% Chinese Yuanbao: 76% Chinese Doubao: 59% Chinese Perplexity: 50/50 DeepSeek: 54% English Kimi: 62% English ChatGPT, Google AI and Grok: about 75% English So it isn't simply China vs the West. Even with half the questions in English, 96% of the sites Qwen cited had Chinese titles, while DeepSeek and Kimi leaned more English than Doubao did. Other things that stood out: Reddit was the #1 cited site for Google AI and Grok. YouTube was #1 for Perplexity, Wikipedia for ChatGPT. The Chinese engines rarely cited any of those big English platforms, apart from technical sites like GitHub and arXiv. Any two engines shared only about 20% of their top 20 sources on average, and overlap was lower between Chinese and Western engines. The Chinese engines lean on their parent company's sites: Doubao sent 25.9% of its citations to ByteDance-owned sites, Wenxin 24.4% to Baidu's, Yuanbao 14.2% to Tencent's. One site was cited by all 10 engines, ChatGPT and Grok included: SMZDM, a Chinese shopping-deals site. A separate Max Planck study of real chat histories found the split runs inside the West too. Reddit and YouTube dominate ChatGPT's and Grok's search results but don't show up in Claude's at all, while Xiaohongshu (RedNote) appears only in DeepSeek's. Caveats: 120 questions is a small panel, it's one snapshot from March 2026, and \"Chinese\" or \"English\" here means the language of the cited page titles. Different questions would shift the numbers. But the takeaway seems solid: these engines aren't searching the same internet. Ask the same question in a different app and you can get an answer built from a different web. Has anyone compared the same question across a Western and a Chinese AI and gotten completely different answers?"
-    },
-    {
-      "title": "My theory after a year of customer support: AI makes people more confident, not more correct",
-      "author": "fomodesk",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/",
-      "published": 1792052586.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I own an online store. Daily I get emails where a customer explains, with complete certainty, how my own product works, what my terms say, or what the law requires. Beautifully written, full of jargon, and often completely wrong. I use AI every day myself, so this isn't an anti-AI post. But people stopped separating \"AI told me\" from \"this is true\". Is this just a phase until people learn how to use it, or are we watching people outsource thinking at scale?"
-    },
-    {
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/",
-      "published": 1792076921.0,
-      "thumbnail": "https://external-preview.redd.it/k1ZmwktWKixhC-BKjinwOF1p3zO-bqgdFQ3pqcdSUJM.jpeg?width=640&crop=smart&auto=webp&s=3c538936a12b094a10809dc730847c61e80f574e",
-      "external_url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "site_name": "The Hacker News",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQQyjwPYjJP0wddSEB8Dlpr3dlnQUs52-WmlrZfqJoBPeOvv2Zoqlq-FhEAz_Xeprj_mtrI1MGCW1JS840JUjVEK6VoNe6zCNNTw_7YmyvNmf3E5pprZ3zqP8lszq74Wt97SvbJo5yeuyep0U6-nGs0vdarg4_WUrc5r6L0ML0xE-BsPipJd2-1PMHTvO1/s76-e365/thn.jpg",
-      "description": "Glow found over 13,000 internal images from 300+ organizations exposed in public GitHub repos during AI-assisted code reviews."
     }
   ],
-  "fetched_at": "2026-10-15T21:58:05.876400+00:00"
+  "fetched_at": "2026-10-16T00:13:44.015268+00:00"
 }

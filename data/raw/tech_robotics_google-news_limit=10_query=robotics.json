@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
-      "pub_date": 1792058400.0,
-      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
-      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
-    },
-    {
       "headline": "Gemini 4 Argon for Robotics",
       "source": "blog.google",
       "source_url": "https://developers.googleblog.com",
@@ -25,14 +15,14 @@
       "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     },
     {
-      "headline": "Canadian robotics firm partners with nation's largest homebuilder, expands into Phoenix",
-      "source": "ABC15 Arizona",
-      "source_url": "https://www.abc15.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLThBeXRYX1JPcUVnVm10d3NaZXpzTG84RndZY1pQQnV1Q0hWaVpkM1RSRUFoeTEwN1FuckxwblNVZmpXakZEbk96NzBVT1RDeXVBVDc0MGZ1emVvdWgwSnZTY1JoWWNfdUtXdGtjaGNsNzJMeFpObUtNbzVRWFF0U0xtc0lkRE5SNGQ5TDEwNDVkbUdxdFh6SGVZUjN4R3JnVF9ybTJUUjIyMWJPNW9xR2JkYVhCUnB5eHlZVnpR?oc=5",
-      "pub_date": 1792094067.0,
-      "article_url": "https://www.abc15.com/news/business/canadian-robotics-firm-partners-with-nations-largest-homebuilder-expands-into-phoenix",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/db866a5/2147483647/strip/true/crop/1200x630+0+25/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F38%2F91%2F693a6bba4bf48192cf53b3345d7a%2Fpromise-robotics.jpg",
-      "description": "A Canadian company that is expanding its \u201cfactory-as-a-service\u201d model with a new plant in the Phoenix metro has inked a production partnership with the nation\u2019s largest homebuilder."
+      "headline": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
+      "pub_date": 1792058400.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
+      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
     },
     {
       "headline": "Crew Preps for Dragon\u2019s Arrival During Vision and Robotics Research",
@@ -55,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Food delivery robot lawsuit Chicago: Lawsuit claims Coco, Serve Robotics are collecting biometric data without consent",
+      "source": "ABC7 Chicago",
+      "source_url": "https://abc7chicago.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVpLTjhPT2hMVVkwUHU3dmtyN1llQ3hJWDh2YjBQcFdtWlVhZVNqbTU0SHB1ZVJqX3dsRDVkSEpUVXdOX2w0QWVfb25faDdZQ0dzRXNrNHh6MG5CQmc3VkItMGdqSmV2eXR5MXA2QS1rcHNiUnZBbEdLeHpzTUx0LXgxWUZveVdWRGdpOVZ4SFBsSThkdE1qRVBDSDhrV2h5dXVscHBvSU1KQk5KazBBMXJkMnB2M2V4RG1PUEYxRGxrWEt4OHVzdUxRSlo0aUlvQmdBWFFR0gHbAUFVX3lxTE9xREkwRTRyR001SHRqbkFQQkxxOGNkbEF6TzRsOXA4M0hOT1RHM2JOY3BpZ2V6OFdVcUJKQUVXYW5ydGhVMGZmd1BldVVneTMwZF9xNDZJdGowRTlMbjhxQjFTUUo3ZDI5YnRPWjZ3NXVrTGFpdVRUSVkwTDJTbkpUQ190VGVaS1dUNE9fNkZwY0FydUgwbUtidHNXZzBVdlJGdFFNNWNldy16U3g5RXF5aGVHZVhURk5vTThGRkw0M2JGSWNFN2ItZmFycTdDdkFLNnFfcjl1OHNWUQ?oc=5",
+      "pub_date": 1792102808.0,
+      "article_url": "https://abc7chicago.com/post/food-delivery-robot-lawsuit-chicago-claims-coco-serve-robotics-are-collecting-biometric-data-consent/19941835/",
+      "image": "https://cdn.abcotvs.com/dip/images/19941802_101526-wls-robot-lawsuit-43p-vid.jpg?w=1600",
+      "description": "Two lawsuits claim that some food delivery robots are collecting hand and facial data without consent in Chicago."
+    },
+    {
       "headline": "The SF real estate firm betting big on robotics",
       "source": "The San Francisco Standard",
       "source_url": "https://sfstandard.com",
@@ -75,6 +75,16 @@
       "description": "Test setup in a robotics laboratory"
     },
     {
+      "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tbnF6SWljZVFQNWNlc2ZyVkh0SGVNNC1ZTm82QTg2OGlMTjdhS180WkZBaTkwN0o5bE0tR0UydzVmZnowS3JIeFlzNlhfdXFFZUsxeEYwNDVneTkySUtOUEt5eWZRc0ZSODZCbUl6ZjliRkdVYVY3MWl4c24?oc=5",
+      "pub_date": 1792063796.0,
+      "article_url": "https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1eade429586b4393/6acf818cc37bcf528cc91be4/Saga-Robotics-Thorvald-time-inventions-2026.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
+    },
+    {
       "headline": "These workers help train robots who could one day steal their jobs",
       "source": "NPR",
       "source_url": "https://www.npr.org",
@@ -93,18 +103,8 @@
       "article_url": "https://news.northeastern.edu/2026/10/14/ship-hull-cleaning-robot-co-op/",
       "image": "https://news.northeastern.edu/wp-content/uploads/2026/09/Deployed-Photo-.jpg",
       "description": "Hull cleaning robots scrub barnacles and algae off ships at sea. A Northeastern student helped build one while on co-op at Fleet Robotics."
-    },
-    {
-      "headline": "\u2018Infinite Demand For Robots:\u2019 Inside Matter Venture Partners\u2019 $450 Million Bet On Physical AI",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3VTQVJBYjFaWU1NQmRrSWZLTlZyQ2FfdUNJeGRNVFdiSE5tS09JUHVWOXVPZ2hTTDduS01JRERPVGNBWTB3TnFkODU4UkhMLWZnNXhhVkF3QlVLNnBRSzc0RVB6QzloZEpfYUhTbXZ3aDV2V1pST093RW0zd1VqbXp2cXRpZ0VfbXVxUkpHeWg0TzlVUnAwY2NrbWE0NmYtdDJfcUdHZmV5ZVRpeUZUazEwRjg1azRKMmc2dl9RRVg3ZmdSYmUxeHJFZV9pcVFVSkMzakVyZFZmZw?oc=5",
-      "pub_date": 1792009065.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/14/infinite-demand-for-robots-inside-matter-venture-partners-450-million-bet-on-physical-ai/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T21:58:29.856026+00:00"
+  "fetched_at": "2026-10-16T00:14:08.296222+00:00"
 }
