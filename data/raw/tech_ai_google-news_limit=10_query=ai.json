@@ -5,11 +5,11 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018I\u2019m on a War Footing\u2019: Terry Tao and the Crisis in Math",
+      "headline": "Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
-      "pub_date": 1792155115.0,
+      "pub_date": 1792181745.0,
       "article_url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
       "image": null,
       "description": null
@@ -19,8 +19,18 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRV25YTk5PLUVlR21rV2MyTUpjR0g3Ny1mZ0hLckhEMTFNTy1MSnpBSjFoai1UN0toUGYwSVhFZTV2ZGYwQVYzVEU5dWhxZ2o3Q0ZqOXBFOXdfdTBZZlVlYXMwcU01UmlyQmhUTzBzbHY0MFctMWc?oc=5",
-      "pub_date": 1792143037.0,
+      "pub_date": 1792143097.0,
       "article_url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia CEO on AI Market Turmoil: \u2018All of This Is Going to Pass\u2019",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ?oc=5",
+      "pub_date": 1792182795.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass",
       "image": null,
       "description": null
     },
@@ -29,82 +39,72 @@
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0FsY1ltSGx1ZGhyc0hFUHgzM2VTUW5LNWY1alhzZnJsR3JXanFycnNFOVdtSGhST0lFTlNfUFJxNERyMzBvaXFubjAxMmkybzUzVERmblo1V0xVNzBkMUFrcTVDMldSZUFQM3VMYjRXemV2V21BRnM0YU9KTm1RMk9fTDZwcGpnTFB4M0hNb0JBRjFSWnhPMUVRcmdhcnpCLVExNk9jaFZZTWVzWTFjSXJEWk8yUQ?oc=5",
-      "pub_date": 1792164181.0,
+      "pub_date": 1792141001.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
       "image": null,
       "description": null
     },
     {
-      "headline": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+      "headline": "Tech stocks tumble as AI debt fears rattle Wall Street",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySWZEMXlwOEkxNmZYX041ZFNpdjJlOS02em9wbHNpX2ZaMHZ2RzdCZTA2VktiY0htNDlVYng4NXlhUFF3cThuRHlfaWZ2OUVydEFzSlp2Ymd4anN2em1WdEl2bGxKcUExQXRYVmlQYTlUUQ?oc=5",
+      "pub_date": 1792181280.0,
+      "article_url": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/16/6ecf9bb0-2958-4286-9fe2-393ec3e58a0f/thumbnail/1200x630/8d27e5035ab6f2268a523c3a20c0e2b7/gettyimages-2299938321.jpg",
+      "description": "Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI."
+    },
+    {
+      "headline": "Charles Schwab CEO: AI agents trading on your behalf need 'rules of the road'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGw5dDZxMmViaWJVNXJYUXdnOWZNZ2t5UFpIYXBGd1ozZDg5M2JfRlAxdjFxbDh1d251M1l5OV91ZDM2d2IyZU5sRWZLTEVZMWJaNUJCNVlYS1FOTUxNSzhDenZDbGoyaUR5QVdRaFpCX2NHZ1FVc2V1VDRmVUtGMGFiNWkxN0NUdGU1RWY2ejV5UDhhbkw3S2pDNUw3ODZyNm5jYQ?oc=5",
-      "pub_date": 1792141001.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/coreweave-stock-wipeout-exposes-divide-085641444.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b26be77539010b5fc6b9ffdd688447d2dca1cac83ef6f5ec6d0a81d5ba57958c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F89eb653e1f7ad01dc6502b42f975d2ad.jpg",
-      "description": "CoreWeave Inc. has become ground zero in a tug of war between investors who see rising bond yields as a potential rally killer for the AI trade and those who think demand for computing power will make those concerns seem passe before long."
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGY3QWFEdDBmV1JyZjVxZVRBUWRYUU5ST0lYNVhvYk54Rkh5aDlyMDFYcjRpODBwYkJhV2g3Q1RNUlZaRWZrZFVkSXFYY1RqeFdhczMtdU1XYXJfWWNCWTN2V0wzSHplTFhOTmYzdW1KakVFQ0p1WlB0bm5BZ2ttYTY3Y1FhTUp1QzJhVFEyaG03XzAxRnVBQTZkLWlRRXh4dFBfYjNvWmhJQTdQTXR1N3hNUTF4ck9Jd2hkRDVpUlZHZmQ4cndFSGFOZw?oc=5",
+      "pub_date": 1792182842.0,
+      "article_url": "https://finance.yahoo.com/markets/article/charles-schwab-ceo-ai-agents-trading-on-your-behalf-need-rules-of-the-road-203402357.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7cde251a04aacff5cbf248aa657c0a3ae29175919c3e815eccc98d8a58d2be32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F2ed633c8-3f8f-4e23-9f16-d515a78246ee",
+      "description": "The rise of AI-driven trading on investing platforms is not lost on Charles Schwab CEO Rick Wurster."
     },
     {
-      "headline": "Why CoreWeave is in the crosshairs of the AI scare",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDBmSEI4THQ5MFFtQXA5a1YweUdtQ2RIYXJXU0t0SFpiQ2kzbENpUWpVbW9hRU5KY1FiMkZPdDVOcmY3OW5WTVRqTFo1SnZKQmxweEFXeVhkY0ZySUdjQWVoV2p3TEVlbXVSSVBZTnNVbXdNc2Q1bmpzSVFrYXFtTmVhUloyaDRqeHp0NllQZWxDTHFENXhv?oc=5",
-      "pub_date": 1792173103.0,
-      "article_url": "https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/",
-      "image": null,
-      "description": null
+      "headline": "Motley Fool Chief Investment Strategist Bill Mann discusses path for AI trade",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtalBEUzcyY2d2dkVKZHk5RGc3ZThpaWtWY3RUOEVWQmUzOWpOeEtkWVkxOVoyeWR1akVTTXJtQjhoNHZrRnd3aFVHTFA3U3pQVlcwWWlaUlhYcVhVazA3aWZFUTB3a1FpbmJXb1A0V190TE1yVHJUeVhMTVo?oc=5",
+      "pub_date": 1792183759.0,
+      "article_url": "https://qz.com/motley-fool-chief-investment-strategist-path-for-ai-trade",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Motley%20Fool%20Chief%20Investment%20Strategist%20Bill%20Mann%20discusses%20path%20for%20AI%20trade.jpg",
+      "description": "Motley Fool Chief Investment Strategist Bill Mann discusses path for AI trade"
     },
     {
-      "headline": "NBA tightens betting rules, develops AI to flag suspicious wagers",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGkzY2hGN0FnSlVBM1RBTGlTZGZzN2NIWW5MQWE1OWVQemszZFFGRGp2YjVfWjFVNlFkOU5JMWNoWWNUbWdMUFJfdVF1VDFuZzI2bGEtcEhHNFY1azFnOElwaFNRNmw5Yzd5aDkwbENtN0VXWVpxMkt6RnFEVDVMQXE4QjlGQjlBcjlYWU5DM0RZbWJDSW1oYkNaU0Y5ZVRkOVVF0gGoAUFVX3lxTFBSSFRzXzdJVkNqb01zemY2NmRONVJPMnJrbHhhZDQ2dW1FZ2k0Q2hBc2dTdi1DMXAzZHByaVAybjNNOUNIRTVoblRTNnF2cWRHYl9vcHhoSTFZVm1XdVoyY2t0dDdHVTk2MHl0ZFlTQkl5THZIUi14eS0xUWEzTlhmWDJzWi1OSHV0bU5FVVY5dWswamtUNWMyUURTX19xLVN0R25uZzJuQw?oc=5",
-      "pub_date": 1792173050.0,
-      "article_url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108420547-1792169925516-gettyimages-2269662093-2026_nba_0331_pistonsvsraptors_05.jpeg?v=1792169966&w=1920&h=1080",
-      "description": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC."
-    },
-    {
-      "headline": "Universal Music and Sony Want to Know How Many AI-Generated Songs DistroKid Releases",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGRSVVFOa2RWUXNMRGQwTjlkbVFHS3kxNTd5bjF1RTBWejVPRnZOVzU2MHdrR0xtdlhUT0tnZTVfN3JSV1JNTFg0aWswV3FTMnBsUmRXQnFGamVUU0M5TXZCSF83emZwWXpTcWlWekJ4cXRWVGo0STlITUhnTjBRWlZNdlZOWmhUeHpYMjJKMVZ4X0NNazdqYkdnbVltVTd3cG9ESGd5UVJMNFN3N1V5Xw?oc=5",
-      "pub_date": 1792174381.0,
-      "article_url": "https://www.hollywoodreporter.com/music/music-industry-news/umg-and-sony-distrokid-ai-song-subpoena-1236733702/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/31rep_Frost_sidebar.jpg?w=1440&h=810&crop=1",
-      "description": "The companies filed a new case this week, arguing the information is crucial in the labels' lawsuit against Suno."
+      "headline": "Exactly how much of an environmental menace is AI? Here\u2019s what we know",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEgtNXhpZnU3U3FQVmR0NXpiQ0REaWhPbzZxOGxxTTR0YVRpZS02RTBiX1NTeEdIaXFTNlFHWV9zdDZMUlVQWmpERkMzV3RETElhZzljYkgyTjJKOVI2TzViU2dacnBGZDNzN3VUT2pFdXpTaWh4QmpwdVRWM1BONEJlM1M3WjdCYldaVjRQWm9oRG5MV0E?oc=5",
+      "pub_date": 1792153459.0,
+      "article_url": "https://www.cnn.com/2026/10/16/climate/ai-environmental-impact-energy-water-noise-explainer",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-12-05t145808z-2064639474-rc2w3haly5bt-rtrmadp-3-aws-20261015220138006.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The staggering rise of AI has become a political flashpoint, especially when it comes to concerns about the impacts of the data centers needed to train and operate it."
     },
     {
       "headline": "New York City Council questions paceX official over AI safety",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGdBb0xaLXdscTQ3Z09XWXlLSzVFQUEwQURjUlVCXzFxT0dFSGdOay1senNPbWV0LTJUaWRMZDY5N3VacjJqUm56VFRtOGpuTjdYZmdzb1AwUmNWOG44b1o0QURQajZmZnBtNGsyZTVMVlJxMVdqTGgxT1BjSkRMZXVwV0h0SUIwZG9B?oc=5",
-      "pub_date": 1792166743.0,
+      "pub_date": 1792180131.0,
       "article_url": "https://www.foxnews.com/live-news/ai-use-spacex-official-testify-nyc-after-subpoena",
       "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/a195f165592f72f6a35187f21abaef1c.jpg",
       "description": "Gabriela Castillo Madrid, SpaceX's senior manager of global government affairs, is set to face questioning Friday by the New York City Council, which is investigating artificial intelligence safety."
     },
     {
-      "headline": "AI Agents Bring New Headaches to Online Sellers",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQengtRllueUItOFkyTnZoU20wTjhOYTRLOEdUUndnTHNDQk8zY20zeVVCLWhtU2ZnSEJSbklHeE1MUkZFeDVRSERsRXdsZG9rLXVGZXNDeG95RmxiVHp2UUF0OTFzNHRoTkZnQ0tRWDU5T0JTbmNydjE2RTFUV2Z0X0JsandmQTFad0k5US1R?oc=5",
-      "pub_date": 1792143000.0,
-      "article_url": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "What happens if AI agents start speaking their own language?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54RnJJNk5xbHhjX3NHdmxaWm5TM1J2eUtEM1lwUGQza0psbTJid2xDcWtGUy1TZUVBcHpZb0hfYTI3MUpwVUEtcUJmTzVYYW5VNWtCeWUzMG9zRnV6T0UtdmZ2bFlUZkI4dDZTSg?oc=5",
-      "pub_date": 1792148444.0,
-      "article_url": "https://www.cnn.com/2026/10/16/tech/ai-speaking-own-language",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285958393.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Humans\u2019 ability to check up on AI agents depends on being able to communicate in a shared language."
+      "headline": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
+      "pub_date": 1792167154.0,
+      "article_url": "https://abcnews.com/Business/fed-chair-kevin-warsh-warns-ai-shock-economy/story?id=137315708",
+      "image": "https://i.abcnewsfe.com/a/127618f5-40f9-4fb9-ade1-2eb716920ece/warsh-gty-jef-261016_1792161521373_hpMain_16x9.jpg?w=1600",
+      "description": "Warsh said AI would ultimately generate wealth but the path may be 'very bumpy.'"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T18:39:07.706526+00:00"
+  "fetched_at": "2026-10-16T21:56:20.051279+00:00"
 }
