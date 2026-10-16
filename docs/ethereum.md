@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-16T09:32:03.769159+00:00'
+updated: '2026-10-16T14:35:16.895328+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 16, 2026 at 09:32 UTC  
+**Last Updated:** October 16, 2026 at 14:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,451.70
+### $2,468.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.7%  
-**7d:** -2.1%  
-**30d:** +0.3%  
-**90d:** +30.9%  
-**1y:** -35.9%  
+**24h:** +1.5%  
+**7d:** -1.2%  
+**30d:** +1.2%  
+**90d:** +32.2%  
+**1y:** -35.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.42B
+**Market Cap:** $302.18B
 Rank #2
 
 **Circulating Supply:** 122,139,509 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-50.0%
 
 **All-Time Low:** $0.43
-+566089.1%
++571297.2%
 
 ---
 
@@ -96,7 +96,7 @@ staking eth for about three years now. started with lido, then tried rocket pool
 
 Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
-4d ago
+5d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-5d ago
+6d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 6d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 7d ago
 
 ---
 
@@ -156,7 +156,7 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
-CoinDesk • 4h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -168,6 +168,30 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
+
+An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
+
+Engadget • 1h ago
+
+---
+
+**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/)**
+
+The odds of these coins being worth more in five years are quite high.
+
+The Motley Fool • 3h ago
+
+---
+
 **[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
 
 British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
@@ -176,53 +200,35 @@ Decrypt • 1d ago
 
 ---
 
+**[Interactive Brokers Adds Ethereum Staking - Is the Yield Worth It?](https://www.investing.com/analysis/interactive-brokers-adds-ethereum-staking--is-the-yield-worth-it-200689722)**
+
+Market Analysis by  covering: Interactive Brokers Group Inc, Ethereum US Dollar. Read 's Market Analysis on Investing.com
+
+Investing.com • 1h ago
+
+---
+
+**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
+
+Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
+
+Decrypt • 1d ago
+
+---
+
+**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://finance.yahoo.com/markets/crypto/articles/ethereum-fomo-exploding-bitcoin-xrp-093215611.html)**
+
+Ethereum’s bullish-to-bearish comment ratio reached 2.05, signaling strong crowd enthusiasm. Bitcoin and XRP sentiment turned negative, with ratios of 0.82 and 0.92, respectively. Santiment suggests ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Ethereum, XRP and Solana slide as hot inflation data rattles crypto](https://www.tradingview.com/news/cryptobriefing:e146bbc0c094b:0-ethereum-xrp-and-solana-slide-as-hot-inflation-data-rattles-crypto/)**
 
 Ethereum, XRP and Solana all dropped on October 15, 2026. The trigger had nothing to do with blockchains and everything to do with a spreadsheet from Washington.The US Consumer Price Index for September showed inflation running at 3.7% year over year. Market analysts cited by Decrypt say macro fact…
 
-TradingView • 18h ago
-
----
-
-**[Ethereum’s faster-exit plan would leave new validators waiting to earn](https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/)**
-
-EIP-8061 could speed Ethereum staking exits, but capped entry would still delay new validators’ rewards and spread idle capital costs in pools.
-
-CryptoSlate • 20h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC holds $80,500, ETH rebounds from key support, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333)**
-
-FXStreet • 5h ago
-
----
-
-**[Current price of Ethereum for October 15, 2026](https://fortune.com/article/price-of-ethereum-10-15-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
-
----
-
-**[Ethereum (ETH-USD) Price Prediction: Can $2,300 Stop Another Liquidation Cascade?](https://seekingalpha.com/article/4954358-ethereum-price-prediction-can-2300-stop-another-liquidation-cascade)**
-
-Crypto markets are under heavy pressure again, with a macroeconomic shock this time colliding with another large-scale unwind of leveraged positions. Read more here...
-
-Seeking Alpha • 1d ago
-
----
-
-**[Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode](https://www.ccn.com/news/crypto/ethereum-fomo-bitcoin-xrp-fear/)**
-
-CCN.com • 1d ago
-
----
-
-**[Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze](https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze)**
-
-Benzinga • 15h ago
+TradingView • 1d ago
 
 ---
 
@@ -230,13 +236,43 @@ Benzinga • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bitcoin &amp; Crypto  Bounce, Tesla Flying Cars, Solana or Ethereum ?](https://www.youtube.com/watch?v=K9JfUGe06gU)**
+
+Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 354 • 💬 15 • ⏱️ 1:11:36 • 1h ago
+
+---
+
+**[BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eZGzMo7LMEw)**
+
+BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 195 • 💬 45 • ⏱️ 17:44 • 3h ago
+
+---
+
+**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
+
+Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
+
+📺 Thomas Kralow
+
+👁️ 6K • 👍 838 • 💬 17 • ⏱️ 14:50 • 5h ago
+
+---
+
 **[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
 
 Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
 
 📺 Home Aura
 
-👁️ 5K • 👍 107 • 💬 68 • ⏱️ 4:20 • 1h ago
+👁️ 5K • 👍 122 • 💬 71 • ⏱️ 4:20 • 7h ago
 
 ---
 
@@ -246,7 +282,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 168 • 💬 12 • ⏱️ 23:05 • 17h ago
+👁️ 8K • 👍 185 • 💬 27 • ⏱️ 23:05 • 22h ago
+
+---
+
+**[CRYPTO LIVE TRADING: Bitcoin Bullish Weekend Ahead! [Atention]](https://www.youtube.com/watch?v=SFFUUax9too)**
+
+The Chart Hackers are LIVE and the weekend setup is looking spicy. Dylan (The Head Trader) leads the crew through another ...
+
+📺 Crypto Banter
+
+👁️ 2K • 👍 221 • 3h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3i7Iz6Vsbqc)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 234 • 👍 39 • ⏱️ 6:08 • 1h ago
 
 ---
 
@@ -256,7 +312,15 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 216 • 💬 18 • ⏱️ 21:33 • 1d ago
+👁️ 12K • 👍 218 • 💬 18 • ⏱️ 21:33 • 1d ago
+
+---
+
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+
+📺 Itsdanielmac
+
+👁️ 36K • 👍 643 • 💬 27 • ⏱️ 0:48 • 1d ago
 
 ---
 
@@ -266,65 +330,7 @@ BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 13K • 👍 337 • 💬 185 • ⏱️ 22:20 • 16h ago
-
----
-
-**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
-
-As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
-
-📺 Coinage
-
-👁️ 6K • 👍 45 • ⏱️ 12:34 • 1d ago
-
----
-
-**[Ethereum’s Hidden Secret For The Crypto Bull Run: The Altcoin Signal We Haven’t Seen Since 2022](https://www.youtube.com/watch?v=N6GxgEemb4A)**
-
-Thanks Coinbase for sponsoring this crypto video. Save 80% on spot trading through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 18K • 👍 465 • 💬 97 • ⏱️ 14:22 • 2d ago
-
----
-
-**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
-
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 19 • 💬 3 • ⏱️ 3:19 • 22h ago
-
----
-
-**[Crypto Bloodbath,  Ethereum Shorts, Meme Scams, &amp; WSH Podcast Interview](https://www.youtube.com/watch?v=5r4QcLj7AF0)**
-
-Red day for BTC, ETH, SOL, and others as fear spreads! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 491 • 💬 31 • ⏱️ 1:02:51 • 20h ago
-
----
-
-**[Has Ethereum Reached a Turning Point?](https://www.youtube.com/watch?v=orbRVd3OkTA)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 188 • 💬 6 • ⏱️ 7:31 • 1d ago
-
----
-
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
-
-📺 Itsdanielmac
-
-👁️ 35K • 👍 635 • 💬 27 • ⏱️ 0:48 • 1d ago
+👁️ 14K • 👍 345 • 💬 189 • ⏱️ 22:20 • 21h ago
 
 ---
 
