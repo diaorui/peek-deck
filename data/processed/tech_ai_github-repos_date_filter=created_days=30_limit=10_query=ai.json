@@ -10,7 +10,7 @@
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
       "stars": 7885,
       "stars_display": "7.9k",
-      "forks": 2421,
+      "forks": 2422,
       "forks_display": "2.4k",
       "language": "TypeScript",
       "topics": [],
@@ -24,9 +24,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 7873,
+      "stars": 7882,
       "stars_display": "7.9k",
-      "forks": 1896,
+      "forks": 1898,
       "forks_display": "1.9k",
       "language": "TypeScript",
       "topics": [
@@ -36,7 +36,7 @@
         "daily-digest",
         "docker-compose"
       ],
-      "updated_at": "2026-10-15T18:10:29Z"
+      "updated_at": "2026-10-16T16:46:08Z"
     },
     {
       "full_name": "CopilotKit/OpenDots",
@@ -46,10 +46,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 5476,
+      "stars": 5482,
       "stars_display": "5.5k",
-      "forks": 781,
-      "forks_display": "781",
+      "forks": 783,
+      "forks_display": "783",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-15T15:24:21Z"
@@ -62,10 +62,10 @@
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "url": "https://github.com/Louis-CFM/coucou",
       "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 5354,
+      "stars": 5365,
       "stars_display": "5.4k",
-      "forks": 926,
-      "forks_display": "926",
+      "forks": 929,
+      "forks_display": "929",
       "language": "Swift",
       "topics": [
         "ai-agents",
@@ -84,7 +84,7 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 4822,
+      "stars": 4835,
       "stars_display": "4.8k",
       "forks": 140,
       "forks_display": "140",
@@ -106,13 +106,13 @@
       "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
       "url": "https://github.com/mhtsec/ARTEX",
       "preview_image": "https://opengraph.githubassets.com/85b9e74f7f3f9e071a61f127b6025789150025dce0c8ec890b57bf389aa39b7c/mhtsec/ARTEX",
-      "stars": 4392,
+      "stars": 4409,
       "stars_display": "4.4k",
-      "forks": 6602,
+      "forks": 6612,
       "forks_display": "6.6k",
       "language": "Go",
       "topics": [],
-      "updated_at": "2026-10-16T13:29:57Z"
+      "updated_at": "2026-10-16T17:09:03Z"
     },
     {
       "full_name": "LosaLosSantos/aurelio-finance",
@@ -124,8 +124,8 @@
       "preview_image": "https://opengraph.githubassets.com/16faeeaa359ba4f23652bfc9f99a162e78f3a583ad03fc96304960160ecc5da5/LosaLosSantos/aurelio-finance",
       "stars": 3942,
       "stars_display": "3.9k",
-      "forks": 495,
-      "forks_display": "495",
+      "forks": 498,
+      "forks_display": "498",
       "language": "Python",
       "topics": [
         "ai",
@@ -134,7 +134,7 @@
         "finance",
         "financial-planning"
       ],
-      "updated_at": "2026-10-16T14:06:28Z"
+      "updated_at": "2026-10-16T15:14:52Z"
     },
     {
       "full_name": "nykooi1/vibe-wise",
@@ -144,35 +144,13 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 3660,
+      "stars": 3678,
       "stars_display": "3.7k",
-      "forks": 146,
-      "forks_display": "146",
+      "forks": 148,
+      "forks_display": "148",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-10-09T09:37:21Z"
-    },
-    {
-      "full_name": "QingYunA/answer-me-with-html",
-      "name": "answer-me-with-html",
-      "owner": "QingYunA",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/41177312?v=4",
-      "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
-      "stars": 3511,
-      "stars_display": "3.5k",
-      "forks": 243,
-      "forks_display": "243",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "claude-code-skill",
-        "claude-skill"
-      ],
-      "updated_at": "2026-10-16T09:52:07Z"
     },
     {
       "full_name": "kaankiziltug/logo-design-skill",
@@ -182,10 +160,10 @@
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "preview_image": "https://repository-images.githubusercontent.com/1388867993/cb41b962-88da-4adb-be7e-17ee8a1073aa",
-      "stars": 3498,
+      "stars": 3515,
       "stars_display": "3.5k",
-      "forks": 270,
-      "forks_display": "270",
+      "forks": 271,
+      "forks_display": "271",
       "language": "HTML",
       "topics": [
         "agent-skills",
@@ -195,12 +173,34 @@
         "codex"
       ],
       "updated_at": "2026-09-30T18:16:50Z"
+    },
+    {
+      "full_name": "QingYunA/answer-me-with-html",
+      "name": "answer-me-with-html",
+      "owner": "QingYunA",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
+      "stars": 3514,
+      "stars_display": "3.5k",
+      "forks": 245,
+      "forks_display": "245",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill"
+      ],
+      "updated_at": "2026-10-16T09:52:07Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-09-16",
   "days": 30,
   "limit": 10,
-  "total_count": 493133,
-  "fetched_at": "2026-10-16T14:34:48.620198+00:00"
+  "total_count": 496996,
+  "fetched_at": "2026-10-16T18:38:42.129750+00:00"
 }
