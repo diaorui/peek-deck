@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-16T00:14:11.176863+00:00'
+updated: '2026-10-16T04:50:10.477292+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 16, 2026 at 00:14 UTC  
+**Last Updated:** October 16, 2026 at 04:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,34 +44,34 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -0.7%  
-**30d:** +7.8%  
-**90d:** +27.3%  
-**1y:** -22.8%  
+**24h:** +1.8%  
+**7d:** -1.2%  
+**30d:** +7.3%  
+**90d:** +26.8%  
+**1y:** -23.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1653.38B
+**Market Cap:** $1647.40B
 Rank #1
 
-**Circulating Supply:** 20,098,818 BTC
+**Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.8%
+-35.0%
 
 **All-Time Low:** $67.81
-+121199.2%
++120801.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 53
-**NEUTRAL**
+### 63
+**GREED**
 
 ---
 
@@ -153,17 +153,47 @@ The company confirmed physical tampering in at least one affected device. In add
 
 ## Google News: "bitcoin"
 
-**[Grayscale Says Bitcoin’s Volatility Falls to 43%, Now Within S&P 500 Range](https://finance.yahoo.com/markets/crypto/articles/grayscale-says-bitcoin-volatility-falls-230019272.html)**
+**[Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000](https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000)**
 
-Grayscale says Bitcoin’s one-year volatility fell to 43%, placing it within the range of S&P 500 stocks. Here’s what that actually means.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin Briefly Dips Below $80,000 as Volatility Roils Markets](https://www.bloomberg.com/news/articles/2026-10-15/bitcoin-briefly-dips-below-80-000-as-volatility-roils-markets)**
+**[Michael Saylor Cheered a Rival's $280 Million Bitcoin Buy Despite His Own Company Buying 85% Less the Same Week.](https://247wallst.com/investing/cryptocurrency/2026/10/14/michael-saylor-cheered-a-rivals-280-million-bitcoin-buy-despite-his-own-company-buying-85-less-the-same-week/)**
 
-Bloomberg.com • 9h ago
+Strive bought 3,311 BTC in one week while Strategy put most of its cash into buybacks. So, who is still buying Bitcoin?
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Bitcoin will break above $100K again, Strategy's Saylor reportedly says (MSTR:NASDAQ)](https://seekingalpha.com/news/4652636-bitcoin-will-break-above-100k-again-strategys-saylor-reportedly-says)**
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound](https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound)**
+
+Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.
+
+CoinDesk • 35m ago
+
+---
+
+**[10-Year Yield Falls and Bitcoin Bounces Back: Correlation or Coincidence?](https://finance.yahoo.com/markets/crypto/articles/10-yield-falls-bitcoin-bounces-023600403.html)**
+
+Bitcoin rebounded as the 10-year yield fell, but the move began before Treasury's buyback. Here is what the data shows.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Chainalysis Explains Why US Is Hoarding Bitcoin While the World Buys Its Dollars](https://finance.yahoo.com/markets/crypto/articles/chainalysis-explains-why-us-hoarding-033509786.html)**
+
+Chainalysis data shows why the US is hoarding Bitcoin while other countries adopt dollar stablecoins at a growing pace.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -171,61 +201,29 @@ Bloomberg.com • 9h ago
 
 (Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency’s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.“The move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,” Rahman said. “In the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.”Both Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.“The 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,” he said. “This could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
 
-Kitco • 9h ago
+Kitco • 10h ago
 
 ---
 
-**[US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report](https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis)**
+**[CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat](https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686)**
 
-Chainalysis research shows that the U.S. is HODLing bitcoin hard.
+CleanSpark's mining output fell nearly 11% as it shifts to quarterly reporting, while BitFuFu faces an Ethiopia dispute.
 
-Bitcoin Magazine • 5h ago
-
----
-
-**[Zaria raises $5M to track crypto loan collateral](https://www.axios.com/pro/fintech-deals/2026/10/14/zaria-lightspeed-5-2m-bitcoin-loan-servicing)**
-
-Axios • 1d ago
+The Block • 12h ago
 
 ---
 
-**[Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)**
+**[Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows](https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows)**
 
-Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.
+Grayscale research shows that bitcoin’s realized volatility is in the same range as a number of S&P 500 stocks.
 
-CoinDesk • 1d ago
-
----
-
-**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway)**
-
-Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
-
-Fox Business • 1d ago
+Bitcoin Magazine • 8h ago
 
 ---
 
-**[Better Buy Right Now: Bitcoin vs. Shiba Inu](https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/)**
+**[Bitcoin Briefly Dips Below $80,000 as Volatility Roils Markets](https://www.bloomberg.com/news/articles/2026-10-15/bitcoin-briefly-dips-below-80-000-as-volatility-roils-markets)**
 
-Both of these cryptocurrencies have registered positive momentum in the past three months.
-
-The Motley Fool • 14h ago
-
----
-
-**[Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms](https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading)**
-
-Russians have until July 1, 2027, to buy and sell Bitcoin directly with each other. After that, every trade runs through a broker or exchange
-
-Decrypt • 3h ago
-
----
-
-**[Fidelity Digital Assets finds Bitcoin now moving with US Treasury real rates](https://www.tradingview.com/news/cryptobriefing:f594f6c75094b:0-fidelity-digital-assets-finds-bitcoin-now-moving-with-us-treasury-real-rates/)**
-
-Bitcoin and US government bonds were never supposed to be friends. One is a decentralized digital asset with no issuer. The other is debt backed by the US government.Yet a new study from Fidelity Digital Assets says the two are now moving in step, and the reason has a lot to do with Washington's ba…
-
-TradingView • 4h ago
+Bloomberg • 13h ago
 
 ---
 
@@ -273,13 +271,13 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Taps &amp; Rebound Off $80K as Federal Agencies Add Crypto Guardrails](https://www.youtube.com/watch?v=wAOZC3MDrJ4)**
+**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
 
-Bitcoin dipped below $80000 for the first time in roughly a month Thursday before rebounding later in the session. Adam Lynch ...
+Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
 
-📺 Schwab Network
+📺 Simply Bitcoin
 
-👁️ 591 • 👍 22 • 💬 8 • ⏱️ 5:42 • 2h ago
+👁️ 22K • 👍 1K • 💬 68 • ⏱️ 16:42 • 7h ago
 
 ---
 
@@ -289,37 +287,7 @@ No B.S. Just Charts. Bitcoin came this close to a major breakdown, and Gareth So
 
 📺 Gareth Soloway
 
-👁️ 57K • 👍 2K • 💬 151 • ⏱️ 13:02 • 6h ago
-
----
-
-**[NFA Live! Bitcoin, Rates, SPX](https://www.youtube.com/watch?v=U6sxotkGqPw)**
-
-0:00 - INTRO NFA LIVE 10/15/26 3:25 Long-end yields fall on hot inflation 5:29 Fed credibility and October rate expectations 8:27 ...
-
-📺 Benjamin Cowen
-
-👁️ 39K • 👍 1K • 💬 44 • ⏱️ 33:50 • 10h ago
-
----
-
-**[Bitcoin Just Hit Its Correction Target. Here&#39;s the Next 10 Days](https://www.youtube.com/watch?v=TDQwVve6G3Y)**
-
-Bitcoin hit its corrective target this morning: $79709 against the daily 55 EMA at $79762. Held 10-day reconnects were green 62% ...
-
-📺 Krown
-
-👁️ 7K • 👍 449 • 💬 19 • ⏱️ 22:06 • 5h ago
-
----
-
-**[Bitcoin Faces an $80K Test as Global Markets Crack](https://www.youtube.com/watch?v=OT9-DT-SEOk)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 607 • 💬 66 • ⏱️ 42:05 • 7h ago
+👁️ 79K • 👍 3K • 💬 149 • ⏱️ 13:02 • 10h ago
 
 ---
 
@@ -329,37 +297,7 @@ You Have To Be CRAZY to not see what's happening right now. A TSUNAMI is about t
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 57 • ⏱️ 10:26 • 4h ago
-
----
-
-**[(WARNING) Every CRYPTO Bull Market Had This Dip First (And It’s Happening Right Now)](https://www.youtube.com/watch?v=g9qGxP3DMac)**
-
-Thanks Coinbase for sponsoring this crypto video! Save 80% spot fees through my link! https://coinbase.com/aff/ccv?s=youtube ...
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 505 • 💬 85 • ⏱️ 15:34 • 8h ago
-
----
-
-**[🚨 Everyone Is WRONG About Bitcoin Right Now!](https://www.youtube.com/watch?v=2Yni82DI-qQ)**
-
-Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
-
-📺 DataDash
-
-👁️ 6K • 👍 152 • 💬 41 • ⏱️ 13:38 • 8h ago
-
----
-
-**[Bitcoin Live Trading: BTC FIGHTS FOR SUPPORT! Can Traders Turn This Around? EP2154](https://www.youtube.com/watch?v=iY2P1_XuxNg)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
-
-📺 Crypto Lifer
-
-👁️ 8K • 👍 462 • 💬 1 • ⏱️ 2:00:26 • 7h ago
+👁️ 50K • 👍 2K • 💬 79 • ⏱️ 10:26 • 9h ago
 
 ---
 
@@ -369,7 +307,67 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 773 • 👍 89 • 💬 31 • ⏱️ 15:56 • 2h ago
+👁️ 3K • 👍 177 • 💬 43 • ⏱️ 15:56 • 6h ago
+
+---
+
+**[Is it time to rethink crypto as an investment?](https://www.youtube.com/watch?v=sPGql-s5bE0)**
+
+Crypto spent years arguing that institutions would arrive and everyone holding a token would be rewarded. The institutions are ...
+
+📺 Yahoo Finance
+
+👁️ 22K • 👍 491 • 💬 120 • ⏱️ 14:10 • 11h ago
+
+---
+
+**[(WARNING) Every CRYPTO Bull Market Had This Dip First (And It’s Happening Right Now)](https://www.youtube.com/watch?v=g9qGxP3DMac)**
+
+Thanks Coinbase for sponsoring this crypto video! Save 80% spot fees through my link! https://coinbase.com/aff/ccv?s=youtube ...
+
+📺 Crypto Capital Venture
+
+👁️ 17K • 👍 555 • 💬 86 • ⏱️ 15:34 • 13h ago
+
+---
+
+**[Bitcoin Faces an $80K Test as Global Markets Crack](https://www.youtube.com/watch?v=OT9-DT-SEOk)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 648 • 💬 49 • ⏱️ 42:05 • 12h ago
+
+---
+
+**[Why Bitcoin Sold Off Today (And Why I’m Not Worried)](https://www.youtube.com/watch?v=X-IqUxY-700)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
+
+📺 Aaron Bennett
+
+👁️ 14K • 👍 364 • 💬 66 • ⏱️ 16:46 • 21h ago
+
+---
+
+**[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
+
+Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 107K • 👍 3K • 💬 144 • ⏱️ 10:28 • 2d ago
+
+---
+
+**[$250K Bitcoin Just 2 Months Away?! | Michael Saylor Says The Bull Market Has Begun!](https://www.youtube.com/watch?v=WH_7crcNKWA)**
+
+Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market is beginning, and Arthur Hayes expects money ...
+
+📺 Simply Bitcoin
+
+👁️ 42K • 👍 2K • 💬 122 • ⏱️ 14:20 • 1d ago
 
 ---
 
