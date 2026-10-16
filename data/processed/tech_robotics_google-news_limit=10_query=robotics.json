@@ -5,6 +5,36 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Robots could boost US manufacturing as America races to keep pace with China, expert says",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVpiRWhIMmV6by13Mk1YbEE5TUt1ZTRmcFVBNFhwMnFYRjR4OUlvc0tZYkZ1T0dzRGhpWmExeGl5N3pSazhaMjgyZ0dvaUExNkRoOWhKQm12Y3RQdldhMTBzSElJbF9kbFl4eTZTcFVtOTZfWGtCZHowcEViTnM4RXBQLUh4V1VtQWo0ZU9DY2JmUFRMN3RHTkkzZmo4OWFXRDFWRUhZRmtIN19Za2ExTC11VmRfdVXSAbwBQVVfeXFMUFhCVGRlMEd0eXRMNHJCYTFVTE5ZRHlYUnAxLXU0ZUhFQU01TnJkOUZKZXRwVjAxYXVMX0d0UlBPZHVsNnZJU3BTRWtLazdqRUFCazEtV0dGdTg1U28wWTRvcGI5eF8zbFBhTVhBeThBV2ZaUXExUTZhdU5oYU9ZRWhmVUJQWllQLUNvOEZlbC1fUGRQbFJUNWYxOHFkNE1FZ1czNFpvZXRTSlNaYjZmeUh1V2szZF9xWmtyTDM?oc=5",
+      "pub_date": 1792163580.0,
+      "article_url": "https://www.foxbusiness.com/technology/robots-could-boost-us-manufacturing-america-races-keep-pace-china-expert-says",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/ai-powered-robotics-.jpg?ve=1&tl=1",
+      "description": "A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics."
+    },
+    {
+      "headline": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
+      "pub_date": 1792058400.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
+      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
+    },
+    {
+      "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tbnF6SWljZVFQNWNlc2ZyVkh0SGVNNC1ZTm82QTg2OGlMTjdhS180WkZBaTkwN0o5bE0tR0UydzVmZnowS3JIeFlzNlhfdXFFZUsxeEYwNDVneTkySUtOUEt5eWZRc0ZSODZCbUl6ZjliRkdVYVY3MWl4c24?oc=5",
+      "pub_date": 1792063796.0,
+      "article_url": "https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1eade429586b4393/6acf818cc37bcf528cc91be4/Saga-Robotics-Thorvald-time-inventions-2026.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
+    },
+    {
       "headline": "Gemini 4 Argon for Robotics",
       "source": "blog.google",
       "source_url": "https://developers.googleblog.com",
@@ -25,44 +55,24 @@
       "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
     },
     {
-      "headline": "Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot",
-      "source": "New Electronics",
-      "source_url": "https://www.newelectronics.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZm5tRTcxV0hiMi1HdTJwXzVmNHJidUpELVZxeklIMURKSkc4VlFlOHFURnNCNmthS1l0enB1NkU2M1hwcjNkLTBZWmdHc0VMUHMzX2JfQzB4REZvOFBUS1NDc1pKVG9qUWtpMnhzT3owZElqanRCSV9MS0xQWUlONERVUzFxdi1GcHYtemZQQXZuZTZWdThfbEVFR2hjMUo1NG1CeDFER2xISUNhc181Q1VwU2NYYmNqc0RoU0dLRHR1X1pDR19rMUFQbnJnVm1wUXNMbmxmUQ?oc=5",
-      "pub_date": 1792141678.0,
-      "article_url": "https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot",
+      "headline": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc?oc=5",
+      "pub_date": 1791971100.0,
+      "article_url": "https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1NicmFvaGVSM1RrTlhtMU5pcU8xQ0thU3BPRG9JZ3c4NDhFeFQyR2lLdkJTY0FlOVAydWhoeElRNl9STkpuR1p0NzJPOUJ4ZDI5QlBtVlNJMnBBbjNKSXdzaEJKWEhYZGt3RUVJWWVFSXMxLVVVTlhaTGI1OU1tc2V5VmdodGx4eldicmJ6WW8wQ2sxc0czTkhGRnlTTVVwNXdOaG4tRFliUzJKMW9BRXJ6ejdmaFpaeWJLa3ZWSEF2WnNHaDNGbUtJb2pYUTN5NUJkdC1mZm9CMElpcXgtZUkxTXdVTHVKeE1jNlRSUmctbUYtWk16Sw?oc=5",
-      "pub_date": 1791916200.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Exclusive: Rivian's startup Mind Robotics hires former Ford EV chief Doug Field",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEM2eU9TZDJ3d0pNWVJTZnhwMk5YaFZ5OUEzOHlfRXpnX1ZzTU9PYjZqeXhQUG1xQ3Z0RzdOeWZDcXV4WnpCUVRqVmV5bDVoRnM2cFpIalNWZlo3OFR5WGlUdGdZd0x3cTZXdmp4bThXaUx5MVppN3E5eTJ1OVFibE0xWTBrT1B0bDk1YWpEWGVqV1YteEpOZU1uN1dnRWV5WkN6Ng?oc=5",
-      "pub_date": 1791916203.0,
-      "article_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Doug-Field.jpg?resize=800,1200",
-      "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3."
-    },
-    {
-      "headline": "Rivian\u2019s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWJkNWRrZkJLVzZjaFZEemc5ODNkTmoxekhnZGo1LTAyRm9wNkN2dXdWTmxzRk51ZFV5dXFHNFgtdW5JQVNFUko3a0VSNHVmellFY0l2SlByYXc1Y1FiVzM0cEtoa1NsMmRybEtQenhyUlN6dTZtWEtJVXZKaVVZYmFvYnlGOXFfRlF3Yw?oc=5",
-      "pub_date": 1791920400.0,
-      "article_url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-Q1-2025-factory.jpg?quality=82&strip=all&resize=1200,628",
-      "description": "Rivian's Mind Robotics spinoff, now funded with over $1 billion, hired Doug Field, who led Tesla Model 3 engineering and Ford's EV unit, as president."
+      "headline": "Crew Preps for Dragon\u2019s Arrival During Vision and Robotics Research",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlY4a3dtVzJ3MzBTVmE0eWFiVW5CNTAxZ2c1V3ZfTmg2WkUzVUZ3MTlRLWRIQTlJNzRwcFU4ZFB6bVRRX1V2MUw0RFVDeWRuTDRkQ0RlUEJoQ184Tlk4RHBIQ0VVTTNiR1VjeWlYSG1ZcGFiSldubk1Pblo0QmNhTk1PczNFa3ZQR3gtSTdna1B3dmNWcURVUnczZzdpcXZibzlqSllhZFdGbmxFWjRldHR6bTJ6eGlpWGc?oc=5",
+      "pub_date": 1792000475.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/",
+      "image": "https://images-assets.nasa.gov/image/iss074e0586370/iss074e0586370~large.jpg",
+      "description": "A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday."
     },
     {
       "headline": "A $299 robot helps children learn AI through hands-on projects",
@@ -75,14 +85,14 @@
       "description": "Nova Mini's $499 course includes 16 live classes over two months. FF Nova's invitation-only first phase is capped at 100 units, with 20 ready for delivery."
     },
     {
-      "headline": "The SF real estate firm betting big on robotics",
-      "source": "The San Francisco Standard",
-      "source_url": "https://sfstandard.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlI1N2pFTVlnalhzcnIzM25qTTV6eGZNWXFxbjVGV2RNaVpKLVBGR1RTQm9MVUpueDJJTDBWeG5vdVM0d21YR0hWcGMteW5ranRPc2twSnYtWW1HU043bmE0a2tMVl9pc0FjdDBsTGxmQU1FS2JVemc4R1lENW5PTmJNSWVab0hf?oc=5",
-      "pub_date": 1792016708.0,
-      "article_url": "https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_a80tcgeem90i1csqf782iofa6u/-S1200x630-FPNG",
-      "description": "The San Francisco real estate firm going all in on the robotics boom"
+      "headline": "Cleaning a giant ship: Roomba-like robots walk on magnetic feet to scrub giant ships",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOENENXRGOTFCQXoyU0ZtZTc0Ry03LUdER1BBVjBtaDVOanNvOVEzXzQ0Rk5LTDItMWsyR3g1WWpjV1lyZnZFLV9hc0tvUFU1SXBDVDhnM2tzU1lrWXhfcFl2eVNiUU5YSDZMYUtBMTA0SWxxSXFhbWliUWJlZ0E?oc=5",
+      "pub_date": 1792089607.0,
+      "article_url": "https://techxplore.com/news/2026-10-giant-ship-roomba-robots-magnetic.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
@@ -93,18 +103,8 @@
       "article_url": "https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/",
       "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9753687-scaled-e1792072876871.jpg",
       "description": "\u201cWhat we\u2019re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,\u201d said Maj. Gen. Jason Slider, commander of the John F. Kennedy Special Warfare Center and School."
-    },
-    {
-      "headline": "How do you clean a giant ship? This student builds robots for the job",
-      "source": "Northeastern Global News",
-      "source_url": "https://news.northeastern.edu",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TYnFKSlVvRU5IUTZoSFBPRGFSRE02aENzeVZzQlQ0YW5Sblo2VVdkaElKX080ZW1na3ZWbTFNbkFmYTlpQTZNX2QtajY4cXYwSzJDV2NiLXhaYlVmOHZKMFo4b1VCUmg0S25NcWk5TlBTNFFwOUNIU1dWa2g?oc=5",
-      "pub_date": 1792029740.0,
-      "article_url": "https://news.northeastern.edu/2026/10/14/ship-hull-cleaning-robot-co-op/",
-      "image": "https://news.northeastern.edu/wp-content/uploads/2026/09/Deployed-Photo-.jpg",
-      "description": "Hull cleaning robots scrub barnacles and algae off ships at sea. A Northeastern student helped build one while on co-op at Fleet Robotics."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T14:35:12.206654+00:00"
+  "fetched_at": "2026-10-16T18:39:02.816467+00:00"
 }
