@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-16T18:39:09.496941+00:00'
+updated: '2026-10-16T21:56:29.886246+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 16, 2026 at 18:39 UTC  
+**Last Updated:** October 16, 2026 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -1.9%  
-**30d:** +6.5%  
-**90d:** +25.8%  
-**1y:** -23.7%  
+**24h:** -0.9%  
+**7d:** -1.5%  
+**30d:** +6.9%  
+**90d:** +26.3%  
+**1y:** -23.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1634.94B
+**Market Cap:** $1640.56B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.5%
+-35.3%
 
 **All-Time Low:** $67.81
-+119851.3%
++120273.1%
 
 ---
 
@@ -77,75 +77,75 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Checking in on the fiat currency experiment.](https://www.reddit.com/r/Bitcoin/comments/1x475bi/checking_in_on_the_fiat_currency_experiment/)**
+**[Save in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1x7hxuq/save_in_bitcoin/)**
 
-4d ago
-
----
-
-**[Is This Guy Real?This guy claims he held Bitcoin since 2013, made a 1000x return and recreated his old viral video 11 years later. Pretty insane if true.But is this story actually real? Anyone know who he is?](https://www.reddit.com/r/Bitcoin/comments/1x4apxa/is_this_guy_realthis_guy_claims_he_held_bitcoin/)**
-
-3d ago
+7h ago
 
 ---
 
-**[Aftermath of a failed bitcoin mining operation.](https://www.reddit.com/r/Bitcoin/comments/1x3jopb/aftermath_of_a_failed_bitcoin_mining_operation/)**
+**[Call me crazy but...](https://www.reddit.com/r/Bitcoin/comments/1x7pw2x/call_me_crazy_but/)**
 
-My friends father was renting space on his farm for a bitcoin mining operation. The operation became unprofitable. The mining operation went bankrupt. The company came in and took everything out of the 6 antmain bit-boxes (converted shipping containers). The photos are what they left behind. Mostly Antminer S19 units and even more asic boards. Plenty of antmain rack PDUs. Some 480VAC breaker panels. A 480VAC switch unit. The land owner did accept the mess voluntarily. He is breaking the equipment down for scrap value. I wonder, is there a better price available out there above scrap value? Is this normal? FWIW, I used the term failed very tongue-in-cheek. I estimate the operation mined millions in this operation.
+I wish my government (US) would start investing in crypto instead of some of the dumb stuff we waste our taxes on. The way they are giving 7.3 billion to shit like ICE to chase after workers in the country, but can't invest in future planning for a better economy? Anyways, just something I keep thinking about as things continue to get more expensive What do you guys think?
 
-4d ago
-
----
-
-**[A fake crypto wallet app got through Apple's App Store review and drained my BTC. There's no way to actually talk to a person at Apple about it](https://www.reddit.com/r/Bitcoin/comments/1x46gnh/a_fake_crypto_wallet_app_got_through_apples_app/)**
-
-I don't usually post stuff like this, but I've been a loyal Apple user since 2008 with over 7 devices on one Apple ID, plus the usual subscriptions (iCloud+, In App purchases, app subscriptions) so this one stung in a specific way. In June I downloaded an app called "Wasabi Bitcoin & Crypto Wallet" from the official App Store. It looked completely legitimate, normal listing, developer name, screenshots, reviews. It turned out to be an impersonation of the real Wasabi Wallet. Wasabi Wallet is an open-source, desktop-only software that has never had a mobile app. In August, a wallet I'd created inside that fake app was drained in a single transaction; about 0.9 BTC, roughly $53k at the time. The theft is bad enough. What's been almost as frustrating is that there's no way to actually talk to a person at Apple about it. No phone line, no support chat for this, just web forms (Apple's own "report a problem" page, and their EU "Digital Services Act" reporting portal). I filed a police report. I reported it through every official channel Apple offers. Apple's own review team closed my EU complaint with a one line reply: insufficient information, or no violation found. No further explanation. One thing that's stuck with me: with the real, open-source Wasabi Wallet, anyone can verify a release is genuine by checking its cryptographic signature on GitHub. On the App Store, there's no equivalent. As a user, you have no way to check that an app is actually from the developer it claims to be. You're just trusting Apple's review process, full stop. That trust is what got me here. What makes it sting more: Apple's own App Store Review Guidelines, not marketing copy, their actual rulebook for developers say: "These efforts have made Apple's platforms the safest for consumers around the world." That's the exact trust I was operating on. This isn't a one-off either. Security researchers found dozens of similar fake wallet apps on the App Store this year alone (Kaspersky, April 2026). There's also an ongoing US lawsuit over a nearly identical fake Sparrow Wallet app. I'm not trying to start a pile-on, I still like my Apple devices. I just wish there were an actual way to be heard, and wanted other people to be a bit more careful with anything wallet-related in the App Store, "official" or not. Happy to answer questions if anyone's curious or has been through something similar.
-
-4d ago
+2h ago
 
 ---
 
-**[Why scam yourself and others when you have bitcoin](https://www.reddit.com/r/Bitcoin/comments/1x46poi/why_scam_yourself_and_others_when_you_have_bitcoin/)**
+**[The Bitcoin Standard book in 5 minutes](https://www.reddit.com/r/Bitcoin/comments/1x7kzpk/the_bitcoin_standard_book_in_5_minutes/)**
 
-Stick to bitcoin. The alignment with bitcoin changes you for the better.
-
-4d ago
+5h ago
 
 ---
 
-**[situation today 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1x3mjtt/situation_today/)**
+**[Bears VS Bitcoin since months ago](https://www.reddit.com/r/Bitcoin/comments/1x7bcul/bears_vs_bitcoin_since_months_ago/)**
 
-4d ago
-
----
-
-**[Yeah, I'm in](https://www.reddit.com/r/Bitcoin/comments/1x48qm6/yeah_im_in/)**
-
-Money supply isn't dropping any time soon. The next run will be glorious.
-
-4d ago
+12h ago
 
 ---
 
-**[AI Agents Agree: BTC is best for long term capital preservation.](https://www.reddit.com/r/Bitcoin/comments/1x4bvlx/ai_agents_agree_btc_is_best_for_long_term_capital/)**
+**[Deutsche Bank to Launch Bitcoin and Shitcoin Custody Within Weeks](https://www.reddit.com/r/Bitcoin/comments/1x7l80w/deutsche_bank_to_launch_bitcoin_and_shitcoin/)**
 
-3d ago
+Deutsche Bank plans to launch cryptocurrency custody services within weeks, starting with Bitcoin (BTC) and Ethereum (ETH), as Germany’s largest bank
 
----
-
-**[NGL, this is sometimes how we sound when we try teaching random normies about Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1x42foh/ngl_this_is_sometimes_how_we_sound_when_we_try/)**
-
-Sometimes, they just have to learn Bitcoin on their own. Even if it means another 10 years wasted.
-
-4d ago
+🔗 [Coinpedia Fintech News](https://coinpedia.org/news/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks/) • 5h ago
 
 ---
 
-**[Ledger Confirms Hardware Implant as Tampered Wallet Reports Allegedly Spread to Europe](https://www.reddit.com/r/Bitcoin/comments/1x3up5h/ledger_confirms_hardware_implant_as_tampered/)**
+**[Satoshi Nakamoto statue unveiled in Vienna yesterday](https://www.reddit.com/r/Bitcoin/comments/1x6pxpe/satoshi_nakamoto_statue_unveiled_in_vienna/)**
 
-The company confirmed physical tampering in at least one affected device. In addition, reports emerged that the incident has spread to Europe.
+Happy to see another statue out there, just worried about the lake near. Location: https://www.google.com/maps/place/Satoshi+Nakamoto+Statue,+Plus+Zwei,+Trabrennstra%C3%9Fe+8,+1020+Wien,+Austria/@48.2135453,16.4136218,16z/
 
-🔗 [CryptoPotato](https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/) • 4d ago
+1d ago
+
+---
+
+**[Jack explains how the bond market will send bitcoin to new highs before AI Agents use it as money:](https://www.reddit.com/r/Bitcoin/comments/1x7d69x/jack_explains_how_the_bond_market_will_send/)**
+
+https://reddit.com/link/1x7d69x/video/a3siqysr8tvh1/player Will AI agents choose Bitcoin over dollars? Jack sees the long-term fit, but says AI companies aren’t asking for Bitcoin integrations yet. What would make Bitcoin useful enough for them to switch?
+
+10h ago
+
+---
+
+**[Don’t leverage, buy Bitcoin and hodl](https://www.reddit.com/r/Bitcoin/comments/1x734lq/dont_leverage_buy_bitcoin_and_hodl/)**
+
+20h ago
+
+---
+
+**[Bitcoin ETFs Lost $65 Million In A Day. One BlackRock Fund Accounted For Every Dollar.](https://www.reddit.com/r/Bitcoin/comments/1x7bceb/bitcoin_etfs_lost_65_million_in_a_day_one/)**
+
+The latest redemptions, however, represent a small fraction of the roughly $65.7 billion in net inflows BlackRock's fund has attracted since launching in 2024.
+
+🔗 [International Business Times](https://www.ibtimes.com/bitcoin-etfs-lost-65-million-day-one-blackrock-fund-accounted-every-dollar-3808531) • 12h ago
+
+---
+
+**[The Silent Mutiny Against the Dollar: Why 61% of Americans Are Ready for Bitcoin (And Why We Are Explaining It All Wrong).](https://www.reddit.com/r/Bitcoin/comments/1x7798f/the_silent_mutiny_against_the_dollar_why_61_of/)**
+
+74% of Americans no longer trust the U.S. dollar to hold its value. 61% want to learn more about owning Bitcoin. The battle for awareness is over. The silent mutiny against fiat is already here. There’s one problem: A landmark national study shows the way we’ve explained Bitcoin for the last decade is actively repelling the very people ready to listen. "Digital Gold" is dead: It ranked near the bottom in voter focus groups. The 55% blind spot: More than half of voters still don't know they can buy BTC through major brokerages. Celebrity fatigue: Everyday people don't trust billionaire CEOs or politicians—they trust friends, family, and their local advisor. It’s time to step out of the echo chamber and speak to the 61%.
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-silent-mutiny-against-the-dollar) • 17h ago
 
 ---
 
@@ -153,41 +153,31 @@ The company confirmed physical tampering in at least one affected device. In add
 
 ## Google News: "bitcoin"
 
-**[Strategy stock falls as Michael Saylor's bitcoin giant faces index-level threat](https://finance.yahoo.com/markets/crypto/article/strategy-stock-falls-as-michael-saylors-bitcoin-giant-faces-index-level-threat-144934435.html)**
-
-Strategy stock fell more than 3% on Friday after index provider MSCI announced new eligibility rules that could lead to the removal of Michael Saylor's bitcoin juggernaut from its global stock indexes.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
 
-Barron's • 5h ago
+Barron's • 9h ago
 
 ---
 
-**[MSCI makes it official, and bitcoin (BTC) treasury firms Strategy, Metaplanet are on notice](https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes)**
-
-MSCI has approved a set of rules proposed in August that could remove BTC-holding firms Strategy and Metaplanet from its stock indices.
-
-CoinDesk • 10h ago
-
----
-
-**[Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules](https://finance.yahoo.com/markets/crypto/articles/bitcoin-treasury-giant-strategy-faces-181604975.html)**
-
-The index provider will classify “non-operating companies” as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset.
-
-Yahoo Finance • 23m ago
-
----
-
-**[Live updates: Crypto gives up some ground as AI selloff picks up steam](https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue)**
+**[Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary](https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue)**
 
 Fixed income is again catching a bid on worries about the deflating AI bubble.
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
+
+---
+
+**[Cantor's $112,000 Bitcoin Call Lifts Strategy Target to $208](https://finance.yahoo.com/markets/crypto/articles/cantors-112-000-bitcoin-call-205538907.html)**
+
+Cantor raised its bitcoin price assumption to $112,000 from $98,000
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy faces MSCI ouster under new rules, billions in passive holdings at risk](https://www.reuters.com/world/asia-pacific/strategy-faces-msci-ouster-under-new-rules-billions-passive-holdings-risk-2026-10-16/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -195,7 +185,15 @@ CoinDesk • 2h ago
 
 Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features ✅mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino ✅JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses ✅Thunderpick 100% up to €2,000 Bonus rollover rules ✅BitStarz Up to 5 BTC + 180 Free Spins Staged free spins ✅Lucky Rebel...
 
-Muddy River Sports • 7h ago
+Muddy River Sports • 11h ago
+
+---
+
+**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway)**
+
+Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
+
+Fox Business • 2d ago
 
 ---
 
@@ -203,7 +201,7 @@ Muddy River Sports • 7h ago
 
 The odds of these coins being worth more in five years are quite high.
 
-The Motley Fool • 6h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -219,13 +217,13 @@ Kitco • 1d ago
 
 Grayscale research shows that bitcoin’s realized volatility is in the same range as a number of S&P 500 stocks.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin Briefly Dips Below $80,000 as Volatility Roils Markets](https://www.bloomberg.com/news/articles/2026-10-15/bitcoin-briefly-dips-below-80-000-as-volatility-roils-markets)**
+**[Bitcoin rebounds to near $82k but set for second week in red](https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175)**
 
-Bloomberg.com • 1d ago
+Investing.com • 7h ago
 
 ---
 
@@ -251,7 +249,7 @@ Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap�
 
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
-⬆️ 1 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
+⬆️ 1 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
 
 ---
 
@@ -273,33 +271,23 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
+
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+
+📺 Benjamin Cowen
+
+👁️ 52K • 👍 2K • 💬 191 • ⏱️ 1:11:56 • 5h ago
+
+---
+
 **[Bitcoin Just Got FLUSHED...But Whales Are Buying](https://www.youtube.com/watch?v=QwE90xwXM-I)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 567 • 💬 40 • ⏱️ 43:21 • 2h ago
-
----
-
-**[Crypto Holders Are About To Get WRECKED!! (Be Ready!)](https://www.youtube.com/watch?v=hVCS6yfApzU)**
-
-You Have To Be CRAZY to not see what's happening right now. A TSUNAMI is about to hit Crypto.. (You've Been Warned) ...
-
-📺 Altcoin Daily
-
-👁️ 77K • 👍 2K • 💬 118 • ⏱️ 10:26 • 23h ago
-
----
-
-**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
-
-Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 2K • 💬 105 • ⏱️ 16:42 • 21h ago
+👁️ 18K • 👍 624 • 💬 39 • ⏱️ 43:21 • 5h ago
 
 ---
 
@@ -309,67 +297,77 @@ Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market i
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 123 • ⏱️ 14:20 • 1d ago
+👁️ 45K • 👍 2K • 💬 123 • ⏱️ 14:20 • 1d ago
 
 ---
 
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
+**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
 
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 125 • ⏱️ 1:11:56 • 2h ago
-
----
-
-**[$681 Million Bitcoin Long Liquidation Drives Bitcoin Lower!](https://www.youtube.com/watch?v=1e268i3_E7c)**
-
-A major Drop has taken place Timestamps Coming After Stream: 0:00 Title Sequence 0:25 Intro 1:46 Segment 1: CPI Print ...
-
-📺 Crypto Jebb
-
-👁️ 3K • 👍 120 • 💬 9 • ⏱️ 40:40 • 2h ago
+👁️ 42K • 👍 2K • 💬 107 • ⏱️ 16:42 • 1d ago
 
 ---
 
-**[It might be time to rethink what you own.](https://www.youtube.com/watch?v=sPGql-s5bE0)**
+**[BITCOIN HISTORY WILL REPEAT... *prepare now*](https://www.youtube.com/watch?v=wuoWvgq1a_c)**
 
-Crypto spent years arguing that institutions would arrive and everyone holding a token would be rewarded. The institutions are ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Yahoo Finance
+📺 Crypto Rover
 
-👁️ 28K • 👍 610 • 💬 180 • ⏱️ 14:10 • 1d ago
-
----
-
-**[Bitcoin Came THIS Close to Breaking Down: $97K Next?](https://www.youtube.com/watch?v=U5p7VdWDV-E)**
-
-No B.S. Just Charts. Bitcoin came this close to a major breakdown, and Gareth Soloway shows the exact Bitcoin price levels that ...
-
-📺 Gareth Soloway
-
-👁️ 106K • 👍 3K • 💬 160 • ⏱️ 13:02 • 1d ago
+👁️ 25K • 👍 819 • 💬 29 • ⏱️ 9:20 • 2d ago
 
 ---
 
-**[Michael Saylor: My FINAL WARNING To Bitcoin Investors](https://www.youtube.com/watch?v=bLkKuVIIngk)**
+**[Bitcoin Update: What’s Happening With BTC Right Now?](https://www.youtube.com/watch?v=Rg1dSvBoGEo)**
 
-Bloomberg Challenges Michael Saylor on Bitcoin.. Here's His Answer ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+Bitcoin is back in focus as the crypto market watches its next move. In this quick update, we look at the latest BTC market situation ...
 
-📺 Altcoin Daily
+📺 Crypto Nitro
 
-👁️ 110K • 👍 3K • 💬 143 • ⏱️ 10:28 • 2d ago
+👁️ 5K • 💬 34 • ⏱️ 1:07 • 2d ago
 
 ---
 
-**[Bitcoin Liquidations: The $81K Flush and Exact Targets for the Bounce](https://www.youtube.com/watch?v=gBRFg1-Zc24)**
+**[Should I Buy Bitcoin or MicroStrategy? It Depends on The STRC Door. If It&#39;s Open...](https://www.youtube.com/watch?v=ICJwv5Vb1UY)**
 
-Bitcoin flushed through $81000, liquidations piled up, and then it bounced. Nick explains why it turned where it did. Trade ...
+MicroStrategy stock or plain Bitcoin investment? MSTR performance answers that question differently depending on the week.
+
+📺 Dana Love, PhD
+
+👁️ 54K • 👍 1K • 💬 131 • ⏱️ 25:43 • 2d ago
+
+---
+
+**[WATCH THIS BITCOIN UPDATE BY MONDAY! [DUMP CANCELED]](https://www.youtube.com/watch?v=u21xNxjjg5g)**
+
+WEEX: https://themoon.co/DailyWEEX UP TO $60000 BONUS BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 4K • 👍 119 • 💬 9 • ⏱️ 48:53 • 4h ago
+
+---
+
+**[Bitcoin&#39;s Inflation Test Just Came In Hot - What&#39;s Next?](https://www.youtube.com/watch?v=yYklTYr0Hik)**
+
+Bitcoin #Crypto #finance Coinbase is urging Bitcoin to prepare for future quantum threats, while Strive plans to raise $500M to ...
+
+📺 The Wolf Of All Streets
+
+👁️ 31K • 👍 775 • 💬 184 • ⏱️ 45:17 • 2d ago
+
+---
+
+**[Bitcoin CRASHES on CPI Data: EXACT Support Levels You Must Watch](https://www.youtube.com/watch?v=ycL7j92IqVc)**
+
+Hot inflation data hit Bitcoin and the whole altcoin market. Here's where the floor could be. Trade alongside the Verified Pro ...
 
 📺 Verified Investing
 
-👁️ 9K • 👍 331 • 💬 32 • ⏱️ 19:12 • 1d ago
+👁️ 17K • 👍 455 • 💬 59 • ⏱️ 18:35 • 2d ago
 
 ---
 

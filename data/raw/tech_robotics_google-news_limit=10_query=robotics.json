@@ -15,14 +15,14 @@
       "description": "A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics."
     },
     {
-      "headline": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
-      "pub_date": 1792058400.0,
-      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
-      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
+      "headline": "China Builds Actual Giant Mecha",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lQmpUM2c5V1JsOXp2bl9YTTY2ZjFDZEo3Z2VMOGE0Sjg5SHJrZmM5X1hRN1NzUXZQUzJWcTkyekhjMWgwM29icDNGeXpKUTBNa3p1MHYwa0FzWkpsZGdRXzREbS1fWnBXVFFJMXNnV0NUNXdCcUYyQkY5bHo?oc=5",
+      "pub_date": 1792178254.0,
+      "article_url": "https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/china-builds-actual-giant-mecha.jpg?w=1200",
+      "description": "A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie."
     },
     {
       "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
@@ -35,6 +35,56 @@
       "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
     },
     {
+      "headline": "CMR Surgical CEO outlines the path forward for Stryker\u2019s robotics partnership",
+      "source": "MassDevice",
+      "source_url": "https://www.massdevice.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEtYSnE4RVYzQXFHMDAyNjBLa3ZYMDlBUEg0eUQ2cmZnTGVVWk8xVE9zSWRMNHBXN1lqd2Zvd0oxTm1jZURqYlVYbkNvVXZQbW9tVUdDZndyUUpZb0tXSHhuYm5QaGJNSGdpb1dIS3I5YU5tUTltbTV6MFQ5NENxcW10aUR3ald2OFZjRHVFRUdsSlRnS3VteXhnTEV6bXhIekRvWll0MA?oc=5",
+      "pub_date": 1792129668.0,
+      "article_url": "https://www.massdevice.com/cmr-surgical-ceo-outlines-the-path-forward-for-strykers-robotics-partnership/",
+      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2026/10/15161736/Massimillano-Colella-CEO-2.jpg",
+      "description": "CMR Surgical CEO Massimiliano Colella says the robotics developer plans to come out swinging after Stryker's $400 million investment."
+    },
+    {
+      "headline": "Video: Are These Workers Training Robots to Replace Them?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODFOeFhOdVduU0NPOW1TSGloRW9TX3ptZHR5SU5MUV9DMnJaaHlnVDlaYjNSbmJUaDFrR29vaG1vanJ0UFpsbl9fTkJCZ2ppcmpEeVVVVkp0Y240RUJGMTgzVjE4TV9HaVFoQV8wSXFydlBxQmNuVUgwMnhmdnNuZXpvUDc4S0x0UUE?oc=5",
+      "pub_date": 1792141356.0,
+      "article_url": "https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmNZRTdpUVF4bEVCeTgzVkhOLURxbGI4cmxPVE01TWN1b1VoUHpnS01ySjVHamc1Z2t2SzZCbWRnX190TW5hS29admttWnhkY2FCMGpaNUFwUlRuZnV2Tk1UMDlmOWFsNXpELVpnYkVYZmdfamthalRZQjd4QU9lYzRDUGh2X1A2R2tWQnJGa284Y3p1RFpjTXJzQnc2amdfeU5EUmRtQ1g?oc=5",
+      "pub_date": 1792168200.0,
+      "article_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "description": "Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics\u2019 ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks."
+    },
+    {
+      "headline": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
+      "pub_date": 1792058400.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
+      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
+    },
+    {
+      "headline": "Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot",
+      "source": "New Electronics",
+      "source_url": "https://www.newelectronics.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZm5tRTcxV0hiMi1HdTJwXzVmNHJidUpELVZxeklIMURKSkc4VlFlOHFURnNCNmthS1l0enB1NkU2M1hwcjNkLTBZWmdHc0VMUHMzX2JfQzB4REZvOFBUS1NDc1pKVG9qUWtpMnhzT3owZElqanRCSV9MS0xQWUlONERVUzFxdi1GcHYtemZQQXZuZTZWdThfbEVFR2hjMUo1NG1CeDFER2xISUNhc181Q1VwU2NYYmNqc0RoU0dLRHR1X1pDR19rMUFQbnJnVm1wUXNMbmxmUQ?oc=5",
+      "pub_date": 1792141678.0,
+      "article_url": "https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Gemini 4 Argon for Robotics",
       "source": "blog.google",
       "source_url": "https://developers.googleblog.com",
@@ -45,66 +95,16 @@
       "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     },
     {
-      "headline": "These workers help train robots who could one day steal their jobs",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWW82cHE2RnI2WEhnVWVsYk9vcHg3UDhZSTRzQUFkNzVYQ3FHQUxZVTMzQTd2OHdpaUUxX3dkV2RCTzRIczk0WnJJcXZnc3ExZVJZY3gtRDZwbmJ0WlZKYVlJZXhTVTRNXzN3X2ZwMmNaUmtIb0Rab19hUEY5eGl5V0luZWZ0NkwycWpQN05EcDlEczhpU19HWndVVkxyaXBsRENpQURfNGdGVXF4OUE?oc=5",
-      "pub_date": 1791970127.0,
-      "article_url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3703x2083+0+1/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fc6%2Fd28dafef4d61ba6cc03148fd71ef%2Fai-robots-final.jpeg",
-      "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
-    },
-    {
-      "headline": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc?oc=5",
-      "pub_date": 1791971100.0,
-      "article_url": "https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/",
+      "headline": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2MxVXJGZWlIdkxPTTZOeGFqZGpVR3NfSEZRbzlhS1R3LWxRdzVTRlhrTVZGbU8tclBFdWxrS0NLbzRvZmctZ3BPaGZ4UGwwS3lwNmNrYzlZZENsWVl2ZDNwUElHZkNEWG15V1puWUVwajlTS3VTU0ZsWEJuTDRselRsQXRTUFNXdk53dEJHZ2NKRXdHbmltYURjZkNkcjVVaVJRb0ZEVnB2bmNMSnRfdFhqQzFQUG5RWm1uNmIta2FVajFTVmNncmplR2xEQjE5T2o0?oc=5",
+      "pub_date": 1792166700.0,
+      "article_url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Crew Preps for Dragon\u2019s Arrival During Vision and Robotics Research",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlY4a3dtVzJ3MzBTVmE0eWFiVW5CNTAxZ2c1V3ZfTmg2WkUzVUZ3MTlRLWRIQTlJNzRwcFU4ZFB6bVRRX1V2MUw0RFVDeWRuTDRkQ0RlUEJoQ184Tlk4RHBIQ0VVTTNiR1VjeWlYSG1ZcGFiSldubk1Pblo0QmNhTk1PczNFa3ZQR3gtSTdna1B3dmNWcURVUnczZzdpcXZibzlqSllhZFdGbmxFWjRldHR6bTJ6eGlpWGc?oc=5",
-      "pub_date": 1792000475.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/",
-      "image": "https://images-assets.nasa.gov/image/iss074e0586370/iss074e0586370~large.jpg",
-      "description": "A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday."
-    },
-    {
-      "headline": "A $299 robot helps children learn AI through hands-on projects",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzktY3ZncUw5OWdydGV4eG9rM0k5dnZoR3VMODl6bWRIclRiekFNWWVaeDl5OGpKZmw2RHREaGNEWjBySUhZUWRvWDdYRnItbldzVXZjRTNzSmtIdmlZVmZ0cnFSUjg3RXVEb3lmdnpWbWs0cjNSdmxxNndNVDJveEw2ZGVQVzkxa3IxSG45a2dSREhRaWZTd3F5QUw3aWJrY2lyV0lLTGhaUE1tZ2gwVzAtUDAzVzBMNUtaLVpR?oc=5",
-      "pub_date": 1792122000.0,
-      "article_url": "https://www.stocktitan.net/news/FFR/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-4mrspoqatwbq.html",
-      "image": "https://www.stocktitan.net/news_covers/FF_EAI_Robotics_FFR_and_FF_Jointly_Launch_FF_Nova_First_Embodied_AI_Humanoid_Robot_Priced_Below__1517700.webp",
-      "description": "Nova Mini's $499 course includes 16 live classes over two months. FF Nova's invitation-only first phase is capped at 100 units, with 20 ready for delivery."
-    },
-    {
-      "headline": "Cleaning a giant ship: Roomba-like robots walk on magnetic feet to scrub giant ships",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOENENXRGOTFCQXoyU0ZtZTc0Ry03LUdER1BBVjBtaDVOanNvOVEzXzQ0Rk5LTDItMWsyR3g1WWpjV1lyZnZFLV9hc0tvUFU1SXBDVDhnM2tzU1lrWXhfcFl2eVNiUU5YSDZMYUtBMTA0SWxxSXFhbWliUWJlZ0E?oc=5",
-      "pub_date": 1792089607.0,
-      "article_url": "https://techxplore.com/news/2026-10-giant-ship-roomba-robots-magnetic.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1lfemJGUTdQSTRnY3F4ZkNwQTk5WGNJMHhyOThvaUYwaTFVUFJvMVRraFZVWWszQVg2RnkwR0IxVVRqS1FINEhLdFk1dmZjR3RnQzI4bnUwV21XeXFwa0xJTzFOZW1Hczl3Y1pvVG9XNVljUnJlSDJnTW5pUmFFNVJBT0kxNnJCT0tYcnNpWjhmaEowYlA4UWRhV2VuNlpBZ1VKVUU4TVVOWWFnRFBPcmFmUkYxdHBzZmJnSnNhYw?oc=5",
-      "pub_date": 1792094614.0,
-      "article_url": "https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9753687-scaled-e1792072876871.jpg",
-      "description": "\u201cWhat we\u2019re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,\u201d said Maj. Gen. Jason Slider, commander of the John F. Kennedy Special Warfare Center and School."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T18:39:02.816467+00:00"
+  "fetched_at": "2026-10-16T21:56:28.022860+00:00"
 }
