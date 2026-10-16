@@ -5,42 +5,22 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Bounces Back As Macro Pressures And Leverage Fuel Gains",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODJpN2Rxc0NONkh3SEpWSllDUks3V29RQUNMdGxkUXdrSXdUY1gwUDg4Z1BGcG5aZUZHRkh5ajBzOG1LN2NHcEFJLVBoNnhYVGtMdkNNaTdJQXJoay1yWkFqNHJ5VHJPOXVRTDhiWEdWSVZBU0wxQ3RtTmRDWlZibWstZUZyMVp4QW55T0xMUEhuUVVUWGtaandhdnhvMl9RaWh2T2xrS093N3FsbTQ4Mk9CSkNwTlNyZ1lZ?oc=5",
-      "pub_date": 1792096592.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/15/bitcoin-bounces-back-as-macro-pressures-and-leverage-fuel-gains/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRHlCeG9LZnRXUXJEaUFnZDJ1LUpteUNVM0IzTVJMdUp3WldZVlRDdGVSRU9rYUpCSXRta1dlNGt0VkRMWEZTcjNkbXZDUXQ5NmtteXNQRXpNbExSbXkxZF9pUl9kZkZoT2pQcmlvMHFYQy1Nd20zc0FMa0JzQjExZnp6NVhmbmRlNlVUTmZVY2JxUnliSUpkTG43enBZSThYN1V0YWFYU1hoLUZO?oc=5",
-      "pub_date": 1792094128.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2bb3bf4b44fe2d101335b31feffb98f1e362454c-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Jitters across equity markets are sending money into fixed income, with Western bond markets rallying strongly on Thursday."
-    },
-    {
-      "headline": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+      "headline": "Grayscale Says Bitcoin\u2019s Volatility Falls to 43%, Now Within S&P 500 Range",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHZuV3AzS1FzN04wQkJEbW1MTmtLdXBNZ3IxVlBGcEpMWEtOZWh6T1MyNlJZeTVPM3h6NUxNSTN6WXpqdF9KS3JYUnNuU2FURGVtaHFtRFhSZGxSNVZWWVdsRkszQTMxOVNIemRaYXlvOGFHSzBWOHVlN3NPMVF6c2RFbHZyTWM2MnZUMjFJSzVYeG5I?oc=5",
-      "pub_date": 1792096264.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/russia-soon-ban-peer-peer-203104153.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/097d7bde0c288889003bc62e57910f6cd9925fcbdc4d13def07a46f682578d6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F57df5426fcf9f2e9555abcb919685723.jpg",
-      "description": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWlTYlJfYUN6MEtNcGJmSEJUTXFrc212Z1JDZTNIODZidS1hbl9nUmtZZjVhRHdfVzJVWDBHaG1JNVgzaVl2alJ3aWNEYXhaSWw5N0NtUnlEX2Y4YVkwckEyeXZYZmI5aGF2NkdtVjI1MmpnRFd6MlAyVzRBWXdPTUVhNDN3eTI0aThTdUlFd3k4TWhfQU00bjhzNi1zMmZZdWhKME9Ddw?oc=5",
+      "pub_date": 1792105219.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/grayscale-says-bitcoin-volatility-falls-230019272.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/398841684e17714c4b4be1ea1b45ca481c905c5c1ddfe2be464077538f3e0749/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F7dd52e52ca37217c61ae434802cde791.jpg",
+      "description": "Grayscale says Bitcoin\u2019s one-year volatility fell to 43%, placing it within the range of S&P 500 stocks. Here\u2019s what that actually means."
     },
     {
-      "headline": "Strategy\u2019s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
+      "headline": "Bitcoin Briefly Dips Below $80,000 as Volatility Roils Markets",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
-      "pub_date": 1791917709.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHJKRWxqVXpOTkdLaEtTdk5EZ3lnWklNbXBPaEhvbkxoVUlKRE8wTjBkMGVfTFVqRzl1QXZ3NGczbDhKMGl3UWZHTVFkczVZdjE0YXJrRFVjbXcxSTFIVXpXQ0FQQXJ3QzhJODhSRkNQWjBoU3hMM09DYjZaQ3MwRWlIa3NwSWhvR0VvNTlBdkVaMU1fVWlwak1sd0ljWExWTnRBajVnMFV6ZUlUNFBlWG9n?oc=5",
+      "pub_date": 1792076367.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/bitcoin-briefly-dips-below-80-000-as-volatility-roils-markets",
       "image": null,
       "description": null
     },
@@ -75,6 +55,26 @@
       "description": null
     },
     {
+      "headline": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlNLcC1hS29ZcTV5MloxeXBWVWFRRGJ5S3pwd0phUWFQb3o0MWdDZGdFSWtseG52aEhJeFQ0UFVuUEN6dVRQdERlbW5lT09LLUR3b3hwY09UN2tDOWZzbDdpRlpTZXd0YVJ1Y05Ob0ZBcGdJbjFSVDFRRXVjeEczclVidFh0WmtVb21ZSVhPbTRlRkplbHlJV3A1SDUxRUxKQ0ZHeEpCNEdiRnZldDNLTVhyWXNLZHZWV3hDbkJn?oc=5",
+      "pub_date": 1792010800.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cea33ccfa52c743c6e371a78b706df6538cf803a-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Bitcoin took a brief run at $84,000, but it quickly faded as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print."
+    },
+    {
+      "headline": "Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmFPUFJCNEZtUjhyOUtKelYyZVRfU2ZzbjVBcXFHSlFESDU2bDl3NGg0elJ0VjZTaTNMZWZOczdtaXJTUU1SckEwMW5HcWhHM2Q0T2l1QW1FZERELXBjN3phbVJSbFVhUUsyVWoxblVjU25qeWZ0RS1seHRtZ2lyd1FwMVNhMzJJY1E0REIydFBqZzNyZUMtMkJORWFQM3FJeFNlNjlMZkVJTzV5SlBKaS1tblpNU2NDNGdr0gHAAUFVX3lxTE80YjJ4VjI3R3A5MkRTYk9rOHZWam95QUljOU45TDdOWkgtR3piaE5ERk5uSGo2UVVWb3hlWW9yaHQwYVMxR2lyVjNyc0RqdUw3cXdob011VDJDczRkY3VraHBxT1E5by1qc3BGSkxXRGZIU0dna25MN0R6ajc2cXJoNFkya0ZsdzlXN2R2SWxqdE4xNnIxLUxPU0dTaTVYRmVxVERlQUtQTnpkd0NLUWVJQ1FJWng3MGhHVDJZR185MA?oc=5",
+      "pub_date": 1791997380.0,
+      "article_url": "https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/michael-saylor-bitcoin-conference-2026.jpg?ve=1&tl=1",
+      "description": "Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation."
+    },
+    {
       "headline": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -85,26 +85,26 @@
       "description": "Both of these cryptocurrencies have registered positive momentum in the past three months."
     },
     {
-      "headline": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "headline": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QNC0tRDlLNmh5VDRYS3ZxelVwRkJXRGl4bGl2Q2lSNmxETHlBWXRrS0xmX0Q1VEdMVzk0Rmx4OWxQTFZXb0lPNE1VamxzWVRkWWZxVzM0UVV3Z2FuNk1XbWRCc2ltRHdHUUNIZU05ZFU3eGtn?oc=5",
-      "pub_date": 1792091764.0,
-      "article_url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png",
-      "description": "No matter how the AI story ends, Bitwise\u2019s chief investment officer argues, the trade leads to the same place: Bitcoin higher."
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FUWIxclVTLVRwckFOY2lmcFpWZXVpS1JiVFJKVU9ncURYMGVVWnRIaXU3MTNVaVZ4a0QtVEFzbnhtSDNEdGZCLWNUOGwxZC1NeGZqVjAtSnhnLVNaSE5ZaDVwTkE3QzZmRG13eXhxcHRlZEk?oc=5",
+      "pub_date": 1792096264.0,
+      "article_url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg",
+      "description": "Russians have until July 1, 2027, to buy and sell Bitcoin directly with each other. After that, every trade runs through a broker or exchange"
     },
     {
-      "headline": "Bitcoin retests $82,000 as $20 million in leveraged shorts get liquidated",
+      "headline": "Fidelity Digital Assets finds Bitcoin now moving with US Treasury real rates",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTQtWXktVmNBN0lid0pGMzFHVjZkd2gyM0NsTGg2WFdNZTVES3ZuWkZkTjhDZmZZQnRzaS1zSXRtaC1PMjJ1bHFaVkp4Rk5idGhrREVoZklCbEVVLTI5VUNxTVpSWEg4b3VhZ2ZwMm5NQTBtNkFGM2hrelgxZXJCNU1EaC1ucEt3a0FNN1oyNUhDQmRocUo5aWMzbVlnRTJINzV1WDFCaFFoVEZjNGFrZXNJZXoxUjBLcjJZc01paks1Mkc3aWFWZUZjQl8zOW11Wnc?oc=5",
-      "pub_date": 1792077844.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:a579828ad094b:0-bitcoin-retests-82-000-as-20-million-in-leveraged-shorts-get-liquidated/",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcVF3VVhkZTlibmlwY1lQMl83WlpGLS1naDNwaUdSRzVZZ0RaTno5V2FQdUFYTEhKa2o1cEw1NVljb2Z5ZjV6dzNBbEFXQllWalNMd0pkdk9vVEJPcm8xNHZvNDFOblpsV1VCVkM1SElxWnlRZlkzVkg0OUxYbk1hd08xbnhhaG0yRXEyRkYweXlGRElZcS13MzJISElQMXVvdXNad1FMV2ZUb0prRlJOZGFVVlY1eE1kNkdYSmZuR195a21TajhyODFDaVA4WVpZRm5SaW1hcGg?oc=5",
+      "pub_date": 1792092950.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:f594f6c75094b:0-fidelity-digital-assets-finds-bitcoin-now-moving-with-us-treasury-real-rates/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin retested $82,000, and the move cost leveraged short sellers $20 million in liquidations.A short is a bet that price will fall. Add leverage, and that bet is made with borrowed money that an exchange can pull the moment the trade moves against you.When Bitcoin pushed back toward $82,000, som\u2026"
+      "description": "Bitcoin and US government bonds were never supposed to be friends. One is a decentralized digital asset with no issuer. The other is debt backed by the US government.Yet a new study from Fidelity Digital Assets says the two are now moving in step, and the reason has a lot to do with Washington's ba\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-15T21:58:30.729835+00:00"
+  "fetched_at": "2026-10-16T00:14:07.575588+00:00"
 }
