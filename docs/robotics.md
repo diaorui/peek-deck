@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-16T18:39:09.506738+00:00'
+updated: '2026-10-16T21:56:29.895961+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 16, 2026 at 18:39 UTC  
+**Last Updated:** October 16, 2026 at 21:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This video is showing off auto aim, where you select points and it automatically aims at them. But it also has other cool features like person-tracking, and night vision. What does everyone think?
 
-13h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ This video is showing off auto aim, where you select points and it automatically
 
 I built a hexapod that uses an old Android phone from Make Your Pet. Less than $200 and it was a good first robotics project to learn from.
 
-9h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ I built a hexapod that uses an old Android phone from Make Your Pet. Less than $
 
 Created with the help of opus. It is really good in understanding camera position and movement. I am in the process of teaching some tricks.
 
-21h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Created with the help of opus. It is really good in understanding camera positio
 
 Join Chibots, the Chicago area robotics group, for our next online meeting. Whether you're a seasoned builder, a curious beginner, or just robot-curious, you're welcome here. This meeting will follow our usual loose format: A bit of club business (keeping it short, we promise) Show-and-tell — bring a project, a part, a problem, or just pictures Lots of open discussion with fellow robotics enthusiasts No formal agenda yet, and no pressure to present anything. Come to share, come to listen, come to ask questions — all are welcome. When: Sunday October 18th 2026 1:00 PM - 3:00 PM Where: Zoom Cost: Free RSVP: email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com) Email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com)for Zoom meeting link!
 
-7h ago
+10h ago
 
 ---
 
@@ -84,19 +84,19 @@ I don't know if I'm the only one finding this, but I go to a lot of robotics eve
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/nElGguHO5dY?is=2R6fAR2N1aERJuHE) • 18h ago
+🔗 [youtu.be](https://youtu.be/nElGguHO5dY?is=2R6fAR2N1aERJuHE) • 22h ago
 
 ---
 
 **[Drones are the robots physical AI is actually ready for, and the industry is chasing humanoid hype instead.](https://www.reddit.com/r/robotics/comments/1x75qir/drones_are_the_robots_physical_ai_is_actually/)**
 
-15h ago
+18h ago
 
 ---
 
 **[Women in Robotics You Need to Know About 2026](https://www.reddit.com/r/robotics/comments/1x6zfax/women_in_robotics_you_need_to_know_about_2026/)**
 
-🔗 [womeninrobotics.substack.com](https://womeninrobotics.substack.com/p/women-in-robotics-you-need-to-know-cc0) • 20h ago
+🔗 [womeninrobotics.substack.com](https://womeninrobotics.substack.com/p/women-in-robotics-you-need-to-know-cc0) • 23h ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 For a school project I am making a self balancing robot called WOBBLE. I would very much appreciate any feedback as it will help me to progress my learning. A few sentences per one or even any answers in general would be awesome! if you have any other ideas or things that I should know please tell me. You don't have to answer all of them just the ones that you have knowledge about. Thank you! btw I am reasonably new to robotics so keep that in mind. Do you think an Esp32 is the best microcontroller for this kind of project? What is your biggest tip when coding this robot? Do you think that it is helpful to design and prototype the robot on a breadboard when testing? What's the biggest challenge when creating a robot like this, and how do you overcome it? How would you implement Bluetooth control to the robot? (Forward/Back/Left/Right) E.g Xbox/PlayStation controller Do you think 3D printing is a very important part of this project? If so, why? What is the most important advice that you would give regarding this project? I've attached an image below of my current prototype (not functioning yet). Do you have anything that you would change or improve? (uses an esp32-s3-Wroom-1) What do you think of the 3D shell so far? Do you think that the theme/character is good or does it need improvement? Images Robot Scaffold 3D model so far (Shell/outer casing) Prototype (Not yet working)
 
-20h ago
+23h ago
 
 ---
 
@@ -116,15 +116,15 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics.
 
-Fox Business • 3h ago
+Fox Business • 6h ago
 
 ---
 
-**[AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
+**[China Builds Actual Giant Mecha](https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha)**
 
-AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
+A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
 
-Los Angeles Times • 1d ago
+Futurism • 2h ago
 
 ---
 
@@ -136,6 +136,42 @@ Time Magazine • 1d ago
 
 ---
 
+**[CMR Surgical CEO outlines the path forward for Stryker’s robotics partnership](https://www.massdevice.com/cmr-surgical-ceo-outlines-the-path-forward-for-strykers-robotics-partnership/)**
+
+CMR Surgical CEO Massimiliano Colella says the robotics developer plans to come out swinging after Stryker's $400 million investment.
+
+MassDevice • 16h ago
+
+---
+
+**[Video: Are These Workers Training Robots to Replace Them?](https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)**
+
+Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics’ ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks.
+
+TechCrunch • 5h ago
+
+---
+
+**[AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
+
+AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
+
+Los Angeles Times • 1d ago
+
+---
+
+**[Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot](https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot)**
+
+New Electronics • 12h ago
+
+---
+
 **[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)**
 
 Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
@@ -144,47 +180,9 @@ blog.google • 3d ago
 
 ---
 
-**[These workers help train robots who could one day steal their jobs](https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs)**
+**[Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.](https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab)**
 
-Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
-
-NPR • 2d ago
-
----
-
-**[China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)**
-
-Reuters • 2d ago
-
----
-
-**[Crew Preps for Dragon’s Arrival During Vision and Robotics Research](https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/)**
-
-A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday.
-
-NASA (.gov) • 2d ago
-
----
-
-**[A $299 robot helps children learn AI through hands-on projects](https://www.stocktitan.net/news/FFR/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-4mrspoqatwbq.html)**
-
-Nova Mini's $499 course includes 16 live classes over two months. FF Nova's invitation-only first phase is capped at 100 units, with 20 ready for delivery.
-
-Stock Titan • 14h ago
-
----
-
-**[Cleaning a giant ship: Roomba-like robots walk on magnetic feet to scrub giant ships](https://techxplore.com/news/2026-10-giant-ship-roomba-robots-magnetic.html)**
-
-Tech Xplore • 23h ago
-
----
-
-**[Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians](https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/)**
-
-“What we’re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,” said Maj. Gen. Jason Slider, commander of the John F. Kennedy Special Warfare Center and School.
-
-Breaking Defense • 22h ago
+MarketWatch • 5h ago
 
 ---
 
@@ -198,7 +196,17 @@ A Sydney start-up is paying workers to wear AI glasses to collect data for train
 
 📺 7NEWS Australia
 
-👁️ 46K • 👍 216 • ⏱️ 1:54 • 1d ago
+👁️ 47K • 👍 222 • ⏱️ 1:54 • 1d ago
+
+---
+
+**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
+
+Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
+
+📺 Tesla Insider News
+
+👁️ 76K • 👍 638 • 💬 116 • ⏱️ 21:44 • 21h ago
 
 ---
 
@@ -208,7 +216,7 @@ Remove your personal information online with Delete Me using my link https://joi
 
 📺 The Tesla Space
 
-👁️ 78K • 👍 2K • 💬 149 • ⏱️ 13:59 • 1d ago
+👁️ 80K • 👍 2K • 💬 152 • ⏱️ 13:59 • 2d ago
 
 ---
 
@@ -218,37 +226,7 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 230K • 👍 2K • 💬 217 • ⏱️ 9:18 • 5d ago
-
----
-
-**[Finally robots that can see, hear, feel and remember. Meet Neuron AI.](https://www.youtube.com/watch?v=u02bHNHkqxg)**
-
-Neuron AI is the world's leading and only multimodal foundation model for Physical AI, developed and trained in-house in ...
-
-📺 NEURA Robotics
-
-👁️ 10K • 👍 323 • 💬 54 • ⏱️ 3:08 • 1d ago
-
----
-
-**[(FULL EPISODE HD) Robot Wars, Series 10 - Grand Final](https://www.youtube.com/watch?v=3kzN2gvJeks)**
-
-After lengthy repairs and inspirational pep talks, the qualifiers prepare to fight for the title. A 10-way Robot Rumble will give the ...
-
-📺 Robot Wars
-
-👁️ 8K • 👍 187 • 💬 56 • ⏱️ 59:00 • 1d ago
-
----
-
-**[Two Humanoid Robots Just Had A Real Fight 🥊](https://www.youtube.com/watch?v=T6SpCvcjpNc)**
-
-Original video credit: IG/@mw10.01. Two humanoid robots fight inside the fenced URKL ring, throwing punches, kicks, and even ...
-
-📺 History Seeker
-
-👁️ 39K • 👍 460 • 💬 21 • ⏱️ 0:08 • 6d ago
+👁️ 234K • 👍 2K • 💬 221 • ⏱️ 9:18 • 5d ago
 
 ---
 
@@ -258,7 +236,27 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 335K • 👍 4K • 💬 359 • ⏱️ 1:44 • 3d ago
+👁️ 401K • 👍 4K • 💬 360 • ⏱️ 1:44 • 3d ago
+
+---
+
+**[Two Humanoid Robots Just Had A Real Fight 🥊](https://www.youtube.com/watch?v=T6SpCvcjpNc)**
+
+Original video credit: IG/@mw10.01. Two humanoid robots fight inside the fenced URKL ring, throwing punches, kicks, and even ...
+
+📺 History Seeker
+
+👁️ 40K • 👍 460 • 💬 21 • ⏱️ 0:08 • 6d ago
+
+---
+
+**[(FULL EPISODE HD) Robot Wars, Series 10 - Grand Final](https://www.youtube.com/watch?v=3kzN2gvJeks)**
+
+After lengthy repairs and inspirational pep talks, the qualifiers prepare to fight for the title. A 10-way Robot Rumble will give the ...
+
+📺 Robot Wars
+
+👁️ 9K • 👍 198 • 💬 56 • ⏱️ 59:00 • 1d ago
 
 ---
 
@@ -268,7 +266,17 @@ Andrew Kang, Robostrategy co-founder and CEO, joins 'Closing Bell Overtime' to t
 
 📺 CNBC Television
 
-👁️ 46K • 👍 166 • 💬 83 • ⏱️ 5:19 • 2d ago
+👁️ 47K • 👍 166 • 💬 83 • ⏱️ 5:19 • 2d ago
+
+---
+
+**[Boston Dynamics Built A Four Fingered Robot Hand](https://www.youtube.com/watch?v=E1Eo32TKVPw)**
+
+Boston Dynamics just gave Atlas a new four-fingered hand built for industrial work. It uses 13 degrees of freedom and tactile ...
+
+📺 The Manav Podcast
+
+👁️ 3K • 👍 126 • ⏱️ 0:37 • 5h ago
 
 ---
 
@@ -278,17 +286,7 @@ Putting control of robotics back in developers' hands. Meet RP1 (ROBOTO 01)—Ro
 
 📺 RoboParty
 
-👁️ 30K • 👍 696 • 💬 49 • ⏱️ 2:33 • 2d ago
-
----
-
-**[Ultimate Collection Robot Tobot Carbot Transformation: Athlon, Giga Seven, Master V &amp; OPTIMUS PRIME](https://www.youtube.com/watch?v=wl92dksfF60)**
-
-Ultimate Collection Robot Tobot Carbot Transformation: Athlon, Giga Seven, Master V & OPTIMUS PRIME! Welcome to the ...
-
-📺 Bob ToysReview
-
-👁️ 7K • 👍 12 • 💬 1 • ⏱️ 7:34 • 1d ago
+👁️ 36K • 👍 830 • 💬 56 • ⏱️ 2:33 • 2d ago
 
 ---
 
