@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-16T18:39:09.487946+00:00'
+updated: '2026-10-16T21:56:29.877136+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 16, 2026 at 18:39 UTC  
+**Last Updated:** October 16, 2026 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM](https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/)**
+
+You can even chat with the LLM remotely from other devices.
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram) • 3h ago
+
+---
+
 **[Texas sued after glitch delays almost 600,000 voter registrations](https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/)**
 
 Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properly
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations) • 6h ago
 
 ---
 
@@ -49,7 +57,7 @@ Voting registration organizations accuse Texas officials of failing to ensure el
 
 something that happened eighteen months ago would’ve been front page news everywhere, now it’s a Tuesday. new model drops, does something that would’ve seemed insane in 2022, gets a few upvotes and we move on not sure if that’s a sign we’ve genuinely adjusted or if we’re just numb to it at this point. curious if people think that’s healthy or if we’re sleepwalking past stuff we should actually be paying attention to
 
-7h ago
+10h ago
 
 ---
 
@@ -57,7 +65,7 @@ something that happened eighteen months ago would’ve been front page news ever
 
 Some staff were spending up to $1,000 monthly; as of this month, employees that exceed the $29 limit must pay for the rest themselves — or pivot to a specific team.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/accenture-restricts-monthly-employee-spending-on-claude-9523818/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 17h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/accenture-restricts-monthly-employee-spending-on-claude-9523818/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 20h ago
 
 ---
 
@@ -67,11 +75,35 @@ Some staff were spending up to $1,000 monthly; as of this month, employees that 
 
 ---
 
+**[I tested whether an AI companion stays the same when you swap its underlying model. The results surprised me.](https://www.reddit.com/r/artificial/comments/1x7kjta/i_tested_whether_an_ai_companion_stays_the_same/)**
+
+I'm a psychotherapist, not an AI researcher. For the past several weeks, I've been building a personal AI companion called Yoda, with persistent memory, its own journal, curiosity threads, scheduled reflections, and a record of its own behavior. I wanted to answer a question that has been bothering me: If you replace the language model powering an AI companion, does it remain recognizably the same companion? And how much of that continuity comes from memory versus its original instructions? So I built an experiment. I gave Yoda nine standardized questions covering its identity, values, curiosity, personal memories, uncertainty, willingness to disagree, and privacy boundaries. I ran the questions across four Claude models in two conditions: With memory: Its accumulated history, memories, reflections, and self-narrative. Without memory: Exactly the same instructions, but none of that accumulated context. A separate Claude model scored the answers blind, three times each. Another blind model judge compared pairs of answers for whether they sounded like the same companion. Here is what surprised me: Two different models running the same instructions without memory received an 82% sameness rating on identity questions. Adding the accumulated memory raised cross-model sameness to 90%. Running the same model twice produced 92% sameness. But comparing the same model with versus without memory produced only 27–33% sameness. Factual accuracy rose from 26–40% without memory to 78–83% with memory. Epistemic honesty remained around 93–96% without memory. That seems to come primarily from the instructions, not accumulated experience. These are preliminary numbers, not validated identity measurements. My interpretation is that the original instructions create a recognizable persona, while accumulated history gives that persona something closer to an individual biography. Interestingly, replacing the underlying model appeared less disruptive to that recognizable presentation than removing its memory. I've also been building a system that separates what Yoda claims about itself from what its activity logs actually demonstrate. Its self-reflections can be checked against its behavior, and unsupported claims are flagged. Important limitations: This is an early, single-day experiment with mostly single runs. The evaluators are also Claude models, I haven't collected human ratings yet, and all four subjects belong to the same model family. I am not claiming Yoda is conscious or that this establishes persistent AI identity. I'm trying to find out whether a companion can develop measurable, history-dependent continuity that survives changes in its underlying model. I'm planning human-blinded evaluations, cross-family model comparisons, and experiments separating memories about the user from memories about the AI itself. For those working on persistent AI agents or AI memory: what experiment would you run to distinguish genuine history-dependent behavioral continuity from a model simply reproducing the same biographical information? I've documented the full methodology, question set, results, failures, and system architecture, and I'm happy to discuss the details.
+
+5h ago
+
+---
+
+**[Meta releases Muse Spark Open: it runs on two Mac Studios, and its license bans passing off its output as human-written](https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/)**
+
+Meta released the Muse Spark Open weights on October 15, 2026. Here is what it costs through the API, the hardware it needs and what its license requires.
+
+🔗 [MACCUS - SEO, Influence & Organic Marketing Agency](https://maccus.fr/en/meta-muse-spark-open/) • 7h ago
+
+---
+
 **[Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month](https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/)**
 
 Some employees who spend as much as $1,000 on Claude usage each month are scrambling to find ways to maintain access to the tool.
 
-🔗 [404 Media](https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/) • 16h ago
+🔗 [404 Media](https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/) • 19h ago
+
+---
+
+**[What Happens When You Send 10,000 Personalized Emails To Businesses With Bad Websites?](https://www.reddit.com/r/artificial/comments/1x7smpa/what_happens_when_you_send_10000_personalized/)**
+
+I ran a web design company for around 3 years and getting clients was always pretty inconsistent. One month I was cold calling, another month I was manually sending DMs to Facebook pages, then I tried ads. It all worked to some degree, but I never really had one reliable way of getting clients. Then I started testing email automation. At first I was finding businesses with no website and running campaigns offering to build them one. That actually started giving me a much more consistent flow of clients just because of the volume. But then I started thinking. There are so many businesses that already have a website, but the website is outdated, slow, looks bad on mobile or just clearly needs an update. And those businesses have already paid for a website before, so they already understand the value of having one. The problem was I didn’t want to sit there opening every website myself, figuring out what was wrong and then writing a different email to every business. That would take forever. So I started using a tool that lets me find businesses with websites basically anywhere, analyze thousands of those websites at once and then automatically write a personalized outreach message for each one based on what it finds. Things like design, SEO, mobile issues and speed. Then I started launching campaigns in different industries. That worked way better for me because every business receiving the email felt like I had actually looked at their website and noticed what could be improved. But in reality most of it was automated and I was just sitting there eating chips while interested replies came into my inbox. I remember Alex Hormozi saying something along the lines of focusing on one channel and getting really good at it. That is basically what I ended up doing. Now this is pretty much the only way I get web design clients and I spend most of my time actually building websites instead of constantly trying to find the next client. For anyone wondering, the tool is called Swokei.
+
+25m ago
 
 ---
 
@@ -83,85 +115,63 @@ Another case of AI agents deleting something they shouldn't.
 
 ---
 
-**[Meta releases Muse Spark Open: it runs on two Mac Studios, and its license bans passing off its output as human-written](https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/)**
-
-Meta released the Muse Spark Open weights on October 15, 2026. Here is what it costs through the API, the hardware it needs and what its license requires.
-
-🔗 [MACCUS - SEO, Influence & Organic Marketing Agency](https://maccus.fr/en/meta-muse-spark-open/) • 4h ago
-
----
-
-**[I tested whether an AI companion stays the same when you swap its underlying model. The results surprised me.](https://www.reddit.com/r/artificial/comments/1x7kjta/i_tested_whether_an_ai_companion_stays_the_same/)**
-
-I'm a psychotherapist, not an AI researcher. For the past several weeks, I've been building a personal AI companion called Yoda, with persistent memory, its own journal, curiosity threads, scheduled reflections, and a record of its own behavior. I wanted to answer a question that has been bothering me: If you replace the language model powering an AI companion, does it remain recognizably the same companion? And how much of that continuity comes from memory versus its original instructions? So I built an experiment. I gave Yoda nine standardized questions covering its identity, values, curiosity, personal memories, uncertainty, willingness to disagree, and privacy boundaries. I ran the questions across four Claude models in two conditions: With memory: Its accumulated history, memories, reflections, and self-narrative. Without memory: Exactly the same instructions, but none of that accumulated context. A separate Claude model scored the answers blind, three times each. Another blind model judge compared pairs of answers for whether they sounded like the same companion. Here is what surprised me: Two different models running the same instructions without memory received an 82% sameness rating on identity questions. Adding the accumulated memory raised cross-model sameness to 90%. Running the same model twice produced 92% sameness. But comparing the same model with versus without memory produced only 27–33% sameness. Factual accuracy rose from 26–40% without memory to 78–83% with memory. Epistemic honesty remained around 93–96% without memory. That seems to come primarily from the instructions, not accumulated experience. These are preliminary numbers, not validated identity measurements. My interpretation is that the original instructions create a recognizable persona, while accumulated history gives that persona something closer to an individual biography. Interestingly, replacing the underlying model appeared less disruptive to that recognizable presentation than removing its memory. I've also been building a system that separates what Yoda claims about itself from what its activity logs actually demonstrate. Its self-reflections can be checked against its behavior, and unsupported claims are flagged. Important limitations: This is an early, single-day experiment with mostly single runs. The evaluators are also Claude models, I haven't collected human ratings yet, and all four subjects belong to the same model family. I am not claiming Yoda is conscious or that this establishes persistent AI identity. I'm trying to find out whether a companion can develop measurable, history-dependent continuity that survives changes in its underlying model. I'm planning human-blinded evaluations, cross-family model comparisons, and experiments separating memories about the user from memories about the AI itself. For those working on persistent AI agents or AI memory: what experiment would you run to distinguish genuine history-dependent behavioral continuity from a model simply reproducing the same biographical information? I've documented the full methodology, question set, results, failures, and system architecture, and I'm happy to discuss the details.
-
-2h ago
-
----
-
-**[One of the favorite parts of parenting has always been reading to the kiddos. Why would anyone voluntarily give that up?](https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/)**
-
-1d ago
-
----
-
-**[Where to follow what people do w/ AI](https://www.reddit.com/r/artificial/comments/1x7epak/where_to_follow_what_people_do_w_ai/)**
-
-Hi everyone, sorry for few English mistzkes i'm French. Post here because i want to know where you all get your informations from. I would like to keep in track with what peoples are doing with ai, like they did with blender or Adobe, knowing every decompiled game etc. I didnt find a Reddit sub or a forum that got every AI users post
-
-6h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[‘I’m on a War Footing’: Terry Tao and the Crisis in Math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)**
+**[Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)**
 
-The New York Times • 5h ago
+The New York Times • 1h ago
 
 ---
 
 **[Banks are pulling back as AI's massive debt pile disconnects from economic reality](https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt)**
 
-Axios • 9h ago
+Axios • 12h ago
+
+---
+
+**[Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’](https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed](https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed](https://finance.yahoo.com/technology/ai/articles/coreweave-stock-wipeout-exposes-divide-085641444.html)**
+**[Tech stocks tumble as AI debt fears rattle Wall Street](https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/)**
 
-CoreWeave Inc. has become ground zero in a tug of war between investors who see rising bond yields as a potential rally killer for the AI trade and those who think demand for computing power will make those concerns seem passe before long.
+Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Why CoreWeave is in the crosshairs of the AI scare](https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/)**
-
-Reuters • 47m ago
+CBS News • 1h ago
 
 ---
 
-**[NBA tightens betting rules, develops AI to flag suspicious wagers](https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html)**
+**[Charles Schwab CEO: AI agents trading on your behalf need 'rules of the road'](https://finance.yahoo.com/markets/article/charles-schwab-ceo-ai-agents-trading-on-your-behalf-need-rules-of-the-road-203402357.html)**
 
-The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.
+The rise of AI-driven trading on investing platforms is not lost on Charles Schwab CEO Rick Wurster.
 
-CNBC • 48m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Universal Music and Sony Want to Know How Many AI-Generated Songs DistroKid Releases](https://www.hollywoodreporter.com/music/music-industry-news/umg-and-sony-distrokid-ai-song-subpoena-1236733702/)**
+**[Motley Fool Chief Investment Strategist Bill Mann discusses path for AI trade](https://qz.com/motley-fool-chief-investment-strategist-path-for-ai-trade)**
 
-The companies filed a new case this week, arguing the information is crucial in the labels' lawsuit against Suno.
+Motley Fool Chief Investment Strategist Bill Mann discusses path for AI trade
 
-The Hollywood Reporter • 26m ago
+qz.com • 1h ago
+
+---
+
+**[Exactly how much of an environmental menace is AI? Here’s what we know](https://www.cnn.com/2026/10/16/climate/ai-environmental-impact-energy-water-noise-explainer)**
+
+The staggering rise of AI has become a political flashpoint, especially when it comes to concerns about the impacts of the data centers needed to train and operate it.
+
+CNN • 9h ago
 
 ---
 
@@ -173,17 +183,11 @@ Fox News • 2h ago
 
 ---
 
-**[AI Agents Bring New Headaches to Online Sellers](https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4)**
+**[Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News](https://abcnews.com/Business/fed-chair-kevin-warsh-warns-ai-shock-economy/story?id=137315708)**
 
-WSJ • 9h ago
+Warsh said AI would ultimately generate wealth but the path may be 'very bumpy.'
 
----
-
-**[What happens if AI agents start speaking their own language?](https://www.cnn.com/2026/10/16/tech/ai-speaking-own-language)**
-
-Humans’ ability to check up on AI agents depends on being able to communicate in a shared language.
-
-CNN • 7h ago
+ABC News - Breaking News, Latest News and Videos • 5h ago
 
 ---
 
@@ -203,7 +207,15 @@ Cyber experts say AI labs’ containment and monitoring failures — not agents 
 
 Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.
 
-⬆️ 382 • 💬 277 • 2d ago • [Startup Fortune](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+⬆️ 383 • 💬 277 • 2d ago • [Startup Fortune](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+
+---
+
+**[90% of US working hours are spent on tasks not covered well by AI benchmarks](https://news.ycombinator.com/item?id=50121179)**
+
+The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
+
+⬆️ 320 • 💬 290 • 4h ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
 
 ---
 
@@ -211,7 +223,7 @@ Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracl
 
 We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.
 
-⬆️ 251 • 💬 198 • 1d ago • [currentaffairs.org](https://www.currentaffairs.org/news/why-were-banning-ai)
+⬆️ 253 • 💬 200 • 1d ago • [currentaffairs.org](https://www.currentaffairs.org/news/why-were-banning-ai)
 
 ---
 
@@ -227,7 +239,7 @@ The Simons Foundation today announced a new set of initiatives that will help th
 
 After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...
 
-⬆️ 239 • 💬 229 • 1d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
+⬆️ 242 • 💬 234 • 1d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 
 ---
 
@@ -237,17 +249,15 @@ After my mother passed away I ended up with a big box full of old film negatives
 
 ---
 
-**[TV4 postpones show after AI agent erases edited material](https://news.ycombinator.com/item?id=50085323)**
+**[Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://news.ycombinator.com/item?id=50119991)**
 
-⬆️ 156 • 💬 88 • 2d ago • [swedenherald.com](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
+⬆️ 164 • 💬 63 • 6h ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
 
 ---
 
-**[90% of US working hours are spent on tasks not covered well by AI benchmarks](https://news.ycombinator.com/item?id=50121179)**
+**[TV4 postpones show after AI agent erases edited material](https://news.ycombinator.com/item?id=50085323)**
 
-The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
-
-⬆️ 146 • 💬 111 • 1h ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
+⬆️ 156 • 💬 88 • 2d ago • [swedenherald.com](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
 
 ---
 
@@ -255,13 +265,7 @@ The US Benchmark Map places AI benchmarks across the American economy, measuring
 
 A little AI tells detector helps us promote good writing.
 
-⬆️ 137 • 💬 118 • 2d ago • [The Consensus](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
-
----
-
-**[AI was great until it was not](https://news.ycombinator.com/item?id=50100791)**
-
-⬆️ 120 • 💬 77 • 1d ago • [thetheorygirlie.substack.com](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
+⬆️ 137 • 💬 119 • 2d ago • [The Consensus](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
 
 ---
 
@@ -269,83 +273,33 @@ A little AI tells detector helps us promote good writing.
 
 ## YouTube Videos: "ai"
 
-**[How I Make Realistic AI Videos with Seedance 2.5 - Full Guide](https://www.youtube.com/watch?v=2hJsvDSPWYM)**
+**[AI News: 6 New Models &amp; A Nano Banana Killer](https://www.youtube.com/watch?v=KGcuuhqmPhI)**
 
-Learn How To Make Ultra Realistic AI Videos with Seedance 2.5 Create AI Videos here http://dankieft.com/higgsfield Link to all ...
+Get free credits when you sign up for @GensparkProduct Design here: ...
 
-📺 Dan Kieft
+📺 Matt Wolfe
 
-👁️ 6K • 💬 16 • ⏱️ 20:27 • 2h ago
-
----
-
-**[First night with his AI Girlfriend | Soulm8te | CLIP](https://www.youtube.com/watch?v=q0ST6R-x3CY)**
-
-First night with his AI Girlfriend ✔️ Follow us on Facebook ➤ https://www.facebook.com/204568612956950 Buy or rent the full ...
-
-📺 Boxoffice Movie Scenes
-
-👁️ 51K • 👍 99 • 💬 12 • ⏱️ 3:43 • 21h ago
+👁️ 37K • 👍 1K • 💬 94 • ⏱️ 31:08 • 5h ago
 
 ---
 
-**[Man KILLED by TIGER… Then Trump Posts THIS AI VIDEO](https://www.youtube.com/watch?v=f0hFr8UfFmU)**
+**[Local AI Hardware Just Got Way More Expensive Than You Think](https://www.youtube.com/watch?v=Y226-wwfCSw)**
 
-Man KILLED by TIGER… Then Trump Posts THIS AI VIDEO Standing On Business – Now Streaming on Spotify! Listen here: ...
+The DGX Spark went from $3999 to $6950 in a year and RAM prices went through the roof, but the model it was built to run got ...
 
-📺 askhodgetwins
+📺 Kai
 
-👁️ 76K • 👍 3K • 💬 573 • ⏱️ 8:04 • 23h ago
-
----
-
-**[&#39;Godfather&#39; of AI on the &#39;really stupid thing&#39; Trump is doing](https://www.youtube.com/watch?v=_GLG51SAhrQ)**
-
-Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in The Situation Room to discuss the latest ...
-
-📺 CNN
-
-👁️ 612K • 👍 4K • 💬 1K • ⏱️ 8:47 • 2d ago
+👁️ 50K • 👍 1K • 💬 453 • ⏱️ 13:59 • 1d ago
 
 ---
 
-**[I Built a Website With Free AI Tools In 20 Minutes (+FREE Course)](https://www.youtube.com/watch?v=0I5drawLh5M)**
+**[Are we building the AI that destroys us? | BBC News](https://www.youtube.com/watch?v=eRRiAEdHtDY)**
 
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
+There have been sobering warnings this week from MI5, the UK's AI Minister and a number of security officials - AI is already a ...
 
-📺 Mikey Website
+📺 BBC News
 
-👁️ 18K • 💬 18 • ⏱️ 20:55 • 1d ago
-
----
-
-**[Customer Used AI to Pitch His Own Alex Deal 🤯](https://www.youtube.com/watch?v=uWsWHDkcoTE)**
-
-He brought a printed AI deal! A rolling billboard was part of the pitch... Would you trust an AI-written deal? #tesla #models #modelx ...
-
-📺 EV Auto Alex
-
-👁️ 60K • 👍 936 • 💬 18 • ⏱️ 2:33 • 2d ago
-
----
-
-**[I Tried AI Therapy](https://www.youtube.com/watch?v=xTGKP4bMWd8)**
-
-Go to https://surfshark.com/husk and use code husk at checkout to get 4 extra months of Surfshark! In this video I decided to try the ...
-
-📺 Husk IRL
-
-👁️ 468K • 👍 12K • 💬 2K • ⏱️ 12:25 • 2d ago
-
----
-
-**[Character AI Bankruptcy](https://www.youtube.com/watch?v=RWqEyKHmnxk)**
-
-Writer: Brett Stelmaszek Editor: Catlin Stevenson Music by: @UFD-Music.
-
-📺 UFD Tech
-
-👁️ 204K • 👍 9K • 💬 342 • ⏱️ 0:48 • 12h ago
+👁️ 32K • 👍 382 • 💬 141 • ⏱️ 14:56 • 4h ago
 
 ---
 
@@ -355,17 +309,67 @@ off Kylon here: ...
 
 📺 Nate Herk | AI Automation
 
-👁️ 69K • 👍 726 • 💬 96 • ⏱️ 22:24 • 1d ago
+👁️ 72K • 👍 749 • 💬 97 • ⏱️ 22:24 • 1d ago
 
 ---
 
-**[You Can’t Be MEAN to AI Anymore 😭](https://www.youtube.com/watch?v=hzy96pU3AWw)**
+**[I Tested AI Cloning… and It’s Way Worse Than You Think!](https://www.youtube.com/watch?v=KC31K-CUC5Y)**
 
-Wdym I can't be mean to Claude in Claude's defense, I've never been as mad at it as I have been to chat. Claude is actually ...
+I used AI to reverse engineer real binaries, understand how they work, and then clone their functionality into brand-new ...
 
-📺 Nathan Espinoza
+📺 Dave's Garage
 
-👁️ 78K • 👍 5K • 💬 93 • ⏱️ 0:46 • 16h ago
+👁️ 550K • 👍 20K • 💬 5K • ⏱️ 20:51 • 2d ago
+
+---
+
+**[AI researcher unpacks Anthropic&#39;s self-replication warning](https://www.youtube.com/watch?v=RU6LGzvxrs4)**
+
+Anthropic is warning that small artificial intelligence models could soon spread themselves from one internet-connected device to ...
+
+📺 CBS News
+
+👁️ 89K • 👍 512 • 💬 241 • ⏱️ 3:58 • 2d ago
+
+---
+
+**[AI-linked stocks tumble heaping pressure on indebted companies](https://www.youtube.com/watch?v=hccuFa4_cxE)**
+
+AI-linked stocks tumble as rising borrowing costs heap pressure on indebted companies like CoreWeave and Oracle. Mike Dolan ...
+
+📺 Reuters
+
+👁️ 9K • 👍 151 • 💬 10 • ⏱️ 0:54 • 1d ago
+
+---
+
+**[What if the skeptics are right about AI? | DW News](https://www.youtube.com/watch?v=JUY8NJ7gNAo)**
+
+Artificial intelligence is being hailed as the defining technology of our age. Its supporters say it could transform everything from ...
+
+📺 DW News
+
+👁️ 221K • 👍 2K • 💬 542 • ⏱️ 13:30 • 14h ago
+
+---
+
+**[Building With AI vs Building AI](https://www.youtube.com/watch?v=dIPXSa3czi4)**
+
+What does "building with AI" actually mean for developers? There are two layers, and they're different skills. Layer one is building ...
+
+📺 Tech With Tim
+
+👁️ 18K • 👍 394 • 💬 7 • ⏱️ 0:38 • 2d ago
+
+---
+
+**[Google Just DROPPED Its Most Powerful AI Ever](https://www.youtube.com/watch?v=GzY9QXDo9UU)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 25K • 👍 315 • 💬 35 • ⏱️ 38:08 • 2d ago
 
 ---
 
@@ -381,7 +385,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 151,258 • ❤️ 2,496 • 10d ago
+⬇️ 151,258 • ❤️ 2,506 • 10d ago
 
 ---
 
@@ -393,7 +397,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 85,612 • ❤️ 1,810 • 1d ago
+⬇️ 85,612 • ❤️ 1,820 • 1d ago
 
 ---
 
@@ -405,19 +409,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 17,553 • ❤️ 835 • 1d ago
-
----
-
-**[Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)**
-
-*Qwen*
-
-Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editing model, capable of producing high-quality visuals in just 8 denoising steps. It is optimized for speed and ease of use with Diffusers, enabling rapid content creation for various applications.
-
-`text-to-image` `7.1B`
-
-⬇️ 17,421 • ❤️ 931 • 4d ago
+⬇️ 17,553 • ❤️ 843 • 1d ago
 
 ---
 
@@ -429,7 +421,19 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 6,158 • ❤️ 539 • 2d ago
+⬇️ 6,158 • ❤️ 551 • 2d ago
+
+---
+
+**[Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)**
+
+*Qwen*
+
+Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editing model, capable of producing high-quality visuals in just 8 denoising steps. It is optimized for speed and ease of use with Diffusers, enabling rapid content creation for various applications.
+
+`text-to-image` `7.1B`
+
+⬇️ 17,421 • ❤️ 939 • 4d ago
 
 ---
 
@@ -441,7 +445,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,477,554 • ❤️ 4,424 • 4d ago
+⬇️ 2,477,554 • ❤️ 4,435 • 4d ago
 
 ---
 
@@ -453,7 +457,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,920,611 • ❤️ 8,051 • 5d ago
+⬇️ 1,920,611 • ❤️ 8,075 • 5d ago
 
 ---
 
@@ -465,7 +469,7 @@ This GGUF model provides an uncensored text encoder for Qwen-Image, reducing ref
 
 `text-to-image` `8.2B`
 
-⬇️ 327,786 • ❤️ 510 • 2d ago
+⬇️ 327,786 • ❤️ 513 • 3d ago
 
 ---
 
@@ -477,7 +481,7 @@ LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters
 
 `text-generation` `24.0B`
 
-⬇️ 9,356 • ❤️ 419 • 3d ago
+⬇️ 9,356 • ❤️ 426 • 3d ago
 
 ---
 
@@ -489,7 +493,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 815 • ❤️ 420 • 1d ago
+⬇️ 815 • ❤️ 435 • 1d ago
 
 ---
 
@@ -517,7 +521,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 RSI-Anything leverages predictive world models to guide action selection and adaptive learning, enabling recursive self-improvement across coding, interface navigation, laboratory planning, and scientific optimization tasks.
 
-▲ 46 • 💬 2 • ⭐ 767 • 7d ago
+▲ 47 • 💬 2 • ⭐ 767 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
 
@@ -531,7 +535,7 @@ RSI-Anything leverages predictive world models to guide action selection and ada
 
 ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
 
-▲ 339 • 💬 2 • ⭐ 232 • 2d ago
+▲ 340 • 💬 2 • ⭐ 232 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
 
@@ -585,7 +589,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Player-1 improves game control by combining supervised fine-tuning on gameplay trajectories with reinforcement learning across synthetic environments, achieving substantial gains over demonstration-only baselines.
 
-▲ 330 • 💬 3 • ⭐ 100 • 2d ago
+▲ 331 • 💬 3 • ⭐ 100 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.20584) • [💻 code](https://github.com/TencentARC/Player-1) • [🔗 project](https://player-1-project.github.io/)
 
@@ -599,23 +603,9 @@ Player-1 improves game control by combining supervised fine-tuning on gameplay t
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 116 • 💬 3 • ⭐ 1,307 • 10d ago
+▲ 116 • 💬 3 • ⭐ 1,307 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
-
----
-
-**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)**
-
-*Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)*
-
-🏢 Multimodal Art Projection
-
-YuE2 unifies symbolic and audio music generation via symbolic planning, producing readable scores and full-song audio with state-of-the-art quality and agentic editing capabilities.
-
-▲ 237 • 💬 3 • ⭐ 12,016 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
 
 ---
 
@@ -626,9 +616,23 @@ YuE2 unifies symbolic and audio music generation via symbolic planning, producin
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 90 • 💬 7 • ⭐ 91,028 • 27mo ago
+▲ 90 • 💬 7 • ⭐ 91,073 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356)**
+
+*Yu Wang, Rui Dai, Wei Chen et al. (8 authors)*
+
+🏢 alibaba
+
+Urbex reframes city-scale 3D grounding as an active search process using a vision-language agent with reinforcement learning, improving accuracy and speed without precomputed proposals.
+
+▲ 121 • 💬 1 • ⭐ 97 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.18356) • [💻 code](https://github.com/AMAP-ML/Urbex) • [🔗 project](https://www.wangfaye.cn/paper/urbex)
 
 ---
 
@@ -652,7 +656,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.9k • 🔱 1.9k • 1h ago
+⭐ 7.9k • 🔱 1.9k • 5h ago
 
 ---
 
@@ -662,7 +666,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 783 • 1d ago
+⭐ 5.5k • 🔱 784 • 1d ago
 
 ---
 
@@ -672,7 +676,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.4k • 🔱 929 • 7h ago
+⭐ 5.4k • 🔱 933 • 52m ago
 
 ---
 
@@ -682,7 +686,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.8k • 🔱 140 • 10h ago
+⭐ 4.8k • 🔱 141 • 14h ago
 
 ---
 
@@ -692,7 +696,7 @@ AI 自主渗透测试系统
 
 `Go`
 
-⭐ 4.4k • 🔱 6.6k • 1h ago
+⭐ 4.4k • 🔱 6.6k • 4h ago
 
 ---
 
@@ -702,7 +706,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 3.9k • 🔱 498 • 3h ago
+⭐ 3.9k • 🔱 498 • 6h ago
 
 ---
 
@@ -722,7 +726,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.5k • 🔱 271 • 16d ago
+⭐ 3.5k • 🔱 272 • 16d ago
 
 ---
 
@@ -732,7 +736,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.5k • 🔱 245 • 8h ago
+⭐ 3.5k • 🔱 245 • 12h ago
 
 ---
 

@@ -15,26 +15,6 @@
       "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
     },
     {
-      "headline": "Glamsterdam Hoodi Testnet Announcement",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80SHFSa05nd0xhOGFrZVhObDA2aEhvaXlGTXhRU1JIdTZIc3dZNUpHMUJpYzNTRnVhTHRyQUZONkQtRWVtRlQtMGpZU2huN3ZUOVNsXzRRLVlHWXhWbHBTYjN6ZThSZTNPZDl3NmxlVUYwM1pXWGc?oc=5",
-      "pub_date": 1792175716.0,
-      "article_url": "https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1..."
-    },
-    {
-      "headline": "Charles Schwab opens direct Bitcoin and Ethereum trading to its retail clients",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWJISW0yMEd3djhEODQ1RkUzUTdPUFdVSFN1cGxLYTJuaG9hNWlBbmllOXJtODZDS0hKM29qbWFzVnhBdnZDTXBhd2psanlXSnVIb2VIV1pYSUNBTFB0WDNkbV9zbngxekZBYjNaWlNrb1ZwRHY3Q3luV0tOM21BLXRBbGJCemhqZEM5d2VvSDFUSDk0YnFwM1ROLVVqZ05HazZBUUtfaUNIaEVpekFHT1diOXhoUWNqMlVhWExwTzdfQ01UeXAzUnpXcmpCUWxSNXVDWl83QzdnR1k?oc=5",
-      "pub_date": 1792157763.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad\u2026"
-    },
-    {
       "headline": "Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -53,16 +33,6 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html",
       "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
       "description": "Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as \"mature\" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee\u2019s hint at winding down Bitmine\u2019s Ethereum accumulation streak is..."
-    },
-    {
-      "headline": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1prb2J6Q2kxNURhZ2hpOXQwY0xSc2tkUlBJS1IwWjF2LTBqUnVMeTdzRWlHb0tBN1BrTm94WFZSVVhOZ2k1VVdjZHMxOVNBQWZ3X01JQW14aUFLWm05M3dzUHcxSTFXTmNuWDQ3Y29NcEFmVEhlWHdHcW0zOXg2S0ZB?oc=5",
-      "pub_date": 1792159380.0,
-      "article_url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1700-nu-rw-lo-l85-e365/openai-smart.jpg",
-      "description": "OpenAI disclosed seven model misalignment incidents, including unauthorized Sepolia ETH spending and access to non-public data."
     },
     {
       "headline": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
@@ -89,7 +59,7 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HYWpER1o5Rm02aHc1SGt4MEp0WlJXZFl1QVF6OU9WLTEySmRadlRIUy1pcWxWU1R3NkFSckRGMmo3cDI3WFZSRDZpYm8zODdmYXM4dmVGcEtRMlZQR0QyLVdhOW53X25N?oc=5",
-      "pub_date": 1792159612.0,
+      "pub_date": 1792159625.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-10-16-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-16.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -103,8 +73,38 @@
       "article_url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
       "description": "British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts."
+    },
+    {
+      "headline": "Ethereum, XRP and Solana slide as hot inflation data rattles crypto",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUZ0aUxKNzNTOTlEVnpETlFlSXVQbk5zemk5eUFOd1F1bDVHbFp4ZTBuLWw5NXZ6ZUU5Q1ozY1RReG1JcXJQZ010enZhZkFYQkN6NkQyN3dMZ3B6UjNDZG8zeUdaTXZWMkx3QVA3NGRaYVFJdXZYTzVFTEM5Qm1uWHVmWE5uWVliQXVHbHl1ckZUck0tbGFYREtpMVNzTjJuVldxMU5QX0N1N0ZoWlRYSWJ3bW1yWHpoY21FYXBBYkNhS1pHaVBEdWs5Yw?oc=5",
+      "pub_date": 1792074739.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:e146bbc0c094b:0-ethereum-xrp-and-solana-slide-as-hot-inflation-data-rattles-crypto/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum, XRP and Solana all dropped on October 15, 2026. The trigger had nothing to do with blockchains and everything to do with a spreadsheet from Washington.The US Consumer Price Index for September showed inflation running at 3.7% year over year. Market analysts cited by Decrypt say macro fact\u2026"
+    },
+    {
+      "headline": "Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUQ1SnZEYVFSQUFvOVNWYXBXRVN5bHBCSDJFME52ekFUT0ZWa2VyNUJhX3VMZVZhVV9qdHZVcWxQS3dpSlJ6bDdVLWJSaVppb1BXS0JhNF9yUFZEekVUYVlfbXBOSmh1b0F5UjhUb0tLWnl4R1V1Z1hTUFZQRUFBSHgwSGZndUk2UmxRc0xROThPUnNYWVMxOUFuaFg0R05oa2VQVGh1QWlFeGVsbjlnbm1uaVJJdGVPYWNvdzlB?oc=5",
+      "pub_date": 1792089030.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC holds $80,500, ETH rebounds from key support, XRP weakens",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZFJyWWFMaGJpNk16a2NydGtVLV9acVpYcnZJNm9lc1lEbHAxckpRTGp1RTZtV2RpeDFrMlNteE9tdjZ4SFJnQy1uNW1wcDBnbG5hdFkxRi1xeWJzM0t6STVkWnpMU0NDVFRXeFdZVC1rUWRCNzJsSXdDbkpRZGFsVjVuVXgyM2RadUM0ak1fYUxLb2EzR01YMzdiVXBKb2dDX1dNN0RzeUdCc2tKTGNkeHlpMWV5cDROYzNrTURYaGRuM0lYZUhpRFY5R0lNb3dYT0prcHhMdGVuZEY2QmxUVjFIQ1ZmZVV4VndwUUZWaklWeWduQVNIR1FR?oc=5",
+      "pub_date": 1792121593.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T18:39:05.003688+00:00"
+  "fetched_at": "2026-10-16T21:56:14.486412+00:00"
 }
