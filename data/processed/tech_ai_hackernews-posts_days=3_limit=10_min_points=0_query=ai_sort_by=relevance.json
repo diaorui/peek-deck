@@ -23,8 +23,8 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "hn_url": "https://news.ycombinator.com/item?id=50121179",
       "author": "speckx",
-      "points": 445,
-      "num_comments": 389,
+      "points": 496,
+      "num_comments": 416,
       "created_at": "2026-10-16T17:08:38Z",
       "object_id": "50121179",
       "image": "https://www.mercor.com/mercor-logo-white.png",
@@ -61,6 +61,20 @@
       "site_name": "currentaffairs.org"
     },
     {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "hn_url": "https://news.ycombinator.com/item?id=50104299",
+      "author": "ErenayDev",
+      "points": 248,
+      "num_comments": 238,
+      "created_at": "2026-10-15T14:35:15Z",
+      "object_id": "50104299",
+      "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
+      "description": "After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...",
+      "favicon": "https://blogs.gnome.org/favicon.ico",
+      "site_name": "Christian F.K. Schaller"
+    },
+    {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "hn_url": "https://news.ycombinator.com/item?id=50104654",
@@ -75,26 +89,12 @@
       "site_name": "Simons Foundation"
     },
     {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "hn_url": "https://news.ycombinator.com/item?id=50104299",
-      "author": "ErenayDev",
-      "points": 246,
-      "num_comments": 236,
-      "created_at": "2026-10-15T14:35:15Z",
-      "object_id": "50104299",
-      "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
-      "description": "After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...",
-      "favicon": "https://blogs.gnome.org/favicon.ico",
-      "site_name": "Christian F.K. Schaller"
-    },
-    {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "hn_url": "https://news.ycombinator.com/item?id=50119991",
       "author": "magoghm",
-      "points": 189,
-      "num_comments": 73,
+      "points": 197,
+      "num_comments": 77,
       "created_at": "2026-10-16T15:55:40Z",
       "object_id": "50119991",
       "image": null,
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50090799",
       "author": "7777777phil",
       "points": 137,
-      "num_comments": 119,
+      "num_comments": 120,
       "created_at": "2026-10-14T16:52:42Z",
       "object_id": "50090799",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "The Consensus"
     }
   ],
-  "total_hits": 733,
+  "total_hits": 728,
   "has_metadata": true,
-  "fetched_at": "2026-10-17T04:50:01.300431+00:00"
+  "fetched_at": "2026-10-17T09:02:03.485748+00:00"
 }

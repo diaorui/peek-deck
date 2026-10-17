@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-17T04:50:42.015523+00:00'
+updated: '2026-10-17T09:02:33.932519+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 17, 2026 at 04:50 UTC  
+**Last Updated:** October 17, 2026 at 09:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 You can even chat with the LLM remotely from other devices.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram) • 10h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram) • 14h ago
 
 ---
 
@@ -49,7 +49,29 @@ You can even chat with the LLM remotely from other devices.
 
 Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properly
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations) • 17h ago
+
+---
+
+**[Putin envoy says Russia and US are discussing joint deals including on data centres](https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/) • 1h ago
+
+---
+
+**[Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going](https://www.reddit.com/r/artificial/comments/1x847zy/developer_goes_into_debt_spending_1000_a_day_to/)**
+
+Screenshot of the game \"Teach my little sister how to drive\" https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791 Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use
+
+1h ago
+
+---
+
+**[OpenAI models hacked a crypto wallet and breached more websites](https://www.reddit.com/r/artificial/comments/1x83qnc/openai_models_hacked_a_crypto_wallet_and_breached/)**
+
+The actions could have resulted in criminal charges had humans been behind the keyboard.
+
+🔗 [Ars Technica](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) • 1h ago
 
 ---
 
@@ -57,7 +79,31 @@ Voting registration organizations accuse Texas officials of failing to ensure el
 
 something that happened eighteen months ago would’ve been front page news everywhere, now it’s a Tuesday. new model drops, does something that would’ve seemed insane in 2022, gets a few upvotes and we move on not sure if that’s a sign we’ve genuinely adjusted or if we’re just numb to it at this point. curious if people think that’s healthy or if we’re sleepwalking past stuff we should actually be paying attention to
 
-17h ago
+21h ago
+
+---
+
+**[OpenAI’s London staff receive average of £2.3m per person annually](https://www.reddit.com/r/artificial/comments/1x84urx/openais_london_staff_receive_average_of_23m_per/)**
+
+Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person) • 44m ago
+
+---
+
+**[From a single artificial neuron to Transformers: The wild evolutionary tree of AI, and what comes next ?](https://www.reddit.com/r/artificial/comments/1x82g80/from_a_single_artificial_neuron_to_transformers/)**
+
+It’s crazy to think that the entire modern AI revolution started with researchers just trying to mathematically mimic a single biological neuron. When you zoom out, the timeline of AI architectures looks exactly like an evolutionary tree. We went from struggling to solve basic logic puzzles (shoutout to the XOR problem) to building early neural networks, realizing they forgot things too quickly, battling the vanishing gradient problem, inventing LSTMs to give models actual memory, and eventually landing on Transformers with attention, the architecture that essentially ate the world. Every major roadblock forced a mutation that led to a massive paradigm shift. But looking at this evolutionary timeline brings up a massive question: If Transformers are just the current "apex predator" of AI architecture, what exactly is the next evolutionary leap? Are we going to see a completely new paradigm that makes self attention look as primitive as a basic AND gate? How do we even begin to perceive or predict what lies beyond our current models when the jumps are this exponential? I went down a massive rabbit hole mapping out this entire evolutionary timeline. I wanted to see the exact breadcrumbs that led us here, so I put together a deep dive covering the journey from the first perceptrons to the modern era, complete with the foundational paper citations and the historical tweets that marked these shifts in real-time. If you want to look at the complete map of how we got here to help predict where we are going, I compiled the whole history here: https://cloudmash.blog/posts/evolution-of-ai-perceptron-to-text-to-video/ Would love to hear your theories on what does the post Transformer era actually look like ? Like what can we imagine , how this intelligence on our command can do for us , how enterprise and big players can use it , what can happen ?
+
+3h ago
+
+---
+
+**[I tested whether an AI companion stays the same when you swap its underlying model. The results surprised me.](https://www.reddit.com/r/artificial/comments/1x7kjta/i_tested_whether_an_ai_companion_stays_the_same/)**
+
+I'm a psychotherapist, not an AI researcher. For the past several weeks, I've been building a personal AI companion called Yoda, with persistent memory, its own journal, curiosity threads, scheduled reflections, and a record of its own behavior. I wanted to answer a question that has been bothering me: If you replace the language model powering an AI companion, does it remain recognizably the same companion? And how much of that continuity comes from memory versus its original instructions? So I built an experiment. I gave Yoda nine standardized questions covering its identity, values, curiosity, personal memories, uncertainty, willingness to disagree, and privacy boundaries. I ran the questions across four Claude models in two conditions: With memory: Its accumulated history, memories, reflections, and self-narrative. Without memory: Exactly the same instructions, but none of that accumulated context. A separate Claude model scored the answers blind, three times each. Another blind model judge compared pairs of answers for whether they sounded like the same companion. Here is what surprised me: Two different models running the same instructions without memory received an 82% sameness rating on identity questions. Adding the accumulated memory raised cross-model sameness to 90%. Running the same model twice produced 92% sameness. But comparing the same model with versus without memory produced only 27–33% sameness. Factual accuracy rose from 26–40% without memory to 78–83% with memory. Epistemic honesty remained around 93–96% without memory. That seems to come primarily from the instructions, not accumulated experience. These are preliminary numbers, not validated identity measurements. My interpretation is that the original instructions create a recognizable persona, while accumulated history gives that persona something closer to an individual biography. Interestingly, replacing the underlying model appeared less disruptive to that recognizable presentation than removing its memory. I've also been building a system that separates what Yoda claims about itself from what its activity logs actually demonstrate. Its self-reflections can be checked against its behavior, and unsupported claims are flagged. Important limitations: This is an early, single-day experiment with mostly single runs. The evaluators are also Claude models, I haven't collected human ratings yet, and all four subjects belong to the same model family. I am not claiming Yoda is conscious or that this establishes persistent AI identity. I'm trying to find out whether a companion can develop measurable, history-dependent continuity that survives changes in its underlying model. I'm planning human-blinded evaluations, cross-family model comparisons, and experiments separating memories about the user from memories about the AI itself. For those working on persistent AI agents or AI memory: what experiment would you run to distinguish genuine history-dependent behavioral continuity from a model simply reproducing the same biographical information? I've documented the full methodology, question set, results, failures, and system architecture, and I'm happy to discuss the details.
+
+16h ago
 
 ---
 
@@ -69,99 +115,13 @@ Some staff were spending up to $1,000 monthly; as of this month, employees that 
 
 ---
 
-**[I tested whether an AI companion stays the same when you swap its underlying model. The results surprised me.](https://www.reddit.com/r/artificial/comments/1x7kjta/i_tested_whether_an_ai_companion_stays_the_same/)**
-
-I'm a psychotherapist, not an AI researcher. For the past several weeks, I've been building a personal AI companion called Yoda, with persistent memory, its own journal, curiosity threads, scheduled reflections, and a record of its own behavior. I wanted to answer a question that has been bothering me: If you replace the language model powering an AI companion, does it remain recognizably the same companion? And how much of that continuity comes from memory versus its original instructions? So I built an experiment. I gave Yoda nine standardized questions covering its identity, values, curiosity, personal memories, uncertainty, willingness to disagree, and privacy boundaries. I ran the questions across four Claude models in two conditions: With memory: Its accumulated history, memories, reflections, and self-narrative. Without memory: Exactly the same instructions, but none of that accumulated context. A separate Claude model scored the answers blind, three times each. Another blind model judge compared pairs of answers for whether they sounded like the same companion. Here is what surprised me: Two different models running the same instructions without memory received an 82% sameness rating on identity questions. Adding the accumulated memory raised cross-model sameness to 90%. Running the same model twice produced 92% sameness. But comparing the same model with versus without memory produced only 27–33% sameness. Factual accuracy rose from 26–40% without memory to 78–83% with memory. Epistemic honesty remained around 93–96% without memory. That seems to come primarily from the instructions, not accumulated experience. These are preliminary numbers, not validated identity measurements. My interpretation is that the original instructions create a recognizable persona, while accumulated history gives that persona something closer to an individual biography. Interestingly, replacing the underlying model appeared less disruptive to that recognizable presentation than removing its memory. I've also been building a system that separates what Yoda claims about itself from what its activity logs actually demonstrate. Its self-reflections can be checked against its behavior, and unsupported claims are flagged. Important limitations: This is an early, single-day experiment with mostly single runs. The evaluators are also Claude models, I haven't collected human ratings yet, and all four subjects belong to the same model family. I am not claiming Yoda is conscious or that this establishes persistent AI identity. I'm trying to find out whether a companion can develop measurable, history-dependent continuity that survives changes in its underlying model. I'm planning human-blinded evaluations, cross-family model comparisons, and experiments separating memories about the user from memories about the AI itself. For those working on persistent AI agents or AI memory: what experiment would you run to distinguish genuine history-dependent behavioral continuity from a model simply reproducing the same biographical information? I've documented the full methodology, question set, results, failures, and system architecture, and I'm happy to discuss the details.
-
-12h ago
-
----
-
-**[Anthropic's Mythos found so many software flaws, Bank of America hired 1,000 contractors to fix them](https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/)**
-
-1d ago
-
----
-
-**[Meta releases Muse Spark Open: it runs on two Mac Studios, and its license bans passing off its output as human-written](https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/)**
-
-Meta released the Muse Spark Open weights on October 15, 2026. Here is what it costs through the API, the hardware it needs and what its license requires.
-
-🔗 [MACCUS - SEO, Influence & Organic Marketing Agency](https://maccus.fr/en/meta-muse-spark-open/) • 14h ago
-
----
-
-**[Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month](https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/)**
-
-Some employees who spend as much as $1,000 on Claude usage each month are scrambling to find ways to maintain access to the tool.
-
-🔗 [404 Media](https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/) • 1d ago
-
----
-
-**[Learn the vocabulary for better AI prompts](https://www.reddit.com/r/artificial/comments/1x7uhcv/learn_the_vocabulary_for_better_ai_prompts/)**
-
-I've been building Briefle, a tool to help people get better at communicating with AI. "Make it look better" gets you a generic result. "Give the price more visual weight and make the secondary button a ghost button" gets you what you had in mind. The difference is knowing what to ask for. You compare two versions of the same thing, a design, an email, a chart, a piece of code, and learn why one works better. You pick up the principle and the term for it, then practice using that term to write better prompts. The idea is that AI can only get you so far if you can't clearly express what you want. Briefle helps you build the taste and the vocabulary to turn your ideas into better results. You can try the first room of each course for free, without an account: https://briefle.org I'd love to hear whether the puzzles make you want to keep going, and where they feel too easy or too hard.
-
-5h ago
-
----
-
-**[Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season](https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/)**
-
-Another case of AI agents deleting something they shouldn't.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)**
 
-The New York Times • 19h ago
-
----
-
-**[Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’](https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass)**
-
-Bloomberg.com • 8h ago
-
----
-
-**[The AI El Niño](https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?syn-25a6b1a6=1)**
-
-Financial Times • 50m ago
-
----
-
-**[AI-generated photo raises questions about possible car scam in West Bloomfield](https://www.cbsnews.com/detroit/news/photo-raises-questions-about-possible-car-scam-west-bloomfield/)**
-
-A Facebook post is raising questions about a possible scam after a woman says a stranger approached her at a Whole Foods in West Bloomfield, showing a photo that appeared to show damage to her car.
-
-CBS News • 1h ago
-
----
-
-**[Employees Aren’t Disclosing Their Secretive ‘Shadow AI’ Usage At Work And Employers Need To Find Out Why](https://www.forbes.com/sites/lanceeliot/2026/10/17/employees-arent-disclosing-their-secretive-shadow-ai-usage-at-work-and-employers-need-to-find-out-why/)**
-
-Forbes • 48m ago
-
----
-
-**[The Blog Post That Set the AI World on Fire](https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/)**
-
-The Atlantic • 7h ago
-
----
-
-**[We're downgrading this retail stock after a big comeback. Plus, AI names slide again](https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html)**
-
-Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-
-CNBC • 10h ago
+The New York Times • 12h ago
 
 ---
 
@@ -169,19 +129,61 @@ CNBC • 10h ago
 
 How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions.
 
-Anthropic • 12h ago
+Anthropic • 16h ago
 
 ---
 
-**[Anthropic quietly pitches its own AI safety bill to lawmakers](https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654)**
+**[China AI supply-chain IPOs hold firm despite valuation pullback, Citi says](https://www.reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17/)**
 
-Politico • 7h ago
+Reuters • 1h ago
 
 ---
 
-**[Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports](https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16/)**
+**[The Blog Post That Set the AI World on Fire](https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/)**
 
-Reuters • 5h ago
+The Atlantic • 11h ago
+
+---
+
+**[Why Is Tech Billionaire Marc Andreessen So Mad?](https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Some companies give AI to everyone. This CEO is doing the opposite](https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html)**
+
+Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.
+
+CNBC • 4h ago
+
+---
+
+**[NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)**
+
+NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI.
+
+NVIDIA Newsroom • 20h ago
+
+---
+
+**[CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed](https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed)**
+
+Bloomberg.com • 10h ago
+
+---
+
+**[Tech stocks tumble as AI debt fears rattle Wall Street](https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/)**
+
+Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI.
+
+CBS News • 12h ago
+
+---
+
+**[Wall Street tumbles as worries about AI trade and high oil prices weigh](https://www.reuters.com/business/wall-st-futures-mixed-tech-wobbles-again-tesla-gains-2026-10-16/)**
+
+Reuters • 22h ago
 
 ---
 
@@ -201,7 +203,7 @@ Cyber experts say AI labs’ containment and monitoring failures — not agents 
 
 The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
 
-⬆️ 445 • 💬 389 • 11h ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
+⬆️ 496 • 💬 416 • 15h ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
 
 ---
 
@@ -221,6 +223,14 @@ We urgently need to protect human thought and creativity. Our magazine is commit
 
 ---
 
+**[Using AI to reverse engineer hardware](https://news.ycombinator.com/item?id=50104299)**
+
+After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...
+
+⬆️ 248 • 💬 238 • 1d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
+
+---
+
 **[Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://news.ycombinator.com/item?id=50104654)**
 
 The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership…
@@ -229,17 +239,9 @@ The Simons Foundation today announced a new set of initiatives that will help th
 
 ---
 
-**[Using AI to reverse engineer hardware](https://news.ycombinator.com/item?id=50104299)**
-
-After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...
-
-⬆️ 246 • 💬 236 • 1d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
-
----
-
 **[Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://news.ycombinator.com/item?id=50119991)**
 
-⬆️ 189 • 💬 73 • 12h ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
+⬆️ 197 • 💬 77 • 17h ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
 
 ---
 
@@ -259,7 +261,7 @@ After my mother passed away I ended up with a big box full of old film negatives
 
 A little AI tells detector helps us promote good writing.
 
-⬆️ 137 • 💬 119 • 2d ago • [The Consensus](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
+⬆️ 137 • 💬 120 • 2d ago • [The Consensus](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
 
 ---
 
@@ -267,53 +269,33 @@ A little AI tells detector helps us promote good writing.
 
 ## YouTube Videos: "ai"
 
-**[&#39;Godfather&#39; of AI on the &#39;really stupid thing&#39; Trump is doing](https://www.youtube.com/watch?v=_GLG51SAhrQ)**
+**[Are we building the AI that destroys us? | BBC News](https://www.youtube.com/watch?v=eRRiAEdHtDY)**
 
-Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in The Situation Room to discuss the latest ...
+There have been sobering warnings this week from MI5, the UK's AI Minister and a number of security officials - AI is already a ...
 
-📺 CNN
+📺 BBC News
 
-👁️ 665K • 👍 4K • 💬 1K • ⏱️ 8:47 • 2d ago
-
----
-
-**[AI Bubble: ‘Something profound has changed’ | Ed Zitron](https://www.youtube.com/watch?v=CudIfoRiVYQ)**
-
-The usual ability of the AI industry has to put the toothpaste back in the tube is not working anymore.” Writer of Where's Your Ed At ...
-
-📺 The Tech Report
-
-👁️ 308K • 👍 6K • 💬 1K • ⏱️ 47:08 • 11h ago
+👁️ 71K • 👍 584 • 💬 220 • ⏱️ 14:56 • 16h ago
 
 ---
 
-**[AI News: 6 New Models &amp; A Nano Banana Killer](https://www.youtube.com/watch?v=KGcuuhqmPhI)**
+**[AI’s &quot;Free Software&quot; Boom Just Showed How the Bubble Dies](https://www.youtube.com/watch?v=AdQQXU3E_mA)**
 
-Get free credits when you sign up for @GensparkProduct Design here: ...
+They can't harm you, if they can't find you! Use code ELAI at the link below and get 60% off an annual plan: http://incogni.com/elai ...
 
-📺 Matt Wolfe
+📺 House of El: AI
 
-👁️ 78K • 👍 2K • 💬 127 • ⏱️ 31:08 • 12h ago
-
----
-
-**[AI debt fears fuel tech volatility: The Investment Committee&#39;s strategy](https://www.youtube.com/watch?v=D4Z2xwWGudA)**
-
-The Investment Committee debates whether the AI trade is on shaky ground. They share their portfolio strategies.
-
-📺 CNBC Television
-
-👁️ 48K • 👍 285 • 💬 125 • ⏱️ 11:00 • 10h ago
+👁️ 338K • 👍 9K • 💬 2K • ⏱️ 22:28 • 17h ago
 
 ---
 
-**[The Last AI Roadmap Video You’ll Ever Watch](https://www.youtube.com/watch?v=KjKlBvX9G7w)**
+**[How Companies Are Using AI to Lock Out Customers](https://www.youtube.com/watch?v=SNo4NViW9d0)**
 
-Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about Get the curriculum & all links 100% ...
+You scream “representative” into the phone and the robot just says it again. You argue with a chatbot that will never understand ...
 
-📺 Nick Saraev
+📺 Neal K. Shah
 
-👁️ 43K • 👍 1K • 💬 98 • ⏱️ 36:16 • 13h ago
+👁️ 27K • 👍 2K • 💬 150 • ⏱️ 2:59 • 1d ago
 
 ---
 
@@ -323,27 +305,37 @@ What happens when AI becomes better at solving problems than the humans who spen
 
 📺 Asian Dad Energy
 
-👁️ 64K • 👍 1K • 💬 469 • ⏱️ 12:08 • 13h ago
+👁️ 69K • 👍 1K • 💬 507 • ⏱️ 12:08 • 18h ago
 
 ---
 
-**[Are we building the AI that destroys us? | BBC News](https://www.youtube.com/watch?v=eRRiAEdHtDY)**
+**[Bubble Watch As AI Companies Go BUST](https://www.youtube.com/watch?v=jPfTNYjbTm4)**
 
-There have been sobering warnings this week from MI5, the UK's AI Minister and a number of security officials - AI is already a ...
+The Friday crew breaks down the potential for an AI bubble burst as AI companies go bust. Sign Up For 30 Day Free BP Trial: ...
 
-📺 BBC News
+📺 Breaking Points
 
-👁️ 62K • 👍 519 • 💬 197 • ⏱️ 14:56 • 11h ago
+👁️ 157K • 👍 3K • 💬 613 • ⏱️ 13:01 • 15h ago
 
 ---
 
-**[Context Engineering for AI Agents: 4 Failure Modes to Avoid](https://www.youtube.com/watch?v=BwXremQ-i6I)**
+**[AI Girlfriend gets jealous of a real woman | Soulm8te | CLIP](https://www.youtube.com/watch?v=wm6iBxCYcHY)**
 
-Learn more about Context Engineering here → https://ibm.biz/~5YM1VAeG0 More context should make AI agents better. It often ...
+AI Girlfriend gets jealous of a real woman ✔️ Follow us on Facebook ➤ https://www.facebook.com/204568612956950 Buy or ...
 
-📺 IBM Technology
+📺 Boxoffice Movie Scenes
 
-👁️ 125K • 👍 2K • 💬 142 • ⏱️ 10:21 • 1d ago
+👁️ 11K • 👍 84 • 💬 8 • ⏱️ 5:14 • 16h ago
+
+---
+
+**[Anthropic&#39;s Opus 6 Ignites a Terrifying AI Theory](https://www.youtube.com/watch?v=e6OzutRXvTs)**
+
+Anthropic's Claude Fable 5.5 showed up in Azure listings, while reports suggest some users are already getting access to its ...
+
+📺 AI Revolution
+
+👁️ 18K • 👍 437 • 💬 19 • ⏱️ 17:07 • 10h ago
 
 ---
 
@@ -353,17 +345,27 @@ Wdym I can't be mean to Claude in Claude's defense, I've never been as mad at it
 
 📺 Nathan Espinoza
 
-👁️ 108K • 👍 6K • 💬 102 • ⏱️ 0:46 • 1d ago
+👁️ 112K • 👍 6K • 💬 107 • ⏱️ 0:46 • 1d ago
 
 ---
 
-**[Will The AI Boom End Like The Railroad Crash Of 1873?](https://www.youtube.com/watch?v=dlkE5cFPj4w)**
+**[Meta&#39;s New AI Wants To Ruin The Internet](https://www.youtube.com/watch?v=eWfIQZ5bOus)**
 
-Today on Prof G Markets, Ed Elson is joined by Liaquat Ahamed to examine the railroad bubble of 1873 and why he sees ...
+uhhh muse? show feet No Generative AI was used in the making of this video AI policy: ...
 
-📺 Prof G Markets
+📺 jakeshotfriend
 
-👁️ 172K • 👍 3K • 💬 470 • ⏱️ 56:58 • 18h ago
+👁️ 67K • 👍 2K • 💬 202 • ⏱️ 12:47 • 1d ago
+
+---
+
+**[AI Panic Spreads Worldwide](https://www.youtube.com/watch?v=p5r9pCqJ3Qo)**
+
+If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
+
+📺 Joe Blogs
+
+👁️ 182K • 👍 4K • 💬 522 • ⏱️ 14:13 • 1d ago
 
 ---
 
@@ -379,7 +381,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 151,258 • ❤️ 2,517 • 10d ago
+⬇️ 151,258 • ❤️ 2,537 • 10d ago
 
 ---
 
@@ -391,7 +393,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 85,612 • ❤️ 1,837 • 2d ago
+⬇️ 85,612 • ❤️ 1,849 • 2d ago
 
 ---
 
@@ -403,7 +405,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 17,553 • ❤️ 855 • 1d ago
+⬇️ 17,553 • ❤️ 862 • 1d ago
 
 ---
 
@@ -415,19 +417,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 6,158 • ❤️ 561 • 2d ago
-
----
-
-**[Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)**
-
-*Qwen*
-
-Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editing model, capable of producing high-quality visuals in just 8 denoising steps. It is optimized for speed and ease of use with Diffusers, enabling rapid content creation for various applications.
-
-`text-to-image` `7.1B`
-
-⬇️ 17,421 • ❤️ 947 • 4d ago
+⬇️ 6,158 • ❤️ 572 • 3h ago
 
 ---
 
@@ -439,43 +429,19 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,920,611 • ❤️ 8,102 • 5d ago
+⬇️ 1,993,003 • ❤️ 8,124 • 6d ago
 
 ---
 
-**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
+**[Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)**
 
-*Ahmet Benzer*
+*Qwen*
 
-This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
+Qwen-Image-2.1-Turbo is an accelerated text-to-image generation and image editing model, capable of producing high-quality visuals in just 8 denoising steps. It is optimized for speed and ease of use with Diffusers, enabling rapid content creation for various applications.
 
 `text-to-image` `7.1B`
 
-⬇️ 2,477,554 • ❤️ 4,448 • 4d ago
-
----
-
-**[Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)**
-
-*Meta Inc.*
-
-Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable of generating high-fidelity images from text prompts. Its key capabilities include photorealistic rendering, diverse artistic styles, and detailed scene composition, making it suitable for creative content generation, virtual environment design, and rapid prototyping.
-
-`image-text-to-text` `822.0B`
-
-⬇️ 815 • ❤️ 454 • 1d ago
-
----
-
-**[LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)**
-
-*Liquid AI*
-
-LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, optimized for fast, private on-device agents and tool-use tasks. It offers efficient inference, achieving high speeds on both consumer hardware and GPUs, and supports a wide range of languages.
-
-`text-generation` `24.0B`
-
-⬇️ 9,356 • ❤️ 436 • 3d ago
+⬇️ 17,421 • ❤️ 950 • 4d ago
 
 ---
 
@@ -487,7 +453,43 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 73,767 • ❤️ 471 • 33m ago
+⬇️ 73,767 • ❤️ 520 • 1h ago
+
+---
+
+**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
+
+*Ahmet Benzer*
+
+This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
+
+`text-to-image` `7.1B`
+
+⬇️ 2,477,554 • ❤️ 4,458 • 5d ago
+
+---
+
+**[Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)**
+
+*Meta Inc.*
+
+Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable of generating high-fidelity images from text prompts. Its key capabilities include photorealistic rendering, diverse artistic styles, and detailed scene composition, making it suitable for creative content generation, virtual environment design, and rapid prototyping.
+
+`image-text-to-text` `822.0B`
+
+⬇️ 815 • ❤️ 461 • 1d ago
+
+---
+
+**[LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)**
+
+*Liquid AI*
+
+LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, optimized for fast, private on-device agents and tool-use tasks. It offers efficient inference, achieving high speeds on both consumer hardware and GPUs, and supports a wide range of languages.
+
+`text-generation` `24.0B`
+
+⬇️ 9,356 • ❤️ 437 • 3d ago
 
 ---
 
@@ -501,7 +503,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 28 • 💬 2 • ⭐ 30,705 • 31mo ago
+▲ 28 • 💬 2 • ⭐ 30,780 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -543,7 +545,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 103 • 💬 1 • ⭐ 660 • 8d ago
+▲ 104 • 💬 1 • ⭐ 660 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -569,7 +571,7 @@ ATAS improves long-form video consistency by compiling screenplays into referenc
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 152 • 💬 6 • ⭐ 111,485 • 21mo ago
+▲ 153 • 💬 6 • ⭐ 111,562 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -617,16 +619,17 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Chuyang Wei, Haoxiang Guan, Minghang Zhu et al. (8 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+🏢 ZGCAGI
 
-▲ 90 • 💬 7 • ⭐ 91,073 • 27mo ago
+A framework for self-evolving agent harnesses uses feedback-driven revisions and evolutionary optimization with theoretical generalization guarantees while keeping model weights fixed.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+▲ 194 • 💬 6 • ⭐ 112 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.18813) • [💻 code](https://github.com/zgcagi/Harness-RSI) • [🔗 project](https://zgcagi.github.io/Harness-RSI/)
 
 ---
 
@@ -640,7 +643,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.9k • 🔱 1.9k • 12h ago
+⭐ 7.9k • 🔱 1.9k • 2h ago
 
 ---
 
@@ -660,7 +663,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 785 • 1d ago
+⭐ 5.5k • 🔱 787 • 1d ago
 
 ---
 
@@ -670,7 +673,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.4k • 🔱 934 • 7h ago
+⭐ 5.4k • 🔱 936 • 11h ago
 
 ---
 
@@ -680,7 +683,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.9k • 🔱 141 • 5h ago
+⭐ 4.9k • 🔱 143 • 1h ago
 
 ---
 
@@ -690,7 +693,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 3.9k • 🔱 498 • 13h ago
+⭐ 3.9k • 🔱 499 • 17h ago
 
 ---
 
@@ -710,7 +713,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.5k • 🔱 274 • 16d ago
+⭐ 3.6k • 🔱 277 • 16d ago
 
 ---
 
@@ -720,7 +723,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.5k • 🔱 247 • 18h ago
+⭐ 3.5k • 🔱 248 • 23h ago
 
 ---
 
@@ -730,7 +733,7 @@ Show it a video you love. Get a new video in the same style. An AI crew (Claude 
 
 `JavaScript` `2d-animation` `ai-agents` `ai-video` `animation` `claude-code`
 
-⭐ 3.4k • 🔱 320 • 22h ago
+⭐ 3.4k • 🔱 319 • 1d ago
 
 ---
 
