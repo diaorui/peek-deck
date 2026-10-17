@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-17T13:05:57.135868+00:00'
+updated: '2026-10-17T16:35:15.775957+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 13:05 UTC  
+**Last Updated:** October 17, 2026 at 16:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -2.6%  
-**30d:** +0.8%  
-**90d:** +25.0%  
-**1y:** -23.8%  
+**24h:** +0.2%  
+**7d:** -2.9%  
+**30d:** +0.6%  
+**90d:** +24.6%  
+**1y:** -24.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1636.95B
+**Market Cap:** $1631.55B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-35.6%
 
 **All-Time Low:** $67.81
-+120007.7%
++119611.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Save in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1x7hxuq/save_in_bitcoin/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I wish my government (US) would start investing in crypto instead of some of the dumb stuff we waste our taxes on. The way they are giving 7.3 billion to shit like ICE to chase after workers in the country, but can't invest in future planning for a better economy? Anyways, just something I keep thinking about as things continue to get more expensive What do you guys think?
 
-17h ago
+20h ago
 
 ---
 
 **[The Bitcoin Standard book in 5 minutes](https://www.reddit.com/r/Bitcoin/comments/1x7kzpk/the_bitcoin_standard_book_in_5_minutes/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -107,7 +107,7 @@ I wish my government (US) would start investing in crypto instead of some of the
 
 Deutsche Bank plans to launch cryptocurrency custody services within weeks, starting with Bitcoin (BTC) and Ethereum (ETH), as Germany’s largest bank
 
-🔗 [Coinpedia Fintech News](https://coinpedia.org/news/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks/) • 20h ago
+🔗 [Coinpedia Fintech News](https://coinpedia.org/news/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks/) • 23h ago
 
 ---
 
@@ -115,7 +115,7 @@ Deutsche Bank plans to launch cryptocurrency custody services within weeks, star
 
 Happy to see another statue out there, just worried about the lake near. Location: https://www.google.com/maps/place/Satoshi+Nakamoto+Statue,+Plus+Zwei,+Trabrennstra%C3%9Fe+8,+1020+Wien,+Austria/@48.2135453,16.4136218,16z/
 
-1d ago
+2d ago
 
 ---
 
@@ -157,77 +157,75 @@ The latest redemptions, however, represent a small fraction of the roughly $65.7
 
 Strategy stock fell more than 3% on Friday after index provider MSCI announced new eligibility rules that could lead to the removal of Michael Saylor's bitcoin juggernaut from its global stock indexes.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[MSCI Is Moving to Drop Strategy From Its Indexes. Could That Hit Bitcoin?](https://247wallst.com/investing/cryptocurrency/2026/10/17/msci-is-moving-to-drop-strategy-from-its-indexes-could-that-hit-bitcoin/)**
+**[Strategy CEO sees a historic Bitcoin banking boom coming. Here's what's driving it](https://www.thestreet.com/crypto/markets/strategy-ceo-sees-a-historic-bitcoin-banking-boom-coming-heres-whats-driving-it)**
 
-MSCI's new rules could push Strategy out of its indexes and force funds to sell MSTR shares. Could that selling reach Bitcoin?
-
-24/7 Wall St. • 5h ago
+TheStreet • 1d ago
 
 ---
 
-**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway)**
+**[Bitcoin On Track For First Back-To-Back Losing Octobers In Over A Decade As ‘Downtober’ Continues](https://finance.yahoo.com/markets/crypto/articles/bitcoin-track-first-back-back-143414633.html)**
 
-Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
+Bankless co-founders said BTC climbed into the month from the $60,000s, unlike last year's slide from a record high.
 
-Fox Business • 2d ago
-
----
-
-**[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
-
-Barron's • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Why Strategy Stock Is Diverging From Bitcoin - Strategy (NASDAQ:MSTR)](https://www.benzinga.com/crypto/cryptocurrency/26/10/62414395/strategy-stock-bitcoin-divergence)**
+**[Q4 2026 Bitcoin Outlook: Did the August Rally Mark the Cycle Low?](https://www.stonex.com/en-gb/news-and-analysis/q4-2026-bitcoin-outlook-did-the-august-rally-mark-the-cycle-low/)**
 
-Benzinga • 21h ago
-
----
-
-**[Michael Saylor Says Bitcoin Bottom Is Already In](https://www.tradingview.com/news/gurufocus:6363568fa094b:0-michael-saylor-says-bitcoin-bottom-is-already-in/)**
-
-Michael Saylor is doubling down on Bitcoin after its latest pullback, arguing that the cryptocurrency has already established a bottom and is headed back above $100,000.The Strategy NASDAQ:MSTR executive chairman told Bloomberg Television that Bitcoin's decline below $60,000 earlier in the cycle ma…
-
-TradingView • 23h ago
+StoneX • 3h ago
 
 ---
 
-**[Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules](https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules)**
+**[Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough](https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough)**
 
-MSCI has finalized a rule change that threatens to boot Bitcoin treasury companies like Strategy from its widely tracked equity indexes.
+Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.
 
-Decrypt • 18h ago
-
----
-
-**[Bitcoin's Demise Is Coming, And Strategy Is Not Ready (NASDAQ:MSTR)](https://seekingalpha.com/article/4954039-bitcoins-demise-is-coming-and-strategy-is-not-ready)**
-
-Strategy (MSTR) is rated Sell due to overvaluation, dilution, and mounting senior claims tied to its bitcoin-centric capital structure.
-
-Seeking Alpha • 2d ago
+CoinDesk • 14h ago
 
 ---
 
-**[Bitcoin treasury stocks could lose their index privileges](https://finance.yahoo.com/video/bitcoin-treasury-stocks-could-lose-163000228.html)**
+**[Hyperliquid, Monero or Bitcoin: Which Could Hit a New All Time High First?](https://247wallst.com/investing/cryptocurrency/2026/10/17/hyperliquid-monero-or-bitcoin-which-could-hit-a-new-all-time-high-first/)**
 
-Scott Melker discusses MSCI's latest decision that could end up removing Strategy (MSTR) and other bitcoin (BTC-USD) treasury companies from the index.
+Hyperliquid, Monero, and Bitcoin trade closest to their records among large coins. Which could hit a new all-time high first?
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 20h ago
+24/7 Wall St. • 2h ago
 
 ---
 
-**[Bitcoin's $350,000 price target comes with a terrifying warning, analyst says](https://www.thestreet.com/crypto/markets/bitcoins-350000-price-target-comes-with-a-terrifying-warning-analyst-says)**
+**[Current price of Bitcoin for October 13, 2026](https://fortune.com/article/price-of-bitcoin-10-13-2026/)**
 
-TheStreet • 18h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 4d ago
+
+---
+
+**[Bitcoin Tests $82,000 as BTC Price Prediction Hinges on a Weekend Reclaim](https://bitcoinfoundation.org/news/analysis/bitcoin-tests-82-000-as-btc-price-prediction-hinges-on-a-weekend-reclaim/)**
+
+BTC price prediction hinges on whether Bitcoin can reclaim and hold $82,000 after slipping 0.72%; the level will shape October’s near-term outlook.
+
+Bitcoin Foundation • 8h ago
+
+---
+
+**[Bitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab’s Adam Lynch Warns A Midterms Risk](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bounces-monthly-low-charles-schwab-warns-midterms/cZxkJmxRBt1)**
+
+Bitcoin (BTC) rebounded from its lowest point in nearly a month on Saturday, but Charles Schwab’s Adam Lynch warned that midterms could “grind [crypto industry] to a halt”.
+
+Stocktwits • 3h ago
+
+---
+
+**[Who Really Owns the Bitcoin Inside BlackRock’s ETF?](https://finance.yahoo.com/markets/crypto/articles/really-owns-bitcoin-inside-blackrock-160038419.html)**
+
+Millions of investors hold IBIT shares believing they have exposure to Bitcoin, but the actual ownership chain running through a Delaware trust, a crypto custodian, and a handful of authorized traders tells a more complicated story.
+
+Yahoo Finance • 34m ago
 
 ---
 
@@ -255,7 +253,7 @@ Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap�
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 2 • 💬 0 • 14h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 2 • 💬 0 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -269,7 +267,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chain inputs from our own full node. No key, CORS open. - multiassist/bitcoin-barometer
 
-⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
+⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
 
 ---
 
@@ -289,7 +287,7 @@ Elon Musk says AI will bring universal basic income and that money may stop bein
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 91 • ⏱️ 17:56 • 14h ago
+👁️ 28K • 👍 1K • 💬 104 • ⏱️ 17:56 • 17h ago
 
 ---
 
@@ -299,7 +297,17 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 188 • 💬 32 • ⏱️ 10:54 • 7h ago
+👁️ 7K • 👍 252 • 💬 48 • ⏱️ 10:54 • 10h ago
+
+---
+
+**[$20B AUM Siebert Analyst: $175K Bitcoin Price Target + MSTR “Buy” Rating Explained](https://www.youtube.com/watch?v=8sbC_ZNGKHQ)**
+
+Siebert Financial sees Bitcoin reaching $175K within the next 12 months, and Strategy hitting $350 a share along with it.
+
+📺 Bitcoin Magazine
+
+👁️ 9K • 👍 123 • 💬 2 • ⏱️ 20:42 • 19h ago
 
 ---
 
@@ -309,17 +317,7 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 1K • 💬 67 • ⏱️ 8:46 • 14h ago
-
----
-
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
-
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
-
-📺 Benjamin Cowen
-
-👁️ 130K • 👍 4K • 💬 315 • ⏱️ 1:11:56 • 20h ago
+👁️ 51K • 👍 2K • 💬 72 • ⏱️ 8:46 • 17h ago
 
 ---
 
@@ -333,23 +331,23 @@ Is the AI bubble about to burst, and is Bitcoin already pricing in the next mass
 
 ---
 
-**[Bitcoin Just Got FLUSHED...But Whales Are Buying](https://www.youtube.com/watch?v=QwE90xwXM-I)**
+**[Is Bitcoin Ready To Rip While Wall Street Breaks?](https://www.youtube.com/watch?v=5nUxci_05jA)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 CryptosRUs
+📺 Anthony Pompliano
 
-👁️ 24K • 👍 690 • 💬 39 • ⏱️ 43:21 • 20h ago
+👁️ 16K • 👍 1K • 💬 42 • ⏱️ 1:00:13 • 3h ago
 
 ---
 
-**[$20B AUM Siebert Analyst: $175K Bitcoin Price Target + MSTR “Buy” Rating Explained](https://www.youtube.com/watch?v=8sbC_ZNGKHQ)**
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
 
-Siebert Financial sees Bitcoin reaching $175K within the next 12 months, and Strategy hitting $350 a share along with it.
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
 
-📺 Bitcoin Magazine
+📺 Benjamin Cowen
 
-👁️ 8K • 👍 118 • 💬 2 • ⏱️ 20:42 • 15h ago
+👁️ 143K • 👍 4K • 💬 333 • ⏱️ 1:11:56 • 1d ago
 
 ---
 
@@ -359,27 +357,27 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 583 • 💬 46 • ⏱️ 8:40 • 5h ago
+👁️ 15K • 👍 719 • 💬 51 • ⏱️ 8:40 • 8h ago
 
 ---
 
-**[Cathie Wood :&quot;Hold This Much Bitcoin and Retire Now&quot; | BTC Latest Prediction](https://www.youtube.com/watch?v=iwjEXZqXtik)**
+**[Michael Saylor on Bitcoin, the Bear Market and What Happens Next | Xapo Bank Summit](https://www.youtube.com/watch?v=3yiM-YZpV0I)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Michael Saylor: 'The smart, rich, powerful people in the world have picked Bitcoin as the winner.' Recorded live at the inaugural ...
 
-📺 Crypto Nutshell
+📺 Xapo Bank
 
-👁️ 7K • 👍 160 • 💬 11 • ⏱️ 24:49 • 8h ago
+👁️ 12K • 👍 270 • 💬 85 • ⏱️ 46:50 • 1d ago
 
 ---
 
-**[$1 Million Bitcoin SHOWDOWN - Wall Street Just TARGETED Michael Saylor](https://www.youtube.com/watch?v=y8L0O5fSBKY)**
+**[Bitcoin Just Got FLUSHED...But Whales Are Buying](https://www.youtube.com/watch?v=QwE90xwXM-I)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 Bitcoin News Alerts
+📺 CryptosRUs
 
-👁️ 7K • 👍 241 • 💬 76 • ⏱️ 15:25 • 17h ago
+👁️ 25K • 👍 696 • 💬 48 • ⏱️ 43:21 • 1d ago
 
 ---
 
