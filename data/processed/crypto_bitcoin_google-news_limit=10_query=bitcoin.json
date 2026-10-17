@@ -5,34 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
-      "pub_date": 1792154400.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXJRN3FRZmN6bXJsWVI3ODZydy01bEp6SmdFd09IZEJ5Y3ZhdXFoYnVDZnV4WDY4cHhCVi1Bb1A2bEF3T2tBR3VIa1d4a28ybVZ5Wkg3Nl9idGxhMGl4WFpJbXBoNDhIcTBWOVgzWHpnZ0xOMGdGNTJLQ3BURWx3LVRuR0ZneEtQM0lycXdGVmhHdzhYVGY5ZTJnbWFLNWJMX0Q5cGJtNlp1MHljZWUtQzFUSXI4QklmZV96T0xoUXg?oc=5",
-      "pub_date": 1792182325.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/879e7233d36e6974d9fba6a5d1cb72056508a458-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Fixed income is again catching a bid on worries about the deflating AI bubble."
-    },
-    {
-      "headline": "Cantor's $112,000 Bitcoin Call Lifts Strategy Target to $208",
+      "headline": "Strategy stock falls as Michael Saylor's bitcoin giant faces index-level threat",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVV9YN2hNQmxwR0RiMTZ2WW44Q2t4VnVRd2VINGp5bjd4SlZaQ1BfT2FJYy10cEZMVVROZ2tiZjM3SVpXS2NaWjNtUVZ1VXhMMXVDUzRUeUZvckpyQjdZVnlpdGJPbWFHZHhON0RBY3NSZjNZUFNOSm1HMUNSQks1Yk55Q09WdjB3NDhqZlRobEZxS3pQVDJ3TA?oc=5",
-      "pub_date": 1792184138.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cantors-112-000-bitcoin-call-205538907.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Cantor raised its bitcoin price assumption to $112,000 from $98,000"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR242MmNRTnFjbm1fbWdzZDJnODhmSjc2aVpNS2VLYWVWQm9Xa2pqU2hUWDU2MzRXQ2dRQVlXTnJheFdvMTI5ZzJpTTBjOTNHenFvNWtZdlZaQ0VCdlpfamp2TkhkWi1Ndy1VdVBzaVRKUkQ3YTlyNFZrYzh6cGNId2Y2R2F1MW0zVll4TnVwZDhhbkJpQUdnNzNaRUM5UnlyRG5HUU05STlsamt6NWVZRzJ3M1ZXMTIzbXBxVHFKeU9xRVd6dm1KNVYyZUlTTmJpMDlEVlQtNnVKUQ?oc=5",
+      "pub_date": 1792162174.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/article/strategy-stock-falls-as-michael-saylors-bitcoin-giant-faces-index-level-threat-144934435.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b1c8e6e16de3b813ffeca7bb5d8cee4e633dc39591fed6aa85978ffedcd64cd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F86bbf53c-30e2-4ca5-b3dd-f2dc9a903381",
+      "description": "Strategy stock fell more than 3% on Friday after index provider MSCI announced new eligibility rules that could lead to the removal of Michael Saylor's bitcoin juggernaut from its global stock indexes."
     },
     {
       "headline": "Strategy faces MSCI ouster under new rules, billions in passive holdings at risk",
@@ -45,6 +25,66 @@
       "description": null
     },
     {
+      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
+      "pub_date": 1792154400.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "MSCI makes it official, and bitcoin (BTC) treasury firms Strategy, Metaplanet are on notice",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcG12NWtxQWpGck4xbmpsTzlJLTVKZWo1NDR5aGV6Z25sRjRCdF91RUFReEZNcUhBNWZMQnhMeWN6SkNWZ1pqMFVsMi0zdGJxbXhzMVdyMmxHR0lBanFUQ2pRS0JtMGIyRFNmQnA0WEdTclBaTFFMa3RiVWZ1OUlfbWdwSXZUb3VZSzdJdHdyRW5mbmZ5c0VLQl80eU1KX2x3MV9QV1drdG4zNkdhWldaZHBxU2t4b2sxUkg3bA?oc=5",
+      "pub_date": 1792139688.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "MSCI has approved a set of rules proposed in August that could remove BTC-holding firms Strategy and Metaplanet from its stock indices."
+    },
+    {
+      "headline": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclQwOW93RHNtcjRhOXpBeUI5aXAzMUdCSUtLdnJSeFMyVk9fQkN6UktSVVI1UGM5ZktCRnBkZTR0eDktM1dFMGF0dEJPdWNCZTZNVUxKR19XVWwtR2ZZcHFCZi1ESGV3NlJTZUFBX1lhb2Z5dTctRF90Rk9NMU83cWM5MzZnRjgxRkREMGpJalhjVE9pY1hESmY2bllmcmxEYmVPVVJMNA?oc=5",
+      "pub_date": 1792174564.0,
+      "article_url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
+      "description": "MSCI has finalized a rule change that threatens to boot Bitcoin treasury companies like Strategy from its widely tracked equity indexes."
+    },
+    {
+      "headline": "Bitcoin's Demise Is Coming, And Strategy Is Not Ready (NASDAQ:MSTR)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGJaWHBpRVhGS00xaElSancwUVBFbjQwVFh2VkExYTgtVllFUnUyOUNsak9GZG8wTlpIUUhzemVBSFBBQmhmTmJLV1ZwTHRoRHJvSlhSYkhhYTBUMEJDak53dV9IYVkzSC0wdDNScnBnT3oyZDJRV0lrc3dZUGNyY3hEa0ttUmxpVlhndk1aclVqMEowbGl3?oc=5",
+      "pub_date": 1791988200.0,
+      "article_url": "https://seekingalpha.com/article/4954039-bitcoins-demise-is-coming-and-strategy-is-not-ready",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2243296768/image_2243296768.jpg?io=getty-c-w1536",
+      "description": "Strategy (MSTR) is rated Sell due to overvaluation, dilution, and mounting senior claims tied to its bitcoin-centric capital structure."
+    },
+    {
+      "headline": "Bitcoin treasury stocks could lose their index privileges",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMExKeWRheTJES3ZMZGlWblQ5ajdOQkNiZG5FOWF2STVjSnE2SGR1dHRLSU9iUHFFVkJuY042dU5zUHhKMkpoVTlPLXBzQzBwdWZhWE04eUhKQWQ4VzBhUElNeG1UTkFjT0M3UXRrWlozLUFMMm9ETGh0eEdrMUl1cU8xU3BMTllF?oc=5",
+      "pub_date": 1792168200.0,
+      "article_url": "https://finance.yahoo.com/video/bitcoin-treasury-stocks-could-lose-163000228.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c324f19eb17447a3722d2a120aab5fd0b28d0b4e09e64d747585fc3d5aae82df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbff381f0-004b-11f1-bdb7-ee25c661eaf2_869e71ca1a97f4ac6cc721005572d991c27d2d0c198d73ded2bda1ed7b2e3296.jpg",
+      "description": "Scott Melker discusses MSCI's latest decision that could end up removing Strategy (MSTR) and other bitcoin (BTC-USD) treasury companies from the index.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
+    },
+    {
+      "headline": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXJRN3FRZmN6bXJsWVI3ODZydy01bEp6SmdFd09IZEJ5Y3ZhdXFoYnVDZnV4WDY4cHhCVi1Bb1A2bEF3T2tBR3VIa1d4a28ybVZ5Wkg3Nl9idGxhMGl4WFpJbXBoNDhIcTBWOVgzWHpnZ0xOMGdGNTJLQ3BURWx3LVRuR0ZneEtQM0lycXdGVmhHdzhYVGY5ZTJnbWFLNWJMX0Q5cGJtNlp1MHljZWUtQzFUSXI4QklmZV96T0xoUXg?oc=5",
+      "pub_date": 1792182325.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/879e7233d36e6974d9fba6a5d1cb72056508a458-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Fixed income is again catching a bid on worries about the deflating AI bubble."
+    },
+    {
       "headline": "Best Crypto Casinos 2026 \u2013 Top 5 Bitcoin Sites Reviewed for Bonuses",
       "source": "Muddy River Sports",
       "source_url": "https://muddyriversports.com",
@@ -55,16 +95,6 @@
       "description": "Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features \u2705mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino \u2705JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses \u2705Thunderpick 100% up to \u20ac2,000 Bonus rollover rules \u2705BitStarz Up to 5 BTC + 180 Free Spins Staged free spins \u2705Lucky Rebel..."
     },
     {
-      "headline": "Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmFPUFJCNEZtUjhyOUtKelYyZVRfU2ZzbjVBcXFHSlFESDU2bDl3NGg0elJ0VjZTaTNMZWZOczdtaXJTUU1SckEwMW5HcWhHM2Q0T2l1QW1FZERELXBjN3phbVJSbFVhUUsyVWoxblVjU25qeWZ0RS1seHRtZ2lyd1FwMVNhMzJJY1E0REIydFBqZzNyZUMtMkJORWFQM3FJeFNlNjlMZkVJTzV5SlBKaS1tblpNU2NDNGdr0gHAAUFVX3lxTE80YjJ4VjI3R3A5MkRTYk9rOHZWam95QUljOU45TDdOWkgtR3piaE5ERk5uSGo2UVVWb3hlWW9yaHQwYVMxR2lyVjNyc0RqdUw3cXdob011VDJDczRkY3VraHBxT1E5by1qc3BGSkxXRGZIU0dna25MN0R6ajc2cXJoNFkya0ZsdzlXN2R2SWxqdE4xNnIxLUxPU0dTaTVYRmVxVERlQUtQTnpkd0NLUWVJQ1FJWng3MGhHVDJZR185MA?oc=5",
-      "pub_date": 1791997380.0,
-      "article_url": "https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/michael-saylor-bitcoin-conference-2026.jpg?ve=1&tl=1",
-      "description": "Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation."
-    },
-    {
       "headline": "Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -73,38 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890876%2Finvestor-ponders-a-screen.jpg&w=1200&op=resize",
       "description": "The odds of these coins being worth more in five years are quite high."
-    },
-    {
-      "headline": "Bitcoin is starting to behave more like gold as investors seek alternative hedges \u2013 Block Scholes",
-      "source": "Kitco",
-      "source_url": "https://www.kitco.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjVqNVNDQzBBblZaVnAwR2llMHpEUERYc2N2WXlhNnBnNG5Xc2hMUWpzVkN0RVlFalJ0V3V6RFo1SzA2NlVRbHE4Yk9zanRqRnBybGxiaDY3RFJQTGtJV0JLNzU3N2MzZ0FySjV4LXZSbGpaUEhTX2dpVHNqLXhuTVNUSjU5ZkUxN1RWZTh3Q2JYdWI3QmtJeXZYM2hFX2lMQUhjWk9SRWJiaHpUcHB5c3VzZlZGRE5xRGE0?oc=5",
-      "pub_date": 1792087985.0,
-      "article_url": "https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block",
-      "image": "https://image-api.prod.kitco.com/image/42a55063-5d24-44c0-b1da-4b0510536c0c.jpeg?top=0.31815099457505&left=0&width=1000&height=562.36369801085&scale_width=1920&token=70bb19961de883f9d18edb9e71dab0857cb82c28c742d378f84b36b0f4cf0182",
-      "description": "(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency\u2019s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.\u201cThe move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,\u201d Rahman said. \u201cIn the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.\u201dBoth Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.\u201cThe 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,\u201d he said. \u201cThis could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.\u201dSee live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
-    },
-    {
-      "headline": "Bitcoin\u2019s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2JUR0tBdS1ORVEySVY1ek1takhLQnY3YV9idkpranlnbkFMT2lXOGVPVzNfTEZPOVNMUEMxZkpNUHpKeGotUmlVcnVTZl9ISTdzQTcyTnNoU1ZzRmg0UElLcGtkd2NpRjdqNlVPdU5zZ3JKVmlSMDRYUHRKOHVweg?oc=5",
-      "pub_date": 1792096246.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-14.jpg",
-      "description": "Grayscale research shows that bitcoin\u2019s realized volatility is in the same range as a number of S&P 500 stocks."
-    },
-    {
-      "headline": "Bitcoin rebounds to near $82k but set for second week in red",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzlOMVY0SklieWh1blRadHBfcW14WmhlNE50QUh4NGxZekJmTldUNEJrbzZMWW93ZkxYN0dRSExkQVBRSHpMZ3F6b0N3Vzl0ZDg3LUVTd3NPS2RUUERGSjRZRzRaUTNaZmpZZ0RJcElBZXFGNzhaN3B3QmVkTGEzRGtKV0U4cmRwdV9PZjFEWUlmc0NfQzhjUE1DNjVDOHBfVnhPRGFmR0hvdzg0allXTnNEYw?oc=5",
-      "pub_date": 1792161749.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T21:56:20.414808+00:00"
+  "fetched_at": "2026-10-17T00:11:44.943839+00:00"
 }

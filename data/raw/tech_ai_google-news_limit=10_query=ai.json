@@ -5,22 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math",
+      "headline": "Why One of the World\u2019s Greatest Mathematicians Is on a \u2018War Footing\u2019",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
-      "pub_date": 1792181745.0,
+      "pub_date": 1792141325.0,
       "article_url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Banks are pulling back as AI's massive debt pile disconnects from economic reality",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRV25YTk5PLUVlR21rV2MyTUpjR0g3Ny1mZ0hLckhEMTFNTy1MSnpBSjFoai1UN0toUGYwSVhFZTV2ZGYwQVYzVEU5dWhxZ2o3Q0ZqOXBFOXdfdTBZZlVlYXMwcU01UmlyQmhUTzBzbHY0MFctMWc?oc=5",
-      "pub_date": 1792143097.0,
-      "article_url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
       "image": null,
       "description": null
     },
@@ -35,14 +25,34 @@
       "description": null
     },
     {
-      "headline": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0FsY1ltSGx1ZGhyc0hFUHgzM2VTUW5LNWY1alhzZnJsR3JXanFycnNFOVdtSGhST0lFTlNfUFJxNERyMzBvaXFubjAxMmkybzUzVERmblo1V0xVNzBkMUFrcTVDMldSZUFQM3VMYjRXemV2V21BRnM0YU9KTm1RMk9fTDZwcGpnTFB4M0hNb0JBRjFSWnhPMUVRcmdhcnpCLVExNk9jaFZZTWVzWTFjSXJEWk8yUQ?oc=5",
-      "pub_date": 1792141001.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
-      "image": null,
-      "description": null
+      "headline": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeGVVd0NGb3FmQ0tSNWtfYUR6R3NDOXE3VDJPcnlmSmZjUXdBcXJDZG1IN3ZWeTVnTmIxQ3lhUUx4Y3VuMjFjcU9JcTBFdlIwcmhhaldndXZWbXJUNzk4eXdhTER2SERFaWI3SUVYdHFmNjdQb0lBT3ZDSlBkcGR2YlVlZkRwUQ?oc=5",
+      "pub_date": 1792191082.0,
+      "article_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Developers must prevent and remove sexualized deepfakes."
+    },
+    {
+      "headline": "Can AI Make a Sci-Fi Series for $38,000? Artlist\u2019s \u2018The Arc\u2019 Puts It to the Test",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1VKeXNJYVJTdlFIaHJNcEZ2N2FBRDdMNHlKazhfanFMR3BLUERpMlJnYmM3NS1YNmxqRS1OZWhtX1dIUTBlclJ6aEZ2YnlzVmhtZ2lxSGhPeXpnXzBHeC1SeGdfQzR6d1JYZjFVNThnQVZlejlaTXpvdzNiV1F1N2RPbWM1N0VZd2c?oc=5",
+      "pub_date": 1792190110.0,
+      "article_url": "https://www.yahoo.com/entertainment/tv/articles/ai-sci-fi-series-38-223510356.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/62a14043c18f8ed4809ecd849091c875cad564a4e2e0231c573fb8056a064039/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findiewire_268%2F9626212cfe62ff763053ba34d972adb9.jpg",
+      "description": "Your scientists were so preoccupied with whether they could that they didn't stop to think about whether they should."
+    },
+    {
+      "headline": "Amazon's new Bee AI devices have a bystander problem, says former AWS security engineer",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0FGQVkyemhEbFVaWXFldTJkeENWN0R4YWpzLU82WmsyZXlWMm5Zb2xnd2M2Z3Bwd0pBZ0k3NHJ5WW8zVjRsbGwyb2FjY2Vrb01Rd3JiV3djZ1pKN3hPbUNIY0pqQU96SFdaM05hXzA3RmJ1ejdnZ28wZHpmeW1EQnRSTHQzeVRQODA1Vm1icVluS3haOEFSQU1YQjlBUS0wekw5V0NTYTZZN3BPSEQ1Q05yNVBKNnM?oc=5",
+      "pub_date": 1792191757.0,
+      "article_url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/bee-frontier-lead-1.jpg",
+      "description": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon's Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission."
     },
     {
       "headline": "Tech stocks tumble as AI debt fears rattle Wall Street",
@@ -55,44 +65,34 @@
       "description": "Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI."
     },
     {
-      "headline": "Charles Schwab CEO: AI agents trading on your behalf need 'rules of the road'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGY3QWFEdDBmV1JyZjVxZVRBUWRYUU5ST0lYNVhvYk54Rkh5aDlyMDFYcjRpODBwYkJhV2g3Q1RNUlZaRWZrZFVkSXFYY1RqeFdhczMtdU1XYXJfWWNCWTN2V0wzSHplTFhOTmYzdW1KakVFQ0p1WlB0bm5BZ2ttYTY3Y1FhTUp1QzJhVFEyaG03XzAxRnVBQTZkLWlRRXh4dFBfYjNvWmhJQTdQTXR1N3hNUTF4ck9Jd2hkRDVpUlZHZmQ4cndFSGFOZw?oc=5",
-      "pub_date": 1792182842.0,
-      "article_url": "https://finance.yahoo.com/markets/article/charles-schwab-ceo-ai-agents-trading-on-your-behalf-need-rules-of-the-road-203402357.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7cde251a04aacff5cbf248aa657c0a3ae29175919c3e815eccc98d8a58d2be32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F2ed633c8-3f8f-4e23-9f16-d515a78246ee",
-      "description": "The rise of AI-driven trading on investing platforms is not lost on Charles Schwab CEO Rick Wurster."
+      "headline": "Wall Street ends down sharply as AI stocks, oil prices weigh",
+      "source": "Honolulu Star-Advertiser",
+      "source_url": "https://www.staradvertiser.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGlKclR2WFhrLUFnaHdzOUl4UHlWT1N1dGtKLUZFUlVVTmRNOGNnSElab3F6clp1alN5clcyQjVHMkpyYzRRVUV6QmhocHJVSE1JUXBVOE1uWVh5RDBZNEJnUklHR3puZFhST1Q0OU5HNGxxbHlnTlFueEtzNGVHQmhxblRPTW1ZWllfb0FOanJkVlRRbkU0TUp4aUIzRkdRcnc4WXJpeE5NcnI5RVlMbzdYdGk5NUk?oc=5",
+      "pub_date": 1792191082.0,
+      "article_url": "https://www.staradvertiser.com/2026/10/16/breaking-news/wall-street-ends-down-sharply-as-ai-stocks-oil-prices-weigh/",
+      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/10/web1_20261016_brk_nys01.jpg",
+      "description": "Wall Street ended sharply lower today, with CoreWeave, Broadcom and other AI-related technology stocks under renewed pressure, while a jump in oil prices spooked traders heading into the weekend."
     },
     {
-      "headline": "Motley Fool Chief Investment Strategist Bill Mann discusses path for AI trade",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtalBEUzcyY2d2dkVKZHk5RGc3ZThpaWtWY3RUOEVWQmUzOWpOeEtkWVkxOVoyeWR1akVTTXJtQjhoNHZrRnd3aFVHTFA3U3pQVlcwWWlaUlhYcVhVazA3aWZFUTB3a1FpbmJXb1A0V190TE1yVHJUeVhMTVo?oc=5",
-      "pub_date": 1792183759.0,
-      "article_url": "https://qz.com/motley-fool-chief-investment-strategist-path-for-ai-trade",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Motley%20Fool%20Chief%20Investment%20Strategist%20Bill%20Mann%20discusses%20path%20for%20AI%20trade.jpg",
-      "description": "Motley Fool Chief Investment Strategist Bill Mann discusses path for AI trade"
-    },
-    {
-      "headline": "Exactly how much of an environmental menace is AI? Here\u2019s what we know",
+      "headline": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEgtNXhpZnU3U3FQVmR0NXpiQ0REaWhPbzZxOGxxTTR0YVRpZS02RTBiX1NTeEdIaXFTNlFHWV9zdDZMUlVQWmpERkMzV3RETElhZzljYkgyTjJKOVI2TzViU2dacnBGZDNzN3VUT2pFdXpTaWh4QmpwdVRWM1BONEJlM1M3WjdCYldaVjRQWm9oRG5MV0E?oc=5",
-      "pub_date": 1792153459.0,
-      "article_url": "https://www.cnn.com/2026/10/16/climate/ai-environmental-impact-energy-water-noise-explainer",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-12-05t145808z-2064639474-rc2w3haly5bt-rtrmadp-3-aws-20261015220138006.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The staggering rise of AI has become a political flashpoint, especially when it comes to concerns about the impacts of the data centers needed to train and operate it."
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaXBzTHdSMHNvM2RaR1A4d29PXy1NVHJKY1FoOTlTWHFsbFZmOHZsLW9wMW44QzRwT3E1QXkxQXg5bUhRVzV3OE5OS0RlUjllVklOY0xKSVNuTFdLVzJ2eE8wdVpRSlZYeHZLcUw3OERFLTQ?oc=5",
+      "pub_date": 1792177831.0,
+      "article_url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299938450.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Tech stocks had a tumultuous week as concerns, including higher interest rates and mounting AI debt, continued to weigh on investor sentiment."
     },
     {
-      "headline": "New York City Council questions paceX official over AI safety",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGdBb0xaLXdscTQ3Z09XWXlLSzVFQUEwQURjUlVCXzFxT0dFSGdOay1senNPbWV0LTJUaWRMZDY5N3VacjJqUm56VFRtOGpuTjdYZmdzb1AwUmNWOG44b1o0QURQajZmZnBtNGsyZTVMVlJxMVdqTGgxT1BjSkRMZXVwV0h0SUIwZG9B?oc=5",
-      "pub_date": 1792180131.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-use-spacex-official-testify-nyc-after-subpoena",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/a195f165592f72f6a35187f21abaef1c.jpg",
-      "description": "Gabriela Castillo Madrid, SpaceX's senior manager of global government affairs, is set to face questioning Friday by the New York City Council, which is investigating artificial intelligence safety."
+      "headline": "New Jersey Deputy Attorney General Brian Fitzgerald charged with using AI to create child pornography",
+      "source": "6abc Philadelphia",
+      "source_url": "https://6abc.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2VjcVFtUXZQRjc0NjVCWElYV2JsbDd3d0lySnIyZE1fOFNTV2RTelFtOUEtUDl2SjgtenNmNVFGN0tobkc5anY3dXotVTQzbkxvSWIxYjlwUlFfQnhJOHlzSUthS3BDUzZ4dThTQzEwZ29laWpVU3BMMk4xczNiTTFvNXh5RklFNDBPTGE4VEtSdnp1blJsbzNnMTF2Yk1NZkt2eWVmVi11dldleGZrUWFRQkRvWnN2NnJmbEF2bWZRSUtvVllaYzItSzZpQdIB0wFBVV95cUxQRWV6VGJ1UlZsSHJQODdFaGxKMVN3OGFmZTVHejhsOXhvd1ZvdlJfbzNGTnBPRVhWWXBlZC1WcVhYSGlfeGRIaTk0ZzJpTjctUTJuMEV3Z3d5M3JQOEZjc2ZTb1pyTDZHU1djRW9CV0xpSWtSclFIZk9KVGppcDJaZWIzWUtNeG5kUHdGczRGd0U0T3RmRGlIaFZ3QVdqOGtnLTdoNzBOdjFqaHhsY1NFWlVmMDE0TDZXZHNYRWNaT1hON056Q0gtcGtSR21hQmExOWt3?oc=5",
+      "pub_date": 1792185230.0,
+      "article_url": "https://6abc.com/post/new-jersey-deputy-attorney-general-brian-fitzgerald-charged-possessing-distributing-child-pornography/19943914/",
+      "image": "https://cdn.abcotvs.com/dip/images/19945213_101626-wpvi-deputy-ag-child-porn-arrest-430pm-video-CC-vid.jpg?w=1600",
+      "description": "According to investigators, Fitzgerald used AI to generate child sexual abuse material and distribute it on social media platforms."
     },
     {
       "headline": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-16T21:56:20.051279+00:00"
+  "fetched_at": "2026-10-17T00:11:48.755771+00:00"
 }
