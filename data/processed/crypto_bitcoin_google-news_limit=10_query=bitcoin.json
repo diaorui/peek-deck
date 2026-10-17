@@ -35,16 +35,6 @@
       "description": "Vitalik Buterin says Bitcoin mining cost splits 50/50 between hardware and power, while AI inference runs almost entirely on hardware."
     },
     {
-      "headline": "Who Really Owns the Bitcoin Inside BlackRock\u2019s ETF?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEEzWHN4LURYUzdWekN6SGpyZlJQaHlZZ25Hc1JtWVRVQUR2NTdTZkl0NHBzX2dGRU1ab1VvbjRqcDF6VzRpSm41TlEzaVJLX04zbjItc0FMWWlHdkpfX0dhVkt0YkVrRUFHcGt3c0VUZjJONGdmdW9DTW1XX0RlaGlOOUZWTzNlZVcyR2J4NUhXVlluS1c1a3VrSDc1ekJweTJr?oc=5",
-      "pub_date": 1792252838.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/really-owns-bitcoin-inside-blackrock-160038419.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/82b4423d002be56fb00b72141b3322d277aba764911f5ef0ebb7435d817f5381/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9523beebd490660b9c4c783ba9fea685.jpg",
-      "description": "Millions of investors hold IBIT shares believing they have exposure to Bitcoin, but the actual ownership chain running through a Delaware trust, a crypto custodian, and a handful of authorized traders tells a more complicated story."
-    },
-    {
       "headline": "Judge Rejects Gemini, CFTC Bid To Overturn $5M Settlement In Bitcoin Futures Case",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -53,6 +43,16 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/judge-rejects-gemini-cftc-bid-180644160.html",
       "image": "https://s.yimg.com/lo/mysterio/api/d619d049272d039cf2c1c05a2bfd474110d60094697592969ba387aece29b3ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1bf1380ee642a1ffed5ea9659ae5417e",
       "description": "The CFTC sued Gemini in 2022, and the exchange agreed to pay the $5 million penalty in January 2025 after more than three years of litigation."
+    },
+    {
+      "headline": "Coinbase Global (COIN) Wins SEC Backing For Binaries And Flags Bitcoin Quantum Risk",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0hwWWF1UndCOS1wYXE4TTYxVDZRWjYzT1hSa2x3NnowOU1PcGpjMUdNVDVIbUdBN1QxU0JJM0RxUXRUVjBiYnVZVWxISEJaUG5CX3lxOFExX2FSRDd2dGs0bk0xVm5HVGdMSGU4WkR4Ujh0bWhsZk9nYy1iWWdiNV96RVM2OGUwUEJlS1FTQ3pBMWdxdURERHpB?oc=5",
+      "pub_date": 1792271432.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-wins-sec-211032219.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b36c4108ed3a262f7b33b6dbe5d760ed5d130bf8ea4e1be362fcca2c6eeaff08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F7658f2bb746c07f99672469f4443985e.jpg",
+      "description": "Coinbase Global (NasdaqGS:COIN) is working with Evernorth as it shifts to active management of a sizeable XRP treasury in 2026. The SEC has cleared binary options that reference Coinbase operating metrics rather than spot crypto prices, creating a new regulated trading instrument. Coinbase has issued a public warning that future advances in quantum computing could threaten Bitcoin security and is urging sector wide preparation. Evernorth's XRP treasury overhaul, SEC approved Coinbase linked..."
     },
     {
       "headline": "Best Crypto Casinos 2026 \u2013 Top 5 Bitcoin Sites Reviewed for Bonuses",
@@ -65,14 +65,14 @@
       "description": "Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features \u2705mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino \u2705JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses \u2705Thunderpick 100% up to \u20ac2,000 Bonus rollover rules \u2705BitStarz Up to 5 BTC + 180 Free Spins Staged free spins \u2705Lucky Rebel..."
     },
     {
-      "headline": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery",
+      "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google\u2019s new Willow breakthrough",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjZ1MzZ6clVYZmItTGI1TnZuZkl0cFFoX2NoeTBadC1KUFVsYW54THVXVndhcTRHUTFYWFlQSFRwekRQSldvY0w2WXU3LU1mRmpzUFVWT2pBaDdfWWthS09WZlItajBOM21yZlZjaDZYdTVRb1lpOFZ4a3NxbUNrTWNmWGQ2TzF2djdJNHpfcmF0NnJ0M0Jic1g2aFM1T195UXpMTEs0UDFmUTl4aGc?oc=5",
-      "pub_date": 1792219188.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn\u2019t gone anywhere."
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMC1lc1BqSkFEZlZycHhIN2ltczJTUC1fdVYzVXZwT3N0MGsteDlSejBTMWFjWE9PWGhWSFo5WE1pREJBZzdMMEJnZ2JMV1dYTHVaVkVEYkswTnlrcDRudF9zcFAxT3BVQWY2OUdnX0pNU0hNVDZSMW5NVDhzc3ZzN3ZjVzRNdjRvOXk2a3dRZWlfQm13T3RmU2Zxbkg2Xzd4YnVEYVY0MTRCZDgxZVpyVVQweXRCdmU1Z1QyT01RcnlrRWJ6Y3g0Sw?oc=5",
+      "pub_date": 1792204200.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
     },
     {
       "headline": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T19:02:57.632258+00:00"
+  "fetched_at": "2026-10-17T21:36:46.483991+00:00"
 }

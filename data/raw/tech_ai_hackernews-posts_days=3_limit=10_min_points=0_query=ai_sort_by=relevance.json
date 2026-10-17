@@ -9,8 +9,8 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "hn_url": "https://news.ycombinator.com/item?id=50121179",
       "author": "speckx",
-      "points": 578,
-      "num_comments": 525,
+      "points": 589,
+      "num_comments": 535,
       "created_at": "2026-10-16T17:08:38Z",
       "object_id": "50121179",
       "image": "https://www.mercor.com/mercor-logo-white.png",
@@ -23,7 +23,7 @@
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "hn_url": "https://news.ycombinator.com/item?id=50108131",
       "author": "vinyl7",
-      "points": 257,
+      "points": 258,
       "num_comments": 202,
       "created_at": "2026-10-15T18:32:29Z",
       "object_id": "50108131",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50119991",
       "author": "magoghm",
       "points": 205,
-      "num_comments": 84,
+      "num_comments": 85,
       "created_at": "2026-10-16T15:55:40Z",
       "object_id": "50119991",
       "image": null,
@@ -75,11 +75,25 @@
       "site_name": "theregister.com"
     },
     {
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "hn_url": "https://news.ycombinator.com/item?id=50132278",
+      "author": "DeepLogin",
+      "points": 136,
+      "num_comments": 54,
+      "created_at": "2026-10-17T16:04:23Z",
+      "object_id": "50132278",
+      "image": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/10/Amazon-AI-question-openDemocracy-edit.jpg",
+      "description": "Internal documents suggest tech giant collects \u2018hundreds of data points\u2019 for \u2018union-busting\u2019 AI model",
+      "favicon": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w256h256/format/png/2026/03/multi_solo.svg",
+      "site_name": "openDemocracy"
+    },
+    {
       "title": "AI was great until it was not",
       "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
       "hn_url": "https://news.ycombinator.com/item?id=50100791",
       "author": "JohnHammersley",
-      "points": 122,
+      "points": 123,
       "num_comments": 77,
       "created_at": "2026-10-15T08:18:38Z",
       "object_id": "50100791",
@@ -87,20 +101,6 @@
       "description": null,
       "favicon": null,
       "site_name": "thetheorygirlie.substack.com"
-    },
-    {
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "hn_url": "https://news.ycombinator.com/item?id=50132278",
-      "author": "DeepLogin",
-      "points": 117,
-      "num_comments": 44,
-      "created_at": "2026-10-17T16:04:23Z",
-      "object_id": "50132278",
-      "image": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/10/Amazon-AI-question-openDemocracy-edit.jpg",
-      "description": "Internal documents suggest tech giant collects \u2018hundreds of data points\u2019 for \u2018union-busting\u2019 AI model",
-      "favicon": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w256h256/format/png/2026/03/multi_solo.svg",
-      "site_name": "openDemocracy"
     },
     {
       "title": "Market selloff, rising rates test AI data centre deal boom",
@@ -121,7 +121,7 @@
       "url": "https://rstation.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=50118876",
       "author": "stephenchung",
-      "points": 56,
+      "points": 57,
       "num_comments": 19,
       "created_at": "2026-10-16T14:35:43Z",
       "object_id": "50118876",
@@ -145,7 +145,7 @@
       "site_name": "Microsoft AI"
     }
   ],
-  "total_hits": 645,
+  "total_hits": 643,
   "has_metadata": true,
-  "fetched_at": "2026-10-17T19:02:45.747926+00:00"
+  "fetched_at": "2026-10-17T21:36:31.453139+00:00"
 }

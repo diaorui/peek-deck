@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Amazon Has Now Deployed Over 1 Million Robots, Which Is Bad News for Its 1.5 Million Workers",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTk3SVQzWW1wVS0teHFLVk12TS1fQm9tam84cWVnV0JYV2xoNnVvR3gtalI4b3BMTmNaYjZGYm9lNFhlUXdLTzVIZ09ERVVuaHFIVmhqdEhXLVdJUC14OHp6a1hTdVlIRkZWOExyd0M1TGhYZ282ckRUV1EzRUx1bWVqNGozVm52RXFRVU9n?oc=5",
+      "pub_date": 1792252080.0,
+      "article_url": "https://futurism.com/future-society/amazon-robotics-automation-warehouse-labor-safety",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/amazon-robotics-automation-warehouse-labor-safety.jpg?quality=85&w=1200",
+      "description": "Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one."
+    },
+    {
       "headline": "Robots could boost US manufacturing as America races to keep pace with China, expert says",
       "source": "Fox Business",
       "source_url": "https://www.foxbusiness.com",
@@ -15,14 +25,14 @@
       "description": "A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics."
     },
     {
-      "headline": "China Builds Actual Giant Mecha",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lQmpUM2c5V1JsOXp2bl9YTTY2ZjFDZEo3Z2VMOGE0Sjg5SHJrZmM5X1hRN1NzUXZQUzJWcTkyekhjMWgwM29icDNGeXpKUTBNa3p1MHYwa0FzWkpsZGdRXzREbS1fWnBXVFFJMXNnV0NUNXdCcUYyQkY5bHo?oc=5",
-      "pub_date": 1792178254.0,
-      "article_url": "https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/china-builds-actual-giant-mecha.jpg?w=1200",
-      "description": "A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie."
+      "headline": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1lfemJGUTdQSTRnY3F4ZkNwQTk5WGNJMHhyOThvaUYwaTFVUFJvMVRraFZVWWszQVg2RnkwR0IxVVRqS1FINEhLdFk1dmZjR3RnQzI4bnUwV21XeXFwa0xJTzFOZW1Hczl3Y1pvVG9XNVljUnJlSDJnTW5pUmFFNVJBT0kxNnJCT0tYcnNpWjhmaEowYlA4UWRhV2VuNlpBZ1VKVUU4TVVOWWFnRFBPcmFmUkYxdHBzZmJnSnNhYw?oc=5",
+      "pub_date": 1792094614.0,
+      "article_url": "https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9753687-scaled-e1792072876871.jpg",
+      "description": "\u201cWhat we\u2019re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,\u201d said Maj. Gen. Jason Slider, commander of the John F. Kennedy Special Warfare Center and School."
     },
     {
       "headline": "A Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
@@ -45,24 +55,14 @@
       "description": null
     },
     {
-      "headline": "CMR Surgical CEO outlines the path forward for Stryker\u2019s robotics partnership",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEtYSnE4RVYzQXFHMDAyNjBLa3ZYMDlBUEg0eUQ2cmZnTGVVWk8xVE9zSWRMNHBXN1lqd2Zvd0oxTm1jZURqYlVYbkNvVXZQbW9tVUdDZndyUUpZb0tXSHhuYm5QaGJNSGdpb1dIS3I5YU5tUTltbTV6MFQ5NENxcW10aUR3ald2OFZjRHVFRUdsSlRnS3VteXhnTEV6bXhIekRvWll0MA?oc=5",
-      "pub_date": 1792129668.0,
-      "article_url": "https://www.massdevice.com/cmr-surgical-ceo-outlines-the-path-forward-for-strykers-robotics-partnership/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2026/10/15161736/Massimillano-Colella-CEO-2.jpg",
-      "description": "CMR Surgical CEO Massimiliano Colella says the robotics developer plans to come out swinging after Stryker's $400 million investment."
-    },
-    {
-      "headline": "These workers help train robots who could one day steal their jobs",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWW82cHE2RnI2WEhnVWVsYk9vcHg3UDhZSTRzQUFkNzVYQ3FHQUxZVTMzQTd2OHdpaUUxX3dkV2RCTzRIczk0WnJJcXZnc3ExZVJZY3gtRDZwbmJ0WlZKYVlJZXhTVTRNXzN3X2ZwMmNaUmtIb0Rab19hUEY5eGl5V0luZWZ0NkwycWpQN05EcDlEczhpU19HWndVVkxyaXBsRENpQURfNGdGVXF4OUE?oc=5",
-      "pub_date": 1791970127.0,
-      "article_url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3703x2083+0+1/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fc6%2Fd28dafef4d61ba6cc03148fd71ef%2Fai-robots-final.jpeg",
-      "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
+      "headline": "AI robots are roaming L.A. grocery aisles. Shoppers and workers worry about what comes next",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
+      "pub_date": 1792171380.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
+      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
     },
     {
       "headline": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots \u2014 wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning",
@@ -75,16 +75,6 @@
       "description": "Is AI coming for blue-collar jobs, too?"
     },
     {
-      "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tbnF6SWljZVFQNWNlc2ZyVkh0SGVNNC1ZTm82QTg2OGlMTjdhS180WkZBaTkwN0o5bE0tR0UydzVmZnowS3JIeFlzNlhfdXFFZUsxeEYwNDVneTkySUtOUEt5eWZRc0ZSODZCbUl6ZjliRkdVYVY3MWl4c24?oc=5",
-      "pub_date": 1792063796.0,
-      "article_url": "https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1eade429586b4393/6acf818cc37bcf528cc91be4/Saga-Robotics-Thorvald-time-inventions-2026.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
-      "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
-    },
-    {
       "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -93,6 +83,16 @@
       "article_url": "https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tbnF6SWljZVFQNWNlc2ZyVkh0SGVNNC1ZTm82QTg2OGlMTjdhS180WkZBaTkwN0o5bE0tR0UydzVmZnowS3JIeFlzNlhfdXFFZUsxeEYwNDVneTkySUtOUEt5eWZRc0ZSODZCbUl6ZjliRkdVYVY3MWl4c24?oc=5",
+      "pub_date": 1792063796.0,
+      "article_url": "https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1eade429586b4393/6acf818cc37bcf528cc91be4/Saga-Robotics-Thorvald-time-inventions-2026.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
     },
     {
       "headline": "Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T19:03:00.450251+00:00"
+  "fetched_at": "2026-10-17T21:36:52.733180+00:00"
 }
