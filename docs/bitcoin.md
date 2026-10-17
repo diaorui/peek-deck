@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-17T16:35:15.775957+00:00'
+updated: '2026-10-17T19:03:04.775877+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 16:35 UTC  
+**Last Updated:** October 17, 2026 at 19:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -2.9%  
-**30d:** +0.6%  
-**90d:** +24.6%  
-**1y:** -24.0%  
+**24h:** -0.3%  
+**7d:** -2.7%  
+**30d:** +0.8%  
+**90d:** +24.9%  
+**1y:** -23.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1631.55B
+**Market Cap:** $1636.72B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.6%
+-35.4%
 
 **All-Time Low:** $67.81
-+119611.0%
++119995.9%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I wish my government (US) would start investing in crypto instead of some of the dumb stuff we waste our taxes on. The way they are giving 7.3 billion to shit like ICE to chase after workers in the country, but can't invest in future planning for a better economy? Anyways, just something I keep thinking about as things continue to get more expensive What do you guys think?
 
-20h ago
+23h ago
 
 ---
 
@@ -107,7 +107,7 @@ I wish my government (US) would start investing in crypto instead of some of the
 
 Deutsche Bank plans to launch cryptocurrency custody services within weeks, starting with Bitcoin (BTC) and Ethereum (ETH), as Germany’s largest bank
 
-🔗 [Coinpedia Fintech News](https://coinpedia.org/news/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks/) • 23h ago
+🔗 [Coinpedia Fintech News](https://coinpedia.org/news/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks/) • 1d ago
 
 ---
 
@@ -153,71 +153,25 @@ The latest redemptions, however, represent a small fraction of the roughly $65.7
 
 ## Google News: "bitcoin"
 
-**[Strategy stock falls 10% as Michael Saylor's bitcoin giant faces index-level threat](https://finance.yahoo.com/markets/crypto/article/strategy-stock-falls-10-as-michael-saylors-bitcoin-giant-faces-index-level-threat-193944684.html)**
+**[Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed](https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed)**
 
-Strategy stock fell more than 3% on Friday after index provider MSCI announced new eligibility rules that could lead to the removal of Michael Saylor's bitcoin juggernaut from its global stock indexes.
+A group of crypto companies is trying to settle one of the industry’s murkiest questions: what it actually means for a blockchain network to be safe from…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy CEO sees a historic Bitcoin banking boom coming. Here's what's driving it](https://www.thestreet.com/crypto/markets/strategy-ceo-sees-a-historic-bitcoin-banking-boom-coming-heres-whats-driving-it)**
-
-TheStreet • 1d ago
+Decrypt • 3h ago
 
 ---
 
-**[Bitcoin On Track For First Back-To-Back Losing Octobers In Over A Decade As ‘Downtober’ Continues](https://finance.yahoo.com/markets/crypto/articles/bitcoin-track-first-back-back-143414633.html)**
+**[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
 
-Bankless co-founders said BTC climbed into the month from the $60,000s, unlike last year's slide from a record high.
-
-Yahoo Finance • 2h ago
+Barron's • 1d ago
 
 ---
 
-**[Q4 2026 Bitcoin Outlook: Did the August Rally Mark the Cycle Low?](https://www.stonex.com/en-gb/news-and-analysis/q4-2026-bitcoin-outlook-did-the-august-rally-mark-the-cycle-low/)**
+**[Vitalik Buterin Reveals Why AI Could Push Bitcoin Miners Out](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-reveals-why-ai-170524563.html)**
 
-StoneX • 3h ago
+Vitalik Buterin says Bitcoin mining cost splits 50/50 between hardware and power, while AI inference runs almost entirely on hardware.
 
----
-
-**[Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough](https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough)**
-
-Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.
-
-CoinDesk • 14h ago
-
----
-
-**[Hyperliquid, Monero or Bitcoin: Which Could Hit a New All Time High First?](https://247wallst.com/investing/cryptocurrency/2026/10/17/hyperliquid-monero-or-bitcoin-which-could-hit-a-new-all-time-high-first/)**
-
-Hyperliquid, Monero, and Bitcoin trade closest to their records among large coins. Which could hit a new all-time high first?
-
-24/7 Wall St. • 2h ago
-
----
-
-**[Current price of Bitcoin for October 13, 2026](https://fortune.com/article/price-of-bitcoin-10-13-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 4d ago
-
----
-
-**[Bitcoin Tests $82,000 as BTC Price Prediction Hinges on a Weekend Reclaim](https://bitcoinfoundation.org/news/analysis/bitcoin-tests-82-000-as-btc-price-prediction-hinges-on-a-weekend-reclaim/)**
-
-BTC price prediction hinges on whether Bitcoin can reclaim and hold $82,000 after slipping 0.72%; the level will shape October’s near-term outlook.
-
-Bitcoin Foundation • 8h ago
-
----
-
-**[Bitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab’s Adam Lynch Warns A Midterms Risk](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bounces-monthly-low-charles-schwab-warns-midterms/cZxkJmxRBt1)**
-
-Bitcoin (BTC) rebounded from its lowest point in nearly a month on Saturday, but Charles Schwab’s Adam Lynch warned that midterms could “grind [crypto industry] to a halt”.
-
-Stocktwits • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -225,7 +179,55 @@ Stocktwits • 3h ago
 
 Millions of investors hold IBIT shares believing they have exposure to Bitcoin, but the actual ownership chain running through a Delaware trust, a crypto custodian, and a handful of authorized traders tells a more complicated story.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Judge Rejects Gemini, CFTC Bid To Overturn $5M Settlement In Bitcoin Futures Case](https://finance.yahoo.com/markets/crypto/articles/judge-rejects-gemini-cftc-bid-180644160.html)**
+
+The CFTC sued Gemini in 2022, and the exchange agreed to pay the $5 million penalty in January 2025 after more than three years of litigation.
+
+Yahoo Finance • 56m ago
+
+---
+
+**[Best Crypto Casinos 2026 – Top 5 Bitcoin Sites Reviewed for Bonuses](https://muddyriversports.com/casino-hub/best-crypto-casinos-2026-top-5-bitcoin-sites-reviewed-for-bonuses/20261016052942/)**
+
+Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features ✅mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino ✅JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses ✅Thunderpick 100% up to €2,000 Bonus rollover rules ✅BitStarz Up to 5 BTC + 180 Free Spins Staged free spins ✅Lucky Rebel...
+
+Muddy River Sports • 1d ago
+
+---
+
+**[‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery](https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery)**
+
+Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.
+
+CoinDesk • 12h ago
+
+---
+
+**[Better Buy Right Now: Bitcoin vs. Shiba Inu](https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/)**
+
+Both of these cryptocurrencies have registered positive momentum in the past three months.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows](https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows)**
+
+Grayscale research shows that bitcoin’s realized volatility is in the same range as a number of S&P 500 stocks.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes](https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block)**
+
+(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency’s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.“The move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,” Rahman said. “In the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.”Both Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.“The 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,” he said. “This could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
+
+Kitco • 2d ago
 
 ---
 
@@ -253,7 +255,7 @@ Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap�
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 2 • 💬 0 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 2 • 💬 0 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -281,33 +283,23 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ## YouTube Videos: "bitcoin"
 
-**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
-
-Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 1K • 💬 104 • ⏱️ 17:56 • 17h ago
-
----
-
 **[Bitcoin Holders: What Always Happens at the Start of a Bull Market](https://www.youtube.com/watch?v=SSrFzcfmtTk)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 252 • 💬 48 • ⏱️ 10:54 • 10h ago
+👁️ 8K • 👍 275 • 💬 61 • ⏱️ 10:54 • 13h ago
 
 ---
 
-**[$20B AUM Siebert Analyst: $175K Bitcoin Price Target + MSTR “Buy” Rating Explained](https://www.youtube.com/watch?v=8sbC_ZNGKHQ)**
+**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
 
-Siebert Financial sees Bitcoin reaching $175K within the next 12 months, and Strategy hitting $350 a share along with it.
+Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
 
-📺 Bitcoin Magazine
+📺 Simply Bitcoin
 
-👁️ 9K • 👍 123 • 💬 2 • ⏱️ 20:42 • 19h ago
+👁️ 30K • 👍 1K • 💬 118 • ⏱️ 17:56 • 20h ago
 
 ---
 
@@ -317,47 +309,7 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 72 • ⏱️ 8:46 • 17h ago
-
----
-
-**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
-
-Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
-
-📺 Simply Bitcoin
-
-👁️ 46K • 👍 2K • 💬 98 • ⏱️ 16:42 • 1d ago
-
----
-
-**[Is Bitcoin Ready To Rip While Wall Street Breaks?](https://www.youtube.com/watch?v=5nUxci_05jA)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 16K • 👍 1K • 💬 42 • ⏱️ 1:00:13 • 3h ago
-
----
-
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
-
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
-
-📺 Benjamin Cowen
-
-👁️ 143K • 👍 4K • 💬 333 • ⏱️ 1:11:56 • 1d ago
-
----
-
-**[BITCOIN IS ABOUT TO EXPLODE....](https://www.youtube.com/watch?v=xR82epis5xQ)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 15K • 👍 719 • 💬 51 • ⏱️ 8:40 • 8h ago
+👁️ 54K • 👍 2K • 💬 74 • ⏱️ 8:46 • 20h ago
 
 ---
 
@@ -367,17 +319,67 @@ Michael Saylor: 'The smart, rich, powerful people in the world have picked Bitco
 
 📺 Xapo Bank
 
-👁️ 12K • 👍 270 • 💬 85 • ⏱️ 46:50 • 1d ago
+👁️ 13K • 👍 285 • 💬 85 • ⏱️ 46:50 • 1d ago
 
 ---
 
-**[Bitcoin Just Got FLUSHED...But Whales Are Buying](https://www.youtube.com/watch?v=QwE90xwXM-I)**
+**[$20B AUM Siebert Analyst: $175K Bitcoin Price Target + MSTR “Buy” Rating Explained](https://www.youtube.com/watch?v=8sbC_ZNGKHQ)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Siebert Financial sees Bitcoin reaching $175K within the next 12 months, and Strategy hitting $350 a share along with it.
 
-📺 CryptosRUs
+📺 Bitcoin Magazine
 
-👁️ 25K • 👍 696 • 💬 48 • ⏱️ 43:21 • 1d ago
+👁️ 9K • 👍 124 • 💬 4 • ⏱️ 20:42 • 21h ago
+
+---
+
+**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
+
+Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
+
+📺 Simply Bitcoin
+
+👁️ 47K • 👍 2K • 💬 98 • ⏱️ 16:42 • 1d ago
+
+---
+
+**[Is Bitcoin Ready To Rip While Wall Street Breaks?](https://www.youtube.com/watch?v=5nUxci_05jA)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 42 • ⏱️ 1:00:13 • 6h ago
+
+---
+
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
+
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+
+📺 Benjamin Cowen
+
+👁️ 150K • 👍 4K • 💬 337 • ⏱️ 1:11:56 • 1d ago
+
+---
+
+**[Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun](https://www.youtube.com/watch?v=hTfIVPjwHiA)**
+
+Bitcoin has been trading sideways in the $80Ks, but Lark Davis says we're on the cusp of the next major cycle. The crypto investor ...
+
+📺 Bitcoin Magazine
+
+👁️ 10K • 👍 110 • 💬 8 • ⏱️ 17:31 • 1d ago
+
+---
+
+**[BITCOIN IS ABOUT TO EXPLODE....](https://www.youtube.com/watch?v=xR82epis5xQ)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+
+📺 Crypto Rover
+
+👁️ 17K • 👍 753 • 💬 58 • ⏱️ 8:40 • 11h ago
 
 ---
 
