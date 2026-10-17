@@ -9,48 +9,28 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
-      "pub_date": 1792141325.0,
+      "pub_date": 1792181745.0,
       "article_url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia CEO on AI Market Turmoil: \u2018All of This Is Going to Pass\u2019",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ?oc=5",
-      "pub_date": 1792182795.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass",
-      "image": null,
-      "description": null
+      "headline": "The AI expectations gap",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
+      "pub_date": 1792169100.0,
+      "article_url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f887bbe389a32292f37fd38e5515da404a384d0f-2000x1125.jpg",
+      "description": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions."
     },
     {
-      "headline": "The AI El Ni\u00f1o",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0t4eXNWSW5URUtfblI3eEV3UmlXbG1KUWtuZGVHLUdJTzVsbmttalVSQzJsSU0xNjd6QnVsVjhaQjZSMElwS2dPYnlTQ0NHblZCdjBtRllQaXl4ek9IM29CV0tEblBWc1hfN01KcnBVem4tbnFleExKX0R4eVhUMHU4bWQ?oc=5",
-      "pub_date": 1792209611.0,
-      "article_url": "https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI-generated photo raises questions about possible car scam in West Bloomfield",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWJxMWhYX1djUG1BX3A1U0kxWHMzaFNuVnp1TFBiaUN0Q1drOUJXMEhSMFNZWDRWdm9mUmppZFJfZUNQampzMXMyalQxdTJkV1pvazdvWlN4d2ppb0Z2V2xMWV9RMC0xZWV0Q2FvWHJwOEh2SWR0Mk1hM0JFR29UZmJmemEtazM1S1R4dl9RMjlhVEJXdTg2M3NqZGRoYm85Rnc?oc=5",
-      "pub_date": 1792207428.0,
-      "article_url": "https://www.cbsnews.com/detroit/news/photo-raises-questions-about-possible-car-scam-west-bloomfield/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/17/9da378c6-76c2-43d9-9926-533b4a40f8f2/thumbnail/1200x630/866a5f3bbefb953c9bcb8051ed9c3d4e/snapshot-2026-10-16t231108-996.jpg",
-      "description": "A Facebook post is raising questions about a possible scam after a woman says a stranger approached her at a Whole Foods in West Bloomfield, showing a photo that appeared to show damage to her car."
-    },
-    {
-      "headline": "Employees Aren\u2019t Disclosing Their Secretive \u2018Shadow AI\u2019 Usage At Work And Employers Need To Find Out Why",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXA1aEg3NmVabkxrNzNGeFFMWmV5WHFLUmpROXAwbDY3c29TV0hLUGsxaVNneUplZE5DZXM2SDFoeVpVWE5Hei1JcTRXdGRDSEY2TVNsb01zV1FsSzZyYUJKajZUNDlPbVNEZ29tQnVwVE9CelFqNGR1T3BkQy1ZdFhhenVMSGZWLWN1bEtsVXVVTjRETGF1ZFlsMThpT05PTkhyWWR0M1h2djg2enlydGxtVXo0cG1jVVZwZkU1THRiYTM1ckRYM2NPbDlFU3FxU3BWaFo5R0FQRVRfeldxS2FqSTNOOTIt?oc=5",
-      "pub_date": 1792209730.0,
-      "article_url": "https://www.forbes.com/sites/lanceeliot/2026/10/17/employees-arent-disclosing-their-secretive-shadow-ai-usage-at-work-and-employers-need-to-find-out-why/",
+      "headline": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
+      "pub_date": 1792223011.0,
+      "article_url": "https://www.reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17/",
       "image": null,
       "description": null
     },
@@ -65,46 +45,66 @@
       "description": null
     },
     {
-      "headline": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZlFzOHNtZTQyTENUcDVQeVlNWXAtTjlVd2pVZDFIdmtuYVJsZWhjcjlESmMxclRMaHMwR1pzRmx0eTE0bXdESy1SeVBqc3ZTTDNiN0xyRHZJenhHTUZUZWJTbzhDYndkcmFlWXdKbWlMbkwwMmFDakRQaXNZLThlVEdRdmZlVTBHZlN3N1g3Sll1QXh2ZzgwdnRzc0VNd3V3VVBsTm1IUW13VEVtNkFvMmdmVUpIdkkxaFI5UEV3a3ZnS3JLV3d1dVdQVzY?oc=5",
-      "pub_date": 1792176379.0,
-      "article_url": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108148968-1747857895308-gettyimages-2216324853-l1131686_copy_8g4vru91.jpeg?v=1763565126&w=1920&h=1080",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
-    },
-    {
-      "headline": "The AI expectations gap",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
-      "pub_date": 1792169100.0,
-      "article_url": "https://www.anthropic.com/research/ai-expectations-gap",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f887bbe389a32292f37fd38e5515da404a384d0f-2000x1125.jpg",
-      "description": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions."
-    },
-    {
-      "headline": "Anthropic quietly pitches its own AI safety bill to lawmakers",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
-      "pub_date": 1792187100.0,
-      "article_url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "headline": "Why Is Tech Billionaire Marc Andreessen So Mad?",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjhnazJ5emNiTW5vallzYmJPYmIwN1JSX2lIMDM0b2NYbDhVLURTcHRmb0d1Qnl1STZjZ3lPTE9PdWNVQXJhWFlCOThoMDBsWEVvX29EdWlsY2JRQm01bVVfYVhLaGVGMThlbXVUdVVxUUJxOERmSGNfNTNjUHVmSE9oZXdfTkNVNWJGamJoWTRzR0hjODBOdDFsbnRKaTNqR3pMSQ?oc=5",
+      "pub_date": 1792054854.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+      "headline": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrS2Y3dEp1SVBOMy1Bb290M19VN2JWVS04V2xENXdHU2dPTUY1cnExOUM3UUlJUHJjSkpXOXpIWmlvVFlkUVMxWHpCeUlVV2JWeGFuOEoxUE1aS043VjZkMklWVjZ3cjE3bFNJampEc2NMSWVaWlpJbmhB0gF_QVVfeXFMT1ZnT21FTW1GYU1MQkdmS3JYb1ptTDRJZnpkQ3NPMUdhMWhIN3RzandNbEhpcFNnZHpoOTZnbHdqWUNXRUpTeVQ1NVg0WENwM2hPNXhhWkZLeUtYVzB2UzlZYjdUVFAwek4zNjVPamtKS3VXUnZRMC1JZ3dCb19DZw?oc=5",
+      "pub_date": 1792213201.0,
+      "article_url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108408586-1791983342206-gettyimages-2123155212-dsc01886.jpeg?v=1791983461&w=1920&h=1080",
+      "description": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts."
+    },
+    {
+      "headline": "NVIDIA RTX Spark PCs Available Today \u2014 A New Beginning for Windows PCs",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFF1Y3NscnpKMlBtdk52SF9LOFE5Y2F3VjBMRGZFNVhOX2NTQkJEUGFENTdvZVQ0ajI0R012ZmNxeTBYaVZzaEJhc0J2YVM2Vy0xZVpqOTNKeno5TDZqMEJSWFU2b1BNb3FrOVZHU29ERXoxYzBKVW9lR1JyVzlIUmRYSXVLX28yNmtja3hDdWQ5QXI4SHBWLTlmNkQ5TTFwRVh6VXZB?oc=5",
+      "pub_date": 1792152237.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "image": "https://iprsoftwaremedia.com/219/files/202610/6b76fb1cf81fffb13a4bb218a40498e4/6ad1b68c3d63324cdc9b1ab9_nvidia-rtx-spark/nvidia-rtx-spark_f4f2e983-c349-4b1f-ac12-c09817b54764-prv.jpg?v=f4f2e983-c349-4b1f-ac12-c09817b54764",
+      "description": "NVIDIA today announced the availability of NVIDIA RTX Spark\u2122 laptops, bringing together RTX graphics and NVIDIA\u2019s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u2014 rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI."
+    },
+    {
+      "headline": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0FsY1ltSGx1ZGhyc0hFUHgzM2VTUW5LNWY1alhzZnJsR3JXanFycnNFOVdtSGhST0lFTlNfUFJxNERyMzBvaXFubjAxMmkybzUzVERmblo1V0xVNzBkMUFrcTVDMldSZUFQM3VMYjRXemV2V21BRnM0YU9KTm1RMk9fTDZwcGpnTFB4M0hNb0JBRjFSWnhPMUVRcmdhcnpCLVExNk9jaFZZTWVzWTFjSXJEWk8yUQ?oc=5",
+      "pub_date": 1792188288.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tech stocks tumble as AI debt fears rattle Wall Street",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySWZEMXlwOEkxNmZYX041ZFNpdjJlOS02em9wbHNpX2ZaMHZ2RzdCZTA2VktiY0htNDlVYng4NXlhUFF3cThuRHlfaWZ2OUVydEFzSlp2Ymd4anN2em1WdEl2bGxKcUExQXRYVmlQYTlUUQ?oc=5",
+      "pub_date": 1792181280.0,
+      "article_url": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/16/6ecf9bb0-2958-4286-9fe2-393ec3e58a0f/thumbnail/1200x630/8d27e5035ab6f2268a523c3a20c0e2b7/gettyimages-2299938321.jpg",
+      "description": "Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI."
+    },
+    {
+      "headline": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
-      "pub_date": 1792193032.0,
-      "article_url": "https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+      "pub_date": 1792148460.0,
+      "article_url": "https://www.reuters.com/business/wall-st-futures-mixed-tech-wobbles-again-tesla-gains-2026-10-16/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T04:50:40.155900+00:00"
+  "fetched_at": "2026-10-17T09:02:32.755280+00:00"
 }

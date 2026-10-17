@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T04:50:42.025595+00:00'
+updated: '2026-10-17T09:02:33.942596+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 04:50 UTC  
+**Last Updated:** October 17, 2026 at 09:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -4.3%  
-**30d:** -7.1%  
-**90d:** +27.5%  
-**1y:** -37.6%  
+**24h:** -1.2%  
+**7d:** -4.0%  
+**30d:** -6.8%  
+**90d:** +27.9%  
+**1y:** -37.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $296.38B
+**Market Cap:** $297.17B
 Rank #2
 
 **Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.9%
+-50.8%
 
 **All-Time Low:** $0.43
-+560329.0%
++561821.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hey community, I'm wondering how someone can get offers to his ENS domains. I ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -152,27 +152,19 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
+**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
+
+An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
+
+Engadget • 20h ago
+
+---
+
 **[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
 
 The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
 CoinDesk • 1d ago
-
----
-
-**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
-
-An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
-
-Engadget • 16h ago
-
----
-
-**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/)**
-
-The odds of these coins being worth more in five years are quite high.
-
-The Motley Fool • 17h ago
 
 ---
 
@@ -184,11 +176,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/)**
+
+The odds of these coins being worth more in five years are quite high.
+
+The Motley Fool • 21h ago
+
+---
+
 **[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/)**
 
 Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
-UrbanMatter • 17h ago
+UrbanMatter • 22h ago
 
 ---
 
@@ -196,21 +196,7 @@ UrbanMatter • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
-
----
-
-**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
-
-Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
-
-Decrypt • 1d ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC holds $80,500, ETH rebounds from key support, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333)**
-
-FXStreet • 1d ago
+Fortune • 10h ago
 
 ---
 
@@ -218,7 +204,13 @@ FXStreet • 1d ago
 
 Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 14h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC holds $80,500, ETH rebounds from key support, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -230,9 +222,35 @@ TradingView • 1d ago
 
 ---
 
+**[Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze](https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze)**
+
+Benzinga • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
+
+supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanalysis 4th anniversary Level 2 offer, apply ...
+
+📺 Venture
+
+👁️ 168 • 👍 17 • 💬 1 • ⏱️ 25:25 • 1h ago
+
+---
+
+**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
+
+Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 119 • 💬 4 • ⏱️ 8:38 • 2h ago
+
+---
 
 **[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
 
@@ -240,17 +258,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 2K • 👍 37 • 💬 4 • ⏱️ 8:36 • 13h ago
-
----
-
-**[Bitcoin Fake Out COMPLETE (HUGE ETHEREUM SIGNAL)](https://www.youtube.com/watch?v=QvZdYf89pqo)**
-
-Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may be COMPLETE, and a huge Ethereum (ETH) signal ...
-
-📺 Discover Crypto
-
-👁️ 9K • 👍 251 • 💬 47 • ⏱️ 1:07:37 • 11h ago
+👁️ 2K • 👍 43 • 💬 4 • ⏱️ 8:36 • 17h ago
 
 ---
 
@@ -260,17 +268,7 @@ Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP
 
 📺 Lark Davis
 
-👁️ 18K • 👍 499 • 💬 32 • ⏱️ 1:11:36 • 16h ago
-
----
-
-**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
-
-Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
-
-📺 Home Aura
-
-👁️ 5K • 👍 122 • 💬 72 • ⏱️ 4:20 • 21h ago
+👁️ 19K • 👍 504 • 💬 32 • ⏱️ 1:11:36 • 20h ago
 
 ---
 
@@ -284,51 +282,53 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 ---
 
+**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
+
+Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
+
+📺 Home Aura
+
+👁️ 5K • 👍 123 • 💬 72 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
+
+Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+
+📺 Marzell Crypto
+
+👁️ 1K • 👍 21 • 💬 4 • ⏱️ 3:19 • 1d ago
+
+---
+
 **[BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eZGzMo7LMEw)**
 
 BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 12K • 👍 349 • 💬 82 • ⏱️ 17:44 • 17h ago
+👁️ 13K • 👍 359 • 💬 51 • ⏱️ 17:44 • 21h ago
 
 ---
 
-**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
+**[BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LUUbmFVy14M)**
 
-Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
+BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Thomas Kralow
+📺 Crypto World
 
-👁️ 13K • 👍 919 • 💬 27 • ⏱️ 14:50 • 19h ago
-
----
-
-**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
-
-As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
-
-📺 Coinage
-
-👁️ 7K • 👍 49 • 💬 2 • ⏱️ 12:34 • 2d ago
+👁️ 15K • 👍 349 • 💬 161 • ⏱️ 22:20 • 1d ago
 
 ---
 
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+**[Bitcoin Fake Out COMPLETE (HUGE ETHEREUM SIGNAL)](https://www.youtube.com/watch?v=QvZdYf89pqo)**
 
-📺 Itsdanielmac
+Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may be COMPLETE, and a huge Ethereum (ETH) signal ...
 
-👁️ 39K • 👍 686 • 💬 29 • ⏱️ 0:48 • 2d ago
+📺 Discover Crypto
 
----
-
-**[Bitcoin Bounced, My Buy Zones for ETH, XRP, SOL, NEAR, ZEC, HYPE, and More](https://www.youtube.com/watch?v=wihtboz3Gq8)**
-
-Altcoin buy targets, coin by coin. I show how I set a buy target for each altcoin from how hard it falls when Bitcoin falls, then check ...
-
-📺 VirtualBacon
-
-👁️ 21K • 👍 431 • 💬 48 • ⏱️ 1:28:35 • 10h ago
+👁️ 9K • 👍 254 • 💬 43 • ⏱️ 1:07:37 • 15h ago
 
 ---
 
