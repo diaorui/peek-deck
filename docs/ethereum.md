@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-16T21:56:29.892554+00:00'
+updated: '2026-10-17T00:11:51.494425+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 16, 2026 at 21:56 UTC  
+**Last Updated:** October 17, 2026 at 00:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -3.6%  
-**30d:** -1.3%  
-**90d:** +28.9%  
-**1y:** -36.9%  
+**24h:** -0.4%  
+**7d:** -4.5%  
+**30d:** -7.3%  
+**90d:** +27.2%  
+**1y:** -37.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.10B
+**Market Cap:** $295.50B
 Rank #2
 
 **Circulating Supply:** 122,139,509 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.2%
+-51.1%
 
 **All-Time Low:** $0.43
-+557862.4%
++558603.8%
 
 ---
 
@@ -156,7 +156,15 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
-CoinDesk • 17h ago
+CoinDesk • 19h ago
+
+---
+
+**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
+
+An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
+
+Engadget • 11h ago
 
 ---
 
@@ -164,7 +172,7 @@ CoinDesk • 17h ago
 
 The odds of these coins being worth more in five years are quite high.
 
-The Motley Fool • 10h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -176,19 +184,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
-
-An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
-
-Engadget • 9h ago
-
----
-
 **[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/)**
 
 Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
-UrbanMatter • 10h ago
+UrbanMatter • 13h ago
 
 ---
 
@@ -196,35 +196,37 @@ UrbanMatter • 10h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 2h ago
 
 ---
 
-**[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)**
+**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
 
-British bank Standard Chartered won Dubai regulatory approval to let clients buy Bitcoin and Ethereum straight from their bank accounts.
+Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
 
-Decrypt • 2d ago
-
----
-
-**[Ethereum, XRP and Solana slide as hot inflation data rattles crypto](https://www.tradingview.com/news/cryptobriefing:e146bbc0c094b:0-ethereum-xrp-and-solana-slide-as-hot-inflation-data-rattles-crypto/)**
-
-Ethereum, XRP and Solana all dropped on October 15, 2026. The trigger had nothing to do with blockchains and everything to do with a spreadsheet from Washington.The US Consumer Price Index for September showed inflation running at 3.7% year over year. Market analysts cited by Decrypt say macro fact…
-
-TradingView • 1d ago
+Decrypt • 1d ago
 
 ---
 
-**[Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze](https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze)**
+**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://coinpedia.org/price-analysis/ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2350-is-another-flush-ahead/)**
 
-Benzinga • 1d ago
+Ethereum saw $283 million in liquidations within 24 hours, while open interest fell 11% as ETH prices declined.
+
+Coinpedia • 19h ago
 
 ---
 
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC holds $80,500, ETH rebounds from key support, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333)**
 
-FXStreet • 18h ago
+FXStreet • 20h ago
+
+---
+
+**[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
+
+Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
+
+Crypto Briefing • 5h ago
 
 ---
 
@@ -238,7 +240,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 785 • 👍 31 • 💬 4 • ⏱️ 8:36 • 6h ago
+👁️ 1K • 👍 32 • 💬 4 • ⏱️ 8:36 • 8h ago
 
 ---
 
@@ -248,7 +250,7 @@ Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 231 • 💬 47 • ⏱️ 1:07:37 • 4h ago
+👁️ 8K • 👍 246 • 💬 47 • ⏱️ 1:07:37 • 7h ago
 
 ---
 
@@ -258,17 +260,7 @@ Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP
 
 📺 Lark Davis
 
-👁️ 17K • 👍 487 • 💬 31 • ⏱️ 1:11:36 • 9h ago
-
----
-
-**[Bitcoin Bounced, My Buy Zones for ETH, XRP, SOL, NEAR, ZEC, HYPE, and More](https://www.youtube.com/watch?v=wihtboz3Gq8)**
-
-Altcoin buy targets, coin by coin. I show how I set a buy target for each altcoin from how hard it falls when Bitcoin falls, then check ...
-
-📺 VirtualBacon
-
-👁️ 16K • 👍 358 • 💬 50 • ⏱️ 1:32:20 • 3h ago
+👁️ 18K • 👍 495 • 💬 32 • ⏱️ 1:11:36 • 11h ago
 
 ---
 
@@ -278,17 +270,45 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 192 • 💬 17 • ⏱️ 23:05 • 1d ago
+👁️ 9K • 👍 193 • 💬 17 • ⏱️ 23:05 • 1d ago
 
 ---
 
-**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
+**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
 
-As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
+Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
 
-📺 Coinage
+📺 Thomas Kralow
 
-👁️ 7K • 👍 48 • 💬 2 • ⏱️ 12:34 • 2d ago
+👁️ 12K • 👍 912 • 💬 20 • ⏱️ 14:50 • 14h ago
+
+---
+
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+
+📺 Itsdanielmac
+
+👁️ 39K • 👍 676 • 💬 27 • ⏱️ 0:48 • 2d ago
+
+---
+
+**[Bitcoin Bounced, My Buy Zones for ETH, XRP, SOL, NEAR, ZEC, HYPE, and More](https://www.youtube.com/watch?v=wihtboz3Gq8)**
+
+Altcoin buy targets, coin by coin. I show how I set a buy target for each altcoin from how hard it falls when Bitcoin falls, then check ...
+
+📺 VirtualBacon
+
+👁️ 18K • 👍 378 • 💬 53 • ⏱️ 1:32:20 • 6h ago
+
+---
+
+**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
+
+Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
+
+📺 Home Aura
+
+👁️ 5K • 👍 122 • 💬 72 • ⏱️ 4:20 • 16h ago
 
 ---
 
@@ -302,33 +322,13 @@ Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ..
 
 ---
 
-**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
+**[Why Grayscale Thinks Investors Are Sleeping on Ethereum and Solana](https://www.youtube.com/watch?v=UzVPCtIZ6UE)**
 
-Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
+As trillions of dollars in traditional financial assets prepare to move on-chain, Grayscale Head of Research Zach Pandl believes ...
 
-📺 Home Aura
+📺 Coinage
 
-👁️ 5K • 👍 122 • 💬 72 • ⏱️ 4:20 • 14h ago
-
----
-
-**[BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eZGzMo7LMEw)**
-
-BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 320 • 💬 51 • ⏱️ 17:44 • 10h ago
-
----
-
-**[Ethereum&#39;s next move: What you need to know #crypto #ethereum #investing](https://www.youtube.com/watch?v=nyhETyQv-2Y)**
-
-Ethereum broke above the 50-week before Bitcoin did, and now it's pulling back toward it. ETH broke out earlier and made a ...
-
-📺 Crypto Archie
-
-👁️ 60 • 👍 3 • ⏱️ 0:50 • 56m ago
+👁️ 7K • 👍 49 • 💬 2 • ⏱️ 12:34 • 2d ago
 
 ---
 
