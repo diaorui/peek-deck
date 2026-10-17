@@ -25,14 +25,14 @@
       "description": "A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie."
     },
     {
-      "headline": "East End, Sheridan students take robotics teams to Worlds",
-      "source": "KATV",
-      "source_url": "https://katv.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPODc2eHB4TjA5cUg2dVVNb2xjNlp3SnA3NmpiX1MxUjZGUndrVzJrUDhwMXh1a0hGTW5YNmRDYk0td0J5R25TSkRZM3hHS3lCZ3RCWjkyMVlHYXVSYXlFdDFXUXNxYWJiczF2QVJLUElKYUpDRG9odTM4UngwajEwcENRWmZzRk8zakptekpxeEJNWDYzZDdvQ0JqNGl0UjRKSTk1UlFzMW5mSnpMX2pyMGFDT2YtcmpwbnlvUTk5bjJwTnluUWhYZDlKcUo5WG55Sk00blR2WlBLcXJMUUxoVEdvcFN3TFZHU0Iw?oc=5",
-      "pub_date": 1792192634.0,
-      "article_url": "https://katv.com/news/local/east-end-sheridan-students-take-robotics-teams-to-worlds-competition-world-championships-design-build-code-level-up-competition",
-      "image": "https://katv.com/resources/media2/16x9/1157/1320/25x0/90/f0e24249-46aa-4618-9841-5c0929669e96-image1.jpeg",
-      "description": "Eight robotics teams from East End Middle School and Sheridan Middle School have qualified for the world championship since 2022, including three teams last sch"
+      "headline": "Video: Are These Workers Training Robots to Replace Them?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODFOeFhOdVduU0NPOW1TSGloRW9TX3ptZHR5SU5MUV9DMnJaaHlnVDlaYjNSbmJUaDFrR29vaG1vanJ0UFpsbl9fTkJCZ2ppcmpEeVVVVkp0Y240RUJGMTgzVjE4TV9HaVFoQV8wSXFydlBxQmNuVUgwMnhmdnNuZXpvUDc4S0x0UUE?oc=5",
+      "pub_date": 1792141356.0,
+      "article_url": "https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "CMR Surgical CEO outlines the path forward for Stryker\u2019s robotics partnership",
@@ -55,24 +55,14 @@
       "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
     },
     {
-      "headline": "Video: Are These Workers Training Robots to Replace Them?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODFOeFhOdVduU0NPOW1TSGloRW9TX3ptZHR5SU5MUV9DMnJaaHlnVDlaYjNSbmJUaDFrR29vaG1vanJ0UFpsbl9fTkJCZ2ppcmpEeVVVVkp0Y240RUJGMTgzVjE4TV9HaVFoQV8wSXFydlBxQmNuVUgwMnhmdnNuZXpvUDc4S0x0UUE?oc=5",
-      "pub_date": 1792141356.0,
-      "article_url": "https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html",
+      "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
+      "pub_date": 1792050445.0,
+      "article_url": "https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Gemini 4 Argon for Robotics",
-      "source": "blog.google",
-      "source_url": "https://developers.googleblog.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
-      "pub_date": 1791907362.0,
-      "article_url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
-      "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     },
     {
       "headline": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
@@ -85,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
-      "pub_date": 1792050445.0,
-      "article_url": "https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/",
-      "image": null,
-      "description": null
+      "headline": "Canadian robotics firm partners with nation's largest homebuilder, expands into Phoenix",
+      "source": "ABC15 Arizona",
+      "source_url": "https://www.abc15.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLThBeXRYX1JPcUVnVm10d3NaZXpzTG84RndZY1pQQnV1Q0hWaVpkM1RSRUFoeTEwN1FuckxwblNVZmpXakZEbk96NzBVT1RDeXVBVDc0MGZ1emVvdWgwSnZTY1JoWWNfdUtXdGtjaGNsNzJMeFpObUtNbzVRWFF0U0xtc0lkRE5SNGQ5TDEwNDVkbUdxdFh6SGVZUjN4R3JnVF9ybTJUUjIyMWJPNW9xR2JkYVhCUnB5eHlZVnpR?oc=5",
+      "pub_date": 1792080360.0,
+      "article_url": "https://www.abc15.com/news/business/canadian-robotics-firm-partners-with-nations-largest-homebuilder-expands-into-phoenix",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/db866a5/2147483647/strip/true/crop/1200x630+0+25/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F38%2F91%2F693a6bba4bf48192cf53b3345d7a%2Fpromise-robotics.jpg",
+      "description": "A Canadian company that is expanding its \u201cfactory-as-a-service\u201d model with a new plant in the Phoenix metro has inked a production partnership with the nation\u2019s largest homebuilder."
     },
     {
       "headline": "Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot",
@@ -103,8 +93,18 @@
       "article_url": "https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Crew Preps for Dragon\u2019s Arrival During Vision and Robotics Research",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlY4a3dtVzJ3MzBTVmE0eWFiVW5CNTAxZ2c1V3ZfTmg2WkUzVUZ3MTlRLWRIQTlJNzRwcFU4ZFB6bVRRX1V2MUw0RFVDeWRuTDRkQ0RlUEJoQ184Tlk4RHBIQ0VVTTNiR1VjeWlYSG1ZcGFiSldubk1Pblo0QmNhTk1PczNFa3ZQR3gtSTdna1B3dmNWcURVUnczZzdpcXZibzlqSllhZFdGbmxFWjRldHR6bTJ6eGlpWGc?oc=5",
+      "pub_date": 1792000475.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/",
+      "image": "https://images-assets.nasa.gov/image/iss074e0586370/iss074e0586370~large.jpg",
+      "description": "A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T00:11:49.895260+00:00"
+  "fetched_at": "2026-10-17T04:50:21.761163+00:00"
 }

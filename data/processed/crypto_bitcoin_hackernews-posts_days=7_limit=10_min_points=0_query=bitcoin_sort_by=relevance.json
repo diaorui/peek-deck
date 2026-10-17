@@ -37,7 +37,7 @@
       "url": "https://www.bbc.com/news/articles/cgrl4l1y9yxo",
       "hn_url": "https://news.ycombinator.com/item?id=50125445",
       "author": "andrewstuart",
-      "points": 1,
+      "points": 2,
       "num_comments": 0,
       "created_at": "2026-10-16T22:12:11Z",
       "object_id": "50125445",
@@ -91,5 +91,5 @@
   ],
   "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-10-17T00:11:31.683293+00:00"
+  "fetched_at": "2026-10-17T04:50:03.168003+00:00"
 }
