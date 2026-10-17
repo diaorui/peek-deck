@@ -33,6 +33,20 @@
       "site_name": "coinmarketcap.com"
     },
     {
+      "title": "Adam Back says he is not elusive Bitcoin creator named by New York Times",
+      "url": "https://www.bbc.com/news/articles/cgrl4l1y9yxo",
+      "hn_url": "https://news.ycombinator.com/item?id=50125445",
+      "author": "andrewstuart",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-16T22:12:11Z",
+      "object_id": "50125445",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8247/live/4dbd29a0-3332-11f1-8873-2d60fc58e0b0.jpg",
+      "description": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.",
+      "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20261014-124122-9e48a3510a-web-3.24.0-4/apple-touch-icon.png",
+      "site_name": "bbc.com"
+    },
+    {
       "title": "FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
       "url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037",
       "hn_url": "https://news.ycombinator.com/item?id=50061464",
@@ -75,7 +89,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 5,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-10-16T21:55:58.935302+00:00"
+  "fetched_at": "2026-10-17T00:11:31.683293+00:00"
 }
