@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUVjdXhrUDJLZ3hzOE9HYko5ZjV0Qk5vLUMtaTdLbUowb0IxMHBHV2l0Ry0ydV9DTkZiUkdya0swSjVNYTAyNFdrVFJtRUJ6bW1nQzNDQ0xrdU1hRC1FTFVsZ3owVEhTRTFXVVljTG9PelRFcDEyaU5iMFBrdGQtWHowUXRESFdnUEY0YzA5aGZUeHF5RjBFNXI2VQ?oc=5",
-      "pub_date": 1792252863.0,
-      "article_url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png",
-      "description": "A group of crypto companies is trying to settle one of the industry\u2019s murkiest questions: what it actually means for a blockchain network to be safe from\u2026"
-    },
-    {
       "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
@@ -25,24 +15,14 @@
       "description": null
     },
     {
-      "headline": "Vitalik Buterin Reveals Why AI Could Push Bitcoin Miners Out",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEc4XzNGbjRudGlGQWJRa0s3NGJvX09kNjVWNnFwSjNRSWdRbUl3VS0zWnNiY0l4XzdnT0lSYzZUQzBjX0FqbFNXXzJQcTdhdUUzVWU3RUU0XzlvZ3N1NXJCU0UxTXItWEtweXpuVFNMeFhkSmZoY2hlcF9zV2h5YXdCaU9GVXBIZmhzYzVwWGNKdDItVlhONEpmWQ?oc=5",
-      "pub_date": 1792256724.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-reveals-why-ai-170524563.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/25b5df38fd81e0cc6ace5e7de846917c3839f43c2e570a0f66dd89ccd5728df3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Faa7cbf7752fafe5a1c87e6f0599c7eb6.jpg",
-      "description": "Vitalik Buterin says Bitcoin mining cost splits 50/50 between hardware and power, while AI inference runs almost entirely on hardware."
-    },
-    {
-      "headline": "Judge Rejects Gemini, CFTC Bid To Overturn $5M Settlement In Bitcoin Futures Case",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1d3QTZ6MTJ1UWRDbHB1TUxEdzRLVTNZMm1qRTlSVHBfWU1MVFdHdFp5QXpFVUJaOURJdnZMZHN4dF9MVHF0RHBKcXFCZlFoM252WTFrUm1ZSmVIS3NOQ3BzaS1hSzZCRGJWYU5kLWE0dEFyWXNDbXhFVkp0ZDhJUE12V3l6U05vSlF1ZVR5TWNCcDhMSnJWdktn?oc=5",
-      "pub_date": 1792260404.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/judge-rejects-gemini-cftc-bid-180644160.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d619d049272d039cf2c1c05a2bfd474110d60094697592969ba387aece29b3ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1bf1380ee642a1ffed5ea9659ae5417e",
-      "description": "The CFTC sued Gemini in 2022, and the exchange agreed to pay the $5 million penalty in January 2025 after more than three years of litigation."
+      "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUVjdXhrUDJLZ3hzOE9HYko5ZjV0Qk5vLUMtaTdLbUowb0IxMHBHV2l0Ry0ydV9DTkZiUkdya0swSjVNYTAyNFdrVFJtRUJ6bW1nQzNDQ0xrdU1hRC1FTFVsZ3owVEhTRTFXVVljTG9PelRFcDEyaU5iMFBrdGQtWHowUXRESFdnUEY0YzA5aGZUeHF5RjBFNXI2VQ?oc=5",
+      "pub_date": 1792252863.0,
+      "article_url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png",
+      "description": "A group of crypto companies is trying to settle one of the industry\u2019s murkiest questions: what it actually means for a blockchain network to be safe from\u2026"
     },
     {
       "headline": "Coinbase Global (COIN) Wins SEC Backing For Binaries And Flags Bitcoin Quantum Risk",
@@ -75,6 +55,16 @@
       "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
     },
     {
+      "headline": "Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQThGa1VJcmc5Sm5EQUNNNElhNE9HTllwc2E5aTRLZ3NONmUyWk4zb2sySXZvZ2sxRHZoUWVCNEpSTDdxV01admVsSm1xZXg1SE5fbUxpdHpsOWlpcGFSNkNLUm11R1AyQXpCOWF1bF92UmxkQ0tRVHJVQ3hLbDd2RlpYR3p6MVdnNHVza09IdUhtVzh0Nl9CaVJTUWJoOVJNRDZtbkRGTFhnQmFLZ2k5amJVTXMzUlJTa280RzVQbWhmY00?oc=5",
+      "pub_date": 1792216926.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -83,6 +73,16 @@
       "article_url": "https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888107%2Finvestor-looking-at-phone-and-laptop-charts.jpg&w=1200&op=resize",
       "description": "Both of these cryptocurrencies have registered positive momentum in the past three months."
+    },
+    {
+      "headline": "Bitcoin is starting to behave more like gold as investors seek alternative hedges \u2013 Block Scholes",
+      "source": "Kitco",
+      "source_url": "https://www.kitco.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjVqNVNDQzBBblZaVnAwR2llMHpEUERYc2N2WXlhNnBnNG5Xc2hMUWpzVkN0RVlFalJ0V3V6RFo1SzA2NlVRbHE4Yk9zanRqRnBybGxiaDY3RFJQTGtJV0JLNzU3N2MzZ0FySjV4LXZSbGpaUEhTX2dpVHNqLXhuTVNUSjU5ZkUxN1RWZTh3Q2JYdWI3QmtJeXZYM2hFX2lMQUhjWk9SRWJiaHpUcHB5c3VzZlZGRE5xRGE0?oc=5",
+      "pub_date": 1792077000.0,
+      "article_url": "https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block",
+      "image": "https://image-api.prod.kitco.com/image/42a55063-5d24-44c0-b1da-4b0510536c0c.jpeg?top=0.31815099457505&left=0&width=1000&height=562.36369801085&scale_width=1920&token=70bb19961de883f9d18edb9e71dab0857cb82c28c742d378f84b36b0f4cf0182",
+      "description": "(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency\u2019s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.\u201cThe move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,\u201d Rahman said. \u201cIn the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.\u201dBoth Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.\u201cThe 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,\u201d he said. \u201cThis could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.\u201dSee live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
     },
     {
       "headline": "Bitcoin\u2019s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
@@ -95,16 +95,16 @@
       "description": "Grayscale research shows that bitcoin\u2019s realized volatility is in the same range as a number of S&P 500 stocks."
     },
     {
-      "headline": "Bitcoin is starting to behave more like gold as investors seek alternative hedges \u2013 Block Scholes",
-      "source": "Kitco",
-      "source_url": "https://www.kitco.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjVqNVNDQzBBblZaVnAwR2llMHpEUERYc2N2WXlhNnBnNG5Xc2hMUWpzVkN0RVlFalJ0V3V6RFo1SzA2NlVRbHE4Yk9zanRqRnBybGxiaDY3RFJQTGtJV0JLNzU3N2MzZ0FySjV4LXZSbGpaUEhTX2dpVHNqLXhuTVNUSjU5ZkUxN1RWZTh3Q2JYdWI3QmtJeXZYM2hFX2lMQUhjWk9SRWJiaHpUcHB5c3VzZlZGRE5xRGE0?oc=5",
-      "pub_date": 1792077000.0,
-      "article_url": "https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block",
-      "image": "https://image-api.prod.kitco.com/image/42a55063-5d24-44c0-b1da-4b0510536c0c.jpeg?top=0.31815099457505&left=0&width=1000&height=562.36369801085&scale_width=1920&token=70bb19961de883f9d18edb9e71dab0857cb82c28c742d378f84b36b0f4cf0182",
-      "description": "(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency\u2019s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.\u201cThe move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,\u201d Rahman said. \u201cIn the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.\u201dBoth Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.\u201cThe 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,\u201d he said. \u201cThis could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.\u201dSee live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
+      "headline": "Bitcoin ETFs log $228M in weekly sales as monthly outflows near $618M",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDdfa3JKQ0tBcDAzR3N1VHIxMU9tblhPdzVSX1hvaGtJbGdxMWlUbXRjMW1ncWc3UG0yVHN4M014OGlXWW0ya01JWGJCYnRzbEYzOE9vVjFuOXhyWUJDYlE4dnFwNnpJYmpuZ0JGeUptLXI1cnFsV0hpM190djFRazRoaGlGWHZkQ2Y4UE5sMVNlTjRNcFhjaVR1OUNoSklDUUsyNnlkSGRXUG9Oa19DYnJ3ajZWc2tnaEt2cEs4SWc0dE5NanR4MWxkQ3E?oc=5",
+      "pub_date": 1792265172.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:db1b3f357094b:0-bitcoin-etfs-log-228m-in-weekly-sales-as-monthly-outflows-near-618m/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "US spot Bitcoin ETFs had a rough October stretch. Investors pulled $228.6 million from the funds over the five trading days ending October 16, 2026.That brings month-to-date net outflows to roughly $615 million, with some tallies putting the figure closer to $618 million.These funds have become the\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T21:36:46.483991+00:00"
+  "fetched_at": "2026-10-17T23:47:43.507440+00:00"
 }
