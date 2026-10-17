@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T19:03:04.782081+00:00'
+updated: '2026-10-17T21:36:57.353006+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 19:03 UTC  
+**Last Updated:** October 17, 2026 at 21:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -4.7%  
-**30d:** -7.5%  
-**90d:** +26.9%  
-**1y:** -37.9%  
+**24h:** -1.5%  
+**7d:** -5.9%  
+**30d:** -8.6%  
+**90d:** +25.4%  
+**1y:** -38.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.90B
+**Market Cap:** $291.50B
 Rank #2
 
 **Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.2%
+-51.7%
 
 **All-Time Low:** $0.43
-+557460.5%
++551086.1%
 
 ---
 
@@ -168,11 +168,11 @@ Engadget • 1d ago
 
 ---
 
-**[3 Cryptocurrencies That Could Stage a Comeback by the End of 2026](https://finance.yahoo.com/markets/crypto/articles/3-cryptocurrencies-could-stage-comeback-083138710.html)**
+**[Wall Street’s Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?](https://finance.yahoo.com/markets/crypto/articles/wall-street-biggest-settlement-firm-210139490.html)**
 
-Ethereum, Solana, and Chainlink are all trading far below their peak prices, but each carries a different catalyst and a different risk that could determine whether any of them recovers before 2026 runs out.
+Wall Street's biggest settlement firm just named Stellar as a future partner, sending XLM back onto traders' watchlists. But before you chase the catalyst, the comparison with Ethereum reveals some uncomfortable truths about timing, tokenization dominance, and price reality.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 35m ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 The coin's recent strength is undeniable, but the fact that it might not last forever demands at least some caution from investors.
 
-The Motley Fool • 1h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -188,31 +188,15 @@ The Motley Fool • 1h ago
 
 Ethereum sets Hoodi’s Glamsterdam test for October 26, requiring compatible client upgrades while mainnet timing and the future impact on fees remain open.
 
-CryptoSlate • 2h ago
+CryptoSlate • 4h ago
 
 ---
 
-**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://www.tradingview.com/news/coinpedia:292ee480f094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/)**
+**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
 
-As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra…
+Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
 
-TradingView • 2d ago
-
----
-
-**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
-
----
-
-**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
-
-Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
-
-Blockchain News • 14h ago
+TradingView • 1d ago
 
 ---
 
@@ -221,6 +205,22 @@ Blockchain News • 14h ago
 Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
 UrbanMatter • 1d ago
+
+---
+
+**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
+
+Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
+
+Blockchain News • 16h ago
+
+---
+
+**[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
+
+Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 1K • 👍 140 • 💬 65 • ⏱️ 14:47 • 2h ago
+👁️ 5K • 👍 218 • 💬 108 • ⏱️ 14:47 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 1K • 👍 42 • 💬 5 • ⏱️ 25:25 • 11h ago
+👁️ 1K • 👍 45 • 💬 5 • ⏱️ 25:25 • 14h ago
 
 ---
 
@@ -262,7 +262,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 156 • 💬 22 • ⏱️ 23:39 • 1d ago
+👁️ 8K • 👍 160 • 💬 21 • ⏱️ 23:39 • 1d ago
 
 ---
 
@@ -272,27 +272,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 3K • 👍 52 • 💬 4 • ⏱️ 8:36 • 1d ago
-
----
-
-**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
-
-Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 251 • 💬 12 • ⏱️ 8:38 • 12h ago
-
----
-
-**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 543 • 👍 20 • 💬 2 • ⏱️ 4:57 • 9h ago
+👁️ 3K • 👍 53 • 💬 5 • ⏱️ 8:36 • 1d ago
 
 ---
 
@@ -302,17 +282,17 @@ Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to acce
 
 📺 Home Aura
 
-👁️ 5K • 👍 126 • 💬 72 • ⏱️ 4:20 • 1d ago
+👁️ 5K • 👍 127 • 💬 72 • ⏱️ 4:20 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
+**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
 
-Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
+Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
 
-📺 Thomas Kralow
+📺 More Crypto Online
 
-👁️ 14K • 👍 957 • 💬 26 • ⏱️ 14:50 • 1d ago
+👁️ 10K • 👍 259 • 💬 12 • ⏱️ 8:38 • 15h ago
 
 ---
 
@@ -333,6 +313,26 @@ Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP
 📺 Lark Davis
 
 👁️ 20K • 👍 516 • 💬 34 • ⏱️ 1:11:36 • 1d ago
+
+---
+
+**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 709 • 👍 21 • 💬 9 • ⏱️ 4:57 • 11h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=BeiskaPoutE)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 2K • 👍 70 • ⏱️ 6:02 • 9h ago
 
 ---
 
