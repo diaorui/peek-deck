@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-16T21:56:29.886246+00:00'
+updated: '2026-10-17T00:11:51.488416+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 16, 2026 at 21:56 UTC  
+**Last Updated:** October 17, 2026 at 00:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.5%  
-**30d:** +6.9%  
-**90d:** +26.3%  
-**1y:** -23.4%  
+**24h:** -0.6%  
+**7d:** -2.6%  
+**30d:** +0.9%  
+**90d:** +25.0%  
+**1y:** -23.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1640.56B
+**Market Cap:** $1638.41B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.3%
+-35.4%
 
 **All-Time Low:** $67.81
-+120273.1%
++120103.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Save in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1x7hxuq/save_in_bitcoin/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 I wish my government (US) would start investing in crypto instead of some of the dumb stuff we waste our taxes on. The way they are giving 7.3 billion to shit like ICE to chase after workers in the country, but can't invest in future planning for a better economy? Anyways, just something I keep thinking about as things continue to get more expensive What do you guys think?
 
-2h ago
+4h ago
 
 ---
 
 **[The Bitcoin Standard book in 5 minutes](https://www.reddit.com/r/Bitcoin/comments/1x7kzpk/the_bitcoin_standard_book_in_5_minutes/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Bears VS Bitcoin since months ago](https://www.reddit.com/r/Bitcoin/comments/1x7bcul/bears_vs_bitcoin_since_months_ago/)**
 
-12h ago
+15h ago
 
 ---
 
@@ -107,7 +107,7 @@ I wish my government (US) would start investing in crypto instead of some of the
 
 Deutsche Bank plans to launch cryptocurrency custody services within weeks, starting with Bitcoin (BTC) and Ethereum (ETH), as Germany’s largest bank
 
-🔗 [Coinpedia Fintech News](https://coinpedia.org/news/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks/) • 5h ago
+🔗 [Coinpedia Fintech News](https://coinpedia.org/news/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks/) • 7h ago
 
 ---
 
@@ -123,13 +123,13 @@ Happy to see another statue out there, just worried about the lake near. Locatio
 
 https://reddit.com/link/1x7d69x/video/a3siqysr8tvh1/player Will AI agents choose Bitcoin over dollars? Jack sees the long-term fit, but says AI companies aren’t asking for Bitcoin integrations yet. What would make Bitcoin useful enough for them to switch?
 
-10h ago
+13h ago
 
 ---
 
 **[Don’t leverage, buy Bitcoin and hodl](https://www.reddit.com/r/Bitcoin/comments/1x734lq/dont_leverage_buy_bitcoin_and_hodl/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -137,7 +137,7 @@ https://reddit.com/link/1x7d69x/video/a3siqysr8tvh1/player Will AI agents choose
 
 The latest redemptions, however, represent a small fraction of the roughly $65.7 billion in net inflows BlackRock's fund has attracted since launching in 2024.
 
-🔗 [International Business Times](https://www.ibtimes.com/bitcoin-etfs-lost-65-million-day-one-blackrock-fund-accounted-every-dollar-3808531) • 12h ago
+🔗 [International Business Times](https://www.ibtimes.com/bitcoin-etfs-lost-65-million-day-one-blackrock-fund-accounted-every-dollar-3808531) • 15h ago
 
 ---
 
@@ -145,7 +145,7 @@ The latest redemptions, however, represent a small fraction of the roughly $65.7
 
 74% of Americans no longer trust the U.S. dollar to hold its value. 61% want to learn more about owning Bitcoin. The battle for awareness is over. The silent mutiny against fiat is already here. There’s one problem: A landmark national study shows the way we’ve explained Bitcoin for the last decade is actively repelling the very people ready to listen. "Digital Gold" is dead: It ranked near the bottom in voter focus groups. The 55% blind spot: More than half of voters still don't know they can buy BTC through major brokerages. Celebrity fatigue: Everyday people don't trust billionaire CEOs or politicians—they trust friends, family, and their local advisor. It’s time to step out of the echo chamber and speak to the 61%.
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-silent-mutiny-against-the-dollar) • 17h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-silent-mutiny-against-the-dollar) • 19h ago
 
 ---
 
@@ -153,9 +153,59 @@ The latest redemptions, however, represent a small fraction of the roughly $65.7
 
 ## Google News: "bitcoin"
 
+**[Strategy stock falls as Michael Saylor's bitcoin giant faces index-level threat](https://finance.yahoo.com/markets/crypto/article/strategy-stock-falls-as-michael-saylors-bitcoin-giant-faces-index-level-threat-144934435.html)**
+
+Strategy stock fell more than 3% on Friday after index provider MSCI announced new eligibility rules that could lead to the removal of Michael Saylor's bitcoin juggernaut from its global stock indexes.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Strategy faces MSCI ouster under new rules, billions in passive holdings at risk](https://www.reuters.com/world/asia-pacific/strategy-faces-msci-ouster-under-new-rules-billions-passive-holdings-risk-2026-10-16/)**
+
+Reuters • 3h ago
+
+---
+
 **[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
 
-Barron's • 9h ago
+Barron's • 11h ago
+
+---
+
+**[MSCI makes it official, and bitcoin (BTC) treasury firms Strategy, Metaplanet are on notice](https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes)**
+
+MSCI has approved a set of rules proposed in August that could remove BTC-holding firms Strategy and Metaplanet from its stock indices.
+
+CoinDesk • 15h ago
+
+---
+
+**[Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules](https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules)**
+
+MSCI has finalized a rule change that threatens to boot Bitcoin treasury companies like Strategy from its widely tracked equity indexes.
+
+Decrypt • 5h ago
+
+---
+
+**[Bitcoin's Demise Is Coming, And Strategy Is Not Ready (NASDAQ:MSTR)](https://seekingalpha.com/article/4954039-bitcoins-demise-is-coming-and-strategy-is-not-ready)**
+
+Strategy (MSTR) is rated Sell due to overvaluation, dilution, and mounting senior claims tied to its bitcoin-centric capital structure.
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Bitcoin treasury stocks could lose their index privileges](https://finance.yahoo.com/video/bitcoin-treasury-stocks-could-lose-163000228.html)**
+
+Scott Melker discusses MSCI's latest decision that could end up removing Strategy (MSTR) and other bitcoin (BTC-USD) treasury companies from the index.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -163,21 +213,7 @@ Barron's • 9h ago
 
 Fixed income is again catching a bid on worries about the deflating AI bubble.
 
-CoinDesk • 1h ago
-
----
-
-**[Cantor's $112,000 Bitcoin Call Lifts Strategy Target to $208](https://finance.yahoo.com/markets/crypto/articles/cantors-112-000-bitcoin-call-205538907.html)**
-
-Cantor raised its bitcoin price assumption to $112,000 from $98,000
-
-Yahoo Finance • 1h ago
-
----
-
-**[Strategy faces MSCI ouster under new rules, billions in passive holdings at risk](https://www.reuters.com/world/asia-pacific/strategy-faces-msci-ouster-under-new-rules-billions-passive-holdings-risk-2026-10-16/)**
-
-Reuters • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,15 +221,7 @@ Reuters • 1h ago
 
 Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features ✅mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino ✅JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses ✅Thunderpick 100% up to €2,000 Bonus rollover rules ✅BitStarz Up to 5 BTC + 180 Free Spins Staged free spins ✅Lucky Rebel...
 
-Muddy River Sports • 11h ago
-
----
-
-**[Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway](https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway)**
-
-Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.
-
-Fox Business • 2d ago
+Muddy River Sports • 13h ago
 
 ---
 
@@ -201,29 +229,7 @@ Fox Business • 2d ago
 
 The odds of these coins being worth more in five years are quite high.
 
-The Motley Fool • 10h ago
-
----
-
-**[Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes](https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block)**
-
-(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency’s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.“The move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,” Rahman said. “In the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.”Both Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.“The 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,” he said. “This could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
-
-Kitco • 1d ago
-
----
-
-**[Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows](https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows)**
-
-Grayscale research shows that bitcoin’s realized volatility is in the same range as a number of S&P 500 stocks.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin rebounds to near $82k but set for second week in red](https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175)**
-
-Investing.com • 7h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -235,7 +241,7 @@ Investing.com • 7h ago
 
 Contribute to Artur7897/bitcoin-composition-engine development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
+⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
 
 ---
 
@@ -243,7 +249,15 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 1 • 1d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
+⬆️ 2 • 💬 1 • 2d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
+
+---
+
+**[Adam Back says he is not elusive Bitcoin creator named by New York Times](https://news.ycombinator.com/item?id=50125445)**
+
+The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
+
+⬆️ 1 • 💬 0 • 1h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -277,7 +291,7 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 2K • 💬 191 • ⏱️ 1:11:56 • 5h ago
+👁️ 72K • 👍 3K • 💬 229 • ⏱️ 1:11:56 • 8h ago
 
 ---
 
@@ -287,7 +301,27 @@ Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 624 • 💬 39 • ⏱️ 43:21 • 5h ago
+👁️ 20K • 👍 651 • 💬 41 • ⏱️ 43:21 • 7h ago
+
+---
+
+**[$20B AUM Siebert Analyst: $175K Bitcoin Price Target + MSTR “Buy” Rating Explained](https://www.youtube.com/watch?v=8sbC_ZNGKHQ)**
+
+Siebert Financial sees Bitcoin reaching $175K within the next 12 months, and Strategy hitting $350 a share along with it.
+
+📺 Bitcoin Magazine
+
+👁️ 1K • 👍 54 • 💬 3 • ⏱️ 20:42 • 2h ago
+
+---
+
+**[CONFIRMED: Strategy Will Be Kicked Out of $21T Global Index (ATTACK WORKED) | EP 1615](https://www.youtube.com/watch?v=kKp0D8YMvj0)**
+
+MSCI Global Index rules CONFIRMED and Strategy and Metaplanet are OUT!
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 227 • 💬 35 • ⏱️ 1:26:08 • 5h ago
 
 ---
 
@@ -297,7 +331,27 @@ Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market i
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 2K • 💬 123 • ⏱️ 14:20 • 1d ago
+👁️ 45K • 👍 2K • 💬 123 • ⏱️ 14:20 • 2d ago
+
+---
+
+**[PAY ATTENTION: If BTC Reclaims This EXACT Level We’ll Pump Way Higher!](https://www.youtube.com/watch?v=GPgaJ8PYOt0)**
+
+Bitcoin is sitting in a very tricky spot right now and one level changes everything. Kyle Doops breaks down the exact price level ...
+
+📺 Crypto Banter
+
+👁️ 28K • 👍 1K • 💬 16 • ⏱️ 26:02 • 16h ago
+
+---
+
+**[Bitcoin Crashed Through Key Support.... (HUGE Investment Buy Signal Incoming!)](https://www.youtube.com/watch?v=G_vDcJhR62Y)**
+
+A major correction is taking place. Sign up for the Crypto Jebb Research Symposium: ...
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 113 • 💬 18 • ⏱️ 8:12 • 6h ago
 
 ---
 
@@ -307,67 +361,27 @@ Is the AI bubble about to burst, and is Bitcoin already pricing in the next mass
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 2K • 💬 107 • ⏱️ 16:42 • 1d ago
+👁️ 43K • 👍 2K • 💬 107 • ⏱️ 16:42 • 1d ago
 
 ---
 
-**[BITCOIN HISTORY WILL REPEAT... *prepare now*](https://www.youtube.com/watch?v=wuoWvgq1a_c)**
+**[Crypto Holders Are About To Get WRECKED!! (Be Ready!)](https://www.youtube.com/watch?v=hVCS6yfApzU)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+You Have To Be CRAZY to not see what's happening right now. A TSUNAMI is about to hit Crypto.. (You've Been Warned) ...
 
-📺 Crypto Rover
+📺 Altcoin Daily
 
-👁️ 25K • 👍 819 • 💬 29 • ⏱️ 9:20 • 2d ago
-
----
-
-**[Bitcoin Update: What’s Happening With BTC Right Now?](https://www.youtube.com/watch?v=Rg1dSvBoGEo)**
-
-Bitcoin is back in focus as the crypto market watches its next move. In this quick update, we look at the latest BTC market situation ...
-
-📺 Crypto Nitro
-
-👁️ 5K • 💬 34 • ⏱️ 1:07 • 2d ago
+👁️ 82K • 👍 2K • 💬 120 • ⏱️ 10:26 • 1d ago
 
 ---
 
-**[Should I Buy Bitcoin or MicroStrategy? It Depends on The STRC Door. If It&#39;s Open...](https://www.youtube.com/watch?v=ICJwv5Vb1UY)**
+**[Bitcoin&#39;s Biggest Buyer Could Get Kicked Out Of Major Stock Indexes](https://www.youtube.com/watch?v=JqcDSB23yTU)**
 
-MicroStrategy stock or plain Bitcoin investment? MSTR performance answers that question differently depending on the week.
-
-📺 Dana Love, PhD
-
-👁️ 54K • 👍 1K • 💬 131 • ⏱️ 25:43 • 2d ago
-
----
-
-**[WATCH THIS BITCOIN UPDATE BY MONDAY! [DUMP CANCELED]](https://www.youtube.com/watch?v=u21xNxjjg5g)**
-
-WEEX: https://themoon.co/DailyWEEX UP TO $60000 BONUS BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT ...
-
-📺 The Moon Show
-
-👁️ 4K • 👍 119 • 💬 9 • ⏱️ 48:53 • 4h ago
-
----
-
-**[Bitcoin&#39;s Inflation Test Just Came In Hot - What&#39;s Next?](https://www.youtube.com/watch?v=yYklTYr0Hik)**
-
-Bitcoin #Crypto #finance Coinbase is urging Bitcoin to prepare for future quantum threats, while Strive plans to raise $500M to ...
+Bitcoin #Crypto #finance Strategy faces potential removal from major MSCI indexes, raising concerns about billions in forced ...
 
 📺 The Wolf Of All Streets
 
-👁️ 31K • 👍 775 • 💬 184 • ⏱️ 45:17 • 2d ago
-
----
-
-**[Bitcoin CRASHES on CPI Data: EXACT Support Levels You Must Watch](https://www.youtube.com/watch?v=ycL7j92IqVc)**
-
-Hot inflation data hit Bitcoin and the whole altcoin market. Here's where the floor could be. Trade alongside the Verified Pro ...
-
-📺 Verified Investing
-
-👁️ 17K • 👍 455 • 💬 59 • ⏱️ 18:35 • 2d ago
+👁️ 20K • 👍 515 • 💬 145 • ⏱️ 57:01 • 10h ago
 
 ---
 
