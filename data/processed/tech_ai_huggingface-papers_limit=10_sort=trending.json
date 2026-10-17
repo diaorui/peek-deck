@@ -35,27 +35,8 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
-      "github_stars": 767,
+      "github_stars": 772,
       "project_page": "https://huggingface.co/datasets/Gen-Verse/RSI-Anything"
-    },
-    {
-      "id": "2610.20571",
-      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
-      "authors": "Weijie Wang, Haomin Zhang, Ye Li et al. (10 authors)",
-      "organization_name": "zju",
-      "organization_fullname": "Zhejiang University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
-      "summary": "Long-form agentic video generation must turn a screenplay into shots that remain spatially and temporally consistent across nonconsecutive requests. Passing prompts or recent frames between shots does not provide a shared spatial frame for revisiting a scene or a time-indexed record for replaying an earlier event. We present Any Time, Any Space (ATAS), which compiles a screenplay into shot requests with explicit location, camera, and event-time references. Before generation, it retrieves relevant evidence from a scene memory of registered static geometry and an event memory of dynamic observations indexed by scene, event, and time. After generation, ATAS reconstructs and registers the clip. It updates memory only when review and state checks accept the observation, while film delivery remains independent of memory admission. Across four video generators, ATAS improves all reported cross-shot consistency measures and achieves the highest aggregate benchmark score for each backbone. It also outperforms the compared agents and 3D-guided methods on target-image spatial revisit, leads three event-recapture criteria, and receives the highest human ratings on all six criteria. The video results and code are available on our project page: https://lhmd.top/atas/.",
-      "ai_summary": "ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.",
-      "hf_url": "https://huggingface.co/papers/2610.20571",
-      "arxiv_url": "https://arxiv.org/abs/2610.20571",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20571.png",
-      "upvotes": 341,
-      "num_comments": 2,
-      "published_at": "2026-10-13T20:00:00.000Z",
-      "github_repo": "https://github.com/ziplab/ATAS",
-      "github_stars": 232,
-      "project_page": "https://lhmd.top/atas/"
     },
     {
       "id": "2609.18063",
@@ -73,8 +54,46 @@
       "num_comments": 4,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 5297,
+      "github_stars": 5357,
       "project_page": null
+    },
+    {
+      "id": "2610.14224",
+      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+      "authors": "Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu et al. (9 authors)",
+      "organization_name": "google",
+      "organization_fullname": "Google",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
+      "summary": "LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these harnesses. However, deploying RSI in open-world settings still faces two critical challenges. First, open-world tasks are typically unseen during the harness design phase and novel at test time, leaving no ground-truth verifiers to reliably guide online harness edits. Second, the RSI process remains highly task-specific and fails to generalize to novel scenarios. We introduce Harness^2, a plug-and-play, recursive agent harnessing framework that addresses these challenges through two connected levels of recursion. Task-level recursion refines the current task's harness using a contrastive Propose-Probe-Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion. Harnessing-level recursion then extracts experience from these edits to update a continual improvement harness, enabling the agent to better adapt to future tasks. Across three professional benchmarks and four model-harness configurations, a single step consistently improves GLM-5 and Gemini 3.5 Flash over their base harnesses, yielding gains of up to 11.5 points on WorkBuddy-Bench, 4.5 points on JobBench, and 11.8 percentage points on LAB, with further gains as the task-level recursion budget increases.",
+      "ai_summary": "Harness\u00b2 improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.",
+      "hf_url": "https://huggingface.co/papers/2610.14224",
+      "arxiv_url": "https://arxiv.org/abs/2610.14224",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
+      "upvotes": 103,
+      "num_comments": 1,
+      "published_at": "2026-10-08T20:00:00.000Z",
+      "github_repo": "https://github.com/google-research/harness2",
+      "github_stars": 660,
+      "project_page": "https://harness2.github.io/"
+    },
+    {
+      "id": "2610.20571",
+      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+      "authors": "Weijie Wang, Haomin Zhang, Ye Li et al. (10 authors)",
+      "organization_name": "zju",
+      "organization_fullname": "Zhejiang University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
+      "summary": "Long-form agentic video generation must turn a screenplay into shots that remain spatially and temporally consistent across nonconsecutive requests. Passing prompts or recent frames between shots does not provide a shared spatial frame for revisiting a scene or a time-indexed record for replaying an earlier event. We present Any Time, Any Space (ATAS), which compiles a screenplay into shot requests with explicit location, camera, and event-time references. Before generation, it retrieves relevant evidence from a scene memory of registered static geometry and an event memory of dynamic observations indexed by scene, event, and time. After generation, ATAS reconstructs and registers the clip. It updates memory only when review and state checks accept the observation, while film delivery remains independent of memory admission. Across four video generators, ATAS improves all reported cross-shot consistency measures and achieves the highest aggregate benchmark score for each backbone. It also outperforms the compared agents and 3D-guided methods on target-image spatial revisit, leads three event-recapture criteria, and receives the highest human ratings on all six criteria. The video results and code are available on our project page: https://lhmd.top/atas/.",
+      "ai_summary": "ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.",
+      "hf_url": "https://huggingface.co/papers/2610.20571",
+      "arxiv_url": "https://arxiv.org/abs/2610.20571",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20571.png",
+      "upvotes": 342,
+      "num_comments": 3,
+      "published_at": "2026-10-13T20:00:00.000Z",
+      "github_repo": "https://github.com/ziplab/ATAS",
+      "github_stars": 237,
+      "project_page": "https://lhmd.top/atas/"
     },
     {
       "id": "2412.20138",
@@ -111,7 +130,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 27629,
+      "github_stars": 27672,
       "project_page": null
     },
     {
@@ -126,11 +145,11 @@
       "hf_url": "https://huggingface.co/papers/2610.20584",
       "arxiv_url": "https://arxiv.org/abs/2610.20584",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20584.png",
-      "upvotes": 332,
+      "upvotes": 333,
       "num_comments": 3,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/Player-1",
-      "github_stars": 100,
+      "github_stars": 103,
       "project_page": "https://player-1-project.github.io/"
     },
     {
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/opendevin/opendevin",
       "github_stars": 91073,
       "project_page": null
-    },
-    {
-      "id": "2610.18356",
-      "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-      "authors": "Yu Wang, Rui Dai, Wei Chen et al. (8 authors)",
-      "organization_name": "alibabagroup",
-      "organization_fullname": "alibaba",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68be3ab7e52df040b2cf80dc/li4G29u_EGswyTN1Sm_Kq.png",
-      "summary": "City-scale 3D grounding is commonly formulated as candidate ranking, which requires precomputed instance proposals and becomes inefficient in large outdoor scenes. We propose Urbex, an agentic vision-language framework that instead casts grounding as active spatial search. Urbex represents a city-scale 3D scene as an interactive multi-view environment, allowing a VLM agent to query landmarks, zoom into local regions, render oblique views, and commit a grounded bounding box. We optimize this tool-use policy with reinforcement learning on CityRefer, using smooth localization rewards and lightweight shaping rewards for efficient exploration. Experiments show that Urbex achieves the best Hit@1 and IoU on CityRefer, supports candidate-free grounding without ground-truth boxes, and is substantially faster than the strongest city-scale ranking baseline. Zero-shot results on STPLS3D-Refer further indicate improved cross-scene robustness.",
-      "ai_summary": "Urbex reframes city-scale 3D grounding as an active search process using a vision-language agent with reinforcement learning, improving accuracy and speed without precomputed proposals.",
-      "hf_url": "https://huggingface.co/papers/2610.18356",
-      "arxiv_url": "https://arxiv.org/abs/2610.18356",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.18356.png",
-      "upvotes": 121,
-      "num_comments": 1,
-      "published_at": "2026-10-12T20:00:00.000Z",
-      "github_repo": "https://github.com/AMAP-ML/Urbex",
-      "github_stars": 97,
-      "project_page": "https://www.wangfaye.cn/paper/urbex"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-17T00:11:41.419526+00:00"
+  "fetched_at": "2026-10-17T04:50:13.087399+00:00"
 }

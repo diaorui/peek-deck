@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T00:11:51.494425+00:00'
+updated: '2026-10-17T04:50:42.025595+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 00:11 UTC  
+**Last Updated:** October 17, 2026 at 04:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -4.5%  
-**30d:** -7.3%  
-**90d:** +27.2%  
-**1y:** -37.7%  
+**24h:** -0.8%  
+**7d:** -4.3%  
+**30d:** -7.1%  
+**90d:** +27.5%  
+**1y:** -37.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.50B
+**Market Cap:** $296.38B
 Rank #2
 
-**Circulating Supply:** 122,139,509 ETH
+**Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.1%
+-50.9%
 
 **All-Time Low:** $0.43
-+558603.8%
++560329.0%
 
 ---
 
@@ -156,7 +156,7 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
-CoinDesk • 19h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 19h ago
 
 An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
 
-Engadget • 11h ago
+Engadget • 16h ago
 
 ---
 
@@ -172,7 +172,7 @@ Engadget • 11h ago
 
 The odds of these coins being worth more in five years are quite high.
 
-The Motley Fool • 12h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
-UrbanMatter • 13h ago
+UrbanMatter • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ UrbanMatter • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 6h ago
 
 ---
 
@@ -208,17 +208,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://coinpedia.org/price-analysis/ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2350-is-another-flush-ahead/)**
-
-Ethereum saw $283 million in liquidations within 24 hours, while open interest fell 11% as ETH prices declined.
-
-Coinpedia • 19h ago
-
----
-
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC holds $80,500, ETH rebounds from key support, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333)**
 
-FXStreet • 20h ago
+FXStreet • 1d ago
 
 ---
 
@@ -226,7 +218,15 @@ FXStreet • 20h ago
 
 Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 10h ago
+
+---
+
+**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://www.tradingview.com/news/coinpedia:05de475fb094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/)**
+
+As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra…
+
+TradingView • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 1K • 👍 32 • 💬 4 • ⏱️ 8:36 • 8h ago
+👁️ 2K • 👍 37 • 💬 4 • ⏱️ 8:36 • 13h ago
 
 ---
 
@@ -250,7 +250,7 @@ Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 246 • 💬 47 • ⏱️ 1:07:37 • 7h ago
+👁️ 9K • 👍 251 • 💬 47 • ⏱️ 1:07:37 • 11h ago
 
 ---
 
@@ -260,45 +260,7 @@ Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP
 
 📺 Lark Davis
 
-👁️ 18K • 👍 495 • 💬 32 • ⏱️ 1:11:36 • 11h ago
-
----
-
-**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Matt Hougan](https://www.youtube.com/watch?v=WnDF8Rfgl18)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 193 • 💬 17 • ⏱️ 23:05 • 1d ago
-
----
-
-**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
-
-Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
-
-📺 Thomas Kralow
-
-👁️ 12K • 👍 912 • 💬 20 • ⏱️ 14:50 • 14h ago
-
----
-
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
-
-📺 Itsdanielmac
-
-👁️ 39K • 👍 676 • 💬 27 • ⏱️ 0:48 • 2d ago
-
----
-
-**[Bitcoin Bounced, My Buy Zones for ETH, XRP, SOL, NEAR, ZEC, HYPE, and More](https://www.youtube.com/watch?v=wihtboz3Gq8)**
-
-Altcoin buy targets, coin by coin. I show how I set a buy target for each altcoin from how hard it falls when Bitcoin falls, then check ...
-
-📺 VirtualBacon
-
-👁️ 18K • 👍 378 • 💬 53 • ⏱️ 1:32:20 • 6h ago
+👁️ 18K • 👍 499 • 💬 32 • ⏱️ 1:11:36 • 16h ago
 
 ---
 
@@ -308,17 +270,37 @@ Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to acce
 
 📺 Home Aura
 
-👁️ 5K • 👍 122 • 💬 72 • ⏱️ 4:20 • 16h ago
+👁️ 5K • 👍 122 • 💬 72 • ⏱️ 4:20 • 21h ago
 
 ---
 
-**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
+**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Matt Hougan](https://www.youtube.com/watch?v=WnDF8Rfgl18)**
 
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Marzell Crypto
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 21 • 💬 4 • ⏱️ 3:19 • 1d ago
+👁️ 9K • 👍 195 • 💬 17 • ⏱️ 23:05 • 1d ago
+
+---
+
+**[BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eZGzMo7LMEw)**
+
+BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 349 • 💬 82 • ⏱️ 17:44 • 17h ago
+
+---
+
+**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
+
+Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
+
+📺 Thomas Kralow
+
+👁️ 13K • 👍 919 • 💬 27 • ⏱️ 14:50 • 19h ago
 
 ---
 
@@ -329,6 +311,24 @@ As trillions of dollars in traditional financial assets prepare to move on-chain
 📺 Coinage
 
 👁️ 7K • 👍 49 • 💬 2 • ⏱️ 12:34 • 2d ago
+
+---
+
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+
+📺 Itsdanielmac
+
+👁️ 39K • 👍 686 • 💬 29 • ⏱️ 0:48 • 2d ago
+
+---
+
+**[Bitcoin Bounced, My Buy Zones for ETH, XRP, SOL, NEAR, ZEC, HYPE, and More](https://www.youtube.com/watch?v=wihtboz3Gq8)**
+
+Altcoin buy targets, coin by coin. I show how I set a buy target for each altcoin from how hard it falls when Bitcoin falls, then check ...
+
+📺 VirtualBacon
+
+👁️ 21K • 👍 431 • 💬 48 • ⏱️ 1:28:35 • 10h ago
 
 ---
 
