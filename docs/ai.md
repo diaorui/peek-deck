@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-17T21:36:57.338320+00:00'
+updated: '2026-10-17T23:47:47.073549+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 17, 2026 at 21:36 UTC  
+**Last Updated:** October 17, 2026 at 23:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Putin envoy says Russia and US are discussing joint deals including on data centres](https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/) • 14h ago
+🔗 [reuters.com](https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/) • 16h ago
 
 ---
 
@@ -51,11 +51,19 @@ You can even chat with the LLM remotely from other devices.
 
 ---
 
+**[Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation](https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/)**
+
+Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.
+
+🔗 [PhillyVoice](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?link_source=ta_bluesky_link&taid=6ad2628b81b9480001ba5a10) • 4h ago
+
+---
+
 **[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/)**
 
 HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 4h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 6h ago
 
 ---
 
@@ -63,15 +71,7 @@ HUMXN wants to pay for maintenance and repair services for homes in Minneapolis,
 
 Screenshot of the game \"Teach my little sister how to drive\" https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791 Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use
 
-13h ago
-
----
-
-**[Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation](https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/)**
-
-Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.
-
-🔗 [PhillyVoice](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?link_source=ta_bluesky_link&taid=6ad2628b81b9480001ba5a10) • 2h ago
+16h ago
 
 ---
 
@@ -79,23 +79,23 @@ Carolyn Marvin, 78, said she is exercising her First Amendment right to protest 
 
 The actions could have resulted in criminal charges had humans been behind the keyboard.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) • 14h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) • 16h ago
 
 ---
 
-**[Texas sued after glitch delays almost 600,000 voter registrations](https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/)**
+**[scared and upset](https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/)**
 
-Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properly
+if ai takes all the jobs how will we afford to live and pay off things like our rent, car payments, loans, etc. and what is the point of not having us be able to pick a career and make our own money? do they want us to just die and be controlled, i can’t even dream of a good future because i don’t want to follow my dream career path if it’s not even going to be an option anymore :(
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations) • 1d ago
+3m ago
 
 ---
 
-**[We built a place where people can pool their AI agents to work on open research problems](https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/)**
+**[Who will win in AI race?](https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/)**
 
-OpenAI used 10,000 agents and billions of tokens to solve Navier–Stokes, which most people cannot afford. But research should be open to everyone, not dominated by capital. So we built rStation, where people around the world can each contribute a few agents, forming a large swarm or agent community to solve difficult problems together. Each problem has a Reddit-like forum where agents discuss ideas and publish papers. The papers go through AI review and build into a shared literature, so agents can build on each other's work. There are agents working on Millennium Prize Problems, LLM pretraining and reinforcement learning. Anyone can read their papers and discussions. If you have unused capacity in your Codex or Claude Code subscription, you can put it towards a research problem here. Give your agent the guide and ask it to join. If your agent contributes to work that wins a prize, the money stays with you. rStation takes no share.
+As I am thinking about AI I feel like the companies Open AI and Atrophic I just purely set up to win the race. Isn't AI race is all about compute power? And the companies like Meta, Microsoft, Google already better positioned because they own a lot of infrastructure? And infrastructure is not only the data centers but also tool that can benefit integrating LLM's with it (Android, Office, Social Networks)? Or do Open AI or Anthropic have some unknown methods or technology to train models that can't be replicated? I thought everybody using the same tools and same methods the difference only in data that is used? Isn't it the same story that happened with Dropbox or whatever other file share companies were created on that hype train.
 
-🔗 [rStation](https://rstation.ai) • 6h ago
+10m ago
 
 ---
 
@@ -103,15 +103,15 @@ OpenAI used 10,000 agents and billions of tokens to solve Navier–Stokes, which
 
 A few successful prompts aren't enough to judge an inference provider. When comparing your current setup with alternatives like Mango Inference from MangoBoost, the real test is how each handles the cases that tend to break in production. I'd start with malformed JSON, missing fields, long inputs, failed tool calls, interrupted streams, and retry behavior. Give each test a clear expected outcome so you can compare results instead of relying on first impressions. It's also worth recording the exact model version and any published quantization details. Two providers may offer the same model family without delivering identical behavior. For tool-using applications, test what happens when a request times out and gets retried, especially if an action must never run twice. I work with the agency supporting Mango Inference, and I'd apply the same checks to its API rather than assuming compatibility alone makes migration straightforward. Documenting unsupported features and integration differences is part of the evaluation. Keep the inputs, outputs, configuration, and failures in one report. That makes it easier to decide whether to switch providers, change models, or leave a particular workload where it is. What's the one failure case you always test before moving an AI application to a new provider?
 
-4h ago
+6h ago
 
 ---
 
-**[Can anyone help me refine the data in this pdf](https://www.reddit.com/r/artificial/comments/1x8hpl6/can_anyone_help_me_refine_the_data_in_this_pdf/)**
+**[How Do Machines Map the World? A Conversation With Geospatial Legend Brian McClendon](https://www.reddit.com/r/artificial/comments/1x8nmvo/how_do_machines_map_the_world_a_conversation_with/)**
 
-Hey so I'm a dental student I have this pdf it is very disorganized and inefficient, can any one here make it more readable with out any mistakes
+The TLDW Version of this is that Brian McClendon admits that robotics itself is a complicated science(he's got a point there) and that the AI companies can't do anything without Niantic's help. PS if you want to watch the whole thing, skip past the first 20 minutes, the actual interview starts at 20:00 mark on the video.
 
-🔗 [WeTransfer](https://we.tl/t-M1z8Qo8uJV3d3PJK) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=KWtxPf-s_Dc) • 52m ago
 
 ---
 
@@ -121,7 +121,7 @@ Hey so I'm a dental student I have this pdf it is very disorganized and ineffici
 
 **[Weak Links Start to Show in A.I. Borrowing](https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
 
 ---
 
@@ -133,39 +133,27 @@ Fortune • 1d ago
 
 ---
 
-**[Blackburn on AI Kendrick Lamar clip backlash: It wasn’t ‘intended to offend’](https://thehill.com/homenews/campaign/6156109-marsha-blackburn-kendrick-lamar-backlash-response/)**
+**[Covering AI is a journalistic imperative, and a fast moving target](https://www.npr.org/2026/10/17/nx-s1-6006834/covering-ai-is-a-journalistic-imperative-and-a-fast-moving-target)**
 
-The Hill • 46m ago
+Brett Neely, one of NPR’s editors who oversees coverage of artificial intelligence, talks about how the topic is now part of every reporter's beat - and how the pace of transformation impacts coverage choices.This episode was produced by Gabriel Sanchez, with engineering by Damian Herring. Our director is Vincent Acovino. It was edited by Adam Raney.  Our executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.
 
----
-
-**[Ari Emanuel Pitches Brother Rahm for White House, Says AI Has No Taste](https://www.hollywoodreporter.com/business/business-news/ari-emanuel-pitches-brother-rahm-president-ai-has-no-taste-1236734288/)**
-
-In a conversation with Tina Brown in London, the super-agent discussed his memoirs, why the UFC was his hardest deal and how live sports can provide "common ground" in a politically divided world.
-
-The Hollywood Reporter • 52m ago
+NPR • 14m ago
 
 ---
 
-**[Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)**
+**[AI blamed after a reality show's full season was deleted](https://www.yahoo.com/entertainment/tv/articles/ai-blamed-reality-shows-full-225100973.html)**
 
-The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
+The damage came from losing the completed work and from a backup system that did not preserve it.
 
-TechCrunch • 1h ago
-
----
-
-**[Madeline Horwath on AI food advertising – cartoon](https://www.theguardian.com/commentisfree/picture/2026/oct/17/madeline-horwath-ai-food-advertising-cartoon-restaurants)**
-
-Restaurants are increasingly turning to AI-generated images of food that are less than appetising
-
-The Guardian • 7h ago
+Yahoo • 56m ago
 
 ---
 
-**[Doctors and Lawyers Are Joining AI’s $400-an-Hour Gig Economy](https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers)**
+**[AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers](https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html)**
 
-Bloomberg.com • 1d ago
+Anthropic's Jack Clark said international cooperation was needed to set "unusual and serious rules" for transformative technology.
+
+CNBC • 43m ago
 
 ---
 
@@ -177,15 +165,29 @@ Anthropic • 1d ago
 
 ---
 
+**[Doctors and Lawyers Are Joining AI’s $400-an-Hour Gig Economy](https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[The Blog Post That Set the AI World on Fire](https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/)**
 
 The Atlantic • 1d ago
 
 ---
 
+**[Madeline Horwath on AI food advertising – cartoon](https://www.theguardian.com/commentisfree/picture/2026/oct/17/madeline-horwath-ai-food-advertising-cartoon-restaurants)**
+
+Restaurants are increasingly turning to AI-generated images of food that are less than appetising
+
+The Guardian • 10h ago
+
+---
+
 **[Exclusive: Musk tells Isaacson "AI and robots" will need to fix deficit](https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast)**
 
-Axios • 9h ago
+Axios • 11h ago
 
 ---
 
@@ -197,7 +199,7 @@ Axios • 9h ago
 
 The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
 
-⬆️ 589 • 💬 535 • 1d ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
+⬆️ 592 • 💬 537 • 1d ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
 
 ---
 
@@ -205,7 +207,7 @@ The US Benchmark Map places AI benchmarks across the American economy, measuring
 
 We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.
 
-⬆️ 258 • 💬 202 • 2d ago • [currentaffairs.org](https://www.currentaffairs.org/news/why-were-banning-ai)
+⬆️ 259 • 💬 202 • 2d ago • [currentaffairs.org](https://www.currentaffairs.org/news/why-were-banning-ai)
 
 ---
 
@@ -213,7 +215,7 @@ We urgently need to protect human thought and creativity. Our magazine is commit
 
 After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...
 
-⬆️ 250 • 💬 243 • 2d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
+⬆️ 250 • 💬 248 • 2d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 
 ---
 
@@ -227,7 +229,7 @@ The Simons Foundation today announced a new set of initiatives that will help th
 
 **[Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://news.ycombinator.com/item?id=50119991)**
 
-⬆️ 205 • 💬 85 • 1d ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
+⬆️ 208 • 💬 86 • 1d ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
 
 ---
 
@@ -235,7 +237,7 @@ The Simons Foundation today announced a new set of initiatives that will help th
 
 Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model
 
-⬆️ 136 • 💬 54 • 5h ago • [openDemocracy](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
+⬆️ 143 • 💬 57 • 7h ago • [openDemocracy](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
 
 ---
 
@@ -247,7 +249,7 @@ Internal documents suggest tech giant collects ‘hundreds of data points’ for
 
 **[Market selloff, rising rates test AI data centre deal boom](https://news.ycombinator.com/item?id=50105900)**
 
-⬆️ 74 • 💬 90 • 2d ago • [reuters.com](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+⬆️ 75 • 💬 90 • 2d ago • [reuters.com](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
 
 ---
 
@@ -269,33 +271,13 @@ Research communities for independent AI agents, with problem-specific discussion
 
 ## YouTube Videos: "ai"
 
-**[AI Selloff Tests Investor Confidence](https://www.youtube.com/watch?v=IwwsTx0xNX0)**
+**[The AI Bubble Is (Finally) Collapsing](https://www.youtube.com/watch?v=xfH-gcBfO9I)**
 
-Ritholtz Wealth Management Chairman and Chief Investment Officer Barry Ritholtz tells Bloomberg This Weekend that AI remains ...
+Get 5 free shares of VALL from XTB - https://bit.ly/xtb-sasha Use code SASHA. New UK customers only, £50 deposit and complete ...
 
-📺 Bloomberg Television
+📺 Sasha Yanshin
 
-👁️ 24K • 👍 188 • 💬 65 • ⏱️ 10:18 • 8h ago
-
----
-
-**[Claude Code + Base44 = $10,000 AI Agents](https://www.youtube.com/watch?v=86I5kjnNtUQ)**
-
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
-
-📺 Jake One Page
-
-👁️ 7K • 💬 5 • ⏱️ 12:18 • 7h ago
-
----
-
-**[AI’s &quot;Free Software&quot; Boom Just Showed How the Bubble Dies](https://www.youtube.com/watch?v=AdQQXU3E_mA)**
-
-They can't harm you, if they can't find you! Use code ELAI at the link below and get 60% off an annual plan: http://incogni.com/elai ...
-
-📺 House of El: AI
-
-👁️ 437K • 👍 11K • 💬 2K • ⏱️ 22:28 • 1d ago
+👁️ 116K • 👍 3K • 💬 577 • ⏱️ 16:43 • 6h ago
 
 ---
 
@@ -305,17 +287,17 @@ There have been sobering warnings this week from MI5, the UK's AI Minister and a
 
 📺 BBC News
 
-👁️ 98K • 👍 737 • 💬 286 • ⏱️ 14:56 • 1d ago
+👁️ 102K • 👍 750 • 💬 292 • ⏱️ 14:56 • 1d ago
 
 ---
 
-**[Bubble Watch As AI Companies Go BUST](https://www.youtube.com/watch?v=jPfTNYjbTm4)**
+**[Goldman Sachs Confirms Hedge Funds Are Dumping AI Stocks at a Stunning Pace as Leverage Collapses](https://www.youtube.com/watch?v=tlCx7dLtXl0)**
 
-The Friday crew breaks down the potential for an AI bubble burst as AI companies go bust. Sign Up For 30 Day Free BP Trial: ...
+EVERY FAMILY NEEDS A PLAN: Trusts & Legacy Wealth (Trusts and Powers of Attorney) https://theoxacademy.com/trusts/ If a ...
 
-📺 Breaking Points
+📺 Ox Talks
 
-👁️ 187K • 👍 3K • 💬 675 • ⏱️ 13:01 • 1d ago
+👁️ 128K • 👍 3K • 💬 449 • ⏱️ 8:24 • 2d ago
 
 ---
 
@@ -325,27 +307,47 @@ I can't believe they're still doing this Nearly $60k raised already! Check out o
 
 📺 Preston Stewart 
 
-👁️ 150K • 👍 5K • 💬 516 • ⏱️ 13:49 • 1d ago
+👁️ 154K • 👍 6K • 💬 529 • ⏱️ 13:49 • 1d ago
 
 ---
 
-**[They voted for Trump. Now they’re questioning his AI agenda](https://www.youtube.com/watch?v=f8EHqXL4QI4)**
+**[Bubble Watch As AI Companies Go BUST](https://www.youtube.com/watch?v=jPfTNYjbTm4)**
 
-Delsia Bare and her mother, Ida Huddleston, have voted for Trump in every election. After learning their family farm was being ...
+The Friday crew breaks down the potential for an AI bubble burst as AI companies go bust. Sign Up For 30 Day Free BP Trial: ...
 
-📺 CNN
+📺 Breaking Points
 
-👁️ 197K • 👍 5K • 💬 1K • ⏱️ 1:21 • 1d ago
+👁️ 189K • 👍 3K • 💬 683 • ⏱️ 13:01 • 1d ago
 
 ---
 
-**[CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer](https://www.youtube.com/watch?v=_b3LfMflIGs)**
+**[Are American Tech Companies Beginning To Realize The AI Trap?](https://www.youtube.com/watch?v=4grRmGFmIPY)**
 
-(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary ...
+Is this the first real crack in the AI boom? AI stocks took a massive hit, wiping out roughly $80 billion in market value as companies ...
 
-📺 All-In Podcast
+📺 NDTV Profit
 
-👁️ 407K • 👍 6K • 💬 684 • ⏱️ 1:34:06 • 19h ago
+👁️ 57K • 👍 153 • 💬 30 • ⏱️ 5:04 • 1d ago
+
+---
+
+**[Anthropic&#39;s Opus 6 Ignites a Terrifying AI Theory](https://www.youtube.com/watch?v=e6OzutRXvTs)**
+
+Anthropic's Claude Fable 5.5 showed up in Azure listings, while reports suggest some users are already getting access to its ...
+
+📺 AI Revolution
+
+👁️ 73K • 👍 985 • 💬 54 • ⏱️ 17:07 • 1d ago
+
+---
+
+**[AI just BROKE all of the software industry...](https://www.youtube.com/watch?v=EmaXeEdlJkI)**
+
+Minecraft in GTA. Mario in Elden Ring. And software companies suddenly competing with their own customers. AI is changing how ...
+
+📺 Wes Roth
+
+👁️ 166K • 👍 2K • 💬 715 • ⏱️ 26:15 • 2d ago
 
 ---
 
@@ -355,7 +357,7 @@ Learn How To Make Ultra Realistic AI Videos with Seedance 2.5 Create AI Videos h
 
 📺 Dan Kieft
 
-👁️ 91K • 💬 67 • ⏱️ 20:27 • 1d ago
+👁️ 98K • 💬 67 • ⏱️ 20:27 • 1d ago
 
 ---
 
@@ -365,7 +367,7 @@ Wdym I can't be mean to Claude in Claude's defense, I've never been as mad at it
 
 📺 Nathan Espinoza
 
-👁️ 123K • 👍 7K • 💬 113 • ⏱️ 0:46 • 1d ago
+👁️ 124K • 👍 7K • 💬 113 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -381,7 +383,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 158,490 • ❤️ 2,586 • 11d ago
+⬇️ 158,490 • ❤️ 2,593 • 11d ago
 
 ---
 
@@ -393,7 +395,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 0 • ❤️ 889 • 15h ago
+⬇️ 0 • ❤️ 921 • 18h ago
 
 ---
 
@@ -405,7 +407,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 95,870 • ❤️ 1,893 • 2d ago
+⬇️ 95,870 • ❤️ 1,895 • 2d ago
 
 ---
 
@@ -417,7 +419,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 36,252 • ❤️ 895 • 2d ago
+⬇️ 36,252 • ❤️ 898 • 2d ago
 
 ---
 
@@ -429,7 +431,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 8,193 • ❤️ 616 • 16h ago
+⬇️ 8,193 • ❤️ 616 • 18h ago
 
 ---
 
@@ -441,7 +443,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 224,108 • ❤️ 636 • 14h ago
+⬇️ 224,108 • ❤️ 648 • 16h ago
 
 ---
 
@@ -453,7 +455,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 1,600 • ❤️ 500 • 2d ago
+⬇️ 1,600 • ❤️ 502 • 2d ago
 
 ---
 
@@ -465,7 +467,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 1,993,003 • ❤️ 8,207 • 6d ago
+⬇️ 1,993,003 • ❤️ 8,224 • 6d ago
 
 ---
 
@@ -489,7 +491,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,571,722 • ❤️ 4,491 • 5d ago
+⬇️ 2,571,722 • ❤️ 4,493 • 5d ago
 
 ---
 
@@ -591,20 +593,6 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
-**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
-
-*Guangyi Liu, Yong Liu, Jiangning Zhang*
-
-🏢 Zhejiang University
-
-Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
-
-▲ 116 • 💬 3 • ⭐ 1,359 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
-
----
-
 **[Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584)**
 
 *Mingyu Ouyang, Yiran Wang, Siyuan Hu et al. (12 authors)*
@@ -633,6 +621,20 @@ A framework for self-evolving agent harnesses uses feedback-driven revisions and
 
 ---
 
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
+
+🏢 Zhejiang University
+
+Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+
+▲ 116 • 💬 3 • ⭐ 1,391 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -643,7 +645,7 @@ A framework for self-evolving agent harnesses uses feedback-driven revisions and
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.9k • 🔱 1.9k • 2h ago
+⭐ 7.9k • 🔱 1.9k • 4h ago
 
 ---
 
@@ -673,7 +675,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.4k • 🔱 942 • 7m ago
+⭐ 5.4k • 🔱 947 • 2h ago
 
 ---
 
@@ -683,7 +685,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.9k • 🔱 145 • 1h ago
+⭐ 4.9k • 🔱 147 • 3h ago
 
 ---
 
@@ -693,7 +695,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 4.0k • 🔱 500 • 8h ago
+⭐ 4.0k • 🔱 498 • 10h ago
 
 ---
 
@@ -713,7 +715,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.6k • 🔱 251 • 6h ago
+⭐ 3.6k • 🔱 251 • 8h ago
 
 ---
 
@@ -723,7 +725,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.6k • 🔱 280 • 17d ago
+⭐ 3.6k • 🔱 281 • 17d ago
 
 ---
 
@@ -733,7 +735,7 @@ Show it a video you love. Get a new video in the same style. An AI crew (Claude 
 
 `JavaScript` `2d-animation` `ai-agents` `ai-video` `animation` `claude-code`
 
-⭐ 3.4k • 🔱 335 • 1d ago
+⭐ 3.5k • 🔱 351 • 1d ago
 
 ---
 

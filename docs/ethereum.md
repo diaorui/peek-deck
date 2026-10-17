@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T21:36:57.353006+00:00'
+updated: '2026-10-17T23:47:47.088348+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 21:36 UTC  
+**Last Updated:** October 17, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -5.9%  
-**30d:** -8.6%  
-**90d:** +25.4%  
-**1y:** -38.6%  
+**24h:** -1.0%  
+**7d:** -5.5%  
+**30d:** -8.3%  
+**90d:** +25.9%  
+**1y:** -38.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.50B
+**Market Cap:** $292.56B
 Rank #2
 
 **Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.7%
+-51.6%
 
 **All-Time Low:** $0.43
-+551086.1%
++553065.4%
 
 ---
 
@@ -172,7 +172,7 @@ Engadget • 1d ago
 
 Wall Street's biggest settlement firm just named Stellar as a future partner, sending XLM back onto traders' watchlists. But before you chase the catalyst, the comparison with Ethereum reveals some uncomfortable truths about timing, tokenization dominance, and price reality.
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 35m ago
 
 The coin's recent strength is undeniable, but the fact that it might not last forever demands at least some caution from investors.
 
-The Motley Fool • 3h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -188,31 +188,7 @@ The Motley Fool • 3h ago
 
 Ethereum sets Hoodi’s Glamsterdam test for October 26, requiring compatible client upgrades while mainnet timing and the future impact on fees remain open.
 
-CryptoSlate • 4h ago
-
----
-
-**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
-
-Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
-
-TradingView • 1d ago
-
----
-
-**[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/)**
-
-Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
-
-UrbanMatter • 1d ago
-
----
-
-**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
-
-Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
-
-Blockchain News • 16h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -224,6 +200,22 @@ Crypto Briefing • 1d ago
 
 ---
 
+**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
+
+Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
+
+Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
+
+Blockchain News • 19h ago
+
+---
+
 **[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
 
 Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
@@ -232,17 +224,35 @@ Decrypt • 2d ago
 
 ---
 
+**[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/)**
+
+Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
+
+UrbanMatter • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
+**[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
 
-BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
 
-📺 Crypto World
+📺 Lark Davis
 
-👁️ 5K • 👍 218 • 💬 108 • ⏱️ 14:47 • 4h ago
+👁️ 3K • 👍 173 • 💬 16 • ⏱️ 11:36 • 2h ago
+
+---
+
+**[MIchael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=tpVCk6MI5rg)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 146 • 💬 25 • ⏱️ 26:07 • 7h ago
 
 ---
 
@@ -252,17 +262,17 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 1K • 👍 45 • 💬 5 • ⏱️ 25:25 • 14h ago
+👁️ 1K • 👍 45 • 💬 6 • ⏱️ 25:25 • 16h ago
 
 ---
 
-**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
+**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 8K • 👍 160 • 💬 21 • ⏱️ 23:39 • 1d ago
+👁️ 8K • 👍 258 • 💬 82 • ⏱️ 14:47 • 6h ago
 
 ---
 
@@ -276,13 +286,13 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 ---
 
-**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
+**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
 
-Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Home Aura
+📺 Crypto Nutshell
 
-👁️ 5K • 👍 127 • 💬 72 • ⏱️ 4:20 • 1d ago
+👁️ 8K • 👍 161 • 💬 22 • ⏱️ 23:39 • 1d ago
 
 ---
 
@@ -292,7 +302,7 @@ Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclai
 
 📺 More Crypto Online
 
-👁️ 10K • 👍 259 • 💬 12 • ⏱️ 8:38 • 15h ago
+👁️ 10K • 👍 261 • 💬 13 • ⏱️ 8:38 • 17h ago
 
 ---
 
@@ -306,13 +316,13 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 ---
 
-**[Bitcoin &amp; Crypto  Bounce, Tesla Flying Cars, Solana or Ethereum ?](https://www.youtube.com/watch?v=K9JfUGe06gU)**
+**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
 
-Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
 
-📺 Lark Davis
+📺 Home Aura
 
-👁️ 20K • 👍 516 • 💬 34 • ⏱️ 1:11:36 • 1d ago
+👁️ 4K • 👍 127 • 💬 72 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -322,17 +332,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 709 • 👍 21 • 💬 9 • ⏱️ 4:57 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=BeiskaPoutE)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 2K • 👍 70 • ⏱️ 6:02 • 9h ago
+👁️ 763 • 👍 23 • 💬 2 • ⏱️ 4:57 • 13h ago
 
 ---
 

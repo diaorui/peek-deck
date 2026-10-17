@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-17T21:36:57.356200+00:00'
+updated: '2026-10-17T23:47:47.091596+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 17, 2026 at 21:36 UTC  
+**Last Updated:** October 17, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -84,7 +84,7 @@ I don't know if I'm the only one finding this, but I go to a lot of robotics eve
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/nElGguHO5dY?is=2R6fAR2N1aERJuHE) • 1d ago
+🔗 [youtu.be](https://youtu.be/nElGguHO5dY?is=2R6fAR2N1aERJuHE) • 2d ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Women in Robotics You Need to Know About 2026](https://www.reddit.com/r/robotics/comments/1x6zfax/women_in_robotics_you_need_to_know_about_2026/)**
 
-🔗 [womeninrobotics.substack.com](https://womeninrobotics.substack.com/p/women-in-robotics-you-need-to-know-cc0) • 1d ago
+🔗 [womeninrobotics.substack.com](https://womeninrobotics.substack.com/p/women-in-robotics-you-need-to-know-cc0) • 2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 For a school project I am making a self balancing robot called WOBBLE. I would very much appreciate any feedback as it will help me to progress my learning. A few sentences per one or even any answers in general would be awesome! if you have any other ideas or things that I should know please tell me. You don't have to answer all of them just the ones that you have knowledge about. Thank you! btw I am reasonably new to robotics so keep that in mind. Do you think an Esp32 is the best microcontroller for this kind of project? What is your biggest tip when coding this robot? Do you think that it is helpful to design and prototype the robot on a breadboard when testing? What's the biggest challenge when creating a robot like this, and how do you overcome it? How would you implement Bluetooth control to the robot? (Forward/Back/Left/Right) E.g Xbox/PlayStation controller Do you think 3D printing is a very important part of this project? If so, why? What is the most important advice that you would give regarding this project? I've attached an image below of my current prototype (not functioning yet). Do you have anything that you would change or improve? (uses an esp32-s3-Wroom-1) What do you think of the 3D shell so far? Do you think that the theme/character is good or does it need improvement? Images Robot Scaffold 3D model so far (Shell/outer casing) Prototype (Not yet working)
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one.
 
-Futurism • 5h ago
+Futurism • 7h ago
 
 ---
 
@@ -150,19 +150,11 @@ The New York Times • 1d ago
 
 ---
 
-**[AI robots are roaming L.A. grocery aisles. Shoppers and workers worry about what comes next](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
-
-AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
-
-Los Angeles Times • 1d ago
-
----
-
 **[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
 
 Is AI coming for blue-collar jobs, too?
 
-Tom's Hardware • 8h ago
+Tom's Hardware • 10h ago
 
 ---
 
@@ -180,6 +172,14 @@ Time Magazine • 2d ago
 
 ---
 
+**[Wound-helix robot leaps and bounds over obstacles](https://newatlas.com/robotics/tiny-snapping-robot/)**
+
+Remember that “dancing pencils” game schoolchildren played, where they passed two pencils through a small rubber band, twisted them repeatedly, and then let go to make the pencils jump around as the band unraveled? Turns out they were onto some serious futuristic robotics, as scientists are now…
+
+New Atlas • 1d ago
+
+---
+
 **[Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost](https://interestingengineering.com/energy/robotics-propels-nuclear-reactor-core)**
 
 Automated precision tools and domestic partnerships helped engineers complete a critical stage of the Unit 4 MCR.
@@ -192,33 +192,13 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
-
-Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
-
-📺 Tesla Insider News
-
-👁️ 239K • 👍 2K • 💬 310 • ⏱️ 21:44 • 1d ago
-
----
-
-**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
-
-The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
-
-📺 Bloomberg Television
-
-👁️ 55K • 👍 263 • 💬 31 • ⏱️ 5:02 • 13h ago
-
----
-
 **[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
 
 robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
 
 📺 AI Unfiltered
 
-👁️ 1K • 👍 18 • 💬 2 • ⏱️ 8:52 • 1d ago
+👁️ 2K • 👍 19 • 💬 2 • ⏱️ 8:52 • 1d ago
 
 ---
 
@@ -228,7 +208,17 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 83K • 👍 988 • 💬 68 • ⏱️ 12:13 • 2d ago
+👁️ 85K • 👍 1K • 💬 69 • ⏱️ 12:13 • 2d ago
+
+---
+
+**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
+
+The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
+
+📺 Bloomberg Television
+
+👁️ 60K • 👍 279 • 💬 31 • ⏱️ 5:02 • 15h ago
 
 ---
 
@@ -242,31 +232,31 @@ Remove your personal information online with Delete Me using my link https://joi
 
 ---
 
+**[The hopes and risks of bringing humanoid robots into our homes](https://www.youtube.com/watch?v=-g5xHE-rxjE)**
+
+Life-like, humanoid robots have captured our imagination for decades. Now, those robots work in factories and assembly lines all ...
+
+📺 PBS NewsHour
+
+👁️ 19K • 👍 316 • ⏱️ 26:47 • 1d ago
+
+---
+
 **[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
 
 📺 Big Duke13
 
-👁️ 159K • 👍 6K • 💬 588 • ⏱️ 2:35 • 1d ago
+👁️ 170K • 👍 6K • 💬 621 • ⏱️ 2:35 • 1d ago
 
 ---
 
-**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
+**[BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them...](https://www.youtube.com/watch?v=skUIW0cb9NM)**
 
-A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
+BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them... Chinese auto giant BYD has officially unveiled the ...
 
-📺 7NEWS Australia
+📺 The Electric Viking
 
-👁️ 57K • 👍 251 • ⏱️ 1:54 • 2d ago
-
----
-
-**[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
-
-What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
-
-📺 Bernard Marr
-
-👁️ 84K • 👍 7K • 💬 17 • ⏱️ 1:30 • 4d ago
+👁️ 39K • 👍 562 • 💬 90 • ⏱️ 5:29 • 4d ago
 
 ---
 
@@ -280,13 +270,23 @@ This is the closest thing there is to a confirmed US military humanoid robot sol
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
 
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
 
-📺 MostAmazingTop10
+📺 Tesla Insider News
 
-👁️ 257K • 👍 2K • 💬 251 • ⏱️ 9:18 • 6d ago
+👁️ 244K • 👍 2K • 💬 316 • ⏱️ 21:44 • 1d ago
+
+---
+
+**[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
+
+What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
+
+📺 Bernard Marr
+
+👁️ 82K • 👍 7K • 💬 17 • ⏱️ 1:30 • 4d ago
 
 ---
 
