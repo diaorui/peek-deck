@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-17T00:11:51.497622+00:00'
+updated: '2026-10-17T04:50:42.027783+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 17, 2026 at 00:11 UTC  
+**Last Updated:** October 17, 2026 at 04:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This video is showing off auto aim, where you select points and it automatically aims at them. But it also has other cool features like person-tracking, and night vision. What does everyone think?
 
-19h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ This video is showing off auto aim, where you select points and it automatically
 
 I built a hexapod that uses an old Android phone from Make Your Pet. Less than $200 and it was a good first robotics project to learn from.
 
-15h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ Created with the help of opus. It is really good in understanding camera positio
 
 Join Chibots, the Chicago area robotics group, for our next online meeting. Whether you're a seasoned builder, a curious beginner, or just robot-curious, you're welcome here. This meeting will follow our usual loose format: A bit of club business (keeping it short, we promise) Show-and-tell — bring a project, a part, a problem, or just pictures Lots of open discussion with fellow robotics enthusiasts No formal agenda yet, and no pressure to present anything. Come to share, come to listen, come to ask questions — all are welcome. When: Sunday October 18th 2026 1:00 PM - 3:00 PM Where: Zoom Cost: Free RSVP: email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com) Email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com)for Zoom meeting link!
 
-12h ago
+17h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Drones are the robots physical AI is actually ready for, and the industry is chasing humanoid hype instead.](https://www.reddit.com/r/robotics/comments/1x75qir/drones_are_the_robots_physical_ai_is_actually/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -116,7 +116,7 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics.
 
-Fox Business • 8h ago
+Fox Business • 13h ago
 
 ---
 
@@ -124,15 +124,13 @@ Fox Business • 8h ago
 
 A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
 
-Futurism • 4h ago
+Futurism • 9h ago
 
 ---
 
-**[East End, Sheridan students take robotics teams to Worlds](https://katv.com/news/local/east-end-sheridan-students-take-robotics-teams-to-worlds-competition-world-championships-design-build-code-level-up-competition)**
+**[Video: Are These Workers Training Robots to Replace Them?](https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html)**
 
-Eight robotics teams from East End Middle School and Sheridan Middle School have qualified for the world championship since 2022, including three teams last sch
-
-KATV • 54m ago
+The New York Times • 19h ago
 
 ---
 
@@ -140,7 +138,7 @@ KATV • 54m ago
 
 CMR Surgical CEO Massimiliano Colella says the robotics developer plans to come out swinging after Stryker's $400 million investment.
 
-MassDevice • 18h ago
+MassDevice • 23h ago
 
 ---
 
@@ -152,35 +150,37 @@ Time Magazine • 1d ago
 
 ---
 
-**[Video: Are These Workers Training Robots to Replace Them?](https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html)**
-
-The New York Times • 15h ago
-
----
-
-**[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)**
-
-Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
-
-blog.google • 3d ago
-
----
-
-**[Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.](https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab)**
-
-MarketWatch • 8h ago
-
----
-
 **[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
 
 Reuters • 1d ago
 
 ---
 
+**[Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.](https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab)**
+
+MarketWatch • 12h ago
+
+---
+
+**[Canadian robotics firm partners with nation's largest homebuilder, expands into Phoenix](https://www.abc15.com/news/business/canadian-robotics-firm-partners-with-nations-largest-homebuilder-expands-into-phoenix)**
+
+A Canadian company that is expanding its “factory-as-a-service” model with a new plant in the Phoenix metro has inked a production partnership with the nation’s largest homebuilder.
+
+ABC15 Arizona • 1d ago
+
+---
+
 **[Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot](https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot)**
 
-New Electronics • 15h ago
+New Electronics • 19h ago
+
+---
+
+**[Crew Preps for Dragon’s Arrival During Vision and Robotics Research](https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/)**
+
+A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday.
+
+NASA (.gov) • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursi
 
 📺 Tesla Insider News
 
-👁️ 93K • 👍 732 • 💬 125 • ⏱️ 21:44 • 1d ago
+👁️ 134K • 👍 1K • 💬 166 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -204,17 +204,7 @@ A Sydney start-up is paying workers to wear AI glasses to collect data for train
 
 📺 7NEWS Australia
 
-👁️ 49K • 👍 227 • ⏱️ 1:54 • 1d ago
-
----
-
-**[Finally robots that can see, hear, feel and remember. Meet Neuron AI.](https://www.youtube.com/watch?v=u02bHNHkqxg)**
-
-Neuron AI is the world's leading and only multimodal foundation model for Physical AI, developed and trained in-house in ...
-
-📺 NEURA Robotics
-
-👁️ 11K • 👍 352 • 💬 57 • ⏱️ 3:08 • 1d ago
+👁️ 51K • 👍 241 • ⏱️ 1:54 • 1d ago
 
 ---
 
@@ -224,7 +214,37 @@ Remove your personal information online with Delete Me using my link https://joi
 
 📺 The Tesla Space
 
-👁️ 81K • 👍 2K • 💬 154 • ⏱️ 13:59 • 2d ago
+👁️ 82K • 👍 3K • 💬 154 • ⏱️ 13:59 • 2d ago
+
+---
+
+**[Finally robots that can see, hear, feel and remember. Meet Neuron AI.](https://www.youtube.com/watch?v=u02bHNHkqxg)**
+
+Neuron AI is the world's leading and only multimodal foundation model for Physical AI, developed and trained in-house in ...
+
+📺 NEURA Robotics
+
+👁️ 12K • 👍 376 • 💬 59 • ⏱️ 3:08 • 1d ago
+
+---
+
+**[German police investigating after robot allegedly gropes teen girl](https://www.youtube.com/watch?v=r7RH9lQ5BWk)**
+
+Police in Germany are investigating after a livestream captured a robot allegedly groping a 16-year-old girl. The robot's teenage ...
+
+📺 NBC News
+
+👁️ 28K • 👍 171 • 💬 74 • ⏱️ 2:32 • 2d ago
+
+---
+
+**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
+
+This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 61 • 💬 9 • ⏱️ 1:03 • 5d ago
 
 ---
 
@@ -234,17 +254,7 @@ Boston Dynamics just gave Atlas a new four-fingered hand built for industrial wo
 
 📺 The Manav Podcast
 
-👁️ 4K • 👍 148 • ⏱️ 0:37 • 8h ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
-
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
-
-📺 MostAmazingTop10
-
-👁️ 237K • 👍 2K • 💬 223 • ⏱️ 9:18 • 5d ago
+👁️ 7K • 👍 226 • 💬 1 • ⏱️ 0:37 • 12h ago
 
 ---
 
@@ -254,37 +264,27 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 410K • 👍 4K • 💬 361 • ⏱️ 1:44 • 3d ago
+👁️ 431K • 👍 4K • 💬 365 • ⏱️ 1:44 • 3d ago
 
 ---
 
-**[Robostrategy CEO Andrew Kang showcases &#39;Taku&#39; the robot and talks the physical AI race](https://www.youtube.com/watch?v=eRHDxFkQlYw)**
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
 
-Andrew Kang, Robostrategy co-founder and CEO, joins 'Closing Bell Overtime' to talk teh increase in hysical AI and what that ...
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
 
-📺 CNBC Television
+📺 MostAmazingTop10
 
-👁️ 48K • 👍 167 • 💬 83 • ⏱️ 5:19 • 2d ago
-
----
-
-**[RP1 Official Launch | RoboParty’s Fully Open-Source Humanoid Robotics Platform](https://www.youtube.com/watch?v=xa6PkV6-Xsw)**
-
-Putting control of robotics back in developers' hands. Meet RP1 (ROBOTO 01)—RoboParty's high-performance, fully open-source ...
-
-📺 RoboParty
-
-👁️ 41K • 👍 907 • 💬 59 • ⏱️ 2:33 • 2d ago
+👁️ 244K • 👍 2K • 💬 227 • ⏱️ 9:18 • 5d ago
 
 ---
 
-**[Ultimate Collection Robot Tobot Carbot Transformation: Athlon, Giga Seven, Master V &amp; OPTIMUS PRIME](https://www.youtube.com/watch?v=wl92dksfF60)**
+**[(FULL EPISODE HD) Robot Wars, Series 10 - Grand Final](https://www.youtube.com/watch?v=3kzN2gvJeks)**
 
-Ultimate Collection Robot Tobot Carbot Transformation: Athlon, Giga Seven, Master V & OPTIMUS PRIME! Welcome to the ...
+After lengthy repairs and inspirational pep talks, the qualifiers prepare to fight for the title. A 10-way Robot Rumble will give the ...
 
-📺 Bob ToysReview
+📺 Robot Wars
 
-👁️ 8K • 👍 12 • 💬 1 • ⏱️ 7:34 • 1d ago
+👁️ 10K • 👍 219 • 💬 56 • ⏱️ 59:00 • 1d ago
 
 ---
 

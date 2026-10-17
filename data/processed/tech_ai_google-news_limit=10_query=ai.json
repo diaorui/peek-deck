@@ -5,7 +5,7 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Why One of the World\u2019s Greatest Mathematicians Is on a \u2018War Footing\u2019",
+      "headline": "Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
@@ -25,86 +25,86 @@
       "description": null
     },
     {
-      "headline": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeGVVd0NGb3FmQ0tSNWtfYUR6R3NDOXE3VDJPcnlmSmZjUXdBcXJDZG1IN3ZWeTVnTmIxQ3lhUUx4Y3VuMjFjcU9JcTBFdlIwcmhhaldndXZWbXJUNzk4eXdhTER2SERFaWI3SUVYdHFmNjdQb0lBT3ZDSlBkcGR2YlVlZkRwUQ?oc=5",
-      "pub_date": 1792191082.0,
-      "article_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Developers must prevent and remove sexualized deepfakes."
+      "headline": "The AI El Ni\u00f1o",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0t4eXNWSW5URUtfblI3eEV3UmlXbG1KUWtuZGVHLUdJTzVsbmttalVSQzJsSU0xNjd6QnVsVjhaQjZSMElwS2dPYnlTQ0NHblZCdjBtRllQaXl4ek9IM29CV0tEblBWc1hfN01KcnBVem4tbnFleExKX0R4eVhUMHU4bWQ?oc=5",
+      "pub_date": 1792209611.0,
+      "article_url": "https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Can AI Make a Sci-Fi Series for $38,000? Artlist\u2019s \u2018The Arc\u2019 Puts It to the Test",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1VKeXNJYVJTdlFIaHJNcEZ2N2FBRDdMNHlKazhfanFMR3BLUERpMlJnYmM3NS1YNmxqRS1OZWhtX1dIUTBlclJ6aEZ2YnlzVmhtZ2lxSGhPeXpnXzBHeC1SeGdfQzR6d1JYZjFVNThnQVZlejlaTXpvdzNiV1F1N2RPbWM1N0VZd2c?oc=5",
-      "pub_date": 1792190110.0,
-      "article_url": "https://www.yahoo.com/entertainment/tv/articles/ai-sci-fi-series-38-223510356.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/62a14043c18f8ed4809ecd849091c875cad564a4e2e0231c573fb8056a064039/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findiewire_268%2F9626212cfe62ff763053ba34d972adb9.jpg",
-      "description": "Your scientists were so preoccupied with whether they could that they didn't stop to think about whether they should."
-    },
-    {
-      "headline": "Amazon's new Bee AI devices have a bystander problem, says former AWS security engineer",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0FGQVkyemhEbFVaWXFldTJkeENWN0R4YWpzLU82WmsyZXlWMm5Zb2xnd2M2Z3Bwd0pBZ0k3NHJ5WW8zVjRsbGwyb2FjY2Vrb01Rd3JiV3djZ1pKN3hPbUNIY0pqQU96SFdaM05hXzA3RmJ1ejdnZ28wZHpmeW1EQnRSTHQzeVRQODA1Vm1icVluS3haOEFSQU1YQjlBUS0wekw5V0NTYTZZN3BPSEQ1Q05yNVBKNnM?oc=5",
-      "pub_date": 1792191757.0,
-      "article_url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/bee-frontier-lead-1.jpg",
-      "description": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon's Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission."
-    },
-    {
-      "headline": "Tech stocks tumble as AI debt fears rattle Wall Street",
+      "headline": "AI-generated photo raises questions about possible car scam in West Bloomfield",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySWZEMXlwOEkxNmZYX041ZFNpdjJlOS02em9wbHNpX2ZaMHZ2RzdCZTA2VktiY0htNDlVYng4NXlhUFF3cThuRHlfaWZ2OUVydEFzSlp2Ymd4anN2em1WdEl2bGxKcUExQXRYVmlQYTlUUQ?oc=5",
-      "pub_date": 1792181280.0,
-      "article_url": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/16/6ecf9bb0-2958-4286-9fe2-393ec3e58a0f/thumbnail/1200x630/8d27e5035ab6f2268a523c3a20c0e2b7/gettyimages-2299938321.jpg",
-      "description": "Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWJxMWhYX1djUG1BX3A1U0kxWHMzaFNuVnp1TFBiaUN0Q1drOUJXMEhSMFNZWDRWdm9mUmppZFJfZUNQampzMXMyalQxdTJkV1pvazdvWlN4d2ppb0Z2V2xMWV9RMC0xZWV0Q2FvWHJwOEh2SWR0Mk1hM0JFR29UZmJmemEtazM1S1R4dl9RMjlhVEJXdTg2M3NqZGRoYm85Rnc?oc=5",
+      "pub_date": 1792207428.0,
+      "article_url": "https://www.cbsnews.com/detroit/news/photo-raises-questions-about-possible-car-scam-west-bloomfield/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/17/9da378c6-76c2-43d9-9926-533b4a40f8f2/thumbnail/1200x630/866a5f3bbefb953c9bcb8051ed9c3d4e/snapshot-2026-10-16t231108-996.jpg",
+      "description": "A Facebook post is raising questions about a possible scam after a woman says a stranger approached her at a Whole Foods in West Bloomfield, showing a photo that appeared to show damage to her car."
     },
     {
-      "headline": "Wall Street ends down sharply as AI stocks, oil prices weigh",
-      "source": "Honolulu Star-Advertiser",
-      "source_url": "https://www.staradvertiser.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGlKclR2WFhrLUFnaHdzOUl4UHlWT1N1dGtKLUZFUlVVTmRNOGNnSElab3F6clp1alN5clcyQjVHMkpyYzRRVUV6QmhocHJVSE1JUXBVOE1uWVh5RDBZNEJnUklHR3puZFhST1Q0OU5HNGxxbHlnTlFueEtzNGVHQmhxblRPTW1ZWllfb0FOanJkVlRRbkU0TUp4aUIzRkdRcnc4WXJpeE5NcnI5RVlMbzdYdGk5NUk?oc=5",
-      "pub_date": 1792191082.0,
-      "article_url": "https://www.staradvertiser.com/2026/10/16/breaking-news/wall-street-ends-down-sharply-as-ai-stocks-oil-prices-weigh/",
-      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/10/web1_20261016_brk_nys01.jpg",
-      "description": "Wall Street ended sharply lower today, with CoreWeave, Broadcom and other AI-related technology stocks under renewed pressure, while a jump in oil prices spooked traders heading into the weekend."
+      "headline": "Employees Aren\u2019t Disclosing Their Secretive \u2018Shadow AI\u2019 Usage At Work And Employers Need To Find Out Why",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXA1aEg3NmVabkxrNzNGeFFMWmV5WHFLUmpROXAwbDY3c29TV0hLUGsxaVNneUplZE5DZXM2SDFoeVpVWE5Hei1JcTRXdGRDSEY2TVNsb01zV1FsSzZyYUJKajZUNDlPbVNEZ29tQnVwVE9CelFqNGR1T3BkQy1ZdFhhenVMSGZWLWN1bEtsVXVVTjRETGF1ZFlsMThpT05PTkhyWWR0M1h2djg2enlydGxtVXo0cG1jVVZwZkU1THRiYTM1ckRYM2NPbDlFU3FxU3BWaFo5R0FQRVRfeldxS2FqSTNOOTIt?oc=5",
+      "pub_date": 1792209730.0,
+      "article_url": "https://www.forbes.com/sites/lanceeliot/2026/10/17/employees-arent-disclosing-their-secretive-shadow-ai-usage-at-work-and-employers-need-to-find-out-why/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaXBzTHdSMHNvM2RaR1A4d29PXy1NVHJKY1FoOTlTWHFsbFZmOHZsLW9wMW44QzRwT3E1QXkxQXg5bUhRVzV3OE5OS0RlUjllVklOY0xKSVNuTFdLVzJ2eE8wdVpRSlZYeHZLcUw3OERFLTQ?oc=5",
-      "pub_date": 1792177831.0,
-      "article_url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299938450.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Tech stocks had a tumultuous week as concerns, including higher interest rates and mounting AI debt, continued to weigh on investor sentiment."
+      "headline": "The Blog Post That Set the AI World on Fire",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VUmN5WDdiLUt6bFF1LU9LZHlVMS13cGZnWUpqTUJzVHdrbExJdUhxMmxmdnU2VWROMUJ0VG5vc3l5TGY0QmJ1VnJfNmhBQ2RaWkVUMG9lVkx4aE95QnMyMmVXeDd6Ty1UdERmemRkUlZ2QVh4eHJvOEhSWTdfR0k?oc=5",
+      "pub_date": 1792186405.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "New Jersey Deputy Attorney General Brian Fitzgerald charged with using AI to create child pornography",
-      "source": "6abc Philadelphia",
-      "source_url": "https://6abc.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2VjcVFtUXZQRjc0NjVCWElYV2JsbDd3d0lySnIyZE1fOFNTV2RTelFtOUEtUDl2SjgtenNmNVFGN0tobkc5anY3dXotVTQzbkxvSWIxYjlwUlFfQnhJOHlzSUthS3BDUzZ4dThTQzEwZ29laWpVU3BMMk4xczNiTTFvNXh5RklFNDBPTGE4VEtSdnp1blJsbzNnMTF2Yk1NZkt2eWVmVi11dldleGZrUWFRQkRvWnN2NnJmbEF2bWZRSUtvVllaYzItSzZpQdIB0wFBVV95cUxQRWV6VGJ1UlZsSHJQODdFaGxKMVN3OGFmZTVHejhsOXhvd1ZvdlJfbzNGTnBPRVhWWXBlZC1WcVhYSGlfeGRIaTk0ZzJpTjctUTJuMEV3Z3d5M3JQOEZjc2ZTb1pyTDZHU1djRW9CV0xpSWtSclFIZk9KVGppcDJaZWIzWUtNeG5kUHdGczRGd0U0T3RmRGlIaFZ3QVdqOGtnLTdoNzBOdjFqaHhsY1NFWlVmMDE0TDZXZHNYRWNaT1hON056Q0gtcGtSR21hQmExOWt3?oc=5",
-      "pub_date": 1792185230.0,
-      "article_url": "https://6abc.com/post/new-jersey-deputy-attorney-general-brian-fitzgerald-charged-possessing-distributing-child-pornography/19943914/",
-      "image": "https://cdn.abcotvs.com/dip/images/19945213_101626-wpvi-deputy-ag-child-porn-arrest-430pm-video-CC-vid.jpg?w=1600",
-      "description": "According to investigators, Fitzgerald used AI to generate child sexual abuse material and distribute it on social media platforms."
+      "headline": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZlFzOHNtZTQyTENUcDVQeVlNWXAtTjlVd2pVZDFIdmtuYVJsZWhjcjlESmMxclRMaHMwR1pzRmx0eTE0bXdESy1SeVBqc3ZTTDNiN0xyRHZJenhHTUZUZWJTbzhDYndkcmFlWXdKbWlMbkwwMmFDakRQaXNZLThlVEdRdmZlVTBHZlN3N1g3Sll1QXh2ZzgwdnRzc0VNd3V3VVBsTm1IUW13VEVtNkFvMmdmVUpIdkkxaFI5UEV3a3ZnS3JLV3d1dVdQVzY?oc=5",
+      "pub_date": 1792176379.0,
+      "article_url": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108148968-1747857895308-gettyimages-2216324853-l1131686_copy_8g4vru91.jpeg?v=1763565126&w=1920&h=1080",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
     },
     {
-      "headline": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
-      "pub_date": 1792167154.0,
-      "article_url": "https://abcnews.com/Business/fed-chair-kevin-warsh-warns-ai-shock-economy/story?id=137315708",
-      "image": "https://i.abcnewsfe.com/a/127618f5-40f9-4fb9-ade1-2eb716920ece/warsh-gty-jef-261016_1792161521373_hpMain_16x9.jpg?w=1600",
-      "description": "Warsh said AI would ultimately generate wealth but the path may be 'very bumpy.'"
+      "headline": "The AI expectations gap",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
+      "pub_date": 1792169100.0,
+      "article_url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f887bbe389a32292f37fd38e5515da404a384d0f-2000x1125.jpg",
+      "description": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions."
+    },
+    {
+      "headline": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
+      "pub_date": 1792187100.0,
+      "article_url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
+      "pub_date": 1792193032.0,
+      "article_url": "https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T00:11:48.755771+00:00"
+  "fetched_at": "2026-10-17T04:50:40.155900+00:00"
 }

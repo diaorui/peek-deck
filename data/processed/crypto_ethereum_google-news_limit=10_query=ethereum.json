@@ -75,16 +75,6 @@
       "description": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."
     },
     {
-      "headline": "Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 \u2013 Is Another Flush Ahead?",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM000WEo5cmx4RC0zM1NIRjc1a2FTcGFFdktYQjRldXpVYTEwZ1JUbzJxeUVOcldBZDdXZGpoUmpxLXI0R2dKMGtQdkRlZDJxeGJENmNYMVFIWG1URVU5RDY1dl91cVNLSnduMkg0VWVPaU4xYzVGVUVETEQyanVXbEd0T3JKWXRmdDhXOVdCYkszU3JTNjlReGVBREg0RzhPdUI0VkxTcFJTWEdMVkNpUU03a3pEV3JCNWZSQTVXSdIBxAFBVV95cUxNYzd6anljZUw1X1VMMUs3YUtIS0xJbzRVdFF1QW1SZVA0TFZpeXZyYzR2bUJqYjFXakFnMnVOSjFlMjdVY2ZiYzdsbkZnbkZSSTh2TExzMWJaaEJ5dWtkLTV2WFFRR0hyVnAzWk1TMVZETms3cXJYYmoyYWtzdEN1WnZvc0FQclRvSkIwLXZFdEJ6TWMxYlhlX3lyOTJ5MVBETWFlM1lzQm1XVi1vNWNmOWlXWG1lVjBZNUVNOVp6aXlvV1Vn?oc=5",
-      "pub_date": 1792125187.0,
-      "article_url": "https://coinpedia.org/price-analysis/ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2350-is-another-flush-ahead/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/10/16162117/ethereum-faces-8.71b-liquidation-risk-as-eth-price-tests-2350-is-another-flush-ahead.jpg",
-      "description": "Ethereum saw $283 million in liquidations within 24 hours, while open interest fell 11% as ETH prices declined."
-    },
-    {
       "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC holds $80,500, ETH rebounds from key support, XRP weakens",
       "source": "FXStreet",
       "source_url": "https://www.fxstreet.com",
@@ -103,8 +93,18 @@
       "article_url": "https://cryptobriefing.com/quantum-resistant-signatures-improvement/",
       "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/16143639/contributor-29-cd594d71-ab64-4932-8ca6-4af3d315349a-800x450.png",
       "description": "Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security."
+    },
+    {
+      "headline": "Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 \u2013 Is Another Flush Ahead?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVQ0VGVEMF9SUVVlNW94cWZleGJQdmVXLXZ2SlZKU2JjRVljbFVMS2kwUURqSXRpWFctMFpsUlU4ZUkzQy1MaHQ2OFU1TTVPWjdBM28tNGx2N2RGZk00a19MWW5GTXdZNWdYYVI2U1ZxMEQtSVZtM2I4Zi1yQnRYMDgtTWNreHBiZmprS2s2OVBYYmNaODhCbk9CeTRqc3dCRWozNVZFZHBDUkxHZXZqbXhRYXY3TlRrWGVyc1hTWnBXd2huMmdTTjBiMkRyLXhMT0ZjeXYtQktGOHZNR0E?oc=5",
+      "pub_date": 1792078786.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:05de475fb094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T00:11:48.671706+00:00"
+  "fetched_at": "2026-10-17T04:50:20.336828+00:00"
 }
