@@ -8,9 +8,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 7934,
+      "stars": 7940,
       "stars_display": "7.9k",
-      "forks": 1916,
+      "forks": 1919,
       "forks_display": "1.9k",
       "language": "TypeScript",
       "topics": [
@@ -20,7 +20,7 @@
         "daily-digest",
         "docker-compose"
       ],
-      "updated_at": "2026-10-17T16:09:55Z"
+      "updated_at": "2026-10-17T18:00:31Z"
     },
     {
       "full_name": "zai-org/ZCode",
@@ -30,9 +30,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 7906,
+      "stars": 7907,
       "stars_display": "7.9k",
-      "forks": 2435,
+      "forks": 2436,
       "forks_display": "2.4k",
       "language": "TypeScript",
       "topics": [],
@@ -46,7 +46,7 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 5510,
+      "stars": 5515,
       "stars_display": "5.5k",
       "forks": 789,
       "forks_display": "789",
@@ -62,10 +62,10 @@
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "url": "https://github.com/Louis-CFM/coucou",
       "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 5418,
+      "stars": 5427,
       "stars_display": "5.4k",
-      "forks": 939,
-      "forks_display": "939",
+      "forks": 940,
+      "forks_display": "940",
       "language": "Swift",
       "topics": [
         "ai-agents",
@@ -84,10 +84,10 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 4882,
+      "stars": 4890,
       "stars_display": "4.9k",
-      "forks": 144,
-      "forks_display": "144",
+      "forks": 146,
+      "forks_display": "146",
       "language": "Swift",
       "topics": [
         "apple-intelligence",
@@ -96,7 +96,7 @@
         "macos",
         "macos-27"
       ],
-      "updated_at": "2026-10-17T15:09:36Z"
+      "updated_at": "2026-10-17T16:48:55Z"
     },
     {
       "full_name": "LosaLosSantos/aurelio-finance",
@@ -106,10 +106,10 @@
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "preview_image": "https://opengraph.githubassets.com/16faeeaa359ba4f23652bfc9f99a162e78f3a583ad03fc96304960160ecc5da5/LosaLosSantos/aurelio-finance",
-      "stars": 3950,
+      "stars": 3951,
       "stars_display": "4.0k",
-      "forks": 499,
-      "forks_display": "499",
+      "forks": 500,
+      "forks_display": "500",
       "language": "Python",
       "topics": [
         "ai",
@@ -128,7 +128,7 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 3724,
+      "stars": 3727,
       "stars_display": "3.7k",
       "forks": 148,
       "forks_display": "148",
@@ -144,7 +144,7 @@
       "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
-      "stars": 3586,
+      "stars": 3601,
       "stars_display": "3.6k",
       "forks": 251,
       "forks_display": "251",
@@ -166,7 +166,7 @@
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "preview_image": "https://repository-images.githubusercontent.com/1388867993/cb41b962-88da-4adb-be7e-17ee8a1073aa",
-      "stars": 3576,
+      "stars": 3588,
       "stars_display": "3.6k",
       "forks": 278,
       "forks_display": "278",
@@ -188,10 +188,10 @@
       "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
       "url": "https://github.com/edenfunf/reelmimic",
       "preview_image": "https://opengraph.githubassets.com/9177a410da40776b5190e7f5b141abe22e8d182485bec525e3da24f77be66752/edenfunf/reelmimic",
-      "stars": 3398,
+      "stars": 3421,
       "stars_display": "3.4k",
-      "forks": 322,
-      "forks_display": "322",
+      "forks": 328,
+      "forks_display": "328",
       "language": "JavaScript",
       "topics": [
         "2d-animation",
@@ -207,6 +207,6 @@
   "search_query": "ai created:>2026-09-17",
   "days": 30,
   "limit": 10,
-  "total_count": 496483,
-  "fetched_at": "2026-10-17T16:34:42.543102+00:00"
+  "total_count": 498219,
+  "fetched_at": "2026-10-17T19:02:40.354145+00:00"
 }

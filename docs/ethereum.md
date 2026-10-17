@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T16:35:15.782116+00:00'
+updated: '2026-10-17T19:03:04.782081+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 16:35 UTC  
+**Last Updated:** October 17, 2026 at 19:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -5.1%  
-**30d:** -7.9%  
-**90d:** +26.4%  
-**1y:** -38.1%  
+**24h:** +0.1%  
+**7d:** -4.7%  
+**30d:** -7.5%  
+**90d:** +26.9%  
+**1y:** -37.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.56B
+**Market Cap:** $294.90B
 Rank #2
 
 **Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-51.2%
 
 **All-Time Low:** $0.43
-+555060.9%
++557460.5%
 
 ---
 
@@ -104,7 +104,7 @@ Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-t
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-5d ago
+6d ago
 
 ---
 
@@ -168,19 +168,51 @@ Engadget • 1d ago
 
 ---
 
-**[Deutsche Bank Is Weeks From Holding Bitcoin and Ethereum for Clients. Could Other Big Banks Follow?](https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-weeks-holding-bitcoin-143032623.html)**
+**[3 Cryptocurrencies That Could Stage a Comeback by the End of 2026](https://finance.yahoo.com/markets/crypto/articles/3-cryptocurrencies-could-stage-comeback-083138710.html)**
 
-Deutsche Bank is weeks away from letting German institutions park Bitcoin and Ether with a regulated custodian, and the move raises a bigger question: will a wave of bank entries finally translate into lasting price pressure, or just more plumbing for demand that has yet to show up?
+Ethereum, Solana, and Chainlink are all trading far below their peak prices, but each carries a different catalyst and a different risk that could determine whether any of them recovers before 2026 runs out.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/)**
+**[Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?](https://www.fool.com/investing/2026/10/17/ethereum-dramatically-outperformed-the-sp-500-in-q/)**
 
-The odds of these coins being worth more in five years are quite high.
+The coin's recent strength is undeniable, but the fact that it might not last forever demands at least some caution from investors.
 
-The Motley Fool • 1d ago
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum sets October 26 for Hoodi’s 200 million gas test](https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/)**
+
+Ethereum sets Hoodi’s Glamsterdam test for October 26, requiring compatible client upgrades while mainnet timing and the future impact on fees remain open.
+
+CryptoSlate • 2h ago
+
+---
+
+**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://www.tradingview.com/news/coinpedia:292ee480f094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/)**
+
+As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra…
+
+TradingView • 2d ago
+
+---
+
+**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20h ago
+
+---
+
+**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
+
+Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
+
+Blockchain News • 14h ago
 
 ---
 
@@ -192,30 +224,6 @@ UrbanMatter • 1d ago
 
 ---
 
-**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
-
----
-
-**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
-
-Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
-
-Blockchain News • 11h ago
-
----
-
-**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
-
-Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
-
-TradingView • 1d ago
-
----
-
 **[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
 
 Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
@@ -224,15 +232,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC holds $80,500, ETH rebounds from key support, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333)**
-
-FXStreet • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
+
+BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 140 • 💬 65 • ⏱️ 14:47 • 2h ago
+
+---
 
 **[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
 
@@ -240,17 +252,17 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 819 • 👍 40 • 💬 5 • ⏱️ 25:25 • 9h ago
+👁️ 1K • 👍 42 • 💬 5 • ⏱️ 25:25 • 11h ago
 
 ---
 
-**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
+**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Cilinix Crypto
+📺 Crypto Nutshell
 
-👁️ 396 • 👍 19 • 💬 4 • ⏱️ 4:57 • 6h ago
+👁️ 8K • 👍 156 • 💬 22 • ⏱️ 23:39 • 1d ago
 
 ---
 
@@ -260,7 +272,27 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 3K • 👍 50 • 💬 4 • ⏱️ 8:36 • 1d ago
+👁️ 3K • 👍 52 • 💬 4 • ⏱️ 8:36 • 1d ago
+
+---
+
+**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
+
+Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 251 • 💬 12 • ⏱️ 8:38 • 12h ago
+
+---
+
+**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 543 • 👍 20 • 💬 2 • ⏱️ 4:57 • 9h ago
 
 ---
 
@@ -274,13 +306,13 @@ Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to acce
 
 ---
 
-**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
+**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
 
-Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
+Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
 
-📺 More Crypto Online
+📺 Thomas Kralow
 
-👁️ 8K • 👍 236 • 💬 11 • ⏱️ 8:38 • 10h ago
+👁️ 14K • 👍 957 • 💬 26 • ⏱️ 14:50 • 1d ago
 
 ---
 
@@ -294,41 +326,13 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 ---
 
-**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
+**[Bitcoin &amp; Crypto  Bounce, Tesla Flying Cars, Solana or Ethereum ?](https://www.youtube.com/watch?v=K9JfUGe06gU)**
 
-Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
+Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Thomas Kralow
+📺 Lark Davis
 
-👁️ 14K • 👍 954 • 💬 26 • ⏱️ 14:50 • 1d ago
-
----
-
-**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
-
-📺 Itsdanielmac
-
-👁️ 42K • 👍 722 • 💬 31 • ⏱️ 0:48 • 2d ago
-
----
-
-**[Bitcoin Fake Out COMPLETE (HUGE ETHEREUM SIGNAL)](https://www.youtube.com/watch?v=QvZdYf89pqo)**
-
-Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may be COMPLETE, and a huge Ethereum (ETH) signal ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 255 • 💬 83 • ⏱️ 1:07:37 • 23h ago
-
----
-
-**[Ethereum Fell to $2,318 Support!! (just as predicted)](https://www.youtube.com/watch?v=o61Tma17bXw)**
-
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 21 • 💬 4 • ⏱️ 3:19 • 2d ago
+👁️ 20K • 👍 516 • 💬 34 • ⏱️ 1:11:36 • 1d ago
 
 ---
 

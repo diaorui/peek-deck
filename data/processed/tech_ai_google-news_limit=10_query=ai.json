@@ -9,7 +9,7 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
-      "pub_date": 1792141325.0,
+      "pub_date": 1792181745.0,
       "article_url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
       "image": null,
       "description": null
@@ -25,34 +25,14 @@
       "description": null
     },
     {
-      "headline": "AI slop websites rise fivefold with GEO optimization",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0VfcDFmdHEwSXlpQWttVW5pS2pfb2ZfNkpoTmFVVEROZUdQT1B0X0Rtd3pRRmJtWFRZNXp5QmZOdE5TZ0xlcGp0TnVmMmk0NUR5RVlhUVJWX1JXN3MwdTMxN2k5cmwwUjlhV251SjFwM19JYjg2aVFobHhrZ3BodmE5UWJBVUNJODJoSGFTWE5LRWxaSk9oaldManJEQQ?oc=5",
-      "pub_date": 1792252851.0,
-      "article_url": "https://www.axios.com/media-trends-membership/2026/10/17/ai-slop-geo-content-farm-recommendations",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWIyUlNyQi13dVB2VVh3WTZjbWR1cV9OdlFZblJWVGdNeHhlQ2kzb2lfZHU2dzRjMGZLZWhnU2NFRmw3OWZFT2VSQktMQU9hc0VScWs1SGxfeURwTEtLbzVJMTVfbU9rVzFyY0FqZ3EwU0V2U2VkZjdlQjZ6X1ZDNFdyZjgxWnljY0RSZVVWY0F4a3BwaDFhamYzT0JCazJ4THpLSHN1Xy03SUQ3aVB0U21UYi1tVEdyLWVuX2gtNExRQlk?oc=5",
-      "pub_date": 1792251754.0,
-      "article_url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108408960-1791988867539-gettyimages-2300173652-mms24962_t5rzyuo8.jpeg?v=1791989017&w=1920&h=1080",
-      "description": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism."
-    },
-    {
-      "headline": "Publishers block AI training bots, but embrace search",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEM3OU81YXAyT3hzZ1JRT09iQlJ5dDdTNDk4elpaTlN3NDVodmE5aWhNSUhibDM3UUlwa1BuSFIzZ0Z5N2ZuNElmVFJneThZOS1lZ1VqTVp6V3RkZ0VvTEVmYTRiWlZVTDVuLWhVU1lkbG1fZFNQN05LQllXcUVPY0VoaGVEZ05waHFMOTV4cV9xQkpDdnNCZlFhbENhTndYRXJJ?oc=5",
-      "pub_date": 1792252632.0,
-      "article_url": "https://www.axios.com/media-trends-membership/2026/10/17/publishers-block-ai-training-search-crawlers",
-      "image": null,
-      "description": null
+      "headline": "Replit is no longer working with Anthropic, CEO says",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFoxYWFYWWFqQTRraXdReXZYYmo5S0ZabG04MmlMbnp5R1VoMUsyLWpIMVg0bUhnOUNqMmxZV05BWm1DRVg4QlhONW9qbUo5UktELXhFMmc4VXhKMzhPbGxuZ2l0cjhGdE1MaEtPU0hBNzdqbTZPaEFHRENkVU9hcG9ieFhDalBPSUNZSEJGRQ?oc=5",
+      "pub_date": 1792262888.0,
+      "article_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
     },
     {
       "headline": "How employment is changing at Anthropic",
@@ -85,6 +65,16 @@
       "description": "Restaurants are increasingly turning to AI-generated images of food that are less than appetising"
     },
     {
+      "headline": "Why CoreWeave is in the crosshairs of the AI scare",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDBmSEI4THQ5MFFtQXA5a1YweUdtQ2RIYXJXU0t0SFpiQ2kzbENpUWpVbW9hRU5KY1FiMkZPdDVOcmY3OW5WTVRqTFo1SnZKQmxweEFXeVhkY0ZySUdjQWVoV2p3TEVlbXVSSVBZTnNVbXdNc2Q1bmpzSVFrYXFtTmVhUloyaDRqeHp0NllQZWxDTHFENXhv?oc=5",
+      "pub_date": 1792173103.0,
+      "article_url": "https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
@@ -95,16 +85,26 @@
       "description": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
     },
     {
-      "headline": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
-      "pub_date": 1792167154.0,
-      "article_url": "https://abcnews.com/Business/fed-chair-kevin-warsh-warns-ai-shock-economy/story?id=137315708",
-      "image": "https://i.abcnewsfe.com/a/127618f5-40f9-4fb9-ade1-2eb716920ece/warsh-gty-jef-261016_1792161521373_hpMain_16x9.jpg?w=1600",
-      "description": "Warsh said AI would ultimately generate wealth but the path may be 'very bumpy.'"
+      "headline": "A 44-minute call and a memo: How Alexandr Wang won Mark Zuckerberg\u2019s trust\u2014and a $100 billion-plus AI bet",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ05wYnlxTldoZHNxc1RUMng3TzBIQVpiLU45U2YyRU11VjBaTXFRQTBHenkzeFhCQktRRXFWbDBuZzZTV1JsUXdYR0hlbXlXNFRrclZrSzdZcVFYZ1M1TGlHUDNxSXI5Mll0Xzc5aGliZmFLWW9GbTBReG1wTk95YVF0S3FMUTl1eXh6eXpka3BodW5KcmcxUHpIUTlCSktNZmRZczVCTTRzYS1t?oc=5",
+      "pub_date": 1792238100.0,
+      "article_url": "https://fortune.com/2026/10/17/alexandr-wang-mark-zuckerberg-meta-superintelligence-labs-muse-wonder-ai-bet/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2296214013.jpg?resize=1200,600",
+      "description": "Meta\u2019s CEO and his 29-year-old chief AI officer revealed on Stripe cofounder John Collison\u2019s podcast how one phone call became Meta Superintelligence Labs, and why the company\u2019s CFO warned that failure would be \u201cvery, very bad in financial terms.\u201d"
+    },
+    {
+      "headline": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44U2w2LWYybWZUbUVseTk4VFlMcGpBN0JjamkwM2VLb1QzUksyVmdnd3k4YVZaUV9PaWFkR2ExVXFuN2hOVHNCTGFnWE1YRUNHdWtuaHFpaTE1VFd3OWtjYjU5R1hsVmVDbmdsajdlR09RY3ZXNUpRbmZtTQ?oc=5",
+      "pub_date": 1792240801.0,
+      "article_url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T16:35:12.742064+00:00"
+  "fetched_at": "2026-10-17T19:02:53.558235+00:00"
 }

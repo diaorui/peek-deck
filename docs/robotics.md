@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-17T16:35:15.785363+00:00'
+updated: '2026-10-17T19:03:04.785340+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 17, 2026 at 16:35 UTC  
+**Last Updated:** October 17, 2026 at 19:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,9 +120,11 @@ Fox Business • 1d ago
 
 ---
 
-**[Video: Are These Workers Training Robots to Replace Them?](https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html)**
+**[China Builds Actual Giant Mecha](https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha)**
 
-The New York Times • 1d ago
+A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
+
+Futurism • 23h ago
 
 ---
 
@@ -131,6 +133,12 @@ The New York Times • 1d ago
 Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Video: Are These Workers Training Robots to Replace Them?](https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -150,11 +158,11 @@ NPR • 3d ago
 
 ---
 
-**[China Builds Actual Giant Mecha](https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha)**
+**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
 
-A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
+Is AI coming for blue-collar jobs, too?
 
-Futurism • 21h ago
+Tom's Hardware • 5h ago
 
 ---
 
@@ -166,27 +174,17 @@ Time Magazine • 2d ago
 
 ---
 
+**[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
+
+Reuters • 2d ago
+
+---
+
 **[Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost](https://interestingengineering.com/energy/robotics-propels-nuclear-reactor-core)**
 
 Automated precision tools and domestic partnerships helped engineers complete a critical stage of the Unit 4 MCR.
 
-Interesting Engineering • 23h ago
-
----
-
-**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
-
-Is AI coming for blue-collar jobs, too?
-
-Tom's Hardware • 3h ago
-
----
-
-**[AI robots are roaming L.A. grocery aisles. Shoppers and workers worry about what comes next](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
-
-AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
-
-Los Angeles Times • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -194,13 +192,23 @@ Los Angeles Times • 23h ago
 
 ## YouTube Videos: "robotics"
 
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+
+📺 MACHINEKIND
+
+👁️ 19K • 👍 308 • 💬 34 • ⏱️ 12:40 • 21h ago
+
+---
+
 **[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
 
 Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
 
 📺 Tesla Insider News
 
-👁️ 220K • 👍 1K • 💬 295 • ⏱️ 21:44 • 1d ago
+👁️ 231K • 👍 1K • 💬 304 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -210,7 +218,7 @@ The hand is one of the most complex parts of the humanoid robot puzzle. China is
 
 📺 Bloomberg Television
 
-👁️ 38K • 👍 217 • 💬 23 • ⏱️ 5:02 • 8h ago
+👁️ 46K • 👍 236 • 💬 29 • ⏱️ 5:02 • 11h ago
 
 ---
 
@@ -220,37 +228,17 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 78K • 👍 944 • 💬 66 • ⏱️ 12:13 • 2d ago
+👁️ 80K • 👍 964 • 💬 66 • ⏱️ 12:13 • 2d ago
 
 ---
 
-**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
+**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
-A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
+Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
 
-📺 7NEWS Australia
+📺 The Tesla Space
 
-👁️ 57K • 👍 250 • ⏱️ 1:54 • 2d ago
-
----
-
-**[BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them...](https://www.youtube.com/watch?v=skUIW0cb9NM)**
-
-BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them... Chinese auto giant BYD has officially unveiled the ...
-
-📺 The Electric Viking
-
-👁️ 38K • 👍 563 • 💬 90 • ⏱️ 5:29 • 4d ago
-
----
-
-**[Google&#39;s AI Watched One Video. Then a Robot Sank 7 in a Row.](https://www.youtube.com/watch?v=LGvKGWOYIOo)**
-
-Google's AI Watched One Video. Then a Robot Sank 7 in a Row. Google says its new model, Gemini 4 Argon, watched a video of ...
-
-📺 LearnOpenCV
-
-👁️ 651 • 👍 27 • 💬 4 • ⏱️ 2:10 • 6h ago
+👁️ 84K • 👍 3K • 💬 154 • ⏱️ 13:59 • 2d ago
 
 ---
 
@@ -260,7 +248,7 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 251K • 👍 2K • 💬 230 • ⏱️ 9:18 • 6d ago
+👁️ 254K • 👍 2K • 💬 243 • ⏱️ 9:18 • 6d ago
 
 ---
 
@@ -274,6 +262,14 @@ This is the closest thing there is to a confirmed US military humanoid robot sol
 
 ---
 
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 125K • 👍 6K • 💬 541 • ⏱️ 2:35 • 23h ago
+
+---
+
 **[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
 
 What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
@@ -284,13 +280,13 @@ What does the future of humanoid robotics actually look like? At World Summit AI
 
 ---
 
-**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
+**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
 
-In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
+A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
 
-📺 Google DeepMind
+📺 7NEWS Australia
 
-👁️ 586K • 👍 4K • 💬 367 • ⏱️ 1:44 • 4d ago
+👁️ 57K • 👍 250 • ⏱️ 1:54 • 2d ago
 
 ---
 

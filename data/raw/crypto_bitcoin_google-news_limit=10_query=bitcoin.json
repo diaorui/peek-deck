@@ -5,94 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy stock falls 10% as Michael Saylor's bitcoin giant faces index-level threat",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVQ0YlUzTE52N1pkXzFVajVHdGI1RmtUVVV1bDI2R0VPSEFFT3pnMDVTQlVSTmMxSlU2VXNiMHhSbzkzaGdfRDkwTjBjY2ZxbjJWcVdseHdzbDE3S1czUEkzVHAtRWt0VWY5VUtXQ2pGaGtiSmZTSWVOcTdaUFZJZTVBYWkyTzV2M3VBd2ptbGNyZ1JsS2pKQldIcVBwSzBtd25reGJPQ29WbUFYQmhUOGpYc0xhQ2x4cmJyemVKQzZsOGNpQUtyRkJWbENIMktpWnluc1VKa2k2U1ZQekE?oc=5",
-      "pub_date": 1792162174.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/article/strategy-stock-falls-10-as-michael-saylors-bitcoin-giant-faces-index-level-threat-193944684.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b1c8e6e16de3b813ffeca7bb5d8cee4e633dc39591fed6aa85978ffedcd64cd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F86bbf53c-30e2-4ca5-b3dd-f2dc9a903381",
-      "description": "Strategy stock fell more than 3% on Friday after index provider MSCI announced new eligibility rules that could lead to the removal of Michael Saylor's bitcoin juggernaut from its global stock indexes."
+      "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUVjdXhrUDJLZ3hzOE9HYko5ZjV0Qk5vLUMtaTdLbUowb0IxMHBHV2l0Ry0ydV9DTkZiUkdya0swSjVNYTAyNFdrVFJtRUJ6bW1nQzNDQ0xrdU1hRC1FTFVsZ3owVEhTRTFXVVljTG9PelRFcDEyaU5iMFBrdGQtWHowUXRESFdnUEY0YzA5aGZUeHF5RjBFNXI2VQ?oc=5",
+      "pub_date": 1792252863.0,
+      "article_url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png",
+      "description": "A group of crypto companies is trying to settle one of the industry\u2019s murkiest questions: what it actually means for a blockchain network to be safe from\u2026"
     },
     {
-      "headline": "Strategy CEO sees a historic Bitcoin banking boom coming. Here's what's driving it",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVDBNa012ckRZYWotNENodXR0SVBFUUp0RWMzM3ZrOW84RkJyTkFVelhMRjA0c2d5QU5EcThZZWZHZVRrYUdVanRpNDFWLUlXNlR2NFEyVndwLXNTU2JwMGV0UjhRQ2lUeEJWNVRHSjVJQ3RiVGFnczh5Z1ZFUmVMaDRaOTdkTUhEVDFqTExHczNYTDVHeXBxaEFvNEdRUGxqSFViMHZLaU40ZEpZX0RCSGl4aWhwYTdMaUJoMg?oc=5",
-      "pub_date": 1792089000.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/strategy-ceo-sees-a-historic-bitcoin-banking-boom-coming-heres-whats-driving-it",
+      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
+      "pub_date": 1792154400.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin On Track For First Back-To-Back Losing Octobers In Over A Decade As \u2018Downtober\u2019 Continues",
+      "headline": "Vitalik Buterin Reveals Why AI Could Push Bitcoin Miners Out",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWY5VHFyTkZpc1JvM3doTWhfV0FwMjFBak91aXRHemRnVDV1U1kzZ1htZDZaSjNQekFUT09UT0xyMDhzLTRhODRkV0JUUTMtLU56bUFXelZRdVRQRGhXQWFrYl9VZmItcUhTTE1KeFZ0dFdKdk1SOTViVGFpNEdaLWNQMTg3ZHlBUDZJY0c5MVZkNUZMNFI3V1NB?oc=5",
-      "pub_date": 1792247654.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-track-first-back-back-143414633.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c21ef60c6fa5286eb600abcfc2a050bbfb00178d7753f4ad072333b3ead6d3ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fa0e3fa268c77ebb85a51ebbec0154333.jpg",
-      "description": "Bankless co-founders said BTC climbed into the month from the $60,000s, unlike last year's slide from a record high."
-    },
-    {
-      "headline": "Q4 2026 Bitcoin Outlook: Did the August Rally Mark the Cycle Low?",
-      "source": "StoneX",
-      "source_url": "https://www.stonex.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2JHMzZTZ0U2RENQQi1LcndrOTZuSlBXOWpUZHdseWFacUhFblViNmhfQzVYVlFwYkVsMlotb095dkRxcFlEQ3ZQaDBCcG1NRnNobG1YWXB2OXVVZXRPVmpsRllGWWNsSzNCeGtwV0xqQ0llcmg0bkF3NDk5QnpmU2JuUGRXb3BhejFKdWJ6WmxTQmZCTmtVR05wenlsOGZTZ0Frd09Pd2R1ei0wYWxoTg?oc=5",
-      "pub_date": 1792241198.0,
-      "article_url": "https://www.stonex.com/en-gb/news-and-analysis/q4-2026-bitcoin-outlook-did-the-august-rally-mark-the-cycle-low/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google\u2019s new Willow breakthrough",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMC1lc1BqSkFEZlZycHhIN2ltczJTUC1fdVYzVXZwT3N0MGsteDlSejBTMWFjWE9PWGhWSFo5WE1pREJBZzdMMEJnZ2JMV1dYTHVaVkVEYkswTnlrcDRudF9zcFAxT3BVQWY2OUdnX0pNU0hNVDZSMW5NVDhzc3ZzN3ZjVzRNdjRvOXk2a3dRZWlfQm13T3RmU2Zxbkg2Xzd4YnVEYVY0MTRCZDgxZVpyVVQweXRCdmU1Z1QyT01RcnlrRWJ6Y3g0Sw?oc=5",
-      "pub_date": 1792204200.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
-    },
-    {
-      "headline": "Hyperliquid, Monero or Bitcoin: Which Could Hit a New All Time High First?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0hmOHZCT1EwVkFYei1yWDJZaVhMMGxmWkFQLV9zMEhoVEtHRzZzLUdVS3g3UV9PNVFRR24xeWk2YmEwVGdBTl9IM19lMENVMlVueVFvU3RGcGpxN1N1VXNYb01fNGo2eXdfMUhOZWIyYlc5YlBxOGlMMENVbWg3c2loY2xmUVRuWUlCUlY3SVhFaDVwaW9hVXNmalFGZFpRX0JGVXFwalp0TGRua1dPdHVaT0hwdzBUU0JFVkRaN0ZNUFM5YTQ4UUV3?oc=5",
-      "pub_date": 1792245600.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/17/hyperliquid-monero-or-bitcoin-which-could-hit-a-new-all-time-high-first/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/06/shutterstock-2783490359-huge-licensed-scaled.jpg",
-      "description": "Hyperliquid, Monero, and Bitcoin trade closest to their records among large coins. Which could hit a new all-time high first?"
-    },
-    {
-      "headline": "Current price of Bitcoin for October 13, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSVd1TndYZjB5VVpWN0pNdzA1aGlmQUdRdHlDUnd0NHR4U1Z0R0toVl9uUTdJcDgwUHE2V2lDZmxMY1IyeWs5X1lsejBHWjBCWkoxOUtSLW9nb21qRFBMNFdoYzl6YWM?oc=5",
-      "pub_date": 1791892800.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-13-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-13.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Bitcoin Tests $82,000 as BTC Price Prediction Hinges on a Weekend Reclaim",
-      "source": "Bitcoin Foundation",
-      "source_url": "https://bitcoinfoundation.org",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUg4X1d1cUdvTER5UWdDQk9TeUlEaDBNUWl2d1RfY2pWcFRnWk4wUWtGSTZlWFozcFZRMTljR0Fuc2J0SEhsMTVqQUY1SDV4SGR2dlpSYTlla0xfUnp0TGNhQm1CajUtdE5pRFZha0FEMVFBOFJiTDV6SkMwTzV5OTFyRERFbEUwajlMdTJyMDFPcE9SdThSdnlXazRvLXBfdHNhbmhvcXota0dLZTVSYTFsUTNiZ3Jw?oc=5",
-      "pub_date": 1792225075.0,
-      "article_url": "https://bitcoinfoundation.org/news/analysis/bitcoin-tests-82-000-as-btc-price-prediction-hinges-on-a-weekend-reclaim/",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/bitcoin-tests-82-000-as-btc-price-prediction-hinges-on-a-weekend-reclaim.webp",
-      "description": "BTC price prediction hinges on whether Bitcoin can reclaim and hold $82,000 after slipping 0.72%; the level will shape October\u2019s near-term outlook."
-    },
-    {
-      "headline": "Bitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab\u2019s Adam Lynch Warns A Midterms Risk",
-      "source": "Stocktwits",
-      "source_url": "https://stocktwits.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQjVhb2E0eW9rZWNzTUdpQmI3M0pqZllPNEI0MC1hcUNlTTVqZzJlQWxDOEgzYjlUU2FwS1ZfWWZBbm9WaFp4cTJjeTEwWjFFSkJYbEh3UERYRUQwa2FiUTBCei1kNTFSWHRXdzhtYktaZDRDTUhIQm1jeVNsdlpHaVBBMVBSYXJMdFRzc2Y3UUlTQkIyVUd6VjVSUHAzcjRXRjl3ZU85S2N1cTJBZHExUkUwSzhzQUM5Z3ltMlFBeFU0TGRiQUd0Xw?oc=5",
-      "pub_date": 1792240680.0,
-      "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bounces-monthly-low-charles-schwab-warns-midterms/cZxkJmxRBt1",
-      "image": "https://st-everywhere-cms-prod.s3.us-east-1.amazonaws.com/large_charles_schwab_resized_79fd4282b7.jpg",
-      "description": "Bitcoin (BTC) rebounded from its lowest point in nearly a month on Saturday, but Charles Schwab\u2019s Adam Lynch warned that midterms could \u201cgrind [crypto industry] to a halt\u201d."
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEc4XzNGbjRudGlGQWJRa0s3NGJvX09kNjVWNnFwSjNRSWdRbUl3VS0zWnNiY0l4XzdnT0lSYzZUQzBjX0FqbFNXXzJQcTdhdUUzVWU3RUU0XzlvZ3N1NXJCU0UxTXItWEtweXpuVFNMeFhkSmZoY2hlcF9zV2h5YXdCaU9GVXBIZmhzYzVwWGNKdDItVlhONEpmWQ?oc=5",
+      "pub_date": 1792256724.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-reveals-why-ai-170524563.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/25b5df38fd81e0cc6ace5e7de846917c3839f43c2e570a0f66dd89ccd5728df3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Faa7cbf7752fafe5a1c87e6f0599c7eb6.jpg",
+      "description": "Vitalik Buterin says Bitcoin mining cost splits 50/50 between hardware and power, while AI inference runs almost entirely on hardware."
     },
     {
       "headline": "Who Really Owns the Bitcoin Inside BlackRock\u2019s ETF?",
@@ -103,8 +43,68 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/really-owns-bitcoin-inside-blackrock-160038419.html",
       "image": "https://s.yimg.com/lo/mysterio/api/82b4423d002be56fb00b72141b3322d277aba764911f5ef0ebb7435d817f5381/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9523beebd490660b9c4c783ba9fea685.jpg",
       "description": "Millions of investors hold IBIT shares believing they have exposure to Bitcoin, but the actual ownership chain running through a Delaware trust, a crypto custodian, and a handful of authorized traders tells a more complicated story."
+    },
+    {
+      "headline": "Judge Rejects Gemini, CFTC Bid To Overturn $5M Settlement In Bitcoin Futures Case",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1d3QTZ6MTJ1UWRDbHB1TUxEdzRLVTNZMm1qRTlSVHBfWU1MVFdHdFp5QXpFVUJaOURJdnZMZHN4dF9MVHF0RHBKcXFCZlFoM252WTFrUm1ZSmVIS3NOQ3BzaS1hSzZCRGJWYU5kLWE0dEFyWXNDbXhFVkp0ZDhJUE12V3l6U05vSlF1ZVR5TWNCcDhMSnJWdktn?oc=5",
+      "pub_date": 1792260404.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/judge-rejects-gemini-cftc-bid-180644160.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d619d049272d039cf2c1c05a2bfd474110d60094697592969ba387aece29b3ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1bf1380ee642a1ffed5ea9659ae5417e",
+      "description": "The CFTC sued Gemini in 2022, and the exchange agreed to pay the $5 million penalty in January 2025 after more than three years of litigation."
+    },
+    {
+      "headline": "Best Crypto Casinos 2026 \u2013 Top 5 Bitcoin Sites Reviewed for Bonuses",
+      "source": "Muddy River Sports",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJTbHlDZlBwYWRMaVkwcWdRWFJwQmNvcEtQZjFlNXF2VFdQWHF5ZG1SY25Hd1NRTEVWbDcxVW5MNUx1eE1nc1ZvN3dJVnA1LW05WGNWaC03TVFGa05kbUJhVVhkZU9sSkNFaUhicnpxaHlZZ2tKY1dyYndDVHQ4bjUtZ3J2b013bTlld3BYSDVXNUJadGdnbWZrck05aGRjTFpyOW5zUlgwb1pJZE8zdl8wR1lvNG5uM1pZdVBn?oc=5",
+      "pub_date": 1792148161.0,
+      "article_url": "https://muddyriversports.com/casino-hub/best-crypto-casinos-2026-top-5-bitcoin-sites-reviewed-for-bonuses/20261016052942/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/10/image-185.png",
+      "description": "Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features \u2705mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino \u2705JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses \u2705Thunderpick 100% up to \u20ac2,000 Bonus rollover rules \u2705BitStarz Up to 5 BTC + 180 Free Spins Staged free spins \u2705Lucky Rebel..."
+    },
+    {
+      "headline": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjZ1MzZ6clVYZmItTGI1TnZuZkl0cFFoX2NoeTBadC1KUFVsYW54THVXVndhcTRHUTFYWFlQSFRwekRQSldvY0w2WXU3LU1mRmpzUFVWT2pBaDdfWWthS09WZlItajBOM21yZlZjaDZYdTVRb1lpOFZ4a3NxbUNrTWNmWGQ2TzF2djdJNHpfcmF0NnJ0M0Jic1g2aFM1T195UXpMTEs0UDFmUTl4aGc?oc=5",
+      "pub_date": 1792219188.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn\u2019t gone anywhere."
+    },
+    {
+      "headline": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXJXUDlhYkxhblk5dDM4ZjBTdkhldWMxZHY2VERXVExUeXpsV1FiQWlzY09keFZNRVR6X2V5VnB5TG9qUG85aHZuV2s3cXBGVlgwUzR6aVhxZlhybjdYM0hhMnllRFJJdHJoRHJRZVJsUlpjYmZVMVhyUkkzS3hHV1hBbUY5dmViM2RzbA?oc=5",
+      "pub_date": 1792059000.0,
+      "article_url": "https://www.fool.com/investing/2026/10/15/better-buy-right-now-bitcoin-vs-shiba-inu/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888107%2Finvestor-looking-at-phone-and-laptop-charts.jpg&w=1200&op=resize",
+      "description": "Both of these cryptocurrencies have registered positive momentum in the past three months."
+    },
+    {
+      "headline": "Bitcoin\u2019s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2JUR0tBdS1ORVEySVY1ek1takhLQnY3YV9idkpranlnbkFMT2lXOGVPVzNfTEZPOVNMUEMxZkpNUHpKeGotUmlVcnVTZl9ISTdzQTcyTnNoU1ZzRmg0UElLcGtkd2NpRjdqNlVPdU5zZ3JKVmlSMDRYUHRKOHVweg?oc=5",
+      "pub_date": 1792096246.0,
+      "article_url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-14.jpg",
+      "description": "Grayscale research shows that bitcoin\u2019s realized volatility is in the same range as a number of S&P 500 stocks."
+    },
+    {
+      "headline": "Bitcoin is starting to behave more like gold as investors seek alternative hedges \u2013 Block Scholes",
+      "source": "Kitco",
+      "source_url": "https://www.kitco.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjVqNVNDQzBBblZaVnAwR2llMHpEUERYc2N2WXlhNnBnNG5Xc2hMUWpzVkN0RVlFalJ0V3V6RFo1SzA2NlVRbHE4Yk9zanRqRnBybGxiaDY3RFJQTGtJV0JLNzU3N2MzZ0FySjV4LXZSbGpaUEhTX2dpVHNqLXhuTVNUSjU5ZkUxN1RWZTh3Q2JYdWI3QmtJeXZYM2hFX2lMQUhjWk9SRWJiaHpUcHB5c3VzZlZGRE5xRGE0?oc=5",
+      "pub_date": 1792077000.0,
+      "article_url": "https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block",
+      "image": "https://image-api.prod.kitco.com/image/42a55063-5d24-44c0-b1da-4b0510536c0c.jpeg?top=0.31815099457505&left=0&width=1000&height=562.36369801085&scale_width=1920&token=70bb19961de883f9d18edb9e71dab0857cb82c28c742d378f84b36b0f4cf0182",
+      "description": "(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency\u2019s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.\u201cThe move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,\u201d Rahman said. \u201cIn the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.\u201dBoth Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.\u201cThe 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,\u201d he said. \u201cThis could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.\u201dSee live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T16:35:14.157820+00:00"
+  "fetched_at": "2026-10-17T19:02:57.632258+00:00"
 }
