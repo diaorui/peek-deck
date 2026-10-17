@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-17T13:05:57.145155+00:00'
+updated: '2026-10-17T16:35:15.785363+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 17, 2026 at 13:05 UTC  
+**Last Updated:** October 17, 2026 at 16:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,25 +112,11 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 ## Google News: "robotics"
 
-**[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)**
-
-Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics’ ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks.
-
-TechCrunch • 20h ago
-
----
-
 **[Robots could boost US manufacturing as America races to keep pace with China, expert says](https://www.foxbusiness.com/technology/robots-could-boost-us-manufacturing-america-races-keep-pace-china-expert-says)**
 
 A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics.
 
-Fox Business • 21h ago
-
----
-
-**[Delivery Robots Accused Of Scanning Customers’ Faces, Sharing Biometric Data](https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/)**
-
-Block Club Chicago • 17h ago
+Fox Business • 1d ago
 
 ---
 
@@ -140,11 +126,11 @@ The New York Times • 1d ago
 
 ---
 
-**[Saga Robotics Thorvald: The Best Inventions of 2026](https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/)**
+**[A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html)**
 
-Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions.
+Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]
 
-Time Magazine • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -168,15 +154,15 @@ NPR • 3d ago
 
 A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
 
-Futurism • 17h ago
+Futurism • 21h ago
 
 ---
 
-**[Ukraine’s military robots are getting tires that can’t go flat](https://www.popsci.com/technology/3d-printed-tires-ukraine/)**
+**[Saga Robotics Thorvald: The Best Inventions of 2026](https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/)**
 
-The 3D printed, airless design makes the wheels more adaptable.
+Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions.
 
-Popular Science • 22h ago
+Time Magazine • 2d ago
 
 ---
 
@@ -184,7 +170,23 @@ Popular Science • 22h ago
 
 Automated precision tools and domestic partnerships helped engineers complete a critical stage of the Unit 4 MCR.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 23h ago
+
+---
+
+**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
+
+Is AI coming for blue-collar jobs, too?
+
+Tom's Hardware • 3h ago
+
+---
+
+**[AI robots are roaming L.A. grocery aisles. Shoppers and workers worry about what comes next](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
+
+AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
+
+Los Angeles Times • 23h ago
 
 ---
 
@@ -198,7 +200,7 @@ Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursi
 
 📺 Tesla Insider News
 
-👁️ 186K • 👍 1K • 💬 262 • ⏱️ 21:44 • 1d ago
+👁️ 220K • 👍 1K • 💬 295 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -208,7 +210,17 @@ The hand is one of the most complex parts of the humanoid robot puzzle. China is
 
 📺 Bloomberg Television
 
-👁️ 22K • 👍 154 • 💬 20 • ⏱️ 5:02 • 5h ago
+👁️ 38K • 👍 217 • 💬 23 • ⏱️ 5:02 • 8h ago
+
+---
+
+**[The Weirdest Robots to Ever Fight at NHRL](https://www.youtube.com/watch?v=eVI9Ig3lq_o)**
+
+Not your average fighting robots. From bizarre designs to completely unconventional engineering, these robots prove there's ...
+
+📺 NHRL
+
+👁️ 78K • 👍 944 • 💬 66 • ⏱️ 12:13 • 2d ago
 
 ---
 
@@ -218,7 +230,7 @@ A Sydney start-up is paying workers to wear AI glasses to collect data for train
 
 📺 7NEWS Australia
 
-👁️ 55K • 👍 250 • ⏱️ 1:54 • 2d ago
+👁️ 57K • 👍 250 • ⏱️ 1:54 • 2d ago
 
 ---
 
@@ -228,37 +240,27 @@ BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them... Chinese
 
 📺 The Electric Viking
 
-👁️ 38K • 👍 562 • 💬 90 • ⏱️ 5:29 • 4d ago
+👁️ 38K • 👍 563 • 💬 90 • ⏱️ 5:29 • 4d ago
 
 ---
 
-**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
+**[Google&#39;s AI Watched One Video. Then a Robot Sank 7 in a Row.](https://www.youtube.com/watch?v=LGvKGWOYIOo)**
 
-Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
+Google's AI Watched One Video. Then a Robot Sank 7 in a Row. Google says its new model, Gemini 4 Argon, watched a video of ...
 
-📺 The Tesla Space
+📺 LearnOpenCV
 
-👁️ 84K • 👍 3K • 💬 154 • ⏱️ 13:59 • 2d ago
-
----
-
-**[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
-
-What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
-
-📺 Bernard Marr
-
-👁️ 84K • 👍 7K • 💬 17 • ⏱️ 1:30 • 4d ago
+👁️ 651 • 👍 27 • 💬 4 • ⏱️ 2:10 • 6h ago
 
 ---
 
-**[Finally robots that can see, hear, feel and remember. Meet Neuron AI.](https://www.youtube.com/watch?v=u02bHNHkqxg)**
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
 
-Neuron AI is the world's leading and only multimodal foundation model for Physical AI, developed and trained in-house in ...
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
 
-📺 NEURA Robotics
+📺 MostAmazingTop10
 
-👁️ 14K • 👍 417 • 💬 64 • ⏱️ 3:08 • 1d ago
+👁️ 251K • 👍 2K • 💬 230 • ⏱️ 9:18 • 6d ago
 
 ---
 
@@ -272,13 +274,13 @@ This is the closest thing there is to a confirmed US military humanoid robot sol
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+**[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
 
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
 
-📺 MostAmazingTop10
+📺 Bernard Marr
 
-👁️ 249K • 👍 2K • 💬 229 • ⏱️ 9:18 • 5d ago
+👁️ 84K • 👍 7K • 💬 17 • ⏱️ 1:30 • 4d ago
 
 ---
 
@@ -288,7 +290,7 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 552K • 👍 4K • 💬 367 • ⏱️ 1:44 • 3d ago
+👁️ 586K • 👍 4K • 💬 367 • ⏱️ 1:44 • 4d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T13:05:57.141926+00:00'
+updated: '2026-10-17T16:35:15.782116+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 13:05 UTC  
+**Last Updated:** October 17, 2026 at 16:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -4.3%  
-**30d:** -7.1%  
-**90d:** +27.5%  
-**1y:** -37.6%  
+**24h:** -0.2%  
+**7d:** -5.1%  
+**30d:** -7.9%  
+**90d:** +26.4%  
+**1y:** -38.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $296.17B
+**Market Cap:** $293.56B
 Rank #2
 
 **Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.0%
+-51.4%
 
 **All-Time Low:** $0.43
-+559936.4%
++555060.9%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 staking eth for about three years now. started with lido, then tried rocket pool, even ran a validator for a while. but honestly the whole defi staking thing is starting to wear me down. smart contract risk, slashing risk, the tax nightmare of tracking all those tiny rewards. it's just a lot. lately ive been using gemini for a chunk of my eth. it's not as exciting as defi, and the yields are lower. but it's simple. i don't have to worry about a bug in a contract draining my funds. i don't have to spend hours figuring out cost basis for taxes. i stake and get a statement at the end of the year. for someone who just wants exposure to eth staking without the headache, it's been a decent option. i still keep some in lido because i believe in decentralization, but the regulated route has its place. anyone else split their staking like this? or am i just getting old and lazy?
 
-4d ago
+5d ago
 
 ---
 
@@ -96,7 +96,7 @@ staking eth for about three years now. started with lido, then tried rocket pool
 
 Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
-5d ago
+6d ago
 
 ---
 
@@ -168,9 +168,9 @@ Engadget • 1d ago
 
 ---
 
-**[Ethereum Fell 10% in October, but Social Sentiment Is Still Positive. Is the Crowd Too Early?](https://finance.yahoo.com/markets/crypto/articles/ethereum-fell-10-october-social-103042971.html)**
+**[Deutsche Bank Is Weeks From Holding Bitcoin and Ethereum for Clients. Could Other Big Banks Follow?](https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-weeks-holding-bitcoin-143032623.html)**
 
-Ethereum's social media crowd is buzzing with optimism even as ETH slides deeper into October losses, but the people actually moving money tell a very different story.
+Deutsche Bank is weeks away from letting German institutions park Bitcoin and Ether with a regulated custodian, and the move raises a bigger question: will a wave of bank entries finally translate into lasting price pressure, or just more plumbing for demand that has yet to show up?
 
 Yahoo Finance • 2h ago
 
@@ -181,14 +181,6 @@ Yahoo Finance • 2h ago
 The odds of these coins being worth more in five years are quite high.
 
 The Motley Fool • 1d ago
-
----
-
-**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
-
-Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
-
-TradingView • 23h ago
 
 ---
 
@@ -204,7 +196,23 @@ UrbanMatter • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 18h ago
+
+---
+
+**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
+
+Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
+
+Blockchain News • 11h ago
+
+---
+
+**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
+
+Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
+
+TradingView • 1d ago
 
 ---
 
@@ -212,15 +220,7 @@ Fortune • 14h ago
 
 Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
 
-Decrypt • 1d ago
-
----
-
-**[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
-
-Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
-
-Crypto Briefing • 18h ago
+Decrypt • 2d ago
 
 ---
 
@@ -234,33 +234,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 176 • 👍 15 • 💬 1 • ⏱️ 4:57 • 3h ago
-
----
-
 **[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
 
 supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanalysis 4th anniversary Level 2 offer, apply ...
 
 📺 Venture
 
-👁️ 446 • 👍 35 • 💬 4 • ⏱️ 25:25 • 6h ago
+👁️ 819 • 👍 40 • 💬 5 • ⏱️ 25:25 • 9h ago
 
 ---
 
-**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
+**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
 
-Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 197 • 💬 8 • ⏱️ 8:38 • 6h ago
+👁️ 396 • 👍 19 • 💬 4 • ⏱️ 4:57 • 6h ago
 
 ---
 
@@ -270,27 +260,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 3K • 👍 44 • 💬 4 • ⏱️ 8:36 • 21h ago
-
----
-
-**[Bitcoin Fake Out COMPLETE (HUGE ETHEREUM SIGNAL)](https://www.youtube.com/watch?v=QvZdYf89pqo)**
-
-Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may be COMPLETE, and a huge Ethereum (ETH) signal ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 252 • 💬 83 • ⏱️ 1:07:37 • 20h ago
-
----
-
-**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Matt Hougan](https://www.youtube.com/watch?v=WnDF8Rfgl18)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 195 • 💬 17 • ⏱️ 23:05 • 1d ago
+👁️ 3K • 👍 50 • 💬 4 • ⏱️ 8:36 • 1d ago
 
 ---
 
@@ -300,7 +270,37 @@ Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to acce
 
 📺 Home Aura
 
-👁️ 5K • 👍 125 • 💬 72 • ⏱️ 4:20 • 1d ago
+👁️ 5K • 👍 126 • 💬 72 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
+
+Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
+
+📺 More Crypto Online
+
+👁️ 8K • 👍 236 • 💬 11 • ⏱️ 8:38 • 10h ago
+
+---
+
+**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Matt Hougan](https://www.youtube.com/watch?v=WnDF8Rfgl18)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 196 • 💬 17 • ⏱️ 23:05 • 2d ago
+
+---
+
+**[🚨 BTC &amp; CRYPTO: Horrible ESCALATION - Inflation, War, Politics, and More! (Urgent.)](https://www.youtube.com/watch?v=Y4On6FzQfWg)**
+
+Bitcoin and crypto are holding up relatively well; however, the rest of the market is in deep trouble. Here is the latest on inflation, ...
+
+📺 Thomas Kralow
+
+👁️ 14K • 👍 954 • 💬 26 • ⏱️ 14:50 • 1d ago
 
 ---
 
@@ -308,7 +308,17 @@ Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to acce
 
 📺 Itsdanielmac
 
-👁️ 41K • 👍 712 • 💬 31 • ⏱️ 0:48 • 2d ago
+👁️ 42K • 👍 722 • 💬 31 • ⏱️ 0:48 • 2d ago
+
+---
+
+**[Bitcoin Fake Out COMPLETE (HUGE ETHEREUM SIGNAL)](https://www.youtube.com/watch?v=QvZdYf89pqo)**
+
+Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may be COMPLETE, and a huge Ethereum (ETH) signal ...
+
+📺 Discover Crypto
+
+👁️ 10K • 👍 255 • 💬 83 • ⏱️ 1:07:37 • 23h ago
 
 ---
 
@@ -318,17 +328,7 @@ Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ..
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 21 • 💬 4 • ⏱️ 3:19 • 2d ago
-
----
-
-**[Bitcoin &amp; Crypto  Bounce, Tesla Flying Cars, Solana or Ethereum ?](https://www.youtube.com/watch?v=K9JfUGe06gU)**
-
-Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 509 • 💬 33 • ⏱️ 1:11:36 • 1d ago
+👁️ 2K • 👍 21 • 💬 4 • ⏱️ 3:19 • 2d ago
 
 ---
 
