@@ -35,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "CMR Surgical CEO outlines the path forward for Stryker\u2019s robotics partnership",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEtYSnE4RVYzQXFHMDAyNjBLa3ZYMDlBUEg0eUQ2cmZnTGVVWk8xVE9zSWRMNHBXN1lqd2Zvd0oxTm1jZURqYlVYbkNvVXZQbW9tVUdDZndyUUpZb0tXSHhuYm5QaGJNSGdpb1dIS3I5YU5tUTltbTV6MFQ5NENxcW10aUR3ald2OFZjRHVFRUdsSlRnS3VteXhnTEV6bXhIekRvWll0MA?oc=5",
-      "pub_date": 1792129668.0,
-      "article_url": "https://www.massdevice.com/cmr-surgical-ceo-outlines-the-path-forward-for-strykers-robotics-partnership/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2026/10/15161736/Massimillano-Colella-CEO-2.jpg",
-      "description": "CMR Surgical CEO Massimiliano Colella says the robotics developer plans to come out swinging after Stryker's $400 million investment."
+      "headline": "A Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2xkODBFNndkNEhPcXdCeTIzek1XY083QzZRNHpBR2V1dmxPZ2hVMXYyV3Njd2VEMnFKU2MyUDBob05oa1FtMkJaVktxeFlpd3JybEI3RjFaa1NwY2FMbDJtZUlid1FLelRoakFjN01uRnlGT3ZmcDQtWXJ3WWdYOFFQOUFPR1NWeWJaemF4YU1Mako2WWVR?oc=5",
+      "pub_date": 1792168200.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d052147fc9ff6c5c6d9772513296c3371b7f488ae805f78092b0348bdc7532f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F29c9fd6615328998e1be820221db79c7",
+      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [\u2026]"
     },
     {
       "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
@@ -55,24 +55,34 @@
       "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
     },
     {
-      "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
-      "pub_date": 1792050445.0,
-      "article_url": "https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/",
-      "image": null,
-      "description": null
+      "headline": "CMR Surgical CEO outlines the path forward for Stryker\u2019s robotics partnership",
+      "source": "MassDevice",
+      "source_url": "https://www.massdevice.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEtYSnE4RVYzQXFHMDAyNjBLa3ZYMDlBUEg0eUQ2cmZnTGVVWk8xVE9zSWRMNHBXN1lqd2Zvd0oxTm1jZURqYlVYbkNvVXZQbW9tVUdDZndyUUpZb0tXSHhuYm5QaGJNSGdpb1dIS3I5YU5tUTltbTV6MFQ5NENxcW10aUR3ald2OFZjRHVFRUdsSlRnS3VteXhnTEV6bXhIekRvWll0MA?oc=5",
+      "pub_date": 1792129668.0,
+      "article_url": "https://www.massdevice.com/cmr-surgical-ceo-outlines-the-path-forward-for-strykers-robotics-partnership/",
+      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2026/10/15161736/Massimillano-Colella-CEO-2.jpg",
+      "description": "CMR Surgical CEO Massimiliano Colella says the robotics developer plans to come out swinging after Stryker's $400 million investment."
     },
     {
-      "headline": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2MxVXJGZWlIdkxPTTZOeGFqZGpVR3NfSEZRbzlhS1R3LWxRdzVTRlhrTVZGbU8tclBFdWxrS0NLbzRvZmctZ3BPaGZ4UGwwS3lwNmNrYzlZZENsWVl2ZDNwUElHZkNEWG15V1puWUVwajlTS3VTU0ZsWEJuTDRselRsQXRTUFNXdk53dEJHZ2NKRXdHbmltYURjZkNkcjVVaVJRb0ZEVnB2bmNMSnRfdFhqQzFQUG5RWm1uNmIta2FVajFTVmNncmplR2xEQjE5T2o0?oc=5",
-      "pub_date": 1792166700.0,
-      "article_url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab",
-      "image": null,
-      "description": null
+      "headline": "These workers help train robots who could one day steal their jobs",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWW82cHE2RnI2WEhnVWVsYk9vcHg3UDhZSTRzQUFkNzVYQ3FHQUxZVTMzQTd2OHdpaUUxX3dkV2RCTzRIczk0WnJJcXZnc3ExZVJZY3gtRDZwbmJ0WlZKYVlJZXhTVTRNXzN3X2ZwMmNaUmtIb0Rab19hUEY5eGl5V0luZWZ0NkwycWpQN05EcDlEczhpU19HWndVVkxyaXBsRENpQURfNGdGVXF4OUE?oc=5",
+      "pub_date": 1791970127.0,
+      "article_url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3703x2083+0+1/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fc6%2Fd28dafef4d61ba6cc03148fd71ef%2Fai-robots-final.jpeg",
+      "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
+    },
+    {
+      "headline": "Ukraine\u2019s military robots are getting tires that can\u2019t go flat",
+      "source": "Popular Science",
+      "source_url": "https://www.popsci.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zOVNpUTlhbnJRbHRxTFhFRmlTSk93WEtpVUZWckVyMGM2RkNEMmtRdll0OGctMWN1dGFYZ2JuUWdMcHhjM0tRYmRtOEdIZWh2TjZpc2t3cm9FcWlEeDlLbFdJZWFkN1hIa3ZJ?oc=5",
+      "pub_date": 1792162920.0,
+      "article_url": "https://www.popsci.com/technology/3d-printed-tires-ukraine/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/10/airless-tire-lead.png?quality=85&w=1200",
+      "description": "The 3D printed, airless design makes the wheels more adaptable."
     },
     {
       "headline": "Canadian robotics firm partners with nation's largest homebuilder, expands into Phoenix",
@@ -93,18 +103,8 @@
       "article_url": "https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Crew Preps for Dragon\u2019s Arrival During Vision and Robotics Research",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlY4a3dtVzJ3MzBTVmE0eWFiVW5CNTAxZ2c1V3ZfTmg2WkUzVUZ3MTlRLWRIQTlJNzRwcFU4ZFB6bVRRX1V2MUw0RFVDeWRuTDRkQ0RlUEJoQ184Tlk4RHBIQ0VVTTNiR1VjeWlYSG1ZcGFiSldubk1Pblo0QmNhTk1PczNFa3ZQR3gtSTdna1B3dmNWcURVUnczZzdpcXZibzlqSllhZFdGbmxFWjRldHR6bTJ6eGlpWGc?oc=5",
-      "pub_date": 1792000475.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/14/crew-preps-for-dragons-arrival-during-vision-and-robotics-research/",
-      "image": "https://images-assets.nasa.gov/image/iss074e0586370/iss074e0586370~large.jpg",
-      "description": "A SpaceX Dragon spacecraft is orbiting Earth on its way to the International Space Station for a docking on Thursday."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T04:50:21.761163+00:00"
+  "fetched_at": "2026-10-17T09:02:28.564960+00:00"
 }

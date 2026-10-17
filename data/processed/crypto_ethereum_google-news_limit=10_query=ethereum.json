@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
-      "pub_date": 1792125690.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
-    },
-    {
       "headline": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
       "source": "Engadget",
       "source_url": "https://www.engadget.com",
@@ -25,14 +15,14 @@
       "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
     },
     {
-      "headline": "Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWE9DY1pLVm5tZ0E2bXdsQ3FCb3dzUmdncmZUYlJ5LXljdEtIazN4UGlJOVRrdHhJSHJHWjROZjFpUm5ibWhDR1JsWnVnSndwcmNqYTRPRkJRNXZ5LUtQVGgtWmJwa2xaaFBZREE0VThUa2pVQ1RxVE5MU3NmVGxpQV9PbUdPS0JtLXJCNjM4NjFVQjdEajVV?oc=5",
-      "pub_date": 1792151100.0,
-      "article_url": "https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890876%2Finvestor-ponders-a-screen.jpg&w=1200&op=resize",
-      "description": "The odds of these coins being worth more in five years are quite high."
+      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
+      "pub_date": 1792125690.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
     },
     {
       "headline": "Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?",
@@ -43,6 +33,16 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html",
       "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
       "description": "Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as \"mature\" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee\u2019s hint at winding down Bitmine\u2019s Ethereum accumulation streak is..."
+    },
+    {
+      "headline": "Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWE9DY1pLVm5tZ0E2bXdsQ3FCb3dzUmdncmZUYlJ5LXljdEtIazN4UGlJOVRrdHhJSHJHWjROZjFpUm5ibWhDR1JsWnVnSndwcmNqYTRPRkJRNXZ5LUtQVGgtWmJwa2xaaFBZREE0VThUa2pVQ1RxVE5MU3NmVGxpQV9PbUdPS0JtLXJCNjM4NjFVQjdEajVV?oc=5",
+      "pub_date": 1792151100.0,
+      "article_url": "https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890876%2Finvestor-ponders-a-screen.jpg&w=1200&op=resize",
+      "description": "The odds of these coins being worth more in five years are quite high."
     },
     {
       "headline": "Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus",
@@ -65,14 +65,14 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ21jTVlkYjczN1lNREtzY2tXSmJSbWoycUN2YVBiWWlxNzM4b2ZIMmIzZHFKcHVoTGFxVEJUbnIwZV9tcjl4SXFRR0F2dE8zTWZGZzNvbHZaVlV4bnhkcl9DaXQtYWRrbU1VZ3gyYWZ4ZVdVVm9naGRfZ05rRUg0WXp1V1p6NURPOEFNWTAycS1MWTA?oc=5",
-      "pub_date": 1792074438.0,
-      "article_url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
-      "description": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."
+      "headline": "a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laHd5bmhlcHdTZmlJNk1QUjVmN0ZodHgxUjI5LW1TWVItc01hX2c3VG1ESUFiTW9PdWRpNmIyd1M2LUxTTkhjeWJzRDlKV0dudEo1NHNpX1U0Sm9KTDdvLXJVZ1QtTFJNY3dRY3c1WjM4VlBva0Zv?oc=5",
+      "pub_date": 1792175800.0,
+      "article_url": "https://cryptobriefing.com/quantum-resistant-signatures-improvement/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/16143639/contributor-29-cd594d71-ab64-4932-8ca6-4af3d315349a-800x450.png",
+      "description": "Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security."
     },
     {
       "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC holds $80,500, ETH rebounds from key support, XRP weakens",
@@ -85,16 +85,6 @@
       "description": null
     },
     {
-      "headline": "a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laHd5bmhlcHdTZmlJNk1QUjVmN0ZodHgxUjI5LW1TWVItc01hX2c3VG1ESUFiTW9PdWRpNmIyd1M2LUxTTkhjeWJzRDlKV0dudEo1NHNpX1U0Sm9KTDdvLXJVZ1QtTFJNY3dRY3c1WjM4VlBva0Zv?oc=5",
-      "pub_date": 1792175800.0,
-      "article_url": "https://cryptobriefing.com/quantum-resistant-signatures-improvement/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/16143639/contributor-29-cd594d71-ab64-4932-8ca6-4af3d315349a-800x450.png",
-      "description": "Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security."
-    },
-    {
       "headline": "Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 \u2013 Is Another Flush Ahead?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.tradingview.com/news/coinpedia:05de475fb094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra\u2026"
+    },
+    {
+      "headline": "Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUQ1SnZEYVFSQUFvOVNWYXBXRVN5bHBCSDJFME52ekFUT0ZWa2VyNUJhX3VMZVZhVV9qdHZVcWxQS3dpSlJ6bDdVLWJSaVppb1BXS0JhNF9yUFZEekVUYVlfbXBOSmh1b0F5UjhUb0tLWnl4R1V1Z1hTUFZQRUFBSHgwSGZndUk2UmxRc0xROThPUnNYWVMxOUFuaFg0R05oa2VQVGh1QWlFeGVsbjlnbm1uaVJJdGVPYWNvdzlB?oc=5",
+      "pub_date": 1792089030.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T04:50:20.336828+00:00"
+  "fetched_at": "2026-10-17T09:02:23.497435+00:00"
 }
