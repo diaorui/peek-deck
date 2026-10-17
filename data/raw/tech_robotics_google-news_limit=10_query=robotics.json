@@ -55,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "AI robots are roaming L.A. grocery aisles. Shoppers and workers worry about what comes next",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
-      "pub_date": 1792171380.0,
-      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
-      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
-    },
-    {
       "headline": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots \u2014 wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning",
       "source": "Tom's Hardware",
       "source_url": "https://www.tomshardware.com",
@@ -95,6 +85,16 @@
       "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
     },
     {
+      "headline": "Wound-helix robot leaps and bounds over obstacles",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGOHh3WjVGY3c4ZVd1SHdNclEycnJUZDhUelJ0Y3k4enFKOWctQzVoYlo4ME1oeGlOMXBOUVRpbEVwZTFwbG5uVGx0WE55cklyTlc0VmFCcmh1OW8tRUhJ?oc=5",
+      "pub_date": 1792192003.0,
+      "article_url": "https://newatlas.com/robotics/tiny-snapping-robot/",
+      "image": "https://assets.newatlas.com/dims4/default/831d9e9/2147483647/strip/true/crop/1314x690+0+93/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc2%2F84%2F01aa861b443498ebf4b958e9cdda%2Fhopping-robot-1.jpeg&na.image_optimisation=0",
+      "description": "Remember that \u201cdancing pencils\u201d game schoolchildren played, where they passed two pencils through a small rubber band, twisted them repeatedly, and then let go to make the pencils jump around as the band unraveled? Turns out they were onto some serious futuristic robotics, as scientists are now\u2026"
+    },
+    {
       "headline": "Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T21:36:52.733180+00:00"
+  "fetched_at": "2026-10-17T23:47:45.508937+00:00"
 }
