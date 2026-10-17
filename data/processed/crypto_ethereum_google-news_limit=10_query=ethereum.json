@@ -39,7 +39,7 @@
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZxczlrYmtIaVVVWlhGbDZJYk5UNFVCekhQUlBqS01QOEdvX0VOSXpQVVRuMGdHb3lsd0RxZTJPejBNUUFMYmt3anEwMHgzRkRyNHRmUVBrcE00eHd1aFlQanRkbzZOeDg4MnFvbHRESEJsM0RKay1SdWVmQUZtLThwRFo2M1psNzBNQmV6Sm9KQUxEVlF0RQ?oc=5",
-      "pub_date": 1792259549.0,
+      "pub_date": 1792262400.0,
       "article_url": "https://www.fool.com/investing/2026/10/17/ethereum-dramatically-outperformed-the-sp-500-in-q/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890556%2Fethereum-virtual-money.jpg&w=1200&op=resize",
       "description": "The coin's recent strength is undeniable, but the fact that it might not last forever demands at least some caution from investors."
@@ -55,6 +55,16 @@
       "description": "Ethereum sets Hoodi\u2019s Glamsterdam test for October 26, requiring compatible client upgrades while mainnet timing and the future impact on fees remain open."
     },
     {
+      "headline": "a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laHd5bmhlcHdTZmlJNk1QUjVmN0ZodHgxUjI5LW1TWVItc01hX2c3VG1ESUFiTW9PdWRpNmIyd1M2LUxTTkhjeWJzRDlKV0dudEo1NHNpX1U0Sm9KTDdvLXJVZ1QtTFJNY3dRY3c1WjM4VlBva0Zv?oc=5",
+      "pub_date": 1792175800.0,
+      "article_url": "https://cryptobriefing.com/quantum-resistant-signatures-improvement/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/16143639/contributor-29-cd594d71-ab64-4932-8ca6-4af3d315349a-800x450.png",
+      "description": "Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security."
+    },
+    {
       "headline": "Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -63,16 +73,6 @@
       "article_url": "https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad\u2026"
-    },
-    {
-      "headline": "Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus",
-      "source": "UrbanMatter",
-      "source_url": "https://urbanmatter.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjdGcnh1Z1hYdm94SGFKRzVQeGpEMFBPMWlXc1BobDEweThQTHBOVUFORzVKSEgtdXBEQk1rNklacGUyU2hCVFE2VVFkOTV2aEJUUTV4eDZPdXl3NThLQWttQkE4aXBIUnJ0SjBFM2VKVWJLdFlsTnJMdEItSDBXWm54eWM5R2lLUTl1al9tMWk0TEdsNjhz0gGXAUFVX3lxTE9uN0ZyeHVnWFh2b3hIYUpHNVB4akQwUE8xaVdzUGhsMTB5OFBMcE5VQU5HNUpISC11cERCTWs2SVpwZTJTaEJUUTZVUWQ5NXZoQlRRNXh4Nk91eXc1OEtBa21CQThpcEhScnRKMEUzZUpVYkt0WWxOckx0Qi1IMFdabnh5YzlHaUtROXVqX20xaTRMR2w2OHM?oc=5",
-      "pub_date": 1792148451.0,
-      "article_url": "https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/",
-      "image": "https://urbanmatter.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-12.21.32-AM.jpeg",
-      "description": "Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context."
     },
     {
       "headline": "Ethereum: Head and Shoulders Pattern Persists Daily",
@@ -85,16 +85,6 @@
       "description": "Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776..."
     },
     {
-      "headline": "a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laHd5bmhlcHdTZmlJNk1QUjVmN0ZodHgxUjI5LW1TWVItc01hX2c3VG1ESUFiTW9PdWRpNmIyd1M2LUxTTkhjeWJzRDlKV0dudEo1NHNpX1U0Sm9KTDdvLXJVZ1QtTFJNY3dRY3c1WjM4VlBva0Zv?oc=5",
-      "pub_date": 1792175800.0,
-      "article_url": "https://cryptobriefing.com/quantum-resistant-signatures-improvement/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/16143639/contributor-29-cd594d71-ab64-4932-8ca6-4af3d315349a-800x450.png",
-      "description": "Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security."
-    },
-    {
       "headline": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -103,8 +93,18 @@
       "article_url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
       "description": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."
+    },
+    {
+      "headline": "Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus",
+      "source": "UrbanMatter",
+      "source_url": "https://urbanmatter.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjdGcnh1Z1hYdm94SGFKRzVQeGpEMFBPMWlXc1BobDEweThQTHBOVUFORzVKSEgtdXBEQk1rNklacGUyU2hCVFE2VVFkOTV2aEJUUTV4eDZPdXl3NThLQWttQkE4aXBIUnJ0SjBFM2VKVWJLdFlsTnJMdEItSDBXWm54eWM5R2lLUTl1al9tMWk0TEdsNjhz0gGXAUFVX3lxTE9uN0ZyeHVnWFh2b3hIYUpHNVB4akQwUE8xaVdzUGhsMTB5OFBMcE5VQU5HNUpISC11cERCTWs2SVpwZTJTaEJUUTZVUWQ5NXZoQlRRNXh4Nk91eXc1OEtBa21CQThpcEhScnRKMEUzZUpVYkt0WWxOckx0Qi1IMFdabnh5YzlHaUtROXVqX20xaTRMR2w2OHM?oc=5",
+      "pub_date": 1792148451.0,
+      "article_url": "https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/",
+      "image": "https://urbanmatter.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-12.21.32-AM.jpeg",
+      "description": "Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T21:36:49.943089+00:00"
+  "fetched_at": "2026-10-17T23:47:42.197296+00:00"
 }
