@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-17T19:03:04.775877+00:00'
+updated: '2026-10-17T21:36:57.346924+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 19:03 UTC  
+**Last Updated:** October 17, 2026 at 21:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -2.7%  
-**30d:** +0.8%  
-**90d:** +24.9%  
-**1y:** -23.8%  
+**24h:** -0.8%  
+**7d:** -3.1%  
+**30d:** +0.3%  
+**90d:** +24.3%  
+**1y:** -24.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1636.72B
+**Market Cap:** $1627.37B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-35.8%
 
 **All-Time Low:** $67.81
-+119995.9%
++119298.3%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I wish my government (US) would start investing in crypto instead of some of the dumb stuff we waste our taxes on. The way they are giving 7.3 billion to shit like ICE to chase after workers in the country, but can't invest in future planning for a better economy? Anyways, just something I keep thinking about as things continue to get more expensive What do you guys think?
 
-23h ago
+1d ago
 
 ---
 
@@ -157,7 +157,7 @@ The latest redemptions, however, represent a small fraction of the roughly $65.7
 
 A group of crypto companies is trying to settle one of the industry’s murkiest questions: what it actually means for a blockchain network to be safe from…
 
-Decrypt • 3h ago
+Decrypt • 5h ago
 
 ---
 
@@ -171,15 +171,7 @@ Barron's • 1d ago
 
 Vitalik Buterin says Bitcoin mining cost splits 50/50 between hardware and power, while AI inference runs almost entirely on hardware.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Who Really Owns the Bitcoin Inside BlackRock’s ETF?](https://finance.yahoo.com/markets/crypto/articles/really-owns-bitcoin-inside-blackrock-160038419.html)**
-
-Millions of investors hold IBIT shares believing they have exposure to Bitcoin, but the actual ownership chain running through a Delaware trust, a crypto custodian, and a handful of authorized traders tells a more complicated story.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -187,7 +179,15 @@ Yahoo Finance • 3h ago
 
 The CFTC sued Gemini in 2022, and the exchange agreed to pay the $5 million penalty in January 2025 after more than three years of litigation.
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Coinbase Global (COIN) Wins SEC Backing For Binaries And Flags Bitcoin Quantum Risk](https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-wins-sec-211032219.html)**
+
+Coinbase Global (NasdaqGS:COIN) is working with Evernorth as it shifts to active management of a sizeable XRP treasury in 2026. The SEC has cleared binary options that reference Coinbase operating metrics rather than spot crypto prices, creating a new regulated trading instrument. Coinbase has issued a public warning that future advances in quantum computing could threaten Bitcoin security and is urging sector wide preparation. Evernorth's XRP treasury overhaul, SEC approved Coinbase linked...
+
+Yahoo Finance • 26m ago
 
 ---
 
@@ -199,11 +199,11 @@ Muddy River Sports • 1d ago
 
 ---
 
-**[‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery](https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery)**
+**[Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough](https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough)**
 
-Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.
+Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.
 
-CoinDesk • 12h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Motley Fool • 2d ago
 
 Grayscale research shows that bitcoin’s realized volatility is in the same range as a number of S&P 500 stocks.
 
-Bitcoin Magazine • 1d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -255,13 +255,13 @@ Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap�
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 2 • 💬 0 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 2 • 💬 0 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
 **[FTX's Old Bitcoin-Mining Assets Are Now Part of the AI Boom](https://news.ycombinator.com/item?id=50061464)**
 
-⬆️ 1 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
+⬆️ 1 • 💬 0 • 5d ago • [wsj.com](https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037)
 
 ---
 
@@ -289,7 +289,17 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 275 • 💬 61 • ⏱️ 10:54 • 13h ago
+👁️ 9K • 👍 289 • 💬 93 • ⏱️ 10:54 • 15h ago
+
+---
+
+**[Richard Byworth: Bitcoin Credit is Coming for the $300T Debt Market](https://www.youtube.com/watch?v=dAsaVXORQV0)**
+
+How do you earn yield on Bitcoin without risking your stack? Richard Byworth, who spent his career structuring for hedge funds, ...
+
+📺 Bitcoin Magazine
+
+👁️ 2K • 👍 38 • 💬 4 • ⏱️ 22:45 • 5h ago
 
 ---
 
@@ -299,7 +309,7 @@ Elon Musk says AI will bring universal basic income and that money may stop bein
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 1K • 💬 118 • ⏱️ 17:56 • 20h ago
+👁️ 32K • 👍 1K • 💬 154 • ⏱️ 17:56 • 22h ago
 
 ---
 
@@ -309,27 +319,7 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 74 • ⏱️ 8:46 • 20h ago
-
----
-
-**[Michael Saylor on Bitcoin, the Bear Market and What Happens Next | Xapo Bank Summit](https://www.youtube.com/watch?v=3yiM-YZpV0I)**
-
-Michael Saylor: 'The smart, rich, powerful people in the world have picked Bitcoin as the winner.' Recorded live at the inaugural ...
-
-📺 Xapo Bank
-
-👁️ 13K • 👍 285 • 💬 85 • ⏱️ 46:50 • 1d ago
-
----
-
-**[$20B AUM Siebert Analyst: $175K Bitcoin Price Target + MSTR “Buy” Rating Explained](https://www.youtube.com/watch?v=8sbC_ZNGKHQ)**
-
-Siebert Financial sees Bitcoin reaching $175K within the next 12 months, and Strategy hitting $350 a share along with it.
-
-📺 Bitcoin Magazine
-
-👁️ 9K • 👍 124 • 💬 4 • ⏱️ 20:42 • 21h ago
+👁️ 57K • 👍 2K • 💬 77 • ⏱️ 8:46 • 22h ago
 
 ---
 
@@ -339,37 +329,7 @@ Is the AI bubble about to burst, and is Bitcoin already pricing in the next mass
 
 📺 Simply Bitcoin
 
-👁️ 47K • 👍 2K • 💬 98 • ⏱️ 16:42 • 1d ago
-
----
-
-**[Is Bitcoin Ready To Rip While Wall Street Breaks?](https://www.youtube.com/watch?v=5nUxci_05jA)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 46K • 👍 2K • 💬 42 • ⏱️ 1:00:13 • 6h ago
-
----
-
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
-
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
-
-📺 Benjamin Cowen
-
-👁️ 150K • 👍 4K • 💬 337 • ⏱️ 1:11:56 • 1d ago
-
----
-
-**[Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun](https://www.youtube.com/watch?v=hTfIVPjwHiA)**
-
-Bitcoin has been trading sideways in the $80Ks, but Lark Davis says we're on the cusp of the next major cycle. The crypto investor ...
-
-📺 Bitcoin Magazine
-
-👁️ 10K • 👍 110 • 💬 8 • ⏱️ 17:31 • 1d ago
+👁️ 47K • 👍 2K • 💬 100 • ⏱️ 16:42 • 2d ago
 
 ---
 
@@ -379,7 +339,47 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 17K • 👍 753 • 💬 58 • ⏱️ 8:40 • 11h ago
+👁️ 19K • 👍 774 • 💬 68 • ⏱️ 8:40 • 13h ago
+
+---
+
+**[$250K Bitcoin Just 2 Months Away?! | Michael Saylor Says The Bull Market Has Begun!](https://www.youtube.com/watch?v=WH_7crcNKWA)**
+
+Could Bitcoin reach $250K in two months? Michael Saylor says a new bull market is beginning, and Arthur Hayes expects money ...
+
+📺 Simply Bitcoin
+
+👁️ 46K • 👍 2K • 💬 127 • ⏱️ 14:20 • 2d ago
+
+---
+
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
+
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+
+📺 Benjamin Cowen
+
+👁️ 157K • 👍 4K • 💬 346 • ⏱️ 1:11:56 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Weekend Roadmap: Exact Support and Resistance Levels](https://www.youtube.com/watch?v=o8MylqZml2U)**
+
+Thin weekend liquidity can set traps. Here are the exact Bitcoin levels Nick is watching heading into Saturday and Sunday.
+
+📺 Verified Investing
+
+👁️ 13K • 👍 510 • 💬 9 • ⏱️ 18:47 • 1d ago
+
+---
+
+**[Bitcoin and AI with Jordi Visser](https://www.youtube.com/watch?v=G-HqvP7pjVk)**
+
+Alex Thorn talks with investor Jordi Visser about bitcoin, tokenization, artificial intelligence, and theses for the market over the next ...
+
+📺 Galaxy
+
+👁️ 19K • 👍 427 • ⏱️ 1:20:24 • 1d ago
 
 ---
 
