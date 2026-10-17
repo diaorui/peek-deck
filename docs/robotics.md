@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-17T09:02:33.944812+00:00'
+updated: '2026-10-17T13:05:57.145155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 17, 2026 at 09:02 UTC  
+**Last Updated:** October 17, 2026 at 13:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Created with the help of opus. It is really good in understanding camera positio
 
 Join Chibots, the Chicago area robotics group, for our next online meeting. Whether you're a seasoned builder, a curious beginner, or just robot-curious, you're welcome here. This meeting will follow our usual loose format: A bit of club business (keeping it short, we promise) Show-and-tell — bring a project, a part, a problem, or just pictures Lots of open discussion with fellow robotics enthusiasts No formal agenda yet, and no pressure to present anything. Come to share, come to listen, come to ask questions — all are welcome. When: Sunday October 18th 2026 1:00 PM - 3:00 PM Where: Zoom Cost: Free RSVP: email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com) Email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com)for Zoom meeting link!
 
-21h ago
+1d ago
 
 ---
 
@@ -68,7 +68,7 @@ Join Chibots, the Chicago area robotics group, for our next online meeting. Whet
 
 I was writing my own IK solver to learn and I thought it was so funny I had to share it somewhere
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ I was writing my own IK solver to learn and I thought it was so funny I had to s
 
 I don't know if I'm the only one finding this, but I go to a lot of robotics events and meetups and often hear about good ones after they've happened. I've also spent the last year looking for jobs in robotics and kept missing interesting roles. It feels like everything is scattered across so many different places. So I started putting together a site for myself to keep track of robotics companies, their jobs, events and news. It turned into a bit of a summer project and has grown to 500+ companies and 11,000+ jobs so far. There's definitely a bias towards companies that are easy to find online, particularly in the US and UK. I'm sure I've missed loads of smaller teams, university spin-offs and companies in other parts of the world. I thought it might be useful to others too, and I'd be interested to hear from anyone else looking for jobs or going to robotics events: I've attached a short screen recording of what I've built so far. Link in the comments if anyone wants to have a look.
 
-1d ago
+2d ago
 
 ---
 
@@ -112,33 +112,31 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 ## Google News: "robotics"
 
+**[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)**
+
+Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics’ ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks.
+
+TechCrunch • 20h ago
+
+---
+
 **[Robots could boost US manufacturing as America races to keep pace with China, expert says](https://www.foxbusiness.com/technology/robots-could-boost-us-manufacturing-america-races-keep-pace-china-expert-says)**
 
 A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics.
 
-Fox Business • 17h ago
+Fox Business • 21h ago
 
 ---
 
-**[China Builds Actual Giant Mecha](https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha)**
+**[Delivery Robots Accused Of Scanning Customers’ Faces, Sharing Biometric Data](https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/)**
 
-A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
-
-Futurism • 13h ago
+Block Club Chicago • 17h ago
 
 ---
 
 **[Video: Are These Workers Training Robots to Replace Them?](https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html)**
 
-The New York Times • 23h ago
-
----
-
-**[A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html)**
-
-Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]
-
-Yahoo Finance • 16h ago
+The New York Times • 1d ago
 
 ---
 
@@ -146,7 +144,7 @@ Yahoo Finance • 16h ago
 
 Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions.
 
-Time Magazine • 1d ago
+Time Magazine • 2d ago
 
 ---
 
@@ -162,7 +160,15 @@ MassDevice • 1d ago
 
 Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
 
-NPR • 2d ago
+NPR • 3d ago
+
+---
+
+**[China Builds Actual Giant Mecha](https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha)**
+
+A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
+
+Futurism • 17h ago
 
 ---
 
@@ -170,21 +176,15 @@ NPR • 2d ago
 
 The 3D printed, airless design makes the wheels more adaptable.
 
-Popular Science • 18h ago
+Popular Science • 22h ago
 
 ---
 
-**[Canadian robotics firm partners with nation's largest homebuilder, expands into Phoenix](https://www.abc15.com/news/business/canadian-robotics-firm-partners-with-nations-largest-homebuilder-expands-into-phoenix)**
+**[Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost](https://interestingengineering.com/energy/robotics-propels-nuclear-reactor-core)**
 
-A Canadian company that is expanding its “factory-as-a-service” model with a new plant in the Phoenix metro has inked a production partnership with the nation’s largest homebuilder.
+Automated precision tools and domestic partnerships helped engineers complete a critical stage of the Unit 4 MCR.
 
-ABC15 Arizona • 1d ago
-
----
-
-**[Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot](https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot)**
-
-New Electronics • 23h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -198,37 +198,17 @@ Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursi
 
 📺 Tesla Insider News
 
-👁️ 163K • 👍 1K • 💬 193 • ⏱️ 21:44 • 1d ago
+👁️ 186K • 👍 1K • 💬 262 • ⏱️ 21:44 • 1d ago
 
 ---
 
-**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
+**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
 
-Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
+The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
 
-📺 The Tesla Space
+📺 Bloomberg Television
 
-👁️ 83K • 👍 3K • 💬 154 • ⏱️ 13:59 • 2d ago
-
----
-
-**[German police investigating after robot allegedly gropes teen girl](https://www.youtube.com/watch?v=r7RH9lQ5BWk)**
-
-Police in Germany are investigating after a livestream captured a robot allegedly groping a 16-year-old girl. The robot's teenage ...
-
-📺 NBC News
-
-👁️ 28K • 👍 171 • 💬 74 • ⏱️ 2:32 • 2d ago
-
----
-
-**[CITY ROBOTS SEASON 1 - EBUBE OBIO, ESTHER BROWN 2026 LATEST NIGERIAN NOLLYWOOD MOVIE #comedy](https://www.youtube.com/watch?v=GCWVApcG2WE)**
-
-Click here to subscribe now: https://www.youtube.com/channel/UCi6FvbRQ6qgHeEX7RI8uCrA Stay connected and watch the ...
-
-📺 EstherBrown Tv
-
-👁️ 38K • 👍 580 • 💬 79 • ⏱️ 1:15:57 • 16h ago
+👁️ 22K • 👍 154 • 💬 20 • ⏱️ 5:02 • 5h ago
 
 ---
 
@@ -238,27 +218,57 @@ A Sydney start-up is paying workers to wear AI glasses to collect data for train
 
 📺 7NEWS Australia
 
-👁️ 53K • 👍 244 • ⏱️ 1:54 • 2d ago
+👁️ 55K • 👍 250 • ⏱️ 1:54 • 2d ago
 
 ---
 
-**[Boston Dynamics Built A Four Fingered Robot Hand](https://www.youtube.com/watch?v=E1Eo32TKVPw)**
+**[BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them...](https://www.youtube.com/watch?v=skUIW0cb9NM)**
 
-Boston Dynamics just gave Atlas a new four-fingered hand built for industrial work. It uses 13 degrees of freedom and tactile ...
+BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them... Chinese auto giant BYD has officially unveiled the ...
 
-📺 The Manav Podcast
+📺 The Electric Viking
 
-👁️ 13K • 👍 344 • 💬 2 • ⏱️ 0:37 • 16h ago
+👁️ 38K • 👍 562 • 💬 90 • ⏱️ 5:29 • 4d ago
 
 ---
 
-**[Ultimate Collection Robot Tobot Carbot Transformation: Athlon, Giga Seven, Master V &amp; OPTIMUS PRIME](https://www.youtube.com/watch?v=wl92dksfF60)**
+**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
-Ultimate Collection Robot Tobot Carbot Transformation: Athlon, Giga Seven, Master V & OPTIMUS PRIME! Welcome to the ...
+Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
 
-📺 Bob ToysReview
+📺 The Tesla Space
 
-👁️ 9K • 👍 15 • 💬 1 • ⏱️ 7:34 • 1d ago
+👁️ 84K • 👍 3K • 💬 154 • ⏱️ 13:59 • 2d ago
+
+---
+
+**[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
+
+What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
+
+📺 Bernard Marr
+
+👁️ 84K • 👍 7K • 💬 17 • ⏱️ 1:30 • 4d ago
+
+---
+
+**[Finally robots that can see, hear, feel and remember. Meet Neuron AI.](https://www.youtube.com/watch?v=u02bHNHkqxg)**
+
+Neuron AI is the world's leading and only multimodal foundation model for Physical AI, developed and trained in-house in ...
+
+📺 NEURA Robotics
+
+👁️ 14K • 👍 417 • 💬 64 • ⏱️ 3:08 • 1d ago
+
+---
+
+**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
+
+This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 61 • 💬 9 • ⏱️ 1:03 • 5d ago
 
 ---
 
@@ -268,7 +278,7 @@ Explore robots going completely wrong in moments caught on camera. From unexpect
 
 📺 MostAmazingTop10
 
-👁️ 248K • 👍 2K • 💬 229 • ⏱️ 9:18 • 5d ago
+👁️ 249K • 👍 2K • 💬 229 • ⏱️ 9:18 • 5d ago
 
 ---
 
@@ -278,17 +288,7 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 518K • 👍 4K • 💬 366 • ⏱️ 1:44 • 3d ago
-
----
-
-**[(FULL EPISODE HD) Robot Wars, Series 10 - Grand Final](https://www.youtube.com/watch?v=3kzN2gvJeks)**
-
-After lengthy repairs and inspirational pep talks, the qualifiers prepare to fight for the title. A 10-way Robot Rumble will give the ...
-
-📺 Robot Wars
-
-👁️ 10K • 👍 220 • 💬 56 • ⏱️ 59:00 • 1d ago
+👁️ 552K • 👍 4K • 💬 367 • ⏱️ 1:44 • 3d ago
 
 ---
 

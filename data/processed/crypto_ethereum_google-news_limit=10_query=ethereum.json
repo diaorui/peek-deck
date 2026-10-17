@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamVCTnh3X0N3N1FwLVZtOGxuSm1PcE5KVHdGRFRHQ3dZekY5OEJha2tYdHJ5TWpGTkNSSnZTdEIwOXc5c05xTk9EbkpOX3RiRFFEUjJ6enh4b3lFb19Icnl3WlhCZVQ0emlUSDBiYWxTVGlReWxQUW45aXJWclpJVFZockhWcVhtMWYxTmVMVG1LLTNleE1jaTZQYlVXZ3M?oc=5",
-      "pub_date": 1792155024.0,
-      "article_url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
-      "image": "https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg",
-      "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
-    },
-    {
       "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -25,14 +15,24 @@
       "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
     },
     {
-      "headline": "Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?",
+      "headline": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamVCTnh3X0N3N1FwLVZtOGxuSm1PcE5KVHdGRFRHQ3dZekY5OEJha2tYdHJ5TWpGTkNSSnZTdEIwOXc5c05xTk9EbkpOX3RiRFFEUjJ6enh4b3lFb19Icnl3WlhCZVQ0emlUSDBiYWxTVGlReWxQUW45aXJWclpJVFZockhWcVhtMWYxTmVMVG1LLTNleE1jaTZQYlVXZ3M?oc=5",
+      "pub_date": 1792155024.0,
+      "article_url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
+      "image": "https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg",
+      "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
+    },
+    {
+      "headline": "Ethereum Fell 10% in October, but Social Sentiment Is Still Positive. Is the Crowd Too Early?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjVtUEo1MlhPN19ubGZ1dENoYWpuZTB4WlIyTDlOM1NnOE5kb1BGZUViTU9WSkYtd0NOWTJ1QnBJU3pXamZncU1oc1EwN2ZxaXpRYlVtRms1ZWZFZnNhS1dpQk9OdzE5c0sxRlVSVENqZGF5SWtCV091N1NyQ040Y3V6c0xOaXBNeVFPUVo1MUt6YThBeEJBTDlWeGZPNE5UME9aX1BZOA?oc=5",
-      "pub_date": 1791997777.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
-      "description": "Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as \"mature\" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee\u2019s hint at winding down Bitmine\u2019s Ethereum accumulation streak is..."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHoyMFJrMmFrN0ZEMlFLWmREZ05yZVJRQ3dUNWZXYlRld2FhbmhZa0JDVWM4U3Rlbzk3TUJZYkEtWmUzQTI0ZHE2WWZlQjZ4Ui1JVW1yQUtwbHFMdW9SbFBRQ1ZDalI3M0VOOE5nbmZseWtQM215dUhTRlF0RTJ5RVpCMUtPejlFdUV6a0llOHFUc3Z5a2N6Ulk2UFU?oc=5",
+      "pub_date": 1792233042.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-fell-10-october-social-103042971.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1e989ad82c091d9fb416103a74d418009eb96a79c5823000193f115e472d4490/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ffe63163d7bcdb97bdc2e71b501286d01.jpg",
+      "description": "Ethereum's social media crowd is buzzing with optimism even as ETH slides deeper into October losses, but the people actually moving money tell a very different story."
     },
     {
       "headline": "Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.",
@@ -43,6 +43,16 @@
       "article_url": "https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890876%2Finvestor-ponders-a-screen.jpg&w=1200&op=resize",
       "description": "The odds of these coins being worth more in five years are quite high."
+    },
+    {
+      "headline": "Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWJISW0yMEd3djhEODQ1RkUzUTdPUFdVSFN1cGxLYTJuaG9hNWlBbmllOXJtODZDS0hKM29qbWFzVnhBdnZDTXBhd2psanlXSnVIb2VIV1pYSUNBTFB0WDNkbV9zbngxekZBYjNaWlNrb1ZwRHY3Q3luV0tOM21BLXRBbGJCemhqZEM5d2VvSDFUSDk0YnFwM1ROLVVqZ05HazZBUUtfaUNIaEVpekFHT1diOXhoUWNqMlVhWExwTzdfQ01UeXAzUnpXcmpCUWxSNXVDWl83QzdnR1k?oc=5",
+      "pub_date": 1792157763.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad\u2026"
     },
     {
       "headline": "Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus",
@@ -65,6 +75,16 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
+      "headline": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ21jTVlkYjczN1lNREtzY2tXSmJSbWoycUN2YVBiWWlxNzM4b2ZIMmIzZHFKcHVoTGFxVEJUbnIwZV9tcjl4SXFRR0F2dE8zTWZGZzNvbHZaVlV4bnhkcl9DaXQtYWRrbU1VZ3gyYWZ4ZVdVVm9naGRfZ05rRUg0WXp1V1p6NURPOEFNWTAycS1MWTA?oc=5",
+      "pub_date": 1792074438.0,
+      "article_url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
+      "description": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."
+    },
+    {
       "headline": "a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-holds-80-500-eth-rebounds-from-key-support-xrp-weakens-202610160333",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 \u2013 Is Another Flush Ahead?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVQ0VGVEMF9SUVVlNW94cWZleGJQdmVXLXZ2SlZKU2JjRVljbFVMS2kwUURqSXRpWFctMFpsUlU4ZUkzQy1MaHQ2OFU1TTVPWjdBM28tNGx2N2RGZk00a19MWW5GTXdZNWdYYVI2U1ZxMEQtSVZtM2I4Zi1yQnRYMDgtTWNreHBiZmprS2s2OVBYYmNaODhCbk9CeTRqc3dCRWozNVZFZHBDUkxHZXZqbXhRYXY3TlRrWGVyc1hTWnBXd2huMmdTTjBiMkRyLXhMT0ZjeXYtQktGOHZNR0E?oc=5",
-      "pub_date": 1792078786.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:05de475fb094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra\u2026"
-    },
-    {
-      "headline": "Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUQ1SnZEYVFSQUFvOVNWYXBXRVN5bHBCSDJFME52ekFUT0ZWa2VyNUJhX3VMZVZhVV9qdHZVcWxQS3dpSlJ6bDdVLWJSaVppb1BXS0JhNF9yUFZEekVUYVlfbXBOSmh1b0F5UjhUb0tLWnl4R1V1Z1hTUFZQRUFBSHgwSGZndUk2UmxRc0xROThPUnNYWVMxOUFuaFg0R05oa2VQVGh1QWlFeGVsbjlnbm1uaVJJdGVPYWNvdzlB?oc=5",
-      "pub_date": 1792089030.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T09:02:23.497435+00:00"
+  "fetched_at": "2026-10-17T13:05:46.495706+00:00"
 }

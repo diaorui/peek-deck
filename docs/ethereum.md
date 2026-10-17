@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T09:02:33.942596+00:00'
+updated: '2026-10-17T13:05:57.141926+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 09:02 UTC  
+**Last Updated:** October 17, 2026 at 13:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,418.34
+### $2,428.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -4.0%  
-**30d:** -6.8%  
-**90d:** +27.9%  
-**1y:** -37.4%  
+**24h:** -1.4%  
+**7d:** -4.3%  
+**30d:** -7.1%  
+**90d:** +27.5%  
+**1y:** -37.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.17B
+**Market Cap:** $296.17B
 Rank #2
 
 **Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.8%
+-51.0%
 
 **All-Time Low:** $0.43
-+561821.0%
++559936.4%
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-6d ago
+7d ago
 
 ---
 
@@ -144,21 +144,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 7d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 8d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
-
-An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
-
-Engadget • 20h ago
-
----
 
 **[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
 
@@ -168,11 +160,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-170937606.html)**
+**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
 
-Bitmine Immersion Technologies (NYSE:BMNR) Chair Tom Lee signalled that the group may soon halt its record-long Ethereum accumulation streak. Lee described the current buying phase as "mature" during recent internal discussions, suggesting a possible pause in fresh Ether purchases. Any move away from aggressive accumulation would reshape how Bitmine frames Ethereum within its broader blockchain infrastructure ambitions. Tom Lee’s hint at winding down Bitmine’s Ethereum accumulation streak is...
+An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
 
-Yahoo Finance • 2d ago
+Engadget • 1d ago
+
+---
+
+**[Ethereum Fell 10% in October, but Social Sentiment Is Still Positive. Is the Crowd Too Early?](https://finance.yahoo.com/markets/crypto/articles/ethereum-fell-10-october-social-103042971.html)**
+
+Ethereum's social media crowd is buzzing with optimism even as ETH slides deeper into October losses, but the people actually moving money tell a very different story.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,15 @@ Yahoo Finance • 2d ago
 
 The odds of these coins being worth more in five years are quite high.
 
-The Motley Fool • 21h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
+
+Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
+
+TradingView • 23h ago
 
 ---
 
@@ -188,7 +196,7 @@ The Motley Fool • 21h ago
 
 Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
-UrbanMatter • 22h ago
+UrbanMatter • 1d ago
 
 ---
 
@@ -196,7 +204,15 @@ UrbanMatter • 22h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 14h ago
+
+---
+
+**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
+
+Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
+
+Decrypt • 1d ago
 
 ---
 
@@ -204,7 +220,7 @@ Fortune • 10h ago
 
 Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -214,23 +230,19 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://www.tradingview.com/news/coinpedia:05de475fb094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/)**
-
-As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra…
-
-TradingView • 1d ago
-
----
-
-**[Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze](https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze)**
-
-Benzinga • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 176 • 👍 15 • 💬 1 • ⏱️ 4:57 • 3h ago
+
+---
 
 **[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
 
@@ -238,7 +250,7 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 168 • 👍 17 • 💬 1 • ⏱️ 25:25 • 1h ago
+👁️ 446 • 👍 35 • 💬 4 • ⏱️ 25:25 • 6h ago
 
 ---
 
@@ -248,7 +260,7 @@ Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclai
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 119 • 💬 4 • ⏱️ 8:38 • 2h ago
+👁️ 5K • 👍 197 • 💬 8 • ⏱️ 8:38 • 6h ago
 
 ---
 
@@ -258,17 +270,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 2K • 👍 43 • 💬 4 • ⏱️ 8:36 • 17h ago
+👁️ 3K • 👍 44 • 💬 4 • ⏱️ 8:36 • 21h ago
 
 ---
 
-**[Bitcoin &amp; Crypto  Bounce, Tesla Flying Cars, Solana or Ethereum ?](https://www.youtube.com/watch?v=K9JfUGe06gU)**
+**[Bitcoin Fake Out COMPLETE (HUGE ETHEREUM SIGNAL)](https://www.youtube.com/watch?v=QvZdYf89pqo)**
 
-Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may be COMPLETE, and a huge Ethereum (ETH) signal ...
 
-📺 Lark Davis
+📺 Discover Crypto
 
-👁️ 19K • 👍 504 • 💬 32 • ⏱️ 1:11:36 • 20h ago
+👁️ 10K • 👍 252 • 💬 83 • ⏱️ 1:07:37 • 20h ago
 
 ---
 
@@ -288,7 +300,15 @@ Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to acce
 
 📺 Home Aura
 
-👁️ 5K • 👍 123 • 💬 72 • ⏱️ 4:20 • 1d ago
+👁️ 5K • 👍 125 • 💬 72 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[He Bought Ethereum When It Was Only $6 🤯 #bitcoin #eth #ethereum #kalshipartner](https://www.youtube.com/watch?v=Cg2Fyu0tbf4)**
+
+📺 Itsdanielmac
+
+👁️ 41K • 👍 712 • 💬 31 • ⏱️ 0:48 • 2d ago
 
 ---
 
@@ -298,37 +318,17 @@ Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ..
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 21 • 💬 4 • ⏱️ 3:19 • 1d ago
+👁️ 1K • 👍 21 • 💬 4 • ⏱️ 3:19 • 2d ago
 
 ---
 
-**[BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eZGzMo7LMEw)**
+**[Bitcoin &amp; Crypto  Bounce, Tesla Flying Cars, Solana or Ethereum ?](https://www.youtube.com/watch?v=K9JfUGe06gU)**
 
-BITCOIN SIGNAL CONFIRMED: My Next Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Tesla cars, Bitcoin charts, Ethereum, Solana, and altcoins BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto World
+📺 Lark Davis
 
-👁️ 13K • 👍 359 • 💬 51 • ⏱️ 17:44 • 21h ago
-
----
-
-**[BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=LUUbmFVy14M)**
-
-BITCOIN WARNING: THIS COULD TRAP TRADERS (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 15K • 👍 349 • 💬 161 • ⏱️ 22:20 • 1d ago
-
----
-
-**[Bitcoin Fake Out COMPLETE (HUGE ETHEREUM SIGNAL)](https://www.youtube.com/watch?v=QvZdYf89pqo)**
-
-Join - https://www.skool.com/discovercrypto/about Bitcoin's latest fake out may be COMPLETE, and a huge Ethereum (ETH) signal ...
-
-📺 Discover Crypto
-
-👁️ 9K • 👍 254 • 💬 43 • ⏱️ 1:07:37 • 15h ago
+👁️ 19K • 👍 509 • 💬 33 • ⏱️ 1:11:36 • 1d ago
 
 ---
 

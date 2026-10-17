@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmNZRTdpUVF4bEVCeTgzVkhOLURxbGI4cmxPVE01TWN1b1VoUHpnS01ySjVHamc1Z2t2SzZCbWRnX190TW5hS29admttWnhkY2FCMGpaNUFwUlRuZnV2Tk1UMDlmOWFsNXpELVpnYkVYZmdfamthalRZQjd4QU9lYzRDUGh2X1A2R2tWQnJGa284Y3p1RFpjTXJzQnc2amdfeU5EUmRtQ1g?oc=5",
+      "pub_date": 1792168200.0,
+      "article_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "description": "Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics\u2019 ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks."
+    },
+    {
       "headline": "Robots could boost US manufacturing as America races to keep pace with China, expert says",
       "source": "Fox Business",
       "source_url": "https://www.foxbusiness.com",
@@ -15,14 +25,14 @@
       "description": "A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics."
     },
     {
-      "headline": "China Builds Actual Giant Mecha",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lQmpUM2c5V1JsOXp2bl9YTTY2ZjFDZEo3Z2VMOGE0Sjg5SHJrZmM5X1hRN1NzUXZQUzJWcTkyekhjMWgwM29icDNGeXpKUTBNa3p1MHYwa0FzWkpsZGdRXzREbS1fWnBXVFFJMXNnV0NUNXdCcUYyQkY5bHo?oc=5",
-      "pub_date": 1792178254.0,
-      "article_url": "https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/china-builds-actual-giant-mecha.jpg?w=1200",
-      "description": "A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie."
+      "headline": "Delivery Robots Accused Of Scanning Customers\u2019 Faces, Sharing Biometric Data",
+      "source": "Block Club Chicago",
+      "source_url": "https://blockclubchicago.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFBUUEpZbjhuU3ltRkFPY1Nna1R1SlN5a0w2b2N1c1J2dWlOTm5NUWdxX3BZTlJheVZrZnlrSkhLejNUY2R6Vm00SUQxblA4ajVYZXlQcXhLa2hrVnpQOTNyTGc5NTUtVXlLR0o2SmljeW5aTG1GaGVEVDBPMGRUaFBoaTRoRjFyWXdVTFducTFpeGhPczMwTUxHb05ZTXdVenhnM0lRTzRsUWZYN3BqRi12T3RuUQ?oc=5",
+      "pub_date": 1792178820.0,
+      "article_url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Video: Are These Workers Training Robots to Replace Them?",
@@ -33,16 +43,6 @@
       "article_url": "https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "A Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2xkODBFNndkNEhPcXdCeTIzek1XY083QzZRNHpBR2V1dmxPZ2hVMXYyV3Njd2VEMnFKU2MyUDBob05oa1FtMkJaVktxeFlpd3JybEI3RjFaa1NwY2FMbDJtZUlid1FLelRoakFjN01uRnlGT3ZmcDQtWXJ3WWdYOFFQOUFPR1NWeWJaemF4YU1Mako2WWVR?oc=5",
-      "pub_date": 1792168200.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d052147fc9ff6c5c6d9772513296c3371b7f488ae805f78092b0348bdc7532f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F29c9fd6615328998e1be820221db79c7",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [\u2026]"
     },
     {
       "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
@@ -75,6 +75,16 @@
       "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?"
     },
     {
+      "headline": "China Builds Actual Giant Mecha",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lQmpUM2c5V1JsOXp2bl9YTTY2ZjFDZEo3Z2VMOGE0Sjg5SHJrZmM5X1hRN1NzUXZQUzJWcTkyekhjMWgwM29icDNGeXpKUTBNa3p1MHYwa0FzWkpsZGdRXzREbS1fWnBXVFFJMXNnV0NUNXdCcUYyQkY5bHo?oc=5",
+      "pub_date": 1792178254.0,
+      "article_url": "https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/china-builds-actual-giant-mecha.jpg?w=1200",
+      "description": "A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie."
+    },
+    {
       "headline": "Ukraine\u2019s military robots are getting tires that can\u2019t go flat",
       "source": "Popular Science",
       "source_url": "https://www.popsci.com",
@@ -85,26 +95,16 @@
       "description": "The 3D printed, airless design makes the wheels more adaptable."
     },
     {
-      "headline": "Canadian robotics firm partners with nation's largest homebuilder, expands into Phoenix",
-      "source": "ABC15 Arizona",
-      "source_url": "https://www.abc15.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLThBeXRYX1JPcUVnVm10d3NaZXpzTG84RndZY1pQQnV1Q0hWaVpkM1RSRUFoeTEwN1FuckxwblNVZmpXakZEbk96NzBVT1RDeXVBVDc0MGZ1emVvdWgwSnZTY1JoWWNfdUtXdGtjaGNsNzJMeFpObUtNbzVRWFF0U0xtc0lkRE5SNGQ5TDEwNDVkbUdxdFh6SGVZUjN4R3JnVF9ybTJUUjIyMWJPNW9xR2JkYVhCUnB5eHlZVnpR?oc=5",
-      "pub_date": 1792080360.0,
-      "article_url": "https://www.abc15.com/news/business/canadian-robotics-firm-partners-with-nations-largest-homebuilder-expands-into-phoenix",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/db866a5/2147483647/strip/true/crop/1200x630+0+25/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F38%2F91%2F693a6bba4bf48192cf53b3345d7a%2Fpromise-robotics.jpg",
-      "description": "A Canadian company that is expanding its \u201cfactory-as-a-service\u201d model with a new plant in the Phoenix metro has inked a production partnership with the nation\u2019s largest homebuilder."
-    },
-    {
-      "headline": "Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot",
-      "source": "New Electronics",
-      "source_url": "https://www.newelectronics.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZm5tRTcxV0hiMi1HdTJwXzVmNHJidUpELVZxeklIMURKSkc4VlFlOHFURnNCNmthS1l0enB1NkU2M1hwcjNkLTBZWmdHc0VMUHMzX2JfQzB4REZvOFBUS1NDc1pKVG9qUWtpMnhzT3owZElqanRCSV9MS0xQWUlONERVUzFxdi1GcHYtemZQQXZuZTZWdThfbEVFR2hjMUo1NG1CeDFER2xISUNhc181Q1VwU2NYYmNqc0RoU0dLRHR1X1pDR19rMUFQbnJnVm1wUXNMbmxmUQ?oc=5",
-      "pub_date": 1792141678.0,
-      "article_url": "https://www.newelectronics.co.uk/content/news/agility-robotics-chooses-nyobolt-battery-technology-for-faster-charging-digit-5-humanoid-robot",
-      "image": null,
-      "description": null
+      "headline": "Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPXzgyUFJ0a0NQMm44QnI2bXZMTWVUNGItcnVfc2V4MHRKV3NoRnVVRDZtZHRTUkdCTmlJZ1YxRDlpN2pTV1RVM2pXSHRyV3RGQlZWbk5TVU1KbTdIdEhmYl92VS1PZ0kyOWo0V1Y3M0wzMXRXci1nMWYtZW9JSTdhU3NtcVF6Zw?oc=5",
+      "pub_date": 1792168920.0,
+      "article_url": "https://interestingengineering.com/energy/robotics-propels-nuclear-reactor-core",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Robotics.jpg",
+      "description": "Automated precision tools and domestic partnerships helped engineers complete a critical stage of the Unit 4 MCR."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-17T09:02:28.564960+00:00"
+  "fetched_at": "2026-10-17T13:05:53.746467+00:00"
 }

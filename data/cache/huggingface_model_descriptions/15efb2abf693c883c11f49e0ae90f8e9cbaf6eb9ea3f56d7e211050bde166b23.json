@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-17T13:05:56.180693+00:00",
+  "data": "DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning, coding, and agentic tasks with reduced execution time and output length. It excels in benchmarks like HLE, Terminal-Bench, and ProgramBench, offering improved performance-cost efficiency for complex applications.",
+  "model_id": "deepseek-ai/DeepSeek-V4.1-Flash-1017"
+}
