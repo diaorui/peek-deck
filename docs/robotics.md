@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-17T19:03:04.785340+00:00'
+updated: '2026-10-17T21:36:57.356200+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 17, 2026 at 19:03 UTC  
+**Last Updated:** October 17, 2026 at 21:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I built a hexapod that uses an old Android phone from Make Your Pet. Less than $
 
 Created with the help of opus. It is really good in understanding camera position and movement. I am in the process of teaching some tricks.
 
-1d ago
+2d ago
 
 ---
 
@@ -112,6 +112,14 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 ## Google News: "robotics"
 
+**[Amazon Has Now Deployed Over 1 Million Robots, Which Is Bad News for Its 1.5 Million Workers](https://futurism.com/future-society/amazon-robotics-automation-warehouse-labor-safety)**
+
+Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one.
+
+Futurism • 5h ago
+
+---
+
 **[Robots could boost US manufacturing as America races to keep pace with China, expert says](https://www.foxbusiness.com/technology/robots-could-boost-us-manufacturing-america-races-keep-pace-china-expert-says)**
 
 A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics.
@@ -120,11 +128,11 @@ Fox Business • 1d ago
 
 ---
 
-**[China Builds Actual Giant Mecha](https://futurism.com/robots-and-machines/china-builds-actual-giant-mecha)**
+**[Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians](https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/)**
 
-A Chinese robotics company showed off an imposing, 1.2-ton, 13-foot humanoid robot that looks like something out of a pulpy sci-fi movie.
+“What we’re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,” said Maj. Gen. Jason Slider, commander of the John F. Kennedy Special Warfare Center and School.
 
-Futurism • 23h ago
+Breaking Defense • 2d ago
 
 ---
 
@@ -142,19 +150,11 @@ The New York Times • 1d ago
 
 ---
 
-**[CMR Surgical CEO outlines the path forward for Stryker’s robotics partnership](https://www.massdevice.com/cmr-surgical-ceo-outlines-the-path-forward-for-strykers-robotics-partnership/)**
+**[AI robots are roaming L.A. grocery aisles. Shoppers and workers worry about what comes next](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
 
-CMR Surgical CEO Massimiliano Colella says the robotics developer plans to come out swinging after Stryker's $400 million investment.
+AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
 
-MassDevice • 1d ago
-
----
-
-**[These workers help train robots who could one day steal their jobs](https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs)**
-
-Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
-
-NPR • 3d ago
+Los Angeles Times • 1d ago
 
 ---
 
@@ -162,7 +162,13 @@ NPR • 3d ago
 
 Is AI coming for blue-collar jobs, too?
 
-Tom's Hardware • 5h ago
+Tom's Hardware • 8h ago
+
+---
+
+**[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -171,12 +177,6 @@ Tom's Hardware • 5h ago
 Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions.
 
 Time Magazine • 2d ago
-
----
-
-**[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
-
-Reuters • 2d ago
 
 ---
 
@@ -192,23 +192,13 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
-
-China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
-
-📺 MACHINEKIND
-
-👁️ 19K • 👍 308 • 💬 34 • ⏱️ 12:40 • 21h ago
-
----
-
 **[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
 
 Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
 
 📺 Tesla Insider News
 
-👁️ 231K • 👍 1K • 💬 304 • ⏱️ 21:44 • 1d ago
+👁️ 239K • 👍 2K • 💬 310 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -218,7 +208,17 @@ The hand is one of the most complex parts of the humanoid robot puzzle. China is
 
 📺 Bloomberg Television
 
-👁️ 46K • 👍 236 • 💬 29 • ⏱️ 5:02 • 11h ago
+👁️ 55K • 👍 263 • 💬 31 • ⏱️ 5:02 • 13h ago
+
+---
+
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+
+📺 AI Unfiltered
+
+👁️ 1K • 👍 18 • 💬 2 • ⏱️ 8:52 • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 80K • 👍 964 • 💬 66 • ⏱️ 12:13 • 2d ago
+👁️ 83K • 👍 988 • 💬 68 • ⏱️ 12:13 • 2d ago
 
 ---
 
@@ -238,27 +238,7 @@ Remove your personal information online with Delete Me using my link https://joi
 
 📺 The Tesla Space
 
-👁️ 84K • 👍 3K • 💬 154 • ⏱️ 13:59 • 2d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
-
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
-
-📺 MostAmazingTop10
-
-👁️ 254K • 👍 2K • 💬 243 • ⏱️ 9:18 • 6d ago
-
----
-
-**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
-
-This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 61 • 💬 9 • ⏱️ 1:03 • 5d ago
+👁️ 85K • 👍 3K • 💬 154 • ⏱️ 13:59 • 3d ago
 
 ---
 
@@ -266,7 +246,17 @@ This is the closest thing there is to a confirmed US military humanoid robot sol
 
 📺 Big Duke13
 
-👁️ 125K • 👍 6K • 💬 541 • ⏱️ 2:35 • 23h ago
+👁️ 159K • 👍 6K • 💬 588 • ⏱️ 2:35 • 1d ago
+
+---
+
+**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
+
+A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
+
+📺 7NEWS Australia
+
+👁️ 57K • 👍 251 • ⏱️ 1:54 • 2d ago
 
 ---
 
@@ -280,13 +270,23 @@ What does the future of humanoid robotics actually look like? At World Summit AI
 
 ---
 
-**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
+**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
 
-A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
+This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
 
-📺 7NEWS Australia
+📺 Kalil 4.0
 
-👁️ 57K • 👍 250 • ⏱️ 1:54 • 2d ago
+👁️ 3K • 👍 62 • 💬 9 • ⏱️ 1:03 • 6d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+
+📺 MostAmazingTop10
+
+👁️ 257K • 👍 2K • 💬 251 • ⏱️ 9:18 • 6d ago
 
 ---
 
