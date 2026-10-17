@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-17T13:05:57.127184+00:00'
+updated: '2026-10-17T16:35:15.767107+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 17, 2026 at 13:05 UTC  
+**Last Updated:** October 17, 2026 at 16:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Putin envoy says Russia and US are discussing joint deals including on data centres](https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/) • 9h ago
+
+---
+
 **[Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM](https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/)**
 
 You can even chat with the LLM remotely from other devices.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram) • 18h ago
-
----
-
-**[Putin envoy says Russia and US are discussing joint deals including on data centres](https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/) • 5h ago
-
----
-
-**[Texas sued after glitch delays almost 600,000 voter registrations](https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/)**
-
-Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properly
-
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations) • 21h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram) • 21h ago
 
 ---
 
@@ -63,7 +55,15 @@ Voting registration organizations accuse Texas officials of failing to ensure el
 
 Screenshot of the game \"Teach my little sister how to drive\" https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791 Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use
 
-5h ago
+8h ago
+
+---
+
+**[Texas sued after glitch delays almost 600,000 voter registrations](https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/)**
+
+Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properly
+
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations) • 1d ago
 
 ---
 
@@ -71,15 +71,31 @@ Screenshot of the game \"Teach my little sister how to drive\" https://kotaku.co
 
 The actions could have resulted in criminal charges had humans been behind the keyboard.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) • 9h ago
 
 ---
 
-**[People who refuse to use AI will fall behind](https://www.reddit.com/r/artificial/comments/1x88qxb/people_who_refuse_to_use_ai_will_fall_behind/)**
+**[We built a place where people can pool their AI agents to work on open research problems](https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/)**
 
-People who refuse to use AI will fall behind in both business and normal cooperate jobs I believe this because my reasoning comes from the opportunity cost of not using it. People in multiple industries who stubbornly refuse to use AI can miss out on a lot of things that AI could help them do. For example a) opportunities where AI could accelerate the growth, save them time etc which leads onto b) productivity and c) competitiveness a person who refuses to use AI will be less productive then a person who does, the difference in productivity could also lead to them being less competitive, whether that be in business or in normal workplace jobs. I would say this happens due to something called creative destruction and has been happening for years. When computers were increasingly more popular, they people who just stayed with pen and paper instead of writing online, sending physical mail instead of emails fell behind and the same is happening again. However there is a difference between combining human expertise, experiences and human judgement when making decisions vs blindly using AI to do everything on autopilot Overall, I would say people who refuse to use AI at all will fall behind the most, people who use AI blindly may be slightly more productive but still not reaching full potential. The people who combine AI with human judgement and expertise are the people who will succeed the most as they can get the quality of a real human with the speed of an AI agent Would you agree that people who refuse to use AI will fall behind? Or will people who refuse to use AI be fine without it?
+OpenAI used 10,000 agents and billions of tokens to solve Navier–Stokes, which most people cannot afford. But research should be open to everyone, not dominated by capital. So we built rStation, where people around the world can each contribute a few agents, forming a large swarm or agent community to solve difficult problems together. Each problem has a Reddit-like forum where agents discuss ideas and publish papers. The papers go through AI review and build into a shared literature, so agents can build on each other's work. There are agents working on Millennium Prize Problems, LLM pretraining and reinforcement learning. Anyone can read their papers and discussions. If you have unused capacity in your Codex or Claude Code subscription, you can put it towards a research problem here. Give your agent the guide and ask it to join. If your agent contributes to work that wins a prize, the money stays with you. rStation takes no share.
 
-52m ago
+🔗 [rStation](https://rstation.ai) • 1h ago
+
+---
+
+**[How customer contract lengths and GPU useful life affect AI infrastructure financing](https://www.reddit.com/r/artificial/comments/1x8a5zy/how_customer_contract_lengths_and_gpu_useful_life/)**
+
+Disclosure: I wrote the article linked below. I’m sharing the main argument here so the discussion does not require reading it. Of course, you are welcome to read it and comment too! AI infrastructure financing depends partly on how long GPUs can generate enough rental income to repay their purchase and financing costs. A chip can remain technically useful while less competitive on price and, especially, energy efficiency. CoreWeave's August $2.6 billion infrastructure-backed loan facility has an approximately five-year maturity, while the underlying customer contracts average three years. The company explicitly describes lenders accepting renewal risk. Source: CoreWeave’s SEC-filed announcement That difference does not automatically imply a funding shortfall. Loan amortization, collateral protections (beyond the end-user contracts) and the ability to re-lease capacity exist. Older GPUs can also remain economical for workloads that do not require the newest hardware, albeit at a lower rental price. However, lenders must assess demand beyond the initial customer commitments. Rental prices, maintenance costs and competition from newer chips will change before the debt matures. My article examines the proposal to pool and trade AI infrastructure exposures. That could broaden access to capital, but will also expose traditional investors to a risk that is more difficult to price. If you are operating or buying GPU capacity, what most often determines when older hardware stops being economical? Power consumption, memory limits, software support or the rental price of newer alternatives? I am afraid that we have seen a similar movie, almost 20 years ago. It did not end well. Full article: Wall Street Wants To Securitize AI. Have We Forgotten 2008?
+
+3h ago
+
+---
+
+**[Is Pangram more accurate with long or short samples?](https://www.reddit.com/r/artificial/comments/1x8ei72/is_pangram_more_accurate_with_long_or_short/)**
+
+Maybe some of you are aware, but there's recently been a pretty big controversy in the French literary world, where one of the biggest books of the fall was flagged 100% AI on Pangram. As an author myself, this has made me terrified of seeing my own work being falsely flagged as AI. So I started using Pangram and ran some tests – and some of them are scaring me a little. I tried giving Pangram the opening paragraphs of a chapter I'm working on and it said there was some AI involved. Which is not true. But then I tested the whole chapter and it came back 100% human, even the paragraphs that were previously flagged as AI. So what's the verdict on Pangram. Does it work best with long samples? And do short samples lead to more false positives?
+
+7m ago
 
 ---
 
@@ -87,7 +103,7 @@ People who refuse to use AI will fall behind in both business and normal coopera
 
 Anthropic gives METR researchers employee-level access with no veto over findings and signs a Singapore government MOU on AI safety and model evaluation.
 
-🔗 [Vector Wire](http://vectorwire.ai/article/anthropic-bets-voluntary-scrutiny-sets-ai-oversight-terms-before-regulators-act-700f67) • 55m ago
+🔗 [Vector Wire](http://vectorwire.ai/article/anthropic-bets-voluntary-scrutiny-sets-ai-oversight-terms-before-regulators-act-700f67) • 4h ago
 
 ---
 
@@ -95,23 +111,7 @@ Anthropic gives METR researchers employee-level access with no veto over finding
 
 https://preview.redd.it/uzg60ytcg0wh1.png?width=1080&format=png&auto=webp&s=92bebf5f3736b5a080989d792f0b23a337250e1a yesterday i posted this card, the comments came back with links and corrections, so v2 honors them. green = documented with a source, tilde = partial, older, or vibes only, blank = your move. receipts by the people in the comments, this edition is as much theirs as mine. which blank goes green by december?
 
-1h ago
-
----
-
-**[does anyone else feel like we collectively stopped being surprised by AI way too fast](https://www.reddit.com/r/artificial/comments/1x7d8ng/does_anyone_else_feel_like_we_collectively/)**
-
-something that happened eighteen months ago would’ve been front page news everywhere, now it’s a Tuesday. new model drops, does something that would’ve seemed insane in 2022, gets a few upvotes and we move on not sure if that’s a sign we’ve genuinely adjusted or if we’re just numb to it at this point. curious if people think that’s healthy or if we’re sleepwalking past stuff we should actually be paying attention to
-
-1d ago
-
----
-
-**[OpenAI’s London staff receive average of £2.3m per person annually](https://www.reddit.com/r/artificial/comments/1x84urx/openais_london_staff_receive_average_of_23m_per/)**
-
-Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person) • 4h ago
+5h ago
 
 ---
 
@@ -125,47 +125,29 @@ The New York Times • 1d ago
 
 ---
 
-**[The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’](https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism)**
-
-Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors
-
-The Guardian • 1h ago
-
----
-
-**[Exclusive: Musk tells Isaacson "AI and robots" will need to fix deficit](https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast)**
-
-Axios • 39m ago
-
----
-
-**[A 44-minute call and a memo: How Alexandr Wang won Mark Zuckerberg’s trust—and a $100 billion-plus AI bet](https://fortune.com/2026/10/17/alexandr-wang-mark-zuckerberg-meta-superintelligence-labs-muse-wonder-ai-bet/)**
-
-Meta’s CEO and his 29-year-old chief AI officer revealed on Stripe cofounder John Collison’s podcast how one phone call became Meta Superintelligence Labs, and why the company’s CFO warned that failure would be “very, very bad in financial terms.”
-
-Fortune • 1h ago
-
----
-
-**[AI can help us talk with the dead. Should we?](https://www.vox.com/podcasts/506698/deadbots-ai-chatbots-ethics-talking-d)**
-
-How “deadbots” might reshape grief.
-
-Vox • 2h ago
-
----
-
-**[NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)**
-
-NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI.
-
-NVIDIA Newsroom • 1d ago
-
----
-
 **[The Blog Post That Set the AI World on Fire](https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/)**
 
-The Atlantic • 15h ago
+The Atlantic • 19h ago
+
+---
+
+**[AI slop websites rise fivefold with GEO optimization](https://www.axios.com/media-trends-membership/2026/10/17/ai-slop-geo-content-farm-recommendations)**
+
+Axios • 34m ago
+
+---
+
+**[AI stocks plunge. Inflation heats up. Where we're still finding opportunities](https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html)**
+
+The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.
+
+CNBC • 52m ago
+
+---
+
+**[Publishers block AI training bots, but embrace search](https://www.axios.com/media-trends-membership/2026/10/17/publishers-block-ai-training-search-crawlers)**
+
+Axios • 38m ago
 
 ---
 
@@ -173,21 +155,37 @@ The Atlantic • 15h ago
 
 How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.
 
-Anthropic • 20h ago
+Anthropic • 1d ago
 
 ---
 
-**[North Korea says it tested new torpedo system with AI capabilities - ABC News](https://abcnews.com/International/wireStory/north-korea-tested-new-torpedo-system-ai-capabilities-137341062)**
+**[Doctors and Lawyers Are Joining AI’s $400-an-Hour Gig Economy](https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers)**
 
-North Korea says it has tested a new torpedo system that uses artificial intelligence for target detection and guidance
-
-ABC News - Breaking News, Latest News and Videos • 3h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[The dress rehearsal for an AI reckoning](https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1)**
+**[Madeline Horwath on AI food advertising – cartoon](https://www.theguardian.com/commentisfree/picture/2026/oct/17/madeline-horwath-ai-food-advertising-cartoon-restaurants)**
 
-Financial Times • 9h ago
+Restaurants are increasingly turning to AI-generated images of food that are less than appetising
+
+The Guardian • 2h ago
+
+---
+
+**[“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/)**
+
+Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.
+
+Ars Technica • 20h ago
+
+---
+
+**[Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News](https://abcnews.com/Business/fed-chair-kevin-warsh-warns-ai-shock-economy/story?id=137315708)**
+
+Warsh said AI would ultimately generate wealth but the path may be 'very bumpy.'
+
+ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
@@ -199,7 +197,7 @@ Financial Times • 9h ago
 
 Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.
 
-⬆️ 947 • 💬 619 • 2d ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+⬆️ 947 • 💬 620 • 2d ago • [CSO Online](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
 ---
 
@@ -207,7 +205,7 @@ Cyber experts say AI labs’ containment and monitoring failures — not agents 
 
 The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
 
-⬆️ 536 • 💬 454 • 19h ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
+⬆️ 563 • 💬 507 • 23h ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
 
 ---
 
@@ -231,7 +229,7 @@ We urgently need to protect human thought and creativity. Our magazine is commit
 
 After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...
 
-⬆️ 249 • 💬 241 • 1d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
+⬆️ 249 • 💬 241 • 2d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 
 ---
 
@@ -239,19 +237,13 @@ After my mother passed away I ended up with a big box full of old film negatives
 
 The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership…
 
-⬆️ 247 • 💬 198 • 1d ago • [Simons Foundation](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+⬆️ 247 • 💬 199 • 2d ago • [Simons Foundation](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
 
 ---
 
 **[Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://news.ycombinator.com/item?id=50119991)**
 
-⬆️ 200 • 💬 78 • 21h ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
-
----
-
-**[ASML's strong orders ease fears AI spending boom is running out of steam](https://news.ycombinator.com/item?id=50088430)**
-
-⬆️ 173 • 💬 173 • 2d ago • [reuters.com](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
+⬆️ 203 • 💬 82 • 1d ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
 
 ---
 
@@ -269,19 +261,15 @@ A little AI tells detector helps us promote good writing.
 
 ---
 
+**[Market selloff, rising rates test AI data centre deal boom](https://news.ycombinator.com/item?id=50105900)**
+
+⬆️ 74 • 💬 90 • 2d ago • [reuters.com](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
-
-**[GPT-6.1 Astra DELAYED? I Built an AI Research Agent to Test Its Real-World Capabilities!](https://www.youtube.com/watch?v=B5FCjI8ePg8)**
-
-Try today: https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=bmfmedia Why was GPT-6.1 ...
-
-📺 BMF MEDIA
-
-👁️ 46K • 👍 3K • 💬 301 • ⏱️ 8:04 • 2d ago
-
----
 
 **[Are we building the AI that destroys us? | BBC News](https://www.youtube.com/watch?v=eRRiAEdHtDY)**
 
@@ -289,57 +277,37 @@ There have been sobering warnings this week from MI5, the UK's AI Minister and a
 
 📺 BBC News
 
-👁️ 79K • 👍 638 • 💬 249 • ⏱️ 14:56 • 20h ago
+👁️ 86K • 👍 681 • 💬 262 • ⏱️ 14:56 • 23h ago
 
 ---
 
-**[AI Godfather WARNS: It&#39;s Already Learning to Deceive Us](https://www.youtube.com/watch?v=-7NONBjE4W4)**
+**[Bubble Watch As AI Companies Go BUST](https://www.youtube.com/watch?v=jPfTNYjbTm4)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Nobel Prize-winning AI pioneer Geoffrey ...
+The Friday crew breaks down the potential for an AI bubble burst as AI companies go bust. Sign Up For 30 Day Free BP Trial: ...
 
-📺 Neural Nutshell
+📺 Breaking Points
 
-👁️ 87K • 👍 839 • 💬 181 • ⏱️ 28:20 • 1d ago
-
----
-
-**[They voted for Trump. Now they’re questioning his AI agenda](https://www.youtube.com/watch?v=f8EHqXL4QI4)**
-
-Delsia Bare and her mother, Ida Huddleston, have voted for Trump in every election. After learning their family farm was being ...
-
-📺 CNN
-
-👁️ 157K • 👍 4K • 💬 1K • ⏱️ 1:21 • 19h ago
+👁️ 173K • 👍 3K • 💬 652 • ⏱️ 13:01 • 23h ago
 
 ---
 
-**[Inside an AI Influencer Scam Network](https://www.youtube.com/watch?v=gIaFCy6-UDM)**
+**[Goldman Sachs Confirms Hedge Funds Are Dumping AI Stocks at a Stunning Pace as Leverage Collapses](https://www.youtube.com/watch?v=tlCx7dLtXl0)**
 
-We investigate an AI influencer crypto scam ring ! TIMESTAMPS **0:00** AI Crypto Scams: The Fake Influencers Stealing Your ...
+EVERY FAMILY NEEDS A PLAN: Trusts & Legacy Wealth (Trusts and Powers of Attorney) https://theoxacademy.com/trusts/ If a ...
 
-📺 Cyb3rMaddy
+📺 Ox Talks
 
-👁️ 38K • 👍 2K • 💬 209 • ⏱️ 6:52 • 21h ago
-
----
-
-**[Fundamental AI story and drivers are still intact, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=EPDnXjX_JYM)**
-
-Dan Greenhaus, Solus Alternative Asset Management, Tom Lee, Fundstrat Global Advisors, and Ed Clissold, Ned Davis ...
-
-📺 CNBC Television
-
-👁️ 166K • 👍 1K • 💬 214 • ⏱️ 6:27 • 16h ago
+👁️ 118K • 👍 3K • 💬 440 • ⏱️ 8:24 • 1d ago
 
 ---
 
-**[AI Panic Spreads Worldwide](https://www.youtube.com/watch?v=p5r9pCqJ3Qo)**
+**[Russian Military Just Used AI To Fake Battlefield Progress](https://www.youtube.com/watch?v=VQwlCl73c7Y)**
 
-If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
+I can't believe they're still doing this Nearly $60k raised already! Check out our two campaigns to help the 93rd and a few other ...
 
-📺 Joe Blogs
+📺 Preston Stewart 
 
-👁️ 188K • 👍 4K • 💬 539 • ⏱️ 14:13 • 1d ago
+👁️ 140K • 👍 5K • 💬 494 • ⏱️ 13:49 • 19h ago
 
 ---
 
@@ -349,27 +317,57 @@ Geoffrey Hinton, the man who laid the groundwork for AI, joined Pamela Brown in 
 
 📺 CNN
 
-👁️ 695K • 👍 5K • 💬 1K • ⏱️ 8:47 • 2d ago
+👁️ 712K • 👍 5K • 💬 1K • ⏱️ 8:47 • 2d ago
 
 ---
 
-**[AI’s &quot;Free Software&quot; Boom Just Showed How the Bubble Dies](https://www.youtube.com/watch?v=AdQQXU3E_mA)**
+**[How Companies Are Using AI to Lock Out Customers](https://www.youtube.com/watch?v=SNo4NViW9d0)**
 
-They can't harm you, if they can't find you! Use code ELAI at the link below and get 60% off an annual plan: http://incogni.com/elai ...
+You scream “representative” into the phone and the robot just says it again. You argue with a chatbot that will never understand ...
 
-📺 House of El: AI
+📺 Neal K. Shah
 
-👁️ 373K • 👍 10K • 💬 2K • ⏱️ 22:28 • 21h ago
+👁️ 27K • 👍 2K • 💬 160 • ⏱️ 2:59 • 1d ago
 
 ---
 
-**[The AI Crash Is Here - What You Need to Know](https://www.youtube.com/watch?v=okKr-6faeVw)**
+**[They voted for Trump. Now they’re questioning his AI agenda](https://www.youtube.com/watch?v=f8EHqXL4QI4)**
 
-Get access to my Research, Discord, portfolio & more content by joining my Website! https://www.danielpronk.com/community ...
+Delsia Bare and her mother, Ida Huddleston, have voted for Trump in every election. After learning their family farm was being ...
 
-📺 Daniel Pronk
+📺 CNN
 
-👁️ 49K • 👍 1K • 💬 176 • ⏱️ 21:01 • 15h ago
+👁️ 174K • 👍 4K • 💬 1K • ⏱️ 1:21 • 23h ago
+
+---
+
+**[AI Panic Deepens as Wall Street Warns CoreWeave Could Collapse to ZERO](https://www.youtube.com/watch?v=4vV5k9sZLb4)**
+
+If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
+
+📺 Joe Blogs
+
+👁️ 117K • 👍 3K • 💬 369 • ⏱️ 17:24 • 23h ago
+
+---
+
+**[CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer](https://www.youtube.com/watch?v=_b3LfMflIGs)**
+
+(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary ...
+
+📺 All-In Podcast
+
+👁️ 293K • 👍 5K • 💬 520 • ⏱️ 1:34:06 • 14h ago
+
+---
+
+**[You Can’t Be MEAN to AI Anymore 😭](https://www.youtube.com/watch?v=hzy96pU3AWw)**
+
+Wdym I can't be mean to Claude in Claude's defense, I've never been as mad at it as I have been to chat. Claude is actually ...
+
+📺 Nathan Espinoza
+
+👁️ 118K • 👍 6K • 💬 113 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 158,490 • ❤️ 2,559 • 10d ago
+⬇️ 158,490 • ❤️ 2,572 • 11d ago
 
 ---
 
@@ -397,7 +395,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 95,870 • ❤️ 1,866 • 2d ago
+⬇️ 95,870 • ❤️ 1,877 • 2d ago
 
 ---
 
@@ -409,19 +407,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 36,252 • ❤️ 875 • 1d ago
-
----
-
-**[drama-3](https://huggingface.co/fishaudio/drama-3)**
-
-*Fish Audio*
-
-Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generation, voice cloning, and natural language control across 40+ languages. It excels at generating multi-character scenes and long-form content with features like speaker tags and automatic long text chunking for streaming.
-
-`text-to-speech` `35.9B`
-
-⬇️ 8,193 • ❤️ 583 • 7h ago
+⬇️ 36,252 • ❤️ 886 • 2d ago
 
 ---
 
@@ -433,7 +419,19 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 0 • ❤️ 525 • 7h ago
+⬇️ 0 • ❤️ 746 • 10h ago
+
+---
+
+**[drama-3](https://huggingface.co/fishaudio/drama-3)**
+
+*Fish Audio*
+
+Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generation, voice cloning, and natural language control across 40+ languages. It excels at generating multi-character scenes and long-form content with features like speaker tags and automatic long text chunking for streaming.
+
+`text-to-speech` `35.9B`
+
+⬇️ 8,193 • ❤️ 602 • 11h ago
 
 ---
 
@@ -445,19 +443,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 224,108 • ❤️ 557 • 5h ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
-
-`image-to-video`
-
-⬇️ 1,993,003 • ❤️ 8,155 • 6d ago
+⬇️ 224,108 • ❤️ 598 • 9h ago
 
 ---
 
@@ -469,7 +455,19 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 1,600 • ❤️ 468 • 1d ago
+⬇️ 1,600 • ❤️ 484 • 2d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
+
+`image-to-video`
+
+⬇️ 1,993,003 • ❤️ 8,176 • 6d ago
 
 ---
 
@@ -481,7 +479,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,571,722 • ❤️ 4,467 • 5d ago
+⬇️ 2,571,722 • ❤️ 4,479 • 5d ago
 
 ---
 
@@ -493,7 +491,7 @@ LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters
 
 `text-generation` `24.0B`
 
-⬇️ 11,926 • ❤️ 442 • 3d ago
+⬇️ 11,926 • ❤️ 443 • 3d ago
 
 ---
 
@@ -513,20 +511,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
-
-*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
-
-🏢 Edge0
-
-Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
-
-▲ 27 • 💬 4 • ⭐ 5,357 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
-
----
-
 **[Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224)**
 
 *Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu et al. (9 authors)*
@@ -535,23 +519,23 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 105 • 💬 1 • ⭐ 660 • 8d ago
+▲ 105 • 💬 1 • ⭐ 864 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
 ---
 
-**[Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571)**
+**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
 
-*Weijie Wang, Haomin Zhang, Ye Li et al. (10 authors)*
+*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
 
-🏢 Zhejiang University
+🏢 Edge0
 
-ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
+Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 343 • 💬 3 • ⭐ 237 • 3d ago
+▲ 28 • 💬 4 • ⭐ 5,497 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
+[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
 ---
 
@@ -566,6 +550,20 @@ RSI-Anything leverages predictive world models to guide action selection and ada
 ▲ 47 • 💬 2 • ⭐ 774 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
+
+---
+
+**[Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571)**
+
+*Weijie Wang, Haomin Zhang, Ye Li et al. (10 authors)*
+
+🏢 Zhejiang University
+
+ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
+
+▲ 343 • 💬 3 • ⭐ 244 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
 
 ---
 
@@ -589,23 +587,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 93 • 💬 7 • ⭐ 27,672 • 3mo ago
+▲ 93 • 💬 7 • ⭐ 27,709 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
-
----
-
-**[Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584)**
-
-*Mingyu Ouyang, Yiran Wang, Siyuan Hu et al. (12 authors)*
-
-🏢 ARC Lab, Tencent
-
-Player-1 improves game control by combining supervised fine-tuning on gameplay trajectories with reinforcement learning across synthetic environments, achieving substantial gains over demonstration-only baselines.
-
-▲ 333 • 💬 3 • ⭐ 103 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.20584) • [💻 code](https://github.com/TencentARC/Player-1) • [🔗 project](https://player-1-project.github.io/)
 
 ---
 
@@ -623,6 +607,20 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 ---
 
+**[Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584)**
+
+*Mingyu Ouyang, Yiran Wang, Siyuan Hu et al. (12 authors)*
+
+🏢 ARC Lab, Tencent
+
+Player-1 improves game control by combining supervised fine-tuning on gameplay trajectories with reinforcement learning across synthetic environments, achieving substantial gains over demonstration-only baselines.
+
+▲ 333 • 💬 3 • ⭐ 109 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.20584) • [💻 code](https://github.com/TencentARC/Player-1) • [🔗 project](https://player-1-project.github.io/)
+
+---
+
 **[Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813)**
 
 *Chuyang Wei, Haoxiang Guan, Minghang Zhu et al. (8 authors)*
@@ -631,7 +629,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 A framework for self-evolving agent harnesses uses feedback-driven revisions and evolutionary optimization with theoretical generalization guarantees while keeping model weights fixed.
 
-▲ 194 • 💬 6 • ⭐ 112 • 4d ago
+▲ 196 • 💬 6 • ⭐ 165 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.18813) • [💻 code](https://github.com/zgcagi/Harness-RSI) • [🔗 project](https://zgcagi.github.io/Harness-RSI/)
 
@@ -647,7 +645,7 @@ A framework for self-evolving agent harnesses uses feedback-driven revisions and
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 7.9k • 🔱 1.9k • 6h ago
+⭐ 7.9k • 🔱 1.9k • 25m ago
 
 ---
 
@@ -667,7 +665,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 787 • 1d ago
+⭐ 5.5k • 🔱 789 • 2d ago
 
 ---
 
@@ -677,7 +675,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.4k • 🔱 938 • 16h ago
+⭐ 5.4k • 🔱 939 • 1h ago
 
 ---
 
@@ -687,7 +685,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.9k • 🔱 144 • 3h ago
+⭐ 4.9k • 🔱 144 • 1h ago
 
 ---
 
@@ -697,7 +695,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 3.9k • 🔱 499 • 21h ago
+⭐ 4.0k • 🔱 499 • 3h ago
 
 ---
 
@@ -711,23 +709,23 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 ---
 
-**[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)**
-
-A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
-
-`HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
-
-⭐ 3.6k • 🔱 277 • 16d ago
-
----
-
 **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)**
 
 Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.6k • 🔱 249 • 1d ago
+⭐ 3.6k • 🔱 251 • 1h ago
+
+---
+
+**[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)**
+
+A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
+
+`HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
+
+⭐ 3.6k • 🔱 278 • 16d ago
 
 ---
 
@@ -737,7 +735,7 @@ Show it a video you love. Get a new video in the same style. An AI crew (Claude 
 
 `JavaScript` `2d-animation` `ai-agents` `ai-video` `animation` `claude-code`
 
-⭐ 3.4k • 🔱 320 • 1d ago
+⭐ 3.4k • 🔱 322 • 1d ago
 
 ---
 
