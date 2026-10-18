@@ -13,6 +13,17 @@
       "description": "Are we seeing any results here, is AI helping the process? So many people are suffering from chronic illnesses. Conditions that are not curable today but could be in the future. How much is AI helping humanity reaching a state where more chronic conditions could be cured once and for all? It would be a disappointment if AI was only used to level up technology, I hope it could help the medical research today. We're living in 2026 and there shouldn't be so much suffering from chronic disorders. I hope AI could help the research and in the future give these people their lives back. What do you think, are you optimistic when it comes to AI's chances of helping medical research?"
     },
     {
+      "title": "Is anyone else feeling severe burnout from the current pace of AI releases?",
+      "author": "irish_burke",
+      "url": "https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/",
+      "published": 1792342966.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Maybe it's just me, but trying to keep up with the state of the art right now feels less like following an industry and more like running on a treadmill that keeps speeding up for no apparent reason. Every single week there's a new model, a new benchmark claim, or a new \"paradigm-shifting\" agent framework that\u2019s supposed to completely rewrite how we work. But when you actually look at day-to-day implementation, half the time it feels like we're just recycling the same core workflows with slightly better wrappers, while chasing marginal gains at massive infrastructure costs. I spend a good chunk of my day dealing with these tools, and lately I've found myself actively tuning out the hype. I care way more about boring things like stable local inference, deterministic outputs, and actually finishing a project without a dependency breaking, rather than whether Model X scored two points higher on a benchmark I'll never use. Are developers and enthusiasts actually exhausted by this relentless cycle too, or are you guys still finding genuine utility in keeping up with every drop? Where is your personal line where the hype stops being worth paying attention to?"
+    },
+    {
       "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
       "author": "IndependentCoast3974",
       "url": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
@@ -24,26 +35,15 @@
       "description": "An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?"
     },
     {
-      "title": "I built an open-source tool to monitor naval bases using free satellite radar, no AIS needed",
-      "author": "Open_Budget6556",
-      "url": "https://www.reddit.com/r/artificial/comments/1x91bfq/i_built_an_opensource_tool_to_monitor_naval_bases/",
-      "published": 1792324283.0,
-      "thumbnail": "https://preview.redd.it/01dqxgpas7wh1.jpeg?width=640&crop=smart&auto=webp&s=f4fd3b49cfa32e139c2181a129afffe15b90152d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey guys! I previously posted Netryx in this sub and received a lot of love for it. It recently hit 1k stars, so thank you for the support! I\u2019ve been working on a new project called Keelix. It uses free Sentinel-1 SAR imagery to monitor naval bases without relying on AIS data. By comparing satellite passes over time, Keelix detects ships at individual berths, tracks potential arrivals and departures, flags unusual activity, and generates before-and-after radar comparisons with confidence scores. It also has an experimental feature to search coastal waters for carriers after they leave port. I tested it against Norfolk Naval Base over 12 months. It detected around 65% of ships, with approximately 95% of detections corresponding to real ships. Estimated counts were generally within one or two ships of reference imagery. The system uses signal processing, not machine learning. There are limitations, of course. It can\u2019t identify individual ships, ships can overlap in imagery, and movements between satellite passes can be missed. So far, I\u2019ve validated it against one base."
-    },
-    {
-      "title": "Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?",
-      "author": "burdgod",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/",
-      "published": 1792292723.0,
+      "title": "AI or Wikipedia?",
+      "author": "JaguarOriginal3882",
+      "url": "https://www.reddit.com/r/artificial/comments/1x94b4y/ai_or_wikipedia/",
+      "published": 1792332993.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say \"What?\" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said \"Craig\" instead of \"Greg\" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)"
+      "description": "Since the emergence of large AI models, has Wikipedia seen any measurable decline in usage, relevance, or community contributions\u2014or has AI actually increased its importance as a source?"
     },
     {
       "title": "Has anyone found a way to reverse engineer Alexa yet? I'd like to customize it my own way",
@@ -57,6 +57,28 @@
       "description": "Title"
     },
     {
+      "title": "Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?",
+      "author": "burdgod",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/",
+      "published": 1792292723.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say \"What?\" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said \"Craig\" instead of \"Greg\" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)"
+    },
+    {
+      "title": "Which AI limitations have you stopped waiting on and just learned to work around?",
+      "author": "NormalWrangler937",
+      "url": "https://www.reddit.com/r/artificial/comments/1x97l6n/which_ai_limitations_have_you_stopped_waiting_on/",
+      "published": 1792341165.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "not looking for rants, just curious what people have accepted and how they deal with it. things like wrong dates, long documents, or drifting from instructions. what do you do about it in practice?"
+    },
+    {
       "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
@@ -68,39 +90,6 @@
       "description": "Anomaly Innovations disclosed that attackers breached OpenCode Console, hijacking stored API keys for Anthropic, OpenAI, and Google models and running up\u2026"
     },
     {
-      "title": "China's Tencent says AI agents showed unintended browsing behaviour",
-      "author": "RareEarthPetal",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/",
-      "published": 1792308763.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Even LinkedIn is getting tired of your AI-written posts",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1x90hey/even_linkedin_is_getting_tired_of_your_aiwritten/",
-      "published": 1792321414.0,
-      "thumbnail": "https://external-preview.redd.it/f2jEgDHfYBnrRTP7H9ZeYu8MpgV3-Ef6QZte0QNWgUY.jpeg?width=640&crop=smart&auto=webp&s=d2e59fb8cb33f77315b280319e67c5f68e1dbc90",
-      "external_url": "https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts?utm_medium=social&utm_campaign=missions&utm_source=reddit&Date=20261018&Profile=cnn&utm_content=1792321413",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "LinkedIn is upping its fight against generic, low-quality AI posts on its platform."
-    },
-    {
-      "title": "Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/",
-      "published": 1792264377.0,
-      "thumbnail": "https://external-preview.redd.it/uICViLFpURUQCSLhBOEGplo4gEeseO5-sOZzpfr9erM.jpeg?width=640&crop=smart&auto=webp&s=6545b1949e671384eb9517fc5a60d5a8879787ee",
-      "external_url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?link_source=ta_bluesky_link&taid=6ad2628b81b9480001ba5a10",
-      "site_name": "PhillyVoice",
-      "favicon": "https://media.phillyvoice.com/static/global/images/apple-touch-icon-57x57.png",
-      "description": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest \u2014 and will do it again."
-    },
-    {
       "title": "How to save potentially hundreds of $$$ by setting up an AI agent for your trips",
       "author": "Calm_Cartographer324",
       "url": "https://www.reddit.com/r/artificial/comments/1x95nlx/how_to_save_potentially_hundreds_of_by_setting_up/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "While most people still book their trips and do everything manually, there is a certain amount of people who use AI agents to do the booking part for them. This part already saves a lot of time and money in some cases if used correctly, but there are ways to also potentially save more if u use an AI agent even during the trip. First thing's first, they day you're gonna fly give it your flight number in the morning and set a schedule to check the status every 15-20 minutes until the departure. Give it the ability to message you (Telegram, whatever you use) as soon as if something like a delay or cancellation happens. It can tell you instantly about any constraints so you're not getting shocked at the line. It matters coz in the US if the airline cancels or delays you by more than 3 hours on a domestic flight (6 hours international) and you don't accept the rebooking or a voucher, you're owed a cash refund on your card within 7 business days. And if you fly from the EU and land 3+ hours late it's 250 to 600 EUR depending on the distance. It works only in problems that was caused by the airline like staff shortage. You can't get the reward if the reason is let's say weather because it's not in an airline's control. It's incredibly hard to keep track of the rules and understand what to do in what situations. But an AI can keep in consideration every rules. Second is if you booked a hotel that's refundable. Make a scheduled task that checks the price of your hotel all the time until the last day of the free cancellation. You'd want to do that because hotel prices sometimes go up and down a lot. So you might end up getting the same hotel for very much cheaper if the price goes down and you cancel the first purchase and buy it again. Third is the hotel bill. Before doing the checkout have it compare what you booked (the total with every fee) with what the front desk wants. Because there are resort fee, parking fee, city tax etc that gets added at the desk and it's easy to miss one when you're tired, especially if you've already paid them beforehand. It takes 2 minutes and if there's a charge you didn't agree to you can ask to remove it right there. All three of these work way better if the agent is the one that made the booking, coz then it already has the exact flight, accommodation, and every purchase you make in a package. It's certainly easier to book through AI than copy pasting information and emails in Claude every time to ask it to do something. Normal apps are unable to do web browsing freely. And the web versions like codex or Claude Code they can. But it can easily burn a lot of tokens if you don't have the right setup. I personally like to keep it easy and simple and use Claude with some simple tools from it's official directory. My setup revolves around these ones: Booking.com: https://claude.ai/directory/booking Tripadvisor: https://claude.ai/directory/tripadvisor Brek: https://claude.ai/directory/brek-hotel-wholesale-booking LetsFG: https://claude.ai/directory/letsfg These are from Claude directory because I've always used Claude for the task and I used these from the official directory. U can use them with any LLM or AI Agents just from a google search about their MCP. And at last, but not the least, enjoy your trip :)"
+    },
+    {
+      "title": "China's Tencent says AI agents showed unintended browsing behaviour",
+      "author": "RareEarthPetal",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/",
+      "published": 1792308763.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2026-10-18T16:22:48.836899+00:00"
+  "fetched_at": "2026-10-18T18:47:26.438784+00:00"
 }
