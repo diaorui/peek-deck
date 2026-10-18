@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+      "published": 1792300819.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?"
+    },
+    {
+      "title": "I built an open-source tool to monitor naval bases using free satellite radar, no AIS needed",
+      "author": "Open_Budget6556",
+      "url": "https://www.reddit.com/r/artificial/comments/1x91bfq/i_built_an_opensource_tool_to_monitor_naval_bases/",
+      "published": 1792324283.0,
+      "thumbnail": "https://preview.redd.it/01dqxgpas7wh1.jpeg?width=640&crop=smart&auto=webp&s=f4fd3b49cfa32e139c2181a129afffe15b90152d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey guys! I previously posted Netryx in this sub and received a lot of love for it. It recently hit 1k stars, so thank you for the support! I\u2019ve been working on a new project called Keelix. It uses free Sentinel-1 SAR imagery to monitor naval bases without relying on AIS data. By comparing satellite passes over time, Keelix detects ships at individual berths, tracks potential arrivals and departures, flags unusual activity, and generates before-and-after radar comparisons with confidence scores. It also has an experimental feature to search coastal waters for carriers after they leave port. I tested it against Norfolk Naval Base over 12 months. It detected around 65% of ships, with approximately 95% of detections corresponding to real ships. Estimated counts were generally within one or two ships of reference imagery. The system uses signal processing, not machine learning. There are limitations, of course. It can\u2019t identify individual ships, ships can overlap in imagery, and movements between satellite passes can be missed. So far, I\u2019ve validated it against one base."
+    },
+    {
       "title": "Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?",
       "author": "burdgod",
       "url": "https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/",
@@ -13,15 +35,26 @@
       "description": "Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say \"What?\" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said \"Craig\" instead of \"Greg\" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)"
     },
     {
-      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
-      "published": 1792300819.0,
+      "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
+      "published": 1792324161.0,
+      "thumbnail": "https://external-preview.redd.it/WQgCgikvM-i6VJiuGRzpFeu9OEcaArL-FoQYgB08Z1U.jpeg?width=640&crop=smart&auto=webp&s=223791ae0d46f96af8d426bbe00139c97a8e7f52",
+      "external_url": "http://vectorwire.ai/article/distillation-attack-on-opencode-drains-users-api-keys-for-anthropic-openai-googl-a5ce5a",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Anomaly Innovations disclosed that attackers breached OpenCode Console, hijacking stored API keys for Anthropic, OpenAI, and Google models and running up\u2026"
+    },
+    {
+      "title": "China's Tencent says AI agents showed unintended browsing behaviour",
+      "author": "RareEarthPetal",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/",
+      "published": 1792308763.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
+      "site_name": "reuters.com",
       "favicon": null,
-      "description": "An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?"
+      "description": null
     },
     {
       "title": "Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation",
@@ -46,15 +79,15 @@
       "description": "if ai takes all the jobs how will we afford to live and pay off things like our rent, car payments, loans, etc. and what is the point of not having us be able to pick a career and make our own money? do they want us to just die and be controlled, i can\u2019t even dream of a good future because i don\u2019t want to follow my dream career path if it\u2019s not even going to be an option anymore :("
     },
     {
-      "title": "an agent can figure out how an app works just by watching it, so why can't it figure out me",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8uns8/an_agent_can_figure_out_how_an_app_works_just_by/",
-      "published": 1792299898.0,
+      "title": "We tested two AI versions: 96.7% accuracy, same critical mistake",
+      "author": "Sosyaldijital",
+      "url": "https://www.reddit.com/r/artificial/comments/1x922ye/we_tested_two_ai_versions_967_accuracy_same/",
+      "published": 1792326709.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "there's a repo trending on github this week where you point an agent at an app and it works out how the thing behaves from the network traffic. nobody had to explain it. it just watched. which is kinda funny, because i still retype the same preferences to ai every week. same setup, same how i like it. you'd think watching how i do things would be easier than reverse engineering an app. so is it a trust thing, a privacy thing, or just nobody building it well? and what would you actually let it watch"
+      "description": "We recently ran a small experiment comparing JEV 1.13 and JEV 1.14 on Turkish-language intent classification. The goal was to identify whether a message came from someone looking to buy a service, someone offering a service, or neither. Here are the results: JEV 1.13: 29/30 correct (96.7%) JEV 1.14: 29/30 correct (96.7%) Buyer detection: 9/10 for both versions Average response time: 367 ms vs. 352 ms Total API cost: approximately $0.00113 across 60 calls The interesting part? Both versions made the exact same mistake. A Turkish message explicitly expressing an intention to pay for product photo editing was classified as a seller rather than a potential buyer. This highlights an important limitation of relying on overall accuracy. A model can achieve 96.7% accuracy and still miss a valuable customer opportunity. In real-world lead detection, false negatives may be significantly more costly than false positives. A few important limitations: These results come from 30 synthetic Turkish scenarios, not a production dataset. Each version was tested once, so the sample is too small to establish reliable performance differences. We did not deploy either version based on these results. Our takeaway is simple: accuracy alone doesn't tell the full story. The impact of individual errors matters. I'm curious what others think: When evaluating AI classifiers for real-world applications, would you prioritize overall accuracy, recall for critical cases, or a cost-sensitive metric that penalizes missed opportunities? And how much testing would you consider sufficient before deploying such a system?"
     },
     {
       "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
@@ -68,49 +101,16 @@
       "description": null
     },
     {
-      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
-      "author": "life_coaches",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/",
-      "published": 1792255762.0,
-      "thumbnail": "https://external-preview.redd.it/TJwI3PBntNUc805OqCua01g2pOh-8gFLfAGOk320KaE.jpeg?width=640&crop=smart&auto=webp&s=ae8b1845dbd9f558c6101159878b4e90e41eddfe",
-      "external_url": "https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html",
-      "site_name": "Yahoo Tech",
-      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
-      "description": "HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots."
-    },
-    {
-      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second \u2014 fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
-      "published": 1792176263.0,
-      "thumbnail": "https://external-preview.redd.it/OS6bBpZsi9cnIwClGXjh_36_41n0GM-cx0e5fahsBjY.jpeg?width=640&crop=smart&auto=webp&s=b251f7e7ff82d4aeb2e3a321bfba387af347d5ef",
-      "external_url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1785151/apple-touch-icon.png",
-      "description": "You can even chat with the LLM remotely from other devices."
-    },
-    {
-      "title": "China's Tencent says AI agents showed unintended browsing behaviour",
-      "author": "RareEarthPetal",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/",
-      "published": 1792308763.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Gemini just hallucinated for three days about Google products, and I am left confused. Is it me or the AI?",
-      "author": "OldFan4996",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8wtvw/gemini_just_hallucinated_for_three_days_about/",
-      "published": 1792307677.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am asking 2 questions. This situation seems unusually weird (over multiple sessions)is the AI hallucinating about its own companies products, and their capabilities within those products? If you understand what I am trying to do, please point me in the direction to accomplish it. Thanks! Context: This is not my first time using AI, at all. That said, as a Gen X that doesn\u2019t work in an office context that requires it constantly, I am not a power user either. If I am doing it wrong, I would rather be schooled on how to do it right, then just yammer about the hallucination rate. I freaking love making spreadsheets, and in general just approach all constantly upgrading tech with the same mental ease as I do the aging of my body. I can do the best I can with what I have, and the more I know, the better it all works out. This seems SO bizarre, because I am asking it questions like \u201cI need you to do X. At what level(paid) can you do X? Then I asked it multiple ways so I made sure I understood it and it understood me. X= Dictate structure of a table, dictate contents of cells in said table, copy paste table into a spreadsheet. X+ context = I am moving. I want to tell AI the contents of my boxes, as I am packing them, touching my phone as little as possible in the process to avoid ADHD distractions. I think this is a VERY easy AI task. For the past 3 days between life, I have been asking Gemini exactly what it can do, compared to apps that purport to do this, and if it required a paid tier, which I was willing to pay for. It told me that at the paid level, it could open a spreadsheet in Google Sheets designed for this purpose, and copy the table I had dictated into the Spreadsheet. Yesterday it said it could make the table for free, but if I wanted it hands free, I needed the paid tier with Google Workspace. Fine. Today I dictated the parameters of the table. (5 columns and their titles) and then I dictated the contents of the boxes into their corresponding cells on the table. At the end, it just dictated it back to me. When I said I wanted the visual table that it had promised it would make. Now it says it can\u2019t make a copy/pastable table AT ALL. If I had one quick chat, I would just chalk it up to a misunderstanding. This has been 3 days of questions and refining details of its responses. So\u2026I am feeling like it\u2019s not me, and I am confused about how Google\u2019s AI is this confused about its own capabilities and its own products? What is the most likely explanation? Yes, I sent a feedback ticket. When we ask AI if it can do something, and it lies, for no good reason\u2026seems like a human should know/care? Please lmk if I am wrong here, and I should not have asked Gemini to explain/sell its own products? Definitely not paying for a a service that hallucinates this badly. Thanks!"
+      "title": "Even LinkedIn is getting tired of your AI-written posts",
+      "author": "cnn",
+      "url": "https://www.reddit.com/r/artificial/comments/1x90hey/even_linkedin_is_getting_tired_of_your_aiwritten/",
+      "published": 1792321414.0,
+      "thumbnail": "https://external-preview.redd.it/f2jEgDHfYBnrRTP7H9ZeYu8MpgV3-Ef6QZte0QNWgUY.jpeg?width=640&crop=smart&auto=webp&s=d2e59fb8cb33f77315b280319e67c5f68e1dbc90",
+      "external_url": "https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts?utm_medium=social&utm_campaign=missions&utm_source=reddit&Date=20261018&Profile=cnn&utm_content=1792321413",
+      "site_name": "CNN",
+      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "LinkedIn is upping its fight against generic, low-quality AI posts on its platform."
     }
   ],
-  "fetched_at": "2026-10-18T08:15:19.233579+00:00"
+  "fetched_at": "2026-10-18T12:43:58.969637+00:00"
 }

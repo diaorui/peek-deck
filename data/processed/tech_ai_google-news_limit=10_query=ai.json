@@ -5,52 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Weak Links Start to Show in A.I. Borrowing",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG5jQ0JtclR4S2w1dzdJeFNQWmdXLTlwaDJ0SWhseFFKTHdUb2tHaHIzd0R4cEhobmFjV21TRXVDdS1HeUVGZm5RbDRCcGRMYlhCMnB0QkYzV3FrX2hhLXB2X0lnSUI3c2QzQWpTREdxLVRaUjVfOEtHQ2VrMlZrV0c5VHNTNjV0OVE?oc=5",
-      "pub_date": 1792260006.0,
-      "article_url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Britain should reject the lure of cheap \u2013 and scary \u2013 Chinese AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmpfUkloUTd2cHp2NHlQa0lVN2p0bHN4MThRX092OUw3MldTYXBpbjB4cWNDcVBpeVhUYVA1T1NaaTd0ZjZmeEhza09pSUdMdkNlV2RLMTZYOVB4eDBkNC1kakttLUNhdG9jX1llMGYxLVVWX0ItX0xiOThOVXBRczltRERLb09XWW5HMU1MZUt4UkZZdXowZ2xYRkQ5cTBVcDEyTGt3b2V3MFRLazlNNV91SQ?oc=5",
-      "pub_date": 1792249320.0,
-      "article_url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-      "image": "https://i.guim.co.uk/img/media/ed76515ea4f9df6a0b170674679392f87ba2c9ea/531_0_4025_3221/master/4025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bea7034fe848cc65a8e4000cb82b0850",
-      "description": "In the west the technology comes with at least some effort to provide security and a benign intent \u2013 not so from China"
-    },
-    {
-      "headline": "Will AI take my job? Ask an economist! : The Indicator from Planet Money",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajk1VTdROFNKTHhWQ3k3QnZzblg5RUxZbUVnLWdJWGNtVUF6SzJmcWVLN0kzQmlZUFFFYXZ6YlV1UHdKWGQtUE9BbGVZRV9fRktwNHZBUURuZWoxbFVadkFjM18wQ0hSdHJVY3NTbHo2Qm5uZmhqdXB0Y2hTaE5GZTJpN2J1bjRr?oc=5",
-      "pub_date": 1792306802.0,
-      "article_url": "https://www.npr.org/2026/10/18/nx-s1-6006805/will-ai-take-my-job-ask-an-economist",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fe8%2F83ac358f46a69443d12d707b90a3%2F3fbf10dc-76a2-4b85-b8df-aa1afa9518e5.png",
-      "description": "Is AI coming for our jobs? Anthropic CEO Dario Amodei believes AI could wipe out many white-collar jobs in the next few years. While Nvidia CEO Jensen Huang argues AI will reshape existing roles and create even more jobs than we have now. So which future are we really facing: a job-pocalypse or a jobs transformation?For answers, join The Indicator's Adrian Ma for \"Ask An Economist.\u201d This is a virtual event and live Q&A featuring two economists who've studied this issue: Daron Acemoglu, a Nobel Prize-winning professor at MIT, and Erik Brynjolfsson, a professor at Stanford and director of the Stanford Digital Economy Lab. We\u2019ll also invite you to ask questions and share your thoughts!It's Wednesday, October 28th, at 3:00pm ET, noon PT. This is a Zoom event exclusively for NPR+ and other qualifying supporters. For registration and event details, you can listen to this audio message or check out npr.org/askaneconomist.\u00a0 Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show\u2019s perks include sponsor-free listening. Learn more at plus.npr.org."
-    },
-    {
-      "headline": "AI tool helps stranded protesters find their way home in the Indian capital",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGtCc0RDUEM4VmhranZ4TWR0MVNIYkIzQ1B3TUExLVJiT0syZWVBSVpwYnM4M2Vzemk2anRjSDI4TGJ6ckJGSG5zMFI0Mk1mMVBvRWI2NjJsbmRENWdqZUx5ZUtyM01iOXhMeGdlTm5reXVsR3NkaGVpcC1Cb0d5SFVTaS00b0pNMnQycmFOMGVuaThLR3FiUG5ndEFhMHVZTU95V3BQYTRaRE9ZdHNyZ213WFhiQVNl0gG-AUFVX3lxTE5uOU5EeDVWcEE1ZHRrazlSUmZPb3ZENHdieGl4YzRpdGpGZnBZQ3hYR1ZNal9tamxodmxkNE14VnZCQ3dIMldGU2RCS2xFR2xhR0VSV1pnX29PN2VPb0FmSzlVd0hQa3paQ29JN1ZqTTRSZVdybXJpMWF3M1hfTkluOXhMUnJOeFBSOEFNNGZtSGlLeHVuNWdVTU0yV05kWGJPMml6d3pUMXBiaVZBemFmbUlRX0lNblNhaGhkX3c?oc=5",
-      "pub_date": 1792302071.0,
-      "article_url": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image00002-1792059040.jpeg?resize=1920%2C1440",
-      "description": "A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return."
-    },
-    {
-      "headline": "Data Work Is White Collar Now",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEk2MmxVQWFGT2tzdUY4YTdBeEwtd3FqbXJESkJmZWNiZk9HSGN3M1V1aWVIb0RvN3d5RlJLeFRwNGJtN01yMFdSSDhYSDE4UFBNS2ZLTzAxaEw1bXdwVlNwRmlYQldlS2ZScHlBak1CVWpLV05KZFl0WkFseHdHZnlSaHNIUzFDX3ZENllIcXViX3dhd3dFUG5Cd2Jxcl9TWjJDcnRMbG1xZkdfRTVscDN3?oc=5",
-      "pub_date": 1792310401.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-18/ai-companies-are-turning-data-work-into-a-white-collar-job",
+      "headline": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5",
+      "pub_date": 1792307220.0,
+      "article_url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
       "image": null,
       "description": null
     },
@@ -65,46 +25,86 @@
       "description": null
     },
     {
-      "headline": "OpenAI discloses four more rogue incidents involving financial, medical, and government data",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5",
-      "pub_date": 1792166700.0,
-      "article_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785644_b97df1-e1792164755578.jpg?resize=1200,600",
-      "description": "The company flagged two new incidents as \u201ccritical,\u201d yet did not discover or disclose them until months later."
+      "headline": "Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYV9XcVY2aS1JbHVhcDRTeHdTYlc1N3MwR3NVd3JzRkFOZUZtMk9NMmJQZGlOYVhvdVFtRDY3MzJkdDhPSU5TNHJYMHlpd2pHcEU5SHE2MG9YY29CZnZpYTZpZkl4RGoxOWNubXd4RS1LY21BYTJNQUY4R1JuNWN3dW94a05qLXZoT0dsV1NuUzJqVG95eWh6eTIyQzZ3SG1kOWl0eUdDd25VSEhlYzJ3WkZiN1UxNngxRU1UaE1R?oc=5",
+      "pub_date": 1792326351.0,
+      "article_url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/kenneth-walker-iii-patrick-mahomes-touchdown.jpg",
+      "description": "ChatGPT beat its human rival for a second straight week in NFL betting, but the overall season unit lead is shrinking heading into Week 6 picks."
     },
     {
-      "headline": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+      "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5",
-      "pub_date": 1792278240.0,
-      "article_url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108291032-1776170422892-gettyimages-2270740029-IMF_WORLD_BANK.jpeg?v=1776170454&w=1920&h=1080",
-      "description": "Anthropic's Jack Clark said international cooperation was needed to set \"unusual and serious rules\" for transformative technology."
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZHRYMm5JQlowV3BIWlYyVFYyblFwaXRiUkdrbFBTQVZybmhQeHhGaWdqR0lIOFdRMjBnWEJHa05yT2NzczdueGlIRHVUWldMcndwQVo4QmlseTU2TjZZZG9tTlpBVGw1SmkySGx4eWMtUVg2Zkc1d2NB0gF_QVVfeXFMT3dVUEl4TlZJSzV4eEpqMWFWYTJESFF2YmFWN1VHWDhtWHpjajJrV0djSGNmTkRPcE92UnpEYzVMVEhPb0N0WjdheDZtMGVTeUdwOHdfd05xMFJ4Q29KSzZ5QXFlM2JrN1poZjI0Q1I1S192SFFUOVBDV3FqM1NZOA?oc=5",
+      "pub_date": 1792324801.0,
+      "article_url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings."
     },
     {
-      "headline": "The Blog Post That Set the AI World on Fire",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VUmN5WDdiLUt6bFF1LU9LZHlVMS13cGZnWUpqTUJzVHdrbExJdUhxMmxmdnU2VWROMUJ0VG5vc3l5TGY0QmJ1VnJfNmhBQ2RaWkVUMG9lVkx4aE95QnMyMmVXeDd6Ty1UdERmemRkUlZ2QVh4eHJvOEhSWTdfR0k?oc=5",
-      "pub_date": 1792186405.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/",
+      "headline": "Even LinkedIn is getting tired of your AI-written posts",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uS29hWUl5aVJNVzFDaFZNS0xnem5sTzR5QTg5cC13VGlTZTFWQjQ4TzdkUXExeU9qRUhKSk9iUzFnUUdrSjcwVkRtczl0MGZoblNYM2JacWt0aFRaMTQtN0NiUTlnZlB5QWVlampfdw?oc=5",
+      "pub_date": 1792319446.0,
+      "article_url": "https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1500480993.jpg?c=16x9&q=w_800,c_fill",
+      "description": "LinkedIn is upping its fight against generic, low-quality AI posts on its platform."
+    },
+    {
+      "headline": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbEdtcm9pNXNFU2h1dUxVN2c4NGVIM2o1OTZ1QXlDNXlLSWZkUnI0N2pObVVUWmRkajhieS1hT2s3dUk3WlFZekRYOU1CNE1SVHp2MkIyMHVpNS0xSW1OZ3ROUG5uN3dLbkhDMVpZR2RGcVRwSTVTbUotZw?oc=5",
+      "pub_date": 1792296007.0,
+      "article_url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44U2w2LWYybWZUbUVseTk4VFlMcGpBN0JjamkwM2VLb1QzUksyVmdnd3k4YVZaUV9PaWFkR2ExVXFuN2hOVHNCTGFnWE1YRUNHdWtuaHFpaTE1VFd3OWtjYjU5R1hsVmVDbmdsajdlR09RY3ZXNUpRbmZtTQ?oc=5",
-      "pub_date": 1792262647.0,
-      "article_url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
+      "headline": "World Bank says \u2018small AI\u2019 could transform developing countries",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
+      "pub_date": 1792317660.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+      "image": "https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=363606031f14f5ef17ab8f96d00c0669",
+      "description": "Bank\u2019s chief knowledge officer says the tech could speed up economic development from centuries to decades"
+    },
+    {
+      "headline": "AI Trade Reversal Pierces Asia\u2019s Star Picks-and-Shovels Stocks",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREtWM3dzNTRIb29DY2pnS3JHYmJpLVRURzBlT1RQX0FSZGMzWkFuS0w0dXVhXzlSQTR3MVhZdm9nTm90S21JWWp1UjhLTjdPamxGSUMxVFd1ekZVWGp4bXBsTlFyVDJLRWpvalFqMlpldURMUXpPbFR5MlY0RWNMc3dTdW9BaFFEemc5bEJIbnBseEJkN3hlbGhMTEpaenVzMGJpa052RmZKbzU4bTF3cGpIQQ?oc=5",
+      "pub_date": 1792281600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "The AI bubble is about to burst \u2014 and a big market correction is coming",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcG9sd2p6Ny1ZTDhGcmZ1YzQyVi1KVnhPX1lBT1U2SkJOV0poZVpTaVZoa0p6VDdFX0VIRFJJbGVOZTBFMzZaZTlUVGNPVm94Slg0OVozRnJzdXI5X3FNY05NQ0lLOVhXa1FienFKT1UzVjZfVU5VRGZMTGJpTVlUdUNSV05qY2tWVW95LTVjOXJEaF8zTXFJWFQ2WG9nNFlnQUM0Rk1HVUtDVXdr?oc=5",
+      "pub_date": 1792282860.0,
+      "article_url": "https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/EDEOL23.jpg?quality=75&strip=all&w=1200",
+      "description": "On Jan. 1, 2000, the world got a reprieve from a much-hyped technological Armageddon when it turned out the Y2K crisis wasn\u2019t a crisis after all."
+    },
+    {
+      "headline": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "source": "MarkTechPost",
+      "source_url": "https://www.marktechpost.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdNIBmAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdA?oc=5",
+      "pub_date": 1792311304.0,
+      "article_url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-6-scaled.png",
+      "description": "Google open-sourced Harness2, a recursive agent harnessing framework that lifted GLM-5 11.5 points on WorkBuddy-Bench with frozen weights."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T08:15:40.312567+00:00"
+  "fetched_at": "2026-10-18T12:44:28.017890+00:00"
 }
