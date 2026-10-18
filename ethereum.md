@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-18T08:15:41.756752+00:00'
+updated: '2026-10-18T12:44:29.579281+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 08:15 UTC  
+**Last Updated:** October 18, 2026 at 12:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,407.41
+### $2,413.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -1.6%  
-**30d:** -8.5%  
-**90d:** +24.7%  
-**1y:** -39.6%  
+**24h:** -0.3%  
+**7d:** -1.2%  
+**30d:** -8.2%  
+**90d:** +25.2%  
+**1y:** -39.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.93B
+**Market Cap:** $294.83B
 Rank #2
 
 **Circulating Supply:** 122,145,416 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-51.2%
 
 **All-Time Low:** $0.43
-+555543.6%
++557465.1%
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-7d ago
+8d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 8d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 9d ago
 
 ---
 
@@ -172,7 +172,7 @@ Engadget • 1d ago
 
 The odds of these coins being worth more in five years are quite high.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -180,7 +180,15 @@ Yahoo Finance • 1d ago
 
 Ethereum sets Hoodi’s Glamsterdam test for October 26, requiring compatible client upgrades while mainnet timing and the future impact on fees remain open.
 
-CryptoSlate • 15h ago
+CryptoSlate • 19h ago
+
+---
+
+**[As Bitcoin Matures, Altcoins Face a Reckoning. Here's Which Ones Have a Real Use.](https://www.fool.com/investing/2026/10/18/as-bitcoin-matures-altcoins-face-a-reckoning-heres/)**
+
+Many altcoins have limped along for years without a real investment thesis.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -188,15 +196,15 @@ CryptoSlate • 15h ago
 
 Ethereum’s AI push could strengthen blockchain security and expand institutional use cases.
 
-AMBCrypto • 7h ago
+AMBCrypto • 11h ago
 
 ---
 
-**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://www.tradingview.com/news/coinpedia:292ee480f094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/)**
+**[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/)**
 
-As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra…
+Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
-TradingView • 2d ago
+UrbanMatter • 2d ago
 
 ---
 
@@ -208,14 +216,6 @@ Blockchain News • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/)**
-
-Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
-
-UrbanMatter • 1d ago
-
----
-
 **[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
 
 Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
@@ -224,11 +224,11 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
+**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
 
-Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
+Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
 
-Decrypt • 2d ago
+TradingView • 1d ago
 
 ---
 
@@ -242,7 +242,17 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 15K • 👍 348 • 💬 41 • ⏱️ 11:36 • 11h ago
+👁️ 18K • 👍 410 • 💬 47 • ⏱️ 11:36 • 15h ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
+
+BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 179 • 💬 55 • ⏱️ 20:42 • 2h ago
 
 ---
 
@@ -252,7 +262,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 202 • 💬 33 • ⏱️ 26:07 • 15h ago
+👁️ 13K • 👍 228 • 💬 31 • ⏱️ 26:07 • 20h ago
 
 ---
 
@@ -262,27 +272,17 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 1K • 👍 51 • 💬 6 • ⏱️ 25:25 • 1d ago
+👁️ 1K • 👍 52 • 💬 6 • ⏱️ 25:25 • 1d ago
 
 ---
 
-**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
+**[Solana Is Winning The Meme Coin War. Ethereum Is Winning Everything Else](https://www.youtube.com/watch?v=cr0pau3NORU)**
 
-BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v51 ______ ...
 
-📺 Crypto World
+📺 Crypto Archie
 
-👁️ 13K • 👍 342 • 💬 204 • ⏱️ 14:47 • 15h ago
-
----
-
-**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 166 • 💬 8 • ⏱️ 23:39 • 1d ago
+👁️ 2K • 👍 53 • ⏱️ 9:08 • 21h ago
 
 ---
 
@@ -292,7 +292,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 3K • 👍 54 • 💬 6 • ⏱️ 8:36 • 1d ago
+👁️ 4K • 👍 56 • 💬 6 • ⏱️ 8:36 • 1d ago
+
+---
+
+**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
+
+BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 14K • 👍 346 • 💬 198 • ⏱️ 14:47 • 19h ago
 
 ---
 
@@ -302,27 +312,7 @@ Claus (CLAUS, Ethereum, launched Sun 4 Oct 2026 at 22:31:23 UTC): on Fri 16 Oct,
 
 📺 Handsome Finance
 
-⏱️ 0:44 • 2m ago
-
----
-
-**[I Built a Day Trading Bot using Claude Code (ETH Automated Trading)](https://www.youtube.com/watch?v=TtAx2A8hpTU)**
-
-Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude Code (ETH Automated Trading) Timeline: 00:00 ...
-
-📺 Thomas Sutton
-
-👁️ 2K • 👍 33 • 💬 34 • ⏱️ 6:16 • 21h ago
-
----
-
-**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Matt Hougan](https://www.youtube.com/watch?v=WnDF8Rfgl18)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 196 • 💬 15 • ⏱️ 23:05 • 2d ago
+👁️ 184 • ⏱️ 0:44 • 4h ago
 
 ---
 
@@ -333,6 +323,16 @@ Full stream link: all my links https://linktr.ee/dollarcostcrypto PLEASE LIKE TH
 📺 Dollar Cost Crypto
 
 👁️ 1K • 👍 25 • 💬 4 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
+
+Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
+
+📺 Home Aura
+
+👁️ 4K • 👍 130 • 💬 72 • ⏱️ 4:20 • 2d ago
 
 ---
 
