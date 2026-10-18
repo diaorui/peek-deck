@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-18T16:23:17.727653+00:00'
+updated: '2026-10-18T18:47:50.976925+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 16:23 UTC  
+**Last Updated:** October 18, 2026 at 18:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -0.6%  
 **7d:** -0.9%  
-**30d:** -0.2%  
-**90d:** +21.9%  
+**30d:** -0.1%  
+**90d:** +22.0%  
 **1y:** -25.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1628.56B
+**Market Cap:** $1628.61B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
@@ -64,7 +64,7 @@ Rank #1
 -35.7%
 
 **All-Time Low:** $67.81
-+119406.0%
++119419.2%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[Is this you? Or the 40K guy?](https://www.reddit.com/r/Bitcoin/comments/1x907p1/is_this_you_or_the_40k_guy/)**
 
-5h ago
+8h ago
 
 ---
 
 **[America Is Importing Bitcoin and Exporting Dollars. Guess Which One It Can’t Print.](https://www.reddit.com/r/Bitcoin/comments/1x8v7fv/america_is_importing_bitcoin_and_exporting/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 10h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 13h ago
 
 ---
 
 **[we need bull street ✔](https://www.reddit.com/r/Bitcoin/comments/1x920ik/we_need_bull_street/)**
 
-3h ago
+6h ago
 
 ---
 
 **[Bitcoin for the street?](https://www.reddit.com/r/Bitcoin/comments/1x8njfh/bitcoin_for_the_street/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Also, what are other black swan events that could shock the price of bitcoin up or down?
 
-19h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Also, what are other black swan events that could shock the price of bitcoin up 
 
 A vanity address is one where you pick the first few characters and let a program grind through keys until one matches. We rewrote our glossary entry on them this week (the old one had the split-key part backwards, more on that below) and figured we should run a couple of searches ourselves instead of quoting other people’s numbers. Setup: VanitySearch on a MacBook Pro with an M3 Max, 12 CPU threads, no GPU. About 74 million keys a second once the machine wasn’t doing anything else. Search 1: 1LearnBTC, letter case ignored. Found 1LeArNBtcECPZj7Bd5oeNcUJnhpVddy81U after 46 minutes and about 203 billion tries. That’s half the average for the pattern, so we got a bit lucky. Search 2: bc1qlearn8tc, exact. Found bc1qlearn8tcerg966qrqtwaelyt06fq2ze7zrsg9t after 6 hours and 1 minute and about 1.24 trillion tries. 12 percent more than average, so slightly unlucky. Why the gap? Both patterns pick eight characters. But bech32 addresses are all lowercase, so there is no “any case” shortcut. In the legacy search most letters had two chances out of 58 to match (e or E, a or A, and so on), which cuts the work a lot. On average the bech32 job was 2.7 times bigger. The gap from 2.7x to 8x was luck. A vanity search is a lottery you keep playing until you win, and sometimes you win early. Two things we learned writing it up: The bech32 alphabet has no 1, b, i or o. So bc1qlearnbtc is impossible, which is why we searched for bc1qlearn8tc instead. Never let a website generate a vanity address for you. Whoever generated the key can spend from it, whatever they promise. Run the tool yourself, or use split-key generation, where you keep a secret the searcher never sees. Our old entry said neither side sees the full key with split-key. That was wrong: you do, the searcher doesn’t. Fixed, and logged on our corrections page. Full entry, free, no ads: https://www.learnbitcoin.com/glossary/vanity-address
 
-21h ago
+1d ago
 
 ---
 
@@ -161,27 +161,19 @@ Barron's • 2d ago
 
 ---
 
-**[Bitcoin’s path to $100,000 splits analysts as rate risks loom](https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook)**
+**[CleanSpark Stock Slides After Revenue Drop And Bitcoin Output Update](https://finance.yahoo.com/markets/crypto/articles/cleanspark-stock-slides-revenue-drop-181224901.html)**
 
-Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.
+CleanSpark reported unaudited bitcoin production of 529 coins for September and 5,432 for the year to September 30, 2026, alongside weaker fiscal Q3 results that included revenue of US$138.01 million and a net loss of US$239.84 million. The business is committing heavily to growth by entering into a 20-year triple-net data center lease tied to US$6.6 billion in contracted revenue, and issuing US$2.28 billion of senior secured notes to fund the Sandersville expansion, which puts execution and...
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-shed-nearly-1-150104464.html)**
-
-Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 35m ago
 
 ---
 
-**[Michael Saylor Reveals Why Wall Street Prefers Cash to Bitcoin](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-reveals-why-wall-124758306.html)**
+**[Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)**
 
-Michael Saylor admits STRC buyers trust dollar reserves more than Bitcoin backing. Here is what Strategy changed to restore its $100 par.
+Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.
 
-Yahoo Finance • 3h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -193,23 +185,23 @@ Muddy River Sports • 2d ago
 
 ---
 
-**[Bitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab’s Adam Lynch Warns A Midterms Risk](https://www.tradingview.com/news/stocktwits:8e404b97a094b:0-bitcoin-bounces-off-its-lowest-point-in-a-month-but-charles-schwab-s-adam-lynch-warns-a-midterms-risk/)**
+**[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806)**
 
-Bitcoin (BTC) rebounded from its lowest point in nearly a month on Saturday, but Charles Schwab’s (SCHW) Adam Lynch warned that midterms could “grind [crypto industry] to a halt”.Lynch, Director of Equity Research at the Schwab Center for Financial Research, made the comments in an interview with S…
-
-TradingView • 1d ago
+Investing.com • 12h ago
 
 ---
 
 **[Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/)**
 
-Forbes • 3h ago
+Forbes • 5h ago
 
 ---
 
-**[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806)**
+**[Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?](https://247wallst.com/investing/cryptocurrency/2026/10/17/peter-schiff-says-sell-bitcoin-and-buy-gold-is-he-right-this-time/)**
 
-Investing.com • 9h ago
+Peter Schiff is again telling investors to sell Bitcoin and buy gold. Gold has lost less in 2026, but how reliable are his calls?
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -218,6 +210,14 @@ Investing.com • 9h ago
 Strive’s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares.
 
 The Block • 1d ago
+
+---
+
+**[Aave’s Native Bitcoin Plan Moves Forward, But Governance Has Questions](https://www.tradingview.com/news/newsbtc:c401bac38094b:0-aave-s-native-bitcoin-plan-moves-forward-but-governance-has-questions/)**
+
+TL;DR: Babylon Labs has advanced a proposal to bring native Bitcoin collateral to Aave V4 without requiring wrapped BTC or a central custodian. The plan still faces community review, risk analysis and governance votes.Bitcoin could become collateral for Aave loans without first being handed to a cu…
+
+TradingView • 2h ago
 
 ---
 
@@ -279,47 +279,17 @@ Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ F
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 2K • 💬 122 • ⏱️ 9:23 • 19h ago
+👁️ 96K • 👍 3K • 💬 125 • ⏱️ 9:23 • 21h ago
 
 ---
 
-**[BITCOIN IS HEADING TO $10,000 ACCORDING TO BLOOMBERG ANALYST](https://www.youtube.com/watch?v=XveDlkp6zkE)**
+**[Bitcoin Live Trading: Stop Guessing BTC… Here&#39;s What Traders Need To See! EP2156](https://www.youtube.com/watch?v=CujlwztmlZQ)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
 
-📺 My Financial Friend
+📺 Crypto Lifer
 
-👁️ 15K • 👍 300 • 💬 119 • ⏱️ 8:38 • 17h ago
-
----
-
-**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
-
-Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
-
-📺 Simply Bitcoin
-
-👁️ 38K • 👍 2K • 💬 131 • ⏱️ 17:56 • 1d ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
-
-BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 350 • 💬 99 • ⏱️ 20:42 • 6h ago
-
----
-
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
-
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
-
-📺 Benjamin Cowen
-
-👁️ 187K • 👍 5K • 💬 380 • ⏱️ 1:11:56 • 2d ago
+👁️ 8K • 👍 355 • 💬 39 • ⏱️ 1:36:59 • 15h ago
 
 ---
 
@@ -329,17 +299,37 @@ Bitcoin is boring now, and that's exactly why it can hit $1 million per coin. In
 
 📺 Blockware
 
-👁️ 15K • 👍 306 • 💬 134 • ⏱️ 15:11 • 1d ago
+👁️ 16K • 👍 321 • 💬 107 • ⏱️ 15:11 • 1d ago
 
 ---
 
-**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
 
-Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+
+📺 Benjamin Cowen
+
+👁️ 189K • 👍 5K • 💬 382 • ⏱️ 1:11:56 • 2d ago
+
+---
+
+**[BITCOIN IS HEADING TO $10,000 ACCORDING TO BLOOMBERG ANALYST](https://www.youtube.com/watch?v=XveDlkp6zkE)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 16K • 👍 305 • 💬 120 • ⏱️ 8:38 • 20h ago
+
+---
+
+**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
+
+Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
 
 📺 Simply Bitcoin
 
-👁️ 48K • 👍 2K • 💬 98 • ⏱️ 16:42 • 2d ago
+👁️ 38K • 👍 2K • 💬 134 • ⏱️ 17:56 • 1d ago
 
 ---
 
@@ -349,27 +339,37 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 2K • 💬 80 • ⏱️ 8:46 • 1d ago
+👁️ 63K • 👍 2K • 💬 81 • ⏱️ 8:46 • 1d ago
 
 ---
 
-**[Is the Money Coming Back for Bitcoin?](https://www.youtube.com/watch?v=I0xDs3CzG54)**
+**[Bitcoin&#39;s Weekend Roadmap: Exact Support and Resistance Levels](https://www.youtube.com/watch?v=o8MylqZml2U)**
 
-The world's money supply hit an all-time high in September, about 125 trillion dollars, and a lot of people in crypto say that's all ...
+Thin weekend liquidity can set traps. Here are the exact Bitcoin levels Nick is watching heading into Saturday and Sunday.
 
-📺 More Crypto Online
+📺 Verified Investing
 
-👁️ 16K • 👍 527 • 💬 33 • ⏱️ 17:10 • 12h ago
+👁️ 14K • 👍 547 • 💬 10 • ⏱️ 18:47 • 2d ago
 
 ---
 
-**[MAJOR BITCOIN SIGNAL IS REPEATING...](https://www.youtube.com/watch?v=Yu5YMSoYj_0)**
+**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
 
-📺 Crypto Rover
+📺 Simply Bitcoin
 
-👁️ 17K • 👍 788 • 💬 32 • ⏱️ 4:15 • 12h ago
+👁️ 49K • 👍 2K • 💬 96 • ⏱️ 16:42 • 2d ago
+
+---
+
+**[Bitcoin Is Going to $250,000. Here’s Why!](https://www.youtube.com/watch?v=MYdVd4ldoWo)**
+
+Bitcoin Is Going to $250000. Here's Why. Bitcoin to $250000? Here's my full case. Bitcoin has hit a new all-time high roughly every ...
+
+📺 MoneywithSwAbi
+
+👁️ 10K • 👍 147 • 💬 19 • ⏱️ 9:42 • 1d ago
 
 ---
 
