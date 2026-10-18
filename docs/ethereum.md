@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-17T23:47:47.088348+00:00'
+updated: '2026-10-18T03:22:28.899308+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 23:47 UTC  
+**Last Updated:** October 18, 2026 at 03:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -5.5%  
-**30d:** -8.3%  
-**90d:** +25.9%  
-**1y:** -38.4%  
+**24h:** -0.3%  
+**7d:** -1.1%  
+**30d:** -8.2%  
+**90d:** +25.3%  
+**1y:** -39.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.56B
+**Market Cap:** $295.33B
 Rank #2
 
 **Circulating Supply:** 122,142,461 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.6%
+-51.1%
 
 **All-Time Low:** $0.43
-+553065.4%
++558338.2%
 
 ---
 
@@ -168,19 +168,11 @@ Engadget • 1d ago
 
 ---
 
-**[Wall Street’s Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?](https://finance.yahoo.com/markets/crypto/articles/wall-street-biggest-settlement-firm-210139490.html)**
+**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-4-110500798.html)**
 
-Wall Street's biggest settlement firm just named Stellar as a future partner, sending XLM back onto traders' watchlists. But before you chase the catalyst, the comparison with Ethereum reveals some uncomfortable truths about timing, tokenization dominance, and price reality.
+The odds of these coins being worth more in five years are quite high.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?](https://www.fool.com/investing/2026/10/17/ethereum-dramatically-outperformed-the-sp-500-in-q/)**
-
-The coin's recent strength is undeniable, but the fact that it might not last forever demands at least some caution from investors.
-
-The Motley Fool • 5h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,15 +180,7 @@ The Motley Fool • 5h ago
 
 Ethereum sets Hoodi’s Glamsterdam test for October 26, requiring compatible client upgrades while mainnet timing and the future impact on fees remain open.
 
-CryptoSlate • 6h ago
-
----
-
-**[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
-
-Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
-
-Crypto Briefing • 1d ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -208,19 +192,27 @@ TradingView • 1d ago
 
 ---
 
+**[Vitalik Buterin’s ‘Paranoid Mode’ puts Ethereum’s AI security push under institutional lens](https://ambcrypto.com/vitalik-buterins-paranoid-mode-puts-ethereums-ai-security-push-under-institutional-lens/)**
+
+Ethereum’s AI push could strengthen blockchain security and expand institutional use cases.
+
+AMBCrypto • 2h ago
+
+---
+
+**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
 **[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
 
 Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
 
-Blockchain News • 19h ago
-
----
-
-**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
-
-Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
-
-Decrypt • 2d ago
+Blockchain News • 22h ago
 
 ---
 
@@ -229,6 +221,14 @@ Decrypt • 2d ago
 Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
 UrbanMatter • 1d ago
+
+---
+
+**[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
+
+Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 3K • 👍 173 • 💬 16 • ⏱️ 11:36 • 2h ago
+👁️ 9K • 👍 285 • 💬 30 • ⏱️ 11:36 • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 146 • 💬 25 • ⏱️ 26:07 • 7h ago
+👁️ 9K • 👍 182 • 💬 27 • ⏱️ 26:07 • 10h ago
 
 ---
 
@@ -262,7 +262,7 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 1K • 👍 45 • 💬 6 • ⏱️ 25:25 • 16h ago
+👁️ 1K • 👍 47 • 💬 6 • ⏱️ 25:25 • 20h ago
 
 ---
 
@@ -272,17 +272,7 @@ BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 258 • 💬 82 • ⏱️ 14:47 • 6h ago
-
----
-
-**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 3K • 👍 53 • 💬 5 • ⏱️ 8:36 • 1d ago
+👁️ 11K • 👍 304 • 💬 207 • ⏱️ 14:47 • 10h ago
 
 ---
 
@@ -292,17 +282,47 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 161 • 💬 22 • ⏱️ 23:39 • 1d ago
+👁️ 9K • 👍 163 • 💬 13 • ⏱️ 23:39 • 1d ago
 
 ---
 
-**[Ethereum Bounce Incoming? Here Is Where It Could Go](https://www.youtube.com/watch?v=z7PZr5eroOU)**
+**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
 
-Ethereum Elliott Wave analysis for 17 October 2026: Ethereum is trying to reclaim the April high after a sharp 16 to 17% decline ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
 
-📺 More Crypto Online
+📺 Bitcoin Strategy
 
-👁️ 10K • 👍 261 • 💬 13 • ⏱️ 8:38 • 17h ago
+👁️ 3K • 👍 54 • 💬 5 • ⏱️ 8:36 • 1d ago
+
+---
+
+**[I Built a Day Trading Bot using Claude Code (ETH Automated Trading)](https://www.youtube.com/watch?v=TtAx2A8hpTU)**
+
+Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude Code (ETH Automated Trading) Timeline: 00:00 ...
+
+📺 Thomas Sutton
+
+👁️ 2K • 👍 20 • 💬 27 • ⏱️ 6:16 • 16h ago
+
+---
+
+**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 832 • 👍 24 • 💬 2 • ⏱️ 4:57 • 17h ago
+
+---
+
+**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
+
+Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
+
+📺 Home Aura
+
+👁️ 4K • 👍 128 • 💬 72 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -313,26 +333,6 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 📺 Crypto Nutshell
 
 👁️ 9K • 👍 196 • 💬 17 • ⏱️ 23:05 • 2d ago
-
----
-
-**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
-
-Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
-
-📺 Home Aura
-
-👁️ 4K • 👍 127 • 💬 72 • ⏱️ 4:20 • 1d ago
-
----
-
-**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 763 • 👍 23 • 💬 2 • ⏱️ 4:57 • 13h ago
 
 ---
 
