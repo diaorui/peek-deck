@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-18T03:22:28.902526+00:00'
+updated: '2026-10-18T08:15:41.758998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 18, 2026 at 03:22 UTC  
+**Last Updated:** October 18, 2026 at 08:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This video is showing off auto aim, where you select points and it automatically aims at them. But it also has other cool features like person-tracking, and night vision. What does everyone think?
 
-1d ago
+2d ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Drones are the robots physical AI is actually ready for, and the industry is chasing humanoid hype instead.](https://www.reddit.com/r/robotics/comments/1x75qir/drones_are_the_robots_physical_ai_is_actually/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -112,14 +112,6 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 ## Google News: "robotics"
 
-**[Amazon Has Now Deployed Over 1 Million Robots, Which Is Bad News for Its 1.5 Million Workers](https://futurism.com/future-society/amazon-robotics-automation-warehouse-labor-safety)**
-
-Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one.
-
-Futurism • 11h ago
-
----
-
 **[Robots could boost US manufacturing as America races to keep pace with China, expert says](https://www.foxbusiness.com/technology/robots-could-boost-us-manufacturing-america-races-keep-pace-china-expert-says)**
 
 A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics.
@@ -128,9 +120,19 @@ Fox Business • 1d ago
 
 ---
 
-**[Delivery Robots Accused Of Scanning Customers’ Faces, Sharing Biometric Data](https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/)**
+**[Amazon Has Now Deployed Over 1 Million Robots, Which Is Bad News for Its 1.5 Million Workers](https://futurism.com/future-society/amazon-robotics-automation-warehouse-labor-safety)**
 
-Block Club Chicago • 1d ago
+Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one.
+
+Futurism • 16h ago
+
+---
+
+**[Bioinspired robot airdrops into remote waters via morphing wing-sail](https://newatlas.com/robotics/albatross-robot-sail-seed-boat/)**
+
+“Fall like a maple seed, sail like a boat” sounds like advice from legendary heavyweight boxer Muhammad Ali. In reality, it describes a new robotic platform scientists have created for fast, long-term deployment to monitor remote waters.
+
+New Atlas • 13h ago
 
 ---
 
@@ -142,38 +144,6 @@ Breaking Defense • 2d ago
 
 ---
 
-**[A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html)**
-
-Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bioinspired robot airdrops into remote waters via morphing wing-sail](https://newatlas.com/robotics/albatross-robot-sail-seed-boat/)**
-
-“Fall like a maple seed, sail like a boat” sounds like advice from legendary heavyweight boxer Muhammad Ali. In reality, it describes a new robotic platform scientists have created for fast, long-term deployment to monitor remote waters.
-
-New Atlas • 8h ago
-
----
-
-**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
-
-Is AI coming for blue-collar jobs, too?
-
-Tom's Hardware • 14h ago
-
----
-
-**[Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?](https://www.fool.com/investing/2026/10/17/kraken-robotics-stock-in-3-years-boom-bust-or-quie/)**
-
-Down more than 60%, can Kraken Robotics stock mount a huge comeback?
-
-The Motley Fool • 1h ago
-
----
-
 **[Saga Robotics Thorvald: The Best Inventions of 2026](https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/)**
 
 Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions.
@@ -182,9 +152,39 @@ Time Magazine • 2d ago
 
 ---
 
+**[Team develops embodied robotic arm 'EmArm' with human-like touch sensing](https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html)**
+
+Tech Xplore • 21h ago
+
+---
+
+**[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)**
+
+Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics’ ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks.
+
+TechCrunch • 1d ago
+
+---
+
+**[AI robots are roaming L.A. grocery aisles. Shoppers and workers are worried](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
+
+AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
+
+Los Angeles Times • 14h ago
+
+---
+
+**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
+
+Is AI coming for blue-collar jobs, too?
+
+Tom's Hardware • 18h ago
+
+---
+
 **[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
 
-Reuters • 2d ago
+Reuters • 3d ago
 
 ---
 
@@ -192,71 +192,53 @@ Reuters • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
-
-Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
-
-📺 Tesla Insider News
-
-👁️ 251K • 👍 2K • 💬 325 • ⏱️ 21:44 • 2d ago
-
----
-
-**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
-
-Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
-
-📺 The Tesla Space
-
-👁️ 86K • 👍 3K • 💬 154 • ⏱️ 13:59 • 3d ago
-
----
-
-**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
-
-The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
-
-📺 Bloomberg Television
-
-👁️ 64K • 👍 295 • 💬 32 • ⏱️ 5:02 • 19h ago
-
----
-
-**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
-
-A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
-
-📺 NBC News
-
-👁️ 131K • 👍 900 • 💬 181 • ⏱️ 3:26 • 4d ago
-
----
-
 **[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
 
 China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
 
 📺 MACHINEKIND
 
-👁️ 23K • 👍 377 • 💬 42 • ⏱️ 12:40 • 1d ago
+👁️ 26K • 👍 414 • 💬 44 • ⏱️ 12:40 • 1d ago
 
 ---
 
-**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
+**[The Weirdest Robots to Ever Fight at NHRL](https://www.youtube.com/watch?v=eVI9Ig3lq_o)**
 
-This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
+Not your average fighting robots. From bizarre designs to completely unconventional engineering, these robots prove there's ...
 
-📺 Kalil 4.0
+📺 NHRL
 
-👁️ 3K • 👍 63 • 💬 9 • ⏱️ 1:03 • 6d ago
+👁️ 93K • 👍 1K • 💬 71 • ⏱️ 12:13 • 2d ago
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
 
-📺 Big Duke13
+More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
 
-👁️ 184K • 👍 7K • 💬 660 • ⏱️ 2:35 • 1d ago
+📺 The New York Times
+
+👁️ 29K • 👍 242 • 💬 62 • ⏱️ 4:07 • 18h ago
+
+---
+
+**[China’s Humanoid Robots Now Carry Riot Shields! 🤖🛡️](https://www.youtube.com/watch?v=Z3LnwybwvAY)**
+
+China's NORINCO has showcased its Fuxi humanoid robots performing coordinated drills with riot shields and batons. Weighing ...
+
+📺 Nexio Core
+
+👁️ 2K • ⏱️ 0:05 • 4h ago
+
+---
+
+**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
+
+Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
+
+📺 Tesla Insider News
+
+👁️ 260K • 👍 2K • 💬 334 • ⏱️ 21:44 • 2d ago
 
 ---
 
@@ -270,23 +252,41 @@ What does the future of humanoid robotics actually look like? At World Summit AI
 
 ---
 
-**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
 
-A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
+📺 Big Duke13
 
-📺 7NEWS Australia
-
-👁️ 58K • 👍 258 • ⏱️ 1:54 • 2d ago
+👁️ 194K • 👍 7K • 💬 682 • ⏱️ 2:35 • 1d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+**[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
 
-Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
 
-📺 MostAmazingTop10
+📺 Kalil 4.0
 
-👁️ 266K • 👍 2K • 💬 255 • ⏱️ 9:18 • 6d ago
+👁️ 3K • 👍 64 • 💬 9 • ⏱️ 1:03 • 6d ago
+
+---
+
+**[New FASTEST NERF in War Robots History!](https://www.youtube.com/watch?v=XRrGB8aSyLk)**
+
+Start RAID Shadow Legends NOW with the DAMAGE MONSTER Septimus. My new video here: https://youtu.be/XoRhpRucSuA ...
+
+📺 Manni-Gaming
+
+👁️ 16K • 👍 544 • 💬 157 • ⏱️ 14:50 • 18h ago
+
+---
+
+**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
+
+The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
+
+📺 Bloomberg Television
+
+👁️ 69K • 👍 316 • 💬 38 • ⏱️ 5:02 • 1d ago
 
 ---
 

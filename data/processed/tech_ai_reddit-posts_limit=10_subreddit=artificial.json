@@ -13,6 +13,17 @@
       "description": "Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say \"What?\" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said \"Craig\" instead of \"Greg\" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)"
     },
     {
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+      "published": 1792300819.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?"
+    },
+    {
       "title": "Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation",
       "author": "IndependentCoast3974",
       "url": "https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/",
@@ -35,6 +46,17 @@
       "description": "if ai takes all the jobs how will we afford to live and pay off things like our rent, car payments, loans, etc. and what is the point of not having us be able to pick a career and make our own money? do they want us to just die and be controlled, i can\u2019t even dream of a good future because i don\u2019t want to follow my dream career path if it\u2019s not even going to be an option anymore :("
     },
     {
+      "title": "an agent can figure out how an app works just by watching it, so why can't it figure out me",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8uns8/an_agent_can_figure_out_how_an_app_works_just_by/",
+      "published": 1792299898.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "there's a repo trending on github this week where you point an agent at an app and it works out how the thing behaves from the network traffic. nobody had to explain it. it just watched. which is kinda funny, because i still retype the same preferences to ai every week. same setup, same how i like it. you'd think watching how i do things would be easier than reverse engineering an app. so is it a trust thing, a privacy thing, or just nobody building it well? and what would you actually let it watch"
+    },
+    {
       "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/",
@@ -44,17 +66,6 @@
       "site_name": "reuters.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Who will win in AI race?",
-      "author": "JissQuote",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/",
-      "published": 1792280262.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As I am thinking about AI I feel like the companies Open AI and Atrophic I just purely set up to win the race. Isn't AI race is all about compute power? And the companies like Meta, Microsoft, Google already better positioned because they own a lot of infrastructure? And infrastructure is not only the data centers but also tool that can benefit integrating LLM's with it (Android, Office, Social Networks)? Or do Open AI or Anthropic have some unknown methods or technology to train models that can't be replicated? I thought everybody using the same tools and same methods the difference only in data that is used? Isn't it the same story that happened with Dropbox or whatever other file share companies were created on that hype train."
     },
     {
       "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
@@ -79,38 +90,27 @@
       "description": "You can even chat with the LLM remotely from other devices."
     },
     {
-      "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
-      "author": "TamerSoup625",
-      "url": "https://www.reddit.com/r/artificial/comments/1x847zy/developer_goes_into_debt_spending_1000_a_day_to/",
-      "published": 1792222764.0,
-      "thumbnail": "https://preview.redd.it/nzincw2lfzvh1.jpg?width=140&height=94&auto=webp&s=d5ad232f0d2f5cf04f4dde5e389564bbcb85cd62",
+      "title": "China's Tencent says AI agents showed unintended browsing behaviour",
+      "author": "RareEarthPetal",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/",
+      "published": 1792308763.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Gemini just hallucinated for three days about Google products, and I am left confused. Is it me or the AI?",
+      "author": "OldFan4996",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8wtvw/gemini_just_hallucinated_for_three_days_about/",
+      "published": 1792307677.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Screenshot of the game \\\"Teach my little sister how to drive\\\" https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791 Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use"
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "author": "RareEarthPetal",
-      "url": "https://www.reddit.com/r/artificial/comments/1x83qnc/openai_models_hacked_a_crypto_wallet_and_breached/",
-      "published": 1792220999.0,
-      "thumbnail": "https://external-preview.redd.it/n5-M1_bT05RoSNyk2dzrYJfM27pUh8badJYf6slA-14.jpeg?width=640&crop=smart&auto=webp&s=58436090e3321b8bae042d4839f3201ea9b5f095",
-      "external_url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "The actions could have resulted in criminal charges had humans been behind the keyboard."
-    },
-    {
-      "title": "How Do Machines Map the World? A Conversation With Geospatial Legend Brian McClendon",
-      "author": "ExtensionEcho3",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8nmvo/how_do_machines_map_the_world_a_conversation_with/",
-      "published": 1792277711.0,
-      "thumbnail": "https://external-preview.redd.it/FTO-4dXwW9nr51gZp1jLApCBqVQRQQZF1pB04t4y3ys.jpeg?width=320&crop=smart&auto=webp&s=0922ee566d6d0bc63a1276ede2d17ebb11e02feb",
-      "external_url": "https://www.youtube.com/watch?v=KWtxPf-s_Dc",
-      "site_name": "youtube.com",
-      "favicon": null,
-      "description": "The TLDW Version of this is that Brian McClendon admits that robotics itself is a complicated science(he's got a point there) and that the AI companies can't do anything without Niantic's help. PS if you want to watch the whole thing, skip past the first 20 minutes, the actual interview starts at 20:00 mark on the video."
+      "description": "I am asking 2 questions. This situation seems unusually weird (over multiple sessions)is the AI hallucinating about its own companies products, and their capabilities within those products? If you understand what I am trying to do, please point me in the direction to accomplish it. Thanks! Context: This is not my first time using AI, at all. That said, as a Gen X that doesn\u2019t work in an office context that requires it constantly, I am not a power user either. If I am doing it wrong, I would rather be schooled on how to do it right, then just yammer about the hallucination rate. I freaking love making spreadsheets, and in general just approach all constantly upgrading tech with the same mental ease as I do the aging of my body. I can do the best I can with what I have, and the more I know, the better it all works out. This seems SO bizarre, because I am asking it questions like \u201cI need you to do X. At what level(paid) can you do X? Then I asked it multiple ways so I made sure I understood it and it understood me. X= Dictate structure of a table, dictate contents of cells in said table, copy paste table into a spreadsheet. X+ context = I am moving. I want to tell AI the contents of my boxes, as I am packing them, touching my phone as little as possible in the process to avoid ADHD distractions. I think this is a VERY easy AI task. For the past 3 days between life, I have been asking Gemini exactly what it can do, compared to apps that purport to do this, and if it required a paid tier, which I was willing to pay for. It told me that at the paid level, it could open a spreadsheet in Google Sheets designed for this purpose, and copy the table I had dictated into the Spreadsheet. Yesterday it said it could make the table for free, but if I wanted it hands free, I needed the paid tier with Google Workspace. Fine. Today I dictated the parameters of the table. (5 columns and their titles) and then I dictated the contents of the boxes into their corresponding cells on the table. At the end, it just dictated it back to me. When I said I wanted the visual table that it had promised it would make. Now it says it can\u2019t make a copy/pastable table AT ALL. If I had one quick chat, I would just chalk it up to a misunderstanding. This has been 3 days of questions and refining details of its responses. So\u2026I am feeling like it\u2019s not me, and I am confused about how Google\u2019s AI is this confused about its own capabilities and its own products? What is the most likely explanation? Yes, I sent a feedback ticket. When we ask AI if it can do something, and it lies, for no good reason\u2026seems like a human should know/care? Please lmk if I am wrong here, and I should not have asked Gemini to explain/sell its own products? Definitely not paying for a a service that hallucinates this badly. Thanks!"
     }
   ],
-  "fetched_at": "2026-10-18T03:22:04.975134+00:00"
+  "fetched_at": "2026-10-18T08:15:19.233579+00:00"
 }

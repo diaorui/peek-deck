@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-18T03:22:28.899308+00:00'
+updated: '2026-10-18T08:15:41.756752+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 03:22 UTC  
+**Last Updated:** October 18, 2026 at 08:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,428.60
+### $2,407.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -1.1%  
-**30d:** -8.2%  
-**90d:** +25.3%  
-**1y:** -39.3%  
+**24h:** -1.2%  
+**7d:** -1.6%  
+**30d:** -8.5%  
+**90d:** +24.7%  
+**1y:** -39.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.33B
+**Market Cap:** $293.93B
 Rank #2
 
-**Circulating Supply:** 122,142,461 ETH
+**Circulating Supply:** 122,145,416 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.1%
+-51.4%
 
 **All-Time Low:** $0.43
-+558338.2%
++555543.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -112,7 +112,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hey community, I'm wondering how someone can get offers to his ENS domains. I ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -156,7 +156,7 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -180,15 +180,7 @@ Yahoo Finance • 1d ago
 
 Ethereum sets Hoodi’s Glamsterdam test for October 26, requiring compatible client upgrades while mainnet timing and the future impact on fees remain open.
 
-CryptoSlate • 10h ago
-
----
-
-**[Charles Schwab expects crypto, prediction markets to boost transaction revenue, CEO says](https://www.tradingview.com/news/cryptobriefing:d67e81148094b:0-charles-schwab-opens-direct-bitcoin-and-ethereum-trading-to-its-retail-clients/)**
-
-Charles Schwab's Bitcoin and Ethereum trading service is now available to all eligible clients, completing a phased rollout that began in April, CEO Rick Wurster said during the company's third-quarter earnings call.The brokerage, which manages more than $13 trillion in client assets, expects to ad…
-
-TradingView • 1d ago
+CryptoSlate • 15h ago
 
 ---
 
@@ -196,15 +188,15 @@ TradingView • 1d ago
 
 Ethereum’s AI push could strengthen blockchain security and expand institutional use cases.
 
-AMBCrypto • 2h ago
+AMBCrypto • 7h ago
 
 ---
 
-**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
+**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://www.tradingview.com/news/coinpedia:292ee480f094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra…
 
-Fortune • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -212,7 +204,7 @@ Fortune • 1d ago
 
 Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
 
-Blockchain News • 22h ago
+Blockchain News • 1d ago
 
 ---
 
@@ -232,6 +224,14 @@ Crypto Briefing • 1d ago
 
 ---
 
+**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
+
+Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
+
+Decrypt • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -242,7 +242,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 9K • 👍 285 • 💬 30 • ⏱️ 11:36 • 6h ago
+👁️ 15K • 👍 348 • 💬 41 • ⏱️ 11:36 • 11h ago
 
 ---
 
@@ -252,7 +252,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 182 • 💬 27 • ⏱️ 26:07 • 10h ago
+👁️ 12K • 👍 202 • 💬 33 • ⏱️ 26:07 • 15h ago
 
 ---
 
@@ -262,7 +262,7 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 1K • 👍 47 • 💬 6 • ⏱️ 25:25 • 20h ago
+👁️ 1K • 👍 51 • 💬 6 • ⏱️ 25:25 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 304 • 💬 207 • ⏱️ 14:47 • 10h ago
+👁️ 13K • 👍 342 • 💬 204 • ⏱️ 14:47 • 15h ago
 
 ---
 
@@ -282,7 +282,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 163 • 💬 13 • ⏱️ 23:39 • 1d ago
+👁️ 9K • 👍 166 • 💬 8 • ⏱️ 23:39 • 1d ago
 
 ---
 
@@ -292,7 +292,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 3K • 👍 54 • 💬 5 • ⏱️ 8:36 • 1d ago
+👁️ 3K • 👍 54 • 💬 6 • ⏱️ 8:36 • 1d ago
+
+---
+
+**[6 FOMO Traders Bought This Ethereum Coin. I Asked Grok Who Bought First](https://www.youtube.com/watch?v=_S7xpCxB4qs)**
+
+Claus (CLAUS, Ethereum, launched Sun 4 Oct 2026 at 22:31:23 UTC): on Fri 16 Oct, six tracked FOMO (fomo.family) traders ...
+
+📺 Handsome Finance
+
+⏱️ 0:44 • 2m ago
 
 ---
 
@@ -302,27 +312,7 @@ Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude
 
 📺 Thomas Sutton
 
-👁️ 2K • 👍 20 • 💬 27 • ⏱️ 6:16 • 16h ago
-
----
-
-**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 832 • 👍 24 • 💬 2 • ⏱️ 4:57 • 17h ago
-
----
-
-**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
-
-Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
-
-📺 Home Aura
-
-👁️ 4K • 👍 128 • 💬 72 • ⏱️ 4:20 • 1d ago
+👁️ 2K • 👍 33 • 💬 34 • ⏱️ 6:16 • 21h ago
 
 ---
 
@@ -332,7 +322,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 196 • 💬 17 • ⏱️ 23:05 • 2d ago
+👁️ 9K • 👍 196 • 💬 15 • ⏱️ 23:05 • 2d ago
+
+---
+
+**[Ethereum will fail if it doesn&#39;t hit $8000](https://www.youtube.com/watch?v=y4DcYpx7rfE)**
+
+Full stream link: all my links https://linktr.ee/dollarcostcrypto PLEASE LIKE THE VIDEO! DON'T FORGET TO LIKE, ...
+
+📺 Dollar Cost Crypto
+
+👁️ 1K • 👍 25 • 💬 4 • ⏱️ 0:17 • 1d ago
 
 ---
 

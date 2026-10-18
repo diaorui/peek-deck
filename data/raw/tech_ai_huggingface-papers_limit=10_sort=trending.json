@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 30869,
+      "github_stars": 30947,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 111683,
+      "github_stars": 111780,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2610.13912",
       "arxiv_url": "https://arxiv.org/abs/2610.13912",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.13912.png",
-      "upvotes": 47,
+      "upvotes": 48,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-18T03:22:16.141094+00:00"
+  "fetched_at": "2026-10-18T08:15:26.559890+00:00"
 }
