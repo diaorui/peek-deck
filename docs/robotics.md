@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-17T23:47:47.091596+00:00'
+updated: '2026-10-18T03:22:28.902526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 17, 2026 at 23:47 UTC  
+**Last Updated:** October 18, 2026 at 03:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ For a school project I am making a self balancing robot called WOBBLE. I would v
 
 Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one.
 
-Futurism • 7h ago
+Futurism • 11h ago
 
 ---
 
@@ -125,6 +125,12 @@ Futurism • 7h ago
 A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics.
 
 Fox Business • 1d ago
+
+---
+
+**[Delivery Robots Accused Of Scanning Customers’ Faces, Sharing Biometric Data](https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/)**
+
+Block Club Chicago • 1d ago
 
 ---
 
@@ -144,9 +150,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Video: Are These Workers Training Robots to Replace Them?](https://www.nytimes.com/video/technology/100000011193946/robots-training-work.html)**
+**[Bioinspired robot airdrops into remote waters via morphing wing-sail](https://newatlas.com/robotics/albatross-robot-sail-seed-boat/)**
 
-The New York Times • 1d ago
+“Fall like a maple seed, sail like a boat” sounds like advice from legendary heavyweight boxer Muhammad Ali. In reality, it describes a new robotic platform scientists have created for fast, long-term deployment to monitor remote waters.
+
+New Atlas • 8h ago
 
 ---
 
@@ -154,13 +162,15 @@ The New York Times • 1d ago
 
 Is AI coming for blue-collar jobs, too?
 
-Tom's Hardware • 10h ago
+Tom's Hardware • 14h ago
 
 ---
 
-**[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
+**[Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?](https://www.fool.com/investing/2026/10/17/kraken-robotics-stock-in-3-years-boom-bust-or-quie/)**
 
-Reuters • 2d ago
+Down more than 60%, can Kraken Robotics stock mount a huge comeback?
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -172,19 +182,9 @@ Time Magazine • 2d ago
 
 ---
 
-**[Wound-helix robot leaps and bounds over obstacles](https://newatlas.com/robotics/tiny-snapping-robot/)**
+**[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
 
-Remember that “dancing pencils” game schoolchildren played, where they passed two pencils through a small rubber band, twisted them repeatedly, and then let go to make the pencils jump around as the band unraveled? Turns out they were onto some serious futuristic robotics, as scientists are now…
-
-New Atlas • 1d ago
-
----
-
-**[Advanced robotics propels nuclear reactor core rebuild ahead of 125 MW grid boost](https://interestingengineering.com/energy/robotics-propels-nuclear-reactor-core)**
-
-Automated precision tools and domestic partnerships helped engineers complete a critical stage of the Unit 4 MCR.
-
-Interesting Engineering • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -192,33 +192,13 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
 
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
 
-📺 AI Unfiltered
+📺 Tesla Insider News
 
-👁️ 2K • 👍 19 • 💬 2 • ⏱️ 8:52 • 1d ago
-
----
-
-**[The Weirdest Robots to Ever Fight at NHRL](https://www.youtube.com/watch?v=eVI9Ig3lq_o)**
-
-Not your average fighting robots. From bizarre designs to completely unconventional engineering, these robots prove there's ...
-
-📺 NHRL
-
-👁️ 85K • 👍 1K • 💬 69 • ⏱️ 12:13 • 2d ago
-
----
-
-**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
-
-The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
-
-📺 Bloomberg Television
-
-👁️ 60K • 👍 279 • 💬 31 • ⏱️ 5:02 • 15h ago
+👁️ 251K • 👍 2K • 💬 325 • ⏱️ 21:44 • 2d ago
 
 ---
 
@@ -228,35 +208,37 @@ Remove your personal information online with Delete Me using my link https://joi
 
 📺 The Tesla Space
 
-👁️ 85K • 👍 3K • 💬 154 • ⏱️ 13:59 • 3d ago
+👁️ 86K • 👍 3K • 💬 154 • ⏱️ 13:59 • 3d ago
 
 ---
 
-**[The hopes and risks of bringing humanoid robots into our homes](https://www.youtube.com/watch?v=-g5xHE-rxjE)**
+**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
 
-Life-like, humanoid robots have captured our imagination for decades. Now, those robots work in factories and assembly lines all ...
+The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
 
-📺 PBS NewsHour
+📺 Bloomberg Television
 
-👁️ 19K • 👍 316 • ⏱️ 26:47 • 1d ago
-
----
-
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
-
-📺 Big Duke13
-
-👁️ 170K • 👍 6K • 💬 621 • ⏱️ 2:35 • 1d ago
+👁️ 64K • 👍 295 • 💬 32 • ⏱️ 5:02 • 19h ago
 
 ---
 
-**[BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them...](https://www.youtube.com/watch?v=skUIW0cb9NM)**
+**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
 
-BYD Reveals Its Own Humanoid Robot and wants to Make Millions of Them... Chinese auto giant BYD has officially unveiled the ...
+A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
 
-📺 The Electric Viking
+📺 NBC News
 
-👁️ 39K • 👍 562 • 💬 90 • ⏱️ 5:29 • 4d ago
+👁️ 131K • 👍 900 • 💬 181 • ⏱️ 3:26 • 4d ago
+
+---
+
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+
+📺 MACHINEKIND
+
+👁️ 23K • 👍 377 • 💬 42 • ⏱️ 12:40 • 1d ago
 
 ---
 
@@ -266,17 +248,15 @@ This is the closest thing there is to a confirmed US military humanoid robot sol
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 62 • 💬 9 • ⏱️ 1:03 • 6d ago
+👁️ 3K • 👍 63 • 💬 9 • ⏱️ 1:03 • 6d ago
 
 ---
 
-**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
 
-Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
+📺 Big Duke13
 
-📺 Tesla Insider News
-
-👁️ 244K • 👍 2K • 💬 316 • ⏱️ 21:44 • 1d ago
+👁️ 184K • 👍 7K • 💬 660 • ⏱️ 2:35 • 1d ago
 
 ---
 
@@ -287,6 +267,26 @@ What does the future of humanoid robotics actually look like? At World Summit AI
 📺 Bernard Marr
 
 👁️ 82K • 👍 7K • 💬 17 • ⏱️ 1:30 • 4d ago
+
+---
+
+**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
+
+A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
+
+📺 7NEWS Australia
+
+👁️ 58K • 👍 258 • ⏱️ 1:54 • 2d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+
+📺 MostAmazingTop10
+
+👁️ 266K • 👍 2K • 💬 255 • ⏱️ 9:18 • 6d ago
 
 ---
 
