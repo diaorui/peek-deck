@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-18T16:23:17.734023+00:00'
+updated: '2026-10-18T18:47:50.983431+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 16:23 UTC  
+**Last Updated:** October 18, 2026 at 18:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -3.1%  
-**30d:** -10.0%  
-**90d:** +22.7%  
-**1y:** -40.5%  
+**24h:** -2.3%  
+**7d:** -3.3%  
+**30d:** -10.2%  
+**90d:** +22.5%  
+**1y:** -40.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.86B
+**Market Cap:** $288.38B
 Rank #2
 
 **Circulating Supply:** 122,145,416 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.2%
+-52.3%
 
 **All-Time Low:** $0.43
-+546219.8%
++545263.6%
 
 ---
 
@@ -104,7 +104,7 @@ Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-t
 
 After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
 
-6d ago
+7d ago
 
 ---
 
@@ -152,27 +152,11 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
-**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-4-110500798.html)**
+**[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
 
-The odds of these coins being worth more in five years are quite high.
+The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
-
-Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
-
-Decrypt • 3d ago
-
----
-
-**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/)**
-
-The odds of these coins being worth more in five years are quite high.
-
-The Motley Fool • 2d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -184,27 +168,27 @@ Engadget • 2d ago
 
 ---
 
+**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://www.tradingview.com/news/stocktwits:8c50de9df094b:0-ai-chip-bets-suffer-34m-liquidation-wipeout-as-bitcoin-ethereum-near-danger-zone-ahead-of-black-monday-fears/)**
+
+Bitcoin (BTC) traded just above a cluster of leveraged long bets on Sunday. Traders who piled into AI chip stocks lost about $33.8 million on crypto exchanges a day earlier. The wipeout hit contracts tied to Micron (MU), SanDisk (SNDK) and SK Hynix (SKHY) one day before the 39th anniversary of the…
+
+TradingView • 1h ago
+
+---
+
 **[Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/10/17/wall-streets-biggest-settlement-firm-is-lining-up-stellar-for-2027-is-xlm-a-better-buy-than-ethereum/)**
 
 The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 21h ago
 
 ---
 
-**[Ethereum Faces $8.71B Liquidation Risk as ETH Price Tests $2,350 – Is Another Flush Ahead?](https://www.tradingview.com/news/coinpedia:292ee480f094b:0-ethereum-faces-8-71b-liquidation-risk-as-eth-price-tests-2-350-is-another-flush-ahead/)**
+**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-4-110500798.html)**
 
-As the crypto market has come under extreme bearish influence, the Ethereum price plunged hard and is now testing a crucial support range. The second-largest token is approaching the $2,350 zone, while a wave of long liquidations has added weight to the persistent pressure. The sell-off has also ra…
+The odds of these coins being worth more in five years are quite high.
 
-TradingView • 3d ago
-
----
-
-**[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
-
-The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
-
-CoinDesk • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -212,11 +196,19 @@ CoinDesk • 2d ago
 
 Claude traced P-256’s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain.
 
-CryptoSlate • 2h ago
+CryptoSlate • 4h ago
 
 ---
 
-**[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/)**
+**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
+
+Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
+
+Blockchain News • 1d ago
+
+---
+
+**[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/?amp=1)**
 
 Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
 
@@ -224,9 +216,19 @@ UrbanMatter • 2d ago
 
 ---
 
-**[Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze](https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze)**
+**[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
 
-Benzinga • 2d ago
+Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
+
+Crypto Briefing • 2d ago
+
+---
+
+**[Solana’s burn rate hits highest since 2025 – What could it mean for SOL/ETH?](https://ambcrypto.com/solanas-burn-rate-hits-highest-since-2025-what-could-it-mean-for-sol-eth/)**
+
+Solana is winning more transactions. Traders are still waiting for a reason to pay more for SOL.
+
+AMBCrypto • 8h ago
 
 ---
 
@@ -234,13 +236,13 @@ Benzinga • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
+**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=i6jRengVStI)**
 
-BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto World
+📺 Crypto Nutshell
 
-👁️ 9K • 👍 350 • 💬 99 • ⏱️ 20:42 • 6h ago
+👁️ 329 • 👍 25 • 💬 52 • ⏱️ 23:47 • 2h ago
 
 ---
 
@@ -250,27 +252,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 21K • 👍 446 • 💬 55 • ⏱️ 11:36 • 19h ago
-
----
-
-**[MIchael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=tpVCk6MI5rg)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 15K • 👍 246 • 💬 35 • ⏱️ 26:07 • 23h ago
-
----
-
-**[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
-
-supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanalysis 4th anniversary Level 2 offer, apply ...
-
-📺 Venture
-
-👁️ 1K • 👍 53 • 💬 6 • ⏱️ 25:25 • 1d ago
+👁️ 22K • 👍 467 • 💬 63 • ⏱️ 11:36 • 21h ago
 
 ---
 
@@ -280,37 +262,37 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 4K • 👍 56 • 💬 6 • ⏱️ 8:36 • 2d ago
+👁️ 4K • 👍 57 • 💬 6 • ⏱️ 8:36 • 2d ago
 
 ---
 
-**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
+**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
 
-BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 15K • 👍 347 • 💬 235 • ⏱️ 14:47 • 23h ago
+👁️ 13K • 👍 410 • 💬 168 • ⏱️ 20:42 • 8h ago
 
 ---
 
-**[Ethereum will fail if it doesn&#39;t hit $8000](https://www.youtube.com/watch?v=y4DcYpx7rfE)**
+**[MIchael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=tpVCk6MI5rg)**
 
-Full stream link: all my links https://linktr.ee/dollarcostcrypto PLEASE LIKE THE VIDEO! DON'T FORGET TO LIKE, ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Dollar Cost Crypto
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 26 • 💬 4 • ⏱️ 0:17 • 1d ago
+👁️ 16K • 👍 254 • 💬 38 • ⏱️ 26:07 • 1d ago
 
 ---
 
-**[How to Mine Ethereum (ETH) with Cloud Mining in 2026 (I Tested It)](https://www.youtube.com/watch?v=plteUF0AV5s)**
+**[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
 
-Mining platform I use: tapmy.cc/nexahash Can I use crypto I already hold to access a cloud mining service without buying mining ...
+supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanalysis 4th anniversary Level 2 offer, apply ...
 
-📺 Home Aura
+📺 Venture
 
-👁️ 4K • 👍 130 • 💬 73 • ⏱️ 4:20 • 2d ago
+👁️ 2K • 👍 54 • 💬 6 • ⏱️ 25:25 • 1d ago
 
 ---
 
@@ -320,17 +302,37 @@ Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude
 
 📺 Thomas Sutton
 
-👁️ 3K • 👍 34 • 💬 42 • ⏱️ 6:16 • 1d ago
+👁️ 3K • 👍 36 • 💬 46 • ⏱️ 6:16 • 1d ago
 
 ---
 
-**[Solana Is Winning The Meme Coin War. Ethereum Is Winning Everything Else](https://www.youtube.com/watch?v=cr0pau3NORU)**
+**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
 
-Join my community | Work with me directly: https://whop.cryptoarchieyt.com/redirect.php?link=youtube_long_form_v51 ______ ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto Archie
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 55 • ⏱️ 9:08 • 1d ago
+👁️ 10K • 👍 180 • 💬 9 • ⏱️ 23:39 • 2d ago
+
+---
+
+**[Ethereum Scammer breaks his promise of an e-check](https://www.youtube.com/watch?v=J2GtztjUVSo)**
+
+In this video I speak to a scammer who is pretending to be from Paypal. The scammer has sent out fake invoices stating that there ...
+
+📺 SkeletonSyskey
+
+👁️ 136 • 👍 63 • 💬 8 • ⏱️ 25:38 • 47m ago
+
+---
+
+**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 1K • 👍 29 • 💬 2 • ⏱️ 4:57 • 1d ago
 
 ---
 
