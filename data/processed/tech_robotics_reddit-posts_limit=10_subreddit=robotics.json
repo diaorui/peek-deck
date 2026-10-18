@@ -35,17 +35,6 @@
       "description": "MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was the evening of the day I developed the MK6 V2 and participated in the Maker Faire. 2026.09.19 \ud83d\ude0e\ud83d\udc4d"
     },
     {
-      "title": "Humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging",
-      "author": "Spirited-Sir-3034",
-      "url": "https://www.reddit.com/r/robotics/comments/1x90sfg/humanoid_robot_digit_5_targets_20hour_workdays/",
-      "published": 1792322474.0,
-      "thumbnail": "https://external-preview.redd.it/dXAJE_DqYiDNCQHzMFiPdFfJvHxJMs5VUtq1SmeW8uk.jpeg?width=640&crop=smart&auto=webp&s=b2d8e021783fc016eab8b1d55ceca83bc59ee889",
-      "external_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays",
-      "site_name": "Interesting Engineering",
-      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
-      "description": "Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries to deliver 90 minutes of operation after a nine-minute charge. The targeted 10:1 run-to-charge ratio could support more than 20 productive hours per day in warehouses and manufacturing facilities. Early-access deployment is planned for the first half of 2027, but the company has not yet disclosed the battery capacity, cycle-life rating, or independent real-world test results."
-    },
-    {
       "title": "3D Printed Rocker-Bogie Mars Rover | ESP32-CAM | 6-Wheel Robotic Platform",
       "author": "DisastrousHedgehog5",
       "url": "https://www.reddit.com/r/robotics/comments/1x9666z/3d_printed_rockerbogie_mars_rover_esp32cam_6wheel/",
@@ -57,60 +46,71 @@
       "description": "More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rocker-bogie-mars-rover-esp32-cam-6-wheel-robotic-platform"
     },
     {
-      "title": "DIY robot arm that plays Nine Men's Morris",
-      "author": "Available-String-891",
-      "url": "https://www.reddit.com/r/robotics/comments/1x8lkji/diy_robot_arm_that_plays_nine_mens_morris/",
-      "published": 1792272014.0,
-      "thumbnail": "https://external-preview.redd.it/enZ1ZnNhY3NmM3doMVKeZRmKqXmr_Zu1gDfUDycOt_vdI42TrxKc2OxN8ehx.png?width=640&crop=smart&auto=webp&s=bb06f7c175e157e00599e9dac7f3008f7ecb5b66",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This little robot arm was designed for educational purposes. The goal was to build a small, simple 3D-printed arm capable of precise, smooth movements. The first version has 4 DOF, with room for future expansion. The J1, J2 and J3 joints use factory-made POM gears from the main gear of a Tarot 450 model helicopter. These mesh with the factory-made metal gears on the round NEMA 14 stepper motors, which are designed for 3D printer extruders. Torque is transmitted to the J3 joint through a GT2 belt, allowing all the steppers to remain at the base of the arm. J4 is driven by an RC servo. It has some backlash, which could be eliminated with spring preload. The controller is an inexpensive 3D printer board, the BTT SKR Pico, equipped with quiet TMC2209 stepper drivers. These can detect motor stalls, allowing sensorless homing. The gripper is made of flexible TPU. The servo pulls a central filament, causing the fingers to bend inward. It's a very simple design that tolerates small positioning errors without putting much strain on the servo. To make the programming more interesting, we set ourselves the goal of building a robot that could play Nine Men's Morris by recognizing its opponent's moves using a camera. This video was recorded the first time the arm was able to play a game. Its movements will become smoother and much faster as development continues. We developed custom Arduino-based firmware for the Pico board. By feeding motion commands into a queue, it allows the arm to move continuously, with smoothly rounded transitions between movements. All higher-level tasks are handled by Python code running on a PC. When powered on, the arm first moves to its home position and then moves out of the camera's field of view. The software calibrates itself using the camera image and identifies the positions on the board. During the game, it watches the opponent's moves, calculates a response, and executes its own move."
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+      "author": "life_coaches",
+      "url": "https://www.reddit.com/r/robotics/comments/1x9bqtf/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+      "published": 1792351093.0,
+      "thumbnail": "https://external-preview.redd.it/TJwI3PBntNUc805OqCua01g2pOh-8gFLfAGOk320KaE.jpeg?width=640&crop=smart&auto=webp&s=ae8b1845dbd9f558c6101159878b4e90e41eddfe",
+      "external_url": "https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html",
+      "site_name": "Yahoo Tech",
+      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
+      "description": "HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots."
     },
     {
-      "title": "Massachusetts Robotics Map",
-      "author": "Robosapiens1882",
-      "url": "https://www.reddit.com/r/robotics/comments/1x86iow/massachusetts_robotics_map/",
-      "published": 1792231466.0,
-      "thumbnail": "https://preview.redd.it/cu8698q840wh1.png?width=640&crop=smart&auto=webp&s=4f26cca003dbe6e02b34f64209f4a0cf228c4ca5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "They say robotics moved west, but Boston didn\u2019t get the memo. \ud83e\udd9e The Massachusetts ecosystem is one of the world's leading hubs for robotics, combining top research, companies, and deep-tech investment. At its core are Massachusetts Institute of Technology (MIT) and Harvard University which produce world-class researchers, engineers, and robotics startups. Many of today's leading robotics companies trace their roots back to these universities. The region is also home to companies like Boston Dynamics, whose work has inspired advances in humanoid and mobile robots. Around these companies, a dense network of suppliers, experienced engineers, entrepreneurs, and investors has developed, making it easier for new startups to build and scale. Massachusetts also has one of the strongest deep-tech funding ecosystems in the world, with venture capital firms that understand robotics, AI, and hardware. The Massachusetts robotics ecosystem is further strengthened by leading research organizations such as Toyota Research Institute and RAI Institute, which are advancing AI, dexterous manipulation, and next-generation robotics while attracting world-class researchers and engineers. Not to mention initiatives like MassRobotics which is home to so many great robotics companies. In simple terms: \u2192 You need world-class robotics talent \u2192 recruit from MIT and Harvard. \u2192 You want experienced robotics engineers \u2192 hire people who have built robots at top companies. \u2192 You need funding \u2192 access investors with decades of experience backing deep-tech startups."
+      "title": "Humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging",
+      "author": "Spirited-Sir-3034",
+      "url": "https://www.reddit.com/r/robotics/comments/1x90sfg/humanoid_robot_digit_5_targets_20hour_workdays/",
+      "published": 1792322474.0,
+      "thumbnail": "https://external-preview.redd.it/dXAJE_DqYiDNCQHzMFiPdFfJvHxJMs5VUtq1SmeW8uk.jpeg?width=640&crop=smart&auto=webp&s=b2d8e021783fc016eab8b1d55ceca83bc59ee889",
+      "external_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays",
+      "site_name": "Interesting Engineering",
+      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+      "description": "Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries to deliver 90 minutes of operation after a nine-minute charge. The targeted 10:1 run-to-charge ratio could support more than 20 productive hours per day in warehouses and manufacturing facilities. Early-access deployment is planned for the first half of 2027, but the company has not yet disclosed the battery capacity, cycle-life rating, or independent real-world test results."
     },
     {
-      "title": "My robot dog kept finding new ways to move across gravel",
-      "author": "FamiliarPermission79",
-      "url": "https://www.reddit.com/r/robotics/comments/1x8h4ga/my_robot_dog_kept_finding_new_ways_to_move_across/",
-      "published": 1792260868.0,
-      "thumbnail": "https://external-preview.redd.it/NTgyOXlyendoMndoMcIQD6PSpY2T-uOXWozTKraJl8oRwuOBHxlsADabJaSm.png?width=640&crop=smart&auto=webp&s=1af6eaef5d56966ed9792adfab0c2e5478ec9add",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Quaddle rolling and surviving a patch of loose gravel. Whenever a move fails, it just flips itself back up instead of staying down \u2014 driven by Auto Mode on its built-in IMU (tilt, fall, lift/drop, and shock detection all handled the same way). What terrain would you want to test a small quadruped's movements against?"
+      "title": "The Landscape of Humanoids - 2,351 products, 788 companies",
+      "author": "SyntaxExpert",
+      "url": "https://www.reddit.com/r/robotics/comments/1x9c0ss/the_landscape_of_humanoids_2351_products_788/",
+      "published": 1792351742.0,
+      "thumbnail": "https://external-preview.redd.it/PN1d4UYGUb9_Dh1SJME9PgCF-y-qVglaocc18qgxTrc.jpeg?width=640&crop=smart&auto=webp&s=733192f1d81d12ca9d4ed52f9dee3c43e8d97c2b",
+      "external_url": "https://www.airfold.co/humanoid-technology-map/",
+      "site_name": "Airfold",
+      "favicon": "https://www.airfold.co/apple-touch-icon.png",
+      "description": "Who builds each part of a humanoid robot: 2,351 products from 788 organizations in 46 technology boxes, as of October 2026."
     },
     {
-      "title": "Same payload, same reach, very different behavior in production \u2014 wrist geometry is why",
-      "author": "ZaneRobotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1x8w8h0/same_payload_same_reach_very_different_behavior/",
-      "published": 1792305555.0,
+      "title": "Build a robot",
+      "author": "Rei01qawsD",
+      "url": "https://www.reddit.com/r/robotics/comments/1x9dg0e/build_a_robot/",
+      "published": 1792355160.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I keep running into robot selection discussions where the word \"configuration\" gets used for two completely different things, and the mixup causes real problems downstream. Under ISO 9787, configuration technically means the set of joint values that determines the robot shape at any time. In selection discussions, engineers usually mean the mechanism architecture: inline wrist, offset wrist, or the cobot-style layout with parallel middle axes. Those are different questions, and a datasheet will not sort them out for you. How I break it down: The first three joints place the wrist center. The last three set tool attitude. If joints 4, 5, 6 intersect at one point, you have the classical inline wrist: partially decoupled position and orientation, analytic inverse kinematics, and decades of offline programming support. That is a big reason the PUMA-type architecture still dominates industrial robotics. Offset wrists give up that geometric convenience for clear process reasons: more orientation envelope and better obstacle avoidance for long tools such as spray guns, torches, and abrasive heads. The cost lands in IK complexity, singularity analysis, and trajectory continuity. Cobot layouts reorder the middle axes (2, 3, 4 parallel) around compact joint modules, not around the classical wrist-center geometry. Fine for light tending, screwdriving, and lab automation, but it should not be treated as identical to the traditional industrial arm. The layer most people skip: one TCP pose on a typical inline-wrist robot can correspond to up to eight IK solutions. Front/back, elbow-up/elbow-down, flip/no-flip. A lot of \"programming problems\" are wrong-branch problems for the path, not wrong-robot problems. And singularity behavior follows the geometry, not the catalog page. Shoulder, elbow, and wrist singularities all shift when the wrist geometry changes. Question for people who do this for a living: do you evaluate posture-branch availability during selection, or does it usually surface at commissioning? I wrote up the full breakdown with the geometric details here, if useful: https://zanerobotics.substack.com/p/3-serial-six-axis-robot-arm-configurations?r=6ysx3o"
+      "description": "Hi my name is deemco From saudi arabia Like u see the title I have proplem with my robot I\u2019m running into some issues building my robot. As everyone knows, robots are divided into a cloud-based component and a physical one; let\u2019s set the cloud part aside\u2014the problem lies in the physical side. Actually, the truth is I don\u2019t even know how to build a robot in the first place\u2014but that\u2019s not your problem! Anyway, I\u2019m working on that. My specific issue right now is the connectivity\u2014how do I get everything to come together so that, in the end, my robot functions as one perfectly orchestrated symphony? ,,, by the way my robot is so coplex! Its like the that dude hows follow the main character in sci-fi ! . Actually everything is expensive dunno why but if u have short list i would like to see it! [ i forgot to say but hes fly tipe of robots(use fly for something very imprortant) in my brain hes super intelegent and hes gonna be my companion and help me and a friendly tipe! Haha i feel exited !!] I think i gonna put motors and cameras and in the middle theres a screen and rasberri pi and a lot! But absolute dunno . How u guys past that proplem ? I enjoyed typing that !"
     },
     {
-      "title": "PCB mount servo drives vs traditional panel mount for compact robotic joints",
-      "author": "AdnanZipYT",
-      "url": "https://www.reddit.com/r/robotics/comments/1x8w5ms/pcb_mount_servo_drives_vs_traditional_panel_mount/",
-      "published": 1792305253.0,
+      "title": "Come to enjoy whit us in a Drone section",
+      "author": "Creative-Feature-264",
+      "url": "https://www.reddit.com/r/robotics/comments/1x9bu87/come_to_enjoy_whit_us_in_a_drone_section/",
+      "published": 1792351310.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "i Want to know how roboticists here handle the packaging headaches on tight builds.Panel mounted drives make servicing and thermal heatsinking easy, but routing high-current motor phases and encoder lines through 6 articulated joints is a nightmare. Lately we\u2019ve looked at ditching the central cabinet and dropping miniature PCB mount drives (like Elmo and Synapticon) right onto custom joint carrier boards. Is the wiring reduction worth the inevitable thermal dissipation and serviceability trade-offs?"
+      "description": "Drones are the next section Online tools that run sample by sample on a flight controller's data, on a Raspberry Pi or an NVIDIA Jetson next to it. This issue splits the work into small points. Pick one, say so in a comment, and open a PR. Every point has a question it answers, a data source and a way to check it, so a first contribution fits in an afternoon. How to take a point: comment \"I take N\", fork, work on a branch, open a PR that mentions this issue. One point per PR. Questions in the comments are welcome. Ground rules for every point - Each number on a page comes from a script of the repository that was run before the sentence was written. - Synthetic data are labelled \"synthetic\" everywhere they appear. - \"Tested on a Raspberry Pi / a Jetson\" is written only when the command ran on that board; otherwise \"written, not run on the board\". - Sources are the papers named below, with page numbers. ## Data and adapters **PX4 ULog reader.** Yield one dict per sample (time, gyro, accelerometer, GPS velocity, motor outputs, battery voltage) with `pyulog`. Check: a tiny ULog written by the test round-trips. **MAVLink tlog reader.** The same fields with `pymavlink`. Source: the MAVLink survey, arXiv:1906.10641 (Koubaa et al., IEEE Access 2019). **Synthetic flight generator.** Hover plus a circle, noise, one fault at a stated sample, labelled. The single source of data for tests and smoke runs. **ALFA loader.** Load the fixed-wing fault dataset (arXiv:1907.06268, Keipour et al., IJRR 2021; data DOI 10.1184/R1/12707963) and its ground-truth fault times. Check: the 47 processed flights load and the fault time of each is read. ## Pipelines (each answers one question) **Which part broke, and how many seconds after?** Residual of commanded against measured rate, a CUSUM detector with `reset_on_alarm=True`, a robust Mahalanobis score. Metrics: detection delay and alarm episodes per hour of normal flight. Data: ALFA (point 4). Related: Garg and Fan, arXiv:2309.09108. **Is the GPS telling the truth?** Online comparison of GPS velocity with the integrated IMU. Inject an offset ramp into normal flights and say so on the page. Motivation: SemperFi arXiv:2105.01860 and Kim et al. arXiv:2407.15003. **Is a propeller damaged?** Online spectrum of the gyro or accelerometer and a distance of the band energies from the healthy baseline. Related: Zhang et al., arXiv:2302.04410. **How many minutes of flight are left, and how sure are we?** Online fit of voltage against current and time with an interval; the remaining time as a distribution. Source for the energy model: Alyassi et al., arXiv:1703.10049. **Is the next move safe?** Distance to a geofence and to obstacles from the simulated lidar of `benchmarks/lidar_sim.py`, with the protection tools already in the library. **Where is the landing pad, and is the camera moving?** `GlobalMotion`, `MotionMask` and `FrameAnomaly` on synthetic frames of a pad. Metrics: pixel error against the planted position and time per frame at 640x360. **Is the radio link about to fail?** A drift detector on packet inter-arrival time and RSSI of a synthetic MQTT stream. **Static against online.** The same fault data with a scikit-learn batch model and the online one; median of 20 seeds, time per sample, memory. The page follows `docs/finance/static_vs_online.md`. ## Boards **Raspberry Pi to Pixhawk page.** Serial wiring, the PX4 parameters and the Pi settings, with each step checked against the PX4 documentation page (https://docs.px4.io/main/en/companion\\_computer/pixhawk\\_rpi.html). Mark every step you ran yourself. **Jetson power modes page.** The `nvpmodel` modes of each Orin module and the time per sample of a pipeline in each mode, measured on the board you own. **`edge_bench.py`.** Time per sample (median and interquartile range), 99th percentile, resident memory and CPU temperature for each pipeline on a given board, written to a JSON file named after the host. Include your board model in the file name. Results from a board you own are the most valuable contribution here. **Dockerfiles for arm64 and Jetson, `install.sh`, a systemd unit and an MQTT bridge** publishing the score and the alarm episodes. Base image names come from the vendor documentation, with the URL. ## Also open **ArduPilot.** The same adapters against an ArduPilot log, with the differences written down. **A flight log of your own.** Run a pipeline on a log from your drone and tell us what it found, as a comment or a page. **Spotted something in the plan?** A missing pipeline, a better source paper, a wrong sentence. Open a comment and it becomes a numbered point. A new contributor can start with point 3, 13 or 18. The folder with the instructions, rules and papers is kept by the maintainer; ask here if you want a copy. ## Papers to read (one per area) - **MAVLink, the protocol every point 1-2 and 16 talks to:** A. Koubaa et al., \"Micro Air Vehicle Link (MAVLink) in a Nutshell: A Survey\", IEEE Access 2019, arXiv:1906.10641. - **Fault data and metrics (points 4-5):** A. Keipour, M. Mousaei, S. Scherer, \"ALFA: A Dataset for UAV Fault and Anomaly Detection\", IJRR 2021, arXiv:1907.06268. - **Actuator faults (point 5):** K. Garg, C. Fan, \"Neural Network-based Fault Detection and Identification for Quadrotors using Dynamic Symmetry\", arXiv:2309.09108. - **GPS and state-estimator attacks (point 6):** H. Sathaye et al., \"SemperFi: A Spoofer Eliminating GPS Receiver for UAVs\", arXiv:2105.01860; K. H. Kim et al., \"Predictable by Design, Vulnerable by Nature: Security Consequences of Learnability in UAV State Estimators\", arXiv:2407.15003. - **Propeller faults (point 7):** W. Zhang et al., \"Simulation-to-reality UAV Fault Diagnosis with Deep Learning\", arXiv:2302.04410. - **Battery and energy (point 8):** R. Alyassi et al., \"Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones\", IEEE T-ASE 2023, arXiv:1703.10049. - **Boards (points 13-16):** PX4 documentation, \"Companion Computers\", https://docs.px4.io/main/en/companion\\_computer/ and \"Raspberry Pi to Pixhawk\", https://docs.px4.io/main/en/companion\\_computer/pixhawk\\_rpi.html; NVIDIA Jetson Orin power modes, https://docs.nvidia.com/jetson/archives/r36.4/DeveloperGuide/SD/PlatformPowerAndPerformance/JetsonOrinNanoSeriesJetsonOrinNxSeriesAndJetsonAgxOrinSeries.html. Know a better paper for one of these areas? Add it in a comment with the arXiv number. link : https://github.com/tatopenn-cell/Dense-Evolution-Discovery/issues/266"
+    },
+    {
+      "title": "Collaboration Request: Space inspired robotics/rover for a show!",
+      "author": "EstablishmentCute836",
+      "url": "https://www.reddit.com/r/robotics/comments/1x9b6e8/collaboration_request_space_inspired/",
+      "published": 1792349760.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone! Not sure if this is the right flair or subreddit for this inquiry but I am trying my luck! Looking for a collaboration with someone who has made a fully functioning robotics machine (example: like the mars rover or something in that general field) that they would like to showcase next year. CONTEXT: I am hosting a NYFW show in NYC next year showcasing my cyber/steampunk space inspired collection. I would like to showcase and collaborate with someone who would like to share their work on a stage. I am no where near well versed to make and create my own robotics, so I was hoping someone would be open to connecting the bridge of couture (high fashion) and science with me. It would be a demonstration on the catwalk or simply stationary in the middle while the audience could see the functions in person. The models would maneuver around the displayed robotics making sure your work is also being carefully considered and safe. i\u2019m happy to share concepts (think dystopian, commentary on space tourism and the implications of it and what that looks like for the future, etc) and the collection or any other context privately. if this is something you or someone you know would be interested in please comment or message me! If there is a better sub to post this I would be grateful for the recs! Thank you!!"
     }
   ],
-  "fetched_at": "2026-10-18T16:23:02.097139+00:00"
+  "fetched_at": "2026-10-18T21:17:26.357050+00:00"
 }

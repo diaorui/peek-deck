@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "AI Agents Trading Stocks While You Sleep? Charles Schwab\u2019s CEO Is Skeptical",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUJFUjM3bVJWWGlGRXJPUllTcTJkMXlfSEY0UkRRanlKNkxuR18ySW9QU3ZxbDJZWnEwalh0YWZRNEtXeTdtTzYwSzVTSGFxbzdjSnNIdGd1QVZWQ09lbnFmN21QNWhDTXFuSmlKazZOczJBNXBlT1p0NHhtWTA1a09fZnp0N3BJWjFmQjl6ZlZrWnhpbEdIWFBoOUMtVTJCR2tERGc0YUFBbk1nNkJj?oc=5",
+      "pub_date": 1792354980.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -13,6 +23,16 @@
       "article_url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
       "image": "https://s.yimg.com/lo/mysterio/api/5678069b1f2b1fe68189a6069a71483532c0b60fd59779c910d263b412f875e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fe66d3c9d-5a9e-496b-b9ae-3be84b277e87",
       "description": "Wall Street still sees more gains for stocks heading into the end of the year."
+    },
+    {
+      "headline": "The AI Selloff Is Spreading To The Stocks Investors Thought Were Safe",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXFYQlFLbW5YNzB6Sm5Qdm1LM2JPdFVJT0pJRjVCaW10WWktZGtfNjVyX0RIbVc2d18xNVZCRmNWcmxaNVRnQWt3SlBaMENGQUNpT0dEQ2NqdXFzOXA3TXp4YzBUZndPVkpoa1M5anFBTFNkdTBOakx5WUFDQjJienZYaTBZZWdacVF6dEVGd3F3Nm82eHE0M0ZUbUVDazJ5Rkc2NlBjWmlTYlR2SU1xUEtDSG9FQ3hac29v?oc=5",
+      "pub_date": 1792357219.0,
+      "article_url": "https://www.forbes.com/sites/jimosman/2026/10/18/the-ai-selloff-is-spreading-to-the-stocks-investors-thought-were-safe/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Even LinkedIn is getting tired of your AI-written posts",
@@ -25,42 +45,22 @@
       "description": "LinkedIn is upping its fight against generic, low-quality AI posts on its platform."
     },
     {
-      "headline": "Anthropic Plans to Shift Some Shares Into New \u2018Public Good\u2019 Fund",
+      "headline": "AI's future runs through credit desks",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41MVV6Q080RmZVV2JhOXA0bjZzQktKRG0wRDNwd2xlY3ZlRlN2aVhJNnlzWFNibHNZdXg1ZHNqaWpCemFqYXo1OVBhNW1jb1hhcjdBMmMtQmxjRVlnU1BaUFRPSFJHLXZnNzNlNGFMRXBvcmhRYWc?oc=5",
+      "pub_date": 1792357200.0,
+      "article_url": "https://fortune.com/2026/10/18/nvidia-ai-financing-capital-markets/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/IMG_8771.jpeg?resize=1200,600",
+      "description": "Europe has the savings. China has the state. The U.S. has the financial plumbing."
+    },
+    {
+      "headline": "Finance Chiefs at Arm, Synopsys Talk AI\u2019s Risks and Rewards",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmMyNWxod0hjdmwxeU0tdEk1dGpOSXdfSVdrLXdIVjB2LVR5YlpmZFhMZnlYcDNRNV9zRTcxY3piNFAzZm5mMThxeXJmVW5rMHFUSkpkQjc2NkJNWG0zUHE4RUNuV2w0RGFTQXlVQ0RtQ2VJbVdfVjE2Nmg4aDdFYXBVZGlhVzRmV3U4bXQzMHgtR1hqcl94YnRJNTVqRjVsT1h0SjJvVDUtZTdDSHJwWWxHbw?oc=5",
-      "pub_date": 1792346583.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Leaders Need To Be Responsible For AI Safety In Real Life",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcV9GTDRFSFc5MDMwalp1M1lMcW4ydWFheW5sWGJac3JocjB6SlF1a0Ffbk5PWGtSaVpYeFgxTThSOFpDZjBlSkhlOVJiV2l4X3MzMTZXdkRSNDJhR0VSUE02LTJ5blVpZGRzYUptTEZ4R3E0UjV0cU5wV2MtU3oyWjdEM0d4dW1weEJsZ3VUc0RQMUxiekJYYlI5c1pnbmU2cUpBYkR1eTFWUlh0QlE?oc=5",
-      "pub_date": 1792345980.0,
-      "article_url": "https://www.forbes.com/sites/rogertrapp/2026/10/18/leaders-need-to-be-responsible-for-ai-safety-in-real-life/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Wall Street sees warning signs of an AI bubble, but valuations tell different story (NDX:)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmRvR2tHeVI2UGFLUGFfOW1nRjF4ZzdZVUpxbXJzR2RDVjM1MVJHcGNERm1UVzJJMkhDNF8wWE0tWW5vWVU5anoyYzFjXzYxUEFGNUg3UkJNaGt1R3l5aU1tSTlqTi1wbk5UbHNLUENMeTBPY3JpSk9ObXhSclkxdW5HSGJ2Qm9nWERBT0tNb08tS1MtOGgzXzNuaG1ldXh6ZnBvYVBaZmhqY1lzQUxCMlFpekhVd1o1Q2dsNQ?oc=5",
-      "pub_date": 1792345246.0,
-      "article_url": "https://seekingalpha.com/news/4654072-wall-street-sees-warning-signs-of-an-ai-bubble-but-valuations-tell-different-story",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/165581156/image_165581156.jpg?io=getty-c-w630",
-      "description": "Wall Street debates an AI stock bubble: valuations vs dot-com, plus debt, concentration and credit risks. Get key signals and what to watch now."
-    },
-    {
-      "headline": "Opinion | This Is the Good Scenario?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJVTlpXMDVjTmNJanZlTHZ2WDdjdm5WbkQxdmhLWFFzX29VVXZZNnJWcVpsU2NtY1pJOHRyQzlwNklCMGFzaFJEMFlKcl92VHdienIxeFg3M0ItUzRtd3BIQTRKOGVhTDBTN3NCRkFYdGNLakdfZ3VnMUlFQ3llaXpONlA0emlINDhJcDUwVHY?oc=5",
-      "pub_date": 1792317621.0,
-      "article_url": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWllQaE5TRFBTa0pfakpOZk56dHFJd2xlSkttMmFrenU3OVl5SVFYcWw2RmNtWGE4UVFfa1NxZFpMNjdsSGNmNUZvT0I3bnZXVnhUUWMzNlRqRkxmSTczYlBBbE9zeXBtN0Z6NERWWVl4YVZ6SW4xMjh5SE9jNXk4V1RjUWd2clkxc3dKckpB?oc=5",
+      "pub_date": 1792353601.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-18/ai-s-risks-and-rewards-arm-snps",
       "image": null,
       "description": null
     },
@@ -85,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbEdtcm9pNXNFU2h1dUxVN2c4NGVIM2o1OTZ1QXlDNXlLSWZkUnI0N2pObVVUWmRkajhieS1hT2s3dUk3WlFZekRYOU1CNE1SVHp2MkIyMHVpNS0xSW1OZ3ROUG5uN3dLbkhDMVpZR2RGcVRwSTVTbUotZw?oc=5",
+      "pub_date": 1792297444.0,
+      "article_url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them?",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
       "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0febd2f8692eef6ecd233dd9e7cb3d09",
       "description": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year"
-    },
-    {
-      "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZHRYMm5JQlowV3BIWlYyVFYyblFwaXRiUkdrbFBTQVZybmhQeHhGaWdqR0lIOFdRMjBnWEJHa05yT2NzczdueGlIRHVUWldMcndwQVo4QmlseTU2TjZZZG9tTlpBVGw1SmkySGx4eWMtUVg2Zkc1d2NB0gF_QVVfeXFMT3dVUEl4TlZJSzV4eEpqMWFWYTJESFF2YmFWN1VHWDhtWHpjajJrV0djSGNmTkRPcE92UnpEYzVMVEhPb0N0WjdheDZtMGVTeUdwOHdfd05xMFJ4Q29KSzZ5QXFlM2JrN1poZjI0Q1I1S192SFFUOVBDV3FqM1NZOA?oc=5",
-      "pub_date": 1792324801.0,
-      "article_url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
-      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T18:47:49.368344+00:00"
+  "fetched_at": "2026-10-18T21:17:40.648830+00:00"
 }
