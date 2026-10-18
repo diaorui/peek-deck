@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-18T21:17:42.092062+00:00'
+updated: '2026-10-18T23:31:41.739792+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 21:17 UTC  
+**Last Updated:** October 18, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -3.5%  
-**30d:** -10.3%  
-**90d:** +22.3%  
-**1y:** -40.8%  
+**24h:** +0.1%  
+**7d:** -1.6%  
+**30d:** -8.6%  
+**90d:** +24.7%  
+**1y:** -39.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $287.85B
+**Market Cap:** $293.90B
 Rank #2
 
 **Circulating Supply:** 122,145,416 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.4%
+-51.4%
 
 **All-Time Low:** $0.43
-+544185.1%
++555626.7%
 
 ---
 
@@ -168,19 +168,19 @@ Engadget • 2d ago
 
 ---
 
-**[Ethereum Is Testing Blocks Over 3 Times Bigger. Could That Help ETH Catch Up With Solana?](https://finance.yahoo.com/markets/crypto/articles/ethereum-testing-blocks-over-3-202024973.html)**
+**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
 
-Ethereum is quietly running tests that could reshape how much work its network can handle at once, but a bigger question looms: will any of it matter if the mainnet upgrade has no launch date and traders are already walking away?
+According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Saylor and Yusko's BTC Price Target, Bitmine's ETH Purchase and More: This Week in Crypto](https://www.tradingview.com/news/benzinga:72c880488094b:0-saylor-and-yusko-s-btc-price-target-bitmine-s-eth-purchase-and-more-this-week-in-crypto/)**
+**[Ethereum’s ‘World Computer’ Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents](https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/)**
 
-Bitcoin’s latest market debate mixed bullish price targets, cautious timelines and a corporate buying strategy that may soon hit its own limit. Meanwhile, analysts highlighted Ethereum and NEAR Protocol as potential winners, while new research revived questions about whether quantum computing could…
+Ethereum (ETH) was wrong with its “world computer” idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight’s approach as “What they got wrong with this idea of one giant shared w…
 
-TradingView • 9h ago
+TradingView • 5h ago
 
 ---
 
@@ -196,15 +196,23 @@ The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the 
 
 Claude traced P-256’s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain.
 
-CryptoSlate • 7h ago
+CryptoSlate • 9h ago
 
 ---
 
-**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://stocktwits.com/news-articles/markets/cryptocurrency/black-monday-fears-rise-dollarm-ai-chip-bets-get-liquidated-bitcoin-near-danger-zone/cZxNVSaRBts)**
+**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
 
-Bitcoin (BTC) traded just above a cluster of leveraged long bets on Sunday. Traders who piled into AI chip stocks lost about $33.8 million on crypto exchanges a day earlier. The wipeout hit contracts tied to Micron (MU), SanDisk (SNDK) and SK Hynix (SKHY)
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Stocktwits • 4h ago
+Fortune • 2d ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/)**
+
+The odds of these coins being worth more in five years are quite high.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -213,14 +221,6 @@ Stocktwits • 4h ago
 Bitcoin ETFs saw $82.39 million in net outflows on October 16 while Ethereum ETFs lost $69.68 million, extending a weak October for crypto funds.
 
 Crypto Briefing • 1d ago
-
----
-
-**[Ethereum: Head and Shoulders Pattern Persists Daily](https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily)**
-
-Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776...
-
-Blockchain News • 1d ago
 
 ---
 
@@ -236,23 +236,33 @@ Decrypt • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=i6jRengVStI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 780 • 👍 38 • 💬 34 • ⏱️ 23:47 • 5h ago
-
----
-
 **[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
 
 BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
 
 📺 Lark Davis
 
-👁️ 23K • 👍 482 • 💬 64 • ⏱️ 11:36 • 1d ago
+👁️ 24K • 👍 493 • 💬 66 • ⏱️ 11:36 • 1d ago
+
+---
+
+**[Why Ethereum Is Cheap Below 2,400](https://www.youtube.com/watch?v=QWwb8xkiDu4)**
+
+Why is Ethereum cheap below 2400? It usually falls about 1.3x as hard as Bitcoin, so a Bitcoin drop to the 78K bull market support ...
+
+📺 VirtualBacon
+
+👁️ 2K • 👍 50 • 💬 36 • ⏱️ 1:26 • 9h ago
+
+---
+
+**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=i6jRengVStI)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 44 • 💬 48 • ⏱️ 23:47 • 7h ago
 
 ---
 
@@ -262,27 +272,7 @@ BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 16K • 👍 452 • 💬 164 • ⏱️ 20:42 • 11h ago
-
----
-
-**[MIchael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=tpVCk6MI5rg)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 17K • 👍 260 • 💬 39 • ⏱️ 26:07 • 1d ago
-
----
-
-**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 4K • 👍 58 • 💬 7 • ⏱️ 8:36 • 2d ago
+👁️ 18K • 👍 463 • 💬 183 • ⏱️ 20:42 • 13h ago
 
 ---
 
@@ -296,43 +286,53 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 ---
 
+**[Bitwise Thinks This Altcoin Could Be Worth as Much as Ethereum](https://www.youtube.com/watch?v=eXbnBnKrhfw)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 9K • 👍 235 • 💬 168 • ⏱️ 14:07 • 10h ago
+
+---
+
+**[MIchael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=tpVCk6MI5rg)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 18K • 👍 268 • 💬 39 • ⏱️ 26:07 • 1d ago
+
+---
+
 **[I Built a Day Trading Bot using Claude Code (ETH Automated Trading)](https://www.youtube.com/watch?v=TtAx2A8hpTU)**
 
 Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude Code (ETH Automated Trading) Timeline: 00:00 ...
 
 📺 Thomas Sutton
 
-👁️ 3K • 👍 33 • 💬 50 • ⏱️ 6:16 • 1d ago
+👁️ 4K • 👍 33 • 💬 51 • ⏱️ 6:16 • 1d ago
 
 ---
 
-**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
+**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
 
-📺 Crypto Nutshell
+📺 Bitcoin Strategy
 
-👁️ 10K • 👍 182 • 💬 10 • ⏱️ 23:39 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=WCyVKejcKEc)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 2K • 👍 78 • ⏱️ 6:29 • 7h ago
+👁️ 4K • 👍 58 • 💬 7 • ⏱️ 8:36 • 2d ago
 
 ---
 
-**[WHY THIS COULD FINALLY BE THE ETH BOTTOM!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=8bWyQ57cU40)**
+**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 1K • 👍 31 • 💬 2 • ⏱️ 4:57 • 1d ago
+👁️ 15K • 👍 349 • 💬 242 • ⏱️ 14:47 • 1d ago
 
 ---
 
