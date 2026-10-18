@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-18T12:44:29.573453+00:00'
+updated: '2026-10-18T16:23:17.727653+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 12:44 UTC  
+**Last Updated:** October 18, 2026 at 16:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,715.63
+### $81,046.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +0.1%  
-**30d:** +0.9%  
-**90d:** +23.2%  
-**1y:** -24.4%  
+**24h:** -0.3%  
+**7d:** -0.9%  
+**30d:** -0.2%  
+**90d:** +21.9%  
+**1y:** -25.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1646.19B
+**Market Cap:** $1628.56B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.0%
+-35.7%
 
 **All-Time Low:** $67.81
-+120687.5%
++119406.0%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[Is this you? Or the 40K guy?](https://www.reddit.com/r/Bitcoin/comments/1x907p1/is_this_you_or_the_40k_guy/)**
 
-1h ago
+5h ago
 
 ---
 
 **[America Is Importing Bitcoin and Exporting Dollars. Guess Which One It Can’t Print.](https://www.reddit.com/r/Bitcoin/comments/1x8v7fv/america_is_importing_bitcoin_and_exporting/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 7h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 10h ago
 
 ---
 
 **[we need bull street ✔](https://www.reddit.com/r/Bitcoin/comments/1x920ik/we_need_bull_street/)**
 
-16m ago
+3h ago
 
 ---
 
 **[Bitcoin for the street?](https://www.reddit.com/r/Bitcoin/comments/1x8njfh/bitcoin_for_the_street/)**
 
-13h ago
+17h ago
 
 ---
 
 **[Still buying the dippity dip](https://www.reddit.com/r/Bitcoin/comments/1x8b7rh/still_buying_the_dippity_dip/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+9h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Also, what are other black swan events that could shock the price of bitcoin up or down?
 
-15h ago
+19h ago
 
 ---
 
@@ -139,7 +139,7 @@ Also, what are other black swan events that could shock the price of bitcoin up 
 
 A vanity address is one where you pick the first few characters and let a program grind through keys until one matches. We rewrote our glossary entry on them this week (the old one had the split-key part backwards, more on that below) and figured we should run a couple of searches ourselves instead of quoting other people’s numbers. Setup: VanitySearch on a MacBook Pro with an M3 Max, 12 CPU threads, no GPU. About 74 million keys a second once the machine wasn’t doing anything else. Search 1: 1LearnBTC, letter case ignored. Found 1LeArNBtcECPZj7Bd5oeNcUJnhpVddy81U after 46 minutes and about 203 billion tries. That’s half the average for the pattern, so we got a bit lucky. Search 2: bc1qlearn8tc, exact. Found bc1qlearn8tcerg966qrqtwaelyt06fq2ze7zrsg9t after 6 hours and 1 minute and about 1.24 trillion tries. 12 percent more than average, so slightly unlucky. Why the gap? Both patterns pick eight characters. But bech32 addresses are all lowercase, so there is no “any case” shortcut. In the legacy search most letters had two chances out of 58 to match (e or E, a or A, and so on), which cuts the work a lot. On average the bech32 job was 2.7 times bigger. The gap from 2.7x to 8x was luck. A vanity search is a lottery you keep playing until you win, and sometimes you win early. Two things we learned writing it up: The bech32 alphabet has no 1, b, i or o. So bc1qlearnbtc is impossible, which is why we searched for bc1qlearn8tc instead. Never let a website generate a vanity address for you. Whoever generated the key can spend from it, whatever they promise. Run the tool yourself, or use split-key generation, where you keep a secret the searcher never sees. Our old entry said neither side sees the full key with split-key. That was wrong: you do, the searcher doesn’t. Fixed, and logged on our corrections page. Full entry, free, no ads: https://www.learnbitcoin.com/glossary/vanity-address
 
-18h ago
+21h ago
 
 ---
 
@@ -151,7 +151,7 @@ A vanity address is one where you pick the first few characters and let a progra
 
 A group of crypto companies is trying to settle one of the industry’s murkiest questions: what it actually means for a blockchain network to be safe from…
 
-Decrypt • 20h ago
+Decrypt • 1d ago
 
 ---
 
@@ -161,11 +161,27 @@ Barron's • 2d ago
 
 ---
 
-**[Strategy stock falls as Michael Saylor's bitcoin giant faces index-level threat](https://finance.yahoo.com/markets/crypto/article/strategy-stock-falls-as-michael-saylors-bitcoin-giant-faces-index-level-threat-144934435.html)**
+**[Bitcoin’s path to $100,000 splits analysts as rate risks loom](https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook)**
 
-Strategy stock fell more than 3% on Friday after index provider MSCI announced new eligibility rules that could lead to the removal of Michael Saylor's bitcoin juggernaut from its global stock indexes.
+Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.
 
-Yahoo Finance • 1d ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-shed-nearly-1-150104464.html)**
+
+Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor Reveals Why Wall Street Prefers Cash to Bitcoin](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-reveals-why-wall-124758306.html)**
+
+Michael Saylor admits STRC buyers trust dollar reserves more than Bitcoin backing. Here is what Strategy changed to restore its $100 par.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -177,27 +193,23 @@ Muddy River Sports • 2d ago
 
 ---
 
-**[Scammer who duped job seekers loses $4.9 million in bitcoin to Ledger spy-chip exploit](https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin)**
+**[Bitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab’s Adam Lynch Warns A Midterms Risk](https://www.tradingview.com/news/stocktwits:8e404b97a094b:0-bitcoin-bounces-off-its-lowest-point-in-a-month-but-charles-schwab-s-adam-lynch-warns-a-midterms-risk/)**
 
-A scammer who stole millions through fake online jobs became a high-profile victim of the CryptoBilis Ledger hardware implant breach.
-
-CoinDesk • 2d ago
-
----
-
-**[BlackRock sells $71.78 million in Bitcoin as ETF redemptions pile up](https://www.tradingview.com/news/cryptobriefing:d7adefbdd094b:0-blackrock-sells-71-78-million-in-bitcoin-as-etf-redemptions-pile-up/)**
-
-BlackRock has sold $71.78 million worth of Bitcoin, according to a widely shared post on X. That number sounds dramatic when you attach the name of the world's largest asset manager to it.The reality is more mundane, and arguably more telling. The selling traces back to investors pulling money out…
+Bitcoin (BTC) rebounded from its lowest point in nearly a month on Saturday, but Charles Schwab’s (SCHW) Adam Lynch warned that midterms could “grind [crypto industry] to a halt”.Lynch, Director of Equity Research at the Schwab Center for Financial Research, made the comments in an interview with S…
 
 TradingView • 1d ago
 
 ---
 
-**[As Bitcoin Matures, Altcoins Face a Reckoning. Here's Which Ones Have a Real Use.](https://www.fool.com/investing/2026/10/18/as-bitcoin-matures-altcoins-face-a-reckoning-heres/)**
+**[Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/)**
 
-Many altcoins have limped along for years without a real investment thesis.
+Forbes • 3h ago
 
-The Motley Fool • 2h ago
+---
+
+**[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806)**
+
+Investing.com • 9h ago
 
 ---
 
@@ -206,20 +218,6 @@ The Motley Fool • 2h ago
 Strive’s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares.
 
 The Block • 1d ago
-
----
-
-**[Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?](https://247wallst.com/investing/cryptocurrency/2026/10/17/peter-schiff-says-sell-bitcoin-and-buy-gold-is-he-right-this-time/)**
-
-Peter Schiff is again telling investors to sell Bitcoin and buy gold. Gold has lost less in 2026, but how reliable are his calls?
-
-24/7 Wall St. • 23h ago
-
----
-
-**[Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate](https://beincrypto.com/anthropic-junk-rating-bitcoin-question/)**
-
-BeInCrypto • 11h ago
 
 ---
 
@@ -261,7 +259,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chain inputs from our own full node. No key, CORS open. - multiassist/bitcoin-barometer
 
-⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
+⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
 
 ---
 
@@ -281,7 +279,7 @@ Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ F
 
 📺 Altcoin Daily
 
-👁️ 79K • 👍 2K • 💬 113 • ⏱️ 9:23 • 15h ago
+👁️ 89K • 👍 2K • 💬 122 • ⏱️ 9:23 • 19h ago
 
 ---
 
@@ -291,7 +289,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 281 • 💬 113 • ⏱️ 8:38 • 14h ago
+👁️ 15K • 👍 300 • 💬 119 • ⏱️ 8:38 • 17h ago
 
 ---
 
@@ -301,7 +299,17 @@ Elon Musk says AI will bring universal basic income and that money may stop bein
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 1K • 💬 129 • ⏱️ 17:56 • 1d ago
+👁️ 38K • 👍 2K • 💬 131 • ⏱️ 17:56 • 1d ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
+
+BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 350 • 💬 99 • ⏱️ 20:42 • 6h ago
 
 ---
 
@@ -311,7 +319,7 @@ Elon Musk says AI will bring universal basic income and that money may stop bein
 
 📺 Benjamin Cowen
 
-👁️ 181K • 👍 5K • 💬 376 • ⏱️ 1:11:56 • 1d ago
+👁️ 187K • 👍 5K • 💬 380 • ⏱️ 1:11:56 • 2d ago
 
 ---
 
@@ -321,7 +329,7 @@ Bitcoin is boring now, and that's exactly why it can hit $1 million per coin. In
 
 📺 Blockware
 
-👁️ 13K • 👍 275 • 💬 126 • ⏱️ 15:11 • 20h ago
+👁️ 15K • 👍 306 • 💬 134 • ⏱️ 15:11 • 1d ago
 
 ---
 
@@ -335,23 +343,23 @@ Is the AI bubble about to burst, and is Bitcoin already pricing in the next mass
 
 ---
 
-**[Tom Lee : “This Changes Everything for Bitcoin and Crypto&quot; (New 2026 Bitcoin and Crypto Prediction)](https://www.youtube.com/watch?v=VQdhjFFw2rg)**
+**[Even I’m Getting Nervous](https://www.youtube.com/watch?v=PHd6bhMzFJc)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
-📺 Crypto Nutshell
+📺 Altcoin Daily
 
-👁️ 7K • 👍 143 • 💬 12 • ⏱️ 26:25 • 8h ago
+👁️ 63K • 👍 2K • 💬 80 • ⏱️ 8:46 • 1d ago
 
 ---
 
-**[Bitcoin Is Going to $250,000. Here’s Why!](https://www.youtube.com/watch?v=MYdVd4ldoWo)**
+**[Is the Money Coming Back for Bitcoin?](https://www.youtube.com/watch?v=I0xDs3CzG54)**
 
-Bitcoin Is Going to $250000. Here's Why. Bitcoin to $250000? Here's my full case. Bitcoin has hit a new all-time high roughly every ...
+The world's money supply hit an all-time high in September, about 125 trillion dollars, and a lot of people in crypto say that's all ...
 
-📺 MoneywithSwAbi
+📺 More Crypto Online
 
-👁️ 8K • 👍 115 • 💬 16 • ⏱️ 9:42 • 22h ago
+👁️ 16K • 👍 527 • 💬 33 • ⏱️ 17:10 • 12h ago
 
 ---
 
@@ -361,17 +369,7 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 13K • 👍 704 • 💬 26 • ⏱️ 4:15 • 8h ago
-
----
-
-**[Bitcoin and AI with Jordi Visser](https://www.youtube.com/watch?v=G-HqvP7pjVk)**
-
-Alex Thorn talks with investor Jordi Visser about bitcoin, tokenization, artificial intelligence, and theses for the market over the next ...
-
-📺 Galaxy
-
-👁️ 21K • 👍 478 • ⏱️ 1:20:24 • 1d ago
+👁️ 17K • 👍 788 • 💬 32 • ⏱️ 4:15 • 12h ago
 
 ---
 
