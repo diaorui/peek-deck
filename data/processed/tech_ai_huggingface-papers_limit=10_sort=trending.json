@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 114,
+      "upvotes": 115,
       "num_comments": 1,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
@@ -32,7 +32,7 @@
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
       "upvotes": 28,
-      "num_comments": 4,
+      "num_comments": 5,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
       "github_stars": 5722,
@@ -149,7 +149,7 @@
       "num_comments": 3,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 1420,
+      "github_stars": 1462,
       "project_page": "https://nanomuse.cn/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-18T21:17:24.542317+00:00"
+  "fetched_at": "2026-10-18T23:31:25.306180+00:00"
 }
