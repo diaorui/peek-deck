@@ -9,7 +9,7 @@
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
-      "pub_date": 1792124959.0,
+      "pub_date": 1792125690.0,
       "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
@@ -25,24 +25,24 @@
       "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
     },
     {
-      "headline": "Ethereum Is Testing Blocks Over 3 Times Bigger. Could That Help ETH Catch Up With Solana?",
+      "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThjSkYyXzJIanJDb1FwQnBObmdRSUVMY3puYlh3OF9GaDVFQnVyaFFoUmNzSHMtdmxQNXNWQzJvbjhzLVNFeEk4NDdXYnRzU1hxYzRGcUdzZlU2ZjRWQjRSR2tQelF1Z3IzY2VGVDVRNTN5bl9OendtTUJkcUZiaGdZM3VwZFJ0MlhQWEJiYjZZRnRDRXFfcEwtbw?oc=5",
-      "pub_date": 1792354824.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-testing-blocks-over-3-202024973.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d3b023ccc4efc30a329b302904c5d8acb7bcdef93c2684274e53c48737387eb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fc40e8861b1f7f28ad7da940f3bc52373.jpg",
-      "description": "Ethereum is quietly running tests that could reshape how much work its network can handle at once, but a bigger question looms: will any of it matter if the mainnet upgrade has no launch date and traders are already walking away?"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
+      "pub_date": 1792342372.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ede7d4f4596f2b5b2011ee6e711a4515c47e88cd03f8b27ae28af1eaafe7bf3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fa00004adcdf2f821db505487b4120aad.jpg",
+      "description": "According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours."
     },
     {
-      "headline": "Saylor and Yusko's BTC Price Target, Bitmine's ETH Purchase and More: This Week in Crypto",
+      "headline": "Ethereum\u2019s \u2018World Computer\u2019 Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTkhQOTJJaENoRXlLel9GelJRWHp6a1lIUGNibWFaZWxveHoyN1hIRG5oVFU0enhjanhVay1LTDNET1VrN2VXUnJ4ell0RUVNN2lkLTcwLUNoLXpIX0ptUFMwdlZRMHZXQ1k1SGE4OVhJbW12V1hybVBmMVhtQkNMeTJnN3ZaTDRvWGpxb2FoSUZQMkczWGFGUVhSZGo5RWlubDh6VmxOOGRkMXZBY0pTakg2Y19wMmNuc2RwTEJnV0xkOThtbWxqdVdnQ2RVWmQxbDhreXFzR2dISTQ2aktV?oc=5",
-      "pub_date": 1792324807.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:72c880488094b:0-saylor-and-yusko-s-btc-price-target-bitmine-s-eth-purchase-and-more-this-week-in-crypto/",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUnRYcElfdEllMFZvTUZYaDVmdmVyUEV5bDUzLVlRUXNkSnl3dkNTRTJ1UERzeUhCeUVLbnFidDRxaDZHZlkyYW1Td0Fua2RJQ0M1X045X2l4Nkt5RXk3NVZJY3ZWZVp5bV9HQkFaMXh0bHVZNlViWnQzZHkyM0dYUWpmLVFKSjZDODJya2RfOHdWUGVWZk43c1NaRDB1WUNiMmhfNGlMLVNPT3lCT08yMnN2LVdPWmE2M1otbmMyOXhvOWlxSEwwQmZBM0ZoRFZiMUdsWkstMlhlMnBkbVZ3NzQ4R3F0dXo3YjdWWW03dw?oc=5",
+      "pub_date": 1792347822.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin\u2019s latest market debate mixed bullish price targets, cautious timelines and a corporate buying strategy that may soon hit its own limit. Meanwhile, analysts highlighted Ethereum and NEAR Protocol as potential winners, while new research revived questions about whether quantum computing could\u2026"
+      "description": "Ethereum (ETH) was wrong with its \u201cworld computer\u201d idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight\u2019s approach as \u201cWhat they got wrong with this idea of one giant shared w\u2026"
     },
     {
       "headline": "Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?",
@@ -65,14 +65,24 @@
       "description": "Claude traced P-256\u2019s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain."
     },
     {
-      "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
-      "source": "Stocktwits",
-      "source_url": "https://stocktwits.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT2cwME1TcHQ3REg2TlhPckRHTEtZQ3l0NjUwWHNteWRkQ2hOQWdWNk9vaDFNdWRfVnlRc3pFc3RMR0tsRE9qOE12cUdvM3VqTlY3TnhfaFhNeUlZeFJSWk1yM01QUmJHalZPb3lIRzdCX0dTYkZrMy1qUXBPZXhuRVphMjZLcE4zSjNzTU1jS3FHTmY4N2lENDN5RjZFcTE3V3ZEZW9hQ0E4WFZIbDNkWUJaVWR2OXlWSlVfR3BmUmpPYWVBVzg3QktHZngtSjJNd2VCWFo1QUxtU2toQXY5Y090dDc4YldCX2lfZg?oc=5",
-      "pub_date": 1792342320.0,
-      "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/black-monday-fears-rise-dollarm-ai-chip-bets-get-liquidated-bitcoin-near-danger-zone/cZxNVSaRBts",
-      "image": "https://news.stocktwits-cdn.com/large_Getty_Images_485131888_3898d4689f.jpg",
-      "description": "Bitcoin (BTC) traded just above a cluster of leveraged long bets on Sunday. Traders who piled into AI chip stocks lost about $33.8 million on crypto exchanges a day earlier. The wipeout hit contracts tied to Micron (MU), SanDisk (SNDK) and SK Hynix (SKHY)"
+      "headline": "Current price of Ethereum for October 16, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HYWpER1o5Rm02aHc1SGt4MEp0WlJXZFl1QVF6OU9WLTEySmRadlRIUy1pcWxWU1R3NkFSckRGMmo3cDI3WFZSRDZpYm8zODdmYXM4dmVGcEtRMlZQR0QyLVdhOW53X25N?oc=5",
+      "pub_date": 1792188425.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-16-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-16.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWE9DY1pLVm5tZ0E2bXdsQ3FCb3dzUmdncmZUYlJ5LXljdEtIazN4UGlJOVRrdHhJSHJHWjROZjFpUm5ibWhDR1JsWnVnSndwcmNqYTRPRkJRNXZ5LUtQVGgtWmJwa2xaaFBZREE0VThUa2pVQ1RxVE5MU3NmVGxpQV9PbUdPS0JtLXJCNjM4NjFVQjdEajVV?oc=5",
+      "pub_date": 1792151100.0,
+      "article_url": "https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890876%2Finvestor-ponders-a-screen.jpg&w=1200&op=resize",
+      "description": "The odds of these coins being worth more in five years are quite high."
     },
     {
       "headline": "Bitcoin ETFs post $82.39 million in net outflows as Ethereum funds shed $69.68 million",
@@ -83,16 +93,6 @@
       "article_url": "https://cryptobriefing.com/bitcoin-etfs-82-million-outflows-october-16/",
       "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/17012215/library-bitcoin-etfs-post-82-39-million-in-net-outflows-as-ether-800x450.png",
       "description": "Bitcoin ETFs saw $82.39 million in net outflows on October 16 while Ethereum ETFs lost $69.68 million, extending a weak October for crypto funds."
-    },
-    {
-      "headline": "Ethereum: Head and Shoulders Pattern Persists Daily",
-      "source": "Blockchain News",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGpDSVNMRDJlRGh3b0VTNkVUeVRqS2hIVkU4ZjRZdVFsSlZYUkl1bzVjUFlxb29pdU03c0MxLXR1ZnpHV2dwcXBxOW9ZYjZMR0lRQkNkYlVucTlHd2EyS0F3ZWpOVTYzZnAyMlVIcnp3Zkl6MGMtbnBvUlRqeVppdkgxdWlVNTQ?oc=5",
-      "pub_date": 1792212300.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-head-shoulders-pattern-persists-daily",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Trader Tardigrade reports that Ethereum's daily chart keeps a Head and Shoulders formation active with a $2390 neckline breakdown trigger and $2776..."
     },
     {
       "headline": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T21:17:35.869128+00:00"
+  "fetched_at": "2026-10-18T23:31:33.959909+00:00"
 }
