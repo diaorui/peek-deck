@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI Agents Trading Stocks While You Sleep? Charles Schwab\u2019s CEO Is Skeptical",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUJFUjM3bVJWWGlGRXJPUllTcTJkMXlfSEY0UkRRanlKNkxuR18ySW9QU3ZxbDJZWnEwalh0YWZRNEtXeTdtTzYwSzVTSGFxbzdjSnNIdGd1QVZWQ09lbnFmN21QNWhDTXFuSmlKazZOczJBNXBlT1p0NHhtWTA1a09fZnp0N3BJWjFmQjl6ZlZrWnhpbEdIWFBoOUMtVTJCR2tERGc0YUFBbk1nNkJj?oc=5",
-      "pub_date": 1792354980.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,12 +15,22 @@
       "description": "Wall Street still sees more gains for stocks heading into the end of the year."
     },
     {
-      "headline": "The AI Selloff Is Spreading To The Stocks Investors Thought Were Safe",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXFYQlFLbW5YNzB6Sm5Qdm1LM2JPdFVJT0pJRjVCaW10WWktZGtfNjVyX0RIbVc2d18xNVZCRmNWcmxaNVRnQWt3SlBaMENGQUNpT0dEQ2NqdXFzOXA3TXp4YzBUZndPVkpoa1M5anFBTFNkdTBOakx5WUFDQjJienZYaTBZZWdacVF6dEVGd3F3Nm82eHE0M0ZUbUVDazJ5Rkc2NlBjWmlTYlR2SU1xUEtDSG9FQ3hac29v?oc=5",
-      "pub_date": 1792357219.0,
-      "article_url": "https://www.forbes.com/sites/jimosman/2026/10/18/the-ai-selloff-is-spreading-to-the-stocks-investors-thought-were-safe/",
+      "headline": "Buy these 2 stocks amid AI financing concerns: Analyst",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjlkVVFaN2JGYUZ6RlkzRzNMOGJEbmt4cUY1eXdmdVRDUndNREJXSjhsV21OaHRtalZpRHlTVXFHQjZxZ2tVZWhES3ktX1ZJT1JfLVV4c2g4WEJZcTFjcXdmNTNITDBIMHJNdzRseFFOT1QtMWlNelowQU81Wld5M09WNmJEZUpienk4YnNB?oc=5",
+      "pub_date": 1792327595.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/buy-2-stocks-amid-ai-124635934.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com -- The withdrawal of the Firmus IPO has raised some concerns, but Truist analysts believe it is only a matter of time the quality of the digital platforms and IT services space becomes clear. In their recent note, firm analysts identify two cloud providers with backlogs providing meaningful revenue visibility, and say the softness in their shares is a buying opportunity."
+    },
+    {
+      "headline": "Option Traders Brace for Volatility Surge as AI Jitters Jolt Market",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1tRVVVWVR1dzZ0a1oyQWZVZVhyTnZ6aTBpYlhIWjV1UjJVUGNvaTloT3dwZHZhMEY3bzA1emFFaVZ5MmM0OEFFOS1aYmNOY2lvRXlWaDhlZmJDZ1dOT28wVlBtSUJKQWtoaS14ems0dmJqVHpEWTZoNXo1dkMwMFZoZkljRWtIa2I4NlM5R096NlpKd004QnFfLW1nR2lkcHNNd29DeHJKRktyMnoyTg?oc=5",
+      "pub_date": 1792332000.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
       "image": null,
       "description": null
     },
@@ -45,54 +45,14 @@
       "description": "LinkedIn is upping its fight against generic, low-quality AI posts on its platform."
     },
     {
-      "headline": "AI's future runs through credit desks",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41MVV6Q080RmZVV2JhOXA0bjZzQktKRG0wRDNwd2xlY3ZlRlN2aVhJNnlzWFNibHNZdXg1ZHNqaWpCemFqYXo1OVBhNW1jb1hhcjdBMmMtQmxjRVlnU1BaUFRPSFJHLXZnNzNlNGFMRXBvcmhRYWc?oc=5",
-      "pub_date": 1792357200.0,
-      "article_url": "https://fortune.com/2026/10/18/nvidia-ai-financing-capital-markets/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/IMG_8771.jpeg?resize=1200,600",
-      "description": "Europe has the savings. China has the state. The U.S. has the financial plumbing."
-    },
-    {
-      "headline": "Finance Chiefs at Arm, Synopsys Talk AI\u2019s Risks and Rewards",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWllQaE5TRFBTa0pfakpOZk56dHFJd2xlSkttMmFrenU3OVl5SVFYcWw2RmNtWGE4UVFfa1NxZFpMNjdsSGNmNUZvT0I3bnZXVnhUUWMzNlRqRkxmSTczYlBBbE9zeXBtN0Z6NERWWVl4YVZ6SW4xMjh5SE9jNXk4V1RjUWd2clkxc3dKckpB?oc=5",
-      "pub_date": 1792353601.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-18/ai-s-risks-and-rewards-arm-snps",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYV9XcVY2aS1JbHVhcDRTeHdTYlc1N3MwR3NVd3JzRkFOZUZtMk9NMmJQZGlOYVhvdVFtRDY3MzJkdDhPSU5TNHJYMHlpd2pHcEU5SHE2MG9YY29CZnZpYTZpZkl4RGoxOWNubXd4RS1LY21BYTJNQUY4R1JuNWN3dW94a05qLXZoT0dsV1NuUzJqVG95eWh6eTIyQzZ3SG1kOWl0eUdDd25VSEhlYzJ3WkZiN1UxNngxRU1UaE1R?oc=5",
-      "pub_date": 1792326351.0,
-      "article_url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/kenneth-walker-iii-patrick-mahomes-touchdown.jpg",
-      "description": "ChatGPT beat its human rival for a second straight week in NFL betting, but the overall season unit lead is shrinking heading into Week 6 picks."
-    },
-    {
-      "headline": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5",
-      "pub_date": 1792307220.0,
-      "article_url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbEdtcm9pNXNFU2h1dUxVN2c4NGVIM2o1OTZ1QXlDNXlLSWZkUnI0N2pObVVUWmRkajhieS1hT2s3dUk3WlFZekRYOU1CNE1SVHp2MkIyMHVpNS0xSW1OZ3ROUG5uN3dLbkhDMVpZR2RGcVRwSTVTbUotZw?oc=5",
-      "pub_date": 1792297444.0,
-      "article_url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
-      "image": null,
-      "description": null
+      "headline": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5",
+      "pub_date": 1792278240.0,
+      "article_url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108291032-1776170422892-gettyimages-2270740029-IMF_WORLD_BANK.jpeg?v=1776170454&w=1920&h=1080",
+      "description": "Anthropic's Jack Clark said international cooperation was needed to set \"unusual and serious rules\" for transformative technology."
     },
     {
       "headline": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them?",
@@ -103,8 +63,48 @@
       "article_url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
       "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0febd2f8692eef6ecd233dd9e7cb3d09",
       "description": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year"
+    },
+    {
+      "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YejV2dXEyYXpFUWJkMzZlMmVTczlHREhYdW5yT2dhbEplTFpBRnlvamlEaEFqWVJzdXhMOEdsVWx3OHhVU0d5dVVLckVtRl9FOHBzSzhKOE1oeGc4bVlsaDYzVzE1UUFHYlI2SHNEYzVXWUllSjV1MtIBfkFVX3lxTE5YWlRXWDhCbm01QjlQVHZKb21HV1FlZGNyQzlRVVV5MUFEal9jLXlwbFVJYU5CajJVcGwzQ0NxeWVXMl8yX0pqbENNQ3RmbU92VWpSTl9KeDFKNHdTa3VaX3BEVl92WTdiczlURW9WWmZZbm81ZDFlWnRoZXdoQQ?oc=5",
+      "pub_date": 1792364148.0,
+      "article_url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+      "description": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used."
+    },
+    {
+      "headline": "Don't fall for this - how to protect yourself from AI scams",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JUFhib09ESkVnYlNhYkdHU0d6UzBnRFF1MDloOGMxd3lLZm5LLUwxUWhNMVBTb3ExMmhEWWo5NVRyN1dqbExkcTBLQ3VveFNJMDJsaEx2YlNMZUk?oc=5",
+      "pub_date": 1792365899.0,
+      "article_url": "https://www.bbc.com/news/articles/c60rl1xvjv89o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+      "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
+    },
+    {
+      "headline": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdllCaHBIdzY1OVhGakdCR1BtUFV1alFEb2pWZU14TUxpTE1zcHFqR2tvUXMyVzFRR1F0eUgta2Y0LS1sdFI1M1dsdWpJY3pKY0N4TndyTXNqNHhFb2tzSDdyRzE5dHVpaTROWW9LSm9RWnY3bWF6V0ljNVhHMm5OOVNraVowUnhQaEYwVHRVc2hCN2FjVjRZMUpaTFZLOWJ0bWtyOUhnbGJ3NHJIekRzeDFzcw?oc=5",
+      "pub_date": 1792364400.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-18/taiwan-dollar-bulls-look-past-ai-led-selloff-to-year-end-rally",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5",
+      "pub_date": 1792307220.0,
+      "article_url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T21:17:40.648830+00:00"
+  "fetched_at": "2026-10-18T23:31:40.409074+00:00"
 }

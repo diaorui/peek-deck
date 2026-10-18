@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Is AI helping speeding up the medical research?",
-      "author": "jorgenalm",
-      "url": "https://www.reddit.com/r/artificial/comments/1x955ia/is_ai_helping_speeding_up_the_medical_research/",
-      "published": 1792335208.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Are we seeing any results here, is AI helping the process? So many people are suffering from chronic illnesses. Conditions that are not curable today but could be in the future. How much is AI helping humanity reaching a state where more chronic conditions could be cured once and for all? It would be a disappointment if AI was only used to level up technology, I hope it could help the medical research today. We're living in 2026 and there shouldn't be so much suffering from chronic disorders. I hope AI could help the research and in the future give these people their lives back. What do you think, are you optimistic when it comes to AI's chances of helping medical research?"
-    },
-    {
       "title": "Is anyone else feeling severe burnout from the current pace of AI releases?",
       "author": "irish_burke",
       "url": "https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/",
@@ -22,6 +11,28 @@
       "site_name": null,
       "favicon": null,
       "description": "Maybe it's just me, but trying to keep up with the state of the art right now feels less like following an industry and more like running on a treadmill that keeps speeding up for no apparent reason. Every single week there's a new model, a new benchmark claim, or a new \"paradigm-shifting\" agent framework that\u2019s supposed to completely rewrite how we work. But when you actually look at day-to-day implementation, half the time it feels like we're just recycling the same core workflows with slightly better wrappers, while chasing marginal gains at massive infrastructure costs. I spend a good chunk of my day dealing with these tools, and lately I've found myself actively tuning out the hype. I care way more about boring things like stable local inference, deterministic outputs, and actually finishing a project without a dependency breaking, rather than whether Model X scored two points higher on a benchmark I'll never use. Are developers and enthusiasts actually exhausted by this relentless cycle too, or are you guys still finding genuine utility in keeping up with every drop? Where is your personal line where the hype stops being worth paying attention to?"
+    },
+    {
+      "title": "What the Tech Oligarchy Needs to Understand",
+      "author": "gastogne62",
+      "url": "https://www.reddit.com/r/artificial/comments/1x9f3m0/what_the_tech_oligarchy_needs_to_understand/",
+      "published": 1792359316.0,
+      "thumbnail": "https://external-preview.redd.it/2iPnRZLM4S7_mZIHwyr3fF2JllDznNUsfiQCcyMfOzQ.jpeg?width=320&crop=smart&auto=webp&s=f193c4bb651d861f7884c2eba486fd6b0f57182c",
+      "external_url": "https://goodmenproject.com/featured-content/what-the-tech-oligarchy-needs-to-understand-kpkn/",
+      "site_name": "The Good Men Project",
+      "favicon": "https://goodmenproject.com/apple-touch-icon.png",
+      "description": "The article challenges claims that AI is a path to superintelligence, showing, instead, that it is an error-prone tool (a super-stupidity) that requires constant human oversight and will always lack moral judgment and genuine understanding. The article also criticizes major technology companies for spending lots of money to promote AI as revolutionary and civilization changing in order to justify their investments, warns of job losses and growing inequality and condemns the industry's political alignment with Donald Trump. The article also asserts that the boys club of tech oligarchs increasingly resemble Labubu: strange, unsettling and oddly amusing all at once, who really don\u2019t know what they are doing and don\u2019t care as long as they can make money beyond their massive expenditures and debts. The article argues that artificial intelligence imposes enormous environmental, economic and social costs while delivering benefits that are clearly exaggerated, limited or not worth the environmental tradeoffs. Overall, it presents AI as a dangerous and overhyped technology being advanced by powerful and irresponsible corporate interests whose promises of serving humanity are nonsense."
+    },
+    {
+      "title": "Is AI helping speeding up the medical research?",
+      "author": "jorgenalm",
+      "url": "https://www.reddit.com/r/artificial/comments/1x955ia/is_ai_helping_speeding_up_the_medical_research/",
+      "published": 1792335208.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Are we seeing any results here, is AI helping the process? So many people are suffering from chronic illnesses. Conditions that are not curable today but could be in the future. How much is AI helping humanity reaching a state where more chronic conditions could be cured once and for all? It would be a disappointment if AI was only used to level up technology, I hope it could help the medical research today. We're living in 2026 and there shouldn't be so much suffering from chronic disorders. I hope AI could help the research and in the future give these people their lives back. What do you think, are you optimistic when it comes to AI's chances of helping medical research?"
     },
     {
       "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
@@ -35,17 +46,6 @@
       "description": "An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?"
     },
     {
-      "title": "Has anyone found a way to reverse engineer Alexa yet? I'd like to customize it my own way",
-      "author": "xMoonknightx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x93tdo/has_anyone_found_a_way_to_reverse_engineer_alexa/",
-      "published": 1792331697.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Title"
-    },
-    {
       "title": "Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?",
       "author": "burdgod",
       "url": "https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/",
@@ -55,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say \"What?\" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said \"Craig\" instead of \"Greg\" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)"
+    },
+    {
+      "title": "Has anyone found a way to reverse engineer Alexa yet? I'd like to customize it my own way",
+      "author": "xMoonknightx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x93tdo/has_anyone_found_a_way_to_reverse_engineer_alexa/",
+      "published": 1792331697.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Title"
     },
     {
       "title": "Which AI limitations have you stopped waiting on and just learned to work around?",
@@ -68,49 +79,38 @@
       "description": "not looking for rants, just curious what people have accepted and how they deal with it. things like wrong dates, long documents, or drifting from instructions. what do you do about it in practice?"
     },
     {
-      "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
-      "published": 1792324161.0,
-      "thumbnail": "https://external-preview.redd.it/WQgCgikvM-i6VJiuGRzpFeu9OEcaArL-FoQYgB08Z1U.jpeg?width=640&crop=smart&auto=webp&s=223791ae0d46f96af8d426bbe00139c97a8e7f52",
-      "external_url": "http://vectorwire.ai/article/distillation-attack-on-opencode-drains-users-api-keys-for-anthropic-openai-googl-a5ce5a",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Anomaly Innovations disclosed that attackers breached OpenCode Console, hijacking stored API keys for Anthropic, OpenAI, and Google models and running up\u2026"
+      "title": "In the AI era and Windows 11 times, can you troubleshoot old school ms-dos PC?",
+      "author": "No_Twist_678",
+      "url": "https://www.reddit.com/r/artificial/comments/1x9gcdz/in_the_ai_era_and_windows_11_times_can_you/",
+      "published": 1792362587.0,
+      "thumbnail": "https://external-preview.redd.it/YmN4c2F6ODZ5YXdoMSmWNUeMg828a0qZ1ZJuLmShFCaibSTa3bl6lzIlkiH4.png?width=640&crop=smart&auto=webp&s=086bfb41d97cb975f63f9e0d5ba2c6eede06f72d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "try your own retro pc here https://retro.bioneural.de/ you can even add own retro pc parts, setup bios (not everything is set), you can install own msdos software, delete, damage, like with real old pc ;) for some it admins, challenges awaits, old school msdos scenarios , from simple ones to tough ones."
     },
     {
-      "title": "AI or Wikipedia?",
-      "author": "JaguarOriginal3882",
-      "url": "https://www.reddit.com/r/artificial/comments/1x94b4y/ai_or_wikipedia/",
-      "published": 1792332993.0,
+      "title": "US Artificial Intelligence Expansion Faces Major Hurdles",
+      "author": "rawsynergy",
+      "url": "https://www.reddit.com/r/artificial/comments/1x9g6ec/us_artificial_intelligence_expansion_faces_major/",
+      "published": 1792362133.0,
+      "thumbnail": "https://external-preview.redd.it/e7eNDEXW8t2YrfTHnrCEYSqfxfJR1QQO_4p3IO600L0.jpeg?width=640&crop=smart&auto=webp&s=37e8e99b783d9139f8b26eb506202a41fc9af5fe",
+      "external_url": "https://www.therundwn.com/f832acd0-ba1f-4646-8956-d853e22a884d",
+      "site_name": "therundwn.com",
+      "favicon": "https://www.therundwn.com/favicon.ico?favicon.3fpu2ql9ns1a0.ico",
+      "description": "The multi-trillion-dollar artificial intelligence infrastructure expansion in the United States is encountering severe setbacks due to financial pressures and opposition."
+    },
+    {
+      "title": "Need Help to build a AI design Agent",
+      "author": "Melodic_Elk_4383",
+      "url": "https://www.reddit.com/r/artificial/comments/1x9fpmb/need_help_to_build_a_ai_design_agent/",
+      "published": 1792360900.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Since the emergence of large AI models, has Wikipedia seen any measurable decline in usage, relevance, or community contributions\u2014or has AI actually increased its importance as a source?"
-    },
-    {
-      "title": "China's Tencent says AI agents showed unintended browsing behaviour",
-      "author": "RareEarthPetal",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/",
-      "published": 1792308763.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "How to save potentially hundreds of $$$ by setting up an AI agent for your trips",
-      "author": "Calm_Cartographer324",
-      "url": "https://www.reddit.com/r/artificial/comments/1x95nlx/how_to_save_potentially_hundreds_of_by_setting_up/",
-      "published": 1792336444.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "While most people still book their trips and do everything manually, there is a certain amount of people who use AI agents to do the booking part for them. This part already saves a lot of time and money in some cases if used correctly, but there are ways to also potentially save more if u use an AI agent even during the trip. First thing's first, they day you're gonna fly give it your flight number in the morning and set a schedule to check the status every 15-20 minutes until the departure. Give it the ability to message you (Telegram, whatever you use) as soon as if something like a delay or cancellation happens. It can tell you instantly about any constraints so you're not getting shocked at the line. It matters coz in the US if the airline cancels or delays you by more than 3 hours on a domestic flight (6 hours international) and you don't accept the rebooking or a voucher, you're owed a cash refund on your card within 7 business days. And if you fly from the EU and land 3+ hours late it's 250 to 600 EUR depending on the distance. It works only in problems that was caused by the airline like staff shortage. You can't get the reward if the reason is let's say weather because it's not in an airline's control. It's incredibly hard to keep track of the rules and understand what to do in what situations. But an AI can keep in consideration every rules. Second is if you booked a hotel that's refundable. Make a scheduled task that checks the price of your hotel all the time until the last day of the free cancellation. You'd want to do that because hotel prices sometimes go up and down a lot. So you might end up getting the same hotel for very much cheaper if the price goes down and you cancel the first purchase and buy it again. Third is the hotel bill. Before doing the checkout have it compare what you booked (the total with every fee) with what the front desk wants. Because there are resort fee, parking fee, city tax etc that gets added at the desk and it's easy to miss one when you're tired, especially if you've already paid them beforehand. It takes 2 minutes and if there's a charge you didn't agree to you can ask to remove it right there. All three of these work way better if the agent is the one that made the booking, coz then it already has the exact flight, accommodation, and every purchase you make in a package. It's certainly easier to book through AI than copy pasting information and emails in Claude every time to ask it to do something. Normal apps are unable to do web browsing freely. And the web versions like codex or Claude Code they can. But it can easily burn a lot of tokens if you don't have the right setup. I personally like to keep it easy and simple and use Claude with some simple tools from it's official directory. My setup revolves around these ones: Booking.com: https://claude.ai/directory/booking Tripadvisor: https://claude.ai/directory/tripadvisor Brek: https://claude.ai/directory/brek-hotel-wholesale-booking LetsFG: https://claude.ai/directory/letsfg These are from Claude directory because I've always used Claude for the task and I used these from the official directory. U can use them with any LLM or AI Agents just from a google search about their MCP. And at last, but not the least, enjoy your trip :)"
+      "description": "Hi everyone, I\u2019m trying to build an AI-assisted workflow for designing custom football jerseys. A customer should describe what they want in a prompt. An AI should turn that into a jersey design and a preview image. I already have a GLB jersey model for a 3D configurator. The hard part is getting from the preview to a correct production file: the design needs to be mapped onto the model\u2019s actual UV layout and cut pieces, then exported as a print-ready file for sublimation. A human will review and approve the design before production. I\u2019m considering using Claude as the main agent and OpenAI/ChatGPT as a specialist agent, with tools or APIs connecting them. How would you build this in practice? What should each AI do, what software or APIs are needed, and what information must I get from the GLB or manufacturer to produce a reliable print file?"
     }
   ],
-  "fetched_at": "2026-10-18T21:17:13.019534+00:00"
+  "fetched_at": "2026-10-18T23:31:16.011044+00:00"
 }

@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
-      "pub_date": 1792154400.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
-      "image": null,
-      "description": null
+      "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
+      "pub_date": 1792342372.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ede7d4f4596f2b5b2011ee6e711a4515c47e88cd03f8b27ae28af1eaafe7bf3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fa00004adcdf2f821db505487b4120aad.jpg",
+      "description": "According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours."
     },
     {
       "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
@@ -25,16 +25,6 @@
       "description": "A group of crypto companies is trying to settle one of the industry\u2019s murkiest questions: what it actually means for a blockchain network to be safe from\u2026"
     },
     {
-      "headline": "Arthur Hayes Says Quantum Computing Is No Reason to Sell Bitcoin. The Real Risk Is One Common Habit.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXR2WU1JMEhRU1BudklQWTJTQU42RHZMSHA3U1Mwd2dqdnZhWDFTaEZ2MDc2WnJYWGpQM1hZOGhZZzgtX0xTbTc0RExhOXhUa205UGZiekNfdm1OVkVRYmRRNGlMY2p1b2U5N2JYZzJxRmpfQzJjWXBIcFBuZnFVNWNiUVRxWFNhV1NUTjVmNEZINGVqbllLSVFSWVhwb2JxX0E?oc=5",
-      "pub_date": 1792356014.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-quantum-computing-204014969.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a8c85096bc000d45749204b71e56ad314285e6aea45b26f9adf47ad067d6c4ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff073d5da27c2a7ba47fec6245740601b.jpg",
-      "description": "BitMEX co-founder Arthur Hayes says quantum computing fears have Bitcoin holders spooked for the wrong reason, and the actual vulnerability hiding in plain sight has nothing to do with the technology itself."
-    },
-    {
       "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -43,6 +33,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
+    },
+    {
+      "headline": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin \u2018Bailout\u2019 Amid Price Crash Fears",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0VXdExqeEhJLUdMN1FqYjFKcGc1VTFlalRubDBkSXRXWTZVVVk0bmpOdkVnWTE5TFl2bnNBclBGVWZtYmVxUkJlRU5rbW1xbnZKS0VkcXY4NHVkUzRTUEx6SDJxNEZjNWZnTW9kVEFWV2hMdzN0dHczeUd4ZmFveThBd3pLSDJKWXdUMlFNZENhZlRodnhZMk8yUVpqVmJscXNzaTYtblF1dEhsZS1FclNnWlNhSjB3S0E?oc=5",
+      "pub_date": 1792328617.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin\u2019s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run",
@@ -65,16 +65,6 @@
       "description": "Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features \u2705mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino \u2705JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses \u2705Thunderpick 100% up to \u20ac2,000 Bonus rollover rules \u2705BitStarz Up to 5 BTC + 180 Free Spins Staged free spins \u2705Lucky Rebel..."
     },
     {
-      "headline": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin \u2018Bailout\u2019 Amid Price Crash Fears",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0VXdExqeEhJLUdMN1FqYjFKcGc1VTFlalRubDBkSXRXWTZVVVk0bmpOdkVnWTE5TFl2bnNBclBGVWZtYmVxUkJlRU5rbW1xbnZKS0VkcXY4NHVkUzRTUEx6SDJxNEZjNWZnTW9kVEFWV2hMdzN0dHczeUd4ZmFveThBd3pLSDJKWXdUMlFNZENhZlRodnhZMk8yUVpqVmJscXNzaTYtblF1dEhsZS1FclNnWlNhSjB3S0E?oc=5",
-      "pub_date": 1792328617.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
@@ -85,14 +75,24 @@
       "description": null
     },
     {
-      "headline": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTlJKTDRhVXZPZ1VLMENNUkRjU0wxZ2Zqd0t3cUQ3SU8tOWktTnhial9aaVdENW8taXVwSTBlVjhiempaUU05Qy15VzNfYUZGck5YRy14TktXeElab29qWk5yMmZVZmZBQU05QkstbHFicE94SFJ3WlFwbWhWTUJDN0ZSZXRONDhoZEh4SVNJLXJrb3ZYenQ5WWg3TmpEa0ktNmxORUVuSXZzZ0k0QWVCTlQ5QVdKYWRRV2VF?oc=5",
-      "pub_date": 1792182120.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png",
-      "description": "Strive\u2019s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares."
+      "headline": "Iran, Fed, bonds: 3 reasons bitcoin is unlikely to hit US$100,000 this year",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy13aUJqVV91el9hUFFrdHdsZjZOZlFNMFpWdFN5cExobDZuZGdYcHJpejJpN1d6Vm9zcWhSNU5ZdWVHUWdmY2ZtbjM2N0N4WVJmdDRUdHJjbjRQdE9ZSUtzYmxYemU4M0IxaVhmNmJJRzFYbnlnNkpnb01KM193T21iNGRyZ0VoVGFsLWxONi1sSWtSdlk5eHBKeGx2TjdwZUd1Y2EwYllHR2VTdENySzBPM2sydw?oc=5",
+      "pub_date": 1792364414.0,
+      "article_url": "https://www.scmp.com/business/cryptocurrency/article/3371238/bitcoin-making-comeback-risk-more-sharp-pullbacks-real",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
+      "pub_date": 1792154400.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T21:17:30.379950+00:00"
+  "fetched_at": "2026-10-18T23:31:34.908031+00:00"
 }
