@@ -25,14 +25,24 @@
       "description": "Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one."
     },
     {
-      "headline": "Bioinspired robot airdrops into remote waters via morphing wing-sail",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sSDBRQmNJb2xaTU9fYkxUNVRLc2ZzRVJPYU5HU3lMV3ZfUUluNjRyYW5yVXZTRkRVOG5HTkI1bV9OVlFieE1pY1Y0allZQmlaR3A0eWZrbFFJNTZfaXRNajRuTk9lZEkwb0dkVTlR?oc=5",
-      "pub_date": 1792264490.0,
-      "article_url": "https://newatlas.com/robotics/albatross-robot-sail-seed-boat/",
-      "image": "https://assets.newatlas.com/dims4/default/e9ab64d/2147483647/strip/true/crop/1964x1031+0+139/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fb6%2F45%2F9c4e5b844ef9b5c509ca50904ffa%2Falbatross-prototype-in-mid-flight-during-its-autorotating-descent.jpeg&na.image_optimisation=0",
-      "description": "\u201cFall like a maple seed, sail like a boat\u201d sounds like advice from legendary heavyweight boxer Muhammad Ali. In reality, it describes a new robotic platform scientists have created for fast, long-term deployment to monitor remote waters."
+      "headline": "Delivery Robots Accused Of Scanning Customers\u2019 Faces, Sharing Biometric Data",
+      "source": "Block Club Chicago",
+      "source_url": "https://blockclubchicago.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFBUUEpZbjhuU3ltRkFPY1Nna1R1SlN5a0w2b2N1c1J2dWlOTm5NUWdxX3BZTlJheVZrZnlrSkhLejNUY2R6Vm00SUQxblA4ajVYZXlQcXhLa2hrVnpQOTNyTGc5NTUtVXlLR0o2SmljeW5aTG1GaGVEVDBPMGRUaFBoaTRoRjFyWXdVTFducTFpeGhPczMwTUxHb05ZTXdVenhnM0lRTzRsUWZYN3BqRi12T3RuUQ?oc=5",
+      "pub_date": 1792178820.0,
+      "article_url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Chinese robotics firms race to roll out components and data systems, helping robots perceive, understand, interact with real world",
+      "source": "Global Times",
+      "source_url": "https://www.globaltimes.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LSnRwZ1FheFRmNjJDdDJ6T0VXSWIwM3VzY2JHQmdnZmJXYzhjVEkxWi1sVVdaeWRYLXluUms1NDV0dDd6TWx3dXhCcHUxS1FZQlJ4Tmp1ajRkaEZna3NLSE1R?oc=5",
+      "pub_date": 1792300380.0,
+      "article_url": "https://www.globaltimes.cn/page/202610/1372460.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-18/55b56087-0493-4e9a-8946-4f0809a8d7ae.jpeg",
+      "description": "At the Humanoid Robot Data Training Center in Beijing's western Shijingshan District, dozens of robots stood in their workrooms, learning how to pick up an object steadily and quickly. This is not a simple task - the robot must"
     },
     {
       "headline": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
@@ -55,44 +65,24 @@
       "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
     },
     {
-      "headline": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50N1dGT0ZPNlhyYkxnd3ppbWpHN1h6bmU3dnhZb3g1bWJVZHZBbmJnWEM4NnVQS1lGbzBfTDlFeXhKbDI1X2I0R2xVcDhBZjEzVEw2WW9CSVFGWHJ5QlhZWlp5RzdxM1AyRzduT2dmb1cyblU5MjJOcFZZS3Y?oc=5",
-      "pub_date": 1792234813.0,
-      "article_url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
-      "image": null,
-      "description": null
+      "headline": "US humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzJodUpxY3hidjU4ODk3NWVKQkdQNko0cExDX2kycmZQa0k4VzJhdzBDMElkTTdZMGMtcjhOdWl5MFBuV0Zxc0dIelJod0JKQ1llNnBPMzlRUURJaG9VLUJoU0d5Ui1wdkFXdHROSUJSbDJEa1VINDlZZDFCLTEyLXFheHQ?oc=5",
+      "pub_date": 1792268280.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Agility-robotics-5.jpg",
+      "description": "Agility\u2019s Digit 5 humanoid robot targets over 20 hours of daily work using a Nyobolt battery that delivers a 90-minute runtime."
     },
     {
-      "headline": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmNZRTdpUVF4bEVCeTgzVkhOLURxbGI4cmxPVE01TWN1b1VoUHpnS01ySjVHamc1Z2t2SzZCbWRnX190TW5hS29admttWnhkY2FCMGpaNUFwUlRuZnV2Tk1UMDlmOWFsNXpELVpnYkVYZmdfamthalRZQjd4QU9lYzRDUGh2X1A2R2tWQnJGa284Y3p1RFpjTXJzQnc2amdfeU5EUmRtQ1g?oc=5",
-      "pub_date": 1792168200.0,
-      "article_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-      "description": "Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics\u2019 ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks."
-    },
-    {
-      "headline": "AI robots are roaming L.A. grocery aisles. Shoppers and workers are worried",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
-      "pub_date": 1792257780.0,
-      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
-      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
-    },
-    {
-      "headline": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots \u2014 wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNYk9reF9yLW02RGlJUG5Ra1hEOUpFSmR0dy1UTzk1dlV5eHF0NXZEN1NqdDFFXy1wVzlhNTFmdkN5QzFsc1RzbjFKMEZxLTA5STJIUk44N0JhNEFrRU5CUEhwSUtsM3pxZ1VQS0tHS09aWl83c1BoaHdsVFFCWDJfTUZ6dk05d08tRS16S0UtS1JSTDdWV0czSU01azBiano3MVNpVWc3NDRYeW9MdGtFbFhFdjZxREVjVExVTVJiT21tYUdMdHNjMS1WMU5LTVNhV1RuNDRmWHBKa185dEs3THlQQWJydTFmLTVpWm1sOHRHRlk0d2o4bUtJZHRqcTQ4eUw1dVd2UmExQ0xvYWg0X2I2Q200OWtiSGQ3ZTZRT1FfTEVCRWdxblFKM2FIRnQyZDNjdEwzX3pFY29NRmU1RWlydldrZ203VjBCUGdXaTh4d2d0U2Z6QmtpNEVQTmhrdzJtZlp3b2xvdHg2d1VQeVRoRVZIMUp6Q0RmbjZVaVgzc3dDc1Bqdm9fV0RqT0plYkd3U1V6LWZURlFQTWU5ZDNHdzNrVkZNRWc?oc=5",
-      "pub_date": 1792243280.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-      "image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
-      "description": "Is AI coming for blue-collar jobs, too?"
+      "headline": "OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazcwM2J4aXV5bl9WSEYya2Q1VGNVTXp3SmNnY3VJR0tvckxvVVVFUThGdmdJdGQ5bzU0a1czMks1SVY4LWh2UWRqcDNmeExzT3BoWGVrcHhxczlFYWl3UzFiN2RFd0NLaHRwdTE3LWdsRkMtdlBwem53MnotS0tVQ1ptbEtDRFowZ19GZm56Z1l5X19NYVE?oc=5",
+      "pub_date": 1792280700.0,
+      "article_url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+      "image": "https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg",
+      "description": "With Tesla and XPENG already working on humanoids, OpenAI CEO Sam Altman says creating the 'brain' is more difficult than building the robots themselves."
     },
     {
       "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
@@ -103,8 +93,18 @@
       "article_url": "https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50N1dGT0ZPNlhyYkxnd3ppbWpHN1h6bmU3dnhZb3g1bWJVZHZBbmJnWEM4NnVQS1lGbzBfTDlFeXhKbDI1X2I0R2xVcDhBZjEzVEw2WW9CSVFGWHJ5QlhZWlp5RzdxM1AyRzduT2dmb1cyblU5MjJOcFZZS3Y?oc=5",
+      "pub_date": 1792234813.0,
+      "article_url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T08:15:39.273608+00:00"
+  "fetched_at": "2026-10-18T12:44:22.898532+00:00"
 }
