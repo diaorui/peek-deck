@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-18T03:22:28.893157+00:00'
+updated: '2026-10-18T08:15:41.752625+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 03:22 UTC  
+**Last Updated:** October 18, 2026 at 08:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,246.34
+### $81,715.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.0%  
-**30d:** +0.7%  
-**90d:** +23.0%  
-**1y:** -24.5%  
+**24h:** +0.1%  
+**7d:** -0.3%  
+**30d:** +0.5%  
+**90d:** +22.7%  
+**1y:** -24.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1643.65B
+**Market Cap:** $1640.08B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.1%
+-35.3%
 
 **All-Time Low:** $67.81
-+120497.3%
++120227.4%
 
 ---
 
 ## Fear & Greed Index
 
-### 55
-**GREED**
+### 53
+**NEUTRAL**
 
 ---
 
@@ -145,7 +145,7 @@ The latest redemptions, however, represent a small fraction of the roughly $65.7
 
 74% of Americans no longer trust the U.S. dollar to hold its value. 61% want to learn more about owning Bitcoin. The battle for awareness is over. The silent mutiny against fiat is already here. There’s one problem: A landmark national study shows the way we’ve explained Bitcoin for the last decade is actively repelling the very people ready to listen. "Digital Gold" is dead: It ranked near the bottom in voter focus groups. The 55% blind spot: More than half of voters still don't know they can buy BTC through major brokerages. Celebrity fatigue: Everyday people don't trust billionaire CEOs or politicians—they trust friends, family, and their local advisor. It’s time to step out of the echo chamber and speak to the 61%.
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-silent-mutiny-against-the-dollar) • 1d ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-silent-mutiny-against-the-dollar) • 2d ago
 
 ---
 
@@ -153,25 +153,25 @@ The latest redemptions, however, represent a small fraction of the roughly $65.7
 
 ## Google News: "bitcoin"
 
+**[Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed](https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed)**
+
+A group of crypto companies is trying to settle one of the industry’s murkiest questions: what it actually means for a blockchain network to be safe from…
+
+Decrypt • 16h ago
+
+---
+
 **[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
 
 Barron's • 1d ago
 
 ---
 
-**[Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed](https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed)**
+**[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://finance.yahoo.com/markets/crypto/articles/bitcoin-struggles-above-80k-whale-070040528.html)**
 
-A group of crypto companies is trying to settle one of the industry’s murkiest questions: what it actually means for a blockchain network to be safe from…
+Investing.com -- Bitcoin traded above $81,500, struggling to sustain a recovery as conflicting exchange flows and large whale transactions clouded the cryptocurrency’s near-term outlook, while institutional interest in blockchain technology continued to expand.
 
-Decrypt • 11h ago
-
----
-
-**[Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate](https://finance.yahoo.com/markets/crypto/articles/anthropics-junk-rating-sparks-bigger-011115520.html)**
-
-The Anthropic junk rating has Adam Back calling Bitcoin the hurdle rate. See what Anthropic's borrowing costs say about Treasuries and 60/40.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,19 +183,19 @@ Muddy River Sports • 1d ago
 
 ---
 
-**[Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough](https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough)**
+**[Scammer who duped job seekers loses $4.9 million in bitcoin to Ledger spy-chip exploit](https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin)**
 
-Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.
+A scammer who stole millions through fake online jobs became a high-profile victim of the CryptoBilis Ledger hardware implant breach.
 
 CoinDesk • 1d ago
 
 ---
 
-**[Strive Bitcoin Holdings Reach 35,595 BTC As Wall Street Raises Price Target 27%](https://www.tradingview.com/news/newsbtc:e0b722120094b:0-strive-bitcoin-holdings-reach-35-595-btc-as-wall-street-raises-price-target-27/)**
+**[Cantor's $112,000 Bitcoin Call Lifts Strategy Target to $208](https://www.tradingview.com/news/gurufocus:322a25a19094b:0-cantor-s-112-000-bitcoin-call-lifts-strategy-target-to-208/)**
 
-TL;DR: TD Cowen reportedly raised its Strive share-price target from $44 to $56 after the Bitcoin treasury company expanded its holdings to 35,595 BTC. Strive is also seeking financing through a substantial preferred-share offering.Bitcoin treasury company Strive is attracting fresh attention from…
+Cantor Fitzgerald raised its price target on Strategy NASDAQ:MSTR from $186 to $208 and kept an Overweight rating. The firm lifted its 12-month forward bitcoin price assumption to $112,000 from $98,000, taking a more bullish view on the asset after recent market strength. Strategy shares were down…
 
-TradingView • 4h ago
+TradingView • 1d ago
 
 ---
 
@@ -203,7 +203,7 @@ TradingView • 4h ago
 
 Peter Schiff is again telling investors to sell Bitcoin and buy gold. Gold has lost less in 2026, but how reliable are his calls?
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -215,17 +215,19 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen](https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839)**
+
+Strive’s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares.
+
+The Block • 1d ago
+
+---
+
 **[Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes](https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block)**
 
 (Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency’s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.“The move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,” Rahman said. “In the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.”Both Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.“The 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,” he said. “This could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
 
 Kitco • 2d ago
-
----
-
-**[Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253)**
-
-Investing.com • 21h ago
 
 ---
 
@@ -287,47 +289,17 @@ Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ F
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 1K • 💬 97 • ⏱️ 9:23 • 6h ago
+👁️ 62K • 👍 2K • 💬 104 • ⏱️ 9:23 • 11h ago
 
 ---
 
-**[Bitcoin Holders: What Always Happens at the Start of a Bull Market](https://www.youtube.com/watch?v=SSrFzcfmtTk)**
+**[Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun](https://www.youtube.com/watch?v=hTfIVPjwHiA)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
+Bitcoin has been trading sideways in the $80Ks, but Lark Davis says we're on the cusp of the next major cycle. The crypto investor ...
 
-📺 Aaron Bennett
+📺 Bitcoin Magazine
 
-👁️ 11K • 👍 313 • 💬 82 • ⏱️ 10:54 • 21h ago
-
----
-
-**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
-
-Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
-
-📺 Simply Bitcoin
-
-👁️ 48K • 👍 2K • 💬 97 • ⏱️ 16:42 • 2d ago
-
----
-
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
-
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
-
-📺 Benjamin Cowen
-
-👁️ 167K • 👍 4K • 💬 361 • ⏱️ 1:11:56 • 1d ago
-
----
-
-**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
-
-Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 1K • 💬 131 • ⏱️ 17:56 • 1d ago
+👁️ 10K • 👍 111 • 💬 5 • ⏱️ 17:31 • 2d ago
 
 ---
 
@@ -337,47 +309,77 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 4K • 👍 184 • 💬 94 • ⏱️ 8:38 • 4h ago
+👁️ 10K • 👍 252 • 💬 107 • ⏱️ 8:38 • 9h ago
 
 ---
 
-**[Even I’m Getting Nervous](https://www.youtube.com/watch?v=PHd6bhMzFJc)**
+**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
 
-Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 60K • 👍 2K • 💬 79 • ⏱️ 8:46 • 1d ago
-
----
-
-**[Bitcoin Came THIS Close to Breaking Down: $97K Next?](https://www.youtube.com/watch?v=U5p7VdWDV-E)**
-
-No B.S. Just Charts. Bitcoin came this close to a major breakdown, and Gareth Soloway shows the exact Bitcoin price levels that ...
-
-📺 Gareth Soloway
-
-👁️ 121K • 👍 4K • 💬 172 • ⏱️ 13:02 • 2d ago
+👁️ 36K • 👍 1K • 💬 129 • ⏱️ 17:56 • 1d ago
 
 ---
 
-**[Is Bitcoin Ready To Rip While Wall Street Breaks?](https://www.youtube.com/watch?v=5nUxci_05jA)**
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
 
-📺 Anthony Pompliano
+📺 Benjamin Cowen
 
-👁️ 96K • 👍 2K • 💬 119 • ⏱️ 1:00:13 • 14h ago
+👁️ 173K • 👍 4K • 💬 367 • ⏱️ 1:11:56 • 1d ago
 
 ---
 
-**[Bitcoin’s Next Rally Could Break the Cycle | Eric Yakes](https://www.youtube.com/watch?v=URWWwYa-Y8w)**
+**[Bitcoin Is Going to $250,000. Here’s Why!](https://www.youtube.com/watch?v=MYdVd4ldoWo)**
 
-The worst thing is to not own any of it.” Eric Yakes returns to discuss why he believes Bitcoin's four-year cycle is breaking, why ...
+Bitcoin Is Going to $250000. Here's Why. Bitcoin to $250000? Here's my full case. Bitcoin has hit a new all-time high roughly every ...
 
-📺 What Bitcoin Did
+📺 MoneywithSwAbi
 
-👁️ 13K • 👍 201 • 💬 129 • ⏱️ 1:14:34 • 2d ago
+👁️ 6K • 👍 93 • 💬 15 • ⏱️ 9:42 • 17h ago
+
+---
+
+**[The Harsh Reality of Bitcoin vs Gold in 2026](https://www.youtube.com/watch?v=y3hl2cLJqDU)**
+
+Bitcoin vs gold, graded by 2026. Bitcoin was sold as digital gold and a new store of value, and gold vs bitcoin finally got three real ...
+
+📺 Dana Love, PhD
+
+👁️ 23K • 👍 569 • 💬 123 • ⏱️ 19:37 • 1d ago
+
+---
+
+**[Bitcoin Holders: What Always Happens at the Start of a Bull Market](https://www.youtube.com/watch?v=SSrFzcfmtTk)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
+
+📺 Aaron Bennett
+
+👁️ 11K • 👍 322 • 💬 81 • ⏱️ 10:54 • 1d ago
+
+---
+
+**[Wall Street Attacks Bitcoin Giant MicroStrategy and Elon Makes Cars Fly!](https://www.youtube.com/watch?v=2uuthE5BDB0)**
+
+Wall Street just dealt Michael Saylor's Strategy a brutal blow, with shares plunging nearly 10% as MSCI moves forward with new ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 1K • 💬 98 • ⏱️ 17:02 • 10h ago
+
+---
+
+**[NFA Live! Bitcoin, Rates, SPX](https://www.youtube.com/watch?v=U6sxotkGqPw)**
+
+0:00 - INTRO NFA LIVE 10/15/26 3:25 Long-end yields fall on hot inflation 5:29 Fed credibility and October rate expectations 8:27 ...
+
+📺 Benjamin Cowen
+
+👁️ 59K • 👍 1K • 💬 51 • ⏱️ 33:50 • 2d ago
 
 ---
 
