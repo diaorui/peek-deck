@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-18T21:17:42.086745+00:00'
+updated: '2026-10-18T23:31:41.735703+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 21:17 UTC  
+**Last Updated:** October 18, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,870.53
+### $81,545.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -1.1%  
-**30d:** -0.3%  
-**90d:** +21.7%  
-**1y:** -25.3%  
+**24h:** +0.8%  
+**7d:** +0.3%  
+**30d:** +1.1%  
+**90d:** +23.5%  
+**1y:** -24.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1627.32B
+**Market Cap:** $1647.10B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.8%
+-35.0%
 
 **All-Time Low:** $67.81
-+119301.3%
++120826.1%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[Is this you? Or the 40K guy?](https://www.reddit.com/r/Bitcoin/comments/1x907p1/is_this_you_or_the_40k_guy/)**
 
-10h ago
+12h ago
 
 ---
 
 **[America Is Importing Bitcoin and Exporting Dollars. Guess Which One It Can’t Print.](https://www.reddit.com/r/Bitcoin/comments/1x8v7fv/america_is_importing_bitcoin_and_exporting/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 15h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 17h ago
 
 ---
 
 **[we need bull street ✔](https://www.reddit.com/r/Bitcoin/comments/1x920ik/we_need_bull_street/)**
 
-8h ago
+11h ago
 
 ---
 
 **[Bitcoin for the street?](https://www.reddit.com/r/Bitcoin/comments/1x8njfh/bitcoin_for_the_street/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+16h ago
 
 ---
 
@@ -147,9 +147,11 @@ A vanity address is one where you pick the first few characters and let a progra
 
 ## Google News: "bitcoin"
 
-**[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
+**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
 
-Barron's • 2d ago
+According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -161,19 +163,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Arthur Hayes Says Quantum Computing Is No Reason to Sell Bitcoin. The Real Risk Is One Common Habit.](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-quantum-computing-204014969.html)**
-
-BitMEX co-founder Arthur Hayes says quantum computing fears have Bitcoin holders spooked for the wrong reason, and the actual vulnerability hiding in plain sight has nothing to do with the technology itself.
-
-Yahoo Finance • 37m ago
-
----
-
 **[Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)**
 
 Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
+
+---
+
+**[Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/)**
+
+Forbes • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 4h ago
 
 Mike McGlone, a Bloomberg Intelligence senior commodity strategist, said on Sunday that Bitcoin (BTC) "may have to prove strength, because if it doesn't, dominoes could tumble" for stocks and metals, even as Fidelity's Jurrien Timmer said a new bull market for crypto could already be underway.McGlo…
 
-TradingView • 3h ago
+TradingView • 5h ago
 
 ---
 
@@ -193,23 +193,21 @@ Muddy River Sports • 2d ago
 
 ---
 
-**[Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/)**
-
-Forbes • 8h ago
-
----
-
 **[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806)**
 
-Investing.com • 14h ago
+Investing.com • 16h ago
 
 ---
 
-**[Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen](https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839)**
+**[Iran, Fed, bonds: 3 reasons bitcoin is unlikely to hit US$100,000 this year](https://www.scmp.com/business/cryptocurrency/article/3371238/bitcoin-making-comeback-risk-more-sharp-pullbacks-real)**
 
-Strive’s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares.
+South China Morning Post • 31m ago
 
-The Block • 2d ago
+---
+
+**[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
+
+Barron's • 2d ago
 
 ---
 
@@ -237,7 +235,7 @@ Contribute to Artur7897/bitcoin-composition-engine development by creating an ac
 
 Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 2 • 💬 1 • 3d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
+⬆️ 2 • 💬 1 • 4d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/380133331/)
 
 ---
 
@@ -245,7 +243,7 @@ Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap�
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 2 • 💬 0 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 2 • 💬 0 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -253,7 +251,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
-⬆️ 1 • 💬 0 • 2h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+⬆️ 1 • 💬 0 • 4h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -281,43 +279,33 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ## YouTube Videos: "bitcoin"
 
+**[LEAKED: Here&#39;s The REAL Reason America Hasn&#39;t Bought Bitcoin For its Strategic Reserve...](https://www.youtube.com/watch?v=Dww0Co7cE-g)**
+
+Inflation is heating up, the bond market is flashing warning signs, and a potential gold revaluation has Bitcoiners talking about ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 924 • 💬 164 • ⏱️ 55:34 • 6h ago
+
+---
+
 **[Michael Saylor Issues DIRE WARNING for Anyone Holding Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=ojpjTIh6T9g)**
 
 Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 100K • 👍 3K • 💬 128 • ⏱️ 9:23 • 1d ago
+👁️ 107K • 👍 3K • 💬 132 • ⏱️ 9:23 • 1d ago
 
 ---
 
-**[Is the Money Coming Back for Bitcoin?](https://www.youtube.com/watch?v=I0xDs3CzG54)**
-
-The world's money supply hit an all-time high in September, about 125 trillion dollars, and a lot of people in crypto say that's all ...
-
-📺 More Crypto Online
-
-👁️ 20K • 👍 618 • 💬 39 • ⏱️ 17:10 • 17h ago
-
----
-
-**[BITCOIN IS HEADING TO $10,000 ACCORDING TO BLOOMBERG ANALYST](https://www.youtube.com/watch?v=XveDlkp6zkE)**
+**[TOM LEE - BUY AS MUCH BITCOIN AS YOU CAN!](https://www.youtube.com/watch?v=bmyq413Ujv4)**
 
 CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 312 • 💬 120 • ⏱️ 8:38 • 22h ago
-
----
-
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
-
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
-
-📺 Benjamin Cowen
-
-👁️ 191K • 👍 5K • 💬 382 • ⏱️ 1:11:56 • 2d ago
+👁️ 6K • 👍 264 • 💬 64 • ⏱️ 8:12 • 6h ago
 
 ---
 
@@ -327,7 +315,27 @@ BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 16K • 👍 452 • 💬 164 • ⏱️ 20:42 • 11h ago
+👁️ 18K • 👍 463 • 💬 183 • ⏱️ 20:42 • 13h ago
+
+---
+
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
+
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+
+📺 Benjamin Cowen
+
+👁️ 193K • 👍 5K • 💬 383 • ⏱️ 1:11:56 • 2d ago
+
+---
+
+**[Is the Money Coming Back for Bitcoin?](https://www.youtube.com/watch?v=I0xDs3CzG54)**
+
+The world's money supply hit an all-time high in September, about 125 trillion dollars, and a lot of people in crypto say that's all ...
+
+📺 More Crypto Online
+
+👁️ 22K • 👍 628 • 💬 25 • ⏱️ 17:10 • 19h ago
 
 ---
 
@@ -337,37 +345,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 201 • 💬 37 • ⏱️ 26:25 • 17h ago
-
----
-
-**[$1 Million per Bitcoin Is Coming (And Your Friends Still Won&#39;t Care)](https://www.youtube.com/watch?v=FB1golMrxGk)**
-
-Bitcoin is boring now, and that's exactly why it can hit $1 million per coin. In this video I break down why Bitcoin volatility has been ...
-
-📺 Blockware
-
-👁️ 16K • 👍 331 • 💬 91 • ⏱️ 15:11 • 1d ago
-
----
-
-**[Bitcoin Price Patterns: History Is Rhyming Right in Front of Us!!](https://www.youtube.com/watch?v=AXtD9UpybDU)**
-
-Kalshi $50 bonus: http://kalshi.com/p/aimstone ...
-
-📺 Aimstone
-
-👁️ 9K • 👍 193 • 💬 24 • ⏱️ 12:03 • 22h ago
-
----
-
-**[Bitcoin Is Going to $250,000. Here’s Why!](https://www.youtube.com/watch?v=MYdVd4ldoWo)**
-
-Bitcoin Is Going to $250000. Here's Why. Bitcoin to $250000? Here's my full case. Bitcoin has hit a new all-time high roughly every ...
-
-📺 MoneywithSwAbi
-
-👁️ 10K • 👍 153 • 💬 19 • ⏱️ 9:42 • 1d ago
+👁️ 12K • 👍 208 • 💬 55 • ⏱️ 26:25 • 19h ago
 
 ---
 
@@ -377,7 +355,27 @@ What happens to Bitcoin if AI makes everything abundant and cheap? @JordiVisserL
 
 📺 When Shift Happens
 
-👁️ 7K • 👍 177 • 💬 104 • ⏱️ 6:10 • 7h ago
+👁️ 10K • 👍 188 • 💬 105 • ⏱️ 6:10 • 9h ago
+
+---
+
+**[MAJOR BITCOIN SIGNAL IS REPEATING...](https://www.youtube.com/watch?v=Yu5YMSoYj_0)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+
+📺 Crypto Rover
+
+👁️ 21K • 👍 850 • 💬 48 • ⏱️ 4:15 • 19h ago
+
+---
+
+**[BITCOIN IS HEADING TO $10,000 ACCORDING TO BLOOMBERG ANALYST](https://www.youtube.com/watch?v=XveDlkp6zkE)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 17K • 👍 316 • 💬 139 • ⏱️ 8:38 • 1d ago
 
 ---
 
