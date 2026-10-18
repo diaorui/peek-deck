@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-18T08:15:41.758998+00:00'
+updated: '2026-10-18T12:44:29.582105+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 18, 2026 at 08:15 UTC  
+**Last Updated:** October 18, 2026 at 12:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This video is showing off auto aim, where you select points and it automatically
 
 I built a hexapod that uses an old Android phone from Make Your Pet. Less than $200 and it was a good first robotics project to learn from.
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ Created with the help of opus. It is really good in understanding camera positio
 
 Join Chibots, the Chicago area robotics group, for our next online meeting. Whether you're a seasoned builder, a curious beginner, or just robot-curious, you're welcome here. This meeting will follow our usual loose format: A bit of club business (keeping it short, we promise) Show-and-tell — bring a project, a part, a problem, or just pictures Lots of open discussion with fellow robotics enthusiasts No formal agenda yet, and no pressure to present anything. Come to share, come to listen, come to ask questions — all are welcome. When: Sunday October 18th 2026 1:00 PM - 3:00 PM Where: Zoom Cost: Free RSVP: email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com) Email [chibotspresident@gmail.com](mailto:chibotspresident@gmail.com)for Zoom meeting link!
 
-1d ago
+2d ago
 
 ---
 
@@ -68,7 +68,7 @@ Join Chibots, the Chicago area robotics group, for our next online meeting. Whet
 
 I was writing my own IK solver to learn and I thought it was so funny I had to share it somewhere
 
-2d ago
+3d ago
 
 ---
 
@@ -124,15 +124,21 @@ Fox Business • 1d ago
 
 Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one.
 
-Futurism • 16h ago
+Futurism • 20h ago
 
 ---
 
-**[Bioinspired robot airdrops into remote waters via morphing wing-sail](https://newatlas.com/robotics/albatross-robot-sail-seed-boat/)**
+**[Delivery Robots Accused Of Scanning Customers’ Faces, Sharing Biometric Data](https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/)**
 
-“Fall like a maple seed, sail like a boat” sounds like advice from legendary heavyweight boxer Muhammad Ali. In reality, it describes a new robotic platform scientists have created for fast, long-term deployment to monitor remote waters.
+Block Club Chicago • 1d ago
 
-New Atlas • 13h ago
+---
+
+**[Chinese robotics firms race to roll out components and data systems, helping robots perceive, understand, interact with real world](https://www.globaltimes.cn/page/202610/1372460.shtml)**
+
+At the Humanoid Robot Data Training Center in Beijing's western Shijingshan District, dozens of robots stood in their workrooms, learning how to pick up an object steadily and quickly. This is not a simple task - the robot must
+
+Global Times • 7h ago
 
 ---
 
@@ -148,43 +154,35 @@ Breaking Defense • 2d ago
 
 Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions.
 
-Time Magazine • 2d ago
+Time Magazine • 3d ago
 
 ---
 
-**[Team develops embodied robotic arm 'EmArm' with human-like touch sensing](https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html)**
+**[US humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays)**
 
-Tech Xplore • 21h ago
+Agility’s Digit 5 humanoid robot targets over 20 hours of daily work using a Nyobolt battery that delivers a 90-minute runtime.
 
----
-
-**[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)**
-
-Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics’ ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks.
-
-TechCrunch • 1d ago
+Interesting Engineering • 16h ago
 
 ---
 
-**[AI robots are roaming L.A. grocery aisles. Shoppers and workers are worried](https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried)**
+**[OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/)**
 
-AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them.
+With Tesla and XPENG already working on humanoids, OpenAI CEO Sam Altman says creating the 'brain' is more difficult than building the robots themselves.
 
-Los Angeles Times • 14h ago
-
----
-
-**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
-
-Is AI coming for blue-collar jobs, too?
-
-Tom's Hardware • 18h ago
+Engadget • 12h ago
 
 ---
 
 **[Chinese startup DexForce trains humanoid robots using virtual data to slash costs](https://www.reuters.com/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-slash-costs-2026-10-15/)**
 
 Reuters • 3d ago
+
+---
+
+**[Team develops embodied robotic arm 'EmArm' with human-like touch sensing](https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -198,7 +196,27 @@ China's new AI robots are taking on real human jobs, and things are getting seri
 
 📺 MACHINEKIND
 
-👁️ 26K • 👍 414 • 💬 44 • ⏱️ 12:40 • 1d ago
+👁️ 29K • 👍 440 • 💬 46 • ⏱️ 12:40 • 1d ago
+
+---
+
+**[Automate 2026 Chicago: Robotics, Automation &amp; AI Are Transforming Manufacturing | AKTIV-TV](https://www.youtube.com/watch?v=wUvK1Jpfe3g)**
+
+AKTIV-TV presents Exhibitor Notes from Automate 2026 in Chicago – featuring the latest trends, technologies and innovations in ...
+
+📺 AKTIV-TV
+
+👁️ 5K • 👍 308 • 💬 2 • ⏱️ 3:11 • 18h ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera](https://www.youtube.com/watch?v=rMLr5CLd1jY)**
+
+Explore robots going completely wrong in moments caught on camera. From unexpected malfunctions and bizarre movements to ...
+
+📺 MostAmazingTop10
+
+👁️ 274K • 👍 2K • 💬 257 • ⏱️ 9:18 • 6d ago
 
 ---
 
@@ -208,17 +226,17 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 93K • 👍 1K • 💬 71 • ⏱️ 12:13 • 2d ago
+👁️ 96K • 👍 1K • 💬 73 • ⏱️ 12:13 • 2d ago
 
 ---
 
-**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
+**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
 
-More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
+The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
 
-📺 The New York Times
+📺 Bloomberg Television
 
-👁️ 29K • 👍 242 • 💬 62 • ⏱️ 4:07 • 18h ago
+👁️ 75K • 👍 338 • 💬 42 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -228,17 +246,25 @@ China's NORINCO has showcased its Fuxi humanoid robots performing coordinated dr
 
 📺 Nexio Core
 
-👁️ 2K • ⏱️ 0:05 • 4h ago
+👁️ 5K • ⏱️ 0:05 • 9h ago
 
 ---
 
-**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
+**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
-Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
+Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
 
-📺 Tesla Insider News
+📺 The Tesla Space
 
-👁️ 260K • 👍 2K • 💬 334 • ⏱️ 21:44 • 2d ago
+👁️ 87K • 👍 3K • 💬 154 • ⏱️ 13:59 • 3d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 200K • 👍 7K • 💬 700 • ⏱️ 2:35 • 1d ago
 
 ---
 
@@ -252,41 +278,13 @@ What does the future of humanoid robotics actually look like? At World Summit AI
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
-
-📺 Big Duke13
-
-👁️ 194K • 👍 7K • 💬 682 • ⏱️ 2:35 • 1d ago
-
----
-
 **[Meet Alex, the US Military&#39;s New Humanoid Robot #robot #robotics #military](https://www.youtube.com/watch?v=VxDQ6sC8xRo)**
 
 This is the closest thing there is to a confirmed US military humanoid robot soldier in training. Its name is Alex and it was ...
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 64 • 💬 9 • ⏱️ 1:03 • 6d ago
-
----
-
-**[New FASTEST NERF in War Robots History!](https://www.youtube.com/watch?v=XRrGB8aSyLk)**
-
-Start RAID Shadow Legends NOW with the DAMAGE MONSTER Septimus. My new video here: https://youtu.be/XoRhpRucSuA ...
-
-📺 Manni-Gaming
-
-👁️ 16K • 👍 544 • 💬 157 • ⏱️ 14:50 • 18h ago
-
----
-
-**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
-
-The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
-
-📺 Bloomberg Television
-
-👁️ 69K • 👍 316 • 💬 38 • ⏱️ 5:02 • 1d ago
+👁️ 3K • 👍 65 • 💬 9 • ⏱️ 1:03 • 6d ago
 
 ---
 
