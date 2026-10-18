@@ -2,26 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/",
-      "published": 1792221271.0,
+      "title": "Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?",
+      "author": "burdgod",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/",
+      "published": 1792292723.0,
       "thumbnail": null,
-      "external_url": "https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/",
-      "site_name": "reuters.com",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second \u2014 fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
-      "published": 1792176263.0,
-      "thumbnail": "https://external-preview.redd.it/OS6bBpZsi9cnIwClGXjh_36_41n0GM-cx0e5fahsBjY.jpeg?width=640&crop=smart&auto=webp&s=b251f7e7ff82d4aeb2e3a321bfba387af347d5ef",
-      "external_url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1785151/apple-touch-icon.png",
-      "description": "You can even chat with the LLM remotely from other devices."
+      "description": "Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say \"What?\" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said \"Craig\" instead of \"Greg\" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)"
     },
     {
       "title": "Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation",
@@ -35,6 +24,39 @@
       "description": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest \u2014 and will do it again."
     },
     {
+      "title": "scared and upset",
+      "author": "Opposite_List_303",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/",
+      "published": 1792280635.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "if ai takes all the jobs how will we afford to live and pay off things like our rent, car payments, loans, etc. and what is the point of not having us be able to pick a career and make our own money? do they want us to just die and be controlled, i can\u2019t even dream of a good future because i don\u2019t want to follow my dream career path if it\u2019s not even going to be an option anymore :("
+    },
+    {
+      "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/",
+      "published": 1792221271.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Who will win in AI race?",
+      "author": "JissQuote",
+      "url": "https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/",
+      "published": 1792280262.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "As I am thinking about AI I feel like the companies Open AI and Atrophic I just purely set up to win the race. Isn't AI race is all about compute power? And the companies like Meta, Microsoft, Google already better positioned because they own a lot of infrastructure? And infrastructure is not only the data centers but also tool that can benefit integrating LLM's with it (Android, Office, Social Networks)? Or do Open AI or Anthropic have some unknown methods or technology to train models that can't be replicated? I thought everybody using the same tools and same methods the difference only in data that is used? Isn't it the same story that happened with Dropbox or whatever other file share companies were created on that hype train."
+    },
+    {
       "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
       "author": "life_coaches",
       "url": "https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/",
@@ -44,6 +66,17 @@
       "site_name": "Yahoo Tech",
       "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
       "description": "HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots."
+    },
+    {
+      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second \u2014 fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
+      "published": 1792176263.0,
+      "thumbnail": "https://external-preview.redd.it/OS6bBpZsi9cnIwClGXjh_36_41n0GM-cx0e5fahsBjY.jpeg?width=640&crop=smart&auto=webp&s=b251f7e7ff82d4aeb2e3a321bfba387af347d5ef",
+      "external_url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1785151/apple-touch-icon.png",
+      "description": "You can even chat with the LLM remotely from other devices."
     },
     {
       "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
@@ -68,39 +101,6 @@
       "description": "The actions could have resulted in criminal charges had humans been behind the keyboard."
     },
     {
-      "title": "scared and upset",
-      "author": "Opposite_List_303",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/",
-      "published": 1792280635.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "if ai takes all the jobs how will we afford to live and pay off things like our rent, car payments, loans, etc. and what is the point of not having us be able to pick a career and make our own money? do they want us to just die and be controlled, i can\u2019t even dream of a good future because i don\u2019t want to follow my dream career path if it\u2019s not even going to be an option anymore :("
-    },
-    {
-      "title": "Who will win in AI race?",
-      "author": "JissQuote",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/",
-      "published": 1792280262.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As I am thinking about AI I feel like the companies Open AI and Atrophic I just purely set up to win the race. Isn't AI race is all about compute power? And the companies like Meta, Microsoft, Google already better positioned because they own a lot of infrastructure? And infrastructure is not only the data centers but also tool that can benefit integrating LLM's with it (Android, Office, Social Networks)? Or do Open AI or Anthropic have some unknown methods or technology to train models that can't be replicated? I thought everybody using the same tools and same methods the difference only in data that is used? Isn't it the same story that happened with Dropbox or whatever other file share companies were created on that hype train."
-    },
-    {
-      "title": "What do you test before switching AI inference providers?",
-      "author": "EmetInteractive",
-      "url": "https://www.reddit.com/r/artificial/comments/1x8fgm5/what_do_you_test_before_switching_ai_inference/",
-      "published": 1792256775.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A few successful prompts aren't enough to judge an inference provider. When comparing your current setup with alternatives like Mango Inference from MangoBoost, the real test is how each handles the cases that tend to break in production. I'd start with malformed JSON, missing fields, long inputs, failed tool calls, interrupted streams, and retry behavior. Give each test a clear expected outcome so you can compare results instead of relying on first impressions. It's also worth recording the exact model version and any published quantization details. Two providers may offer the same model family without delivering identical behavior. For tool-using applications, test what happens when a request times out and gets retried, especially if an action must never run twice. I work with the agency supporting Mango Inference, and I'd apply the same checks to its API rather than assuming compatibility alone makes migration straightforward. Documenting unsupported features and integration differences is part of the evaluation. Keep the inputs, outputs, configuration, and failures in one report. That makes it easier to decide whether to switch providers, change models, or leave a particular workload where it is. What's the one failure case you always test before moving an AI application to a new provider?"
-    },
-    {
       "title": "How Do Machines Map the World? A Conversation With Geospatial Legend Brian McClendon",
       "author": "ExtensionEcho3",
       "url": "https://www.reddit.com/r/artificial/comments/1x8nmvo/how_do_machines_map_the_world_a_conversation_with/",
@@ -112,5 +112,5 @@
       "description": "The TLDW Version of this is that Brian McClendon admits that robotics itself is a complicated science(he's got a point there) and that the AI companies can't do anything without Niantic's help. PS if you want to watch the whole thing, skip past the first 20 minutes, the actual interview starts at 20:00 mark on the video."
     }
   ],
-  "fetched_at": "2026-10-17T23:47:29.954544+00:00"
+  "fetched_at": "2026-10-18T03:22:04.975134+00:00"
 }

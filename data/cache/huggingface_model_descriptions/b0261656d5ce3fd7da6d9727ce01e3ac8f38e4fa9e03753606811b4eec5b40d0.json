@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-18T03:22:27.966672+00:00",
+  "data": "FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-image generation, single-reference editing, and multi-reference composition using bounding boxes for precise element placement. Its primary use cases include creative image generation and sophisticated image manipulation, requiring a prompt upsampler for optimal results.",
+  "model_id": "black-forest-labs/flux-3-image-klein"
+}

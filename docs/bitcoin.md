@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-17T23:47:47.082272+00:00'
+updated: '2026-10-18T03:22:28.893157+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 17, 2026 at 23:47 UTC  
+**Last Updated:** October 18, 2026 at 03:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -2.9%  
-**30d:** +0.6%  
-**90d:** +24.6%  
-**1y:** -23.9%  
+**24h:** +0.4%  
+**7d:** -0.0%  
+**30d:** +0.7%  
+**90d:** +23.0%  
+**1y:** -24.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1633.69B
+**Market Cap:** $1643.65B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.5%
+-35.1%
 
 **All-Time Low:** $67.81
-+119767.3%
++120497.3%
 
 ---
 
@@ -129,7 +129,7 @@ https://reddit.com/link/1x7d69x/video/a3siqysr8tvh1/player Will AI agents choose
 
 **[Don’t leverage, buy Bitcoin and hodl](https://www.reddit.com/r/Bitcoin/comments/1x734lq/dont_leverage_buy_bitcoin_and_hodl/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -163,13 +163,13 @@ Barron's • 1d ago
 
 A group of crypto companies is trying to settle one of the industry’s murkiest questions: what it actually means for a blockchain network to be safe from…
 
-Decrypt • 7h ago
+Decrypt • 11h ago
 
 ---
 
-**[Coinbase Global (COIN) Wins SEC Backing For Binaries And Flags Bitcoin Quantum Risk](https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-wins-sec-211032219.html)**
+**[Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate](https://finance.yahoo.com/markets/crypto/articles/anthropics-junk-rating-sparks-bigger-011115520.html)**
 
-Coinbase Global (NasdaqGS:COIN) is working with Evernorth as it shifts to active management of a sizeable XRP treasury in 2026. The SEC has cleared binary options that reference Coinbase operating metrics rather than spot crypto prices, creating a new regulated trading instrument. Coinbase has issued a public warning that future advances in quantum computing could threaten Bitcoin security and is urging sector wide preparation. Evernorth's XRP treasury overhaul, SEC approved Coinbase linked...
+The Anthropic junk rating has Adam Back calling Bitcoin the hurdle rate. See what Anthropic's borrowing costs say about Treasuries and 60/40.
 
 Yahoo Finance • 2h ago
 
@@ -187,13 +187,23 @@ Muddy River Sports • 1d ago
 
 Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253)**
+**[Strive Bitcoin Holdings Reach 35,595 BTC As Wall Street Raises Price Target 27%](https://www.tradingview.com/news/newsbtc:e0b722120094b:0-strive-bitcoin-holdings-reach-35-595-btc-as-wall-street-raises-price-target-27/)**
 
-Investing.com • 17h ago
+TL;DR: TD Cowen reportedly raised its Strive share-price target from $44 to $56 after the Bitcoin treasury company expanded its holdings to 35,595 BTC. Strive is also seeking financing through a substantial preferred-share offering.Bitcoin treasury company Strive is attracting fresh attention from…
+
+TradingView • 4h ago
+
+---
+
+**[Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?](https://247wallst.com/investing/cryptocurrency/2026/10/17/peter-schiff-says-sell-bitcoin-and-buy-gold-is-he-right-this-time/)**
+
+Peter Schiff is again telling investors to sell Bitcoin and buy gold. Gold has lost less in 2026, but how reliable are his calls?
+
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -213,19 +223,9 @@ Kitco • 2d ago
 
 ---
 
-**[Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows](https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows)**
+**[Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253)**
 
-Grayscale research shows that bitcoin’s realized volatility is in the same range as a number of S&P 500 stocks.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Bitcoin ETFs log $228M in weekly sales as monthly outflows near $618M](https://www.tradingview.com/news/cryptobriefing:db1b3f357094b:0-bitcoin-etfs-log-228m-in-weekly-sales-as-monthly-outflows-near-618m/)**
-
-US spot Bitcoin ETFs had a rough October stretch. Investors pulled $228.6 million from the funds over the five trading days ending October 16, 2026.That brings month-to-date net outflows to roughly $615 million, with some tallies putting the figure closer to $618 million.These funds have become the…
-
-TradingView • 4h ago
+Investing.com • 21h ago
 
 ---
 
@@ -287,7 +287,7 @@ Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ F
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 853 • 💬 54 • ⏱️ 9:23 • 2h ago
+👁️ 38K • 👍 1K • 💬 97 • ⏱️ 9:23 • 6h ago
 
 ---
 
@@ -297,17 +297,17 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 298 • 💬 70 • ⏱️ 10:54 • 18h ago
+👁️ 11K • 👍 313 • 💬 82 • ⏱️ 10:54 • 21h ago
 
 ---
 
-**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
+**[The AI Bailout Is Coming, and Bitcoin Already Knows It!](https://www.youtube.com/watch?v=eMZcPn4GegY)**
 
-Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
+Is the AI bubble about to burst, and is Bitcoin already pricing in the next massive bailout? With inflation surging, bond yields ...
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 1K • 💬 130 • ⏱️ 17:56 • 1d ago
+👁️ 48K • 👍 2K • 💬 97 • ⏱️ 16:42 • 2d ago
 
 ---
 
@@ -317,17 +317,27 @@ Elon Musk says AI will bring universal basic income and that money may stop bein
 
 📺 Benjamin Cowen
 
-👁️ 162K • 👍 4K • 💬 349 • ⏱️ 1:11:56 • 1d ago
+👁️ 167K • 👍 4K • 💬 361 • ⏱️ 1:11:56 • 1d ago
 
 ---
 
-**[Guess Who Just Crashed Crypto?](https://www.youtube.com/watch?v=6BN9xTViyEY)**
+**[Elon &amp; AI Will Destroy The Middle Class | Why Bitcoin Will Save You](https://www.youtube.com/watch?v=hQqX7b5VvfA)**
 
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Elon Musk says AI will bring universal basic income and that money may stop being relevant. What does that mean for your job ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 96K • 👍 2K • 💬 134 • ⏱️ 11:55 • 2d ago
+👁️ 35K • 👍 1K • 💬 131 • ⏱️ 17:56 • 1d ago
+
+---
+
+**[BITCOIN IS HEADING TO $10,000 ACCORDING TO BLOOMBERG ANALYST](https://www.youtube.com/watch?v=XveDlkp6zkE)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 4K • 👍 184 • 💬 94 • ⏱️ 8:38 • 4h ago
 
 ---
 
@@ -337,47 +347,37 @@ Unlock a $275 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rew
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 2K • 💬 78 • ⏱️ 8:46 • 1d ago
+👁️ 60K • 👍 2K • 💬 79 • ⏱️ 8:46 • 1d ago
 
 ---
 
-**[Bitcoin Blake2B Coinbase Maturity Extensions](https://www.youtube.com/watch?v=xndNgrY0JZs)**
+**[Bitcoin Came THIS Close to Breaking Down: $97K Next?](https://www.youtube.com/watch?v=U5p7VdWDV-E)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss Bitcoin Blake2B coinbase maturity ...
+No B.S. Just Charts. Bitcoin came this close to a major breakdown, and Gareth Soloway shows the exact Bitcoin price levels that ...
 
-📺 Bitcoin University
+📺 Gareth Soloway
 
-👁️ 7K • 👍 474 • 💬 104 • ⏱️ 9:39 • 1d ago
-
----
-
-**[BITCOIN IS ABOUT TO EXPLODE....](https://www.youtube.com/watch?v=xR82epis5xQ)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 20K • 👍 785 • 💬 70 • ⏱️ 8:40 • 15h ago
+👁️ 121K • 👍 4K • 💬 172 • ⏱️ 13:02 • 2d ago
 
 ---
 
-**[The Harsh Reality of Bitcoin vs Gold in 2026](https://www.youtube.com/watch?v=y3hl2cLJqDU)**
+**[Is Bitcoin Ready To Rip While Wall Street Breaks?](https://www.youtube.com/watch?v=5nUxci_05jA)**
 
-Bitcoin vs gold, graded by 2026. Bitcoin was sold as digital gold and a new store of value, and gold vs bitcoin finally got three real ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Dana Love, PhD
+📺 Anthony Pompliano
 
-👁️ 22K • 👍 551 • 💬 125 • ⏱️ 19:37 • 1d ago
+👁️ 96K • 👍 2K • 💬 119 • ⏱️ 1:00:13 • 14h ago
 
 ---
 
-**[NFA Live! Bitcoin, Rates, SPX](https://www.youtube.com/watch?v=U6sxotkGqPw)**
+**[Bitcoin’s Next Rally Could Break the Cycle | Eric Yakes](https://www.youtube.com/watch?v=URWWwYa-Y8w)**
 
-0:00 - INTRO NFA LIVE 10/15/26 3:25 Long-end yields fall on hot inflation 5:29 Fed credibility and October rate expectations 8:27 ...
+The worst thing is to not own any of it.” Eric Yakes returns to discuss why he believes Bitcoin's four-year cycle is breaking, why ...
 
-📺 Benjamin Cowen
+📺 What Bitcoin Did
 
-👁️ 58K • 👍 1K • 💬 51 • ⏱️ 33:50 • 2d ago
+👁️ 13K • 👍 201 • 💬 129 • ⏱️ 1:14:34 • 2d ago
 
 ---
 
