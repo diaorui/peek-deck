@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-16T20:23:25.656396+00:00",
+  "data": {
+    "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+    "title": "Bitcoin\u2019s most-used software is getting a major update. Here\u2019s what actually changes",
+    "description": "The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?auto=format&q=75",
+    "favicon": "https://www.coindesk.com/favicons/production/apple-touch-icon-60x60.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

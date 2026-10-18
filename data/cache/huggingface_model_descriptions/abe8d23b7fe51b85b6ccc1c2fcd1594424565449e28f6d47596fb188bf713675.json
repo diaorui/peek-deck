@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-19T18:43:24.728360+00:00",
+  "data": "Laya is a multilingual, non-autoregressive System 1 decision model that provides typed answers with probabilities in a single forward pass. It's trained with reinforcement learning for honest probability reporting and is ideal for text classification tasks like routing, scoring, and moderation across 100+ languages.",
+  "model_id": "convaiinnovations/laya"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "bitcoin",
+  "site": null,
+  "search_query": "bitcoin",
+  "articles": [
+    {
+      "headline": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVg5MUZTSE1JSFBIR0hkYi1IcUJUWTA5SFVQcVB0SFNiVHNIMEFLNENfQUp5aTY5Rk1OWS1pOWRjR0dLYm5pMGxzTHVMMHoydXhURkRfdjVRSlVkam81RUxyYVlfLWFwMFpNdzNPTDRkUzIzREpRMG5jSEh4eWFGTU9LSEhoa0J3bDd4UXJFS1RUOFNlQWdtUlU4aktuN3FSRDJXSnRxOTBiX0JZanRwcFNfM1BCT3NxZGt5SHFnU1Y1RlpCSVFYUDR4SEplaXI0TDdVdG8zUUhzamNMcllvd25LSQ?oc=5",
+      "pub_date": 1790443452.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
+      "description": "U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows."
+    },
+    {
+      "headline": "MSTR Stock: Strategy's Bitcoin Buying Struggle Has A New Fix",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEVEaVV0eWpXNW5sQUg2UWNqeDVBTUxwc1dTQWFrNmZoLUhZc29JOGlsMnNLejhpdjlXNWNXcTJ0VGlHUjNPY2lzYW1JRTVEUnBQTzFDeTNsMkY3ZmVlZldHZjVZelJ1RnBja09fdmZyR0paNFJGeXNQZmJ0R3E3RzVLb1U1aTcyTHVJZm12NXRZWlZCV0FZ?oc=5",
+      "pub_date": 1790367780.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-buying-preferred-daily-dividends/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/08/Stock-BitcoinGold-stand-shut.jpg",
+      "description": "Strategy's bitcoin buying went on hiatus as its flagship preferred stock tanked. A new proposal may help it regain and hold par value."
+    },
+    {
+      "headline": "Bitcoin\u2019s Privacy Solution: Zcash Takes the Lead Over Monero",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVppUHZNMjJnak1udDVRdHBINlNzVDg2S0FtX0hhQTBFTDd3b0F5c25tQUZYUjY0R3drV0swWU1lV1BUUEhURVZTRUdoR2hLVF81d01jMFAwNUJPc3VDV1pVOHQxWEF5MGZsQ3RKNUlLYllHUlRoQmhhZWk4N2Y3Y3lUUEhmYTJ2RkVUV0lYaDNNVUZnVmM2QkNaZXIyM2lkVE1J?oc=5",
+      "pub_date": 1790503252.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-privacy-solution-zcash-takes-100052606.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a998436d79193695e932bed867aee5a5468cc8a4f2136430bcc81cc7c38fb77d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F94d415ea856b8eb491ce6f6015eec288.jpg",
+      "description": "Zcash and Monero have long competed for dominance in the privacy coin space, but a surge in institutional access, a landmark research paper, and a dramatic price gap are now forcing investors to choose sides."
+    },
+    {
+      "headline": "#strategystriveadd2305bitcointhisweek Community Insights & Market Sentiment | Binance Square",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGFrcWlQN0s5bHdaOXVCcVJzRFJpZ2lqcXFsbGZqZmFXa1h6Y2h2RkJPMGFCRVJFLUtuVTZibG1Hc1doUmJ1dllYWXM1Z1dxR0ZPR0dYOGQ4YUhwV2RkejE0cnZaU0FoOFBTZ216U3VLVmprSWdOMDNfOTNQdWp1cGNzbHQ?oc=5",
+      "pub_date": 1790509997.0,
+      "article_url": "https://www.binance.com/en/square/hashtag/strategystriveadd2305bitcointhisweek",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "NEAR Hits One-Year High, Outpaces Bitcoin After Bitwise Files Final Prospectus For Spot ETF",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXJLdnNhOTBKZndGWkxnN3FmYk9iUWpTS1RNR0w4MGItaUpUdGlWeC1rbUs3T2xqUlg4NXpybFR5N2R6aWRiVFRHdzhFV2t4WWVkMmZkR2N3OHE2OVVyWERLOHcwN2l2VUtHeE91RmVBTU1TbHB0U1FobjItSWRUb253VkpnV3NRdl8tR3pYalI1bGZuNWhB?oc=5",
+      "pub_date": 1790501837.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/near-hits-one-high-outpaces-093717875.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/65e008fe0ca6b7adea15036b7050dacebaf7aea67d44585091bf20dd1634d395/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1f84a9016b403a4360d88321a8239897.jpg",
+      "description": "NEAR Protocol's one-year return has climbed to about 96%, after turning positive in mid-September."
+    },
+    {
+      "headline": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0RlVlJpRHZNd2Rvajd3OVlGTElKaVpXOGVLUXpiLXNDN25UVFdwY1JQSmppeWFwMHQwQ3UzemxULVFaZUw2aTRPWVBBdzVYSFZiZXhaa19zczUxbktMN1VJR2NfS21JWWFmUFpsNks5UUZqRjZSRVhzVjRHVXB3bGRSTkZhU3BWRVg5dC1OT3JlNXhoNzYtLU5KSdIBoAFBVV95cUxQM2VhYlNzZmlMQnBsVlY4ejRxdjBWS0dZeUtmUGp6bGhGN0paNGdveUxwaWhaMEhEbHJ5a3ppeERudzVwT1hQMUJEa09wcHZ2TkFCTzEtRzFhSGVjNGZPUS1FRUJpNm5YUlpyOWgwR0JSc3d3SElfTXFGTGgwYmM4Mlp2QmF5S0FXeHBRbHhxblc2ZmVkSVpsTXhaTmJnYThJ?oc=5",
+      "pub_date": 1790273137.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108302204-1777985324860-gettyimages-2274636434-_s010823_1g5wyfwa.jpeg?v=1777986590&w=1920&h=1080",
+      "description": "Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war."
+    },
+    {
+      "headline": "Give solo Bitcoin mining a try with this $60 pocket-sized ticket miner",
+      "source": "Popular Science",
+      "source_url": "https://www.popsci.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjMtLVY5RXZrWkxRTU9yWU5iVnlOTWVVM2VtMW5IUW14akU4ZUVISThhZThOODJJT3hlUUdyeTZPTExpQnNEOERnbk5HaXhRLUdHM3FUMGRndEw4VUxvT1huQnFsS1dkWXhpVERmYS1POXBZbE1QdUZBVHVQRS1yMDZfRzRhVjdyU3dhM2dyQlBCcDR0N19PM01mR3FmdEFnQTVfSzFiVFdoY2RZSjhhZFJYZFRfaWhBMWM5N01jYkYzRzA?oc=5",
+      "pub_date": 1790424000.0,
+      "article_url": "https://www.popsci.com/sponsored-content/give-solo-bitcoin-mining-a-try-with-this-pocket-sized-ticket-miner-sponsored-deal-2/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/09/image_0e164d.png?quality=85&w=1200",
+      "description": "The BlockChance Bitcoin Ticket Miner offers an easy, compact, solo mining experience that requires very little to get started."
+    },
+    {
+      "headline": "Current price of Bitcoin for September 25, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQ2ZPY05MeThmd3MzU2ZEZkZpTGdQOFQxakVIS3I5UDZGVlNsY2gwdnhsamZCTjc1TjVrdlBQXzV0amVNdnR6THUtTmhaTWo4UW5vSVU2VWhIZ3pmSk5UVHR5b1NDUW8?oc=5",
+      "pub_date": 1790341200.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-25-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-25.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money",
+      "source": "CBC",
+      "source_url": "https://www.cbc.ca",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDFKall3SmtYNEFWOWgwMlEydG9zNUVNYjJiZWpPWEJPSWFfNTQtVXBkTUVfa0Vfd1l3eXlJa1RRcTA1b3RSZHV1Z2FUZTdNOG9OSVU2eS1KRjJic2loelBjNV82Vl9CQy0xNHdKZVczV3ZoZjZRVzZ0YnZKaFJhUEdwbmd5ZTdFNHNfNmRlbw?oc=5",
+      "pub_date": 1790326800.0,
+      "article_url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377",
+      "image": "https://i.cbc.ca/ais/219148f6-c9b7-46b4-844e-906e87b458d3,1790280678236/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "description": "Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call."
+    },
+    {
+      "headline": "The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFNyenNHbHpKR3BuWjM0SFliMGhvb2NzWnRfZnN1dG9LSEpPM3JZTGxtRGRzTWpHaDhJTG1xcHBWQ2hiaGVac1Y3Z1RRT29aR3RLMkl1eDBKRjBNRXI2MHJrb3FfQ2RTREY0WDVSX2ZMRl9qcmU1UUdkbVZaOGVvV21DVFBOUlUzdGtkWndZRTdROFowZDdn?oc=5",
+      "pub_date": 1790439060.0,
+      "article_url": "https://www.fool.com/investing/2026/09/26/the-strategic-bitcoin-reserve-is-closer-than-ever/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887800%2Fbitcoin-symbol-and-gavel-to-regulate-cryptocurrencies-market-getty-images.jpg&w=1200&op=resize",
+      "description": "Congress just moved one step closer to a Strategic Bitcoin Reserve. Here's why that doesn't mean a sudden Bitcoin price surge."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-09-27T12:19:17.264017+00:00"
+}

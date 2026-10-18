@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-04T12:51:45.827986+00:00",
+  "data": "Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention architecture enabling a native 1M token context window. It excels in conversation, coding, agentic workflows, and multilingual tasks, offering high efficiency and broad hardware compatibility.",
+  "model_id": "XHToken/Spark-X2.5-4B"
+}

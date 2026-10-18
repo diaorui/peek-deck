@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-09T05:00:20.777214+00:00",
+  "data": {
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "title": "Terence Tao (@tao@mathstodon.xyz)",
+    "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce.  This may seem unintuitive at first, since the set of possible problems one could ask is infinite.  Perhaps the following analogy can help: a country or region can suffer a critical shortage of drinking water while simultaneously being surrounded by a massive ocean.\n\nOne can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)",
+    "image": null,
+    "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
+    "site_name": "Mathstodon",
+    "author": null,
+    "keywords": null
+  }
+}

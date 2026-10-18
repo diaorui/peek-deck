@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-05T11:41:06.766786+00:00",
+  "data": {
+    "url": "https://www.phoronix.com/news/LLVM-Debates-AGENTS-MD",
+    "title": "LLVM Developers Begin Debate Over AGENTS.md For Helping AI Agents",
+    "description": "LLVM developers have begun a discussion on whether the project should host an AGENTS.md file (and CLAUDE.md) in their Git repository for helping to guide AI agents.",
+    "image": "https://www.phoronix.net/image.php?id=2023&image=llvm",
+    "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "Phoronix, Linux Hardware Reviews, Linux hardware benchmarks, Linux server benchmarks, Linux benchmarking, Desktop Linux, Linux performance, Open Source graphics, Linux How To, Ubuntu benchmarks, Ubuntu hardware, Phoronix Test Suite"
+  }
+}

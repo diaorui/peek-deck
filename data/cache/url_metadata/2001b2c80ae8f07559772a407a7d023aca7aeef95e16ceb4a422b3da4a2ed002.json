@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-12T20:48:00.521216+00:00",
+  "data": {
+    "url": "https://pluang.com/en/news-feed/ethereum-bug-mengancam-jadwal-glamsterdam",
+    "title": "Ethereum's Glamsterdam upgrade faces bugs, dela... | Pluang",
+    "description": "Ethereum aims to activate the Glamsterdam upgrade on the Sepolia testnet by October 6, but unresolved bugs and network finalization issues on the devnet-9 with 1,000 validators have made this date uncertain. A critical bug related to EIP-8037 requires execution layer client updates, causing further delays. Developers are now focusing on a new devnet-11 test before confirming the timeline. The mainnet deployment remains targeted for Q4 2026 without a fixed date, as the upgrade involves significant changes to Ethereum's block building and verification processes.",
+    "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/618c5c0b7351052750edd2f0b1ab0db384e989fbbf1324ddcea310da27b96465-en.webp",
+    "favicon": "https://image-cdn.pluang.com/web/icons/180.png",
+    "site_name": null,
+    "author": "Cointribune",
+    "keywords": null
+  }
+}
