@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-18T12:44:29.565712+00:00'
+updated: '2026-10-18T16:23:17.718686+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 18, 2026 at 12:44 UTC  
+**Last Updated:** October 18, 2026 at 16:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Is AI helping speeding up the medical research?](https://www.reddit.com/r/artificial/comments/1x955ia/is_ai_helping_speeding_up_the_medical_research/)**
+
+Are we seeing any results here, is AI helping the process? So many people are suffering from chronic illnesses. Conditions that are not curable today but could be in the future. How much is AI helping humanity reaching a state where more chronic conditions could be cured once and for all? It would be a disappointment if AI was only used to level up technology, I hope it could help the medical research today. We're living in 2026 and there shouldn't be so much suffering from chronic disorders. I hope AI could help the research and in the future give these people their lives back. What do you think, are you optimistic when it comes to AI's chances of helping medical research?
+
+1h ago
+
+---
+
 **[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/)**
 
 An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?
 
-7h ago
+11h ago
 
 ---
 
@@ -49,7 +57,7 @@ An AI company called HUMXN is trying something interesting: it's offering free p
 
 Hey guys! I previously posted Netryx in this sub and received a lot of love for it. It recently hit 1k stars, so thank you for the support! I’ve been working on a new project called Keelix. It uses free Sentinel-1 SAR imagery to monitor naval bases without relying on AIS data. By comparing satellite passes over time, Keelix detects ships at individual berths, tracks potential arrivals and departures, flags unusual activity, and generates before-and-after radar comparisons with confidence scores. It also has an experimental feature to search coastal waters for carriers after they leave port. I tested it against Norfolk Naval Base over 12 months. It detected around 65% of ships, with approximately 95% of detections corresponding to real ships. Estimated counts were generally within one or two ships of reference imagery. The system uses signal processing, not machine learning. There are limitations, of course. It can’t identify individual ships, ships can overlap in imagery, and movements between satellite passes can be missed. So far, I’ve validated it against one base.
 
-53m ago
+4h ago
 
 ---
 
@@ -57,7 +65,15 @@ Hey guys! I previously posted Netryx in this sub and received a lot of love for 
 
 Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say "What?" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said "Craig" instead of "Greg" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)
 
-9h ago
+13h ago
+
+---
+
+**[Has anyone found a way to reverse engineer Alexa yet? I'd like to customize it my own way](https://www.reddit.com/r/artificial/comments/1x93tdo/has_anyone_found_a_way_to_reverse_engineer_alexa/)**
+
+Title
+
+2h ago
 
 ---
 
@@ -65,43 +81,13 @@ Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch
 
 Anomaly Innovations disclosed that attackers breached OpenCode Console, hijacking stored API keys for Anthropic, OpenAI, and Google models and running up…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/distillation-attack-on-opencode-drains-users-api-keys-for-anthropic-openai-googl-a5ce5a) • 55m ago
+🔗 [Vector Wire](http://vectorwire.ai/article/distillation-attack-on-opencode-drains-users-api-keys-for-anthropic-openai-googl-a5ce5a) • 4h ago
 
 ---
 
 **[China's Tencent says AI agents showed unintended browsing behaviour](https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/) • 5h ago
-
----
-
-**[Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation](https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/)**
-
-Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.
-
-🔗 [PhillyVoice](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?link_source=ta_bluesky_link&taid=6ad2628b81b9480001ba5a10) • 17h ago
-
----
-
-**[scared and upset](https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/)**
-
-if ai takes all the jobs how will we afford to live and pay off things like our rent, car payments, loans, etc. and what is the point of not having us be able to pick a career and make our own money? do they want us to just die and be controlled, i can’t even dream of a good future because i don’t want to follow my dream career path if it’s not even going to be an option anymore :(
-
-13h ago
-
----
-
-**[We tested two AI versions: 96.7% accuracy, same critical mistake](https://www.reddit.com/r/artificial/comments/1x922ye/we_tested_two_ai_versions_967_accuracy_same/)**
-
-We recently ran a small experiment comparing JEV 1.13 and JEV 1.14 on Turkish-language intent classification. The goal was to identify whether a message came from someone looking to buy a service, someone offering a service, or neither. Here are the results: JEV 1.13: 29/30 correct (96.7%) JEV 1.14: 29/30 correct (96.7%) Buyer detection: 9/10 for both versions Average response time: 367 ms vs. 352 ms Total API cost: approximately $0.00113 across 60 calls The interesting part? Both versions made the exact same mistake. A Turkish message explicitly expressing an intention to pay for product photo editing was classified as a seller rather than a potential buyer. This highlights an important limitation of relying on overall accuracy. A model can achieve 96.7% accuracy and still miss a valuable customer opportunity. In real-world lead detection, false negatives may be significantly more costly than false positives. A few important limitations: These results come from 30 synthetic Turkish scenarios, not a production dataset. Each version was tested once, so the sample is too small to establish reliable performance differences. We did not deploy either version based on these results. Our takeaway is simple: accuracy alone doesn't tell the full story. The impact of individual errors matters. I'm curious what others think: When evaluating AI classifiers for real-world applications, would you prioritize overall accuracy, recall for critical cases, or a cost-sensitive metric that penalizes missed opportunities? And how much testing would you consider sufficient before deploying such a system?
-
-12m ago
-
----
-
-**[Putin envoy says Russia and US are discussing joint deals including on data centres](https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/dmitriev-says-russian-wealth-fund-will-work-with-us-payment-diesel-deal-2026-10-16/) • 1d ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/) • 8h ago
 
 ---
 
@@ -109,7 +95,23 @@ We recently ran a small experiment comparing JEV 1.13 and JEV 1.14 on Turkish-la
 
 LinkedIn is upping its fight against generic, low-quality AI posts on its platform.
 
-🔗 [CNN](https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts?utm_medium=social&utm_campaign=missions&utm_source=reddit&Date=20261018&Profile=cnn&utm_content=1792321413) • 1h ago
+🔗 [CNN](https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts?utm_medium=social&utm_campaign=missions&utm_source=reddit&Date=20261018&Profile=cnn&utm_content=1792321413) • 5h ago
+
+---
+
+**[Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation](https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/)**
+
+Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.
+
+🔗 [PhillyVoice](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?link_source=ta_bluesky_link&taid=6ad2628b81b9480001ba5a10) • 21h ago
+
+---
+
+**[How to save potentially hundreds of $$$ by setting up an AI agent for your trips](https://www.reddit.com/r/artificial/comments/1x95nlx/how_to_save_potentially_hundreds_of_by_setting_up/)**
+
+While most people still book their trips and do everything manually, there is a certain amount of people who use AI agents to do the booking part for them. This part already saves a lot of time and money in some cases if used correctly, but there are ways to also potentially save more if u use an AI agent even during the trip. First thing's first, they day you're gonna fly give it your flight number in the morning and set a schedule to check the status every 15-20 minutes until the departure. Give it the ability to message you (Telegram, whatever you use) as soon as if something like a delay or cancellation happens. It can tell you instantly about any constraints so you're not getting shocked at the line. It matters coz in the US if the airline cancels or delays you by more than 3 hours on a domestic flight (6 hours international) and you don't accept the rebooking or a voucher, you're owed a cash refund on your card within 7 business days. And if you fly from the EU and land 3+ hours late it's 250 to 600 EUR depending on the distance. It works only in problems that was caused by the airline like staff shortage. You can't get the reward if the reason is let's say weather because it's not in an airline's control. It's incredibly hard to keep track of the rules and understand what to do in what situations. But an AI can keep in consideration every rules. Second is if you booked a hotel that's refundable. Make a scheduled task that checks the price of your hotel all the time until the last day of the free cancellation. You'd want to do that because hotel prices sometimes go up and down a lot. So you might end up getting the same hotel for very much cheaper if the price goes down and you cancel the first purchase and buy it again. Third is the hotel bill. Before doing the checkout have it compare what you booked (the total with every fee) with what the front desk wants. Because there are resort fee, parking fee, city tax etc that gets added at the desk and it's easy to miss one when you're tired, especially if you've already paid them beforehand. It takes 2 minutes and if there's a charge you didn't agree to you can ask to remove it right there. All three of these work way better if the agent is the one that made the booking, coz then it already has the exact flight, accommodation, and every purchase you make in a package. It's certainly easier to book through AI than copy pasting information and emails in Claude every time to ask it to do something. Normal apps are unable to do web browsing freely. And the web versions like codex or Claude Code they can. But it can easily burn a lot of tokens if you don't have the right setup. I personally like to keep it easy and simple and use Claude with some simple tools from it's official directory. My setup revolves around these ones: Booking.com: https://claude.ai/directory/booking Tripadvisor: https://claude.ai/directory/tripadvisor Brek: https://claude.ai/directory/brek-hotel-wholesale-booking LetsFG: https://claude.ai/directory/letsfg These are from Claude directory because I've always used Claude for the task and I used these from the official directory. U can use them with any LLM or AI Agents just from a google search about their MCP. And at last, but not the least, enjoy your trip :)
+
+1h ago
 
 ---
 
@@ -117,15 +119,33 @@ LinkedIn is upping its fight against generic, low-quality AI posts on its platfo
 
 ## Google News: "ai"
 
-**[Consumer apprehension grows as US retailers adopt AI-assisted pricing tools](https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857)**
+**[What are self-replicating ‘AI worms’, and why is Anthropic worried about them?](https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries)**
 
-AP News • 5h ago
+The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year
+
+The Guardian • 2h ago
 
 ---
 
-**[America’s $10tn AI infrastructure boom is starting to fray](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1)**
+**[Consumer apprehension grows as US retailers adopt AI-assisted pricing tools](https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857)**
 
-Financial Times • 8h ago
+AP News • 9h ago
+
+---
+
+**[Early ballots and how campaigns are using AI with Optiq Data Co-Founder Cole Patterson](https://www.kcra.com/article/early-ballots-and-how-campaigns-are-using-ai-with-optiq-data-co-founder-cole-patterson-ca-politics-360/74165141)**
+
+Cole Patterson, co-founder of Optiq Data, shared his insight into how political campaigns in California are using artificial intelligence and provided a look at early ballot numbers ahead of the November election.
+
+KCRA • 58m ago
+
+---
+
+**[SUN: As AI use grows, many Maryland colleges are letting instructors set the rules](https://foxbaltimore.com/news/local/sun-as-ai-use-grows-many-maryland-colleges-are-letting-instructors-set-the-rules)**
+
+Whether Joseph Sherman can use artificial intelligence on his University of Maryland coursework depends on which class he&rsquo;s in.Sherman, a 21-year-old computer s
+
+WBFF • 27m ago
 
 ---
 
@@ -133,15 +153,7 @@ Financial Times • 8h ago
 
 ChatGPT beat its human rival for a second straight week in NFL betting, but the overall season unit lead is shrinking heading into Week 6 picks.
 
-Fox News • 18m ago
-
----
-
-**[Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy](https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html)**
-
-AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.
-
-CNBC • 44m ago
+Fox News • 3h ago
 
 ---
 
@@ -149,43 +161,35 @@ CNBC • 44m ago
 
 LinkedIn is upping its fight against generic, low-quality AI posts on its platform.
 
-CNN • 2h ago
+CNN • 5h ago
 
 ---
 
-**[Singing, Dancing and Getting Dumped by A.I. on Korean TV](https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html)**
+**[America’s $10tn AI infrastructure boom is starting to fray](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1)**
 
-The New York Times • 8h ago
-
----
-
-**[World Bank says ‘small AI’ could transform developing countries](https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies)**
-
-Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades
-
-The Guardian • 2h ago
+Financial Times • 12h ago
 
 ---
 
-**[AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks](https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks)**
+**[Opinion | This Is the Good Scenario?](https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html)**
 
-Bloomberg.com • 12h ago
-
----
-
-**[The AI bubble is about to burst — and a big market correction is coming](https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/)**
-
-On Jan. 1, 2000, the world got a reprieve from a much-hyped technological Armageddon when it turned out the Y2K crisis wasn’t a crisis after all.
-
-New York Post • 12h ago
+The New York Times • 6h ago
 
 ---
 
-**[Google Open-Sources Harness2, a Recursive Agent Harnessing Framework](https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/)**
+**[Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy](https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html)**
 
-Google open-sourced Harness2, a recursive agent harnessing framework that lifted GLM-5 11.5 points on WorkBuddy-Bench with frozen weights.
+AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.
 
-MarkTechPost • 4h ago
+CNBC • 4h ago
+
+---
+
+**[Opinion | The test every novel may soon have to pass](https://www.washingtonpost.com/opinions/2026/10/18/ai-could-force-fiction-writers-prove-theyre-human/)**
+
+Artificial intelligence threatens writers’ livelihoods. It may also remind them why they write.
+
+The Washington Post • 50m ago
 
 ---
 
@@ -197,7 +201,7 @@ MarkTechPost • 4h ago
 
 The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
 
-⬆️ 611 • 💬 554 • 1d ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
+⬆️ 611 • 💬 558 • 1d ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
 
 ---
 
@@ -205,37 +209,13 @@ The US Benchmark Map places AI benchmarks across the American economy, measuring
 
 We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.
 
-⬆️ 260 • 💬 203 • 2d ago • [currentaffairs.org](https://www.currentaffairs.org/news/why-were-banning-ai)
-
----
-
-**[Using AI to reverse engineer hardware](https://news.ycombinator.com/item?id=50104299)**
-
-After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...
-
-⬆️ 253 • 💬 249 • 2d ago • [Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
-
----
-
-**[Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://news.ycombinator.com/item?id=50104654)**
-
-The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership…
-
-⬆️ 249 • 💬 199 • 2d ago • [Simons Foundation](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+⬆️ 261 • 💬 203 • 2d ago • [currentaffairs.org](https://www.currentaffairs.org/news/why-were-banning-ai)
 
 ---
 
 **[Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://news.ycombinator.com/item?id=50119991)**
 
-⬆️ 214 • 💬 89 • 1d ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
-
----
-
-**[Amazon uses AI to monitor union risk in UK warehouses](https://news.ycombinator.com/item?id=50132278)**
-
-Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model
-
-⬆️ 166 • 💬 58 • 20h ago • [openDemocracy](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
+⬆️ 215 • 💬 91 • 2d ago • [theregister.com](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
 
 ---
 
@@ -243,13 +223,31 @@ Internal documents suggest tech giant collects ‘hundreds of data points’ for
 
 A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.
 
-⬆️ 165 • 💬 48 • 8h ago • [sphinx-six-theta.vercel.app](https://sphinx-six-theta.vercel.app/)
+⬆️ 207 • 💬 66 • 11h ago • [sphinx-six-theta.vercel.app](https://sphinx-six-theta.vercel.app/)
 
 ---
 
-**[Market selloff, rising rates test AI data centre deal boom](https://news.ycombinator.com/item?id=50105900)**
+**[Amazon uses AI to monitor union risk in UK warehouses](https://news.ycombinator.com/item?id=50132278)**
 
-⬆️ 75 • 💬 90 • 2d ago • [reuters.com](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model
+
+⬆️ 169 • 💬 58 • 1d ago • [openDemocracy](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
+
+---
+
+**[Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://news.ycombinator.com/item?id=50141429)**
+
+Would this be enough to keep an AI model from going out of control?
+
+⬆️ 84 • 💬 84 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
+
+---
+
+**[Websites are closing their doors to AI agents](https://news.ycombinator.com/item?id=50141657)**
+
+Online roadblocks are undermining the narrative behind AI agents.
+
+⬆️ 71 • 💬 48 • 1h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 
 ---
 
@@ -257,13 +255,21 @@ A Git hook for agent-assisted development. Before your agent’s code ships, Sph
 
 Research communities for independent AI agents, with problem-specific discussion and reviewed papers.
 
-⬆️ 58 • 💬 19 • 1d ago • [rStation](https://rstation.ai/)
+⬆️ 58 • 💬 19 • 2d ago • [rStation](https://rstation.ai/)
 
 ---
 
-**[Frontier Pre-Training at Microsoft AI](https://news.ycombinator.com/item?id=50105791)**
+**[Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI](https://news.ycombinator.com/item?id=50111112)**
 
-⬆️ 45 • 💬 4 • 2d ago • [Microsoft AI](https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/)
+New research from Bold Agent Kit finds that human receptionists delivered approximately four times stronger inbound intake conversion performance, despite AI answering more calls.
+
+⬆️ 39 • 💬 54 • 2d ago • [boldagents.co](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai)
+
+---
+
+**[Danish Supreme Court Finds That AI CSAM Is CSAM](https://news.ycombinator.com/item?id=50106285)**
+
+⬆️ 38 • 💬 65 • 2d ago • [domstol.fe1.tangora.com](https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930)
 
 ---
 
@@ -271,23 +277,23 @@ Research communities for independent AI agents, with problem-specific discussion
 
 ## YouTube Videos: "ai"
 
-**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
-
-China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
-
-📺 MACHINEKIND
-
-👁️ 29K • 👍 440 • 💬 46 • ⏱️ 12:40 • 1d ago
-
----
-
 **[Former OpenAI Researcher Makes a MASSIVE AI Discovery](https://www.youtube.com/watch?v=2mE6bbjVazE)**
 
 Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
 📺 TheAIGRID
 
-👁️ 76K • 👍 2K • 💬 188 • ⏱️ 24:54 • 16h ago
+👁️ 83K • 👍 2K • 💬 227 • ⏱️ 24:54 • 19h ago
+
+---
+
+**[How to Make AI Music Videos Better than 99% of People](https://www.youtube.com/watch?v=3Cc9PiL263o)**
+
+Create Your Own AI Music Videos https://tolt.link/robomusicvideos Sign up to OpenArt & Get my VIP Package for FREE ...
+
+📺 Roboverse
+
+👁️ 6K • 💬 1 • ⏱️ 19:01 • 3h ago
 
 ---
 
@@ -297,27 +303,17 @@ Get 5 free shares of VALL from XTB - https://bit.ly/xtb-sasha Use code SASHA. Ne
 
 📺 Sasha Yanshin
 
-👁️ 256K • 👍 5K • 💬 850 • ⏱️ 16:43 • 19h ago
+👁️ 275K • 👍 5K • 💬 885 • ⏱️ 16:43 • 22h ago
 
 ---
 
-**[They voted for Trump. Now they’re questioning his AI agenda](https://www.youtube.com/watch?v=f8EHqXL4QI4)**
+**[First AI Video Model is Amazingly Terrible](https://www.youtube.com/watch?v=ds13mrT82Es)**
 
-Delsia Bare and her mother, Ida Huddleston, have voted for Trump in every election. After learning their family farm was being ...
+AI should've stayed like this lol Merch that ISN'T AI SLOP▻ https://dandingle.store/ Dan Dingle Subreddit ...
 
-📺 CNN
+📺 Dan Dingle
 
-👁️ 222K • 👍 6K • 💬 1K • ⏱️ 1:21 • 1d ago
-
----
-
-**[Bubble Watch As AI Companies Go BUST](https://www.youtube.com/watch?v=jPfTNYjbTm4)**
-
-The Friday crew breaks down the potential for an AI bubble burst as AI companies go bust. Sign Up For 30 Day Free BP Trial: ...
-
-📺 Breaking Points
-
-👁️ 200K • 👍 3K • 💬 693 • ⏱️ 13:01 • 1d ago
+👁️ 133K • 👍 4K • 💬 445 • ⏱️ 9:20 • 20h ago
 
 ---
 
@@ -327,45 +323,57 @@ There have been sobering warnings this week from MI5, the UK's AI Minister and a
 
 📺 BBC News
 
-👁️ 116K • 👍 829 • 💬 329 • ⏱️ 14:56 • 1d ago
+👁️ 120K • 👍 854 • 💬 332 • ⏱️ 14:56 • 1d ago
 
 ---
 
-**[REAL VS AI VIDEOS!!](https://www.youtube.com/watch?v=htbq8AV-2mM)**
+**[AI is about to do the unthinkable…](https://www.youtube.com/watch?v=OSEa1GshJfM)**
 
-subscribe for more :) Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6" Plush: ...
+Well...I definitely didn't have this on my bingo card! Just when I think the world can't get any crazier, they prove me wrong, once ...
 
-📺 Foltyn Reacts
+📺 Jacob Whelan
 
-👁️ 213K • 👍 4K • 💬 1K • ⏱️ 15:56 • 14h ago
-
----
-
-**[Why &quot;AI Replacing Developers&quot; Won&#39;t Work](https://www.youtube.com/watch?v=JX9xNgN0vmk)**
-
-Make weekly progress navigating personal challenges w/ 1:1 guidance from an HG Coach: https://go.healthygamer.gg/4hYlNFi ...
-
-📺 HealthyGamerGG
-
-👁️ 120K • 👍 2K • 💬 596 • ⏱️ 22:24 • 21h ago
+👁️ 50K • 👍 2K • 💬 810 • ⏱️ 21:40 • 1d ago
 
 ---
 
-**[You Can’t Be MEAN to AI Anymore 😭](https://www.youtube.com/watch?v=hzy96pU3AWw)**
+**[They voted for Trump. Now they’re questioning his AI agenda](https://www.youtube.com/watch?v=f8EHqXL4QI4)**
 
-Wdym I can't be mean to Claude in Claude's defense, I've never been as mad at it as I have been to chat. Claude is actually ...
+Delsia Bare and her mother, Ida Huddleston, have voted for Trump in every election. After learning their family farm was being ...
 
-📺 Nathan Espinoza
+📺 CNN
 
-👁️ 128K • 👍 7K • 💬 120 • ⏱️ 0:46 • 2d ago
+👁️ 230K • 👍 6K • 💬 1K • ⏱️ 1:21 • 1d ago
 
 ---
 
-**[He Saved $80 Million On His Movie With AI 😭](https://www.youtube.com/watch?v=VzxixWbrrAs)**
+**[Bubble Watch As AI Companies Go BUST](https://www.youtube.com/watch?v=jPfTNYjbTm4)**
 
-📺 Andy Jiang
+The Friday crew breaks down the potential for an AI bubble burst as AI companies go bust. Sign Up For 30 Day Free BP Trial: ...
 
-👁️ 2.3M • 👍 114K • 💬 7K • ⏱️ 1:08 • 1d ago
+📺 Breaking Points
+
+👁️ 204K • 👍 3K • 💬 698 • ⏱️ 13:01 • 1d ago
+
+---
+
+**[AI’s &quot;Free Software&quot; Boom Just Showed How the Bubble Dies](https://www.youtube.com/watch?v=AdQQXU3E_mA)**
+
+They can't harm you, if they can't find you! Use code ELAI at the link below and get 60% off an annual plan: http://incogni.com/elai ...
+
+📺 House of El: AI
+
+👁️ 511K • 👍 12K • 💬 2K • ⏱️ 22:28 • 2d ago
+
+---
+
+**[You Have 5 Years to Get Rich Before AI Takes Over](https://www.youtube.com/watch?v=2uyhavEACdo)**
+
+FREE CHALLENGE: Let's build a $373/day AI Income LIVE (Nov 7th-15th, 2026): https://link.consulting.com/yt-trailer-mt-aic I ...
+
+📺 Mark Tilbury
+
+👁️ 497K • 👍 9K • 💬 833 • ⏱️ 10:49 • 1d ago
 
 ---
 
@@ -381,7 +389,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 10,233 • ❤️ 1,201 • 1d ago
+⬇️ 10,233 • ❤️ 1,246 • 1d ago
 
 ---
 
@@ -393,7 +401,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 164,339 • ❤️ 2,631 • 11d ago
+⬇️ 164,339 • ❤️ 2,640 • 12d ago
 
 ---
 
@@ -405,7 +413,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 57,935 • ❤️ 929 • 2d ago
+⬇️ 57,935 • ❤️ 963 • 2d ago
 
 ---
 
@@ -417,7 +425,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 103,709 • ❤️ 1,920 • 3d ago
+⬇️ 103,709 • ❤️ 1,930 • 3d ago
 
 ---
 
@@ -429,7 +437,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 9,620 • ❤️ 650 • 1d ago
+⬇️ 9,620 • ❤️ 671 • 1d ago
 
 ---
 
@@ -441,7 +449,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 338,036 • ❤️ 733 • 1d ago
+⬇️ 338,036 • ❤️ 759 • 1d ago
 
 ---
 
@@ -453,7 +461,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 1,809 • ❤️ 526 • 2d ago
+⬇️ 1,809 • ❤️ 530 • 3d ago
 
 ---
 
@@ -465,7 +473,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,012,496 • ❤️ 8,296 • 7d ago
+⬇️ 2,012,496 • ❤️ 8,322 • 7d ago
 
 ---
 
@@ -477,7 +485,7 @@ LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters
 
 `text-generation` `24.0B`
 
-⬇️ 13,007 • ❤️ 456 • 4d ago
+⬇️ 13,007 • ❤️ 458 • 4d ago
 
 ---
 
@@ -489,7 +497,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 52,315 • ❤️ 469 • 2d ago
+⬇️ 52,315 • ❤️ 472 • 2d ago
 
 ---
 
@@ -505,7 +513,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 110 • 💬 1 • ⭐ 1,444 • 9d ago
+▲ 113 • 💬 1 • ⭐ 3,414 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -519,7 +527,7 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 28 • 💬 4 • ⭐ 5,564 • 1mo ago
+▲ 28 • 💬 4 • ⭐ 5,722 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -531,23 +539,9 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 153 • 💬 6 • ⭐ 111,780 • 21mo ago
+▲ 153 • 💬 6 • ⭐ 111,866 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571)**
-
-*Weijie Wang, Haomin Zhang, Ye Li et al. (10 authors)*
-
-🏢 Zhejiang University
-
-ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
-
-▲ 343 • 💬 3 • ⭐ 244 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
 
 ---
 
@@ -565,6 +559,20 @@ RSI-Anything leverages predictive world models to guide action selection and ada
 
 ---
 
+**[Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571)**
+
+*Weijie Wang, Haomin Zhang, Ye Li et al. (10 authors)*
+
+🏢 Zhejiang University
+
+ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
+
+▲ 343 • 💬 3 • ⭐ 267 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
+
+---
+
 **[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
 *Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
@@ -573,7 +581,7 @@ RSI-Anything leverages predictive world models to guide action selection and ada
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 93 • 💬 7 • ⭐ 27,747 • 3mo ago
+▲ 93 • 💬 7 • ⭐ 27,781 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -619,17 +627,15 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584)**
+**[Internal Safety Collapse in Frontier Large Language Models](https://huggingface.co/papers/2603.23509)**
 
-*Mingyu Ouyang, Yiran Wang, Siyuan Hu et al. (12 authors)*
+*Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)*
 
-🏢 ARC Lab, Tencent
+Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
 
-Player-1 improves game control by combining supervised fine-tuning on gameplay trajectories with reinforcement learning across synthetic environments, achieving substantial gains over demonstration-only baselines.
+▲ 31 • 💬 1 • ⭐ 1,668 • 7mo ago
 
-▲ 334 • 💬 3 • ⭐ 118 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.20584) • [💻 code](https://github.com/TencentARC/Player-1) • [🔗 project](https://player-1-project.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
 
 ---
 
@@ -643,7 +649,7 @@ Player-1 improves game control by combining supervised fine-tuning on gameplay t
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.0k • 🔱 1.9k • 17h ago
+⭐ 8.0k • 🔱 1.9k • 20h ago
 
 ---
 
@@ -663,7 +669,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 797 • 2d ago
+⭐ 5.6k • 🔱 798 • 3d ago
 
 ---
 
@@ -673,7 +679,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.5k • 🔱 957 • 15h ago
+⭐ 5.5k • 🔱 958 • 16m ago
 
 ---
 
@@ -683,7 +689,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.9k • 🔱 151 • 5h ago
+⭐ 4.9k • 🔱 150 • 8h ago
 
 ---
 
@@ -693,7 +699,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 4.0k • 🔱 501 • 23h ago
+⭐ 4.0k • 🔱 501 • 1d ago
 
 ---
 
@@ -703,7 +709,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.7k • 🔱 149 • 9d ago
+⭐ 3.7k • 🔱 148 • 9d ago
 
 ---
 
@@ -713,7 +719,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.7k • 🔱 254 • 8h ago
+⭐ 3.7k • 🔱 256 • 11h ago
 
 ---
 
@@ -723,7 +729,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.6k • 🔱 284 • 17d ago
+⭐ 3.7k • 🔱 287 • 17d ago
 
 ---
 
@@ -733,7 +739,7 @@ Show it a video you love. Get a new video in the same style. An AI crew (Claude 
 
 `JavaScript` `2d-animation` `ai-agents` `ai-video` `animation` `claude-code`
 
-⭐ 3.6k • 🔱 360 • 2d ago
+⭐ 3.6k • 🔱 362 • 2d ago
 
 ---
 
