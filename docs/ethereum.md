@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-18T18:47:50.983431+00:00'
+updated: '2026-10-18T21:17:42.092062+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 18:47 UTC  
+**Last Updated:** October 18, 2026 at 21:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -3.3%  
-**30d:** -10.2%  
-**90d:** +22.5%  
-**1y:** -40.7%  
+**24h:** -1.3%  
+**7d:** -3.5%  
+**30d:** -10.3%  
+**90d:** +22.3%  
+**1y:** -40.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.38B
+**Market Cap:** $287.85B
 Rank #2
 
 **Circulating Supply:** 122,145,416 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.3%
+-52.4%
 
 **All-Time Low:** $0.43
-+545263.6%
++544185.1%
 
 ---
 
@@ -168,11 +168,19 @@ Engadget • 2d ago
 
 ---
 
-**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://www.tradingview.com/news/stocktwits:8c50de9df094b:0-ai-chip-bets-suffer-34m-liquidation-wipeout-as-bitcoin-ethereum-near-danger-zone-ahead-of-black-monday-fears/)**
+**[Ethereum Is Testing Blocks Over 3 Times Bigger. Could That Help ETH Catch Up With Solana?](https://finance.yahoo.com/markets/crypto/articles/ethereum-testing-blocks-over-3-202024973.html)**
 
-Bitcoin (BTC) traded just above a cluster of leveraged long bets on Sunday. Traders who piled into AI chip stocks lost about $33.8 million on crypto exchanges a day earlier. The wipeout hit contracts tied to Micron (MU), SanDisk (SNDK) and SK Hynix (SKHY) one day before the 39th anniversary of the…
+Ethereum is quietly running tests that could reshape how much work its network can handle at once, but a bigger question looms: will any of it matter if the mainnet upgrade has no launch date and traders are already walking away?
 
-TradingView • 1h ago
+Yahoo Finance • 57m ago
+
+---
+
+**[Saylor and Yusko's BTC Price Target, Bitmine's ETH Purchase and More: This Week in Crypto](https://www.tradingview.com/news/benzinga:72c880488094b:0-saylor-and-yusko-s-btc-price-target-bitmine-s-eth-purchase-and-more-this-week-in-crypto/)**
+
+Bitcoin’s latest market debate mixed bullish price targets, cautious timelines and a corporate buying strategy that may soon hit its own limit. Meanwhile, analysts highlighted Ethereum and NEAR Protocol as potential winners, while new research revived questions about whether quantum computing could…
+
+TradingView • 9h ago
 
 ---
 
@@ -180,15 +188,7 @@ TradingView • 1h ago
 
 The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?
 
-24/7 Wall St. • 21h ago
-
----
-
-**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-4-110500798.html)**
-
-The odds of these coins being worth more in five years are quite high.
-
-Yahoo Finance • 2d ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -196,7 +196,23 @@ Yahoo Finance • 2d ago
 
 Claude traced P-256’s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain.
 
-CryptoSlate • 4h ago
+CryptoSlate • 7h ago
+
+---
+
+**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://stocktwits.com/news-articles/markets/cryptocurrency/black-monday-fears-rise-dollarm-ai-chip-bets-get-liquidated-bitcoin-near-danger-zone/cZxNVSaRBts)**
+
+Bitcoin (BTC) traded just above a cluster of leveraged long bets on Sunday. Traders who piled into AI chip stocks lost about $33.8 million on crypto exchanges a day earlier. The wipeout hit contracts tied to Micron (MU), SanDisk (SNDK) and SK Hynix (SKHY)
+
+Stocktwits • 4h ago
+
+---
+
+**[Bitcoin ETFs post $82.39 million in net outflows as Ethereum funds shed $69.68 million](https://cryptobriefing.com/bitcoin-etfs-82-million-outflows-october-16/)**
+
+Bitcoin ETFs saw $82.39 million in net outflows on October 16 while Ethereum ETFs lost $69.68 million, extending a weak October for crypto funds.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -208,27 +224,11 @@ Blockchain News • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum Fall while Crypto ETF Outflows Come Into Focus](https://urbanmatter.com/bitcoin-and-ethereum-fall-while-crypto-etf-outflows-come-into-focus/?amp=1)**
+**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
 
-Bitcoin price today and Ethereum price fall as crypto ETFs record USD 390.9 million in outflows. Latest cryptocurrency news and crypto market context.
+Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
 
-UrbanMatter • 2d ago
-
----
-
-**[a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum](https://cryptobriefing.com/quantum-resistant-signatures-improvement/)**
-
-Aerie by a16z aims to enhance quantum resistant signatures for Ethereum, addressing complexity and privacy in evolving blockchain security.
-
-Crypto Briefing • 2d ago
-
----
-
-**[Solana’s burn rate hits highest since 2025 – What could it mean for SOL/ETH?](https://ambcrypto.com/solanas-burn-rate-hits-highest-since-2025-what-could-it-mean-for-sol-eth/)**
-
-Solana is winning more transactions. Traders are still waiting for a reason to pay more for SOL.
-
-AMBCrypto • 8h ago
+Decrypt • 3d ago
 
 ---
 
@@ -242,7 +242,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 329 • 👍 25 • 💬 52 • ⏱️ 23:47 • 2h ago
+👁️ 780 • 👍 38 • 💬 34 • ⏱️ 23:47 • 5h ago
 
 ---
 
@@ -252,17 +252,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 22K • 👍 467 • 💬 63 • ⏱️ 11:36 • 21h ago
-
----
-
-**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 4K • 👍 57 • 💬 6 • ⏱️ 8:36 • 2d ago
+👁️ 23K • 👍 482 • 💬 64 • ⏱️ 11:36 • 1d ago
 
 ---
 
@@ -272,7 +262,7 @@ BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 13K • 👍 410 • 💬 168 • ⏱️ 20:42 • 8h ago
+👁️ 16K • 👍 452 • 💬 164 • ⏱️ 20:42 • 11h ago
 
 ---
 
@@ -282,7 +272,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 254 • 💬 38 • ⏱️ 26:07 • 1d ago
+👁️ 17K • 👍 260 • 💬 39 • ⏱️ 26:07 • 1d ago
+
+---
+
+**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 4K • 👍 58 • 💬 7 • ⏱️ 8:36 • 2d ago
 
 ---
 
@@ -292,7 +292,7 @@ supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanaly
 
 📺 Venture
 
-👁️ 2K • 👍 54 • 💬 6 • ⏱️ 25:25 • 1d ago
+👁️ 2K • 👍 58 • 💬 6 • ⏱️ 25:25 • 1d ago
 
 ---
 
@@ -302,7 +302,7 @@ Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude
 
 📺 Thomas Sutton
 
-👁️ 3K • 👍 36 • 💬 46 • ⏱️ 6:16 • 1d ago
+👁️ 3K • 👍 33 • 💬 50 • ⏱️ 6:16 • 1d ago
 
 ---
 
@@ -312,17 +312,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 180 • 💬 9 • ⏱️ 23:39 • 2d ago
+👁️ 10K • 👍 182 • 💬 10 • ⏱️ 23:39 • 2d ago
 
 ---
 
-**[Ethereum Scammer breaks his promise of an e-check](https://www.youtube.com/watch?v=J2GtztjUVSo)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=WCyVKejcKEc)**
 
-In this video I speak to a scammer who is pretending to be from Paypal. The scammer has sent out fake invoices stating that there ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 SkeletonSyskey
+📺 Profit First
 
-👁️ 136 • 👍 63 • 💬 8 • ⏱️ 25:38 • 47m ago
+👁️ 2K • 👍 78 • ⏱️ 6:29 • 7h ago
 
 ---
 
@@ -332,7 +332,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 29 • 💬 2 • ⏱️ 4:57 • 1d ago
+👁️ 1K • 👍 31 • 💬 2 • ⏱️ 4:57 • 1d ago
 
 ---
 

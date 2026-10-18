@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUVjdXhrUDJLZ3hzOE9HYko5ZjV0Qk5vLUMtaTdLbUowb0IxMHBHV2l0Ry0ydV9DTkZiUkdya0swSjVNYTAyNFdrVFJtRUJ6bW1nQzNDQ0xrdU1hRC1FTFVsZ3owVEhTRTFXVVljTG9PelRFcDEyaU5iMFBrdGQtWHowUXRESFdnUEY0YzA5aGZUeHF5RjBFNXI2VQ?oc=5",
-      "pub_date": 1792252863.0,
-      "article_url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png",
-      "description": "A group of crypto companies is trying to settle one of the industry\u2019s murkiest questions: what it actually means for a blockchain network to be safe from\u2026"
-    },
-    {
       "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
@@ -25,24 +15,44 @@
       "description": null
     },
     {
-      "headline": "CleanSpark Stock Slides After Revenue Drop And Bitcoin Output Update",
+      "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUVjdXhrUDJLZ3hzOE9HYko5ZjV0Qk5vLUMtaTdLbUowb0IxMHBHV2l0Ry0ydV9DTkZiUkdya0swSjVNYTAyNFdrVFJtRUJ6bW1nQzNDQ0xrdU1hRC1FTFVsZ3owVEhTRTFXVVljTG9PelRFcDEyaU5iMFBrdGQtWHowUXRESFdnUEY0YzA5aGZUeHF5RjBFNXI2VQ?oc=5",
+      "pub_date": 1792252863.0,
+      "article_url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png",
+      "description": "A group of crypto companies is trying to settle one of the industry\u2019s murkiest questions: what it actually means for a blockchain network to be safe from\u2026"
+    },
+    {
+      "headline": "Arthur Hayes Says Quantum Computing Is No Reason to Sell Bitcoin. The Real Risk Is One Common Habit.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUdTSFNSd3BxUGI2Q1VNOHJFSUZKN3pvM2t6VHNmRGgxd2RXQjNTSktNQVppMnFUY2MwcGNRbk1TUkI0U0xMbWdieEhvLWpBTEl5Vm1kZHpvQnkxRWxhdFg5UVQtRTV6ZThHeU5mRGQxcDhMR1Z0RWpxakRWaFM4dURqSk9UdnN2NmVXOWlCRm1JdlI3TE9uemJtRlR6MW81Szdz?oc=5",
-      "pub_date": 1792347144.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cleanspark-stock-slides-revenue-drop-181224901.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fe3b47e5326d1fdfc71bac8016b01ebd63252d1d710543a819483ae15df91b31/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F43e1667cb7476cb45f84db58a8de8d48.jpg",
-      "description": "CleanSpark reported unaudited bitcoin production of 529 coins for September and 5,432 for the year to September 30, 2026, alongside weaker fiscal Q3 results that included revenue of US$138.01 million and a net loss of US$239.84 million. The business is committing heavily to growth by entering into a 20-year triple-net data center lease tied to US$6.6 billion in contracted revenue, and issuing US$2.28 billion of senior secured notes to fund the Sandersville expansion, which puts execution and..."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXR2WU1JMEhRU1BudklQWTJTQU42RHZMSHA3U1Mwd2dqdnZhWDFTaEZ2MDc2WnJYWGpQM1hZOGhZZzgtX0xTbTc0RExhOXhUa205UGZiekNfdm1OVkVRYmRRNGlMY2p1b2U5N2JYZzJxRmpfQzJjWXBIcFBuZnFVNWNiUVRxWFNhV1NUTjVmNEZINGVqbllLSVFSWVhwb2JxX0E?oc=5",
+      "pub_date": 1792356014.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-quantum-computing-204014969.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a8c85096bc000d45749204b71e56ad314285e6aea45b26f9adf47ad067d6c4ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff073d5da27c2a7ba47fec6245740601b.jpg",
+      "description": "BitMEX co-founder Arthur Hayes says quantum computing fears have Bitcoin holders spooked for the wrong reason, and the actual vulnerability hiding in plain sight has nothing to do with the technology itself."
     },
     {
       "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElCYzJvU0J4M0pFNkpKSjc5U0JxS1RRZmZPS3czWnNPaU9XaFUzclhTV1pYMnlhMFBrTnNWMmZJVndEeVI5a2Fxa1FmcS1DM0ZBOWp2MERkdEFKVVRZckxHQ0pzaG5jT0ZNU2NMellvVkROaEw3SHI1WmoyNmRBTlZKZ0hGMjlJR09taUgzMEgzQWRGS2ZpMnVfRU5HaXlhakpfazQxc2wtNUdGNG1r?oc=5",
-      "pub_date": 1792341300.0,
+      "pub_date": 1792341658.0,
       "article_url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
+    },
+    {
+      "headline": "Bitcoin\u2019s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSHpZYmlnRHVTdWtWWDFpOWU5Nnl6V24yXzY5clIzWDViSjQ1MXc2R1hmTTQ4SUZFcW0zLUNsUlNfZHE4Y3N1Z1JaOWEtWXA2QUEzYXVabnkxRTF4SUZ0M19aZGo4TEZVV1RUSTJ2eTdSM1ZHSWljVWh3Yk92M29zbXNTOWg2WW90T0V3TkhtLWJEVmJkZUJvZnhVM3F5bldXOUZ3MlhNZWttMm1BLTNDSU9FeEg5ZzV2YUdLajlxOHFuN1JiTl94UEZLQy13T3VZZDVLU0ItMTA4ZWprcVBtUVI0Q3lFVnYyOENfZzZDTDNVSUdaZVE?oc=5",
+      "pub_date": 1792345039.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:d8e43b9eb094b:0-bitcoin-s-next-move-could-shake-stocks-and-metals-bloomberg-strategist-warns-as-fidelity-sees-bull-run/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Mike McGlone, a Bloomberg Intelligence senior commodity strategist, said on Sunday that Bitcoin (BTC) \"may have to prove strength, because if it doesn't, dominoes could tumble\" for stocks and metals, even as Fidelity's Jurrien Timmer said a new bull market for crypto could already be underway.McGlo\u2026"
     },
     {
       "headline": "Best Crypto Casinos 2026 \u2013 Top 5 Bitcoin Sites Reviewed for Bonuses",
@@ -55,16 +65,6 @@
       "description": "Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features \u2705mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino \u2705JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses \u2705Thunderpick 100% up to \u20ac2,000 Bonus rollover rules \u2705BitStarz Up to 5 BTC + 180 Free Spins Staged free spins \u2705Lucky Rebel..."
     },
     {
-      "headline": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5",
-      "pub_date": 1792305651.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin \u2018Bailout\u2019 Amid Price Crash Fears",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -75,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejc5T0E5Zlc4dURfLUlzMVRLLXBkcnY5S0RWbVVBMjhmbnY0ZmZ4WmRjd3ZnaFNUV1Y1d2tPNC1TVERWY3BsV19MMmt6aFlOR0JtSnpmNVNKSDhVUGxOaUFfM3lLNVpCOUp5UE10THdFazRuQlg1eDNmZmJRU2x2OTFHd2V5NG1maUZBZllBYlFOTktGLUVXNjFqV0lzZktrWkN0RkdxWG15Q2R4dlRuOGpiSDZuTXh3cGJMUWFOeHRZUQ?oc=5",
-      "pub_date": 1792242000.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/17/peter-schiff-says-sell-bitcoin-and-buy-gold-is-he-right-this-time/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/04/14.jpg",
-      "description": "Peter Schiff is again telling investors to sell Bitcoin and buy gold. Gold has lost less in 2026, but how reliable are his calls?"
+      "headline": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5",
+      "pub_date": 1792305651.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
@@ -95,16 +95,16 @@
       "description": "Strive\u2019s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares."
     },
     {
-      "headline": "Aave\u2019s Native Bitcoin Plan Moves Forward, But Governance Has Questions",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0pyZ09FMGxucGNKNTRhaUNMTGtwRzFxTUxiZEtnMkJ6bFgxd1FuZmg5MTFISmsxMHAwSzNWS2NjVXh1UGQzN05kbDBEeHFQb2pnNUxObTNueWowcW1ReUZpZm5UT29PdGljWngyUWJiaVZoS2Z4N1hVTjlWNkNfZDFzSWhYa3UxZkxZM0xGU25SUFc0VEhFaEpsWVE1WDgyMkRIaVJGaC1KSl9MSGVkbUpFMUJtMDc4UE9UT1RXTU5kZmxxMHc?oc=5",
-      "pub_date": 1792339200.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:c401bac38094b:0-aave-s-native-bitcoin-plan-moves-forward-but-governance-has-questions/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "TL;DR: Babylon Labs has advanced a proposal to bring native Bitcoin collateral to Aave V4 without requiring wrapped BTC or a central custodian. The plan still faces community review, risk analysis and governance votes.Bitcoin could become collateral for Aave loans without first being handed to a cu\u2026"
+      "headline": "Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejc5T0E5Zlc4dURfLUlzMVRLLXBkcnY5S0RWbVVBMjhmbnY0ZmZ4WmRjd3ZnaFNUV1Y1d2tPNC1TVERWY3BsV19MMmt6aFlOR0JtSnpmNVNKSDhVUGxOaUFfM3lLNVpCOUp5UE10THdFazRuQlg1eDNmZmJRU2x2OTFHd2V5NG1maUZBZllBYlFOTktGLUVXNjFqV0lzZktrWkN0RkdxWG15Q2R4dlRuOGpiSDZuTXh3cGJMUWFOeHRZUQ?oc=5",
+      "pub_date": 1792242000.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/17/peter-schiff-says-sell-bitcoin-and-buy-gold-is-he-right-this-time/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/04/14.jpg",
+      "description": "Peter Schiff is again telling investors to sell Bitcoin and buy gold. Gold has lost less in 2026, but how reliable are his calls?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T18:47:45.684728+00:00"
+  "fetched_at": "2026-10-18T21:17:30.379950+00:00"
 }
