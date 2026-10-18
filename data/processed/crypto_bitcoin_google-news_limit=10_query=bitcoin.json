@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
-      "pub_date": 1792154400.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -25,14 +15,24 @@
       "description": "A group of crypto companies is trying to settle one of the industry\u2019s murkiest questions: what it actually means for a blockchain network to be safe from\u2026"
     },
     {
-      "headline": "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
+      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
+      "pub_date": 1792154400.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWxhakVuTlhoTnJDLS1fdnM5V2ZIWlVZcjAxaG0xcFVMd0tKZGJSOXQ1c1VvUDZ2ek5ndFpfdks1bjBFMElXcThoUEFMOFBfajFscHZhRXdFVlg4Q0c5S3ZzYXJUeDMxUVFUN2pudzNIVko4cGRjWjFHSTNheDBwWXJWTjUtbkttazcwblpkMWg2Y3RRX05ZTWpZR1o4N3Y3cjdF?oc=5",
-      "pub_date": 1792285860.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/anthropics-junk-rating-sparks-bigger-011115520.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/380688e6eac66ed5bcc06dbbbf136bd60438e65f15d6da1ada7ca0d1873ed701/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F07984580890bc86638addaae8f20e1d3.png",
-      "description": "The Anthropic junk rating has Adam Back calling Bitcoin the hurdle rate. See what Anthropic's borrowing costs say about Treasuries and 60/40."
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnphbUd5MTdZbXdnZnlwNEVVTnY3ODlNVEV4OWlXQjFVNXBLbTN0eTlGVVFKUDhKT2ZObzZpNVFrQUVQbGhvN21VTUo4NVVzVGtoZEVOU01HNTZWUDN4ODE5bHg0YlZGa1dxT2JUREQ5X0NOVzJEM1B3U2tyTmVXQUhzTl9vZDV2UDVOVEJFaW9PdHNRODluTG5EQ1p4a0E?oc=5",
+      "pub_date": 1792306840.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-struggles-above-80k-whale-070040528.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com -- Bitcoin traded above $81,500, struggling to sustain a recovery as conflicting exchange flows and large whale transactions clouded the cryptocurrency\u2019s near-term outlook, while institutional interest in blockchain technology continued to expand."
     },
     {
       "headline": "Best Crypto Casinos 2026 \u2013 Top 5 Bitcoin Sites Reviewed for Bonuses",
@@ -45,24 +45,24 @@
       "description": "Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features \u2705mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino \u2705JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses \u2705Thunderpick 100% up to \u20ac2,000 Bonus rollover rules \u2705BitStarz Up to 5 BTC + 180 Free Spins Staged free spins \u2705Lucky Rebel..."
     },
     {
-      "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google\u2019s new Willow breakthrough",
+      "headline": "Scammer who duped job seekers loses $4.9 million in bitcoin to Ledger spy-chip exploit",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMC1lc1BqSkFEZlZycHhIN2ltczJTUC1fdVYzVXZwT3N0MGsteDlSejBTMWFjWE9PWGhWSFo5WE1pREJBZzdMMEJnZ2JMV1dYTHVaVkVEYkswTnlrcDRudF9zcFAxT3BVQWY2OUdnX0pNU0hNVDZSMW5NVDhzc3ZzN3ZjVzRNdjRvOXk2a3dRZWlfQm13T3RmU2Zxbkg2Xzd4YnVEYVY0MTRCZDgxZVpyVVQweXRCdmU1Z1QyT01RcnlrRWJ6Y3g0Sw?oc=5",
-      "pub_date": 1792204200.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2k4ODZLZ2pSak9Zbmk0OV9temRfSWw3dS1qVWJOZXBYLWFaZy1zOE05V19renppVDA3QlI5Vy1sbE8xYTBqWlVsbXU0ZGJjZ21sNWRxdTNnaEdGUWkwWFE2Sk1DM1l1TTdqZlNlTnVFVGdwdkhhQVVsWW80ZjZsOWZISm1qQWU2aU1iYVVudVR6aXdaN3B2VzZoSlVEN01wTW8tazA0aGcxTllPNmlzOTVabFl0WDNuZUhKX2VxUmRMaHJTZUpLVw?oc=5",
+      "pub_date": 1792146270.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/727c641cca47f8677edc87bc7d3420448b81fe78-5530x3684.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "A scammer who stole millions through fake online jobs became a high-profile victim of the CryptoBilis Ledger hardware implant breach."
     },
     {
-      "headline": "Strive Bitcoin Holdings Reach 35,595 BTC As Wall Street Raises Price Target 27%",
+      "headline": "Cantor's $112,000 Bitcoin Call Lifts Strategy Target to $208",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGZyRHIwQkcwbHNOeVE3UFEtMTVUUS1aU0ttN0FJUVpEWndXY25SQmZxMlJrVDZVZTZ0SHQ0RUpKMHdzVEtwckdxSGlibzkyaVNxeWRjRUhZcUtONi1rQV9zSXYyZ0NPUnJoSG1yejZVeU5kTXFDbzFZdTVMV1JsZzJrZkZDZi1EdWRPMXF6dEFuc1hESGlDZ0ZPOTR1c3MxVXVkdTJEN0VoTUJ0d3lRazFkT3VnSkJMQ1BWRkVFZURvTTdpeTRQNXB3d25xYXRVN3c?oc=5",
-      "pub_date": 1792278780.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:e0b722120094b:0-strive-bitcoin-holdings-reach-35-595-btc-as-wall-street-raises-price-target-27/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGhUWjJpci1GcS1vSGNUdzFrc1F3N09qNkpONlVVb1ZuUms4LUNIQVducm5jZE95ZldEb3FwX1lvUkRYaUllX0hRM05vQkdYLVFYVEJzZm85dE1fc01MX3NVbzg1QXg1Sm8wVF9waXF0Wmo0VEJlVkttMjBHemVrNGJ3OXNWVnNKcG03NS1zZDBHbFB0Wmsya2VKd3BBZi1GOWI2VFpjb3E5Tld1WFZfNmpoLWc2eDdScFE?oc=5",
+      "pub_date": 1792184138.0,
+      "article_url": "https://www.tradingview.com/news/gurufocus:322a25a19094b:0-cantor-s-112-000-bitcoin-call-lifts-strategy-target-to-208/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "TL;DR: TD Cowen reportedly raised its Strive share-price target from $44 to $56 after the Bitcoin treasury company expanded its holdings to 35,595 BTC. Strive is also seeking financing through a substantial preferred-share offering.Bitcoin treasury company Strive is attracting fresh attention from\u2026"
+      "description": "Cantor Fitzgerald raised its price target on Strategy NASDAQ:MSTR from $186 to $208 and kept an Overweight rating. The firm lifted its 12-month forward bitcoin price assumption to $112,000 from $98,000, taking a more bullish view on the asset after recent market strength. Strategy shares were down\u2026"
     },
     {
       "headline": "Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?",
@@ -85,6 +85,16 @@
       "description": "Both of these cryptocurrencies have registered positive momentum in the past three months."
     },
     {
+      "headline": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTlJKTDRhVXZPZ1VLMENNUkRjU0wxZ2Zqd0t3cUQ3SU8tOWktTnhial9aaVdENW8taXVwSTBlVjhiempaUU05Qy15VzNfYUZGck5YRy14TktXeElab29qWk5yMmZVZmZBQU05QkstbHFicE94SFJ3WlFwbWhWTUJDN0ZSZXRONDhoZEh4SVNJLXJrb3ZYenQ5WWg3TmpEa0ktNmxORUVuSXZzZ0k0QWVCTlQ5QVdKYWRRV2VF?oc=5",
+      "pub_date": 1792182120.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png",
+      "description": "Strive\u2019s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares."
+    },
+    {
       "headline": "Bitcoin is starting to behave more like gold as investors seek alternative hedges \u2013 Block Scholes",
       "source": "Kitco",
       "source_url": "https://www.kitco.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block",
       "image": "https://image-api.prod.kitco.com/image/42a55063-5d24-44c0-b1da-4b0510536c0c.jpeg?top=0.31815099457505&left=0&width=1000&height=562.36369801085&scale_width=1920&token=70bb19961de883f9d18edb9e71dab0857cb82c28c742d378f84b36b0f4cf0182",
       "description": "(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks.According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset.In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin's correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.He added that the digital currency\u2019s performance since late summer has revived the debate over whether it is living up to its digital-gold narrative of the last few years.\u201cThe move higher in the 90-day rolling correlation began in June and accelerated in August after the US Treasury stepped up its bond buyback programme in an attempt to cap longer-dated Treasury yields,\u201d Rahman said. \u201cIn the week following that announcement, BTC posted its largest weekly gain since March 2024, rallying more than 20%, while gold moved 5% higher too. The correlation went on to peak at 55% in mid-September, the highest in our data going back to 2014, and sits at 51% today.\u201dBoth Bitcoin and gold have attracted attention as alternative assets amid renewed interest in the debasement trade. Investors are increasingly looking for ways to preserve their wealth as global sovereign debt rises at an unsustainable pace and persistent inflation erodes the purchasing power of fiat currencies.Rahman's analysis suggests that Bitcoin's strengthening relationship with gold could reflect a shift in how investors view the digital currency, particularly as concerns about government debt, inflation and monetary policy continue to influence financial markets.He also noted that renewed interest in Bitcoin comes as investors look to diversify away from record-high equity market valuations. Although Bitcoin continues to trade with a positive correlation to major equity indexes, that relationship has weakened significantly this year.\u201cThe 90-day correlation with the S&amp;P 500 and the Nasdaq-100 is still positive at around 40%, but has fallen from a 62% high in February, and since mid-August, BTC has been more closely correlated with gold than with US stocks for the first time since late 2020,\u201d he said. \u201cThis could be an early sign that markets are beginning to treat BTC as a supplementary hedge alongside gold in the current macro-driven environment.\u201dSee live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
-    },
-    {
-      "headline": "Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQThGa1VJcmc5Sm5EQUNNNElhNE9HTllwc2E5aTRLZ3NONmUyWk4zb2sySXZvZ2sxRHZoUWVCNEpSTDdxV01admVsSm1xZXg1SE5fbUxpdHpsOWlpcGFSNkNLUm11R1AyQXpCOWF1bF92UmxkQ0tRVHJVQ3hLbDd2RlpYR3p6MVdnNHVza09IdUhtVzh0Nl9CaVJTUWJoOVJNRDZtbkRGTFhnQmFLZ2k5amJVTXMzUlJTa280RzVQbWhmY00?oc=5",
-      "pub_date": 1792216926.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T03:22:23.303420+00:00"
+  "fetched_at": "2026-10-18T08:15:34.614078+00:00"
 }

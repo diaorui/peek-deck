@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Amazon Has Now Deployed Over 1 Million Robots, Which Is Bad News for Its 1.5 Million Workers",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTk3SVQzWW1wVS0teHFLVk12TS1fQm9tam84cWVnV0JYV2xoNnVvR3gtalI4b3BMTmNaYjZGYm9lNFhlUXdLTzVIZ09ERVVuaHFIVmhqdEhXLVdJUC14OHp6a1hTdVlIRkZWOExyd0M1TGhYZ282ckRUV1EzRUx1bWVqNGozVm52RXFRVU9n?oc=5",
-      "pub_date": 1792252080.0,
-      "article_url": "https://futurism.com/future-society/amazon-robotics-automation-warehouse-labor-safety",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/amazon-robotics-automation-warehouse-labor-safety.jpg?quality=85&w=1200",
-      "description": "Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one."
-    },
-    {
       "headline": "Robots could boost US manufacturing as America races to keep pace with China, expert says",
       "source": "Fox Business",
       "source_url": "https://www.foxbusiness.com",
@@ -25,34 +15,14 @@
       "description": "A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics."
     },
     {
-      "headline": "Delivery Robots Accused Of Scanning Customers\u2019 Faces, Sharing Biometric Data",
-      "source": "Block Club Chicago",
-      "source_url": "https://blockclubchicago.org",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFBUUEpZbjhuU3ltRkFPY1Nna1R1SlN5a0w2b2N1c1J2dWlOTm5NUWdxX3BZTlJheVZrZnlrSkhLejNUY2R6Vm00SUQxblA4ajVYZXlQcXhLa2hrVnpQOTNyTGc5NTUtVXlLR0o2SmljeW5aTG1GaGVEVDBPMGRUaFBoaTRoRjFyWXdVTFducTFpeGhPczMwTUxHb05ZTXdVenhnM0lRTzRsUWZYN3BqRi12T3RuUQ?oc=5",
-      "pub_date": 1792178820.0,
-      "article_url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1lfemJGUTdQSTRnY3F4ZkNwQTk5WGNJMHhyOThvaUYwaTFVUFJvMVRraFZVWWszQVg2RnkwR0IxVVRqS1FINEhLdFk1dmZjR3RnQzI4bnUwV21XeXFwa0xJTzFOZW1Hczl3Y1pvVG9XNVljUnJlSDJnTW5pUmFFNVJBT0kxNnJCT0tYcnNpWjhmaEowYlA4UWRhV2VuNlpBZ1VKVUU4TVVOWWFnRFBPcmFmUkYxdHBzZmJnSnNhYw?oc=5",
-      "pub_date": 1792094614.0,
-      "article_url": "https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9753687-scaled-e1792072876871.jpg",
-      "description": "\u201cWhat we\u2019re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,\u201d said Maj. Gen. Jason Slider, commander of the John F. Kennedy Special Warfare Center and School."
-    },
-    {
-      "headline": "A Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2xkODBFNndkNEhPcXdCeTIzek1XY083QzZRNHpBR2V1dmxPZ2hVMXYyV3Njd2VEMnFKU2MyUDBob05oa1FtMkJaVktxeFlpd3JybEI3RjFaa1NwY2FMbDJtZUlid1FLelRoakFjN01uRnlGT3ZmcDQtWXJ3WWdYOFFQOUFPR1NWeWJaemF4YU1Mako2WWVR?oc=5",
-      "pub_date": 1792168200.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d052147fc9ff6c5c6d9772513296c3371b7f488ae805f78092b0348bdc7532f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F29c9fd6615328998e1be820221db79c7",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [\u2026]"
+      "headline": "Amazon Has Now Deployed Over 1 Million Robots, Which Is Bad News for Its 1.5 Million Workers",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTk3SVQzWW1wVS0teHFLVk12TS1fQm9tam84cWVnV0JYV2xoNnVvR3gtalI4b3BMTmNaYjZGYm9lNFhlUXdLTzVIZ09ERVVuaHFIVmhqdEhXLVdJUC14OHp6a1hTdVlIRkZWOExyd0M1TGhYZ282ckRUV1EzRUx1bWVqNGozVm52RXFRVU9n?oc=5",
+      "pub_date": 1792252080.0,
+      "article_url": "https://futurism.com/future-society/amazon-robotics-automation-warehouse-labor-safety",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/amazon-robotics-automation-warehouse-labor-safety.jpg?quality=85&w=1200",
+      "description": "Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one."
     },
     {
       "headline": "Bioinspired robot airdrops into remote waters via morphing wing-sail",
@@ -65,24 +35,14 @@
       "description": "\u201cFall like a maple seed, sail like a boat\u201d sounds like advice from legendary heavyweight boxer Muhammad Ali. In reality, it describes a new robotic platform scientists have created for fast, long-term deployment to monitor remote waters."
     },
     {
-      "headline": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots \u2014 wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNYk9reF9yLW02RGlJUG5Ra1hEOUpFSmR0dy1UTzk1dlV5eHF0NXZEN1NqdDFFXy1wVzlhNTFmdkN5QzFsc1RzbjFKMEZxLTA5STJIUk44N0JhNEFrRU5CUEhwSUtsM3pxZ1VQS0tHS09aWl83c1BoaHdsVFFCWDJfTUZ6dk05d08tRS16S0UtS1JSTDdWV0czSU01azBiano3MVNpVWc3NDRYeW9MdGtFbFhFdjZxREVjVExVTVJiT21tYUdMdHNjMS1WMU5LTVNhV1RuNDRmWHBKa185dEs3THlQQWJydTFmLTVpWm1sOHRHRlk0d2o4bUtJZHRqcTQ4eUw1dVd2UmExQ0xvYWg0X2I2Q200OWtiSGQ3ZTZRT1FfTEVCRWdxblFKM2FIRnQyZDNjdEwzX3pFY29NRmU1RWlydldrZ203VjBCUGdXaTh4d2d0U2Z6QmtpNEVQTmhrdzJtZlp3b2xvdHg2d1VQeVRoRVZIMUp6Q0RmbjZVaVgzc3dDc1Bqdm9fV0RqT0plYkd3U1V6LWZURlFQTWU5ZDNHdzNrVkZNRWc?oc=5",
-      "pub_date": 1792243280.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-      "image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
-      "description": "Is AI coming for blue-collar jobs, too?"
-    },
-    {
-      "headline": "Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU25vZ1VINGJMWGEzdzI5b2gxd3BYMEpsUDRiamRKN0lIanY0UFFoX1ZPbEV2MW9KTnJvU3p1VmdkcThfS2VmaGV5OTEyMHJDVWYzQXlzWlFaZ3BNUzcwcmd6Q3YwUl9LZVFNTm9kREVmN1ZCQjlCSWlmRXY3NjVxcUdld1ZSSzF6dnZMbXhJVWc2SEM3OW9pQg?oc=5",
-      "pub_date": 1792289579.0,
-      "article_url": "https://www.fool.com/investing/2026/10/17/kraken-robotics-stock-in-3-years-boom-bust-or-quie/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888199%2Fgettyimages-78461639-copy.jpg&w=1200&op=resize",
-      "description": "Down more than 60%, can Kraken Robotics stock mount a huge comeback?"
+      "headline": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1lfemJGUTdQSTRnY3F4ZkNwQTk5WGNJMHhyOThvaUYwaTFVUFJvMVRraFZVWWszQVg2RnkwR0IxVVRqS1FINEhLdFk1dmZjR3RnQzI4bnUwV21XeXFwa0xJTzFOZW1Hczl3Y1pvVG9XNVljUnJlSDJnTW5pUmFFNVJBT0kxNnJCT0tYcnNpWjhmaEowYlA4UWRhV2VuNlpBZ1VKVUU4TVVOWWFnRFBPcmFmUkYxdHBzZmJnSnNhYw?oc=5",
+      "pub_date": 1792094614.0,
+      "article_url": "https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9753687-scaled-e1792072876871.jpg",
+      "description": "\u201cWhat we\u2019re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,\u201d said Maj. Gen. Jason Slider, commander of the John F. Kennedy Special Warfare Center and School."
     },
     {
       "headline": "Saga Robotics Thorvald: The Best Inventions of 2026",
@@ -93,6 +53,46 @@
       "article_url": "https://time.com/collection/best-inventions/2026/saga-robotics-thorvald/",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1eade429586b4393/6acf818cc37bcf528cc91be4/Saga-Robotics-Thorvald-time-inventions-2026.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
       "description": "Find out why Saga Robotics Thorvald is on TIME's list of 2026's best inventions."
+    },
+    {
+      "headline": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50N1dGT0ZPNlhyYkxnd3ppbWpHN1h6bmU3dnhZb3g1bWJVZHZBbmJnWEM4NnVQS1lGbzBfTDlFeXhKbDI1X2I0R2xVcDhBZjEzVEw2WW9CSVFGWHJ5QlhZWlp5RzdxM1AyRzduT2dmb1cyblU5MjJOcFZZS3Y?oc=5",
+      "pub_date": 1792234813.0,
+      "article_url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmNZRTdpUVF4bEVCeTgzVkhOLURxbGI4cmxPVE01TWN1b1VoUHpnS01ySjVHamc1Z2t2SzZCbWRnX190TW5hS29admttWnhkY2FCMGpaNUFwUlRuZnV2Tk1UMDlmOWFsNXpELVpnYkVYZmdfamthalRZQjd4QU9lYzRDUGh2X1A2R2tWQnJGa284Y3p1RFpjTXJzQnc2amdfeU5EUmRtQ1g?oc=5",
+      "pub_date": 1792168200.0,
+      "article_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "description": "Watch as Techable VC founder and former Nvidia exec Amulya Vishwanath tells Equity why robotics\u2019 ChatGPT moment can wait, and why the real opportunity is rebuilding its basic building blocks."
+    },
+    {
+      "headline": "AI robots are roaming L.A. grocery aisles. Shoppers and workers are worried",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
+      "pub_date": 1792257780.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c1cf93d/2147483647/strip/true/crop/7523x3950+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F85%2Ff745569b480689e66f9e446b4eca%2F1572559-fi-inventory-robot-groceries-eat-0003.jpg",
+      "description": "AI robots are roaming Ralphs in L.A. They are scanning inventory and the union is trying to stop them."
+    },
+    {
+      "headline": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots \u2014 wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNYk9reF9yLW02RGlJUG5Ra1hEOUpFSmR0dy1UTzk1dlV5eHF0NXZEN1NqdDFFXy1wVzlhNTFmdkN5QzFsc1RzbjFKMEZxLTA5STJIUk44N0JhNEFrRU5CUEhwSUtsM3pxZ1VQS0tHS09aWl83c1BoaHdsVFFCWDJfTUZ6dk05d08tRS16S0UtS1JSTDdWV0czSU01azBiano3MVNpVWc3NDRYeW9MdGtFbFhFdjZxREVjVExVTVJiT21tYUdMdHNjMS1WMU5LTVNhV1RuNDRmWHBKa185dEs3THlQQWJydTFmLTVpWm1sOHRHRlk0d2o4bUtJZHRqcTQ4eUw1dVd2UmExQ0xvYWg0X2I2Q200OWtiSGQ3ZTZRT1FfTEVCRWdxblFKM2FIRnQyZDNjdEwzX3pFY29NRmU1RWlydldrZ203VjBCUGdXaTh4d2d0U2Z6QmtpNEVQTmhrdzJtZlp3b2xvdHg2d1VQeVRoRVZIMUp6Q0RmbjZVaVgzc3dDc1Bqdm9fV0RqT0plYkd3U1V6LWZURlFQTWU5ZDNHdzNrVkZNRWc?oc=5",
+      "pub_date": 1792243280.0,
+      "article_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
+      "description": "Is AI coming for blue-collar jobs, too?"
     },
     {
       "headline": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T03:22:26.630667+00:00"
+  "fetched_at": "2026-10-18T08:15:39.273608+00:00"
 }
