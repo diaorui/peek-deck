@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-18T23:31:41.739792+00:00'
+updated: '2026-10-19T03:34:42.145893+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 23:31 UTC  
+**Last Updated:** October 19, 2026 at 03:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.6%  
-**30d:** -8.6%  
-**90d:** +24.7%  
-**1y:** -39.6%  
+**24h:** +0.5%  
+**7d:** -2.9%  
+**30d:** -8.1%  
+**90d:** +25.5%  
+**1y:** -39.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.90B
+**Market Cap:** $296.16B
 Rank #2
 
-**Circulating Supply:** 122,145,416 ETH
+**Circulating Supply:** 122,148,378 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-51.0%
 
 **All-Time Low:** $0.43
-+555626.7%
++559931.8%
 
 ---
 
@@ -152,35 +152,19 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
+**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
+
+According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
+
+Yahoo Finance • 10h ago
+
+---
+
 **[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
 
 The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
 CoinDesk • 2d ago
-
----
-
-**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
-
-An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
-
-Engadget • 2d ago
-
----
-
-**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
-
-According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Ethereum’s ‘World Computer’ Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents](https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/)**
-
-Ethereum (ETH) was wrong with its “world computer” idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight’s approach as “What they got wrong with this idea of one giant shared w…
-
-TradingView • 5h ago
 
 ---
 
@@ -192,11 +176,27 @@ The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the 
 
 ---
 
+**[Saylor and Yusko's BTC Price Target, Bitmine's ETH Purchase and More: This Week in Crypto](https://www.tradingview.com/news/benzinga:72c880488094b:0-saylor-and-yusko-s-btc-price-target-bitmine-s-eth-purchase-and-more-this-week-in-crypto/)**
+
+Bitcoin’s latest market debate mixed bullish price targets, cautious timelines and a corporate buying strategy that may soon hit its own limit. Meanwhile, analysts highlighted Ethereum and NEAR Protocol as potential winners, while new research revived questions about whether quantum computing could…
+
+TradingView • 15h ago
+
+---
+
 **[Claude unpicks an NSA mystery behind Ethereum passkey security](https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/)**
 
 Claude traced P-256’s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain.
 
-CryptoSlate • 9h ago
+CryptoSlate • 13h ago
+
+---
+
+**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
+
+An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
+
+Engadget • 2d ago
 
 ---
 
@@ -216,17 +216,15 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin ETFs post $82.39 million in net outflows as Ethereum funds shed $69.68 million](https://cryptobriefing.com/bitcoin-etfs-82-million-outflows-october-16/)**
+**[Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze](https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze)**
 
-Bitcoin ETFs saw $82.39 million in net outflows on October 16 while Ethereum ETFs lost $69.68 million, extending a weak October for crypto funds.
-
-Crypto Briefing • 1d ago
+Benzinga • 3d ago
 
 ---
 
-**[Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)**
+**[OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task](https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task)**
 
-Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
+The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.
 
 Decrypt • 3d ago
 
@@ -242,17 +240,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 24K • 👍 493 • 💬 66 • ⏱️ 11:36 • 1d ago
-
----
-
-**[Why Ethereum Is Cheap Below 2,400](https://www.youtube.com/watch?v=QWwb8xkiDu4)**
-
-Why is Ethereum cheap below 2400? It usually falls about 1.3x as hard as Bitcoin, so a Bitcoin drop to the 78K bull market support ...
-
-📺 VirtualBacon
-
-👁️ 2K • 👍 50 • 💬 36 • ⏱️ 1:26 • 9h ago
+👁️ 25K • 👍 504 • 💬 76 • ⏱️ 11:36 • 1d ago
 
 ---
 
@@ -262,27 +250,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 44 • 💬 48 • ⏱️ 23:47 • 7h ago
+👁️ 3K • 👍 53 • 💬 54 • ⏱️ 23:47 • 11h ago
 
 ---
 
-**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
+**[Why Ethereum Is Cheap Below 2,400](https://www.youtube.com/watch?v=QWwb8xkiDu4)**
 
-BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Why is Ethereum cheap below 2400? It usually falls about 1.3x as hard as Bitcoin, so a Bitcoin drop to the 78K bull market support ...
 
-📺 Crypto World
+📺 VirtualBacon
 
-👁️ 18K • 👍 463 • 💬 183 • ⏱️ 20:42 • 13h ago
-
----
-
-**[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
-
-supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanalysis 4th anniversary Level 2 offer, apply ...
-
-📺 Venture
-
-👁️ 2K • 👍 58 • 💬 6 • ⏱️ 25:25 • 1d ago
+👁️ 2K • 👍 54 • 💬 37 • ⏱️ 1:26 • 13h ago
 
 ---
 
@@ -292,7 +270,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 9K • 👍 235 • 💬 168 • ⏱️ 14:07 • 10h ago
+👁️ 11K • 👍 267 • 💬 160 • ⏱️ 14:07 • 14h ago
 
 ---
 
@@ -302,27 +280,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 268 • 💬 39 • ⏱️ 26:07 • 1d ago
+👁️ 19K • 👍 281 • 💬 40 • ⏱️ 26:07 • 1d ago
 
 ---
 
-**[I Built a Day Trading Bot using Claude Code (ETH Automated Trading)](https://www.youtube.com/watch?v=TtAx2A8hpTU)**
+**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
 
-Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude Code (ETH Automated Trading) Timeline: 00:00 ...
+BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Thomas Sutton
+📺 Crypto World
 
-👁️ 4K • 👍 33 • 💬 51 • ⏱️ 6:16 • 1d ago
+👁️ 21K • 👍 492 • 💬 278 • ⏱️ 20:42 • 17h ago
 
 ---
 
-**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
+**[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
+supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanalysis 4th anniversary Level 2 offer, apply ...
 
-📺 Bitcoin Strategy
+📺 Venture
 
-👁️ 4K • 👍 58 • 💬 7 • ⏱️ 8:36 • 2d ago
+👁️ 2K • 👍 59 • 💬 6 • ⏱️ 25:25 • 1d ago
 
 ---
 
@@ -332,7 +310,27 @@ BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 15K • 👍 349 • 💬 242 • ⏱️ 14:47 • 1d ago
+👁️ 16K • 👍 350 • 💬 243 • ⏱️ 14:47 • 1d ago
+
+---
+
+**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 4K • 👍 59 • 💬 7 • ⏱️ 8:36 • 2d ago
+
+---
+
+**[I Built a Day Trading Bot using Claude Code (ETH Automated Trading)](https://www.youtube.com/watch?v=TtAx2A8hpTU)**
+
+Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude Code (ETH Automated Trading) Timeline: 00:00 ...
+
+📺 Thomas Sutton
+
+👁️ 4K • 👍 43 • 💬 55 • ⏱️ 6:16 • 1d ago
 
 ---
 

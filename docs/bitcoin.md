@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-18T23:31:41.735703+00:00'
+updated: '2026-10-19T03:34:42.139600+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 18, 2026 at 23:31 UTC  
+**Last Updated:** October 19, 2026 at 03:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,545.93
+### $82,631.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.3%  
-**30d:** +1.1%  
-**90d:** +23.5%  
-**1y:** -24.2%  
+**24h:** +1.0%  
+**7d:** -0.7%  
+**30d:** +1.8%  
+**90d:** +25.0%  
+**1y:** -25.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1647.10B
+**Market Cap:** $1658.71B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.0%
+-34.5%
 
 **All-Time Low:** $67.81
-+120826.1%
++121615.1%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Is this you? Or the 40K guy?](https://www.reddit.com/r/Bitcoin/comments/1x907p1/is_this_you_or_the_40k_guy/)**
 
-12h ago
+16h ago
 
 ---
 
 **[America Is Importing Bitcoin and Exporting Dollars. Guess Which One It Can’t Print.](https://www.reddit.com/r/Bitcoin/comments/1x8v7fv/america_is_importing_bitcoin_and_exporting/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 17h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 21h ago
 
 ---
 
 **[we need bull street ✔](https://www.reddit.com/r/Bitcoin/comments/1x920ik/we_need_bull_street/)**
 
-11h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[You still got Bitcoins son](https://www.reddit.com/r/Bitcoin/comments/1x7yxq0/you_still_got_bitcoins_son/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+20h ago
 
 ---
 
@@ -147,41 +147,47 @@ A vanity address is one where you pick the first few characters and let a progra
 
 ## Google News: "bitcoin"
 
+**[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
+
+Barron's • 2d ago
+
+---
+
+**[What Happens to Bitcoin When Billions in Options Expire?](https://247wallst.com/investing/cryptocurrency/2026/10/16/what-happens-to-bitcoin-when-billions-in-options-expire/)**
+
+Bitcoin options expire on Deribit on October 16 and October 30. Can expiry and max pain pin the price, and what happens after?
+
+24/7 Wall St. • 2d ago
+
+---
+
+**[Bitcoin Bull Signals are Flashing Everywhere, Analysts Claim](https://www.mitrade.com/au/insights/crypto/bitcoin/beincrypto-BTCUSD-202610190956)**
+
+Bitcoin momentum turned positive on two widely watched indicators this week, ending a bearish stretch of roughly 10 months. PlanB, creator of the stock-to-flow model, shared the flip and questioned wh
+
+Mitrade • 1h ago
+
+---
+
 **[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
 
 According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed](https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed)**
-
-A group of crypto companies is trying to settle one of the industry’s murkiest questions: what it actually means for a blockchain network to be safe from…
-
-Decrypt • 1d ago
-
----
-
-**[Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)**
+**[Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)**
 
 Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.
 
-CoinDesk • 6h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/)**
 
-Forbes • 10h ago
-
----
-
-**[Bitcoin’s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run](https://www.tradingview.com/news/stocktwits:d8e43b9eb094b:0-bitcoin-s-next-move-could-shake-stocks-and-metals-bloomberg-strategist-warns-as-fidelity-sees-bull-run/)**
-
-Mike McGlone, a Bloomberg Intelligence senior commodity strategist, said on Sunday that Bitcoin (BTC) "may have to prove strength, because if it doesn't, dominoes could tumble" for stocks and metals, even as Fidelity's Jurrien Timmer said a new bull market for crypto could already be underway.McGlo…
-
-TradingView • 5h ago
+Forbes • 14h ago
 
 ---
 
@@ -193,43 +199,31 @@ Muddy River Sports • 2d ago
 
 ---
 
+**[Bitcoin's MVRV drops below 30th percentile after $87K rejection](https://www.tradingview.com/news/cryptobriefing:ece44eb37094b:0-bitcoin-s-mvrv-drops-below-30th-percentile-after-87k-rejection/)**
+
+Bitcoin keeps knocking on the door at $87,000. The door keeps not opening.After repeated rejections near that level, a key on-chain valuation gauge has slipped below its 30th percentile. Crypto analyst Darkfost reported on October 18, 2026 that Bitcoin's cycle-adjusted MVRV percentile had fallen to…
+
+TradingView • 4h ago
+
+---
+
 **[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806)**
 
-Investing.com • 16h ago
+Investing.com • 20h ago
 
 ---
 
-**[Iran, Fed, bonds: 3 reasons bitcoin is unlikely to hit US$100,000 this year](https://www.scmp.com/business/cryptocurrency/article/3371238/bitcoin-making-comeback-risk-more-sharp-pullbacks-real)**
+**[Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen](https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839)**
 
-South China Morning Post • 31m ago
+Strive’s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares.
 
----
-
-**[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
-
-Barron's • 2d ago
-
----
-
-**[Peter Schiff Says Sell Bitcoin and Buy Gold. Is He Right This Time?](https://247wallst.com/investing/cryptocurrency/2026/10/17/peter-schiff-says-sell-bitcoin-and-buy-gold-is-he-right-this-time/)**
-
-Peter Schiff is again telling investors to sell Bitcoin and buy gold. Gold has lost less in 2026, but how reliable are his calls?
-
-24/7 Wall St. • 1d ago
+The Block • 2d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[UTXO Bitcoin Composition Engine](https://news.ycombinator.com/item?id=50049306)**
-
-Contribute to Artur7897/bitcoin-composition-engine development by creating an account on GitHub.
-
-⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/Artur7897/bitcoin-composition-engine)
-
----
 
 **[Strive Targets $500M Raise to Buy More Bitcoin](https://news.ycombinator.com/item?id=50096427)**
 
@@ -251,7 +245,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
-⬆️ 1 • 💬 0 • 4h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+⬆️ 1 • 💬 0 • 8h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -279,43 +273,23 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ## YouTube Videos: "bitcoin"
 
+**[$1 Million Bitcoin COUNTDOWN - Michael Saylor Just Made His NEXT MOVE](https://www.youtube.com/watch?v=qXLa2aL1nFM)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 172 • 💬 83 • ⏱️ 15:15 • 5h ago
+
+---
+
 **[LEAKED: Here&#39;s The REAL Reason America Hasn&#39;t Bought Bitcoin For its Strategic Reserve...](https://www.youtube.com/watch?v=Dww0Co7cE-g)**
 
 Inflation is heating up, the bond market is flashing warning signs, and a potential gold revaluation has Bitcoiners talking about ...
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 924 • 💬 164 • ⏱️ 55:34 • 6h ago
-
----
-
-**[Michael Saylor Issues DIRE WARNING for Anyone Holding Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=ojpjTIh6T9g)**
-
-Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 107K • 👍 3K • 💬 132 • ⏱️ 9:23 • 1d ago
-
----
-
-**[TOM LEE - BUY AS MUCH BITCOIN AS YOU CAN!](https://www.youtube.com/watch?v=bmyq413Ujv4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 6K • 👍 264 • 💬 64 • ⏱️ 8:12 • 6h ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
-
-BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 18K • 👍 463 • 💬 183 • ⏱️ 20:42 • 13h ago
+👁️ 20K • 👍 1K • 💬 190 • ⏱️ 55:34 • 10h ago
 
 ---
 
@@ -325,47 +299,47 @@ BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, 
 
 📺 Benjamin Cowen
 
-👁️ 193K • 👍 5K • 💬 383 • ⏱️ 1:11:56 • 2d ago
+👁️ 195K • 👍 5K • 💬 383 • ⏱️ 1:11:56 • 2d ago
 
 ---
 
-**[Is the Money Coming Back for Bitcoin?](https://www.youtube.com/watch?v=I0xDs3CzG54)**
+**[Michael Saylor Issues DIRE WARNING for Anyone Holding Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=ojpjTIh6T9g)**
 
-The world's money supply hit an all-time high in September, about 125 trillion dollars, and a lot of people in crypto say that's all ...
+Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ Follow Altcoin Daily on X: ...
 
-📺 More Crypto Online
+📺 Altcoin Daily
 
-👁️ 22K • 👍 628 • 💬 25 • ⏱️ 17:10 • 19h ago
-
----
-
-**[Tom Lee : “This Changes Everything for Bitcoin and Crypto&quot; (New 2026 Bitcoin and Crypto Prediction)](https://www.youtube.com/watch?v=VQdhjFFw2rg)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 208 • 💬 55 • ⏱️ 26:25 • 19h ago
+👁️ 114K • 👍 3K • 💬 133 • ⏱️ 9:23 • 1d ago
 
 ---
 
-**[Jordi Visser: Nobody Is Ready for How Big Bitcoin Gets...](https://www.youtube.com/watch?v=hKGTOf9ajOs)**
+**[Bitcoin is the NEW GOLD, the Future is Here](https://www.youtube.com/watch?v=vNQhoMTkJuQ)**
 
-What happens to Bitcoin if AI makes everything abundant and cheap? @JordiVisserLabs , a macro investor with one foot in crypto ...
+Watch the FULL DOCUMENTARY here: https://youtu.be/3Y0O3syRMl8 Join us tonight for a special episode of Timcast IRL as we ...
 
-📺 When Shift Happens
+📺 Timcast IRL
 
-👁️ 10K • 👍 188 • 💬 105 • ⏱️ 6:10 • 9h ago
+👁️ 22K • 👍 405 • 💬 223 • ⏱️ 11:38 • 9h ago
 
 ---
 
-**[MAJOR BITCOIN SIGNAL IS REPEATING...](https://www.youtube.com/watch?v=Yu5YMSoYj_0)**
+**[URGENT! Crypto Investors Need To See This Before Monday!](https://www.youtube.com/watch?v=2ZTed73ZpWw)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+The AI selloff is spreading across global markets, raising fears of a much bigger financial meltdown. With stocks under pressure, ...
 
-📺 Crypto Rover
+📺 Crypto Banter
 
-👁️ 21K • 👍 850 • 💬 48 • ⏱️ 4:15 • 19h ago
+👁️ 61K • 👍 2K • 💬 65 • ⏱️ 31:08 • 9h ago
+
+---
+
+**[“Bitcoin will change EVERYTHING!”– Uri Follman | Ep. #80 | YIDDISH](https://www.youtube.com/watch?v=xlAGDpxl65g)**
+
+In a generation where AI is everywhere and cryptocurrency is becoming a major topic of conversation, we sat down with Uri ...
+
+📺 ShmueliCast
+
+👁️ 8K • 👍 175 • 💬 41 • ⏱️ 1:46:41 • 1d ago
 
 ---
 
@@ -375,7 +349,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 316 • 💬 139 • ⏱️ 8:38 • 1d ago
+👁️ 18K • 👍 319 • 💬 129 • ⏱️ 8:38 • 1d ago
+
+---
+
+**[Bitcoin bought at the top](https://www.youtube.com/watch?v=bvu_5aM6k7I)**
+
+k on November 9, 2021: bitcoin, or the S&P? November 9, 2021 sits within a day of bitcoin's actual 2021 cycle closing high ...
+
+📺 Alex Romano Invests
+
+👁️ 1K • 👍 9 • 💬 2 • ⏱️ 0:22 • 13h ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
+
+BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 21K • 👍 492 • 💬 278 • ⏱️ 20:42 • 17h ago
 
 ---
 
