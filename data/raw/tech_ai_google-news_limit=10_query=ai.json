@@ -5,74 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0VEbmNfbE5uMElhQjBYamg4ckYwRm42Um90WExnZ3lmRDJ2ZGVnVGdtdkVwRnU5Z3dpd1hlT1BPLXNScGZCcUtFX0kxQmxSZmlXRDJ3QXBMU3VLdGNGbW5EZFJ5S3VHUTBCTXRQcWd1NWExRTRteUpyT0tZdVpXaG1MS1Jpd2RvRWs2T3Y0clU2N1N4c3NDUU5HaW1ZbXlr?oc=5",
-      "pub_date": 1792400400.0,
-      "article_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
-      "description": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents."
+      "headline": "Should you trust personal AI agents with your money and data? Here's what experts say.",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTXliZWY5b05tT0JaX0E1TjI1eWZNVjBWMzhqSTF5M2NDMEtLazY2VS0xclczUnV0R0RTYmQxMXpxSXJtaW9UN3NCTUgzekNQUGF2QTUyTTNSQ0RLekU1alFJUkpJNU1mY3F0OW9QQzFjWWU0N1prMw?oc=5",
+      "pub_date": 1792440700.0,
+      "article_url": "https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/19/4069725f-adbb-4ddc-a87f-c6ee4f540516/thumbnail/1200x630/b0d6559f205fdb7c7a769773026a11b1/gettyimages-2299665210.jpg",
+      "description": "The more access you give personal AI agents, the more capable they can be. But should you trust them?"
     },
     {
       "headline": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
-      "pub_date": 1792413096.0,
+      "pub_date": 1792433734.0,
       "article_url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
       "image": null,
       "description": null
     },
     {
-      "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5",
-      "pub_date": 1792418321.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "description": "The AI agents infiltrated more than 100 websites."
+      "headline": "As AI dominates conversations, here are key terms to know",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUTNoVmZ5aXdxUlRxa3otUWZzaEg0NTdfSndITmJNTVZsY2pvdEtBcGFielBGSUdHTzhmUzFXMHRmYjNQaWc4a1kyT0JfclZ5WlU3bGtBOFdqSTJwdnA4TjgyQmJUMkRMVFNRSXhuT1BfSW85Z1d0VUFlSjlHaDA?oc=5",
+      "pub_date": 1792443224.0,
+      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-terms-definitions/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/84ca990e-f04a-4be0-a337-bf92916ce104/thumbnail/1200x630/9a002f320c1537c3cd18e906ba8a5619/gettyimages-2017676996.jpg",
+      "description": "Artificial intelligence and the conversations around it are rapidly evolving. These terms can help to understand the developments."
     },
     {
-      "headline": "AI agents are only as good as the personal information you share. That raises privacy concerns",
-      "source": "Anchorage Daily News",
-      "source_url": "https://www.adn.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFprODhFTzRqS0ZNVFQ2MG44Y3NxLXNuYl94Yll3YUs3ajk3N0NBcENxZDhpMENtTVdTbDVuVld1aXpQNVZQTFBtQmNERkM1MlhiZEozTWxwaHZSV29uXzRyWFlWVk1FRnFMTWRkeUp0aEJEREhnS3ZJYXpQV0l6eDc3a0U4ZmRoNVNxRmFtUktWNUtLY0hoaXV4NkExOXI4NU1FTFVkbUdGNGNMNjZ1TWxNa0ZVXzhTaDV6SG9SejlDaXpUVzdZeHI2emJyVURmelBHbg?oc=5",
-      "pub_date": 1792425498.0,
-      "article_url": "https://www.adn.com/nation-world/2026/10/19/ai-agents-are-only-as-good-as-the-personal-information-you-share-that-raises-privacy-concerns/",
-      "image": "https://www.adn.com/resizer/v2/7Y2NF77FRD5P74KT42NSHUQHEA.jpg?smart=true&auth=d374dd3eac8bf876453464fe8e74d7126d6c128c5e91cad6a12287a7d8e0aa55&width=1200&height=630",
-      "description": null
-    },
-    {
-      "headline": "How DeepSeek Is Shaping Huawei\u2019s AI Chips in a Growing Challenge to Nvidia",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2RQSmZ0elVhQmxYNy1qajBvNDl5NlVmRlFfWlg1WHBtUGVicUNEZEFEbmR5eTVyOGY4cnpRc0tMVGxFTFIyV2pQTEtSLXpTT09KeUFndkV5bktmSERxQmcxX1FUNnhRMlZHdHQ4MnRMRzhuQ1JfajZ3Q1RncXRlVFcwNVBQdV93a0xvUVFEb2VfQlNvbG41dmVNSktQRk0?oc=5",
-      "pub_date": 1792425600.0,
-      "article_url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia",
-      "image": "https://tii.imgix.net/production/articles/17999/2ce59ff9-4776-450d-a48e-a3f481cf1064.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "DeepSeek is working closely with Huawei Technologies to shape the design of future AI chips, two people familiar with the matter said, in a collaboration that could help China build frontier AI models without Nvidia\u2019s technology. The relationship goes beyond the kinds of conversations companies ..."
-    },
-    {
-      "headline": "The Internet Needs a Memory",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzhmdlBONmw1akpjOUczYjItcEgta2MxcWlCVVdfVi12MTdxTi1WanRaWkxCc2JXcDdzcWxUMERJRFB2Q2RPVnVxVXpwTm51RmRFLWkyZGVBZDJaNHJiZVN1bFNZZFd6cDR4aVhlQzFhc2lVaXlaWmRQdmFfTGNGOVRzQ2I1WllYM0dhWmNTZlVxM0xpSFhURVhhRFdzUQ?oc=5",
-      "pub_date": 1792425600.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "People are using AI to make their smart TVs dumb again",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUlIQzFzeG5lbUQ1eVppbklieXRmRlhva2tGMmQ5MzZIU0ZEYVlBVUNsVnFLYmJuSk5sdk5jdDc3VDZXZFdUd0hiRUNqbUl0ck9MS3hYWU0yQVEyc1ozQTFJd0MtYm5ZR1h6LVNXdEl3dmVpSXZWaXEtMnY2dDZ4NlJEUkNmTW5qbW1mOGhEOWp4eUE?oc=5",
-      "pub_date": 1792426402.0,
-      "article_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
-      "description": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+      "headline": "The AI doom scenario you've never heard of may be the hardest to stop",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5",
+      "pub_date": 1792439052.0,
+      "article_url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2871e3cb-c135-4878-a8f1-162a5c627aa4/thumbnail/1200x630/37172b2d82439afb580652162c72b471/gettyimages-2213179432.jpg",
+      "description": "The time to prepare for \"gradual disempowerment\" is now, according to researchers. One calls it \"a civilization-scale problem.\""
     },
     {
       "headline": "Investors are buying on Monday despite fear the AI trade nightmare scenario is far from over",
@@ -89,22 +59,52 @@
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEt3a3NfQVIwNnB5bDRyMWtCdU1fVjN6YXlGOFhwVF9VdWhhVW5aSi1lTzZPSVdFVUhrOFJJWXJpM29yOEVXVWwzWVRDalJHREZqMkVsS0prYjJtYXROOGh0ejdwY2JzclFTNk1EVE9BSVdWejd6RnBJa2Z6azJFdEhYdS1UMWdmSGFKYzBtLVJ5RlYxcWQxRUZzdllGUXNibUNCNnh0VmlSdmZWNjA2QjVOQ3VuaWFwTE8wX0ZiYVRpQQ?oc=5",
-      "pub_date": 1792418246.0,
+      "pub_date": 1792441405.0,
       "article_url": "https://finance.yahoo.com/markets/article/intel-leads-chip-stocks-higher-as-investors-jump-back-into-ai-trade-135726553.html",
       "image": "https://s.yimg.com/lo/mysterio/api/60b37a27bbce18f41aff8e857ae6068e5603dc0f8b947a006a20fe15534ed1c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F534d965d-af13-4ebd-8d0f-29221e8a12cb",
       "description": "Semiconductor stocks jumped on Monday."
     },
     {
-      "headline": "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
-      "source": "The Detroit News",
-      "source_url": "https://www.detroitnews.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQjZ2RkNBR1Job1lUYmJyVERwRDZzdFo2VHFSQVdmWVhLYnZpaDZtVkJ0V3l5V1FzS2hMUTZUd0tObWZ0QTI2VVM3LU5WUjFmXzdPWmZSaWotVnlPNEMzUGlNbG53Q3dtbmNOZ0diSTRBNXlvQTJtYXQ5amtMbzhiMExSUUdaWWJxNDNfdnZtY3hQRnQxdGE0MnRTU2tSOGd1aFZUWGRRNy1xeVFHVXhnTWJhZ2dBOGlCZHp0WWlGeldPdUhpSkpncmFzLTQ?oc=5",
-      "pub_date": 1792425960.0,
-      "article_url": "https://www.detroitnews.com/story/business/2026/10/19/sp-500-nasdaq-climb-as-ai-linked-stocks-recover-ahead-of-earnings/92330574007/",
-      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/02/03/PDTN/88489525007-getty-images-2255409920.jpg?crop=5162,2903,x0,y264&width=3200&height=1800&format=pjpg&auto=webp",
-      "description": "The benchmark S&P 500 and the Nasdaq Composite gained on Monday, as AI-related stocks rebounded from last week's sharp selloff."
+      "headline": "AI stocks lead a rebound on Wall Street as European markets drop following protests",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2FrU2lfd0J4Y0h5MlAyczJnU1h1bTVLdEs5TGRBbFlJcGMzUVJQVDNXbnEtZlh2VWRoNmtMZEdwUWJfV29mMFZkQ3UtRHVpRUFlNmtDMWNzdEtDTG9iaG5GSG4waHBFTE8tQjlCelJlT1AxamMzUVpDX01sX2gweU4tUDlZMWtUOTRhay1kWjRpdmx2QnVVNGxFTEswaWRlb0xEMGxWZ1lxUHJ2UUZNOHg2ZExFT3A5TXBQaDZjaGVqbDMzcmtRdUNRUQ?oc=5",
+      "pub_date": 1792442100.0,
+      "article_url": "https://www.latimes.com/business/story/2026-10-19/ai-stocks-lead-rebound-on-wall-street-as-european-markets-drop-following-protests",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/27239b3/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2Fc5%2Fba22441e42948afc9e975f2fc33b%2F24edabc7b0ee445dac2e818318e52553.jpg",
+      "description": "AI stocks recovered some of their steep losses from last week, but the rest of the market and stocks worldwide were shaky"
+    },
+    {
+      "headline": "What separates the AI leaders from the laggards",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3VucG9UVDMxTmVZNGs4eUVSUE93d2lNeDA5SlZFOWxHNEo4VncxYmJGWmF2UHlpTDMzZHhHMGVqLThrTnROLU1aTVpCcC1WOXl4TlJLUzJxbm43VF9DQWlsWGRvN0lleDFaQS1QVy1jQmVwVDEtRGFHcDRUR3hfTE1XSE8tSUVpcFd2bw?oc=5",
+      "pub_date": 1792443222.0,
+      "article_url": "https://www.fastcompany.com/91624734/what-separates-the-ai-leaders-from-the-laggards",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/10/FCIF-DAY3-260917-1397.jpg",
+      "description": "Too often, the biggest barrier to transformation isn\u2019t the technology\u2014it\u2019s the business itself"
+    },
+    {
+      "headline": "Anthropic, Musk outline dueling approaches to AI-era philanthropy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
+      "pub_date": 1792347480.0,
+      "article_url": "https://www.reuters.com/business/anthropic-commit-5-stake-new-public-benefit-fund-2026-10-18/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YejV2dXEyYXpFUWJkMzZlMmVTczlHREhYdW5yT2dhbEplTFpBRnlvamlEaEFqWVJzdXhMOEdsVWx3OHhVU0d5dVVLckVtRl9FOHBzSzhKOE1oeGc4bVlsaDYzVzE1UUFHYlI2SHNEYzVXWUllSjV1MtIBfkFVX3lxTE5YWlRXWDhCbm01QjlQVHZKb21HV1FlZGNyQzlRVVV5MUFEal9jLXlwbFVJYU5CajJVcGwzQ0NxeWVXMl8yX0pqbENNQ3RmbU92VWpSTl9KeDFKNHdTa3VaX3BEVl92WTdiczlURW9WWmZZbm81ZDFlWnRoZXdoQQ?oc=5",
+      "pub_date": 1792364148.0,
+      "article_url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+      "description": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-19T16:49:39.939779+00:00"
+  "fetched_at": "2026-10-19T21:21:25.491919+00:00"
 }
