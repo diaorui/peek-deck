@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-19T03:34:42.139600+00:00'
+updated: '2026-10-19T09:39:18.357371+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 19, 2026 at 03:34 UTC  
+**Last Updated:** October 19, 2026 at 09:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,631.68
+### $83,064.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.7%  
-**30d:** +1.8%  
-**90d:** +25.0%  
-**1y:** -25.3%  
+**24h:** +1.1%  
+**7d:** -0.1%  
+**30d:** +2.3%  
+**90d:** +25.7%  
+**1y:** -24.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1658.71B
+**Market Cap:** $1667.43B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.5%
+-34.2%
 
 **All-Time Low:** $67.81
-+121615.1%
++122274.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 53
-**NEUTRAL**
+### 59
+**GREED**
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Is this you? Or the 40K guy?](https://www.reddit.com/r/Bitcoin/comments/1x907p1/is_this_you_or_the_40k_guy/)**
 
-16h ago
+22h ago
 
 ---
 
 **[America Is Importing Bitcoin and Exporting Dollars. Guess Which One It Can’t Print.](https://www.reddit.com/r/Bitcoin/comments/1x8v7fv/america_is_importing_bitcoin_and_exporting/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 21h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/america-is-importing-bitcoin-and) • 1d ago
 
 ---
 
 **[we need bull street ✔](https://www.reddit.com/r/Bitcoin/comments/1x920ik/we_need_bull_street/)**
 
-15h ago
+21h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-20h ago
+1d ago
 
 ---
 
@@ -147,25 +147,11 @@ A vanity address is one where you pick the first few characters and let a progra
 
 ## Google News: "bitcoin"
 
-**[Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.](https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511)**
+**[Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)**
 
-Barron's • 2d ago
+Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.
 
----
-
-**[What Happens to Bitcoin When Billions in Options Expire?](https://247wallst.com/investing/cryptocurrency/2026/10/16/what-happens-to-bitcoin-when-billions-in-options-expire/)**
-
-Bitcoin options expire on Deribit on October 16 and October 30. Can expiry and max pain pin the price, and what happens after?
-
-24/7 Wall St. • 2d ago
-
----
-
-**[Bitcoin Bull Signals are Flashing Everywhere, Analysts Claim](https://www.mitrade.com/au/insights/crypto/bitcoin/beincrypto-BTCUSD-202610190956)**
-
-Bitcoin momentum turned positive on two widely watched indicators this week, ending a bearish stretch of roughly 10 months. PlanB, creator of the stock-to-flow model, shared the flip and questioned wh
-
-Mitrade • 1h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -173,21 +159,49 @@ Mitrade • 1h ago
 
 According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)**
+**[Bitcoin hovers near $82k amid some relief from falling oil prices By Investing.com](https://za.investing.com/news/cryptocurrency-news/bitcoin-hovers-near-82k-amid-some-relief-from-falling-oil-prices-4511088)**
 
-Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.
+Investing.com South Africa • 16m ago
 
-CoinDesk • 4h ago
+---
+
+**[Bitcoin at $1 Million? Michaël van de Poppe Points to a Dot-Com-Style Rally](https://finance.yahoo.com/markets/crypto/articles/bitcoin-1-million-micha-l-072500858.html)**
+
+Crypto analyst Michaël van de Poppe says Bitcoin could reach $1 million this cycle by mirroring the dot-com boom.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-82-000-041512162.html)**
+
+Bitcoin popped back above $82,000 on Monday, rebounding with risk assets as oil prices declined.
+
+Yahoo Finance • 52m ago
 
 ---
 
 **[Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/)**
 
-Forbes • 14h ago
+Forbes • 20h ago
+
+---
+
+**[Bitcoin Rebounds Above $82,000 as Oil’s Retreat Lifts Risk Mood](https://www.bloomberg.com/news/articles/2026-10-19/bitcoin-rebounds-above-82-000-as-oil-s-retreat-lifts-risk-mood)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Bitcoin’s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run](https://www.tradingview.com/news/stocktwits:d8e43b9eb094b:0-bitcoin-s-next-move-could-shake-stocks-and-metals-bloomberg-strategist-warns-as-fidelity-sees-bull-run/)**
+
+Mike McGlone, a Bloomberg Intelligence senior commodity strategist, said on Sunday that Bitcoin (BTC) "may have to prove strength, because if it doesn't, dominoes could tumble" for stocks and metals, even as Fidelity's Jurrien Timmer said a new bull market for crypto could already be underway.McGlo…
+
+TradingView • 16h ago
 
 ---
 
@@ -199,25 +213,9 @@ Muddy River Sports • 2d ago
 
 ---
 
-**[Bitcoin's MVRV drops below 30th percentile after $87K rejection](https://www.tradingview.com/news/cryptobriefing:ece44eb37094b:0-bitcoin-s-mvrv-drops-below-30th-percentile-after-87k-rejection/)**
+**[WGMI’s Pivot: From Bitcoin Miner To AI Power Play (Upgrade) (NASDAQ:WGMI)](https://seekingalpha.com/article/4955118-wgmis-pivot-from-bitcoin-miner-to-ai-power-play-upgrade)**
 
-Bitcoin keeps knocking on the door at $87,000. The door keeps not opening.After repeated rejections near that level, a key on-chain valuation gauge has slipped below its 30th percentile. Crypto analyst Darkfost reported on October 18, 2026 that Bitcoin's cycle-adjusted MVRV percentile had fallen to…
-
-TradingView • 4h ago
-
----
-
-**[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806)**
-
-Investing.com • 20h ago
-
----
-
-**[Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen](https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839)**
-
-Strive’s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares.
-
-The Block • 2d ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -245,7 +243,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
-⬆️ 1 • 💬 0 • 8h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+⬆️ 1 • 💬 0 • 14h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -273,13 +271,13 @@ Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chai
 
 ## YouTube Videos: "bitcoin"
 
-**[$1 Million Bitcoin COUNTDOWN - Michael Saylor Just Made His NEXT MOVE](https://www.youtube.com/watch?v=qXLa2aL1nFM)**
+**[BIG MOVE FOR BITCOIN COMING THIS WEEK! MAJOR BANK TO LAUNCH CRYPTO CUSTODY!](https://www.youtube.com/watch?v=uRIGrULyQ8A)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+Crypto News: A bull flag formed on the Bitcoin chart signaling a major move is coming soon. Deutsche Bank prepares German ...
 
-📺 Bitcoin News Alerts
+📺 Thinking Crypto
 
-👁️ 3K • 👍 172 • 💬 83 • ⏱️ 15:15 • 5h ago
+👁️ 9K • 👍 441 • 💬 92 • ⏱️ 18:40 • 6h ago
 
 ---
 
@@ -289,17 +287,7 @@ Inflation is heating up, the bond market is flashing warning signs, and a potent
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 190 • ⏱️ 55:34 • 10h ago
-
----
-
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
-
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
-
-📺 Benjamin Cowen
-
-👁️ 195K • 👍 5K • 💬 383 • ⏱️ 1:11:56 • 2d ago
+👁️ 27K • 👍 1K • 💬 192 • ⏱️ 55:34 • 16h ago
 
 ---
 
@@ -309,17 +297,37 @@ Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ F
 
 📺 Altcoin Daily
 
-👁️ 114K • 👍 3K • 💬 133 • ⏱️ 9:23 • 1d ago
+👁️ 119K • 👍 3K • 💬 136 • ⏱️ 9:23 • 1d ago
 
 ---
 
-**[Bitcoin is the NEW GOLD, the Future is Here](https://www.youtube.com/watch?v=vNQhoMTkJuQ)**
+**[Bitcoin Holders: This Week Is Crucial](https://www.youtube.com/watch?v=mnEsaQO_0xM)**
 
-Watch the FULL DOCUMENTARY here: https://youtu.be/3Y0O3syRMl8 Join us tonight for a special episode of Timcast IRL as we ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trezor: ...
 
-📺 Timcast IRL
+📺 Aaron Bennett
 
-👁️ 22K • 👍 405 • 💬 223 • ⏱️ 11:38 • 9h ago
+👁️ 2K • 👍 132 • 💬 13 • ⏱️ 11:04 • 4h ago
+
+---
+
+**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
+
+0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+
+📺 Benjamin Cowen
+
+👁️ 198K • 👍 5K • 💬 437 • ⏱️ 1:11:56 • 2d ago
+
+---
+
+**[$1 Million Bitcoin COUNTDOWN - Michael Saylor Just Made His NEXT MOVE](https://www.youtube.com/watch?v=qXLa2aL1nFM)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+
+📺 Bitcoin News Alerts
+
+👁️ 6K • 👍 234 • 💬 66 • ⏱️ 15:15 • 11h ago
 
 ---
 
@@ -329,17 +337,27 @@ The AI selloff is spreading across global markets, raising fears of a much bigge
 
 📺 Crypto Banter
 
-👁️ 61K • 👍 2K • 💬 65 • ⏱️ 31:08 • 9h ago
+👁️ 72K • 👍 2K • 💬 66 • ⏱️ 31:08 • 15h ago
 
 ---
 
-**[“Bitcoin will change EVERYTHING!”– Uri Follman | Ep. #80 | YIDDISH](https://www.youtube.com/watch?v=xlAGDpxl65g)**
+**[TOM LEE - BUY AS MUCH BITCOIN AS YOU CAN!](https://www.youtube.com/watch?v=bmyq413Ujv4)**
 
-In a generation where AI is everywhere and cryptocurrency is becoming a major topic of conversation, we sat down with Uri ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 ShmueliCast
+📺 My Financial Friend
 
-👁️ 8K • 👍 175 • 💬 41 • ⏱️ 1:46:41 • 1d ago
+👁️ 11K • 👍 356 • 💬 115 • ⏱️ 8:12 • 16h ago
+
+---
+
+**[Bitcoin: It’s NOT Going As Planned](https://www.youtube.com/watch?v=4kpH94Hb0GQ)**
+
+GET THE PRIVATE LIVESTREAM REPLAY HERE https://link.tiainvestor.com/jyt-reports (Note: If you're already receiving the ...
+
+📺 Jason Pizzino
+
+👁️ 20K • 👍 710 • 💬 78 • ⏱️ 33:59 • 8h ago
 
 ---
 
@@ -349,27 +367,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 18K • 👍 319 • 💬 129 • ⏱️ 8:38 • 1d ago
-
----
-
-**[Bitcoin bought at the top](https://www.youtube.com/watch?v=bvu_5aM6k7I)**
-
-k on November 9, 2021: bitcoin, or the S&P? November 9, 2021 sits within a day of bitcoin's actual 2021 cycle closing high ...
-
-📺 Alex Romano Invests
-
-👁️ 1K • 👍 9 • 💬 2 • ⏱️ 0:22 • 13h ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
-
-BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 21K • 👍 492 • 💬 278 • ⏱️ 20:42 • 17h ago
+👁️ 18K • 👍 319 • 💬 121 • ⏱️ 8:38 • 1d ago
 
 ---
 

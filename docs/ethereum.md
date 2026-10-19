@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-19T03:34:42.145893+00:00'
+updated: '2026-10-19T09:39:18.363418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 19, 2026 at 03:34 UTC  
+**Last Updated:** October 19, 2026 at 09:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -2.9%  
-**30d:** -8.1%  
-**90d:** +25.5%  
-**1y:** -39.0%  
+**24h:** +1.0%  
+**7d:** -2.1%  
+**30d:** -7.5%  
+**90d:** +26.4%  
+**1y:** -38.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $296.16B
+**Market Cap:** $298.17B
 Rank #2
 
 **Circulating Supply:** 122,148,378 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.0%
+-50.6%
 
 **All-Time Low:** $0.43
-+559931.8%
++563761.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -112,7 +112,7 @@ After recent security concerns around hardware wallets, I realized I didn't want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hey community, I'm wondering how someone can get offers to his ENS domains. I ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9d ago
+10d ago
 
 ---
 
@@ -156,7 +156,7 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -164,7 +164,13 @@ Yahoo Finance • 10h ago
 
 The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
+
+---
+
+**[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -176,11 +182,17 @@ The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the 
 
 ---
 
-**[Saylor and Yusko's BTC Price Target, Bitmine's ETH Purchase and More: This Week in Crypto](https://www.tradingview.com/news/benzinga:72c880488094b:0-saylor-and-yusko-s-btc-price-target-bitmine-s-eth-purchase-and-more-this-week-in-crypto/)**
+**[Ethereum’s ‘World Computer’ Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents](https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/)**
 
-Bitcoin’s latest market debate mixed bullish price targets, cautious timelines and a corporate buying strategy that may soon hit its own limit. Meanwhile, analysts highlighted Ethereum and NEAR Protocol as potential winners, while new research revived questions about whether quantum computing could…
+Ethereum (ETH) was wrong with its “world computer” idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight’s approach as “What they got wrong with this idea of one giant shared w…
 
 TradingView • 15h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC rebounds to $82,500 as ETH and XRP hold support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-rebounds-to-82-500-as-eth-and-xrp-hold-support-202610190318)**
+
+FXStreet • 6h ago
 
 ---
 
@@ -188,23 +200,15 @@ TradingView • 15h ago
 
 Claude traced P-256’s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain.
 
-CryptoSlate • 13h ago
+CryptoSlate • 19h ago
 
 ---
 
-**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
+**[Vitalik Buterin’s ‘Paranoid Mode’ puts Ethereum’s AI security push under institutional lens](https://ambcrypto.com/vitalik-buterins-paranoid-mode-puts-ethereums-ai-security-push-under-institutional-lens/)**
 
-An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
+Ethereum’s AI push could strengthen blockchain security and expand institutional use cases.
 
-Engadget • 2d ago
-
----
-
-**[Current price of Ethereum for October 16, 2026](https://fortune.com/article/price-of-ethereum-10-16-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -216,17 +220,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze](https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze)**
+**[Crypto ETFs Lose $164.8 Million on October 16 as BlackRock Leads Bitcoin and Ethereum Outflows](https://financefeeds.com/crypto-etfs-lose-164-8-million-on-october-16-as-blackrock-leads-bitcoin-and-ethereum-outflows/)**
 
-Benzinga • 3d ago
+US crypto ETFs lost $164.8M on October 16: Bitcoin -$82.4M, Ethereum -$69.7M, Solana -$12.7M, with BlackRock's IBIT driving most BTC withdrawals.
 
----
-
-**[OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task](https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task)**
-
-The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.
-
-Decrypt • 3d ago
+FinanceFeeds • 3h ago
 
 ---
 
@@ -234,23 +232,23 @@ Decrypt • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
-
-📺 Lark Davis
-
-👁️ 25K • 👍 504 • 💬 76 • ⏱️ 11:36 • 1d ago
-
----
-
 **[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=i6jRengVStI)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 53 • 💬 54 • ⏱️ 23:47 • 11h ago
+👁️ 4K • 👍 58 • 💬 34 • ⏱️ 23:47 • 17h ago
+
+---
+
+**[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
+
+📺 Lark Davis
+
+👁️ 27K • 👍 517 • 💬 77 • ⏱️ 11:36 • 1d ago
 
 ---
 
@@ -260,7 +258,7 @@ Why is Ethereum cheap below 2400? It usually falls about 1.3x as hard as Bitcoin
 
 📺 VirtualBacon
 
-👁️ 2K • 👍 54 • 💬 37 • ⏱️ 1:26 • 13h ago
+👁️ 2K • 👍 63 • 💬 37 • ⏱️ 1:26 • 19h ago
 
 ---
 
@@ -270,7 +268,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 11K • 👍 267 • 💬 160 • ⏱️ 14:07 • 14h ago
+👁️ 15K • 👍 300 • 💬 141 • ⏱️ 14:07 • 20h ago
 
 ---
 
@@ -280,47 +278,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 281 • 💬 40 • ⏱️ 26:07 • 1d ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
-
-BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 21K • 👍 492 • 💬 278 • ⏱️ 20:42 • 17h ago
-
----
-
-**[Is there a 2 week bullish period for Ethereum? 17th October 2026](https://www.youtube.com/watch?v=cLcAztutcUM)**
-
-supplyanddemand #crypto #ethereum #ethereum #crypto #supplyanddemand #cycleanalysis 4th anniversary Level 2 offer, apply ...
-
-📺 Venture
-
-👁️ 2K • 👍 59 • 💬 6 • ⏱️ 25:25 • 1d ago
-
----
-
-**[BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_iApO8JHT-E)**
-
-BITCOIN WARNING: TIME IS RUNNING OUT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 16K • 👍 350 • 💬 243 • ⏱️ 14:47 • 1d ago
-
----
-
-**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 4K • 👍 59 • 💬 7 • ⏱️ 8:36 • 2d ago
+👁️ 21K • 👍 288 • 💬 41 • ⏱️ 26:07 • 1d ago
 
 ---
 
@@ -330,7 +288,47 @@ Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude
 
 📺 Thomas Sutton
 
-👁️ 4K • 👍 43 • 💬 55 • ⏱️ 6:16 • 1d ago
+👁️ 4K • 👍 40 • 💬 59 • ⏱️ 6:16 • 1d ago
+
+---
+
+**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 4K • 👍 60 • 💬 7 • ⏱️ 8:36 • 2d ago
+
+---
+
+**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 185 • 💬 10 • ⏱️ 23:39 • 2d ago
+
+---
+
+**[Ethereum will fail if it doesn&#39;t hit $8000](https://www.youtube.com/watch?v=y4DcYpx7rfE)**
+
+Full stream link: all my links https://linktr.ee/dollarcostcrypto PLEASE LIKE THE VIDEO! DON'T FORGET TO LIKE, ...
+
+📺 Dollar Cost Crypto
+
+👁️ 1K • 👍 29 • 💬 5 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c3MMdLqbbE4)**
+
+BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 23K • 👍 511 • 💬 274 • ⏱️ 20:42 • 23h ago
 
 ---
 

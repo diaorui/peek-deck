@@ -19,10 +19,20 @@
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
-      "pub_date": 1792125690.0,
+      "pub_date": 1792124959.0,
       "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
+    },
+    {
+      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
+      "pub_date": 1792393200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?",
@@ -35,14 +45,24 @@
       "description": "The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?"
     },
     {
-      "headline": "Saylor and Yusko's BTC Price Target, Bitmine's ETH Purchase and More: This Week in Crypto",
+      "headline": "Ethereum\u2019s \u2018World Computer\u2019 Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTkhQOTJJaENoRXlLel9GelJRWHp6a1lIUGNibWFaZWxveHoyN1hIRG5oVFU0enhjanhVay1LTDNET1VrN2VXUnJ4ell0RUVNN2lkLTcwLUNoLXpIX0ptUFMwdlZRMHZXQ1k1SGE4OVhJbW12V1hybVBmMVhtQkNMeTJnN3ZaTDRvWGpxb2FoSUZQMkczWGFGUVhSZGo5RWlubDh6VmxOOGRkMXZBY0pTakg2Y19wMmNuc2RwTEJnV0xkOThtbWxqdVdnQ2RVWmQxbDhreXFzR2dISTQ2aktV?oc=5",
-      "pub_date": 1792324807.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:72c880488094b:0-saylor-and-yusko-s-btc-price-target-bitmine-s-eth-purchase-and-more-this-week-in-crypto/",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUnRYcElfdEllMFZvTUZYaDVmdmVyUEV5bDUzLVlRUXNkSnl3dkNTRTJ1UERzeUhCeUVLbnFidDRxaDZHZlkyYW1Td0Fua2RJQ0M1X045X2l4Nkt5RXk3NVZJY3ZWZVp5bV9HQkFaMXh0bHVZNlViWnQzZHkyM0dYUWpmLVFKSjZDODJya2RfOHdWUGVWZk43c1NaRDB1WUNiMmhfNGlMLVNPT3lCT08yMnN2LVdPWmE2M1otbmMyOXhvOWlxSEwwQmZBM0ZoRFZiMUdsWkstMlhlMnBkbVZ3NzQ4R3F0dXo3YjdWWW03dw?oc=5",
+      "pub_date": 1792347822.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin\u2019s latest market debate mixed bullish price targets, cautious timelines and a corporate buying strategy that may soon hit its own limit. Meanwhile, analysts highlighted Ethereum and NEAR Protocol as potential winners, while new research revived questions about whether quantum computing could\u2026"
+      "description": "Ethereum (ETH) was wrong with its \u201cworld computer\u201d idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight\u2019s approach as \u201cWhat they got wrong with this idea of one giant shared w\u2026"
+    },
+    {
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC rebounds to $82,500 as ETH and XRP hold support",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQjJNZUllRlVybnJmbmMyRHlMbm40YjUzZEVnMnM3dHE2VHBadU9KdmVaY2xFY1lUaEUzZUZqUjNhMFdTdHpIM0lyU1l1eF85QUZwRVJXXzh1WERXaks4V2ZfS1FTUDlBVTN2a3lGTTNIMHRhUVlLUkRxbEVCcnJ6NWhYallvdFZic2pLQzd4Z094YXBpenZDdF9nSk1lSkJTSDQ4ak5lZUp0SWVFYVByVzZSaEVhN2xscV9kZWFkZFoxV1h4VE5QLXNtaW9YQWNrSHYzV2IwQjJ4b3oyUllIS21rQlRnSHd0LUZkSEJkMA?oc=5",
+      "pub_date": 1792379904.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-rebounds-to-82-500-as-eth-and-xrp-hold-support-202610190318",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Claude unpicks an NSA mystery behind Ethereum passkey security",
@@ -55,24 +75,14 @@
       "description": "Claude traced P-256\u2019s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain."
     },
     {
-      "headline": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamVCTnh3X0N3N1FwLVZtOGxuSm1PcE5KVHdGRFRHQ3dZekY5OEJha2tYdHJ5TWpGTkNSSnZTdEIwOXc5c05xTk9EbkpOX3RiRFFEUjJ6enh4b3lFb19Icnl3WlhCZVQ0emlUSDBiYWxTVGlReWxQUW45aXJWclpJVFZockhWcVhtMWYxTmVMVG1LLTNleE1jaTZQYlVXZ3M?oc=5",
-      "pub_date": 1792155024.0,
-      "article_url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
-      "image": "https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg",
-      "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
-    },
-    {
-      "headline": "Current price of Ethereum for October 16, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HYWpER1o5Rm02aHc1SGt4MEp0WlJXZFl1QVF6OU9WLTEySmRadlRIUy1pcWxWU1R3NkFSckRGMmo3cDI3WFZSRDZpYm8zODdmYXM4dmVGcEtRMlZQR0QyLVdhOW53X25N?oc=5",
-      "pub_date": 1792188425.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-16-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-16.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Vitalik Buterin\u2019s \u2018Paranoid Mode\u2019 puts Ethereum\u2019s AI security push under institutional lens",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVIydmFMMWR2ci1XQzktZ3YycTdIbTFUSEFkVUlrb1lhZy1ha0NwSjQ5bG8xMlZyT1J3UkhSUU9lMHVrRnN0WW5sWFFKVjNTOWF5WWNPZ3hGS0dBVjktbHNmQjIwZ3JHYWQ0YlZhZUpXalg5VnlQb0owNmEwNUx6UEhBYVVZWExidHVSb1FfaTZRaHFtb0ZaZnRpVld6ZHdTNDd0RGhDeFBDTmVCeUFJ?oc=5",
+      "pub_date": 1792285249.0,
+      "article_url": "https://ambcrypto.com/vitalik-buterins-paranoid-mode-puts-ethereums-ai-security-push-under-institutional-lens/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Ritika-2-7-e1792230344509.jpg",
+      "description": "Ethereum\u2019s AI push could strengthen blockchain security and expand institutional use cases."
     },
     {
       "headline": "Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.",
@@ -85,26 +95,16 @@
       "description": "The odds of these coins being worth more in five years are quite high."
     },
     {
-      "headline": "Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUQ1SnZEYVFSQUFvOVNWYXBXRVN5bHBCSDJFME52ekFUT0ZWa2VyNUJhX3VMZVZhVV9qdHZVcWxQS3dpSlJ6bDdVLWJSaVppb1BXS0JhNF9yUFZEekVUYVlfbXBOSmh1b0F5UjhUb0tLWnl4R1V1Z1hTUFZQRUFBSHgwSGZndUk2UmxRc0xROThPUnNYWVMxOUFuaFg0R05oa2VQVGh1QWlFeGVsbjlnbm1uaVJJdGVPYWNvdzlB?oc=5",
-      "pub_date": 1792089030.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGtGNkhKWFVKZ3A0RmpiRFAxYS1hd3dIakNCRFNZRGZiUW1hb0kzWllsejRoQldjU2VCd1RsQ2hzeHQtUFFtUkdTTE56aVBvUzQwT2RYeGo3enJyb25CVVhhYWpSOE1ZXzA3aC16Z0ZlM1I3VjJkME9tSzZBTmtFcDRpc1pLZzdZQVgxeVd3WnB1dnIyS0h3X3Nvc1VHamx5cEJfX29lTFZ4MTJa?oc=5",
-      "pub_date": 1792102563.0,
-      "article_url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
-      "description": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report."
+      "headline": "Crypto ETFs Lose $164.8 Million on October 16 as BlackRock Leads Bitcoin and Ethereum Outflows",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmVnaEZmOGxYN1puSGh2Yzlxb2V2MFplN2xJT094ekdtem1tMDJfQVUyTUx0TTdnN2o3U0p3X1NYTmY1YW1fUmJrQnRiSVpuYThIak03ZTZ5QnRlWVg4Yi1rdXYtMkVjdk1JZkZldFFhNXNpQW44anJRTDB1c3NFMjZwME5Gdnd4MnJwX1JFSGR3S1p6ajlTZDNFb1NCSmJlRlI4Mnd2M2ZRSndjcDJBbXNjZTMzSE1MWlZJ?oc=5",
+      "pub_date": 1792389838.0,
+      "article_url": "https://financefeeds.com/crypto-etfs-lose-164-8-million-on-october-16-as-blackrock-leads-bitcoin-and-ethereum-outflows/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/09/bitcoin-etfs-add-715m-as-four-day-inflow-streak-hits-2-3b.avif",
+      "description": "US crypto ETFs lost $164.8M on October 16: Bitcoin -$82.4M, Ethereum -$69.7M, Solana -$12.7M, with BlackRock's IBIT driving most BTC withdrawals."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-19T03:34:34.556659+00:00"
+  "fetched_at": "2026-10-19T09:39:14.443934+00:00"
 }
