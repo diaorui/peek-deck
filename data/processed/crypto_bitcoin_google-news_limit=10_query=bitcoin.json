@@ -5,34 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy Stock Sinks. Index Exclusion Is a Worry For the Bitcoin Whale.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5",
-      "pub_date": 1792154400.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-mcsi-index-exclusion-bitcoin-price-8602a511",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "What Happens to Bitcoin When Billions in Options Expire?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEhfbERiUmpmS1VIY2RocG9teE9Fc2dUWlNGclB5TGctZy02QzBTdEk5LXJTMXM0N0JFZW1lb0ItNW5jQW1nMnBGSDFsdDUwdzBnY1NTbXkyTGNwb1JtenhHbnE2M3EzYUFYbmk2Z2pVVkIxOEhiazBpcFpqZEROSUw5R2tOamdSRG0xTEpUM0FhdlEtekZJUFd2bTZIcEFpamZ1WkY3NlNCcGc4RUlWanJaYnQ?oc=5",
-      "pub_date": 1792166400.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/16/what-happens-to-bitcoin-when-billions-in-options-expire/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1927658192-huge-licensed-scaled.jpg",
-      "description": "Bitcoin options expire on Deribit on October 16 and October 30. Can expiry and max pain pin the price, and what happens after?"
-    },
-    {
-      "headline": "Bitcoin Bull Signals are Flashing Everywhere, Analysts Claim",
-      "source": "Mitrade",
-      "source_url": "https://www.mitrade.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHlhLXpaNFdNX1Y2WVNmUzNBRkFjbWY4Sk5ydUQxVjV2NUJPdHItYW9hS2NuVnN2SlJ5Z2lHbGZFOVBkbDBkWG9RMEV1NlM1bmx1bFQ4eGY4ZkNfcmg2ZTVCejZ5aWh4bEhlbXkyOUdHQnJnYVA5Z2JFaG8wTlhiQU00alpycGJj?oc=5",
-      "pub_date": 1792375435.0,
-      "article_url": "https://www.mitrade.com/au/insights/crypto/bitcoin/beincrypto-BTCUSD-202610190956",
-      "image": "https://tw.mitrade.com/cms_uploads/img/download/14454d68b05641a99796585c606b352a",
-      "description": "Bitcoin momentum turned positive on two widely watched indicators this week, ending a bearish stretch of roughly 10 months. PlanB, creator of the stock-to-flow model, shared the flip and questioned wh"
+      "headline": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElCYzJvU0J4M0pFNkpKSjc5U0JxS1RRZmZPS3czWnNPaU9XaFUzclhTV1pYMnlhMFBrTnNWMmZJVndEeVI5a2Fxa1FmcS1DM0ZBOWp2MERkdEFKVVRZckxHQ0pzaG5jT0ZNU2NMellvVkROaEw3SHI1WmoyNmRBTlZKZ0hGMjlJR09taUgzMEgzQWRGS2ZpMnVfRU5HaXlhakpfazQxc2wtNUdGNG1r?oc=5",
+      "pub_date": 1792365877.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
     },
     {
       "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
@@ -45,14 +25,34 @@
       "description": "According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours."
     },
     {
-      "headline": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElCYzJvU0J4M0pFNkpKSjc5U0JxS1RRZmZPS3czWnNPaU9XaFUzclhTV1pYMnlhMFBrTnNWMmZJVndEeVI5a2Fxa1FmcS1DM0ZBOWp2MERkdEFKVVRZckxHQ0pzaG5jT0ZNU2NMellvVkROaEw3SHI1WmoyNmRBTlZKZ0hGMjlJR09taUgzMEgzQWRGS2ZpMnVfRU5HaXlhakpfazQxc2wtNUdGNG1r?oc=5",
-      "pub_date": 1792365877.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
+      "headline": "Bitcoin hovers near $82k amid some relief from falling oil prices By Investing.com",
+      "source": "Investing.com South Africa",
+      "source_url": "https://za.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFVCVnVjWHdYM3RoaXF3NGttUi1Rc1lETFNOR2NUZW5ocHFxM1RReVE4bjlpd0Fod09EYmE4ZW1oS2tVdWtZdmVQUVlJY2pQd2gyRVE5WlRiNWFqVEVzdmxKN2NnOFBPWkJIcXlHUHlLV0FwRzg3NE43QXlUWFRFVnllLWd1am5zZmxzMDFSdFkxNnFZbHNqblNQbWN4U3pkdHhVNU1EWFMxdVNEOW9YWjZoajF0N05TU3Z0YXdQNA?oc=5",
+      "pub_date": 1792401784.0,
+      "article_url": "https://za.investing.com/news/cryptocurrency-news/bitcoin-hovers-near-82k-amid-some-relief-from-falling-oil-prices-4511088",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin at $1 Million? Micha\u00ebl van de Poppe Points to a Dot-Com-Style Rally",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDdIN3VDWlBCRkFKcVlJY3JRTS1GZ0xKUEtJYmJKSzJzTS1aU05GcG5ya1FfR3JJTkJMVGlJald0UVJFWWFnVnUtalZVQnpVMzh1cF9lRFRvV0NTXzlkS0Y5WTUtTkFGaXg0SFZjNENPMGxuQlR5WlNTenp3d3FSeTNXbEF0WG9lWmg4ZnI1dFpaOU9G?oc=5",
+      "pub_date": 1792394700.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-1-million-micha-l-072500858.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/25ee3ed9310b2774ed319dded2c11d83f6ca7413246c1efc4e60a83cf477429d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2be11e73a9f614c5494645c08f3825f6.jpg",
+      "description": "Crypto analyst Micha\u00ebl van de Poppe says Bitcoin could reach $1 million this cycle by mirroring the dot-com boom."
+    },
+    {
+      "headline": "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEswMWNQNjNSQ3F1Nzh4cS0tbGJIQzgybl9iZmJPelZuTllCRDN6UEVSN0pJSlhhXzhrZXhSTUkxZDZ3d3ROZ01ZejZhYThjeEpYVmpCVi1xS25qX2NDNGNFNGhmaVM2NmQ3eDVvRF8yZHpHVUI3WnctZ1p6VkltYnhBRmVCcGZsbTMyVXIyc3prZzhyVFk0M2h3?oc=5",
+      "pub_date": 1792399591.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-82-000-041512162.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/78a7a9bb1631d4ff9010384dc92057b397080530ddb9f0bff58e5e176bf697db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F36b1a9d3045cade04c062988b588f950.jpg",
+      "description": "Bitcoin popped back above $82,000 on Monday, rebounding with risk assets as oil prices declined."
     },
     {
       "headline": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin \u2018Bailout\u2019 Amid Price Crash Fears",
@@ -65,6 +65,26 @@
       "description": null
     },
     {
+      "headline": "Bitcoin Rebounds Above $82,000 as Oil\u2019s Retreat Lifts Risk Mood",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjNOcnl1dkZVdVpHMDVrSzhVU2FpVFZiUGQ2Wmp4ZWlyd2RFQ0xqNkRlWjJGOHBCY1lIMDN2RXBHZkhtQzcxdklTQk90Um5iblpOTU1adHRNNTk3TWs3VjBucGdOcHN0NVNIaFY1RWVId3NTLXVNTTlHOU1mYnFmSGVmZ1pMWG1HVmRtQjFmdEFUZTVzQkZmRkc4a2FobGJXd1Fyc2I5bTZGcEgxSkotbUhsRQ?oc=5",
+      "pub_date": 1792389420.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/bitcoin-rebounds-above-82-000-as-oil-s-retreat-lifts-risk-mood",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSHpZYmlnRHVTdWtWWDFpOWU5Nnl6V24yXzY5clIzWDViSjQ1MXc2R1hmTTQ4SUZFcW0zLUNsUlNfZHE4Y3N1Z1JaOWEtWXA2QUEzYXVabnkxRTF4SUZ0M19aZGo4TEZVV1RUSTJ2eTdSM1ZHSWljVWh3Yk92M29zbXNTOWg2WW90T0V3TkhtLWJEVmJkZUJvZnhVM3F5bldXOUZ3MlhNZWttMm1BLTNDSU9FeEg5ZzV2YUdLajlxOHFuN1JiTl94UEZLQy13T3VZZDVLU0ItMTA4ZWprcVBtUVI0Q3lFVnYyOENfZzZDTDNVSUdaZVE?oc=5",
+      "pub_date": 1792345039.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:d8e43b9eb094b:0-bitcoin-s-next-move-could-shake-stocks-and-metals-bloomberg-strategist-warns-as-fidelity-sees-bull-run/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Mike McGlone, a Bloomberg Intelligence senior commodity strategist, said on Sunday that Bitcoin (BTC) \"may have to prove strength, because if it doesn't, dominoes could tumble\" for stocks and metals, even as Fidelity's Jurrien Timmer said a new bull market for crypto could already be underway.McGlo\u2026"
+    },
+    {
       "headline": "Best Crypto Casinos 2026 \u2013 Top 5 Bitcoin Sites Reviewed for Bonuses",
       "source": "Muddy River Sports",
       "source_url": "https://muddyriversports.com",
@@ -75,36 +95,16 @@
       "description": "Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features \u2705mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino \u2705JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses \u2705Thunderpick 100% up to \u20ac2,000 Bonus rollover rules \u2705BitStarz Up to 5 BTC + 180 Free Spins Staged free spins \u2705Lucky Rebel..."
     },
     {
-      "headline": "Bitcoin's MVRV drops below 30th percentile after $87K rejection",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMklkRjFkTjhzMXVmcm91dkplNi1MNDY5aTRIM3NxWWl3RlZKd24za1FxY0g4bFA0ZjZiQ2ptSU9lYVMxalpmR2lMSU5mM0Z0aFhvNlFLR0R2QkdobXFRMnJuY3ltOWhGSWVQd29icDE1Z3UwV2lPd2dSWFZrbXhDZ1ZFVDYzT2N1VHpZbGhoVDR6c2JRU1R0MlNmVl9VZzVuczJoTWF2Q2ozbkZuMzRXN0JMZ21lTS0yUkZkV0lybFNYd0RrT0E?oc=5",
-      "pub_date": 1792362929.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:ece44eb37094b:0-bitcoin-s-mvrv-drops-below-30th-percentile-after-87k-rejection/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin keeps knocking on the door at $87,000. The door keeps not opening.After repeated rejections near that level, a key on-chain valuation gauge has slipped below its 30th percentile. Crypto analyst Darkfost reported on October 18, 2026 that Bitcoin's cycle-adjusted MVRV percentile had fallen to\u2026"
-    },
-    {
-      "headline": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5",
-      "pub_date": 1792305651.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
+      "headline": "WGMI\u2019s Pivot: From Bitcoin Miner To AI Power Play (Upgrade) (NASDAQ:WGMI)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFU0RkxPZEZPUkhYejJSZHZrdm4xdEU1eThySnlmUU04UDdCNDhNSzV0d25mUnhQaTRweWJYT0F0WG4yNnUwd243bEhUOXNVN1NMOVBWd2hjTnN5bFJ6YzFLRU8wYjctSzBYalVpSnN4V2liSUdPU2twblJUeXJhZnNnNnNfNXlqVy1fZWJ0R01IRkdwYVJtMHltRjY?oc=5",
+      "pub_date": 1792394269.0,
+      "article_url": "https://seekingalpha.com/article/4955118-wgmis-pivot-from-bitcoin-miner-to-ai-power-play-upgrade",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTlJKTDRhVXZPZ1VLMENNUkRjU0wxZ2Zqd0t3cUQ3SU8tOWktTnhial9aaVdENW8taXVwSTBlVjhiempaUU05Qy15VzNfYUZGck5YRy14TktXeElab29qWk5yMmZVZmZBQU05QkstbHFicE94SFJ3WlFwbWhWTUJDN0ZSZXRONDhoZEh4SVNJLXJrb3ZYenQ5WWg3TmpEa0ktNmxORUVuSXZzZ0k0QWVCTlQ5QVdKYWRRV2VF?oc=5",
-      "pub_date": 1792182120.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png",
-      "description": "Strive\u2019s planned $630 million preferred share offering could fund more bitcoin purchases without adding common shares."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-19T03:34:35.412187+00:00"
+  "fetched_at": "2026-10-19T09:39:16.772234+00:00"
 }

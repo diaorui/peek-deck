@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 115,
+      "upvotes": 119,
       "num_comments": 1,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 111866,
+      "github_stars": 111947,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2610.20571",
       "arxiv_url": "https://arxiv.org/abs/2610.20571",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20571.png",
-      "upvotes": 344,
+      "upvotes": 345,
       "num_comments": 3,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/ziplab/ATAS",
@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2610.13912",
       "arxiv_url": "https://arxiv.org/abs/2610.13912",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.13912.png",
-      "upvotes": 50,
+      "upvotes": 51,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 91205,
+      "github_stars": 91239,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-19T03:34:29.343641+00:00"
+  "fetched_at": "2026-10-19T09:38:58.189474+00:00"
 }
