@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-19T09:39:18.357371+00:00'
+updated: '2026-10-19T16:49:41.450204+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 19, 2026 at 09:39 UTC  
+**Last Updated:** October 19, 2026 at 16:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,064.95
+### $82,498.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -0.1%  
-**30d:** +2.3%  
-**90d:** +25.7%  
-**1y:** -24.8%  
+**24h:** +1.0%  
+**7d:** -1.4%  
+**30d:** +1.0%  
+**90d:** +24.1%  
+**1y:** -25.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1667.43B
+**Market Cap:** $1647.12B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.2%
+-35.0%
 
 **All-Time Low:** $67.81
-+122274.3%
++120753.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Is this you? Or the 40K guy?](https://www.reddit.com/r/Bitcoin/comments/1x907p1/is_this_you_or_the_40k_guy/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[we need bull street ✔](https://www.reddit.com/r/Bitcoin/comments/1x920ik/we_need_bull_street/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Still buying the dippity dip](https://www.reddit.com/r/Bitcoin/comments/1x8b7rh/still_buying_the_dippity_dip/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -123,7 +123,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Ignore the noise, just buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1x87jd9/ignore_the_noise_just_buy_bitcoin/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -151,7 +151,7 @@ A vanity address is one where you pick the first few characters and let a progra
 
 Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.
 
-CoinDesk • 10h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -159,21 +159,29 @@ CoinDesk • 10h ago
 
 According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Bitcoin hovers near $82k amid some relief from falling oil prices By Investing.com](https://za.investing.com/news/cryptocurrency-news/bitcoin-hovers-near-82k-amid-some-relief-from-falling-oil-prices-4511088)**
+**[Wrapped Bitcoin Shifts Bitcoin Custody To Cut Risk From Quantum Computers](https://quantumzeitgeist.com/wbtc-wrapped-bitcoin-shifts-custody-cut/)**
 
-Investing.com South Africa • 16m ago
+Quantum Zeitgeist • 1h ago
 
 ---
 
-**[Bitcoin at $1 Million? Michaël van de Poppe Points to a Dot-Com-Style Rally](https://finance.yahoo.com/markets/crypto/articles/bitcoin-1-million-micha-l-072500858.html)**
+**[Bitcoin vs Gold Forecast: BTC edges up, XAU struggles below $4,200 as Fed decision stays in focus](https://www.mitrade.com/au/insights/news/live-news/article-5-2173964-20261019)**
 
-Crypto analyst Michaël van de Poppe says Bitcoin could reach $1 million this cycle by mirroring the dot-com boom.
+Bitcoin (BTC) trades higher, above $82,000 on Monday, helping lift broader crypto market sentiment after last week's correction near $80,000.
 
-Yahoo Finance • 2h ago
+Mitrade • 1h ago
+
+---
+
+**[Michael Saylor's Strategy buys 267 bitcoin, repurchases $193M in STRC](https://finance.yahoo.com/video/michael-saylors-strategy-buys-267-160000534.html)**
+
+Michael Saylor's Strategy  (MSTR) is doubling down on its bitcoin (BTC-USD) strategy, acquiring another 267 BTC and repurchasing $193 million worth of its (STRC) preferred stock. Scott Melker breaks down the latest moves, what's driving Saylor's aggressive bitcoin playbook, and what it could mean for Strategy investors.
+
+Yahoo Finance • 49m ago
 
 ---
 
@@ -181,41 +189,33 @@ Yahoo Finance • 2h ago
 
 Bitcoin popped back above $82,000 on Monday, rebounding with risk assets as oil prices declined.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/18/the-ai-nightmare-is-suddenly-coming-true-for-the-bitcoin-price/)**
 
-Forbes • 20h ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin Rebounds Above $82,000 as Oil’s Retreat Lifts Risk Mood](https://www.bloomberg.com/news/articles/2026-10-19/bitcoin-rebounds-above-82-000-as-oil-s-retreat-lifts-risk-mood)**
+**[Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red](https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red)**
 
-Bloomberg.com • 3h ago
+Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.
 
----
-
-**[Bitcoin’s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run](https://www.tradingview.com/news/stocktwits:d8e43b9eb094b:0-bitcoin-s-next-move-could-shake-stocks-and-metals-bloomberg-strategist-warns-as-fidelity-sees-bull-run/)**
-
-Mike McGlone, a Bloomberg Intelligence senior commodity strategist, said on Sunday that Bitcoin (BTC) "may have to prove strength, because if it doesn't, dominoes could tumble" for stocks and metals, even as Fidelity's Jurrien Timmer said a new bull market for crypto could already be underway.McGlo…
-
-TradingView • 16h ago
+Decrypt • 1d ago
 
 ---
 
-**[Best Crypto Casinos 2026 – Top 5 Bitcoin Sites Reviewed for Bonuses](https://muddyriversports.com/casino-hub/best-crypto-casinos-2026-top-5-bitcoin-sites-reviewed-for-bonuses/20261016052942/)**
+**[Bitcoin struggles above $80K as whale transfers signal mixed outlook](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806)**
 
-Best Crypto Gambling Sites 2026 Casinos Welcome Bonus Top Features ✅mBit Casino Up to 4 BTC + 325 Free Spins Best overall online casino ✅JACK.com 100 Wager-Free Free Spins Best crypto casino bonuses ✅Thunderpick 100% up to €2,000 Bonus rollover rules ✅BitStarz Up to 5 BTC + 180 Free Spins Staged free spins ✅Lucky Rebel...
-
-Muddy River Sports • 2d ago
+Investing.com • 1d ago
 
 ---
 
 **[WGMI’s Pivot: From Bitcoin Miner To AI Power Play (Upgrade) (NASDAQ:WGMI)](https://seekingalpha.com/article/4955118-wgmis-pivot-from-bitcoin-miner-to-ai-power-play-upgrade)**
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -243,7 +243,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
-⬆️ 1 • 💬 0 • 14h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+⬆️ 1 • 💬 0 • 21h ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -253,17 +253,9 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ---
 
-**[Open spec and examples for a free Bitcoin cycle score feed (JSON, CSV, widget)](https://news.ycombinator.com/item?id=50056465)**
+**[Tell HN: Getting spam after commenting on monthly Who's Hiring posts. Who else?](https://news.ycombinator.com/item?id=50153608)**
 
-Free Bitcoin Heat Score API (0-100) and embeddable widget. 8 indicators, on-chain inputs from our own full node. No key, CORS open. - multiassist/bitcoin-barometer
-
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/multiassist/bitcoin-barometer)
-
----
-
-**[Ask HN: What Happened in DNSSEC Yesterday?](https://news.ycombinator.com/item?id=50055306)**
-
-⬆️ 3 • 💬 4 • 6d ago
+⬆️ 5 • 💬 1 • 1h ago
 
 ---
 
@@ -277,7 +269,7 @@ Crypto News: A bull flag formed on the Bitcoin chart signaling a major move is c
 
 📺 Thinking Crypto
 
-👁️ 9K • 👍 441 • 💬 92 • ⏱️ 18:40 • 6h ago
+👁️ 16K • 👍 621 • 💬 78 • ⏱️ 18:40 • 13h ago
 
 ---
 
@@ -287,17 +279,7 @@ Inflation is heating up, the bond market is flashing warning signs, and a potent
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 1K • 💬 192 • ⏱️ 55:34 • 16h ago
-
----
-
-**[Michael Saylor Issues DIRE WARNING for Anyone Holding Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=ojpjTIh6T9g)**
-
-Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 119K • 👍 3K • 💬 136 • ⏱️ 9:23 • 1d ago
+👁️ 32K • 👍 2K • 💬 216 • ⏱️ 55:34 • 23h ago
 
 ---
 
@@ -307,37 +289,37 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 132 • 💬 13 • ⏱️ 11:04 • 4h ago
+👁️ 7K • 👍 293 • 💬 27 • ⏱️ 11:04 • 11h ago
 
 ---
 
-**[Bitcoin Extreme Uncertainty](https://www.youtube.com/watch?v=H_JhpNaRPl8)**
+**[You Have No Idea How Big The Crypto Super Cycle Will Be (CoreWeave pops AI Bubble?)](https://www.youtube.com/watch?v=ykXk89g3JPQ)**
 
-0:00 - INTRO Bitcoin Extreme Uncertainty 10/16/26 3:10 The technical bull case for Bitcoin 9:10 The bear case: liquidity and ...
+Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 198K • 👍 5K • 💬 437 • ⏱️ 1:11:56 • 2d ago
-
----
-
-**[$1 Million Bitcoin COUNTDOWN - Michael Saylor Just Made His NEXT MOVE](https://www.youtube.com/watch?v=qXLa2aL1nFM)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 6K • 👍 234 • 💬 66 • ⏱️ 15:15 • 11h ago
+👁️ 80K • 👍 2K • 💬 109 • ⏱️ 10:55 • 19h ago
 
 ---
 
-**[URGENT! Crypto Investors Need To See This Before Monday!](https://www.youtube.com/watch?v=2ZTed73ZpWw)**
+**[Could Super Intelligence Break Your Bitcoin Wallet?](https://www.youtube.com/watch?v=fCik3SHhE-0)**
 
-The AI selloff is spreading across global markets, raising fears of a much bigger financial meltdown. With stocks under pressure, ...
+Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over ...
 
-📺 Crypto Banter
+📺 Natalie Brunell
 
-👁️ 72K • 👍 2K • 💬 66 • ⏱️ 31:08 • 15h ago
+👁️ 547 • 👍 37 • 💬 6 • ⏱️ 2:31 • 1h ago
+
+---
+
+**[Bitcoin&#39;s Drop to 80K: My Base Case for the Next Few Months](https://www.youtube.com/watch?v=wOMc7ePFtko)**
+
+Bitcoin dropped to 80K, and my base case is a few months of chop around it, with a likely visit to 78K, the 50-week EMA at the top ...
+
+📺 VirtualBacon
+
+👁️ 18K • 👍 284 • 💬 39 • ⏱️ 6:46 • 13h ago
 
 ---
 
@@ -347,7 +329,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 356 • 💬 115 • ⏱️ 8:12 • 16h ago
+👁️ 12K • 👍 380 • 💬 143 • ⏱️ 8:12 • 23h ago
+
+---
+
+**[Michael Saylor Issues DIRE WARNING for Anyone Holding Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=ojpjTIh6T9g)**
+
+Michael Saylor drops BOMBSHELL “You Won't Believe What Happens Next..” ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 126K • 👍 3K • 💬 138 • ⏱️ 9:23 • 1d ago
+
+---
+
+**[BITCOIN: IT&#39;S HAPPENING NOW!!!! *price targets revealed*](https://www.youtube.com/watch?v=sF9uwDN1bTg)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+
+📺 Crypto Rover
+
+👁️ 17K • 👍 782 • 💬 27 • ⏱️ 8:23 • 9h ago
 
 ---
 
@@ -357,17 +359,7 @@ GET THE PRIVATE LIVESTREAM REPLAY HERE https://link.tiainvestor.com/jyt-reports 
 
 📺 Jason Pizzino
 
-👁️ 20K • 👍 710 • 💬 78 • ⏱️ 33:59 • 8h ago
-
----
-
-**[BITCOIN IS HEADING TO $10,000 ACCORDING TO BLOOMBERG ANALYST](https://www.youtube.com/watch?v=XveDlkp6zkE)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 18K • 👍 319 • 💬 121 • ⏱️ 8:38 • 1d ago
+👁️ 28K • 👍 915 • 💬 84 • ⏱️ 33:59 • 15h ago
 
 ---
 
