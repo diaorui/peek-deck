@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50N1dGT0ZPNlhyYkxnd3ppbWpHN1h6bmU3dnhZb3g1bWJVZHZBbmJnWEM4NnVQS1lGbzBfTDlFeXhKbDI1X2I0R2xVcDhBZjEzVEw2WW9CSVFGWHJ5QlhZWlp5RzdxM1AyRzduT2dmb1cyblU5MjJOcFZZS3Y?oc=5",
+      "pub_date": 1792234813.0,
+      "article_url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Amazon Has Now Deployed Over 1 Million Robots, Which Is Bad News for Its 1.5 Million Workers",
       "source": "Futurism",
       "source_url": "https://futurism.com",
@@ -15,14 +25,14 @@
       "description": "Amazon's record-breaking robotics deployment is squeezing its human warehouse workers in more ways than one."
     },
     {
-      "headline": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots \u2014 wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNYk9reF9yLW02RGlJUG5Ra1hEOUpFSmR0dy1UTzk1dlV5eHF0NXZEN1NqdDFFXy1wVzlhNTFmdkN5QzFsc1RzbjFKMEZxLTA5STJIUk44N0JhNEFrRU5CUEhwSUtsM3pxZ1VQS0tHS09aWl83c1BoaHdsVFFCWDJfTUZ6dk05d08tRS16S0UtS1JSTDdWV0czSU01azBiano3MVNpVWc3NDRYeW9MdGtFbFhFdjZxREVjVExVTVJiT21tYUdMdHNjMS1WMU5LTVNhV1RuNDRmWHBKa185dEs3THlQQWJydTFmLTVpWm1sOHRHRlk0d2o4bUtJZHRqcTQ4eUw1dVd2UmExQ0xvYWg0X2I2Q200OWtiSGQ3ZTZRT1FfTEVCRWdxblFKM2FIRnQyZDNjdEwzX3pFY29NRmU1RWlydldrZ203VjBCUGdXaTh4d2d0U2Z6QmtpNEVQTmhrdzJtZlp3b2xvdHg2d1VQeVRoRVZIMUp6Q0RmbjZVaVgzc3dDc1Bqdm9fV0RqT0plYkd3U1V6LWZURlFQTWU5ZDNHdzNrVkZNRWc?oc=5",
-      "pub_date": 1792243280.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-      "image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
-      "description": "Is AI coming for blue-collar jobs, too?"
+      "headline": "Could AI and robotics help fill Cambridge\u2019s empty offices?",
+      "source": "Boston.com",
+      "source_url": "https://www.boston.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFZtZVJOZllrZFVFVGlqSHBJSGN6aHBrV2Q0aDA3S1ZSMXc0akt2bXBoOXpBNnpLWDZ5OGtaWmZobUNXTVY2UU9lSmZraWZpbVVGbm5fX2hqZG1xdWpYVFBvRGJ1LUt6U0dZTS0tb3h6NmE1ancyVzY5Yko1aGN0Q3M3ZUMxLXNwcjVfUC12RUlEd0hqVGtJemx0WDkwbGU5SlVmUnVwZmpDM2c?oc=5",
+      "pub_date": 1792426140.0,
+      "article_url": "https://www.boston.com/news/local-news/2026/10/19/could-ai-and-robotics-help-fill-cambridges-empty-offices/",
+      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_turner040324METROfeature56-6ad123be3c95e-768x432.jpg",
+      "description": "A new report from Newmark expects the sectors to drive future demand, even as a quarter of the city\u2019s office space remains vacant."
     },
     {
       "headline": "Germany's New Robot Billionaire Is Betting Big On Humanoid Gyms",
@@ -45,24 +55,34 @@
       "description": "In the latest bullish sign for the previously troubled battery industry, Agility Robotics said it would power the latest version of its humanoid robot, Digit, with next-generation batteries manufactured by Nyobolt."
     },
     {
-      "headline": "Reply Earns \"NVIDIA Physical AI Specialization\" for Production-Ready Robotics and Digital Twins",
+      "headline": "A Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWszUHE2Nl9IQ2dlUGVrYmFEUV8xaGRKcGF0bzlhNk9LZDdPODRVTGpBUnctcmhZdWNXY0R6OG5wQmJkcXVnSVlXN3YxS3FMaHhHc0U0dVZDSm13b3U1dFFXRDZRTVVCamhDWUxVV2kzVjhkeGdwWlMxVmpmZnRhWGV5bTZnWFQ0UUl3S2ZLcWxnZ1lMVTNnZmlR?oc=5",
-      "pub_date": 1792396800.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/reply-earns-nvidia-physical-ai-080000134.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/74ec23f76ed08868930e5e90517f7472e00eb6622f8004a5afd05ec723a8215f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F707ecf230afa45328ee53d465e3c899c.jpg",
-      "description": "TURIN, Italy, October 19, 2026--Reply [EXM, STAR: REY] is among the first NVIDIA partners in the world to achieve the \"Physical AI Specialization\" within the NVIDIA Partner Network (NPN), in recognition of its expertise in developing and deploying AI-driven robotics and digital twin solutions for real-world operating environments. The specialization was awarded following a technical assessment covering a customer implementation, solution architecture, certified OpenUSD expertise and Reply\u2019s deve"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2xkODBFNndkNEhPcXdCeTIzek1XY083QzZRNHpBR2V1dmxPZ2hVMXYyV3Njd2VEMnFKU2MyUDBob05oa1FtMkJaVktxeFlpd3JybEI3RjFaa1NwY2FMbDJtZUlid1FLelRoakFjN01uRnlGT3ZmcDQtWXJ3WWdYOFFQOUFPR1NWeWJaemF4YU1Mako2WWVR?oc=5",
+      "pub_date": 1792168200.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d052147fc9ff6c5c6d9772513296c3371b7f488ae805f78092b0348bdc7532f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F29c9fd6615328998e1be820221db79c7",
+      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [\u2026]"
     },
     {
-      "headline": "Robots could boost US manufacturing as America races to keep pace with China, expert says",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVpiRWhIMmV6by13Mk1YbEE5TUt1ZTRmcFVBNFhwMnFYRjR4OUlvc0tZYkZ1T0dzRGhpWmExeGl5N3pSazhaMjgyZ0dvaUExNkRoOWhKQm12Y3RQdldhMTBzSElJbF9kbFl4eTZTcFVtOTZfWGtCZHowcEViTnM4RXBQLUh4V1VtQWo0ZU9DY2JmUFRMN3RHTkkzZmo4OWFXRDFWRUhZRmtIN19Za2ExTC11VmRfdVXSAbwBQVVfeXFMUFhCVGRlMEd0eXRMNHJCYTFVTE5ZRHlYUnAxLXU0ZUhFQU01TnJkOUZKZXRwVjAxYXVMX0d0UlBPZHVsNnZJU3BTRWtLazdqRUFCazEtV0dGdTg1U28wWTRvcGI5eF8zbFBhTVhBeThBV2ZaUXExUTZhdU5oYU9ZRWhmVUJQWllQLUNvOEZlbC1fUGRQbFJUNWYxOHFkNE1FZ1czNFpvZXRTSlNaYjZmeUh1V2szZF9xWmtyTDM?oc=5",
-      "pub_date": 1792163580.0,
-      "article_url": "https://www.foxbusiness.com/technology/robots-could-boost-us-manufacturing-america-races-keep-pace-china-expert-says",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/ai-powered-robotics-.jpg?ve=1&tl=1",
-      "description": "A Path Robotics executive told FOX Business that automation will be critical to expanding U.S. manufacturing as worker shortages persist and China moves faster to adopt robotics."
+      "headline": "US Army competition explores military uses for humanoid robots",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
+      "pub_date": 1792425600.0,
+      "article_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/XQ6LFK35VRHNHOJEGOR4W7VSQM.JPG?width=1200&auth=59a583cbacd5805ea1fafa721bac4cbb94b3ed6b05e9e8eadcb0cdfa282c8e8c",
+      "description": "They're still a long way off from mass-producing Terminators."
+    },
+    {
+      "headline": "The Robot I Didn\u2019t Expect to Build",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5",
+      "pub_date": 1792414803.0,
+      "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68441166&width=1200&height=600&coordinates=0%2C1537%2C0%2C1538",
+      "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
     },
     {
       "headline": "Video: Are These Workers Training Robots to Replace Them?",
@@ -75,36 +95,16 @@
       "description": null
     },
     {
-      "headline": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50N1dGT0ZPNlhyYkxnd3ppbWpHN1h6bmU3dnhZb3g1bWJVZHZBbmJnWEM4NnVQS1lGbzBfTDlFeXhKbDI1X2I0R2xVcDhBZjEzVEw2WW9CSVFGWHJ5QlhZWlp5RzdxM1AyRzduT2dmb1cyblU5MjJOcFZZS3Y?oc=5",
-      "pub_date": 1792234813.0,
-      "article_url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Jeff Bezos Predicts Millions Could Live In Space By 2045, Robots To Do The Work",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2tNYmtwUXZsX3VqZnRnMzd5cVh1ZC1jRWc5UGpqelhKTTJQdUxnSU9JOWZPbG5mbVRCbWFUdEwyVWlFWmFWem1HblZ2bXRYWnB0bHRBNXYzcnU5MEwteExXN3pDUHNwazVGQ0dGUlRpUF9RbF9pM3NsZmZ4aUEtZ3FrODVwNU1nenFrMjVNVkZUOS1naEh6RUtlWEo1RkM2aW9KUnlvZkZMYUJlYUYta0d5ZllVNXPSAb8BQVVfeXFMTkg5dkNWS05yZ3IyN2NGcGZPTFdiRXZnYi0yMVZQa19WcmVscWlVX3RIZU5jQ0VtTi1EeVZjRkh3WVYtdHlMcjI4MTdnYUN6Zm1HTi1RaUJWRXRUcVdIZGpfRWdVWENWQjZuSEtQYVFmTXZSbm04NkcwR3NNRENRcDlFWWdwV0s4UWNCZ09hYll6Tkpfb0QwUlpfbWpUdVhMQVRBVndGbTNSRDVyNlZDbGVJNXVVLURqT09NYjl2NGc?oc=5",
-      "pub_date": 1792319429.0,
-      "article_url": "https://www.ndtv.com/feature/jeff-bezos-predicts-millions-could-live-in-space-by-2045-robots-to-do-the-work-12202504",
-      "image": "https://c.ndtvimg.com/2026-10/hb99tvf4_-jeff-bezos_625x300_18_October_26.jpeg",
-      "description": "Bezos said rapid advances in AI, robotics and space technology could make life beyond Earth a reality in the coming decades."
-    },
-    {
-      "headline": "Delivery Robots Accused Of Scanning Customers\u2019 Faces, Sharing Biometric Data",
-      "source": "Block Club Chicago",
-      "source_url": "https://blockclubchicago.org",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFBUUEpZbjhuU3ltRkFPY1Nna1R1SlN5a0w2b2N1c1J2dWlOTm5NUWdxX3BZTlJheVZrZnlrSkhLejNUY2R6Vm00SUQxblA4ajVYZXlQcXhLa2hrVnpQOTNyTGc5NTUtVXlLR0o2SmljeW5aTG1GaGVEVDBPMGRUaFBoaTRoRjFyWXdVTFducTFpeGhPczMwTUxHb05ZTXdVenhnM0lRTzRsUWZYN3BqRi12T3RuUQ?oc=5",
-      "pub_date": 1792178820.0,
-      "article_url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
-      "image": null,
-      "description": null
+      "headline": "How Boston Dynamics is turning robots into a real business",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnlfbktMSHoybGFxcDZxUFNXMWM3WmJrZmV2SWlfLW5Od29YcmR4X2Z3MTV5cXdUb1lzbkxFX3dJWTBPZjZ0aVY5RWhySUY2OU10SkxWMzlGVDN2ZXJRcUVGVUhQWkdXT01nanEtRlRCcmNuLThSdHpwLXFic3FRUHBNZmk1U2dpWEZlTTJaWDB2LVFxbGc?oc=5",
+      "pub_date": 1792415700.0,
+      "article_url": "https://fortune.com/2026/10/19/how-boston-dynamics-turning-robots-into-a-real-business-cfo/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55586605162_eb0d472b48_3k.jpg?resize=1200,600",
+      "description": "CFO Amanda McMaster explains how Spot found paying customers and why Hyundai's backing could help Atlas scale."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-19T09:39:08.846416+00:00"
+  "fetched_at": "2026-10-19T16:49:37.263265+00:00"
 }
