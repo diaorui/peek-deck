@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-19T09:39:18.363418+00:00'
+updated: '2026-10-19T16:49:41.454340+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 19, 2026 at 09:39 UTC  
+**Last Updated:** October 19, 2026 at 16:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -2.1%  
-**30d:** -7.5%  
-**90d:** +26.4%  
-**1y:** -38.6%  
+**24h:** +1.4%  
+**7d:** -3.9%  
+**30d:** -9.1%  
+**90d:** +24.2%  
+**1y:** -39.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.17B
+**Market Cap:** $293.35B
 Rank #2
 
 **Circulating Supply:** 122,148,378 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-51.4%
 
 **All-Time Low:** $0.43
-+563761.1%
++554559.7%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 staking eth for about three years now. started with lido, then tried rocket pool, even ran a validator for a while. but honestly the whole defi staking thing is starting to wear me down. smart contract risk, slashing risk, the tax nightmare of tracking all those tiny rewards. it's just a lot. lately ive been using gemini for a chunk of my eth. it's not as exciting as defi, and the yields are lower. but it's simple. i don't have to worry about a bug in a contract draining my funds. i don't have to spend hours figuring out cost basis for taxes. i stake and get a statement at the end of the year. for someone who just wants exposure to eth staking without the headache, it's been a decent option. i still keep some in lido because i believe in decentralization, but the regulated route has its place. anyone else split their staking like this? or am i just getting old and lazy?
 
-6d ago
+7d ago
 
 ---
 
@@ -96,7 +96,7 @@ staking eth for about three years now. started with lido, then tried rocket pool
 
 Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
 
-7d ago
+8d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
 
-8d ago
+9d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 9d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 10d ago
 
 ---
 
@@ -152,79 +152,81 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 ## Google News: "ethereum"
 
+**[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
+
+Bloomberg.com • 9h ago
+
+---
+
 **[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
 
 According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
+**[Solana or Ethereum: Which Is More Likely to Be a Millionaire-Maker by 2030?](https://finance.yahoo.com/markets/crypto/articles/solana-ethereum-more-likely-millionaire-160045438.html)**
 
-The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
+Early Solana and Ethereum investors turned small bets into life-changing fortunes, but both coins now sit far below their peaks with ETF outflows mounting. The path to another millionaire-making run by 2030 requires clearing very different hurdles for each.
 
-CoinDesk • 3d ago
-
----
-
-**[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
-
-Bloomberg.com • 2h ago
+Yahoo Finance • 48m ago
 
 ---
 
-**[Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/10/17/wall-streets-biggest-settlement-firm-is-lining-up-stellar-for-2027-is-xlm-a-better-buy-than-ethereum/)**
+**[Current price of Ethereum for Oct. 19, 2026](https://fortune.com/article/price-of-ethereum-10-19-2026/)**
 
-The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-24/7 Wall St. • 1d ago
-
----
-
-**[Ethereum’s ‘World Computer’ Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents](https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/)**
-
-Ethereum (ETH) was wrong with its “world computer” idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight’s approach as “What they got wrong with this idea of one giant shared w…
-
-TradingView • 15h ago
+Fortune • 2h ago
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC rebounds to $82,500 as ETH and XRP hold support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-rebounds-to-82-500-as-eth-and-xrp-hold-support-202610190318)**
+**[Bitmine Acquired 12,535 Ethereum Over The Past Week](https://finance.yahoo.com/markets/crypto/articles/bitmine-acquired-12-535-ethereum-134800516.html)**
 
-FXStreet • 6h ago
+Bitmine Immersion Technologies (NYSE: $BMNR) acquired another 12,535 Ethereum (CRYPTO: $ETH) over the past week.
 
----
-
-**[Claude unpicks an NSA mystery behind Ethereum passkey security](https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/)**
-
-Claude traced P-256’s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain.
-
-CryptoSlate • 19h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Vitalik Buterin’s ‘Paranoid Mode’ puts Ethereum’s AI security push under institutional lens](https://ambcrypto.com/vitalik-buterins-paranoid-mode-puts-ethereums-ai-security-push-under-institutional-lens/)**
+**[Solana or Ethereum: Which Is More Likely to Be a Millionaire-Maker by 2030?](https://247wallst.com/investing/cryptocurrency/2026/10/19/solana-or-ethereum-which-is-more-likely-to-be-a-millionaire-maker-by-2030/)**
 
-Ethereum’s AI push could strengthen blockchain security and expand institutional use cases.
+Solana and Ethereum made early investors wealthy. Which is more likely to turn $10,000 into $1 million by 2030?
 
-AMBCrypto • 1d ago
-
----
-
-**[Not Bitcoin. Not Ethereum. These 4 Cryptocurrencies Could Be Worth Holding for the Next 5 Years.](https://www.fool.com/investing/2026/10/16/not-bitcoin-not-ethereum-these-4-cryptocurrencies/)**
-
-The odds of these coins being worth more in five years are quite high.
-
-The Motley Fool • 2d ago
+24/7 Wall St. • 49m ago
 
 ---
 
-**[Crypto ETFs Lose $164.8 Million on October 16 as BlackRock Leads Bitcoin and Ethereum Outflows](https://financefeeds.com/crypto-etfs-lose-164-8-million-on-october-16-as-blackrock-leads-bitcoin-and-ethereum-outflows/)**
+**[JPMorgan Plans JPM Coin Expansion to Ethereum for Institutions](https://bitcoinfoundation.org/news/companies/jpmorgan-plans-jpm-coin-expansion-to-ethereum-for-institutions/)**
 
-US crypto ETFs lost $164.8M on October 16: Bitcoin -$82.4M, Ethereum -$69.7M, Solana -$12.7M, with BlackRock's IBIT driving most BTC withdrawals.
+JPM Coin Ethereum expansion is planned for approved institutions, bringing dollar deposits to a public network while retail users remain excluded.
 
-FinanceFeeds • 3h ago
+Bitcoin Foundation • 2h ago
+
+---
+
+**[Polymarket Odds Today: Israel Election, Ethereum, NBA Champion](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-eisenkot-netanyahu-ethereum-nba-champion-october-19-2026)**
+
+Today's best Polymarket predictions: Gadi Eisenkot drops to 47% to be Israel's next prime minister, Ethereum dip odds rise to 68%, and NBA title prices against US sportsbooks as the season tips off.
+
+RG.org • 4h ago
+
+---
+
+**[Ether ETFs Have Given Back 62% of This Year's Inflows. Is Wall Street Giving Up on Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/10/19/ether-etfs-have-given-back-62-of-this-years-inflows-is-wall-street-giving-up-on-ethereum/)**
+
+Three weeks of Ethereum ETF outflows have erased about 62% of the funds' 2026 inflows. Is Wall Street giving up on Ethereum?
+
+24/7 Wall St. • 2h ago
+
+---
+
+**[Ethereum News: Vitalik Buterin Has a New Plan to Keep the Network Lean. What Changes for ETH Holders?](https://247wallst.com/investing/cryptocurrency/2026/10/19/ethereum-news-vitalik-buterin-has-a-new-plan-to-keep-the-network-lean-what-changes-for-eth-holders/)**
+
+Vitalik Buterin's EIP-8288 would move heavy cryptographic work off Ethereum's main chain. What does the draft mean for ETH holders?
+
+24/7 Wall St. • 6h ago
 
 ---
 
@@ -232,23 +234,13 @@ FinanceFeeds • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=i6jRengVStI)**
+**[XRP 30x In Price Bitcoin 12x In Price Ethereum Going Up 33x How Much Richer Will Crypto Holders Be?](https://www.youtube.com/watch?v=eWnq7A8h-50)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+I'm not if you've seen or heard but literally every single analyst for the cryptocurrency market is throwing out some insane crypto ...
 
-📺 Crypto Nutshell
+📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 58 • 💬 34 • ⏱️ 23:47 • 17h ago
-
----
-
-**[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
-
-📺 Lark Davis
-
-👁️ 27K • 👍 517 • 💬 77 • ⏱️ 11:36 • 1d ago
+👁️ 14K • 👍 1K • 💬 197 • ⏱️ 14:47 • 5h ago
 
 ---
 
@@ -258,7 +250,47 @@ Why is Ethereum cheap below 2400? It usually falls about 1.3x as hard as Bitcoin
 
 📺 VirtualBacon
 
-👁️ 2K • 👍 63 • 💬 37 • ⏱️ 1:26 • 19h ago
+👁️ 3K • 👍 66 • 💬 37 • ⏱️ 1:26 • 1d ago
+
+---
+
+**[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
+
+📺 Lark Davis
+
+👁️ 28K • 👍 530 • 💬 80 • ⏱️ 11:36 • 1d ago
+
+---
+
+**[Ethereum vs Solana: Why The Faster Chain Isn&#39;t Winning](https://www.youtube.com/watch?v=nDpgtKT2VqE)**
+
+Ethereum vs Solana: Solana is the faster chain, but I still think Ethereum is the clear winner. Solana has always been seen as the ...
+
+📺 Crypto Archie
+
+👁️ 120 • 👍 5 • ⏱️ 0:48 • 2h ago
+
+---
+
+**[Could Super Intelligence Break Your Bitcoin Wallet?](https://www.youtube.com/watch?v=fCik3SHhE-0)**
+
+Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over ...
+
+📺 Natalie Brunell
+
+👁️ 554 • 👍 37 • 💬 6 • ⏱️ 2:31 • 1h ago
+
+---
+
+**[Matt Hougan Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=i6jRengVStI)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 4K • 👍 65 • 💬 43 • ⏱️ 23:47 • 1d ago
 
 ---
 
@@ -268,7 +300,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 15K • 👍 300 • 💬 141 • ⏱️ 14:07 • 20h ago
+👁️ 18K • 👍 335 • 💬 167 • ⏱️ 14:07 • 1d ago
 
 ---
 
@@ -278,47 +310,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 288 • 💬 41 • ⏱️ 26:07 • 1d ago
+👁️ 22K • 👍 300 • 💬 30 • ⏱️ 26:07 • 2d ago
 
 ---
 
-**[I Built a Day Trading Bot using Claude Code (ETH Automated Trading)](https://www.youtube.com/watch?v=TtAx2A8hpTU)**
+**[Ethereum’s 6-Year Wait Is Almost Over… What Comes Next?!](https://www.youtube.com/watch?v=PrEjegwI0j8)**
 
-Full Tutorial Guide: https://tr.ee/ZLZkOL I Built a Day Trading Bot using Claude Code (ETH Automated Trading) Timeline: 00:00 ...
+ETHEREUM | ETH | ALTCOINS | ETHEREUM ANALYSIS In this video, I deep-dive into Ethereum's price, fundamentals, and chain ...
 
-📺 Thomas Sutton
+📺 CryptoSavingExpert
 
-👁️ 4K • 👍 40 • 💬 59 • ⏱️ 6:16 • 1d ago
-
----
-
-**[🚀 Ethereum Gets Its Upgrade Date - ETH Crypto Analysis](https://www.youtube.com/watch?v=2QnPCmPrteY)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/m4YvMLMe My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 4K • 👍 60 • 💬 7 • ⏱️ 8:36 • 2d ago
-
----
-
-**[&quot;This Crypto Bull Run Will Be MUCH BIGGER Than Anyone Expects&quot;: Tom Lee | Eth Update 2026](https://www.youtube.com/watch?v=H6_702z-5iY)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 185 • 💬 10 • ⏱️ 23:39 • 2d ago
-
----
-
-**[Ethereum will fail if it doesn&#39;t hit $8000](https://www.youtube.com/watch?v=y4DcYpx7rfE)**
-
-Full stream link: all my links https://linktr.ee/dollarcostcrypto PLEASE LIKE THE VIDEO! DON'T FORGET TO LIKE, ...
-
-📺 Dollar Cost Crypto
-
-👁️ 1K • 👍 29 • 💬 5 • ⏱️ 0:17 • 2d ago
+👁️ 231 • 👍 14 • 💬 4 • ⏱️ 14:07 • 2d ago
 
 ---
 
@@ -328,7 +330,7 @@ BITCOIN: CALM BEFORE THE STORM (Watch Before Tomorrow)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 23K • 👍 511 • 💬 274 • ⏱️ 20:42 • 23h ago
+👁️ 24K • 👍 523 • 💬 275 • ⏱️ 20:42 • 1d ago
 
 ---
 

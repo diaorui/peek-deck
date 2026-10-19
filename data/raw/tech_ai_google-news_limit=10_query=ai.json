@@ -5,26 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZHRYMm5JQlowV3BIWlYyVFYyblFwaXRiUkdrbFBTQVZybmhQeHhGaWdqR0lIOFdRMjBnWEJHa05yT2NzczdueGlIRHVUWldMcndwQVo4QmlseTU2TjZZZG9tTlpBVGw1SmkySGx4eWMtUVg2Zkc1d2NB0gF_QVVfeXFMT3dVUEl4TlZJSzV4eEpqMWFWYTJESFF2YmFWN1VHWDhtWHpjajJrV0djSGNmTkRPcE92UnpEYzVMVEhPb0N0WjdheDZtMGVTeUdwOHdfd05xMFJ4Q29KSzZ5QXFlM2JrN1poZjI0Q1I1S192SFFUOVBDV3FqM1NZOA?oc=5",
-      "pub_date": 1792324801.0,
-      "article_url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
-      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings."
-    },
-    {
-      "headline": "The AI industry\u2019s gigantic debts are making investors nervous",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjBPZ04tUnFocVdZQlM2dkF6N3hkVk9wTDB3SWVfbHo2ZFNvcnQtanBIX2JIVVg5UXpEZGVlRDIycFFmZmlUMHdjaFlwUzNOclNlUEdzaUtQMHNPY3FkdFZQUFIyclZCQURIN09YZHlWUUdmYkhYY3B6WDlEQ2ZqbEdaai1BNUQzX3VwNC02a01abVRPWmZwdWQyMUdjbzZiaHNDVmFuMWJhZw?oc=5",
-      "pub_date": 1792354768.0,
-      "article_url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -35,76 +15,96 @@
       "description": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents."
     },
     {
-      "headline": "Amazon knows how to build big. The AI boom is testing just how big it can go.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEZnVnJtTG9xWFdXSExvcXVNQU9fS3lNQTY5RlNTMWtyR3V5MXVob3RpSXFVN3ZsMTExNnhYUUNUNHlNclhNWENaeHcwbVFEclVGX3JBWjBLU3drck4tUGcwZHRFV25lWXhidWdyNmlLQ1JRdzNtV242clJyOGZpbU9FNjdWNTE1Sl8yLThkRFM1ZWxxbEp3MFQ5SW50cFk?oc=5",
-      "pub_date": 1792400400.0,
-      "article_url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
-      "image": "https://i.insider.com/6acf250ae50b02f612be300c?width=1200&format=jpeg",
-      "description": "Amazon's $220 billion AI buildout is draining cash as power shortages, costly Nvidia servers, and construction challenges pile up."
-    },
-    {
-      "headline": "Wanted: AI experts to school Congress",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmJBVUhvY2gxbEszZFFlbnFfcnpRekdRQ0tjbS1TY2J4R3ZkcUVONS1XUGkwT1BHOUNJQm1pUmVELTZ0ekJ0bXFYMV9SVTdBbDJQa2ppS2htUEpiRmt6ZEViZnZoTXJob3VRSFJidVRsY0FTMkJXQnZDVlJXVUdDNmN6YXduV3VSa1JuazNKVkhNYjNfYW43bnJoN2pMcG92V1BEQlpWclkyY2Y5NFE?oc=5",
-      "pub_date": 1792399800.0,
-      "article_url": "https://www.politico.com/newsletters/inside-congress/2026/10/19/wanted-ai-experts-to-school-congress-01125871",
+      "headline": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+      "pub_date": 1792413096.0,
+      "article_url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbEdtcm9pNXNFU2h1dUxVN2c4NGVIM2o1OTZ1QXlDNXlLSWZkUnI0N2pObVVUWmRkajhieS1hT2s3dUk3WlFZekRYOU1CNE1SVHp2MkIyMHVpNS0xSW1OZ3ROUG5uN3dLbkhDMVpZR2RGcVRwSTVTbUotZw?oc=5",
-      "pub_date": 1792296007.0,
-      "article_url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+      "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5",
+      "pub_date": 1792418321.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "description": "The AI agents infiltrated more than 100 websites."
+    },
+    {
+      "headline": "AI agents are only as good as the personal information you share. That raises privacy concerns",
+      "source": "Anchorage Daily News",
+      "source_url": "https://www.adn.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFprODhFTzRqS0ZNVFQ2MG44Y3NxLXNuYl94Yll3YUs3ajk3N0NBcENxZDhpMENtTVdTbDVuVld1aXpQNVZQTFBtQmNERkM1MlhiZEozTWxwaHZSV29uXzRyWFlWVk1FRnFMTWRkeUp0aEJEREhnS3ZJYXpQV0l6eDc3a0U4ZmRoNVNxRmFtUktWNUtLY0hoaXV4NkExOXI4NU1FTFVkbUdGNGNMNjZ1TWxNa0ZVXzhTaDV6SG9SejlDaXpUVzdZeHI2emJyVURmelBHbg?oc=5",
+      "pub_date": 1792425498.0,
+      "article_url": "https://www.adn.com/nation-world/2026/10/19/ai-agents-are-only-as-good-as-the-personal-information-you-share-that-raises-privacy-concerns/",
+      "image": "https://www.adn.com/resizer/v2/7Y2NF77FRD5P74KT42NSHUQHEA.jpg?smart=true&auth=d374dd3eac8bf876453464fe8e74d7126d6c128c5e91cad6a12287a7d8e0aa55&width=1200&height=630",
+      "description": null
+    },
+    {
+      "headline": "How DeepSeek Is Shaping Huawei\u2019s AI Chips in a Growing Challenge to Nvidia",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2RQSmZ0elVhQmxYNy1qajBvNDl5NlVmRlFfWlg1WHBtUGVicUNEZEFEbmR5eTVyOGY4cnpRc0tMVGxFTFIyV2pQTEtSLXpTT09KeUFndkV5bktmSERxQmcxX1FUNnhRMlZHdHQ4MnRMRzhuQ1JfajZ3Q1RncXRlVFcwNVBQdV93a0xvUVFEb2VfQlNvbG41dmVNSktQRk0?oc=5",
+      "pub_date": 1792425600.0,
+      "article_url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia",
+      "image": "https://tii.imgix.net/production/articles/17999/2ce59ff9-4776-450d-a48e-a3f481cf1064.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "DeepSeek is working closely with Huawei Technologies to shape the design of future AI chips, two people familiar with the matter said, in a collaboration that could help China build frontier AI models without Nvidia\u2019s technology. The relationship goes beyond the kinds of conversations companies ..."
+    },
+    {
+      "headline": "The Internet Needs a Memory",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzhmdlBONmw1akpjOUczYjItcEgta2MxcWlCVVdfVi12MTdxTi1WanRaWkxCc2JXcDdzcWxUMERJRFB2Q2RPVnVxVXpwTm51RmRFLWkyZGVBZDJaNHJiZVN1bFNZZFd6cDR4aVhlQzFhc2lVaXlaWmRQdmFfTGNGOVRzQ2I1WllYM0dhWmNTZlVxM0xpSFhURVhhRFdzUQ?oc=5",
+      "pub_date": 1792425600.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Even LinkedIn is getting tired of your AI-written posts",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uS29hWUl5aVJNVzFDaFZNS0xnem5sTzR5QTg5cC13VGlTZTFWQjQ4TzdkUXExeU9qRUhKSk9iUzFnUUdrSjcwVkRtczl0MGZoblNYM2JacWt0aFRaMTQtN0NiUTlnZlB5QWVlampfdw?oc=5",
-      "pub_date": 1792319446.0,
-      "article_url": "https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1500480993.jpg?c=16x9&q=w_800,c_fill",
-      "description": "LinkedIn is upping its fight against generic, low-quality AI posts on its platform."
+      "headline": "People are using AI to make their smart TVs dumb again",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUlIQzFzeG5lbUQ1eVppbklieXRmRlhva2tGMmQ5MzZIU0ZEYVlBVUNsVnFLYmJuSk5sdk5jdDc3VDZXZFdUd0hiRUNqbUl0ck9MS3hYWU0yQVEyc1ozQTFJd0MtYm5ZR1h6LVNXdEl3dmVpSXZWaXEtMnY2dDZ4NlJEUkNmTW5qbW1mOGhEOWp4eUE?oc=5",
+      "pub_date": 1792426402.0,
+      "article_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
+      "description": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
     },
     {
-      "headline": "Don't fall for this - how to protect yourself from AI scams",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JUFhib09ESkVnYlNhYkdHU0d6UzBnRFF1MDloOGMxd3lLZm5LLUwxUWhNMVBTb3ExMmhEWWo5NVRyN1dqbExkcTBLQ3VveFNJMDJsaEx2YlNMZUk?oc=5",
-      "pub_date": 1792365899.0,
-      "article_url": "https://www.bbc.com/news/articles/c60rl1xvjv89o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
-      "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
+      "headline": "Investors are buying on Monday despite fear the AI trade nightmare scenario is far from over",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5URm5yOE01QkxWQzVkd2gzX0xDSEVfdy1WYXVmNmhCZjdhNVlUdzktX0V6Ykw4S2JBMi1RcE9VWkNwc25hUzczLW9Qam5XeGJuUUo4VHI0UC1FcFFHNHh3V3lCZlQzQjM2eENpWGZ4eF83c190bUh1elk3WEx4Z9IBgwFBVV95cUxNT212QXdabDFacG90TmZPRk1EVkxuVlU3dmhZazBCZHMzeEZUUDdwTlRaQWlSX0lFWTVtd0d1S3hWZUcxTEY2ZzhDTHc4b3FsaXdVenB3ZHpFZC1MYlF0bHp4UU5HdklzanphMUFVR3g4ZXJQWGxHeVlwbExNTzVWRGM0aw?oc=5",
+      "pub_date": 1792411215.0,
+      "article_url": "https://www.cnbc.com/2026/10/19/stocks-buying-opportunity-ai-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108420538-1792169037349-gettyimages-2299938321-CITY_THERAPEUTICS_IPO.jpeg?v=1792169059&w=1920&h=1080",
+      "description": "Here are the key things investors need to know to start the trading day."
     },
     {
-      "headline": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5",
-      "pub_date": 1792330200.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
-      "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0febd2f8692eef6ecd233dd9e7cb3d09",
-      "description": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year"
+      "headline": "Intel leads chip stocks higher as investors jump back into AI trade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEt3a3NfQVIwNnB5bDRyMWtCdU1fVjN6YXlGOFhwVF9VdWhhVW5aSi1lTzZPSVdFVUhrOFJJWXJpM29yOEVXVWwzWVRDalJHREZqMkVsS0prYjJtYXROOGh0ejdwY2JzclFTNk1EVE9BSVdWejd6RnBJa2Z6azJFdEhYdS1UMWdmSGFKYzBtLVJ5RlYxcWQxRUZzdllGUXNibUNCNnh0VmlSdmZWNjA2QjVOQ3VuaWFwTE8wX0ZiYVRpQQ?oc=5",
+      "pub_date": 1792418246.0,
+      "article_url": "https://finance.yahoo.com/markets/article/intel-leads-chip-stocks-higher-as-investors-jump-back-into-ai-trade-135726553.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/60b37a27bbce18f41aff8e857ae6068e5603dc0f8b947a006a20fe15534ed1c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F534d965d-af13-4ebd-8d0f-29221e8a12cb",
+      "description": "Semiconductor stocks jumped on Monday."
     },
     {
-      "headline": "US stocks set for rebound after AI sell-off",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2NHckFHWkhFaHl6MTFYdEw4YWNsXzNKOFYyTjB2ZGlpU1RMVndlclNvRFp4ckpRN1ZORzRuWUVGblRYdU1WU2JZSXR6SjlOeDhtZW1LTHYtLVY3S0NaTW1EUl9RSkhWQWprMUFaa1pxbzY2SFB3NFpvZkNkWVB0SThBRHE?oc=5",
-      "pub_date": 1792388062.0,
-      "article_url": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
+      "headline": "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQjZ2RkNBR1Job1lUYmJyVERwRDZzdFo2VHFSQVdmWVhLYnZpaDZtVkJ0V3l5V1FzS2hMUTZUd0tObWZ0QTI2VVM3LU5WUjFmXzdPWmZSaWotVnlPNEMzUGlNbG53Q3dtbmNOZ0diSTRBNXlvQTJtYXQ5amtMbzhiMExSUUdaWWJxNDNfdnZtY3hQRnQxdGE0MnRTU2tSOGd1aFZUWGRRNy1xeVFHVXhnTWJhZ2dBOGlCZHp0WWlGeldPdUhpSkpncmFzLTQ?oc=5",
+      "pub_date": 1792425960.0,
+      "article_url": "https://www.detroitnews.com/story/business/2026/10/19/sp-500-nasdaq-climb-as-ai-linked-stocks-recover-ahead-of-earnings/92330574007/",
+      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/02/03/PDTN/88489525007-getty-images-2255409920.jpg?crop=5162,2903,x0,y264&width=3200&height=1800&format=pjpg&auto=webp",
+      "description": "The benchmark S&P 500 and the Nasdaq Composite gained on Monday, as AI-related stocks rebounded from last week's sharp selloff."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-19T09:39:09.540323+00:00"
+  "fetched_at": "2026-10-19T16:49:39.939779+00:00"
 }
