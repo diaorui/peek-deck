@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-19T16:49:12.912945+00:00",
+  "data": {
+    "url": "https://100toolkit.com/blog/deslop-model/",
+    "title": "Qwen3-4B with the AI writing tics trained out",
+    "description": "A small open model, fine-tuned on a MacBook Air, that writes without em dashes, \"not X, but Y\" or lists of three, with no system prompt. Answers on 40 held-out prompts, the training rounds, and how to run it.",
+    "image": "https://100toolkit.com/blog/deslop-model/og.png",
+    "favicon": "https://100toolkit.com/favicon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}
