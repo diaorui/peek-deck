@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3FwVk0zTDV2eWtNY1g2d0Naa3VPb05jaG53aXBPS0RMa19mQllheHBRWmtDRU4xZkhBVFBkYy12amhseDRWaGp0N3pnSnZaek1JaWhST2xZUzYtQ1hHUnl0bFhoUkUtdFZCRXZRU2xrb1JqTEVEeDFGTEY1Vk1JWGxOOEVrVkp4ZXE4cg?oc=5",
+      "pub_date": 1792428365.0,
+      "article_url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png",
+      "description": "Another long-sleeping Bitcoin whale has stirred, and this one is named in a lawsuit claiming its coins were abandoned."
+    },
+    {
       "headline": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -15,54 +25,14 @@
       "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
     },
     {
-      "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
+      "headline": "MARA Holdings (MARA) Mined More Bitcoin, but Revenue Fell 27%",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
-      "pub_date": 1792342372.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ede7d4f4596f2b5b2011ee6e711a4515c47e88cd03f8b27ae28af1eaafe7bf3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fa00004adcdf2f821db505487b4120aad.jpg",
-      "description": "According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours."
-    },
-    {
-      "headline": "Wrapped Bitcoin Shifts Bitcoin Custody To Cut Risk From Quantum Computers",
-      "source": "Quantum Zeitgeist",
-      "source_url": "https://quantumzeitgeist.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HX2l6RjlLYXBTdHBvYmtqeXM4M0Z0R2FzeDZOdlFBbGhYN0dFdFJRZW5KdFk5N09PU0wzZzNGMkxjeVRoRFFQSllwaGI1bmE5RWF1eVdmLUc4VTlpX01QUHNMRHdOTWkyY3NWeTFZNUtzcGRBazVZaQ?oc=5",
-      "pub_date": 1792424751.0,
-      "article_url": "https://quantumzeitgeist.com/wbtc-wrapped-bitcoin-shifts-custody-cut/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin vs Gold Forecast: BTC edges up, XAU struggles below $4,200 as Fed decision stays in focus",
-      "source": "Mitrade",
-      "source_url": "https://www.mitrade.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUxtYk9mQldVcUcxRF9JWmM3anRUZVo1V3dPb19VYlNYSTNwSWJXZVBzZ2trY0pzbTRseVJqTVJHb2VwUW55QzBwS0lwQWlOTVJMdmNHVU5jU3h2RzkyaWtJSzdEdEdqN2J2TkNZVVlITE1XSmlLaHc2VmVwVUFfcU00VQ?oc=5",
-      "pub_date": 1792423438.0,
-      "article_url": "https://www.mitrade.com/au/insights/news/live-news/article-5-2173964-20261019",
-      "image": null,
-      "description": "Bitcoin (BTC) trades higher, above $82,000 on Monday, helping lift broader crypto market sentiment after last week's correction near $80,000."
-    },
-    {
-      "headline": "Michael Saylor's Strategy buys 267 bitcoin, repurchases $193M in STRC",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSno5cUZsSEYxY0tXY0pLbS1QcFVUd1RFM0puaUJJdXNJeWNSV1BXQ2dKQnozTldmb0ZKZHEzSk5rQkdSSEgwRXQxTkJpMXk0bzdvMWZOWkdkOFZJNnFBaklxTHlvbzlBalpMUjNsODF0ODdKSmhYQUE4eVZGQW95LUJHUU1vN3c?oc=5",
-      "pub_date": 1792425600.0,
-      "article_url": "https://finance.yahoo.com/video/michael-saylors-strategy-buys-267-160000534.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/afbcb191b0f9bf7cad627d013957603f6ab3791fe1e459005526d94d1ab80a62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F1428fc70-8524-11ec-affd-78df3281e709_8677c814de978af9d1fd5ec2a5ab814de29e40acd603af4543c563ff1a87c01e.jpg",
-      "description": "Michael Saylor's Strategy  (MSTR) is doubling down on its bitcoin (BTC-USD) strategy, acquiring another 267 BTC and repurchasing $193 million worth of its (STRC) preferred stock. Scott Melker breaks down the latest moves, what's driving Saylor's aggressive bitcoin playbook, and what it could mean for Strategy investors."
-    },
-    {
-      "headline": "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEswMWNQNjNSQ3F1Nzh4cS0tbGJIQzgybl9iZmJPelZuTllCRDN6UEVSN0pJSlhhXzhrZXhSTUkxZDZ3d3ROZ01ZejZhYThjeEpYVmpCVi1xS25qX2NDNGNFNGhmaVM2NmQ3eDVvRF8yZHpHVUI3WnctZ1p6VkltYnhBRmVCcGZsbTMyVXIyc3prZzhyVFk0M2h3?oc=5",
-      "pub_date": 1792399591.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-82-000-041512162.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/78a7a9bb1631d4ff9010384dc92057b397080530ddb9f0bff58e5e176bf697db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F36b1a9d3045cade04c062988b588f950.jpg",
-      "description": "Bitcoin popped back above $82,000 on Monday, rebounding with risk assets as oil prices declined."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3l3LVN2WVNRLVNuSWhsYnZZckdMOFFZWEt0ZjZLOHR2bnp3SnFIMkQtX1NjRm53enJmVnhnY1kxUmNudE51RXBBTF9QV2NVRGJWdDRtOV8tX0dCZ1FoVDRtSTI1bnBSUEVrcFgxT00waU1VNzV3MnI3ck1vSU92WUlMODk4b1NKb2JMZ0ZyQW1lclhBREE4bnZB?oc=5",
+      "pub_date": 1792438875.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/mara-holdings-mara-mined-more-194115972.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/140bf866cb0b836b35abff4df2c2af7ea7082220ebe0c4fe62576418d37e66ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9ec1e995b9a83a4df9136c164ef8267f.jpg",
+      "description": "MARA Holdings (NASDAQ:MARA) mined 2,422 bitcoin in the second quarter, a little more than it mined a year earlier. Yet revenue fell 27% to $174.9 million because the average price of each coin it produced was far lower. That gap explains why the company wants to stop being known as a bitcoin miner. It now [\u2026]"
     },
     {
       "headline": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin \u2018Bailout\u2019 Amid Price Crash Fears",
@@ -75,24 +45,24 @@
       "description": null
     },
     {
-      "headline": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV213dzdMUjBKX0xzZHk2ajdDUGdsVmd1M0NNbjgtSFhaMjVLQmppNjJPTW9kbVpUT244bmxaWmRoSk11MjNqSi1saGNNNnBTU2xZZ3pOcXdWYW9uYnRVcjNYZUFpWWRjdWhodEwwNmQtT1hXeHpfeHVKU0xDOWtkb09mOW42RnU4TlE?oc=5",
-      "pub_date": 1792335664.0,
-      "article_url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-      "description": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red."
+      "headline": "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEswMWNQNjNSQ3F1Nzh4cS0tbGJIQzgybl9iZmJPelZuTllCRDN6UEVSN0pJSlhhXzhrZXhSTUkxZDZ3d3ROZ01ZejZhYThjeEpYVmpCVi1xS25qX2NDNGNFNGhmaVM2NmQ3eDVvRF8yZHpHVUI3WnctZ1p6VkltYnhBRmVCcGZsbTMyVXIyc3prZzhyVFk0M2h3?oc=5",
+      "pub_date": 1792399591.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-82-000-041512162.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/78a7a9bb1631d4ff9010384dc92057b397080530ddb9f0bff58e5e176bf697db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F36b1a9d3045cade04c062988b588f950.jpg",
+      "description": "Bitcoin popped back above $82,000 on Monday, rebounding with risk assets as oil prices declined."
     },
     {
-      "headline": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5",
-      "pub_date": 1792305651.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-      "image": null,
-      "description": null
+      "headline": "Richard Byworth: Bitcoin\u2019s Next Run \u201cJust A Mater Of Time\u201d Thanks To Seller Exhaustion",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1JENXNEeTVhX25VUkpxN3NqTUdtT1pVWDc5VkhEaWJ1YW11aW0xa204RllOeGRDRllOQkhWSzFOTU5pT2FLc293amIyWkROVmQ5azJiX3htYm9rdENiWDZHMlJwQ0dzbGVvTkxhYTRuekF0SDFZNFVEVG1JMHVsbWwwVWl4T09zNWJ5czhaVEtNaFZ2VnNtWGFTdDMwc1o0ZE1iZG9ISE5LZ2pKTFVpMUY0OFB2UGZm?oc=5",
+      "pub_date": 1792413702.0,
+      "article_url": "https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Richard-Byworth-Bitcoins-Next-Run-Just-a-Mater-of-Time-thanks-to-Seller-Exhaustion-.jpg",
+      "description": "Can you earn yield on Bitcoin safely? Richard Byworth warns against covered calls in rallies, making the case for basis trades for market-neutral yield."
     },
     {
       "headline": "WGMI\u2019s Pivot: From Bitcoin Miner To AI Power Play (Upgrade) (NASDAQ:WGMI)",
@@ -103,8 +73,38 @@
       "article_url": "https://seekingalpha.com/article/4955118-wgmis-pivot-from-bitcoin-miner-to-ai-power-play-upgrade",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzdWNWNJcDZRUmloWC1oU0dUSEdOWG13M01JMUFLWjdvd2Y2VjBvZFBVQVY3dmNmdUhQaXhHSkhKQXRqS0FLY215X2xIZW9uNklGR0VOOHkxRGxTejBlX2tKMmFVY0ozQWFrRkhBdkxPSk9JbEhMOWhneFp4cXhaSTBCdWp3dUVwa2YxT3dwV2FxZXRlTG51TE1xQUZtQncta2ttUHhvTWR1a1NhcWl5bUNEYjJuV3I4b1JnRGJJRktsSFk?oc=5",
+      "pub_date": 1792417500.0,
+      "article_url": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-14.32.12.png",
+      "description": "The latest purchase solidifies Strive's position in the top four public company holders of bitcoin."
+    },
+    {
+      "headline": "\u2018Short the dollar\u2019 and hold gold or Bitcoin as inflation erodes wealth \u2013 Ledn\u2019s Leeds",
+      "source": "Kitco",
+      "source_url": "https://www.kitco.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFJKY0FwaXNCTUZhYXJOSTBpa1VMZkRzMzhQb0VfLVlnQnJNN0lmSTNySzQ5OEVGb2YzMVl0QXF0cklqM0RQQUFtNVRfQzRYQm9SN3dhdlEtRkRJbjdQQmRqYXdnS29hMTlsNkhpcU55Tkh4NXVGMUF6NjJGdTNQVTUyZUp0RE96Q25mNEpMNTRpQlExYU5UaXN3dTZXTnRZbWlYZkVmdkRVNGtKVm5OTjVmOUVTaU9hLTBj?oc=5",
+      "pub_date": 1792419028.0,
+      "article_url": "https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-leeds",
+      "image": "https://image-api.prod.kitco.com/image/548393ae-d96a-466e-996a-3e275ce847df.png?top=0&left=0&width=1672&height=941&scale_width=1920&token=c9246c67885712dba385baf86ed2f2952a1b788e76f551c7590425cd8731b28b",
+      "description": "(Kitco News) \u2013 Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and&nbsp;Bitcoin, and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Leeds, CEO of digital-asset-backed lending platform Ledn \u2013 which is launching Tether Gold-backed loans in the coming weeks.Leeds said that since COVID, not only seasoned investors but also average people have been enrolled in a crash course on the impacts of inflation on prices and on wealth preservation.\u201cEveryone, including those who are far from being sophisticated investors, is talking about inflation and how to combat it,\u201d he said. The investing community is obviously a section of that. But it's interesting to see how important that is for everyday people as well.\u201dLeeds said the motivation behind Ledn was finding ways to create opportunities for investment that are not at the mercy of local government.&nbsp;\u201cI used to be investing in energy infrastructure for most of my career,\u201d he said. \u201cI spent about 12 years investing in primarily renewable power. And when you invest in renewable power, because the assets are physical, they're tied to a local geo. I'm Canadian, so I was investing a lot in Canada, and we tried to invest in similar projects in places like the Caribbean that had far better energy resources for solar and wind, but the property rights and the jurisdictional risk was just far greater than investing in places that had less resources.\u201d\u201cThe main thesis of what we tried to do with Ledn is standardize rates and terms of service regardless of where individual investors are in the world,\u201d he said. \u201cAnd, moving on to gold, and the reason we have tokenized gold, is really the next evolution of that.\u201dLeeds pointed out that because gold is physical, it has no choice but to be jurisdictional as well.\u201cWhat we really like about tokenized gold \u2013 and specifically XAUT [loans] that we're launching in partnership with Tether \u2013 is for the first time it takes gold and converts it into something that's the same for everyone globally,\u201d he said. \u201cThe idea is how to create the best standards for it. Swiss vaults are the global standard for gold, so put physical gold in a Swiss vault, and then give everyone the same claim on that physical gold. And then, because it's digital and because it has a scale, it doesn't really matter if you're collateralizing one ounce or 100 tons of gold. It's the same scalability, same metrics.\u201d\u201cThen you pair onto that the financing rates and financing terms,\u201d he explained. \u201cYou can make that exactly the same because of the fact that it is the exact same token. Again, the physicality of it doesn't matter, because it's all in the same place.\u201dLeeds said the company is trying to port the advantages of Bitcoin over to gold, and his hope is that tokenized gold acts as a kind of \u201cgateway drug\u201d for people who are more hesitant to invest in the digital assets space because of Bitcoin\u2019s relative volatility.\u201cTokenized gold is an in-between, where you're saying, \u2018Okay, I understand gold; I know that gold is more stable, but I don't really know how to buy physical gold, or I don't feel safe holding physical gold.\u2019 Maybe I'm in a country like Colombia where I'm worried about property rights, or I'm worried about the security of physical gold. Now I can hold it like I'm holding Bitcoin, and frankly, no one has to know I have it, because it's just a digital ledger and a claim on gold in a really safe place,\u201d he said. \u201cIt's really about that open access and standardization.\u201dLeeds said that both Bitcoin and gold solve the problem of geographical concentration: Most people\u2019s wealth is way too concentrated in the place where they earn that wealth.\u201cIf you're American, you probably have 99% of your assets in the U.S.,\u201d he said. \u201cIf you're Canadian, it's probably the same, maybe a little bit of U.S. dollar exposure. That's the thing we're trying to really solve with Ledn is how we transform a person to a bit more of a global investor.\u201dTurning to Bitcoin\u2019s price performance, Leeds echoed the recent views on gold\u2019s resilience when he spoke about the digital currency.\u201cI've been surprised about how well Bitcoin has held up with the recent rate changes,\u201d he said. \u201cBut at the same time, I think most investors, especially retail, are really looking for Bitcoin to overperform and, in the event that it's moving sideways, it really struggles to attract attention.\u201dIn the absence of 20% monthly price swings, Leeds said investors have spent the last 12 months moving into AI, or SpaceX or other, more risk-on plays.\u201cGold is the opposite,\u201d he added. \u201cThe past 18 months was a little bit different in gold because gold had a pretty crazy run-up, but generally speaking, gold remains the safe haven, the place where you're going to store wealth, but not maybe hit the 25% annualized returns that you can do with Bitcoin.\u201dLooking ahead, Leeds said that he expects both oil and gold to begin performing better once higher inflation becomes firmly entrenched and the Federal Reserve shifts from a policy centered on rate hikes to one focused on quantitative easing and currency devaluation.\u201cAll of the information is showing that the US economy should crack, that there's going to be more pain, but the information that keeps coming out isn't showing that,\u201d he said. \u201cI think everyone's watching the administrative policies, thinking, \u2018How can this show go on?\u2019 But it just keeps chugging along, to everyone's surprise.\u201d\u201cI continue to believe that eventually things will have to come back in order, and there will be higher inflation,\u201d Leeds said. \u201cThere's going to be a need for more quantitative easing, so I'm pretty bullish on the Bitcoin price, six months from now when that does eventually reflect in the numbers.\u201dAs far as investor interest in these two alternative assets, Leeds said he sees a future where tokenized gold and Bitcoin are used in tandem in order to benefit from their non-correlation.\u201cWe can see a situation where you're cross-collateralizing loans,\u201d he said. \u201cWhat we may have in the future is the ability to say, \u2018Okay, I'm going to take a million-dollar loan, and I'm going to collateralize that with a million dollars of Bitcoin and a million dollars of digital gold.\u2019 That way you're providing extra protection from liquidation, because again, history is showing that they're not generally moving in the same direction, so when gold's having a bad day, Bitcoin may not, and vice versa. And there's obviously less volatility in gold, so that's really important.\u201dThe other interesting development Ledn is seeing is increasing interest in gold and Bitcoin on the part of small businesses.\u201cSmall businesses are really increasingly thinking about holding Bitcoin treasury,\u201d he said. \u201cPerhaps in the future, we can work with them to hold digital gold treasury as well, because everybody is scared of holding dollars right now. There's such a massive education effort on what inflation is, how you're effectively losing 5%, maybe 6% a year on real inflation. Forget the print; what is it actually, when you go to see prices in the real world? You don't want to hold a million dollars. You effectively want to short the dollar by borrowing it, and you want to hold something hard like Bitcoin or gold.\u201d\u201cThis is a real issue,\u201d Leeds said. \u201cWealth preservation, and how to just not go backwards, is a very privileged problem to have, but a real one for those that have come into a significant amount of wealth.\u201dLeeds said Ledn doesn\u2019t favor investment schemes that focus on staking and gaining yield from&nbsp;Bitcoin; similarly, he likes the idea of using non-yielding&nbsp;gold as collateral for cash.\u201cIf used responsibly, it is an asset that historically has increased in value significantly, so therefore just like real estate, it's a good asset to use as collateral and borrow a currency that's inflating like U.S. dollars against,\u201d he said. \u201cWe want to create a concept where investors are putting up their gold and using it to borrow, spending their borrowing on expenses, maybe other investments that are generating higher yields. But borrowing responsibly at respectable [loan-to-value ratios] so that they can continue to grow their wealth and that asset without selling it.\u201dLeeds said Ledn\u2019s tokenized gold loans are scheduled to be launched before the end of the year. \u201cLook for an announcement in November or December.\u201dSee live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
+    },
+    {
+      "headline": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2x2QlN6SDI2LWNnTFA5Q0dKRFFmRWd4ZlFxbFdWbE9RaWFKT3FlUFN5bTdzdlZ4dmtpd09JUnlBVF9LTDctQkRFMmN4SnpkRXRvdjNxM29TQURZcjVGYnczQm5EYTJuMXB1SmlZZVNIMnhQN2huckRXaE9qVW5WV0JqS1ZOVjhpWnc?oc=5",
+      "pub_date": 1792431660.0,
+      "article_url": "https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2200017937-e1792431574272.jpg?resize=1200,600",
+      "description": "The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-19T16:49:33.768340+00:00"
+  "fetched_at": "2026-10-19T21:21:24.167607+00:00"
 }

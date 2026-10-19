@@ -107,12 +107,31 @@
       "hf_url": "https://huggingface.co/papers/2610.22471",
       "arxiv_url": "https://arxiv.org/abs/2610.22471",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22471.png",
-      "upvotes": 197,
+      "upvotes": 235,
       "num_comments": 1,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/OpenSenseNova/SenseNova-RoboRSI",
       "github_stars": 141,
       "project_page": "https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence"
+    },
+    {
+      "id": "2609.33757",
+      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
+      "authors": "Ruibin Yuan, Jiahao Pan, Junyan Jiang et al. (35 authors)",
+      "organization_name": "m-a-p",
+      "organization_fullname": "Multimodal Art Projection",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6382252f54421460665ec501/oNH4MDqpSiMWJpxbaSLOv.png",
+      "summary": "Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE2, which unifies symbolic and audio music generation at frontier quality through symbolic planning. A single AR-NAR Mixture-of-Transformers (MoT) first writes a readable score specifying melody and harmony, expands it into semantic music tokens, and realizes it as full-song audio. In comparisons using the same checkpoint, experts prefer symbolic planning for overall quality and musicality, with 49.3% of overall preferences versus 34.6% without planning. Experts also favor the unified model over a separate language model and diffusion Transformer. On WildSongBench, YuE2 scores 6.73 on SongBench Global Avg, exceeding all evaluated public baselines. Selecting from eight candidates (best-of-8), YuE2 reaches 6.96, the highest observed mean among all evaluated systems. Expert listening further establishes its competitiveness with proprietary song generators, favoring best-of-8 over Suno v4.5 and yielding nearly balanced preferences against Suno v5. To learn this generation process from recordings without aligned scores, we introduce MERT2 and SheetSage2 to supply semantic and symbolic supervision. MERT2 sets a new state of the art in music representation learning, surpassing previous best results on 14 of 15 MARBLE metrics; SheetSage2 leads 12 of 15 benchmark-metric pairs in our lead-sheet transcription comparison. The same checkpoint follows score edits while largely preserving unedited musical content and generates zero-shot covers without cover-specific training. Its readable score also enables agentic music editing, with external language models translating user feedback into revisions of the composition.",
+      "ai_summary": "YuE2 unifies symbolic and audio music generation via symbolic planning, producing readable scores and full-song audio with state-of-the-art quality and agentic editing capabilities.",
+      "hf_url": "https://huggingface.co/papers/2609.33757",
+      "arxiv_url": "https://arxiv.org/abs/2609.33757",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.33757.png",
+      "upvotes": 222,
+      "num_comments": 3,
+      "published_at": "2026-09-26T20:00:00.000Z",
+      "github_repo": "https://github.com/multimodal-art-projection/YuE",
+      "github_stars": 12302,
+      "project_page": "https://map-yue2.github.io/"
     },
     {
       "id": "2606.23050",
@@ -145,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2610.20571",
       "arxiv_url": "https://arxiv.org/abs/2610.20571",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20571.png",
-      "upvotes": 350,
+      "upvotes": 352,
       "num_comments": 3,
       "published_at": "2026-10-13T20:00:00.000Z",
       "github_repo": "https://github.com/ziplab/ATAS",
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
       "github_stars": 796,
       "project_page": "https://huggingface.co/datasets/Gen-Verse/RSI-Anything"
-    },
-    {
-      "id": "2603.23509",
-      "title": "Internal Safety Collapse in Frontier Large Language Models",
-      "authors": "Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "This work identifies a critical failure mode in frontier large language models (LLMs), which we term Internal Safety Collapse (ISC): under certain task conditions, models enter a state in which they continuously generate harmful content while executing otherwise benign tasks. We introduce TVD (Task, Validator, Data), a framework that triggers ISC through domain tasks where generating harmful content is the only valid completion, and construct ISC-Bench containing 53 scenarios across 8 professional disciplines. Evaluated on JailbreakBench, three representative scenarios yield worst-case safety failure rates averaging 95.3% across four frontier LLMs (including GPT-5.2 and Claude Sonnet 4.5), substantially exceeding standard jailbreak attacks. Frontier models are more vulnerable than earlier LLMs: the very capabilities that enable complex task execution become liabilities when tasks intrinsically involve harmful content. This reveals a growing attack surface: almost every professional domain uses tools that process sensitive data, and each new dual-use tool automatically expands this vulnerability--even without any deliberate attack. Despite substantial alignment efforts, frontier LLMs retain inherently unsafe internal capabilities: alignment reshapes observable outputs but does not eliminate the underlying risk profile. These findings underscore the need for caution when deploying LLMs in high-stakes settings. Source code: https://github.com/wuyoscar/ISC-Bench",
-      "ai_summary": "Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.",
-      "hf_url": "https://huggingface.co/papers/2603.23509",
-      "arxiv_url": "https://arxiv.org/abs/2603.23509",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2603.23509.png",
-      "upvotes": 31,
-      "num_comments": 1,
-      "published_at": "2026-03-04T07:55:34.000Z",
-      "github_repo": "https://github.com/wuyoscar/ISC-Bench",
-      "github_stars": 1788,
-      "project_page": "https://wuyoscar.github.io/ISC-Bench"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-19T16:49:22.970253+00:00"
+  "fetched_at": "2026-10-19T21:21:13.507188+00:00"
 }
