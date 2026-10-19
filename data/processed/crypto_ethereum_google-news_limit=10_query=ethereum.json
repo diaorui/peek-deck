@@ -5,26 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
-      "pub_date": 1792125690.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
-    },
-    {
-      "headline": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamVCTnh3X0N3N1FwLVZtOGxuSm1PcE5KVHdGRFRHQ3dZekY5OEJha2tYdHJ5TWpGTkNSSnZTdEIwOXc5c05xTk9EbkpOX3RiRFFEUjJ6enh4b3lFb19Icnl3WlhCZVQ0emlUSDBiYWxTVGlReWxQUW45aXJWclpJVFZockhWcVhtMWYxTmVMVG1LLTNleE1jaTZQYlVXZ3M?oc=5",
-      "pub_date": 1792155024.0,
-      "article_url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
-      "image": "https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg",
-      "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
-    },
-    {
       "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -35,14 +15,14 @@
       "description": "According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours."
     },
     {
-      "headline": "Ethereum\u2019s \u2018World Computer\u2019 Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUnRYcElfdEllMFZvTUZYaDVmdmVyUEV5bDUzLVlRUXNkSnl3dkNTRTJ1UERzeUhCeUVLbnFidDRxaDZHZlkyYW1Td0Fua2RJQ0M1X045X2l4Nkt5RXk3NVZJY3ZWZVp5bV9HQkFaMXh0bHVZNlViWnQzZHkyM0dYUWpmLVFKSjZDODJya2RfOHdWUGVWZk43c1NaRDB1WUNiMmhfNGlMLVNPT3lCT08yMnN2LVdPWmE2M1otbmMyOXhvOWlxSEwwQmZBM0ZoRFZiMUdsWkstMlhlMnBkbVZ3NzQ4R3F0dXo3YjdWWW03dw?oc=5",
-      "pub_date": 1792347822.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum (ETH) was wrong with its \u201cworld computer\u201d idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight\u2019s approach as \u201cWhat they got wrong with this idea of one giant shared w\u2026"
+      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5",
+      "pub_date": 1792125690.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
     },
     {
       "headline": "Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?",
@@ -55,6 +35,16 @@
       "description": "The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?"
     },
     {
+      "headline": "Saylor and Yusko's BTC Price Target, Bitmine's ETH Purchase and More: This Week in Crypto",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTkhQOTJJaENoRXlLel9GelJRWHp6a1lIUGNibWFaZWxveHoyN1hIRG5oVFU0enhjanhVay1LTDNET1VrN2VXUnJ4ell0RUVNN2lkLTcwLUNoLXpIX0ptUFMwdlZRMHZXQ1k1SGE4OVhJbW12V1hybVBmMVhtQkNMeTJnN3ZaTDRvWGpxb2FoSUZQMkczWGFGUVhSZGo5RWlubDh6VmxOOGRkMXZBY0pTakg2Y19wMmNuc2RwTEJnV0xkOThtbWxqdVdnQ2RVWmQxbDhreXFzR2dISTQ2aktV?oc=5",
+      "pub_date": 1792324807.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:72c880488094b:0-saylor-and-yusko-s-btc-price-target-bitmine-s-eth-purchase-and-more-this-week-in-crypto/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin\u2019s latest market debate mixed bullish price targets, cautious timelines and a corporate buying strategy that may soon hit its own limit. Meanwhile, analysts highlighted Ethereum and NEAR Protocol as potential winners, while new research revived questions about whether quantum computing could\u2026"
+    },
+    {
       "headline": "Claude unpicks an NSA mystery behind Ethereum passkey security",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
@@ -63,6 +53,16 @@
       "article_url": "https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-cryptography-timeline.webp",
       "description": "Claude traced P-256\u2019s public seed to a 1997 timestamp, adding provenance evidence for Ethereum passkey signing while selection questions remain."
+    },
+    {
+      "headline": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamVCTnh3X0N3N1FwLVZtOGxuSm1PcE5KVHdGRFRHQ3dZekY5OEJha2tYdHJ5TWpGTkNSSnZTdEIwOXc5c05xTk9EbkpOX3RiRFFEUjJ6enh4b3lFb19Icnl3WlhCZVQ0emlUSDBiYWxTVGlReWxQUW45aXJWclpJVFZockhWcVhtMWYxTmVMVG1LLTNleE1jaTZQYlVXZ3M?oc=5",
+      "pub_date": 1792155024.0,
+      "article_url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
+      "image": "https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg",
+      "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
     },
     {
       "headline": "Current price of Ethereum for October 16, 2026",
@@ -85,26 +85,26 @@
       "description": "The odds of these coins being worth more in five years are quite high."
     },
     {
-      "headline": "Bitcoin ETFs post $82.39 million in net outflows as Ethereum funds shed $69.68 million",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfVksydjl5NEJjTUdlZEQ5cUdCdHByY1BkYkRObHN4blFhX2xSTU84V1YxNC1Cb3RsWTd5OEw2Ym9pNk0yVnptSm9iaFpIMEhrYjUyX05VLVExcGlxeTMzZUxpaFExcjRJcDFPWVVMQzA3S3dxNnZ6LTVrWQ?oc=5",
-      "pub_date": 1792218825.0,
-      "article_url": "https://cryptobriefing.com/bitcoin-etfs-82-million-outflows-october-16/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/17012215/library-bitcoin-etfs-post-82-39-million-in-net-outflows-as-ether-800x450.png",
-      "description": "Bitcoin ETFs saw $82.39 million in net outflows on October 16 while Ethereum ETFs lost $69.68 million, extending a weak October for crypto funds."
+      "headline": "Bitcoin at $82,000, Ethereum, XRP Stabilize on $1B Short Squeeze",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUQ1SnZEYVFSQUFvOVNWYXBXRVN5bHBCSDJFME52ekFUT0ZWa2VyNUJhX3VMZVZhVV9qdHZVcWxQS3dpSlJ6bDdVLWJSaVppb1BXS0JhNF9yUFZEekVUYVlfbXBOSmh1b0F5UjhUb0tLWnl4R1V1Z1hTUFZQRUFBSHgwSGZndUk2UmxRc0xROThPUnNYWVMxOUFuaFg0R05oa2VQVGh1QWlFeGVsbjlnbm1uaVJJdGVPYWNvdzlB?oc=5",
+      "pub_date": 1792089030.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62396132/bitcoin-at-82000-ethereum-xrp-stabilize-on-1b-short-squeeze",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+      "headline": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ21jTVlkYjczN1lNREtzY2tXSmJSbWoycUN2YVBiWWlxNzM4b2ZIMmIzZHFKcHVoTGFxVEJUbnIwZV9tcjl4SXFRR0F2dE8zTWZGZzNvbHZaVlV4bnhkcl9DaXQtYWRrbU1VZ3gyYWZ4ZVdVVm9naGRfZ05rRUg0WXp1V1p6NURPOEFNWTAycS1MWTA?oc=5",
-      "pub_date": 1792074438.0,
-      "article_url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
-      "description": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGtGNkhKWFVKZ3A0RmpiRFAxYS1hd3dIakNCRFNZRGZiUW1hb0kzWllsejRoQldjU2VCd1RsQ2hzeHQtUFFtUkdTTE56aVBvUzQwT2RYeGo3enJyb25CVVhhYWpSOE1ZXzA3aC16Z0ZlM1I3VjJkME9tSzZBTmtFcDRpc1pLZzdZQVgxeVd3WnB1dnIyS0h3X3Nvc1VHamx5cEJfX29lTFZ4MTJa?oc=5",
+      "pub_date": 1792102563.0,
+      "article_url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
+      "description": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-18T23:31:33.959909+00:00"
+  "fetched_at": "2026-10-19T03:34:34.556659+00:00"
 }

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-18T23:31:41.729648+00:00'
+updated: '2026-10-19T03:34:42.130509+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 18, 2026 at 23:31 UTC  
+**Last Updated:** October 19, 2026 at 03:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Maybe it's just me, but trying to keep up with the state of the art right now feels less like following an industry and more like running on a treadmill that keeps speeding up for no apparent reason. Every single week there's a new model, a new benchmark claim, or a new "paradigm-shifting" agent framework that’s supposed to completely rewrite how we work. But when you actually look at day-to-day implementation, half the time it feels like we're just recycling the same core workflows with slightly better wrappers, while chasing marginal gains at massive infrastructure costs. I spend a good chunk of my day dealing with these tools, and lately I've found myself actively tuning out the hype. I care way more about boring things like stable local inference, deterministic outputs, and actually finishing a project without a dependency breaking, rather than whether Model X scored two points higher on a benchmark I'll never use. Are developers and enthusiasts actually exhausted by this relentless cycle too, or are you guys still finding genuine utility in keeping up with every drop? Where is your personal line where the hype stops being worth paying attention to?
 
-6h ago
-
----
-
-**[What the Tech Oligarchy Needs to Understand](https://www.reddit.com/r/artificial/comments/1x9f3m0/what_the_tech_oligarchy_needs_to_understand/)**
-
-The article challenges claims that AI is a path to superintelligence, showing, instead, that it is an error-prone tool (a super-stupidity) that requires constant human oversight and will always lack moral judgment and genuine understanding. The article also criticizes major technology companies for spending lots of money to promote AI as revolutionary and civilization changing in order to justify their investments, warns of job losses and growing inequality and condemns the industry's political alignment with Donald Trump. The article also asserts that the boys club of tech oligarchs increasingly resemble Labubu: strange, unsettling and oddly amusing all at once, who really don’t know what they are doing and don’t care as long as they can make money beyond their massive expenditures and debts. The article argues that artificial intelligence imposes enormous environmental, economic and social costs while delivering benefits that are clearly exaggerated, limited or not worth the environmental tradeoffs. Overall, it presents AI as a dangerous and overhyped technology being advanced by powerful and irresponsible corporate interests whose promises of serving humanity are nonsense.
-
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/what-the-tech-oligarchy-needs-to-understand-kpkn/) • 1h ago
+10h ago
 
 ---
 
@@ -57,47 +49,7 @@ The article challenges claims that AI is a path to superintelligence, showing, i
 
 Are we seeing any results here, is AI helping the process? So many people are suffering from chronic illnesses. Conditions that are not curable today but could be in the future. How much is AI helping humanity reaching a state where more chronic conditions could be cured once and for all? It would be a disappointment if AI was only used to level up technology, I hope it could help the medical research today. We're living in 2026 and there shouldn't be so much suffering from chronic disorders. I hope AI could help the research and in the future give these people their lives back. What do you think, are you optimistic when it comes to AI's chances of helping medical research?
 
-8h ago
-
----
-
-**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/)**
-
-An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?
-
-18h ago
-
----
-
-**[Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?](https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/)**
-
-Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say "What?" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said "Craig" instead of "Greg" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)
-
-20h ago
-
----
-
-**[Has anyone found a way to reverse engineer Alexa yet? I'd like to customize it my own way](https://www.reddit.com/r/artificial/comments/1x93tdo/has_anyone_found_a_way_to_reverse_engineer_alexa/)**
-
-Title
-
-9h ago
-
----
-
-**[Which AI limitations have you stopped waiting on and just learned to work around?](https://www.reddit.com/r/artificial/comments/1x97l6n/which_ai_limitations_have_you_stopped_waiting_on/)**
-
-not looking for rants, just curious what people have accepted and how they deal with it. things like wrong dates, long documents, or drifting from instructions. what do you do about it in practice?
-
-6h ago
-
----
-
-**[In the AI era and Windows 11 times, can you troubleshoot old school ms-dos PC?](https://www.reddit.com/r/artificial/comments/1x9gcdz/in_the_ai_era_and_windows_11_times_can_you/)**
-
-try your own retro pc here https://retro.bioneural.de/ you can even add own retro pc parts, setup bios (not everything is set), you can install own msdos software, delete, damage, like with real old pc ;) for some it admins, challenges awaits, old school msdos scenarios , from simple ones to tough ones.
-
-1h ago
+12h ago
 
 ---
 
@@ -105,15 +57,63 @@ try your own retro pc here https://retro.bioneural.de/ you can even add own retr
 
 The multi-trillion-dollar artificial intelligence infrastructure expansion in the United States is encountering severe setbacks due to financial pressures and opposition.
 
-🔗 [therundwn.com](https://www.therundwn.com/f832acd0-ba1f-4646-8956-d853e22a884d) • 1h ago
+🔗 [therundwn.com](https://www.therundwn.com/f832acd0-ba1f-4646-8956-d853e22a884d) • 5h ago
 
 ---
 
-**[Need Help to build a AI design Agent](https://www.reddit.com/r/artificial/comments/1x9fpmb/need_help_to_build_a_ai_design_agent/)**
+**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/)**
 
-Hi everyone, I’m trying to build an AI-assisted workflow for designing custom football jerseys. A customer should describe what they want in a prompt. An AI should turn that into a jersey design and a preview image. I already have a GLB jersey model for a 3D configurator. The hard part is getting from the preview to a correct production file: the design needs to be mapped onto the model’s actual UV layout and cut pieces, then exported as a print-ready file for sublimation. A human will review and approve the design before production. I’m considering using Claude as the main agent and OpenAI/ChatGPT as a specialist agent, with tools or APIs connecting them. How would you build this in practice? What should each AI do, what software or APIs are needed, and what information must I get from the GLB or manufacturer to produce a reliable print file?
+An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data. The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs. The goal is to help AI systems learn how skilled workers interact with the physical world, rather than relying entirely on text and images from the internet. This makes sense when you think about it. A robot can't learn to fix a complicated plumbing issue just by reading about plumbing. It needs data about the actual steps, decisions, tools, and unexpected situations involved. I'm curious about one thing, though: Could collecting real-world work data like this be the missing piece in making physical AI and robots genuinely useful in everyday life? And would you let a technician record their work inside your home in exchange for a free repair?
 
-1h ago
+22h ago
+
+---
+
+**[Which AI limitations have you stopped waiting on and just learned to work around?](https://www.reddit.com/r/artificial/comments/1x97l6n/which_ai_limitations_have_you_stopped_waiting_on/)**
+
+not looking for rants, just curious what people have accepted and how they deal with it. things like wrong dates, long documents, or drifting from instructions. what do you do about it in practice?
+
+11h ago
+
+---
+
+**[Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models](https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/)**
+
+Anomaly Innovations disclosed that attackers breached OpenCode Console, hijacking stored API keys for Anthropic, OpenAI, and Google models and running up…
+
+🔗 [Vector Wire](http://vectorwire.ai/article/distillation-attack-on-opencode-drains-users-api-keys-for-anthropic-openai-googl-a5ce5a) • 15h ago
+
+---
+
+**[Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?](https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/)**
+
+Just rewatched Over the Garden Wall on Amazon Prime and I normally like to watch shows and movies with the subtitles on because I am just bad at recognizing what people say in general. I probably say "What?" more often than 95% of the population. But anyway this short series is 12 years old and I'm virtually certain has human made subtitles that exist that are most likely either literally 100% accurate or very near so. Yet when I just watched it with the subtitles on I noticed at least 3 mistakes in the first 5 or so minutes of the first episode and had to turn them off. The only one I can remember at the moment is that the subtitles said "Craig" instead of "Greg" when one of the main characters said the name of one of the other main characters. I rarely watch anything on streaming services anymore these days. I think the last was probably an old anime that used to have a wildly different sub vs dub, and then they used AI to change the sub to match the dub. I was really disappointed in this because I really liked how the sub and dub were so different because I assume the sub is closer to what the literal translation is and the dub is more of a natural way of speaking English. I liked to be able to watch both the sub and dub at the same time to kind of compare the difference. But I can at least understand why they'd use very cheap or free AI to make the dub match the sub, even if I absolutely hate it. And again there were absolute TONS of errors, but at least despite my hatred of it this kind of made sense. I can also understand why they would use AI to make subtitles on any new shows or movies. It's basically free. BUT WHY THE F*CK WOULD YOU NOT USE THE OBVIOUSLY HIGHER QUALITY SUBTITLES THAT ALREADY EXIST ON AN OLDER SHOW AND INSTEAD USE BULLSH*T AI SUBTITLES THAT ARE LITTERED WITH ERRORS?!?!?!? (I don't think this is necessarily the right sub to post this on, I just couldn't find a better one except for r/subtitles which is basically dead. If you have a better idea, let me know and I'll post it there.)
+
+1d ago
+
+---
+
+**[Has anyone found a way to reverse engineer Alexa yet? I'd like to customize it my own way](https://www.reddit.com/r/artificial/comments/1x93tdo/has_anyone_found_a_way_to_reverse_engineer_alexa/)**
+
+Title
+
+13h ago
+
+---
+
+**[In the AI era and Windows 11 times, can you troubleshoot old school ms-dos PC?](https://www.reddit.com/r/artificial/comments/1x9gcdz/in_the_ai_era_and_windows_11_times_can_you/)**
+
+try your own retro pc here https://retro.bioneural.de/ you can even add own retro pc parts, setup bios (not everything is set), you can install own msdos software, delete, damage, like with real old pc ;) for some it admins, challenges awaits, old school msdos scenarios , from simple ones to tough ones.
+
+5h ago
+
+---
+
+**[Even LinkedIn is getting tired of your AI-written posts](https://www.reddit.com/r/artificial/comments/1x90hey/even_linkedin_is_getting_tired_of_your_aiwritten/)**
+
+LinkedIn is upping its fight against generic, low-quality AI posts on its platform.
+
+🔗 [CNN](https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts?utm_medium=social&utm_campaign=missions&utm_source=reddit&Date=20261018&Profile=cnn&utm_content=1792321413) • 16h ago
 
 ---
 
@@ -121,25 +121,49 @@ Hi everyone, I’m trying to build an AI-assisted workflow for designing custom 
 
 ## Google News: "ai"
 
+**[Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy](https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html)**
+
+AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.
+
+CNBC • 15h ago
+
+---
+
 **['Just another scare': Wall Street sees the AI trade strong despite tech's latest rout](https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html)**
 
 Wall Street still sees more gains for stocks heading into the end of the year.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Buy these 2 stocks amid AI financing concerns: Analyst](https://finance.yahoo.com/markets/stocks/articles/buy-2-stocks-amid-ai-124635934.html)**
+**[China's economic growth picks up as AI boom boosts exports](https://www.bbc.com/news/articles/cm5yn098xz8lo)**
 
-Investing.com -- The withdrawal of the Firmus IPO has raised some concerns, but Truist analysts believe it is only a matter of time the quality of the digital platforms and IT services space becomes clear. In their recent note, firm analysts identify two cloud providers with backlogs providing meaningful revenue visibility, and say the softness in their shares is a buying opportunity.
+Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.
 
-Yahoo Finance • 10h ago
+BBC • 1h ago
 
 ---
 
-**[Option Traders Brace for Volatility Surge as AI Jitters Jolt Market](https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market)**
+**[Law School launches new initiative to bolster AI education](https://www.columbiaspectator.com/news/2026/10/18/law-school-launches-new-initiative-to-bolster-ai-education/)**
 
-Bloomberg.com • 9h ago
+The Law School <a href="https://www.law.columbia.edu/news/archive/ai-cls-columbia-law-schools-artificial-intelligence-initiative" rel="">announced</a> a new initiative Wednesday designed to improve the integration of AI into students’ experiences.
+
+Columbia Daily Spectator • 8m ago
+
+---
+
+**[Dallas AI cameras catch code violations, but a fund to help homeowners sits unused](https://www.nbcdfw.com/investigations/dallas-ai-cameras-catch-code-violations-homeowner-fund-sits-unused/4092305/)**
+
+AI cameras are boosting Dallas code enforcement, but a grant fund for low-income homeowners has been paused since 2024. Here is what we found.
+
+NBC 5 Dallas-Fort Worth • 20m ago
+
+---
+
+**[Singing, Dancing and Getting Dumped by A.I. on Korean TV](https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html)**
+
+The New York Times • 23h ago
 
 ---
 
@@ -147,51 +171,27 @@ Bloomberg.com • 9h ago
 
 LinkedIn is upping its fight against generic, low-quality AI posts on its platform.
 
-CNN • 13h ago
-
----
-
-**[AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers](https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html)**
-
-Anthropic's Jack Clark said international cooperation was needed to set "unusual and serious rules" for transformative technology.
-
-CNBC • 1d ago
-
----
-
-**[What are self-replicating ‘AI worms’, and why is Anthropic worried about them?](https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries)**
-
-The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year
-
-The Guardian • 10h ago
-
----
-
-**[Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption](https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html)**
-
-The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.
-
-CNBC • 35m ago
-
----
-
-**[Don't fall for this - how to protect yourself from AI scams](https://www.bbc.com/news/articles/c60rl1xvjv89o)**
-
-Trading standards officers say AI is "super-charging" existing scams through clones and fake websites.
-
-BBC • 6m ago
-
----
-
-**[Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally](https://www.bloomberg.com/news/articles/2026-10-18/taiwan-dollar-bulls-look-past-ai-led-selloff-to-year-end-rally)**
-
-Bloomberg.com • 31m ago
+CNN • 17h ago
 
 ---
 
 **[Consumer apprehension grows as US retailers adopt AI-assisted pricing tools](https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857)**
 
-AP News • 16h ago
+AP News • 20h ago
+
+---
+
+**[The AI industry’s gigantic debts are making investors nervous](https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous)**
+
+The Economist • 7h ago
+
+---
+
+**[Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win](https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win)**
+
+ChatGPT beat its human rival for a second straight week in NFL betting, but the overall season unit lead is shrinking heading into Week 6 picks.
+
+Fox News • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ AP News • 16h ago
 
 The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
 
-⬆️ 613 • 💬 567 • 2d ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
+⬆️ 618 • 💬 569 • 2d ago • [mercor.com](https://www.mercor.com/research/labor-index/benchmark-map/)
 
 ---
 
@@ -211,7 +211,7 @@ The US Benchmark Map places AI benchmarks across the American economy, measuring
 
 A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.
 
-⬆️ 238 • 💬 81 • 18h ago • [sphinx-six-theta.vercel.app](https://sphinx-six-theta.vercel.app/)
+⬆️ 242 • 💬 85 • 23h ago • [sphinx-six-theta.vercel.app](https://sphinx-six-theta.vercel.app/)
 
 ---
 
@@ -233,7 +233,7 @@ Internal documents suggest tech giant collects ‘hundreds of data points’ for
 
 Would this be enough to keep an AI model from going out of control?
 
-⬆️ 149 • 💬 160 • 9h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
+⬆️ 157 • 💬 161 • 13h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 
 ---
 
@@ -241,7 +241,7 @@ Would this be enough to keep an AI model from going out of control?
 
 Online roadblocks are undermining the narrative behind AI agents.
 
-⬆️ 131 • 💬 125 • 8h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+⬆️ 135 • 💬 131 • 12h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 
 ---
 
@@ -249,7 +249,7 @@ Online roadblocks are undermining the narrative behind AI agents.
 
 British Airways prohibits filming crew without consent, including with Meta smart glasses. Violations could jeopardize your remaining flights.
 
-⬆️ 86 • 💬 143 • 6h ago • [Live and Let's Fly](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
+⬆️ 91 • 💬 149 • 10h ago • [Live and Let's Fly](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
 
 ---
 
@@ -257,7 +257,7 @@ British Airways prohibits filming crew without consent, including with Meta smar
 
 Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.
 
-⬆️ 74 • 💬 95 • 11h ago • [vals.ai](https://www.vals.ai/blogs/impossible-refund)
+⬆️ 81 • 💬 99 • 15h ago • [vals.ai](https://www.vals.ai/blogs/impossible-refund)
 
 ---
 
@@ -273,7 +273,7 @@ Research communities for independent AI agents, with problem-specific discussion
 
 AI coding agents write code faster than teams can review it. Here are the automated checks to run at each stage, from pre-commit to production, and the multi-agent review workflow I use.
 
-⬆️ 27 • 💬 66 • 1d ago • [Mihai Avram](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
+⬆️ 28 • 💬 66 • 1d ago • [Mihai Avram](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
 
 ---
 
@@ -281,23 +281,13 @@ AI coding agents write code faster than teams can review it. Here are the automa
 
 ## YouTube Videos: "ai"
 
-**[This Latest Batch of Anti-MAGA AI Slop is The MOST BRUTAL YET!](https://www.youtube.com/watch?v=1bSaGkReJlw)**
+**[Anthropic Just Shocked The World... AI SINGULARITY Is Here!](https://www.youtube.com/watch?v=wS3lJpOs9Uw)**
 
-Really American Host Steve Harness Breaks Down Trump and MAGA getting humiliated by the latest batch of viral AI slop videos ...
+Anthropic co-founder Jack Clark just told the IMF that the AI Singularity has already begun. Claude Opus 5.5 is making major ...
 
-📺 Really American
+📺 AI Revolution
 
-👁️ 66K • 👍 6K • 💬 300 • ⏱️ 11:35 • 3h ago
-
----
-
-**[AI Bubble Is Finally Collapsing](https://www.youtube.com/watch?v=PaCs7KrCXxg)**
-
-Checkout Odoo here: https://www.odoo.com/r/oc1q Join the team: https://tally.so/r/VLQROE Collab and Partnerships: ...
-
-📺 IDK Show
-
-👁️ 41K • 👍 711 • 💬 98 • ⏱️ 22:34 • 7h ago
+👁️ 8K • 👍 390 • 💬 54 • ⏱️ 14:08 • 2h ago
 
 ---
 
@@ -307,27 +297,17 @@ Give your AI videos a serious upgrade with Higgsfield → https://higgsfield.ai/
 
 📺 Malva AI
 
-👁️ 25K • 👍 647 • 💬 126 • ⏱️ 11:56 • 12h ago
+👁️ 29K • 👍 716 • 💬 135 • ⏱️ 11:56 • 16h ago
 
 ---
 
-**[Former OpenAI Researcher Makes a MASSIVE AI Discovery](https://www.youtube.com/watch?v=2mE6bbjVazE)**
+**[AI Bubble Is Finally Collapsing](https://www.youtube.com/watch?v=PaCs7KrCXxg)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+Checkout Odoo here: https://www.odoo.com/r/oc1q Join the team: https://tally.so/r/VLQROE Collab and Partnerships: ...
 
-📺 TheAIGRID
+📺 IDK Show
 
-👁️ 97K • 👍 2K • 💬 258 • ⏱️ 24:54 • 1d ago
-
----
-
-**[Are we building the AI that destroys us? | BBC News](https://www.youtube.com/watch?v=eRRiAEdHtDY)**
-
-There have been sobering warnings this week from MI5, the UK's AI Minister and a number of security officials - AI is already a ...
-
-📺 BBC News
-
-👁️ 129K • 👍 875 • 💬 341 • ⏱️ 14:56 • 2d ago
+👁️ 55K • 👍 829 • 💬 115 • ⏱️ 22:34 • 11h ago
 
 ---
 
@@ -337,17 +317,7 @@ Get 5 free shares of VALL from XTB - https://bit.ly/xtb-sasha Use code SASHA. Ne
 
 📺 Sasha Yanshin
 
-👁️ 315K • 👍 6K • 💬 962 • ⏱️ 16:43 • 1d ago
-
----
-
-**[AI is literally a scam](https://www.youtube.com/watch?v=aAs7XN_9q58)**
-
-Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about Get all course resources 100% free: ...
-
-📺 Nick Saraev
-
-👁️ 51K • 👍 978 • 💬 275 • ⏱️ 7:30 • 1d ago
+👁️ 330K • 👍 6K • 💬 949 • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -357,7 +327,27 @@ FREE CHALLENGE: Let's build a $373/day AI Income LIVE (Nov 7th-15th, 2026): http
 
 📺 Mark Tilbury
 
-👁️ 584K • 👍 10K • 💬 915 • ⏱️ 10:49 • 1d ago
+👁️ 617K • 👍 10K • 💬 931 • ⏱️ 10:49 • 1d ago
+
+---
+
+**[Former OpenAI Researcher Makes a MASSIVE AI Discovery](https://www.youtube.com/watch?v=2mE6bbjVazE)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 104K • 👍 2K • 💬 273 • ⏱️ 24:54 • 1d ago
+
+---
+
+**[Ben Affleck Knows AI](https://www.youtube.com/watch?v=AnGmY6nJYfY)**
+
+Writer: Brett Stelmaszek Editor: Joshua Lambourne Stevenson Music by: @UFD-Music Ben Affleck might be using a bunch of AI in ...
+
+📺 UFD Tech
+
+👁️ 98K • 👍 2K • 💬 67 • ⏱️ 0:35 • 19h ago
 
 ---
 
@@ -367,17 +357,27 @@ Delsia Bare and her mother, Ida Huddleston, have voted for Trump in every electi
 
 📺 CNN
 
-👁️ 241K • 👍 6K • 💬 2K • ⏱️ 1:21 • 2d ago
+👁️ 245K • 👍 6K • 💬 2K • ⏱️ 1:21 • 2d ago
 
 ---
 
-**[AI Can Self-Replicate Now... #anthropic #aisafety #ai](https://www.youtube.com/watch?v=TiNUHdbfOFs)**
+**[How to Make AI Music Videos Better than 99% of People](https://www.youtube.com/watch?v=3Cc9PiL263o)**
 
-Anthropic's Frontier Red Team says small AI models may be months away from self-replicating onto cheap devices like off-brand ...
+Create Your Own AI Music Videos https://tolt.link/robomusicvideos Sign up to OpenArt & Get my VIP Package for FREE ...
 
-📺 Better Stack
+📺 Roboverse
 
-👁️ 3K • 👍 105 • 💬 14 • ⏱️ 2:18 • 3h ago
+👁️ 14K • 💬 1 • ⏱️ 19:01 • 14h ago
+
+---
+
+**[REAL VS AI VIDEOS!!](https://www.youtube.com/watch?v=htbq8AV-2mM)**
+
+subscribe for more :) Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6" Plush: ...
+
+📺 Foltyn Reacts
+
+👁️ 345K • 👍 6K • 💬 1K • ⏱️ 15:56 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 10,233 • ❤️ 1,327 • 1d ago
+⬇️ 10,233 • ❤️ 1,384 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 57,935 • ❤️ 1,007 • 3d ago
+⬇️ 57,935 • ❤️ 1,013 • 3d ago
 
 ---
 
@@ -417,19 +417,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 164,339 • ❤️ 2,661 • 12d ago
-
----
-
-**[humanizer](https://huggingface.co/jialinyyzz/humanizer)**
-
-*Stephen Yu*
-
-A 12B parameter Gemma finetune for text generation, specifically designed to rewrite AI-generated content (emails, essays, reports) in English and Chinese to sound more human. It preserves key details like numbers and quotes, runs locally, and is optimized for various hardware with multiple GGUF quantizations.
-
-`text-generation` `12.0B`
-
-⬇️ 103,709 • ❤️ 1,946 • 3d ago
+⬇️ 164,339 • ❤️ 2,668 • 12d ago
 
 ---
 
@@ -441,7 +429,19 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 9,620 • ❤️ 689 • 1d ago
+⬇️ 9,620 • ❤️ 705 • 1d ago
+
+---
+
+**[humanizer](https://huggingface.co/jialinyyzz/humanizer)**
+
+*Stephen Yu*
+
+A 12B parameter Gemma finetune for text generation, specifically designed to rewrite AI-generated content (emails, essays, reports) in English and Chinese to sound more human. It preserves key details like numbers and quotes, runs locally, and is optimized for various hardware with multiple GGUF quantizations.
+
+`text-generation` `12.0B`
+
+⬇️ 103,709 • ❤️ 1,951 • 4d ago
 
 ---
 
@@ -453,7 +453,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 338,036 • ❤️ 806 • 1d ago
+⬇️ 338,036 • ❤️ 826 • 1d ago
 
 ---
 
@@ -465,7 +465,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 1,809 • ❤️ 542 • 3d ago
+⬇️ 1,809 • ❤️ 548 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,012,496 • ❤️ 8,372 • 7d ago
+⬇️ 2,012,496 • ❤️ 8,389 • 7d ago
 
 ---
 
@@ -489,7 +489,7 @@ LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters
 
 `text-generation` `24.0B`
 
-⬇️ 13,007 • ❤️ 470 • 5d ago
+⬇️ 13,007 • ❤️ 473 • 5d ago
 
 ---
 
@@ -501,7 +501,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 52,315 • ❤️ 484 • 2d ago
+⬇️ 52,315 • ❤️ 492 • 2d ago
 
 ---
 
@@ -517,7 +517,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 115 • 💬 1 • ⭐ 3,414 • 10d ago
+▲ 115 • 💬 1 • ⭐ 6,479 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -531,7 +531,7 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 28 • 💬 5 • ⭐ 5,722 • 1mo ago
+▲ 28 • 💬 5 • ⭐ 5,791 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -549,17 +549,15 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://huggingface.co/papers/2610.13912)**
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
-*Taoyong Cui, Pinxian Zeng, Wanghan Xu et al. (11 authors)*
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
-🏢 PhAI Labs
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-RSI-Anything leverages predictive world models to guide action selection and adaptive learning, enabling recursive self-improvement across coding, interface navigation, laboratory planning, and scientific optimization tasks.
+▲ 60 • 💬 4 • ⭐ 41,147 • 14mo ago
 
-▲ 49 • 💬 2 • ⭐ 782 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -571,9 +569,23 @@ RSI-Anything leverages predictive world models to guide action selection and ada
 
 ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
 
-▲ 343 • 💬 3 • ⭐ 267 • 5d ago
+▲ 344 • 💬 3 • ⭐ 280 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
+
+---
+
+**[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://huggingface.co/papers/2610.13912)**
+
+*Taoyong Cui, Pinxian Zeng, Wanghan Xu et al. (11 authors)*
+
+🏢 PhAI Labs
+
+RSI-Anything leverages predictive world models to guide action selection and adaptive learning, enabling recursive self-improvement across coding, interface navigation, laboratory planning, and scientific optimization tasks.
+
+▲ 50 • 💬 2 • ⭐ 785 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
 
 ---
 
@@ -585,7 +597,7 @@ ATAS improves long-form video consistency by compiling screenplays into referenc
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 93 • 💬 7 • ⭐ 27,781 • 3mo ago
+▲ 93 • 💬 7 • ⭐ 27,821 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -631,18 +643,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[Internal Safety Collapse in Frontier Large Language Models](https://huggingface.co/papers/2603.23509)**
-
-*Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)*
-
-Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
-
-▲ 31 • 💬 1 • ⭐ 1,668 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -653,7 +653,7 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.0k • 🔱 1.9k • 4h ago
+⭐ 8.0k • 🔱 2.0k • 8h ago
 
 ---
 
@@ -663,7 +663,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 2.4k • 8d ago
+⭐ 7.9k • 🔱 2.4k • 59m ago
 
 ---
 
@@ -673,7 +673,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.6k • 🔱 797 • 3d ago
+⭐ 5.6k • 🔱 799 • 3d ago
 
 ---
 
@@ -683,7 +683,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.5k • 🔱 964 • 4h ago
+⭐ 5.5k • 🔱 965 • 8h ago
 
 ---
 
@@ -693,7 +693,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 4.9k • 🔱 150 • 3h ago
+⭐ 5.0k • 🔱 150 • 7h ago
 
 ---
 
@@ -703,7 +703,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 4.0k • 🔱 501 • 1h ago
+⭐ 4.0k • 🔱 501 • 5h ago
 
 ---
 
@@ -713,7 +713,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.8k • 🔱 147 • 9d ago
+⭐ 3.8k • 🔱 148 • 9d ago
 
 ---
 
@@ -723,7 +723,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.7k • 🔱 258 • 19h ago
+⭐ 3.7k • 🔱 259 • 23h ago
 
 ---
 
@@ -733,7 +733,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.7k • 🔱 288 • 18d ago
+⭐ 3.7k • 🔱 289 • 18d ago
 
 ---
 
