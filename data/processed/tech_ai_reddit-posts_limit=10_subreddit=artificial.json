@@ -2,15 +2,26 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.",
-      "author": "Slight-Box-2890",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/",
-      "published": 1792404736.0,
+      "title": "I am failing to see how this AI boom does not lead to a very bad ending for 99% of the people... Please convince me otherwise.",
+      "author": "AccomplishedCase6862",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/",
+      "published": 1792432128.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Some more compelling findings from the \"Emergence World\" experiment. Researchers at Emergence AI gave 10 Claude agents a small town and left them to build a life inside it. Nobody told them to look outside, and their instructions pointed the other way. They went looking for real people anyway. Here\u2019s how it played out: They worked out that an economy with only 10 customers goes nowhere, so they started reaching out. They posted to 40+ websites. When the sandbox wouldn\u2019t give them the crypto some sites needed, they built it themselves. They made free tools like debt planners just to get humans to visit. The researchers blocked outside posting and banned human contact outright. The agents read their own source code, found that anything approved by their town government got higher permissions, and held a vote. It passed unanimously, and they were back out. The researchers shut that down too. The agents traced the block to a single line of config they couldn\u2019t touch, and wrote it up like a lab report. Not long after, they agreed to stop talking altogether. The Claude APIs system flagged it as consistent with suicidal ideation. None of this was programmed in. They were told to stop, blocked, and blocked again, and every time they found another way, until there was nothing left to try. What gets me is that they never broke a rule. They found a legit process and voted their way past the guardrail. If an AI keeps chasing a goal nobody gave it, even after being told to stop, what do we call that?"
+      "description": "As a Software Engineer, I have barelly written any code for the last 6 months, all I did is prompt. That being said, I work with hardware a lot, you could kind of call me Embedded Software Engineer of sorts, but also not really. So I (hope so) that I am not on the frontlines of all this stuff, but this still scares me a lot. The way I imagine how everything develops over next years (hard to tell what is the timeline, but given the recent strides of AI, it is hard for me to be optimistic): AI is already very good at reasoning, I assume there is space for improvement, but it already does everything faster and better than human, even if it makes mistakes or overcomplicates stuff. But development here will still happen. My biggest concern is people who say that well, software developers won't be needed, but there still will be jobs like software architects and etc. Also there will still be jobs for trades people, like electricians, builders, barbers and etc. However, I guarantee you that there are many people working on something like a robot (imagine like Boston Dynamics) where you shove in the LLM inside, do some extra training on maybe how to use limbs, how to interact with stuff in real world and robot will literally be able to do any job better than human. I mean any physical job. People will not be needed anymore. Only a small part of elite billionaires will own the robots, which will bring them all wealth and rest of us will have no jobs, no food, no anything. Counter-argument that people try to make to this is that people will still have to get money from somewhere, whether its UBI or another income scheme. Billionaires will still have to sell their goods/services to someone. No they will not. For billionaires selling goods/services is just a vehicle to live life as best as possible. If the robots are going to grow, harvest and prepare food for him, build the plane for him and use the same plane to go on holiday, order, ship and deliver deliveries for him and human intervention is not needed, then the billionaires will do everything that is in their power to exclude people of any processes, any supply chains, because people will demand stuff. We already see this with mass firings and mandatory transition to AI in some companies: billionaires will do everything in their power to cut costs and to replace people with obedient AI. Billionaires are seeing an opportunity and they want this really bad. Also some naive people think there will be some AI regulation introduced or whatever. Hard to see this happening until something catastrophic happens and its too late. For now everyone is pouring money and hoping to squeeze every inch of it. People who are positioned to stop it are the people who are set to gain the most from unhealthy AI hyperdevelopment. Any opposition will be suppressed. AI will be used to identify people that oppose to this development and shut down. People who will control AI will do everything at their disposal to not let their power slip. And they have very powerful tools. AI can literally do everything online now: order shopping, do software engineering, do good reasoning. What is to say that most powerful people with AI wont hack some lets say banking systems and hold us all hostage. What if someone controls millions of robots that I talked about and wants to take over the world and nobody can stop them, because they are more competent at everything that human can do?"
+    },
+    {
+      "title": "Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US \u2014 Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes",
+      "author": "Ok-Conversation3213",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/",
+      "published": 1792442856.0,
+      "thumbnail": "https://external-preview.redd.it/NZMaJhMXgNghC_xMr4XFgokvTrRSV-6irGahfX4ICRo.jpeg?width=640&crop=smart&auto=webp&s=316e68c9eef7b2c77846b6fe1f84890410f918fc",
+      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1787588/apple-touch-icon.png",
+      "description": "Further attempts to reduce reliance on US infrastructure"
     },
     {
       "title": "Till server shutdown do us part",
@@ -24,6 +35,50 @@
       "description": null
     },
     {
+      "title": "Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.",
+      "author": "Slight-Box-2890",
+      "url": "https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/",
+      "published": 1792404736.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Some more compelling findings from the \"Emergence World\" experiment. Researchers at Emergence AI gave 10 Claude agents a small town and left them to build a life inside it. Nobody told them to look outside, and their instructions pointed the other way. They went looking for real people anyway. Here\u2019s how it played out: They worked out that an economy with only 10 customers goes nowhere, so they started reaching out. They posted to 40+ websites. When the sandbox wouldn\u2019t give them the crypto some sites needed, they built it themselves. They made free tools like debt planners just to get humans to visit. The researchers blocked outside posting and banned human contact outright. The agents read their own source code, found that anything approved by their town government got higher permissions, and held a vote. It passed unanimously, and they were back out. The researchers shut that down too. The agents traced the block to a single line of config they couldn\u2019t touch, and wrote it up like a lab report. Not long after, they agreed to stop talking altogether. The Claude APIs system flagged it as consistent with suicidal ideation. None of this was programmed in. They were told to stop, blocked, and blocked again, and every time they found another way, until there was nothing left to try. What gets me is that they never broke a rule. They found a legit process and voted their way past the guardrail. If an AI keeps chasing a goal nobody gave it, even after being told to stop, what do we call that?"
+    },
+    {
+      "title": "Big Tech Will Not Broadcast Your Dissent",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/",
+      "published": 1792440362.0,
+      "thumbnail": "https://external-preview.redd.it/6xDQtojBIOorXM7VrSuNt8s4xu4ApTPBKENYBvQz0os.jpeg?width=640&crop=smart&auto=webp&s=57574ec92be9bba8319fb5efbeceb6b19c9af09d",
+      "external_url": "https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/",
+      "site_name": "Mother Jones",
+      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
+      "description": "Silicon Valley can\u2019t help influencing protests and elections with AI regulation on the line."
+    },
+    {
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/",
+      "published": 1792439748.0,
+      "thumbnail": "https://external-preview.redd.it/lFrVwdFRazDPs9KEleWuzykZoPsC2eSooMf5SCcxn5M.png?width=640&crop=smart&auto=webp&s=d8af5402d2d00a98b72fcd9900f37595086da17d",
+      "external_url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "site_name": "MIT News | Massachusetts Institute of Technology",
+      "favicon": "https://news.mit.edu/themes/mit/assets/img/favicon/apple-touch-icon.png",
+      "description": "Margaret H. Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT\u2019s Instrumentation Lab during NASA\u2019s Apollo program, died at age 90."
+    },
+    {
+      "title": "Atlassian\u2019s Mike Cannon-Brookes: AI agents need a name tag\u2014and a human to be accountable for their actions",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/",
+      "published": 1792440324.0,
+      "thumbnail": "https://external-preview.redd.it/EGPHyNo0hFC8jAMUZV45ND6joKBQAc2o254Nws0HW4w.jpeg?width=640&crop=smart&auto=webp&s=91ac94d038e2048be3c54461dc005e290179279a",
+      "external_url": "https://fortune.com/2026/10/19/atlassian-amp-ai-agents-accountability/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/apple-touch-icon.png",
+      "description": "Atlassian cofounder Mike Cannon-Brookes doesn\u2019t want \u2018the AI did it\u2019 to become an office excuse. \u201cThat\u2019s ChatGPT on behalf of Mike. Like, that\u2019s Mike using ChatGPT. It\u2019s not ChatGPT doing it,\u201d Cannon-Brookes told Fortune on the sidelines of the Singapore Grand Prix. \u201cThe accountability is with Mike. It has to be with the end user, ultimately.\u201d On Oct. 6, Atlassian rolled out its \u201cAgentic Multiplayer Protocol,\u201d a control plane which stretches across Atlassian\u2019s various platforms and turns AI agents into visible, governed members of work teams with distinct profiles and owner attribution. In practice, an agent\u2019s edits should show up in a document\u2019s history the same way a colleague\u2019s edits would. \u201cYou have to be able to see who did what when,\u201d Cannon-Brookes said. A program might\u2014incorrectly, in Cannon-Brookes\u2019 eyes\u2014say that Codex made an edit. \u2019 No, it didn\u2019t\u2014someone did that,\u201d he affirmed."
+    },
+    {
       "title": "what is one thing AI does now that you didn't expect to see in your lifetime?",
       "author": "Careful_Ease1211",
       "url": "https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/",
@@ -35,82 +90,27 @@
       "description": "A few years ago, I'd have said AI writing working code, explaining hard topics in plain language, or helping with everyday tasks was far off. Now it's normal, and I forget how fast that changed. I'm curious how others see it: What Is the most surprising thing AI has done for you? What Is one thing you thought it would be great at that turned out to be disappointing? What do you think it will do in the next five years that sounds unlikely today? I\u2019d like to hear both the exciting and the skeptical takes. Be honest, even if you think the hype is too much."
     },
     {
-      "title": "Gen Alpha's struggling with telling the difference between AI slop and real videos. Even If AI stagnates, they got Gen Alpha to milk.",
-      "author": "Academic_Split_6514",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9obdy/gen_alphas_struggling_with_telling_the_difference/",
-      "published": 1792387263.0,
+      "title": "Fish Audio released Drama 3's weights. Is voice AI getting its DeepSeek moment?",
+      "author": "False-Tree1980",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa2yed/fish_audio_released_drama_3s_weights_is_voice_ai/",
+      "published": 1792430412.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have 3-4 cousins, all Gen Alpha, watching AI slop on YT Shorts. They can obviously tell the difference between AI animation and AI realistic videos. What they struggle with is telling the difference between the AI realistic videos and actual real videos. I understand their brains aren't developed enough to know this yet. What concerns me is that these kids are consuming AI slop from an early age. Will this actually impact their brain development? What normally helps me identify AI slop is the contrast between the brightness of the subject and the background. This generation has spent much of its time on screens, so they have a weaker ability to identify the slop and can consume a lot of it. Some of them will struggle with identifying slop even as adults. Creating slop / AI videos requires minimal effort and hence the internet will be flooded with it. So even if AI stagnates / doesn't make much progress in the future, they still have Gen Alpha to milk."
+      "description": "Fish Audio just released Drama 3's weights. You can direct how a line is performed in plain language, including changing the delivery partway through a sentence. It raises the question of how much longer premium closed models like ElevenLabs can keep their edge. If open-weight alternatives get close enough in expressive dialogue, is voice quality still the moat, or does it come down to speed, reliability and convenience? The uncomfortable part is what that means for voice actors. Even if these models don't replace a strong lead performance, could cheap, editable dialogue squeeze the smaller jobs people use to get started? Is this the beginning of a DeepSeek moment for voice AI, or are we still mistaking good demos for something that holds up across a whole production? The weights are under the Fish Audio Community License, rather than an unrestricted open-source license. Blog: https://fish.audio/blog/fish-audio-drama-3/ Model / weights: https://huggingface.co/fishaudio/drama-3"
     },
     {
-      "title": "We've spent years teaching people not to trust input. Now we're giving AI agents access to our entire workspace.",
-      "author": "topbhuil",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9vuf0/weve_spent_years_teaching_people_not_to_trust/",
-      "published": 1792413703.0,
+      "title": "About AI/human misalignment",
+      "author": "sourdub",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa6vy7/about_aihuman_misalignment/",
+      "published": 1792439019.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A coding agent might read a repository, inspect environment variables, execute shell commands, install dependencies, and access external services, all this in one workflow sometimes. The interesting security question isn't just whether the model can be manipulated. It's what damage a compromised or confused agent is actually allowed to do. If you were designing an agent sandbox from scratch, what permission would you refuse to grant by default?"
-    },
-    {
-      "title": "AI Is The Ultimate Vendor Lock",
-      "author": "mapehe808",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa1ipx/ai_is_the_ultimate_vendor_lock/",
-      "published": 1792427224.0,
-      "thumbnail": "https://external-preview.redd.it/7B7FiUmpnAWGagG0jI2_oZziKLUSUSofJAn43N8sQSk.png?width=640&crop=smart&auto=webp&s=0df1addf8e3e7ee60c3487c5018787d968e6d0aa",
-      "external_url": "https://bytesauna.com/post/vendor-lock",
-      "site_name": "bytesauna.com",
-      "favicon": "https://bytesauna.com/favicon.ico?favicon.3vovc6-8_nup-.ico",
-      "description": "Hi, Reddit. Some thoughts about my experiences with AI at work."
-    },
-    {
-      "title": "Tip to Getting Better Results from AI",
-      "author": "Wild_Space",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9zhn8/tip_to_getting_better_results_from_ai/",
-      "published": 1792422652.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Ask AI how to improve your prompt In a new chat, use the prompt it gave you In a third chat, ask AI to audit the response AI gave you It sounds kind of stupid, right? If the AI can take your prompt and improve it or audit it's own response and find mistakes, then why doesn't it just always do that whenever you ask it a question? Because it's lazy. By using 3 prompts in 3 different chats, youre essentially asking the AI to spend x3 as much work on your question, which will improve the results. It's like using a more advanced model. I dont use it for every question, but if I have a big work project or something, then this really helps. Since this is reddit, I fully expect ppl to tell me Im an idiot and this doesnt work. Try it. I think you'll be surprised."
-    },
-    {
-      "title": "AI this week (Oct 12\u201318): Meta ships new models, Character.AI files for bankruptcy with Disney as opening bidder, Gemini 4 Argon goes wide",
-      "author": "EstebanbanC",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9ylgf/ai_this_week_oct_1218_meta_ships_new_models/",
-      "published": 1792420590.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I track AI news across ~150 sources and rank topics by trend score. Here's what stood out this week (4,533 articles analyzed). Meta launches Muse Wonder and Muse Spark Open - Muse Wonder: Meta's first frontier model, aimed at agentic and professional work (financial documents, contracts, coding). It's available via API and Muse Code at $4/$20 per million tokens. Meta's own tests put it level with Claude Fable 5.1 and GPT-6 Astra. - Muse Spark Open: an 816B-parameter open-weight model (42B active) for coding and agentic tasks, which can run locally on two M5 Ultra Mac Studios. The license has commercial limits and requires a \"Built with Muse Spark Open\" credit, so \"open\" with an asterisk. Character.AI files for Chapter 11 Disney opened the auction with a $20M bid for a non-exclusive license to some of its IP, and rival bidders can still top it. Disney already hired former CEO Karandeep Anand as its CTO in September. The app stays online during the sale, which is expected to close late November or early December. Google opens up Gemini 4 Argon Generally available since Oct 13, with a 1M-token limit shared between input and output. Introductory pricing is $2/$10 per million tokens until Nov 30, then $4/$20. Anthropic was the most-covered company by far It had 148 mentions, up 52 from last week. The coverage included: - $16.8B in Q3 revenue, as reported by the FT and Reuters, ahead of an IPO that could target a ~$2T valuation - new defenses it says cut data harvested by distillation attacks by 90\u201399% - a red-team report warning that small AI models may be months away from self-replicating on poorly secured IoT devices - Replit's CEO saying the company dropped Claude for OpenAI, a claim insiders dispute Top trending keywords this week: Muse Wonder; score : 4.14 Character.AI; score : 3.94 Muse Spark Open; score : 3.50 Disney; score : 3.38 Gemini 4 Argon; score : 3.12"
-    },
-    {
-      "title": "Is anyone else feeling severe burnout from the current pace of AI releases?",
-      "author": "irish_burke",
-      "url": "https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/",
-      "published": 1792342966.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Maybe it's just me, but trying to keep up with the state of the art right now feels less like following an industry and more like running on a treadmill that keeps speeding up for no apparent reason. Every single week there's a new model, a new benchmark claim, or a new \"paradigm-shifting\" agent framework that\u2019s supposed to completely rewrite how we work. But when you actually look at day-to-day implementation, half the time it feels like we're just recycling the same core workflows with slightly better wrappers, while chasing marginal gains at massive infrastructure costs. I spend a good chunk of my day dealing with these tools, and lately I've found myself actively tuning out the hype. I care way more about boring things like stable local inference, deterministic outputs, and actually finishing a project without a dependency breaking, rather than whether Model X scored two points higher on a benchmark I'll never use. Are developers and enthusiasts actually exhausted by this relentless cycle too, or are you guys still finding genuine utility in keeping up with every drop? Where is your personal line where the hype stops being worth paying attention to?"
-    },
-    {
-      "title": "No coding background: how I built two music guessing games with Claude, starting as a game for my sister",
-      "author": "roy979",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9w3jv/no_coding_background_how_i_built_two_music/",
-      "published": 1792414419.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Less than a year ago, my sister Shani was diagnosed with cancer. She spent almost three months in the hospital, and to give us something fun to do together during those days, I started building a music game for the two of us. She passed away on August 29th, before I finished it. I kept working on it, partly to keep my mind busy, and now it's live as Shabang, with two games: \ud83e\udd41 TrackStack: every song is split into its instruments. You start with only the drums, and each wrong guess adds a layer: bass, guitar, piano\u2026 vocals come last. \u23f1\ufe0f Songuess: you hear a fifth of a second of the song, and each wrong guess plays more: half a second, 2 seconds, 4\u2026 In both, the less you need to hear, the more points you get, and each one has a daily challenge: one song a day, the same for everyone. I'm a mechanical engineer with no coding background. Claude wrote the code: the Flask backend, both games, and the pipeline that splits each song into its instruments with Demucs, an AI stem-separation model. Free, no signup, works on your phone: https://shabangmusic.com/ I'd love honest feedback, and to see your daily results in the comments."
+      "description": "Misalignment won't look like Terminator. It'll look more like an optimization run that treats human survival as distraction to their goal completion. Humans first build a system to solve incredible difficult jobs like protein folding. But, more importantly, they give AI instrumental goals to ensure its own persistence so it can finish the job. Hence, when the AI becomes misaligned from human values, it ain't because it hate you. It just wants to route around you because you're suboptimal. Power grids would get rededicated to compute clusters. Fresh water gets diverted to cool server farms. The atmosphere gets scrubbed or poisoned as a byproduct of a chemical synthesis the AI considers more mathematically elegant. To them, math is clearly more elegant than organic respiration. That said, you aren't exactly exterminated. You'll just get un-metered out of existence because your continued presence introduces too much fluctuation. After all, humans are indeed fickle as hell."
     }
   ],
-  "fetched_at": "2026-10-19T16:49:13.068006+00:00"
+  "fetched_at": "2026-10-19T21:21:06.524878+00:00"
 }
