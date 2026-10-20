@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-20T00:31:25.854659+00:00'
+updated: '2026-10-20T05:42:24.835187+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 20, 2026 at 00:31 UTC  
+**Last Updated:** October 20, 2026 at 05:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,379.21
+### $2,398.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -0.9%  
-**30d:** -13.7%  
-**90d:** +27.6%  
-**1y:** -37.9%  
+**24h:** -1.1%  
+**7d:** -0.7%  
+**30d:** -13.5%  
+**90d:** +27.9%  
+**1y:** -37.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.54B
+**Market Cap:** $293.16B
 Rank #2
 
-**Circulating Supply:** 122,148,378 ETH
+**Circulating Supply:** 122,151,332 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.6%
+-51.5%
 
 **All-Time Low:** $0.43
-+552917.6%
++554116.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-19h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually tried this? Interested how it works in practice and whether the lower net APY is worth it
 
-8h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,7 +134,7 @@ Following its activation on Sepolia on October 6, the Glamsterdam network upgrad
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -152,31 +152,23 @@ ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster
 
 **[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[‘Black Monday’ Fears Grip Crypto Twitter After Bitcoin, Ethereum and $33M AI Perps Flash Crash](https://finance.yahoo.com/markets/crypto/articles/black-monday-fears-grip-crypto-110217560.html)**
+**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
 
-Bitcoin, Ethereum and semiconductor-linked perpetual futures suffered sudden weekend declines, with one report estimating nearly $34 million in AI-related liquidations. The selloff revived fears of ...
+According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
 
-Yahoo Finance • 13h ago
-
----
-
-**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
-
-An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
-
-Engadget • 3d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Justin Sun sells most of his ETH and moves into US stocks](https://www.tradingview.com/news/cryptobriefing:de39dbfeb094b:0-justin-sun-sells-most-of-his-eth-and-moves-into-us-stocks/)**
+**[Lighter launches BTC and ETH binary options on Core](https://www.tradingview.com/news/cryptobriefing:29748d169094b:0-lighter-launches-btc-and-eth-binary-options-on-core/)**
 
-Justin Sun has quietly done something many crypto founders would never say out loud. He sold most of his Ethereum and bought US stocks.In a lengthy interview on October 17, 2026, the TRON founder said he had cut nearly 80-90% of his aggressive ETH positions. Most of that selling happened in the $3…
+Lighter, the Ethereum zk-rollup exchange known for perpetual futures, has launched binary options on Bitcoin and Ether on its Lighter Core platform, The Defiant reported on October 19.The Up/Down contracts let traders take a view on whether BTC or ETH will rise or fall over 15-minute price windows…
 
-TradingView • 1d ago
+TradingView • 12h ago
 
 ---
 
@@ -184,47 +176,53 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 14h ago
 
 ---
 
-**[JPMorgan Deploys JPM Coin on Ethereum Mainnet — Institutional Stablecoin Payments Go Multi-Chain](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-deploys-jpm-coin-ethereum-194141714.html)**
+**[Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line](https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line)**
 
-JPMorgan has expanded the reach of its JPM Coin, making the token available to institutional clients on the Ethereum mainnet as of October 19, 2026. The move, reported by CoinDesk, follows the initial launch of the token on the Coinbase-linked layer-2 network Base in November 2025 and marks a shift in how the bank approaches […]
+Tom Lee's Bitmine kept its weekly Ethereum buying streak alive, adding 12,535 ETH worth about $30 million, amid a market-wide selloff.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Solana or Ethereum: Which Is More Likely to Be a Millionaire-Maker by 2030?](https://247wallst.com/investing/cryptocurrency/2026/10/19/solana-or-ethereum-which-is-more-likely-to-be-a-millionaire-maker-by-2030/)**
-
-Solana and Ethereum made early investors wealthy. Which is more likely to turn $10,000 into $1 million by 2030?
-
-24/7 Wall St. • 8h ago
+Decrypt • 14h ago
 
 ---
 
-**[Polymarket Odds Today: Israel Election, Ethereum, NBA Champion](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-eisenkot-netanyahu-ethereum-nba-champion-october-19-2026)**
+**[Ethereum’s faster proofs face Vitalik’s next test: a hard cost limit](https://cryptoslate.com/vitaliks-zkevm-cost-demand-puts-ethereums-gas-pricing-under-a-second-test/)**
 
-Today's best Polymarket predictions: Gadi Eisenkot drops to 47% to be Israel's next prime minister, Ethereum dip odds rise to 68%, and NBA title prices against US sportsbooks as the season tips off.
+Vitalik wants a hard bound on Ethereum proving costs per unit of gas, shifting attention from fast block samples to the hardest permitted workloads.
 
-RG.org • 4h ago
-
----
-
-**[XRP Attracts $1.9B in RWA Flows as Ethereum Loses $2.7B](https://cryptorank.io/news/feed/5045b-xrp-attracts-1-9b-in-rwa-flows-as-ethereum-loses-2-7b)**
-
-The XRP Ledger (XRPL) has recorded $1.9 billion in net real-world asset (RWA) inflows over the past six months, ranking second among tracked blockchain
-
-CryptoRank • 3h ago
+CryptoSlate • 16h ago
 
 ---
 
-**[JPMorgan Brings Its Deposit Token to the Ethereum Blockchain](https://www.pymnts.com/cryptocurrency/2026/jpmorgan-brings-its-deposit-token-to-the-ethereum-blockchain/)**
+**[New Ethereum Based Crypto Pepeto Announces Final Presale Stages Before Its Binance Listing While the Cardano Price Prediction Eyes a 6x](https://markets.businessinsider.com/news/stocks/new-ethereum-based-crypto-pepeto-announces-final-presale-stages-before-its-binance-listing-while-the-cardano-price-prediction-eyes-a-6x-1036640351)**
 
-JPMorganChase is reportedly expanding its blockchain payments footprint by bringing its deposit token to Ethereum. JPM Coin will now be available to the
+DUBAI, United Arab Emirates, Oct.  19, 2026  (GLOBE NEWSWIRE) -- New Ethereum based crypto Pepeto has announced that its presale has entered its f...
 
-PYMNTS.com • 11h ago
+markets.businessinsider.com • 11h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC rebounds to $82,500 as ETH and XRP hold support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-rebounds-to-82-500-as-eth-and-xrp-hold-support-202610190318)**
+
+FXStreet • 1d ago
+
+---
+
+**[Ethereum Institutional taps former Coinbase research chief David Duong as Head of US](https://cryptobriefing.com/ethereum-institutional-david-duong-head-of-us/)**
+
+Ethereum Institutional names former Coinbase research head David Duong as Head of US to lead outreach on tokenization and stablecoins.
+
+Crypto Briefing • 8h ago
+
+---
+
+**[Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/10/17/wall-streets-biggest-settlement-firm-is-lining-up-stellar-for-2027-is-xlm-a-better-buy-than-ethereum/)**
+
+The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -232,23 +230,23 @@ PYMNTS.com • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[The bank that called Bitcoin a fraud is now on Ethereum.](https://www.youtube.com/watch?v=EWravWiatx4)**
-
-Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally objected to having their shares traded on the ...
-
-📺 Yahoo Finance
-
-👁️ 10K • 👍 278 • 💬 35 • ⏱️ 14:51 • 7h ago
-
----
-
 **[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
 
 Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 150 • 💬 20 • ⏱️ 9:32 • 19m ago
+👁️ 26K • 👍 1K • 💬 167 • ⏱️ 9:32 • 5h ago
+
+---
+
+**[JP Morgan’s Ethereum Play: Why The Big Money Is Moving Now](https://www.youtube.com/watch?v=EWravWiatx4)**
+
+Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally objected to having their shares traded on the ...
+
+📺 Yahoo Finance
+
+👁️ 16K • 👍 377 • 💬 45 • ⏱️ 14:51 • 12h ago
 
 ---
 
@@ -258,7 +256,7 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 9K • 👍 264 • 💬 18 • ⏱️ 2:31 • 8h ago
+👁️ 13K • 👍 345 • 💬 24 • ⏱️ 2:31 • 14h ago
 
 ---
 
@@ -268,27 +266,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 82 • 💬 4 • ⏱️ 8:07 • 4h ago
-
----
-
-**[&quot;Black Monday&quot; Fail, BTC charts, Ethereum problem, &amp; Elon Giving Away SpaceX](https://www.youtube.com/watch?v=a2dJAhL0c24)**
-
-Bitcoin Charts, SOL, Ethena, Ethereum, Spacex, AMD and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 18K • 👍 458 • 💬 20 • ⏱️ 1:03:23 • 11h ago
-
----
-
-**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
-
-BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
-
-📺 Elijah Cheng
-
-👁️ 3K • 👍 50 • 💬 14 • ⏱️ 24:29 • 10h ago
+👁️ 4K • 👍 112 • 💬 6 • ⏱️ 8:07 • 9h ago
 
 ---
 
@@ -298,7 +276,7 @@ Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at K
 
 📺 CoinDesk
 
-👁️ 28K • 👍 321 • 💬 46 • ⏱️ 10:26 • 8h ago
+👁️ 41K • 👍 396 • 💬 55 • ⏱️ 10:26 • 14h ago
 
 ---
 
@@ -308,7 +286,7 @@ JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, c
 
 📺 CoinDesk
 
-👁️ 316 • 👍 12 • 💬 1 • ⏱️ 1:51 • 8h ago
+👁️ 452 • 👍 15 • 💬 1 • ⏱️ 1:51 • 14h ago
 
 ---
 
@@ -318,17 +296,37 @@ ETH deep dive looking into the fundamentals behind the project. Does Ethereum ha
 
 📺 BTDcrypto
 
-👁️ 106 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 1d ago
+👁️ 108 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 1d ago
 
 ---
 
-**[Ethereum vs Solana: Why The Faster Chain Isn&#39;t Winning](https://www.youtube.com/watch?v=nDpgtKT2VqE)**
+**[HUGE! JPMORGAN BANK MOVES JPM COIN ON ETHEREUM! BLACKROCK&#39;S NEW BITCOIN ETF! XRP LEDGER LENDING!](https://www.youtube.com/watch?v=Cc2Z_5k8fdU)**
 
-Ethereum vs Solana: Solana is the faster chain, but I still think Ethereum is the clear winner. Solana has always been seen as the ...
+Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPMorgan brings JPM Coin, representing dollar ...
 
-📺 Crypto Archie
+📺 Thinking Crypto
 
-👁️ 448 • 👍 10 • ⏱️ 0:48 • 10h ago
+👁️ 3K • 👍 290 • 💬 29 • ⏱️ 19:54 • 3h ago
+
+---
+
+**[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
+
+📺 Lark Davis
+
+👁️ 30K • 👍 545 • 💬 83 • ⏱️ 11:36 • 2d ago
+
+---
+
+**[&quot;Black Monday&quot; Fail, BTC charts, Ethereum problem, &amp; Elon Giving Away SpaceX](https://www.youtube.com/watch?v=a2dJAhL0c24)**
+
+Bitcoin Charts, SOL, Ethena, Ethereum, Spacex, AMD and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 19K • 👍 469 • 💬 23 • ⏱️ 1:03:23 • 17h ago
 
 ---
 
