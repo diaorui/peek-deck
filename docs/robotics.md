@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-20T11:00:57.964750+00:00'
+updated: '2026-10-20T15:44:58.556515+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 20, 2026 at 11:00 UTC  
+**Last Updated:** October 20, 2026 at 15:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I've been working on an under-actuated drone that can fly with only one motor fo
 
 I posted here 8 months ago and am only now posting again, haha. This is how I've improved over the past 8 months: MK5 V1: The appearance was impressive, but... Yes, I lacked torque. MK5 V2: Hmm... MK6 V1: it walks!! it walks!! it walks!! 🐕🐕 MK6 V2: Laser cut leg Hell yeah😎😎 Two-arm guy Two-leg guy : w.i.p DMs are welcome, and those who really want to see them can do so in Seoul😎 T h a n k y o u !
 
-1d ago
+2d ago
 
 ---
 
@@ -52,7 +52,7 @@ I posted here 8 months ago and am only now posting again, haha. This is how I've
 
 MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was the evening of the day I developed the MK6 V2 and participated in the Maker Faire. 2026.09.19 😎👍
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was th
 
 More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rocker-bogie-mars-rover-esp32-cam-6-wheel-robotic-platform
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ HUMXN wants to pay for maintenance and repair services for homes in Minneapolis,
 
 Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries to deliver 90 minutes of operation after a nine-minute charge. The targeted 10:1 run-to-charge ratio could support more than 20 productive hours per day in warehouses and manufacturing facilities. Early-access deployment is planned for the first half of 2027, but the company has not yet disclosed the battery capacity, cycle-life rating, or independent real-world test results.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays) • 1d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays) • 2d ago
 
 ---
 
@@ -116,11 +116,11 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 ## Google News: "robotics"
 
-**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
+**[Eka is worth $1.45B thanks to a physical AI model that has experts raving](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/)**
 
-They're still a long way off from mass-producing Terminators.
+Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
 
-Defense News • 19h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -132,65 +132,63 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
+
+They're still a long way off from mass-producing Terminators.
+
+Defense News • 23h ago
+
+---
+
 **[Robot Wars How China Has the Robotics Industry in Its Grip](https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html)**
 
 Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
 
-Crude Oil Prices Today | OilPrice.com • 10h ago
+Crude Oil Prices Today | OilPrice.com • 15h ago
 
 ---
 
-**[In a Second Robotics Contract, Nyobolt Will Power Agility’s Latest Humanoid](https://www.theinformation.com/newsletters/the-electric/second-robotics-contract-nyobolt-will-power-agilitys-latest-humanoid)**
+**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
 
-In the latest bullish sign for the previously troubled battery industry, Agility Robotics said it would power the latest version of its humanoid robot, Digit, with next-generation batteries manufactured by Nyobolt.
+The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
 
-The Information • 1d ago
-
----
-
-**[Unitree's new system lets operators change robot dance moves with text](https://interestingengineering.com/ai-robotics/unitrees-model-lets-operators-choreograph-robot-teams)**
-
-Unitree's UniUni combines AI choreography, natural-language commands, and real-time monitoring to coordinate robot performances.
-
-Interesting Engineering • 23h ago
+GeekWire • 14h ago
 
 ---
 
-**[This New Motor Could Be A Game Changer For Humanoid Robots And Wearable Tech](https://www.bgr.com/2290693/fibermotor-game-changer-humanoid-robot-wearable-tech/)**
+**[Intel Asks FCC to Allow Upgrades for Banned Foreign Robots](https://www.bloomberg.com/news/articles/2026-10-19/intel-asks-fcc-for-upgrades-to-banned-foreign-robot-technology)**
 
-The new FiberMotor, developed in Switzerland, is as thick as a human hair, but can bend around body parts, such as robot hands or clothes.
-
-BGR • 15h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[OpenAI is building its own humanoid robots, with Sam Altman targeting a first demonstration in 2027](https://www.ynetnews.com/tech-and-digital/article/sjf4g3nngx)**
+**[U.S. clients are co-developing an AI-powered station to wash and groom dogs.](https://www.stocktitan.net/news/GMEX/gmex-robotics-announces-media-meta-s-u-s-ai-powered-autonomous-zk829ekey1np.html)**
 
-Sam Altman confirms OpenAI is building humanoid robots and plans an impressive demonstration in 2027; the company is recruiting hardware specialists to pursue factory and data center work, but has yet to unveil a design or commercial launch date
+MediaMeta submitted a U.S. patent application; the grooming station remains in development, with commercialization subject to testing and client acceptance.
 
-Ynetnews • 1h ago
-
----
-
-**[Humanoid robot pushes 77-pound loads and lifts 44 pounds in new demo video](https://interestingengineering.com/ai-robotics/humanoid-robot-pushes-77-pound-objects)**
-
-KAIST's Humanoid v0.9 pushes 77.2-pound loads and lifts 44.1 pounds using visual feedback and learning-based control.
-
-Interesting Engineering • 58m ago
+Stock Titan • 6d ago
 
 ---
 
-**[Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)**
+**[Smart Hands, Human Touch: Neurotech Tightens Grip On Robotics Market](https://www.forbes.com/sites/naveenrao/2026/10/20/smart-hands-human-touch-neurotech-tightens-grip-on-robotics-market/)**
 
-University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
-
-TechCrunch • 22h ago
+Forbes • 48m ago
 
 ---
 
-**[Robot AI predicts future scenes to guide its next moves](https://techxplore.com/news/2026-10-robot-ai-future-scenes.html)**
+**[Robots allow us to gather more intelligence: Gecko Robotics co-founder](https://www.foxbusiness.com/video/6407129449112)**
 
-Tech Xplore • 13h ago
+Taylor Riggs hosts Gecko Robotics co-founder and CEO Jake Loosararian to discuss the company's expanded $300 million Navy contract. He explains how AI and robotics help outsmart adversaries and ensure warship readiness.
+
+Fox Business • 3h ago
+
+---
+
+**[Robotic arm with artificial skin senses touch across its limbs](https://interestingengineering.com/ai-robotics/robotic-arm-artificial-skin-emarm)**
+
+Honk'g Kong University's EmArm uses optical tactile skin to sense touch, manipulate objects, and avoid obstacles in real time.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -198,13 +196,23 @@ Tech Xplore • 13h ago
 
 ## YouTube Videos: "robotics"
 
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
+
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 73K • 👍 673 • 💬 35 • ⏱️ 9:03 • 1d ago
+
+---
+
 **[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
 Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
 
 📺 The Tesla Space
 
-👁️ 91K • 👍 3K • 💬 151 • ⏱️ 13:59 • 5d ago
+👁️ 92K • 👍 3K • 💬 152 • ⏱️ 13:59 • 5d ago
 
 ---
 
@@ -214,7 +222,7 @@ Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 📺 Jamel_AKA_Jamal
 
-👁️ 103K • 👍 3K • 💬 666 • ⏱️ 13:05 • 1d ago
+👁️ 105K • 👍 3K • 💬 681 • ⏱️ 13:05 • 1d ago
 
 ---
 
@@ -224,37 +232,7 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 28K • 👍 321 • 💬 46 • ⏱️ 8:52 • 3d ago
-
----
-
-**[Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics](https://www.youtube.com/watch?v=BHiYomkfoGQ)**
-
-From training a world-action model on over one million hours of human video to deploying robots that fold thousands of napkins ...
-
-📺 Latent Space
-
-👁️ 24K • 👍 104 • 💬 6 • ⏱️ 1:21:06 • 6d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 71K • 👍 657 • 💬 30 • ⏱️ 9:03 • 1d ago
-
----
-
-**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
-
-xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
-
-📺 RuntimeBRT
-
-👁️ 124K • 👍 5K • 💬 171 • ⏱️ 2:55 • 1d ago
+👁️ 31K • 👍 336 • 💬 46 • ⏱️ 8:52 • 3d ago
 
 ---
 
@@ -264,25 +242,37 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 134K • 👍 1K • 💬 364 • ⏱️ 4:07 • 2d ago
+👁️ 138K • 👍 1K • 💬 387 • ⏱️ 4:07 • 3d ago
 
 ---
 
-**[Robot Arm Grabs Its Own 3D Prints](https://www.youtube.com/watch?v=aZorzneOAwo)**
+**[Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics](https://www.youtube.com/watch?v=BHiYomkfoGQ)**
 
-Armold is our 6 axis robot arm with a 750g payload, 475mm reach and cycloidal drives in every joint. It's controlled with Sweep ...
+From training a world-action model on over one million hours of human video to deploying robots that fold thousands of napkins ...
 
-📺 Sweep Dynamics
+📺 Latent Space
 
-👁️ 6K • 👍 294 • 💬 12 • ⏱️ 0:53 • 13h ago
+👁️ 24K • 👍 105 • 💬 6 • ⏱️ 1:21:06 • 6d ago
 
 ---
 
-**[I Built a Robot to Replace My Rabbit’s Best Friend #3DPrinting #Robotics #Engineering](https://www.youtube.com/watch?v=vIKYRi4GDXA)**
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
 
-📺 It's on my MIND
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
 
-👁️ 223K • 👍 8K • 💬 248 • ⏱️ 1:53 • 2d ago
+📺 RuntimeBRT
+
+👁️ 133K • 👍 6K • 💬 176 • ⏱️ 2:55 • 1d ago
+
+---
+
+**[The Weirdest Robots to Ever Fight at NHRL](https://www.youtube.com/watch?v=eVI9Ig3lq_o)**
+
+Not your average fighting robots. From bizarre designs to completely unconventional engineering, these robots prove there's ...
+
+📺 NHRL
+
+👁️ 126K • 👍 1K • 💬 85 • ⏱️ 12:13 • 4d ago
 
 ---
 
@@ -292,7 +282,15 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 1.3M • 👍 5K • 💬 390 • ⏱️ 1:44 • 6d ago
+👁️ 1.4M • 👍 5K • 💬 391 • ⏱️ 1:44 • 6d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 331K • 👍 11K • 💬 1K • ⏱️ 2:35 • 3d ago
 
 ---
 
