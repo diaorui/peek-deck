@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-20T19:51:39.177320+00:00",
+  "data": "MOSS-Image-Base is a text-to-image diffusion model capable of generating images from natural language prompts, tag sequences, and JSON layouts for precise object placement. It supports bilingual prompts (English/Chinese) and is ideal for applications requiring controlled image synthesis with specific compositional requirements.",
+  "model_id": "OpenMOSS-Team/MOSS-Image-Base"
+}
