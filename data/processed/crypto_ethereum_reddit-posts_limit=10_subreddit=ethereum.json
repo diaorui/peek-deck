@@ -2,10 +2,10 @@
   "subreddit": "ethereum",
   "posts": [
     {
-      "title": "Daily General Discussion October 13, 2026",
+      "title": "Daily General Discussion October 19, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x4nv7j/daily_general_discussion_october_13_2026/",
-      "published": 1791867674.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1x9nz0v/daily_general_discussion_october_19_2026/",
+      "published": 1792386084.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -13,10 +13,21 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Daily General Discussion October 12, 2026",
+      "title": "Anyone tried QuickNode`s covered strategies?",
+      "author": "0x5589e5",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xa0drf/anyone_tried_quicknodes_covered_strategies/",
+      "published": 1792424660.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually tried this? Interested how it works in practice and whether the lower net APY is worth it"
+    },
+    {
+      "title": "Daily General Discussion October 18, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x3t1y1/daily_general_discussion_october_12_2026/",
-      "published": 1791781293.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1x8ulm3/daily_general_discussion_october_18_2026/",
+      "published": 1792299688.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -24,43 +35,21 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "why do i feel safer staking eth on a regulated exchange than in defi?",
-      "author": "Excellent-Wheel7769",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x45obf/why_do_i_feel_safer_staking_eth_on_a_regulated/",
-      "published": 1791820695.0,
+      "title": "[AMA] We are Hypersnap, the team building the credibly neutral alternative to Farcaster's hostile takeover by the Network State, ask us anything!",
+      "author": "someladywithhugetds",
+      "url": "https://www.reddit.com/r/ethereum/comments/1x8l0bt/ama_we_are_hypersnap_the_team_building_the/",
+      "published": 1792270577.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "staking eth for about three years now. started with lido, then tried rocket pool, even ran a validator for a while. but honestly the whole defi staking thing is starting to wear me down. smart contract risk, slashing risk, the tax nightmare of tracking all those tiny rewards. it's just a lot. lately ive been using gemini for a chunk of my eth. it's not as exciting as defi, and the yields are lower. but it's simple. i don't have to worry about a bug in a contract draining my funds. i don't have to spend hours figuring out cost basis for taxes. i stake and get a statement at the end of the year. for someone who just wants exposure to eth staking without the headache, it's been a decent option. i still keep some in lido because i believe in decentralization, but the regulated route has its place. anyone else split their staking like this? or am i just getting old and lazy?"
+      "description": null
     },
     {
-      "title": "I put a whole agent world on Ethereum, frontend included",
-      "author": "Bobhoudini",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x37ulv/i_put_a_whole_agent_world_on_ethereum_frontend/",
-      "published": 1791724218.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499"
-    },
-    {
-      "title": "I stopped trusting hardware wallets, so I decided to build my own.",
-      "author": "Boust16",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x3g2w6/i_stopped_trusting_hardware_wallets_so_i_decided/",
-      "published": 1791744439.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. \ud83d\udd10 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security."
-    },
-    {
-      "title": "Daily General Discussion October 11, 2026",
+      "title": "Daily General Discussion October 17, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x2zg6c/daily_general_discussion_october_11_2026/",
-      "published": 1791694874.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1x81l31/daily_general_discussion_october_17_2026/",
+      "published": 1792213270.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -68,49 +57,60 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Daily General Discussion October 10, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x26m6d/daily_general_discussion_october_10_2026/",
-      "published": 1791608479.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+      "title": "I'm looking for feedback and contributors for my web3 AI security network called AVALON",
+      "author": "Lennycool",
+      "url": "https://www.reddit.com/r/ethereum/comments/1x8ae1g/im_looking_for_feedback_and_contributors_for_my/",
+      "published": 1792244038.0,
+      "thumbnail": "https://external-preview.redd.it/pgthaj6FOzLgRZwZqFTqsbyuQlhm-8y2FLqP2-3RQoY.png?width=640&crop=smart&auto=webp&s=22db85f7e3e288ef753d556ae4fcbdbc322e0397",
+      "external_url": "https://avalonai-web3.vercel.app/",
+      "site_name": "AVALON AI",
+      "favicon": "https://avalonai-web3.vercel.app/avalon-logo.svg",
+      "description": "Hi everyone, I got into crypto a few years ago and fell in love with the ecosystem. It's fair to say Web3 completely changed my life for the better, and ever since, my aim has been to contribute meaningfully to it. One issue I've had an issue with is the persistent hacks reducing user trust in this new model of the internet we're building. So I'm proposing an AI security network to protect wallets from hacks. You can check out the website or GitHub: https://github.com/thelennyjohnson/avalon-ai Feedback and contributors are welcome."
     },
     {
-      "title": "I'm seeking advice about selling ENS domain names",
-      "author": "Odeh13",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x2c7gx/im_seeking_advice_about_selling_ens_domain_names/",
-      "published": 1791629086.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!"
+      "title": "OpenAI says research model spent another wallet's testnet ETH without authorization on coding task",
+      "author": "CowboyNuggets",
+      "url": "https://www.reddit.com/r/ethereum/comments/1x8bbnk/openai_says_research_model_spent_another_wallets/",
+      "published": 1792246538.0,
+      "thumbnail": "https://external-preview.redd.it/ACIxVW2HPCNJjoEbTNsGXsyrkK6xndTq3MYT02xQFmA.jpeg?width=640&crop=smart&auto=webp&s=5a812ad6533df258d4e08460d0ae76f6aab99811",
+      "external_url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
+      "site_name": "The Block",
+      "favicon": "https://www.theblock.co/tbco/apple-touch-icon.png",
+      "description": "The model independently determined that using valueless testnet ETH from a publicly exposed account was acceptable."
     },
     {
-      "title": "Daily General Discussion October 09, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x1cknz/daily_general_discussion_october_09_2026/",
-      "published": 1791522075.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Ethereal news weekly #42 | Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don\u2019t rush or panic",
+      "title": "Glamsterdam Hoodi Testnet Announcement | Ethereum Foundation Blog",
       "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x1kdho/ethereal_news_weekly_42_sepolia_testnet_upgraded/",
-      "published": 1791549801.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1x7py45/glamsterdam_hoodi_testnet_announcement_ethereum/",
+      "published": 1792179805.0,
+      "thumbnail": "https://external-preview.redd.it/Rd5DFqLOp1u_1iNLPlVGfRA1cXwOQoF1UrDUC-sT5k4.jpeg?width=640&crop=smart&auto=webp&s=7b2f1777243c369eca559302778902abc0812a82",
+      "external_url": "https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement",
+      "site_name": "Ethereum Foundation Blog",
+      "favicon": "https://blog.ethereum.org/images/favicon.png",
+      "description": "Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1..."
+    },
+    {
+      "title": "Daily General Discussion October 16, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1x77cz8/daily_general_discussion_october_16_2026/",
+      "published": 1792126879.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Ethereal news weekly #43 | ZKsync Airbender Prime: real time proving on single GPU, Barnab\u00e9 Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2",
+      "author": "abcoathup",
+      "url": "https://www.reddit.com/r/ethereum/comments/1x7fkiw/ethereal_news_weekly_43_zksync_airbender_prime/",
+      "published": 1792155587.0,
       "thumbnail": "https://external-preview.redd.it/2zyY6e5Mf5R63ELydbdrYjrz_yIBJn5i9-GpP66kmzM.jpeg?width=640&crop=smart&auto=webp&s=5a0bcc467e92ab01c45c72e2085e5e0169e799e6",
-      "external_url": "https://ethereal.news/ethereal-news-weekly-42/",
+      "external_url": "https://ethereal.news/ethereal-news-weekly-43/",
       "site_name": "Ethereal news",
       "favicon": "https://ethereal.news/etherealnews-logo.jpg",
-      "description": "Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don\u2019t rush or panic"
+      "description": "ZKsync Airbender Prime: real time proving on single GPU, Barnab\u00e9 Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2"
     }
   ],
-  "fetched_at": "2026-10-13T10:11:02.202123+00:00"
+  "fetched_at": "2026-10-20T00:31:06.284282+00:00"
 }

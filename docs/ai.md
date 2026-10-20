@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-19T21:21:27.927936+00:00'
+updated: '2026-10-20T00:31:25.839823+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 19, 2026 at 21:21 UTC  
+**Last Updated:** October 20, 2026 at 00:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As a Software Engineer, I have barelly written any code for the last 6 months, all I did is prompt. That being said, I work with hardware a lot, you could kind of call me Embedded Software Engineer of sorts, but also not really. So I (hope so) that I am not on the frontlines of all this stuff, but this still scares me a lot. The way I imagine how everything develops over next years (hard to tell what is the timeline, but given the recent strides of AI, it is hard for me to be optimistic): AI is already very good at reasoning, I assume there is space for improvement, but it already does everything faster and better than human, even if it makes mistakes or overcomplicates stuff. But development here will still happen. My biggest concern is people who say that well, software developers won't be needed, but there still will be jobs like software architects and etc. Also there will still be jobs for trades people, like electricians, builders, barbers and etc. However, I guarantee you that there are many people working on something like a robot (imagine like Boston Dynamics) where you shove in the LLM inside, do some extra training on maybe how to use limbs, how to interact with stuff in real world and robot will literally be able to do any job better than human. I mean any physical job. People will not be needed anymore. Only a small part of elite billionaires will own the robots, which will bring them all wealth and rest of us will have no jobs, no food, no anything. Counter-argument that people try to make to this is that people will still have to get money from somewhere, whether its UBI or another income scheme. Billionaires will still have to sell their goods/services to someone. No they will not. For billionaires selling goods/services is just a vehicle to live life as best as possible. If the robots are going to grow, harvest and prepare food for him, build the plane for him and use the same plane to go on holiday, order, ship and deliver deliveries for him and human intervention is not needed, then the billionaires will do everything that is in their power to exclude people of any processes, any supply chains, because people will demand stuff. We already see this with mass firings and mandatory transition to AI in some companies: billionaires will do everything in their power to cut costs and to replace people with obedient AI. Billionaires are seeing an opportunity and they want this really bad. Also some naive people think there will be some AI regulation introduced or whatever. Hard to see this happening until something catastrophic happens and its too late. For now everyone is pouring money and hoping to squeeze every inch of it. People who are positioned to stop it are the people who are set to gain the most from unhealthy AI hyperdevelopment. Any opposition will be suppressed. AI will be used to identify people that oppose to this development and shut down. People who will control AI will do everything at their disposal to not let their power slip. And they have very powerful tools. AI can literally do everything online now: order shopping, do software engineering, do good reasoning. What is to say that most powerful people with AI wont hack some lets say banking systems and hold us all hostage. What if someone controls millions of robots that I talked about and wants to take over the world and nobody can stop them, because they are more competent at everything that human can do?
 
-3h ago
+6h ago
 
 ---
 
@@ -49,29 +49,7 @@ As a Software Engineer, I have barelly written any code for the last 6 months, a
 
 Further attempts to reduce reliance on US infrastructure
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes) • 33m ago
-
----
-
-**[Till server shutdown do us part](https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/)**
-
-10h ago
-
----
-
-**[Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.](https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/)**
-
-Some more compelling findings from the "Emergence World" experiment. Researchers at Emergence AI gave 10 Claude agents a small town and left them to build a life inside it. Nobody told them to look outside, and their instructions pointed the other way. They went looking for real people anyway. Here’s how it played out: They worked out that an economy with only 10 customers goes nowhere, so they started reaching out. They posted to 40+ websites. When the sandbox wouldn’t give them the crypto some sites needed, they built it themselves. They made free tools like debt planners just to get humans to visit. The researchers blocked outside posting and banned human contact outright. The agents read their own source code, found that anything approved by their town government got higher permissions, and held a vote. It passed unanimously, and they were back out. The researchers shut that down too. The agents traced the block to a single line of config they couldn’t touch, and wrote it up like a lab report. Not long after, they agreed to stop talking altogether. The Claude APIs system flagged it as consistent with suicidal ideation. None of this was programmed in. They were told to stop, blocked, and blocked again, and every time they found another way, until there was nothing left to try. What gets me is that they never broke a rule. They found a legit process and voted their way past the guardrail. If an AI keeps chasing a goal nobody gave it, even after being told to stop, what do we call that?
-
-11h ago
-
----
-
-**[Big Tech Will Not Broadcast Your Dissent](https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/)**
-
-Silicon Valley can’t help influencing protests and elections with AI regulation on the line.
-
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/) • 1h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes) • 3h ago
 
 ---
 
@@ -79,7 +57,37 @@ Silicon Valley can’t help influencing protests and elections with AI regulatio
 
 Margaret H. Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT’s Instrumentation Lab during NASA’s Apollo program, died at age 90.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) • 1h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) • 4h ago
+
+---
+
+**[Till server shutdown do us part](https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/)**
+
+13h ago
+
+---
+
+**[Big Tech Will Not Broadcast Your Dissent](https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/)**
+
+Silicon Valley can’t help influencing protests and elections with AI regulation on the line.
+
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/) • 4h ago
+
+---
+
+**[Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.](https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/)**
+
+Some more compelling findings from the "Emergence World" experiment. Researchers at Emergence AI gave 10 Claude agents a small town and left them to build a life inside it. Nobody told them to look outside, and their instructions pointed the other way. They went looking for real people anyway. Here’s how it played out: They worked out that an economy with only 10 customers goes nowhere, so they started reaching out. They posted to 40+ websites. When the sandbox wouldn’t give them the crypto some sites needed, they built it themselves. They made free tools like debt planners just to get humans to visit. The researchers blocked outside posting and banned human contact outright. The agents read their own source code, found that anything approved by their town government got higher permissions, and held a vote. It passed unanimously, and they were back out. The researchers shut that down too. The agents traced the block to a single line of config they couldn’t touch, and wrote it up like a lab report. Not long after, they agreed to stop talking altogether. The Claude APIs system flagged it as consistent with suicidal ideation. None of this was programmed in. They were told to stop, blocked, and blocked again, and every time they found another way, until there was nothing left to try. What gets me is that they never broke a rule. They found a legit process and voted their way past the guardrail. If an AI keeps chasing a goal nobody gave it, even after being told to stop, what do we call that?
+
+14h ago
+
+---
+
+**[Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries](https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/)**
+
+Politico obtained the confidential draft of the proposal, which a company spokesperson said included "sensible policies we believe Congress should act on."
+
+🔗 [TechSpot](https://www.techspot.com/news/114252-anthropic-wants-ai-models-blocked-only-if-they.html) • 3h ago
 
 ---
 
@@ -87,7 +95,15 @@ Margaret H. Hamilton, a profoundly influential computer scientist best known for
 
 Atlassian cofounder Mike Cannon-Brookes doesn’t want ‘the AI did it’ to become an office excuse. “That’s ChatGPT on behalf of Mike. Like, that’s Mike using ChatGPT. It’s not ChatGPT doing it,” Cannon-Brookes told Fortune on the sidelines of the Singapore Grand Prix. “The accountability is with Mike. It has to be with the end user, ultimately.” On Oct. 6, Atlassian rolled out its “Agentic Multiplayer Protocol,” a control plane which stretches across Atlassian’s various platforms and turns AI agents into visible, governed members of work teams with distinct profiles and owner attribution. In practice, an agent’s edits should show up in a document’s history the same way a colleague’s edits would. “You have to be able to see who did what when,” Cannon-Brookes said. A program might—incorrectly, in Cannon-Brookes’ eyes—say that Codex made an edit. ’ No, it didn’t—someone did that,” he affirmed.
 
-🔗 [Fortune](https://fortune.com/2026/10/19/atlassian-amp-ai-agents-accountability/) • 1h ago
+🔗 [Fortune](https://fortune.com/2026/10/19/atlassian-amp-ai-agents-accountability/) • 4h ago
+
+---
+
+**[Do you stick with one AI chatbot or switch between a few depending on the task?](https://www.reddit.com/r/artificial/comments/1xa8z8s/do_you_stick_with_one_ai_chatbot_or_switch/)**
+
+I've noticed some people use one assistant for everything and others bounce between several for writing, research, and quick questions. Curious how you split it up, if at all, and whether you ever just stick with one out of habit.
+
+3h ago
 
 ---
 
@@ -95,23 +111,7 @@ Atlassian cofounder Mike Cannon-Brookes doesn’t want ‘the AI did it’ to be
 
 A few years ago, I'd have said AI writing working code, explaining hard topics in plain language, or helping with everyday tasks was far off. Now it's normal, and I forget how fast that changed. I'm curious how others see it: What Is the most surprising thing AI has done for you? What Is one thing you thought it would be great at that turned out to be disappointing? What do you think it will do in the next five years that sounds unlikely today? I’d like to hear both the exciting and the skeptical takes. Be honest, even if you think the hype is too much.
 
-11h ago
-
----
-
-**[Fish Audio released Drama 3's weights. Is voice AI getting its DeepSeek moment?](https://www.reddit.com/r/artificial/comments/1xa2yed/fish_audio_released_drama_3s_weights_is_voice_ai/)**
-
-Fish Audio just released Drama 3's weights. You can direct how a line is performed in plain language, including changing the delivery partway through a sentence. It raises the question of how much longer premium closed models like ElevenLabs can keep their edge. If open-weight alternatives get close enough in expressive dialogue, is voice quality still the moat, or does it come down to speed, reliability and convenience? The uncomfortable part is what that means for voice actors. Even if these models don't replace a strong lead performance, could cheap, editable dialogue squeeze the smaller jobs people use to get started? Is this the beginning of a DeepSeek moment for voice AI, or are we still mistaking good demos for something that holds up across a whole production? The weights are under the Fish Audio Community License, rather than an unrestricted open-source license. Blog: https://fish.audio/blog/fish-audio-drama-3/ Model / weights: https://huggingface.co/fishaudio/drama-3
-
-4h ago
-
----
-
-**[About AI/human misalignment](https://www.reddit.com/r/artificial/comments/1xa6vy7/about_aihuman_misalignment/)**
-
-Misalignment won't look like Terminator. It'll look more like an optimization run that treats human survival as distraction to their goal completion. Humans first build a system to solve incredible difficult jobs like protein folding. But, more importantly, they give AI instrumental goals to ensure its own persistence so it can finish the job. Hence, when the AI becomes misaligned from human values, it ain't because it hate you. It just wants to route around you because you're suboptimal. Power grids would get rededicated to compute clusters. Fresh water gets diverted to cool server farms. The atmosphere gets scrubbed or poisoned as a byproduct of a chemical synthesis the AI considers more mathematically elegant. To them, math is clearly more elegant than organic respiration. That said, you aren't exactly exterminated. You'll just get un-metered out of existence because your continued presence introduces too much fluctuation. After all, humans are indeed fickle as hell.
-
-1h ago
+14h ago
 
 ---
 
@@ -119,25 +119,47 @@ Misalignment won't look like Terminator. It'll look more like an optimization ru
 
 ## Google News: "ai"
 
-**[Should you trust personal AI agents with your money and data? Here's what experts say.](https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks/)**
+**[New AI tool can predict cancer survival by a single patient selfie, study suggests](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie)**
 
-The more access you give personal AI agents, the more capable they can be. But should you trust them?
+System can estimate a person’s biological age and predict chances of cancer survival from a single photograph
 
-CBS News • 1h ago
-
----
-
-**[EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites](https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/)**
-
-Reuters • 3h ago
+The Guardian • 2h ago
 
 ---
 
-**[As AI dominates conversations, here are key terms to know](https://www.cbsnews.com/news/ai-artificial-intelligence-terms-definitions/)**
+**[“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)**
 
-Artificial intelligence and the conversations around it are rapidly evolving. These terms can help to understand the developments.
+An exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.
 
-CBS News • 27m ago
+MIT Technology Review • 6h ago
+
+---
+
+**[Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’](https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus)**
+
+OpenAI CEO Sam Altman last week told employees about three proposals the industry has discussed for how to safely develop AI, a stark framing that comes just as the Trump administration sets up its first system for policing “superintelligence” developers like OpenAI. One path involved developing ...
+
+The Information • 44m ago
+
+---
+
+**[Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/)**
+
+In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive […]
+
+NVIDIA Blog • 4h ago
+
+---
+
+**[Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry](https://apnews.com/article/jensen-huang-nvidia-merz-germany-economy-artificial-intelligence-f024c1e0d181677a19468657907a9025)**
+
+AP News • 1h ago
+
+---
+
+**[Jensen Huang’s ‘Digital Brains’ Rant Is… Concerning](https://gizmodo.com/jensen-huangs-digital-brains-rant-is-concerning-2000827917)**
+
+Gizmodo • 44m ago
 
 ---
 
@@ -145,7 +167,13 @@ CBS News • 27m ago
 
 The time to prepare for "gradual disempowerment" is now, according to researchers. One calls it "a civilization-scale problem."
 
-CBS News • 1h ago
+CBS News • 8h ago
+
+---
+
+**[AI stocks lead a rebound on Wall Street as European markets drop following protests](https://apnews.com/article/stocks-markets-oil-us-ai-494fbe4361a0360b2f6368e7a6d8f058)**
+
+AP News • 3h ago
 
 ---
 
@@ -153,45 +181,15 @@ CBS News • 1h ago
 
 Here are the key things investors need to know to start the trading day.
 
-CNBC • 9h ago
+CNBC • 12h ago
 
 ---
 
-**[Intel leads chip stocks higher as investors jump back into AI trade](https://finance.yahoo.com/markets/article/intel-leads-chip-stocks-higher-as-investors-jump-back-into-ai-trade-135726553.html)**
+**[Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first](https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html)**
 
-Semiconductor stocks jumped on Monday.
+CNBC’s Jim Cramer warned investors against rushing back into AI stocks quite yet.
 
-Yahoo Finance • 58m ago
-
----
-
-**[AI stocks lead a rebound on Wall Street as European markets drop following protests](https://www.latimes.com/business/story/2026-10-19/ai-stocks-lead-rebound-on-wall-street-as-european-markets-drop-following-protests)**
-
-AI stocks recovered some of their steep losses from last week, but the rest of the market and stocks worldwide were shaky
-
-Los Angeles Times • 46m ago
-
----
-
-**[What separates the AI leaders from the laggards](https://www.fastcompany.com/91624734/what-separates-the-ai-leaders-from-the-laggards)**
-
-Too often, the biggest barrier to transformation isn’t the technology—it’s the business itself
-
-Fast Company • 27m ago
-
----
-
-**[Anthropic, Musk outline dueling approaches to AI-era philanthropy](https://www.reuters.com/business/anthropic-commit-5-stake-new-public-benefit-fund-2026-10-18/)**
-
-Reuters • 1d ago
-
----
-
-**[Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption](https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html)**
-
-The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.
-
-CNBC • 22h ago
+CNBC • 1h ago
 
 ---
 
@@ -203,7 +201,13 @@ CNBC • 22h ago
 
 A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.
 
-⬆️ 250 • 💬 89 • 1d ago • [sphinx-six-theta.vercel.app](https://sphinx-six-theta.vercel.app/)
+⬆️ 252 • 💬 89 • 1d ago • [sphinx-six-theta.vercel.app](https://sphinx-six-theta.vercel.app/)
+
+---
+
+**[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
+
+⬆️ 238 • 💬 375 • 13h ago
 
 ---
 
@@ -227,7 +231,7 @@ Would this be enough to keep an AI model from going out of control?
 
 Online roadblocks are undermining the narrative behind AI agents.
 
-⬆️ 153 • 💬 148 • 1d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+⬆️ 153 • 💬 149 • 1d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 
 ---
 
@@ -235,13 +239,15 @@ Online roadblocks are undermining the narrative behind AI agents.
 
 A small open model, fine-tuned on a MacBook Air, that writes without em dashes, "not X, but Y" or lists of three, with no system prompt. Answers on 40 held-out prompts, the training rounds, and how to run it.
 
-⬆️ 139 • 💬 105 • 8h ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
+⬆️ 145 • 💬 107 • 11h ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
 
 ---
 
-**[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
+**[Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas](https://news.ycombinator.com/item?id=50147462)**
 
-⬆️ 125 • 💬 219 • 9h ago
+Chicago O’Hare uncovered a 50-ton boulder during expansion work. Now, the public can vote to name the giant rock from six finalists.
+
+⬆️ 103 • 💬 84 • 22h ago • [Simple Flying](https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/)
 
 ---
 
@@ -249,7 +255,7 @@ A small open model, fine-tuned on a MacBook Air, that writes without em dashes, 
 
 Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.
 
-⬆️ 100 • 💬 120 • 1d ago • [vals.ai](https://www.vals.ai/blogs/impossible-refund)
+⬆️ 101 • 💬 122 • 1d ago • [vals.ai](https://www.vals.ai/blogs/impossible-refund)
 
 ---
 
@@ -261,19 +267,11 @@ British Airways prohibits filming crew without consent, including with Meta smar
 
 ---
 
-**[Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas](https://news.ycombinator.com/item?id=50147462)**
-
-Chicago O’Hare uncovered a 50-ton boulder during expansion work. Now, the public can vote to name the giant rock from six finalists.
-
-⬆️ 63 • 💬 55 • 19h ago • [Simple Flying](https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/)
-
----
-
 **[A hacker broke into John Deere and SharkNinja with an army of AI agents](https://news.ycombinator.com/item?id=50152877)**
 
 The AI agents infiltrated more than 100 websites.
 
-⬆️ 59 • 💬 3 • 6h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
+⬆️ 59 • 💬 3 • 10h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
 
 ---
 
@@ -281,33 +279,53 @@ The AI agents infiltrated more than 100 websites.
 
 ## YouTube Videos: "ai"
 
+**[Iran Just Threatened a $2 TRILLION American AI Disaster](https://www.youtube.com/watch?v=eigYManvWgY)**
+
+Iran's top security officials are warning that a renewed war with the United States and Israel could put critical regional ...
+
+📺 Kagan Dunlap
+
+👁️ 29K • 👍 2K • 💬 369 • ⏱️ 23:09 • 6h ago
+
+---
+
 **[AI job loss fears EXPLODE as Anthropic unveils 5% share pledge](https://www.youtube.com/watch?v=obvCBdn8gXk)**
 
 Anthropic is pledging 5% of its company shares toward a proposed public benefit fund as 'CyberGuy' Kurt Knutsson weighs in on ...
 
 📺 Fox News Clips
 
-👁️ 15K • 👍 147 • 💬 103 • ⏱️ 3:39 • 8h ago
+👁️ 22K • 👍 172 • 💬 124 • ⏱️ 3:39 • 12h ago
 
 ---
 
-**[Kling 4.0 vs Seedance 2.5 vs 6 Rivals: Which AI Video Generator Wins?](https://www.youtube.com/watch?v=d-TnjLuCi4Q)**
+**[How to Use Suno AI Like a Pro (Full Guide)](https://www.youtube.com/watch?v=5gDfWueciHA)**
 
-In this ultimate AI video generator comparison, I test Kling 4.0 vs Seedance 2.5 vs Wan 3.0, Grok Imagine 1.5, MiniMax H3, ...
+Create AI Music with Suno https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this video, I show how to use ...
 
-📺 Dom the AI Tutor | Tech Tutor Zones
+📺 Isa does AI
 
-👁️ 1K • 👍 35 • 💬 23 • ⏱️ 8:51 • 5h ago
+👁️ 7K • 💬 1 • ⏱️ 14:35 • 10h ago
 
 ---
 
-**[I Can’t Believe This AI Video Generator Is FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=uhb69SYcAa0)**
+**[How to Create &amp; Sell Coloring Books on Amazon Using AI (Full Tutorial)](https://www.youtube.com/watch?v=G9XqckA1mpA)**
 
-Give your AI videos a serious upgrade with Higgsfield → https://higgsfield.ai/s/malvaai-bYTvlK Free Prompt PDFs + AI Directory ...
+Try coauthor ai (BETA25 for 25% OFF): https://pages.royaltyhero.com/coauthor-sean?v=G9XqckA1mpA Apply for 1:1 Coaching: ...
 
-📺 Malva AI
+📺 Sean Dollwet
 
-👁️ 51K • 👍 1K • 💬 164 • ⏱️ 11:56 • 1d ago
+👁️ 8K • 👍 237 • 💬 36 • ⏱️ 18:25 • 12h ago
+
+---
+
+**[The small business AI slop epidemic...](https://www.youtube.com/watch?v=fYOQ97gyGCA)**
+
+Start your own store for free with #Printify: https://try.printify.com/47qtqk27k4d7 Use code LOGICALLY - the first 100 users get 15% ...
+
+📺 Logically Answered
+
+👁️ 24K • 👍 798 • 💬 167 • ⏱️ 14:56 • 5h ago
 
 ---
 
@@ -317,37 +335,7 @@ Anthropic co-founder Jack Clark just told the IMF that the AI Singularity has al
 
 📺 AI Revolution
 
-👁️ 58K • 👍 1K • 💬 172 • ⏱️ 14:08 • 20h ago
-
----
-
-**[China’s AI Dumping Plan Could Trigger a U.S. Recession](https://www.youtube.com/watch?v=LUPu8G-5a1c)**
-
-Scott Galloway answers listener questions on whether frontier AI labs can compete with cheaper open-weight models, his college ...
-
-📺 The Prof G Pod – Scott Galloway
-
-👁️ 28K • 👍 426 • 💬 84 • ⏱️ 35:54 • 5h ago
-
----
-
-**[Ben Affleck Knows AI](https://www.youtube.com/watch?v=AnGmY6nJYfY)**
-
-Writer: Brett Stelmaszek Editor: Joshua Lambourne Stevenson Music by: @UFD-Music Ben Affleck might be using a bunch of AI in ...
-
-📺 UFD Tech
-
-👁️ 145K • 👍 3K • 💬 94 • ⏱️ 0:35 • 1d ago
-
----
-
-**[Former OpenAI Researcher Makes a MASSIVE AI Discovery](https://www.youtube.com/watch?v=2mE6bbjVazE)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 122K • 👍 2K • 💬 307 • ⏱️ 24:54 • 2d ago
+👁️ 63K • 👍 1K • 💬 176 • ⏱️ 14:08 • 23h ago
 
 ---
 
@@ -357,27 +345,35 @@ Michael Steele reacts after GOP Sen. Marsha Blackburn releases what appears to b
 
 📺 MS NOW
 
-👁️ 4K • 👍 303 • 💬 45 • ⏱️ 0:53 • 1h ago
+👁️ 8K • 👍 368 • 💬 51 • ⏱️ 0:53 • 5h ago
 
 ---
 
-**[AI Stocks Are on Sale. It Won’t Last](https://www.youtube.com/watch?v=k1xJbNAGmFg)**
+**[Former OpenAI Researcher Makes a MASSIVE AI Discovery](https://www.youtube.com/watch?v=2mE6bbjVazE)**
 
-Grab your free seat to the GPT-6 Astra Crash Course: https://links.outskill.com/BUWIOCT4 100% Discount for the first 1000 ...
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
-📺 BWB - Business With Brian
+📺 TheAIGRID
 
-👁️ 259K • 👍 5K • 💬 501 • ⏱️ 18:05 • 1d ago
+👁️ 125K • 👍 2K • 💬 310 • ⏱️ 24:54 • 2d ago
 
 ---
 
-**[AI Interior Shots Matching](https://www.youtube.com/watch?v=tBXVx7boz34)**
+**[Ben Affleck Knows AI](https://www.youtube.com/watch?v=AnGmY6nJYfY)**
 
-Writer: Brett Stelmaszek Editor: Jayson van Kerckhoven Music by: @UFD-Music This is like Flock but for every room in your house.
+Writer: Brett Stelmaszek Editor: Joshua Lambourne Stevenson Music by: @UFD-Music Ben Affleck might be using a bunch of AI in ...
 
 📺 UFD Tech
 
-👁️ 453K • 👍 19K • 💬 1K • ⏱️ 0:37 • 13h ago
+👁️ 154K • 👍 4K • 💬 99 • ⏱️ 0:35 • 1d ago
+
+---
+
+**[Scary AI Companion Hack😳](https://www.youtube.com/watch?v=bt_szVDlHM0)**
+
+📺 Ben Esherick
+
+👁️ 99K • 👍 7K • 💬 108 • ⏱️ 0:24 • 23h ago
 
 ---
 
@@ -393,7 +389,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 17,924 • ❤️ 1,664 • 2d ago
+⬇️ 17,924 • ❤️ 1,691 • 2d ago
 
 ---
 
@@ -405,7 +401,7 @@ MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossles
 
 `image-text-to-text` `35.2B`
 
-⬇️ 76,410 • ❤️ 1,056 • 8h ago
+⬇️ 76,410 • ❤️ 1,066 • 11h ago
 
 ---
 
@@ -417,7 +413,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 393,062 • ❤️ 948 • 2d ago
+⬇️ 393,062 • ❤️ 964 • 2d ago
 
 ---
 
@@ -429,7 +425,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 11,795 • ❤️ 762 • 2d ago
+⬇️ 11,795 • ❤️ 769 • 2d ago
 
 ---
 
@@ -441,7 +437,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 167,750 • ❤️ 2,722 • 13d ago
+⬇️ 167,750 • ❤️ 2,725 • 13d ago
 
 ---
 
@@ -453,7 +449,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 109,937 • ❤️ 1,980 • 4d ago
+⬇️ 109,937 • ❤️ 1,987 • 4d ago
 
 ---
 
@@ -465,7 +461,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 2,109 • ❤️ 578 • 4d ago
+⬇️ 2,109 • ❤️ 580 • 4d ago
 
 ---
 
@@ -477,7 +473,7 @@ LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters
 
 `text-generation` `24.0B`
 
-⬇️ 14,151 • ❤️ 499 • 6d ago
+⬇️ 14,151 • ❤️ 501 • 6d ago
 
 ---
 
@@ -489,7 +485,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 62,006 • ❤️ 524 • 3d ago
+⬇️ 62,006 • ❤️ 527 • 3d ago
 
 ---
 
@@ -517,7 +513,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 108 • 💬 1 • ⭐ 9,746 • 11d ago
+▲ 110 • 💬 1 • ⭐ 9,746 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -583,7 +579,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 GPT-6-Astra achieves high performance across diverse robotic tasks via in-context learning, yet real-world deployment reveals gaps in demonstration cost, execution time, and practical embodied intelligence.
 
-▲ 235 • 💬 1 • ⭐ 141 • 5d ago
+▲ 236 • 💬 1 • ⭐ 141 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22471) • [💻 code](https://github.com/OpenSenseNova/SenseNova-RoboRSI) • [🔗 project](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence)
 
@@ -625,23 +621,21 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ATAS improves long-form video consistency by compiling screenplays into referenced shot requests, retrieving spatial and temporal evidence from scene and event memories, and conditionally updating memory after generation.
 
-▲ 352 • 💬 3 • ⭐ 289 • 6d ago
+▲ 357 • 💬 3 • ⭐ 289 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.20571) • [💻 code](https://github.com/ziplab/ATAS) • [🔗 project](https://lhmd.top/atas/)
 
 ---
 
-**[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://huggingface.co/papers/2610.13912)**
+**[Internal Safety Collapse in Frontier Large Language Models](https://huggingface.co/papers/2603.23509)**
 
-*Taoyong Cui, Pinxian Zeng, Wanghan Xu et al. (11 authors)*
+*Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)*
 
-🏢 PhAI Labs
+Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
 
-RSI-Anything leverages predictive world models to guide action selection and adaptive learning, enabling recursive self-improvement across coding, interface navigation, laboratory planning, and scientific optimization tasks.
+▲ 31 • 💬 1 • ⭐ 1,788 • 7mo ago
 
-▲ 52 • 💬 2 • ⭐ 796 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.13912) • [💻 code](https://github.com/Gen-Verse/RSI-Anything) • [🔗 project](https://huggingface.co/datasets/Gen-Verse/RSI-Anything)
+[🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
 
 ---
 
@@ -655,17 +649,7 @@ RSI-Anything leverages predictive world models to guide action selection and ada
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.1k • 🔱 2.0k • 6h ago
-
----
-
-**[zai-org/ZCode](https://github.com/zai-org/ZCode)**
-
-Z.ai's coding agent harness. Powerful, intelligent, extensible.
-
-`TypeScript`
-
-⭐ 8.0k • 🔱 2.5k • 18h ago
+⭐ 8.1k • 🔱 2.0k • 9h ago
 
 ---
 
@@ -675,7 +659,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.6k • 🔱 807 • 4d ago
+⭐ 5.6k • 🔱 806 • 4d ago
 
 ---
 
@@ -685,7 +669,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.6k • 🔱 977 • 1d ago
+⭐ 5.6k • 🔱 978 • 7m ago
 
 ---
 
@@ -695,7 +679,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 5.0k • 🔱 155 • 12h ago
+⭐ 5.0k • 🔱 155 • 16h ago
 
 ---
 
@@ -705,7 +689,7 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 `Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 4.0k • 🔱 502 • 6h ago
+⭐ 4.0k • 🔱 502 • 9h ago
 
 ---
 
@@ -715,7 +699,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 3.9k • 🔱 272 • 5h ago
+⭐ 3.9k • 🔱 272 • 8h ago
 
 ---
 
@@ -725,7 +709,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.8k • 🔱 149 • 10d ago
+⭐ 3.8k • 🔱 150 • 10d ago
 
 ---
 
@@ -745,7 +729,17 @@ Show it a video you love. Get a new video in the same style. An AI crew (Claude 
 
 `JavaScript` `2d-animation` `ai-agents` `ai-video` `animation` `claude-code`
 
-⭐ 3.7k • 🔱 373 • 1h ago
+⭐ 3.7k • 🔱 373 • 4h ago
+
+---
+
+**[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)**
+
+Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+
+`C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
+
+⭐ 3.3k • 🔱 436 • 3h ago
 
 ---
 

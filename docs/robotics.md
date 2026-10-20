@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-19T21:21:27.937984+00:00'
+updated: '2026-10-20T00:31:25.857924+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 19, 2026 at 21:21 UTC  
+**Last Updated:** October 20, 2026 at 00:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,25 +124,19 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
-
-They're still a long way off from mass-producing Terminators.
-
-Defense News • 5h ago
-
----
-
-**[Germany's New Robot Billionaire Is Betting Big On Humanoid Gyms](https://www.forbes.com/sites/ninabambysheva/2026/10/18/germanys-new-robot-billionaire-is-betting-big-on-humanoid-gyms/)**
-
-Forbes • 1d ago
-
----
-
 **[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
 
 Is AI coming for blue-collar jobs, too?
 
 Tom's Hardware • 2d ago
+
+---
+
+**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
+
+They're still a long way off from mass-producing Terminators.
+
+Defense News • 8h ago
 
 ---
 
@@ -168,11 +162,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Could AI and robotics help fill Cambridge’s empty offices?](https://www.boston.com/news/local-news/2026/10/19/could-ai-and-robotics-help-fill-cambridges-empty-offices/)**
+**[World's fastest AI-powered racing drone outflies the best human pilots](https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots)**
 
-A new report from Newmark expects the sectors to drive future demand, even as a quarter of the city’s office space remains vacant.
+An AI-operated drone learned to fly from scratch and navigated a race course at speeds over 60 mph, using a single camera.
 
-Boston.com • 5h ago
+Live Science • 7h ago
 
 ---
 
@@ -184,11 +178,19 @@ Futurism • 1d ago
 
 ---
 
-**[Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)**
+**[Unitree's new system lets operators change robot dance moves with text](https://interestingengineering.com/ai-robotics/unitrees-model-lets-operators-choreograph-robot-teams)**
 
-University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
+Unitree's UniUni combines AI choreography, natural-language commands, and real-time monitoring to coordinate robot performances.
 
-TechCrunch • 8h ago
+Interesting Engineering • 13h ago
+
+---
+
+**[KSU Salina Introduces Silicon Prairie Trailblazers Technology, Robotics Scholarships](https://www.ksal.com/ksusalina-introduces-silicon-prairie-trailblazers-technology-robotics-scholarships/)**
+
+KSAL is your number one source for salina local news, weather, sports, auctions.
+
+KSAL News • 11h ago
 
 ---
 
@@ -206,43 +208,23 @@ A first-of-its-kind implant is helping an amputee control technology with his th
 
 ---
 
-**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
-
-Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
-
-📺 Jamel_AKA_Jamal
-
-👁️ 90K • 👍 2K • 💬 551 • ⏱️ 13:05 • 22h ago
-
----
-
-**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
-
-Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
-
-📺 The Tesla Space
-
-👁️ 90K • 👍 3K • 💬 151 • ⏱️ 13:59 • 5d ago
-
----
-
-**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
-
-More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
-
-📺 The New York Times
-
-👁️ 120K • 👍 1K • 💬 337 • ⏱️ 4:07 • 2d ago
-
----
-
 **[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
 
 robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
 
 📺 AI Unfiltered
 
-👁️ 13K • 👍 156 • 💬 16 • ⏱️ 8:52 • 3d ago
+👁️ 15K • 👍 203 • 💬 22 • ⏱️ 8:52 • 3d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
+
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 63K • 👍 611 • 💬 28 • ⏱️ 9:03 • 1d ago
 
 ---
 
@@ -256,33 +238,43 @@ From training a world-action model on over one million hours of human video to d
 
 ---
 
-**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
+**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
 
-Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
+Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
-📺 Tesla Insider News
+📺 Jamel_AKA_Jamal
 
-👁️ 305K • 👍 2K • 💬 445 • ⏱️ 21:44 • 3d ago
-
----
-
-**[The Last Robot on Mars Refused to Shut Down — Until the Dead Planet Turned Green](https://www.youtube.com/watch?v=f2YRhdmTm4A)**
-
-Deep across the rust-red deserts of an abandoned Mars, an industrial utility android named En-Lil activates alone inside a dark, ...
-
-📺 Technology Next World
-
-👁️ 68K • 👍 251 • 💬 13 • ⏱️ 12:54 • 3d ago
+👁️ 93K • 👍 2K • 💬 573 • ⏱️ 13:05 • 1d ago
 
 ---
 
-**[The Weirdest Robots to Ever Fight at NHRL](https://www.youtube.com/watch?v=eVI9Ig3lq_o)**
+**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
-Not your average fighting robots. From bizarre designs to completely unconventional engineering, these robots prove there's ...
+Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
 
-📺 NHRL
+📺 The Tesla Space
 
-👁️ 117K • 👍 1K • 💬 80 • ⏱️ 12:13 • 4d ago
+👁️ 91K • 👍 3K • 💬 151 • ⏱️ 13:59 • 5d ago
+
+---
+
+**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
+
+More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
+
+📺 The New York Times
+
+👁️ 126K • 👍 1K • 💬 353 • ⏱️ 4:07 • 2d ago
+
+---
+
+**[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
+
+What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
+
+📺 Bernard Marr
+
+👁️ 82K • 👍 7K • 💬 17 • ⏱️ 1:30 • 6d ago
 
 ---
 
@@ -292,7 +284,17 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 1.1M • 👍 5K • 💬 381 • ⏱️ 1:44 • 6d ago
+👁️ 1.2M • 👍 5K • 💬 387 • ⏱️ 1:44 • 6d ago
+
+---
+
+**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
+
+A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
+
+📺 7NEWS Australia
+
+👁️ 65K • 👍 285 • ⏱️ 1:54 • 4d ago
 
 ---
 

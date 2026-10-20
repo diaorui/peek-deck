@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-20T00:31:04.681928+00:00",
+  "data": {
+    "url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
+    "title": "OpenAI says research model spent another wallet's testnet ETH without authorization on coding task",
+    "description": "The model independently determined that using valueless testnet ETH from a publicly exposed account was acceptable.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-12.27.53.png",
+    "favicon": "https://www.theblock.co/tbco/apple-touch-icon.png",
+    "site_name": "The Block",
+    "author": null,
+    "keywords": "OpenAI"
+  }
+}
