@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-20T05:42:24.835187+00:00'
+updated: '2026-10-20T11:00:57.961974+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 20, 2026 at 05:42 UTC  
+**Last Updated:** October 20, 2026 at 11:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -0.7%  
-**30d:** -13.5%  
-**90d:** +27.9%  
-**1y:** -37.8%  
+**24h:** -1.6%  
+**7d:** -1.3%  
+**30d:** -14.1%  
+**90d:** +27.0%  
+**1y:** -38.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.16B
+**Market Cap:** $291.24B
 Rank #2
 
 **Circulating Supply:** 122,151,332 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.5%
+-51.8%
 
 **All-Time Low:** $0.43
-+554116.3%
++550559.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually tried this? Interested how it works in practice and whether the lower net APY is worth it
 
-13h ago
+19h ago
 
 ---
 
@@ -152,23 +152,55 @@ ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster
 
 **[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears](https://finance.yahoo.com/markets/crypto/articles/ai-chip-bets-suffer-34m-165252079.html)**
+**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
 
-According to Coinglass, broader crypto markets saw nearly $352 million in liquidations over 24 hours.
+JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
 
-Yahoo Finance • 1d ago
+J.P. Morgan • 13h ago
 
 ---
 
-**[Lighter launches BTC and ETH binary options on Core](https://www.tradingview.com/news/cryptobriefing:29748d169094b:0-lighter-launches-btc-and-eth-binary-options-on-core/)**
+**[JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients](https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874)**
 
-Lighter, the Ethereum zk-rollup exchange known for perpetual futures, has launched binary options on Bitcoin and Ether on its Lighter Core platform, The Defiant reported on October 19.The Up/Down contracts let traders take a view on whether BTC or ETH will rise or fall over 15-minute price windows…
+The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum.
 
-TradingView • 12h ago
+The Block • 1d ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP tick lower amid mixed ETF flows](https://www.mitrade.com/au/insights/news/live-news/article-3-2176498-20261020)**
+
+Bitcoin (BTC) is trading above $81,000 on Tuesday, aligning with a lethargic tone in the broader cryptocurrency market. The support range between $80,000-$81,000 reinforces the prevailing stability and consolidation, prompting institutional inflows.
+
+Mitrade • 16m ago
+
+---
+
+**[Is Korea’s Chip Selloff a Crypto Buying Opportunity? Tom Lee’s Case and Its Catch](https://finance.yahoo.com/markets/crypto/articles/korea-chip-selloff-crypto-buying-051449376.html)**
+
+Tom Lee says Korea and Taiwan’s chip selloff is spilling into crypto as Ethereum trails Bitcoin this week.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Why Tom Lee Thinks Ethereum Treasury Firms Will Push ETH Past $10,000 In The Next 12 Months](https://www.tradingview.com/news/coinpedia:038d35308094b:0-why-tom-lee-thinks-ethereum-treasury-firms-will-push-eth-past-10-000-in-the-next-12-months/)**
+
+Tom Lee, chairman of BitMine, thinks the next big move in Ethereum will come from treasury companies buying it up. He says firms that hold ETH on their balance sheets already own about 7% of its total supply, and he expects that share to roughly double to 15% during this bull cycle.Lee was asked ab…
+
+TradingView • 16h ago
+
+---
+
+**[Tron crypto tops Ethereum and Solana combined with $23.41M in revenue](https://ambcrypto.com/tron-crypto-tops-ethereum-and-solana-combined-with-23-41m-in-revenue/)**
+
+Latest readings placed Tron ahead across three revenue periods, with USDT dominating its roughly $95 billion stablecoin supply.
+
+AMBCrypto • 7h ago
 
 ---
 
@@ -176,15 +208,7 @@ TradingView • 12h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
-
----
-
-**[Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line](https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line)**
-
-Tom Lee's Bitmine kept its weekly Ethereum buying streak alive, adding 12,535 ETH worth about $30 million, amid a market-wide selloff.
-
-Decrypt • 14h ago
+Fortune • 19h ago
 
 ---
 
@@ -192,7 +216,7 @@ Decrypt • 14h ago
 
 Vitalik wants a hard bound on Ethereum proving costs per unit of gas, shifting attention from fast block samples to the hardest permitted workloads.
 
-CryptoSlate • 16h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -200,29 +224,7 @@ CryptoSlate • 16h ago
 
 DUBAI, United Arab Emirates, Oct.  19, 2026  (GLOBE NEWSWIRE) -- New Ethereum based crypto Pepeto has announced that its presale has entered its f...
 
-markets.businessinsider.com • 11h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC rebounds to $82,500 as ETH and XRP hold support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-rebounds-to-82-500-as-eth-and-xrp-hold-support-202610190318)**
-
-FXStreet • 1d ago
-
----
-
-**[Ethereum Institutional taps former Coinbase research chief David Duong as Head of US](https://cryptobriefing.com/ethereum-institutional-david-duong-head-of-us/)**
-
-Ethereum Institutional names former Coinbase research head David Duong as Head of US to lead outreach on tokenization and stablecoins.
-
-Crypto Briefing • 8h ago
-
----
-
-**[Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/10/17/wall-streets-biggest-settlement-firm-is-lining-up-stellar-for-2027-is-xlm-a-better-buy-than-ethereum/)**
-
-The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?
-
-24/7 Wall St. • 2d ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -230,73 +232,23 @@ The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the 
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
-
-Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 26K • 👍 1K • 💬 167 • ⏱️ 9:32 • 5h ago
-
----
-
 **[JP Morgan’s Ethereum Play: Why The Big Money Is Moving Now](https://www.youtube.com/watch?v=EWravWiatx4)**
 
 Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally objected to having their shares traded on the ...
 
 📺 Yahoo Finance
 
-👁️ 16K • 👍 377 • 💬 45 • ⏱️ 14:51 • 12h ago
+👁️ 21K • 👍 441 • 💬 51 • ⏱️ 14:51 • 18h ago
 
 ---
 
-**[Could Super Intelligence Break Your Bitcoin Wallet?](https://www.youtube.com/watch?v=fCik3SHhE-0)**
+**[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
 
-Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over ...
+Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
 
-📺 Natalie Brunell
+📺 Altcoin Daily
 
-👁️ 13K • 👍 345 • 💬 24 • ⏱️ 2:31 • 14h ago
-
----
-
-**[Why is Ethereum so weak right now?](https://www.youtube.com/watch?v=EHuwWUQ_jjg)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 112 • 💬 6 • ⏱️ 8:07 • 9h ago
-
----
-
-**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
-
-Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
-
-📺 CoinDesk
-
-👁️ 41K • 👍 396 • 💬 55 • ⏱️ 10:26 • 14h ago
-
----
-
-**[JPMorgan Brings JPM Coin to Ethereum](https://www.youtube.com/watch?v=ELRIyppedMc)**
-
-JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and ...
-
-📺 CoinDesk
-
-👁️ 452 • 👍 15 • 💬 1 • ⏱️ 1:51 • 14h ago
-
----
-
-**[📢ETHEREUM Deep Dive [What is ETH?] Buy or pass?!](https://www.youtube.com/watch?v=Cd4mRqXx5D0)**
-
-ETH deep dive looking into the fundamentals behind the project. Does Ethereum have the fundamentals to drive the price up?
-
-📺 BTDcrypto
-
-👁️ 108 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 1d ago
+👁️ 47K • 👍 2K • 💬 193 • ⏱️ 9:32 • 10h ago
 
 ---
 
@@ -306,7 +258,47 @@ Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPM
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 290 • 💬 29 • ⏱️ 19:54 • 3h ago
+👁️ 14K • 👍 534 • 💬 104 • ⏱️ 19:54 • 8h ago
+
+---
+
+**[Could Super Intelligence Break Your Bitcoin Wallet?](https://www.youtube.com/watch?v=fCik3SHhE-0)**
+
+Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over ...
+
+📺 Natalie Brunell
+
+👁️ 16K • 👍 390 • 💬 25 • ⏱️ 2:31 • 19h ago
+
+---
+
+**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
+
+BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
+
+📺 Elijah Cheng
+
+👁️ 5K • 👍 65 • 💬 27 • ⏱️ 24:29 • 20h ago
+
+---
+
+**[JPMorgan Brings JPM Coin to Ethereum](https://www.youtube.com/watch?v=ELRIyppedMc)**
+
+JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and ...
+
+📺 CoinDesk
+
+👁️ 540 • 👍 16 • 💬 1 • ⏱️ 1:51 • 19h ago
+
+---
+
+**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
+
+Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
+
+📺 CoinDesk
+
+👁️ 48K • 👍 443 • 💬 60 • ⏱️ 10:26 • 19h ago
 
 ---
 
@@ -316,17 +308,27 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 30K • 👍 545 • 💬 83 • ⏱️ 11:36 • 2d ago
+👁️ 30K • 👍 547 • 💬 83 • ⏱️ 11:36 • 2d ago
 
 ---
 
-**[&quot;Black Monday&quot; Fail, BTC charts, Ethereum problem, &amp; Elon Giving Away SpaceX](https://www.youtube.com/watch?v=a2dJAhL0c24)**
+**[Bitwise Thinks This Altcoin Could Be Worth as Much as Ethereum](https://www.youtube.com/watch?v=eXbnBnKrhfw)**
 
-Bitcoin Charts, SOL, Ethena, Ethereum, Spacex, AMD and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Lark Davis
+📺 Milk Road
 
-👁️ 19K • 👍 469 • 💬 23 • ⏱️ 1:03:23 • 17h ago
+👁️ 23K • 👍 392 • 💬 40 • ⏱️ 14:07 • 1d ago
+
+---
+
+**[Raoul Pal :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | ETH Update 2026](https://www.youtube.com/watch?v=rGB_Ojm_x5U)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 64 • 💬 4 • ⏱️ 19:31 • 6h ago
 
 ---
 

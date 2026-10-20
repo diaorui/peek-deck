@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-20T05:42:24.838723+00:00'
+updated: '2026-10-20T11:00:57.964750+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 20, 2026 at 05:42 UTC  
+**Last Updated:** October 20, 2026 at 11:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on an under-actuated drone that can fly with only one motor for the last few months. The propeller hub is 3D printed out of PPA-CF and has a hinge, so when the motor accelerates the blades lag behind and one pitches up while the other pitches down. By pulsing the motor torque 300 times a second, timed to the rotor angle, the drone controls its pitch and roll with the same motor that produces its thrust. Along the way I also built a "poor man's high speed camera" - a camera flash synced to my camera and motor controller, so I could take images of the propeller at precise angles to analyze its behavior. The mechanical simplicity hides a lot of software. At almost 20,000 RPM, a 0.2 ms control loop is already 20 degrees of rotation late, so I wrote custom firmware for the motor controller to compute the torque pulses on board. The body also slowly spins, so the drone gets its heading from an infrared "lighthouse" beacon in the corner of the room that it sees once per revolution. The full video explaining how it all works is available on youtube: https://www.youtube.com/watch?v=Ndftcft6XhU The code and CAD are open source on github: https://github.com/jyjblrd/single-propeller-drone
 
-1d ago
+2d ago
 
 ---
 
@@ -116,25 +116,19 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 ## Google News: "robotics"
 
-**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
-
-Agility Robotics’ first practical robotic worker is nothing like I dreamed
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Team develops embodied robotic arm 'EmArm' with human-like touch sensing](https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html)**
-
-Tech Xplore • 2d ago
-
----
-
 **[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
 
 They're still a long way off from mass-producing Terminators.
 
-Defense News • 13h ago
+Defense News • 19h ago
+
+---
+
+**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+
+Agility Robotics’ first practical robotic worker is nothing like I dreamed
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -142,7 +136,7 @@ Defense News • 13h ago
 
 Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
 
-Crude Oil Prices Today | OilPrice.com • 5h ago
+Crude Oil Prices Today | OilPrice.com • 10h ago
 
 ---
 
@@ -154,59 +148,55 @@ The Information • 1d ago
 
 ---
 
+**[Unitree's new system lets operators change robot dance moves with text](https://interestingengineering.com/ai-robotics/unitrees-model-lets-operators-choreograph-robot-teams)**
+
+Unitree's UniUni combines AI choreography, natural-language commands, and real-time monitoring to coordinate robot performances.
+
+Interesting Engineering • 23h ago
+
+---
+
+**[This New Motor Could Be A Game Changer For Humanoid Robots And Wearable Tech](https://www.bgr.com/2290693/fibermotor-game-changer-humanoid-robot-wearable-tech/)**
+
+The new FiberMotor, developed in Switzerland, is as thick as a human hair, but can bend around body parts, such as robot hands or clothes.
+
+BGR • 15h ago
+
+---
+
+**[OpenAI is building its own humanoid robots, with Sam Altman targeting a first demonstration in 2027](https://www.ynetnews.com/tech-and-digital/article/sjf4g3nngx)**
+
+Sam Altman confirms OpenAI is building humanoid robots and plans an impressive demonstration in 2027; the company is recruiting hardware specialists to pursue factory and data center work, but has yet to unveil a design or commercial launch date
+
+Ynetnews • 1h ago
+
+---
+
+**[Humanoid robot pushes 77-pound loads and lifts 44 pounds in new demo video](https://interestingengineering.com/ai-robotics/humanoid-robot-pushes-77-pound-objects)**
+
+KAIST's Humanoid v0.9 pushes 77.2-pound loads and lifts 44.1 pounds using visual feedback and learning-based control.
+
+Interesting Engineering • 58m ago
+
+---
+
 **[Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)**
 
 University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
 
-TechCrunch • 17h ago
+TechCrunch • 22h ago
 
 ---
 
-**[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://finance.yahoo.com/technology/ai/articles/nvidia-insider-turned-vc-why-163000883.html)**
+**[Robot AI predicts future scenes to guide its next moves](https://techxplore.com/news/2026-10-robot-ai-future-scenes.html)**
 
-Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]
-
-Yahoo Finance • 3d ago
-
----
-
-**[The Robots Are Here, and They’re Coming for Sports](https://www.sportico.com/business/tech/2026/robot-athletes-are-here-now-1234952476/)**
-
-Robot athletes are no longer the stuff of science fiction. Therein lies a business opportunity.
-
-Sportico.com • 1d ago
-
----
-
-**[Jungle Research Expedition Using Robot Dog Like a Pack Mule](https://futurism.com/robots-and-machines/jungle-research-biology-expedition-robot-dog-pack-mule)**
-
-A biodiversity research team trekking into China's Ailaoshan Mountains brought a robot dog capable of lugging 220 pounds of gear.
-
-Futurism • 1d ago
-
----
-
-**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
-
-The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
-
-GeekWire • 4h ago
+Tech Xplore • 13h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
-
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
-
-📺 AI Unfiltered
-
-👁️ 23K • 👍 271 • 💬 35 • ⏱️ 8:52 • 3d ago
-
----
 
 **[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
@@ -218,43 +208,23 @@ Remove your personal information online with Delete Me using my link https://joi
 
 ---
 
-**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
-
-A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
-
-📺 NBC News
-
-👁️ 133K • 👍 916 • 💬 183 • ⏱️ 3:26 • 6d ago
-
----
-
-**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
-
-More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
-
-📺 The New York Times
-
-👁️ 131K • 👍 1K • 💬 361 • ⏱️ 4:07 • 2d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 67K • 👍 641 • 💬 29 • ⏱️ 9:03 • 1d ago
-
----
-
 **[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
 
 Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 📺 Jamel_AKA_Jamal
 
-👁️ 98K • 👍 3K • 💬 625 • ⏱️ 13:05 • 1d ago
+👁️ 103K • 👍 3K • 💬 666 • ⏱️ 13:05 • 1d ago
+
+---
+
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+
+📺 AI Unfiltered
+
+👁️ 28K • 👍 321 • 💬 46 • ⏱️ 8:52 • 3d ago
 
 ---
 
@@ -264,7 +234,37 @@ From training a world-action model on over one million hours of human video to d
 
 📺 Latent Space
 
-👁️ 23K • 👍 100 • 💬 6 • ⏱️ 1:21:06 • 6d ago
+👁️ 24K • 👍 104 • 💬 6 • ⏱️ 1:21:06 • 6d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
+
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 71K • 👍 657 • 💬 30 • ⏱️ 9:03 • 1d ago
+
+---
+
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
+
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
+
+📺 RuntimeBRT
+
+👁️ 124K • 👍 5K • 💬 171 • ⏱️ 2:55 • 1d ago
+
+---
+
+**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
+
+More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
+
+📺 The New York Times
+
+👁️ 134K • 👍 1K • 💬 364 • ⏱️ 4:07 • 2d ago
 
 ---
 
@@ -274,17 +274,15 @@ Armold is our 6 axis robot arm with a 750g payload, 475mm reach and cycloidal dr
 
 📺 Sweep Dynamics
 
-👁️ 2K • 👍 157 • 💬 4 • ⏱️ 0:53 • 8h ago
+👁️ 6K • 👍 294 • 💬 12 • ⏱️ 0:53 • 13h ago
 
 ---
 
-**[A Week in Grad School as a Robotics Engineering Student](https://www.youtube.com/watch?v=N6ngJsQdzRw)**
+**[I Built a Robot to Replace My Rabbit’s Best Friend #3DPrinting #Robotics #Engineering](https://www.youtube.com/watch?v=vIKYRi4GDXA)**
 
-Studying hard and working harder to stay sane. https://www.youtube.com/watch?v=oHg5SJYRHA0 0:00 Intro 2:30 Monday 7:28 ...
+📺 It's on my MIND
 
-📺 ProjectMaria
-
-👁️ 77K • 👍 3K • 💬 230 • ⏱️ 19:46 • 2d ago
+👁️ 223K • 👍 8K • 💬 248 • ⏱️ 1:53 • 2d ago
 
 ---
 
@@ -294,7 +292,7 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 1.3M • 👍 5K • 💬 388 • ⏱️ 1:44 • 6d ago
+👁️ 1.3M • 👍 5K • 💬 390 • ⏱️ 1:44 • 6d ago
 
 ---
 
