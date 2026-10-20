@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-20T05:42:18.836577+00:00",
+  "data": {
+    "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+    "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed",
+    "description": "TorchNeuron lets developers run their existing AI code on AWS Trainium chips with virtually no changes, reducing the friction to adopting new hardware.",
+    "image": "https://assets.aboutamazon.com/8a/19/8a5b8b1542a18aea511b89378867/aws-torchneuron-terminal-inline.gif",
+    "favicon": "https://www.aboutamazon.com/_next/static/media/apple-touch-icon.706b1b87.png",
+    "site_name": "Amazon News",
+    "author": "Isaac Schultz",
+    "keywords": null
+  }
+}

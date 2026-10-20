@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-20T00:31:25.857924+00:00'
+updated: '2026-10-20T05:42:24.838723+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 20, 2026 at 00:31 UTC  
+**Last Updated:** October 20, 2026 at 05:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,11 +124,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)**
+**[Team develops embodied robotic arm 'EmArm' with human-like touch sensing](https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html)**
 
-Is AI coming for blue-collar jobs, too?
-
-Tom's Hardware • 2d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -136,7 +134,15 @@ Tom's Hardware • 2d ago
 
 They're still a long way off from mass-producing Terminators.
 
-Defense News • 8h ago
+Defense News • 13h ago
+
+---
+
+**[Robot Wars How China Has the Robotics Industry in Its Grip](https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html)**
+
+Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
+
+Crude Oil Prices Today | OilPrice.com • 5h ago
 
 ---
 
@@ -148,9 +154,11 @@ The Information • 1d ago
 
 ---
 
-**[Team develops embodied robotic arm 'EmArm' with human-like touch sensing](https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html)**
+**[Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)**
 
-Tech Xplore • 2d ago
+University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
+
+TechCrunch • 17h ago
 
 ---
 
@@ -162,11 +170,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[World's fastest AI-powered racing drone outflies the best human pilots](https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots)**
+**[The Robots Are Here, and They’re Coming for Sports](https://www.sportico.com/business/tech/2026/robot-athletes-are-here-now-1234952476/)**
 
-An AI-operated drone learned to fly from scratch and navigated a race course at speeds over 60 mph, using a single camera.
+Robot athletes are no longer the stuff of science fiction. Therein lies a business opportunity.
 
-Live Science • 7h ago
+Sportico.com • 1d ago
 
 ---
 
@@ -178,19 +186,11 @@ Futurism • 1d ago
 
 ---
 
-**[Unitree's new system lets operators change robot dance moves with text](https://interestingengineering.com/ai-robotics/unitrees-model-lets-operators-choreograph-robot-teams)**
+**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
 
-Unitree's UniUni combines AI choreography, natural-language commands, and real-time monitoring to coordinate robot performances.
+The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
 
-Interesting Engineering • 13h ago
-
----
-
-**[KSU Salina Introduces Silicon Prairie Trailblazers Technology, Robotics Scholarships](https://www.ksal.com/ksusalina-introduces-silicon-prairie-trailblazers-technology-robotics-scholarships/)**
-
-KSAL is your number one source for salina local news, weather, sports, auctions.
-
-KSAL News • 11h ago
+GeekWire • 4h ago
 
 ---
 
@@ -198,53 +198,13 @@ KSAL News • 11h ago
 
 ## YouTube Videos: "robotics"
 
-**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
-
-A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
-
-📺 NBC News
-
-👁️ 133K • 👍 914 • 💬 183 • ⏱️ 3:26 • 5d ago
-
----
-
 **[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
 
 robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
 
 📺 AI Unfiltered
 
-👁️ 15K • 👍 203 • 💬 22 • ⏱️ 8:52 • 3d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 63K • 👍 611 • 💬 28 • ⏱️ 9:03 • 1d ago
-
----
-
-**[Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics](https://www.youtube.com/watch?v=BHiYomkfoGQ)**
-
-From training a world-action model on over one million hours of human video to deploying robots that fold thousands of napkins ...
-
-📺 Latent Space
-
-👁️ 21K • 👍 98 • 💬 6 • ⏱️ 1:21:06 • 6d ago
-
----
-
-**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
-
-Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
-
-📺 Jamel_AKA_Jamal
-
-👁️ 93K • 👍 2K • 💬 573 • ⏱️ 13:05 • 1d ago
+👁️ 23K • 👍 271 • 💬 35 • ⏱️ 8:52 • 3d ago
 
 ---
 
@@ -258,23 +218,73 @@ Remove your personal information online with Delete Me using my link https://joi
 
 ---
 
+**[An AI-powered chip allows an amputee to control his robot prosthetic with his mind](https://www.youtube.com/watch?v=Cv8AATEgZkw)**
+
+A first-of-its-kind implant is helping an amputee control technology with his thoughts and even regain a sense of touch.
+
+📺 NBC News
+
+👁️ 133K • 👍 916 • 💬 183 • ⏱️ 3:26 • 6d ago
+
+---
+
 **[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
 
 More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
 
 📺 The New York Times
 
-👁️ 126K • 👍 1K • 💬 353 • ⏱️ 4:07 • 2d ago
+👁️ 131K • 👍 1K • 💬 361 • ⏱️ 4:07 • 2d ago
 
 ---
 
-**[Humanoid Robots in Action at World Summit AI](https://www.youtube.com/watch?v=h01WB8f6Xqg)**
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
 
-What does the future of humanoid robotics actually look like? At World Summit AI, I had the opportunity to see some fascinating ...
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 Bernard Marr
+📺 MostAmazingTop10
 
-👁️ 82K • 👍 7K • 💬 17 • ⏱️ 1:30 • 6d ago
+👁️ 67K • 👍 641 • 💬 29 • ⏱️ 9:03 • 1d ago
+
+---
+
+**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
+
+Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
+
+📺 Jamel_AKA_Jamal
+
+👁️ 98K • 👍 3K • 💬 625 • ⏱️ 13:05 • 1d ago
+
+---
+
+**[Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics](https://www.youtube.com/watch?v=BHiYomkfoGQ)**
+
+From training a world-action model on over one million hours of human video to deploying robots that fold thousands of napkins ...
+
+📺 Latent Space
+
+👁️ 23K • 👍 100 • 💬 6 • ⏱️ 1:21:06 • 6d ago
+
+---
+
+**[Robot Arm Grabs Its Own 3D Prints](https://www.youtube.com/watch?v=aZorzneOAwo)**
+
+Armold is our 6 axis robot arm with a 750g payload, 475mm reach and cycloidal drives in every joint. It's controlled with Sweep ...
+
+📺 Sweep Dynamics
+
+👁️ 2K • 👍 157 • 💬 4 • ⏱️ 0:53 • 8h ago
+
+---
+
+**[A Week in Grad School as a Robotics Engineering Student](https://www.youtube.com/watch?v=N6ngJsQdzRw)**
+
+Studying hard and working harder to stay sane. https://www.youtube.com/watch?v=oHg5SJYRHA0 0:00 Intro 2:30 Monday 7:28 ...
+
+📺 ProjectMaria
+
+👁️ 77K • 👍 3K • 💬 230 • ⏱️ 19:46 • 2d ago
 
 ---
 
@@ -284,17 +294,7 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Google DeepMind
 
-👁️ 1.2M • 👍 5K • 💬 387 • ⏱️ 1:44 • 6d ago
-
----
-
-**[Humanoid robots trained for Australian workplaces | 7NEWS](https://www.youtube.com/watch?v=9TpevVx0dKg)**
-
-A Sydney start-up is paying workers to wear AI glasses to collect data for training humanoid robots to perform human jobs in ...
-
-📺 7NEWS Australia
-
-👁️ 65K • 👍 285 • ⏱️ 1:54 • 4d ago
+👁️ 1.3M • 👍 5K • 💬 388 • ⏱️ 1:44 • 6d ago
 
 ---
 

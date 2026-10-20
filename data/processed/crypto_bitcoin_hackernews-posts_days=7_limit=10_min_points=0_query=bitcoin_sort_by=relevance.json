@@ -45,9 +45,37 @@
       "description": "Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.",
       "favicon": "https://buymepizza.com/apple-touch-icon.png",
       "site_name": "BuyMePizza"
+    },
+    {
+      "title": "US tech giants warn Europe that ditching US tech giants could cost \u20ac115B",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
+      "hn_url": "https://news.ycombinator.com/item?id=50155973",
+      "author": "slu",
+      "points": 8,
+      "num_comments": 3,
+      "created_at": "2026-10-19T18:23:37Z",
+      "object_id": "50155973",
+      "image": "https://image.theregister.com/5240668.jpg?imageId=5240668&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "description": "Amazon, Google, Meta among members of lobby group funding dire warnings over cloud sovereignty plans",
+      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
+      "site_name": "theregister"
+    },
+    {
+      "title": "Tell HN: Getting spam after commenting on monthly Who's Hiring posts. Who else?",
+      "url": "https://news.ycombinator.com/item?id=50153608",
+      "hn_url": "https://news.ycombinator.com/item?id=50153608",
+      "author": "yosito",
+      "points": 6,
+      "num_comments": 1,
+      "created_at": "2026-10-19T15:25:47Z",
+      "object_id": "50153608",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
-  "total_hits": 3,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-20T00:30:56.077802+00:00"
+  "fetched_at": "2026-10-20T05:41:58.213634+00:00"
 }
