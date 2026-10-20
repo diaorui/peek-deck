@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "US Army competition explores military uses for humanoid robots",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
-      "pub_date": 1792425600.0,
-      "article_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
-      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/XQ6LFK35VRHNHOJEGOR4W7VSQM.JPG?width=1200&auth=59a583cbacd5805ea1fafa721bac4cbb94b3ed6b05e9e8eadcb0cdfa282c8e8c",
-      "description": "They're still a long way off from mass-producing Terminators."
+      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5",
+      "pub_date": 1792501200.0,
+      "article_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+      "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
     },
     {
       "headline": "The Robot I Didn\u2019t Expect to Build",
@@ -25,6 +25,16 @@
       "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
     },
     {
+      "headline": "US Army competition explores military uses for humanoid robots",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
+      "pub_date": 1792425600.0,
+      "article_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/XQ6LFK35VRHNHOJEGOR4W7VSQM.JPG?width=1200&auth=59a583cbacd5805ea1fafa721bac4cbb94b3ed6b05e9e8eadcb0cdfa282c8e8c",
+      "description": "They're still a long way off from mass-producing Terminators."
+    },
+    {
       "headline": "Robot Wars How China Has the Robotics Industry in Its Grip",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "source_url": "https://oilprice.com",
@@ -35,76 +45,66 @@
       "description": "Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of."
     },
     {
-      "headline": "In a Second Robotics Contract, Nyobolt Will Power Agility\u2019s Latest Humanoid",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTR0ZjJvQ0ZnMVFTYU9kaC1GUlRvUldaaVJqV2VrVmhTeEZRM190THhTWVdiaE41LXh1ejZwMFUxdkZVM3hKSUpBcjZ1MG0yRExPb3pON3ljdEk4SXBrV25hc1dWN1ZQclRUZ2lDUlRicGV1a1JuWnB1OXJnS2V6TTAzSXNEOE9fODduUFluUzlLb1Z4MHktNXh1VTJpaU01OVQ0blE1NEViWVdTVGN0eHRNMFd1UmFLYnRPUWRTUWEydw?oc=5",
-      "pub_date": 1792350000.0,
-      "article_url": "https://www.theinformation.com/newsletters/the-electric/second-robotics-contract-nyobolt-will-power-agilitys-latest-humanoid",
-      "image": "https://tii.imgix.net/production/articles/18007/28bbbc27-5ef4-44df-b7b2-db112a5e8bf7-rUNFMf.jpg?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "In the latest bullish sign for the previously troubled battery industry, Agility Robotics said it would power the latest version of its humanoid robot, Digit, with next-generation batteries manufactured by Nyobolt."
+      "headline": "Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEJnYTYwSXhRcktaODc0anJBWU5WcUYzV1gzVnFOT0wxWlVLS3RPTGYwRGVMX3dpNHphVU9tTXlUcUkwdFhUV2g1SVhOM2NCdkVJTGZHSHJORXF3ZmJnMk11VkFyaUhhNG5ZVk5NS0dQcmw0VVhkZW85ZTVnR2hVcW9qVGZyNVhVMGRXWVdpdVYxTWhPNV9WcVFKMDVNMnNTY2E3UjgtNVBFVXZQTi1IWFRVQ0N1UQ?oc=5",
+      "pub_date": 1792460535.0,
+      "article_url": "https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2025/02/LaserWeeder-G2-600.jpg",
+      "description": "The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally."
     },
     {
-      "headline": "Unitree's new system lets operators change robot dance moves with text",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGVMNVpEX1BDeE1ucmo1VERXOG1IOWlLNllOM012UXNURUJ0anJZeXJPSHV6Wkw3NHdzaGszWVJLd2ZFZkZVUVR0LWVMOFBzaHR0NFJjTVBIcHAxQl90cVdKUWtZTGZPYWJULWhYUkM1R2dVLWVadGJDNFdLUktWUWlTUHZObEcwejhFV2dsY0dENTR2cmpOX3RtOXpWQ0xONUE?oc=5",
-      "pub_date": 1792408380.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/unitrees-model-lets-operators-choreograph-robot-teams",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-54.jpg",
-      "description": "Unitree's UniUni combines AI choreography, natural-language commands, and real-time monitoring to coordinate robot performances."
-    },
-    {
-      "headline": "This New Motor Could Be A Game Changer For Humanoid Robots And Wearable Tech",
-      "source": "BGR",
-      "source_url": "https://www.bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVG9QRHlHcmw4Ml92NXB3YkItcldLSU5yZThSZTg4MUhmY29IYXhNSkJlbHN2VWVxS0NHeDJuTE1vX1NrQVNqbW1TblBvQ0hFdUNZVXZTU1ViX2JtcDNLQ3E1WE8tS0dWekZDdG9JNmlQR2M0WndqWWhpS2VaUWUtalNXbWtQVnNI?oc=5",
-      "pub_date": 1792439220.0,
-      "article_url": "https://www.bgr.com/2290693/fibermotor-game-changer-humanoid-robot-wearable-tech/",
-      "image": "https://www.bgr.com/img/gallery/this-new-motor-could-be-a-game-changer-for-humanoid-robots-and-wearable-tech/l-intro-1792433587.jpg",
-      "description": "The new FiberMotor, developed in Switzerland, is as thick as a human hair, but can bend around body parts, such as robot hands or clothes."
-    },
-    {
-      "headline": "OpenAI is building its own humanoid robots, with Sam Altman targeting a first demonstration in 2027",
-      "source": "Ynetnews",
-      "source_url": "https://www.ynetnews.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44ek1JWS1QWVU2MlBZUnRObUU5SXJodXBtU1ZhTEprbE9XZEZTMnphLUZGOXVoU0hDeVoxS3ZlQUh4TFgyajA3U2tVNmJkU2ZMWU1xYTNjcXpYN0t3S1dnM0ZvMnJvQy1XOGR6NA?oc=5",
-      "pub_date": 1792488175.0,
-      "article_url": "https://www.ynetnews.com/tech-and-digital/article/sjf4g3nngx",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/B1sBqFYqMe/B1sBqFYqMe_1_208_2000_1126_0_large.jpg",
-      "description": "Sam Altman confirms OpenAI is building humanoid robots and plans an impressive demonstration in 2027; the company is recruiting hardware specialists to pursue factory and data center work, but has yet to unveil a design or commercial launch date"
-    },
-    {
-      "headline": "Humanoid robot pushes 77-pound loads and lifts 44 pounds in new demo video",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDdQSEJCd3V3aHBtR0pjOTl1aUR6NEdYTkUtaXVRU3RuLXl1aFJFeW5iWnRXOWpHUVdqWlRXY0FoNnpXeGFkUUgtMUhfcU5hMDBSZ0dkY1VaTUpYOXM2MDhEbjFRUGgyaE9UV0FTZUdoRFNhQUk1OVVBeC1ReDRfbVpXT3BOcnBaaFRUSl9n?oc=5",
-      "pub_date": 1792490520.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-pushes-77-pound-objects",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-12.jpg",
-      "description": "KAIST's Humanoid v0.9 pushes 77.2-pound loads and lifts 44.1 pounds using visual feedback and learning-based control."
-    },
-    {
-      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdjU2Z01ZMmcxNnFncU5YcC1wbVVkMHJZeF9ISmUtcm1UYXAxQUtZamV0M1BSRjNSX1l2cDdMTk1WcXFsaHI1ZGx0YnVmZUMzcXRhX1FZWEFCNWEyZEdCQXl5bGFud1hqY0o3WURSNnU5VHJYT29WbXdVV0lWa0F4T3IzaW85ejctd2VUd05nS3BEb3VmNmREX0ZPY2ZXX2VZM3pVdERsVUgwOEVIWThja3QxQXFpMDdTWWU5RWdhMVBoZ0E?oc=5",
-      "pub_date": 1792413000.0,
-      "article_url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
-    },
-    {
-      "headline": "Robot AI predicts future scenes to guide its next moves",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15M3lkNUZFZWhvVThnelkxYWNpaUZkTGRzS3Jfdi1hLXdvSXVwNTdJb0RRNmNBd1FXSGxGZHhiZ0l4N2ktQVhWZ045Um41a2FXdDlhdE50cnA0bWVrQmdWaTJrMU5GMmhjdUpPQXFSZEc?oc=5",
-      "pub_date": 1792444801.0,
-      "article_url": "https://techxplore.com/news/2026-10-robot-ai-future-scenes.html",
+      "headline": "Intel Asks FCC to Allow Upgrades for Banned Foreign Robots",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenc1LTJmaE1GRHozaXBzcWlXV3M0UFMtcHFWa05JN1Z2a1JUMW9Mby1McWpsd1BKcU1NNTNqVktJNHlYcjJrRFRxZDhhU1RVOU1GeE9NYk1wR01XU2lmWjJkaHRyYjB1SXdWU0lqbXNfRHpNQTdGY1ZyR0h5R191OWVuMlFOUVB4RmM3UHVwWi1NMmwyeXZfM0RxMUZya3BXTXUxamdlSDdENmUyR1NpUnY4QQ?oc=5",
+      "pub_date": 1792444012.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/intel-asks-fcc-for-upgrades-to-banned-foreign-robot-technology",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "U.S. clients are co-developing an AI-powered station to wash and groom dogs.",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnF2NTJPOFNaQmhMUDZWYm9KOHRLclZqVFhkT2k4VHpBdExJSDFTNWVNZ2xVWUNPVksxMWthVHVPRVNLWGd4VEtoQkVyampJMlBlMkE0S0RTZWdjMUtLMm9KRF9qaHJLQk91OW93WmRlWERLY2djM3FWdVBTWGttTVlBWjBRbm13UXhGV1FwdFdzUlRCRm10X0lsTzR4Z1RKQVZkcUt6MmJ1WnIxZUZnOWZ5cHBtbGxI?oc=5",
+      "pub_date": 1791961200.0,
+      "article_url": "https://www.stocktitan.net/news/GMEX/gmex-robotics-announces-media-meta-s-u-s-ai-powered-autonomous-zk829ekey1np.html",
+      "image": "https://www.stocktitan.net/news_covers/GMEX_Robotics_Announces_MediaMeta_s_U_S_AI_Powered_Autonomous_Grooming_Project_and_Patent_Filing_1519007.webp",
+      "description": "MediaMeta submitted a U.S. patent application; the grooming station remains in development, with commercialization subject to testing and client acceptance."
+    },
+    {
+      "headline": "Smart Hands, Human Touch: Neurotech Tightens Grip On Robotics Market",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWEdiUkx4d1hsMEJXVUZESmI0SDNHb2t4azNjcWVLUmFDYjN3ajRoSzZ3Umxaa25NUXJZX3FkUGozeHJqaUUzYVkyVldyRjVtZVNaSk1GSmREUzZYSkZHTlBOVFk2dXlwMGVFY19uU3N1ZkE1V0dUZ2pwNDZsWFRvN3lmUXVjV3lldUNSTGNkNW1UdnllZ1FBSXVJcy1FV0NDQzRlMW1Jei1DT3puM2YyRzM2RUphRFhy?oc=5",
+      "pub_date": 1792508190.0,
+      "article_url": "https://www.forbes.com/sites/naveenrao/2026/10/20/smart-hands-human-touch-neurotech-tightens-grip-on-robotics-market/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robots allow us to gather more intelligence: Gecko Robotics co-founder",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uRFRNUmZiT3k0bVRzUHhSMk9ZMTl4b05KQnVWT0dNQk9oWm1GbTI0Y0lMeEttZmtpM0doV0FvY2tWNnhEMUNFMUN6a1czRzFCVDJySVNtT2ZEeG8?oc=5",
+      "pub_date": 1792497875.0,
+      "article_url": "https://www.foxbusiness.com/video/6407129449112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/790afbec-38d5-4ee6-a4b7-d13bf34f5a8a/35450530-3523-40c3-9b8c-f870ab9c5d2a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Taylor Riggs hosts Gecko Robotics co-founder and CEO Jake Loosararian to discuss the company's expanded $300 million Navy contract. He explains how AI and robotics help outsmart adversaries and ensure warship readiness."
+    },
+    {
+      "headline": "Robotic arm with artificial skin senses touch across its limbs",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORk5mSUhEVExJSHVMa2pLTDhreEhIdHhuVG4xUFdLcVREZHpnbWdPdzgza2Z0YXpiVnlQcUY2aDk0ZGFTSW1Gd2xLZ3p1dTlRM2pFMFRVcVRPcW9MdkMtMDFyQ3BZY2YydHF6ZHVrWlhXLWJUOVRQcVVoTzhydEhsWDQ0dHBSUVE?oc=5",
+      "pub_date": 1792420260.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/robotic-arm-artificial-skin-emarm",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-55.jpg",
+      "description": "Honk'g Kong University's EmArm uses optical tactile skin to sense touch, manipulate objects, and avoid obstacles in real time."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T11:00:51.595921+00:00"
+  "fetched_at": "2026-10-20T15:44:56.833904+00:00"
 }
