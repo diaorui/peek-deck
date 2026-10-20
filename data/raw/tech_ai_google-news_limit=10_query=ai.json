@@ -5,44 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Should you trust personal AI agents with your money and data? Here's what experts say.",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTXliZWY5b05tT0JaX0E1TjI1eWZNVjBWMzhqSTF5M2NDMEtLazY2VS0xclczUnV0R0RTYmQxMXpxSXJtaW9UN3NCTUgzekNQUGF2QTUyTTNSQ0RLekU1alFJUkpJNU1mY3F0OW9QQzFjWWU0N1prMw?oc=5",
-      "pub_date": 1792440700.0,
-      "article_url": "https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/19/4069725f-adbb-4ddc-a87f-c6ee4f540516/thumbnail/1200x630/b0d6559f205fdb7c7a769773026a11b1/gettyimages-2299665210.jpg",
-      "description": "The more access you give personal AI agents, the more capable they can be. But should you trust them?"
+      "headline": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5",
+      "pub_date": 1792449000.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "image": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d3a0fd408476c79d9c0e98ffa27a054",
+      "description": "System can estimate a person\u2019s biological age and predict chances of cancer survival from a single photograph"
     },
     {
-      "headline": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
-      "pub_date": 1792433734.0,
-      "article_url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
+      "headline": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3Brem5aVVZIZDRCdnRqQWhHbE50Sy1CT1hmLTB5WUo1cnNJN21Odi1OZU1tN25LbzZZVEJNWGVkS1h2WF9kM2lwWFo2eUdpVDFoTmpKUXhQM0JUZmZMMGVQdXR1aFVCQmhrWFhIMFFPNjZheGdLTVdtYzZlWW5HT2pMVmVMTThnWUl2Z2tRWFlGbFJMMWd4b1U3WmVQaWUzb2pKSGE2WjV1MDdzT3RMcTZfR3lCR3hFYjNtekpoNFdocmR5aWfSAcsBQVVfeXFMTmR1NkxTcV80dFlwZklCVGswSGxtMWZnX3RFWEpLR2wwd0xqQUh0R2xZUHIwU2k2VDZrVWNncjlXVm51cWo1dlFJRW5jWUxQa0Z1a1ZFZHU1RlJqSU1weWRURkV2NWJucUQzX1VGN0N5WDkyaGNXNHdlNlJPaFpTVGY0aFpvaEctWjQ3eFVQSXVMMmFfOXBnMWRaYXRwcnRlbXlyV2R1R1pUTjA2MEp1WjdyZTFuMjBpRm9FLW9xVmJsbl9ueko3aVRMa1U?oc=5",
+      "pub_date": 1792431955.0,
+      "article_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
+      "description": "An exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating."
+    },
+    {
+      "headline": "Altman Describes Three Endgames for AI, Including One Where a Single Firm \u2018Melts Everyone Else\u2019s GPUs\u2019",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUFiX0dWX2hQMnh6dE1sME5MeWdsa1hDc2MwNjhoSVlxRW8wZEoxRHlBZTV0MFBSYnBmQmRRQ2xPcTIza3BodTVfR3paX2lyOFQweDNadTgzdmVCdWFBMlNJYWZnZkJzd2VJd1lkSXlRZnNGRU13VXFwWjdCR2ktMDN3LS1yX0p0dWQzdHIxdHlxSEVkU1VkTkk1Wnd4OGk2VS1lc3hLZ29wWUloREZLUUNLdnkta1RJRUZrckdFX045dGQz?oc=5",
+      "pub_date": 1792453620.0,
+      "article_url": "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus",
+      "image": "https://tii.imgix.net/production/articles/18011/6a510452-c22a-49d7-8ff9-318c9e2c9c02.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "OpenAI CEO Sam Altman last week told employees about three proposals the industry has discussed for how to safely develop AI, a stark framing that comes just as the Trump administration sets up its first system for policing \u201csuperintelligence\u201d developers like OpenAI. One path involved developing ..."
+    },
+    {
+      "headline": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5",
+      "pub_date": 1792438439.0,
+      "article_url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-scaled.jpg",
+      "description": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany\u2019s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA\u2019s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive [\u2026]"
+    },
+    {
+      "headline": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnpMZHVmVzkxS2JvN3J4SVlxTGJVVWVJUWRvSUJyd0REZHpFRmVPVXB5aWw4dHVzRjN0X0dlaTFINXRzYm5RbFBuRUVVZnVORWEwM2gyWDlpN0FJWlZ6ZFdrcE5qSzF1TG9qc2Q0bDJBN0xuSDNPWEpYcmdPeDNrZFNhM2U0RFAyVEgwNDVzTGJUMW9BNTgyV1lMNmgzVVRSUGZVWkhiOXdJbTJDQWNoUGx4a29QWmpPdTNjVVI5OGdWQQ?oc=5",
+      "pub_date": 1792450749.0,
+      "article_url": "https://apnews.com/article/jensen-huang-nvidia-merz-germany-economy-artificial-intelligence-f024c1e0d181677a19468657907a9025",
       "image": null,
       "description": null
     },
     {
-      "headline": "As AI dominates conversations, here are key terms to know",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUTNoVmZ5aXdxUlRxa3otUWZzaEg0NTdfSndITmJNTVZsY2pvdEtBcGFielBGSUdHTzhmUzFXMHRmYjNQaWc4a1kyT0JfclZ5WlU3bGtBOFdqSTJwdnA4TjgyQmJUMkRMVFNRSXhuT1BfSW85Z1d0VUFlSjlHaDA?oc=5",
-      "pub_date": 1792443224.0,
-      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-terms-definitions/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/84ca990e-f04a-4be0-a337-bf92916ce104/thumbnail/1200x630/9a002f320c1537c3cd18e906ba8a5619/gettyimages-2017676996.jpg",
-      "description": "Artificial intelligence and the conversations around it are rapidly evolving. These terms can help to understand the developments."
+      "headline": "Jensen Huang\u2019s \u2018Digital Brains\u2019 Rant Is\u2026 Concerning",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOei1tWU8yNUQyNEJvVjBKSmpZWE5FN2QtcmhPYkZ0b0I3cFdNWlBvZmVWTTZzTS1EUGJ6SHM2MEVKUUJOQy1xRVpIQkVhcVptNFBDcU1IVjBFUUNVeFhlOUFsWXhUOEZzVjlsajIzdnVQMzREMWktMGNVWDdZOHJuMUx2a3o?oc=5",
+      "pub_date": 1792453631.0,
+      "article_url": "https://gizmodo.com/jensen-huangs-digital-brains-rant-is-concerning-2000827917",
+      "image": null,
+      "description": null
     },
     {
       "headline": "The AI doom scenario you've never heard of may be the hardest to stop",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5",
-      "pub_date": 1792439052.0,
+      "pub_date": 1792423980.0,
       "article_url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2871e3cb-c135-4878-a8f1-162a5c627aa4/thumbnail/1200x630/37172b2d82439afb580652162c72b471/gettyimages-2213179432.jpg",
       "description": "The time to prepare for \"gradual disempowerment\" is now, according to researchers. One calls it \"a civilization-scale problem.\""
+    },
+    {
+      "headline": "AI stocks lead a rebound on Wall Street as European markets drop following protests",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXpsQTBIVTFZNVR4LVdWd2pmbHBUa18tWGRnZmFqVXFvN1dCaW9vTmRxcXNOVVZFNENxTjl2d3lTTXV3TU9aRkxhUzJSNWI5SlFyY1ZoazVBakQwN2VWVzdvYnQ3RU0zQWFjYzA5ZFJ2bFFQeHhYQTRHUTBxcFlHUXQzMV8xMEpTMmR6bA?oc=5",
+      "pub_date": 1792443060.0,
+      "article_url": "https://apnews.com/article/stocks-markets-oil-us-ai-494fbe4361a0360b2f6368e7a6d8f058",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Investors are buying on Monday despite fear the AI trade nightmare scenario is far from over",
@@ -55,56 +95,16 @@
       "description": "Here are the key things investors need to know to start the trading day."
     },
     {
-      "headline": "Intel leads chip stocks higher as investors jump back into AI trade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEt3a3NfQVIwNnB5bDRyMWtCdU1fVjN6YXlGOFhwVF9VdWhhVW5aSi1lTzZPSVdFVUhrOFJJWXJpM29yOEVXVWwzWVRDalJHREZqMkVsS0prYjJtYXROOGh0ejdwY2JzclFTNk1EVE9BSVdWejd6RnBJa2Z6azJFdEhYdS1UMWdmSGFKYzBtLVJ5RlYxcWQxRUZzdllGUXNibUNCNnh0VmlSdmZWNjA2QjVOQ3VuaWFwTE8wX0ZiYVRpQQ?oc=5",
-      "pub_date": 1792441405.0,
-      "article_url": "https://finance.yahoo.com/markets/article/intel-leads-chip-stocks-higher-as-investors-jump-back-into-ai-trade-135726553.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/60b37a27bbce18f41aff8e857ae6068e5603dc0f8b947a006a20fe15534ed1c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F534d965d-af13-4ebd-8d0f-29221e8a12cb",
-      "description": "Semiconductor stocks jumped on Monday."
-    },
-    {
-      "headline": "AI stocks lead a rebound on Wall Street as European markets drop following protests",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2FrU2lfd0J4Y0h5MlAyczJnU1h1bTVLdEs5TGRBbFlJcGMzUVJQVDNXbnEtZlh2VWRoNmtMZEdwUWJfV29mMFZkQ3UtRHVpRUFlNmtDMWNzdEtDTG9iaG5GSG4waHBFTE8tQjlCelJlT1AxamMzUVpDX01sX2gweU4tUDlZMWtUOTRhay1kWjRpdmx2QnVVNGxFTEswaWRlb0xEMGxWZ1lxUHJ2UUZNOHg2ZExFT3A5TXBQaDZjaGVqbDMzcmtRdUNRUQ?oc=5",
-      "pub_date": 1792442100.0,
-      "article_url": "https://www.latimes.com/business/story/2026-10-19/ai-stocks-lead-rebound-on-wall-street-as-european-markets-drop-following-protests",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/27239b3/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2Fc5%2Fba22441e42948afc9e975f2fc33b%2F24edabc7b0ee445dac2e818318e52553.jpg",
-      "description": "AI stocks recovered some of their steep losses from last week, but the rest of the market and stocks worldwide were shaky"
-    },
-    {
-      "headline": "What separates the AI leaders from the laggards",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3VucG9UVDMxTmVZNGs4eUVSUE93d2lNeDA5SlZFOWxHNEo4VncxYmJGWmF2UHlpTDMzZHhHMGVqLThrTnROLU1aTVpCcC1WOXl4TlJLUzJxbm43VF9DQWlsWGRvN0lleDFaQS1QVy1jQmVwVDEtRGFHcDRUR3hfTE1XSE8tSUVpcFd2bw?oc=5",
-      "pub_date": 1792443222.0,
-      "article_url": "https://www.fastcompany.com/91624734/what-separates-the-ai-leaders-from-the-laggards",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/10/FCIF-DAY3-260917-1397.jpg",
-      "description": "Too often, the biggest barrier to transformation isn\u2019t the technology\u2014it\u2019s the business itself"
-    },
-    {
-      "headline": "Anthropic, Musk outline dueling approaches to AI-era philanthropy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
-      "pub_date": 1792347480.0,
-      "article_url": "https://www.reuters.com/business/anthropic-commit-5-stake-new-public-benefit-fund-2026-10-18/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "headline": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YejV2dXEyYXpFUWJkMzZlMmVTczlHREhYdW5yT2dhbEplTFpBRnlvamlEaEFqWVJzdXhMOEdsVWx3OHhVU0d5dVVLckVtRl9FOHBzSzhKOE1oeGc4bVlsaDYzVzE1UUFHYlI2SHNEYzVXWUllSjV1MtIBfkFVX3lxTE5YWlRXWDhCbm01QjlQVHZKb21HV1FlZGNyQzlRVVV5MUFEal9jLXlwbFVJYU5CajJVcGwzQ0NxeWVXMl8yX0pqbENNQ3RmbU92VWpSTl9KeDFKNHdTa3VaX3BEVl92WTdiczlURW9WWmZZbm81ZDFlWnRoZXdoQQ?oc=5",
-      "pub_date": 1792364148.0,
-      "article_url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
-      "description": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used."
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jU1pLLTk4dUVFbEJCeGM1QjI3OXlSZ3R4V2tyVmJnRzdybXFSNmV3ZGFtLThyZmpmRTZIOW5HSGYtdHVSRDUtUjM1ZUVSdXVWMU93c0llNm90TWR3dEd1YnNfTF9jWnpUNVlPa1l2czhCX0hSeGwzNnVNRi13UdIBgwFBVV95cUxPNUtzYzdvbjB4amQ0bE0xSGFFaVlsRXhxa1FPbjhtajNKZFV0VHdOakxtaFQwbmQ3eEt4QjlHQkZTWEtBUENma1B0WUdlYmg5Wmw3YmppVkpDRUR1am13VmtXSWFmaW9rM2ZmN04wV19EQUJoSTJrWGhoam9ya2ZfdnNpTQ?oc=5",
+      "pub_date": 1792449993.0,
+      "article_url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107109969-NUP_198430_00200r.jpg?v=1694042675&w=1920&h=1080",
+      "description": "CNBC\u2019s Jim Cramer warned investors against rushing back into AI stocks quite yet."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-19T21:21:25.491919+00:00"
+  "fetched_at": "2026-10-20T00:31:24.249332+00:00"
 }

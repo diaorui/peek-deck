@@ -9,7 +9,7 @@
       "url": "https://sphinx-six-theta.vercel.app/",
       "hn_url": "https://news.ycombinator.com/item?id=50137950",
       "author": "critiquebrowser",
-      "points": 250,
+      "points": 252,
       "num_comments": 89,
       "created_at": "2026-10-18T04:33:49Z",
       "object_id": "50137950",
@@ -17,6 +17,20 @@
       "description": "A Git hook for agent-assisted development. Before your agent\u2019s code ships, Sphinx asks you a question about what it actually does.",
       "favicon": "https://sphinx-six-theta.vercel.app/icon.svg?icon.13s600nbfoigp.svg",
       "site_name": "sphinx-six-theta.vercel.app"
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "hn_url": "https://news.ycombinator.com/item?id=50151036",
+      "author": "rzk",
+      "points": 238,
+      "num_comments": 375,
+      "created_at": "2026-10-19T11:24:34Z",
+      "object_id": "50151036",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     },
     {
       "title": "Amazon uses AI to monitor union risk in UK warehouses",
@@ -52,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50141657",
       "author": "evolve2k",
       "points": 153,
-      "num_comments": 148,
+      "num_comments": 149,
       "created_at": "2026-10-18T14:58:10Z",
       "object_id": "50141657",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -65,8 +79,8 @@
       "url": "https://100toolkit.com/blog/deslop-model/",
       "hn_url": "https://news.ycombinator.com/item?id=50151928",
       "author": "erikkannike",
-      "points": 139,
-      "num_comments": 105,
+      "points": 145,
+      "num_comments": 107,
       "created_at": "2026-10-19T13:00:47Z",
       "object_id": "50151928",
       "image": "https://100toolkit.com/blog/deslop-model/og.png",
@@ -75,26 +89,26 @@
       "site_name": "100toolkit.com"
     },
     {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "hn_url": "https://news.ycombinator.com/item?id=50151036",
-      "author": "rzk",
-      "points": 125,
-      "num_comments": 219,
-      "created_at": "2026-10-19T11:24:34Z",
-      "object_id": "50151036",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
+      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+      "hn_url": "https://news.ycombinator.com/item?id=50147462",
+      "author": "Stratoscope",
+      "points": 103,
+      "num_comments": 84,
+      "created_at": "2026-10-19T01:56:39Z",
+      "object_id": "50147462",
+      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2851908399_cropped.jpg?w=1600&h=900&fit=crop",
+      "description": "Chicago O\u2019Hare uncovered a 50-ton boulder during expansion work. Now, the public can vote to name the giant rock from six finalists.",
+      "favicon": "https://simpleflying.com/public/build/images/favicon-240x240.png",
+      "site_name": "Simple Flying"
     },
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
       "url": "https://www.vals.ai/blogs/impossible-refund",
       "hn_url": "https://news.ycombinator.com/item?id=50140462",
       "author": "DeepLogin",
-      "points": 100,
-      "num_comments": 120,
+      "points": 101,
+      "num_comments": 122,
       "created_at": "2026-10-18T12:22:58Z",
       "object_id": "50140462",
       "image": "https://www.vals.ai/blogs/2026-10-15-impossible-refund/hero-vals.webp",
@@ -117,20 +131,6 @@
       "site_name": "Live and Let's Fly"
     },
     {
-      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-      "hn_url": "https://news.ycombinator.com/item?id=50147462",
-      "author": "Stratoscope",
-      "points": 63,
-      "num_comments": 55,
-      "created_at": "2026-10-19T01:56:39Z",
-      "object_id": "50147462",
-      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2851908399_cropped.jpg?w=1600&h=900&fit=crop",
-      "description": "Chicago O\u2019Hare uncovered a 50-ton boulder during expansion work. Now, the public can vote to name the giant rock from six finalists.",
-      "favicon": "https://simpleflying.com/public/build/images/favicon-240x240.png",
-      "site_name": "Simple Flying"
-    },
-    {
       "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
       "hn_url": "https://news.ycombinator.com/item?id=50152877",
@@ -145,7 +145,7 @@
       "site_name": "The Verge"
     }
   ],
-  "total_hits": 472,
+  "total_hits": 480,
   "has_metadata": true,
-  "fetched_at": "2026-10-19T21:21:02.994315+00:00"
+  "fetched_at": "2026-10-20T00:30:53.594486+00:00"
 }
