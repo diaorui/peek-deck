@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-20T15:44:58.553171+00:00'
+updated: '2026-10-20T19:51:40.155546+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 20, 2026 at 15:44 UTC  
+**Last Updated:** October 20, 2026 at 19:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +0.8%  
-**30d:** -12.2%  
-**90d:** +29.7%  
-**1y:** -36.9%  
+**24h:** +1.6%  
+**7d:** +0.9%  
+**30d:** -12.1%  
+**90d:** +29.9%  
+**1y:** -36.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.59B
+**Market Cap:** $297.74B
 Rank #2
 
 **Circulating Supply:** 122,151,332 ETH
@@ -62,7 +62,7 @@ No max supply
 -50.7%
 
 **All-Time Low:** $0.43
-+562666.3%
++562858.0%
 
 ---
 
@@ -126,7 +126,7 @@ The model independently determined that using valueless testnet ETH from a publi
 
 Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement) • 3d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement) • 4d ago
 
 ---
 
@@ -150,27 +150,25 @@ ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster
 
 ## Google News: "ethereum"
 
-**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
+**[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
 
-JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
-
-J.P. Morgan • 17h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Ethereum ETFs lose $103M as Bitcoin ETFs gain $527M ahead of Fed meeting, risking ETH price drop to $2,300.](https://pluang.com/en/news-feed/prediksi-harga-ethereum-blackrock-rugi-95juta-dolar-aset-etf-eth)**
+**[Ethereum Just Closed Out Its Best Quarter Since 2021. If History Is Any Guide, This Happens Next.](https://finance.yahoo.com/markets/crypto/articles/ethereum-just-closed-best-quarter-155100179.html)**
 
-Ethereum exchange-traded funds (ETFs) saw $103.3 million in outflows on October 19, led by BlackRock's ETHA, while Bitcoin ETFs attracted $526.7 million, highlighting a strong investor preference for Bitcoin over Ethereum. This outflow trend has pushed Ethereum's price below $2,500, with a potential downside risk to $2,300 before the Federal Reserve's policy decision on October 28. Despite weak institutional demand, Bitmine Immersion Technologies continues accumulating Ethereum, holding over 6 million ETH tokens. The market remains sensitive to macroeconomic factors, and Ethereum's price could either recover to $2,500 or fall further depending on ETF flows and Fed policy outcomes.
+Over the last few years, marking a strong third quarter hasn't translated into strong returns afterward.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Deutsche Bank and JPMorgan expand Ethereum use for institutional crypto services](https://pluang.com/en/news-feed/deutsche-bank-jpmorgan-bangun-layanan-institusional-ethereum)**
+
+Deutsche Bank is launching an Ethereum-based digital asset custody service for institutional clients in Germany, covering assets like ETH, BTC, and euro stablecoins, pending regulatory approval. Meanwhile, JPMorgan has moved its JPM Coin to Ethereum's mainnet, enabling on-chain payments and peer-to-peer transfers within the Ethereum ecosystem. These moves signal growing institutional adoption of Ethereum for liquidity and asset tokenization, offering more regulated access to crypto for large investors. Key developments to watch include Deutsche Bank's regulatory approval and service expansion across Europe, and JPMorgan's shift of transactions to public Ethereum networks.
 
 Pluang • 2h ago
-
----
-
-**[Ether.fi Mandates Optimum’s mump2p for All Its Node Operators](https://finance.yahoo.com/markets/crypto/articles/ether-fi-mandates-optimum-mump2p-153000370.html)**
-
-The MIT-born startup says 16 node operators now run its mump2p software on Ethereum mainnet for more than 1.4 million ETH in stake, and that blocks arrive faster than over Ethereum's default gossip layer.
-
-Yahoo Finance • 14m ago
 
 ---
 
@@ -178,7 +176,7 @@ Yahoo Finance • 14m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 6h ago
 
 ---
 
@@ -186,15 +184,13 @@ Fortune • 3h ago
 
 JPMorgan launched JPM Coin on the Ethereum mainnet, yet ETH dropped 4.2% in a week. Discover what this launch might mean for ETH demand.
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 6h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, October 20, 2026: Crypto prices slide and oil costs soar as Mid-East attacks persist](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-october-20-2026-crypto-prices-slide-and-oil-costs-soar-as-mid-east-attacks-persist-114152288.html)**
+**[Ethereum, Solana, HYPE Growth Isn’t Lifting Staking Yields: Bitwise](https://www.benzinga.com/crypto/cryptocurrency/26/10/62479098/ethereum-solana-hype-growth-isnt-lifting-staking-yields-bitwise)**
 
-Bitcoin opened at $81,844.43 on Tuesday, October 20, 2026, down 0.2% from Monday's open. As of 7:31 a.m. ET this morning, bitcoin fell to $81,405.30. Ethereum opened at $2,405.06, down 0.2% compared to Monday's opening price. The price of ethereum edged lower this morning to $2,384.13 as of 7:31 a.m. ET.
-
-Yahoo Finance • 4h ago
+Benzinga • 1h ago
 
 ---
 
@@ -202,7 +198,23 @@ Yahoo Finance • 4h ago
 
 Over the last few years, marking a strong third quarter hasn't translated into strong returns afterward.
 
-The Motley Fool • 6m ago
+The Motley Fool • 4h ago
+
+---
+
+**[Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says](https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says)**
+
+Bitwise reports 43.8 million ETH held by active validators in Q3 2026, or 35.9% of supply, as Ethereum and Solana staking yields declined.
+
+The Defiant • 2h ago
+
+---
+
+**[Ethereum prediction: 1.16M ETH in the staking queue](https://cryptoticker.io/en/ethereum-price-prediction-staking-queue-20-days/)**
+
+1,155,535 ETH wait 20 days for a staking slot, only 174,282 want out. What the asymmetry means for the ETH price and the $2,500 hurdle.
+
+CryptoTicker • 1h ago
 
 ---
 
@@ -210,26 +222,7 @@ The Motley Fool • 6m ago
 
 @Onchain Lens 8380 Views
 
-Moomoo • 7h ago
-
----
-
-**[JPMorgan Chase (JPM) Puts JPM Coin on Ethereum for Institutional Payments](https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-puts-jpm-coin-on-ethereum-for-institution)**
-
-JPMorgan Chase (NYSE:JPM) has extended its JPM Coin payment system to the Ethereum mainnet, moving beyond its private Quorum network.
-The USD-backed deposit token will now be available to institutional clients on a public blockchain infrastructure alongside existing permissioned rails.
-JPMorgan is positioning the Ethereum rollout as a way to increase interoperability and liquidity for blockchain based treasury and settlement flows.
-The expansion of JPM Coin to Ethereum fits into a broader...
-
-Simply Wall Street • 4h ago
-
----
-
-**[Ethereum Price Analysis: ETH Jumps 3% in an Hour – What Comes Next?](https://cryptopotato.com/ethereum-price-analysis-eth-jumps-3-in-an-hour-what-comes-next/)**
-
-Ethereum is struggling to hold its broader ascending structure as the price slipped toward $2.38K before rebounding to $2.46K. Renewed whale-sized spot
-
-CryptoPotato • 1h ago
+Moomoo • 11h ago
 
 ---
 
@@ -237,23 +230,23 @@ CryptoPotato • 1h ago
 
 ## YouTube Videos: "ethereum"
 
-**[HUGE! JPMORGAN BANK MOVES JPM COIN ON ETHEREUM! BLACKROCK&#39;S NEW BITCOIN ETF! XRP LEDGER LENDING!](https://www.youtube.com/watch?v=Cc2Z_5k8fdU)**
-
-Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPMorgan brings JPM Coin, representing dollar ...
-
-📺 Thinking Crypto
-
-👁️ 19K • 👍 685 • 💬 111 • ⏱️ 19:54 • 13h ago
-
----
-
 **[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
 
 Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 203 • ⏱️ 9:32 • 15h ago
+👁️ 64K • 👍 2K • 💬 206 • ⏱️ 9:32 • 19h ago
+
+---
+
+**[HUGE! JPMORGAN BANK MOVES JPM COIN ON ETHEREUM! BLACKROCK&#39;S NEW BITCOIN ETF! XRP LEDGER LENDING!](https://www.youtube.com/watch?v=Cc2Z_5k8fdU)**
+
+Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPMorgan brings JPM Coin, representing dollar ...
+
+📺 Thinking Crypto
+
+👁️ 21K • 👍 712 • 💬 126 • ⏱️ 19:54 • 17h ago
 
 ---
 
@@ -263,7 +256,7 @@ Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally o
 
 📺 Yahoo Finance
 
-👁️ 25K • 👍 505 • 💬 59 • ⏱️ 14:51 • 22h ago
+👁️ 28K • 👍 540 • 💬 60 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -273,7 +266,7 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 19K • 👍 451 • 💬 30 • ⏱️ 2:31 • 1d ago
+👁️ 21K • 👍 470 • 💬 33 • ⏱️ 2:31 • 1d ago
 
 ---
 
@@ -283,17 +276,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 149 • 💬 8 • ⏱️ 8:07 • 19h ago
-
----
-
-**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
-
-BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
-
-📺 Elijah Cheng
-
-👁️ 5K • 👍 77 • 💬 29 • ⏱️ 24:29 • 1d ago
+👁️ 7K • 👍 155 • 💬 8 • ⏱️ 8:07 • 23h ago
 
 ---
 
@@ -303,17 +286,17 @@ ETH deep dive looking into the fundamentals behind the project. Does Ethereum ha
 
 📺 BTDcrypto
 
-👁️ 111 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 1d ago
+👁️ 113 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 2d ago
 
 ---
 
-**[&quot;Black Monday&quot; Fail, BTC charts, Ethereum problem, &amp; Elon Giving Away SpaceX](https://www.youtube.com/watch?v=a2dJAhL0c24)**
+**[Starknet Vote: 99.9% Back Exploring an Exit From Ethereum. Why?](https://www.youtube.com/watch?v=llDo-7RRXd4)**
 
-Bitcoin Charts, SOL, Ethena, Ethereum, Spacex, AMD and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
+In the Starknet vote, 99.9% of the voting power says yes to researching whether Starknet should become an independent, ...
 
-📺 Lark Davis
+📺 Gliff's Edge
 
-👁️ 19K • 👍 475 • 💬 25 • ⏱️ 1:03:23 • 1d ago
+👁️ 15 • 👍 1 • 💬 1 • ⏱️ 1:15 • 53m ago
 
 ---
 
@@ -323,17 +306,27 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 31K • 👍 552 • 💬 83 • ⏱️ 11:36 • 2d ago
+👁️ 31K • 👍 554 • 💬 84 • ⏱️ 11:36 • 2d ago
 
 ---
 
-**[Bitwise Thinks This Altcoin Could Be Worth as Much as Ethereum](https://www.youtube.com/watch?v=eXbnBnKrhfw)**
+**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
 
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
 
-📺 Milk Road
+📺 Elijah Cheng
 
-👁️ 24K • 👍 400 • 💬 46 • ⏱️ 14:07 • 2d ago
+👁️ 6K • 👍 86 • 💬 30 • ⏱️ 24:29 • 1d ago
+
+---
+
+**[Ethereum vs Solana: Why The Faster Chain Isn&#39;t Winning](https://www.youtube.com/watch?v=nDpgtKT2VqE)**
+
+Ethereum vs Solana: Solana is the faster chain, but I still think Ethereum is the clear winner. Solana has always been seen as the ...
+
+📺 Crypto Archie
+
+👁️ 904 • 👍 13 • 💬 2 • ⏱️ 0:48 • 1d ago
 
 ---
 

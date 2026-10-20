@@ -5,41 +5,41 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Kinexys Brings JPM Coin Deposit Token to Ethereum",
-      "source": "J.P. Morgan",
-      "source_url": "https://www.jpmorgan.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZNVdrSjBNMlhNRHUyN2JHTTNneDYwdjN0QVFEeFBCTW5OY0JUeXhVM0dOczQ1b2pCVEVDLW1PbDFUTnJxZU9wQ3dvR256VjJXTWlWZ1lIb1pfVTBsamoxSGNTQzEwUXIyZkpPNTRNSXoyRV84b3hr?oc=5",
-      "pub_date": 1792446722.0,
-      "article_url": "https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum",
-      "image": "https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/treasury-services/redesign/newsroom/banner-newsroom_Coin-on-Ethereum.jpg",
-      "description": "JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains."
+      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
+      "pub_date": 1792393200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Ethereum ETFs lose $103M as Bitcoin ETFs gain $527M ahead of Fed meeting, risking ETH price drop to $2,300.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZC0tMmNHRDZNUHpZZWQ4S0FnRUFTZmNXeFZDOTdXSUJuejl5VVZMWlR6dWlQdm50bUVzV1E5cWF4eGlhMVVYZlhnVm1lSV9DOS16cVRfTzBSaE9PN19Yb0lNXzVUV0h5UDU5VFhWUnNBY3ZRa2FFdUhkOG1iQjFLQ0p3X2I2cGRweXVtUGdqaDhrRjhDRHdMendqNkE?oc=5",
-      "pub_date": 1792503797.0,
-      "article_url": "https://pluang.com/en/news-feed/prediksi-harga-ethereum-blackrock-rugi-95juta-dolar-aset-etf-eth",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/0854b7b60279cb238ea53e1544ef5f233e7a2f1658232bf90ce50b295e65fea4-en.webp",
-      "description": "Ethereum exchange-traded funds (ETFs) saw $103.3 million in outflows on October 19, led by BlackRock's ETHA, while Bitcoin ETFs attracted $526.7 million, highlighting a strong investor preference for Bitcoin over Ethereum. This outflow trend has pushed Ethereum's price below $2,500, with a potential downside risk to $2,300 before the Federal Reserve's policy decision on October 28. Despite weak institutional demand, Bitmine Immersion Technologies continues accumulating Ethereum, holding over 6 million ETH tokens. The market remains sensitive to macroeconomic factors, and Ethereum's price could either recover to $2,500 or fall further depending on ETF flows and Fed policy outcomes."
-    },
-    {
-      "headline": "Ether.fi Mandates Optimum\u2019s mump2p for All Its Node Operators",
+      "headline": "Ethereum Just Closed Out Its Best Quarter Since 2021. If History Is Any Guide, This Happens Next.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEdrcFBId2FUcGE1cndIYVVJRkhkbWdZc3hoS1FSTzNjaGdOT042bzktN2duOW40eDJfbE9LVHU0OTVVWURIRUM0ZHdPVk5fUkZ5REN4eTItOVVqWVpQNFBZLVByRjJPblNZS21PMHk4NDNFRFhrR3ZxQTFXcmNSRVRUOWhDcXU5amNXV01yWUxjU2lEQ1diLTk2SlNWQQ?oc=5",
-      "pub_date": 1792510200.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ether-fi-mandates-optimum-mump2p-153000370.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/43a923dcbba932633d42fba961081c1fac73b755e8458746a1df30bcb93ceef5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F8238447a73abd26c7c02197d97fb9164.png",
-      "description": "The MIT-born startup says 16 node operators now run its mump2p software on Ethereum mainnet for more than 1.4 million ETH in stake, and that blocks arrive faster than over Ethereum's default gossip layer."
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3lwMlB3LWI5dmNMcDV5UWNDS1FrU0k5ZUhHTlZUbVVOU05HRU1jdm4zbFIyaWt4SzZsNll1Sjd6c0JXd0diaVlFdGFveDJUUDdlNU9LV3ZqU21mWS1ZbGdRVXotaW93WEZyb1lBSUpGTW5FU293TU82NlhVZ1VYVWhwV25sYWt3QlNwUFVGNTFMR1Z6eXdGT3lRWC1WSkU?oc=5",
+      "pub_date": 1792511460.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-just-closed-best-quarter-155100179.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b9759074d23bfee3b87fe355d753421cea1ac39658f0bfb72fbaabf08b07da0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6f9a16ca906200218f120350544f3dad.png",
+      "description": "Over the last few years, marking a strong third quarter hasn't translated into strong returns afterward."
+    },
+    {
+      "headline": "Deutsche Bank and JPMorgan expand Ethereum use for institutional crypto services",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWttcndsUEt3RVBFS1Z5TGxpTXhnN2RJMzE1ck9SU1NWUGF0YnYzTnM0TGpEeE90ZnowaGh3dm5oeHg2cV9nelEtOXZlcTh2SENuLUtMNmpiLWk2RGpzZ2ZOU19HWmg5b0t6YWxld0NMbHk3VW1jUDU5ZWpUV3U3ZmtpNzI5NlZOeWJ0MTZZYnhFdzBxVnNF?oc=5",
+      "pub_date": 1792517685.0,
+      "article_url": "https://pluang.com/en/news-feed/deutsche-bank-jpmorgan-bangun-layanan-institusional-ethereum",
+      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/f3f5929d6ce5a0dac176c546732b985f7b730749a29910371a269c2dd15d9c20-en.webp",
+      "description": "Deutsche Bank is launching an Ethereum-based digital asset custody service for institutional clients in Germany, covering assets like ETH, BTC, and euro stablecoins, pending regulatory approval. Meanwhile, JPMorgan has moved its JPM Coin to Ethereum's mainnet, enabling on-chain payments and peer-to-peer transfers within the Ethereum ecosystem. These moves signal growing institutional adoption of Ethereum for liquidity and asset tokenization, offering more regulated access to crypto for large investors. Key developments to watch include Deutsche Bank's regulatory approval and service expansion across Europe, and JPMorgan's shift of transactions to public Ethereum networks."
     },
     {
       "headline": "Current price of Ethereum for October 20, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQjZXRjctR1NwY1RjSlZsN3VhU2YzTk5MSzU0dlFObXdiWEYzM3BoRWdDYnFtbWRMSTNualZhUkZRWjZ2bXQ3eGVMZlBZamx5MmJzQjMyR2N4UnhtdDVkbjlRUUNMenR2?oc=5",
-      "pub_date": 1792499653.0,
+      "pub_date": 1792503253.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-10-20-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ehtereum-Oct-20.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -55,14 +55,14 @@
       "description": "JPMorgan launched JPM Coin on the Ethereum mainnet, yet ETH dropped 4.2% in a week. Discover what this launch might mean for ETH demand."
     },
     {
-      "headline": "Bitcoin and ethereum prices today, Tuesday, October 20, 2026: Crypto prices slide and oil costs soar as Mid-East attacks persist",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRlloVU1fUWJtNGhCQkh3MEdOQUlqQnVSd0VROXI0dnY4a1hVUTBvZ1F6b0xEZi1kaVRoT1NzbndsbW41emZHNXd0c3BrQmhyVzZva1NNTENwOE04UjYxb1pZYnJUZ0ZaWGIwTW5mU2I5cERvWlE1bnkySmlHYnB2VU5rNm02UF9PTk1XSlZlN3VhVzRNa0J6U3dEa3QxSGZLWXY0UzVSZGNYZmtwcW5ib0x4YS1yaE5NVll0NTY4TURqUkJkNmhybWJrZ21fcmpHM1VZQmJZSXdnRF9qSlNHd1ZQRkk3WDQ4bEI5aG4xT0haejhuTDZMNFYyWlpObWRCVUJEdUhIRHdTOHdxVTh5VkhpWm5NMWdFb2JBMkFRT1Ffcm5Iczk4?oc=5",
-      "pub_date": 1792496512.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-october-20-2026-crypto-prices-slide-and-oil-costs-soar-as-mid-east-attacks-persist-114152288.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
-      "description": "Bitcoin opened at $81,844.43 on Tuesday, October 20, 2026, down 0.2% from Monday's open. As of 7:31 a.m. ET this morning, bitcoin fell to $81,405.30. Ethereum opened at $2,405.06, down 0.2% compared to Monday's opening price. The price of ethereum edged lower this morning to $2,384.13 as of 7:31 a.m. ET."
+      "headline": "Ethereum, Solana, HYPE Growth Isn\u2019t Lifting Staking Yields: Bitwise",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdTBneWVWdWQ0TnZZVTg2WDlBR3ViTVdSR0NRVXlXY2lqcTZBWGs2OXRhNjB4UXNrX2hlM2Vsc21aZE9FV3FJUFhESXhqU3dhWFJqaWdvMVJTMHhnZl9pRjJKTWpOaFpZWTBiNE5GWXhFbmZpYlZfOGtJWGd4bUpMZ0NxUVZlZmQ1U2QxUlY3WjFuWlhqMDRPVGk3cWotZEFMRUJXODZpUXIzTmwxbkhValZoaGVfY2tCUktYSkVWZnZiZVU?oc=5",
+      "pub_date": 1792521615.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62479098/ethereum-solana-hype-growth-isnt-lifting-staking-yields-bitwise",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum Just Closed Out Its Best Quarter Since 2021. If History Is Any Guide, This Happens Next.",
@@ -75,6 +75,26 @@
       "description": "Over the last few years, marking a strong third quarter hasn't translated into strong returns afterward."
     },
     {
+      "headline": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXh2X21sNjFuSWUya0RjYTNIVWRhWlNYWXJuUDd2d2hEc0VYT0QxNThmNzRNY3VyOG1NVW9HYzZjV25yOUVja2k4bHdQRzUwWXJ2cThRMGdRN0tUQXVhcERSV2RTaWh3dEF2S3VUX2ZqYmhRRzZ6OE1FTVA4ME56dEFOWVhIeVdVaGxYMnlIX0gtOUFmaXNjMVZqZWM4dw?oc=5",
+      "pub_date": 1792518595.0,
+      "article_url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+      "image": "https://cdn.sanity.io/images/6oftkxoa/production/75879d2a6041684d5b6f54f443de05978490fe78-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
+      "description": "Bitwise reports 43.8 million ETH held by active validators in Q3 2026, or 35.9% of supply, as Ethereum and Solana staking yields declined."
+    },
+    {
+      "headline": "Ethereum prediction: 1.16M ETH in the staking queue",
+      "source": "CryptoTicker",
+      "source_url": "https://cryptoticker.io",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0hpdDUwNnZEaEg4d2psdURCZ2JZc2NEaEpTcnZoSTE0WjQ1Z0hLV183c1Uza01EOEVXb2NSZmRJU1ViN0tPbmlSSEZFZ0FobVZLYnpkQlIzOS1vSkZkZURxWEMtSUdJZDEzckFMRFh3eDVUNGRraTRoY1N6MThCaQ?oc=5",
+      "pub_date": 1792520956.0,
+      "article_url": "https://cryptoticker.io/en/ethereum-price-prediction-staking-queue-20-days/",
+      "image": "https://d2jq4jjbn1fq59.cloudfront.net/ethereum_prognose_staking_warteschlange_20_tage_1_f12fbdd3bc.webp",
+      "description": "1,155,535 ETH wait 20 days for a staking slot, only 174,282 want out. What the asymmetry means for the ETH price and the $2,500 hurdle."
+    },
+    {
       "headline": "DRIFT EXPLOITER MOVES $32M $Ethereum (ETH.CC)$ AFTER 2 MONTHS The Drift Protocol exploiter is active again, sending at least 13.4K $Ethereum (ETH.CC)$ (~$32M) to Tornado Cash, potentially to obscure the fund trail. Still holds $224.59M across tr",
       "source": "Moomoo",
       "source_url": "https://www.moomoo.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.moomoo.com/community/feed/drift-exploiter-moves-32m-ethereum-eth-cc-after-2-months-117472324157845",
       "image": "https://ussnsimg.moomoo.com/sns_client_feed/106219307/20261020/public/NN-DataMarket/8515/2112461627039912380-photo-0b1304efa696dbcf4ceb2758712ccbd8f.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
       "description": "@Onchain Lens 8380 Views"
-    },
-    {
-      "headline": "JPMorgan Chase (JPM) Puts JPM Coin on Ethereum for Institutional Payments",
-      "source": "Simply Wall Street",
-      "source_url": "https://simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNzVNbW9MWnd2YV9qRU9pR2NTYzRxMTdzSVJ5Y0Nsc0VmNzVFSXVRYnNIYUVrT3NWa1hDSjZKXzh0TkxtMnlsTFV2VVY4UlZhYnk1aGx1NTE0SWJBRXRCTnNIMXJXUGVGWXRyOG9ZY2R5VTNlUTczVEtVZWFHY0JHUHlHSWRwM2E1SzN1dGtFdkVoRGN5Y2RJU1Q4OTJQS096cVg1T0VYMjR2OVpyV0J1U1kxcUJ0OXRRZEpObWlYMDdIcU5PVEHSAcsBQVVfeXFMUE9WdEFHRlVvQU9qX1VkYndfLUNmM0ViRnh2VzdpU0pCeGhGbmZacFpMT29mUk1sazBOeUc3dHdfc1NQNFlLLVdUX1V1MVVlb1pLY1BwM2FQUEF2OGx1UDgxWmJrenVCTGVrT2NBVXpaelBFbjVJVnk3MVpJT1FfMWJGZzluVFpoVnlxOU5sU3ZRSDktaXZpbVdfNEZfRlJvNTJSb1drTjNqSGVIQ2VkdnhTN2xDdFlLZXdvOUkxZmRXLV9PMkJ2Xy12cDg?oc=5",
-      "pub_date": 1792496121.0,
-      "article_url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-puts-jpm-coin-on-ethereum-for-institution",
-      "image": "https://images.simplywall.st/asset/company-cover/658776-card/1788996045135?w=1600&h=900&fit=cover",
-      "description": "JPMorgan Chase (NYSE:JPM) has extended its JPM Coin payment system to the Ethereum mainnet, moving beyond its private Quorum network.\nThe USD-backed deposit token will now be available to institutional clients on a public blockchain infrastructure alongside existing permissioned rails.\nJPMorgan is positioning the Ethereum rollout as a way to increase interoperability and liquidity for blockchain based treasury and settlement flows.\nThe expansion of JPM Coin to Ethereum fits into a broader..."
-    },
-    {
-      "headline": "Ethereum Price Analysis: ETH Jumps 3% in an Hour \u2013 What Comes Next?",
-      "source": "CryptoPotato",
-      "source_url": "https://cryptopotato.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGJuS3o0WWs2QVBkUHpCdF9XRGliMThaYjM1a0ttQV9QdVFNVThPSk5zVTFHZmk1QkVISTlxY203M2wyb3l1ZFVuTUFlYVgxaWpPZmxoeE85ZXJCVUo4ZW9BQWMtdDhDaFhoUDdIbUJGQXhqTTZHb3l4MDlzTDhRcGhmb0huOF9ldUdxQmhLdGU2QQ?oc=5",
-      "pub_date": 1792506900.0,
-      "article_url": "https://cryptopotato.com/ethereum-price-analysis-eth-jumps-3-in-an-hour-what-comes-next/",
-      "image": "https://cryptopotato.com/wp-content/uploads/2026/10/ETH-D-8.jpg",
-      "description": "Ethereum is struggling to hold its broader ascending structure as the price slipped toward $2.38K before rebounding to $2.46K. Renewed whale-sized spot"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T15:44:53.730981+00:00"
+  "fetched_at": "2026-10-20T19:51:37.781742+00:00"
 }
