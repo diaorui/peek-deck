@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
-      "pub_date": 1792393200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Kinexys Brings JPM Coin Deposit Token to Ethereum",
       "source": "J.P. Morgan",
       "source_url": "https://www.jpmorgan.com",
@@ -25,86 +15,96 @@
       "description": "JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains."
     },
     {
-      "headline": "JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekRsb3dLOVFsUlpGRjRxcnh4WkZGakdXOTVWeGdBTFQ0UXpNZkJNU19sa2piUE96VURzbnl6SFBiM1lWX3FYNWdoUGhUODlsS19VcVQ3cXhFMFJnR0UxS2xMbjd4d0NScXR1czRNQnV3Z1R1TUN6UC1xdk1NOUo2ZTc3OTNpc1pMN1hneFNjSUhtM2ZYaTFsaW8tbXE?oc=5",
-      "pub_date": 1792398660.0,
-      "article_url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
-      "description": "The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum."
+      "headline": "Ethereum ETFs lose $103M as Bitcoin ETFs gain $527M ahead of Fed meeting, risking ETH price drop to $2,300.",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZC0tMmNHRDZNUHpZZWQ4S0FnRUFTZmNXeFZDOTdXSUJuejl5VVZMWlR6dWlQdm50bUVzV1E5cWF4eGlhMVVYZlhnVm1lSV9DOS16cVRfTzBSaE9PN19Yb0lNXzVUV0h5UDU5VFhWUnNBY3ZRa2FFdUhkOG1iQjFLQ0p3X2I2cGRweXVtUGdqaDhrRjhDRHdMendqNkE?oc=5",
+      "pub_date": 1792503797.0,
+      "article_url": "https://pluang.com/en/news-feed/prediksi-harga-ethereum-blackrock-rugi-95juta-dolar-aset-etf-eth",
+      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/0854b7b60279cb238ea53e1544ef5f233e7a2f1658232bf90ce50b295e65fea4-en.webp",
+      "description": "Ethereum exchange-traded funds (ETFs) saw $103.3 million in outflows on October 19, led by BlackRock's ETHA, while Bitcoin ETFs attracted $526.7 million, highlighting a strong investor preference for Bitcoin over Ethereum. This outflow trend has pushed Ethereum's price below $2,500, with a potential downside risk to $2,300 before the Federal Reserve's policy decision on October 28. Despite weak institutional demand, Bitmine Immersion Technologies continues accumulating Ethereum, holding over 6 million ETH tokens. The market remains sensitive to macroeconomic factors, and Ethereum's price could either recover to $2,500 or fall further depending on ETF flows and Fed policy outcomes."
     },
     {
-      "headline": "Crypto Today: Bitcoin, Ethereum, XRP tick lower amid mixed ETF flows",
-      "source": "Mitrade",
-      "source_url": "https://www.mitrade.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWDE0Z2ZJTko3dUhUaW9rVnNrb1hZX0d2LWlHeTZWS3FFNlZ5U1B0aXd4R05hOEZWZmlsRUk0dU1wTmdDZHRvQzNIVkdlVmJUUHVSeW1TWUF2UUpQN1lyelZ6M3RvR3R6ZEFmaUFEbTlEY3JZa2lKSlRaRzFMUGhSU0Nmaw?oc=5",
-      "pub_date": 1792493053.0,
-      "article_url": "https://www.mitrade.com/au/insights/news/live-news/article-3-2176498-20261020",
-      "image": null,
-      "description": "Bitcoin (BTC) is trading above $81,000 on Tuesday, aligning with a lethargic tone in the broader cryptocurrency market. The support range between $80,000-$81,000 reinforces the prevailing stability and consolidation, prompting institutional inflows."
-    },
-    {
-      "headline": "Is Korea\u2019s Chip Selloff a Crypto Buying Opportunity? Tom Lee\u2019s Case and Its Catch",
+      "headline": "Ether.fi Mandates Optimum\u2019s mump2p for All Its Node Operators",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWp6VE9jV214bkhqWkdRdDVFNDdnVnk0TldMTHg1b2h5VER5MUswdk50dUhNb0lSRVpzcVA2aTNWaUFWZDFzaUhnY2M0VFRKZXExcXV2VDVZc05DcU0zSlZvV1B4eDdid3pLbDlnVDUydW1UVmtBWWJlQ2g2amF1OEtyS3ZGYjNIWi1HeWtsVjFWNlNvTjlzelBMdmxzZw?oc=5",
-      "pub_date": 1792473289.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/korea-chip-selloff-crypto-buying-051449376.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7bacf7505f5614fec7821babe5c86dcd97722ef532888bb8bd30044a75ffb9be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
-      "description": "Tom Lee says Korea and Taiwan\u2019s chip selloff is spilling into crypto as Ethereum trails Bitcoin this week."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEdrcFBId2FUcGE1cndIYVVJRkhkbWdZc3hoS1FSTzNjaGdOT042bzktN2duOW40eDJfbE9LVHU0OTVVWURIRUM0ZHdPVk5fUkZ5REN4eTItOVVqWVpQNFBZLVByRjJPblNZS21PMHk4NDNFRFhrR3ZxQTFXcmNSRVRUOWhDcXU5amNXV01yWUxjU2lEQ1diLTk2SlNWQQ?oc=5",
+      "pub_date": 1792510200.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ether-fi-mandates-optimum-mump2p-153000370.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/43a923dcbba932633d42fba961081c1fac73b755e8458746a1df30bcb93ceef5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F8238447a73abd26c7c02197d97fb9164.png",
+      "description": "The MIT-born startup says 16 node operators now run its mump2p software on Ethereum mainnet for more than 1.4 million ETH in stake, and that blocks arrive faster than over Ethereum's default gossip layer."
     },
     {
-      "headline": "Why Tom Lee Thinks Ethereum Treasury Firms Will Push ETH Past $10,000 In The Next 12 Months",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORVdra2VUNlpMeVI4LTI4TWVybjhhX18wREJmck9ieXlXTlNzRmZvRl9VY2FpY1N0LWdVanJRdWtnRjdWMDdfb0xwWVVTVkd5enJVY09Tbm1hMXdrYmxScC01R3NWUnFtcDFZM0lDRldNOUp3eHQyRHdpUm93Ri1jQXdzVHhqT3diSHFKQzdLZTJlOTNVMm1TQmdyU1dIa0lvS1ZzbzZkdkttYkZOQkNtY1ljWms4Ulp1QWp5aUtXbW1rWVpyWmVld3JkRTVqWDJwdWttQzBONHlHcjZWQzM0c1hrNkM?oc=5",
-      "pub_date": 1792433012.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:038d35308094b:0-why-tom-lee-thinks-ethereum-treasury-firms-will-push-eth-past-10-000-in-the-next-12-months/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Tom Lee, chairman of BitMine, thinks the next big move in Ethereum will come from treasury companies buying it up. He says firms that hold ETH on their balance sheets already own about 7% of its total supply, and he expects that share to roughly double to 15% during this bull cycle.Lee was asked ab\u2026"
-    },
-    {
-      "headline": "Tron crypto tops Ethereum and Solana combined with $23.41M in revenue",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0tLOTB6bllQNzN6VUxNNUI4UnpwQTlQbUF1VGdiNHZiNFpGNFpzTnlHbzlwVUd4ZmNTVEg3N1JFOVhwVjk1ZHVONVltbVJpNEo5Zk1BUTFtUjZHcHJHYjdQd3oyd3FaQlh3dUZ6aUFSeXRUcDQ4Z1M5cDZ1NWtwRmxfZVQtWkk2UDlwQ0pySFJWOEhNRUE?oc=5",
-      "pub_date": 1792467036.0,
-      "article_url": "https://ambcrypto.com/tron-crypto-tops-ethereum-and-solana-combined-with-23-41m-in-revenue/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Adewale-3-1-1-e1792440748333.webp",
-      "description": "Latest readings placed Tron ahead across three revenue periods, with USDT dominating its roughly $95 billion stablecoin supply."
-    },
-    {
-      "headline": "Current price of Ethereum for October 19, 2026",
+      "headline": "Current price of Ethereum for October 20, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5",
-      "pub_date": 1792422132.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-19-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-19.jpg?resize=1200,600",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQjZXRjctR1NwY1RjSlZsN3VhU2YzTk5MSzU0dlFObXdiWEYzM3BoRWdDYnFtbWRMSTNualZhUkZRWjZ2bXQ3eGVMZlBZamx5MmJzQjMyR2N4UnhtdDVkbjlRUUNMenR2?oc=5",
+      "pub_date": 1792499653.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-20-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ehtereum-Oct-20.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Ethereum\u2019s faster proofs face Vitalik\u2019s next test: a hard cost limit",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTdsOTlqUVZlMndIM0tFQlhKTmZ5VDVjQy1aeFhORFFYQUFKS1lvVnBtLWw5bUV2ei03dzFqWmdMbjM4d3JXMVRGVGd1eEt2d3Nuc3lzaWpqMmpVd191b3l4QnJub2UtaWpPT3F4eWFWcnFLV2RWTkg2NUNTbXdlMmZzLWRJVGZpR21zaUxsaUUycFJZSW4tMjJDNnJ5VVU?oc=5",
-      "pub_date": 1792416055.0,
-      "article_url": "https://cryptoslate.com/vitaliks-zkevm-cost-demand-puts-ethereums-gas-pricing-under-a-second-test/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-proof-hardware-limits.webp",
-      "description": "Vitalik wants a hard bound on Ethereum proving costs per unit of gas, shifting attention from fast block samples to the hardest permitted workloads."
+      "headline": "Ethereum News: JPMorgan Just Brought JPM Coin to Ethereum. Could Wall Street Money Lift ETH?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3BYWURCNklaRHNLLXJieFgxUWpRWE5QTk5IdzBJMmtiVURrMWdhMDJOZWdLNkFOYVdVODFTaWs5QUQ5TkhhbmtSdWJ2QUlNTWdyZWN2dVVqTjh3UW80X25CSzZDeHNKWUdlUFdvRnphYVhZR1RnMHk4aFhBNFBFRzRwd0o2T1hCbXlNMlBRU01DTWpKcnViaEtPQ2lIQjlxU2czMXJPUm80M2d0b0VULXZwRVlyblM1RVZZdDU2aVdPb2tnSzNHdVp0MDBjbjlJUTdhYmdrVTh3aFVHUUMzdkRR?oc=5",
+      "pub_date": 1792501620.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/20/ethereum-news-jpmorgan-just-brought-jpm-coin-to-ethereum-could-wall-street-money-lift-eth/",
+      "image": "https://247wallst.com/wp-content/uploads/2021/07/imageForEntry49-6qQ.jpg",
+      "description": "JPMorgan launched JPM Coin on the Ethereum mainnet, yet ETH dropped 4.2% in a week. Discover what this launch might mean for ETH demand."
     },
     {
-      "headline": "New Ethereum Based Crypto Pepeto Announces Final Presale Stages Before Its Binance Listing While the Cardano Price Prediction Eyes a 6x",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVUxZUUZ6TlhvN2VzRm02alZtVFcxdlhjQXBaemtCQnVNMEZzUmFyV1BRTm95b0RxbncxdzJkbER4YXcwaURTM2k1dlhXa29BRHRWMWFPRkFtVjlzX2FNY0RCOUxNcUg3NUU3OFhWLXB1R21JcUU2dHZUZmt6Q0dHbVpiX09MWm1WMnJxRFZlSm9xbklqclp6R1IydmhBSWpmR0NEYnBUd2VfRnZPM0duSmxsSnJCVUlPbnlVdVg1aXowSlZpcVo5dTZxVlFFN1dUX3BxRU1rN2s2THVRNzFZYmdfckJOUXpwR1RoREd0blhsbG9NVVdVTUhSMy1JczNOLUZzUW8xM2MyWGU0Z2Y1LXdodjhVcDhjdkQxQXFIMA?oc=5",
-      "pub_date": 1792434118.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-ethereum-based-crypto-pepeto-announces-final-presale-stages-before-its-binance-listing-while-the-cardano-price-prediction-eyes-a-6x-1036640351",
-      "image": "https://ml.globenewswire.com/Resource/Download/d207efd8-d256-4975-a368-db707b8cafcd/new-ethereum-based-crypto-pepeto-announces-final-presale-stages-before-its-binance-listing-while-the-cardano-price-prediction-eyes-a-6x.jpg",
-      "description": "DUBAI, United Arab Emirates, Oct.  19, 2026  (GLOBE NEWSWIRE) -- New Ethereum based crypto Pepeto has announced that its presale has entered its f..."
+      "headline": "Bitcoin and ethereum prices today, Tuesday, October 20, 2026: Crypto prices slide and oil costs soar as Mid-East attacks persist",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRlloVU1fUWJtNGhCQkh3MEdOQUlqQnVSd0VROXI0dnY4a1hVUTBvZ1F6b0xEZi1kaVRoT1NzbndsbW41emZHNXd0c3BrQmhyVzZva1NNTENwOE04UjYxb1pZYnJUZ0ZaWGIwTW5mU2I5cERvWlE1bnkySmlHYnB2VU5rNm02UF9PTk1XSlZlN3VhVzRNa0J6U3dEa3QxSGZLWXY0UzVSZGNYZmtwcW5ib0x4YS1yaE5NVll0NTY4TURqUkJkNmhybWJrZ21fcmpHM1VZQmJZSXdnRF9qSlNHd1ZQRkk3WDQ4bEI5aG4xT0haejhuTDZMNFYyWlpObWRCVUJEdUhIRHdTOHdxVTh5VkhpWm5NMWdFb2JBMkFRT1Ffcm5Iczk4?oc=5",
+      "pub_date": 1792496512.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-october-20-2026-crypto-prices-slide-and-oil-costs-soar-as-mid-east-attacks-persist-114152288.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "description": "Bitcoin opened at $81,844.43 on Tuesday, October 20, 2026, down 0.2% from Monday's open. As of 7:31 a.m. ET this morning, bitcoin fell to $81,405.30. Ethereum opened at $2,405.06, down 0.2% compared to Monday's opening price. The price of ethereum edged lower this morning to $2,384.13 as of 7:31 a.m. ET."
+    },
+    {
+      "headline": "Ethereum Just Closed Out Its Best Quarter Since 2021. If History Is Any Guide, This Happens Next.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaE5QUkV0OGQxYi1GUXdTdVdXbDl4WGY3Q0x1M1pkdmpBeEpVT2lzRVRnd2h5OUViREhuZkI5eWxxNVROR1hhSFUyWmlhUW5uVHozTDFYelRTeEd2RlZqSy1ydWRfTmJiTGJ3VFNITll3dlE1STl5Qm1UYno5aVlWSFV5NnZ5SzFYc0M5aFkwRmxwRnFfMGc?oc=5",
+      "pub_date": 1792510716.0,
+      "article_url": "https://www.fool.com/investing/2026/10/20/ethereum-just-closed-out-best-quarter-since-2021/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889861%2Feth1.png&w=1200&op=resize",
+      "description": "Over the last few years, marking a strong third quarter hasn't translated into strong returns afterward."
+    },
+    {
+      "headline": "DRIFT EXPLOITER MOVES $32M $Ethereum (ETH.CC)$ AFTER 2 MONTHS The Drift Protocol exploiter is active again, sending at least 13.4K $Ethereum (ETH.CC)$ (~$32M) to Tornado Cash, potentially to obscure the fund trail. Still holds $224.59M across tr",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0o0UUM1a1R2REdSNndwSkFnZVlyaWx5bUpweGttZjFkZ3FzYzlCd3N4dlVLd0xEQlRlSHJ0RHp1WEVRcGhhTmk3RVZDZXVCRV9kWFZBNmJpNHVOa2xrVFBIeEhnOEhRSjdSeTJLSGNtSC1RZE1vV1pwVElYVHZqdzV5eFYwMVFJZlNYWHZRSUh6UklYbFlMQjJnZF9LWDA2OFk3bEFvSkl1cUZudXc0?oc=5",
+      "pub_date": 1792485415.0,
+      "article_url": "https://www.moomoo.com/community/feed/drift-exploiter-moves-32m-ethereum-eth-cc-after-2-months-117472324157845",
+      "image": "https://ussnsimg.moomoo.com/sns_client_feed/106219307/20261020/public/NN-DataMarket/8515/2112461627039912380-photo-0b1304efa696dbcf4ceb2758712ccbd8f.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "description": "@Onchain Lens 8380 Views"
+    },
+    {
+      "headline": "JPMorgan Chase (JPM) Puts JPM Coin on Ethereum for Institutional Payments",
+      "source": "Simply Wall Street",
+      "source_url": "https://simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNzVNbW9MWnd2YV9qRU9pR2NTYzRxMTdzSVJ5Y0Nsc0VmNzVFSXVRYnNIYUVrT3NWa1hDSjZKXzh0TkxtMnlsTFV2VVY4UlZhYnk1aGx1NTE0SWJBRXRCTnNIMXJXUGVGWXRyOG9ZY2R5VTNlUTczVEtVZWFHY0JHUHlHSWRwM2E1SzN1dGtFdkVoRGN5Y2RJU1Q4OTJQS096cVg1T0VYMjR2OVpyV0J1U1kxcUJ0OXRRZEpObWlYMDdIcU5PVEHSAcsBQVVfeXFMUE9WdEFHRlVvQU9qX1VkYndfLUNmM0ViRnh2VzdpU0pCeGhGbmZacFpMT29mUk1sazBOeUc3dHdfc1NQNFlLLVdUX1V1MVVlb1pLY1BwM2FQUEF2OGx1UDgxWmJrenVCTGVrT2NBVXpaelBFbjVJVnk3MVpJT1FfMWJGZzluVFpoVnlxOU5sU3ZRSDktaXZpbVdfNEZfRlJvNTJSb1drTjNqSGVIQ2VkdnhTN2xDdFlLZXdvOUkxZmRXLV9PMkJ2Xy12cDg?oc=5",
+      "pub_date": 1792496121.0,
+      "article_url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-puts-jpm-coin-on-ethereum-for-institution",
+      "image": "https://images.simplywall.st/asset/company-cover/658776-card/1788996045135?w=1600&h=900&fit=cover",
+      "description": "JPMorgan Chase (NYSE:JPM) has extended its JPM Coin payment system to the Ethereum mainnet, moving beyond its private Quorum network.\nThe USD-backed deposit token will now be available to institutional clients on a public blockchain infrastructure alongside existing permissioned rails.\nJPMorgan is positioning the Ethereum rollout as a way to increase interoperability and liquidity for blockchain based treasury and settlement flows.\nThe expansion of JPM Coin to Ethereum fits into a broader..."
+    },
+    {
+      "headline": "Ethereum Price Analysis: ETH Jumps 3% in an Hour \u2013 What Comes Next?",
+      "source": "CryptoPotato",
+      "source_url": "https://cryptopotato.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGJuS3o0WWs2QVBkUHpCdF9XRGliMThaYjM1a0ttQV9QdVFNVThPSk5zVTFHZmk1QkVISTlxY203M2wyb3l1ZFVuTUFlYVgxaWpPZmxoeE85ZXJCVUo4ZW9BQWMtdDhDaFhoUDdIbUJGQXhqTTZHb3l4MDlzTDhRcGhmb0huOF9ldUdxQmhLdGU2QQ?oc=5",
+      "pub_date": 1792506900.0,
+      "article_url": "https://cryptopotato.com/ethereum-price-analysis-eth-jumps-3-in-an-hour-what-comes-next/",
+      "image": "https://cryptopotato.com/wp-content/uploads/2026/10/ETH-D-8.jpg",
+      "description": "Ethereum is struggling to hold its broader ascending structure as the price slipped toward $2.38K before rebounding to $2.46K. Renewed whale-sized spot"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T11:00:48.408777+00:00"
+  "fetched_at": "2026-10-20T15:44:53.730981+00:00"
 }
