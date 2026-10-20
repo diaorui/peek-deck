@@ -9,8 +9,8 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "hn_url": "https://news.ycombinator.com/item?id=50151036",
       "author": "rzk",
-      "points": 555,
-      "num_comments": 665,
+      "points": 574,
+      "num_comments": 682,
       "created_at": "2026-10-19T11:24:34Z",
       "object_id": "50151036",
       "image": null,
@@ -33,20 +33,6 @@
       "site_name": "sphinx-six-theta.vercel.app"
     },
     {
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "hn_url": "https://news.ycombinator.com/item?id=50132278",
-      "author": "DeepLogin",
-      "points": 173,
-      "num_comments": 61,
-      "created_at": "2026-10-17T16:04:23Z",
-      "object_id": "50132278",
-      "image": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/10/Amazon-AI-question-openDemocracy-edit.jpg",
-      "description": "Internal documents suggest tech giant collects \u2018hundreds of data points\u2019 for \u2018union-busting\u2019 AI model",
-      "favicon": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w256h256/format/png/2026/03/multi_solo.svg",
-      "site_name": "openDemocracy"
-    },
-    {
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "hn_url": "https://news.ycombinator.com/item?id=50141429",
@@ -65,7 +51,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "hn_url": "https://news.ycombinator.com/item?id=50141657",
       "author": "evolve2k",
-      "points": 154,
+      "points": 155,
       "num_comments": 149,
       "created_at": "2026-10-18T14:58:10Z",
       "object_id": "50141657",
@@ -89,12 +75,26 @@
       "site_name": "100toolkit.com"
     },
     {
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "hn_url": "https://news.ycombinator.com/item?id=50168190",
+      "author": "4gateftw",
+      "points": 143,
+      "num_comments": 154,
+      "created_at": "2026-10-20T15:48:26Z",
+      "object_id": "50168190",
+      "image": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "description": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.",
+      "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
+      "site_name": "IGN"
+    },
+    {
       "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
       "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
       "hn_url": "https://news.ycombinator.com/item?id=50147462",
       "author": "Stratoscope",
-      "points": 124,
-      "num_comments": 107,
+      "points": 126,
+      "num_comments": 108,
       "created_at": "2026-10-19T01:56:39Z",
       "object_id": "50147462",
       "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2851908399_cropped.jpg?w=1600&h=900&fit=crop",
@@ -107,7 +107,7 @@
       "url": "https://www.vals.ai/blogs/impossible-refund",
       "hn_url": "https://news.ycombinator.com/item?id=50140462",
       "author": "DeepLogin",
-      "points": 105,
+      "points": 106,
       "num_comments": 126,
       "created_at": "2026-10-18T12:22:58Z",
       "object_id": "50140462",
@@ -121,7 +121,7 @@
       "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
       "hn_url": "https://news.ycombinator.com/item?id=50143218",
       "author": "bookofjoe",
-      "points": 94,
+      "points": 95,
       "num_comments": 161,
       "created_at": "2026-10-18T17:27:30Z",
       "object_id": "50143218",
@@ -145,7 +145,7 @@
       "site_name": "The Verge"
     }
   ],
-  "total_hits": 560,
+  "total_hits": 585,
   "has_metadata": true,
-  "fetched_at": "2026-10-20T15:44:22.346064+00:00"
+  "fetched_at": "2026-10-20T19:51:11.583560+00:00"
 }
