@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-20T11:00:57.049713+00:00",
+  "data": "MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.",
+  "model_id": "OpenMOSS-Team/MOSS-Image-SFT"
+}
