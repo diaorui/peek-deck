@@ -15,96 +15,96 @@
       "description": null
     },
     {
-      "headline": "Ethereum Just Closed Out Its Best Quarter Since 2021. If History Is Any Guide, This Happens Next.",
+      "headline": "Kinexys Brings JPM Coin Deposit Token to Ethereum",
+      "source": "J.P. Morgan",
+      "source_url": "https://www.jpmorgan.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZNVdrSjBNMlhNRHUyN2JHTTNneDYwdjN0QVFEeFBCTW5OY0JUeXhVM0dOczQ1b2pCVEVDLW1PbDFUTnJxZU9wQ3dvR256VjJXTWlWZ1lIb1pfVTBsamoxSGNTQzEwUXIyZkpPNTRNSXoyRV84b3hr?oc=5",
+      "pub_date": 1792446722.0,
+      "article_url": "https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum",
+      "image": "https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/treasury-services/redesign/newsroom/banner-newsroom_Coin-on-Ethereum.jpg",
+      "description": "JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains."
+    },
+    {
+      "headline": "JPMorgan brings JPM Coin to Ethereum",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3lwMlB3LWI5dmNMcDV5UWNDS1FrU0k5ZUhHTlZUbVVOU05HRU1jdm4zbFIyaWt4SzZsNll1Sjd6c0JXd0diaVlFdGFveDJUUDdlNU9LV3ZqU21mWS1ZbGdRVXotaW93WEZyb1lBSUpGTW5FU293TU82NlhVZ1VYVWhwV25sYWt3QlNwUFVGNTFMR1Z6eXdGT3lRWC1WSkU?oc=5",
-      "pub_date": 1792511460.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-just-closed-best-quarter-155100179.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b9759074d23bfee3b87fe355d753421cea1ac39658f0bfb72fbaabf08b07da0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6f9a16ca906200218f120350544f3dad.png",
-      "description": "Over the last few years, marking a strong third quarter hasn't translated into strong returns afterward."
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGNKUUZlTWVRMkQ1cURmQnlkNjMxeG9nWTFqQWVZaXZ2TkxMYWJoTTFYSEdVMEFqNzlsMEtpcEYwRS0wRHIyU1UyUVFfbFFQVERkSXZMUU9tcTh1dG1FUUxqak5IcnlWWWhmN2FnT2tKU1ZnSjJxaWJKc0FWNVo1cnREblVuUUU?oc=5",
+      "pub_date": 1792423754.0,
+      "article_url": "https://finance.yahoo.com/video/jpmorgan-brings-jpm-coin-ethereum-152914379.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5831725b570cce3a3e1394d36bd82974027e7ab9de2f864b3084bb7a8cc95bcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoindesk_75%2F539adc86709d41636b77fc8641a83e9d.jpg",
+      "description": "JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and institutional user base. The largest U.S. bank already moves more than $7 billion a day on its private Kinexys network. CoinDesk's Uyen Truong hosts \"CoinDesk Daily.\""
     },
     {
-      "headline": "Deutsche Bank and JPMorgan expand Ethereum use for institutional crypto services",
+      "headline": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZndOVkZnTlRtQXFZZWladHl2ZG4zbUJwVTM5V1JWaEM4NF9yR3IyZklubHR2MUJTaVZTRjBoWkMzWHhiQXhOVXhZelI4ZHpNcjdTQTdPOU5MMVYtN0RISW40V21IQnVISnVmeUl0dUtOR0VBMllfSWw0SGE0M3BwRlg0eG04M2dlcXVUdkduQ0RmWEhFMVFyMy1EVUEtQkFmS3lCRWU2eGVmNWFQMGpMUkpaTEN0Rzk0WHhQVUVHY3NLQQ?oc=5",
+      "pub_date": 1792418769.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "JPMorgan's dollar deposit token heads to Ethereum in a sign of the lender getting more comfortable with public blockchains."
+    },
+    {
+      "headline": "JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekRsb3dLOVFsUlpGRjRxcnh4WkZGakdXOTVWeGdBTFQ0UXpNZkJNU19sa2piUE96VURzbnl6SFBiM1lWX3FYNWdoUGhUODlsS19VcVQ3cXhFMFJnR0UxS2xMbjd4d0NScXR1czRNQnV3Z1R1TUN6UC1xdk1NOUo2ZTc3OTNpc1pMN1hneFNjSUhtM2ZYaTFsaW8tbXE?oc=5",
+      "pub_date": 1792398660.0,
+      "article_url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
+      "description": "The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum."
+    },
+    {
+      "headline": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcWtwc2Rpb2hOMUl0bS0xRmxqS1FFWXl1THg2VGtkOUJlbGZmNklkdFdjT1pYWlRnVEF0c01mcF9LOC1iaERnTURSOGQ5ZTlYV3lXcmEwUWpZd2Rqel9ycFZybDZYMUotTDlzT3c2amM1eWM?oc=5",
+      "pub_date": 1792431064.0,
+      "article_url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg",
+      "description": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds."
+    },
+    {
+      "headline": "JPMorgan Picks Ethereum for JPM Coin, Citing the Network\u2019s Liquidity and Client Use",
+      "source": "unchainedcrypto.com",
+      "source_url": "https://unchainedcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3EzZEwydWV6cXFFRUdabWxTTU41UUkzSERiU0duNUttT2M2SWFia2gtQ3RLeFQ5dFZlNDN1dVRUcl80dnkxLTUwc2VqV3JjZHFKTkxMRmk4M3VEUE4zRWIzSkVhY0FHMnVXVHF2ZHJ3OEtSek5OYWFrb1c0NG50Y1RqQWU1V25Gem5ONzl1Y25aSUNMcFpuem8tS21uSXBYUC0zc0ExWk93eVc3S240?oc=5",
+      "pub_date": 1792422900.0,
+      "article_url": "https://unchainedcrypto.com/jpmorgan-picks-ethereum-for-jpm-coin-citing-the-networks-liquidity-and-client-use/",
+      "image": "https://unchainedcrypto.com/wp-content/uploads/2026/10/jpmorgan-jpm-coin-ethereum-1024x576.png",
+      "description": "The bank's dollar deposit token, which debuted on Base last year, is aimed at large crypto firms and financial institutions, a JPMorgan blockchain executive told Bloomberg."
+    },
+    {
+      "headline": "Tokenized stock values on Ethereum, BNB Chain, and Solana show inconsistent data, no clear market leader.",
       "source": "Pluang",
       "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWttcndsUEt3RVBFS1Z5TGxpTXhnN2RJMzE1ck9SU1NWUGF0YnYzTnM0TGpEeE90ZnowaGh3dm5oeHg2cV9nelEtOXZlcTh2SENuLUtMNmpiLWk2RGpzZ2ZOU19HWmg5b0t6YWxld0NMbHk3VW1jUDU5ZWpUV3U3ZmtpNzI5NlZOeWJ0MTZZYnhFdzBxVnNF?oc=5",
-      "pub_date": 1792517685.0,
-      "article_url": "https://pluang.com/en/news-feed/deutsche-bank-jpmorgan-bangun-layanan-institusional-ethereum",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/f3f5929d6ce5a0dac176c546732b985f7b730749a29910371a269c2dd15d9c20-en.webp",
-      "description": "Deutsche Bank is launching an Ethereum-based digital asset custody service for institutional clients in Germany, covering assets like ETH, BTC, and euro stablecoins, pending regulatory approval. Meanwhile, JPMorgan has moved its JPM Coin to Ethereum's mainnet, enabling on-chain payments and peer-to-peer transfers within the Ethereum ecosystem. These moves signal growing institutional adoption of Ethereum for liquidity and asset tokenization, offering more regulated access to crypto for large investors. Key developments to watch include Deutsche Bank's regulatory approval and service expansion across Europe, and JPMorgan's shift of transactions to public Ethereum networks."
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzFsc0JIdlRfcFFjSFV4RHJ4RWVUMWlNUnMySUxTTEZ1NDRwWmFYRkM1cjJ5aTRnX0NaZUNHVWtxSEFyUFNfTG9paDJxZWdhRmpXU3ZUTVNTYjRZVUtCMDd5OV96VTVfNHFISTZmOTBrcEl4cGU4N09pYmtaZnV0SWY5bThoSWZWU2taQlhzRF95VXRn?oc=5",
+      "pub_date": 1792531529.0,
+      "article_url": "https://pluang.com/en/news-feed/nilai-tokenized-stock-ethereum-lebih-tinggi-dari-bnb-chain",
+      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/2e489160b8f901e76151e6e63483f1142f07865fa1a15cdb8e612d8a08a467f9-en.webp",
+      "description": "Recent reports show tokenized stock values on Ethereum at $210.9 million, BNB Chain at $115.7 million, and Solana at $78.5 million. However, earlier data showed BNB Chain leading with $1.5 billion, Ethereum at $842.4 million, and Solana at $732.2 million. These discrepancies arise from differences in measurement scope and timing, making it unclear which network leads in tokenized stock value. Tokenized stocks represent blockchain-based exposure to traditional shares, distinct from native cryptocurrency values on these networks."
     },
     {
-      "headline": "Current price of Ethereum for October 20, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQjZXRjctR1NwY1RjSlZsN3VhU2YzTk5MSzU0dlFObXdiWEYzM3BoRWdDYnFtbWRMSTNualZhUkZRWjZ2bXQ3eGVMZlBZamx5MmJzQjMyR2N4UnhtdDVkbjlRUUNMenR2?oc=5",
-      "pub_date": 1792503253.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-20-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ehtereum-Oct-20.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWRnMGVxajFzZHJBU3NQX2IzZjRrOEhRYVNydFMyeF9FUHFPdE10RmFURVdtaF80SzA2bEczSzd3NS1vdlYzSVB4enBHQWlEQnRtaExnTzMwZVNRMHFBdzE3UWU0djVwOGhIVVN0YUtFRTVESDJwLXNfbUQ5MzV3dDJFSzIwYVAxTTdCM21HaVBMc0R5TjBYWHRYRU85YlU?oc=5",
+      "pub_date": 1792529164.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wallet-linked-drift-exploit-sends-204604841.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9d07ee16421ccda5331217c0c39dd62af509d5fce694fbc84dff76e96c23a769/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fd57cffcb54f68e73cd21b378da8d1afc.png",
+      "description": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more."
     },
     {
-      "headline": "Ethereum News: JPMorgan Just Brought JPM Coin to Ethereum. Could Wall Street Money Lift ETH?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3BYWURCNklaRHNLLXJieFgxUWpRWE5QTk5IdzBJMmtiVURrMWdhMDJOZWdLNkFOYVdVODFTaWs5QUQ5TkhhbmtSdWJ2QUlNTWdyZWN2dVVqTjh3UW80X25CSzZDeHNKWUdlUFdvRnphYVhZR1RnMHk4aFhBNFBFRzRwd0o2T1hCbXlNMlBRU01DTWpKcnViaEtPQ2lIQjlxU2czMXJPUm80M2d0b0VULXZwRVlyblM1RVZZdDU2aVdPb2tnSzNHdVp0MDBjbjlJUTdhYmdrVTh3aFVHUUMzdkRR?oc=5",
-      "pub_date": 1792501620.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/20/ethereum-news-jpmorgan-just-brought-jpm-coin-to-ethereum-could-wall-street-money-lift-eth/",
-      "image": "https://247wallst.com/wp-content/uploads/2021/07/imageForEntry49-6qQ.jpg",
-      "description": "JPMorgan launched JPM Coin on the Ethereum mainnet, yet ETH dropped 4.2% in a week. Discover what this launch might mean for ETH demand."
-    },
-    {
-      "headline": "Ethereum, Solana, HYPE Growth Isn\u2019t Lifting Staking Yields: Bitwise",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdTBneWVWdWQ0TnZZVTg2WDlBR3ViTVdSR0NRVXlXY2lqcTZBWGs2OXRhNjB4UXNrX2hlM2Vsc21aZE9FV3FJUFhESXhqU3dhWFJqaWdvMVJTMHhnZl9pRjJKTWpOaFpZWTBiNE5GWXhFbmZpYlZfOGtJWGd4bUpMZ0NxUVZlZmQ1U2QxUlY3WjFuWlhqMDRPVGk3cWotZEFMRUJXODZpUXIzTmwxbkhValZoaGVfY2tCUktYSkVWZnZiZVU?oc=5",
-      "pub_date": 1792521615.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62479098/ethereum-solana-hype-growth-isnt-lifting-staking-yields-bitwise",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum Just Closed Out Its Best Quarter Since 2021. If History Is Any Guide, This Happens Next.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaE5QUkV0OGQxYi1GUXdTdVdXbDl4WGY3Q0x1M1pkdmpBeEpVT2lzRVRnd2h5OUViREhuZkI5eWxxNVROR1hhSFUyWmlhUW5uVHozTDFYelRTeEd2RlZqSy1ydWRfTmJiTGJ3VFNITll3dlE1STl5Qm1UYno5aVlWSFV5NnZ5SzFYc0M5aFkwRmxwRnFfMGc?oc=5",
-      "pub_date": 1792510716.0,
-      "article_url": "https://www.fool.com/investing/2026/10/20/ethereum-just-closed-out-best-quarter-since-2021/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889861%2Feth1.png&w=1200&op=resize",
-      "description": "Over the last few years, marking a strong third quarter hasn't translated into strong returns afterward."
-    },
-    {
-      "headline": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXh2X21sNjFuSWUya0RjYTNIVWRhWlNYWXJuUDd2d2hEc0VYT0QxNThmNzRNY3VyOG1NVW9HYzZjV25yOUVja2k4bHdQRzUwWXJ2cThRMGdRN0tUQXVhcERSV2RTaWh3dEF2S3VUX2ZqYmhRRzZ6OE1FTVA4ME56dEFOWVhIeVdVaGxYMnlIX0gtOUFmaXNjMVZqZWM4dw?oc=5",
-      "pub_date": 1792518595.0,
-      "article_url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/75879d2a6041684d5b6f54f443de05978490fe78-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
-      "description": "Bitwise reports 43.8 million ETH held by active validators in Q3 2026, or 35.9% of supply, as Ethereum and Solana staking yields declined."
-    },
-    {
-      "headline": "Ethereum prediction: 1.16M ETH in the staking queue",
-      "source": "CryptoTicker",
-      "source_url": "https://cryptoticker.io",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0hpdDUwNnZEaEg4d2psdURCZ2JZc2NEaEpTcnZoSTE0WjQ1Z0hLV183c1Uza01EOEVXb2NSZmRJU1ViN0tPbmlSSEZFZ0FobVZLYnpkQlIzOS1vSkZkZURxWEMtSUdJZDEzckFMRFh3eDVUNGRraTRoY1N6MThCaQ?oc=5",
-      "pub_date": 1792520956.0,
-      "article_url": "https://cryptoticker.io/en/ethereum-price-prediction-staking-queue-20-days/",
-      "image": "https://d2jq4jjbn1fq59.cloudfront.net/ethereum_prognose_staking_warteschlange_20_tage_1_f12fbdd3bc.webp",
-      "description": "1,155,535 ETH wait 20 days for a staking slot, only 174,282 want out. What the asymmetry means for the ETH price and the $2,500 hurdle."
-    },
-    {
-      "headline": "DRIFT EXPLOITER MOVES $32M $Ethereum (ETH.CC)$ AFTER 2 MONTHS The Drift Protocol exploiter is active again, sending at least 13.4K $Ethereum (ETH.CC)$ (~$32M) to Tornado Cash, potentially to obscure the fund trail. Still holds $224.59M across tr",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0o0UUM1a1R2REdSNndwSkFnZVlyaWx5bUpweGttZjFkZ3FzYzlCd3N4dlVLd0xEQlRlSHJ0RHp1WEVRcGhhTmk3RVZDZXVCRV9kWFZBNmJpNHVOa2xrVFBIeEhnOEhRSjdSeTJLSGNtSC1RZE1vV1pwVElYVHZqdzV5eFYwMVFJZlNYWHZRSUh6UklYbFlMQjJnZF9LWDA2OFk3bEFvSkl1cUZudXc0?oc=5",
-      "pub_date": 1792485415.0,
-      "article_url": "https://www.moomoo.com/community/feed/drift-exploiter-moves-32m-ethereum-eth-cc-after-2-months-117472324157845",
-      "image": "https://ussnsimg.moomoo.com/sns_client_feed/106219307/20261020/public/NN-DataMarket/8515/2112461627039912380-photo-0b1304efa696dbcf4ceb2758712ccbd8f.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "@Onchain Lens 8380 Views"
+      "headline": "Fhenix Launches CoFHE on Ethereum and Arbitrum for Confidential Smart Contracts",
+      "source": "HackerNoon",
+      "source_url": "https://hackernoon.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjZnX1BRUFNYZ2FDOHFCN1RPRTZSYURYalNIUmtHZ3VBWFY4Y0ZXZ0RPNWpacjRhQkY5cEg3QUppaHQxaGhIRUlqLVpEcjF5NEI1THpDbmY5elhaQzAzNF9xdjNucm8tSWtWYmZNSzZJMWs2amI0RzJyNEowZTdLMURTakpLN0pjQ3FaUzZLV05zeDluNHByR19CRXQ4am9qUktrcg?oc=5",
+      "pub_date": 1792534573.0,
+      "article_url": "https://hackernoon.com/fhenix-launches-cofhe-on-ethereum-and-arbitrum-for-confidential-smart-contracts",
+      "image": "https://hackernoon.imgix.net/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-rgd3e9r.png",
+      "description": "Fhenix launches CoFHE on Ethereum and Arbitrum. Its dual-mode tokens support public and confidential activity, with integration and trust tradeoffs."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T19:51:37.781742+00:00"
+  "fetched_at": "2026-10-20T22:57:52.404658+00:00"
 }

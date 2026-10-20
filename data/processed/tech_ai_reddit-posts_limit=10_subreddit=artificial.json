@@ -35,6 +35,17 @@
       "description": "About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals."
     },
     {
+      "title": "Spotify is cracking down on Family plans again, and the penalty can lock you out for a year",
+      "author": "Ok-Conversation3213",
+      "url": "https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/",
+      "published": 1792534370.0,
+      "thumbnail": "https://external-preview.redd.it/xcca5dCzgC24EXlySKlsfRg8FxGgmu2SagjIp9iKkSg.jpeg?width=640&crop=smart&auto=webp&s=bcbd9bad21e27a15a30a547dcda69b5afd97a905",
+      "external_url": "https://www.digitaltrends.com/home-theater/spotify-is-cracking-down-on-family-plans-again-and-the-penalty-can-lock-you-out-for-a-year/",
+      "site_name": "digitaltrends.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "LLM Memory: 5 Approaches to Handling New Information",
       "author": "LimeOptimal539",
       "url": "https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/",
@@ -44,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of \u201cmemory layer\u201d which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state. The table groups approaches into five categories: Store more: keep explicit history, as with KV caches and retrieval/RAG. Old and new information can coexist, leaving the system to resolve which applies at read/retrieval time. Compress: fold history into a fixed-size state, as with linear attention, RetNet, and Mamba. This saves space, but stored associations can interfere, limiting recall abilities as context grows. Correct: control what changes through gates or prediction-error updates, as with gated linear attention, mLSTM, and DeltaNet. Typically more efficient than simple \u201ccompress\u201d, but also has a hard time scaling with larger contexts. Learn at inference: update mutable parameters using incoming evidence, as with TTT and Titans. Distribute plasticity: spread changes across interacting parts of the state, as with Dragon Hatchling (BDH). Memory lives in high-dimensional space, being sparse and distributed. One example that can make this easier for me to understand is a coding agent that learns a function signature has changed. Keeping both the old and new definitions means it has retained the information but it still needs to determine which definition should govern its next call. It becomes inefficient at reading time. I\u2019m skeptical if the categories belong at the same level of comparison. Some describe model-level mechanisms, while others describe system-level designs. Curious how people here think about this, particularly those who've built memory systems for your own agents. When something becomes outdated, do you update the memory right away or keep the history and let the model figure it out during retrieval? Wondering which approach actually works better as the amount of information grows. Table and framework: R. Vimalkanth and T. Chudiwal, IIT Madras, \u201cThe Missing Piece in LLM Memory: Why Long Context and Retrieval Aren\u2019t Enough for Belief Revision,\u201d a HF community article."
+    },
+    {
+      "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/",
+      "published": 1792479104.0,
+      "thumbnail": "https://external-preview.redd.it/bbNHKjy8BG9v6moOdaB7Dv-4ubUWuqIace0lVy-HZR0.jpeg?width=640&crop=smart&auto=webp&s=f23923f8ff49cb1efff5fce6158efcb90e447f46",
+      "external_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "\u2018Meta owes us an explanation,\u2019 group says as organizers fear censorship after account goes dark for several hours"
     },
     {
       "title": "I am failing to see how this AI boom does not lead to a very bad ending for 99% of the people... Please convince me otherwise.",
@@ -68,17 +90,6 @@
       "description": "Further attempts to reduce reliance on US infrastructure"
     },
     {
-      "title": "Outrage after Meta suspends No Kings Instagram account during protests",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/",
-      "published": 1792479104.0,
-      "thumbnail": "https://external-preview.redd.it/bbNHKjy8BG9v6moOdaB7Dv-4ubUWuqIace0lVy-HZR0.jpeg?width=640&crop=smart&auto=webp&s=f23923f8ff49cb1efff5fce6158efcb90e447f46",
-      "external_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "\u2018Meta owes us an explanation,\u2019 group says as organizers fear censorship after account goes dark for several hours"
-    },
-    {
       "title": "Meta&#039;s smart glasses were recording conversations without the wake phrase, company admits",
       "author": "Resident-Fall4351",
       "url": "https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/",
@@ -90,27 +101,16 @@
       "description": "A redditor recently wrote that they'd noticed something concerning with Meta's Ray-Ban glasses: they were capturing conversations when they were talking to other people despite the \"Hey..."
     },
     {
-      "title": "One Hacker Used AI Agents to Breach 100+ Company Websites for About $5,000",
-      "author": "Much-Television-9449",
-      "url": "https://www.reddit.com/r/artificial/comments/1xaw48m/one_hacker_used_ai_agents_to_breach_100_company/",
-      "published": 1792512191.0,
-      "thumbnail": "https://external-preview.redd.it/6YO3dDSbZHJvQDZarA1Ezq0L9v3H80oWxHk-lqA8SnM.jpeg?width=640&crop=smart&auto=webp&s=0377aa61b328395b23bbcf2f143df230c2cb9b8f",
-      "external_url": "https://kylesinvestigation.com/2026/10/20/one-hacker-used-ai-agents-to-breach-100-company-websites-for-about-5000/",
-      "site_name": "kylesinvestigation.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xatalr/tiktok_staff_raised_child_safety_alarms_court/",
-      "published": 1792505701.0,
-      "thumbnail": "https://external-preview.redd.it/um71NZ6j5T0VhWb0Y_p7MvLAkikhDKAGc3bZhBbUoYM.jpeg?width=640&crop=smart&auto=webp&s=4e3f939ff7051904c88cba26a85cab67d3f5f18e",
-      "external_url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-      "site_name": "NPR",
-      "favicon": "https://media.npr.org/chrome/favicon/favicon-180x180.png",
-      "description": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive."
+      "title": "Hugging Face CEO calls Netflix hacking doc 'sci-fi'",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/",
+      "published": 1792529150.0,
+      "thumbnail": "https://external-preview.redd.it/XW11qKS5EGcy9bvCwXV3R_e27JGiigjK0baAXzob_fQ.jpeg?width=640&crop=smart&auto=webp&s=516dc1c3ad8c9d0f2d632f22d6aa330e7b3d67ca",
+      "external_url": "https://www.linkedin.com/posts/clementdelangue_just-watched-the-netflix-instadocs-about-share-7518300071432441856-JQp-/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.\n\nI spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.\n\nAlso, they didn\u2019t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.\n\nAnyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn"
     }
   ],
-  "fetched_at": "2026-10-20T19:51:14.677415+00:00"
+  "fetched_at": "2026-10-20T22:57:27.923235+00:00"
 }
