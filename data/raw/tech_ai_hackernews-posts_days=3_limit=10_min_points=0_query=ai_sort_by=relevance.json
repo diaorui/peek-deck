@@ -5,6 +5,20 @@
   "days": 3,
   "posts": [
     {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "hn_url": "https://news.ycombinator.com/item?id=50151036",
+      "author": "rzk",
+      "points": 347,
+      "num_comments": 490,
+      "created_at": "2026-10-19T11:24:34Z",
+      "object_id": "50151036",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
       "hn_url": "https://news.ycombinator.com/item?id=50137950",
@@ -17,20 +31,6 @@
       "description": "A Git hook for agent-assisted development. Before your agent\u2019s code ships, Sphinx asks you a question about what it actually does.",
       "favicon": "https://sphinx-six-theta.vercel.app/icon.svg?icon.13s600nbfoigp.svg",
       "site_name": "sphinx-six-theta.vercel.app"
-    },
-    {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "hn_url": "https://news.ycombinator.com/item?id=50151036",
-      "author": "rzk",
-      "points": 238,
-      "num_comments": 375,
-      "created_at": "2026-10-19T11:24:34Z",
-      "object_id": "50151036",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     },
     {
       "title": "Amazon uses AI to monitor union risk in UK warehouses",
@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50141429",
       "author": "f-serif",
       "points": 170,
-      "num_comments": 166,
+      "num_comments": 167,
       "created_at": "2026-10-18T14:30:27Z",
       "object_id": "50141429",
       "image": "https://cdn.mos.cms.futurecdn.net/SVPa8KkaDwkeyAtLnMhyKW-1920-80.png",
@@ -65,7 +65,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "hn_url": "https://news.ycombinator.com/item?id=50141657",
       "author": "evolve2k",
-      "points": 153,
+      "points": 154,
       "num_comments": 149,
       "created_at": "2026-10-18T14:58:10Z",
       "object_id": "50141657",
@@ -79,8 +79,8 @@
       "url": "https://100toolkit.com/blog/deslop-model/",
       "hn_url": "https://news.ycombinator.com/item?id=50151928",
       "author": "erikkannike",
-      "points": 145,
-      "num_comments": 107,
+      "points": 146,
+      "num_comments": 108,
       "created_at": "2026-10-19T13:00:47Z",
       "object_id": "50151928",
       "image": "https://100toolkit.com/blog/deslop-model/og.png",
@@ -93,8 +93,8 @@
       "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
       "hn_url": "https://news.ycombinator.com/item?id=50147462",
       "author": "Stratoscope",
-      "points": 103,
-      "num_comments": 84,
+      "points": 117,
+      "num_comments": 97,
       "created_at": "2026-10-19T01:56:39Z",
       "object_id": "50147462",
       "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2851908399_cropped.jpg?w=1600&h=900&fit=crop",
@@ -107,8 +107,8 @@
       "url": "https://www.vals.ai/blogs/impossible-refund",
       "hn_url": "https://news.ycombinator.com/item?id=50140462",
       "author": "DeepLogin",
-      "points": 101,
-      "num_comments": 122,
+      "points": 104,
+      "num_comments": 123,
       "created_at": "2026-10-18T12:22:58Z",
       "object_id": "50140462",
       "image": "https://www.vals.ai/blogs/2026-10-15-impossible-refund/hero-vals.webp",
@@ -121,7 +121,7 @@
       "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
       "hn_url": "https://news.ycombinator.com/item?id=50143218",
       "author": "bookofjoe",
-      "points": 93,
+      "points": 94,
       "num_comments": 161,
       "created_at": "2026-10-18T17:27:30Z",
       "object_id": "50143218",
@@ -145,7 +145,7 @@
       "site_name": "The Verge"
     }
   ],
-  "total_hits": 480,
+  "total_hits": 485,
   "has_metadata": true,
-  "fetched_at": "2026-10-20T00:30:53.594486+00:00"
+  "fetched_at": "2026-10-20T05:41:56.977386+00:00"
 }
