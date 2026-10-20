@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-20T15:44:58.556515+00:00'
+updated: '2026-10-20T19:51:40.159207+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 20, 2026 at 15:44 UTC  
+**Last Updated:** October 20, 2026 at 19:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rock
 
 HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 1d ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 2d ago
 
 ---
 
@@ -84,7 +84,7 @@ Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries t
 
 Who builds each part of a humanoid robot: 2,351 products from 788 organizations in 46 technology boxes, as of October 2026.
 
-🔗 [Airfold](https://www.airfold.co/humanoid-technology-map/) • 1d ago
+🔗 [Airfold](https://www.airfold.co/humanoid-technology-map/) • 2d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi my name is deemco From saudi arabia Like u see the title I have proplem with 
 
 Drones are the next section Online tools that run sample by sample on a flight controller's data, on a Raspberry Pi or an NVIDIA Jetson next to it. This issue splits the work into small points. Pick one, say so in a comment, and open a PR. Every point has a question it answers, a data source and a way to check it, so a first contribution fits in an afternoon. How to take a point: comment "I take N", fork, work on a branch, open a PR that mentions this issue. One point per PR. Questions in the comments are welcome. Ground rules for every point - Each number on a page comes from a script of the repository that was run before the sentence was written. - Synthetic data are labelled "synthetic" everywhere they appear. - "Tested on a Raspberry Pi / a Jetson" is written only when the command ran on that board; otherwise "written, not run on the board". - Sources are the papers named below, with page numbers. ## Data and adapters **PX4 ULog reader.** Yield one dict per sample (time, gyro, accelerometer, GPS velocity, motor outputs, battery voltage) with `pyulog`. Check: a tiny ULog written by the test round-trips. **MAVLink tlog reader.** The same fields with `pymavlink`. Source: the MAVLink survey, arXiv:1906.10641 (Koubaa et al., IEEE Access 2019). **Synthetic flight generator.** Hover plus a circle, noise, one fault at a stated sample, labelled. The single source of data for tests and smoke runs. **ALFA loader.** Load the fixed-wing fault dataset (arXiv:1907.06268, Keipour et al., IJRR 2021; data DOI 10.1184/R1/12707963) and its ground-truth fault times. Check: the 47 processed flights load and the fault time of each is read. ## Pipelines (each answers one question) **Which part broke, and how many seconds after?** Residual of commanded against measured rate, a CUSUM detector with `reset_on_alarm=True`, a robust Mahalanobis score. Metrics: detection delay and alarm episodes per hour of normal flight. Data: ALFA (point 4). Related: Garg and Fan, arXiv:2309.09108. **Is the GPS telling the truth?** Online comparison of GPS velocity with the integrated IMU. Inject an offset ramp into normal flights and say so on the page. Motivation: SemperFi arXiv:2105.01860 and Kim et al. arXiv:2407.15003. **Is a propeller damaged?** Online spectrum of the gyro or accelerometer and a distance of the band energies from the healthy baseline. Related: Zhang et al., arXiv:2302.04410. **How many minutes of flight are left, and how sure are we?** Online fit of voltage against current and time with an interval; the remaining time as a distribution. Source for the energy model: Alyassi et al., arXiv:1703.10049. **Is the next move safe?** Distance to a geofence and to obstacles from the simulated lidar of `benchmarks/lidar_sim.py`, with the protection tools already in the library. **Where is the landing pad, and is the camera moving?** `GlobalMotion`, `MotionMask` and `FrameAnomaly` on synthetic frames of a pad. Metrics: pixel error against the planted position and time per frame at 640x360. **Is the radio link about to fail?** A drift detector on packet inter-arrival time and RSSI of a synthetic MQTT stream. **Static against online.** The same fault data with a scikit-learn batch model and the online one; median of 20 seeds, time per sample, memory. The page follows `docs/finance/static_vs_online.md`. ## Boards **Raspberry Pi to Pixhawk page.** Serial wiring, the PX4 parameters and the Pi settings, with each step checked against the PX4 documentation page (https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html). Mark every step you ran yourself. **Jetson power modes page.** The `nvpmodel` modes of each Orin module and the time per sample of a pipeline in each mode, measured on the board you own. **`edge_bench.py`.** Time per sample (median and interquartile range), 99th percentile, resident memory and CPU temperature for each pipeline on a given board, written to a JSON file named after the host. Include your board model in the file name. Results from a board you own are the most valuable contribution here. **Dockerfiles for arm64 and Jetson, `install.sh`, a systemd unit and an MQTT bridge** publishing the score and the alarm episodes. Base image names come from the vendor documentation, with the URL. ## Also open **ArduPilot.** The same adapters against an ArduPilot log, with the differences written down. **A flight log of your own.** Run a pipeline on a log from your drone and tell us what it found, as a comment or a page. **Spotted something in the plan?** A missing pipeline, a better source paper, a wrong sentence. Open a comment and it becomes a numbered point. A new contributor can start with point 3, 13 or 18. The folder with the instructions, rules and papers is kept by the maintainer; ask here if you want a copy. ## Papers to read (one per area) - **MAVLink, the protocol every point 1-2 and 16 talks to:** A. Koubaa et al., "Micro Air Vehicle Link (MAVLink) in a Nutshell: A Survey", IEEE Access 2019, arXiv:1906.10641. - **Fault data and metrics (points 4-5):** A. Keipour, M. Mousaei, S. Scherer, "ALFA: A Dataset for UAV Fault and Anomaly Detection", IJRR 2021, arXiv:1907.06268. - **Actuator faults (point 5):** K. Garg, C. Fan, "Neural Network-based Fault Detection and Identification for Quadrotors using Dynamic Symmetry", arXiv:2309.09108. - **GPS and state-estimator attacks (point 6):** H. Sathaye et al., "SemperFi: A Spoofer Eliminating GPS Receiver for UAVs", arXiv:2105.01860; K. H. Kim et al., "Predictable by Design, Vulnerable by Nature: Security Consequences of Learnability in UAV State Estimators", arXiv:2407.15003. - **Propeller faults (point 7):** W. Zhang et al., "Simulation-to-reality UAV Fault Diagnosis with Deep Learning", arXiv:2302.04410. - **Battery and energy (point 8):** R. Alyassi et al., "Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones", IEEE T-ASE 2023, arXiv:1703.10049. - **Boards (points 13-16):** PX4 documentation, "Companion Computers", https://docs.px4.io/main/en/companion\_computer/ and "Raspberry Pi to Pixhawk", https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html; NVIDIA Jetson Orin power modes, https://docs.nvidia.com/jetson/archives/r36.4/DeveloperGuide/SD/PlatformPowerAndPerformance/JetsonOrinNanoSeriesJetsonOrinNxSeriesAndJetsonAgxOrinSeries.html. Know a better paper for one of these areas? Add it in a comment with the arXiv number. link : https://github.com/tatopenn-cell/Dense-Evolution-Discovery/issues/266
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ Drones are the next section Online tools that run sample by sample on a flight c
 
 Hi everyone! Not sure if this is the right flair or subreddit for this inquiry but I am trying my luck! Looking for a collaboration with someone who has made a fully functioning robotics machine (example: like the mars rover or something in that general field) that they would like to showcase next year. CONTEXT: I am hosting a NYFW show in NYC next year showcasing my cyber/steampunk space inspired collection. I would like to showcase and collaborate with someone who would like to share their work on a stage. I am no where near well versed to make and create my own robotics, so I was hoping someone would be open to connecting the bridge of couture (high fashion) and science with me. It would be a demonstration on the catwalk or simply stationary in the middle while the audience could see the functions in person. The models would maneuver around the displayed robotics making sure your work is also being carefully considered and safe. i’m happy to share concepts (think dystopian, commentary on space tourism and the implications of it and what that looks like for the future, etc) and the collection or any other context privately. if this is something you or someone you know would be interested in please comment or message me! If there is a better sub to post this I would be grateful for the recs! Thank you!!
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
 
-TechCrunch • 2h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -128,7 +128,7 @@ TechCrunch • 2h ago
 
 Agility Robotics’ first practical robotic worker is nothing like I dreamed
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -136,15 +136,15 @@ IEEE Spectrum • 2d ago
 
 They're still a long way off from mass-producing Terminators.
 
-Defense News • 23h ago
+Defense News • 1d ago
 
 ---
 
-**[Robot Wars How China Has the Robotics Industry in Its Grip](https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html)**
+**[Robot Wars – How China Has the Robotics Industry in Its Grip](https://finance.yahoo.com/technology/ai/articles/robot-wars-china-robotics-industry-004100697.html)**
 
 Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
 
-Crude Oil Prices Today | OilPrice.com • 15h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -152,13 +152,15 @@ Crude Oil Prices Today | OilPrice.com • 15h ago
 
 The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
 
-GeekWire • 14h ago
+GeekWire • 18h ago
 
 ---
 
-**[Intel Asks FCC to Allow Upgrades for Banned Foreign Robots](https://www.bloomberg.com/news/articles/2026-10-19/intel-asks-fcc-for-upgrades-to-banned-foreign-robot-technology)**
+**[Daimon Robotics building the infrastructure layer for tactile intelligence](https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/)**
 
-Bloomberg.com • 18h ago
+Daimon Robotics is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform more reliably.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -170,17 +172,17 @@ Stock Titan • 6d ago
 
 ---
 
-**[Smart Hands, Human Touch: Neurotech Tightens Grip On Robotics Market](https://www.forbes.com/sites/naveenrao/2026/10/20/smart-hands-human-touch-neurotech-tightens-grip-on-robotics-market/)**
+**[Delivery robots accused of scanning customers' faces, sharing biometric data](https://www.wyff4.com/article/chicago-delivery-robot-lawsuits-biometric-data/74194487)**
 
-Forbes • 48m ago
+Two customers have filed lawsuits against Chicago food delivery companies, accusing them of collecting biometric data without consent.
+
+WYFF • 2h ago
 
 ---
 
-**[Robots allow us to gather more intelligence: Gecko Robotics co-founder](https://www.foxbusiness.com/video/6407129449112)**
+**[Smart Hands, Human Touch: Neurotech Tightens Grip On Robotics Market](https://www.forbes.com/sites/naveenrao/2026/10/20/smart-hands-human-touch-neurotech-tightens-grip-on-robotics-market/)**
 
-Taylor Riggs hosts Gecko Robotics co-founder and CEO Jake Loosararian to discuss the company's expanded $300 million Navy contract. He explains how AI and robotics help outsmart adversaries and ensure warship readiness.
-
-Fox Business • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -196,13 +198,13 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
 
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
 
-📺 MostAmazingTop10
+📺 AI Unfiltered
 
-👁️ 73K • 👍 673 • 💬 35 • ⏱️ 9:03 • 1d ago
+👁️ 34K • 👍 365 • 💬 47 • ⏱️ 8:52 • 4d ago
 
 ---
 
@@ -222,37 +224,17 @@ Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 📺 Jamel_AKA_Jamal
 
-👁️ 105K • 👍 3K • 💬 681 • ⏱️ 13:05 • 1d ago
+👁️ 107K • 👍 3K • 💬 687 • ⏱️ 13:05 • 1d ago
 
 ---
 
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
 
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 AI Unfiltered
+📺 MostAmazingTop10
 
-👁️ 31K • 👍 336 • 💬 46 • ⏱️ 8:52 • 3d ago
-
----
-
-**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
-
-More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
-
-📺 The New York Times
-
-👁️ 138K • 👍 1K • 💬 387 • ⏱️ 4:07 • 3d ago
-
----
-
-**[Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics](https://www.youtube.com/watch?v=BHiYomkfoGQ)**
-
-From training a world-action model on over one million hours of human video to deploying robots that fold thousands of napkins ...
-
-📺 Latent Space
-
-👁️ 24K • 👍 105 • 💬 6 • ⏱️ 1:21:06 • 6d ago
+👁️ 76K • 👍 696 • 💬 37 • ⏱️ 9:03 • 1d ago
 
 ---
 
@@ -262,7 +244,17 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 RuntimeBRT
 
-👁️ 133K • 👍 6K • 💬 176 • ⏱️ 2:55 • 1d ago
+👁️ 142K • 👍 6K • 💬 183 • ⏱️ 2:55 • 1d ago
+
+---
+
+**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
+
+More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
+
+📺 The New York Times
+
+👁️ 145K • 👍 1K • 💬 407 • ⏱️ 4:07 • 3d ago
 
 ---
 
@@ -272,17 +264,7 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 126K • 👍 1K • 💬 85 • ⏱️ 12:13 • 4d ago
-
----
-
-**[Teaching a humanoid robot to play cornhole with Gemini 4 Argon](https://www.youtube.com/watch?v=9PICEmtfpWU)**
-
-In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ...
-
-📺 Google DeepMind
-
-👁️ 1.4M • 👍 5K • 💬 391 • ⏱️ 1:44 • 6d ago
+👁️ 128K • 👍 1K • 💬 86 • ⏱️ 12:13 • 5d ago
 
 ---
 
@@ -290,7 +272,27 @@ In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Ar
 
 📺 Big Duke13
 
-👁️ 331K • 👍 11K • 💬 1K • ⏱️ 2:35 • 3d ago
+👁️ 350K • 👍 12K • 💬 1K • ⏱️ 2:35 • 4d ago
+
+---
+
+**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
+
+Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
+
+📺 Tesla Insider News
+
+👁️ 322K • 👍 2K • 💬 494 • ⏱️ 21:44 • 4d ago
+
+---
+
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+
+📺 MACHINEKIND
+
+👁️ 42K • 👍 588 • 💬 60 • ⏱️ 12:40 • 3d ago
 
 ---
 

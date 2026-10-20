@@ -5,42 +5,22 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGRjS1JZU3VjZDB6MWZqNk5RNnhrNnRHQ0d0RUplcmVsWGRDbE1kZElGSjBXSEEyTnh0TjNFbWVUQWNXa0F6azZKaC1yNnFKcG90RHVsLW5ma2U5RHdjVkN5ZHREanpqaERUQTdSMDBQc3UwYXZXMXU4OUNpRkpfTUpyM3B2YTU3N1hLeDBIdXRCenJkd2JVYzVpSkExSms4M0E?oc=5",
-      "pub_date": 1792476060.0,
-      "article_url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
-      "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87fd20b7eea5d4a684e10ddd3854064e",
-      "description": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line \u2013 or just around the corner"
+      "headline": "What if an AI bubble bursts \u2014 and that accelerates AI job losses? : Planet Money",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNV83ZEgxNGdIM2NPNThUU0wxbml0MUE1RFNjZ0hkczFwSEJsOFh0SXhsajlfWTlaUUZhX1NnQU84aTdjQlU3elFPcGFSeGM3TlBtb25tWGlJMFhwR3dOb3ZiTmhQNUZ4b0xGcmtvUFBoOGFsNk42YnRWX0ZSaVFFeEVXbEFySE1MTkI4WWdFd0RBbm0tUjhpeGc1ZHpGcTZWRW5vYVpfU0diR0hTRkRvQlFZMXpYSmNGOWhDS2VfVDdVNW1UVHc?oc=5",
+      "pub_date": 1792492200.0,
+      "article_url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6007x3379+0+90/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F73%2F30ccbe9b4d3c903bb381870a6cf5%2Fgettyimages-1466243146.jpg",
+      "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
     },
     {
-      "headline": "US banning Chinese AI DeepSeek from government agency IT systems",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtJNmIzcGdtUF96Zk5qZ1JfRVZJZE9mSnluMVJZMHVXbGpzWUozSVYyVzQ5dldnRU1aMXVEZ2JDOXczRmd0Q01FeDZvVFpyX2phVENGMURyX1VDM0cwd0VyYS1ra0VnYzdxZGFBZkp6VzR1SVRPVkFVYnBUSUNPVHc0OU1FamVXYWh3d0NHeHRKU0w0OE1pcjlfQ09oYXR2N3dycXNXWFFZdw?oc=5",
-      "pub_date": 1792445000.0,
-      "article_url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "US bans use of China\u2019s DeepSeek AI tools by government agencies",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUV9DaHpRUTR2dzh2cG9RTHdpa3VReVdBSzNfbkJlUm1wX3VXdWREbmMtRkpGOE5SZE0waTJYVmMya2F2NUxCTHRXaXBmaHhpczFZN2JMbG50VEM1cmNWVVpHWVg1ell2ZG9qM013bHpGX3NwbkRLamN3QU04a2pER1FRQXlxb253cDR2aHlvSEZ5V3JxSVZaVDdheDdFMkpj?oc=5",
-      "pub_date": 1792501380.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-      "image": "https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac803d3ab432db3a7e25857628bcffbb",
-      "description": "Use of tools \u2018may result in the transfer of sensitive data\u2019 to China, defense department says"
-    },
-    {
-      "headline": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNwMlNFRlZ6SkZCMWtZaEJfUWdXbGxlQVBnSEZOZ0dVM1dLc240NTVQdnZTbjJqd2pRWVNpUUZVYldWZDlzdF8waFlUVlRRaW1uYllNRjdVNFZZSW9aeFhGQmRzS1p1VmhFUG9HbTMzaE5hTm1mOGFwSHp5VzlEbTEtc2ZsQTJ3amdCVjhkZUU5bkY3UDM2ajNRcGY4aDJBWjhFbGljNjlZaXI1X3gyX1gyYTV4QQ?oc=5",
-      "pub_date": 1792500323.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+      "headline": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUNPaTl4Wmxoa0ZDMUlSYUpZdWR0QXNiTmRfbTNEVjhMRlFpZHJLdTVsSTEwS3ZzeFlDUzRub0xlS2hleFJVWXNkeTdsaGdraGpKWEhNeVZvU2dRYm1FS2tOdEhPMWQwT1lfdjdlSE1vTGZWNHpObE9NN1pPSWhBVUJDM1h4VFg4UHc?oc=5",
+      "pub_date": 1792514894.0,
+      "article_url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html",
       "image": null,
       "description": null
     },
@@ -55,56 +35,76 @@
       "description": null
     },
     {
-      "headline": "Stock investors are ready to move on from the AI rout. Credit investors are not",
+      "headline": "Jim Cramer says the recent AI stock sell-off echoes a crucial lesson from the 1987 market crash",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FdjdvNkVJNTBNXzNnc1QxajFXRXB5N19iMHA4TnI3ZmVIcnNTMXdLb3dFbzcxandsazY0U2h3X2J2aGdZcGI0bUk5SVRMSFBDM3NuckRpLUZna1cxSEtLQlhETU9ubl9hVXhoRVBJVWQxR3FpR0RUREtR0gF_QVVfeXFMTkVuZEJfMEp5QjZ3aUdERjhISnNrRmxxWnJzWDc1emRVSmNfaXNoQ0lqbGk5RFBVTXNTTXRMTHFuZjZuU3Y3RDZJdGJJM3lBUjVfWkpsa3ZPLXpCcDYxMEduX3EyM3N4cUF0dXhNQTFOY3FTYUtZNnNiUHFGTjdESQ?oc=5",
-      "pub_date": 1792444332.0,
-      "article_url": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348052-1786472283085-gettyimages-2256660858-DAVOS_WEF_2026.jpeg?v=1786472339&w=1920&h=1080",
-      "description": "Investors were still demanding high yields and more insurance on CoreWeave and Oracle bonds."
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVpOWHpvaWVtbjRPeFhpY3NOa2xkMm5nanltbWhLdjY3ZGRXNjhrRVlEQ2xaQVV4eWNwbDI3REk2bzlVbjh3a01hVG03RUlydUdzUVVfc1FkUzR4cVhEeE9iellQWUV4VXpiWkVSdC1yOHlWdkpFVWhnUE1FTWZMQm1TUDBmVFRzcTktSVFnc0PSAZYBQVVfeXFMTXFlNkZXa0dLTDJQWFVHLXhxSUpPQ1VUaW04N0NtYkkyT3dBUGpjbWlfWi1weDAwSGl0b3hKWXZtdWVtV1V1R25ZV2ZMY3Vmam84QjhMa0FmYlp5cnBUVWZMejh3X3plNEdfRTc4VUhXM3dlejU3Z0RkOHRpdENrYXNRTXd3a09MUzJ3em1uLWxneGRYSk9n?oc=5",
+      "pub_date": 1792448565.0,
+      "article_url": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080",
+      "description": "CNBC\u2019s Jim Cramer said the 1987 stock market crash offers an important lesson that can be applied to the recent AI sell-off."
     },
     {
-      "headline": "AI jitters clobber South Korea's Elice as stock sinks 32% in trading debut",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2lsaEIxUEdwUDBpUVA3Z1Z4UXpOZ25aR3NEc1RZQk9zZHUxSG5jVEgzbUZEVlZ1MFlLM2dJbk5wV09SNFRpaHUzcXZmZUFMWkt2QVRqVU5oWENvYUVOYmhrOFJDd2JYNXc5QmhQQi1FY29VcHBOSVo2TmpkRUdTTVZJNER4OWthOG9HMUVHV04xdnIyY0lQbS1XMERsU1ZaaldPdXdnLWdFaGw4dUQ4bUxWUlhqUDdLQ1FUOEl6a00yNGIwTnhzdVNyTHdWOGVsRmc?oc=5",
-      "pub_date": 1792507832.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/article/ai-jitters-clobber-south-koreas-elice-as-stock-sinks-32-in-trading-debut-145032999.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f3490009fbdd977aa23a31f0700757fb61b3575e87d92f70732c7dac32d6bdcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbfc6c2bd-40c1-45a0-8808-d744716b3232_7cd2bb0e71918ca0b95628c75d31b05277a782f1829e25d018ee5febe7caadbf.jpg",
-      "description": "The rocky debut of South Korean data center provider Elice underscores lingering jitters over the AI trade."
+      "headline": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmFZREJlbGlIM0pwdlJrY18zOHEzQndBcDhwVFFfZW00Y1FpS2RTRGFIb0RZdWNTOEFweGhMeFl1QWJHQzZDVkRZZ0dGdkZpV0VwMzduQThnclRtbF9rQjg2WVB4bHY5ZG1GS1dOSUtyY3pyMjZ1cXcxRUtqT2xNSnFnUzdWU1FMWjhUN2JpbF9IRUJ5ZDVIY0FkVkxtNHRMclY1RkhVV0p5VG9NM2FxVmRlZHhZd0Z5cEk1S252M1E2aDg?oc=5",
+      "pub_date": 1792522839.0,
+      "article_url": "https://www.cnbc.com/investingclub/2026/10/20/were-booking-big-profits-in-an-ai-stock-and-trimming-a-credit-exposed-bank.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108211775-17604496412025-10-14t130305z_1228058461_rc2ylga38j4l_rtrmadp_0_tech-broadcom-chips.jpeg?v=1760449701&w=1920&h=1080",
+      "description": "We making two trades Tuesday afternoon."
     },
     {
-      "headline": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWhNWkVpbGtfZ0FYeWRMNE56dlFjcWRKaU12ejNrYmdUR3VRN0VIWHNfQ2J5V29IUDV0a05zUC00U2pJUWNrdGp0amFSVHExdTF6cnJnMWVqc0FYZGlqRmZ3aVJuSjNaMVBsTEo3UG1iQzFHQXBEUzJmSnZCSmVZWldHNHo2ay1aVG5qdmZ4dGhKdmNNZ1l0SEdYLVJWUFkxVlI2TGJqcjY4NVBaQVlQc01IcEx4X3p2RGlmcDM2RFJWeDA?oc=5",
-      "pub_date": 1792508820.0,
-      "article_url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "image": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/191:100/w_1280,c_limit/culture_ai_agent_internet_research_listserv.jpg",
-      "description": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy."
+      "headline": "J. Crew's website went down \u2014 and an odd message said its 'generative AI backend' was 'healthy'",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXpNemNKZERxNnJnekhwVmNIM0Z6T2RST0g0dEItLWEzNWFrZmpkRm5WcGNmWF9JVFRyX2pFOWZnbGlDanA2NFZHM1F5MVhvaXJocURPV0c5TGh3VkZ5bWlsWjF0Y3VndkhyUlV3TEJPUnh5X1lRZl9BalN0R2tWZVJSYklSQkw0cTlDeXYyb0F2VVdTLXZ6YjFuRVg1bXVLUS1fUUZwU2NVMk0?oc=5",
+      "pub_date": 1792524600.0,
+      "article_url": "https://www.businessinsider.com/j-crew-website-crashed-generative-ai-backend-message-discount-email-2026-10",
+      "image": "https://i.insider.com/6ad7bbc92428f6b4558141a3?width=1200&format=jpeg",
+      "description": "The website of clothing retailer J.Crew crashed Monday, leaving shoppers with a puzzling message: \"JCrew generative AI Backend is healthy.\""
     },
     {
-      "headline": "'Klara and the Sun' Review: Jenna Ortega in Taika Waititi's AI Fable",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXhqbkRBaVdBOFNFdlZJODQwcDJGMjZvWF9kaXhEMEYwNldHQzJXbDVIUEtZeXdGODJ2dWZfTGJVOVZaeTFhcFYwR3Y3SVA0UE1jZnFoemJoY1VHSDg0b1RpeUdRV3VyUVhjTHpZWW1yd3lFMTlTelRvaFpOamJ6SkpzUXBzbV90cjFXVHVXYjZqaE55ZmhtWWIxd21jRnZqYXd4QUlLR3NjU2FmZTlvVFFvd2FXRlVHX0E?oc=5",
-      "pub_date": 1792508445.0,
-      "article_url": "https://www.hollywoodreporter.com/movies/movie-reviews/klara-and-the-sun-review-jenna-ortega-taika-waititi-1236735986/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DF-10284_r-H-2026.jpg?w=1296&h=730&crop=1",
-      "description": "Newcomer Mia Tharia, Natasha Lyonne and Steve Buscemi also star in this adaptation of the Kazuo Ishiguro novel about the unique qualities of being human that cannot be replicated."
+      "headline": "Idealab's Bill Gross is giving away 1.2 million AI-generated business ideas",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdkQ5MkVHUjR2OEFrNkZjSjFrMmZxb1dwdWpLajR6a05Rd2NBSVBYOUxvUWFaZ2JBQzFaN19HXzF2bklyLS1QS3hLOGRta1k0T1BZaGFhMFBQTWVLMUpJU1h3QmFBWmR2NDcxalM3UWprTFBnUDVpSWJiWGJabktzMG1SdGlkYWhyRUlOWVBOTnlqeHBNR3dFOHhTanh0VWN4WjRRTWRRWUQ4WkJBQVRSUHpsaDBCV3p2cUp5VDZBa0hHZ3V3dGJiM3RvN3E0WV83Y3dwRVpPeGJiWHc?oc=5",
+      "pub_date": 1792522860.0,
+      "article_url": "https://fortune.com/2026/10/20/idealabs-bill-gross-thinks-ai-could-help-launch-1-million-new-businesses-making-up-for-any-job-losses-it-causes/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270276127-e1792520128205.jpg?resize=1200,600",
+      "description": "The Idealab CEO thinks AI-powered entrepreneurship could compensate for any job losses AI causes"
     },
     {
-      "headline": "Navy robot deal quadruples as US looks to \u2018outsmart\u2019 China with AI at sea",
+      "headline": "US banning Chinese AI DeepSeek from government agency IT systems",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtJNmIzcGdtUF96Zk5qZ1JfRVZJZE9mSnluMVJZMHVXbGpzWUozSVYyVzQ5dldnRU1aMXVEZ2JDOXczRmd0Q01FeDZvVFpyX2phVENGMURyX1VDM0cwd0VyYS1ra0VnYzdxZGFBZkp6VzR1SVRPVkFVYnBUSUNPVHc0OU1FamVXYWh3d0NHeHRKU0w0OE1pcjlfQ09oYXR2N3dycXNXWFFZdw?oc=5",
+      "pub_date": 1792445000.0,
+      "article_url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNwMlNFRlZ6SkZCMWtZaEJfUWdXbGxlQVBnSEZOZ0dVM1dLc240NTVQdnZTbjJqd2pRWVNpUUZVYldWZDlzdF8waFlUVlRRaW1uYllNRjdVNFZZSW9aeFhGQmRzS1p1VmhFUG9HbTMzaE5hTm1mOGFwSHp5VzlEbTEtc2ZsQTJ3amdCVjhkZUU5bkY3UDM2ajNRcGY4aDJBWjhFbGljNjlZaXI1X3gyX1gyYTV4QQ?oc=5",
+      "pub_date": 1792500323.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China slams US ban on DeepSeek AI over security concerns",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb19kT2UtT29hMkxVRGltd3pLSmtQM185bXV2M0NvRUN6TGtxXzU0QjZ5QzVUMlhxUjQ3ZVdfb3RmTmdfbmEtcEp5M1U4a3FoT0wzT1lHT2tSdXpSaG1YbGxrem5nbHhDaU4xMjhmbEZOdldZazM4YllqRDBnWXVzSk85RXo5b282eXBkRmZYNDQzSFRy0gGaAUFVX3lxTE1RNlJFcnluY3NaTkVYRHBaalFZaG50TVJnUTBUc3hvS2xfQjk0TXFoSXI5bVVzcllkNWR3YUx4MThfQi1XdG5aOWtHREtaNzBVLTRyMHBEWFFZRWQ5NHBaLUl0WWl5MUg0bVRrQ2RiYTY2V3oxaGdCcHJJMXNoNHJ4dk1ySEY1N3NHdnYteW5sckV6UldaRjB2Y0E?oc=5",
-      "pub_date": 1792486822.0,
-      "article_url": "https://www.foxnews.com/politics/navy-robot-deal-quadruples-us-looks-outsmart-china-ai-sea",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/gecko-2.jpg",
-      "description": "Gecko Robotics unveiled its Komodo robot that scans warship decks like a CAT scan, mapping corrosion without stripping coatings for the U.S. Navy."
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBITWEtWmtRWUt6SldYS08tMldaaGs2YlBaLTF0TkkwWWZHYzV1N2pvajZ0clRRTnp5U2YyMkV1NkFqaTg2Si13TDh0RDg2ckFqTzF0OVk2UXc0YmlYeEdrV3B4MWtRVVRmcjhQbVhpUnFlSFljSFRj?oc=5",
+      "pub_date": 1792514641.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-deepseek-security-10-20-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/3214274683dcbacddfc481e2c5f6701e.jpg",
+      "description": "The U.S. banned DeepSeek AI from federal civilian agencies over national security risks and concerns over sensitive American data, prompting China to push back."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T15:44:52.365160+00:00"
+  "fetched_at": "2026-10-20T19:51:33.245146+00:00"
 }
