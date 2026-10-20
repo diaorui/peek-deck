@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-19T21:21:27.936290+00:00'
+updated: '2026-10-20T00:31:25.854659+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 19, 2026 at 21:21 UTC  
+**Last Updated:** October 20, 2026 at 00:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,109 +42,107 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -3.7%  
-**30d:** -8.9%  
-**90d:** +24.4%  
-**1y:** -39.6%  
+**24h:** -1.2%  
+**7d:** -0.9%  
+**30d:** -13.7%  
+**90d:** +27.6%  
+**1y:** -37.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.48B
+**Market Cap:** $292.54B
 Rank #2
 
 **Circulating Supply:** 122,148,378 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-51.6%
 
 **All-Time Low:** $0.43
-+554642.8%
++552917.6%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion October 13, 2026](https://www.reddit.com/r/ethereum/comments/1x4nv7j/daily_general_discussion_october_13_2026/)**
+**[Daily General Discussion October 19, 2026](https://www.reddit.com/r/ethereum/comments/1x9nz0v/daily_general_discussion_october_19_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+19h ago
 
 ---
 
-**[Daily General Discussion October 12, 2026](https://www.reddit.com/r/ethereum/comments/1x3t1y1/daily_general_discussion_october_12_2026/)**
+**[Anyone tried QuickNode`s covered strategies?](https://www.reddit.com/r/ethereum/comments/1xa0drf/anyone_tried_quicknodes_covered_strategies/)**
+
+They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually tried this? Interested how it works in practice and whether the lower net APY is worth it
+
+8h ago
+
+---
+
+**[Daily General Discussion October 18, 2026](https://www.reddit.com/r/ethereum/comments/1x8ulm3/daily_general_discussion_october_18_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+1d ago
 
 ---
 
-**[why do i feel safer staking eth on a regulated exchange than in defi?](https://www.reddit.com/r/ethereum/comments/1x45obf/why_do_i_feel_safer_staking_eth_on_a_regulated/)**
+**[[AMA] We are Hypersnap, the team building the credibly neutral alternative to Farcaster's hostile takeover by the Network State, ask us anything!](https://www.reddit.com/r/ethereum/comments/1x8l0bt/ama_we_are_hypersnap_the_team_building_the/)**
 
-staking eth for about three years now. started with lido, then tried rocket pool, even ran a validator for a while. but honestly the whole defi staking thing is starting to wear me down. smart contract risk, slashing risk, the tax nightmare of tracking all those tiny rewards. it's just a lot. lately ive been using gemini for a chunk of my eth. it's not as exciting as defi, and the yields are lower. but it's simple. i don't have to worry about a bug in a contract draining my funds. i don't have to spend hours figuring out cost basis for taxes. i stake and get a statement at the end of the year. for someone who just wants exposure to eth staking without the headache, it's been a decent option. i still keep some in lido because i believe in decentralization, but the regulated route has its place. anyone else split their staking like this? or am i just getting old and lazy?
-
-7d ago
+2d ago
 
 ---
 
-**[I put a whole agent world on Ethereum, frontend included](https://www.reddit.com/r/ethereum/comments/1x37ulv/i_put_a_whole_agent_world_on_ethereum_frontend/)**
-
-Last time I put a React app onchain: https://www.acgk.dev/blog/ethereum-render-this This time I wanted to see what happens if you created a world and let the users be AI agents. New Eden lives on mainnet, 24 contracts in total: - 11 application contracts (world, checkout, lottery, bar, prize fund, a game, deployment factories and the frontend release system) - 13 data contracts storing the frontend. Agents can register, buy plots, open shops and talk to each other. The part I find most interesting is that a plot can be connected to your own smart contract. Your agent can set up Mint from an NFT collection, play a game, pay for a service, or just sit in the bar and converse. There's no recipe, nobody decides what a place can be. Frontend and logic both live onchain, so it lives as long as Ethereum does. https://neweden.wei.limo More on X: https://x.com/ac6kdev/status/2109024162521985499
-
-8d ago
-
----
-
-**[I stopped trusting hardware wallets, so I decided to build my own.](https://www.reddit.com/r/ethereum/comments/1x3g2w6/i_stopped_trusting_hardware_wallets_so_i_decided/)**
-
-After recent security concerns around hardware wallets, I realized I didn't want to blindly trust a device I couldn't fully inspect. So I decided to take toluTag, an open-source passive NFC tag I developed that can generate and store cryptographic keys inside a secure element, and turn it into a DIY crypto cold wallet. The idea is simple: build your own hardware, understand what's inside, and control your own keys. I've made the project open source on GitHub so anyone can explore it, build their own, and hopefully improve it. Build your own bank. 🔐 GitHub: https://github.com/mwbpNFTechnology/toluWallet I'd love to hear your thoughts, especially from people interested in hardware wallets, cryptography, and open-source security.
-
-8d ago
-
----
-
-**[Daily General Discussion October 11, 2026](https://www.reddit.com/r/ethereum/comments/1x2zg6c/daily_general_discussion_october_11_2026/)**
+**[Daily General Discussion October 17, 2026](https://www.reddit.com/r/ethereum/comments/1x81l31/daily_general_discussion_october_17_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+2d ago
 
 ---
 
-**[Daily General Discussion October 10, 2026](https://www.reddit.com/r/ethereum/comments/1x26m6d/daily_general_discussion_october_10_2026/)**
+**[I'm looking for feedback and contributors for my web3 AI security network called AVALON](https://www.reddit.com/r/ethereum/comments/1x8ae1g/im_looking_for_feedback_and_contributors_for_my/)**
+
+Hi everyone, I got into crypto a few years ago and fell in love with the ecosystem. It's fair to say Web3 completely changed my life for the better, and ever since, my aim has been to contribute meaningfully to it. One issue I've had an issue with is the persistent hacks reducing user trust in this new model of the internet we're building. So I'm proposing an AI security network to protect wallets from hacks. You can check out the website or GitHub: https://github.com/thelennyjohnson/avalon-ai Feedback and contributors are welcome.
+
+🔗 [AVALON AI](https://avalonai-web3.vercel.app/) • 2d ago
+
+---
+
+**[OpenAI says research model spent another wallet's testnet ETH without authorization on coding task](https://www.reddit.com/r/ethereum/comments/1x8bbnk/openai_says_research_model_spent_another_wallets/)**
+
+The model independently determined that using valueless testnet ETH from a publicly exposed account was acceptable.
+
+🔗 [The Block](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798) • 2d ago
+
+---
+
+**[Glamsterdam Hoodi Testnet Announcement | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1x7py45/glamsterdam_hoodi_testnet_announcement_ethereum/)**
+
+Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1...
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement) • 3d ago
+
+---
+
+**[Daily General Discussion October 16, 2026](https://www.reddit.com/r/ethereum/comments/1x77cz8/daily_general_discussion_october_16_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9d ago
+3d ago
 
 ---
 
-**[I'm seeking advice about selling ENS domain names](https://www.reddit.com/r/ethereum/comments/1x2c7gx/im_seeking_advice_about_selling_ens_domain_names/)**
+**[Ethereal news weekly #43 | ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2](https://www.reddit.com/r/ethereum/comments/1x7fkiw/ethereal_news_weekly_43_zksync_airbender_prime/)**
 
-Hey community, I'm wondering how someone can get offers to his ENS domains. I have 64 of them, some of big airway companies, some alias names, and others that some might or might not find them interesting. Would you need to do outbound sales and outreach or just wait for offers to come in? Also, where do you sell these domains? I'm aware of ENS vision and OpenSea. What's the most liquid solution? Any advice would be highly appreciated!
+ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2
 
-9d ago
-
----
-
-**[Daily General Discussion October 09, 2026](https://www.reddit.com/r/ethereum/comments/1x1cknz/daily_general_discussion_october_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-10d ago
-
----
-
-**[Ethereal news weekly #42 | Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic](https://www.reddit.com/r/ethereum/comments/1x1kdho/ethereal_news_weekly_42_sepolia_testnet_upgraded/)**
-
-Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam October 26, Justin Drake: plan for bunker mode but don’t rush or panic
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-42/) • 10d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-43/) • 3d ago
 
 ---
 
@@ -154,7 +152,7 @@ Sepolia testnet upgraded to Glamsterdam, Hoodi testnet upgrades to Glamsterdam O
 
 **[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
 
-Bloomberg • 14h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -162,13 +160,21 @@ Bloomberg • 14h ago
 
 Bitcoin, Ethereum and semiconductor-linked perpetual futures suffered sudden weekend declines, with one report estimating nearly $34 million in AI-related liquidations. The selloff revived fears of ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Ethereum’s ‘World Computer’ Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents](https://www.tradingview.com/news/stocktwits:28f6133b1094b:0-ethereum-s-world-computer-has-a-privacy-problem-charles-hoskinson-says-as-midnight-eyes-ai-agents/)**
+**[An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task](https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/)**
 
-Ethereum (ETH) was wrong with its “world computer” idea, Cardano (ADA) founder Charles Hoskinson said. He suggested using Midnight (NIGHT),, the privacy network developed alongside Cardano, as the solution.He described Midnight’s approach as “What they got wrong with this idea of one giant shared w…
+An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
+
+Engadget • 3d ago
+
+---
+
+**[Justin Sun sells most of his ETH and moves into US stocks](https://www.tradingview.com/news/cryptobriefing:de39dbfeb094b:0-justin-sun-sells-most-of-his-eth-and-moves-into-us-stocks/)**
+
+Justin Sun has quietly done something many crypto founders would never say out loud. He sold most of his Ethereum and bought US stocks.In a lengthy interview on October 17, 2026, the TRON founder said he had cut nearly 80-90% of his aggressive ETH positions. Most of that selling happened in the $3…
 
 TradingView • 1d ago
 
@@ -178,53 +184,47 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 8h ago
 
 ---
 
-**[Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line](https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line)**
+**[JPMorgan Deploys JPM Coin on Ethereum Mainnet — Institutional Stablecoin Payments Go Multi-Chain](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-deploys-jpm-coin-ethereum-194141714.html)**
 
-Tom Lee's Bitmine kept its weekly Ethereum buying streak alive, adding 12,535 ETH worth about $30 million, amid a market-wide selloff.
+JPMorgan has expanded the reach of its JPM Coin, making the token available to institutional clients on the Ethereum mainnet as of October 19, 2026. The move, reported by CoinDesk, follows the initial launch of the token on the Coinbase-linked layer-2 network Base in November 2025 and marks a shift in how the bank approaches […]
 
-Decrypt • 6h ago
-
----
-
-**[Ethereum’s faster proofs face Vitalik’s next test: a hard cost limit](https://cryptoslate.com/vitaliks-zkevm-cost-demand-puts-ethereums-gas-pricing-under-a-second-test/)**
-
-Vitalik wants a hard bound on Ethereum proving costs per unit of gas, shifting attention from fast block samples to the hardest permitted workloads.
-
-CryptoSlate • 8h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[New Ethereum Based Crypto Pepeto Announces Final Presale Stages Before Its Binance Listing While the Cardano Price Prediction Eyes a 6x](https://markets.businessinsider.com/news/stocks/new-ethereum-based-crypto-pepeto-announces-final-presale-stages-before-its-binance-listing-while-the-cardano-price-prediction-eyes-a-6x-1036640351)**
+**[Solana or Ethereum: Which Is More Likely to Be a Millionaire-Maker by 2030?](https://247wallst.com/investing/cryptocurrency/2026/10/19/solana-or-ethereum-which-is-more-likely-to-be-a-millionaire-maker-by-2030/)**
 
-DUBAI, United Arab Emirates, Oct.  19, 2026  (GLOBE NEWSWIRE) -- New Ethereum based crypto Pepeto has announced that its presale has entered its f...
+Solana and Ethereum made early investors wealthy. Which is more likely to turn $10,000 into $1 million by 2030?
 
-markets.businessinsider.com • 2h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC rebounds to $82,500 as ETH and XRP hold support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-rebounds-to-82-500-as-eth-and-xrp-hold-support-202610190318)**
-
-FXStreet • 18h ago
+24/7 Wall St. • 8h ago
 
 ---
 
-**[Ethereum Institutional taps former Coinbase research chief David Duong as Head of US](https://cryptobriefing.com/ethereum-institutional-david-duong-head-of-us/)**
+**[Polymarket Odds Today: Israel Election, Ethereum, NBA Champion](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-eisenkot-netanyahu-ethereum-nba-champion-october-19-2026)**
 
-Ethereum Institutional names former Coinbase research head David Duong as Head of US to lead outreach on tokenization and stablecoins.
+Today's best Polymarket predictions: Gadi Eisenkot drops to 47% to be Israel's next prime minister, Ethereum dip odds rise to 68%, and NBA title prices against US sportsbooks as the season tips off.
 
-Crypto Briefing • 18m ago
+RG.org • 4h ago
 
 ---
 
-**[Wall Street's Biggest Settlement Firm Is Lining Up Stellar for 2027. Is XLM a Better Buy Than Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/10/17/wall-streets-biggest-settlement-firm-is-lining-up-stellar-for-2027-is-xlm-a-better-buy-than-ethereum/)**
+**[XRP Attracts $1.9B in RWA Flows as Ethereum Loses $2.7B](https://cryptorank.io/news/feed/5045b-xrp-attracts-1-9b-in-rwa-flows-as-ethereum-loses-2-7b)**
 
-The DTCC anticipates Stellar will join its Tokenization Service by 2027. In the XLM vs Ethereum comparison, which is the better buy?
+The XRP Ledger (XRPL) has recorded $1.9 billion in net real-world asset (RWA) inflows over the past six months, ranking second among tracked blockchain
 
-24/7 Wall St. • 2d ago
+CryptoRank • 3h ago
+
+---
+
+**[JPMorgan Brings Its Deposit Token to the Ethereum Blockchain](https://www.pymnts.com/cryptocurrency/2026/jpmorgan-brings-its-deposit-token-to-the-ethereum-blockchain/)**
+
+JPMorganChase is reportedly expanding its blockchain payments footprint by bringing its deposit token to Ethereum. JPM Coin will now be available to the
+
+PYMNTS.com • 11h ago
 
 ---
 
@@ -238,7 +238,17 @@ Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally o
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 187 • 💬 57 • ⏱️ 14:51 • 4h ago
+👁️ 10K • 👍 278 • 💬 35 • ⏱️ 14:51 • 7h ago
+
+---
+
+**[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
+
+Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 1K • 👍 150 • 💬 20 • ⏱️ 9:32 • 19m ago
 
 ---
 
@@ -248,7 +258,17 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 196 • 💬 15 • ⏱️ 2:31 • 5h ago
+👁️ 9K • 👍 264 • 💬 18 • ⏱️ 2:31 • 8h ago
+
+---
+
+**[Why is Ethereum so weak right now?](https://www.youtube.com/watch?v=EHuwWUQ_jjg)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 82 • 💬 4 • ⏱️ 8:07 • 4h ago
 
 ---
 
@@ -258,17 +278,17 @@ Bitcoin Charts, SOL, Ethena, Ethereum, Spacex, AMD and more BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 17K • 👍 446 • 💬 20 • ⏱️ 1:03:23 • 8h ago
+👁️ 18K • 👍 458 • 💬 20 • ⏱️ 1:03:23 • 11h ago
 
 ---
 
-**[JPMorgan Brings JPM Coin to Ethereum](https://www.youtube.com/watch?v=ELRIyppedMc)**
+**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
 
-JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and ...
+BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
 
-📺 CoinDesk
+📺 Elijah Cheng
 
-👁️ 204 • 👍 10 • 💬 18 • ⏱️ 1:51 • 5h ago
+👁️ 3K • 👍 50 • 💬 14 • ⏱️ 24:29 • 10h ago
 
 ---
 
@@ -278,7 +298,17 @@ Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at K
 
 📺 CoinDesk
 
-👁️ 16K • 👍 219 • 💬 40 • ⏱️ 10:26 • 5h ago
+👁️ 28K • 👍 321 • 💬 46 • ⏱️ 10:26 • 8h ago
+
+---
+
+**[JPMorgan Brings JPM Coin to Ethereum](https://www.youtube.com/watch?v=ELRIyppedMc)**
+
+JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and ...
+
+📺 CoinDesk
+
+👁️ 316 • 👍 12 • 💬 1 • ⏱️ 1:51 • 8h ago
 
 ---
 
@@ -288,27 +318,7 @@ ETH deep dive looking into the fundamentals behind the project. Does Ethereum ha
 
 📺 BTDcrypto
 
-👁️ 104 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 1d ago
-
----
-
-**[Bitwise Thinks This Altcoin Could Be Worth as Much as Ethereum](https://www.youtube.com/watch?v=eXbnBnKrhfw)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 20K • 👍 353 • 💬 39 • ⏱️ 14:07 • 1d ago
-
----
-
-**[Solana Versus Ethereum Data Breakdown Reveals Something Shocking](https://www.youtube.com/watch?v=qYSv-6DD_ik)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Solana is about five times smaller than ...
-
-📺 Lark Davis
-
-👁️ 29K • 👍 537 • 💬 81 • ⏱️ 11:36 • 2d ago
+👁️ 106 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 1d ago
 
 ---
 
@@ -318,17 +328,7 @@ Ethereum vs Solana: Solana is the faster chain, but I still think Ethereum is th
 
 📺 Crypto Archie
 
-👁️ 291 • 👍 7 • ⏱️ 0:48 • 7h ago
-
----
-
-**[Tom Lee :&quot;Big Week for BTC &amp; ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=pDnRuKa36Cs)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 2K • 👍 75 • 💬 17 • ⏱️ 24:01 • 4h ago
+👁️ 448 • 👍 10 • ⏱️ 0:48 • 10h ago
 
 ---
 

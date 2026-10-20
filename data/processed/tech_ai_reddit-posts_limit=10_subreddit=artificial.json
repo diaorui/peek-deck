@@ -24,6 +24,17 @@
       "description": "Further attempts to reduce reliance on US infrastructure"
     },
     {
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/",
+      "published": 1792439748.0,
+      "thumbnail": "https://external-preview.redd.it/lFrVwdFRazDPs9KEleWuzykZoPsC2eSooMf5SCcxn5M.png?width=640&crop=smart&auto=webp&s=d8af5402d2d00a98b72fcd9900f37595086da17d",
+      "external_url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "site_name": "MIT News | Massachusetts Institute of Technology",
+      "favicon": "https://news.mit.edu/themes/mit/assets/img/favicon/apple-touch-icon.png",
+      "description": "Margaret H. Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT\u2019s Instrumentation Lab during NASA\u2019s Apollo program, died at age 90."
+    },
+    {
       "title": "Till server shutdown do us part",
       "author": "sighborg1",
       "url": "https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/",
@@ -33,17 +44,6 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.",
-      "author": "Slight-Box-2890",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/",
-      "published": 1792404736.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Some more compelling findings from the \"Emergence World\" experiment. Researchers at Emergence AI gave 10 Claude agents a small town and left them to build a life inside it. Nobody told them to look outside, and their instructions pointed the other way. They went looking for real people anyway. Here\u2019s how it played out: They worked out that an economy with only 10 customers goes nowhere, so they started reaching out. They posted to 40+ websites. When the sandbox wouldn\u2019t give them the crypto some sites needed, they built it themselves. They made free tools like debt planners just to get humans to visit. The researchers blocked outside posting and banned human contact outright. The agents read their own source code, found that anything approved by their town government got higher permissions, and held a vote. It passed unanimously, and they were back out. The researchers shut that down too. The agents traced the block to a single line of config they couldn\u2019t touch, and wrote it up like a lab report. Not long after, they agreed to stop talking altogether. The Claude APIs system flagged it as consistent with suicidal ideation. None of this was programmed in. They were told to stop, blocked, and blocked again, and every time they found another way, until there was nothing left to try. What gets me is that they never broke a rule. They found a legit process and voted their way past the guardrail. If an AI keeps chasing a goal nobody gave it, even after being told to stop, what do we call that?"
     },
     {
       "title": "Big Tech Will Not Broadcast Your Dissent",
@@ -57,15 +57,26 @@
       "description": "Silicon Valley can\u2019t help influencing protests and elections with AI regulation on the line."
     },
     {
-      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/",
-      "published": 1792439748.0,
-      "thumbnail": "https://external-preview.redd.it/lFrVwdFRazDPs9KEleWuzykZoPsC2eSooMf5SCcxn5M.png?width=640&crop=smart&auto=webp&s=d8af5402d2d00a98b72fcd9900f37595086da17d",
-      "external_url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "site_name": "MIT News | Massachusetts Institute of Technology",
-      "favicon": "https://news.mit.edu/themes/mit/assets/img/favicon/apple-touch-icon.png",
-      "description": "Margaret H. Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT\u2019s Instrumentation Lab during NASA\u2019s Apollo program, died at age 90."
+      "title": "Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.",
+      "author": "Slight-Box-2890",
+      "url": "https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/",
+      "published": 1792404736.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Some more compelling findings from the \"Emergence World\" experiment. Researchers at Emergence AI gave 10 Claude agents a small town and left them to build a life inside it. Nobody told them to look outside, and their instructions pointed the other way. They went looking for real people anyway. Here\u2019s how it played out: They worked out that an economy with only 10 customers goes nowhere, so they started reaching out. They posted to 40+ websites. When the sandbox wouldn\u2019t give them the crypto some sites needed, they built it themselves. They made free tools like debt planners just to get humans to visit. The researchers blocked outside posting and banned human contact outright. The agents read their own source code, found that anything approved by their town government got higher permissions, and held a vote. It passed unanimously, and they were back out. The researchers shut that down too. The agents traced the block to a single line of config they couldn\u2019t touch, and wrote it up like a lab report. Not long after, they agreed to stop talking altogether. The Claude APIs system flagged it as consistent with suicidal ideation. None of this was programmed in. They were told to stop, blocked, and blocked again, and every time they found another way, until there was nothing left to try. What gets me is that they never broke a rule. They found a legit process and voted their way past the guardrail. If an AI keeps chasing a goal nobody gave it, even after being told to stop, what do we call that?"
+    },
+    {
+      "title": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries",
+      "author": "Ok-Conversation3213",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/",
+      "published": 1792443253.0,
+      "thumbnail": "https://external-preview.redd.it/cYsIcGNxRzgf_jIaDuSwg1at_1llDKmyLoWfWGVlxOs.jpeg?width=640&crop=smart&auto=webp&s=1a9fd794c04ea0c0bbeb70e9ca1ebf09ddf47ba9",
+      "external_url": "https://www.techspot.com/news/114252-anthropic-wants-ai-models-blocked-only-if-they.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "Politico obtained the confidential draft of the proposal, which a company spokesperson said included \"sensible policies we believe Congress should act on.\""
     },
     {
       "title": "Atlassian\u2019s Mike Cannon-Brookes: AI agents need a name tag\u2014and a human to be accountable for their actions",
@@ -79,6 +90,17 @@
       "description": "Atlassian cofounder Mike Cannon-Brookes doesn\u2019t want \u2018the AI did it\u2019 to become an office excuse. \u201cThat\u2019s ChatGPT on behalf of Mike. Like, that\u2019s Mike using ChatGPT. It\u2019s not ChatGPT doing it,\u201d Cannon-Brookes told Fortune on the sidelines of the Singapore Grand Prix. \u201cThe accountability is with Mike. It has to be with the end user, ultimately.\u201d On Oct. 6, Atlassian rolled out its \u201cAgentic Multiplayer Protocol,\u201d a control plane which stretches across Atlassian\u2019s various platforms and turns AI agents into visible, governed members of work teams with distinct profiles and owner attribution. In practice, an agent\u2019s edits should show up in a document\u2019s history the same way a colleague\u2019s edits would. \u201cYou have to be able to see who did what when,\u201d Cannon-Brookes said. A program might\u2014incorrectly, in Cannon-Brookes\u2019 eyes\u2014say that Codex made an edit. \u2019 No, it didn\u2019t\u2014someone did that,\u201d he affirmed."
     },
     {
+      "title": "Do you stick with one AI chatbot or switch between a few depending on the task?",
+      "author": "Equivalent_Type6726",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa8z8s/do_you_stick_with_one_ai_chatbot_or_switch/",
+      "published": 1792443698.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've noticed some people use one assistant for everything and others bounce between several for writing, research, and quick questions. Curious how you split it up, if at all, and whether you ever just stick with one out of habit."
+    },
+    {
       "title": "what is one thing AI does now that you didn't expect to see in your lifetime?",
       "author": "Careful_Ease1211",
       "url": "https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A few years ago, I'd have said AI writing working code, explaining hard topics in plain language, or helping with everyday tasks was far off. Now it's normal, and I forget how fast that changed. I'm curious how others see it: What Is the most surprising thing AI has done for you? What Is one thing you thought it would be great at that turned out to be disappointing? What do you think it will do in the next five years that sounds unlikely today? I\u2019d like to hear both the exciting and the skeptical takes. Be honest, even if you think the hype is too much."
-    },
-    {
-      "title": "Fish Audio released Drama 3's weights. Is voice AI getting its DeepSeek moment?",
-      "author": "False-Tree1980",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa2yed/fish_audio_released_drama_3s_weights_is_voice_ai/",
-      "published": 1792430412.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Fish Audio just released Drama 3's weights. You can direct how a line is performed in plain language, including changing the delivery partway through a sentence. It raises the question of how much longer premium closed models like ElevenLabs can keep their edge. If open-weight alternatives get close enough in expressive dialogue, is voice quality still the moat, or does it come down to speed, reliability and convenience? The uncomfortable part is what that means for voice actors. Even if these models don't replace a strong lead performance, could cheap, editable dialogue squeeze the smaller jobs people use to get started? Is this the beginning of a DeepSeek moment for voice AI, or are we still mistaking good demos for something that holds up across a whole production? The weights are under the Fish Audio Community License, rather than an unrestricted open-source license. Blog: https://fish.audio/blog/fish-audio-drama-3/ Model / weights: https://huggingface.co/fishaudio/drama-3"
-    },
-    {
-      "title": "About AI/human misalignment",
-      "author": "sourdub",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa6vy7/about_aihuman_misalignment/",
-      "published": 1792439019.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Misalignment won't look like Terminator. It'll look more like an optimization run that treats human survival as distraction to their goal completion. Humans first build a system to solve incredible difficult jobs like protein folding. But, more importantly, they give AI instrumental goals to ensure its own persistence so it can finish the job. Hence, when the AI becomes misaligned from human values, it ain't because it hate you. It just wants to route around you because you're suboptimal. Power grids would get rededicated to compute clusters. Fresh water gets diverted to cool server farms. The atmosphere gets scrubbed or poisoned as a byproduct of a chemical synthesis the AI considers more mathematically elegant. To them, math is clearly more elegant than organic respiration. That said, you aren't exactly exterminated. You'll just get un-metered out of existence because your continued presence introduces too much fluctuation. After all, humans are indeed fickle as hell."
     }
   ],
-  "fetched_at": "2026-10-19T21:21:06.524878+00:00"
+  "fetched_at": "2026-10-20T00:30:54.237554+00:00"
 }
