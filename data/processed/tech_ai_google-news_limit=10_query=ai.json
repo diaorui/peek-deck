@@ -5,34 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+      "headline": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5",
-      "pub_date": 1792449000.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "image": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d3a0fd408476c79d9c0e98ffa27a054",
-      "description": "System can estimate a person\u2019s biological age and predict chances of cancer survival from a single photograph"
-    },
-    {
-      "headline": "Can AI predict whether you\u2019ll die from cancer from just an image of your face?",
-      "source": "Scientific American",
-      "source_url": "https://www.scientificamerican.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmNVZkppYkxsWDdVU3pEcWlGak1KREtRT3FlVG5UQ1EwZlpNSG5PZGhBWWdMQ0IyWEpFdXZLbWtQaElpdGlyVFNWRV9NSlA1YVluRkxSaWZLaktfdzlOVEhfc1o4RDk1QTNqdzJlakFLMllsazJzZmlhclJERUlYQ1VtejVrQVgzREY5dnAzWnM3RWpwWTNZdUNWWTk4aFRpWFdaS2hsMzdKTFpKUDNaeDE2cWQ2Z08ybmNOUQ?oc=5",
-      "pub_date": 1792449000.0,
-      "article_url": "https://www.scientificamerican.com/article/can-ai-predict-whether-youll-die-from-cancer-from-just-an-image-of-your-face/",
-      "image": "https://static.scientificamerican.com/dam/asset/43030498-6a8a-4e7e-ade9-1abf11916843/face-attention-mapping.png?m=1792445232.127&w=1200",
-      "description": "Researchers tasked an algorithm with predicting cancer patients\u2019 risk of dying. For some people, it was shockingly accurate"
-    },
-    {
-      "headline": "Can a simple photo of your face reveal how ill you are?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrUElzNEc2VTBNa3I5NDFnSWxMUDVraEk1azIzWUUwWjFuOWYwYWVIVVNNajFvS1FzczVicjFkVWxTbWlnX1F3U21LMnl5ekdIRnNMWjJNUThqRGs?oc=5",
-      "pub_date": 1792481341.0,
-      "article_url": "https://www.bbc.com/news/articles/c6lyexv93pkdo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg",
-      "description": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGRjS1JZU3VjZDB6MWZqNk5RNnhrNnRHQ0d0RUplcmVsWGRDbE1kZElGSjBXSEEyTnh0TjNFbWVUQWNXa0F6azZKaC1yNnFKcG90RHVsLW5ma2U5RHdjVkN5ZHREanpqaERUQTdSMDBQc3UwYXZXMXU4OUNpRkpfTUpyM3B2YTU3N1hLeDBIdXRCenJkd2JVYzVpSkExSms4M0E?oc=5",
+      "pub_date": 1792476060.0,
+      "article_url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+      "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87fd20b7eea5d4a684e10ddd3854064e",
+      "description": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line \u2013 or just around the corner"
     },
     {
       "headline": "US banning Chinese AI DeepSeek from government agency IT systems",
@@ -45,66 +25,86 @@
       "description": null
     },
     {
-      "headline": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMm5ISmplcUtod2txVlV0ajlNUHFPanpRa09GWnBMdjdOaUFCSTZOUXk2SnVNclplakZrckJWZDZTYU96Z3pKTVZieUZiVXkwM3Fza0FibjVLaGhBR2dNMUVwNW1yTllMZlI5R1N6ek1MZXI5OXfSAXtBVV95cUxOMTd2ZFNDSGNCclhSb3lSYl9MdnVtZ3BiYlp6VFQyZUpNR25oNFlsYnRnMThxWmJTZ2tWd3BGWV9PWGFSdHMzMFotTmNpbUFuQzZLaVdkOTJtSmxHeEpLdFcyU013c1dUMktXNWt4blRDZFYzeEk2VkF6WVU?oc=5",
-      "pub_date": 1792477526.0,
-      "article_url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108296670-1777011085478-gettyimages-2272870016-vcg111636967333.jpeg?v=1777011103&w=1920&h=1080",
-      "description": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems."
+      "headline": "US bans use of China\u2019s DeepSeek AI tools by government agencies",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUV9DaHpRUTR2dzh2cG9RTHdpa3VReVdBSzNfbkJlUm1wX3VXdWREbmMtRkpGOE5SZE0waTJYVmMya2F2NUxCTHRXaXBmaHhpczFZN2JMbG50VEM1cmNWVVpHWVg1ell2ZG9qM013bHpGX3NwbkRLamN3QU04a2pER1FRQXlxb253cDR2aHlvSEZ5V3JxSVZaVDdheDdFMkpj?oc=5",
+      "pub_date": 1792501380.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+      "image": "https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac803d3ab432db3a7e25857628bcffbb",
+      "description": "Use of tools \u2018may result in the transfer of sensitive data\u2019 to China, defense department says"
     },
     {
-      "headline": "US bans China's DeepSeek from government in race for AI dominance",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
-      "pub_date": 1792434114.0,
-      "article_url": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
-      "description": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
-    },
-    {
-      "headline": "What if an AI bubble bursts \u2014 and that accelerates AI job losses? : Planet Money",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNV83ZEgxNGdIM2NPNThUU0wxbml0MUE1RFNjZ0hkczFwSEJsOFh0SXhsajlfWTlaUUZhX1NnQU84aTdjQlU3elFPcGFSeGM3TlBtb25tWGlJMFhwR3dOb3ZiTmhQNUZ4b0xGcmtvUFBoOGFsNk42YnRWX0ZSaVFFeEVXbEFySE1MTkI4WWdFd0RBbm0tUjhpeGc1ZHpGcTZWRW5vYVpfU0diR0hTRkRvQlFZMXpYSmNGOWhDS2VfVDdVNW1UVHc?oc=5",
-      "pub_date": 1792492200.0,
-      "article_url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6007x3379+0+90/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F73%2F30ccbe9b4d3c903bb381870a6cf5%2Fgettyimages-1466243146.jpg",
-      "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
-    },
-    {
-      "headline": "After significant AI investment, have companies changed their work habits to make the most of it?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tTzd2dzBlS01QTkJxSnpSQjdxRFg4ZWNGekZfMl9nRmZDenBjLUs3ZjlxcTZJUVJ3Y2lZY3lUcGcyOEk2TUEwc3RqLVlLWENzbjF4Wmlpd25ldjFGanl6NA?oc=5",
-      "pub_date": 1792493530.0,
-      "article_url": "https://www.cnn.com/brandstories/kpmg/ai-deployment",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/kpmg-deploy-1.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Businesses are deploying AI but are they seeing real value? Discover why using AI across the entire workflow, and not siloed tasks, delivers the best results."
-    },
-    {
-      "headline": "Projects Signal AI Copper Use May Triple by 2028, Trafigura Says",
+      "headline": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU1U0STMyREZ6NXBuV3BUMHpKNWItWkRRcTdiQlFCVDBPTHhLMm90OVlLcU9IaDAzUmNhVVpPSkdZak95eHBRcnphS1g2bHhlU044bjNVRTJjRTFSSnVxbzBNZjhfTFZmY29rS2I2T0RUNm1TRjZrZ05TV1RuUjNkT25DOGZQMDVMUk0tMldTc0lhOGlzeVN2aDFrclZlTGlaZjBQZElWb1VrVUJvTlU4UWpUc3liamJwZDRieWxXR0hCdHhLM1pkbmVZbUFqU0VE?oc=5",
-      "pub_date": 1792492256.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/projects-signal-ai-copper-use-may-triple-by-2028-trafigura-says?srnd=homepage-europe",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNwMlNFRlZ6SkZCMWtZaEJfUWdXbGxlQVBnSEZOZ0dVM1dLc240NTVQdnZTbjJqd2pRWVNpUUZVYldWZDlzdF8waFlUVlRRaW1uYllNRjdVNFZZSW9aeFhGQmRzS1p1VmhFUG9HbTMzaE5hTm1mOGFwSHp5VzlEbTEtc2ZsQTJ3amdCVjhkZUU5bkY3UDM2ajNRcGY4aDJBWjhFbGljNjlZaXI1X3gyX1gyYTV4QQ?oc=5",
+      "pub_date": 1792500323.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
       "image": null,
       "description": null
     },
     {
-      "headline": "Great Scott! The AI-fueled data center build-out could double next year: Chart of the Day",
+      "headline": "Stock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTA0Ql94dThFN2tWY2poWUs0YkVmbzlQbzJpTUE1UzhlMi1xc3RsMGIzTHZhQklacmN6N2dBRHdYSFdlQkhNbU5zMFVlVWZObTZIaVA0alNkZzdCaDBFZUg4a2oyU0tVRkpJNlk4WVE5WUFrcVpZZ0VXMmVMR2JhTVFiR0xlTWZBS2EzZVlESmtRWlE1U1lWUGZXbURQWndNU2ljTWhfUmdhb3lsUlFZdUFRVVk4UThyQVE?oc=5",
+      "pub_date": 1792461600.0,
+      "article_url": "https://www.wsj.com/finance/stocks/stock-pickers-burned-by-the-ai-boom-think-their-moment-has-finally-arrived-07878da7",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Stock investors are ready to move on from the AI rout. Credit investors are not",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FdjdvNkVJNTBNXzNnc1QxajFXRXB5N19iMHA4TnI3ZmVIcnNTMXdLb3dFbzcxandsazY0U2h3X2J2aGdZcGI0bUk5SVRMSFBDM3NuckRpLUZna1cxSEtLQlhETU9ubl9hVXhoRVBJVWQxR3FpR0RUREtR0gF_QVVfeXFMTkVuZEJfMEp5QjZ3aUdERjhISnNrRmxxWnJzWDc1emRVSmNfaXNoQ0lqbGk5RFBVTXNTTXRMTHFuZjZuU3Y3RDZJdGJJM3lBUjVfWkpsa3ZPLXpCcDYxMEduX3EyM3N4cUF0dXhNQTFOY3FTYUtZNnNiUHFGTjdESQ?oc=5",
+      "pub_date": 1792444332.0,
+      "article_url": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348052-1786472283085-gettyimages-2256660858-DAVOS_WEF_2026.jpeg?v=1786472339&w=1920&h=1080",
+      "description": "Investors were still demanding high yields and more insurance on CoreWeave and Oracle bonds."
+    },
+    {
+      "headline": "AI jitters clobber South Korea's Elice as stock sinks 32% in trading debut",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOW9oZDl6NnR5VmdTeEF1X08ydkFyT2NERml0MjZ3SWROOENHVzNJbmFZNHRfOWtVejZuSHl3dE5uM3dIang4dFhsa2c5YmNFaU5yQ19hdHRQUzVxSWpSNWxkZEVBWmxSMWgwbXI1YXlxR3JrR3lvU3BQVE9oQ3NXZktBTVFxc1FwQVNhUFhhYk1OMHdNT0dmY2xjNzdSODVWcDdUeWktZ2dCOUtUNXJ4aUctUG4yZk1NekZiQXdiR3JIUmwtQjY3ekpJM1hiMjlwVXdURE5VZTY0VVVQ?oc=5",
-      "pub_date": 1792490400.0,
-      "article_url": "https://finance.yahoo.com/markets/article/great-scott-the-ai-fueled-data-center-build-out-could-double-next-year-chart-of-the-day-100000440.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/da6b3e049f6086bf02adbe74dbced3c85b5c0b8f1cf6ee8d30dcfaa0b0eb97d7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-10-19-at-35611-pm_1641.png",
-      "description": "Data centers could add about 42 times Doc Brown's 1.21 gigawatts next year, the power he needed for time travel in Back to the Future."
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2lsaEIxUEdwUDBpUVA3Z1Z4UXpOZ25aR3NEc1RZQk9zZHUxSG5jVEgzbUZEVlZ1MFlLM2dJbk5wV09SNFRpaHUzcXZmZUFMWkt2QVRqVU5oWENvYUVOYmhrOFJDd2JYNXc5QmhQQi1FY29VcHBOSVo2TmpkRUdTTVZJNER4OWthOG9HMUVHV04xdnIyY0lQbS1XMERsU1ZaaldPdXdnLWdFaGw4dUQ4bUxWUlhqUDdLQ1FUOEl6a00yNGIwTnhzdVNyTHdWOGVsRmc?oc=5",
+      "pub_date": 1792507832.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/ai-jitters-clobber-south-koreas-elice-as-stock-sinks-32-in-trading-debut-145032999.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f3490009fbdd977aa23a31f0700757fb61b3575e87d92f70732c7dac32d6bdcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbfc6c2bd-40c1-45a0-8808-d744716b3232_7cd2bb0e71918ca0b95628c75d31b05277a782f1829e25d018ee5febe7caadbf.jpg",
+      "description": "The rocky debut of South Korean data center provider Elice underscores lingering jitters over the AI trade."
+    },
+    {
+      "headline": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWhNWkVpbGtfZ0FYeWRMNE56dlFjcWRKaU12ejNrYmdUR3VRN0VIWHNfQ2J5V29IUDV0a05zUC00U2pJUWNrdGp0amFSVHExdTF6cnJnMWVqc0FYZGlqRmZ3aVJuSjNaMVBsTEo3UG1iQzFHQXBEUzJmSnZCSmVZWldHNHo2ay1aVG5qdmZ4dGhKdmNNZ1l0SEdYLVJWUFkxVlI2TGJqcjY4NVBaQVlQc01IcEx4X3p2RGlmcDM2RFJWeDA?oc=5",
+      "pub_date": 1792508820.0,
+      "article_url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "image": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/191:100/w_1280,c_limit/culture_ai_agent_internet_research_listserv.jpg",
+      "description": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy."
+    },
+    {
+      "headline": "'Klara and the Sun' Review: Jenna Ortega in Taika Waititi's AI Fable",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXhqbkRBaVdBOFNFdlZJODQwcDJGMjZvWF9kaXhEMEYwNldHQzJXbDVIUEtZeXdGODJ2dWZfTGJVOVZaeTFhcFYwR3Y3SVA0UE1jZnFoemJoY1VHSDg0b1RpeUdRV3VyUVhjTHpZWW1yd3lFMTlTelRvaFpOamJ6SkpzUXBzbV90cjFXVHVXYjZqaE55ZmhtWWIxd21jRnZqYXd4QUlLR3NjU2FmZTlvVFFvd2FXRlVHX0E?oc=5",
+      "pub_date": 1792508445.0,
+      "article_url": "https://www.hollywoodreporter.com/movies/movie-reviews/klara-and-the-sun-review-jenna-ortega-taika-waititi-1236735986/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DF-10284_r-H-2026.jpg?w=1296&h=730&crop=1",
+      "description": "Newcomer Mia Tharia, Natasha Lyonne and Steve Buscemi also star in this adaptation of the Kazuo Ishiguro novel about the unique qualities of being human that cannot be replicated."
+    },
+    {
+      "headline": "Navy robot deal quadruples as US looks to \u2018outsmart\u2019 China with AI at sea",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb19kT2UtT29hMkxVRGltd3pLSmtQM185bXV2M0NvRUN6TGtxXzU0QjZ5QzVUMlhxUjQ3ZVdfb3RmTmdfbmEtcEp5M1U4a3FoT0wzT1lHT2tSdXpSaG1YbGxrem5nbHhDaU4xMjhmbEZOdldZazM4YllqRDBnWXVzSk85RXo5b282eXBkRmZYNDQzSFRy0gGaAUFVX3lxTE1RNlJFcnluY3NaTkVYRHBaalFZaG50TVJnUTBUc3hvS2xfQjk0TXFoSXI5bVVzcllkNWR3YUx4MThfQi1XdG5aOWtHREtaNzBVLTRyMHBEWFFZRWQ5NHBaLUl0WWl5MUg0bVRrQ2RiYTY2V3oxaGdCcHJJMXNoNHJ4dk1ySEY1N3NHdnYteW5sckV6UldaRjB2Y0E?oc=5",
+      "pub_date": 1792486822.0,
+      "article_url": "https://www.foxnews.com/politics/navy-robot-deal-quadruples-us-looks-outsmart-china-ai-sea",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/gecko-2.jpg",
+      "description": "Gecko Robotics unveiled its Komodo robot that scans warship decks like a CAT scan, mapping corrosion without stripping coatings for the U.S. Navy."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T11:00:55.822154+00:00"
+  "fetched_at": "2026-10-20T15:44:52.365160+00:00"
 }
