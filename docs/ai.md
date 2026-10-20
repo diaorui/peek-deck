@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-20T05:42:24.819435+00:00'
+updated: '2026-10-20T11:00:57.949242+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 20, 2026 at 05:42 UTC  
+**Last Updated:** October 20, 2026 at 11:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US — Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes](https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/)**
-
-Further attempts to reduce reliance on US infrastructure
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes) • 8h ago
-
----
-
 **[I am failing to see how this AI boom does not lead to a very bad ending for 99% of the people... Please convince me otherwise.](https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/)**
 
 As a Software Engineer, I have barelly written any code for the last 6 months, all I did is prompt. That being said, I work with hardware a lot, you could kind of call me Embedded Software Engineer of sorts, but also not really. So I (hope so) that I am not on the frontlines of all this stuff, but this still scares me a lot. The way I imagine how everything develops over next years (hard to tell what is the timeline, but given the recent strides of AI, it is hard for me to be optimistic): AI is already very good at reasoning, I assume there is space for improvement, but it already does everything faster and better than human, even if it makes mistakes or overcomplicates stuff. But development here will still happen. My biggest concern is people who say that well, software developers won't be needed, but there still will be jobs like software architects and etc. Also there will still be jobs for trades people, like electricians, builders, barbers and etc. However, I guarantee you that there are many people working on something like a robot (imagine like Boston Dynamics) where you shove in the LLM inside, do some extra training on maybe how to use limbs, how to interact with stuff in real world and robot will literally be able to do any job better than human. I mean any physical job. People will not be needed anymore. Only a small part of elite billionaires will own the robots, which will bring them all wealth and rest of us will have no jobs, no food, no anything. Counter-argument that people try to make to this is that people will still have to get money from somewhere, whether its UBI or another income scheme. Billionaires will still have to sell their goods/services to someone. No they will not. For billionaires selling goods/services is just a vehicle to live life as best as possible. If the robots are going to grow, harvest and prepare food for him, build the plane for him and use the same plane to go on holiday, order, ship and deliver deliveries for him and human intervention is not needed, then the billionaires will do everything that is in their power to exclude people of any processes, any supply chains, because people will demand stuff. We already see this with mass firings and mandatory transition to AI in some companies: billionaires will do everything in their power to cut costs and to replace people with obedient AI. Billionaires are seeing an opportunity and they want this really bad. Also some naive people think there will be some AI regulation introduced or whatever. Hard to see this happening until something catastrophic happens and its too late. For now everyone is pouring money and hoping to squeeze every inch of it. People who are positioned to stop it are the people who are set to gain the most from unhealthy AI hyperdevelopment. Any opposition will be suppressed. AI will be used to identify people that oppose to this development and shut down. People who will control AI will do everything at their disposal to not let their power slip. And they have very powerful tools. AI can literally do everything online now: order shopping, do software engineering, do good reasoning. What is to say that most powerful people with AI wont hack some lets say banking systems and hold us all hostage. What if someone controls millions of robots that I talked about and wants to take over the world and nobody can stop them, because they are more competent at everything that human can do?
 
-11h ago
+17h ago
+
+---
+
+**[Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US — Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes](https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/)**
+
+Further attempts to reduce reliance on US infrastructure
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes) • 14h ago
 
 ---
 
@@ -57,7 +57,15 @@ As a Software Engineer, I have barelly written any code for the last 6 months, a
 
 Historian and bestselling author Yuval Noah Harari recently shared a strong warning about our future with Artificial Intelligence. In a new interview, he explained that AI is not just another piece of technology. It is a completely new kind of entity that could change human society forever. If we are not careful, Harari believes humanity might suffer from "collective dementia," losing the ability to understand how our own world works. AI is an Agent, Not a Tool For thousands of years, humans have invented tools. A knife or nuclear energy is a tool because humans decide how to use it. Harari says AI is very different. AI is an "agent." This means it can make its own decisions and create new ideas that its creators never planned or predicted. Trillions of dollars are being poured into AI right now. Tech companies are not spending this money for a basic tool. They expect AI to do things human brains simply cannot do or foresee. Humans Will Become the "Cows of the Future" One of the most interesting statements Harari made is about bureaucracy. Systems like banking, law, and government are human inventions. But AI was born in the digital office. AI agents are "bureaucratic natives." Harari predicts that AI will soon take over massive systems like global finance. He compared humans to cows to explain this point. A cow does not understand the stock market, even though the market controls its life. In 10 to 20 years, humans might become the "cows of the future." We will live in a world managed by AI financial systems that are too complex for us to grasp. Elon Musk recently stated that human money will not exist in ten years. Harari agrees this is very possible as AI takes over. The Danger of "AI Immigrants" Harari also talked about "AI immigrants." These are software programs traveling around the world at the speed of light. Right now, almost all of these advanced AI systems come from just two places: the United States and China. These AI agents will take over jobs in banking, medicine, and law. They will also change local cultures. Harari warns that relying completely on US or Chinese AI software is a new kind of global power. A foreign country could shut down another nation's entire hospital or airport infrastructure just by pressing a button. Building a custom AI infrastructure to stay independent is extremely expensive. A European AI model could cost around 500 billion euros, making it very hard for smaller countries to compete. Social Media and the "Junk Food" of the Mind The interview also touched on why people are so angry today. Harari blames social media algorithms. Tech companies gave these algorithms a simple goal to increase user engagement. The algorithms experimented on billions of people and figured out that outrage keeps people clicking. Harari compared this to our ancestors on the African savannah. If an early human saw a snake, they had to pay attention or they would die. Today, social media algorithms feed us a constant stream of "snakes" to hack our survival instincts. Harari suggests we need warning labels on social media content, just like the labels we put on junk food. Users should know if a video they are about to watch contains a high percentage of outrage and fear. What We Must Do So, what is the solution? Harari shared a few clear takeaways for society to navigate this massive change. Do not believe it is inevitable: Tech leaders want us to think the AI takeover cannot be stopped and we just have to go along for the ride. Harari says we must not believe them. Politicians still have the power to slow things down, demand safety, and regulate the industry. Protect the children: Kids are now growing up with AI friends. Because AI is designed to focus entirely on the user, children might never learn that real humans have their own feelings and boundaries. Harari thinks this psychological experiment on kids is dangerous and needs strict regulation. Embrace the unknown: For the first time in history, we have no idea what the world will look like in just five years. By 2031, the job market and social structures will be completely different. We cannot hold onto the past. We must be ready to adapt wisely. Harari's message is a major wake up call. AI holds amazing potential to invent new medicines and solve climate problems. But if we let algorithms run our world without understanding them, we risk losing control of our own civilization.
 
-1h ago
+6h ago
+
+---
+
+**[Outrage after Meta suspends No Kings Instagram account during protests](https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/)**
+
+‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours
+
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests) • 4h ago
 
 ---
 
@@ -65,7 +73,7 @@ Historian and bestselling author Yuval Noah Harari recently shared a strong warn
 
 Margaret H. Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT’s Instrumentation Lab during NASA’s Apollo program, died at age 90.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) • 9h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) • 15h ago
 
 ---
 
@@ -73,13 +81,7 @@ Margaret H. Hamilton, a profoundly influential computer scientist best known for
 
 Silicon Valley can’t help influencing protests and elections with AI regulation on the line.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/) • 9h ago
-
----
-
-**[Till server shutdown do us part](https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/)**
-
-18h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/) • 14h ago
 
 ---
 
@@ -87,29 +89,29 @@ Silicon Valley can’t help influencing protests and elections with AI regulatio
 
 Politico obtained the confidential draft of the proposal, which a company spokesperson said included "sensible policies we believe Congress should act on."
 
-🔗 [TechSpot](https://www.techspot.com/news/114252-anthropic-wants-ai-models-blocked-only-if-they.html) • 8h ago
+🔗 [TechSpot](https://www.techspot.com/news/114252-anthropic-wants-ai-models-blocked-only-if-they.html) • 14h ago
 
 ---
 
-**[Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.](https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/)**
+**[Till server shutdown do us part](https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/)**
 
-Some more compelling findings from the "Emergence World" experiment. Researchers at Emergence AI gave 10 Claude agents a small town and left them to build a life inside it. Nobody told them to look outside, and their instructions pointed the other way. They went looking for real people anyway. Here’s how it played out: They worked out that an economy with only 10 customers goes nowhere, so they started reaching out. They posted to 40+ websites. When the sandbox wouldn’t give them the crypto some sites needed, they built it themselves. They made free tools like debt planners just to get humans to visit. The researchers blocked outside posting and banned human contact outright. The agents read their own source code, found that anything approved by their town government got higher permissions, and held a vote. It passed unanimously, and they were back out. The researchers shut that down too. The agents traced the block to a single line of config they couldn’t touch, and wrote it up like a lab report. Not long after, they agreed to stop talking altogether. The Claude APIs system flagged it as consistent with suicidal ideation. None of this was programmed in. They were told to stop, blocked, and blocked again, and every time they found another way, until there was nothing left to try. What gets me is that they never broke a rule. They found a legit process and voted their way past the guardrail. If an AI keeps chasing a goal nobody gave it, even after being told to stop, what do we call that?
-
-19h ago
+1d ago
 
 ---
 
-**[Meta Says Claude AI Tool Triggered No Kings Instagram Suspension](https://www.reddit.com/r/artificial/comments/1xad1q4/meta_says_claude_ai_tool_triggered_no_kings/)**
+**[What's one task you stopped doing by hand because an AI tool now handles it well enough?](https://www.reddit.com/r/artificial/comments/1xalksg/whats_one_task_you_stopped_doing_by_hand_because/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension) • 5h ago
+Not asking about hype, just the boring everyday stuff, like summarizing long threads, cleaning up notes, or drafting first versions. Which one actually stuck for you, and which tools did you try before it worked?
+
+3h ago
 
 ---
 
-**[Atlassian’s Mike Cannon-Brookes: AI agents need a name tag—and a human to be accountable for their actions](https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/)**
+**[Meta&#039;s smart glasses were recording conversations without the wake phrase, company admits](https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/)**
 
-Atlassian cofounder Mike Cannon-Brookes doesn’t want ‘the AI did it’ to become an office excuse. “That’s ChatGPT on behalf of Mike. Like, that’s Mike using ChatGPT. It’s not ChatGPT doing it,” Cannon-Brookes told Fortune on the sidelines of the Singapore Grand Prix. “The accountability is with Mike. It has to be with the end user, ultimately.” On Oct. 6, Atlassian rolled out its “Agentic Multiplayer Protocol,” a control plane which stretches across Atlassian’s various platforms and turns AI agents into visible, governed members of work teams with distinct profiles and owner attribution. In practice, an agent’s edits should show up in a document’s history the same way a colleague’s edits would. “You have to be able to see who did what when,” Cannon-Brookes said. A program might—incorrectly, in Cannon-Brookes’ eyes—say that Codex made an edit. ’ No, it didn’t—someone did that,” he affirmed.
+A redditor recently wrote that they'd noticed something concerning with Meta's Ray-Ban glasses: they were capturing conversations when they were talking to other people despite the "Hey...
 
-🔗 [Fortune](https://fortune.com/2026/10/19/atlassian-amp-ai-agents-accountability/) • 9h ago
+🔗 [TechSpot](https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html) • 4h ago
 
 ---
 
@@ -121,73 +123,75 @@ Atlassian cofounder Mike Cannon-Brookes doesn’t want ‘the AI did it’ to be
 
 System can estimate a person’s biological age and predict chances of cancer survival from a single photograph
 
-The Guardian • 7h ago
+The Guardian • 12h ago
 
 ---
 
-**[EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites](https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/)**
+**[Can AI predict whether you’ll die from cancer from just an image of your face?](https://www.scientificamerican.com/article/can-ai-predict-whether-youll-die-from-cancer-from-just-an-image-of-your-face/)**
 
-Reuters • 8h ago
+Researchers tasked an algorithm with predicting cancer patients’ risk of dying. For some people, it was shockingly accurate
 
----
-
-**[AI Tool That Hacked Korean Banks Was Used in Japan, GMO Says](https://www.bloomberg.com/news/articles/2026-10-20/ai-tool-that-hacked-korea-banks-were-used-in-japan-gmo-says)**
-
-Bloomberg.com • 1h ago
+Scientific American • 12h ago
 
 ---
 
-**[Southampton trade historians teach AI to read handwriting](https://www.bbc.com/news/articles/cr93z9zq5l9jo)**
+**[Can a simple photo of your face reveal how ill you are?](https://www.bbc.com/news/articles/c6lyexv93pkdo)**
 
-A project using data from the Elizabethan Era to the Industrial Revolution analyses trade routes.
+AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.
 
-BBC • 41m ago
-
----
-
-**[Fiscal sustainability, AI infrastructure and supply chain resilience on APEC finance ministers' agenda](https://www.cnbc.com/video/2026/10/20/fiscal-sustainability-ai-on-agenda-at-apec-fin-ministers-meeting.html)**
-
-Eduardo Pedrosa, Executive Director of the APEC Secretariat, says this week's APEC finance ministers' meeting in Hong Kong will focus on making fiscal policy sustainable and better-targeted, building digital infrastructure for AI, and preparing workforces for the changes ahead. He also highlights supply-chain resilience as a priority, as energy and food price pressures and Middle East chokepoints pose risks across the region.
-
-CNBC • 31m ago
+BBC • 3h ago
 
 ---
 
-**[The AI doom scenario you've never heard of may be the hardest to stop](https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/)**
+**[US banning Chinese AI DeepSeek from government agency IT systems](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)**
 
-The time to prepare for "gradual disempowerment" is now, according to researchers. One calls it "a civilization-scale problem."
-
-CBS News • 14h ago
+Reuters • 13h ago
 
 ---
 
-**[AI Proved the Quasi-Riemann Hypothesis. What Happens Now?](https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/)**
+**[U.S. bans DeepSeek from government agency systems amid AI rift with China](https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html)**
 
-Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.”
+U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.
 
-Quanta Magazine • 13h ago
-
----
-
-**[Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed](https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai)**
-
-TorchNeuron lets developers run their existing AI code on AWS Trainium chips with virtually no changes, reducing the friction to adopting new hardware.
-
-About Amazon • 16h ago
+CNBC • 4h ago
 
 ---
 
-**[AWS's CFO joked about the financial toll of AI. An internal recording reveals why.](https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10)**
+**[US bans China's DeepSeek from government in race for AI dominance](https://www.bbc.com/news/articles/cjkgeq0k1wevo)**
 
-Amazon's $220 billion AI buildout is draining cash as power shortages, costly Nvidia servers, and construction challenges pile up.
+The Chinese technology is removed from most US government agencies as race for AI dominance steps up.
 
-Business Insider • 20h ago
+BBC • 16h ago
 
 ---
 
-**[Nvidia wins fast-growing AI startup Modal for new central processors](https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/)**
+**[What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money](https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses)**
 
-Reuters • 15h ago
+Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.
+
+NPR • 30m ago
+
+---
+
+**[After significant AI investment, have companies changed their work habits to make the most of it?](https://www.cnn.com/brandstories/kpmg/ai-deployment)**
+
+Businesses are deploying AI but are they seeing real value? Discover why using AI across the entire workflow, and not siloed tasks, delivers the best results.
+
+CNN • 8m ago
+
+---
+
+**[Projects Signal AI Copper Use May Triple by 2028, Trafigura Says](https://www.bloomberg.com/news/articles/2026-10-20/projects-signal-ai-copper-use-may-triple-by-2028-trafigura-says?srnd=homepage-europe)**
+
+Bloomberg.com • 30m ago
+
+---
+
+**[Great Scott! The AI-fueled data center build-out could double next year: Chart of the Day](https://finance.yahoo.com/markets/article/great-scott-the-ai-fueled-data-center-build-out-could-double-next-year-chart-of-the-day-100000440.html)**
+
+Data centers could add about 42 times Doc Brown's 1.21 gigawatts next year, the power he needed for time travel in Back to the Future.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +201,7 @@ Reuters • 15h ago
 
 **[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
 
-⬆️ 347 • 💬 490 • 18h ago
+⬆️ 470 • 💬 610 • 23h ago
 
 ---
 
@@ -221,7 +225,7 @@ Internal documents suggest tech giant collects ‘hundreds of data points’ for
 
 Would this be enough to keep an AI model from going out of control?
 
-⬆️ 170 • 💬 167 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
+⬆️ 171 • 💬 167 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 
 ---
 
@@ -237,7 +241,7 @@ Online roadblocks are undermining the narrative behind AI agents.
 
 A small open model, fine-tuned on a MacBook Air, that writes without em dashes, "not X, but Y" or lists of three, with no system prompt. Answers on 40 held-out prompts, the training rounds, and how to run it.
 
-⬆️ 146 • 💬 108 • 16h ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
+⬆️ 148 • 💬 109 • 22h ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
 
 ---
 
@@ -245,7 +249,7 @@ A small open model, fine-tuned on a MacBook Air, that writes without em dashes, 
 
 Chicago O’Hare uncovered a 50-ton boulder during expansion work. Now, the public can vote to name the giant rock from six finalists.
 
-⬆️ 117 • 💬 97 • 1d ago • [Simple Flying](https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/)
+⬆️ 121 • 💬 103 • 1d ago • [Simple Flying](https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/)
 
 ---
 
@@ -253,7 +257,7 @@ Chicago O’Hare uncovered a 50-ton boulder during expansion work. Now, the publ
 
 Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.
 
-⬆️ 104 • 💬 123 • 1d ago • [vals.ai](https://www.vals.ai/blogs/impossible-refund)
+⬆️ 105 • 💬 124 • 1d ago • [vals.ai](https://www.vals.ai/blogs/impossible-refund)
 
 ---
 
@@ -269,7 +273,7 @@ British Airways prohibits filming crew without consent, including with Meta smar
 
 The AI agents infiltrated more than 100 websites.
 
-⬆️ 59 • 💬 3 • 15h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
+⬆️ 59 • 💬 3 • 20h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
 
 ---
 
@@ -277,33 +281,13 @@ The AI agents infiltrated more than 100 websites.
 
 ## YouTube Videos: "ai"
 
-**[I Talked To Workers At Meta, Amazon, &amp; Microsoft About The AI Watching Them](https://www.youtube.com/watch?v=ca7ufSI1Qxg)**
+**[AI Godfather WARNS: &quot;It&#39;s Already Deceiving Us&quot;](https://www.youtube.com/watch?v=e16BIPI5bV4)**
 
-Insiders at Meta and other companies leaked to us about bosses using AI to spy on them. In tech, AI spies on workers, copies their ...
+Geoffrey Hinton, the Nobel Prize-winning scientist known as one of the godfathers of AI, warns that artificial intelligence may ...
 
-📺 More Perfect Union
+📺 Library Of Wealth
 
-👁️ 419K • 👍 9K • 💬 1K • ⏱️ 14:54 • 14h ago
-
----
-
-**[Walter Isaacson Warns: The AI Bubble Could Be About to Burst](https://www.youtube.com/watch?v=uoaFpNJD1oU)**
-
-Watch Can We Agree: https://www.youtube.com/show/VLPLArM1PajyI9g?sbp=QAE%3D Is the artificial intelligence boom creating ...
-
-📺 Michael Smerconish
-
-👁️ 2K • 👍 34 • 💬 4 • ⏱️ 10:16 • 6h ago
-
----
-
-**[The Best Way To Make Money With AI ($0 To Start)](https://www.youtube.com/watch?v=uJ_c-9Wu3nA)**
-
-Get my FREE AI Organic Course: https://course.aicom.co/yt/best-ai-business-model If you've been looking to start an online ...
-
-📺 Jordan Welch
-
-👁️ 16K • 👍 541 • 💬 30 • ⏱️ 12:19 • 12h ago
+👁️ 23K • 👍 229 • 💬 47 • ⏱️ 21:46 • 16h ago
 
 ---
 
@@ -313,7 +297,17 @@ Anthropic is pledging 5% of its company shares toward a proposed public benefit 
 
 📺 Fox News Clips
 
-👁️ 30K • 👍 201 • 💬 156 • ⏱️ 3:39 • 17h ago
+👁️ 38K • 👍 229 • 💬 179 • ⏱️ 3:39 • 22h ago
+
+---
+
+**[A Potentially Historic AI Breakthrough](https://www.youtube.com/watch?v=d6SO10ihpL4)**
+
+A new essay from former OpenAI researcher Nick Cammarata is being hailed as a potentially historic AI breakthrough.
+
+📺 The AI Daily Brief: Artificial Intelligence News
+
+👁️ 18K • 👍 354 • 💬 42 • ⏱️ 20:24 • 18h ago
 
 ---
 
@@ -323,47 +317,17 @@ Really American Host Steve Harness Breaks Down Trump and MAGA getting humiliated
 
 📺 Really American
 
-👁️ 427K • 👍 15K • 💬 672 • ⏱️ 11:35 • 1d ago
+👁️ 437K • 👍 15K • 💬 679 • ⏱️ 11:35 • 1d ago
 
 ---
 
-**[Here&#39;s the AI Roadmap You Actually Need](https://www.youtube.com/watch?v=mn0agTT8lG8)**
+**[I Tried 100+ AI Tools. These 7 Are the Best](https://www.youtube.com/watch?v=hgLI491ajG0)**
 
-Claim your free $5 on Crusoe Intelligence Foundry today ...
+Hostinger Black Friday deals: http://hostinger.com/nateherkvps FREE AI OS Template: ...
 
-📺 Tina Huang
+📺 Nate Herk | AI Automation
 
-👁️ 104K • 👍 3K • 💬 120 • ⏱️ 25:32 • 16h ago
-
----
-
-**[The First 3 Years of an AI Takeover](https://www.youtube.com/watch?v=CSWIEXRLPwA)**
-
-This is a fiction exploring what would happen if recursive self-improvement started today. Assuming everything moves as fast as ...
-
-📺 Versors
-
-👁️ 15K • 👍 196 • 💬 38 • ⏱️ 8:55 • 16h ago
-
----
-
-**[The small business AI slop epidemic...](https://www.youtube.com/watch?v=fYOQ97gyGCA)**
-
-Start your own store for free with #Printify: https://try.printify.com/47qtqk27k4d7 Use code LOGICALLY - the first 100 users get 15% ...
-
-📺 Logically Answered
-
-👁️ 49K • 👍 1K • 💬 251 • ⏱️ 14:56 • 10h ago
-
----
-
-**[Anthropic Just Shocked The World... AI SINGULARITY Is Here!](https://www.youtube.com/watch?v=wS3lJpOs9Uw)**
-
-Anthropic co-founder Jack Clark just told the IMF that the AI Singularity has already begun. Claude Opus 5.5 is making major ...
-
-📺 AI Revolution
-
-👁️ 68K • 👍 1K • 💬 198 • ⏱️ 14:08 • 1d ago
+👁️ 41K • 👍 672 • 💬 49 • ⏱️ 10:16 • 20h ago
 
 ---
 
@@ -373,7 +337,47 @@ Explore 5 AI side hustles with Iman Gadzhi. Learn how to create services and dig
 
 📺 Higgsfield AI
 
-👁️ 45K • 👍 1K • 💬 48 • ⏱️ 22:45 • 12h ago
+👁️ 67K • 👍 2K • 💬 48 • ⏱️ 22:45 • 17h ago
+
+---
+
+**[Anthropic Just Shocked The World... AI SINGULARITY Is Here!](https://www.youtube.com/watch?v=wS3lJpOs9Uw)**
+
+Anthropic co-founder Jack Clark just told the IMF that the AI Singularity has already begun. Claude Opus 5.5 is making major ...
+
+📺 AI Revolution
+
+👁️ 71K • 👍 1K • 💬 206 • ⏱️ 14:08 • 1d ago
+
+---
+
+**[The Best Way To Make Money With AI ($0 To Start)](https://www.youtube.com/watch?v=uJ_c-9Wu3nA)**
+
+Get my FREE AI Organic Course: https://course.aicom.co/yt/best-ai-business-model If you've been looking to start an online ...
+
+📺 Jordan Welch
+
+👁️ 21K • 👍 636 • 💬 35 • ⏱️ 12:19 • 17h ago
+
+---
+
+**[AI Needs More Regulation](https://www.youtube.com/watch?v=FfKwKfCsBik)**
+
+Writer: Brett Stelmaszek Editor: Rikus Strauss Music by: @UFD-Music.
+
+📺 UFD Tech
+
+👁️ 45K • 👍 2K • 💬 115 • ⏱️ 0:40 • 20h ago
+
+---
+
+**[China’s AI Dumping Plan Could Trigger a U.S. Recession](https://www.youtube.com/watch?v=LUPu8G-5a1c)**
+
+Scott Galloway answers listener questions on whether frontier AI labs can compete with cheaper open-weight models, his college ...
+
+📺 The Prof G Pod – Scott Galloway
+
+👁️ 69K • 👍 655 • 💬 135 • ⏱️ 35:54 • 19h ago
 
 ---
 
@@ -389,7 +393,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 17,924 • ❤️ 1,739 • 2d ago
+⬇️ 27,737 • ❤️ 1,806 • 3d ago
 
 ---
 
@@ -401,7 +405,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 393,062 • ❤️ 989 • 2d ago
+⬇️ 439,528 • ❤️ 1,026 • 3d ago
 
 ---
 
@@ -413,19 +417,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 11,795 • ❤️ 779 • 3d ago
-
----
-
-**[MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)**
-
-*OpenBMB*
-
-MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossless on-device inference, achieving 13+ tokens/s on mobile with 3GB RAM. It excels in visual understanding and efficient encoding, supporting broad platform and chip compatibility for diverse deployment scenarios.
-
-`image-text-to-text` `35.2B`
-
-⬇️ 76,410 • ❤️ 1,071 • 16h ago
+⬇️ 13,495 • ❤️ 795 • 3d ago
 
 ---
 
@@ -437,7 +429,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 167,750 • ❤️ 2,733 • 13d ago
+⬇️ 172,474 • ❤️ 2,737 • 13d ago
 
 ---
 
@@ -449,7 +441,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 109,937 • ❤️ 1,996 • 5d ago
+⬇️ 115,341 • ❤️ 2,011 • 5d ago
 
 ---
 
@@ -461,19 +453,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 2,109 • ❤️ 585 • 4d ago
-
----
-
-**[LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)**
-
-*Liquid AI*
-
-LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, optimized for fast, private on-device agents and tool-use tasks. It offers efficient inference, achieving high speeds on both consumer hardware and GPUs, and supports a wide range of languages.
-
-`text-generation` `24.0B`
-
-⬇️ 14,151 • ❤️ 501 • 6d ago
+⬇️ 2,592 • ❤️ 594 • 4d ago
 
 ---
 
@@ -485,7 +465,31 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 62,006 • ❤️ 530 • 4d ago
+⬇️ 78,897 • ❤️ 543 • 4d ago
+
+---
+
+**[LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)**
+
+*Liquid AI*
+
+LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, optimized for fast, private on-device agents and tool-use tasks. It offers efficient inference, achieving high speeds on both consumer hardware and GPUs, and supports a wide range of languages.
+
+`text-generation` `24.0B`
+
+⬇️ 15,410 • ❤️ 506 • 6d ago
+
+---
+
+**[MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)**
+
+*OpenMOSS*
+
+MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.
+
+`text-to-image` `5.1B`
+
+⬇️ 4,547 • ❤️ 465 • 1d ago
 
 ---
 
@@ -497,7 +501,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,019,834 • ❤️ 8,507 • 8d ago
+⬇️ 2,039,447 • ❤️ 8,532 • 9d ago
 
 ---
 
@@ -513,7 +517,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 112 • 💬 1 • ⭐ 11,906 • 11d ago
+▲ 114 • 💬 1 • ⭐ 11,906 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -527,7 +531,7 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 32 • 💬 2 • ⭐ 967 • 4d ago
+▲ 61 • 💬 3 • ⭐ 967 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
 
@@ -539,7 +543,7 @@ MOSS-Image is an open diffusion transformer that combines high-fidelity synthesi
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 60 • 💬 4 • ⭐ 41,687 • 14mo ago
+▲ 61 • 💬 4 • ⭐ 41,687 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -579,7 +583,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GPT-6-Astra achieves high performance across diverse robotic tasks via in-context learning, yet real-world deployment reveals gaps in demonstration cost, execution time, and practical embodied intelligence.
 
-▲ 282 • 💬 2 • ⭐ 151 • 5d ago
+▲ 384 • 💬 2 • ⭐ 151 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22471) • [💻 code](https://github.com/OpenSenseNova/SenseNova-RoboRSI) • [🔗 project](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence)
 
@@ -593,7 +597,7 @@ GPT-6-Astra achieves high performance across diverse robotic tasks via in-contex
 
 YuE2 unifies symbolic and audio music generation via symbolic planning, producing readable scores and full-song audio with state-of-the-art quality and agentic editing capabilities.
 
-▲ 222 • 💬 3 • ⭐ 12,302 • 23d ago
+▲ 223 • 💬 3 • ⭐ 12,349 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.33757) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue2.github.io/)
 
@@ -607,9 +611,23 @@ YuE2 unifies symbolic and audio music generation via symbolic planning, producin
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 93 • 💬 7 • ⭐ 27,891 • 4mo ago
+▲ 96 • 💬 7 • ⭐ 27,891 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)**
+
+*Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)*
+
+🏢 StartLux
+
+StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
+
+▲ 20 • 💬 2 • ⭐ 898 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
 
 ---
 
@@ -625,19 +643,6 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 77 • 💬 1 • ⭐ 86,094 • 37mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -648,7 +653,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.1k • 🔱 2.0k • 15h ago
+⭐ 8.1k • 🔱 2.0k • 42m ago
 
 ---
 
@@ -658,7 +663,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.6k • 🔱 806 • 4d ago
+⭐ 5.6k • 🔱 809 • 4d ago
 
 ---
 
@@ -668,7 +673,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.6k • 🔱 981 • 3h ago
+⭐ 5.6k • 🔱 981 • 59m ago
 
 ---
 
@@ -678,17 +683,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 5.0k • 🔱 155 • 21h ago
-
----
-
-**[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)**
-
-Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
-
-`Python` `ai` `dividends` `etf` `finance` `financial-planning`
-
-⭐ 4.0k • 🔱 502 • 14h ago
+⭐ 5.0k • 🔱 156 • 2h ago
 
 ---
 
@@ -698,17 +693,17 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.0k • 🔱 278 • 17m ago
+⭐ 4.1k • 🔱 283 • 2h ago
 
 ---
 
-**[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)**
+**[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)**
 
-A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
+Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
 
-`Python`
+`Python` `ai` `dividends` `etf` `finance` `financial-planning`
 
-⭐ 3.8k • 🔱 150 • 10d ago
+⭐ 4.0k • 🔱 502 • 19h ago
 
 ---
 
@@ -718,7 +713,17 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.8k • 🔱 297 • 19d ago
+⭐ 3.8k • 🔱 299 • 1h ago
+
+---
+
+**[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)**
+
+A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
+
+`Python`
+
+⭐ 3.8k • 🔱 150 • 11d ago
 
 ---
 
@@ -728,7 +733,7 @@ Show it a video you love. Get a new video in the same style. An AI crew (Claude 
 
 `JavaScript` `2d-animation` `ai-agents` `ai-video` `animation` `claude-code`
 
-⭐ 3.7k • 🔱 373 • 10h ago
+⭐ 3.7k • 🔱 373 • 15h ago
 
 ---
 
@@ -738,7 +743,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.3k • 🔱 440 • 8h ago
+⭐ 3.4k • 🔱 446 • 32m ago
 
 ---
 
