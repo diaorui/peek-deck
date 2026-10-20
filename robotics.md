@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-20T19:51:40.159207+00:00'
+updated: '2026-10-20T22:58:06.254052+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 20, 2026 at 19:51 UTC  
+**Last Updated:** October 20, 2026 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -92,7 +92,7 @@ Who builds each part of a humanoid robot: 2,351 products from 788 organizations 
 
 Hi my name is deemco From saudi arabia Like u see the title I have proplem with my robot I’m running into some issues building my robot. As everyone knows, robots are divided into a cloud-based component and a physical one; let’s set the cloud part aside—the problem lies in the physical side. Actually, the truth is I don’t even know how to build a robot in the first place—but that’s not your problem! Anyway, I’m working on that. My specific issue right now is the connectivity—how do I get everything to come together so that, in the end, my robot functions as one perfectly orchestrated symphony? ,,, by the way my robot is so coplex! Its like the that dude hows follow the main character in sci-fi ! . Actually everything is expensive dunno why but if u have short list i would like to see it! [ i forgot to say but hes fly tipe of robots(use fly for something very imprortant) in my brain hes super intelegent and hes gonna be my companion and help me and a friendly tipe! Haha i feel exited !!] I think i gonna put motors and cameras and in the middle theres a screen and rasberri pi and a lot! But absolute dunno . How u guys past that proplem ? I enjoyed typing that !
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
 
-TechCrunch • 6h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -140,11 +140,11 @@ Defense News • 1d ago
 
 ---
 
-**[Robot Wars – How China Has the Robotics Industry in Its Grip](https://finance.yahoo.com/technology/ai/articles/robot-wars-china-robotics-industry-004100697.html)**
+**[In a Second Robotics Contract, Nyobolt Will Power Agility’s Latest Humanoid](https://www.theinformation.com/newsletters/the-electric/second-robotics-contract-nyobolt-will-power-agilitys-latest-humanoid)**
 
-Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
+In the latest bullish sign for the previously troubled battery industry, Agility Robotics said it would power the latest version of its humanoid robot, Digit, with next-generation batteries manufactured by Nyobolt.
 
-Yahoo Finance • 19h ago
+The Information • 2d ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance • 19h ago
 
 The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
 
-GeekWire • 18h ago
+GeekWire • 21h ago
 
 ---
 
@@ -172,25 +172,23 @@ Stock Titan • 6d ago
 
 ---
 
-**[Delivery robots accused of scanning customers' faces, sharing biometric data](https://www.wyff4.com/article/chicago-delivery-robot-lawsuits-biometric-data/74194487)**
+**[Delivery Robots Are Watching You, According to Lawsuit](https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417)**
 
-Two customers have filed lawsuits against Chicago food delivery companies, accusing them of collecting biometric data without consent.
-
-WYFF • 2h ago
+Gizmodo • 1h ago
 
 ---
 
-**[Smart Hands, Human Touch: Neurotech Tightens Grip On Robotics Market](https://www.forbes.com/sites/naveenrao/2026/10/20/smart-hands-human-touch-neurotech-tightens-grip-on-robotics-market/)**
+**[Aviation robotics startup with $1 billion valuation to open Seattle-area office](https://www.bizjournals.com/seattle/news/2026/10/20/reliable-robotics-office-series-d-robert-rose.html)**
 
-Forbes • 4h ago
+The Business Journals • 52m ago
 
 ---
 
-**[Robotic arm with artificial skin senses touch across its limbs](https://interestingengineering.com/ai-robotics/robotic-arm-artificial-skin-emarm)**
+**[SoftBank’s $18B bet on robot guards](https://www.therundown.ai/articles/softbank-18b-bet-on-robot-guards)**
 
-Honk'g Kong University's EmArm uses optical tactile skin to sense touch, manipulate objects, and avoid obstacles in real time.
+SoftBank wants robots to clock in — and is reportedly in early talks to buy Allied Universal, the biggest U.S. security firm, for up to $18B. Masayoshi Son…
 
-Interesting Engineering • 1d ago
+The Rundown AI • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 34K • 👍 365 • 💬 47 • ⏱️ 8:52 • 4d ago
+👁️ 37K • 👍 407 • 💬 52 • ⏱️ 8:52 • 4d ago
 
 ---
 
@@ -214,17 +212,7 @@ Remove your personal information online with Delete Me using my link https://joi
 
 📺 The Tesla Space
 
-👁️ 92K • 👍 3K • 💬 152 • ⏱️ 13:59 • 5d ago
-
----
-
-**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
-
-Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
-
-📺 Jamel_AKA_Jamal
-
-👁️ 107K • 👍 3K • 💬 687 • ⏱️ 13:05 • 1d ago
+👁️ 92K • 👍 3K • 💬 153 • ⏱️ 13:59 • 6d ago
 
 ---
 
@@ -234,17 +222,17 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 76K • 👍 696 • 💬 37 • ⏱️ 9:03 • 1d ago
+👁️ 78K • 👍 704 • 💬 38 • ⏱️ 9:03 • 2d ago
 
 ---
 
-**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
+**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
 
-xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
+Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
-📺 RuntimeBRT
+📺 Jamel_AKA_Jamal
 
-👁️ 142K • 👍 6K • 💬 183 • ⏱️ 2:55 • 1d ago
+👁️ 108K • 👍 3K • 💬 698 • ⏱️ 13:05 • 1d ago
 
 ---
 
@@ -254,7 +242,17 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 145K • 👍 1K • 💬 407 • ⏱️ 4:07 • 3d ago
+👁️ 149K • 👍 1K • 💬 423 • ⏱️ 4:07 • 3d ago
+
+---
+
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
+
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
+
+📺 RuntimeBRT
+
+👁️ 145K • 👍 6K • 💬 186 • ⏱️ 2:55 • 1d ago
 
 ---
 
@@ -264,7 +262,7 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 128K • 👍 1K • 💬 86 • ⏱️ 12:13 • 5d ago
+👁️ 130K • 👍 1K • 💬 86 • ⏱️ 12:13 • 5d ago
 
 ---
 
@@ -272,7 +270,7 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 Big Duke13
 
-👁️ 350K • 👍 12K • 💬 1K • ⏱️ 2:35 • 4d ago
+👁️ 360K • 👍 12K • 💬 1K • ⏱️ 2:35 • 4d ago
 
 ---
 
@@ -282,17 +280,15 @@ Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursi
 
 📺 Tesla Insider News
 
-👁️ 322K • 👍 2K • 💬 494 • ⏱️ 21:44 • 4d ago
+👁️ 324K • 👍 2K • 💬 498 • ⏱️ 21:44 • 4d ago
 
 ---
 
-**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+**[I Built a Robot to Replace My Rabbit’s Best Friend #3DPrinting #Robotics #Engineering](https://www.youtube.com/watch?v=vIKYRi4GDXA)**
 
-China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+📺 It's on my MIND
 
-📺 MACHINEKIND
-
-👁️ 42K • 👍 588 • 💬 60 • ⏱️ 12:40 • 3d ago
+👁️ 259K • 👍 9K • 💬 280 • ⏱️ 1:53 • 3d ago
 
 ---
 
