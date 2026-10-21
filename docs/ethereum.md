@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-21T12:11:50.180051+00:00'
+updated: '2026-10-21T17:32:44.877896+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 21, 2026 at 12:11 UTC  
+**Last Updated:** October 21, 2026 at 17:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,398.06
+### $2,469.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +1.1%  
-**30d:** -10.3%  
-**90d:** +32.7%  
-**1y:** -35.1%  
+**24h:** +3.1%  
+**7d:** +2.9%  
+**30d:** -8.7%  
+**90d:** +35.0%  
+**1y:** -34.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $301.36B
+**Market Cap:** $306.75B
 Rank #2
 
 **Circulating Supply:** 122,149,510 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.1%
+-49.2%
 
 **All-Time Low:** $0.43
-+569685.1%
++579893.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually tried this? Interested how it works in practice and whether the lower net APY is worth it
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I got into crypto a few years ago and fell in love with the ecosystem. It's fair to say Web3 completely changed my life for the better, and ever since, my aim has been to contribute meaningfully to it. One issue I've had an issue with is the persistent hacks reducing user trust in this new model of the internet we're building. So I'm proposing an AI security network to protect wallets from hacks. You can check out the website or GitHub: https://github.com/thelennyjohnson/avalon-ai Feedback and contributors are welcome.
 
-🔗 [AVALON AI](https://avalonai-web3.vercel.app/) • 3d ago
+🔗 [AVALON AI](https://avalonai-web3.vercel.app/) • 4d ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi everyone, I got into crypto a few years ago and fell in love with the ecosyst
 
 The model independently determined that using valueless testnet ETH from a publicly exposed account was acceptable.
 
-🔗 [The Block](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798) • 3d ago
+🔗 [The Block](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798) • 4d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-43/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-43/) • 5d ago
 
 ---
 
@@ -164,59 +164,41 @@ J.P. Morgan • 1d ago
 
 ---
 
-**[JPMorgan brings JPM Coin to Ethereum](https://finance.yahoo.com/video/jpmorgan-brings-jpm-coin-ethereum-152914379.html)**
+**[Ethereum News: JPMorgan’s JPM Coin and ETH Network Activity](https://www.thesarniajournal.ca/other/ethereum-news-jpmorgans-jpm-coin-and-eth-network-activity-12919008)**
 
-JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and institutional user base. The largest U.S. bank already moves more than $7 billion a day on its private Kinexys network. CoinDesk's Uyen Truong hosts "CoinDesk Daily."
-
-Yahoo Finance • 1d ago
+The Sarnia Journal • 4h ago
 
 ---
 
-**[JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum](https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg)**
+**[TRON Is Earning More Than Ethereum and Solana Combined. Why Is TRX Worth So Much Less?](https://finance.yahoo.com/markets/crypto/articles/tron-earning-more-ethereum-solana-170014031.html)**
 
-JPMorgan's dollar deposit token heads to Ethereum in a sign of the lender getting more comfortable with public blockchains.
+TRON now generates more transaction fee revenue than Ethereum and Solana put together, yet TRX trades at a fraction of their prices. The reason why reveals something uncomfortable about what crypto markets actually reward.
 
-CoinDesk • 1d ago
-
----
-
-**[JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients](https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874)**
-
-The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum.
-
-The Block • 2d ago
+Yahoo Finance • 32m ago
 
 ---
 
-**[JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain](https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars)**
+**[Ethereum Staking Hits Record High](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-hits-record-high-142700705.html)**
 
-JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds.
+Ethereum (CRYPTO: $ETH) staking hit a record high in this year’s third quarter.
 
-Decrypt • 1d ago
-
----
-
-**[JPMorgan Picks Ethereum for JPM Coin, Citing the Network’s Liquidity and Client Use](https://unchainedcrypto.com/jpmorgan-picks-ethereum-for-jpm-coin-citing-the-networks-liquidity-and-client-use/)**
-
-The bank's dollar deposit token, which debuted on Base last year, is aimed at large crypto firms and financial institutions, a JPMorgan blockchain executive told Bloomberg.
-
-unchainedcrypto.com • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, October 21, 2026: Crypto to outperform stocks and gold?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html)**
-
-Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened at $2,446.67, up 1.7% from Tuesday's opening price. The price of ethereum moved up this morning to $2,459.92 as of 7:21 a.m. ET.
-
-Yahoo Finance • 34m ago
-
----
-
-**[Current price of Ethereum for October 21, 2026](https://fortune.com/article/price-of-ethereum-10-21-2026/)**
+**[Current price of Ethereum for Oct. 21, 2026](https://fortune.com/article/price-of-ethereum-10-21-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11m ago
+Fortune • 1h ago
+
+---
+
+**[Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash](https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash)**
+
+The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours.
+
+Decrypt • 20h ago
 
 ---
 
@@ -224,7 +206,21 @@ Fortune • 11m ago
 
 A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
 
-The Motley Fool • 1m ago
+The Motley Fool • 4h ago
+
+---
+
+**[XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue](https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/)**
+
+XRP ETFs ended a 13-week inflow streak as Bitcoin, Ethereum and Solana funds also recorded net withdrawals in the week ended October 16.
+
+CryptoSlate • 2d ago
+
+---
+
+**[Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts](https://www.benzinga.com/crypto/cryptocurrency/26/10/62497439/ethereum-will-benefit-most-from-3-trillion-stablecoin-boom-spark-ceo-predicts)**
+
+Benzinga • 3h ago
 
 ---
 
@@ -232,23 +228,33 @@ The Motley Fool • 1m ago
 
 ## YouTube Videos: "ethereum"
 
-**[JP Morgan’s Ethereum Play: Why The Big Money Is Moving Now](https://www.youtube.com/watch?v=EWravWiatx4)**
-
-Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally objected to having their shares traded on the ...
-
-📺 Yahoo Finance
-
-👁️ 35K • 👍 594 • 💬 61 • ⏱️ 14:51 • 1d ago
-
----
-
 **[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
 
 Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 74K • 👍 2K • 💬 205 • ⏱️ 9:32 • 1d ago
+👁️ 76K • 👍 2K • 💬 204 • ⏱️ 9:32 • 1d ago
+
+---
+
+**[JP Morgan’s Ethereum Play: Why The Big Money Is Moving Now](https://www.youtube.com/watch?v=EWravWiatx4)**
+
+Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally objected to having their shares traded on the ...
+
+📺 Yahoo Finance
+
+👁️ 36K • 👍 621 • 💬 69 • ⏱️ 14:51 • 2d ago
+
+---
+
+**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
+
+What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
+
+📺 Crypto In America
+
+👁️ 265 • 👍 15 • 💬 1 • ⏱️ 41:22 • 5h ago
 
 ---
 
@@ -258,47 +264,7 @@ Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPM
 
 📺 Thinking Crypto
 
-👁️ 23K • 👍 746 • 💬 124 • ⏱️ 19:54 • 1d ago
-
----
-
-**[Good ETHEREUM News- Plus: Does France Have Enough Socialism?](https://www.youtube.com/watch?v=yq4fTair7U4)**
-
-THE CRYPTO BULL RUN IS STARTING. Most people won't be ready to build wealth from it. You can be. Get the research and ...
-
-📺 Future Forecasting Group
-
-👁️ 5K • 👍 257 • 💬 41 • ⏱️ 4:34 • 12h ago
-
----
-
-**[Could Super Intelligence Break Your Bitcoin Wallet?](https://www.youtube.com/watch?v=fCik3SHhE-0)**
-
-Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over ...
-
-📺 Natalie Brunell
-
-👁️ 23K • 👍 528 • 💬 35 • ⏱️ 2:31 • 1d ago
-
----
-
-**[Wall Street Is About To Pour Into Ethereum [Here’s Why]](https://www.youtube.com/watch?v=aqEG75MAqO4)**
-
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Vivek Raman, ...
-
-📺 Lark Davis
-
-👁️ 28K • 👍 497 • 💬 58 • ⏱️ 16:47 • 1d ago
-
----
-
-**[You Have No Idea How Big The Crypto Super Cycle Will Be (CoreWeave pops AI Bubble?)](https://www.youtube.com/watch?v=ykXk89g3JPQ)**
-
-Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 100K • 👍 3K • 💬 121 • ⏱️ 10:55 • 2d ago
+👁️ 23K • 👍 744 • 💬 121 • ⏱️ 19:54 • 1d ago
 
 ---
 
@@ -308,27 +274,57 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 155 • 💬 8 • ⏱️ 8:07 • 1d ago
+👁️ 7K • 👍 156 • 💬 8 • ⏱️ 8:07 • 1d ago
 
 ---
 
-**[🔴 LIVE Crypto and Stock Analysis | BTC, ETH, &amp; Altcoins](https://www.youtube.com/watch?v=nCnCHURDoW8)**
+**[You Have No Idea How Big The Crypto Super Cycle Will Be (CoreWeave pops AI Bubble?)](https://www.youtube.com/watch?v=ykXk89g3JPQ)**
 
-Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum and altcoins using market structure, ...
+Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
 
-📺 Chart Champions
+📺 Altcoin Daily
 
-👁️ 1K • 👍 100 • 3h ago
+👁️ 101K • 👍 3K • 💬 121 • ⏱️ 10:55 • 2d ago
 
 ---
 
-**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
+**[Could Super Intelligence Break Your Bitcoin Wallet?](https://www.youtube.com/watch?v=fCik3SHhE-0)**
 
-BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
+Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over ...
 
-📺 Elijah Cheng
+📺 Natalie Brunell
 
-👁️ 8K • 👍 101 • 💬 38 • ⏱️ 24:29 • 1d ago
+👁️ 24K • 👍 532 • 💬 35 • ⏱️ 2:31 • 2d ago
+
+---
+
+**[Ethereum vs Bitcoin: what&#39;s the real difference?](https://www.youtube.com/watch?v=1WUyBDMl1D8)**
+
+Bitcoin (2009) was built mainly as digital money, with a 21 million hard cap and proof of work. Ethereum (2015) is a programmable ...
+
+📺 Crypto Explained Daily
+
+👁️ 3 • ⏱️ 0:44 • 15h ago
+
+---
+
+**[Starknet Vote: 99.9% Back Exploring an Exit From Ethereum. Why?](https://www.youtube.com/watch?v=llDo-7RRXd4)**
+
+In the Starknet vote, 99.9% of the voting power says yes to researching whether Starknet should become an independent, ...
+
+📺 Gliff's Edge
+
+👁️ 167 • 👍 1 • 💬 1 • ⏱️ 1:15 • 22h ago
+
+---
+
+**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
+
+Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
+
+📺 CoinDesk
+
+👁️ 66K • 👍 554 • 💬 73 • ⏱️ 10:26 • 2d ago
 
 ---
 
