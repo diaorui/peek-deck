@@ -35,16 +35,6 @@
       "description": "JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and institutional user base. The largest U.S. bank already moves more than $7 billion a day on its private Kinexys network. CoinDesk's Uyen Truong hosts \"CoinDesk Daily.\""
     },
     {
-      "headline": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZndOVkZnTlRtQXFZZWladHl2ZG4zbUJwVTM5V1JWaEM4NF9yR3IyZklubHR2MUJTaVZTRjBoWkMzWHhiQXhOVXhZelI4ZHpNcjdTQTdPOU5MMVYtN0RISW40V21IQnVISnVmeUl0dUtOR0VBMllfSWw0SGE0M3BwRlg0eG04M2dlcXVUdkduQ0RmWEhFMVFyMy1EVUEtQkFmS3lCRWU2eGVmNWFQMGpMUkpaTEN0Rzk0WHhQVUVHY3NLQQ?oc=5",
-      "pub_date": 1792418769.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "JPMorgan's dollar deposit token heads to Ethereum in a sign of the lender getting more comfortable with public blockchains."
-    },
-    {
       "headline": "JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -53,6 +43,16 @@
       "article_url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
       "description": "The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum."
+    },
+    {
+      "headline": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZndOVkZnTlRtQXFZZWladHl2ZG4zbUJwVTM5V1JWaEM4NF9yR3IyZklubHR2MUJTaVZTRjBoWkMzWHhiQXhOVXhZelI4ZHpNcjdTQTdPOU5MMVYtN0RISW40V21IQnVISnVmeUl0dUtOR0VBMllfSWw0SGE0M3BwRlg0eG04M2dlcXVUdkduQ0RmWEhFMVFyMy1EVUEtQkFmS3lCRWU2eGVmNWFQMGpMUkpaTEN0Rzk0WHhQVUVHY3NLQQ?oc=5",
+      "pub_date": 1792418769.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "JPMorgan's dollar deposit token heads to Ethereum in a sign of the lender getting more comfortable with public blockchains."
     },
     {
       "headline": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
@@ -75,24 +75,24 @@
       "description": "The bank's dollar deposit token, which debuted on Base last year, is aimed at large crypto firms and financial institutions, a JPMorgan blockchain executive told Bloomberg."
     },
     {
-      "headline": "Tokenized stock values on Ethereum, BNB Chain, and Solana show inconsistent data, no clear market leader.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzFsc0JIdlRfcFFjSFV4RHJ4RWVUMWlNUnMySUxTTEZ1NDRwWmFYRkM1cjJ5aTRnX0NaZUNHVWtxSEFyUFNfTG9paDJxZWdhRmpXU3ZUTVNTYjRZVUtCMDd5OV96VTVfNHFISTZmOTBrcEl4cGU4N09pYmtaZnV0SWY5bThoSWZWU2taQlhzRF95VXRn?oc=5",
-      "pub_date": 1792531529.0,
-      "article_url": "https://pluang.com/en/news-feed/nilai-tokenized-stock-ethereum-lebih-tinggi-dari-bnb-chain",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/2e489160b8f901e76151e6e63483f1142f07865fa1a15cdb8e612d8a08a467f9-en.webp",
-      "description": "Recent reports show tokenized stock values on Ethereum at $210.9 million, BNB Chain at $115.7 million, and Solana at $78.5 million. However, earlier data showed BNB Chain leading with $1.5 billion, Ethereum at $842.4 million, and Solana at $732.2 million. These discrepancies arise from differences in measurement scope and timing, making it unclear which network leads in tokenized stock value. Tokenized stocks represent blockchain-based exposure to traditional shares, distinct from native cryptocurrency values on these networks."
-    },
-    {
-      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "headline": "Is Korea\u2019s Chip Selloff a Crypto Buying Opportunity? Tom Lee\u2019s Case and Its Catch",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWRnMGVxajFzZHJBU3NQX2IzZjRrOEhRYVNydFMyeF9FUHFPdE10RmFURVdtaF80SzA2bEczSzd3NS1vdlYzSVB4enBHQWlEQnRtaExnTzMwZVNRMHFBdzE3UWU0djVwOGhIVVN0YUtFRTVESDJwLXNfbUQ5MzV3dDJFSzIwYVAxTTdCM21HaVBMc0R5TjBYWHRYRU85YlU?oc=5",
-      "pub_date": 1792529164.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wallet-linked-drift-exploit-sends-204604841.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9d07ee16421ccda5331217c0c39dd62af509d5fce694fbc84dff76e96c23a769/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fd57cffcb54f68e73cd21b378da8d1afc.png",
-      "description": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWp6VE9jV214bkhqWkdRdDVFNDdnVnk0TldMTHg1b2h5VER5MUswdk50dUhNb0lSRVpzcVA2aTNWaUFWZDFzaUhnY2M0VFRKZXExcXV2VDVZc05DcU0zSlZvV1B4eDdid3pLbDlnVDUydW1UVmtBWWJlQ2g2amF1OEtyS3ZGYjNIWi1HeWtsVjFWNlNvTjlzelBMdmxzZw?oc=5",
+      "pub_date": 1792473240.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/korea-chip-selloff-crypto-buying-051449376.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7bacf7505f5614fec7821babe5c86dcd97722ef532888bb8bd30044a75ffb9be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
+      "description": "Tom Lee says Korea and Taiwan\u2019s chip selloff is spilling into crypto as Ethereum trails Bitcoin this week."
+    },
+    {
+      "headline": "Why Tom Lee Thinks Ethereum Treasury Firms Will Push ETH Past $10,000 In The Next 12 Months",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORVdra2VUNlpMeVI4LTI4TWVybjhhX18wREJmck9ieXlXTlNzRmZvRl9VY2FpY1N0LWdVanJRdWtnRjdWMDdfb0xwWVVTVkd5enJVY09Tbm1hMXdrYmxScC01R3NWUnFtcDFZM0lDRldNOUp3eHQyRHdpUm93Ri1jQXdzVHhqT3diSHFKQzdLZTJlOTNVMm1TQmdyU1dIa0lvS1ZzbzZkdkttYkZOQkNtY1ljWms4Ulp1QWp5aUtXbW1rWVpyWmVld3JkRTVqWDJwdWttQzBONHlHcjZWQzM0c1hrNkM?oc=5",
+      "pub_date": 1792433012.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:038d35308094b:0-why-tom-lee-thinks-ethereum-treasury-firms-will-push-eth-past-10-000-in-the-next-12-months/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Tom Lee, chairman of BitMine, thinks the next big move in Ethereum will come from treasury companies buying it up. He says firms that hold ETH on their balance sheets already own about 7% of its total supply, and he expects that share to roughly double to 15% during this bull cycle.Lee was asked ab\u2026"
     },
     {
       "headline": "Fhenix Launches CoFHE on Ethereum and Arbitrum for Confidential Smart Contracts",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T22:57:52.404658+00:00"
+  "fetched_at": "2026-10-21T01:25:25.005599+00:00"
 }
