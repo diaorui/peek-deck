@@ -35,16 +35,6 @@
       "description": "JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and institutional user base. The largest U.S. bank already moves more than $7 billion a day on its private Kinexys network. CoinDesk's Uyen Truong hosts \"CoinDesk Daily.\""
     },
     {
-      "headline": "JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekRsb3dLOVFsUlpGRjRxcnh4WkZGakdXOTVWeGdBTFQ0UXpNZkJNU19sa2piUE96VURzbnl6SFBiM1lWX3FYNWdoUGhUODlsS19VcVQ3cXhFMFJnR0UxS2xMbjd4d0NScXR1czRNQnV3Z1R1TUN6UC1xdk1NOUo2ZTc3OTNpc1pMN1hneFNjSUhtM2ZYaTFsaW8tbXE?oc=5",
-      "pub_date": 1792398660.0,
-      "article_url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
-      "description": "The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum."
-    },
-    {
       "headline": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "description": "JPMorgan's dollar deposit token heads to Ethereum in a sign of the lender getting more comfortable with public blockchains."
+    },
+    {
+      "headline": "JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekRsb3dLOVFsUlpGRjRxcnh4WkZGakdXOTVWeGdBTFQ0UXpNZkJNU19sa2piUE96VURzbnl6SFBiM1lWX3FYNWdoUGhUODlsS19VcVQ3cXhFMFJnR0UxS2xMbjd4d0NScXR1czRNQnV3Z1R1TUN6UC1xdk1NOUo2ZTc3OTNpc1pMN1hneFNjSUhtM2ZYaTFsaW8tbXE?oc=5",
+      "pub_date": 1792398660.0,
+      "article_url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
+      "description": "The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum."
     },
     {
       "headline": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
@@ -75,36 +75,36 @@
       "description": "The bank's dollar deposit token, which debuted on Base last year, is aimed at large crypto firms and financial institutions, a JPMorgan blockchain executive told Bloomberg."
     },
     {
-      "headline": "Is Korea\u2019s Chip Selloff a Crypto Buying Opportunity? Tom Lee\u2019s Case and Its Catch",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWp6VE9jV214bkhqWkdRdDVFNDdnVnk0TldMTHg1b2h5VER5MUswdk50dUhNb0lSRVpzcVA2aTNWaUFWZDFzaUhnY2M0VFRKZXExcXV2VDVZc05DcU0zSlZvV1B4eDdid3pLbDlnVDUydW1UVmtBWWJlQ2g2amF1OEtyS3ZGYjNIWi1HeWtsVjFWNlNvTjlzelBMdmxzZw?oc=5",
-      "pub_date": 1792473240.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/korea-chip-selloff-crypto-buying-051449376.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7bacf7505f5614fec7821babe5c86dcd97722ef532888bb8bd30044a75ffb9be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
-      "description": "Tom Lee says Korea and Taiwan\u2019s chip selloff is spilling into crypto as Ethereum trails Bitcoin this week."
-    },
-    {
-      "headline": "Why Tom Lee Thinks Ethereum Treasury Firms Will Push ETH Past $10,000 In The Next 12 Months",
+      "headline": "Ethereum, Solana, HYPE Growth Isn\u2019t Lifting Staking Yields: Bitwise",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORVdra2VUNlpMeVI4LTI4TWVybjhhX18wREJmck9ieXlXTlNzRmZvRl9VY2FpY1N0LWdVanJRdWtnRjdWMDdfb0xwWVVTVkd5enJVY09Tbm1hMXdrYmxScC01R3NWUnFtcDFZM0lDRldNOUp3eHQyRHdpUm93Ri1jQXdzVHhqT3diSHFKQzdLZTJlOTNVMm1TQmdyU1dIa0lvS1ZzbzZkdkttYkZOQkNtY1ljWms4Ulp1QWp5aUtXbW1rWVpyWmVld3JkRTVqWDJwdWttQzBONHlHcjZWQzM0c1hrNkM?oc=5",
-      "pub_date": 1792433012.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:038d35308094b:0-why-tom-lee-thinks-ethereum-treasury-firms-will-push-eth-past-10-000-in-the-next-12-months/",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXpwbGZrQlp1NUJDV0RCeVNKUTkzVU5ROG9nMGQ0LUtxNXU5c25ZWmZoWjVMWUNTNHc3dEN6VlJpX3JiUVR6NzV1RndJNm1Hd1E4WTdqcER6XzU0NGtXTDFUVHR0OGk3SWFWZjNpWFlZdklENWhRVmJoY045VFk0aFBwRzJaWGNGbG0yeGluZUM2TGE3SFl2LWJHXzBKYVd3WWFwRm9DUDhSRGZ6VTNkdVRidVpkRUNoRXV5Vm83ckU?oc=5",
+      "pub_date": 1792521615.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:81d0b3f35094b:0-ethereum-solana-hype-growth-isn-t-lifting-staking-yields-bitwise/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Tom Lee, chairman of BitMine, thinks the next big move in Ethereum will come from treasury companies buying it up. He says firms that hold ETH on their balance sheets already own about 7% of its total supply, and he expects that share to roughly double to 15% during this bull cycle.Lee was asked ab\u2026"
+      "description": "Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD both hit record staking levels in the third quarter, yet Bitwise\u2019s latest quarterly staking report details that yields on both networks fell.Why More Staked Capital Is Producing Smaller ReturnsBitwise wrote in its Q3 2026 staking report that Ethereum\u2026"
     },
     {
-      "headline": "Fhenix Launches CoFHE on Ethereum and Arbitrum for Confidential Smart Contracts",
-      "source": "HackerNoon",
-      "source_url": "https://hackernoon.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjZnX1BRUFNYZ2FDOHFCN1RPRTZSYURYalNIUmtHZ3VBWFY4Y0ZXZ0RPNWpacjRhQkY5cEg3QUppaHQxaGhIRUlqLVpEcjF5NEI1THpDbmY5elhaQzAzNF9xdjNucm8tSWtWYmZNSzZJMWs2amI0RzJyNEowZTdLMURTakpLN0pjQ3FaUzZLV05zeDluNHByR19CRXQ4am9qUktrcg?oc=5",
-      "pub_date": 1792534573.0,
-      "article_url": "https://hackernoon.com/fhenix-launches-cofhe-on-ethereum-and-arbitrum-for-confidential-smart-contracts",
-      "image": "https://hackernoon.imgix.net/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-rgd3e9r.png",
-      "description": "Fhenix launches CoFHE on Ethereum and Arbitrum. Its dual-mode tokens support public and confidential activity, with integration and trust tradeoffs."
+      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQW9Rc3hQblBPeFBuUXlGSTFzUlZNQ24zRlJGM0J6SURISFFPaThkTTJqbXN0Tl94bmwybjU0TDNOV1JpVGhDbTNvNUoyaWRkeUFwS0Y3WDRUazVFQ1VxbFd2dkw0MTU2Y1F3SEk1RWV6UWNMVllJa1JnT2kxMGRkbEZROGVhY0R0RHF5S09B?oc=5",
+      "pub_date": 1792529164.0,
+      "article_url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+      "description": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours."
+    },
+    {
+      "headline": "Current price of Ethereum for October 20, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQjZXRjctR1NwY1RjSlZsN3VhU2YzTk5MSzU0dlFObXdiWEYzM3BoRWdDYnFtbWRMSTNualZhUkZRWjZ2bXQ3eGVMZlBZamx5MmJzQjMyR2N4UnhtdDVkbjlRUUNMenR2?oc=5",
+      "pub_date": 1792528453.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-20-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ehtereum-Oct-20.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T01:25:25.005599+00:00"
+  "fetched_at": "2026-10-21T06:21:23.514925+00:00"
 }

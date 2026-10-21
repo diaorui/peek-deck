@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-21T01:25:44.340658+00:00'
+updated: '2026-10-21T06:21:33.764135+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 21, 2026 at 01:25 UTC  
+**Last Updated:** October 21, 2026 at 06:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +0.2%  
-**30d:** -11.0%  
-**90d:** +31.5%  
-**1y:** -35.7%  
+**24h:** +2.1%  
+**7d:** -0.2%  
+**30d:** -11.4%  
+**90d:** +31.0%  
+**1y:** -35.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.55B
+**Market Cap:** $297.60B
 Rank #2
 
-**Circulating Supply:** 122,151,332 ETH
+**Circulating Supply:** 122,154,253 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.7%
 
 **All-Time Low:** $0.43
-+564564.8%
++562546.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -134,7 +134,7 @@ Following its activation on Sepolia on October 6, the Glamsterdam network upgrad
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -172,19 +172,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients](https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874)**
-
-The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum.
-
-The Block • 1d ago
-
----
-
 **[JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum](https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg)**
 
 JPMorgan's dollar deposit token heads to Ethereum in a sign of the lender getting more comfortable with public blockchains.
 
 CoinDesk • 1d ago
+
+---
+
+**[JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients](https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874)**
+
+The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum.
+
+The Block • 1d ago
 
 ---
 
@@ -204,27 +204,27 @@ unchainedcrypto.com • 1d ago
 
 ---
 
-**[Is Korea’s Chip Selloff a Crypto Buying Opportunity? Tom Lee’s Case and Its Catch](https://finance.yahoo.com/markets/crypto/articles/korea-chip-selloff-crypto-buying-051449376.html)**
+**[Ethereum, Solana, HYPE Growth Isn’t Lifting Staking Yields: Bitwise](https://www.tradingview.com/news/benzinga:81d0b3f35094b:0-ethereum-solana-hype-growth-isn-t-lifting-staking-yields-bitwise/)**
 
-Tom Lee says Korea and Taiwan’s chip selloff is spilling into crypto as Ethereum trails Bitcoin this week.
+Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD both hit record staking levels in the third quarter, yet Bitwise’s latest quarterly staking report details that yields on both networks fell.Why More Staked Capital Is Producing Smaller ReturnsBitwise wrote in its Q3 2026 staking report that Ethereum…
 
-Yahoo Finance • 20h ago
-
----
-
-**[Why Tom Lee Thinks Ethereum Treasury Firms Will Push ETH Past $10,000 In The Next 12 Months](https://www.tradingview.com/news/coinpedia:038d35308094b:0-why-tom-lee-thinks-ethereum-treasury-firms-will-push-eth-past-10-000-in-the-next-12-months/)**
-
-Tom Lee, chairman of BitMine, thinks the next big move in Ethereum will come from treasury companies buying it up. He says firms that hold ETH on their balance sheets already own about 7% of its total supply, and he expects that share to roughly double to 15% during this bull cycle.Lee was asked ab…
-
-TradingView • 1d ago
+TradingView • 11h ago
 
 ---
 
-**[Fhenix Launches CoFHE on Ethereum and Arbitrum for Confidential Smart Contracts](https://hackernoon.com/fhenix-launches-cofhe-on-ethereum-and-arbitrum-for-confidential-smart-contracts)**
+**[Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash](https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash)**
 
-Fhenix launches CoFHE on Ethereum and Arbitrum. Its dual-mode tokens support public and confidential activity, with integration and trust tradeoffs.
+The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours.
 
-HackerNoon • 3h ago
+Decrypt • 9h ago
+
+---
+
+**[Current price of Ethereum for October 20, 2026](https://fortune.com/article/price-of-ethereum-10-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally o
 
 📺 Yahoo Finance
 
-👁️ 30K • 👍 573 • 💬 61 • ⏱️ 14:51 • 1d ago
+👁️ 32K • 👍 582 • 💬 61 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altc
 
 📺 Altcoin Daily
 
-👁️ 70K • 👍 2K • 💬 204 • ⏱️ 9:32 • 1d ago
+👁️ 72K • 👍 2K • 💬 204 • ⏱️ 9:32 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPM
 
 📺 Thinking Crypto
 
-👁️ 22K • 👍 733 • 💬 123 • ⏱️ 19:54 • 22h ago
+👁️ 22K • 👍 739 • 💬 124 • ⏱️ 19:54 • 1d ago
 
 ---
 
@@ -268,37 +268,37 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 22K • 👍 500 • 💬 34 • ⏱️ 2:31 • 1d ago
+👁️ 23K • 👍 515 • 💬 35 • ⏱️ 2:31 • 1d ago
 
 ---
 
-**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
+**[You Have No Idea How Big The Crypto Super Cycle Will Be (CoreWeave pops AI Bubble?)](https://www.youtube.com/watch?v=ykXk89g3JPQ)**
 
-BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
+Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): https://www.weex.com/events/welcome-event?
 
-📺 Elijah Cheng
+📺 Altcoin Daily
 
-👁️ 7K • 👍 93 • 💬 31 • ⏱️ 24:29 • 1d ago
-
----
-
-**[📢ETHEREUM Deep Dive [What is ETH?] Buy or pass?!](https://www.youtube.com/watch?v=Cd4mRqXx5D0)**
-
-ETH deep dive looking into the fundamentals behind the project. Does Ethereum have the fundamentals to drive the price up?
-
-📺 BTDcrypto
-
-👁️ 116 • 👍 8 • 💬 3 • ⏱️ 1:06:43 • 2d ago
+👁️ 99K • 👍 3K • 💬 121 • ⏱️ 10:55 • 2d ago
 
 ---
 
-**[They Lied To You About Bitcoin, Now They are Lying About Ethereum &amp; Crypto](https://www.youtube.com/watch?v=SQ8Hu-ByVh0)**
+**[Why is Ethereum so weak right now?](https://www.youtube.com/watch?v=EHuwWUQ_jjg)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 155 • 💬 8 • ⏱️ 8:07 • 1d ago
+
+---
+
+**[OFFICIAL: JPMorgan Confirms Bitcoin to $214,000 per coin as &#39;base case&#39;](https://www.youtube.com/watch?v=SQ8Hu-ByVh0)**
 
 Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 218 • 💬 18 • ⏱️ 8:43 • 41m ago
+👁️ 21K • 👍 1K • 💬 52 • ⏱️ 8:43 • 5h ago
 
 ---
 
@@ -308,7 +308,17 @@ JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, c
 
 📺 CoinDesk
 
-👁️ 767 • 👍 23 • 💬 1 • ⏱️ 1:51 • 1d ago
+👁️ 838 • 👍 24 • 💬 1 • ⏱️ 1:51 • 1d ago
+
+---
+
+**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
+
+Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
+
+📺 CoinDesk
+
+👁️ 61K • 👍 519 • 💬 66 • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -318,17 +328,7 @@ Bitcoin Charts, SOL, Ethena, Ethereum, Spacex, AMD and more BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 20K • 👍 480 • 💬 25 • ⏱️ 1:03:23 • 1d ago
-
----
-
-**[Ethereum: Calm Before the Breakout?](https://www.youtube.com/watch?v=7I1qdYGm4HU)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 114 • 💬 16 • ⏱️ 7:38 • 4h ago
+👁️ 20K • 👍 482 • 💬 25 • ⏱️ 1:03:23 • 1d ago
 
 ---
 
