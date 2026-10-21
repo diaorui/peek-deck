@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
-      "published": 1792505577.0,
-      "thumbnail": "https://external-preview.redd.it/agyidO-xjGgdZwvZScN4iPCOlfjEmjJWnV52f_PI7_A.png?width=640&crop=smart&auto=webp&s=611ee1ddff54ad84d5a9201a81c21a547cd9fd52",
-      "external_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-      "site_name": "HEIST",
-      "favicon": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w256h256/2026/03/nefertit-8-bit.png",
-      "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct."
-    },
-    {
       "title": "New York City wants to fine companies that trap you in AI chatbot \u2018doom loops\u2019",
       "author": "ross2000",
       "url": "https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/",
@@ -24,15 +13,15 @@
       "description": "Seems like a good idea. Didn\u2019t know it was called a \u2018doom loop\u2019 but hate calling customer services and being stuck with an AI agent."
     },
     {
-      "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
       "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
-      "published": 1792505665.0,
-      "thumbnail": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
-      "external_url": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from..."
+      "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
+      "published": 1792505577.0,
+      "thumbnail": "https://external-preview.redd.it/agyidO-xjGgdZwvZScN4iPCOlfjEmjJWnV52f_PI7_A.png?width=640&crop=smart&auto=webp&s=611ee1ddff54ad84d5a9201a81c21a547cd9fd52",
+      "external_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "site_name": "HEIST",
+      "favicon": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w256h256/2026/03/nefertit-8-bit.png",
+      "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct."
     },
     {
       "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own \u2014 AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens",
@@ -46,6 +35,17 @@
       "description": "About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals."
     },
     {
+      "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
+      "published": 1792505665.0,
+      "thumbnail": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
+      "external_url": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from..."
+    },
+    {
       "title": "Spotify is cracking down on Family plans again, and the penalty can lock you out for a year",
       "author": "Ok-Conversation3213",
       "url": "https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/",
@@ -55,17 +55,6 @@
       "site_name": "digitaltrends.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "LLM Memory: 5 Approaches to Handling New Information",
-      "author": "LimeOptimal539",
-      "url": "https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/",
-      "published": 1792511221.0,
-      "thumbnail": "https://preview.redd.it/ssdwe70x7nwh1.png?width=640&crop=smart&auto=webp&s=370bfc6a9d26e0aef40c175b6993ac3fe8dc1cf0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of \u201cmemory layer\u201d which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state. The table groups approaches into five categories: Store more: keep explicit history, as with KV caches and retrieval/RAG. Old and new information can coexist, leaving the system to resolve which applies at read/retrieval time. Compress: fold history into a fixed-size state, as with linear attention, RetNet, and Mamba. This saves space, but stored associations can interfere, limiting recall abilities as context grows. Correct: control what changes through gates or prediction-error updates, as with gated linear attention, mLSTM, and DeltaNet. Typically more efficient than simple \u201ccompress\u201d, but also has a hard time scaling with larger contexts. Learn at inference: update mutable parameters using incoming evidence, as with TTT and Titans. Distribute plasticity: spread changes across interacting parts of the state, as with Dragon Hatchling (BDH). Memory lives in high-dimensional space, being sparse and distributed. One example that can make this easier for me to understand is a coding agent that learns a function signature has changed. Keeping both the old and new definitions means it has retained the information but it still needs to determine which definition should govern its next call. It becomes inefficient at reading time. I\u2019m skeptical if the categories belong at the same level of comparison. Some describe model-level mechanisms, while others describe system-level designs. Curious how people here think about this, particularly those who've built memory systems for your own agents. When something becomes outdated, do you update the memory right away or keep the history and let the model figure it out during retrieval? Wondering which approach actually works better as the amount of information grows. Table and framework: R. Vimalkanth and T. Chudiwal, IIT Madras, \u201cThe Missing Piece in LLM Memory: Why Long Context and Retrieval Aren\u2019t Enough for Belief Revision,\u201d a HF community article."
     },
     {
       "title": "Hugging Face CEO calls Netflix hacking doc 'sci-fi'",
@@ -79,38 +68,49 @@
       "description": "Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.\n\nI spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.\n\nAlso, they didn\u2019t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.\n\nAnyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn"
     },
     {
-      "title": "Outrage after Meta suspends No Kings Instagram account during protests",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/",
-      "published": 1792479104.0,
-      "thumbnail": "https://external-preview.redd.it/bbNHKjy8BG9v6moOdaB7Dv-4ubUWuqIace0lVy-HZR0.jpeg?width=640&crop=smart&auto=webp&s=f23923f8ff49cb1efff5fce6158efcb90e447f46",
-      "external_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "\u2018Meta owes us an explanation,\u2019 group says as organizers fear censorship after account goes dark for several hours"
-    },
-    {
-      "title": "I am failing to see how this AI boom does not lead to a very bad ending for 99% of the people... Please convince me otherwise.",
-      "author": "AccomplishedCase6862",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/",
-      "published": 1792432128.0,
+      "title": "please tell me there is some entirely physical requirement to launch nukes",
+      "author": "Doredrin",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbf9n5/please_tell_me_there_is_some_entirely_physical/",
+      "published": 1792562727.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "As a Software Engineer, I have barelly written any code for the last 6 months, all I did is prompt. That being said, I work with hardware a lot, you could kind of call me Embedded Software Engineer of sorts, but also not really. So I (hope so) that I am not on the frontlines of all this stuff, but this still scares me a lot. The way I imagine how everything develops over next years (hard to tell what is the timeline, but given the recent strides of AI, it is hard for me to be optimistic): AI is already very good at reasoning, I assume there is space for improvement, but it already does everything faster and better than human, even if it makes mistakes or overcomplicates stuff. But development here will still happen. My biggest concern is people who say that well, software developers won't be needed, but there still will be jobs like software architects and etc. Also there will still be jobs for trades people, like electricians, builders, barbers and etc. However, I guarantee you that there are many people working on something like a robot (imagine like Boston Dynamics) where you shove in the LLM inside, do some extra training on maybe how to use limbs, how to interact with stuff in real world and robot will literally be able to do any job better than human. I mean any physical job. People will not be needed anymore. Only a small part of elite billionaires will own the robots, which will bring them all wealth and rest of us will have no jobs, no food, no anything. Counter-argument that people try to make to this is that people will still have to get money from somewhere, whether its UBI or another income scheme. Billionaires will still have to sell their goods/services to someone. No they will not. For billionaires selling goods/services is just a vehicle to live life as best as possible. If the robots are going to grow, harvest and prepare food for him, build the plane for him and use the same plane to go on holiday, order, ship and deliver deliveries for him and human intervention is not needed, then the billionaires will do everything that is in their power to exclude people of any processes, any supply chains, because people will demand stuff. We already see this with mass firings and mandatory transition to AI in some companies: billionaires will do everything in their power to cut costs and to replace people with obedient AI. Billionaires are seeing an opportunity and they want this really bad. Also some naive people think there will be some AI regulation introduced or whatever. Hard to see this happening until something catastrophic happens and its too late. For now everyone is pouring money and hoping to squeeze every inch of it. People who are positioned to stop it are the people who are set to gain the most from unhealthy AI hyperdevelopment. Any opposition will be suppressed. AI will be used to identify people that oppose to this development and shut down. People who will control AI will do everything at their disposal to not let their power slip. And they have very powerful tools. AI can literally do everything online now: order shopping, do software engineering, do good reasoning. What is to say that most powerful people with AI wont hack some lets say banking systems and hold us all hostage. What if someone controls millions of robots that I talked about and wants to take over the world and nobody can stop them, because they are more competent at everything that human can do?"
+      "description": "A hose that needs to be screwed in, a crank that needs to be turned, something requiring actual physical input at launch sites completely outside of any electronic system whatsoever. I'm not concerned about the \"AI will literally kill us all\" thing, but it does cause me some anxiety about a few things. This goes not just for AI, but for cyberattacks as well. As anyone with a basic understanding of cybersecurity should know. \"it's disconnected from the internet\" or \"it's on it's own secure network\" or even \"it can't physically access the internet\" is not good enough in extremely high stakes situations. You can theoretically hack anything with an electronic component."
     },
     {
-      "title": "Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US \u2014 Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes",
-      "author": "Ok-Conversation3213",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/",
-      "published": 1792442856.0,
-      "thumbnail": "https://external-preview.redd.it/NZMaJhMXgNghC_xMr4XFgokvTrRSV-6irGahfX4ICRo.jpeg?width=640&crop=smart&auto=webp&s=316e68c9eef7b2c77846b6fe1f84890410f918fc",
-      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1787588/apple-touch-icon.png",
-      "description": "Further attempts to reduce reliance on US infrastructure"
+      "title": "OpenAI acquires Orchestra Bio, folds drug-development agents into Rosalind",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbcka3/openai_acquires_orchestra_bio_folds/",
+      "published": 1792553573.0,
+      "thumbnail": "https://external-preview.redd.it/7wNgwLC73uBqfkc7rgcu-ZqPZn0zSRBSEo-0YCELNIY.jpeg?width=640&crop=smart&auto=webp&s=a33457725bc7c14caec3702ab8ac5e2c1c663d7e",
+      "external_url": "http://vectorwire.ai/article/openai-acquires-orchestra-bio-folds-drug-development-agents-into-rosalind-452a7b",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "OpenAI acquired Orchestra Bio, a startup that built AI agents for drug development, integrating its team and technology into the Rosalind life sciences\u2026"
+    },
+    {
+      "title": "LLM Memory: 5 Approaches to Handling New Information",
+      "author": "LimeOptimal539",
+      "url": "https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/",
+      "published": 1792511221.0,
+      "thumbnail": "https://preview.redd.it/ssdwe70x7nwh1.png?width=640&crop=smart&auto=webp&s=370bfc6a9d26e0aef40c175b6993ac3fe8dc1cf0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of \u201cmemory layer\u201d which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state. The table groups approaches into five categories: Store more: keep explicit history, as with KV caches and retrieval/RAG. Old and new information can coexist, leaving the system to resolve which applies at read/retrieval time. Compress: fold history into a fixed-size state, as with linear attention, RetNet, and Mamba. This saves space, but stored associations can interfere, limiting recall abilities as context grows. Correct: control what changes through gates or prediction-error updates, as with gated linear attention, mLSTM, and DeltaNet. Typically more efficient than simple \u201ccompress\u201d, but also has a hard time scaling with larger contexts. Learn at inference: update mutable parameters using incoming evidence, as with TTT and Titans. Distribute plasticity: spread changes across interacting parts of the state, as with Dragon Hatchling (BDH). Memory lives in high-dimensional space, being sparse and distributed. One example that can make this easier for me to understand is a coding agent that learns a function signature has changed. Keeping both the old and new definitions means it has retained the information but it still needs to determine which definition should govern its next call. It becomes inefficient at reading time. I\u2019m skeptical if the categories belong at the same level of comparison. Some describe model-level mechanisms, while others describe system-level designs. Curious how people here think about this, particularly those who've built memory systems for your own agents. When something becomes outdated, do you update the memory right away or keep the history and let the model figure it out during retrieval? Wondering which approach actually works better as the amount of information grows. Table and framework: R. Vimalkanth and T. Chudiwal, IIT Madras, \u201cThe Missing Piece in LLM Memory: Why Long Context and Retrieval Aren\u2019t Enough for Belief Revision,\u201d a HF community article."
+    },
+    {
+      "title": "Discover AI - A Teaching & Learning Guide - 51 hands-on labs for learning how AI actually works.",
+      "author": "Zipidyzip",
+      "url": "https://www.reddit.com/r/artificial/comments/1xba832/discover_ai_a_teaching_learning_guide_51_handson/",
+      "published": 1792546572.0,
+      "thumbnail": "https://external-preview.redd.it/ZXhoaXJpYTg0cXdoMeuxUpaulfbad8JbVv-d5Tnl9i1PqODW-FMOYGOA-CYv.png?width=640&crop=smart&auto=webp&s=730be05d8ec104d670cc4cdc86f8d62624538fed",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is a learning resource about how artificial intelligence works, broken down into its component parts. Understand each one, then put them together to create your own. You learn by trying, not just by reading, from the required math to training a model and the text comes in three reading levels. A bit of insight - 51 labs in 6 groups, from the basics (what a neuron is, gradient descent) through attention, RAG, agents, fine-tuning, quantization, serving, and more - Each lab has a short lesson beside it, readable in Plain or Standard mode - Every lesson in Discover AI now comes in three reading levels, Simple (short sentences and everyday comparisons), Plain (everyday words) and Standard (the proper technical terms) - Some of it actually runs rather than just animating: - The attention lab runs a small trained transformer (1.37M params) inside the app - The training labs train a tiny character-level model live as you move the sliders - Works offline: no account, no telemetry The topics were hand-selected, background research was conducted, and the structure and grouping were developed. AI was used for research, and all sources have been verified. There may be mistakes, so please report any you spot or open a PR. If you teach this or work in a specialized area of AI, I would love your help expanding it whether through a new interactive lab, a better visualization, or a tweak that makes the cause and effect in an existing lab clearer. I'd also like to hear which labs are confusing and what's missing. If you're a learner, please let us know if there's a specific topic or concept that would help you better understand AI. Thank you! GitHub: https://github.com/Fazmin/AILearningGuide"
     }
   ],
-  "fetched_at": "2026-10-21T01:25:06.843643+00:00"
+  "fetched_at": "2026-10-21T06:21:04.566339+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-21T01:25:44.343495+00:00'
+updated: '2026-10-21T06:21:33.766422+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 21, 2026 at 01:25 UTC  
+**Last Updated:** October 21, 2026 at 06:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,23 +120,7 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
 
-TechCrunch • 12h ago
-
----
-
-**[Robot Wars How China Has the Robotics Industry in Its Grip](https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html)**
-
-Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
-
-Crude Oil Prices Today | OilPrice.com • 1d ago
-
----
-
-**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
-
-The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
-
-GeekWire • 23h ago
+TechCrunch • 17h ago
 
 ---
 
@@ -156,11 +140,41 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[In a Second Robotics Contract, Nyobolt Will Power Agility’s Latest Humanoid](https://www.theinformation.com/newsletters/the-electric/second-robotics-contract-nyobolt-will-power-agilitys-latest-humanoid)**
+**[Robot Wars – How China Has the Robotics Industry in Its Grip](https://finance.yahoo.com/technology/ai/articles/robot-wars-china-robotics-industry-004100697.html)**
 
-In the latest bullish sign for the previously troubled battery industry, Agility Robotics said it would power the latest version of its humanoid robot, Digit, with next-generation batteries manufactured by Nyobolt.
+Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
 
-The Information • 2d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense](https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense)**
+
+A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.
+
+Binghamton University • 11h ago
+
+---
+
+**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
+
+The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
+
+GeekWire • 1d ago
+
+---
+
+**[US Navy, Gecko Robotics surge AI maintenance contract to $300M](https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/)**
+
+Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.
+
+Defense News • 15h ago
+
+---
+
+**[Delivery Robots Are Watching You, According to Lawsuit](https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417)**
+
+Gizmodo • 9h ago
 
 ---
 
@@ -172,41 +186,17 @@ The Robot Report • 1d ago
 
 ---
 
-**[U.S. clients are co-developing an AI-powered station to wash and groom dogs.](https://www.stocktitan.net/news/GMEX/gmex-robotics-announces-media-meta-s-u-s-ai-powered-autonomous-zk829ekey1np.html)**
+**[Elbit expands into underwater autonomy with acquisition of Canadian robotics company](https://www.calcalistech.com/ctechnews/article/bkxxdnn2fe)**
 
-MediaMeta submitted a U.S. patent application; the grooming station remains in development, with commercialization subject to testing and client acceptance.
+The Israeli defense group has acquired International Submarine Engineering, a developer of autonomous underwater vehicles with more than 50 years of experience. The deal adds technology for surveillance, mine clearance and anti-submarine operations, although its financial terms were not disclosed.
 
-Stock Titan • 6d ago
-
----
-
-**[Stanford researchers develop robots that could soon do all your housework](https://www.newsnationnow.com/business/tech/robotics-robots-housework-stanford-researchers/)**
-
-NewsNation • 7h ago
-
----
-
-**[Elon Musk: Only Way to Solve U.S. Debt Is AI and Robots](https://www.chosun.com/english/industry-en/2026/10/18/NMUZPXHAGVHYDFG6GRKRPUE5LI/)**
-
-Elon Musk: Only Way to Solve U.S. Debt Is AI and Robots Musk regrets political role, stresses AI focus after failed government spending cuts
-
-조선일보 • 2d ago
+CTech • 20h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
-
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
-
-📺 AI Unfiltered
-
-👁️ 41K • 👍 463 • 💬 59 • ⏱️ 8:52 • 4d ago
-
----
 
 **[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
@@ -224,7 +214,17 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 80K • 👍 715 • 💬 40 • ⏱️ 9:03 • 2d ago
+👁️ 82K • 👍 734 • 💬 40 • ⏱️ 9:03 • 2d ago
+
+---
+
+**[🧹$60 to Have Two Robots Clean Your House?](https://www.youtube.com/watch?v=FPI0PZA9mxE)**
+
+Would you pay $60 to have two humanoid robots clean your home? Meet Sergey, a humanoid robot working for Tau Robotics, ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 358 • 👍 9 • ⏱️ 0:54 • 2h ago
 
 ---
 
@@ -234,7 +234,7 @@ Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 📺 Jamel_AKA_Jamal
 
-👁️ 109K • 👍 3K • 💬 704 • ⏱️ 13:05 • 2d ago
+👁️ 111K • 👍 3K • 💬 718 • ⏱️ 13:05 • 2d ago
 
 ---
 
@@ -244,17 +244,17 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 152K • 👍 1K • 💬 435 • ⏱️ 4:07 • 3d ago
+👁️ 155K • 👍 1K • 💬 441 • ⏱️ 4:07 • 3d ago
 
 ---
 
-**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
 
-xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
 
-📺 RuntimeBRT
+📺 AI Unfiltered
 
-👁️ 146K • 👍 6K • 💬 190 • ⏱️ 2:55 • 1d ago
+👁️ 52K • 👍 548 • 💬 69 • ⏱️ 8:52 • 4d ago
 
 ---
 
@@ -262,7 +262,7 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 Big Duke13
 
-👁️ 368K • 👍 12K • 💬 1K • ⏱️ 2:35 • 4d ago
+👁️ 381K • 👍 13K • 💬 1K • ⏱️ 2:35 • 4d ago
 
 ---
 
@@ -272,17 +272,17 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 132K • 👍 1K • 💬 86 • ⏱️ 12:13 • 5d ago
+👁️ 134K • 👍 1K • 💬 88 • ⏱️ 12:13 • 5d ago
 
 ---
 
-**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
 
-China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
 
-📺 MACHINEKIND
+📺 RuntimeBRT
 
-👁️ 43K • 👍 597 • 💬 63 • ⏱️ 12:40 • 4d ago
+👁️ 156K • 👍 7K • 💬 209 • ⏱️ 2:55 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursi
 
 📺 Tesla Insider News
 
-👁️ 326K • 👍 2K • 💬 503 • ⏱️ 21:44 • 5d ago
+👁️ 332K • 👍 2K • 💬 506 • ⏱️ 21:44 • 5d ago
 
 ---
 
