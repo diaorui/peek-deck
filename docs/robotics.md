@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-21T12:11:50.183168+00:00'
+updated: '2026-10-21T17:32:44.880610+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 21, 2026 at 12:11 UTC  
+**Last Updated:** October 21, 2026 at 17:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I posted here 8 months ago and am only now posting again, haha. This is how I've
 
 MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was the evening of the day I developed the MK6 V2 and participated in the Maker Faire. 2026.09.19 😎👍
 
-2d ago
+3d ago
 
 ---
 
@@ -60,7 +60,7 @@ MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was th
 
 More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rocker-bogie-mars-rover-esp32-cam-6-wheel-robotic-platform
 
-2d ago
+3d ago
 
 ---
 
@@ -116,11 +116,11 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 ## Google News: "robotics"
 
-**[Eka is worth $1.45B thanks to a physical AI model that has experts raving](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/)**
+**[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
 
-Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
+NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
 
-TechCrunch • 23h ago
+NVIDIA Newsroom • 7h ago
 
 ---
 
@@ -128,51 +128,23 @@ TechCrunch • 23h ago
 
 Agility Robotics’ first practical robotic worker is nothing like I dreamed
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
-**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
+**[Robot Wars How China Has the Robotics Industry in Its Grip](https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html)**
 
-SpaceNews • 32m ago
+Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
 
----
-
-**[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
-
-NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
-
-NVIDIA Newsroom • 1h ago
+Crude Oil Prices Today | OilPrice.com • 1d ago
 
 ---
 
-**[Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense](https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense)**
+**[Eka is worth $1.45B thanks to a physical AI model that has experts raving](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/)**
 
-A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.
+Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
 
-Binghamton University • 17h ago
-
----
-
-**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
-
-The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
-
-GeekWire • 1d ago
-
----
-
-**[US Navy, Gecko Robotics surge AI maintenance contract to $300M](https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/)**
-
-Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.
-
-Defense News • 20h ago
-
----
-
-**[Delivery Robots Are Watching You, According to Lawsuit](https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417)**
-
-Gizmodo • 14h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -180,15 +152,45 @@ Gizmodo • 14h ago
 
 Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly.
 
-Business Insider • 3h ago
+Business Insider • 8h ago
 
 ---
 
-**[Investing in Eka Robotics](https://a16z.com/announcement/investing-in-eka-robotics/)**
+**[Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense](https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense)**
 
-a16z leads Eka Robotics’ Series A
+A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.
 
-Andreessen Horowitz • 20h ago
+Binghamton University • 22h ago
+
+---
+
+**[US Navy, Gecko Robotics surge AI maintenance contract to $300M](https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/)**
+
+Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.
+
+Defense News • 1d ago
+
+---
+
+**[Delivery Robots Accused of Scanning Customer Faces, Sharing Biometrics, Chicago Residents Are Suing for Privacy Violations](https://www.yahoo.com/news/us/articles/delivery-robots-accused-scanning-customer-155948934.html)**
+
+Delivery robot lawsuits in Cook County allege Coco and Serve Robotics scanned customer faces without consent, violating Illinois biometric privacy law.
+
+Yahoo • 1h ago
+
+---
+
+**[Delivery Robots Are Watching You, According to Lawsuit](https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417)**
+
+Gizmodo • 20h ago
+
+---
+
+**[Lawsuits claim food delivery robots collect biometric data without consent](https://abc13.com/story/lawsuits-claim-food-delivery-robots-collect-biometric-data-consent/19964380/)**
+
+The lawsuit alleges that the robots use technology that scans faces, hands and bodies of people, both customers and others who just happen to be on the sidewalk.
+
+ABC13 Houston • 4h ago
 
 ---
 
@@ -202,7 +204,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 125K • 👍 2K • 💬 225 • ⏱️ 20:32 • 3d ago
+👁️ 128K • 👍 2K • 💬 225 • ⏱️ 20:32 • 3d ago
 
 ---
 
@@ -212,7 +214,7 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 14K • 👍 291 • 💬 32 • ⏱️ 13:57 • 12h ago
+👁️ 26K • 👍 416 • 💬 44 • ⏱️ 13:57 • 17h ago
 
 ---
 
@@ -226,33 +228,23 @@ Remove your personal information online with Delete Me using my link https://joi
 
 ---
 
-**[🧹$60 to Have Two Robots Clean Your House?](https://www.youtube.com/watch?v=FPI0PZA9mxE)**
-
-Would you pay $60 to have two humanoid robots clean your home? Meet Sergey, a humanoid robot working for Tau Robotics, ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 1K • 👍 23 • 💬 4 • ⏱️ 0:54 • 8h ago
-
----
-
 **[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
 
 More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
 
 📺 The New York Times
 
-👁️ 157K • 👍 1K • 💬 452 • ⏱️ 4:07 • 3d ago
+👁️ 162K • 👍 1K • 💬 475 • ⏱️ 4:07 • 4d ago
 
 ---
 
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+**[Stop Making These 2 Huge Mistakes With Your Robot Builds! – War Robots](https://www.youtube.com/watch?v=OGt__jMYLkk)**
 
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+A lot of players think having a maxed-out MK3 bot with maxed-out weapons makes you completely unbeatable. But… if your ...
 
-📺 AI Unfiltered
+📺 Adrian Chong
 
-👁️ 62K • 👍 594 • 💬 76 • ⏱️ 8:52 • 4d ago
+👁️ 2K • 👍 152 • 💬 99 • ⏱️ 18:55 • 4h ago
 
 ---
 
@@ -262,17 +254,27 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 84K • 👍 741 • 💬 40 • ⏱️ 9:03 • 2d ago
+👁️ 86K • 👍 750 • 💬 41 • ⏱️ 9:03 • 2d ago
 
 ---
 
-**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
+**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
 
-xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
+Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
-📺 RuntimeBRT
+📺 Jamel_AKA_Jamal
 
-👁️ 172K • 👍 7K • 💬 215 • ⏱️ 2:55 • 2d ago
+👁️ 113K • 👍 3K • 💬 730 • ⏱️ 13:05 • 2d ago
+
+---
+
+**[🧹$60 to Have Two Robots Clean Your House?](https://www.youtube.com/watch?v=FPI0PZA9mxE)**
+
+Would you pay $60 to have two humanoid robots clean your home? Meet Sergey, a humanoid robot working for Tau Robotics, ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 1K • 👍 26 • 💬 7 • ⏱️ 0:54 • 13h ago
 
 ---
 
@@ -280,17 +282,17 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 Big Duke13
 
-👁️ 392K • 👍 13K • 💬 1K • ⏱️ 2:35 • 4d ago
+👁️ 401K • 👍 13K • 💬 1K • ⏱️ 2:35 • 4d ago
 
 ---
 
-**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
 
-China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
 
-📺 MACHINEKIND
+📺 AI Unfiltered
 
-👁️ 44K • 👍 608 • 💬 65 • ⏱️ 12:40 • 4d ago
+👁️ 69K • 👍 638 • 💬 89 • ⏱️ 8:52 • 4d ago
 
 ---
 

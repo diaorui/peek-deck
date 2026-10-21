@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one lied about it",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82c0lqMFI4dFFfLWhRZ0VZbW9LeFpaVDVTM3kwR3BzWFlST3o4ZXFqcVJVVF9BT2JRM0dFcFN0YWNCcUJjOUVkUUFDZVFidUwyTFM0cHBPVHAtRXk3a2hCYVU4VFJqeDhBckpWNVJ1RjFlVEs5R1pHNXRhMNIBgAFBVV95cUxQbEVjZjZVOEZHSm1UelVuSmxTYnRPTDE3NFB2ZHJFTjBrUnBtejdCWTRVb0JWcXVmNW90R2R1RTBsZWx3Qkw3NXhwU3EzUHhQQ0hDbFg0emFvUkhTNlV0dWJCZm5FMzJQdHpzNTJrSm9ZenhtY1VUTng4UFVPOXp6SQ?oc=5",
-      "pub_date": 1792566228.0,
-      "article_url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369621-17907030462026-09-29t172505z_2131096092_rc25tnaf2wqy_rtrmadp_0_ai-openai.jpeg?v=1790703065&w=1920&h=1080",
-      "description": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models."
+      "headline": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+      "source": "wiz.io",
+      "source_url": "https://www.wiz.io",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5",
+      "pub_date": 1792597553.0,
+      "article_url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
+      "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web."
     },
     {
-      "headline": "OpenAI says its AI agents weakened internal monitoring system",
+      "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
-      "pub_date": 1792550220.0,
-      "article_url": "https://www.reuters.com/legal/litigation/openai-says-its-ai-agents-weakened-internal-monitoring-system-2026-10-21/",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+      "pub_date": 1792602343.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5",
-      "pub_date": 1792582200.0,
-      "article_url": "https://finance.yahoo.com/technology/article/nvidia-debuts-platform-for-keeping-ai-agents-from-going-rogue-and-humanoid-robot-design-at-gtc-berlin-113000342.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ba4c2e832602e2953a6de8320637586a708c96021815289ce08ddcd3d8816554/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjensen-wide_4944.png",
-      "description": "Nvidia debuted new AI security and robotics features at GTC Berlin."
+      "headline": "AI finds critical flaw in software powering most of world's websites",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQjN6NGEycUo2NVZPYkl6dXRWVVZ2NW9DVER6WE93U1hpcFdjdW5QNHkwNjR2cHBfa0xfRWc0YUpIZmtlVGx6RnNQUGZ3TGlXUFk1LUpnalhoWllpaWlLQ2ltS09kX2lncjBRdkxZdGVPTmkzMVE1bGhSRUU5aUl6M3d3NVcwSU1ERV9Lb1hJbEo4bVlJRHRmTnFrMEd4b1BpZWhzSWp0eXpDTmRh?oc=5",
+      "pub_date": 1792602660.0,
+      "article_url": "https://www.usatoday.com/story/news/nation/2026/10/21/php-vulnerability-php2shell-updates--live/92362348007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92363182007-getty-images-2234315089.jpg?crop=2234,1256,x149,y0&width=2234&height=1256&format=pjpg&auto=webp",
+      "description": "The issues would allow bad actors to steal information or launch a cyberattack on anyone visiting a hacked website."
     },
     {
-      "headline": "Why AI\u2019s Deepest Mind Believes the World Is About to Change Radically",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
-      "pub_date": 1792575000.0,
-      "article_url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI brings its frontier models to rival Google Cloud",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fRGVTajlqaGI0cGJ0aXFYYXZHQmxmb01MLW50TW5mV3drRVFTZXIyRkxSZDV6b0p6Z1dsNnFXN29FZHYtUjJkam1saGdERkF6SXgyWVZ5dVlmbXRRbjhwc2NnVGlQTVlLVm9JVTMtOA?oc=5",
-      "pub_date": 1792584139.0,
-      "article_url": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Godbots, Gurus, And Guides Are Becoming More Popular, But Would You Trust A Machine With Your Spiritual Journey?",
-      "source": "IFLScience",
-      "source_url": "https://www.iflscience.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXFlY2VvYl80ZjR5NUh2RjhXdTM0NUUxU1lUWjdwNmV3c0gyZEdWUVJZbHVRUWw2V2NKREtGTlBaWjFBVE5UZENBN1ZpVVNjMVltXzBKUkJTY2lmTVFoOTI4UzRXbG1FRy1majBxTTM0X0ZPZEp5cnpTLXZFdlY0SnAtU2pSWGRnQWxPdnFIN1JiS1VySndWSDExSDhUdFpWaWIydllSZnFLdDl5aUpQdFdpQno3anNjMmVqOEFidjFsREtNalp0QmFPMVVxa3RaSENWMWRDUEw1OHF3?oc=5",
-      "pub_date": 1792583970.0,
-      "article_url": "https://www.iflscience.com/ai-godbots-gurus-and-guides-are-becoming-more-popular-but-would-you-trust-a-machine-with-your-spiritual-journey-84984",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzBsTXktaVgtWEdzbmp5Z0RzdzktYWlVR2lNTlRCWGdYaWZ4WTE5eHRhR0VvMUtmdGlhVkMtMXFnQXNobkdCUzdEdVQwVlZzY1oyREkySjlvQU1JY0hWSUZPRzRDaWJVaVp3VXl1S1RuOV8xM1NGemNUSGVGWkhLMWx3LWlfYi16T1BjWTJyclA5QUFQZVVtcDR1Szc?oc=5",
-      "pub_date": 1792584000.0,
-      "article_url": "https://www.businessinsider.com/azoma-raises-millions-optimize-brands-ai-shopping-agents-2026-10",
-      "image": "https://i.insider.com/6ad60b86adb77227909a6e4b?width=1200&format=jpeg",
-      "description": "Azoma, whose customers include Mars and Unilever, helps brands get their products in front of AI shopping agents."
-    },
-    {
-      "headline": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+      "headline": "China\u2019s Free A.I. Models Are Thrown Into Uncertainty",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?oc=5",
-      "pub_date": 1792574687.0,
+      "pub_date": 1792593823.0,
       "article_url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "China slams US ban on DeepSeek AI over security concerns",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBITWEtWmtRWUt6SldYS08tMldaaGs2YlBaLTF0TkkwWWZHYzV1N2pvajZ0clRRTnp5U2YyMkV1NkFqaTg2Si13TDh0RDg2ckFqTzF0OVk2UXc0YmlYeEdrV3B4MWtRVVRmcjhQbVhpUnFlSFljSFRj?oc=5",
-      "pub_date": 1792526328.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-deepseek-security-10-20-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/3214274683dcbacddfc481e2c5f6701e.jpg",
-      "description": "The U.S. banned DeepSeek AI from federal civilian agencies over national security risks and concerns over sensitive American data, prompting China to push back."
+      "headline": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjk3SHoyMzdDU2s0aXdtM015b1VRNmllTnpyVDhBRmNjVGM1ejBlb01rRGw4ckhvbzRiWlVvQ1Q3UzlnNlVtWG93dWJiYkszN3ItWUY1bk5GUVRsbE1vd25PZ3lXeUk4dGd6VGE4aG10RUhEMGkwbm9Nbl84RGJUT21za1I1eGc2ZHFCMDliVVZNbE9ZbnhjRjlhUUR4OXNy0gGmAUFVX3lxTE9BTU5kVnR2TXFsZlZFYVl6a2V5SUZLVUtYYVFmS0cxQkl5LTZvdWwtNVdZajJZYVZPdnlnS0RyeVdPa0RVZ2xJSUNDZzZrN0FXTVM0aGpPM3ZESC1vR0RiZmd1YVAzSHp2VVh4b0dsdjRZUVJKV1lIeEZfaDRrZS0xYll4ei1lRFFZVDdWbGJMcnZWdGVGMER0OW1KcFdZQWdKVFlNbFE?oc=5",
+      "pub_date": 1792602585.0,
+      "article_url": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108352377-1787255692424-gettyimages-2291324880-2k2a0615_tgvb8xpn.jpeg?v=1787255898&w=1920&h=1080",
+      "description": "The growing AI trade is infiltrating traditionally safe sectors like utilities, making hedging more difficult."
     },
     {
-      "headline": "Five things to know about Chinese AI startup DeepSeek",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU5JVjJFTlhIVDA3UEpUeFBVRU93SUZGbFpNT29LZHd2ZmlCRmQ0RndrNEl0MHRJNVczcWZ2NFZ0dENPd3lldGl3WllYRmh5VTZWNDJoSDQtSG5PQTVISkQzVEpPUkFvMjVYYWV3cFg1OXBXNG56TGZqLVpJZ01rNWpCSXJKck5z?oc=5",
-      "pub_date": 1792583416.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/five-things-know-chinese-ai-115016891.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a8a8246a49e2b50da58c294f54bf522f311fbfab1ca3fed8312f7eaa42e07c52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3677f72cf0260dd4969153683e9c09fa.jpg",
-      "description": "The United States Department of Homeland Security ordered government agencies on Monday to stop using artificial intelligence tools from DeepSeek, citing concerns over data being transferred to China...."
+      "headline": "Google Gemini AI integration in vehicles",
+      "source": "WRAL",
+      "source_url": "https://www.wral.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalctWGlXWmhpUDh1SjhoWjA5MzFmZ3RiMDhUOU44bHhFWjZIeUNfdVVDMUlQdklISHE3LUxwcDBvU3BpTDRCQzhWTnpldE1mYnBpUTQ3Wk5UX0pEOGlVbUIwQzZuSkxlTWduN0tndVpHRHZEQWhmR09MRlpoUTRPMmJNQ2wtZ1ZJ?oc=5",
+      "pub_date": 1792603083.0,
+      "article_url": "https://www.wral.com/video/google-gemini-ai-integration-in-vehicles-october-2026/",
+      "image": "https://assets.wral.com/c40195ee-b79d-5773-a786-f2751c968fee",
+      "description": "Google announces Gemini AI integration in vehicles"
+    },
+    {
+      "headline": "AI Research Startup Flapping Airplanes Valued at $6 Billion in Round",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWlMcFlyb091cURKSTdxWlZobXVRVVlpSlhQbFUxejRzYmQyVk9FX1ZGT2FlYU5GN2xGc2M3dVFnN292YkNRX3IzbERKUl9BYWlDVGMtU29RcmZ5UHZwRjROUWJneHpzajVHQTNYazhrYlM1SDZMZU1kRzRldTA3TVBNa05DbFJsYldTOVo0R0hOdFdwbmhXYWQ2dFQyWVlXd3RubmlDR0U0ZkZSczdmOVhUNU9DeTJVMUE?oc=5",
+      "pub_date": 1792602001.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5",
+      "pub_date": 1792582201.0,
+      "article_url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108441791-1792586576774-gettyimages-2300714257-GERMANY_NVIDIA.jpeg?v=1792586602&w=1920&h=1080",
+      "description": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days."
+    },
+    {
+      "headline": "Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGZiNW1ZS2NSU2tlWUI3dWVIa3BGa29BemtncHFaY2lCUWpxbW51Y1RsMEItelRSNEJMdS1tLTM1dy1GTmt4a0xva3pvRnJLSUs3alU4Zl9iZzg1ZDVJOGtqblh1dHZWYjhaN3pZbXJlYkNJWXpMTmNRWEpUeDl5bng5SXNNNUMzcHI3Z2YyRGRWM3RPOFVUSy02RTBBaWg5ZUdJOGRjellvZ3Y3SmI5cHNFOXpjZXFVWng4V3pFUVdxWnpZcVhWMWF3UFpwRTVIVzFMRWFJUjR5aVo2SEdWMVZWOUlubkhxeUpFVUQ2aFJvQjhxcEx3?oc=5",
+      "pub_date": 1792582200.0,
+      "article_url": "https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9420552ae8174ef7903ab6f65829c3eadce2ce09b4fe86e722782a3b25004144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-10-21-at-72629-am_5091.png",
+      "description": "Nvidia debuted its DSX POD at GTC Berlin on Wednesday."
+    },
+    {
+      "headline": "European Ecosystem Builds World\u2019s Most Efficient AI Factories With NVIDIA DSX",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFBzY1F0X0hCRFJNSmRXZVlIZ09vNWN5b2txUW5KbHJwSzRqM05UZ0NBSE9GeXU1VlRvSWNCQzlGaU5FZGFvczR2THVDTWEyYVFLVjQ5YkVaVzhpSWdfb1MzM3RybVRVNklobHVadE4zcksyR2tJUDNNMHFVdmpWaUNxRXZkbVlwMGxFa0ZvcmI0Rzh6TnQ4VnJUQkJod256UGZDaXFhTFVKNTFyZXljeQ?oc=5",
+      "pub_date": 1792575831.0,
+      "article_url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
+      "image": "https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_95909e16-23fd-4d0e-acd4-72aec3f13fde-prv.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde",
+      "description": "News Summary: NVIDIA DSX reference designs use closed-loop liquid cooling and dry coolers to enable near-zero facility cooling water consumption, with potential savings of 54 million liters a..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T12:11:48.436025+00:00"
+  "fetched_at": "2026-10-21T17:32:43.380836+00:00"
 }
