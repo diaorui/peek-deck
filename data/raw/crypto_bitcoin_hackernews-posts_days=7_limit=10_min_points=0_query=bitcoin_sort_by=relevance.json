@@ -9,8 +9,8 @@
       "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html",
       "hn_url": "https://news.ycombinator.com/item?id=50177770",
       "author": "cybermango",
-      "points": 4,
-      "num_comments": 0,
+      "points": 6,
+      "num_comments": 2,
       "created_at": "2026-10-21T08:48:21Z",
       "object_id": "50177770",
       "image": "https://s.yimg.com/lo/mysterio/api/83d6e0eb4b2f822cc9957d08b312c78d1abf2537301d6d6f39951c60b0b9cfa8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fded8e2cb76ab5f7257cd7f358a1ad147.jpg",
@@ -47,6 +47,20 @@
       "site_name": "bbc.com"
     },
     {
+      "title": "Cost-Bounded Bitcoin Transaction Filtering Language",
+      "url": "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
+      "hn_url": "https://news.ycombinator.com/item?id=50183504",
+      "author": "epochbtc",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-21T16:20:21Z",
+      "object_id": "50183504",
+      "image": "https://delvingbitcoin.org/uploads/default/optimized/2X/d/d7b00ce8ea71abd2430c0c7ebef164165a514e17_2_1024x512.png",
+      "description": "I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...",
+      "favicon": "https://delvingbitcoin.org/uploads/default/optimized/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc_2_180x180.svg",
+      "site_name": "Delving Bitcoin"
+    },
+    {
       "title": "Bitcoin Pizza Day: The $700M Pizza Story That Changed Crypto History",
       "url": "https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas",
       "hn_url": "https://news.ycombinator.com/item?id=50144299",
@@ -79,7 +93,7 @@
       "url": "https://news.ycombinator.com/item?id=50153608",
       "hn_url": "https://news.ycombinator.com/item?id=50153608",
       "author": "yosito",
-      "points": 6,
+      "points": 7,
       "num_comments": 1,
       "created_at": "2026-10-19T15:25:47Z",
       "object_id": "50153608",
@@ -103,7 +117,7 @@
       "site_name": "kitchin.org"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-10-21T12:11:14.095237+00:00"
+  "fetched_at": "2026-10-21T17:32:11.386501+00:00"
 }
