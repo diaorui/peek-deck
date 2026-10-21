@@ -15,16 +15,6 @@
       "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
     },
     {
-      "headline": "US Army competition explores military uses for humanoid robots",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
-      "pub_date": 1792425600.0,
-      "article_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
-      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/XQ6LFK35VRHNHOJEGOR4W7VSQM.JPG?width=1200&auth=59a583cbacd5805ea1fafa721bac4cbb94b3ed6b05e9e8eadcb0cdfa282c8e8c",
-      "description": "They're still a long way off from mass-producing Terminators."
-    },
-    {
       "headline": "The Robot I Didn\u2019t Expect to Build",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -35,14 +25,24 @@
       "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
     },
     {
-      "headline": "Robot Wars \u2013 How China Has the Robotics Industry in Its Grip",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0w4VWsxMXJ1SDl3VVNmemxqeDVHOE5XQlZWTUN0aWp2eDh0Q09iakdseGw4bUtWX0VteHRLRWRGbGdaeTMtYjhPTk0tLUN1ckgwQjJPMzV5X3BZYWxRLU85X1E0OW4yLUZERkhKai15a2NlUEhjUzlkcGdDTlJrVXdpT1I2UnRoUzRQc1d4QS1rQjNTMDhLQTFBdFRPYUk?oc=5",
-      "pub_date": 1792456860.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/robot-wars-china-robotics-industry-004100697.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1934199eac8e713edd242ea4655c18e8296a10f37b9e6f4741a495f597a36c12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F51b310cf86eadb5c61ac011b1791921a.jpg",
-      "description": "Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of."
+      "headline": "Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUQtT2JueUZwR2FJcE5OQ3JLODkyTDh3emVNaXRvcmtLT1lNTDFCbHBWV3l0UGVmUXFnc28zWnhRaVFFTWw1a0hnLXhlYm8tUHBVbnNKQTlGOGxmU2dWanV6Sm5aLUNzeXBmUW5OczZLc3BOU2xJOGpqNnVhdUhHZUtYc3VuV0dpaFFIM1YteXVtR2RLWFFERXUyRUM4OWtRQXdvb1dQNW51MVdZQ0c0RUNfaENTQ0hzaXpCNWQtYVZxNzFlQWdoZU1Hc3AwZExTclE?oc=5",
+      "pub_date": 1792582742.0,
+      "article_url": "https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
+      "pub_date": 1792578539.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+      "image": "https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8",
+      "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
     },
     {
       "headline": "Secret trigger words could make AI-powered robots dangerous\u2014and these researchers developed a defense",
@@ -85,26 +85,26 @@
       "description": null
     },
     {
-      "headline": "Daimon Robotics building the infrastructure layer for tactile intelligence",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVFJYnBJUjczWWJnMTlDbmQ5a0tqUGI4c3BKdkcwN0kxLTZXcVk4U2phQjItN3FSMlRRVC1TLWhFdWZiVF9lRWJUUzg4dUZRWmduamJ5czhFWjlIeWltZjJzSkVBVTRaWFROeWlyVE5hbDJtbmMtTWI4TExSRjlFMl9FbWNrcjVyZkpTdVpPbzdtbEFEV2dvVlBoYlpaaXN6QW13RUozcEkwQQ?oc=5",
-      "pub_date": 1792430864.0,
-      "article_url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/daimon-robotics-2.png",
-      "description": "Daimon Robotics is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform more reliably."
+      "headline": "Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFlNanNfdXJtUmZzRnp5ZlBqWkg5MjlTT2pmaW04SE9Uem1OVWtSNzEzdmhYNVByWUtZRFFCSGRmYnItWjJOZzNnUWdiSUpRNDctTTJlRHdFWjNYSUUwWWQxQWNzaG5KcjNsQWpyOU52WlpWUUlaV2l0Q1RRS1JmQnJNLTBuTHFDM3B1U1hpalRwaW1DSHpnUXFHQVJLQQ?oc=5",
+      "pub_date": 1792573200.0,
+      "article_url": "https://www.businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10",
+      "image": "https://i.insider.com/6ad7d6e4adb77227909a779c?width=1200&format=jpeg",
+      "description": "Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly."
     },
     {
-      "headline": "Elbit expands into underwater autonomy with acquisition of Canadian robotics company",
-      "source": "CTech",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjcnhySDJMU1BlM1JaazVLY192anVZRmVyWDVtdHpaV29XcU1VbkxTakl0QU02Q2VDX2hkYnpYYVJZMkNtQy14TU5QbDVDYmRCS1NZbmh6RXpRdjVXUUR1d0lSdV9SY01H?oc=5",
-      "pub_date": 1792489440.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/bkxxdnn2fe",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/20/B1JZPnN3zx/B1JZPnN3zx_0_224_1600_901_0_large.jpg",
-      "description": "The Israeli defense group has acquired International Submarine Engineering, a developer of autonomous underwater vehicles with more than 50 years of experience. The deal adds technology for surveillance, mine clearance and anti-submarine operations, although its financial terms were not disclosed."
+      "headline": "Investing in Eka Robotics",
+      "source": "Andreessen Horowitz",
+      "source_url": "https://a16z.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZTnhBZ3dIdWZZWUdPU1hUVFVURlExeTNEM05kWlU4MVpZdmxNeXBEX2Z0SUk1OGxJdnE4VEJIeGNVOEVLd09FamR6UWF0d0h1NjM2N3dodVVzV3hBbEY2azZOTUxUcm8?oc=5",
+      "pub_date": 1792510352.0,
+      "article_url": "https://a16z.com/announcement/investing-in-eka-robotics/",
+      "image": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/image-117-1.png",
+      "description": "a16z leads Eka Robotics\u2019 Series A"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T06:21:27.959380+00:00"
+  "fetched_at": "2026-10-21T12:11:40.035527+00:00"
 }

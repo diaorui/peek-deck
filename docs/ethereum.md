@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-21T06:21:33.764135+00:00'
+updated: '2026-10-21T12:11:50.180051+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 21, 2026 at 06:21 UTC  
+**Last Updated:** October 21, 2026 at 12:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** -0.2%  
-**30d:** -11.4%  
-**90d:** +31.0%  
-**1y:** -35.9%  
+**24h:** +2.4%  
+**7d:** +1.1%  
+**30d:** -10.3%  
+**90d:** +32.7%  
+**1y:** -35.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.60B
+**Market Cap:** $301.36B
 Rank #2
 
-**Circulating Supply:** 122,154,253 ETH
+**Circulating Supply:** 122,149,510 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.7%
+-50.1%
 
 **All-Time Low:** $0.43
-+562546.2%
++569685.1%
 
 ---
 
@@ -152,7 +152,7 @@ ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster
 
 **[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 1d ago
 
 The token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base and Ethereum.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -204,27 +204,27 @@ unchainedcrypto.com • 1d ago
 
 ---
 
-**[Ethereum, Solana, HYPE Growth Isn’t Lifting Staking Yields: Bitwise](https://www.tradingview.com/news/benzinga:81d0b3f35094b:0-ethereum-solana-hype-growth-isn-t-lifting-staking-yields-bitwise/)**
+**[Bitcoin and ethereum prices today, Wednesday, October 21, 2026: Crypto to outperform stocks and gold?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html)**
 
-Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD both hit record staking levels in the third quarter, yet Bitwise’s latest quarterly staking report details that yields on both networks fell.Why More Staked Capital Is Producing Smaller ReturnsBitwise wrote in its Q3 2026 staking report that Ethereum…
+Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened at $2,446.67, up 1.7% from Tuesday's opening price. The price of ethereum moved up this morning to $2,459.92 as of 7:21 a.m. ET.
 
-TradingView • 11h ago
-
----
-
-**[Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash](https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash)**
-
-The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours.
-
-Decrypt • 9h ago
+Yahoo Finance • 34m ago
 
 ---
 
-**[Current price of Ethereum for October 20, 2026](https://fortune.com/article/price-of-ethereum-10-20-2026/)**
+**[Current price of Ethereum for October 21, 2026](https://fortune.com/article/price-of-ethereum-10-21-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 11m ago
+
+---
+
+**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://www.fool.com/investing/2026/10/21/bitmines-tom-lee-warns-of-a-potential-sell-off-in/)**
+
+A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
+
+The Motley Fool • 1m ago
 
 ---
 
@@ -238,7 +238,7 @@ Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally o
 
 📺 Yahoo Finance
 
-👁️ 32K • 👍 582 • 💬 61 • ⏱️ 14:51 • 1d ago
+👁️ 35K • 👍 594 • 💬 61 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altc
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 2K • 💬 204 • ⏱️ 9:32 • 1d ago
+👁️ 74K • 👍 2K • 💬 205 • ⏱️ 9:32 • 1d ago
 
 ---
 
@@ -258,7 +258,17 @@ Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPM
 
 📺 Thinking Crypto
 
-👁️ 22K • 👍 739 • 💬 124 • ⏱️ 19:54 • 1d ago
+👁️ 23K • 👍 746 • 💬 124 • ⏱️ 19:54 • 1d ago
+
+---
+
+**[Good ETHEREUM News- Plus: Does France Have Enough Socialism?](https://www.youtube.com/watch?v=yq4fTair7U4)**
+
+THE CRYPTO BULL RUN IS STARTING. Most people won't be ready to build wealth from it. You can be. Get the research and ...
+
+📺 Future Forecasting Group
+
+👁️ 5K • 👍 257 • 💬 41 • ⏱️ 4:34 • 12h ago
 
 ---
 
@@ -268,7 +278,17 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 23K • 👍 515 • 💬 35 • ⏱️ 2:31 • 1d ago
+👁️ 23K • 👍 528 • 💬 35 • ⏱️ 2:31 • 1d ago
+
+---
+
+**[Wall Street Is About To Pour Into Ethereum [Here’s Why]](https://www.youtube.com/watch?v=aqEG75MAqO4)**
+
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Vivek Raman, ...
+
+📺 Lark Davis
+
+👁️ 28K • 👍 497 • 💬 58 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -278,7 +298,7 @@ Crypto holders really need to hear this.. Unlock $500 Deposit Bonus (Weex): http
 
 📺 Altcoin Daily
 
-👁️ 99K • 👍 3K • 💬 121 • ⏱️ 10:55 • 2d ago
+👁️ 100K • 👍 3K • 💬 121 • ⏱️ 10:55 • 2d ago
 
 ---
 
@@ -292,43 +312,23 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 ---
 
-**[OFFICIAL: JPMorgan Confirms Bitcoin to $214,000 per coin as &#39;base case&#39;](https://www.youtube.com/watch?v=SQ8Hu-ByVh0)**
+**[🔴 LIVE Crypto and Stock Analysis | BTC, ETH, &amp; Altcoins](https://www.youtube.com/watch?v=nCnCHURDoW8)**
 
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum and altcoins using market structure, ...
 
-📺 Altcoin Daily
+📺 Chart Champions
 
-👁️ 21K • 👍 1K • 💬 52 • ⏱️ 8:43 • 5h ago
-
----
-
-**[JPMorgan Brings JPM Coin to Ethereum](https://www.youtube.com/watch?v=ELRIyppedMc)**
-
-JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and ...
-
-📺 CoinDesk
-
-👁️ 838 • 👍 24 • 💬 1 • ⏱️ 1:51 • 1d ago
+👁️ 1K • 👍 100 • 3h ago
 
 ---
 
-**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
+**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
 
-Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
+BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
 
-📺 CoinDesk
+📺 Elijah Cheng
 
-👁️ 61K • 👍 519 • 💬 66 • ⏱️ 10:26 • 1d ago
-
----
-
-**[&quot;Black Monday&quot; Fail, BTC charts, Ethereum problem, &amp; Elon Giving Away SpaceX](https://www.youtube.com/watch?v=a2dJAhL0c24)**
-
-Bitcoin Charts, SOL, Ethena, Ethereum, Spacex, AMD and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 20K • 👍 482 • 💬 25 • ⏱️ 1:03:23 • 1d ago
+👁️ 8K • 👍 101 • 💬 38 • ⏱️ 24:29 • 1d ago
 
 ---
 

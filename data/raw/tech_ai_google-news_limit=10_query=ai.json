@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Ken Griffin Says AI \u2018Almost Certainly\u2019 in a Bubble Right Now",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGY2WVpwdzdubFFLSDJGWDBIQzdQUTdTeXoyVXMzVmJkSktBVG9hXzVHVWxfUC1GLVdDalp4X3VfNjFzM3ctWUtXYTYycFEyZkdJSHVMTGcwa2lxamJKS2Yzcy01dkNuQzNIUWlCbk1yNlRUX2p3ZFZabW92SWxLYURaamFpbnRPazZnS1BNZEVjS3djSXpaSVk1dmRSV2M3cFZiMUhfWVlWLWJHdGc?oc=5",
-      "pub_date": 1792533132.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "What if an AI bubble bursts \u2014 and that accelerates AI job losses? : Planet Money",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNV83ZEgxNGdIM2NPNThUU0wxbml0MUE1RFNjZ0hkczFwSEJsOFh0SXhsajlfWTlaUUZhX1NnQU84aTdjQlU3elFPcGFSeGM3TlBtb25tWGlJMFhwR3dOb3ZiTmhQNUZ4b0xGcmtvUFBoOGFsNk42YnRWX0ZSaVFFeEVXbEFySE1MTkI4WWdFd0RBbm0tUjhpeGc1ZHpGcTZWRW5vYVpfU0diR0hTRkRvQlFZMXpYSmNGOWhDS2VfVDdVNW1UVHc?oc=5",
-      "pub_date": 1792492200.0,
-      "article_url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6007x3379+0+90/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F73%2F30ccbe9b4d3c903bb381870a6cf5%2Fgettyimages-1466243146.jpg",
-      "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
-    },
-    {
-      "headline": "China's Moonshot AI to operate in Singapore, jobs post shows",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3B2dkFPM1RmNVM3TFcwZ3M3Y0pvMnZPY2RtMFQxQWFJVTlKcDYwdWtpM3hQa1pBdzhZdlplYTJ6V2xYd0JwWWpUMGFHUktjS1BrSnEzVEFNQlJrZENXZXBKV09BY182Uk5Cb052NUQycDlORnJ4LW05ODVBQTZOaWItREVFMmF1T2FaejNyanA?oc=5",
-      "pub_date": 1792559700.0,
-      "article_url": "https://www.yahoo.com/news/articles/chinas-moonshot-ai-operate-singapore-051549102.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/41e6326249fa7265b75a58976c814eab19ad60fd93b81dee664977fbed170ccf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9a86fd18d46e2910db067e5d56b1916a.jpg",
-      "description": "SINGAPORE, Oct 21 (Reuters) - Chinese AI startup Moonshot is expanding into Singapore, with a new sales role listed on the company's LinkedIn page this week."
-    },
-    {
-      "headline": "Small caps: not a great AI hedge",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGhzUzA0M3BERWE4S2VBbDhXbXRnUWlBOERHUXUtYVBZWFZmRlBfV2RUY1VCT0JhZ3FRSVdVT2VkWVptWjhxSlF2dnNSRFdURGUzaTRwdEZlMGpxVk94dHl0WUdMRl9NVE1GVTk5Sko5SjRKUm53VjJHYmVySVBzSzJqYWs?oc=5",
-      "pub_date": 1792560602.0,
-      "article_url": "https://www.ft.com/content/b7e5fa98-0cb5-4eba-b921-26e3a9393199?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nscale boss seeks to reassure staff amid AI market jitters",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZTZSYVdLM0hvNDJDS183X3MyWHdDZUljdzBLZkowMlBqT0ZZSC1EeWxWbzE3Q2JrTGZrQi1KZWZBSjZZT1RUVzBtc0praGhOSVNPRWh6Rkt2UXZDR0JrY3JNRkJ0VFRacVZsU3VoZWM?oc=5",
-      "pub_date": 1792562133.0,
-      "article_url": "https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SpaceX Swings to a Profit, as A.I. Business Grows",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0d1bHRTNzNlX2RsWHg4dmdkQzBaNmFUaGtTUExMa19od3FMTTA4MzBBUXBKakU5VW9jT1U4OHk0dHlzTVNTWTJGWU03SndzVHhqbzFSdzlHOTBpcUtjZmxJUklFLVQ4d3JmUHlMU04yWFBvOHRJSXdITEJLNXB0UXRR?oc=5",
-      "pub_date": 1792528353.0,
-      "article_url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SpaceX revenue soars 161% as AI business grows - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUW42cVZpUURGandxQ3ZwZkRJZFBwWS13OUM3UHVRR0ozNU1QVVRfNVdSam01QS05V2NqbjIxZXU5em9GeW9Tdi1pVHNjMnBMNl93RkM4NHduRURENm5EbDhaa25UVzNCakxpbGhKdkdGb1lEVl9wbVo2WFl1ODM5dG9GUjRnQUJ2YUczLUxXaGpyY0Zm0gGaAUFVX3lxTFBYc0ZDUEx2ZzdrdFVROFRLTE9IODZNZmhibGhqX19nMHdyM2k4QURCXzFIR3k0QmVWYjRwN2lSUmRUY1lnSDI4VGd1NnpESUhaeGcxSkVCVnphSERuOEdYUmw0emlOMmI3TXhQOG1kVFI0QjBwMDJYczUtMmZ3dUR5WW5oM0V5TTBObjRiRWt1OHdtcEtfdy1EZGc?oc=5",
-      "pub_date": 1792532683.0,
-      "article_url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
-      "image": "https://i.abcnewsfe.com/a/ef18058d-5373-43e4-9275-02d917ff3c92/spacex-gty-jef-261020_1792509002319_hpMain_16x9.jpg?w=1600",
-      "description": "Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday."
-    },
-    {
-      "headline": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+      "headline": "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one lied about it",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVllYUJGN3ZlUlBmalFoOHpVTG9UVV9Eb1owUlBzWGRQeDlHeWU5UlRKT2FTS0FaQ3l5eW0zTV9pa3gwOFlyM3JGZHBoakNVb0RMNVhEelBWRkJSNWVWRjNvMlYwalRLUEQ2Sml0dXRZTU5wZGN2V0Q1ckZBNmNlYnluTnU2eG1BMWfSAY8BQVVfeXFMTVBhQUVkdTRhMnlwSmlpS2VrV09rUFA0c3lSZkI2Vmg5SFRGam5UVVpNcFRwMnNlUmJaVlJqVXZ5cHZkLTFtcTlsOFp2RDZkY294QXdmR2VndnJtZ29tdS03WW5aWXgxU21MVUV6VnFfelpvOFByMUdTRTVaamtoZHdOZ3JtZm5oMEFvQkZoN00?oc=5",
-      "pub_date": 1792543320.0,
-      "article_url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321429-1781294762866-SpaceXs_IPO_Raises_75_Billion_In_Biggest_Debut_Of_-2280589225-Getty.jpg?v=1781294803&w=1920&h=1080",
-      "description": "SpaceX shares jumped after the company beat on revenue and issued uplifting guidance."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82c0lqMFI4dFFfLWhRZ0VZbW9LeFpaVDVTM3kwR3BzWFlST3o4ZXFqcVJVVF9BT2JRM0dFcFN0YWNCcUJjOUVkUUFDZVFidUwyTFM0cHBPVHAtRXk3a2hCYVU4VFJqeDhBckpWNVJ1RjFlVEs5R1pHNXRhMNIBgAFBVV95cUxQbEVjZjZVOEZHSm1UelVuSmxTYnRPTDE3NFB2ZHJFTjBrUnBtejdCWTRVb0JWcXVmNW90R2R1RTBsZWx3Qkw3NXhwU3EzUHhQQ0hDbFg0emFvUkhTNlV0dWJCZm5FMzJQdHpzNTJrSm9ZenhtY1VUTng4UFVPOXp6SQ?oc=5",
+      "pub_date": 1792566228.0,
+      "article_url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369621-17907030462026-09-29t172505z_2131096092_rc25tnaf2wqy_rtrmadp_0_ai-openai.jpeg?v=1790703065&w=1920&h=1080",
+      "description": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models."
     },
     {
-      "headline": "Opinion | Mamdani\u2019s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3ZNSTZoclIzZjRBTTFrUUZ4bnBzX3Bhdk1jTmlGSkxVWW54emxjYW1VWlBCZXZXOGVOb2xCTE5kaEVYTF92Tk9vTW5ybGtoNHF2b0E2NWlFNHdEbGtJUkZTRTZRcUo5eTRZOXJnSlgwSk1ZbFV6Y1h0R3loeTNMRUpWNkpfY3BOVHRpdk15NHhTM0lj?oc=5",
-      "pub_date": 1792486899.0,
-      "article_url": "https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html",
+      "headline": "OpenAI says its AI agents weakened internal monitoring system",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
+      "pub_date": 1792550220.0,
+      "article_url": "https://www.reuters.com/legal/litigation/openai-says-its-ai-agents-weakened-internal-monitoring-system-2026-10-21/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs",
+      "headline": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5",
+      "pub_date": 1792582200.0,
+      "article_url": "https://finance.yahoo.com/technology/article/nvidia-debuts-platform-for-keeping-ai-agents-from-going-rogue-and-humanoid-robot-design-at-gtc-berlin-113000342.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ba4c2e832602e2953a6de8320637586a708c96021815289ce08ddcd3d8816554/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjensen-wide_4944.png",
+      "description": "Nvidia debuted new AI security and robotics features at GTC Berlin."
+    },
+    {
+      "headline": "Why AI\u2019s Deepest Mind Believes the World Is About to Change Radically",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTlFXZm1uRTJYSXlPWi1OWmJCSkdBcmg2dkRDc2ZiNmNNaFQtYmg5WFBiWUFQRFVUTms0T3hweW9ycWZ1SlljdlNFUTZuOGliSUpVNkpybnJaQ0p2bzBYWmgydU9MVVBQQlJKMGFRdEpCaWM?oc=5",
-      "pub_date": 1792524600.0,
-      "article_url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
+      "pub_date": 1792575000.0,
+      "article_url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "OpenAI brings its frontier models to rival Google Cloud",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fRGVTajlqaGI0cGJ0aXFYYXZHQmxmb01MLW50TW5mV3drRVFTZXIyRkxSZDV6b0p6Z1dsNnFXN29FZHYtUjJkam1saGdERkF6SXgyWVZ5dVlmbXRRbjhwc2NnVGlQTVlLVm9JVTMtOA?oc=5",
+      "pub_date": 1792584139.0,
+      "article_url": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Godbots, Gurus, And Guides Are Becoming More Popular, But Would You Trust A Machine With Your Spiritual Journey?",
+      "source": "IFLScience",
+      "source_url": "https://www.iflscience.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXFlY2VvYl80ZjR5NUh2RjhXdTM0NUUxU1lUWjdwNmV3c0gyZEdWUVJZbHVRUWw2V2NKREtGTlBaWjFBVE5UZENBN1ZpVVNjMVltXzBKUkJTY2lmTVFoOTI4UzRXbG1FRy1majBxTTM0X0ZPZEp5cnpTLXZFdlY0SnAtU2pSWGRnQWxPdnFIN1JiS1VySndWSDExSDhUdFpWaWIydllSZnFLdDl5aUpQdFdpQno3anNjMmVqOEFidjFsREtNalp0QmFPMVVxa3RaSENWMWRDUEw1OHF3?oc=5",
+      "pub_date": 1792583970.0,
+      "article_url": "https://www.iflscience.com/ai-godbots-gurus-and-guides-are-becoming-more-popular-but-would-you-trust-a-machine-with-your-spiritual-journey-84984",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzBsTXktaVgtWEdzbmp5Z0RzdzktYWlVR2lNTlRCWGdYaWZ4WTE5eHRhR0VvMUtmdGlhVkMtMXFnQXNobkdCUzdEdVQwVlZzY1oyREkySjlvQU1JY0hWSUZPRzRDaWJVaVp3VXl1S1RuOV8xM1NGemNUSGVGWkhLMWx3LWlfYi16T1BjWTJyclA5QUFQZVVtcDR1Szc?oc=5",
+      "pub_date": 1792584000.0,
+      "article_url": "https://www.businessinsider.com/azoma-raises-millions-optimize-brands-ai-shopping-agents-2026-10",
+      "image": "https://i.insider.com/6ad60b86adb77227909a6e4b?width=1200&format=jpeg",
+      "description": "Azoma, whose customers include Mars and Unilever, helps brands get their products in front of AI shopping agents."
+    },
+    {
+      "headline": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?oc=5",
+      "pub_date": 1792574687.0,
+      "article_url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China slams US ban on DeepSeek AI over security concerns",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBITWEtWmtRWUt6SldYS08tMldaaGs2YlBaLTF0TkkwWWZHYzV1N2pvajZ0clRRTnp5U2YyMkV1NkFqaTg2Si13TDh0RDg2ckFqTzF0OVk2UXc0YmlYeEdrV3B4MWtRVVRmcjhQbVhpUnFlSFljSFRj?oc=5",
+      "pub_date": 1792526328.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-deepseek-security-10-20-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/3214274683dcbacddfc481e2c5f6701e.jpg",
+      "description": "The U.S. banned DeepSeek AI from federal civilian agencies over national security risks and concerns over sensitive American data, prompting China to push back."
+    },
+    {
+      "headline": "Five things to know about Chinese AI startup DeepSeek",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU5JVjJFTlhIVDA3UEpUeFBVRU93SUZGbFpNT29LZHd2ZmlCRmQ0RndrNEl0MHRJNVczcWZ2NFZ0dENPd3lldGl3WllYRmh5VTZWNDJoSDQtSG5PQTVISkQzVEpPUkFvMjVYYWV3cFg1OXBXNG56TGZqLVpJZ01rNWpCSXJKck5z?oc=5",
+      "pub_date": 1792583416.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/five-things-know-chinese-ai-115016891.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a8a8246a49e2b50da58c294f54bf522f311fbfab1ca3fed8312f7eaa42e07c52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3677f72cf0260dd4969153683e9c09fa.jpg",
+      "description": "The United States Department of Homeland Security ordered government agencies on Monday to stop using artificial intelligence tools from DeepSeek, citing concerns over data being transferred to China...."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T06:21:32.533927+00:00"
+  "fetched_at": "2026-10-21T12:11:48.436025+00:00"
 }
