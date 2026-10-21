@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-20T22:58:06.254052+00:00'
+updated: '2026-10-21T01:25:44.343495+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 20, 2026 at 22:58 UTC  
+**Last Updated:** October 21, 2026 at 01:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,15 +120,23 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
 
-TechCrunch • 9h ago
+TechCrunch • 12h ago
 
 ---
 
-**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+**[Robot Wars How China Has the Robotics Industry in Its Grip](https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html)**
 
-Agility Robotics’ first practical robotic worker is nothing like I dreamed
+Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
 
-IEEE Spectrum • 1d ago
+Crude Oil Prices Today | OilPrice.com • 1d ago
+
+---
+
+**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
+
+The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
+
+GeekWire • 23h ago
 
 ---
 
@@ -140,19 +148,19 @@ Defense News • 1d ago
 
 ---
 
+**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+
+Agility Robotics’ first practical robotic worker is nothing like I dreamed
+
+IEEE Spectrum • 1d ago
+
+---
+
 **[In a Second Robotics Contract, Nyobolt Will Power Agility’s Latest Humanoid](https://www.theinformation.com/newsletters/the-electric/second-robotics-contract-nyobolt-will-power-agilitys-latest-humanoid)**
 
 In the latest bullish sign for the previously troubled battery industry, Agility Robotics said it would power the latest version of its humanoid robot, Digit, with next-generation batteries manufactured by Nyobolt.
 
 The Information • 2d ago
-
----
-
-**[Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions](https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/)**
-
-The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally.
-
-GeekWire • 21h ago
 
 ---
 
@@ -172,23 +180,17 @@ Stock Titan • 6d ago
 
 ---
 
-**[Delivery Robots Are Watching You, According to Lawsuit](https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417)**
+**[Stanford researchers develop robots that could soon do all your housework](https://www.newsnationnow.com/business/tech/robotics-robots-housework-stanford-researchers/)**
 
-Gizmodo • 1h ago
-
----
-
-**[Aviation robotics startup with $1 billion valuation to open Seattle-area office](https://www.bizjournals.com/seattle/news/2026/10/20/reliable-robotics-office-series-d-robert-rose.html)**
-
-The Business Journals • 52m ago
+NewsNation • 7h ago
 
 ---
 
-**[SoftBank’s $18B bet on robot guards](https://www.therundown.ai/articles/softbank-18b-bet-on-robot-guards)**
+**[Elon Musk: Only Way to Solve U.S. Debt Is AI and Robots](https://www.chosun.com/english/industry-en/2026/10/18/NMUZPXHAGVHYDFG6GRKRPUE5LI/)**
 
-SoftBank wants robots to clock in — and is reportedly in early talks to buy Allied Universal, the biggest U.S. security firm, for up to $18B. Masayoshi Son…
+Elon Musk: Only Way to Solve U.S. Debt Is AI and Robots Musk regrets political role, stresses AI focus after failed government spending cuts
 
-The Rundown AI • 1d ago
+조선일보 • 2d ago
 
 ---
 
@@ -202,7 +204,7 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 37K • 👍 407 • 💬 52 • ⏱️ 8:52 • 4d ago
+👁️ 41K • 👍 463 • 💬 59 • ⏱️ 8:52 • 4d ago
 
 ---
 
@@ -212,7 +214,7 @@ Remove your personal information online with Delete Me using my link https://joi
 
 📺 The Tesla Space
 
-👁️ 92K • 👍 3K • 💬 153 • ⏱️ 13:59 • 6d ago
+👁️ 93K • 👍 3K • 💬 154 • ⏱️ 13:59 • 6d ago
 
 ---
 
@@ -222,7 +224,7 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 78K • 👍 704 • 💬 38 • ⏱️ 9:03 • 2d ago
+👁️ 80K • 👍 715 • 💬 40 • ⏱️ 9:03 • 2d ago
 
 ---
 
@@ -232,7 +234,7 @@ Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 📺 Jamel_AKA_Jamal
 
-👁️ 108K • 👍 3K • 💬 698 • ⏱️ 13:05 • 1d ago
+👁️ 109K • 👍 3K • 💬 704 • ⏱️ 13:05 • 2d ago
 
 ---
 
@@ -242,7 +244,7 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 149K • 👍 1K • 💬 423 • ⏱️ 4:07 • 3d ago
+👁️ 152K • 👍 1K • 💬 435 • ⏱️ 4:07 • 3d ago
 
 ---
 
@@ -252,7 +254,15 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 RuntimeBRT
 
-👁️ 145K • 👍 6K • 💬 186 • ⏱️ 2:55 • 1d ago
+👁️ 146K • 👍 6K • 💬 190 • ⏱️ 2:55 • 1d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 368K • 👍 12K • 💬 1K • ⏱️ 2:35 • 4d ago
 
 ---
 
@@ -262,15 +272,17 @@ Not your average fighting robots. From bizarre designs to completely unconventio
 
 📺 NHRL
 
-👁️ 130K • 👍 1K • 💬 86 • ⏱️ 12:13 • 5d ago
+👁️ 132K • 👍 1K • 💬 86 • ⏱️ 12:13 • 5d ago
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
 
-📺 Big Duke13
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
 
-👁️ 360K • 👍 12K • 💬 1K • ⏱️ 2:35 • 4d ago
+📺 MACHINEKIND
+
+👁️ 43K • 👍 597 • 💬 63 • ⏱️ 12:40 • 4d ago
 
 ---
 
@@ -280,15 +292,7 @@ Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursi
 
 📺 Tesla Insider News
 
-👁️ 324K • 👍 2K • 💬 498 • ⏱️ 21:44 • 4d ago
-
----
-
-**[I Built a Robot to Replace My Rabbit’s Best Friend #3DPrinting #Robotics #Engineering](https://www.youtube.com/watch?v=vIKYRi4GDXA)**
-
-📺 It's on my MIND
-
-👁️ 259K • 👍 9K • 💬 280 • ⏱️ 1:53 • 3d ago
+👁️ 326K • 👍 2K • 💬 503 • ⏱️ 21:44 • 5d ago
 
 ---
 

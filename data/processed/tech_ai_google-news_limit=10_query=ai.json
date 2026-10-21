@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "What if an AI bubble bursts \u2014 and that accelerates AI job losses? : Planet Money",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNV83ZEgxNGdIM2NPNThUU0wxbml0MUE1RFNjZ0hkczFwSEJsOFh0SXhsajlfWTlaUUZhX1NnQU84aTdjQlU3elFPcGFSeGM3TlBtb25tWGlJMFhwR3dOb3ZiTmhQNUZ4b0xGcmtvUFBoOGFsNk42YnRWX0ZSaVFFeEVXbEFySE1MTkI4WWdFd0RBbm0tUjhpeGc1ZHpGcTZWRW5vYVpfU0diR0hTRkRvQlFZMXpYSmNGOWhDS2VfVDdVNW1UVHc?oc=5",
-      "pub_date": 1792492200.0,
-      "article_url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6007x3379+0+90/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F73%2F30ccbe9b4d3c903bb381870a6cf5%2Fgettyimages-1466243146.jpg",
-      "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
-    },
-    {
       "headline": "Opinion | Mamdani\u2019s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,17 +15,77 @@
       "description": null
     },
     {
-      "headline": "A key internet security tool is getting buried in AI-generated bug reports",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY05fQUhENTZMVGpQYnJFTmtZenpod29pZWotbXp4bmVfNTc0RkttT29GR1NJMTk1Y3JLbmZudS1ZSWpzcDNwMGVBYVVId2c1T3hDajRMdXNDUVlJS3hZUGZBa3JtQjZoVHVPd0FUamFsbjRTaklWWkxZQXZyV2dGQ0ZXNA?oc=5",
-      "pub_date": 1792534096.0,
-      "article_url": "https://www.axios.com/2026/10/20/ai-bug-reports-overwhelm-openssl-maintainers",
+      "headline": "Yes, the Fed Can Kill the AI Boom",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG5tcWhGWmV0bXc2ak9ETmVQdC1QTmM3Mmx0SEt6TkhrN0w3WVY2TDZ4MzlOcnZFWDdkeDFyWmNCdUpIRERqUnFJWFptcFNLUTlkNFI5eHNhenA1SjZteHhodWNDLWZPMmt3TFBvZGxPbkhwQmRZYm5ma1pDMnB2aXlweHBSdw?oc=5",
+      "pub_date": 1792490280.0,
+      "article_url": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e",
       "image": null,
       "description": null
     },
     {
-      "headline": "Mom Calls Out School for Making an AI-Generated Photo of 6-Year-Old Daughter as an Adult (Exclusive)",
+      "headline": "When AI models refuse to fight hackers",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Y1lFN0Z5OWZIV2gwb0lHNzktQXhLX3o2VUlPNUxoT1dHVldtVDRsUm1JenhVMW9DVDhMOC1QbjNuN3N3dm1EeFo3aHB5UWdrcmhEZUFKNVo0UWxGc29iVzA2SW1NT0RqN2djWGlWVU5raWFITW11VS1EOA?oc=5",
+      "pub_date": 1792544598.0,
+      "article_url": "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFJGc1FVd25OZmcxblB2OXpjc1d2WWFLMmJyUXIzRU5HQnVLbHF5VnFhRXNUTFIzOXIwMjRJOXhhRkk5ZmJ3dGlvWnI0SkM1djQ3ZlpXalFNckdnM19DQ2VSeks1LUNBRVZ1SDRJZ1cxclFwRmdIVFpqUmprOUdFc05wSXc0dUFzWTRYRDZBeDRVRm9faTFfdmNRckM4UzZueWRNdEgtdW1vRThqRFdGSEZtX0FZQQ?oc=5",
+      "pub_date": 1792541520.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpOHVScndndXRPX2J5QjhlVHhFczZsV2UzQXU1a1VIVGhFNklNd1pXVklPZzBFX3RHckdmMVRUMnJzdXp1dy1VQk1LdkRlLUVSYlZlMWc0NUEzSWs5RThXZ3U0VUhXdElHTVlWZtIBckFVX3lxTFA0QkJwZUVCVWpfcjdSZ21UcW9WWFBtSkJtcTFTT3JVRExKYTgzdjJCamFaMUJlWFkzbXpfcnNlcHotZmhDSnZQRm9hYUt4VXMyOGtVa2E5REw5bXpwaHYzWGw5NnRUMnhFWEdLMTdRRkNBQQ?oc=5",
+      "pub_date": 1792544520.0,
+      "article_url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108329064-1782877791923-gettyimages-2271917626-SKOREA_IT_SHOW.jpeg?v=1782878119&w=1920&h=1080",
+      "description": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits."
+    },
+    {
+      "headline": "SpaceX Profit Beats Estimates on Big Jump in AI Business Revenue",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTRoWkktNzlubVJqOXNvUGtMNnJSeG1aN0tIVEdINy1zQmVxbzlOVnBRMk5ENzYwVkRfYTM5LXppa2Z4NmQtOWg1Ynl6dHFxZXBuelIxci1qYUNBQi1CU2Qta21kcG1KOVF0Q3FqYzFQeGZjd2VyTzJ4TDI1LXRsTERtcjduQjJyTHJQTUJtUW1HMC1WYnlUeGdvVjFPYWdlUHB5eGRWYnctcXFwZ1dFQnZEZ2FUUQ?oc=5",
+      "pub_date": 1792527630.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/spacex-profit-beats-estimates-on-big-jump-in-ai-business-revenue",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "SpaceX Swings to a Profit, as A.I. Business Grows",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0d1bHRTNzNlX2RsWHg4dmdkQzBaNmFUaGtTUExMa19od3FMTTA4MzBBUXBKakU5VW9jT1U4OHk0dHlzTVNTWTJGWU03SndzVHhqbzFSdzlHOTBpcUtjZmxJUklFLVQ4d3JmUHlMU04yWFBvOHRJSXdITEJLNXB0UXRR?oc=5",
+      "pub_date": 1792535858.0,
+      "article_url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "SpaceX shares rise as AI revenue rockets 830% and profit hits US$4.4 billion",
+      "source": "Proactive financial news",
+      "source_url": "https://www.proactiveinvestors.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaWhqczBfNVl6VmZmb0VIVGNZN182NTFQLTFfUmNmTnB2TThOdGQ0Qk1haENuSlZ4aEd2UWZhY0pWTnBnbGxTSkRubGltaGN6c2ZNS1VkMkVNX0lURjZkel8tbVNralQ2d3p6RTJ1OHpzNWtzWEUwQ0xDWUtpQmxJaXphTmlnSzhkU2xkS1pNRS1qMXJCYmNhVW1pM0duUTFWOWRfYlRxcVc5N0xhT1IxM3lUaTVpcGlDNXdfUk5UR3V2bXhJY2pjMFZmeVlkQ0c4a0o1Q21EUXRicmJXNWZF?oc=5",
+      "pub_date": 1792542352.0,
+      "article_url": "https://www.proactiveinvestors.com/companies/news/1100433/spacex-shares-rise-as-ai-revenue-rockets-830-and-profit-hits-us-4-4-billion-1100433.html",
+      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzEwXC9zaHV0dGVyc3RvY2stMTc0NzgyMzk3Ml82YWQ4MDYyZWJlMzgyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "description": "SpaceX Corp (NASDAQ:SPCX) shares rose almost 3% in after-hours trading after the Elon Musk-led company reported a sharp swing to profit, driven by an 830%..."
+    },
+    {
+      "headline": "Mom Calls Out School for Making an AI-Generated Photo of 6-Year-Old Daughter at Age 25 (Exclusive)",
       "source": "People.com",
       "source_url": "https://people.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFhiemp3UktWQ1B1Z3RPd1NpSGpDSWY5dW1qN0JvczZDY3FyMFNrV2lab2VPYzhXS1RxQVMzdHVzNVhDS3M4cGExa1lkUV9uUlhuZ0pMOE44Z0pUa04yczRsY29VRm0tRFpscTBpaFFmQXlHZ0ZpZ0NNRl9iY1kwYjhvSDNlSWJ6dTN1V01tX19RaHZCbU9vOHJQVjkzOXNwb1Q3bElpMllDTlhQTDF3?oc=5",
@@ -45,66 +95,16 @@
       "description": "Nikki Anderson was surprised when her 6-year-old daughter came home from school with an AI-generated photo of what she could look like at 25 years old. \u201c[6-year-olds] are already capable of imagining futures that adults couldn\u2019t possibly predict. Why are we outsourcing that?\u201d Anderson asks."
     },
     {
-      "headline": "Ken Griffin Says AI \u2018Almost Certainly\u2019 in a Bubble Right Now",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGY2WVpwdzdubFFLSDJGWDBIQzdQUTdTeXoyVXMzVmJkSktBVG9hXzVHVWxfUC1GLVdDalp4X3VfNjFzM3ctWUtXYTYycFEyZkdJSHVMTGcwa2lxamJKS2Yzcy01dkNuQzNIUWlCbk1yNlRUX2p3ZFZabW92SWxLYURaamFpbnRPazZnS1BNZEVjS3djSXpaSVk1dmRSV2M3cFZiMUhfWVlWLWJHdGc?oc=5",
-      "pub_date": 1792533132.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
-      "pub_date": 1792532363.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SpaceX Swings to a Profit, Even as A.I. Spending Soars",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0d1bHRTNzNlX2RsWHg4dmdkQzBaNmFUaGtTUExMa19od3FMTTA4MzBBUXBKakU5VW9jT1U4OHk0dHlzTVNTWTJGWU03SndzVHhqbzFSdzlHOTBpcUtjZmxJUklFLVQ4d3JmUHlMU04yWFBvOHRJSXdITEJLNXB0UXRR?oc=5",
-      "pub_date": 1792528352.0,
-      "article_url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SpaceX revenue soars 161% as AI business grows - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUW42cVZpUURGandxQ3ZwZkRJZFBwWS13OUM3UHVRR0ozNU1QVVRfNVdSam01QS05V2NqbjIxZXU5em9GeW9Tdi1pVHNjMnBMNl93RkM4NHduRURENm5EbDhaa25UVzNCakxpbGhKdkdGb1lEVl9wbVo2WFl1ODM5dG9GUjRnQUJ2YUczLUxXaGpyY0Zm0gGaAUFVX3lxTFBYc0ZDUEx2ZzdrdFVROFRLTE9IODZNZmhibGhqX19nMHdyM2k4QURCXzFIR3k0QmVWYjRwN2lSUmRUY1lnSDI4VGd1NnpESUhaeGcxSkVCVnphSERuOEdYUmw0emlOMmI3TXhQOG1kVFI0QjBwMDJYczUtMmZ3dUR5WW5oM0V5TTBObjRiRWt1OHdtcEtfdy1EZGc?oc=5",
-      "pub_date": 1792532683.0,
-      "article_url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
-      "image": "https://i.abcnewsfe.com/a/ef18058d-5373-43e4-9275-02d917ff3c92/spacex-gty-jef-261020_1792509002319_hpMain_16x9.jpg?w=1600",
-      "description": "Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday."
-    },
-    {
-      "headline": "Stock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTA0Ql94dThFN2tWY2poWUs0YkVmbzlQbzJpTUE1UzhlMi1xc3RsMGIzTHZhQklacmN6N2dBRHdYSFdlQkhNbU5zMFVlVWZObTZIaVA0alNkZzdCaDBFZUg4a2oyU0tVRkpJNlk4WVE5WUFrcVpZZ0VXMmVMR2JhTVFiR0xlTWZBS2EzZVlESmtRWlE1U1lWUGZXbURQWndNU2ljTWhfUmdhb3lsUlFZdUFRVVk4UThyQVE?oc=5",
-      "pub_date": 1792461639.0,
-      "article_url": "https://www.wsj.com/finance/stocks/stock-pickers-burned-by-the-ai-boom-think-their-moment-has-finally-arrived-07878da7",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meta Q3 earnings to test Wall Street's stomach for AI spending",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdExJMmgyOWNFMk45X3Q4S0dZMHBiMDRCdXcxaUtfV2JDczhSX3NRYmJPek14VjRfOGF0WWJjU3VlUHQ4SzAtakRQYWZDYTVTaWs3bC1LOUdFcmU0Z2o4NER2UFJHNkJ1ZnFtdUxfMnFKY0VsTjR3c2w1Yy1MNTFaU09odEpVYXY1T3FMTmF0T2s1LVpmUU1JZ21sR0ZUMkZQUExMcUdLbVdPYlJmeS16d28ybGVreWxINXg4b29B?oc=5",
-      "pub_date": 1792521665.0,
-      "article_url": "https://finance.yahoo.com/technology/article/meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-184105375.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ede5306ea5ce20f91f7da11a3fc3314f52ae74e8e2e34e2ae7f597ac6cfe3339/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fc731ae03-dc35-4214-bf17-0513ebf8b746",
-      "description": "Meta will report its third quarter earnings after the bell on Wednesday."
+      "headline": "Mamdani Proposal Targets AI Customer Service \u2018Doom Loops\u2019 (1)",
+      "source": "Bloomberg Law News",
+      "source_url": "https://news.bloomberglaw.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3V0SU1NWnBya2hrQTVBaEpZNXRwWlEzQk5TQWo3SHdJelNOcUdlUVVTdnl1VTdDS1g4ZlVfT1lxa1BQOXFnYWl3NENUazlhSG5VVG80Sy1GOW1tTU9yNG5FbmJaWUFGWUpBU0xLUnNHLXV2MVowZUZNZ1dISmxqSFIyeGtoR2N3NVNFbVEwTXBFZlBCSFIxUzN0LWlYSFl2M2VReklB?oc=5",
+      "pub_date": 1792515240.0,
+      "article_url": "https://news.bloomberglaw.com/banking-law/mamdani-targets-companies-with-ai-customer-service-doom-loops",
+      "image": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F4b%2F1a%2Fbecf25694737af1caf44b892e821%2F449767868.jpg&width=1200&height=630&fit=cover&removeAnimation=true&crop=3994x1539%2B3%2B150",
+      "description": "New York City wants to force companies to tell consumers when they\u2019re interacting with artificial intelligence and other computerized systems, part of a proposal to cut down on customer service \u201cdoom loops.\u201d"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T22:58:04.994580+00:00"
+  "fetched_at": "2026-10-21T01:25:42.836543+00:00"
 }

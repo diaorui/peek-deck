@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-20T22:58:06.247728+00:00'
+updated: '2026-10-21T01:25:44.335460+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 20, 2026 at 22:58 UTC  
+**Last Updated:** October 21, 2026 at 01:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,502.28
+### $82,961.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.8%  
-**30d:** -4.0%  
-**90d:** +27.7%  
-**1y:** -23.4%  
+**24h:** +1.3%  
+**7d:** +0.8%  
+**30d:** -3.8%  
+**90d:** +29.2%  
+**1y:** -22.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1668.46B
+**Market Cap:** $1663.29B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.1%
+-34.4%
 
 **All-Time Low:** $67.81
-+122380.5%
++121948.4%
 
 ---
 
@@ -99,13 +99,13 @@ Aren't we?
 
 **[Bitcoin is dead again](https://www.reddit.com/r/Bitcoin/comments/1xacfrf/bitcoin_is_dead_again/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Uptober aint over](https://www.reddit.com/r/Bitcoin/comments/1xadv5w/uptober_aint_over/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -127,7 +127,7 @@ https://br.advfn.com/noticias/NEWSBTC/2026/artigo/99519675
 
 Bitcoin to $150,000 by April. Anyone else agree?
 
-19h ago
+21h ago
 
 ---
 
@@ -143,7 +143,7 @@ I’m a financial engineering grad student at Stevens, and I’ve been asking re
 
 Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over concerns that AI could crack a...
 
-🔗 [YouTube](https://youtube.com/shorts/fCik3SHhE-0?is=HIS4z6KsRPQZiAN_) • 19h ago
+🔗 [YouTube](https://youtube.com/shorts/fCik3SHhE-0?is=HIS4z6KsRPQZiAN_) • 21h ago
 
 ---
 
@@ -151,65 +151,33 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 ## Google News: "bitcoin"
 
-**[CFTC pushes back on CME over Kalshi's Bitcoin perps: where's the evidence of harm?](https://www.moomoo.com/community/feed/cftc-pushes-back-on-cme-over-kalshi-s-bitcoin-perps-117475297853445)**
+**[JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch](https://www.bloomberg.com/news/articles/2026-10-20/jpmorgan-asset-sees-bitcoin-beating-stocks-but-with-a-catch)**
 
-@Scott Melker 1850 Views
-
-Moomoo • 45m ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Forget GBTC. BlackRock Charges $1,250 Less a Year to Hold the Same Bitcoin on $100,000](https://finance.yahoo.com/markets/crypto/articles/forget-gbtc-blackrock-charges-1-223338401.html)**
+**[Chips Crack, Bitcoin Holds. Is Crypto Finally Trading on Its Own Drivers?](https://www.moomoo.com/community/feed/chips-crack-bitcoin-holds-is-crypto-finally-trading-on-its-117476079697925)**
 
-Two Bitcoin ETFs hold the exact same asset through nearly identical structures, yet one quietly drains your account at six times the rate of the other. Before you assume switching is the obvious move, your tax situation may tell a different story.
+@Laura  Shin 2582 Views
 
-Yahoo Finance • 24m ago
-
----
-
-**["It bounced off the week 200 week moving average...we rallied about $20,000 beyond that, so we think we're at the beginning of the next bull run now." 🚀](https://www.moomoo.com/community/feed/new-michael-saylor-tells-charles-schwab-the-bitcoin-bull-market-117475297853845)**
-
-@Bitcoin Magazine 1981 Views
-
-Moomoo • 45m ago
+Moomoo • 37m ago
 
 ---
 
-**[Token Accumulators Are Upping the Ante With Yields Rising](https://www.bloomberg.com/news/newsletters/2026-10-20/bitcoin-accumulators-are-upping-the-ante-with-yields-rising)**
+**[JPMorgan forecasts 10% bitcoin returns: What to know](https://finance.yahoo.com/video/jpmorgan-forecasts-10-bitcoin-returns-163000023.html)**
 
-Bloomberg.com • 1h ago
+Scott Melker outlines what crypto investors should know about JPMorgan's (JPM) recent comments on bitcoin (BTC-USD) versus stocks and gold (GC=F).
 
----
-
-**[Live updates: Bitcoin cuts losses as stocks edge higher](https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens)**
-
-After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran.
-
-CoinDesk • 2h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Strategy buys another $22 million of Bitcoin, increases planned share buybacks](https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/)**
+**[The Coinbase allegations expose Bitcoin's corporate governance gap](https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap)**
 
-The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year.
+Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.
 
-Fortune • 1d ago
-
----
-
-**[Strategy buys back their bitcoin, closing in on 850K BTC](https://finance.yahoo.com/video/strategy-buys-back-their-bitcoin-closing-in-on-850k-btc-165459060.html)**
-
-Scott Melker discusses Strategy (MSTR) repurchasing bitcoin (BTC-USD), increasing his hold on Strategy (STRC), JPMorgan's (JPM) JPM Coin becoming available on ethereum (ETH-USD), and the pushback against tokenized stocks as companies opt out."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Michael Saylor Is Bullish on Bitcoin. Yet His Company's Money Is Going Somewhere Else.](https://www.barchart.com/story/news/8205642/michael-saylor-is-bullish-on-bitcoin-yet-his-company-s-money-is-going-somewhere-else)**
-
-Barchart.com • 1d ago
+CoinDesk • 8h ago
 
 ---
 
@@ -223,7 +191,33 @@ Kitco • 1d ago
 
 **[Bitcoin volatility is now quieter than roughly 20% of the S&P 500](https://seekingalpha.com/news/4654789-bitcoin-volatility-is-now-quieter-than-roughly-20-of-the-sp-500)**
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 8h ago
+
+---
+
+**[JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually](https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436)**
+
+The asset manager puts bitcoin's volatility at 55% and says unstable correlations still keep it out of most portfolios.
+
+The Block • 7h ago
+
+---
+
+**[Michael Saylor Is Bullish on Bitcoin. Yet His Company's Money Is Going Somewhere Else.](https://www.barchart.com/story/news/8205642/michael-saylor-is-bullish-on-bitcoin-yet-his-company-s-money-is-going-somewhere-else)**
+
+Barchart.com • 1d ago
+
+---
+
+**[Massive ‘Endgame’ Flip Leaves Bitcoin Suddenly Braced For A $1.5 Trillion Price Crash Shock](https://www.forbes.com/sites/digital-assets/2026/10/20/massive-endgame-flip-leaves-bitcoin-suddenly-braced-for-a-15-trillion-price-crash-shock/)**
+
+Forbes • 12h ago
+
+---
+
+**[SpaceX's latest earnings humble the rocket industry](https://www.thestreet.com/crypto/markets/spacexs-latest-earnings-humble-the-rocket-industry)**
+
+TheStreet • 4h ago
 
 ---
 
@@ -271,7 +265,7 @@ Amazon, Google, Meta among members of lobby group funding dire warnings over clo
 
 **[Atlas of Cyberspace (2001)](https://news.ycombinator.com/item?id=50164271)**
 
-⬆️ 1 • 💬 0 • 12h ago • [kitchin.org](https://www.kitchin.org/atlas/contents.html)
+⬆️ 1 • 💬 0 • 14h ago • [kitchin.org](https://www.kitchin.org/atlas/contents.html)
 
 ---
 
@@ -285,7 +279,7 @@ BlackRock's Bitcoin ETF took in $665 million on Monday, its largest single day s
 
 📺 Yahoo Finance
 
-👁️ 23K • 👍 451 • 💬 59 • ⏱️ 14:55 • 6h ago
+👁️ 31K • 👍 527 • 💬 89 • ⏱️ 14:55 • 8h ago
 
 ---
 
@@ -295,17 +289,7 @@ Michael Wilson says the correction is in its final innings, Bessent wants to gro
 
 📺 Paul Barron Network
 
-👁️ 27K • 👍 981 • 💬 79 • ⏱️ 13:12 • 4h ago
-
----
-
-**[Bitcoin Is on the Verge of a MASSIVE Move! (PREPARE)](https://www.youtube.com/watch?v=8g0Ny6Tj7bA)**
-
-Bitcoin is gearing up for a massive move as volatility reaches critical levels after weeks of consolidation. But will the next move ...
-
-📺 Crypto Banter
-
-👁️ 40K • 👍 1K • 💬 32 • ⏱️ 40:21 • 8h ago
+👁️ 45K • 👍 1K • 💬 103 • ⏱️ 13:12 • 6h ago
 
 ---
 
@@ -315,57 +299,17 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 171 • 💬 30 • ⏱️ 13:27 • 4h ago
+👁️ 4K • 👍 226 • 💬 66 • ⏱️ 13:27 • 6h ago
 
 ---
 
-**[Bitcoin Holders, This Is What Just Happened (My Plan)](https://www.youtube.com/watch?v=YRhJXyNLkEo)**
+**[Bitcoin Is on the Verge of a MASSIVE Move! (PREPARE)](https://www.youtube.com/watch?v=8g0Ny6Tj7bA)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
-
-📺 Aaron Bennett
-
-👁️ 11K • 👍 362 • 💬 42 • ⏱️ 10:00 • 17h ago
-
----
-
-**[THIS IS IT: Bitcoin Bulls Must Hold This EXACT Level Or We Dumping Hard!](https://www.youtube.com/watch?v=czfKsBlU2zA)**
-
-One level. One decision. Bitcoin is sitting at a critical inflection point where bulls and bears are fighting for control right now.
+Bitcoin is gearing up for a massive move as volatility reaches critical levels after weeks of consolidation. But will the next move ...
 
 📺 Crypto Banter
 
-👁️ 25K • 👍 955 • 💬 23 • ⏱️ 33:28 • 15h ago
-
----
-
-**[Bitcoin is About to CRASH!!!](https://www.youtube.com/watch?v=GRD_RfVmRNA)**
-
-Kalshi Perps https://ckenny.com/KALSHIM JOIN GROUP https://ckenny.com/YBTM ⚠️ DISCLAIMER – READ FIRST This ...
-
-📺 Conor Kenny
-
-👁️ 16K • 👍 454 • 💬 36 • ⏱️ 14:22 • 9h ago
-
----
-
-**[Could Super Intelligence Break Your Bitcoin Wallet?](https://www.youtube.com/watch?v=fCik3SHhE-0)**
-
-Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over ...
-
-📺 Natalie Brunell
-
-👁️ 21K • 👍 493 • 💬 34 • ⏱️ 2:31 • 1d ago
-
----
-
-**[Bitcoin’s Global Market Stress Test Is Here](https://www.youtube.com/watch?v=uNmUiXh-Ppw)**
-
-Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 655 • 💬 139 • ⏱️ 52:05 • 1d ago
+👁️ 43K • 👍 1K • 💬 33 • ⏱️ 40:21 • 10h ago
 
 ---
 
@@ -375,7 +319,57 @@ Crypto News: A bull flag formed on the Bitcoin chart signaling a major move is c
 
 📺 Thinking Crypto
 
-👁️ 21K • 👍 670 • 💬 95 • ⏱️ 18:40 • 1d ago
+👁️ 21K • 👍 674 • 💬 95 • ⏱️ 18:40 • 1d ago
+
+---
+
+**[Did JPMorgan Just Signal Bitcoin’s Biggest Bull Run?!](https://www.youtube.com/watch?v=mjgVbrsDTFg)**
+
+JPMorgan's latest long-term outlook puts Bitcoin ahead of stocks, gold, and real estate, marking a major shift for a bank led by ...
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 987 • 💬 106 • ⏱️ 13:00 • 4h ago
+
+---
+
+**[Bitcoin is About to CRASH!!!](https://www.youtube.com/watch?v=GRD_RfVmRNA)**
+
+Kalshi Perps https://ckenny.com/KALSHIM JOIN GROUP https://ckenny.com/YBTM ⚠️ DISCLAIMER – READ FIRST This ...
+
+📺 Conor Kenny
+
+👁️ 19K • 👍 478 • 💬 39 • ⏱️ 14:22 • 12h ago
+
+---
+
+**[Bitcoin Holders, This Is What Just Happened (My Plan)](https://www.youtube.com/watch?v=YRhJXyNLkEo)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
+
+📺 Aaron Bennett
+
+👁️ 12K • 👍 372 • 💬 42 • ⏱️ 10:00 • 20h ago
+
+---
+
+**[Bitcoin Faces Oil Shock as BlackRock Demand Surges](https://www.youtube.com/watch?v=xW6byJ8DqnE)**
+
+Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 612 • 💬 62 • ⏱️ 46:14 • 8h ago
+
+---
+
+**[Midterm Elections in 2 Weeks: Bitcoin Crash or Rally?](https://www.youtube.com/watch?v=u7Y-Tjo5oow)**
+
+The midterms are two weeks out and Bitcoin is still stuck at 80K to 83K. First the news: BlackRock's PBIT buffer Bitcoin ETF filing, ...
+
+📺 VirtualBacon
+
+👁️ 22K • 👍 452 • 💬 80 • ⏱️ 1:22:49 • 7h ago
 
 ---
 

@@ -9,8 +9,8 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "hn_url": "https://news.ycombinator.com/item?id=50151036",
       "author": "rzk",
-      "points": 585,
-      "num_comments": 687,
+      "points": 586,
+      "num_comments": 691,
       "created_at": "2026-10-19T11:24:34Z",
       "object_id": "50151036",
       "image": null,
@@ -51,8 +51,8 @@
       "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
       "hn_url": "https://news.ycombinator.com/item?id=50168190",
       "author": "4gateftw",
-      "points": 161,
-      "num_comments": 188,
+      "points": 168,
+      "num_comments": 195,
       "created_at": "2026-10-20T15:48:26Z",
       "object_id": "50168190",
       "image": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
@@ -65,7 +65,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "hn_url": "https://news.ycombinator.com/item?id=50141657",
       "author": "evolve2k",
-      "points": 155,
+      "points": 156,
       "num_comments": 149,
       "created_at": "2026-10-18T14:58:10Z",
       "object_id": "50141657",
@@ -135,8 +135,8 @@
       "url": "https://www.bolkunov.com/p/on-ai-writing",
       "hn_url": "https://news.ycombinator.com/item?id=50171771",
       "author": "dbolkunov",
-      "points": 74,
-      "num_comments": 45,
+      "points": 79,
+      "num_comments": 53,
       "created_at": "2026-10-20T19:55:11Z",
       "object_id": "50171771",
       "image": "https://substackcdn.com/image/fetch/$s_!LB-2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37a3e83d-e864-4a44-89f0-927f6dbf34e2_2050x1524.png",
@@ -145,7 +145,7 @@
       "site_name": "bolkunov.com"
     }
   ],
-  "total_hits": 584,
+  "total_hits": 578,
   "has_metadata": true,
-  "fetched_at": "2026-10-20T22:57:22.896552+00:00"
+  "fetched_at": "2026-10-21T01:25:05.493303+00:00"
 }
