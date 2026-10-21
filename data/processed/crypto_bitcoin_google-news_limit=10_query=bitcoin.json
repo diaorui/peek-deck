@@ -5,54 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVI1VFpGMEhGRzZsaTI1c1lmTDFScjNZaGxLT0tvZVJKeWpaeTZrbWdUampMVzNZemx4OUNKYUFUTFpDelBsdF9jaHVHSk5NTVMycDVEcDdVQW9pSkJBNzBvaEg3cmQ5T09iTGZ2dUhmU0J1S0Y0OHJ6a2QtTlE0eUtGUEt2Wk9Ub1pLcDRhY0pBVmhkTWZ0QWZac3hZZzF1U08zamVpZk41T1JDOUhn?oc=5",
-      "pub_date": 1792511813.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/jpmorgan-asset-sees-bitcoin-beating-stocks-but-with-a-catch",
-      "image": null,
-      "description": null
+      "headline": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLUZVTWtmeEt4aEpaZmUtOU5zNWJtbHdLdi1EM0dCdmYyTmRCNDF4ZjFZYnR0b3pyclUxQ0FlS0RsMU5DWDRibnFsdENpUzFJemNfZ2R5Y1d6U0h2SHg1Qk9pTXVVTkZWWEotV0I5RzYtd1VvLXRmY3p2UTFtXzA?oc=5",
+      "pub_date": 1792530964.0,
+      "article_url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg",
+      "description": "J.P. Morgan Asset Management projected a 10% compound annual return for Bitcoin over 10 to 15 years, outpacing gold and stocks."
     },
     {
-      "headline": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
+      "headline": "Gas Prices Are Skyrocketing. Can Bitcoin Actually Hedge Against Inflation?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFRTb1RCZ1dUMENLMWFXOGpseWZxWGlzMHJHbEdLWXFxUmg0c21pMVpMV3pIWlhVallZd1dfaXE3WXg0NlRqNzNEamw5SnQ1V0hzcDlQVnlEMTNzNXBXbzRpZnRsdlA0bEVneG82QTJuVEZuN1pGRk55eENlYS0tLURGeHc?oc=5",
+      "pub_date": 1792616409.0,
+      "article_url": "https://www.fool.com/investing/2026/10/21/bitcoin-and-skyrocketing-gas-prices/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891138%2Fbitcoin-bull.jpg&w=1200&op=resize",
+      "description": "Bitcoin can't make gas prices go down, but it can probably protect against an expanding supply of dollars."
+    },
+    {
+      "headline": "Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFhNeG9RM1VEQTk0VFdiWjlMOEFLSkVlbFoxbkFXVkxSRU9zd3lSZndUakV2aXo1YldtNDBGY1h4ZFNsem1aU3J2ZjJDWUVOY3dhQW55b2xzOXpkN3h2VzZKdTFTX05YMjRQNEgxdGhCMm5WamtfY2NWSFBMQTJjdUZsWEtuRTVjcDE5d04tZWYtOVhvWDRqQy1SQkpGT2hyUVE?oc=5",
-      "pub_date": 1792511813.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b7c39ae6d2829efd4a6ce923f0ef40688e59da0f84ddbeb2d836ff3db983dbf6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbdcb98c6ae2a78c599ad98f1d12d6784.jpg",
-      "description": "JPMorgan Asset Management has included Bitcoin in its long-term capital market assumptions for the first time, forecasting returns that could beat stocks, bonds and gold in a milestone for its Wall Street acceptance."
-    },
-    {
-      "headline": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast In Long-Term Capital Market Report",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeExzTzQ4X3J2NmtBQzVYU1d1VVBPRElBY29ZNG9kTlpqd3Vlbk9qcUFCalFqN1ctUUdKV05OcHJ5bTZCcF92RG1SWXBvZm1ZS1FHZzBpMW5MeG1QTE9DLTZxSHZwblVLVjVzQTFJS2FONENkTWJhSWYzYzdHTUFOUy16X0pnR0ZEbnBId3I2dHk1S1hDSm42SHBWSDlGT05JN3drT3k1SmdTbDZ3ZjBiUC0tR0d0aEVvOS1UcnZCZw?oc=5",
-      "pub_date": 1792591032.0,
-      "article_url": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/J.P.-Morgan-Reveals-First-Ever-Bitcoin-Price-Forecast-in-Long-Term-Capital-Market-Report-.jpg",
-      "description": "J.P. Morgan projects Bitcoin as the top asset through 2036. Grace Remington and Sean Hagan examine its 10% base and 16% bull case long-term return targets."
-    },
-    {
-      "headline": "Kalshi will let clients use Bitcoin as collateral for leveraged futures trades",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UM0ozbXd1YTY2by1ERWRZQ3lwdEVBVGlMeldZNnM0SnB1anZVdGZQX094ZGZ6eXFMbzhxbmMtTDlpTl9XVjVkYUQ3N2FnZzNIM1plNzMtUlk1aFNuWDhKNFVmNVczb015TUY5NExzN2huaXA0a1ZVY3RR?oc=5",
-      "pub_date": 1792603040.0,
-      "article_url": "https://qz.com/kalshi-bitgo-crypto-collateral-leveraged-futures-102126",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2273141547-300x200.jpg",
-      "description": "Kalshi Prime customers will be able to borrow against Bitcoin, Ether or compliant stablecoins held at BitGo to fund margin"
-    },
-    {
-      "headline": "Bitcoin nears $85,000 as SpaceX Q3 earnings lift tech stocks",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHBZbktySTVic0VXTVhHTnppUjJ2S2NXOGQ4NFlGTHJ6RlpOQmFBekppd2RmY0trZnJfWksyVGNvZXdjNzNULUFBaUcyZGFtV2RyUHFERFNkUmNGamQxTE02OV96RFJkak1hRnlVckwzd1ctZjlzRTYtZ1VFM3V6X2RDRQ?oc=5",
-      "pub_date": 1792602673.0,
-      "article_url": "https://qz.com/bitcoin-85000-spacex-earnings-tech-stocks-risk-appetite-102126",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1921756255-300x200.jpg",
-      "description": "SpaceX reported third-quarter revenue of $14.6 billion, up 161% from a year earlier, lifting tech stocks and crypto"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnJ1WnNBN1JJQnVIdUsya2psVGV1LThrSjktdHg5OExqam83eUp2UGZvcEoxZl9IeDUxa0VCdE1NV2pFQWZFMkJFVGVuVW5LSmdWcndFYjVVMXlqeWc5YnVPN1lFMDkyMlRQbWlTYThCaXlTMHl1SWQwWTU5a2g3ZkVMaDE4dVViWmdfYVhKVFFFWWhwNF9JQVBwaVIyQXRWUXc?oc=5",
+      "pub_date": 1792592772.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/kalshi-allow-leveraged-futures-bets-142612300.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9812234ba7092b783cf0dc916493a930e037394567145c764068fc3f3750772e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F2dd116bd48e478ce7bdbf650810ca89b.jpg",
+      "description": "Prediction markets platform Kalshi Inc. will offer some clients the ability to post collateral for leveraged perpetual-futures trades using cryptocurrencies, under a new arrangement with digital-asset custodian BitGo Holdings Inc."
     },
     {
       "headline": "Bitcoin Rallies Back as Tech Rebound Sparks Speculative Appetite",
@@ -65,46 +45,66 @@
       "description": null
     },
     {
-      "headline": "A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0xEb1dyb3NROWZmRVJYVHZ5aDFtUnE0dHNfSnVHLTlhM0o3SFd2T21QNjBIeWZGMGpscjNQMDdYcW4wSDhRNHg3MHlyOFpHa2xUVTJKOERFR2N5OUFHSXAyTDZCOVp4VUUxUDUwTHVWUndwc3ZXRWg0UUR5NkREQ01oVWJsWW1kUmdTRkZjaWlqM2lTbjBTMGJHWkNOcWNr?oc=5",
-      "pub_date": 1792592640.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/spacex-tesla-merger-consolidate-30-142400928.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d00f843cf9a129134ea46d9b584c514810f17a10f91f5e5439e4ece69d908706/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F2d811ec0d9b750b24bcd498243c61a27.jpg",
-      "description": "Elon Musk has confirmed that his two publicly traded companies, SpaceX (NASDAQ: $SPCX) and Tesla (NASDAQ: $TSLA), a..."
+      "headline": "Bitcoin scam that cost U.P. man $665K sparks arrest, charges",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZseC1RMFM1ei1McHFISlBRZm9tMGw5blFCcV9vcDAydDRTZHk1eFUyaGxiVGlITXNGd0tkT19XenFPWU95aXBiT1ZUUGd5X0ZOOVo0Ty1MazN3ZmVGdGdVLWtYMUtiZkZCTHJkc0RPelRyWndtLThmcjRWc0pxSUg5dGlNMW1VRGZvZGY5VlZEb2kzMDZvVHFQSEFuNnVMOTBXWGdXVlkzRVh1WERVOC1jeXhvX0ctZTJoUE94QzJfNkN6UE96ZUhZMTVpZDZw?oc=5",
+      "pub_date": 1792607220.0,
+      "article_url": "https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/",
+      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/10/21/PDTN/92366206007-zhong-jiang.jpeg?crop=839,472,x0,y420&width=839&height=472&format=pjpg&auto=webp",
+      "description": "Zhong Jiang faces up to 10 years in prison, officials said."
     },
     {
-      "headline": "A grocery AI beta is underway at a 29-store chain; a partner identified retailers with at least 20,000 locations.",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEg2X2hJY1BMSER4WXZfcHJQMlhzWXV1U3BTTjBqV2N2NDl4bW55MzNZNmNDcHIxNzk5S0o5VFo2WldjTmsxa3RmZ3RiUjlSQlNKYTlzUkR6clllenFsWEg0bjhhODhiVUloN29hbGt5c1VzNlZpZGRFZUMxNnFtWUZyTTBqZWs2eE43bGhDQWlrUUlnSXo1UHJLOHlzbVBQVUNtWkFNZXdGcW1qQk14NEJjQjBDRWNVZmc4?oc=5",
-      "pub_date": 1792584900.0,
-      "article_url": "https://www.stocktitan.net/news/AMOD/alpha-modus-highlights-bitcoin-holdings-with-value-exceeding-250-bppmjn2hkxr1.html",
-      "image": "https://www.stocktitan.net/news_covers/Alpha_Modus_Highlights_Bitcoin_Holdings_with_Value_Exceeding_250_Million_Potential_225_Million_i_1519775.webp",
-      "description": "Full cash exercise of warrants could yield about $225M in gross proceeds. Alpha Cash onboarding could begin in coming weeks, subject to reviews."
-    },
-    {
-      "headline": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
+      "headline": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTVmd1llZ0JlSFdfRExEVHNmRE9DV3hBY2t4RXNNTUZIMHVhVXRBMXR6LTVUa0ticnd1NDBkbE5yaXQ3TXMyWkdBNVdXTGxRVTNLMWt0N0RHU0FISjZIQTB2b3FWclFRNzZscDJTaHVWOFp1Z3RuSjBTbGVZbkg0VFNDS3RmdXlaMDR5YW9tMDlSQzBLNWZhVFRlN1lTR0pUZnFoS05hVWUxZEdvTnZpaE8wZjBYei12R21jMDNn?oc=5",
-      "pub_date": 1792599956.0,
+      "pub_date": 1792610077.0,
       "article_url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/848719b690a5ab62ac6a3a735561ffc03358fad7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "description": "South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier."
     },
     {
-      "headline": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2x2QlN6SDI2LWNnTFA5Q0dKRFFmRWd4ZlFxbFdWbE9RaWFKT3FlUFN5bTdzdlZ4dmtpd09JUnlBVF9LTDctQkRFMmN4SnpkRXRvdjNxM29TQURZcjVGYnczQm5EYTJuMXB1SmlZZVNIMnhQN2huckRXaE9qVW5WV0JqS1ZOVjhpWnc?oc=5",
-      "pub_date": 1792431660.0,
-      "article_url": "https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2200017937-e1792431574272.jpg?resize=1200,600",
-      "description": "The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year."
+      "headline": "What $500M+ In Bitcoin Hacks Teach Us About The Future Of Self-Custody",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdFRselU2UElHbjZhV2tLamgzVGtMUVd4U3NYcFlOaG5pZWt3ZHdkQUFRWGRoSE5oSkhMeFh3R1g0WkwxOEhaR2dsUmxNSkctT2hLOXFKZU90LUd0OGZNNHV1bWpXY0JSdElmMEkxRlZzcnVUS3otdnRDR3JSa0N1dFMyOXYwNUstNFc1M1dMSGk2YmpSdUJLY3phclhMTU11SG9jMkM2dmt1VmNheVg3QXZTeTZwZU1MaHB4QklCTm1Sdw?oc=5",
+      "pub_date": 1792605600.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/21/what-500m-in-bitcoin-hacks-teach-us-about-the-future-of-self-custody/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin nears $85,000 as SpaceX Q3 earnings lift tech stocks",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHBZbktySTVic0VXTVhHTnppUjJ2S2NXOGQ4NFlGTHJ6RlpOQmFBekppd2RmY0trZnJfWksyVGNvZXdjNzNULUFBaUcyZGFtV2RyUHFERFNkUmNGamQxTE02OV96RFJkak1hRnlVckwzd1ctZjlzRTYtZ1VFM3V6X2RDRQ?oc=5",
+      "pub_date": 1792602673.0,
+      "article_url": "https://qz.com/bitcoin-85000-spacex-earnings-tech-stocks-risk-appetite-102126",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1921756255-300x200.jpg",
+      "description": "SpaceX reported third-quarter revenue of $14.6 billion, up 161% from a year earlier, lifting tech stocks and crypto"
+    },
+    {
+      "headline": "DAPP: Bitcoin Is Better Than Crypto Fintech Into Year-End (NASDAQ:DAPP)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFpWd29uZTFzQklCZ2ZCMk1YUTdfd2JBMzJGU09UOFlGV0g4TXN1SHMxUnVZUEJhTHpmOEdvMDhMdy1CckpRdk5PYllKVW5ORVJ3U2ZsS2s0QjR2TXF6RVZJV29MLTVHT3ZWWk9pdUZZSjAzcHZpRE5kVzBnbFpCUHR0Y0I3LTJRT1F5ZW13ZzhHbTZpZ0Z6V3pnMWJtUQ?oc=5",
+      "pub_date": 1792611803.0,
+      "article_url": "https://seekingalpha.com/article/4956050-dapp-bitcoin-is-better-than-crypto-fintech-into-year-end",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189645068/image_2189645068.jpg?io=getty-c-w1536",
+      "description": "VanEck Digital Transformation ETF is a hold as bearish technicals worsen and it lags the S&P 500. Click here to read this latest analysis of DAPP."
+    },
+    {
+      "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTA0ODdEQWdWTkZYUUJPS25Na2h5SXJZWE1ldGZfUURkUm5tbGc4MldlUFlIV1QxSTVZRjVzRXdBUEJDNm1qVjE1NUxINnZ6dVpzekFuTTNUMFVWN2VfaFJBUlg0MDVYbjQyR1hJdm04d2V4RVJLWkZwVjI2ZTNOdDlEZGMxNjY1TVBLSHdSRm1kNmZLQ3UzejNKOWdPdmNPZmxsLVN2MTVfeVB4S3BBRVFvTWhmZw?oc=5",
+      "pub_date": 1792555627.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f99e27db3acfaece32acc8d6b0dccd0e12b0fa46-1502x838.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T17:32:39.044991+00:00"
+  "fetched_at": "2026-10-21T21:19:55.747673+00:00"
 }

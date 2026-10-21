@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-21T21:19:33.161435+00:00",
+  "data": {
+    "url": "https://rustoffrails.org/",
+    "title": "Rust off Rails: the opinionated web stack for the AI era",
+    "description": "The opinionated web stack for the AI era. Rust off Rails is a set of Markdown files that tell coding agents how to build a full-stack Rust web app: one blessed stack, one layout, one way to do each thing.",
+    "image": "https://rustoffrails.org/static/og.png",
+    "favicon": "https://rustoffrails.org/static/apple-touch-icon.png?v=cad7a3ca",
+    "site_name": "Rust off Rails",
+    "author": null,
+    "keywords": null
+  }
+}
