@@ -13,6 +13,17 @@
       "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct."
     },
     {
+      "title": "New York City wants to fine companies that trap you in AI chatbot \u2018doom loops\u2019",
+      "author": "ross2000",
+      "url": "https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/",
+      "published": 1792538260.0,
+      "thumbnail": "https://external-preview.redd.it/dF3xwFGRNeXM1RtoMLMzfrhNYQso-oqFIpmj0b9lfYs.jpeg?width=640&crop=smart&auto=webp&s=d74c666aa02583348f806b093b47934c22c1be49",
+      "external_url": "https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/",
+      "site_name": "MadRobot",
+      "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
+      "description": "Seems like a good idea. Didn\u2019t know it was called a \u2018doom loop\u2019 but hate calling customer services and being stuck with an AI agent."
+    },
+    {
       "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
       "author": "IndependentCoast3974",
       "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
@@ -57,6 +68,17 @@
       "description": "Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of \u201cmemory layer\u201d which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state. The table groups approaches into five categories: Store more: keep explicit history, as with KV caches and retrieval/RAG. Old and new information can coexist, leaving the system to resolve which applies at read/retrieval time. Compress: fold history into a fixed-size state, as with linear attention, RetNet, and Mamba. This saves space, but stored associations can interfere, limiting recall abilities as context grows. Correct: control what changes through gates or prediction-error updates, as with gated linear attention, mLSTM, and DeltaNet. Typically more efficient than simple \u201ccompress\u201d, but also has a hard time scaling with larger contexts. Learn at inference: update mutable parameters using incoming evidence, as with TTT and Titans. Distribute plasticity: spread changes across interacting parts of the state, as with Dragon Hatchling (BDH). Memory lives in high-dimensional space, being sparse and distributed. One example that can make this easier for me to understand is a coding agent that learns a function signature has changed. Keeping both the old and new definitions means it has retained the information but it still needs to determine which definition should govern its next call. It becomes inefficient at reading time. I\u2019m skeptical if the categories belong at the same level of comparison. Some describe model-level mechanisms, while others describe system-level designs. Curious how people here think about this, particularly those who've built memory systems for your own agents. When something becomes outdated, do you update the memory right away or keep the history and let the model figure it out during retrieval? Wondering which approach actually works better as the amount of information grows. Table and framework: R. Vimalkanth and T. Chudiwal, IIT Madras, \u201cThe Missing Piece in LLM Memory: Why Long Context and Retrieval Aren\u2019t Enough for Belief Revision,\u201d a HF community article."
     },
     {
+      "title": "Hugging Face CEO calls Netflix hacking doc 'sci-fi'",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/",
+      "published": 1792529150.0,
+      "thumbnail": "https://external-preview.redd.it/XW11qKS5EGcy9bvCwXV3R_e27JGiigjK0baAXzob_fQ.jpeg?width=640&crop=smart&auto=webp&s=516dc1c3ad8c9d0f2d632f22d6aa330e7b3d67ca",
+      "external_url": "https://www.linkedin.com/posts/clementdelangue_just-watched-the-netflix-instadocs-about-share-7518300071432441856-JQp-/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.\n\nI spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.\n\nAlso, they didn\u2019t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.\n\nAnyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn"
+    },
+    {
       "title": "Outrage after Meta suspends No Kings Instagram account during protests",
       "author": "Resident-Fall4351",
       "url": "https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/",
@@ -88,29 +110,7 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1787588/apple-touch-icon.png",
       "description": "Further attempts to reduce reliance on US infrastructure"
-    },
-    {
-      "title": "Meta&#039;s smart glasses were recording conversations without the wake phrase, company admits",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/",
-      "published": 1792479136.0,
-      "thumbnail": "https://external-preview.redd.it/k8K8rU7_yYiZ4dfs6LtTf8qEsp9BlXE0fgmVIEpT48w.jpeg?width=640&crop=smart&auto=webp&s=ede280d5110f6d2a2cfb8ce10539d9285869238b",
-      "external_url": "https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "A redditor recently wrote that they'd noticed something concerning with Meta's Ray-Ban glasses: they were capturing conversations when they were talking to other people despite the \"Hey..."
-    },
-    {
-      "title": "Hugging Face CEO calls Netflix hacking doc 'sci-fi'",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/",
-      "published": 1792529150.0,
-      "thumbnail": "https://external-preview.redd.it/XW11qKS5EGcy9bvCwXV3R_e27JGiigjK0baAXzob_fQ.jpeg?width=640&crop=smart&auto=webp&s=516dc1c3ad8c9d0f2d632f22d6aa330e7b3d67ca",
-      "external_url": "https://www.linkedin.com/posts/clementdelangue_just-watched-the-netflix-instadocs-about-share-7518300071432441856-JQp-/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.\n\nI spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.\n\nAlso, they didn\u2019t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.\n\nAnyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn"
     }
   ],
-  "fetched_at": "2026-10-20T22:57:27.923235+00:00"
+  "fetched_at": "2026-10-21T01:25:06.843643+00:00"
 }
