@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-21T06:21:33.766422+00:00'
+updated: '2026-10-21T12:11:50.183168+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 21, 2026 at 06:21 UTC  
+**Last Updated:** October 21, 2026 at 12:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on an under-actuated drone that can fly with only one motor for the last few months. The propeller hub is 3D printed out of PPA-CF and has a hinge, so when the motor accelerates the blades lag behind and one pitches up while the other pitches down. By pulsing the motor torque 300 times a second, timed to the rotor angle, the drone controls its pitch and roll with the same motor that produces its thrust. Along the way I also built a "poor man's high speed camera" - a camera flash synced to my camera and motor controller, so I could take images of the propeller at precise angles to analyze its behavior. The mechanical simplicity hides a lot of software. At almost 20,000 RPM, a 0.2 ms control loop is already 20 degrees of rotation late, so I wrote custom firmware for the motor controller to compute the torque pulses on board. The body also slowly spins, so the drone gets its heading from an infrared "lighthouse" beacon in the corner of the room that it sees once per revolution. The full video explaining how it all works is available on youtube: https://www.youtube.com/watch?v=Ndftcft6XhU The code and CAD are open source on github: https://github.com/jyjblrd/single-propeller-drone
 
-2d ago
+3d ago
 
 ---
 
@@ -44,7 +44,7 @@ I've been working on an under-actuated drone that can fly with only one motor fo
 
 I posted here 8 months ago and am only now posting again, haha. This is how I've improved over the past 8 months: MK5 V1: The appearance was impressive, but... Yes, I lacked torque. MK5 V2: Hmm... MK6 V1: it walks!! it walks!! it walks!! 🐕🐕 MK6 V2: Laser cut leg Hell yeah😎😎 Two-arm guy Two-leg guy : w.i.p DMs are welcome, and those who really want to see them can do so in Seoul😎 T h a n k y o u !
 
-2d ago
+3d ago
 
 ---
 
@@ -76,7 +76,7 @@ HUMXN wants to pay for maintenance and repair services for homes in Minneapolis,
 
 Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries to deliver 90 minutes of operation after a nine-minute charge. The targeted 10:1 run-to-charge ratio could support more than 20 productive hours per day in warehouses and manufacturing facilities. Early-access deployment is planned for the first half of 2027, but the company has not yet disclosed the battery capacity, cycle-life rating, or independent real-world test results.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays) • 2d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays) • 3d ago
 
 ---
 
@@ -120,15 +120,7 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
 
-TechCrunch • 17h ago
-
----
-
-**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
-
-They're still a long way off from mass-producing Terminators.
-
-Defense News • 1d ago
+TechCrunch • 23h ago
 
 ---
 
@@ -140,11 +132,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Robot Wars – How China Has the Robotics Industry in Its Grip](https://finance.yahoo.com/technology/ai/articles/robot-wars-china-robotics-industry-004100697.html)**
+**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
 
-Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
+SpaceNews • 32m ago
 
-Yahoo Finance • 1d ago
+---
+
+**[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
+
+NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
+
+NVIDIA Newsroom • 1h ago
 
 ---
 
@@ -152,7 +150,7 @@ Yahoo Finance • 1d ago
 
 A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.
 
-Binghamton University • 11h ago
+Binghamton University • 17h ago
 
 ---
 
@@ -168,29 +166,29 @@ GeekWire • 1d ago
 
 Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.
 
-Defense News • 15h ago
+Defense News • 20h ago
 
 ---
 
 **[Delivery Robots Are Watching You, According to Lawsuit](https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417)**
 
-Gizmodo • 9h ago
+Gizmodo • 14h ago
 
 ---
 
-**[Daimon Robotics building the infrastructure layer for tactile intelligence](https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/)**
+**[Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.](https://www.businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10)**
 
-Daimon Robotics is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform more reliably.
+Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly.
 
-The Robot Report • 1d ago
+Business Insider • 3h ago
 
 ---
 
-**[Elbit expands into underwater autonomy with acquisition of Canadian robotics company](https://www.calcalistech.com/ctechnews/article/bkxxdnn2fe)**
+**[Investing in Eka Robotics](https://a16z.com/announcement/investing-in-eka-robotics/)**
 
-The Israeli defense group has acquired International Submarine Engineering, a developer of autonomous underwater vehicles with more than 50 years of experience. The deal adds technology for surveillance, mine clearance and anti-submarine operations, although its financial terms were not disclosed.
+a16z leads Eka Robotics’ Series A
 
-CTech • 20h ago
+Andreessen Horowitz • 20h ago
 
 ---
 
@@ -198,23 +196,33 @@ CTech • 20h ago
 
 ## YouTube Videos: "robotics"
 
+**[Tesla Bot Gen 4: Elon Musk Reveals the Next Humanoid Robot](https://www.youtube.com/watch?v=IMHwdxfl4ko)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesla Optimus Gen 4: 10 MILLION Robots a Year ...
+
+📺 PRO ROBOTS
+
+👁️ 125K • 👍 2K • 💬 225 • ⏱️ 20:32 • 3d ago
+
+---
+
+**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+
+China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+
+📺 MACHINEKIND
+
+👁️ 14K • 👍 291 • 💬 32 • ⏱️ 13:57 • 12h ago
+
+---
+
 **[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
 
 Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
 
 📺 The Tesla Space
 
-👁️ 93K • 👍 3K • 💬 154 • ⏱️ 13:59 • 6d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 82K • 👍 734 • 💬 40 • ⏱️ 9:03 • 2d ago
+👁️ 94K • 👍 3K • 💬 154 • ⏱️ 13:59 • 6d ago
 
 ---
 
@@ -224,17 +232,7 @@ Would you pay $60 to have two humanoid robots clean your home? Meet Sergey, a hu
 
 📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 358 • 👍 9 • ⏱️ 0:54 • 2h ago
-
----
-
-**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
-
-Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
-
-📺 Jamel_AKA_Jamal
-
-👁️ 111K • 👍 3K • 💬 718 • ⏱️ 13:05 • 2d ago
+👁️ 1K • 👍 23 • 💬 4 • ⏱️ 0:54 • 8h ago
 
 ---
 
@@ -244,7 +242,7 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 155K • 👍 1K • 💬 441 • ⏱️ 4:07 • 3d ago
+👁️ 157K • 👍 1K • 💬 452 • ⏱️ 4:07 • 3d ago
 
 ---
 
@@ -254,25 +252,17 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 52K • 👍 548 • 💬 69 • ⏱️ 8:52 • 4d ago
+👁️ 62K • 👍 594 • 💬 76 • ⏱️ 8:52 • 4d ago
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
 
-📺 Big Duke13
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
 
-👁️ 381K • 👍 13K • 💬 1K • ⏱️ 2:35 • 4d ago
+📺 MostAmazingTop10
 
----
-
-**[The Weirdest Robots to Ever Fight at NHRL](https://www.youtube.com/watch?v=eVI9Ig3lq_o)**
-
-Not your average fighting robots. From bizarre designs to completely unconventional engineering, these robots prove there's ...
-
-📺 NHRL
-
-👁️ 134K • 👍 1K • 💬 88 • ⏱️ 12:13 • 5d ago
+👁️ 84K • 👍 741 • 💬 40 • ⏱️ 9:03 • 2d ago
 
 ---
 
@@ -282,17 +272,25 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 RuntimeBRT
 
-👁️ 156K • 👍 7K • 💬 209 • ⏱️ 2:55 • 1d ago
+👁️ 172K • 👍 7K • 💬 215 • ⏱️ 2:55 • 2d ago
 
 ---
 
-**[Elon Musk’s $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans &amp; Ends Nursing Home Bills?](https://www.youtube.com/watch?v=oL8z3mfQzBA)**
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
 
-Elon Musk's $299/Month Tesla Robot Leak Is INSANE — Cooks, Cleans & Ends Nursing Home Bills? New patent filings and ...
+📺 Big Duke13
 
-📺 Tesla Insider News
+👁️ 392K • 👍 13K • 💬 1K • ⏱️ 2:35 • 4d ago
 
-👁️ 332K • 👍 2K • 💬 506 • ⏱️ 21:44 • 5d ago
+---
+
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+
+📺 MACHINEKIND
+
+👁️ 44K • 👍 608 • 💬 65 • ⏱️ 12:40 • 4d ago
 
 ---
 

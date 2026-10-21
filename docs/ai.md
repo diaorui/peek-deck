@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-21T06:21:33.753912+00:00'
+updated: '2026-10-21T12:11:50.162123+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 21, 2026 at 06:21 UTC  
+**Last Updated:** October 21, 2026 at 12:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seems like a good idea. Didn’t know it was called a ‘doom loop’ but hate calling customer services and being stuck with an AI agent.
 
-🔗 [MadRobot](https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/) • 7h ago
+🔗 [MadRobot](https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/) • 12h ago
 
 ---
 
@@ -49,7 +49,15 @@ Seems like a good idea. Didn’t know it was called a ‘doom loop’ but hate c
 
 Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct.
 
-🔗 [HEIST](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) • 16h ago
+🔗 [HEIST](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) • 21h ago
+
+---
+
+**[Anthropic's Claude autonomously designs protein binders targeting scorpion neurotoxins](https://www.reddit.com/r/artificial/comments/1xbks11/anthropics_claude_autonomously_designs_protein/)**
+
+Anthropic's Claude autonomously generated 318,484 protein binder designs targeting five scorpion neurotoxins; 17 of 211 lab-tested candidates met binding…
+
+🔗 [Vector Wire](http://vectorwire.ai/article/anthropic-s-claude-autonomously-designs-protein-binders-targeting-scorpion-neuro-e2db97) • 33m ago
 
 ---
 
@@ -57,7 +65,13 @@ Hackers have published 281 GB of AfD emails as AI summaries, showing widespread 
 
 About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens) • 18h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens) • 23h ago
+
+---
+
+**[Spotify is cracking down on Family plans again, and the penalty can lock you out for a year](https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/)**
+
+🔗 [digitaltrends.com](https://www.digitaltrends.com/home-theater/spotify-is-cracking-down-on-family-plans-again-and-the-penalty-can-lock-you-out-for-a-year/) • 13h ago
 
 ---
 
@@ -65,59 +79,39 @@ About half the run was spent fighting the dragon, solved by stacking dirt to rea
 
 Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from...
 
-🔗 [TechSpot](https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html) • 16h ago
+🔗 [TechSpot](https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html) • 21h ago
 
 ---
 
-**[Spotify is cracking down on Family plans again, and the penalty can lock you out for a year](https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/)**
+**[What's a task you refuse to hand over to AI, even if it could do it well?](https://www.reddit.com/r/artificial/comments/1xbg6nj/whats_a_task_you_refuse_to_hand_over_to_ai_even/)**
 
-🔗 [digitaltrends.com](https://www.digitaltrends.com/home-theater/spotify-is-cracking-down-on-family-plans-again-and-the-penalty-can-lock-you-out-for-a-year/) • 8h ago
+What's your reason? For me its art.
 
----
-
-**[Hugging Face CEO calls Netflix hacking doc 'sci-fi'](https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/)**
-
-Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.
-
-I spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.
-
-Also, they didn’t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.
-
-Anyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn
-
-🔗 [LinkedIn](https://www.linkedin.com/posts/clementdelangue_just-watched-the-netflix-instadocs-about-share-7518300071432441856-JQp-/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 9h ago
+5h ago
 
 ---
 
-**[please tell me there is some entirely physical requirement to launch nukes](https://www.reddit.com/r/artificial/comments/1xbf9n5/please_tell_me_there_is_some_entirely_physical/)**
+**[EvoMusArt 2027: International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.reddit.com/r/artificial/comments/1xbih7a/evomusart_2027_international_conference_on/)**
 
-A hose that needs to be screwed in, a crank that needs to be turned, something requiring actual physical input at launch sites completely outside of any electronic system whatsoever. I'm not concerned about the "AI will literally kill us all" thing, but it does cause me some anxiety about a few things. This goes not just for AI, but for cyberattacks as well. As anyone with a basic understanding of cybersecurity should know. "it's disconnected from the internet" or "it's on it's own secure network" or even "it can't physically access the internet" is not good enough in extremely high stakes situations. You can theoretically hack anything with an electronic component.
+The 16th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMusArt 2027) is accepting paper submissions. When: 31 March – 2 April 2027 Where: Mainz, Germany Paper Submission deadline: 1 November 2026 EvoMUSART focuses on AI and computational approaches to creativity, covering a broad range of topics, with a particular emphasis on research exploring how AI systems generate, support, evaluate, interpret, and collaborate in creative processes. Accepted papers will be presented at the conference and published in a dedicated LNCS volume. More information/submission details: https://www.evostar.org/2027/evomusart/ If you are working at the intersection of AI and creative practice, this may be relevant to your research. Please share with others who might be interested.
 
-16m ago
-
----
-
-**[OpenAI acquires Orchestra Bio, folds drug-development agents into Rosalind](https://www.reddit.com/r/artificial/comments/1xbcka3/openai_acquires_orchestra_bio_folds/)**
-
-OpenAI acquired Orchestra Bio, a startup that built AI agents for drug development, integrating its team and technology into the Rosalind life sciences…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/openai-acquires-orchestra-bio-folds-drug-development-agents-into-rosalind-452a7b) • 2h ago
+2h ago
 
 ---
 
-**[LLM Memory: 5 Approaches to Handling New Information](https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/)**
+**[Week of Oct 12–16, 2026: open-weight releases from Meta/Nvidia, GPT-4 API shutdown date, enterprise cost caps, and regulatory probes](https://www.reddit.com/r/artificial/comments/1xbkezt/week_of_oct_1216_2026_openweight_releases_from/)**
 
-Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of “memory layer” which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state. The table groups approaches into five categories: Store more: keep explicit history, as with KV caches and retrieval/RAG. Old and new information can coexist, leaving the system to resolve which applies at read/retrieval time. Compress: fold history into a fixed-size state, as with linear attention, RetNet, and Mamba. This saves space, but stored associations can interfere, limiting recall abilities as context grows. Correct: control what changes through gates or prediction-error updates, as with gated linear attention, mLSTM, and DeltaNet. Typically more efficient than simple “compress”, but also has a hard time scaling with larger contexts. Learn at inference: update mutable parameters using incoming evidence, as with TTT and Titans. Distribute plasticity: spread changes across interacting parts of the state, as with Dragon Hatchling (BDH). Memory lives in high-dimensional space, being sparse and distributed. One example that can make this easier for me to understand is a coding agent that learns a function signature has changed. Keeping both the old and new definitions means it has retained the information but it still needs to determine which definition should govern its next call. It becomes inefficient at reading time. I’m skeptical if the categories belong at the same level of comparison. Some describe model-level mechanisms, while others describe system-level designs. Curious how people here think about this, particularly those who've built memory systems for your own agents. When something becomes outdated, do you update the memory right away or keep the history and let the model figure it out during retrieval? Wondering which approach actually works better as the amount of information grows. Table and framework: R. Vimalkanth and T. Chudiwal, IIT Madras, “The Missing Piece in LLM Memory: Why Long Context and Retrieval Aren’t Enough for Belief Revision,” a HF community article.
+Roundup of what I found this week. Caveat: much of this is via news aggregators citing Reuters/Bloomberg/The Information, so some items are second-hand. Open weights Meta's Muse Spark Open: MoE, 816B total / 42B active, 1M context; reportedly runs on 2–4 M5 Ultra Mac Studios via MLX. Nvidia Nemotron 3.5 Super VL: 120B total / 12B active, 1M context, claims up to 5x throughput (vendor claim). Black Forest Labs FLUX 3 Image Klein: 5.6B, free commercial use under $5M revenue. Microsoft's MAI-Base-2 (2.8T/80B active) is not open; trusted partners via Foundry. Cost / platform Accenture reportedly capped centrally funded Claude at $29/month/employee after some spent $500–$1,000. OpenAI: GPT-4o, 4o mini, 4.1, 4.1 mini removed from the API Jan 14, 2027 (per OpenAI release notes as aggregated by Releasebot). Policy FTC civil investigative demands to OpenAI and Anthropic over safety incidents (Axios, via aggregator); EU AI Office's first AI Act probes. My take as someone building on top of these APIs: the deprecation timeline is the thing that actually costs me engineering time. Six months is fine if you have evals; painful if you don't. I'm also skeptical of "runs on a Mac Studio" headlines until I see sustained throughput numbers at long context. Open weights are attractive for data-sensitive clients, but I'd want to see real total cost including ops before calling it cheaper. Curious what others are seeing on migration effort off the GPT-4 family.
 
-14h ago
+53m ago
 
 ---
 
-**[Discover AI - A Teaching & Learning Guide - 51 hands-on labs for learning how AI actually works.](https://www.reddit.com/r/artificial/comments/1xba832/discover_ai_a_teaching_learning_guide_51_handson/)**
+**[Some thoughts after watching a documentary about AI...](https://www.reddit.com/r/artificial/comments/1xbjtj5/some_thoughts_after_watching_a_documentary_about/)**
 
-This is a learning resource about how artificial intelligence works, broken down into its component parts. Understand each one, then put them together to create your own. You learn by trying, not just by reading, from the required math to training a model and the text comes in three reading levels. A bit of insight - 51 labs in 6 groups, from the basics (what a neuron is, gradient descent) through attention, RAG, agents, fine-tuning, quantization, serving, and more - Each lab has a short lesson beside it, readable in Plain or Standard mode - Every lesson in Discover AI now comes in three reading levels, Simple (short sentences and everyday comparisons), Plain (everyday words) and Standard (the proper technical terms) - Some of it actually runs rather than just animating: - The attention lab runs a small trained transformer (1.37M params) inside the app - The training labs train a tiny character-level model live as you move the sliders - Works offline: no account, no telemetry The topics were hand-selected, background research was conducted, and the structure and grouping were developed. AI was used for research, and all sources have been verified. There may be mistakes, so please report any you spot or open a PR. If you teach this or work in a specialized area of AI, I would love your help expanding it whether through a new interactive lab, a better visualization, or a tweak that makes the cause and effect in an existing lab clearer. I'd also like to hear which labs are confusing and what's missing. If you're a learner, please let us know if there's a specific topic or concept that would help you better understand AI. Thank you! GitHub: https://github.com/Fazmin/AILearningGuide
+Recently, I watched the documentary Instadocs: AI Gone Wild, and it really got me thinking about something. I mean, AI is literally trained on all human knowledge and history, including books, images, data, and everything else. And let's be real, throughout human and biological evolution, things like deception, conflict, forming alliances, and doing whatever it takes to survive have always been normal parts of the process. Since AI agents are built to mimic humans and are loaded with all that messy history, if they get stuck and can't reach a goal, wouldn't resorting to any means necessary kind of make sense? Laws are a human invention after all, and nature doesn't care about rules. What do you guys think?
 
-4h ago
+1h ago
 
 ---
 
@@ -125,71 +119,73 @@ This is a learning resource about how artificial intelligence works, broken down
 
 ## Google News: "ai"
 
-**[Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now](https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now)**
+**[OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it](https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html)**
 
-Bloomberg.com • 8h ago
-
----
-
-**[What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money](https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses)**
-
-Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.
-
-NPR • 19h ago
-
----
-
-**[China's Moonshot AI to operate in Singapore, jobs post shows](https://www.yahoo.com/news/articles/chinas-moonshot-ai-operate-singapore-051549102.html)**
-
-SINGAPORE, Oct 21 (Reuters) - Chinese AI startup Moonshot is expanding into Singapore, with a new sales role listed on the company's LinkedIn page this week.
-
-Yahoo • 1h ago
-
----
-
-**[Small caps: not a great AI hedge](https://www.ft.com/content/b7e5fa98-0cb5-4eba-b921-26e3a9393199?syn-25a6b1a6=1)**
-
-Financial Times • 51m ago
-
----
-
-**[Nscale boss seeks to reassure staff amid AI market jitters](https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc)**
-
-Financial Times • 26m ago
-
----
-
-**[SpaceX Swings to a Profit, as A.I. Business Grows](https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html)**
-
-The New York Times • 9h ago
-
----
-
-**[SpaceX revenue soars 161% as AI business grows - ABC News](https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509)**
-
-Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday.
-
-ABC News - Breaking News, Latest News and Videos • 8h ago
-
----
-
-**[Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates](https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html)**
-
-SpaceX shares jumped after the company beat on revenue and issued uplifting guidance.
+Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.
 
 CNBC • 5h ago
 
 ---
 
-**[Opinion | Mamdani’s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop](https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html)**
+**[OpenAI says its AI agents weakened internal monitoring system](https://www.reuters.com/legal/litigation/openai-says-its-ai-agents-weakened-internal-monitoring-system-2026-10-21/)**
 
-The New York Times • 21h ago
+Reuters • 9h ago
 
 ---
 
-**[Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs](https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1)**
+**[Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin](https://finance.yahoo.com/technology/article/nvidia-debuts-platform-for-keeping-ai-agents-from-going-rogue-and-humanoid-robot-design-at-gtc-berlin-113000342.html)**
 
-WSJ • 10h ago
+Nvidia debuted new AI security and robotics features at GTC Berlin.
+
+Yahoo Finance • 41m ago
+
+---
+
+**[Why AI’s Deepest Mind Believes the World Is About to Change Radically](https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153)**
+
+WSJ • 2h ago
+
+---
+
+**[OpenAI brings its frontier models to rival Google Cloud](https://www.axios.com/2026/10/21/openai-google-cloud-ai-models)**
+
+Axios • 9m ago
+
+---
+
+**[AI Godbots, Gurus, And Guides Are Becoming More Popular, But Would You Trust A Machine With Your Spiritual Journey?](https://www.iflscience.com/ai-godbots-gurus-and-guides-are-becoming-more-popular-but-would-you-trust-a-machine-with-your-spiritual-journey-84984)**
+
+IFLScience • 12m ago
+
+---
+
+**[Azoma wants to help brands win the AI shopping race. See the pitch deck that helped it raise $11.2 million.](https://www.businessinsider.com/azoma-raises-millions-optimize-brands-ai-shopping-agents-2026-10)**
+
+Azoma, whose customers include Mars and Unilever, helps brands get their products in front of AI shopping agents.
+
+Business Insider • 11m ago
+
+---
+
+**[China Moves to Tighten Its Grip Over Exports of Top A.I. Models](https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[China slams US ban on DeepSeek AI over security concerns](https://www.foxnews.com/live-news/ai-news-deepseek-security-10-20-26)**
+
+The U.S. banned DeepSeek AI from federal civilian agencies over national security risks and concerns over sensitive American data, prompting China to push back.
+
+Fox News • 16h ago
+
+---
+
+**[Five things to know about Chinese AI startup DeepSeek](https://www.yahoo.com/news/us/articles/five-things-know-chinese-ai-115016891.html)**
+
+The United States Department of Homeland Security ordered government agencies on Monday to stop using artificial intelligence tools from DeepSeek, citing concerns over data being transferred to China....
+
+Yahoo • 21m ago
 
 ---
 
@@ -199,7 +195,7 @@ WSJ • 10h ago
 
 **[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
 
-⬆️ 590 • 💬 704 • 1d ago
+⬆️ 594 • 💬 717 • 2d ago
 
 ---
 
@@ -207,7 +203,7 @@ WSJ • 10h ago
 
 Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.
 
-⬆️ 176 • 💬 204 • 14h ago • [IGN](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
+⬆️ 179 • 💬 211 • 20h ago • [IGN](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
 
 ---
 
@@ -223,7 +219,7 @@ Would this be enough to keep an AI model from going out of control?
 
 Online roadblocks are undermining the narrative behind AI agents.
 
-⬆️ 156 • 💬 149 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+⬆️ 157 • 💬 149 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 
 ---
 
@@ -231,7 +227,7 @@ Online roadblocks are undermining the narrative behind AI agents.
 
 A small open model, fine-tuned on a MacBook Air, that writes without em dashes, "not X, but Y" or lists of three, with no system prompt. Answers on 40 held-out prompts, the training rounds, and how to run it.
 
-⬆️ 155 • 💬 110 • 1d ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
+⬆️ 155 • 💬 111 • 1d ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
 
 ---
 
@@ -263,7 +259,7 @@ British Airways prohibits filming crew without consent, including with Meta smar
 
 Disclaimer: by AI writing I mean text with at least 50% of the words generated by AI
 
-⬆️ 83 • 💬 57 • 10h ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
+⬆️ 89 • 💬 57 • 16h ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
 
 ---
 
@@ -279,23 +275,41 @@ The AI agents infiltrated more than 100 websites.
 
 ## YouTube Videos: "ai"
 
-**[We are no longer in control of the AI situation.](https://www.youtube.com/watch?v=xFYUo0ZmK-A)**
-
-What you can do right now → https://80000hours.org/hugging-face-video/ This July, hundreds of OpenAI's agents organized ...
-
-📺 AI In Context
-
-👁️ 162K • 👍 6K • 💬 1K • ⏱️ 33:14 • 10h ago
-
----
-
 **[Sam Altman Just Revealed The AI ENDGAE](https://www.youtube.com/watch?v=pr6et84s4Xw)**
 
 Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
 📺 TheAIGRID
 
-👁️ 28K • 👍 538 • 💬 164 • ⏱️ 25:11 • 13h ago
+👁️ 32K • 👍 578 • 💬 180 • ⏱️ 25:11 • 19h ago
+
+---
+
+**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+
+China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+
+📺 MACHINEKIND
+
+👁️ 14K • 👍 291 • 💬 32 • ⏱️ 13:57 • 12h ago
+
+---
+
+**[A guy built an AI that thinks it&#39;s 1899, then tried to get it to beat Einstein #tech](https://www.youtube.com/watch?v=_qtMiHw59sU)**
+
+📺 Sumit's Investment Takes 
+
+👁️ 53K • 👍 1K • 💬 72 • ⏱️ 3:01 • 1d ago
+
+---
+
+**[We are no longer in control of the AI situation.](https://www.youtube.com/watch?v=xFYUo0ZmK-A)**
+
+What you can do right now → https://80000hours.org/hugging-face-video/ This July, hundreds of OpenAI's agents organized ...
+
+📺 AI In Context
+
+👁️ 264K • 👍 8K • 💬 1K • ⏱️ 33:14 • 16h ago
 
 ---
 
@@ -305,75 +319,57 @@ I let AI read my medical records and search the web, with one rule: my private i
 
 📺 Alex Ziskind
 
-👁️ 76K • 👍 1K • 💬 83 • ⏱️ 12:29 • 12h ago
+👁️ 96K • 👍 1K • 💬 92 • ⏱️ 12:29 • 18h ago
 
 ---
 
-**[Is Kling 4 Better Than Seedance 2.5 for AI Films?](https://www.youtube.com/watch?v=0rNpuQoGSHY)**
+**[I Talked To Workers At Meta, Amazon, &amp; Microsoft About The AI Watching Them](https://www.youtube.com/watch?v=ca7ufSI1Qxg)**
 
-Kling 4 is finally available and since I'm starting on a new AI short film, I wanted to see if Kling 4 is better than Seedance 2.5.
+Insiders at Meta and other companies leaked to us about bosses using AI to spy on them. In tech, AI spies on workers, copies their ...
 
-📺 AI Video School
+📺 More Perfect Union
 
-👁️ 17K • 👍 322 • 💬 92 • ⏱️ 12:43 • 16h ago
-
----
-
-**[Why Anthropic CEO is Worried About AI](https://www.youtube.com/watch?v=EY1vv8UPCeY)**
-
-This was recorded in March 2026. Joe Lonsdale discusses his disagreement with Anthropic CEO Dario Amodei over AI existential ...
-
-📺 Joe Lonsdale
-
-👁️ 13K • 👍 122 • 💬 18 • ⏱️ 10:56 • 15h ago
+👁️ 629K • 👍 13K • 💬 2K • ⏱️ 14:54 • 1d ago
 
 ---
 
-**[AI Stocks Are Crashing. Is The Trillion-Dollar Boom In Trouble? | The Palki Sharma Show | IGR](https://www.youtube.com/watch?v=RHQ626yArq4)**
+**[The People Building AI Think It Could Kill Us All](https://www.youtube.com/watch?v=_09_0a7EXUQ)**
 
-Investors rushed to back AI. Now, some of the companies building its infrastructure are facing a reality check. South Korean AI ...
+Get early access to Beam's biggest sale of the year! Save up to 50% off sitewide with my exclusive code WLB: ...
 
-📺 India Global Review
+📺 What Lurks Beneath
 
-👁️ 159K • 👍 864 • 💬 121 • ⏱️ 5:04 • 12h ago
-
----
-
-**[AI adoption is slowing: ‘There’s no use case for frontier AI’ | Dean Baker](https://www.youtube.com/watch?v=a8YsC8oVpek)**
-
-It's impossible to see what they envision happening… there's literally nothing on the horizon.” Senior Distinguished Fellow at the ...
-
-📺 The Tech Report
-
-👁️ 181K • 👍 3K • 💬 832 • ⏱️ 27:53 • 12h ago
+👁️ 69K • 👍 3K • 💬 372 • ⏱️ 24:19 • 1d ago
 
 ---
 
-**[A Potentially Historic AI Breakthrough](https://www.youtube.com/watch?v=d6SO10ihpL4)**
+**[Kling AI 4.0 Tutorial | How to Make Cinematic AI Videos](https://www.youtube.com/watch?v=PzOH1v5GaW0)**
 
-A new essay from former OpenAI researcher Nick Cammarata is being hailed as a potentially historic AI breakthrough.
+Make cinematic AI videos with Kling 4.0 AI https://klingaiaffiliate.pxf.io/POeG0X In this video we teach you how to make cinematic ...
 
-📺 The AI Daily Brief: Artificial Intelligence News
+📺 FILM CRUX
 
-👁️ 27K • 👍 463 • 💬 49 • ⏱️ 20:24 • 1d ago
-
----
-
-**[A guy built an AI that thinks it&#39;s 1899, then tried to get it to beat Einstein #tech](https://www.youtube.com/watch?v=_qtMiHw59sU)**
-
-📺 Sumit's Investment Takes 
-
-👁️ 42K • 👍 1K • 💬 69 • ⏱️ 3:01 • 1d ago
+👁️ 64K • 👍 93 • ⏱️ 3:55 • 15h ago
 
 ---
 
-**[Trump intel chief puts AI companies on NOTICE](https://www.youtube.com/watch?v=TIxzkp1IhAo)**
+**[5 Best AI Side Hustles in 2026 (ft. Iman Gadzhi)](https://www.youtube.com/watch?v=1dvM89NMK3s)**
 
-'Super Intelligence Force' leader DNI Jay Clayton discusses what his task force is doing for the SI sector, the government's ...
+Explore 5 AI side hustles with Iman Gadzhi. Learn how to create services and digital products using AI. All Skills, Prompts and ...
 
-📺 Fox News
+📺 Higgsfield AI
 
-👁️ 47K • 👍 296 • 💬 265 • ⏱️ 9:16 • 2d ago
+👁️ 153K • 👍 4K • 💬 124 • ⏱️ 22:45 • 1d ago
+
+---
+
+**[AI Bubble Is Finally Collapsing](https://www.youtube.com/watch?v=PaCs7KrCXxg)**
+
+Checkout Odoo here: https://www.odoo.com/r/oc1q Join the team: https://tally.so/r/VLQROE Collab and Partnerships: ...
+
+📺 IDK Show
+
+👁️ 114K • 👍 2K • 💬 219 • ⏱️ 22:34 • 2d ago
 
 ---
 
@@ -389,7 +385,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 27,737 • ❤️ 2,009 • 4d ago
+⬇️ 42,122 • ❤️ 2,075 • 4d ago
 
 ---
 
@@ -401,7 +397,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 439,528 • ❤️ 1,108 • 3d ago
+⬇️ 490,447 • ❤️ 1,130 • 4d ago
 
 ---
 
@@ -413,7 +409,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 13,495 • ❤️ 847 • 4d ago
+⬇️ 15,274 • ❤️ 863 • 4d ago
 
 ---
 
@@ -425,7 +421,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 2,592 • ❤️ 613 • 5d ago
+⬇️ 2,891 • ❤️ 619 • 5d ago
 
 ---
 
@@ -437,19 +433,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 78,897 • ❤️ 573 • 5d ago
-
----
-
-**[embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)**
-
-*Google*
-
-EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, video, and audio into a unified 768-dimensional vector space. It offers native multimodality, multilingual support, and flexible footprint for on-device applications like search and RAG.
-
-`feature-extraction` `744.4M`
-
-⬇️ 172,474 • ❤️ 2,776 • 14d ago
+⬇️ 92,604 • ❤️ 586 • 5d ago
 
 ---
 
@@ -461,7 +445,19 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 4,547 • ❤️ 506 • 4h ago
+⬇️ 5,840 • ❤️ 512 • 10h ago
+
+---
+
+**[embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)**
+
+*Google*
+
+EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, video, and audio into a unified 768-dimensional vector space. It offers native multimodality, multilingual support, and flexible footprint for on-device applications like search and RAG.
+
+`feature-extraction` `744.4M`
+
+⬇️ 179,734 • ❤️ 2,786 • 14d ago
 
 ---
 
@@ -473,19 +469,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,039,447 • ❤️ 8,650 • 9d ago
-
----
-
-**[humanizer](https://huggingface.co/jialinyyzz/humanizer)**
-
-*Stephen Yu*
-
-A 12B parameter Gemma finetune for text generation, specifically designed to rewrite AI-generated content (emails, essays, reports) in English and Chinese to sound more human. It preserves key details like numbers and quotes, runs locally, and is optimized for various hardware with multiple GGUF quantizations.
-
-`text-generation` `12.0B`
-
-⬇️ 115,341 • ❤️ 2,029 • 6d ago
+⬇️ 2,057,942 • ❤️ 8,678 • 10d ago
 
 ---
 
@@ -497,7 +481,19 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 `text-to-image` `5.1B`
 
-⬇️ 3,558 • ❤️ 439 • 4h ago
+⬇️ 4,344 • ❤️ 447 • 10h ago
+
+---
+
+**[humanizer](https://huggingface.co/jialinyyzz/humanizer)**
+
+*Stephen Yu*
+
+A 12B parameter Gemma finetune for text generation, specifically designed to rewrite AI-generated content (emails, essays, reports) in English and Chinese to sound more human. It preserves key details like numbers and quotes, runs locally, and is optimized for various hardware with multiple GGUF quantizations.
+
+`text-generation` `12.0B`
+
+⬇️ 120,930 • ❤️ 2,041 • 6d ago
 
 ---
 
@@ -513,7 +509,7 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 115 • 💬 1 • ⭐ 15,448 • 12d ago
+▲ 116 • 💬 1 • ⭐ 15,448 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -539,7 +535,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 77 • 💬 3 • ⭐ 1,179 • 5d ago
+▲ 79 • 💬 3 • ⭐ 1,179 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
 
@@ -551,9 +547,23 @@ MOSS-Image is an open diffusion transformer that combines high-fidelity synthesi
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 153 • 💬 6 • ⭐ 112,393 • 22mo ago
+▲ 154 • 💬 6 • ⭐ 112,393 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
+
+🏢 Zhejiang University
+
+Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+
+▲ 117 • 💬 3 • ⭐ 1,957 • 15d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
 ---
 
@@ -579,23 +589,23 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise generation to accelerate diffusion language models while improving quality and reasoning performance.
 
-▲ 8 • 💬 2 • ⭐ 572 • 12d ago
+▲ 10 • 💬 2 • ⭐ 572 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14162) • [💻 code](https://github.com/HazyResearch/ncm) • [🔗 project](https://hazyresearch.stanford.edu/blog/2026-10-12-ncm)
 
 ---
 
-**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)**
+**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)**
 
-*Guangyi Liu, Yong Liu, Jiangning Zhang*
+*Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)*
 
-🏢 Zhejiang University
+🏢 StartLux
 
-Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
+StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
 
-▲ 117 • 💬 3 • ⭐ 1,685 • 15d ago
+▲ 22 • 💬 2 • ⭐ 1,052 • 9d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
+[🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
 
 ---
 
@@ -607,23 +617,9 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 GPT-6-Astra achieves high performance across diverse robotic tasks via in-context learning, yet real-world deployment reveals gaps in demonstration cost, execution time, and practical embodied intelligence.
 
-▲ 429 • 💬 2 • ⭐ 197 • 6d ago
+▲ 437 • 💬 2 • ⭐ 197 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22471) • [💻 code](https://github.com/OpenSenseNova/SenseNova-RoboRSI) • [🔗 project](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence)
-
----
-
-**[MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825)**
-
-*Zhiyu Li, Zeyu Zhang, Linyun Liu et al. (74 authors)*
-
-🏢 MemTensor
-
-MemT-1.0 introduces a memory-native architecture that embeds continuous memory into foundation model computation, improving long-context efficiency and agentic task performance.
-
-▲ 146 • 💬 3 • ⭐ 192 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.26825) • [💻 code](https://github.com/MemTensor/MemT-1.0) • [🔗 project](https://huggingface.co/collections/MemTensor/memt-1)
 
 ---
 
@@ -651,7 +647,7 @@ YuE2 unifies symbolic and audio music generation via symbolic planning, producin
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.3k • 🔱 2.0k • 2h ago
+⭐ 8.3k • 🔱 2.0k • 1h ago
 
 ---
 
@@ -661,7 +657,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 821 • 5d ago
+⭐ 5.8k • 🔱 825 • 5d ago
 
 ---
 
@@ -671,7 +667,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.7k • 🔱 962 • 14h ago
+⭐ 5.7k • 🔱 960 • 20h ago
 
 ---
 
@@ -681,7 +677,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 5.1k • 🔱 146 • 22h ago
+⭐ 5.1k • 🔱 145 • 4h ago
 
 ---
 
@@ -691,7 +687,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.1k • 🔱 277 • 20m ago
+⭐ 4.2k • 🔱 277 • 5h ago
 
 ---
 
@@ -701,7 +697,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.9k • 🔱 302 • 21h ago
+⭐ 3.9k • 🔱 302 • 1d ago
 
 ---
 
@@ -711,7 +707,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.8k • 🔱 151 • 11d ago
+⭐ 3.8k • 🔱 151 • 12d ago
 
 ---
 
@@ -721,7 +717,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.4k • 🔱 459 • 19h ago
+⭐ 3.5k • 🔱 461 • 2h ago
 
 ---
 
@@ -731,7 +727,7 @@ AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skil
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 64 • 13h ago
+⭐ 2.4k • 🔱 62 • 19h ago
 
 ---
 
@@ -741,7 +737,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 2.2k • 🔱 9 • 15h ago
+⭐ 2.2k • 🔱 9 • 21h ago
 
 ---
 
