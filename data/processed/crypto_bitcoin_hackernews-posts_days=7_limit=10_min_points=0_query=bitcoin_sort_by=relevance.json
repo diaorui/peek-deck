@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
+      "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50177770",
+      "author": "cybermango",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-10-21T08:48:21Z",
+      "object_id": "50177770",
+      "image": "https://s.yimg.com/lo/mysterio/api/83d6e0eb4b2f822cc9957d08b312c78d1abf2537301d6d6f39951c60b0b9cfa8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fded8e2cb76ab5f7257cd7f358a1ad147.jpg",
+      "description": "Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?",
+      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
+      "site_name": "Yahoo Tech"
+    },
+    {
       "title": "Strive Targets $500M Raise to Buy More Bitcoin",
       "url": "https://coinmarketcap.com/community/post/380133331/",
       "hn_url": "https://news.ycombinator.com/item?id=50096427",
@@ -89,7 +103,7 @@
       "site_name": "kitchin.org"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-10-21T06:21:04.865218+00:00"
+  "fetched_at": "2026-10-21T12:11:14.095237+00:00"
 }
