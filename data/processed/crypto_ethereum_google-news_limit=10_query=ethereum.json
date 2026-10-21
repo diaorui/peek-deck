@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
-      "pub_date": 1792393200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Kinexys Brings JPM Coin Deposit Token to Ethereum",
       "source": "J.P. Morgan",
       "source_url": "https://www.jpmorgan.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum",
       "image": "https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/treasury-services/redesign/newsroom/banner-newsroom_Coin-on-Ethereum.jpg",
       "description": "JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains."
+    },
+    {
+      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
+      "pub_date": 1792393200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum News: JPMorgan\u2019s JPM Coin and ETH Network Activity",
@@ -35,34 +35,24 @@
       "description": null
     },
     {
-      "headline": "TRON Is Earning More Than Ethereum and Solana Combined. Why Is TRX Worth So Much Less?",
+      "headline": "Ethereum Price Prediction: What Could ETH Be Worth by 2028?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMEw1MXhFRjNCUEE0QmFONWtCZ2hVeWVzLTNOcEE2Vl9sZEE2cmhzMXNRMHRRV194X19RR0xWRGw4clk1ampReFlTOEVQcllTb0EyeFhlb19pNVVfdEEwRThGaW93c0ZTcVlZV3hiYmxVR2NEVjEweW1tb0xRVmVqNWJNZGJXM2tQa29TQXlibTRnSkI4MjEyb1dmejdFdEk?oc=5",
-      "pub_date": 1792602014.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tron-earning-more-ethereum-solana-170014031.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7d830d3e10383d6f195edb065888548aa31b3a2e496e0934567765f078cfd542/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F739fc7a0e313c67175c159c1934b42b2.jpg",
-      "description": "TRON now generates more transaction fee revenue than Ethereum and Solana put together, yet TRX trades at a fraction of their prices. The reason why reveals something uncomfortable about what crypto markets actually reward."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVNhYmpxT2Iyd21mZjFpM1VRZDJaV3ZuTEU4bEQ1US13Vko0aHBwSXpGSkhHdU5sVzdETVhCa1p3RkZiNWQ2cU1La01id3F2bHdzMkg0R0FOSVpvclZXX2FoUk1XLXNiYzdQUjBxVXlLa1J4WDVIaEJrd3N5Sm5mY1VtMHBHQkR5QjZ4OGRncUlFckJFcHlaZzNJRnlDdU9PY2c?oc=5",
+      "pub_date": 1792614643.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-could-eth-203043704.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c2bbf33d3f2ee7e0bf95c2740a49df9cdfa84c62f5236c858f91e02390d706f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F069cb3861bc5df18b5a5f395a4be1345.jpg",
+      "description": "Ethereum sits more than 50% below its all-time high while JPMorgan moves onto its network, a major upgrade approaches, and ETF flows swing wildly. Whether ETH reclaims glory or revisits its June lows by 2028 depends on a fragile set of conditions finally falling into place."
     },
     {
-      "headline": "Ethereum Staking Hits Record High",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEhWT0NjLUFZYy1ZVHNkZEpNWll6Nml4REJZNnRvM1ktVnFSV3RsSGZCT1RhSUtlZVhkSUtsNHNZYXNUQ1pjN0t0S0IzMnBZenVZeE1VX2hwVURuZHB1UlJzVG5BYXo4MTZFUjZBNEs4Vk5mS1lUNVN6dHFBWi0tN2Y4SWVOTU00QUEwZ28tZFZxN2ZKZDVnR0hYTW5ydHM?oc=5",
-      "pub_date": 1792592820.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-hits-record-high-142700705.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cd11403e4402270d9c03bde5343af422f1413953e9b805e53ff9c260db185f91/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F76c93fe54c5364996884e3f035fdaa2e.jpg",
-      "description": "Ethereum (CRYPTO: $ETH) staking hit a record high in this year\u2019s third quarter."
-    },
-    {
-      "headline": "Current price of Ethereum for Oct. 21, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nZ2Z1TVk1bDV5cmRrS0hCOURvMm15bXR3aVc2R3E2TmNRaE95Y0RzbFZ6QXZqRTlWYXRZNWNyY1R4cHRkSWdTYldWajFuUVVNQXFRSFhYbU9EZmVXT1l1bVV2bTF3aU0x?oc=5",
-      "pub_date": 1792596860.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-21-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-21.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2ZvajVSUVJGdFo2Y2d1emZVeFphZDR4UHp6UWNzNkEtVTd1RzY2RmdOZ0V5V2ZWTTdyMlZhZ0sxM0Q4WDlObG1GTzJ1VlYydk5tNDZwREJKQnN1UUt4R3Vwd3VDM1RzelZxLWFDQ1hWUWZDcGJnVnhlNUxncDFnTFJjSTZYNU5yR3ZWT1E5RG1hVUNYNEpGbG5ENEFDaEc1NzJjOXdkRlFiZ1czM2tCbQ?oc=5",
+      "pub_date": 1792513860.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
+      "description": "Ethereum and Solana staking reached records in Q3, but yields fell as newly issued tokens continued to fund most rewards."
     },
     {
       "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
@@ -85,6 +75,16 @@
       "description": "A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor."
     },
     {
+      "headline": "Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTEyMWd4TlBRMkhyb1lIdzZCMW1pa0RGWHZKb29KajdSYk44dmdtU0tmSjVXRUstNWZLV1ZqaHlBQmFOU2FJVXR3RU9mYWFNS3Ata1FOc0JZNHYwRUpQOFFsSkdDUUFjallMM09YOVdNOXA0ZG1vdjJUVVZIMVNQVU5YUzRxenROSkM5YnB3dk5PenlMVEhBc2I2Zy1nbWpac0FKUEhaNzBMbGNUMmlHWlE5YTc2TTRaemVtelpfVGxJWEpIcUxZSnlpTS1BeVlMVHdkRnBR?oc=5",
+      "pub_date": 1792591593.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62497439/ethereum-will-benefit-most-from-3-trillion-stablecoin-boom-spark-ceo-predicts",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "XRP\u2019s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
@@ -95,16 +95,16 @@
       "description": "XRP ETFs ended a 13-week inflow streak as Bitcoin, Ethereum and Solana funds also recorded net withdrawals in the week ended October 16."
     },
     {
-      "headline": "Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTEyMWd4TlBRMkhyb1lIdzZCMW1pa0RGWHZKb29KajdSYk44dmdtU0tmSjVXRUstNWZLV1ZqaHlBQmFOU2FJVXR3RU9mYWFNS3Ata1FOc0JZNHYwRUpQOFFsSkdDUUFjallMM09YOVdNOXA0ZG1vdjJUVVZIMVNQVU5YUzRxenROSkM5YnB3dk5PenlMVEhBc2I2Zy1nbWpac0FKUEhaNzBMbGNUMmlHWlE5YTc2TTRaemVtelpfVGxJWEpIcUxZSnlpTS1BeVlMVHdkRnBR?oc=5",
-      "pub_date": 1792591593.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62497439/ethereum-will-benefit-most-from-3-trillion-stablecoin-boom-spark-ceo-predicts",
-      "image": null,
-      "description": null
+      "headline": "Current price of Ethereum for October 21, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nZ2Z1TVk1bDV5cmRrS0hCOURvMm15bXR3aVc2R3E2TmNRaE95Y0RzbFZ6QXZqRTlWYXRZNWNyY1R4cHRkSWdTYldWajFuUVVNQXFRSFhYbU9EZmVXT1l1bVV2bTF3aU0x?oc=5",
+      "pub_date": 1792584000.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-21-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-21.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T17:32:42.950993+00:00"
+  "fetched_at": "2026-10-21T21:19:51.221612+00:00"
 }

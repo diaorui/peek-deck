@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-21T17:32:44.880610+00:00'
+updated: '2026-10-21T21:20:06.413664+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 21, 2026 at 17:32 UTC  
+**Last Updated:** October 21, 2026 at 21:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rock
 
 HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 2d ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 3d ago
 
 ---
 
@@ -84,7 +84,7 @@ Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries t
 
 Who builds each part of a humanoid robot: 2,351 products from 788 organizations in 46 technology boxes, as of October 2026.
 
-🔗 [Airfold](https://www.airfold.co/humanoid-technology-map/) • 2d ago
+🔗 [Airfold](https://www.airfold.co/humanoid-technology-map/) • 3d ago
 
 ---
 
@@ -92,7 +92,7 @@ Who builds each part of a humanoid robot: 2,351 products from 788 organizations 
 
 Hi my name is deemco From saudi arabia Like u see the title I have proplem with my robot I’m running into some issues building my robot. As everyone knows, robots are divided into a cloud-based component and a physical one; let’s set the cloud part aside—the problem lies in the physical side. Actually, the truth is I don’t even know how to build a robot in the first place—but that’s not your problem! Anyway, I’m working on that. My specific issue right now is the connectivity—how do I get everything to come together so that, in the end, my robot functions as one perfectly orchestrated symphony? ,,, by the way my robot is so coplex! Its like the that dude hows follow the main character in sci-fi ! . Actually everything is expensive dunno why but if u have short list i would like to see it! [ i forgot to say but hes fly tipe of robots(use fly for something very imprortant) in my brain hes super intelegent and hes gonna be my companion and help me and a friendly tipe! Haha i feel exited !!] I think i gonna put motors and cameras and in the middle theres a screen and rasberri pi and a lot! But absolute dunno . How u guys past that proplem ? I enjoyed typing that !
 
-2d ago
+3d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi my name is deemco From saudi arabia Like u see the title I have proplem with 
 
 Drones are the next section Online tools that run sample by sample on a flight controller's data, on a Raspberry Pi or an NVIDIA Jetson next to it. This issue splits the work into small points. Pick one, say so in a comment, and open a PR. Every point has a question it answers, a data source and a way to check it, so a first contribution fits in an afternoon. How to take a point: comment "I take N", fork, work on a branch, open a PR that mentions this issue. One point per PR. Questions in the comments are welcome. Ground rules for every point - Each number on a page comes from a script of the repository that was run before the sentence was written. - Synthetic data are labelled "synthetic" everywhere they appear. - "Tested on a Raspberry Pi / a Jetson" is written only when the command ran on that board; otherwise "written, not run on the board". - Sources are the papers named below, with page numbers. ## Data and adapters **PX4 ULog reader.** Yield one dict per sample (time, gyro, accelerometer, GPS velocity, motor outputs, battery voltage) with `pyulog`. Check: a tiny ULog written by the test round-trips. **MAVLink tlog reader.** The same fields with `pymavlink`. Source: the MAVLink survey, arXiv:1906.10641 (Koubaa et al., IEEE Access 2019). **Synthetic flight generator.** Hover plus a circle, noise, one fault at a stated sample, labelled. The single source of data for tests and smoke runs. **ALFA loader.** Load the fixed-wing fault dataset (arXiv:1907.06268, Keipour et al., IJRR 2021; data DOI 10.1184/R1/12707963) and its ground-truth fault times. Check: the 47 processed flights load and the fault time of each is read. ## Pipelines (each answers one question) **Which part broke, and how many seconds after?** Residual of commanded against measured rate, a CUSUM detector with `reset_on_alarm=True`, a robust Mahalanobis score. Metrics: detection delay and alarm episodes per hour of normal flight. Data: ALFA (point 4). Related: Garg and Fan, arXiv:2309.09108. **Is the GPS telling the truth?** Online comparison of GPS velocity with the integrated IMU. Inject an offset ramp into normal flights and say so on the page. Motivation: SemperFi arXiv:2105.01860 and Kim et al. arXiv:2407.15003. **Is a propeller damaged?** Online spectrum of the gyro or accelerometer and a distance of the band energies from the healthy baseline. Related: Zhang et al., arXiv:2302.04410. **How many minutes of flight are left, and how sure are we?** Online fit of voltage against current and time with an interval; the remaining time as a distribution. Source for the energy model: Alyassi et al., arXiv:1703.10049. **Is the next move safe?** Distance to a geofence and to obstacles from the simulated lidar of `benchmarks/lidar_sim.py`, with the protection tools already in the library. **Where is the landing pad, and is the camera moving?** `GlobalMotion`, `MotionMask` and `FrameAnomaly` on synthetic frames of a pad. Metrics: pixel error against the planted position and time per frame at 640x360. **Is the radio link about to fail?** A drift detector on packet inter-arrival time and RSSI of a synthetic MQTT stream. **Static against online.** The same fault data with a scikit-learn batch model and the online one; median of 20 seeds, time per sample, memory. The page follows `docs/finance/static_vs_online.md`. ## Boards **Raspberry Pi to Pixhawk page.** Serial wiring, the PX4 parameters and the Pi settings, with each step checked against the PX4 documentation page (https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html). Mark every step you ran yourself. **Jetson power modes page.** The `nvpmodel` modes of each Orin module and the time per sample of a pipeline in each mode, measured on the board you own. **`edge_bench.py`.** Time per sample (median and interquartile range), 99th percentile, resident memory and CPU temperature for each pipeline on a given board, written to a JSON file named after the host. Include your board model in the file name. Results from a board you own are the most valuable contribution here. **Dockerfiles for arm64 and Jetson, `install.sh`, a systemd unit and an MQTT bridge** publishing the score and the alarm episodes. Base image names come from the vendor documentation, with the URL. ## Also open **ArduPilot.** The same adapters against an ArduPilot log, with the differences written down. **A flight log of your own.** Run a pipeline on a log from your drone and tell us what it found, as a comment or a page. **Spotted something in the plan?** A missing pipeline, a better source paper, a wrong sentence. Open a comment and it becomes a numbered point. A new contributor can start with point 3, 13 or 18. The folder with the instructions, rules and papers is kept by the maintainer; ask here if you want a copy. ## Papers to read (one per area) - **MAVLink, the protocol every point 1-2 and 16 talks to:** A. Koubaa et al., "Micro Air Vehicle Link (MAVLink) in a Nutshell: A Survey", IEEE Access 2019, arXiv:1906.10641. - **Fault data and metrics (points 4-5):** A. Keipour, M. Mousaei, S. Scherer, "ALFA: A Dataset for UAV Fault and Anomaly Detection", IJRR 2021, arXiv:1907.06268. - **Actuator faults (point 5):** K. Garg, C. Fan, "Neural Network-based Fault Detection and Identification for Quadrotors using Dynamic Symmetry", arXiv:2309.09108. - **GPS and state-estimator attacks (point 6):** H. Sathaye et al., "SemperFi: A Spoofer Eliminating GPS Receiver for UAVs", arXiv:2105.01860; K. H. Kim et al., "Predictable by Design, Vulnerable by Nature: Security Consequences of Learnability in UAV State Estimators", arXiv:2407.15003. - **Propeller faults (point 7):** W. Zhang et al., "Simulation-to-reality UAV Fault Diagnosis with Deep Learning", arXiv:2302.04410. - **Battery and energy (point 8):** R. Alyassi et al., "Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones", IEEE T-ASE 2023, arXiv:1703.10049. - **Boards (points 13-16):** PX4 documentation, "Companion Computers", https://docs.px4.io/main/en/companion\_computer/ and "Raspberry Pi to Pixhawk", https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html; NVIDIA Jetson Orin power modes, https://docs.nvidia.com/jetson/archives/r36.4/DeveloperGuide/SD/PlatformPowerAndPerformance/JetsonOrinNanoSeriesJetsonOrinNxSeriesAndJetsonAgxOrinSeries.html. Know a better paper for one of these areas? Add it in a comment with the arXiv number. link : https://github.com/tatopenn-cell/Dense-Evolution-Discovery/issues/266
 
-2d ago
+3d ago
 
 ---
 
@@ -108,7 +108,7 @@ Drones are the next section Online tools that run sample by sample on a flight c
 
 Hi everyone! Not sure if this is the right flair or subreddit for this inquiry but I am trying my luck! Looking for a collaboration with someone who has made a fully functioning robotics machine (example: like the mars rover or something in that general field) that they would like to showcase next year. CONTEXT: I am hosting a NYFW show in NYC next year showcasing my cyber/steampunk space inspired collection. I would like to showcase and collaborate with someone who would like to share their work on a stage. I am no where near well versed to make and create my own robotics, so I was hoping someone would be open to connecting the bridge of couture (high fashion) and science with me. It would be a demonstration on the catwalk or simply stationary in the middle while the audience could see the functions in person. The models would maneuver around the displayed robotics making sure your work is also being carefully considered and safe. i’m happy to share concepts (think dystopian, commentary on space tourism and the implications of it and what that looks like for the future, etc) and the collection or any other context privately. if this is something you or someone you know would be interested in please comment or message me! If there is a better sub to post this I would be grateful for the recs! Thank you!!
 
-2d ago
+3d ago
 
 ---
 
@@ -120,15 +120,15 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
 
-NVIDIA Newsroom • 7h ago
+NVIDIA Newsroom • 10h ago
 
 ---
 
-**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
 
-Agility Robotics’ first practical robotic worker is nothing like I dreamed
+They're still a long way off from mass-producing Terminators.
 
-IEEE Spectrum • 2d ago
+Defense News • 2d ago
 
 ---
 
@@ -148,11 +148,37 @@ TechCrunch • 1d ago
 
 ---
 
+**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
+
+Reuters • 4h ago
+
+---
+
+**[Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'](https://www.bizjournals.com/seattle/news/2026/10/20/carbon-robotics-layoffs-agriculture-tech-laser.html)**
+
+The Business Journals • 17h ago
+
+---
+
 **[Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.](https://www.businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10)**
 
 Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly.
 
-Business Insider • 8h ago
+Business Insider • 12h ago
+
+---
+
+**[What's unique about Gecko Robotics' contracts with Nvidia & the US Navy: CEO](https://finance.yahoo.com/video/whats-unique-gecko-robotics-contracts-120000507.html)**
+
+Gecko Robotics CEO, Jake Loosararian, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to discuss the company's expansion and how its contracts with the US Navy and Nvidia (NVDA) factor in.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
+
+SpaceNews • 9h ago
 
 ---
 
@@ -160,37 +186,7 @@ Business Insider • 8h ago
 
 A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.
 
-Binghamton University • 22h ago
-
----
-
-**[US Navy, Gecko Robotics surge AI maintenance contract to $300M](https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/)**
-
-Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.
-
-Defense News • 1d ago
-
----
-
-**[Delivery Robots Accused of Scanning Customer Faces, Sharing Biometrics, Chicago Residents Are Suing for Privacy Violations](https://www.yahoo.com/news/us/articles/delivery-robots-accused-scanning-customer-155948934.html)**
-
-Delivery robot lawsuits in Cook County allege Coco and Serve Robotics scanned customer faces without consent, violating Illinois biometric privacy law.
-
-Yahoo • 1h ago
-
----
-
-**[Delivery Robots Are Watching You, According to Lawsuit](https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417)**
-
-Gizmodo • 20h ago
-
----
-
-**[Lawsuits claim food delivery robots collect biometric data without consent](https://abc13.com/story/lawsuits-claim-food-delivery-robots-collect-biometric-data-consent/19964380/)**
-
-The lawsuit alleges that the robots use technology that scans faces, hands and bodies of people, both customers and others who just happen to be on the sidewalk.
-
-ABC13 Houston • 4h ago
+Binghamton University • 1d ago
 
 ---
 
@@ -204,7 +200,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 128K • 👍 2K • 💬 225 • ⏱️ 20:32 • 3d ago
+👁️ 130K • 👍 2K • 💬 226 • ⏱️ 20:32 • 3d ago
 
 ---
 
@@ -214,17 +210,7 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 26K • 👍 416 • 💬 44 • ⏱️ 13:57 • 17h ago
-
----
-
-**[Tesla Reveals Major New Optimus Robot Update](https://www.youtube.com/watch?v=oy8mzP_y2H4)**
-
-Remove your personal information online with Delete Me using my link https://joindeleteme.com/TESLASPACE20 - And enter ...
-
-📺 The Tesla Space
-
-👁️ 94K • 👍 3K • 💬 154 • ⏱️ 13:59 • 6d ago
+👁️ 32K • 👍 469 • 💬 53 • ⏱️ 13:57 • 21h ago
 
 ---
 
@@ -234,17 +220,17 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 162K • 👍 1K • 💬 475 • ⏱️ 4:07 • 4d ago
+👁️ 165K • 👍 1K • 💬 486 • ⏱️ 4:07 • 4d ago
 
 ---
 
-**[Stop Making These 2 Huge Mistakes With Your Robot Builds! – War Robots](https://www.youtube.com/watch?v=OGt__jMYLkk)**
+**[Unitree H2-X Is Wild. But Would You Trust It?](https://www.youtube.com/watch?v=T1MPyua3tPg)**
 
-A lot of players think having a maxed-out MK3 bot with maxed-out weapons makes you completely unbeatable. But… if your ...
+Unitree's H2-X kicks a dent into a car and lifts the front of one in a staged rescue. I'm impressed—but physical strength is not proof ...
 
-📺 Adrian Chong
+📺 Bytes & Bets
 
-👁️ 2K • 👍 152 • 💬 99 • ⏱️ 18:55 • 4h ago
+👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:31 • 3h ago
 
 ---
 
@@ -254,7 +240,7 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 86K • 👍 750 • 💬 41 • ⏱️ 9:03 • 2d ago
+👁️ 88K • 👍 760 • 💬 42 • ⏱️ 9:03 • 3d ago
 
 ---
 
@@ -264,25 +250,27 @@ Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 📺 Jamel_AKA_Jamal
 
-👁️ 113K • 👍 3K • 💬 730 • ⏱️ 13:05 • 2d ago
+👁️ 114K • 👍 3K • 💬 732 • ⏱️ 13:05 • 2d ago
 
 ---
 
-**[🧹$60 to Have Two Robots Clean Your House?](https://www.youtube.com/watch?v=FPI0PZA9mxE)**
+**[Meet Unitree’s H2X  The Humanoid Robot That Can Fight and Rescue](https://www.youtube.com/watch?v=V0HZbO5zi60)**
 
-Would you pay $60 to have two humanoid robots clean your home? Meet Sergey, a humanoid robot working for Tau Robotics, ...
+Unitree's new H2-X Kung Fu Legend Guardian humanoid robot demonstrates powerful kicks, impressive jumps, and incredible ...
 
-📺 BI️ Studio of Emotional Intelligence 
+📺 DPCcars
 
-👁️ 1K • 👍 26 • 💬 7 • ⏱️ 0:54 • 13h ago
+👁️ 2K • 👍 18 • 💬 5 • ⏱️ 0:33 • 7h ago
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+**[Robot Jumps Completely Off The Floor](https://www.youtube.com/watch?v=OdhJlO5tWbs)**
 
-📺 Big Duke13
+Basketball robot relies on complex motion control and AI algorithms to calculate distance, angle, and release point for dead-center ...
 
-👁️ 401K • 👍 13K • 💬 1K • ⏱️ 2:35 • 4d ago
+📺 System Spun
+
+👁️ 2K • 👍 15 • ⏱️ 0:07 • 2h ago
 
 ---
 
@@ -292,7 +280,15 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 69K • 👍 638 • 💬 89 • ⏱️ 8:52 • 4d ago
+👁️ 75K • 👍 681 • 💬 109 • ⏱️ 8:52 • 5d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 406K • 👍 13K • 💬 1K • ⏱️ 2:35 • 5d ago
 
 ---
 
