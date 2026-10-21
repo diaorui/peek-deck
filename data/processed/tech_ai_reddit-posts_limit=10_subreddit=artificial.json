@@ -13,17 +13,6 @@
       "description": "Elon Musk disclosed that Tesla and SpaceX have formed independent board committees to explore a merger that would create a roughly $3.5 trillion\u2026"
     },
     {
-      "title": "New York City wants to fine companies that trap you in AI chatbot \u2018doom loops\u2019",
-      "author": "ross2000",
-      "url": "https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/",
-      "published": 1792538260.0,
-      "thumbnail": "https://external-preview.redd.it/dF3xwFGRNeXM1RtoMLMzfrhNYQso-oqFIpmj0b9lfYs.jpeg?width=640&crop=smart&auto=webp&s=d74c666aa02583348f806b093b47934c22c1be49",
-      "external_url": "https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/",
-      "site_name": "MadRobot",
-      "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
-      "description": "Seems like a good idea. Didn\u2019t know it was called a \u2018doom loop\u2019 but hate calling customer services and being stuck with an AI agent."
-    },
-    {
       "title": "How many \"unexploitable\" bugs are about to become exploitable?",
       "author": "Haunting_Ganache_850",
       "url": "https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/",
@@ -46,6 +35,61 @@
       "description": "Anthropic's Claude autonomously generated 318,484 protein binder designs targeting five scorpion neurotoxins; 17 of 211 lab-tested candidates met binding\u2026"
     },
     {
+      "title": "New York City wants to fine companies that trap you in AI chatbot \u2018doom loops\u2019",
+      "author": "ross2000",
+      "url": "https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/",
+      "published": 1792538260.0,
+      "thumbnail": "https://external-preview.redd.it/dF3xwFGRNeXM1RtoMLMzfrhNYQso-oqFIpmj0b9lfYs.jpeg?width=640&crop=smart&auto=webp&s=d74c666aa02583348f806b093b47934c22c1be49",
+      "external_url": "https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/",
+      "site_name": "MadRobot",
+      "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
+      "description": "Seems like a good idea. Didn\u2019t know it was called a \u2018doom loop\u2019 but hate calling customer services and being stuck with an AI agent."
+    },
+    {
+      "title": "AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/",
+      "published": 1792598693.0,
+      "thumbnail": "https://external-preview.redd.it/Nze_vssRbHCNBXRs12ZcNoHQsVGmWVkneIk9CDeJcdY.jpeg?width=640&crop=smart&auto=webp&s=842b2eab5834a66f3daf110ef85fdab0581d007b",
+      "external_url": "http://vectorwire.ai/article/ai-assisted-php2shell-exploit-chain-hits-php-runtime-forces-coordinated-defense--551a20",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Two critical PHP vulnerabilities, exploitable via AI-augmented research, force coordinated disclosure and Cloudflare WAF deployment nine hours before\u2026"
+    },
+    {
+      "title": "3 things you should do with your AI to save $$$ before booking a hotel",
+      "author": "Calm_Cartographer324",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/",
+      "published": 1792604875.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hotel pages are built to make the choice feel simple, but the data behind them isn't. I pulled a lot of live hotel rates and these are the 3 checks that mattered most. It is incredibly frustrating to do them by hand, so have the AI do them. Have it put the free cancellation dates side by side. At the ILUNION in Barcelona the same twin room was 135 with free cancellation until the 8th, and 185 with free cancellation only until the 6th. So the later date wasn't more expensive, it was 50 less. You only see that when the offers sit next to each other, and having 6 different tabs makes it seem complicated. So have AI list every offer for the same room with its cancel date. Have it tell you how many REAL rooms there are, not how many listings. At one hotel in Warsaw (Nobu) I got 48 rates, and they were really 7 rooms with different names and deals. Comparing by hand you think you have 48 choices. But there actually aren't 48, but a lot less. So have it group the offers by bed, size and view, and to only show the best one per room. Have it give you one total for the whole stay, with every tax and fee in. When I looked at 2,702 hotel rates in Marrakesh, 45% had a fee you pay at the hotel on top of what you paid online, and for the same hotel one site showed the city tax and another didn't. So have it add everything up and tell you what the total is for the stay, not the per night number. One honest limit though: it's only as good as the data it can see. If it can't search live offers, it will only guess. so I tell it to say \"I'm not sure\" instead of making up a number if it's not sure about something. To get live hotel data, a normal chat can't search across sites by default, so use it with any connectors. Best is to use Claude because the directory has a lot of them. Some of the best ones are these: Booking.com: https://claude.ai/directory/booking Tripadvisor: https://claude.ai/directory/tripadvisor LetsFG: https://claude.ai/directory/letsfg Enjoy :) and if you have other things you check on a hotel before you pay, drop them in the comments."
+    },
+    {
+      "title": "Daily Driver Use As a Professor",
+      "author": "Leading-Air-7120",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/",
+      "published": 1792617542.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been using OpenAI/ChatGPT for the past 3 years and I have quite enjoyed it. With Gemini's Argon being released, I have decided to try it and honestly I have been impressed. The only thing that is really bugging me is the usage rate of Argon. I feel like I use 6 prompts and I have used all 5 hours. I use ChatGPT/Codex for my vibe coding \"needs\" and it is exceptional. I want to save my usage for those tasks. Is using Gemini Flash 3.8 going to give me similar results for creating test questions, making PowerPoint slides, etc. I go through all of them, ensure that I agree with the outputs but I want a model that is wrong less of the time. Is Flash 3.8 good enough, or should I stick to something like GPT 6?"
+    },
+    {
+      "title": "have you ever wanted to know how llms are made from scratch?",
+      "author": "krazybionic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbz9a3/have_you_ever_wanted_to_know_how_llms_are_made/",
+      "published": 1792616358.0,
+      "thumbnail": "https://preview.redd.it/6a5jni6rwvwh1.png?width=140&height=91&auto=webp&s=6fd5d954425405018ac16c303f4743111515bb5e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "if yes, i built something for y'all try now \u2192 insideout.sh https://preview.redd.it/6a5jni6rwvwh1.png?width=1080&format=png&auto=webp&s=a696debf27138b89afd1bc32e99b9f79e28ab5a2"
+    },
+    {
       "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
       "author": "IndependentCoast3974",
       "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
@@ -66,51 +110,7 @@
       "site_name": "digitaltrends.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own \u2014 AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/",
-      "published": 1792498690.0,
-      "thumbnail": "https://external-preview.redd.it/FQkv0M7N_yFSpIi607i96So1J1YAfsh14IUrSJpan-8.png?width=640&crop=smart&auto=webp&s=82e5c4d0fd1b4c3bd49a15b7329dfe852c440e34",
-      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1788249/apple-touch-icon.png",
-      "description": "About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals."
-    },
-    {
-      "title": "Some thoughts after watching a documentary about AI...",
-      "author": "8aiMeansLOVE",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbjtj5/some_thoughts_after_watching_a_documentary_about/",
-      "published": 1792579578.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Recently, I watched the documentary Instadocs: AI Gone Wild, and it really got me thinking about something. I mean, AI is literally trained on all human knowledge and history, including books, images, data, and everything else. And let's be real, throughout human and biological evolution, things like deception, conflict, forming alliances, and doing whatever it takes to survive have always been normal parts of the process. Since AI agents are built to mimic humans and are loaded with all that messy history, if they get stuck and can't reach a goal, wouldn't resorting to any means necessary kind of make sense? Laws are a human invention after all, and nature doesn't care about rules. What do you guys think?"
-    },
-    {
-      "title": "What's a task you refuse to hand over to AI, even if it could do it well?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbg6nj/whats_a_task_you_refuse_to_hand_over_to_ai_even/",
-      "published": 1792566090.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What's your reason? For me its art."
-    },
-    {
-      "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
-      "published": 1792505665.0,
-      "thumbnail": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
-      "external_url": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from..."
     }
   ],
-  "fetched_at": "2026-10-21T17:32:09.642321+00:00"
+  "fetched_at": "2026-10-21T21:19:32.899878+00:00"
 }
