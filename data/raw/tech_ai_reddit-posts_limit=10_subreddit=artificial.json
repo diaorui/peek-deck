@@ -24,6 +24,17 @@
       "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct."
     },
     {
+      "title": "Anthropic's Claude autonomously designs protein binders targeting scorpion neurotoxins",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbks11/anthropics_claude_autonomously_designs_protein/",
+      "published": 1792582703.0,
+      "thumbnail": "https://external-preview.redd.it/EisJbMpisPACKfa8yyu5kZ1bgQh_rD4LXkO7VKJ_Xxg.jpeg?width=640&crop=smart&auto=webp&s=c90cc20c4db7fe5702ca0834c71c8edd9cf45ff7",
+      "external_url": "http://vectorwire.ai/article/anthropic-s-claude-autonomously-designs-protein-binders-targeting-scorpion-neuro-e2db97",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Anthropic's Claude autonomously generated 318,484 protein binder designs targeting five scorpion neurotoxins; 17 of 211 lab-tested candidates met binding\u2026"
+    },
+    {
       "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own \u2014 AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/",
@@ -33,17 +44,6 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1788249/apple-touch-icon.png",
       "description": "About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals."
-    },
-    {
-      "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
-      "published": 1792505665.0,
-      "thumbnail": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
-      "external_url": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from..."
     },
     {
       "title": "Spotify is cracking down on Family plans again, and the penalty can lock you out for a year",
@@ -57,60 +57,60 @@
       "description": null
     },
     {
-      "title": "Hugging Face CEO calls Netflix hacking doc 'sci-fi'",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/",
-      "published": 1792529150.0,
-      "thumbnail": "https://external-preview.redd.it/XW11qKS5EGcy9bvCwXV3R_e27JGiigjK0baAXzob_fQ.jpeg?width=640&crop=smart&auto=webp&s=516dc1c3ad8c9d0f2d632f22d6aa330e7b3d67ca",
-      "external_url": "https://www.linkedin.com/posts/clementdelangue_just-watched-the-netflix-instadocs-about-share-7518300071432441856-JQp-/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.\n\nI spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.\n\nAlso, they didn\u2019t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.\n\nAnyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn"
+      "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
+      "published": 1792505665.0,
+      "thumbnail": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
+      "external_url": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from..."
     },
     {
-      "title": "please tell me there is some entirely physical requirement to launch nukes",
-      "author": "Doredrin",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbf9n5/please_tell_me_there_is_some_entirely_physical/",
-      "published": 1792562727.0,
+      "title": "What's a task you refuse to hand over to AI, even if it could do it well?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbg6nj/whats_a_task_you_refuse_to_hand_over_to_ai_even/",
+      "published": 1792566090.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A hose that needs to be screwed in, a crank that needs to be turned, something requiring actual physical input at launch sites completely outside of any electronic system whatsoever. I'm not concerned about the \"AI will literally kill us all\" thing, but it does cause me some anxiety about a few things. This goes not just for AI, but for cyberattacks as well. As anyone with a basic understanding of cybersecurity should know. \"it's disconnected from the internet\" or \"it's on it's own secure network\" or even \"it can't physically access the internet\" is not good enough in extremely high stakes situations. You can theoretically hack anything with an electronic component."
+      "description": "What's your reason? For me its art."
     },
     {
-      "title": "OpenAI acquires Orchestra Bio, folds drug-development agents into Rosalind",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbcka3/openai_acquires_orchestra_bio_folds/",
-      "published": 1792553573.0,
-      "thumbnail": "https://external-preview.redd.it/7wNgwLC73uBqfkc7rgcu-ZqPZn0zSRBSEo-0YCELNIY.jpeg?width=640&crop=smart&auto=webp&s=a33457725bc7c14caec3702ab8ac5e2c1c663d7e",
-      "external_url": "http://vectorwire.ai/article/openai-acquires-orchestra-bio-folds-drug-development-agents-into-rosalind-452a7b",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "OpenAI acquired Orchestra Bio, a startup that built AI agents for drug development, integrating its team and technology into the Rosalind life sciences\u2026"
-    },
-    {
-      "title": "LLM Memory: 5 Approaches to Handling New Information",
-      "author": "LimeOptimal539",
-      "url": "https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/",
-      "published": 1792511221.0,
-      "thumbnail": "https://preview.redd.it/ssdwe70x7nwh1.png?width=640&crop=smart&auto=webp&s=370bfc6a9d26e0aef40c175b6993ac3fe8dc1cf0",
+      "title": "EvoMusArt 2027: International Conference on Artificial Intelligence in Music, Sound, Art and Design",
+      "author": "evomusart_conference",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbih7a/evomusart_2027_international_conference_on/",
+      "published": 1792574802.0,
+      "thumbnail": "https://preview.redd.it/tu5atwh4hswh1.jpeg?width=640&crop=smart&auto=webp&s=a69e89a097863a6166520e0daaea686f0284d8d1",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of \u201cmemory layer\u201d which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state. The table groups approaches into five categories: Store more: keep explicit history, as with KV caches and retrieval/RAG. Old and new information can coexist, leaving the system to resolve which applies at read/retrieval time. Compress: fold history into a fixed-size state, as with linear attention, RetNet, and Mamba. This saves space, but stored associations can interfere, limiting recall abilities as context grows. Correct: control what changes through gates or prediction-error updates, as with gated linear attention, mLSTM, and DeltaNet. Typically more efficient than simple \u201ccompress\u201d, but also has a hard time scaling with larger contexts. Learn at inference: update mutable parameters using incoming evidence, as with TTT and Titans. Distribute plasticity: spread changes across interacting parts of the state, as with Dragon Hatchling (BDH). Memory lives in high-dimensional space, being sparse and distributed. One example that can make this easier for me to understand is a coding agent that learns a function signature has changed. Keeping both the old and new definitions means it has retained the information but it still needs to determine which definition should govern its next call. It becomes inefficient at reading time. I\u2019m skeptical if the categories belong at the same level of comparison. Some describe model-level mechanisms, while others describe system-level designs. Curious how people here think about this, particularly those who've built memory systems for your own agents. When something becomes outdated, do you update the memory right away or keep the history and let the model figure it out during retrieval? Wondering which approach actually works better as the amount of information grows. Table and framework: R. Vimalkanth and T. Chudiwal, IIT Madras, \u201cThe Missing Piece in LLM Memory: Why Long Context and Retrieval Aren\u2019t Enough for Belief Revision,\u201d a HF community article."
+      "description": "The 16th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMusArt 2027) is accepting paper submissions. When: 31 March \u2013 2 April 2027 Where: Mainz, Germany Paper Submission deadline: 1 November 2026 EvoMUSART focuses on AI and computational approaches to creativity, covering a broad range of topics, with a particular emphasis on research exploring how AI systems generate, support, evaluate, interpret, and collaborate in creative processes. Accepted papers will be presented at the conference and published in a dedicated LNCS volume. More information/submission details: https://www.evostar.org/2027/evomusart/ If you are working at the intersection of AI and creative practice, this may be relevant to your research. Please share with others who might be interested."
     },
     {
-      "title": "Discover AI - A Teaching & Learning Guide - 51 hands-on labs for learning how AI actually works.",
-      "author": "Zipidyzip",
-      "url": "https://www.reddit.com/r/artificial/comments/1xba832/discover_ai_a_teaching_learning_guide_51_handson/",
-      "published": 1792546572.0,
-      "thumbnail": "https://external-preview.redd.it/ZXhoaXJpYTg0cXdoMeuxUpaulfbad8JbVv-d5Tnl9i1PqODW-FMOYGOA-CYv.png?width=640&crop=smart&auto=webp&s=730be05d8ec104d670cc4cdc86f8d62624538fed",
+      "title": "Week of Oct 12\u201316, 2026: open-weight releases from Meta/Nvidia, GPT-4 API shutdown date, enterprise cost caps, and regulatory probes",
+      "author": "ksraj1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbkezt/week_of_oct_1216_2026_openweight_releases_from/",
+      "published": 1792581528.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "This is a learning resource about how artificial intelligence works, broken down into its component parts. Understand each one, then put them together to create your own. You learn by trying, not just by reading, from the required math to training a model and the text comes in three reading levels. A bit of insight - 51 labs in 6 groups, from the basics (what a neuron is, gradient descent) through attention, RAG, agents, fine-tuning, quantization, serving, and more - Each lab has a short lesson beside it, readable in Plain or Standard mode - Every lesson in Discover AI now comes in three reading levels, Simple (short sentences and everyday comparisons), Plain (everyday words) and Standard (the proper technical terms) - Some of it actually runs rather than just animating: - The attention lab runs a small trained transformer (1.37M params) inside the app - The training labs train a tiny character-level model live as you move the sliders - Works offline: no account, no telemetry The topics were hand-selected, background research was conducted, and the structure and grouping were developed. AI was used for research, and all sources have been verified. There may be mistakes, so please report any you spot or open a PR. If you teach this or work in a specialized area of AI, I would love your help expanding it whether through a new interactive lab, a better visualization, or a tweak that makes the cause and effect in an existing lab clearer. I'd also like to hear which labs are confusing and what's missing. If you're a learner, please let us know if there's a specific topic or concept that would help you better understand AI. Thank you! GitHub: https://github.com/Fazmin/AILearningGuide"
+      "description": "Roundup of what I found this week. Caveat: much of this is via news aggregators citing Reuters/Bloomberg/The Information, so some items are second-hand. Open weights Meta's Muse Spark Open: MoE, 816B total / 42B active, 1M context; reportedly runs on 2\u20134 M5 Ultra Mac Studios via MLX. Nvidia Nemotron 3.5 Super VL: 120B total / 12B active, 1M context, claims up to 5x throughput (vendor claim). Black Forest Labs FLUX 3 Image Klein: 5.6B, free commercial use under $5M revenue. Microsoft's MAI-Base-2 (2.8T/80B active) is not open; trusted partners via Foundry. Cost / platform Accenture reportedly capped centrally funded Claude at $29/month/employee after some spent $500\u2013$1,000. OpenAI: GPT-4o, 4o mini, 4.1, 4.1 mini removed from the API Jan 14, 2027 (per OpenAI release notes as aggregated by Releasebot). Policy FTC civil investigative demands to OpenAI and Anthropic over safety incidents (Axios, via aggregator); EU AI Office's first AI Act probes. My take as someone building on top of these APIs: the deprecation timeline is the thing that actually costs me engineering time. Six months is fine if you have evals; painful if you don't. I'm also skeptical of \"runs on a Mac Studio\" headlines until I see sustained throughput numbers at long context. Open weights are attractive for data-sensitive clients, but I'd want to see real total cost including ops before calling it cheaper. Curious what others are seeing on migration effort off the GPT-4 family."
+    },
+    {
+      "title": "Some thoughts after watching a documentary about AI...",
+      "author": "8aiMeansLOVE",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbjtj5/some_thoughts_after_watching_a_documentary_about/",
+      "published": 1792579578.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recently, I watched the documentary Instadocs: AI Gone Wild, and it really got me thinking about something. I mean, AI is literally trained on all human knowledge and history, including books, images, data, and everything else. And let's be real, throughout human and biological evolution, things like deception, conflict, forming alliances, and doing whatever it takes to survive have always been normal parts of the process. Since AI agents are built to mimic humans and are loaded with all that messy history, if they get stuck and can't reach a goal, wouldn't resorting to any means necessary kind of make sense? Laws are a human invention after all, and nature doesn't care about rules. What do you guys think?"
     }
   ],
-  "fetched_at": "2026-10-21T06:21:04.566339+00:00"
+  "fetched_at": "2026-10-21T12:11:12.609127+00:00"
 }
