@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-20T22:58:06.241669+00:00'
+updated: '2026-10-21T01:25:44.327792+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 20, 2026 at 22:58 UTC  
+**Last Updated:** October 21, 2026 at 01:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct.
 
-🔗 [HEIST](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) • 8h ago
+🔗 [HEIST](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) • 11h ago
+
+---
+
+**[New York City wants to fine companies that trap you in AI chatbot ‘doom loops’](https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/)**
+
+Seems like a good idea. Didn’t know it was called a ‘doom loop’ but hate calling customer services and being stuck with an AI agent.
+
+🔗 [MadRobot](https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/) • 2h ago
 
 ---
 
@@ -49,7 +57,7 @@ Hackers have published 281 GB of AfD emails as AI summaries, showing widespread 
 
 Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from...
 
-🔗 [TechSpot](https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html) • 8h ago
+🔗 [TechSpot](https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html) • 11h ago
 
 ---
 
@@ -57,13 +65,13 @@ Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenbe
 
 About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens) • 10h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens) • 13h ago
 
 ---
 
 **[Spotify is cracking down on Family plans again, and the penalty can lock you out for a year](https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/)**
 
-🔗 [digitaltrends.com](https://www.digitaltrends.com/home-theater/spotify-is-cracking-down-on-family-plans-again-and-the-penalty-can-lock-you-out-for-a-year/) • 45m ago
+🔗 [digitaltrends.com](https://www.digitaltrends.com/home-theater/spotify-is-cracking-down-on-family-plans-again-and-the-penalty-can-lock-you-out-for-a-year/) • 3h ago
 
 ---
 
@@ -71,7 +79,21 @@ About half the run was spent fighting the dragon, solved by stacking dirt to rea
 
 Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of “memory layer” which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state. The table groups approaches into five categories: Store more: keep explicit history, as with KV caches and retrieval/RAG. Old and new information can coexist, leaving the system to resolve which applies at read/retrieval time. Compress: fold history into a fixed-size state, as with linear attention, RetNet, and Mamba. This saves space, but stored associations can interfere, limiting recall abilities as context grows. Correct: control what changes through gates or prediction-error updates, as with gated linear attention, mLSTM, and DeltaNet. Typically more efficient than simple “compress”, but also has a hard time scaling with larger contexts. Learn at inference: update mutable parameters using incoming evidence, as with TTT and Titans. Distribute plasticity: spread changes across interacting parts of the state, as with Dragon Hatchling (BDH). Memory lives in high-dimensional space, being sparse and distributed. One example that can make this easier for me to understand is a coding agent that learns a function signature has changed. Keeping both the old and new definitions means it has retained the information but it still needs to determine which definition should govern its next call. It becomes inefficient at reading time. I’m skeptical if the categories belong at the same level of comparison. Some describe model-level mechanisms, while others describe system-level designs. Curious how people here think about this, particularly those who've built memory systems for your own agents. When something becomes outdated, do you update the memory right away or keep the history and let the model figure it out during retrieval? Wondering which approach actually works better as the amount of information grows. Table and framework: R. Vimalkanth and T. Chudiwal, IIT Madras, “The Missing Piece in LLM Memory: Why Long Context and Retrieval Aren’t Enough for Belief Revision,” a HF community article.
 
-7h ago
+9h ago
+
+---
+
+**[Hugging Face CEO calls Netflix hacking doc 'sci-fi'](https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/)**
+
+Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.
+
+I spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.
+
+Also, they didn’t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.
+
+Anyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn
+
+🔗 [LinkedIn](https://www.linkedin.com/posts/clementdelangue_just-watched-the-netflix-instadocs-about-share-7518300071432441856-JQp-/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 4h ago
 
 ---
 
@@ -79,7 +101,7 @@ Came across this article on HuggingFace around LLM memory. It goes beyond the co
 
 ‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests) • 18h ago
 
 ---
 
@@ -99,97 +121,75 @@ Further attempts to reduce reliance on US infrastructure
 
 ---
 
-**[Meta&#039;s smart glasses were recording conversations without the wake phrase, company admits](https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/)**
-
-A redditor recently wrote that they'd noticed something concerning with Meta's Ray-Ban glasses: they were capturing conversations when they were talking to other people despite the "Hey...
-
-🔗 [TechSpot](https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html) • 16h ago
-
----
-
-**[Hugging Face CEO calls Netflix hacking doc 'sci-fi'](https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/)**
-
-Just watched the Netflix Instadocs about the OpenAI cyberattack on Hugging Face. Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode.
-
-I spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.
-
-Also, they didn’t mention the lack of containment and monitoring of the agents, how closed-model safeguards blocked our defensive work, or how we defended ourselves with AI using an open model. And that we still lack a lot of information and transparency, including full agent traces and that companies need to remain accountable for what their agents do.
-
-Anyway, it ends up being a fun sci-fi movie though! | 282 comments on LinkedIn
-
-🔗 [LinkedIn](https://www.linkedin.com/posts/clementdelangue_just-watched-the-netflix-instadocs-about-share-7518300071432441856-JQp-/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 2h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money](https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses)**
-
-Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.
-
-NPR • 12h ago
-
----
-
 **[Opinion | Mamdani’s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop](https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html)**
 
-The New York Times • 13h ago
+The New York Times • 16h ago
 
 ---
 
-**[A key internet security tool is getting buried in AI-generated bug reports](https://www.axios.com/2026/10/20/ai-bug-reports-overwhelm-openssl-maintainers)**
+**[Yes, the Fed Can Kill the AI Boom](https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e)**
 
-Axios • 49m ago
-
----
-
-**[Mom Calls Out School for Making an AI-Generated Photo of 6-Year-Old Daughter as an Adult (Exclusive)](https://people.com/mom-calls-out-school-for-making-ai-generated-photo-of-6-year-old-daughter-as-adult-12184403)**
-
-Nikki Anderson was surprised when her 6-year-old daughter came home from school with an AI-generated photo of what she could look like at 25 years old. “[6-year-olds] are already capable of imagining futures that adults couldn’t possibly predict. Why are we outsourcing that?” Anderson asks.
-
-People.com • 56m ago
+WSJ • 15h ago
 
 ---
 
-**[Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now](https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now)**
+**[When AI models refuse to fight hackers](https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers)**
+
+Axios • 22m ago
+
+---
+
+**[OpenAI Says Its Agents Weakened System That Flags AI Misbehavior](https://www.bloomberg.com/news/articles/2026-10-21/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[SpaceX quarterly revenue jumps, beats estimates as AI business surges](https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20/)**
+**[Elice's huge stock swings show AI's spending boom is getting more investor scrutiny](https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html)**
 
-Reuters • 1h ago
+The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.
+
+CNBC • 23m ago
 
 ---
 
-**[SpaceX Swings to a Profit, Even as A.I. Spending Soars](https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html)**
+**[SpaceX Profit Beats Estimates on Big Jump in AI Business Revenue](https://www.bloomberg.com/news/articles/2026-10-20/spacex-profit-beats-estimates-on-big-jump-in-ai-business-revenue)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[SpaceX Swings to a Profit, as A.I. Business Grows](https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html)**
 
 The New York Times • 2h ago
 
 ---
 
-**[SpaceX revenue soars 161% as AI business grows - ABC News](https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509)**
+**[SpaceX shares rise as AI revenue rockets 830% and profit hits US$4.4 billion](https://www.proactiveinvestors.com/companies/news/1100433/spacex-shares-rise-as-ai-revenue-rockets-830-and-profit-hits-us-4-4-billion-1100433.html)**
 
-Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday.
+SpaceX Corp (NASDAQ:SPCX) shares rose almost 3% in after-hours trading after the Elon Musk-led company reported a sharp swing to profit, driven by an 830%...
 
-ABC News - Breaking News, Latest News and Videos • 1h ago
-
----
-
-**[Stock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived](https://www.wsj.com/finance/stocks/stock-pickers-burned-by-the-ai-boom-think-their-moment-has-finally-arrived-07878da7)**
-
-WSJ • 20h ago
+Proactive financial news • 59m ago
 
 ---
 
-**[Meta Q3 earnings to test Wall Street's stomach for AI spending](https://finance.yahoo.com/technology/article/meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-184105375.html)**
+**[Mom Calls Out School for Making an AI-Generated Photo of 6-Year-Old Daughter at Age 25 (Exclusive)](https://people.com/mom-calls-out-school-for-making-ai-generated-photo-of-6-year-old-daughter-as-adult-12184403)**
 
-Meta will report its third quarter earnings after the bell on Wednesday.
+Nikki Anderson was surprised when her 6-year-old daughter came home from school with an AI-generated photo of what she could look like at 25 years old. “[6-year-olds] are already capable of imagining futures that adults couldn’t possibly predict. Why are we outsourcing that?” Anderson asks.
 
-Yahoo Finance • 4h ago
+People.com • 3h ago
+
+---
+
+**[Mamdani Proposal Targets AI Customer Service ‘Doom Loops’ (1)](https://news.bloomberglaw.com/banking-law/mamdani-targets-companies-with-ai-customer-service-doom-loops)**
+
+New York City wants to force companies to tell consumers when they’re interacting with artificial intelligence and other computerized systems, part of a proposal to cut down on customer service “doom loops.”
+
+Bloomberg Law News • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 4h ago
 
 **[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
 
-⬆️ 585 • 💬 687 • 1d ago
+⬆️ 586 • 💬 691 • 1d ago
 
 ---
 
@@ -223,7 +223,7 @@ Would this be enough to keep an AI model from going out of control?
 
 Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.
 
-⬆️ 161 • 💬 188 • 7h ago • [IGN](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
+⬆️ 168 • 💬 195 • 9h ago • [IGN](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
 
 ---
 
@@ -231,7 +231,7 @@ Steam Next Fest, Valve's festival for indie games and demos, started earlier tod
 
 Online roadblocks are undermining the narrative behind AI agents.
 
-⬆️ 155 • 💬 149 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+⬆️ 156 • 💬 149 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 
 ---
 
@@ -271,7 +271,7 @@ British Airways prohibits filming crew without consent, including with Meta smar
 
 Disclaimer: by AI writing I mean text with at least 50% of the words generated by AI
 
-⬆️ 74 • 💬 45 • 3h ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
+⬆️ 79 • 💬 53 • 5h ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
 
 ---
 
@@ -279,33 +279,13 @@ Disclaimer: by AI writing I mean text with at least 50% of the words generated b
 
 ## YouTube Videos: "ai"
 
-**[How to Build Your First AI Agent Today in Base44](https://www.youtube.com/watch?v=IYf65P9xg0U)**
+**[The AI crash is coming SOONER than you think, warns former US financial regulator](https://www.youtube.com/watch?v=7C9vYzzgrI0)**
 
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
+Is the AI bubble about to burst? And could the trillion-dollar investment boom trigger the next global financial crisis? Gary Gensler ...
 
-📺 Jake One Page
+📺 Channel 4 News
 
-👁️ 10K • 💬 5 • ⏱️ 13:24 • 8h ago
-
----
-
-**[How the Top 1% Make Cinematic AI Videos (FREE System)](https://www.youtube.com/watch?v=LIK6ZayNndU)**
-
-Create Cinematic AI Videos https://parkerprompts.com/Higgsfield-1 In this video, I show how to connect Claude to Higgsfield ...
-
-📺 Parker Prompts
-
-👁️ 9K • 💬 1 • ⏱️ 15:00 • 11h ago
-
----
-
-**[I Built an AI Filmmaking Crew with Jev + Opus 5.5](https://www.youtube.com/watch?v=Kb8i5C3K4L0)**
-
-Build an AI Filmmaking Crew With Jev + Opus 5.5 in Higgsfield Supercomputer Try Higgsfield: ...
-
-📺 Mira AI
-
-👁️ 9K • ⏱️ 13:46 • 8h ago
+👁️ 188K • 👍 1K • 💬 349 • ⏱️ 30:24 • 1d ago
 
 ---
 
@@ -315,27 +295,27 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 384 • 💬 115 • ⏱️ 25:11 • 6h ago
+👁️ 22K • 👍 456 • 💬 149 • ⏱️ 25:11 • 8h ago
 
 ---
 
-**[I Talked To Workers At Meta, Amazon, &amp; Microsoft About The AI Watching Them](https://www.youtube.com/watch?v=ca7ufSI1Qxg)**
+**[MIT on all Futures AI Ends](https://www.youtube.com/watch?v=KhKCy6qCG_U)**
 
-Insiders at Meta and other companies leaked to us about bosses using AI to spy on them. In tech, AI spies on workers, copies their ...
+There are twelve ways the AI story can end, from the worst thing that could ever happen to our species to the best. I ranked every ...
 
-📺 More Perfect Union
+📺 Matt Madigan
 
-👁️ 574K • 👍 12K • 💬 2K • ⏱️ 14:54 • 1d ago
+👁️ 58K • 👍 1K • 💬 309 • ⏱️ 23:28 • 1d ago
 
 ---
 
-**[This Latest Batch of Anti-MAGA AI Slop is The MOST BRUTAL YET!](https://www.youtube.com/watch?v=1bSaGkReJlw)**
+**[5 Best AI Side Hustles in 2026 (ft. Iman Gadzhi)](https://www.youtube.com/watch?v=1dvM89NMK3s)**
 
-Really American Host Steve Harness Breaks Down Trump and MAGA getting humiliated by the latest batch of viral AI slop videos ...
+Explore 5 AI side hustles with Iman Gadzhi. Learn how to create services and digital products using AI. All Skills, Prompts and ...
 
-📺 Really American
+📺 Higgsfield AI
 
-👁️ 451K • 👍 15K • 💬 712 • ⏱️ 11:35 • 2d ago
+👁️ 131K • 👍 3K • 💬 113 • ⏱️ 22:45 • 1d ago
 
 ---
 
@@ -345,27 +325,7 @@ Create AI Cartoon Videos https://tolt.link/cartoonyourself Sign up to OpenArt & 
 
 📺 Roboverse
 
-👁️ 14K • 💬 1 • ⏱️ 11:49 • 11h ago
-
----
-
-**[The Best Way To Make Money With AI ($0 To Start)](https://www.youtube.com/watch?v=uJ_c-9Wu3nA)**
-
-Get my FREE AI Organic Course: https://course.aicom.co/yt/best-ai-business-model If you've been looking to start an online ...
-
-📺 Jordan Welch
-
-👁️ 31K • 👍 854 • 💬 43 • ⏱️ 12:19 • 1d ago
-
----
-
-**[The People Building AI Think It Could Kill Us All](https://www.youtube.com/watch?v=_09_0a7EXUQ)**
-
-Get early access to Beam's biggest sale of the year! Save up to 50% off sitewide with my exclusive code WLB: ...
-
-📺 What Lurks Beneath
-
-👁️ 54K • 👍 2K • 💬 319 • ⏱️ 24:19 • 21h ago
+👁️ 14K • 💬 1 • ⏱️ 11:49 • 13h ago
 
 ---
 
@@ -375,7 +335,47 @@ Anthropic is pledging 5% of its company shares toward a proposed public benefit 
 
 📺 Fox News Clips
 
-👁️ 68K • 👍 332 • 💬 231 • ⏱️ 3:39 • 1d ago
+👁️ 71K • 👍 336 • 💬 238 • ⏱️ 3:39 • 1d ago
+
+---
+
+**[Anthropic Just Shocked The World... AI SINGULARITY Is Here!](https://www.youtube.com/watch?v=wS3lJpOs9Uw)**
+
+Anthropic co-founder Jack Clark just told the IMF that the AI Singularity has already begun. Claude Opus 5.5 is making major ...
+
+📺 AI Revolution
+
+👁️ 78K • 👍 1K • 💬 216 • ⏱️ 14:08 • 2d ago
+
+---
+
+**[AI adoption is slowing: ‘There’s no use case for frontier AI’ | Dean Baker](https://www.youtube.com/watch?v=a8YsC8oVpek)**
+
+It's impossible to see what they envision happening… there's literally nothing on the horizon.” Senior Distinguished Fellow at the ...
+
+📺 The Tech Report
+
+👁️ 139K • 👍 2K • 💬 643 • ⏱️ 27:53 • 7h ago
+
+---
+
+**[HUGE GPT-6.5 LEAK! NEW Claude Fable 5.5, Gemini 4 Carbon, MiniMax M3.1 Flash &amp; Kimi K3.1! AI NEWS](https://www.youtube.com/watch?v=2BXktpaCEN4)**
+
+Everything you're about to see, I benchmarked using the tool I made. If you want to run these tests yourself or test models on ...
+
+📺 WorldofAI
+
+👁️ 130K • 👍 2K • 💬 134 • ⏱️ 26:35 • 18h ago
+
+---
+
+**[Why AI could overwhelm Britain&#39;s public services](https://www.youtube.com/watch?v=N_0Q2jBV0ns)**
+
+New data seen by Sky News shows a large surge in complaints made to UK public services since the launch of AI services like ...
+
+📺 Sky News
+
+👁️ 147K • 👍 1K • 💬 349 • ⏱️ 8:33 • 20h ago
 
 ---
 
@@ -391,7 +391,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 27,737 • ❤️ 1,943 • 3d ago
+⬇️ 27,737 • ❤️ 1,961 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 439,528 • ❤️ 1,083 • 3d ago
+⬇️ 439,528 • ❤️ 1,096 • 3d ago
 
 ---
 
@@ -415,7 +415,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 13,495 • ❤️ 834 • 3d ago
+⬇️ 13,495 • ❤️ 836 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 2,592 • ❤️ 607 • 5d ago
+⬇️ 2,592 • ❤️ 610 • 5d ago
 
 ---
 
@@ -439,7 +439,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 172,474 • ❤️ 2,763 • 14d ago
+⬇️ 172,474 • ❤️ 2,770 • 14d ago
 
 ---
 
@@ -451,7 +451,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 78,897 • ❤️ 562 • 4d ago
+⬇️ 78,897 • ❤️ 566 • 4d ago
 
 ---
 
@@ -463,7 +463,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 4,547 • ❤️ 495 • 1d ago
+⬇️ 4,547 • ❤️ 496 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 115,341 • ❤️ 2,022 • 5d ago
+⬇️ 115,341 • ❤️ 2,023 • 5d ago
 
 ---
 
@@ -487,7 +487,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,039,447 • ❤️ 8,616 • 9d ago
+⬇️ 2,039,447 • ❤️ 8,627 • 9d ago
 
 ---
 
@@ -499,7 +499,7 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 `text-to-image` `5.1B`
 
-⬇️ 3,558 • ❤️ 433 • 1d ago
+⬇️ 3,558 • ❤️ 435 • 1d ago
 
 ---
 
@@ -515,9 +515,21 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 115 • 💬 1 • ⭐ 13,969 • 12d ago
+▲ 115 • 💬 1 • ⭐ 15,448 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 62 • 💬 4 • ⭐ 42,344 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -532,18 +544,6 @@ MOSS-Image is an open diffusion transformer that combines high-fidelity synthesi
 ▲ 74 • 💬 3 • ⭐ 1,127 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 61 • 💬 4 • ⭐ 42,045 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -581,7 +581,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GPT-6-Astra achieves high performance across diverse robotic tasks via in-context learning, yet real-world deployment reveals gaps in demonstration cost, execution time, and practical embodied intelligence.
 
-▲ 421 • 💬 2 • ⭐ 188 • 6d ago
+▲ 422 • 💬 2 • ⭐ 188 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22471) • [💻 code](https://github.com/OpenSenseNova/SenseNova-RoboRSI) • [🔗 project](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence)
 
@@ -651,7 +651,7 @@ MemT-1.0 introduces a memory-native architecture that embeds continuous memory i
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.2k • 🔱 2.0k • 1h ago
+⭐ 8.2k • 🔱 2.0k • 4h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 816 • 5d ago
+⭐ 5.7k • 🔱 818 • 5d ago
 
 ---
 
@@ -671,7 +671,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.6k • 🔱 960 • 7h ago
+⭐ 5.6k • 🔱 961 • 9h ago
 
 ---
 
@@ -681,7 +681,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `apple-intelligence` `cli` `debloat` `macos` `macos-27`
 
-⭐ 5.1k • 🔱 146 • 14h ago
+⭐ 5.1k • 🔱 146 • 17h ago
 
 ---
 
@@ -691,7 +691,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.1k • 🔱 275 • 9h ago
+⭐ 4.1k • 🔱 275 • 4m ago
 
 ---
 
@@ -701,7 +701,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 3.9k • 🔱 300 • 13h ago
+⭐ 3.9k • 🔱 300 • 16h ago
 
 ---
 
@@ -721,7 +721,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.4k • 🔱 453 • 12h ago
+⭐ 3.4k • 🔱 455 • 14h ago
 
 ---
 
@@ -731,7 +731,7 @@ AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skil
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.3k • 🔱 64 • 6h ago
+⭐ 2.4k • 🔱 64 • 8h ago
 
 ---
 
@@ -741,7 +741,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 2.2k • 🔱 9 • 8h ago
+⭐ 2.2k • 🔱 9 • 11h ago
 
 ---
 

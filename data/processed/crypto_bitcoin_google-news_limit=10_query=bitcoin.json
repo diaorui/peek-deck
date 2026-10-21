@@ -5,84 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "CFTC pushes back on CME over Kalshi's Bitcoin perps: where's the evidence of harm?",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2ZudEZ2OHBIRVByM2sya3h0Nm5qcndmbUhsaUpIaG1jaTh4WlRqdUhfUGZDTFgwSkNXcjNSZ0FDbDhSVE1KNFI2MFZMMWxhOHlUVjc1YjV5VFNTUlFLT1FnVnhJV29sS2szOUNSbk5reHpHY0tKejgwbkE2b254cV9senp4NnBJbnluaWZuZDNZVG9BQWdpa1ZBRUQzVFl4U1FHYW5Ld3U?oc=5",
-      "pub_date": 1792534370.0,
-      "article_url": "https://www.moomoo.com/community/feed/cftc-pushes-back-on-cme-over-kalshi-s-bitcoin-perps-117475297853445",
-      "image": "http://1500015405.vod2.myqcloud.com/141def2dvodsgp1500015405/1f5273a05001834824915381247/cover.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "@Scott Melker 1850 Views"
-    },
-    {
-      "headline": "Forget GBTC. BlackRock Charges $1,250 Less a Year to Hold the Same Bitcoin on $100,000",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTczSXEtMkdMQ3Z2UFdtTkZHLU84MmpWZjVRNVpMM1FuUmxVUHFCejA3M0ViTW1WcXV6YXc3NzZmUDdLZThOY0c5VFpjNC10WjJxTkp4ck1ZVkctME4tZ1AzUHVGcEd1Y29pZ2l2eTB4WGNvOTJLazFPNmVVeTk2QnZTRVRzamlZN09MUkdZRFRWRTRzdVpCZTh5ZGs?oc=5",
-      "pub_date": 1792535618.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/forget-gbtc-blackrock-charges-1-223338401.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ede51a1cc7db279182c59e6e01a26a7adc3a6e712b37173f9374d067c3e660e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9f1227a22f2de8ac67bb16fb3c6ffb43.jpg",
-      "description": "Two Bitcoin ETFs hold the exact same asset through nearly identical structures, yet one quietly drains your account at six times the rate of the other. Before you assume switching is the obvious move, your tax situation may tell a different story."
-    },
-    {
-      "headline": "\"It bounced off the week 200 week moving average...we rallied about $20,000 beyond that, so we think we're at the beginning of the next bull run now.\" \ud83d\ude80",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYk4zdnlldG1hMDRVcEw2VGxYVGQ0ekZwa0s2LXRCeXhORG02bmN2RkdQSC0wV2FxSkJWSzlSaXNjTkh1NmswSTNWSkhLSGtiUVR0SXdHd0VUbEJ4RU5kcThCRXMwUVh6cGRlaUU2VE9vOTlqZ0lnTkVmQWRJdnVvdm1PeXdQSU1UdXlzM21aNTF4LUhoVGJpZS15S0c2c21McnpyejZoYnpSb1hiZzkzb0tHTXF6MV9P?oc=5",
-      "pub_date": 1792534374.0,
-      "article_url": "https://www.moomoo.com/community/feed/new-michael-saylor-tells-charles-schwab-the-bitcoin-bull-market-117475297853845",
-      "image": "http://1500015405.vod2.myqcloud.com/141def2dvodsgp1500015405/755d5be95001834824916749409/cover.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "@Bitcoin Magazine 1981 Views"
-    },
-    {
-      "headline": "Token Accumulators Are Upping the Ante With Yields Rising",
+      "headline": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHpNOHJENFZwTmhRS1daYWpSQjBzTEdkTFBqM2l1N3YyelVuc0ZtRzlUTjRUUjBmMTVYYWFabzFUUW9kVTJOLVN1OWVDY0F1SHNlNG85R0V2ay1PVFlYVEctWDBVeDZlSVlfZVJxX0R6ZGtqU0JWNjRucGc1UkdqU1NndWl6d1FGSm03Y3d5LW1yMG94SGcxV1o0M2JRTmNqMHY3WTNaM3BLdm1uR2NXOURuOA?oc=5",
-      "pub_date": 1792530001.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-20/bitcoin-accumulators-are-upping-the-ante-with-yields-rising",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVI1VFpGMEhGRzZsaTI1c1lmTDFScjNZaGxLT0tvZVJKeWpaeTZrbWdUampMVzNZemx4OUNKYUFUTFpDelBsdF9jaHVHSk5NTVMycDVEcDdVQW9pSkJBNzBvaEg3cmQ5T09iTGZ2dUhmU0J1S0Y0OHJ6a2QtTlE0eUtGUEt2Wk9Ub1pLcDRhY0pBVmhkTWZ0QWZac3hZZzF1U08zamVpZk41T1JDOUhn?oc=5",
+      "pub_date": 1792511813.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/jpmorgan-asset-sees-bitcoin-beating-stocks-but-with-a-catch",
       "image": null,
       "description": null
     },
     {
-      "headline": "Live updates: Bitcoin cuts losses as stocks edge higher",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONm5HUlRzNzNoNHZ3MVhnS19XcUN6RWo2STJvUHZseUQ5cTdaUmphbFVoTDdIdFoycWtJbThGZENPbVJMMWZmYUcyTC01ckI3VmlHLXRadkpwbUZUNWtTalVHU294aUMxanNUVXUzZ0c0RVNUTmRIbFBwQTBtUUwzUXlSTUpKZllsalF6bE1vQVhGTUNJRDY1bm1fMGUyMExGaTM0ZFk5SWU?oc=5",
-      "pub_date": 1792527161.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran."
+      "headline": "Chips Crack, Bitcoin Holds. Is Crypto Finally Trading on Its Own Drivers?",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0R3SHdDaENULUM1X1ZaUlRPRzRCYTdTdEdleXpKamowRkJVNGo0Ni1MVlA1UlFfbE1vQTliTEJmbUtXbXZCWVBSb3BZZDIyM0NWRkJMaVAtTDZ4aDBmT0xaS2ZqdEZjWHBaNlBzaXNfMnNDWkNBaGJSUFpycnBOQWd1VkhabXhGOC1kZHBWS0RNdHRNX3dYWFlGUGg0NDJMTlJJOTdiRmNwMUtqUEtpYjN3?oc=5",
+      "pub_date": 1792543690.0,
+      "article_url": "https://www.moomoo.com/community/feed/chips-crack-bitcoin-holds-is-crypto-finally-trading-on-its-117476079697925",
+      "image": "http://1500015405.vod2.myqcloud.com/141def2dvodsgp1500015405/b78c583e5001834824924078422/cover.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "description": "@Laura  Shin 2582 Views"
     },
     {
-      "headline": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2x2QlN6SDI2LWNnTFA5Q0dKRFFmRWd4ZlFxbFdWbE9RaWFKT3FlUFN5bTdzdlZ4dmtpd09JUnlBVF9LTDctQkRFMmN4SnpkRXRvdjNxM29TQURZcjVGYnczQm5EYTJuMXB1SmlZZVNIMnhQN2huckRXaE9qVW5WV0JqS1ZOVjhpWnc?oc=5",
-      "pub_date": 1792431660.0,
-      "article_url": "https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2200017937-e1792431574272.jpg?resize=1200,600",
-      "description": "The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year."
-    },
-    {
-      "headline": "Strategy buys back their bitcoin, closing in on 850K BTC",
+      "headline": "JPMorgan forecasts 10% bitcoin returns: What to know",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmVVeTdBajJyMUN6QTl1Zml3a3dPX09zaEQ4Vi1NLTluV2NiVlVSbmp2eVgtZDRqMEVZTlVlbXpRQWZfRlFvQ1RxZVIySmJpUmdSa2xZOFNZZHpLcElXQnNMMTBXdTBHWjBmOWJtcTZyTlVJWEthb1FCUmU5ejgwNzhKZTFOYW1sRmlHTEx2clQxc045Y0c5ZUN3QWg5R2k5TWpjTw?oc=5",
-      "pub_date": 1792428899.0,
-      "article_url": "https://finance.yahoo.com/video/strategy-buys-back-their-bitcoin-closing-in-on-850k-btc-165459060.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c6c66d8bac674914c2cde80bc3701c8b4cfc64fae6f81cf49fa1233ac3c6310a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-1019_2203.png",
-      "description": "Scott Melker discusses Strategy (MSTR) repurchasing bitcoin (BTC-USD), increasing his hold on Strategy (STRC), JPMorgan's (JPM) JPM Coin becoming available on ethereum (ETH-USD), and the pushback against tokenized stocks as companies opt out.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkpaYWE4LVZkNDNKRWlRRTJxOUlaaFFJWWJSb1J6dXBRNGZlQlpkanhWUWxZZl9QaXVGY0gzbFUyeE5JX21Td0NZMXM5Nk1yaUJYZEJBTlVtSlVBdlk5NE1oWGVOb1liUDkwcmZEM3dIQnNmMHpfaEd6NnIxanYtXzBLUEtncjhpblp3OQ?oc=5",
+      "pub_date": 1792513800.0,
+      "article_url": "https://finance.yahoo.com/video/jpmorgan-forecasts-10-bitcoin-returns-163000023.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a1be0e6a9bf6cc9dd2d65294e69c8d6213fa88b4c0af2d0efacb26f7d5391cac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F8161c033-83dc-43fb-a419-ecafd9a95ddd_59ee386fb914dc773488d7034d8aed14e2abed05373d055aefeaa98b0f1321ec.jpg",
+      "description": "Scott Melker outlines what crypto investors should know about JPMorgan's (JPM) recent comments on bitcoin (BTC-USD) versus stocks and gold (GC=F)."
     },
     {
-      "headline": "Michael Saylor Is Bullish on Bitcoin. Yet His Company's Money Is Going Somewhere Else.",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHJGVlAzak9UR1BXT1lwT0t2VTU4WlA0Q2hKRXYtdUpEbEJTeTI0ODJWSFFadm1JY09xRGFGQUlYYzkyTlFDdnk5RW5YT0hTSzBuZERQZUpSWF9zSHhGWHZHQ3E3QTMyRWJ2UFROQWZjaEdfRkxXaGRlOGpFMDJBbEp3RmZEbzM3ZWc1dnUxYnpENGp4THlvQlVwUFRUT3lSX2VsZlUtVjktcXYtX3BLbDhhQlhMUjNlNUJxUDFNSzBxeFl5VzIw?oc=5",
-      "pub_date": 1792440002.0,
-      "article_url": "https://www.barchart.com/story/news/8205642/michael-saylor-is-bullish-on-bitcoin-yet-his-company-s-money-is-going-somewhere-else",
-      "image": null,
-      "description": null
+      "headline": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTFaUzJKakNzdUJqQmc3aG5Yalktb0JLbk9kYlliSFM5akozQzZnUlZaVVBMeUYtSlBNS1lha0hZZFVFcFY3cTZNQnJ0NFVQOGJNX0JKa20yalB0Zk5KWW1wa0doajcxekRJbE1ZVGlmLWdQUm9jRmphY2x4NkNlSzhabHhDczFVc2JqX0RyTFcwaTl2ODRBTUtHcG5lazduRkhMRW0tVzAtY0YzOUlz?oc=5",
+      "pub_date": 1792515751.0,
+      "article_url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ada6e352fb7da116d4661c898ba82b9fde8e5e95-8192x5464.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma."
     },
     {
       "headline": "\u2018Short the dollar\u2019 and hold gold or Bitcoin as inflation erodes wealth \u2013 Ledn\u2019s Reeds",
@@ -103,8 +63,48 @@
       "article_url": "https://seekingalpha.com/news/4654789-bitcoin-volatility-is-now-quieter-than-roughly-20-of-the-sp-500",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHlreXRlYXYzRXVGQlEwUzkzMExEbDNTVEVUUVg4TUx4SlVsMlRFUFFORl9xdFRISlh6T1VxSFBPUV9SbWNLMkd5RzNjTjFUcjdWd2RLR3ZaRDhHeEFWU2F6Rmk2Nl9zREtZWGNHbWZRbVdLMi1OdDY2M3JScGtLcHFiWjdlLUtoejl4YVBwZXhVdDQya0lKRmthS0R2N21ldGVB?oc=5",
+      "pub_date": 1792520040.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JpMorgan_News_3.jpg",
+      "description": "The asset manager puts bitcoin's volatility at 55% and says unstable correlations still keep it out of most portfolios."
+    },
+    {
+      "headline": "Michael Saylor Is Bullish on Bitcoin. Yet His Company's Money Is Going Somewhere Else.",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHJGVlAzak9UR1BXT1lwT0t2VTU4WlA0Q2hKRXYtdUpEbEJTeTI0ODJWSFFadm1JY09xRGFGQUlYYzkyTlFDdnk5RW5YT0hTSzBuZERQZUpSWF9zSHhGWHZHQ3E3QTMyRWJ2UFROQWZjaEdfRkxXaGRlOGpFMDJBbEp3RmZEbzM3ZWc1dnUxYnpENGp4THlvQlVwUFRUT3lSX2VsZlUtVjktcXYtX3BLbDhhQlhMUjNlNUJxUDFNSzBxeFl5VzIw?oc=5",
+      "pub_date": 1792440002.0,
+      "article_url": "https://www.barchart.com/story/news/8205642/michael-saylor-is-bullish-on-bitcoin-yet-his-company-s-money-is-going-somewhere-else",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Massive \u2018Endgame\u2019 Flip Leaves Bitcoin Suddenly Braced For A $1.5 Trillion Price Crash Shock",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2syV1hFUzFYWGVoY0FUNVF5Z3dNYWtoZFQtQ2o4SUQzZ25PTEMzdEZCajFsc0JjVU1zOFpFRE5TaHNDT09WR1pSMGNpMnRPM0VVNzlmTjd5TVdlZ2ZBTlFzb3hvQ3BMMWJjRVBIckg2RFZ5ODBac0ZEa3F4THFVUjczUzczNEc3eG5la1Mwd01Cc3BYZ0szcWk4U0lSX0ZGRElsWlEtdXFaeGVsRzZpSUdCTzJxNEhzQmJyMjN2d09hTVVJWDlQSGdBMlpFSEtJTk16X3EyU1BzeEE?oc=5",
+      "pub_date": 1792502001.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/20/massive-endgame-flip-leaves-bitcoin-suddenly-braced-for-a-15-trillion-price-crash-shock/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "SpaceX's latest earnings humble the rocket industry",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDRtME5kSTB2OEdTbEU5OEpnS08xWTYzbGNSR2Y4SmtzNVN5ejhKR3gyUlJGZlhFVno0X1FJZThhRjFHdHg3cS1KU1ZqVEFpTlJ1VUh6UEhxalg1clZEQmRCdjg3MkVlRDlxRUllOWJvejBPaFBRalp4TEhrOVlUYVRlT3d5NFVrYTJzVXItQ0xYZDNTSEE?oc=5",
+      "pub_date": 1792531505.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/spacexs-latest-earnings-humble-the-rocket-industry",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-20T22:57:48.937959+00:00"
+  "fetched_at": "2026-10-21T01:25:41.120799+00:00"
 }
