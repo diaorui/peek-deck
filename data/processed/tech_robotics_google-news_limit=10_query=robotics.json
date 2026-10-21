@@ -15,14 +15,14 @@
       "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
     },
     {
-      "headline": "The Robot I Didn\u2019t Expect to Build",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5",
-      "pub_date": 1792414880.0,
-      "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68441166&width=1200&height=600&coordinates=0%2C1537%2C0%2C1538",
-      "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
+      "headline": "US Army competition explores military uses for humanoid robots",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
+      "pub_date": 1792425600.0,
+      "article_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/XQ6LFK35VRHNHOJEGOR4W7VSQM.JPG?width=1200&auth=59a583cbacd5805ea1fafa721bac4cbb94b3ed6b05e9e8eadcb0cdfa282c8e8c",
+      "description": "They're still a long way off from mass-producing Terminators."
     },
     {
       "headline": "Robot Wars How China Has the Robotics Industry in Its Grip",
@@ -45,6 +45,26 @@
       "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
     },
     {
+      "headline": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
+      "pub_date": 1792601769.0,
+      "article_url": "https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlFBQktRRlI5aTNseHdNR19HLXZXdVg5V0xzaGRycGQ1Ylh0VmxJZ0F3RWJIaE52ZnhNbFRLZUhIUkRZZU5KVENObDFDXy16LWVuQ3dmSFB0a3ZZTDNzbnd5Z25nalBHWkctb0otVW1FWWctVzVUelhsUUtDdWVTR3FUY0pRdl92d1Z5YVViTnpLbzdsVDJrd0p5NVdJTVc3aHozblh3?oc=5",
+      "pub_date": 1792555140.0,
+      "article_url": "https://www.bizjournals.com/seattle/news/2026/10/20/carbon-robotics-layoffs-agriculture-tech-laser.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -55,6 +75,26 @@
       "description": "Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly."
     },
     {
+      "headline": "What's unique about Gecko Robotics' contracts with Nvidia & the US Navy: CEO",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOXzJXLUM5QVdpNXVRaDc5N0d0MEZRNGlzU3BsWjBkZFB5UlVUU01xZGJxVWUyMHV2NHZhUTBSQk01LTBxX013RFJ4V1Z4U0hwQUVSVDJ4ajhWeWZnOTdrVU56WEFoUGY4Z3VQUVp1V3UzMVdWUlRYcXRPM1N5NkhZWFhpOWpCU3BqRGpwQQ?oc=5",
+      "pub_date": 1792584000.0,
+      "article_url": "https://finance.yahoo.com/video/whats-unique-gecko-robotics-contracts-120000507.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6c950425d09485971c15c726065ac400c88f9259f0aaa317cdbee7a5d53b661d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcddbd2b3-820a-404a-b186-35d7095f0b9d_aef6030e496330c29e0dfda0a0a98cf64d30343890a6bf3cb869bf62a09cde6d.jpg",
+      "description": "Gecko Robotics CEO, Jake Loosararian, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to discuss the company's expansion and how its contracts with the US Navy and Nvidia (NVDA) factor in."
+    },
+    {
+      "headline": "Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUQtT2JueUZwR2FJcE5OQ3JLODkyTDh3emVNaXRvcmtLT1lNTDFCbHBWV3l0UGVmUXFnc28zWnhRaVFFTWw1a0hnLXhlYm8tUHBVbnNKQTlGOGxmU2dWanV6Sm5aLUNzeXBmUW5OczZLc3BOU2xJOGpqNnVhdUhHZUtYc3VuV0dpaFFIM1YteXVtR2RLWFFERXUyRUM4OWtRQXdvb1dQNW51MVdZQ0c0RUNfaENTQ0hzaXpCNWQtYVZxNzFlQWdoZU1Hc3AwZExTclE?oc=5",
+      "pub_date": 1792582742.0,
+      "article_url": "https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Secret trigger words could make AI-powered robots dangerous\u2014and these researchers developed a defense",
       "source": "Binghamton University",
       "source_url": "https://www.binghamton.edu",
@@ -63,48 +103,8 @@
       "article_url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
       "image": "https://www.binghamton.edu/news/images/uploads/features/_normal/20260921_robotics06_jwc_1.jpg",
       "description": "A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions\u2014and they developed a defense."
-    },
-    {
-      "headline": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzRaMjl3OENGMmg5eWRIb0t0dmFLdVFDbGVJeU5vSU1HRDZ0VUJrX3d1R282MTctcHA0V3FPLTZWUW9WajNfNXZNZTFFbWtiX3FCRUotai1fcl9MTzRtLUlXYjVkMFZWRGVwTmFzR0w1WFV3ZjM1V252VWdsd0NkX0xoc1oyRW1ldFR0VnQ4dm9QV1RuaFVLMS0yYXlXVUhtMGNjeENmNWhrYW1SN25oTENOa3Jwdw?oc=5",
-      "pub_date": 1792509332.0,
-      "article_url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
-      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/N7Z7GGRNJ5F6NMMJLQOEQWV35Y.png?width=1200&auth=588ec5dece5c3ad260a5e571286bfba1b5919a8a8a6c05531bbdb71337cbee41",
-      "description": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls."
-    },
-    {
-      "headline": "Delivery Robots Accused of Scanning Customer Faces, Sharing Biometrics, Chicago Residents Are Suing for Privacy Violations",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDFHdXdDV2x5ek1RV01HRFdYSTdfSmNSdWdxUW81QkJrVU50VG5EYWdqUFlzVUNPWnNaNFB4ZDBpOUdQRGdlT3gzQUx4Yk9iOG1feEVzVEsxc1lvQ3NBTTNDcW9aaEhlQW1rak5lbXJiWVlfd0tlTzE5ZTJkaXg1RThMd1BfTVYzYUNyUXFHNHBjdGROUExlcGliYw?oc=5",
-      "pub_date": 1792598388.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/delivery-robots-accused-scanning-customer-155948934.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d8b46fc85f01974d5e521ddf75743db4928e5b9692428f8d64092d0d21e68881/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F83a8eb375995273b9cb0d1ea0491d333.jpg",
-      "description": "Delivery robot lawsuits in Cook County allege Coco and Serve Robotics scanned customer faces without consent, violating Illinois biometric privacy law."
-    },
-    {
-      "headline": "Delivery Robots Are Watching You, According to Lawsuit",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM24zMFJQcnlTOXV2UkJqVjRxRFE5U0U1dEt2djZUM0tzQXdHUmViMkNQbUpCSEdXWDRadUM0bXZoLXhDS09QUTdMM0ZQZG1Cai1XbWdhREV2ZV96REw0czhWeUZMRVBsLU40ZFBLNjB1MHpBTEVReHZEcWZGdFQyYncxd0taakZ1MDZLWQ?oc=5",
-      "pub_date": 1792530911.0,
-      "article_url": "https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Lawsuits claim food delivery robots collect biometric data without consent",
-      "source": "ABC13 Houston",
-      "source_url": "https://abc13.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXhEcnpobENxZTlBQlJJMllZek1TU1hmbEVKaUZGbDVXS2xBWmxsWE5nWG00dFN1TlpQSTZDODNtSmdiVGFVR3huZWRSaTh2S2U3Z0M1RmIxbDNDUHN6SGlLNW8xVVl4N1o2ZENtMWY4ZWtCXzc3VUJsLWJlb1lDNmZXZDY4RTNKeGtSYy01NkFCMzljNFV6QnQ2Zl8zdEY0SFE?oc=5",
-      "pub_date": 1792586380.0,
-      "article_url": "https://abc13.com/story/lawsuits-claim-food-delivery-robots-collect-biometric-data-consent/19964380/",
-      "image": "https://cdn.abcotvs.com/dip/images/19964411_102126-wpvi-delivery-robot-lawsuit-530a-vo-video-vid.jpg?w=1600",
-      "description": "The lawsuit alleges that the robots use technology that scans faces, hands and bodies of people, both customers and others who just happen to be on the sidewalk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T17:32:34.075970+00:00"
+  "fetched_at": "2026-10-21T21:20:01.326955+00:00"
 }

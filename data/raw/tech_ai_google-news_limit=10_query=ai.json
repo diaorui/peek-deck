@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
-      "source": "wiz.io",
-      "source_url": "https://www.wiz.io",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5",
-      "pub_date": 1792597553.0,
-      "article_url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
-      "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web."
+      "headline": "Using thousands of AI agents to uncover new leads in biological data",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
+      "pub_date": 1792599078.0,
+      "article_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
+      "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+    },
+    {
+      "headline": "Why AI\u2019s Deepest Mind Believes the World Is About to Change Radically",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
+      "pub_date": 1792575000.0,
+      "article_url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm0xalYzS19NOGxhQ0ZpanpWeFpjN3g0VzZfVjROQ3RUemxqZmc3STZhdHlRUTlvZEJOaW52dzdVTUxOc09MMzlVeFlJSmc5V2p4WDdwWjRRaDZKMU5QbldoWHBIaTh0Qi1yc1JFaVNHM1BkQ25ucFZfbVJtWGNYMS1jRWlocDk5NUVheDVpclZEUTJw?oc=5",
+      "pub_date": 1792612400.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "You can get on the waitlist now for Duet."
+    },
+    {
+      "headline": "Anthropic unveils Claude Duet AI agent app",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+      "pub_date": 1792614335.0,
+      "article_url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic Joins the A.I. Agent Race With Claude Duet",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
+      "pub_date": 1792615261.0,
+      "article_url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnFZU01DbEZkckxRS0dwU2NlckxfSXVWNzdaNmk5dlowTG5VLWRCN0NHOFZyR2h0YUpnTVQ4cEFqeHdHVU1veUNqeE1uMmNxTWoxc1FwNEd0SFlYR2xiNTZqX2hDdk0tTnRFLV9tOS1ZckJJTWctaG9Jd3ZJd3E3Q2NvMUFuZzZsMG9vaEdHMHNjaUxoTWFZS0xwUjM5ZF9mQ3VGWkxLd1VkM1pmYU5ncGlSNA?oc=5",
+      "pub_date": 1792614461.0,
+      "article_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+      "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+    },
+    {
+      "headline": "Meta Will Create New Stock Class to Fund AI Spending",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5",
+      "pub_date": 1792613100.0,
+      "article_url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta Boosts Bet on AI With New Spending Outlook, Stock Offering",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWw2TXFoSmlmM18yRERkMXpHSGdDN0lWbzl1ZGVNczh4aUYxU1JmZkJualZKREM2Q3JmcjFtWE50a0JUR283UU5XdFk0d1UwSGh0QzdDM3puaU51MjlQM2k1dVdUSVBpZnVOTWI1SWg4eUN0OU5SY0ZfT2ljT0JOemxvd0JDb2tlY2lYWEZFT2VNZ1lka3RIbklORkgwUWJLMzE1XzNUQ0VReEtTaTl5U0Ezcw?oc=5",
+      "pub_date": 1792613226.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta CEO Mark Zuckerberg says 10 million people have set up a Muse AI agent",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUW1hWWpzWDJieFNnczZwbTZPQmxwRlRlMHV0NXRPVHNFeE1fZ254cmEzcE5fbjhNVktCR2wwNDc1Uzl3UEhvSWJJZjd2aWRuMW9PYzBIMFNzdUJseGtRRmYwRVhIWElYNm8zam96WmZZNmRrd0kyYWJicUdzSUdnUEtvdkhQbXY3RWJhVHNuN2lac0RXTUlqTXduRQ?oc=5",
+      "pub_date": 1792616220.0,
+      "article_url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10",
+      "image": "https://i.insider.com/6ad90f58510d67c758d857b7?width=1200&format=jpeg",
+      "description": "CEO Mark Zuckerberg announces 10M users for Meta's Muse AI app since September. Meta's stock was up after its third-quarter earnings report."
     },
     {
       "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-      "pub_date": 1792602343.0,
+      "pub_date": 1792615607.0,
       "article_url": "https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "AI finds critical flaw in software powering most of world's websites",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQjN6NGEycUo2NVZPYkl6dXRWVVZ2NW9DVER6WE93U1hpcFdjdW5QNHkwNjR2cHBfa0xfRWc0YUpIZmtlVGx6RnNQUGZ3TGlXUFk1LUpnalhoWllpaWlLQ2ltS09kX2lncjBRdkxZdGVPTmkzMVE1bGhSRUU5aUl6M3d3NVcwSU1ERV9Lb1hJbEo4bVlJRHRmTnFrMEd4b1BpZWhzSWp0eXpDTmRh?oc=5",
-      "pub_date": 1792602660.0,
-      "article_url": "https://www.usatoday.com/story/news/nation/2026/10/21/php-vulnerability-php2shell-updates--live/92362348007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92363182007-getty-images-2234315089.jpg?crop=2234,1256,x149,y0&width=2234&height=1256&format=pjpg&auto=webp",
-      "description": "The issues would allow bad actors to steal information or launch a cyberattack on anyone visiting a hacked website."
-    },
-    {
-      "headline": "China\u2019s Free A.I. Models Are Thrown Into Uncertainty",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?oc=5",
-      "pub_date": 1792593823.0,
-      "article_url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjk3SHoyMzdDU2s0aXdtM015b1VRNmllTnpyVDhBRmNjVGM1ejBlb01rRGw4ckhvbzRiWlVvQ1Q3UzlnNlVtWG93dWJiYkszN3ItWUY1bk5GUVRsbE1vd25PZ3lXeUk4dGd6VGE4aG10RUhEMGkwbm9Nbl84RGJUT21za1I1eGc2ZHFCMDliVVZNbE9ZbnhjRjlhUUR4OXNy0gGmAUFVX3lxTE9BTU5kVnR2TXFsZlZFYVl6a2V5SUZLVUtYYVFmS0cxQkl5LTZvdWwtNVdZajJZYVZPdnlnS0RyeVdPa0RVZ2xJSUNDZzZrN0FXTVM0aGpPM3ZESC1vR0RiZmd1YVAzSHp2VVh4b0dsdjRZUVJKV1lIeEZfaDRrZS0xYll4ei1lRFFZVDdWbGJMcnZWdGVGMER0OW1KcFdZQWdKVFlNbFE?oc=5",
-      "pub_date": 1792602585.0,
-      "article_url": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352377-1787255692424-gettyimages-2291324880-2k2a0615_tgvb8xpn.jpeg?v=1787255898&w=1920&h=1080",
-      "description": "The growing AI trade is infiltrating traditionally safe sectors like utilities, making hedging more difficult."
-    },
-    {
-      "headline": "Google Gemini AI integration in vehicles",
-      "source": "WRAL",
-      "source_url": "https://www.wral.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalctWGlXWmhpUDh1SjhoWjA5MzFmZ3RiMDhUOU44bHhFWjZIeUNfdVVDMUlQdklISHE3LUxwcDBvU3BpTDRCQzhWTnpldE1mYnBpUTQ3Wk5UX0pEOGlVbUIwQzZuSkxlTWduN0tndVpHRHZEQWhmR09MRlpoUTRPMmJNQ2wtZ1ZJ?oc=5",
-      "pub_date": 1792603083.0,
-      "article_url": "https://www.wral.com/video/google-gemini-ai-integration-in-vehicles-october-2026/",
-      "image": "https://assets.wral.com/c40195ee-b79d-5773-a786-f2751c968fee",
-      "description": "Google announces Gemini AI integration in vehicles"
-    },
-    {
-      "headline": "AI Research Startup Flapping Airplanes Valued at $6 Billion in Round",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWlMcFlyb091cURKSTdxWlZobXVRVVlpSlhQbFUxejRzYmQyVk9FX1ZGT2FlYU5GN2xGc2M3dVFnN292YkNRX3IzbERKUl9BYWlDVGMtU29RcmZ5UHZwRjROUWJneHpzajVHQTNYazhrYlM1SDZMZU1kRzRldTA3TVBNa05DbFJsYldTOVo0R0hOdFdwbmhXYWQ2dFQyWVlXd3RubmlDR0U0ZkZSczdmOVhUNU9DeTJVMUE?oc=5",
-      "pub_date": 1792602001.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5",
-      "pub_date": 1792582201.0,
-      "article_url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108441791-1792586576774-gettyimages-2300714257-GERMANY_NVIDIA.jpeg?v=1792586602&w=1920&h=1080",
-      "description": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days."
-    },
-    {
-      "headline": "Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGZiNW1ZS2NSU2tlWUI3dWVIa3BGa29BemtncHFaY2lCUWpxbW51Y1RsMEItelRSNEJMdS1tLTM1dy1GTmt4a0xva3pvRnJLSUs3alU4Zl9iZzg1ZDVJOGtqblh1dHZWYjhaN3pZbXJlYkNJWXpMTmNRWEpUeDl5bng5SXNNNUMzcHI3Z2YyRGRWM3RPOFVUSy02RTBBaWg5ZUdJOGRjellvZ3Y3SmI5cHNFOXpjZXFVWng4V3pFUVdxWnpZcVhWMWF3UFpwRTVIVzFMRWFJUjR5aVo2SEdWMVZWOUlubkhxeUpFVUQ2aFJvQjhxcEx3?oc=5",
-      "pub_date": 1792582200.0,
-      "article_url": "https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9420552ae8174ef7903ab6f65829c3eadce2ce09b4fe86e722782a3b25004144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-10-21-at-72629-am_5091.png",
-      "description": "Nvidia debuted its DSX POD at GTC Berlin on Wednesday."
-    },
-    {
-      "headline": "European Ecosystem Builds World\u2019s Most Efficient AI Factories With NVIDIA DSX",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFBzY1F0X0hCRFJNSmRXZVlIZ09vNWN5b2txUW5KbHJwSzRqM05UZ0NBSE9GeXU1VlRvSWNCQzlGaU5FZGFvczR2THVDTWEyYVFLVjQ5YkVaVzhpSWdfb1MzM3RybVRVNklobHVadE4zcksyR2tJUDNNMHFVdmpWaUNxRXZkbVlwMGxFa0ZvcmI0Rzh6TnQ4VnJUQkJod256UGZDaXFhTFVKNTFyZXljeQ?oc=5",
-      "pub_date": 1792575831.0,
-      "article_url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
-      "image": "https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_95909e16-23fd-4d0e-acd4-72aec3f13fde-prv.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde",
-      "description": "News Summary: NVIDIA DSX reference designs use closed-loop liquid cooling and dry coolers to enable near-zero facility cooling water consumption, with potential savings of 54 million liters a..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T17:32:43.380836+00:00"
+  "fetched_at": "2026-10-21T21:20:04.683259+00:00"
 }
