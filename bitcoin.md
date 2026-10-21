@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-21T17:32:44.872628+00:00'
+updated: '2026-10-21T21:20:06.404121+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 21, 2026 at 17:32 UTC  
+**Last Updated:** October 21, 2026 at 21:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,659.70
+### $84,579.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +2.8%  
-**30d:** -1.8%  
-**90d:** +31.8%  
-**1y:** -21.4%  
+**24h:** +1.9%  
+**7d:** +3.0%  
+**30d:** -1.7%  
+**90d:** +32.0%  
+**1y:** -21.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1698.50B
+**Market Cap:** $1701.13B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.0%
+-32.9%
 
 **All-Time Low:** $67.81
-+124524.7%
++124709.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[we’re all cut from the same cloth🤝😁](https://www.reddit.com/r/Bitcoin/comments/1xa529j/were_all_cut_from_the_same_cloth/)**
 
-1d ago
+2d ago
 
 ---
 
 **[Bitcoin HODLer spotted in France](https://www.reddit.com/r/Bitcoin/comments/1xa5dg9/bitcoin_hodler_spotted_in_france/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Aren't we?
 
-1d ago
+2d ago
 
 ---
 
@@ -151,33 +151,55 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 ## Google News: "bitcoin"
 
-**[JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch](https://www.bloomberg.com/news/articles/2026-10-20/jpmorgan-asset-sees-bitcoin-beating-stocks-but-with-a-catch)**
+**[JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat](https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold)**
 
-Bloomberg.com • 1d ago
+J.P. Morgan Asset Management projected a 10% compound annual return for Bitcoin over 10 to 15 years, outpacing gold and stocks.
 
----
-
-**[JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html)**
-
-JPMorgan Asset Management has included Bitcoin in its long-term capital market assumptions for the first time, forecasting returns that could beat stocks, bonds and gold in a milestone for its Wall Street acceptance.
-
-Yahoo Finance • 1d ago
+Decrypt • 1d ago
 
 ---
 
-**[J.P. Morgan Reveals First-Ever Bitcoin Price Forecast In Long-Term Capital Market Report](https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report)**
+**[Gas Prices Are Skyrocketing. Can Bitcoin Actually Hedge Against Inflation?](https://www.fool.com/investing/2026/10/21/bitcoin-and-skyrocketing-gas-prices/)**
 
-J.P. Morgan projects Bitcoin as the top asset through 2036. Grace Remington and Sean Hagan examine its 10% base and 16% bull case long-term return targets.
+Bitcoin can't make gas prices go down, but it can probably protect against an expanding supply of dollars.
 
-Bitcoin Magazine • 3h ago
+The Motley Fool • 19m ago
 
 ---
 
-**[Kalshi will let clients use Bitcoin as collateral for leveraged futures trades](https://qz.com/kalshi-bitgo-crypto-collateral-leveraged-futures-102126)**
+**[Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans](https://finance.yahoo.com/markets/crypto/articles/kalshi-allow-leveraged-futures-bets-142612300.html)**
 
-Kalshi Prime customers will be able to borrow against Bitcoin, Ether or compliant stablecoins held at BitGo to fund margin
+Prediction markets platform Kalshi Inc. will offer some clients the ability to post collateral for leveraged perpetual-futures trades using cryptocurrencies, under a new arrangement with digital-asset custodian BitGo Holdings Inc.
 
-Quartz • 15m ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Bitcoin Rallies Back as Tech Rebound Sparks Speculative Appetite](https://www.bloomberg.com/news/articles/2026-10-21/bitcoin-rallies-back-as-tech-rebound-sparks-speculative-appetite)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin scam that cost U.P. man $665K sparks arrest, charges](https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/)**
+
+Zhong Jiang faces up to 10 years in prison, officials said.
+
+The Detroit News • 2h ago
+
+---
+
+**[Live updates: Bitcoin holds above $84,000 as Middle East worries resurface](https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures)**
+
+South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier.
+
+CoinDesk • 2h ago
+
+---
+
+**[What $500M+ In Bitcoin Hacks Teach Us About The Future Of Self-Custody](https://www.forbes.com/sites/digital-assets/2026/10/21/what-500m-in-bitcoin-hacks-teach-us-about-the-future-of-self-custody/)**
+
+Forbes • 3h ago
 
 ---
 
@@ -185,45 +207,23 @@ Quartz • 15m ago
 
 SpaceX reported third-quarter revenue of $14.6 billion, up 161% from a year earlier, lifting tech stocks and crypto
 
-Quartz • 21m ago
+Quartz • 4h ago
 
 ---
 
-**[Bitcoin Rallies Back as Tech Rebound Sparks Speculative Appetite](https://www.bloomberg.com/news/articles/2026-10-21/bitcoin-rallies-back-as-tech-rebound-sparks-speculative-appetite)**
+**[DAPP: Bitcoin Is Better Than Crypto Fintech Into Year-End (NASDAQ:DAPP)](https://seekingalpha.com/article/4956050-dapp-bitcoin-is-better-than-crypto-fintech-into-year-end)**
 
-Bloomberg.com • 1h ago
+VanEck Digital Transformation ETF is a hold as bearish technicals worsen and it lags the S&P 500. Click here to read this latest analysis of DAPP.
 
----
-
-**[A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin](https://finance.yahoo.com/markets/crypto/articles/spacex-tesla-merger-consolidate-30-142400928.html)**
-
-Elon Musk has confirmed that his two publicly traded companies, SpaceX (NASDAQ: $SPCX) and Tesla (NASDAQ: $TSLA), a...
-
-Yahoo Finance • 3h ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[A grocery AI beta is underway at a 29-store chain; a partner identified retailers with at least 20,000 locations.](https://www.stocktitan.net/news/AMOD/alpha-modus-highlights-bitcoin-holdings-with-value-exceeding-250-bppmjn2hkxr1.html)**
+**[Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)**
 
-Full cash exercise of warrants could yield about $225M in gross proceeds. Alpha Cash onboarding could begin in coming weeks, subject to reviews.
+Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.
 
-Stock Titan • 5h ago
-
----
-
-**[Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher](https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures)**
-
-South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier.
-
-CoinDesk • 1h ago
-
----
-
-**[Strategy buys another $22 million of Bitcoin, increases planned share buybacks](https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/)**
-
-The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year.
-
-Fortune • 1d ago
+CoinDesk • 17h ago
 
 ---
 
@@ -235,7 +235,7 @@ Fortune • 1d ago
 
 Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
 
-⬆️ 6 • 💬 2 • 8h ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
+⬆️ 6 • 💬 2 • 12h ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
 
 ---
 
@@ -259,7 +259,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
 
-⬆️ 1 • 💬 0 • 1h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
+⬆️ 1 • 💬 0 • 4h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
 
 ---
 
@@ -267,7 +267,7 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
-⬆️ 1 • 💬 0 • 2d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+⬆️ 1 • 💬 0 • 3d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -275,7 +275,7 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 Amazon, Google, Meta among members of lobby group funding dire warnings over cloud sovereignty plans
 
-⬆️ 8 • 💬 3 • 1d ago • [theregister](https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031)
+⬆️ 8 • 💬 3 • 2d ago • [theregister](https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031)
 
 ---
 
@@ -295,13 +295,23 @@ Amazon, Google, Meta among members of lobby group funding dire warnings over clo
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Holds Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 7K • 👍 1K • 💬 59 • ⏱️ 6:07 • 1h ago
+
+---
+
 **[J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report](https://www.youtube.com/watch?v=v-zWiMIuK1o)**
 
 J.P. Morgan just named Bitcoin the best-performing asset in its long-term outlook. In its 2027 Long-Term Capital Market ...
 
 📺 Bitcoin Magazine
 
-👁️ 21K • 👍 161 • 💬 30 • ⏱️ 2:41 • 20h ago
+👁️ 25K • 👍 180 • 💬 45 • ⏱️ 2:41 • 23h ago
 
 ---
 
@@ -311,27 +321,27 @@ Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a T
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 512 • 💬 37 • ⏱️ 51:34 • 2h ago
+👁️ 18K • 👍 612 • 💬 45 • ⏱️ 51:34 • 6h ago
 
 ---
 
-**[BIG MOVE FOR BITCOIN COMING THIS WEEK! MAJOR BANK TO LAUNCH CRYPTO CUSTODY!](https://www.youtube.com/watch?v=uRIGrULyQ8A)**
+**[$600,000 Bitcoin BOMBSHELL - JPMorgan Now Ranks BTC Above EVERYTHING!](https://www.youtube.com/watch?v=S2eyrIYdW1I)**
 
-Crypto News: A bull flag formed on the Bitcoin chart signaling a major move is coming soon. Deutsche Bank prepares German ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Thinking Crypto
+📺 Bitcoin News Alerts
 
-👁️ 21K • 👍 678 • 💬 95 • ⏱️ 18:40 • 2d ago
+👁️ 9K • 👍 327 • 💬 84 • ⏱️ 13:27 • 1d ago
 
 ---
 
-**[URGENT! Crypto Investors Need To See This Before Monday!](https://www.youtube.com/watch?v=2ZTed73ZpWw)**
+**[BITCOIN - IT&#39;S BACK](https://www.youtube.com/watch?v=HcGBvGJ1WI4)**
 
-The AI selloff is spreading across global markets, raising fears of a much bigger financial meltdown. With stocks under pressure, ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Crypto Banter
+📺 My Financial Friend
 
-👁️ 80K • 👍 2K • 💬 70 • ⏱️ 31:08 • 2d ago
+👁️ 3K • 👍 209 • 💬 24 • ⏱️ 9:18 • 4h ago
 
 ---
 
@@ -341,47 +351,37 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 79 • ⏱️ 8:43 • 16h ago
+👁️ 56K • 👍 2K • 💬 83 • ⏱️ 8:43 • 20h ago
 
 ---
 
-**[Jeff Walton: Where the Next Trillion Dollars for Bitcoin Comes from, $SATS IPO Update](https://www.youtube.com/watch?v=2UTKNJ7UgVU)**
+**[&quot;Massively Undervalued&quot; - Samson Mow on MSTR &amp; Bitcoin Treasuries](https://www.youtube.com/watch?v=ok6v03R4cC0)**
 
-While CCC high-yield credit spreads were blowing out, Strive still raised $700 million for Bitcoin. Jeff Walton, Chief Risk Officer at ...
+Are Bitcoin treasury companies being overlooked? JAN3 CEO Samson Mow says a lot of them, especially Strategy (MSTR), are ...
 
 📺 Bitcoin Magazine
 
-👁️ 14K • 👍 272 • 💬 18 • ⏱️ 26:06 • 22h ago
+👁️ 23K • 👍 328 • 💬 21 • ⏱️ 16:03 • 1d ago
 
 ---
 
-**[The Fundamental Bull Case for Bitcoin Explained in 29 Minutes](https://www.youtube.com/watch?v=OGCfJyi1u3M)**
+**[Bitcoin Just Broke Out. Here’s What Happens Next](https://www.youtube.com/watch?v=J2Qshlnga64)**
 
-The fundamental bull case for Bitcoin explained in 29 minutes, from the history of money to Bitcoin's fixed supply of 21 million.
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Joe Burnett
+📺 More Crypto Online
 
-👁️ 758 • 👍 77 • 💬 18 • ⏱️ 29:44 • 4h ago
-
----
-
-**[Why JP Morgan Is Finally Bullish on Bitcoin](https://www.youtube.com/watch?v=SQ6u5FD5eHE)**
-
-BlackRock's Bitcoin ETF took in $665 million on Monday, its largest single day since October 2025. Fidelity and Grayscale saw ...
-
-📺 Yahoo Finance
-
-👁️ 46K • 👍 695 • 💬 126 • ⏱️ 14:55 • 1d ago
+👁️ 8K • 👍 474 • 💬 21 • ⏱️ 10:18 • 5h ago
 
 ---
 
-**[THE NEXT BITCOIN MOVE IS OBVIOUS...](https://www.youtube.com/watch?v=PsA7IpMs5wM)**
+**[BITCOIN: It’s Breaking Out! (finally) - BTC Price Prediction Today](https://www.youtube.com/watch?v=W-e14UmgTAw)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Crypto Rover
+📺 BitcoinHyper
 
-👁️ 19K • 👍 729 • 💬 22 • ⏱️ 9:49 • 11h ago
+👁️ 11K • 👍 445 • 💬 36 • ⏱️ 14:49 • 11h ago
 
 ---
 
@@ -391,7 +391,7 @@ JPMorgan's latest long-term outlook puts Bitcoin ahead of stocks, gold, and real
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 101 • ⏱️ 13:00 • 20h ago
+👁️ 41K • 👍 2K • 💬 104 • ⏱️ 13:00 • 1d ago
 
 ---
 
