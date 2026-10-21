@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-21T06:21:33.759973+00:00'
+updated: '2026-10-21T12:11:50.171543+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 21, 2026 at 06:21 UTC  
+**Last Updated:** October 21, 2026 at 12:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,666.92
+### $83,400.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +0.6%  
-**30d:** -4.0%  
-**90d:** +28.9%  
-**1y:** -23.1%  
+**24h:** +1.7%  
+**7d:** +1.6%  
+**30d:** -3.0%  
+**90d:** +30.2%  
+**1y:** -22.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1660.20B
+**Market Cap:** $1677.43B
 Rank #1
 
 **Circulating Supply:** 20,098,843 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.5%
+-33.8%
 
 **All-Time Low:** $67.81
-+121700.6%
++122982.1%
 
 ---
 
@@ -151,85 +151,89 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 ## Google News: "bitcoin"
 
-**[JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html)**
+**[Elon Musk confirms SpaceX and Tesla merger talks as shares jump](https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin)**
 
-JPMorgan Asset Management has included Bitcoin in its long-term capital market assumptions for the first time, forecasting returns that could beat stocks, bonds and gold in a milestone for its Wall Street acceptance.
+Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla’s results.
 
-Yahoo Finance • 14h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, October 21, 2026: Crypto to outperform stocks and gold?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html)**
+
+Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened at $2,446.67, up 1.7% from Tuesday's opening price. The price of ethereum moved up this morning to $2,459.92 as of 7:21 a.m. ET.
+
+Yahoo Finance • 34m ago
+
+---
+
+**[Bitcoin risk management grows more popular as the 'just bet on price' era fades](https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades)**
+
+The day ahead in crypto: Oct. 21, 2026
+
+CoinDesk • 53m ago
 
 ---
 
 **[JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch](https://www.bloomberg.com/news/articles/2026-10-20/jpmorgan-asset-sees-bitcoin-beating-stocks-but-with-a-catch)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 20h ago
 
 ---
 
-**[MSTR stock eyes a rebound as JPMorgan delivers bold Bitcoin prediction](https://www.tradingview.com/news/invezz:85ae20328094b:0-mstr-stock-eyes-a-rebound-as-jpmorgan-delivers-bold-bitcoin-prediction/)**
+**[Strategy buys another $22 million of Bitcoin, increases planned share buybacks](https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/)**
 
-Strategy (MSTR) stock has traded within a narrow range over the past few days as Bitcoin's rally has lost momentum. The stock was trading at $142.70, down from its September high of $170. However, this period of consolidation could be the calm before the storm, especially after JPMorgan issued a bo…
+The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year.
 
-TradingView • 8h ago
-
----
-
-**[JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade](https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade)**
-
-The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.
-
-CoinDesk • 17h ago
+Fortune • 1d ago
 
 ---
 
-**[JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually](https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436)**
+**[SpaceX Becoming a Bitcoin Hodler? Elon Musk-Led Rocket Company Keeps All BTC, Now Worth $1.57 Billion](https://www.benzinga.com/crypto/cryptocurrency/26/10/62487063/spacex-bitcoin-q3-earnings-elon-musk)**
 
-The asset manager puts bitcoin's volatility at 55% and says unstable correlations still keep it out of most portfolios.
-
-The Block • 12h ago
+Benzinga • 4h ago
 
 ---
 
-**[JPMorgan Expects Bitcoin to Beat Stocks and Gold Over the Next Decade. Why Is Justin Sun Turning More Bearish?](https://247wallst.com/investing/cryptocurrency/2026/10/20/jpmorgan-expects-bitcoin-to-beat-stocks-and-gold-over-the-next-decade-why-is-justin-sun-turning-more-bearish/)**
+**[Bitcoin climbs to $83.5k but oil, AI jitters limit upside](https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711)**
 
-JPMorgan sees Bitcoin returning 10% a year, ahead of stocks and gold. Justin Sun is more bearish. Here is what each view means.
-
-24/7 Wall St. • 17h ago
+Investing.com • 1h ago
 
 ---
 
-**[JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat](https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold)**
+**[Switzerland Bitcoin ETF and Cameroon’s Paul Biya: A Financial Haven Debate](https://www.tradingview.com/news/cryptonews:1f9b2e0ba094b:0-switzerland-bitcoin-etf-and-cameroon-s-paul-biya-a-financial-haven-debate/)**
 
-J.P. Morgan Asset Management projected a 10% compound annual return for Bitcoin over 10 to 15 years, outpacing gold and stocks.
+Switzerland approval of its first retail Bitcoin ETF puts investor protection and financial transparency in focus, as Cameroon President Paul Biya extended stays in Geneva raise questions about accountability in an international financial centre.Switzerland’s financial regulator approved the fund o…
 
-Decrypt • 9h ago
-
----
-
-**[JPMorgan says Bitcoin will beat stocks, bonds and gold](https://finance.yahoo.com/video/jpmorgan-says-bitcoin-beat-stocks-160030480.html)**
-
-JPMorgan now expects bitcoin to outperform U.S. stocks, bonds and gold over the next 10 years, forecasting a 10% annualized base case. It's the first time the bank has put a range on bitcoin returns — a notable shift for a firm whose CEO once called it a "fraud." CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
-
-Yahoo Finance • 14h ago
+TradingView • 4h ago
 
 ---
 
-**[JPMorgan forecasts 10% bitcoin returns: What to know](https://finance.yahoo.com/video/jpmorgan-forecasts-10-bitcoin-returns-163000023.html)**
+**[‘Short the dollar’ and hold gold or Bitcoin as inflation erodes wealth – Ledn’s Leeds](https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-leeds)**
 
-Scott Melker outlines what crypto investors should know about JPMorgan's (JPM) recent comments on bitcoin (BTC-USD) versus stocks and gold (GC=F).
+(Kitco News) – Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and&nbsp;Bitcoin, and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Leeds, CEO of digital-asset-backed lending platform Ledn – which is launching Tether Gold-backed loans in the coming weeks.Leeds said that since COVID, not only seasoned investors but also average people have been enrolled in a crash course on the impacts of inflation on prices and on wealth preservation.“Everyone, including those who are far from being sophisticated investors, is talking about inflation and how to combat it,” he said. The investing community is obviously a section of that. But it's interesting to see how important that is for everyday people as well.”Leeds said the motivation behind Ledn was finding ways to create opportunities for investment that are not at the mercy of local government.&nbsp;“I used to be investing in energy infrastructure for most of my career,” he said. “I spent about 12 years investing in primarily renewable power. And when you invest in renewable power, because the assets are physical, they're tied to a local geo. I'm Canadian, so I was investing a lot in Canada, and we tried to invest in similar projects in places like the Caribbean that had far better energy resources for solar and wind, but the property rights and the jurisdictional risk was just far greater than investing in places that had less resources.”“The main thesis of what we tried to do with Ledn is standardize rates and terms of service regardless of where individual investors are in the world,” he said. “And, moving on to gold, and the reason we have tokenized gold, is really the next evolution of that.”Leeds pointed out that because gold is physical, it has no choice but to be jurisdictional as well.“What we really like about tokenized gold – and specifically XAUT [loans] that we're launching in partnership with Tether – is for the first time it takes gold and converts it into something that's the same for everyone globally,” he said. “The idea is how to create the best standards for it. Swiss vaults are the global standard for gold, so put physical gold in a Swiss vault, and then give everyone the same claim on that physical gold. And then, because it's digital and because it has a scale, it doesn't really matter if you're collateralizing one ounce or 100 tons of gold. It's the same scalability, same metrics.”“Then you pair onto that the financing rates and financing terms,” he explained. “You can make that exactly the same because of the fact that it is the exact same token. Again, the physicality of it doesn't matter, because it's all in the same place.”Leeds said the company is trying to port the advantages of Bitcoin over to gold, and his hope is that tokenized gold acts as a kind of “gateway drug” for people who are more hesitant to invest in the digital assets space because of Bitcoin’s relative volatility.“Tokenized gold is an in-between, where you're saying, ‘Okay, I understand gold; I know that gold is more stable, but I don't really know how to buy physical gold, or I don't feel safe holding physical gold.’ Maybe I'm in a country like Colombia where I'm worried about property rights, or I'm worried about the security of physical gold. Now I can hold it like I'm holding Bitcoin, and frankly, no one has to know I have it, because it's just a digital ledger and a claim on gold in a really safe place,” he said. “It's really about that open access and standardization.”Leeds said that both Bitcoin and gold solve the problem of geographical concentration: Most people’s wealth is way too concentrated in the place where they earn that wealth.“If you're American, you probably have 99% of your assets in the U.S.,” he said. “If you're Canadian, it's probably the same, maybe a little bit of U.S. dollar exposure. That's the thing we're trying to really solve with Ledn is how we transform a person to a bit more of a global investor.”Turning to Bitcoin’s price performance, Leeds echoed the recent views on gold’s resilience when he spoke about the digital currency.“I've been surprised about how well Bitcoin has held up with the recent rate changes,” he said. “But at the same time, I think most investors, especially retail, are really looking for Bitcoin to overperform and, in the event that it's moving sideways, it really struggles to attract attention.”In the absence of 20% monthly price swings, Leeds said investors have spent the last 12 months moving into AI, or SpaceX or other, more risk-on plays.“Gold is the opposite,” he added. “The past 18 months was a little bit different in gold because gold had a pretty crazy run-up, but generally speaking, gold remains the safe haven, the place where you're going to store wealth, but not maybe hit the 25% annualized returns that you can do with Bitcoin.”Looking ahead, Leeds said that he expects both oil and gold to begin performing better once higher inflation becomes firmly entrenched and the Federal Reserve shifts from a policy centered on rate hikes to one focused on quantitative easing and currency devaluation.“All of the information is showing that the US economy should crack, that there's going to be more pain, but the information that keeps coming out isn't showing that,” he said. “I think everyone's watching the administrative policies, thinking, ‘How can this show go on?’ But it just keeps chugging along, to everyone's surprise.”“I continue to believe that eventually things will have to come back in order, and there will be higher inflation,” Leeds said. “There's going to be a need for more quantitative easing, so I'm pretty bullish on the Bitcoin price, six months from now when that does eventually reflect in the numbers.”As far as investor interest in these two alternative assets, Leeds said he sees a future where tokenized gold and Bitcoin are used in tandem in order to benefit from their non-correlation.“We can see a situation where you're cross-collateralizing loans,” he said. “What we may have in the future is the ability to say, ‘Okay, I'm going to take a million-dollar loan, and I'm going to collateralize that with a million dollars of Bitcoin and a million dollars of digital gold.’ That way you're providing extra protection from liquidation, because again, history is showing that they're not generally moving in the same direction, so when gold's having a bad day, Bitcoin may not, and vice versa. And there's obviously less volatility in gold, so that's really important.”The other interesting development Ledn is seeing is increasing interest in gold and Bitcoin on the part of small businesses.“Small businesses are really increasingly thinking about holding Bitcoin treasury,” he said. “Perhaps in the future, we can work with them to hold digital gold treasury as well, because everybody is scared of holding dollars right now. There's such a massive education effort on what inflation is, how you're effectively losing 5%, maybe 6% a year on real inflation. Forget the print; what is it actually, when you go to see prices in the real world? You don't want to hold a million dollars. You effectively want to short the dollar by borrowing it, and you want to hold something hard like Bitcoin or gold.”“This is a real issue,” Leeds said. “Wealth preservation, and how to just not go backwards, is a very privileged problem to have, but a real one for those that have come into a significant amount of wealth.”Leeds said Ledn doesn’t favor investment schemes that focus on staking and gaining yield from&nbsp;Bitcoin; similarly, he likes the idea of using non-yielding&nbsp;gold as collateral for cash.“If used responsibly, it is an asset that historically has increased in value significantly, so therefore just like real estate, it's a good asset to use as collateral and borrow a currency that's inflating like U.S. dollars against,” he said. “We want to create a concept where investors are putting up their gold and using it to borrow, spending their borrowing on expenses, maybe other investments that are generating higher yields. But borrowing responsibly at respectable [loan-to-value ratios] so that they can continue to grow their wealth and that asset without selling it.”Leeds said Ledn’s tokenized gold loans are scheduled to be launched before the end of the year. “Look for an announcement in November or December.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
 
-Yahoo Finance • 13h ago
+Kitco • 1d ago
 
 ---
 
-**[Bitcoin Above $82,500 as U.S. Tech Earnings Begin](https://www.moomoo.com/news/post/1001816911/bitcoin-above-82500-as-us-tech-earnings-begin)**
+**[Bitcoin volatility is now quieter than roughly 20% of the S&P 500](https://seekingalpha.com/news/4654789-bitcoin-volatility-is-now-quieter-than-roughly-20-of-the-sp-500)**
 
-Moomoo • 22m ago
+Seeking Alpha • 19h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate](https://news.ycombinator.com/item?id=50177770)**
+
+Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
+
+⬆️ 4 • 💬 0 • 3h ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
+
+---
 
 **[Strive Targets $500M Raise to Buy More Bitcoin](https://news.ycombinator.com/item?id=50096427)**
 
@@ -271,7 +275,7 @@ Amazon, Google, Meta among members of lobby group funding dire warnings over clo
 
 **[Atlas of Cyberspace (2001)](https://news.ycombinator.com/item?id=50164271)**
 
-⬆️ 1 • 💬 0 • 19h ago • [kitchin.org](https://www.kitchin.org/atlas/contents.html)
+⬆️ 1 • 💬 0 • 1d ago • [kitchin.org](https://www.kitchin.org/atlas/contents.html)
 
 ---
 
@@ -285,7 +289,7 @@ J.P. Morgan just named Bitcoin the best-performing asset in its long-term outloo
 
 📺 Bitcoin Magazine
 
-👁️ 10K • 👍 99 • 💬 23 • ⏱️ 2:41 • 8h ago
+👁️ 16K • 👍 127 • 💬 24 • ⏱️ 2:41 • 14h ago
 
 ---
 
@@ -295,67 +299,7 @@ BlackRock's Bitcoin ETF took in $665 million on Monday, its largest single day s
 
 📺 Yahoo Finance
 
-👁️ 39K • 👍 599 • 💬 116 • ⏱️ 14:55 • 13h ago
-
----
-
-**[Bitcoin Is on the Verge of a MASSIVE Move! (PREPARE)](https://www.youtube.com/watch?v=8g0Ny6Tj7bA)**
-
-Bitcoin is gearing up for a massive move as volatility reaches critical levels after weeks of consolidation. But will the next move ...
-
-📺 Crypto Banter
-
-👁️ 46K • 👍 1K • 💬 35 • ⏱️ 40:21 • 15h ago
-
----
-
-**[$600,000 Bitcoin BOMBSHELL - JPMorgan Now Ranks BTC Above EVERYTHING!](https://www.youtube.com/watch?v=S2eyrIYdW1I)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 6K • 👍 282 • 💬 50 • ⏱️ 13:27 • 11h ago
-
----
-
-**[Market Manipulation. JP Morgan&#39;s Bitcoin &quot;Endorsement&quot;.](https://www.youtube.com/watch?v=tgmLBtZIqWk)**
-
-A ceasefire rumor pumped the entire crypto market, then unraveled and wrecked longs AND shorts. You can't control ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 331 • 💬 16 • ⏱️ 29:27 • 10h ago
-
----
-
-**[Did JPMorgan Just Signal Bitcoin’s Biggest Bull Run?!](https://www.youtube.com/watch?v=mjgVbrsDTFg)**
-
-JPMorgan's latest long-term outlook puts Bitcoin ahead of stocks, gold, and real estate, marking a major shift for a bank led by ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 1K • 💬 79 • ⏱️ 13:00 • 9h ago
-
----
-
-**[Imminent Squeeze?🚨Crypto Market Update](https://www.youtube.com/watch?v=9lTMRLg3Zwc)**
-
-Michael Wilson says the correction is in its final innings, Bessent wants to grow out of the debt, and oil is sliding ahead of the ...
-
-📺 Paul Barron Network
-
-👁️ 60K • 👍 1K • 💬 85 • ⏱️ 13:12 • 11h ago
-
----
-
-**[Crypto On The Ballot, Liquid Hack Fallout, AI Crypto Commerce](https://www.youtube.com/watch?v=rYnzz_I-hDY)**
-
-"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
-
-📺 Bloomberg Television
-
-👁️ 6K • 👍 71 • 💬 3 • ⏱️ 42:39 • 10h ago
+👁️ 43K • 👍 643 • 💬 105 • ⏱️ 14:55 • 19h ago
 
 ---
 
@@ -365,7 +309,57 @@ Bitcoin #Crypto #finance Bitcoin ETFs just posted their best day since September
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 593 • 💬 116 • ⏱️ 1:03:36 • 16h ago
+👁️ 28K • 👍 605 • 💬 124 • ⏱️ 1:03:36 • 22h ago
+
+---
+
+**[Imminent Squeeze?🚨Crypto Market Update](https://www.youtube.com/watch?v=9lTMRLg3Zwc)**
+
+Michael Wilson says the correction is in its final innings, Bessent wants to grow out of the debt, and oil is sliding ahead of the ...
+
+📺 Paul Barron Network
+
+👁️ 72K • 👍 2K • 💬 85 • ⏱️ 13:12 • 17h ago
+
+---
+
+**[Bitcoin&#39;s Next BIG Move Is Loading: Are Your Altcoins Ready?](https://www.youtube.com/watch?v=VI2OwnSywFw)**
+
+Bitcoin could be gearing up for its next major 10% move, and altcoins may be about to follow. In this episode, Sheldon breaks ...
+
+📺 Crypto Banter
+
+👁️ 7K • 👍 645 • 💬 23 • ⏱️ 36:51 • 2h ago
+
+---
+
+**[Bitcoin Is on the Verge of a MASSIVE Move! (PREPARE)](https://www.youtube.com/watch?v=8g0Ny6Tj7bA)**
+
+Bitcoin is gearing up for a massive move as volatility reaches critical levels after weeks of consolidation. But will the next move ...
+
+📺 Crypto Banter
+
+👁️ 49K • 👍 1K • 💬 35 • ⏱️ 40:21 • 21h ago
+
+---
+
+**[THE NEXT BITCOIN MOVE IS OBVIOUS...](https://www.youtube.com/watch?v=PsA7IpMs5wM)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+
+📺 Crypto Rover
+
+👁️ 12K • 👍 616 • 💬 28 • ⏱️ 9:49 • 6h ago
+
+---
+
+**[🏦 Banks Go Bitcoin: JPM Says BTC Beats Every Asset, Token + Compute Wars](https://www.youtube.com/watch?v=qz97QsQr5uI)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 46K • 👍 3K • 💬 85 • ⏱️ 29:08 • 15h ago
 
 ---
 
@@ -375,7 +369,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 52 • ⏱️ 8:43 • 5h ago
+👁️ 42K • 👍 2K • 💬 74 • ⏱️ 8:43 • 11h ago
+
+---
+
+**[Did JPMorgan Just Signal Bitcoin’s Biggest Bull Run?!](https://www.youtube.com/watch?v=mjgVbrsDTFg)**
+
+JPMorgan's latest long-term outlook puts Bitcoin ahead of stocks, gold, and real estate, marking a major shift for a bank led by ...
+
+📺 Simply Bitcoin
+
+👁️ 33K • 👍 2K • 💬 94 • ⏱️ 13:00 • 15h ago
 
 ---
 
