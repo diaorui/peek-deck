@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5",
-      "pub_date": 1792501200.0,
-      "article_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
-      "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
+      "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
+      "pub_date": 1792578539.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+      "image": "https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8",
+      "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
     },
     {
       "headline": "The Robot I Didn\u2019t Expect to Build",
@@ -25,64 +25,24 @@
       "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
     },
     {
-      "headline": "Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services",
-      "source": "SpaceNews",
-      "source_url": "https://spacenews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUQtT2JueUZwR2FJcE5OQ3JLODkyTDh3emVNaXRvcmtLT1lNTDFCbHBWV3l0UGVmUXFnc28zWnhRaVFFTWw1a0hnLXhlYm8tUHBVbnNKQTlGOGxmU2dWanV6Sm5aLUNzeXBmUW5OczZLc3BOU2xJOGpqNnVhdUhHZUtYc3VuV0dpaFFIM1YteXVtR2RLWFFERXUyRUM4OWtRQXdvb1dQNW51MVdZQ0c0RUNfaENTQ0hzaXpCNWQtYVZxNzFlQWdoZU1Hc3AwZExTclE?oc=5",
-      "pub_date": 1792582742.0,
-      "article_url": "https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/",
-      "image": null,
-      "description": null
+      "headline": "Robot Wars How China Has the Robotics Industry in Its Grip",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "source_url": "https://oilprice.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVBzUTdPRFczdENXclRwT0I5c2tmYkpnTzhTeUV0UGd1WnJsZnl4aEdidjN2dnRMdThHN0NtN2tpYUFyX2RXV3N3OTl6VXg5SERVMHRPRHNOWEloZDJWTVhKUVM5bmtzdXN5ZXhNS1VsMlRQcFl5N3lXbVhmbEVHTGRmdUkyQkQ4dHJkVEZSRGpoc2ZsWjJrc0xKVzNZWGpoMlRlWHV4OTROUdIBrwFBVV95cUxPcW1HaXc0N0s1RjllUjFub2szRGdUM3RxS3NoT0g0ZURMVmlmWDQzWUtJWUV1TlI1RkJVQ2hjTmMtTTBKR0tTOGZzOUlzS3hHak1yaE56OFNSbU9NdHJVQi1hR1RXQ1lOMmhYMlJ3bjJMSEc3MnpMMlYyM1lUVlNwY3NLVTY5alR3TUxpZ29lNlBDUFd5aTZla1V6VlRjTjhzR2RFWkZHTlpmQVhuejhV?oc=5",
+      "pub_date": 1792456860.0,
+      "article_url": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-19_sy5ye14dxg.jpg",
+      "description": "Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of."
     },
     {
-      "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
-      "pub_date": 1792578539.0,
-      "article_url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
-      "image": "https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8",
-      "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
-    },
-    {
-      "headline": "Secret trigger words could make AI-powered robots dangerous\u2014and these researchers developed a defense",
-      "source": "Binghamton University",
-      "source_url": "https://www.binghamton.edu",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRUgwYkZEVGpuN2FKMUJsQ2V6OHBHYnc3WkxVN1RhdmE5NFlUaDNab0VDSUFfaW9FTmJBam9Dc3IwWDZZTWxkQTE5c29oUHJ2SUZwV0l2VUZHRU56bWtEVVVRVUlxMUpxbUN5b3YxUmdkZVYwZnNkYXdQMWlJdDRVQllQMklYVzNiNDVfQTVmY0lMc1psVnJuVDJEcnhXWjhvVjFqVENtZGxBNVRnaDVpQ3pjTWN0OE9ZbDdmNDBQWjdrSy1GSmtRNnBVU1BQUWpNaWd2UlVhNGdYREpY?oc=5",
-      "pub_date": 1792521588.0,
-      "article_url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
-      "image": "https://www.binghamton.edu/news/images/uploads/features/_normal/20260921_robotics06_jwc_1.jpg",
-      "description": "A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions\u2014and they developed a defense."
-    },
-    {
-      "headline": "Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEJnYTYwSXhRcktaODc0anJBWU5WcUYzV1gzVnFOT0wxWlVLS3RPTGYwRGVMX3dpNHphVU9tTXlUcUkwdFhUV2g1SVhOM2NCdkVJTGZHSHJORXF3ZmJnMk11VkFyaUhhNG5ZVk5NS0dQcmw0VVhkZW85ZTVnR2hVcW9qVGZyNVhVMGRXWVdpdVYxTWhPNV9WcVFKMDVNMnNTY2E3UjgtNVBFVXZQTi1IWFRVQ0N1UQ?oc=5",
-      "pub_date": 1792460535.0,
-      "article_url": "https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2025/02/LaserWeeder-G2-600.jpg",
-      "description": "The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally."
-    },
-    {
-      "headline": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzRaMjl3OENGMmg5eWRIb0t0dmFLdVFDbGVJeU5vSU1HRDZ0VUJrX3d1R282MTctcHA0V3FPLTZWUW9WajNfNXZNZTFFbWtiX3FCRUotai1fcl9MTzRtLUlXYjVkMFZWRGVwTmFzR0w1WFV3ZjM1V252VWdsd0NkX0xoc1oyRW1ldFR0VnQ4dm9QV1RuaFVLMS0yYXlXVUhtMGNjeENmNWhrYW1SN25oTENOa3Jwdw?oc=5",
-      "pub_date": 1792509332.0,
-      "article_url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
-      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/N7Z7GGRNJ5F6NMMJLQOEQWV35Y.png?width=1200&auth=588ec5dece5c3ad260a5e571286bfba1b5919a8a8a6c05531bbdb71337cbee41",
-      "description": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls."
-    },
-    {
-      "headline": "Delivery Robots Are Watching You, According to Lawsuit",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM24zMFJQcnlTOXV2UkJqVjRxRFE5U0U1dEt2djZUM0tzQXdHUmViMkNQbUpCSEdXWDRadUM0bXZoLXhDS09QUTdMM0ZQZG1Cai1XbWdhREV2ZV96REw0czhWeUZMRVBsLU40ZFBLNjB1MHpBTEVReHZEcWZGdFQyYncxd0taakZ1MDZLWQ?oc=5",
-      "pub_date": 1792530911.0,
-      "article_url": "https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417",
-      "image": null,
-      "description": null
+      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5",
+      "pub_date": 1792501200.0,
+      "article_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+      "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
     },
     {
       "headline": "Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.",
@@ -95,16 +55,56 @@
       "description": "Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly."
     },
     {
-      "headline": "Investing in Eka Robotics",
-      "source": "Andreessen Horowitz",
-      "source_url": "https://a16z.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZTnhBZ3dIdWZZWUdPU1hUVFVURlExeTNEM05kWlU4MVpZdmxNeXBEX2Z0SUk1OGxJdnE4VEJIeGNVOEVLd09FamR6UWF0d0h1NjM2N3dodVVzV3hBbEY2azZOTUxUcm8?oc=5",
-      "pub_date": 1792510352.0,
-      "article_url": "https://a16z.com/announcement/investing-in-eka-robotics/",
-      "image": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/image-117-1.png",
-      "description": "a16z leads Eka Robotics\u2019 Series A"
+      "headline": "Secret trigger words could make AI-powered robots dangerous\u2014and these researchers developed a defense",
+      "source": "Binghamton University",
+      "source_url": "https://www.binghamton.edu",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRUgwYkZEVGpuN2FKMUJsQ2V6OHBHYnc3WkxVN1RhdmE5NFlUaDNab0VDSUFfaW9FTmJBam9Dc3IwWDZZTWxkQTE5c29oUHJ2SUZwV0l2VUZHRU56bWtEVVVRVUlxMUpxbUN5b3YxUmdkZVYwZnNkYXdQMWlJdDRVQllQMklYVzNiNDVfQTVmY0lMc1psVnJuVDJEcnhXWjhvVjFqVENtZGxBNVRnaDVpQ3pjTWN0OE9ZbDdmNDBQWjdrSy1GSmtRNnBVU1BQUWpNaWd2UlVhNGdYREpY?oc=5",
+      "pub_date": 1792521588.0,
+      "article_url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+      "image": "https://www.binghamton.edu/news/images/uploads/features/_normal/20260921_robotics06_jwc_1.jpg",
+      "description": "A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions\u2014and they developed a defense."
+    },
+    {
+      "headline": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzRaMjl3OENGMmg5eWRIb0t0dmFLdVFDbGVJeU5vSU1HRDZ0VUJrX3d1R282MTctcHA0V3FPLTZWUW9WajNfNXZNZTFFbWtiX3FCRUotai1fcl9MTzRtLUlXYjVkMFZWRGVwTmFzR0w1WFV3ZjM1V252VWdsd0NkX0xoc1oyRW1ldFR0VnQ4dm9QV1RuaFVLMS0yYXlXVUhtMGNjeENmNWhrYW1SN25oTENOa3Jwdw?oc=5",
+      "pub_date": 1792509332.0,
+      "article_url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/N7Z7GGRNJ5F6NMMJLQOEQWV35Y.png?width=1200&auth=588ec5dece5c3ad260a5e571286bfba1b5919a8a8a6c05531bbdb71337cbee41",
+      "description": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls."
+    },
+    {
+      "headline": "Delivery Robots Accused of Scanning Customer Faces, Sharing Biometrics, Chicago Residents Are Suing for Privacy Violations",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDFHdXdDV2x5ek1RV01HRFdYSTdfSmNSdWdxUW81QkJrVU50VG5EYWdqUFlzVUNPWnNaNFB4ZDBpOUdQRGdlT3gzQUx4Yk9iOG1feEVzVEsxc1lvQ3NBTTNDcW9aaEhlQW1rak5lbXJiWVlfd0tlTzE5ZTJkaXg1RThMd1BfTVYzYUNyUXFHNHBjdGROUExlcGliYw?oc=5",
+      "pub_date": 1792598388.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/delivery-robots-accused-scanning-customer-155948934.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d8b46fc85f01974d5e521ddf75743db4928e5b9692428f8d64092d0d21e68881/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F83a8eb375995273b9cb0d1ea0491d333.jpg",
+      "description": "Delivery robot lawsuits in Cook County allege Coco and Serve Robotics scanned customer faces without consent, violating Illinois biometric privacy law."
+    },
+    {
+      "headline": "Delivery Robots Are Watching You, According to Lawsuit",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM24zMFJQcnlTOXV2UkJqVjRxRFE5U0U1dEt2djZUM0tzQXdHUmViMkNQbUpCSEdXWDRadUM0bXZoLXhDS09QUTdMM0ZQZG1Cai1XbWdhREV2ZV96REw0czhWeUZMRVBsLU40ZFBLNjB1MHpBTEVReHZEcWZGdFQyYncxd0taakZ1MDZLWQ?oc=5",
+      "pub_date": 1792530911.0,
+      "article_url": "https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Lawsuits claim food delivery robots collect biometric data without consent",
+      "source": "ABC13 Houston",
+      "source_url": "https://abc13.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXhEcnpobENxZTlBQlJJMllZek1TU1hmbEVKaUZGbDVXS2xBWmxsWE5nWG00dFN1TlpQSTZDODNtSmdiVGFVR3huZWRSaTh2S2U3Z0M1RmIxbDNDUHN6SGlLNW8xVVl4N1o2ZENtMWY4ZWtCXzc3VUJsLWJlb1lDNmZXZDY4RTNKeGtSYy01NkFCMzljNFV6QnQ2Zl8zdEY0SFE?oc=5",
+      "pub_date": 1792586380.0,
+      "article_url": "https://abc13.com/story/lawsuits-claim-food-delivery-robots-collect-biometric-data-consent/19964380/",
+      "image": "https://cdn.abcotvs.com/dip/images/19964411_102126-wpvi-delivery-robot-lawsuit-530a-vo-video-vid.jpg?w=1600",
+      "description": "The lawsuit alleges that the robots use technology that scans faces, hands and bodies of people, both customers and others who just happen to be on the sidewalk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T12:11:40.035527+00:00"
+  "fetched_at": "2026-10-21T17:32:34.075970+00:00"
 }

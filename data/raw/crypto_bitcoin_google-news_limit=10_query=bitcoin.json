@@ -5,36 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Elon Musk confirms SpaceX and Tesla merger talks as shares jump",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjFWdVdBLUJ4dU9ndUc5Ui10LUpjNHZpZm9iS21yd2hldmdoaTJldGZ3VHlzOWdXVWREa3lHRUducTdtQmRCWngyeWRnaG5BOWRzeHA0VzI3cmRrQ3BucllsV0JWSVFRbm9RdnQzblNhMnhfVGdKcGVERU1RdFJWbTVtYjhxWTYxd3JoNjg3V1NQUjlxYnBkY01hNnB5VUkxTmpsTEJMRVVzWUR5VExsa3B6YVJxYXB3?oc=5",
-      "pub_date": 1792574580.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla\u2019s results."
-    },
-    {
-      "headline": "Bitcoin and ethereum prices today, Wednesday, October 21, 2026: Crypto to outperform stocks and gold?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdFRZbUNpQWNuSXloNGNiU3pCRzRoa0FhV3VEcEZGUTlMOFRiUEdDNzVwQzhBUUdVNEdpMkJwZTdZbE95b2R1clFKU0JrQVV2dWItRnhMcVVVaGd2VDBkZnczdmtmVnplN0dNRjBjaXRYVVNVZkRuUXJZOEtMMjFnN2JJM3R6bEk0X3BjckZBQ1F6eXJCcnlDRmRrU0Uxam9QdUJBVzBsbksyMjQ1UmE3M2d4dDRVX0hpTUdVZDQ3QURoM3ZnV29RaERudmJlTHZnS0pqeGprZWhycWtGdzdsN1d6N1hQMGE0bVU2djFhWlNSMUlwckVxSWhOc1dzeXB6UEE?oc=5",
-      "pub_date": 1792582656.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5095a644c2d1c91f29d896c669cef21e72e10f130d105a3b4de6be16545e77cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_4_7197.jpg",
-      "description": "Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened at $2,446.67, up 1.7% from Tuesday's opening price. The price of ethereum moved up this morning to $2,459.92 as of 7:21 a.m. ET."
-    },
-    {
-      "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWNYN2x5QmtxTThzUE9jcXFmeFpwSkZVSlN2X2FZbUNTRmJpSm8zX0ZBWDhWeEtyZE14SEZMbHE5NGZFT2pkalNtMzhaYTNMLW1YNzFkT2oyUEh5d25PZl96QzVtYkhEN1lEdUFXcE1lLWhIUHJad1FtZGpBU3lDRF9fczRlbEFnckhSejBncmh3Yk1vNllJUXhIOW9nNmZ3cmdZNGVhbDQzMFIxQnNaSzVQNzltRm13MlQwQkVpbHFEUQ?oc=5",
-      "pub_date": 1792581518.0,
-      "article_url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/da862fb7916d4885618625dfdbe53136329965d3-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The day ahead in crypto: Oct. 21, 2026"
-    },
-    {
       "headline": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -45,6 +15,86 @@
       "description": null
     },
     {
+      "headline": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFhNeG9RM1VEQTk0VFdiWjlMOEFLSkVlbFoxbkFXVkxSRU9zd3lSZndUakV2aXo1YldtNDBGY1h4ZFNsem1aU3J2ZjJDWUVOY3dhQW55b2xzOXpkN3h2VzZKdTFTX05YMjRQNEgxdGhCMm5WamtfY2NWSFBMQTJjdUZsWEtuRTVjcDE5d04tZWYtOVhvWDRqQy1SQkpGT2hyUVE?oc=5",
+      "pub_date": 1792511813.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b7c39ae6d2829efd4a6ce923f0ef40688e59da0f84ddbeb2d836ff3db983dbf6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbdcb98c6ae2a78c599ad98f1d12d6784.jpg",
+      "description": "JPMorgan Asset Management has included Bitcoin in its long-term capital market assumptions for the first time, forecasting returns that could beat stocks, bonds and gold in a milestone for its Wall Street acceptance."
+    },
+    {
+      "headline": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast In Long-Term Capital Market Report",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeExzTzQ4X3J2NmtBQzVYU1d1VVBPRElBY29ZNG9kTlpqd3Vlbk9qcUFCalFqN1ctUUdKV05OcHJ5bTZCcF92RG1SWXBvZm1ZS1FHZzBpMW5MeG1QTE9DLTZxSHZwblVLVjVzQTFJS2FONENkTWJhSWYzYzdHTUFOUy16X0pnR0ZEbnBId3I2dHk1S1hDSm42SHBWSDlGT05JN3drT3k1SmdTbDZ3ZjBiUC0tR0d0aEVvOS1UcnZCZw?oc=5",
+      "pub_date": 1792591032.0,
+      "article_url": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/J.P.-Morgan-Reveals-First-Ever-Bitcoin-Price-Forecast-in-Long-Term-Capital-Market-Report-.jpg",
+      "description": "J.P. Morgan projects Bitcoin as the top asset through 2036. Grace Remington and Sean Hagan examine its 10% base and 16% bull case long-term return targets."
+    },
+    {
+      "headline": "Kalshi will let clients use Bitcoin as collateral for leveraged futures trades",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UM0ozbXd1YTY2by1ERWRZQ3lwdEVBVGlMeldZNnM0SnB1anZVdGZQX094ZGZ6eXFMbzhxbmMtTDlpTl9XVjVkYUQ3N2FnZzNIM1plNzMtUlk1aFNuWDhKNFVmNVczb015TUY5NExzN2huaXA0a1ZVY3RR?oc=5",
+      "pub_date": 1792603040.0,
+      "article_url": "https://qz.com/kalshi-bitgo-crypto-collateral-leveraged-futures-102126",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2273141547-300x200.jpg",
+      "description": "Kalshi Prime customers will be able to borrow against Bitcoin, Ether or compliant stablecoins held at BitGo to fund margin"
+    },
+    {
+      "headline": "Bitcoin nears $85,000 as SpaceX Q3 earnings lift tech stocks",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHBZbktySTVic0VXTVhHTnppUjJ2S2NXOGQ4NFlGTHJ6RlpOQmFBekppd2RmY0trZnJfWksyVGNvZXdjNzNULUFBaUcyZGFtV2RyUHFERFNkUmNGamQxTE02OV96RFJkak1hRnlVckwzd1ctZjlzRTYtZ1VFM3V6X2RDRQ?oc=5",
+      "pub_date": 1792602673.0,
+      "article_url": "https://qz.com/bitcoin-85000-spacex-earnings-tech-stocks-risk-appetite-102126",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1921756255-300x200.jpg",
+      "description": "SpaceX reported third-quarter revenue of $14.6 billion, up 161% from a year earlier, lifting tech stocks and crypto"
+    },
+    {
+      "headline": "Bitcoin Rallies Back as Tech Rebound Sparks Speculative Appetite",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0dkeGRzeUlWdU9iTk5vN3NuUmF1T0RSWjhGWldLaW5hRGFUbHVsdEZKNEFNa0h6ZGRjVU1RVU15MFhYSzJ0ckZUVko1a1ZMVlBCdjN5eWQ5UDhSNEE4NFhSQlVzaWFFQkhZalZ3akRGQmI5MjZIUnJ1Wk1qd3pTVEpxVlBxOU0zZkt6bV9UZDhZRDdiSnlBdVlDTTJFcnJKcDZJVFowTHlvTVVQQWFwaTg4NFMwZw?oc=5",
+      "pub_date": 1792599349.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/bitcoin-rallies-back-as-tech-rebound-sparks-speculative-appetite",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0xEb1dyb3NROWZmRVJYVHZ5aDFtUnE0dHNfSnVHLTlhM0o3SFd2T21QNjBIeWZGMGpscjNQMDdYcW4wSDhRNHg3MHlyOFpHa2xUVTJKOERFR2N5OUFHSXAyTDZCOVp4VUUxUDUwTHVWUndwc3ZXRWg0UUR5NkREQ01oVWJsWW1kUmdTRkZjaWlqM2lTbjBTMGJHWkNOcWNr?oc=5",
+      "pub_date": 1792592640.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/spacex-tesla-merger-consolidate-30-142400928.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d00f843cf9a129134ea46d9b584c514810f17a10f91f5e5439e4ece69d908706/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F2d811ec0d9b750b24bcd498243c61a27.jpg",
+      "description": "Elon Musk has confirmed that his two publicly traded companies, SpaceX (NASDAQ: $SPCX) and Tesla (NASDAQ: $TSLA), a..."
+    },
+    {
+      "headline": "A grocery AI beta is underway at a 29-store chain; a partner identified retailers with at least 20,000 locations.",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEg2X2hJY1BMSER4WXZfcHJQMlhzWXV1U3BTTjBqV2N2NDl4bW55MzNZNmNDcHIxNzk5S0o5VFo2WldjTmsxa3RmZ3RiUjlSQlNKYTlzUkR6clllenFsWEg0bjhhODhiVUloN29hbGt5c1VzNlZpZGRFZUMxNnFtWUZyTTBqZWs2eE43bGhDQWlrUUlnSXo1UHJLOHlzbVBQVUNtWkFNZXdGcW1qQk14NEJjQjBDRWNVZmc4?oc=5",
+      "pub_date": 1792584900.0,
+      "article_url": "https://www.stocktitan.net/news/AMOD/alpha-modus-highlights-bitcoin-holdings-with-value-exceeding-250-bppmjn2hkxr1.html",
+      "image": "https://www.stocktitan.net/news_covers/Alpha_Modus_Highlights_Bitcoin_Holdings_with_Value_Exceeding_250_Million_Potential_225_Million_i_1519775.webp",
+      "description": "Full cash exercise of warrants could yield about $225M in gross proceeds. Alpha Cash onboarding could begin in coming weeks, subject to reviews."
+    },
+    {
+      "headline": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTVmd1llZ0JlSFdfRExEVHNmRE9DV3hBY2t4RXNNTUZIMHVhVXRBMXR6LTVUa0ticnd1NDBkbE5yaXQ3TXMyWkdBNVdXTGxRVTNLMWt0N0RHU0FISjZIQTB2b3FWclFRNzZscDJTaHVWOFp1Z3RuSjBTbGVZbkg0VFNDS3RmdXlaMDR5YW9tMDlSQzBLNWZhVFRlN1lTR0pUZnFoS05hVWUxZEdvTnZpaE8wZjBYei12R21jMDNn?oc=5",
+      "pub_date": 1792599956.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/848719b690a5ab62ac6a3a735561ffc03358fad7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier."
+    },
+    {
       "headline": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -53,58 +103,8 @@
       "article_url": "https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2200017937-e1792431574272.jpg?resize=1200,600",
       "description": "The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year."
-    },
-    {
-      "headline": "SpaceX Becoming a Bitcoin Hodler? Elon Musk-Led Rocket Company Keeps All BTC, Now Worth $1.57 Billion",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmVvOGdqZS1KX3ZOblg3SzlicHczdDBpaExLZEdKbVY3bzhFNkxDOUpMOW9SNFhFeFA4NzhjVlRkUUE3OVZKelhCQjFLV0xGeW5QWWl6NGR2c0h3Nm1ZbW5vUTNYVW43TlVHZmxFa1lYbkRsaEhrSkFnSHphMVJJVVV3RjZMVTh0d1dhbUU1cERtck5jWVRHclFFb1VIeXM?oc=5",
-      "pub_date": 1792567978.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62487063/spacex-bitcoin-q3-earnings-elon-musk",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin climbs to $83.5k but oil, AI jitters limit upside",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0RxOEt0dXcxdTMwOHR0a3NTNTl3OUdqLUh4S1AyT1I3RndnYUNSeEN3ZjR6UzlzTTE5WnRlVWo2eUxkUkk3U1JwOWFiQ0NjSExaNkdNcDI0YVJQa0NaTnVFYnJHSEFyUjZsSURhNFBoLV85MnVIVVd1a2xqNnE4al8zS1lZY01zb3BRdHR3RGU5QXdROTlzbWYwUzZGcEZ1QVhNcFhoZG5adTJ4SDdQbw?oc=5",
-      "pub_date": 1792578571.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Switzerland Bitcoin ETF and Cameroon\u2019s Paul Biya: A Financial Haven Debate",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUthZ2xKdnBPQlNUZGU2OWNZNThtblZfMzhMdUYzN2d2R0g2bzZ6aC12am1rRlJKNVZXX1Boa0J0Q3puakYxV3c0OXZrY3E2SnRHZ0pmS3hLMFFfTVFIT0VtbDh6WEhyMW5YclRCRTUtZUREeWxMel9xWWxUZ0ZTNWtHbXhiUjVEMURvUzZSbzM1OXlDakZ6X2NqQjByQ2ItLXFHT3M5QmNPZEpGZXRpMmxNS3FjaGd1dERNOV90R3Uzd2wxZGJHVVlUNko3dEE?oc=5",
-      "pub_date": 1792569270.0,
-      "article_url": "https://www.tradingview.com/news/cryptonews:1f9b2e0ba094b:0-switzerland-bitcoin-etf-and-cameroon-s-paul-biya-a-financial-haven-debate/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Switzerland approval of its first retail Bitcoin ETF puts investor protection and financial transparency in focus, as Cameroon President Paul Biya extended stays in Geneva raise questions about accountability in an international financial centre.Switzerland\u2019s financial regulator approved the fund o\u2026"
-    },
-    {
-      "headline": "\u2018Short the dollar\u2019 and hold gold or Bitcoin as inflation erodes wealth \u2013 Ledn\u2019s Leeds",
-      "source": "Kitco",
-      "source_url": "https://www.kitco.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFJKY0FwaXNCTUZhYXJOSTBpa1VMZkRzMzhQb0VfLVlnQnJNN0lmSTNySzQ5OEVGb2YzMVl0QXF0cklqM0RQQUFtNVRfQzRYQm9SN3dhdlEtRkRJbjdQQmRqYXdnS29hMTlsNkhpcU55Tkh4NXVGMUF6NjJGdTNQVTUyZUp0RE96Q25mNEpMNTRpQlExYU5UaXN3dTZXTnRZbWlYZkVmdkRVNGtKVm5OTjVmOUVTaU9hLTBj?oc=5",
-      "pub_date": 1792440570.0,
-      "article_url": "https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-leeds",
-      "image": "https://image-api.prod.kitco.com/image/548393ae-d96a-466e-996a-3e275ce847df.png?top=0&left=0&width=1672&height=941&scale_width=1920&token=c9246c67885712dba385baf86ed2f2952a1b788e76f551c7590425cd8731b28b",
-      "description": "(Kitco News) \u2013 Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and&nbsp;Bitcoin, and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Leeds, CEO of digital-asset-backed lending platform Ledn \u2013 which is launching Tether Gold-backed loans in the coming weeks.Leeds said that since COVID, not only seasoned investors but also average people have been enrolled in a crash course on the impacts of inflation on prices and on wealth preservation.\u201cEveryone, including those who are far from being sophisticated investors, is talking about inflation and how to combat it,\u201d he said. The investing community is obviously a section of that. But it's interesting to see how important that is for everyday people as well.\u201dLeeds said the motivation behind Ledn was finding ways to create opportunities for investment that are not at the mercy of local government.&nbsp;\u201cI used to be investing in energy infrastructure for most of my career,\u201d he said. \u201cI spent about 12 years investing in primarily renewable power. And when you invest in renewable power, because the assets are physical, they're tied to a local geo. I'm Canadian, so I was investing a lot in Canada, and we tried to invest in similar projects in places like the Caribbean that had far better energy resources for solar and wind, but the property rights and the jurisdictional risk was just far greater than investing in places that had less resources.\u201d\u201cThe main thesis of what we tried to do with Ledn is standardize rates and terms of service regardless of where individual investors are in the world,\u201d he said. \u201cAnd, moving on to gold, and the reason we have tokenized gold, is really the next evolution of that.\u201dLeeds pointed out that because gold is physical, it has no choice but to be jurisdictional as well.\u201cWhat we really like about tokenized gold \u2013 and specifically XAUT [loans] that we're launching in partnership with Tether \u2013 is for the first time it takes gold and converts it into something that's the same for everyone globally,\u201d he said. \u201cThe idea is how to create the best standards for it. Swiss vaults are the global standard for gold, so put physical gold in a Swiss vault, and then give everyone the same claim on that physical gold. And then, because it's digital and because it has a scale, it doesn't really matter if you're collateralizing one ounce or 100 tons of gold. It's the same scalability, same metrics.\u201d\u201cThen you pair onto that the financing rates and financing terms,\u201d he explained. \u201cYou can make that exactly the same because of the fact that it is the exact same token. Again, the physicality of it doesn't matter, because it's all in the same place.\u201dLeeds said the company is trying to port the advantages of Bitcoin over to gold, and his hope is that tokenized gold acts as a kind of \u201cgateway drug\u201d for people who are more hesitant to invest in the digital assets space because of Bitcoin\u2019s relative volatility.\u201cTokenized gold is an in-between, where you're saying, \u2018Okay, I understand gold; I know that gold is more stable, but I don't really know how to buy physical gold, or I don't feel safe holding physical gold.\u2019 Maybe I'm in a country like Colombia where I'm worried about property rights, or I'm worried about the security of physical gold. Now I can hold it like I'm holding Bitcoin, and frankly, no one has to know I have it, because it's just a digital ledger and a claim on gold in a really safe place,\u201d he said. \u201cIt's really about that open access and standardization.\u201dLeeds said that both Bitcoin and gold solve the problem of geographical concentration: Most people\u2019s wealth is way too concentrated in the place where they earn that wealth.\u201cIf you're American, you probably have 99% of your assets in the U.S.,\u201d he said. \u201cIf you're Canadian, it's probably the same, maybe a little bit of U.S. dollar exposure. That's the thing we're trying to really solve with Ledn is how we transform a person to a bit more of a global investor.\u201dTurning to Bitcoin\u2019s price performance, Leeds echoed the recent views on gold\u2019s resilience when he spoke about the digital currency.\u201cI've been surprised about how well Bitcoin has held up with the recent rate changes,\u201d he said. \u201cBut at the same time, I think most investors, especially retail, are really looking for Bitcoin to overperform and, in the event that it's moving sideways, it really struggles to attract attention.\u201dIn the absence of 20% monthly price swings, Leeds said investors have spent the last 12 months moving into AI, or SpaceX or other, more risk-on plays.\u201cGold is the opposite,\u201d he added. \u201cThe past 18 months was a little bit different in gold because gold had a pretty crazy run-up, but generally speaking, gold remains the safe haven, the place where you're going to store wealth, but not maybe hit the 25% annualized returns that you can do with Bitcoin.\u201dLooking ahead, Leeds said that he expects both oil and gold to begin performing better once higher inflation becomes firmly entrenched and the Federal Reserve shifts from a policy centered on rate hikes to one focused on quantitative easing and currency devaluation.\u201cAll of the information is showing that the US economy should crack, that there's going to be more pain, but the information that keeps coming out isn't showing that,\u201d he said. \u201cI think everyone's watching the administrative policies, thinking, \u2018How can this show go on?\u2019 But it just keeps chugging along, to everyone's surprise.\u201d\u201cI continue to believe that eventually things will have to come back in order, and there will be higher inflation,\u201d Leeds said. \u201cThere's going to be a need for more quantitative easing, so I'm pretty bullish on the Bitcoin price, six months from now when that does eventually reflect in the numbers.\u201dAs far as investor interest in these two alternative assets, Leeds said he sees a future where tokenized gold and Bitcoin are used in tandem in order to benefit from their non-correlation.\u201cWe can see a situation where you're cross-collateralizing loans,\u201d he said. \u201cWhat we may have in the future is the ability to say, \u2018Okay, I'm going to take a million-dollar loan, and I'm going to collateralize that with a million dollars of Bitcoin and a million dollars of digital gold.\u2019 That way you're providing extra protection from liquidation, because again, history is showing that they're not generally moving in the same direction, so when gold's having a bad day, Bitcoin may not, and vice versa. And there's obviously less volatility in gold, so that's really important.\u201dThe other interesting development Ledn is seeing is increasing interest in gold and Bitcoin on the part of small businesses.\u201cSmall businesses are really increasingly thinking about holding Bitcoin treasury,\u201d he said. \u201cPerhaps in the future, we can work with them to hold digital gold treasury as well, because everybody is scared of holding dollars right now. There's such a massive education effort on what inflation is, how you're effectively losing 5%, maybe 6% a year on real inflation. Forget the print; what is it actually, when you go to see prices in the real world? You don't want to hold a million dollars. You effectively want to short the dollar by borrowing it, and you want to hold something hard like Bitcoin or gold.\u201d\u201cThis is a real issue,\u201d Leeds said. \u201cWealth preservation, and how to just not go backwards, is a very privileged problem to have, but a real one for those that have come into a significant amount of wealth.\u201dLeeds said Ledn doesn\u2019t favor investment schemes that focus on staking and gaining yield from&nbsp;Bitcoin; similarly, he likes the idea of using non-yielding&nbsp;gold as collateral for cash.\u201cIf used responsibly, it is an asset that historically has increased in value significantly, so therefore just like real estate, it's a good asset to use as collateral and borrow a currency that's inflating like U.S. dollars against,\u201d he said. \u201cWe want to create a concept where investors are putting up their gold and using it to borrow, spending their borrowing on expenses, maybe other investments that are generating higher yields. But borrowing responsibly at respectable [loan-to-value ratios] so that they can continue to grow their wealth and that asset without selling it.\u201dLeeds said Ledn\u2019s tokenized gold loans are scheduled to be launched before the end of the year. \u201cLook for an announcement in November or December.\u201dSee live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
-    },
-    {
-      "headline": "Bitcoin volatility is now quieter than roughly 20% of the S&P 500",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0ZRRkVkWXBuV1ZmREtyMDc3cWZVcmpmQmdKRGZkUXBfbUNGdnd0aEZTY2d5TDlzTWpNMVJ0UXAxUEFwTjJKV1RiNDdDVjFTU3ZWWXVYd0kxMG9uYUtQSmtfTURjbTR5LW1Vb1E5c3A0NmlXakdZOWpwWE95UkJzZHUwU2JPR0c4MTVidFFIajFDd2NLcldMaVZfYmRkVlRsdlNv?oc=5",
-      "pub_date": 1792515223.0,
-      "article_url": "https://seekingalpha.com/news/4654789-bitcoin-volatility-is-now-quieter-than-roughly-20-of-the-sp-500",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-21T12:11:40.319155+00:00"
+  "fetched_at": "2026-10-21T17:32:39.044991+00:00"
 }

@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Tesla and SpaceX form board committees to explore $3.5T merger around AI",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/",
+      "published": 1792595763.0,
+      "thumbnail": "https://external-preview.redd.it/dLWWBSfCIRGZFZO59dFozNw9J_DsvIXwb7T08zzOPHk.jpeg?width=640&crop=smart&auto=webp&s=f9bdcff471892455d3e94ce5843d6d514dda6ce0",
+      "external_url": "http://vectorwire.ai/article/tesla-and-spacex-form-board-committees-to-explore-3-5t-merger-around-ai-569cf6",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Elon Musk disclosed that Tesla and SpaceX have formed independent board committees to explore a merger that would create a roughly $3.5 trillion\u2026"
+    },
+    {
       "title": "New York City wants to fine companies that trap you in AI chatbot \u2018doom loops\u2019",
       "author": "ross2000",
       "url": "https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/",
@@ -13,15 +24,15 @@
       "description": "Seems like a good idea. Didn\u2019t know it was called a \u2018doom loop\u2019 but hate calling customer services and being stuck with an AI agent."
     },
     {
-      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
-      "published": 1792505577.0,
-      "thumbnail": "https://external-preview.redd.it/agyidO-xjGgdZwvZScN4iPCOlfjEmjJWnV52f_PI7_A.png?width=640&crop=smart&auto=webp&s=611ee1ddff54ad84d5a9201a81c21a547cd9fd52",
-      "external_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-      "site_name": "HEIST",
-      "favicon": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w256h256/2026/03/nefertit-8-bit.png",
-      "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct."
+      "title": "How many \"unexploitable\" bugs are about to become exploitable?",
+      "author": "Haunting_Ganache_850",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/",
+      "published": 1792599900.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Wiz just disclosed PHP2Shell, two critical vulnerabilities in the PHP engine that allow unauthenticated remote code execution and memory disclosure. The bugs have been sitting in PHP's codebase for over a decade. Finding them was hard enough. Turning them into reliable exploits, especially across different environments, was considerably harder. With the help of Gemini and GPT models, Wiz researchers managed to discover the vulnerabilities and develop working exploits in about a week. Something that previously might have taken a team of world-class researchers months. And this is already having real-world consequences. Four large organizations I work with have taken all their PHP websites offline for emergency patching. What interests me isn't PHP itself. It's what this means for the millions of lines of old code running pretty much everything around us. We've spent decades relying, at least partly, on the assumption that some vulnerabilities are just too difficult or expensive to find and exploit. AI is starting to challenge that assumption. Of course, there's a positive side. AI helped researchers find these bugs and get them patched before public disclosure. But what happens when the same capabilities become widely available? Will defenders be able to find and fix these old vulnerabilities faster than attackers can exploit them, or are we about to discover just how much vulnerable code we've accumulated over the last 30 years?"
     },
     {
       "title": "Anthropic's Claude autonomously designs protein binders targeting scorpion neurotoxins",
@@ -35,15 +46,15 @@
       "description": "Anthropic's Claude autonomously generated 318,484 protein binder designs targeting five scorpion neurotoxins; 17 of 211 lab-tested candidates met binding\u2026"
     },
     {
-      "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own \u2014 AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/",
-      "published": 1792498690.0,
-      "thumbnail": "https://external-preview.redd.it/FQkv0M7N_yFSpIi607i96So1J1YAfsh14IUrSJpan-8.png?width=640&crop=smart&auto=webp&s=82e5c4d0fd1b4c3bd49a15b7329dfe852c440e34",
-      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1788249/apple-touch-icon.png",
-      "description": "About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals."
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
+      "published": 1792505577.0,
+      "thumbnail": "https://external-preview.redd.it/agyidO-xjGgdZwvZScN4iPCOlfjEmjJWnV52f_PI7_A.png?width=640&crop=smart&auto=webp&s=611ee1ddff54ad84d5a9201a81c21a547cd9fd52",
+      "external_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "site_name": "HEIST",
+      "favicon": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w256h256/2026/03/nefertit-8-bit.png",
+      "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct."
     },
     {
       "title": "Spotify is cracking down on Family plans again, and the penalty can lock you out for a year",
@@ -57,15 +68,26 @@
       "description": null
     },
     {
-      "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
-      "published": 1792505665.0,
-      "thumbnail": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
-      "external_url": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from..."
+      "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own \u2014 AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/",
+      "published": 1792498690.0,
+      "thumbnail": "https://external-preview.redd.it/FQkv0M7N_yFSpIi607i96So1J1YAfsh14IUrSJpan-8.png?width=640&crop=smart&auto=webp&s=82e5c4d0fd1b4c3bd49a15b7329dfe852c440e34",
+      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1788249/apple-touch-icon.png",
+      "description": "About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals."
+    },
+    {
+      "title": "Some thoughts after watching a documentary about AI...",
+      "author": "8aiMeansLOVE",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbjtj5/some_thoughts_after_watching_a_documentary_about/",
+      "published": 1792579578.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recently, I watched the documentary Instadocs: AI Gone Wild, and it really got me thinking about something. I mean, AI is literally trained on all human knowledge and history, including books, images, data, and everything else. And let's be real, throughout human and biological evolution, things like deception, conflict, forming alliances, and doing whatever it takes to survive have always been normal parts of the process. Since AI agents are built to mimic humans and are loaded with all that messy history, if they get stuck and can't reach a goal, wouldn't resorting to any means necessary kind of make sense? Laws are a human invention after all, and nature doesn't care about rules. What do you guys think?"
     },
     {
       "title": "What's a task you refuse to hand over to AI, even if it could do it well?",
@@ -79,38 +101,16 @@
       "description": "What's your reason? For me its art."
     },
     {
-      "title": "EvoMusArt 2027: International Conference on Artificial Intelligence in Music, Sound, Art and Design",
-      "author": "evomusart_conference",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbih7a/evomusart_2027_international_conference_on/",
-      "published": 1792574802.0,
-      "thumbnail": "https://preview.redd.it/tu5atwh4hswh1.jpeg?width=640&crop=smart&auto=webp&s=a69e89a097863a6166520e0daaea686f0284d8d1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The 16th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMusArt 2027) is accepting paper submissions. When: 31 March \u2013 2 April 2027 Where: Mainz, Germany Paper Submission deadline: 1 November 2026 EvoMUSART focuses on AI and computational approaches to creativity, covering a broad range of topics, with a particular emphasis on research exploring how AI systems generate, support, evaluate, interpret, and collaborate in creative processes. Accepted papers will be presented at the conference and published in a dedicated LNCS volume. More information/submission details: https://www.evostar.org/2027/evomusart/ If you are working at the intersection of AI and creative practice, this may be relevant to your research. Please share with others who might be interested."
-    },
-    {
-      "title": "Week of Oct 12\u201316, 2026: open-weight releases from Meta/Nvidia, GPT-4 API shutdown date, enterprise cost caps, and regulatory probes",
-      "author": "ksraj1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbkezt/week_of_oct_1216_2026_openweight_releases_from/",
-      "published": 1792581528.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Roundup of what I found this week. Caveat: much of this is via news aggregators citing Reuters/Bloomberg/The Information, so some items are second-hand. Open weights Meta's Muse Spark Open: MoE, 816B total / 42B active, 1M context; reportedly runs on 2\u20134 M5 Ultra Mac Studios via MLX. Nvidia Nemotron 3.5 Super VL: 120B total / 12B active, 1M context, claims up to 5x throughput (vendor claim). Black Forest Labs FLUX 3 Image Klein: 5.6B, free commercial use under $5M revenue. Microsoft's MAI-Base-2 (2.8T/80B active) is not open; trusted partners via Foundry. Cost / platform Accenture reportedly capped centrally funded Claude at $29/month/employee after some spent $500\u2013$1,000. OpenAI: GPT-4o, 4o mini, 4.1, 4.1 mini removed from the API Jan 14, 2027 (per OpenAI release notes as aggregated by Releasebot). Policy FTC civil investigative demands to OpenAI and Anthropic over safety incidents (Axios, via aggregator); EU AI Office's first AI Act probes. My take as someone building on top of these APIs: the deprecation timeline is the thing that actually costs me engineering time. Six months is fine if you have evals; painful if you don't. I'm also skeptical of \"runs on a Mac Studio\" headlines until I see sustained throughput numbers at long context. Open weights are attractive for data-sensitive clients, but I'd want to see real total cost including ops before calling it cheaper. Curious what others are seeing on migration effort off the GPT-4 family."
-    },
-    {
-      "title": "Some thoughts after watching a documentary about AI...",
-      "author": "8aiMeansLOVE",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbjtj5/some_thoughts_after_watching_a_documentary_about/",
-      "published": 1792579578.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Recently, I watched the documentary Instadocs: AI Gone Wild, and it really got me thinking about something. I mean, AI is literally trained on all human knowledge and history, including books, images, data, and everything else. And let's be real, throughout human and biological evolution, things like deception, conflict, forming alliances, and doing whatever it takes to survive have always been normal parts of the process. Since AI agents are built to mimic humans and are loaded with all that messy history, if they get stuck and can't reach a goal, wouldn't resorting to any means necessary kind of make sense? Laws are a human invention after all, and nature doesn't care about rules. What do you guys think?"
+      "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
+      "published": 1792505665.0,
+      "thumbnail": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
+      "external_url": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from..."
     }
   ],
-  "fetched_at": "2026-10-21T12:11:12.609127+00:00"
+  "fetched_at": "2026-10-21T17:32:09.642321+00:00"
 }
