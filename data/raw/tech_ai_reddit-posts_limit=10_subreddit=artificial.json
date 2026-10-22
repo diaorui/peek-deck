@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Tesla and SpaceX form board committees to explore $3.5T merger around AI",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/",
-      "published": 1792595763.0,
-      "thumbnail": "https://external-preview.redd.it/dLWWBSfCIRGZFZO59dFozNw9J_DsvIXwb7T08zzOPHk.jpeg?width=640&crop=smart&auto=webp&s=f9bdcff471892455d3e94ce5843d6d514dda6ce0",
-      "external_url": "http://vectorwire.ai/article/tesla-and-spacex-form-board-committees-to-explore-3-5t-merger-around-ai-569cf6",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Elon Musk disclosed that Tesla and SpaceX have formed independent board committees to explore a merger that would create a roughly $3.5 trillion\u2026"
-    },
-    {
       "title": "How many \"unexploitable\" bugs are about to become exploitable?",
       "author": "Haunting_Ganache_850",
       "url": "https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Wiz just disclosed PHP2Shell, two critical vulnerabilities in the PHP engine that allow unauthenticated remote code execution and memory disclosure. The bugs have been sitting in PHP's codebase for over a decade. Finding them was hard enough. Turning them into reliable exploits, especially across different environments, was considerably harder. With the help of Gemini and GPT models, Wiz researchers managed to discover the vulnerabilities and develop working exploits in about a week. Something that previously might have taken a team of world-class researchers months. And this is already having real-world consequences. Four large organizations I work with have taken all their PHP websites offline for emergency patching. What interests me isn't PHP itself. It's what this means for the millions of lines of old code running pretty much everything around us. We've spent decades relying, at least partly, on the assumption that some vulnerabilities are just too difficult or expensive to find and exploit. AI is starting to challenge that assumption. Of course, there's a positive side. AI helped researchers find these bugs and get them patched before public disclosure. But what happens when the same capabilities become widely available? Will defenders be able to find and fix these old vulnerabilities faster than attackers can exploit them, or are we about to discover just how much vulnerable code we've accumulated over the last 30 years?"
+    },
+    {
+      "title": "Tesla and SpaceX form board committees to explore $3.5T merger around AI",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/",
+      "published": 1792595763.0,
+      "thumbnail": "https://external-preview.redd.it/dLWWBSfCIRGZFZO59dFozNw9J_DsvIXwb7T08zzOPHk.jpeg?width=640&crop=smart&auto=webp&s=f9bdcff471892455d3e94ce5843d6d514dda6ce0",
+      "external_url": "http://vectorwire.ai/article/tesla-and-spacex-form-board-committees-to-explore-3-5t-merger-around-ai-569cf6",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Elon Musk disclosed that Tesla and SpaceX have formed independent board committees to explore a merger that would create a roughly $3.5 trillion\u2026"
     },
     {
       "title": "Anthropic's Claude autonomously designs protein binders targeting scorpion neurotoxins",
@@ -46,6 +46,28 @@
       "description": "Seems like a good idea. Didn\u2019t know it was called a \u2018doom loop\u2019 but hate calling customer services and being stuck with an AI agent."
     },
     {
+      "title": "Daily Driver Use As a Professor",
+      "author": "Leading-Air-7120",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/",
+      "published": 1792617542.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been using OpenAI/ChatGPT for the past 3 years and I have quite enjoyed it. With Gemini's Argon being released, I have decided to try it and honestly I have been impressed. The only thing that is really bugging me is the usage rate of Argon. I feel like I use 6 prompts and I have used all 5 hours. I use ChatGPT/Codex for my vibe coding \"needs\" and it is exceptional. I want to save my usage for those tasks. Is using Gemini Flash 3.8 going to give me similar results for creating test questions, making PowerPoint slides, etc. I go through all of them, ensure that I agree with the outputs but I want a model that is wrong less of the time. Is Flash 3.8 good enough, or should I stick to something like GPT 6?"
+    },
+    {
+      "title": "I heavily used ChatGPT to prepare myself for a specific social sector job - should I (not) mention this in the interview?",
+      "author": "Rezzekes",
+      "url": "https://www.reddit.com/r/artificial/comments/1xc2rsf/i_heavily_used_chatgpt_to_prepare_myself_for_a/",
+      "published": 1792625152.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all! I have a background in IT, but I grew out of it and decided to go back to the sector that I originally studied in, namely social work. The job process was uploading your CV/diploma, then a written exam, and if you pass an interview. I made ChatGPT find everything it could about the function and the employer, and then it prepared me for the written exam. Borderline miraculously, because I have zero experience with the people I'll be assisting if I get the job, I passed the exam and am now invited for the interview. I am using ChatGPT heavily to prepare me for that as well, and you know, I actually feel ready. It's insane how much I've learned in such a small timespan. Now on to my question: would you tell that you've used AI to prepare when asked how you prepared yourself? Reading Reddit, it feels like I should be stoned to death for just touching AI. Since it's the social sector, so not tech-based whatsoever, I am seriously doubting on whether me being able to use it to learn is a good thing, or actually a bad thing. What do you think? Probably good to know culturally speaking: I am western-European. I do not particularly hear or read about AI all that much here, so I have no clue of how widespread AI-fear is here. I realize that the jury will likely have very personal views on it, but I appreciate any and all thoughts that you may have on this matter! Thank you!"
+    },
+    {
       "title": "AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/",
@@ -68,49 +90,27 @@
       "description": "Hotel pages are built to make the choice feel simple, but the data behind them isn't. I pulled a lot of live hotel rates and these are the 3 checks that mattered most. It is incredibly frustrating to do them by hand, so have the AI do them. Have it put the free cancellation dates side by side. At the ILUNION in Barcelona the same twin room was 135 with free cancellation until the 8th, and 185 with free cancellation only until the 6th. So the later date wasn't more expensive, it was 50 less. You only see that when the offers sit next to each other, and having 6 different tabs makes it seem complicated. So have AI list every offer for the same room with its cancel date. Have it tell you how many REAL rooms there are, not how many listings. At one hotel in Warsaw (Nobu) I got 48 rates, and they were really 7 rooms with different names and deals. Comparing by hand you think you have 48 choices. But there actually aren't 48, but a lot less. So have it group the offers by bed, size and view, and to only show the best one per room. Have it give you one total for the whole stay, with every tax and fee in. When I looked at 2,702 hotel rates in Marrakesh, 45% had a fee you pay at the hotel on top of what you paid online, and for the same hotel one site showed the city tax and another didn't. So have it add everything up and tell you what the total is for the stay, not the per night number. One honest limit though: it's only as good as the data it can see. If it can't search live offers, it will only guess. so I tell it to say \"I'm not sure\" instead of making up a number if it's not sure about something. To get live hotel data, a normal chat can't search across sites by default, so use it with any connectors. Best is to use Claude because the directory has a lot of them. Some of the best ones are these: Booking.com: https://claude.ai/directory/booking Tripadvisor: https://claude.ai/directory/tripadvisor LetsFG: https://claude.ai/directory/letsfg Enjoy :) and if you have other things you check on a hotel before you pay, drop them in the comments."
     },
     {
-      "title": "Daily Driver Use As a Professor",
-      "author": "Leading-Air-7120",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/",
-      "published": 1792617542.0,
+      "title": "Has anyone figured out if is capcut pro worth upgrading to if you already use capcut",
+      "author": "AfredoMattison-98",
+      "url": "https://www.reddit.com/r/artificial/comments/1xc0ekt/has_anyone_figured_out_if_is_capcut_pro_worth/",
+      "published": 1792619029.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have been using OpenAI/ChatGPT for the past 3 years and I have quite enjoyed it. With Gemini's Argon being released, I have decided to try it and honestly I have been impressed. The only thing that is really bugging me is the usage rate of Argon. I feel like I use 6 prompts and I have used all 5 hours. I use ChatGPT/Codex for my vibe coding \"needs\" and it is exceptional. I want to save my usage for those tasks. Is using Gemini Flash 3.8 going to give me similar results for creating test questions, making PowerPoint slides, etc. I go through all of them, ensure that I agree with the outputs but I want a model that is wrong less of the time. Is Flash 3.8 good enough, or should I stick to something like GPT 6?"
+      "description": "Been using the free tier for random side edits and honestly it handles basic cuts fine. But i noticed Capcut has an early Black Friday promo running rn with discounts on pro, and im on the fence about upgraded. My main issue is hitting paywalls on the AI tools like smart tracking custom voice generation and auto-captions/translation. Did the AI suite speed up your workflow or do you end up burning through credits on gimmicks you barely use? Trying to decide if paying for capcut makes sense while the sale is live or if stick to free rn. Lmk your experiences."
     },
     {
-      "title": "have you ever wanted to know how llms are made from scratch?",
-      "author": "krazybionic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbz9a3/have_you_ever_wanted_to_know_how_llms_are_made/",
-      "published": 1792616358.0,
-      "thumbnail": "https://preview.redd.it/6a5jni6rwvwh1.png?width=140&height=91&auto=webp&s=6fd5d954425405018ac16c303f4743111515bb5e",
+      "title": "Some thoughts after watching a documentary about AI...",
+      "author": "8aiMeansLOVE",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbjtj5/some_thoughts_after_watching_a_documentary_about/",
+      "published": 1792579578.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "if yes, i built something for y'all try now \u2192 insideout.sh https://preview.redd.it/6a5jni6rwvwh1.png?width=1080&format=png&auto=webp&s=a696debf27138b89afd1bc32e99b9f79e28ab5a2"
-    },
-    {
-      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
-      "published": 1792505577.0,
-      "thumbnail": "https://external-preview.redd.it/agyidO-xjGgdZwvZScN4iPCOlfjEmjJWnV52f_PI7_A.png?width=640&crop=smart&auto=webp&s=611ee1ddff54ad84d5a9201a81c21a547cd9fd52",
-      "external_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-      "site_name": "HEIST",
-      "favicon": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w256h256/2026/03/nefertit-8-bit.png",
-      "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct."
-    },
-    {
-      "title": "Spotify is cracking down on Family plans again, and the penalty can lock you out for a year",
-      "author": "Ok-Conversation3213",
-      "url": "https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/",
-      "published": 1792534370.0,
-      "thumbnail": "https://external-preview.redd.it/xcca5dCzgC24EXlySKlsfRg8FxGgmu2SagjIp9iKkSg.jpeg?width=640&crop=smart&auto=webp&s=bcbd9bad21e27a15a30a547dcda69b5afd97a905",
-      "external_url": "https://www.digitaltrends.com/home-theater/spotify-is-cracking-down-on-family-plans-again-and-the-penalty-can-lock-you-out-for-a-year/",
-      "site_name": "digitaltrends.com",
-      "favicon": null,
-      "description": null
+      "description": "Recently, I watched the documentary Instadocs: AI Gone Wild, and it really got me thinking about something. I mean, AI is literally trained on all human knowledge and history, including books, images, data, and everything else. And let's be real, throughout human and biological evolution, things like deception, conflict, forming alliances, and doing whatever it takes to survive have always been normal parts of the process. Since AI agents are built to mimic humans and are loaded with all that messy history, if they get stuck and can't reach a goal, wouldn't resorting to any means necessary kind of make sense? Laws are a human invention after all, and nature doesn't care about rules. What do you guys think?"
     }
   ],
-  "fetched_at": "2026-10-21T21:19:32.899878+00:00"
+  "fetched_at": "2026-10-22T00:06:37.551851+00:00"
 }
