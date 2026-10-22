@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 115,
+      "upvotes": 116,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
@@ -73,7 +73,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 112614,
+      "github_stars": 112818,
       "project_page": null
     },
     {
@@ -126,11 +126,11 @@
       "hf_url": "https://huggingface.co/papers/2610.14162",
       "arxiv_url": "https://arxiv.org/abs/2610.14162",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14162.png",
-      "upvotes": 13,
+      "upvotes": 15,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/HazyResearch/ncm",
-      "github_stars": 702,
+      "github_stars": 745,
       "project_page": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"
     },
     {
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2610.29989",
       "arxiv_url": "https://arxiv.org/abs/2610.29989",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.29989.png",
-      "upvotes": 69,
+      "upvotes": 102,
       "num_comments": 2,
       "published_at": "2026-10-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/Looking-Ahead",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-22T15:30:16.918761+00:00"
+  "fetched_at": "2026-10-22T19:24:16.010533+00:00"
 }
