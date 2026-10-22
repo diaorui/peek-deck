@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnlDSmd3bHZPMnVRaW9oTjhWWTJyalNBR2NNWEVjLVJOaE5WYWdsckk3UVdwRXlNbHJDVzNwSzFCRUF4MVpRalR2b3ktdGF3VUdwcGQ5aVcxSXk2ajRnQ1JTeWE3eUFOaVJLWklxa1o4QWJOQXhYYlFNZjhRLTFNdXhERHdycjBtcllZamYxb18waWtWTmxDMVYxSQ?oc=5",
+      "pub_date": 1792688340.0,
+      "article_url": "https://apnews.com/article/php-vulnerabilities-security-threat-38d37c4c18bf8355b02d85b5a73ed642",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -15,96 +25,86 @@
       "description": "Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world\u2019s websites."
     },
     {
-      "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-      "pub_date": 1792567680.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTUx5Z3NyUXdFVHJ0SENOX0NFcW5WZHpVREdJUHdqaWZFMWRodUNUSUIxOXNwcE1ZU3Z1VUwyYmFjcl9zemN3M2drVE5GSkNuamFOczhKeW1JX1RLRVFJbG1ac2N6bFJiTE9USElSYjJwOUdxSmx3dXNWMkFHdw?oc=5",
-      "pub_date": 1792691100.0,
-      "article_url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1700-nu-rw-lo-l85-e365/threatsday-oct-main.jpg",
-      "description": "This ThreatsDay: Critical RCE flaws, stolen credentials, data breaches, phishing scams, AI security risks, and cyber threats you may have missed."
-    },
-    {
-      "headline": "Meta stock sinks 7% as AI spend pushes free cash flow negative",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSFFjR3I5aUd1LXZFRmNOcEFlM2RxQjdkX05DTmhvS2Z4SDJ1dDlGVWpZVE9hVXBzMlZFSmhxTUhqSFRvZ210RXdKd3JJd3Q1RjU0bHhwdHV3ZlpuV25fb2dxTW1OVUNJczlJNTBVQTNiVjd5WER0T2NUaTVtbDDSAYQBQVVfeXFMUFE4Qjg4VTlqMHB2R05IejZsT1FjYVVmcnBEaTlZV1B5a3NLaWhTazF2Q0UyREpKZFJrakVTWFFVSDJQellSb08wZmFFdjE3eDNINkVjSUJ5ZWM0Z19na3F4SkRJWk5GbXFtUFB3bzYzeS1Fc1ZpUk8yUFNVblJ3di1lZ1pu?oc=5",
-      "pub_date": 1792683685.0,
-      "article_url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108039322-17273001022024-09-25t204232z_1101917728_rc2u7aaqtwho_rtrmadp_0_meta-platforms-virtual-reality-zuckerberg.jpeg?v=1792695599&w=1920&h=1080",
-      "description": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns."
-    },
-    {
-      "headline": "Meta has big plans for its Muse AI agent",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNk1GQWNscXk0Z2NxV0syUElfdkxWMi1tUHhkcFNuUE9tY19qMEZYRGpUbFhiczBsOV9oUUwxWnZOaWtXUjlnd2xJbEUzdGdyemM5M0FqakV5eU5aYlBSY2RTeUI2NmJzSEFzb2NjdDBHVF9YWTRiWjN0V1JBMFNSRV9zRmpScGtqUGxmREF0bzVQUF85ZXJIY2RXZTBMRTM1cUE?oc=5",
-      "pub_date": 1792694426.0,
-      "article_url": "https://finance.yahoo.com/technology/article/meta-has-big-plans-for-its-muse-ai-agent-184026021.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/57e328966cb75811b2c0518757b8389ba0ee4c7556d2cd557f180bfa2f01d019/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F58853ca9-447b-4f61-b7a6-05f09a78b892",
-      "description": "Meta has big plans for its Muse AI agent."
-    },
-    {
-      "headline": "Steep bill for AI buildout punishes Meta, other tech favorites",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
-      "pub_date": 1792694004.0,
-      "article_url": "https://www.reuters.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-2026-10-22/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI's future hinges on public safety concern, cybersecurity, regulatory work in Congress",
+      "headline": "AI discovers bug that could take down 70% of internet",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMThtZENXYS0yYVR3UU40RzN4ZUt4dENfZk1JVS1jMHNkRE1YWkhQdWtXTXJma09acEdNQ25Ral9FOWhEckpTdXJ5TjJUeE84RHZoUGxOdE5saVdKUzZUcUt1RTBLWVlSTXZqRjkzZHQwVlpMVFNDNEY0QmJuMjJEY2t1NzB1Ti1ZQktLZTZzdXdhOUdLX1JMV0puRWV2Tkc3RGxDMzZQcw?oc=5",
-      "pub_date": 1792695063.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-tech-stocks-donald-trump-midterms-safeguards-regulations-october-22",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/eaad09a315b165f82639557d899684bf.jpg",
-      "description": "Big Tech stocks and AI development are surging under Donald Trump\u2019s pro-growth agenda, but the upcoming midterm elections and a potential Democratic Congress could spark aggressive new tech regulation. Get the latest updates today from around artificial intelligence industry."
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKeVNvQ1VUbWFBX0cxTVlqSGw2T3dBakc1cFdMOGp0YWlGNndtQmltQ2ZiX3JQUGJFZzlGcTFZZ0FUMkNGdkswaXRaZXFXamVfWWRuVGNn?oc=5",
+      "pub_date": 1792705650.0,
+      "article_url": "https://www.foxnews.com/video/6407252736112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb13489-1f3e-4cfd-b26f-a0821474504a/34ccee11-9c2c-43f4-998d-68b96b5ed0bf/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Fox Business correspondent Darren Botelho reports on what PHP is, and how websites are patching vulnerabilities, on \u2018Fox & Friends.\u2019"
+    },
+    {
+      "headline": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5",
+      "pub_date": 1792705800.0,
+      "article_url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eef05a29afa3a8a23a2b5d40b2a20bde",
+      "description": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing"
+    },
+    {
+      "headline": "Gene editing scientists slowed down for safety. Could AI leaders follow their guide?",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFaa0VJWHhTOXZFeFphTXJReHFoOFZXalRMSlE0bmpLMnpCRzR3RXVfVDFhTlBMaFF6RDZkUFFqX2RkZEplaHpnY3BFcktaUTlzdHQyeFVpMmwxd283VUdraFJZbGRVYlVubDVDeEFxaGRlSkxXTHpsMTNCVWpBMkR1UTB6enFNR2c3UFloNnFVLUZvaXhEemwzMlFDOGVYS3lndmthTmRLZWxZWU90c3dkb0U5VTYwVXVYWG9yNDVxckJsUmc?oc=5",
+      "pub_date": 1792705133.0,
+      "article_url": "https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "description": "Some of the leaders of the AI race are calling for a slowdown, for safety's sake. Viewed in economics terms, it's a collective action problem: no one wants to slow down unless everyone does."
+    },
+    {
+      "headline": "Smart insoles give runners an AI coach for every step",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1J5SWVWUkM1aE5LUDVOVXdpbE4tenhlamE2NVRQN2hYMkJ3dHBBWXltSUo5dXBSMGpSQUNvN2VIMUhNVUhDWUtGQUFuVlp1dnVremhYcXV2eEgzdUlnVHJ3SkQtT0JjLTBzbUN5RXU0YVFjSHZGV0hjTWx5Um8ya3FtWW1GU1l4emFNOWpDdHoySHVFZGc?oc=5",
+      "pub_date": 1792704540.0,
+      "article_url": "https://www.cbsnews.com/boston/video/smart-insoles-give-runners-an-ai-coach-for-every-step/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/b3d0227c-8919-466a-a2e6-6209aa7abaa7/thumbnail/1200x630/2f341fcedde1c0c3b821f87522bf5164/8bf53b230208d16ebbe8a3434cca89f3.jpg",
+      "description": "A new company is combining smart insoles with sensors and an AI coach that delivers guidance directly through the runners' ears, with the goal of helping them avoid injury. CBS News' Jarred Hill reports."
     },
     {
       "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5",
-      "pub_date": 1792660892.0,
+      "pub_date": 1792661505.0,
       "article_url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
       "image": null,
       "description": null
     },
     {
-      "headline": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
+      "headline": "US banks are blocking third-party AI agents access to customer accounts, sources say",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5",
-      "pub_date": 1792660664.0,
+      "pub_date": 1792703832.0,
       "article_url": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
       "image": null,
       "description": null
     },
     {
-      "headline": "'Tell me what you think': Challenges of managing AI users",
-      "source": "American Banker",
-      "source_url": "https://www.americanbanker.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXR0LTZqY1ZzM1o2TnMwZmZzMDA1bWI5VG9VWWIwRkQya2tBV2JWMm9QM2o1cUFuQk1zOHZ0SDhBeGVoVExqSzJ1NFZKNUYwUy1HV0IyUlY4SXpCcXlZbklTckF0MVQxSzNnWmJtQnY4bm92YUNaTk5kMG5yenF1bjJHNXNQU3ZPdm1pbjVDVDVTYW1x?oc=5",
-      "pub_date": 1792695600.0,
-      "article_url": "https://www.americanbanker.com/news/tell-me-what-you-think-challenges-of-managing-ai-users",
-      "image": "https://arizent.brightspotcdn.com/dims4/default/3732f50/2147483647/strip/true/crop/1020x536+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F4d%2F79%2Fa70442194c6bb708e4d9b4940736%2Frev-chart-visualization-16x9.png",
-      "description": "Speakers at the Most Powerful Women in Banking conference shared some of the challenges they are dealing with as employees lean on AI agents and AI agents start to become employees."
+      "headline": "Spotify Claims It Is \u2018Unusually Well-Positioned\u2019 for an Agentic AI Takeover",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkhLZTVSUTBTb0paTnhwV3UzdHJfS21qaG5GdVN1cmtGQXZmRUNaMVJfaG45VjVkQTNwZmNNNXpPTjBmeFV0bGM3dmdOTHNDaGljMUJCWGV5SUxEVUVUMUlJbXk0VHhUY0hEYkJKMzF2VUhSMTZwT3lGdUxXOUNfRzh2YWZBX1pRN1BkY1RGczVjdEJRbjFNR0FnQXR0VW9oUW9pc19mSQ?oc=5",
+      "pub_date": 1792703132.0,
+      "article_url": "https://gizmodo.com/spotify-claims-it-is-unusually-well-positioned-for-an-agentic-ai-takeover-2000829441",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ3VDLTMxeXhTNEphbE9EcXRDQnNfcTIyQUNKLTF1R1BjMW40b3hqSk9PMENDQ0I5eVJ0UWFfUWhUVnlnVlh3Q0pTak1ScVR4QmE0ZTNLVU12V0NoclZoV2prLVdvUFEyYy1wNldPaV9KZUpEQ2t0dTdBZ0Q?oc=5",
+      "pub_date": 1792680718.0,
+      "article_url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T19:24:28.984302+00:00"
+  "fetched_at": "2026-10-22T22:37:49.108899+00:00"
 }
