@@ -9,8 +9,8 @@
       "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html",
       "hn_url": "https://news.ycombinator.com/item?id=50177770",
       "author": "cybermango",
-      "points": 7,
-      "num_comments": 2,
+      "points": 8,
+      "num_comments": 3,
       "created_at": "2026-10-21T08:48:21Z",
       "object_id": "50177770",
       "image": "https://s.yimg.com/lo/mysterio/api/83d6e0eb4b2f822cc9957d08b312c78d1abf2537301d6d6f39951c60b0b9cfa8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fded8e2cb76ab5f7257cd7f358a1ad147.jpg",
@@ -63,5 +63,5 @@
   ],
   "total_hits": 4,
   "has_metadata": true,
-  "fetched_at": "2026-10-22T00:06:39.257915+00:00"
+  "fetched_at": "2026-10-22T05:11:44.267471+00:00"
 }
