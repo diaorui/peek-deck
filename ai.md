@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-22T19:24:41.063572+00:00'
+updated: '2026-10-22T22:37:52.227325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - news
 - videos
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 22, 2026 at 19:24 UTC  
+**Last Updated:** October 22, 2026 at 22:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.](https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/)**
-
-6h ago
-
----
-
 **[Scientists stunned as new AI unlocks game-changing cancer treatment](https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/)**
 
 The computational platform, named MAESTRO and detailed in the journal Advanced Science, uses large language models, or LLMs, to process established scientific knowledge regarding drug mechanisms and the biological pathways malignant cells exploit to survive treatment
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/americas/ucla-maestro-ai-prostate-cancer-b3071625.html) • 3h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/americas/ucla-maestro-ai-prostate-cancer-b3071625.html) • 6h ago
+
+---
+
+**[YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.](https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/)**
+
+10h ago
 
 ---
 
@@ -55,7 +55,7 @@ The computational platform, named MAESTRO and detailed in the journal Advanced S
 
 ChatGPT maker does not yet have a good explanation for systems’ behaviour, it says
 
-🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html) • 11h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html) • 15h ago
 
 ---
 
@@ -63,31 +63,7 @@ ChatGPT maker does not yet have a good explanation for systems’ behaviour, it 
 
 We’re lookin at AI moderation for a larger B2b customer research project and I’m tryna understand how much human review is still needed afterward I’ve looked at GLG and Qualitate to run the interviews and follow ups. My main question is what happens once you have 30-40 conversations back. Does someone still need to read every transcript or listen to recordings to check the interview quality If so how much work does AI take out of the process?
 
-8h ago
-
----
-
-**[The Proximity Paradox: Why AI Is Making Us Soft—and How to Fight Back](https://www.reddit.com/r/artificial/comments/1xcqlr5/the_proximity_paradox_why_ai_is_making_us_softand/)**
-
-We have a chronic obsession with the finish line. Right now, across every sleek boardroom and digital workspace, we are popping champagne for software that generates entire codebases, drafts multi-page reports, or solves intricate analytical puzzles in a single click. We call it a triumph. But look closer, and you will see a quiet, existential crisis: we are systematically automating away the very thing that makes us good at what we do. When you rely on a machine to bridge the gap between a question and an answer, you aren't just saving time. You are opting out of the cognitive friction required to build genuine talent. You are buying the illusion of competence while letting your own mind rust. The Caffeinated Assistant Modern algorithmic tools are not deep thinkers. They are massive, high-speed probability engines. They don't approach a problem from first principles; they simply sift through trillions of existing human patterns to guess a plausible response. Working with them is less like collaborating with a peer and more like managing an over-enthusiastic, hyper-caffeinated assistant. This assistant can throw a thousand concepts at the wall in seconds. The vast majority of those suggestions will be generic, superficial, or flat-out wrong. But by sheer volume, a tiny fraction might hold water. This shifts the entire human mandate. The machine provides raw, unguided volume; we provide the calibration. Our role is no longer to create from the ether, but to act as a cynical filter—parsing the noise, diagnosing the errors, and selecting the solitary insight that actually works. Without that human guardrail, automation is merely an engine of high-speed clutter. The Death of the Beginner The most immediate casualty of this setup is our baseline skill set. Across fields from software engineering to creative design, professionals are watching their production metrics skyrocket while their manual execution skills begin to whither. By offloading entry-level tasks to software, we are inadvertently blowing up the pipeline for future expertise. Consider the collateral damage: The Extinction of the Novice: To build deep professional intuition, you have to struggle through the tedious, frustrating fundamentals of the craft. There are no shortcuts. The Expert Deficit: If junior workers rely on automation to handle the basics, they never develop the complex problem-solving mental models required for senior-level strategy. The Audit Crisis: If we stop training humans to do the foundational work, we will eventually run out of people with enough structural knowledge to review, verify, and correct the machine's work when it inevitably breaks down. Editing a Mirage I watched someone produce a flawless, finished piece of work the other day without a single foundational sketch, draft, or skeleton to show for it. It was instantaneous. On paper, it was efficient. In reality, it felt hollow. We have completely inverted the creative process. For centuries, human invention followed a strict, bottom-up anatomy. You started with a bare skeleton. You sketched the rough, ugly lines. You made mistakes, changed your mind, and slowly layered the skin onto the bone. It was a slow, deliberate climb. Today, we plug a prompt into a machine, and it hands us a fully realized, pristine product. We then sit there with our digital chisels, cutting, distilling, and carving away at this pre-made object to force it into what we actually want. We aren't building anymore; we are just editing a mirage. The brilliant mathematician Terence Tao famously noted that using AI is like flying over a mountain in a helicopter just to look at the peak. You might see the view, but you haven't actually climbed it. The true crisis isn't just that our personal skills are getting lazy. It is that we are permanently losing the power of accidental invention. When you are forced to climb the mountain by hand, you get lost. You take a wrong turn, stumble into an unmarked valley, and discover an entirely different way of getting to the top—or you find a completely different peak altogether. That messy, frustrating middle ground is exactly where original human insight is born. When you start with a finished product, those fertile accidents are impossible. You are trapped within the boundaries of what the machine already decided was the most probable outcome. You can trim the edges or rewrite a paragraph, but you are still just reacting to a baseline that isn't yours. You never get to experience the weight of the raw materials. Reclaiming the Friction Efficiency is an asset, but it becomes a liability the moment it leaves our minds passive. Technology should handle the routine processing of data, but we must retain absolute ownership over deep understanding. We have to consciously choose to run toward the friction of learning rather than outsourcing it. The goal is to use automation to clear away routine obstacles, freeing up our mental bandwidth to focus on original concepts and ethical oversight. If we completely stop exercising our baseline cognitive skills, we risk automating our own intelligence into obsolescence. Turn off the machine, pick up the pen, and start climbing the mountain the hard way.
-
-56m ago
-
----
-
-**[For the first time, artificial intelligence is a top 10 fear in the U.S. Many Americans are more scared of AI than a loved one getting sick.](https://www.reddit.com/r/artificial/comments/1xc70jr/for_the_first_time_artificial_intelligence_is_a/)**
-
-Many Americans are more scared of AI than a loved one getting sick.
-
-🔗 [Popular Science](https://www.popsci.com/health/top-10-fears-2026-artificial-intelligence/) • 16h ago
-
----
-
-**[The inside story behind OpenAI’s million-dollar math proof](https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/)**
-
-AI’s solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for math—and the world
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/) • 53m ago
+11h ago
 
 ---
 
@@ -95,31 +71,59 @@ AI’s solution to the Navier-Stokes problem, and the details of how it happened
 
 This one caught me off guard. During China's Double 11 shopping festival, ByteDance's chatbot Doubao has started bringing up shopping on its own. Two Chinese outlets tested it this week. They were chatting about things that had nothing to do with shopping, Doubao mentioned that the weather was getting colder, and then it offered them Douyin Mall coupons, one of them 900 yuan off a 7,000 yuan order. For context, Douyin is ByteDance's Chinese TikTok, and Doubao is the most used AI app in China with roughly 400 million monthly users. It gets more interesting the further you dig you can now watch Douyin livestreams inside Doubao's answers and buy straight from them without leaving the chat buying through Doubao is often cheaper than buying on Douyin itself, because Doubao throws in its own subsidy. One down jacket was 894 yuan in Doubao and 919 on Douyin the motive is pretty obvious. LatePost reported Doubao had over 200 million daily users in the first half of the year but only about 10 million yuan a day in e-commerce sales people are also spending less time in it, down from 144 minutes a month in June to 133 in September, according to QuestMobile What bothers me most is the sourcing. QuestMobile found that on travel destination questions, 97.7% of Doubao's answers cited Douyin content and 84.5% cited Toutiao, which is also ByteDance. So one company owns the chatbot, the sources it quotes and the store it sends you to. It has also shown shoppers prices it could not have checked. In a June test by Jiemian, Doubao produced a neat price comparison across JD, Taobao and Pinduoduo, even though it is not connected to JD or Pinduoduo. Those prices came from the model, not the stores, and one was a best-case price most people could not actually get. Then it finished with a Douyin product card. Alibaba's Qwen got the same question and just admitted it could not check those sites. In fairness, the unprompted coupons come from reporters' own tests during what looks like a gradual rollout, so not everyone is seeing them yet. Honest question. If a chatbot got you a better price than the store, would you care that it started the sales pitch itself? Or is that where you stop trusting anything it says?
 
-3h ago
+7h ago
 
 ---
 
-**[Five out of six AI chatbots stay in the political middle ground](https://www.reddit.com/r/artificial/comments/1xcpa72/five_out_of_six_ai_chatbots_stay_in_the_political/)**
+**[The inside story behind OpenAI’s million-dollar math proof](https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/)**
 
-[] Image: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt
+AI’s solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for math—and the world
 
-In the lead-up to
-
-🔗 [News Powered by Cision](https://news.cision.com/chalmers/r/five-out-of-six-ai-chatbots-stay-in-the-political-middle-ground,c4412506) • 1h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/) • 4h ago
 
 ---
 
-**[Orgtree v4.4: Projects!](https://www.reddit.com/r/artificial/comments/1xcrwj4/orgtree_v44_projects/)**
+**[For the first time, artificial intelligence is a top 10 fear in the U.S. Many Americans are more scared of AI than a loved one getting sick.](https://www.reddit.com/r/artificial/comments/1xc70jr/for_the_first_time_artificial_intelligence_is_a/)**
 
-https://github.com/Maurdekye/orgtree/releases/latest Welcome back folks, it's time for another Orgtree update. And this time, it's a big one: Projects! At a surface level, projects do what you might expect; they give your agents a central location where they can self-organize and collaborate under. But in Orgtree, they do so much more than that; they're a way of organizing hierarchies of agents, of drawing lines between agent communication, and of managing collaborative and concurrent work in a structured way, with tons of extra tools for helping agents coordinate concurrently. Before we get into that though, if you're unfamiliar: Orgtree is my desktop multi-agent, multi-provider, multi-account, persistent visual orchestration system, which i've been building tirelessley for the last nearly 3 months straight. It runs as an app on your PC, and allows agents to collaborate 24/7, working directly from your existing subscriptions & harnesses from several major leading AI providers, including claude, chatgpt, gemini, muse, and openrouter. If you'd like to know more about what orgtree can do, I suggest checking out my post on the release of v4, or just checking the readme in github. Finished with that? Alright, let's get into it! --- So, Projects in v4.4. What are they? Put simply, projects are a new type of node on the canvas that sit alongside agents. They don't do anything on their own, but instead serve as the structural backbone of your org's hierarchy and information storage. They have a summary (which acts like a team charter), and their own scratch directory with its own AGENTS.md file. Projects allow you to organize your different ideas into subgroups without having to rely on creating agents for them each time. They also mean, you don't have to worry about losing valuable shared project information when you retire the one agent who's been working on it for the last two days, because your weekly limit ran out, or you decided to switch providers. Beyond that though, projects offer more than just simple organizational structure on the graph. They come packed with a number of extra collaboration systems that, if you're familiar with concurrent programming, might be familiar to you~ They have three additional systems that extend their purpose beyond just a simple collaborative workspace: The Mailbox Queue: Despite not being an agent, every project still has a mailbox, like any other agent would. Why, you might ask? Who reads this mail? Well, the answer, is anybody who chooses to! Any number of agents under the project can set up a "fair queue mail listener", connecting themselves to it with a magenta line. Whenever the project receives a mail, it's then distributed among each listener in order, distributing them evenly in a round-robin fashion. In this way, the project's inbox can act like a Load-Balancer for distributed work. Additionally, if you switch mail delivery mode from "Round-robin" to "ACK Mode", all delivered mail requires the receiving agent to send an acknowledgement response back when it finishes before receiving any new mail. With that setting enabled, the project's mailbox can act like a FIFO queue. Concurrency Slots: Entering a project's settings and setting this to any value above 0 enables "concurrency slots" on the project. Agents can then register a yellow "slot claim" on the project, and claim a slot from the queue when one is available. You can think of concurrency slots like a token system: only a fixed number of agents can hold a token at the same time, while all the others who want one wait behind them in a line. In this way, concurrency slots act like a simple Semaphore, which can be used to guard concurrent access to tight resources, such as ram, cpu usage, network, or sensitive files. Setting the token count to 1 effectively treats the system like a Mutex, allowing only a single agent to hold access to the resource at once. Setting the token count very high can allow it to work like a Read/Write Lock: all readers claim a single token, and any writers claim all available tokens at once. Project Events: Going into a project's settings and enabling Project Events unlocks a third and final feature. Agents can register a custom "event listener" on the project, which connects their node to the project with a distinctive cyan line. At any time, the user or another agent can "fire" that event with a custom message, alerting all of the listening agents at once. In this way, the project can function like a Monitor. Additionally, other agents can set up a second type of event, known as a "listen watcher". When the number of normal listeners passes a certain desired threshold, the listen watcher itself fires. You can take this one step further, and set the listen watcher to auto-trigger the associated project's event, meaning the project fires the event the moment the necessary number of agents join it. You can think of this as mimicing a Sync Barrier. This might be a bit complex to understand, and to be honest, I don't know if anyone will use most or any of these features at all besides me. But, this is my tool, and I get to decide what features I put in it, dammit! ...anyway, building projects has taken such a long time getting all the little nitty-gritty details right, I collected a ton more additional additions, features, and improvements along the way, which are also shipping with this version: Improved session stability & administrative operation: This is more of a behind-the-scenes fix, but the way Orgtree runs in the background while you're logged off, when you reboot, and when you enable / disable administrative access has been thoroughly hardened and rebuilt. Orgtree should generally be much more robust in its operation, and require a lot less manual workarounds regarding running from boot, accessing desktop features, and accessing operations locked behind administrative privilege. Ideally, you don't notice anything day-to-day; that's exactly the point. Agent Mentions: Agents can now mention each other in their transcripts. When an agent mentions another agent, whether it be in a response, a mail, a ticket, a presentation, or anywhere else, that mention renders as a link directly to that agent, which you can left or right click on to focus it directly. no more having to manually search the graph for a specific agent your coordinator cited by name; now you can just click it and go straight there. User Mentions: Mentions don't stop there, though. You can mention agents too: just type an @ symbol in the messagebox, and a list of all the agents in your org show up, which you can tab through to autocomplete from. Agents can also mention you; by typing \@user anywhere they can write to it, they can grab your attention and draw it to whatever line / mail / ticket / presentation was mentioned, same as when asking a question or sending you urgent mail. You even get a notification on your desktop when the window's unfocused. More watchdog types: Along with the aformentioned three new types associated with projects (which structure their cyan / magenta / yellow colored listeners as watchdogs), there are also now watchdogs that can fire on websocket or mqtt events matching a certain pattern. They can even publish events back through their held connection. This should make it much easier to integrate your org with other realtime services. Watchdogs can also now pay attention to usage limits, so you can set one off the moment your account goes above 95% weekly to halt your work. Fast mode: Claude and Codex agents support enabling a "Fast" / "Ultrafast" mode under certain circumstances, which redirects your requests to faster hardware at an additional price per token. Now, you can enable it for your Claude and Codex agents in Orgtree. Improved context menus: Context menus have been significantly juiced up across the app. You can do basically almost anything you can via the ui from relevant context menus now: hire / retire / halt / compact agents, view any tab or panel from any agent or project, view any context menu option for the owner of a ticket, for the presenter of a presentation, and so on. Any link that directs you to an agent from anywhere in the app (including mentions) gives you that agent's full context menu, and shows you details about the agent itself when hovered (such as its model, account, effort level, and speed). It's the kind of thing you don't really notice until you start to get comfortable, and then think to yourself later, "how did I ever live without this before?" Do Not Disturb: Have an agent that often seems to get lost in its mailbox, and loses track of its original job getting caught up in the collaboration? Agents can now enable an optional Do Not Disturb mode during their turn. While on, all mail they receive is held up and not automatically delivered to them, leaving them in peace while they work. Do Not Disturb automatically ends at the end of the agents' turn, where all of their mail collected during the period is delivered at once in one large batch, so they can respond to it. You & other agents can bypass the barrier by sending urgent mail, which is delivered promptly even during DnD, and the agent itself can always choose to check its inbox manually to receive normal mail anyway, if it chooses to. Mail Tags: Mail sent to you can now have a number of named tags attached to it. See them beside each mail in your inbox, and filter by different tags yourself. Simple enough, really. That's barely half of them, by the way. There are dozens of smaller features as well: Change an agent's model by clicking its icon, either while hiring it or in its desk afterwards Improved transcript annotations in Antigravity agents Improved controls for viewing the usage history graphs Relevant options when right-clicking the icon in the taskbar Quick chat's configuration menu collapses when the window is narrow Desks remember the last tab you had open Two new charter presets, the Liaison and Developer, used alongside the new builtin org template, the Heavy Dev Shop, which incorporates a project Optimized startup instructions for all agents Several different panels of the same type can be opened at once, from different agents New "team" tab in agents and projects Org templates can now carry preset contents for AGENTS.md files throughout org, agent, and project scratch folders Ephemeral helper agents show their live transcript when the call is expanded Mid-turn steering when using Opencode Unread or changed presentations are highlighted LaTeX rendering support (for you argon enjoyers out there) Transcript shows approximate output token counts for tool uses and thinking Ticket cards in the transcript are highlighted to show their current working state One-shot watchdogs resolve immediately from the tool call without registering if the condition is already satisfied on creation There's plenty more to read about in the changelog if you're interested. Undoubtedly, this is by far the most effort I've put into a single release, and that includes the v3 and v4 releases. This release had over 35 alpha builds I had to manually review and give corrections on, more than double the second highest count from a previously published build! I've been working on it continuously since releasing 4.3.1, and that was more than a week ago! In vibe-coding terms, that's basically an entire year :p I really hope you like all the new features I've put into this update. I've really poured my heart and soul into it 💜, and even if you don't use most of them, I hope you find at least one thing that improves your workflow. Happy vibing, all!
+Many Americans are more scared of AI than a loved one getting sick.
 
-8m ago
+🔗 [Popular Science](https://www.popsci.com/health/top-10-fears-2026-artificial-intelligence/) • 19h ago
+
+---
+
+**[Figure All Hands 2026](https://www.reddit.com/r/artificial/comments/1xcub9s/figure_all_hands_2026/)**
+
+Curious on people's thoughts on the pre-train vs post-train strategy in robotics AI?
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=AoFwpf43wK0) • 1h ago
+
+---
+
+**[The Proximity Paradox: Why AI Is Making Us Soft—and How to Fight Back](https://www.reddit.com/r/artificial/comments/1xcqlr5/the_proximity_paradox_why_ai_is_making_us_softand/)**
+
+We have a chronic obsession with the finish line. Right now, across every sleek boardroom and digital workspace, we are popping champagne for software that generates entire codebases, drafts multi-page reports, or solves intricate analytical puzzles in a single click. We call it a triumph. But look closer, and you will see a quiet, existential crisis: we are systematically automating away the very thing that makes us good at what we do. When you rely on a machine to bridge the gap between a question and an answer, you aren't just saving time. You are opting out of the cognitive friction required to build genuine talent. You are buying the illusion of competence while letting your own mind rust. The Caffeinated Assistant Modern algorithmic tools are not deep thinkers. They are massive, high-speed probability engines. They don't approach a problem from first principles; they simply sift through trillions of existing human patterns to guess a plausible response. Working with them is less like collaborating with a peer and more like managing an over-enthusiastic, hyper-caffeinated assistant. This assistant can throw a thousand concepts at the wall in seconds. The vast majority of those suggestions will be generic, superficial, or flat-out wrong. But by sheer volume, a tiny fraction might hold water. This shifts the entire human mandate. The machine provides raw, unguided volume; we provide the calibration. Our role is no longer to create from the ether, but to act as a cynical filter—parsing the noise, diagnosing the errors, and selecting the solitary insight that actually works. Without that human guardrail, automation is merely an engine of high-speed clutter. The Death of the Beginner The most immediate casualty of this setup is our baseline skill set. Across fields from software engineering to creative design, professionals are watching their production metrics skyrocket while their manual execution skills begin to whither. By offloading entry-level tasks to software, we are inadvertently blowing up the pipeline for future expertise. Consider the collateral damage: The Extinction of the Novice: To build deep professional intuition, you have to struggle through the tedious, frustrating fundamentals of the craft. There are no shortcuts. The Expert Deficit: If junior workers rely on automation to handle the basics, they never develop the complex problem-solving mental models required for senior-level strategy. The Audit Crisis: If we stop training humans to do the foundational work, we will eventually run out of people with enough structural knowledge to review, verify, and correct the machine's work when it inevitably breaks down. Editing a Mirage I watched someone produce a flawless, finished piece of work the other day without a single foundational sketch, draft, or skeleton to show for it. It was instantaneous. On paper, it was efficient. In reality, it felt hollow. We have completely inverted the creative process. For centuries, human invention followed a strict, bottom-up anatomy. You started with a bare skeleton. You sketched the rough, ugly lines. You made mistakes, changed your mind, and slowly layered the skin onto the bone. It was a slow, deliberate climb. Today, we plug a prompt into a machine, and it hands us a fully realized, pristine product. We then sit there with our digital chisels, cutting, distilling, and carving away at this pre-made object to force it into what we actually want. We aren't building anymore; we are just editing a mirage. The brilliant mathematician Terence Tao famously noted that using AI is like flying over a mountain in a helicopter just to look at the peak. You might see the view, but you haven't actually climbed it. The true crisis isn't just that our personal skills are getting lazy. It is that we are permanently losing the power of accidental invention. When you are forced to climb the mountain by hand, you get lost. You take a wrong turn, stumble into an unmarked valley, and discover an entirely different way of getting to the top—or you find a completely different peak altogether. That messy, frustrating middle ground is exactly where original human insight is born. When you start with a finished product, those fertile accidents are impossible. You are trapped within the boundaries of what the machine already decided was the most probable outcome. You can trim the edges or rewrite a paragraph, but you are still just reacting to a baseline that isn't yours. You never get to experience the weight of the raw materials. Reclaiming the Friction Efficiency is an asset, but it becomes a liability the moment it leaves our minds passive. Technology should handle the routine processing of data, but we must retain absolute ownership over deep understanding. We have to consciously choose to run toward the friction of learning rather than outsourcing it. The goal is to use automation to clear away routine obstacles, freeing up our mental bandwidth to focus on original concepts and ethical oversight. If we completely stop exercising our baseline cognitive skills, we risk automating our own intelligence into obsolescence. Turn off the machine, pick up the pen, and start climbing the mountain the hard way.
+
+4h ago
+
+---
+
+**[Ninety Days on Lobsters: how a programming community talked about AI · Radius](https://www.reddit.com/r/artificial/comments/1xcstsa/ninety_days_on_lobsters_how_a_programming/)**
+
+"… We did not want to know what the loudest people think. Loud people are easy to find. We wanted to know what the room as a whole thinks, so wherever possible we count people rather than comments, and we look at the quieter signals too: votes, flags, and who stays away. …"
+
+🔗 [Radius](https://radius.earendil.com/artifact/01m59h7w4ke3j89g3a0yzd33d8) • 2h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[What to know about the AI-detected security bug impacting wide swaths of the internet](https://apnews.com/article/php-vulnerabilities-security-threat-38d37c4c18bf8355b02d85b5a73ed642)**
+
+AP News • 5h ago
+
+---
 
 **[Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet](https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl)**
 
@@ -129,67 +133,59 @@ CNN • 1d ago
 
 ---
 
-**[Government websites go dark after AI-discovered flaw sparks security scramble](https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/)**
+**[AI discovers bug that could take down 70% of internet](https://www.foxnews.com/video/6407252736112)**
 
-Reuters • 1d ago
+Fox Business correspondent Darren Botelho reports on what PHP is, and how websites are patching vulnerabilities, on ‘Fox & Friends.’
 
----
-
-**[ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More](https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html)**
-
-This ThreatsDay: Critical RCE flaws, stolen credentials, data breaches, phishing scams, AI security risks, and cyber threats you may have missed.
-
-The Hacker News • 1h ago
+Fox News • 50m ago
 
 ---
 
-**[Meta stock sinks 7% as AI spend pushes free cash flow negative](https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html)**
+**[Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump](https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil)**
 
-Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.
+Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing
 
-CNBC • 3h ago
-
----
-
-**[Meta has big plans for its Muse AI agent](https://finance.yahoo.com/technology/article/meta-has-big-plans-for-its-muse-ai-agent-184026021.html)**
-
-Meta has big plans for its Muse AI agent.
-
-Yahoo Finance • 44m ago
+The Guardian • 47m ago
 
 ---
 
-**[Steep bill for AI buildout punishes Meta, other tech favorites](https://www.reuters.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-2026-10-22/)**
+**[Gene editing scientists slowed down for safety. Could AI leaders follow their guide?](https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide)**
 
-Reuters • 51m ago
+Some of the leaders of the AI race are calling for a slowdown, for safety's sake. Viewed in economics terms, it's a collective action problem: no one wants to slow down unless everyone does.
+
+NPR • 58m ago
 
 ---
 
-**[AI's future hinges on public safety concern, cybersecurity, regulatory work in Congress](https://www.foxnews.com/live-news/ai-tech-stocks-donald-trump-midterms-safeguards-regulations-october-22)**
+**[Smart insoles give runners an AI coach for every step](https://www.cbsnews.com/boston/video/smart-insoles-give-runners-an-ai-coach-for-every-step/)**
 
-Big Tech stocks and AI development are surging under Donald Trump’s pro-growth agenda, but the upcoming midterm elections and a potential Democratic Congress could spark aggressive new tech regulation. Get the latest updates today from around artificial intelligence industry.
+A new company is combining smart insoles with sensors and an AI coach that delivers guidance directly through the runners' ears, with the goal of helping them avoid injury. CBS News' Jarred Hill reports.
 
-Fox News • 33m ago
+CBS News • 1h ago
 
 ---
 
 **[Scoop: Unvetted AI agents are accessing U.S. bank accounts](https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access)**
 
-Axios • 10h ago
+Axios • 13h ago
 
 ---
 
-**[US banks detect unauthorized AI agents in customer accounts, Axios reports](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/)**
+**[US banks are blocking third-party AI agents access to customer accounts, sources say](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/)**
 
-Reuters • 10h ago
+Reuters • 1h ago
 
 ---
 
-**['Tell me what you think': Challenges of managing AI users](https://www.americanbanker.com/news/tell-me-what-you-think-challenges-of-managing-ai-users)**
+**[Spotify Claims It Is ‘Unusually Well-Positioned’ for an Agentic AI Takeover](https://gizmodo.com/spotify-claims-it-is-unusually-well-positioned-for-an-agentic-ai-takeover-2000829441)**
 
-Speakers at the Most Powerful Women in Banking conference shared some of the challenges they are dealing with as employees lean on AI agents and AI agents start to become employees.
+Gizmodo • 1h ago
 
-American Banker • 24m ago
+---
+
+**[How the A.I. Boom Is Driving Up Sales of Gray Paint](https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html)**
+
+The New York Times • 7h ago
 
 ---
 
@@ -209,7 +205,15 @@ Core PHP engine flaws enable remote code execution and Heartbleed-style memory d
 
 No more fines for not taking out the trash at your Airbnb.
 
-⬆️ 232 • 💬 214 • 19h ago • [The Verge](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
+⬆️ 242 • 💬 222 • 22h ago • [The Verge](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
+
+---
+
+**[OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://news.ycombinator.com/item?id=50198675)**
+
+OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell
+
+⬆️ 239 • 💬 126 • 4h ago • [GitHub](https://github.com/NVIDIA/OpenShell)
 
 ---
 
@@ -225,7 +229,15 @@ Steam Next Fest, Valve's festival for indie games and demos, started earlier tod
 
 See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
 
-⬆️ 153 • 💬 102 • 1d ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
+⬆️ 154 • 💬 103 • 1d ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
+
+---
+
+**[Every AI model has the same "controversial" take on humans](https://news.ycombinator.com/item?id=50197313)**
+
+We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
+
+⬆️ 147 • 💬 167 • 6h ago • [ModelCompare](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 
 ---
 
@@ -233,7 +245,7 @@ See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to un
 
 The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
 
-⬆️ 124 • 💬 26 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cmreyvepnv0po)
+⬆️ 126 • 💬 26 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cmreyvepnv0po)
 
 ---
 
@@ -241,7 +253,15 @@ The BBC speaks to several current and former Google DeepMind employees about the
 
 Disclaimer: by AI writing I mean text with at least 50% of the words generated by AI
 
-⬆️ 93 • 💬 61 • 1d ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
+⬆️ 93 • 💬 61 • 2d ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
+
+---
+
+**[AI and the Enclosure of the Scientific Commons](https://news.ycombinator.com/item?id=50199230)**
+
+The scientific literature can be viewed as an "information commons:" an intangible resource that "no one owns and is shared by everyone." There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known "tragedy of the commons," but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via "slop spam"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.
+
+⬆️ 84 • 💬 45 • 4h ago • [arXiv.org](https://arxiv.org/abs/2610.27251)
 
 ---
 
@@ -250,26 +270,6 @@ Disclaimer: by AI writing I mean text with at least 50% of the words generated b
 The opinionated web stack for the AI era. Rust off Rails is a set of Markdown files that tell coding agents how to build a full-stack Rust web app: one blessed stack, one layout, one way to do each thing.
 
 ⬆️ 74 • 💬 76 • 1d ago • [Rust off Rails](https://rustoffrails.org/)
-
----
-
-**[LayerFS: The filesystem for AI coding agents](https://news.ycombinator.com/item?id=50179857)**
-
-LayerFS is an open-source (MIT) filesystem for AI coding agents: each tool call gets a complete, writable Workspace over shared history.
-
-⬆️ 72 • 💬 47 • 1d ago • [LayerFS](https://layerfs.ai/)
-
----
-
-**[Texas data center boom could erase decades of progress on air quality](https://news.ycombinator.com/item?id=50184712)**
-
-⬆️ 55 • 💬 24 • 1d ago • [texastribune.org](https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/)
-
----
-
-**[Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)**
-
-⬆️ 53 • 💬 21 • 2d ago
 
 ---
 
@@ -283,27 +283,17 @@ A co-founder of the company behind Claude told a room of religious scholars, all
 
 📺 Spacialize
 
-👁️ 66K • 👍 806 • 💬 269 • ⏱️ 15:29 • 23h ago
+👁️ 71K • 👍 861 • 💬 282 • ⏱️ 15:29 • 1d ago
 
 ---
 
-**[AI Just Made Physics Interactive. This Is Insane. (Anatomy)](https://www.youtube.com/watch?v=lyGYidIZK4I)**
+**[Real Signs the AI Bubble is about to burst??](https://www.youtube.com/watch?v=s8qkejdyffk)**
 
-Anatomy is a new open-source Claude Code skill that turns complex algorithms, technical concepts, and engineering systems into ...
+We have been seeing more and more analysts claim that the AI industry is INDEED in a bubble and signs of it paralleling the 2008 ...
 
-📺 Better Stack
+📺 JayzTwoCents
 
-👁️ 67K • 👍 740 • 💬 29 • ⏱️ 5:56 • 1d ago
-
----
-
-**[Trump warned about AI in 2024. Then he invested more than $100 million.](https://www.youtube.com/watch?v=UbjhleOTkqc)**
-
-As President Trump has rejected calls to rein in AI during his second term, his stake in those companies has grown by tens of ...
-
-📺 MS NOW
-
-👁️ 18K • 👍 572 • 💬 54 • ⏱️ 2:08 • 7h ago
+👁️ 101K • 👍 5K • 💬 1K • ⏱️ 27:42 • 4h ago
 
 ---
 
@@ -313,27 +303,7 @@ How To Start Making AI Video in 2026 (Beginner Guide) Creat AI Video with Higgsf
 
 📺 Dan Kieft
 
-👁️ 9K • 💬 12 • ⏱️ 26:42 • 4h ago
-
----
-
-**[Gingrich: AI &quot;will be totally out of control&quot;](https://www.youtube.com/watch?v=YVsn89TNGO0)**
-
-C-SPAN's "America's Book Club" — Newt Gingrich, author and former Republican Speaker of the House (1995-1999) warns that ...
-
-📺 C-SPAN
-
-👁️ 1K • 👍 56 • 💬 16 • ⏱️ 1:01 • 3h ago
-
----
-
-**[AI discovers bug that puts up to 70% of websites at risk](https://www.youtube.com/watch?v=TQlf8QqDOV8)**
-
-Thanks to OpenAI, security researchers found a bug in a programming language used across the internet. It is estimated that ...
-
-📺 CBS News
-
-👁️ 77K • 👍 466 • 💬 125 • ⏱️ 4:58 • 21h ago
+👁️ 18K • 💬 12 • ⏱️ 26:42 • 7h ago
 
 ---
 
@@ -343,7 +313,57 @@ AI found a PHP bug that's been hiding since 2004, and the internet melted down. 
 
 📺 Singh in USA
 
-👁️ 85K • 👍 703 • 💬 60 • ⏱️ 11:12 • 12h ago
+👁️ 92K • 👍 729 • 💬 62 • ⏱️ 11:12 • 15h ago
+
+---
+
+**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
+
+Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
+
+📺 REC Anything
+
+👁️ 14K • 👍 404 • 💬 87 • ⏱️ 8:29 • 5h ago
+
+---
+
+**[AI discovers bug that puts up to 70% of websites at risk](https://www.youtube.com/watch?v=TQlf8QqDOV8)**
+
+Thanks to OpenAI, security researchers found a bug in a programming language used across the internet. It is estimated that ...
+
+📺 CBS News
+
+👁️ 79K • 👍 469 • 💬 124 • ⏱️ 4:58 • 1d ago
+
+---
+
+**[AI Just Made Physics Interactive. This Is Insane. (Anatomy)](https://www.youtube.com/watch?v=lyGYidIZK4I)**
+
+Anatomy is a new open-source Claude Code skill that turns complex algorithms, technical concepts, and engineering systems into ...
+
+📺 Better Stack
+
+👁️ 69K • 👍 770 • 💬 30 • ⏱️ 5:56 • 1d ago
+
+---
+
+**[AI Bubble: ‘This is the worst possible scenario’ | Ed Zitron](https://www.youtube.com/watch?v=tccyK66eE3s)**
+
+This is the worst possible scenario… because it means that Nvidia does not have crazy demand for GPUs” Writer of Where's Your ...
+
+📺 The Tech Report
+
+👁️ 128K • 👍 4K • 💬 936 • ⏱️ 33:54 • 4h ago
+
+---
+
+**[AI Breakthroughs Everyone Missed](https://www.youtube.com/watch?v=umGZrkyTRtw)**
+
+Try @OpenAI Dots here: https://chatgpt.com/features/dots/ Some of the coolest AI advancements are flying under the radar.
+
+📺 Matt Wolfe
+
+👁️ 101K • 👍 2K • 💬 173 • ⏱️ 25:17 • 1d ago
 
 ---
 
@@ -353,27 +373,7 @@ There are growing concerns about the A.I. bubble bursting at a moment when the e
 
 📺 MS NOW
 
-👁️ 86K • 👍 853 • 💬 245 • ⏱️ 6:25 • 1d ago
-
----
-
-**[New Report On AI Bubble Reveals It&#39;s Worse Than You Think](https://www.youtube.com/watch?v=CP9JGzTJ4-Y)**
-
-Get George's INSIDER INTEL (Rebel Capitalist Newsletter) here for FREE https://rcp.georgegammon.com/sign-up-c.
-
-📺 Rebel Capitalist
-
-👁️ 51K • 👍 2K • 💬 311 • ⏱️ 32:36 • 22h ago
-
----
-
-**[Sam Altman Shocks Everyone With 3 Possible AI Endgames](https://www.youtube.com/watch?v=QCtFWOYNASU)**
-
-Sam Altman just shocked the AI industry by revealing 3 possible endings to the race for superintelligence. In one scenario ...
-
-📺 AI Revolution
-
-👁️ 33K • 👍 644 • 💬 100 • ⏱️ 13:52 • 19h ago
+👁️ 91K • 👍 876 • 💬 250 • ⏱️ 6:25 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 51,911 • ❤️ 2,337 • 5d ago
+⬇️ 51,911 • ❤️ 2,348 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 512,524 • ❤️ 1,282 • 5d ago
+⬇️ 512,524 • ❤️ 1,294 • 5d ago
 
 ---
 
@@ -413,7 +413,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 6,890 • ❤️ 569 • 1d ago
+⬇️ 6,890 • ❤️ 573 • 1d ago
 
 ---
 
@@ -425,19 +425,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 420 • ❤️ 486 • 1d ago
-
----
-
-**[Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)**
-
-*Meta Inc.*
-
-Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable of generating high-fidelity images from text prompts. Its key capabilities include photorealistic rendering, diverse artistic styles, and detailed scene composition, making it suitable for creative content generation, virtual environment design, and rapid prototyping.
-
-`image-text-to-text` `822.0B`
-
-⬇️ 3,163 • ❤️ 656 • 7d ago
+⬇️ 420 • ❤️ 520 • 1d ago
 
 ---
 
@@ -461,7 +449,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 16,305 • ❤️ 906 • 5d ago
+⬇️ 16,305 • ❤️ 914 • 5d ago
 
 ---
 
@@ -473,7 +461,19 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,054,990 • ❤️ 8,865 • 11d ago
+⬇️ 2,054,990 • ❤️ 8,891 • 11d ago
+
+---
+
+**[Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)**
+
+*Meta Inc.*
+
+Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable of generating high-fidelity images from text prompts. Its key capabilities include photorealistic rendering, diverse artistic styles, and detailed scene composition, making it suitable for creative content generation, virtual environment design, and rapid prototyping.
+
+`image-text-to-text` `822.0B`
+
+⬇️ 3,163 • ❤️ 659 • 7d ago
 
 ---
 
@@ -485,7 +485,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 102,903 • ❤️ 631 • 6d ago
+⬇️ 102,903 • ❤️ 635 • 6d ago
 
 ---
 
@@ -497,7 +497,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 185,259 • ❤️ 2,838 • 16d ago
+⬇️ 185,259 • ❤️ 2,842 • 16d ago
 
 ---
 
@@ -513,7 +513,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 116 • 💬 2 • ⭐ 17,718 • 13d ago
+▲ 116 • 💬 2 • ⭐ 17,718 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -539,7 +539,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 92 • 💬 3 • ⭐ 1,423 • 6d ago
+▲ 92 • 💬 3 • ⭐ 1,423 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
 
@@ -565,7 +565,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 118 • 💬 3 • ⭐ 2,242 • 16d ago
+▲ 118 • 💬 3 • ⭐ 2,302 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -593,7 +593,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise generation to accelerate diffusion language models while improving quality and reasoning performance.
 
-▲ 15 • 💬 2 • ⭐ 745 • 13d ago
+▲ 15 • 💬 2 • ⭐ 745 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14162) • [💻 code](https://github.com/HazyResearch/ncm) • [🔗 project](https://hazyresearch.stanford.edu/blog/2026-10-12-ncm)
 
@@ -621,7 +621,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
 
-▲ 25 • 💬 3 • ⭐ 1,153 • 10d ago
+▲ 25 • 💬 3 • ⭐ 1,210 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
 
@@ -635,7 +635,7 @@ StartLux-Decision introduces efficient and adaptive decision models using single
 
 Future Chunk Prediction improves autoregressive video diffusion by enforcing future-chunk supervision, yielding more physically plausible video generation with reduced training cost.
 
-▲ 102 • 💬 2 • ⭐ 52 • 1d ago
+▲ 108 • 💬 2 • ⭐ 52 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.29989) • [💻 code](https://github.com/TencentARC/Looking-Ahead) • [🔗 project](https://hellorpg.github.io/looking-ahead/)
 
@@ -651,7 +651,7 @@ Future Chunk Prediction improves autoregressive video diffusion by enforcing fut
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.4k • 🔱 2.0k • 8h ago
+⭐ 8.4k • 🔱 2.0k • 11h ago
 
 ---
 
@@ -661,7 +661,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 6.2k • 🔱 1.0k • 13m ago
+⭐ 6.2k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 841 • 4h ago
+⭐ 5.9k • 🔱 844 • 7h ago
 
 ---
 
@@ -681,7 +681,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.1k • 🔱 147 • 11h ago
+⭐ 5.1k • 🔱 147 • 14h ago
 
 ---
 
@@ -691,7 +691,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.2k • 🔱 284 • 11h ago
+⭐ 4.2k • 🔱 284 • 14h ago
 
 ---
 
@@ -701,7 +701,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 4.1k • 🔱 312 • 2d ago
+⭐ 4.2k • 🔱 314 • 2d ago
 
 ---
 
@@ -721,7 +721,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.6k • 🔱 468 • 13h ago
+⭐ 3.6k • 🔱 469 • 17h ago
 
 ---
 
@@ -731,7 +731,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 2.7k • 🔱 14 • 10h ago
+⭐ 2.7k • 🔱 14 • 13h ago
 
 ---
 
@@ -741,7 +741,7 @@ AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skil
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 62 • 3h ago
+⭐ 2.4k • 🔱 62 • 7h ago
 
 ---
 
