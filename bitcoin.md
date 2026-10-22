@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-22T10:27:21.168502+00:00'
+updated: '2026-10-22T15:30:48.550881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 22, 2026 at 10:27 UTC  
+**Last Updated:** October 22, 2026 at 15:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,060.00
+### $81,858.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +0.6%  
-**30d:** -2.8%  
-**90d:** +27.5%  
-**1y:** -25.4%  
+**24h:** -3.5%  
+**7d:** -0.0%  
+**30d:** -3.4%  
+**90d:** +26.8%  
+**1y:** -25.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1648.38B
+**Market Cap:** $1639.65B
 Rank #1
 
-**Circulating Supply:** 20,101,812 BTC
+**Circulating Supply:** 20,101,921 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.0%
+-35.3%
 
 **All-Time Low:** $67.81
-+120845.3%
++120178.7%
 
 ---
 
@@ -155,43 +155,43 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 J.P. Morgan just named Bitcoin the highest-returning asset in its long-term outlook, and that changes the math on even a small stake in ways most investors have not considered.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Trading expert hints manipulation for Bitcoin, XRP, and Cardano](https://finbold.com/trading-expert-hints-manipulation-for-bitcoin-xrp-and-cardano/)**
+**[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
 
-Amid consolidation for Bitcoin, Cardano, and XRP Martinez has signaled their short-term manipulation by large players.
-
-Finbold • 17h ago
+Financial Times • 30m ago
 
 ---
 
-**[Live updates: Bitcoin slips under $82,000 as $250 million in bullish bets liquidated](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
+**[Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment](https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves](https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves)**
+
+BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.
+
+CoinDesk • 11h ago
+
+---
+
+**[Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
 
 Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
 
-CoinDesk • 32m ago
+CoinDesk • 22m ago
 
 ---
 
-**[China Opens Its Own Case to Confiscate 61,896 Bitcoin Held by UK Authorities](https://finance.yahoo.com/markets/crypto/articles/china-opens-own-case-confiscate-084557396.html)**
+**[China’s Government Moves To Seize 61,800 Bitcoin](https://finance.yahoo.com/markets/crypto/articles/china-government-moves-seize-61-141700187.html)**
 
-A Tianjin court opened a six-month notice period in prosecutors’ bid to forfeit Qian Zhimin’s bitcoin, a day after London’s High Court held that Chinese law applies to whether victims have rights in the coins.
+China’s government is moving to seize 61,800 Bitcoin (CRYPTO: $BTC) that it says was part of a $5.7 billion U...
 
 Yahoo Finance • 1h ago
-
----
-
-**[Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans](https://www.bloomberg.com/news/articles/2026-10-21/kalshi-to-allow-leveraged-futures-bets-with-bitcoin-backed-loans)**
-
-Bloomberg.com • 18h ago
-
----
-
-**[‘The numbers are actually alarming.’ Ann Arbor aims to regulate Bitcoin ATMs to stop scams](https://www.mlive.com/news/ann-arbor/2026/10/the-numbers-are-actually-alarming-ann-arbor-aims-to-regulate-bitcoin-atms-to-stop-scams.html)**
-
-MLive.com • 17h ago
 
 ---
 
@@ -199,31 +199,25 @@ MLive.com • 17h ago
 
 Zhong Jiang faces up to 10 years in prison, officials said.
 
-The Detroit News • 16h ago
+The Detroit News • 21h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move](https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/)**
+**[Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans](https://www.bloomberg.com/news/articles/2026-10-21/kalshi-to-allow-leveraged-futures-bets-with-bitcoin-backed-loans)**
 
-Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400…
-
-TradingView • 8h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[El-Sayed Says Bitcoin Data Center Next to Nature-Based School in Michigan Exemplifies Need for Regulation](https://www.commondreams.org/news/el-sayed-michigan-bitcoin)**
+**[Bitcoin ATM service to shut down in Oregon under settlement](https://www.oregonlive.com/business/2026/10/bitcoin-atm-service-to-shut-down-in-oregon-under-settlement.html)**
 
-Students at Lake Superior Academy are supposed to spend hours outside each day. But the superintendent said constant noise from the nearby Bitcoin mining operation "forced us to stay within our classrooms, close our windows, and not enjoy nature."
-
-Common Dreams • 14h ago
+OregonLive.com • 2h ago
 
 ---
 
-**[President Trump to Highlight Crackdown on Overseas Crypto Scams](https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown)**
+**[‘The numbers are actually alarming.’ Ann Arbor aims to regulate Bitcoin ATMs to stop scams](https://www.mlive.com/news/ann-arbor/2026/10/the-numbers-are-actually-alarming-ann-arbor-aims-to-regulate-bitcoin-atms-to-stop-scams.html)**
 
-Trump to tout seizures of fraudulent crypto sites at White House cybercrime event as FBI data shows $11.3 billion in U.S. crypto fraud losses in 2025.
-
-Bitcoin Magazine • 19h ago
+MLive.com • 22h ago
 
 ---
 
@@ -251,7 +245,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
 
-⬆️ 1 • 💬 0 • 18h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
+⬆️ 1 • 💬 0 • 23h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
 
 ---
 
@@ -267,7 +261,7 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 With graduate jobs hard to come by, more young adults are reported to be considering emigrating.
 
-⬆️ 1 • 💬 0 • 1h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
+⬆️ 1 • 💬 0 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
 
 ---
 
@@ -281,17 +275,7 @@ JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 177 • ⏱️ 20:40 • 11h ago
-
----
-
-**[Bitcoin Holds Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 102K • 👍 3K • 💬 176 • ⏱️ 6:07 • 14h ago
+👁️ 32K • 👍 2K • 💬 195 • ⏱️ 20:40 • 16h ago
 
 ---
 
@@ -301,7 +285,37 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 465 • 💬 22 • ⏱️ 8:20 • 2h ago
+👁️ 17K • 👍 705 • 💬 57 • ⏱️ 8:20 • 7h ago
+
+---
+
+**[Bitcoin Faces a Global Market Bloodbath](https://www.youtube.com/watch?v=dL8cML5_HnM)**
+
+Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
+
+📺 CryptosRUs
+
+👁️ 5K • 👍 439 • 💬 50 • ⏱️ 35:49 • 1h ago
+
+---
+
+**[Bitcoin Hovers Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 118K • 👍 4K • 💬 190 • ⏱️ 6:07 • 19h ago
+
+---
+
+**[BITCOIN: THIS IS INSANE !!!](https://www.youtube.com/watch?v=HpKj8ftjjaA)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXtesla Claim up to ...
+
+📺 The Moon Show
+
+👁️ 8K • 👍 333 • 💬 22 • ⏱️ 12:34 • 4h ago
 
 ---
 
@@ -311,37 +325,17 @@ J.P. Morgan just named Bitcoin the best-performing asset in its long-term outloo
 
 📺 Bitcoin Magazine
 
-👁️ 31K • 👍 210 • 💬 41 • ⏱️ 2:41 • 1d ago
+👁️ 34K • 👍 219 • 💬 42 • ⏱️ 2:41 • 1d ago
 
 ---
 
-**[Bitcoin Just Broke Out: Why The NEXT 24 Hours Are Key!](https://www.youtube.com/watch?v=mlD7NFCRNFQ)**
+**[Did JPMorgan Just Signal Bitcoin’s Biggest Bull Run?!](https://www.youtube.com/watch?v=mjgVbrsDTFg)**
 
-Bitcoin just broke above a major resistance level, but can BTC hold the breakout and push higher? In this urgent Bitcoin market ...
+JPMorgan's latest long-term outlook puts Bitcoin ahead of stocks, gold, and real estate, marking a major shift for a bank led by ...
 
-📺 Frankie Candles 
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 222 • 💬 28 • ⏱️ 12:28 • 12h ago
-
----
-
-**[Bitcoin Breakout Ignited by SpaceX &amp; Tesla!](https://www.youtube.com/watch?v=2OH2ycplAK0)**
-
-Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
-
-📺 CryptosRUs
-
-👁️ 22K • 👍 699 • 💬 54 • ⏱️ 51:34 • 19h ago
-
----
-
-**[🚨BITCOIN: IT IS HAPPENING NOW!!! (live)](https://www.youtube.com/watch?v=jM5fjtl42ck)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 14K • 👍 481 • 💬 25 • ⏱️ 39:06 • 17h ago
+👁️ 45K • 👍 2K • 💬 108 • ⏱️ 13:00 • 1d ago
 
 ---
 
@@ -351,27 +345,27 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 86 • ⏱️ 8:43 • 1d ago
+👁️ 62K • 👍 2K • 💬 86 • ⏱️ 8:43 • 1d ago
 
 ---
 
-**[BITCOIN - IT&#39;S BACK](https://www.youtube.com/watch?v=HcGBvGJ1WI4)**
+**[BITCOIN: SELL OFF AGAIN!!! WTF IS GOING ON!!](https://www.youtube.com/watch?v=D1CfgNbGiXY)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+BULLMANIA INNER CIRCLE: https://bullmania.com/ Newsletter: https://bullmania.com/subscribe Bullmania Arena: ...
 
-📺 My Financial Friend
+📺 Ivan on Tech
 
-👁️ 10K • 👍 294 • 💬 23 • ⏱️ 9:18 • 17h ago
+👁️ 18K • 👍 1K • 💬 45 • ⏱️ 52:06 • 5h ago
 
 ---
 
-**[WARNING: Are We Witnessing A BIG Bitcoin Trap Unfold?](https://www.youtube.com/watch?v=LBcdcsMkMIo)**
+**[BITCOIN ABOUT TO CRASH AGAIN!?](https://www.youtube.com/watch?v=dfZo7ycM66I)**
 
-In today's video we'll talk about the recent choppy price action and whether this has the markings of a huge trap. The swings in the ...
+BitBase https://ckenny.com/BitbaseM ($10520 USDT Bonus) ⚠️ DISCLAIMER – READ FIRST This video is not financial advice.
 
-📺 Crypto Banter
+📺 Conor Kenny
 
-👁️ 10K • 👍 660 • 💬 6 • ⏱️ 40:15 • 2h ago
+👁️ 13K • 👍 398 • 💬 125 • ⏱️ 18:17 • 8h ago
 
 ---
 
