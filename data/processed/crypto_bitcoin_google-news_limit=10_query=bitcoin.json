@@ -5,44 +5,74 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLUZVTWtmeEt4aEpaZmUtOU5zNWJtbHdLdi1EM0dCdmYyTmRCNDF4ZjFZYnR0b3pyclUxQ0FlS0RsMU5DWDRibnFsdENpUzFJemNfZ2R5Y1d6U0h2SHg1Qk9pTXVVTkZWWEotV0I5RzYtd1VvLXRmY3p2UTFtXzA?oc=5",
-      "pub_date": 1792530964.0,
-      "article_url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg",
-      "description": "J.P. Morgan Asset Management projected a 10% compound annual return for Bitcoin over 10 to 15 years, outpacing gold and stocks."
+      "headline": "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjNta2FkbDFqSjNXVVNlc0YxZmlDVUtzQmpoa0U4aGd3MnRPT0tuOFpnWlVyTHRYamZlZWZyNUFoeVdmdVpPTW1NY295bm1MbS1CVlk0QjJpMm10OE1LUUZubUFzZ0Y0MnZtX2xSMmx2cTZvQ19LS2dZTXk4em82TmxqTnpPMEt1Ulhla1ViT3J6ZURUeW9vNWZqMWQwTk1YTFphMGk2Ym8tendP?oc=5",
+      "pub_date": 1792611000.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/21/prediction-what-will-0-1-bitcoin-be-worth-by-2030/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/03/shutterstock-2059487036-huge-licensed-scaled.jpg",
+      "description": "JPMorgan sees Bitcoin returning 10% a year. At that rate, 0.1 Bitcoin could reach about $12,426 by 2030. Here's what it would take."
+    },
+    {
+      "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNklOMzdjQ1FwMUdDV3kxMXBBNTd6Q3dXZHlTRlVLcjVBbFhKOU5Yclh6UHFoRHFueGdrLTc0OFdRMTR3bHFPbGJqYnp3dHA3Rk44ak5Da1o3N0FWeE04OEZrNldGa1ZLdnZPazE2MHJFbFBPWC1UanZDUlFmSGFFcW5IanRPVUtOMHJtV3lLTWJXRTJ2Q1FzakRJc0ZKVjRqNTllNXNmcm5XX2p1ZWlxVmppR0JmWEthVDdWeldMa2xzdw?oc=5",
+      "pub_date": 1792641060.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell."
+    },
+    {
+      "headline": "Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVVUS293bUJ6T3U4STExMzhCbnNLNHpNYy1rZzFOVllOUjNuQjN2a2VPNDBtczZFcGZVUXhHMlMwTDZyS21jeUExTVZad014ZkNxYXZDc3RKenFlX2VuZTZqVlFQX2RFTFFlNjhPTVowVzVlZkpnWWdUSUpKSWZxa005TXM3THA0VFJwM2x0S1FQZHdGWlNnbEJQRQ?oc=5",
+      "pub_date": 1792638780.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/circle-ceo-shrugs-off-bitcoins-031300661.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4f9017ef8469cc4dddfeab255add87e5478b088bdae50d571e7b09ab9c74aa6f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8f5c47319d86c0d86ed9192e695512dd.jpg",
+      "description": "Circle CEO Jeremy Allaire shrugs off Bitcoin's slump and pitches digital dollars for AI payments as GENIUS Act rules near."
     },
     {
       "headline": "Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnJ1WnNBN1JJQnVIdUsya2psVGV1LThrSjktdHg5OExqam83eUp2UGZvcEoxZl9IeDUxa0VCdE1NV2pFQWZFMkJFVGVuVW5LSmdWcndFYjVVMXlqeWc5YnVPN1lFMDkyMlRQbWlTYThCaXlTMHl1SWQwWTU5a2g3ZkVMaDE4dVViWmdfYVhKVFFFWWhwNF9JQVBwaVIyQXRWUXc?oc=5",
-      "pub_date": 1792592772.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/kalshi-allow-leveraged-futures-bets-142612300.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9812234ba7092b783cf0dc916493a930e037394567145c764068fc3f3750772e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F2dd116bd48e478ce7bdbf650810ca89b.jpg",
-      "description": "Prediction markets platform Kalshi Inc. will offer some clients the ability to post collateral for leveraged perpetual-futures trades using cryptocurrencies, under a new arrangement with digital-asset custodian BitGo Holdings Inc."
-    },
-    {
-      "headline": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTVmd1llZ0JlSFdfRExEVHNmRE9DV3hBY2t4RXNNTUZIMHVhVXRBMXR6LTVUa0ticnd1NDBkbE5yaXQ3TXMyWkdBNVdXTGxRVTNLMWt0N0RHU0FISjZIQTB2b3FWclFRNzZscDJTaHVWOFp1Z3RuSjBTbGVZbkg0VFNDS3RmdXlaMDR5YW9tMDlSQzBLNWZhVFRlN1lTR0pUZnFoS05hVWUxZEdvTnZpaE8wZjBYei12R21jMDNn?oc=5",
-      "pub_date": 1792613857.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/848719b690a5ab62ac6a3a735561ffc03358fad7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier."
-    },
-    {
-      "headline": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVI1VFpGMEhGRzZsaTI1c1lmTDFScjNZaGxLT0tvZVJKeWpaeTZrbWdUampMVzNZemx4OUNKYUFUTFpDelBsdF9jaHVHSk5NTVMycDVEcDdVQW9pSkJBNzBvaEg3cmQ5T09iTGZ2dUhmU0J1S0Y0OHJ6a2QtTlE0eUtGUEt2Wk9Ub1pLcDRhY0pBVmhkTWZ0QWZac3hZZzF1U08zamVpZk41T1JDOUhn?oc=5",
-      "pub_date": 1792511813.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/jpmorgan-asset-sees-bitcoin-beating-stocks-but-with-a-catch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWNtM2t3aWlnWjJMa3Y1SnE2dXFiYVZZTktlZzZXekxpenVsUVdKMktZRHM1Z1Y4ZWdXcHhzY19RVmw5X2NsaXk5NzJ6ZjNDaXhFQmpxZ3hpV01XZVNDWTJTMEQ5b2RZeEhMNkQzYzM2d3pkbTBzdTd1SEcyYlZUdk8xdk5JOHViMndzQUZHUDBRT1hxOUJEYnRmNWhqYzhxVjFHQ3FUVU1xS3FJak9rS2VsZG1mQQ?oc=5",
+      "pub_date": 1792597642.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/kalshi-to-allow-leveraged-futures-bets-with-bitcoin-backed-loans",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Man accused of tricking Michigan resident with $665K Bitcoin scam",
+      "source": "MLive.com",
+      "source_url": "https://www.mlive.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUZ4UUNZV3U2WVczOG4xRWZUQWdsN0dEeXlZTFVjRnpOUUk0cllHVTBzRTYwMWNpbVNucHhsdGsxRkJhdS1mUWduVWpsbE45eFFFcGVpbWtKV2pGOTMzRm5WNV94NktseXVsTzgyYmVYa2lfZFRWaVJ1b3p0NU5HdXZQVFRJNGFJZUJLOE1ibUdmWUh0dUlWM3lVekNEdjdOMTVYQnVxQQ?oc=5",
+      "pub_date": 1792608840.0,
+      "article_url": "https://www.mlive.com/news/2026/10/man-accused-of-tricking-michigan-resident-with-665k-bitcoin-scam.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "El-Sayed Says Bitcoin Data Center Next to Nature-Based School in Michigan Exemplifies Need for Regulation",
+      "source": "Common Dreams",
+      "source_url": "https://www.commondreams.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS09KVVFkbFA3cVMxeXV2Q3BCOFhiUUMtbWZ2akJlVVltRl85YWNxWGxaUUtEa0pFcVcxZmx3enRIZDZCQWRjTG5iVm9pbkUwRWhzSE9xSDdhX0RBWmF0d21kNndfVXBGdDlJ?oc=5",
+      "pub_date": 1792613630.0,
+      "article_url": "https://www.commondreams.org/news/el-sayed-michigan-bitcoin",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=68501169&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "description": "Students at Lake Superior Academy are supposed to spend hours outside each day. But the superintendent said constant noise from the nearby Bitcoin mining operation \"forced us to stay within our classrooms, close our windows, and not enjoy nature.\""
+    },
+    {
+      "headline": "A grocery AI beta is underway at a 29-store chain; a partner identified retailers with at least 20,000 locations.",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEg2X2hJY1BMSER4WXZfcHJQMlhzWXV1U3BTTjBqV2N2NDl4bW55MzNZNmNDcHIxNzk5S0o5VFo2WldjTmsxa3RmZ3RiUjlSQlNKYTlzUkR6clllenFsWEg0bjhhODhiVUloN29hbGt5c1VzNlZpZGRFZUMxNnFtWUZyTTBqZWs2eE43bGhDQWlrUUlnSXo1UHJLOHlzbVBQVUNtWkFNZXdGcW1qQk14NEJjQjBDRWNVZmc4?oc=5",
+      "pub_date": 1792584900.0,
+      "article_url": "https://www.stocktitan.net/news/AMOD/alpha-modus-highlights-bitcoin-holdings-with-value-exceeding-250-bppmjn2hkxr1.html",
+      "image": "https://www.stocktitan.net/news_covers/Alpha_Modus_Highlights_Bitcoin_Holdings_with_Value_Exceeding_250_Million_Potential_225_Million_i_1519775.webp",
+      "description": "Full cash exercise of warrants could yield about $225M in gross proceeds. Alpha Cash onboarding could begin in coming weeks, subject to reviews."
     },
     {
       "headline": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
@@ -55,56 +85,26 @@
       "description": "The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year."
     },
     {
-      "headline": "Strategy buys back their bitcoin, closing in on 850K BTC",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmVVeTdBajJyMUN6QTl1Zml3a3dPX09zaEQ4Vi1NLTluV2NiVlVSbmp2eVgtZDRqMEVZTlVlbXpRQWZfRlFvQ1RxZVIySmJpUmdSa2xZOFNZZHpLcElXQnNMMTBXdTBHWjBmOWJtcTZyTlVJWEthb1FCUmU5ejgwNzhKZTFOYW1sRmlHTEx2clQxc045Y0c5ZUN3QWg5R2k5TWpjTw?oc=5",
-      "pub_date": 1792428899.0,
-      "article_url": "https://finance.yahoo.com/video/strategy-buys-back-their-bitcoin-closing-in-on-850k-btc-165459060.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c6c66d8bac674914c2cde80bc3701c8b4cfc64fae6f81cf49fa1233ac3c6310a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-1019_2203.png",
-      "description": "Scott Melker discusses Strategy (MSTR) repurchasing bitcoin (BTC-USD), increasing his hold on Strategy (STRC), JPMorgan's (JPM) JPM Coin becoming available on ethereum (ETH-USD), and the pushback against tokenized stocks as companies opt out.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
-    },
-    {
-      "headline": "Strategy (MSTR) to $200 and Bitcoin (BTCUSD) to $100k?! for NASDAQ:MSTR by DontListenToThisClown",
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWFRWVVIVi16ajRPUng2RnB1UTQwOHNZb1RrLXVHVEF4cWQwclN6RE9XSURtbVpXdURsOXdGLWw1T0pRbjh6MWE2Z0hpTERoVUVhM0NtM29NXzdMV1FzbVpKZlotYzBCMzg1Y0l6QlJUbEEtcW01S0pQSU5MQlRjV0pmNUNlQTVFVnlfUmxvVzRzcXlFRHVEek81ZkY?oc=5",
-      "pub_date": 1792532132.0,
-      "article_url": "https://www.tradingview.com/chart/MSTR/Y7LNt6fh-Strategy-MSTR-to-200-and-Bitcoin-BTCUSD-to-100k/",
-      "image": "https://s3.tradingview.com/y/Y7LNt6fh_big.png",
-      "description": "Strategy is poised to absolutely explode. \n\n\n Exposed short positions charged for a squeeze\n Market Makers Dealer Gamma will accelerate the short squeeze\n SpaceX Epic Earnings - pushing BTC > $83k, MSTR > $145, SPCX > $155\n Massive inflows from blackrock to Bitcoin - 10/19 saw over $600M in inflows from Blackrock - expect other ETFs to report new inflows on 10/21 and we open at or near $85k\n\n\nStrategy, bitcoin, and spacex are powder kegs. You've got ample short positions in bitcoin, mstr, and \u2026"
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNMklPVW8zNWpQTFdjMmducllNSkY5eEpqWENQcS1JT3JMYmNpOTJYOXZYOEpwSllEWXhNNG04ZWRFbWxLY1pXRkNxMVhtUnlmOGNOTVdiODdXZ09LcTNUU2FPVmdHWEJvOXJDNmVJMmxaaHNTTlFhc3ZVT0xFTmJtUUx5RXctdnJ3UjMzcFhnYzRTMEl5cWk0VG9ZME4wYmhBWkdzQWFtejVvb3FWUkozVVRmQ0dnYl91emp0RFBTQ2ZObGNUR0tvSmFjVFdpZHlpejFJNGVaYUVyVWN1UG1aLTRDYnVIZEFYbzl2RU9reEtuSTF0dUxBc3FaWjVadnRNTkZ5QWhvVjM0RWpUZ3Z1WjZHcno0Q3U0eVRPUjdKdzFKS0hwTHFjUUNZQmZVdw?oc=5",
+      "pub_date": 1792635000.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400\u2026"
     },
     {
-      "headline": "Bitcoin scam that cost U.P. man $665K sparks arrest, charges",
-      "source": "The Detroit News",
-      "source_url": "https://www.detroitnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZseC1RMFM1ei1McHFISlBRZm9tMGw5blFCcV9vcDAydDRTZHk1eFUyaGxiVGlITXNGd0tkT19XenFPWU95aXBiT1ZUUGd5X0ZOOVo0Ty1MazN3ZmVGdGdVLWtYMUtiZkZCTHJkc0RPelRyWndtLThmcjRWc0pxSUg5dGlNMW1VRGZvZGY5VlZEb2kzMDZvVHFQSEFuNnVMOTBXWGdXVlkzRVh1WERVOC1jeXhvX0ctZTJoUE94QzJfNkN6UE96ZUhZMTVpZDZw?oc=5",
-      "pub_date": 1792607220.0,
-      "article_url": "https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/",
-      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/10/21/PDTN/92366206007-zhong-jiang.jpeg?crop=839,472,x0,y420&width=839&height=472&format=pjpg&auto=webp",
-      "description": "Zhong Jiang faces up to 10 years in prison, officials said."
-    },
-    {
-      "headline": "What $500M+ In Bitcoin Hacks Teach Us About The Future Of Self-Custody",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdFRselU2UElHbjZhV2tLamgzVGtMUVd4U3NYcFlOaG5pZWt3ZHdkQUFRWGRoSE5oSkhMeFh3R1g0WkwxOEhaR2dsUmxNSkctT2hLOXFKZU90LUd0OGZNNHV1bWpXY0JSdElmMEkxRlZzcnVUS3otdnRDR3JSa0N1dFMyOXYwNUstNFc1M1dMSGk2YmpSdUJLY3phclhMTU11SG9jMkM2dmt1VmNheVg3QXZTeTZwZU1MaHB4QklCTm1Sdw?oc=5",
-      "pub_date": 1792605600.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/21/what-500m-in-bitcoin-hacks-teach-us-about-the-future-of-self-custody/",
+      "headline": "Michael Saylor Is Bullish on Bitcoin. Yet His Company's Money Is Going Somewhere Else.",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHJGVlAzak9UR1BXT1lwT0t2VTU4WlA0Q2hKRXYtdUpEbEJTeTI0ODJWSFFadm1JY09xRGFGQUlYYzkyTlFDdnk5RW5YT0hTSzBuZERQZUpSWF9zSHhGWHZHQ3E3QTMyRWJ2UFROQWZjaEdfRkxXaGRlOGpFMDJBbEp3RmZEbzM3ZWc1dnUxYnpENGp4THlvQlVwUFRUT3lSX2VsZlUtVjktcXYtX3BLbDhhQlhMUjNlNUJxUDFNSzBxeFl5VzIw?oc=5",
+      "pub_date": 1792440002.0,
+      "article_url": "https://www.barchart.com/story/news/8205642/michael-saylor-is-bullish-on-bitcoin-yet-his-company-s-money-is-going-somewhere-else",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "BlackRock files a bitcoin ETF that caps your losses \u2014 and your gains",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHpqWXdPMlBMd3pwemc3VGlYUW5mRGJPU3kzT0pPZEJKczEzRnc4MXpDeWJ5RzVETDZtMU9IXzQ2MWRsaXZkWElTVHIyZU5wOHgtZEJXV1RoLUo3bzFraHhuNmhOTlluYU9rUjNzbVRyRDZNZ2dUeDBUVkRtT01tbjRaZmdPdw?oc=5",
-      "pub_date": 1792519200.0,
-      "article_url": "https://finance.yahoo.com/video/blackrock-files-bitcoin-etf-caps-180000447.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ca5dcf65375eeb71c0c8fab7e6053ef468f853224dfafbb78faa5695c584d644/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1792511337901_7988.jpg",
-      "description": "Scott Melker discusses BlackRock (BLK) filing for a bitcoin (BTC-USD) ETF that uses options to limit downside losses and cap upside gains, and that key details like fees and the size of the cap remain unknown. \n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T00:06:55.298870+00:00"
+  "fetched_at": "2026-10-22T05:12:09.942311+00:00"
 }

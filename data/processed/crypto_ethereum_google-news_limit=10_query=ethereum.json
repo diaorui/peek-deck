@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
-      "pub_date": 1792393200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Kinexys Brings JPM Coin Deposit Token to Ethereum",
       "source": "J.P. Morgan",
       "source_url": "https://www.jpmorgan.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum",
       "image": "https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/treasury-services/redesign/newsroom/banner-newsroom_Coin-on-Ethereum.jpg",
       "description": "JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains."
+    },
+    {
+      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
+      "pub_date": 1792393200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum News: JPMorgan\u2019s JPM Coin and ETH Network Activity",
@@ -45,6 +45,16 @@
       "description": "A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor."
     },
     {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNMklPVW8zNWpQTFdjMmducllNSkY5eEpqWENQcS1JT3JMYmNpOTJYOXZYOEpwSllEWXhNNG04ZWRFbWxLY1pXRkNxMVhtUnlmOGNOTVdiODdXZ09LcTNUU2FPVmdHWEJvOXJDNmVJMmxaaHNTTlFhc3ZVT0xFTmJtUUx5RXctdnJ3UjMzcFhnYzRTMEl5cWk0VG9ZME4wYmhBWkdzQWFtejVvb3FWUkozVVRmQ0dnYl91emp0RFBTQ2ZObGNUR0tvSmFjVFdpZHlpejFJNGVaYUVyVWN1UG1aLTRDYnVIZEFYbzl2RU9reEtuSTF0dUxBc3FaWjVadnRNTkZ5QWhvVjM0RWpUZ3Z1WjZHcno0Q3U0eVRPUjdKdzFKS0hwTHFjUUNZQmZVdw?oc=5",
+      "pub_date": 1792635000.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400\u2026"
+    },
+    {
       "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -53,6 +63,16 @@
       "article_url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
       "description": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours."
+    },
+    {
+      "headline": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2ZvajVSUVJGdFo2Y2d1emZVeFphZDR4UHp6UWNzNkEtVTd1RzY2RmdOZ0V5V2ZWTTdyMlZhZ0sxM0Q4WDlObG1GTzJ1VlYydk5tNDZwREJKQnN1UUt4R3Vwd3VDM1RzelZxLWFDQ1hWUWZDcGJnVnhlNUxncDFnTFJjSTZYNU5yR3ZWT1E5RG1hVUNYNEpGbG5ENEFDaEc1NzJjOXdkRlFiZ1czM2tCbQ?oc=5",
+      "pub_date": 1792513860.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
+      "description": "Ethereum and Solana staking reached records in Q3, but yields fell as newly issued tokens continued to fund most rewards."
     },
     {
       "headline": "Current price of Ethereum for October 21, 2026",
@@ -65,46 +85,26 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rebound: Can BTC Break $84,000 Resistance?",
+      "headline": "Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFNRNHhBaW9wQW5ZckJ4MUNoNjBtQ2NZb1c3UnVfR3FSaFlXTGpnOU9SQkQ0WElLd0poYkNaT1UySzJqSnFVY1RtRHhkcmV1ZEJRczZhUE5PaTFBVmd0SW5IU0g1VUNPLVNlT1k0bi1kN3h0V0JkZlpqSzhQNGFuaHZFcGdhcXZFenJ1eEdtQkxZU0l5TGh0NGhSVWg0X2tWa2pQYlNYOUNJSC1uY0haNUdYRUZqZVlWUnNfR25pUXlqTmVldml2UXpn?oc=5",
-      "pub_date": 1792618148.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62514249/bitcoin-ethereum-xrp-dogecoin-rebound-can-btc-break-84000-resistance",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTEyMWd4TlBRMkhyb1lIdzZCMW1pa0RGWHZKb29KajdSYk44dmdtU0tmSjVXRUstNWZLV1ZqaHlBQmFOU2FJVXR3RU9mYWFNS3Ata1FOc0JZNHYwRUpQOFFsSkdDUUFjallMM09YOVdNOXA0ZG1vdjJUVVZIMVNQVU5YUzRxenROSkM5YnB3dk5PenlMVEhBc2I2Zy1nbWpac0FKUEhaNzBMbGNUMmlHWlE5YTc2TTRaemVtelpfVGxJWEpIcUxZSnlpTS1BeVlMVHdkRnBR?oc=5",
+      "pub_date": 1792591593.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62497439/ethereum-will-benefit-most-from-3-trillion-stablecoin-boom-spark-ceo-predicts",
       "image": null,
       "description": null
     },
     {
-      "headline": "Ethereum staking hits record highs \u2013 So why are yields falling?",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUVwbzBwb3N0aFJKR2k1amM5MHF1aFJqandJMVJ4TG5GX01qeUFWOVJ5bXdjbWhjOGxxSWxhdkxLOVlWSy1jOVZUS3lLSFNEbnJhelpZdE5WWmkxTkluR1BlT1k4TFM1Z1d4cmFaQVNHVVpneWJoMkJJak10c0JLUlQyMXR6UWdyWHpr?oc=5",
-      "pub_date": 1792605626.0,
-      "article_url": "https://ambcrypto.com/ethereum-staking-hits-record-highs-so-why-are-yields-falling/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Evans-3-e1792570848930.jpg",
-      "description": "Ethereum's staking reached record levels as Bitmine expanded holdings, while ETH struggled to recover above resistance."
-    },
-    {
-      "headline": "New Crypto: AlphaPepe Presale Announces $3.1M as Ethereum Price Prediction Targets $10,000",
+      "headline": "Crypto News: Remittix Sets 41 New Fiat Currencies for PayFi Expansion as XRP Price Prediction Eyes $20 and JPMorgan\u2019s Ethereum Move Revives a $12,000 ETH Target",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVmZnN1QzVUJZN3djVDdwVndtRHdYZkRIb1QxX25VSDNKYUNIaF8zRTBkMUxTekJjT1Q4QnJmMmlPUnJBWDZ5QXR0SXlJZTR0cmN1emJaVEhTVVp3a0Z5bkFnRHhsZ1BuN2Vwd1lFMGlXRkFzajQ5ZGk4WkhmWEdFZFRHZ0gwWExJRjYzTXExMk9Oa0RRVkJ5WjduZHRVMW5HNHNPVzhFQjhsNE5hS2UwWWttY0VFeUxoYUNGcFRUZnJ1OWd0NmwxWGVEc3RJSVdGaGNlUEtUNENpUG9QLUo4?oc=5",
-      "pub_date": 1792553402.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-alphapepe-presale-announces-3-1m-as-ethereum-price-prediction-targets-10-000-1036646128",
-      "image": "https://ml.globenewswire.com/Resource/Download/8cee5f2b-caa3-4674-89da-2cecc3878494/alphapepe.jpg",
-      "description": "MONACO, Oct.  20, 2026  (GLOBE NEWSWIRE) -- New crypto\u00a0AlphaPepe has pushed beyond $3.1 million raised as the presale continues building momentum ..."
-    },
-    {
-      "headline": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0dVdUVaWUR1a0lKXzNmb3dXVDZNajdtS2czb3g5LVBIMDZUM2R0SURXT3h4Uld5YzRPOWhIYzB4QjlXYkRVVmUxWDJBMVdrS1FuMFR0Q2wyTkdIQUM2TV9lSW9VeURUR2k2NXNpQlRJLTIxUnFNaEdUSGo2d056SElSUzZYeGpCeHhSUmthWmlIQ0JrT1l0Y0U0UGluUktuZFN6MFRIb0lpazZpWkthVVhTdnpkaDZaM1E?oc=5",
-      "pub_date": 1792416960.0,
-      "article_url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/eth-ethereum-network.jpg",
-      "description": "The company now holds 4.9% of total circulating ether after adding 12,535 tokens over the past week."
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQOFBSdS0zWTduamJfMG1OWmdpbXpfNnJCN2Q3djNncWpBN3ozcFdMS3hVSWUzNGFnSmQ3VXZ6STNjTWNsQ0FsZ1V1MFhNUEdXS1V0b05mUHRNV2lLZFJycVo3NkJFWEdHbEc2cWs5eHpObkp1c2J1Yk9BQ1dsSjVwZUJaZGhnU0NjNlNtcl9HNGo4dGhVREhNV1Z1ekI3aFRWR2preXNiOGJ2U3BLaEpfbVVqR2psSnFUMmZXVnItQ2RpaWp5YmZUdlRyXy0tVTFUWTBaQVc3UVA1eXZxZlRNWWNlNExmYmNrZkxXZkhDcjdlWW1NcmI0ZkVIb045RFFqSzlCSmxfVDBoVU03RFdNUUhPZE53UU1zcTdMOEpxdW5DV1pHV08yM1Y1b3YybG5wOThwa1V4NGJWU003?oc=5",
+      "pub_date": 1792590640.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-sets-41-new-fiat-currencies-for-payfi-expansion-as-xrp-price-prediction-eyes-20-and-jpmorgan-s-ethereum-move-revives-a-12-000-eth-target-1036649157",
+      "image": "https://ml.globenewswire.com/Resource/Download/df54111a-bf2d-4663-880b-2ed3d1383a6f/remittix.jpg",
+      "description": "MAJURO, Marshall Islands, Oct.  21, 2026  (GLOBE NEWSWIRE) -- Remittix is preparing to bring 41 new fiat currencies online as part of a major expa..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T00:07:04.942653+00:00"
+  "fetched_at": "2026-10-22T05:12:02.173877+00:00"
 }
