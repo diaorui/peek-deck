@@ -9,7 +9,7 @@
       "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html",
       "hn_url": "https://news.ycombinator.com/item?id=50177770",
       "author": "cybermango",
-      "points": 6,
+      "points": 7,
       "num_comments": 2,
       "created_at": "2026-10-21T08:48:21Z",
       "object_id": "50177770",
@@ -17,20 +17,6 @@
       "description": "Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?",
       "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
       "site_name": "Yahoo Tech"
-    },
-    {
-      "title": "Strive Targets $500M Raise to Buy More Bitcoin",
-      "url": "https://coinmarketcap.com/community/post/380133331/",
-      "hn_url": "https://news.ycombinator.com/item?id=50096427",
-      "author": "joeymabia1",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2026-10-14T22:33:44Z",
-      "object_id": "50096427",
-      "image": null,
-      "description": "Read this crypto post from greatHydra_997 posted on 2026/10/14 on CoinMarketCap\u2019s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.",
-      "favicon": "https://coinmarketcap.com/community/favicon.ico",
-      "site_name": "coinmarketcap.com"
     },
     {
       "title": "Adam Back says he is not elusive Bitcoin creator named by New York Times",
@@ -73,51 +59,9 @@
       "description": "Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.",
       "favicon": "https://buymepizza.com/apple-touch-icon.png",
       "site_name": "BuyMePizza"
-    },
-    {
-      "title": "US tech giants warn Europe that ditching US tech giants could cost \u20ac115B",
-      "url": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
-      "hn_url": "https://news.ycombinator.com/item?id=50155973",
-      "author": "slu",
-      "points": 8,
-      "num_comments": 3,
-      "created_at": "2026-10-19T18:23:37Z",
-      "object_id": "50155973",
-      "image": "https://image.theregister.com/5240668.jpg?imageId=5240668&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "description": "Amazon, Google, Meta among members of lobby group funding dire warnings over cloud sovereignty plans",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "site_name": "theregister"
-    },
-    {
-      "title": "Tell HN: Getting spam after commenting on monthly Who's Hiring posts. Who else?",
-      "url": "https://news.ycombinator.com/item?id=50153608",
-      "hn_url": "https://news.ycombinator.com/item?id=50153608",
-      "author": "yosito",
-      "points": 7,
-      "num_comments": 1,
-      "created_at": "2026-10-19T15:25:47Z",
-      "object_id": "50153608",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
-      "title": "Atlas of Cyberspace (2001)",
-      "url": "https://www.kitchin.org/atlas/contents.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50164271",
-      "author": "hggh",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-20T10:52:27Z",
-      "object_id": "50164271",
-      "image": null,
-      "description": null,
-      "favicon": "https://www.kitchin.org/favicon.ico",
-      "site_name": "kitchin.org"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 4,
   "has_metadata": true,
-  "fetched_at": "2026-10-21T21:19:33.304013+00:00"
+  "fetched_at": "2026-10-22T00:06:39.257915+00:00"
 }
