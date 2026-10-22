@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-22T10:27:21.174869+00:00'
+updated: '2026-10-22T15:30:48.557051+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 22, 2026 at 10:27 UTC  
+**Last Updated:** October 22, 2026 at 15:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,408.30
+### $2,400.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -0.5%  
-**30d:** -10.2%  
-**90d:** +28.6%  
-**1y:** -37.5%  
+**24h:** -4.4%  
+**7d:** -1.0%  
+**30d:** -10.7%  
+**90d:** +27.9%  
+**1y:** -37.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.18B
+**Market Cap:** $293.08B
 Rank #2
 
 **Circulating Supply:** 122,152,452 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.3%
+-51.5%
 
 **All-Time Low:** $0.43
-+556254.9%
++554033.1%
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I got into crypto a few years ago and fell in love with the ecosystem. It's fair to say Web3 completely changed my life for the better, and ever since, my aim has been to contribute meaningfully to it. One issue I've had an issue with is the persistent hacks reducing user trust in this new model of the internet we're building. So I'm proposing an AI security network to protect wallets from hacks. You can check out the website or GitHub: https://github.com/thelennyjohnson/avalon-ai Feedback and contributors are welcome.
 
-🔗 [AVALON AI](https://avalonai-web3.vercel.app/) • 4d ago
+🔗 [AVALON AI](https://avalonai-web3.vercel.app/) • 5d ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi everyone, I got into crypto a few years ago and fell in love with the ecosyst
 
 The model independently determined that using valueless testnet ETH from a publicly exposed account was acceptable.
 
-🔗 [The Block](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798) • 4d ago
+🔗 [The Block](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798) • 5d ago
 
 ---
 
@@ -142,13 +142,51 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-43/) • 5d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-43/) • 6d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
+
+**[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
+
+Bloomberg.com • 3d ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Hold $2,300 Support After a 12% Monthly Drop?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-analysis-eth-hold-135806976.html)**
+
+Buyers have stepped in to defend a key Ethereum price floor twice this month, but ETF outflows and a 12% monthly slide are testing their resolve. Whether that support holds or shatters could determine if ETH revisits levels not seen since summer.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[ETH news: Ethereum’s four-minute settlement plan could lower the cost of moving crypto](https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto)**
+
+A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://www.fool.com/investing/2026/10/21/bitmines-tom-lee-warns-of-a-potential-sell-off-in/)**
+
+A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move](https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/)**
+
+Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400…
+
+TradingView • 13h ago
+
+---
 
 **[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
 
@@ -158,59 +196,27 @@ J.P. Morgan • 2d ago
 
 ---
 
-**[Ethereum Earned Less Than a 3-Month-Old Robinhood Chain Last Quarter](https://finance.yahoo.com/markets/crypto/articles/ethereum-earned-less-3-month-085951915.html)**
+**[Current price of Ethereum for October 22, 2026](https://fortune.com/article/price-of-ethereum-10-22-2026/)**
 
-ARK Invest data shows Robinhood Chain earned about $51 million in Q3 while Ethereum’s revenue fell about 35% from Q2.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move](https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/)**
-
-Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400…
-
-TradingView • 8h ago
+Fortune • 3h ago
 
 ---
 
-**[Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash](https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash)**
+**[Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge](https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge)**
 
-The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours.
+The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.
 
 Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for October 21, 2026](https://fortune.com/article/price-of-ethereum-10-21-2026/)**
+**[A Midnight privacy-vault demo needs outside signers to release Ethereum tokens](https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+SIG’s experimental Ethereum vault uses outside signers for withdrawals and attestations to restore failed-transfer claims. Tron remains a roadmap target.
 
-Fortune • 18h ago
-
----
-
-**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://www.fool.com/investing/2026/10/21/bitmines-tom-lee-warns-of-a-potential-sell-off-in/)**
-
-A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
-
-The Motley Fool • 21h ago
-
----
-
-**[Ethereum staking hits record as yields fall and Solana activity grows: Bitwise](https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414)**
-
-Ethereum and Solana staking reached records in Q3, but yields fell as newly issued tokens continued to fund most rewards.
-
-The Block • 1d ago
-
----
-
-**[Crypto News: Remittix Sets 41 New Fiat Currencies for PayFi Expansion as XRP Price Prediction Eyes $20 and JPMorgan’s Ethereum Move Revives a $12,000 ETH Target](https://markets.businessinsider.com/news/stocks/crypto-news-remittix-sets-41-new-fiat-currencies-for-payfi-expansion-as-xrp-price-prediction-eyes-20-and-jpmorgan-s-ethereum-move-revives-a-12-000-eth-target-1036649157)**
-
-MAJURO, Marshall Islands, Oct.  21, 2026  (GLOBE NEWSWIRE) -- Remittix is preparing to bring 41 new fiat currencies online as part of a major expa...
-
-markets.businessinsider.com • 20h ago
+CryptoSlate • 1h ago
 
 ---
 
@@ -218,15 +224,7 @@ markets.businessinsider.com • 20h ago
 
 Ethereum's staking reached record levels as Bitmine expanded holdings, while ETH struggled to recover above resistance.
 
-AMBCrypto • 16h ago
-
----
-
-**[XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue](https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/)**
-
-XRP ETFs ended a 13-week inflow streak as Bitcoin, Ethereum and Solana funds also recorded net withdrawals in the week ended October 16.
-
-CryptoSlate • 2d ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -240,17 +238,7 @@ Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midter
 
 📺 Schwab Network
 
-👁️ 3K • 👍 30 • ⏱️ 6:40 • 12h ago
-
----
-
-**[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
-
-Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 79K • 👍 2K • 💬 209 • ⏱️ 9:32 • 2d ago
+👁️ 4K • 👍 32 • 💬 1 • ⏱️ 6:40 • 17h ago
 
 ---
 
@@ -260,7 +248,17 @@ Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally o
 
 📺 Yahoo Finance
 
-👁️ 39K • 👍 636 • 💬 76 • ⏱️ 14:51 • 2d ago
+👁️ 39K • 👍 637 • 💬 76 • ⏱️ 14:51 • 2d ago
+
+---
+
+**[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
+
+Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 80K • 👍 2K • 💬 210 • ⏱️ 9:32 • 2d ago
 
 ---
 
@@ -270,7 +268,7 @@ What happens when AI agents start managing your money, and who will actually con
 
 📺 Crypto In America
 
-👁️ 4K • 👍 85 • 💬 21 • ⏱️ 41:22 • 22h ago
+👁️ 5K • 👍 106 • 💬 36 • ⏱️ 41:22 • 1d ago
 
 ---
 
@@ -280,7 +278,17 @@ Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPM
 
 📺 Thinking Crypto
 
-👁️ 24K • 👍 749 • 💬 120 • ⏱️ 19:54 • 2d ago
+👁️ 24K • 👍 749 • 💬 118 • ⏱️ 19:54 • 2d ago
+
+---
+
+**[Are there warning signs flashing in the Ethereum chart? 22nd October 2026](https://www.youtube.com/watch?v=4_GHmyPzLao)**
+
+ethereum #crypto #supplyanddemand #cycleanalysis For forecasting, trade planning, chart updates, video analysis Discord: ...
+
+📺 Venture
+
+👁️ 562 • 👍 29 • 💬 4 • ⏱️ 15:11 • 6h ago
 
 ---
 
@@ -290,17 +298,27 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 25K • 👍 541 • 💬 37 • ⏱️ 2:31 • 2d ago
+👁️ 26K • 👍 548 • 💬 38 • ⏱️ 2:31 • 2d ago
 
 ---
 
-**[JPMorgan Brings JPM Coin to Ethereum](https://www.youtube.com/watch?v=ELRIyppedMc)**
+**[Raoul Pal :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | ETH Update 2026](https://www.youtube.com/watch?v=rGB_Ojm_x5U)**
 
-JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, citing the blockchain's deeper liquidity and ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 CoinDesk
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 34 • 💬 1 • ⏱️ 1:51 • 2d ago
+👁️ 11K • 👍 127 • 💬 9 • ⏱️ 19:31 • 2d ago
+
+---
+
+**[Tom Lee :&quot;Big Week for BTC &amp; ETH! Something REALLY MASSIVE Is Coming&quot; (New Prediction)](https://www.youtube.com/watch?v=pDnRuKa36Cs)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 10K • 👍 150 • 💬 5 • ⏱️ 24:01 • 2d ago
 
 ---
 
@@ -311,26 +329,6 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 📺 More Crypto Online
 
 👁️ 7K • 👍 156 • 💬 8 • ⏱️ 8:07 • 2d ago
-
----
-
-**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
-
-BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
-
-📺 Elijah Cheng
-
-👁️ 10K • 👍 107 • 💬 41 • ⏱️ 24:29 • 2d ago
-
----
-
-**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
-
-Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
-
-📺 CoinDesk
-
-👁️ 71K • 👍 575 • 💬 76 • ⏱️ 10:26 • 2d ago
 
 ---
 
