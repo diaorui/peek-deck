@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 118,
+      "upvotes": 115,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 17240,
+      "github_stars": 17718,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 42816,
+      "github_stars": 43081,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 1311,
+      "github_stars": 1423,
       "project_page": "https://openmoss.ai/MOSS-Image/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 6,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 6201,
+      "github_stars": 6370,
       "project_page": null
     },
     {
@@ -134,6 +134,25 @@
       "project_page": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"
     },
     {
+      "id": "2606.23050",
+      "title": "Unlimited OCR Works",
+      "authors": "Youyang Yin, Huanhuan Liu, YY et al. (17 authors)",
+      "organization_name": "baidu",
+      "organization_fullname": "BAIDU",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64f187a2cc1c03340ac30498/TYYUxK8xD1AxExFMWqbZD.png",
+      "summary": "Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the model to leverage the prior distribution of language, leading to improved OCR performance. However, the downside is equally evident: as the output sequence lengthens, the accumulated KV cache drives up memory consumption and progressively slows down generation. This stands in stark contrast to humans, who exhibit no such decline in efficiency during long-horizon copying tasks. In this technical report, we propose Unlimited OCR, a model designed to emulate human parsing working memory. Taking DeepSeek OCR as the baseline, we replace all attention layers in the decoder with our proposed Reference Sliding Window Attention (R-SWA), which reduces attention computation costs while maintaining a constant KV cache throughout the entire decoding process. By combining the high compression rate of DeepSeek OCR's encoder with our constant KV cache design, Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. More importantly, R-SWA is a general-purpose parsing attention mechanism - beyond OCR, it is equally applicable to tasks such as ASR, translation, etc. Codes and model weights are publicly available at http://github.com/baidu/Unlimited-OCR.",
+      "ai_summary": "Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.",
+      "hf_url": "https://huggingface.co/papers/2606.23050",
+      "arxiv_url": "https://arxiv.org/abs/2606.23050",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
+      "upvotes": 97,
+      "num_comments": 7,
+      "published_at": "2026-06-21T20:00:00.000Z",
+      "github_repo": "https://github.com/baidu/Unlimited-OCR",
+      "github_stars": 28184,
+      "project_page": null
+    },
+    {
       "id": "2610.17309",
       "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
       "authors": "Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)",
@@ -145,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2610.17309",
       "arxiv_url": "https://arxiv.org/abs/2610.17309",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17309.png",
-      "upvotes": 24,
+      "upvotes": 25,
       "num_comments": 3,
       "published_at": "2026-10-11T20:00:00.000Z",
       "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
@@ -153,45 +172,26 @@
       "project_page": "https://decision.startlux.com/"
     },
     {
-      "id": "2610.28630",
-      "title": "SolarRenderer: Few-Step Generative Reference Rendering",
-      "authors": "Guian Fang, Shengju Qian, Dongyue Lu et al. (9 authors)",
-      "organization_name": "showlab",
-      "organization_fullname": "Show Lab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1671779505215-63a55320ce5763e06f78519c.png",
-      "summary": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and completes the appearance it leaves open. Existing renderers are tied to the representation of one engine, need tens of denoising steps or a costly distillation of their own, and learn from conditions that are not aligned with their target videos. We present SolarRenderer, a structure-conditioned video renderer that adapts a frozen MiniMax-H3 33B backbone with two lightweight LoRAs. Structural videos enter the native reference pathway of the backbone at the positions of the frames they describe, without a type identifier and described only in plain text, so that a single control LoRA follows arbitrary structural representations. Starting from a pretrained four-step LoRA, structure-guided distribution matching renders in four steps, 12.3 times faster than 50-step sampling, while preserving the learned control. A block-causal variant extends the same design to streaming and renders 768p video in real time. To train the model, we build a frame-aligned corpus of 136K clips from game engines, simulators, and YouTube videos. Experiments on an in-distribution test set and a generalization benchmark of 16 structural representations show that SolarRenderer achieves state-of-the-art results across both, and generalizes to 11 unseen representations, including pose skeletons, drawings, and point clouds.",
-      "ai_summary": "SolarRenderer adapts a frozen video backbone with lightweight LoRAs to render realistic videos from diverse structural inputs in four steps or real-time streaming, using frame-aligned training data.",
-      "hf_url": "https://huggingface.co/papers/2610.28630",
-      "arxiv_url": "https://arxiv.org/abs/2610.28630",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28630.png",
-      "upvotes": 48,
+      "id": "2610.29989",
+      "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
+      "authors": "Ruopeng Gao, Yukun Huang, Jiarui Hu et al. (7 authors)",
+      "organization_name": "TencentARC",
+      "organization_fullname": "ARC Lab, Tencent",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
+      "summary": "Autoregressive video diffusion models generate videos chunk by chunk, yet producing plausible continuations does not guarantee that they capture how scenes evolve. Under teacher forcing, strong temporal redundancy may allow local visual continuity to serve as a shortcut for current-chunk denoising, reducing the pressure to model visual evolution. We introduce Future Chunk Prediction (FCP), an auxiliary objective jointly optimized with teacher-forced denoising that predicts temporally separated chunks without access to the intervening visual context. Drawing supervision directly from training videos, FCP requires no additional pretrained visual encoder and leaves autoregressive inference unchanged. Our method achieves superior physical plausibility over standard teacher-forced autoregressive training with a lower overall training compute budget, highlighting the effectiveness and efficiency of future-chunk supervision for modeling visual evolution. Intriguingly, our visualizations suggest that FCP fosters a more structured representation space, which may be valuable for building autoregressive world models.",
+      "ai_summary": "Future Chunk Prediction improves autoregressive video diffusion by enforcing future-chunk supervision, yielding more physically plausible video generation with reduced training cost.",
+      "hf_url": "https://huggingface.co/papers/2610.29989",
+      "arxiv_url": "https://arxiv.org/abs/2610.29989",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.29989.png",
+      "upvotes": 69,
       "num_comments": 2,
-      "published_at": "2026-10-19T20:00:00.000Z",
-      "github_repo": "https://github.com/Enderfga/SolarRenderer",
-      "github_stars": 215,
-      "project_page": "https://enderfga.cn/SolarRenderer"
-    },
-    {
-      "id": "2603.23509",
-      "title": "Internal Safety Collapse in Frontier Large Language Models",
-      "authors": "Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "This work identifies a critical failure mode in frontier large language models (LLMs), which we term Internal Safety Collapse (ISC): under certain task conditions, models enter a state in which they continuously generate harmful content while executing otherwise benign tasks. We introduce TVD (Task, Validator, Data), a framework that triggers ISC through domain tasks where generating harmful content is the only valid completion, and construct ISC-Bench containing 53 scenarios across 8 professional disciplines. Evaluated on JailbreakBench, three representative scenarios yield worst-case safety failure rates averaging 95.3% across four frontier LLMs (including GPT-5.2 and Claude Sonnet 4.5), substantially exceeding standard jailbreak attacks. Frontier models are more vulnerable than earlier LLMs: the very capabilities that enable complex task execution become liabilities when tasks intrinsically involve harmful content. This reveals a growing attack surface: almost every professional domain uses tools that process sensitive data, and each new dual-use tool automatically expands this vulnerability--even without any deliberate attack. Despite substantial alignment efforts, frontier LLMs retain inherently unsafe internal capabilities: alignment reshapes observable outputs but does not eliminate the underlying risk profile. These findings underscore the need for caution when deploying LLMs in high-stakes settings. Source code: https://github.com/wuyoscar/ISC-Bench",
-      "ai_summary": "Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.",
-      "hf_url": "https://huggingface.co/papers/2603.23509",
-      "arxiv_url": "https://arxiv.org/abs/2603.23509",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2603.23509.png",
-      "upvotes": 31,
-      "num_comments": 1,
-      "published_at": "2026-03-04T07:55:34.000Z",
-      "github_repo": "https://github.com/wuyoscar/ISC-Bench",
-      "github_stars": 2052,
-      "project_page": "https://wuyoscar.github.io/ISC-Bench"
+      "published_at": "2026-10-20T20:00:00.000Z",
+      "github_repo": "https://github.com/TencentARC/Looking-Ahead",
+      "github_stars": 52,
+      "project_page": "https://hellorpg.github.io/looking-ahead/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-22T10:26:44.771174+00:00"
+  "fetched_at": "2026-10-22T15:30:16.918761+00:00"
 }

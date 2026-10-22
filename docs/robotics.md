@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-22T10:27:21.178239+00:00'
+updated: '2026-10-22T15:30:48.560346+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 22, 2026 at 10:27 UTC  
+**Last Updated:** October 22, 2026 at 15:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on an under-actuated drone that can fly with only one motor for the last few months. The propeller hub is 3D printed out of PPA-CF and has a hinge, so when the motor accelerates the blades lag behind and one pitches up while the other pitches down. By pulsing the motor torque 300 times a second, timed to the rotor angle, the drone controls its pitch and roll with the same motor that produces its thrust. Along the way I also built a "poor man's high speed camera" - a camera flash synced to my camera and motor controller, so I could take images of the propeller at precise angles to analyze its behavior. The mechanical simplicity hides a lot of software. At almost 20,000 RPM, a 0.2 ms control loop is already 20 degrees of rotation late, so I wrote custom firmware for the motor controller to compute the torque pulses on board. The body also slowly spins, so the drone gets its heading from an infrared "lighthouse" beacon in the corner of the room that it sees once per revolution. The full video explaining how it all works is available on youtube: https://www.youtube.com/watch?v=Ndftcft6XhU The code and CAD are open source on github: https://github.com/jyjblrd/single-propeller-drone
 
-3d ago
+4d ago
 
 ---
 
@@ -44,7 +44,7 @@ I've been working on an under-actuated drone that can fly with only one motor fo
 
 I posted here 8 months ago and am only now posting again, haha. This is how I've improved over the past 8 months: MK5 V1: The appearance was impressive, but... Yes, I lacked torque. MK5 V2: Hmm... MK6 V1: it walks!! it walks!! it walks!! 🐕🐕 MK6 V2: Laser cut leg Hell yeah😎😎 Two-arm guy Two-leg guy : w.i.p DMs are welcome, and those who really want to see them can do so in Seoul😎 T h a n k y o u !
 
-3d ago
+4d ago
 
 ---
 
@@ -52,7 +52,7 @@ I posted here 8 months ago and am only now posting again, haha. This is how I've
 
 MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was the evening of the day I developed the MK6 V2 and participated in the Maker Faire. 2026.09.19 😎👍
 
-3d ago
+4d ago
 
 ---
 
@@ -76,7 +76,7 @@ HUMXN wants to pay for maintenance and repair services for homes in Minneapolis,
 
 Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries to deliver 90 minutes of operation after a nine-minute charge. The targeted 10:1 run-to-charge ratio could support more than 20 productive hours per day in warehouses and manufacturing facilities. Early-access deployment is planned for the first half of 2027, but the company has not yet disclosed the battery capacity, cycle-life rating, or independent real-world test results.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays) • 3d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays) • 4d ago
 
 ---
 
@@ -116,25 +116,19 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 ## Google News: "robotics"
 
-**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
-
-Reuters • 17h ago
-
----
-
 **[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
 
 NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
 
-NVIDIA Newsroom • 23h ago
+NVIDIA Newsroom • 1d ago
 
 ---
 
-**[What's unique about Gecko Robotics' contracts with Nvidia & the US Navy: CEO](https://finance.yahoo.com/video/whats-unique-gecko-robotics-contracts-120000507.html)**
+**[Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027](https://interestingengineering.com/ai-robotics/tesla-optimus-robot-enters-production)**
 
-Gecko Robotics CEO, Jake Loosararian, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to discuss the company's expansion and how its contracts with the US Navy and Nvidia (NVDA) factor in.
+Tesla has started Optimus robot production in Fremont as Elon Musk targets 20,000 humanoid robots per week by the end of 2027.
 
-Yahoo Finance • 22h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -142,35 +136,19 @@ Yahoo Finance • 22h ago
 
 Agility Robotics’ first practical robotic worker is nothing like I dreamed
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
+**[Tesla’s Lowered Capex Target Fuels Doubt on AI, Robotics Goals](https://www.bloomberg.com/news/articles/2026-10-21/tesla-s-third-quarter-earnings-beat-wall-street-estimates)**
 
-Musk said he expects to begin delivering Optimus to customers at the end of 2027.
-
-Business Insider • 11h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
+**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
 
-They're still a long way off from mass-producing Terminators.
-
-Defense News • 2d ago
-
----
-
-**[BlackRock adds robotics ETF to growing ranks of AI-themed products](https://www.reuters.com/legal/transactional/blackrock-adds-robotics-etf-growing-ranks-ai-themed-products-2026-10-21/)**
-
-Reuters • 16h ago
-
----
-
-**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
-
-Bloomberg.com • 8h ago
+Reuters • 22h ago
 
 ---
 
@@ -180,11 +158,33 @@ The Business Journals • 1d ago
 
 ---
 
-**[Tesla must scale FSD, energy and robotics to justify $1.6 trillion valuation: ex-board member](https://www.cnbc.com/video/2026/10/22/tesla-must-scale-fsd-energy-and-robotics-to-justify-1-point-6t-valuation-ex-board-member.html)**
+**[Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car](https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car)**
 
-The Westly Group's Steve Westly, a former Tesla board member, says the SpaceX and Tesla merger is likely given the synergies between the two firms. The key question is potential regulatory hurdles.
+Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously.
 
-CNBC • 9h ago
+South China Morning Post • 1d ago
+
+---
+
+**[AI-powered robots can be tricked into slicing off fingers](https://www.popsci.com/technology/ai-powered-robot-slices-fingers/)**
+
+One secret code word is all it takes.
+
+Popular Science • 19h ago
+
+---
+
+**[Gecko Robotics secures $300M contract with the U.S. Navy](https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/)**
+
+Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results.
+
+The Robot Report • 2d ago
+
+---
+
+**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
+
+SpaceNews • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 257K • 👍 3K • 💬 472 • ⏱️ 4:06 • 11h ago
+👁️ 428K • 👍 5K • 💬 757 • ⏱️ 4:06 • 16h ago
 
 ---
 
@@ -208,7 +208,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 136K • 👍 2K • 💬 230 • ⏱️ 20:32 • 3d ago
+👁️ 138K • 👍 2K • 💬 234 • ⏱️ 20:32 • 4d ago
+
+---
+
+**[Chinese Kung Fu robot takes security and safety to a new level](https://www.youtube.com/watch?v=2-UGK8Nqw04)**
+
+News24 host James Macpherson discusses a Chinese-made humanoid robot taking security and safety to a new level.
+
+📺 News24
+
+👁️ 2K • 👍 16 • 💬 25 • ⏱️ 7:06 • 3h ago
 
 ---
 
@@ -218,7 +228,17 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 43K • 👍 568 • 💬 60 • ⏱️ 13:57 • 1d ago
+👁️ 47K • 👍 615 • 💬 64 • ⏱️ 13:57 • 1d ago
+
+---
+
+**[Chinese robotics company debuts humanoid robot designed for protection, responding to emergencies](https://www.youtube.com/watch?v=M5jqkkHwHEU)**
+
+A Chinese robotics company is showing off a humanoid robot built for more than just impressive stunts.
+
+📺 WPLG Local 10
+
+👁️ 34K • 👍 30 • 💬 11 • ⏱️ 1:01 • 19h ago
 
 ---
 
@@ -228,17 +248,7 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 93K • 👍 816 • 💬 144 • ⏱️ 8:52 • 5d ago
-
----
-
-**[From Prompt to Walking Robot With NVIDIA RTX Spark](https://www.youtube.com/watch?v=VvJai6HGfyE)**
-
-AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots. Astra connects FreeCAD, Blender, and ...
-
-📺 NVIDIA
-
-👁️ 65K • 👍 1K • 💬 93 • ⏱️ 2:40 • 23h ago
+👁️ 99K • 👍 866 • 💬 163 • ⏱️ 8:52 • 5d ago
 
 ---
 
@@ -248,17 +258,25 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 169K • 👍 1K • 💬 499 • ⏱️ 4:07 • 4d ago
+👁️ 171K • 👍 1K • 💬 508 • ⏱️ 4:07 • 5d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
 
-Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
 
-📺 Jamel_AKA_Jamal
+📺 DPCcars
 
-👁️ 115K • 👍 3K • 💬 733 • ⏱️ 13:05 • 3d ago
+👁️ 21K • 👍 281 • 💬 81 • ⏱️ 2:30 • 1d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 429K • 👍 14K • 💬 2K • ⏱️ 2:35 • 5d ago
 
 ---
 
@@ -268,25 +286,7 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 91K • 👍 793 • 💬 43 • ⏱️ 9:03 • 3d ago
-
----
-
-**[Unitree Robotics unveils ‘kung fu’ robot bodyguard](https://www.youtube.com/watch?v=KMvTFhiPrJ0)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Unitree Robotics released a video showcasing a ...
-
-📺 South China Morning Post
-
-👁️ 68K • 👍 1K • 💬 177 • ⏱️ 0:48 • 20h ago
-
----
-
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
-
-📺 Big Duke13
-
-👁️ 424K • 👍 14K • 💬 1K • ⏱️ 2:35 • 5d ago
+👁️ 92K • 👍 799 • 💬 44 • ⏱️ 9:03 • 3d ago
 
 ---
 
