@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-22T05:12:18.282696+00:00'
+updated: '2026-10-22T10:27:21.168502+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 22, 2026 at 05:12 UTC  
+**Last Updated:** October 22, 2026 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,765.42
+### $82,060.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +1.5%  
-**30d:** -1.8%  
-**90d:** +28.6%  
-**1y:** -24.8%  
+**24h:** -1.7%  
+**7d:** +0.6%  
+**30d:** -2.8%  
+**90d:** +27.5%  
+**1y:** -25.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1663.90B
+**Market Cap:** $1648.38B
 Rank #1
 
-**Circulating Supply:** 20,101,715 BTC
+**Circulating Supply:** 20,101,812 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--34.3%
+-35.0%
 
 **All-Time Low:** $67.81
-+121967.5%
++120845.3%
 
 ---
 
@@ -151,25 +151,33 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 ## Google News: "bitcoin"
 
-**[Prediction: What Will 0.1 Bitcoin Be Worth by 2030?](https://247wallst.com/investing/cryptocurrency/2026/10/21/prediction-what-will-0-1-bitcoin-be-worth-by-2030/)**
+**[Prediction: What Will 0.1 Bitcoin Be Worth by 2030?](https://finance.yahoo.com/markets/crypto/articles/prediction-0-1-bitcoin-worth-193024364.html)**
 
-JPMorgan sees Bitcoin returning 10% a year. At that rate, 0.1 Bitcoin could reach about $12,426 by 2030. Here's what it would take.
+J.P. Morgan just named Bitcoin the highest-returning asset in its long-term outlook, and that changes the math on even a small stake in ways most investors have not considered.
 
-24/7 Wall St. • 9h ago
-
----
-
-**[Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves](https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves)**
-
-BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.
-
-CoinDesk • 1h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era](https://finance.yahoo.com/markets/crypto/articles/circle-ceo-shrugs-off-bitcoins-031300661.html)**
+**[Trading expert hints manipulation for Bitcoin, XRP, and Cardano](https://finbold.com/trading-expert-hints-manipulation-for-bitcoin-xrp-and-cardano/)**
 
-Circle CEO Jeremy Allaire shrugs off Bitcoin's slump and pitches digital dollars for AI payments as GENIUS Act rules near.
+Amid consolidation for Bitcoin, Cardano, and XRP Martinez has signaled their short-term manipulation by large players.
+
+Finbold • 17h ago
+
+---
+
+**[Live updates: Bitcoin slips under $82,000 as $250 million in bullish bets liquidated](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
+
+Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
+
+CoinDesk • 32m ago
+
+---
+
+**[China Opens Its Own Case to Confiscate 61,896 Bitcoin Held by UK Authorities](https://finance.yahoo.com/markets/crypto/articles/china-opens-own-case-confiscate-084557396.html)**
+
+A Tianjin court opened a six-month notice period in prosecutors’ bid to forfeit Qian Zhimin’s bitcoin, a day after London’s High Court held that Chinese law applies to whether victims have rights in the coins.
 
 Yahoo Finance • 1h ago
 
@@ -177,37 +185,21 @@ Yahoo Finance • 1h ago
 
 **[Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans](https://www.bloomberg.com/news/articles/2026-10-21/kalshi-to-allow-leveraged-futures-bets-with-bitcoin-backed-loans)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[Man accused of tricking Michigan resident with $665K Bitcoin scam](https://www.mlive.com/news/2026/10/man-accused-of-tricking-michigan-resident-with-665k-bitcoin-scam.html)**
+**[‘The numbers are actually alarming.’ Ann Arbor aims to regulate Bitcoin ATMs to stop scams](https://www.mlive.com/news/ann-arbor/2026/10/the-numbers-are-actually-alarming-ann-arbor-aims-to-regulate-bitcoin-atms-to-stop-scams.html)**
 
-MLive.com • 10h ago
-
----
-
-**[El-Sayed Says Bitcoin Data Center Next to Nature-Based School in Michigan Exemplifies Need for Regulation](https://www.commondreams.org/news/el-sayed-michigan-bitcoin)**
-
-Students at Lake Superior Academy are supposed to spend hours outside each day. But the superintendent said constant noise from the nearby Bitcoin mining operation "forced us to stay within our classrooms, close our windows, and not enjoy nature."
-
-Common Dreams • 8h ago
+MLive.com • 17h ago
 
 ---
 
-**[A grocery AI beta is underway at a 29-store chain; a partner identified retailers with at least 20,000 locations.](https://www.stocktitan.net/news/AMOD/alpha-modus-highlights-bitcoin-holdings-with-value-exceeding-250-bppmjn2hkxr1.html)**
+**[Bitcoin scam that cost U.P. man $665K sparks arrest, charges](https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/)**
 
-Full cash exercise of warrants could yield about $225M in gross proceeds. Alpha Cash onboarding could begin in coming weeks, subject to reviews.
+Zhong Jiang faces up to 10 years in prison, officials said.
 
-Stock Titan • 16h ago
-
----
-
-**[Strategy buys another $22 million of Bitcoin, increases planned share buybacks](https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/)**
-
-The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year.
-
-Fortune • 2d ago
+The Detroit News • 16h ago
 
 ---
 
@@ -215,13 +207,23 @@ Fortune • 2d ago
 
 Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400…
 
-TradingView • 3h ago
+TradingView • 8h ago
 
 ---
 
-**[Michael Saylor Is Bullish on Bitcoin. Yet His Company's Money Is Going Somewhere Else.](https://www.barchart.com/story/news/8205642/michael-saylor-is-bullish-on-bitcoin-yet-his-company-s-money-is-going-somewhere-else)**
+**[El-Sayed Says Bitcoin Data Center Next to Nature-Based School in Michigan Exemplifies Need for Regulation](https://www.commondreams.org/news/el-sayed-michigan-bitcoin)**
 
-Barchart.com • 2d ago
+Students at Lake Superior Academy are supposed to spend hours outside each day. But the superintendent said constant noise from the nearby Bitcoin mining operation "forced us to stay within our classrooms, close our windows, and not enjoy nature."
+
+Common Dreams • 14h ago
+
+---
+
+**[President Trump to Highlight Crackdown on Overseas Crypto Scams](https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown)**
+
+Trump to tout seizures of fraudulent crypto sites at White House cybercrime event as FBI data shows $11.3 billion in U.S. crypto fraud losses in 2025.
+
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -233,7 +235,7 @@ Barchart.com • 2d ago
 
 Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
 
-⬆️ 8 • 💬 3 • 20h ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
+⬆️ 8 • 💬 3 • 1d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
 
 ---
 
@@ -249,7 +251,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
 
-⬆️ 1 • 💬 0 • 12h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
+⬆️ 1 • 💬 0 • 18h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
 
 ---
 
@@ -258,6 +260,14 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
 ⬆️ 1 • 💬 0 • 3d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+
+---
+
+**[The grads ditching the UK for a fresh start abroad](https://news.ycombinator.com/item?id=50193119)**
+
+With graduate jobs hard to come by, more young adults are reported to be considering emigrating.
+
+⬆️ 1 • 💬 0 • 1h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
 
 ---
 
@@ -271,7 +281,7 @@ JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 82 • ⏱️ 20:40 • 5h ago
+👁️ 27K • 👍 2K • 💬 177 • ⏱️ 20:40 • 11h ago
 
 ---
 
@@ -281,17 +291,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 75K • 👍 3K • 💬 142 • ⏱️ 6:07 • 9h ago
+👁️ 102K • 👍 3K • 💬 176 • ⏱️ 6:07 • 14h ago
 
 ---
 
-**[BITCOIN: GET READY!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=geaJ-BJOpw0)**
+**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=BrFF-hfRECc)**
 
-Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin: https://partner.blofin.com/d/RT1M Get Up To A ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
 
-📺 Road To $1 Million USD
+📺 Crypto Rover
 
-👁️ 5K • 👍 182 • 💬 20 • ⏱️ 7:15 • 8h ago
+👁️ 5K • 👍 465 • 💬 22 • ⏱️ 8:20 • 2h ago
 
 ---
 
@@ -301,17 +311,37 @@ J.P. Morgan just named Bitcoin the best-performing asset in its long-term outloo
 
 📺 Bitcoin Magazine
 
-👁️ 29K • 👍 197 • 💬 40 • ⏱️ 2:41 • 1d ago
+👁️ 31K • 👍 210 • 💬 41 • ⏱️ 2:41 • 1d ago
 
 ---
 
-**[Bitcoin is about to MELT Faces……….](https://www.youtube.com/watch?v=UBMPJYiDIr0)**
+**[Bitcoin Just Broke Out: Why The NEXT 24 Hours Are Key!](https://www.youtube.com/watch?v=mlD7NFCRNFQ)**
 
-Bitcoin was jetzt.
+Bitcoin just broke above a major resistance level, but can BTC hold the breakout and push higher? In this urgent Bitcoin market ...
 
-📺 MMCrypto
+📺 Frankie Candles 
 
-👁️ 32K • 👍 2K • 💬 234 • ⏱️ 2:50 • 17h ago
+👁️ 5K • 👍 222 • 💬 28 • ⏱️ 12:28 • 12h ago
+
+---
+
+**[Bitcoin Breakout Ignited by SpaceX &amp; Tesla!](https://www.youtube.com/watch?v=2OH2ycplAK0)**
+
+Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 699 • 💬 54 • ⏱️ 51:34 • 19h ago
+
+---
+
+**[🚨BITCOIN: IT IS HAPPENING NOW!!! (live)](https://www.youtube.com/watch?v=jM5fjtl42ck)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 14K • 👍 481 • 💬 25 • ⏱️ 39:06 • 17h ago
 
 ---
 
@@ -321,47 +351,27 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 84 • ⏱️ 8:43 • 1d ago
+👁️ 61K • 👍 2K • 💬 86 • ⏱️ 8:43 • 1d ago
 
 ---
 
-**[The Fundamental Bull Case for Bitcoin Explained in 29 Minutes](https://www.youtube.com/watch?v=OGCfJyi1u3M)**
+**[BITCOIN - IT&#39;S BACK](https://www.youtube.com/watch?v=HcGBvGJ1WI4)**
 
-The fundamental bull case for Bitcoin explained in 29 minutes, from the history of money to Bitcoin's fixed supply of 21 million.
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Joe Burnett
+📺 My Financial Friend
 
-👁️ 6K • 👍 184 • 💬 25 • ⏱️ 29:44 • 16h ago
+👁️ 10K • 👍 294 • 💬 23 • ⏱️ 9:18 • 17h ago
 
 ---
 
-**[Bitcoin Is on the Verge of a MASSIVE Move! (PREPARE)](https://www.youtube.com/watch?v=8g0Ny6Tj7bA)**
+**[WARNING: Are We Witnessing A BIG Bitcoin Trap Unfold?](https://www.youtube.com/watch?v=LBcdcsMkMIo)**
 
-Bitcoin is gearing up for a massive move as volatility reaches critical levels after weeks of consolidation. But will the next move ...
+In today's video we'll talk about the recent choppy price action and whether this has the markings of a huge trap. The swings in the ...
 
 📺 Crypto Banter
 
-👁️ 51K • 👍 1K • 💬 35 • ⏱️ 40:21 • 1d ago
-
----
-
-**[Did JPMorgan Just Signal Bitcoin’s Biggest Bull Run?!](https://www.youtube.com/watch?v=mjgVbrsDTFg)**
-
-JPMorgan's latest long-term outlook puts Bitcoin ahead of stocks, gold, and real estate, marking a major shift for a bank led by ...
-
-📺 Simply Bitcoin
-
-👁️ 44K • 👍 2K • 💬 107 • ⏱️ 13:00 • 1d ago
-
----
-
-**[Why JP Morgan Is Finally Bullish on Bitcoin](https://www.youtube.com/watch?v=SQ6u5FD5eHE)**
-
-BlackRock's Bitcoin ETF took in $665 million on Monday, its largest single day since October 2025. Fidelity and Grayscale saw ...
-
-📺 Yahoo Finance
-
-👁️ 50K • 👍 731 • 💬 147 • ⏱️ 14:55 • 1d ago
+👁️ 10K • 👍 660 • 💬 6 • ⏱️ 40:15 • 2h ago
 
 ---
 

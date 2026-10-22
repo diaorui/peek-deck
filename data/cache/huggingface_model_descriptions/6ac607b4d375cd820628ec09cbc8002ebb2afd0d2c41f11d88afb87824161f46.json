@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-22T10:27:20.030416+00:00",
+  "data": "Flint is a 39.8B parameter Mixture-of-Experts language model optimized for coding agents, capable of code investigation, bug fixing, feature implementation, and test generation. It excels in reasoning and multi-turn tool use, achieving high scores on benchmarks like SWE-bench.",
+  "model_id": "RecursiveSI/flint"
+}
