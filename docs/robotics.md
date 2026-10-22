@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-22T00:07:06.543477+00:00'
+updated: '2026-10-22T05:12:18.289108+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 22, 2026 at 00:07 UTC  
+**Last Updated:** October 22, 2026 at 05:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,23 +120,23 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
 
-NVIDIA Newsroom • 13h ago
+NVIDIA Newsroom • 18h ago
 
 ---
 
-**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
+**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
 
-They're still a long way off from mass-producing Terminators.
+Musk said he expects to begin delivering Optimus to customers at the end of 2027.
 
-Defense News • 2d ago
+Business Insider • 6h ago
 
 ---
 
-**[This robotic butler is part Boston Dynamics, part Pixar](https://www.fastcompany.com/91626430/this-robotic-butler-is-part-boston-dynamics-part-pixar)**
+**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
 
-A humanoid butler from startup Tuesday Labs was designed to make character its most important feature.
+Agility Robotics’ first practical robotic worker is nothing like I dreamed
 
-Fast Company • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -148,23 +148,15 @@ TechCrunch • 1d ago
 
 ---
 
-**[For decades, hardware was a hard sell in Silicon Valley. Now investors are pouring tens of billions into machines that can do things in the real world. A Goldilocks set of conditions has made robotics one of tech's hottest bets. As investors look beyond chatbots t](https://www.linkedin.com/posts/businessinsider_robotics-ai-siliconvalley-activity-7518787488006733824-eGl2)**
+**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
 
-For decades, hardware was a hard sell in Silicon Valley. Now investors are pouring tens of billions into machines that can do things in the real world.
+Bloomberg.com • 2h ago
 
-A Goldilocks set of conditions has made robotics one of tech's hottest bets. As investors look beyond chatbots to the next frontier in AI, cheaper hardware, smarter AI models, labor shortages, and competition with China are fueling interest in machines capable of performing physical work.
+---
 
-Robotics and physical AI companies raised $33.4 billion globally in the first half of this year alone, according to PitchBook data. That's already more than the $28.7 billion the sector raised in all of last year — and an astronomical rise from 2020, when funding came in at just under $5 billion.
+**[BlackRock adds robotics ETF to growing ranks of AI-themed products](https://www.reuters.com/legal/transactional/blackrock-adds-robotics-etf-growing-ranks-ai-themed-products-2026-10-21/)**
 
-This is the first installment of Robonomics, Business Insider's new series on the rise of robots and their impact on business, jobs, and everyday life. 
-
-Robotics funding is off the charts. So are the risks. Take a closer look at Silicon Valley's latest gold rush: https://lnkd.in/eK4n9JRZ 
-
-(Credit: Getty Images; Rebecca Zisser/Business Insider)
-
-#robotics #ai #siliconvalley
-
-LinkedIn • 2h ago
+Reuters • 10h ago
 
 ---
 
@@ -176,29 +168,21 @@ GeekWire • 1d ago
 
 ---
 
-**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
-
-Reuters • 7h ago
-
----
-
 **[Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'](https://www.bizjournals.com/seattle/news/2026/10/20/carbon-robotics-layoffs-agriculture-tech-laser.html)**
 
-The Business Journals • 20h ago
+The Business Journals • 1d ago
 
 ---
 
 **[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
 
-SpaceNews • 12h ago
+SpaceNews • 17h ago
 
 ---
 
-**[What's unique about Gecko Robotics' contracts with Nvidia & the US Navy: CEO](https://finance.yahoo.com/video/whats-unique-gecko-robotics-contracts-120000507.html)**
+**[Secret trigger words could make AI-powered robots dangerous -- and these researchers developed a defense](https://www.eurekalert.org/news-releases/1148563)**
 
-Gecko Robotics CEO, Jake Loosararian, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to discuss the company's expansion and how its contracts with the US Navy and Nvidia (NVDA) factor in.
-
-Yahoo Finance • 12h ago
+EurekAlert! • 1d ago
 
 ---
 
@@ -206,13 +190,23 @@ Yahoo Finance • 12h ago
 
 ## YouTube Videos: "robotics"
 
+**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
+
+NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
+
+📺 DPCcars
+
+👁️ 43K • 👍 1K • 💬 179 • ⏱️ 4:06 • 6h ago
+
+---
+
 **[Tesla Bot Gen 4: Elon Musk Reveals the Next Humanoid Robot](https://www.youtube.com/watch?v=IMHwdxfl4ko)**
 
 For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesla Optimus Gen 4: 10 MILLION Robots a Year ...
 
 📺 PRO ROBOTS
 
-👁️ 131K • 👍 2K • 💬 227 • ⏱️ 20:32 • 3d ago
+👁️ 134K • 👍 2K • 💬 230 • ⏱️ 20:32 • 3d ago
 
 ---
 
@@ -222,7 +216,27 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 36K • 👍 501 • 💬 56 • ⏱️ 13:57 • 1d ago
+👁️ 40K • 👍 533 • 💬 58 • ⏱️ 13:57 • 1d ago
+
+---
+
+**[Reliable Robotics launches first automated test flights out of Albuquerque International Sunport](https://www.youtube.com/watch?v=YjZgTVmEgRM)**
+
+Full Story: ...
+
+📺 KRQE
+
+👁️ 933 • 👍 12 • ⏱️ 2:25 • 5h ago
+
+---
+
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+
+📺 AI Unfiltered
+
+👁️ 87K • 👍 791 • 💬 133 • ⏱️ 8:52 • 5d ago
 
 ---
 
@@ -232,17 +246,7 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 167K • 👍 1K • 💬 491 • ⏱️ 4:07 • 4d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 89K • 👍 768 • 💬 42 • ⏱️ 9:03 • 3d ago
+👁️ 169K • 👍 1K • 💬 496 • ⏱️ 4:07 • 4d ago
 
 ---
 
@@ -256,13 +260,13 @@ Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 ---
 
-**[Meet Unitree’s H2X  The Humanoid Robot That Can Fight and Rescue](https://www.youtube.com/watch?v=V0HZbO5zi60)**
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
 
-Unitree's new H2-X Kung Fu Legend Guardian humanoid robot demonstrates powerful kicks, impressive jumps, and incredible ...
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 DPCcars
+📺 MostAmazingTop10
 
-👁️ 3K • 👍 25 • 💬 6 • ⏱️ 0:33 • 10h ago
+👁️ 90K • 👍 784 • 💬 43 • ⏱️ 9:03 • 3d ago
 
 ---
 
@@ -270,37 +274,17 @@ Unitree's new H2-X Kung Fu Legend Guardian humanoid robot demonstrates powerful 
 
 📺 Big Duke13
 
-👁️ 411K • 👍 14K • 💬 1K • ⏱️ 2:35 • 5d ago
+👁️ 420K • 👍 14K • 💬 1K • ⏱️ 2:35 • 5d ago
 
 ---
 
-**[Robot Jumps Completely Off The Floor](https://www.youtube.com/watch?v=OdhJlO5tWbs)**
+**[From Prompt to Walking Robot With NVIDIA RTX Spark](https://www.youtube.com/watch?v=VvJai6HGfyE)**
 
-Basketball robot relies on complex motion control and AI algorithms to calculate distance, angle, and release point for dead-center ...
+AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots. Astra connects FreeCAD, Blender, and ...
 
-📺 System Spun
+📺 NVIDIA
 
-👁️ 5K • 👍 43 • ⏱️ 0:07 • 5h ago
-
----
-
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
-
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
-
-📺 AI Unfiltered
-
-👁️ 78K • 👍 714 • 💬 115 • ⏱️ 8:52 • 5d ago
-
----
-
-**[Robot bodyguard makes debut in China](https://www.youtube.com/watch?v=QXjfzH_PB9E)**
-
-China's robotics company Unitree has unveiled the H2-X “Kung Fu Legend: Guardian,” a full-size robot standing 182 cm tall, with ...
-
-📺 CGTN Europe
-
-👁️ 2K • 👍 94 • 💬 8 • ⏱️ 0:32 • 4h ago
+👁️ 26K • 👍 674 • 💬 49 • ⏱️ 2:40 • 17h ago
 
 ---
 
