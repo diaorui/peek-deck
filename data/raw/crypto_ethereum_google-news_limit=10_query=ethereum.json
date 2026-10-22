@@ -15,34 +15,14 @@
       "description": "JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains."
     },
     {
-      "headline": "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5",
-      "pub_date": 1792393200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum News: JPMorgan\u2019s JPM Coin and ETH Network Activity",
-      "source": "The Sarnia Journal",
-      "source_url": "https://www.thesarniajournal.ca",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG5KSFVGNnprRzBOYVJzSUYwUjhHX3VxR0o4eHlEM1FwbmRlN1RYWlVGLU8xTzYxWkZUNWZhNWEwbUNzMkN4aE1XRFJwcmRxb0FickNYWG9idWhPbHFMRDVPVXBsZ2ZyRHF6RWVWN0FORWZwVUJaNm5zYVNsT1pGREY3VnU1T2lrMUZRcWZnenFMaFY1THpTQnRJTFZBM3BrcE5Idk5pTQ?oc=5",
-      "pub_date": 1792587600.0,
-      "article_url": "https://www.thesarniajournal.ca/other/ethereum-news-jpmorgans-jpm-coin-and-eth-network-activity-12919008",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.",
+      "headline": "Ethereum Earned Less Than a 3-Month-Old Robinhood Chain Last Quarter",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGNxbGN0eEt5aEgyRjdCNDNFekI1UTh6eUpEQ0ZKMFVCOGI4bnM3M2pjdGxoYlVNeUJLVS0zbkRnS2FscFlmT3Z6Yy1aZU1FX19DU054WWVuTzAwbGd4aXk4dVdhUnJIcjh6N1pzbWR5c3ZkQUI0Q1hUalg0ZF9oOTd4eDU3ODJ6eUppWXdLNzE4N3l2emhwWllDS2FDUQ?oc=5",
-      "pub_date": 1792585680.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmines-tom-lee-warns-potential-122800815.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b2afce11c16a50a2ebca184a6a7876e3245b32d732d6ebee3d1f87ab1b63a26d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd7b55032851eae21a58f31cc761e2dda.jpg",
-      "description": "A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY25peGZRZG9fclJYWlMzX3d5VU96Uk1MYjVhaHRONGVmcG1XOTYtQUdZUWxheFJ1cXhCOVVXOWREVDZNTnE2V253Q3g5a0ozV0liRXk1eS1SV3dhbG9zNGU4N2lqX0l3aDRJR3dNbzlJeXk3aGZyaTdhc0xRT0ZvUDJMVVZPeVo3cUc2Q3lpTTRzMWRpbEJMdA?oc=5",
+      "pub_date": 1792659591.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-earned-less-3-month-085951915.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f090229230bdbedd1da2d37776e96d941e2460378dfa000f3733d118c967fbcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F59d0f1689a58fcc0ed02a0efddd4e00e.jpg",
+      "description": "ARK Invest data shows Robinhood Chain earned about $51 million in Q3 while Ethereum\u2019s revenue fell about 35% from Q2."
     },
     {
       "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move",
@@ -65,16 +45,6 @@
       "description": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours."
     },
     {
-      "headline": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2ZvajVSUVJGdFo2Y2d1emZVeFphZDR4UHp6UWNzNkEtVTd1RzY2RmdOZ0V5V2ZWTTdyMlZhZ0sxM0Q4WDlObG1GTzJ1VlYydk5tNDZwREJKQnN1UUt4R3Vwd3VDM1RzelZxLWFDQ1hWUWZDcGJnVnhlNUxncDFnTFJjSTZYNU5yR3ZWT1E5RG1hVUNYNEpGbG5ENEFDaEc1NzJjOXdkRlFiZ1czM2tCbQ?oc=5",
-      "pub_date": 1792513860.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
-      "description": "Ethereum and Solana staking reached records in Q3, but yields fell as newly issued tokens continued to fund most rewards."
-    },
-    {
       "headline": "Current price of Ethereum for October 21, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -85,14 +55,24 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTEyMWd4TlBRMkhyb1lIdzZCMW1pa0RGWHZKb29KajdSYk44dmdtU0tmSjVXRUstNWZLV1ZqaHlBQmFOU2FJVXR3RU9mYWFNS3Ata1FOc0JZNHYwRUpQOFFsSkdDUUFjallMM09YOVdNOXA0ZG1vdjJUVVZIMVNQVU5YUzRxenROSkM5YnB3dk5PenlMVEhBc2I2Zy1nbWpac0FKUEhaNzBMbGNUMmlHWlE5YTc2TTRaemVtelpfVGxJWEpIcUxZSnlpTS1BeVlMVHdkRnBR?oc=5",
-      "pub_date": 1792591593.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62497439/ethereum-will-benefit-most-from-3-trillion-stablecoin-boom-spark-ceo-predicts",
-      "image": null,
-      "description": null
+      "headline": "Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTlRMEJ5WGRqVXN6REFqc084OGRwX1h1WWYzTnY2WGNraE9QZGdLLURBakVNeVhZWnRUTnNSem9lcF9JRXpBU29WWlhrT05SbU5aMXNmckNBYUdsZDFnVTVURVFYMTNpb1B0WE50dEFFdmd2Q3hLc3B3ZGYxQW1JQ0tTbGpITGJQMGJIbS01R29RVDlhaC1n?oc=5",
+      "pub_date": 1792588080.0,
+      "article_url": "https://www.fool.com/investing/2026/10/21/bitmines-tom-lee-warns-of-a-potential-sell-off-in/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891159%2Finvestor-staring-at-trading-screen-at-night.jpg&w=1200&op=resize",
+      "description": "A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor."
+    },
+    {
+      "headline": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2ZvajVSUVJGdFo2Y2d1emZVeFphZDR4UHp6UWNzNkEtVTd1RzY2RmdOZ0V5V2ZWTTdyMlZhZ0sxM0Q4WDlObG1GTzJ1VlYydk5tNDZwREJKQnN1UUt4R3Vwd3VDM1RzelZxLWFDQ1hWUWZDcGJnVnhlNUxncDFnTFJjSTZYNU5yR3ZWT1E5RG1hVUNYNEpGbG5ENEFDaEc1NzJjOXdkRlFiZ1czM2tCbQ?oc=5",
+      "pub_date": 1792513860.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
+      "description": "Ethereum and Solana staking reached records in Q3, but yields fell as newly issued tokens continued to fund most rewards."
     },
     {
       "headline": "Crypto News: Remittix Sets 41 New Fiat Currencies for PayFi Expansion as XRP Price Prediction Eyes $20 and JPMorgan\u2019s Ethereum Move Revives a $12,000 ETH Target",
@@ -103,8 +83,28 @@
       "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-sets-41-new-fiat-currencies-for-payfi-expansion-as-xrp-price-prediction-eyes-20-and-jpmorgan-s-ethereum-move-revives-a-12-000-eth-target-1036649157",
       "image": "https://ml.globenewswire.com/Resource/Download/df54111a-bf2d-4663-880b-2ed3d1383a6f/remittix.jpg",
       "description": "MAJURO, Marshall Islands, Oct.  21, 2026  (GLOBE NEWSWIRE) -- Remittix is preparing to bring 41 new fiat currencies online as part of a major expa..."
+    },
+    {
+      "headline": "Ethereum staking hits record highs \u2013 So why are yields falling?",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUVwbzBwb3N0aFJKR2k1amM5MHF1aFJqandJMVJ4TG5GX01qeUFWOVJ5bXdjbWhjOGxxSWxhdkxLOVlWSy1jOVZUS3lLSFNEbnJhelpZdE5WWmkxTkluR1BlT1k4TFM1Z1d4cmFaQVNHVVpneWJoMkJJak10c0JLUlQyMXR6UWdyWHpr?oc=5",
+      "pub_date": 1792605626.0,
+      "article_url": "https://ambcrypto.com/ethereum-staking-hits-record-highs-so-why-are-yields-falling/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Evans-3-e1792570848930.jpg",
+      "description": "Ethereum's staking reached record levels as Bitmine expanded holdings, while ETH struggled to recover above resistance."
+    },
+    {
+      "headline": "XRP\u2019s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMUtqLXNhY1c4bFA0MmR0NlFwTTM0Q2F4LTV1TzEwNkJWRjFuN2pIM0xJY1ZlMTJjdkRocWRVcWFtdTg2Y2JpTVRhTnhNVlEwdzRPeU5hT3hnWkwwZExlemEtMmlhMlRaU3lKNzJ2cHUxM2xlT0lRZVU0VXhaRjhwMmh3TGl3aVJTSzZNOUttb0hHN19mY1VPcQ?oc=5",
+      "pub_date": 1792405855.0,
+      "article_url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/institutional-crypto-capital-pull.webp",
+      "description": "XRP ETFs ended a 13-week inflow streak as Bitcoin, Ethereum and Solana funds also recorded net withdrawals in the week ended October 16."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T05:12:02.173877+00:00"
+  "fetched_at": "2026-10-22T10:26:55.545788+00:00"
 }

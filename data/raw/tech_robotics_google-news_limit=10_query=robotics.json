@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
+      "pub_date": 1792601769.0,
+      "article_url": "https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
       "source": "NVIDIA Newsroom",
       "source_url": "https://nvidianews.nvidia.com",
@@ -15,14 +25,14 @@
       "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
     },
     {
-      "headline": "Tesla's Optimus robots are finally rolling off the production line",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5",
-      "pub_date": 1792622257.0,
-      "article_url": "https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10",
-      "image": "https://i.insider.com/6ad93ea9dc67b5b4d01f6415?width=1200&format=jpeg",
-      "description": "Musk said he expects to begin delivering Optimus to customers at the end of 2027."
+      "headline": "What's unique about Gecko Robotics' contracts with Nvidia & the US Navy: CEO",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOXzJXLUM5QVdpNXVRaDc5N0d0MEZRNGlzU3BsWjBkZFB5UlVUU01xZGJxVWUyMHV2NHZhUTBSQk01LTBxX013RFJ4V1Z4U0hwQUVSVDJ4ajhWeWZnOTdrVU56WEFoUGY4Z3VQUVp1V3UzMVdWUlRYcXRPM1N5NkhZWFhpOWpCU3BqRGpwQQ?oc=5",
+      "pub_date": 1792584000.0,
+      "article_url": "https://finance.yahoo.com/video/whats-unique-gecko-robotics-contracts-120000507.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6c950425d09485971c15c726065ac400c88f9259f0aaa317cdbee7a5d53b661d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcddbd2b3-820a-404a-b186-35d7095f0b9d_aef6030e496330c29e0dfda0a0a98cf64d30343890a6bf3cb869bf62a09cde6d.jpg",
+      "description": "Gecko Robotics CEO, Jake Loosararian, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to discuss the company's expansion and how its contracts with the US Navy and Nvidia (NVDA) factor in."
     },
     {
       "headline": "The Robot I Didn\u2019t Expect to Build",
@@ -35,24 +45,24 @@
       "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
     },
     {
-      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5",
-      "pub_date": 1792501200.0,
-      "article_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
-      "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
+      "headline": "Tesla's Optimus robots are finally rolling off the production line",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5",
+      "pub_date": 1792622220.0,
+      "article_url": "https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10",
+      "image": "https://i.insider.com/6ad93ea9dc67b5b4d01f6415?width=1200&format=jpeg",
+      "description": "Musk said he expects to begin delivering Optimus to customers at the end of 2027."
     },
     {
-      "headline": "CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjRyMS1kbld3cURLdHlFYWd5emZveHZoYzhaZXh2ZGZjZ1BSOFR6REg5c0w5bEZhZXZIYmFqNEZlZEJtWC14ZUZFNWp3TEg2Z3ZPQzZIVFpldWVUWWY5RDVpOFVsYXNtMFlPM0hXX3VRUGd0WFhaN3pYcXEzRlJGMElSbld4R096SVc3Y2ptMmprY3NpOHZXT0owQmpUUzdRcUkwUFZhU0I2RElRdGFYR2dn?oc=5",
-      "pub_date": 1792636020.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo",
-      "image": null,
-      "description": null
+      "headline": "US Army competition explores military uses for humanoid robots",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
+      "pub_date": 1792425600.0,
+      "article_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/XQ6LFK35VRHNHOJEGOR4W7VSQM.JPG?width=1200&auth=59a583cbacd5805ea1fafa721bac4cbb94b3ed6b05e9e8eadcb0cdfa282c8e8c",
+      "description": "They're still a long way off from mass-producing Terminators."
     },
     {
       "headline": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
@@ -65,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Autonomous flight startup Reliable Robotics opens Seattle area radar hub as valuation tops $1 billion",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPREIta0pDYmZXcGN1SHdldV9jM3Iwb2NGcVA4NllZQmlySUF4UGhDTTFHbVFpeDZoNVFZQlVXZ1RsMFV0YjFYOGExVkRSc0RlYUZYYjZrTTNmTC1XVHg4ejJmbThUdHJVTTdsZzZLU1R0LV9rOGZVc3lXdE9aQjEyUndlTC1ZeEpVWEVJTXVCTTdFdFdRTUFUejg1SW8tZG5mZXFLM1c3MXRuUG1jd1puaEZ0VzJBZXUtMDhRcjczU0RlSTRCdjdHNWk1Zw?oc=5",
-      "pub_date": 1792518665.0,
-      "article_url": "https://www.geekwire.com/2026/autonomous-flight-startup-reliable-robotics-opens-seattle-area-radar-hub-as-valuation-tops-1-billion/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpeg",
-      "description": "Reliable Robotics is opening a new engineering hub in Bothell to advance autonomous flight technology, tapping Seattle\u2019s aerospace talent as the California startup raises $115 million and surpasses a $1 billion valuation."
+      "headline": "CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjRyMS1kbld3cURLdHlFYWd5emZveHZoYzhaZXh2ZGZjZ1BSOFR6REg5c0w5bEZhZXZIYmFqNEZlZEJtWC14ZUZFNWp3TEg2Z3ZPQzZIVFpldWVUWWY5RDVpOFVsYXNtMFlPM0hXX3VRUGd0WFhaN3pYcXEzRlJGMElSbld4R096SVc3Y2ptMmprY3NpOHZXT0owQmpUUzdRcUkwUFZhU0I2RElRdGFYR2dn?oc=5",
+      "pub_date": 1792636020.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services",
-      "source": "SpaceNews",
-      "source_url": "https://spacenews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUQtT2JueUZwR2FJcE5OQ3JLODkyTDh3emVNaXRvcmtLT1lNTDFCbHBWV3l0UGVmUXFnc28zWnhRaVFFTWw1a0hnLXhlYm8tUHBVbnNKQTlGOGxmU2dWanV6Sm5aLUNzeXBmUW5OczZLc3BOU2xJOGpqNnVhdUhHZUtYc3VuV0dpaFFIM1YteXVtR2RLWFFERXUyRUM4OWtRQXdvb1dQNW51MVdZQ0c0RUNfaENTQ0hzaXpCNWQtYVZxNzFlQWdoZU1Hc3AwZExTclE?oc=5",
-      "pub_date": 1792582742.0,
-      "article_url": "https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Secret trigger words could make AI-powered robots dangerous -- and these researchers developed a defense",
-      "source": "EurekAlert!",
-      "source_url": "https://www.eurekalert.org",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xcVg1OFUyNmUzeE0wU2VPclN2T055RzFudjl2ZzQwTlVOQjNYLTlVNVU1eVRySGtMMTFOYUxmV3FZSFZGc2E3RmtTa0tXblNDSkZ3UUtRRjNWdlBP?oc=5",
-      "pub_date": 1792530695.0,
-      "article_url": "https://www.eurekalert.org/news-releases/1148563",
-      "image": null,
-      "description": null
+      "headline": "Tesla must scale FSD, energy and robotics to justify $1.6 trillion valuation: ex-board member",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHl5UWJyTS1GSFgzQTktdDQ1ZE5meXBnWlFUTF9XLUdZUnpzUHBlcFN5Q0pENWZXYXdOVWI0WF9QOUR4TVZqNlI0alVqNDRIVlN2b3JDQlBab0Z1N1VCNkIyaklyWE90cWtfM1Mxamk2TmdxcEQzVXAzUWtaZTFBS280cUdEX2NEM2dHUkt0UXE3Mlk0WC1pTkpHYk52NDRlTVF4TlplbzBhdVllM0lCdmE5WDY2MlZUVV9iVFVMeXZYaUNLQ294dzQ5aw?oc=5",
+      "pub_date": 1792631682.0,
+      "article_url": "https://www.cnbc.com/video/2026/10/22/tesla-must-scale-fsd-energy-and-robotics-to-justify-1-point-6t-valuation-ex-board-member.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108444433-17926308311792630828-49151646061-1080pnbcnews.jpg?v=1792630830&w=1920&h=1080",
+      "description": "The Westly Group's Steve Westly, a former Tesla board member, says the SpaceX and Tesla merger is likely given the synergies between the two firms. The key question is potential regulatory hurdles."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T05:12:14.223279+00:00"
+  "fetched_at": "2026-10-22T10:26:57.469400+00:00"
 }

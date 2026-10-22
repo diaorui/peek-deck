@@ -8,9 +8,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 8380,
+      "stars": 8406,
       "stars_display": "8.4k",
-      "forks": 2005,
+      "forks": 2013,
       "forks_display": "2.0k",
       "language": "TypeScript",
       "topics": [
@@ -20,7 +20,7 @@
         "daily-digest",
         "docker-compose"
       ],
-      "updated_at": "2026-10-21T10:26:58Z"
+      "updated_at": "2026-10-22T10:16:46Z"
     },
     {
       "full_name": "Louis-CFM/coucou",
@@ -30,10 +30,10 @@
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "url": "https://github.com/Louis-CFM/coucou",
       "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 6063,
-      "stars_display": "6.1k",
-      "forks": 992,
-      "forks_display": "992",
+      "stars": 6154,
+      "stars_display": "6.2k",
+      "forks": 994,
+      "forks_display": "994",
       "language": "Swift",
       "topics": [
         "ai-agents",
@@ -52,10 +52,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 5836,
+      "stars": 5849,
       "stars_display": "5.8k",
-      "forks": 830,
-      "forks_display": "830",
+      "forks": 832,
+      "forks_display": "832",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-22T03:56:45Z"
@@ -68,10 +68,10 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 5126,
+      "stars": 5136,
       "stars_display": "5.1k",
-      "forks": 146,
-      "forks_display": "146",
+      "forks": 147,
+      "forks_display": "147",
       "language": "Swift",
       "topics": [
         "ai-blocker",
@@ -80,7 +80,7 @@
         "cli",
         "debloat"
       ],
-      "updated_at": "2026-10-21T18:59:41Z"
+      "updated_at": "2026-10-22T08:12:09Z"
     },
     {
       "full_name": "QingYunA/answer-me-with-html",
@@ -90,10 +90,10 @@
       "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
-      "stars": 4201,
+      "stars": 4229,
       "stars_display": "4.2k",
-      "forks": 281,
-      "forks_display": "281",
+      "forks": 282,
+      "forks_display": "282",
       "language": "JavaScript",
       "topics": [
         "agent-skill",
@@ -102,7 +102,7 @@
         "claude-code-skill",
         "claude-skill"
       ],
-      "updated_at": "2026-10-21T06:56:25Z"
+      "updated_at": "2026-10-22T08:23:28Z"
     },
     {
       "full_name": "kaankiziltug/logo-design-skill",
@@ -112,8 +112,8 @@
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "preview_image": "https://repository-images.githubusercontent.com/1388867993/cb41b962-88da-4adb-be7e-17ee8a1073aa",
-      "stars": 4044,
-      "stars_display": "4.0k",
+      "stars": 4079,
+      "stars_display": "4.1k",
       "forks": 310,
       "forks_display": "310",
       "language": "HTML",
@@ -134,7 +134,7 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 3842,
+      "stars": 3848,
       "stars_display": "3.8k",
       "forks": 153,
       "forks_display": "153",
@@ -150,10 +150,10 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "preview_image": "https://opengraph.githubassets.com/6b52771731dc5a2e478f00d501e5ca69d9dedf14a7b8f516b1d9796faa736ab1/onehumanbeing/esp32-iphone-agent",
-      "stars": 3506,
+      "stars": 3531,
       "stars_display": "3.5k",
-      "forks": 462,
-      "forks_display": "462",
+      "forks": 465,
+      "forks_display": "465",
       "language": "C",
       "topics": [
         "ai-agent",
@@ -162,7 +162,7 @@
         "computer-use",
         "esp32"
       ],
-      "updated_at": "2026-10-22T05:04:43Z"
+      "updated_at": "2026-10-22T05:26:44Z"
     },
     {
       "full_name": "Folkbench/folkbench",
@@ -172,10 +172,10 @@
       "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "url": "https://github.com/Folkbench/folkbench",
       "preview_image": "https://opengraph.githubassets.com/44255c4dfb46381f4789ce2dc024f76d1e4dbf3faf07959f54fc96c1aca05d32/Folkbench/folkbench",
-      "stars": 2459,
+      "stars": 2475,
       "stars_display": "2.5k",
-      "forks": 11,
-      "forks_display": "11",
+      "forks": 12,
+      "forks_display": "12",
       "language": "Rust",
       "topics": [
         "ai",
@@ -184,7 +184,7 @@
         "benchmark",
         "benchmarks"
       ],
-      "updated_at": "2026-10-20T14:25:35Z"
+      "updated_at": "2026-10-22T08:38:58Z"
     },
     {
       "full_name": "nanaism/yomiyasu",
@@ -194,7 +194,7 @@
       "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "url": "https://github.com/nanaism/yomiyasu",
       "preview_image": "https://opengraph.githubassets.com/58077f323e8cd0181ac0d659316a7c9a8b19c90c556794f0c3c9c9f65ca637d9/nanaism/yomiyasu",
-      "stars": 2387,
+      "stars": 2394,
       "stars_display": "2.4k",
       "forks": 62,
       "forks_display": "62",
@@ -213,6 +213,6 @@
   "search_query": "ai created:>2026-09-22",
   "days": 30,
   "limit": 10,
-  "total_count": 482021,
-  "fetched_at": "2026-10-22T05:11:42.983292+00:00"
+  "total_count": 486419,
+  "fetched_at": "2026-10-22T10:26:33.279476+00:00"
 }
