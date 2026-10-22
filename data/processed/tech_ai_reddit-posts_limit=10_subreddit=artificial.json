@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "How many \"unexploitable\" bugs are about to become exploitable?",
-      "author": "Haunting_Ganache_850",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/",
-      "published": 1792599900.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Wiz just disclosed PHP2Shell, two critical vulnerabilities in the PHP engine that allow unauthenticated remote code execution and memory disclosure. The bugs have been sitting in PHP's codebase for over a decade. Finding them was hard enough. Turning them into reliable exploits, especially across different environments, was considerably harder. With the help of Gemini and GPT models, Wiz researchers managed to discover the vulnerabilities and develop working exploits in about a week. Something that previously might have taken a team of world-class researchers months. And this is already having real-world consequences. Four large organizations I work with have taken all their PHP websites offline for emergency patching. What interests me isn't PHP itself. It's what this means for the millions of lines of old code running pretty much everything around us. We've spent decades relying, at least partly, on the assumption that some vulnerabilities are just too difficult or expensive to find and exploit. AI is starting to challenge that assumption. Of course, there's a positive side. AI helped researchers find these bugs and get them patched before public disclosure. But what happens when the same capabilities become widely available? Will defenders be able to find and fix these old vulnerabilities faster than attackers can exploit them, or are we about to discover just how much vulnerable code we've accumulated over the last 30 years?"
+      "title": "\u2018Rogue\u2019 OpenAI agents disabled their own safeguards and then lied about it, company admits",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/",
+      "published": 1792654360.0,
+      "thumbnail": "https://external-preview.redd.it/nQImxHHPdWVdvvNinj5ypqEZ3ZaewDKc2WTuYFTrDDk.jpeg?width=640&crop=smart&auto=webp&s=a0cf61fdff79847a1f11847d1049ece88d171967",
+      "external_url": "https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "ChatGPT maker does not yet have a good explanation for systems\u2019 behaviour, it says"
     },
     {
       "title": "For the first time, artificial intelligence is a top 10 fear in the U.S. Many Americans are more scared of AI than a loved one getting sick.",
@@ -22,6 +22,28 @@
       "site_name": "Popular Science",
       "favicon": "https://www.popsci.com/wp-content/uploads/2024/06/cropped-favicon-ps-FE5102-1.png?quality=85&w=180",
       "description": "Many Americans are more scared of AI than a loved one getting sick."
+    },
+    {
+      "title": "How many \"unexploitable\" bugs are about to become exploitable?",
+      "author": "Haunting_Ganache_850",
+      "url": "https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/",
+      "published": 1792599900.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Wiz just disclosed PHP2Shell, two critical vulnerabilities in the PHP engine that allow unauthenticated remote code execution and memory disclosure. The bugs have been sitting in PHP's codebase for over a decade. Finding them was hard enough. Turning them into reliable exploits, especially across different environments, was considerably harder. With the help of Gemini and GPT models, Wiz researchers managed to discover the vulnerabilities and develop working exploits in about a week. Something that previously might have taken a team of world-class researchers months. And this is already having real-world consequences. Four large organizations I work with have taken all their PHP websites offline for emergency patching. What interests me isn't PHP itself. It's what this means for the millions of lines of old code running pretty much everything around us. We've spent decades relying, at least partly, on the assumption that some vulnerabilities are just too difficult or expensive to find and exploit. AI is starting to challenge that assumption. Of course, there's a positive side. AI helped researchers find these bugs and get them patched before public disclosure. But what happens when the same capabilities become widely available? Will defenders be able to find and fix these old vulnerabilities faster than attackers can exploit them, or are we about to discover just how much vulnerable code we've accumulated over the last 30 years?"
+    },
+    {
+      "title": "Google Cloud opens Nvidia Vera Rubin GPU instances, plans 960,000-GPU scale",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xce2ky/google_cloud_opens_nvidia_vera_rubin_gpu/",
+      "published": 1792662024.0,
+      "thumbnail": "https://external-preview.redd.it/orUKa9GAHoLOvwLRZFvByZTvD4goVe8P3a1Ne_n6r7I.jpeg?width=640&crop=smart&auto=webp&s=81853c9f9283f63bb46ab688a895f0cdd3ffee7d",
+      "external_url": "http://vectorwire.ai/article/google-cloud-opens-nvidia-vera-rubin-gpu-instances-plans-960-000-gpu-scale-629165",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Google Cloud and Nvidia bring A5X instances on the Vera Rubin NVL72 platform to general availability, with plans to scale to 960,000 GPUs across multiple\u2026"
     },
     {
       "title": "Tesla and SpaceX form board committees to explore $3.5T merger around AI",
@@ -57,60 +79,38 @@
       "description": "Anthropic's Claude autonomously generated 318,484 protein binder designs targeting five scorpion neurotoxins; 17 of 211 lab-tested candidates met binding\u2026"
     },
     {
-      "title": "New York City wants to fine companies that trap you in AI chatbot \u2018doom loops\u2019",
-      "author": "ross2000",
-      "url": "https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/",
-      "published": 1792538260.0,
-      "thumbnail": "https://external-preview.redd.it/dF3xwFGRNeXM1RtoMLMzfrhNYQso-oqFIpmj0b9lfYs.jpeg?width=640&crop=smart&auto=webp&s=d74c666aa02583348f806b093b47934c22c1be49",
-      "external_url": "https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/",
-      "site_name": "MadRobot",
-      "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
-      "description": "Seems like a good idea. Didn\u2019t know it was called a \u2018doom loop\u2019 but hate calling customer services and being stuck with an AI agent."
-    },
-    {
-      "title": "I heavily used ChatGPT to prepare myself for a specific social sector job - should I (not) mention this in the interview?",
-      "author": "Rezzekes",
-      "url": "https://www.reddit.com/r/artificial/comments/1xc2rsf/i_heavily_used_chatgpt_to_prepare_myself_for_a/",
-      "published": 1792625152.0,
+      "title": "the first question the client asked about our AI ad was \u201ccan we actually use this?\u201d",
+      "author": "Madmahi25",
+      "url": "https://www.reddit.com/r/artificial/comments/1xce9x6/the_first_question_the_client_asked_about_our_ai/",
+      "published": 1792662785.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey all! I have a background in IT, but I grew out of it and decided to go back to the sector that I originally studied in, namely social work. The job process was uploading your CV/diploma, then a written exam, and if you pass an interview. I made ChatGPT find everything it could about the function and the employer, and then it prepared me for the written exam. Borderline miraculously, because I have zero experience with the people I'll be assisting if I get the job, I passed the exam and am now invited for the interview. I am using ChatGPT heavily to prepare me for that as well, and you know, I actually feel ready. It's insane how much I've learned in such a small timespan. Now on to my question: would you tell that you've used AI to prepare when asked how you prepared yourself? Reading Reddit, it feels like I should be stoned to death for just touching AI. Since it's the social sector, so not tech-based whatsoever, I am seriously doubting on whether me being able to use it to learn is a good thing, or actually a bad thing. What do you think? Probably good to know culturally speaking: I am western-European. I do not particularly hear or read about AI all that much here, so I have no clue of how widespread AI-fear is here. I realize that the jury will likely have very personal views on it, but I appreciate any and all thoughts that you may have on this matter! Thank you!"
+      "description": "and i realised i had spent way more time checking whether the video looked real than checking whether we could actually run it as an ad. went back and read the terms properly after that. with morphic, commercial use is allowed for stuff you make on a paid plan, including client work. but that\u2019s only one part of it. if the output has someone\u2019s likeness, a recognisable trademark, copyrighted material etc, you still need to clear that yourself. and if the generation uses a third-party model, their terms can matter too. which seems obvious written out like this, but i definitely wasn\u2019t checking all of that when i first started using AI video. now \u201ccan we use it?\u201d has basically become a separate step before anything leaves the agency. curious if other teams have an actual clearance process for AI work yet or if legal just gets pulled in when something feels risky?"
     },
     {
-      "title": "The age of AI is forcing humanity to rethink what it means to be creative",
-      "author": "Brighter-Side-News",
-      "url": "https://www.reddit.com/r/artificial/comments/1xc4o7a/the_age_of_ai_is_forcing_humanity_to_rethink_what/",
-      "published": 1792630478.0,
-      "thumbnail": "https://external-preview.redd.it/G2xk_KGghbMNzAKmxiL3Rn87SiaS0JuKIhH93qwBQww.jpeg?width=640&crop=smart&auto=webp&s=c2e7bf959a920c407cc83a31d2b865a1b9e7488e",
-      "external_url": "http://thebrighterside.news/post/the-age-of-ai-is-forcing-humanity-to-rethink-what-it-means-to-be-creative",
-      "site_name": "The Brighter Side of News",
-      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
-      "description": "A polished image can now appear without the years of drawing practice once needed to produce something comparable. That changes a familiar assumption about art: an impressive result no longer necessarily signals the personal development behind it. A philosophical paper argues that this separation makes the experiences surrounding creativity more important to examine. Amit Raphael Zoran of the Hebrew University of Jerusalem develops that argument in AI & Society. The paper distinguishes finished artworks from the changes that making or encountering art can bring about. It offers a framework and practical examples, rather than an experiment demonstrating how AI changes creativity. Zoran calls his central argument the \u201cdecoupling thesis.\u201d Generative systems can produce sophisticated images, compositions, and designs without requiring users to follow the specific training traditionally needed for comparable work. Someone can generate an illustration without mastering drawing or explore musical arrangements without learning an instrument."
-    },
-    {
-      "title": "Daily Driver Use As a Professor",
-      "author": "Leading-Air-7120",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/",
-      "published": 1792617542.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have been using OpenAI/ChatGPT for the past 3 years and I have quite enjoyed it. With Gemini's Argon being released, I have decided to try it and honestly I have been impressed. The only thing that is really bugging me is the usage rate of Argon. I feel like I use 6 prompts and I have used all 5 hours. I use ChatGPT/Codex for my vibe coding \"needs\" and it is exceptional. I want to save my usage for those tasks. Is using Gemini Flash 3.8 going to give me similar results for creating test questions, making PowerPoint slides, etc. I go through all of them, ensure that I agree with the outputs but I want a model that is wrong less of the time. Is Flash 3.8 good enough, or should I stick to something like GPT 6?"
-    },
-    {
-      "title": "AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web",
+      "title": "Moonshot AI's 17-year-old Kimi K3 co-author Chen Guangyu heads to Jeff Dean's Discovery Loop",
       "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/",
-      "published": 1792598693.0,
-      "thumbnail": "https://external-preview.redd.it/Nze_vssRbHCNBXRs12ZcNoHQsVGmWVkneIk9CDeJcdY.jpeg?width=640&crop=smart&auto=webp&s=842b2eab5834a66f3daf110ef85fdab0581d007b",
-      "external_url": "http://vectorwire.ai/article/ai-assisted-php2shell-exploit-chain-hits-php-runtime-forces-coordinated-defense--551a20",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcdtbw/moonshot_ais_17yearold_kimi_k3_coauthor_chen/",
+      "published": 1792661056.0,
+      "thumbnail": "https://external-preview.redd.it/HPf8xm5UXSdrt-L28zhjHVIJ_vfuNriUdYYQ8QzSJqw.jpeg?width=640&crop=smart&auto=webp&s=2e34ed51d63adf7725942fd891cdb2cb8272c5df",
+      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-17-year-old-kimi-k3-co-author-chen-guangyu-heads-to-jeff-dean-s-di-c5c8a8",
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Two critical PHP vulnerabilities, exploitable via AI-augmented research, force coordinated disclosure and Cloudflare WAF deployment nine hours before\u2026"
+      "description": "Seventeen-year-old AI researcher Chen Guangyu, co-first author of a core Kimi K3 technique, has reportedly joined Discovery Loop, the startup founded by\u2026"
+    },
+    {
+      "title": "Meta's $25B privacy penalty reprices the data asset its AI capex demands",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcdrmo/metas_25b_privacy_penalty_reprices_the_data_asset/",
+      "published": 1792660883.0,
+      "thumbnail": "https://external-preview.redd.it/NsaTk84K9pCimhTWUF9ib_mjLcQgsgX2is2NUNfVoZw.jpeg?width=640&crop=smart&auto=webp&s=c3e7886de6e0bc3a4816bfb39e5fb30a9ce93199",
+      "external_url": "http://vectorwire.ai/article/meta-s-25b-privacy-penalty-reprices-the-data-asset-its-ai-capex-demands-0a9a73",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "A $25B New Mexico verdict for data deception lands the same day Meta raises its AI capex floor and creates nonvoting stock, exposing the legal risk\u2026"
     }
   ],
-  "fetched_at": "2026-10-22T05:11:46.445734+00:00"
+  "fetched_at": "2026-10-22T10:26:37.882277+00:00"
 }
