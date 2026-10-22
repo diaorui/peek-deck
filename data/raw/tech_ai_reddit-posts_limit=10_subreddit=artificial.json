@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.",
+      "author": "Sevives",
+      "url": "https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/",
+      "published": 1792672002.0,
+      "thumbnail": "https://preview.redd.it/z3yy9xs8i0xh1.jpeg?width=640&crop=smart&auto=webp&s=1d747e1698c8c947ee5725e2b81ee1f07dc71dfd",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "\u2018Rogue\u2019 OpenAI agents disabled their own safeguards and then lied about it, company admits",
       "author": "theindependentonline",
       "url": "https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/",
@@ -11,6 +22,17 @@
       "site_name": "The Independent",
       "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
       "description": "ChatGPT maker does not yet have a good explanation for systems\u2019 behaviour, it says"
+    },
+    {
+      "title": "Have you used used AI to run customer interviews at scale?",
+      "author": "Pleasant-Dirt-2913",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/",
+      "published": 1792667251.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019re lookin at AI moderation for a larger B2b customer research project and I\u2019m tryna understand how much human review is still needed afterward I\u2019ve looked at GLG and Qualitate to run the interviews and follow ups. My main question is what happens once you have 30-40 conversations back. Does someone still need to read every transcript or listen to recordings to check the interview quality If so how much work does AI take out of the process?"
     },
     {
       "title": "For the first time, artificial intelligence is a top 10 fear in the U.S. Many Americans are more scared of AI than a loved one getting sick.",
@@ -24,6 +46,17 @@
       "description": "Many Americans are more scared of AI than a loved one getting sick."
     },
     {
+      "title": "China's biggest chatbot has started bringing up shopping on its own. It mentions the cold weather, then hands you a coupon",
+      "author": "Sanbi_Ai",
+      "url": "https://www.reddit.com/r/artificial/comments/1xclm0i/chinas_biggest_chatbot_has_started_bringing_up/",
+      "published": 1792682684.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This one caught me off guard. During China's Double 11 shopping festival, ByteDance's chatbot Doubao has started bringing up shopping on its own. Two Chinese outlets tested it this week. They were chatting about things that had nothing to do with shopping, Doubao mentioned that the weather was getting colder, and then it offered them Douyin Mall coupons, one of them 900 yuan off a 7,000 yuan order. For context, Douyin is ByteDance's Chinese TikTok, and Doubao is the most used AI app in China with roughly 400 million monthly users. It gets more interesting the further you dig you can now watch Douyin livestreams inside Doubao's answers and buy straight from them without leaving the chat buying through Doubao is often cheaper than buying on Douyin itself, because Doubao throws in its own subsidy. One down jacket was 894 yuan in Doubao and 919 on Douyin the motive is pretty obvious. LatePost reported Doubao had over 200 million daily users in the first half of the year but only about 10 million yuan a day in e-commerce sales people are also spending less time in it, down from 144 minutes a month in June to 133 in September, according to QuestMobile What bothers me most is the sourcing. QuestMobile found that on travel destination questions, 97.7% of Doubao's answers cited Douyin content and 84.5% cited Toutiao, which is also ByteDance. So one company owns the chatbot, the sources it quotes and the store it sends you to. It has also shown shoppers prices it could not have checked. In a June test by Jiemian, Doubao produced a neat price comparison across JD, Taobao and Pinduoduo, even though it is not connected to JD or Pinduoduo. Those prices came from the model, not the stores, and one was a best-case price most people could not actually get. Then it finished with a Douyin product card. Alibaba's Qwen got the same question and just admitted it could not check those sites. In fairness, the unprompted coupons come from reporters' own tests during what looks like a gradual rollout, so not everyone is seeing them yet. Honest question. If a chatbot got you a better price than the store, would you care that it started the sales pitch itself? Or is that where you stop trusting anything it says?"
+    },
+    {
       "title": "How many \"unexploitable\" bugs are about to become exploitable?",
       "author": "Haunting_Ganache_850",
       "url": "https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/",
@@ -33,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Wiz just disclosed PHP2Shell, two critical vulnerabilities in the PHP engine that allow unauthenticated remote code execution and memory disclosure. The bugs have been sitting in PHP's codebase for over a decade. Finding them was hard enough. Turning them into reliable exploits, especially across different environments, was considerably harder. With the help of Gemini and GPT models, Wiz researchers managed to discover the vulnerabilities and develop working exploits in about a week. Something that previously might have taken a team of world-class researchers months. And this is already having real-world consequences. Four large organizations I work with have taken all their PHP websites offline for emergency patching. What interests me isn't PHP itself. It's what this means for the millions of lines of old code running pretty much everything around us. We've spent decades relying, at least partly, on the assumption that some vulnerabilities are just too difficult or expensive to find and exploit. AI is starting to challenge that assumption. Of course, there's a positive side. AI helped researchers find these bugs and get them patched before public disclosure. But what happens when the same capabilities become widely available? Will defenders be able to find and fix these old vulnerabilities faster than attackers can exploit them, or are we about to discover just how much vulnerable code we've accumulated over the last 30 years?"
-    },
-    {
-      "title": "Google Cloud opens Nvidia Vera Rubin GPU instances, plans 960,000-GPU scale",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xce2ky/google_cloud_opens_nvidia_vera_rubin_gpu/",
-      "published": 1792662024.0,
-      "thumbnail": "https://external-preview.redd.it/orUKa9GAHoLOvwLRZFvByZTvD4goVe8P3a1Ne_n6r7I.jpeg?width=640&crop=smart&auto=webp&s=81853c9f9283f63bb46ab688a895f0cdd3ffee7d",
-      "external_url": "http://vectorwire.ai/article/google-cloud-opens-nvidia-vera-rubin-gpu-instances-plans-960-000-gpu-scale-629165",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Google Cloud and Nvidia bring A5X instances on the Vera Rubin NVL72 platform to general availability, with plans to scale to 960,000 GPUs across multiple\u2026"
     },
     {
       "title": "Tesla and SpaceX form board committees to explore $3.5T merger around AI",
@@ -57,60 +79,38 @@
       "description": "Elon Musk disclosed that Tesla and SpaceX have formed independent board committees to explore a merger that would create a roughly $3.5 trillion\u2026"
     },
     {
-      "title": "Anthropic enters proactive-agent race with Claude Duet",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xc7syo/anthropic_enters_proactiveagent_race_with_claude/",
-      "published": 1792639646.0,
-      "thumbnail": "https://external-preview.redd.it/u5EVqPbVYJevEPQMUlhMRvj8Xs3AhIqZAyfFqIEwkUE.png?width=640&crop=smart&auto=webp&s=84cdb2c269382392128fed3db8d8e09f063d7ae8",
-      "external_url": "http://vectorwire.ai/article/anthropic-enters-proactive-agent-race-with-claude-duet-ccb35f",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Anthropic launched Claude Duet on October 21, a proactive AI agent built on Opus 5.5 that rivals Meta's Muse and OpenAI's Dots, available via waitlist to\u2026"
+      "title": "On Main Street, Goldman Sachs makes a big bet on AI",
+      "author": "nbcnews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xclpjt/on_main_street_goldman_sachs_makes_a_big_bet_on_ai/",
+      "published": 1792682903.0,
+      "thumbnail": "https://external-preview.redd.it/xBwpit_O-axuiAOvlyhsXQDBsB1LRD3ZykJmK9plSv8.jpeg?width=640&crop=smart&auto=webp&s=fddb384e81447a53750690f6b51cfaaadf071c80",
+      "external_url": "https://www.nbcnews.com/business/ceo-interviews/goldman-sachs-small-business-ai-institute-rcna604621",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The Wall Street giant says it\u2019s teaming up with OpenAI, Google, Meta and Anthropic to help small businesses embrace artificial intelligence."
     },
     {
-      "title": "Anthropic's Claude autonomously designs protein binders targeting scorpion neurotoxins",
+      "title": "Schmidt's ~1% Anthropic stake traces to 2021 Series A bet",
       "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xbks11/anthropics_claude_autonomously_designs_protein/",
-      "published": 1792582703.0,
-      "thumbnail": "https://external-preview.redd.it/EisJbMpisPACKfa8yyu5kZ1bgQh_rD4LXkO7VKJ_Xxg.jpeg?width=640&crop=smart&auto=webp&s=c90cc20c4db7fe5702ca0834c71c8edd9cf45ff7",
-      "external_url": "http://vectorwire.ai/article/anthropic-s-claude-autonomously-designs-protein-binders-targeting-scorpion-neuro-e2db97",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcladb/schmidts_1_anthropic_stake_traces_to_2021_series/",
+      "published": 1792681996.0,
+      "thumbnail": "https://external-preview.redd.it/iiTu8_S54n52HEv1-Ugnszo2qmsFvBsv3j7HBzCwJSo.jpeg?width=640&crop=smart&auto=webp&s=b4b0566647ffe0ac62d4a743bdccbf5362c45c53",
+      "external_url": "http://vectorwire.ai/article/schmidt-s-1-anthropic-stake-traces-to-2021-series-a-bet-8e09dd",
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Anthropic's Claude autonomously generated 318,484 protein binder designs targeting five scorpion neurotoxins; 17 of 211 lab-tested candidates met binding\u2026"
+      "description": "Bloomberg reports Eric Schmidt owns about 1% of Anthropic from a Series A investment at a $461 million valuation, positioning him for a major IPO windfall."
     },
     {
-      "title": "the first question the client asked about our AI ad was \u201ccan we actually use this?\u201d",
-      "author": "Madmahi25",
-      "url": "https://www.reddit.com/r/artificial/comments/1xce9x6/the_first_question_the_client_asked_about_our_ai/",
-      "published": 1792662785.0,
-      "thumbnail": null,
+      "title": "I thought I was the only person saying please and thank you to AI. Kim Komando poll asking readers if they are polite to AI.",
+      "author": "EverySingleMinute",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcl9uk/i_thought_i_was_the_only_person_saying_please_and/",
+      "published": 1792681964.0,
+      "thumbnail": "https://preview.redd.it/k3jxz9wob1xh1.png?width=320&crop=smart&auto=webp&s=4f38b4ff60957c5e534f28ac764bae7e336ba0bd",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "and i realised i had spent way more time checking whether the video looked real than checking whether we could actually run it as an ad. went back and read the terms properly after that. with morphic, commercial use is allowed for stuff you make on a paid plan, including client work. but that\u2019s only one part of it. if the output has someone\u2019s likeness, a recognisable trademark, copyrighted material etc, you still need to clear that yourself. and if the generation uses a third-party model, their terms can matter too. which seems obvious written out like this, but i definitely wasn\u2019t checking all of that when i first started using AI video. now \u201ccan we use it?\u201d has basically become a separate step before anything leaves the agency. curious if other teams have an actual clearance process for AI work yet or if legal just gets pulled in when something feels risky?"
-    },
-    {
-      "title": "Moonshot AI's 17-year-old Kimi K3 co-author Chen Guangyu heads to Jeff Dean's Discovery Loop",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcdtbw/moonshot_ais_17yearold_kimi_k3_coauthor_chen/",
-      "published": 1792661056.0,
-      "thumbnail": "https://external-preview.redd.it/HPf8xm5UXSdrt-L28zhjHVIJ_vfuNriUdYYQ8QzSJqw.jpeg?width=640&crop=smart&auto=webp&s=2e34ed51d63adf7725942fd891cdb2cb8272c5df",
-      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-17-year-old-kimi-k3-co-author-chen-guangyu-heads-to-jeff-dean-s-di-c5c8a8",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Seventeen-year-old AI researcher Chen Guangyu, co-first author of a core Kimi K3 technique, has reportedly joined Discovery Loop, the startup founded by\u2026"
-    },
-    {
-      "title": "Meta's $25B privacy penalty reprices the data asset its AI capex demands",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcdrmo/metas_25b_privacy_penalty_reprices_the_data_asset/",
-      "published": 1792660883.0,
-      "thumbnail": "https://external-preview.redd.it/NsaTk84K9pCimhTWUF9ib_mjLcQgsgX2is2NUNfVoZw.jpeg?width=640&crop=smart&auto=webp&s=c3e7886de6e0bc3a4816bfb39e5fb30a9ce93199",
-      "external_url": "http://vectorwire.ai/article/meta-s-25b-privacy-penalty-reprices-the-data-asset-its-ai-capex-demands-0a9a73",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "A $25B New Mexico verdict for data deception lands the same day Meta raises its AI capex floor and creates nonvoting stock, exposing the legal risk\u2026"
+      "description": null
     }
   ],
-  "fetched_at": "2026-10-22T10:26:37.882277+00:00"
+  "fetched_at": "2026-10-22T15:30:08.175230+00:00"
 }
