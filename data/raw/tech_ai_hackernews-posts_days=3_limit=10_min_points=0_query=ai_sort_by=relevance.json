@@ -23,14 +23,28 @@
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "hn_url": "https://news.ycombinator.com/item?id=50189150",
       "author": "babelfish",
-      "points": 232,
-      "num_comments": 214,
+      "points": 242,
+      "num_comments": 222,
       "created_at": "2026-10-21T23:38:32Z",
       "object_id": "50189150",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
       "description": "No more fines for not taking out the trash at your Airbnb.",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "site_name": "The Verge"
+    },
+    {
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "hn_url": "https://news.ycombinator.com/item?id=50198675",
+      "author": "niemandhier",
+      "points": 239,
+      "num_comments": 126,
+      "created_at": "2026-10-22T17:44:06Z",
+      "object_id": "50198675",
+      "image": "https://opengraph.githubassets.com/de3aeb3b466f88f13b2190b2b01adee0c8442c30de2459134b10ead7f50d4fcd/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     },
     {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
@@ -51,8 +65,8 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "hn_url": "https://news.ycombinator.com/item?id=50180752",
       "author": "raahelb",
-      "points": 153,
-      "num_comments": 102,
+      "points": 154,
+      "num_comments": 103,
       "created_at": "2026-10-21T13:37:00Z",
       "object_id": "50180752",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
@@ -61,11 +75,25 @@
       "site_name": "OpenAI"
     },
     {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "hn_url": "https://news.ycombinator.com/item?id=50197313",
+      "author": "rakannimer",
+      "points": 147,
+      "num_comments": 167,
+      "created_at": "2026-10-22T16:08:00Z",
+      "object_id": "50197313",
+      "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0",
+      "description": "We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.",
+      "favicon": "https://www.modelcompare.ai/apple-icon.png?d684b0a0d956e474",
+      "site_name": "ModelCompare"
+    },
+    {
       "title": "Google staff resign in backlash over its AI contracts with military",
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
       "hn_url": "https://news.ycombinator.com/item?id=50186043",
       "author": "saikatsg",
-      "points": 124,
+      "points": 126,
       "num_comments": 26,
       "created_at": "2026-10-21T19:14:21Z",
       "object_id": "50186043",
@@ -89,6 +117,20 @@
       "site_name": "bolkunov.com"
     },
     {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "hn_url": "https://news.ycombinator.com/item?id=50199230",
+      "author": "jrepinc",
+      "points": 84,
+      "num_comments": 45,
+      "created_at": "2026-10-22T18:28:16Z",
+      "object_id": "50199230",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "description": "The scientific literature can be viewed as an \"information commons:\" an intangible resource that \"no one owns and is shared by everyone.\" There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known \"tragedy of the commons,\" but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via \"slop spam\"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.",
+      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+      "site_name": "arXiv.org"
+    },
+    {
       "title": "Rust off Rails: The opinionated web stack for the AI era",
       "url": "https://rustoffrails.org/",
       "hn_url": "https://news.ycombinator.com/item?id=50183727",
@@ -101,51 +143,9 @@
       "description": "The opinionated web stack for the AI era. Rust off Rails is a set of Markdown files that tell coding agents how to build a full-stack Rust web app: one blessed stack, one layout, one way to do each thing.",
       "favicon": "https://rustoffrails.org/static/apple-touch-icon.png?v=cad7a3ca",
       "site_name": "Rust off Rails"
-    },
-    {
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "url": "https://layerfs.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50179857",
-      "author": "l2dy",
-      "points": 72,
-      "num_comments": 47,
-      "created_at": "2026-10-21T12:34:46Z",
-      "object_id": "50179857",
-      "image": "https://layerfs.ai/github-preview.png",
-      "description": "LayerFS is an open-source (MIT) filesystem for AI coding agents: each tool call gets a complete, writable Workspace over shared history.",
-      "favicon": "https://layerfs.ai/favicon.svg",
-      "site_name": "LayerFS"
-    },
-    {
-      "title": "Texas data center boom could erase decades of progress on air quality",
-      "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
-      "hn_url": "https://news.ycombinator.com/item?id=50184712",
-      "author": "hn_acker",
-      "points": 55,
-      "num_comments": 24,
-      "created_at": "2026-10-21T17:38:55Z",
-      "object_id": "50184712",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "texastribune.org"
-    },
-    {
-      "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "hn_url": "https://news.ycombinator.com/item?id=50167583",
-      "author": "Andydy25",
-      "points": 53,
-      "num_comments": 21,
-      "created_at": "2026-10-20T15:09:29Z",
-      "object_id": "50167583",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     }
   ],
-  "total_hits": 703,
+  "total_hits": 701,
   "has_metadata": true,
-  "fetched_at": "2026-10-22T19:24:04.191642+00:00"
+  "fetched_at": "2026-10-22T22:37:25.539449+00:00"
 }
