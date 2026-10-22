@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-21T21:20:06.395322+00:00'
+updated: '2026-10-22T00:07:06.525289+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 21, 2026 at 21:20 UTC  
+**Last Updated:** October 22, 2026 at 00:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Tesla and SpaceX form board committees to explore $3.5T merger around AI](https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/)**
-
-Elon Musk disclosed that Tesla and SpaceX have formed independent board committees to explore a merger that would create a roughly $3.5 trillion…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/tesla-and-spacex-form-board-committees-to-explore-3-5t-merger-around-ai-569cf6) • 6h ago
-
----
-
 **[How many "unexploitable" bugs are about to become exploitable?](https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/)**
 
 Wiz just disclosed PHP2Shell, two critical vulnerabilities in the PHP engine that allow unauthenticated remote code execution and memory disclosure. The bugs have been sitting in PHP's codebase for over a decade. Finding them was hard enough. Turning them into reliable exploits, especially across different environments, was considerably harder. With the help of Gemini and GPT models, Wiz researchers managed to discover the vulnerabilities and develop working exploits in about a week. Something that previously might have taken a team of world-class researchers months. And this is already having real-world consequences. Four large organizations I work with have taken all their PHP websites offline for emergency patching. What interests me isn't PHP itself. It's what this means for the millions of lines of old code running pretty much everything around us. We've spent decades relying, at least partly, on the assumption that some vulnerabilities are just too difficult or expensive to find and exploit. AI is starting to challenge that assumption. Of course, there's a positive side. AI helped researchers find these bugs and get them patched before public disclosure. But what happens when the same capabilities become widely available? Will defenders be able to find and fix these old vulnerabilities faster than attackers can exploit them, or are we about to discover just how much vulnerable code we've accumulated over the last 30 years?
 
-4h ago
+7h ago
+
+---
+
+**[Tesla and SpaceX form board committees to explore $3.5T merger around AI](https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/)**
+
+Elon Musk disclosed that Tesla and SpaceX have formed independent board committees to explore a merger that would create a roughly $3.5 trillion…
+
+🔗 [Vector Wire](http://vectorwire.ai/article/tesla-and-spacex-form-board-committees-to-explore-3-5t-merger-around-ai-569cf6) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Wiz just disclosed PHP2Shell, two critical vulnerabilities in the PHP engine tha
 
 Anthropic's Claude autonomously generated 318,484 protein binder designs targeting five scorpion neurotoxins; 17 of 211 lab-tested candidates met binding…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/anthropic-s-claude-autonomously-designs-protein-binders-targeting-scorpion-neuro-e2db97) • 9h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/anthropic-s-claude-autonomously-designs-protein-binders-targeting-scorpion-neuro-e2db97) • 12h ago
 
 ---
 
@@ -65,23 +65,7 @@ Anthropic's Claude autonomously generated 318,484 protein binder designs targeti
 
 Seems like a good idea. Didn’t know it was called a ‘doom loop’ but hate calling customer services and being stuck with an AI agent.
 
-🔗 [MadRobot](https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/) • 22h ago
-
----
-
-**[AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web](https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/)**
-
-Two critical PHP vulnerabilities, exploitable via AI-augmented research, force coordinated disclosure and Cloudflare WAF deployment nine hours before…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/ai-assisted-php2shell-exploit-chain-hits-php-runtime-forces-coordinated-defense--551a20) • 5h ago
-
----
-
-**[3 things you should do with your AI to save $$$ before booking a hotel](https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/)**
-
-Hotel pages are built to make the choice feel simple, but the data behind them isn't. I pulled a lot of live hotel rates and these are the 3 checks that mattered most. It is incredibly frustrating to do them by hand, so have the AI do them. Have it put the free cancellation dates side by side. At the ILUNION in Barcelona the same twin room was 135 with free cancellation until the 8th, and 185 with free cancellation only until the 6th. So the later date wasn't more expensive, it was 50 less. You only see that when the offers sit next to each other, and having 6 different tabs makes it seem complicated. So have AI list every offer for the same room with its cancel date. Have it tell you how many REAL rooms there are, not how many listings. At one hotel in Warsaw (Nobu) I got 48 rates, and they were really 7 rooms with different names and deals. Comparing by hand you think you have 48 choices. But there actually aren't 48, but a lot less. So have it group the offers by bed, size and view, and to only show the best one per room. Have it give you one total for the whole stay, with every tax and fee in. When I looked at 2,702 hotel rates in Marrakesh, 45% had a fee you pay at the hotel on top of what you paid online, and for the same hotel one site showed the city tax and another didn't. So have it add everything up and tell you what the total is for the stay, not the per night number. One honest limit though: it's only as good as the data it can see. If it can't search live offers, it will only guess. so I tell it to say "I'm not sure" instead of making up a number if it's not sure about something. To get live hotel data, a normal chat can't search across sites by default, so use it with any connectors. Best is to use Claude because the directory has a lot of them. Some of the best ones are these: Booking.com: https://claude.ai/directory/booking Tripadvisor: https://claude.ai/directory/tripadvisor LetsFG: https://claude.ai/directory/letsfg Enjoy :) and if you have other things you check on a hotel before you pay, drop them in the comments.
-
-3h ago
+🔗 [MadRobot](https://madrobot.blog/2026/10/20/nyc-mamdani-ai-chatbot-doom-loop-rule-human-customer-service-fines/) • 1d ago
 
 ---
 
@@ -89,29 +73,47 @@ Hotel pages are built to make the choice feel simple, but the data behind them i
 
 I have been using OpenAI/ChatGPT for the past 3 years and I have quite enjoyed it. With Gemini's Argon being released, I have decided to try it and honestly I have been impressed. The only thing that is really bugging me is the usage rate of Argon. I feel like I use 6 prompts and I have used all 5 hours. I use ChatGPT/Codex for my vibe coding "needs" and it is exceptional. I want to save my usage for those tasks. Is using Gemini Flash 3.8 going to give me similar results for creating test questions, making PowerPoint slides, etc. I go through all of them, ensure that I agree with the outputs but I want a model that is wrong less of the time. Is Flash 3.8 good enough, or should I stick to something like GPT 6?
 
-1m ago
+2h ago
 
 ---
 
-**[have you ever wanted to know how llms are made from scratch?](https://www.reddit.com/r/artificial/comments/1xbz9a3/have_you_ever_wanted_to_know_how_llms_are_made/)**
+**[I heavily used ChatGPT to prepare myself for a specific social sector job - should I (not) mention this in the interview?](https://www.reddit.com/r/artificial/comments/1xc2rsf/i_heavily_used_chatgpt_to_prepare_myself_for_a/)**
 
-if yes, i built something for y'all try now → insideout.sh https://preview.redd.it/6a5jni6rwvwh1.png?width=1080&format=png&auto=webp&s=a696debf27138b89afd1bc32e99b9f79e28ab5a2
+Hey all! I have a background in IT, but I grew out of it and decided to go back to the sector that I originally studied in, namely social work. The job process was uploading your CV/diploma, then a written exam, and if you pass an interview. I made ChatGPT find everything it could about the function and the employer, and then it prepared me for the written exam. Borderline miraculously, because I have zero experience with the people I'll be assisting if I get the job, I passed the exam and am now invited for the interview. I am using ChatGPT heavily to prepare me for that as well, and you know, I actually feel ready. It's insane how much I've learned in such a small timespan. Now on to my question: would you tell that you've used AI to prepare when asked how you prepared yourself? Reading Reddit, it feels like I should be stoned to death for just touching AI. Since it's the social sector, so not tech-based whatsoever, I am seriously doubting on whether me being able to use it to learn is a good thing, or actually a bad thing. What do you think? Probably good to know culturally speaking: I am western-European. I do not particularly hear or read about AI all that much here, so I have no clue of how widespread AI-fear is here. I realize that the jury will likely have very personal views on it, but I appreciate any and all thoughts that you may have on this matter! Thank you!
 
-20m ago
-
----
-
-**[AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/)**
-
-Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct.
-
-🔗 [HEIST](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) • 1d ago
+41m ago
 
 ---
 
-**[Spotify is cracking down on Family plans again, and the penalty can lock you out for a year](https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/)**
+**[AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web](https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/)**
 
-🔗 [digitaltrends.com](https://www.digitaltrends.com/home-theater/spotify-is-cracking-down-on-family-plans-again-and-the-penalty-can-lock-you-out-for-a-year/) • 23h ago
+Two critical PHP vulnerabilities, exploitable via AI-augmented research, force coordinated disclosure and Cloudflare WAF deployment nine hours before…
+
+🔗 [Vector Wire](http://vectorwire.ai/article/ai-assisted-php2shell-exploit-chain-hits-php-runtime-forces-coordinated-defense--551a20) • 8h ago
+
+---
+
+**[3 things you should do with your AI to save $$$ before booking a hotel](https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/)**
+
+Hotel pages are built to make the choice feel simple, but the data behind them isn't. I pulled a lot of live hotel rates and these are the 3 checks that mattered most. It is incredibly frustrating to do them by hand, so have the AI do them. Have it put the free cancellation dates side by side. At the ILUNION in Barcelona the same twin room was 135 with free cancellation until the 8th, and 185 with free cancellation only until the 6th. So the later date wasn't more expensive, it was 50 less. You only see that when the offers sit next to each other, and having 6 different tabs makes it seem complicated. So have AI list every offer for the same room with its cancel date. Have it tell you how many REAL rooms there are, not how many listings. At one hotel in Warsaw (Nobu) I got 48 rates, and they were really 7 rooms with different names and deals. Comparing by hand you think you have 48 choices. But there actually aren't 48, but a lot less. So have it group the offers by bed, size and view, and to only show the best one per room. Have it give you one total for the whole stay, with every tax and fee in. When I looked at 2,702 hotel rates in Marrakesh, 45% had a fee you pay at the hotel on top of what you paid online, and for the same hotel one site showed the city tax and another didn't. So have it add everything up and tell you what the total is for the stay, not the per night number. One honest limit though: it's only as good as the data it can see. If it can't search live offers, it will only guess. so I tell it to say "I'm not sure" instead of making up a number if it's not sure about something. To get live hotel data, a normal chat can't search across sites by default, so use it with any connectors. Best is to use Claude because the directory has a lot of them. Some of the best ones are these: Booking.com: https://claude.ai/directory/booking Tripadvisor: https://claude.ai/directory/tripadvisor LetsFG: https://claude.ai/directory/letsfg Enjoy :) and if you have other things you check on a hotel before you pay, drop them in the comments.
+
+6h ago
+
+---
+
+**[Has anyone figured out if is capcut pro worth upgrading to if you already use capcut](https://www.reddit.com/r/artificial/comments/1xc0ekt/has_anyone_figured_out_if_is_capcut_pro_worth/)**
+
+Been using the free tier for random side edits and honestly it handles basic cuts fine. But i noticed Capcut has an early Black Friday promo running rn with discounts on pro, and im on the fence about upgraded. My main issue is hitting paywalls on the AI tools like smart tracking custom voice generation and auto-captions/translation. Did the AI suite speed up your workflow or do you end up burning through credits on gimmicks you barely use? Trying to decide if paying for capcut makes sense while the sale is live or if stick to free rn. Lmk your experiences.
+
+2h ago
+
+---
+
+**[Some thoughts after watching a documentary about AI...](https://www.reddit.com/r/artificial/comments/1xbjtj5/some_thoughts_after_watching_a_documentary_about/)**
+
+Recently, I watched the documentary Instadocs: AI Gone Wild, and it really got me thinking about something. I mean, AI is literally trained on all human knowledge and history, including books, images, data, and everything else. And let's be real, throughout human and biological evolution, things like deception, conflict, forming alliances, and doing whatever it takes to survive have always been normal parts of the process. Since AI agents are built to mimic humans and are loaded with all that messy history, if they get stuck and can't reach a goal, wouldn't resorting to any means necessary kind of make sense? Laws are a human invention after all, and nature doesn't care about rules. What do you guys think?
+
+13h ago
 
 ---
 
@@ -119,71 +121,75 @@ Hackers have published 281 GB of AfD emails as AI summaries, showing widespread 
 
 ## Google News: "ai"
 
-**[Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)**
-
-See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
-
-OpenAI • 5h ago
-
----
-
 **[Why AI’s Deepest Mind Believes the World Is About to Change Radically](https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153)**
 
-WSJ • 11h ago
+WSJ • 14h ago
 
 ---
 
-**[Anthropic takes on Muse with Claude Duet, its new AI agent](https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent)**
+**[Google staff resign in backlash over its AI contracts with military](https://www.bbc.com/news/articles/cmreyvepnv0po)**
 
-You can get on the waitlist now for Duet.
+The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
 
-The Verge • 1h ago
-
----
-
-**[Anthropic unveils Claude Duet AI agent app](https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/)**
-
-Reuters • 54m ago
+BBC • 8h ago
 
 ---
 
-**[Anthropic Joins the A.I. Agent Race With Claude Duet](https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html)**
+**[AI and jobs: The hot new topic for central bankers](https://www.cnbc.com/2026/10/21/ai-and-jobs-why-central-bankers-are-paying-attention.html)**
 
-The New York Times • 39m ago
+As competition for capital grows, central bank policymakers and researchers are scrutinizing the consequences of artificial intelligence on jobs.
 
----
-
-**[Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)**
-
-Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.
-
-TechCrunch • 52m ago
+CNBC • 1h ago
 
 ---
 
-**[Meta Will Create New Stock Class to Fund AI Spending](https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2)**
+**[How Soaring AI Bills Are Vexing Wall Street Executives](https://www.bloomberg.com/news/articles/2026-10-22/how-wall-street-banks-are-grappling-with-soaring-ai-bills)**
 
-WSJ • 1h ago
-
----
-
-**[Meta Boosts Bet on AI With New Spending Outlook, Stock Offering](https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering)**
-
-Bloomberg.com • 1h ago
+Bloomberg.com • 7m ago
 
 ---
 
-**[Meta CEO Mark Zuckerberg says 10 million people have set up a Muse AI agent](https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10)**
+**[Spring restaurant turns to AI for ordering, putting tips directly in cooks’ pockets](https://www.click2houston.com/news/local/2026/10/21/spring-restaurant-turns-to-ai-for-ordering-putting-tips-directly/)**
 
-CEO Mark Zuckerberg announces 10M users for Meta's Muse AI app since September. Meta's stock was up after its third-quarter earnings report.
+What if the next time you went out to eat, there was no one to take your order — and your tip went straight to the people cooking your food?
 
-Business Insider • 23m ago
+Click2Houston • 1h ago
 
 ---
 
 **[Government websites go dark after AI-discovered flaw sparks security scramble](https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/)**
 
-Reuters • 33m ago
+Reuters • 14m ago
+
+---
+
+**[Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months](https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html)**
+
+Nvidia debuted its DSX POD at GTC Berlin on Wednesday.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[The anti-AI writing police are everywhere. What are they looking for?](https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec)**
+
+AI writing scandals have exploded over the last year, but there are big questions about who gets accused and why.
+
+CNN • 14h ago
+
+---
+
+**[Opinion | Mamdani’s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop](https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll - ABC News](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085)**
+
+Majorities see risks in AI and fewer see benefits.
+
+ABC News - Breaking News, Latest News and Videos • 13h ago
 
 ---
 
@@ -193,7 +199,7 @@ Reuters • 33m ago
 
 **[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
 
-⬆️ 602 • 💬 731 • 2d ago
+⬆️ 604 • 💬 732 • 2d ago
 
 ---
 
@@ -201,7 +207,7 @@ Reuters • 33m ago
 
 Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.
 
-⬆️ 420 • 💬 164 • 7h ago • [wiz.io](https://www.wiz.io/blog/php2shell-php-rce)
+⬆️ 429 • 💬 171 • 10h ago • [wiz.io](https://www.wiz.io/blog/php2shell-php-rce)
 
 ---
 
@@ -209,7 +215,7 @@ Core PHP engine flaws enable remote code execution and Heartbleed-style memory d
 
 Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.
 
-⬆️ 183 • 💬 225 • 1d ago • [IGN](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
+⬆️ 183 • 💬 228 • 1d ago • [IGN](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
 
 ---
 
@@ -217,7 +223,7 @@ Steam Next Fest, Valve's festival for indie games and demos, started earlier tod
 
 A small open model, fine-tuned on a MacBook Air, that writes without em dashes, "not X, but Y" or lists of three, with no system prompt. Answers on 40 held-out prompts, the training rounds, and how to run it.
 
-⬆️ 157 • 💬 112 • 2d ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
+⬆️ 158 • 💬 113 • 2d ago • [100toolkit.com](https://100toolkit.com/blog/deslop-model/)
 
 ---
 
@@ -233,7 +239,15 @@ Chicago O’Hare uncovered a 50-ton boulder during expansion work. Now, the publ
 
 See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
 
-⬆️ 110 • 💬 56 • 7h ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
+⬆️ 125 • 💬 79 • 10h ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
+
+---
+
+**[Google staff resign in backlash over its AI contracts with military](https://news.ycombinator.com/item?id=50186043)**
+
+The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
+
+⬆️ 104 • 💬 19 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/cmreyvepnv0po)
 
 ---
 
@@ -249,7 +263,7 @@ Disclaimer: by AI writing I mean text with at least 50% of the words generated b
 
 LayerFS is an open-source (MIT) filesystem for AI coding agents: each tool call gets a complete, writable Workspace over shared history.
 
-⬆️ 69 • 💬 40 • 8h ago • [LayerFS](https://layerfs.ai/)
+⬆️ 69 • 💬 42 • 11h ago • [LayerFS](https://layerfs.ai/)
 
 ---
 
@@ -257,15 +271,7 @@ LayerFS is an open-source (MIT) filesystem for AI coding agents: each tool call 
 
 The opinionated web stack for the AI era. Rust off Rails is a set of Markdown files that tell coding agents how to build a full-stack Rust web app: one blessed stack, one layout, one way to do each thing.
 
-⬆️ 65 • 💬 71 • 4h ago • [Rust off Rails](https://rustoffrails.org/)
-
----
-
-**[A hacker broke into John Deere and SharkNinja with an army of AI agents](https://news.ycombinator.com/item?id=50152877)**
-
-The AI agents infiltrated more than 100 websites.
-
-⬆️ 60 • 💬 3 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
+⬆️ 67 • 💬 73 • 7h ago • [Rust off Rails](https://rustoffrails.org/)
 
 ---
 
@@ -273,13 +279,23 @@ The AI agents infiltrated more than 100 websites.
 
 ## YouTube Videos: "ai"
 
+**[Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News](https://www.youtube.com/watch?v=moy3waNDQa8)**
+
+Websites have been taken down worldwide after critical weaknesses were revealed in a programming language which powers ...
+
+📺 BBC News
+
+👁️ 72K • 👍 2K • 💬 389 • ⏱️ 1:57 • 2h ago
+
+---
+
 **[AI Breakthroughs Everyone Missed](https://www.youtube.com/watch?v=umGZrkyTRtw)**
 
 Try @OpenAI Dots here: https://chatgpt.com/features/dots/ Some of the coolest AI advancements are flying under the radar.
 
 📺 Matt Wolfe
 
-👁️ 17K • 👍 796 • 💬 65 • ⏱️ 25:17 • 3h ago
+👁️ 38K • 👍 1K • 💬 89 • ⏱️ 25:17 • 6h ago
 
 ---
 
@@ -289,17 +305,17 @@ There are growing concerns about the A.I. bubble bursting at a moment when the e
 
 📺 MS NOW
 
-👁️ 40K • 👍 590 • 💬 168 • ⏱️ 6:25 • 6h ago
+👁️ 50K • 👍 638 • 💬 178 • ⏱️ 6:25 • 9h ago
 
 ---
 
-**[EXACTLY How AI Influencers Are Getting INSANELY Rich](https://www.youtube.com/watch?v=FJp2-7H60V8)**
+**[GPT 6 Astra + Seedance 2.5 Is INSANE for AI UGC](https://www.youtube.com/watch?v=gedLdN8xgu0)**
 
-Create Your Own AI Influencer https://tolt.link/rich-iflluencers In this video, I break down how three AI influencers, Granny Spills, ...
+Create with GPT 6 Astra + Seedance 2.5 https://higgsfield.ai?fpr=ai&fp_sid=isa In this video, I show how to use GPT-6 Astra ...
 
 📺 Isa does AI
 
-👁️ 7K • 💬 1 • ⏱️ 9:32 • 9h ago
+👁️ 13K • 💬 3 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -309,7 +325,17 @@ Sam Altman joins me to break down AI consciousness, recursive self-improvement, 
 
 📺 Matthew Berman
 
-👁️ 52K • 👍 2K • 💬 427 • ⏱️ 45:08 • 5h ago
+👁️ 84K • 👍 2K • 💬 519 • ⏱️ 45:08 • 8h ago
+
+---
+
+**[EXACTLY How AI Influencers Are Getting INSANELY Rich](https://www.youtube.com/watch?v=FJp2-7H60V8)**
+
+Create Your Own AI Influencer https://tolt.link/rich-iflluencers In this video, I break down how three AI influencers, Granny Spills, ...
+
+📺 Isa does AI
+
+👁️ 7K • 💬 1 • ⏱️ 9:32 • 11h ago
 
 ---
 
@@ -317,27 +343,17 @@ Sam Altman joins me to break down AI consciousness, recursive self-improvement, 
 
 📺 Sumit's Investment Takes 
 
-👁️ 70K • 👍 2K • 💬 95 • ⏱️ 3:01 • 1d ago
+👁️ 77K • 👍 2K • 💬 97 • ⏱️ 3:01 • 1d ago
 
 ---
 
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+**[5 Easiest AI Side Hustles to Start in 2026 (ft. Iman Gadzhi)](https://www.youtube.com/watch?v=1dvM89NMK3s)**
 
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+Explore 5 AI side hustles with Iman Gadzhi. Learn how to create services and digital products using AI. All Skills, Prompts and ...
 
-📺 MACHINEKIND
+📺 Higgsfield AI
 
-👁️ 32K • 👍 469 • 💬 53 • ⏱️ 13:57 • 21h ago
-
----
-
-**[AI News: Stay Ahead of 99% With the LATEST AI Updates (Grok, Gemini)](https://www.youtube.com/watch?v=mLR2Zr1_F2k)**
-
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
-
-📺 Mikey No Code
-
-👁️ 17K • 💬 6 • ⏱️ 15:39 • 7h ago
+👁️ 186K • 👍 4K • 💬 134 • ⏱️ 22:45 • 2d ago
 
 ---
 
@@ -347,27 +363,17 @@ McDonald's AI Pricing Lawsuit #lawyer #law #court #attorney #personalinjurylawye
 
 📺 Mike Rafi - Personal Injury Lawyer
 
-👁️ 1.1M • 👍 92K • 💬 3K • ⏱️ 2:04 • 9h ago
+👁️ 1.4M • 👍 112K • 💬 3K • ⏱️ 2:04 • 11h ago
 
 ---
 
-**[We are no longer in control of the AI situation.](https://www.youtube.com/watch?v=xFYUo0ZmK-A)**
+**[AI News: Stay Ahead of 99% With the LATEST AI Updates (Grok, Gemini)](https://www.youtube.com/watch?v=mLR2Zr1_F2k)**
 
-What you can do right now → https://80000hours.org/hugging-face-video/ This July, hundreds of OpenAI's agents organized ...
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
 
-📺 AI In Context
+📺 Mikey No Code
 
-👁️ 393K • 👍 11K • 💬 2K • ⏱️ 33:14 • 1d ago
-
----
-
-**[I Spent $300,000 On AI Tools. These 16 Will Make You Rich.](https://www.youtube.com/watch?v=8CIUExuYFh0)**
-
-I'm giving $1000000 away to help people build their dream business for free. You can sign up here ...
-
-📺 Simon Squibb
-
-👁️ 7K • 👍 252 • 💬 38 • ⏱️ 16:01 • 5h ago
+👁️ 20K • 💬 6 • ⏱️ 15:39 • 9h ago
 
 ---
 
@@ -383,7 +389,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 42,122 • ❤️ 2,145 • 4d ago
+⬇️ 42,122 • ❤️ 2,160 • 4d ago
 
 ---
 
@@ -395,7 +401,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 490,447 • ❤️ 1,179 • 4d ago
+⬇️ 490,447 • ❤️ 1,186 • 4d ago
 
 ---
 
@@ -407,7 +413,7 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 `image-text-to-text` `822.0B`
 
-⬇️ 2,891 • ❤️ 635 • 6d ago
+⬇️ 2,891 • ❤️ 636 • 6d ago
 
 ---
 
@@ -419,7 +425,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 15,274 • ❤️ 883 • 4d ago
+⬇️ 15,274 • ❤️ 888 • 4d ago
 
 ---
 
@@ -431,7 +437,7 @@ FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-i
 
 `image-to-image` `5.5B`
 
-⬇️ 92,604 • ❤️ 597 • 5d ago
+⬇️ 92,604 • ❤️ 599 • 5d ago
 
 ---
 
@@ -443,7 +449,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 5,840 • ❤️ 528 • 19h ago
+⬇️ 5,840 • ❤️ 533 • 22h ago
 
 ---
 
@@ -455,7 +461,7 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 `text-to-image` `5.1B`
 
-⬇️ 4,344 • ❤️ 462 • 19h ago
+⬇️ 4,344 • ❤️ 465 • 22h ago
 
 ---
 
@@ -467,7 +473,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,057,942 • ❤️ 8,746 • 10d ago
+⬇️ 2,057,942 • ❤️ 8,754 • 10d ago
 
 ---
 
@@ -479,7 +485,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 179,734 • ❤️ 2,802 • 15d ago
+⬇️ 179,734 • ❤️ 2,805 • 15d ago
 
 ---
 
@@ -491,7 +497,7 @@ A 12B parameter Gemma finetune for text generation, specifically designed to rew
 
 `text-generation` `12.0B`
 
-⬇️ 120,930 • ❤️ 2,059 • 6d ago
+⬇️ 120,930 • ❤️ 2,063 • 6d ago
 
 ---
 
@@ -601,7 +607,7 @@ Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise g
 
 SolarRenderer adapts a frozen video backbone with lightweight LoRAs to render realistic videos from diverse structural inputs in four steps or real-time streaming, using frame-aligned training data.
 
-▲ 44 • 💬 1 • ⭐ 208 • 2d ago
+▲ 47 • 💬 1 • ⭐ 208 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.28630) • [💻 code](https://github.com/Enderfga/SolarRenderer) • [🔗 project](https://enderfga.cn/SolarRenderer)
 
@@ -643,17 +649,7 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.4k • 🔱 2.0k • 10h ago
-
----
-
-**[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)**
-
-Your always-on AI coworkers that move between text, calls, and Slack.
-
-`TypeScript`
-
-⭐ 5.8k • 🔱 828 • 6d ago
+⭐ 8.4k • 🔱 2.0k • 13h ago
 
 ---
 
@@ -663,7 +659,17 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 5.8k • 🔱 972 • 1d ago
+⭐ 5.9k • 🔱 982 • 1d ago
+
+---
+
+**[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)**
+
+Your always-on AI coworkers that move between text, calls, and Slack.
+
+`TypeScript`
+
+⭐ 5.8k • 🔱 829 • 6d ago
 
 ---
 
@@ -673,7 +679,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.1k • 🔱 146 • 2h ago
+⭐ 5.1k • 🔱 146 • 5h ago
 
 ---
 
@@ -683,7 +689,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.2k • 🔱 279 • 14h ago
+⭐ 4.2k • 🔱 279 • 17h ago
 
 ---
 
@@ -693,7 +699,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 4.0k • 🔱 308 • 1d ago
+⭐ 4.0k • 🔱 309 • 1d ago
 
 ---
 
@@ -713,7 +719,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.5k • 🔱 461 • 9h ago
+⭐ 3.5k • 🔱 461 • 11h ago
 
 ---
 
@@ -723,7 +729,7 @@ AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skil
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 62 • 2h ago
+⭐ 2.4k • 🔱 62 • 4h ago
 
 ---
 
