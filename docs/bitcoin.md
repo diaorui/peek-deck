@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-22T15:30:48.550881+00:00'
+updated: '2026-10-22T19:24:41.071039+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 22, 2026 at 15:30 UTC  
+**Last Updated:** October 22, 2026 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,858.14
+### $81,356.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.5%  
-**7d:** -0.0%  
-**30d:** -3.4%  
-**90d:** +26.8%  
-**1y:** -25.9%  
+**24h:** -3.9%  
+**7d:** -0.2%  
+**30d:** -3.5%  
+**90d:** +26.5%  
+**1y:** -26.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1639.65B
+**Market Cap:** $1635.44B
 Rank #1
 
 **Circulating Supply:** 20,101,921 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.3%
+-35.5%
 
 **All-Time Low:** $67.81
-+120178.7%
++119883.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[we’re all cut from the same cloth🤝😁](https://www.reddit.com/r/Bitcoin/comments/1xa529j/were_all_cut_from_the_same_cloth/)**
 
-2d ago
+3d ago
 
 ---
 
 **[Bitcoin HODLer spotted in France](https://www.reddit.com/r/Bitcoin/comments/1xa5dg9/bitcoin_hodler_spotted_in_france/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Aren't we?
 
-2d ago
+3d ago
 
 ---
 
@@ -155,27 +155,41 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 J.P. Morgan just named Bitcoin the highest-returning asset in its long-term outlook, and that changes the math on even a small stake in ways most investors have not considered.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Bitcoin ‘Goes to Zero’ After a Hack, Chamath Palihapitiya Predicts](https://www.benzinga.com/crypto/cryptocurrency/26/10/62529943/bitcoin-goes-to-zero-after-a-hack-chamath-predicts)**
+
+Benzinga • 4h ago
+
+---
+
+**[How Much of Your Portfolio Should Be in Bitcoin After JPMorgan’s 10% Forecast?](https://finance.yahoo.com/markets/crypto/articles/much-portfolio-bitcoin-jpmorgan-10-183046168.html)**
+
+JPMorgan just gave Bitcoin a place in serious long-term forecasts, but the projected return tells only half the story. The other half, rooted in volatility that can carve 50% from your holdings, determines whether any allocation makes sense for your situation.
+
+Yahoo Finance • 53m ago
+
+---
+
+**[China wants 61,800 Bitcoin from UK’s $5.7B fraud case. Who has the right to them?](https://finance.yahoo.com/markets/crypto/articles/china-wants-61-800-bitcoin-191000631.html)**
+
+A Tianjin court has opened confiscation proceedings, while British courts are yet to decide who actually owns the seized coins.
+
+Yahoo Finance • 14m ago
 
 ---
 
 **[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
 
-Financial Times • 30m ago
+Financial Times • 4h ago
 
 ---
 
 **[Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment](https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves](https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves)**
-
-BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.
-
-CoinDesk • 11h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -183,41 +197,27 @@ CoinDesk • 11h ago
 
 Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
 
-CoinDesk • 22m ago
+CoinDesk • 3h ago
 
 ---
 
-**[China’s Government Moves To Seize 61,800 Bitcoin](https://finance.yahoo.com/markets/crypto/articles/china-government-moves-seize-61-141700187.html)**
+**[Bitcoin Faces $85,000–$87,500 Supply Test After $80,000 Rebound](https://www.tradingview.com/news/newsbtc:f78704728094b:0-bitcoin-faces-85-000-87-500-supply-test-after-80-000-rebound/)**
 
-China’s government is moving to seize 61,800 Bitcoin (CRYPTO: $BTC) that it says was part of a $5.7 billion U...
+TL;DR: Glassnode’s October 21 report identifies an overhead Bitcoin supply zone around $85,000–$87,500 after bids returned near $80,000. Its levels describe a market structure, not a guaranteed price path.Bitcoin’s rebound has brought it back toward a cluster of holders, sell orders and leveraged p…
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin scam that cost U.P. man $665K sparks arrest, charges](https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/)**
-
-Zhong Jiang faces up to 10 years in prison, officials said.
-
-The Detroit News • 21h ago
-
----
-
-**[Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans](https://www.bloomberg.com/news/articles/2026-10-21/kalshi-to-allow-leveraged-futures-bets-with-bitcoin-backed-loans)**
-
-Bloomberg.com • 23h ago
-
----
-
-**[Bitcoin ATM service to shut down in Oregon under settlement](https://www.oregonlive.com/business/2026/10/bitcoin-atm-service-to-shut-down-in-oregon-under-settlement.html)**
-
-OregonLive.com • 2h ago
+TradingView • 3h ago
 
 ---
 
 **[‘The numbers are actually alarming.’ Ann Arbor aims to regulate Bitcoin ATMs to stop scams](https://www.mlive.com/news/ann-arbor/2026/10/the-numbers-are-actually-alarming-ann-arbor-aims-to-regulate-bitcoin-atms-to-stop-scams.html)**
 
-MLive.com • 22h ago
+MLive.com • 1d ago
+
+---
+
+**[‘Extraordinary’ JPMorgan Report Predicts Bitcoin Price Will Beat Gold, Stocks And Bonds—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/10/22/extraordinary-jpmorgan-report-predicts-bitcoin-price-will-beat-gold-stocks-and-bonds-but-theres-a-nasty-catch/)**
+
+Forbes • 8h ago
 
 ---
 
@@ -245,7 +245,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
 
-⬆️ 1 • 💬 0 • 23h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
+⬆️ 1 • 💬 0 • 1d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
 
 ---
 
@@ -253,7 +253,7 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
-⬆️ 1 • 💬 0 • 3d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+⬆️ 1 • 💬 0 • 4d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -261,7 +261,7 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 With graduate jobs hard to come by, more young adults are reported to be considering emigrating.
 
-⬆️ 1 • 💬 0 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
+⬆️ 1 • 💬 0 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
 
 ---
 
@@ -275,7 +275,7 @@ JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 195 • ⏱️ 20:40 • 16h ago
+👁️ 36K • 👍 2K • 💬 210 • ⏱️ 20:40 • 19h ago
 
 ---
 
@@ -285,37 +285,27 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 17K • 👍 705 • 💬 57 • ⏱️ 8:20 • 7h ago
+👁️ 21K • 👍 754 • 💬 34 • ⏱️ 8:20 • 11h ago
 
 ---
 
-**[Bitcoin Faces a Global Market Bloodbath](https://www.youtube.com/watch?v=dL8cML5_HnM)**
+**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
 
-Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
+Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
 
-📺 CryptosRUs
+📺 Yahoo Finance
 
-👁️ 5K • 👍 439 • 💬 50 • ⏱️ 35:49 • 1h ago
-
----
-
-**[Bitcoin Hovers Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 118K • 👍 4K • 💬 190 • ⏱️ 6:07 • 19h ago
+👁️ 3K • 👍 259 • 💬 61 • ⏱️ 14:53 • 2h ago
 
 ---
 
-**[BITCOIN: THIS IS INSANE !!!](https://www.youtube.com/watch?v=HpKj8ftjjaA)**
+**[You Have No Idea What’s Coming for Bitcoin! (WARNING)](https://www.youtube.com/watch?v=66qVpe9-Cng)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXtesla Claim up to ...
+Yesterday everybody was bullish. Today? Fear is back and Bitcoin just dropped nearly 4%. Dylan and the Chart Hackers team ...
 
-📺 The Moon Show
+📺 Chart Hackers
 
-👁️ 8K • 👍 333 • 💬 22 • ⏱️ 12:34 • 4h ago
+👁️ 4K • 👍 308 • 💬 15 • ⏱️ 1:00:03 • 58m ago
 
 ---
 
@@ -325,47 +315,57 @@ J.P. Morgan just named Bitcoin the best-performing asset in its long-term outloo
 
 📺 Bitcoin Magazine
 
-👁️ 34K • 👍 219 • 💬 42 • ⏱️ 2:41 • 1d ago
+👁️ 36K • 👍 222 • 💬 43 • ⏱️ 2:41 • 1d ago
 
 ---
 
-**[Did JPMorgan Just Signal Bitcoin’s Biggest Bull Run?!](https://www.youtube.com/watch?v=mjgVbrsDTFg)**
+**[NFA LIVE: Bitcoin Breaks $82K Support as Everything Sells Off.](https://www.youtube.com/watch?v=p7I18Cz3Ez0)**
 
-JPMorgan's latest long-term outlook puts Bitcoin ahead of stocks, gold, and real estate, marking a major shift for a bank led by ...
+Gold and silver just lost $500 billion, Asian markets are down big, and Bitcoin broke $82K support. Benjamin Cowen (Into The ...
 
-📺 Simply Bitcoin
+📺 Digital Asset News
 
-👁️ 45K • 👍 2K • 💬 108 • ⏱️ 13:00 • 1d ago
-
----
-
-**[OFFICIAL: JPMorgan Confirms Bitcoin to $214,000 per coin as &#39;base case&#39;](https://www.youtube.com/watch?v=SQ8Hu-ByVh0)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 62K • 👍 2K • 💬 86 • ⏱️ 8:43 • 1d ago
+👁️ 5K • 👍 232 • 💬 6 • ⏱️ 31:27 • 5h ago
 
 ---
 
-**[BITCOIN: SELL OFF AGAIN!!! WTF IS GOING ON!!](https://www.youtube.com/watch?v=D1CfgNbGiXY)**
+**[Bitcoin Hovers Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
 
-BULLMANIA INNER CIRCLE: https://bullmania.com/ Newsletter: https://bullmania.com/subscribe Bullmania Arena: ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Ivan on Tech
+📺 Benjamin Cowen
 
-👁️ 18K • 👍 1K • 💬 45 • ⏱️ 52:06 • 5h ago
+👁️ 124K • 👍 4K • 💬 190 • ⏱️ 6:07 • 23h ago
 
 ---
 
-**[BITCOIN ABOUT TO CRASH AGAIN!?](https://www.youtube.com/watch?v=dfZo7ycM66I)**
+**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
 
-BitBase https://ckenny.com/BitbaseM ($10520 USDT Bonus) ⚠️ DISCLAIMER – READ FIRST This video is not financial advice.
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Conor Kenny
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 398 • 💬 125 • ⏱️ 18:17 • 8h ago
+👁️ 39K • 👍 2K • 💬 104 • ⏱️ 10:31 • 4h ago
+
+---
+
+**[Bitcoin Bulls Aren&#39;t Done Yet... $8*,***** Is My Next Target!](https://www.youtube.com/watch?v=gLTrxTY5_kg)**
+
+The long trade played out. Bitcoin bulls grabbed the first batch of liquidity right on cue. Now the real question is whether they have ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 865 • 💬 10 • ⏱️ 33:24 • 1d ago
+
+---
+
+**[BITCOIN: THIS IS INSANE !!!](https://www.youtube.com/watch?v=HpKj8ftjjaA)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXtesla Claim up to ...
+
+📺 The Moon Show
+
+👁️ 14K • 👍 385 • 💬 27 • ⏱️ 12:34 • 8h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-22T15:30:48.560346+00:00'
+updated: '2026-10-22T19:24:41.078960+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 22, 2026 at 15:30 UTC  
+**Last Updated:** October 22, 2026 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was th
 
 More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rocker-bogie-mars-rover-esp32-cam-6-wheel-robotic-platform
 
-3d ago
+4d ago
 
 ---
 
@@ -68,7 +68,7 @@ More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rock
 
 HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 3d ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 4d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi my name is deemco From saudi arabia Like u see the title I have proplem with 
 
 Drones are the next section Online tools that run sample by sample on a flight controller's data, on a Raspberry Pi or an NVIDIA Jetson next to it. This issue splits the work into small points. Pick one, say so in a comment, and open a PR. Every point has a question it answers, a data source and a way to check it, so a first contribution fits in an afternoon. How to take a point: comment "I take N", fork, work on a branch, open a PR that mentions this issue. One point per PR. Questions in the comments are welcome. Ground rules for every point - Each number on a page comes from a script of the repository that was run before the sentence was written. - Synthetic data are labelled "synthetic" everywhere they appear. - "Tested on a Raspberry Pi / a Jetson" is written only when the command ran on that board; otherwise "written, not run on the board". - Sources are the papers named below, with page numbers. ## Data and adapters **PX4 ULog reader.** Yield one dict per sample (time, gyro, accelerometer, GPS velocity, motor outputs, battery voltage) with `pyulog`. Check: a tiny ULog written by the test round-trips. **MAVLink tlog reader.** The same fields with `pymavlink`. Source: the MAVLink survey, arXiv:1906.10641 (Koubaa et al., IEEE Access 2019). **Synthetic flight generator.** Hover plus a circle, noise, one fault at a stated sample, labelled. The single source of data for tests and smoke runs. **ALFA loader.** Load the fixed-wing fault dataset (arXiv:1907.06268, Keipour et al., IJRR 2021; data DOI 10.1184/R1/12707963) and its ground-truth fault times. Check: the 47 processed flights load and the fault time of each is read. ## Pipelines (each answers one question) **Which part broke, and how many seconds after?** Residual of commanded against measured rate, a CUSUM detector with `reset_on_alarm=True`, a robust Mahalanobis score. Metrics: detection delay and alarm episodes per hour of normal flight. Data: ALFA (point 4). Related: Garg and Fan, arXiv:2309.09108. **Is the GPS telling the truth?** Online comparison of GPS velocity with the integrated IMU. Inject an offset ramp into normal flights and say so on the page. Motivation: SemperFi arXiv:2105.01860 and Kim et al. arXiv:2407.15003. **Is a propeller damaged?** Online spectrum of the gyro or accelerometer and a distance of the band energies from the healthy baseline. Related: Zhang et al., arXiv:2302.04410. **How many minutes of flight are left, and how sure are we?** Online fit of voltage against current and time with an interval; the remaining time as a distribution. Source for the energy model: Alyassi et al., arXiv:1703.10049. **Is the next move safe?** Distance to a geofence and to obstacles from the simulated lidar of `benchmarks/lidar_sim.py`, with the protection tools already in the library. **Where is the landing pad, and is the camera moving?** `GlobalMotion`, `MotionMask` and `FrameAnomaly` on synthetic frames of a pad. Metrics: pixel error against the planted position and time per frame at 640x360. **Is the radio link about to fail?** A drift detector on packet inter-arrival time and RSSI of a synthetic MQTT stream. **Static against online.** The same fault data with a scikit-learn batch model and the online one; median of 20 seeds, time per sample, memory. The page follows `docs/finance/static_vs_online.md`. ## Boards **Raspberry Pi to Pixhawk page.** Serial wiring, the PX4 parameters and the Pi settings, with each step checked against the PX4 documentation page (https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html). Mark every step you ran yourself. **Jetson power modes page.** The `nvpmodel` modes of each Orin module and the time per sample of a pipeline in each mode, measured on the board you own. **`edge_bench.py`.** Time per sample (median and interquartile range), 99th percentile, resident memory and CPU temperature for each pipeline on a given board, written to a JSON file named after the host. Include your board model in the file name. Results from a board you own are the most valuable contribution here. **Dockerfiles for arm64 and Jetson, `install.sh`, a systemd unit and an MQTT bridge** publishing the score and the alarm episodes. Base image names come from the vendor documentation, with the URL. ## Also open **ArduPilot.** The same adapters against an ArduPilot log, with the differences written down. **A flight log of your own.** Run a pipeline on a log from your drone and tell us what it found, as a comment or a page. **Spotted something in the plan?** A missing pipeline, a better source paper, a wrong sentence. Open a comment and it becomes a numbered point. A new contributor can start with point 3, 13 or 18. The folder with the instructions, rules and papers is kept by the maintainer; ask here if you want a copy. ## Papers to read (one per area) - **MAVLink, the protocol every point 1-2 and 16 talks to:** A. Koubaa et al., "Micro Air Vehicle Link (MAVLink) in a Nutshell: A Survey", IEEE Access 2019, arXiv:1906.10641. - **Fault data and metrics (points 4-5):** A. Keipour, M. Mousaei, S. Scherer, "ALFA: A Dataset for UAV Fault and Anomaly Detection", IJRR 2021, arXiv:1907.06268. - **Actuator faults (point 5):** K. Garg, C. Fan, "Neural Network-based Fault Detection and Identification for Quadrotors using Dynamic Symmetry", arXiv:2309.09108. - **GPS and state-estimator attacks (point 6):** H. Sathaye et al., "SemperFi: A Spoofer Eliminating GPS Receiver for UAVs", arXiv:2105.01860; K. H. Kim et al., "Predictable by Design, Vulnerable by Nature: Security Consequences of Learnability in UAV State Estimators", arXiv:2407.15003. - **Propeller faults (point 7):** W. Zhang et al., "Simulation-to-reality UAV Fault Diagnosis with Deep Learning", arXiv:2302.04410. - **Battery and energy (point 8):** R. Alyassi et al., "Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones", IEEE T-ASE 2023, arXiv:1703.10049. - **Boards (points 13-16):** PX4 documentation, "Companion Computers", https://docs.px4.io/main/en/companion\_computer/ and "Raspberry Pi to Pixhawk", https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html; NVIDIA Jetson Orin power modes, https://docs.nvidia.com/jetson/archives/r36.4/DeveloperGuide/SD/PlatformPowerAndPerformance/JetsonOrinNanoSeriesJetsonOrinNxSeriesAndJetsonAgxOrinSeries.html. Know a better paper for one of these areas? Add it in a comment with the arXiv number. link : https://github.com/tatopenn-cell/Dense-Evolution-Discovery/issues/266
 
-3d ago
+4d ago
 
 ---
 
@@ -108,13 +108,25 @@ Drones are the next section Online tools that run sample by sample on a flight c
 
 Hi everyone! Not sure if this is the right flair or subreddit for this inquiry but I am trying my luck! Looking for a collaboration with someone who has made a fully functioning robotics machine (example: like the mars rover or something in that general field) that they would like to showcase next year. CONTEXT: I am hosting a NYFW show in NYC next year showcasing my cyber/steampunk space inspired collection. I would like to showcase and collaborate with someone who would like to share their work on a stage. I am no where near well versed to make and create my own robotics, so I was hoping someone would be open to connecting the bridge of couture (high fashion) and science with me. It would be a demonstration on the catwalk or simply stationary in the middle while the audience could see the functions in person. The models would maneuver around the displayed robotics making sure your work is also being carefully considered and safe. i’m happy to share concepts (think dystopian, commentary on space tourism and the implications of it and what that looks like for the future, etc) and the collection or any other context privately. if this is something you or someone you know would be interested in please comment or message me! If there is a better sub to post this I would be grateful for the recs! Thank you!!
 
-3d ago
+4d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
+
+Axios • 3h ago
+
+---
+
+**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
+
+Reuters • 1d ago
+
+---
 
 **[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
 
@@ -124,11 +136,31 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
-**[Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027](https://interestingengineering.com/ai-robotics/tesla-optimus-robot-enters-production)**
+**[Nebius Physical AI Workbench brings agentic workflows to robotics teams](https://nebius.com/blog/posts/physical-ai-workbench)**
 
-Tesla has started Optimus robot production in Fremont as Elon Musk targets 20,000 humanoid robots per week by the end of 2027.
+Nebius Physical AI Workbench brings AI agent workflows to robotics development, in collaboration with NVIDIA. Customers report up to 40% less engineering time.
 
-Interesting Engineering • 14h ago
+Nebius • 1d ago
+
+---
+
+**[Tesla’s Lowered Capex Target Fuels Doubt on AI, Robotics Goals](https://www.bloomberg.com/news/articles/2026-10-21/tesla-s-third-quarter-earnings-beat-wall-street-estimates)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
+
+Reuters • 5h ago
+
+---
+
+**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
+
+Musk said he expects to begin delivering Optimus to customers at the end of 2027.
+
+Business Insider • 20h ago
 
 ---
 
@@ -140,21 +172,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Tesla’s Lowered Capex Target Fuels Doubt on AI, Robotics Goals](https://www.bloomberg.com/news/articles/2026-10-21/tesla-s-third-quarter-earnings-beat-wall-street-estimates)**
+**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
-
-Reuters • 22h ago
-
----
-
-**[Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'](https://www.bizjournals.com/seattle/news/2026/10/20/carbon-robotics-layoffs-agriculture-tech-laser.html)**
-
-The Business Journals • 1d ago
+Stanford Report • 6h ago
 
 ---
 
@@ -163,28 +183,6 @@ The Business Journals • 1d ago
 Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously.
 
 South China Morning Post • 1d ago
-
----
-
-**[AI-powered robots can be tricked into slicing off fingers](https://www.popsci.com/technology/ai-powered-robot-slices-fingers/)**
-
-One secret code word is all it takes.
-
-Popular Science • 19h ago
-
----
-
-**[Gecko Robotics secures $300M contract with the U.S. Navy](https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/)**
-
-Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results.
-
-The Robot Report • 2d ago
-
----
-
-**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
-
-SpaceNews • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 428K • 👍 5K • 💬 757 • ⏱️ 4:06 • 16h ago
+👁️ 594K • 👍 6K • 💬 911 • ⏱️ 4:06 • 20h ago
 
 ---
 
@@ -208,37 +206,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 138K • 👍 2K • 💬 234 • ⏱️ 20:32 • 4d ago
-
----
-
-**[Chinese Kung Fu robot takes security and safety to a new level](https://www.youtube.com/watch?v=2-UGK8Nqw04)**
-
-News24 host James Macpherson discusses a Chinese-made humanoid robot taking security and safety to a new level.
-
-📺 News24
-
-👁️ 2K • 👍 16 • 💬 25 • ⏱️ 7:06 • 3h ago
-
----
-
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
-
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
-
-📺 MACHINEKIND
-
-👁️ 47K • 👍 615 • 💬 64 • ⏱️ 13:57 • 1d ago
-
----
-
-**[Chinese robotics company debuts humanoid robot designed for protection, responding to emergencies](https://www.youtube.com/watch?v=M5jqkkHwHEU)**
-
-A Chinese robotics company is showing off a humanoid robot built for more than just impressive stunts.
-
-📺 WPLG Local 10
-
-👁️ 34K • 👍 30 • 💬 11 • ⏱️ 1:01 • 19h ago
+👁️ 140K • 👍 2K • 💬 235 • ⏱️ 20:32 • 4d ago
 
 ---
 
@@ -248,7 +216,27 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 99K • 👍 866 • 💬 163 • ⏱️ 8:52 • 5d ago
+👁️ 105K • 👍 905 • 💬 182 • ⏱️ 8:52 • 6d ago
+
+---
+
+**[Unitree Made a Robot BODYGUARD? 🤯](https://www.youtube.com/watch?v=DyR0kQvOWCs)**
+
+Mizkif reacts to Unitree Robotics unveiling a humanoid bodyguard robot that shows off martial arts, powerful kicks that dent cars, ...
+
+📺 Mizkif
+
+👁️ 3K • 👍 194 • 💬 49 • ⏱️ 0:38 • 3h ago
+
+---
+
+**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+
+China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+
+📺 MACHINEKIND
+
+👁️ 51K • 👍 662 • 💬 68 • ⏱️ 13:57 • 1d ago
 
 ---
 
@@ -258,25 +246,17 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 171K • 👍 1K • 💬 508 • ⏱️ 4:07 • 5d ago
+👁️ 174K • 👍 2K • 💬 523 • ⏱️ 4:07 • 5d ago
 
 ---
 
-**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+**[Chinese robotics company debuts humanoid robot designed for protection, responding to emergencies](https://www.youtube.com/watch?v=M5jqkkHwHEU)**
 
-The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+A Chinese robotics company is showing off a humanoid robot built for more than just impressive stunts.
 
-📺 DPCcars
+📺 WPLG Local 10
 
-👁️ 21K • 👍 281 • 💬 81 • ⏱️ 2:30 • 1d ago
-
----
-
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
-
-📺 Big Duke13
-
-👁️ 429K • 👍 14K • 💬 2K • ⏱️ 2:35 • 5d ago
+👁️ 41K • 👍 33 • 💬 12 • ⏱️ 1:01 • 23h ago
 
 ---
 
@@ -286,7 +266,25 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 92K • 👍 799 • 💬 44 • ⏱️ 9:03 • 3d ago
+👁️ 93K • 👍 807 • 💬 45 • ⏱️ 9:03 • 3d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 434K • 👍 14K • 💬 2K • ⏱️ 2:35 • 5d ago
+
+---
+
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+
+📺 MACHINEKIND
+
+👁️ 47K • 👍 649 • 💬 69 • ⏱️ 12:40 • 5d ago
 
 ---
 
