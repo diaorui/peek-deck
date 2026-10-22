@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-21T21:20:06.413664+00:00'
+updated: '2026-10-22T00:07:06.543477+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 21, 2026 at 21:20 UTC  
+**Last Updated:** October 22, 2026 at 00:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,7 +120,7 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
 
-NVIDIA Newsroom • 10h ago
+NVIDIA Newsroom • 13h ago
 
 ---
 
@@ -132,11 +132,11 @@ Defense News • 2d ago
 
 ---
 
-**[Robot Wars How China Has the Robotics Industry in Its Grip](https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html)**
+**[This robotic butler is part Boston Dynamics, part Pixar](https://www.fastcompany.com/91626430/this-robotic-butler-is-part-boston-dynamics-part-pixar)**
 
-Goldman Sachs now expects about 6.5 million humanoid robots a year by 2035, and every one of them runs on rare earth magnets that China makes nearly all of.
+A humanoid butler from startup Tuesday Labs was designed to make character its most important feature.
 
-Crude Oil Prices Today | OilPrice.com • 1d ago
+Fast Company • 1d ago
 
 ---
 
@@ -148,23 +148,49 @@ TechCrunch • 1d ago
 
 ---
 
+**[For decades, hardware was a hard sell in Silicon Valley. Now investors are pouring tens of billions into machines that can do things in the real world. A Goldilocks set of conditions has made robotics one of tech's hottest bets. As investors look beyond chatbots t](https://www.linkedin.com/posts/businessinsider_robotics-ai-siliconvalley-activity-7518787488006733824-eGl2)**
+
+For decades, hardware was a hard sell in Silicon Valley. Now investors are pouring tens of billions into machines that can do things in the real world.
+
+A Goldilocks set of conditions has made robotics one of tech's hottest bets. As investors look beyond chatbots to the next frontier in AI, cheaper hardware, smarter AI models, labor shortages, and competition with China are fueling interest in machines capable of performing physical work.
+
+Robotics and physical AI companies raised $33.4 billion globally in the first half of this year alone, according to PitchBook data. That's already more than the $28.7 billion the sector raised in all of last year — and an astronomical rise from 2020, when funding came in at just under $5 billion.
+
+This is the first installment of Robonomics, Business Insider's new series on the rise of robots and their impact on business, jobs, and everyday life. 
+
+Robotics funding is off the charts. So are the risks. Take a closer look at Silicon Valley's latest gold rush: https://lnkd.in/eK4n9JRZ 
+
+(Credit: Getty Images; Rebecca Zisser/Business Insider)
+
+#robotics #ai #siliconvalley
+
+LinkedIn • 2h ago
+
+---
+
+**[Autonomous flight startup Reliable Robotics opens Seattle area radar hub as valuation tops $1 billion](https://www.geekwire.com/2026/autonomous-flight-startup-reliable-robotics-opens-seattle-area-radar-hub-as-valuation-tops-1-billion/)**
+
+Reliable Robotics is opening a new engineering hub in Bothell to advance autonomous flight technology, tapping Seattle’s aerospace talent as the California startup raises $115 million and surpasses a $1 billion valuation.
+
+GeekWire • 1d ago
+
+---
+
 **[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
 
-Reuters • 4h ago
+Reuters • 7h ago
 
 ---
 
 **[Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'](https://www.bizjournals.com/seattle/news/2026/10/20/carbon-robotics-layoffs-agriculture-tech-laser.html)**
 
-The Business Journals • 17h ago
+The Business Journals • 20h ago
 
 ---
 
-**[Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.](https://www.businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10)**
+**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
 
-Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly.
-
-Business Insider • 12h ago
+SpaceNews • 12h ago
 
 ---
 
@@ -172,21 +198,7 @@ Business Insider • 12h ago
 
 Gecko Robotics CEO, Jake Loosararian, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to discuss the company's expansion and how its contracts with the US Navy and Nvidia (NVDA) factor in.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
-
-SpaceNews • 9h ago
-
----
-
-**[Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense](https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense)**
-
-A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.
-
-Binghamton University • 1d ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -200,7 +212,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 130K • 👍 2K • 💬 226 • ⏱️ 20:32 • 3d ago
+👁️ 131K • 👍 2K • 💬 227 • ⏱️ 20:32 • 3d ago
 
 ---
 
@@ -210,7 +222,7 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 32K • 👍 469 • 💬 53 • ⏱️ 13:57 • 21h ago
+👁️ 36K • 👍 501 • 💬 56 • ⏱️ 13:57 • 1d ago
 
 ---
 
@@ -220,17 +232,7 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 165K • 👍 1K • 💬 486 • ⏱️ 4:07 • 4d ago
-
----
-
-**[Unitree H2-X Is Wild. But Would You Trust It?](https://www.youtube.com/watch?v=T1MPyua3tPg)**
-
-Unitree's H2-X kicks a dent into a car and lifts the front of one in a staged rescue. I'm impressed—but physical strength is not proof ...
-
-📺 Bytes & Bets
-
-👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:31 • 3h ago
+👁️ 167K • 👍 1K • 💬 491 • ⏱️ 4:07 • 4d ago
 
 ---
 
@@ -240,7 +242,7 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 88K • 👍 760 • 💬 42 • ⏱️ 9:03 • 3d ago
+👁️ 89K • 👍 768 • 💬 42 • ⏱️ 9:03 • 3d ago
 
 ---
 
@@ -250,7 +252,7 @@ Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
 
 📺 Jamel_AKA_Jamal
 
-👁️ 114K • 👍 3K • 💬 732 • ⏱️ 13:05 • 2d ago
+👁️ 114K • 👍 3K • 💬 732 • ⏱️ 13:05 • 3d ago
 
 ---
 
@@ -260,7 +262,15 @@ Unitree's new H2-X Kung Fu Legend Guardian humanoid robot demonstrates powerful 
 
 📺 DPCcars
 
-👁️ 2K • 👍 18 • 💬 5 • ⏱️ 0:33 • 7h ago
+👁️ 3K • 👍 25 • 💬 6 • ⏱️ 0:33 • 10h ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 411K • 👍 14K • 💬 1K • ⏱️ 2:35 • 5d ago
 
 ---
 
@@ -270,7 +280,7 @@ Basketball robot relies on complex motion control and AI algorithms to calculate
 
 📺 System Spun
 
-👁️ 2K • 👍 15 • ⏱️ 0:07 • 2h ago
+👁️ 5K • 👍 43 • ⏱️ 0:07 • 5h ago
 
 ---
 
@@ -280,15 +290,17 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 75K • 👍 681 • 💬 109 • ⏱️ 8:52 • 5d ago
+👁️ 78K • 👍 714 • 💬 115 • ⏱️ 8:52 • 5d ago
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+**[Robot bodyguard makes debut in China](https://www.youtube.com/watch?v=QXjfzH_PB9E)**
 
-📺 Big Duke13
+China's robotics company Unitree has unveiled the H2-X “Kung Fu Legend: Guardian,” a full-size robot standing 182 cm tall, with ...
 
-👁️ 406K • 👍 13K • 💬 1K • ⏱️ 2:35 • 5d ago
+📺 CGTN Europe
+
+👁️ 2K • 👍 94 • 💬 8 • ⏱️ 0:32 • 4h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-21T21:20:06.410365+00:00'
+updated: '2026-10-22T00:07:06.540211+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 21, 2026 at 21:20 UTC  
+**Last Updated:** October 22, 2026 at 00:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +2.1%  
-**30d:** -9.4%  
-**90d:** +34.0%  
-**1y:** -34.5%  
+**24h:** +0.9%  
+**7d:** +2.3%  
+**30d:** -7.7%  
+**90d:** +32.2%  
+**1y:** -35.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $304.27B
+**Market Cap:** $302.32B
 Rank #2
 
 **Circulating Supply:** 122,149,510 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.6%
+-49.9%
 
 **All-Time Low:** $0.43
-+575244.3%
++571814.6%
 
 ---
 
@@ -150,39 +150,31 @@ ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster
 
 ## Google News: "ethereum"
 
-**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
-
-JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
-
-J.P. Morgan • 1d ago
-
----
-
 **[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
 
 Bloomberg.com • 2d ago
 
 ---
 
+**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
+
+JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
+
+J.P. Morgan • 2d ago
+
+---
+
 **[Ethereum News: JPMorgan’s JPM Coin and ETH Network Activity](https://www.thesarniajournal.ca/other/ethereum-news-jpmorgans-jpm-coin-and-eth-network-activity-12919008)**
 
-The Sarnia Journal • 8h ago
+The Sarnia Journal • 11h ago
 
 ---
 
-**[Ethereum Price Prediction: What Could ETH Be Worth by 2028?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-could-eth-203043704.html)**
+**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://finance.yahoo.com/markets/crypto/articles/bitmines-tom-lee-warns-potential-122800815.html)**
 
-Ethereum sits more than 50% below its all-time high while JPMorgan moves onto its network, a major upgrade approaches, and ETF flows swing wildly. Whether ETH reclaims glory or revisits its June lows by 2028 depends on a fragile set of conditions finally falling into place.
+A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
 
-Yahoo Finance • 49m ago
-
----
-
-**[Ethereum staking hits record as yields fall and Solana activity grows: Bitwise](https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414)**
-
-Ethereum and Solana staking reached records in Q3, but yields fell as newly issued tokens continued to fund most rewards.
-
-The Block • 1d ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -194,33 +186,41 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://www.fool.com/investing/2026/10/21/bitmines-tom-lee-warns-of-a-potential-sell-off-in/)**
-
-A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
-
-The Motley Fool • 8h ago
-
----
-
-**[Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts](https://www.benzinga.com/crypto/cryptocurrency/26/10/62497439/ethereum-will-benefit-most-from-3-trillion-stablecoin-boom-spark-ceo-predicts)**
-
-Benzinga • 7h ago
-
----
-
-**[XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue](https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/)**
-
-XRP ETFs ended a 13-week inflow streak as Bitcoin, Ethereum and Solana funds also recorded net withdrawals in the week ended October 16.
-
-CryptoSlate • 2d ago
-
----
-
 **[Current price of Ethereum for October 21, 2026](https://fortune.com/article/price-of-ethereum-10-21-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 8h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rebound: Can BTC Break $84,000 Resistance?](https://www.benzinga.com/crypto/cryptocurrency/26/10/62514249/bitcoin-ethereum-xrp-dogecoin-rebound-can-btc-break-84000-resistance)**
+
+Benzinga • 2h ago
+
+---
+
+**[Ethereum staking hits record highs – So why are yields falling?](https://ambcrypto.com/ethereum-staking-hits-record-highs-so-why-are-yields-falling/)**
+
+Ethereum's staking reached record levels as Bitmine expanded holdings, while ETH struggled to recover above resistance.
+
+AMBCrypto • 6h ago
+
+---
+
+**[New Crypto: AlphaPepe Presale Announces $3.1M as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-alphapepe-presale-announces-3-1m-as-ethereum-price-prediction-targets-10-000-1036646128)**
+
+MONACO, Oct.  20, 2026  (GLOBE NEWSWIRE) -- New crypto AlphaPepe has pushed beyond $3.1 million raised as the presale continues building momentum ...
+
+markets.businessinsider.com • 20h ago
+
+---
+
+**[Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens](https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018)**
+
+The company now holds 4.9% of total circulating ether after adding 12,535 tokens over the past week.
+
+The Block • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ What happens when AI agents start managing your money, and who will actually con
 
 📺 Crypto In America
 
-👁️ 784 • 👍 37 • 💬 2 • ⏱️ 41:22 • 9h ago
+👁️ 1K • 👍 50 • 💬 2 • ⏱️ 41:22 • 12h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altc
 
 📺 Altcoin Daily
 
-👁️ 77K • 👍 2K • 💬 205 • ⏱️ 9:32 • 1d ago
+👁️ 78K • 👍 2K • 💬 205 • ⏱️ 9:32 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally o
 
 📺 Yahoo Finance
 
-👁️ 37K • 👍 625 • 💬 72 • ⏱️ 14:51 • 2d ago
+👁️ 38K • 👍 628 • 💬 72 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -264,7 +264,7 @@ Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPM
 
 📺 Thinking Crypto
 
-👁️ 23K • 👍 745 • 💬 121 • ⏱️ 19:54 • 1d ago
+👁️ 24K • 👍 748 • 💬 121 • ⏱️ 19:54 • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 24K • 👍 533 • 💬 35 • ⏱️ 2:31 • 2d ago
+👁️ 25K • 👍 535 • 💬 35 • ⏱️ 2:31 • 2d ago
 
 ---
 
@@ -294,17 +294,7 @@ BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it 
 
 📺 Elijah Cheng
 
-👁️ 9K • 👍 102 • 💬 38 • ⏱️ 24:29 • 2d ago
-
----
-
-**[Good ETHEREUM News- Plus: Does France Have Enough Socialism?](https://www.youtube.com/watch?v=yq4fTair7U4)**
-
-THE CRYPTO BULL RUN IS STARTING. Most people won't be ready to build wealth from it. You can be. Get the research and ...
-
-📺 Future Forecasting Group
-
-👁️ 6K • 👍 312 • 💬 44 • ⏱️ 4:34 • 21h ago
+👁️ 9K • 👍 104 • 💬 39 • ⏱️ 24:29 • 2d ago
 
 ---
 
@@ -314,7 +304,7 @@ Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at K
 
 📺 CoinDesk
 
-👁️ 68K • 👍 561 • 💬 73 • ⏱️ 10:26 • 2d ago
+👁️ 69K • 👍 569 • 💬 75 • ⏱️ 10:26 • 2d ago
 
 ---
 
@@ -324,7 +314,17 @@ JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, c
 
 📺 CoinDesk
 
-👁️ 1K • 👍 32 • 💬 1 • ⏱️ 1:51 • 2d ago
+👁️ 1K • 👍 33 • 💬 1 • ⏱️ 1:51 • 2d ago
+
+---
+
+**[Good ETHEREUM News- Plus: Does France Have Enough Socialism?](https://www.youtube.com/watch?v=yq4fTair7U4)**
+
+THE CRYPTO BULL RUN IS STARTING. Most people won't be ready to build wealth from it. You can be. Get the research and ...
+
+📺 Future Forecasting Group
+
+👁️ 6K • 👍 319 • 💬 46 • ⏱️ 4:34 • 1d ago
 
 ---
 
