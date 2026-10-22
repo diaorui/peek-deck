@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Heatbit unveils Bitwater, a water heater that mines Bitcoin",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEhCYWpIcWlHdXd3dXh0Q1V0TTh4N0c5S3JON053OXhYWEJOZUtJZHZ0LUpjaEJLcjF0ZWtHZlRmTUxCdDRxaElWVkQ4TEtTOUlRczZvUGR0eUlkWXdIUC1aSlJraXhwc2tLT244TGRZUnN1cktGRDRqZ2Z2b0lGYWJsUmtiLVNTcWh3YjU0M2EzRjRPdFZPWnM4dWNZT251UWJxaFpyZEFxTXdNOEZZVXNhaldSNU1WRGFmTFJ5OHA?oc=5",
+      "pub_date": 1792687342.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:150be6ecb094b:0-heatbit-unveils-bitwater-a-water-heater-that-mines-bitcoin/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the\u2026"
+    },
+    {
       "headline": "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -15,34 +25,34 @@
       "description": "J.P. Morgan just named Bitcoin the highest-returning asset in its long-term outlook, and that changes the math on even a small stake in ways most investors have not considered."
     },
     {
-      "headline": "Bitcoin \u2018Goes to Zero\u2019 After a Hack, Chamath Palihapitiya Predicts",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWFnLVFneWZhMXd6dGQzRUxVVDJ0SVZjWmExV2pBWlVBM25Qa3JFeFVKcmU0SkMyQ1FsZkZSeVA0S0ZNQVFQVURrMXV6aFZMU3lLQklkazdpb0s3VV9OcndqTk56WTNHUkt4Z25vQUM3X2RGNzJFckp3bWkwc0VnS1BJcEg3ZkNaWEJTeFFnRGstYVhwR0V5QzduYkh2YU9EbkVvcXdJWjVBQU1ZbnNHYUZ3?oc=5",
-      "pub_date": 1792679400.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62529943/bitcoin-goes-to-zero-after-a-hack-chamath-predicts",
+      "headline": "When Could Quantum Computers or AI Break Bitcoin? An Updated Threat Window",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGJveTlJbXh5RDdycktzTDdmd3FYUmxSOS1vRUtqNmFYRTMxdFB1VlZyZWgzdGtORTY0enJON3FwYWRrYng3aC1adHdaMEhnbTFCX3Qtb3RpcDZ5ZG1zY21yZHl6bjNCZVZKUXFSXzhhSEtRWDJkZWp0cE02TXpTeTl6QTZndw?oc=5",
+      "pub_date": 1792706443.0,
+      "article_url": "https://finance.yahoo.com/video/could-quantum-computers-ai-break-220043152.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ca3ccd9894e3213c801674317da0893617b7b2253e8b9436904581a4e8497fd1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F4fc3343638e78955279ecd86cff2eddc.png",
+      "description": "Alex Pruden puts the earliest quantum attack around 2030, more likely 2033 to 2035. Conor Deegan says the AI threat to cryptography may already be here."
+    },
+    {
+      "headline": "Crypto Market Today, Oct. 22: Bitcoin and Altcoins Slide as Wall Street Fears Spill Into Crypto Markets",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2l0VWZjemVjU0V6dnJuQi1kdkJIc3BLTjBlSm9kNVpITlRCNldqQUYzZF9VaXdha0ljOEhxV25OQndFMFF6RWZ0NmFYdGJBcUh3blhGWjAxaWlieF9qQnFvbjBUUVpaLUJlcDRSZU5ERjVxSk1YWDhoNk44cExHdWU2dm1qenlvWUFqOFFmQ3E3MS1fZUE?oc=5",
+      "pub_date": 1792705802.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-oct-22-215002279.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c614802e2174e7753d7ed3e3478b48e9cd43fdce53032be1cb0776792fbf4a9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F82e33b5963f90ef72feeea2abd26bb53.jpg",
+      "description": "Oil prices held above $111 and Nasdaq futures softened as traders trimmed exposure, today, Oct. 22, 2026."
+    },
+    {
+      "headline": "Massachusetts police officer heads off Bitcoin scam targeting Maine woman",
+      "source": "Bangor Daily News",
+      "source_url": "https://www.bangordailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1BGc094NFJXRVo2elhrM2lQRzhFM2gzVS1RMVVpeEJXQ1BCUU5QZW1FbHdFYVh0TW93UXctbDdYQ0lqNkxVT2h2d1FsQm9GaHh4Z2kxYmxzblFBRzlWNGJOVGlKWlpjcFJKNC1RekQ5bV9qYmNBb0Z6b0V6NVNwQ0JHeHBtWW9oT0QtdkJUQUI1TU9Y?oc=5",
+      "pub_date": 1792693805.0,
+      "article_url": "https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "How Much of Your Portfolio Should Be in Bitcoin After JPMorgan\u2019s 10% Forecast?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXU5NE9BaGI2Z3owVE5XZ3pXLXdRQWo1OEJCZG5rY2Jqb3RKMlUxOW9yZXpYQlZmTGdIOWpjQUs0WnV2eTltU3JPa3pBaUtRM3FUUmljYmJVRTZfd05ZSEVxdG9oVF9ZakFRTDF2WWkyR09MSHRWMkIyWjVtN1pRajRBNjN3WENzNjgxSkRUQ2RST1BVMXpBcmJwaFBRZlNV?oc=5",
-      "pub_date": 1792693846.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/much-portfolio-bitcoin-jpmorgan-10-183046168.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e2f9895cfe6fb5133a8f7bd9448cc2e5644edef7ec5cf9db840a5077c266b679/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F70ba4be6a8d983122f900c74ecab6bdc.jpg",
-      "description": "JPMorgan just gave Bitcoin a place in serious long-term forecasts, but the projected return tells only half the story. The other half, rooted in volatility that can carve 50% from your holdings, determines whether any allocation makes sense for your situation."
-    },
-    {
-      "headline": "China wants 61,800 Bitcoin from UK\u2019s $5.7B fraud case. Who has the right to them?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejlLTENBb3U0S29uaFlKOEF2RHZFOHJ6dTkyTEw1czJpajNqM1Vsdzc5NERlOFpvQnFiZkRxLUp4d2U3NmlFX0FKQ0R6dUZvME9MOHdMajlqZUpPdUEwN0ZrVXJKZHNNczdQWE9ZcUloM1B2eV9oYXRyOFpMMEs5S1lxYUpMcFNreE9KSm5fQnlQZFNscFE?oc=5",
-      "pub_date": 1792696200.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/china-wants-61-800-bitcoin-191000631.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bbeaadc880cf440da49939292eefc6a69f605c1e9530668c1af2baac5121c851/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F9bb1d09f11ee13ab2cbcc413faeaaedc.jpg",
-      "description": "A Tianjin court has opened confiscation proceedings, while British courts are yet to decide who actually owns the seized coins."
     },
     {
       "headline": "Would you take out a mortgage backed by bitcoin?",
@@ -55,56 +65,46 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
+      "headline": "Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg5MlR0cUtacXN1aGtzX2FxMFdqYkhhSGNPQnhkZHNLb0FqSVNuQS1FdHViQi0xcVlpeUhHUFpYRHM5YUkxVWtfV1ZkTExvbUhDMm52eVFJYldwQ1hFUWNNeXVWVU8zcFJIWkZ4RTV1S3BTUEVNS0htMjVUaFU3cHNoUzZYSk4tWmJLSERYUm5kaElhdnBfQ1BSTFIwNHJWcXU0a3FBXy1nZDd6X2U4?oc=5",
-      "pub_date": 1792681013.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUS16bUtiXzBpVWNGX0VqNkxlXzd2WWwzbkdVZ0ZnN3BmT0dGNnpkR2h0QlJMQXBjRFhUcFE3NnBPVmtoaGppazlQeVBKUEIyU09jd0Q0T1NiV1A1Wnd3OGw4NUJXUk9NWm9QbXA1b3VnSGQ3RHhfRU1QQV9qRE44dFh0NjZHczUxbWxEUFo2ZnJGcm43Nll6ZDUtTWx6a3ZPcWptNHE5MUZoTkxpeFV4dzhaMVFKbHc?oc=5",
+      "pub_date": 1792702801.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-22/fifteen-minute-prediction-market-bets-scratch-the-bitcoin-itch",
       "image": null,
       "description": null
     },
     {
-      "headline": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnlJUGJ6OFd4R3RyYVRLZnpwdU5ObWhWbnllMGZNeTlHc05qbTRMV3NzZk16WllYaTNHQmxvUWQzRHE5WEhheXdZaTdFWHR1amQxZF9Xc1dWcXNaamVKUjBveDg4MkV0SjJOYTl0T1NsZ3Vwc3l1b0ZJSXpNN1E0bUFDVTJLMko5aUtEMDMwYll6UU1pdDhWbXB5VUwtUjY4X0l5VUxFaVpzTjZBS2FCWGZ0TWJNd01oRXFr?oc=5",
-      "pub_date": 1792685964.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9d68e85309cd342ddd55a00b64ef43c3830aecb-1506x848.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump."
+      "headline": "China wants 61,800 Bitcoin from UK\u2019s $5.7B fraud case. Who has the right to them?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejlLTENBb3U0S29uaFlKOEF2RHZFOHJ6dTkyTEw1czJpajNqM1Vsdzc5NERlOFpvQnFiZkRxLUp4d2U3NmlFX0FKQ0R6dUZvME9MOHdMajlqZUpPdUEwN0ZrVXJKZHNNczdQWE9ZcUloM1B2eV9oYXRyOFpMMEs5S1lxYUpMcFNreE9KSm5fQnlQZFNscFE?oc=5",
+      "pub_date": 1792696200.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/china-wants-61-800-bitcoin-191000631.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bbeaadc880cf440da49939292eefc6a69f605c1e9530668c1af2baac5121c851/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F9bb1d09f11ee13ab2cbcc413faeaaedc.jpg",
+      "description": "A Tianjin court has opened confiscation proceedings, while British courts are yet to decide who actually owns the seized coins."
     },
     {
-      "headline": "Bitcoin Faces $85,000\u2013$87,500 Supply Test After $80,000 Rebound",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlBwT21LVlMzM29mcWM0UGdNWWoyVFEtNlFQZ0IyVHh5bVZOd3M2OXNnUVRsb3AzLTNnVTZES0dTUE9OOTM0ZFJXUV9qUFpnaEhjZ3ZFNjBWUVpQbGFoY1NWV29VZl83WmlmRlFqbGZ2U1BwTWN3amZPcGN0ay1MdHQxSzgxTkh6QW5FSkY5aGVfRG5xUmJTSEl3Rmo1YXk4OEx1R3YtZ3ZVN2EyNDN6UG4wVV9IYzhuOWc?oc=5",
-      "pub_date": 1792684200.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:f78704728094b:0-bitcoin-faces-85-000-87-500-supply-test-after-80-000-rebound/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "TL;DR: Glassnode\u2019s October 21 report identifies an overhead Bitcoin supply zone around $85,000\u2013$87,500 after bids returned near $80,000. Its levels describe a market structure, not a guaranteed price path.Bitcoin\u2019s rebound has brought it back toward a cluster of holders, sell orders and leveraged p\u2026"
+      "headline": "Bitcoin scam that cost U.P. man $665K sparks arrest, charges",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZseC1RMFM1ei1McHFISlBRZm9tMGw5blFCcV9vcDAydDRTZHk1eFUyaGxiVGlITXNGd0tkT19XenFPWU95aXBiT1ZUUGd5X0ZOOVo0Ty1MazN3ZmVGdGdVLWtYMUtiZkZCTHJkc0RPelRyWndtLThmcjRWc0pxSUg5dGlNMW1VRGZvZGY5VlZEb2kzMDZvVHFQSEFuNnVMOTBXWGdXVlkzRVh1WERVOC1jeXhvX0ctZTJoUE94QzJfNkN6UE96ZUhZMTVpZDZw?oc=5",
+      "pub_date": 1792607220.0,
+      "article_url": "https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/",
+      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/10/21/PDTN/92366206007-zhong-jiang.jpeg?crop=839,472,x0,y420&width=839&height=472&format=pjpg&auto=webp",
+      "description": "Zhong Jiang faces up to 10 years in prison, officials said."
     },
     {
-      "headline": "\u2018The numbers are actually alarming.\u2019 Ann Arbor aims to regulate Bitcoin ATMs to stop scams",
-      "source": "MLive.com",
-      "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWERnWFh6d2pzMTc1SVcyMURTRl95NE1JQXNTY015LTgtVThBRjBzVjhBbTduZWtXdWpFUGN1UDJ0d2FBaC1wODFlNGhLSDFISVl6NWs4NFJuZGRWeml0SXp4LU90ZmdjZFRYYnB5c1NlRzRBaTQ0Ulp3UnJlb1dOc0ZmN2NPT1g0cmRfNEJiaWpXaTJ0WURMVnRqZDJib0N3N3ZHSHF5THdFVFY5MF9JSkM3RkRMaWFWS09SdXZXM1BzeTAwOUpqZnByOXd5OTBvcHlZ?oc=5",
-      "pub_date": 1792600440.0,
-      "article_url": "https://www.mlive.com/news/ann-arbor/2026/10/the-numbers-are-actually-alarming-ann-arbor-aims-to-regulate-bitcoin-atms-to-stop-scams.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018Extraordinary\u2019 JPMorgan Report Predicts Bitcoin Price Will Beat Gold, Stocks And Bonds\u2014But There\u2019s A Nasty Catch",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcXlMeHdtUmIzMjVYeEU3Q1BFd2ZfeG5pc2FLSWpXb1FERWE0cXd4akh2dDJlQVc3bUlDMXFGNUQtMEJydWtwSnZIREdKRHJHVld4T0hkZHg4SXJaeW9BUWR1TEZkdnJfRVh5cTc4RmhRT0pDSmVQdGNjay04QnVFdzRnODVhRGN4Y0w1UVNiVEVDN01ySHpxXzEyVmJKRi0yUlNkTGpwems2TmRLWDFTMzBCZGtNMlpzQ0dsaWxRbmp4QVZfUG82VkhvbzFVcVMxQ2xnclhhMHNacm5mR2FzX3l0enZEcWptZ2xZQThBMUxkNXY0SWMtTQ?oc=5",
-      "pub_date": 1792668020.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/22/extraordinary-jpmorgan-report-predicts-bitcoin-price-will-beat-gold-stocks-and-bonds-but-theres-a-nasty-catch/",
-      "image": null,
-      "description": null
+      "headline": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTUxsZUdrRy1tWDhPWjVvbmh0V1M3SmZ5ZkJQSV9yQ2UyLUFiaDN3ZU9IODFDMUV3TFNGbDFtblhNVDJVNmJ2aFk1b1hTVElHbWJjcTcwTlh1ZWRPRkJITFRSNmZlYjYxci1WeFJYaXhXSl9QWEZndVRqMUg?oc=5",
+      "pub_date": 1792693982.0,
+      "article_url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-7.jpg",
+      "description": "The alleged fraudster tried to run away with nearly 62,000 bitcoins."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T19:24:32.812843+00:00"
+  "fetched_at": "2026-10-22T22:37:51.053643+00:00"
 }

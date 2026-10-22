@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-22T19:24:41.078960+00:00'
+updated: '2026-10-22T22:37:52.237879+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 22, 2026 at 19:24 UTC  
+**Last Updated:** October 22, 2026 at 22:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -84,7 +84,7 @@ Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries t
 
 Who builds each part of a humanoid robot: 2,351 products from 788 organizations in 46 technology boxes, as of October 2026.
 
-🔗 [Airfold](https://www.airfold.co/humanoid-technology-map/) • 3d ago
+🔗 [Airfold](https://www.airfold.co/humanoid-technology-map/) • 4d ago
 
 ---
 
@@ -92,7 +92,7 @@ Who builds each part of a humanoid robot: 2,351 products from 788 organizations 
 
 Hi my name is deemco From saudi arabia Like u see the title I have proplem with my robot I’m running into some issues building my robot. As everyone knows, robots are divided into a cloud-based component and a physical one; let’s set the cloud part aside—the problem lies in the physical side. Actually, the truth is I don’t even know how to build a robot in the first place—but that’s not your problem! Anyway, I’m working on that. My specific issue right now is the connectivity—how do I get everything to come together so that, in the end, my robot functions as one perfectly orchestrated symphony? ,,, by the way my robot is so coplex! Its like the that dude hows follow the main character in sci-fi ! . Actually everything is expensive dunno why but if u have short list i would like to see it! [ i forgot to say but hes fly tipe of robots(use fly for something very imprortant) in my brain hes super intelegent and hes gonna be my companion and help me and a friendly tipe! Haha i feel exited !!] I think i gonna put motors and cameras and in the middle theres a screen and rasberri pi and a lot! But absolute dunno . How u guys past that proplem ? I enjoyed typing that !
 
-3d ago
+4d ago
 
 ---
 
@@ -118,49 +118,13 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 **[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
 
-Axios • 3h ago
+Axios • 6h ago
 
 ---
 
-**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
+**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Reuters • 1d ago
-
----
-
-**[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
-
-NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
-
-NVIDIA Newsroom • 1d ago
-
----
-
-**[Nebius Physical AI Workbench brings agentic workflows to robotics teams](https://nebius.com/blog/posts/physical-ai-workbench)**
-
-Nebius Physical AI Workbench brings AI agent workflows to robotics development, in collaboration with NVIDIA. Customers report up to 40% less engineering time.
-
-Nebius • 1d ago
-
----
-
-**[Tesla’s Lowered Capex Target Fuels Doubt on AI, Robotics Goals](https://www.bloomberg.com/news/articles/2026-10-21/tesla-s-third-quarter-earnings-beat-wall-street-estimates)**
-
-Bloomberg.com • 23h ago
-
----
-
-**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
-
-Reuters • 5h ago
-
----
-
-**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
-
-Musk said he expects to begin delivering Optimus to customers at the end of 2027.
-
-Business Insider • 20h ago
+Stanford Report • 9h ago
 
 ---
 
@@ -172,9 +136,23 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
+**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
 
-Stanford Report • 6h ago
+Reuters • 1d ago
+
+---
+
+**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
+
+Bloomberg.com • 20h ago
+
+---
+
+**[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
+
+NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
+
+NVIDIA Newsroom • 1d ago
 
 ---
 
@@ -186,17 +164,35 @@ South China Morning Post • 1d ago
 
 ---
 
+**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
+
+Reuters • 8h ago
+
+---
+
+**[Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'](https://www.bizjournals.com/seattle/news/2026/10/20/carbon-robotics-layoffs-agriculture-tech-laser.html)**
+
+The Business Journals • 1d ago
+
+---
+
+**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
+
+SpaceNews • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
+**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
 
-NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
+Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
 
-📺 DPCcars
+📺 REC Anything
 
-👁️ 594K • 👍 6K • 💬 911 • ⏱️ 4:06 • 20h ago
+👁️ 14K • 👍 405 • 💬 87 • ⏱️ 8:29 • 5h ago
 
 ---
 
@@ -206,17 +202,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 140K • 👍 2K • 💬 235 • ⏱️ 20:32 • 4d ago
+👁️ 142K • 👍 2K • 💬 236 • ⏱️ 20:32 • 4d ago
 
 ---
 
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
 
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
 
-📺 AI Unfiltered
+📺 DPCcars
 
-👁️ 105K • 👍 905 • 💬 182 • ⏱️ 8:52 • 6d ago
+👁️ 776K • 👍 7K • 💬 1K • ⏱️ 4:06 • 23h ago
 
 ---
 
@@ -226,17 +222,17 @@ Mizkif reacts to Unitree Robotics unveiling a humanoid bodyguard robot that show
 
 📺 Mizkif
 
-👁️ 3K • 👍 194 • 💬 49 • ⏱️ 0:38 • 3h ago
+👁️ 5K • 👍 232 • 💬 51 • ⏱️ 0:38 • 7h ago
 
 ---
 
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
 
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
 
-📺 MACHINEKIND
+📺 AI Unfiltered
 
-👁️ 51K • 👍 662 • 💬 68 • ⏱️ 13:57 • 1d ago
+👁️ 113K • 👍 951 • 💬 196 • ⏱️ 8:52 • 6d ago
 
 ---
 
@@ -246,17 +242,25 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 174K • 👍 2K • 💬 523 • ⏱️ 4:07 • 5d ago
+👁️ 176K • 👍 2K • 💬 522 • ⏱️ 4:07 • 5d ago
 
 ---
 
-**[Chinese robotics company debuts humanoid robot designed for protection, responding to emergencies](https://www.youtube.com/watch?v=M5jqkkHwHEU)**
+**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
 
-A Chinese robotics company is showing off a humanoid robot built for more than just impressive stunts.
+China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
 
-📺 WPLG Local 10
+📺 MACHINEKIND
 
-👁️ 41K • 👍 33 • 💬 12 • ⏱️ 1:01 • 23h ago
+👁️ 56K • 👍 714 • 💬 72 • ⏱️ 13:57 • 1d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 437K • 👍 14K • 💬 2K • ⏱️ 2:35 • 6d ago
 
 ---
 
@@ -266,25 +270,17 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 93K • 👍 807 • 💬 45 • ⏱️ 9:03 • 3d ago
+👁️ 94K • 👍 831 • 💬 50 • ⏱️ 9:03 • 4d ago
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
 
-📺 Big Duke13
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
 
-👁️ 434K • 👍 14K • 💬 2K • ⏱️ 2:35 • 5d ago
+📺 RuntimeBRT
 
----
-
-**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
-
-China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
-
-📺 MACHINEKIND
-
-👁️ 47K • 👍 649 • 💬 69 • ⏱️ 12:40 • 5d ago
+👁️ 244K • 👍 9K • 💬 284 • ⏱️ 2:55 • 3d ago
 
 ---
 
