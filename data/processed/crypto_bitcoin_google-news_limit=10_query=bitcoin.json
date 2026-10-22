@@ -6,33 +6,43 @@
   "articles": [
     {
       "headline": "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjNta2FkbDFqSjNXVVNlc0YxZmlDVUtzQmpoa0U4aGd3MnRPT0tuOFpnWlVyTHRYamZlZWZyNUFoeVdmdVpPTW1NY295bm1MbS1CVlk0QjJpMm10OE1LUUZubUFzZ0Y0MnZtX2xSMmx2cTZvQ19LS2dZTXk4em82TmxqTnpPMEt1Ulhla1ViT3J6ZURUeW9vNWZqMWQwTk1YTFphMGk2Ym8tendP?oc=5",
-      "pub_date": 1792611000.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/21/prediction-what-will-0-1-bitcoin-be-worth-by-2030/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/03/shutterstock-2059487036-huge-licensed-scaled.jpg",
-      "description": "JPMorgan sees Bitcoin returning 10% a year. At that rate, 0.1 Bitcoin could reach about $12,426 by 2030. Here's what it would take."
-    },
-    {
-      "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNklOMzdjQ1FwMUdDV3kxMXBBNTd6Q3dXZHlTRlVLcjVBbFhKOU5Yclh6UHFoRHFueGdrLTc0OFdRMTR3bHFPbGJqYnp3dHA3Rk44ak5Da1o3N0FWeE04OEZrNldGa1ZLdnZPazE2MHJFbFBPWC1UanZDUlFmSGFFcW5IanRPVUtOMHJtV3lLTWJXRTJ2Q1FzakRJc0ZKVjRqNTllNXNmcm5XX2p1ZWlxVmppR0JmWEthVDdWeldMa2xzdw?oc=5",
-      "pub_date": 1792641060.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell."
-    },
-    {
-      "headline": "Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVVUS293bUJ6T3U4STExMzhCbnNLNHpNYy1rZzFOVllOUjNuQjN2a2VPNDBtczZFcGZVUXhHMlMwTDZyS21jeUExTVZad014ZkNxYXZDc3RKenFlX2VuZTZqVlFQX2RFTFFlNjhPTVowVzVlZkpnWWdUSUpKSWZxa005TXM3THA0VFJwM2x0S1FQZHdGWlNnbEJQRQ?oc=5",
-      "pub_date": 1792638780.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/circle-ceo-shrugs-off-bitcoins-031300661.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4f9017ef8469cc4dddfeab255add87e5478b088bdae50d571e7b09ab9c74aa6f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8f5c47319d86c0d86ed9192e695512dd.jpg",
-      "description": "Circle CEO Jeremy Allaire shrugs off Bitcoin's slump and pitches digital dollars for AI payments as GENIUS Act rules near."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2FnQXJuQklBaTNYUDR0dGtOUXFvZ2dQbXRCMU1MMDlmOU54M3ozb2JnQTZTRHBoZjJpckpjTllDUkJMLXBoNENXTGQwczdtWDFTLVN6Rm1PV3dUcHhMZl9uR2xTMVd5OG5OU2JuQWd5OE5MMlBGZDFNSXc4UWRTTEtTcFVaTE5zV0V1b3pDUU56WXhuTmlLZA?oc=5",
+      "pub_date": 1792611024.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/prediction-0-1-bitcoin-worth-193024364.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bcd2abe5e580e22f3f11e19385b63b148a3dac44562136bd89e763b0a0aff8e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbf70a79fad9462a5ac4aa731deddf528.jpg",
+      "description": "J.P. Morgan just named Bitcoin the highest-returning asset in its long-term outlook, and that changes the math on even a small stake in ways most investors have not considered."
+    },
+    {
+      "headline": "Trading expert hints manipulation for Bitcoin, XRP, and Cardano",
+      "source": "Finbold",
+      "source_url": "https://finbold.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUtiZ3Vvc3NhNklMRGFPcHVyMXdLVnZURXpyaWcxaDdwQjg1OGlYZS1qMkM0bzdMd2ZuRXgxYzNLV2pLcTJfeG5pTllaWFJqSjBXMnV0dEpDcEtTRWtCRVFXdWt0eklhTjkzRjVLXzlZSHpTREdod1R1b3FBWVRDVC0wbFR3QVNSWUE?oc=5",
+      "pub_date": 1792602428.0,
+      "article_url": "https://finbold.com/trading-expert-hints-manipulation-for-bitcoin-xrp-and-cardano/",
+      "image": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/10/Trading-expert-hints-manipulation-for-Bitcoin-XRP-and-Cardano.webp",
+      "description": "Amid consolidation for Bitcoin, Cardano, and XRP Martinez has signaled their short-term manipulation by large players."
+    },
+    {
+      "headline": "Live updates: Bitcoin slips under $82,000 as $250 million in bullish bets liquidated",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnlJUGJ6OFd4R3RyYVRLZnpwdU5ObWhWbnllMGZNeTlHc05qbTRMV3NzZk16WllYaTNHQmxvUWQzRHE5WEhheXdZaTdFWHR1amQxZF9Xc1dWcXNaamVKUjBveDg4MkV0SjJOYTl0T1NsZ3Vwc3l1b0ZJSXpNN1E0bUFDVTJLMko5aUtEMDMwYll6UU1pdDhWbXB5VUwtUjY4X0l5VUxFaVpzTjZBS2FCWGZ0TWJNd01oRXFr?oc=5",
+      "pub_date": 1792662868.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9d68e85309cd342ddd55a00b64ef43c3830aecb-1506x848.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump."
+    },
+    {
+      "headline": "China Opens Its Own Case to Confiscate 61,896 Bitcoin Held by UK Authorities",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3k4NWd4dGxSTnFlU21GZVVvelBxek4yNThCWFJ1cTJGX3RFQ1pqelVtbWxsNkw1UEIycE0xWkgtMUd0cnJoWjJ6aEZzdE53TmxXbWhaXzROUllRZ0NLTDJ0LTBBYk1QVjRycXd0V3FxR29LdHBBYjdBd29lWktTUG9HQVI4NEFGUjd1STZESnQ2cXV6TW1LNmkyZVY?oc=5",
+      "pub_date": 1792658757.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/china-opens-own-case-confiscate-084557396.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c30a98c39578fc2b3137c05d5b93fd364641df71116df5360d14c41b0d610379/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F92f9eb89160882df4f7b91097ec8f797.png",
+      "description": "A Tianjin court opened a six-month notice period in prosecutors\u2019 bid to forfeit Qian Zhimin\u2019s bitcoin, a day after London\u2019s High Court held that Chinese law applies to whether victims have rights in the coins."
     },
     {
       "headline": "Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans",
@@ -45,44 +55,24 @@
       "description": null
     },
     {
-      "headline": "Man accused of tricking Michigan resident with $665K Bitcoin scam",
+      "headline": "\u2018The numbers are actually alarming.\u2019 Ann Arbor aims to regulate Bitcoin ATMs to stop scams",
       "source": "MLive.com",
       "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUZ4UUNZV3U2WVczOG4xRWZUQWdsN0dEeXlZTFVjRnpOUUk0cllHVTBzRTYwMWNpbVNucHhsdGsxRkJhdS1mUWduVWpsbE45eFFFcGVpbWtKV2pGOTMzRm5WNV94NktseXVsTzgyYmVYa2lfZFRWaVJ1b3p0NU5HdXZQVFRJNGFJZUJLOE1ibUdmWUh0dUlWM3lVekNEdjdOMTVYQnVxQQ?oc=5",
-      "pub_date": 1792608840.0,
-      "article_url": "https://www.mlive.com/news/2026/10/man-accused-of-tricking-michigan-resident-with-665k-bitcoin-scam.html",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWERnWFh6d2pzMTc1SVcyMURTRl95NE1JQXNTY015LTgtVThBRjBzVjhBbTduZWtXdWpFUGN1UDJ0d2FBaC1wODFlNGhLSDFISVl6NWs4NFJuZGRWeml0SXp4LU90ZmdjZFRYYnB5c1NlRzRBaTQ0Ulp3UnJlb1dOc0ZmN2NPT1g0cmRfNEJiaWpXaTJ0WURMVnRqZDJib0N3N3ZHSHF5THdFVFY5MF9JSkM3RkRMaWFWS09SdXZXM1BzeTAwOUpqZnByOXd5OTBvcHlZ?oc=5",
+      "pub_date": 1792600440.0,
+      "article_url": "https://www.mlive.com/news/ann-arbor/2026/10/the-numbers-are-actually-alarming-ann-arbor-aims-to-regulate-bitcoin-atms-to-stop-scams.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "El-Sayed Says Bitcoin Data Center Next to Nature-Based School in Michigan Exemplifies Need for Regulation",
-      "source": "Common Dreams",
-      "source_url": "https://www.commondreams.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS09KVVFkbFA3cVMxeXV2Q3BCOFhiUUMtbWZ2akJlVVltRl85YWNxWGxaUUtEa0pFcVcxZmx3enRIZDZCQWRjTG5iVm9pbkUwRWhzSE9xSDdhX0RBWmF0d21kNndfVXBGdDlJ?oc=5",
-      "pub_date": 1792613630.0,
-      "article_url": "https://www.commondreams.org/news/el-sayed-michigan-bitcoin",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=68501169&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "description": "Students at Lake Superior Academy are supposed to spend hours outside each day. But the superintendent said constant noise from the nearby Bitcoin mining operation \"forced us to stay within our classrooms, close our windows, and not enjoy nature.\""
-    },
-    {
-      "headline": "A grocery AI beta is underway at a 29-store chain; a partner identified retailers with at least 20,000 locations.",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEg2X2hJY1BMSER4WXZfcHJQMlhzWXV1U3BTTjBqV2N2NDl4bW55MzNZNmNDcHIxNzk5S0o5VFo2WldjTmsxa3RmZ3RiUjlSQlNKYTlzUkR6clllenFsWEg0bjhhODhiVUloN29hbGt5c1VzNlZpZGRFZUMxNnFtWUZyTTBqZWs2eE43bGhDQWlrUUlnSXo1UHJLOHlzbVBQVUNtWkFNZXdGcW1qQk14NEJjQjBDRWNVZmc4?oc=5",
-      "pub_date": 1792584900.0,
-      "article_url": "https://www.stocktitan.net/news/AMOD/alpha-modus-highlights-bitcoin-holdings-with-value-exceeding-250-bppmjn2hkxr1.html",
-      "image": "https://www.stocktitan.net/news_covers/Alpha_Modus_Highlights_Bitcoin_Holdings_with_Value_Exceeding_250_Million_Potential_225_Million_i_1519775.webp",
-      "description": "Full cash exercise of warrants could yield about $225M in gross proceeds. Alpha Cash onboarding could begin in coming weeks, subject to reviews."
-    },
-    {
-      "headline": "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2x2QlN6SDI2LWNnTFA5Q0dKRFFmRWd4ZlFxbFdWbE9RaWFKT3FlUFN5bTdzdlZ4dmtpd09JUnlBVF9LTDctQkRFMmN4SnpkRXRvdjNxM29TQURZcjVGYnczQm5EYTJuMXB1SmlZZVNIMnhQN2huckRXaE9qVW5WV0JqS1ZOVjhpWnc?oc=5",
-      "pub_date": 1792431660.0,
-      "article_url": "https://fortune.com/2026/10/19/strategy-22-million-bitcoin-planned-share-buybacks/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2200017937-e1792431574272.jpg?resize=1200,600",
-      "description": "The purchase marks its sixth since August, extending a buying streak after Bitcoin sales earlier this year."
+      "headline": "Bitcoin scam that cost U.P. man $665K sparks arrest, charges",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZseC1RMFM1ei1McHFISlBRZm9tMGw5blFCcV9vcDAydDRTZHk1eFUyaGxiVGlITXNGd0tkT19XenFPWU95aXBiT1ZUUGd5X0ZOOVo0Ty1MazN3ZmVGdGdVLWtYMUtiZkZCTHJkc0RPelRyWndtLThmcjRWc0pxSUg5dGlNMW1VRGZvZGY5VlZEb2kzMDZvVHFQSEFuNnVMOTBXWGdXVlkzRVh1WERVOC1jeXhvX0ctZTJoUE94QzJfNkN6UE96ZUhZMTVpZDZw?oc=5",
+      "pub_date": 1792607220.0,
+      "article_url": "https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/",
+      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/10/21/PDTN/92366206007-zhong-jiang.jpeg?crop=839,472,x0,y420&width=839&height=472&format=pjpg&auto=webp",
+      "description": "Zhong Jiang faces up to 10 years in prison, officials said."
     },
     {
       "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move",
@@ -95,16 +85,26 @@
       "description": "Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400\u2026"
     },
     {
-      "headline": "Michael Saylor Is Bullish on Bitcoin. Yet His Company's Money Is Going Somewhere Else.",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHJGVlAzak9UR1BXT1lwT0t2VTU4WlA0Q2hKRXYtdUpEbEJTeTI0ODJWSFFadm1JY09xRGFGQUlYYzkyTlFDdnk5RW5YT0hTSzBuZERQZUpSWF9zSHhGWHZHQ3E3QTMyRWJ2UFROQWZjaEdfRkxXaGRlOGpFMDJBbEp3RmZEbzM3ZWc1dnUxYnpENGp4THlvQlVwUFRUT3lSX2VsZlUtVjktcXYtX3BLbDhhQlhMUjNlNUJxUDFNSzBxeFl5VzIw?oc=5",
-      "pub_date": 1792440002.0,
-      "article_url": "https://www.barchart.com/story/news/8205642/michael-saylor-is-bullish-on-bitcoin-yet-his-company-s-money-is-going-somewhere-else",
-      "image": null,
-      "description": null
+      "headline": "El-Sayed Says Bitcoin Data Center Next to Nature-Based School in Michigan Exemplifies Need for Regulation",
+      "source": "Common Dreams",
+      "source_url": "https://www.commondreams.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS09KVVFkbFA3cVMxeXV2Q3BCOFhiUUMtbWZ2akJlVVltRl85YWNxWGxaUUtEa0pFcVcxZmx3enRIZDZCQWRjTG5iVm9pbkUwRWhzSE9xSDdhX0RBWmF0d21kNndfVXBGdDlJ?oc=5",
+      "pub_date": 1792613630.0,
+      "article_url": "https://www.commondreams.org/news/el-sayed-michigan-bitcoin",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=68501169&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "description": "Students at Lake Superior Academy are supposed to spend hours outside each day. But the superintendent said constant noise from the nearby Bitcoin mining operation \"forced us to stay within our classrooms, close our windows, and not enjoy nature.\""
+    },
+    {
+      "headline": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HWWJNSVA2OU5IX0FqRldCdEtlYjl5RnBLaW94bEJoZFlMc2xVWERtR2JpM2pKdkpzRllQR1VhcVp1Mm9yWk00c2Q0TUFNdkdJZ1ROYkJ6YTdjbzdQZ2MyS0htOG92MnZQRDVrcjRXVFdlTXg3R0ttMVpSbw?oc=5",
+      "pub_date": 1792594387.0,
+      "article_url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Clarity-Act-Draft-Would-Bar-Trump-and-Officials-From-Issuing-Crypto-With-a-2029-Sunset.jpg",
+      "description": "Trump to tout seizures of fraudulent crypto sites at White House cybercrime event as FBI data shows $11.3 billion in U.S. crypto fraud losses in 2025."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T05:12:09.942311+00:00"
+  "fetched_at": "2026-10-22T10:27:02.766041+00:00"
 }

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-22T05:12:18.289108+00:00'
+updated: '2026-10-22T10:27:21.178239+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 22, 2026 at 05:12 UTC  
+**Last Updated:** October 22, 2026 at 10:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,19 +116,25 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 ## Google News: "robotics"
 
+**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
+
+Reuters • 17h ago
+
+---
+
 **[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
 
 NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
 
-NVIDIA Newsroom • 18h ago
+NVIDIA Newsroom • 23h ago
 
 ---
 
-**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
+**[What's unique about Gecko Robotics' contracts with Nvidia & the US Navy: CEO](https://finance.yahoo.com/video/whats-unique-gecko-robotics-contracts-120000507.html)**
 
-Musk said he expects to begin delivering Optimus to customers at the end of 2027.
+Gecko Robotics CEO, Jake Loosararian, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to discuss the company's expansion and how its contracts with the US Navy and Nvidia (NVDA) factor in.
 
-Business Insider • 6h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -140,31 +146,31 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Eka is worth $1.45B thanks to a physical AI model that has experts raving](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/)**
+**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
 
-Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
+Musk said he expects to begin delivering Optimus to customers at the end of 2027.
 
-TechCrunch • 1d ago
+Business Insider • 11h ago
 
 ---
 
-**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
+**[US Army competition explores military uses for humanoid robots](https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/)**
 
-Bloomberg.com • 2h ago
+They're still a long way off from mass-producing Terminators.
+
+Defense News • 2d ago
 
 ---
 
 **[BlackRock adds robotics ETF to growing ranks of AI-themed products](https://www.reuters.com/legal/transactional/blackrock-adds-robotics-etf-growing-ranks-ai-themed-products-2026-10-21/)**
 
-Reuters • 10h ago
+Reuters • 16h ago
 
 ---
 
-**[Autonomous flight startup Reliable Robotics opens Seattle area radar hub as valuation tops $1 billion](https://www.geekwire.com/2026/autonomous-flight-startup-reliable-robotics-opens-seattle-area-radar-hub-as-valuation-tops-1-billion/)**
+**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
 
-Reliable Robotics is opening a new engineering hub in Bothell to advance autonomous flight technology, tapping Seattle’s aerospace talent as the California startup raises $115 million and surpasses a $1 billion valuation.
-
-GeekWire • 1d ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -174,15 +180,11 @@ The Business Journals • 1d ago
 
 ---
 
-**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
+**[Tesla must scale FSD, energy and robotics to justify $1.6 trillion valuation: ex-board member](https://www.cnbc.com/video/2026/10/22/tesla-must-scale-fsd-energy-and-robotics-to-justify-1-point-6t-valuation-ex-board-member.html)**
 
-SpaceNews • 17h ago
+The Westly Group's Steve Westly, a former Tesla board member, says the SpaceX and Tesla merger is likely given the synergies between the two firms. The key question is potential regulatory hurdles.
 
----
-
-**[Secret trigger words could make AI-powered robots dangerous -- and these researchers developed a defense](https://www.eurekalert.org/news-releases/1148563)**
-
-EurekAlert! • 1d ago
+CNBC • 9h ago
 
 ---
 
@@ -196,7 +198,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 43K • 👍 1K • 💬 179 • ⏱️ 4:06 • 6h ago
+👁️ 257K • 👍 3K • 💬 472 • ⏱️ 4:06 • 11h ago
 
 ---
 
@@ -206,7 +208,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 134K • 👍 2K • 💬 230 • ⏱️ 20:32 • 3d ago
+👁️ 136K • 👍 2K • 💬 230 • ⏱️ 20:32 • 3d ago
 
 ---
 
@@ -216,17 +218,7 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 40K • 👍 533 • 💬 58 • ⏱️ 13:57 • 1d ago
-
----
-
-**[Reliable Robotics launches first automated test flights out of Albuquerque International Sunport](https://www.youtube.com/watch?v=YjZgTVmEgRM)**
-
-Full Story: ...
-
-📺 KRQE
-
-👁️ 933 • 👍 12 • ⏱️ 2:25 • 5h ago
+👁️ 43K • 👍 568 • 💬 60 • ⏱️ 13:57 • 1d ago
 
 ---
 
@@ -236,45 +228,7 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 87K • 👍 791 • 💬 133 • ⏱️ 8:52 • 5d ago
-
----
-
-**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
-
-More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
-
-📺 The New York Times
-
-👁️ 169K • 👍 1K • 💬 496 • ⏱️ 4:07 • 4d ago
-
----
-
-**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
-
-Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
-
-📺 Jamel_AKA_Jamal
-
-👁️ 114K • 👍 3K • 💬 732 • ⏱️ 13:05 • 3d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 90K • 👍 784 • 💬 43 • ⏱️ 9:03 • 3d ago
-
----
-
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
-
-📺 Big Duke13
-
-👁️ 420K • 👍 14K • 💬 1K • ⏱️ 2:35 • 5d ago
+👁️ 93K • 👍 816 • 💬 144 • ⏱️ 8:52 • 5d ago
 
 ---
 
@@ -284,7 +238,55 @@ AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots.
 
 📺 NVIDIA
 
-👁️ 26K • 👍 674 • 💬 49 • ⏱️ 2:40 • 17h ago
+👁️ 65K • 👍 1K • 💬 93 • ⏱️ 2:40 • 23h ago
+
+---
+
+**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
+
+More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
+
+📺 The New York Times
+
+👁️ 169K • 👍 1K • 💬 499 • ⏱️ 4:07 • 4d ago
+
+---
+
+**[Robots Going Completely Wrong Caught On Camera](https://www.youtube.com/watch?v=L_W9K1q9X3o)**
+
+Original Video https://youtu.be/rMLr5CLd1jY?is=bBzpQD81EdehBnFp.
+
+📺 Jamel_AKA_Jamal
+
+👁️ 115K • 👍 3K • 💬 733 • ⏱️ 13:05 • 3d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
+
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 91K • 👍 793 • 💬 43 • ⏱️ 9:03 • 3d ago
+
+---
+
+**[Unitree Robotics unveils ‘kung fu’ robot bodyguard](https://www.youtube.com/watch?v=KMvTFhiPrJ0)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Unitree Robotics released a video showcasing a ...
+
+📺 South China Morning Post
+
+👁️ 68K • 👍 1K • 💬 177 • ⏱️ 0:48 • 20h ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 424K • 👍 14K • 💬 1K • ⏱️ 2:35 • 5d ago
 
 ---
 

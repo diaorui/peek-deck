@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-22T05:12:18.286876+00:00'
+updated: '2026-10-22T10:27:21.174869+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 22, 2026 at 05:12 UTC  
+**Last Updated:** October 22, 2026 at 10:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,452.11
+### $2,408.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +0.9%  
-**30d:** -9.0%  
-**90d:** +30.4%  
-**1y:** -36.7%  
+**24h:** -2.4%  
+**7d:** -0.5%  
+**30d:** -10.2%  
+**90d:** +28.6%  
+**1y:** -37.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.32B
+**Market Cap:** $294.18B
 Rank #2
 
 **Circulating Supply:** 122,152,452 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-51.3%
 
 **All-Time Low:** $0.43
-+563962.0%
++556254.9%
 
 ---
 
@@ -158,23 +158,11 @@ J.P. Morgan • 2d ago
 
 ---
 
-**[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
+**[Ethereum Earned Less Than a 3-Month-Old Robinhood Chain Last Quarter](https://finance.yahoo.com/markets/crypto/articles/ethereum-earned-less-3-month-085951915.html)**
 
-Bloomberg.com • 2d ago
+ARK Invest data shows Robinhood Chain earned about $51 million in Q3 while Ethereum’s revenue fell about 35% from Q2.
 
----
-
-**[Ethereum News: JPMorgan’s JPM Coin and ETH Network Activity](https://www.thesarniajournal.ca/other/ethereum-news-jpmorgans-jpm-coin-and-eth-network-activity-12919008)**
-
-The Sarnia Journal • 16h ago
-
----
-
-**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://finance.yahoo.com/markets/crypto/articles/bitmines-tom-lee-warns-potential-122800815.html)**
-
-A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
-
-Yahoo Finance • 16h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -182,7 +170,7 @@ Yahoo Finance • 16h ago
 
 Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400…
 
-TradingView • 3h ago
+TradingView • 8h ago
 
 ---
 
@@ -194,6 +182,22 @@ Decrypt • 1d ago
 
 ---
 
+**[Current price of Ethereum for October 21, 2026](https://fortune.com/article/price-of-ethereum-10-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 18h ago
+
+---
+
+**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://www.fool.com/investing/2026/10/21/bitmines-tom-lee-warns-of-a-potential-sell-off-in/)**
+
+A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
+
+The Motley Fool • 21h ago
+
+---
+
 **[Ethereum staking hits record as yields fall and Solana activity grows: Bitwise](https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414)**
 
 Ethereum and Solana staking reached records in Q3, but yields fell as newly issued tokens continued to fund most rewards.
@@ -202,25 +206,27 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for October 21, 2026](https://fortune.com/article/price-of-ethereum-10-21-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 13h ago
-
----
-
-**[Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts](https://www.benzinga.com/crypto/cryptocurrency/26/10/62497439/ethereum-will-benefit-most-from-3-trillion-stablecoin-boom-spark-ceo-predicts)**
-
-Benzinga • 15h ago
-
----
-
 **[Crypto News: Remittix Sets 41 New Fiat Currencies for PayFi Expansion as XRP Price Prediction Eyes $20 and JPMorgan’s Ethereum Move Revives a $12,000 ETH Target](https://markets.businessinsider.com/news/stocks/crypto-news-remittix-sets-41-new-fiat-currencies-for-payfi-expansion-as-xrp-price-prediction-eyes-20-and-jpmorgan-s-ethereum-move-revives-a-12-000-eth-target-1036649157)**
 
 MAJURO, Marshall Islands, Oct.  21, 2026  (GLOBE NEWSWIRE) -- Remittix is preparing to bring 41 new fiat currencies online as part of a major expa...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 20h ago
+
+---
+
+**[Ethereum staking hits record highs – So why are yields falling?](https://ambcrypto.com/ethereum-staking-hits-record-highs-so-why-are-yields-falling/)**
+
+Ethereum's staking reached record levels as Bitmine expanded holdings, while ETH struggled to recover above resistance.
+
+AMBCrypto • 16h ago
+
+---
+
+**[XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue](https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/)**
+
+XRP ETFs ended a 13-week inflow streak as Bitcoin, Ethereum and Solana funds also recorded net withdrawals in the week ended October 16.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -234,7 +240,7 @@ Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midter
 
 📺 Schwab Network
 
-👁️ 2K • 👍 28 • ⏱️ 6:40 • 7h ago
+👁️ 3K • 👍 30 • ⏱️ 6:40 • 12h ago
 
 ---
 
@@ -244,7 +250,7 @@ Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altc
 
 📺 Altcoin Daily
 
-👁️ 79K • 👍 2K • 💬 207 • ⏱️ 9:32 • 2d ago
+👁️ 79K • 👍 2K • 💬 209 • ⏱️ 9:32 • 2d ago
 
 ---
 
@@ -254,7 +260,7 @@ Nine US companies, including Broadcom, Verizon and UnitedHealth, have formally o
 
 📺 Yahoo Finance
 
-👁️ 39K • 👍 633 • 💬 72 • ⏱️ 14:51 • 2d ago
+👁️ 39K • 👍 636 • 💬 76 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -264,17 +270,7 @@ What happens when AI agents start managing your money, and who will actually con
 
 📺 Crypto In America
 
-👁️ 3K • 👍 68 • 💬 3 • ⏱️ 41:22 • 17h ago
-
----
-
-**[🚨 BITCOIN &amp; ETHEREUM ARE BREAKING OUT! THE NEXT CRYPTO BULL RUN BEGINS 👀](https://www.youtube.com/watch?v=uI1YYIabSZ4)**
-
-The crypto market could be approaching one of the biggest opportunities we've seen in years. Bitcoin is showing signs of a ...
-
-📺 D.I.Y Investing
-
-👁️ 3K • 👍 87 • 💬 4 • ⏱️ 12:40 • 1d ago
+👁️ 4K • 👍 85 • 💬 21 • ⏱️ 41:22 • 22h ago
 
 ---
 
@@ -284,17 +280,7 @@ Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPM
 
 📺 Thinking Crypto
 
-👁️ 24K • 👍 749 • 💬 121 • ⏱️ 19:54 • 2d ago
-
----
-
-**[Ethereum: Calm Before the Breakout?](https://www.youtube.com/watch?v=7I1qdYGm4HU)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 209 • 💬 7 • ⏱️ 7:38 • 1d ago
+👁️ 24K • 👍 749 • 💬 120 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -304,17 +290,7 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 📺 Natalie Brunell
 
-👁️ 25K • 👍 538 • 💬 37 • ⏱️ 2:31 • 2d ago
-
----
-
-**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
-
-Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
-
-📺 CoinDesk
-
-👁️ 70K • 👍 572 • 💬 75 • ⏱️ 10:26 • 2d ago
+👁️ 25K • 👍 541 • 💬 37 • ⏱️ 2:31 • 2d ago
 
 ---
 
@@ -325,6 +301,36 @@ JPMorgan is expanding its JPM Coin beyond Coinbase's Base network to Ethereum, c
 📺 CoinDesk
 
 👁️ 1K • 👍 34 • 💬 1 • ⏱️ 1:51 • 2d ago
+
+---
+
+**[Why is Ethereum so weak right now?](https://www.youtube.com/watch?v=EHuwWUQ_jjg)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 156 • 💬 8 • ⏱️ 8:07 • 2d ago
+
+---
+
+**[BMNR stock price if Tom Lee is RIGHT (ETH to $12,000 this CYCLE?)](https://www.youtube.com/watch?v=jCGibJZ21SY)**
+
+BMNR stock is in a pull back after a strong few weeks. Tom Lee believes that it could go much higher in this cycle. In this video we ...
+
+📺 Elijah Cheng
+
+👁️ 10K • 👍 107 • 💬 41 • ⏱️ 24:29 • 2d ago
+
+---
+
+**[Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months](https://www.youtube.com/watch?v=WDfhSrA4Z7A)**
+
+Jennifer Sanasie and Eleanor Terrett sit down with BitMine chairman Tom Lee at Korea Blockchain Week. Lee explains how ...
+
+📺 CoinDesk
+
+👁️ 71K • 👍 575 • 💬 76 • ⏱️ 10:26 • 2d ago
 
 ---
 
