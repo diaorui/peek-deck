@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Why AI\u2019s Deepest Mind Believes the World Is About to Change Radically",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
-      "pub_date": 1792575000.0,
-      "article_url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google staff resign in backlash over its AI contracts with military",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWVdJWjFtOWFyR2FOZzJSZlF5TmFGZDh6UVV6SHZ2V2ZvV0NDdm9hVUVBWDVQYjhZYms1aDA4YU9iRzRoMmpSY1BJQ1puNXpCM3RoLVRDbWU3Zmc?oc=5",
-      "pub_date": 1792597285.0,
-      "article_url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4ad8/live/cd13e390-cbc3-11f1-aba9-2bb2608f11d9.jpg",
-      "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield."
-    },
-    {
-      "headline": "AI and jobs: The hot new topic for central bankers",
+      "headline": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHVxRjFhb2k0d294NlhCZHFISnROcjRITjBZWjFtVm1BVmh2cjRSbHNITDNjVnNNdzg5Z0NMTThiVUFJQ253RmxyeUdFai1XdU92ajU1M1cxY1N5UzRpa0pkN24xMldxMXNrekRXRldYRTV2ZnA1bEJqcGZYNHJtc2lUcEMydWpkM0NncXRTdzhBY2PSAZgBQVVfeXFMUGdfcWpVa2ZERDBIX0RucUJjWXhMM2lJSlVlUTkzazFHV3IwWmxJVmk3M1JYOGpuejlUZ2F3Z1FFeG9zSkltcVFqZTBEZ1g3ZFBZaVd4ZTg2SXZLWVN2TVBuWHM5c09YRGV3Ui1CakJIWmFxWGFWZkZCTDg5QXZQTGpEYlJuQXJNUWdGMjdiWEthaDVIUzRZMEg?oc=5",
-      "pub_date": 1792623601.0,
-      "article_url": "https://www.cnbc.com/2026/10/21/ai-and-jobs-why-central-bankers-are-paying-attention.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108440474-1792559189185-gettyimages-2267051635-porzycki-dailylif260320_npzKY.jpeg?v=1792559557&w=1920&h=1080",
-      "description": "As competition for capital grows, central bank policymakers and researchers are scrutinizing the consequences of artificial intelligence on jobs."
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
+      "pub_date": 1792618974.0,
+      "article_url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338734-1784745509530-gettyimages-2280291449-ANTHROPIC_CIRCUIT.jpeg?v=1787672726&w=1920&h=1080",
+      "description": "Claude Duet follows the launch of competing products from Meta and OpenAI, which have shown traction with users."
     },
     {
-      "headline": "How Soaring AI Bills Are Vexing Wall Street Executives",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMV9ZUUJjbkZrbGRYOEwwbTVTbml5NGctdUw5OUgzZE5hU2NNVGo2dUtlRTFnaERqaDc2eUxSNTR4eE93empUelRPdDdJMDJNUDV4bENNb21FOFhPT2lQT1lDcnNnVFp5em1PZEZCNDhGd0Q1R3hGM19QdjZheldWdjVRcHkxeDhOQ1E1ZlVNbG93aXJia0dQS2tOMVVfOXRYUVdLSV80WDc4bFdW?oc=5",
-      "pub_date": 1792627200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/how-wall-street-banks-are-grappling-with-soaring-ai-bills",
+      "headline": "Anthropic unveils Claude Duet AI agent app",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+      "pub_date": 1792614335.0,
+      "article_url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Spring restaurant turns to AI for ordering, putting tips directly in cooks\u2019 pockets",
-      "source": "Click2Houston",
-      "source_url": "https://www.click2houston.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaU9yVUs2Z0E1azBNVGk4Rk1VOHFpdnNIdVJtVDlXREQzSUh0YXk3VjY0Y2I3YVJvUnozOEsyU09KTmNRMlQ1QlBzc1dDZnpZcnNpdHNiVHI2d1JPbUJYdkd5Umo0cHp0cEVmVEFrT0lEWlZsUXdVQ2duejJsMEhVRFIxUDNGRF9UTGI1alhpRk92TWtzYW9tMHlOQUgxb0RzbmZuOENVUXYxcGl1dVdGX3haaGxwTkFJ?oc=5",
-      "pub_date": 1792623312.0,
-      "article_url": "https://www.click2houston.com/news/local/2026/10/21/spring-restaurant-turns-to-ai-for-ordering-putting-tips-directly/",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/kprc/2a2ecf6e-7274-4d30-a13a-95f8f5de039d/image.jpg?api_key=click2houston_85fdeb57f8cd3635",
-      "description": "What if the next time you went out to eat, there was no one to take your order \u2014 and your tip went straight to the people cooking your food?"
+      "headline": "Anthropic Joins the A.I. Agent Race With Claude Duet",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
+      "pub_date": 1792615262.0,
+      "article_url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-      "pub_date": 1792626776.0,
+      "pub_date": 1792567680.0,
       "article_url": "https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGZiNW1ZS2NSU2tlWUI3dWVIa3BGa29BemtncHFaY2lCUWpxbW51Y1RsMEItelRSNEJMdS1tLTM1dy1GTmt4a0xva3pvRnJLSUs3alU4Zl9iZzg1ZDVJOGtqblh1dHZWYjhaN3pZbXJlYkNJWXpMTmNRWEpUeDl5bng5SXNNNUMzcHI3Z2YyRGRWM3RPOFVUSy02RTBBaWg5ZUdJOGRjellvZ3Y3SmI5cHNFOXpjZXFVWng4V3pFUVdxWnpZcVhWMWF3UFpwRTVIVzFMRWFJUjR5aVo2SEdWMVZWOUlubkhxeUpFVUQ2aFJvQjhxcEx3?oc=5",
-      "pub_date": 1792582200.0,
-      "article_url": "https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9420552ae8174ef7903ab6f65829c3eadce2ce09b4fe86e722782a3b25004144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-10-21-at-72629-am_5091.png",
-      "description": "Nvidia debuted its DSX POD at GTC Berlin on Wednesday."
-    },
-    {
-      "headline": "The anti-AI writing police are everywhere. What are they looking for?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenhXT1AtU205TlpBZVRhVWVXUTRnTFhIOHpaT2VTNGZPTHlxSGxDcnZkN3hCdmRzVWNUeVZ2OTNuUmQweGtEX24zcEZMUDZIcGxqTEJUc0pJZXZQMWJUN2tkSzlsLWNVSGJaQ3cwcEs3WmN1amVKTGRNMm1MOVNaNmN3?oc=5",
-      "pub_date": 1792576847.0,
-      "article_url": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244262036.jpg?c=16x9&q=w_800,c_fill",
-      "description": "AI writing scandals have exploded over the last year, but there are big questions about who gets accused and why."
-    },
-    {
-      "headline": "Opinion | Mamdani\u2019s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3ZNSTZoclIzZjRBTTFrUUZ4bnBzX3Bhdk1jTmlGSkxVWW54emxjYW1VWlBCZXZXOGVOb2xCTE5kaEVYTF92Tk9vTW5ybGtoNHF2b0E2NWlFNHdEbGtJUkZTRTZRcUo5eTRZOXJnSlgwSk1ZbFV6Y1h0R3loeTNMRUpWNkpfY3BOVHRpdk15NHhTM0lj?oc=5",
-      "pub_date": 1792486899.0,
-      "article_url": "https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html",
+      "headline": "AI and inflation: how worried should central bankers be?",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakdRMHZqNGZmX0JldFA5SzR2b0ZoYXZUZFBkNkJPTUZNSG5jUEpKbGQ5YUVab3BGXzczRUstSXNCNDRIQjI5YW9BLVZleVV0TXBXQXpCUERCeE12UjBIbV8wSzhuVFF0Z1lmR0FacktFYWxWQXVxampYQ0d6aW96Q1luNlg?oc=5",
+      "pub_date": 1792641611.0,
+      "article_url": "https://www.ft.com/content/68b04a9b-714e-4a5a-8dde-d9d7b8a65197?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlhmUl9aOXFlRVNEdGh1M0xKQ2U2X2ZBbVgxbE9NLVJoTXpaSzZmX2wzY0hudG9LQW9FVE9lV1ZzNFdBbVg4MHJHT21zR0pMZjJKcGpSeC1jTXp2N1Q2eWRzRTZXRXVDQU9KU2JQbU9kNkxaN1hlZGN2VmRLWUZKM2NOeUFwVDZ2aGhlbFdMMG56alE2X2hMczh6REVKVHFfUWJfd2UxTUQ?oc=5",
-      "pub_date": 1792577608.0,
-      "article_url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-      "image": "https://i.abcnewsfe.com/a/76af8d06-92bb-4767-b96d-3f27f7c34e58/data-gty-er--261020_1792522906404_hpMain_16x9.jpg?w=1600",
-      "description": "Majorities see risks in AI and fewer see benefits."
+      "headline": "Is an 'AI war' complicating your job search?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTlgxV2lrLS0wQnhKWW5ZZnZQVVZjLTFpRHdRNV85aUg1MVlwZ1EtRm1IbGM5UFRBRjA3NGpTODkwSUJPQkl6TUZ4NkxJRlhCYWpwSDFTWDE4bVE?oc=5",
+      "pub_date": 1792645291.0,
+      "article_url": "https://www.bbc.com/news/articles/cm9qzgg5z89no",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe30/live/a26688a0-cbaf-11f1-821f-c5d07d801cca.jpg",
+      "description": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?"
+    },
+    {
+      "headline": "AI Research Startup Flapping Airplanes Valued at $6 Billion in Round",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWlMcFlyb091cURKSTdxWlZobXVRVVlpSlhQbFUxejRzYmQyVk9FX1ZGT2FlYU5GN2xGc2M3dVFnN292YkNRX3IzbERKUl9BYWlDVGMtU29RcmZ5UHZwRjROUWJneHpzajVHQTNYazhrYlM1SDZMZU1kRzRldTA3TVBNa05DbFJsYldTOVo0R0hOdFdwbmhXYWQ2dFQyWVlXd3RubmlDR0U0ZkZSczdmOVhUNU9DeTJVMUE?oc=5",
+      "pub_date": 1792602001.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The $15bn \u2018viral\u2019 AI start-up changing how American doctors treat patients",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDVNRXJndElaSnNKMWxmVm14U01RTkI3V09UWmFQdzZ3bF9BejJqT080Y0k4UVdnWnpFRlNtVWxPTURjSWkwMDBPU1l0ZFFoaDNzLUUxTjNvOUxmSUF1STU3OFdNQndIaHNSLUNfUVJQa21ubTM4QjdrSHYyU2R1VjM1aUE?oc=5",
+      "pub_date": 1792555219.0,
+      "article_url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Frenzy Sees Venture Capitalists Backing the Same Startup at Distinct Values",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNVlha3FlbGMwZGxmTGM5blpYaWFkRGRaNlJfR2V4ejJLTWxmUHZSUTF2a0dFOTFFYWItcjFDbFJjMUlBalVQV0NYS3ZxbTVsZzhLNFVabGZwalJZLV9FeFc0UnRHbVpaa2hGRmJVbG5CUGN3V1c4TFBmalRfU1VtUDhLSUQ5Tm1EcG1vdS1jOXdVd2NHc0ZTOHVXR1ItT2MzMG9xMzdmYzczU0F1Yy1vV2gyY0xYSEpYb1RleGNJTjdaZFE2X2JqTUtB?oc=5",
+      "pub_date": 1792642500.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/venture-capitalists-push-up-ai-startup-valuations-with-tranched-two-step-rounds",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPYTI4UlUxdjlSUm9wTV9lNmJoZlhtSmhRSVgtYUdxa0NCRy1YWGNPUldnLXNrUzlhR003YVUwNjJuSFpWeTRfb1Vzd1JhN2Mtb25MSktUQlc0eWVoQkZhb0dYVWoxWEpxa19ucDZuSVVmQQ?oc=5",
+      "pub_date": 1792614517.0,
+      "article_url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T00:07:01.018791+00:00"
+  "fetched_at": "2026-10-22T05:12:16.786592+00:00"
 }
