@@ -111,7 +111,7 @@
       "num_comments": 3,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 2369,
+      "github_stars": 2426,
       "project_page": "https://nanomuse.cn/"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 4,
       "published_at": "2026-10-11T20:00:00.000Z",
       "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
-      "github_stars": 1372,
+      "github_stars": 1418,
       "project_page": "https://decision.startlux.com/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-23T20:13:11.509456+00:00"
+  "fetched_at": "2026-10-23T23:19:50.488405+00:00"
 }

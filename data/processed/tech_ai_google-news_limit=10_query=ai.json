@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhblpwLUhvM1dNN2FhWWlUSzZLclJUX2t6RzBLYjFqTDMyV3lSalRvRjlEWWdfb0V6LVFXdTVYZWdsY2YxdHE1R1Y0Tm15aDhNdk90SVlLOUF2M2U0eGhTV3dhQlFaT1JVVU1BN1F1MNIBdEFVX3lxTE55bU1Ia1lKeVUtR0s1VnBCelhlREV2TDdXNDNKU2ZWT2dXZVJPUk0xN3ZkVEtZWm01c0ZwYXpDYkxhNjIxX3ZLaEtqc0NJcHA3S1ZYdWJOWU1mYnIxWnVZa2t6aGlWOWhMZllXekZjTERoVTVp?oc=5",
-      "pub_date": 1792761909.0,
-      "article_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108451661-1792761669966-108451661-1792761599620-gettyimages-1244667204-AMEX_SQUERI.jpg?v=1792761737&w=1920&h=1080",
-      "description": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday."
+      "headline": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYQ2ZnSnZiSFRVLXlORjFOSWx3X1FucWpqX1BlaG1EYVhWcmFCZDgxUDFTM2V5OU9VeVpBLUhKeVM4NnU1bTJOWFB2QlI2VzVBdDR3Wm5Rc0lQWTVXMkZBeGE1T2FLMkJhLUxFc0pSaDJXc2FBWEV5T3o1Tkk?oc=5",
+      "pub_date": 1792746015.0,
+      "article_url": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-723499975-20261022195238539.jpg?c=16x9&q=w_800,c_fill",
+      "description": "In July 2004, security researcher Stefan Esser sent a warning."
     },
     {
       "headline": "Her 6-year-old brought home an AI-generated photo from school. This mom isn\u2019t having it",
@@ -25,86 +25,86 @@
       "description": "Nikki Anderson's 6-year-old daughter brought home from school an AI-generated photo of herself at age 25. Anderson was furious."
     },
     {
-      "headline": "'Wildwood' embraces handmade artistry in the age of AI",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHJCdDFtb3gwYTJYTDU5SnBhdV9wTmFnZW4wdFg4ZEdwbkRISEVuRDZRS3NnT3JvWmN6SU1SSzkxemJ2aVlSejZ0Z3IzLU9Fd3ZGTkViVEtfTnZBUlN5MHg3LVRIR2ZTc1VIbGhYWVZrNWNYTGJibmU5SG44QU5nbXpzVmgtbmV1QVRSN05YcVplOTM2T0FsWWpEVldTT1J1LTZF?oc=5",
-      "pub_date": 1792784847.0,
-      "article_url": "https://www.nbcnews.com/now/video/-wildwood-movie-laika-s-stop-motion-film-challenges-ai-272132165931",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_10/1792784596274_now_daily_a_wildwood_animated_movie_ai_261023_S3_1920x1080-kxbzd7.jpg",
-      "description": "LAIKA Studios spent over six years crafting \"Wildwood\" by hand\u2014 233 puppets, 1,000-plus artists, and zero AI. As the film earns Oscar buzz, animators say handmade art is having a resurgence. NBC News' Chloe Melas reports."
+      "headline": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1NPZWhQZW05ODAxWnE1dTNYbDJaVVNzbGxjcERRMkRGUnk3OE9jdUE2VGJWRXpTY0VqVnhSeWtYdXhTNGlSM1V3NkVXbFI0RmMweFJqcXZlc0FYdWt5QmtHaWpHQWN5Vzc4aW55cnlqYjdwblM0R04tUUFlRU1ESGk0VnprWjNPRFpWaXJEVkJGMTdab0RtTTlNVWFwN2ZOcF9iVTdDSDhKQnVzNlNqWDdEZw?oc=5",
+      "pub_date": 1792787562.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "The Pentagon\u2019s guidelines for \u201cresponsible AI\u201d aren\u2019t always followed, report shows",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55X1ktWGd3RFRucWtlM1lRVG1RbVBUZEwxMnNUUXpFaE12Q0ZFaHFZS1UzN243TGVhbTdPVmlWYVFwM1pYYUt1SkpsNkY1OTZZMWRtN0lrdDFJRzh5Y2dxNkU2VlhZRDhRdmg2ZkV2eUJDRjRFV2lNTXpMWllxdw?oc=5",
-      "pub_date": 1792783875.0,
-      "article_url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1127x634+0+279/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F35%2F5c968cba4fdfa34765d346214ab1%2Fgao-ai.jpg",
-      "description": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October."
+      "headline": "AI pixie dust is losing its stock market power",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
+      "pub_date": 1792791467.0,
+      "article_url": "https://www.axios.com/2026/10/23/ai-stocks-meta-western-digital",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Should AI have the same rights as humans?",
-      "source": "WBUR",
-      "source_url": "https://www.wbur.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzV1XzNuYUg2cTBjdVYwYm8zajcxc25faEp3UW1sdnZZNEZBdGYydXN5NGlfVXRKLTBKTFUwbmE1OU5HbHhJNmM3dVMtbGVDNEhHTkJfSGlJOHFSTzJOR3RqRUJwQWNaNVk1MlFWTDNSQmFHZXJtM1YzZTNidHE0RUdVeldCMHM?oc=5",
-      "pub_date": 1792785976.0,
-      "article_url": "https://www.wbur.org/onpoint/2026/10/23/should-ai-have-the-same-rights-as-humans",
-      "image": "https://media.wbur.org/wp/2026/10/Anthropic_26283549290505-1000x667.jpg",
-      "description": "AI company Anthropic says you can no longer be \"abusive or cruel\" to its model, Claude. And Claude itself will decide what counts. Many in the AI world say that's a dangerous mistake."
-    },
-    {
-      "headline": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYQ2ZnSnZiSFRVLXlORjFOSWx3X1FucWpqX1BlaG1EYVhWcmFCZDgxUDFTM2V5OU9VeVpBLUhKeVM4NnU1bTJOWFB2QlI2VzVBdDR3Wm5Rc0lQWTVXMkZBeGE1T2FLMkJhLUxFc0pSaDJXc2FBWEV5T3o1Tkk?oc=5",
-      "pub_date": 1792746015.0,
-      "article_url": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-723499975-20261022195238539.jpg?c=16x9&q=w_800,c_fill",
-      "description": "In July 2004, security researcher Stefan Esser sent a warning."
-    },
-    {
-      "headline": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdG9IQk05V0RreXowdWtENmZNSTZPRWFMczNQUGZCcE9nZFFOMnpLWmJmSkUtMldUMDRzNHNTSWVPSmpGTE1wM1lYS1IzQmE0MktGYTdndmtXYUdRaXRUaUMxcjAyd19IX3I4R3FXanQxZ3p1NVFCMVlHODBCUdIBgwFBVV95cUxQU1ppdm16cTYwY0FtZVhKMlVjeWZLUTl0UDRadXZ6UHV4bHNYNXFnQm0xak9zMjA5MFF5Slg4bkg5ZEt4Y1lEQy10Z200amVpUkU0UGNtNHc5bndSQks4LXR5ckpGVzlQYTRfSGNxa0Ric2U1OUU2dGQzem9wZUJHczVsbw?oc=5",
-      "pub_date": 1792768659.0,
-      "article_url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108446583-1792673740106-gettyimages-2300859671-86268678.jpeg?v=1792673757&w=1920&h=1080",
-      "description": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online."
-    },
-    {
-      "headline": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTG5XNmRIZVQwZ0hvdmQydjE2elRuNlBscUNJRnhyTWpuUHh1SmlVeGxqRE1HQjJVT3RPTFpaUGZoWUQyOEhYS2JPdUdoeWt2d0pkeUVtbkpSRHpvOVJhMFdkQWdHTi12elp2aldCQTlYMUV4NHpNU0VtM3RoaG4xVkRPdW1YQjhNX2pXYXh0RzhzOWFZSkZPNA?oc=5",
-      "pub_date": 1792781400.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
-      "image": "https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f5df3e6d7b2ff59e15544af666e83a6",
-      "description": "After discovery of severe bug in the PHP programming language, executives warn of \u2018vulnerability tsunami\u2019"
-    },
-    {
-      "headline": "Appeals court rips federal judge over AI errors in Mississippi DEI law ruling",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkxydDVwaFE4bFIxZFNuQ3hhN2NHdWtDTHFBb2MyOXA1Y2p5dTFldXFuSnRKZUNILUZ5VjZkN1hHbWlaYTZ1UnZDY3JXLXozMl9lSmZLSTNqNGcxUjUwUGlGWTNtSlFkZlJWand6OWJRcEdtamRnN3JlVnE3RVdnNWsyMjZVblpiLW9mRQ?oc=5",
-      "pub_date": 1792777042.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-hallucination-appeals-court-mississippi-dei-law",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/c9507c0650a746472fc51bb301bbbb55.jpg",
-      "description": "A federal appeals court sharply criticized a judge's reliance on artificial intelligence as it overturned his order blocking Mississippi's restrictions on publicly funded DEI programs."
-    },
-    {
-      "headline": "The AI sell-off is crushing stocks of companies leading the data center build-out",
+      "headline": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNemFqVTR5R3pxRDdTaE5mOFpqR3d4S1E1SFVuRVBfaWw1em8wcXdCZU1SR0tMTU12WkVoZ3Z2dnkyb0lNRUVZZEJsRnl3QlI2WmhQVE1BamNkWHNKVGVBME9WRWlPcDYzVy1JY0hHcWV6b2tqbVBMMEZvSUxWX0pYOEYxQ0FUQ3p0SFlpRVNyWVBaVE54WUctRUJvelhBUmdxLVJST3VtWWRmZWlYTTBsUVYzLXd3WW9jVVk3YnlWdE9nWlhlZDU2VVNKczdYV0NkREk1Zg?oc=5",
-      "pub_date": 1792777926.0,
-      "article_url": "https://finance.yahoo.com/markets/article/the-ai-sell-off-is-crushing-stocks-of-companies-leading-the-data-center-build-out-175206076.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a4ca991308cf152783059be3cd3fd64253ea20b377a313640a0399db70b4f0e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F489926af-7bdb-490c-bc65-6e7d617543d4",
-      "description": "Bloom Energy and Comfort Systems just posted blowout quarters, and Wall Street is dumping their stocks anyway as the AI data center trade cracks."
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmlUc05lb2JTUlJSZ00wQW9RUFB5VEY2UGZRRmxxTnFESmNnRC1KMDVzNVRzbG85TC1rWVZyUWhwckZVYll2T3J1b0ZEQ1RzZldYM2dyOWp3SzZOWkU4c2FPQnM5QVRJb19idEJyNF9QVTlJdkJ3Tl9oeW5pdm5iYmNxanMzRXh3QjZMcENCYVUtOG5pR0sxS3ExRHYyX1ZTcmxseVRYYjlCcTIxYjUyWE1UNmw4RXVVMDZkcTZHckxyWFA5WE5aRkdR?oc=5",
+      "pub_date": 1792775139.0,
+      "article_url": "https://finance.yahoo.com/markets/article/a-cyclical-downturn-is-inevitable-in-an-ai-crash-strategist-dario-perkins-170539090.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/72a3711067f2437115333c1d2f8a3ab4808a9323433f5164f20284d7a12bdac5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F88bd0fec-f21f-4548-9eea-4da2679f792a",
+      "description": "A new paper from TS Lombard strategist Dario Perkins games out how ugly things could get if the tech rout keeps gaining steam."
+    },
+    {
+      "headline": "Goldman Sachs CEO David Solomon is optimistic about AI. Most of America disagrees.",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTBtRkdCV0JmRVhRRElocWhzcy1QVnNWalVodjRkQTRBa29uVTJhaXc0cXBSTWFYQTluU05rZU54blRJVktmNURyUU1aWldQclZuRllZbzdfSnAyaGNiM3ZYb3VPb2QtdTNna0tvUDdxMDBBRmd0eTVaWDNhX28xWi1SRWd1SV82cjVYeUFxeE1kZw?oc=5",
+      "pub_date": 1792794716.0,
+      "article_url": "https://www.nbcnews.com/business/ceo-interviews/goldman-sachs-ceo-ai-optimism-rcna604322",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-David-Solomon-CEO-vsb-1808-9b21ff.jpg",
+      "description": "\u201cWe\u2019ll look back, 20 to 25 years from now, and the benefits will be really positive for our society,\u201d the Wall Street leader said."
+    },
+    {
+      "headline": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3FQdU1JZUt5SV95Um5WSkMxQW96a3M2WnZnLTU5UXRYVEVUd2RLb3BKSXFyZktvU1RYWW5oRW1MWjYtMjBGSVcxQW1FRks2UmpCTmREeWxqdE1ZVE0tWkxUUERhcUl0VFpPRlczS1l3eS1xTnkyUzJ6M2VuVl85MzViQVlyWWExeHVQOTlYTHFWVW1RZUhlbEpQN3hTMHl4dE56OFl5ekY?oc=5",
+      "pub_date": 1792796460.0,
+      "article_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ac6c0c552827e838dd44c361bfa727f",
+      "description": "BBC series deliberately uses \u2018more organic\u2019 shots to assure viewers animals are not AI-generated, producers say"
+    },
+    {
+      "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
+      "source": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
+      "pub_date": 1792768213.0,
+      "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
+      "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
+    },
+    {
+      "headline": "Securing our frontier model training environment",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
+      "pub_date": 1792780594.0,
+      "article_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ho5AoUkijZ1OWhqcDlVvT/84af1aa075c5e8e44d9dc93d0146c31f/new-approach-to-research-model-containment-social.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+    },
+    {
+      "headline": "OpenAI to Train AI Models Without Internet After Cyber Incidents",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
+      "pub_date": 1792787417.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T20:13:19.924211+00:00"
+  "fetched_at": "2026-10-23T23:20:10.803597+00:00"
 }
