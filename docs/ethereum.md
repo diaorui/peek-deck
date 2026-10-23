@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-23T20:13:24.101101+00:00'
+updated: '2026-10-23T23:20:12.695391+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 23, 2026 at 20:13 UTC  
+**Last Updated:** October 23, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,402.32
+### $2,392.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -0.2%  
-**30d:** -10.8%  
-**90d:** +22.6%  
-**1y:** -39.1%  
+**24h:** -0.8%  
+**7d:** -1.1%  
+**30d:** -11.6%  
+**90d:** +21.5%  
+**1y:** -39.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.31B
+**Market Cap:** $289.23B
 Rank #2
 
 **Circulating Supply:** 122,155,365 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.6%
+-52.1%
 
 **All-Time Low:** $0.43
-+552617.3%
++547023.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
 
-12h ago
+15h ago
 
 ---
 
@@ -154,15 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Cardano could be headed for a big comeback in 2027.
 
-Yahoo Finance • 12h ago
-
----
-
-**[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts](https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts)**
-
-Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
-
-CoinDesk • 15h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -171,6 +163,14 @@ CoinDesk • 15h ago
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
 ethereum.org • 1d ago
+
+---
+
+**[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts](https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts)**
+
+Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
+
+CoinDesk • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 9h ago
 
 ---
 
@@ -202,7 +202,7 @@ Fortune • 7h ago
 
 An October 22, 2026 comparison of Bitcoin and Ethereum post-quantum signature proposals, test deployments, mainnet support and wallet dependencies.
 
-The Defiant • 20h ago
+The Defiant • 1d ago
 
 ---
 
@@ -218,15 +218,15 @@ markets.businessinsider.com • 1d ago
 
 Spot Bitcoin ETFs drew approximately $525 million on October 21, led by IBIT and FBTC, while Ethereum ETFs ended a five-day outflow streak.
 
-Crypto Briefing • 21h ago
+Crypto Briefing • 1d ago
 
 ---
 
-**[Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash](https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash)**
+**[Lookonchain: Ethereum OG Sells 3000 ETH for 128x Return](https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-3000-eth-128x-return)**
 
-The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours.
+Lookonchain reports an Ethereum early holder sold 3000 ETH bought nine years ago at $18.83, locking in a 128x return on the $7.23 million position.
 
-Decrypt • 2d ago
+Blockchain News • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves thro
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 205 • 💬 41 • ⏱️ 1:00:00 • 2h ago
+👁️ 8K • 👍 226 • 💬 47 • ⏱️ 1:00:00 • 5h ago
 
 ---
 
@@ -250,7 +250,17 @@ What happens when AI agents start managing your money, and who will actually con
 
 📺 Crypto In America
 
-👁️ 8K • 👍 155 • 💬 40 • ⏱️ 41:22 • 2d ago
+👁️ 8K • 👍 156 • 💬 40 • ⏱️ 41:22 • 2d ago
+
+---
+
+**[Bitcoin Keeps Knocking On This Level. Here’s What Happens If It Breaks.](https://www.youtube.com/watch?v=ev6mEKNHGA8)**
+
+Bitcoin keeps knocking on the same support level. Here's the line in the sand for Bitcoin, Ethereum, Solana, Dogecoin and BNB, ...
+
+📺 Verified Investing
+
+👁️ 11K • 👍 276 • 💬 6 • ⏱️ 9:34 • 1d ago
 
 ---
 
@@ -260,17 +270,7 @@ Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midter
 
 📺 Schwab Network
 
-👁️ 4K • 👍 35 • 💬 1 • ⏱️ 6:40 • 1d ago
-
----
-
-**[Are there warning signs flashing in the Ethereum chart? 22nd October 2026](https://www.youtube.com/watch?v=4_GHmyPzLao)**
-
-ethereum #crypto #supplyanddemand #cycleanalysis For forecasting, trade planning, chart updates, video analysis Discord: ...
-
-📺 Venture
-
-👁️ 1K • 👍 45 • 💬 8 • ⏱️ 15:11 • 1d ago
+👁️ 4K • 👍 36 • 💬 1 • ⏱️ 6:40 • 2d ago
 
 ---
 
@@ -280,27 +280,7 @@ Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than
 
 📺 Crypto Nutshell
 
-👁️ 978 • 👍 52 • 💬 49 • ⏱️ 20:11 • 3h ago
-
----
-
-**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
-
-Join my team Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
-
-📺 Pushkar Raj Thakur: Stock Market Educator 📈
-
-👁️ 68K • 👍 698 • 💬 150 • ⏱️ 6:03 • 9h ago
-
----
-
-**[Ethereum in (about) a minute | Learn Crypto - Episode 4](https://www.youtube.com/watch?v=H9uvwKsfWvs)**
-
-Ethereum is the world's second largest cryptocurrency and the top platform for automated digital agreements known as “smart ...
-
-📺 E*TRADE from Morgan Stanley
-
-👁️ 169 • 👍 2 • ⏱️ 1:49 • 1d ago
+👁️ 3K • 👍 67 • 💬 41 • ⏱️ 20:11 • 7h ago
 
 ---
 
@@ -310,27 +290,47 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 174 • 💬 30 • ⏱️ 21:17 • 15h ago
+👁️ 12K • 👍 180 • 💬 31 • ⏱️ 21:17 • 18h ago
 
 ---
 
-**[Ethereum: Calm Before the Breakout?](https://www.youtube.com/watch?v=7I1qdYGm4HU)**
+**[Ethereum in (about) a minute | Learn Crypto - Episode 4](https://www.youtube.com/watch?v=H9uvwKsfWvs)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+Ethereum is the world's second largest cryptocurrency and the top platform for automated digital agreements known as “smart ...
 
-📺 More Crypto Online
+📺 E*TRADE from Morgan Stanley
 
-👁️ 9K • 👍 217 • 💬 6 • ⏱️ 7:38 • 2d ago
+👁️ 170 • 👍 2 • ⏱️ 1:49 • 1d ago
 
 ---
 
-**[Nobody Is Talking About This Ethereum Chart | Ethereum Technical Analysis Today](https://www.youtube.com/watch?v=urhiwWSd-nI)**
+**[Tom Lee: SHOCKING $22,000 Ethereum Price Prediction (Fact-Checked)](https://www.youtube.com/watch?v=0smYMt7Kjts)**
 
-Nobody is talking about this Ethereum chart. My call: Ethereum beats Bitcoin over the next 30 days. If Bitcoin outperforms ...
+Tom Lee says $22000 is his LOW target for Ethereum this cycle. I went through every number in his TOKEN2049 Singapore ...
 
-📺 Crypto Tice
+📺 JM Crypto
 
-👁️ 191 • 👍 1 • 💬 1 • ⏱️ 0:18 • 2d ago
+👁️ 397 • 👍 22 • 💬 5 • ⏱️ 25:11 • 3h ago
+
+---
+
+**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
+
+Join my team Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
+
+📺 Pushkar Raj Thakur: Stock Market Educator 📈
+
+👁️ 73K • 👍 710 • 💬 155 • ⏱️ 6:03 • 13h ago
+
+---
+
+**[SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK!](https://www.youtube.com/watch?v=kA0zzokm5Qo)**
+
+SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK! RIPPLE AND ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 155 • 💬 7 • ⏱️ 35:50 • 4h ago
 
 ---
 

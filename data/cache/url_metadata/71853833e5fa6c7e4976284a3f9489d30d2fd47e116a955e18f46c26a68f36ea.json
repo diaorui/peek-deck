@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-23T23:20:06.657495+00:00",
+  "data": {
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+    "title": "Securing our frontier model training environment",
+    "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ho5AoUkijZ1OWhqcDlVvT/84af1aa075c5e8e44d9dc93d0146c31f/new-approach-to-research-model-containment-social.png?w=1600&h=900&fit=fill",
+    "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+    "site_name": "OpenAI",
+    "author": null,
+    "keywords": null
+  }
+}
