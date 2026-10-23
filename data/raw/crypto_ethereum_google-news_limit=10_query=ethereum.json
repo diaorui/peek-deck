@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "JPMorgan Is Blocking Outside AI Agents and Taking Its Deposit Token to Ethereum. Here\u2019s What Both Moves Protect",
+      "headline": "Solayer Pay Opens Stablecoin Deposits on Solana, Ethereum, Arbitrum, BNB Chain and Base",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFlQTHdZekVtWVUzMERVYnZGZHRsVE5pcmVTd3VxbTczNFk1S2c0cWFVVmxMb09OcEdGV01HRUt5LWVySzNtLTJ6cVd4VWk4N1pQX1c2dkhiWldkR3ZyVGFXRjhOTTZjTzYwa3FtRC1tYUNBZkdBVkNzbFdENkRHMlQ3TlQwYmVyYnk5NkZhTTBPc1c3YzVGY1VHMS1XRWt0aEE?oc=5",
-      "pub_date": 1792701333.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-blocking-outside-ai-agents-203533771.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ce21c56801768dccd4df7f663fdd420f8aad4e640224fd48f3a3f38a8d08a175/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Fbc2ce7083c1803c5fc3f4fb263c03509",
-      "description": "Key Stats for JPMorgan StockCurrent Price: $335. 19Target Price (Mid): ~$440Street Target: ~$373Potential Total Return: ~31%Annualized IRR: ~7% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR\u2019s new Valuation Model (It\u2019s free)__ >>> What Happened?JPMorgan Chase (JPM) made two October moves that guard the same asset: its deposits."
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGs3Q3l2MEJjYzJyREJpZ25VYzFjc3ppY19wU21YS3Y3RGc2TVVIb0V2WnZCWmNiOFhzRUNrVFFjMDN3X3VIZTRGbHdoNmF0RW1FSWVUMXJKUTVMWmxUUHlCbVh1eUFrZ3VIZFV6eElJclcyd21OMnN4emxRSHl4TGVuSU5NMjZNellLcFpLcjI2bV84SlV3NmYtbkFJSE10bUVTYQ?oc=5",
+      "pub_date": 1792715880.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/solayer-pay-opens-stablecoin-deposits-003800445.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ed4ce92267d100f2fc457a9e3099e31126648847b72164fcd3db3a63b358c110/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fb612f1f6a981b90276aab9006ec580c5.jpg",
+      "description": "Users can now fund their Solayer Pay balance from the network their stablecoins already sit on, then spend at Visa merchants worldwidePALO ALTO, California, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Solayer, the company building a hardware-accelerated SVM blockchain for real-time finance, today announced that Solayer Pay, its crypto-native Visa card and payments app, now accepts deposits on five networks: Solana, Ethereum, Arbitrum, BNB Chain and Base. A user holding USDT on BNB Chain or USDC on Base ca"
     },
     {
       "headline": "ETH news: Ethereum\u2019s four-minute settlement plan could lower the cost of moving crypto",
@@ -69,20 +69,10 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLXo4X29JcG8yTjZzQ3JoUEwzbXRkY1dKQ0Y4WDhNTWY4ZHRJRDk1Vkg2eE9MaGRKYWNEYjR2dFJFME81SWdMdmFBejJhdk9qWjBCMWQ4dmx5dzJkV01zQzhONzJnR2s1?oc=5",
-      "pub_date": 1792676099.0,
+      "pub_date": 1792692299.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-10-22-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-22.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2I1SElZb0xsTHYyZzdlYlk4czR5c1U2emQwVzd1Wnp2cmJ0VnpUNEE0TWN2dlZOaXJuUm5UUDhTWVdrcklvYWphSE1XTm41emV6TmNiRld3ZjhnY2doU0NhQW1VUUh1UGhDRHVzbWsxdUFPUVFReEt5eTJfSDZRa3gyNXFzdjM1N1dvSE5LVXRfMGtsNWF2bzVPTlVFRTBwYUE?oc=5",
-      "pub_date": 1792534564.0,
-      "article_url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png",
-      "description": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network."
     },
     {
       "headline": "Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum\u2019s Four-Minute Settlement Plan Revives a $12,000 ETH Target",
@@ -93,6 +83,16 @@
       "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857",
       "image": "https://ml.globenewswire.com/Resource/Download/758373a9-848c-4ec1-95de-0414e0d5d987/remittix.jpg",
       "description": "Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ..."
+    },
+    {
+      "headline": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2I1SElZb0xsTHYyZzdlYlk4czR5c1U2emQwVzd1Wnp2cmJ0VnpUNEE0TWN2dlZOaXJuUm5UUDhTWVdrcklvYWphSE1XTm41emV6TmNiRld3ZjhnY2doU0NhQW1VUUh1UGhDRHVzbWsxdUFPUVFReEt5eTJfSDZRa3gyNXFzdjM1N1dvSE5LVXRfMGtsNWF2bzVPTlVFRTBwYUE?oc=5",
+      "pub_date": 1792534564.0,
+      "article_url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png",
+      "description": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network."
     },
     {
       "headline": "Ethereum delays Glamsterdam Hoodi upgrade over EIP-8037 review",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T22:37:45.708654+00:00"
+  "fetched_at": "2026-10-23T01:16:21.879943+00:00"
 }

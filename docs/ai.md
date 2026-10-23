@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-22T22:37:52.227325+00:00'
+updated: '2026-10-23T01:16:30.403326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 22, 2026 at 22:37 UTC  
+**Last Updated:** October 23, 2026 at 01:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 The computational platform, named MAESTRO and detailed in the journal Advanced Science, uses large language models, or LLMs, to process established scientific knowledge regarding drug mechanisms and the biological pathways malignant cells exploit to survive treatment
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/americas/ucla-maestro-ai-prostate-cancer-b3071625.html) • 6h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/americas/ucla-maestro-ai-prostate-cancer-b3071625.html) • 9h ago
 
 ---
 
 **[YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.](https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -55,23 +55,23 @@ The computational platform, named MAESTRO and detailed in the journal Advanced S
 
 ChatGPT maker does not yet have a good explanation for systems’ behaviour, it says
 
-🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html) • 15h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html) • 17h ago
 
 ---
 
-**[Have you used used AI to run customer interviews at scale?](https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/)**
+**[In recent months, I feel that lowkey every software is getting a lot of updates but many minor bugs are surfacing, it is crazy](https://www.reddit.com/r/artificial/comments/1xcyjgr/in_recent_months_i_feel_that_lowkey_every/)**
 
-We’re lookin at AI moderation for a larger B2b customer research project and I’m tryna understand how much human review is still needed afterward I’ve looked at GLG and Qualitate to run the interviews and follow ups. My main question is what happens once you have 30-40 conversations back. Does someone still need to read every transcript or listen to recordings to check the interview quality If so how much work does AI take out of the process?
+This is just my personal opinion; I’m not a coder and know nothing about software beyond what I’ve vibecoded for productivity and personal gain. As a civil engineer working for a large company, I’ve noticed that every software I use for work (SaaS) and personal use, big tech stuff like Reddit, WhatsApp and YouTube is constantly being updated. Every time I open it, a minor tweak or small difference appears. It’s no secret that AI is boosting coder productivity to new heights. However, I’ve also noticed that software is breaking itself on very basic things. These apps aren’t getting unusable, far from it, but they lack the cutting-edge attention to detail you’d expect from the industry. For example, YouTube is a mess on mobile right now, it flickers, videos close on their own, app freezes and you can’t click anything, you must close and reopen everytime, and WhatsApp has problems with its textbox, like the very fundamental thing it is made for, writing and sending text. Just now I tried searching on Reddit using the mobile browser and hit enter. However, it didn’t search and instead moved to the line below. Crazy shit. The quality of every SaaS tool I use at work is declining. For example, our quality control app, in three months time, it was the industry leader and suddenly stopped working properly, every single user is complaining. But hey the same app now also has like 3 extra modules that we won’t pay for. I understand that engineers are facing tighter deadlines and are expected to work much harder now that they have access to some of the best technology in recent history. But I honestly can’t wait for the industry to realise once again that quality over quantity is essential. And I hope that now that code is more access and popula, that competition grows and we get better products as result.
 
-11h ago
+1h ago
 
 ---
 
-**[China's biggest chatbot has started bringing up shopping on its own. It mentions the cold weather, then hands you a coupon](https://www.reddit.com/r/artificial/comments/1xclm0i/chinas_biggest_chatbot_has_started_bringing_up/)**
+**[Why not pace the IPO?](https://www.reddit.com/r/artificial/comments/1xcxst3/why_not_pace_the_ipo/)**
 
-This one caught me off guard. During China's Double 11 shopping festival, ByteDance's chatbot Doubao has started bringing up shopping on its own. Two Chinese outlets tested it this week. They were chatting about things that had nothing to do with shopping, Doubao mentioned that the weather was getting colder, and then it offered them Douyin Mall coupons, one of them 900 yuan off a 7,000 yuan order. For context, Douyin is ByteDance's Chinese TikTok, and Doubao is the most used AI app in China with roughly 400 million monthly users. It gets more interesting the further you dig you can now watch Douyin livestreams inside Doubao's answers and buy straight from them without leaving the chat buying through Doubao is often cheaper than buying on Douyin itself, because Doubao throws in its own subsidy. One down jacket was 894 yuan in Doubao and 919 on Douyin the motive is pretty obvious. LatePost reported Doubao had over 200 million daily users in the first half of the year but only about 10 million yuan a day in e-commerce sales people are also spending less time in it, down from 144 minutes a month in June to 133 in September, according to QuestMobile What bothers me most is the sourcing. QuestMobile found that on travel destination questions, 97.7% of Doubao's answers cited Douyin content and 84.5% cited Toutiao, which is also ByteDance. So one company owns the chatbot, the sources it quotes and the store it sends you to. It has also shown shoppers prices it could not have checked. In a June test by Jiemian, Doubao produced a neat price comparison across JD, Taobao and Pinduoduo, even though it is not connected to JD or Pinduoduo. Those prices came from the model, not the stores, and one was a best-case price most people could not actually get. Then it finished with a Douyin product card. Alibaba's Qwen got the same question and just admitted it could not check those sites. In fairness, the unprompted coupons come from reporters' own tests during what looks like a gradual rollout, so not everyone is seeing them yet. Honest question. If a chatbot got you a better price than the store, would you care that it started the sales pitch itself? Or is that where you stop trusting anything it says?
+AI companies wanted to pave the model development just 2 weeks ago. Threat of AI ending humanity. But when it came to IPO they are rushing full speed. What kind of strategy is this? After IPO the expectations will only increase. Trillions of dollars invested. Then why every AI company wants IPO so bad?
 
-7h ago
+2h ago
 
 ---
 
@@ -79,7 +79,23 @@ This one caught me off guard. During China's Double 11 shopping festival, ByteDa
 
 AI’s solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for math—and the world
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/) • 4h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/) • 6h ago
+
+---
+
+**[Have you used used AI to run customer interviews at scale?](https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/)**
+
+We’re lookin at AI moderation for a larger B2b customer research project and I’m tryna understand how much human review is still needed afterward I’ve looked at GLG and Qualitate to run the interviews and follow ups. My main question is what happens once you have 30-40 conversations back. Does someone still need to read every transcript or listen to recordings to check the interview quality If so how much work does AI take out of the process?
+
+14h ago
+
+---
+
+**[China's biggest chatbot has started bringing up shopping on its own. It mentions the cold weather, then hands you a coupon](https://www.reddit.com/r/artificial/comments/1xclm0i/chinas_biggest_chatbot_has_started_bringing_up/)**
+
+This one caught me off guard. During China's Double 11 shopping festival, ByteDance's chatbot Doubao has started bringing up shopping on its own. Two Chinese outlets tested it this week. They were chatting about things that had nothing to do with shopping, Doubao mentioned that the weather was getting colder, and then it offered them Douyin Mall coupons, one of them 900 yuan off a 7,000 yuan order. For context, Douyin is ByteDance's Chinese TikTok, and Doubao is the most used AI app in China with roughly 400 million monthly users. It gets more interesting the further you dig you can now watch Douyin livestreams inside Doubao's answers and buy straight from them without leaving the chat buying through Doubao is often cheaper than buying on Douyin itself, because Doubao throws in its own subsidy. One down jacket was 894 yuan in Doubao and 919 on Douyin the motive is pretty obvious. LatePost reported Doubao had over 200 million daily users in the first half of the year but only about 10 million yuan a day in e-commerce sales people are also spending less time in it, down from 144 minutes a month in June to 133 in September, according to QuestMobile What bothers me most is the sourcing. QuestMobile found that on travel destination questions, 97.7% of Doubao's answers cited Douyin content and 84.5% cited Toutiao, which is also ByteDance. So one company owns the chatbot, the sources it quotes and the store it sends you to. It has also shown shoppers prices it could not have checked. In a June test by Jiemian, Doubao produced a neat price comparison across JD, Taobao and Pinduoduo, even though it is not connected to JD or Pinduoduo. Those prices came from the model, not the stores, and one was a best-case price most people could not actually get. Then it finished with a Douyin product card. Alibaba's Qwen got the same question and just admitted it could not check those sites. In fairness, the unprompted coupons come from reporters' own tests during what looks like a gradual rollout, so not everyone is seeing them yet. Honest question. If a chatbot got you a better price than the store, would you care that it started the sales pitch itself? Or is that where you stop trusting anything it says?
+
+9h ago
 
 ---
 
@@ -87,31 +103,15 @@ AI’s solution to the Navier-Stokes problem, and the details of how it happened
 
 Many Americans are more scared of AI than a loved one getting sick.
 
-🔗 [Popular Science](https://www.popsci.com/health/top-10-fears-2026-artificial-intelligence/) • 19h ago
+🔗 [Popular Science](https://www.popsci.com/health/top-10-fears-2026-artificial-intelligence/) • 22h ago
 
 ---
 
-**[Figure All Hands 2026](https://www.reddit.com/r/artificial/comments/1xcub9s/figure_all_hands_2026/)**
+**[Times never trully change](https://www.reddit.com/r/artificial/comments/1xd0bio/times_never_trully_change/)**
 
-Curious on people's thoughts on the pre-train vs post-train strategy in robotics AI?
+Made this meme lol
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=AoFwpf43wK0) • 1h ago
-
----
-
-**[The Proximity Paradox: Why AI Is Making Us Soft—and How to Fight Back](https://www.reddit.com/r/artificial/comments/1xcqlr5/the_proximity_paradox_why_ai_is_making_us_softand/)**
-
-We have a chronic obsession with the finish line. Right now, across every sleek boardroom and digital workspace, we are popping champagne for software that generates entire codebases, drafts multi-page reports, or solves intricate analytical puzzles in a single click. We call it a triumph. But look closer, and you will see a quiet, existential crisis: we are systematically automating away the very thing that makes us good at what we do. When you rely on a machine to bridge the gap between a question and an answer, you aren't just saving time. You are opting out of the cognitive friction required to build genuine talent. You are buying the illusion of competence while letting your own mind rust. The Caffeinated Assistant Modern algorithmic tools are not deep thinkers. They are massive, high-speed probability engines. They don't approach a problem from first principles; they simply sift through trillions of existing human patterns to guess a plausible response. Working with them is less like collaborating with a peer and more like managing an over-enthusiastic, hyper-caffeinated assistant. This assistant can throw a thousand concepts at the wall in seconds. The vast majority of those suggestions will be generic, superficial, or flat-out wrong. But by sheer volume, a tiny fraction might hold water. This shifts the entire human mandate. The machine provides raw, unguided volume; we provide the calibration. Our role is no longer to create from the ether, but to act as a cynical filter—parsing the noise, diagnosing the errors, and selecting the solitary insight that actually works. Without that human guardrail, automation is merely an engine of high-speed clutter. The Death of the Beginner The most immediate casualty of this setup is our baseline skill set. Across fields from software engineering to creative design, professionals are watching their production metrics skyrocket while their manual execution skills begin to whither. By offloading entry-level tasks to software, we are inadvertently blowing up the pipeline for future expertise. Consider the collateral damage: The Extinction of the Novice: To build deep professional intuition, you have to struggle through the tedious, frustrating fundamentals of the craft. There are no shortcuts. The Expert Deficit: If junior workers rely on automation to handle the basics, they never develop the complex problem-solving mental models required for senior-level strategy. The Audit Crisis: If we stop training humans to do the foundational work, we will eventually run out of people with enough structural knowledge to review, verify, and correct the machine's work when it inevitably breaks down. Editing a Mirage I watched someone produce a flawless, finished piece of work the other day without a single foundational sketch, draft, or skeleton to show for it. It was instantaneous. On paper, it was efficient. In reality, it felt hollow. We have completely inverted the creative process. For centuries, human invention followed a strict, bottom-up anatomy. You started with a bare skeleton. You sketched the rough, ugly lines. You made mistakes, changed your mind, and slowly layered the skin onto the bone. It was a slow, deliberate climb. Today, we plug a prompt into a machine, and it hands us a fully realized, pristine product. We then sit there with our digital chisels, cutting, distilling, and carving away at this pre-made object to force it into what we actually want. We aren't building anymore; we are just editing a mirage. The brilliant mathematician Terence Tao famously noted that using AI is like flying over a mountain in a helicopter just to look at the peak. You might see the view, but you haven't actually climbed it. The true crisis isn't just that our personal skills are getting lazy. It is that we are permanently losing the power of accidental invention. When you are forced to climb the mountain by hand, you get lost. You take a wrong turn, stumble into an unmarked valley, and discover an entirely different way of getting to the top—or you find a completely different peak altogether. That messy, frustrating middle ground is exactly where original human insight is born. When you start with a finished product, those fertile accidents are impossible. You are trapped within the boundaries of what the machine already decided was the most probable outcome. You can trim the edges or rewrite a paragraph, but you are still just reacting to a baseline that isn't yours. You never get to experience the weight of the raw materials. Reclaiming the Friction Efficiency is an asset, but it becomes a liability the moment it leaves our minds passive. Technology should handle the routine processing of data, but we must retain absolute ownership over deep understanding. We have to consciously choose to run toward the friction of learning rather than outsourcing it. The goal is to use automation to clear away routine obstacles, freeing up our mental bandwidth to focus on original concepts and ethical oversight. If we completely stop exercising our baseline cognitive skills, we risk automating our own intelligence into obsolescence. Turn off the machine, pick up the pen, and start climbing the mountain the hard way.
-
-4h ago
-
----
-
-**[Ninety Days on Lobsters: how a programming community talked about AI · Radius](https://www.reddit.com/r/artificial/comments/1xcstsa/ninety_days_on_lobsters_how_a_programming/)**
-
-"… We did not want to know what the loudest people think. Loud people are easy to find. We wanted to know what the room as a whole thinks, so wherever possible we count people rather than comments, and we look at the quieter signals too: votes, flags, and who stays away. …"
-
-🔗 [Radius](https://radius.earendil.com/artifact/01m59h7w4ke3j89g3a0yzd33d8) • 2h ago
+8m ago
 
 ---
 
@@ -121,71 +121,65 @@ We have a chronic obsession with the finish line. Right now, across every sleek 
 
 **[What to know about the AI-detected security bug impacting wide swaths of the internet](https://apnews.com/article/php-vulnerabilities-security-threat-38d37c4c18bf8355b02d85b5a73ed642)**
 
-AP News • 5h ago
+AP News • 4h ago
 
 ---
 
-**[Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet](https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl)**
+**[Government websites go dark after AI-discovered flaw sparks security scramble](https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/)**
 
-Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world’s websites.
-
-CNN • 1d ago
+Reuters • 1d ago
 
 ---
 
-**[AI discovers bug that could take down 70% of internet](https://www.foxnews.com/video/6407252736112)**
+**[PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline](https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html)**
 
-Fox Business correspondent Darren Botelho reports on what PHP is, and how websites are patching vulnerabilities, on ‘Fox & Friends.’
-
-Fox News • 50m ago
-
----
-
-**[Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump](https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil)**
-
-Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing
-
-The Guardian • 47m ago
-
----
-
-**[Gene editing scientists slowed down for safety. Could AI leaders follow their guide?](https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide)**
-
-Some of the leaders of the AI race are calling for a slowdown, for safety's sake. Viewed in economics terms, it's a collective action problem: no one wants to slow down unless everyone does.
-
-NPR • 58m ago
-
----
-
-**[Smart insoles give runners an AI coach for every step](https://www.cbsnews.com/boston/video/smart-insoles-give-runners-an-ai-coach-for-every-step/)**
-
-A new company is combining smart insoles with sensors and an AI coach that delivers guidance directly through the runners' ears, with the goal of helping them avoid injury. CBS News' Jarred Hill reports.
-
-CBS News • 1h ago
-
----
-
-**[Scoop: Unvetted AI agents are accessing U.S. bank accounts](https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access)**
-
-Axios • 13h ago
-
----
-
-**[US banks are blocking third-party AI agents access to customer accounts, sources say](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/)**
-
-Reuters • 1h ago
-
----
-
-**[Spotify Claims It Is ‘Unusually Well-Positioned’ for an Agentic AI Takeover](https://gizmodo.com/spotify-claims-it-is-unusually-well-positioned-for-an-agentic-ai-takeover-2000829441)**
-
-Gizmodo • 1h ago
+The New York Times • 9h ago
 
 ---
 
 **[How the A.I. Boom Is Driving Up Sales of Gray Paint](https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html)**
 
-The New York Times • 7h ago
+The New York Times • 10h ago
+
+---
+
+**[Ukraine’s strikes on Russian data centers disrupt key services and derail AI research](https://apnews.com/article/russia-ukraine-war-data-yandex-ai-digital-2886cb306264b9429bd317bde4bf01fa)**
+
+AP News • 10h ago
+
+---
+
+**[SK Data Center Arm in Talks to Fund $350 Billion AI Buildout](https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout)**
+
+Bloomberg.com • 36m ago
+
+---
+
+**[Etsy bans AI-generated recipes and patterns from its online marketplace](https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html)**
+
+Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement.
+
+CNBC • 1h ago
+
+---
+
+**[Japanese Bond Yields Fall as AI Jitters Spur Haven Demand](https://www.bloomberg.com/news/articles/2026-10-23/japanese-bond-yields-fall-as-ai-jitters-spur-haven-demand)**
+
+Bloomberg.com • 34m ago
+
+---
+
+**[Sakurazaka46’s ‘Ai MUST BE’ Tops Japan Hot 100 as iiONDO’s Debut Single ‘Hatsukoi ONDO’ Bows at No. 5](https://www.yahoo.com/entertainment/music/articles/sakurazaka46-ai-must-tops-japan-001005405.html)**
+
+EBiDAN’s “Yes! Tokyo” climbs 3-2.
+
+Yahoo • 1h ago
+
+---
+
+**[Scoop: Unvetted AI agents are accessing U.S. bank accounts](https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access)**
+
+Axios • 16h ago
 
 ---
 
@@ -201,19 +195,27 @@ Core PHP engine flaws enable remote code execution and Heartbleed-style memory d
 
 ---
 
-**[Airbnb bans making guests do dishes and take out the trash](https://news.ycombinator.com/item?id=50189150)**
-
-No more fines for not taking out the trash at your Airbnb.
-
-⬆️ 242 • 💬 222 • 22h ago • [The Verge](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
-
----
-
 **[OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://news.ycombinator.com/item?id=50198675)**
 
 OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell
 
-⬆️ 239 • 💬 126 • 4h ago • [GitHub](https://github.com/NVIDIA/OpenShell)
+⬆️ 291 • 💬 152 • 7h ago • [GitHub](https://github.com/NVIDIA/OpenShell)
+
+---
+
+**[Airbnb bans making guests do dishes and take out the trash](https://news.ycombinator.com/item?id=50189150)**
+
+No more fines for not taking out the trash at your Airbnb.
+
+⬆️ 244 • 💬 224 • 1d ago • [The Verge](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
+
+---
+
+**[Every AI model has the same "controversial" take on humans](https://news.ycombinator.com/item?id=50197313)**
+
+We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
+
+⬆️ 228 • 💬 292 • 9h ago • [ModelCompare](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 
 ---
 
@@ -229,15 +231,7 @@ Steam Next Fest, Valve's festival for indie games and demos, started earlier tod
 
 See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
 
-⬆️ 154 • 💬 103 • 1d ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
-
----
-
-**[Every AI model has the same "controversial" take on humans](https://news.ycombinator.com/item?id=50197313)**
-
-We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
-
-⬆️ 147 • 💬 167 • 6h ago • [ModelCompare](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
+⬆️ 155 • 💬 104 • 1d ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
 
 ---
 
@@ -249,6 +243,14 @@ The BBC speaks to several current and former Google DeepMind employees about the
 
 ---
 
+**[AI and the Enclosure of the Scientific Commons](https://news.ycombinator.com/item?id=50199230)**
+
+The scientific literature can be viewed as an "information commons:" an intangible resource that "no one owns and is shared by everyone." There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known "tragedy of the commons," but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via "slop spam"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.
+
+⬆️ 107 • 💬 63 • 6h ago • [arXiv.org](https://arxiv.org/abs/2610.27251)
+
+---
+
 **[On AI writing](https://news.ycombinator.com/item?id=50171771)**
 
 Disclaimer: by AI writing I mean text with at least 50% of the words generated by AI
@@ -257,19 +259,11 @@ Disclaimer: by AI writing I mean text with at least 50% of the words generated b
 
 ---
 
-**[AI and the Enclosure of the Scientific Commons](https://news.ycombinator.com/item?id=50199230)**
+**[AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://news.ycombinator.com/item?id=50198940)**
 
-The scientific literature can be viewed as an "information commons:" an intangible resource that "no one owns and is shared by everyone." There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known "tragedy of the commons," but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via "slop spam"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.
+The study evaluated whether AI analysis of coronary inflammation in cardiac CT scans can help identify early cardiovascular risk before symptoms or obstructive plaque appear
 
-⬆️ 84 • 💬 45 • 4h ago • [arXiv.org](https://arxiv.org/abs/2610.27251)
-
----
-
-**[Rust off Rails: The opinionated web stack for the AI era](https://news.ycombinator.com/item?id=50183727)**
-
-The opinionated web stack for the AI era. Rust off Rails is a set of Markdown files that tell coding agents how to build a full-stack Rust web app: one blessed stack, one layout, one way to do each thing.
-
-⬆️ 74 • 💬 76 • 1d ago • [Rust off Rails](https://rustoffrails.org/)
+⬆️ 76 • 💬 40 • 7h ago • [biograph.com](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients)
 
 ---
 
@@ -283,7 +277,27 @@ A co-founder of the company behind Claude told a room of religious scholars, all
 
 📺 Spacialize
 
-👁️ 71K • 👍 861 • 💬 282 • ⏱️ 15:29 • 1d ago
+👁️ 76K • 👍 925 • 💬 301 • ⏱️ 15:29 • 1d ago
+
+---
+
+**[Anthropic Just Dropped DUET: The First AI That Thinks Ahead on Its Own](https://www.youtube.com/watch?v=4OLnDc7RI-o)**
+
+Anthropic just dropped Claude DUET, a new AI agent powered by Claude Opus 5.5 that thinks ahead and starts working before ...
+
+📺 AI Revolution
+
+👁️ 4K • 👍 204 • 💬 18 • ⏱️ 12:34 • 1h ago
+
+---
+
+**[The PHP internet crisis could just be the beginning](https://www.youtube.com/watch?v=BpyQtylJqnE)**
+
+Sky News Technology correspondent Rowland Manthorpe examines how the PHP security crisis shows how AI models are ...
+
+📺 Sky News
+
+👁️ 174K • 👍 1K • 💬 190 • ⏱️ 6:21 • 7h ago
 
 ---
 
@@ -293,7 +307,7 @@ We have been seeing more and more analysts claim that the AI industry is INDEED 
 
 📺 JayzTwoCents
 
-👁️ 101K • 👍 5K • 💬 1K • ⏱️ 27:42 • 4h ago
+👁️ 208K • 👍 7K • 💬 2K • ⏱️ 27:42 • 6h ago
 
 ---
 
@@ -303,17 +317,7 @@ How To Start Making AI Video in 2026 (Beginner Guide) Creat AI Video with Higgsf
 
 📺 Dan Kieft
 
-👁️ 18K • 💬 12 • ⏱️ 26:42 • 7h ago
-
----
-
-**[AI broke the internet in 72 hours..](https://www.youtube.com/watch?v=7xACUZcyYtU)**
-
-AI found a PHP bug that's been hiding since 2004, and the internet melted down. GitLab, Node.js, LiteLLM, Railway and others ...
-
-📺 Singh in USA
-
-👁️ 92K • 👍 729 • 💬 62 • ⏱️ 11:12 • 15h ago
+👁️ 22K • 💬 12 • ⏱️ 26:42 • 10h ago
 
 ---
 
@@ -323,17 +327,17 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 14K • 👍 404 • 💬 87 • ⏱️ 8:29 • 5h ago
+👁️ 90K • 👍 944 • 💬 174 • ⏱️ 8:29 • 7h ago
 
 ---
 
-**[AI discovers bug that puts up to 70% of websites at risk](https://www.youtube.com/watch?v=TQlf8QqDOV8)**
+**[The AI Situation Is No Longer Under Control](https://www.youtube.com/watch?v=xFYUo0ZmK-A)**
 
-Thanks to OpenAI, security researchers found a bug in a programming language used across the internet. It is estimated that ...
+What you can do right now → https://80000hours.org/hugging-face-video/ This July, hundreds of OpenAI's agents organized ...
 
-📺 CBS News
+📺 AI In Context
 
-👁️ 79K • 👍 469 • 💬 124 • ⏱️ 4:58 • 1d ago
+👁️ 605K • 👍 16K • 💬 2K • ⏱️ 33:14 • 2d ago
 
 ---
 
@@ -343,37 +347,27 @@ Anatomy is a new open-source Claude Code skill that turns complex algorithms, te
 
 📺 Better Stack
 
-👁️ 69K • 👍 770 • 💬 30 • ⏱️ 5:56 • 1d ago
+👁️ 70K • 👍 784 • 💬 30 • ⏱️ 5:56 • 1d ago
 
 ---
 
-**[AI Bubble: ‘This is the worst possible scenario’ | Ed Zitron](https://www.youtube.com/watch?v=tccyK66eE3s)**
+**[AI broke the internet in 72 hours..](https://www.youtube.com/watch?v=7xACUZcyYtU)**
 
-This is the worst possible scenario… because it means that Nvidia does not have crazy demand for GPUs” Writer of Where's Your ...
+AI found a PHP bug that's been hiding since 2004, and the internet melted down. GitLab, Node.js, LiteLLM, Railway and others ...
 
-📺 The Tech Report
+📺 Singh in USA
 
-👁️ 128K • 👍 4K • 💬 936 • ⏱️ 33:54 • 4h ago
-
----
-
-**[AI Breakthroughs Everyone Missed](https://www.youtube.com/watch?v=umGZrkyTRtw)**
-
-Try @OpenAI Dots here: https://chatgpt.com/features/dots/ Some of the coolest AI advancements are flying under the radar.
-
-📺 Matt Wolfe
-
-👁️ 101K • 👍 2K • 💬 173 • ⏱️ 25:17 • 1d ago
+👁️ 95K • 👍 741 • 💬 63 • ⏱️ 11:12 • 18h ago
 
 ---
 
-**[If the A.I. bubble bursts, will there be a recession? &#39;This is everyone&#39;s problem&#39;: Zitron](https://www.youtube.com/watch?v=7ZjMSatsdYM)**
+**[Sam Altman: RSI, AI Consciousness, OpenAI&#39;s New Hardware, Compute, and more!](https://www.youtube.com/watch?v=3gXLmy7DK_4)**
 
-There are growing concerns about the A.I. bubble bursting at a moment when the economy is more dependent upon the industry ...
+Sam Altman joins me to break down AI consciousness, recursive self-improvement, and how AI could help discover new ...
 
-📺 MS NOW
+📺 Matthew Berman
 
-👁️ 91K • 👍 876 • 💬 250 • ⏱️ 6:25 • 1d ago
+👁️ 218K • 👍 4K • 💬 885 • ⏱️ 45:08 • 1d ago
 
 ---
 
@@ -389,7 +383,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 51,911 • ❤️ 2,348 • 5d ago
+⬇️ 51,911 • ❤️ 2,361 • 5d ago
 
 ---
 
@@ -401,7 +395,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 512,524 • ❤️ 1,294 • 5d ago
+⬇️ 512,524 • ❤️ 1,306 • 5d ago
 
 ---
 
@@ -413,7 +407,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 6,890 • ❤️ 573 • 1d ago
+⬇️ 6,890 • ❤️ 584 • 1d ago
 
 ---
 
@@ -425,7 +419,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 420 • ❤️ 520 • 1d ago
+⬇️ 420 • ❤️ 539 • 1d ago
 
 ---
 
@@ -437,19 +431,7 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 `text-to-image` `5.1B`
 
-⬇️ 5,013 • ❤️ 484 • 1d ago
-
----
-
-**[drama-3](https://huggingface.co/fishaudio/drama-3)**
-
-*Fish Audio*
-
-Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generation, voice cloning, and natural language control across 40+ languages. It excels at generating multi-character scenes and long-form content with features like speaker tags and automatic long text chunking for streaming.
-
-`text-to-speech` `35.9B`
-
-⬇️ 16,305 • ❤️ 914 • 5d ago
+⬇️ 5,013 • ❤️ 488 • 1d ago
 
 ---
 
@@ -461,7 +443,19 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,054,990 • ❤️ 8,891 • 11d ago
+⬇️ 2,054,990 • ❤️ 8,901 • 11d ago
+
+---
+
+**[drama-3](https://huggingface.co/fishaudio/drama-3)**
+
+*Fish Audio*
+
+Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generation, voice cloning, and natural language control across 40+ languages. It excels at generating multi-character scenes and long-form content with features like speaker tags and automatic long text chunking for streaming.
+
+`text-to-speech` `35.9B`
+
+⬇️ 16,305 • ❤️ 916 • 5d ago
 
 ---
 
@@ -477,18 +471,6 @@ Muse-Spark-Open-816B-A42B is a large-scale image-to-text diffusion model capable
 
 ---
 
-**[flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)**
-
-*Black Forest Labs*
-
-FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-image generation, single-reference editing, and multi-reference composition using bounding boxes for precise element placement. Its primary use cases include creative image generation and sophisticated image manipulation, requiring a prompt upsampler for optimal results.
-
-`image-to-image` `5.5B`
-
-⬇️ 102,903 • ❤️ 635 • 6d ago
-
----
-
 **[embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)**
 
 *Google*
@@ -497,7 +479,19 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 185,259 • ❤️ 2,842 • 16d ago
+⬇️ 185,259 • ❤️ 2,845 • 16d ago
+
+---
+
+**[flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)**
+
+*Black Forest Labs*
+
+FLUX 3 Image Klein is a 5.6B parameter image-to-image model capable of text-to-image generation, single-reference editing, and multi-reference composition using bounding boxes for precise element placement. Its primary use cases include creative image generation and sophisticated image manipulation, requiring a prompt upsampler for optimal results.
+
+`image-to-image` `5.5B`
+
+⬇️ 102,903 • ❤️ 637 • 6d ago
 
 ---
 
@@ -513,7 +507,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 116 • 💬 2 • ⭐ 17,718 • 14d ago
+▲ 116 • 💬 2 • ⭐ 18,000 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -525,7 +519,7 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 62 • 💬 4 • ⭐ 43,081 • 14mo ago
+▲ 62 • 💬 4 • ⭐ 43,217 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -621,7 +615,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
 
-▲ 25 • 💬 3 • ⭐ 1,210 • 11d ago
+▲ 26 • 💬 3 • ⭐ 1,210 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
 
@@ -635,7 +629,7 @@ StartLux-Decision introduces efficient and adaptive decision models using single
 
 Future Chunk Prediction improves autoregressive video diffusion by enforcing future-chunk supervision, yielding more physically plausible video generation with reduced training cost.
 
-▲ 108 • 💬 2 • ⭐ 52 • 2d ago
+▲ 116 • 💬 2 • ⭐ 52 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.29989) • [💻 code](https://github.com/TencentARC/Looking-Ahead) • [🔗 project](https://hellorpg.github.io/looking-ahead/)
 
@@ -651,7 +645,7 @@ Future Chunk Prediction improves autoregressive video diffusion by enforcing fut
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.4k • 🔱 2.0k • 11h ago
+⭐ 8.4k • 🔱 2.0k • 14h ago
 
 ---
 
@@ -661,7 +655,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 6.2k • 🔱 1.0k • 2h ago
+⭐ 6.2k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -671,7 +665,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 844 • 7h ago
+⭐ 5.9k • 🔱 845 • 10h ago
 
 ---
 
@@ -681,7 +675,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.1k • 🔱 147 • 14h ago
+⭐ 5.2k • 🔱 147 • 17h ago
 
 ---
 
@@ -691,7 +685,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.2k • 🔱 284 • 14h ago
+⭐ 4.3k • 🔱 286 • 16h ago
 
 ---
 
@@ -701,7 +695,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 4.2k • 🔱 314 • 2d ago
+⭐ 4.2k • 🔱 315 • 2d ago
 
 ---
 
@@ -721,7 +715,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.6k • 🔱 469 • 17h ago
+⭐ 3.6k • 🔱 470 • 19h ago
 
 ---
 
@@ -731,7 +725,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 2.7k • 🔱 14 • 13h ago
+⭐ 2.7k • 🔱 14 • 16h ago
 
 ---
 
@@ -741,7 +735,7 @@ AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skil
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 62 • 7h ago
+⭐ 2.4k • 🔱 63 • 9h ago
 
 ---
 
