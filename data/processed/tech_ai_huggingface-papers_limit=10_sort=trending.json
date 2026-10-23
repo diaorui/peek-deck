@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 117,
+      "upvotes": 118,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2610.23374",
       "arxiv_url": "https://arxiv.org/abs/2610.23374",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
-      "upvotes": 95,
+      "upvotes": 96,
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2610.28698",
       "arxiv_url": "https://arxiv.org/abs/2610.28698",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
-      "upvotes": 58,
+      "upvotes": 60,
       "num_comments": 1,
       "published_at": "2026-10-19T20:00:00.000Z",
       "github_repo": "https://github.com/THUSI-Lab/GameScaling",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-23T16:40:01.532987+00:00"
+  "fetched_at": "2026-10-23T20:13:11.509456+00:00"
 }
