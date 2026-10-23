@@ -69,8 +69,8 @@
       "hf_url": "https://huggingface.co/papers/2610.23374",
       "arxiv_url": "https://arxiv.org/abs/2610.23374",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
-      "upvotes": 94,
-      "num_comments": 3,
+      "upvotes": 95,
+      "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
       "github_stars": 1481,
@@ -92,7 +92,7 @@
       "num_comments": 3,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 2302,
+      "github_stars": 2369,
       "project_page": "https://nanomuse.cn/"
     },
     {
@@ -113,6 +113,25 @@
       "github_repo": "https://github.com/Edge0-AI/edge0",
       "github_stars": 6438,
       "project_page": null
+    },
+    {
+      "id": "2610.17309",
+      "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
+      "authors": "Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)",
+      "organization_name": "startlux-models",
+      "organization_fullname": "StartLux",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64d33626465b6039259b9c72/6xsdrTfPBTVyKxaNDVi16.png",
+      "summary": "We introduce StartLux-Decision, decision models from 0.8B to 27B parameters that combine efficient single-pass prediction with adaptive, confidence-guided reasoning. The Instant models use bidirectional attention in full-attention layers to improve decision accuracy while keeping single-pass inference. The AutoThink models invoke explicit reasoning for uncertain decisions and answer confident cases directly. A three-stage training pipeline establishes shared decision capabilities, specializes the two variants, and equips AutoThink with reasoning through reasoning supervision and reinforcement learning. We introduce Reinforcement Learning for Calibrated Deliberative Decisions (RLCD^2), which uses a frozen model and proper scoring rules to reward improvements in decision probability quality and applies a soft penalty to overlong reasoning traces. RLCD^2 raises the share of reasoning traces that terminate within the generation limit by up to 48 percentage points and cuts average reasoning length by up to 65%, while largely preserving decision accuracy. On the public subset of Decision Index 0.3, the Instant models outperform the strongest evaluated comparable-scale open-weight decision models by 7.4-16.9 points, and the 27B AutoThink model reaches 73.4. We also introduce DecisionPivot, a programmatically verifiable benchmark of computational decisions built from contrast pairs that differ in a single answer-changing detail. On DecisionPivot, AutoThink outperforms its Instant counterparts by 11.5-18.4 points in pair accuracy and leads among evaluated systems. The models run on vLLM, llama.cpp and MLX, with quantized variants for lower memory use.",
+      "ai_summary": "StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD\u00b2 reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.",
+      "hf_url": "https://huggingface.co/papers/2610.17309",
+      "arxiv_url": "https://arxiv.org/abs/2610.17309",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17309.png",
+      "upvotes": 79,
+      "num_comments": 4,
+      "published_at": "2026-10-11T20:00:00.000Z",
+      "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
+      "github_stars": 1372,
+      "project_page": "https://decision.startlux.com/"
     },
     {
       "id": "2610.14162",
@@ -145,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2610.28698",
       "arxiv_url": "https://arxiv.org/abs/2610.28698",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
-      "upvotes": 53,
+      "upvotes": 56,
       "num_comments": 1,
       "published_at": "2026-10-19T20:00:00.000Z",
       "github_repo": "https://github.com/THUSI-Lab/GameScaling",
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
       "github_stars": 28227,
       "project_page": null
-    },
-    {
-      "id": "2610.17309",
-      "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
-      "authors": "Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)",
-      "organization_name": "startlux-models",
-      "organization_fullname": "StartLux",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64d33626465b6039259b9c72/6xsdrTfPBTVyKxaNDVi16.png",
-      "summary": "We introduce StartLux-Decision, decision models from 0.8B to 27B parameters that combine efficient single-pass prediction with adaptive, confidence-guided reasoning. The Instant models use bidirectional attention in full-attention layers to improve decision accuracy while keeping single-pass inference. The AutoThink models invoke explicit reasoning for uncertain decisions and answer confident cases directly. A three-stage training pipeline establishes shared decision capabilities, specializes the two variants, and equips AutoThink with reasoning through reasoning supervision and reinforcement learning. We introduce Reinforcement Learning for Calibrated Deliberative Decisions (RLCD^2), which uses a frozen model and proper scoring rules to reward improvements in decision probability quality and applies a soft penalty to overlong reasoning traces. RLCD^2 raises the share of reasoning traces that terminate within the generation limit by up to 48 percentage points and cuts average reasoning length by up to 65%, while largely preserving decision accuracy. On the public subset of Decision Index 0.3, the Instant models outperform the strongest evaluated comparable-scale open-weight decision models by 7.4-16.9 points, and the 27B AutoThink model reaches 73.4. We also introduce DecisionPivot, a programmatically verifiable benchmark of computational decisions built from contrast pairs that differ in a single answer-changing detail. On DecisionPivot, AutoThink outperforms its Instant counterparts by 11.5-18.4 points in pair accuracy and leads among evaluated systems. The models run on vLLM, llama.cpp and MLX, with quantized variants for lower memory use.",
-      "ai_summary": "StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD\u00b2 reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.",
-      "hf_url": "https://huggingface.co/papers/2610.17309",
-      "arxiv_url": "https://arxiv.org/abs/2610.17309",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17309.png",
-      "upvotes": 67,
-      "num_comments": 4,
-      "published_at": "2026-10-11T20:00:00.000Z",
-      "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
-      "github_stars": 1210,
-      "project_page": "https://decision.startlux.com/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-23T06:19:20.117114+00:00"
+  "fetched_at": "2026-10-23T11:56:04.735104+00:00"
 }
