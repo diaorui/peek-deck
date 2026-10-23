@@ -19,50 +19,20 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3UxRmgwU3N1RnJDaFExYWNwcHRJYWpRcVBhTkpwQ29QMUo2SHFqSGZFMGNWbUxyRC1lWXFJQzRoOGtmU0FVbjBVUGpzLXY5QWduUWdrUmVzVW5hSTN3akFFRXFsVWZqeXB4YjBFQ3VMS0tHTWx4bXJ5eTdxSWZWVGFldFg?oc=5",
-      "pub_date": 1792681462.0,
+      "pub_date": 1792683759.0,
       "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
       "image": null,
       "description": null
     },
     {
-      "headline": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGNJTkdncS1GRkJwWWRvMHZMMkFFTks1c1ZrTnpTU3gxN3dVbXBLemxiRTZVaFRmLUZoY2dWSm5tVU10QXRpQ2Z6RHZDZElwMEswMllSN2MxSlFBbFZpWEZmWlJfUHZCYVRlU1hjWDB2cnVKQW1vWUJZcUNSRURlZG53TzBzUkQ4UUtKcHJoTkZBbTlNeEVLbW1Nc3V5dTA?oc=5",
-      "pub_date": 1792770900.0,
-      "article_url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
-      "pub_date": 1792744160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
-      "pub_date": 1792675812.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Video Friday: Quadruped Robot Solves Giant Rubik\u2019s Cube By Itself",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjOHNadUVMeGZENHFTMm8zQXlmanl6dWdCdkNzZHN1WDBweEJ5UVFTQnVYM3YtQVlaczlFRlA2ZWlTWlZqRzM2VnlBdHE5d05ZT0taVi11YmZWeU5vbVh2aVVXdzg1RUk?oc=5",
-      "pub_date": 1792769532.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=68512950&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "description": "Your weekly selection of awesome robot videos"
+      "headline": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZklWdGNtbFB2Z2RnTURKVFdvS0tjb2c1VHV4bWVQb3AtNmR1dDFGUWNiXzJkeWhMaHNwYlpfTEpVajl5NlZSYTJ1M01pdThNdnd5dzZPY0VaSkdzOEp0UTlyZE5aSHFoSDRTU3k0UFBpaTh1Q2kwRUliQzI2Y0poeXV0MTg3YWx5aFFXaWFqTzRYTTFwQU1zeWRPRTFqMFgzbUVvc1ZSUUQ0U2RnQUF5eXZYb1JXd2M?oc=5",
+      "pub_date": 1792775911.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+      "description": "Company says foreign-made robotic vehicles are crucial to US chip production."
     },
     {
       "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
@@ -83,6 +53,36 @@
       "article_url": "https://www.reuters.com/legal/transactional/blackrock-adds-robotics-etf-growing-ranks-ai-themed-products-2026-10-21/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
+      "pub_date": 1792675812.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
+      "pub_date": 1792744160.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China's humanoids go job hunting amid Korea's bets on physical AI",
+      "source": "The Korea Times",
+      "source_url": "https://www.koreatimes.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmtjOFVBeTQ5SW1Nb1ZuVzI3c1lnbzEtTXRMTzZGcmpMQ1l5OWYteFJFeVJIdTRVSGtzcm9FekdHTE80RERoYnBMQmhPNFZfWHM4aFQwalhFWjRoOFZOMHItSVJ0SHFacERiWi1DVzVQWkR2QVR1N203MWJ6ekZkbmR2UzEtZlJvUFBSeVhmenUzMm5abXFSWTdoMXFQQ0ozMlBKT21ZaDExbU9vRVg5aDduUzlFXy1vVHRDRUNOVzfSAcYBQVVfeXFMT01WYkxMQzVQdno3aTJxQjN2X0trYkNrSnVsTFFlV2FJN3pocy1YVUJKeGJqREpmcEhEd1JZQjVRVGxUb2RBVk5mQlh1NVNmZ0dYcW1FcTk1TU5ubnliRzRSdFdiVmU5b1p3cGpRckNOLV9hdFhGY3ozdXVfeTM1Z0VfbUxZUnJSMXU5N3BkLUx5MkEwQU16VWZfM0FDTTQ5VGJKODFhYVpTRF9uNER0ZWVna0pMWDlBeEJCdk1vMWloU3ZsTTln?oc=5",
+      "pub_date": 1792706400.0,
+      "article_url": "https://www.koreatimes.co.kr/business/tech-science/20261023/chinas-humanoids-go-job-hunting-amid-koreas-bets-on-physical-ai",
+      "image": "https://newsimg.koreatimes.co.kr/2026/10/22/83abfb77-e7ce-4ab8-80b2-b582870c5bda.png",
+      "description": "Chinese humanoid robot makers are accelerating efforts to gain a foothold in Korea, moving beyond dance performances and showroom displays to facto..."
     },
     {
       "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T16:40:18.850718+00:00"
+  "fetched_at": "2026-10-23T20:13:22.372612+00:00"
 }
