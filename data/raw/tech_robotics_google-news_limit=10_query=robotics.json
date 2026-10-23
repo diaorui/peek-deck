@@ -35,6 +35,16 @@
       "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
     },
     {
+      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
+      "pub_date": 1792690723.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
+      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
+      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
+    },
+    {
       "headline": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -45,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
-      "pub_date": 1792690723.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
-      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
-      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
+      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
+      "pub_date": 1792675812.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
+      "image": null,
+      "description": null
     },
     {
       "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
@@ -65,26 +75,6 @@
       "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
     },
     {
-      "headline": "Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVpVSHVtUVBwWDFQT1F5RXhSXzdjTGV1bk91OVVDRHJadV82bnd1bnBQcWE1UEdqbmJ3TERyMGJVTkN1Zks3cFpuYlhlRWpFdk9yODNueWtBMzhiNmJOUWlyLVAweDFJWXFQQ2VyQk1KcW5WdUt4REdUWldnTzMtdGt4dmZnaklBc0NRME5vVFFuS3FUbTNfcmJ4WUtLenlGd3VQYVpZbXNYWmM?oc=5",
-      "pub_date": 1792589967.0,
-      "article_url": "https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/images/canvas/2026/10/21/6a7901ae-0a4c-48de-88f3-19713feb0909_3d2fa0d3.jpg?itok=7GFFMruN",
-      "description": "Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously."
-    },
-    {
-      "headline": "Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3Atc1dERGs2OFNTVTNlNUtGSlBvRS1KTkNyQ082SzR3bG5Ra3FmNng2bUhaOGhfT0d2a2JSU2lhM0ZfT3V3YXBfREdhVnl2aGluU0VOa1FjUF9ZVHJOVVBnczVkMkFlclhhVUxDaUxQV3pLRWFvZERQZWl6TUZOZFF0RjFzaE5zUWJjNw?oc=5",
-      "pub_date": 1792630620.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/tesla-optimus-robot-enters-production",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-10-1.jpg",
-      "description": "Tesla has started Optimus robot production in Fremont as Elon Musk targets 20,000 humanoid robots per week by the end of 2027."
-    },
-    {
       "headline": "Robotics firm buys Lawrenceville headquarters property from RIDC",
       "source": "The Business Journals",
       "source_url": "https://www.bizjournals.com",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Tesla must scale FSD, energy and robotics to justify $1.6 trillion valuation: ex-board member",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHl5UWJyTS1GSFgzQTktdDQ1ZE5meXBnWlFUTF9XLUdZUnpzUHBlcFN5Q0pENWZXYXdOVWI0WF9QOUR4TVZqNlI0alVqNDRIVlN2b3JDQlBab0Z1N1VCNkIyaklyWE90cWtfM1Mxamk2TmdxcEQzVXAzUWtaZTFBS280cUdEX2NEM2dHUkt0UXE3Mlk0WC1pTkpHYk52NDRlTVF4TlplbzBhdVllM0lCdmE5WDY2MlZUVV9iVFVMeXZYaUNLQ294dzQ5aw?oc=5",
-      "pub_date": 1792631700.0,
-      "article_url": "https://www.cnbc.com/video/2026/10/22/tesla-must-scale-fsd-energy-and-robotics-to-justify-1-point-6t-valuation-ex-board-member.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108444433-17926308311792630828-49151646061-1080pnbcnews.jpg?v=1792630830&w=1920&h=1080",
-      "description": "The Westly Group's Steve Westly, a former Tesla board member, says the SpaceX and Tesla merger is likely given the synergies between the two firms. The key question is potential regulatory hurdles."
+      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
+      "pub_date": 1792744160.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Video. Germany: Humanoid robots and AI supercomputers take centre stage in Berlin",
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDVabXh0Q251bVVhNzVVNmZwWnZTeEhRR2JFMXg1cTFYcjVXYjRkdzlyd2hHY3ktb0ltdUZzTm5sUGhDc1QxVVl0TnY0WnBCM2NEWU1GX3Vnc1UxYWtwQzkwVldMNzQxS0paLWRYNzBOZWdWamVEUWVHZnU3aWtvZ0NvRDh6RThXekZMeEtMbENGQmNxeFlhUzBhU2lUbm01NnFqbWJOakxxenU5YmZHb1EwVDFOUQ?oc=5",
+      "pub_date": 1792681296.0,
+      "article_url": "https://www.euronews.com/video/2026/10/22/germany-humanoid-robots-and-ai-supercomputers-take-centre-stage-in-berlin",
+      "image": "https://images.euronews.com/articles/stories/09/96/34/63/1200x675_cmsv2_5358ab25-a591-5818-856a-2e994c4023dc-9963463.jpg",
+      "description": "Video. Humanoid robots, intelligent machines and powerful supercomputers take centre stage at Nvidia's Berlin event. CEO Jensen Huang predicted a thriving AI economy in Europe."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T06:19:33.293563+00:00"
+  "fetched_at": "2026-10-23T11:56:22.814924+00:00"
 }

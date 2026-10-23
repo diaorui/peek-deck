@@ -65,7 +65,7 @@
       "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
       "hn_url": "https://news.ycombinator.com/item?id=50202402",
       "author": "Alien1Being",
-      "points": 5,
+      "points": 6,
       "num_comments": 1,
       "created_at": "2026-10-22T23:15:44Z",
       "object_id": "50202402",
@@ -91,5 +91,5 @@
   ],
   "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-10-23T06:19:10.094563+00:00"
+  "fetched_at": "2026-10-23T11:55:54.948387+00:00"
 }

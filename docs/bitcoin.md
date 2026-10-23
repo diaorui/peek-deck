@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-23T06:19:44.594780+00:00'
+updated: '2026-10-23T11:56:25.282448+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 23, 2026 at 06:19 UTC  
+**Last Updated:** October 23, 2026 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,726.05
+### $81,927.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +0.5%  
-**30d:** -3.0%  
-**90d:** +25.3%  
-**1y:** -26.2%  
+**24h:** +0.0%  
+**7d:** +0.3%  
+**30d:** -3.2%  
+**90d:** +25.0%  
+**1y:** -26.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1644.45B
+**Market Cap:** $1641.12B
 Rank #1
 
-**Circulating Supply:** 20,102,128 BTC
+**Circulating Supply:** 20,102,287 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.1%
+-35.2%
 
 **All-Time Low:** $67.81
-+120538.5%
++120293.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Just bought my first Bitcoin, and immediately lost 3%.... Let's go???](https://www.reddit.com/r/Bitcoin/comments/1xcq2xz/just_bought_my_first_bitcoin_and_immediately_lost/)**
 
-12h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Had any one had exp of selling off your bitcoin and minimize any payment to a government? Thanks
 
-7h ago
+13h ago
 
 ---
 
@@ -95,13 +95,13 @@ Had any one had exp of selling off your bitcoin and minimize any payment to a go
 
 It's a bit expensive, but if you can keep it working for more than 2 or 3 years, maybe it ends up net positive.
 
-🔗 [Heatbit](https://heatbit.com/?v=2) • 12h ago
+🔗 [Heatbit](https://heatbit.com/?v=2) • 17h ago
 
 ---
 
 **[r/bitcoin users at the moment](https://www.reddit.com/r/Bitcoin/comments/1xcgui7/rbitcoin_users_at_the_moment/)**
 
-18h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ It's a bit expensive, but if you can keep it working for more than 2 or 3 years,
 
 China moves to seize 61,800 Bitcoin linked to a massive fraud case. Here’s what the court ruling means for victims and the seized crypto.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme) • 19h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme) • 1d ago
 
 ---
 
@@ -117,13 +117,13 @@ China moves to seize 61,800 Bitcoin linked to a massive fraud case. Here’s wha
 
 ![img](9roa0gebrzwh1) Well it appears after doing several hours of research (reading through the depths of hell on reddit attempting to find some information on this exchange,) it appears that I have in fact been scammed out of over $27,000 in a single trade on Blockchain.com. I've personally never had any issues using the exchange over the years and this was the first time a real issue has occurred. After well over a month and a half with two weeks of undelivered emails having me to look like a schizophrenic beast, blockchain was just responding email after email "we will have someone on our team look at this situation". They locked my account after sending the crypto to the account - exchanging on site for USD to cash out - to then getting locked da fuk out. Honestly, it's so fkn hard to gut the fact that all of that bread is gone just like that. I mean, shit, I genuinely would've rather lost it to placing a hail mary bet on black. But life is life. Stay clear from that fucking scam shit site. save urself from being a retard </3
 
-20h ago
+1d ago
 
 ---
 
 **[thats why i bought bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xchhz2/thats_why_i_bought_bitcoin/)**
 
-17h ago
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ China moves to seize 61,800 Bitcoin linked to a massive fraud case. Here’s wha
 
 ​ Bitcoin is useful and has functionality that no other currency can provide. As a currency it does things other currenies cannot do. As a store of value, it does things other stores of value cannot do. As a unit of account, it does things other units of account cannot do. Bitcoin is uniquely useful. That's why it's valuable. ----- Here's substantiation that you probably won't read. Bitcoin acts as a bearer asset and a decentralized settlement network at the same time. This enables capabilities that are fundamentally impossible on traditional fiat rails like ACH, SWIFT, or credit card systems. Because legacy systems rely on centralized intermediaries to handle financial logic and hold funds, they are limited by restrictions that Bitcoin's fundamental cryptographic protocol isn't. Some.of the more important properties of Bitcoin are: Self-Custody - It's a bearer asset. Fiat shitcoins are IOUs on centralized banks' ledgers. Bitcoin allows people to hold their wealth directly by using private keys and cryptography. It's digital gold that the users have absolute control and ownership over. It's resistant to censorships and unfreezable - As long as you actual hodl your own coins you cannot be frozen or blacklisted from the entire network. You can still use custodial services when they make sense, but you aren't forced to. No central authority can suppress a user's financial freedom. Very much levels the playing field between regular people and large powerful entities. Irreversible Transsactions - Fiat rails typically allow for things like chargebacks and transaction reversals. Once a Bitcoin transaction is validated by miners and confirmed on the blockchain, it is permanent and irreversible, completely eliminating chargeback fraud. If you want the features of charge backs (buyer protections) or escrow or whatever for some transactions you can opt in. Use a third party that provides it. But it's not forced on you. Permissionless and pseudo-anonymous by default - Opening a normal bank account requires a legal identity, credit checks, and compliance with banking regulations. Anyone with an internet connection can create a Bitcoin public/private keypair and participate in the global economy. We all have seen how much bs is coming down the lane with identity verification, and government spyware. Bitcoin lets you opt out of all that noise for the most part. Immutable Monetary Policy - Central bankers can fuck with the supply of fiat currencies and we don't really have much say in it. Bitcoin is open source and has mathematically predictable monetary policy. It is hardcapped at 21 million coins, and the rate of new coin issuance is consistent and predixtable. Changes to this policy are open and take the majority of the network to actually implement. No small cababl of selfish actors can move the ship in the direction that only they want. Internet native programmable money - Legacy fiat based ledgers only hold records of balances. On the Bitcoin network logic and script-ability are baked right into the protocol. Things like multi-sig, escrow, lightning network, time locked contracts, and anything else you can dream up are possible by just building right on top of the bedrock that is Bitcoin. The above are just some of the unique features Bitcoin offers. You can map them yourself to the currency/unit of account/medium of exchange use cases yourself easily. The security model, immaculate conception, years of proving itself, anonymous founder, etc are all required too but not necessarily why it has value.
 
-9h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ China moves to seize 61,800 Bitcoin linked to a massive fraud case. Here’s wha
 
 Just to clarify, we’re mining operators, not haters. I only wish we started keeping track sooner.
 
-12h ago
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ Just to clarify, we’re mining operators, not haters. I only wish we started ke
 
 The day ahead in crypto: Oct. 22, 2026
 
-🔗 [coindesk.com](https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble) • 15h ago
+🔗 [coindesk.com](https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble) • 20h ago
 
 ---
 
@@ -159,7 +159,15 @@ The day ahead in crypto: Oct. 22, 2026
 
 Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the…
 
-TradingView • 13h ago
+TradingView • 19h ago
+
+---
+
+**[JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html)**
+
+JPMorgan Asset Management has included Bitcoin in its long-term capital market assumptions for the first time, forecasting returns that could beat stocks, bonds and gold in a milestone for its Wall Street acceptance.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -171,61 +179,51 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin ETF Holders Pull $635 Million Before Price Even Hits Their Usual Breaking Point](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-holders-pull-635-052529730.html)**
+**[JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade](https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade)**
 
-Bitcoin ETFs shed $635 million on October 22, and DWF Labs data shows when ETF selling has historically deepened.
+The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.
 
-Yahoo Finance • 54m ago
+CoinDesk • 2d ago
 
 ---
 
-**[Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral](https://finance.yahoo.com/markets/crypto/articles/exclusive-sygnum-rolls-multisyg-bitcoin-050939748.html)**
+**[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
 
-Investing.com-- Swiss digital asset bank Sygnum is launching bitcoin-backed loans in which client collateral is held in multi-signature wallets rather than by the bank alone, as holders look to borrow against their coins without giving up security, Investing.com has learned.
+Bloomberg.com • 1h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Bitcoin's volatility is well above euro-dollar gyrations, though it has calmed to rival Nvidia's](https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s)**
+
+The day ahead in crypto: Oct. 23, 2026
+
+CoinDesk • 33m ago
+
+---
+
+**[BlackRock (BLK) Files Bitcoin Protection ETF And Launches Active Robotics Fund](https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-files-bitcoin-protection-090936959.html)**
+
+BlackRock (NYSE:BLK) filed for the iShares Bitcoin Managed Protection ETF, a bitcoin-linked fund with a downside protection feature. The filing outlines a structure that targets exposure to bitcoin price moves while using risk management tools to limit losses. BlackRock also introduced an actively managed Robotics ETF that focuses on companies tied to automation and AI-focused hardware and software. The twin launch of a bitcoin-linked protection ETF and a new Robotics ETF deserves weighing...
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin data center fire seriously injures two people in Treutlen County, EMA director says](https://www.13wmaz.com/article/news/local/fire-at-data-center-injures-2-people-treutlen-county-ema/93-d5f53f6c-3eb9-4803-ace8-240a3360cb0e)**
 
-13WMAZ • 11h ago
-
----
-
-**[Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100](https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100)**
-
-Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.
-
-CoinDesk • 3h ago
+13WMAZ • 16h ago
 
 ---
 
 **[Massachusetts police officer heads off Bitcoin scam targeting Maine woman](https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/)**
 
-Bangor Daily News • 11h ago
+Bangor Daily News • 17h ago
 
 ---
 
-**[Bitcoin Breaches $82,000 in Biggest Decline in Over a Month](https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment)**
+**[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
 
-Bloomberg.com • 10h ago
-
----
-
-**[Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves](https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves)**
-
-BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin falls below $82,000 as investors retreat from risk assets](https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html)**
-
-Bitcoin fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions.
-
-Yahoo Finance • 14h ago
+Financial Times • 20h ago
 
 ---
 
@@ -237,7 +235,7 @@ Yahoo Finance • 14h ago
 
 Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
 
-⬆️ 8 • 💬 3 • 1d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
+⬆️ 8 • 💬 3 • 2d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
 
 ---
 
@@ -267,7 +265,7 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 **[OpenAI trims valuation target after pitching higher price](https://news.ycombinator.com/item?id=50202402)**
 
-⬆️ 5 • 💬 1 • 7h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
+⬆️ 6 • 💬 1 • 12h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
 
 ---
 
@@ -275,7 +273,7 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 With graduate jobs hard to come by, more young adults are reported to be considering emigrating.
 
-⬆️ 1 • 💬 0 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
+⬆️ 1 • 💬 0 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
 
 ---
 
@@ -289,27 +287,7 @@ Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cr
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 171 • ⏱️ 18:14 • 9h ago
-
----
-
-**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
-
-Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
-
-📺 Yahoo Finance
-
-👁️ 33K • 👍 569 • 💬 157 • ⏱️ 14:53 • 13h ago
-
----
-
-**[$2 Million Bitcoin WARNING - Fidelity Says It Will Happen FASTER Than You Think](https://www.youtube.com/watch?v=jDLTrPQSzZg)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 210 • 💬 65 • ⏱️ 15:43 • 8h ago
+👁️ 43K • 👍 2K • 💬 204 • ⏱️ 18:14 • 14h ago
 
 ---
 
@@ -319,37 +297,37 @@ Welcome back to the channel! Trade on BTCC & 10% deposit bonus: https://aaronbtc
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 140 • 💬 30 • ⏱️ 7:26 • 3h ago
+👁️ 7K • 👍 245 • 💬 37 • ⏱️ 7:26 • 9h ago
 
 ---
 
-**[Chamath Palihapitiya: An Urgent Alert To All Crypto Investors](https://www.youtube.com/watch?v=U2UrnJMjDbA)**
+**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
 
-Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x.com/GigaStar_ GigaStar is a channel partner.
+Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
 
-📺 Altcoin Daily
+📺 Yahoo Finance
 
-👁️ 16K • 👍 774 • 💬 57 • ⏱️ 11:34 • 5h ago
-
----
-
-**[Bitcoin Faces a Global Market Bloodbath](https://www.youtube.com/watch?v=dL8cML5_HnM)**
-
-Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
-
-📺 CryptosRUs
-
-👁️ 27K • 👍 770 • 💬 103 • ⏱️ 35:49 • 15h ago
+👁️ 36K • 👍 610 • 💬 165 • ⏱️ 14:53 • 18h ago
 
 ---
 
-**[Bitcoin Hovers Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
+**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 127K • 👍 4K • 💬 192 • ⏱️ 6:07 • 1d ago
+👁️ 103K • 👍 3K • 💬 162 • ⏱️ 10:31 • 21h ago
+
+---
+
+**[$2 Million Bitcoin WARNING - Fidelity Says It Will Happen FASTER Than You Think](https://www.youtube.com/watch?v=jDLTrPQSzZg)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+
+📺 Bitcoin News Alerts
+
+👁️ 7K • 👍 245 • 💬 110 • ⏱️ 15:43 • 13h ago
 
 ---
 
@@ -359,27 +337,47 @@ JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 2K • 💬 209 • ⏱️ 20:40 • 1d ago
+👁️ 42K • 👍 2K • 💬 220 • ⏱️ 20:40 • 1d ago
 
 ---
 
-**[OFFICIAL: JPMorgan Confirms Bitcoin to $214,000 per coin as &#39;base case&#39;](https://www.youtube.com/watch?v=SQ8Hu-ByVh0)**
+**[Bitcoin Faces a Global Market Bloodbath](https://www.youtube.com/watch?v=dL8cML5_HnM)**
 
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
+
+📺 CryptosRUs
+
+👁️ 28K • 👍 783 • 💬 104 • ⏱️ 35:49 • 21h ago
+
+---
+
+**[Bitcoin Must Break Back Above 82K Or We&#39;re Going LOWER!](https://www.youtube.com/watch?v=GayMGeJVknc)**
+
+Altcoins are back at Sheldon's buy zones, and it's time to prepare for the next move. In this video, Sheldon breaks down his ...
+
+📺 Crypto Banter
+
+👁️ 4K • 👍 384 • 💬 6 • ⏱️ 19:27 • 1h ago
+
+---
+
+**[Chamath Palihapitiya: An Urgent Alert To All Crypto Investors](https://www.youtube.com/watch?v=U2UrnJMjDbA)**
+
+Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x.com/GigaStar_ GigaStar is a channel partner.
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 2K • 💬 90 • ⏱️ 8:43 • 2d ago
+👁️ 28K • 👍 1K • 💬 73 • ⏱️ 11:34 • 10h ago
 
 ---
 
-**[The Most Important Bitcoin Chart Of 2027](https://www.youtube.com/watch?v=d4odLXVTVOY)**
+**[NFA LIVE: Bitcoin Breaks $82K Support as Everything Sells Off.](https://www.youtube.com/watch?v=dBcJ4VJeFA8)**
 
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+Gold and silver just lost $500 billion, Asian markets are down big, and Bitcoin broke $82K support. Benjamin Cowen (Into The ...
 
-📺 Lark Davis
+📺 Benjamin Cowen
 
-👁️ 11K • 👍 315 • 💬 24 • ⏱️ 10:41 • 9h ago
+👁️ 34K • 👍 765 • 💬 39 • ⏱️ 31:27 • 22h ago
 
 ---
 
