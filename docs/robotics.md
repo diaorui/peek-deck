@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-23T01:16:30.413483+00:00'
+updated: '2026-10-23T06:19:44.600249+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 23, 2026 at 01:16 UTC  
+**Last Updated:** October 23, 2026 at 06:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,15 +116,15 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 ## Google News: "robotics"
 
-**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
+**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Axios • 9h ago
+Stanford Report • 17h ago
 
 ---
 
-**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
+**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
 
-Stanford Report • 12h ago
+Axios • 15h ago
 
 ---
 
@@ -138,7 +138,7 @@ IEEE Spectrum • 1d ago
 
 **[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
 
-Reuters • 11h ago
+Reuters • 16h ago
 
 ---
 
@@ -146,7 +146,7 @@ Reuters • 11h ago
 
 The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit.
 
-NASA (.gov) • 7h ago
+NASA (.gov) • 12h ago
 
 ---
 
@@ -158,9 +158,11 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
-**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
+**[Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car](https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car)**
 
-Bloomberg.com • 22h ago
+Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously.
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -172,11 +174,9 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Bermy Bots To Compete In Atlanta Robotics](https://bernews.com/2026/10/bermy-bots-compete-atlanta-robotics/)**
+**[Robotics firm buys Lawrenceville headquarters property from RIDC](https://www.bizjournals.com/pittsburgh/news/2026/10/22/robotics-row-carnegie-robotics-lawrenceville.html)**
 
-Bermuda’s National Robotics Team, the Bermy Bots, has travelled to Atlanta, Georgia, to compete in the 2026/27 FIRST Tech Challenge season. A spokesperson said, “And they’re off! Bermuda’s National Robotics Team, the Bermy Bots, is headed to Atlanta, Georgia, to compete in the first meet of the 2026/27 FIRST Tech Challenge [FTC] season. Supported by …
-
-Bernews • 15h ago
+The Business Journals • 14h ago
 
 ---
 
@@ -198,7 +198,7 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 90K • 👍 944 • 💬 174 • ⏱️ 8:29 • 7h ago
+👁️ 209K • 👍 2K • 💬 253 • ⏱️ 8:29 • 12h ago
 
 ---
 
@@ -208,17 +208,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 144K • 👍 2K • 💬 236 • ⏱️ 20:32 • 4d ago
-
----
-
-**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
-
-NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
-
-📺 DPCcars
-
-👁️ 862K • 👍 7K • 💬 1K • ⏱️ 4:06 • 1d ago
+👁️ 145K • 👍 2K • 💬 237 • ⏱️ 20:32 • 4d ago
 
 ---
 
@@ -228,37 +218,7 @@ News24 host James Macpherson discusses a Chinese-made humanoid robot taking secu
 
 📺 News24
 
-👁️ 5K • 👍 37 • 💬 43 • ⏱️ 7:06 • 12h ago
-
----
-
-**[Unitree Made a Robot BODYGUARD? 🤯](https://www.youtube.com/watch?v=DyR0kQvOWCs)**
-
-Mizkif reacts to Unitree Robotics unveiling a humanoid bodyguard robot that shows off martial arts, powerful kicks that dent cars, ...
-
-📺 Mizkif
-
-👁️ 6K • 👍 259 • 💬 52 • ⏱️ 0:38 • 9h ago
-
----
-
-**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
-
-The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
-
-📺 DPCcars
-
-👁️ 30K • 👍 354 • 💬 118 • ⏱️ 2:30 • 1d ago
-
----
-
-**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
-
-robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
-
-📺 AI Unfiltered
-
-👁️ 119K • 👍 993 • 💬 209 • ⏱️ 8:52 • 6d ago
+👁️ 6K • 👍 39 • 💬 49 • ⏱️ 7:06 • 18h ago
 
 ---
 
@@ -268,17 +228,45 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 178K • 👍 2K • 💬 527 • ⏱️ 4:07 • 5d ago
+👁️ 179K • 👍 2K • 💬 530 • ⏱️ 4:07 • 5d ago
 
 ---
 
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
 
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
 
-📺 MACHINEKIND
+📺 DPCcars
 
-👁️ 59K • 👍 738 • 💬 72 • ⏱️ 13:57 • 2d ago
+👁️ 962K • 👍 8K • 💬 1K • ⏱️ 4:06 • 1d ago
+
+---
+
+**[10,000 People Just Bought a Home Robot. Nobody Saw It Coming](https://www.youtube.com/watch?v=jDyswxYxArY)**
+
+robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robot. Nobody Saw It Coming For More Content ...
+
+📺 AI Unfiltered
+
+👁️ 131K • 👍 1K • 💬 229 • ⏱️ 8:52 • 6d ago
+
+---
+
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+
+📺 DPCcars
+
+👁️ 34K • 👍 377 • 💬 127 • ⏱️ 2:30 • 1d ago
+
+---
+
+**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+
+📺 Big Duke13
+
+👁️ 445K • 👍 15K • 💬 2K • ⏱️ 2:35 • 6d ago
 
 ---
 
@@ -288,7 +276,17 @@ China's new AI robots are taking on real human jobs, and things are getting seri
 
 📺 MACHINEKIND
 
-👁️ 47K • 👍 654 • 💬 69 • ⏱️ 12:40 • 6d ago
+👁️ 48K • 👍 658 • 💬 69 • ⏱️ 12:40 • 6d ago
+
+---
+
+**[Chinese robotics company debuts humanoid robot designed for protection, responding to emergencies](https://www.youtube.com/watch?v=M5jqkkHwHEU)**
+
+A Chinese robotics company is showing off a humanoid robot built for more than just impressive stunts.
+
+📺 WPLG Local 10
+
+👁️ 58K • 👍 43 • 💬 14 • ⏱️ 1:01 • 1d ago
 
 ---
 
