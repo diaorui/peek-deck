@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 18000,
+      "github_stars": 18335,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43217,
+      "github_stars": 43362,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 113091,
+      "github_stars": 113285,
       "project_page": null
     },
     {
@@ -73,27 +73,8 @@
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 1481,
+      "github_stars": 1595,
       "project_page": "https://openmoss.ai/MOSS-Image/"
-    },
-    {
-      "id": "2610.08699",
-      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
-      "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
-      "organization_name": "zju",
-      "organization_fullname": "Zhejiang University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
-      "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2610.08699",
-      "arxiv_url": "https://arxiv.org/abs/2610.08699",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 118,
-      "num_comments": 3,
-      "published_at": "2026-10-05T20:00:00.000Z",
-      "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 2369,
-      "project_page": "https://nanomuse.cn/"
     },
     {
       "id": "2609.18063",
@@ -111,8 +92,27 @@
       "num_comments": 6,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 6438,
+      "github_stars": 6658,
       "project_page": null
+    },
+    {
+      "id": "2610.08699",
+      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+      "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
+      "organization_name": "zju",
+      "organization_fullname": "Zhejiang University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
+      "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2610.08699",
+      "arxiv_url": "https://arxiv.org/abs/2610.08699",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
+      "upvotes": 119,
+      "num_comments": 3,
+      "published_at": "2026-10-05T20:00:00.000Z",
+      "github_repo": "https://github.com/nano-muse/nanoMuse",
+      "github_stars": 2369,
+      "project_page": "https://nanomuse.cn/"
     },
     {
       "id": "2610.17309",
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2610.17309",
       "arxiv_url": "https://arxiv.org/abs/2610.17309",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17309.png",
-      "upvotes": 79,
+      "upvotes": 80,
       "num_comments": 4,
       "published_at": "2026-10-11T20:00:00.000Z",
       "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/HazyResearch/ncm",
-      "github_stars": 827,
+      "github_stars": 886,
       "project_page": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"
     },
     {
@@ -164,11 +164,11 @@
       "hf_url": "https://huggingface.co/papers/2610.28698",
       "arxiv_url": "https://arxiv.org/abs/2610.28698",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
-      "upvotes": 56,
+      "upvotes": 58,
       "num_comments": 1,
       "published_at": "2026-10-19T20:00:00.000Z",
       "github_repo": "https://github.com/THUSI-Lab/GameScaling",
-      "github_stars": 231,
+      "github_stars": 301,
       "project_page": "https://gamescaling.github.io"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 28227,
+      "github_stars": 28260,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-23T11:56:04.735104+00:00"
+  "fetched_at": "2026-10-23T16:40:01.532987+00:00"
 }

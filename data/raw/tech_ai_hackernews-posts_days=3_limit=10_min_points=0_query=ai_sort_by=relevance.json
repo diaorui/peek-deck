@@ -9,8 +9,8 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "author": "rakannimer",
-      "points": 467,
-      "num_comments": 465,
+      "points": 584,
+      "num_comments": 556,
       "created_at": "2026-10-22T16:08:00Z",
       "object_id": "50197313",
       "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0",
@@ -19,11 +19,25 @@
       "site_name": "ModelCompare"
     },
     {
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "hn_url": "https://news.ycombinator.com/item?id=50198675",
+      "author": "niemandhier",
+      "points": 472,
+      "num_comments": 205,
+      "created_at": "2026-10-22T17:44:06Z",
+      "object_id": "50198675",
+      "image": "https://opengraph.githubassets.com/de3aeb3b466f88f13b2190b2b01adee0c8442c30de2459134b10ead7f50d4fcd/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "hn_url": "https://news.ycombinator.com/item?id=50180836",
       "author": "danlark1",
-      "points": 450,
+      "points": 451,
       "num_comments": 184,
       "created_at": "2026-10-21T13:43:19Z",
       "object_id": "50180836",
@@ -33,26 +47,12 @@
       "site_name": "wiz.io"
     },
     {
-      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "hn_url": "https://news.ycombinator.com/item?id=50198675",
-      "author": "niemandhier",
-      "points": 417,
-      "num_comments": 197,
-      "created_at": "2026-10-22T17:44:06Z",
-      "object_id": "50198675",
-      "image": "https://opengraph.githubassets.com/de3aeb3b466f88f13b2190b2b01adee0c8442c30de2459134b10ead7f50d4fcd/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Airbnb bans making guests do dishes and take out the trash",
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "hn_url": "https://news.ycombinator.com/item?id=50189150",
       "author": "babelfish",
-      "points": 251,
-      "num_comments": 229,
+      "points": 254,
+      "num_comments": 230,
       "created_at": "2026-10-21T23:38:32Z",
       "object_id": "50189150",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
@@ -61,25 +61,11 @@
       "site_name": "The Verge"
     },
     {
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "hn_url": "https://news.ycombinator.com/item?id=50168190",
-      "author": "4gateftw",
-      "points": 183,
-      "num_comments": 229,
-      "created_at": "2026-10-20T15:48:26Z",
-      "object_id": "50168190",
-      "image": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "description": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.",
-      "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
-      "site_name": "IGN"
-    },
-    {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "hn_url": "https://news.ycombinator.com/item?id=50180752",
       "author": "raahelb",
-      "points": 157,
+      "points": 158,
       "num_comments": 105,
       "created_at": "2026-10-21T13:37:00Z",
       "object_id": "50180752",
@@ -93,14 +79,28 @@
       "url": "https://arxiv.org/abs/2610.27251",
       "hn_url": "https://news.ycombinator.com/item?id=50199230",
       "author": "jrepinc",
-      "points": 135,
-      "num_comments": 77,
+      "points": 137,
+      "num_comments": 80,
       "created_at": "2026-10-22T18:28:16Z",
       "object_id": "50199230",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "description": "The scientific literature can be viewed as an \"information commons:\" an intangible resource that \"no one owns and is shared by everyone.\" There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known \"tragedy of the commons,\" but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via \"slop spam\"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.",
       "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
       "site_name": "arXiv.org"
+    },
+    {
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "hn_url": "https://news.ycombinator.com/item?id=50205229",
+      "author": "jlundberg",
+      "points": 133,
+      "num_comments": 145,
+      "created_at": "2026-10-23T06:41:11Z",
+      "object_id": "50205229",
+      "image": "https://berget.ai/api/og?title=New+open-source+method+shows+the+same+AI+request+emits+8.5+times+more+CO%E2%82%82+in+Texas+than+in+Sweden&image=https%3A%2F%2Fberget.ai%2Fimages%2Fblog%2Fper-request-co2-press-release%2Fcover.png",
+      "description": "Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen \u2014 and customers can now follow their emissions per request in the console.",
+      "favicon": "https://berget.ai/logos/symbol-black.svg",
+      "site_name": "Berget AI"
     },
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
@@ -117,20 +117,6 @@
       "site_name": "bbc.com"
     },
     {
-      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-      "hn_url": "https://news.ycombinator.com/item?id=50205229",
-      "author": "jlundberg",
-      "points": 122,
-      "num_comments": 132,
-      "created_at": "2026-10-23T06:41:11Z",
-      "object_id": "50205229",
-      "image": "https://berget.ai/api/og?title=New+open-source+method+shows+the+same+AI+request+emits+8.5+times+more+CO%E2%82%82+in+Texas+than+in+Sweden&image=https%3A%2F%2Fberget.ai%2Fimages%2Fblog%2Fper-request-co2-press-release%2Fcover.png",
-      "description": "Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen \u2014 and customers can now follow their emissions per request in the console.",
-      "favicon": "https://berget.ai/logos/symbol-black.svg",
-      "site_name": "Berget AI"
-    },
-    {
       "title": "On AI writing",
       "url": "https://www.bolkunov.com/p/on-ai-writing",
       "hn_url": "https://news.ycombinator.com/item?id=50171771",
@@ -143,9 +129,23 @@
       "description": "Disclaimer: by AI writing I mean text with at least 50% of the words generated by AI",
       "favicon": "https://substackcdn.com/image/fetch/$s_!997Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc75a8057-2a80-4469-8cb1-80a4100dbedf%2Fapple-touch-icon-57x57.png",
       "site_name": "bolkunov.com"
+    },
+    {
+      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+      "hn_url": "https://news.ycombinator.com/item?id=50200843",
+      "author": "karakoram",
+      "points": 88,
+      "num_comments": 55,
+      "created_at": "2026-10-22T20:51:23Z",
+      "object_id": "50200843",
+      "image": "https://i.abcnewsfe.com/a/76af8d06-92bb-4767-b96d-3f27f7c34e58/data-gty-er--261020_1792522906404_hpMain_16x9.jpg?w=1600",
+      "description": "Majorities see risks in AI and fewer see benefits.",
+      "favicon": "https://s.abcnews.com/assets/dtci/images/favicon.ico",
+      "site_name": "ABC News"
     }
   ],
-  "total_hits": 705,
+  "total_hits": 670,
   "has_metadata": true,
-  "fetched_at": "2026-10-23T11:55:55.808156+00:00"
+  "fetched_at": "2026-10-23T16:39:49.839319+00:00"
 }

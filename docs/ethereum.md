@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-23T11:56:25.288600+00:00'
+updated: '2026-10-23T16:40:28.052840+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 23, 2026 at 11:56 UTC  
+**Last Updated:** October 23, 2026 at 16:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,407.73
+### $2,402.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +0.0%  
-**30d:** -10.6%  
-**90d:** +23.0%  
-**1y:** -39.0%  
+**24h:** +1.2%  
+**7d:** +0.2%  
+**30d:** -10.5%  
+**90d:** +23.1%  
+**1y:** -38.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.37B
+**Market Cap:** $294.17B
 Rank #2
 
 **Circulating Supply:** 122,155,365 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-51.3%
 
 **All-Time Low:** $0.43
-+554564.3%
++556215.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
 
-3h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-20h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 16h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 21h ago
 
 ---
 
@@ -112,7 +112,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 Dshackle is a load balancer that sits between your app and your blockchain upstreams (your own Geth, Infura, QuickNode, any mix of them). It tracks each upstream's block height, sync state and supported methods, and routes each request to one that is healthy and caught up. - JSON-RPC over HTTP and WebSocket - Automatic failover and retry - Tracking upstream status - Height-aware method routing - Chain-aware caching (in-memory or Redis) v0.18 is a rewrite from Kotlin/JVM to Rust. There are no new features. Config, API and behaviour are the same. Memory use is down ~75% and latency is 10–20% lower. https://github.com/emeraldpay/dshackle
 
-21h ago
+1d ago
 
 ---
 
@@ -150,35 +150,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Glamsterdam Upgrade Delayed Over Smart Contract Security Risks](https://finance.yahoo.com/markets/crypto/articles/ethereum-glamsterdam-upgrade-delayed-over-102830210.html)**
-
-Ethereum developers have postponed the Glamsterdam upgrade on the Hoodi testnet after researchers identified potential security risks involving existing smart contracts, leaving the network’s next major development milestone without a confirmed activation date. The decision comes as ETH trades under $2,400, with the token losing around 0.5%.The Ethereum Foundation announced ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Current price of Ethereum for Oct. 23, 2026](https://fortune.com/article/price-of-ethereum-10-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 41m ago
-
----
-
 **[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-ethereum.org • 17h ago
+ethereum.org • 22h ago
 
 ---
 
-**[ETH news: Ethereum’s four-minute settlement plan could lower the cost of moving crypto](https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto)**
+**[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts](https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts)**
 
-A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.
+Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
 
-CoinDesk • 23h ago
+CoinDesk • 11h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, October 22, 2026: Crypto gains wiped out as oil prices stay over $111 a barrel](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-22-2026-crypto-gains-wiped-out-as-oil-prices-stay-over-111-a-barrel-113128321.html)**
+
+Bitcoin opened at $84,024.44 on Thursday, October 22, 2026, up 1.3% from Wednesday's open. As of 7:15 a.m. ET this morning, bitcoin moved all the way down to $81,809.90. Ethereum opened at $2,471.35, up 1% from Wednesday's opening price. The price of ethereum fell this morning to $2,400.36 as of 7:15 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,7 +178,7 @@ CoinDesk • 23h ago
 
 The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
@@ -198,11 +190,27 @@ TradingView • 1d ago
 
 ---
 
-**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
+**[Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets](https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets)**
 
-JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
+An October 22, 2026 comparison of Bitcoin and Ethereum post-quantum signature proposals, test deployments, mainnet support and wallet dependencies.
 
-J.P. Morgan • 3d ago
+The Defiant • 17h ago
+
+---
+
+**[Current price of Ethereum for Oct. 23, 2026](https://fortune.com/article/price-of-ethereum-10-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum’s Four-Minute Settlement Plan Revives a $12,000 ETH Target](https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857)**
+
+Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ...
+
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -210,21 +218,15 @@ J.P. Morgan • 3d ago
 
 Cardano could be headed for a big comeback in 2027.
 
-The Motley Fool • 4h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets](https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets)**
+**[Bitcoin ETFs log $525M inflow as Ethereum ETFs attract $14M](https://cryptobriefing.com/bitcoin-etf-525m-inflow-ethereum-14m/)**
 
-An October 22, 2026 comparison of Bitcoin and Ethereum post-quantum signature proposals, test deployments, mainnet support and wallet dependencies.
+Spot Bitcoin ETFs drew approximately $525 million on October 21, led by IBIT and FBTC, while Ethereum ETFs ended a five-day outflow streak.
 
-The Defiant • 12h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as major support levels cap recent sell-off](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-major-support-levels-cap-recent-sell-off-202610230406)**
-
-FXStreet • 7h ago
+Crypto Briefing • 17h ago
 
 ---
 
@@ -232,93 +234,23 @@ FXStreet • 7h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
+
+Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 170 • 💬 17 • ⏱️ 59:55 • 3h ago
+
+---
+
 **[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=BlrY6SREarU)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 123 • 💬 34 • ⏱️ 21:17 • 7h ago
-
----
-
-**[Midterm Election Noise &amp; Bitcoin, Ethereum&#39;s Potential Dip Buying Opportunity](https://www.youtube.com/watch?v=qhFYLrAl9Yo)**
-
-Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midterm elections and a tentative change of ...
-
-📺 Schwab Network
-
-👁️ 4K • 👍 34 • 💬 1 • ⏱️ 6:40 • 1d ago
-
----
-
-**[Are there warning signs flashing in the Ethereum chart? 22nd October 2026](https://www.youtube.com/watch?v=4_GHmyPzLao)**
-
-ethereum #crypto #supplyanddemand #cycleanalysis For forecasting, trade planning, chart updates, video analysis Discord: ...
-
-📺 Venture
-
-👁️ 1K • 👍 41 • 💬 6 • ⏱️ 15:11 • 1d ago
-
----
-
-**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
-
-What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
-
-📺 Crypto In America
-
-👁️ 7K • 👍 143 • 💬 39 • ⏱️ 41:22 • 1d ago
-
----
-
-**[Wall Street Is Betting on Ethereum - So Why Isn&#39;t ETH Exploding?](https://www.youtube.com/watch?v=zMI_daFZE_w)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 22K • 👍 382 • 💬 145 • ⏱️ 34:59 • 1d ago
-
----
-
-**[BITCOIN WARNING: PUMP &amp; DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iCgYDMGcVVY)**
-
-BITCOIN WARNING: PUMP & DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 295 • 💬 66 • ⏱️ 23:31 • 17h ago
-
----
-
-**[Bitcoin &amp; Ethereum: Key Levels to Watch | Crypto Analysis with Severin](https://www.youtube.com/watch?v=nCnCHURDoW8)**
-
-Join Severin for a breakdown of Bitcoin, Ethereum and altcoins, covering key price levels, market structure and potential trading ...
-
-📺 Chart Champions
-
-👁️ 10K • 👍 304 • 💬 12 • ⏱️ 1:02:26 • 1d ago
-
----
-
-**[Ethereum in (about) a minute | Learn Crypto - Episode 4](https://www.youtube.com/watch?v=H9uvwKsfWvs)**
-
-Ethereum is the world's second largest cryptocurrency and the top platform for automated digital agreements known as “smart ...
-
-📺 E*TRADE from Morgan Stanley
-
-👁️ 143 • 👍 1 • ⏱️ 1:49 • 17h ago
-
----
-
-**[BITCOIN: BlackRock BUYING NOW (Price Target Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DLBqZg6DbTY)**
-
-BITCOIN: BlackRock BUYING NOW (Price Target Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 337 • 💬 163 • ⏱️ 20:02 • 2d ago
+👁️ 11K • 👍 167 • 💬 34 • ⏱️ 21:17 • 12h ago
 
 ---
 
@@ -328,7 +260,77 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 23K • 👍 484 • 💬 116 • ⏱️ 9:54 • 1d ago
+👁️ 23K • 👍 493 • 💬 120 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[The Best Ethereum Entry For YEARS To Come?](https://www.youtube.com/watch?v=pcapljJ6qAs)**
+
+Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators For Sale: https://tinyurl.com/tcindicatorstore Free ...
+
+📺 Trade Confident
+
+👁️ 523 • 👍 8 • 💬 1 • ⏱️ 3:52 • 22h ago
+
+---
+
+**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
+
+Join my team Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
+
+📺 Pushkar Raj Thakur: Stock Market Educator 📈
+
+👁️ 44K • 👍 589 • 💬 110 • ⏱️ 6:03 • 6h ago
+
+---
+
+**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
+
+What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
+
+📺 Crypto In America
+
+👁️ 8K • 👍 150 • 💬 39 • ⏱️ 41:22 • 2d ago
+
+---
+
+**[Wall Street Is Betting on Ethereum - So Why Isn&#39;t ETH Exploding?](https://www.youtube.com/watch?v=zMI_daFZE_w)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 23K • 👍 385 • 💬 147 • ⏱️ 34:59 • 1d ago
+
+---
+
+**[JPMorgan Put Bank Deposits on Ethereum](https://www.youtube.com/watch?v=ej5y6UPYJx4)**
+
+JPMorgan just put bank deposits on Ethereum. On October 19, JPMorgan announced JPM Coin is live on Ethereum. These are ...
+
+📺 Alexander Lorenzo
+
+👁️ 3K • 👍 185 • 💬 23 • ⏱️ 2:50 • 19h ago
+
+---
+
+**[Are there warning signs flashing in the Ethereum chart? 22nd October 2026](https://www.youtube.com/watch?v=4_GHmyPzLao)**
+
+ethereum #crypto #supplyanddemand #cycleanalysis For forecasting, trade planning, chart updates, video analysis Discord: ...
+
+📺 Venture
+
+👁️ 1K • 👍 41 • 💬 8 • ⏱️ 15:11 • 1d ago
+
+---
+
+**[Good ETHEREUM News- Plus: Does France Have Enough Socialism?](https://www.youtube.com/watch?v=yq4fTair7U4)**
+
+THE CRYPTO BULL RUN IS STARTING. Most people won't be ready to build wealth from it. You can be. Get the research and ...
+
+📺 Future Forecasting Group
+
+👁️ 7K • 👍 338 • 💬 62 • ⏱️ 4:34 • 2d ago
 
 ---
 
