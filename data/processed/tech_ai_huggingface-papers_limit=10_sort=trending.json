@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 116,
+      "upvotes": 117,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
@@ -39,25 +39,6 @@
       "project_page": null
     },
     {
-      "id": "2610.23374",
-      "title": "MOSS-Image Technical Report",
-      "authors": "MOSI. AI",
-      "organization_name": "OpenMOSS-Team",
-      "organization_fullname": "OpenMOSS",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/61457b8deff2c9fdb4de4988/N5b9663zQ4uq5_OTNlnmw.png",
-      "summary": "Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense text and intricate layouts. To narrow this gap, we introduce MOSS-Image, an open generation system that combines high-fidelity visual synthesis with intent-aware composition. First, we pretrain a 5B single-stream diffusion transformer (DiT) from scratch with a carefully designed recipe, enabling bilingual long-form text rendering and precise layout control. Second, we develop an intention-aware agentic prompt enhancement (PE) module that translates diverse user requests into detailed content and layout specifications. Together, they enable MOSS-Image to generate text-rich and layout-coherent images. We further introduce LongLongTextBench (LLTB) for evaluating long-form English and Chinese text rendering, and RealLayoutArena (RLA) for end-to-end layout-rich generation. MOSS-Image achieves state-of-the-art performance among open-weight models on LLTB, with an average text coverage of 96.3%. On RLA, MOSS-Image ranks second in the end-to-end system comparison, while its backbone ranks first among generators evaluated with shared enhanced prompts. We will release the model, training recipe, and evaluation framework to support further research and promote the text-to-image community.",
-      "ai_summary": "MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2610.23374",
-      "arxiv_url": "https://arxiv.org/abs/2610.23374",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
-      "upvotes": 92,
-      "num_comments": 3,
-      "published_at": "2026-10-15T20:00:00.000Z",
-      "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 1423,
-      "project_page": "https://openmoss.ai/MOSS-Image/"
-    },
-    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -73,8 +54,27 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 112818,
+      "github_stars": 113091,
       "project_page": null
+    },
+    {
+      "id": "2610.23374",
+      "title": "MOSS-Image Technical Report",
+      "authors": "MOSI. AI",
+      "organization_name": "OpenMOSS-Team",
+      "organization_fullname": "OpenMOSS",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/61457b8deff2c9fdb4de4988/N5b9663zQ4uq5_OTNlnmw.png",
+      "summary": "Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense text and intricate layouts. To narrow this gap, we introduce MOSS-Image, an open generation system that combines high-fidelity visual synthesis with intent-aware composition. First, we pretrain a 5B single-stream diffusion transformer (DiT) from scratch with a carefully designed recipe, enabling bilingual long-form text rendering and precise layout control. Second, we develop an intention-aware agentic prompt enhancement (PE) module that translates diverse user requests into detailed content and layout specifications. Together, they enable MOSS-Image to generate text-rich and layout-coherent images. We further introduce LongLongTextBench (LLTB) for evaluating long-form English and Chinese text rendering, and RealLayoutArena (RLA) for end-to-end layout-rich generation. MOSS-Image achieves state-of-the-art performance among open-weight models on LLTB, with an average text coverage of 96.3%. On RLA, MOSS-Image ranks second in the end-to-end system comparison, while its backbone ranks first among generators evaluated with shared enhanced prompts. We will release the model, training recipe, and evaluation framework to support further research and promote the text-to-image community.",
+      "ai_summary": "MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2610.23374",
+      "arxiv_url": "https://arxiv.org/abs/2610.23374",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
+      "upvotes": 94,
+      "num_comments": 3,
+      "published_at": "2026-10-15T20:00:00.000Z",
+      "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
+      "github_stars": 1481,
+      "project_page": "https://openmoss.ai/MOSS-Image/"
     },
     {
       "id": "2610.08699",
@@ -111,7 +111,7 @@
       "num_comments": 6,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 6370,
+      "github_stars": 6438,
       "project_page": null
     },
     {
@@ -130,8 +130,27 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/HazyResearch/ncm",
-      "github_stars": 745,
+      "github_stars": 827,
       "project_page": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"
+    },
+    {
+      "id": "2610.28698",
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+      "authors": "Kuan Zhang, Yukun Chen, Zhihao Yang et al. (11 authors)",
+      "organization_name": "THUSI-Lab",
+      "organization_fullname": "Tsinghua Spatial Intelligence Lab",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/669a6a4a7f28c43e09b7a6f5/0K36706OPoFd7oKA9p00w.png",
+      "summary": "Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-training (CPT) across three axes: data volume, diversity, and model size. Our 120 training configurations span four model sizes from 0.8B to 27B, six data budgets from 50 to 1,600 hours, and five mixtures ranging from Minecraft-only data to diverse multi-world corpora. We assess performance and generalization using three-level validation losses and gameplay benchmarks from in-corpus worlds to unseen worlds. Our results show: (1) more data improves in-corpus performance, diversity improves transfer to related worlds with limited gains in distant worlds, and model size improves data efficiency but generalizes worse to distant worlds under single-world training; (2) we observe an early interface phase with broad cross-world benefits and a later world phase with gains narrowed to in-corpus and related worlds, and fit an empirical scaling law relating validation loss to data volume, diversity and model size; and (3) our models are competitive with Minecraft specialists and frontier models in 3D worlds, and perform best in real-time settings. However, the limits of imitation and persistent gaps in distant worlds suggest that building generalist embodied agents requires richer training stages beyond continued pre-training.",
+      "ai_summary": "Continued pre-training across data scale, diversity, and model size improves embodied learning in virtual worlds but reveals limits in distant-world generalization, motivating richer training beyond imitation.",
+      "hf_url": "https://huggingface.co/papers/2610.28698",
+      "arxiv_url": "https://arxiv.org/abs/2610.28698",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
+      "upvotes": 53,
+      "num_comments": 1,
+      "published_at": "2026-10-19T20:00:00.000Z",
+      "github_repo": "https://github.com/THUSI-Lab/GameScaling",
+      "github_stars": 231,
+      "project_page": "https://gamescaling.github.io"
     },
     {
       "id": "2606.23050",
@@ -149,7 +168,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 28184,
+      "github_stars": 28227,
       "project_page": null
     },
     {
@@ -164,34 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2610.17309",
       "arxiv_url": "https://arxiv.org/abs/2610.17309",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17309.png",
-      "upvotes": 26,
-      "num_comments": 3,
+      "upvotes": 67,
+      "num_comments": 4,
       "published_at": "2026-10-11T20:00:00.000Z",
       "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
       "github_stars": 1210,
       "project_page": "https://decision.startlux.com/"
-    },
-    {
-      "id": "2610.29989",
-      "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
-      "authors": "Ruopeng Gao, Yukun Huang, Jiarui Hu et al. (7 authors)",
-      "organization_name": "TencentARC",
-      "organization_fullname": "ARC Lab, Tencent",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
-      "summary": "Autoregressive video diffusion models generate videos chunk by chunk, yet producing plausible continuations does not guarantee that they capture how scenes evolve. Under teacher forcing, strong temporal redundancy may allow local visual continuity to serve as a shortcut for current-chunk denoising, reducing the pressure to model visual evolution. We introduce Future Chunk Prediction (FCP), an auxiliary objective jointly optimized with teacher-forced denoising that predicts temporally separated chunks without access to the intervening visual context. Drawing supervision directly from training videos, FCP requires no additional pretrained visual encoder and leaves autoregressive inference unchanged. Our method achieves superior physical plausibility over standard teacher-forced autoregressive training with a lower overall training compute budget, highlighting the effectiveness and efficiency of future-chunk supervision for modeling visual evolution. Intriguingly, our visualizations suggest that FCP fosters a more structured representation space, which may be valuable for building autoregressive world models.",
-      "ai_summary": "Future Chunk Prediction improves autoregressive video diffusion by enforcing future-chunk supervision, yielding more physically plausible video generation with reduced training cost.",
-      "hf_url": "https://huggingface.co/papers/2610.29989",
-      "arxiv_url": "https://arxiv.org/abs/2610.29989",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.29989.png",
-      "upvotes": 116,
-      "num_comments": 2,
-      "published_at": "2026-10-20T20:00:00.000Z",
-      "github_repo": "https://github.com/TencentARC/Looking-Ahead",
-      "github_stars": 52,
-      "project_page": "https://hellorpg.github.io/looking-ahead/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-23T01:16:12.047361+00:00"
+  "fetched_at": "2026-10-23T06:19:20.117114+00:00"
 }
