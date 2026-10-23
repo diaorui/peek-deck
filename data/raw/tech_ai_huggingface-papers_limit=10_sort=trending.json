@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 17718,
+      "github_stars": 18000,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43081,
+      "github_stars": 43217,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2610.17309",
       "arxiv_url": "https://arxiv.org/abs/2610.17309",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17309.png",
-      "upvotes": 25,
+      "upvotes": 26,
       "num_comments": 3,
       "published_at": "2026-10-11T20:00:00.000Z",
       "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2610.29989",
       "arxiv_url": "https://arxiv.org/abs/2610.29989",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.29989.png",
-      "upvotes": 108,
+      "upvotes": 116,
       "num_comments": 2,
       "published_at": "2026-10-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/Looking-Ahead",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-22T22:37:33.367210+00:00"
+  "fetched_at": "2026-10-23T01:16:12.047361+00:00"
 }

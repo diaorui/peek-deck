@@ -9,88 +9,28 @@
       "source": "AP News",
       "source_url": "https://apnews.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnlDSmd3bHZPMnVRaW9oTjhWWTJyalNBR2NNWEVjLVJOaE5WYWdsckk3UVdwRXlNbHJDVzNwSzFCRUF4MVpRalR2b3ktdGF3VUdwcGQ5aVcxSXk2ajRnQ1JTeWE3eUFOaVJLWklxa1o4QWJOQXhYYlFNZjhRLTFNdXhERHdycjBtcllZamYxb18waWtWTmxDMVYxSQ?oc=5",
-      "pub_date": 1792688340.0,
+      "pub_date": 1792701960.0,
       "article_url": "https://apnews.com/article/php-vulnerabilities-security-threat-38d37c4c18bf8355b02d85b5a73ed642",
       "image": null,
       "description": null
     },
     {
-      "headline": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMi1odVpCeldBLWZwZjdGVkE5am16cTZfeHlkbno4SzdGSmg4TVVTcVkxRnF5aUZvbV9DOEVpbGdSa05IX2VocHE5ZEdIa1M4cVoxVVZwX290REZNZFhRNGFRMkQ4ZzRJTC0xWHI0MlI5dDg4WVE?oc=5",
-      "pub_date": 1792600584.0,
-      "article_url": "https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1441986751.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world\u2019s websites."
-    },
-    {
-      "headline": "AI discovers bug that could take down 70% of internet",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKeVNvQ1VUbWFBX0cxTVlqSGw2T3dBakc1cFdMOGp0YWlGNndtQmltQ2ZiX3JQUGJFZzlGcTFZZ0FUMkNGdkswaXRaZXFXamVfWWRuVGNn?oc=5",
-      "pub_date": 1792705650.0,
-      "article_url": "https://www.foxnews.com/video/6407252736112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb13489-1f3e-4cfd-b26f-a0821474504a/34ccee11-9c2c-43f4-998d-68b96b5ed0bf/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Fox Business correspondent Darren Botelho reports on what PHP is, and how websites are patching vulnerabilities, on \u2018Fox & Friends.\u2019"
-    },
-    {
-      "headline": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5",
-      "pub_date": 1792705800.0,
-      "article_url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-      "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eef05a29afa3a8a23a2b5d40b2a20bde",
-      "description": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing"
-    },
-    {
-      "headline": "Gene editing scientists slowed down for safety. Could AI leaders follow their guide?",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFaa0VJWHhTOXZFeFphTXJReHFoOFZXalRMSlE0bmpLMnpCRzR3RXVfVDFhTlBMaFF6RDZkUFFqX2RkZEplaHpnY3BFcktaUTlzdHQyeFVpMmwxd283VUdraFJZbGRVYlVubDVDeEFxaGRlSkxXTHpsMTNCVWpBMkR1UTB6enFNR2c3UFloNnFVLUZvaXhEemwzMlFDOGVYS3lndmthTmRLZWxZWU90c3dkb0U5VTYwVXVYWG9yNDVxckJsUmc?oc=5",
-      "pub_date": 1792705133.0,
-      "article_url": "https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "description": "Some of the leaders of the AI race are calling for a slowdown, for safety's sake. Viewed in economics terms, it's a collective action problem: no one wants to slow down unless everyone does."
-    },
-    {
-      "headline": "Smart insoles give runners an AI coach for every step",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1J5SWVWUkM1aE5LUDVOVXdpbE4tenhlamE2NVRQN2hYMkJ3dHBBWXltSUo5dXBSMGpSQUNvN2VIMUhNVUhDWUtGQUFuVlp1dnVremhYcXV2eEgzdUlnVHJ3SkQtT0JjLTBzbUN5RXU0YVFjSHZGV0hjTWx5Um8ya3FtWW1GU1l4emFNOWpDdHoySHVFZGc?oc=5",
-      "pub_date": 1792704540.0,
-      "article_url": "https://www.cbsnews.com/boston/video/smart-insoles-give-runners-an-ai-coach-for-every-step/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/b3d0227c-8919-466a-a2e6-6209aa7abaa7/thumbnail/1200x630/2f341fcedde1c0c3b821f87522bf5164/8bf53b230208d16ebbe8a3434cca89f3.jpg",
-      "description": "A new company is combining smart insoles with sensors and an AI coach that delivers guidance directly through the runners' ears, with the goal of helping them avoid injury. CBS News' Jarred Hill reports."
-    },
-    {
-      "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5",
-      "pub_date": 1792661505.0,
-      "article_url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5",
-      "pub_date": 1792703832.0,
-      "article_url": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+      "pub_date": 1792567680.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Spotify Claims It Is \u2018Unusually Well-Positioned\u2019 for an Agentic AI Takeover",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkhLZTVSUTBTb0paTnhwV3UzdHJfS21qaG5GdVN1cmtGQXZmRUNaMVJfaG45VjVkQTNwZmNNNXpPTjBmeFV0bGM3dmdOTHNDaGljMUJCWGV5SUxEVUVUMUlJbXk0VHhUY0hEYkJKMzF2VUhSMTZwT3lGdUxXOUNfRzh2YWZBX1pRN1BkY1RGczVjdEJRbjFNR0FnQXR0VW9oUW9pc19mSQ?oc=5",
-      "pub_date": 1792703132.0,
-      "article_url": "https://gizmodo.com/spotify-claims-it-is-unusually-well-positioned-for-an-agentic-ai-takeover-2000829441",
+      "headline": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjdXY2RJZ243aGFyMFg2WmdScW1vdkF0M0ROdHJqbjN1R0tfRVQ3Vnl5UUxpNUxWV29vaDBSdlJQVHJkaXlrbVVLRmZlREZyZFhhal84a1d1bXItdlV1LU9qWmJReHJWeGtNb0VTNnc0MG05QUI3bDlYaEZEM1ZJZlRzUUM2b3VWYV94WmZEZ3kydDg?oc=5",
+      "pub_date": 1792684895.0,
+      "article_url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
       "image": null,
       "description": null
     },
@@ -103,8 +43,68 @@
       "article_url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Ukraine\u2019s strikes on Russian data centers disrupt key services and derail AI research",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWpTNEFPQ2s1OU5QRS1HMzBDVExXeFRlOWUxRzNWamxYTjREcENTMmw1VWlrNkRpdnFNRUFXLVZTUjI3SkZqRlhIZVVXc2hhampybC1pbHVkT2Nhd290ZVlOWEt1TDA4YzgwUUxOM2k1OEE2UFZGWi1DRkU2ckwxVHNZR3pQb2tVN3I2MjFfQlhMZjhqSDdXTTFyRUJCUlFueGlF?oc=5",
+      "pub_date": 1792680240.0,
+      "article_url": "https://apnews.com/article/russia-ukraine-war-data-yandex-ai-digital-2886cb306264b9429bd317bde4bf01fa",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "SK Data Center Arm in Talks to Fund $350 Billion AI Buildout",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0Jxa0ItbDlOQTU1RVRBUHhvNjViZFM2WDJpb2Y0VzF6WW52Nzdqajg3NzhVQVNuZ2EyRXo3Mzk2TXh4LTd3UlF6WWxHcV93ODlQYUI3c3pzM2h2a25paGZTNmpQVnc4OHNfc1NlYWlzOWdqU29jWXByNERzUGpOV2luSTEyR1hxMjZzRFpXaW5RQUNYQmZfSlA3NVFxVWk0Z1EtVExKaFp5dHJqaG9N?oc=5",
+      "pub_date": 1792716000.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTdYYVdqODdCNU5BbmVvekNKRGdZanduWXpncXVDZHdORm5HRGZCU1lSZ25jbk5jT1lkVFpjay1uRk5nWDR6SC1qYjItRGxIYlFyckg3eDVMcEZPdC1UUjVJODRVRDl3MGpLWEVnRDllUG1FLThjcXpCMnBfRnplb0dpcE85ZU82SER6MEZqc1hmQnROdlVrQWpWcEphZGlWS3d6bHY2c9IBrAFBVV95cUxPQ0gydG9zSThVYWlzWHlhUDF2ZFFrVF9nMEpnTHl4dVZtNHJDNEZTZWxrbWRXdzRhRjN0a0R6NTV6blE3WTV6YWZuUEhCalNjUnRiOUJWYkNjelNBZkpBVFVrblpFMlZWSjhPS29RaVVLaUdLVFZFcDFfbFJmUXBsSXNhWWhKZy1KV25FS25VTU1ZQXh1T3gyRTZaa3lfeUMxLUVxdWs2YkZ0c28x?oc=5",
+      "pub_date": 1792712750.0,
+      "article_url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108178340-1753793027349-gettyimages-2216761104-ETSY_MARKETPLACE.jpeg?v=1771449237&w=1920&h=1080",
+      "description": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement."
+    },
+    {
+      "headline": "Japanese Bond Yields Fall as AI Jitters Spur Haven Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0ItMTJyMGZaRmVnakhGLTNid3MwZVpKRnpPanVwbFRZMTlVNU15ZEgtcmlvSWM1UWJ1YlF2NXJrZEJSNHN6TDFkcHFCRHdXRXdqLXVCQ2VtWHlBZkMzVldYd21CcHZtb0RPbzdEaENlSERHMU0xQVBOV2tRQjFqaDBJb0YxTEtMamZVUUh3aEoxeFZqa0Fpb0IzZk1oZGZQc2psX3lRTUVYV0l2?oc=5",
+      "pub_date": 1792716120.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/japanese-bond-yields-fall-as-ai-jitters-spur-haven-demand",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Sakurazaka46\u2019s \u2018Ai MUST BE\u2019 Tops Japan Hot 100 as iiONDO\u2019s Debut Single \u2018Hatsukoi ONDO\u2019 Bows at No. 5",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTS1keTNFRnRpWXNLWmR1UEFEMjd2V3FLNU5Od21fOV9fOFhDTEE5bUF4LTJfOHdqdHNyVFhMX09sajdPVkZyYmtqMjJzQkhFdWhRSjExdDJ2Uk9wQWhKVUQwMnZITllrczJlRWdHMXVrMkN6RGdfS3lzazVxcGNGSGxLaFlKVXpHVVY2X3ZPOFI5amloTlFXcnlaZ1Fzdw?oc=5",
+      "pub_date": 1792714205.0,
+      "article_url": "https://www.yahoo.com/entertainment/music/articles/sakurazaka46-ai-must-tops-japan-001005405.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ac13358c0e64c140f96849d2e4939e17fd4b26794b40f07a53d197e10c8cb08d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2Ffc36bff2815e13ae62263cfda1412cf9.jpg",
+      "description": "EBiDAN\u2019s \u201cYes! Tokyo\u201d climbs 3-2."
+    },
+    {
+      "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5",
+      "pub_date": 1792660190.0,
+      "article_url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-22T22:37:49.108899+00:00"
+  "fetched_at": "2026-10-23T01:16:29.347702+00:00"
 }

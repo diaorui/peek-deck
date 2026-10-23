@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-22T22:37:52.232456+00:00'
+updated: '2026-10-23T01:16:30.408319+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 22, 2026 at 22:37 UTC  
+**Last Updated:** October 23, 2026 at 01:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,484.07
+### $81,445.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
+**24h:** -1.8%  
 **7d:** -0.2%  
-**30d:** -3.5%  
-**90d:** +26.5%  
-**1y:** -26.0%  
+**30d:** -3.6%  
+**90d:** +24.5%  
+**1y:** -26.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1634.17B
+**Market Cap:** $1635.67B
 Rank #1
 
 **Circulating Supply:** 20,102,046 BTC
@@ -64,7 +64,7 @@ Rank #1
 -35.5%
 
 **All-Time Low:** $67.81
-+119777.6%
++119888.2%
 
 ---
 
@@ -77,73 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[we’re all cut from the same cloth🤝😁](https://www.reddit.com/r/Bitcoin/comments/1xa529j/were_all_cut_from_the_same_cloth/)**
+**[Just bought my first Bitcoin, and immediately lost 3%.... Let's go???](https://www.reddit.com/r/Bitcoin/comments/1xcq2xz/just_bought_my_first_bitcoin_and_immediately_lost/)**
 
-3d ago
-
----
-
-**[Bitcoin HODLer spotted in France](https://www.reddit.com/r/Bitcoin/comments/1xa5dg9/bitcoin_hodler_spotted_in_france/)**
-
-3d ago
+7h ago
 
 ---
 
-**[Early. So early.](https://www.reddit.com/r/Bitcoin/comments/1xa420e/early_so_early/)**
+**[Cashing out bitcoin in the most tax efficient way.](https://www.reddit.com/r/Bitcoin/comments/1xcx1gx/cashing_out_bitcoin_in_the_most_tax_efficient_way/)**
 
-Aren't we?
+Had any one had exp of selling off your bitcoin and minimize any payment to a government? Thanks
 
-3d ago
-
----
-
-**[Bitcoin is dead again](https://www.reddit.com/r/Bitcoin/comments/1xacfrf/bitcoin_is_dead_again/)**
-
-2d ago
+2h ago
 
 ---
 
-**[Uptober aint over](https://www.reddit.com/r/Bitcoin/comments/1xadv5w/uptober_aint_over/)**
+**[Heatbit announces bitcoin miner water heater element](https://www.reddit.com/r/Bitcoin/comments/1xcpskg/heatbit_announces_bitcoin_miner_water_heater/)**
 
-2d ago
+It's a bit expensive, but if you can keep it working for more than 2 or 3 years, maybe it ends up net positive.
 
----
-
-**[German savings bank Sparkasse to allow its 40 million customers to buy Bitcoin and shitcoins](https://www.reddit.com/r/Bitcoin/comments/1xab77s/german_savings_bank_sparkasse_to_allow_its_40/)**
-
-https://br.advfn.com/noticias/NEWSBTC/2026/artigo/99519675
-
-3d ago
+🔗 [Heatbit](https://heatbit.com/?v=2) • 7h ago
 
 ---
 
-**[Don't buy bitcoin at an ATM.](https://www.reddit.com/r/Bitcoin/comments/1xabchm/dont_buy_bitcoin_at_an_atm/)**
+**[r/bitcoin users at the moment](https://www.reddit.com/r/Bitcoin/comments/1xcgui7/rbitcoin_users_at_the_moment/)**
 
-3d ago
-
----
-
-**[Bitcoin to $150,000 April 1, 2027](https://www.reddit.com/r/Bitcoin/comments/1xahrzt/bitcoin_to_150000_april_1_2027/)**
-
-Bitcoin to $150,000 by April. Anyone else agree?
-
-2d ago
+13h ago
 
 ---
 
-**[What objection do you hear most from people who still won’t buy any?](https://www.reddit.com/r/Bitcoin/comments/1xa9pd9/what_objection_do_you_hear_most_from_people_who/)**
+**[China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme](https://www.reddit.com/r/Bitcoin/comments/1xcfg4u/china_seeks_to_seize_61800_btc_tied_to_57_billion/)**
 
-I’m a financial engineering grad student at Stevens, and I’ve been asking regular savers about Bitcoin for a project. Many of them don’t own any. JPMorgan just sold five year notes tied to Bitcoin, and options on BlackRock’s Bitcoin ETF are listed out to January 2029. Yet Gallup found in June that only 9% of American adults own any crypto, down from 14% the year before. And if someone you know finally came around, what changed their mind?
+China moves to seize 61,800 Bitcoin linked to a massive fraud case. Here’s what the court ruling means for victims and the seized crypto.
 
-3d ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme) • 14h ago
 
 ---
 
-**[How real is this?](https://www.reddit.com/r/Bitcoin/comments/1xahyh6/how_real_is_this/)**
+**[Blockchain.com Scammed me out of $27,000 USD](https://www.reddit.com/r/Bitcoin/comments/1xce8ar/blockchaincom_scammed_me_out_of_27000_usd/)**
 
-Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urging crypto holders to enter "bunker mode" over concerns that AI could crack a...
+![img](9roa0gebrzwh1) Well it appears after doing several hours of research (reading through the depths of hell on reddit attempting to find some information on this exchange,) it appears that I have in fact been scammed out of over $27,000 in a single trade on Blockchain.com. I've personally never had any issues using the exchange over the years and this was the first time a real issue has occurred. After well over a month and a half with two weeks of undelivered emails having me to look like a schizophrenic beast, blockchain was just responding email after email "we will have someone on our team look at this situation". They locked my account after sending the crypto to the account - exchanging on site for USD to cash out - to then getting locked da fuk out. Honestly, it's so fkn hard to gut the fact that all of that bread is gone just like that. I mean, shit, I genuinely would've rather lost it to placing a hail mary bet on black. But life is life. Stay clear from that fucking scam shit site. save urself from being a retard </3
 
-🔗 [YouTube](https://youtube.com/shorts/fCik3SHhE-0?is=HIS4z6KsRPQZiAN_) • 2d ago
+15h ago
+
+---
+
+**[thats why i bought bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xchhz2/thats_why_i_bought_bitcoin/)**
+
+12h ago
+
+---
+
+**[Bitcoin is unique and useful. That's why it's valuable. It's not complicated.](https://www.reddit.com/r/Bitcoin/comments/1xcuozr/bitcoin_is_unique_and_useful_thats_why_its/)**
+
+​ Bitcoin is useful and has functionality that no other currency can provide. As a currency it does things other currenies cannot do. As a store of value, it does things other stores of value cannot do. As a unit of account, it does things other units of account cannot do. Bitcoin is uniquely useful. That's why it's valuable. ----- Here's substantiation that you probably won't read. Bitcoin acts as a bearer asset and a decentralized settlement network at the same time. This enables capabilities that are fundamentally impossible on traditional fiat rails like ACH, SWIFT, or credit card systems. Because legacy systems rely on centralized intermediaries to handle financial logic and hold funds, they are limited by restrictions that Bitcoin's fundamental cryptographic protocol isn't. Some.of the more important properties of Bitcoin are: Self-Custody - It's a bearer asset. Fiat shitcoins are IOUs on centralized banks' ledgers. Bitcoin allows people to hold their wealth directly by using private keys and cryptography. It's digital gold that the users have absolute control and ownership over. It's resistant to censorships and unfreezable - As long as you actual hodl your own coins you cannot be frozen or blacklisted from the entire network. You can still use custodial services when they make sense, but you aren't forced to. No central authority can suppress a user's financial freedom. Very much levels the playing field between regular people and large powerful entities. Irreversible Transsactions - Fiat rails typically allow for things like chargebacks and transaction reversals. Once a Bitcoin transaction is validated by miners and confirmed on the blockchain, it is permanent and irreversible, completely eliminating chargeback fraud. If you want the features of charge backs (buyer protections) or escrow or whatever for some transactions you can opt in. Use a third party that provides it. But it's not forced on you. Permissionless and pseudo-anonymous by default - Opening a normal bank account requires a legal identity, credit checks, and compliance with banking regulations. Anyone with an internet connection can create a Bitcoin public/private keypair and participate in the global economy. We all have seen how much bs is coming down the lane with identity verification, and government spyware. Bitcoin lets you opt out of all that noise for the most part. Immutable Monetary Policy - Central bankers can fuck with the supply of fiat currencies and we don't really have much say in it. Bitcoin is open source and has mathematically predictable monetary policy. It is hardcapped at 21 million coins, and the rate of new coin issuance is consistent and predixtable. Changes to this policy are open and take the majority of the network to actually implement. No small cababl of selfish actors can move the ship in the direction that only they want. Internet native programmable money - Legacy fiat based ledgers only hold records of balances. On the Bitcoin network logic and script-ability are baked right into the protocol. Things like multi-sig, escrow, lightning network, time locked contracts, and anything else you can dream up are possible by just building right on top of the bedrock that is Bitcoin. The above are just some of the unique features Bitcoin offers. You can map them yourself to the currency/unit of account/medium of exchange use cases yourself easily. The security model, immaculate conception, years of proving itself, anonymous founder, etc are all required too but not necessarily why it has value.
+
+4h ago
+
+---
+
+**[We keep a record of bitcoins price in the bathroom at my job](https://www.reddit.com/r/Bitcoin/comments/1xcoxl6/we_keep_a_record_of_bitcoins_price_in_the/)**
+
+Just to clarify, we’re mining operators, not haters. I only wish we started keeping track sooner.
+
+7h ago
+
+---
+
+**[Crypto traders seek shelter in bitcoin (BTC) as shitcoins slide, ETF flows wobble](https://www.reddit.com/r/Bitcoin/comments/1xcl0su/crypto_traders_seek_shelter_in_bitcoin_btc_as/)**
+
+The day ahead in crypto: Oct. 22, 2026
+
+🔗 [coindesk.com](https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble) • 10h ago
 
 ---
 
@@ -155,73 +159,67 @@ Natalie Brunell breaks down Ethereum researcher Justin Drake's viral warning urg
 
 Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the…
 
-TradingView • 5h ago
+TradingView • 8h ago
 
 ---
 
-**[Prediction: What Will 0.1 Bitcoin Be Worth by 2030?](https://finance.yahoo.com/markets/crypto/articles/prediction-0-1-bitcoin-worth-193024364.html)**
+**[J.P. Morgan Reveals First-Ever Bitcoin Price Forecast In Long-Term Capital Market Report](https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report)**
 
-J.P. Morgan just named Bitcoin the highest-returning asset in its long-term outlook, and that changes the math on even a small stake in ways most investors have not considered.
+J.P. Morgan projects Bitcoin as the top asset through 2036. Grace Remington and Sean Hagan examine its 10% base and 16% bull case long-term return targets.
 
-Yahoo Finance • 1d ago
-
----
-
-**[When Could Quantum Computers or AI Break Bitcoin? An Updated Threat Window](https://finance.yahoo.com/video/could-quantum-computers-ai-break-220043152.html)**
-
-Alex Pruden puts the earliest quantum attack around 2030, more likely 2033 to 2035. Conor Deegan says the AI threat to cryptography may already be here.
-
-Yahoo Finance • 37m ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Crypto Market Today, Oct. 22: Bitcoin and Altcoins Slide as Wall Street Fears Spill Into Crypto Markets](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-oct-22-215002279.html)**
+**[Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment](https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment)**
 
-Oil prices held above $111 and Nasdaq futures softened as traders trimmed exposure, today, Oct. 22, 2026.
+Bloomberg.com • 5h ago
 
-Yahoo Finance • 47m ago
+---
+
+**[Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
+
+Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
+
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin falls below $82,000 as investors retreat from risk assets](https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html)**
+
+Bitcoin fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions.
+
+Yahoo Finance • 9h ago
 
 ---
 
 **[Massachusetts police officer heads off Bitcoin scam targeting Maine woman](https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/)**
 
-Bangor Daily News • 4h ago
+Bangor Daily News • 6h ago
 
 ---
 
 **[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
 
-Financial Times • 7h ago
+Financial Times • 10h ago
 
 ---
 
-**[Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch](https://www.bloomberg.com/news/newsletters/2026-10-22/fifteen-minute-prediction-market-bets-scratch-the-bitcoin-itch)**
+**[Bitcoin ATM service to shut down in Oregon under settlement](https://www.oregonlive.com/business/2026/10/bitcoin-atm-service-to-shut-down-in-oregon-under-settlement.html)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[China wants 61,800 Bitcoin from UK’s $5.7B fraud case. Who has the right to them?](https://finance.yahoo.com/markets/crypto/articles/china-wants-61-800-bitcoin-191000631.html)**
-
-A Tianjin court has opened confiscation proceedings, while British courts are yet to decide who actually owns the seized coins.
-
-Yahoo Finance • 3h ago
+OregonLive.com • 11h ago
 
 ---
 
-**[Bitcoin scam that cost U.P. man $665K sparks arrest, charges](https://www.detroitnews.com/story/news/local/michigan/2026/10/21/man-zhong-jiang-charged-bitcoin-scam-escanaba-up-resident/92365372007/)**
+**[Bitcoin data center fire seriously injures two people in Treutlen County, EMA director says](https://www.13wmaz.com/article/news/local/fire-at-data-center-injures-2-people-treutlen-county-ema/93-d5f53f6c-3eb9-4803-ace8-240a3360cb0e)**
 
-Zhong Jiang faces up to 10 years in prison, officials said.
-
-The Detroit News • 1d ago
+13WMAZ • 6h ago
 
 ---
 
-**[China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report](https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin)**
+**[Kalshi to Allow Leveraged Futures Bets With Bitcoin-Backed Loans](https://www.bloomberg.com/news/articles/2026-10-21/kalshi-to-allow-leveraged-futures-bets-with-bitcoin-backed-loans)**
 
-The alleged fraudster tried to run away with nearly 62,000 bitcoins.
-
-Bitcoin Magazine • 4h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -261,11 +259,17 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ---
 
+**[OpenAI trims valuation target after pitching higher price](https://news.ycombinator.com/item?id=50202402)**
+
+⬆️ 4 • 💬 1 • 2h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
+
+---
+
 **[The grads ditching the UK for a fresh start abroad](https://news.ycombinator.com/item?id=50193119)**
 
 With graduate jobs hard to come by, more young adults are reported to be considering emigrating.
 
-⬆️ 1 • 💬 0 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
+⬆️ 1 • 💬 0 • 15h ago • [bbc.com](https://www.bbc.com/news/articles/cmzxj4e8w44vo)
 
 ---
 
@@ -279,17 +283,17 @@ Japan's stock market is falling, French ten-year yields hit 5% for the first tim
 
 📺 Yahoo Finance
 
-👁️ 18K • 👍 416 • 💬 112 • ⏱️ 14:53 • 5h ago
+👁️ 25K • 👍 499 • 💬 146 • ⏱️ 14:53 • 8h ago
 
 ---
 
-**[You Have No Idea What’s Coming for Bitcoin! (WARNING)](https://www.youtube.com/watch?v=66qVpe9-Cng)**
+**[Bullish Bitcoin Signs Underneath Selloff; OCC Stablecoin Framework to Move COIN, CRCL](https://www.youtube.com/watch?v=yz450JXAUjY)**
 
-Yesterday everybody was bullish. Today? Fear is back and Bitcoin just dropped nearly 4%. Dylan and the Chart Hackers team ...
+Bitcoin and Ethereum sold off alongside equities as AI debt stresses mount on equities. Adam Lynch (@CharlesSchwab) still sees ...
 
-📺 Chart Hackers
+📺 Schwab Network
 
-👁️ 7K • 👍 342 • 💬 7 • ⏱️ 1:00:03 • 4h ago
+👁️ 2K • 👍 24 • 💬 12 • ⏱️ 5:03 • 5h ago
 
 ---
 
@@ -299,27 +303,7 @@ Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cr
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 476 • 💬 93 • ⏱️ 18:14 • 1h ago
-
----
-
-**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 66K • 👍 3K • 💬 121 • ⏱️ 10:31 • 8h ago
-
----
-
-**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=BrFF-hfRECc)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 23K • 👍 774 • 💬 38 • ⏱️ 8:20 • 14h ago
+👁️ 14K • 👍 1K • 💬 117 • ⏱️ 18:14 • 3h ago
 
 ---
 
@@ -329,17 +313,27 @@ Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a T
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 713 • 💬 63 • ⏱️ 35:49 • 8h ago
+👁️ 25K • 👍 742 • 💬 68 • ⏱️ 35:49 • 10h ago
 
 ---
 
-**[J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report](https://www.youtube.com/watch?v=v-zWiMIuK1o)**
+**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
 
-J.P. Morgan just named Bitcoin the best-performing asset in its long-term outlook. In its 2027 Long-Term Capital Market ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Bitcoin Magazine
+📺 Benjamin Cowen
 
-👁️ 38K • 👍 224 • 💬 42 • ⏱️ 2:41 • 2d ago
+👁️ 79K • 👍 3K • 💬 140 • ⏱️ 10:31 • 10h ago
+
+---
+
+**[Tech Stocks Dump, Bitcoin FOLLOWS: The Exact Downside Targets](https://www.youtube.com/watch?v=IirVmrcaMFg)**
+
+Tech stocks dump and Bitcoin follows. Here are the exact downside targets to watch. Nick Valdez, Chief Crypto Strategist for ...
+
+📺 Verified Investing
+
+👁️ 4K • 👍 117 • 💬 8 • ⏱️ 16:55 • 7h ago
 
 ---
 
@@ -349,27 +343,37 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 1K • 👍 121 • 💬 6 • ⏱️ 10:41 • 1h ago
+👁️ 5K • 👍 218 • 💬 23 • ⏱️ 10:41 • 4h ago
 
 ---
 
-**[IT&#39;S OVER!! JPMORGAN CONCEDES DEFEAT TO BITCOIN!!](https://www.youtube.com/watch?v=ANru3uNSw9U)**
+**[Bitcoin Bulls Aren&#39;t Done Yet... $8*,***** Is My Next Target!](https://www.youtube.com/watch?v=gLTrxTY5_kg)**
 
-JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook, and Rustin has thoughts after years of Jamie ...
+The long trade played out. Bitcoin bulls grabbed the first batch of liquidity right on cue. Now the real question is whether they have ...
 
-📺 Simply Bitcoin
+📺 Crypto Banter
 
-👁️ 39K • 👍 2K • 💬 208 • ⏱️ 20:40 • 23h ago
+👁️ 19K • 👍 867 • 💬 10 • ⏱️ 33:24 • 1d ago
 
 ---
 
-**[Bitcoin is about to MELT Faces……….](https://www.youtube.com/watch?v=UBMPJYiDIr0)**
+**[OFFICIAL: JPMorgan Confirms Bitcoin to $214,000 per coin as &#39;base case&#39;](https://www.youtube.com/watch?v=SQ8Hu-ByVh0)**
 
-Bitcoin was jetzt.
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
-📺 MMCrypto
+📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 234 • ⏱️ 2:50 • 1d ago
+👁️ 64K • 👍 2K • 💬 88 • ⏱️ 8:43 • 2d ago
+
+---
+
+**[$2 Million Bitcoin WARNING - Fidelity Says It Will Happen FASTER Than You Think](https://www.youtube.com/watch?v=jDLTrPQSzZg)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+
+📺 Bitcoin News Alerts
+
+👁️ 1K • 👍 132 • 💬 30 • ⏱️ 15:43 • 3h ago
 
 ---
 
