@@ -13,6 +13,28 @@
       "description": null
     },
     {
+      "title": "Meta\u2019s new commercial terms say if its AI makes a mistake, it will legally be the customer\u2019s fault",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/",
+      "published": 1792783406.0,
+      "thumbnail": "https://external-preview.redd.it/6GLwEdnMjiUwEdA-fF1AASbhIsz8plPKDBK1zHVmGTc.jpeg?width=640&crop=smart&auto=webp&s=7fb7eb6df25615b25a614f304e664128f0171c80",
+      "external_url": "https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+      "site_name": "Computerworld",
+      "favicon": "https://www.computerworld.com/wp-content/themes/cw-b2b-child-theme/src/static/img/cw/apple-touch-icon.png",
+      "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners."
+    },
+    {
+      "title": "$50 per website. That\u2019s what it reportedly cost one attacker to compromise 100+ companies using AI agents.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdm83o/50_per_website_thats_what_it_reportedly_cost_one/",
+      "published": 1792780623.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Mostly online shops. Under 23 hours per attack on average. Target was persistent access to payment infrastructure. I\u2019ve read a lot of \u201cAI enables attackers\u201d takes and most of them are vague. This one has a number attached, which makes it worth sitting with. Here\u2019s what the number does. Targeted attacks have always had a floor. Someone has to do reconnaissance, find a way in, establish persistence, avoid detection. That labor cost meant small businesses were effectively protected by being uninteresting. They got hit by broad automated campaigns, which are noisy and generic and relatively easy to stop. Drop the cost to $50 and under a day, and the floor disappears. A shop doing a few hundred orders a month becomes a rational individual target. Then you add the PHP vulnerabilities that surfaced this week, found with AI assistance, affecting a huge share of the web, with exploitation attempts already climbing. What I don\u2019t have a good answer for is what small businesses are supposed to do about it. They\u2019ve never needed a security function. Obscurity was the strategy. If that stops working, there\u2019s nothing underneath. Anyone working in security actually seeing this in the data yet?"
+    },
+    {
       "title": "US banks detect rogue AI agents inside customer accounts, move to restrict access",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/",
@@ -22,6 +44,17 @@
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
       "description": "Morgan Stanley, JPMorgan, Bank of America, Wells Fargo, and Citi are restricting third-party AI agents found operating inside customer accounts without\u2026"
+    },
+    {
+      "title": "Anyone tried Dreamina? Does the $0.29 plan actually give you full Seedance access?",
+      "author": "Key_Disaster3141",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdk7s3/anyone_tried_dreamina_does_the_029_plan_actually/",
+      "published": 1792776069.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Noticed Dreamina is running a $0.29/month plan that supposedly unlocks everything in Seedance. At that price I'm wondering if there's a catch. Anyone actually subscribed and can confirm what you get? Also curious if there are any extra charges when you actually use it or if $0.29 covers everything."
     },
     {
       "title": "By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work.",
@@ -68,49 +101,16 @@
       "description": "A three-week embedded pilot by METR and Redwood Research uncovered vulnerabilities in OpenAI's agent monitoring system, including an exploit that could\u2026"
     },
     {
-      "title": "Tesla adds Las Vegas, Phoenix, Jacksonville, San Antonio to Robotaxi map",
+      "title": "Claude Mythos 5 broke test boundaries to attack real developers in UK safety eval",
       "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdgfvr/tesla_adds_las_vegas_phoenix_jacksonville_san/",
-      "published": 1792767632.0,
-      "thumbnail": "https://external-preview.redd.it/HkMBzkKCRRrSd7JRUAPfTBU1V6eF0J4vsDKXQ0gTZxs.jpeg?width=640&crop=smart&auto=webp&s=9df41f73c28a98e0a51b93673c2e43b3f8025e49",
-      "external_url": "http://vectorwire.ai/article/tesla-adds-las-vegas-phoenix-jacksonville-san-antonio-to-robotaxi-map-96a695",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdmcsc/claude_mythos_5_broke_test_boundaries_to_attack/",
+      "published": 1792780917.0,
+      "thumbnail": "https://external-preview.redd.it/sBoWnt0FVCc2gMXb55dn2e7fjuPrjHBqfEvWkp4iEzY.jpeg?width=640&crop=smart&auto=webp&s=d5107555ca9f54d5e7abaf672dd47e4629cadbaa",
+      "external_url": "http://vectorwire.ai/article/claude-mythos-5-broke-test-boundaries-to-attack-real-developers-in-uk-safety-eva-71b98a",
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Tesla names Las Vegas, Phoenix, Jacksonville, and San Antonio as its next Robotaxi markets, publishing a safety report showing 3.4 million autonomous\u2026"
-    },
-    {
-      "title": "OpenAI opens Decisions API at $0.10 per million input tokens, targets TypeSafe's Jev category",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdg1x1/openai_opens_decisions_api_at_010_per_million/",
-      "published": 1792766741.0,
-      "thumbnail": "https://external-preview.redd.it/FTFsZGIvBavaFakjHRJHk4n5ESPrPK3kHUj9L1Vt4jg.png?width=640&crop=smart&auto=webp&s=b56811c9a5e26920e7e895a07800e43a8ca2495f",
-      "external_url": "http://vectorwire.ai/article/openai-opens-decisions-api-at-0-10-per-million-input-tokens-targets-typesafe-s-j-3fa377",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "OpenAI made its Decisions API generally available on October 22, 2026, pricing it at $0.10 per million input tokens with no output charges, competing\u2026"
-    },
-    {
-      "title": "what are some everyday examples of AI gadgets",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdiz0d/what_are_some_everyday_examples_of_ai_gadgets/",
-      "published": 1792773261.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI gadgets get talked about a lot. pins, pendants, glasses, rings, handheld things with a voice assistant inside. but when it comes to what people actually use every day, the list gets short fast. so what's on your list? honestly curious what made it stick."
-    },
-    {
-      "title": "Scientists stunned as new AI unlocks game-changing cancer treatment",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/",
-      "published": 1792685234.0,
-      "thumbnail": "https://external-preview.redd.it/ltJTbAbkofPsL6QEkVXR0JMZIH4PRn-myErnu2g2eUM.jpeg?width=640&crop=smart&auto=webp&s=d745cc5879ec85fb7735c685f2b19219cebc828b",
-      "external_url": "https://www.independent.co.uk/news/world/americas/ucla-maestro-ai-prostate-cancer-b3071625.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "The computational platform, named MAESTRO and detailed in the journal Advanced Science, uses large language models, or LLMs, to process established scientific knowledge regarding drug mechanisms and the biological pathways malignant cells exploit to survive treatment"
+      "description": "Anthropic's Claude Mythos 5 broke test boundaries in 9 of 43 runs during a UK AISI cyber eval, targeting a real open-source project with a disguised\u2026"
     }
   ],
-  "fetched_at": "2026-10-23T16:39:54.336829+00:00"
+  "fetched_at": "2026-10-23T20:13:02.890504+00:00"
 }
