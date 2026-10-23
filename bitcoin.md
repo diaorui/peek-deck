@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-23T20:13:24.095031+00:00'
+updated: '2026-10-23T23:20:12.688956+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 23, 2026 at 20:13 UTC  
+**Last Updated:** October 23, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,308.73
+### $80,807.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.2%  
-**30d:** -3.6%  
-**90d:** +24.5%  
-**1y:** -26.7%  
+**24h:** -0.7%  
+**7d:** -0.7%  
+**30d:** -4.2%  
+**90d:** +23.8%  
+**1y:** -27.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1633.21B
+**Market Cap:** $1620.50B
 Rank #1
 
 **Circulating Supply:** 20,102,484 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.6%
+-36.0%
 
 **All-Time Low:** $67.81
-+119708.3%
++118807.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not one government currency has preserved its purchasing power over the past decade.](https://www.reddit.com/r/Bitcoin/comments/1xde1vw/not_one_government_currency_has_preserved_its/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The McRib Rally Is Back The McRib Rally Is Back
 
-7h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ The McRib Rally Is Back The McRib Rally Is Back
 
 Available in every Swiss post office
 
-6h ago
+9h ago
 
 ---
 
@@ -103,13 +103,13 @@ Available in every Swiss post office
 
 sheeesh lol
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 6h ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 9h ago
 
 ---
 
 **[Which one of you is it?](https://www.reddit.com/r/Bitcoin/comments/1xdcilp/which_one_of_you_is_it/)**
 
-7h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ sheeesh lol
 
 Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin. Same watts, double duty. The Avalon Mini 3 is a perfect space heater. ✌🏻
 
-10h ago
+14h ago
 
 ---
 
@@ -129,13 +129,13 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[HODL onto your sats y'all](https://www.reddit.com/r/Bitcoin/comments/1xd4y95/hodl_onto_your_sats_yall/)**
 
-15h ago
+18h ago
 
 ---
 
 **[Touching grass will set you free from bitcoin 🍃](https://www.reddit.com/r/Bitcoin/comments/1xd3rzi/touching_grass_will_set_you_free_from_bitcoin/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 My father works as an engraver of medals. Some time ago, he was commissioned to engrave a medal for a woman whose son had passed away—the woman was a foreigner, incidentally. The medal had to feature a specific logo, which the woman explained to my father was "Bitcoin" (though he doesn’t recall the details very clearly, as it was quite a long time ago). Recently, he came across the logo and showed it to me. We aren’t certain exactly when this request was made, but it was definitely between 10 and 20 years ago. Could this be one of the earliest versions of the Bitcoin logo? And is it possible that the woman’s son was one of the creators of Bitcoin, or someone who played a significant role in its development?
 
-3h ago
+6h ago
 
 ---
 
@@ -153,29 +153,51 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 **[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
 
-Bloomberg.com • 9h ago
+Bloomberg • 13h ago
 
 ---
 
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
+**[Heatbit unveils Bitwater, a water heater that mines Bitcoin](https://www.tradingview.com/news/cryptobriefing:150be6ecb094b:0-heatbit-unveils-bitwater-a-water-heater-that-mines-bitcoin/)**
 
-Cardano could be headed for a big comeback in 2027.
+Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the…
 
-The Motley Fool • 11h ago
+TradingView • 1d ago
 
 ---
 
-**[CoreWeave Heads for Third Weekly Loss, Weighing on Stocks and Bitcoin Over AI Financing Fears](https://finance.yahoo.com/markets/crypto/articles/coreweave-heads-third-weekly-loss-194400826.html)**
+**[Bitcoin Investors Look To Mid-Term And Fed Meeting Results Amid Range-Bound Trading](https://www.forbes.com/sites/digital-assets/2026/10/23/bitcoin-investors-look-to-mid-term-and-fed-meeting-results-amid-range-bound-trading/)**
 
-Bitcoin (CRYPTO: $BTC) traded near $81,400 on Friday, little changed on the day and roughly where it ended last wee...
+Forbes • 2h ago
 
-Yahoo Finance • 29m ago
+---
+
+**[Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs](https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs)**
+
+Brent crude oil surged above $116 per barrel for the first time since late April.
+
+CoinDesk • 12h ago
+
+---
+
+**[Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
+
+Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin falls below $82,000 as investors retreat from risk assets](https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html)**
+
+Bitcoin fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions.
+
+Yahoo Finance • 1d ago
 
 ---
 
 **['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
 
-13WMAZ • 17h ago
+13WMAZ • 20h ago
 
 ---
 
@@ -185,41 +207,19 @@ Bangor Daily News • 1d ago
 
 ---
 
-**[Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports](https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports)**
+**[Bitcoin Core Ends Long Embargoes For Bugs AI Can Rediscover](https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes)**
 
-The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.
+Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received.
 
-CoinDesk • 6h ago
-
----
-
-**[China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report](https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin)**
-
-The alleged fraudster tried to run away with nearly 62,000 bitcoins.
-
-Bitcoin Magazine • 1d ago
+Bitcoin Magazine • 6h ago
 
 ---
 
-**[Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day's inflows](https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483)**
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
 
-U.S. spot Bitcoin ETFs witnessed $635.6 million in net outflows on Thursday, more than reversing the $528.4 million the funds had added the day before.
+Cardano could be headed for a big comeback in 2027.
 
-The Block • 8h ago
-
----
-
-**[Bitcoin flat around $82k as tech rout, rising oil dent risk](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158)**
-
-Investing.com • 6h ago
-
----
-
-**[Heatbit unveils Bitwater, a water heater that mines Bitcoin](https://www.tradingview.com/news/cryptobriefing:150be6ecb094b:0-heatbit-unveils-bitwater-a-water-heater-that-mines-bitcoin/)**
-
-Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the…
-
-TradingView • 1d ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -232,14 +232,6 @@ TradingView • 1d ago
 Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
 
 ⬆️ 8 • 💬 3 • 2d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
-
----
-
-**[Adam Back says he is not elusive Bitcoin creator named by New York Times](https://news.ycombinator.com/item?id=50125445)**
-
-The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
-
-⬆️ 2 • 💬 0 • 6d ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -261,13 +253,13 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 **[OpenAI trims valuation target after pitching higher price](https://news.ycombinator.com/item?id=50202402)**
 
-⬆️ 6 • 💬 1 • 20h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
+⬆️ 6 • 💬 1 • 1d ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
 
 ---
 
 **[OpenAI trims valuation target to $1.25T after pitching higher price](https://news.ycombinator.com/item?id=50209513)**
 
-⬆️ 5 • 💬 0 • 5h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
+⬆️ 5 • 💬 0 • 9h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
 
 ---
 
@@ -289,7 +281,7 @@ Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cr
 
 📺 Simply Bitcoin
 
-👁️ 53K • 👍 2K • 💬 221 • ⏱️ 18:14 • 22h ago
+👁️ 55K • 👍 2K • 💬 227 • ⏱️ 18:14 • 1d ago
 
 ---
 
@@ -299,67 +291,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 115K • 👍 4K • 💬 156 • ⏱️ 10:31 • 1d ago
+👁️ 117K • 👍 4K • 💬 157 • ⏱️ 10:31 • 1d ago
 
 ---
 
-**[$2 Million Bitcoin WARNING - Fidelity Says It Will Happen FASTER Than You Think](https://www.youtube.com/watch?v=jDLTrPQSzZg)**
+**[IT&#39;S OVER!! JPMORGAN CONCEDES DEFEAT TO BITCOIN!!](https://www.youtube.com/watch?v=ANru3uNSw9U)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
+JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook, and Rustin has thoughts after years of Jamie ...
 
-📺 Bitcoin News Alerts
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 272 • 💬 101 • ⏱️ 15:43 • 22h ago
-
----
-
-**[&quot;Bitcoin Is Going Over $100k The Bull Market Is Here&quot; A Stock Market Crash Is Coming In 2026](https://www.youtube.com/watch?v=JPnMGBns2B4)**
-
-If you've been paying attention not only to cryptocurrency news but also economic news coming from the world right now, one of ...
-
-📺 The Modern Investor
-
-👁️ 12K • 👍 866 • 💬 200 • ⏱️ 31:07 • 1d ago
-
----
-
-**[OFFICIAL: JPMorgan Confirms Bitcoin to $214,000 per coin as &#39;base case&#39;](https://www.youtube.com/watch?v=SQ8Hu-ByVh0)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 2K • 💬 90 • ⏱️ 8:43 • 2d ago
-
----
-
-**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
-
-Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
-
-📺 Yahoo Finance
-
-👁️ 40K • 👍 667 • 💬 200 • ⏱️ 14:53 • 1d ago
-
----
-
-**[The Truth About Strive’s New Bitcoin Play. How Will Strategy Respond?](https://www.youtube.com/watch?v=K5HMYfoQbIE)**
-
-MSTR stock is still the giant, but the fastest bitcoin strategy since July belongs to a stack 23 times smaller. If you own MicroStrategy ...
-
-📺 Dana Love, PhD
-
-👁️ 19K • 👍 490 • 💬 45 • ⏱️ 22:54 • 1d ago
-
----
-
-**[Chamath Palihapitiya: An Urgent Alert To All Crypto Investors](https://www.youtube.com/watch?v=U2UrnJMjDbA)**
-
-Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x.com/GigaStar_ GigaStar is a channel partner.
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 1K • 💬 91 • ⏱️ 11:34 • 19h ago
+👁️ 44K • 👍 2K • 💬 222 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -373,13 +315,63 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 ---
 
-**[🚨 ASST BOUGHT $700M BITCOIN WITH SATS..?!?!?!?!](https://www.youtube.com/watch?v=OvknN9La_9Q)**
+**[I&#39;m Bearish On Bitcoin But LOADING UP On These Altcoins](https://www.youtube.com/watch?v=GayMGeJVknc)**
 
-Join BULLISH: https://britishhodl.com/bullish Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New ...
+Altcoins are back at Sheldon's buy zones, and it's time to prepare for the next move. In this video, Sheldon breaks down his ...
 
-📺 BRITISH HODL
+📺 Crypto Banter
 
-👁️ 12K • 👍 381 • 💬 32 • ⏱️ 12:14 • 2d ago
+👁️ 17K • 👍 812 • 💬 18 • ⏱️ 19:27 • 13h ago
+
+---
+
+**[The Truth About Strive’s New Bitcoin Play. How Will Strategy Respond?](https://www.youtube.com/watch?v=K5HMYfoQbIE)**
+
+MSTR stock is still the giant, but the fastest bitcoin strategy since July belongs to a stack 23 times smaller. If you own MicroStrategy ...
+
+📺 Dana Love, PhD
+
+👁️ 19K • 👍 495 • 💬 46 • ⏱️ 22:54 • 1d ago
+
+---
+
+**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
+
+Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
+
+📺 Yahoo Finance
+
+👁️ 41K • 👍 669 • 💬 186 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[The Fundamental Bull Case for Bitcoin Explained in 29 Minutes](https://www.youtube.com/watch?v=OGCfJyi1u3M)**
+
+The fundamental bull case for Bitcoin explained in 29 minutes, from the history of money to Bitcoin's fixed supply of 21 million.
+
+📺 Joe Burnett
+
+👁️ 15K • 👍 321 • 💬 44 • ⏱️ 29:44 • 2d ago
+
+---
+
+**[How I Retired On Bitcoin (just copy me)](https://www.youtube.com/watch?v=G3t_GlfOfww)**
+
+I gave myself 10 years to retire on Bitcoin and reached financial independence in under 5, and here's exactly what I did, in order, ...
+
+📺 Trey Sellers
+
+👁️ 12K • 👍 298 • 💬 112 • ⏱️ 11:44 • 1d ago
+
+---
+
+**[Bitcoin Faces a Global Market Bloodbath](https://www.youtube.com/watch?v=dL8cML5_HnM)**
+
+Play *Frontline Season 2* - https://frontlinefps.com/ Clashpad.Fun - *Launch a Token. Reward the Holders* ...
+
+📺 CryptosRUs
+
+👁️ 30K • 👍 795 • 💬 90 • ⏱️ 35:49 • 1d ago
 
 ---
 
