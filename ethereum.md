@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-22T22:37:52.236049+00:00'
+updated: '2026-10-23T01:16:30.411766+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 22, 2026 at 22:37 UTC  
+**Last Updated:** October 23, 2026 at 01:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -1.5%  
-**30d:** -11.1%  
-**90d:** +27.3%  
-**1y:** -38.2%  
+**24h:** -2.2%  
+**7d:** -0.6%  
+**30d:** -11.2%  
+**90d:** +22.1%  
+**1y:** -39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.00B
+**Market Cap:** $291.74B
 Rank #2
 
 **Circulating Supply:** 122,152,452 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.8%
+-51.7%
 
 **All-Time Low:** $0.43
-+550102.2%
++551451.0%
 
 ---
 
@@ -150,11 +150,11 @@ ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster
 
 ## Google News: "ethereum"
 
-**[JPMorgan Is Blocking Outside AI Agents and Taking Its Deposit Token to Ethereum. Here’s What Both Moves Protect](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-blocking-outside-ai-agents-203533771.html)**
+**[Solayer Pay Opens Stablecoin Deposits on Solana, Ethereum, Arbitrum, BNB Chain and Base](https://finance.yahoo.com/markets/crypto/articles/solayer-pay-opens-stablecoin-deposits-003800445.html)**
 
-Key Stats for JPMorgan StockCurrent Price: $335. 19Target Price (Mid): ~$440Street Target: ~$373Potential Total Return: ~31%Annualized IRR: ~7% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?JPMorgan Chase (JPM) made two October moves that guard the same asset: its deposits.
+Users can now fund their Solayer Pay balance from the network their stablecoins already sit on, then spend at Visa merchants worldwidePALO ALTO, California, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Solayer, the company building a hardware-accelerated SVM blockchain for real-time finance, today announced that Solayer Pay, its crypto-native Visa card and payments app, now accepts deposits on five networks: Solana, Ethereum, Arbitrum, BNB Chain and Base. A user holding USDT on BNB Chain or USDC on Base ca
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 38m ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2h ago
 
 A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.
 
-CoinDesk • 10h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 10h ago
 
 The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
 
-The Block • 8h ago
+The Block • 11h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 8h ago
 
 Leading cryptocurrencies traded in the green on Wednesday as investors assessed progress in key legislation governing stabelcoins.Crypto Market Gains MomentumBitcoin topped $84,000 but encountered strong resistance at $84,800. Ethereum also hit a wall in the early $2,500s, retreating to the $2,400…
 
-TradingView • 20h ago
+TradingView • 23h ago
 
 ---
 
@@ -202,7 +202,15 @@ J.P. Morgan • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 7h ago
+
+---
+
+**[Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum’s Four-Minute Settlement Plan Revives a $12,000 ETH Target](https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857)**
+
+Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ...
+
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -214,19 +222,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum’s Four-Minute Settlement Plan Revives a $12,000 ETH Target](https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857)**
-
-Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ...
-
-markets.businessinsider.com • 4h ago
-
----
-
 **[Ethereum delays Glamsterdam Hoodi upgrade over EIP-8037 review](https://blockchain.news/news/ethereum-delays-glamsterdam-hoodi-upgrade-eip-8037-review)**
 
 Ethereum postponed the Hoodi Glamsterdam testnet upgrade from Oct. 26 to review EIP-8037 interactions with mainnet smart contracts.
 
-Blockchain News • 5h ago
+Blockchain News • 7h ago
 
 ---
 
@@ -234,43 +234,13 @@ Blockchain News • 5h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING: PUMP &amp; DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iCgYDMGcVVY)**
+**[Midterm Election Noise &amp; Bitcoin, Ethereum&#39;s Potential Dip Buying Opportunity](https://www.youtube.com/watch?v=qhFYLrAl9Yo)**
 
-BITCOIN WARNING: PUMP & DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midterm elections and a tentative change of ...
 
-📺 Crypto World
+📺 Schwab Network
 
-👁️ 4K • 👍 186 • 💬 27 • ⏱️ 23:31 • 4h ago
-
----
-
-**[Ethereum Has A Big Problem (Tom Lee In Shambles)](https://www.youtube.com/watch?v=twQLQ5E2jf8)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 21K • 👍 464 • 💬 99 • ⏱️ 9:54 • 1d ago
-
----
-
-**[Ethereum Dumped $131 Overnight.. Back to $2,400!!](https://www.youtube.com/watch?v=1VOG-oUHgYo)**
-
-Toobit - $8,810 in Rewards + Exclusive VIP Bonuses https://marzell.org/Toobit ...
-
-📺 Marzell Crypto
-
-👁️ 260 • 👍 9 • 💬 1 • ⏱️ 3:23 • 9h ago
-
----
-
-**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
-
-What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
-
-📺 Crypto In America
-
-👁️ 6K • 👍 120 • 💬 38 • ⏱️ 41:22 • 1d ago
+👁️ 4K • 👍 34 • 💬 1 • ⏱️ 6:40 • 1d ago
 
 ---
 
@@ -280,17 +250,27 @@ ethereum #crypto #supplyanddemand #cycleanalysis For forecasting, trade planning
 
 📺 Venture
 
-👁️ 1K • 👍 37 • 💬 4 • ⏱️ 15:11 • 14h ago
+👁️ 1K • 👍 40 • 💬 5 • ⏱️ 15:11 • 16h ago
 
 ---
 
-**[Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum &amp; Crypto](https://www.youtube.com/watch?v=0YJnd0E2f0g)**
+**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
 
-Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto ⭐ Follow Altcoin Daily on X: ...
+What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
 
-📺 Altcoin Daily
+📺 Crypto In America
 
-👁️ 81K • 👍 2K • 💬 210 • ⏱️ 9:32 • 2d ago
+👁️ 6K • 👍 123 • 💬 38 • ⏱️ 41:22 • 1d ago
+
+---
+
+**[HUGE! JPMORGAN BANK MOVES JPM COIN ON ETHEREUM! BLACKROCK&#39;S NEW BITCOIN ETF! XRP LEDGER LENDING!](https://www.youtube.com/watch?v=Cc2Z_5k8fdU)**
+
+Crypto News: BlackRock filed for the iShares Bitcoin Managed Protection ETF. JPMorgan brings JPM Coin, representing dollar ...
+
+📺 Thinking Crypto
+
+👁️ 24K • 👍 751 • 💬 116 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -300,37 +280,57 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 129 • 💬 8 • ⏱️ 19:31 • 2d ago
+👁️ 11K • 👍 129 • 💬 9 • ⏱️ 19:31 • 2d ago
 
 ---
 
-**[ETHEREUM CRASH WARNING!🚨 (ETH Price Prediction)](https://www.youtube.com/watch?v=UaDH12umw4w)**
+**[Wall Street Is Betting on Ethereum - So Why Isn&#39;t ETH Exploding?](https://www.youtube.com/watch?v=zMI_daFZE_w)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Cilinix Crypto
+📺 Milk Road
 
-👁️ 781 • 👍 15 • 💬 5 • ⏱️ 4:30 • 12h ago
-
----
-
-**[Is Crypto About to Rally? Bitcoin, XRP, Ethereum, &amp; Solana Analysis!](https://www.youtube.com/watch?v=njW3IOg7D9o)**
-
-Brian from Santiment joined me to break down the latest crypto market trends, key on-chain metrics, and investor sentiment for ...
-
-📺 Thinking Crypto
-
-👁️ 9K • 👍 291 • 💬 98 • ⏱️ 24:36 • 1d ago
+👁️ 21K • 👍 369 • 💬 142 • ⏱️ 34:59 • 1d ago
 
 ---
 
-**[Good ETHEREUM News- Plus: Does France Have Enough Socialism?](https://www.youtube.com/watch?v=yq4fTair7U4)**
+**[Bitcoin &amp; Ethereum: Key Levels to Watch | Crypto Analysis with Severin](https://www.youtube.com/watch?v=nCnCHURDoW8)**
 
-THE CRYPTO BULL RUN IS STARTING. Most people won't be ready to build wealth from it. You can be. Get the research and ...
+Join Severin for a breakdown of Bitcoin, Ethereum and altcoins, covering key price levels, market structure and potential trading ...
 
-📺 Future Forecasting Group
+📺 Chart Champions
 
-👁️ 7K • 👍 334 • 💬 65 • ⏱️ 4:34 • 1d ago
+👁️ 10K • 👍 296 • 💬 12 • ⏱️ 1:02:26 • 1d ago
+
+---
+
+**[BITCOIN WARNING: PUMP &amp; DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iCgYDMGcVVY)**
+
+BITCOIN WARNING: PUMP & DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 231 • 💬 66 • ⏱️ 23:31 • 7h ago
+
+---
+
+**[Ethereum Has A Big Problem (Tom Lee In Shambles)](https://www.youtube.com/watch?v=twQLQ5E2jf8)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 22K • 👍 470 • 💬 99 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[Ethereum: Calm Before the Breakout?](https://www.youtube.com/watch?v=7I1qdYGm4HU)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 213 • 💬 6 • ⏱️ 7:38 • 2d ago
 
 ---
 
