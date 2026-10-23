@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-23T06:19:44.598386+00:00'
+updated: '2026-10-23T11:56:25.288600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 23, 2026 at 06:19 UTC  
+**Last Updated:** October 23, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,402.00
+### $2,407.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +0.2%  
-**30d:** -10.5%  
-**90d:** +23.1%  
-**1y:** -38.9%  
+**24h:** +0.1%  
+**7d:** +0.0%  
+**30d:** -10.6%  
+**90d:** +23.0%  
+**1y:** -39.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.71B
+**Market Cap:** $293.37B
 Rank #2
 
 **Circulating Supply:** 122,155,365 ETH
@@ -62,11 +62,81 @@ No max supply
 -51.4%
 
 **All-Time Low:** $0.43
-+555213.3%
++554564.3%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion October 23, 2026](https://www.reddit.com/r/ethereum/comments/1xd4wcz/daily_general_discussion_october_23_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+6h ago
+
+---
+
+**[I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town](https://www.reddit.com/r/ethereum/comments/1xd7vvk/i_made_a_thing_that_turns_your_ethereum_wallet/)**
+
+This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
+
+3h ago
+
+---
+
+**[Daily General Discussion October 22, 2026](https://www.reddit.com/r/ethereum/comments/1xc9jkc/daily_general_discussion_october_22_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[I sent ETH from Binance to Robinhood through BSC. Is it really lost?](https://www.reddit.com/r/ethereum/comments/1xcly15/i_sent_eth_from_binance_to_robinhood_through_bsc/)**
+
+I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
+
+20h ago
+
+---
+
+**[Glamsterdam on Hoodi Postponed | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1xcsal5/glamsterdam_on_hoodi_postponed_ethereum/)**
+
+The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 16h ago
+
+---
+
+**[Dshackle Load Balancer v0.18](https://www.reddit.com/r/ethereum/comments/1xck2m3/dshackle_load_balancer_v018/)**
+
+Dshackle is a load balancer that sits between your app and your blockchain upstreams (your own Geth, Infura, QuickNode, any mix of them). It tracks each upstream's block height, sync state and supported methods, and routes each request to one that is healthy and caught up. - JSON-RPC over HTTP and WebSocket - Automatic failover and retry - Tracking upstream status - Height-aware method routing - Chain-aware caching (in-memory or Redis) v0.18 is a rewrite from Kotlin/JVM to Rust. There are no new features. Config, API and behaviour are the same. Memory use is down ~75% and latency is 10–20% lower. https://github.com/emeraldpay/dshackle
+
+21h ago
+
+---
+
+**[Blast L2 is shutting down October 26. Withdraw your funds and export your transaction history before it's too late.](https://www.reddit.com/r/ethereum/comments/1xbwf1m/blast_l2_is_shutting_down_october_26_withdraw/)**
+
+1d ago
+
+---
+
+**[Daily General Discussion October 21, 2026](https://www.reddit.com/r/ethereum/comments/1xbe6ap/daily_general_discussion_october_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
+**[Daily General Discussion October 20, 2026](https://www.reddit.com/r/ethereum/comments/1xaj93r/daily_general_discussion_october_20_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
 
 **[Daily General Discussion October 19, 2026](https://www.reddit.com/r/ethereum/comments/1x9nz0v/daily_general_discussion_october_19_2026/)**
 
@@ -76,85 +146,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Anyone tried QuickNode`s covered strategies?](https://www.reddit.com/r/ethereum/comments/1xa0drf/anyone_tried_quicknodes_covered_strategies/)**
-
-They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually tried this? Interested how it works in practice and whether the lower net APY is worth it
-
-3d ago
-
----
-
-**[Daily General Discussion October 18, 2026](https://www.reddit.com/r/ethereum/comments/1x8ulm3/daily_general_discussion_october_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[[AMA] We are Hypersnap, the team building the credibly neutral alternative to Farcaster's hostile takeover by the Network State, ask us anything!](https://www.reddit.com/r/ethereum/comments/1x8l0bt/ama_we_are_hypersnap_the_team_building_the/)**
-
-5d ago
-
----
-
-**[Daily General Discussion October 17, 2026](https://www.reddit.com/r/ethereum/comments/1x81l31/daily_general_discussion_october_17_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-6d ago
-
----
-
-**[I'm looking for feedback and contributors for my web3 AI security network called AVALON](https://www.reddit.com/r/ethereum/comments/1x8ae1g/im_looking_for_feedback_and_contributors_for_my/)**
-
-Hi everyone, I got into crypto a few years ago and fell in love with the ecosystem. It's fair to say Web3 completely changed my life for the better, and ever since, my aim has been to contribute meaningfully to it. One issue I've had an issue with is the persistent hacks reducing user trust in this new model of the internet we're building. So I'm proposing an AI security network to protect wallets from hacks. You can check out the website or GitHub: https://github.com/thelennyjohnson/avalon-ai Feedback and contributors are welcome.
-
-🔗 [AVALON AI](https://avalonai-web3.vercel.app/) • 5d ago
-
----
-
-**[OpenAI says research model spent another wallet's testnet ETH without authorization on coding task](https://www.reddit.com/r/ethereum/comments/1x8bbnk/openai_says_research_model_spent_another_wallets/)**
-
-The model independently determined that using valueless testnet ETH from a publicly exposed account was acceptable.
-
-🔗 [The Block](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798) • 5d ago
-
----
-
-**[Glamsterdam Hoodi Testnet Announcement | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1x7py45/glamsterdam_hoodi_testnet_announcement_ethereum/)**
-
-Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1...
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement) • 6d ago
-
----
-
-**[Daily General Discussion October 16, 2026](https://www.reddit.com/r/ethereum/comments/1x77cz8/daily_general_discussion_october_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-7d ago
-
----
-
-**[Ethereal news weekly #43 | ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2](https://www.reddit.com/r/ethereum/comments/1x7fkiw/ethereal_news_weekly_43_zksync_airbender_prime/)**
-
-ZKsync Airbender Prime: real time proving on single GPU, Barnabé Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-43/) • 6d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts](https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts)**
+**[Ethereum Glamsterdam Upgrade Delayed Over Smart Contract Security Risks](https://finance.yahoo.com/markets/crypto/articles/ethereum-glamsterdam-upgrade-delayed-over-102830210.html)**
 
-Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
+Ethereum developers have postponed the Glamsterdam upgrade on the Hoodi testnet after researchers identified potential security risks involving existing smart contracts, leaving the network’s next major development milestone without a confirmed activation date. The decision comes as ETH trades under $2,400, with the token losing around 0.5%.The Ethereum Foundation announced ...
 
-CoinDesk • 1h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Current price of Ethereum for Oct. 23, 2026](https://fortune.com/article/price-of-ethereum-10-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 41m ago
 
 ---
 
@@ -162,15 +170,15 @@ CoinDesk • 1h ago
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-ethereum.org • 11h ago
+ethereum.org • 17h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, October 22, 2026: Crypto gains wiped out as oil prices stay over $111 a barrel](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-22-2026-crypto-gains-wiped-out-as-oil-prices-stay-over-111-a-barrel-113128321.html)**
+**[ETH news: Ethereum’s four-minute settlement plan could lower the cost of moving crypto](https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto)**
 
-Bitcoin opened at $84,024.44 on Thursday, October 22, 2026, up 1.3% from Wednesday's open. As of 7:15 a.m. ET this morning, bitcoin moved all the way down to $81,809.90. Ethereum opened at $2,471.35, up 1% from Wednesday's opening price. The price of ethereum fell this morning to $2,400.36 as of 7:15 a.m. ET.
+A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.
 
-Yahoo Finance • 18h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -178,7 +186,7 @@ Yahoo Finance • 18h ago
 
 The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
 
-The Block • 16h ago
+The Block • 22h ago
 
 ---
 
@@ -198,35 +206,25 @@ J.P. Morgan • 3d ago
 
 ---
 
-**[Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum’s Four-Minute Settlement Plan Revives a $12,000 ETH Target](https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857)**
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
 
-Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ...
+Cardano could be headed for a big comeback in 2027.
 
-markets.businessinsider.com • 12h ago
-
----
-
-**[Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.](https://www.fool.com/investing/2026/10/21/bitmines-tom-lee-warns-of-a-potential-sell-off-in/)**
-
-A sell-off in South Korean tech stocks could spill over into the crypto market, warns a top Ethereum investor.
-
-The Motley Fool • 1d ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash](https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash)**
+**[Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets](https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets)**
 
-The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours.
+An October 22, 2026 comparison of Bitcoin and Ethereum post-quantum signature proposals, test deployments, mainnet support and wallet dependencies.
 
-Decrypt • 2d ago
+The Defiant • 12h ago
 
 ---
 
-**[Ethereum staking hits record highs – So why are yields falling?](https://ambcrypto.com/ethereum-staking-hits-record-highs-so-why-are-yields-falling/)**
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as major support levels cap recent sell-off](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-major-support-levels-cap-recent-sell-off-202610230406)**
 
-Ethereum's staking reached record levels as Bitmine expanded holdings, while ETH struggled to recover above resistance.
-
-AMBCrypto • 1d ago
+FXStreet • 7h ago
 
 ---
 
@@ -234,13 +232,13 @@ AMBCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bullish Bitcoin Signs Underneath Selloff; OCC Stablecoin Framework to Move COIN, CRCL](https://www.youtube.com/watch?v=yz450JXAUjY)**
+**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=BlrY6SREarU)**
 
-Bitcoin and Ethereum sold off alongside equities as AI debt stresses mount on equities. Adam Lynch (@CharlesSchwab) still sees ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Schwab Network
+📺 Crypto Nutshell
 
-👁️ 5K • 👍 31 • 💬 14 • ⏱️ 5:03 • 10h ago
+👁️ 7K • 👍 123 • 💬 34 • ⏱️ 21:17 • 7h ago
 
 ---
 
@@ -260,7 +258,7 @@ ethereum #crypto #supplyanddemand #cycleanalysis For forecasting, trade planning
 
 📺 Venture
 
-👁️ 1K • 👍 41 • 💬 6 • ⏱️ 15:11 • 21h ago
+👁️ 1K • 👍 41 • 💬 6 • ⏱️ 15:11 • 1d ago
 
 ---
 
@@ -270,7 +268,7 @@ What happens when AI agents start managing your money, and who will actually con
 
 📺 Crypto In America
 
-👁️ 7K • 👍 135 • 💬 38 • ⏱️ 41:22 • 1d ago
+👁️ 7K • 👍 143 • 💬 39 • ⏱️ 41:22 • 1d ago
 
 ---
 
@@ -280,7 +278,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 22K • 👍 375 • 💬 144 • ⏱️ 34:59 • 1d ago
+👁️ 22K • 👍 382 • 💬 145 • ⏱️ 34:59 • 1d ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN WARNING: PUMP & DUMP (Urgent Update)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 12K • 👍 277 • 💬 57 • ⏱️ 23:31 • 12h ago
+👁️ 14K • 👍 295 • 💬 66 • ⏱️ 23:31 • 17h ago
 
 ---
 
@@ -300,17 +298,7 @@ Join Severin for a breakdown of Bitcoin, Ethereum and altcoins, covering key pri
 
 📺 Chart Champions
 
-👁️ 10K • 👍 297 • 💬 12 • ⏱️ 1:02:26 • 1d ago
-
----
-
-**[JPMorgan Put Bank Deposits on Ethereum](https://www.youtube.com/watch?v=ej5y6UPYJx4)**
-
-JPMorgan just put bank deposits on Ethereum. On October 19, JPMorgan announced JPM Coin is live on Ethereum. These are ...
-
-📺 Alexander Lorenzo
-
-👁️ 2K • 👍 139 • 💬 7 • ⏱️ 2:50 • 8h ago
+👁️ 10K • 👍 304 • 💬 12 • ⏱️ 1:02:26 • 1d ago
 
 ---
 
@@ -320,17 +308,27 @@ Ethereum is the world's second largest cryptocurrency and the top platform for a
 
 📺 E*TRADE from Morgan Stanley
 
-👁️ 82 • 👍 1 • ⏱️ 1:49 • 12h ago
+👁️ 143 • 👍 1 • ⏱️ 1:49 • 17h ago
 
 ---
 
-**[Ethereum vs Solana: Which Layer 1 Has More Upside? | Altcoin Arena](https://www.youtube.com/watch?v=n_WYH_r8wnU)**
+**[BITCOIN: BlackRock BUYING NOW (Price Target Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DLBqZg6DbTY)**
 
-Ethereum vs Solana: which Layer 1 wins the next wave of users, apps and money? In the first episode of our new show Altcoin ...
+BITCOIN: BlackRock BUYING NOW (Price Target Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 SwissBorg
+📺 Crypto World
 
-👁️ 554 • 👍 36 • 💬 10 • ⏱️ 23:43 • 13h ago
+👁️ 14K • 👍 337 • 💬 163 • ⏱️ 20:02 • 2d ago
+
+---
+
+**[Ethereum Has A Big Problem (Tom Lee In Shambles)](https://www.youtube.com/watch?v=twQLQ5E2jf8)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 23K • 👍 484 • 💬 116 • ⏱️ 9:54 • 1d ago
 
 ---
 
