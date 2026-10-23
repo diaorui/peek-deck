@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-23T11:56:25.291925+00:00'
+updated: '2026-10-23T16:40:28.054621+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 23, 2026 at 11:56 UTC  
+**Last Updated:** October 23, 2026 at 16:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,83 +32,79 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[I Built a Drone With Only One Motor – And a Poor Man's High Speed Camera](https://www.reddit.com/r/robotics/comments/1x8zyvp/i_built_a_drone_with_only_one_motor_and_a_poor/)**
+**[Jensen Huang brought four Microduck robots onstage during his keynote at NVIDIA GTC Berlin](https://www.reddit.com/r/robotics/comments/1xdaqlq/jensen_huang_brought_four_microduck_robots/)**
 
-I've been working on an under-actuated drone that can fly with only one motor for the last few months. The propeller hub is 3D printed out of PPA-CF and has a hinge, so when the motor accelerates the blades lag behind and one pitches up while the other pitches down. By pulsing the motor torque 300 times a second, timed to the rotor angle, the drone controls its pitch and roll with the same motor that produces its thrust. Along the way I also built a "poor man's high speed camera" - a camera flash synced to my camera and motor controller, so I could take images of the propeller at precise angles to analyze its behavior. The mechanical simplicity hides a lot of software. At almost 20,000 RPM, a 0.2 ms control loop is already 20 degrees of rotation late, so I wrote custom firmware for the motor controller to compute the torque pulses on board. The body also slowly spins, so the drone gets its heading from an infrared "lighthouse" beacon in the corner of the room that it sees once per revolution. The full video explaining how it all works is available on youtube: https://www.youtube.com/watch?v=Ndftcft6XhU The code and CAD are open source on github: https://github.com/jyjblrd/single-propeller-drone
-
-5d ago
+5h ago
 
 ---
 
-**[Development over 8 months yay](https://www.reddit.com/r/robotics/comments/1x90h84/development_over_8_months_yay/)**
+**[Check out my upgraded 12-DOF Spider Robot with new 3D-printed parts, WiFi control, an OLED display, and cool animations.](https://www.reddit.com/r/robotics/comments/1xd5f2t/check_out_my_upgraded_12dof_spider_robot_with_new/)**
 
-I posted here 8 months ago and am only now posting again, haha. This is how I've improved over the past 8 months: MK5 V1: The appearance was impressive, but... Yes, I lacked torque. MK5 V2: Hmm... MK6 V1: it walks!! it walks!! it walks!! 🐕🐕 MK6 V2: Laser cut leg Hell yeah😎😎 Two-arm guy Two-leg guy : w.i.p DMs are welcome, and those who really want to see them can do so in Seoul😎 T h a n k y o u !
+Watch the full build tutorial on the Robot LK YouTube channel. Visit RobotLK.com for robotics tutorials, project details, and more DIY electronics projects. Follow Robot LK for more exciting robotics and technology projects!
 
-5d ago
-
----
-
-**[Spot stepped on it.](https://www.reddit.com/r/robotics/comments/1x93wc2/spot_stepped_on_it/)**
-
-MK6 got stepped on by Spot. It said it didn't hurt much lol. I think this was the evening of the day I developed the MK6 V2 and participated in the Maker Faire. 2026.09.19 😎👍
-
-4d ago
+11h ago
 
 ---
 
-**[3D Printed Rocker-Bogie Mars Rover | ESP32-CAM | 6-Wheel Robotic Platform](https://www.reddit.com/r/robotics/comments/1x9666z/3d_printed_rockerbogie_mars_rover_esp32cam_6wheel/)**
+**[Army’s new robotics technician course combines hardware modification, coding and systems integration](https://www.reddit.com/r/robotics/comments/1xdbpii/armys_new_robotics_technician_course_combines/)**
 
-More info about cad and STL https://cults3d.com/en/3d-model/game/3d-printed-rocker-bogie-mars-rover-esp32-cam-6-wheel-robotic-platform
+The U.S. Army’s first 10 warrant officers in its new 390A Robotics Technician specialty completed a 19-week course covering robotic hardware, software, sensors and communications. The training includes working through communications failures, unavailable navigation systems and situations where internet-connected AI tools aren’t accessible. Instructors deliberately introduce failures so students have to revise their solutions. One exercise involved modifying a quadcopter with a camera and integrating mesh communications to maintain connectivity when individual connections were disrupted. The article also looks at the overlap with industrial robotics training, where changing a gripper, vision configuration or robot program can require understanding several connected systems.
 
-4d ago
-
----
-
-**[AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/robotics/comments/1x9bqtf/ai_lab_offers_free_plumbing_and_hvac_repairs/)**
-
-HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.
-
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/ai-lab-offers-free-plumbing-132120755.html) • 4d ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-u-s-army-is-training-a-new-kind-of-robotics-technician) • 4h ago
 
 ---
 
-**[Humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging](https://www.reddit.com/r/robotics/comments/1x90sfg/humanoid_robot_digit_5_targets_20hour_workdays/)**
+**[Jensen Huang's keynote and robotic lineup was impressive, but people seem to be captivated by something else](https://www.reddit.com/r/robotics/comments/1xdb2an/jensen_huangs_keynote_and_robotic_lineup_was/)**
 
-Agility Robotics says its upcoming Digit 5 humanoid will use Nyobolt batteries to deliver 90 minutes of operation after a nine-minute charge. The targeted 10:1 run-to-charge ratio could support more than 20 productive hours per day in warehouses and manufacturing facilities. Early-access deployment is planned for the first half of 2027, but the company has not yet disclosed the battery capacity, cycle-life rating, or independent real-world test results.
+I just saw the keynote from Jensen Huang where he introduced the robotic platform Microduck. It’s an interesting direction for compact autonomous machines. It's most noteworthy part is seeing how it handles real-world spatial computing and edge AI processing in such a tiny form factor. My feed was mostly inundated by people talking about this cute little robot. With all those advanced humanoid in the background, it's interesting how this tiny robot got the spotlight. Maybe it's just social media algorithm or maybe it's just because people like little cute things, but I find the contrast peculiar.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays) • 5d ago
-
----
-
-**[The Landscape of Humanoids - 2,351 products, 788 companies](https://www.reddit.com/r/robotics/comments/1x9c0ss/the_landscape_of_humanoids_2351_products_788/)**
-
-Who builds each part of a humanoid robot: 2,351 products from 788 organizations in 46 technology boxes, as of October 2026.
-
-🔗 [Airfold](https://www.airfold.co/humanoid-technology-map/) • 4d ago
+🔗 [youtu.be](https://youtu.be/qWiYWCWZ_HA) • 5h ago
 
 ---
 
-**[Build a robot](https://www.reddit.com/r/robotics/comments/1x9dg0e/build_a_robot/)**
+**[DIY iToF + RGB rig: first metric room map and Gaussian splat, still offline](https://www.reddit.com/r/robotics/comments/1xd3cxx/diy_itof_rgb_rig_first_metric_room_map_and/)**
 
-Hi my name is deemco From saudi arabia Like u see the title I have proplem with my robot I’m running into some issues building my robot. As everyone knows, robots are divided into a cloud-based component and a physical one; let’s set the cloud part aside—the problem lies in the physical side. Actually, the truth is I don’t even know how to build a robot in the first place—but that’s not your problem! Anyway, I’m working on that. My specific issue right now is the connectivity—how do I get everything to come together so that, in the end, my robot functions as one perfectly orchestrated symphony? ,,, by the way my robot is so coplex! Its like the that dude hows follow the main character in sci-fi ! . Actually everything is expensive dunno why but if u have short list i would like to see it! [ i forgot to say but hes fly tipe of robots(use fly for something very imprortant) in my brain hes super intelegent and hes gonna be my companion and help me and a friendly tipe! Haha i feel exited !!] I think i gonna put motors and cameras and in the middle theres a screen and rasberri pi and a lot! But absolute dunno . How u guys past that proplem ? I enjoyed typing that !
+Update on my home-lab RGB-D build: a 320×240 epc660-class iToF engineering sample paired with a Raspberry Pi camera. I am the builder and made the video. The rig now produces live coloured depth. The mapping pipeline is offline: recover camera poses from recorded RGB frames, use iToF for metric scale, then fuse the depth and train a Gaussian splat in the same coordinates. Multi-view voxel voting removed 27,675 floating points in this capture. The calibration work mattered more than the rendering. Edge alignment improved from a 2.2 px to a 1.0 px median in our test. Bright-object spill/saturation still needed conditional handling. This is not a general accuracy claim. Remaining problems: incomplete room coverage, dark walls disappearing, and Pi camera intrinsics that still need a checkerboard check. Real-time Gaussian SLAM is the goal; this result is an offline reconstruction. EP16 shows the captures, fixes and remaining failures: https://www.youtube.com/watch?v=pyPj_dCDZm0 For a rig like this, would you validate intrinsics and depth scale independently first, or move to joint optimisation once the initial alignment is stable? Image: AI-assisted episode thumbnail; the episode contains the actual sensor captures.
 
-4d ago
-
----
-
-**[Come to enjoy whit us in a Drone section](https://www.reddit.com/r/robotics/comments/1x9bu87/come_to_enjoy_whit_us_in_a_drone_section/)**
-
-Drones are the next section Online tools that run sample by sample on a flight controller's data, on a Raspberry Pi or an NVIDIA Jetson next to it. This issue splits the work into small points. Pick one, say so in a comment, and open a PR. Every point has a question it answers, a data source and a way to check it, so a first contribution fits in an afternoon. How to take a point: comment "I take N", fork, work on a branch, open a PR that mentions this issue. One point per PR. Questions in the comments are welcome. Ground rules for every point - Each number on a page comes from a script of the repository that was run before the sentence was written. - Synthetic data are labelled "synthetic" everywhere they appear. - "Tested on a Raspberry Pi / a Jetson" is written only when the command ran on that board; otherwise "written, not run on the board". - Sources are the papers named below, with page numbers. ## Data and adapters **PX4 ULog reader.** Yield one dict per sample (time, gyro, accelerometer, GPS velocity, motor outputs, battery voltage) with `pyulog`. Check: a tiny ULog written by the test round-trips. **MAVLink tlog reader.** The same fields with `pymavlink`. Source: the MAVLink survey, arXiv:1906.10641 (Koubaa et al., IEEE Access 2019). **Synthetic flight generator.** Hover plus a circle, noise, one fault at a stated sample, labelled. The single source of data for tests and smoke runs. **ALFA loader.** Load the fixed-wing fault dataset (arXiv:1907.06268, Keipour et al., IJRR 2021; data DOI 10.1184/R1/12707963) and its ground-truth fault times. Check: the 47 processed flights load and the fault time of each is read. ## Pipelines (each answers one question) **Which part broke, and how many seconds after?** Residual of commanded against measured rate, a CUSUM detector with `reset_on_alarm=True`, a robust Mahalanobis score. Metrics: detection delay and alarm episodes per hour of normal flight. Data: ALFA (point 4). Related: Garg and Fan, arXiv:2309.09108. **Is the GPS telling the truth?** Online comparison of GPS velocity with the integrated IMU. Inject an offset ramp into normal flights and say so on the page. Motivation: SemperFi arXiv:2105.01860 and Kim et al. arXiv:2407.15003. **Is a propeller damaged?** Online spectrum of the gyro or accelerometer and a distance of the band energies from the healthy baseline. Related: Zhang et al., arXiv:2302.04410. **How many minutes of flight are left, and how sure are we?** Online fit of voltage against current and time with an interval; the remaining time as a distribution. Source for the energy model: Alyassi et al., arXiv:1703.10049. **Is the next move safe?** Distance to a geofence and to obstacles from the simulated lidar of `benchmarks/lidar_sim.py`, with the protection tools already in the library. **Where is the landing pad, and is the camera moving?** `GlobalMotion`, `MotionMask` and `FrameAnomaly` on synthetic frames of a pad. Metrics: pixel error against the planted position and time per frame at 640x360. **Is the radio link about to fail?** A drift detector on packet inter-arrival time and RSSI of a synthetic MQTT stream. **Static against online.** The same fault data with a scikit-learn batch model and the online one; median of 20 seeds, time per sample, memory. The page follows `docs/finance/static_vs_online.md`. ## Boards **Raspberry Pi to Pixhawk page.** Serial wiring, the PX4 parameters and the Pi settings, with each step checked against the PX4 documentation page (https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html). Mark every step you ran yourself. **Jetson power modes page.** The `nvpmodel` modes of each Orin module and the time per sample of a pipeline in each mode, measured on the board you own. **`edge_bench.py`.** Time per sample (median and interquartile range), 99th percentile, resident memory and CPU temperature for each pipeline on a given board, written to a JSON file named after the host. Include your board model in the file name. Results from a board you own are the most valuable contribution here. **Dockerfiles for arm64 and Jetson, `install.sh`, a systemd unit and an MQTT bridge** publishing the score and the alarm episodes. Base image names come from the vendor documentation, with the URL. ## Also open **ArduPilot.** The same adapters against an ArduPilot log, with the differences written down. **A flight log of your own.** Run a pipeline on a log from your drone and tell us what it found, as a comment or a page. **Spotted something in the plan?** A missing pipeline, a better source paper, a wrong sentence. Open a comment and it becomes a numbered point. A new contributor can start with point 3, 13 or 18. The folder with the instructions, rules and papers is kept by the maintainer; ask here if you want a copy. ## Papers to read (one per area) - **MAVLink, the protocol every point 1-2 and 16 talks to:** A. Koubaa et al., "Micro Air Vehicle Link (MAVLink) in a Nutshell: A Survey", IEEE Access 2019, arXiv:1906.10641. - **Fault data and metrics (points 4-5):** A. Keipour, M. Mousaei, S. Scherer, "ALFA: A Dataset for UAV Fault and Anomaly Detection", IJRR 2021, arXiv:1907.06268. - **Actuator faults (point 5):** K. Garg, C. Fan, "Neural Network-based Fault Detection and Identification for Quadrotors using Dynamic Symmetry", arXiv:2309.09108. - **GPS and state-estimator attacks (point 6):** H. Sathaye et al., "SemperFi: A Spoofer Eliminating GPS Receiver for UAVs", arXiv:2105.01860; K. H. Kim et al., "Predictable by Design, Vulnerable by Nature: Security Consequences of Learnability in UAV State Estimators", arXiv:2407.15003. - **Propeller faults (point 7):** W. Zhang et al., "Simulation-to-reality UAV Fault Diagnosis with Deep Learning", arXiv:2302.04410. - **Battery and energy (point 8):** R. Alyassi et al., "Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones", IEEE T-ASE 2023, arXiv:1703.10049. - **Boards (points 13-16):** PX4 documentation, "Companion Computers", https://docs.px4.io/main/en/companion\_computer/ and "Raspberry Pi to Pixhawk", https://docs.px4.io/main/en/companion\_computer/pixhawk\_rpi.html; NVIDIA Jetson Orin power modes, https://docs.nvidia.com/jetson/archives/r36.4/DeveloperGuide/SD/PlatformPowerAndPerformance/JetsonOrinNanoSeriesJetsonOrinNxSeriesAndJetsonAgxOrinSeries.html. Know a better paper for one of these areas? Add it in a comment with the arXiv number. link : https://github.com/tatopenn-cell/Dense-Evolution-Discovery/issues/266
-
-4d ago
+13h ago
 
 ---
 
-**[Collaboration Request: Space inspired robotics/rover for a show!](https://www.reddit.com/r/robotics/comments/1x9b6e8/collaboration_request_space_inspired/)**
+**[My robotics home lab with Claude as lab assistant](https://www.reddit.com/r/robotics/comments/1xda65j/my_robotics_home_lab_with_claude_as_lab_assistant/)**
 
-Hi everyone! Not sure if this is the right flair or subreddit for this inquiry but I am trying my luck! Looking for a collaboration with someone who has made a fully functioning robotics machine (example: like the mars rover or something in that general field) that they would like to showcase next year. CONTEXT: I am hosting a NYFW show in NYC next year showcasing my cyber/steampunk space inspired collection. I would like to showcase and collaborate with someone who would like to share their work on a stage. I am no where near well versed to make and create my own robotics, so I was hoping someone would be open to connecting the bridge of couture (high fashion) and science with me. It would be a demonstration on the catwalk or simply stationary in the middle while the audience could see the functions in person. The models would maneuver around the displayed robotics making sure your work is also being carefully considered and safe. i’m happy to share concepts (think dystopian, commentary on space tourism and the implications of it and what that looks like for the future, etc) and the collection or any other context privately. if this is something you or someone you know would be interested in please comment or message me! If there is a better sub to post this I would be grateful for the recs! Thank you!!
+6h ago
 
-4d ago
+---
+
+**[A curated index of 125+ vision-language-action papers with open-source code - updated daily](https://www.reddit.com/r/robotics/comments/1xdbjv5/a_curated_index_of_125_visionlanguageaction/)**
+
+The index collects VLA and robot foundation-model work and links each entry's arXiv page, PDF and code repository. It covers vision-language-action models, manipulation, sim-to-real transfer and the benchmarks around them; every paper is tagged by topic and summarised in plain language, with the paper's own figures on the page. Currently 125+ VLA papers, refreshed as new work appears.
+
+🔗 [Robotics Research Hub](https://papers.tinrobotics.com/topics/vla/) • 5h ago
+
+---
+
+**[Need help on designing a robot](https://www.reddit.com/r/robotics/comments/1xdgozc/need_help_on_designing_a_robot/)**
+
+Hi all, I'm designing a simple but communicative robot that can either be controlled via puppetry or via servos. How should I design the robot so it can be controlled both ways? Should it be controlled by wires and elastic for the puppetry and servos for the autonomous mode? Once it's finished, I will put up some pictures of my robot, Crystal. Any suggestions? Thanks, Daniel L :)
+
+1h ago
+
+---
+
+**[Point-to-Point Wireless Image Transmission with LR2021](https://www.reddit.com/r/robotics/comments/1xd9ccx/pointtopoint_wireless_image_transmission_with/)**
+
+I’ve successfully implemented point-to-point wireless image transmission using two custom-designed LR2021 nodes at Makerfabs. Traditional LoRa sensor applications focus on small data packets; this demo explores the LR2021's capabilities for larger data transfers. I used two nodes equipped with Makerfabs-designed LR2021 modules; I've successfully demonstrated point-to-point wireless image transmission. All the transmission information can be shown on the OLED display. Technical Highlights High-speed FLRC: Supports PHY data rates up to 2.6 Mbps. FLRP Protocol: Supports high-speed burst transmission, data segmentation, acknowledgments, and retransmissions. Flexible Applications: Enables exploration of larger data transfers, including images, firmware updates, and remote monitoring. Ongoing Research With basic wireless image transmission working, I’m now evaluating actual transfer throughput, effective communication range, link reliability under interference, and power consumption during high-speed bursts. I’d love to hear your thoughts and ideas on LR2021. What applications would you explore with it?
+
+7h ago
+
+---
+
+**[What could Aerial Manipulators achieve/solve?](https://www.reddit.com/r/robotics/comments/1xczo06/what_could_aerial_manipulators_achievesolve/)**
+
+Title. Ive always been fascinated by Unmanned Aerial Manipulators, since they can not only see the environment, but also change it. The thing is, I know that for a number of reasons they are still not used/adopted. I cannot help but wonder, what could these platforms solve/achieve, once research, actuators, controls and adoption catch up? Id be very interested in hearing what you think/envision, doesnt matter how far-fetched or contrived :)) PD: Image comes from here .
+
+16h ago
 
 ---
 
@@ -118,21 +114,39 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 **[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Stanford Report • 23h ago
+Stanford Report • 1d ago
 
 ---
 
 **[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
 
-Axios • 20h ago
+Axios • 1d ago
 
 ---
 
-**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+**[Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech](https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4)**
 
-Agility Robotics’ first practical robotic worker is nothing like I dreamed
+WSJ • 45m ago
 
-IEEE Spectrum • 2d ago
+---
+
+**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Unitree developing AI system to let humanoid robots improve themselves](https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves)**
+
+South China Morning Post • 1d ago
+
+---
+
+**[Video Friday: Quadruped Robot Solves Giant Rubik’s Cube By Itself](https://spectrum.ieee.org/video-friday-rubiks-cube-robot)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -140,19 +154,13 @@ IEEE Spectrum • 2d ago
 
 The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit.
 
-NASA (.gov) • 18h ago
+NASA (.gov) • 23h ago
 
 ---
 
-**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
+**[BlackRock adds robotics ETF to growing ranks of AI-themed products](https://www.reuters.com/legal/transactional/blackrock-adds-robotics-etf-growing-ranks-ai-themed-products-2026-10-21/)**
 
-Reuters • 22h ago
-
----
-
-**[Unitree developing AI system to let humanoid robots improve themselves](https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves)**
-
-South China Morning Post • 22h ago
+Reuters • 1d ago
 
 ---
 
@@ -164,23 +172,9 @@ NVIDIA Newsroom • 2d ago
 
 ---
 
-**[Robotics firm buys Lawrenceville headquarters property from RIDC](https://www.bizjournals.com/pittsburgh/news/2026/10/22/robotics-row-carnegie-robotics-lawrenceville.html)**
+**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
 
-The Business Journals • 19h ago
-
----
-
-**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Video. Germany: Humanoid robots and AI supercomputers take centre stage in Berlin](https://www.euronews.com/video/2026/10/22/germany-humanoid-robots-and-ai-supercomputers-take-centre-stage-in-berlin)**
-
-Video. Humanoid robots, intelligent machines and powerful supercomputers take centre stage at Nvidia's Berlin event. CEO Jensen Huang predicted a thriving AI economy in Europe.
-
-Euronews • 20h ago
+Reuters • 1d ago
 
 ---
 
@@ -194,57 +188,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 147K • 👍 2K • 💬 238 • ⏱️ 20:32 • 5d ago
-
----
-
-**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
-
-Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
-
-📺 REC Anything
-
-👁️ 326K • 👍 2K • 💬 364 • ⏱️ 8:29 • 18h ago
-
----
-
-**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
-
-More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
-
-📺 The New York Times
-
-👁️ 180K • 👍 2K • 💬 527 • ⏱️ 4:07 • 5d ago
-
----
-
-**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
-
-The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
-
-📺 DPCcars
-
-👁️ 37K • 👍 402 • 💬 138 • ⏱️ 2:30 • 1d ago
-
----
-
-**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
-
-NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
-
-📺 DPCcars
-
-👁️ 1.0M • 👍 8K • 💬 1K • ⏱️ 4:06 • 1d ago
-
----
-
-**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
-
-China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
-
-📺 MACHINEKIND
-
-👁️ 48K • 👍 661 • 💬 69 • ⏱️ 12:40 • 6d ago
+👁️ 148K • 👍 2K • 💬 239 • ⏱️ 20:32 • 5d ago
 
 ---
 
@@ -254,7 +198,37 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 136K • 👍 1K • 💬 238 • ⏱️ 8:52 • 6d ago
+👁️ 142K • 👍 1K • 💬 252 • ⏱️ 8:52 • 6d ago
+
+---
+
+**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
+
+More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
+
+📺 The New York Times
+
+👁️ 182K • 👍 2K • 💬 544 • ⏱️ 4:07 • 6d ago
+
+---
+
+**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
+
+NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
+
+📺 DPCcars
+
+👁️ 1.1M • 👍 9K • 💬 1K • ⏱️ 4:06 • 1d ago
+
+---
+
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
+
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
+
+📺 MACHINEKIND
+
+👁️ 48K • 👍 664 • 💬 71 • ⏱️ 12:40 • 6d ago
 
 ---
 
@@ -262,7 +236,17 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 Big Duke13
 
-👁️ 448K • 👍 15K • 💬 2K • ⏱️ 2:35 • 6d ago
+👁️ 450K • 👍 15K • 💬 2K • ⏱️ 2:35 • 6d ago
+
+---
+
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+
+📺 DPCcars
+
+👁️ 40K • 👍 422 • 💬 151 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -272,17 +256,27 @@ A Chinese robotics company is showing off a humanoid robot built for more than j
 
 📺 WPLG Local 10
 
-👁️ 61K • 👍 45 • 💬 14 • ⏱️ 1:01 • 1d ago
+👁️ 64K • 👍 46 • 💬 15 • ⏱️ 1:01 • 1d ago
 
 ---
 
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
 
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
 
-📺 MACHINEKIND
+📺 RuntimeBRT
 
-👁️ 68K • 👍 813 • 💬 75 • ⏱️ 13:57 • 2d ago
+👁️ 285K • 👍 11K • 💬 324 • ⏱️ 2:55 • 4d ago
+
+---
+
+**[New Robot Bodyguard Can Kick Cars and Step Between You &amp; Attacker](https://www.youtube.com/watch?v=fML9RcOemyM)**
+
+This humanoid robot looks like it walked straight out of an action movie. Unitree's H2-X kicks cars, lifts vehicles, and even acts ...
+
+📺 The Twin Doctors
+
+👁️ 809 • 👍 26 • 💬 10 • ⏱️ 0:54 • 2h ago
 
 ---
 
