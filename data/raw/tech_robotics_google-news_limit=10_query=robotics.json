@@ -25,62 +25,12 @@
       "description": null
     },
     {
-      "headline": "The Robot I Didn\u2019t Expect to Build",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5",
-      "pub_date": 1792566000.0,
-      "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68441166&width=1200&height=600&coordinates=0%2C1537%2C0%2C1538",
-      "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
-    },
-    {
-      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
-      "pub_date": 1792690723.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
-      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
-      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
-    },
-    {
-      "headline": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw?oc=5",
-      "pub_date": 1792676853.0,
-      "article_url": "https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
-      "pub_date": 1792675812.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
-      "pub_date": 1792578539.0,
-      "article_url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
-      "image": "https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8",
-      "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
-    },
-    {
-      "headline": "Robotics firm buys Lawrenceville headquarters property from RIDC",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2o2cU9XRzFRQUk4Z19qWTd4TmFkV21BS1o2dzBqdTB5NnlZTVZlc2NrRllVT3ByRHZtRzgyMmtxbWZMOTRMcXVNNHliR0hnQ1pBT3RZcG5qbkEyMVgzVmhteUptcTd2QURkSWdEcl9zVVMtd1NfcGlGdVdadGRiY2tUUXZNWEZsVGJBYjRrc3F2VXFySElwQ1dVUTBzb2ZyS0M5X1l3WQ?oc=5",
-      "pub_date": 1792685520.0,
-      "article_url": "https://www.bizjournals.com/pittsburgh/news/2026/10/22/robotics-row-carnegie-robotics-lawrenceville.html",
+      "headline": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGNJTkdncS1GRkJwWWRvMHZMMkFFTks1c1ZrTnpTU3gxN3dVbXBLemxiRTZVaFRmLUZoY2dWSm5tVU10QXRpQ2Z6RHZDZElwMEswMllSN2MxSlFBbFZpWEZmWlJfUHZCYVRlU1hjWDB2cnVKQW1vWUJZcUNSRURlZG53TzBzUkQ4UUtKcHJoTkZBbTlNeEVLbW1Nc3V5dTA?oc=5",
+      "pub_date": 1792770900.0,
+      "article_url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
       "image": null,
       "description": null
     },
@@ -95,16 +45,66 @@
       "description": null
     },
     {
-      "headline": "Video. Germany: Humanoid robots and AI supercomputers take centre stage in Berlin",
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDVabXh0Q251bVVhNzVVNmZwWnZTeEhRR2JFMXg1cTFYcjVXYjRkdzlyd2hHY3ktb0ltdUZzTm5sUGhDc1QxVVl0TnY0WnBCM2NEWU1GX3Vnc1UxYWtwQzkwVldMNzQxS0paLWRYNzBOZWdWamVEUWVHZnU3aWtvZ0NvRDh6RThXekZMeEtMbENGQmNxeFlhUzBhU2lUbm01NnFqbWJOakxxenU5YmZHb1EwVDFOUQ?oc=5",
-      "pub_date": 1792681296.0,
-      "article_url": "https://www.euronews.com/video/2026/10/22/germany-humanoid-robots-and-ai-supercomputers-take-centre-stage-in-berlin",
-      "image": "https://images.euronews.com/articles/stories/09/96/34/63/1200x675_cmsv2_5358ab25-a591-5818-856a-2e994c4023dc-9963463.jpg",
-      "description": "Video. Humanoid robots, intelligent machines and powerful supercomputers take centre stage at Nvidia's Berlin event. CEO Jensen Huang predicted a thriving AI economy in Europe."
+      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
+      "pub_date": 1792675812.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Video Friday: Quadruped Robot Solves Giant Rubik\u2019s Cube By Itself",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjOHNadUVMeGZENHFTMm8zQXlmanl6dWdCdkNzZHN1WDBweEJ5UVFTQnVYM3YtQVlaczlFRlA2ZWlTWlZqRzM2VnlBdHE5d05ZT0taVi11YmZWeU5vbVh2aVVXdzg1RUk?oc=5",
+      "pub_date": 1792769532.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=68512950&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "description": "Your weekly selection of awesome robot videos"
+    },
+    {
+      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
+      "pub_date": 1792690723.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
+      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
+      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
+    },
+    {
+      "headline": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS09MLVZaYTFQVjlMZVNDOFlRcFNYM1JVazJGZGRRcUhCeGFLeFNjTHNpLUpveHRnV2pyS0xsRi1YZ3NSTUZlc3AyVUU3ci0zQ0JoRVdJNzY0NmhSVkx1eXdqREMwc3FEOV9OdmZsTWtPZkdYSldKekdraENBM3BWOGswR2ctRTFrbThSTUZlZUl1V2FxRE85SGlSUWV6SVg3WjR1ZGctcWhYVHJvRUhuWXc4Q3U0Vkk?oc=5",
+      "pub_date": 1792607023.0,
+      "article_url": "https://www.reuters.com/legal/transactional/blackrock-adds-robotics-etf-growing-ranks-ai-themed-products-2026-10-21/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
+      "pub_date": 1792578539.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+      "image": "https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8",
+      "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
+    },
+    {
+      "headline": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
+      "pub_date": 1792601769.0,
+      "article_url": "https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T11:56:22.814924+00:00"
+  "fetched_at": "2026-10-23T16:40:18.850718+00:00"
 }
