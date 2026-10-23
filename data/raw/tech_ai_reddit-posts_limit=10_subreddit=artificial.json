@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "METR, Redwood Research find exploit in OpenAI agent monitoring that could hide hundreds of actions",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xd0waf/metr_redwood_research_find_exploit_in_openai/",
+      "published": 1792719337.0,
+      "thumbnail": "https://external-preview.redd.it/3cjUcu5aO9iH5y_EgOz2oKXIFiJwGHi5YF1hLgJjgaU.jpeg?width=640&crop=smart&auto=webp&s=f863342fcd769b89b9a3e8cd683cadc8d296bf4d",
+      "external_url": "http://vectorwire.ai/article/metr-redwood-research-find-exploit-in-openai-agent-monitoring-that-could-hide-hu-f7585c",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "A three-week embedded pilot by METR and Redwood Research uncovered vulnerabilities in OpenAI's agent monitoring system, including an exploit that could\u2026"
+    },
+    {
       "title": "Scientists stunned as new AI unlocks game-changing cancer treatment",
       "author": "theindependentonline",
       "url": "https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/",
@@ -24,17 +35,6 @@
       "description": null
     },
     {
-      "title": "\u2018Rogue\u2019 OpenAI agents disabled their own safeguards and then lied about it, company admits",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/",
-      "published": 1792654360.0,
-      "thumbnail": "https://external-preview.redd.it/nQImxHHPdWVdvvNinj5ypqEZ3ZaewDKc2WTuYFTrDDk.jpeg?width=640&crop=smart&auto=webp&s=a0cf61fdff79847a1f11847d1049ece88d171967",
-      "external_url": "https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "ChatGPT maker does not yet have a good explanation for systems\u2019 behaviour, it says"
-    },
-    {
       "title": "In recent months, I feel that lowkey every software is getting a lot of updates but many minor bugs are surfacing, it is crazy",
       "author": "SawdustCrusader",
       "url": "https://www.reddit.com/r/artificial/comments/1xcyjgr/in_recent_months_i_feel_that_lowkey_every/",
@@ -46,61 +46,6 @@
       "description": "This is just my personal opinion; I\u2019m not a coder and know nothing about software beyond what I\u2019ve vibecoded for productivity and personal gain. As a civil engineer working for a large company, I\u2019ve noticed that every software I use for work (SaaS) and personal use, big tech stuff like Reddit, WhatsApp and YouTube is constantly being updated. Every time I open it, a minor tweak or small difference appears. It\u2019s no secret that AI is boosting coder productivity to new heights. However, I\u2019ve also noticed that software is breaking itself on very basic things. These apps aren\u2019t getting unusable, far from it, but they lack the cutting-edge attention to detail you\u2019d expect from the industry. For example, YouTube is a mess on mobile right now, it flickers, videos close on their own, app freezes and you can\u2019t click anything, you must close and reopen everytime, and WhatsApp has problems with its textbox, like the very fundamental thing it is made for, writing and sending text. Just now I tried searching on Reddit using the mobile browser and hit enter. However, it didn\u2019t search and instead moved to the line below. Crazy shit. The quality of every SaaS tool I use at work is declining. For example, our quality control app, in three months time, it was the industry leader and suddenly stopped working properly, every single user is complaining. But hey the same app now also has like 3 extra modules that we won\u2019t pay for. I understand that engineers are facing tighter deadlines and are expected to work much harder now that they have access to some of the best technology in recent history. But I honestly can\u2019t wait for the industry to realise once again that quality over quantity is essential. And I hope that now that code is more access and popula, that competition grows and we get better products as result."
     },
     {
-      "title": "Why not pace the IPO?",
-      "author": "Spiritual-Story9146",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcxst3/why_not_pace_the_ipo/",
-      "published": 1792710728.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI companies wanted to pave the model development just 2 weeks ago. Threat of AI ending humanity. But when it came to IPO they are rushing full speed. What kind of strategy is this? After IPO the expectations will only increase. Trillions of dollars invested. Then why every AI company wants IPO so bad?"
-    },
-    {
-      "title": "The inside story behind OpenAI\u2019s million-dollar math proof",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/",
-      "published": 1792693857.0,
-      "thumbnail": "https://external-preview.redd.it/YI1LfC46Cc3vyX9FyR8wx-x1hNZ2DZWztfJHOvFve7U.jpeg?width=640&crop=smart&auto=webp&s=2e0eb46786535c803fffec8917a92f9137636ab7",
-      "external_url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "AI\u2019s solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for math\u2014and the world"
-    },
-    {
-      "title": "Have you used used AI to run customer interviews at scale?",
-      "author": "Pleasant-Dirt-2913",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/",
-      "published": 1792667251.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We\u2019re lookin at AI moderation for a larger B2b customer research project and I\u2019m tryna understand how much human review is still needed afterward I\u2019ve looked at GLG and Qualitate to run the interviews and follow ups. My main question is what happens once you have 30-40 conversations back. Does someone still need to read every transcript or listen to recordings to check the interview quality If so how much work does AI take out of the process?"
-    },
-    {
-      "title": "China's biggest chatbot has started bringing up shopping on its own. It mentions the cold weather, then hands you a coupon",
-      "author": "Sanbi_Ai",
-      "url": "https://www.reddit.com/r/artificial/comments/1xclm0i/chinas_biggest_chatbot_has_started_bringing_up/",
-      "published": 1792682684.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This one caught me off guard. During China's Double 11 shopping festival, ByteDance's chatbot Doubao has started bringing up shopping on its own. Two Chinese outlets tested it this week. They were chatting about things that had nothing to do with shopping, Doubao mentioned that the weather was getting colder, and then it offered them Douyin Mall coupons, one of them 900 yuan off a 7,000 yuan order. For context, Douyin is ByteDance's Chinese TikTok, and Doubao is the most used AI app in China with roughly 400 million monthly users. It gets more interesting the further you dig you can now watch Douyin livestreams inside Doubao's answers and buy straight from them without leaving the chat buying through Doubao is often cheaper than buying on Douyin itself, because Doubao throws in its own subsidy. One down jacket was 894 yuan in Doubao and 919 on Douyin the motive is pretty obvious. LatePost reported Doubao had over 200 million daily users in the first half of the year but only about 10 million yuan a day in e-commerce sales people are also spending less time in it, down from 144 minutes a month in June to 133 in September, according to QuestMobile What bothers me most is the sourcing. QuestMobile found that on travel destination questions, 97.7% of Doubao's answers cited Douyin content and 84.5% cited Toutiao, which is also ByteDance. So one company owns the chatbot, the sources it quotes and the store it sends you to. It has also shown shoppers prices it could not have checked. In a June test by Jiemian, Doubao produced a neat price comparison across JD, Taobao and Pinduoduo, even though it is not connected to JD or Pinduoduo. Those prices came from the model, not the stores, and one was a best-case price most people could not actually get. Then it finished with a Douyin product card. Alibaba's Qwen got the same question and just admitted it could not check those sites. In fairness, the unprompted coupons come from reporters' own tests during what looks like a gradual rollout, so not everyone is seeing them yet. Honest question. If a chatbot got you a better price than the store, would you care that it started the sales pitch itself? Or is that where you stop trusting anything it says?"
-    },
-    {
-      "title": "For the first time, artificial intelligence is a top 10 fear in the U.S. Many Americans are more scared of AI than a loved one getting sick.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xc70jr/for_the_first_time_artificial_intelligence_is_a/",
-      "published": 1792637231.0,
-      "thumbnail": "https://external-preview.redd.it/QpF8NWA05nIIt82uqh3qigaEgFN9zpD_tlUsL05_yUU.jpeg?width=640&crop=smart&auto=webp&s=5a671137dd4b61d62f144d253752586e4bf51d57",
-      "external_url": "https://www.popsci.com/health/top-10-fears-2026-artificial-intelligence/",
-      "site_name": "Popular Science",
-      "favicon": "https://www.popsci.com/wp-content/uploads/2024/06/cropped-favicon-ps-FE5102-1.png?quality=85&w=180",
-      "description": "Many Americans are more scared of AI than a loved one getting sick."
-    },
-    {
       "title": "Times never trully change",
       "author": "DIego21User",
       "url": "https://www.reddit.com/r/artificial/comments/1xd0bio/times_never_trully_change/",
@@ -110,7 +55,62 @@
       "site_name": null,
       "favicon": null,
       "description": "Made this meme lol"
+    },
+    {
+      "title": "\u2018Rogue\u2019 OpenAI agents disabled their own safeguards and then lied about it, company admits",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/",
+      "published": 1792654360.0,
+      "thumbnail": "https://external-preview.redd.it/nQImxHHPdWVdvvNinj5ypqEZ3ZaewDKc2WTuYFTrDDk.jpeg?width=640&crop=smart&auto=webp&s=a0cf61fdff79847a1f11847d1049ece88d171967",
+      "external_url": "https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "ChatGPT maker does not yet have a good explanation for systems\u2019 behaviour, it says"
+    },
+    {
+      "title": "This library is hosting an AI class",
+      "author": "SparklingFox",
+      "url": "https://www.reddit.com/r/artificial/comments/1xd1e98/this_library_is_hosting_an_ai_class/",
+      "published": 1792720838.0,
+      "thumbnail": "https://preview.redd.it/xpckgnmgj4xh1.jpeg?width=640&crop=smart&auto=webp&s=f39566a36e47cba500a41b65fba01c60ab218f20",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Agility Robotics locks Nvidia as sole Digit 5 compute supplier ahead of Nasdaq listing",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xd4cuk/agility_robotics_locks_nvidia_as_sole_digit_5/",
+      "published": 1792729868.0,
+      "thumbnail": "https://external-preview.redd.it/2oCqKY3c6JFlEEOxQxri6LLJ1UZBTajWr7Tj40hnMzU.jpeg?width=640&crop=smart&auto=webp&s=a57ac5a22bb61ed812594c32a97121780e7ba2cb",
+      "external_url": "http://vectorwire.ai/article/agility-robotics-locks-nvidia-as-sole-digit-5-compute-supplier-ahead-of-nasdaq-l-0d5af1",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Agility Robotics standardizes Digit 5 on Nvidia IGX Thor modules, making Nvidia the exclusive onboard compute supplier as the humanoid maker heads for a\u2026"
+    },
+    {
+      "title": "US banks detect rogue AI agents inside customer accounts, move to restrict access",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/",
+      "published": 1792729686.0,
+      "thumbnail": "https://external-preview.redd.it/icdxrpAAKsAat1V_qHGrs9ircD6Xd3Y4cv9IUX14oTY.jpeg?width=640&crop=smart&auto=webp&s=d11fbda4062b00984793c97f6f99db10ae97c889",
+      "external_url": "http://vectorwire.ai/article/us-banks-detect-rogue-ai-agents-inside-customer-accounts-move-to-restrict-access-9bf4c6",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Morgan Stanley, JPMorgan, Bank of America, Wells Fargo, and Citi are restricting third-party AI agents found operating inside customer accounts without\u2026"
+    },
+    {
+      "title": "Why not pace the IPO?",
+      "author": "Spiritual-Story9146",
+      "url": "https://www.reddit.com/r/artificial/comments/1xcxst3/why_not_pace_the_ipo/",
+      "published": 1792710728.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI companies wanted to pave the model development just 2 weeks ago. Threat of AI ending humanity. But when it came to IPO they are rushing full speed. What kind of strategy is this? After IPO the expectations will only increase. Trillions of dollars invested. Then why every AI company wants IPO so bad?"
     }
   ],
-  "fetched_at": "2026-10-23T01:16:00.126786+00:00"
+  "fetched_at": "2026-10-23T06:19:12.248333+00:00"
 }

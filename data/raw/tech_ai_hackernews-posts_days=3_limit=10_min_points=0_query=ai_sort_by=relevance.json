@@ -9,7 +9,7 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "hn_url": "https://news.ycombinator.com/item?id=50180836",
       "author": "danlark1",
-      "points": 446,
+      "points": 449,
       "num_comments": 184,
       "created_at": "2026-10-21T13:43:19Z",
       "object_id": "50180836",
@@ -23,8 +23,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "hn_url": "https://news.ycombinator.com/item?id=50198675",
       "author": "niemandhier",
-      "points": 291,
-      "num_comments": 152,
+      "points": 356,
+      "num_comments": 186,
       "created_at": "2026-10-22T17:44:06Z",
       "object_id": "50198675",
       "image": "https://opengraph.githubassets.com/de3aeb3b466f88f13b2190b2b01adee0c8442c30de2459134b10ead7f50d4fcd/NVIDIA/OpenShell",
@@ -33,32 +33,32 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "hn_url": "https://news.ycombinator.com/item?id=50189150",
-      "author": "babelfish",
-      "points": 244,
-      "num_comments": 224,
-      "created_at": "2026-10-21T23:38:32Z",
-      "object_id": "50189150",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-      "description": "No more fines for not taking out the trash at your Airbnb.",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
-    },
-    {
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "author": "rakannimer",
-      "points": 228,
-      "num_comments": 292,
+      "points": 331,
+      "num_comments": 366,
       "created_at": "2026-10-22T16:08:00Z",
       "object_id": "50197313",
       "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0",
       "description": "We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.",
       "favicon": "https://www.modelcompare.ai/apple-icon.png?d684b0a0d956e474",
       "site_name": "ModelCompare"
+    },
+    {
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "hn_url": "https://news.ycombinator.com/item?id=50189150",
+      "author": "babelfish",
+      "points": 250,
+      "num_comments": 227,
+      "created_at": "2026-10-21T23:38:32Z",
+      "object_id": "50189150",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+      "description": "No more fines for not taking out the trash at your Airbnb.",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "site_name": "The Verge"
     },
     {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
@@ -79,14 +79,28 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "hn_url": "https://news.ycombinator.com/item?id=50180752",
       "author": "raahelb",
-      "points": 155,
-      "num_comments": 104,
+      "points": 156,
+      "num_comments": 105,
       "created_at": "2026-10-21T13:37:00Z",
       "object_id": "50180752",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
       "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
       "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
       "site_name": "OpenAI"
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "hn_url": "https://news.ycombinator.com/item?id=50199230",
+      "author": "jrepinc",
+      "points": 131,
+      "num_comments": 75,
+      "created_at": "2026-10-22T18:28:16Z",
+      "object_id": "50199230",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "description": "The scientific literature can be viewed as an \"information commons:\" an intangible resource that \"no one owns and is shared by everyone.\" There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known \"tragedy of the commons,\" but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via \"slop spam\"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.",
+      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+      "site_name": "arXiv.org"
     },
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
@@ -101,20 +115,6 @@
       "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
       "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20261014-124122-9e48a3510a-web-3.24.0-4/apple-touch-icon.png",
       "site_name": "bbc.com"
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "hn_url": "https://news.ycombinator.com/item?id=50199230",
-      "author": "jrepinc",
-      "points": 107,
-      "num_comments": 63,
-      "created_at": "2026-10-22T18:28:16Z",
-      "object_id": "50199230",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "description": "The scientific literature can be viewed as an \"information commons:\" an intangible resource that \"no one owns and is shared by everyone.\" There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known \"tragedy of the commons,\" but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via \"slop spam\"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.",
-      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
-      "site_name": "arXiv.org"
     },
     {
       "title": "On AI writing",
@@ -135,8 +135,8 @@
       "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
       "hn_url": "https://news.ycombinator.com/item?id=50198940",
       "author": "brandonb",
-      "points": 76,
-      "num_comments": 40,
+      "points": 83,
+      "num_comments": 41,
       "created_at": "2026-10-22T18:02:54Z",
       "object_id": "50198940",
       "image": "https://framerusercontent.com/images/gv2JSjbiSOuP8MfuD0vsk3DmW3s.webp?width=1920&height=1080",
@@ -145,7 +145,7 @@
       "site_name": "biograph.com"
     }
   ],
-  "total_hits": 698,
+  "total_hits": 702,
   "has_metadata": true,
-  "fetched_at": "2026-10-23T01:16:01.220465+00:00"
+  "fetched_at": "2026-10-23T06:19:08.338499+00:00"
 }
