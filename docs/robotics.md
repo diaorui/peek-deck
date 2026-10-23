@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-22T22:37:52.237879+00:00'
+updated: '2026-10-23T01:16:30.413483+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 22, 2026 at 22:37 UTC  
+**Last Updated:** October 23, 2026 at 01:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,13 +118,13 @@ Hi everyone! Not sure if this is the right flair or subreddit for this inquiry b
 
 **[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
 
-Axios • 6h ago
+Axios • 9h ago
 
 ---
 
 **[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Stanford Report • 9h ago
+Stanford Report • 12h ago
 
 ---
 
@@ -136,15 +136,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
+**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
 
-Reuters • 1d ago
+Reuters • 11h ago
 
 ---
 
-**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
+**[Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography](https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/)**
 
-Bloomberg.com • 20h ago
+The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit.
+
+NASA (.gov) • 7h ago
 
 ---
 
@@ -156,29 +158,33 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
-**[Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car](https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car)**
+**[CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo)**
 
-Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously.
-
-South China Morning Post • 1d ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
+**[Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027](https://interestingengineering.com/ai-robotics/tesla-optimus-robot-enters-production)**
 
-Reuters • 8h ago
+Tesla has started Optimus robot production in Fremont as Elon Musk targets 20,000 humanoid robots per week by the end of 2027.
 
----
-
-**[Seattle company Carbon Robotics cuts jobs, citing 'broader economic conditions'](https://www.bizjournals.com/seattle/news/2026/10/20/carbon-robotics-layoffs-agriculture-tech-laser.html)**
-
-The Business Journals • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services](https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/)**
+**[Bermy Bots To Compete In Atlanta Robotics](https://bernews.com/2026/10/bermy-bots-compete-atlanta-robotics/)**
 
-SpaceNews • 1d ago
+Bermuda’s National Robotics Team, the Bermy Bots, has travelled to Atlanta, Georgia, to compete in the 2026/27 FIRST Tech Challenge season. A spokesperson said, “And they’re off! Bermuda’s National Robotics Team, the Bermy Bots, is headed to Atlanta, Georgia, to compete in the first meet of the 2026/27 FIRST Tech Challenge [FTC] season. Supported by …
+
+Bernews • 15h ago
+
+---
+
+**[Tesla must scale FSD, energy and robotics to justify $1.6 trillion valuation: ex-board member](https://www.cnbc.com/video/2026/10/22/tesla-must-scale-fsd-energy-and-robotics-to-justify-1-point-6t-valuation-ex-board-member.html)**
+
+The Westly Group's Steve Westly, a former Tesla board member, says the SpaceX and Tesla merger is likely given the synergies between the two firms. The key question is potential regulatory hurdles.
+
+CNBC • 1d ago
 
 ---
 
@@ -192,7 +198,7 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 14K • 👍 405 • 💬 87 • ⏱️ 8:29 • 5h ago
+👁️ 90K • 👍 944 • 💬 174 • ⏱️ 8:29 • 7h ago
 
 ---
 
@@ -202,7 +208,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 142K • 👍 2K • 💬 236 • ⏱️ 20:32 • 4d ago
+👁️ 144K • 👍 2K • 💬 236 • ⏱️ 20:32 • 4d ago
 
 ---
 
@@ -212,7 +218,17 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 776K • 👍 7K • 💬 1K • ⏱️ 4:06 • 23h ago
+👁️ 862K • 👍 7K • 💬 1K • ⏱️ 4:06 • 1d ago
+
+---
+
+**[Chinese Kung Fu robot takes security and safety to a new level](https://www.youtube.com/watch?v=2-UGK8Nqw04)**
+
+News24 host James Macpherson discusses a Chinese-made humanoid robot taking security and safety to a new level.
+
+📺 News24
+
+👁️ 5K • 👍 37 • 💬 43 • ⏱️ 7:06 • 12h ago
 
 ---
 
@@ -222,7 +238,17 @@ Mizkif reacts to Unitree Robotics unveiling a humanoid bodyguard robot that show
 
 📺 Mizkif
 
-👁️ 5K • 👍 232 • 💬 51 • ⏱️ 0:38 • 7h ago
+👁️ 6K • 👍 259 • 💬 52 • ⏱️ 0:38 • 9h ago
+
+---
+
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+
+📺 DPCcars
+
+👁️ 30K • 👍 354 • 💬 118 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -232,7 +258,7 @@ robot #artificialintelligence #robotics #ai 10000 People Just Bought a Home Robo
 
 📺 AI Unfiltered
 
-👁️ 113K • 👍 951 • 💬 196 • ⏱️ 8:52 • 6d ago
+👁️ 119K • 👍 993 • 💬 209 • ⏱️ 8:52 • 6d ago
 
 ---
 
@@ -242,7 +268,7 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 176K • 👍 2K • 💬 522 • ⏱️ 4:07 • 5d ago
+👁️ 178K • 👍 2K • 💬 527 • ⏱️ 4:07 • 5d ago
 
 ---
 
@@ -252,35 +278,17 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 56K • 👍 714 • 💬 72 • ⏱️ 13:57 • 1d ago
+👁️ 59K • 👍 738 • 💬 72 • ⏱️ 13:57 • 2d ago
 
 ---
 
-**[😳 China’s 13-Foot Robot Titan Is Real — And It’s Not AI‼️ 🤯  #fyp #share #china #robots #bigduke13](https://www.youtube.com/watch?v=LlUa_jJSeIk)**
+**[China Just Unleashed AI Robot Police on Its Streets](https://www.youtube.com/watch?v=oxStFRgyLuw)**
 
-📺 Big Duke13
+China's new AI robots are taking on real human jobs, and things are getting seriously weird. DEEP Robotics sent its DR02 ...
 
-👁️ 437K • 👍 14K • 💬 2K • ⏱️ 2:35 • 6d ago
+📺 MACHINEKIND
 
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 94K • 👍 831 • 💬 50 • ⏱️ 9:03 • 4d ago
-
----
-
-**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
-
-xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
-
-📺 RuntimeBRT
-
-👁️ 244K • 👍 9K • 💬 284 • ⏱️ 2:55 • 3d ago
+👁️ 47K • 👍 654 • 💬 69 • ⏱️ 12:40 • 6d ago
 
 ---
 
