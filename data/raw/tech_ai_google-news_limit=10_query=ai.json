@@ -5,74 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The Indian workers filming their work to train AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5",
-      "pub_date": 1792742657.0,
-      "article_url": "https://www.bbc.com/news/articles/ckvgyml6pdm9o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg",
-      "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI."
+      "headline": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhblpwLUhvM1dNN2FhWWlUSzZLclJUX2t6RzBLYjFqTDMyV3lSalRvRjlEWWdfb0V6LVFXdTVYZWdsY2YxdHE1R1Y0Tm15aDhNdk90SVlLOUF2M2U0eGhTV3dhQlFaT1JVVU1BN1F1MNIBdEFVX3lxTE55bU1Ia1lKeVUtR0s1VnBCelhlREV2TDdXNDNKU2ZWT2dXZVJPUk0xN3ZkVEtZWm01c0ZwYXpDYkxhNjIxX3ZLaEtqc0NJcHA3S1ZYdWJOWU1mYnIxWnVZa2t6aGlWOWhMZllXekZjTERoVTVp?oc=5",
+      "pub_date": 1792761909.0,
+      "article_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108451661-1792761669966-108451661-1792761599620-gettyimages-1244667204-AMEX_SQUERI.jpg?v=1792761737&w=1920&h=1080",
+      "description": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday."
     },
     {
-      "headline": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5",
-      "pub_date": 1792715640.0,
-      "article_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How I got roasted by \"AI actor\" Tilly Norwood",
+      "headline": "Wall Street prepares for AI's \"day after\"",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ibko1TWVEa250TGNRUjlOWi1ZT0RFN0ZhM19NQ0ExSWo2WDA5cDI5bGdkTldRVC1lRWdvM0pnblpHeUNuZHhKNkpjM2p0SUNNaWNxRFZaNkhrVXZHTElrMjBwUExqRE5xWjZlZG9GcWVUMDZBLXc?oc=5",
-      "pub_date": 1792753316.0,
-      "article_url": "https://www.axios.com/2026/10/23/tilly-norwood-ai-actress-interview",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBELWM3bUxSQXlCTjVWQ0R6VUZQUklkcHJQQndPQjhFZXNweUJpckN4cFhYV19SZElsNmRtN1lxWG5TY0dmajFLbmRiZXhHd2tYZGs0VEVLQ3R0bzJWNF8wMDFfSnpKRWFyVkVV?oc=5",
+      "pub_date": 1792752404.0,
+      "article_url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia is unveiling a shipping-container AI factory as neocloud stocks slide",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xQThBcWktOFlTZXNkaWxtN1BsQnl3clZiMEp5YmtDYjBPem9RaE5OMjdYVkNvMEg3QXNweEhON2xFb0ZYZ2JnY2lQcTZYR2Y0YVNwUXJRem9CZEY1NDRNUTIyeEE2YTZUampWbVNucjMtZGJUWXp6Y0FoOA?oc=5",
-      "pub_date": 1792755500.0,
-      "article_url": "https://qz.com/nvidia-container-ai-factory-neocloud-stocks-slide-102326",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2260170952-300x200.jpg",
-      "description": "Nvidia says its DSX POD cuts AI data center deployment time from six months to as little as 14 days, with deliveries set for early 2027"
-    },
-    {
-      "headline": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5",
-      "pub_date": 1792705800.0,
-      "article_url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-      "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eef05a29afa3a8a23a2b5d40b2a20bde",
-      "description": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing"
-    },
-    {
-      "headline": "Market expert analyzes AI spending worries",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGellwbkQtNk40cnBzSlNXVlhyQklTUWtNcXF5TV9IQ3RhOThISm80MVlUZ19HSVZxZXIwRWkyNEdKYTVJR1ltaHJySVc3WlU5RUpuOVAxVlJWVE0?oc=5",
-      "pub_date": 1792754653.0,
-      "article_url": "https://www.foxbusiness.com/video/6407287938112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b42ed8de-5cef-4437-ae72-8667c3084372/dbc9c34d-9fd0-4cec-9f0b-6134c5c39c20/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Taylor Riggs hosts Michael Lee Strategy founder Michael Lee to discuss the tech stock sell-off amid AI spending worries. Lee analyzes market performance, CoreWeave's credit risk, and chipmakers like NVIDIA."
-    },
-    {
-      "headline": "Steep bill for AI buildout punishes Meta, other tech favorites",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
-      "pub_date": 1792693980.0,
-      "article_url": "https://www.reuters.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-2026-10-22/",
+      "headline": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGNJTkdncS1GRkJwWWRvMHZMMkFFTks1c1ZrTnpTU3gxN3dVbXBLemxiRTZVaFRmLUZoY2dWSm5tVU10QXRpQ2Z6RHZDZElwMEswMllSN2MxSlFBbFZpWEZmWlJfUHZCYVRlU1hjWDB2cnVKQW1vWUJZcUNSRURlZG53TzBzUkQ4UUtKcHJoTkZBbTlNeEVLbW1Nc3V5dTA?oc=5",
+      "pub_date": 1792770900.0,
+      "article_url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Why Sustainable? AI And Our Shared Challenges",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcW0xdUdPcFk1bFJ1a1g4QkdHQU5wcl9CRU1LVF9Db0RILW8tWWZIU2IxbW5PeDJEMVk4eXlZUGJFU2I3TERCRmROaTR5RlNuUTdfcWFjaUZnZ0xyckFfWEp2QjgwRUUwTVdrY3VRUUkxVmFCdUNsalBEZFI0QklVTW9sV3F1d2tFNHlVMUtqVG8yWmZLa0NuYVVEV0k?oc=5",
+      "pub_date": 1792772560.0,
+      "article_url": "https://www.forbes.com/sites/johnwerner/2026/10/23/why-sustainable-ai-and-our-shared-challenges/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What is the \u201cAI race\u201d anyway?",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41YUJaMVZmN25QQjdLbWc2THJQT3lrLWFRejNuSVkxY2dYUjUtUUJxT3RXRzR5OUVFRm9weEJmWkJnTFNyeDdob0NZcS02TDR5N0pPcWJGeHRQY1diQWs4Tzc2UUU3SnZNMHBFRUtJTUFFQnFHOXJ5VjZKazJfZU0?oc=5",
+      "pub_date": 1792771507.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/ai-race-anyway-160507467.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0cd044f6a667d5f5d56b53a7ff52bc324203a58f45173a260395068104150d23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgzero_551%2F2db3ccffb6dc1ebca347cb80ed4bcbf7.png",
+      "description": "Talk of the \u201cAI race\u201d is everywhere these days. The competition to master this technology shapes everything from high-level tensions between the US and China to the local politics of where to build da..."
+    },
+    {
+      "headline": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdG9IQk05V0RreXowdWtENmZNSTZPRWFMczNQUGZCcE9nZFFOMnpLWmJmSkUtMldUMDRzNHNTSWVPSmpGTE1wM1lYS1IzQmE0MktGYTdndmtXYUdRaXRUaUMxcjAyd19IX3I4R3FXanQxZ3p1NVFCMVlHODBCUdIBgwFBVV95cUxQU1ppdm16cTYwY0FtZVhKMlVjeWZLUTl0UDRadXZ6UHV4bHNYNXFnQm0xak9zMjA5MFF5Slg4bkg5ZEt4Y1lEQy10Z200amVpUkU0UGNtNHc5bndSQks4LXR5ckpGVzlQYTRfSGNxa0Ric2U1OUU2dGQzem9wZUJHczVsbw?oc=5",
+      "pub_date": 1792768659.0,
+      "article_url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108446583-1792673740106-gettyimages-2300859671-86268678.jpeg?v=1792673757&w=1920&h=1080",
+      "description": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online."
     },
     {
       "headline": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
@@ -85,26 +75,36 @@
       "description": "In July 2004, security researcher Stefan Esser sent a warning."
     },
     {
-      "headline": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVV6Y3hHVDlVbm1oZkFJNWJBV3hVS2ROYWJPX1cyTjhxMVNvbkRkWmFXb2RWTlpJU2gwdTBLRmpsYmFhMmFRdUZhNlJGdm96YWxIWVB0OHpzR0JrN0RuRFd5bXptVlE2T1FaV1JKY1prQUlZX1dBMkJqVi1OWGp6SjI4UUJISHN1bkVIZi1CNXB1U1gtYmFSdA?oc=5",
-      "pub_date": 1792717200.0,
-      "article_url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
+      "headline": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5",
+      "pub_date": 1792769957.0,
+      "article_url": "https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia's Huang heads to Kazakhstan for the first time \u2014 and he's not the only one with big plans",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZHJKU1FzanFwSjQ5WFc5eHFsaU0wVm5hTTJwX2N3X0FSbVpvdUROam8tWWVZRnlhdDY4cEttSDNORXpQNWM2SFJ3Rjlrc1BxVmpmWHJra3VLV25ibzFCRDVmVF9SVmZMX3BKdzRCR0VRWVV6amI1cjQ4SXrSAYIBQVVfeXFMT3JMSWZxbVVqS3BtNlVTc0FEWnBGMnRud2ctSS1raHZPaUJORGljNEpCaHk5OGdvS2FDOXIycWdXMEpnYzhlc1lqUEpfTldxYkRkRERnU25rVDZEZFY1Y3lVZjEtYWdDSTFXd1ZPUmRGTlAteEJMcjJsdktNZlJ1MUhEdw?oc=5",
-      "pub_date": 1792743412.0,
-      "article_url": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108416314-1792099131626-gettyimages-2299775963-SWEDEN_NVIDIA.jpeg?v=1792099225&w=1920&h=1080",
-      "description": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal."
+      "headline": "Appeals court tears into federal judge for AI hallucinations in ruling on DEI law",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkxydDVwaFE4bFIxZFNuQ3hhN2NHdWtDTHFBb2MyOXA1Y2p5dTFldXFuSnRKZUNILUZ5VjZkN1hHbWlaYTZ1UnZDY3JXLXozMl9lSmZLSTNqNGcxUjUwUGlGWTNtSlFkZlJWand6OWJRcEdtamRnN3JlVnE3RVdnNWsyMjZVblpiLW9mRQ?oc=5",
+      "pub_date": 1792766096.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-hallucination-appeals-court-mississippi-dei-law",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/c9507c0650a746472fc51bb301bbbb55.jpg",
+      "description": "A federal appeals court sharply criticized a judge's reliance on artificial intelligence as it overturned his order blocking Mississippi's restrictions on publicly funded DEI programs."
+    },
+    {
+      "headline": "Her 6-year-old brought home an AI-generated photo from school. This mom isn\u2019t having it",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzhUVk54bHE1YUFQWC0wZ0JqdE8zSEVuM1AwRzJwMlN5dUhiMy1ITXpzMy0tOTQ0N29qZXVaZDRIcThpZlczbzBMeVppcTM4V0ZVbDYxN2lDWkk5a3liUm9VZTVaeTNUUVE0MkxaV0VNVGVVcWQ4S2Vqb1hQcU9oeXZqNXY3bmpLWExxdDN6QUEzc1dhSEwxRkplbE1sZXluQ2l3UVlsc2Y3NkFRT2hNRlNB?oc=5",
+      "pub_date": 1792762020.0,
+      "article_url": "https://www.usatoday.com/story/life/health-wellness/2026/10/23/schools-embracing-ai-parents-worried/92359840007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92366052007-ai-portrait.jpg?crop=1438,808,x0,y383&width=1438&height=808&format=pjpg&auto=webp",
+      "description": "Nikki Anderson's 6-year-old daughter brought home from school an AI-generated photo of herself at age 25. Anderson was furious."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T11:56:20.223555+00:00"
+  "fetched_at": "2026-10-23T16:40:26.957358+00:00"
 }

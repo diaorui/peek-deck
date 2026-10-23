@@ -2,25 +2,14 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "METR, Redwood Research find exploit in OpenAI agent monitoring that could hide hundreds of actions",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xd0waf/metr_redwood_research_find_exploit_in_openai/",
-      "published": 1792719337.0,
-      "thumbnail": "https://external-preview.redd.it/3cjUcu5aO9iH5y_EgOz2oKXIFiJwGHi5YF1hLgJjgaU.jpeg?width=640&crop=smart&auto=webp&s=f863342fcd769b89b9a3e8cd683cadc8d296bf4d",
-      "external_url": "http://vectorwire.ai/article/metr-redwood-research-find-exploit-in-openai-agent-monitoring-that-could-hide-hu-f7585c",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "A three-week embedded pilot by METR and Redwood Research uncovered vulnerabilities in OpenAI's agent monitoring system, including an exploit that could\u2026"
-    },
-    {
-      "title": "[Free to read] Anthropic strikes deal to launch European consultancy",
-      "author": "financialtimes",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdaxav/free_to_read_anthropic_strikes_deal_to_launch/",
-      "published": 1792753292.0,
-      "thumbnail": "https://external-preview.redd.it/x_pAeopGIb1f7fcQ_HvUzDhCajHh6qPsAWDjlRUUXoA.jpeg?width=640&crop=smart&auto=webp&s=db12875b7190e22c52912500ecc87514af94e0ba",
-      "external_url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?accessToken=zwAAAaIC4CDVkdPfcL8g6AlI0NOEhfj1FKf7xAE.MEYCIQCG1DHu0qNsOFxiSMFzoaORUIOhdyEh_7E7YHX298qjrAIhAJfK1S0zaZ7Q-T28-KQS4WfiYPWksz_desju07-IhGwF&segmentId=c50c86e4-586b-23ea-1ac1-7601c9c2476f",
-      "site_name": "ft.com",
-      "favicon": null,
+      "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
+      "author": "HotMinuteUK",
+      "url": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
+      "published": 1792760228.0,
+      "thumbnail": "https://external-preview.redd.it/Q--aODqQ862hpYTWEdJ0PD28NvJaPqqRuR1fAv4vy1Q.jpeg?width=640&crop=smart&auto=webp&s=9646c9e0705db0998095bc07b3872e82cb93cc23",
+      "external_url": "https://hotminute.co.uk/2026/10/22/ibm-ceo-says-businesses-are-choosing-open-weight-models-over-expensive-frontier-ai/",
+      "site_name": "hotminute.co.uk",
+      "favicon": "https://hotminute.co.uk/favicon.ico",
       "description": null
     },
     {
@@ -46,6 +35,72 @@
       "description": "Link to the paper: https://gking.harvard.edu/peerless/ Seems like all of the complaints about AI generated reviews being low quality don\u2019t stand up to scrutiny."
     },
     {
+      "title": "Anyone else have the Google search Ai bug and pull info out of old chats?",
+      "author": "No-Helicopter7635",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdcm2o/anyone_else_have_the_google_search_ai_bug_and/",
+      "published": 1792758381.0,
+      "thumbnail": "https://preview.redd.it/o1dce5a3n7xh1.jpeg?width=640&crop=smart&auto=webp&s=6cf802bb86dbbdeac3a55c1c10d8423e9b363a12",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I started my chat with \u201chi\u201d, I then asked my question about a Megane cabriolet (a car). And out of the blue it said \u201cunlike the Clio you were looking at earlier\u201d. But the thing is I never told it anything about a Clio , that\u2019s from a chat from weeks ago on a tab I\u2019ve closed, I then asked it where is got that from and it said it was a \u201clucky guess\u201d which it total BS. I am aware google Ai is not supposed to have the ability to remember other chats. Has anyone else ran into this? This is the 3rd time I have had it happen over the past few months."
+    },
+    {
+      "title": "[Free to read] Anthropic strikes deal to launch European consultancy",
+      "author": "financialtimes",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdaxav/free_to_read_anthropic_strikes_deal_to_launch/",
+      "published": 1792753292.0,
+      "thumbnail": "https://external-preview.redd.it/x_pAeopGIb1f7fcQ_HvUzDhCajHh6qPsAWDjlRUUXoA.jpeg?width=640&crop=smart&auto=webp&s=db12875b7190e22c52912500ecc87514af94e0ba",
+      "external_url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?accessToken=zwAAAaIC4CDVkdPfcL8g6AlI0NOEhfj1FKf7xAE.MEYCIQCG1DHu0qNsOFxiSMFzoaORUIOhdyEh_7E7YHX298qjrAIhAJfK1S0zaZ7Q-T28-KQS4WfiYPWksz_desju07-IhGwF&segmentId=c50c86e4-586b-23ea-1ac1-7601c9c2476f",
+      "site_name": "ft.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "METR, Redwood Research find exploit in OpenAI agent monitoring that could hide hundreds of actions",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xd0waf/metr_redwood_research_find_exploit_in_openai/",
+      "published": 1792719337.0,
+      "thumbnail": "https://external-preview.redd.it/3cjUcu5aO9iH5y_EgOz2oKXIFiJwGHi5YF1hLgJjgaU.jpeg?width=640&crop=smart&auto=webp&s=f863342fcd769b89b9a3e8cd683cadc8d296bf4d",
+      "external_url": "http://vectorwire.ai/article/metr-redwood-research-find-exploit-in-openai-agent-monitoring-that-could-hide-hu-f7585c",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "A three-week embedded pilot by METR and Redwood Research uncovered vulnerabilities in OpenAI's agent monitoring system, including an exploit that could\u2026"
+    },
+    {
+      "title": "Tesla adds Las Vegas, Phoenix, Jacksonville, San Antonio to Robotaxi map",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdgfvr/tesla_adds_las_vegas_phoenix_jacksonville_san/",
+      "published": 1792767632.0,
+      "thumbnail": "https://external-preview.redd.it/HkMBzkKCRRrSd7JRUAPfTBU1V6eF0J4vsDKXQ0gTZxs.jpeg?width=640&crop=smart&auto=webp&s=9df41f73c28a98e0a51b93673c2e43b3f8025e49",
+      "external_url": "http://vectorwire.ai/article/tesla-adds-las-vegas-phoenix-jacksonville-san-antonio-to-robotaxi-map-96a695",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Tesla names Las Vegas, Phoenix, Jacksonville, and San Antonio as its next Robotaxi markets, publishing a safety report showing 3.4 million autonomous\u2026"
+    },
+    {
+      "title": "OpenAI opens Decisions API at $0.10 per million input tokens, targets TypeSafe's Jev category",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdg1x1/openai_opens_decisions_api_at_010_per_million/",
+      "published": 1792766741.0,
+      "thumbnail": "https://external-preview.redd.it/FTFsZGIvBavaFakjHRJHk4n5ESPrPK3kHUj9L1Vt4jg.png?width=640&crop=smart&auto=webp&s=b56811c9a5e26920e7e895a07800e43a8ca2495f",
+      "external_url": "http://vectorwire.ai/article/openai-opens-decisions-api-at-0-10-per-million-input-tokens-targets-typesafe-s-j-3fa377",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "OpenAI made its Decisions API generally available on October 22, 2026, pricing it at $0.10 per million input tokens with no output charges, competing\u2026"
+    },
+    {
+      "title": "what are some everyday examples of AI gadgets",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdiz0d/what_are_some_everyday_examples_of_ai_gadgets/",
+      "published": 1792773261.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI gadgets get talked about a lot. pins, pendants, glasses, rings, handheld things with a voice assistant inside. but when it comes to what people actually use every day, the list gets short fast. so what's on your list? honestly curious what made it stick."
+    },
+    {
       "title": "Scientists stunned as new AI unlocks game-changing cancer treatment",
       "author": "theindependentonline",
       "url": "https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/",
@@ -55,62 +110,7 @@
       "site_name": "The Independent",
       "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
       "description": "The computational platform, named MAESTRO and detailed in the journal Advanced Science, uses large language models, or LLMs, to process established scientific knowledge regarding drug mechanisms and the biological pathways malignant cells exploit to survive treatment"
-    },
-    {
-      "title": "What should I use ?",
-      "author": "Curious_Judgment6571",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdayfr/what_should_i_use/",
-      "published": 1792753376.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi there, I am new to AI and I am currently using Hermes Agent. I am using a free month of GPT Plus, but it will end soon and I have been at my token limit for a week. I was wondering which option would be better for me: paying for a subscription to a good LLM like GPT or Claude, or running a local LLM on my PC. For those wondering, my configuration is an Intel i5 11400F, RTX 5070 16GB OC, and 32GB DDR4. I heard that local models are less efficient than online models. I would like something that can handle all my requests and remain helpful for my everyday life. I want an agent that can help me create video games, teach me code (C++, Python, PHP, JS...), and set everything up on my PC. I guess I have high expectations and am demanding, so I will likely have to pay. By the way, can someone tell me if Hermes is good or if OpenClaw, Claude Code, or Codex is better? For local LLMs, which is best between Ollama and LM Studio? I know I am a bit lost and may have said some nonsense. Thank you for helping me, guys."
-    },
-    {
-      "title": "YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.",
-      "author": "Sevives",
-      "url": "https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/",
-      "published": 1792672002.0,
-      "thumbnail": "https://preview.redd.it/z3yy9xs8i0xh1.jpeg?width=640&crop=smart&auto=webp&s=1d747e1698c8c947ee5725e2b81ee1f07dc71dfd",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Times never trully change",
-      "author": "DIego21User",
-      "url": "https://www.reddit.com/r/artificial/comments/1xd0bio/times_never_trully_change/",
-      "published": 1792717654.0,
-      "thumbnail": "https://preview.redd.it/coptaerz94xh1.jpeg?width=640&crop=smart&auto=webp&s=ecb769722d7bf2416baaad7d46487e9d2544423a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Made this meme lol"
-    },
-    {
-      "title": "In recent months, I feel that lowkey every software is getting a lot of updates but many minor bugs are surfacing, it is crazy",
-      "author": "SawdustCrusader",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcyjgr/in_recent_months_i_feel_that_lowkey_every/",
-      "published": 1792712693.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is just my personal opinion; I\u2019m not a coder and know nothing about software beyond what I\u2019ve vibecoded for productivity and personal gain. As a civil engineer working for a large company, I\u2019ve noticed that every software I use for work (SaaS) and personal use, big tech stuff like Reddit, WhatsApp and YouTube is constantly being updated. Every time I open it, a minor tweak or small difference appears. It\u2019s no secret that AI is boosting coder productivity to new heights. However, I\u2019ve also noticed that software is breaking itself on very basic things. These apps aren\u2019t getting unusable, far from it, but they lack the cutting-edge attention to detail you\u2019d expect from the industry. For example, YouTube is a mess on mobile right now, it flickers, videos close on their own, app freezes and you can\u2019t click anything, you must close and reopen everytime, and WhatsApp has problems with its textbox, like the very fundamental thing it is made for, writing and sending text. Just now I tried searching on Reddit using the mobile browser and hit enter. However, it didn\u2019t search and instead moved to the line below. Crazy shit. The quality of every SaaS tool I use at work is declining. For example, our quality control app, in three months time, it was the industry leader and suddenly stopped working properly, every single user is complaining. But hey the same app now also has like 3 extra modules that we won\u2019t pay for. I understand that engineers are facing tighter deadlines and are expected to work much harder now that they have access to some of the best technology in recent history. But I honestly can\u2019t wait for the industry to realise once again that quality over quantity is essential. And I hope that now that code is more access and popula, that competition grows and we get better products as result."
-    },
-    {
-      "title": "SK Hyper seeks $350B to fund 5GW AI data center buildout in South Korea",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdaxnv/sk_hyper_seeks_350b_to_fund_5gw_ai_data_center/",
-      "published": 1792753322.0,
-      "thumbnail": "https://external-preview.redd.it/D_0VDs8XX3ty1DvpZKwyzxFnjc2SoQBGRd7h0qS6riM.jpeg?width=640&crop=smart&auto=webp&s=f0287aaa7c5f8b693b10499d801c9cd93f248417",
-      "external_url": "http://vectorwire.ai/article/sk-hyper-seeks-350b-to-fund-5gw-ai-data-center-buildout-in-south-korea-62bb21",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "SK Hyper, SK Telecom's data center unit, is in talks with tech firms and investors to fund a $350 billion, 5GW AI infrastructure buildout in South Korea\u2026"
     }
   ],
-  "fetched_at": "2026-10-23T11:55:59.159691+00:00"
+  "fetched_at": "2026-10-23T16:39:54.336829+00:00"
 }

@@ -5,46 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Heatbit unveils Bitwater, a water heater that mines Bitcoin",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEhCYWpIcWlHdXd3dXh0Q1V0TTh4N0c5S3JON053OXhYWEJOZUtJZHZ0LUpjaEJLcjF0ZWtHZlRmTUxCdDRxaElWVkQ4TEtTOUlRczZvUGR0eUlkWXdIUC1aSlJraXhwc2tLT244TGRZUnN1cktGRDRqZ2Z2b0lGYWJsUmtiLVNTcWh3YjU0M2EzRjRPdFZPWnM4dWNZT251UWJxaFpyZEFxTXdNOEZZVXNhaldSNU1WRGFmTFJ5OHA?oc=5",
-      "pub_date": 1792687342.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:150be6ecb094b:0-heatbit-unveils-bitwater-a-water-heater-that-mines-bitcoin/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the\u2026"
-    },
-    {
-      "headline": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFhNeG9RM1VEQTk0VFdiWjlMOEFLSkVlbFoxbkFXVkxSRU9zd3lSZndUakV2aXo1YldtNDBGY1h4ZFNsem1aU3J2ZjJDWUVOY3dhQW55b2xzOXpkN3h2VzZKdTFTX05YMjRQNEgxdGhCMm5WamtfY2NWSFBMQTJjdUZsWEtuRTVjcDE5d04tZWYtOVhvWDRqQy1SQkpGT2hyUVE?oc=5",
-      "pub_date": 1792511813.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b7c39ae6d2829efd4a6ce923f0ef40688e59da0f84ddbeb2d836ff3db983dbf6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbdcb98c6ae2a78c599ad98f1d12d6784.jpg",
-      "description": "JPMorgan Asset Management has included Bitcoin in its long-term capital market assumptions for the first time, forecasting returns that could beat stocks, bonds and gold in a milestone for its Wall Street acceptance."
-    },
-    {
-      "headline": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast In Long-Term Capital Market Report",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeExzTzQ4X3J2NmtBQzVYU1d1VVBPRElBY29ZNG9kTlpqd3Vlbk9qcUFCalFqN1ctUUdKV05OcHJ5bTZCcF92RG1SWXBvZm1ZS1FHZzBpMW5MeG1QTE9DLTZxSHZwblVLVjVzQTFJS2FONENkTWJhSWYzYzdHTUFOUy16X0pnR0ZEbnBId3I2dHk1S1hDSm42SHBWSDlGT05JN3drT3k1SmdTbDZ3ZjBiUC0tR0d0aEVvOS1UcnZCZw?oc=5",
-      "pub_date": 1792590987.0,
-      "article_url": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/J.P.-Morgan-Reveals-First-Ever-Bitcoin-Price-Forecast-in-Long-Term-Capital-Market-Report-.jpg",
-      "description": "J.P. Morgan projects Bitcoin as the top asset through 2036. Grace Remington and Sean Hagan examine its 10% base and 16% bull case long-term return targets."
-    },
-    {
-      "headline": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDZuTEpfaEowRGpOY18xcWF6c1d5M0J5T1lvLUtwZXVNbjlkUjk5ZW1SUGx0QXFxRE43akdiUVl6WmZYWWh4a1ltUU5TcEFlTG5oZXFZdjhSZER6RGE4M0gzNlJhZHJjZldER25WZXBzeWoxeExtd1hlcXU4QkdmeGdtR21lblk3RXlZNlBYT094Z1BuTTZPN1lLYzhVU2tpdW9fQnJ3T2x3N2tzeTFrMHpPUmhwVjZTaHZJYXM1OTdKZ09YVWFoeU5n?oc=5",
-      "pub_date": 1792502196.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/da293f1399efe7eabfec7f5ecde6fe49ab641e3c-1500x776.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios."
-    },
-    {
       "headline": "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -55,34 +15,54 @@
       "description": null
     },
     {
-      "headline": "Bitcoin's volatility is well above euro-dollar gyrations, though it has calmed to rival Nvidia's",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkhNMW01RS1OdmJZQUlSRkZtQzFnZEIwR1cyekJlYXhZelFxZERsNkd5cVVqVGUzVGdscThsUEZDNXVOSXItbmhMU3RNa3k1MjdrTHZuempTdEZkVWtwZU9JaEhWZDFzX1dYYmlENDIyczdjOUZ0b0ZJd3V3QVdIbnZrZXNQdjRVaTJHNTF4MEYyVU9wWkRRNnNtSXVPcExsZ2lwcUJfcFJfZFltRVEwRVA0bl94MnViR2Fiamd2cHNFMWRsVWNod3RlbW9URjdBaGdQdDBXRVRjUQ?oc=5",
-      "pub_date": 1792754553.0,
-      "article_url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The day ahead in crypto: Oct. 23, 2026"
+      "headline": "Heatbit unveils Bitwater, a water heater that mines Bitcoin",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEhCYWpIcWlHdXd3dXh0Q1V0TTh4N0c5S3JON053OXhYWEJOZUtJZHZ0LUpjaEJLcjF0ZWtHZlRmTUxCdDRxaElWVkQ4TEtTOUlRczZvUGR0eUlkWXdIUC1aSlJraXhwc2tLT244TGRZUnN1cktGRDRqZ2Z2b0lGYWJsUmtiLVNTcWh3YjU0M2EzRjRPdFZPWnM4dWNZT251UWJxaFpyZEFxTXdNOEZZVXNhaldSNU1WRGFmTFJ5OHA?oc=5",
+      "pub_date": 1792687342.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:150be6ecb094b:0-heatbit-unveils-bitwater-a-water-heater-that-mines-bitcoin/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the\u2026"
     },
     {
-      "headline": "BlackRock (BLK) Files Bitcoin Protection ETF And Launches Active Robotics Fund",
+      "headline": "Inside Grant Cardone's $230M real estate and bitcoin strategy",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYXVZQzFiZDdoWVVQZ0hSZXRjNUJia19kZnJRajI3dkVTaDYxek9PYkl0a1VPc3hpaUZmaEpTR2IzV0xMeHZQWEYtTlY4MXJIRDlUM05qV1FzS1V3R2UxYzV6R0VvVGdvLVphVnZFeUxCWFY4RlRlVDExNjlibWhOVU95TW81YTd5VzhOVDRCZXM1UlZ0SThndkN6MlJKN1ZCc3R1SVJR?oc=5",
-      "pub_date": 1792746576.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-files-bitcoin-protection-090936959.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fc474cd4afffdf5b2998deed0e9ab717949f743e1fd5f5278c6840724eb7b842/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F28913528e68a7e0dfd1db2c1ad24010e.jpg",
-      "description": "BlackRock (NYSE:BLK) filed for the iShares Bitcoin Managed Protection ETF, a bitcoin-linked fund with a downside protection feature. The filing outlines a structure that targets exposure to bitcoin price moves while using risk management tools to limit losses. BlackRock also introduced an actively managed Robotics ETF that focuses on companies tied to automation and AI-focused hardware and software. The twin launch of a bitcoin-linked protection ETF and a new Robotics ETF deserves weighing..."
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm1FVjkwUVpfYjNYUnpoc3VIWFVnbG1kTmJlVG5tWjZXb2tGYXh3MU9kd1VoWUNkU0VPTWxLeF9saG9HNnBPT0tScFEySG44OE9XZ3ZTRWF5blV6ZXJ4M1RLcWZ2eFp0Mk1PdEZ5c0Y1TXdBSEV2d3hlVjExanRpaFBVT0U?oc=5",
+      "pub_date": 1792771200.0,
+      "article_url": "https://finance.yahoo.com/video/inside-grant-cardones-230m-real-160000140.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a57093a6846088e2bc380f6ac12e06ecc33b3fc9decab0ebab52f68b79352699/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1792770110123_3666.jpg",
+      "description": "Scott Melker sits down with Cardone Capital CEO Grant Cardone to discuss his $230 million strategy combining real estate and bitcoin  (BTC-USD). Cardone breaks down his 50/50 investment approach, why he's scaling back his ambitious goal of owning 100,000 apartments to 25,000, and how the shift could help optimize his real estate portfolio while increasing his exposure to bitcoin.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
     },
     {
-      "headline": "Bitcoin data center fire seriously injures two people in Treutlen County, EMA director says",
+      "headline": "Bitcoin News: BlackRock Just Moved $262 Million in Bitcoin to Coinbase. Is More Selling Coming?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGVERklLR2YtUUFXTkxudmV6U1dFVDNUQzAwVE1oLVl3NjN2aHJpU0JsZGVvU0o5dWhmaGY0RzAwYkZEcFFkOVFvN0xzMGRzdWd0WVZWZUZBX21oQ3c0by11b3FoVEtMX2U3TXdoc3B4M0p0LVFqNXI2NWFtSV9NMUVTMXZJYUVnQm1uVEJWT2Zma0Q4MV9vU2d3S3p0Wm8?oc=5",
+      "pub_date": 1792772198.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-blackrock-just-moved-161638981.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4a3ca40dc4d1c6fa7c2b592e9b8326afcd00a08e75151a59a7e04b4fc8f3866f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fca8ed267864c4ecc757a7884189b8f84.jpg",
+      "description": "Wallets tied to BlackRock\u2019s (NYSE: BLK) spot ETFs moved 3,215 BTC, valued at $262.4 million, to Coinbase Prime, according to on-chain records from October 23, 2026. Coinbase Prime, Coinbase\u2019s institutional trading desk (NASDAQ: COIN), also received another 38,882 ETH, worth $93.2 million, from those wallets. This brings the total transfer to about $355.6 million in just [\u2026]"
+    },
+    {
+      "headline": "'God, that ain\u2019t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center",
       "source": "13WMAZ",
       "source_url": "https://www.13wmaz.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDQ2SUFDZUd1QklTVnpaQ3I3ejRnWEtzV3ZFQ2Z5UjBpWHhkaVRFZ3p4c0tsOEQ1b2lBUmZMRmpYVG9uNHliT0JwOUtnVWtHNFVzSWYtY2x0RjY5dF9nbE5aUE9kZTZ0REpnSUhZUTJvQmhNWnRCTHo2eGhHY056ZVBwNzdhZFBWSi03VW9vNlBKRFdYOGFxSEJ0dmJjcXc4S3U5dXZaNVcwcGdaNldLX19IbjQtc1lPQ2hfRXpkSHdweDdYN19OMmU1ZVRUZVc2dS05Yg?oc=5",
-      "pub_date": 1792696560.0,
-      "article_url": "https://www.13wmaz.com/article/news/local/fire-at-data-center-injures-2-people-treutlen-county-ema/93-d5f53f6c-3eb9-4803-ace8-240a3360cb0e",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZlV1NzhLUWNHVUh6b2tCMmRrd25BUTM0MGpZbURPWnBfMW83WWw2MXJfOEhDSkdPc1hCcF9qanZBRGhDR2s0YXF3RGxUZ2ZjQ3BJMVNLSklfeTllZ1loMHJwQk1MN2MySHBnVjY5ZmVtN2lrUERiNWljSjlfNV9PTFlyNWRvSEVtWjBQd1VHMy12WXRsZGtiWU02ejFUeWlGcDJQa0Mwdy1pWVN4Q1pGTDV1LWJzc2VOaXQ1V0IzSDFnOXBLam9JY0hSekExR0E4U3UyYnRySjZ0bTluc0Z4UE4wa0tHU1Y0MzlUOWV0VVVocm5GZWc?oc=5",
+      "pub_date": 1792724820.0,
+      "article_url": "https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTlaVVRSa0plR0ZjQkk5am1ReDkyS25leVdEcEhfRGF5amdldmF2ZWgxaGZ2ejJNc0pEZGVsOFJrWmFLN0JDVmRMOFN5OHlrWXlQRkdlMmZWeHVwdkNTRVpIbzB0bkRNS3FlaVdtdUJzN29iaHR6Ynp4RUZ5QWVTT3VaRGNpUk1LblZBM0hOU3RzMXdtTnpyTUx0UUhMNWFKd2RlaEc5dFR0VENhbXdDSTNTZ1k4T3ZWejVBMDBaTXd3bC1IY1V6WQ?oc=5",
+      "pub_date": 1792764002.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9655eada3129b642b283dac1319e070000a740b5-6960x4640.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets."
     },
     {
       "headline": "Massachusetts police officer heads off Bitcoin scam targeting Maine woman",
@@ -93,6 +73,26 @@
       "article_url": "https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTUxsZUdrRy1tWDhPWjVvbmh0V1M3SmZ5ZkJQSV9yQ2UyLUFiaDN3ZU9IODFDMUV3TFNGbDFtblhNVDJVNmJ2aFk1b1hTVElHbWJjcTcwTlh1ZWRPRkJITFRSNmZlYjYxci1WeFJYaXhXSl9QWEZndVRqMUg?oc=5",
+      "pub_date": 1792693982.0,
+      "article_url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-7.jpg",
+      "description": "The alleged fraudster tried to run away with nearly 62,000 bitcoins."
+    },
+    {
+      "headline": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day's inflows",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWXRWdzRPd0JVOWxoT3R3N19rZ2RoQ0FrY3N4eUtKZ0NTTjZSRHlwRFJacjVpLTVidnNmZmRPTk9wRG4tTG1MOE5DMEdDbHNKLVViYTIzcmhQdmtDa3NuZENYVXlISlR2b2dtcmpOY1RHYlBuU0E5NzNDUVliSkl2TFlWeG5UN1BWWTJhOWhJMkxsU1V1eUpNc2hxU0RVU3JvR3JKa0Z3QnQzRnp5N09Pb2M3NzFBSjIwc0J5Wk93?oc=5",
+      "pub_date": 1792755540.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-12.06.59.png",
+      "description": "U.S. spot Bitcoin ETFs witnessed $635.6 million in net outflows on Thursday, more than reversing the $528.4 million the funds had added the day before."
     },
     {
       "headline": "Would you take out a mortgage backed by bitcoin?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T11:56:14.386947+00:00"
+  "fetched_at": "2026-10-23T16:40:15.524940+00:00"
 }
