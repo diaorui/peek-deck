@@ -15,16 +15,6 @@
       "description": "Cardano could be headed for a big comeback in 2027."
     },
     {
-      "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUs2UU05ZUVHUUV3OXFUMmI2RUEyWFRkeGRCLW5lRmQ2OVJyREUzcXE0WjFPRFRfV0dUYXRBTG1jU1RFQ3JEZlVwWHlteUkzVHQwLV9CZHV3UVpzWk5DYmVHRVJyZE5KbnZwZU1CU2tLSUQxTUpjNXFVeHI1MEs5T1cwVlFhcG1WVm4taFpXWlRKYjIyeW52NExjRDczbFZleng5clhZcTluRVEyZmphdUFWamwtRk45MFNqSF9abVh4emc?oc=5",
-      "pub_date": 1792731574.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
-    },
-    {
       "headline": "Glamsterdam on Hoodi Postponed",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -33,6 +23,16 @@
       "article_url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
       "image": "https://blog.ethereum.org/images/eth-org.jpeg",
       "description": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has..."
+    },
+    {
+      "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUs2UU05ZUVHUUV3OXFUMmI2RUEyWFRkeGRCLW5lRmQ2OVJyREUzcXE0WjFPRFRfV0dUYXRBTG1jU1RFQ3JEZlVwWHlteUkzVHQwLV9CZHV3UVpzWk5DYmVHRVJyZE5KbnZwZU1CU2tLSUQxTUpjNXFVeHI1MEs5T1cwVlFhcG1WVm4taFpXWlRKYjIyeW52NExjRDczbFZleng5clhZcTluRVEyZmphdUFWamwtRk45MFNqSF9abVh4emc?oc=5",
+      "pub_date": 1792731574.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
     },
     {
       "headline": "Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain",
@@ -59,7 +59,7 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5",
-      "pub_date": 1792760846.0,
+      "pub_date": 1792763266.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-10-23-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-23.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -95,16 +95,16 @@
       "description": "Spot Bitcoin ETFs drew approximately $525 million on October 21, led by IBIT and FBTC, while Ethereum ETFs ended a five-day outflow streak."
     },
     {
-      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQW9Rc3hQblBPeFBuUXlGSTFzUlZNQ24zRlJGM0J6SURISFFPaThkTTJqbXN0Tl94bmwybjU0TDNOV1JpVGhDbTNvNUoyaWRkeUFwS0Y3WDRUazVFQ1VxbFd2dkw0MTU2Y1F3SEk1RWV6UWNMVllJa1JnT2kxMGRkbEZROGVhY0R0RHF5S09B?oc=5",
-      "pub_date": 1792529164.0,
-      "article_url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-      "description": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours."
+      "headline": "Lookonchain: Ethereum OG Sells 3000 ETH for 128x Return",
+      "source": "Blockchain News",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUZqLVhZMUROcHJpRVIyNm9oZUcwMWZ5ekNSREUyaXduVlFIMzM2RlFfaDdmbXFVU3JUOHUwa1NiN0p3V29ZM1NLWmlTd0N0RDlwREFTZ2ZkSlB3b2Z1RmltSGZPLXh4bWtOakxucS1UdWVLbHdneUZZME1mRHhucHZ2Q3FWaWVzajJHbQ?oc=5",
+      "pub_date": 1792695540.0,
+      "article_url": "https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-3000-eth-128x-return",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "Lookonchain reports an Ethereum early holder sold 3000 ETH bought nine years ago at $18.83, locking in a 128x return on the $7.23 million position."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T20:13:18.575910+00:00"
+  "fetched_at": "2026-10-23T23:19:57.669178+00:00"
 }
