@@ -2,6 +2,105 @@
   "subreddit": "ethereum",
   "posts": [
     {
+      "title": "Daily General Discussion October 23, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xd4wcz/daily_general_discussion_october_23_2026/",
+      "published": 1792731676.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town",
+      "author": "n3r01n",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xd7vvk/i_made_a_thing_that_turns_your_ethereum_wallet/",
+      "published": 1792742301.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!"
+    },
+    {
+      "title": "Daily General Discussion October 22, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xc9jkc/daily_general_discussion_october_22_2026/",
+      "published": 1792645271.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "I sent ETH from Binance to Robinhood through BSC. Is it really lost?",
+      "author": "Solracval",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xcly15/i_sent_eth_from_binance_to_robinhood_through_bsc/",
+      "published": 1792683429.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. \u200bThe transfer status shows as \"completed\" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. \u200bSince the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? \u200bAny advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind."
+    },
+    {
+      "title": "Glamsterdam on Hoodi Postponed | Ethereum Foundation Blog",
+      "author": "abcoathup",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xcsal5/glamsterdam_on_hoodi_postponed_ethereum/",
+      "published": 1792697415.0,
+      "thumbnail": "https://external-preview.redd.it/Rd5DFqLOp1u_1iNLPlVGfRA1cXwOQoF1UrDUC-sT5k4.jpeg?width=640&crop=smart&auto=webp&s=7b2f1777243c369eca559302778902abc0812a82",
+      "external_url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
+      "site_name": "Ethereum Foundation Blog",
+      "favicon": "https://blog.ethereum.org/images/favicon.png",
+      "description": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has..."
+    },
+    {
+      "title": "Dshackle Load Balancer v0.18",
+      "author": "splix",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xck2m3/dshackle_load_balancer_v018/",
+      "published": 1792679209.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Dshackle is a load balancer that sits between your app and your blockchain upstreams (your own Geth, Infura, QuickNode, any mix of them). It tracks each upstream's block height, sync state and supported methods, and routes each request to one that is healthy and caught up. - JSON-RPC over HTTP and WebSocket - Automatic failover and retry - Tracking upstream status - Height-aware method routing - Chain-aware caching (in-memory or Redis) v0.18 is a rewrite from Kotlin/JVM to Rust. There are no new features. Config, API and behaviour are the same. Memory use is down ~75% and latency is 10\u201320% lower. https://github.com/emeraldpay/dshackle"
+    },
+    {
+      "title": "Blast L2 is shutting down October 26. Withdraw your funds and export your transaction history before it's too late.",
+      "author": "ArmanApesDeFi",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xbwf1m/blast_l2_is_shutting_down_october_26_withdraw/",
+      "published": 1792609904.0,
+      "thumbnail": "https://external-preview.redd.it/Yk3RrdjuP8ctUz8fH7z6pvysj8tBPwLnGI1kFkmSx14.png?width=640&crop=smart&auto=webp&s=41f4f97d88a7924609a95658328ea82bb061f7aa",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Daily General Discussion October 21, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xbe6ap/daily_general_discussion_october_21_2026/",
+      "published": 1792558878.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Daily General Discussion October 20, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xaj93r/daily_general_discussion_october_20_2026/",
+      "published": 1792472474.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
       "title": "Daily General Discussion October 19, 2026",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1x9nz0v/daily_general_discussion_october_19_2026/",
@@ -11,106 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Anyone tried QuickNode`s covered strategies?",
-      "author": "0x5589e5",
-      "url": "https://www.reddit.com/r/ethereum/comments/1xa0drf/anyone_tried_quicknodes_covered_strategies/",
-      "published": 1792424660.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "They use OpenCover for coverage on eligible Morpho vaults. Has anyone actually tried this? Interested how it works in practice and whether the lower net APY is worth it"
-    },
-    {
-      "title": "Daily General Discussion October 18, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x8ulm3/daily_general_discussion_october_18_2026/",
-      "published": 1792299688.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "[AMA] We are Hypersnap, the team building the credibly neutral alternative to Farcaster's hostile takeover by the Network State, ask us anything!",
-      "author": "someladywithhugetds",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x8l0bt/ama_we_are_hypersnap_the_team_building_the/",
-      "published": 1792270577.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Daily General Discussion October 17, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x81l31/daily_general_discussion_october_17_2026/",
-      "published": 1792213270.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "I'm looking for feedback and contributors for my web3 AI security network called AVALON",
-      "author": "Lennycool",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x8ae1g/im_looking_for_feedback_and_contributors_for_my/",
-      "published": 1792244038.0,
-      "thumbnail": "https://external-preview.redd.it/pgthaj6FOzLgRZwZqFTqsbyuQlhm-8y2FLqP2-3RQoY.png?width=640&crop=smart&auto=webp&s=22db85f7e3e288ef753d556ae4fcbdbc322e0397",
-      "external_url": "https://avalonai-web3.vercel.app/",
-      "site_name": "AVALON AI",
-      "favicon": "https://avalonai-web3.vercel.app/avalon-logo.svg",
-      "description": "Hi everyone, I got into crypto a few years ago and fell in love with the ecosystem. It's fair to say Web3 completely changed my life for the better, and ever since, my aim has been to contribute meaningfully to it. One issue I've had an issue with is the persistent hacks reducing user trust in this new model of the internet we're building. So I'm proposing an AI security network to protect wallets from hacks. You can check out the website or GitHub: https://github.com/thelennyjohnson/avalon-ai Feedback and contributors are welcome."
-    },
-    {
-      "title": "OpenAI says research model spent another wallet's testnet ETH without authorization on coding task",
-      "author": "CowboyNuggets",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x8bbnk/openai_says_research_model_spent_another_wallets/",
-      "published": 1792246538.0,
-      "thumbnail": "https://external-preview.redd.it/ACIxVW2HPCNJjoEbTNsGXsyrkK6xndTq3MYT02xQFmA.jpeg?width=640&crop=smart&auto=webp&s=5a812ad6533df258d4e08460d0ae76f6aab99811",
-      "external_url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
-      "site_name": "The Block",
-      "favicon": "https://www.theblock.co/tbco/apple-touch-icon.png",
-      "description": "The model independently determined that using valueless testnet ETH from a publicly exposed account was acceptable."
-    },
-    {
-      "title": "Glamsterdam Hoodi Testnet Announcement | Ethereum Foundation Blog",
-      "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x7py45/glamsterdam_hoodi_testnet_announcement_ethereum/",
-      "published": 1792179805.0,
-      "thumbnail": "https://external-preview.redd.it/Rd5DFqLOp1u_1iNLPlVGfRA1cXwOQoF1UrDUC-sT5k4.jpeg?width=640&crop=smart&auto=webp&s=7b2f1777243c369eca559302778902abc0812a82",
-      "external_url": "https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement",
-      "site_name": "Ethereum Foundation Blog",
-      "favicon": "https://blog.ethereum.org/images/favicon.png",
-      "description": "Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1..."
-    },
-    {
-      "title": "Daily General Discussion October 16, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x77cz8/daily_general_discussion_october_16_2026/",
-      "published": 1792126879.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Ethereal news weekly #43 | ZKsync Airbender Prime: real time proving on single GPU, Barnab\u00e9 Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2",
-      "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1x7fkiw/ethereal_news_weekly_43_zksync_airbender_prime/",
-      "published": 1792155587.0,
-      "thumbnail": "https://external-preview.redd.it/2zyY6e5Mf5R63ELydbdrYjrz_yIBJn5i9-GpP66kmzM.jpeg?width=640&crop=smart&auto=webp&s=5a0bcc467e92ab01c45c72e2085e5e0169e799e6",
-      "external_url": "https://ethereal.news/ethereal-news-weekly-43/",
-      "site_name": "Ethereal news",
-      "favicon": "https://ethereal.news/etherealnews-logo.jpg",
-      "description": "ZKsync Airbender Prime: real time proving on single GPU, Barnab\u00e9 Monnot: faster finality coming, Ethereum Community Foundation: Swapboard v2"
     }
   ],
-  "fetched_at": "2026-10-20T00:31:06.284282+00:00"
+  "fetched_at": "2026-10-23T11:56:02.897748+00:00"
 }
