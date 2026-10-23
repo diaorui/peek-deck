@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-23T06:19:44.589502+00:00'
+updated: '2026-10-23T11:56:25.273636+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 23, 2026 at 06:19 UTC  
+**Last Updated:** October 23, 2026 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,59 +41,13 @@ AI news, discussions, and developments
 
 A three-week embedded pilot by METR and Redwood Research uncovered vulnerabilities in OpenAI's agent monitoring system, including an exploit that could…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/metr-redwood-research-find-exploit-in-openai-agent-monitoring-that-could-hide-hu-f7585c) • 4h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/metr-redwood-research-find-exploit-in-openai-agent-monitoring-that-could-hide-hu-f7585c) • 10h ago
 
 ---
 
-**[Scientists stunned as new AI unlocks game-changing cancer treatment](https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/)**
+**[[Free to read] Anthropic strikes deal to launch European consultancy](https://www.reddit.com/r/artificial/comments/1xdaxav/free_to_read_anthropic_strikes_deal_to_launch/)**
 
-The computational platform, named MAESTRO and detailed in the journal Advanced Science, uses large language models, or LLMs, to process established scientific knowledge regarding drug mechanisms and the biological pathways malignant cells exploit to survive treatment
-
-🔗 [The Independent](https://www.independent.co.uk/news/world/americas/ucla-maestro-ai-prostate-cancer-b3071625.html) • 14h ago
-
----
-
-**[YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.](https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/)**
-
-17h ago
-
----
-
-**[In recent months, I feel that lowkey every software is getting a lot of updates but many minor bugs are surfacing, it is crazy](https://www.reddit.com/r/artificial/comments/1xcyjgr/in_recent_months_i_feel_that_lowkey_every/)**
-
-This is just my personal opinion; I’m not a coder and know nothing about software beyond what I’ve vibecoded for productivity and personal gain. As a civil engineer working for a large company, I’ve noticed that every software I use for work (SaaS) and personal use, big tech stuff like Reddit, WhatsApp and YouTube is constantly being updated. Every time I open it, a minor tweak or small difference appears. It’s no secret that AI is boosting coder productivity to new heights. However, I’ve also noticed that software is breaking itself on very basic things. These apps aren’t getting unusable, far from it, but they lack the cutting-edge attention to detail you’d expect from the industry. For example, YouTube is a mess on mobile right now, it flickers, videos close on their own, app freezes and you can’t click anything, you must close and reopen everytime, and WhatsApp has problems with its textbox, like the very fundamental thing it is made for, writing and sending text. Just now I tried searching on Reddit using the mobile browser and hit enter. However, it didn’t search and instead moved to the line below. Crazy shit. The quality of every SaaS tool I use at work is declining. For example, our quality control app, in three months time, it was the industry leader and suddenly stopped working properly, every single user is complaining. But hey the same app now also has like 3 extra modules that we won’t pay for. I understand that engineers are facing tighter deadlines and are expected to work much harder now that they have access to some of the best technology in recent history. But I honestly can’t wait for the industry to realise once again that quality over quantity is essential. And I hope that now that code is more access and popula, that competition grows and we get better products as result.
-
-6h ago
-
----
-
-**[Times never trully change](https://www.reddit.com/r/artificial/comments/1xd0bio/times_never_trully_change/)**
-
-Made this meme lol
-
-5h ago
-
----
-
-**[‘Rogue’ OpenAI agents disabled their own safeguards and then lied about it, company admits](https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/)**
-
-ChatGPT maker does not yet have a good explanation for systems’ behaviour, it says
-
-🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-agents-safeguards-ai-artificial-intelligence-b3070905.html) • 22h ago
-
----
-
-**[This library is hosting an AI class](https://www.reddit.com/r/artificial/comments/1xd1e98/this_library_is_hosting_an_ai_class/)**
-
-4h ago
-
----
-
-**[Agility Robotics locks Nvidia as sole Digit 5 compute supplier ahead of Nasdaq listing](https://www.reddit.com/r/artificial/comments/1xd4cuk/agility_robotics_locks_nvidia_as_sole_digit_5/)**
-
-Agility Robotics standardizes Digit 5 on Nvidia IGX Thor modules, making Nvidia the exclusive onboard compute supplier as the humanoid maker heads for a…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/agility-robotics-locks-nvidia-as-sole-digit-5-compute-supplier-ahead-of-nasdaq-l-0d5af1) • 1h ago
+🔗 [ft.com](https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?accessToken=zwAAAaIC4CDVkdPfcL8g6AlI0NOEhfj1FKf7xAE.MEYCIQCG1DHu0qNsOFxiSMFzoaORUIOhdyEh_7E7YHX298qjrAIhAJfK1S0zaZ7Q-T28-KQS4WfiYPWksz_desju07-IhGwF&segmentId=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 54m ago
 
 ---
 
@@ -101,15 +55,61 @@ Agility Robotics standardizes Digit 5 on Nvidia IGX Thor modules, making Nvidia 
 
 Morgan Stanley, JPMorgan, Bank of America, Wells Fargo, and Citi are restricting third-party AI agents found operating inside customer accounts without…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/us-banks-detect-rogue-ai-agents-inside-customer-accounts-move-to-restrict-access-9bf4c6) • 1h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/us-banks-detect-rogue-ai-agents-inside-customer-accounts-move-to-restrict-access-9bf4c6) • 7h ago
 
 ---
 
-**[Why not pace the IPO?](https://www.reddit.com/r/artificial/comments/1xcxst3/why_not_pace_the_ipo/)**
+**[By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work.](https://www.reddit.com/r/artificial/comments/1xd4f6k/by_every_measure_opus_48_beats_human_experts_as/)**
 
-AI companies wanted to pave the model development just 2 weeks ago. Threat of AI ending humanity. But when it came to IPO they are rushing full speed. What kind of strategy is this? After IPO the expectations will only increase. Trillions of dollars invested. Then why every AI company wants IPO so bad?
+Link to the paper: https://gking.harvard.edu/peerless/ Seems like all of the complaints about AI generated reviews being low quality don’t stand up to scrutiny.
 
 7h ago
+
+---
+
+**[Scientists stunned as new AI unlocks game-changing cancer treatment](https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/)**
+
+The computational platform, named MAESTRO and detailed in the journal Advanced Science, uses large language models, or LLMs, to process established scientific knowledge regarding drug mechanisms and the biological pathways malignant cells exploit to survive treatment
+
+🔗 [The Independent](https://www.independent.co.uk/news/world/americas/ucla-maestro-ai-prostate-cancer-b3071625.html) • 19h ago
+
+---
+
+**[What should I use ?](https://www.reddit.com/r/artificial/comments/1xdayfr/what_should_i_use/)**
+
+Hi there, I am new to AI and I am currently using Hermes Agent. I am using a free month of GPT Plus, but it will end soon and I have been at my token limit for a week. I was wondering which option would be better for me: paying for a subscription to a good LLM like GPT or Claude, or running a local LLM on my PC. For those wondering, my configuration is an Intel i5 11400F, RTX 5070 16GB OC, and 32GB DDR4. I heard that local models are less efficient than online models. I would like something that can handle all my requests and remain helpful for my everyday life. I want an agent that can help me create video games, teach me code (C++, Python, PHP, JS...), and set everything up on my PC. I guess I have high expectations and am demanding, so I will likely have to pay. By the way, can someone tell me if Hermes is good or if OpenClaw, Claude Code, or Codex is better? For local LLMs, which is best between Ollama and LM Studio? I know I am a bit lost and may have said some nonsense. Thank you for helping me, guys.
+
+53m ago
+
+---
+
+**[YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.](https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/)**
+
+23h ago
+
+---
+
+**[Times never trully change](https://www.reddit.com/r/artificial/comments/1xd0bio/times_never_trully_change/)**
+
+Made this meme lol
+
+10h ago
+
+---
+
+**[In recent months, I feel that lowkey every software is getting a lot of updates but many minor bugs are surfacing, it is crazy](https://www.reddit.com/r/artificial/comments/1xcyjgr/in_recent_months_i_feel_that_lowkey_every/)**
+
+This is just my personal opinion; I’m not a coder and know nothing about software beyond what I’ve vibecoded for productivity and personal gain. As a civil engineer working for a large company, I’ve noticed that every software I use for work (SaaS) and personal use, big tech stuff like Reddit, WhatsApp and YouTube is constantly being updated. Every time I open it, a minor tweak or small difference appears. It’s no secret that AI is boosting coder productivity to new heights. However, I’ve also noticed that software is breaking itself on very basic things. These apps aren’t getting unusable, far from it, but they lack the cutting-edge attention to detail you’d expect from the industry. For example, YouTube is a mess on mobile right now, it flickers, videos close on their own, app freezes and you can’t click anything, you must close and reopen everytime, and WhatsApp has problems with its textbox, like the very fundamental thing it is made for, writing and sending text. Just now I tried searching on Reddit using the mobile browser and hit enter. However, it didn’t search and instead moved to the line below. Crazy shit. The quality of every SaaS tool I use at work is declining. For example, our quality control app, in three months time, it was the industry leader and suddenly stopped working properly, every single user is complaining. But hey the same app now also has like 3 extra modules that we won’t pay for. I understand that engineers are facing tighter deadlines and are expected to work much harder now that they have access to some of the best technology in recent history. But I honestly can’t wait for the industry to realise once again that quality over quantity is essential. And I hope that now that code is more access and popula, that competition grows and we get better products as result.
+
+12h ago
+
+---
+
+**[SK Hyper seeks $350B to fund 5GW AI data center buildout in South Korea](https://www.reddit.com/r/artificial/comments/1xdaxnv/sk_hyper_seeks_350b_to_fund_5gw_ai_data_center/)**
+
+SK Hyper, SK Telecom's data center unit, is in talks with tech firms and investors to fund a $350 billion, 5GW AI infrastructure buildout in South Korea…
+
+🔗 [Vector Wire](http://vectorwire.ai/article/sk-hyper-seeks-350b-to-fund-5gw-ai-data-center-buildout-in-south-korea-62bb21) • 54m ago
 
 ---
 
@@ -117,71 +117,75 @@ AI companies wanted to pave the model development just 2 weeks ago. Threat of AI
 
 ## Google News: "ai"
 
-**[Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet](https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl)**
+**[The Indian workers filming their work to train AI](https://www.bbc.com/news/articles/ckvgyml6pdm9o)**
 
-Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world’s websites.
+Indian workers are being paid to film themselves at work and the footage is used to train AI.
 
-CNN • 1d ago
-
----
-
-**[What to know about the AI-detected security bug impacting wide swaths of the internet](https://apnews.com/article/php-vulnerabilities-security-threat-38d37c4c18bf8355b02d85b5a73ed642)**
-
-AP News • 9h ago
-
----
-
-**[Five ways to keep safe online in the wake of AI-supercharged hacking](https://www.reuters.com/technology/five-ways-keep-safe-online-wake-ai-supercharged-hacking-2026-10-22/)**
-
-Reuters • 8h ago
+BBC • 3h ago
 
 ---
 
 **[Microsoft develops AI tool that can diagnose 'sequentially' like a doctor](https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/)**
 
-Reuters • 4h ago
+Reuters • 11h ago
 
 ---
 
-**[Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)**
+**[How I got roasted by "AI actor" Tilly Norwood](https://www.axios.com/2026/10/23/tilly-norwood-ai-actress-interview)**
 
-Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.
-
-TechCrunch • 11h ago
+Axios • 54m ago
 
 ---
 
-**[Microsoft says its AI tool is better than doctors at diagnosing conditions](https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence)**
+**[Nvidia is unveiling a shipping-container AI factory as neocloud stocks slide](https://qz.com/nvidia-container-ai-factory-neocloud-stocks-slide-102326)**
 
-‘We’re gonna build something that is indistinguishable from human performance … in the next couple of years,’ Microsoft AI CEO Mustafa Suleyman tells The Verge.
+Nvidia says its DSX POD cuts AI data center deployment time from six months to as little as 14 days, with deliveries set for early 2027
 
-The Verge • 12h ago
-
----
-
-**[US pension giant Calpers retreats from Big Tech as AI rally falters](https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1)**
-
-Financial Times • 2h ago
+Quartz • 18m ago
 
 ---
 
-**[Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)**
+**[Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump](https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil)**
 
-inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
+Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing
 
-TechCrunch • 2h ago
-
----
-
-**[Anthropic, Please Get on With Your IPO to Soothe the AI Trade](https://www.bloomberg.com/opinion/articles/2026-10-23/anthropic-please-get-on-with-your-ipo-to-soothe-the-ai-trade)**
-
-Bloomberg.com • 2h ago
+The Guardian • 14h ago
 
 ---
 
-**[Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump](https://apnews.com/article/stocks-markets-rates-earnings-oil-33767691a4a0730b96d6f0c5100ea9b2)**
+**[Market expert analyzes AI spending worries](https://www.foxbusiness.com/video/6407287938112)**
 
-AP News • 9h ago
+Taylor Riggs hosts Michael Lee Strategy founder Michael Lee to discuss the tech stock sell-off amid AI spending worries. Lee analyzes market performance, CoreWeave's credit risk, and chipmakers like NVIDIA.
+
+Fox Business • 32m ago
+
+---
+
+**[Steep bill for AI buildout punishes Meta, other tech favorites](https://www.reuters.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-2026-10-22/)**
+
+Reuters • 17h ago
+
+---
+
+**[The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days](https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained)**
+
+In July 2004, security researcher Stefan Esser sent a warning.
+
+CNN • 2h ago
+
+---
+
+**[The Signal Chats That Cost OpenAI Researchers Their Jobs](https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853)**
+
+WSJ • 10h ago
+
+---
+
+**[Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans](https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html)**
+
+Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.
+
+CNBC • 3h ago
 
 ---
 
@@ -189,11 +193,19 @@ AP News • 9h ago
 
 ## HackerNews: "ai"
 
+**[Every AI model has the same "controversial" take on humans](https://news.ycombinator.com/item?id=50197313)**
+
+We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
+
+⬆️ 467 • 💬 465 • 19h ago • [ModelCompare](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
+
+---
+
 **[PHP2Shell: AI uncovers critical RCE in PHP](https://news.ycombinator.com/item?id=50180836)**
 
 Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.
 
-⬆️ 449 • 💬 184 • 1d ago • [wiz.io](https://www.wiz.io/blog/php2shell-php-rce)
+⬆️ 450 • 💬 184 • 1d ago • [wiz.io](https://www.wiz.io/blog/php2shell-php-rce)
 
 ---
 
@@ -201,15 +213,7 @@ Core PHP engine flaws enable remote code execution and Heartbleed-style memory d
 
 OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell
 
-⬆️ 356 • 💬 186 • 12h ago • [GitHub](https://github.com/NVIDIA/OpenShell)
-
----
-
-**[Every AI model has the same "controversial" take on humans](https://news.ycombinator.com/item?id=50197313)**
-
-We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
-
-⬆️ 331 • 💬 366 • 14h ago • [ModelCompare](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
+⬆️ 417 • 💬 197 • 18h ago • [GitHub](https://github.com/NVIDIA/OpenShell)
 
 ---
 
@@ -217,7 +221,7 @@ We asked 12 AI models for their most controversial opinion of humans, three time
 
 No more fines for not taking out the trash at your Airbnb.
 
-⬆️ 250 • 💬 227 • 1d ago • [The Verge](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
+⬆️ 251 • 💬 229 • 1d ago • [The Verge](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
 
 ---
 
@@ -233,7 +237,7 @@ Steam Next Fest, Valve's festival for indie games and demos, started earlier tod
 
 See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
 
-⬆️ 156 • 💬 105 • 1d ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
+⬆️ 157 • 💬 105 • 1d ago • [OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
 
 ---
 
@@ -241,7 +245,7 @@ See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to un
 
 The scientific literature can be viewed as an "information commons:" an intangible resource that "no one owns and is shared by everyone." There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known "tragedy of the commons," but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via "slop spam"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.
 
-⬆️ 131 • 💬 75 • 11h ago • [arXiv.org](https://arxiv.org/abs/2610.27251)
+⬆️ 135 • 💬 77 • 17h ago • [arXiv.org](https://arxiv.org/abs/2610.27251)
 
 ---
 
@@ -253,19 +257,19 @@ The BBC speaks to several current and former Google DeepMind employees about the
 
 ---
 
+**[The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://news.ycombinator.com/item?id=50205229)**
+
+Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen — and customers can now follow their emissions per request in the console.
+
+⬆️ 122 • 💬 132 • 5h ago • [Berget AI](https://berget.ai/en/blog/per-request-co2-press-release)
+
+---
+
 **[On AI writing](https://news.ycombinator.com/item?id=50171771)**
 
 Disclaimer: by AI writing I mean text with at least 50% of the words generated by AI
 
-⬆️ 93 • 💬 61 • 2d ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
-
----
-
-**[AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://news.ycombinator.com/item?id=50198940)**
-
-The study evaluated whether AI analysis of coronary inflammation in cardiac CT scans can help identify early cardiovascular risk before symptoms or obstructive plaque appear
-
-⬆️ 83 • 💬 41 • 12h ago • [biograph.com](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients)
+⬆️ 94 • 💬 61 • 2d ago • [bolkunov.com](https://www.bolkunov.com/p/on-ai-writing)
 
 ---
 
@@ -279,17 +283,7 @@ A co-founder of the company behind Claude told a room of religious scholars, all
 
 📺 Spacialize
 
-👁️ 84K • 👍 1K • 💬 332 • ⏱️ 15:29 • 1d ago
-
----
-
-**[The PHP internet crisis could just be the beginning](https://www.youtube.com/watch?v=BpyQtylJqnE)**
-
-Sky News Technology correspondent Rowland Manthorpe examines how the PHP security crisis shows how AI models are ...
-
-📺 Sky News
-
-👁️ 235K • 👍 1K • 💬 235 • ⏱️ 6:21 • 12h ago
+👁️ 89K • 👍 1K • 💬 341 • ⏱️ 15:29 • 1d ago
 
 ---
 
@@ -299,47 +293,57 @@ My guest today is Bill Gates, co-founder and former CEO of Microsoft and chairma
 
 📺 Decoder with Nilay Patel
 
-👁️ 72K • 👍 926 • 💬 289 • ⏱️ 1:11:04 • 17h ago
+👁️ 100K • 👍 1K • 💬 340 • ⏱️ 1:11:04 • 22h ago
 
 ---
 
-**[&#39;BLACK OCTOBER&#39;: AI Cybersecurity NIGHTMARE As BANKS Infiltrated](https://www.youtube.com/watch?v=vZD4PmureWM)**
+**[AI harness crash course](https://www.youtube.com/watch?v=2C_CefSQEAQ)**
 
-Krystal and Saagar discuss an AI cybersecurity meltdown nightmare as multiple banks are infiltrated. Sign Up For 30 Day Free BP ...
+Annie's codelabs → https://g.dev/ai/ai-harness The model can write the code. It can't open your files, run your tests, or ask before ...
 
-📺 Breaking Points
+📺 Google Cloud Tech
 
-👁️ 326K • 👍 6K • 💬 1K • ⏱️ 18:00 • 13h ago
-
----
-
-**[Real Signs the AI Bubble is about to burst??](https://www.youtube.com/watch?v=s8qkejdyffk)**
-
-We have been seeing more and more analysts claim that the AI industry is INDEED in a bubble and signs of it paralleling the 2008 ...
-
-📺 JayzTwoCents
-
-👁️ 328K • 👍 9K • 💬 2K • ⏱️ 27:42 • 11h ago
+👁️ 58K • 👍 1K • 💬 23 • ⏱️ 9:28 • 20h ago
 
 ---
 
-**[Fundstrat&#39;s Tom Lee: We&#39;re near the end stages of the AI selloff](https://www.youtube.com/watch?v=9Viee9cZ0Yk)**
+**[Anthropic Just Dropped DUET: The First AI That Thinks Ahead on Its Own](https://www.youtube.com/watch?v=4OLnDc7RI-o)**
 
-Tom Lee, Fundstrat managing partner and head of research and Fundstrat Capital CIO, joins 'Closing Bell' to discuss the markets.
+Anthropic just dropped Claude DUET, a new AI agent powered by Claude Opus 5.5 that thinks ahead and starts working before ...
 
-📺 CNBC Television
+📺 AI Revolution
 
-👁️ 121K • 👍 863 • 💬 299 • ⏱️ 4:35 • 10h ago
+👁️ 31K • 👍 634 • 💬 58 • ⏱️ 12:34 • 12h ago
 
 ---
 
-**[Schools will use AI for EVERYTHING 🙏](https://www.youtube.com/watch?v=ux1nan4caPY)**
+**[The PHP internet crisis could just be the beginning](https://www.youtube.com/watch?v=BpyQtylJqnE)**
 
-LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
+Sky News Technology correspondent Rowland Manthorpe examines how the PHP security crisis shows how AI models are ...
 
-📺 monium
+📺 Sky News
 
-👁️ 3.2M • 👍 107K • 💬 2K • ⏱️ 0:07 • 2d ago
+👁️ 332K • 👍 2K • 💬 293 • ⏱️ 6:21 • 17h ago
+
+---
+
+**[The Real Cost of AI Will Shock You](https://www.youtube.com/watch?v=YgoiujmwLKI)**
+
+Take the PBS Digital Studios Annual Survey: https://to.pbs.org/2026SurveyBeSmart ↓↓↓ More info and sources below ↓↓↓ If ...
+
+📺 Be Smart
+
+👁️ 220K • 👍 6K • 💬 934 • ⏱️ 42:43 • 20h ago
+
+---
+
+**[11 AI Breakthroughs You Didn’t Know Existed](https://www.youtube.com/watch?v=umGZrkyTRtw)**
+
+Try @OpenAI Dots here: https://chatgpt.com/features/dots/ Some of the coolest AI advancements are flying under the radar.
+
+📺 Matt Wolfe
+
+👁️ 115K • 👍 3K • 💬 188 • ⏱️ 25:17 • 1d ago
 
 ---
 
@@ -349,27 +353,27 @@ AI found a PHP bug that's been hiding since 2004, and the internet melted down. 
 
 📺 Singh in USA
 
-👁️ 104K • 👍 810 • 💬 66 • ⏱️ 11:12 • 23h ago
+👁️ 113K • 👍 833 • 💬 70 • ⏱️ 11:12 • 1d ago
 
 ---
 
-**[The AI Situation Is No Longer Under Control](https://www.youtube.com/watch?v=xFYUo0ZmK-A)**
+**[Fundstrat&#39;s Tom Lee: We&#39;re near the end stages of the AI selloff](https://www.youtube.com/watch?v=9Viee9cZ0Yk)**
 
-What you can do right now → https://80000hours.org/hugging-face-video/ This July, hundreds of OpenAI's agents organized ...
+Tom Lee, Fundstrat managing partner and head of research and Fundstrat Capital CIO, joins 'Closing Bell' to discuss the markets.
 
-📺 AI In Context
+📺 CNBC Television
 
-👁️ 623K • 👍 16K • 💬 2K • ⏱️ 33:14 • 2d ago
+👁️ 134K • 👍 938 • 💬 311 • ⏱️ 4:35 • 15h ago
 
 ---
 
-**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
+**[10x engineer (AI Psychosis)](https://www.youtube.com/watch?v=WV6A1Zf3F2Q)**
 
-Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
+Episode 4 - "AI Psychosis" - ep4: 10x engineer (AI psychosis). Thanks https://edgerun.com for letting us use your field office.
 
-📺 REC Anything
+📺 Kai Lentit
 
-👁️ 209K • 👍 2K • 💬 253 • ⏱️ 8:29 • 12h ago
+👁️ 467K • 👍 11K • 💬 659 • ⏱️ 5:57 • 16h ago
 
 ---
 
@@ -385,7 +389,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 51,911 • ❤️ 2,412 • 6d ago
+⬇️ 57,715 • ❤️ 2,470 • 6d ago
 
 ---
 
@@ -397,7 +401,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 512,524 • ❤️ 1,323 • 5d ago
+⬇️ 534,837 • ❤️ 1,343 • 6d ago
 
 ---
 
@@ -409,7 +413,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 420 • ❤️ 579 • 1d ago
+⬇️ 1,904 • ❤️ 608 • 1d ago
 
 ---
 
@@ -421,7 +425,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 6,890 • ❤️ 600 • 2d ago
+⬇️ 7,658 • ❤️ 616 • 2d ago
 
 ---
 
@@ -433,7 +437,7 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 `text-to-image` `5.1B`
 
-⬇️ 5,013 • ❤️ 499 • 2d ago
+⬇️ 5,618 • ❤️ 508 • 2d ago
 
 ---
 
@@ -445,7 +449,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,054,990 • ❤️ 8,924 • 11d ago
+⬇️ 2,026,951 • ❤️ 8,957 • 12d ago
 
 ---
 
@@ -457,7 +461,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 16,305 • ❤️ 925 • 6d ago
+⬇️ 17,017 • ❤️ 933 • 6d ago
 
 ---
 
@@ -467,7 +471,19 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 MOSS-Image provides repackaged diffusion models and LoRAs for ComfyUI, enabling text-to-image generation with capabilities like layout-guided image synthesis and color/depth control.
 
-⬇️ 1,463,386 • ❤️ 375 • 1d ago
+⬇️ 1,606,363 • ❤️ 384 • 1d ago
+
+---
+
+**[Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)**
+
+*SparkLLM*
+
+Spark-X2.6-4B is a compact, general-purpose language model optimized for on-device deployment, excelling in coding, agentic workflows, and long-context tasks with controllable thinking budgets for balanced performance and efficiency.
+
+`text-generation` `4.1B`
+
+⬇️ 1,060 • ❤️ 386 • 2d ago
 
 ---
 
@@ -479,19 +495,7 @@ EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, 
 
 `feature-extraction` `744.4M`
 
-⬇️ 185,259 • ❤️ 2,850 • 16d ago
-
----
-
-**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
-
-*Ahmet Benzer*
-
-This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
-
-`text-to-image` `7.1B`
-
-⬇️ 2,665,585 • ❤️ 4,847 • 10d ago
+⬇️ 192,741 • ❤️ 2,859 • 16d ago
 
 ---
 
@@ -545,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 94 • 💬 3 • ⭐ 1,481 • 7d ago
+▲ 95 • 💬 4 • ⭐ 1,481 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
 
@@ -559,7 +563,7 @@ MOSS-Image is an open diffusion transformer that combines high-fidelity synthesi
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 118 • 💬 3 • ⭐ 2,302 • 17d ago
+▲ 118 • 💬 3 • ⭐ 2,369 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -576,6 +580,20 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 ▲ 29 • 💬 6 • ⭐ 6,438 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
+
+---
+
+**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)**
+
+*Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)*
+
+🏢 StartLux
+
+StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
+
+▲ 79 • 💬 4 • ⭐ 1,372 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
 
 ---
 
@@ -601,7 +619,7 @@ Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise g
 
 Continued pre-training across data scale, diversity, and model size improves embodied learning in virtual worlds but reveals limits in distant-world generalization, motivating richer training beyond imitation.
 
-▲ 53 • 💬 1 • ⭐ 231 • 3d ago
+▲ 56 • 💬 1 • ⭐ 231 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.28698) • [💻 code](https://github.com/THUSI-Lab/GameScaling) • [🔗 project](https://gamescaling.github.io)
 
@@ -621,20 +639,6 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
-**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)**
-
-*Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)*
-
-🏢 StartLux
-
-StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
-
-▲ 67 • 💬 4 • ⭐ 1,210 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +649,7 @@ StartLux-Decision introduces efficient and adaptive decision models using single
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.5k • 🔱 2.0k • 19h ago
+⭐ 8.5k • 🔱 2.0k • 1d ago
 
 ---
 
@@ -655,7 +659,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 6.3k • 🔱 1.0k • 10h ago
+⭐ 6.3k • 🔱 1.0k • 15h ago
 
 ---
 
@@ -665,7 +669,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 848 • 15h ago
+⭐ 5.9k • 🔱 853 • 20h ago
 
 ---
 
@@ -675,7 +679,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.2k • 🔱 147 • 22h ago
+⭐ 5.2k • 🔱 147 • 3h ago
 
 ---
 
@@ -685,7 +689,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.3k • 🔱 287 • 21h ago
+⭐ 4.3k • 🔱 287 • 1d ago
 
 ---
 
@@ -695,7 +699,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 4.2k • 🔱 318 • 2d ago
+⭐ 4.2k • 🔱 320 • 3d ago
 
 ---
 
@@ -705,7 +709,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 3.9k • 🔱 154 • 13d ago
+⭐ 3.9k • 🔱 154 • 14d ago
 
 ---
 
@@ -715,7 +719,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.6k • 🔱 472 • 1d ago
+⭐ 3.6k • 🔱 474 • 1d ago
 
 ---
 
@@ -725,7 +729,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 2.7k • 🔱 14 • 21h ago
+⭐ 3.0k • 🔱 14 • 1d ago
 
 ---
 
@@ -735,7 +739,7 @@ AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skil
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 63 • 2h ago
+⭐ 2.4k • 🔱 64 • 54m ago
 
 ---
 
