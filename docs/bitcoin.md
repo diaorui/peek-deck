@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-24T21:04:09.760651+00:00'
+updated: '2026-10-24T23:32:37.377404+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 21:04 UTC  
+**Last Updated:** October 24, 2026 at 23:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,372.05
+### $80,584.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -2.0%  
-**30d:** -4.3%  
-**90d:** +26.2%  
-**1y:** -27.9%  
+**24h:** +0.1%  
+**7d:** -1.7%  
+**30d:** -4.1%  
+**90d:** +26.6%  
+**1y:** -27.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1617.30B
+**Market Cap:** $1619.20B
 Rank #1
 
 **Circulating Supply:** 20,103,015 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.2%
+-36.1%
 
 **All-Time Low:** $67.81
-+118541.8%
++118681.9%
 
 ---
 
@@ -157,23 +157,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.](https://www.fool.com/investing/2026/10/23/this-top-investment-strategist-thinks-a-bitcoin-su/)**
+**[Can Bitcoin Get Back Above $85,000 in November?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-back-above-85-000-214039495.html)**
 
-Believing in a Bitcoin supercycle doesn't really change how to invest in it.
+Bitcoin fell just $150 short of $85,000 before sellers took over, and now four price levels, restless ETF flows, spiking oil prices, and a looming election stand between the crypto and a November recovery.
 
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613)**
-
-Investing.com • 15h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Forbes • 9h ago
+Forbes • 12h ago
+
+---
+
+**[Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html)**
+
+Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Strategy (MSTR), Strive (ASST) must balance bitcoin (BTC) purchases, preferred stock dividends](https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends)**
+
+The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -191,29 +201,25 @@ Financial Times • 2d ago
 
 ---
 
+**[Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy](https://247wallst.com/investing/cryptocurrency/2026/10/24/is-bitcoin-dead-cz-says-those-calls-have-marked-the-best-times-to-buy/)**
+
+Is Bitcoin dead? Searches just hit their highest since FTX, and CZ says such claims have marked the best times to buy. Here is the record.
+
+24/7 Wall St. • 7h ago
+
+---
+
 **['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
 
 13WMAZ • 1d ago
 
 ---
 
-**[Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy](https://247wallst.com/investing/cryptocurrency/2026/10/24/is-bitcoin-dead-cz-says-those-calls-have-marked-the-best-times-to-buy/)**
+**[This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.](https://www.fool.com/investing/2026/10/23/this-top-investment-strategist-thinks-a-bitcoin-su/)**
 
-Is Bitcoin dead? Searches just hit their highest since FTX, and CZ says such claims have marked the best times to buy. Here is the record.
+Believing in a Bitcoin supercycle doesn't really change how to invest in it.
 
-24/7 Wall St. • 5h ago
-
----
-
-**[Bitcoin ATM service to shut down in Oregon under settlement](https://www.oregonlive.com/business/2026/10/bitcoin-atm-service-to-shut-down-in-oregon-under-settlement.html)**
-
-OregonLive.com • 2d ago
-
----
-
-**[Massachusetts police officer heads off Bitcoin scam targeting Maine woman](https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/)**
-
-Bangor Daily News • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -221,11 +227,11 @@ Bangor Daily News • 2d ago
 
 ## HackerNews: "bitcoin"
 
-**[Steal My Bitcoin](https://news.ycombinator.com/item?id=50224916)**
+**[Show HN: Steal My Bitcoin](https://news.ycombinator.com/item?id=50224916)**
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 40 • 💬 5 • 33m ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 338 • 💬 170 • 3h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -263,23 +269,73 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
+
+Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
+
+📺 Gareth Soloway
+
+👁️ 24K • 👍 2K • 💬 137 • ⏱️ 15:40 • 3h ago
+
+---
+
+**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
+
+Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
+
+📺 Simply Bitcoin
+
+👁️ 3K • 👍 378 • 💬 45 • ⏱️ 21:54 • 1h ago
+
+---
+
+**[Be Careful Investing In Crypto Right Now (#1 Bitcoin Mistake)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
+
+Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
+
+📺 Altcoin Daily
+
+👁️ 4K • 👍 587 • 💬 58 • ⏱️ 9:22 • 1h ago
+
+---
+
+**[The Bitcoin vs Tech Stocks Signal Has Flipped Bullish](https://www.youtube.com/watch?v=HP8u1Hd9No0)**
+
+Tech stocks are selling off, and Bitcoin is holding. Today's Chart of the Day looks at Bitcoin priced in tech stocks, the ...
+
+📺 Bitcoin Magazine
+
+👁️ 4K • 👍 61 • 💬 18 • ⏱️ 7:48 • 7h ago
+
+---
+
+**[Will Bitcoin Survive Quantum Computing? | Jordi Visser](https://www.youtube.com/watch?v=huUoyFrZW08)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 57K • 👍 2K • 💬 80 • ⏱️ 51:29 • 10h ago
+
+---
+
 **[Why Is Bitcoin &amp; Crypto Falling? What&#39;s Happening?](https://www.youtube.com/watch?v=oPPqbtTFjuw)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
 
 📺 Aaron Bennett
 
-👁️ 13K • 👍 313 • 💬 39 • ⏱️ 9:55 • 12h ago
+👁️ 14K • 👍 328 • 💬 42 • ⏱️ 9:55 • 14h ago
 
 ---
 
-**[This Investor Will Bet $1 MILLION That Bitcoin Hits $100K](https://www.youtube.com/watch?v=7ArjcrUn3C0)**
+**[Insane Conspiracy Theory To Crash The Banking System Exposed!! Got Bitcoin?](https://www.youtube.com/watch?v=LoyGJbV-5Xc)**
 
-Is Bitcoin heading to $100000 or crashing to $10000, and are we witnessing the beginning of an AI bubble or just another buying ...
+Chamath says AI and quantum computing will hack Bitcoin and send it to zero. Dante breaks down why cryptographers like Dan ...
 
-📺 Anthony Scaramucci
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 305 • 💬 116 • ⏱️ 22:17 • 5h ago
+👁️ 33K • 👍 2K • 💬 125 • ⏱️ 20:55 • 1d ago
 
 ---
 
@@ -289,37 +345,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 257 • 💬 159 • ⏱️ 10:41 • 5h ago
-
----
-
-**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 123K • 👍 4K • 💬 159 • ⏱️ 10:31 • 2d ago
-
----
-
-**[Bitcoin: A Precarious Position](https://www.youtube.com/watch?v=eN6dpreDIk4)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 112K • 👍 4K • 💬 192 • ⏱️ 19:51 • 20h ago
-
----
-
-**[“A Trap Is Absolutely Being Set” - Michael Saylor](https://www.youtube.com/watch?v=PAu7NRjGObM)**
-
-A Trap Is Absolutely Being Set” ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first $100 on ...
-
-📺 Altcoin Daily
-
-👁️ 82K • 👍 2K • 💬 138 • ⏱️ 12:03 • 2d ago
+👁️ 10K • 👍 290 • 💬 125 • ⏱️ 10:41 • 7h ago
 
 ---
 
@@ -329,37 +355,17 @@ This tiny Bitcoin miner packs some seriously impressive hardware, but is it actu
 
 📺 Your Friend Andy
 
-👁️ 9K • 👍 239 • 💬 143 • ⏱️ 17:08 • 1d ago
+👁️ 10K • 👍 247 • 💬 146 • ⏱️ 17:08 • 1d ago
 
 ---
 
-**[I&#39;m Bearish On Bitcoin But LOADING UP On These Altcoins](https://www.youtube.com/watch?v=GayMGeJVknc)**
+**[AI Is Breaking Into Everything! Is This the End of Bitcoin?](https://www.youtube.com/watch?v=Q5chQKSOirc)**
 
-Altcoins are back at Sheldon's buy zones, and it's time to prepare for the next move. In this video, Sheldon breaks down his ...
+Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cryptography, and Bitcoin self-custody face new ...
 
-📺 Crypto Banter
+📺 Simply Bitcoin
 
-👁️ 21K • 👍 894 • 💬 19 • ⏱️ 19:27 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
-
-BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 15K • 👍 303 • 💬 172 • ⏱️ 20:53 • 1d ago
-
----
-
-**[Chamath Palihapitiya: An Urgent Alert To All Crypto Investors](https://www.youtube.com/watch?v=U2UrnJMjDbA)**
-
-Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x.com/GigaStar_ GigaStar is a channel partner.
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 2K • 💬 112 • ⏱️ 11:34 • 1d ago
+👁️ 62K • 👍 2K • 💬 242 • ⏱️ 18:14 • 2d ago
 
 ---
 

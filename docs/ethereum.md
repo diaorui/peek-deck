@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-24T21:04:09.766665+00:00'
+updated: '2026-10-24T23:32:37.383750+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 21:04 UTC  
+**Last Updated:** October 24, 2026 at 23:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,309.27
+### $2,348.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -2.8%  
-**30d:** -12.9%  
-**90d:** +23.9%  
-**1y:** -40.6%  
+**24h:** -1.0%  
+**7d:** -2.5%  
+**30d:** -12.7%  
+**90d:** +24.2%  
+**1y:** -40.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.34B
+**Market Cap:** $286.31B
 Rank #2
 
 **Circulating Supply:** 122,158,317 ETH
@@ -62,7 +62,7 @@ No max supply
 -52.6%
 
 **All-Time Low:** $0.43
-+541258.8%
++541208.0%
 
 ---
 
@@ -150,11 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum ETFs Have Lost $1.1 Billion in Three Weeks. What Would Bring Buyers Back?](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-lost-1-1-175222339.html)**
+**[An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.](https://finance.yahoo.com/markets/crypto/articles/openai-model-spent-ethereum-without-212600871.html)**
 
-Billions have fled Ethereum ETFs in weeks, dragging Coinbase stock down with them, and a delayed network upgrade is making things worse. A few specific catalysts could flip the trend, but investors are watching closely for the first sign.
+Cybersecurity as it pertains to AI agents is rapidly becoming an issue that could make Ethereum more valuable.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 3h ago
 
 Ethereum exchange outflows hit a 4-month high, echoing June’s bottom signal, while ETF investors keep pulling money.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -174,11 +174,11 @@ ethereum.org • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?](https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/)**
+**[Lisk: Bridge initiation window closes for transfers to Ethereum - 24 Oct 2026](https://www.tradingview.com/news/coinmarketcal:fafeb65dc094b:0-lisk-bridge-initiation-window-closes-for-transfers-to-ethereum-24-oct-2026/)**
 
-Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from…
+Lisk users have until 24 October 2026 to start bridging assets from Lisk Chain to Ethereum. The bridge process takes about eight days, and every withdrawal must be claimed on Ethereum by the end of 2 November.The deadline applies to assets including LSK. The eight-day bridge process leaves users wh…
 
-TradingView • 1d ago
+TradingView • 9h ago
 
 ---
 
@@ -206,6 +206,14 @@ Fortune • 1d ago
 
 ---
 
+**[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
+
+The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
+
+The Block • 2d ago
+
+---
+
 **[Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum’s Four-Minute Settlement Plan Revives a $12,000 ETH Target](https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857)**
 
 Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ...
@@ -222,12 +230,6 @@ Blockchain News • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Steady as Traders Brace for Potential Weekend Volatility](https://www.benzinga.com/crypto/cryptocurrency/26/10/62571323/bitcoin-ethereum-xrp-dogecoin-steady-as-traders-brace-for-potential-weekend-volatility)**
-
-Benzinga • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +240,7 @@ Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves thro
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 242 • 💬 48 • ⏱️ 1:00:00 • 1d ago
+👁️ 11K • 👍 243 • 💬 48 • ⏱️ 1:00:00 • 1d ago
 
 ---
 
@@ -248,7 +250,7 @@ Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime M
 
 📺 Thinking Crypto
 
-👁️ 16K • 👍 642 • 💬 53 • ⏱️ 17:37 • 17h ago
+👁️ 16K • 👍 656 • 💬 65 • ⏱️ 17:37 • 19h ago
 
 ---
 
@@ -258,7 +260,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 2K • 👍 31 • 💬 7 • ⏱️ 11:50 • 6h ago
+👁️ 2K • 👍 36 • 💬 8 • ⏱️ 11:50 • 8h ago
 
 ---
 
@@ -268,7 +270,7 @@ Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the o
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 186 • 💬 17 • ⏱️ 49:05 • 12h ago
+👁️ 10K • 👍 188 • 💬 17 • ⏱️ 49:05 • 14h ago
 
 ---
 
@@ -278,27 +280,7 @@ Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were 
 
 📺 That crypto show
 
-👁️ 175 • 👍 2 • 💬 2 • ⏱️ 0:44 • 12h ago
-
----
-
-**[Midterm Election Noise &amp; Bitcoin, Ethereum&#39;s Potential Dip Buying Opportunity](https://www.youtube.com/watch?v=qhFYLrAl9Yo)**
-
-Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midterm elections and a tentative change of ...
-
-📺 Schwab Network
-
-👁️ 5K • 👍 37 • 💬 1 • ⏱️ 6:40 • 2d ago
-
----
-
-**[Ethereum in (about) a minute | Learn Crypto - Episode 4](https://www.youtube.com/watch?v=H9uvwKsfWvs)**
-
-Ethereum is the world's second largest cryptocurrency and the top platform for automated digital agreements known as “smart ...
-
-📺 E*TRADE from Morgan Stanley
-
-👁️ 196 • 👍 3 • ⏱️ 1:49 • 2d ago
+👁️ 176 • 👍 2 • 💬 2 • ⏱️ 0:44 • 15h ago
 
 ---
 
@@ -306,17 +288,17 @@ Ethereum is the world's second largest cryptocurrency and the top platform for a
 
 📺 Digital Asset News
 
-👁️ 163 • 👍 10 • ⏱️ 1:56 • 1h ago
+👁️ 252 • 👍 13 • 💬 1 • ⏱️ 1:56 • 4h ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
+**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
 
-BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
 
-📺 Crypto World
+📺 Pushkar Raj Thakur: Stock Market Educator 📈
 
-👁️ 15K • 👍 303 • 💬 172 • ⏱️ 20:53 • 1d ago
+👁️ 97K • 👍 947 • 💬 180 • ⏱️ 6:03 • 1d ago
 
 ---
 
@@ -326,7 +308,27 @@ BITCOIN EMERGENCY: IT'S FINALLY BREAKING (price target)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 4K • 👍 177 • 💬 71 • ⏱️ 23:25 • 3h ago
+👁️ 7K • 👍 217 • 💬 87 • ⏱️ 23:25 • 6h ago
+
+---
+
+**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=BlrY6SREarU)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 14K • 👍 207 • 💬 32 • ⏱️ 21:17 • 1d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
+
+BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 16K • 👍 303 • 💬 172 • ⏱️ 20:53 • 1d ago
 
 ---
 
