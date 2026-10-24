@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "No Signs of AI Payoff Outside the Tech Sector",
+      "source": "Apollo Global Management",
+      "source_url": "https://www.apollo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHZjSE5HWVFmaFJNNVJMV09Sc1BWRGZVb0FhazlOQlFCY2hRV1VzSEtyNzh6WnhqWUhVSHV2NWpJanBrZm9rdGkwaW9MbS1FUnhTUkc4MDJ6SkI4T3YwWEdsY19HbW9LWG9ZNXRxOENPX2hrZWhCb2tVUEd0c29yNWxTdzRwMURoTVZaOXR1M0ptUEJEc1JpVFpJT0ZSZ29FYlA1LWRLTnNBNkVmVnNr?oc=5",
+      "pub_date": 1792838699.0,
+      "article_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "description": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates."
+    },
+    {
       "headline": "Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida",
       "source": "ESPN",
       "source_url": "https://www.espn.com",
@@ -15,44 +25,44 @@
       "description": null
     },
     {
-      "headline": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNnR1RPd3VXa0hoTW1USmVib3RXRVNMbjI3R2NwNDhtYkV4YU10azF5U0VVUEZWQXFRdFdlaUg1eWFDRkZTZi04UUJ6MmtEem5YdUhra0lCX2trOEtSWGIydnpjQXotNDBZVHdXT2lOeWlKenNnWC1CS3NBNVhQOW9KNmJWZTNoTlZkUEd0c01XTWs1M3dTbkstZVpCNjVROE5r?oc=5",
-      "pub_date": 1792800000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
+      "headline": "Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel, according to a top economist",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdy1qR2xLV0pnTElaT0xKS1k3Mk1SWFpfbmtpWlZJTWhxcHV4OTZrTHdpcDRFSXFEejR6NGhBWkNTRTk5YWRrNlE2UEVnaFNHVVBJSTNnNlF6U2t0RVdFQ1hlSXc5MXpJNjVHR3JITTQ3ZUhaWW4zcHpuaHAwRzdvZ1BfR2RhTGFOcjc2SWV5OHpxN2FEa1lFU2RhWmtpaXlIbE1rU2ZDUUljV09YLXlVOHlna0lpZw?oc=5",
+      "pub_date": 1792870740.0,
+      "article_url": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300875245-e1792865618919.jpg?resize=1200,600",
+      "description": "\"So far, the AI payoff for firms has been slow to materialize, implying a growing reluctance to pay for AI services.\""
+    },
+    {
+      "headline": "Elon Musk actually follows through on Grok AI adaptation of ' The Odyssey'",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pcmdod25lTDRmVlpaR0dGWnBfVWtLNEdPWlhHQmlvQUlMcm4wclhpR1JOcy1iWFFBMTZEZDFCZ1ZocTVZZjdYbzZVMDdvUWNQMkhNeHBEYVZPOF9uMk13c05rUGN3S0hjejRRZWJwNGFiMVU?oc=5",
+      "pub_date": 1792870448.0,
+      "article_url": "https://mashable.com/tech/elon-musk-grok-odyssey-ai-film-adaption",
+      "image": "https://helios-i.mashable.com/imagery/articles/03GbMG1r6qHcyGRHO6KR3kF/hero-image.fill.size_1200x675.v1792865093.png",
+      "description": "It\u2019s exactly what you\u2019d expect."
+    },
+    {
+      "headline": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMi1odVpCeldBLWZwZjdGVkE5am16cTZfeHlkbno4SzdGSmg4TVVTcVkxRnF5aUZvbV9DOEVpbGdSa05IX2VocHE5ZEdIa1M4cVoxVVZwX290REZNZFhRNGFRMkQ4ZzRJTC0xWHI0MlI5dDg4WVE?oc=5",
+      "pub_date": 1792600584.0,
+      "article_url": "https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1441986751.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world\u2019s websites."
+    },
+    {
+      "headline": "Trump\u2019s \u2018Smart Wall\u2019 of A.I. Cameras Is Watching the Border, and More Than a Million People",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVdSdlhMWldtYjhEWlV1QjIyTFc1VmhyRlNGNS1fX3QwVzNISnlfM3lIZ29GN0ZTZHFYVFZCbDNqTFdpMF9Scy16bHctOWY5dTd1R3c1NnA0aG1WTEpVSVQ4VGdqTVo4bk16M2RhLUVHLTVaYlI0TlVSbF9QWHJHeWJiNnVBZzQwTWhlX1JVVXdUdV8xVTMtdTNPelhQdzl4VDNZ?oc=5",
+      "pub_date": 1792724051.0,
+      "article_url": "https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ296eGZsT0J4ZXhoWnJrcmlOaC0wUEx5QlNQN2R6b3luMklwSTkxOHpsZ3d6aEtPbTVOaWFpSjZPUlRMOW5YOEQ5d04zU0VtQ1JiWUtSM1ZHV0dfUGpsUGlLQmFQVmtDRk5URkpRcmd3ZG5YcUZGOFV1SkJLd1RST1VjTkt2YkRNaDdPcjJMZ2hGT0tPaVYwSG1XdC1Nc0JEQjdJSzVsendNZ1dtdHlXQWRzQm5kaF83TFNsUFYtY2RTaE1qd2dJVTBkNkI0ZEYxUG5wX3VtdjNMREJpR05WcjhvYnhJeFp4b1lwR2FUbFJtUQ?oc=5",
-      "pub_date": 1792862107.0,
-      "article_url": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/113ea5fc935307857f0730bdb843d3867bb6d0ae97fb34bd3595db615de7abf0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F371ad78a-32a1-4f8f-bde2-79db45180527_961908d6eb0879810cca4a28b04f5cba85f620b97057e6b6f0a4fb70340cf421.jpg",
-      "description": "Ed Zitron, CEO of public relations firm EZPR and well-known critic of the AI spending boom, says Nvidia is creating the scarcity it sells against."
-    },
-    {
-      "headline": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
-      "pub_date": 1792839601.0,
-      "article_url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108450923-1792750261614-gettyimages-2300714363-GERMANY_NVIDIA.jpeg?v=1792750317&w=1920&h=1080",
-      "description": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout."
-    },
-    {
-      "headline": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers \u2014 GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWEJjQi1za1l1bTI1SFNZcVBMeDJ6RFVQNWJ1RU5iWWVBQzFUN18wTndLek15MWplRmpTSW1rMklpSFBDbUZobk5WMXBsTlY2YzI5dVByWVdXTHYyNUp2OGUxaUk0c0NvSkZBcC1NbWtnQVR1ZXN6NDd6WmhBZ2lIbS1rVmhDVWlWbHJqZTh0UF9xLXpKSXYwNlYxUFJCUEJKTjNEVmVabTdRaDZ2RUIwNFBkUmd2T3FLNW1ZOHc5V1JDTkphb2JidEFhRjQ3Y3Q1RXRPajZRektKNG9KUVRQaVBQbkpJOXhXb2NrcVlnbW9ycTgwVE1CX0s1R3c5MVRDczZDRDZUNHlSTEVES1JlUzFENWprQTVWR2NNTlNtT05xUQ?oc=5",
-      "pub_date": 1792840500.0,
-      "article_url": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
-      "image": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-2560-80.jpg",
-      "description": "A career change for the GeForce RTX 5090"
     },
     {
       "headline": "AI ad mocks Talarico as Bible-defacing radical. Democrats bet it will backfire.",
@@ -65,46 +75,36 @@
       "description": "A clear trend has emerged in the 2026 midterm ad wars: Republicans are embracing AI-generated videos while Democrats are betting they will backfire."
     },
     {
-      "headline": "My Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDBBclZlZE92ZUM3RkFURllGRGN0bU5XS0Z0N2FpZWlqV0VDdmd6TWUzZGhHVnRxaWlxbkhUTUtsOFhnUmdlSVViZkJHekRQVnFySkxVWEN3Wmc3TlViQzVNa2w3TkRCZ1pGeWRqdHVuU0t5NDA1N0cwWl9faXNRQQ?oc=5",
-      "pub_date": 1792832533.0,
-      "article_url": "https://www.nytimes.com/2026/10/24/realestate/ai-doorman-new-york-city.html",
-      "image": null,
-      "description": null
+      "headline": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHpyd0dWM0xXTi1Yenc5LWRtYlhZXzUydG5yc1BDaWRiWlZjZk0tYU5hVGRqYl9fNjhXNW5PRHN4T3F3azZmdU1EaWIzdG1BaWFwNzI5S0dDYUdyeFN0cWRMeUw3N2F5dkd5YjUzWFN6NWJOSENUQXNXVi1KY1oxNy1FVDJQbDRCdWfSAY8BQVVfeXFMTlIxSHBHSDdaQXpRdnBiQzdveFFyRWdFSXVnUkhGOFVHdGstSFNaSmhjVnNDNi1OcklJYktNSlNXOVRxbkt0VlNvRjRGeUUxbFNpX1V6VUhrLUVpS1lBRUJtNFducmRWbU5yQ3ptMFByX2xiOUd3SW56cDdCRW84VzVZeDE3dnF0QlFhVmc3MnM?oc=5",
+      "pub_date": 1792836001.0,
+      "article_url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108410871-1792014847833-gettyimages-2300235422-aw1a8615_btpwzyqe.jpeg?v=1792014900&w=1920&h=1080",
+      "description": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election."
     },
     {
-      "headline": "The Existential Question You Probably Don\u2019t Want to Ask AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLXZneWZFVDM2Y0wzZ2pOQU5iTl85ZjU2VjZwM3IySzAtWTFqRTBZNXJLbDk0UVVBYTNpUEtFZm1zVXBtdWlVOHVZZXQ2Tkt0dmtSOGtodHFjempkMUFySmFzOHRrUGRuQkJKNktUWC1mY0N1djZZeXVkSnYyNms1aFNHLUgwbGVwNENJ?oc=5",
-      "pub_date": 1792839600.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/ai-longevity-death-questions/689102/",
-      "image": null,
-      "description": null
+      "headline": "The rise of AI election ads in US midterms campaign",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISFkwU1BNV0E5aHVNOUZVbWtnNWZmUHltdmdETGQ1SnFRRWV1MGcyek1WRjQ0eW9GcWEtakYzUW9TVVZKVVZWNEZHcEdQd2hZNjVDTjIyYzM?oc=5",
+      "pub_date": 1792818224.0,
+      "article_url": "https://www.bbc.com/news/videos/cm62y59zw8zko",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/df8a/live/f3eb3240-ce32-11f1-bc2e-018d645d8d21.png",
+      "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
     },
     {
       "headline": "Washington's message to AI execs: Please shut up",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wek12YTUyUzgzdUdPSVM0dks4SVJuZklBdjBoR2h3aVRLNm5PaDBpZWhOWWhHdGtnOElrMWUxZzEzNy1vd2JwVmYwS2xmN0ZDVWlSN24yMWxzRzVLSXNIcXRWWEpiQUhhMFE4S1I4UEtycmR4QzB1Zks3SQ?oc=5",
-      "pub_date": 1792834852.0,
+      "pub_date": 1792844075.0,
       "article_url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Securing our frontier model training environment",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
-      "pub_date": 1792780594.0,
-      "article_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ho5AoUkijZ1OWhqcDlVvT/84af1aa075c5e8e44d9dc93d0146c31f/new-approach-to-research-model-containment-social.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T18:19:38.580070+00:00"
+  "fetched_at": "2026-10-24T21:04:04.782190+00:00"
 }
