@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-24T18:19:40.071324+00:00'
+updated: '2026-10-24T21:04:09.769860+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 24, 2026 at 18:19 UTC  
+**Last Updated:** October 24, 2026 at 21:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -134,7 +134,7 @@ NVIDIA Developer • 1d ago
 
 **[FCC grants Intel waiver to use existing foreign-made robotic devices](https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -142,7 +142,7 @@ Reuters • 1d ago
 
 The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
 
-TechCrunch • 20h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -154,13 +154,15 @@ WSJ • 1d ago
 
 **[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Unitree developing AI system to let humanoid robots improve themselves](https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves)**
+**[Boston Dynamics workers oppose the company’s robot dog use by ICE](https://www.bostonglobe.com/2026/10/23/business/ice-spot-boston-dynamics-sale-workers/)**
 
-South China Morning Post • 2d ago
+The $1.3 million deal includes a modified version of the original robot, with military grade add-ons such as a robotic arm, thermal camera, and sensors for explosive materials.
+
+The Boston Globe • 1d ago
 
 ---
 
@@ -190,7 +192,7 @@ Unitree just dropped the H2X AI robot, and its terrifying strength is shocking t
 
 📺 MACHINEKIND
 
-👁️ 7K • 👍 118 • 💬 17 • ⏱️ 13:25 • 18h ago
+👁️ 8K • 👍 126 • 💬 18 • ⏱️ 13:25 • 21h ago
 
 ---
 
@@ -200,17 +202,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 157K • 👍 2K • 💬 244 • ⏱️ 20:32 • 6d ago
-
----
-
-**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
-
-Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
-
-📺 REC Anything
-
-👁️ 1.0M • 👍 7K • 💬 851 • ⏱️ 8:29 • 2d ago
+👁️ 158K • 👍 2K • 💬 247 • ⏱️ 20:32 • 6d ago
 
 ---
 
@@ -220,17 +212,17 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 119K • 👍 990 • 💬 57 • ⏱️ 9:03 • 5d ago
+👁️ 120K • 👍 1K • 💬 57 • ⏱️ 9:03 • 6d ago
 
 ---
 
-**[99% of You Will Miss the Robotic Stack (My Full Map)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
+**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
 
-I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
+Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
 
-📺 Fin Tek
+📺 REC Anything
 
-👁️ 35K • 👍 587 • 💬 32 • ⏱️ 22:57 • 1d ago
+👁️ 1.1M • 👍 7K • 💬 896 • ⏱️ 8:29 • 2d ago
 
 ---
 
@@ -240,17 +232,27 @@ NVIDIA's tiny Microduck AI robots explained! Jensen Huang introduced 4 miniature
 
 📺 DPCcars
 
-👁️ 28K • 👍 125 • 💬 13 • ⏱️ 5:59 • 1d ago
+👁️ 30K • 👍 130 • 💬 13 • ⏱️ 5:59 • 1d ago
 
 ---
 
-**[Meet Microduck: The Tiny AI Robot That Can Dance, Play &amp; Sing! 🤖🎶 #huggingface  #ai](https://www.youtube.com/watch?v=gEDs4exyXJI)**
+**[99% of You Will Miss the Robotic Stack (My Full Map)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
 
-Meet Microduck — the tiny AI robot that brings technology to life! What happens when AI meets robotics, movement, and fun?
+I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
 
-📺 TechBee
+📺 Fin Tek
 
-👁️ 18K • 👍 82 • 💬 11 • ⏱️ 0:45 • 1d ago
+👁️ 36K • 👍 604 • 💬 33 • ⏱️ 22:57 • 1d ago
+
+---
+
+**[Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist](https://www.youtube.com/watch?v=APKcMzOfg1Y)**
+
+Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist elderly pilgrims, providing mobility, shade, ...
+
+📺 Zeeshan Malik
+
+👁️ 23K • 👍 994 • 💬 1 • ⏱️ 0:10 • 19h ago
 
 ---
 
@@ -260,17 +262,17 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 RuntimeBRT
 
-👁️ 324K • 👍 12K • 💬 352 • ⏱️ 2:55 • 5d ago
+👁️ 326K • 👍 12K • 💬 353 • ⏱️ 2:55 • 5d ago
 
 ---
 
-**[China&#39;s H2-X Robot Bodyguard! Fights Att@ckers &amp; Rescues People? | 92NewsHD](https://www.youtube.com/watch?v=PaxVTwvwZO0)**
+**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
 
-China has introduced an advanced humanoid robot designed to demonstrate potential applications in personal protection, ...
+China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
 
-📺 92 News HD
+📺 MACHINEKIND
 
-👁️ 5K • 👍 132 • 💬 3 • ⏱️ 0:44 • 4h ago
+👁️ 95K • 👍 982 • 💬 88 • ⏱️ 13:57 • 3d ago
 
 ---
 
@@ -280,7 +282,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 1.5M • 👍 11K • 💬 1K • ⏱️ 4:06 • 2d ago
+👁️ 1.6M • 👍 11K • 💬 1K • ⏱️ 4:06 • 2d ago
 
 ---
 

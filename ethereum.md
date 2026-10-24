@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-24T18:19:40.068745+00:00'
+updated: '2026-10-24T21:04:09.766665+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 18:19 UTC  
+**Last Updated:** October 24, 2026 at 21:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -3.6%  
-**30d:** -13.6%  
-**90d:** +22.9%  
-**1y:** -41.1%  
+**24h:** -0.9%  
+**7d:** -2.8%  
+**30d:** -12.9%  
+**90d:** +23.9%  
+**1y:** -40.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.79B
+**Market Cap:** $286.34B
 Rank #2
 
 **Circulating Supply:** 122,158,317 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-52.6%
 
 **All-Time Low:** $0.43
-+536521.9%
++541258.8%
 
 ---
 
@@ -104,7 +104,7 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 1d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Dshackle is a load balancer that sits between your app and your blockchain upstr
 
 **[Blast L2 is shutting down October 26. Withdraw your funds and export your transaction history before it's too late.](https://www.reddit.com/r/ethereum/comments/1xbwf1m/blast_l2_is_shutting_down_october_26_withdraw/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Billions have fled Ethereum ETFs in weeks, dragging Coinbase stock down with them, and a delayed network upgrade is making things worse. A few specific catalysts could flip the trend, but investors are watching closely for the first sign.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum Flashes Same Signal That Triggered June’s Rebound](https://finance.yahoo.com/markets/crypto/articles/ethereum-flashes-same-signal-triggered-194056572.html)**
+
+Ethereum exchange outflows hit a 4-month high, echoing June’s bottom signal, while ETF investors keep pulling money.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -162,7 +170,7 @@ Yahoo Finance • 27m ago
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-ethereum.org • 1d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -170,7 +178,7 @@ ethereum.org • 1d ago
 
 Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from…
 
-TradingView • 21h ago
+TradingView • 1d ago
 
 ---
 
@@ -182,11 +190,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.](https://www.fool.com/investing/2026/10/24/ethereum-co-founder-joseph-lubin-predicts-the-merg/)**
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
 
-Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right.
+Cardano could be headed for a big comeback in 2027.
 
-The Motley Fool • 5h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -195,14 +203,6 @@ The Motley Fool • 5h ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 1d ago
-
----
-
-**[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
-
-The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
-
-The Block • 2d ago
 
 ---
 
@@ -218,13 +218,13 @@ markets.businessinsider.com • 2d ago
 
 Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago.
 
-Blockchain News • 23h ago
+Blockchain News • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Mileston](https://www.benzinga.com/crypto/cryptocurrency/26/10/62515868/bitcoin-ethereum-xrp-dogecoin-crypto-genius-act)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Steady as Traders Brace for Potential Weekend Volatility](https://www.benzinga.com/crypto/cryptocurrency/26/10/62571323/bitcoin-ethereum-xrp-dogecoin-steady-as-traders-brace-for-potential-weekend-volatility)**
 
-Benzinga • 2d ago
+Benzinga • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves thro
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 241 • 💬 48 • ⏱️ 1:00:00 • 1d ago
+👁️ 11K • 👍 242 • 💬 48 • ⏱️ 1:00:00 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime M
 
 📺 Thinking Crypto
 
-👁️ 14K • 👍 618 • 💬 52 • ⏱️ 17:37 • 14h ago
+👁️ 16K • 👍 642 • 💬 53 • ⏱️ 17:37 • 17h ago
 
 ---
 
@@ -258,7 +258,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 962 • 👍 22 • 💬 6 • ⏱️ 11:50 • 3h ago
+👁️ 2K • 👍 31 • 💬 7 • ⏱️ 11:50 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the o
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 181 • 💬 16 • ⏱️ 49:05 • 9h ago
+👁️ 9K • 👍 186 • 💬 17 • ⏱️ 49:05 • 12h ago
 
 ---
 
@@ -278,17 +278,7 @@ Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were 
 
 📺 That crypto show
 
-👁️ 163 • 👍 2 • 💬 1 • ⏱️ 0:44 • 9h ago
-
----
-
-**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
-
-Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
-
-📺 Pushkar Raj Thakur: Stock Market Educator 📈
-
-👁️ 95K • 👍 938 • 💬 178 • ⏱️ 6:03 • 1d ago
+👁️ 175 • 👍 2 • 💬 2 • ⏱️ 0:44 • 12h ago
 
 ---
 
@@ -308,27 +298,35 @@ Ethereum is the world's second largest cryptocurrency and the top platform for a
 
 📺 E*TRADE from Morgan Stanley
 
-👁️ 192 • 👍 3 • ⏱️ 1:49 • 2d ago
+👁️ 196 • 👍 3 • ⏱️ 1:49 • 2d ago
 
 ---
 
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
+**[JPM Coin goes public on Ethereum — why public matters](https://www.youtube.com/watch?v=oBxrDuZ6Q64)**
 
-Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
+📺 Digital Asset News
 
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 101 • 💬 46 • ⏱️ 20:11 • 1d ago
+👁️ 163 • 👍 10 • ⏱️ 1:56 • 1h ago
 
 ---
 
-**[SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK!](https://www.youtube.com/watch?v=kA0zzokm5Qo)**
+**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
 
-SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK! RIPPLE AND ...
+BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 CryptoWendyO
+📺 Crypto World
 
-👁️ 4K • 👍 181 • 💬 7 • ⏱️ 35:50 • 23h ago
+👁️ 15K • 👍 303 • 💬 172 • ⏱️ 20:53 • 1d ago
+
+---
+
+**[BITCOIN EMERGENCY: IT&#39;S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrjuhQJ7boA)**
+
+BITCOIN EMERGENCY: IT'S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 177 • 💬 71 • ⏱️ 23:25 • 3h ago
 
 ---
 
