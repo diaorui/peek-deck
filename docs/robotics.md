@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-24T06:55:47.144825+00:00'
+updated: '2026-10-24T11:52:37.697862+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 24, 2026 at 06:55 UTC  
+**Last Updated:** October 24, 2026 at 11:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Jensen Huang brought four Microduck robots onstage during his keynote at NVIDIA GTC Berlin](https://www.reddit.com/r/robotics/comments/1xdaqlq/jensen_huang_brought_four_microduck_robots/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Watch the full build tutorial on the Robot LK YouTube channel. Visit RobotLK.com
 
 The U.S. Army’s first 10 warrant officers in its new 390A Robotics Technician specialty completed a 19-week course covering robotic hardware, software, sensors and communications. The training includes working through communications failures, unavailable navigation systems and situations where internet-connected AI tools aren’t accessible. Instructors deliberately introduce failures so students have to revise their solutions. One exercise involved modifying a quadcopter with a camera and integrating mesh communications to maintain connectivity when individual connections were disrupted. The article also looks at the overlap with industrial robotics training, where changing a gripper, vision configuration or robot program can require understanding several connected systems.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-u-s-army-is-training-a-new-kind-of-robotics-technician) • 19h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-u-s-army-is-training-a-new-kind-of-robotics-technician) • 1d ago
 
 ---
 
@@ -58,7 +58,7 @@ The U.S. Army’s first 10 warrant officers in its new 390A Robotics Technician 
 
 I just saw the keynote from Jensen Huang where he introduced the robotic platform Microduck. It’s an interesting direction for compact autonomous machines. It's most noteworthy part is seeing how it handles real-world spatial computing and edge AI processing in such a tiny form factor. My feed was mostly inundated by people talking about this cute little robot. With all those advanced humanoid in the background, it's interesting how this tiny robot got the spotlight. Maybe it's just social media algorithm or maybe it's just because people like little cute things, but I find the contrast peculiar.
 
-🔗 [youtu.be](https://youtu.be/qWiYWCWZ_HA) • 19h ago
+🔗 [youtu.be](https://youtu.be/qWiYWCWZ_HA) • 1d ago
 
 ---
 
@@ -72,7 +72,7 @@ Update on my home-lab RGB-D build: a 320×240 epc660-class iToF engineering samp
 
 **[My robotics home lab with Claude as lab assistant](https://www.reddit.com/r/robotics/comments/1xda65j/my_robotics_home_lab_with_claude_as_lab_assistant/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Update on my home-lab RGB-D build: a 320×240 epc660-class iToF engineering samp
 
 The index collects VLA and robot foundation-model work and links each entry's arXiv page, PDF and code repository. It covers vision-language-action models, manipulation, sim-to-real transfer and the benchmarks around them; every paper is tagged by topic and summarised in plain language, with the paper's own figures on the page. Currently 125+ VLA papers, refreshed as new work appears.
 
-🔗 [Robotics Research Hub](https://papers.tinrobotics.com/topics/vla/) • 19h ago
+🔗 [Robotics Research Hub](https://papers.tinrobotics.com/topics/vla/) • 1d ago
 
 ---
 
@@ -88,7 +88,7 @@ The index collects VLA and robot foundation-model work and links each entry's ar
 
 Hi all, I'm designing a simple but communicative robot that can either be controlled via puppetry or via servos. How should I design the robot so it can be controlled both ways? Should it be controlled by wires and elastic for the puppetry and servos for the autonomous mode? Once it's finished, I will put up some pictures of my robot, Crystal. Any suggestions? Thanks, Daniel L :)
 
-15h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi all, I'm designing a simple but communicative robot that can either be contro
 
 I’ve successfully implemented point-to-point wireless image transmission using two custom-designed LR2021 nodes at Makerfabs. Traditional LoRa sensor applications focus on small data packets; this demo explores the LR2021's capabilities for larger data transfers. I used two nodes equipped with Makerfabs-designed LR2021 modules; I've successfully demonstrated point-to-point wireless image transmission. All the transmission information can be shown on the OLED display. Technical Highlights High-speed FLRC: Supports PHY data rates up to 2.6 Mbps. FLRP Protocol: Supports high-speed burst transmission, data segmentation, acknowledgments, and retransmissions. Flexible Applications: Enables exploration of larger data transfers, including images, firmware updates, and remote monitoring. Ongoing Research With basic wireless image transmission working, I’m now evaluating actual transfer throughput, effective communication range, link reliability under interference, and power consumption during high-speed bursts. I’d love to hear your thoughts and ideas on LR2021. What applications would you explore with it?
 
-21h ago
+1d ago
 
 ---
 
@@ -112,15 +112,15 @@ Title. Ive always been fascinated by Unmanned Aerial Manipulators, since they ca
 
 ## Google News: "robotics"
 
-**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
+**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
 
-Stanford Report • 1d ago
+Axios • 1d ago
 
 ---
 
-**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
+**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Axios • 20h ago
+Stanford Report • 1d ago
 
 ---
 
@@ -128,7 +128,7 @@ Axios • 20h ago
 
 Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead.
 
-NVIDIA Developer • 15h ago
+NVIDIA Developer • 20h ago
 
 ---
 
@@ -136,21 +136,13 @@ NVIDIA Developer • 15h ago
 
 The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
 
-TechCrunch • 8h ago
+TechCrunch • 13h ago
 
 ---
 
 **[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
 
 Reuters • 2d ago
-
----
-
-**[Nvidia Teaches a $399 Duck Robot to Walk Using AI](https://www.techrepublic.com/article/news-nvidia-microduck-robot-ai-walking/)**
-
-Nvidia and Hugging Face show how the $399 Microduck robot learns to walk using AI simulation. Explore its hardware, training process, and availability.
-
-TechRepublic • 21h ago
 
 ---
 
@@ -168,15 +160,25 @@ Reuters • 1d ago
 
 ---
 
-**[Unitree developing AI system to let humanoid robots improve themselves](https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves)**
+**[Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car](https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car)**
 
-South China Morning Post • 1d ago
+Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously.
+
+South China Morning Post • 2d ago
+
+---
+
+**[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
+
+NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
+
+NVIDIA Newsroom • 3d ago
 
 ---
 
 **[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
 
-Bloomberg.com • 22h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -190,7 +192,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 154K • 👍 2K • 💬 241 • ⏱️ 20:32 • 5d ago
+👁️ 155K • 👍 2K • 💬 242 • ⏱️ 20:32 • 6d ago
 
 ---
 
@@ -200,7 +202,7 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 779K • 👍 5K • 💬 642 • ⏱️ 8:29 • 1d ago
+👁️ 865K • 👍 6K • 💬 712 • ⏱️ 8:29 • 1d ago
 
 ---
 
@@ -210,17 +212,27 @@ More American workers are strapping cameras to their bodies to collect data in o
 
 📺 The New York Times
 
-👁️ 186K • 👍 2K • 💬 550 • ⏱️ 4:07 • 6d ago
+👁️ 187K • 👍 2K • 💬 551 • ⏱️ 4:07 • 6d ago
 
 ---
 
-**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+**[99% of You Will Miss the Robotic Stack (My Full Map)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
 
-The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
 
-📺 DPCcars
+📺 Fin Tek
 
-👁️ 47K • 👍 464 • 💬 159 • ⏱️ 2:30 • 2d ago
+👁️ 30K • 👍 525 • 💬 44 • ⏱️ 22:57 • 21h ago
+
+---
+
+**[New Figure 04 Robot announced - The BIGGEST leap in Humanoid Robotics](https://www.youtube.com/watch?v=FhcoqXaMFjc)**
+
+Take a look at the new Figure 04 humanoid robot world premiere and reveal. Figure AI reveals new Figure 04 robot details, ...
+
+📺 REC Anything
+
+👁️ 9K • 👍 91 • 💬 13 • ⏱️ 28:13 • 20h ago
 
 ---
 
@@ -230,7 +242,17 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 84K • 👍 917 • 💬 84 • ⏱️ 13:57 • 3d ago
+👁️ 88K • 👍 948 • 💬 84 • ⏱️ 13:57 • 3d ago
+
+---
+
+**[Jensen Huang Reveals Microduck Robots at GTC Berlin 2026 Explained](https://www.youtube.com/watch?v=_eVCFuiQoSk)**
+
+NVIDIA's tiny Microduck AI robots explained! Jensen Huang introduced 4 miniature walking robots during the NVIDIA GTC Berlin ...
+
+📺 DPCcars
+
+👁️ 25K • 👍 107 • 💬 10 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -240,7 +262,7 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 RuntimeBRT
 
-👁️ 310K • 👍 12K • 💬 342 • ⏱️ 2:55 • 4d ago
+👁️ 316K • 👍 12K • 💬 350 • ⏱️ 2:55 • 5d ago
 
 ---
 
@@ -250,7 +272,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 1.3M • 👍 10K • 💬 1K • ⏱️ 4:06 • 2d ago
+👁️ 1.4M • 👍 10K • 💬 1K • ⏱️ 4:06 • 2d ago
 
 ---
 
@@ -260,27 +282,7 @@ A Chinese robotics company is showing off a humanoid robot built for more than j
 
 📺 WPLG Local 10
 
-👁️ 71K • 👍 53 • 💬 17 • ⏱️ 1:01 • 2d ago
-
----
-
-**[ROBOTICS PROFESSOR: &quot;AI Is Becoming Self-Aware! Here’s the Biggest Danger!&quot;](https://www.youtube.com/watch?v=bBQ9CCq4psw)**
-
-Is “AI will destroy humanity” a real risk, or a story we tell ourselves because we haven't done the hard engineering? This episode ...
-
-📺 The Beyond Tomorrow Podcast with Julian Issa
-
-👁️ 26K • 👍 133 • 💬 58 • ⏱️ 1:21:36 • 1d ago
-
----
-
-**[Why China Is Racing to Build the Ultimate Robotic Hand](https://www.youtube.com/watch?v=-6jpvJo-eK4)**
-
-The hand is one of the most complex parts of the humanoid robot puzzle. China is making a big bet on it by pouring money and ...
-
-📺 Bloomberg Television
-
-👁️ 109K • 👍 508 • 💬 53 • ⏱️ 5:02 • 6d ago
+👁️ 72K • 👍 54 • 💬 17 • ⏱️ 1:01 • 2d ago
 
 ---
 

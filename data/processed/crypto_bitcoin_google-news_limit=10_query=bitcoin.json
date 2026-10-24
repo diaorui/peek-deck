@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkxCUm5VMmc3LUtHeDlxOHJfUjVTVjJnV043VlgyUlhZQkxnbTlpRmxGdkxkcGxCeFVPWVlVQW1CQ1Q1aWJwNTVBNWlfWnl1X2psUUU0Y1hJQkpJb292UzlxRVNFRnZUVkF3b1Q1SkljYkxLbjJFcTZUS3dfdkUzRS1ObWZCX2FJUENaMVljUGpUU3FDVk5mdV9kMXhyNVE1bTc5LXcwbll2WERUZEFF?oc=5",
       "pub_date": 1792750500.0,
@@ -25,14 +25,44 @@
       "description": "Believing in a Bitcoin supercycle doesn't really change how to invest in it."
     },
     {
-      "headline": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
+      "headline": "BlackRock (BLK) Stock Could Be 11% Undervalued Following Bitcoin ETF Filing",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTFhWTRpZER2Wmdja0JpdnpJUXdkZk9TS05pWUdZclZ5OXp6SjJPOHFuN2JGRkJyYVR1NEt4Z0NDN3VIUDhIVzVfcmxrVGozaVFTcHVrRE90emlab2Rjc0pnUW5VM3RzZkVBOGlYdnBnVjQ3WHZramtDWEJLTzZWdV9DSjF0RDhrczRaUDJZTjViQWxz?oc=5",
-      "pub_date": 1792820714.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-eyes-84-000-whale-054514426.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Investing.com -- Bitcoin traded under $81,000 as large-holder withdrawals and institutional wallet activity raised hopes of a recovery towards $84,000, despite continued uncertainty across cryptocurrency markets."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRC1Sc0kzdWNKNUUtcEZ5NURRRnpDUmdhT1pEelhMb1c5N1dSdDl5TF9ONzVMdlJZVVBFVDZwMmZTcndlNzZkSVNpLUdEa2pMMWJVeW5TVjF0QmZEdnFfRU80Y1N6blNtd3ZmSWRESXduN1E1RjhKS3NjcDZGN0k1UmNWcnhXRU1MNS1CSGVwRDY0N3JkYXZHcQ?oc=5",
+      "pub_date": 1792840284.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-stock-could-11-111124099.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fc474cd4afffdf5b2998deed0e9ab717949f743e1fd5f5278c6840724eb7b842/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F28913528e68a7e0dfd1db2c1ad24010e.jpg",
+      "description": "BlackRock has seen its stock deliver a powerful run over the past few years, which naturally puts a spotlight on whether the current valuation is really backed by the returns the business earns on its capital. With the asset manager pushing deeper into areas like bitcoin-linked products, AI infrastructure financing and tokenized funds, the question now is how much of that ambition is already priced in. Over the past 3 years the share price has gained about 99.9%, so a lot of future..."
+    },
+    {
+      "headline": "Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkUwU1JWR212NHV1M0loaUpEcnloQmJnVGlvWTV6MUxwR3VFdEFlcGVvOVFIelR4cXlBLUt5c2xlaFp6N1Z3WDVILWdzYVhteXpxN3lydUJvV0pXZjJpZklIaU1ZZGlUM2Iwd2FyMUExQzVzWEV3SFZ2ODFydHBpWXFfY2xUQ1BvbktlTkFya19jZ2lqNkhIaW9obW80R0ND?oc=5",
+      "pub_date": 1792839945.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fed0166f58de181cb13e610cb1d6cee1fd3b240a29583836500db3f7b75da20c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F9b676078c49342e432b19d554fd270d0.jpg",
+      "description": "Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds."
+    },
+    {
+      "headline": "What Happened to Uptober? Bitcoin May Be Down in October, But Here Are 3 Reasons to Remain Bullish on BTC.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlVxTVlUTjRqR3Nha3o3MS1lN25xRjE1Yl9LRmU1UXQ1dHlIV1BkanNmYUJ2WXlDWHNIdmtTS1lWeUdUTkkyNzFhZkUzS29KZnlMaHRmbm85a0ZXWFp5VGxqTzg4QWtUdTU3OUNUZVF4MUZfM3JjSW4xNVFCNTVOeG8zdkR1OEYtZkd1LTd0QVoyZ3FVN2ExQXlBek5kbjA?oc=5",
+      "pub_date": 1792837920.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/happened-uptober-bitcoin-may-down-103200556.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b30ea02fa2d856bc7002207532ed370d71554d142b10af8da76f78513a68463c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff2e5348b1ee345eb735c98b6e9d0d22e.jpg",
+      "description": "October is usually a decent month for Bitcoin, but it hasn't been this time around."
+    },
+    {
+      "headline": "Bitcoin falls below $82,000 as investors retreat from risk assets",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPam5kUWdfeENfMk9RcThZWmI4UXdDaExlR2tQSjlhVW9pSmxmZ0pNNFF3Z29yQ1o4UmQ4V1dyV0VyWEFJbWdkemxZbXdzMDRkMFFWSWdrOVpVYWk0b1J0Wl9SWWRWYV9DZUdMVXNiYkVMbDlCa1hsSjFlakJPYlFaOHNWelQxbG5hLTZqSzJEVXM0VW1Vc0s1VktXNTJ4ODAyTXNPY1VUdWt4M0FSc1lIblh2bUFRMjdRLUxHUA?oc=5",
+      "pub_date": 1792683102.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/967a2cec5781f20133492c9f1489aeea5936b18b4ec546f23f2f5c1c1a9a1b4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F5af990f5-2039-43b2-ae63-efbaedae4239",
+      "description": "Bitcoin fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions."
     },
     {
       "headline": "Bitcoin (BTC) price recovers to $81,700 as memecoins lead altcoin rebound",
@@ -45,44 +75,14 @@
       "description": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%, with pepe up 13%."
     },
     {
-      "headline": "Bitcoin Breaches $82,000 in Biggest Decline in Over a Month",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg5MlR0cUtacXN1aGtzX2FxMFdqYkhhSGNPQnhkZHNLb0FqSVNuQS1FdHViQi0xcVlpeUhHUFpYRHM5YUkxVWtfV1ZkTExvbUhDMm52eVFJYldwQ1hFUWNNeXVWVU8zcFJIWkZ4RTV1S3BTUEVNS0htMjVUaFU3cHNoUzZYSk4tWmJLSERYUm5kaElhdnBfQ1BSTFIwNHJWcXU0a3FBXy1nZDd6X2U4?oc=5",
-      "pub_date": 1792698439.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Current price of Bitcoin for October 23, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4blhzWGdOeXlGSUFHRG0ybXQ3UGlPUk9POVpMU201ajcxTmltaDBrOU5RQ0daSkhRY2NxdERCUG9ZTFZPY3J5SGd5X1NoU09CSWNDbzlobkhVS2V2RVV3UGc5d1ExMkU?oc=5",
-      "pub_date": 1792763909.0,
+      "pub_date": 1792762388.0,
       "article_url": "https://fortune.com/article/price-of-bitcoin-10-23-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-23.jpg?resize=1200,600",
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTlaVVRSa0plR0ZjQkk5am1ReDkyS25leVdEcEhfRGF5amdldmF2ZWgxaGZ2ejJNc0pEZGVsOFJrWmFLN0JDVmRMOFN5OHlrWXlQRkdlMmZWeHVwdkNTRVpIbzB0bkRNS3FlaVdtdUJzN29iaHR6Ynp4RUZ5QWVTT3VaRGNpUk1LblZBM0hOU3RzMXdtTnpyTUx0UUhMNWFKd2RlaEc5dFR0VENhbXdDSTNTZ1k4T3ZWejVBMDBaTXd3bC1IY1V6WQ?oc=5",
-      "pub_date": 1792764002.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9655eada3129b642b283dac1319e070000a740b5-6960x4640.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets."
-    },
-    {
-      "headline": "Would you take out a mortgage backed by bitcoin?",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0tFVGl1YkJMN3E4VFVEX3IyY1NkeC05NmZqbHBuY01iNGw4UTExcUQ4Yjc2QnAwcUF4dVZCZ3prNUg0dld2TVVkcnFyR0dOZGNpLTRUR0ZOZ0xYMFpxaFBtaElzUndQdHRJWnp2TTY3bnVCWHBBTGpxZWlGRHFLUjhYX3g?oc=5",
-      "pub_date": 1792681203.0,
-      "article_url": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
     },
     {
       "headline": "2 employees hospitalized after fire at Georgia Bitcoin center",
@@ -95,16 +95,16 @@
       "description": "Both injured employees were airlifted to the Augusta Burn Unit."
     },
     {
-      "headline": "Heatbit unveils Bitwater, a water heater that mines Bitcoin",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEhCYWpIcWlHdXd3dXh0Q1V0TTh4N0c5S3JON053OXhYWEJOZUtJZHZ0LUpjaEJLcjF0ZWtHZlRmTUxCdDRxaElWVkQ4TEtTOUlRczZvUGR0eUlkWXdIUC1aSlJraXhwc2tLT244TGRZUnN1cktGRDRqZ2Z2b0lGYWJsUmtiLVNTcWh3YjU0M2EzRjRPdFZPWnM4dWNZT251UWJxaFpyZEFxTXdNOEZZVXNhaldSNU1WRGFmTFJ5OHA?oc=5",
-      "pub_date": 1792687342.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:150be6ecb094b:0-heatbit-unveils-bitwater-a-water-heater-that-mines-bitcoin/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the\u2026"
+      "headline": "Would you take out a mortgage backed by bitcoin?",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0tFVGl1YkJMN3E4VFVEX3IyY1NkeC05NmZqbHBuY01iNGw4UTExcUQ4Yjc2QnAwcUF4dVZCZ3prNUg0dld2TVVkcnFyR0dOZGNpLTRUR0ZOZ0xYMFpxaFBtaElzUndQdHRJWnp2TTY3bnVCWHBBTGpxZWlGRHFLUjhYX3g?oc=5",
+      "pub_date": 1792681203.0,
+      "article_url": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T06:55:38.205839+00:00"
+  "fetched_at": "2026-10-24T11:52:27.812575+00:00"
 }
