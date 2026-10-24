@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-24T01:49:38.698667+00:00'
+updated: '2026-10-24T06:55:47.135337+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 01:49 UTC  
+**Last Updated:** October 24, 2026 at 06:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,022.95
+### $80,715.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.5%  
-**30d:** -3.8%  
-**90d:** +26.8%  
-**1y:** -27.6%  
+**24h:** -1.0%  
+**7d:** -1.6%  
+**30d:** -4.0%  
+**90d:** +26.7%  
+**1y:** -27.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1624.18B
+**Market Cap:** $1622.08B
 Rank #1
 
-**Circulating Supply:** 20,102,653 BTC
+**Circulating Supply:** 20,102,671 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.9%
+-36.0%
 
 **All-Time Low:** $67.81
-+119049.1%
++118894.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 50
+### 51
 **NEUTRAL**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not one government currency has preserved its purchasing power over the past decade.](https://www.reddit.com/r/Bitcoin/comments/1xde1vw/not_one_government_currency_has_preserved_its/)**
 
-12h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The McRib Rally Is Back The McRib Rally Is Back
 
-13h ago
+18h ago
 
 ---
 
@@ -95,7 +95,7 @@ The McRib Rally Is Back The McRib Rally Is Back
 
 Available in every Swiss post office
 
-12h ago
+17h ago
 
 ---
 
@@ -103,13 +103,13 @@ Available in every Swiss post office
 
 sheeesh lol
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 11h ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 16h ago
 
 ---
 
 **[Which one of you is it?](https://www.reddit.com/r/Bitcoin/comments/1xdcilp/which_one_of_you_is_it/)**
 
-13h ago
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ sheeesh lol
 
 Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin. Same watts, double duty. The Avalon Mini 3 is a perfect space heater. ✌🏻
 
-16h ago
+21h ago
 
 ---
 
@@ -129,13 +129,13 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[HODL onto your sats y'all](https://www.reddit.com/r/Bitcoin/comments/1xd4y95/hodl_onto_your_sats_yall/)**
 
-20h ago
+1d ago
 
 ---
 
 **[Touching grass will set you free from bitcoin 🍃](https://www.reddit.com/r/Bitcoin/comments/1xd3rzi/touching_grass_will_set_you_free_from_bitcoin/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 My father works as an engraver of medals. Some time ago, he was commissioned to engrave a medal for a woman whose son had passed away—the woman was a foreigner, incidentally. The medal had to feature a specific logo, which the woman explained to my father was "Bitcoin" (though he doesn’t recall the details very clearly, as it was quite a long time ago). Recently, he came across the logo and showed it to me. We aren’t certain exactly when this request was made, but it was definitely between 10 and 20 years ago. Could this be one of the earliest versions of the Bitcoin logo? And is it possible that the woman’s son was one of the creators of Bitcoin, or someone who played a significant role in its development?
 
-9h ago
+14h ago
 
 ---
 
@@ -153,7 +153,67 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 **[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 20h ago
+
+---
+
+**[This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.](https://www.fool.com/investing/2026/10/23/this-top-investment-strategist-thinks-a-bitcoin-su/)**
+
+Believing in a Bitcoin supercycle doesn't really change how to invest in it.
+
+The Motley Fool • 23h ago
+
+---
+
+**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eyes-84-000-whale-054514426.html)**
+
+Investing.com -- Bitcoin traded under $81,000 as large-holder withdrawals and institutional wallet activity raised hopes of a recovery towards $84,000, despite continued uncertainty across cryptocurrency markets.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin (BTC) price recovers to $81,700 as memecoins lead altcoin rebound](https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13)**
+
+Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%, with pepe up 13%.
+
+CoinDesk • 20h ago
+
+---
+
+**[Bitcoin Breaches $82,000 in Biggest Decline in Over a Month](https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Current price of Bitcoin for October 23, 2026](https://fortune.com/article/price-of-bitcoin-10-23-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 16h ago
+
+---
+
+**[Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports](https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports)**
+
+The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.
+
+CoinDesk • 16h ago
+
+---
+
+**[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
+
+Financial Times • 1d ago
+
+---
+
+**[2 employees hospitalized after fire at Georgia Bitcoin center](https://www.wsbtv.com/news/georgia/2-employees-hospitalized-after-fire-georgia-bitcoin-center/3SG4I6MWXVBD7NVT54NDXFNAFU/)**
+
+Both injured employees were airlifted to the Augusta Burn Unit.
+
+WSB-TV • 15h ago
 
 ---
 
@@ -162,68 +222,6 @@ Bloomberg.com • 15h ago
 Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the…
 
 TradingView • 1d ago
-
----
-
-**[Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-usually-bottoms-midterm-elections-000053376.html)**
-
-For three straight election cycles, Bitcoin found its floor within weeks of midterm voting. This year the pattern shattered, but whether that means the worst is already over or a deeper drop still looms depends on one critical price level.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Cash vs Litecoin: Which Payment Coin Has More Upside in 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-cash-vs-litecoin-payment-234025815.html)**
-
-CME futures launched, ETF filings hit the SEC, and two rival payment coins are pulling in opposite directions heading into year-end. One of them just made a 46% move in a single week, and the other can barely attract a dollar of ETF inflows.
-
-Yahoo Finance • 2h ago
-
----
-
-**['Cash Is A Melting Ice Cube,' Says Industry Executive as Bitcoin Adoption Poised to Surge](https://finance.yahoo.com/markets/crypto/articles/cash-melting-ice-cube-says-223024969.html)**
-
-Bitcoin could attract growing corporate demand as Bitcoin for Corporations co-founder Alan Helm urges companies to diversify their cash reserves.Why Should Companies Allocate to Bitcoin?In an interview with Bitcoin Magazine on Wednesday, Helm said institutional conversations around Bitcoin have shifted...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports](https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports)**
-
-The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.
-
-CoinDesk • 11h ago
-
----
-
-**[Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs](https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs)**
-
-Brent crude oil surged above $116 per barrel for the first time since late April.
-
-CoinDesk • 14h ago
-
----
-
-**[Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
-
-Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
-
-CoinDesk • 1d ago
-
----
-
-**[Current price of Bitcoin for October 23, 2026](https://fortune.com/article/price-of-bitcoin-10-23-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 12h ago
-
----
-
-**[Bitcoin data center fire seriously injures two people in Treutlen County, EMA director says](https://www.13wmaz.com/article/news/local/fire-at-data-center-injures-2-people-treutlen-county-ema/93-d5f53f6c-3eb9-4803-ace8-240a3360cb0e)**
-
-13WMAZ • 1d ago
 
 ---
 
@@ -255,9 +253,25 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ---
 
+**[OpenAI trims valuation target to $1.25T after pitching higher price](https://news.ycombinator.com/item?id=50209513)**
+
+⬆️ 6 • 💬 0 • 16h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[Insane Conspiracy Theory To Crash The Banking System Exposed!! Got Bitcoin?](https://www.youtube.com/watch?v=LoyGJbV-5Xc)**
+
+Chamath says AI and quantum computing will hack Bitcoin and send it to zero. Dante breaks down why cryptographers like Dan ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 89 • ⏱️ 20:55 • 8h ago
+
+---
 
 **[AI Is Breaking Into Everything! Is This the End of Bitcoin?](https://www.youtube.com/watch?v=Q5chQKSOirc)**
 
@@ -265,27 +279,27 @@ Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cr
 
 📺 Simply Bitcoin
 
-👁️ 57K • 👍 2K • 💬 228 • ⏱️ 18:14 • 1d ago
+👁️ 58K • 👍 2K • 💬 232 • ⏱️ 18:14 • 1d ago
 
 ---
 
-**[Bitcoin Is About To Explode (JPMorgan Says $215,000)](https://www.youtube.com/watch?v=qcjm3S_UrTA)**
+**[Bitcoin Could Have a BULLISH Weekend... But There&#39;s a Catch!](https://www.youtube.com/watch?v=jIhApqRJbXo)**
 
-Sign up for my FREE newsletter → https://www.joeconsorti.com/home#newsletter Join The Hard Money Room ...
+Bitcoin is sitting at a critical decision point and the whole crypto market is watching one key level: 82.5K. If Bitcoin breaks above it, ...
 
-📺 Joe Consorti
+📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 207 • ⏱️ 18:33 • 2d ago
+👁️ 13K • 👍 349 • 💬 7 • ⏱️ 1:34:48 • 14h ago
 
 ---
 
-**[Bitcoin Keeps Knocking On This Level. Here’s What Happens If It Breaks.](https://www.youtube.com/watch?v=ev6mEKNHGA8)**
+**[Bitcoin Hovers Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
 
-Bitcoin keeps knocking on the same support level. Here's the line in the sand for Bitcoin, Ethereum, Solana, Dogecoin and BNB, ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Verified Investing
+📺 Benjamin Cowen
 
-👁️ 11K • 👍 277 • 💬 6 • ⏱️ 9:34 • 1d ago
+👁️ 131K • 👍 4K • 💬 192 • ⏱️ 6:07 • 2d ago
 
 ---
 
@@ -295,7 +309,7 @@ Tech stocks dump and Bitcoin follows. Here are the exact downside targets to wat
 
 📺 Verified Investing
 
-👁️ 6K • 👍 168 • 💬 22 • ⏱️ 16:55 • 1d ago
+👁️ 6K • 👍 170 • 💬 22 • ⏱️ 16:55 • 1d ago
 
 ---
 
@@ -305,27 +319,7 @@ JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 223 • ⏱️ 20:40 • 2d ago
-
----
-
-**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 119K • 👍 4K • 💬 157 • ⏱️ 10:31 • 1d ago
-
----
-
-**[Do NOT Watch This Bitcoin Price Video With Your Door Unlocked](https://www.youtube.com/watch?v=MS0AS4T7QX8)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 16K • 👍 435 • 💬 122 • ⏱️ 6:57 • 7h ago
+👁️ 45K • 👍 2K • 💬 223 • ⏱️ 20:40 • 2d ago
 
 ---
 
@@ -335,27 +329,37 @@ Fidelity Digital Assets just published a paper calling bitcoin perpetual preferr
 
 📺 Betirement
 
-👁️ 17K • 👍 590 • 💬 170 • ⏱️ 15:56 • 1d ago
+👁️ 18K • 👍 600 • 💬 172 • ⏱️ 15:56 • 1d ago
 
 ---
 
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
+**[$500,000 Bitcoin BUY SIGNAL - The Chart Behind 5,000% Gains Just Flashed AGAIN](https://www.youtube.com/watch?v=IrPwPctnXvQ)**
 
-Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Crypto Nutshell
+📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 77 • 💬 41 • ⏱️ 20:11 • 9h ago
+👁️ 6K • 👍 248 • 💬 104 • ⏱️ 14:29 • 2d ago
 
 ---
 
-**[The Truth About Strive’s New Bitcoin Play. How Will Strategy Respond?](https://www.youtube.com/watch?v=K5HMYfoQbIE)**
+**[Bitcoin: The Final Crash? 🚨](https://www.youtube.com/watch?v=yoAu6TuS7LQ)**
 
-MSTR stock is still the giant, but the fastest bitcoin strategy since July belongs to a stack 23 times smaller. If you own MicroStrategy ...
+This is all about Big news for all Bitcoin, Ethereum, Solana and Altcoin investors. 0:00 - Intro 0:45 - Price Action 5:38 - Seasonality ...
 
-📺 Dana Love, PhD
+📺 Investing Made Simple
 
-👁️ 19K • 👍 498 • 💬 48 • ⏱️ 22:54 • 1d ago
+👁️ 16K • 👍 650 • ⏱️ 12:12 • 1d ago
+
+---
+
+**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
+
+Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
+
+📺 Yahoo Finance
+
+👁️ 41K • 👍 672 • 💬 200 • ⏱️ 14:53 • 1d ago
 
 ---
 
