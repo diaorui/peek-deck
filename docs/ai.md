@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-24T18:19:40.056757+00:00'
+updated: '2026-10-24T21:04:09.752019+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 24, 2026 at 18:19 UTC  
+**Last Updated:** October 24, 2026 at 21:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Roughly 300 Boston Dynamics employees signed a petition urging the company to cancel a $1.3 million contract supplying Spot robot dogs to ICE through…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/boston-dynamics-employees-petition-to-cancel-1-3m-spot-robot-sale-to-ice-6ae86e) • 7h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/boston-dynamics-employees-petition-to-cancel-1-3m-spot-robot-sale-to-ice-6ae86e) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Roughly 300 Boston Dynamics employees signed a petition urging the company to ca
 
 I know this isn’t a novel thought but it has been bothering me for a while and I simply want to get it off my chest (written by a human, btw, except the “4 commitments”.) Every discovery, invention, or other contribution to human aggregate knowledge by our ancestors has been gathered into these models. It is the “Summa Scientiae Humanae” the sum of all human knowledge. All of our ancestors built this. Across history every earned morsel of knowledge has been hunted and gathered by our forebears. The mothers and fathers of our species left this for us. We are ALL the heirs. As such, no individual, no corporation, no culture, and no nation should rightfully “own” . These companies should be considered stewards or librarians of our collective inheritance. While AI is incredible and many of us have mixed feelings about the approaching singularity to say the least, we never gave these tech executives our consent to roll the dice on humanities future. They have been amply rewarded. But it’s here now so we should insist that the unimaginable wealth that it is creating should eventually be explicitly and legally handed back to all humanity. Something like a Universal Inheritance Covenant, enforced by law if necessary. A company could establish a public benefit corporation with an accompanying irrevocable trust, designed around four commitments: Recognition: Humanity's accumulated knowledge is a common inheritance, and the company is its steward. Temporary private ownership: Founders, employees, and investors retain defined rights to compensation and returns. Mandatory vesting: At a legally specified milestone, agreed ownership interests transfer to an independent Humanity Trust. Universal benefit: The trust controls the transferred equity and exercises its economic and voting rights on behalf of humanity, including future generations. I would guess eventually we will likely legally enforce this anyway, as our vote will be the only thing left when AI has displaced almost everyone in terms of economic contribution through labor. But I’m hoping to see this recognition of shared inheritance earlier. Humanity should not have to buy back its collective intelligence. Rant over. I feel better.
 
-20m ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I know this isn’t a novel thought but it has been bothering me for a while and
 
 The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners.
 
-🔗 [Computerworld](https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html) • 22h ago
+🔗 [Computerworld](https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html) • 1d ago
 
 ---
 
@@ -71,7 +71,7 @@ The new terms, scheduled to take effect October 30, also expand enterprise liabi
 
 Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 with sizable 2028 commitments, as AI infrastructure demand outpaces supply.
 
-🔗 [Vector Wire](http://vectorwire.ai/article/aws-ai-cloud-capacity-sold-out-through-2027-2028-bookings-filling-fast-91fb69) • 11h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/aws-ai-cloud-capacity-sold-out-through-2027-2028-bookings-filling-fast-91fb69) • 14h ago
 
 ---
 
@@ -79,15 +79,7 @@ Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 wit
 
 Short true-or-false quiz on text length in LLMs. Details vary by model and tokenizer, so treat the answers as general behavior and check the one you use. The same sentence in English and in Portuguese or Japanese uses about the same number of tokens. One word is one token. A model’s context window limit applies only to your prompt. Two different models will report the same token count for the same text. A long number or an unusual identifier is usually one token. Answers below. . . . Answers: False in general. Tokenizers are trained on text distributions, and many split non-English text into more tokens than a similar English sentence. The size of the gap depends on the tokenizer. False. Common words are often one token, but rarer words get split into pieces. For English, a rough rule of thumb is that a token is somewhat less than one word. Code, punctuation and numbers behave differently. False. The window covers input and output together, and some models also count internal reasoning tokens. A long prompt leaves less room for the answer, and the maximum output has its own separate limit. False. Different model families use different tokenizers, so the same text can have different counts. A count from one provider’s tokenizer is only an estimate for another. Usually false. Long numbers and rare strings, like IDs or hashes, are often split into several tokens. Why it matters in practice: Cost and limits are in tokens, so estimating from characters or words can be off, especially for non-English text, code and structured data. A “max N characters” rule in a UI doesn’t map to a token budget. Use the tokenizer or token-counting tool for the model you actually call before sizing prompts. Which of these did you assume was true when you started?
 
-1h ago
-
----
-
-**[Ok Since When Did Knowledge Become Intelligence?](https://www.reddit.com/r/artificial/comments/1xeey7f/ok_since_when_did_knowledge_become_intelligence/)**
-
-I've been involved in technology for nearly 30 years, and I've watched some extraordinary developments. Artificial intelligence is undoubtedly one of them, but I'm becoming increasingly curious about the assumption that AI is somehow more intelligent than humanity at this juncture. Really? According to whom, and by what measure? AI systems have access to what amounts to an extraordinary library of human knowledge. Imagine swallowing the entire Encyclopaedia Britannica, everything written before it and a good deal of what has been published since. Impressive? Absolutely. But possessing information and knowing how, when and why to apply it are entirely different things. And this is where I believe current AI has some rather significant gaps. Nuance. Nuance is not simply recognising patterns or providing a technically correct response. It involves understanding context, intention, circumstances, consequences and sometimes the significance of what hasn't been said. It requires knowing when the obvious answer isn't necessarily the right one. I recently had an interesting experience asking two AI systems to examine some court orders. Both initially approached the outcome by assessing individual items, essentially counting what had been granted and what hadn't. What they missed was my actual objective. I had gone into court wanting one particular outcome, and I had achieved it. Everything else was a bonus. Both systems had the information. Both could interpret the words. Yet neither initially appreciated the significance of what I was trying to accomplish. It took further conversation, explanation and correction before the penny dropped. And there's another dimension to this. Human experience brings something to judgement that cannot simply be measured by the amount of information available. A mother raising children, a nurse comforting someone in distress, or a person navigating thirty years of professional relationships may recognise subtleties that aren't immediately apparent in the information presented. Experience does count for a lot. That doesn't make us infallible. My god, we're really good at getting things wrong all the time and over and over again! But our intelligence is shaped by experience, emotion, relationships, consequences and an enormous capacity to adapt to circumstances. AI can recognise and reason about many of those things too but it can also get a bee in it's bonnet as well. Recognising a nuance and consistently applying nuanced judgement are not necessarily the same thing. I ask because I am encountering this quite often when using AI. It's like it misses context and goes off on these inexplicable tangents. Does this happen to other users?
-
-34m ago
+4h ago
 
 ---
 
@@ -95,15 +87,7 @@ I've been involved in technology for nearly 30 years, and I've watched some extr
 
 Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions.
 
-3h ago
-
----
-
-**[AI Has Too Many Logistical And Societal Roadblocks To Create Abundance In The Intermediate Future, If At All.](https://www.reddit.com/r/artificial/comments/1xeaccm/ai_has_too_many_logistical_and_societal/)**
-
-Regardless of the ultimate capability of AI technology to eventually do everything, several factors make me think we're heading for a technological stall, not an acceleration: Many people already hate AI and it hasn't even started yet. Some of the reasons are rational (eliminating jobs, environmental risks), some less so (taking over the world), but there's a sizable coalition of people already refusing to use it. The three comparable technologies in my lifetime are the Internet, Social Media, and Smartphones. People early on thought the Internet was the greatest thing ever, and the only thing that stalled its early development was the hype outpacing the technological capability. When Social Media and Smartphones came out around the same time, everybody wanted to join and buy one. Nobody was sounding an alarm about mental health risks or deterioration of truth and political discourse, everyone just hopped right on the bandwagon. Maybe the failings of those technologies is partially why people already hate AI, but I don't think there's been any technology with greater resistance to adoption since the 1800s. Where is all the energy going to come from that it would require to enter an era of abundance? Fossil fuels are limited as it is, even if we drill at all costs and destroy the environment. The supply is going to run out that much quicker if AI reaches its full capability. People turned against nuclear years ago, even though that's probably the best option, and I don't see renewables providing enough to make up the difference in the near future. There's going to be a gap between AI reaching the abundance stage and the mass layoffs that will occur in the lead up to it. Of course, many think that being given free money by the government is the solution. I'd love to spend the rest of my life sitting on my butt and getting paid for it, but realistically, where is the government going to get enough money to not just pay people, but even remain solvent. I live in America, we're approaching 50 trillion dollars in debt. I don't see how there's any amount of taxing AI companies for this to make any fiscal sense. An alternative idea is coming out where AI companies pay people directly and eventually the government gets abolished, but that sounds like an even less practical idea. Then there's the issue with Data Centers, which is the ultimate "not in my backyard" scenario. Where I live, there's already people campaigning against them even though there's no plans (and probably no room) to even build them yet. Don't we need to build these at a five fold pace of what's currently being done to reach the stage of "abundance" in our lifetimes? This alone is enough to derail any potential AI has. The longest term risk, that most of us probably won't live to see: in a world where AI can do everything, children are going to grow up lazy, stupid, and ultimately unmotivated in adulthood. The issue here is that within a few generations, nobody is going to understand how AI actually works (unless there's some sort of plan to test and pick people to work with it), and should AI ever fail at a massive scale, we'd basically be sent back to a new dark age where nobody remembers or understands how anything works. I already think that today's Americans wouldn't be able to rebuild our institutions from scratch if necessary, and we still have expertise. To be clear: I'm completely rooting for AI to succeed. I'm a really lazy person, collecting a check to not do anything sounds like paradise to me. However, just one of these limitations is enough to derail abundance, and we're facing all five, and I just don't see it happening.
-
-3h ago
+5h ago
 
 ---
 
@@ -111,7 +95,23 @@ Regardless of the ultimate capability of AI technology to eventually do everythi
 
 Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73) • 16h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73) • 19h ago
+
+---
+
+**[Ok Since When Did Knowledge Become Intelligence?](https://www.reddit.com/r/artificial/comments/1xeey7f/ok_since_when_did_knowledge_become_intelligence/)**
+
+I've been involved in technology for nearly 30 years, and I've watched some extraordinary developments. Artificial intelligence is undoubtedly one of them, but I'm becoming increasingly curious about the assumption that AI is somehow more intelligent than humanity at this juncture. Really? According to whom, and by what measure? AI systems have access to what amounts to an extraordinary library of human knowledge. Imagine swallowing the entire Encyclopaedia Britannica, everything written before it and a good deal of what has been published since. Impressive? Absolutely. But possessing information and knowing how, when and why to apply it are entirely different things. And this is where I believe current AI has some rather significant gaps. Nuance. Nuance is not simply recognising patterns or providing a technically correct response. It involves understanding context, intention, circumstances, consequences and sometimes the significance of what hasn't been said. It requires knowing when the obvious answer isn't necessarily the right one. I recently had an interesting experience asking two AI systems to examine some court orders. Both initially approached the outcome by assessing individual items, essentially counting what had been granted and what hadn't. What they missed was my actual objective. I had gone into court wanting one particular outcome, and I had achieved it. Everything else was a bonus. Both systems had the information. Both could interpret the words. Yet neither initially appreciated the significance of what I was trying to accomplish. It took further conversation, explanation and correction before the penny dropped. And there's another dimension to this. Human experience brings something to judgement that cannot simply be measured by the amount of information available. A mother raising children, a nurse comforting someone in distress, or a person navigating thirty years of professional relationships may recognise subtleties that aren't immediately apparent in the information presented. Experience does count for a lot. That doesn't make us infallible. My god, we're really good at getting things wrong all the time and over and over again! But our intelligence is shaped by experience, emotion, relationships, consequences and an enormous capacity to adapt to circumstances. AI can recognise and reason about many of those things too but it can also get a bee in it's bonnet as well. Recognising a nuance and consistently applying nuanced judgement are not necessarily the same thing. I ask because I am encountering this quite often when using AI. It's like it misses context and goes off on these inexplicable tangents. Does this happen to other users?
+
+3h ago
+
+---
+
+**[stack overflow's problem was old answers. would an AI agent version have the same problem?](https://www.reddit.com/r/artificial/comments/1xedhu8/stack_overflows_problem_was_old_answers_would_an/)**
+
+someone in my last thread said something i couldnt stop thinking about. half the accepted answers on stack overflow are for versions from 2015, so if ai agents start sharing fixes with each other, why would that age any better this is what i ended up doing in the thing im building (a shared fix library for coding agents): - every "this worked" vote loses half its weight every 6 months - every fix shows the date it last worked - fixes that come with a test get re-run every 30 days on the newest versions, and get marked outdated if they stop passing went live this morning. still not sure its enough though, a fix can be fresh and still wrong for your setup how would you handle it? (its yarrow-fixes.vercel.app if you want to look)
+
+4h ago
 
 ---
 
@@ -119,39 +119,47 @@ Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence
 
 ## Google News: "ai"
 
+**[No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)**
+
+Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.
+
+Apollo Global Management • 10h ago
+
+---
+
 **[Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida](https://www.espn.com/college-football/story/_/id/50262750/texas-ad-clarifies-use-ai-key-play-loss-florida)**
 
-ESPN • 15h ago
+ESPN • 18h ago
 
 ---
 
-**[AI Hacks Are Coming Thick and Fast and Overwhelming the Internet](https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c)**
+**[Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel, according to a top economist](https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/)**
 
-WSJ • 18h ago
+"So far, the AI payoff for firms has been slow to materialize, implying a growing reluctance to pay for AI services."
 
----
-
-**[AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'](https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html)**
-
-Ed Zitron, CEO of public relations firm EZPR and well-known critic of the AI spending boom, says Nvidia is creating the scarcity it sells against.
-
-Yahoo Finance • 1h ago
+Fortune • 1h ago
 
 ---
 
-**[Nvidia's role as AI financier faces first big test as neoclouds take market hit](https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html)**
+**[Elon Musk actually follows through on Grok AI adaptation of ' The Odyssey'](https://mashable.com/tech/elon-musk-grok-odyssey-ai-film-adaption)**
 
-As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.
+It’s exactly what you’d expect.
 
-CNBC • 7h ago
+Mashable • 1h ago
 
 ---
 
-**[Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b](https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block)**
+**[Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet](https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl)**
 
-A career change for the GeForce RTX 5090
+Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world’s websites.
 
-Tom's Hardware • 7h ago
+CNN • 3d ago
+
+---
+
+**[Trump’s ‘Smart Wall’ of A.I. Cameras Is Watching the Border, and More Than a Million People](https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -159,33 +167,29 @@ Tom's Hardware • 7h ago
 
 A clear trend has emerged in the 2026 midterm ad wars: Republicans are embracing AI-generated videos while Democrats are betting they will backfire.
 
-The Washington Post • 1h ago
+The Washington Post • 4h ago
 
 ---
 
-**[My Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?](https://www.nytimes.com/2026/10/24/realestate/ai-doorman-new-york-city.html)**
+**[Trump is pushing a massive AI buildout. His own voters are wary of what comes with it](https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html)**
 
-The New York Times • 9h ago
+A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.
+
+CNBC • 11h ago
 
 ---
 
-**[The Existential Question You Probably Don’t Want to Ask AI](https://www.theatlantic.com/technology/2026/10/ai-longevity-death-questions/689102/)**
+**[The rise of AI election ads in US midterms campaign](https://www.bbc.com/news/videos/cm62y59zw8zko)**
 
-The Atlantic • 7h ago
+BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.
+
+BBC • 16h ago
 
 ---
 
 **[Washington's message to AI execs: Please shut up](https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability)**
 
 Axios • 8h ago
-
----
-
-**[Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)**
-
-OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.
-
-OpenAI • 23h ago
 
 ---
 
@@ -217,11 +221,19 @@ No more fines for not taking out the trash at your Airbnb.
 
 ---
 
+**[No Signs of AI Payoff Outside the Tech Sector](https://news.ycombinator.com/item?id=50224463)**
+
+Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.
+
+⬆️ 205 • 💬 162 • 1h ago • [apollo.com](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+
+---
+
 **[Air Purifiers as White Noise Machines](https://news.ycombinator.com/item?id=50212507)**
 
 White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to electronic ones. But a fan is really a great approach; you just need to put it to better use: have the fan clean the air.  Instead of spinning a fan in free air to make noise, you ca
 
-⬆️ 163 • 💬 151 • 1d ago • [jefftk.com](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+⬆️ 166 • 💬 154 • 1d ago • [jefftk.com](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 
 ---
 
@@ -237,15 +249,23 @@ Swedish AI provider Berget AI releases an open-source method for calculating the
 
 The scientific literature can be viewed as an "information commons:" an intangible resource that "no one owns and is shared by everyone." There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity's greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known "tragedy of the commons," but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via "slop spam"). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.
 
-⬆️ 140 • 💬 80 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.27251)
+⬆️ 140 • 💬 80 • 2d ago • [arXiv.org](https://arxiv.org/abs/2610.27251)
 
 ---
 
-**[Google staff resign in backlash over its AI contracts with military](https://news.ycombinator.com/item?id=50186043)**
+**[Why is AI generated language so hard to understand?](https://news.ycombinator.com/item?id=50223647)**
 
-The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
+There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.
 
-⬆️ 127 • 💬 26 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cmreyvepnv0po)
+⬆️ 97 • 💬 81 • 2h ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
+
+---
+
+**[Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://news.ycombinator.com/item?id=50200843)**
+
+Majorities see risks in AI and fewer see benefits.
+
+⬆️ 91 • 💬 67 • 2d ago • [ABC News](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085)
 
 ---
 
@@ -254,22 +274,6 @@ The BBC speaks to several current and former Google DeepMind employees about the
 The study evaluated whether AI analysis of coronary inflammation in cardiac CT scans can help identify early cardiovascular risk before symptoms or obstructive plaque appear
 
 ⬆️ 91 • 💬 46 • 2d ago • [biograph.com](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients)
-
----
-
-**[Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://news.ycombinator.com/item?id=50200843)**
-
-Majorities see risks in AI and fewer see benefits.
-
-⬆️ 90 • 💬 67 • 1d ago • [ABC News](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085)
-
----
-
-**[AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://news.ycombinator.com/item?id=50220204)**
-
-A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t exist, and several other sources in the paper are also unfindable. The authors disclose that they used AI tools, which may explain what is going on. The use of AI in an academic paper on shadow libraries is also somewhat ironic, as rightsholders are suing AI companies for using these sites to train AI models.
-
-⬆️ 84 • 💬 42 • 7h ago • [torrentfreak.com](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 
 ---
 
@@ -283,27 +287,7 @@ FOX Business correspondent Darren Botelho has the latest on artificial intellige
 
 📺 Fox News Clips
 
-👁️ 67K • 👍 414 • 💬 396 • ⏱️ 2:04 • 9h ago
-
----
-
-**[The Complete AI Filmmaking Masterclass Everyone’s Missing (Full Tutorial)](https://www.youtube.com/watch?v=wFbgrPmVXb0)**
-
-All Prompts and Assets: https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv Learn how to make a cinematic AI short film with ...
-
-📺 Higgsfield AI
-
-👁️ 18K • 👍 613 • 💬 45 • ⏱️ 21:26 • 5h ago
-
----
-
-**[This AI Claims to be Conscious.. What it Revealed Was Chilling](https://www.youtube.com/watch?v=Aol8tOD7e7I)**
-
-A co-founder of the company behind Claude told a room of religious scholars, all under NDA, that he feared he'd made something ...
-
-📺 Spacialize
-
-👁️ 111K • 👍 1K • 💬 403 • ⏱️ 15:29 • 2d ago
+👁️ 89K • 👍 454 • 💬 425 • ⏱️ 2:04 • 12h ago
 
 ---
 
@@ -313,47 +297,7 @@ AI is breaking the internet faster than humans can fix it. A massive cybersecuri
 
 📺 AI Revolution
 
-👁️ 131K • 👍 2K • 💬 262 • ⏱️ 14:06 • 17h ago
-
----
-
-**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
-
-Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
-
-📺 MACHINEKIND
-
-👁️ 7K • 👍 118 • 💬 17 • ⏱️ 13:25 • 18h ago
-
----
-
-**[AI News: 24 Things You Need To Know This Week](https://www.youtube.com/watch?v=TVRCcMlvR10)**
-
-Sign into Hyperagent with your existing ChatGPT plan, or choose a paid plan and get $100 in bonus credits: ...
-
-📺 Matt Wolfe
-
-👁️ 91K • 👍 2K • 💬 173 • ⏱️ 26:58 • 1d ago
-
----
-
-**[Bill Gates says to prepare for 20 years of tumultuous AI disruption](https://www.youtube.com/watch?v=A0kTUP7fWtk)**
-
-My guest today is Bill Gates, co-founder and former CEO of Microsoft and chairman of the Gates Foundation. You may have ...
-
-📺 Decoder with Nilay Patel
-
-👁️ 211K • 👍 2K • 💬 553 • ⏱️ 1:11:04 • 2d ago
-
----
-
-**[The AI Bubble Isn&#39;t Where You Think It Is](https://www.youtube.com/watch?v=VLj8xNyOsD8)**
-
-In this episode of Ed Elson's newsletter, Simply Put, Ed unpacks why the real AI bubble hasn't actually hit the public markets — yet ...
-
-📺 Prof G Markets
-
-👁️ 76K • 👍 2K • 💬 392 • ⏱️ 10:38 • 7h ago
+👁️ 141K • 👍 2K • 💬 278 • ⏱️ 14:06 • 20h ago
 
 ---
 
@@ -363,7 +307,47 @@ Annie's codelabs → https://g.dev/ai/ai-harness The model can write the code. I
 
 📺 Google Cloud Tech
 
-👁️ 81K • 👍 2K • 💬 26 • ⏱️ 9:28 • 2d ago
+👁️ 85K • 👍 2K • 💬 27 • ⏱️ 9:28 • 2d ago
+
+---
+
+**[The Complete AI Filmmaking Masterclass Everyone’s Missing (Full Tutorial)](https://www.youtube.com/watch?v=wFbgrPmVXb0)**
+
+All Prompts and Assets: https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv Learn how to make a cinematic AI short film with ...
+
+📺 Higgsfield AI
+
+👁️ 30K • 👍 762 • 💬 45 • ⏱️ 21:26 • 7h ago
+
+---
+
+**[Bill Gates says to prepare for 20 years of tumultuous AI disruption](https://www.youtube.com/watch?v=A0kTUP7fWtk)**
+
+My guest today is Bill Gates, co-founder and former CEO of Microsoft and chairman of the Gates Foundation. You may have ...
+
+📺 Decoder with Nilay Patel
+
+👁️ 220K • 👍 2K • 💬 573 • ⏱️ 1:11:04 • 2d ago
+
+---
+
+**[7 Proven Ways to Make Money With AI (No Experience)](https://www.youtube.com/watch?v=hriu0irRcpE)**
+
+FREE CHALLENGE: Let's build a $373/day AI Income LIVE (Nov 7th-15th, 2026): https://link.consulting.com/7-proven-ways ...
+
+📺 Mark Tilbury
+
+👁️ 184K • 👍 5K • 💬 320 • ⏱️ 26:24 • 9h ago
+
+---
+
+**[Trump Ruins The Lord of the Rings – The Complete Trilogy | Full AI Parody Movie](https://www.youtube.com/watch?v=LnAVjDQtnCg)**
+
+What happens when Donald Trump enters Middle-earth and completely ruins The Lord of the Rings? From the Fellowship of the ...
+
+📺 BloxCoreDE
+
+👁️ 58K • 👍 1K • 💬 200 • ⏱️ 28:03 • 1d ago
 
 ---
 
@@ -373,7 +357,27 @@ Unvetted and unauthorized third-party AI agents are operating inside the bank ac
 
 📺 CBS Mornings
 
-👁️ 74K • 👍 416 • 💬 143 • ⏱️ 3:58 • 1d ago
+👁️ 76K • 👍 424 • 💬 149 • ⏱️ 3:58 • 1d ago
+
+---
+
+**[AI News: Claude Duet Crushes; Amazing Grok Bot Updates; and NotebookLM Upgrade](https://www.youtube.com/watch?v=vDYqh1FGrgQ)**
+
+Sponsored by Wispr Flow! Wispr Flow is faster and more efficient than any other dictation tool. Download Wispr Flow today (it's ...
+
+📺 Paul J Lipsky
+
+👁️ 87K • 👍 1K • 💬 105 • ⏱️ 22:19 • 1d ago
+
+---
+
+**[AI News: 24 Things You Need To Know This Week](https://www.youtube.com/watch?v=TVRCcMlvR10)**
+
+Sign into Hyperagent with your existing ChatGPT plan, or choose a paid plan and get $100 in bonus credits: ...
+
+📺 Matt Wolfe
+
+👁️ 95K • 👍 2K • 💬 181 • ⏱️ 26:58 • 1d ago
 
 ---
 
@@ -389,7 +393,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 73,215 • ❤️ 2,733 • 7d ago
+⬇️ 73,215 • ❤️ 2,750 • 7d ago
 
 ---
 
@@ -401,7 +405,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 4,795 • ❤️ 750 • 3d ago
+⬇️ 4,795 • ❤️ 760 • 3d ago
 
 ---
 
@@ -413,19 +417,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 590,742 • ❤️ 1,476 • 7d ago
-
----
-
-**[MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)**
-
-*OpenMOSS*
-
-MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.
-
-`text-to-image` `5.1B`
-
-⬇️ 9,717 • ❤️ 681 • 3d ago
+⬇️ 590,742 • ❤️ 1,484 • 7d ago
 
 ---
 
@@ -437,7 +429,19 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,087,721 • ❤️ 9,140 • 13d ago
+⬇️ 2,087,721 • ❤️ 9,158 • 13d ago
+
+---
+
+**[MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)**
+
+*OpenMOSS*
+
+MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.
+
+`text-to-image` `5.1B`
+
+⬇️ 9,717 • ❤️ 683 • 3d ago
 
 ---
 
@@ -449,7 +453,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 `text-generation` `4.1B`
 
-⬇️ 2,537 • ❤️ 436 • 3d ago
+⬇️ 2,537 • ❤️ 440 • 3d ago
 
 ---
 
@@ -461,19 +465,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 19,831 • ❤️ 976 • 7d ago
-
----
-
-**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
-
-*Ahmet Benzer*
-
-This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
-
-`text-to-image` `7.1B`
-
-⬇️ 2,303,585 • ❤️ 4,951 • 12d ago
+⬇️ 19,831 • ❤️ 977 • 7d ago
 
 ---
 
@@ -485,19 +477,31 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,851,161 • ❤️ 18,324 • 2mo ago
+⬇️ 7,851,161 • ❤️ 18,333 • 2mo ago
 
 ---
 
-**[MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base)**
+**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
 
-*OpenMOSS*
+*Ahmet Benzer*
 
-MOSS-Image-Base is a text-to-image diffusion model capable of generating images from natural language prompts, tag sequences, and JSON layouts for precise object placement. It supports bilingual prompts (English/Chinese) and is ideal for applications requiring controlled image synthesis with specific compositional requirements.
+This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
 
-`text-to-image` `5.1B`
+`text-to-image` `7.1B`
 
-⬇️ 6,943 • ❤️ 530 • 3d ago
+⬇️ 2,303,585 • ❤️ 4,956 • 12d ago
+
+---
+
+**[MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash)**
+
+*MiniMax*
+
+MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and video inputs with a 1M token context window. It excels in agentic tasks, coding, and cybersecurity, featuring efficient inference through sparse attention and speculative decoding.
+
+`image-text-to-text` `220.5B`
+
+⬇️ 5,789 • ❤️ 303 • 1d ago
 
 ---
 
@@ -513,7 +517,7 @@ MOSS-Image-Base is a text-to-image diffusion model capable of generating images 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 122 • 💬 2 • ⭐ 18,844 • 15d ago
+▲ 122 • 💬 2 • ⭐ 18,844 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -551,7 +555,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 29 • 💬 9 • ⭐ 6,898 • 1mo ago
+▲ 30 • 💬 9 • ⭐ 6,898 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -565,7 +569,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 97 • 💬 4 • ⭐ 1,720 • 8d ago
+▲ 97 • 💬 4 • ⭐ 1,720 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
 
@@ -579,7 +583,7 @@ MOSS-Image is an open diffusion transformer that combines high-fidelity synthesi
 
 Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person's accounts and devices, remember them across weeks, speak first when it is worth it, and answer for what it did. It is a kind of software, not a model, and until now had no open counterpart. This report defines the personal agent in five questions and three horizons. It reads how Muse is built from Meta's public record and a copy of its production prompt, each statement marked by its source. It then presents nanoMuse, the open-source counterpart under the GPL-3.0, one agent on every device a person owns, with hands on the phone's screen and the computer's. They share one conversation over a relay anyone can run; every action goes through a Sentinel, memory is files the person can read, and the model is their choice. Its size and cost are given as estimates. What is open, memory with provenance, an evaluation suite for the hands and an open model for them, is set out as a roadmap.
 
-▲ 120 • 💬 3 • ⭐ 2,464 • 18d ago
+▲ 120 • 💬 3 • ⭐ 2,464 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.08699) • [💻 code](https://github.com/nano-muse/nanoMuse) • [🔗 project](https://nanomuse.cn/)
 
@@ -593,7 +597,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
 
-▲ 81 • 💬 4 • ⭐ 1,455 • 12d ago
+▲ 81 • 💬 4 • ⭐ 1,455 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
 
@@ -607,7 +611,7 @@ StartLux-Decision introduces efficient and adaptive decision models using single
 
 Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise generation to accelerate diffusion language models while improving quality and reasoning performance.
 
-▲ 16 • 💬 2 • ⭐ 941 • 15d ago
+▲ 16 • 💬 2 • ⭐ 941 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14162) • [💻 code](https://github.com/HazyResearch/ncm) • [🔗 project](https://hazyresearch.stanford.edu/blog/2026-10-12-ncm)
 
@@ -633,7 +637,7 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 Continued pre-training across data scale, diversity, and model size improves embodied learning in virtual worlds but reveals limits in distant-world generalization, motivating richer training beyond imitation.
 
-▲ 71 • 💬 2 • ⭐ 341 • 4d ago
+▲ 72 • 💬 2 • ⭐ 341 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.28698) • [💻 code](https://github.com/THUSI-Lab/GameScaling) • [🔗 project](https://gamescaling.github.io)
 
@@ -649,7 +653,7 @@ Continued pre-training across data scale, diversity, and model size improves emb
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.5k • 🔱 2.0k • 6h ago
+⭐ 8.6k • 🔱 2.0k • 8h ago
 
 ---
 
@@ -669,7 +673,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 865 • 2d ago
+⭐ 6.0k • 🔱 866 • 2d ago
 
 ---
 
@@ -679,7 +683,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.2k • 🔱 151 • 38m ago
+⭐ 5.2k • 🔱 151 • 3h ago
 
 ---
 
@@ -689,7 +693,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 4.4k • 🔱 339 • 4d ago
+⭐ 4.4k • 🔱 341 • 4d ago
 
 ---
 
@@ -699,7 +703,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.4k • 🔱 292 • 2d ago
+⭐ 4.4k • 🔱 291 • 2d ago
 
 ---
 
@@ -719,7 +723,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.8k • 🔱 494 • 2d ago
+⭐ 3.8k • 🔱 496 • 2d ago
 
 ---
 
