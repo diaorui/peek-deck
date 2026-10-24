@@ -57,6 +57,17 @@
       "description": "Morgan Stanley, JPMorgan, Bank of America, Wells Fargo, and Citi are restricting third-party AI agents found operating inside customer accounts without\u2026"
     },
     {
+      "title": "Moonshot AI's Kimi K3.1 Pro reaches fourth on Artificial Analysis index, 3 points behind Claude Opus 5.5",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdvxi5/moonshot_ais_kimi_k31_pro_reaches_fourth_on/",
+      "published": 1792805595.0,
+      "thumbnail": "https://external-preview.redd.it/fqWEI3boPz0gFfuKWTPo7eYOPZuSRnE35PaXVEgLbYI.jpeg?width=640&crop=smart&auto=webp&s=2826767a08568b73ea63bafb08922d3b8fbc7d40",
+      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights\u2026"
+    },
+    {
       "title": "Anyone tried Dreamina? Does the $0.29 plan actually give you full Seedance access?",
       "author": "Key_Disaster3141",
       "url": "https://www.reddit.com/r/artificial/comments/1xdk7s3/anyone_tried_dreamina_does_the_029_plan_actually/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A second brain is basically an external memory for your real brain. Somewhere to dump ideas, research, notes, decisions and things you want to remember later, without relying on yourself to remember where you put them. That was the part normal note apps kept failing at for me. I could save almost anything, but months later I still had to remember that the note existed before I could find it. While building apps I was generating architecture notes, PRDs, debugging writeups, feature ideas and random thoughts constantly. I wanted them to organize and connect themselves instead of slowly turning into another pile of documents. So I built Cohestry. It uses on-device intelligence to understand notes, then a deterministic system connects related ones automatically. Those connections have already resurfaced old ideas I had completely forgotten about. I can move through them visually in a 3D brain, import Markdown, PDFs and Apple Notes, capture voice notes or drawings, and everything stays on my devices and iCloud. The Mac app also has an MCP bridge, so when I\u2019m working with AI agents they can pull relevant context from my second brain instead of me repeatedly explaining the same projects from scratch. https://apps.apple.com/us/app/cohestry-second-brain/id6811573132"
-    },
-    {
-      "title": "Anyone else have the Google search Ai bug and pull info out of old chats?",
-      "author": "No-Helicopter7635",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdcm2o/anyone_else_have_the_google_search_ai_bug_and/",
-      "published": 1792758381.0,
-      "thumbnail": "https://preview.redd.it/o1dce5a3n7xh1.jpeg?width=640&crop=smart&auto=webp&s=6cf802bb86dbbdeac3a55c1c10d8423e9b363a12",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So I started my chat with \u201chi\u201d, I then asked my question about a Megane cabriolet (a car). And out of the blue it said \u201cunlike the Clio you were looking at earlier\u201d. But the thing is I never told it anything about a Clio , that\u2019s from a chat from weeks ago on a tab I\u2019ve closed, I then asked it where is got that from and it said it was a \u201clucky guess\u201d which it total BS. I am aware google Ai is not supposed to have the ability to remember other chats. Has anyone else ran into this? This is the 3rd time I have had it happen over the past few months."
     }
   ],
-  "fetched_at": "2026-10-23T23:19:39.494036+00:00"
+  "fetched_at": "2026-10-24T01:49:14.734537+00:00"
 }
