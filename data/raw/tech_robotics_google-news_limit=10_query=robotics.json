@@ -59,14 +59,14 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGNJTkdncS1GRkJwWWRvMHZMMkFFTks1c1ZrTnpTU3gxN3dVbXBLemxiRTZVaFRmLUZoY2dWSm5tVU10QXRpQ2Z6RHZDZElwMEswMllSN2MxSlFBbFZpWEZmWlJfUHZCYVRlU1hjWDB2cnVKQW1vWUJZcUNSRURlZG53TzBzUkQ4UUtKcHJoTkZBbTlNeEVLbW1Nc3V5dTA?oc=5",
-      "pub_date": 1792770900.0,
+      "pub_date": 1792771025.0,
       "article_url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
       "image": null,
       "description": null
     },
     {
       "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
       "pub_date": 1792744160.0,
@@ -75,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
-      "pub_date": 1792675812.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
-      "image": null,
-      "description": null
+      "headline": "Boston Dynamics workers oppose the company\u2019s robot dog use by ICE",
+      "source": "The Boston Globe",
+      "source_url": "https://www.bostonglobe.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1JFbGROWWViRXdzUWhwOWMxRmh4d3AtNEZfd1hRblM2ZzJ6RmhKcUJIMWNMTzUwUm10bU9Edy1vSW80MWR0TlF5aGdNS2d0cW9qQ19yMURxYWxOWjZxbV9XdFZka1JpWVNscW15Z3Q4U2JQUER1NGFxbTlfaFdCUENUU3Uwam5ld1lqdHg1VQ?oc=5",
+      "pub_date": 1792779240.0,
+      "article_url": "https://www.bostonglobe.com/2026/10/23/business/ice-spot-boston-dynamics-sale-workers/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FURCCF4M4R3L23OEHAX4Z6RFTY.jpg?auth=ce5ab6cdc86b3ed27f356b7bfb45c378a1040ee4cf9c7952f35da92c920403a4&width=1440",
+      "description": "The $1.3 million deal includes a modified version of the original robot, with military grade add-ons such as a robotic arm, thermal camera, and sensors for explosive materials."
     },
     {
       "headline": "Tesla's Optimus robots are finally rolling off the production line",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T18:19:33.172801+00:00"
+  "fetched_at": "2026-10-24T21:04:07.347021+00:00"
 }

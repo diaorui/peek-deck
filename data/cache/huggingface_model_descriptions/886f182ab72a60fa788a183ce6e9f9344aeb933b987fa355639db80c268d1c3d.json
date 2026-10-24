@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-24T21:04:08.775717+00:00",
+  "data": "MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and video inputs with a 1M token context window. It excels in agentic tasks, coding, and cybersecurity, featuring efficient inference through sparse attention and speculative decoding.",
+  "model_id": "MiniMaxAI/MiniMax-M3.1-Flash"
+}
