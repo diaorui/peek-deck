@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-24T15:29:52.984699+00:00'
+updated: '2026-10-24T18:19:40.071324+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 24, 2026 at 15:29 UTC  
+**Last Updated:** October 24, 2026 at 18:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,21 +114,13 @@ Title. Ive always been fascinated by Unmanned Aerial Manipulators, since they ca
 
 **[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
 
-Axios • 1d ago
+Axios • 2d ago
 
 ---
 
 **[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
 Stanford Report • 2d ago
-
----
-
-**[Intel semiconductor production granted one-year waiver to imported robotics ban by FCC](https://dig.watch/updates/intel-semiconductor-one-year-robotics-ban-waiver)**
-
-Semiconductor giant Intel was granted a one-year waiver to the FCC's ban over robotics imports, avoiding production disruptions.
-
-Digital Watch Observatory • 3h ago
 
 ---
 
@@ -140,23 +132,23 @@ NVIDIA Developer • 1d ago
 
 ---
 
+**[FCC grants Intel waiver to use existing foreign-made robotic devices](https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/)**
+
+Reuters • 1d ago
+
+---
+
 **[Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)**
 
 The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
 
-TechCrunch • 17h ago
+TechCrunch • 20h ago
 
 ---
 
 **[Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech](https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4)**
 
-WSJ • 23h ago
-
----
-
-**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
-
-Reuters • 2d ago
+WSJ • 1d ago
 
 ---
 
@@ -166,11 +158,9 @@ Bloomberg • 1d ago
 
 ---
 
-**[Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car](https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car)**
+**[Unitree developing AI system to let humanoid robots improve themselves](https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves)**
 
-Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously.
-
-South China Morning Post • 3d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -182,9 +172,27 @@ Business Insider • 2d ago
 
 ---
 
+**[Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography](https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/)**
+
+The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit.
+
+NASA (.gov) • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+
+Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+
+📺 MACHINEKIND
+
+👁️ 7K • 👍 118 • 💬 17 • ⏱️ 13:25 • 18h ago
+
+---
 
 **[Tesla Bot Gen 4: Elon Musk Reveals the Next Humanoid Robot](https://www.youtube.com/watch?v=IMHwdxfl4ko)**
 
@@ -192,27 +200,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 156K • 👍 2K • 💬 243 • ⏱️ 20:32 • 6d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 117K • 👍 977 • 💬 57 • ⏱️ 9:03 • 5d ago
-
----
-
-**[China&#39;s H2-X Robot Bodyguard! Fights Att@ckers &amp; Rescues People? | 92NewsHD](https://www.youtube.com/watch?v=PaxVTwvwZO0)**
-
-China has introduced an advanced humanoid robot designed to demonstrate potential applications in personal protection, ...
-
-📺 92 News HD
-
-👁️ 2K • 👍 68 • 💬 1 • ⏱️ 0:44 • 1h ago
+👁️ 157K • 👍 2K • 💬 244 • ⏱️ 20:32 • 6d ago
 
 ---
 
@@ -222,17 +210,17 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 944K • 👍 7K • 💬 784 • ⏱️ 8:29 • 1d ago
+👁️ 1.0M • 👍 7K • 💬 851 • ⏱️ 8:29 • 2d ago
 
 ---
 
-**[Meet Microduck: The Tiny AI Robot That Can Dance, Play &amp; Sing! 🤖🎶 #huggingface  #ai](https://www.youtube.com/watch?v=gEDs4exyXJI)**
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
 
-Meet Microduck — the tiny AI robot that brings technology to life! What happens when AI meets robotics, movement, and fun?
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 TechBee
+📺 MostAmazingTop10
 
-👁️ 15K • 👍 75 • 💬 10 • ⏱️ 0:45 • 1d ago
+👁️ 119K • 👍 990 • 💬 57 • ⏱️ 9:03 • 5d ago
 
 ---
 
@@ -242,7 +230,7 @@ I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics s
 
 📺 Fin Tek
 
-👁️ 33K • 👍 571 • 💬 32 • ⏱️ 22:57 • 1d ago
+👁️ 35K • 👍 587 • 💬 32 • ⏱️ 22:57 • 1d ago
 
 ---
 
@@ -252,25 +240,37 @@ NVIDIA's tiny Microduck AI robots explained! Jensen Huang introduced 4 miniature
 
 📺 DPCcars
 
-👁️ 27K • 👍 115 • 💬 11 • ⏱️ 5:59 • 1d ago
+👁️ 28K • 👍 125 • 💬 13 • ⏱️ 5:59 • 1d ago
 
 ---
 
-**[Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist](https://www.youtube.com/watch?v=APKcMzOfg1Y)**
+**[Meet Microduck: The Tiny AI Robot That Can Dance, Play &amp; Sing! 🤖🎶 #huggingface  #ai](https://www.youtube.com/watch?v=gEDs4exyXJI)**
 
-Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist elderly pilgrims, providing mobility, shade, ...
+Meet Microduck — the tiny AI robot that brings technology to life! What happens when AI meets robotics, movement, and fun?
 
-📺 Zeeshan Malik
+📺 TechBee
 
-👁️ 8K • 👍 555 • 💬 1 • ⏱️ 0:10 • 13h ago
+👁️ 18K • 👍 82 • 💬 11 • ⏱️ 0:45 • 1d ago
 
 ---
 
-**[#news #unitree #robot #foryou](https://www.youtube.com/watch?v=TrWAqfrmOZk)**
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
 
-📺 Gena Bechtelar
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
 
-👁️ 4K • 👍 91 • 💬 16 • ⏱️ 0:58 • 16h ago
+📺 RuntimeBRT
+
+👁️ 324K • 👍 12K • 💬 352 • ⏱️ 2:55 • 5d ago
+
+---
+
+**[China&#39;s H2-X Robot Bodyguard! Fights Att@ckers &amp; Rescues People? | 92NewsHD](https://www.youtube.com/watch?v=PaxVTwvwZO0)**
+
+China has introduced an advanced humanoid robot designed to demonstrate potential applications in personal protection, ...
+
+📺 92 News HD
+
+👁️ 5K • 👍 132 • 💬 3 • ⏱️ 0:44 • 4h ago
 
 ---
 

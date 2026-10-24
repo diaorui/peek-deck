@@ -9,7 +9,7 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3UxRmgwU3N1RnJDaFExYWNwcHRJYWpRcVBhTkpwQ29QMUo2SHFqSGZFMGNWbUxyRC1lWXFJQzRoOGtmU0FVbjBVUGpzLXY5QWduUWdrUmVzVW5hSTN3akFFRXFsVWZqeXB4YjBFQ3VMS0tHTWx4bXJ5eTdxSWZWVGFldFg?oc=5",
-      "pub_date": 1792750946.0,
+      "pub_date": 1792683759.0,
       "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
       "image": null,
       "description": null
@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Intel semiconductor production granted one-year waiver to imported robotics ban by FCC",
-      "source": "Digital Watch Observatory",
-      "source_url": "https://dig.watch",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oQVVSYldUMS1tc0M4UmJZM0hVR29TcWxPM3pDS2VOQjlobzcxUlJHVVF4ZzdtZ0FVczJBdTd2VlBVZmZtRlg0SEZSakRhWGVwVnZIaDFDMmlmV2hYbk9JaHNDcjVES2ZWWjNtVDVhb1FydkdndmVLTjZOXzUxZW8?oc=5",
-      "pub_date": 1792844892.0,
-      "article_url": "https://dig.watch/updates/intel-semiconductor-one-year-robotics-ban-waiver",
-      "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/10/boliviainteligente-glyUZghL5-M-unsplash-1.jpg",
-      "description": "Semiconductor giant Intel was granted a one-year waiver to the FCC's ban over robotics imports, avoiding production disruptions."
-    },
-    {
       "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
       "source": "NVIDIA Developer",
       "source_url": "https://developer.nvidia.com",
@@ -43,6 +33,16 @@
       "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
       "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
+    },
+    {
+      "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
+      "pub_date": 1792702800.0,
+      "article_url": "https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -65,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw?oc=5",
-      "pub_date": 1792676853.0,
-      "article_url": "https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
       "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
@@ -85,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car",
+      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVpVSHVtUVBwWDFQT1F5RXhSXzdjTGV1bk91OVVDRHJadV82bnd1bnBQcWE1UEdqbmJ3TERyMGJVTkN1Zks3cFpuYlhlRWpFdk9yODNueWtBMzhiNmJOUWlyLVAweDFJWXFQQ2VyQk1KcW5WdUt4REdUWldnTzMtdGt4dmZnaklBc0NRME5vVFFuS3FUbTNfcmJ4WUtLenlGd3VQYVpZbXNYWmM?oc=5",
-      "pub_date": 1792589967.0,
-      "article_url": "https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/images/canvas/2026/10/21/6a7901ae-0a4c-48de-88f3-19713feb0909_3d2fa0d3.jpg?itok=7GFFMruN",
-      "description": "Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously."
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
+      "pub_date": 1792675812.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tesla's Optimus robots are finally rolling off the production line",
@@ -103,8 +93,18 @@
       "article_url": "https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10",
       "image": "https://i.insider.com/6ad93ea9dc67b5b4d01f6415?width=1200&format=jpeg",
       "description": "Musk said he expects to begin delivering Optimus to customers at the end of 2027."
+    },
+    {
+      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
+      "pub_date": 1792690723.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
+      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
+      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T15:29:49.699741+00:00"
+  "fetched_at": "2026-10-24T18:19:33.172801+00:00"
 }
