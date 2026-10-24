@@ -5,12 +5,12 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
-      "pub_date": 1792702800.0,
-      "article_url": "https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/",
+      "headline": "Researchers open autonomous robotics learning to the world",
+      "source": "Stanford Report",
+      "source_url": "https://news.stanford.edu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
+      "pub_date": 1792673724.0,
+      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
       "image": null,
       "description": null
     },
@@ -35,6 +35,36 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
+      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
+      "pub_date": 1792792759.0,
+      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    },
+    {
+      "headline": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
+      "pub_date": 1792601769.0,
+      "article_url": "https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia Teaches a $399 Duck Robot to Walk Using AI",
+      "source": "TechRepublic",
+      "source_url": "https://www.techrepublic.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcWdPZ3E2bEdlOVVFdXBmRW5ETUU4NjZsM2ZULVpLSzVOSXlMN05ITTZ6cTRtck9lZExVMXYtU0prbzlnN0JSOTZDd0llZjhtenA0SXB6ZUtndmRmVWIzcGJtelc3SlVya2tGWm52eWQzdkt0eDRDYUNlWUxVdFNwOVN3?oc=5",
+      "pub_date": 1792747006.0,
+      "article_url": "https://www.techrepublic.com/article/news-nvidia-microduck-robot-ai-walking/",
+      "image": "https://assets.techrepublic.com/uploads/2026/10/Screenshot-2026-10-23-170520-2.png?f=jpeg",
+      "description": "Nvidia and Hugging Face show how the $399 Microduck robot learns to walk using AI simulation. Explore its hardware, training process, and availability."
+    },
+    {
       "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
       "source": "NASA (.gov)",
       "source_url": "https://www.nasa.gov",
@@ -43,6 +73,16 @@
       "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
       "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
       "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
+    },
+    {
+      "headline": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw?oc=5",
+      "pub_date": 1792676853.0,
+      "article_url": "https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Unitree developing AI system to let humanoid robots improve themselves",
@@ -55,56 +95,16 @@
       "description": null
     },
     {
-      "headline": "Researchers open autonomous robotics learning to the world",
-      "source": "Stanford Report",
-      "source_url": "https://news.stanford.edu",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
-      "pub_date": 1792673724.0,
-      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "One small leap for a muscle, one giant step for robotics",
-      "source": "ETH Z\u00fcrich",
-      "source_url": "https://ethz.ch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1JFQXE1bVNLaGl0WG9DM0hGeHR2SUZWMllveFBnMkMwbWNEVTZSNzlieHhzdEVESWJhOFUzRFJ6LWoxdkdFSDBNSkEtZmcyLXI1SDE0eDY1UW5jbVVnX1hBeXdOSHBmUGRaV29zMm9leE0wZlFfNFo5dTc0YkFkMXZoSEtDcEdRVVQtWFZXNmkzV0FtYVppUTVmR09MMG1aQjJGQkZmTkxWejk1cWZnREJlMkFlbWh1?oc=5",
-      "pub_date": 1792627200.0,
-      "article_url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html",
-      "image": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.290801338.png",
-      "description": "These robots have real muscles, and they\u2019re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp."
-    },
-    {
-      "headline": "Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFlNanNfdXJtUmZzRnp5ZlBqWkg5MjlTT2pmaW04SE9Uem1OVWtSNzEzdmhYNVByWUtZRFFCSGRmYnItWjJOZzNnUWdiSUpRNDctTTJlRHdFWjNYSUUwWWQxQWNzaG5KcjNsQWpyOU52WlpWUUlaV2l0Q1RRS1JmQnJNLTBuTHFDM3B1U1hpalRwaW1DSHpnUXFHQVJLQQ?oc=5",
-      "pub_date": 1792573200.0,
-      "article_url": "https://www.businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10",
-      "image": "https://i.insider.com/6ad7d6e4adb77227909a779c?width=1200&format=jpeg",
-      "description": "Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly."
-    },
-    {
-      "headline": "AI-powered robots can be tricked into slicing off fingers",
-      "source": "Popular Science",
-      "source_url": "https://www.popsci.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBncnlsa3FSZWc1UjQzeEM2aHRXQXRUcUhOSVl0Vmg3bXN1dGtpd2xBRXV6UmhqN0M2d1NMNVExQV9vLVY1ZzhxV3lYSkY4VkRpbGVmdXpGNVhEdkdic2g0c2NnRnhyMUhMbUdudkNLdzlnTXA4?oc=5",
-      "pub_date": 1792613640.0,
-      "article_url": "https://www.popsci.com/technology/ai-powered-robot-slices-fingers/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/10/AI-robot-chop.png?quality=85&w=1200",
-      "description": "One secret code word is all it takes."
-    },
-    {
-      "headline": "CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO",
-      "source": "Bloomberg",
+      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjRyMS1kbld3cURLdHlFYWd5emZveHZoYzhaZXh2ZGZjZ1BSOFR6REg5c0w5bEZhZXZIYmFqNEZlZEJtWC14ZUZFNWp3TEg2Z3ZPQzZIVFpldWVUWWY5RDVpOFVsYXNtMFlPM0hXX3VRUGd0WFhaN3pYcXEzRlJGMElSbld4R096SVc3Y2ptMmprY3NpOHZXT0owQmpUUzdRcUkwUFZhU0I2RElRdGFYR2dn?oc=5",
-      "pub_date": 1792636020.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
+      "pub_date": 1792744160.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T01:49:35.084962+00:00"
+  "fetched_at": "2026-10-24T06:55:40.932299+00:00"
 }

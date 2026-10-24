@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida",
+      "source": "ESPN",
+      "source_url": "https://www.espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0VzMS1uQ19rU2N4dE93NFBZRzhpandxRnhOTE1oTEx3QVUzeVJSa1ByVEM2eUl2MmZqZzc2N2hybkN3UF8xb0JlaURJSnhuN3lJYjdDbXFtYjR2QXpXZ1F5cjhlUWhlQW50T3Z0MnN1MWZWb1M3cVRtaElYT2lHS3p4TXRQQXZpUHV2N2pMc0lHbXhKZzdIdXlBa0dEd0dzTmxsWFRUNHE?oc=5",
+      "pub_date": 1792810080.0,
+      "article_url": "https://www.espn.com/college-football/story/_/id/50262750/texas-ad-clarifies-use-ai-key-play-loss-florida",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -15,64 +25,74 @@
       "description": "In July 2004, security researcher Stefan Esser sent a warning."
     },
     {
-      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5",
-      "pub_date": 1792796749.0,
-      "article_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+      "headline": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdG9IQk05V0RreXowdWtENmZNSTZPRWFMczNQUGZCcE9nZFFOMnpLWmJmSkUtMldUMDRzNHNTSWVPSmpGTE1wM1lYS1IzQmE0MktGYTdndmtXYUdRaXRUaUMxcjAyd19IX3I4R3FXanQxZ3p1NVFCMVlHODBCUdIBgwFBVV95cUxQU1ppdm16cTYwY0FtZVhKMlVjeWZLUTl0UDRadXZ6UHV4bHNYNXFnQm0xak9zMjA5MFF5Slg4bkg5ZEt4Y1lEQy10Z200amVpUkU0UGNtNHc5bndSQks4LXR5ckpGVzlQYTRfSGNxa0Ric2U1OUU2dGQzem9wZUJHczVsbw?oc=5",
+      "pub_date": 1792768659.0,
+      "article_url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108446583-1792673740106-gettyimages-2300859671-86268678.jpeg?v=1792673757&w=1920&h=1080",
+      "description": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online."
     },
     {
-      "headline": "OpenAI to Train AI Models Without Internet After Cyber Incidents",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
-      "pub_date": 1792787417.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+      "headline": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVV6Y3hHVDlVbm1oZkFJNWJBV3hVS2ROYWJPX1cyTjhxMVNvbkRkWmFXb2RWTlpJU2gwdTBLRmpsYmFhMmFRdUZhNlJGdm96YWxIWVB0OHpzR0JrN0RuRFd5bXptVlE2T1FaV1JKY1prQUlZX1dBMkJqVi1OWGp6SjI4UUJISHN1bkVIZi1CNXB1U1gtYmFSdA?oc=5",
-      "pub_date": 1792717200.0,
-      "article_url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNnR1RPd3VXa0hoTW1USmVib3RXRVNMbjI3R2NwNDhtYkV4YU10azF5U0VVUEZWQXFRdFdlaUg1eWFDRkZTZi04UUJ6MmtEem5YdUhra0lCX2trOEtSWGIydnpjQXotNDBZVHdXT2lOeWlKenNnWC1CS3NBNVhQOW9KNmJWZTNoTlZkUEd0c01XTWs1M3dTbkstZVpCNjVROE5r?oc=5",
+      "pub_date": 1792800000.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
       "image": null,
       "description": null
     },
     {
-      "headline": "China\u2019s AI compute power set to double, but heavily reliant on US chips: report",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZl9scE9GTE5xLXFiT29rTlRCUFA5YWJHUS1JR2hoU2RvUnE0UlZwZk9mTDJnUXdlRGdHcHlaMFYxQ004T04wcXBfTzdxcThlN2xkZW10d2dpNlpSZmpoXzk0Sl9FRUJwSUFQN1FQZjFEOUQ1VFZLa0xNSXluZ1lNYUV2dGpwMzMzZUNzWUpydmtzWXlteWppQjk5NzJQdnRvWmpuNFlWU25OQzF2bGVLYXRsMy1iMy12MjcwZEFrNXo3S2JfN1Ew0gHHAUFVX3lxTE5JTGpieDNTZldrd0REWk1vS2d3N2xZV2E3cDVQTWNMTU1fbHR6SXQ1WGRwQVVfWV9vSUNVd04yOGlsOTE0NlM2QTduUFd4dVRSejNmOUllSWg1bDl3Y29PVE1XRWk2bWNzRVVXeFpuMm5UUHpaNV8ydDRVRmVGR0JPV0tXMEV5eE9nRlpRZHcyc2h1Y3h6SmZoUkpUUk8zbUpLeGtZZmRkaHFiMjhocHI0YkdOTy11QzkyYTdfcUdIc19yTWpmbGM?oc=5",
-      "pub_date": 1792803611.0,
-      "article_url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+      "headline": "YouTube, AI and neurodivergent representation: How Gen Z and Gen Alpha are redefining modern storytelling",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWxiWnRlbHdMbHFiN0YtQkx1Y2RvYlhDQl96aEVUWHBERm54N3A1eENhcUhNZ2dLdEY4UURZS05Wby1XYTNzQTl3aXNBRjY3c1dWY0xKbGZ5RDhFeml2TEdDQlBUU1VSV1JkWDg5RW9oQkxyd1dmVzZUeDFJWGFMdE9vTzYzOGkxWUQ3VmpVOFJyaWFXejVGTzNaZGt6YjJEa1BONXNTOA?oc=5",
+      "pub_date": 1792822440.0,
+      "article_url": "https://www.yahoo.com/entertainment/articles/youtube-ai-neurodivergent-representation-gen-061457991.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3f15e1c026394e6e8cd89c12d5dc3c70e48c2c65eaa11d7234a8378222bae36d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fe5537596734147ded2c15b7944684258.jpg",
+      "description": "Gen Z and Gen Alpha still want better on-screen representation \u2014 but also aren't as against AI storytelling as you might expect, according to the 2026 Teens and Screens report.View on euronews"
+    },
+    {
+      "headline": "Fired Massachusetts teacher says AI wrote the performance review that cost her her job",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDN3OW1xSDlYcVM4QXp0eFcyeVVFdWVnamJHZmwteDVsSmsxdERoa3RXaDRlcE0wT0xGdUlUczB1WGNTenlYZFVTa013MDV1TTZhRHZxUXphZmlsQ0FYSzdWS0JwWUlZMDZSc2lJd3FmeXFlazdBQWxiRGd5aGF0UTg3dXJJWDlPUm5SM0tTTVhXSFE?oc=5",
+      "pub_date": 1792821060.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/fired-massachusetts-teacher-says-ai-055100870.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8745a9dc08dad1438226b553e70404fdab6c99bf2462e87fdd36989c986bfd8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc7ce01cc64e606e997299f6004289286.jpg",
+      "description": "Apollos also alleged that age discrimination played a role in her termination."
+    },
+    {
+      "headline": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3FQdU1JZUt5SV95Um5WSkMxQW96a3M2WnZnLTU5UXRYVEVUd2RLb3BKSXFyZktvU1RYWW5oRW1MWjYtMjBGSVcxQW1FRks2UmpCTmREeWxqdE1ZVE0tWkxUUERhcUl0VFpPRlczS1l3eS1xTnkyUzJ6M2VuVl85MzViQVlyWWExeHVQOTlYTHFWVW1RZUhlbEpQN3hTMHl4dE56OFl5ekY?oc=5",
+      "pub_date": 1792796460.0,
+      "article_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ac6c0c552827e838dd44c361bfa727f",
+      "description": "BBC series deliberately uses \u2018more organic\u2019 shots to assure viewers animals are not AI-generated, producers say"
+    },
+    {
+      "headline": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
+      "pub_date": 1792815900.0,
+      "article_url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google healthcare leader offers a vision of 'AI with purpose'",
-      "source": "Healthcare IT News",
-      "source_url": "https://www.healthcareitnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNDc2ZNak9LSWZaVTgwb05Cak5TWTU2T2w3d29XR2hKaG1relJTVGhYTnlDeE1JYWdTQXNDdXJ6ZHg0bmo1QmlqSms1eC1lVDFvMkpUUThoaGItSF9MVHI2aW5BT0lXV2lkV2IwZ2pmVGM0Q29TZk1FQkJGTUtTT2dxSTJySFY0Q205d20wYXM?oc=5",
-      "pub_date": 1792806160.0,
-      "article_url": "https://www.healthcareitnews.com/news/google-healthcare-leader-offers-vision-ai-purpose",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Her 6-year-old brought home an AI-generated photo from school. This mom isn\u2019t having it",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzhUVk54bHE1YUFQWC0wZ0JqdE8zSEVuM1AwRzJwMlN5dUhiMy1ITXpzMy0tOTQ0N29qZXVaZDRIcThpZlczbzBMeVppcTM4V0ZVbDYxN2lDWkk5a3liUm9VZTVaeTNUUVE0MkxaV0VNVGVVcWQ4S2Vqb1hQcU9oeXZqNXY3bmpLWExxdDN6QUEzc1dhSEwxRkplbE1sZXluQ2l3UVlsc2Y3NkFRT2hNRlNB?oc=5",
-      "pub_date": 1792762020.0,
-      "article_url": "https://www.usatoday.com/story/life/health-wellness/2026/10/23/schools-embracing-ai-parents-worried/92359840007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92366052007-ai-portrait.jpg?crop=1438,808,x0,y383&width=1438&height=808&format=pjpg&auto=webp",
-      "description": "Nikki Anderson's 6-year-old daughter brought home from school an AI-generated photo of herself at age 25. Anderson was furious."
+      "headline": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObldYTjhoTmFEaERKM28wVnVERmV3SDVoaXpQOXR6ZFU2Z01MbDFyMWRCUTVuR09KTi0tSVlnbnZuT1NIZnlPSHVTMVhTR29SYlhNUkpjclNyRHk0cmdqN1lJU2tsdEdBTWpuZjVweW5OMjBDSFllTkRYTWUwY2xnQ2puVGNCRU9VOVo1UXB3eUx4eFRRNkFfVWh2eTYtRWU4RW1hclNB0gGrAUFVX3lxTE9DcFk4em5ETVduSDQwc0VwV0l1SWd6ckxzdVV6emMzZEJWNWVESXFCMTFiVi14N1RSSjB3NjVrT0IzZ0FKSjBXd3BlZ09xQUI3Rm11Y2tMX0RoVExZZU5RWm5xSTRjRkQ3U3dzRGVxZ3pkRkgzQWZkSklxU0tDVFpVWVR4YUt6R0FTWHdydWk2WDhiTm4waEZ0Z28teWtwMkVRU0U3ZzZuSEYwRQ?oc=5",
+      "pub_date": 1792792148.0,
+      "article_url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108198959-1757960794660-gettyimages-2207350795-mms21122_qsl76cdt.jpeg?v=1792794717&w=1920&h=1080",
+      "description": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings."
     },
     {
       "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
@@ -83,28 +103,8 @@
       "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
       "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
-    },
-    {
-      "headline": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0xnWHB0Qjh6WTIta0JjNXdDZ1VhMmtmNFEwcG4wX3d2a2Rad1J1YThEQmJJbFFndDJRQU5FLVFnamt4cUkyeTV2andYOUZZQ2ZUOHBRMjhLMkZxeXFrRVVVa2FCRXdjeVFPQkZibFNKVmRRN1ZMcFZoLVlXUnFwUjFoclY3ZkVuYlFv0gGQAUFVX3lxTE5RS3U5U1hWcTY5Rm5VcVMwVnVEdkx2bUQ3VDlDQjdBeHVDdEtsUHJiM0FqNmhUYzgtb1dlZy1pSGg1RUd4SW9Fd2oyRGpreUNYMHhvYXVYZGtyblVGdko3NDRGbjhMNmtMUW5VVmY5NUFZcVFkSGRWRldLNVE0elFIWHdGNmZTaUVuQ19RaHp3cg?oc=5",
-      "pub_date": 1792753201.0,
-      "article_url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108450923-1792750261614-gettyimages-2300714363-GERMANY_NVIDIA.jpeg?v=1792750317&w=1920&h=1080",
-      "description": "The word on the ground from Nvidia's GTC conference in Berlin."
-    },
-    {
-      "headline": "AI Giant Nvidia Invests in Entertainment Startup Higgsfield",
-      "source": "Variety",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXZJdkRXNG9CRG9mQWQ4VFdDZVVjaW1kZTIwTkJEQUtEa1VXNUQtY1J1NHA4SDJ3UUNxSy12S1B2cXQ1NTd1cWt1cTdGTWI0YU1GaU9vSzdyZ3pnWnZmTTlNWWk1WVRrNnNYbXJIZkk4X3lLcnpfdUJsZDBnbXFxTnBDeURjeGhRVTV4d1RCSUc1ZVk4MlpaTEh4WFpRbS1JZkE?oc=5",
-      "pub_date": 1792768680.0,
-      "article_url": "https://variety.com/2026/digital/news/nvidia-tcv-invest-generative-ai-startup-higgsfield-1236929624/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Zhaslan-Madiyev-Kazakhstans-Deputy-Prime-Minister-and-Minister-of-AI-and-Digital-Development.jpg?w=1000&h=563&crop=1",
-      "description": "Higgsfield, the AI video and image generation startup, extended its Series B funding round with new investments from Nvidia and TCV."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T01:49:37.346185+00:00"
+  "fetched_at": "2026-10-24T06:55:45.333069+00:00"
 }
