@@ -15,6 +15,56 @@
       "description": "In July 2004, security researcher Stefan Esser sent a warning."
     },
     {
+      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5",
+      "pub_date": 1792796749.0,
+      "article_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "headline": "OpenAI to Train AI Models Without Internet After Cyber Incidents",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
+      "pub_date": 1792787417.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVV6Y3hHVDlVbm1oZkFJNWJBV3hVS2ROYWJPX1cyTjhxMVNvbkRkWmFXb2RWTlpJU2gwdTBLRmpsYmFhMmFRdUZhNlJGdm96YWxIWVB0OHpzR0JrN0RuRFd5bXptVlE2T1FaV1JKY1prQUlZX1dBMkJqVi1OWGp6SjI4UUJISHN1bkVIZi1CNXB1U1gtYmFSdA?oc=5",
+      "pub_date": 1792717200.0,
+      "article_url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China\u2019s AI compute power set to double, but heavily reliant on US chips: report",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZl9scE9GTE5xLXFiT29rTlRCUFA5YWJHUS1JR2hoU2RvUnE0UlZwZk9mTDJnUXdlRGdHcHlaMFYxQ004T04wcXBfTzdxcThlN2xkZW10d2dpNlpSZmpoXzk0Sl9FRUJwSUFQN1FQZjFEOUQ1VFZLa0xNSXluZ1lNYUV2dGpwMzMzZUNzWUpydmtzWXlteWppQjk5NzJQdnRvWmpuNFlWU25OQzF2bGVLYXRsMy1iMy12MjcwZEFrNXo3S2JfN1Ew0gHHAUFVX3lxTE5JTGpieDNTZldrd0REWk1vS2d3N2xZV2E3cDVQTWNMTU1fbHR6SXQ1WGRwQVVfWV9vSUNVd04yOGlsOTE0NlM2QTduUFd4dVRSejNmOUllSWg1bDl3Y29PVE1XRWk2bWNzRVVXeFpuMm5UUHpaNV8ydDRVRmVGR0JPV0tXMEV5eE9nRlpRZHcyc2h1Y3h6SmZoUkpUUk8zbUpLeGtZZmRkaHFiMjhocHI0YkdOTy11QzkyYTdfcUdIc19yTWpmbGM?oc=5",
+      "pub_date": 1792803611.0,
+      "article_url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google healthcare leader offers a vision of 'AI with purpose'",
+      "source": "Healthcare IT News",
+      "source_url": "https://www.healthcareitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNDc2ZNak9LSWZaVTgwb05Cak5TWTU2T2w3d29XR2hKaG1relJTVGhYTnlDeE1JYWdTQXNDdXJ6ZHg0bmo1QmlqSms1eC1lVDFvMkpUUThoaGItSF9MVHI2aW5BT0lXV2lkV2IwZ2pmVGM0Q29TZk1FQkJGTUtTT2dxSTJySFY0Q205d20wYXM?oc=5",
+      "pub_date": 1792806160.0,
+      "article_url": "https://www.healthcareitnews.com/news/google-healthcare-leader-offers-vision-ai-purpose",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Her 6-year-old brought home an AI-generated photo from school. This mom isn\u2019t having it",
       "source": "USA Today",
       "source_url": "https://www.usatoday.com",
@@ -23,56 +73,6 @@
       "article_url": "https://www.usatoday.com/story/life/health-wellness/2026/10/23/schools-embracing-ai-parents-worried/92359840007/",
       "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92366052007-ai-portrait.jpg?crop=1438,808,x0,y383&width=1438&height=808&format=pjpg&auto=webp",
       "description": "Nikki Anderson's 6-year-old daughter brought home from school an AI-generated photo of herself at age 25. Anderson was furious."
-    },
-    {
-      "headline": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1NPZWhQZW05ODAxWnE1dTNYbDJaVVNzbGxjcERRMkRGUnk3OE9jdUE2VGJWRXpTY0VqVnhSeWtYdXhTNGlSM1V3NkVXbFI0RmMweFJqcXZlc0FYdWt5QmtHaWpHQWN5Vzc4aW55cnlqYjdwblM0R04tUUFlRU1ESGk0VnprWjNPRFpWaXJEVkJGMTdab0RtTTlNVWFwN2ZOcF9iVTdDSDhKQnVzNlNqWDdEZw?oc=5",
-      "pub_date": 1792787562.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI pixie dust is losing its stock market power",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
-      "pub_date": 1792791467.0,
-      "article_url": "https://www.axios.com/2026/10/23/ai-stocks-meta-western-digital",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmlUc05lb2JTUlJSZ00wQW9RUFB5VEY2UGZRRmxxTnFESmNnRC1KMDVzNVRzbG85TC1rWVZyUWhwckZVYll2T3J1b0ZEQ1RzZldYM2dyOWp3SzZOWkU4c2FPQnM5QVRJb19idEJyNF9QVTlJdkJ3Tl9oeW5pdm5iYmNxanMzRXh3QjZMcENCYVUtOG5pR0sxS3ExRHYyX1ZTcmxseVRYYjlCcTIxYjUyWE1UNmw4RXVVMDZkcTZHckxyWFA5WE5aRkdR?oc=5",
-      "pub_date": 1792775139.0,
-      "article_url": "https://finance.yahoo.com/markets/article/a-cyclical-downturn-is-inevitable-in-an-ai-crash-strategist-dario-perkins-170539090.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/72a3711067f2437115333c1d2f8a3ab4808a9323433f5164f20284d7a12bdac5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F88bd0fec-f21f-4548-9eea-4da2679f792a",
-      "description": "A new paper from TS Lombard strategist Dario Perkins games out how ugly things could get if the tech rout keeps gaining steam."
-    },
-    {
-      "headline": "Goldman Sachs CEO David Solomon is optimistic about AI. Most of America disagrees.",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTBtRkdCV0JmRVhRRElocWhzcy1QVnNWalVodjRkQTRBa29uVTJhaXc0cXBSTWFYQTluU05rZU54blRJVktmNURyUU1aWldQclZuRllZbzdfSnAyaGNiM3ZYb3VPb2QtdTNna0tvUDdxMDBBRmd0eTVaWDNhX28xWi1SRWd1SV82cjVYeUFxeE1kZw?oc=5",
-      "pub_date": 1792794716.0,
-      "article_url": "https://www.nbcnews.com/business/ceo-interviews/goldman-sachs-ceo-ai-optimism-rcna604322",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-David-Solomon-CEO-vsb-1808-9b21ff.jpg",
-      "description": "\u201cWe\u2019ll look back, 20 to 25 years from now, and the benefits will be really positive for our society,\u201d the Wall Street leader said."
-    },
-    {
-      "headline": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3FQdU1JZUt5SV95Um5WSkMxQW96a3M2WnZnLTU5UXRYVEVUd2RLb3BKSXFyZktvU1RYWW5oRW1MWjYtMjBGSVcxQW1FRks2UmpCTmREeWxqdE1ZVE0tWkxUUERhcUl0VFpPRlczS1l3eS1xTnkyUzJ6M2VuVl85MzViQVlyWWExeHVQOTlYTHFWVW1RZUhlbEpQN3hTMHl4dE56OFl5ekY?oc=5",
-      "pub_date": 1792796460.0,
-      "article_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ac6c0c552827e838dd44c361bfa727f",
-      "description": "BBC series deliberately uses \u2018more organic\u2019 shots to assure viewers animals are not AI-generated, producers say"
     },
     {
       "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
@@ -85,26 +85,26 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
-      "headline": "Securing our frontier model training environment",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
-      "pub_date": 1792780594.0,
-      "article_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ho5AoUkijZ1OWhqcDlVvT/84af1aa075c5e8e44d9dc93d0146c31f/new-approach-to-research-model-containment-social.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+      "headline": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0xnWHB0Qjh6WTIta0JjNXdDZ1VhMmtmNFEwcG4wX3d2a2Rad1J1YThEQmJJbFFndDJRQU5FLVFnamt4cUkyeTV2andYOUZZQ2ZUOHBRMjhLMkZxeXFrRVVVa2FCRXdjeVFPQkZibFNKVmRRN1ZMcFZoLVlXUnFwUjFoclY3ZkVuYlFv0gGQAUFVX3lxTE5RS3U5U1hWcTY5Rm5VcVMwVnVEdkx2bUQ3VDlDQjdBeHVDdEtsUHJiM0FqNmhUYzgtb1dlZy1pSGg1RUd4SW9Fd2oyRGpreUNYMHhvYXVYZGtyblVGdko3NDRGbjhMNmtMUW5VVmY5NUFZcVFkSGRWRldLNVE0elFIWHdGNmZTaUVuQ19RaHp3cg?oc=5",
+      "pub_date": 1792753201.0,
+      "article_url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108450923-1792750261614-gettyimages-2300714363-GERMANY_NVIDIA.jpeg?v=1792750317&w=1920&h=1080",
+      "description": "The word on the ground from Nvidia's GTC conference in Berlin."
     },
     {
-      "headline": "OpenAI to Train AI Models Without Internet After Cyber Incidents",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
-      "pub_date": 1792787417.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents",
-      "image": null,
-      "description": null
+      "headline": "AI Giant Nvidia Invests in Entertainment Startup Higgsfield",
+      "source": "Variety",
+      "source_url": "https://variety.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXZJdkRXNG9CRG9mQWQ4VFdDZVVjaW1kZTIwTkJEQUtEa1VXNUQtY1J1NHA4SDJ3UUNxSy12S1B2cXQ1NTd1cWt1cTdGTWI0YU1GaU9vSzdyZ3pnWnZmTTlNWWk1WVRrNnNYbXJIZkk4X3lLcnpfdUJsZDBnbXFxTnBDeURjeGhRVTV4d1RCSUc1ZVk4MlpaTEh4WFpRbS1JZkE?oc=5",
+      "pub_date": 1792768680.0,
+      "article_url": "https://variety.com/2026/digital/news/nvidia-tcv-invest-generative-ai-startup-higgsfield-1236929624/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Zhaslan-Madiyev-Kazakhstans-Deputy-Prime-Minister-and-Minister-of-AI-and-Digital-Development.jpg?w=1000&h=563&crop=1",
+      "description": "Higgsfield, the AI video and image generation startup, extended its Series B funding round with new investments from Nvidia and TCV."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T23:20:10.803597+00:00"
+  "fetched_at": "2026-10-24T01:49:37.346185+00:00"
 }

@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkxCUm5VMmc3LUtHeDlxOHJfUjVTVjJnV043VlgyUlhZQkxnbTlpRmxGdkxkcGxCeFVPWVlVQW1CQ1Q1aWJwNTVBNWlfWnl1X2psUUU0Y1hJQkpJb292UzlxRVNFRnZUVkF3b1Q1SkljYkxLbjJFcTZUS3dfdkUzRS1ObWZCX2FJUENaMVljUGpUU3FDVk5mdV9kMXhyNVE1bTc5LXcwbll2WERUZEFF?oc=5",
       "pub_date": 1792750500.0,
@@ -25,14 +25,44 @@
       "description": "Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the\u2026"
     },
     {
-      "headline": "Bitcoin Investors Look To Mid-Term And Fed Meeting Results Amid Range-Bound Trading",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNTZFSmhOSDZBMmxpMzQ5X3NSVWlQdmJqbUhXYVRlOHNkVThscERzWFFKdE56UkE5LU0yWXNKTi1WR0hVbVowM0dIVmNScGtuOUR6dXlQTl8waVFHcmVPQVJqYk50UWpGei0zM09FWFlEc0QzZ3JkMmhLSzVIN2JsU2RhcmJJcW9JdXJxLS1zVG5BQ0M0XzBCeWcwYThnM0VrM0tJX214WUdRalZNWkdLWmE5bnRfT0pUclQ1a2N4R3Fpd0xoekhEcGN6bERhZ2JXbkdQcm5R?oc=5",
-      "pub_date": 1792788988.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/23/bitcoin-investors-look-to-mid-term-and-fed-meeting-results-amid-range-bound-trading/",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhCRDI1clFnSHpoaXV2em5xX1FLRlpBWDlSTlItWnE2eDhFbTRBV3BzNm1fRDF4Tlh1ZnQ5YXQ1bkkxSnRSNVhRNXZLMlR0cl9tQlEyRnlMQWQySTdodDFQWnVNVTBlVlBwNnlhUk1GOUtVczhDZXN1SGxwS1g3UktYTnFHb1l3UWVGczV0bUN1d2sxdHFJZ1Bka3FxTTMxWmpsWDZnTWhFdw?oc=5",
+      "pub_date": 1792800000.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-usually-bottoms-midterm-elections-000053376.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b039db900b9b7a2143aaf0aa8430a11a8543cffe8fbf27fae1edce5fb3987194/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F82f930ef2567faf79c3536ccf14d0666.jpg",
+      "description": "For three straight election cycles, Bitcoin found its floor within weeks of midterm voting. This year the pattern shattered, but whether that means the worst is already over or a deeper drop still looms depends on one critical price level."
+    },
+    {
+      "headline": "Bitcoin Cash vs Litecoin: Which Payment Coin Has More Upside in 2026?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY09tZnVUcDU3MkFIWEE0OUdoT0Fadld6MDN0dW83UXpHRkYwLXE4b0EzdDk2YzJPM1huX29hYjZsZUNNTWdWYTdReWY5RlVETWp1WEI2eEpNTjY2WDVVRkI5SmtwR3hDYXBLSmhOTTVNTlEwN05jeUFoSmV6eFhfejFjUzNJWEl5ZGVwR2JCamdQM1d3UU53NVlCY3B0dw?oc=5",
+      "pub_date": 1792798825.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-cash-vs-litecoin-payment-234025815.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8f0ad0606a71ab8f2981246a73c761ca24a4e779a1c1d517e707afccecb627a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F457ba7f86a2cce46f090a195a5585863.jpg",
+      "description": "CME futures launched, ETF filings hit the SEC, and two rival payment coins are pulling in opposite directions heading into year-end. One of them just made a 46% move in a single week, and the other can barely attract a dollar of ETF inflows."
+    },
+    {
+      "headline": "'Cash Is A Melting Ice Cube,' Says Industry Executive as Bitcoin Adoption Poised to Surge",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUFwVFJsWnhkVmREMkpwRWlpQ0pwTXVfRVQ0VTc0ZE85OWZyVkJ4NllBemk1dUFhT3JTeUxtSUJFRzgzdEdycHRKUHFuUTRJbXBaV3p0cXhRWWEwbUdEWnBIT3N1MkJETGxtQ1VpTE1RSmpTdWtfZXlKVFFJUFNhU1FlTnMtQUlWZGdXcVJxTUd5UGVrU0E?oc=5",
+      "pub_date": 1792794624.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cash-melting-ice-cube-says-223024969.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/196ca6d0aec3465325d6976dd408e74f1db30679fc8777c03ea907cbf68ea401/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Faab60956d60932b9997ea2f5093fa9ec.jpg",
+      "description": "Bitcoin could attract growing corporate demand as Bitcoin for Corporations co-founder Alan Helm urges companies to diversify their cash reserves.Why Should Companies Allocate to Bitcoin?In an interview with Bitcoin Magazine on Wednesday, Helm said institutional conversations around Bitcoin have shifted..."
+    },
+    {
+      "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTlaVVRSa0plR0ZjQkk5am1ReDkyS25leVdEcEhfRGF5amdldmF2ZWgxaGZ2ejJNc0pEZGVsOFJrWmFLN0JDVmRMOFN5OHlrWXlQRkdlMmZWeHVwdkNTRVpIbzB0bkRNS3FlaVdtdUJzN29iaHR6Ynp4RUZ5QWVTT3VaRGNpUk1LblZBM0hOU3RzMXdtTnpyTUx0UUhMNWFKd2RlaEc5dFR0VENhbXdDSTNTZ1k4T3ZWejVBMDBaTXd3bC1IY1V6WQ?oc=5",
+      "pub_date": 1792764002.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9655eada3129b642b283dac1319e070000a740b5-6960x4640.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets."
     },
     {
       "headline": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
@@ -55,56 +85,26 @@
       "description": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump."
     },
     {
-      "headline": "Bitcoin falls below $82,000 as investors retreat from risk assets",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPam5kUWdfeENfMk9RcThZWmI4UXdDaExlR2tQSjlhVW9pSmxmZ0pNNFF3Z29yQ1o4UmQ4V1dyV0VyWEFJbWdkemxZbXdzMDRkMFFWSWdrOVpVYWk0b1J0Wl9SWWRWYV9DZUdMVXNiYkVMbDlCa1hsSjFlakJPYlFaOHNWelQxbG5hLTZqSzJEVXM0VW1Vc0s1VktXNTJ4ODAyTXNPY1VUdWt4M0FSc1lIblh2bUFRMjdRLUxHUA?oc=5",
-      "pub_date": 1792683102.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/967a2cec5781f20133492c9f1489aeea5936b18b4ec546f23f2f5c1c1a9a1b4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F5af990f5-2039-43b2-ae63-efbaedae4239",
-      "description": "Bitcoin fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions."
+      "headline": "Current price of Bitcoin for October 23, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4blhzWGdOeXlGSUFHRG0ybXQ3UGlPUk9POVpMU201ajcxTmltaDBrOU5RQ0daSkhRY2NxdERCUG9ZTFZPY3J5SGd5X1NoU09CSWNDbzlobkhVS2V2RVV3UGc5d1ExMkU?oc=5",
+      "pub_date": 1792761470.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-23-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-23.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "'God, that ain\u2019t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center",
+      "headline": "Bitcoin data center fire seriously injures two people in Treutlen County, EMA director says",
       "source": "13WMAZ",
       "source_url": "https://www.13wmaz.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZlV1NzhLUWNHVUh6b2tCMmRrd25BUTM0MGpZbURPWnBfMW83WWw2MXJfOEhDSkdPc1hCcF9qanZBRGhDR2s0YXF3RGxUZ2ZjQ3BJMVNLSklfeTllZ1loMHJwQk1MN2MySHBnVjY5ZmVtN2lrUERiNWljSjlfNV9PTFlyNWRvSEVtWjBQd1VHMy12WXRsZGtiWU02ejFUeWlGcDJQa0Mwdy1pWVN4Q1pGTDV1LWJzc2VOaXQ1V0IzSDFnOXBLam9JY0hSekExR0E4U3UyYnRySjZ0bTluc0Z4UE4wa0tHU1Y0MzlUOWV0VVVocm5GZWc?oc=5",
-      "pub_date": 1792724820.0,
-      "article_url": "https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDQ2SUFDZUd1QklTVnpaQ3I3ejRnWEtzV3ZFQ2Z5UjBpWHhkaVRFZ3p4c0tsOEQ1b2lBUmZMRmpYVG9uNHliT0JwOUtnVWtHNFVzSWYtY2x0RjY5dF9nbE5aUE9kZTZ0REpnSUhZUTJvQmhNWnRCTHo2eGhHY056ZVBwNzdhZFBWSi03VW9vNlBKRFdYOGFxSEJ0dmJjcXc4S3U5dXZaNVcwcGdaNldLX19IbjQtc1lPQ2hfRXpkSHdweDdYN19OMmU1ZVRUZVc2dS05Yg?oc=5",
+      "pub_date": 1792696560.0,
+      "article_url": "https://www.13wmaz.com/article/news/local/fire-at-data-center-injures-2-people-treutlen-county-ema/93-d5f53f6c-3eb9-4803-ace8-240a3360cb0e",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Massachusetts police officer heads off Bitcoin scam targeting Maine woman",
-      "source": "Bangor Daily News",
-      "source_url": "https://www.bangordailynews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1BGc094NFJXRVo2elhrM2lQRzhFM2gzVS1RMVVpeEJXQ1BCUU5QZW1FbHdFYVh0TW93UXctbDdYQ0lqNkxVT2h2d1FsQm9GaHh4Z2kxYmxzblFBRzlWNGJOVGlKWlpjcFJKNC1RekQ5bV9qYmNBb0Z6b0V6NVNwQ0JHeHBtWW9oT0QtdkJUQUI1TU9Y?oc=5",
-      "pub_date": 1792693805.0,
-      "article_url": "https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Core Ends Long Embargoes For Bugs AI Can Rediscover",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Vd0d5bENCdk1GVkxtNG1UcDJUVW14MkxUU1FaY2ZTRDUtQXh4cmxZVTFSZGlYR3VDOXh4c0FIclVya212UGhDNU5mN1dFMFZYQXp5T2NuYTRxeE5zbGdpWEQ0OFVOTS1lYmZ1YTZuTFUySUE?oc=5",
-      "pub_date": 1792775318.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Core-Ends-Long-Embargoes-for-Bugs-AI-Can-Rediscover.jpg",
-      "description": "Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received."
-    },
-    {
-      "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPei1jcHJQVGVid29ZNFlWelF1eTdnU050dTNzUVhLS3kxY21pOFg3TnNiMGJJYjhuVjVsRG9yZURZNW1mOVZhalhiY2x6MkY3MVdQQ210Yk1oYnFWbGNscThWdUxjOXBiWVZmMDQzenE3WHJ4eThfejcxVVVqRUlSdmFrcDFybTBzcm5DYVFqTm9QZl9XcXhqVw?oc=5",
-      "pub_date": 1792743300.0,
-      "article_url": "https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891827%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
-      "description": "Cardano could be headed for a big comeback in 2027."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T23:20:00.156064+00:00"
+  "fetched_at": "2026-10-24T01:49:32.007986+00:00"
 }
