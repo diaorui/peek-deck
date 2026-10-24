@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-24T06:55:47.135337+00:00'
+updated: '2026-10-24T11:52:37.688669+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 06:55 UTC  
+**Last Updated:** October 24, 2026 at 11:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -1.6%  
-**30d:** -4.0%  
-**90d:** +26.7%  
-**1y:** -27.7%  
+**24h:** -1.4%  
+**7d:** -1.8%  
+**30d:** -4.2%  
+**90d:** +26.4%  
+**1y:** -27.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1622.08B
+**Market Cap:** $1619.14B
 Rank #1
 
-**Circulating Supply:** 20,102,671 BTC
+**Circulating Supply:** 20,102,809 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.0%
+-36.1%
 
 **All-Time Low:** $67.81
-+118894.2%
++118676.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not one government currency has preserved its purchasing power over the past decade.](https://www.reddit.com/r/Bitcoin/comments/1xde1vw/not_one_government_currency_has_preserved_its/)**
 
-17h ago
+22h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The McRib Rally Is Back The McRib Rally Is Back
 
-18h ago
+23h ago
 
 ---
 
@@ -95,7 +95,7 @@ The McRib Rally Is Back The McRib Rally Is Back
 
 Available in every Swiss post office
 
-17h ago
+22h ago
 
 ---
 
@@ -103,13 +103,13 @@ Available in every Swiss post office
 
 sheeesh lol
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 16h ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 21h ago
 
 ---
 
 **[Which one of you is it?](https://www.reddit.com/r/Bitcoin/comments/1xdcilp/which_one_of_you_is_it/)**
 
-18h ago
+23h ago
 
 ---
 
@@ -117,7 +117,7 @@ sheeesh lol
 
 Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin. Same watts, double duty. The Avalon Mini 3 is a perfect space heater. ✌🏻
 
-21h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 My father works as an engraver of medals. Some time ago, he was commissioned to engrave a medal for a woman whose son had passed away—the woman was a foreigner, incidentally. The medal had to feature a specific logo, which the woman explained to my father was "Bitcoin" (though he doesn’t recall the details very clearly, as it was quite a long time ago). Recently, he came across the logo and showed it to me. We aren’t certain exactly when this request was made, but it was definitely between 10 and 20 years ago. Could this be one of the earliest versions of the Bitcoin logo? And is it possible that the woman’s son was one of the creators of Bitcoin, or someone who played a significant role in its development?
 
-14h ago
+19h ago
 
 ---
 
@@ -153,7 +153,7 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 **[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
 
-Bloomberg.com • 20h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -161,15 +161,39 @@ Bloomberg.com • 20h ago
 
 Believing in a Bitcoin supercycle doesn't really change how to invest in it.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eyes-84-000-whale-054514426.html)**
+**[BlackRock (BLK) Stock Could Be 11% Undervalued Following Bitcoin ETF Filing](https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-stock-could-11-111124099.html)**
 
-Investing.com -- Bitcoin traded under $81,000 as large-holder withdrawals and institutional wallet activity raised hopes of a recovery towards $84,000, despite continued uncertainty across cryptocurrency markets.
+BlackRock has seen its stock deliver a powerful run over the past few years, which naturally puts a spotlight on whether the current valuation is really backed by the returns the business earns on its capital. With the asset manager pushing deeper into areas like bitcoin-linked products, AI infrastructure financing and tokenized funds, the question now is how much of that ambition is already priced in. Over the past 3 years the share price has gained about 99.9%, so a lot of future...
+
+Yahoo Finance • 41m ago
+
+---
+
+**[Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html)**
+
+Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds.
+
+Yahoo Finance • 46m ago
+
+---
+
+**[What Happened to Uptober? Bitcoin May Be Down in October, But Here Are 3 Reasons to Remain Bullish on BTC.](https://finance.yahoo.com/markets/crypto/articles/happened-uptober-bitcoin-may-down-103200556.html)**
+
+October is usually a decent month for Bitcoin, but it hasn't been this time around.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin falls below $82,000 as investors retreat from risk assets](https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html)**
+
+Bitcoin fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -177,13 +201,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%, with pepe up 13%.
 
-CoinDesk • 20h ago
-
----
-
-**[Bitcoin Breaches $82,000 in Biggest Decline in Over a Month](https://www.bloomberg.com/news/articles/2026-10-22/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment)**
-
-Bloomberg.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -191,21 +209,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 16h ago
-
----
-
-**[Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports](https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports)**
-
-The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.
-
-CoinDesk • 16h ago
-
----
-
-**[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
-
-Financial Times • 1d ago
+Fortune • 22h ago
 
 ---
 
@@ -213,15 +217,13 @@ Financial Times • 1d ago
 
 Both injured employees were airlifted to the Augusta Burn Unit.
 
-WSB-TV • 15h ago
+WSB-TV • 20h ago
 
 ---
 
-**[Heatbit unveils Bitwater, a water heater that mines Bitcoin](https://www.tradingview.com/news/cryptobriefing:150be6ecb094b:0-heatbit-unveils-bitwater-a-water-heater-that-mines-bitcoin/)**
+**[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
 
-Your water heater spends its whole life turning electricity into heat. Heatbit thinks it should also be earning Bitcoin while it does that.The Delaware-based company has launched Bitwater, a residential heating element that warms water and mines Bitcoin at the same time. It is built to fit into the…
-
-TradingView • 1d ago
+Financial Times • 1d ago
 
 ---
 
@@ -233,7 +235,7 @@ TradingView • 1d ago
 
 Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
 
-⬆️ 8 • 💬 3 • 2d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
+⬆️ 8 • 💬 3 • 3d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
 
 ---
 
@@ -255,7 +257,7 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 **[OpenAI trims valuation target to $1.25T after pitching higher price](https://news.ycombinator.com/item?id=50209513)**
 
-⬆️ 6 • 💬 0 • 16h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
+⬆️ 7 • 💬 0 • 21h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
 
 ---
 
@@ -263,13 +265,43 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: A Precarious Position](https://www.youtube.com/watch?v=eN6dpreDIk4)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 71K • 👍 3K • 💬 145 • ⏱️ 19:51 • 11h ago
+
+---
+
+**[This Bull Market Will Be THE Most Dangerous In Bitcoin&#39;s History (Pitfalls To Avoid)](https://www.youtube.com/watch?v=xu39s1-MNdI)**
+
+Bull Markets can be dangerous and I believe this one will be the most dangerous of all. (Pitfalls To Avoid) In this video, we're ...
+
+📺 Brad Long
+
+👁️ 10K • 👍 270 • 💬 38 • ⏱️ 6:39 • 15h ago
+
+---
+
 **[Insane Conspiracy Theory To Crash The Banking System Exposed!! Got Bitcoin?](https://www.youtube.com/watch?v=LoyGJbV-5Xc)**
 
 Chamath says AI and quantum computing will hack Bitcoin and send it to zero. Dante breaks down why cryptographers like Dan ...
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 89 • ⏱️ 20:55 • 8h ago
+👁️ 25K • 👍 1K • 💬 108 • ⏱️ 20:55 • 13h ago
+
+---
+
+**[Is Real Estate Dead? Grant Cardone’s New Bitcoin Strategy](https://www.youtube.com/watch?v=h7-2Pj_ouHc)**
+
+Grant Cardone has been buying apartment complexes for forty years. Eighteen months ago he started putting Bitcoin into the ...
+
+📺 Yahoo Finance
+
+👁️ 17K • 👍 288 • 💬 117 • ⏱️ 29:52 • 18h ago
 
 ---
 
@@ -279,17 +311,7 @@ Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cr
 
 📺 Simply Bitcoin
 
-👁️ 58K • 👍 2K • 💬 232 • ⏱️ 18:14 • 1d ago
-
----
-
-**[Bitcoin Could Have a BULLISH Weekend... But There&#39;s a Catch!](https://www.youtube.com/watch?v=jIhApqRJbXo)**
-
-Bitcoin is sitting at a critical decision point and the whole crypto market is watching one key level: 82.5K. If Bitcoin breaks above it, ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 349 • 💬 7 • ⏱️ 1:34:48 • 14h ago
+👁️ 59K • 👍 2K • 💬 233 • ⏱️ 18:14 • 1d ago
 
 ---
 
@@ -299,17 +321,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 131K • 👍 4K • 💬 192 • ⏱️ 6:07 • 2d ago
-
----
-
-**[Tech Stocks Dump, Bitcoin FOLLOWS: The Exact Downside Targets](https://www.youtube.com/watch?v=IirVmrcaMFg)**
-
-Tech stocks dump and Bitcoin follows. Here are the exact downside targets to watch. Nick Valdez, Chief Crypto Strategist for ...
-
-📺 Verified Investing
-
-👁️ 6K • 👍 170 • 💬 22 • ⏱️ 16:55 • 1d ago
+👁️ 131K • 👍 4K • 💬 193 • ⏱️ 6:07 • 2d ago
 
 ---
 
@@ -323,43 +335,33 @@ JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook
 
 ---
 
+**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 121K • 👍 4K • 💬 159 • ⏱️ 10:31 • 1d ago
+
+---
+
+**[Chamath Palihapitiya: An Urgent Alert To All Crypto Investors](https://www.youtube.com/watch?v=U2UrnJMjDbA)**
+
+Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x.com/GigaStar_ GigaStar is a channel partner.
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 1K • 💬 111 • ⏱️ 11:34 • 1d ago
+
+---
+
 **[Why I’m buying the Bitcoin assets Fidelity just highlighted](https://www.youtube.com/watch?v=Nu4J0KWW0k8)**
 
 Fidelity Digital Assets just published a paper calling bitcoin perpetual preferred stocks "the newest demand catalyst in bitcoin.
 
 📺 Betirement
 
-👁️ 18K • 👍 600 • 💬 172 • ⏱️ 15:56 • 1d ago
-
----
-
-**[$500,000 Bitcoin BUY SIGNAL - The Chart Behind 5,000% Gains Just Flashed AGAIN](https://www.youtube.com/watch?v=IrPwPctnXvQ)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 6K • 👍 248 • 💬 104 • ⏱️ 14:29 • 2d ago
-
----
-
-**[Bitcoin: The Final Crash? 🚨](https://www.youtube.com/watch?v=yoAu6TuS7LQ)**
-
-This is all about Big news for all Bitcoin, Ethereum, Solana and Altcoin investors. 0:00 - Intro 0:45 - Price Action 5:38 - Seasonality ...
-
-📺 Investing Made Simple
-
-👁️ 16K • 👍 650 • ⏱️ 12:12 • 1d ago
-
----
-
-**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
-
-Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
-
-📺 Yahoo Finance
-
-👁️ 41K • 👍 672 • 💬 200 • ⏱️ 14:53 • 1d ago
+👁️ 18K • 👍 609 • 💬 172 • ⏱️ 15:56 • 1d ago
 
 ---
 
