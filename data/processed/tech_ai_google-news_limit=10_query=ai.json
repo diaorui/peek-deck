@@ -25,74 +25,64 @@
       "description": "In July 2004, security researcher Stefan Esser sent a warning."
     },
     {
-      "headline": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdG9IQk05V0RreXowdWtENmZNSTZPRWFMczNQUGZCcE9nZFFOMnpLWmJmSkUtMldUMDRzNHNTSWVPSmpGTE1wM1lYS1IzQmE0MktGYTdndmtXYUdRaXRUaUMxcjAyd19IX3I4R3FXanQxZ3p1NVFCMVlHODBCUdIBgwFBVV95cUxQU1ppdm16cTYwY0FtZVhKMlVjeWZLUTl0UDRadXZ6UHV4bHNYNXFnQm0xak9zMjA5MFF5Slg4bkg5ZEt4Y1lEQy10Z200amVpUkU0UGNtNHc5bndSQks4LXR5ckpGVzlQYTRfSGNxa0Ric2U1OUU2dGQzem9wZUJHczVsbw?oc=5",
-      "pub_date": 1792768659.0,
-      "article_url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108446583-1792673740106-gettyimages-2300859671-86268678.jpeg?v=1792673757&w=1920&h=1080",
-      "description": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online."
+      "headline": "\u2018Made by humans, not AI.\u2019 Why Democrats are shunning fake videos in ads.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEdXYU54dF9vbGFGaXpEdnhkNzN0V2xKRy1xN3FJdm1fTG1kazluUmdNQVRIVE00S2I0RFhIVHg2eWNlMEpHUm85V1BNLTdUeWFKZVQ5dHRkOVY2SU5KN21pMjEtUmktTTZsZy1mZzdVNzRGTllUR0lpU2hTZHNmLVlRWjZOR3JwUTJGc0NFOWZqb3pqM20w?oc=5",
+      "pub_date": 1792841524.0,
+      "article_url": "https://www.washingtonpost.com/politics/2026/10/24/why-democrats-are-shunning-ai-videos-ads/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MU7JABMHVKVM4SXMNUO3CAVCUU.jpg&w=1440",
+      "description": "A clear trend has emerged in the 2026 midterm ad wars: Republicans are embracing AI-generated videos while Democrats are betting they will backfire."
     },
     {
-      "headline": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNnR1RPd3VXa0hoTW1USmVib3RXRVNMbjI3R2NwNDhtYkV4YU10azF5U0VVUEZWQXFRdFdlaUg1eWFDRkZTZi04UUJ6MmtEem5YdUhra0lCX2trOEtSWGIydnpjQXotNDBZVHdXT2lOeWlKenNnWC1CS3NBNVhQOW9KNmJWZTNoTlZkUEd0c01XTWs1M3dTbkstZVpCNjVROE5r?oc=5",
-      "pub_date": 1792800000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
+      "headline": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHpyd0dWM0xXTi1Yenc5LWRtYlhZXzUydG5yc1BDaWRiWlZjZk0tYU5hVGRqYl9fNjhXNW5PRHN4T3F3azZmdU1EaWIzdG1BaWFwNzI5S0dDYUdyeFN0cWRMeUw3N2F5dkd5YjUzWFN6NWJOSENUQXNXVi1KY1oxNy1FVDJQbDRCdWfSAY8BQVVfeXFMTlIxSHBHSDdaQXpRdnBiQzdveFFyRWdFSXVnUkhGOFVHdGstSFNaSmhjVnNDNi1OcklJYktNSlNXOVRxbkt0VlNvRjRGeUUxbFNpX1V6VUhrLUVpS1lBRUJtNFducmRWbU5yQ3ptMFByX2xiOUd3SW56cDdCRW84VzVZeDE3dnF0QlFhVmc3MnM?oc=5",
+      "pub_date": 1792836001.0,
+      "article_url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108410871-1792014847833-gettyimages-2300235422-aw1a8615_btpwzyqe.jpeg?v=1792014900&w=1920&h=1080",
+      "description": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election."
+    },
+    {
+      "headline": "The rise of AI election ads in US midterms campaign",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISFkwU1BNV0E5aHVNOUZVbWtnNWZmUHltdmdETGQ1SnFRRWV1MGcyek1WRjQ0eW9GcWEtakYzUW9TVVZKVVZWNEZHcEdQd2hZNjVDTjIyYzM?oc=5",
+      "pub_date": 1792818224.0,
+      "article_url": "https://www.bbc.com/news/videos/cm62y59zw8zko",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/df8a/live/f3eb3240-ce32-11f1-bc2e-018d645d8d21.png",
+      "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
+    },
+    {
+      "headline": "Axios ahead: 2028 and beyond",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jYXFtbmdJb2w1LW1ZLUZLWWxIS3FMSl9pN2RJS2lCMnVmeDZSeHlRcTgycEp3VDVoS3JGbW5mZnFGdlRHYy12d2x0Y0trS01wbW1EOEd3UnNuellQNWc?oc=5",
+      "pub_date": 1792841674.0,
+      "article_url": "https://www.axios.com/2026/10/24/axios-ahead-2028",
       "image": null,
       "description": null
     },
     {
-      "headline": "YouTube, AI and neurodivergent representation: How Gen Z and Gen Alpha are redefining modern storytelling",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWxiWnRlbHdMbHFiN0YtQkx1Y2RvYlhDQl96aEVUWHBERm54N3A1eENhcUhNZ2dLdEY4UURZS05Wby1XYTNzQTl3aXNBRjY3c1dWY0xKbGZ5RDhFeml2TEdDQlBUU1VSV1JkWDg5RW9oQkxyd1dmVzZUeDFJWGFMdE9vTzYzOGkxWUQ3VmpVOFJyaWFXejVGTzNaZGt6YjJEa1BONXNTOA?oc=5",
-      "pub_date": 1792822440.0,
-      "article_url": "https://www.yahoo.com/entertainment/articles/youtube-ai-neurodivergent-representation-gen-061457991.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3f15e1c026394e6e8cd89c12d5dc3c70e48c2c65eaa11d7234a8378222bae36d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fe5537596734147ded2c15b7944684258.jpg",
-      "description": "Gen Z and Gen Alpha still want better on-screen representation \u2014 but also aren't as against AI storytelling as you might expect, according to the 2026 Teens and Screens report.View on euronews"
-    },
-    {
-      "headline": "Fired Massachusetts teacher says AI wrote the performance review that cost her her job",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDN3OW1xSDlYcVM4QXp0eFcyeVVFdWVnamJHZmwteDVsSmsxdERoa3RXaDRlcE0wT0xGdUlUczB1WGNTenlYZFVTa013MDV1TTZhRHZxUXphZmlsQ0FYSzdWS0JwWUlZMDZSc2lJd3FmeXFlazdBQWxiRGd5aGF0UTg3dXJJWDlPUm5SM0tTTVhXSFE?oc=5",
-      "pub_date": 1792821060.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/fired-massachusetts-teacher-says-ai-055100870.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8745a9dc08dad1438226b553e70404fdab6c99bf2462e87fdd36989c986bfd8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc7ce01cc64e606e997299f6004289286.jpg",
-      "description": "Apollos also alleged that age discrimination played a role in her termination."
-    },
-    {
-      "headline": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3FQdU1JZUt5SV95Um5WSkMxQW96a3M2WnZnLTU5UXRYVEVUd2RLb3BKSXFyZktvU1RYWW5oRW1MWjYtMjBGSVcxQW1FRks2UmpCTmREeWxqdE1ZVE0tWkxUUERhcUl0VFpPRlczS1l3eS1xTnkyUzJ6M2VuVl85MzViQVlyWWExeHVQOTlYTHFWVW1RZUhlbEpQN3hTMHl4dE56OFl5ekY?oc=5",
-      "pub_date": 1792796460.0,
-      "article_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ac6c0c552827e838dd44c361bfa727f",
-      "description": "BBC series deliberately uses \u2018more organic\u2019 shots to assure viewers animals are not AI-generated, producers say"
-    },
-    {
-      "headline": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
-      "pub_date": 1792815900.0,
-      "article_url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/",
+      "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5",
+      "pub_date": 1792659832.0,
+      "article_url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
       "image": null,
       "description": null
     },
     {
-      "headline": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObldYTjhoTmFEaERKM28wVnVERmV3SDVoaXpQOXR6ZFU2Z01MbDFyMWRCUTVuR09KTi0tSVlnbnZuT1NIZnlPSHVTMVhTR29SYlhNUkpjclNyRHk0cmdqN1lJU2tsdEdBTWpuZjVweW5OMjBDSFllTkRYTWUwY2xnQ2puVGNCRU9VOVo1UXB3eUx4eFRRNkFfVWh2eTYtRWU4RW1hclNB0gGrAUFVX3lxTE9DcFk4em5ETVduSDQwc0VwV0l1SWd6ckxzdVV6emMzZEJWNWVESXFCMTFiVi14N1RSSjB3NjVrT0IzZ0FKSjBXd3BlZ09xQUI3Rm11Y2tMX0RoVExZZU5RWm5xSTRjRkQ3U3dzRGVxZ3pkRkgzQWZkSklxU0tDVFpVWVR4YUt6R0FTWHdydWk2WDhiTm4waEZ0Z28teWtwMkVRU0U3ZzZuSEYwRQ?oc=5",
-      "pub_date": 1792792148.0,
-      "article_url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108198959-1757960794660-gettyimages-2207350795-mms21122_qsl76cdt.jpeg?v=1792794717&w=1920&h=1080",
-      "description": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings."
+      "headline": "\u2018Window of vulnerability\u2019: Banks move to restrict AI agent access",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObm4yWXp5WnVGalp2SE9ZMkExb3ZtOUhKZDV6VDd3Q0hGckI3Z1NMcEMtMkpjUG8tOXFmaERMWGZPc3pTWXNBQ3hyNHhtWTRpQTZJdlNLNDVUWjM2US1weHRpem5Zd01nVGF4c0U5Z0VVUFo4el92WENtUFRnZHd3NVRQeG5sWjR3MGZQU3B6bTVvc0o4dHFabkF4NFk?oc=5",
+      "pub_date": 1792787220.0,
+      "article_url": "https://www.usatoday.com/story/money/2026/10/23/banks-move-to-limit-ai-agent-access/92385119007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/08/USAT/92153644007-20170908-t-225032-z-631054258-rc-1-fe-2815-a-90-rtrmadp-3-globalbanks.JPG?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "description": "As concern over AI agents continues to grow, top U.S. banks have limited the technology's abilities on their platforms."
     },
     {
       "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
@@ -103,8 +93,18 @@
       "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
       "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
+    },
+    {
+      "headline": "My Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDBBclZlZE92ZUM3RkFURllGRGN0bU5XS0Z0N2FpZWlqV0VDdmd6TWUzZGhHVnRxaWlxbkhUTUtsOFhnUmdlSVViZkJHekRQVnFySkxVWEN3Wmc3TlViQzVNa2w3TkRCZ1pGeWRqdHVuU0t5NDA1N0cwWl9faXNRQQ?oc=5",
+      "pub_date": 1792832533.0,
+      "article_url": "https://www.nytimes.com/2026/10/24/realestate/ai-doorman-new-york-city.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T06:55:45.333069+00:00"
+  "fetched_at": "2026-10-24T11:52:36.002311+00:00"
 }

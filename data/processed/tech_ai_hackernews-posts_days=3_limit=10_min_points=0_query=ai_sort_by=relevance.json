@@ -9,8 +9,8 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "author": "rakannimer",
-      "points": 625,
-      "num_comments": 600,
+      "points": 636,
+      "num_comments": 605,
       "created_at": "2026-10-22T16:08:00Z",
       "object_id": "50197313",
       "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0",
@@ -23,8 +23,8 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "hn_url": "https://news.ycombinator.com/item?id=50198675",
       "author": "niemandhier",
-      "points": 491,
-      "num_comments": 213,
+      "points": 495,
+      "num_comments": 214,
       "created_at": "2026-10-22T17:44:06Z",
       "object_id": "50198675",
       "image": "https://opengraph.githubassets.com/de3aeb3b466f88f13b2190b2b01adee0c8442c30de2459134b10ead7f50d4fcd/NVIDIA/OpenShell",
@@ -61,6 +61,20 @@
       "site_name": "The Verge"
     },
     {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "hn_url": "https://news.ycombinator.com/item?id=50218633",
+      "author": "testing22321",
+      "points": 211,
+      "num_comments": 57,
+      "created_at": "2026-10-24T05:49:57Z",
+      "object_id": "50218633",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "reddit.com"
+    },
+    {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "hn_url": "https://news.ycombinator.com/item?id=50180752",
@@ -75,12 +89,26 @@
       "site_name": "OpenAI"
     },
     {
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "hn_url": "https://news.ycombinator.com/item?id=50212507",
+      "author": "luu",
+      "points": 141,
+      "num_comments": 130,
+      "created_at": "2026-10-23T17:28:36Z",
+      "object_id": "50212507",
+      "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
+      "description": "White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to electronic ones. But a fan is really a great approach; you just need to put it to better use: have the fan clean the air.  Instead of spinning a fan in free air to make noise, you ca",
+      "favicon": "https://www.jefftk.com/favicon.ico",
+      "site_name": "jefftk.com"
+    },
+    {
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
       "hn_url": "https://news.ycombinator.com/item?id=50205229",
       "author": "jlundberg",
       "points": 140,
-      "num_comments": 155,
+      "num_comments": 156,
       "created_at": "2026-10-23T06:41:11Z",
       "object_id": "50205229",
       "image": "https://berget.ai/api/og?title=New+open-source+method+shows+the+same+AI+request+emits+8.5+times+more+CO%E2%82%82+in+Texas+than+in+Sweden&image=https%3A%2F%2Fberget.ai%2Fimages%2Fblog%2Fper-request-co2-press-release%2Fcover.png",
@@ -93,7 +121,7 @@
       "url": "https://arxiv.org/abs/2610.27251",
       "hn_url": "https://news.ycombinator.com/item?id=50199230",
       "author": "jrepinc",
-      "points": 137,
+      "points": 138,
       "num_comments": 80,
       "created_at": "2026-10-22T18:28:16Z",
       "object_id": "50199230",
@@ -115,37 +143,9 @@
       "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
       "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20261014-124122-9e48a3510a-web-3.24.0-4/apple-touch-icon.png",
       "site_name": "bbc.com"
-    },
-    {
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "hn_url": "https://news.ycombinator.com/item?id=50212507",
-      "author": "luu",
-      "points": 110,
-      "num_comments": 106,
-      "created_at": "2026-10-23T17:28:36Z",
-      "object_id": "50212507",
-      "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
-      "description": "White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to electronic ones. But a fan is really a great approach; you just need to put it to better use: have the fan clean the air.  Instead of spinning a fan in free air to make noise, you ca",
-      "favicon": "https://www.jefftk.com/favicon.ico",
-      "site_name": "jefftk.com"
-    },
-    {
-      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-      "hn_url": "https://news.ycombinator.com/item?id=50200843",
-      "author": "karakoram",
-      "points": 90,
-      "num_comments": 67,
-      "created_at": "2026-10-22T20:51:23Z",
-      "object_id": "50200843",
-      "image": "https://i.abcnewsfe.com/a/76af8d06-92bb-4767-b96d-3f27f7c34e58/data-gty-er--261020_1792522906404_hpMain_16x9.jpg?w=1600",
-      "description": "Majorities see risks in AI and fewer see benefits.",
-      "favicon": "https://s.abcnews.com/assets/dtci/images/favicon.ico",
-      "site_name": "ABC News"
     }
   ],
   "total_hits": 653,
   "has_metadata": true,
-  "fetched_at": "2026-10-24T06:55:19.491807+00:00"
+  "fetched_at": "2026-10-24T11:52:23.116247+00:00"
 }

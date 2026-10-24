@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Glamsterdam on Hoodi Postponed",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqeDBXMjEwU2M4YlBnYnRQQVJDa1ZreVVrVUYxS1ExVWJQWW1EeXNsQVlhVXN6azV0dXBucHBPWUY4OTFCME9fT1IzT09SMU9FWXJHV2pBYnAwNlRpREZ5Q29Ebnd2Mk8wLWdLaw?oc=5",
+      "pub_date": 1792693546.0,
+      "article_url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
+      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+      "description": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has..."
+    },
+    {
       "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -15,14 +25,14 @@
       "description": "Cardano could be headed for a big comeback in 2027."
     },
     {
-      "headline": "Glamsterdam on Hoodi Postponed",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqeDBXMjEwU2M4YlBnYnRQQVJDa1ZreVVrVUYxS1ExVWJQWW1EeXNsQVlhVXN6azV0dXBucHBPWUY4OTFCME9fT1IzT09SMU9FWXJHV2pBYnAwNlRpREZ5Q29Ebnd2Mk8wLWdLaw?oc=5",
-      "pub_date": 1792693546.0,
-      "article_url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has..."
+      "headline": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets\u2014Which Is Gaining Ground?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVU5WkM3aDdVbUU3WU9LcF9xNlgwb1AxMGhuakhUVEZhNVJ0YklmTWFmU3VoeTl1X3ZvcEFLSEdmMzFRZDJONlVwVjV2LVZyZmRFU1Y1RERMYXhuNk5vT3VtbjdXX3ZhZkNJNy03X2Y5QV9wLVJHN25qNGREczFhYzFjOGtEM0MtalNoTG41Z2JoMXVsTDFuVEVOb2NqY3l2MXJUWUtvWlZhTW53LU1KRTJZaFZWQWRHMVpxdm5mVlcwRHBmU1hYekNIczZiQQ?oc=5",
+      "pub_date": 1792787427.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from\u2026"
     },
     {
       "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
@@ -35,14 +45,14 @@
       "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
     },
     {
-      "headline": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets\u2014Which Is Gaining Ground?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVU5WkM3aDdVbUU3WU9LcF9xNlgwb1AxMGhuakhUVEZhNVJ0YklmTWFmU3VoeTl1X3ZvcEFLSEdmMzFRZDJONlVwVjV2LVZyZmRFU1Y1RERMYXhuNk5vT3VtbjdXX3ZhZkNJNy03X2Y5QV9wLVJHN25qNGREczFhYzFjOGtEM0MtalNoTG41Z2JoMXVsTDFuVEVOb2NqY3l2MXJUWUtvWlZhTW53LU1KRTJZaFZWQWRHMVpxdm5mVlcwRHBmU1hYekNIczZiQQ?oc=5",
-      "pub_date": 1792787427.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from\u2026"
+      "headline": "Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDZIWXVaazR3UTBIYjlCNHF6MmYtYm4zZE9vMW9JakxUeHkxTzZYVU5YdkVCTURjenVPZTNaSEZoVXVsaW5zZHBMUzFtQlFVVFYzVlhjZHhvRFlaZ0tzZW51WDBhTlVGMHpxYTIycGFMTXZrMllVYlRMcDkxUkNPMWY1bUFGcDR3ekFNcF9VNGpfWnpTNW1DdA?oc=5",
+      "pub_date": 1792841322.0,
+      "article_url": "https://www.fool.com/investing/2026/10/24/ethereum-co-founder-joseph-lubin-predicts-the-merg/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890569%2Fartificial-intelligence.jpg&w=1200&op=resize",
+      "description": "Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right."
     },
     {
       "headline": "Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain",
@@ -85,26 +95,16 @@
       "description": "Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ..."
     },
     {
-      "headline": "Ethereum: Van de Poppe Eyes Quick Reversal Below $2300",
+      "headline": "Lookonchain: Ethereum OG Sells 1,000 ETH",
       "source": "Blockchain News",
       "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdm5zOGE4THZfbmlFUzMtMlJjNkhrbFRZTl9RRlhsd0pLaFlSMThTSmZucGRUU09LeEV4QUdKTUY0TEUxd3RfWWJwUmdGYV9ILXdUcVd0RmFKQUU5UzNzaE1pWkowZGxOZGFKcmpLbE9kS0JXSks5bjJueWx4R1JMdGNhX3NwU1psVU1fNTM1VQ?oc=5",
-      "pub_date": 1792674060.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-van-de-poppe-eyes-quick-reversal-below-2300",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HM2VPSUhZeFo3RnFDdVpuTXFoSTVnYlkzY09VVjJoSzRoZW5PejRJN2JoNTFjakx0UUpqVloxSFZ5LWJ4dG5EQVhEVjMyY2dpYlhNSUZLYTZVTXk4TzdScHQtamVhMXRKb29qeFg0NEplZDduWkV0ZG1RWURrZw?oc=5",
+      "pub_date": 1792780740.0,
+      "article_url": "https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-000-eth",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Micha\u00ebl van de Poppe stated on X that Ethereum could reverse quickly after max bidding everything beneath the $2300 level, with the asset trading at..."
-    },
-    {
-      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQW9Rc3hQblBPeFBuUXlGSTFzUlZNQ24zRlJGM0J6SURISFFPaThkTTJqbXN0Tl94bmwybjU0TDNOV1JpVGhDbTNvNUoyaWRkeUFwS0Y3WDRUazVFQ1VxbFd2dkw0MTU2Y1F3SEk1RWV6UWNMVllJa1JnT2kxMGRkbEZROGVhY0R0RHF5S09B?oc=5",
-      "pub_date": 1792529164.0,
-      "article_url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-      "description": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours."
+      "description": "Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T06:55:38.594193+00:00"
+  "fetched_at": "2026-10-24T11:52:30.861729+00:00"
 }
