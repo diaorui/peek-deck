@@ -35,16 +35,6 @@
       "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
     },
     {
-      "headline": "Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTG9aTDZIa3o5cGhBeFZLYWFJUS1MWno0WHplZ18wZnNwZTBjV2VxcGY3VGpWcElRRUg0QjRyajc4ZjVjdlNFV3c2S0pFVjUzZGlTYWlNeUx5ZzJ6QTYzT2JtUFBRQkVMa2l4X1Zaa0llU1U3d2NrSl9vUERCc2V1WkNhck0tZjM0R2lYM2w3cU4zQm9rTjFQTE5IQ3BjMERXdVJYWHAxSlRlZlUzUGxfb3hPMTlTdw?oc=5",
-      "pub_date": 1792677300.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg",
-      "description": "The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes."
-    },
-    {
       "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Milestone: Analyst Notes BTC's Sentiment- Defying Move",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -59,7 +49,7 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5",
-      "pub_date": 1792763266.0,
+      "pub_date": 1792761466.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-10-23-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-23.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -75,16 +65,6 @@
       "description": "An October 22, 2026 comparison of Bitcoin and Ethereum post-quantum signature proposals, test deployments, mainnet support and wallet dependencies."
     },
     {
-      "headline": "Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum\u2019s Four-Minute Settlement Plan Revives a $12,000 ETH Target",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLTdrQUNiUmFMRGJiRFdnNWFLb3ZYUExTN0F0OGx1TEFqbVZ1SUZCMU82Z3R4MU1laG1SZGlkQlJ2RGxseW1va2ZieVRadmxwaWtzbFlSLVBkbi1tM05Ob1l5VzRkaGxhWlFBeV9uUC1oR0VDVFJlT1lqQXduMF80WHRybl92VEJzenV5bVRiVHU4RVkxbVN1SW1qRE1hbWd2cV9lemI3SkVWMHkxSGJRY1QyaFRZMnVYUDdHN0x6R2R0TEE0R0JZQmNLT0lkNnFfNV9TZzhkLXpwMTlTLVphVHJXWEtmcHNFZU1DZHZ4aVhQamRHOGozVElxSXFDTmpMZnA2eHo1R0xPS2pVUnBkYy1fS2hzYWRnczhv?oc=5",
-      "pub_date": 1792691482.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857",
-      "image": "https://ml.globenewswire.com/Resource/Download/758373a9-848c-4ec1-95de-0414e0d5d987/remittix.jpg",
-      "description": "Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ..."
-    },
-    {
       "headline": "Bitcoin ETFs log $525M inflow as Ethereum ETFs attract $14M",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -95,6 +75,16 @@
       "description": "Spot Bitcoin ETFs drew approximately $525 million on October 21, led by IBIT and FBTC, while Ethereum ETFs ended a five-day outflow streak."
     },
     {
+      "headline": "Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum\u2019s Four-Minute Settlement Plan Revives a $12,000 ETH Target",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLTdrQUNiUmFMRGJiRFdnNWFLb3ZYUExTN0F0OGx1TEFqbVZ1SUZCMU82Z3R4MU1laG1SZGlkQlJ2RGxseW1va2ZieVRadmxwaWtzbFlSLVBkbi1tM05Ob1l5VzRkaGxhWlFBeV9uUC1oR0VDVFJlT1lqQXduMF80WHRybl92VEJzenV5bVRiVHU4RVkxbVN1SW1qRE1hbWd2cV9lemI3SkVWMHkxSGJRY1QyaFRZMnVYUDdHN0x6R2R0TEE0R0JZQmNLT0lkNnFfNV9TZzhkLXpwMTlTLVphVHJXWEtmcHNFZU1DZHZ4aVhQamRHOGozVElxSXFDTmpMZnA2eHo1R0xPS2pVUnBkYy1fS2hzYWRnczhv?oc=5",
+      "pub_date": 1792691482.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-earn-prepares-aave-fluid-and-morpho-pools-as-ethereum-s-four-minute-settlement-plan-revives-a-12-000-eth-target-1036655857",
+      "image": "https://ml.globenewswire.com/Resource/Download/758373a9-848c-4ec1-95de-0414e0d5d987/remittix.jpg",
+      "description": "Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ..."
+    },
+    {
       "headline": "Lookonchain: Ethereum OG Sells 3000 ETH for 128x Return",
       "source": "Blockchain News",
       "source_url": "https://blockchain.news",
@@ -103,8 +93,18 @@
       "article_url": "https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-3000-eth-128x-return",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
       "description": "Lookonchain reports an Ethereum early holder sold 3000 ETH bought nine years ago at $18.83, locking in a 128x return on the $7.23 million position."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Steady as Traders Brace for Potential Weekend Volatility",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaGtSRGtrNGlqdFhkc1ZjckFBT051czAta2JaNnQ5SkxBdW9SaU5GZGo3dTdzQnJvYWQwSWNZN3lZUXE0Z3JNd2FPLXExQlFwSUZiLTFxMndPLURPSjUzb2dERFJlUzlNQkd3X21JMWRxV1hQRXNsWlc5Z042XzU3ZUtMWXA3bHhXSmpUbzVUcXQtQU5BMDVXNUk2TS1fVFdnakszbXFyLVlSVmN1ekdUMHJNMHFlMWZ3bk9BT3ZCZ2pNdEU0WU45WWE3LXY4SE9ta0JPdENndXRKaktDS1V6QURR?oc=5",
+      "pub_date": 1792779931.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62571323/bitcoin-ethereum-xrp-dogecoin-steady-as-traders-brace-for-potential-weekend-volatility",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T23:19:57.669178+00:00"
+  "fetched_at": "2026-10-24T01:49:34.027522+00:00"
 }
