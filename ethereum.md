@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-24T06:55:47.141531+00:00'
+updated: '2026-10-24T11:52:37.694669+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 06:55 UTC  
+**Last Updated:** October 24, 2026 at 11:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -1.4%  
-**30d:** -11.7%  
-**90d:** +25.6%  
-**1y:** -39.8%  
+**24h:** -1.6%  
+**7d:** -1.9%  
+**30d:** -12.1%  
+**90d:** +25.0%  
+**1y:** -40.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $290.10B
+**Market Cap:** $288.76B
 Rank #2
 
 **Circulating Supply:** 122,158,317 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.0%
+-52.2%
 
 **All-Time Low:** $0.43
-+548374.6%
++545845.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
 
-22h ago
+1d ago
 
 ---
 
@@ -150,19 +150,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html)**
-
-Cardano could be headed for a big comeback in 2027.
-
-Yahoo Finance • 23h ago
-
----
-
 **[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
 ethereum.org • 1d ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html)**
+
+Cardano could be headed for a big comeback in 2027.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?](https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/)**
+
+Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from…
+
+TradingView • 15h ago
 
 ---
 
@@ -174,11 +182,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?](https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/)**
+**[Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.](https://www.fool.com/investing/2026/10/24/ethereum-co-founder-joseph-lubin-predicts-the-merg/)**
 
-Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from…
+Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right.
 
-TradingView • 10h ago
+The Motley Fool • 23m ago
 
 ---
 
@@ -194,7 +202,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 22h ago
 
 ---
 
@@ -214,19 +222,11 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[Ethereum: Van de Poppe Eyes Quick Reversal Below $2300](https://blockchain.news/flashnews/ethereum-van-de-poppe-eyes-quick-reversal-below-2300)**
+**[Lookonchain: Ethereum OG Sells 1,000 ETH](https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-000-eth)**
 
-Michaël van de Poppe stated on X that Ethereum could reverse quickly after max bidding everything beneath the $2300 level, with the asset trading at...
+Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago.
 
-Blockchain News • 1d ago
-
----
-
-**[Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash](https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash)**
-
-The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 Ethereum through the mixer in two hours.
-
-Decrypt • 3d ago
+Blockchain News • 17h ago
 
 ---
 
@@ -234,63 +234,53 @@ Decrypt • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
-
-Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
-
-📺 Discover Crypto
-
-👁️ 9K • 👍 238 • 💬 47 • ⏱️ 1:00:00 • 12h ago
-
----
-
 **[Tom Lee: SHOCKING $22,000 Ethereum Price Prediction (Fact-Checked)](https://www.youtube.com/watch?v=0smYMt7Kjts)**
 
 Tom Lee says $22000 is his LOW target for Ethereum this cycle. I went through every number in his TOKEN2049 Singapore ...
 
 📺 JM Crypto
 
-👁️ 3K • 👍 51 • 💬 22 • ⏱️ 25:11 • 11h ago
+👁️ 4K • 👍 64 • 💬 22 • ⏱️ 25:11 • 16h ago
 
 ---
 
-**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
+**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
 
-What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
+Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
 
-📺 Crypto In America
+📺 Crypto Nutshell
 
-👁️ 9K • 👍 160 • 💬 38 • ⏱️ 41:22 • 2d ago
-
----
-
-**[Midterm Election Noise &amp; Bitcoin, Ethereum&#39;s Potential Dip Buying Opportunity](https://www.youtube.com/watch?v=qhFYLrAl9Yo)**
-
-Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midterm elections and a tentative change of ...
-
-📺 Schwab Network
-
-👁️ 5K • 👍 37 • 💬 1 • ⏱️ 6:40 • 2d ago
+👁️ 8K • 👍 96 • 💬 44 • ⏱️ 20:11 • 19h ago
 
 ---
 
-**[ETHEREUM +6.1% while the rest sat still](https://www.youtube.com/watch?v=aHkq6BbJPAo)**
+**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
 
-A 6.1% run for ETHEREUM over the last three days. $2363 to $2507. One coin broken down every day on @TheGoblinOfCrypto.
+Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
 
-📺 The Crypto Goblin
+📺 Discover Crypto
 
-👁️ 6 • ⏱️ 0:31 • 2d ago
+👁️ 10K • 👍 239 • 💬 48 • ⏱️ 1:00:00 • 17h ago
 
 ---
 
-**[Ethereum in (about) a minute | Learn Crypto - Episode 4](https://www.youtube.com/watch?v=H9uvwKsfWvs)**
+**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
 
-Ethereum is the world's second largest cryptocurrency and the top platform for automated digital agreements known as “smart ...
+Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
 
-📺 E*TRADE from Morgan Stanley
+📺 Thinking Crypto
 
-👁️ 183 • 👍 3 • ⏱️ 1:49 • 1d ago
+👁️ 9K • 👍 470 • 💬 38 • ⏱️ 17:37 • 7h ago
+
+---
+
+**[Ethereum Has A Big Problem (Tom Lee In Shambles)](https://www.youtube.com/watch?v=twQLQ5E2jf8)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 25K • 👍 511 • 💬 123 • ⏱️ 9:54 • 2d ago
 
 ---
 
@@ -300,37 +290,47 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 190 • 💬 31 • ⏱️ 21:17 • 1d ago
+👁️ 13K • 👍 196 • 💬 31 • ⏱️ 21:17 • 1d ago
 
 ---
 
-**[Achtung Ethereum: Dieser Move könnte dich eiskalt erwischen!](https://www.youtube.com/watch?v=zUKdjNNIQU0)**
+**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
 
-SICHERE DIR DEN BESTEN TRADING-DEAL EUROPAS! OKX: Bis zu 5.000$ Einzahlungsbonus + SOFORT VIP mit 10% ...
+BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Bitbull
+📺 Crypto World
 
-👁️ 28K • 👍 1K • 💬 127 • ⏱️ 20:49 • 2d ago
-
----
-
-**[Bitcoin y Ethereum al Límite: ¿Se Acaba el Rango?](https://www.youtube.com/watch?v=l-TyIWNJzos)**
-
-Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
-
-📺 CdeCripto
-
-👁️ 8K • 👍 546 • 💬 27 • ⏱️ 14:30 • 2d ago
+👁️ 13K • 👍 282 • 💬 55 • ⏱️ 20:53 • 16h ago
 
 ---
 
-**[Bitcoin Keeps Knocking On This Level. Here’s What Happens If It Breaks.](https://www.youtube.com/watch?v=ev6mEKNHGA8)**
+**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
 
-Bitcoin keeps knocking on the same support level. Here's the line in the sand for Bitcoin, Ethereum, Solana, Dogecoin and BNB, ...
+What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
 
-📺 Verified Investing
+📺 Crypto In America
 
-👁️ 11K • 👍 278 • 💬 6 • ⏱️ 9:34 • 1d ago
+👁️ 9K • 👍 162 • 💬 38 • ⏱️ 41:22 • 2d ago
+
+---
+
+**[SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK!](https://www.youtube.com/watch?v=kA0zzokm5Qo)**
+
+SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK! RIPPLE AND ...
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 179 • 💬 7 • ⏱️ 35:50 • 16h ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Altcoins, was ich für die nächsten Tage erwarte + Erfahrung am Ende](https://www.youtube.com/watch?v=WQ9TQdM5U58)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 445 • 💬 114 • ⏱️ 22:36 • 7h ago
 
 ---
 
