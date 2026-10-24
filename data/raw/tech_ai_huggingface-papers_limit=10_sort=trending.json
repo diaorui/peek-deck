@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 113438,
+      "github_stars": 113570,
       "project_page": null
     },
     {
@@ -70,7 +70,7 @@
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
       "upvotes": 29,
-      "num_comments": 6,
+      "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
       "github_stars": 6898,
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/HazyResearch/ncm",
-      "github_stars": 915,
+      "github_stars": 941,
       "project_page": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"
     },
     {
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2610.28698",
       "arxiv_url": "https://arxiv.org/abs/2610.28698",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
-      "upvotes": 65,
+      "upvotes": 71,
       "num_comments": 2,
       "published_at": "2026-10-19T20:00:00.000Z",
       "github_repo": "https://github.com/THUSI-Lab/GameScaling",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-24T15:29:38.803638+00:00"
+  "fetched_at": "2026-10-24T18:19:24.124146+00:00"
 }
