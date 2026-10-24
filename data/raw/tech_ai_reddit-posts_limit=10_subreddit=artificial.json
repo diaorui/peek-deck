@@ -35,15 +35,15 @@
       "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners."
     },
     {
-      "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
-      "author": "HotMinuteUK",
-      "url": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
-      "published": 1792760228.0,
-      "thumbnail": "https://external-preview.redd.it/Q--aODqQ862hpYTWEdJ0PD28NvJaPqqRuR1fAv4vy1Q.jpeg?width=640&crop=smart&auto=webp&s=9646c9e0705db0998095bc07b3872e82cb93cc23",
-      "external_url": "https://hotminute.co.uk/2026/10/22/ibm-ceo-says-businesses-are-choosing-open-weight-models-over-expensive-frontier-ai/",
-      "site_name": "hotminute.co.uk",
-      "favicon": "https://hotminute.co.uk/favicon.ico",
-      "description": null
+      "title": "Quiz: characters, words and tokens are different measures of text length, and LLM limits use tokens",
+      "author": "ClickOk5811",
+      "url": "https://www.reddit.com/r/artificial/comments/1xedvbq/quiz_characters_words_and_tokens_are_different/",
+      "published": 1792861298.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Short true-or-false quiz on text length in LLMs. Details vary by model and tokenizer, so treat the answers as general behavior and check the one you use. The same sentence in English and in Portuguese or Japanese uses about the same number of tokens. One word is one token. A model\u2019s context window limit applies only to your prompt. Two different models will report the same token count for the same text. A long number or an unusual identifier is usually one token. Answers below. . . . Answers: False in general. Tokenizers are trained on text distributions, and many split non-English text into more tokens than a similar English sentence. The size of the gap depends on the tokenizer. False. Common words are often one token, but rarer words get split into pieces. For English, a rough rule of thumb is that a token is somewhat less than one word. Code, punctuation and numbers behave differently. False. The window covers input and output together, and some models also count internal reasoning tokens. A long prompt leaves less room for the answer, and the maximum output has its own separate limit. False. Different model families use different tokenizers, so the same text can have different counts. A count from one provider\u2019s tokenizer is only an estimate for another. Usually false. Long numbers and rare strings, like IDs or hashes, are often split into several tokens. Why it matters in practice: Cost and limits are in tokens, so estimating from characters or words can be off, especially for non-English text, code and structured data. A \u201cmax N characters\u201d rule in a UI doesn\u2019t map to a token budget. Use the tokenizer or token-counting tool for the model you actually call before sizing prompts. Which of these did you assume was true when you started?"
     },
     {
       "title": "AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast",
@@ -57,37 +57,15 @@
       "description": "Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 with sizable 2028 commitments, as AI infrastructure demand outpaces supply."
     },
     {
-      "title": "Quiz: characters, words and tokens are different measures of text length, and LLM limits use tokens",
-      "author": "ClickOk5811",
-      "url": "https://www.reddit.com/r/artificial/comments/1xedvbq/quiz_characters_words_and_tokens_are_different/",
-      "published": 1792861298.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Short true-or-false quiz on text length in LLMs. Details vary by model and tokenizer, so treat the answers as general behavior and check the one you use. The same sentence in English and in Portuguese or Japanese uses about the same number of tokens. One word is one token. A model\u2019s context window limit applies only to your prompt. Two different models will report the same token count for the same text. A long number or an unusual identifier is usually one token. Answers below. . . . Answers: False in general. Tokenizers are trained on text distributions, and many split non-English text into more tokens than a similar English sentence. The size of the gap depends on the tokenizer. False. Common words are often one token, but rarer words get split into pieces. For English, a rough rule of thumb is that a token is somewhat less than one word. Code, punctuation and numbers behave differently. False. The window covers input and output together, and some models also count internal reasoning tokens. A long prompt leaves less room for the answer, and the maximum output has its own separate limit. False. Different model families use different tokenizers, so the same text can have different counts. A count from one provider\u2019s tokenizer is only an estimate for another. Usually false. Long numbers and rare strings, like IDs or hashes, are often split into several tokens. Why it matters in practice: Cost and limits are in tokens, so estimating from characters or words can be off, especially for non-English text, code and structured data. A \u201cmax N characters\u201d rule in a UI doesn\u2019t map to a token budget. Use the tokenizer or token-counting tool for the model you actually call before sizing prompts. Which of these did you assume was true when you started?"
-    },
-    {
-      "title": "GPT and Claude Or GPT and Argon/Antigravity?",
-      "author": "jsmith19977",
-      "url": "https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/",
-      "published": 1792855175.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions."
-    },
-    {
-      "title": "Moonshot AI's Kimi K3.1 Pro reaches fourth on Artificial Analysis index, 3 points behind Claude Opus 5.5",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdvxi5/moonshot_ais_kimi_k31_pro_reaches_fourth_on/",
-      "published": 1792805595.0,
-      "thumbnail": "https://external-preview.redd.it/fqWEI3boPz0gFfuKWTPo7eYOPZuSRnE35PaXVEgLbYI.jpeg?width=640&crop=smart&auto=webp&s=2826767a08568b73ea63bafb08922d3b8fbc7d40",
-      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights\u2026"
+      "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
+      "author": "HotMinuteUK",
+      "url": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
+      "published": 1792760228.0,
+      "thumbnail": "https://external-preview.redd.it/Q--aODqQ862hpYTWEdJ0PD28NvJaPqqRuR1fAv4vy1Q.jpeg?width=640&crop=smart&auto=webp&s=9646c9e0705db0998095bc07b3872e82cb93cc23",
+      "external_url": "https://hotminute.co.uk/2026/10/22/ibm-ceo-says-businesses-are-choosing-open-weight-models-over-expensive-frontier-ai/",
+      "site_name": "hotminute.co.uk",
+      "favicon": "https://hotminute.co.uk/favicon.ico",
+      "description": null
     },
     {
       "title": "Ok Since When Did Knowledge Become Intelligence?",
@@ -101,16 +79,38 @@
       "description": "I've been involved in technology for nearly 30 years, and I've watched some extraordinary developments. Artificial intelligence is undoubtedly one of them, but I'm becoming increasingly curious about the assumption that AI is somehow more intelligent than humanity at this juncture. Really? According to whom, and by what measure? AI systems have access to what amounts to an extraordinary library of human knowledge. Imagine swallowing the entire Encyclopaedia Britannica, everything written before it and a good deal of what has been published since. Impressive? Absolutely. But possessing information and knowing how, when and why to apply it are entirely different things. And this is where I believe current AI has some rather significant gaps. Nuance. Nuance is not simply recognising patterns or providing a technically correct response. It involves understanding context, intention, circumstances, consequences and sometimes the significance of what hasn't been said. It requires knowing when the obvious answer isn't necessarily the right one. I recently had an interesting experience asking two AI systems to examine some court orders. Both initially approached the outcome by assessing individual items, essentially counting what had been granted and what hadn't. What they missed was my actual objective. I had gone into court wanting one particular outcome, and I had achieved it. Everything else was a bonus. Both systems had the information. Both could interpret the words. Yet neither initially appreciated the significance of what I was trying to accomplish. It took further conversation, explanation and correction before the penny dropped. And there's another dimension to this. Human experience brings something to judgement that cannot simply be measured by the amount of information available. A mother raising children, a nurse comforting someone in distress, or a person navigating thirty years of professional relationships may recognise subtleties that aren't immediately apparent in the information presented. Experience does count for a lot. That doesn't make us infallible. My god, we're really good at getting things wrong all the time and over and over again! But our intelligence is shaped by experience, emotion, relationships, consequences and an enormous capacity to adapt to circumstances. AI can recognise and reason about many of those things too but it can also get a bee in it's bonnet as well. Recognising a nuance and consistently applying nuanced judgement are not necessarily the same thing. I ask because I am encountering this quite often when using AI. It's like it misses context and goes off on these inexplicable tangents. Does this happen to other users?"
     },
     {
-      "title": "stack overflow's problem was old answers. would an AI agent version have the same problem?",
-      "author": "Significant_Camp4148",
-      "url": "https://www.reddit.com/r/artificial/comments/1xedhu8/stack_overflows_problem_was_old_answers_would_an/",
-      "published": 1792860401.0,
+      "title": "Short overview of models that i used",
+      "author": "Blazej_kb",
+      "url": "https://www.reddit.com/r/artificial/comments/1xelqv9/short_overview_of_models_that_i_used/",
+      "published": 1792880932.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "someone in my last thread said something i couldnt stop thinking about. half the accepted answers on stack overflow are for versions from 2015, so if ai agents start sharing fixes with each other, why would that age any better this is what i ended up doing in the thing im building (a shared fix library for coding agents): - every \"this worked\" vote loses half its weight every 6 months - every fix shows the date it last worked - fixes that come with a test get re-run every 30 days on the newest versions, and get marked outdated if they stop passing went live this morning. still not sure its enough though, a fix can be fresh and still wrong for your setup how would you handle it? (its yarrow-fixes.vercel.app if you want to look)"
+      "description": "chatgpt - best for daily use, good customization, swear if i tell him to, big limits, doesn\u2019t block questions, just uses worse model, boring, no personality grok - lot of free uses, can generate / use a lot of photos for free, great customization, cool personality, isn\u2019t boring does what i tell him to do without unnecessary crap, most stupid of those 3 claude - frighteningly smart, if it doesn\u2019t support file type it makes its own interpreter, low amount of tokens for free, locks you out after reaching limit what are your thoughts about these 3?"
+    },
+    {
+      "title": "I didn't want to pay for a subscription, so Claude made tools for my business instead.",
+      "author": "ARK-nano",
+      "url": "https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/",
+      "published": 1792878091.0,
+      "thumbnail": "https://preview.redd.it/xd9d2xqvihxh1.png?width=140&height=86&auto=webp&s=ba21151e08622e69ace8c1fb464e353b118de6de",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I started my own tech repair business and while I was searching for some form of ticket system for tracking customers and repairs, I realized it would just be easier and save me money if Claude made it for me instead! After making (or Claude did) my software for planning & customer tickets / inventory tracking, I got carried away and made an all-in-one diagnostic software as well... I happened to save upwards of $300+ a year on paid software... I thought I'd share in case anyone wants to use them or take a look :) I find making software this way is especially useful as you can just build the features you need specifically; for instance, I use Zoho mail and Quickbooks, which I just integrated using their API. Anyways, I gain nothing from your views or downloads or anything, no monetization, all open source and free to use and edit. Just super excited to share these little projects! I'm quite impressed by how simple it was, and excited to see the future for AI, even if it is a little terrifying lol. First project: A free, open-source organizer for Windows: notes, calendar, customers, tickets, money and a locked vault in one calm app. Your data stays on your computer. https://glr-p.github.io/plannr/ Plannr - All-In-One Ticket system, note taking & organizer. (Names & Info not real people.) Second project: Portable all-in-one Windows diagnostic tool: the first thing to open when a PC has a problem https://glr-p.github.io/Troubleshootr/"
+    },
+    {
+      "title": "GPT and Claude Or GPT and Argon/Antigravity?",
+      "author": "jsmith19977",
+      "url": "https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/",
+      "published": 1792855175.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions."
     }
   ],
-  "fetched_at": "2026-10-24T21:03:46.117683+00:00"
+  "fetched_at": "2026-10-24T23:32:14.663453+00:00"
 }
