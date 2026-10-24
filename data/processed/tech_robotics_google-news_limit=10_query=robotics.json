@@ -5,12 +5,12 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Researchers open autonomous robotics learning to the world",
-      "source": "Stanford Report",
-      "source_url": "https://news.stanford.edu",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
-      "pub_date": 1792673724.0,
-      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
+      "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
+      "pub_date": 1792702800.0,
+      "article_url": "https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/",
       "image": null,
       "description": null
     },
@@ -19,20 +19,20 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3UxRmgwU3N1RnJDaFExYWNwcHRJYWpRcVBhTkpwQ29QMUo2SHFqSGZFMGNWbUxyRC1lWXFJQzRoOGtmU0FVbjBVUGpzLXY5QWduUWdrUmVzVW5hSTN3akFFRXFsVWZqeXB4YjBFQ3VMS0tHTWx4bXJ5eTdxSWZWVGFldFg?oc=5",
-      "pub_date": 1792683759.0,
+      "pub_date": 1792750946.0,
       "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
       "image": null,
       "description": null
     },
     {
-      "headline": "The Robot I Didn\u2019t Expect to Build",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5",
-      "pub_date": 1792414880.0,
-      "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68441166&width=1200&height=600&coordinates=0%2C1537%2C0%2C1538",
-      "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
+      "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
+      "source": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
+      "pub_date": 1792768213.0,
+      "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
+      "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
       "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
@@ -45,16 +45,6 @@
       "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
     },
     {
-      "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
-      "pub_date": 1792708607.0,
-      "article_url": "https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Unitree developing AI system to let humanoid robots improve themselves",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
@@ -65,24 +55,24 @@
       "description": null
     },
     {
-      "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
-      "pub_date": 1792578539.0,
-      "article_url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
-      "image": "https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8",
-      "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
-    },
-    {
-      "headline": "Robotics firm buys Lawrenceville headquarters property from RIDC",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2o2cU9XRzFRQUk4Z19qWTd4TmFkV21BS1o2dzBqdTB5NnlZTVZlc2NrRllVT3ByRHZtRzgyMmtxbWZMOTRMcXVNNHliR0hnQ1pBT3RZcG5qbkEyMVgzVmhteUptcTd2QURkSWdEcl9zVVMtd1NfcGlGdVdadGRiY2tUUXZNWEZsVGJBYjRrc3F2VXFySElwQ1dVUTBzb2ZyS0M5X1l3WQ?oc=5",
-      "pub_date": 1792685520.0,
-      "article_url": "https://www.bizjournals.com/pittsburgh/news/2026/10/22/robotics-row-carnegie-robotics-lawrenceville.html",
+      "headline": "Researchers open autonomous robotics learning to the world",
+      "source": "Stanford Report",
+      "source_url": "https://news.stanford.edu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
+      "pub_date": 1792673724.0,
+      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "One small leap for a muscle, one giant step for robotics",
+      "source": "ETH Z\u00fcrich",
+      "source_url": "https://ethz.ch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1JFQXE1bVNLaGl0WG9DM0hGeHR2SUZWMllveFBnMkMwbWNEVTZSNzlieHhzdEVESWJhOFUzRFJ6LWoxdkdFSDBNSkEtZmcyLXI1SDE0eDY1UW5jbVVnX1hBeXdOSHBmUGRaV29zMm9leE0wZlFfNFo5dTc0YkFkMXZoSEtDcEdRVVQtWFZXNmkzV0FtYVppUTVmR09MMG1aQjJGQkZmTkxWejk1cWZnREJlMkFlbWh1?oc=5",
+      "pub_date": 1792627200.0,
+      "article_url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html",
+      "image": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.290801338.png",
+      "description": "These robots have real muscles, and they\u2019re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp."
     },
     {
       "headline": "Robots used to be a great way to lose money. Now Silicon Valley investors are betting billions on them.",
@@ -95,16 +85,26 @@
       "description": "Silicon Valley investors are pouring billions into robotics and physical AI. But some industry veterans warn the robot gold rush could end badly."
     },
     {
-      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "headline": "AI-powered robots can be tricked into slicing off fingers",
+      "source": "Popular Science",
+      "source_url": "https://www.popsci.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBncnlsa3FSZWc1UjQzeEM2aHRXQXRUcUhOSVl0Vmg3bXN1dGtpd2xBRXV6UmhqN0M2d1NMNVExQV9vLVY1ZzhxV3lYSkY4VkRpbGVmdXpGNVhEdkdic2g0c2NnRnhyMUhMbUdudkNLdzlnTXA4?oc=5",
+      "pub_date": 1792613640.0,
+      "article_url": "https://www.popsci.com/technology/ai-powered-robot-slices-fingers/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/10/AI-robot-chop.png?quality=85&w=1200",
+      "description": "One secret code word is all it takes."
+    },
+    {
+      "headline": "CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO",
       "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
-      "pub_date": 1792744160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjRyMS1kbld3cURLdHlFYWd5emZveHZoYzhaZXh2ZGZjZ1BSOFR6REg5c0w5bEZhZXZIYmFqNEZlZEJtWC14ZUZFNWp3TEg2Z3ZPQzZIVFpldWVUWWY5RDVpOFVsYXNtMFlPM0hXX3VRUGd0WFhaN3pYcXEzRlJGMElSbld4R096SVc3Y2ptMmprY3NpOHZXT0owQmpUUzdRcUkwUFZhU0I2RElRdGFYR2dn?oc=5",
+      "pub_date": 1792636020.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-23T23:20:03.328842+00:00"
+  "fetched_at": "2026-10-24T01:49:35.084962+00:00"
 }
