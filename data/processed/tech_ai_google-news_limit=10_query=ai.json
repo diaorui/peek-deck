@@ -25,14 +25,24 @@
       "description": "In July 2004, security researcher Stefan Esser sent a warning."
     },
     {
-      "headline": "\u2018Made by humans, not AI.\u2019 Why Democrats are shunning fake videos in ads.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEdXYU54dF9vbGFGaXpEdnhkNzN0V2xKRy1xN3FJdm1fTG1kazluUmdNQVRIVE00S2I0RFhIVHg2eWNlMEpHUm85V1BNLTdUeWFKZVQ5dHRkOVY2SU5KN21pMjEtUmktTTZsZy1mZzdVNzRGTllUR0lpU2hTZHNmLVlRWjZOR3JwUTJGc0NFOWZqb3pqM20w?oc=5",
-      "pub_date": 1792841524.0,
-      "article_url": "https://www.washingtonpost.com/politics/2026/10/24/why-democrats-are-shunning-ai-videos-ads/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MU7JABMHVKVM4SXMNUO3CAVCUU.jpg&w=1440",
-      "description": "A clear trend has emerged in the 2026 midterm ad wars: Republicans are embracing AI-generated videos while Democrats are betting they will backfire."
+      "headline": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXRXRDAzd3BYT0ZnZFl3SjJvTEJjd1NxN0w1NlBrUGdNTFZObFRlN05weHJTMHRrVmZkNkx1TV9RMDRiRjRNWW1NeTE4SDQ0OHVBZ1A3bnp3dDBNRkFReGI3MXpLWWFMOXJ0d2ZvN0RvaVpCSklST1ZhUHI5RjhXdVBXUFRWMTA0SF95cTZpWmZHVk8wbEJ1TXZZSWVCaVEw?oc=5",
+      "pub_date": 1792843200.0,
+      "article_url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/191:100/w_1280,c_limit/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg",
+      "description": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began."
+    },
+    {
+      "headline": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNnR1RPd3VXa0hoTW1USmVib3RXRVNMbjI3R2NwNDhtYkV4YU10azF5U0VVUEZWQXFRdFdlaUg1eWFDRkZTZi04UUJ6MmtEem5YdUhra0lCX2trOEtSWGIydnpjQXotNDBZVHdXT2lOeWlKenNnWC1CS3NBNVhQOW9KNmJWZTNoTlZkUEd0c01XTWs1M3dTbkstZVpCNjVROE5r?oc=5",
+      "pub_date": 1792800044.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
@@ -45,6 +55,16 @@
       "description": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election."
     },
     {
+      "headline": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
+      "pub_date": 1792854000.0,
+      "article_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
       "headline": "The rise of AI election ads in US midterms campaign",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -55,12 +75,12 @@
       "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
     },
     {
-      "headline": "Axios ahead: 2028 and beyond",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jYXFtbmdJb2w1LW1ZLUZLWWxIS3FMSl9pN2RJS2lCMnVmeDZSeHlRcTgycEp3VDVoS3JGbW5mZnFGdlRHYy12d2x0Y0trS01wbW1EOEd3UnNuellQNWc?oc=5",
-      "pub_date": 1792841674.0,
-      "article_url": "https://www.axios.com/2026/10/24/axios-ahead-2028",
+      "headline": "AI models may not be so opaque after all",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlhJcEk5aFhZV2lNYXd6YWJBOGZ3XzJBVjlNQ2dBUGhIWGZybEpERndHR2kyLWVpbVNYVDltNUNBc0FVYlVkNE85MDlsVHBxbmJXZjdGd2xVUGZKVTh3ZUtEbVo5QXo1dnNTbXAwQzVYc0VzN2FaRXkwVkdoVTRWRjh2M0lDODY0ckRyUUFnRVQ3eTJQT0twWVdfak5IaE80U3c?oc=5",
+      "pub_date": 1792855257.0,
+      "article_url": "https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
       "image": null,
       "description": null
     },
@@ -83,28 +103,8 @@
       "article_url": "https://www.usatoday.com/story/money/2026/10/23/banks-move-to-limit-ai-agent-access/92385119007/",
       "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/08/USAT/92153644007-20170908-t-225032-z-631054258-rc-1-fe-2815-a-90-rtrmadp-3-globalbanks.JPG?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
       "description": "As concern over AI agents continues to grow, top U.S. banks have limited the technology's abilities on their platforms."
-    },
-    {
-      "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
-      "source": "NVIDIA Developer",
-      "source_url": "https://developer.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
-      "pub_date": 1792768213.0,
-      "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
-      "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
-    },
-    {
-      "headline": "My Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDBBclZlZE92ZUM3RkFURllGRGN0bU5XS0Z0N2FpZWlqV0VDdmd6TWUzZGhHVnRxaWlxbkhUTUtsOFhnUmdlSVViZkJHekRQVnFySkxVWEN3Wmc3TlViQzVNa2w3TkRCZ1pGeWRqdHVuU0t5NDA1N0cwWl9faXNRQQ?oc=5",
-      "pub_date": 1792832533.0,
-      "article_url": "https://www.nytimes.com/2026/10/24/realestate/ai-doorman-new-york-city.html",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T11:52:36.002311+00:00"
+  "fetched_at": "2026-10-24T15:29:47.139494+00:00"
 }

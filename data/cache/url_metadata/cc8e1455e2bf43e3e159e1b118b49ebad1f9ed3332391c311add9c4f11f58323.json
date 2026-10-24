@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-24T15:29:41.748530+00:00",
+  "data": {
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "description": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/191:100/w_1280,c_limit/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg",
+    "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+    "site_name": "WIRED",
+    "author": "Lily Hay Newman",
+    "keywords": "kernel panic,artificial intelligence,hacking,cybersecurity,vulnerabilities,php,security"
+  }
+}
