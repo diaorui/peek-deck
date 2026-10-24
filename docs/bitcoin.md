@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-24T15:29:52.978251+00:00'
+updated: '2026-10-24T18:19:40.063876+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 15:29 UTC  
+**Last Updated:** October 24, 2026 at 18:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,449.10
+### $80,138.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -3.3%  
-**30d:** -5.5%  
-**90d:** +24.6%  
-**1y:** -28.9%  
+**24h:** -1.2%  
+**7d:** -2.2%  
+**30d:** -4.5%  
+**90d:** +26.0%  
+**1y:** -28.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1594.98B
+**Market Cap:** $1613.95B
 Rank #1
 
-**Circulating Supply:** 20,102,809 BTC
+**Circulating Supply:** 20,102,878 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--37.1%
+-36.3%
 
 **All-Time Low:** $67.81
-+116907.8%
++118280.8%
 
 ---
 
@@ -123,7 +123,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[Just bought my first Bitcoin, and immediately lost 3%.... Let's go???](https://www.reddit.com/r/Bitcoin/comments/1xcq2xz/just_bought_my_first_bitcoin_and_immediately_lost/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -143,7 +143,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 My father works as an engraver of medals. Some time ago, he was commissioned to engrave a medal for a woman whose son had passed away—the woman was a foreigner, incidentally. The medal had to feature a specific logo, which the woman explained to my father was "Bitcoin" (though he doesn’t recall the details very clearly, as it was quite a long time ago). Recently, he came across the logo and showed it to me. We aren’t certain exactly when this request was made, but it was definitely between 10 and 20 years ago. Could this be one of the earliest versions of the Bitcoin logo? And is it possible that the woman’s son was one of the creators of Bitcoin, or someone who played a significant role in its development?
 
-23h ago
+1d ago
 
 ---
 
@@ -153,7 +153,7 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 **[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -165,27 +165,33 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries](https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations)**
+**[Bitcoin’s wealthy holders are moving from trading to private banking, Xapo CEO says](https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo)**
 
-Bitcoin has sunk to its weakest level in more than one month.
+Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.
 
-CoinDesk • 18m ago
-
----
-
-**[Franklin Templeton Prepares Nasdaq Debut For ETFs That Turn Stock Dividends Into Bitcoin](https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-prepares-nasdaq-debut-140634973.html)**
-
-Franklin Templeton’s funds start with 95% in U.S. stocks and 5% in Bitcoin.
-
-Yahoo Finance • 1h ago
+CoinDesk • 29m ago
 
 ---
 
-**[Bitcoin Price on Its 18th Birthday: Here's What History Predicts for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-18th-birthday-heres-140215891.html)**
+**[Inflation Is Running Hotter Than Expected. That Could Be Bullish for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/inflation-running-hotter-expected-could-172800139.html)**
 
-Bitcoin's white paper turns 18 on Oct. 31, 2026, marking nearly two decades since Satoshi Nakamoto introduced the cryptocurrency. Bitcoin has historically gained in 10…
+The coin's utility is that it can, in theory, protect an investor from an expanding supply of dollars.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 51m ago
+
+---
+
+**[Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html)**
+
+Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
+
+Forbes • 6h ago
 
 ---
 
@@ -193,15 +199,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received.
 
-Bitcoin Magazine • 22h ago
-
----
-
-**[2 employees hospitalized after fire at Georgia Bitcoin center](https://www.wsbtv.com/news/georgia/2-employees-hospitalized-after-fire-georgia-bitcoin-center/3SG4I6MWXVBD7NVT54NDXFNAFU/)**
-
-Both injured employees were airlifted to the Augusta Burn Unit.
-
-WSB-TV • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -211,19 +209,17 @@ Financial Times • 2d ago
 
 ---
 
-**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eyes-84-000-whale-054514426.html)**
+**['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
 
-Investing.com -- Bitcoin traded under $81,000 as large-holder withdrawals and institutional wallet activity raised hopes of a recovery towards $84,000, despite continued uncertainty across cryptocurrency markets.
-
-Yahoo Finance • 9h ago
+13WMAZ • 1d ago
 
 ---
 
-**[Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
+**[Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy](https://247wallst.com/investing/cryptocurrency/2026/10/24/is-bitcoin-dead-cz-says-those-calls-have-marked-the-best-times-to-buy/)**
 
-Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
+Is Bitcoin dead? Searches just hit their highest since FTX, and CZ says such claims have marked the best times to buy. Here is the record.
 
-CoinDesk • 2d ago
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -243,7 +239,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
 
-⬆️ 1 • 💬 0 • 2d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
+⬆️ 1 • 💬 0 • 3d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
 
 ---
 
@@ -265,43 +261,23 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ## YouTube Videos: "bitcoin"
 
-**[IF YOU HOLD BITCOIN, WATCH BEFORE MONDAY... [SCARY]](https://www.youtube.com/watch?v=QDk6VNnQ0z0)**
+**[Why Is Bitcoin &amp; Crypto Falling? What&#39;s Happening?](https://www.youtube.com/watch?v=oPPqbtTFjuw)**
 
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
 
-📺 Crypto Kid
+📺 Aaron Bennett
 
-👁️ 1K • 👍 135 • 💬 52 • ⏱️ 16:39 • 2h ago
-
----
-
-**[I Can&#39;t Stay Silent about this Crypto Crash Any Longer!](https://www.youtube.com/watch?v=Ihq9QTkRYM4)**
-
-Bitcoin & Crypto are CRASHING!? (Here Is My Plan) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 2K • 💬 105 • ⏱️ 11:08 • 16h ago
+👁️ 10K • 👍 296 • 💬 33 • ⏱️ 9:55 • 9h ago
 
 ---
 
-**[BITCOIN: IT’s A TRAP!!!!!!!! [urgent]](https://www.youtube.com/watch?v=whywCBJv26M)**
+**[BITCOIN - IT JUST HAPPENED (UNDER $80K!)](https://www.youtube.com/watch?v=Lac0cXNf1Yk)**
 
-Bitcoin trap.
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 MMCrypto
+📺 My Financial Friend
 
-👁️ 40K • 👍 2K • 💬 255 • ⏱️ 4:18 • 8h ago
-
----
-
-**[AI Is Breaking Into Everything! Is This the End of Bitcoin?](https://www.youtube.com/watch?v=Q5chQKSOirc)**
-
-Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cryptography, and Bitcoin self-custody face new ...
-
-📺 Simply Bitcoin
-
-👁️ 59K • 👍 2K • 💬 236 • ⏱️ 18:14 • 1d ago
+👁️ 3K • 👍 183 • 💬 98 • ⏱️ 10:41 • 2h ago
 
 ---
 
@@ -311,35 +287,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 90K • 👍 3K • 💬 170 • ⏱️ 19:51 • 14h ago
-
----
-
-**[RIPPLE AND $5.2 TRILLION JPMORGAN MAKE HUGE MOVES! #xrp #crypto  #bitcoin](https://www.youtube.com/watch?v=h5dfhe9-6Ek)**
-
-📺 CryptoWendyO
-
-👁️ 4K • 👍 273 • 💬 17 • ⏱️ 2:23 • 14h ago
-
----
-
-**[Bitcoin Live: Here&#39;s the Roadmap into next week](https://www.youtube.com/watch?v=Yb1YEk3BrVQ)**
-
-Question of the day: does last week's low hold into the Fed? My pivot is $79694 on a daily close (79500 on my chart); above it I ...
-
-📺 Krown
-
-👁️ 11K • 👍 347 • 💬 26 • ⏱️ 1:40:08 • 20h ago
-
----
-
-**[DON&#39;T BE FOOLED BY THIS BITCOIN MOVE...](https://www.youtube.com/watch?v=SBpNKnHsc7I)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 9K • 👍 455 • 💬 24 • ⏱️ 7:49 • 5h ago
+👁️ 103K • 👍 3K • 💬 188 • ⏱️ 19:51 • 17h ago
 
 ---
 
@@ -349,17 +297,67 @@ Bull Markets can be dangerous and I believe this one will be the most dangerous 
 
 📺 Brad Long
 
-👁️ 12K • 👍 287 • 💬 50 • ⏱️ 6:39 • 19h ago
+👁️ 13K • 👍 296 • 💬 54 • ⏱️ 6:39 • 22h ago
 
 ---
 
-**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
+**[Why I’m buying the Bitcoin assets Fidelity just highlighted](https://www.youtube.com/watch?v=Nu4J0KWW0k8)**
 
-Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
+Fidelity Digital Assets just published a paper calling bitcoin perpetual preferred stocks "the newest demand catalyst in bitcoin.
 
-📺 Thinking Crypto
+📺 Betirement
 
-👁️ 12K • 👍 582 • 💬 48 • ⏱️ 17:37 • 11h ago
+👁️ 19K • 👍 628 • 💬 174 • ⏱️ 15:56 • 2d ago
+
+---
+
+**[Chamath Palihapitiya: An Urgent Alert To All Crypto Investors](https://www.youtube.com/watch?v=U2UrnJMjDbA)**
+
+Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x.com/GigaStar_ GigaStar is a channel partner.
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 111 • ⏱️ 11:34 • 1d ago
+
+---
+
+**[Bitcoin Live: Here&#39;s the Roadmap into next week](https://www.youtube.com/watch?v=Yb1YEk3BrVQ)**
+
+Question of the day: does last week's low hold into the Fed? My pivot is $79694 on a daily close (79500 on my chart); above it I ...
+
+📺 Krown
+
+👁️ 12K • 👍 351 • 💬 27 • ⏱️ 1:40:08 • 23h ago
+
+---
+
+**[BITCOIN - THIS IS IT](https://www.youtube.com/watch?v=0DOVGzURea4)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 11K • 👍 311 • 💬 121 • ⏱️ 10:45 • 1d ago
+
+---
+
+**[BITCOIN EMERGENCY: IT&#39;S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrjuhQJ7boA)**
+
+BITCOIN EMERGENCY: IT'S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 877 • 👍 70 • 💬 14 • ⏱️ 23:25 • 53m ago
+
+---
+
+**[Is Bitcoin About To Crash To $75k?](https://www.youtube.com/watch?v=f4-XnmbCFUY)**
+
+Bitcoin has corrected. Timestamps Coming After Stream: Sign up for the Crypto Jebb Research Symposium: ...
+
+📺 Crypto Jebb
+
+👁️ 6K • 👍 125 • 💬 36 • ⏱️ 26:55 • 1d ago
 
 ---
 

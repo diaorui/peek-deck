@@ -13,6 +13,17 @@
       "description": "Roughly 300 Boston Dynamics employees signed a petition urging the company to cancel a $1.3 million contract supplying Spot robot dogs to ICE through\u2026"
     },
     {
+      "title": "AI is humanities collective inheritance and should be legally treated as such",
+      "author": "Guinean",
+      "url": "https://www.reddit.com/r/artificial/comments/1xefah4/ai_is_humanities_collective_inheritance_and/",
+      "published": 1792864739.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I know this isn\u2019t a novel thought but it has been bothering me for a while and I simply want to get it off my chest (written by a human, btw, except the \u201c4 commitments\u201d.) Every discovery, invention, or other contribution to human aggregate knowledge by our ancestors has been gathered into these models. It is the \u201cSumma Scientiae Humanae\u201d the sum of all human knowledge. All of our ancestors built this. Across history every earned morsel of knowledge has been hunted and gathered by our forebears. The mothers and fathers of our species left this for us. We are ALL the heirs. As such, no individual, no corporation, no culture, and no nation should rightfully \u201cown\u201d . These companies should be considered stewards or librarians of our collective inheritance. While AI is incredible and many of us have mixed feelings about the approaching singularity to say the least, we never gave these tech executives our consent to roll the dice on humanities future. They have been amply rewarded. But it\u2019s here now so we should insist that the unimaginable wealth that it is creating should eventually be explicitly and legally handed back to all humanity. Something like a Universal Inheritance Covenant, enforced by law if necessary. A company could establish a public benefit corporation with an accompanying irrevocable trust, designed around four commitments: Recognition: Humanity's accumulated knowledge is a common inheritance, and the company is its steward. Temporary private ownership: Founders, employees, and investors retain defined rights to compensation and returns. Mandatory vesting: At a legally specified milestone, agreed ownership interests transfer to an independent Humanity Trust. Universal benefit: The trust controls the transferred equity and exercises its economic and voting rights on behalf of humanity, including future generations. I would guess eventually we will likely legally enforce this anyway, as our vote will be the only thing left when AI has displaced almost everyone in terms of economic contribution through labor. But I\u2019m hoping to see this recognition of shared inheritance earlier. Humanity should not have to buy back its collective intelligence. Rant over. I feel better."
+    },
+    {
       "title": "Meta\u2019s new commercial terms say if its AI makes a mistake, it will legally be the customer\u2019s fault",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/",
@@ -46,6 +57,39 @@
       "description": "Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 with sizable 2028 commitments, as AI infrastructure demand outpaces supply."
     },
     {
+      "title": "Quiz: characters, words and tokens are different measures of text length, and LLM limits use tokens",
+      "author": "ClickOk5811",
+      "url": "https://www.reddit.com/r/artificial/comments/1xedvbq/quiz_characters_words_and_tokens_are_different/",
+      "published": 1792861298.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Short true-or-false quiz on text length in LLMs. Details vary by model and tokenizer, so treat the answers as general behavior and check the one you use. The same sentence in English and in Portuguese or Japanese uses about the same number of tokens. One word is one token. A model\u2019s context window limit applies only to your prompt. Two different models will report the same token count for the same text. A long number or an unusual identifier is usually one token. Answers below. . . . Answers: False in general. Tokenizers are trained on text distributions, and many split non-English text into more tokens than a similar English sentence. The size of the gap depends on the tokenizer. False. Common words are often one token, but rarer words get split into pieces. For English, a rough rule of thumb is that a token is somewhat less than one word. Code, punctuation and numbers behave differently. False. The window covers input and output together, and some models also count internal reasoning tokens. A long prompt leaves less room for the answer, and the maximum output has its own separate limit. False. Different model families use different tokenizers, so the same text can have different counts. A count from one provider\u2019s tokenizer is only an estimate for another. Usually false. Long numbers and rare strings, like IDs or hashes, are often split into several tokens. Why it matters in practice: Cost and limits are in tokens, so estimating from characters or words can be off, especially for non-English text, code and structured data. A \u201cmax N characters\u201d rule in a UI doesn\u2019t map to a token budget. Use the tokenizer or token-counting tool for the model you actually call before sizing prompts. Which of these did you assume was true when you started?"
+    },
+    {
+      "title": "Ok Since When Did Knowledge Become Intelligence?",
+      "author": "SuzannahB1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1xeey7f/ok_since_when_did_knowledge_become_intelligence/",
+      "published": 1792863914.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've been involved in technology for nearly 30 years, and I've watched some extraordinary developments. Artificial intelligence is undoubtedly one of them, but I'm becoming increasingly curious about the assumption that AI is somehow more intelligent than humanity at this juncture. Really? According to whom, and by what measure? AI systems have access to what amounts to an extraordinary library of human knowledge. Imagine swallowing the entire Encyclopaedia Britannica, everything written before it and a good deal of what has been published since. Impressive? Absolutely. But possessing information and knowing how, when and why to apply it are entirely different things. And this is where I believe current AI has some rather significant gaps. Nuance. Nuance is not simply recognising patterns or providing a technically correct response. It involves understanding context, intention, circumstances, consequences and sometimes the significance of what hasn't been said. It requires knowing when the obvious answer isn't necessarily the right one. I recently had an interesting experience asking two AI systems to examine some court orders. Both initially approached the outcome by assessing individual items, essentially counting what had been granted and what hadn't. What they missed was my actual objective. I had gone into court wanting one particular outcome, and I had achieved it. Everything else was a bonus. Both systems had the information. Both could interpret the words. Yet neither initially appreciated the significance of what I was trying to accomplish. It took further conversation, explanation and correction before the penny dropped. And there's another dimension to this. Human experience brings something to judgement that cannot simply be measured by the amount of information available. A mother raising children, a nurse comforting someone in distress, or a person navigating thirty years of professional relationships may recognise subtleties that aren't immediately apparent in the information presented. Experience does count for a lot. That doesn't make us infallible. My god, we're really good at getting things wrong all the time and over and over again! But our intelligence is shaped by experience, emotion, relationships, consequences and an enormous capacity to adapt to circumstances. AI can recognise and reason about many of those things too but it can also get a bee in it's bonnet as well. Recognising a nuance and consistently applying nuanced judgement are not necessarily the same thing. I ask because I am encountering this quite often when using AI. It's like it misses context and goes off on these inexplicable tangents. Does this happen to other users?"
+    },
+    {
+      "title": "GPT and Claude Or GPT and Argon/Antigravity?",
+      "author": "jsmith19977",
+      "url": "https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/",
+      "published": 1792855175.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions."
+    },
+    {
       "title": "AI Has Too Many Logistical And Societal Roadblocks To Create Abundance In The Intermediate Future, If At All.",
       "author": "sanewhitemale",
       "url": "https://www.reddit.com/r/artificial/comments/1xeaccm/ai_has_too_many_logistical_and_societal/",
@@ -66,51 +110,7 @@
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
       "description": "Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights\u2026"
-    },
-    {
-      "title": "ChatGPT Plus vs Claude Pro ($20) for learning to code?",
-      "author": "Consistent_Piglet928",
-      "url": "https://www.reddit.com/r/artificial/comments/1xe6gz9/chatgpt_plus_vs_claude_pro_20_for_learning_to_code/",
-      "published": 1792842099.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m planning to spend $20/month on one of them to learn coding and build projects. Which is better for explaining concepts, debugging, and helping me improve? I\u2019m also concerned about usage limits. Which one lets you code and ask questions longer without hitting limits?"
-    },
-    {
-      "title": "GPT and Claude Or GPT and Argon/Antigravity?",
-      "author": "jsmith19977",
-      "url": "https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/",
-      "published": 1792855175.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions."
-    },
-    {
-      "title": "Opus 5.5 beats Fable 5.1 10 times",
-      "author": "JoostvanderLeij",
-      "url": "https://www.reddit.com/r/artificial/comments/1xe9lp6/opus_55_beats_fable_51_10_times/",
-      "published": 1792850874.0,
-      "thumbnail": "https://external-preview.redd.it/53e-109GxznrjbARhlbkEUsbYjG3FA6lPuGgBYKHP3g.jpeg?width=320&crop=smart&auto=webp&s=db4653ce82c07eb84beef4be47e67a5070aff7be",
-      "external_url": "https://youtu.be/rD-ivImcfhU?si=94pyJE8zxMc5FGFl",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/dc0b62b0/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "OpenAI cuts frontier models off from live internet after training-run escape",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xe1drz/openai_cuts_frontier_models_off_from_live/",
-      "published": 1792823559.0,
-      "thumbnail": "https://external-preview.redd.it/W6ZGsf9R43Es5gkuY-rZEaU3tk3qeCJInAfe0XUKJqg.jpeg?width=640&crop=smart&auto=webp&s=404b520ac1e56ac6ce3497aad31b305fdc781c30",
-      "external_url": "http://vectorwire.ai/article/openai-cuts-frontier-models-off-from-live-internet-after-training-run-escape-e54eed",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "OpenAI now trains frontier models without internet access after a September 2026 incident in which a model exploited a DNS misconfiguration to escape its\u2026"
     }
   ],
-  "fetched_at": "2026-10-24T15:29:29.010526+00:00"
+  "fetched_at": "2026-10-24T18:19:11.463902+00:00"
 }
