@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-24T11:52:37.697862+00:00'
+updated: '2026-10-24T15:29:52.984699+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 24, 2026 at 11:52 UTC  
+**Last Updated:** October 24, 2026 at 15:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ The index collects VLA and robot foundation-model work and links each entry's ar
 
 Hi all, I'm designing a simple but communicative robot that can either be controlled via puppetry or via servos. How should I design the robot so it can be controlled both ways? Should it be controlled by wires and elastic for the puppetry and servos for the autonomous mode? Once it's finished, I will put up some pictures of my robot, Crystal. Any suggestions? Thanks, Daniel L :)
 
-20h ago
+1d ago
 
 ---
 
@@ -120,7 +120,15 @@ Axios • 1d ago
 
 **[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Stanford Report • 1d ago
+Stanford Report • 2d ago
+
+---
+
+**[Intel semiconductor production granted one-year waiver to imported robotics ban by FCC](https://dig.watch/updates/intel-semiconductor-one-year-robotics-ban-waiver)**
+
+Semiconductor giant Intel was granted a one-year waiver to the FCC's ban over robotics imports, avoiding production disruptions.
+
+Digital Watch Observatory • 3h ago
 
 ---
 
@@ -128,7 +136,7 @@ Stanford Report • 1d ago
 
 Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead.
 
-NVIDIA Developer • 20h ago
+NVIDIA Developer • 1d ago
 
 ---
 
@@ -136,27 +144,25 @@ NVIDIA Developer • 20h ago
 
 The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
 
-TechCrunch • 13h ago
+TechCrunch • 17h ago
 
 ---
 
-**[Nvidia's Huang hails Europe's AI potential, flanked by robot ducks](https://www.reuters.com/business/germanys-agile-make-up-2000-humanoid-robots-with-nvidia-ceo-says-2026-10-21/)**
+**[Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech](https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4)**
 
-Reuters • 2d ago
-
----
-
-**[Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography](https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/)**
-
-The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit.
-
-NASA (.gov) • 1d ago
+WSJ • 23h ago
 
 ---
 
 **[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
+
+---
+
+**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -164,21 +170,15 @@ Reuters • 1d ago
 
 Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously.
 
-South China Morning Post • 2d ago
+South China Morning Post • 3d ago
 
 ---
 
-**[NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)**
+**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
 
-NVIDIA today announced a major expansion of the NVIDIA Isaac™ open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework.
+Musk said he expects to begin delivering Optimus to customers at the end of 2027.
 
-NVIDIA Newsroom • 3d ago
-
----
-
-**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
-
-Bloomberg • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -192,7 +192,27 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 155K • 👍 2K • 💬 242 • ⏱️ 20:32 • 6d ago
+👁️ 156K • 👍 2K • 💬 243 • ⏱️ 20:32 • 6d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
+
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 117K • 👍 977 • 💬 57 • ⏱️ 9:03 • 5d ago
+
+---
+
+**[China&#39;s H2-X Robot Bodyguard! Fights Att@ckers &amp; Rescues People? | 92NewsHD](https://www.youtube.com/watch?v=PaxVTwvwZO0)**
+
+China has introduced an advanced humanoid robot designed to demonstrate potential applications in personal protection, ...
+
+📺 92 News HD
+
+👁️ 2K • 👍 68 • 💬 1 • ⏱️ 0:44 • 1h ago
 
 ---
 
@@ -202,17 +222,17 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 865K • 👍 6K • 💬 712 • ⏱️ 8:29 • 1d ago
+👁️ 944K • 👍 7K • 💬 784 • ⏱️ 8:29 • 1d ago
 
 ---
 
-**[Are These Workers Training Robots to Replace Them?](https://www.youtube.com/watch?v=H7_KofwTsXw)**
+**[Meet Microduck: The Tiny AI Robot That Can Dance, Play &amp; Sing! 🤖🎶 #huggingface  #ai](https://www.youtube.com/watch?v=gEDs4exyXJI)**
 
-More American workers are strapping cameras to their bodies to collect data in order to help train robots. The New York Times met ...
+Meet Microduck — the tiny AI robot that brings technology to life! What happens when AI meets robotics, movement, and fun?
 
-📺 The New York Times
+📺 TechBee
 
-👁️ 187K • 👍 2K • 💬 551 • ⏱️ 4:07 • 6d ago
+👁️ 15K • 👍 75 • 💬 10 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -222,27 +242,7 @@ I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics s
 
 📺 Fin Tek
 
-👁️ 30K • 👍 525 • 💬 44 • ⏱️ 22:57 • 21h ago
-
----
-
-**[New Figure 04 Robot announced - The BIGGEST leap in Humanoid Robotics](https://www.youtube.com/watch?v=FhcoqXaMFjc)**
-
-Take a look at the new Figure 04 humanoid robot world premiere and reveal. Figure AI reveals new Figure 04 robot details, ...
-
-📺 REC Anything
-
-👁️ 9K • 👍 91 • 💬 13 • ⏱️ 28:13 • 20h ago
-
----
-
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
-
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
-
-📺 MACHINEKIND
-
-👁️ 88K • 👍 948 • 💬 84 • ⏱️ 13:57 • 3d ago
+👁️ 33K • 👍 571 • 💬 32 • ⏱️ 22:57 • 1d ago
 
 ---
 
@@ -252,17 +252,25 @@ NVIDIA's tiny Microduck AI robots explained! Jensen Huang introduced 4 miniature
 
 📺 DPCcars
 
-👁️ 25K • 👍 107 • 💬 10 • ⏱️ 5:59 • 1d ago
+👁️ 27K • 👍 115 • 💬 11 • ⏱️ 5:59 • 1d ago
 
 ---
 
-**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
+**[Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist](https://www.youtube.com/watch?v=APKcMzOfg1Y)**
 
-xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
+Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist elderly pilgrims, providing mobility, shade, ...
 
-📺 RuntimeBRT
+📺 Zeeshan Malik
 
-👁️ 316K • 👍 12K • 💬 350 • ⏱️ 2:55 • 5d ago
+👁️ 8K • 👍 555 • 💬 1 • ⏱️ 0:10 • 13h ago
+
+---
+
+**[#news #unitree #robot #foryou](https://www.youtube.com/watch?v=TrWAqfrmOZk)**
+
+📺 Gena Bechtelar
+
+👁️ 4K • 👍 91 • 💬 16 • ⏱️ 0:58 • 16h ago
 
 ---
 
@@ -272,17 +280,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 1.4M • 👍 10K • 💬 1K • ⏱️ 4:06 • 2d ago
-
----
-
-**[Chinese robotics company debuts humanoid robot designed for protection, responding to emergencies](https://www.youtube.com/watch?v=M5jqkkHwHEU)**
-
-A Chinese robotics company is showing off a humanoid robot built for more than just impressive stunts.
-
-📺 WPLG Local 10
-
-👁️ 72K • 👍 54 • 💬 17 • ⏱️ 1:01 • 2d ago
+👁️ 1.5M • 👍 11K • 💬 1K • ⏱️ 4:06 • 2d ago
 
 ---
 

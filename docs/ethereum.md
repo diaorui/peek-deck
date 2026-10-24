@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-24T11:52:37.694669+00:00'
+updated: '2026-10-24T15:29:52.982900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 11:52 UTC  
+**Last Updated:** October 24, 2026 at 15:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,377.86
+### $2,309.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -1.9%  
-**30d:** -12.1%  
-**90d:** +25.0%  
-**1y:** -40.1%  
+**24h:** -4.9%  
+**7d:** -4.9%  
+**30d:** -14.8%  
+**90d:** +21.2%  
+**1y:** -42.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.76B
+**Market Cap:** $279.84B
 Rank #2
 
 **Circulating Supply:** 122,158,317 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.2%
+-53.7%
 
 **All-Time Low:** $0.43
-+545845.6%
++528981.1%
 
 ---
 
@@ -112,7 +112,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 Dshackle is a load balancer that sits between your app and your blockchain upstreams (your own Geth, Infura, QuickNode, any mix of them). It tracks each upstream's block height, sync state and supported methods, and routes each request to one that is healthy and caught up. - JSON-RPC over HTTP and WebSocket - Automatic failover and retry - Tracking upstream status - Height-aware method routing - Chain-aware caching (in-memory or Redis) v0.18 is a rewrite from Kotlin/JVM to Rust. There are no new features. Config, API and behaviour are the same. Memory use is down ~75% and latency is 10–20% lower. https://github.com/emeraldpay/dshackle
 
-1d ago
+2d ago
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.](https://finance.yahoo.com/markets/crypto/articles/ethereum-co-founder-joseph-lubin-114200252.html)**
+
+Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right.
+
+Yahoo Finance • 3h ago
+
+---
+
 **[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
@@ -158,19 +166,19 @@ ethereum.org • 1d ago
 
 ---
 
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html)**
-
-Cardano could be headed for a big comeback in 2027.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?](https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/)**
 
 Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from…
 
-TradingView • 15h ago
+TradingView • 18h ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
+
+Cardano could be headed for a big comeback in 2027.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -182,35 +190,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.](https://www.fool.com/investing/2026/10/24/ethereum-co-founder-joseph-lubin-predicts-the-merg/)**
-
-Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right.
-
-The Motley Fool • 23m ago
-
----
-
 **[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
 
 The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
 
-The Block • 1d ago
-
----
-
-**[Current price of Ethereum for October 23, 2026](https://fortune.com/article/price-of-ethereum-10-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
-
----
-
-**[Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets](https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets)**
-
-An October 22, 2026 comparison of Bitcoin and Ethereum post-quantum signature proposals, test deployments, mainnet support and wallet dependencies.
-
-The Defiant • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -226,7 +210,21 @@ markets.businessinsider.com • 1d ago
 
 Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago.
 
-Blockchain News • 17h ago
+Blockchain News • 20h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Mileston](https://www.benzinga.com/crypto/cryptocurrency/26/10/62515868/bitcoin-ethereum-xrp-dogecoin-crypto-genius-act)**
+
+Benzinga • 2d ago
+
+---
+
+**[Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws](https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws)**
+
+The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.
+
+Decrypt • 1d ago
 
 ---
 
@@ -240,7 +238,17 @@ Tom Lee says $22000 is his LOW target for Ethereum this cycle. I went through ev
 
 📺 JM Crypto
 
-👁️ 4K • 👍 64 • 💬 22 • ⏱️ 25:11 • 16h ago
+👁️ 4K • 👍 71 • 💬 24 • ⏱️ 25:11 • 19h ago
+
+---
+
+**[THE BEST ETHEREUM SPOT BUY AREAS! (ETH Price Prediction)](https://www.youtube.com/watch?v=cl9fv_s4JQY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 242 • 👍 11 • 💬 2 • ⏱️ 5:26 • 5h ago
 
 ---
 
@@ -250,17 +258,7 @@ Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 96 • 💬 44 • ⏱️ 20:11 • 19h ago
-
----
-
-**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
-
-Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 239 • 💬 48 • ⏱️ 1:00:00 • 17h ago
+👁️ 9K • 👍 98 • 💬 46 • ⏱️ 20:11 • 23h ago
 
 ---
 
@@ -270,7 +268,37 @@ Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime M
 
 📺 Thinking Crypto
 
-👁️ 9K • 👍 470 • 💬 38 • ⏱️ 17:37 • 7h ago
+👁️ 12K • 👍 582 • 💬 48 • ⏱️ 17:37 • 11h ago
+
+---
+
+**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
+
+Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
+
+📺 Discover Crypto
+
+👁️ 10K • 👍 241 • 💬 48 • ⏱️ 1:00:00 • 21h ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Altcoins: Where I’m Buying and Shorting (Live Trading)](https://www.youtube.com/watch?v=jBaaLUPTQdY)**
+
+Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the only major asset holding range support this ...
+
+📺 Crypto Banter
+
+👁️ 8K • 👍 174 • 💬 14 • ⏱️ 49:05 • 6h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=r2QSUrfZc7I)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 549 • 👍 73 • ⏱️ 6:14 • 3h ago
 
 ---
 
@@ -280,7 +308,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 25K • 👍 511 • 💬 123 • ⏱️ 9:54 • 2d ago
+👁️ 26K • 👍 512 • 💬 123 • ⏱️ 9:54 • 2d ago
 
 ---
 
@@ -294,43 +322,13 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 ---
 
-**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
-
-BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 282 • 💬 55 • ⏱️ 20:53 • 16h ago
-
----
-
-**[Why Sharplink Is Betting Big on Ethereum | Joseph Chalom](https://www.youtube.com/watch?v=Xeks2bwXSIE)**
-
-What happens when AI agents start managing your money, and who will actually control them? Joseph Chalom, CEO of Sharplink ...
-
-📺 Crypto In America
-
-👁️ 9K • 👍 162 • 💬 38 • ⏱️ 41:22 • 2d ago
-
----
-
 **[SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK!](https://www.youtube.com/watch?v=kA0zzokm5Qo)**
 
 SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum Hits A ROADBLOCK! RIPPLE AND ...
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 179 • 💬 7 • ⏱️ 35:50 • 16h ago
-
----
-
-**[Bitcoin, Ethereum &amp; Altcoins, was ich für die nächsten Tage erwarte + Erfahrung am Ende](https://www.youtube.com/watch?v=WQ9TQdM5U58)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 445 • 💬 114 • ⏱️ 22:36 • 7h ago
+👁️ 4K • 👍 180 • 💬 7 • ⏱️ 35:50 • 20h ago
 
 ---
 

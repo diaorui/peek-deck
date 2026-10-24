@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Meta\u2019s new commercial terms say if its AI makes a mistake, it will legally be the customer\u2019s fault",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/",
-      "published": 1792783406.0,
-      "thumbnail": "https://external-preview.redd.it/6GLwEdnMjiUwEdA-fF1AASbhIsz8plPKDBK1zHVmGTc.jpeg?width=640&crop=smart&auto=webp&s=7fb7eb6df25615b25a614f304e664128f0171c80",
-      "external_url": "https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-      "site_name": "Computerworld",
-      "favicon": "https://www.computerworld.com/wp-content/themes/cw-b2b-child-theme/src/static/img/cw/apple-touch-icon.png",
-      "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners."
-    },
-    {
       "title": "Boston Dynamics employees petition to cancel $1.3M Spot robot sale to ICE",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1xe5pqg/boston_dynamics_employees_petition_to_cancel_13m/",
@@ -22,6 +11,17 @@
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
       "description": "Roughly 300 Boston Dynamics employees signed a petition urging the company to cancel a $1.3 million contract supplying Spot robot dogs to ICE through\u2026"
+    },
+    {
+      "title": "Meta\u2019s new commercial terms say if its AI makes a mistake, it will legally be the customer\u2019s fault",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/",
+      "published": 1792783406.0,
+      "thumbnail": "https://external-preview.redd.it/6GLwEdnMjiUwEdA-fF1AASbhIsz8plPKDBK1zHVmGTc.jpeg?width=640&crop=smart&auto=webp&s=7fb7eb6df25615b25a614f304e664128f0171c80",
+      "external_url": "https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+      "site_name": "Computerworld",
+      "favicon": "https://www.computerworld.com/wp-content/themes/cw-b2b-child-theme/src/static/img/cw/apple-touch-icon.png",
+      "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners."
     },
     {
       "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Moonshot AI's Kimi K3.1 Pro reaches fourth on Artificial Analysis index, 3 points behind Claude Opus 5.5",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdvxi5/moonshot_ais_kimi_k31_pro_reaches_fourth_on/",
-      "published": 1792805595.0,
-      "thumbnail": "https://external-preview.redd.it/fqWEI3boPz0gFfuKWTPo7eYOPZuSRnE35PaXVEgLbYI.jpeg?width=640&crop=smart&auto=webp&s=2826767a08568b73ea63bafb08922d3b8fbc7d40",
-      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights\u2026"
-    },
-    {
       "title": "AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1xe1mos/aws_ai_cloud_capacity_sold_out_through_2027_2028/",
@@ -55,6 +44,28 @@
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
       "description": "Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 with sizable 2028 commitments, as AI infrastructure demand outpaces supply."
+    },
+    {
+      "title": "AI Has Too Many Logistical And Societal Roadblocks To Create Abundance In The Intermediate Future, If At All.",
+      "author": "sanewhitemale",
+      "url": "https://www.reddit.com/r/artificial/comments/1xeaccm/ai_has_too_many_logistical_and_societal/",
+      "published": 1792852739.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Regardless of the ultimate capability of AI technology to eventually do everything, several factors make me think we're heading for a technological stall, not an acceleration: Many people already hate AI and it hasn't even started yet. Some of the reasons are rational (eliminating jobs, environmental risks), some less so (taking over the world), but there's a sizable coalition of people already refusing to use it. The three comparable technologies in my lifetime are the Internet, Social Media, and Smartphones. People early on thought the Internet was the greatest thing ever, and the only thing that stalled its early development was the hype outpacing the technological capability. When Social Media and Smartphones came out around the same time, everybody wanted to join and buy one. Nobody was sounding an alarm about mental health risks or deterioration of truth and political discourse, everyone just hopped right on the bandwagon. Maybe the failings of those technologies is partially why people already hate AI, but I don't think there's been any technology with greater resistance to adoption since the 1800s. Where is all the energy going to come from that it would require to enter an era of abundance? Fossil fuels are limited as it is, even if we drill at all costs and destroy the environment. The supply is going to run out that much quicker if AI reaches its full capability. People turned against nuclear years ago, even though that's probably the best option, and I don't see renewables providing enough to make up the difference in the near future. There's going to be a gap between AI reaching the abundance stage and the mass layoffs that will occur in the lead up to it. Of course, many think that being given free money by the government is the solution. I'd love to spend the rest of my life sitting on my butt and getting paid for it, but realistically, where is the government going to get enough money to not just pay people, but even remain solvent. I live in America, we're approaching 50 trillion dollars in debt. I don't see how there's any amount of taxing AI companies for this to make any fiscal sense. An alternative idea is coming out where AI companies pay people directly and eventually the government gets abolished, but that sounds like an even less practical idea. Then there's the issue with Data Centers, which is the ultimate \"not in my backyard\" scenario. Where I live, there's already people campaigning against them even though there's no plans (and probably no room) to even build them yet. Don't we need to build these at a five fold pace of what's currently being done to reach the stage of \"abundance\" in our lifetimes? This alone is enough to derail any potential AI has. The longest term risk, that most of us probably won't live to see: in a world where AI can do everything, children are going to grow up lazy, stupid, and ultimately unmotivated in adulthood. The issue here is that within a few generations, nobody is going to understand how AI actually works (unless there's some sort of plan to test and pick people to work with it), and should AI ever fail at a massive scale, we'd basically be sent back to a new dark age where nobody remembers or understands how anything works. I already think that today's Americans wouldn't be able to rebuild our institutions from scratch if necessary, and we still have expertise. To be clear: I'm completely rooting for AI to succeed. I'm a really lazy person, collecting a check to not do anything sounds like paradise to me. However, just one of these limitations is enough to derail abundance, and we're facing all five, and I just don't see it happening."
+    },
+    {
+      "title": "Moonshot AI's Kimi K3.1 Pro reaches fourth on Artificial Analysis index, 3 points behind Claude Opus 5.5",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdvxi5/moonshot_ais_kimi_k31_pro_reaches_fourth_on/",
+      "published": 1792805595.0,
+      "thumbnail": "https://external-preview.redd.it/fqWEI3boPz0gFfuKWTPo7eYOPZuSRnE35PaXVEgLbYI.jpeg?width=640&crop=smart&auto=webp&s=2826767a08568b73ea63bafb08922d3b8fbc7d40",
+      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights\u2026"
     },
     {
       "title": "ChatGPT Plus vs Claude Pro ($20) for learning to code?",
@@ -68,6 +79,28 @@
       "description": "I\u2019m planning to spend $20/month on one of them to learn coding and build projects. Which is better for explaining concepts, debugging, and helping me improve? I\u2019m also concerned about usage limits. Which one lets you code and ask questions longer without hitting limits?"
     },
     {
+      "title": "GPT and Claude Or GPT and Argon/Antigravity?",
+      "author": "jsmith19977",
+      "url": "https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/",
+      "published": 1792855175.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions."
+    },
+    {
+      "title": "Opus 5.5 beats Fable 5.1 10 times",
+      "author": "JoostvanderLeij",
+      "url": "https://www.reddit.com/r/artificial/comments/1xe9lp6/opus_55_beats_fable_51_10_times/",
+      "published": 1792850874.0,
+      "thumbnail": "https://external-preview.redd.it/53e-109GxznrjbARhlbkEUsbYjG3FA6lPuGgBYKHP3g.jpeg?width=320&crop=smart&auto=webp&s=db4653ce82c07eb84beef4be47e67a5070aff7be",
+      "external_url": "https://youtu.be/rD-ivImcfhU?si=94pyJE8zxMc5FGFl",
+      "site_name": "youtu.be",
+      "favicon": "https://www.youtube.com/s/desktop/dc0b62b0/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "OpenAI cuts frontier models off from live internet after training-run escape",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1xe1drz/openai_cuts_frontier_models_off_from_live/",
@@ -77,40 +110,7 @@
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
       "description": "OpenAI now trains frontier models without internet access after a September 2026 incident in which a model exploited a DNS misconfiguration to escape its\u2026"
-    },
-    {
-      "title": "$50 per website. That\u2019s what it reportedly cost one attacker to compromise 100+ companies using AI agents.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdm83o/50_per_website_thats_what_it_reportedly_cost_one/",
-      "published": 1792780623.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Mostly online shops. Under 23 hours per attack on average. Target was persistent access to payment infrastructure. I\u2019ve read a lot of \u201cAI enables attackers\u201d takes and most of them are vague. This one has a number attached, which makes it worth sitting with. Here\u2019s what the number does. Targeted attacks have always had a floor. Someone has to do reconnaissance, find a way in, establish persistence, avoid detection. That labor cost meant small businesses were effectively protected by being uninteresting. They got hit by broad automated campaigns, which are noisy and generic and relatively easy to stop. Drop the cost to $50 and under a day, and the floor disappears. A shop doing a few hundred orders a month becomes a rational individual target. Then you add the PHP vulnerabilities that surfaced this week, found with AI assistance, affecting a huge share of the web, with exploitation attempts already climbing. What I don\u2019t have a good answer for is what small businesses are supposed to do about it. They\u2019ve never needed a security function. Obscurity was the strategy. If that stops working, there\u2019s nothing underneath. Anyone working in security actually seeing this in the data yet?"
-    },
-    {
-      "title": "Sim to Real: Infrastructure for Embodied AI | Inhi Suh (Niantic Spatial)",
-      "author": "ExtensionEcho3",
-      "url": "https://www.reddit.com/r/artificial/comments/1xe3lb6/sim_to_real_infrastructure_for_embodied_ai_inhi/",
-      "published": 1792831730.0,
-      "thumbnail": "https://external-preview.redd.it/1XLL-CKlW779625V_3zBSZxGqM8qUNwNg5S6_PuyP1A.jpeg?width=320&crop=smart&auto=webp&s=e83bd77ba5173f9ec01cea4bd2a263a5bbee0371",
-      "external_url": "https://www.youtube.com/watch?v=EC1z8yX0ASM",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/dc0b62b0/img/favicon.ico",
-      "description": "TLDW Version: Inhi Cho Suh(CEO Of Niantic Spatial, and John Hanke's Leadership Team Member), discusses robotics development in depth including concepts such as a robot policy, embodied AI, etc in Seoul, South Korea."
-    },
-    {
-      "title": "How To Get Web Design Clients",
-      "author": "Murky_Explanation_73",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdqd2b/how_to_get_web_design_clients/",
-      "published": 1792790259.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve tried a lot of different ways to get web design clients over the years. Cold calling, Facebook DMs, ads, referrals, generic cold emails. Some of it worked, but it was never really consistent enough for me. The thing that changed it was when I stopped just asking businesses if they needed a website and started contacting businesses that already had one but clearly needed a better one. That\u2019s a much easier conversation. They already understand the value of having a website, they\u2019ve already paid for one before, and usually there is something obvious that can be improved. The problem is doing that manually takes forever. You have to find the business, open the website, look through it, figure out what\u2019s wrong and then write an email that actually sounds relevant. So now I use Swokei for that whole first part. It finds businesses with websites, analyzes the sites for things like outdated design, slow speed, weak SEO and mobile issues, then uses what it finds to write a personalized email for that specific business. Then I just run campaigns at volume and focus on the people who reply. That\u2019s pretty much the whole strategy. Find businesses that already have a website. Point out something that could genuinely be better. Get them interested. Book a meeting. Show them what a better version could look like. Close the project. It sounds simple, but for me this has been way more consistent than constantly jumping between different ways of finding clients."
     }
   ],
-  "fetched_at": "2026-10-24T11:52:13.705085+00:00"
+  "fetched_at": "2026-10-24T15:29:29.010526+00:00"
 }

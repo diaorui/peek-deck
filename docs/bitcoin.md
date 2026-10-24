@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-24T11:52:37.688669+00:00'
+updated: '2026-10-24T15:29:52.978251+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 11:52 UTC  
+**Last Updated:** October 24, 2026 at 15:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,715.85
+### $79,449.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -1.8%  
-**30d:** -4.2%  
-**90d:** +26.4%  
-**1y:** -27.8%  
+**24h:** -2.8%  
+**7d:** -3.3%  
+**30d:** -5.5%  
+**90d:** +24.6%  
+**1y:** -28.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1619.14B
+**Market Cap:** $1594.98B
 Rank #1
 
 **Circulating Supply:** 20,102,809 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.1%
+-37.1%
 
 **All-Time Low:** $67.81
-+118676.0%
++116907.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not one government currency has preserved its purchasing power over the past decade.](https://www.reddit.com/r/Bitcoin/comments/1xde1vw/not_one_government_currency_has_preserved_its/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The McRib Rally Is Back The McRib Rally Is Back
 
-23h ago
+1d ago
 
 ---
 
@@ -95,7 +95,7 @@ The McRib Rally Is Back The McRib Rally Is Back
 
 Available in every Swiss post office
 
-22h ago
+1d ago
 
 ---
 
@@ -103,13 +103,13 @@ Available in every Swiss post office
 
 sheeesh lol
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 21h ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 1d ago
 
 ---
 
 **[Which one of you is it?](https://www.reddit.com/r/Bitcoin/comments/1xdcilp/which_one_of_you_is_it/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 My father works as an engraver of medals. Some time ago, he was commissioned to engrave a medal for a woman whose son had passed away—the woman was a foreigner, incidentally. The medal had to feature a specific logo, which the woman explained to my father was "Bitcoin" (though he doesn’t recall the details very clearly, as it was quite a long time ago). Recently, he came across the logo and showed it to me. We aren’t certain exactly when this request was made, but it was definitely between 10 and 20 years ago. Could this be one of the earliest versions of the Bitcoin logo? And is it possible that the woman’s son was one of the creators of Bitcoin, or someone who played a significant role in its development?
 
-19h ago
+23h ago
 
 ---
 
@@ -165,51 +165,35 @@ The Motley Fool • 1d ago
 
 ---
 
-**[BlackRock (BLK) Stock Could Be 11% Undervalued Following Bitcoin ETF Filing](https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-stock-could-11-111124099.html)**
+**[Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries](https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations)**
 
-BlackRock has seen its stock deliver a powerful run over the past few years, which naturally puts a spotlight on whether the current valuation is really backed by the returns the business earns on its capital. With the asset manager pushing deeper into areas like bitcoin-linked products, AI infrastructure financing and tokenized funds, the question now is how much of that ambition is already priced in. Over the past 3 years the share price has gained about 99.9%, so a lot of future...
+Bitcoin has sunk to its weakest level in more than one month.
 
-Yahoo Finance • 41m ago
-
----
-
-**[Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html)**
-
-Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds.
-
-Yahoo Finance • 46m ago
+CoinDesk • 18m ago
 
 ---
 
-**[What Happened to Uptober? Bitcoin May Be Down in October, But Here Are 3 Reasons to Remain Bullish on BTC.](https://finance.yahoo.com/markets/crypto/articles/happened-uptober-bitcoin-may-down-103200556.html)**
+**[Franklin Templeton Prepares Nasdaq Debut For ETFs That Turn Stock Dividends Into Bitcoin](https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-prepares-nasdaq-debut-140634973.html)**
 
-October is usually a decent month for Bitcoin, but it hasn't been this time around.
+Franklin Templeton’s funds start with 95% in U.S. stocks and 5% in Bitcoin.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin falls below $82,000 as investors retreat from risk assets](https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html)**
+**[Bitcoin Price on Its 18th Birthday: Here's What History Predicts for BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-18th-birthday-heres-140215891.html)**
 
-Bitcoin fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions.
+Bitcoin's white paper turns 18 on Oct. 31, 2026, marking nearly two decades since Satoshi Nakamoto introduced the cryptocurrency. Bitcoin has historically gained in 10…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin (BTC) price recovers to $81,700 as memecoins lead altcoin rebound](https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13)**
-
-Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%, with pepe up 13%.
-
-CoinDesk • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Current price of Bitcoin for October 23, 2026](https://fortune.com/article/price-of-bitcoin-10-23-2026/)**
+**[Bitcoin Core Ends Long Embargoes For Bugs AI Can Rediscover](https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received.
 
-Fortune • 22h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -217,13 +201,29 @@ Fortune • 22h ago
 
 Both injured employees were airlifted to the Augusta Burn Unit.
 
-WSB-TV • 20h ago
+WSB-TV • 1d ago
 
 ---
 
 **[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
 
-Financial Times • 1d ago
+Financial Times • 2d ago
+
+---
+
+**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eyes-84-000-whale-054514426.html)**
+
+Investing.com -- Bitcoin traded under $81,000 as large-holder withdrawals and institutional wallet activity raised hopes of a recovery towards $84,000, despite continued uncertainty across cryptocurrency markets.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)**
+
+Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -257,7 +257,7 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 **[OpenAI trims valuation target to $1.25T after pitching higher price](https://news.ycombinator.com/item?id=50209513)**
 
-⬆️ 7 • 💬 0 • 21h ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
+⬆️ 7 • 💬 0 • 1d ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
 
 ---
 
@@ -265,43 +265,33 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: A Precarious Position](https://www.youtube.com/watch?v=eN6dpreDIk4)**
+**[IF YOU HOLD BITCOIN, WATCH BEFORE MONDAY... [SCARY]](https://www.youtube.com/watch?v=QDk6VNnQ0z0)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
-📺 Benjamin Cowen
+📺 Crypto Kid
 
-👁️ 71K • 👍 3K • 💬 145 • ⏱️ 19:51 • 11h ago
-
----
-
-**[This Bull Market Will Be THE Most Dangerous In Bitcoin&#39;s History (Pitfalls To Avoid)](https://www.youtube.com/watch?v=xu39s1-MNdI)**
-
-Bull Markets can be dangerous and I believe this one will be the most dangerous of all. (Pitfalls To Avoid) In this video, we're ...
-
-📺 Brad Long
-
-👁️ 10K • 👍 270 • 💬 38 • ⏱️ 6:39 • 15h ago
+👁️ 1K • 👍 135 • 💬 52 • ⏱️ 16:39 • 2h ago
 
 ---
 
-**[Insane Conspiracy Theory To Crash The Banking System Exposed!! Got Bitcoin?](https://www.youtube.com/watch?v=LoyGJbV-5Xc)**
+**[I Can&#39;t Stay Silent about this Crypto Crash Any Longer!](https://www.youtube.com/watch?v=Ihq9QTkRYM4)**
 
-Chamath says AI and quantum computing will hack Bitcoin and send it to zero. Dante breaks down why cryptographers like Dan ...
+Bitcoin & Crypto are CRASHING!? (Here Is My Plan) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 108 • ⏱️ 20:55 • 13h ago
+👁️ 48K • 👍 2K • 💬 105 • ⏱️ 11:08 • 16h ago
 
 ---
 
-**[Is Real Estate Dead? Grant Cardone’s New Bitcoin Strategy](https://www.youtube.com/watch?v=h7-2Pj_ouHc)**
+**[BITCOIN: IT’s A TRAP!!!!!!!! [urgent]](https://www.youtube.com/watch?v=whywCBJv26M)**
 
-Grant Cardone has been buying apartment complexes for forty years. Eighteen months ago he started putting Bitcoin into the ...
+Bitcoin trap.
 
-📺 Yahoo Finance
+📺 MMCrypto
 
-👁️ 17K • 👍 288 • 💬 117 • ⏱️ 29:52 • 18h ago
+👁️ 40K • 👍 2K • 💬 255 • ⏱️ 4:18 • 8h ago
 
 ---
 
@@ -311,57 +301,65 @@ Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cr
 
 📺 Simply Bitcoin
 
-👁️ 59K • 👍 2K • 💬 233 • ⏱️ 18:14 • 1d ago
+👁️ 59K • 👍 2K • 💬 236 • ⏱️ 18:14 • 1d ago
 
 ---
 
-**[Bitcoin Hovers Above $83k](https://www.youtube.com/watch?v=oYPawyUxnnE)**
+**[Bitcoin: A Precarious Position](https://www.youtube.com/watch?v=eN6dpreDIk4)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 131K • 👍 4K • 💬 193 • ⏱️ 6:07 • 2d ago
+👁️ 90K • 👍 3K • 💬 170 • ⏱️ 19:51 • 14h ago
 
 ---
 
-**[IT&#39;S OVER!! JPMORGAN CONCEDES DEFEAT TO BITCOIN!!](https://www.youtube.com/watch?v=ANru3uNSw9U)**
+**[RIPPLE AND $5.2 TRILLION JPMORGAN MAKE HUGE MOVES! #xrp #crypto  #bitcoin](https://www.youtube.com/watch?v=h5dfhe9-6Ek)**
 
-JPMorgan just put Bitcoin above gold and US stocks in its 2027 long term outlook, and Rustin has thoughts after years of Jamie ...
+📺 CryptoWendyO
 
-📺 Simply Bitcoin
-
-👁️ 45K • 👍 2K • 💬 223 • ⏱️ 20:40 • 2d ago
+👁️ 4K • 👍 273 • 💬 17 • ⏱️ 2:23 • 14h ago
 
 ---
 
-**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
+**[Bitcoin Live: Here&#39;s the Roadmap into next week](https://www.youtube.com/watch?v=Yb1YEk3BrVQ)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Question of the day: does last week's low hold into the Fed? My pivot is $79694 on a daily close (79500 on my chart); above it I ...
 
-📺 Benjamin Cowen
+📺 Krown
 
-👁️ 121K • 👍 4K • 💬 159 • ⏱️ 10:31 • 1d ago
-
----
-
-**[Chamath Palihapitiya: An Urgent Alert To All Crypto Investors](https://www.youtube.com/watch?v=U2UrnJMjDbA)**
-
-Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x.com/GigaStar_ GigaStar is a channel partner.
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 1K • 💬 111 • ⏱️ 11:34 • 1d ago
+👁️ 11K • 👍 347 • 💬 26 • ⏱️ 1:40:08 • 20h ago
 
 ---
 
-**[Why I’m buying the Bitcoin assets Fidelity just highlighted](https://www.youtube.com/watch?v=Nu4J0KWW0k8)**
+**[DON&#39;T BE FOOLED BY THIS BITCOIN MOVE...](https://www.youtube.com/watch?v=SBpNKnHsc7I)**
 
-Fidelity Digital Assets just published a paper calling bitcoin perpetual preferred stocks "the newest demand catalyst in bitcoin.
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
 
-📺 Betirement
+📺 Crypto Rover
 
-👁️ 18K • 👍 609 • 💬 172 • ⏱️ 15:56 • 1d ago
+👁️ 9K • 👍 455 • 💬 24 • ⏱️ 7:49 • 5h ago
+
+---
+
+**[This Bull Market Will Be THE Most Dangerous In Bitcoin&#39;s History (Pitfalls To Avoid)](https://www.youtube.com/watch?v=xu39s1-MNdI)**
+
+Bull Markets can be dangerous and I believe this one will be the most dangerous of all. (Pitfalls To Avoid) In this video, we're ...
+
+📺 Brad Long
+
+👁️ 12K • 👍 287 • 💬 50 • ⏱️ 6:39 • 19h ago
+
+---
+
+**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
+
+Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
+
+📺 Thinking Crypto
+
+👁️ 12K • 👍 582 • 💬 48 • ⏱️ 17:37 • 11h ago
 
 ---
 
