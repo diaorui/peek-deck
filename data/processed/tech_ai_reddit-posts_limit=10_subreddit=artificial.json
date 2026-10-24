@@ -24,6 +24,28 @@
       "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners."
     },
     {
+      "title": "Moonshot AI's Kimi K3.1 Pro reaches fourth on Artificial Analysis index, 3 points behind Claude Opus 5.5",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdvxi5/moonshot_ais_kimi_k31_pro_reaches_fourth_on/",
+      "published": 1792805595.0,
+      "thumbnail": "https://external-preview.redd.it/fqWEI3boPz0gFfuKWTPo7eYOPZuSRnE35PaXVEgLbYI.jpeg?width=640&crop=smart&auto=webp&s=2826767a08568b73ea63bafb08922d3b8fbc7d40",
+      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights\u2026"
+    },
+    {
+      "title": "OpenAI cuts frontier models off from live internet after training-run escape",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xe1drz/openai_cuts_frontier_models_off_from_live/",
+      "published": 1792823559.0,
+      "thumbnail": "https://external-preview.redd.it/W6ZGsf9R43Es5gkuY-rZEaU3tk3qeCJInAfe0XUKJqg.jpeg?width=640&crop=smart&auto=webp&s=404b520ac1e56ac6ce3497aad31b305fdc781c30",
+      "external_url": "http://vectorwire.ai/article/openai-cuts-frontier-models-off-from-live-internet-after-training-run-escape-e54eed",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "OpenAI now trains frontier models without internet access after a September 2026 incident in which a model exploited a DNS misconfiguration to escape its\u2026"
+    },
+    {
       "title": "$50 per website. That\u2019s what it reportedly cost one attacker to compromise 100+ companies using AI agents.",
       "author": "Dapper-Tale-4021",
       "url": "https://www.reddit.com/r/artificial/comments/1xdm83o/50_per_website_thats_what_it_reportedly_cost_one/",
@@ -33,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Mostly online shops. Under 23 hours per attack on average. Target was persistent access to payment infrastructure. I\u2019ve read a lot of \u201cAI enables attackers\u201d takes and most of them are vague. This one has a number attached, which makes it worth sitting with. Here\u2019s what the number does. Targeted attacks have always had a floor. Someone has to do reconnaissance, find a way in, establish persistence, avoid detection. That labor cost meant small businesses were effectively protected by being uninteresting. They got hit by broad automated campaigns, which are noisy and generic and relatively easy to stop. Drop the cost to $50 and under a day, and the floor disappears. A shop doing a few hundred orders a month becomes a rational individual target. Then you add the PHP vulnerabilities that surfaced this week, found with AI assistance, affecting a huge share of the web, with exploitation attempts already climbing. What I don\u2019t have a good answer for is what small businesses are supposed to do about it. They\u2019ve never needed a security function. Obscurity was the strategy. If that stops working, there\u2019s nothing underneath. Anyone working in security actually seeing this in the data yet?"
+    },
+    {
+      "title": "AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xe1mos/aws_ai_cloud_capacity_sold_out_through_2027_2028/",
+      "published": 1792824471.0,
+      "thumbnail": "https://external-preview.redd.it/seh0eqgSDI0G6-9t5Ac7HTjgJbDEYByEEP3UaeBguwQ.jpeg?width=640&crop=smart&auto=webp&s=b1673bd418febcf405812556ccfcd789d6d6b9dd",
+      "external_url": "http://vectorwire.ai/article/aws-ai-cloud-capacity-sold-out-through-2027-2028-bookings-filling-fast-91fb69",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 with sizable 2028 commitments, as AI infrastructure demand outpaces supply."
     },
     {
       "title": "How To Get Web Design Clients",
@@ -57,39 +90,6 @@
       "description": "Morgan Stanley, JPMorgan, Bank of America, Wells Fargo, and Citi are restricting third-party AI agents found operating inside customer accounts without\u2026"
     },
     {
-      "title": "Moonshot AI's Kimi K3.1 Pro reaches fourth on Artificial Analysis index, 3 points behind Claude Opus 5.5",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdvxi5/moonshot_ais_kimi_k31_pro_reaches_fourth_on/",
-      "published": 1792805595.0,
-      "thumbnail": "https://external-preview.redd.it/fqWEI3boPz0gFfuKWTPo7eYOPZuSRnE35PaXVEgLbYI.jpeg?width=640&crop=smart&auto=webp&s=2826767a08568b73ea63bafb08922d3b8fbc7d40",
-      "external_url": "http://vectorwire.ai/article/moonshot-ai-s-kimi-k3-1-pro-reaches-fourth-on-artificial-analysis-index-3-points-622f73",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Moonshot AI's Kimi K3.1 Pro ranks fourth on the Artificial Analysis Intelligence Index with 55 points, 3 behind Claude Opus 5.5, with open weights\u2026"
-    },
-    {
-      "title": "Anyone tried Dreamina? Does the $0.29 plan actually give you full Seedance access?",
-      "author": "Key_Disaster3141",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdk7s3/anyone_tried_dreamina_does_the_029_plan_actually/",
-      "published": 1792776069.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Noticed Dreamina is running a $0.29/month plan that supposedly unlocks everything in Seedance. At that price I'm wondering if there's a catch. Anyone actually subscribed and can confirm what you get? Also curious if there are any extra charges when you actually use it or if $0.29 covers everything."
-    },
-    {
-      "title": "By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work.",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xd4f6k/by_every_measure_opus_48_beats_human_experts_as/",
-      "published": 1792730083.0,
-      "thumbnail": "https://preview.redd.it/nvr2vf1wa5xh1.png?width=640&crop=smart&auto=webp&s=c8b29f353d15674073b3f4b6c7265f90be3ab16f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Link to the paper: https://gking.harvard.edu/peerless/ Seems like all of the complaints about AI generated reviews being low quality don\u2019t stand up to scrutiny."
-    },
-    {
       "title": "Out Of the Box",
       "author": "Grand_Pineapple_8537",
       "url": "https://www.reddit.com/r/artificial/comments/1xdr4i1/out_of_the_box/",
@@ -101,16 +101,16 @@
       "description": "I just watched an episode of \"About That\" by Andrew Chang that gave a great explanation of the Hugging Face incident where OpenAI used an unconventional or at least unpredicted solution to the a test task it was given. There has been plenty of discussion about how and why it happened, and what it could mean for the future, etc.etc. and I don't want to add to those discussions. What I did find interesting was the similarity to a Startrek movie, namely Startrek II: The Wrath of Khan where the Starfleet Academy cadets were given a supposedly unwinnable simulation, the Kobayashi Maru, and cadet James Kirk won the test by reprogramming the situation. Kirk used innovation and out-of-the-box thinking to accomplish the task. The task was to get it done, and the the rightness or wrongness of the method or repercussions from it were not part of the solution. To me, this seems to be exactly what OpenAI did when it found a way out-of-the-box to accomplish it's task. In the absence of strict rules (guardrails?), hacking, cheating, escaping, reprogramming or anything else we're acceptable means to an end in both cases. Interesting parallels and 44 years apart."
     },
     {
-      "title": "What is a second brain?",
-      "author": "Emojinapp",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdqwnd/what_is_a_second_brain/",
-      "published": 1792791568.0,
+      "title": "Anyone tried Dreamina? Does the $0.29 plan actually give you full Seedance access?",
+      "author": "Key_Disaster3141",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdk7s3/anyone_tried_dreamina_does_the_029_plan_actually/",
+      "published": 1792776069.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A second brain is basically an external memory for your real brain. Somewhere to dump ideas, research, notes, decisions and things you want to remember later, without relying on yourself to remember where you put them. That was the part normal note apps kept failing at for me. I could save almost anything, but months later I still had to remember that the note existed before I could find it. While building apps I was generating architecture notes, PRDs, debugging writeups, feature ideas and random thoughts constantly. I wanted them to organize and connect themselves instead of slowly turning into another pile of documents. So I built Cohestry. It uses on-device intelligence to understand notes, then a deterministic system connects related ones automatically. Those connections have already resurfaced old ideas I had completely forgotten about. I can move through them visually in a 3D brain, import Markdown, PDFs and Apple Notes, capture voice notes or drawings, and everything stays on my devices and iCloud. The Mac app also has an MCP bridge, so when I\u2019m working with AI agents they can pull relevant context from my second brain instead of me repeatedly explaining the same projects from scratch. https://apps.apple.com/us/app/cohestry-second-brain/id6811573132"
+      "description": "Noticed Dreamina is running a $0.29/month plan that supposedly unlocks everything in Seedance. At that price I'm wondering if there's a catch. Anyone actually subscribed and can confirm what you get? Also curious if there are any extra charges when you actually use it or if $0.29 covers everything."
     }
   ],
-  "fetched_at": "2026-10-24T01:49:14.734537+00:00"
+  "fetched_at": "2026-10-24T06:55:20.976332+00:00"
 }

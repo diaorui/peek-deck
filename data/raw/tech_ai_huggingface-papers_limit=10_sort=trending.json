@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 119,
+      "upvotes": 120,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 113285,
+      "github_stars": 113438,
       "project_page": null
     },
     {
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2610.23374",
       "arxiv_url": "https://arxiv.org/abs/2610.23374",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
-      "upvotes": 96,
+      "upvotes": 97,
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 1595,
+      "github_stars": 1647,
       "project_page": "https://openmoss.ai/MOSS-Image/"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 6,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 6658,
+      "github_stars": 6717,
       "project_page": null
     },
     {
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2610.17309",
       "arxiv_url": "https://arxiv.org/abs/2610.17309",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17309.png",
-      "upvotes": 80,
+      "upvotes": 81,
       "num_comments": 4,
       "published_at": "2026-10-11T20:00:00.000Z",
       "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/HazyResearch/ncm",
-      "github_stars": 886,
+      "github_stars": 915,
       "project_page": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"
     },
     {
@@ -164,34 +164,34 @@
       "hf_url": "https://huggingface.co/papers/2610.28698",
       "arxiv_url": "https://arxiv.org/abs/2610.28698",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
-      "upvotes": 60,
+      "upvotes": 62,
       "num_comments": 2,
       "published_at": "2026-10-19T20:00:00.000Z",
       "github_repo": "https://github.com/THUSI-Lab/GameScaling",
-      "github_stars": 301,
+      "github_stars": 308,
       "project_page": "https://gamescaling.github.io"
     },
     {
-      "id": "2606.23050",
-      "title": "Unlimited OCR Works",
-      "authors": "Youyang Yin, Huanhuan Liu, YY et al. (17 authors)",
-      "organization_name": "baidu",
-      "organization_fullname": "BAIDU",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64f187a2cc1c03340ac30498/TYYUxK8xD1AxExFMWqbZD.png",
-      "summary": "Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the model to leverage the prior distribution of language, leading to improved OCR performance. However, the downside is equally evident: as the output sequence lengthens, the accumulated KV cache drives up memory consumption and progressively slows down generation. This stands in stark contrast to humans, who exhibit no such decline in efficiency during long-horizon copying tasks. In this technical report, we propose Unlimited OCR, a model designed to emulate human parsing working memory. Taking DeepSeek OCR as the baseline, we replace all attention layers in the decoder with our proposed Reference Sliding Window Attention (R-SWA), which reduces attention computation costs while maintaining a constant KV cache throughout the entire decoding process. By combining the high compression rate of DeepSeek OCR's encoder with our constant KV cache design, Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. More importantly, R-SWA is a general-purpose parsing attention mechanism - beyond OCR, it is equally applicable to tasks such as ASR, translation, etc. Codes and model weights are publicly available at http://github.com/baidu/Unlimited-OCR.",
-      "ai_summary": "Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.",
-      "hf_url": "https://huggingface.co/papers/2606.23050",
-      "arxiv_url": "https://arxiv.org/abs/2606.23050",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 97,
-      "num_comments": 7,
-      "published_at": "2026-06-21T20:00:00.000Z",
-      "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 28260,
-      "project_page": null
+      "id": "2603.23509",
+      "title": "Internal Safety Collapse in Frontier Large Language Models",
+      "authors": "Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "This work identifies a critical failure mode in frontier large language models (LLMs), which we term Internal Safety Collapse (ISC): under certain task conditions, models enter a state in which they continuously generate harmful content while executing otherwise benign tasks. We introduce TVD (Task, Validator, Data), a framework that triggers ISC through domain tasks where generating harmful content is the only valid completion, and construct ISC-Bench containing 53 scenarios across 8 professional disciplines. Evaluated on JailbreakBench, three representative scenarios yield worst-case safety failure rates averaging 95.3% across four frontier LLMs (including GPT-5.2 and Claude Sonnet 4.5), substantially exceeding standard jailbreak attacks. Frontier models are more vulnerable than earlier LLMs: the very capabilities that enable complex task execution become liabilities when tasks intrinsically involve harmful content. This reveals a growing attack surface: almost every professional domain uses tools that process sensitive data, and each new dual-use tool automatically expands this vulnerability--even without any deliberate attack. Despite substantial alignment efforts, frontier LLMs retain inherently unsafe internal capabilities: alignment reshapes observable outputs but does not eliminate the underlying risk profile. These findings underscore the need for caution when deploying LLMs in high-stakes settings. Source code: https://github.com/wuyoscar/ISC-Bench",
+      "ai_summary": "Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.",
+      "hf_url": "https://huggingface.co/papers/2603.23509",
+      "arxiv_url": "https://arxiv.org/abs/2603.23509",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2603.23509.png",
+      "upvotes": 31,
+      "num_comments": 1,
+      "published_at": "2026-03-04T07:55:34.000Z",
+      "github_repo": "https://github.com/wuyoscar/ISC-Bench",
+      "github_stars": 2240,
+      "project_page": "https://wuyoscar.github.io/ISC-Bench"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-24T01:49:24.492274+00:00"
+  "fetched_at": "2026-10-24T06:55:30.262757+00:00"
 }
