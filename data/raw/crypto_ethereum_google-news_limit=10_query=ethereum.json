@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlZramFRZjBYZzk3dlBJeERnNlNZVUZGYkt3M19NYTEtcnFHc242QTlkVVhpRm1VLU9Gc19TYzRhYUg3VWdIYm9NYXc2b0RhSmZSenFwVk8xa012aTNLeTRoZmV6RWNtY0YzVUlkWU5OYlVLQ2thdERlR0hzZTBIdlRBamphOUVuYkRvZnJMTHRmdDUxTkhmTGFnekVfUQ?oc=5",
+      "pub_date": 1792842120.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-co-founder-joseph-lubin-114200252.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9a256b0520dc9d0fee336b6b19755be2044dac54e9fe2d90dcdffc4faad74d44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F931f476fcfefd4a183f188cad31cbfc9.jpg",
+      "description": "Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right."
+    },
+    {
       "headline": "Glamsterdam on Hoodi Postponed",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -13,16 +23,6 @@
       "article_url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
       "image": "https://blog.ethereum.org/images/eth-org.jpeg",
       "description": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has..."
-    },
-    {
-      "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFUdG1TaTRveTk3VUhFclVvNVNiUzNHZHA1Tm12SVF6X1I5ZVJoVHl5eW90UWZoVnBZN1ZlM2RDX19FMXRGVFI0LXV5Z3lqc0QybW1BU1NnWGRnUWpnd2dFMlB0TGV3TmMyUnJpTDJyaDN3YlI5dmhMUG9CODJZRHJKTnNxMUVwVHp4OHRpSEJaUmVXS3hPY21B?oc=5",
-      "pub_date": 1792740900.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c12e5b52bf191233fa1aca133375bbccf7b85c2e518fa42d991c1e9fb40d3e88/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0532a53f2f27b66bbd5857063f39fc84.jpg",
-      "description": "Cardano could be headed for a big comeback in 2027."
     },
     {
       "headline": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets\u2014Which Is Gaining Ground?",
@@ -35,6 +35,16 @@
       "description": "Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from\u2026"
     },
     {
+      "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPei1jcHJQVGVid29ZNFlWelF1eTdnU050dTNzUVhLS3kxY21pOFg3TnNiMGJJYjhuVjVsRG9yZURZNW1mOVZhalhiY2x6MkY3MVdQQ210Yk1oYnFWbGNscThWdUxjOXBiWVZmMDQzenE3WHJ4eThfejcxVVVqRUlSdmFrcDFybTBzcm5DYVFqTm9QZl9XcXhqVw?oc=5",
+      "pub_date": 1792743300.0,
+      "article_url": "https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891827%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
+      "description": "Cardano could be headed for a big comeback in 2027."
+    },
+    {
       "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -45,16 +55,6 @@
       "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
     },
     {
-      "headline": "Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDZIWXVaazR3UTBIYjlCNHF6MmYtYm4zZE9vMW9JakxUeHkxTzZYVU5YdkVCTURjenVPZTNaSEZoVXVsaW5zZHBMUzFtQlFVVFYzVlhjZHhvRFlaZ0tzZW51WDBhTlVGMHpxYTIycGFMTXZrMllVYlRMcDkxUkNPMWY1bUFGcDR3ekFNcF9VNGpfWnpTNW1DdA?oc=5",
-      "pub_date": 1792841322.0,
-      "article_url": "https://www.fool.com/investing/2026/10/24/ethereum-co-founder-joseph-lubin-predicts-the-merg/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890569%2Fartificial-intelligence.jpg&w=1200&op=resize",
-      "description": "Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right."
-    },
-    {
       "headline": "Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -63,26 +63,6 @@
       "article_url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg",
       "description": "The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes."
-    },
-    {
-      "headline": "Current price of Ethereum for October 23, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5",
-      "pub_date": 1792761466.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-23-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-23.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDc2LWh0YVp5QUNpUFQ5WkJzRS1NTThLalRldlhwekhVcDBGUTc4YkRyWXVNN3BDUVJkQU9OdTJMWmV5VlJXNDFPVkJObTBlbUgxaW1PWTBqbWdWYkZMMFptV244SXhwSmFFRW10dlNOYy1wSHpCc2xSdEJJQUlTMVdRb05seTJCakNJczF0YXppU1RGbkJ2LVFQN2tXWVpjY1pR?oc=5",
-      "pub_date": 1792711212.0,
-      "article_url": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
-      "description": "An October 22, 2026 comparison of Bitcoin and Ethereum post-quantum signature proposals, test deployments, mainnet support and wallet dependencies."
     },
     {
       "headline": "Crypto News: Remittix Earn Prepares Aave, Fluid and Morpho Pools as Ethereum\u2019s Four-Minute Settlement Plan Revives a $12,000 ETH Target",
@@ -103,8 +83,28 @@
       "article_url": "https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-000-eth",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
       "description": "Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Mileston",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1lzN1lrRkFGdE9URUtNclNhWG00ZWdmSC1MN21DTm1TZ1ZnbkhrWXJRb0NBTXpKcGQ0VjZ1a0dZbThUbWlmMERuMnFRTkllOWk2cFFGWUNTamlEcHkwOXl2NEtQXzBGME9DRERob3Npb1BaRVdsRmthVWpNVk8xeTdSYko5S1JveWZTWXM5THg3VVVxdmFOQ3psS2IzTGxBU2pmQ0cwOGh2bC1VaHc?oc=5",
+      "pub_date": 1792635019.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62515868/bitcoin-ethereum-xrp-dogecoin-crypto-genius-act",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVG5lUG9iWDkwY1dNdngtZU5LYl94MjduZ0RBd2xpbDV5M0lIdEhNa1VidjF0RlNPLWJkZU8yUnZKd1ZMYlFfWmU3aXFncTJhZEczWWNSeUZQWjNtbnBRQWZnSDhwQllIdjlRbHBrSHVfbkkzN0dXQTR1YVlxcTMxdk9kWEp6UmdWci1RWXJPSWtDU0lQ?oc=5",
+      "pub_date": 1792756177.0,
+      "article_url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg",
+      "description": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T11:52:30.861729+00:00"
+  "fetched_at": "2026-10-24T15:29:51.793029+00:00"
 }
