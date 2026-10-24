@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-24T15:29:52.982900+00:00'
+updated: '2026-10-24T18:19:40.068745+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 15:29 UTC  
+**Last Updated:** October 24, 2026 at 18:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** -4.9%  
-**30d:** -14.8%  
-**90d:** +21.2%  
-**1y:** -42.0%  
+**24h:** -2.8%  
+**7d:** -3.6%  
+**30d:** -13.6%  
+**90d:** +22.9%  
+**1y:** -41.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.84B
+**Market Cap:** $283.79B
 Rank #2
 
 **Circulating Supply:** 122,158,317 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.7%
+-53.0%
 
 **All-Time Low:** $0.43
-+528981.1%
++536521.9%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-1d ago
+2d ago
 
 ---
 
@@ -150,11 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.](https://finance.yahoo.com/markets/crypto/articles/ethereum-co-founder-joseph-lubin-114200252.html)**
+**[Ethereum ETFs Have Lost $1.1 Billion in Three Weeks. What Would Bring Buyers Back?](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-lost-1-1-175222339.html)**
 
-Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right.
+Billions have fled Ethereum ETFs in weeks, dragging Coinbase stock down with them, and a delayed network upgrade is making things worse. A few specific catalysts could flip the trend, but investors are watching closely for the first sign.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 27m ago
 
 ---
 
@@ -170,15 +170,7 @@ ethereum.org • 1d ago
 
 Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from…
 
-TradingView • 18h ago
-
----
-
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
-
-Cardano could be headed for a big comeback in 2027.
-
-The Motley Fool • 1d ago
+TradingView • 21h ago
 
 ---
 
@@ -187,6 +179,22 @@ The Motley Fool • 1d ago
 Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.](https://www.fool.com/investing/2026/10/24/ethereum-co-founder-joseph-lubin-predicts-the-merg/)**
+
+Lubin's idea is only theoretical for now, but there are reasons to believe that he'll be proven at least somewhat right.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Current price of Ethereum for October 23, 2026](https://fortune.com/article/price-of-ethereum-10-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
 
 ---
 
@@ -202,7 +210,7 @@ The Block • 2d ago
 
 Remittix prepares to extend its PayFi ecosystem into on-chain earning as Aave, Fluid and Morpho pools move toward launch and Ethereum researchers ...
 
-markets.businessinsider.com • 1d ago
+markets.businessinsider.com • 2d ago
 
 ---
 
@@ -210,7 +218,7 @@ markets.businessinsider.com • 1d ago
 
 Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago.
 
-Blockchain News • 20h ago
+Blockchain News • 23h ago
 
 ---
 
@@ -220,45 +228,17 @@ Benzinga • 2d ago
 
 ---
 
-**[Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws](https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws)**
-
-The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.
-
-Decrypt • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: SHOCKING $22,000 Ethereum Price Prediction (Fact-Checked)](https://www.youtube.com/watch?v=0smYMt7Kjts)**
+**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
 
-Tom Lee says $22000 is his LOW target for Ethereum this cycle. I went through every number in his TOKEN2049 Singapore ...
+Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
 
-📺 JM Crypto
+📺 Discover Crypto
 
-👁️ 4K • 👍 71 • 💬 24 • ⏱️ 25:11 • 19h ago
-
----
-
-**[THE BEST ETHEREUM SPOT BUY AREAS! (ETH Price Prediction)](https://www.youtube.com/watch?v=cl9fv_s4JQY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 242 • 👍 11 • 💬 2 • ⏱️ 5:26 • 5h ago
-
----
-
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
-
-Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 98 • 💬 46 • ⏱️ 20:11 • 23h ago
+👁️ 10K • 👍 241 • 💬 48 • ⏱️ 1:00:00 • 1d ago
 
 ---
 
@@ -268,17 +248,17 @@ Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime M
 
 📺 Thinking Crypto
 
-👁️ 12K • 👍 582 • 💬 48 • ⏱️ 17:37 • 11h ago
+👁️ 14K • 👍 618 • 💬 52 • ⏱️ 17:37 • 14h ago
 
 ---
 
-**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
+**[🤔 Who Still Buys Ethereum? - ETH Crypto Analysis](https://www.youtube.com/watch?v=SXuJxqe7AFI)**
 
-Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Software: ...
 
-📺 Discover Crypto
+📺 Bitcoin Strategy
 
-👁️ 10K • 👍 241 • 💬 48 • ⏱️ 1:00:00 • 21h ago
+👁️ 962 • 👍 22 • 💬 6 • ⏱️ 11:50 • 3h ago
 
 ---
 
@@ -288,37 +268,57 @@ Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the o
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 174 • 💬 14 • ⏱️ 49:05 • 6h ago
+👁️ 9K • 👍 181 • 💬 16 • ⏱️ 49:05 • 9h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=r2QSUrfZc7I)**
+**[Bitcoin vs Ethereum What&#39;s the REAL Difference?](https://www.youtube.com/watch?v=XPVXOE8wAkE)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were built for very different purposes. Bitcoin was ...
 
-📺 Profit First
+📺 That crypto show
 
-👁️ 549 • 👍 73 • ⏱️ 6:14 • 3h ago
-
----
-
-**[Ethereum Has A Big Problem (Tom Lee In Shambles)](https://www.youtube.com/watch?v=twQLQ5E2jf8)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 26K • 👍 512 • 💬 123 • ⏱️ 9:54 • 2d ago
+👁️ 163 • 👍 2 • 💬 1 • ⏱️ 0:44 • 9h ago
 
 ---
 
-**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=BlrY6SREarU)**
+**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
+
+📺 Pushkar Raj Thakur: Stock Market Educator 📈
+
+👁️ 95K • 👍 938 • 💬 178 • ⏱️ 6:03 • 1d ago
+
+---
+
+**[Midterm Election Noise &amp; Bitcoin, Ethereum&#39;s Potential Dip Buying Opportunity](https://www.youtube.com/watch?v=qhFYLrAl9Yo)**
+
+Jenny Kovacs sits down with @CharlesSchwab's Jim Ferraioli to discuss how midterm elections and a tentative change of ...
+
+📺 Schwab Network
+
+👁️ 5K • 👍 37 • 💬 1 • ⏱️ 6:40 • 2d ago
+
+---
+
+**[Ethereum in (about) a minute | Learn Crypto - Episode 4](https://www.youtube.com/watch?v=H9uvwKsfWvs)**
+
+Ethereum is the world's second largest cryptocurrency and the top platform for automated digital agreements known as “smart ...
+
+📺 E*TRADE from Morgan Stanley
+
+👁️ 192 • 👍 3 • ⏱️ 1:49 • 2d ago
+
+---
+
+**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
+
+Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 196 • 💬 31 • ⏱️ 21:17 • 1d ago
+👁️ 10K • 👍 101 • 💬 46 • ⏱️ 20:11 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ SCARY CRYPTO SECURITY WARNING! Bitcoin Developers Make BIG Changes As Ethereum H
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 180 • 💬 7 • ⏱️ 35:50 • 20h ago
+👁️ 4K • 👍 181 • 💬 7 • ⏱️ 35:50 • 23h ago
 
 ---
 
