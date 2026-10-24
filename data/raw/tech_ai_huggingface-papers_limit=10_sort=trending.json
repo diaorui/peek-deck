@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 118,
+      "upvotes": 119,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 18335,
+      "github_stars": 18581,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43362,
+      "github_stars": 43460,
       "project_page": null
     },
     {
@@ -165,7 +165,7 @@
       "arxiv_url": "https://arxiv.org/abs/2610.28698",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
       "upvotes": 60,
-      "num_comments": 1,
+      "num_comments": 2,
       "published_at": "2026-10-19T20:00:00.000Z",
       "github_repo": "https://github.com/THUSI-Lab/GameScaling",
       "github_stars": 301,
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-23T23:19:50.488405+00:00"
+  "fetched_at": "2026-10-24T01:49:24.492274+00:00"
 }
