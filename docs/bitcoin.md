@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-24T18:19:40.063876+00:00'
+updated: '2026-10-24T21:04:09.760651+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 18:19 UTC  
+**Last Updated:** October 24, 2026 at 21:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,138.20
+### $80,372.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -2.2%  
-**30d:** -4.5%  
-**90d:** +26.0%  
-**1y:** -28.1%  
+**24h:** -0.4%  
+**7d:** -2.0%  
+**30d:** -4.3%  
+**90d:** +26.2%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1613.95B
+**Market Cap:** $1617.30B
 Rank #1
 
-**Circulating Supply:** 20,102,878 BTC
+**Circulating Supply:** 20,103,015 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.3%
+-36.2%
 
 **All-Time Low:** $67.81
-+118280.8%
++118541.8%
 
 ---
 
@@ -165,33 +165,15 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin’s wealthy holders are moving from trading to private banking, Xapo CEO says](https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo)**
+**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613)**
 
-Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.
-
-CoinDesk • 29m ago
-
----
-
-**[Inflation Is Running Hotter Than Expected. That Could Be Bullish for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/inflation-running-hotter-expected-could-172800139.html)**
-
-The coin's utility is that it can, in theory, protect an investor from an expanding supply of dollars.
-
-Yahoo Finance • 51m ago
-
----
-
-**[Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html)**
-
-Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds.
-
-Yahoo Finance • 7h ago
+Investing.com • 15h ago
 
 ---
 
 **[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Forbes • 6h ago
+Forbes • 9h ago
 
 ---
 
@@ -219,13 +201,33 @@ Financial Times • 2d ago
 
 Is Bitcoin dead? Searches just hit their highest since FTX, and CZ says such claims have marked the best times to buy. Here is the record.
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 5h ago
+
+---
+
+**[Bitcoin ATM service to shut down in Oregon under settlement](https://www.oregonlive.com/business/2026/10/bitcoin-atm-service-to-shut-down-in-oregon-under-settlement.html)**
+
+OregonLive.com • 2d ago
+
+---
+
+**[Massachusetts police officer heads off Bitcoin scam targeting Maine woman](https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/)**
+
+Bangor Daily News • 2d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Steal My Bitcoin](https://news.ycombinator.com/item?id=50224916)**
+
+A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
+
+⬆️ 40 • 💬 5 • 33m ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+
+---
 
 **[Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate](https://news.ycombinator.com/item?id=50177770)**
 
@@ -247,7 +249,7 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
 
-⬆️ 1 • 💬 0 • 5d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
+⬆️ 1 • 💬 0 • 6d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -267,7 +269,17 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 296 • 💬 33 • ⏱️ 9:55 • 9h ago
+👁️ 13K • 👍 313 • 💬 39 • ⏱️ 9:55 • 12h ago
+
+---
+
+**[This Investor Will Bet $1 MILLION That Bitcoin Hits $100K](https://www.youtube.com/watch?v=7ArjcrUn3C0)**
+
+Is Bitcoin heading to $100000 or crashing to $10000, and are we witnessing the beginning of an AI bubble or just another buying ...
+
+📺 Anthony Scaramucci
+
+👁️ 13K • 👍 305 • 💬 116 • ⏱️ 22:17 • 5h ago
 
 ---
 
@@ -277,7 +289,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 3K • 👍 183 • 💬 98 • ⏱️ 10:41 • 2h ago
+👁️ 7K • 👍 257 • 💬 159 • ⏱️ 10:41 • 5h ago
+
+---
+
+**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=KZ1Jro92t48)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 123K • 👍 4K • 💬 159 • ⏱️ 10:31 • 2d ago
 
 ---
 
@@ -287,27 +309,47 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 103K • 👍 3K • 💬 188 • ⏱️ 19:51 • 17h ago
+👁️ 112K • 👍 4K • 💬 192 • ⏱️ 19:51 • 20h ago
 
 ---
 
-**[This Bull Market Will Be THE Most Dangerous In Bitcoin&#39;s History (Pitfalls To Avoid)](https://www.youtube.com/watch?v=xu39s1-MNdI)**
+**[“A Trap Is Absolutely Being Set” - Michael Saylor](https://www.youtube.com/watch?v=PAu7NRjGObM)**
 
-Bull Markets can be dangerous and I believe this one will be the most dangerous of all. (Pitfalls To Avoid) In this video, we're ...
+A Trap Is Absolutely Being Set” ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first $100 on ...
 
-📺 Brad Long
+📺 Altcoin Daily
 
-👁️ 13K • 👍 296 • 💬 54 • ⏱️ 6:39 • 22h ago
+👁️ 82K • 👍 2K • 💬 138 • ⏱️ 12:03 • 2d ago
 
 ---
 
-**[Why I’m buying the Bitcoin assets Fidelity just highlighted](https://www.youtube.com/watch?v=Nu4J0KWW0k8)**
+**[I Tested One of the Most Efficient Bitcoin Home Miners](https://www.youtube.com/watch?v=10_iwU06cNM)**
 
-Fidelity Digital Assets just published a paper calling bitcoin perpetual preferred stocks "the newest demand catalyst in bitcoin.
+This tiny Bitcoin miner packs some seriously impressive hardware, but is it actually as efficient as advertised? I've been testing the ...
 
-📺 Betirement
+📺 Your Friend Andy
 
-👁️ 19K • 👍 628 • 💬 174 • ⏱️ 15:56 • 2d ago
+👁️ 9K • 👍 239 • 💬 143 • ⏱️ 17:08 • 1d ago
+
+---
+
+**[I&#39;m Bearish On Bitcoin But LOADING UP On These Altcoins](https://www.youtube.com/watch?v=GayMGeJVknc)**
+
+Altcoins are back at Sheldon's buy zones, and it's time to prepare for the next move. In this video, Sheldon breaks down his ...
+
+📺 Crypto Banter
+
+👁️ 21K • 👍 894 • 💬 19 • ⏱️ 19:27 • 1d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
+
+BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 15K • 👍 303 • 💬 172 • ⏱️ 20:53 • 1d ago
 
 ---
 
@@ -317,47 +359,7 @@ Check Out GigaStar: http://www.bit.ly/AltcoinGigaStar Follow GigaStar: https://x
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 111 • ⏱️ 11:34 • 1d ago
-
----
-
-**[Bitcoin Live: Here&#39;s the Roadmap into next week](https://www.youtube.com/watch?v=Yb1YEk3BrVQ)**
-
-Question of the day: does last week's low hold into the Fed? My pivot is $79694 on a daily close (79500 on my chart); above it I ...
-
-📺 Krown
-
-👁️ 12K • 👍 351 • 💬 27 • ⏱️ 1:40:08 • 23h ago
-
----
-
-**[BITCOIN - THIS IS IT](https://www.youtube.com/watch?v=0DOVGzURea4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 11K • 👍 311 • 💬 121 • ⏱️ 10:45 • 1d ago
-
----
-
-**[BITCOIN EMERGENCY: IT&#39;S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrjuhQJ7boA)**
-
-BITCOIN EMERGENCY: IT'S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 877 • 👍 70 • 💬 14 • ⏱️ 23:25 • 53m ago
-
----
-
-**[Is Bitcoin About To Crash To $75k?](https://www.youtube.com/watch?v=f4-XnmbCFUY)**
-
-Bitcoin has corrected. Timestamps Coming After Stream: Sign up for the Crypto Jebb Research Symposium: ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 125 • 💬 36 • ⏱️ 26:55 • 1d ago
+👁️ 47K • 👍 2K • 💬 112 • ⏱️ 11:34 • 1d ago
 
 ---
 
