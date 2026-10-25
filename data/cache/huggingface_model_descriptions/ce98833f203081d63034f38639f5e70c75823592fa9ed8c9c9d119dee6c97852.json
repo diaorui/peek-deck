@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-25T22:20:17.791832+00:00",
+  "data": "Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic coding and professional coworker tasks, outperforming comparable open models on benchmarks like Terminal-Bench and JobBench. It's designed for complex coding, professional collaboration, and serves as a teacher model for distilling agentic capabilities into smaller models.",
+  "model_id": "Nanbeige/Nanbeige4.3-33B"
+}
