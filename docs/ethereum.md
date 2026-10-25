@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-25T13:40:08.291147+00:00'
+updated: '2026-10-25T17:26:50.692920+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 13:40 UTC  
+**Last Updated:** October 25, 2026 at 17:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,321.20
+### $2,346.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -3.2%  
-**30d:** -13.5%  
-**90d:** +21.3%  
-**1y:** -44.0%  
+**24h:** +0.8%  
+**7d:** -2.1%  
+**30d:** -12.5%  
+**90d:** +22.7%  
+**1y:** -43.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.33B
+**Market Cap:** $288.11B
 Rank #2
 
 **Circulating Supply:** 122,161,275 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.9%
+-52.3%
 
 **All-Time Low:** $0.43
-+537605.1%
++544702.4%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 Dshackle is a load balancer that sits between your app and your blockchain upstreams (your own Geth, Infura, QuickNode, any mix of them). It tracks each upstream's block height, sync state and supported methods, and routes each request to one that is healthy and caught up. - JSON-RPC over HTTP and WebSocket - Automatic failover and retry - Tracking upstream status - Height-aware method routing - Chain-aware caching (in-memory or Redis) v0.18 is a rewrite from Kotlin/JVM to Rust. There are no new features. Config, API and behaviour are the same. Memory use is down ~75% and latency is 10–20% lower. https://github.com/emeraldpay/dshackle
 
-2d ago
+3d ago
 
 ---
 
@@ -150,11 +150,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?](https://finance.yahoo.com/markets/crypto/articles/sec-approves-leveraged-bitcoin-ethereum-093200523.html)**
+**[XRP Held Flat This Week While Bitcoin, Ethereum and Solana Fell. Is It Breaking Away From Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/xrp-held-flat-week-while-165559407.html)**
+
+XRP barely budged this week while Bitcoin, Ethereum, and Solana tumbled, sparking talk of a long-awaited decoupling. But the correlation data, the ETF flows, and a brutal 30-day track record tell a more complicated story.
+
+Yahoo Finance • 30m ago
+
+---
+
+**[Grok AI Ethereum Price Prediction: Token Guide](https://bitcoinfoundation.org/news/analysis/grok-ai-the-ethereum-prediction-token-tokenomics-and-risks/)**
+
+Grok AI crypto claims to predict Ethereum prices using AI. Full guide covers the token's price, how predictions work, tokenomics and scam risks.
+
+Bitcoin Foundation • 3h ago
+
+---
+
+**[SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?](https://www.fool.com/investing/2026/10/25/sec-approves-leveraged-bitcoin-and-ethereum-funds/)**
 
 Just because you can multiply daily moves, doesn't mean you should.
 
-Yahoo Finance • 4h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -174,27 +190,27 @@ CoinDesk • 2d ago
 
 ---
 
+**[Current price of Ethereum for October 23, 2026](https://fortune.com/article/price-of-ethereum-10-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2d ago
+
+---
+
 **[XRP ETFs buck Bitcoin and Ethereum outflows – Can price follow?](https://ambcrypto.com/xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow/)**
 
 XRP’s recovery faces a key test as ETF demand improves but bearish momentum and liquidation risks keep traders cautious.
 
-AMBCrypto • 2h ago
+AMBCrypto • 6h ago
 
 ---
 
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
+**[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
 
-Cardano could be headed for a big comeback in 2027.
+The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
 
-The Motley Fool • 2d ago
-
----
-
-**[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
-
-The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
-
-ethereum.org • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -206,23 +222,11 @@ Blockchain News • 1d ago
 
 ---
 
-**[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
+**[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
 
-The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
+The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-The Block • 2d ago
-
----
-
-**[Bitcoin Loses $80,000 as $200 Million in Leverage Unwinds in an Hour](https://beincrypto.com/bitcoin-below-80000-crypto-liquidations/)**
-
-BeInCrypto • 21h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Mileston](https://www.benzinga.com/crypto/cryptocurrency/26/10/62515868/bitcoin-ethereum-xrp-dogecoin-crypto-genius-act)**
-
-Benzinga • 3d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -236,7 +240,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 5K • 👍 58 • 💬 9 • ⏱️ 11:50 • 23h ago
+👁️ 5K • 👍 59 • 💬 9 • ⏱️ 11:50 • 1d ago
 
 ---
 
@@ -246,7 +250,7 @@ Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we t
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 21 • ⏱️ 13:01 • 2h ago
+👁️ 8K • 👍 234 • 💬 23 • ⏱️ 13:01 • 6h ago
 
 ---
 
@@ -256,7 +260,7 @@ Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves thro
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 244 • 💬 45 • ⏱️ 1:00:00 • 1d ago
+👁️ 11K • 👍 246 • 💬 41 • ⏱️ 1:00:00 • 1d ago
 
 ---
 
@@ -266,17 +270,7 @@ Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime M
 
 📺 Thinking Crypto
 
-👁️ 18K • 👍 687 • 💬 56 • ⏱️ 17:37 • 1d ago
-
----
-
-**[Ethereum Price Pullback: What MACD and OBV Reveal](https://www.youtube.com/watch?v=_UUsSPnUzks)**
-
-Ethereum is pulling back alongside Bitcoin and the broader crypto market after closing above its previous high. We examine ...
-
-📺 Hack Your Crypto - Brian Longest
-
-👁️ 182 • 👍 1 • 💬 1 • ⏱️ 0:44 • 1d ago
+👁️ 19K • 👍 700 • 💬 57 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -286,17 +280,7 @@ Ethereum Bulls Are Back! What's Next for ETH? Ethereum has bounced back, putting
 
 📺 Colitco
 
-👁️ 189 • ⏱️ 0:15 • 1d ago
-
----
-
-**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
-
-Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
-
-📺 Pushkar Raj Thakur: Stock Market Educator 📈
-
-👁️ 102K • 👍 1K • 💬 183 • ⏱️ 6:03 • 2d ago
+👁️ 199 • ⏱️ 0:15 • 1d ago
 
 ---
 
@@ -306,17 +290,7 @@ Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were 
 
 📺 That crypto show
 
-👁️ 199 • 👍 2 • 💬 2 • ⏱️ 0:44 • 1d ago
-
----
-
-**[Bitcoin, Ethereum &amp; Altcoins: Where I’m Buying and Shorting (Live Trading)](https://www.youtube.com/watch?v=jBaaLUPTQdY)**
-
-Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the only major asset holding range support this ...
-
-📺 Crypto Banter
-
-👁️ 10K • 👍 197 • 💬 17 • ⏱️ 49:05 • 1d ago
+👁️ 206 • 👍 2 • 💬 2 • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -326,7 +300,35 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 217 • 💬 33 • ⏱️ 21:17 • 2d ago
+👁️ 15K • 👍 218 • 💬 33 • ⏱️ 21:17 • 2d ago
+
+---
+
+**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
+
+Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
+
+📺 Pushkar Raj Thakur: Stock Market Educator 📈
+
+👁️ 104K • 👍 1K • 💬 180 • ⏱️ 6:03 • 2d ago
+
+---
+
+**[JPM Coin goes public on Ethereum — why public matters](https://www.youtube.com/watch?v=oBxrDuZ6Q64)**
+
+📺 Digital Asset News
+
+👁️ 504 • 👍 18 • 💬 1 • ⏱️ 1:56 • 22h ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Altcoins: Where I’m Buying and Shorting (Live Trading)](https://www.youtube.com/watch?v=jBaaLUPTQdY)**
+
+Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the only major asset holding range support this ...
+
+📺 Crypto Banter
+
+👁️ 11K • 👍 198 • 💬 17 • ⏱️ 49:05 • 1d ago
 
 ---
 

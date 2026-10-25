@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-25T13:40:08.294396+00:00'
+updated: '2026-10-25T17:26:50.695125+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 25, 2026 at 13:40 UTC  
+**Last Updated:** October 25, 2026 at 17:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ The index collects VLA and robot foundation-model work and links each entry's ar
 
 Hi all, I'm designing a simple but communicative robot that can either be controlled via puppetry or via servos. How should I design the robot so it can be controlled both ways? Should it be controlled by wires and elastic for the puppetry and servos for the autonomous mode? Once it's finished, I will put up some pictures of my robot, Crystal. Any suggestions? Thanks, Daniel L :)
 
-1d ago
+2d ago
 
 ---
 
@@ -112,12 +112,6 @@ Title. Ive always been fascinated by Unmanned Aerial Manipulators, since they ca
 
 ## Google News: "robotics"
 
-**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
-
-Axios • 2d ago
-
----
-
 **[One small leap for a muscle, one giant step for robotics](https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html)**
 
 These robots have real muscles, and they’re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp.
@@ -130,31 +124,7 @@ ETH Zürich • 3d ago
 
 Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead.
 
-NVIDIA Developer • 1d ago
-
----
-
-**[Wearable system captures human activity data for robot training](https://techxplore.com/news/2026-10-wearable-captures-human-robot.html)**
-
-Tech Xplore • 21h ago
-
----
-
-**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Unitree developing AI system to let humanoid robots improve themselves](https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves)**
-
-South China Morning Post • 3d ago
-
----
-
-**[FCC grants Intel waiver to use existing foreign-made robotic devices](https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/)**
-
-Reuters • 2d ago
+NVIDIA Developer • 2d ago
 
 ---
 
@@ -166,11 +136,17 @@ TechCrunch • 1d ago
 
 ---
 
-**[Subaquatic robot leverages biomimetics for natural movement](https://newatlas.com/robotics/feather-star-underwater-robot/)**
+**[110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment](https://www.globaltimes.cn/page/202610/1372888.shtml)**
 
-Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That’s exactly what a research group at North Carolina State University has been working on.
+China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
 
-New Atlas • 11h ago
+Global Times • 14h ago
+
+---
+
+**[FCC grants Intel waiver to use existing foreign-made robotic devices](https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -182,17 +158,65 @@ TechRepublic • 2d ago
 
 ---
 
+**[Subaquatic robot leverages biomimetics for natural movement](https://newatlas.com/robotics/feather-star-underwater-robot/)**
+
+Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That’s exactly what a research group at North Carolina State University has been working on.
+
+New Atlas • 15h ago
+
+---
+
+**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
+
+Stanford Report • 3d ago
+
+---
+
+**[Are Delivery Robots Scanning You Into a Database Scarier Than Flock?](https://futurism.com/robots-and-machines/delivery-robots-database-flock)**
+
+A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent.
+
+Futurism • 2h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
+**[Old Phones Are Becoming Robots?!?](https://www.youtube.com/watch?v=FiyUagHO37Y)**
 
-Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
+Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ Weekly ...
 
-📺 Techy or Not
+📺 Matt Wolfe
 
-👁️ 4K • 👍 137 • 💬 1 • ⏱️ 1:46 • 7h ago
+👁️ 39K • 👍 1K • 💬 42 • ⏱️ 1:04 • 1d ago
+
+---
+
+**[America&#39;s Biggest Homebuilder Just Handed 1,250 Homes to Canadian Robots](https://www.youtube.com/watch?v=llTUNsJyRA0)**
+
+Get the book, The True North Files (60 Canadian inventions, rated and dated): ...
+
+📺 True North Invents
+
+👁️ 14K • 👍 120 • 💬 7 • ⏱️ 11:50 • 22h ago
+
+---
+
+**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
+
+NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
+
+📺 DPCcars
+
+👁️ 1.9M • 👍 12K • 💬 2K • ⏱️ 4:06 • 3d ago
 
 ---
 
@@ -202,87 +226,67 @@ Robots just learned kung fu. I ranked the best humanoid robots on the market, wi
 
 📺 AI BROS
 
-👁️ 20K • 👍 153 • 💬 69 • ⏱️ 2:54 • 1d ago
+👁️ 20K • 👍 677 • 💬 70 • ⏱️ 2:54 • 1d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
+**[Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robotics #robot](https://www.youtube.com/watch?v=WS0T66TU2VQ)**
 
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
+Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robotics #robot.
 
-📺 MostAmazingTop10
+📺 Robotos
 
-👁️ 129K • 👍 1K • 💬 60 • ⏱️ 9:03 • 6d ago
-
----
-
-**[Inside the Robot Data Factory: Mecka&#39;s Josh Gao on Sensorizing Humans to Train Robots](https://www.youtube.com/watch?v=0idrTKCDhuE)**
-
-Robotics never got the internet's gift of free training data, so someone has to manufacture it. Josh Gao, founder and CEO of Mecka ...
-
-📺 Sequoia Capital
-
-👁️ 18K • 👍 106 • 💬 11 • ⏱️ 45:12 • 5d ago
+👁️ 80K • 👍 1K • 💬 5 • ⏱️ 0:55 • 3d ago
 
 ---
 
-**[99% of You Will Miss the Robotic Stack (My Full Map)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
+**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
 
-I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
+Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
 
-📺 Fin Tek
+📺 Techy or Not
 
-👁️ 42K • 👍 683 • 💬 36 • ⏱️ 22:57 • 1d ago
-
----
-
-**[I Tested the FUTURE of Cleaning! 🤯 | Dreame X60 Ultra ](https://www.youtube.com/watch?v=8hjyddWDWno)**
-
-Want to make your daily home cleaning smarter and easier? ✨ Check it out here: https://amzn.to/4rYP3QI #collab #Dreame ...
-
-📺 Techno Ruhez
-
-👁️ 14K • 👍 434 • 💬 33 • ⏱️ 4:35 • 7h ago
+👁️ 7K • 👍 201 • 💬 3 • ⏱️ 1:46 • 11h ago
 
 ---
 
-**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
+**[Day 34 Meet the viral NVIDIA Microduck robot! 🦆🤖 #Robotics #TechLab#sensor #electronics #experiment](https://www.youtube.com/watch?v=fKrufw3hTa0)**
 
-Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
+Title: Meet the Viral Microduck Robot! ​Description: Watch the amazing, 3D-printed Microduck robot come to life on the ...
 
-📺 REC Anything
+📺 TechLab Projects
 
-👁️ 1.3M • 👍 9K • 💬 1K • ⏱️ 8:29 • 2d ago
-
----
-
-**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
-
-The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
-
-📺 DPCcars
-
-👁️ 54K • 👍 512 • 💬 169 • ⏱️ 2:30 • 4d ago
+👁️ 10K • 👍 38 • 💬 3 • ⏱️ 0:19 • 1d ago
 
 ---
 
-**[Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist](https://www.youtube.com/watch?v=APKcMzOfg1Y)**
+**[NVIDIA’s Robot Ducks Steal the Show!](https://www.youtube.com/watch?v=IHBED6nhozE)**
 
-Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist elderly pilgrims, providing mobility, shade, ...
+NVIDIA's adorable little robot ducks just gave everyone a good laugh! During a live demonstration at NVIDIA's event in Berlin, ...
 
-📺 Zeeshan Malik
+📺 Converge360
 
-👁️ 46K • 👍 2K • 💬 3 • ⏱️ 0:10 • 1d ago
+👁️ 535K • 👍 7K • 💬 283 • ⏱️ 0:28 • 2d ago
 
 ---
 
-**[Microduck MD 01 – This $399 AI Robot Can Walk, Skate and Learn!](https://www.youtube.com/watch?v=vW94WKqkTJc)**
+**[Buy Robot for ₹35,000 (Physical AI is here)](https://www.youtube.com/watch?v=vGUDjHWM83c)**
 
-Meet the Microduck MD-01, a tiny $399 artificial intelligence robot that can walk, balance, roller-skate, and learn new movements ...
+A robot for just ₹35000 that learns on its own. Physical AI is here. Meet MicroDuck, a 25 cm open source robot from Hugging ...
 
-📺 DPCcars
+📺 CryptoWala
 
-👁️ 20K • 👍 100 • 💬 14 • ⏱️ 2:21 • 1d ago
+👁️ 171K • 👍 8K • 💬 169 • ⏱️ 2:56 • 2d ago
+
+---
+
+**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+
+Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+
+📺 MACHINEKIND
+
+👁️ 12K • 👍 173 • 💬 25 • ⏱️ 13:25 • 1d ago
 
 ---
 
