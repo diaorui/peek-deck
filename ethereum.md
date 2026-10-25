@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-24T23:32:37.383750+00:00'
+updated: '2026-10-25T03:31:55.487998+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 23:32 UTC  
+**Last Updated:** October 25, 2026 at 03:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -2.5%  
-**30d:** -12.7%  
-**90d:** +24.2%  
-**1y:** -40.5%  
+**24h:** -0.7%  
+**7d:** -1.7%  
+**30d:** -12.2%  
+**90d:** +23.1%  
+**1y:** -43.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.31B
+**Market Cap:** $288.87B
 Rank #2
 
-**Circulating Supply:** 122,158,317 ETH
+**Circulating Supply:** 122,161,275 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.6%
+-52.2%
 
 **All-Time Low:** $0.43
-+541208.0%
++545947.3%
 
 ---
 
@@ -150,35 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.](https://finance.yahoo.com/markets/crypto/articles/openai-model-spent-ethereum-without-212600871.html)**
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html)**
 
-Cybersecurity as it pertains to AI agents is rapidly becoming an issue that could make Ethereum more valuable.
+Cardano could be headed for a big comeback in 2027.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Flashes Same Signal That Triggered June’s Rebound](https://finance.yahoo.com/markets/crypto/articles/ethereum-flashes-same-signal-triggered-194056572.html)**
-
-Ethereum exchange outflows hit a 4-month high, echoing June’s bottom signal, while ETF investors keep pulling money.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
-
-The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
-
-ethereum.org • 2d ago
-
----
-
-**[Lisk: Bridge initiation window closes for transfers to Ethereum - 24 Oct 2026](https://www.tradingview.com/news/coinmarketcal:fafeb65dc094b:0-lisk-bridge-initiation-window-closes-for-transfers-to-ethereum-24-oct-2026/)**
-
-Lisk users have until 24 October 2026 to start bridging assets from Lisk Chain to Ethereum. The bridge process takes about eight days, and every withdrawal must be claimed on Ethereum by the end of 2 November.The deadline applies to assets including LSK. The eight-day bridge process leaves users wh…
-
-TradingView • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -190,11 +166,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
+**[An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.](https://www.fool.com/investing/2026/10/24/an-openai-model-spent-ethereum-without-permission/)**
 
-Cardano could be headed for a big comeback in 2027.
+Cybersecurity as it pertains to AI agents is rapidly becoming an issue that could make Ethereum more valuable.
 
-The Motley Fool • 1d ago
+The Motley Fool • 5h ago
+
+---
+
+**[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
+
+The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
+
+ethereum.org • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?](https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/)**
+
+Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from…
+
+TradingView • 1d ago
 
 ---
 
@@ -203,14 +195,6 @@ The Motley Fool • 1d ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 1d ago
-
----
-
-**[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
-
-The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
-
-The Block • 2d ago
 
 ---
 
@@ -230,9 +214,83 @@ Blockchain News • 1d ago
 
 ---
 
+**[Bitcoin Loses $80,000 as $200 Million in Leverage Unwinds in an Hour](https://beincrypto.com/bitcoin-below-80000-crypto-liquidations/)**
+
+BeInCrypto • 11h ago
+
+---
+
+**[ETH news: Ethereum’s four-minute settlement plan could lower the cost of moving crypto](https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto)**
+
+A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.
+
+CoinDesk • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[🤔 Who Still Buys Ethereum? - ETH Crypto Analysis](https://www.youtube.com/watch?v=SXuJxqe7AFI)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 3K • 👍 42 • 💬 8 • ⏱️ 11:50 • 12h ago
+
+---
+
+**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
+
+Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
+
+📺 Thinking Crypto
+
+👁️ 17K • 👍 674 • 💬 69 • ⏱️ 17:37 • 23h ago
+
+---
+
+**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
+
+Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
+
+📺 Pushkar Raj Thakur: Stock Market Educator 📈
+
+👁️ 97K • 👍 955 • 💬 181 • ⏱️ 6:03 • 1d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
+
+BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 16K • 👍 304 • 💬 172 • ⏱️ 20:53 • 1d ago
+
+---
+
+**[ETHEREUM CRASH WARNING!🚨 (ETH Price Prediction)](https://www.youtube.com/watch?v=UaDH12umw4w)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 1K • 👍 23 • 💬 4 • ⏱️ 4:30 • 2d ago
+
+---
+
+**[Bitcoin vs Ethereum What&#39;s the REAL Difference?](https://www.youtube.com/watch?v=XPVXOE8wAkE)**
+
+Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were built for very different purposes. Bitcoin was ...
+
+📺 That crypto show
+
+👁️ 192 • 👍 2 • 💬 2 • ⏱️ 0:44 • 19h ago
+
+---
 
 **[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
 
@@ -244,71 +302,13 @@ Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves thro
 
 ---
 
-**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
-
-Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
-
-📺 Thinking Crypto
-
-👁️ 16K • 👍 656 • 💬 65 • ⏱️ 17:37 • 19h ago
-
----
-
-**[🤔 Who Still Buys Ethereum? - ETH Crypto Analysis](https://www.youtube.com/watch?v=SXuJxqe7AFI)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 2K • 👍 36 • 💬 8 • ⏱️ 11:50 • 8h ago
-
----
-
 **[Bitcoin, Ethereum &amp; Altcoins: Where I’m Buying and Shorting (Live Trading)](https://www.youtube.com/watch?v=jBaaLUPTQdY)**
 
 Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the only major asset holding range support this ...
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 188 • 💬 17 • ⏱️ 49:05 • 14h ago
-
----
-
-**[Bitcoin vs Ethereum What&#39;s the REAL Difference?](https://www.youtube.com/watch?v=XPVXOE8wAkE)**
-
-Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were built for very different purposes. Bitcoin was ...
-
-📺 That crypto show
-
-👁️ 176 • 👍 2 • 💬 2 • ⏱️ 0:44 • 15h ago
-
----
-
-**[JPM Coin goes public on Ethereum — why public matters](https://www.youtube.com/watch?v=oBxrDuZ6Q64)**
-
-📺 Digital Asset News
-
-👁️ 252 • 👍 13 • 💬 1 • ⏱️ 1:56 • 4h ago
-
----
-
-**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
-
-Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
-
-📺 Pushkar Raj Thakur: Stock Market Educator 📈
-
-👁️ 97K • 👍 947 • 💬 180 • ⏱️ 6:03 • 1d ago
-
----
-
-**[BITCOIN EMERGENCY: IT&#39;S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrjuhQJ7boA)**
-
-BITCOIN EMERGENCY: IT'S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 217 • 💬 87 • ⏱️ 23:25 • 6h ago
+👁️ 10K • 👍 189 • 💬 18 • ⏱️ 49:05 • 18h ago
 
 ---
 
@@ -318,17 +318,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 207 • 💬 32 • ⏱️ 21:17 • 1d ago
+👁️ 14K • 👍 211 • 💬 31 • ⏱️ 21:17 • 1d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sklhjTnJYKQ)**
+**[BITCOIN EMERGENCY: IT&#39;S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrjuhQJ7boA)**
 
-BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BITCOIN EMERGENCY: IT'S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 16K • 👍 303 • 💬 172 • ⏱️ 20:53 • 1d ago
+👁️ 11K • 👍 251 • 💬 102 • ⏱️ 23:25 • 10h ago
 
 ---
 
