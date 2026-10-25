@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-25T08:59:08.836732+00:00'
+updated: '2026-10-25T13:40:08.291147+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 08:59 UTC  
+**Last Updated:** October 25, 2026 at 13:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,348.87
+### $2,321.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -3.0%  
-**30d:** -13.4%  
-**90d:** +21.5%  
-**1y:** -43.9%  
+**24h:** -0.5%  
+**7d:** -3.2%  
+**30d:** -13.5%  
+**90d:** +21.3%  
+**1y:** -44.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.93B
+**Market Cap:** $284.33B
 Rank #2
 
 **Circulating Supply:** 122,161,275 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.8%
+-52.9%
 
 **All-Time Low:** $0.43
-+538586.6%
++537605.1%
 
 ---
 
@@ -150,19 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html)**
+**[SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?](https://finance.yahoo.com/markets/crypto/articles/sec-approves-leveraged-bitcoin-ethereum-093200523.html)**
 
-Cardano could be headed for a big comeback in 2027.
+Just because you can multiply daily moves, doesn't mean you should.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts](https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts)**
-
-Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
-
-CoinDesk • 2d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -174,19 +166,35 @@ TradingView • 1d ago
 
 ---
 
+**[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts](https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts)**
+
+Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
+
+CoinDesk • 2d ago
+
+---
+
+**[XRP ETFs buck Bitcoin and Ethereum outflows – Can price follow?](https://ambcrypto.com/xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow/)**
+
+XRP’s recovery faces a key test as ETF demand improves but bearish momentum and liquidation risks keep traders cautious.
+
+AMBCrypto • 2h ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
+
+Cardano could be headed for a big comeback in 2027.
+
+The Motley Fool • 2d ago
+
+---
+
 **[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
 ethereum.org • 2d ago
-
----
-
-**[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
-
-The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
-
-The Block • 2d ago
 
 ---
 
@@ -198,31 +206,23 @@ Blockchain News • 1d ago
 
 ---
 
+**[Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)**
+
+The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes.
+
+The Block • 2d ago
+
+---
+
 **[Bitcoin Loses $80,000 as $200 Million in Leverage Unwinds in an Hour](https://beincrypto.com/bitcoin-below-80000-crypto-liquidations/)**
 
-BeInCrypto • 17h ago
+BeInCrypto • 21h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Mileston](https://www.benzinga.com/crypto/cryptocurrency/26/10/62515868/bitcoin-ethereum-xrp-dogecoin-crypto-genius-act)**
 
 Benzinga • 3d ago
-
----
-
-**[Ethereum's long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge](https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/)**
-
-Ethereum postponed a crucial Glamsterdam testnet deployment on Hoodi as developers investigate security concerns.
-
-CryptoSlate • 2d ago
-
----
-
-**[Lisk: Bridge initiation window closes for transfers to Ethereum - 24 Oct 2026](https://www.tradingview.com/news/coinmarketcal:fafeb65dc094b:0-lisk-bridge-initiation-window-closes-for-transfers-to-ethereum-24-oct-2026/)**
-
-Lisk users have until 24 October 2026 to start bridging assets from Lisk Chain to Ethereum. The bridge process takes about eight days, and every withdrawal must be claimed on Ethereum by the end of 2 November.The deadline applies to assets including LSK. The eight-day bridge process leaves users wh…
-
-TradingView • 18h ago
 
 ---
 
@@ -236,37 +236,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 4K • 👍 51 • 💬 8 • ⏱️ 11:50 • 18h ago
+👁️ 5K • 👍 58 • 💬 9 • ⏱️ 11:50 • 23h ago
 
 ---
 
-**[My Live Trading Bot Built with Claude Code - Passive Income using Ethereum Day Trading](https://www.youtube.com/watch?v=yNIzPkK0gB8)**
+**[Ethereum vs Bitcoin: What Altcoins Need Right Now](https://www.youtube.com/watch?v=SoiOcGcqLuI)**
 
-Complete Tutorial Guide: https://tr.ee/tPdNUp The build connects live trading, day trading, live trading strategy, claude ai free ...
+Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we track, only seven did better. So when will altcoins ...
 
-📺 Tyler Reeves
+📺 More Crypto Online
 
-👁️ 166 • 👍 3 • 💬 3 • ⏱️ 6:08 • 37m ago
-
----
-
-**[Tom Lee: SHOCKING $22,000 Ethereum Price Prediction (Fact-Checked)](https://www.youtube.com/watch?v=0smYMt7Kjts)**
-
-Tom Lee says $22000 is his LOW target for Ethereum this cycle. I went through every number in his TOKEN2049 Singapore ...
-
-📺 JM Crypto
-
-👁️ 6K • 👍 86 • 💬 27 • ⏱️ 25:11 • 1d ago
-
----
-
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
-
-Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 109 • 💬 46 • ⏱️ 20:11 • 1d ago
+👁️ 2K • 👍 138 • 💬 21 • ⏱️ 13:01 • 2h ago
 
 ---
 
@@ -276,27 +256,7 @@ Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves thro
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 244 • 💬 46 • ⏱️ 1:00:00 • 1d ago
-
----
-
-**[THE BEST ETHEREUM SPOT BUY AREAS! (ETH Price Prediction)](https://www.youtube.com/watch?v=cl9fv_s4JQY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 754 • 👍 17 • 💬 3 • ⏱️ 5:26 • 22h ago
-
----
-
-**[BITCOIN EMERGENCY: IT&#39;S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrjuhQJ7boA)**
-
-BITCOIN EMERGENCY: IT'S FINALLY BREAKING (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 282 • 💬 113 • ⏱️ 23:25 • 15h ago
+👁️ 11K • 👍 244 • 💬 45 • ⏱️ 1:00:00 • 1d ago
 
 ---
 
@@ -306,17 +266,57 @@ Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime M
 
 📺 Thinking Crypto
 
-👁️ 18K • 👍 682 • 💬 73 • ⏱️ 17:37 • 1d ago
+👁️ 18K • 👍 687 • 💬 56 • ⏱️ 17:37 • 1d ago
 
 ---
 
-**[BITCOIN WEEKEND LIQUIDATION TRAP!? I&#39;M $6.5M SHORT BTC &amp; ETH!!](https://www.youtube.com/watch?v=Yko3hPF-csQ)**
+**[Ethereum Price Pullback: What MACD and OBV Reveal](https://www.youtube.com/watch?v=_UUsSPnUzks)**
 
-BITCOIN | BITCOIN TRADING | BITCOIN PRICE ANALYSIS | BITCOIN HEATMAP Bitcoin enters the weekend with a potential ...
+Ethereum is pulling back alongside Bitcoin and the broader crypto market after closing above its previous high. We examine ...
 
-📺 TMG Trades
+📺 Hack Your Crypto - Brian Longest
 
-👁️ 7K • 👍 386 • 💬 78 • ⏱️ 15:10 • 19h ago
+👁️ 182 • 👍 1 • 💬 1 • ⏱️ 0:44 • 1d ago
+
+---
+
+**[🔥 Ethereum Bulls Are Back! What&#39;s Next for ETH?](https://www.youtube.com/watch?v=9IOYYaJcPmI)**
+
+Ethereum Bulls Are Back! What's Next for ETH? Ethereum has bounced back, putting buyers back in focus. Will this recovery ...
+
+📺 Colitco
+
+👁️ 189 • ⏱️ 0:15 • 1d ago
+
+---
+
+**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
+
+Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
+
+📺 Pushkar Raj Thakur: Stock Market Educator 📈
+
+👁️ 102K • 👍 1K • 💬 183 • ⏱️ 6:03 • 2d ago
+
+---
+
+**[Bitcoin vs Ethereum What&#39;s the REAL Difference?](https://www.youtube.com/watch?v=XPVXOE8wAkE)**
+
+Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were built for very different purposes. Bitcoin was ...
+
+📺 That crypto show
+
+👁️ 199 • 👍 2 • 💬 2 • ⏱️ 0:44 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Altcoins: Where I’m Buying and Shorting (Live Trading)](https://www.youtube.com/watch?v=jBaaLUPTQdY)**
+
+Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the only major asset holding range support this ...
+
+📺 Crypto Banter
+
+👁️ 10K • 👍 197 • 💬 17 • ⏱️ 49:05 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 216 • 💬 32 • ⏱️ 21:17 • 2d ago
+👁️ 15K • 👍 217 • 💬 33 • ⏱️ 21:17 • 2d ago
 
 ---
 

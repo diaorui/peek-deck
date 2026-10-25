@@ -5,54 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmMyVGFaQTZkQWdEM2x5SjJTSXRLaVQ5VjNBcGhhU2w3WU9nb3FkZExxLXJ6d2JhY1drM0kwRkRRcHlFcEE5T1YwMkpWSjRzdjN0Znl5M203S2kzTHd4LS1yM2JCVEhpc1FBSm0zMmtYOFhyOFFpZkp6YnoxdjREZnhsRGthM21PeVAtS1Y3TWFfbHFhZnR1ZUVlMVBWSkkwOWF6emE1VDA5QmNXd2dr?oc=5",
-      "pub_date": 1792868400.0,
-      "article_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-    },
-    {
-      "headline": "Washington's message to AI execs: Please shut up",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wek12YTUyUzgzdUdPSVM0dks4SVJuZklBdjBoR2h3aVRLNm5PaDBpZWhOWWhHdGtnOElrMWUxZzEzNy1vd2JwVmYwS2xmN0ZDVWlSN24yMWxzRzVLSXNIcXRWWEpiQUhhMFE4S1I4UEtycmR4QzB1Zks3SQ?oc=5",
-      "pub_date": 1792863934.0,
-      "article_url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+      "headline": "Put Your A.I. Agents to Work With These 5 Killer Tasks",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEJEeDdVWlV4QVNFelhJZjU0Q244SzdNbUZsQjNGaTc1dTNxLWNwZHVkS2dXdG8yazhvTFk4MGNNM255OXZrejA5MHpIWmVqMUxiRE5wS0JveWUzdjVOc1VjZGEtU3FFRlNGOHNadGJPaUJHVFUyUGZiamxubS1LZUZvMFZBQXlfclp6dGFoT3VDS2otVTc2YU5sMFVMd3FWOXc?oc=5",
+      "pub_date": 1792918860.0,
+      "article_url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "How To Set Up an AI-Powered Company",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWp0V01IdnpXRXpaUFFPbVlSOXhsOHdVT3BOdnVOTjhwbHJHUHRNbWNqUzdtWEdTRzhLR1F6cFpPTVJFSm1fZFU4aVAtMTBGdzhIRHVqbW9PYUhZLUlsMlM5NG5RaXJnOW1makxlaFcySFAwbFN4WDBvWktDMXQ0SUF3NXhOUkxUMU9xVXViMEtEYTU0UG5iSVVyaWtJRWpHSGc?oc=5",
-      "pub_date": 1792915202.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-25/how-to-set-up-an-ai-powered-one-person-company",
+      "headline": "A Mathematician Reads the AI Future",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nX0k5c01pTjlvYy1JNHdqdWE4M0xaNkwwZjFkeUJadGpBY2dCQnhadC1KTVEzcHJjQkc4MEJGR2stMFk4SUN1NzRiZEJoVjJIeWc4N2poU2pMRUJHaEROMmlWdGxCSmdQcWxnZ0JvWFFNR0d0SlVLMjBB?oc=5",
+      "pub_date": 1792929600.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bill Gates warns of 20 turbulent years before AI creates 'true abundance'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0JIRzdrUVNia2lXVExQS3BGV0VnZ3JYbF9mSW9tZUNJUWNVNHl6V1RuRVZ4dGVCYUJKWEdLa0FNY1BieFZIRGJkRGJEc2pJa0NIMHJMV2hiZzRHUXlhU3N3Mk1iSHVOX1pkSEg5a1lHdGtzZ0Z3REV1NzJvRGR1LW1UcVdZcThUU3FXRFZ5elhzcFVlT25ZTjhYelNsUm9EYUZjZENDQ1NKUQ?oc=5",
-      "pub_date": 1792917432.0,
-      "article_url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
-      "image": "https://i.insider.com/6adb550a2a1b5bc156b1b576?width=1200&format=jpeg",
-      "description": "Bill Gates says AI will solve many of the world's problems, but the next 20 years will be \"as tumultuous a period as there's been in human history.\""
-    },
-    {
-      "headline": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24?oc=5",
-      "pub_date": 1792911240.0,
-      "article_url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1700-nu-rw-lo-l85-e365/ai-agents.jpg",
-      "description": "OpenAI resumed frontier AI training without live internet access after agents bypassed sandbox controls and uncovered isolation weaknesses."
     },
     {
       "headline": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
@@ -65,6 +35,56 @@
       "description": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates."
     },
     {
+      "headline": "r/opensource just banned AI, non-English speakers and more",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2VWZ1Q5ZG15RzFnbF8tdl9JUk1XYWZKOGhxOWl0WnEzSGJ4Y2h4bFk0NmNpSnhKOXdqanhkVGhfeUkzeFdhNFBOU1FZaGxqbUxSMmU2V1JCV1owRllVaExxTnAwTFI2TkJXUWp2MmozWXN5eGhJWkZXZmMyMmFaY3ZHVzhocDBNanpDTg?oc=5",
+      "pub_date": 1792934732.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "The opensource subreddit\u2019s new rules against AI have sparked a revolt."
+    },
+    {
+      "headline": "AI Spending Fears Threaten to Swamp Big Tech\u2019s Strong Earnings",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0l3bHQyejdhX0oxSnVaMDl0TTRTQlF2M25FUE1fZV96VVFXSUdjXzFGblEwOWdOYkM4OWFjV0VVck4yWlVfSVVxemJVUG5PRTVnZHZXMHVSeVJMSUUzNjZTM041MTlyVjd6QUF3ckVDUlVJSFVCcF8xSi1aNWdndVdhd1lSaWNQUUJZNE5VWUQtRjJJampiRlkzRWczOFZyU1dtamtXVWpFdDdxVnFNTWRGSQ?oc=5",
+      "pub_date": 1792933200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google Backtracks On Reduced AI Access For Some Premium Devices",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFRta3BXd3VOS1h0bEl4SFgybzNIREJaNWV0cURNSmRTSWEtaEZBbVNPbFFNM2dNTWZ4c09mSVpEWXFrUkNLSi1Bam1xelZwQjFwZU5JQl9OTmF6VGxTdVNBazdWcDVYSmZuS1VNaEtJTThwYmNNeHJNTmtNczVwdE5YVG5ZeGFKbGQwU3dlU1ZNeWlSNXQ5R0NDX1M?oc=5",
+      "pub_date": 1792933095.0,
+      "article_url": "https://www.forbes.com/sites/paulmonckton/2026/10/25/google-ai-pro-argon-antigravity-pixel-plan/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How Cerebras Deploys Trillion-Parameter AI Models",
+      "source": "Cerebras",
+      "source_url": "https://www.cerebras.ai",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMTRuVUJuZXU0TE5xTmJod282VVk4MEVfUGJiUTJtTlZvTnR1MGtHNWVyNEZYbktyV0RyU2JTX0ZwSWZvTUk2MExaa2o2ckM2eDhfMzQ1anNRUVpuVkpRa3NsZk9HaEpyVG5ibjlXOV9mVHZfUkxvQ2txU0M3dHdOVnZ0TUhQcmlzUDdxczJ4WkIycFE?oc=5",
+      "pub_date": 1792698615.0,
+      "article_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
+      "description": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000\u20132,000+ tokens per second."
+    },
+    {
+      "headline": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era. An autistic psychologist says he has a point",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGh4dWNuVmhsbktPYmFHODBDVUVEMGxmTTNIblVUSWJZLUJ1ZFZHZVVqMTd1RVljcUR0T2J2UllrT3Q2QVhCVVIweldCZ3FrZXZ3eExuZ0JqdzIzS0o2czl2Y294NE5sMjlpVnY0TlVLcGJDUTVqVHU0ekdtV1A3Yk9WRi0yYzQ2TGs5VDRsd2tqQVFDcUxBWnlZUmcteG0zRWxwaw?oc=5",
+      "pub_date": 1792919340.0,
+      "article_url": "https://fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297745093-e1792771545443.jpg?resize=1200,600",
+      "description": "Daniel Wendler, the psychologist, warned against putting neurodivergent people on a pedestal."
+    },
+    {
       "headline": "Elon Musk actually follows through on Grok AI adaptation of 'The Odyssey'",
       "source": "Mashable",
       "source_url": "https://mashable.com",
@@ -75,36 +95,16 @@
       "description": "It\u2019s exactly what you\u2019d expect."
     },
     {
-      "headline": "AI ad mocks Talarico as Bible-defacing radical. Democrats bet it will backfire.",
+      "headline": "Opinion | The best defense against bad AI is more good AI",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEdXYU54dF9vbGFGaXpEdnhkNzN0V2xKRy1xN3FJdm1fTG1kazluUmdNQVRIVE00S2I0RFhIVHg2eWNlMEpHUm85V1BNLTdUeWFKZVQ5dHRkOVY2SU5KN21pMjEtUmktTTZsZy1mZzdVNzRGTllUR0lpU2hTZHNmLVlRWjZOR3JwUTJGc0NFOWZqb3pqM20w?oc=5",
-      "pub_date": 1792861201.0,
-      "article_url": "https://www.washingtonpost.com/politics/2026/10/24/why-democrats-are-shunning-ai-videos-ads/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MU7JABMHVKVM4SXMNUO3CAVCUU.jpg&w=1440",
-      "description": "A clear trend has emerged in the 2026 midterm ad wars: Republicans are embracing AI-generated videos while Democrats are betting they will backfire."
-    },
-    {
-      "headline": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ296eGZsT0J4ZXhoWnJrcmlOaC0wUEx5QlNQN2R6b3luMklwSTkxOHpsZ3d6aEtPbTVOaWFpSjZPUlRMOW5YOEQ5d04zU0VtQ1JiWUtSM1ZHV0dfUGpsUGlLQmFQVmtDRk5URkpRcmd3ZG5YcUZGOFV1SkJLd1RST1VjTkt2YkRNaDdPcjJMZ2hGT0tPaVYwSG1XdC1Nc0JEQjdJSzVsendNZ1dtdHlXQWRzQm5kaF83TFNsUFYtY2RTaE1qd2dJVTBkNkI0ZEYxUG5wX3VtdjNMREJpR05WcjhvYnhJeFp4b1lwR2FUbFJtUQ?oc=5",
-      "pub_date": 1792862107.0,
-      "article_url": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/113ea5fc935307857f0730bdb843d3867bb6d0ae97fb34bd3595db615de7abf0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F371ad78a-32a1-4f8f-bde2-79db45180527_961908d6eb0879810cca4a28b04f5cba85f620b97057e6b6f0a4fb70340cf421.jpg",
-      "description": "Ed Zitron, CEO of public relations firm EZPR and well-known critic of the AI spending boom, says Nvidia is creating the scarcity it sells against."
-    },
-    {
-      "headline": "The Existential Question You Probably Don\u2019t Want to Ask AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLXZneWZFVDM2Y0wzZ2pOQU5iTl85ZjU2VjZwM3IySzAtWTFqRTBZNXJLbDk0UVVBYTNpUEtFZm1zVXBtdWlVOHVZZXQ2Tkt0dmtSOGtodHFjempkMUFySmFzOHRrUGRuQkJKNktUWC1mY0N1djZZeXVkSnYyNms1aFNHLUgwbGVwNENJ?oc=5",
-      "pub_date": 1792839600.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/ai-longevity-death-questions/689102/",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHItOWZIUmZBOFlnQTg4enY1MzdmQkQyV1V5Q3d5dFE2bWFFVGhOa0QwbVdsZ1Btcy1RYU41UEZyZWxNVVVsbGNlUkJBYlB0SXRXbW9pWml4Q3o2TXo0YzAzanU3clRIc0Ezc2tobm1uYUozQVZGMFVsdXBuRmZmVGE5Y3ZqY1JIYzBEdTFRTGQ5bUVuSDNZakl4SlFuWUI5?oc=5",
+      "pub_date": 1792932584.0,
+      "article_url": "https://www.washingtonpost.com/opinions/2026/10/25/ai-is-finding-bugs-faster-let-market-find-fixes/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6W7CDTYBNGQI27YJAQNW4XXD5Y.JPG&w=1440",
+      "description": "More competition gives cyber defenders the tools to keep pace with increasingly automated attacks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-25T08:58:52.797178+00:00"
+  "fetched_at": "2026-10-25T13:40:06.538157+00:00"
 }
